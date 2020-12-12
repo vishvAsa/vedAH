@@ -1,0 +1,19 @@
+baseURL = "https://vvasuki.github.io/purANam/"
+languageCode = "en-us"
+title = "पुराणे विश्वासटिप्पणयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/purANam/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/purANam/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe= true
