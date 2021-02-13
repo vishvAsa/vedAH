@@ -1,6 +1,6 @@
 baseURL = "https://vvasuki.github.io/vedAH/"
 languageCode = "en-us"
-title = "वेदे विश्वासटिप्पण्यः"
+title = "वेदे विश्वासटिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
