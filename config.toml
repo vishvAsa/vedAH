@@ -6,7 +6,7 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/vedAH/edit/master/content/"
+  githubEditMePathBase = "https://github.com/vvasuki/vedAH/edit/content/"
   contactLink = "https://github.com/vvasuki/vedAH/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
