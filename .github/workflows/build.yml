@@ -12,6 +12,7 @@ on:
 
 jobs:
   check:
+    runs-on: ubuntu-latest
     steps:
     - name: Get changed files
       id: changed-files
