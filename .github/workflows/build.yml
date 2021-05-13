@@ -11,10 +11,20 @@ on:
         default: 'warning'
 
 jobs:
+  check:
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v5.3
+    - name: List all_changed_files
+      run: |
+        echo "${{ steps.changed-files.outputs.all_changed_files }}"
   transform:
+    needs: check
     runs-on: ubuntu-latest
-
+    if: needs.check.outputs.steps.changed-files.outputs.all_changed_files != 'content'
     steps:
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v3.x
     - name: Checkout
       uses: actions/checkout@master
       with:
