@@ -28,7 +28,7 @@ jobs:
       uses: jitterbit/get-changed-files@v1
     - name: Update submodules
       id: update_submods
-      if: ${{ github.event_name != 'pull_request'}} && steps.changed-files.outputs.all != 'content'
+      if: ${{ github.event_name != 'pull_request'}} && ${{ steps.changed-files.outputs.all != 'content'}}
       run: |
         set -o xtrace
         git submodule update --init --recursive
