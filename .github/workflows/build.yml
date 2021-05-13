@@ -16,42 +16,42 @@ jobs:
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v3.x
-    - name: Get changed files
-      id: changed-files
-      uses: tj-actions/changed-files@v5.3
-    - name: List all_changed_files
-      run: |
-        echo "${{ steps.changed-files.outputs.all_changed_files }}"
     - name: Checkout
       id: checkout
-      if: steps.changed-files.outputs.all_changed_files != 'content'
       uses: actions/checkout@master
       with:
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v5.3
     - name: Update submodules
+      id: update_submods
       if: ${{ github.event_name != 'pull_request'}} && steps.checkout.conclusion == 'success'
       run: |
         set -o xtrace
         git submodule update --init --recursive
         git submodule update --remote --merge --recursive
     - name: Setup Hugo
-      if: steps.checkout.conclusion == 'success'
+      id: setup_hugo
+      if: steps.update_submods.conclusion == 'success'
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: "0.72.0"
         # extended: true
       # Step 3 - Clean and don't fail
     - name: Clean build_github directory
-      if: steps.checkout.conclusion == 'success'
+      id: clean_build
+      if: steps.setup_hugo.conclusion == 'success'
       run: rm -rf build_github
     - name: Build hugo site pages
-      if: steps.checkout.conclusion == 'success'
+      id: hugo_build
+      if: steps.clean_build.conclusion == 'success'
       run: |
         hugo
     - name: Deploy
-      if: ${{ github.event_name != 'pull_request'}} and && steps.checkout.conclusion == 'success'
+      if: ${{ github.event_name != 'pull_request'}} and && steps.hugo_build.conclusion == 'success'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
