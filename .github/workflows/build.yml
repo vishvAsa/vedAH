@@ -31,6 +31,7 @@ jobs:
       if: ${{ github.event_name != 'pull_request'}} && ${{ steps.changed-files.outputs.all != 'content'}}
       run: |
         set -o xtrace
+        echo "=====${{ steps.changed-files.outputs.all}}======"
         git submodule update --init --recursive
         git submodule update --remote --merge --recursive
     - name: Setup Hugo
