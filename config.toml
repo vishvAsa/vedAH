@@ -18,3 +18,13 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
   unsafe= true
+
+  [module]
+
+  [[module.mounts]]
+  source = "../vedAH-content"
+  target = "content"
+
+[[module.mounts]]
+  source = "../vedAH-static"
+  target = "static"
