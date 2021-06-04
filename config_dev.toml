@@ -1,0 +1,31 @@
+baseURL = "https://vvasuki.github.io/vedAH/"
+languageCode = "en-us"
+title = "वेदे विश्वासटिप्पन्यः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/vedAH/edit/content/"
+  contactLink = "https://github.com/vvasuki/vedAH/issues/new"
+  fullSearchURL = "/full_search"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[module]
+
+  [[module.mounts]]
+    source = "../vedAH-content"
+    target = "content"
+
+  [[module.mounts]]
+    source = "../vedAH-static"
+    target = "static"
+
