@@ -11,3 +11,5 @@
 	path = static
 	url = https://github.com/vishvAsa/vedAH.git
 	branch = static_files
+	update = merge
+
