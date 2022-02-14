@@ -5,6 +5,8 @@ contents:
   - url: recdir://
   - title: ऋग्वेदः
     url: ../vedAH_Rk/
+  - title: यजुर्वेदः
+    url: ../vedAH_yajuH/
   - title: सङ्ग्रहान्तरम्
     contents:
       - title: ज्यौतिषम्
