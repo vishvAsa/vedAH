@@ -2,6 +2,6 @@
 title = "07 अथाप्लवनम्"
 
 +++
-7. [^7] Now the bath (which is taken at the end of studentship, will be described).
+7. [^fn_304] Now the bath (which is taken at the end of studentship, will be described).
 
-[^7]: 7 seqq. Comp. Khādira-Gṛhya III, 1, 1 seqq.
+[^fn_304]: 7 seqq. Comp. Khādira-Gr̥hya III, 1, 1 seqq.
