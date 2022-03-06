@@ -1,9 +1,0 @@
-+++
-title = "17 दक्षिणेन पाणिना कृत्यमनादेशे"
-
-+++
-17 [^17-18]. There the Brahman is (present as) officiating priest, with the exception of the morning and evening oblations.
-
-[^17-18]: 17, 18 = I. 9, 8. 9.
-
-[^p. 376]
