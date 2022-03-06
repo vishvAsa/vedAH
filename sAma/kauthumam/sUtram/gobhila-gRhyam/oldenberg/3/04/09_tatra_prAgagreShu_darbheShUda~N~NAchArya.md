@@ -3,3 +3,5 @@ title = "09 तत्र प्रागग्रेषु दर्भेषू
 
 +++
 9. There the teacher sits down, facing the north, on eastward-pointed Darbha grass;
+
+[^p. 83]
