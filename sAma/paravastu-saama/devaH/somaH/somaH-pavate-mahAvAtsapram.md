@@ -1,28 +1,77 @@
 ---
-title: सोमः पवते - महावात्सप्रम्  
-unicode_script: devanagari  
+title: सोमः पवते - महावात्सप्रम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md">
+<details open><summary><h3>41_0527 सोमः पवते ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-2_0944_brahmA_devAnAm.md"  newLevelForH1="3" includeTitle="false"> </div>  
+सो꣡मः꣢ पवते जनि꣣ता꣡ म꣢ती꣣नां꣡ ज꣢नि꣣ता꣢ दि꣣वो꣡ ज꣢नि꣣ता꣡ पृ꣢थि꣣व्याः꣢। ज꣣निता꣡ग्नेर्ज꣢꣯नि꣣ता꣡ सूर्य꣢꣯स्य जनि꣣ते꣡न्द्र꣢स्य जनि꣣तो꣡त विष्णोः꣢꣯ ॥ 41:0527 ॥
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-3_0945_prAvIvipadvAcha_Urmim.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+सोमः॑ पवते +++(=पात्रेषु क्षरति)+++ जनि॒ता म॑ती॒नां  
+ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः ।  
+ज॒नि॒ताग्नेर् ज॑नि॒ता सूर्य॑स्य  
++++(द्युः, पृथिवी, पृथिव्या ज्योतिः, दिवो ज्योतिर् इति चारु क्रमः!)+++  
+जनि॒तेन्द्र॑स्य जनि॒तोत विष्णोः॑ ५  
++++(इत्थं पवमानस्य सोमस्य महज्जनकता प्रोक्ता!)+++
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-2_0944_brahmA_devAnAm.md">
+<details open><summary><h3>19-2_0944 ब्रह्मा देवानाम् ...{Loading}...</h3></summary>
+
+ब्र꣣ह्मा꣢ दे꣣वा꣡नां꣢ पद꣣वीः꣡ क꣢वी꣣ना꣢꣫मृषि꣣र्वि꣡प्रा꣢णां महि꣣षो꣢ मृ꣣गा꣡णा꣢म्। श्ये꣣नो꣡ गृध्रा꣢꣯णा꣣ꣳ स्व꣡धि꣢ति꣣र्व꣡ना꣢ना꣣ꣳ सो꣡मः꣢ प꣣वि꣢त्र꣣म꣡त्ये꣢ति꣣ रे꣡भ꣢न् ॥ 19-2:0944 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/06_brahmA_devAnAM.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+ब्र॒ह्मा दे॒वानां॑, पद॒वीः+++(=पद्धति-कृत्)+++ क॑वी॒नाम्  
+ऋषि॒र्विप्रा॑णां महि॒षो मृ॒गाणा॑म् ।  
+श्ये॒नो गृध्रा॑णां॒ स्वधि॑ति॒र् +++(=परशुः/ वज्रः)+++ वना॑नां॒ +++(=हिंसकानां)+++  
++++(ब्रह्मा, कवयः, ऋषयः इति चारु क्रमः। महिषः, श्योनः, वना इत्यपि। वज्रो वै स्वधितिः इति श्रुतौ दृश्यते।)+++  
+सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् +++(=शब्दायमानः)+++ ६  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/3/1/19-3_0945_prAvIvipadvAcha_Urmim.md">
+<details open><summary><h3>19-3_0945 प्रावीविपद्वाच ऊर्मिम् ...{Loading}...</h3></summary>
+
+प्रा꣡वी꣢विपद्वा꣣च꣢ ऊ꣣र्मिं꣢꣫ न सिन्धु꣣र्गि꣢र꣣ स्तो꣢मा꣣न्प꣡व꣢मानो मनी꣣षाः꣢। अ꣣न्तः꣡ पश्य꣢꣯न्वृ꣣ज꣢ने꣣मा꣡व꣢रा꣣ण्या꣡ ति꣢ष्ठति वृष꣣भो꣡ गोषु꣢꣯ जा꣡न꣢न् ॥ 19-3:0945 ॥ ॥19 (फू)॥ [धा. 30 । उ 2 । स्व. 6 ।]
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/07_prAvIvipadvAcha_UrmiM.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+प्रावी॑विपद् +++(=प्रावेपयत् / प्रेरयत्)+++ वा॒च ऊ॒र्मिं न सिन्धु॒र्  
+गिरः॒ सोमः॒+++(सामवेदे भेदोऽत्र)+++ पव॑मानो मनी॒षाः +++(=हृदयङ्गमाः)+++ ।  
+अ॒न्तः पश्य॑न् वृ॒जना॑+++(=बलानि)++++इ॒माऽव॑रा॒ण्य्  
+आति॑ष्ठति वृष॒भो गोषु॑ जा॒नन् ७  
+</details>
+</div>
+</details>
+</div>  
 
 
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956296000)।
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume3SatyavrataSamasrami1876bis_201804/page/n590)।
-- <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+- <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvAtsapram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvAtsapram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvAtsapram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/mahAvAtsapram.mp3"></div>
 
 

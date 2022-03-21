@@ -1,10 +1,9 @@
 ---
+practice_weight: 0
 title: सुरूपकृत्नम्
 unicode_script: devanagari
 
-practice_weight: 0
 ---
-
 ## ऋक्
 ऋग्वेदः  १.४.१  
 ऋषिः  मधुच्छंदा वैश्वामित्रः  
@@ -12,12 +11,29 @@ practice_weight: 0
 छन्दः  गायत्री
 
 ### संहिता
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/16_0160_surUpakRtnumUtaye_sudughAmiva.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/16_0160_surUpakRtnumUtaye_sudughAmiva.md">
+<details open><summary><h3>16_0160 सुरूपकृत्नुमूतये सुदुघामिव ...{Loading}...</h3></summary>
+
+सु꣣रूपकृत्नु꣢मू꣣त꣡ये꣢ सु꣣दु꣡घा꣢मिव गो꣣दु꣡हे꣢। जु꣣हूम꣢सि꣣ द्य꣡वि꣢द्यवि ॥ 16:0160 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/004/01_surUpakRtnumUtaye_sudughAmiva.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+सु॒रू॒प॒कृ॒त्नुम् +++(इन्द्रं)+++ ऊ॒तये॑+++(=रक्षायै)+++  
+सु॒दुघा॑मिव गो॒दुहे॑ ।  
+जु॒हू॒मसि॒ द्यवि॑द्यवि ॥  
+
+</details>
+</div>
+</details>
+</div>  
 
 
 ## साम
 
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/surUpakRtnam.mp3"></div>
 
 रैवतऋषभम् ॥  

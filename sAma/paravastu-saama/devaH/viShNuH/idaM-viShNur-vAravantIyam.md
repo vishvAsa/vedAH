@@ -1,17 +1,16 @@
 ---
+practice_weight: 0
+status: to_memorize
 title: इदं विष्णुर् (वारवन्तीयम्)
 unicode_script: devanagari
 
-status: to_memorize
-practice_weight: 0
 ---
-
 ## ऋक्
-<div class="js_include" url="../../Rk/idaM_viShNur/"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="../../Rk/idaM_viShNur/"></div>
 
 ## साम - वारवन्तीयम्
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/idaM-viShNur-vichakrame-vAravantIyam.mp3"></div>
 
 वारवन्तीयम् ।  
 इ+++([])+++द०विष्णा, औहोहाइ ।  
@@ -43,5 +42,3 @@ practice_weight: 0
 वि+++([])+++चक्रा, अमाइ ।  
 त्रा+++([])+++इधा, नि । दा+++([])+++दा, ईइ, पा,आदा,+++([])+++अं ।  
 स+++([])+++मू,+++([])+++उहो । ढा,+++([])+++अमाअ । स्या,+++([])+++अपा, अअ, औहोवाअ । ए+++([])+++ए ।  सु+++([])+++वॆए  ॥
-
-

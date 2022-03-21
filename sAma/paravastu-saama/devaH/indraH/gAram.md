@@ -1,20 +1,67 @@
 ---
-title: गारम्  
-unicode_script: devanagari  
+title: गारम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 RV.8.2.1a
 
 +++(सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n619/mode/2up&sa=D&ust=1542425956247000) । काण्वः, मेधातिथिः, आङ्गीरसः प्रियमेधः। गायत्री। इन्द्रो देवः।)+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/28_0124_idaM_vaso.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/28_0124_idaM_vaso.md">
+<details open><summary><h3>28_0124 इदं वसो ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-2_0735_nRbhirdhautaH_suto.md"  newLevelForH1="3" includeTitle="false"> </div>  
+इ꣣दं꣡ व꣢सो सु꣣त꣢꣫मन्धः꣣ पि꣢बा꣣ सु꣡पू꣢र्णमु꣣द꣡र꣢म्। अ꣡ना꣢भयिन्ररि꣣मा꣡ ते꣢ ॥ 28:0124 ॥
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-3_0736_tan_te.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/01_idaM_vaso.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+इ॒दं व॑सो सु॒तम् अन्धः॒ +++(=अशनीयम्)+++  
+पिबा॒ सुपू॑र्णम् उ॒दर॑म् ।  
+अन्-आ॑भयिन् ररि॒मा +++(=दद्मः)+++ ते॑ ।।
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-2_0735_nRbhirdhautaH_suto.md">
+<details open><summary><h3>08-2_0735 नृभिर्धौतः सुतो ...{Loading}...</h3></summary>
+
+नृ꣡भि꣢र्धौ꣣तः꣢ सु꣣तो꣢꣫ अश्नै꣣र꣢व्या꣣ वा꣢रैः꣣ प꣡रि꣢पूतः। अ꣢श्वो꣣ न꣢ नि꣣क्तो꣢ न꣣दी꣡षु꣢ ॥ 08-2:0735 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/02_nRbhirdhUtaH_suto.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+नृभि॑र् धू॒तः सु॒तो अश्नै॒र् +++(=अश्मभिः)+++  
+अव्यो॒ +++(=मेषस्य)+++ वारैः॒ +++(=वालैः)+++ परि॑पूतः ।  
+अश्वो॒ न नि॒क्तो +++(=शोधितः)+++ न॒दीषु॑ २  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/2/08-3_0736_tan_te.md">
+<details open><summary><h3>08-3_0736 तन् ते ...{Loading}...</h3></summary>
+
+तं꣢ ते꣣ य꣢वं꣣ य꣢था꣣ गो꣡भिः꣢ स्वा꣣दु꣡म꣢कर्म श्री꣣ण꣡न्तः꣢। इ꣡न्द्र꣢ त्वा꣣स्मिं꣡त्स꣢ध꣣मा꣡दे꣢ ॥ 08-3:0736 ॥ ॥8(थौ)॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/002/03_taM_te.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+तं ते॒ यवं॒ यथा॒ गोभिः॑  
+स्वा॒दुम् अ॑कर्म +++(=अकार्ष्म)+++ श्री॒णन्तः॑  +++(=मिश्रयन्तः)+++।  
+इन्द्र॑ त्वा॒ ऽस्मिन्त् स॑ध॒मादे॑ +++(=सहमदने यज्ञे ([आह्वयामि])+++) ३
+
+</details>
+</div>
+</details>
+</div>  
 
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
@@ -23,13 +70,13 @@ RV.8.2.1a
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956247000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/gAram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/gAram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/gAram.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/gAram.mp3"></div>
 
 गारम् ।।    

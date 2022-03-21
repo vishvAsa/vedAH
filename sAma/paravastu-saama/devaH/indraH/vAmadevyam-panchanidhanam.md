@@ -1,12 +1,28 @@
 ---
 title: वामदेव्यम् पञ्चनिधनम्
 unicode_script: devanagari
----
 
+---
 ## ऋक्
 अधो वर्तमति प्रथमा ऽर्क्। 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/25_0169_kayA_nashchitra.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/2/25_0169_kayA_nashchitra.md">
+<details open><summary><h3>25_0169 कया नश्चित्र ...{Loading}...</h3></summary>
+
+क꣡या꣢ नश्चि꣣त्र꣡ आ भु꣢꣯वदू꣣ती꣢ स꣣दा꣡वृ꣢धः꣣ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 25:0169 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+कया॑ नश्चि॒त्र +++(=चयनीयः)+++ आ भु॑वद्  
+ऊ॒ती +++(=रक्षणम्/ तर्पणम् [तेन])+++ स॒दा-वृ॑धः॒ +++(=वर्धमानः)+++ सखा॑ ।  
+कया॒ शचि॑ष्ठया +++(=प्रज्ञावता)+++ वृ॒ता +++(=वर्तनेन)+++ १
+
+</details>
+</div>
+</details>
+</div>  
 
 
 ## निधनानि ५
@@ -23,7 +39,7 @@ unicode_script: devanagari
   - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n51/mode/2up)
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
-- <div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-panchanidhanam.mp3"></div>
+- <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam-panchanidhanam.mp3"></div>
   - इहियाअ इत्यस्मिन्न् इकारः क्वचिल्लुप्तः, क्वचिद् आकारेण मिश्रित ऐकारं जनयति।
   - शचाइष्ठाआ इत्यस्मिन् ष्ठाकारपूर्व आकारो न श्रूयते।
 

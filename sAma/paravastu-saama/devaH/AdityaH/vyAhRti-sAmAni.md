@@ -1,29 +1,45 @@
 ---
-title: व्याहृतिसामानि  
-unicode_script: devanagari  
+title: व्याहृतिसामानि
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 भूः - स्वर्ज्योतिः। भुवः - स्वर्ज्योतिः। सुवः - स्वर्ज्योतिः। सत्यम् - स्वर्ज्योतिः। पुरुषः - स्वर्ज्योतिः।
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyam_bhargo.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/6/3/10-1_1462_tatsaviturvareNyam_bhargo.md">
+<details open><summary><h3>10-1_1462 तत्सवितुर्वरेण्यम् भर्गो ...{Loading}...</h3></summary>
+
+त꣡त्स꣢वि꣣तु꣡र्वरे꣢꣯ण्यं꣣ भ꣡र्गो꣢ दे꣣व꣡स्य꣢ धीमहि। धि꣢यो꣣ यो꣡ नः꣢ प्रचो꣣द꣡या꣢त् ॥ 10-1:1462 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+तत् सवि॒तुर् वरे॑ण्य+++(णिय)+++म्  
++++(पापादि)+++भर्गो॑+++(=भर्जनम्)+++ दे॒वस्य॑ धीमहि+++(←ध्यै ध्याने / धी आराधने)+++ ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥  
+
++++(सवित्राभ्यनुज्ञातो हि सर्वोपि कर्म करोति। सविता वै प्रसवानामीशे इति ब्राह्मणम् ॥  ऋचस्सामानि यजूंषि । सा हि श्रीरमृता सताम् । सर्वेभ्यो वै वेदेभ्यः सावित्र्यनूच्यते इति च ब्राह्मणम् ।)+++
+
+</details>
+</div>
+</details>
+</div>
 
 
 ## साम
 
 - पारम्परिक-गान-मूलम् [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n1/mode/1up&sa=D&ust=1542425956425000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vyAhRti-sAmAni.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vyAhRti-sAmAni.mp3"></div>
 
 भू+++([प]३)+++हु+++(v)+++,  भू+++([त]३)+++हु+++(v)+++,  {हो+++([त]")+++इ, भू+++([त])+++हु+++(v)+++,}+++([द्विः])+++। ह+++([पौ])+++आ+++(३)+++उवा+++(३--%)+++अ।  

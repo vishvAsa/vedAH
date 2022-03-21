@@ -4,16 +4,77 @@ title = "०१६ सविता"
 +++
 ## अधिसूक्तम्
 
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/016_savitA.md"  newLevelForH1="3" title="अनुक्रमणी (VH)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/016_savitA.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/016_savitA/_index.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/016_savitA/_index.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/016_savitA.md">
+<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+
+सविता  
+१ भृगुः। सविता। त्रिष्टुप्।  
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/016_savitA.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+[Bhṛgu.—sāvitram. trāiṣṭubham.]
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/016_savitA/_index.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+#### Comment
+Not found in Pāipp., but occurs as VS. xxvii. 8, and in TS. (iv. i. 73) and MS. (ii. 12. 5). Used by Kāuś. (59. 18) in a kāmya rite with hymn 2 etc.: see hymn 2; but to it alone seems to belong (so also comm.) the added direction "wakens a Vedic student ⌊found asleep after sunrise (abhyudita)⌋"; since in Vāit. (5. 9), in the agnyādheya ceremony, one awakens with it priests who may have fallen asleep. Both applications seem to imply (as Henry suggests) the reading bodhaya in a.
+
+
+#### Translations
+Translated: Henry, 7, 58; Griffith, i. 335.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/016_savitA/_index.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+A prayer for prosperity
+</details>
+</div>
 
 
 ## ०१ बृहस्पते सवितर्वर्धयैनं
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
+बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय ।  
+संशि॑तं चित् संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
+बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय ।  
+संशि॑तं चित् संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+1. O Brihaspati, Savitar, increase thou him; enlighten him unto great  
+good-fortune; however sharpened, sharpen him further; let all the gods  
+revel after him.
+
+#### Notes
+The other texts make **b** and **c** exchange places; in **a**, they  
+read *savitar* without accent (as does also the comm.; it suits better  
+with the singular verbs that follow), and *bodháya* for *vardháya;* in  
+(our) **b**, they give *vardháya* for *jyotáya* (the comm. *dyotaya*);  
+in (our) **c**, VS.TS. read *saṁtarā́m;* in **d**, MS. inserts *ca* after  
+*víśve*.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/016_savitA/01_bRhaspate_savitarvardhayainaM.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+Increase this man Brihaspati! Illume him, O Savitar, for high and happy fortune. Sharpen him thoroughly though already sharpened: with glad acclaim let all the Gods receive him.
+</details>
+</div>

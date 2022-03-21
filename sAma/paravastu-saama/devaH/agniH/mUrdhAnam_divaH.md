@@ -1,19 +1,33 @@
 ---
 title: मूर्धानं दिवः
-unicode_script: devanagari  
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnan_divo.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/13_0067_mUrdhAnan_divo.md">
+<details open><summary><h3>13_0067 मूर्धानन् दिवो ...{Loading}...</h3></summary>
+
+मू꣣र्धा꣡नं꣢ दि꣣वो꣡ अ꣢र꣣तिं꣡ पृ꣢थि꣣व्या꣡ वै꣢श्वान꣣र꣢मृ꣣त꣢꣫ आ जा꣣त꣢म꣣ग्नि꣢म्। क꣣वि꣢ꣳ स꣣म्रा꣢ज꣣म꣡ति꣢थिं꣣ ज꣡ना꣢नामा꣣स꣢न्नः꣣ पा꣡त्रं꣢ जनयन्त दे꣣वाः꣢ ॥ 13:0067 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+मू॒र्धानं॑ दि॒वो अ॑र॒तिं+++(=गन्तारम्)+++ पृ॑थि॒व्या वै॑श्वान॒रमृ॒त+++(य्)+++ आ जा॒तम॒ग्निम् ।  
+क॒विं स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्+++(=आस्यं)+++ ना पात्रं॑ जनयन्त दे॒वाः ॥
+
+</details>
+</div>
+</details>
+</div>
 
 
 
 ## साम १
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-1.mp3"></div>
 
 मू+++(["पो])+++र्धो+++("%३)+++,हाइ,,नन्+++([गे])+++दा+++(%)+++इवा+++(३)+++ह+++(v)+++।  
@@ -26,13 +40,13 @@ unicode_script: devanagari
 अञ् जना,,या+++([पै]-%-%-४)+++,,न्ता+++([पॄ]")+++अ दा+++(")+++इ,वाङ+++(")+++,ङाहा+++(v)+++ ॥
 
 ## साम २ इहोइहाईइया
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mUrdhAnam-divaH-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mUrdhAnam-divaH-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/mUrdhAnam-divaH-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/mUrdhAnam-divaH-2.mp3"></div>
 
 हो+++(["को]%%३)+++,ऒवा+++(-"३)+++,[अ]इ,  

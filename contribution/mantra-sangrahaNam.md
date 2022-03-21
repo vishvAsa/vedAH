@@ -1,6 +1,7 @@
 +++
 title = "मन्त्र-सङ्ग्रहणम्"
 unicode_script = "devanagari"
+
 +++
 
 ## परिचयः
@@ -16,7 +17,16 @@ unicode_script = "devanagari"
   - तत्रैव +ऋक्संहितायाम् प्रस्तोतव्या विश्वासलेखा। 
   - तत्र स्थापयित्व एकाग्निकाण्डे एवं लिखेत् 
   ```
-  <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md" newLevelForH1="2" includeTitle="false"> </div>
+  <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/23_anRxarA_RjavaH.md">
+<details open><summary><h2>२३ अनृक्षरा ऋजवः ...{Loading}...</h2></summary>
+
+अ॒नृ॒क्ष॒रा+++(=कंटकशर्करादिरहिताः)+++ ऋ॒जव॑स् सन्तु॒ पन्था॒  
+येभि॒स् सखा॑यो॒ यन्ति॑ नो वरे॒यम्+++(=वरणीयं [कन्यायाः पित्रादिकं प्रति])+++ ।  
+सम् अ॑र्य॒मा सं भगो॑ नो+++(=आवाम्, अस्मदो द्वयोश्च इति बहुवचनम्)+++ निनीया॒त्  
+सञ् जा॑स्प॒त्यꣳ+++(=जायापतिभावः)+++ सु॒यम॑म् अस्तु देवाः ।+++(र५)+++  
+
+</details>
+</div>
   ```
   (आदौ /vedAH/ इति योजितम् अवधेयम्)।
 - एवम् प्रत्येकस्या ऋचो योजनात् पूर्वं संहितान्तरे विश्वासप्रस्तुतिर् इति पथि वर्तते वेति परीक्षणीयम्। Atom इत्यस्मिन् Ctrl+Shift+N इति नुदित्वा ऽञ्च्लाक्षरैर् आदिमाक्षरेषु टङ्कितेषु ("anRx" इति यथा ऽत्र) टङ्किते सरलं ज्ञायते ।

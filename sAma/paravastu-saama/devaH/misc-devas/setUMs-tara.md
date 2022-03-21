@@ -1,9 +1,8 @@
 ---
 title: सेतुषाम
-unicode_script: devanagari  
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201803/page/n273) कौथुमभाष्ये। ।])+++
@@ -15,7 +14,14 @@ unicode_script: devanagari
 यो मा॒ ददा॑ति॒ स इदे॒व माऽऽवाः॑ +++(=आवृणोति)+++।  
 अ॒हम् अन्न॒म् अन्न॑म् अ॒दन्त॑म् अद्मि {→अदातारम् अन्नीभूतम्}।  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/2_AraNyArchikaH/09_0594_ahamasmi_prathamajA.md">
+<details open><summary><h3>09_0594 अहमस्मि प्रथमजा ...{Loading}...</h3></summary>
+
+
+अ꣣ह꣡म꣢स्मि प्रथम꣣जा꣢ ऋ꣣त꣢स्य꣣ पू꣡र्वं꣢ दे꣣वे꣡भ्यो꣢ अ꣣मृ꣡त꣢स्य꣣ ना꣡म꣢। यो꣢ मा꣣ द꣡दा꣢ति꣣ स꣢꣫ इदे꣣व꣡मा꣢वद꣣ह꣢꣫मन्न꣣म꣡न्न꣢म꣣द꣡न्त꣢मद्मि ॥ 09:0594 ॥
+
+</details>
+</div>  
 
 ### सस्तोभपाठः
 (सेतूंस् तर, दुस्तरान्। दानेनादानम्।)  
@@ -35,8 +41,8 @@ unicode_script: devanagari
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 
 +++(अत्र दानेना इति श्रूयते।)+++
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/setUMs-tara.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/setUMs-tara.mp3"></div>
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/setUMs-tara.mp3"></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive.org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/setUMs-tara.mp3"></div>
 
 {हा+++([])+++उ} +++(त्रिः)+++  
 {से+++([]%)+++तू+++(३--%)+++ंस् तरा}+++(त्रिः)+++  

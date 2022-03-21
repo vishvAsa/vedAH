@@ -1,9 +1,8 @@
 ---
-title: ऋतुशान्ति-सामानि 
-unicode_script: devanagari  
+title: ऋतुशान्ति-सामानि
+unicode_script: devanagari
 
 ---
-
 ## पारम्परिक-मूलानि
 - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n99/mode/1up)
 - [१९७५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1975#page/n77/mode/2up)
@@ -11,7 +10,7 @@ unicode_script: devanagari
 
 ## ऋक्
 
-<div class="js_include" url="../devaH/indraH/Rk/yad_dyAva/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/Rk/yad_dyAva/"></div>  
 
 
 ## साम
@@ -76,7 +75,7 @@ unicode_script: devanagari
 हा+++([])+++ओवा॥चतुः॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं चतुः॥ना+++([])+++जा, तमष्टरोऒ,दासाइ।ऐ+++([])+++होइ।आ+++([])+++इहि॥एवं चतुः॥ह+++([])+++ओवा॥पंच॥हु+++([])+++वे।ह+++([])+++ओवा॥एवं पंच॥है+++([])+++है हैहोवा॥पंच॥है+++([])+++है हैहोवाअ।ह+++([])+++उवाअ।ऊ+++([])+++उउ॥౽॥
 
 
-<div class="js_include" url="../devaH/indraH/idaM-hi-no-ojasA-ghRtasUktam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/idaM-hi-no-ojasA-ghRtasUktam/"></div>  
 
 ## ऋक्
 
@@ -89,15 +88,71 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" url="/vedAH/hindukaH/misc-devas/yajuH/tat_shaMyoH/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/hindukaH/misc-devas/yajuH/tat_shaMyoH/">
+<details open><summary><h2>तच्छंय्योर् आवृणीमहे ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/01_shanno_mitraH_prArambhe/"  newLevelForH1="2" includeTitle="true"> </div>  
+सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/vidhi-shraddhA/)।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/"  newLevelForH1="2" includeTitle="true"> </div>  
+ॐ +++(फलं)+++ तच् छं॒योर् +++(बार्हस्पत्याद्)+++ आवृ॑णीमहे ।  
++++(देवान्)+++ गा॒तुं +++(=गमयितुं [हवींषि])+++ - य॒ज्ञाय॑, गा॒तुं य॒ज्ञप॑तये ।
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH/"  newLevelForH1="2" includeTitle="true"> </div>  
+दैवी॑ स्व॒स्तिर्॑ अस्तु नः । स्व॒स्तिर् मानु॑षेभ्यः ।  
+ऊ॒र्ध्वं जि॑गातु भेष॒जम् ।  
+शन् नो॑ अस्तु द्वि॒पदे॑ । शं चतु॑ष्पदे ।  
+ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ।  
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/01_shanno_mitraH_prArambhe/">
+<details open><summary><h2>शन्नो मित्रः ...{Loading}...</h2></summary>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../shanno_mitraH"></div>  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/43_0236_taM_vo.md"  newLevelForH1="2" includeTitle="true"> </div>  
+त्वाम् ए॒व प्र॒त्यक्षं॒ ब्रह्म॑ वदिष्यामि ।  
+ऋ॒तव्ँ व॑दिष्यामि। स॒त्यव्ँ व॑दिष्यामि । 
+तन् माम् अ॑वतु । तद् व॒क्तार॑म् अवतु ।  
+अव॑तु॒ माम् । अव॑तु व॒क्तार॑म् ।  
+ओम् शान्ति॒श् शान्ति॒श् शान्तिः॑ ॥
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05/23_sahanAvavatu/">
+<details open><summary><h2>सह नाववतु ...{Loading}...</h2></summary>
+
+स॒ह ना॑व् अवतु ।  
+स॒ह नौ॑ भुनक्तु ।  
+स॒ह वी॒र्यं॑ करवावहै ।  
+ते॒ज॒स्वि ना॒व् अधी॑तम् अस्तु॒,  
+मा वि॑द्विषा॒वहै॑ ।  
+ओं शान्ति॒श् शान्ति॒श् शान्तिः॑ ।। (23)
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/08_bhadraM_karNebhiH.md">
+<details open><summary><h2>०८ भद्रं कर्णेभिः ...{Loading}...</h2></summary>
+
+
+भ॒द्रं कर्णे॑भिः शृणु॒याम॑ देवा  
+भ॒द्रं प॑श्येमा॒क्षभि॒र् यज॑त्राः+++(=यष्टव्याः)+++ ।  
+स्थि॒रैर् अङ्गै॑स् तुष्टु॒वाꣳस॑स्+++(=स्तुवन्तः)+++ त॒नूभि॑र्  
+व्यशे॑म+++(=प्राप्नुयाम)+++ दे॒वहि॑तं॒ यद् आयुः॑॥
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/1/43_0236_taM_vo.md">
+<details open><summary><h2>43_0236 तं वो ...{Loading}...</h2></summary>
+
+तं꣡ वो꣢ द꣣स्म꣡मृ꣢ती꣣ष꣢हं꣣ व꣡सो꣢र्मन्दा꣣न꣡मन्ध꣢꣯सः। अ꣣भि꣢ व꣣त्सं꣡ न स्वस꣢꣯रेषु धे꣣न꣢व꣣ इ꣡न्द्रं꣢ गी꣣र्भि꣡र्न꣢वामहे ॥ 43:0236 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/088/01_taM_vo.md">
+<details open=""><summary><h4>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+
+तं वो॑ द॒स्मम्+++(=दर्शनीयम्)+++ ऋ॑ती॒+++(=बाधक)+++-षहं॒  
+वसो॑र्+++(=निवसतः)+++ मन्दा॒नम्+++(=मोदमानम्)+++ अन्ध॑सः+++(=अन्नस्य)+++ ।  
+अ॒भि व॒त्सं न स्वस॑रेषु+++(=अहस्सु)+++ धे॒नव॒  
+इन्द्रं॑ गी॒र्भिर् न॑वामहे+++(=स्तुमः)+++ ॥
+
+</details>
+</div>
+</details>
+</div>  
 
 
 
@@ -124,7 +179,7 @@ unicode_script: devanagari
 अमां, धा, असाः।आ+++([])+++,अभि।वा+++([])+++त्सं, नास्वा।सारा+++([])+++इ।षू+++([])+++,धॆए, नावाः।आ+++([])+++,अइंद्रां।गा+++([])+++इर्भी, र्नावोवा, अ।मा+++([])+++,हेए॥౽॥
 
 ## ऋक्
-<div class="js_include" url="../devaH/indraH/Rk/mArgIyavam/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/Rk/mArgIyavam/"></div>  
 
 ## साम
 त+++([])+++द्वो, गाया अ।सु+++([])+++ताइ, सचा, अ।पू+++([])+++रू, हु, उता,अअ।आ+++([])+++,होओ।या+++([])+++,सत्वानाइ।शं+++([])+++यत् गा, अवॆ।ना+++([])+++शौ+++([])+++उ।हौ+++([])+++,उहु+++([])+++वोवा+++([])+++।का+++([])+++इनोंहाइ॥౽॥
@@ -219,22 +274,16 @@ unicode_script: devanagari
 
 # पवित्रवर्गः।
 
-<div class="js_include" url="../devaH/jalam/Rk/Apo_hi_ShThA/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/somaH/tarat-sa-mandI/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/somaH/Rk/yaH_pAvamAnIH/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/indraH/eto-nvindram/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/jalam/Rk/Apo_hi_ShThA/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/tarat-sa-mandI/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/somaH/Rk/yaH_pAvamAnIH/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/eto-nvindram/"></div> 
 
 
 इंद्र शुद्धोहिनोरयं। शुद्धो रत्नानि दाशुषे।शुद्धो वृत्राणि जघ्नसे। शुद्धो वाजं शिषासती।
 
 
-<div class="js_include" url="../devaH/misc-devas/somaM-rAjAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/indraH/yata-indra/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/lokAntaram/brahma-jajJNAnam/"  newLevelForH1="2" includeTitle="true"> </div> 
-
-<div class="js_include" url="../devaH/lokAntaram/pavitran-te/"  newLevelForH1="2" includeTitle="true"> </div> 
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/misc-devas/somaM-rAjAnam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/indraH/yata-indra/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/brahma-jajJNAnam/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="../devaH/lokAntaram/pavitran-te/"></div> 

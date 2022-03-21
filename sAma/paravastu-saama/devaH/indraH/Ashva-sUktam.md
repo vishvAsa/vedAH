@@ -1,29 +1,43 @@
 ---
-title: आश्वसूक्तम्  
-unicode_script: devanagari  
+title: आश्वसूक्तम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/26_0122_yadindrAhaM_yathA.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/2/1/26_0122_yadindrAhaM_yathA.md">
+<details open><summary><h3>26_0122 यदिन्द्राहं यथा ...{Loading}...</h3></summary>
+
+य꣡दि꣢न्द्रा꣣हं꣢꣫ यथा꣣ त्व꣡मीशी꣢꣯य꣣ व꣢स्व꣣ ए꣢क꣣ इ꣢त्। स्तो꣣ता꣢ मे꣣ गो꣡स꣢खा स्यात् ॥ 26:0122 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/014/01_yadindrAhaM_yathA.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+यदि॑न्द्रा॒हं यथा॒ त्वमीशी॑य॒ +++(=ईश्वरस्स्याम्)+++ वस्व॒ +++(=धनस्य)+++ एक॒ इत् ।   
+स्तो॒ता मे॒ गोष॑खा स्यात् १  
+
+</details>
+</div>
+</details>
+</div>
 
 शुक्र आहुतः {- स्वर्मयः}+++(नास्त्य् अयम् भागः कौथुमगाने)+++।
 
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956217000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n353), [अत्र](https://archive.org/details/in.ernet.dli.2015.344920/page/n309) च।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/Ashva-sUktam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/Ashva-sUktam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/Ashva-sUktam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/Ashva-sUktam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/Ashva-sUktam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/Ashva-sUktam.mp3"></div>
 
 आ+++(३)+++श्व+++(")+++-सूक्तम् ।  

@@ -1,10 +1,25 @@
 ---
-title: अग्न आयाहि  
-unicode_script: devanagari  
----
+title: अग्न आयाहि
+unicode_script: devanagari
 
+---
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/7/2/07-1_1552_agna_A.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/7/2/07-1_1552_agna_A.md">
+<details open><summary><h3>07-1_1552 अग्न आ ...{Loading}...</h3></summary>
+
+अ꣢ग्न꣣ आ꣡ या꣢ह्य꣣ग्नि꣢भि꣣र्हो꣡ता꣢रं त्वा वृणीमहे। आ꣡ त्वाम꣢꣯नक्तु꣣ प्र꣡य꣢ता ह꣣वि꣡ष्म꣢ती꣣ य꣡जि꣢ष्ठं ब꣣र्हि꣢रा꣣स꣡दे꣢ ॥ 07-1:1552 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/01_agna_A.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+अग्न॒ आ या॑ह्य॒ग्निभि॒र्होता॑रं त्वा वृणीमहे ।  
+आ त्वाम॑नक्तु॒ प्रय॑ता ह॒विष्म॑ती॒ यजि॑ष्ठं ब॒र्हिरा॒सदे॑ ॥
+
+</details>
+</div>
+</details>
+</div>
 
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
@@ -14,13 +29,13 @@ unicode_script: devanagari
 +++(गौतमस्य पर्कः)+++
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956352000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/agna-AyAhi-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/agna-AyAhi-1.mp3"></div>
 
 ओ+++([का]३--%)+++ग्ना+++(३)+++इ। आ+++(["पो])+++या+++(["]--%३)+++ही+++(३)+++इ ।
@@ -34,9 +49,9 @@ unicode_script: devanagari
 +बाआअअर्, औ+++(["])+++हो+++(["]%)+++वा+++(३)+++अ। ही+++([टू]-")+++षी+++(३)+++इ॥
 
 ## साम २
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 (अयाइ इति भागश्युतः) " src="https://archive
+<div caption="रामानुजार्यः 1974 (अयाइ इति भागश्युतः) " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-2.mp3"></div>
 
 आ+++([]%%)+++ग्ना आ+++(%%३)+++या+++(३)+++अहि  
@@ -50,9 +65,9 @@ unicode_script: devanagari
 +++(अत्राजवद् गायति!)+++
 
 ## साम ३
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/agna-AyAhi-3.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/agna-AyAhi-3.mp3"></div>
 
 आ+++([]%%)+++ग्ना, आ+++(%--४)+++या+++(%--३)+++अहिवा+++([]%--३)+++इताया+++([]%--३)+++इ ।  

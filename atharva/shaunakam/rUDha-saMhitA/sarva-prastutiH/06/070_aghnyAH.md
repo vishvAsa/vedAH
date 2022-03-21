@@ -4,30 +4,162 @@ title = "०७० अघ्न्याः"
 +++
 ## अधिसूक्तम्
 
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/070_aghnyAH.md"  newLevelForH1="3" title="अनुक्रमणी (VH)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/070_aghnyAH.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/_index.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/_index.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/070_aghnyAH.md">
+<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+
+अघ्न्याः।  
+१-३ काङ्कायनः। अघ्न्याः। जगती।  
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/070_aghnyAH.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+[Kān̄kāyana.—āghnyam. jāgatam.]
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/_index.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+#### Comment
+Not found in Pāipp. Used by Kāuś. (41. 18) in a rite for producing mutual attachment between cow and calf.
+
+
+#### Translations
+Translated: Grill, 65, 165; Griffith, i. 283; Bloomfield, 144, 493.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/_index.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+A benediction on cow and calf
+</details>
+</div>
 
 
 ## ०१ यथा मांसं
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsaM.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/01_yathA_mAMsaM.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/01_yathA_mAMsaM.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/01_yathA_mAMsaM.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsaM.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+यथा॑ मां॒सं॑ यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने ।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥१॥  
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/01_yathA_mAMsaM.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+यथा॑ मां॒सं॑ यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने ।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥१॥  
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/01_yathA_mAMsaM.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+1. As flesh, as strong-drink, as dice on the gambling-board; as of a  
+lustful man the mind is fastened (*ni-han*) on a woman—-so let thy mind,  
+O inviolable one (*aghnyā́*), be fastened on thy calf.
+
+#### Notes
+The verses are six-pāda *jagatī* (6 × 8 = 48). ⌊The stanza is wrongly  
+numbered.⌋
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/01_yathA_mAMsaM.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+As wine associates with flesh, as dice attend the gaming-board, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upou thy calf.
+</details>
+</div>
 
 
 ## ०२ यथा हस्ती
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/02_yathA_hastI.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/02_yathA_hastI.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/02_yathA_hastI.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥२॥  
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/02_yathA_hastI.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥२॥  
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/02_yathA_hastI.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+2. As the elephant strains foot with foot of the she-elephant; as of a  
+lustful man etc. etc.
+
+#### Notes
+The obscure first line is with intention rendered obscurely; the  
+Petersburg Lexicon conjectures 'hastens after, step with step,' which  
+then Grill follows. The comm. takes *udyujé* as = *unnamayati*, "bends  
+up, for love (*premṇā*), her foot with his foot."
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/02_yathA_hastI.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+As the male elephant pursues with eager step his female's track, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon the calf.
+</details>
+</div>
 
 
 ## ०३ यथा प्रधिर्यथोपधिर्यथा
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
+यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑ ।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥३॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
+यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑ ।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥३॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+3. As the felly (*pradhí*), as the rim (*upadhí*), as the nave upon the  
+felly; as of a lustful man etc. etc.  
+  
+⌊See p. xcii.⌋
+
+#### Notes
+The first line is again obscure, both in its internal relations and in  
+its relation to the refrain (in this resembling 1 **a, b**). BR. define  
+*upadhi* as 'the part of the wheel between the felly and nave,' but this  
+ought to be *arās* 'the spokes': the comm. explains it as 'the circle,  
+bound together by the felly, that is the binder together of the spokes'  
+(*nemisambaddhaḥ arāṇāṁ sambandhako valayaḥ*)—i.e. a sort of rim inside  
+the felly. Probably a solid wheel, without spokes, is had in view. We  
+should expect some other preposition than *adhi* 'on' to express the  
+relation of the nave to the felly.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.
+</details>
+</div>

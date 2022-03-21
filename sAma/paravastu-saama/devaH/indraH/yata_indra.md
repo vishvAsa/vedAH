@@ -1,22 +1,38 @@
 ---
-title: यत इन्द्र भयामहे  
-unicode_script: devanagari  
-
-status: to_memorize
 practice_weight: 0
----
+status: to_memorize
+title: यत इन्द्र भयामहे
+unicode_script: devanagari
 
+---
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/32_0274_yata_indra.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/32_0274_yata_indra.md">
+<details open><summary><h3>32_0274 यत इन्द्र ...{Loading}...</h3></summary>
+
+य꣡त꣢ इन्द्र꣣ भ꣡या꣢महे꣣ त꣡तो꣢ नो꣣ अ꣡भ꣢यं कृधि। म꣡घ꣢वञ्छ꣣ग्धि꣢꣫ तव꣣ त꣡न्न꣢ ऊ꣣त꣢ये꣣ वि꣢꣫ द्विषो꣣ वि꣡ मृधो꣢꣯ जहि ॥ 32:0274 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/061/13_yata_indra.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+यत॑ इन्द्र॒ भया॑महे॒  
+ततो॑ नो॒ अभ॑यं कृधि ।  
+मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तिभि॑र्+++(=रक्षाभिः, ऊ॒तये॒ इति तैत्तिरीयपाठः)+++  
+वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
+
+</details>
+</div>
+</details>
+</div>
 
 
 
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956217000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n353)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yata-indra-bhayAmahe.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yata-indra-bhayAmahe.mp3"></div>
 
 

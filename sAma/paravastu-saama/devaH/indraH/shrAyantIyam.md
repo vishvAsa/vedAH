@@ -1,18 +1,48 @@
 ---
-title: श्रायन्तीयम्  
-unicode_script: devanagari  
+title: श्रायन्तीयम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S.7.4.3; ;S;S.11.13.21; 12.4.19; 16.21.19; Vait.33.6; 40.5; 41.9,10,19; 42.5; L;S.4.6.23; N.6.8a. Cf. Svidh.3.1.12.
 
 +++([सायणो [ऽत्र](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n1039/mode/1up&sa=D&ust=1542425956252000)। नृमेधः। इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/25_0267_shrAyanta_iva.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/3/2/25_0267_shrAyanta_iva.md">
+<details open><summary><h3>25_0267 श्रायन्त इव ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/14-2_1320_alarShirAtiM_vasudAmupa.md"  newLevelForH1="3" includeTitle="false"> </div>  
+श्रा꣡य꣢न्त इव꣣ सू꣢र्यं꣣ वि꣡श्वेदिन्द्र꣢꣯स्य भक्षत। व꣡सू꣢नि जा꣣तो꣡ जनि꣢꣯मा꣣न्यो꣡ज꣢सा꣣ प्र꣡ति꣢ भा꣣गं꣡ न दी꣢꣯धिमः ॥ 25:0267 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/099/03_shrAyanta_iva.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+श्राय॑न्त +++(=श्रयन्तः)+++ +++(रश्मयः)+++ इव सूर्य॑म् विश्वा इत् इन्द्र॑स्य भक्षत।  
+वसू॑नि जा॒ते जन॑माने +++(=जनिष्यमाणे)+++ ओज॑सा प्रति +++(पित्र्यं)+++ भा॒गं न दी॑धिम +++(=धारयेम)+++ ।।  
++++(अन्तिमपादे सामवेदे व्यत्ययः।)+++  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/5/2/14-2_1320_alarShirAtiM_vasudAmupa.md">
+<details open><summary><h3>14-2_1320 अलर्षिरातिं वसुदामुप ...{Loading}...</h3></summary>
+
+अ꣡ल꣢र्षिरातिं वसु꣣दा꣡मुप꣢꣯ स्तुहि भ꣣द्रा꣡ इन्द्र꣢꣯स्य रा꣣त꣡यः꣢। यो꣡ अ꣢स्य꣣ का꣡मं꣢ विध꣣तो꣡ न रोष꣢꣯ति꣣ म꣡नो꣢ दा꣣ना꣡य꣢ चो꣣द꣡य꣢न् ॥ 14-2:1320 ॥ ॥14 (लू)॥ [धा. 19 । उ नास्ति । स्व. 6 ।]
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/099/04_anarsharAtiM_vasudAmupa.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+अन॑र्शरातिं +++(=अपापकदानम्)+++ वसु॒दाम् +++(इन्द्रम्)+++ उप स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः +++(=दानानि)+++ ।  
+सो+++(~~यो~~)+++ अ॑स्य॒ कामं॑ विध॒तो +++(=परिचरतो)+++ न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ।।  
+
+</details>
+</div>
+</details>
+</div>  
 
 
 {{< figure src="/devaH/hindukaH/indraH/images/indra-as-maghavAn-followed-by-people-bearing-wealth-moving-towards-a-yajamAna.png"  class="thumbnail">}}
@@ -21,17 +51,17 @@ RV.8.99.3a; AV;S.20.58.1a; SV.1.267a; 2.669a; VS.33.41a; JB.3.261a; KB.25.6; A;S
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/AASHEERVACHANA%20SAAMAANI.pdf&sa=D&ust=1542425956253000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 (प्र([पो])ति भा(["]--%३) इति पङ्क्तिर् लुप्ता।)" src="https://archive
-.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div ]--%३)="" caption="रामानुजार्यः 1974 (प्र([पो])ति भा([" class="audioEmbed" src="https://archive
+.org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/shrAyantIyam.mp3" इति="" पङ्क्तिर्="" लुप्ता।)"=""></div>
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/shrAyantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/shrAyantIyam.mp3"></div>
 
 श्रा+++(३)+++यन्ती+++(३)+++यम्।  

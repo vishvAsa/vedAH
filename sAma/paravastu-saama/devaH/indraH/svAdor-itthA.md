@@ -1,7 +1,8 @@
 ---
+practice_weight: 0
 title: स्वादोरित्था
 unicode_script: devanagari
-practice_weight: 0
+
 ---
 ## ऋक्
 
@@ -12,7 +13,25 @@ practice_weight: 0
 देवता  इन्द्रः  
 छन्दः  पंक्तिः
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/19_0409_svAdoritthA_viShUvato.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/19_0409_svAdoritthA_viShUvato.md">
+<details open><summary><h3>19_0409 स्वादोरित्था विषूवतो ...{Loading}...</h3></summary>
+
+स्वा꣣दो꣢रि꣣त्था꣡ वि꣢षू꣣व꣢तो꣣ म꣡धोः꣢ पिबन्ति गौ꣣ओयः꣢꣯। या꣡ इन्द्रे꣢꣯ण स꣣या꣡व꣢री꣣र्वृ꣢ष्णा꣣ म꣡द꣢न्ति शो꣣भ꣢था꣣ व꣢स्वी꣣र꣡नु꣢ स्व꣣रा꣡ज्य꣢म् ॥ 19:0409 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/10_svAdoritthA_viShUvato.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+स्वा॒दोरि॒त्था+++(त्थं)+++  वि॑षू॒वतो॒+++(=वि+सू+शतृँ)+++  
+मध्वः॑+++(=मधुरस्य)+++ +++(इन्द्रपीतशेषस्य सोमस्य)+++ पिबन्ति +++(वर्णेन)+++ गौ॒र्यः॑ +++(गावः)+++ ।
+या इन्द्रे॑ण स॒याव॑री॒र्+++(=सह यान्त्यो)+++ +++(काम-)+++वृष्णा॒  
+मद॑न्ति शो॒भसे॒ +++(पयोदानेन)+++ वस्वी॒र्+++(=निवासदात्र्यः)+++ अनु॑ +++(इन्द्रस्य)+++ स्व॒राज्य॑म् ॥  
+
+</details>
+</div>
+</details>
+</div>  
 
 
 ### पदपाठः
@@ -24,7 +43,7 @@ practice_weight: 0
 
 ## साम
 
-<div class="audioEmbed"  caption="गोपालार्यः 2015" src="https://archive
+<div caption="गोपालार्यः 2015" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/svAdor-itthA.mp3"></div>
 
 ऋषभशाक्वरम् ॥  

@@ -1,13 +1,31 @@
 ---
-title: पिब मत्स्व - वैराज-ऋषभम्  
-unicode_script: devanagari  
 practice_weight: 0
----
+title: पिब मत्स्व - वैराज-ऋषभम्
+unicode_script: devanagari
 
+---
 ## ऋक्
 
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/08_0398_pibA_somamindra.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/08_0398_pibA_somamindra.md">
+<details open><summary><h3>08_0398 पिबा सोममिन्द्र ...{Loading}...</h3></summary>
+
+पि꣢बा꣣ सो꣡म꣢मिन्द्र꣣ म꣡न्द꣢तु त्वा꣣ यं꣡ ते꣢ सु꣣षा꣡व꣢ हर्य꣣श्वा꣡द्रिः꣢। सो꣣तु꣢र्बा꣣हु꣢भ्या꣣ꣳ सु꣡य꣢तो꣣ ना꣡र्वा꣢ ॥ 08:0398 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/022/01_pibA_somamindra.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+पिबा॒ सोम॑मिन्द्र॒ मन्द॑तु +++(=मादयतु)+++ त्वा  
+यं ते॑ सु॒षाव॑ हर्य॒श्व+अद्रिः॑।  
+सो॒तुर् +++(=सवकस्य)+++ बा॒हुभ्यां॒ सु-य॑तो॒ +++(अद्रिः)+++ न+अर्वा॑ +++(=अश्वः)+++ ।।
+
+
+</details>
+</div>
+</details>
+</div>  
 
 ## साम
 
@@ -15,7 +33,7 @@ practice_weight: 0
 
 - कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n449)।
 
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/piba-somam-vairAja-RShabha.mp3"></div>
 
 वैराजऋषभम् ॥  

@@ -1,14 +1,29 @@
 ---
 title: जराबोधीयम्
-unicode_script: devanagari  
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n151) कौथुमभाष्ये। शुनशेपः। अग्निः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/8/2/03-1_1663_jarAbodha_tadviviDDhi.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/8/2/03-1_1663_jarAbodha_tadviviDDhi.md">
+<details open><summary><h3>03-1_1663 जराबोध तद्विविड्ढि ...{Loading}...</h3></summary>
+
+ज꣡रा꣢बोध꣣ त꣡द्वि꣢विड्ढि वि꣣शे꣡वि꣢शे य꣣ज्ञि꣡या꣢य। स्तो꣡म꣢ꣳ रु꣣द्रा꣡य꣢ दृशी꣣क꣢म् ॥ 03-1:1663 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/027/10_jarAbodha_tadviviDDhi.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+जरा॑+++(=स्तुति)+++बोध॒ तद्वि॑विड्ढि+++(=प्रविश)+++  
+वि॒शेवि॑शे य॒ज्ञिया॑य ।  
+स्तोमं॑+++(=स्तोत्रं)+++ रु॒द्राय॒+++(ते)+++ दृशी॑कम्+++(=दर्शनीयम्)+++ ॥
+
+</details>
+</div>
+</details>
+</div>
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-giving-abhaya-to-Rtvik-or-yajamAna.png"  class="thumbnail">}}
 
@@ -16,13 +31,13 @@ unicode_script: devanagari
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n7/mode/1up)।
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/jarAbodha.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/jarAbodha.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/jarAbodha.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/jarAbodha.mp3"></div>
 
 जराबोधिय्यम् ।  

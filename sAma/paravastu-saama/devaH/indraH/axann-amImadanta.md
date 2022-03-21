@@ -1,9 +1,9 @@
 ---
+practice_weight: 0
 title: अक्षन्नमीमदन्त
 unicode_script: devanagari
-practice_weight: 0
----
 
+---
 ## ऋक्
 "devata" : "इन्द्रः",  
 "rishi" : "गोतमो राहूगणः",  
@@ -11,11 +11,27 @@ practice_weight: 0
 
 1.1.4.7.7
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/26_0415_axannamImadanta_hyava.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/1/26_0415_axannamImadanta_hyava.md">
+<details open><summary><h3>26_0415 अक्षन्नमीमदन्त ह्यव ...{Loading}...</h3></summary>
+
+अ꣢क्ष꣣न्नमी꣢मदन्त꣣ ह्यव꣢ प्रि꣣या अ꣢धूषत। अस्तो꣢षत꣣ स्वभा꣢नवो꣣ विप्रा꣣ नवि꣢ष्ठया म꣣ती꣢꣫ योजा꣣꣬ न्वि꣢꣯न्द्र ते꣣ हरी꣢ ॥ 26:0415 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+अक्ष॒न्न्+++(=भुक्तवन्तः)+++, अमी॑मदन्त॒ ह्यव॑ प्रि॒या अ॑धूषत+++(=अकम्पयन् [=वक्तुम् अशक्नुवन्])+++ ।  
+अस्तो॑षत॒+++(=अस्तुवन्)+++ स्वभा॑नवो॒ विप्रा॒   
+नवि॑ष्ठया म॒ती+++(त्या)+++, +++(अतो रथे)+++ योजा॒+++(=योजय)+++ न्वि॑न्द्र ते॒ हरी॑ ॥  
+
+</details>
+</div>
+</details>
+</div>  
 
 ## साम
 
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/axann-amImadanta.mp3"></div>
 
 अ+++([])+++क्षन्नामिइ , मादाअ । ता+++([])+++,हीइ । आ+++([])+++अ । व+++([])+++प्रियाआ, धूउ ।

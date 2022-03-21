@@ -1,9 +1,7 @@
 ---
-title: महावात्सप्रम्  
-unicode_script: devanagari  
+title: महावात्सप्रम्
+unicode_script: devanagari
 
 ---
-
-<div class="js_include" url="../somaH-pavate-mahAvAtsapram/"  newLevelForH1="3" includeTitle="true"> </div> 
-
-<div class="js_include" url="../purojitI-vo-mahAvAtsapram/"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../somaH-pavate-mahAvAtsapram/"></div>
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../purojitI-vo-mahAvAtsapram/"></div> 

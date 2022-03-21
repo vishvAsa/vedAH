@@ -1,26 +1,41 @@
 ---
 title: वारवन्तीयम्
-unicode_script: devanagari  
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 सायणः कौथुमभाष्ये [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n155)। शुनःशेपः। अग्निः।
 
 १ १ १ ०२०७  
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvan_na.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/17_0017_ashvan_na.md">
+<details open><summary><h3>17_0017 अश्वन् न ...{Loading}...</h3></summary>
+
+अ꣢श्वं꣣ न꣢ त्वा꣣ वा꣡र꣢वन्तं व꣣न्द꣡ध्या꣢ अ꣣ग्निं꣡ नमो꣢꣯भिः। स꣣म्रा꣡ज꣢न्तमध्व꣣रा꣡णा꣢म् ॥ 17:0017 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/027/01_ashvaM_na.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+अश्वं॒ न त्वा॒ वार॑+++(=ल)+++वन्तं  
+व॒न्दध्या॑+++(=वन्दितुम्)+++ अ॒ग्निं नमो॑भिः ।  
+स॒म्राज॑न्तमध्व॒राणा॑म्  +++(प्रवृत्ताः)+++ ॥
+
+</details>
+</div>
+</details>
+</div>  
 
 {{< figure src="/devaH/hindukaH/agniH/images/agni-on-a-ram-drawn-charriot-speeding-towards-the-vedI.jpg"  class="thumbnail">}}
 
 
 ## साम १
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAravantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAravantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vAravantIyam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/vAravantIyam.mp3"></div>
 
 वारवन्ती+++(३ ~~न्ति~~)+++यम् ।  

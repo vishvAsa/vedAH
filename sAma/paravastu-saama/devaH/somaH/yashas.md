@@ -1,9 +1,8 @@
 ---
-title: यशस्  
-unicode_script: devanagari  
+title: यशस्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 RV.7.32.16
@@ -20,9 +19,42 @@ RV.7.32.16
 
 +++(यशो वर्चो अस्मिन्!)+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/25_0511_punAnaH_soma.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/25_0511_punAnaH_soma.md">
+<details open><summary><h3>25_0511 पुनानः सोम ...{Loading}...</h3></summary>
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/09-2_0676_duhAna_Udhardivyam.md"  newLevelForH1="3" includeTitle="false"> </div>  
+पु꣣नानः꣡ सो꣢म꣣ धा꣡र꣢या꣣पो꣡ वसा꣢꣯नो अर्षसि। आ꣡ र꣢त्न꣣धा꣡ योनि꣢꣯मृ꣣त꣡स्य꣢ सीद꣣स्युत्सो꣢ दे꣣वो꣡ हि꣢र꣣ण्य꣡यः꣢ ॥ 25:0511 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/04_punAnaH_soma.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+
+पु॒ना॒नः सो॑म॒ धार॑या॒ ऽपो वसा॑नो अर्षसि  +++(= पवित्रं गच्छसि)+++।
+
+आ र॑त्न॒धा योनि॑मृ॒तस्य॑ सीद॒स्युत्सो॑ +++(=प्रस्यन्दनशीलः)+++ देव हिर॒ण्ययः॑ ४  
+
+</details>
+</div>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/09-2_0676_duhAna_Udhardivyam.md">
+<details open><summary><h3>09-2_0676 दुहान ऊधर्दिव्यम् ...{Loading}...</h3></summary>
+
+दु꣣हान꣡ ऊध꣢꣯र्दि꣣व्यं꣡ मधु꣢꣯ प्रि꣣यं꣢ प्र꣣त्न꣢ꣳ स꣣ध꣢स्थ꣣मा꣡स꣢दत्। आ꣣पृ꣡च्छ्यं꣢ ध꣣रु꣡णं꣢ वा꣣꣬ज्य꣢꣯र्षसि꣣ नृ꣡भि꣢र्धौ꣣तो꣡ वि꣢चक्ष꣣णः꣢ ॥ 09-2:0676 ॥ ॥9(लु)॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/107/05_duhAna_UdhardivyaM.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+दु॒हा॒न ऊध॑र्दि॒व्यं मधु॑ प्रि॒यं प्र॒त्नं +++(=पुरातनम्)+++ स॒धस्थ॒मास॑दत् +++(=स्थानमासदत्)+++ ।
+
+आ॒पृच्छ्यं॑ ध॒रुणं॑ +++(=धारयितारम्)+++ वा॒ज्य॑र्षति॒ +++(=सोमो ऽभियाति)+++  
+नृभि॑र् धू॒तो +++(=शोधितः)+++ वि॑चक्ष॒णः ५  
+
+</details>
+</div>
+</details>
+</div>  
 
 +++(यशो वर्चो अस्मिन्!)+++  
 +++(आयुर्, विश्वायुर्, विश्वम् आयुर् असि! महि प्रजां त्वष्टः! राधनिधे! ह्य् अस्मै। शतं जीवेम शरदो वयन् ते।)+++
@@ -33,13 +65,13 @@ RV.7.32.16
 ## साम
 
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI%23mode/1up&sa=D&ust=1542425956204000)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 [नृभिर्धौऊतो विचक्षणः इत्यत्र व्यत्यासः]" src="https://archive
+<div caption="रामानुजार्यः 1974 [नृभिर्धौऊतो विचक्षणः इत्यत्र व्यत्यासः]" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/yashas.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/yashas.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/yashas.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/yashas.mp3"></div>
 
 यशस्अ+++(३)+++।

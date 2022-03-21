@@ -1,16 +1,30 @@
 ---
-title: आ वो राजानम्  
-unicode_script: devanagari  
+title: आ वो राजानम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 १ १ २ ०७०७
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। वामदेवः।अग्निः])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/2/15_0069_A_vo.md">
+<details open><summary><h3>15_0069 आ वो ...{Loading}...</h3></summary>
+
+आ꣢ वो꣣ रा꣡जा꣢नमध्व꣣र꣡स्य꣢ रु꣣द्र꣡ꣳ होता꣢꣯रꣳ सत्य꣣य꣢ज꣣ꣳ रो꣡द꣢स्योः। अ꣣ग्निं꣢ पु꣣रा꣡ त꣢नयि꣣त्नो꣢र꣣चि꣢त्ता꣣द्धि꣡र꣢ण्यरूप꣣म꣡व꣢से कृणुध्वम् ॥ 15:0069 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+आ वो॒ राजा॑नमध्व॒रस्य॑ रु॒द्रं होता॑रं सत्य॒यजं॒ रोद॑स्योः ।  
+अ॒ग्निं पु॒रा त॑नयि॒त्नोर॒चित्ता॒द्धिर॑ण्यरूप॒मव॑से कृणुध्वम् ॥
+
+</details>
+</div>
+</details>
+</div>
 
 आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः  ।  
 अग्निं पुरा तनयित्नोर् अचित्ताद् +हिरण्यरूपम् अवसे कृणुध्वम्  ।  
@@ -20,13 +34,13 @@ unicode_script: devanagari
 ## साम
 
 - [पारम्परिकगानमूलम् - [१९३७](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/sAmaveda-paravastu-1937#page/n15/mode/1up), [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/A-vo-rAjAnam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/A-vo-rAjAnam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/A-vo-rAjAnam.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/A-vo-rAjAnam.mp3"></div>
 
 

@@ -1,12 +1,30 @@
 ---
-title: सोमः पवते  
-unicode_script: devanagari  
-
 practice_weight: 0
----
+title: सोमः पवते
+unicode_script: devanagari
 
+---
 ## ऋक्
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/6/1/41_0527_somaH_pavate.md">
+<details open><summary><h3>41_0527 सोमः पवते ...{Loading}...</h3></summary>
+
+सो꣡मः꣢ पवते जनि꣣ता꣡ म꣢ती꣣नां꣡ ज꣢नि꣣ता꣢ दि꣣वो꣡ ज꣢नि꣣ता꣡ पृ꣢थि꣣व्याः꣢। ज꣣निता꣡ग्नेर्ज꣢꣯नि꣣ता꣡ सूर्य꣢꣯स्य जनि꣣ते꣡न्द्र꣢स्य जनि꣣तो꣡त विष्णोः꣢꣯ ॥ 41:0527 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/096/05_somaH_pavate.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+सोमः॑ पवते +++(=पात्रेषु क्षरति)+++ जनि॒ता म॑ती॒नां  
+ज॑नि॒ता दि॒वो ज॑नि॒ता पृ॑थि॒व्याः ।  
+ज॒नि॒ताग्नेर् ज॑नि॒ता सूर्य॑स्य  
++++(द्युः, पृथिवी, पृथिव्या ज्योतिः, दिवो ज्योतिर् इति चारु क्रमः!)+++  
+जनि॒तेन्द्र॑स्य जनि॒तोत विष्णोः॑ ५  
++++(इत्थं पवमानस्य सोमस्य महज्जनकता प्रोक्ता!)+++
+
+</details>
+</div>
+</details>
+</div>  
 
 ## साम १
 - पारम्परिक-गान-मूलम्
@@ -15,9 +33,9 @@ practice_weight: 0
   - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/proxaNa-sAmAni#page/n3/mode/2up)
 
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/somaH-pavate-1.mp3"></div>
 
 सो+++([])+++मः पवतॆ जनिता,  
@@ -29,9 +47,9 @@ practice_weight: 0
 
 ## साम २
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/somaH-pavate-2.mp3"></div>
 
 सो+++([])+++मः, पवतॆऎ, जनीताअ ।  
@@ -46,9 +64,9 @@ practice_weight: 0
 
 ## साम ३
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-3.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/somaH-pavate-3.mp3"></div>
 
 जनित्रम्।  
@@ -67,9 +85,9 @@ practice_weight: 0
 
 ## साम ४
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/somaH-pavate-4.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/somaH-pavate-4.mp3"></div>
 
 ज+++([])+++नद्धाउ॥त्रिः॥  

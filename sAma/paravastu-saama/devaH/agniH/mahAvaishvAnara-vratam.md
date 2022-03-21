@@ -1,9 +1,8 @@
 ---
-title: महावैश्वानरव्रतम्  
-unicode_script: devanagari  
+title: महावैश्वानरव्रतम्
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
@@ -16,7 +15,36 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 (इन्दुर् इडा सत्यम्)  
 
 (ईहस्व…)
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/1/1/53_0053_kAyamAno_vanA.md">
+<details open><summary><h3>53_0053 कायमानो वना ...{Loading}...</h3></summary>
+
+का꣡य꣢मानो व꣣ना꣢꣫ त्वं यन्मा꣣तृ꣡रज꣢꣯गन्न꣣पः꣢। न꣡ तत्ते꣢꣯ अग्ने प्र꣣मृ꣡षे꣢ नि꣣व꣡र्त꣢नं꣣ य꣢द्दू꣣रे꣢꣫ सन्नि꣣हा꣡भुवः꣢ ॥ 53:0053 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/009/02_kAyamAno_vanA.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+काय॑मानो +++(=कामयमानो)+++ व॒ना +++(=वनान्)+++ त्वं  
+(ईहस्व… द्यौर् भूतम् पृथिवी)  
+
+(ईहस्व…)
+यन् मा॒तॄर् अज॑गन्न् अ॒पः +++(वृष्ट्योपशाम्यन्)+++।  
+(ईहस्व… सहस् तेज आपः)  
+
+(ईहस्व…)
+न तत् +++(=तस्मात्)+++ ते अग्ने प्र॒मृषे॑ +++(=प्रमृष्यते ऽस्माभिः)+++ नि॒वर्त॑नं +++(=नितरां वर्तनम्)+++  
+(ईहस्व… उषा दिशो ज्योतिः)  
+
+(ईहस्व…)
+यद् दू॒रे सन् इ॒ह +++(=अरण्योः)+++ +अभ॑वः+++(भुवः इति साम्नि)+++ ।।  
+(ईहस्व… ओम् आयुर् ज्योतिः)
+
+(घर्मो मरुद्भिर्भुवनेषु चक्रदात्।)
+
+</details>
+</div>
+</details>
+</div>  
 
 {{< figure src="/devaH/hindukaH/agniH/images/forest-fire.jpg"  class="thumbnail">}}
 {{< figure src="/devaH/hindukaH/agniH/images/lightning.jpg"  class="thumbnail">}}
@@ -27,13 +55,13 @@ RV.3.9.2a; SV.1.53a; N.4.14a; M;S.3.8.1a.
 - पारम्परिक-गान-मूलम् [अत्र](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/AASHEERVACHANA%20SAAMAANI#page/n7/mode/1up&sa=D&ust=1542425956368000)। कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n521&sa=D&ust=1542425956368000)।
 - कौथुम-गानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n521)।
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/mahAvaishvAnaravratam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/mahAvaishvAnaravratam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/mahAvaishvAnaravratam.mp3"></div>
-<div class="audioEmbed"  caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" src="https://archive
+<div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/mahAvaishvAnaravratam.mp3"></div>
 
 महावैश्वानरव्रतम्।

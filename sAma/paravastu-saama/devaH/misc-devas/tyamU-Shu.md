@@ -1,16 +1,37 @@
 ---
-title: त्यमू षु
 devatAH: तार्क्ष्यः
-unicode_script: devanagari  
----
+title: त्यमू षु
+unicode_script: devanagari
 
+---
 ## ऋक्
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n735) कौथुमभाष्ये। तार्क्ष्यपुत्रो ऽरिष्टनेमिः। ।])+++
 
 १ ४ १ ०५०१  
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/40_0332_tyamU_Shu.md"  newLevelForH1="3" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/4/1/40_0332_tyamU_Shu.md">
+<details open><summary><h3>40_0332 त्यमू षु ...{Loading}...</h3></summary>
+
+
+त्य꣢मू꣣ षु꣢ वा꣣जि꣡नं꣢ दे꣣व꣡जू꣢तᳱ  
+सहो꣣वा꣡नं꣢+++(→ऋचि सहावानं)+++ तरु꣢ता꣢र꣣ᳱ र꣡था꣢नाम्म् ।  
+अ꣡रि꣢ष्ट-नेमिं पृत꣣ना꣡ऽज꣢मा꣢शु꣣ᳱ  
+स्व꣣स्त꣢ये꣣ ता꣡र्क्ष्य꣢म् इ꣣हा꣡ हु꣢वेम ॥ 40:0332 ॥
+
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/178/01_tyamU_Shu.md">
+<details open=""><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
+
+
+त्यमू॒+++(=तं)+++ षु वा॒जिनं॑+++(=अन्नवन्तं बलवन्तं वा)+++ दे॒वजू॑तं +++(प्रेरितम् प्रीतं वा [सोमाहरणाय])+++  
+स॒हावा॑नं+++(=सहस्वन्तं)+++ तरु॒तारं॒+++(=तारकम्)+++ रथा॑नाम् ।  
+अरि॑ष्ट-नेमिं+++(=परिरेखाम्)+++ पृत॒ना+++(=[पर]सेना)++++ऽज॑मा॒शुं+++(←अज गति-क्षेपणयोः)+++  
+स्व॒स्तये॒ तार्क्ष्य॑म्+++(=तृक्षजम्)+++ इ॒हा हु॑वेम ॥
+
+</details>
+</div>
+</details>
+</div>
 
 
 {{< figure src="/devaH/hindukaH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
@@ -21,13 +42,13 @@ unicode_script: devanagari
 ## साम १ आआआ
 
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n9/mode/1up)।
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tyamU-Shu-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/tyamU-Shu-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/tyamU-Shu-1.mp3"></div>
 
 त्य+++([])+++मू+++(%)+++षु+++(")+++उ ।  
@@ -46,13 +67,13 @@ unicode_script: devanagari
 
 ## साम २ ईयइयाहाइ
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/tyamU-Shu-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/tyamU-Shu-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/tyamU-Shu-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/tyamU-Shu-2.mp3"></div>
 
 ई+++([]३)+++य, इया+++(३)+++हाइ ।  
@@ -61,10 +82,8 @@ unicode_script: devanagari
 ई+++(["ठू])+++इया+++(३)+++[इ]या+++(["]३)+++।  
 हा+++([टृ])+++अ,हा+++(३--")+++इ ।  
 
-----
 स+++([पे])+++हो+++(["])+++वा+++(["])+++नन् ता+++(३--%)+++रु+++([])+++ताअरम्+++([])+++ रा+++(%)+++था+++(%)+++ना+++(")+++अम्।  
 
-----
 
 ई+++(["पे])+++य, इया+++(३)+++हाइ ।  
 अ+++([])+++रिष्टा+++([])+++ना+++([]३--%)+++इ,मी+++([])+++इम्,  

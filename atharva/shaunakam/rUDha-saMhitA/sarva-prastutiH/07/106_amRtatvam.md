@@ -4,16 +4,74 @@ title = "१०६ अमृतत्वम्"
 +++
 ## अधिसूक्तम्
 
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/106_amRtatvam.md"  newLevelForH1="3" title="अनुक्रमणी (VH)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/106_amRtatvam.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/_index.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/_index.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/106_amRtatvam.md">
+<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+
+अमृतत्वम्।  
+१ अथर्वा। जातवेदा वरुणश्च। बृहतीगर्भा त्रिष्टुप्।  
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/106_amRtatvam.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+[Atharvan.—mantroktadāivatam uta jātavedasam (c, d, vāruṇam). bṛhatīgarbhā triṣṭubh.]
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/_index.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+#### Comment
+Found also in Pāipp. xx. Applied by Kāuś. (6. 2), in the parvan sacrifice, with offerings in expiation of any thing spilt or overlooked in the ceremony; and later (46. 24), when a direction at the sacrifice has not been fully executed. Used also for a similar purpose in Vāit. in the agniṣṭoma (12. 5), and again later (16. 8).
+
+
+#### Translations
+Translated: Henry, 41, 117; Griffith, i. 379.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/_index.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+</details>
+</div>
 
 
 ## ०१ यदस्मृति चकृम
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/01_yadasmRti_chakRma.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
+यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः ।  
+ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/106_amRtatvam/01_yadasmRti_chakRma.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
+यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः ।  
+ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥१॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/01_yadasmRti_chakRma.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+1. If (*yát*) in forgetfulness we have done aught, O Agni, have  
+offended, O Jātavedas, in our behavior (*cáraṇa*), from that do thou  
+protect us, O forethoughtful one; unto beauty be there immortality for  
+us \[thy\] companions.
+
+#### Notes
+The sense of the last pāda is obscure and doubtful. The comm. takes  
+*śubhé* as loc. = *śobhane sān̄ge karmaṇi*. Ppp. reads *tasmāt* for  
+*tatas* in **c**, and *śukhe* in **d**. The second half-verse is more  
+irregular than the Anukr. admits.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/01_yadasmRti_chakRma.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+Each thoughtless ill that we have done, O Agni, all error in our conduct, Jatavedas! Therefrom do thou, O sapient God, preserve us. May we thy friends, for bliss, have life eternal.
+</details>
+</div>

@@ -1,16 +1,21 @@
 ---
 title: विश्वतोदावन्
-unicode_script: devanagari  
+unicode_script: devanagari
 
 ---
-
 ## ऋक्
 
 १ १ २ ०७०७
 
 +++([सायणो [ऽत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume1SatyavrataSamasrami1874bis_201804/page/n247&sa=D&ust=1542564218916000) कौथुमभाष्ये। । इन्द्रः।])+++
 
-<div class="js_include" url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md"  newLevelForH1="3" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH/sAma/kauthumam/saMhitA/vishvAsa-prastutiH/1_pUrvArchikaH/5/2/01_0437_vishvatodAvanvishvato_na.md">
+<details open><summary><h3>01_0437 विश्वतोदावन्विश्वतो न ...{Loading}...</h3></summary>
+
+वि꣡श्व꣢तोदावन् +++(=दानवान् छेदनवान् वा)+++ वि꣣श्व꣡तो꣢ न꣣ आ꣡ भ꣢र꣣ यं꣢ त्वा꣣ श꣡वि꣢ष्ठ꣣मी꣡म꣢हे ॥ 01:0437 ॥
+
+</details>
+</div>  
 
 विश्वतो दावन् विश्वतो न आ भर यं त्वा शविष्ठमीमहे।
 {भर! महः! ईडा+++(=स्तुतिः)+++। सुवः। ज्योतिः।}
@@ -23,9 +28,9 @@ unicode_script: devanagari
 - [पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]
 - कौथुमगानम् [अत्र](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n467)।
 
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-1.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vishvato-dAvan-1.mp3"></div>
 
 हा+++([प]३)+++उ, हा+++([प]३)+++उ, ह+++([प])+++उवा ।  
@@ -45,13 +50,13 @@ unicode_script: devanagari
 ई+++([टू])+++इइइ ई+++(३)+++ ॥
 
 ## साम २
-<div class="audioEmbed"  caption="रामानुजार्यः 1974 " src="https://archive
+<div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vishvato-dAvan-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपालार्यः 2015  " src="https://archive
+<div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vishvato-dAvan-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018/vishvato-dAvan-2.mp3"></div>
-<div class="audioEmbed"  caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" src="https://archive
+<div caption="गोपाल-विश्वासयोर् अनुवचनम् 2018 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-vishvAsa-2018-150p-speed/vishvato-dAvan-2.mp3"></div>
 
 वी+++([गो])+++श्व, तो+++(["])+++दा+++(["])+++ अवन्, विश्वातो+++(["]--%३)+++ नाआ+++(["]--%३)+++।  

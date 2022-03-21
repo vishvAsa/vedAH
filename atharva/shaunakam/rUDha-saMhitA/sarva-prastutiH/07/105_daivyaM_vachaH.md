@@ -4,16 +4,72 @@ title = "१०५ दैव्यं वचः"
 +++
 ## अधिसूक्तम्
 
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/105_daivyaM_vachaH.md"  newLevelForH1="3" title="अनुक्रमणी (VH)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/105_daivyaM_vachaH.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/105_daivyaM_vachaH/_index.md"  newLevelForH1="3" title="अनुक्रमणी (Whitney)" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/105_daivyaM_vachaH/_index.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/105_daivyaM_vachaH.md">
+<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+
+दैव्यं वचः।  
+१ अथर्वा।मन्त्रोक्ताः। अनुष्टुप्॥  
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/105_daivyaM_vachaH.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+[Atharvan.—mantroktadevatyam. ānuṣṭubham.]
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/105_daivyaM_vachaH/_index.md">
+<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+
+#### Comment
+Found also in Pāipp. xx. Quoted by Kāug. (55. 16) in the upanayana ceremony, as the teacher takes the pupil by the arm and sets him facing eastward; and the second half-verse later in the same (56. 16), as he makes the pupil turn so as to face him.
+
+
+#### Translations
+Translated: Henry, 41, 117; Griffith, i. 379.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/105_daivyaM_vachaH/_index.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+</details>
+</div>
 
 
 ## ०१ अपक्रामन् पौरुषेयाद्
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md"  newLevelForH1="3" title="विश्वास-प्रस्तुतिः" > </div>
-<div class="js_include collapsed" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md"  newLevelForH1="4" title="मूलम्" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md"  newLevelForH1="3" title="Whitney" > </div>
-<div class="js_include " url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md"  newLevelForH1="3" title="Griffith" > </div>
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
+अ॒प॒क्राम॒न् पौरु॑षेयाद् वृणा॒नो दैव्यं॒ वचः॑ ।  
+प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
+अ॒प॒क्राम॒न् पौरु॑षेयाद् वृणा॒नो दैव्यं॒ वचः॑ ।  
+प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह॥१॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md">
+<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+
+#### Translation
+1. Striding away from what is of men, choosing the words (*vácas*) of  
+the gods, turn thou unto guidances, together with all \[thy\]  
+companions.}}
+
+#### Notes
+Ppp. reads *saha* for *vacas* in **b**, and, for **d**, *devo devānāṁ  
+sakhyā juṣāṇaḥ*. The comm. paraphrases *praṇītīs* by  
+*prakṛṣṭanayanādivedabrahmacaryaniyatīḥ*.
+
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/105_daivyaM_vachaH/01_apakrAman_pauruSheyAd.md">
+<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+
+Leaving humanity behind, making the heavenly word thy choice, With all thy friends address thyself to furthering and guiding men.
+</details>
+</div>
