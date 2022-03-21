@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.083
 +++
 ब꣡ट् सू꣢र्य꣣ श्र꣡व꣢सा म꣣हा꣡ꣳ अ꣢सि स꣣त्रा꣡ दे꣢व म꣣हा꣡ꣳ अ꣢सि। म꣣ह्ना꣢ दे꣣वा꣡ना꣢मसु꣣कयः꣢꣯ पु꣣रो꣡हि꣢तो वि꣣भु꣢꣫ ज्योति꣣र꣡दा꣢भ्यम् ॥ 09-2:1789 ॥ ॥9 (त)॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/101/12_baT_sUrya.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/101/12_baT_sUrya.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+बट् सू॑र्य॒ श्रव॑सा म॒हाँ अ॑सि स॒त्रा दे॑व म॒हाँ अ॑सि ।  
+म॒ह्ना दे॒वाना॑मसु॒र्यः॑ पु॒रोहि॑तो वि॒भु ज्योति॒रदा॑भ्यम् ॥
+
+</details>
+</div>

@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.046
 +++
 शू꣡र꣢ग्रामः꣣ स꣡र्व꣢वीरः꣣ स꣡हा꣢वा꣣न् जे꣡ता꣢ पवस्व꣣ स꣡नि꣢ता꣣ ध꣡ना꣢नि। ति꣣ग्मा꣡यु꣢धः क्षि꣣प्र꣡ध꣢न्वा स꣣म꣡त्स्वषा꣢꣯ढः सा꣣ह्वा꣡न्पृत꣢꣯नासु꣣ श꣡त्रू꣢न् ॥ 11-2:1409 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/090/03_shUragrAmaH_sarvavIraH.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/090/03_shUragrAmaH_sarvavIraH.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+शूर॑ग्रामः॒ सर्व॑वीरः॒ सहा॑वा॒ञ्जेता॑ पवस्व॒ सनि॑ता॒ धना॑नि ।  
+ति॒ग्मायु॑धः क्षि॒प्रध॑न्वा स॒मत्स्वषा॑ळ्हः सा॒ह्वान्पृत॑नासु॒ शत्रू॑न् ॥
+
+</details>
+</div>

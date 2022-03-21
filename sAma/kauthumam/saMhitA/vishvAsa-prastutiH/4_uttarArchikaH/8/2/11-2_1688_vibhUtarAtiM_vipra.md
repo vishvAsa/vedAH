@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.207
 +++
 वि꣡भू꣢तरातिं विप्र चि꣣त्र꣡शो꣢चिषम꣣ग्नि꣡मी꣢डिष्व य꣣न्तु꣡र꣢म्। अ꣣स्य꣡ मेध꣢꣯स्य सो꣣म्य꣡स्य꣢ सोभरे꣣ प्रे꣡म꣢ध्व꣣रा꣢य꣣ पू꣡र्व्य꣢म् ॥ 11-2:1688 ॥ ॥11 (या)॥ [धा. 17 । उ नास्ति । स्व. 2 ।]
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/019/02_vibhUtarAtiM_vipra.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/019/02_vibhUtarAtiM_vipra.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+विभू॑तरातिं विप्र चि॒त्रशो॑चिषम॒ग्निमी॑ळिष्व य॒न्तुर॑म् ।  
+अ॒स्य मेध॑स्य सो॒म्यस्य॑ सोभरे॒ प्रेम॑ध्व॒राय॒ पूर्व्य॑म् ॥
+
+</details>
+</div>

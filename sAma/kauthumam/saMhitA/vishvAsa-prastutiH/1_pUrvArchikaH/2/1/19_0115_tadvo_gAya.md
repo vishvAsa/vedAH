@@ -7,4 +7,14 @@ edit_distance_to_rv = 0.0
 ## ऐन्द्रं काण्डम्
 त꣡द्वो꣢ गाय सु꣣ते꣡ सचा꣢꣯ पुरुहू꣣ता꣢य꣣ स꣡त्व꣢ने। शं꣢꣫ यद्गवे꣣ न꣢ शा꣣कि꣡ने꣢ ॥ 19:0115 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/045/22_tadvo_gAya.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+
+तद् वो +++(स्तोतारः)+++ गाय+++(त)+++ सु॒ते +++(सोमे)+++ सचा +++(=सह)+++,  
+पुरुहू॒ताय॒ +++(=बह्वाहूताय)+++ सत्व॑ने +++(=शत्त्रुसादयित्रे)+++।  
+शं यद् गवे न शा॒किने +++(=शक्तिमते)+++।।
+
+</details>
+</div>

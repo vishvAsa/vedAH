@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.0
 +++
 य꣢द्यु꣣ञ्जा꣢थे꣣ वृ꣡ष꣢णमश्विना꣣ र꣡थं꣢ घृ꣣ते꣡न꣢ नो꣣ म꣡धु꣢ना क्ष꣣त्र꣡मु꣢क्षतम्। अ꣣स्मा꣢कं꣣ ब्र꣢ह्म꣣ पृ꣡त꣢नासु जिन्वतं व꣣यं꣢꣫ धना꣣ शू꣡र꣢साता भजेमहि ॥ 17-2:1759 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/157/02_yadyunjAthe_vRShaNamashvinA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/157/02_yadyunjAthe_vRShaNamashvinA.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+यद्यु॒ञ्जाथे॒ वृष॑णमश्विना॒ रथं॑ घृ॒तेन॑ नो॒ मधु॑ना क्ष॒त्रमु॑क्षतम् ।  
+अ॒स्माकं॒ ब्रह्म॒ पृत॑नासु जिन्वतं व॒यं धना॒ शूर॑साता भजेमहि ॥
+
+</details>
+</div>

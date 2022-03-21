@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.167
 +++
 वृ꣡क꣢श्चिदस्य वार꣣ण꣡ उ꣢रा꣣म꣢थि꣣रा꣢ व꣣यु꣡ने꣢षु भूषति। से꣢꣫मं न꣣ स्तो꣡मं꣢ जुजुषा꣣ण꣢꣫ आ ग꣣ही꣢न्द्र꣣ प्र꣢ चि꣣त्र꣡या꣢ धि꣣या꣢ ॥ 13-2:1692 ॥ ॥13 (खा)॥ [धा. 16 । उ 2 । स्व. 2 ।]
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/066/08_vRkashchidasya_vAraNa.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/066/08_vRkashchidasya_vAraNa.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+वृक॑श्चिदस्य वार॒ण उ॑रा॒मथि॒रा व॒युने॑षु भूषति ।  
+सेमं नः॒ स्तोमं॑ जुजुषा॒ण आ ग॒हीन्द्र॒ प्र चि॒त्रया॑ धि॒या ॥
+
+</details>
+</div>

@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.101
 +++
 व꣣य꣢मु꣣ त्वा꣡म꣢पूर्व्य स्थू꣣रं꣢꣫ न कच्चि꣣द्भ꣡र꣢न्तोऽव꣣स्य꣡वः꣢। व꣡ज्रिं꣢ चि꣣त्र꣡ꣳह꣢वामहे ॥ 22-1:0708 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/021/01_vayamu_tvAmapUrvya.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/021/01_vayamu_tvAmapUrvya.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+व॒यमु॒ त्वाम॑पूर्व्य स्थू॒रं न कच्चि॒द्भर॑न्तोऽव॒स्यवः॑ ।  
+वाजे॑ चि॒त्रं ह॑वामहे ॥
+
+</details>
+</div>

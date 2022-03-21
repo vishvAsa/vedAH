@@ -6,4 +6,13 @@ edit_distance_to_rv = 0.065
 +++
 न꣡ त्वावा꣢꣯ꣳअ꣣न्यो꣢ दि꣣व्यो꣡ न पार्थि꣢꣯वो꣣ न꣢ जा꣣तो꣡ न ज꣢꣯निष्यते। अ꣣श्वाय꣡न्तो꣢ मघवन्निन्द्र वा꣣जि꣡नो꣢ ग꣣व्य꣡न्त꣢स्त्वा हवामहे ॥ 11-2:0681 ॥॥11(यी)॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/23_na_tvAvA_N.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/23_na_tvAvA_N.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+
+न त्वावाँ॑ +++(=त्वादृशः)+++ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते ।  
+अ॒श्वा॒यन्तो॑ +++(=अश्वकामाः)+++ मघवन्निन्द्र वा॒जिनो॑ +++(=वाजकामाः)+++ ग॒व्यन्त॑स् +++(=गोकामाः)+++ त्वा हवामहे २३  
+
+</details>
+</div>

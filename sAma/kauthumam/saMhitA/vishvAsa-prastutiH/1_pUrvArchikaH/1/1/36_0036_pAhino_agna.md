@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.048
 +++
 पा꣣हि꣡नो꣢ अ꣣ग्न꣡ ए꣢कया पा꣣ह्यू꣡३ऽत꣢ द्वि꣣ती꣡य꣢या । पा꣣हि꣢गी꣣र्भि꣢स्ति꣣सृ꣡भि꣢रूर्जां पते पा꣣हि꣡ च꣢त꣣सृ꣡भि꣢र्वसो॥ 36:0036॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/09_pAhi_no.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/060/09_pAhi_no.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+पा॒हि नो॑ अग्न॒ एक॑या पा॒ह्यु१॒॑त द्वि॒तीय॑या ।  
+पा॒हि गी॒र्भिस्ति॒सृभि॑रूर्जां पते पा॒हि च॑त॒सृभि॑र्वसो ॥
+
+</details>
+</div>

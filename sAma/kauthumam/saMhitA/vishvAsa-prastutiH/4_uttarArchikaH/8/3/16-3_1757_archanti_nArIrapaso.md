@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.142
 +++
 अ꣡र्च꣢न्ति꣣ ना꣡री꣢र꣣प꣢सो꣣ न꣢ वि꣣ष्टि꣡भिः꣢ समा꣣ने꣢न꣣ यो꣡ज꣢ने꣣ना꣡ प꣢रा꣣व꣡तः꣢। इ꣢षं꣣ व꣡ह꣢न्तीः सु꣣कृ꣡ते꣢ सु꣣दा꣡न꣢वे꣣ वि꣢꣫श्वेदह꣣ य꣡ज꣢मानाय सु꣣न्व꣢ते ॥ 16-3:1757 ॥ ॥16 (कि)॥ [धा. 26 । उ 1 । स्व. 3 ।]
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/092/03_archanti_nArIrapaso.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/092/03_archanti_nArIrapaso.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+अर्च॑न्ति॒ नारी॑र॒पसो॒ न वि॒ष्टिभिः॑ समा॒नेन॒ योज॑ने॒ना प॑रा॒वतः॑ ।  
+इषं॒ वह॑न्तीः सु॒कृते॑ सु॒दान॑वे॒ विश्वेदह॒ यज॑मानाय सुन्व॒ते ॥
+
+</details>
+</div>

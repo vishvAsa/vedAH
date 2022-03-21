@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.029
 +++
 च꣣न्द्रमा꣢ अ꣣प्स्वा꣢ऽ३ऽन्तरा सु꣢꣯प꣣र्णो धा꣢वते दि꣣वि꣢। न वो꣢ हिरण्यनेमयः प꣣दं वि꣢न्दन्ति विद्युतो वि꣣त्तं मे꣢ अ꣣स्य रो꣢दसी ॥ 28:0417 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/105/01_chandramA_apsva1ntarA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/105/01_chandramA_apsva1ntarA.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+च॒न्द्रमा॑ अ॒प्स्व१॒॑न्तरा सु॑प॒र्णो धा॑वते दि॒वि ।  
+न वो॑ हिरण्यनेमयः प॒दं वि॑न्दन्ति विद्युतो वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
+
+</details>
+</div>

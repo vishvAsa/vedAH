@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.22
 +++
 न꣡ दु꣢ष्टु꣣ति꣡र्द्र꣢विणो꣣दे꣡षु꣢ शस्यते꣣ न꣡ स्रेध꣢꣯न्तꣳर꣣यि꣡र्न꣢शत्। सु꣣श꣢क्ति꣣रि꣡न्म꣢घ꣢वं꣣ तु꣢भ्यं꣣ मा꣡व꣢ते दे꣣ष्णं꣡ यत्पार्ये꣢꣯ दि꣣वि꣢ ॥ 13-13:0868 ॥ ॥13 (यि)॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/21_na_duShTutI.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/21_na_duShTutI.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+न दु॑ष्टु॒ती मर्त्यो॑ विन्दते॒ वसु॒ न स्रेध॑न्तं र॒यिर्न॑शत् ।  
+सु॒शक्ति॒रिन्म॑घव॒न्तुभ्यं॒ माव॑ते दे॒ष्णं यत्पार्ये॑ दि॒वि ॥
+
+</details>
+</div>

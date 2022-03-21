@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.0
 +++
 स꣡खा꣢य꣣ आ꣡ नि षी꣢꣯दत पुना꣣ना꣢य꣣ प्र꣡ गा꣢यत। शि꣢शुं꣣ न꣢ य꣣ज्ञैः꣡ परि꣢꣯ भूषत श्रि꣣ये꣢ ॥ 24:0568 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/104/01_sakhAya_A.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/104/01_sakhAya_A.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+सखा॑य॒ आ नि षी॑दत पुना॒नाय॒ प्र गा॑यत ।  
+शिशुं॒ न य॒ज्ञैः परि॑ भूषत श्रि॒ये ॥
+
+</details>
+</div>

@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.045
 +++
 गो꣣वि꣡त्प꣢वस्व वसु꣣वि꣡द्धि꣢रण्य꣣वि꣡द्रे꣢तो꣣धा꣡ इ꣢न्दो꣣ भु꣡व꣢ने꣣ष्व꣡र्पि꣢तः। त्व꣢ꣳ सु꣣वी꣡रो꣢ असि सोम विश्व꣣वि꣢꣫त्तं त्वा꣣ न꣢र꣣ उ꣡प꣢ गि꣣रे꣡म आ꣢꣯सते ॥ 01-1:0955 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/086/39_govitpavasva_vasuviddhiraNyavidretodhA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/086/39_govitpavasva_vasuviddhiraNyavidretodhA.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+गो॒वित्प॑वस्व वसु॒विद्धि॑रण्य॒विद्रे॑तो॒धा इ॑न्दो॒ भुव॑ने॒ष्वर्पि॑तः ।  
+त्वं सु॒वीरो॑ असि सोम विश्व॒वित्तं त्वा॒ विप्रा॒ उप॑ गि॒रेम आ॑सते ॥
+
+</details>
+</div>

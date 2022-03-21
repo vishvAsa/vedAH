@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.0
 +++
 ज꣡न꣢स्य गो꣣पा꣡ अ꣢जनिष्ट꣣ जा꣡गृ꣢विर꣣ग्निः꣢ सु꣣द꣡क्षः꣢ सुवि꣣ता꣢य꣣ न꣡व्य꣢से। घृ꣣त꣡प्र꣢तीको बृह꣣ता꣡ दि꣢वि꣣स्पृ꣡शा꣢ द्यु꣣म꣡द्वि भा꣢꣯ति भर꣣ते꣢भ्यः꣣ शु꣡चिः꣢ ॥ 06-1:0907 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/011/01_janasya_gopA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/011/01_janasya_gopA.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निः सु॒दक्षः॑ सुवि॒ताय॒ नव्य॑से ।  
+घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्यः॒ शुचिः॑ ॥
+
+</details>
+</div>

@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.01
 +++
 इ꣣नो꣡ रा꣢जन्नर꣣तिः꣡ समि꣢꣯द्धो꣣ रौ꣢द्रो꣣ द꣡क्षा꣢य सुषु꣣मा꣡ꣳ अ꣢दर्शि। चि꣣कि꣡द्वि भा꣢꣯ति भा꣣सा꣡ बृ꣢ह꣣ता꣡सि꣢क्नीमेति꣣ रु꣡श꣢तीम꣣पा꣡ज꣢न् ॥ 05-1:1546 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/003/01_ino_rAjannaratiH.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/003/01_ino_rAjannaratiH.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+इ॒नो रा॑जन्नर॒तिः समि॑द्धो॒ रौद्रो॒ दक्षा॑य सुषु॒माँ अ॑दर्शि ।  
+चि॒किद्वि भा॑ति भा॒सा बृ॑ह॒तासि॑क्नीमेति॒ रुश॑तीम॒पाज॑न् ॥
+
+</details>
+</div>

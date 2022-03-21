@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.019
 +++
 त्वा꣡म꣢ग्ने꣣ अ꣡ङ्गि꣢रसो꣣ गु꣡हा꣢ हि꣣त꣡मन्व꣢꣯विन्दञ्छिश्रिया꣣णं꣡ वने꣢꣯वने। स꣡ जा꣢यसे म꣣थ्य꣡मा꣢नः꣣ स꣡हो꣢ म꣣ह꣡त्वामा꣢꣯हुः꣣ स꣡ह꣢सस्पु꣣त्र꣡म꣢ङ्गिरः ॥ 06-2:0908 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/011/06_tvAmagne_angiraso.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/011/06_tvAmagne_angiraso.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+त्वाम॑ग्ने॒ अङ्गि॑रसो॒ गुहा॑ हि॒तमन्व॑विन्दञ्छिश्रिया॒णं वने॑वने ।  
+स जा॑यसे म॒थ्यमा॑नः॒ सहो॑ म॒हत्त्वामा॑हुः॒ सह॑सस्पु॒त्रम॑ङ्गिरः ॥
+
+</details>
+</div>

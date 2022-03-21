@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.0
 +++
 च꣣क्रं꣡ यद꣢꣯स्या꣣प्स्वा꣡ निष꣢꣯त्तमु꣣तो꣡ तद꣢꣯स्मै꣣ म꣡ध्विच्च꣢꣯च्छद्यात्। पृ꣣थिव्या꣡मति꣢꣯षितं꣣ य꣢꣫दूधः꣣ प꣢यो꣣ गो꣡ष्वद꣢꣯धा꣣ ओ꣡ष꣢धीषु ॥ 39:0331 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/073/09_chakraM_yadasyApsvA.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/073/09_chakraM_yadasyApsvA.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+च॒क्रं यद॑स्या॒प्स्वा निष॑त्तमु॒तो तद॑स्मै॒ मध्विच्च॑च्छद्यात् ।  
+पृ॒थि॒व्यामति॑षितं॒ यदूधः॒ पयो॒ गोष्वद॑धा॒ ओष॑धीषु ॥
+
+</details>
+</div>

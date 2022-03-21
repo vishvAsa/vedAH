@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.018
 +++
 कृ꣣ष्णां꣡ यदेनी꣢꣯म꣣भि꣡ वर्प꣢꣯सा꣣भू꣢ज्ज꣣न꣢य꣣न्यो꣡षां꣢ बृह꣣तः꣢ पि꣣तु꣢र्जाम्। ऊ꣣र्ध्वं꣢ भा꣣नु꣡ꣳ सूर्य꣢꣯स्य स्तभा꣣य꣢न् दि꣣वो꣡ वसु꣢꣯भिरर꣣ति꣡र्वि भा꣢꣯ति ॥ 05-2:1547 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/003/02_kRShNAM_yadenImabhi.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/003/02_kRShNAM_yadenImabhi.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+कृ॒ष्णां यदेनी॑म॒भि वर्प॑सा॒ भूज्ज॒नय॒न्योषां॑ बृह॒तः पि॒तुर्जाम् ।  
+ऊ॒र्ध्वं भा॒नुं सूर्य॑स्य स्तभा॒यन्दि॒वो वसु॑भिरर॒तिर्वि भा॑ति ॥
+
+</details>
+</div>

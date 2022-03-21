@@ -6,4 +6,13 @@ edit_distance_to_rv = 0.025
 +++
 प्रा꣢ची꣣म꣡नु꣢ प्र꣣दि꣡शं꣢ याति꣣ चे꣡कि꣢त꣣त्स꣢ꣳ र꣣श्मि꣡भि꣢र्यतते दर्श꣣तो꣢꣫ रथो꣣ दै꣡व्यो꣢ दर्श꣣तो꣡ रथः꣢꣯। अ꣡ग्म꣢न्नु꣣क्था꣢नि꣣ पौ꣢꣫ꣳस्येन्द्रं꣣ जै꣡त्रा꣢य हर्षयन्। व꣡ज्र꣢श्च꣣ य꣡द्भव꣢꣯थो꣣ अ꣡न꣢पच्युता स꣣म꣡त्स्वन꣢꣯पच्युता ॥ 10-2:1591 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/111/03_pUrvAmanu_pradishaM.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/111/03_pUrvAmanu_pradishaM.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+पूर्वा॒मनु॑ प्र॒दिशं॑ याति॒ चेकि॑त॒त्सं र॒श्मिभि॑र्यतते दर्श॒तो रथो॒ दैव्यो॑ दर्श॒तो रथः॑ ।  
+अग्म॑न्नु॒क्थानि॒ पौंस्येन्द्रं॒ जैत्रा॑य हर्षयन् ।  
+वज्र॑श्च॒ यद्भव॑थो॒ अन॑पच्युता स॒मत्स्वन॑पच्युता ॥
+
+</details>
+</div>

@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.075
 +++
 ए꣣वा꣡ प꣢वस्व मदि꣣रो꣡ मदा꣢꣯योदग्रा꣣भ꣡स्य꣢ न꣣म꣡य꣢न्वध꣣स्नु꣢म्। प꣢रि꣣ व꣢र्णं꣣ भ꣡र꣢माणो꣣ रु꣡श꣢न्तं ग꣣व्यु꣡र्नो꣢ अर्ष꣣ प꣡रि꣢ सोम सि꣣क्तः꣢ ॥ 11-3:0808 ॥ ॥11 (रि)॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/15_evA_pavasva.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/097/15_evA_pavasva.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+ए॒वा प॑वस्व मदि॒रो मदा॑योदग्रा॒भस्य॑ न॒मय॑न्वध॒स्नैः ।  
+परि॒ वर्णं॒ भर॑माणो॒ रुश॑न्तं ग॒व्युर्नो॑ अर्ष॒ परि॑ सोम सि॒क्तः ॥
+
+</details>
+</div>

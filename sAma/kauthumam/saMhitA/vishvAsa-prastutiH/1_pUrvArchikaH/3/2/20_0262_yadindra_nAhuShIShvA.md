@@ -6,4 +6,12 @@ edit_distance_to_rv = 0.01
 +++
 य꣡दि꣢न्द्र꣣ ना꣡हु꣢षी꣣ष्वा꣡ ओजो꣢꣯ नृ꣣म्णं꣡ च꣢ कृ꣣ष्टि꣡षु꣢। य꣢द्वा꣣ प꣡ञ्च꣢ क्षिती꣣नां꣢ द्यु꣣म्न꣡मा भ꣢꣯र स꣣त्रा꣡ विश्वा꣢꣯नि꣣ पौ꣡ꣳस्या꣢ ॥ 20:0262 ॥
 
-<div class="js_include " url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/046/07_yadindra_nAhuShIShvA_N.md"  newLevelForH1="2" title="विश्वास-शाकल-प्रस्तुतिः"  > </div>
+<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/046/07_yadindra_nAhuShIShvA_N.md">
+<details open><summary><h2>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h2></summary>
+
+
+यदि॑न्द्र॒ नाहु॑षी॒ष्वाँ ओजो॑ नृ॒म्णं च॑ कृ॒ष्टिषु॑ ।  
+यद्वा॒ पञ्च॑ क्षिती॒नां द्यु॒म्नमा भ॑र स॒त्रा विश्वा॑नि॒ पौंस्या॑ ॥
+
+</details>
+</div>
