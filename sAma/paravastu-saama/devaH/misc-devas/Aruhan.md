@@ -25,7 +25,7 @@ SV.1.92b; AV;S.12.2.12b; 18.1.61b.
 
 इत एत उदारुहन् दिवः पृष्ठान्यारुहन्। प्र भूर् जयो यथा पथो द्यामङ्गिरसो ययुः॥
 
-{{< figure src="/devaH/hindukaH/misc-devas/images/rocket_takeoff.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/misc-devas/images/rocket_takeoff.jpg"  class="thumbnail">}}
 
 
 ## साम

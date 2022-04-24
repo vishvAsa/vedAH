@@ -55,7 +55,7 @@ RV.9.107.19a; SV.1.516a; 2.272a; JB.3.67a; PB.12.9.3a; Svidh.1.5.8.
 </div>  
 
 
-{{< figure src="/devaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma-enthroned.png"  class="thumbnail">}}
 
 
 ## साम

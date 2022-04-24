@@ -26,7 +26,7 @@ unicode_script: devanagari
 </details>
 </div>  
 
-{{< figure src="/devaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-rising-to-protect-charriots-of-army.jpg"  class="thumbnail">}}
 
 
 ## साम

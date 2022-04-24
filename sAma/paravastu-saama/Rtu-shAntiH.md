@@ -88,7 +88,7 @@ unicode_script: devanagari
 
 # पञ्च शांतिः
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/hindukaH/misc-devas/yajuH/tat_shaMyoH/">
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/misc-devas/yajuH/tat_shaMyoH/">
 <details open><summary><h2>तच्छंय्योर् आवृणीमहे ...{Loading}...</h2></summary>
 
 सायणो [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_5_-_Kasinath_Sastri_Agase_1946#page/n92/mode/1up)। ब्राह्मणम् [अत्र](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/6/vidhi-shraddhA/)।

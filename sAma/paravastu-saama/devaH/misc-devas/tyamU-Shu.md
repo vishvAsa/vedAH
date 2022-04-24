@@ -34,7 +34,7 @@ unicode_script: devanagari
 </div>
 
 
-{{< figure src="/devaH/hindukaH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/misc-devas/images/tArkShya.jpg"  class="thumbnail">}}
 
 ### टिप्पनी
 हेषारव इव श्येनशब्दः! तार्क्ष्यो गरुण इत्य् अर्वाचीनाः।

@@ -26,7 +26,7 @@ unicode_script: devanagari
 </div>  
 
 
-{{< figure src="/devaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/somaH/images/soma_moon_chandra.jpg"  class="thumbnail">}}
 
 ## साम
 - पारम्परिकगानमूलम् - [२०१५](https://archive.org/stream/sAmaveda-jaiminIya-paravastu-paramparA-docs/UDAKA%20SAANTHI%20SAAMAANI#page/n2/mode/1up&sa=D&ust=1542425956390000)।]

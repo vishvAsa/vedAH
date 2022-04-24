@@ -37,7 +37,7 @@ RV.2.22.4b; SV.1.466b.
 </div>  
 
 
-{{< figure src="/devaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/indraH/images/Indra-kills-vRtra-snake-with-vajra.jpg"  class="thumbnail">}}
 
 
 ## साम

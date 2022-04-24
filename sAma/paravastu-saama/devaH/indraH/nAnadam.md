@@ -26,7 +26,7 @@ unicode_script: devanagari
 </div>  
 
 
-{{< figure src="/devaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
+{{< figure src="/devaH/AryaH/hindukaH/indraH/images/indra-squeezing-soma-into-mouth.jpg"  class="thumbnail">}}
 
 
 ## साम
