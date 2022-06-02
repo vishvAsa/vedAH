@@ -2,7 +2,7 @@
 title = "०८ घृतावेक्षणम्"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +158,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "०८ घृतावेक्षणम्"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

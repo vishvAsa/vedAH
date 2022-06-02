@@ -2,7 +2,7 @@
 title = "५० चन्द्रप्रातिपदिकम्"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,7 +119,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,7 +132,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०२.६
+## ०२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +145,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +158,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.६
+## ०४.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०४.७
+## ०४.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,7 +301,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.१
+## ०५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,7 +314,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.२
+## ०५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.३
+## ०५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.४
+## ०५.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.५
+## ०५.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०५.६
+## ०५.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०६.१
+## ०६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०६.२
+## ०६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०६.३
+## ०६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०६.४
+## ०६.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,7 +431,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०६.५
+## ०६.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,7 +444,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०७.१
+## ०७.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,7 +457,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०७.२
+## ०७.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +470,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०७.३
+## ०७.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,7 +483,7 @@ title = "५० चन्द्रप्रातिपदिकम्"
 </details>
 
 
-## ०७.४
+## ०७.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

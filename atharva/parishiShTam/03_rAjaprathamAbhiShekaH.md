@@ -2,7 +2,7 @@
 title = "०३ राजप्रथमाभिषेकः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,7 +301,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,7 +314,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.६
+## ०३.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.७
+## ०३.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "०३ राजप्रथमाभिषेकः"
 </details>
 
 
-## ०३.८
+## ०३.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

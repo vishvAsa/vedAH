@@ -2,7 +2,7 @@
 title = "३६ उच्छुष्मकल्पः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०२.६
+## ०२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,7 +301,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,7 +314,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०५.१
+## ०५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०५.२
+## ०५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०५.३
+## ०५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०६.१
+## ०६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०६.२
+## ०६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०६.३
+## ०६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०७.१
+## ०७.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,7 +431,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०७.२
+## ०७.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,7 +444,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०७.३
+## ०७.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,7 +457,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०७.४
+## ०७.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +470,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०८.१
+## ०८.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,7 +483,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०८.२
+## ०८.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -496,7 +496,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०८.३
+## ०८.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,7 +509,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०८.४
+## ०८.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,7 +522,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०८.५
+## ०८.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,7 +535,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.१
+## ०९.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -548,7 +548,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.२
+## ०९.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,7 +561,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.३
+## ०९.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,7 +574,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.४
+## ०९.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -587,7 +587,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.५
+## ०९.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -600,7 +600,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.६
+## ०९.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -613,7 +613,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.७
+## ०९.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -626,7 +626,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.८
+## ०९.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -639,7 +639,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ०९.९
+## ०९.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -847,7 +847,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १०.१
+## १०.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,7 +860,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १०.२
+## १०.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,7 +873,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १०.३
+## १०.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -886,7 +886,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## ११.१
+## ११.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -899,7 +899,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १२.१
+## १२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -912,7 +912,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १३.१
+## १३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -925,7 +925,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १४.१
+## १४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -938,7 +938,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १५.१
+## १५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -951,7 +951,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १६.१
+## १६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,7 +964,7 @@ title = "३६ उच्छुष्मकल्पः"
 </details>
 
 
-## १६.२
+## १६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

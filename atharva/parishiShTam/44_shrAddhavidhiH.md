@@ -2,7 +2,7 @@
 title = "४४ श्राद्धविधिः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.६
+## ०२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.७
+## ०२.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.८
+## ०२.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०२.९
+## ०२.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.६
+## ०३.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.७
+## ०३.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.८
+## ०३.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,7 +431,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०३.९
+## ०३.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,7 +457,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +470,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,7 +483,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -496,7 +496,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,7 +509,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,7 +522,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.६
+## ०४.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,7 +535,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.७
+## ०४.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -548,7 +548,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.८
+## ०४.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,7 +561,7 @@ title = "४४ श्राद्धविधिः"
 </details>
 
 
-## ०४.९
+## ०४.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

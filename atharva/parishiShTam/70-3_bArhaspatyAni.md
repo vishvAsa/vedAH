@@ -2,7 +2,7 @@
 title = "७०-३ बार्हस्पत्यानि"
 
 +++
-## २२.१
+## २२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २२.२
+## २२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २३.१
+## २३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २३.२
+## २३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २३.३
+## २३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २३.४
+## २३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २३.५
+## २३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २४.१
+## २४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २४.२
+## २४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,7 +119,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २४.३
+## २४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,7 +132,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २४.४
+## २४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +145,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २४.५
+## २४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +158,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २५.१
+## २५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २५.२
+## २५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २५.३
+## २५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २५.४
+## २५.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २५.५
+## २५.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २६.१
+## २६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २६.२
+## २६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २६.३
+## २६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २६.४
+## २६.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २६.५
+## २६.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.१
+## २७.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -301,7 +301,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.२
+## २७.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,7 +314,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.३
+## २७.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.४
+## २७.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.५
+## २७.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.६
+## २७.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.७
+## २७.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.८
+## २७.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २७.९
+## २७.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २८.१
+## २८.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,7 +431,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २८.२
+## २८.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,7 +444,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २८.३
+## २८.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,7 +457,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २८.४
+## २८.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +470,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २८.५
+## २८.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,7 +483,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २९.१
+## २९.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -496,7 +496,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २९.२
+## २९.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,7 +509,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २९.३
+## २९.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,7 +522,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २९.४
+## २९.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,7 +535,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## २९.५
+## २९.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -548,7 +548,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३०.१
+## ३०.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,7 +561,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३०.२
+## ३०.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -574,7 +574,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३०.३
+## ३०.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -587,7 +587,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३०.४
+## ३०.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -600,7 +600,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३०.५
+## ३०.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -613,7 +613,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.१
+## ३१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -626,7 +626,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.२
+## ३१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -639,7 +639,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.३
+## ३१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -652,7 +652,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.४
+## ३१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -665,7 +665,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.५
+## ३१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -678,7 +678,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.६
+## ३१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -691,7 +691,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३१.७
+## ३१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -704,7 +704,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.१
+## ३२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -717,7 +717,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.२
+## ३२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -730,7 +730,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.३
+## ३२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -743,7 +743,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.४
+## ३२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -756,7 +756,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.५
+## ३२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -769,7 +769,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.६
+## ३२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,7 +782,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.७
+## ३२.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -795,7 +795,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.८
+## ३२.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -808,7 +808,7 @@ title = "७०-३ बार्हस्पत्यानि"
 </details>
 
 
-## ३२.९
+## ३२.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

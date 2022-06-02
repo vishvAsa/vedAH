@@ -2,7 +2,7 @@
 title = "०४ पुरोहितकर्माणि"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -314,7 +314,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,7 +327,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,7 +340,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,7 +353,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,7 +366,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.६
+## ०२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.७
+## ०२.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.८
+## ०२.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०२.९
+## ०२.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,7 +509,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,7 +522,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -535,7 +535,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -549,7 +549,7 @@ title = "०४ पुरोहितकर्माणि"
 
 
 (अव्परिस्_४।३।४) रात्रिं प्रपद्ये जननीं सर्वभूतनिवेशनीम् । भद्रां भगवतीं कृष्णां विश्वस्य जगतो निशाम् ॥  
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -562,7 +562,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०३.६
+## ०३.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -575,7 +575,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,7 +588,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -601,7 +601,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -614,7 +614,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -627,7 +627,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -640,7 +640,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.६
+## ०४.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -653,7 +653,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.७
+## ०४.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,7 +666,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.८
+## ०४.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,7 +679,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०४.९
+## ०४.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -731,7 +731,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.१
+## ०५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -744,7 +744,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.२
+## ०५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -757,7 +757,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.३
+## ०५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -770,7 +770,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.४
+## ०५.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -783,7 +783,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.५
+## ०५.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -796,7 +796,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.६
+## ०५.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,7 +809,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.७
+## ०५.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,7 +822,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.८
+## ०५.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,7 +835,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०५.९
+## ०५.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,7 +939,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.१
+## ०६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -952,7 +952,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.२
+## ०६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -965,7 +965,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.३
+## ०६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -978,7 +978,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.४
+## ०६.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -991,7 +991,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.५
+## ०६.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1004,7 +1004,7 @@ title = "०४ पुरोहितकर्माणि"
 </details>
 
 
-## ०६.६
+## ०६.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

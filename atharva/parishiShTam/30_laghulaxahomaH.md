@@ -2,7 +2,7 @@
 title = "३० लघुलक्षहोमः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,7 +119,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,7 +132,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +145,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +158,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "३० लघुलक्षहोमः"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

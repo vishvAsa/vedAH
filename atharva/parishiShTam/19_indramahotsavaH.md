@@ -2,7 +2,7 @@
 title = "१९ इन्द्रमहोत्सवः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.६
+## ०३.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,7 +262,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.७
+## ०३.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -275,7 +275,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.८
+## ०३.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,7 +288,7 @@ title = "१९ इन्द्रमहोत्सवः"
 </details>
 
 
-## ०३.९
+## ०३.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

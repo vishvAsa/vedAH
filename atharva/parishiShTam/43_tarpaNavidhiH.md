@@ -2,7 +2,7 @@
 title = "४३ तर्पणविधिः"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.७
+## ०१.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.८
+## ०१.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०१.९
+## ०१.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,7 +379,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,7 +392,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,7 +405,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,7 +418,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,7 +431,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -444,7 +444,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.६
+## ०२.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,7 +457,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.७
+## ०२.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,7 +470,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.८
+## ०२.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,7 +483,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०२.९
+## ०२.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1081,7 +1081,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1094,7 +1094,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1107,7 +1107,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1120,7 +1120,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1133,7 +1133,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1146,7 +1146,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.६
+## ०३.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1159,7 +1159,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.७
+## ०३.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1172,7 +1172,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.८
+## ०३.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,7 +1185,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०३.९
+## ०३.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1406,7 +1406,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1419,7 +1419,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1432,7 +1432,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1445,7 +1445,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1458,7 +1458,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1471,7 +1471,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.६
+## ०४.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1484,7 +1484,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.७
+## ०४.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1497,7 +1497,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.८
+## ०४.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1510,7 +1510,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०४.९
+## ०४.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2199,7 +2199,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०५.१
+## ०५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2212,7 +2212,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०५.२
+## ०५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2225,7 +2225,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०५.३
+## ०५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2238,7 +2238,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०५.४
+## ०५.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2251,7 +2251,7 @@ title = "४३ तर्पणविधिः"
 </details>
 
 
-## ०५.५
+## ०५.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

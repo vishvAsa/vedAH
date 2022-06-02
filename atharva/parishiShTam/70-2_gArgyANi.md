@@ -2,7 +2,7 @@
 title = "७०-२ गार्ग्याणि"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,7 +54,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -67,7 +67,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +80,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,7 +93,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,7 +106,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,7 +119,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,7 +132,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +145,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -158,7 +158,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -171,7 +171,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,7 +184,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,7 +197,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,7 +210,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,7 +223,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -236,7 +236,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,7 +249,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -263,7 +263,7 @@ title = "७०-२ गार्ग्याणि"
 
 
 (५) [थे मनुस्च्रिप्त्स् चोन्तैन् नो खण्डिका ड़िवे।]  
-## ०६.१
+## ०६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -276,7 +276,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०६.२
+## ०६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,7 +289,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०६.३
+## ०६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,7 +302,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०६.४
+## ०६.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,7 +315,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०६.५
+## ०६.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -328,7 +328,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.१
+## ०७.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,7 +341,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.२
+## ०७.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -354,7 +354,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.३
+## ०७.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,7 +367,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.४
+## ०७.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -380,7 +380,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.५
+## ०७.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,7 +393,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.६
+## ०७.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,7 +406,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.७
+## ०७.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -419,7 +419,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.८
+## ०७.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -432,7 +432,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०७.९
+## ०७.०९
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -653,7 +653,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०८.१
+## ०८.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,7 +666,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०८.२
+## ०८.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,7 +679,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०८.३
+## ०८.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -692,7 +692,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०८.४
+## ०८.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -705,7 +705,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०८.५
+## ०८.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -718,7 +718,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०९.१
+## ०९.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -731,7 +731,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०९.२
+## ०९.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -744,7 +744,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०९.३
+## ०९.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -757,7 +757,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०९.४
+## ०९.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -770,7 +770,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ०९.५
+## ०९.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -783,7 +783,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १०.१
+## १०.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -796,7 +796,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १०.२
+## १०.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -809,7 +809,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १०.३
+## १०.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -822,7 +822,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १०.४
+## १०.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -835,7 +835,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १०.५
+## १०.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -848,7 +848,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ११.१
+## ११.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -861,7 +861,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ११.२
+## ११.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -874,7 +874,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ११.३
+## ११.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,7 +887,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ११.४
+## ११.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -900,7 +900,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## ११.५
+## ११.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -913,7 +913,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १२.१
+## १२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -926,7 +926,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १२.२
+## १२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,7 +939,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १२.३
+## १२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -952,7 +952,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १२.४
+## १२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -965,7 +965,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १२.५
+## १२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -978,7 +978,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १३.१
+## १३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -991,7 +991,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १३.२
+## १३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1004,7 +1004,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १३.३
+## १३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1017,7 +1017,7 @@ title = "७०-२ गार्ग्याणि"
 </details>
 
 
-## १३.४
+## १३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

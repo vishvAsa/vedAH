@@ -2,7 +2,7 @@
 title = "२१ सम्भारलक्षणम्"
 
 +++
-## ०१.१
+## ०१.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15,7 +15,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०१.२
+## ०१.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28,7 +28,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०१.३
+## ०१.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -41,7 +41,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०१.४
+## ०१.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -56,7 +56,7 @@ title = "२१ सम्भारलक्षणम्"
 
 (१।७च्द्) गावश् च दक्षिणार्थं हि पयस्विन्यः सुलक्षणाः ।  
 (१।८अब्) षोडशाष्टौ च चत्वारश् चतुर्णां वेदवित्तमाः ॥  
-## ०१.५
+## ०१.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,7 +69,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०१.६
+## ०१.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -84,7 +84,7 @@ title = "२१ सम्भारलक्षणम्"
 
 (१।७अब्) सर्वे ते ऽपि ह्य् अथर्वाण ऋत्विजः षोडश स्मृताः ।  
 (१।८च्द्) शुद्धात्मानो जपैर् होमैर् वैदिकैर् वीतमत्सराः ॥  
-## ०२.१
+## ०२.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,7 +97,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०२.२
+## ०२.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -110,7 +110,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०२.३
+## ०२.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -123,7 +123,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०२.४
+## ०२.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,7 +136,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०२.५
+## ०२.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,7 +149,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०३.१
+## ०३.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,7 +162,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०३.२
+## ०३.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -175,7 +175,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०३.३
+## ०३.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -188,7 +188,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०३.४
+## ०३.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -201,7 +201,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०३.५
+## ०३.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -214,7 +214,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०४.१
+## ०४.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -227,7 +227,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०४.२
+## ०४.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -240,7 +240,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०४.३
+## ०४.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,7 +253,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०४.४
+## ०४.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -266,7 +266,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०४.५
+## ०४.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -279,7 +279,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०५.१
+## ०५.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,7 +292,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०५.२
+## ०५.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,7 +305,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०५.३
+## ०५.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -318,7 +318,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०५.४
+## ०५.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -331,7 +331,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.१
+## ०६.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -344,7 +344,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.२
+## ०६.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -357,7 +357,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.३
+## ०६.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -370,7 +370,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.४
+## ०६.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,7 +383,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.५
+## ०६.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -396,7 +396,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.६
+## ०६.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,7 +409,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.७
+## ०६.०७
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -422,7 +422,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०६.८
+## ०६.०८
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -435,7 +435,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.१
+## ०७.०१
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -448,7 +448,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.२
+## ०७.०२
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -461,7 +461,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.३
+## ०७.०३
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,7 +474,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.४
+## ०७.०४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -487,7 +487,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.५
+## ०७.०५
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -500,7 +500,7 @@ title = "२१ सम्भारलक्षणम्"
 </details>
 
 
-## ०७.६
+## ०७.०६
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
