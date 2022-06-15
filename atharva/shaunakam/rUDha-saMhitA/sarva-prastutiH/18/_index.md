@@ -2,12 +2,9 @@
 title = "+१८"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/_index.md">
+<details open><summary><h2>Funeral verses. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XVIII.
 
@@ -125,7 +122,6 @@ but in the Kāuś., most of the verses from 1. 40 on to the end of the
 book are quoted, solely in the chapter (*adhyāya* xi.: sections or
 *kanḍikās* 80-89) which deals with funeral rites and rites to the
 Fathers or Manes. ⌊See p. 1016.⌋
-
-
+</details>
 </details>
 </div>

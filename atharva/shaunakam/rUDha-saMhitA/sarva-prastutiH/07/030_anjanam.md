@@ -19,26 +19,23 @@ title = "०३० अञ्जनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/030_anjanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. Used by Kāuś. (54. 6) in the godāna ceremony, to accompany the anointing of the youth's eyes. Vāit. (10. 5) makes it accompany, in the paśubandha, the anointing of the sacrificial post.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 12, 65; Griffith, i. 342.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/030_anjanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to be used when the eyes are anointed
 </details>
+</details>
 </div>
-
-
 ## ०१ स्वाक्तं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/030_anjanam/01_svAktaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,23 +51,22 @@ A charm to be used when the eyes are anointed
 स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/030_anjanam/01_svAktaM_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/01_svAktaM_me.md">
+<details open><summary><h3>०१ स्वाक्तं मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Well anointed for me have heaven-and-earth, well anointed hath Mitra  
 here made \[it\]; well anointed for me may Brahmaṇaspati, well anointed  
 may Savitar make \[it\].
 
-#### Notes
+##### Notes
 The comm. supplies *akṣiyugaṁ yūpaṁ vā* for *svāktam* to agree with. The  
 meter is plainly *anuṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/030_anjanam/01_svAktaM_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Heaven, Earth, and Mitra here have caused mine eyes to be- anointed well, Savitar, Brahmanaspati take care that they be duly balmed!
+</details>
 </details>
 </div>

@@ -19,24 +19,19 @@ title = "१०१ दुःष्वप्ननाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/101_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Used by Kāuś. (46. 12) in a rite against ill effect from food eaten in dreams, and reckoned (note to 46. 9) to the duḥsvapnanāśana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaigne-Henry, Manuel, p. 157, without other comment than is implied in the title.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/101_duHShvapnanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यत् स्वप्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/101_duHShvapnanAshanam/01_yat_svapne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaig
 सर्वं॒ तद॑स्तु मे शि॒वं न॒हि तद् दृ॒ष्यते॒ दिवा॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/101_duHShvapnanAshanam/01_yat_svapne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/01_yat_svapne.md">
+<details open><summary><h3>०१ यत् स्वप्ने ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What food I eat in dream, \[and that\] is not found in the morning—be  
 all that propitious to me, for that is not seen by day.
 
-#### Notes
+##### Notes
 The comm. appears to regard *nahí* in **c** as two independent words. A  
 corresponding verse is found in ĀpśS. x. 13. 11 and HGS. i. 17. 4;  
 reading thus: *yad annam adyate naktam* (H. *sāyam*) *na tat prātaḥ  
@@ -68,12 +64,10 @@ kṣudho ‘vati* (H. *av. kṣ.*): *sarvaṁ tad asmān mā hiṅsīr* (H. *-s�
 of *me* in **c**.  
   
 ⌊☞ See p. 1045.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/101_duHShvapnanAshanam/01_yat_svapne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The food that in a dream I eat is not perceived at early morn. May all that food be blest to me because it is not seen by day.
+</details>
 </details>
 </div>

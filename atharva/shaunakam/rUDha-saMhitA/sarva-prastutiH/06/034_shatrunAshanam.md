@@ -19,26 +19,23 @@ title = "०३४ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Only vss. 1, 3, 4 found in Pāipp. xix. It is also a RV. hymn, x. 187 (with exchange of place between vss. 2 and 3); in other texts is found only the last verse. As in the case of certain previous hymns with a refrain, one may conjecture that, with omission of the refrain, and combination of the remaining parts of verses, it was made into or viewed as three verses; but the case is a much less probable one than those we have had above. ⌊Cf. Oldenberg, Die Hymnen des RV., i. 245.⌋ The hymn is employed by Kāuś. (31. 4), with vii. 114. 2, in a remedial rite against demons; and it is added (note to 8. 25) to the cātana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: by the RV. translators; and Florenz, 294 or 46; Griffith, i. 263.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Agni for protection from enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ प्राग्नये वाचमीरय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,26 +51,22 @@ To Agni for protection from enemies
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
+<details open><summary><h3>०१ प्राग्नये वाचमीरय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Send thou forth the voice for Agni, bull of people (*kṣití*): may he  
 pass us over our haters.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us past our foes.
 </details>
+</details>
 </div>
-
-
 ## ०२ यो रक्षांसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,26 +82,23 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/02_yo_raxAMsi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
+<details open><summary><h3>०२ यो रक्षांसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. He who burns down the demons, Agni, with sharp heat (*śocís*): may  
 he etc. etc.
 
-#### Notes
+##### Notes
 RV. has *vṛ́ṣā śukréṇa* at beginning of **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/02_yo_raxAMsi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bear us past our foes.
 </details>
+</details>
 </div>
-
-
 ## ०३ यः परस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -124,26 +114,23 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/03_yaH_parasyAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
+<details open><summary><h3>०३ यः परस्याः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. He who from distant distance shines over across the wastes: may he  
 etc. etc.
 
-#### Notes
+##### Notes
 Ppp. reads, for **c**, *tiro viśvā ’dhirocate*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/03_yaH_parasyAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He who from distance far remote shineth across the tracts of land, May he transport us past our foes.
 </details>
+</details>
 </div>
-
-
 ## ०४ यो विश्वाभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,26 +146,23 @@ He who from distance far remote shineth across the tracts of land, May he transp
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
+<details open><summary><h3>०४ यो विश्वाभि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Who looks forth upon and beholds together all beings: may he etc.  
 etc.
 
-#### Notes
+##### Notes
 Ppp. reads *nipaśyati* in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He who beholds all creatures, who observes them with a careful eye, May he transport us past our foes.
 </details>
+</details>
 </div>
-
-
 ## ०५ यो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -194,14 +178,15 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/034_shatrunAshanam/05_yo_asya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/05_yo_asya.md">
+<details open><summary><h3>०५ यो अस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Who, the bright Agni, was born on the further shore of this firmament  
 (*rájas*): may he etc. etc.
 
-#### Notes
+##### Notes
 Nearly all our mss. (all save O.D.K.), and the great majority of SPP's,  
 read *ajāyata*, without accent, at end of **b**; both editions give  
 *áj-*. RV. has *asya*, unaccented, in **a**. The verse is also found in  
@@ -210,12 +195,10 @@ TS. (iv. 2. 52), TB. (iii. 7. 8¹), and MS. (ii. 7. 12\*), all beginning
 agnír*, *śukráṁ jyótir* (but MS. *maháś citráṁ jyótir*); all accent  
 *ájāyata*, and TB.MS. accent *asyá* with our text. \*⌊Also at iii. 2. 4,  
 with the same reading, save *pariṣad*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/034_shatrunAshanam/05_yo_asya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That brilliant Agni who was born beyond this region of the air, May he transport us past our foes!
+</details>
 </details>
 </div>

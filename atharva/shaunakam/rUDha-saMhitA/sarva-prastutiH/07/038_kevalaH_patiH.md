@@ -19,26 +19,23 @@ title = "०३८ केवलः पतिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The first two verses of this hymn are found in Pāipp. xx., but in a fragmentary and corrupt condition; the remaining three, in iii. Used, according to Kāuś. (36. 12), with vi. 129, 139, in a rite concerning women; the plant is fastened to the head (of the woman ⌊so the comm.⌋), and she enters the village. (Keśava explains differently.) ⌊He regards a man as object of the rite (tasya śirasi baddhvā), as indeed the text of vs. 2 d requires.⌋
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 249; Ludwig, p. 515; Grill, 59, 179; Henry, 14, 68; Griffith, i. 344; Bloomfield, 103, 546.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A maiden's love-charm
 </details>
+</details>
 </div>
-
-
 ## ०१ इदं खनामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A maiden's love-charm
 प॒रा॒य॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
+<details open><summary><h3>०१ इदं खनामि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. I dig this remedy, me-regarding, greatly wailing, the returner of one  
 going away, greeter of one coming.
 
-#### Notes
+##### Notes
 Only the first half-verse is found in Ppp. The comm., after Kāuś.,  
 understands the remedy to be that named *sāuvarcala*,\* "Sochal salt."  
 *Māmpaśyam* he explains as either *mām eva nārīm paśyat* or *mām eva  
@@ -96,17 +94,13 @@ perhaps 'wailing at or after \[me\].'
 195) therefrom. See Bloomfield's note, p. 539. He observes that the  
 Sūtra does not here inspire us with confidence in its exactness.—See  
 further my addition to note on vs. 5.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I dig this Healing Herb that makes my lover look on me and weep; That bids the parting friend return and kindly greets him as he comes.
 </details>
+</details>
 </div>
-
-
 ## ०२ येना निचक्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -122,29 +116,26 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/02_yenA_nichakra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
+<details open><summary><h3>०२ येना निचक्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Wherewith the Āsurī put down Indra from among the gods, therewith put  
 I thee down, that I may be very dear ⌊fem.!⌋ to thee.
 
-#### Notes
+##### Notes
 The comm. explains *āsurī* alternatively as *asurasya māyā*, and renders  
 *ni cakre* by *yuddhe svādhīnaṁ kṛtavatī*. ⌊Weber, Henry, and Bloomfield  
 understand this vs. as relating to Indra's seduction by an *āsurī:* cf.  
 Oertel, JAOS. xix². 120.⌋ ⌊Ppp. corrupt, as noted above.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/02_yenA_nichakra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This Herb wherewith the Asuri drew Indra downward from the Gods, With this same Herb I draw thee close that I may be most dear to thee.
 </details>
+</details>
 </div>
-
-
 ## ०३ प्रतीची सोममसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,32 +151,29 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 प्र॒तीची॒ विश्वा॑न् दे॒वान् तां त्वा॒च्छाव॑दामसि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
+<details open><summary><h3>०३ प्रतीची सोममसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Correspondent (*pratī́cī*) to Soma art thou, correspondent also to the  
 sun, correspondent to all the gods; as such we address ⌊*acha-ā-vad*⌋  
 thee.
 
-#### Notes
+##### Notes
 'Correspondent,' perhaps 'a match for, as effective as'; Henry  
 translates: "looking in the face." The comm. declares the plant  
 *śan̄khapuṣpī* to be addressed in the verse, and paraphrases *pratīcī* by  
 *vaśīkaraṇārtham pratyag-añcanā*. Ppp. inserts *oṣadhe* at end of **a**,  
 and reads *anu* for *uta* in **b**. The verse admits of being read,  
 artificially, as 7 × 4 = 28.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all the Gods art thou: therefore we call thee hither-- ward.
 </details>
+</details>
 </div>
-
-
 ## ०४ अहं वदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,14 +189,15 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
+<details open><summary><h3>०४ अहं वदामि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. I am speaking; not thou; in the assembly verily do thou speak; mayest  
 thou be mine wholly; mayest thou not make mention of other women.
 
-#### Notes
+##### Notes
 Ppp. has, in **a**, *vadāni mahattvam*, and *vadāni* would be a  
 preferable reading, but it is given by only one of our mss. (D.) and  
 three of SPP's, and is not admitted in either printed text. All the mss.  
@@ -217,17 +206,13 @@ accordingly properly enough accepts; the accent is no more anomalous
 than that of *kīrtáyās* in **d**: which, however, we might regard as  
 imitated after 37. 1 **d** above, where the same half-verse is found  
 nearly unchanged.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt be mine and only mine, and never mention other dames.
 </details>
+</details>
 </div>
-
-
 ## ०५ यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,14 +228,15 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत्॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/038_kevalaH_patiH/05_yadi_vAsi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
+<details open><summary><h3>०५ यदि वासि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. If thou art either beyond people, or if beyond streams, may this  
 herb, having as it were bound \[thee\], conduct thee in hither to me.
 
-#### Notes
+##### Notes
 With *tirojanám* compare the oftener used *atijanám\*;* the virtual  
 meaning is 'in uninhabited regions.' Ppp. makes better meter in **c** by  
 reading *iyaṁ tvā mahyam oṣadhiḥ.* The comm. curiously reads  
@@ -271,12 +257,10 @@ With this hymn ends the third *anuvāka*, containing 16 hymns and 31
 verses; the Anukr. quotations are, for the hymns, *tṛtīyāntyāu* ⌊cf.  
 *anuvāka*-note following h. 118⌋ *ṣoḍaśa*, and for the verses *aṣṭāu  
 tisraś cā ’vabodhyās tṛtīye*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/038_kevalaH_patiH/05_yadi_vAsi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If thou art far away beyond the rivers, far away from men, This Herb shall seem to bind thee fast and bring thee back my prisoner.
+</details>
 </details>
 </div>

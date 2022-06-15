@@ -19,22 +19,19 @@ title = "००६ सपत्नहाऽग्निः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 TS. reads at the end pṛthivyā́s (for cátasras). Ppp. has for b saṁvatsara ṛṣayo yā nu sakhyā, and in c gives dyumnena for divyéna. The comm. glosses samās by saṁvatsarās. ⌊If the translation implies that rocanéna is an instr. of accompaniment, it is less apposite than Mr. Whitney's earlier version, 'shine together with heavenly brightness'—which I take to be Agni's own (cf. RV. x. 4. 2). His brightness is nil by day-time. The "together" were better left out.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Agni for protection
 </details>
+</details>
 </div>
-
-
 ## ०१ समास्त्वाग्न ऋतवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A prayer to Agni for protection
 सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
+<details open><summary><h3>०१ समास्त्वाग्न ऋतवो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let the summers (*sámā*), O Agni, the seasons, increase thee, the  
 years, the seers, what things are true; shine thou with the heavenly  
 bright space (*rocaná*); illuminate (*ā-bhā*) all the four directions.
 
-#### Notes
+##### Notes
 TS. reads at the end *pṛthivyā́s* (for *cátasras*). Ppp. has for **b**  
 *saṁvatsara ṛṣayo yā nu sakhyā*, and in **c** gives *dyumnena* for  
 *divyéna.* The comm. glosses *samās* by *saṁvatsarās.* ⌊If the  
@@ -66,17 +64,13 @@ translation implies that *rocanéna* is an instr. of accompaniment, it is
 less apposite than Mr. Whitney's earlier version, 'shine together with  
 heavenly brightness'—which I take to be Agni's own (cf. RV. x. 4. 2).  
 His brightness is nil by day-time. The "together" were better left out.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Half-years and seasons strengthen thee, O Agni, the years, and all the Verities, and Rishis! Flash forth with thy celestial effulgence: illumine all four regions of the heavens.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं चेध्यस्वाग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,29 +86,26 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
+<details open><summary><h3>०२ सं चेध्यस्वाग्ने ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Both do thou become kindled, Agni, and do thou increase this man, and  
 arise unto great good fortune; let not thine attendants (*upasattár*) be  
 harmed, O Agni; be thy worshipers (*brahmán*) glorious, not others.
 
-#### Notes
+##### Notes
 The other texts are in accordance in reading *bodhaya* (for *vardhaya*)  
 in **a**, and Ppp. nearly agrees with them, having *prati bodhaye ’nam;*  
 for **c** the others give *mā́ ca riṣad upasattā́ te agne.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kindle thee, Agni, and make this man prosper: rise up erect for high and happy fortune. Agni, be those uninjured who adore thee, and may thy priests be glorious and no others.
 </details>
+</details>
 </div>
-
-
 ## ०३ त्वामग्ने वृणते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -130,16 +121,17 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 स॒प॒त्न॒हाग्ने॑ अभिमाति॒जिद् भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
+<details open><summary><h3>०३ त्वामग्ने वृणते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thee, O Agni, do these Brahmans choose; be propitious to us, O Agni,  
 in the \[sacrificial\] enclosure (? *saṁváraṇa*); rival-slayer, Agni,  
 conqueror of hostile plotters, be thou; watch unremitting over thine own  
 household.
 
-#### Notes
+##### Notes
 MS. has the same text; the two others give a slightly different **c**:  
 *sapatnahā́ no abhimātijíc ca.* Ppp. has for **b** *śivo ‘gne prabhṛṇo  
 nedihi*, and for **d** *sve kṣa dīdihy aprayuchan;* it then inserts,  
@@ -148,17 +140,13 @@ Yajus-texts do the same. The comm. renders *saṁvaraṇe bhava* by
 *vidyamānasyā ’pi pramādasya saṁchādane vartasva* 'hide any oversight of  
 ours.' The Anukr. passes without notice the two *jagatī*-pādas in the  
 verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamber. Slayer of rivals, Agni, quell our foemen: watch in our house with care that never ceases.
 </details>
+</details>
 </div>
-
-
 ## ०४ क्षत्रेणाग्ने स्वेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,16 +162,17 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 स॒जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
+<details open><summary><h3>०४ क्षत्रेणाग्ने स्वेन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Take hold of thine own dominion (*kṣatrá*), Agni; with \[thy\]  
 friend, Agni, strive (*yat*) in friendly wise; \[as one\] of midmost  
 station among \[his\] fellows (*sajātá*), \[as one\] to be severally  
 invoked of kings, Agni, shine thou here.
 
-#### Notes
+##### Notes
 VS. TS. read *svā́yus* for *svéna* in **a**, and all the three parallel  
 texts have *mitradhéye* (for *-dhā́*) in **b**, while Ppp. gives  
 *mitradheyam*, and the comm. *-dhās.* In **c**, VS. TS. fill out the  
@@ -194,17 +183,13 @@ precedes, and sagely points out that Brāhmans are  Agni's 'fellows'
 because, like him, born from the mouth of Brahman, and hence that  
 *sajāta* here means Brāhmans. The metrical definition of the verse (11 +  
 11: 8 + 11 = 41) is wholly artificial and bad.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by way of friendship. Placed in the centre of our fellows, Agni, flash forth to be invoked by kings around thee.
 </details>
+</details>
 </div>
-
-
 ## ०५ अति निहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,15 +205,16 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 विश्वा॒ ह्यऽग्ने दुरि॒ता त॑र॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/006_sapatnahA_agniH/05_ati_niho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/05_ati_niho.md">
+<details open><summary><h3>०५ अति निहो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Over enviers, over delinquents, over the thoughtless, over  
 haters,—verily all difficult things, O Agni, do thou cross; then mayest  
 thou give us wealth accompanied with heroes.
 
-#### Notes
+##### Notes
 The translation implies emendation of the impossible *nihás* to *nidás;*  
 the comm. shows his usual perverse ingenuity by giving two different  
 etymologies of *nihas*, from *ni + han* and from *ni + hā;* neither of  
@@ -246,12 +232,10 @@ has *ati nuho ‘ti ninṛtīr aty arātīr ati dviṣaḥ;* for **b**, VS. TS.
 The comm. explains *sridhas* by *dehaśoṣakān rogān.* In the metrical  
 definition of the verse, *prastāra-* must be a bad reading for  
 *āstāra-.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/006_sapatnahA_agniH/05_ati_niho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Past those who slay, past enemies, past thoughtless men, past those who hate, Yea, Agni, hear us safe past all distresses: give thou us opulence with men about us.
+</details>
 </details>
 </div>

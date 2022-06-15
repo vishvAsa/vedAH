@@ -19,26 +19,23 @@ title = "०४३ मन्युशमनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/043_manyushamanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. In Kāuś. (36. 32), the hymn appears, next after hymn 42, in a rite for appeasement of anger, darbha being treated as an amulet (? oṣadhivat).
 
 
-#### Translations
+##### Translations
 Translated: Florenz, 303 or 55; Grill, 30, 162; Griffith, i. 267; Bloomfield, 137, 480.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/043_manyushamanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The same
 </details>
+</details>
 </div>
-
-
 ## ०१ अयं दर्भो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/01_ayaM_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,29 +51,26 @@ The same
 म॒न्योर्विम॑न्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/043_manyushamanam/01_ayaM_darbho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/01_ayaM_darbho.md">
+<details open><summary><h3>०१ अयं दर्भो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This *darbhá* \[is\] fury-removing, both for one's own man and for a  
 stranger; and this is called a fury-removing fury-appeaser of fury.
 
-#### Notes
+##### Notes
 The translation implies the emendation of *vimanyukasya* in **c** to  
 *-kaś ca* (as proposed by Grill, and virtually by Florenz). Ppp.  
 supports the change, reading *vimanyako manyuśamano ‘stu me;* it has  
 *vimanyakas* also in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/043_manyushamanam/01_ayaM_darbho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For stranger and for friend alike this Darbha-grass removeth wrath. Soother of Anger is it called because it calms the angry man.
 </details>
+</details>
 </div>
-
-
 ## ०२ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,29 +86,26 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/043_manyushamanam/02_ayaM_yo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/02_ayaM_yo.md">
+<details open><summary><h3>०२ अयं यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. This that is many-rooted, \[that\] reaches down (*ava-sthā*) to the  
 sea, the *darbhá*, arisen out of the earth, is called a fury-appeaser.
 
-#### Notes
+##### Notes
 Ppp. reads, in **b**, *pṛthivyām* 'in the earth,' instead of *samudrám*  
 'to the sea'; end of **c**, and **d**, *niṣṭhitas sa ce ‘stu  
 vimanyakaḥ*. The Anukr. takes no notice of the deficiency of a syllable  
 in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/043_manyushamanam/02_ayaM_yo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.
 </details>
+</details>
 </div>
-
-
 ## ०३ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/03_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -130,26 +121,25 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/043_manyushamanam/03_vi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/03_vi_te.md">
+<details open><summary><h3>०३ वि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. We conduct away the offense (? *śaráṇi*) of thy jaws, away that of  
 thy mouth, that thou mayest not speak uncontrolled, mayest come unto my  
 intent.
 
-#### Notes
+##### Notes
 The last half-verse is a repetition of vi. 42. 3 **c, d** ⌊which see⌋;  
 it is wanting in Ppp., perhaps as result of a lacuna. Most of the mss.  
 have the false reading *múkhyān* in **b**, but SPP. also emends to  
 *-ām*, being supported by the comm. The latter explains *śaráṇim* by  
 *hiṅsāhetubhūtām krodhābhivyañjikāṁ dhamanim*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/043_manyushamanam/03_vi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yield thee to my will. to speak no more rebelli- ously.
+</details>
 </details>
 </div>

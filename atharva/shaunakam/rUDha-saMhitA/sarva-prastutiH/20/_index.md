@@ -2,10 +2,9 @@
 title = "+२०"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/20/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/_index.md">
+<details open><summary><h2>xx ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 ⌊**Paippalada excerpts concerning book xx.**⌋
 
@@ -29,7 +28,6 @@ appears in Ppp.⌋
 ⌊Roth's Collation closes with the words:
 
 "explicit feliciter 25. Juni 1884."⌋
-
-
+</details>
 </details>
 </div>

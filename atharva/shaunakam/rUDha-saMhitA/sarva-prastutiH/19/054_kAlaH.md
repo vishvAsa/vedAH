@@ -19,26 +19,23 @@ title = "०५४ कालः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Properly a part of the same hymn with the preceding, and found with vss. 7-10 of the latter in Pāipp. xii. See under hymn 53.
 
 
-#### Translations
+##### Translations
 Translated: Muir, v. 409; Ludwig, p. 191; Scherman, Philosophische Hymnen, p. 80; Deussen, Geschichte, i. 1. 212; Griffith, ii. 311; Bloomfield, 225, 687.—As to the verse-division, see under vss. 2 and 5, and SPP's Critical Notice, vol. i., p. 24.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Kala; a continuation of the preceding hymn
 </details>
+</details>
 </div>
-
-
 ## ०१ कालादापः समभवन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,29 +51,26 @@ A hymn to Kala; a continuation of the preceding hymn
 का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
+<details open><summary><h3>०१ कालादापः समभवन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. From time came into being the waters; from time \[came\] the  
 *bráhman*, fervor, the quarters; by time the sun rises; in time he goes  
 to rest (*ni-viś*) again.
 
-#### Notes
+##### Notes
 All the mss. save two ⌊of SPP's⌋ read *abhavat* at end of **a**; SPP.  
 also ⌊as well as the Berlin ed.⌋ gives *-an*, with the comm., and with  
 Ppp. In **b**, the comm. reads *vratatapas* for *bráhma tápas*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun ascends by Kala, and in Kala sinks again to rest.
 </details>
+</details>
 </div>
-
-
 ## ०२ कालेन वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,14 +86,15 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 द्यौर्म॒ही का॒ल आहि॑ता ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/02_kAlena_vAtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/02_kAlena_vAtaH.md">
+<details open><summary><h3>०२ कालेन वातः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. ⌊Comm's 2 **a, b, c**.⌋ By time the wind cleanses (*pavate*); by time  
 the earth \[is\] great; the great sky in time \[is\] set.
 
-#### Notes
+##### Notes
   
   
   
@@ -111,17 +106,13 @@ four pādas each. This makes a decidedly better division, so far as the
 sense is concerned; but the mss., the Anukr., and SPP. agree in the  
 division given in our text (except as regards vs. 6), and it is  
 accordingly retained here.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/02_kAlena_vAtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests the mighty Sky.
 </details>
+</details>
 </div>
-
-
 ## ०३ कालो ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/03_kAlo_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,15 +128,16 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 का॒लादृचः॒ सम॑भव॒न् यजुः॑ का॒लाद॑जायत ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/03_kAlo_ha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/03_kAlo_ha.md">
+<details open><summary><h3>०३ कालो ह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. ⌊Comm's 2 **d, e**.⌋ Time, \[their\] son, generated of old what is  
 and what is to be. ⌊Comm's 3 **a, b**.⌋ From time the verses (*ṛ́c*) came  
 into being; the sacrificial formula (**yájus**) was born from time;—
 
-#### Notes
+##### Notes
 In the first half-verse, the translation follows the mss. ⌊they read  
 *kāló* and *putró*⌋, rather than our emendations ⌊*kālé*\* and  
 *mántro*⌋, which seem more venturesome than there is reason for; and  
@@ -163,17 +155,13 @@ he gives *purastāt* for explanation. In **c**, part of the mss. have
 *abhavat*. \*⌊As *kāló* is given by all the mss. collated by W. before  
 publication, *kālé* was indeed an emendation; but some of SPP's  
 authorities do have *kālé*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/03_kAlo_ha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In Kala erst the text produced what is and what is yet to be. From Kala sprang the Richas, and from Kala was the Yajus born.
 </details>
+</details>
 </div>
-
-
 ## ०४ कालो यज्ञं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/04_kAlo_yajnaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -189,15 +177,16 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/04_kAlo_yajnaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/04_kAlo_yajnaM.md">
+<details open><summary><h3>०४ कालो यज्ञं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. ⌊Comm's 3 **c, d**.⌋ Time set in motion (*sam-īr*) the sacrifice, an  
 unexhausted portion for the gods. ⌊Comm's 4 **a, b**.⌋ In time are set  
 firm the Gandharvas-and-Apsarases; in time the worlds;—
 
-#### Notes
+##### Notes
 In **a**, the translation implies *kālás*, with all the authorities, but  
 *āirayat*, against nearly all of them; the comm. gives *āirayat* and  
 SPP. accepts it; ⌊and it is supported by his ms. P. (which has  
@@ -246,17 +235,13 @@ combines, as there, *sāiyyate*. The most natural count of syllables (8
 Berlin text and summed up by certain mss.; but the Anukr. counts 9 and 5  
 verses (instead of 10 and 6) in hymns 47 and 54 respectively, which  
 makes the sum 61 instead of 63.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/04_kAlo_yajnaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandharvas and Apsarasas and worlds abide.
 </details>
+</details>
 </div>
-
-
 ## ०५ कालेऽयमङ्गिरा देवोऽथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/05_kAle_ayamangirA_devo_atharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -274,17 +259,17 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/054_kAlaH/05_kAle_ayamangirA_devo_atharvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/05_kAle_ayamangirA_devo_atharvA.md">
+<details open><summary><h3>०५ कालेऽयमङ्गिरा देवोऽथर्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः ।  
 इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान् विधृ॑तीश्च॒ पुण्याः॑ ।  
 सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥५॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/054_kAlaH/05_kAle_ayamangirA_devo_atharvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Atharvan and this Angiras in Kala are supreme o'er heaven. Both this world and the world that is most lofty, the pure worlds and pure intermediate spaces,--
+</details>
 </details>
 </div>

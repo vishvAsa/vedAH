@@ -19,26 +19,23 @@ title = "०१५ पुष्टिकर्म"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/015_puShTikarma/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. i. (in the verse-order 1, 4, 3, 2). Used by Kāuś. only in a general rite for prosperity (19. 4), to accompany a douche for persons bringing water from two navigable streams and partaking of a dish of mixed grain; it is also reckoned (19. 1, note) to the puṣṭika mantras, or hymns bringing prosperity.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 409; Ludwig, p. 371; Griffith, i. 19.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/015_puShTikarma/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for the prosperity of an institutor of sacrifice
 </details>
+</details>
 </div>
-
-
 ## ०१ सं सं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_saM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for the prosperity of an institutor of sacrifice
 इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्येण ह॒विषा॑ जुहोमि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/015_puShTikarma/01_saM_saM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/01_saM_saM.md">
+<details open><summary><h3>०१ सं सं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Together, together let the rivers flow, together the winds, together  
 the birds (*patatrín*); this my sacrifice let them enjoy of old; I offer  
 with a confluent (*saṁsrāvyà*) oblation.
 
-#### Notes
+##### Notes
 The verse is nearly identical with xix. 1. 1, and in less degree with  
 ii. 26. 3. From xix. 1. 3 **c** it may be conjectured that we should  
 read *pradíśas* in **c**. ⌊If we do read *pradívas*, why not render it  
@@ -74,17 +72,13 @@ but it is also unknown to the comm., who explains the word only
 etymologically. The verse is an *āstārapan̄kti* (strictly *virāj:* 8 + 8:  
 11 + 11 = 38), and its definition as such is perhaps dropped out of the  
 Anukr. text (which reads *ādyā dvitīyā bhurik* etc.).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/015_puShTikarma/01_saM_saM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the streams, flow together, let the winds and birds assembled come. Let this my sacrifice delight them always. I offer it with duly mixt oblation.
 </details>
+</details>
 </div>
-
-
 ## ०२ इहैव हवमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,30 +94,27 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन् ति॑ष्ठतु॒ या र॒यिः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/015_puShTikarma/02_ihaiva_havamA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/02_ihaiva_havamA.md">
+<details open><summary><h3>०२ इहैव हवमा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Come straight hither to my call, hither ye confluents also; increase  
 this man, ye songs; let every beast (*paśú*) there is come hither; let  
 what wealth (*rayí*) there is stay (*sthā*) with him.
 
-#### Notes
+##### Notes
 The *pada*-mss. all give *yā́ḥ* in **e**. Ppp. has in **a, b** *idaṁ  
 havyā ttpetane 'daṁ*, and, for **c**, *asya vardhayato rayim*. The last  
 pāda is nearly RV. x. 19. 3 **d**. ⌊Render 'with this man let' etc.⌋ The  
 omission of *evá* in **a** would make the verse regular.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/015_puShTikarma/02_ihaiva_havamA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengthen and increase this man. Hither come every animal: with this man let all wealth abide.
 </details>
+</details>
 </div>
-
-
 ## ०३ ये नदीनां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -139,27 +130,24 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/015_puShTikarma/03_ye_nadInAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/03_ye_nadInAM.md">
+<details open><summary><h3>०३ ये नदीनां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  3. What fountains of the streams flow together, ever unexhausted, with  
 all those confluences we make riches (*dhána*) flow together for me.
 
-#### Notes
+##### Notes
 Ppp. has in **a, b** *ye nadībhyas saṁsravanty ucchāmas saram akṣikā.*  
 The comm. gives the verse twice, each time with a separate explanation.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/015_puShTikarma/03_ye_nadInAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All river founts that blend their streams for ever inexhaustible-- With all these confluent streams of mine we make abundant riches flow.
 </details>
+</details>
 </div>
-
-
 ## ०४ ये सर्पिषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -175,24 +163,23 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/015_puShTikarma/04_ye_sarpiShaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/04_ye_sarpiShaH.md">
+<details open><summary><h3>०४ ये सर्पिषः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. What \[fountains\] of butter (*sarpís*) flow together, and of milk,  
 and of water, with all those confluences we make riches flow together  
 for me.
 
-#### Notes
+##### Notes
 Ppp. reads *saṁsrāvās* for *sarpiṣas* in **a.** The comm. supphes first  
 *avayavās* as omitted subject in the verse, but afterwards *utsāsas*  
 from vs. 3, which is of course right.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/015_puShTikarma/04_ye_sarpiShaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All streams of melted butter, and all streams of water and of milk With all these confluent streams of mine we make abundant riches flow.
+</details>
 </details>
 </div>

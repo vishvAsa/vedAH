@@ -2,12 +2,9 @@
 title = "+१०"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/10/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/_index.md">
+<details open><summary><h2>X. Book the tenth ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book X.
 
@@ -37,9 +34,6 @@ acceptable:
 Sum of verses, 350. The sum of "decad"-*sūktas* is 35. In this book,
 therefore, the average length of the "decad"-*sūktas* is precisely 10
 verses.⌋
-
-  
-
-
+</details>
 </details>
 </div>

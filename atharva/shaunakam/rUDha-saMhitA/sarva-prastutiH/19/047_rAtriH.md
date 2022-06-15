@@ -19,26 +19,23 @@ title = "०४७ रात्रिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. vi. According to the comm., hymns 47 and 48 form a single "sense-hymn" (arthasūkta), and 49 and 50 another; and their use is prescribed in Pariś. 4. 3-5, as of two hymns, in a ceremony of worship of night.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 467; Zimmer, p. 179; Griffith, ii. 303.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Night for protection from fiends, robbers, snakes and wolves
 </details>
+</details>
 </div>
-
-
 ## ०१ आ रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/01_A_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A hymn to Night for protection from fiends, robbers, snakes and wolves
 दि॒वः सदां॑सि बृह॒ती वि ति॑ष्ठस॒ आ त्वे॒षं व॑र्तते॒ तमः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/01_A_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/01_A_rAtri.md">
+<details open><summary><h3>०१ आ रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O night, the earthly space (*rájas*) hath been filled with the  
 father's orderings (*dhā́man*); great, thou spreadest thyself (*vi-sthā*)  
 to the seats of the sky; bright darkness comes on (*ā-vṛt*).
 
-#### Notes
+##### Notes
 The verse is VS. xxxiv. 32, and is also found as first verse of a  
 *khila* (Aufr., p. 682) to RV. x. 127, in both places without variant.  
 ⌊It is quoted in Nirukta, Dāivatakāṇḍa iii. 29.⌋ Ppp. reads in **b**  
@@ -72,17 +70,13 @@ commonplace *dyāuḥ pitā pṛthivī mātā* in support of it; *dhāmabhis* he
 glosses with *sthānāiḥ saha*, and *tveṣam* with *dīpyamānam*. ⌊For  
 *dhā́mabhis* we might perhaps better say 'by or in accordance with the  
 orderings'; but Griffith understands it as 'wondrous works.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/01_A_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Night! the terrestrial realm hath been filled with the Father's power and might. Thou spreadest forth on high unto the seats of Heaven: dark- ness that strikes with awe comes near.
 </details>
+</details>
 </div>
-
-
 ## ०२ न यस्याः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/02_na_yasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,16 +92,17 @@ Night! the terrestrial realm hath been filled with the Father's power and might.
 अरि॑ष्टासस्त उर्वि तमस्वति॒ रात्रि॑ पा॒रम॑शीमहि॒ भद्रे॑ पा॒रम॑शीमहि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/02_na_yasyAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/02_na_yasyAH.md">
+<details open><summary><h3>०२ न यस्याः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. She of whom the further limit is not seen, nor what separates; in her  
 everything that stirs goes to rest (*ni-viś*); uninjured may we, O wide  
 darksome night, attain thy further limit—may we, O excellent one, attain  
 thy further limit.
 
-#### Notes
+##### Notes
 In **a**, SPP. accents *dádṛśe*, without adding any note as to  
 ms.-readings; it is perhaps merely an oversight, as all our mss. save  
 one have plainly *dadṛśé*, and this is the Atharvan accent (cf. x. 8.  
@@ -116,17 +111,13 @@ one have plainly *dadṛśé*, and this is the Atharvan accent (cf. x. 8.
 corrupt. The comm. connects *na yoyuvat* with what follows, and explains  
 it thus: *na vibhajamānaṁ vibhaktaṁ nā ”sīt kiṁ tu viśvam ekākāram evā  
 ’bhūt*. The RV. *khila*, in vs. 4, has pāda **e**, twice repeated.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/02_na_yasyAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Each moving thing finds rest in her whose yonder boundary is not seen, nor that which keeps her separate. O spacious, darksome Night, may we uninjured reach the end of thee, reach, O thou blessed One, thine end.
 </details>
+</details>
 </div>
-
-
 ## ०३ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/03_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,15 +133,16 @@ Each moving thing finds rest in her whose yonder boundary is not seen, nor that 
 अ॒शी॒तिः सन्त्य॒ष्टा उ॒तो ते॑ स॒प्त स॑प्त॒तिः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/03_ye_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/03_ye_te.md">
+<details open><summary><h3>०३ ये ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The men-watching lookers that are thine, O night, ninety \[and\]  
 nine—eighty are they \[and\] eight, also seven \[and\] seventy of  
 thine;—
 
-#### Notes
+##### Notes
 In **b**, SPP's *pada*-mss. have *navatī́ḥ*. In **c**, the decided  
 majority accent *aśī́tis*, and all *santi*, which SPP. emends to *sánti*,  
 thus changing "the ancient accent," and without sufficient reason, since  
@@ -166,17 +158,13 @@ as "troop-gods" (*gaṇadevās*), and does not so much as hint at any
 connection with the stars, which nevertheless we cannot well question to  
 be meant, in their various and manifold groupings. A *ca* after *aṣṭāú*  
 in **c** would be a welcome addition to both meter and sense.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/03_ye_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in number, or seven-and-seventy are they.
 </details>
+</details>
 </div>
-
-
 ## ०४ षष्टिश्च षट्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/04_ShaShTishcha_ShaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -192,26 +180,23 @@ Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in n
 च॒त्वार॑श्चत्वारिं॒शच्च॒ त्रय॑स्त्रिं॒शच्च॑ वाजिनि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/04_ShaShTishcha_ShaT.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/04_ShaShTishcha_ShaT.md">
+<details open><summary><h3>०४ षष्टिश्च षट् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. And sixty and six, O wealthy one; fifty \[and\] five, O pleasant one;  
 four and forty, three and thirty, O mighty (*vājín*) one;—
 
-#### Notes
+##### Notes
 Ppp. has in **b** *naśaṁnihi*, in **d** *vādini*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/04_ShaShTishcha_ShaT.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty-three are they, O thou enriched with spoil.
 </details>
+</details>
 </div>
-
-
 ## ०५ द्वौ च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/05_dvau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,15 +212,16 @@ Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty
 तेभि॑र्नो अ॒द्य पा॒युभि॒र्नु पा॑हि दुहितर्दिवः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/05_dvau_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/05_dvau_cha.md">
+<details open><summary><h3>०५ द्वौ च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. And two of thine and twenty of thine, O night; eleven the least  
 (*avamá*)—with those protectors today do thou protect us, O daughter of  
 the sky.
 
-#### Notes
+##### Notes
 At beginning of **d** all the authorities ⌊with one unimportant variant⌋  
 read *ná*, which seems impossible. We emended it to *ní* (cf. *ní pāti*  
 in ix. 10. 23); SPP., following that blind guide the comm., reads *nú;*  
@@ -243,17 +229,13 @@ this is entirely unacceptable, both on account of the sense, and because
 *nú* cannot stand at the beginning of a pāda: cf. note to v. 6. 5. The  
 authorities are much at odds as to the accent of *duhitar divas*, the  
 majority having *duhitár divás*. Ppp. reads in **b** *rātrī ek-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/05_dvau_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these protectors guard us well. O Daughter of the Sky, to- day.
 </details>
+</details>
 </div>
-
-
 ## ०६ रक्षा माकिर्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/06_raxA_mAkirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -269,14 +251,15 @@ Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these prot
 मा नो॑ अ॒द्य गवां॑ स्ते॒नो मावी॑नां॒ वृक॑ ईशत ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/06_raxA_mAkirno.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/06_raxA_mAkirno.md">
+<details open><summary><h3>०६ रक्षा माकिर्नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let no demon, \[no\] mischief-plotter master us; let no evil-plotter  
 master us; let no thief today master our kine, nor a wolf our sheep;—
 
-#### Notes
+##### Notes
 The mss. have at the beginning *rákṣā* (p. *rákṣa*), as 2d sing,  
 imperative, and pāda **d** of RV. vi. 71. 3 (the verse is found also in  
 VS. ⌊xxxiii. 69⌋ TS. ⌊i. 4. 24¹⌋ TB. ⌊ii.4. 4⁷⌋ MS. ⌊i. 3. 27⌋) gives  
@@ -328,17 +311,13 @@ course the snake, as the comm. also has sense to see (*rajjuvad āyataḥ
 sarpādiḥ*). Our 8 **a, b** is identical with iv. 3. 2 **c, d**; and our  
 7 **c, d** resembles **a, b** of the same verse. ⌊For *yātudhānyàs* the  
 comm. reads the masculine, *-nās*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/06_raxA_mAkirno.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robber seize our cows, nor the wolf take our sheep today.
 </details>
+</details>
 </div>
-
-
 ## ०७ माश्वानां भद्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,22 +335,20 @@ Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robbe
 परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
+<details open><summary><h3>०७ माश्वानां भद्रे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 माश्वा॑नां भद्रे॒ तस्क॑रो॒ मा नृ॒णां या॑तुधा॒न्यः ।  
 प॒र॒मेभिः॑ प॒थिभिः॑ स्ते॒नो धा॑वतु॒ तस्क॑रः ।  
-परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥७॥  
+परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥७॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/07_mAshvAnAM_bhadre.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the thief, O Blessed, seize our horses, nor she-fiends our men. Let thief and robber run away on pathways most remote from us.
 </details>
+</details>
 </div>
-
-
 ## ०८ अध रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/08_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -387,15 +364,16 @@ Let not the thief, O Blessed, seize our horses, nor she-fiends our men. Let thie
 हनू॒ वृक॑स्य ज॒म्भया॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/08_adha_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/08_adha_rAtri.md">
+<details open><summary><h3>०८ अध रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8 **c, d**, 9 **a, b.** (8.) Do thou, O night, make the snake blind,  
 harsh-smoked (?), headless; grind up the two jaws of the wolf; cast  
 (*ā-han*) the thief into the snare.
 
-#### Notes
+##### Notes
 ⌊Apart from the variation in **c**, the verse is identical with 50. 1,  
 below: see note thereon.⌋ All the mss. (except, by accident, one of  
 SPP's) at the beginning have *ándha;* SPP. reads *ádha*, with one ms.  
@@ -433,17 +411,13 @@ of *tám* easy. With the Berlin solution of the corruption, the meter is
 in perfect order. The interesting parallel from the Avesta, *hām zanva  
 zembayadhwem*, Yasht i. 27, adduced by Geldner, KZ. xxx. 514, may here  
 be noted.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/08_adha_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make blind and headless. Night, the serpent with his pungent breath.
 </details>
+</details>
 </div>
-
-
 ## ०९ त्वयि रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/047_rAtriH/09_tvayi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -459,25 +433,24 @@ Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make b
 गोभ्यो॑ नः॒ शर्म॑ य॒च्छाश्वे॑भ्यः॒ पुरु॑षेभ्यः ॥९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/047_rAtriH/09_tvayi_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/09_tvayi_rAtri.md">
+<details open><summary><h3>०९ त्वयि रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9 **c, d**, 10. (9.) With thee, O night, we stay; we shall sleep, do  
 thou watch; yield refuge to our kine, horses, men (*púruṣa*).
 
-#### Notes
+##### Notes
 'Stay' (*vas*) means specifically 'spend the night.' In **b** the  
 *pada*-mss. commit the incredible blunder of dividing *svapiṣyā́m: ási*  
 (or *asi*); some of the *saṁhitā*-mss. accent *svápiṣyā́-* and all either  
 *jāgṛhi* or *jā́gṛhi;* SPP. follows us in violating the "ancient accent"  
 and emending a *jāgṛhí*. In **c**, Ppp. has *yachād aś-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/047_rAtriH/09_tvayi_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Crush the wolf's jaws in pieces, strike the robber dead against a post. In thee, O Night, do we abide: we here will sleep. Be watchful thou.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०१२ शान्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/012_shAntiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn, or verse, is wanting in Pāipp. Its first half is identical with RV. x. 172. 4; its second half, with RV. vi. 17. 15 (also SV. i. 454). It is reckoned as a śanti-hymn, and used as such in company with the hymns that precede it ⌊see note to Kāuś. 9. 7⌋.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 273; and by the RV. translators.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/012_shAntiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Ushas or Dawn for wealth and long life
 </details>
+</details>
 </div>
-
-
 ## ०१ उषा अप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/012_shAntiH/01_uShA_apa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,27 +51,26 @@ A prayer to Ushas or Dawn for wealth and long life
 अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/012_shAntiH/01_uShA_apa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/01_uShA_apa.md">
+<details open><summary><h3>०१ उषा अप ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The dawn, with nobleness, makes the darkness roll together \[and\]  
 away on her sister's track; therewith may we win the prize (*vā́ja*) set  
 by the gods; may we revel, living a hundred winters, rich in heroes.
 
-#### Notes
+##### Notes
 The sense of the first half-verse is difficult and doubtful. *Ápa* in  
 **a** is really an emendation ⌊following RV.⌋, all our mss. ⌊save B.,  
 which has *áṣaḥ*⌋, and very nearly all SPP's (only one has *ápa* ⌊and  
 one, *apá*⌋) reading instead *ápaḥ;* the comm. has *apa*. Half ⌊of SPP's  
 authorities, and one or two of W's⌋ give in **b** *suyātátā*. The comm.  
 amuses himself with etymologizing *svasṛ* as *svayant eva sāriṇī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/012_shAntiH/01_uShA_apa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dawn drives away her sister's gloom, and through her excellence makes her retrace her path. Through her may we gain God-appointed treasure, and with brave sons be glad through hundred winters.
+</details>
 </details>
 </div>

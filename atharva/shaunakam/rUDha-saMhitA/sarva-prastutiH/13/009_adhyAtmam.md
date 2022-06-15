@@ -20,16 +20,10 @@ title = "००९ अध्यात्मम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ उरुः पृथुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -43,30 +37,27 @@ title = "००९ अध्यात्मम्"
 उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् । नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/01_uruH_pRthuH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/01_uruH_pRthuH.md">
+<details open><summary><h3>०१ उरुः पृथुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 52. As called wide, broad, happy (*subhū́*), earths (? *bhúvas*), do we  
 worship thee.
 
-#### Notes
+##### Notes
 *Bhúvas* is here rendered literally, in the only sense which the word  
 has elsewhere in AV. If it is a first appearance of the *vyāhṛti* common  
 later, its meaning is wholly obscure in this connection. ⌊Aufrecht, KZ.  
 xxxiv. 458, makes some observations about the relations of the  
 noun-forms and adjective-forms in vss. 52-53.⌋
+</details>
+<details><summary>Griffith</summary>
 
+उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् । नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५२॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/01_uruH_pRthuH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-
-उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् । नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५२॥  
-</details>
-</div>
-
-
 ## ०२ प्रथो वरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -80,25 +71,21 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/02_pratho_varo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/02_pratho_varo.md">
+<details open><summary><h3>०२ प्रथो वरो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 53. As called breadth, width, expanse, world, do we worship thee.
 
-#### Notes
+##### Notes
+</details>
+<details><summary>Griffith</summary>
 
-
+प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५३॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/02_pratho_varo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-
-प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५३॥  
-</details>
-</div>
-
-
 ## ०३ भवद्वसुरिदद्वसुः संयद्वसुरायद्वसुरिति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,14 +99,15 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम्॥५४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
+<details open><summary><h3>०३ भवद्वसुरिदद्वसुः संयद्वसुरायद्वसुरिति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 54. As called one of arising good, of increasing (??) good, of  
 gathering good, of coming good, do we worship thee.
 
-#### Notes
+##### Notes
 The translation implies the heroic substitution of *vṛdhádvasu* for the  
 wholly senseless *idádvasu*. The Pet. Lexx., to be sure, conjecture for  
 the latter the meaning 'rich in this and that' (which Henry follows);  
@@ -129,17 +117,13 @@ the compound, nor has it any application here. Our rendering has at
 least concinnity—unless, indeed, in a text of this character, that be an  
 argument against its acceptance. All the compounds are evidently  
 possessive.
+</details>
+<details><summary>Griffith</summary>
 
+भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम्॥५४॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-
-भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम्॥५४॥  
-</details>
-</div>
-
-
 ## ०४ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,25 +137,21 @@ possessive.
 नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥५५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/04_namaste_astu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/04_namaste_astu.md">
+<details open><summary><h3>०४ नमस्ते अस्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 55. Homage be to thee, O conspicuous one; see me, O conspicuous one.
 
-#### Notes
+##### Notes
+</details>
+<details><summary>Griffith</summary>
 
-
+नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥५५॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/04_namaste_astu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥५५॥  
-</details>
-</div>
-
-
 ## ०५ अन्नाद्येन यशसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -185,14 +165,15 @@ possessive.
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥५६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/009_adhyAtmam/05_annAdyena_yashasA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
+<details open><summary><h3>०५ अन्नाद्येन यशसा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 56. With food-eating, with glory, with brilliancy, with  
 Brahman-splendor.
 
-#### Notes
+##### Notes
   
   
   
@@ -223,12 +204,10 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 188.⌋  
   
 ⌊Here ends the twenty-eighth *prapāṭhaka*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/009_adhyAtmam/05_annAdyena_yashasA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥५६॥
+</details>
 </details>
 </div>

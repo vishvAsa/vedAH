@@ -19,24 +19,19 @@ title = "१४० सुमङ्गलौ दन्तौ"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/140_sumangalau_dantau/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used by Kāuś. (46. 43-46) in an expiatory rite when the two upper teeth of a child appear first; it "is made to bite the things mentioned in the text; and both it and its parents are made to eat of the grain so mentioned after it has been boiled in consecrated water."
 
 
-#### Translations
+##### Translations
 Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 540.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/140_sumangalau_dantau/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यौ व्याघ्रववरूढौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/01_yau_vyAghravavarUDhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,28 +47,25 @@ Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 5
 यौ दन्तौ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/140_sumangalau_dantau/01_yau_vyAghravavarUDhau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/01_yau_vyAghravavarUDhau.md">
+<details open><summary><h3>०१ यौ व्याघ्रववरूढौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The (two) tigers that, having grown down, desire to devour father  
 and mother—those (two) teeth, O Brahmaṇaspati, make thou propitious, O  
 Jātavedas.
 
-#### Notes
+##### Notes
 Our P.M.W. read *kṛṇuhi* in **d**. Ppp., instead of **d**, gives the  
 refrain of 2, 3: *mā hiṅs-* etc.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/140_sumangalau_dantau/01_yau_vyAghravavarUDhau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahmanaspati, and thou, O Jatavedas, both these teeth.
 </details>
+</details>
 </div>
-
-
 ## ०२ व्रीहिमत्तं यवमत्तमथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,31 +81,28 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
+<details open><summary><h3>०२ व्रीहिमत्तं यवमत्तमथो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Eat ye (two) rice; eat ye barley; then beans, then sesame; this is  
 your deposited (*níhita*) portion for treasuring, ye (two) teeth; do not  
 injure father and mother.
 
-#### Notes
+##### Notes
 Instead of *atho māṣam* in **b**, Ppp. has *māṣām attam;* it begins  
 **c** with *sa* for *eṣa*, and reads *-dheyam* in **d**. The comm.  
 paraphrases *ratnadheyāya* by *ramaṇīyaphalāya*. The verse (8 + 8: 8 +  
 7 + 11 = 42) is but ill-defined by the Anukr. ⌊It is really an  
 *anuṣṭubh* with **d** catalectic, and with a *triṣṭubh* refrain.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let rice and barley be your food, eat also beans and sesamum. This is the share allotted you, to be your portion, ye two Teeth. Harm not your mother and your sire.
 </details>
+</details>
 </div>
-
-
 ## ०३ उपहूतौ सयुजौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -129,15 +118,16 @@ Let rice and barley be your food, eat also beans and sesamum. This is the share 
 अ॒न्यत्र॑ वां घो॒रं त॒न्वः॑१ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
+<details open><summary><h3>०३ उपहूतौ सयुजौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Invoked \[are\] the two conjoint, pleasant, very propitious teeth;  
 let what is terrible of your selves (*tanū́*) go away elsewhere, ye  
 teeth; do not injure father and mother.
 
-#### Notes
+##### Notes
 Ppp. reads *aghorāu sayujā saṁvidānāu*, and adds at the end *anyatra vāṁ  
 tanvo ghoratn astu*. The comm. reads *tanvās* in **c**. The definition  
 of the Anukr. fits the verse (7 + 8: 13 + 11) very ill. ⌊Whitney's notes  
@@ -145,12 +135,10 @@ show that he had suspected *sayújāu* to be a misreading for *suyújāu*,
 and the latter is the form actually given by the *Index Verborum;* but  
 further notes show that Bp. and the Anukr. read *sa-*. With them agree  
 SPP. and the comm. and Ppp. Correct the *Index* accordingly.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whither let the fierceness of your nature turn away, O Teeth! Harm not your mother or your sire.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०४१ राष्ट्रं बलमोजश्च"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/041_rAShTraM_balamojashcha/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. No viniyoga.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 298.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/041_rAShTraM_balamojashcha/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benediction on a newly elected king
 </details>
+</details>
 </div>
-
-
 ## ०१ भद्रमिच्छन्त ऋषयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A benediction on a newly elected king
 ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
+<details open><summary><h3>०१ भद्रमिच्छन्त ऋषयः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Desiring what is excellent, the heaven-finding seers in the beginning  
 sat down in attendance upon (*upa-ni-sad*) ardor \[and\] consecration;  
 thence \[is\] born royalty, strength, and force; let the gods make that  
 submissive to this man.
 
-#### Notes
+##### Notes
 *Asmé* 'to us' would be an acceptable emendation in **d**; ⌊but TS. has  
 *asmāí*⌋. The comm. glosses *upaníṣedus* simply by *prāptās;* in his  
 explanation of **c, d** there is a considerable lacuna. A corresponding  
@@ -71,12 +69,10 @@ verse is found in TS. (in v. 7.4³; repeated without variation in TA.
 iii. it. 9): *bhadrám páśyanta úpa sedur ágre tápo dīkṣā́m ṛ́ṣayaḥ  
 suvarvídaḥ: tátaḥ kṣatrám bálam ójaś ca jātáṁ tád asmāí devā́ abhí sáṁ  
 namantu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Desiring bliss, at first, light-finding Rishis began religious rite and holy fervour. Thence energy was born, and might, and kingship: so to this man let gathered Gods incline them.
+</details>
 </details>
 </div>

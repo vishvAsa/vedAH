@@ -19,26 +19,23 @@ title = "०१४ कुलपा कन्या"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/014_kulapA_kanyA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. i. Used by Kāuś. (36. 15-18) in an incantation against a woman; the details of it cast no light on those of the hymn; and the comm. defines its purpose simply as striyāḥ puruṣasya vā dāurbhāgyakaraṇam.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 408; Ludwig, p. 459; Zimmer, p. 314 (these misapprehend its character); Griffith, i. 17; Bloomfield, JAOS. xiii. p. cxv = PAOS. May, 1886; or AJP. vii. 473 ff.; or SBE. xlii. 107, 252.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/014_kulapA_kanyA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A woman's incantation against a rival
 </details>
+</details>
 </div>
-
-
 ## ०१ भगमस्या वर्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A woman's incantation against a rival
 म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक् पि॒तृष्वा॑स्ताम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
+<details open><summary><h3>०१ भगमस्या वर्च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Her portion (*bhága*), splendor have I taken to myself, as from off a  
 tree a garland; like a mountain with great base, let her sit long with  
 the Fathers.
 
-#### Notes
+##### Notes
 Ppp. has for **a** *ahaṁ te bhagam ā dade;* its **b** is defaced; in  
 **c** it gives *mahāmūlāi 'va*. The comm. renders *bhagam* by *bhāgyam*,  
 here and in the other verse, recognizing no sexual meaning. *Pitṛṣu* he  
@@ -76,17 +74,13 @@ and her stay at home compared to that in the other world. ⌊Cf. Antigone,
 816, "I shall be the bride of Acheron," Ἀχέροντι νυμφεύσω.⌋ The Anukr.  
 appears to ratify the abbreviated reading *-budhne 'va* in **c**; it  
 counts six syllables in **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As from the tree a wreath, have I assumed her fortune and her fame: Among her kinsfolk long may she dwell, like a mountain broadly- based.
 </details>
+</details>
 </div>
-
-
 ## ०२ एषा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,15 +96,16 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 सा मा॒तुर्ब॑ध्यतां गृ॒हेऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/014_kulapA_kanyA/02_eShA_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/02_eShA_te.md">
+<details open><summary><h3>०२ एषा ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let this girl, O king, be shaken down to thee \[as\] bride, O Yama;  
 be she bound in her mother's house, also in her brother's, also in her  
 father's.
 
-#### Notes
+##### Notes
 Ppp. has *yat* for *eṣā* at the beginning. The comm. foolishly  
 interprets *rājan* as indicating Soma, because Soma is first husband of  
 a bride (he quotes RV. x. 85. 40: cf. AV. xiv. 2. 3 ff.), and takes  
@@ -118,17 +113,13 @@ a bride (he quotes RV. x. 85. 40: cf. AV. xiv. 2. 3 ff.), and takes
 *ni-dhū* compare iii. 11. 7; at TS. v. 2. 53 it is used with *pitṛṣu*.  
 ⌊Does not *ni-dhū* covertly suggest *nidhuvana*, which, in its obscene  
 sense, may be as old as the Veda?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/014_kulapA_kanyA/02_eShA_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 King Yama, let this maiden be surrendered as a wife to thee: Bound let her be meanwhile within, her mother's, brother's, father's house.
 </details>
+</details>
 </div>
-
-
 ## ०३ एषा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,14 +135,15 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 ज्योक् पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/014_kulapA_kanyA/03_eShA_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/03_eShA_te.md">
+<details open><summary><h3>०३ एषा ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. She is thy housekeeper, O king; we commit her to thee; she shall sit  
 long with the Fathers, until the covering in of her head.
 
-#### Notes
+##### Notes
 The translation of **d** implies the obvious emendation to *samopyāt*,  
 which SPP. even admits into his text, on the authority of the comm., but  
 against every known ms.; Ppp., however, gives *samopyā*. The comm.  
@@ -166,17 +158,13 @@ in **b**. The comm. gives *kulapā* (for *-pās:* our *pada*-text
 *kula॰pā́ḥ*) in **a**. The resolution *śīr-ṣṇ-aḥ* in **d** would make the  
 verse a full *anuṣṭubh;* the Anukr. counts only 14 syllables in the  
 second half.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/014_kulapA_kanyA/03_eShA_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsfolk may she sit, until her hair be white with age.
 </details>
+</details>
 </div>
-
-
 ## ०४ असितस्य ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -192,27 +180,26 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 अ॒न्तः॒को॒शमि॑व जा॒मयोऽपि॑ नह्यामि ते॒ भग॑म्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/014_kulapA_kanyA/04_asitasya_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/04_asitasya_te.md">
+<details open><summary><h3>०४ असितस्य ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. With the incantation (*bráman*) of Asita, of Kaśyapa, and of Gaya, I  
 shut up (*api-nah*) thy portion (*vulva?*), as sisters do what is within  
 a box (*-kóśa*).
 
-#### Notes
+##### Notes
 ⌊For the names, see Bloomfield, 255, and AJP. xvii. 403.⌋ *Bhaga*  
 perhaps has here a double meaning. Three of our mss. (E.I.H.) with one  
 or two of SPP's, read in **c** *antaṣkośám*, against Prāt. ii. 62, which  
 expressly prescribes *ḥ*. The comm. treats *antaḥ* and *kośam* as two  
 independent words; *antáḥ kóśe* would be a not unacceptable emendation.  
 The Anukr. appears to sanction the abbreviation *-kośaṁ 'va.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/014_kulapA_kanyA/04_asitasya_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With Asita's and Kasyapa's and Gaya's incantation, thus As sisters pack within a chest, I bind and tie thy fortune up.
+</details>
 </details>
 </div>

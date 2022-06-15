@@ -19,24 +19,19 @@ title = "०९८ हविः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/098_haviH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. In Kāuś. (6. 7), the verse accompanies, at the parvan sacrifice, the distribution of barhis to each divinity; and again (88. 6), in the piṇḍapitṛyajña, the sprinkling of rice-grains joined with darbha. In Vāit. (4.6), it goes with the casting of the prastara into the fire in the parvan sacrifice.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 40, 112; Griffith, i. 377.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/098_haviH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ सं बर्हिरक्तं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/098_haviH/01_saM_barhiraktaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गच्छतु ह॒विः स्वाहा॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/098_haviH/01_saM_barhiraktaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/01_saM_barhiraktaM.md">
+<details open><summary><h3>०१ सं बर्हिरक्तं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The *barhis* is all (*sám*) anointed with oblation, with ghee, all by  
 the good Indra, all by the Maruts; \[it is\] all anointed by the gods,  
 by the all-gods; let the oblation go to Indra: hail!
 
-#### Notes
+##### Notes
 A corresponding but quite different verse is found as VS. ii. 22  
 (immediately following a repetition of the VS. version of our 97. 7, 8):  
 it reads *an̄ktām* instead of *aktám* in **a** and **c**, has *ādityāír  
@@ -69,12 +65,10 @@ and, for **d**, *divyáṁ nábho gachatu yát svā́hā*. Ppp. also has (better
 *vasubhis* for *vasunā* in **b**, and *devebhis* in **c**, rectifying  
 its meter. The comm. reads *barhis* for *havis* in **d**. The verse  
 lacks three syllables in its second half.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/098_haviH/01_saM_barhiraktaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Balmed is the Grass with butter and libation, with Indra. gracious Lord, and with the Maruts. Hail! let the sacrifice go forth anointed to Indra with the Gods and Visve Devas.
+</details>
 </details>
 </div>

@@ -19,22 +19,19 @@ title = "०१८ वनस्पतिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This peculiarly Atharvan hymn has found its way also into the tenth book of the Rig-Veda (as x. 145, with exchange of place between vss. 3 and 4; it is repeated in RV. order at MP. i. 15. 1-6). Only three verses (our 4, 2, 1, in this order) are found in Pāipp. (vii.). Kāuś. uses it, among the women's rites, in a charm (36. 19-21) for getting the better of a rival; vs. 6 a and b accompany the putting of leaves under and upon the (rival's) bed. And the comm. (doubtless wrongly) regards vss. 5 and 6 to be intended by the pratīka quoted in 38. 30, instead of xii. 1.54, which has the same beginning.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A jealous wife's incantation against a rival
 </details>
+</details>
 </div>
-
-
 ## ०१ इमां खनाम्योषधिं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/01_imAM_khanAmyoShadhiM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,31 +47,28 @@ A jealous wife's incantation against a rival
 यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/01_imAM_khanAmyoShadhiM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/01_imAM_khanAmyoShadhiM.md">
+<details open><summary><h3>०१ इमां खनाम्योषधिं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. I dig this herb, of plants the strongest, with which one drives off  
 (*bādh*) her rival; with which one wins completely (*sam-vid*) her  
 husband.
 
-#### Notes
+##### Notes
 RV. reads in **b** the accus. *vīrúdham*. For **d**, Ppp. gives *kṛṇute  
 kevalaṁ patim*. The comm. (with our Op.) has *oṣadhīm* in **a**; he  
 understands throughout the herb in question to be the *pāṭhā* (cf. ii.  
 27. 4), though Kāuś. and the Anukr. speak only of *bāṇāparṇī* 'arrow  
 leaf' (not identified).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/01_imAM_khanAmyoShadhiM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From out the earth I dig this Plant, and herb of most effectual power, Wherewith one quells the rival wife and gains the husband for one's self.
 </details>
+</details>
 </div>
-
-
 ## ०२ उत्तानपर्णे सुभगे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,30 +84,27 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
+<details open><summary><h3>०२ उत्तानपर्णे सुभगे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O thou of outstretched leaves, fortunate, god-quickened, powerful, do  
 thou thrust away my rival, make my husband wholly mine.
 
-#### Notes
+##### Notes
 'Outstretched,' lit. supine; horizontal, with the face of the leaf  
 upward. RV. has *dhama* for *nuda* in **c**, and the modern *kuru* for  
 *kṛdhi* at the end. Ppp. offers only the first half-verse, in this form:  
 *uttānaparṇāṁ subhagāṁ sahamānāṁ sahasvatīm;* MP. also has *sahamāne*  
 instead of *devajūte*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou, the rival wife away, and make my husband only mine.
 </details>
+</details>
 </div>
-
-
 ## ०३ नहि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/03_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -129,14 +120,15 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/03_nahi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/03_nahi_te.md">
+<details open><summary><h3>०३ नहि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Since he has not named (*grah*) thy name, thou also stayest (*ram*)  
 not with him as husband; unto distant distance make we my rival go.
 
-#### Notes
+##### Notes
 This translation of the first half-verse follows closely our text. RV.  
 has a very different version: *nahy àsyā nā́ma gṛbhṇā́mi nó asmín ramate  
 jáne* 'since I name not her (its?) name, she (it?) also does not stay  
@@ -152,17 +144,13 @@ Person)." The comm. regards the rival as addressed, and conveniently
 makes *ramase* = *ramasva:* "stay thou not with this my husband." Weber  
 renders *ramase* by "kosest," thou dalliest not. No satisfactory  
 solution of the difficulty is yet found.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/03_nahi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indeed he hath not named her name: thou with this husband dalliest not, Far into distance most remote we drive the rival wife away.
 </details>
+</details>
 </div>
-
-
 ## ०४ उत्तराहमुत्तर उत्तरेदुत्तराभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,15 +166,16 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
+<details open><summary><h3>०४ उत्तराहमुत्तर उत्तरेदुत्तराभ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Superior \[am\] I, O superior one; superior, indeed, to them (f.)  
 that are superior; below \[is\] she that is my rival; lower \[is\] she  
 than they (f.) that are lower.
 
-#### Notes
+##### Notes
 RV. has the better reading *áthā* for *adhás* in **c**, allowing **c**  
 and **d** to be combined into one sentence; and the comm. gives  
 correspondingly *adha*. Ppp. is more discordant and corrupt: *uttarā  
@@ -194,17 +183,13 @@ correspondingly *adha*. Ppp. is more discordant and corrupt: *uttarā
 adhārabhyaḥ*. R. conjectures in **a** *uttarāhāhamuttare*, for *úttarā  
 ’hám ahamuttaré* ⌊cf. iii. 8. 3⌋. The verse, even if scanned as 7 + 7: 8  
 + 7 = 29, ought to be called *bhurij*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my rival wife, down, lower than the lowest dames!
 </details>
+</details>
 </div>
-
-
 ## ०५ अहमस्मि सहमानाथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,27 +205,24 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
+<details open><summary><h3>०५ अहमस्मि सहमानाथो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. I am overpowering; likewise art thou very powerful; we both, becoming  
 full of power, will overpower my rival.
 
-#### Notes
+##### Notes
 The verse xix. 32. 5 is a variation on this. RV. reads *átha* for *átho*  
 in **b**, and the older *bhūtvī́* for *bhūtvā́* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I am the conqueror, and thou, thou also art victorious: As victory attends us both we will subdue my fellowwife.
 </details>
+</details>
 </div>
-
-
 ## ०६ अभि तेऽधां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/06_abhi_te_adhAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -256,15 +238,16 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/018_vanaspatiH/06_abhi_te_adhAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/06_abhi_te_adhAM.md">
+<details open><summary><h3>०६ अभि तेऽधां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. I have put on (*abhí*) for thee the overpowering one (f.); I have put  
 to (*úpa*) for thee the very powerful one; after me let thy mind run  
 forth as a cow after her calf, run as water on its track.
 
-#### Notes
+##### Notes
 RV. reads *úpa* for *abhí* in **a**, and has for **b** *abhí tvā ’dhāṁ  
 sáhīyasā*. The application of **a** and **b** as made by Kāuś. (see  
 above) would suit the prepositions as found in RV. decidedly better than  
@@ -275,12 +258,10 @@ him and the other over him⌋; then in *abhy adhām* is further implied (as
 elsewhere ⌊e.g. iii. 11. 8⌋) the value of *abhidhānī*, the halter or  
 bridle with which a horse is controlled. The Anukr. does not sanction  
 the resolution *ma-ā́m* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/018_vanaspatiH/06_abhi_te_adhAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I've girt thee with the conquering Plant, beneath thee laid the mightiest one. As a cow hastens to her calf, so let thy spirit speed to me, hasten like water on its way.
+</details>
 </details>
 </div>

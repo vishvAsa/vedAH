@@ -19,26 +19,23 @@ title = "०२१ एको विभुः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/021_eko_vibhuH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/021_eko_vibhuH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx., and in SV. (i. 372). According to Kāuś. (86. 16), the verse is used in the pitṛnidhāna division of the funeral ceremony accompanying the application of the dhruvanas {sic); ⌊see xviii. 3. 10, 17.⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 9, 61; Griffith, i. 338.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/021_eko_vibhuH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A funeral stanza
 </details>
+</details>
 </div>
-
-
 ## ०१ समेत विश्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/021_eko_vibhuH/01_sameta_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A funeral stanza
 स पू॒र्व्यो नूत॑नमा॒विवा॑सत् तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित् पु॒रु॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/021_eko_vibhuH/01_sameta_vishve.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/021_eko_vibhuH/01_sameta_vishve.md">
+<details open><summary><h3>०१ समेत विश्वे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Come ye together all with address (*vácas*) to the lord of the sky;  
 \[he is\] the one mighty (*vibhū́*) guest of people; may he, ancient,  
 conciliate the present one; him, being one, the track hath much turned  
 after.
 
-#### Notes
+##### Notes
 The verse is here literally rendered according to the AV. version, but  
 comparison with SV. and Ppp. shows plainly that its readings are very  
 corrupt. SV. reads, in **a**, *s. víśvā ójasā;* it has at beginning of  
@@ -72,12 +70,10 @@ corrupt. SV. reads, in **a**, *s. víśvā ójasā;* it has at beginning of
 *sam āitu viśvā oham ā pati divo eṣa ita bhūr aditir janānām;* in **d**,  
 *vivṛte ’kam it paruḥ*. ⌊Henry suggests some emendations.⌋ The meter (12  
 + 10: 11 + 14 = 47) is not accurately defined by the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/021_eko_vibhuH/01_sameta_vishve.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With prayer come all together to the Lord of Heaven: he is the peerless one, far-reaching, guest of men. He, God of ancient time, hath gained a recent thrall; to him alone is turned the path which all must tread.
+</details>
 </details>
 </div>

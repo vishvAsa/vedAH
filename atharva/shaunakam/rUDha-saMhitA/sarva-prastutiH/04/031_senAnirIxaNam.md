@@ -19,22 +19,19 @@ title = "०३१ सेनानिरीक्षणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This verse is found further in TB. (in ii. 4. 110). RV. and TB. read for b hárṣamāṇāso dhṛṣitā́* marutvaḥ; at beginning of d, RV. has the decidedly preferable abhí for úpa; TB. gives in d yanti, and this is also the reading of Ppp.—which moreover separates tīkṣṇā iṣ- in c, and combines -śāno ’pa in c-d. Three of our mss. (O.Op.K.) so far agree with RV. as to read dhṛṣitāsas in b; the comm. has instead ruṣitāsas. The comm. explains manyús as krodhābhimānī devaḥ 'wrath personified as a god.' *⌊In both ed's, TB. has the adverb dhṛṣatā́.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Manyu or Wrath
 </details>
+</details>
 </div>
-
-
 ## ०१ त्वया मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,16 +47,17 @@ A hymn to Manyu or Wrath
 ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा॑ना॒ उप॒ प्र य॑न्तु॒ नरो॑ अ॒ग्निरू॑पाः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/01_tvayA_manyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
+<details open><summary><h3>०१ त्वया मन्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. In alliance (*sarátham*) with thee, O fury, battering, feeling  
 excitement, excited, O companion of the Maruts, having keen arrows,  
 sharpening up their weapons, let \[our\] men go forward unto \[the  
 foe\], having forms of fire.
 
-#### Notes
+##### Notes
 This verse is found further in TB. (in ii. 4. 1¹⁰). RV. and TB. read for  
 **b** *hárṣamāṇāso dhṛṣitā́*\* *marutvaḥ;* at beginning of **d**, RV. has  
 the decidedly preferable *abhí* for *úpa;* TB. gives in **d** *yanti*,  
@@ -69,17 +67,13 @@ iṣ-* in **c**, and combines *-śāno ’pa* in **c-d**. Three of our mss.
 comm. has instead *ruṣitāsas*. The comm. explains *manyús* as  
 *krodhābhimānī devaḥ* 'wrath personified as a god.' \*⌊In both ed's, TB.  
 has the adverb *dhṛṣatā́*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/01_tvayA_manyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursting forward, March on, like flames of fire in form, exulting, with pointed arrows, sharpening their weapons.
 </details>
+</details>
 </div>
-
-
 ## ०२ अग्निरिव मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,32 +89,29 @@ Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursti
 ह॒त्वाय॒ शत्रू॒न् वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा॑नो॒ वि मृधो॑ नुदस्व ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/02_agniriva_manyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
+<details open><summary><h3>०२ अग्निरिव मन्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Like fire, O fury, do thou, made brilliant, overpower; invoked, O  
 powerful one, do thou be our army-leader; having slain the foes, share  
 out their possession (*védas*); making (*mā*) force, thrust away the  
 scorners (*mṛ́dh*).
 
-#### Notes
+##### Notes
 Many of our mss. (P.M.W.E.I.H.p.m.K.), with some of SPP's, accent  
 *sáhasva* in **a**; and in **b** some mss. (including our P.M.W.) read  
 *-nī́r ṇaḥ*. Ppp. has *jitvāya* for *hatvāya* in **c**. The abbreviation  
 of *iva* to *’va* in **a** would remove the *bhurij* character of the  
 verse. The comm. explains *tviṣita* in **a** by *pradīpta*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/02_agniriva_manyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army's leader. Slay thou our foes, distribute their possession: show forth thy vigour, scatter those who hate us.
 </details>
+</details>
 </div>
-
-
 ## ०३ सहस्व मन्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,16 +127,17 @@ Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army'
 उ॒ग्रं ते॒ पाजो॑ न॒न्वा रु॑रुध्रे व॒शी वशं॑ नयासा एकज॒ त्वम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/03_sahasva_manyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
+<details open><summary><h3>०३ सहस्व मन्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Overpower for us (?), O fury, the hostile plotter; go forward  
 breaking, killing, slaughtering the foes; thy formidable rush (?  
 *pā́jas*) surely they have not impeded; thou, controlling, shalt bring  
 them under control, O sole-born one.
 
-#### Notes
+##### Notes
 The translation given follows in **a** the RV. reading *asmé*, which was  
 also received by emendation into our text; all the mss. and the comm.  
 have instead *asmāí*, which SPP. retains. ⌊Ppp. has *abhimātim asmahe;*  
@@ -156,17 +148,13 @@ his text, in spite of its evidently blundering character; the comm.
 reads *rur-*. Several of our mss. (P.M.W.E.H.) read in **d** *vaśán;*  
 for *nayāsāi*, after it, RV. has *nayase*. The comm. explains *pā́jas* in  
 **c** by *balam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/03_sahasva_manyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the foemen. They have not hindered thine impetuous vigour: mighty! sole born! reduce them to subjection.
 </details>
+</details>
 </div>
-
-
 ## ०४ एको बहूनामसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,15 +170,16 @@ O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the 
 अकृ॑त्तरु॒क् त्वया॑ यु॒जा व॒यं द्यु॒मन्तं॒ घोषं॑ विज॒याय॑ कृण्मसि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
+<details open><summary><h3>०४ एको बहूनामसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thou art the one praised (?) of many, O fury; sharpen up clan on clan  
 (*víś*) unto fighting; with thee as ally (*yuj*), O thou of undivided  
 brightness (?), we make a clear noise unto victory.
 
-#### Notes
+##### Notes
 RV. has at the end *kṛṇmahe*, as has also Ppp. The translation follows  
 in **a** the RV. reading *īḻitás*, given also by the comm., and by one  
 of SPP's authorities that follows him; *īḍitā́* would have to be  
@@ -200,17 +189,13 @@ our *manya īḍ-* is quoted in the comment to Prāt. i. 81 as the AV.
 reading. The obscure *ákṛttaruk* in **c** is explained by the comm. as  
 *acchinnadīpti*. Besides being *bhurij*, the verse (12 + 11: 10 + 12 =  
 45) is quite irregular.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for combat. With thee to aid, O thou of perfect splendour, we raise the glorious battle-shout for conquest.
 </details>
+</details>
 </div>
-
-
 ## ०५ विजेषकृदिन्द्र इवानवब्रवो३ऽस्माकं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravo3_asmAkaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,29 +211,26 @@ Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for co
 प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मा तमुत्सं॒ यत॑ आब॒भूथ॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravo3_asmAkaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravo3_asmAkaM.md">
+<details open><summary><h3>०५ विजेषकृदिन्द्र इवानवब्रवो३ऽस्माकं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Victory-making, like Indra, not to be talked down, do thou, O fury,  
 be our over-lord here; thy dear name we sing, O powerful one; we know  
 that fount whence thou camest (*ā-bhū*).
 
-#### Notes
+##### Notes
 The comm. explains *anavabravá* as "speaking things—i.e. means of  
 victory—that are not new (*a-nava*)." The verses 5-7 are not full  
 *jagatīs*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravo3_asmAkaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. To thy dear name. O victor, we sing praises: we know the spring from which thou art come hither.
 </details>
+</details>
 </div>
-
-
 ## ०६ आभूत्या सहजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,31 +246,28 @@ Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. 
 क्रत्वा॑ नो मन्यो स॒ह मे॒द्येऽधि महाध॒नस्य पुरुहूत सं॒सृजि॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
+<details open><summary><h3>०६ आभूत्या सहजा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Born together with efficacy (? *ā́bhūti*), O missile (*sā́yaka*)  
 thunderbolt, thou bearest superior power, O associate; be thou allied  
 (*medín*) with our energy (*krátu*), O fury, much-invoked one, in the  
 mingling (*saṁsṛ́j*) of great riches.
 
-#### Notes
+##### Notes
 RV. has in **b** *abhibhūte* instead of the difficult *sahabhūte;* and  
 Ppp. (*ebhibhūta utt-*) supports RV. The comm. explains *kratvā* in  
 **c** by *karmaṇā*. One is tempted to emend in **a** (also in 32. 1  
 **a**) to *vajrasāyaka* 'whose missile is the thunderbolt.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Twin-borne with power, destructive bolt of thunder the highest conquering might is thine, subduer! Be friendly to us in thy spirit, Manyu! O much-invoked, in shock of mighty battle!
 </details>
+</details>
 </div>
-
-
 ## ०७ संसृष्टं धनमुभयं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -304,25 +283,24 @@ Twin-borne with power, destructive bolt of thunder the highest conquering might 
 भियो॒ दधा॑ना॒ हॄदये॑षु॒ शत्र॑वः॒ परा॑जितासो अप॒ नि ल॑यन्ताम्॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayaM.md">
+<details open><summary><h3>०७ संसृष्टं धनमुभयं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The mingled riches of both sides, put together, let Varuṇa and fury  
 assign to us; conceiving fears in their hearts, let the foes, conquered,  
 vanish away.
 
-#### Notes
+##### Notes
 Instead of *dhattām*, RV. and the comm. have in **b** *dattām;* Ppp.  
 reads *dattaṁ varuṇaś ca manyo;* RV. gives *bhíyam* in **c**; Ppp. has a  
 peculiar **d**: *parājitā yantu paramāṁ parāvatam*. Certain of our mss.  
 (Bp.E.I.) accent at the end *láyantām*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For spoil let Varuna and Manyu give us the wealth of both sides gathered and collected; And let our enemies with stricken spirits, o'er-whelmed with. terror, sling away defeated.
+</details>
 </details>
 </div>

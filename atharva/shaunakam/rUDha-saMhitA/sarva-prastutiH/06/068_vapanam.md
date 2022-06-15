@@ -19,26 +19,23 @@ title = "०६८ वपनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/068_vapanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. (in the verse-order 1, 3, 2), and in part in various Gṛhya-Sūtras, as noted under the several verses. ⌊Further, in MP. ii. 1. 1-3; and MGS. i. 21. 2, 3, 14, 6 (cf. also Knauer's Index, p. 148, s.v. uṣṇena, p. 146, and p. 154).⌋ The hymn is used by Kāuś., as was to be expected, in the godāna ceremony (53. 17-20), vs. 1 being addressed to the vessel of water used, vs. 2 accompanying the wetting of the youth, and vs. 3 the parting and cutting of the hair. Further, in the upanayana, at the beginning of the whole ceremony (55. 2), with the directions "do as directed in the text" etc.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 430; Griffith, i. 282.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/068_vapanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to accompany the shaving of the beard
 </details>
+</details>
 </div>
-
-
 ## ०१ आयमगन्त्सविता क्षुरेणोष्णेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to accompany the shaving of the beard
 आ॒दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
+<details open><summary><h3>०१ आयमगन्त्सविता क्षुरेणोष्णेन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Savitar here hath come with razor; come, O Vāyu, with hot water; let  
 the Ādityas, the Rudras, the Vasus, wet \[him\] in accordance; do ye,  
 forethoughtful, shave \[the head\] of king Soma.
 
-#### Notes
+##### Notes
 'Wet,' corresponding to our 'lather.' Dignity is sought to be given to  
 the operation by identifying the participants in it with various  
 divinities. The second pāda is given, without variation, in AGS. i. 17.  
@@ -72,17 +70,13 @@ Ppp. has, in **b**, *vāyav udakena ehi*, and omits *undantu* in **c**.
 The combination *vāya ud-* is quoted under Prāt. ii. 21, 24; iii. 35;  
 *-kené” ’ hi*, under iii. 38, 66. ⌊Hillebrandt, *Ved. Mythol.*, i. 472,  
 may be consulted.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Savitar hath come hither with the razor: come thou, O Vayu, with the heated water. One-minded let Adityas, Rudras, Vasus moisten the hair: shave ye who know King Soma.
 </details>
+</details>
 </div>
-
-
 ## ०२ अदितिः श्मश्रु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,30 +92,27 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/068_vapanam/02_aditiH_shmashru.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/02_aditiH_shmashru.md">
+<details open><summary><h3>०२ अदितिः श्मश्रु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let Aditi shave the beard; let the waters wet \[it\] with splendor;  
 let Prajāpati nurse (*cikits*) \[it\], in order to length of life, to  
 sight.
 
-#### Notes
+##### Notes
 Ppp's version of **c, d** is *dhārayatu prajāpatiḥ punaḥ-punaḥ  
 suvaptave*. AGS. (i. 17. 7) has **a, b**, reading *keśān* for *śmaśru*,  
 and *varcase* for *-sā*; PGS. (ii. 1. 6) has *adite keśān vapa*,  
 parallel to our **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/068_vapanam/02_aditiH_shmashru.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Aditi shave the beard, and let the Waters bathe it with their strength: Prajapati restore his health for sight and days of lengthened life!
 </details>
+</details>
 </div>
-
-
 ## ०३ येनावपत् सविता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapat_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,15 +128,16 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/068_vapanam/03_yenAvapat_savitA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/03_yenAvapat_savitA.md">
+<details open><summary><h3>०३ येनावपत् सविता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. With what razor the knowing Savitar shaved \[the head\] of king Soma,  
 of Varuṇa, therewith, ye priests (*brahmán*), shave \[it\] now of this  
 man; be he rich in kine, in horses, in progeny.
 
-#### Notes
+##### Notes
 Ppp. reads, for **d**, *aśyāmodīyur ayam astu vīraḥ*. AGS. (i. 17. 10)  
 and PGS. (ii. 1. 11) have our **a, b, c** without variant, but add as  
 **d**, *āyuṣmāñ jaradaṣṭir yathā ’ sat*. TB. (ii. 7. 17²) also has the  
@@ -159,12 +151,10 @@ bṛhaspater vāyor indrasya cā ’vapat: tena te vapāmi brahmaṇā jīvātav
 jīvanāya dīrghāyuṣṭvāya varcase*. The verse (10 + 11: 11 + 12 = 44)  
 contains no *atijagatī* element. ⌊Ppp. combines *asyā ’śyāmodīyur;* and  
 R. notes that **c, d** appears in Ppp. ii.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/068_vapanam/03_yenAvapat_savitA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even with this shave ye this man, O Brahman. Let him be rich in horses, kine, and children.
+</details>
 </details>
 </div>

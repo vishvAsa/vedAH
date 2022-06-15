@@ -19,26 +19,23 @@ title = "०१३ विद्युत्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/013_vidyut/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn occurs in Pāipp. xix., and vs. 1 also in xv. It is used by Kāuś. (38. 8, 9) in a charm against lightning, with vii. 11; and it also appears (139. 8), with i. 26 and vii. 11 and several other hymns, in the ceremony of introduction to Vedic study.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 406; Griffith, i. 16.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/013_vidyut/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Lightning, for happiness
 </details>
+</details>
 </div>
-
-
 ## ०१ नमस्ते अस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A prayer to Lightning, for happiness
 नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/013_vidyut/01_namaste_astu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/01_namaste_astu.md">
+<details open><summary><h3>०१ नमस्ते अस्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Homage be to thy lightning, homage to thy thunder; homage be to thy  
 bolt (*áśman*), with which thou hurlest at the impious one (*dūḍáś*).
 
-#### Notes
+##### Notes
 The version of this verse in Ppp. xix. is like ours; in xv., **d** reads  
 *yenā dūrāt pradijassasi* (*pratyasyasi?*). The first half-verse is  
 found also in VS. (xxxvi. 21 a, b). The irregular combination *dūḍā́śe*  
@@ -71,17 +69,13 @@ verse, based on the absurd assumption that *namas = annam*, which
 appears also in numerous other places. To him, also, *áśman* is a  
 *meghanāman*. In our edition, an accent-mark is omitted over the *-śma-*  
 of *áśmane*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/013_vidyut/01_namaste_astu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homage to thee, the Stone which thou hurlest against the undevout!
 </details>
+</details>
 </div>
-
-
 ## ०२ नमस्ते प्रवतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,32 +91,29 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/013_vidyut/02_namaste_pravato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/02_namaste_pravato.md">
+<details open><summary><h3>०२ नमस्ते प्रवतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Homage to thee, child of the height (*pravát*), whence thou gatherest  
 (*sam-ūh*) heat (*tápas*); be merciful to ourselves; do kindness  
 (*máyas*) to our offspring (*toká*).
 
-#### Notes
+##### Notes
 Ppp. has *śaṁ nas* for *máyas* in **d**. The first half-verse forms in  
 VS. (xxxvi. 21 c, d) one verse with our 1 **a, b**; but VS. has ⌊for  
 **a** *námas te bhagavann astu;* and⌋ for **b** *yátaḣ svàḥ samī́hase*  
 'from whence thou strivest after the sky,' which indicates that our  
 reading is corrupt. ⌊Pischel discusses *pravát* (= 'stream') at length,  
 *Ved. Stud.* ii. 63-76, see 68.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/013_vidyut/02_namaste_pravato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gracious to our bodies, give our children happiness and joy.
 </details>
+</details>
 </div>
-
-
 ## ०३ प्रवतो नपान्नम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,31 +129,28 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत् स॑मु॒द्रे अ॒न्तर्नि॑हि॑तासि॒ नाभिः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/013_vidyut/03_pravato_napAnnama.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/03_pravato_napAnnama.md">
+<details open><summary><h3>०३ प्रवतो नपान्नम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Child of the height, be homage to thee; homage we pay to thy missile  
 (*hetí*) and heat (*tápus*); we know thy highest abode (*dhā́man*) that  
 is in secret; thou art set as navel within the \[cloud-\]ocean.
 
-#### Notes
+##### Notes
 ⌊The *te* in **b** is superfluous.⌋ Ppp. rectifies the meter of **a** by  
 omitting *eva;* its other pādas are more or less corrupt: *namas te hete  
 tipuṣyāi* in **b** (which ends there); *gandharvo nāma par-* in **c**;  
 *nihitāsa nābhiḥ* at the end. The comm. takes *tápus* as adjective. The  
 verse is scanned by the Anukr. as 12 + 12: 11 + 11 = 46 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/013_vidyut/03_pravato_napAnnama.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dart and fiery flame: For well we know thy secret and sublimest home, where thou as central point art buried in the sea.
 </details>
+</details>
 </div>
-
-
 ## ०४ यां त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/04_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -178,15 +166,16 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/013_vidyut/04_yAM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/04_yAM_tvA.md">
+<details open><summary><h3>०४ यां त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thou whom all the gods did create, the bold one, ⌊\[the gods\]⌋  
 making an arrow for hurling—do thou, besung in the council (*vidátha*),  
 be merciful to us; to thee as such be homage, O goddess.
 
-#### Notes
+##### Notes
 *Dhṛṣṇum* in **b** might qualify *íṣum* directly. The comm. supplies *he  
 aśane* 'O thunderbolt' as addressed. He reads *mṛla* in **c**. Ppp.  
 reads for **a, b** *yaṁ tvā devā ajanayanta viśveṣāṁ kṛnvānā aśanāya  
@@ -195,12 +184,10 @@ to scan as 10 + 11: 10 + 9 = 40 syllables. ⌊Read in **c** *mṛḍaya* and
 in **d** *utá tásyāi?*—For *vidátha*, see discussions of Bloomfield,  
 JAOS. xix.² 17, and Geldner, ZDMG. lii. 757; and the literature cited by  
 Foy, KZ. xxxiv. 226.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/013_vidyut/04_yAM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou, Arrow, which the host of Gods created, making it strong and mighty for the shooting, Be gracious, lauded thus, to our assembly. To thee, that Arrow,. be our homage, Goddess!
+</details>
 </details>
 </div>

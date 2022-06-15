@@ -2,12 +2,9 @@
 title = "+०२"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/_index.md">
+<details open><summary><h2>II. Book the second ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book II.
 
@@ -24,7 +21,6 @@ Kön. Akad. der Wiss. zu Berlin*, June, 1870, pages 462-524. This
 translation was reprinted, with only slight changes, in *Indische
 Studien*, vol. xiii. (1873), pages 129-216. The following references to
 Weber have to do with the reprint.⌋
-
-
+</details>
 </details>
 </div>

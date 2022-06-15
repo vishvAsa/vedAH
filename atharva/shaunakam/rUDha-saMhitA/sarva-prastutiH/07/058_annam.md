@@ -19,26 +19,23 @@ title = "०५८ अन्नम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/058_annam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. The two verses are part of a RV. hymn (vi. 68. 10, 11). They are not used in Kāuś.; but Vāit. (25. 2) introduces them with hymns 51 and 44: see under the latter.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 23, 85; Griffith, i. 355.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/058_annam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 An invitation to Indra and Varuna
 </details>
+</details>
 </div>
-
-
 ## ०१ इन्द्रावरुणा सुतपाविमं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ An invitation to Indra and Varuna
 यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/058_annam/01_indrAvaruNA_sutapAvimaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/01_indrAvaruNA_sutapAvimaM.md">
+<details open><summary><h3>०१ इन्द्रावरुणा सुतपाविमं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Indra-and-Varuṇa, soma-drinkers, this pressed soma, intoxicating,  
 drink ye, O ye of firm courses; let your chariot, the sacrifice (?  
 *adhvará*), for the god-feast, approach toward the stall (*svásara*), to  
 drink.
 
-#### Notes
+##### Notes
   
   
   
@@ -74,17 +72,13 @@ in **c**, and *yāti* in **d**. Ppp. has *‘dhvaram* in **c**, with *ayo*
 for *yuvó* ⌊p. *yuvóḥ*⌋ and *yāhi* in **d**. The comm. explains  
 *adhvaras* as *hiṅsārahitas*, qualifying *rathas*, and *svásaram* as =  
 *yajamānasya gṛham*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/058_annam/01_indrAvaruNA_sutapAvimaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which shall give you rapturous joy! Let sacrifice, your car, to entertain the Gods, approach its rest- ing-place that they may drink thereof.
 </details>
+</details>
 </div>
-
-
 ## ०२ इन्द्रावरुणा मधुमत्तमस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,26 +94,25 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयेथाम्॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
+<details open><summary><h3>०२ इन्द्रावरुणा मधुमत्तमस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Indra-and-Varuṇa, of the bull soma, most rich in sweet, pour in, ye  
 bulls; here is your beverage (*ándhas*), poured about; sitting on this  
 *barhís*, do ye revel.
 
-#### Notes
+##### Notes
 RV. fills out the meter and sense of **c** by adding at the end *asmé*  
 (the Anukr. ignores the deficiency), and Ppp. seems to read *idaṁ vām  
 asme pariṣiktam andhā ”sad-* etc.; it also has *vṛṣetā* at end of **b**.  
 The comm. explains *ā vṛṣethām* by *āśnītam*, quoting śB. ii. 4. 2. 20  
 as authority.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Indra Varuna, drink your fill, ye heroes, of this effectual and sweetest Soma. This juice was shed by us that ye might quaff it. On this trimmed grass be seated and rejoice you.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०३३ पाप-नाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iv. Is RV. i. 97, without a variant except in the last verse; occurs also in TA. (vi. 11. 1). Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa, and also (30. 17, note) to the pāpma gaṇa; used, under the name of apāgha, in a ceremony of expiation for seeing ill-omened sights (42. 22), in a women's ceremony for preventing undesirable love and the like (36. 22), and in the after funeral ceremonies (82. 4).
 
 
-#### Translations
+##### Translations
 Translated: by the RV. translators; and Griffith, i. 175; Weber, xviii. 134.—Cf. also Lanman, Skt. Reader, p. 363.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Agni for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ अप नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/01_apa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ A prayer to Agni for protection and prosperity
 अप॑ नः॒ शोशु॑चद॒घम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/01_apa_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/01_apa_naH.md">
+<details open><summary><h3>०१ अप नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Gleaming (*śuc*) away our evil (*aghá*), O Agni, gleam thou wealth  
 unto \[us\]: gleaming away our evil.
 
-#### Notes
+##### Notes
 This first verse is found a second time in TA. (vi. 10. i). The refrain  
 is a mechanical repetition of 1 **a**, having no connection of meaning  
 with any of the verses. The comm. explains *ápa śóśucat* by *naśyatu*,  
 and *ā́ śuśugdhi* by *samṛddhaṁ kuru.* ⌊TA. reads *śuśudhyā́* in both  
 places in both editions.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/01_apa_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustre flash our pain away.
 </details>
+</details>
 </div>
-
-
 ## ०२ सुक्षेत्रिया सुगातुया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,26 +87,22 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 अप॑ नः॒ शोशु॑चद॒घम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
+<details open><summary><h3>०२ सुक्षेत्रिया सुगातुया ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. With desire of pleasant fields, of welfare, of good things, we  
 sacrifice—gleaming away our evil—
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lustre flash our pain away!
 </details>
+</details>
 </div>
-
-
 ## ०३ प्र यद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -128,26 +118,22 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 अप॑ नः॒ शोशु॑चद॒घम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/03_pra_yad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/03_pra_yad.md">
+<details open><summary><h3>०३ प्र यद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. In order that the most excellent of them, and in order that our  
 patrons (*sūrí*)—gleaming away our evil—
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/03_pra_yad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Best praiser of all these be he, and foremost be our noble chiefs. His lustre flash our pain away!
 </details>
+</details>
 </div>
-
-
 ## ०४ प्र यत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -163,26 +149,22 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 अप॑ नः॒ शोशु॑चद॒घम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/04_pra_yat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/04_pra_yat.md">
+<details open><summary><h3>०४ प्र यत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. In order that thy patrons, O Agni; in order \[namely\] that we may be  
 propagated for thee with progeny—gleaming away our evil—
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/04_pra_yat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 So that thy worshipper and we, thine, Agni! in our sons may live. His lustre flash our pain away!
 </details>
+</details>
 </div>
-
-
 ## ०५ प्र यदग्नेः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -198,14 +180,15 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 अप॑ नः॒ शोशु॑चद॒घम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/05_pra_yadagneH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
+<details open><summary><h3>०५ प्र यदग्नेः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. As of the powerful Agni the lusters (*bhānú*) go forth in every  
 direction—gleaming away our evil.
 
-#### Notes
+##### Notes
 These four verses are (rejecting the intrusive refrain) one connected  
 sentence: the *prá*'s in vss. 3 and 4 repeat by anticipation the  
 *jā́yemahi prá* of vs. 4 **b**; "we" are, in fact, Agni's *sūri*'s, since  
@@ -216,17 +199,13 @@ and the sense, by reading *sūráyas* for *bhānávas* in 5 **b**. Ppp. has
 *jāyemahe* in 4 **b**. One of our *pada*-mss. (Op.) agrees with the RV.  
 *pada*-text in dividing *sugātu॰yā́* in 2 **a** (the rest read  
 *su॰gātuyā́*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/05_pra_yadagneH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As ever conquering Agni's beams of splendour go to every side, His lustre flash our pain away.
 </details>
+</details>
 </div>
-
-
 ## ०६ त्वं हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -242,26 +221,22 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 अप॑ नः॒ शोशु॑चद॒घम्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/06_tvaM_hi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/06_tvaM_hi.md">
+<details open><summary><h3>०६ त्वं हि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. For, O thou that facest in every direction, thou art \[our\]  
 encompasser on all sides: gleaming away our evil.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/06_tvaM_hi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To every side thy face is turned, thou art triumphant everywhere. His lustre flash our pain away!
 </details>
+</details>
 </div>
-
-
 ## ०७ द्विषो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -277,26 +252,22 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 अप॑ नः॒ शोशु॑चद॒घम्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/07_dviSho_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/07_dviSho_no.md">
+<details open><summary><h3>०७ द्विषो नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Our haters, O thou that facest in every direction, do thou make us  
 pass over as with a boat: gleaming away our evil.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/07_dviSho_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O thou whose face looks every way, bear off our foes as in a ship. His lustre flash our pain away!
 </details>
+</details>
 </div>
-
-
 ## ०८ स नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,23 +283,22 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 अप॑ नः॒ शोशु॑चद॒घम्॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/033_pApa-nAshanam/08_sa_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/08_sa_naH.md">
+<details open><summary><h3>०८ स नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Do thou pass us over unto well-being, as \[over\] a river with a  
 boat: gleaming away our evil.
 
-#### Notes
+##### Notes
 Ppp. agrees with RV. ⌊and TA.⌋ in reading *nāváyā* (which implies  
 *síndhum ’va*) instead of *nāvā́* at end of **a**; and our O. has the  
 same.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/033_pApa-nAshanam/08_sa_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As in a ship across the flood, transport us to felicity. His lustre flash our pain away
+</details>
 </details>
 </div>

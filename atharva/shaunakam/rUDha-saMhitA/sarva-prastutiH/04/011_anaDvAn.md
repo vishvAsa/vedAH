@@ -19,26 +19,23 @@ title = "०११ अनड्वान्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iii. (in the verse-order 1, 4, 2, 5, 3, 6, 11, 12, 9, 8, 10, 7). Used by Kāuś. (66. 12) in a sava sacrifice, with the draft-ox as sava. The hymn offers an example of that characteristic Hindu extollation, without any measure or limit, of the immediate object of reverence, which, when applied to a divinity, has led to the setting up of the baseless doctrine of "henotheism."
 
 
-#### Translations
+##### Translations
 Translated: Muir, OST. v. 399, 361 (about half); Ludwig, pp. 534 and 190; Deussen, Geschichte, i. 1. 232; Griffith, i. 144; Weber, xviii. 39.—Cf. Deussen, l.c., p. 230 f. Weber entitles the hymn "Verschenkung eines Pflugstieres zur Feier der Zwölften (i.e. nights of the winter solstice—see vs. 11)."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A glorification of the sacrificial gharma or milk caldron
 </details>
+</details>
 </div>
-
-
 ## ०१ अनड्वान् दाधार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/01_anaDvAn_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A glorification of the sacrificial gharma or milk caldron
 अ॒न॒ड्वान् दा॑धार प्र॒दिशः॒ षडु॒र्वीर॑न॒ड्वान् विश्वं॒ भुव॑न॒मा वि॑वेश ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/01_anaDvAn_dAdhAra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/01_anaDvAn_dAdhAra.md">
+<details open><summary><h3>०१ अनड्वान् दाधार ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The draft-ox sustains earth and sky; the draft-ox sustains the wide  
 atmosphere; the draft-ox sustains the six wide directions; the draft-ox  
 hath entered into all existence.
 
-#### Notes
+##### Notes
 That is, the ox in his capacity of draft-animal: the comm. says,  
 *śakaṭavahanasamartho vṛṣabhaḥ;* later in the hymn he is treated as  
 female, without change of the name to a feminine form (the fem. *-ḍuhī*  
@@ -78,17 +76,13 @@ edition: in **c**, that under *ṣa* should stand under *ḍu;* and, in
 **d**, that under *mā* should stand under *na*. The verse is *jagatī* by  
 count, but not by rhythm. ⌊If, with Weber, we pronounce *naḍvā́n*, it  
 becomes a regular *triṣṭubh*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/01_anaDvAn_dAdhAra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Bull supports the wide-spread earth and heaven, the Bull supports the spacious air between them. The Bull supports the sky's six spacious regions: the universal world hath he pervaded.
 </details>
+</details>
 </div>
-
-
 ## ०२ अनड्वानिन्द्रः स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,16 +98,17 @@ The Bull supports the wide-spread earth and heaven, the Bull supports the spacio
 भू॒तं भ॑वि॒ष्यद् भुव॑ना॒ दुहा॑नः॒ सर्वा॑ दे॒वानां॑ चरति व्र॒तानि॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
+<details open><summary><h3>०२ अनड्वानिन्द्रः स ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The draft-ox \[is\] Indra; he looks out from (for?) the cattle;  
 triple ways the mighty one (*śakrá*) measures out (traverses?); yielding  
 (*duh*) the past (? *bhūtá*), the future, existing things (*bhúvana*),  
 he goes upon (*car*) all the courses (*vratá*) of the gods.
 
-#### Notes
+##### Notes
 Ppp. reads in **a** *indrasya* for *indraḥ sa*, and in **c** it adds  
 *sam* before *bhūtam*, and has *bhuvanaṁ* instead of *-nā*. The comm.  
 has in **b** the curious reading *stiyān* for *trayā́n*, and hence we  
@@ -124,17 +119,13 @@ usual sense of 'existences,' and the two preceding adjectives qualify it
 distributively, or are in apposition with it: "all existing things,  
 both what is and what is to be." ⌊If we pronounce again *naḍvā́n*, the  
 vs. loses its *bhurij* quality. The cadence of **b** is bad.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/02_anaDvAnindraH_sa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Bull is Indra o'er the beasts he watches. He, Sakra measures out three several pathways. He, milking out the worlds, the past, the future, discharges all the Gods' eternal duties.
 </details>
+</details>
 </div>
-
-
 ## ०३ इन्द्रो जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/03_indro_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,16 +141,17 @@ The Bull is Indra o'er the beasts he watches. He, Sakra measures out three sever
 सु॒प्र॒जाः सन्त्स उ॑दा॒रे न स॑र्ष॒द्यो नाश्नी॒यादन॒डुहो॑ विजा॒नन्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/03_indro_jAto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/03_indro_jAto.md">
+<details open><summary><h3>०३ इन्द्रो जातो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Born an Indra among human beings (*manuṣyà*), he goes about (*car*)  
 shining brightly, a heated hot-drink (*gharmá*); he, being one of good  
 offspring, shall not go in mist (? *udārá*) who, understanding \[it\],  
 shall not partake of (*aś*) the draft-ox.
 
-#### Notes
+##### Notes
 The verse is obscure, and the translation in various points very  
 doubtful. The second pāda is apparently a beginning of the  
 identification of the ox with the *gharma*, a sacrificial draught of  
@@ -179,17 +171,13 @@ be a slip—see *Skt. Gram.* §575 b; and the clauses are hardly
 coördinate⌋; so that the reading is very suspicious. A few of our mss.  
 (P.M.W.E.) read *ṇá* after *udāré*. ⌊Ludwig conjectures *suprayā́s* for  
 *-jā́s*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/03_indro_jAto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Being produced among mankind as Indra, the Caldron works heated and brightly glowing. Let him not, with good sons, pass off in vapour who hath not eaten of the Ox with knowledge.
 </details>
+</details>
 </div>
-
-
 ## ०४ अनड्वान् दुहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/04_anaDvAn_duhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -205,16 +193,17 @@ Being produced among mankind as Indra, the Caldron works heated and brightly glo
 प॒र्जन्यो॒ धारा॑ म॒रुत॒ ऊधो॑ अस्य य॒ज्ञः पयो॒ दक्षि॑णा॒ दोहो॑ अस्य ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/04_anaDvAn_duhe.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/04_anaDvAn_duhe.md">
+<details open><summary><h3>०४ अनड्वान् दुहे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The draft-ox yields milk (*duh*) in the world of the well-done; the  
 purifying one fills him up from in front; Parjanya \[is\] his streams,  
 the Maruts his udder, the sacrifice his milk, the sacrificial gift the  
 milking of him.
 
-#### Notes
+##### Notes
 Ppp. appears to have read in **b** *pyāyet*, which would rectify the  
 meter; in **c** it combines *maruto ”dho*. *Pávamāna* in **b** might  
 signify the wind (then *purástāt* 'from the east'?) or soma; the comm.  
@@ -222,17 +211,13 @@ takes it as the latter (*pavitreṇa śodhyamāno ‘mṛtamayaḥ somaḥ*); an
 "the sacrifice" in **d** as "the sava sacrifice now performed." The  
 verse is rhythmically a *triṣṭubh* with redundant syllables (11 + 13: 12  
 + 11 = 47). ⌊On *dakṣiṇā*, see Bloomfield, AJP. xvii. 408 f.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/04_anaDvAn_duhe.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Ox pours milk out in the world of virtue: in earliest time, he, Pavam5na, swells it. Parjanya is the stream, Maruts his udder, sacrifice is the milk, the meed his milking.
 </details>
+</details>
 </div>
-
-
 ## ०५ यस्य नेशे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/05_yasya_neshe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -248,16 +233,17 @@ The Ox pours milk out in the world of virtue: in earliest time, he, Pavam5na, sw
 यो वि॑श्व॒जिद् वि॑श्व॒भृद् वि॒श्क॑र्मा घ॒र्मं नो॑ ब्रूत यत॒मश्चतु॑ष्पात्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/05_yasya_neshe.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/05_yasya_neshe.md">
+<details open><summary><h3>०५ यस्य नेशे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Of whom the lord of the sacrifice is not master (*īś*), nor the  
 sacrifice; not the giver is master of him, nor the acceptor; who is  
 all-conquering, all-bearing, all-working—tell ye us the hot-drink which  
 \[is\] four-footed.
 
-#### Notes
+##### Notes
 "Which" in **d** is *yatamá*, lit. 'which among the many.' The intended  
 answer, of course, is that this wondrous sacrificial drink is the ox.  
 Ppp. begins **c** with *yo viśvadṛg viśvakṛd v-*. The comm. declares the  
@@ -265,17 +251,13 @@ first half-verse to convey the universal masterhood and
 not-to-be-mastered-hood of the ox; in **d** *gharma* is, according to  
 him, "the blazing sun, which the four-footed one tells us" (*brūta* is  
 read, but declared equivalent to *brūte!*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/05_yasya_neshe.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That which not sacrifice nor sacrificer, not giver nor receiver rules and governs, All-winning, all-supporting, all-effecting,--which of all quadru- peds, tell us! is the Caldron?
 </details>
+</details>
 </div>
-
-
 ## ०६ येन देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/06_yena_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,16 +273,17 @@ That which not sacrifice nor sacrificer, not giver nor receiver rules and govern
 तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं घ॒र्मस्य॑ व्र॒तेन॒ तप॑सा यश॒स्यवः॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/06_yena_devAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/06_yena_devAH.md">
+<details open><summary><h3>०६ येन देवाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. By whom the gods ascended to heaven (*svàr*), quitting the body, to  
 the navel of the immortal, by him may we go to the world of the  
 well-done, desiring glory, by the vow (*vratá*) of the hot-drink, by  
 penance.
 
-#### Notes
+##### Notes
   
   
   
@@ -312,17 +295,13 @@ The comm. has *jeṣma* (=*jayema*) in **c** ⌊instead of *geṣma* (*Skt.
 Gram.* §894 c)⌋; *gharma* is to him once more "the blazing sun." ⌊As to  
 the stock-phrase in **c**, cf. Bloomfield, AJP. xvii. 419.⌋ The verse  
 (10 + 11: 10 + 13 = 44) is a very poor *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/06_yena_devAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May we, fame-seekers, reach the world of virtue by service of the Gharma and through fervour, Whereby the Gods went up to heaven, the centre of life eternal, having left the body.
 </details>
+</details>
 </div>
-
-
 ## ०७ इन्द्रो रूपेणाग्निर्वहेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -338,15 +317,16 @@ May we, fame-seekers, reach the world of virtue by service of the Gharma and thr
 वि॒श्वान॑रे अक्रमत वैश्वान॒रे अ॑क्रमतान॒दुह्य॑क्रमत । सोऽदृंहयत॒ सोऽधारयत ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
+<details open><summary><h3>०७ इन्द्रो रूपेणाग्निर्वहेन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Indra by form, Agni by carrying (*váha*), Prajāpati, Parameshṭhin,  
 Virāj; in Viśvānara he strode, in Vāiśvānara he strode, in the draft-ox  
 he strode; he made firm, he sustained.
 
-#### Notes
+##### Notes
 This is the obscurest verse of this obscure hymn, and no attempt will be  
 made to solve its riddles. Ppp. has a quite different text: *indro  
 balenā ’sya parameṣṭhī vratenāi ’na gāus tena vāiśvadevāḥ: yo ‘smān  
@@ -369,17 +349,13 @@ the yoke; the shoulder," and has nothing of any value to say as to the
 general sense of the verse. ⌊The identification of the draft-ox with  
 Agni seems to rest on Agni's chief function of "carrying"; cf. RV. x.  
 51. 5 **d**; 52. 1 **d**, 3 **d**, 4 **a**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/07_indro_rUpeNAgnirvahena.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Came to Visvanara, came to all men's Bullock: he firmly forti- fied and held securely.
 </details>
+</details>
 </div>
-
-
 ## ०८ मध्यमेतदनडुहो यत्रैष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -395,15 +371,16 @@ Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Cam
 ए॒ताव॑दस्य प्रा॒चीनं॒ यावा॑न् प्र॒त्यङ् स॒माहि॑तः ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
+<details open><summary><h3>०८ मध्यमेतदनडुहो यत्रैष ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. That is the middle of the draft-ox, where this carrying (*váha*) is  
 set; so much of him is in front (*prācī́na*) as he is put all together on  
 the opposite side.
 
-#### Notes
+##### Notes
 The virtual meaning of the second half-verse appears plainly to be that  
 the two parts of the ox, before and behind the point where the pull  
 comes (i.e. where the yoke rests) are equal; but it is strangely  
@@ -413,17 +390,13 @@ he renders *vaha* this time by *bhāra;* Ludwig takes it as "the hump."
 ⌊In *this* verse, **b** can hardly mean "where the pull comes," but  
 rather 'where the burden is put,' i.e. the back; cf. Deussen, l.c., p.  
 231. Nevertheless, see BR. under *vaha*, 2 a and 2 b.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/08_madhyametadanaDuho_yatraiSha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The middle of the Bullock's neck, there where the shoulder-bar is placed, Extends as far to east of him as that is settled to the west.
 </details>
+</details>
 </div>
-
-
 ## ०९ यो वेदानडुहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/09_yo_vedAnaDuho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -439,14 +412,15 @@ The middle of the Bullock's neck, there where the shoulder-bar is placed, Extend
 प्र॒जां च॑ लो॒कं चा॑प्नोति॒ तथा॑ सप्तऋ॒षयो॑ विदुः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/09_yo_vedAnaDuho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/09_yo_vedAnaDuho.md">
+<details open><summary><h3>०९ यो वेदानडुहो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Whoso knows the milkings of the draft-ox, seven, unfailing, both  
 progeny and world he obtains: so the seven seers know.
 
-#### Notes
+##### Notes
 Ppp. reads *anapadasyatas* both here (**b**) and at 12 **d**; it also  
 combines *saptarṣ-* in **d**, as does the comm., and a couple of SPP's  
 authorities. For consistency, our text ought to combine in **a-b**  
@@ -456,17 +430,13 @@ seven cultivated plants, rice etc." or "the seven worlds and oceans"—not
 happening, apparently, to think of any other heptad at the moment. He  
 quotes the names of the seven seers from Āśvalāyana. ⌊The number of this  
 vs. is misprinted.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/09_yo_vedAnaDuho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspring and the world: the great Seven Rishis know this well.
 </details>
+</details>
 </div>
-
-
 ## १० पद्भिः सेदिमवक्रामन्निरां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -482,15 +452,16 @@ He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspr
 श्रमे॑णान॒ड्वान् की॒लालं॑ की॒नाश॑श्चाभि ग॑च्छतः ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAM.md">
+<details open><summary><h3>१० पद्भिः सेदिमवक्रामन्निरां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. With his feet treading down debility (*sedí*), with his thighs  
 (*ján̄ghā*) extracting (*ut-khid*) refreshing drink—with weariness go the  
 draft-ox and the plowman unto sweet drink (*kīlála*).
 
-#### Notes
+##### Notes
 The verse seems rather out of place here. As both *n* and *m* final are  
 assimilated to an initial palatal, the *pada*-text commits the blunder  
 in **b** of understanding *írāṁ* to be for *írān;* and, as is usual in  
@@ -501,17 +472,13 @@ the old accent," SPP. remarks, as if the change of reading involved a
 change of accent), and makes *gachatas* a genitive agreeing with  
 it—against the accent; but this he regularly ignores. *Irām*, it may be  
 added, he glosses with *bhūmim!*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/10_padbhiH_sedimavakrAmannirAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With feet subduing weariness, with legs extracting freshening draughts, Through toil the plougher and the Ox approach the honeyed beverage.
 </details>
+</details>
 </div>
-
-
 ## ११ द्वादश वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/11_dvAdasha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -527,15 +494,16 @@ With feet subduing weariness, with legs extracting freshening draughts, Through 
 तत्रोप॒ ब्रह्म॒ यो वेद॒ तद् वा अ॑न॒डुहो॑ व्र॒तम्॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/11_dvAdasha_vA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/11_dvAdasha_vA.md">
+<details open><summary><h3>११ द्वादश वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Twelve, indeed, they declare those nights of the vow (*vrátya*) of  
 Prajāpati; whoso knows the *bráhman* within them (*tátro ’pa*)—that  
 verily is the vow of the draft-ox.
 
-#### Notes
+##### Notes
 Or, "those twelve nights they declare to be for the vow" etc.: it is  
 uncertain what is object and what objective predicate in the sentence.  
 Ppp. reads and combines *vrātyā ”huṣ pr-* in **b**; for the unusual  
@@ -545,17 +513,13 @@ nights and the draft-ox of this hymn, see his *Omina und Portenta*, p.
 388; compare also ⌊Weber's other references, *Ind. Stud.* xviii. 45,  
 and⌋ Zimmer, p. 366. The comm. glosses *vratya* by *vratārha*, and  
 quotes TS. v. 6. 7¹ as to the twelve nights of consecration.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/11_dvAdasha_vA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows their proper prayer performs the service of the Ox.
 </details>
+</details>
 </div>
-
-
 ## १२ दुहे सायं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/011_anaDvAn/12_duhe_sAyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -571,26 +535,25 @@ Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows 
 दोहा॒ ये अ॑स्य सं॒यन्ति॒ ता॑न् वि॒द्मानु॑पदस्वतः ॥१२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/011_anaDvAn/12_duhe_sAyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/12_duhe_sAyaM.md">
+<details open><summary><h3>१२ दुहे सायं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. He milks (*duh*) at evening, he milks in the morning, he milks about  
 midday; the milkings of him that come together, those unfailing ones we  
 know.
 
-#### Notes
+##### Notes
 Ppp. has for **a, b** *duhe vā ’naḍvān sāyaṁ duhe prātar duke divā*, and  
 at the end (as above noted) *anapadasyatas*. The comm. supplies to  
 *duhe* either *anaḍvāham* as object (with the worshiper as subject), or  
 *anaḍvān* as subject (with the performer of the *sava* sacrifice as  
 beneficiary); *saṁ yanti* he explains by *phalena saṁgacchante*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/011_anaDvAn/12_duhe_sAyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 At evening he is milked, is milked at early morn, is milked at noon. We know that streams of milk that flow from him are in- exhaustible.
+</details>
 </details>
 </div>

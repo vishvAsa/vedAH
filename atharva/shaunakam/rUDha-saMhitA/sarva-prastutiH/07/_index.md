@@ -2,12 +2,9 @@
 title = "+०७"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/_index.md">
+<details open><summary><h2>VII. Book the seventh ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book VII.
 
@@ -87,9 +84,6 @@ vii. 76. 5 to the end. Finally it may be noted that vii. 54. 2 is
 reckoned (forwards) to vii. 55, but that this does not affect the
 hymn-numbers save for the verse concerned.⌋ ⌊Respecting book vii. in
 general, see pages cli, clii.⌋
-
-  
-
-
+</details>
 </details>
 </div>

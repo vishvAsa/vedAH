@@ -19,22 +19,19 @@ title = "००७ नक्षत्राणि"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The translation implies our conjectural emendation of turmíśam ⌊two of W's mss., -mich-⌋ in c to aṣṭāviṅśám (or -śā́). ⌊This is supported by the textually unimpeachable aṣṭaviṅśā́ni of 8. 2 a, and the fact that the series in this hymn is actually of 28 members, as noted in the introduction.⌋ The comm. has turmiśām, and gives for it a double etymology and explanation: either it is turmi + śā, or it is tur + miśā; in the former case, turmi is from root turv, and means "injuring" (hiṅsaka), and śā is the root śā 'sharpen,' hence "make thin"; in the latter case, tur is ⌊a root-stem from⌋ root turv, and miśā is by Vedic license for miṣā, from root miṣ "contend" (spardhāyām); in either case, the compound means "putting down oppressors," and is adjective qualifying sumatim! All the mss. accent saparyā́mi, and SPP. admits it in his text; the accent is defensible, and would be required by Brāhmaṇa usage. Our emendation in c helps the meter as well as the sense; but no stress can be laid upon the circumstance that the Anukr. appears to regard the verse as a full triṣṭubh.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ चित्राणि साकं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑प॒र्यामि॒ नाक॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/01_chitrANi_sAkaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/01_chitrANi_sAkaM.md">
+<details open><summary><h3>०१ चित्राणि साकं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Seeking favor of the twenty-eight-fold (?) wondrous ones, shining in  
 the sky together, ever-moving, hasting in the creation (*bhúvana*), I  
 worship (*sapary*) with songs the days, the firmament (*nā́ka*).
 
-#### Notes
+##### Notes
 The translation implies our conjectural emendation of *turmíśam* ⌊two of  
 W's mss., *-mich-*⌋ in **c** to *aṣṭāviṅśám* (or *-śā́*). ⌊This is  
 supported by the textually unimpeachable *aṣṭaviṅśā́ni* of 8. 2 **a**,  
@@ -76,17 +74,13 @@ defensible, and would be required by Brāhmaṇa usage. Our emendation in
 **c** helps the meter as well as the sense; but no stress can be laid  
 upon the circumstance that the Anukr. appears to regard the verse as a  
 full *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/01_chitrANi_sAkaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The brilliant lights shining in heaven together, which through the world glide on with rapid motion. And Days, and Firmament with songs I worship, seeking the Twenty-eight-fold for its favour.
 </details>
+</details>
 </div>
-
-
 ## ०२ सुहवमग्ने कृत्तिका
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,16 +96,17 @@ The brilliant lights shining in heaven together, which through the world glide o
 पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
+<details open><summary><h3>०२ सुहवमग्ने कृत्तिका ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Easy of invocation for me \[be\] the Kṛittikās and Rohiṇī; be  
 Mṛigaśiras excellent, \[and\] Ārdrā healthful (*śám*) be the two  
 Punarvasus pleasantness, Pushya what is agreeable, the Āśleshās light  
 (*bhānú*), the Maghās progress (*áyana*) ⌊for me⌋.
 
-#### Notes
+##### Notes
 The translation again implies in **a** the emendation *me* for *agne*,  
 made in our text, for the improvement both of sense and of meter; SPP.  
 reads *agne;* and the comm. points out that Agni is invoked here because  
@@ -124,17 +119,13 @@ supported reading. There seems to be no good reason for imagining that
 *áyana* in **d** contains any hidden reference to the solstice (in later  
 astronomical language, *ayana*, by abbreviation for *ayanānta* 'end of a  
 \[northern or southern\] progress of the sun') as occurring in Maghās.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! Punarvasu and Sunrita, fair Pushya, the Sun, Asleshas, Magha lead me onward!
 </details>
+</details>
 </div>
-
-
 ## ०३ पुण्यं पूर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,16 +141,17 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/03_puNyaM_pUrvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
+<details open><summary><h3>०३ पुण्यं पूर्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Be the former Phalgunīs and Hasta here auspicious (*púṇyam*); be  
 Chitrā propitious, and Svāti easy (*sukhá*) for me; be the two Viśākhās  
 bestowal (*rā́dhas*), Anurādhā easy of invocation, Jyeshṭhā a good  
 asterism, Mūla uninjured.
 
-#### Notes
+##### Notes
 There are sundry difficulties in this verse, in part attempted to be  
 removed by emendation in our edition. It is very strange to find in  
 **a** the former Phalgunīs distinctly mentioned, and the latter  
@@ -189,17 +181,13 @@ misunderstanding of the name of the 15th (or 17th) asterism, *anurādhā*,
 which word simply means 'success' (cf. *ánv eṣām arātsmé ’ti: tád  
 anūrādhā́ḥ*, TB. i. 5. 2⁸), but was thought of as meaning the one 'after  
 (*anu*) or following *rādhā*.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/03_puNyaM_pUrvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My bliss be Svati and benignant Chitra, my right First Phalgunis and present Hasta. Radhas, Visakhas, gracious Anuradha, Jyeshtha and happy- starred uninjured Mula.
 </details>
+</details>
 </div>
-
-
 ## ०४ अन्नं पूर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -215,15 +203,16 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 अ॒भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/04_annaM_pUrvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/04_annaM_pUrvA.md">
+<details open><summary><h3>०४ अन्नं पूर्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the former Ashāḍhās give me food; let the latter ones bring  
 refreshment; let Abhijit give me what is auspicious; let śravaṇa \[and\]  
 the śravishṭhās make good prosperity.
 
-#### Notes
+##### Notes
 Here are more bad readings: in **a**, the mss. give *pū́rvā rāsatām*, and  
 SPP. accepts the reading, as if *rāsatām* could be 3d du. act., which,  
 in view of all the circumstances, is absurd; our emendation to *-ntām*  
@@ -285,17 +274,13 @@ divine one, bring refreshment.'⌋ †⌊'appears from the Collation Book that
 RW. meant in fact to print *yé hy útta-*: but the Berlin ed. has  
 actually *yé hy ùtta-*, an accent-mark having perhaps slipped to the  
 left, over *hyu* from over *tta*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/04_annaM_pUrvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Food shall be earlier Ashadhas grant me; let those that follow bring me strength and vigour; With virtuous merit Abhijit endow me! Sravana and Sravishthas make me prosper.
 </details>
+</details>
 </div>
-
-
 ## ०५ आ मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,23 +296,22 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/007_naxatrANi/05_A_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/05_A_me.md">
+<details open><summary><h3>०५ आ मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Let śatabhishaj \[bring\] to me what is great widely; let the double  
 Proshṭhapadās \[bring\] to me good protection (*suśárman*); let Revatī  
 and the two Aśvayuj \[bring\] fortune to me; let the Bharaṇīs bring to  
 me wealth.
 
-#### Notes
+##### Notes
 There are no difficulties or variants in this verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/007_naxatrANi/05_A_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Satabhishak afford me ample freedom, and both the Proshtha- padas guard me safely. Revati and the Asvayujas bring me luck, and the Bharanis abundant riches!
+</details>
 </details>
 </div>

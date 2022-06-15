@@ -19,26 +19,23 @@ title = "०२३ अपां भैषज्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/023_apAM_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa, and also (note to 7. 14) to the apāṁ sūktāni; and again (41. 14), with vi. 19 etc., used in a rite for good fortune: as to its combination (30. 11) with the preceding hymn, see that hymn. In Vāit. (4. 14) it accompanies in the parvan sacrifices the pouring out of water.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 431; Florenz, 278 or 30; Griffith, i. 257.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/023_apAM_bhaiShajyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To the Waters
 </details>
+</details>
 </div>
-
-
 ## ०१ सस्रुषीस्तदपसो दिवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ To the Waters
 वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
+<details open><summary><h3>०१ सस्रुषीस्तदपसो दिवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Flowing on, devoted to it; by day and by night flowing on; I, of  
 desirable activity, call upon the heavenly waters.
 
-#### Notes
+##### Notes
 The verse is found as a *khila* or appendix to RV. x. 9, as vs. 10 of  
 that hymn. It reads there, in **a**, *tádapasas*, which is an obvious  
 and called-for emendation of our text, and assumed in our translation;  
@@ -69,17 +67,13 @@ in **c**, *-kratūs*, which is also an improvement (our P. has it, but
 apparently only by an accident); and, for **d**, *ā́ devī́r ávase huve*.  
 Ppp. has, for **d**, *ahūpo devīr upa bruve*. The first pāda lacks a  
 syllable, unless we resolve *sa-sṛ-u-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here flow the restless ones, they flow unceasing through the day and night, Most excellently wise I call the Goddess Waters hitherward.
 </details>
+</details>
 </div>
-
-
 ## ०२ ओता आपः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,31 +89,28 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
+<details open><summary><h3>०२ ओता आपः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let them release here the worked-in waters of the ceremony for  
 conducting forward; let them at once make \[them\] to go.
 
-#### Notes
+##### Notes
 The translation implies emendation of *ā́pas* in **a** to *apás*, or else  
 the use of the former as accusative, as in more than one other passage.  
 *Ótās*, lit. 'woven in': i.e. brought in as part of the ceremony. But  
 the comm. reads *ūtās*, and explains it as = *saṁtatās* or *avicchedena  
 pravahantyaḥ*. ⌊In **a, b**, the reading of Ppp. appears to be like  
 ours; but in **c** it has *bhavantu etave*.⌋ ⌊Cf. v. 23. 1 for *ótās*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the deft Waters, summoned, give permission that we bear them off, And quickly set us on our way.
 </details>
+</details>
 </div>
-
-
 ## ०३ देवस्य सवितुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,23 +126,22 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
+<details open><summary><h3>०३ देवस्य सवितुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  3. In the impulse (*savá*) of the divine impeller (*savitár*) let men  
 do their \[sacred\] work; weal to us be the waters, the herbs  
 propitious.
 
-#### Notes
+##### Notes
 Ppp. reads *kṛṇvanti* in **b**. Here, to preserve the balance of forms,  
 *apás* has to be understood as nominative.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let all the people celebrate the rite of Savitar the God. Sweet unto us be Waters, Plants propitious!
+</details>
 </details>
 </div>

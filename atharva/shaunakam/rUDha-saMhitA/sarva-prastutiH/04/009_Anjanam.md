@@ -19,22 +19,19 @@ title = "००९ आञ्जनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found mostly in Pāipp. viii. (in the verse-order 9, 3, 2, 5, 6, 8, 10, 4, 7). Used by Kāuś. (58. 8) with the binding on of an ointment-amulet, in a ceremony for long life of the Vedic pupil after his initiation. And the comm. quotes it from the Nakṣ. K. (19) ⌊error for śānti, says BI.⌋, as employed in the mahāśānti called āirāvatī.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm addressed to a precious ointment for safety and wealth
 </details>
+</details>
 </div>
-
-
 ## ०१ एहि जीवं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/01_ehi_jIvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A charm addressed to a precious ointment for safety and wealth
 विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/01_ehi_jIvaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/01_ehi_jIvaM.md">
+<details open><summary><h3>०१ एहि जीवं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Come thou, rescuing the living one; of the mountain art thou for the  
 eyes (?), given by all the gods, an enclosure (*paridhí*) in order to  
 living.
 
-#### Notes
+##### Notes
 *Jīvám* in **a** might also be coördinate with *trā́yamāṇam;* the comm.  
 understands it as translated. The meter indicates that the true reading  
 at the end of **b** is *ákṣyam*, and this is read by SPP., with the  
@@ -74,17 +72,13 @@ the eyes, and hence also for the other purposes here had in view. The
 comm. gives *cakṣus* as the value of his *akṣam*. Grill suggests  
 emendation to *akṣayyam* or *akṣaram*. We have to make the harsh  
 resolution *ví-śu-e-* in **c** or leave the pāda defective.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/01_ehi_jIvaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Approach! thou art the mountain's eye, the living thing that saveth us; A gift bestowed by all the Gods, yea, the defence that guardeth life.
 </details>
+</details>
 </div>
-
-
 ## ०२ परिपाणं पुरुषाणां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,29 +94,26 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/02_paripANaM_puruShANAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/02_paripANaM_puruShANAM.md">
+<details open><summary><h3>०२ परिपाणं पुरुषाणां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Protection (*paripā́ṇa*) of men (*púruṣa*), protection of kine art  
 thou; in order to the protection of coursing (*árvant*) horses hast thou  
 stood.
 
-#### Notes
+##### Notes
 The comm. says in **c** "of horses and of mares (*vaḍavānām*)." The  
 resolution *ár-va-ta-ām* fills up **c** quite unsatisfactorily; the  
 Anukr. refuses all resolution, and counts the pāda as of 6 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/02_paripANaM_puruShANAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou art the safeguard of the men, thou art the safeguard of the kine, Thou standest ready to protect the horses that are fleet of foot.
 </details>
+</details>
 </div>
-
-
 ## ०३ उतासि परिपाणं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,16 +129,17 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/03_utAsi_paripANaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/03_utAsi_paripANaM.md">
+<details open><summary><h3>०३ उतासि परिपाणं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Both art thou a protection, grinder-up of familiar demons (*yātú*), O  
 ointment, and of what is immortal thou knowest; likewise art thou  
 gratification (*-bhójana*) of the living, likewise remedy of jaundice  
 (*hárita-*).
 
-#### Notes
+##### Notes
 Contrary to rule, the *a* of *asi* in **d** has to be elided after  
 *átho* in **d**; probably emendation to *áthā ’si* is called for; one of  
 our mss. (O.) reads *átho ‘si.* Ppp. rectifies the meter of **a** by  
@@ -155,17 +147,13 @@ giving *ute ’vā ’si;* for **c, d** it has *utā ’mṛtatvesye ”śiṣa 
 ’saṣ pitṛbhojanam.* The comm. takes *amṛtasya* as the drink of  
 immortality, and *-bhojana* as either *aniṣṭanivartanena pālaka* or  
 *bhogasādhana*. The last pāda hardly belongs with the rest.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/03_utAsi_paripANaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest, too, of Amrit, thou art the delight of all who live, a jaundice-curing balm art thou.
 </details>
+</details>
 </div>
-
-
 ## ०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,15 +169,16 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो मध्यम॒शीरि॑व ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangaM.md">
+<details open><summary><h3>०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Of whomsoever, O ointment, thou creepest over limb after limb, joint  
 after joint, from thence thou drivest away the *yákṣma*, like a  
 formidable mid-lier (*madhyamaśī́*).
 
-#### Notes
+##### Notes
 Found also as RV. x. 97. 12 (repeated, without variant, as VS. xii. 86),  
 which version, however, begins with *yásyāu ’ṣadhīḥ prasárpatha*, and  
 has in **c** correspondingly *bādhadhve*. The comm. has in **c**  
@@ -211,17 +200,13 @@ the Later Syriac Version (Kalīlah and Dimnah, Keith-Falconer, p. 114),
 one would expect to find it in Pañcatantra ii., colloquy of mouse and  
 crow, in Kosegarten's ed., p. 110 or thereabouts. Cf. Manu vii. 158 and  
 the comm.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whomso thou creepest over, Salve! member by member, joint by joint, From him, like some strong arbiter of strife, thou banishest decline.
 </details>
+</details>
 </div>
-
-
 ## ०५ नैनं प्राप्नोति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,28 +222,25 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/05_nainaM_prApnoti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/05_nainaM_prApnoti.md">
+<details open><summary><h3>०५ नैनं प्राप्नोति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Curse attains him not, nor witchcraft, nor scorching; *víṣkandha*  
 reaches him not who beareth thee, O ointment.
 
-#### Notes
+##### Notes
 Ppp. reads *tam* for *enam* in **a**, and *niṣkandham* in **c**. ⌊it  
 inserts just before our vs. 7 the vs. given under vi. 76. 4 and ending  
 with *yas tvāṁ bibharty āñjana.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/05_nainaM_prApnoti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha seizes not the man who carries thee about.
 </details>
+</details>
 </div>
-
-
 ## ०६ असन्मन्त्राद् दुष्वप्न्याद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAd_duShvapnyAd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -274,30 +256,27 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 दु॒र्हार्द॒श्चक्षु॑षो घो॒रात् तस्मा॑न्नः पाह्याञ्जन ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/06_asanmantrAd_duShvapnyAd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/06_asanmantrAd_duShvapnyAd.md">
+<details open><summary><h3>०६ असन्मन्त्राद् दुष्वप्न्याद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. From wrong spell, from evil dreaming, from evil deed, from pollution  
 also, from the terrible eye of an enemy—therefrom protect us, ointment.
 
-#### Notes
+##### Notes
 Ppp. has, for **b**, *kṣetriyāc chapathād uta*. The Pet. Lexx.  
 understand *asanmantrá* as simply "untrue speech" (so Grill,  
 "Lügenrede"); the comm. reads instead *-ntryāt*, as adjective qualifying  
 *duṣvapnyāt*, and signifying "produced by base bewitching spells."  
 *Durhā́rdas* in **c** might well be adj., 'hostile' (so comm.).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/06_asanmantrAd_duShvapnyAd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From lying speech, from evil dream, from wicked act and sinfulness, From hostile and malignant eye,--from these, O Salve, protect us well.
 </details>
+</details>
 </div>
-
-
 ## ०७ इदं विद्वानाञ्जन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -313,14 +292,15 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॒ पूरुष ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
+<details open><summary><h3>०७ इदं विद्वानाञ्जन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Knowing this, O ointment, I shall speak truth, not falsehood; may I  
 win (*san*) a horse, a cow, thy soul, O man (*púruṣa*).
 
-#### Notes
+##### Notes
 The latter half-verse is RV. x. 97. 4 **c, d** (which is also, without  
 variant, VS. xii. 78 **c, d**), where we read *vā́sas* instead of *ahám;*  
 Ppp., too, gives *vāsās*. All the mss. and the comm. have at the end the  
@@ -335,17 +315,13 @@ The first pāda is defective unless we resolve *vi-du-ā́n* ⌊or
 *āñjanas* and has for **d** *āñjana taṁva pāuruṣaḥ*. As noted above,  
 this vs. stands at the end in Ppp. and before it is inserted the vs.  
 given under vi. 76. 4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain both horse and ox, may I obtain thy life, O man.
 </details>
+</details>
 </div>
-
-
 ## ०८ त्रयो दासा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -361,30 +337,27 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/08_trayo_dAsA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/08_trayo_dAsA.md">
+<details open><summary><h3>०८ त्रयो दासा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Three are the slaves (*dāsá*) of the ointment—fever (*takmán*),  
 *balā́sa*, then snake: the highest of mountains, three-peaked  
 (*trikakúd*) by name, \[is\] thy father.
 
-#### Notes
+##### Notes
 For the obscure *balāsa*, the comm. gives the worthless etymology *balam  
 asyati*, and adds *saṁnipātādiḥ* 'collision \[of humors\] or the like';  
 "snake" he explains as for snake-poisoning; perhaps, if the reading is  
 genuine, it is rather the name of some (constricting?) disease.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/08_trayo_dAsA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Thy father is the loftiest of mountains, named the Triple- peaked.
 </details>
+</details>
 </div>
-
-
 ## ०९ यदाञ्जनं त्रैककुदं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -400,15 +373,16 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त् सर्वा॑श्च यातुधा॒न्यः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/09_yadAnjanaM_traikakudaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/09_yadAnjanaM_traikakudaM.md">
+<details open><summary><h3>०९ यदाञ्जनं त्रैककुदं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. The ointment that is of the three-peaked \[mountain\], born from the  
 snowy one (*himávant*)—may it grind up all the familiar demons and all  
 the sorceresses.
 
-#### Notes
+##### Notes
   
   
   
@@ -425,17 +399,13 @@ instead of *yātū́n*, and read *jambháyan* (pres. pple.); and our
 is implied; the comm. paraphrases with *nāśayad vartate*. SPP., with his  
 customary defiance of grammar upon this point, reads *sárvān* instead of  
 *-āṅ* or *-ān̄* ⌊cf. i. 1 9. 4, note⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/09_yadAnjanaM_traikakudaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. Crushes and rends all sorcerers and every witch and sorceress.
 </details>
+</details>
 </div>
-
-
 ## १० यदि वासि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -451,25 +421,24 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 उ॒भे ते॑ भ॒द्रे॑ नाम्नी॒ ताभ्यां॒ नः पाह्याञ्जन ॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/009_Anjanam/10_yadi_vAsi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/10_yadi_vAsi.md">
+<details open><summary><h3>१० यदि वासि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. If thou art of the three-peaked \[mountain\], or if thou art called  
 of the Yamunā—both thy names are excellent; by them protect us, O  
 ointment.
 
-#### Notes
+##### Notes
 *Te* in **c** might perhaps be emended with advantage to *té*. The  
 Yamunā is not elsewhere mentioned in AV. *Nā́mnī* is to be read, of  
 course, as of three syllables, and there is no reason why the text  
 should not give us *nā́manī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/009_Anjanam/10_yadi_vAsi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If thou art from the Three-peaked hill or hast thy name from Yamuna, These names are both auspicious: by these two protect thou us, O Salve!
+</details>
 </details>
 </div>

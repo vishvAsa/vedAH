@@ -19,26 +19,23 @@ title = "०६७ दीर्घायुत्वम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. According to the comm., it is used in the same manner as the two preceding hymns. ⌊Cf. khila to RV. i. 50.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 319.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for long life
 </details>
+</details>
 </div>
-
-
 ## ०१ पश्येम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,25 +49,21 @@ A prayer for long life
 पश्ये॑म श॒रदः॑ श॒तम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
+<details open><summary><h3>०१ पश्येम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. May we see a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we see.
 </details>
+</details>
 </div>
-
-
 ## ०२ जीवेम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -84,25 +77,21 @@ A hundred autumns may we see.
 जीवे॑म श॒रदः॑ श॒तम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
+<details open><summary><h3>०२ जीवेम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. May we live a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we live.
 </details>
+</details>
 </div>
-
-
 ## ०३ बुध्येम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -116,25 +105,21 @@ A hundred autumns may we live.
 बुध्ये॑म श॒रदः॑ श॒तम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
+<details open><summary><h3>०३ बुध्येम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. May we wake a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we know.
 </details>
+</details>
 </div>
-
-
 ## ०४ रोहेम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,25 +133,21 @@ A hundred autumns may we know.
 रोहे॑म श॒रदः॑ श॒तम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
+<details open><summary><h3>०४ रोहेम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. May we ascend (*ruh*) a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we grow.
 </details>
+</details>
 </div>
-
-
 ## ०५ पूषेम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,25 +161,21 @@ A hundred autumns may we grow.
 पूषे॑म श॒रदः॑ श॒तम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
+<details open><summary><h3>०५ पूषेम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. May we prosper a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we thrive.
 </details>
+</details>
 </div>
-
-
 ## ०६ भवेम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -212,25 +189,21 @@ A hundred autumns may we thrive.
 भवे॑म श॒रदः॑ श॒तम्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
+<details open><summary><h3>०६ भवेम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. May we be a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we be.
 </details>
+</details>
 </div>
-
-
 ## ०७ भूयेम शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -244,25 +217,21 @@ A hundred autumns may we be.
 भूये॑म श॒रदः॑ श॒तम्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
+<details open><summary><h3>०७ भूयेम शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. May we adorn a hundred autumns.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred autumns may we bide.
 </details>
+</details>
 </div>
-
-
 ## ०८ भूयसीः शरदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -276,13 +245,14 @@ A hundred autumns may we bide.
 भूय॑सीः श॒रदः॑ श॒तात्॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
+<details open><summary><h3>०८ भूयसीः शरदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. More autumns than a hundred.
 
-#### Notes
+##### Notes
 The comm.\* reckons the hymn as only one verse; the Anukr. and all the  
 mss. ⌊see SPP's ed., p. 543, note 1⌋ count eight verses, and SPP. also  
 adopts this. The first two verses are the last two pādas of RV. vii. 66.  
@@ -308,12 +278,10 @@ done. *Bhū́yema* (= *bhūyāsma*, comm.) in vs. 7 is another impossibility
 retained by SPP. In vs. 8 all the mss. have *bhū́yasī* ⌊or *-āsī*⌋; but  
 the comm. has *-sīs*, and so SPP. has the courage to adopt and read it,  
 as we had done before. \*⌊At p. 543⁹.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hundred, yea, and even more.
+</details>
 </details>
 </div>

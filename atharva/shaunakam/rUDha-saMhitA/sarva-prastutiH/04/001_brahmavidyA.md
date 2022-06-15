@@ -19,25 +19,22 @@ title = "००१ ब्रह्मविद्या"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Weber's statement, that there are twenty-two hymns of 7 verses each and two of 9, rests on the misprinted number (7, for 9) at the end of hymn 20.⌋
 
 
 ⌊The Anukr. states (at the beginning of its treatment of book ii.) that the normal number of verses is 4 for a hymn of book i., and increases by one for each successive book of the first five books. That gives us, for
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Cosmogonical and mystico-theological doctrine
 </details>
+</details>
 </div>
-
-
 ## ०१ ब्रह्म जज्ञानं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -53,16 +50,17 @@ Cosmogonical and mystico-theological doctrine
 स बु॒ध्न्याऽउप॒माअ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि व॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/01_brahma_jajnAnaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnaM.md">
+<details open><summary><h3>०१ ब्रह्म जज्ञानं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The *bráhman* that was first born of old (*purástāt;* in the east?)  
 Vena hath unclosed from the well-shining edge (*sīmatás;* horizon?); he  
 unclosed the fundamental nearest shapes (*viṣṭhā́*) of it, the womb  
 (*yóni*) of the existent and of the non-existent.
 
-#### Notes
+##### Notes
 The verse occurs in a large number of other texts: SV. (i. 321), VS.  
 (xiii. 3), TS. (iv. 2. 8²), TB. (ii. 8. 8⁸), TA. (x. 1, vs. 42), MS.  
 (ii. 7. 15), K. (xvi. 15 et al.), Kap. (25. 5 et al.), śśS. (v. 9. 5),  
@@ -82,17 +80,13 @@ declares it to designate the quarters (*díśas*); the comm. gives
 alternative interpretations, of no value; *upamā́s* (p. *upa॰mā́ḥ*, as if  
 from root *mā* with *upa*) he paraphrases with *upamīyamānāḥ  
 parichidyamānāḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/01_brahma_jajnAnaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Eastward at first the prayer was generated: Vena disclosed bright flashes from the summit, Disclosed his deepest, nearest revelations, womb of the non- existent and existent.
 </details>
+</details>
 </div>
-
-
 ## ०२ इयं पित्र्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,17 +102,18 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/02_iyaM_pitryA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/02_iyaM_pitryA.md">
+<details open><summary><h3>०२ इयं पित्र्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let this queen of the Fathers (? *pítrya*) go in the beginning  
 (*ágre*) for the first birth (*janús;* race?), standing in the creation;  
 for it (him?) have I sent (*hi*) this well-shining sinuous one (?  
 *hvārá*); let them mix (*śrī;* boil?) the hot drink for the first  
 thirsty one (? *dhāsyú*).
 
-#### Notes
+##### Notes
 The connection of the pādas is here yet more obscure than their separate  
 interpretation; the third pāda may perhaps signify the lightning. The  
 verse, with variants, is found in śśS. (v. 9. 6) and AśS. (iv. 6. 3),  
@@ -134,17 +129,13 @@ desiring food in the form of oblation, and *surucam hvãram* is *suṣṭhu
 rocamānaṁ kuṭilaṁ vartamānam*, qualifying *gharmam; ahyam* is an  
 adjective, either *gantavyam*, from the root *ah* 'go,' or "daily," from  
 *ahan* 'day'! and *śrī* is either "mix" or "boil."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/02_iyaM_pitryA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let this Queen come in front, her Father's daughter, found in the worlds for earliest generation. For him they set this radiant vault in motion. Let them prepare warm milk for him who first would drink.
 </details>
+</details>
 </div>
-
-
 ## ०३ प्र यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,15 +151,16 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चै स्व॒धा अ॒भि प्र त॑स्थौ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/03_pra_yo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/03_pra_yo.md">
+<details open><summary><h3>०३ प्र यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. He who was born forth the knowing relative of it speaks all the  
 births (*jániman*) of the gods; he bore up the *bráhman* from the midst  
 of the *bráhman;* downward, upward, he set forth unto the *svadhā́s*.
 
-#### Notes
+##### Notes
 This is found elsewhere only in TS. (ii. 3. 14⁶), which, in **a, b**,  
 has the less unmanageable *asyá bándhuṁ víśvāni devó ján-;* and, in  
 **d**, *nīcā́d uccā́ svadháyā ’bhi*. Ppp. seems to aim at nearly the same  
@@ -182,17 +174,13 @@ occurs elsewhere in the text); and *svadhā́s* as either object or subject
 of *pra tasthāu* (in the latter case *tasthāu* being for *tasthire* by  
 the usual equivalence of all verbal forms), and at any rate signifying  
 some kind of sacrificial food.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/03_pra_yo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He who was born as his all-knowing kinsman declareth all the deities' generations. He from the midst of prayer his prayer hath taken. On high, below, spread forth his godlike nature.
 </details>
+</details>
 </div>
-
-
 ## ०४ स हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/04_sa_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -208,16 +196,17 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 म॒हान् म॒ही अस्क॑भाय॒द् वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रज॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/04_sa_hi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/04_sa_hi.md">
+<details open><summary><h3>०४ स हि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. For he of the heaven, he of the earth the right-stander, fixed  
 (*skabh*) \[as his\] abode (*kṣéma*) the (two) great firmaments  
 (*ródasī*) the great one, when born, fixed apart the (two) great ones,  
 the heaven \[as\] seat (*sádman*) and the earthly space (*rájas*).
 
-#### Notes
+##### Notes
 Ppp., after our vs. 3, makes a verse out of our 4 **c, d** and 5 **a,  
 b**; and then, after our vs. 6, another verse out of our 4 **a, b** and  
 5 **c, d**; and TS. (ii. 3. 14⁶) and AśS. (iv. 6. 3) combine our 4 **c,  
@@ -233,17 +222,13 @@ Anukr. passes unnoticed the deficiency of a syllable (unless we resolve
 *pa-árth-*) in **d**. ⌊In a supplementary note, R. reports Ppp. as  
 reading in **a, b** *sa hi vṛtha-* (?) *ṛceṣṭhā mayi kṣāmaṁ bhrajasī  
 viṣkabhāyati*, and as giving *jitaḥ* for *sádma* in **d**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/04_sa_hi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For he, true to the law of Earth and Heaven, established both the mighty worlds securely. Mighty when born, he propped apart the mighty, the sky, our earthly home, and air's mid-region.
 </details>
+</details>
 </div>
-
-
 ## ०५ स बुध्न्यादाष्ट्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -259,17 +244,18 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 अह॒र्यच्छुक्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्रा॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
+<details open><summary><h3>०५ स बुध्न्यादाष्ट्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. He from the fundamental birth (*janús*) hath attained (*aś*) unto  
 (*abhi*) the summit; Brihaspati, the universal ruler, \[is\] the  
 divinity of him; since the bright (*śukrá*) day was born of light, then  
 let the shining (*dyumánt*) seers (*vípra*) fade out (? *vi-vas*) ⌊shine  
 out?⌋.
 
-#### Notes
+##### Notes
 ⌊Whitney's prior draft reads "dwell apart." This he has changed (by a  
 slip? cf. ii. 8. 2) to "fade out," from *vas* 'shine.' In this case *ví  
 vasantu* would be irregular, for *ví uchantu;* see Weber's note, p. 7.⌋  
@@ -285,17 +271,13 @@ the former, paraphrasing the pāda by *dīptimanta ṛtvijaḥ svasvavyāpāre�
 vividhaṁ vartantām*, or, alternatively, *havirbhir devān paricarantu*.  
 There is no reason for calling the verse *bhurij*. ⌊AśS. reads *ugnam*  
 (misprint?) for *agrám*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He from the depth hath been reborn for ever, Brihaspati the world's sole Lord and Ruler. From light was born the Day with all its lustre: through this let sages live endowed with splendour.
 </details>
+</details>
 </div>
-
-
 ## ०६ नूनं तदस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,15 +293,16 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 ए॒ष ज॑ज्ञे ब॒हुभि॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/06_nUnaM_tadasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
+<details open><summary><h3>०६ नूनं तदस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Verily doth the *kāvyá* further (*hi*) that of him—the abode (?  
 *dhā́man*) of the great god of old (*pūrvyá*); he was born together with  
 many thus, sleeping now in the loosened (*vi-si*) eastern half.
 
-#### Notes
+##### Notes
 No other text has this verse—save Ppp., which has for **d** *pūrvādarād  
 aviduraś ca sahruḥ*. The comm. reads in **b** *pūrvasya,* and two or  
 three mss. (including our P.) agree with him. Some mss. (including our  
@@ -330,17 +313,13 @@ explaining *sasa* as an *annanāman;* the true reading is possibly
 maṇḍalātmakaṁ sthānam*, *eṣa* in **c** as the sun, and the "many" his  
 thousand rays, and *viṣita* as *viśeṣeṇa sambaddha*. The last pāda lacks  
 a syllable, unless we resolve *pū́-ru-e*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/06_nUnaM_tadasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The sage and poet verily advanceth the statute of that mighty God primeval. He was born here with many more beside him: they slumbered when the foremost side was opened.
 </details>
+</details>
 </div>
-
-
 ## ०७ योऽथर्वाणं पितरं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo_atharvANaM_pitaraM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -356,15 +335,16 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 त्वं विश्वे॑षां जनि॒ता यथास॑ क॒विर्दे॒वो न दभा॑यत् स्व॒धावा॑न्॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/001_brahmavidyA/07_yo_atharvANaM_pitaraM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/07_yo_atharvANaM_pitaraM.md">
+<details open><summary><h3>०७ योऽथर्वाणं पितरं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Whoso shall approach (? *ava-gam*) with homage father Atharvan,  
 relative of the gods, Brihaspati—in order that thou mayest be generator  
 of all, poet, god, not to be harmed, self-ruling (? *svadhā́vant*).
 
-#### Notes
+##### Notes
 The translation implies in **d** emendation of *dábhāyat* to *dábhāya;*  
 both editions have the former, with all the mss. and the comm. (who  
 comfortably explains it by *dabhnoti* or *hinasti*). The comm. also  
@@ -372,12 +352,10 @@ reads in **b** *bṛhaspatis;* and this is supported by the Ppp. version:
 *yathā vā ’tharvā pitaraṁ viśvadevaṁ bṛhaspatir manasā vo datsva:* and  
 so on (**c, d** defaced). The comm. takes *ava gachāt* as = *jānīyāt*,  
 and *svadhāvān* as 'joined with food in the form of oblation."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/001_brahmavidyA/07_yo_atharvANaM_pitaraM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The man who seeks the friend of Gods, Atharvan the father, and Brihaspati, with worship, Crying to him, Be thou all things' creator! the wise God, self- dependent, never injures.
+</details>
 </details>
 </div>

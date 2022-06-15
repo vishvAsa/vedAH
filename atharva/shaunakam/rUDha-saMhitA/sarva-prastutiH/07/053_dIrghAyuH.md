@@ -19,26 +19,23 @@ title = "०५३ दीर्घायुः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Verses 1-4 and 7 are found also in Pāipp.: 1 in xx.; 2-4 also in xx., but not with 1; 7 in v. In Kāuś. (besides the separate use of vs. 7, which see), addressed* with i. 9, 30; iii. 8, etc. by the teacher to the pupil in the ceremony of initiation (55. 17). And the comm. quotes it from Nakṣ. K. should be śānti⌋ (18) with hymn 51 (which see). *⌊According to the comm., p. 40212, only vss. 1-6.⌋
 
 
-#### Translations
+##### Translations
 Translated: Muir, v. 443; Grill, 15, 182; Henry, 20, 80; Griffith, i. 351; Bloomfield, 52, 551.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to recover a sick man at the point of death
 </details>
+</details>
 </div>
-
-
 ## ०१ अमुत्रभूयादधि यद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to recover a sick man at the point of death
 प्रत्यौ॑हताम॒श्विना॑ मृ॒त्युम॒स्मद् दे॒वाना॑मग्ने भि॒षजा॒ शची॑भिः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yad.md">
+<details open><summary><h3>०१ अमुत्रभूयादधि यद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. When thou, O Brihaspati, didst release \[us\] from Yama's otherworld  
 existence, from malediction, the Aśvins bore back death from us, O Agni,  
 physicians of the gods, mightily.
 
-#### Notes
+##### Notes
 'Other-world existence,' lit. 'the being yonder.' The verse is VS.  
 xxvii. 9, and is found also in TS. iv. 1. 7⁴, TA. x. 48 (Appendix), and  
 MS. ii. 12. 5, the four texts nearly agreeing: they read *ádha* for  
@@ -82,17 +80,13 @@ parallel texts (changing our *‘bhí-* to *abhí-*). Ppp. has a different
 text, *bṛhaspatir abhiśastyā ’muñcat;* its **c**, also, is peculiar:  
 *prati mṛtyum ahatām aśvinā te*. ⌊W. usually renders *abhíśasti* by  
 'imprecation.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/01_amutrabhUyAdadhi_yad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the realm of Yama, The Asvins, leeches of the Gods, O Agni, have chased Death far from us with mighty powers.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं क्रामतं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/02_saM_krAmataM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,31 +102,28 @@ As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the
 श॒तं जी॑व श॒रदो॒ वर्ध॑मानो॒ऽग्निष्टे॑ गो॒पा अ॑धि॒पा वसि॑ष्ठः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/02_saM_krAmataM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/02_saM_krAmataM.md">
+<details open><summary><h3>०२ सं क्रामतं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Walk (*kram*) ye (two) together; leave not the body; let thy breath  
 and expiration be here allies; live thou increasing a hundred autumns;  
 \[be\] Agni thy best over-ruling shepherd.
 
-#### Notes
+##### Notes
 Ppp. makes the second halves of this verse and of 4 exchange places, and  
 in place of **c, d** reads *saṁrabhya jīva śaradas suvarcā ’gniṣ* etc.  
 The change from 2d pers. in **a** to third in **b** is sudden beyond the  
 usual liberal measure. ⌊In the Berlin ed., an accent-sign is missing  
 under the *śa* of *śatám*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/02_saM_krAmataM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Move both together; do not leave the body. Let both the breathings stay for thee united. Waxing in strength live thou a hundred autumns. Thy noblest guardian and thy lord is Agni.
 </details>
+</details>
 </div>
-
-
 ## ०३ आयुर्यत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/03_Ayuryat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,31 +139,28 @@ Move both together; do not leave the body. Let both the breathings stay for thee
 अ॒ग्निष्टदाहा॒र्निरृ॑तेरु॒पस्था॒त् तदा॒त्मनि॒ पुन॒रा वे॑शयामि ते ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/03_Ayuryat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/03_Ayuryat_te.md">
+<details open><summary><h3>०३ आयुर्यत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thy life-time that is set over at a distance—\[thy\] expiration,  
 breath, let them come again—Agni hath taken that from the lap of  
 perdition; that I cause to enter again in thy self.
 
-#### Notes
+##### Notes
 With **a, b** compare the similar half-verse xviii. 2. 26 **a, b**. The  
 comm. explains *átihitam* as from either of the roots *hi* or *dhā*.  
 Ppp. begins differently: *yat tā ”yur;* in **b** it reads *prāṇo yūva te  
 paretaḥ;* and it leaves off *te* at the end. Prāt. ii. 46 notes *ā ’hār*  
 in **c** ⌊render it rather 'brought hither or back'?⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/03_Ayuryat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Return, thy life now vanished into distance! Return, the breath thou drawest and exhalest! Agni hath snatched it from Destruction's bosom: into thyself again I introduce it.
 </details>
+</details>
 </div>
-
-
 ## ०४ मेमं प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/04_memaM_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -188,15 +176,16 @@ Return, thy life now vanished into distance! Return, the breath thou drawest and
 स॒प्त॒र्षिभ्य॑ एनं॒ परि॑ ददामि॒ त ए॑नं स्व॒स्ति ज॒रसे॑ वहन्तु ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/04_memaM_prANo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/04_memaM_prANo.md">
+<details open><summary><h3>०४ मेमं प्राणो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let not breath leave this man; let not expiration, leaving him low,  
 go away; I commit him to the seven sages (*ṛ́ṣi*); let them carry him  
 happily (*svastí*) unto old age.
 
-#### Notes
+##### Notes
   
   
   
@@ -211,17 +200,13 @@ as usual. With **a, b** compare the nearly equivalent xvi. 4. 3 **a,
 b**. The Anukr. apparently scans the first line as 7 + 11, but the  
 *pada*-mss. mark the division after *apānas* (as 11 + 7). Henry fills  
 the meter conjecturally by adding *mó vyānó*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/04_memaM_prANo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the vital breath he draws forsake him, let not his expiration part and leave him. I give him over to the Seven Rishis: let them conduct him to old age in safety.
 </details>
+</details>
 </div>
-
-
 ## ०५ प्र विशतं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/05_pra_vishataM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,27 +222,24 @@ Let not the vital breath he draws forsake him, let not his expiration part and l
 अ॒यं ज॑रि॒म्णः शे॑व॒धिररि॑ष्ट इ॒ह व॑र्धताम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/05_pra_vishataM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/05_pra_vishataM.md">
+<details open><summary><h3>०५ प्र विशतं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Enter ye in, O breath and expiration, as (two) draft-oxen a stall;  
 let this treasure of old age increase here unharmed.
 
-#### Notes
+##### Notes
 The first half-verse is also iii. 11. 5 **a, b**. In **c**, perhaps  
 rather 'let this man, a treasury of old age' (so Henry).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/05_pra_vishataM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enter him, both ye breaths, like two draught-oxen entering their stall. Let him, the treasure of old age, still wax in strength, uninjured,. here.
 </details>
+</details>
 </div>
-
-
 ## ०६ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/06_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -273,29 +255,26 @@ Enter him, both ye breaths, like two draught-oxen entering their stall. Let him,
 आयु॑र्नो वि॒श्वतो॑ दधद॒यम॒ग्निर्वरे॑ण्यः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/06_A_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/06_A_te.md">
+<details open><summary><h3>०६ आ ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. We impel hither thy breath; I impel away thy *yákṣma;* let Agni here,  
 desirable one, assign us life-time from all sides.
 
-#### Notes
+##### Notes
 A corresponding verse is found in TS. i. 3. 14⁴ and AśS. ii. 10. 4, but  
 with great difference of text: thus, ā́yuṣ ṭe viśváto dadhad ayám agnír  
 váreṇyaḥ: pünas te prāṇá ā́ ’yati *(AśS.* ā yātu*)* párā yākṣmaṁ suvāmi  
 te*.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/06_A_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I send thee back thy vital breath; I drive Consumption far from thee, May Agni here, most excellent, sustain our life on every side.
 </details>
+</details>
 </div>
-
-
 ## ०७ उद् वयं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/053_dIrghAyuH/07_ud_vayaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -311,14 +290,15 @@ I send thee back thy vital breath; I drive Consumption far from thee, May Agni h
 दे॒वं दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम्॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/053_dIrghAyuH/07_ud_vayaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/053_dIrghAyuH/07_ud_vayaM.md">
+<details open><summary><h3>०७ उद् वयं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Up out of darkness have we, ascending the highest firmament, gone to  
 the sun, god among the gods, highest light.
 
-#### Notes
+##### Notes
 This verse (with a different second pāda, *jyótiṣ páśyanta üttaram*,  
 which Ppp. also gives) is RV. i. 50. 10, and found also in a whole  
 series of other texts: VS. xx. 21 et al. (with *svàḥ* for *jyótiṣ* in  
@@ -333,12 +313,10 @@ asks his protection for the boy; and further (note to 58. 18), in the
 *nirṇayana*, or infant's first carrying out of doors. In Vāit. (24. 4)  
 it accompanies the coming out of the bath in the *agniṣṭoma*. \*⌊And ii.  
 6. 6⁴: the **d** of ii. 4. 4⁹ has *uttaram*.⌋ †⌊Also K. xxxviii. 5.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/053_dIrghAyuH/07_ud_vayaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From out the depth of darkness, we, ascending to the highest heaven, Have come to the sublimest light, to Surya, God among the. Gods.
+</details>
 </details>
 </div>

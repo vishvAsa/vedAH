@@ -19,26 +19,23 @@ title = "००८ यातुधाननाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/008_yAtudhAnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn, except vs. 4, is found in Pāipp. iv. also next after our hymn 7, but in the verse-order 1, 3, 2. For its use by Kāuś. with 7, see under the latter.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 401; Ludwig, p. 523; Griffith, i. 11; Bloomfield, 65, 239.—Cf. Bergaigne-Henry, Manuel, p. 132; Whitney, Festgruss an Roth, p. 94 f.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/008_yAtudhAnanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 </details>
+</details>
 </div>
-
-
 ## ०१ इदं हविर्यातुधानान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAn.md">
+<details open><summary><h3>०१ इदं हविर्यातुधानान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This oblation shall bring the sorcerers, as a stream does the foam;  
 whoever, woman \[or\] man, hath done this, here let that person speak  
 out.
 
-#### Notes
+##### Notes
 Ppp. has for **c, d** *nïdaṁ strī pumān kar yaśam bhuvatāṁ janaḥ.* ⌊For  
 *stu*, see i. 7. 1, note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the doer of this deed woman or man, acknowledge it.
 </details>
+</details>
 </div>
-
-
 ## ०२ अयं स्तुवान
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,29 +85,26 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
+<details open><summary><h3>०२ अयं स्तुवान ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. This man hath come, speaking out; this man do ye welcome; O  
 Brihaspati, taking \[him\] into thy control—O Agni and Soma, do ye (two)  
 pierce \[him\] through.
 
-#### Notes
+##### Notes
 Ppp. has in **a, b** *stuvānā gama tvaṁ smo 'ta prati;* in **c, d**,  
 *vaśe kṛtā 'gnīṣomāv id dhataṁ.* The comm. makes nonsense every time by  
 insisting on rendering *stu* by "praise"; here it is *yuṣmān stuvan.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This one hath come confessing all: do ye receive him eagerly. Master him thou, Brihaspati; Agni and Soma, pierce him through.
 </details>
+</details>
 </div>
-
-
 ## ०३ यातुधानस्य सोमप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -129,15 +120,16 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
+<details open><summary><h3>०३ यातुधानस्य सोमप ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Of the sorcerer, O soma-drinker, slay the progeny and conduct \[him  
 hither\]; of him, speaking out, make fall out (*nis-pat*) the upper eye  
 and the lower.
 
-#### Notes
+##### Notes
 The comm. fills out the ellipsis in **b** by making it mean "conduct our  
 progeny to obtain desired result"! and *stuvānasya* is *bhītyā  
 tvadviṣayāṁ stutiṁ kurvataḥ.* Ppp. reads *nyastuvānasya*. SPP's text as  
@@ -145,17 +137,13 @@ well as ours gives *ní st-* (p. *níḥ: st-*); the *saṁhitā*-mss., as
 everywhere, are divided between that and *níḥ st-;* the latter is  
 authorized by the silence of the Prātiśākhya ⌊see p. 426⌋ concerning the  
 combination.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing sinner's eyes fall from his head, both right and left.
 </details>
+</details>
 </div>
-
-
 ## ०४ यत्रैषामग्ने जनिमानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,27 +159,26 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्येऽषां शत॒तर्ह॑मग्ने ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
+<details open><summary><h3>०४ यत्रैषामग्ने जनिमानि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  4. Wherever, O Agni, thou knowest the births of them, of the devourers  
 that are in secret, O Jātavedas, them do thou, increasing through  
 worship (*bráhman*)—slay of them, O Agni, with hundredfold transfixion.
 
-#### Notes
+##### Notes
 The irregular meter and broken connection of the second half-verse  
 suggest possible corruption of the text: cf. *ásurāṇāṁ śatatarhā́n*, TS.  
 i. 5. 7⁶. The meter (11 + 11: 9 + 9 = 40) is well enough described by  
 the Anukr. if we may take *bārhatagarbha* as meaning *dvibārh-*  
 'containing two padas of nine syllables.' ⌊For *-tárham*, cf. *Gram.*  
 §995.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As thou, O Agni Jatavedas, knowest the races of these secret greedy beings, So strengthened by the power of prayer, O Agni, crushing them down a hundred times destroy them.
+</details>
 </details>
 </div>

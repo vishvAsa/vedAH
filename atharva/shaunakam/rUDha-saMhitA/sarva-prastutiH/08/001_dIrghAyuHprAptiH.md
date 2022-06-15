@@ -19,22 +19,19 @@ title = "००१ दीर्घायुःप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Ppp. puts our second pāda last.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to recover a dying man
 </details>
+</details>
 </div>
-
-
 ## ०१ अन्तकाय मृत्यवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,27 +47,24 @@ A charm to recover a dying man
 इ॒हायम॑स्तु॒ पुरु॑षः स॒हासु॑ना॒ सूर्य॑स्य भा॒गे अ॒मृत॑स्य लो॒के॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
+<details open><summary><h3>०१ अन्तकाय मृत्यवे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. To the ender Death \[be\] homage. Let thy breaths, expirations, rest  
 here. Let this man be here with his life (*ásu*), in the portion of the  
 sun, in the world of the immortal.
 
-#### Notes
+##### Notes
 Ppp. puts our second pāda last.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/01_antakAya_mRtyave.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Homage to Death the Ender! May thy breathings, inward and outward, still remain within thee. Here stay this man united with his spirit in the Sun's realm, the world of life eternal!
 </details>
+</details>
 </div>
-
-
 ## ०२ उदेनं भगो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -86,28 +80,25 @@ Homage to Death the Ender! May thy breathings, inward and outward, still remain 
 उदे॑नं म॒रुतो॑ दे॒वा उदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
+<details open><summary><h3>०२ उदेनं भगो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Up hath Bhaga taken him, up Soma rich in shoots ⌊hath taken⌋ him, up  
 the heavenly Maruts ⌊have taken⌋ him, up have Indra-and-Agni, for his  
 welfare.
 
-#### Notes
+##### Notes
 Or *aṅśumant* means 'rich in rays,' Soma having its secondary sense of  
 'moon': both were probably in the author's mind.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/02_udenaM_bhago.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and the Gods the Maruts, raised him up to health.
 </details>
+</details>
 </div>
-
-
 ## ०३ इह तेऽसुरिह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/03_iha_te_asuriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -123,26 +114,22 @@ Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and 
 उत् त्वा॒ निरृ॑त्याः॒ पाशे॑भ्यो॒ दैव्या॑ वा॒चा भ॑रामसि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/03_iha_te_asuriha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/03_iha_te_asuriha.md">
+<details open><summary><h3>०३ इह तेऽसुरिह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Here \[be\] thy life, here breath, here life-time, here thy mind; we  
 bear thee up from the fetters of perdition with divine speech.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/03_iha_te_asuriha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a celestial utterance we raise thee from Destruction's bonds.
 </details>
+</details>
 </div>
-
-
 ## ०४ उत् क्रामातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/04_ut_krAmAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,28 +145,25 @@ Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a ce
 मा च्छि॑त्था अ॒स्माल्लो॒काद॒ग्नेः सूर्य॑स्य सं॒दृशः॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/04_ut_krAmAtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/04_ut_krAmAtaH.md">
+<details open><summary><h3>०४ उत् क्रामातः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4.. Step up from here, O man, fall not down, loosening down the fetter  
 (*páḍbīśa*) of death; be not severed from this world, from the sight  
 (*saṁdṛ́ś*) of fire, of the sun.
 
-#### Notes
+##### Notes
 The mss., as usual, vary between *páḍvīśam* and *páḍb-*, and SPP. adopts  
 the former; the comm. has the latter.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/04_ut_krAmAtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Up from this place, O man, rise! sink not downward, casting away the bonds of Death that hold thee. Be not thou parted from this world, from sight of Agni and the Sun.
 </details>
+</details>
 </div>
-
-
 ## ०५ तुभ्यं वातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -195,28 +179,25 @@ Up from this place, O man, rise! sink not downward, casting away the bonds of De
 सूर्य॑स्ते त॒न्वे॒३शं त॑पाति॒ त्वां मृ॒त्युर्द॑यतां॒ मा प्र मे॑ष्ठाः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
+<details open><summary><h3>०५ तुभ्यं वातः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Let the wind, Mātariśvan, be cleansing for thee; for thee let the  
 waters rain immortal things; may the sun burn weal for thy body; let  
 death compassionate thee; do not thou perish.
 
-#### Notes
+##### Notes
 *Pavatām* 'be cleansing' might properly enough be rendered simply  
 'blow.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/05_tubhyaM_vAtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee their nectar. The Sun shall shine with healing on thy body; Death shall have mercy on thee: do not leave us!
 </details>
+</details>
 </div>
-
-
 ## ०६ उद्यानं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,33 +213,30 @@ Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee the
 आ हि रोहे॒मम॒मृतं॑ सु॒खं रथ॒मथ॒ जिर्वि॑र्वि॒दथ॒मा व॑दासि ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
+<details open><summary><h3>०६ उद्यानं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Up-going \[be\] thine, O man, not down-going; length of life  
 (*jīvā́tu*), ability, I make for thee; for do thou ascend this immortal  
 easy-running chariot, then shalt thou in advanced age (? *jírvi*) speak  
 to the council (*vidátha*).
 
-#### Notes
+##### Notes
 Both here and at xiv. 1. 21, our mss. on the whole read decidedly  
 *jírvis* (only P.M. have *jivrís*, Bp. *jívis*, here), and SPP. reports  
 all his authorities without exception as giving it, so that it is  
 without question the true AV. reading (as against RV. *jívri*); the  
 comm. reads *ajirvis*, and glosses it with *ajīrṇas*, and Ludwig renders  
 'lebenskräftig.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/06_udyAnaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Upward must be thy way, O man, not downward: with life and mental vigour I endow thee. Ascend this car eternal, lightly rolling; then full of years shalt thou address the meeting.
 </details>
+</details>
 </div>
-
-
 ## ०७ मा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/07_mA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -274,27 +252,23 @@ Upward must be thy way, O man, not downward: with life and mental vigour I endow
 विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु त्वे॒ह॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/07_mA_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/07_mA_te.md">
+<details open><summary><h3>०७ मा ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Let not thy mind go thither; let it not be lost (*tiró-bhū*); do not  
 neglect (*pra-mad*) the living, go not after the Fathers; let all the  
 gods defend thee here.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/07_mA_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not thy soul go thither, nor be lost to us: slight not the living, go not where the Fathers are. Let all the Gods retain thee here in safety.
 </details>
+</details>
 </div>
-
-
 ## ०८ मा गतानामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -310,30 +284,27 @@ Let not thy soul go thither, nor be lost to us: slight not the living, go not wh
 आ रो॑ह॒ तम॑सो॒ ज्योति॒रेह्या ते॒ हस्तौ॑ रभामहे ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
+<details open><summary><h3>०८ मा गतानामा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Do not regard (*ā-dhī*) the departed, who lead \[one\] to the  
 distance; ascend out of darkness, come to light; we take hold on thy  
 hands.
 
-#### Notes
+##### Notes
 Ppp. begins **c** with *ud ā roha*, which makes the pāda a good  
 *triṣṭubh;* the omission of *e ’hi* would rectify it to an *anuṣṭubh*.  
 The comm. omits *e ’hi*. Ppp. also reads *hastam* in **d**. ⌊With **b**,  
 cf. v. 30. 12 **b**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/08_mA_gatAnAmA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Yearn not for the departed ones, for those who lead men far away. Rise up from darkness into light: come, both thy hands we clasp in ours.
 </details>
+</details>
 </div>
-
-
 ## ०९ श्यामश्च त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -349,28 +320,25 @@ Yearn not for the departed ones, for those who lead men far away. Rise up from d
 अ॒र्वाङेहि॒ मा वि दी॑ध्यो॒ मात्र॑ तिष्ठः॒ परा॑ङ्मनाः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
+<details open><summary><h3>०९ श्यामश्च त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Let not the dark and the brindled one, sent forth, \[seize\] thee,  
 that are Yama's dogs, road-defenders; come thou hitherward; do not  
 hesitate; stand not there with mind averted.
 
-#### Notes
+##### Notes
 Ppp. reads *mā ’va* for *mā vi* in **c**. The comm. omits *préṣitāu* in  
 **a**; he ⌊twice⌋ supplies *bādhatām* as the missing verb in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/09_shyAmashcha_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the black dog and the brindled seize thee, two warders of the way sent forth by Yama. Come hither; do not hesitate: with mind averted stay not there.
 </details>
+</details>
 </div>
-
-
 ## १० मैतं पन्थामनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -386,29 +354,26 @@ Let not the black dog and the brindled seize thee, two warders of the way sent f
 तम॑ ए॒तत् पु॑रुष॒ मा प्र प॑त्था भ॒यं प॒रस्ता॒दभ॑यं ते अ॒र्वाक्॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
+<details open><summary><h3>१० मैतं पन्थामनु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Do not follow that road; that is a frightful one—the one thou hast  
 not gone before, that I speak of; to that darkness, O man, do not go  
 forth; \[there is\] fear in the distance, safety for thee hitherward.
 
-#### Notes
+##### Notes
 ⌊Kāuś. reckons the vs. to the *abhaya gaṇa*, note to 16. 8.⌋ Ppp.  
 mutilates *tamas* in **c** to *tam*. The comm. reads *purastāt* in  
 **d**. ⌊For *iyátha*, see *Gram.* §801 **d**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/10_maitaM_panthAmanu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Forbear to tread this path, for it is awful: that path I speak of which thou hast not travelled. Enter it not, O man; this way is darkness: forward is danger, hitherward is safety.
 </details>
+</details>
 </div>
-
-
 ## ११ रक्षन्तु त्वाग्नयो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -424,29 +389,26 @@ Forbear to tread this path, for it is awful: that path I speak of which thou has
 वै॒श्वा॒न॒रो र॑क्षतु जा॒तवे॑दा दि॒व्यस्त्वा॒ मा प्र धा॑ग् वि॒द्युता॑ स॒ह॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
+<details open><summary><h3>११ रक्षन्तु त्वाग्नयो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Let the fires that are within the waters defend thee; let that  
 defend thee which human beings kindle; let Vāiśvānara, Jātavedas defend  
 \[thee\]; let not \[the fire\] of heaven consume thee along with the  
 lightning.
 
-#### Notes
+##### Notes
 Our text should read in **d** *mā́ prá dhāk;* the omission of *prá* is an  
 error of the press. Ppp. reads *mā pra dahāt.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/11_raxantu_tvAgnayo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy guardians be the Fires within the Waters, thy guardian be the Fire which men enkindle. Thy guardian be Vaisvanara Jatavedas; let not celestial Fire with lightning burn thee.
 </details>
+</details>
 </div>
-
-
 ## १२ मा त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -464,32 +426,29 @@ Thy guardians be the Fires within the Waters, thy guardian be the Fire which men
 अ॒न्तरि॑क्षं रक्षतु देवहे॒त्याः ॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
+<details open><summary><h3>१२ मा त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Let not the flesh-eating \[fire\] plot against thee; move far from  
 the destroying (*sáṁkasuka*) one; let heaven defend, let earth defend  
 thee; let both sun and moon defend thee; let the atmosphere defend from  
 the gods' missile.
 
-#### Notes
+##### Notes
 Most of the mss. (not our Bp.P.M.I.) read *rákṣatām* in **d**, which  
 SPP. accordingly (following all his authorities) retains, though the  
 accent is not defensible. ⌊I can find no note to the effect that P.M.I.  
 leave *rakṣatām* unaccented.⌋ Ppp. puts pādas **a, b** after **c, d**.  
 The comm. reads *saṁkusukāt* in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/12_mA_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the Flesh-Consumer plot against thee: depart thou far away from the Destroyer. Be Heaven and Earth and Sun and Moon thy keepers, and from the dart of Gods may Air protect thee.
 </details>
+</details>
 </div>
-
-
 ## १३ बोधश्च त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -505,15 +464,16 @@ Let not the Flesh-Consumer plot against thee: depart thou far away from the Dest
 गो॒पा॒यंश्च॑ त्वा॒ जागृ॑विश्च रक्षताम्॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
+<details open><summary><h3>१३ बोधश्च त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. Let both the knower and the attender defend thee; let both the  
 sleepless one and the unslumbering one defend thee; let both the  
 guardian and the wakeful one protect thee.
 
-#### Notes
+##### Notes
 In *bodhá* and *pratībodhá*, in **a**, the radical sense is perhaps more  
 that of 'wake.' The comm. understands six rishis bearing these several  
 appellations to be intended. ⌊Cf. the closely related v. 30. 10, above;  
@@ -521,17 +481,13 @@ also MGS. ii. 15. 1 a, b, c, d, and the Index to their *pratīkas*.⌋ A
 similar formula is found also in K. xxxvii. 10; compare further PGS.  
 iii. 4. 17. Ppp. reads *anavadrāṇiś ca* in **b**. ⌊In **b**, the first  
 ca might be dropped, without hurting the meter.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/13_bodhashcha_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guard above thee! Let Guardian and let Wakeful be thy warders.
 </details>
+</details>
 </div>
-
-
 ## १४ ते त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -545,26 +501,23 @@ May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guar
 ते त्वा॑ रक्षन्तु॒ ते त्वा॑ गोपायन्तु॒ तेभ्यो॒ नम॒स्तेभ्यः॒ स्वाहा॑ ॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
+<details open><summary><h3>१४ ते त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. Let these defend thee; let these guard thee; to these \[be\] homage!  
 to these hail!
 
-#### Notes
+##### Notes
 After *gopāyantu*, Ppp. inserts *te tvāṁ hasassāyatu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/14_te_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let these be thy preservers, these thy keepers. All hail to these, to these be lowly worship!
 </details>
+</details>
 </div>
-
-
 ## १५ जीवेभ्यस्त्वा समुद्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samudre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -580,15 +533,16 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 मा त्वा॑ प्रा॒णो बलं॑ हासी॒दसुं॒ तेऽनु॑ ह्वयामसि ॥१५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samudre.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samudre.md">
+<details open><summary><h3>१५ जीवेभ्यस्त्वा समुद्रे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. Let Vāyu, Indra, Dhātar, the preserving Savitar, assign thee unto  
 converse with the living; let not breath, strength, leave thee; we call  
 after thy life.
 
-#### Notes
+##### Notes
 The *pada*-text has *sam॰úde* in **a**, and the translation follows this  
 (cf. *vy॰úṣi* from root *vas*), as being on the whole probably the  
 understanding of the text-makers; if they had seen in the word anything  
@@ -598,17 +552,13 @@ likely that it is a corruption for *sam॰múde;* the comm. glosses it with
 noted. The comm. divides our 15-17 into two long verses, ending 15 with  
 *kathā́ syāḥ*. His intention seems to be to make just twenty verses of  
 the hymn.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/15_jIvebhyastvA_samudre.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the living. Let not thy vigour or thy breath forsake thee: we recall thy life.
 </details>
+</details>
 </div>
-
-
 ## १६ मा त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,16 +574,17 @@ May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the liv
 उत् त्वा॑दि॒त्या वस॑वो भर॒न्तूदि॑न्द्रा॒ग्नी स्व॒स्तये॑ ॥१६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
+<details open><summary><h3>१६ मा त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 16. Let not the jaw-snapping (?) grinder (*jambhá*), let not the  
 darkness find thee, let not the tongue-wrencher (?); how shouldst thou  
 be one that perisheth? up let the Ādityas, the Vasus bear thee, up let  
 Indra-and-Agni, for thy welfare.
 
-#### Notes
+##### Notes
 The translation implies a bold emendation of the unintelligible *jihvā́ ā́  
 barhís* to *jihvābarhás*, formed like *muṣkābarhā́s* ⌊at iii. 9. 2⌋;  
 Ludwig has a kindred conjecture, *ā́ barhīs* (aor.). The comm. thinks of  
@@ -642,17 +593,13 @@ a demon's tongue stretched to the size of a *barhis*. The rendering of
 comm's first gloss, *saṁhatadanta;* he adds as an alternative  
 *saṁhatahanur jambho ‘sthūladantaḥ*. ⌊But cf. v. 28. 13 and note.⌋ Ppp.  
 reads, for **b**, *mā jihvacaryaḥ prasuyuṣ kathāsya*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/16_mA_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass: how shouldst thou perish? May the Adityas and the Vasus, Indra and Agni raise thee and to health restore thee.
 </details>
+</details>
 </div>
-
-
 ## १७ उत् त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/17_ut_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -668,26 +615,23 @@ Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass
 उत् त्वा॑ मृ॒त्योरोष॑धयः॒ सोम॑राज्ञीरपीपरन्॥१७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/17_ut_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/17_ut_tvA.md">
+<details open><summary><h3>१७ उत् त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 17. Up hath heaven, up hath earth, up hath Prajāpati caught thee; up out  
 of death have the herbs, with Soma for their king, made thee pass.
 
-#### Notes
+##### Notes
 Put after vs. 20 in Ppp., as noted above.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/17_ut_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plants and Herbs with Soma as their King have rescued thee from Death.
 </details>
+</details>
 </div>
-
-
 ## १८ अयं देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -703,26 +647,22 @@ The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plan
 इ॒मं स॒हस्र॑वीर्येण मृ॒त्योरुत् पा॑रयामसि ॥१८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
+<details open><summary><h3>१८ अयं देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 18. Be this man just here, O gods; let him not go yonder from hence; him  
 by what is of thousand-fold might do we make pass up out of death.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/18_ayaM_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here let this man, O Gods, remain: let him not go to yonder world. We rescue him from Mrityu with a charm that hath a thousand powers.
 </details>
+</details>
 </div>
-
-
 ## १९ उत् त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/19_ut_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -738,32 +678,29 @@ Here let this man, O Gods, remain: let him not go to yonder world. We rescue him
 मा त्वा॑ व्यस्तके॒श्यो॒३मा त्वा॑घ॒रुदो॑ रुदन्॥१९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/19_ut_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/19_ut_tvA.md">
+<details open><summary><h3>१९ उत् त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 19. I have made thee pass up out of death; let the vigor-givers blow  
 together; let not the women of disheveled locks, let not the  
 evil-wailers, wail for thee.
 
-#### Notes
+##### Notes
 The 'evil-wailers,' perhaps professional lamenters of death or other  
 misfortune, appear again at xi. 2. 11. The comm., in **a**, has  
 *apīparan*, which SPP., without sufficient reason, is inclined to regard  
 as the original reading. For the fuller use of 'blow together,' see 2. 4  
 below. ⌊For *agha-rúd*, see Bloomfield, AJP. xi. 339; Caland,  
 *Todtengebräuche*. Note 106. See also his note 517.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/19_ut_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have delivered thee from Death. Strength-givers smelt and fashion thee! Let not she-fiends with wild loose locks, or fearful howlers yell at thee.
 </details>
+</details>
 </div>
-
-
 ## २० आहार्षमविदं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -779,29 +716,26 @@ I have delivered thee from Death. Strength-givers smelt and fashion thee! Let no
 सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च ते ऽविदम्॥२०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
+<details open><summary><h3>२० आहार्षमविदं त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 20. I have taken, I have found thee; thou hast come back renewed;  
 whole-limbed one! I have found thy whole sight, and thy whole life-time.
 
-#### Notes
+##### Notes
 The verse is RV. x. 161. 5, which has another *tvā* after *ā́ ’hārṣam* in  
 **a**, and the voc. *punarnava* ⌊with unlingualized *n*⌋ at end of  
 **b**, with both of which variants the comm. agrees, while Ppp. also  
 gives the former. ⌊For the lingualized *ṇ*, see Prāt. iii. 82.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/20_AhArShamavidaM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have attained and captured thee: thou hast returned restored to youth. Perfect in body: so have I found all thy sight and all thy life.
 </details>
+</details>
 </div>
-
-
 ## २१ व्यऽवात् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/001_dIrghAyuHprAptiH/21_vya_avAt_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -817,15 +751,16 @@ I have attained and captured thee: thou hast returned restored to youth. Perfect
 अप॒ त्वन्मृ॒त्युं निरृ॑ति॒मप॒ यक्ष्मं॒ नि द॑ध्मसि ॥२१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/001_dIrghAyuHprAptiH/21_vya_avAt_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/21_vya_avAt_te.md">
+<details open><summary><h3>२१ व्यऽवात् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 21. It hath shone out for thee; it hath become light; darkness hath  
 departed from thee; away from thee we set down death \[and\] perdition,  
 away the *yákṣma*.
 
-#### Notes
+##### Notes
 The comm. also recognizes *vy avāt* as coming from root *vas* 'shine,'  
 glossing it with *vyāucchat:* compare *tasmāi vyāuchat* PB. xvi. 1. 1.  
 ⌊For the form, cf. Gram. §890 a and §167.⌋  
@@ -842,12 +777,10 @@ The quoted Anukr. says *ekaviṅśakam ihā ”dyam ucyate*. It adds, further,
 *sūktaśaś ca gaṇanā pravartate.*⌋  
   
 ⌊See p. cxl.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/08/001_dIrghAyuHprAptiH/21_vya_avAt_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Life hath breathed on thee; light hath come: darkness hath past away from thee. Far from thee we have buried Death, buried Destruction and: Decline.
+</details>
 </details>
 </div>

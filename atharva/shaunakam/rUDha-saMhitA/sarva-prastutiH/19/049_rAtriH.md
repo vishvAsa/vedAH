@@ -18,26 +18,23 @@ title = "०४९ रात्रिः"
 [As 47.*—daśakam. ānuṣṭubham: 1-5, 8. triṣṭubh; 6. āstārapan̄kti; 7. pathyāpan̄kti; 10. 3-av. 6-p. jagatī.] *⌊The Anukr. adds bharadvājaś ca (or bhārad-), apparently meaning that Gopatha and Bharadvāja were jointly the seers in the case of this hymn.⌋
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This hymn and the following occur together also in Pāipp. xiv. Their viniyoga is the same with that of the two preceding hymns (see under hymn 47). They are translated together (but in reversed order) by Ludwig.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 466; Griffith, ii. 306.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn of Praise and prayer to Night
 </details>
+</details>
 </div>
-
-
 ## ०१ इषिरा योषा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/01_iShirA_yoShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -53,15 +50,16 @@ A hymn of Praise and prayer to Night
 अ॒श्व॒क्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/01_iShirA_yoShA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/01_iShirA_yoShA.md">
+<details open><summary><h3>०१ इषिरा योषा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The lively woman, household maiden, night, of god Savitar, of Bhaga,  
 all-expanded, of easy invocation, of assembled fortune (? *-śrī́*), hath  
 filled heaven-and-earth with greatness.
 
-#### Notes
+##### Notes
 In **a**, the *pada*-mss. read *dámūnā;* SPP. emends to *-náḥ*. In  
 **c**, all the mss., with the comm. and SPP., read *aśvakṣabhā́* (p.  
 *aśva॰kṣabhā́*), which, as being unintelligible, our edition emends at a  
@@ -74,17 +72,13 @@ vs. 4 **c**, *aśvakṣā* (= *aśvān kṣāyati* or *kṣapayati*) *bhā* (=
 *aśvakṣarā*. Many of the mss. read *sámbhṛtaḥśrīr*, and the *pada*-mss.  
 divide falsely *sám॰bhṛtaśrīḥ* instead of *sámbhṛta॰śrīḥ;* SPP. follows  
 them. Ppp. reads *saṁbhṛtaḥśīr ā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/01_iShirA_yoShA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Friend of the home, the strong and youthful maiden, Night, dear to Savitar the God, and Bhaga, All-compassing, all-glorious, prompt to listen, hath with her greatness filled the earth and heaven.
 </details>
+</details>
 </div>
-
-
 ## ०२ अति विश्वान्यरुहद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/02_ati_vishvAnyaruhad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,15 +94,16 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 उ॒श॒ती रात्र्यनु॒ सा भ॒द्राभि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/02_ati_vishvAnyaruhad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/02_ati_vishvAnyaruhad.md">
+<details open><summary><h3>०२ अति विश्वान्यरुहद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The profound one hath surmounted all things; the most mighty one hath  
 ascended to the loftiest sky; the eager night spreads toward me like a  
 friend with excellent *svadhā́s*.
 
-#### Notes
+##### Notes
 The translation follows our text of the verse, which, however, is full  
 of emendations, and by no means satisfactory. Nearly every ms. reads at  
 the beginning *ávi* (one *áviṁ*, and one authority ⌊SPP's reciter V.,  
@@ -176,17 +171,13 @@ actually explains: *ati viśvāny arhati gambhīrā varṣiṣṭham arhati
 third, SPP's reading: *áti viśvāny aruhad gambhīró várṣiṣṭham aruhanta  
 śráviṣṭhāḥ: uśatī́ rā́try* (p. *rā́trī*) *ánu sā́ bhadrā́ ’bhi tiṣṭhate mitrá  
 iva svadhā́bhiḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/02_ati_vishvAnyaruhad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Over all depths hath she gone up, and mounted, most mighty One, the sky's exalted summit. Over me now the loving Night is spreading with her auspicious. Godlike ways like Mitra.
 </details>
+</details>
 </div>
-
-
 ## ०३ वर्ये वन्दे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/03_varye_vande.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -202,16 +193,17 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/03_varye_vande.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/03_varye_vande.md">
+<details open><summary><h3>०३ वर्ये वन्दे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. O desirable, welcome, well-portioned, well-born one! thou didst come,  
 O night; mayest thou be well-willing here; save thou for us the things  
 that are produced (*jātá*) for men, likewise what \[are\] for cattle, by  
 prosperity ⌊*puṣṭyā́*⌋.
 
-#### Notes
+##### Notes
 ⌊Or, '\[and\] prosperous,' if we read *puṣṭā́*.⌋ The mss. all read in  
 **a** *várye*, which we need not have altered to *vā́rye*, as *várya* is  
 found elsewhere as early as TB.; Ppp. has *niryāi*. Three of SPP's  
@@ -235,17 +227,13 @@ reads *śriyā* instead of *atho*, and at the end *puṣṭyā*, with all the
 mss. (they vary only as to its accent), and with SPP.; our conjectural  
 emendation *puṣṭā́* is supported only by the comm. ⌊text and  
 explanation⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/03_varye_vande.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay here with friendly spirit. Guard us, the food for men that we have gotten, and all pro- sperity that comes of cattle.
 </details>
+</details>
 </div>
-
-
 ## ०४ सिंहस्य रात्र्युशती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -261,15 +249,16 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
+<details open><summary><h3>०४ सिंहस्य रात्र्युशती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The eager night has taken to herself the splendor of the lion, of the  
 stag, of the tiger, of the leopard, the horse's bottom, man's (*púruṣa*)  
 roar (? *māyú*); many forms thou makest for thyself, shining out.
 
-#### Notes
+##### Notes
 The saṁhitā-mss. accent *rātry uśatī́* (p. *rātri: uśatī́*); SPP. emends,  
 with us, to *rā́try uśatī́;* the comm. also understands *rā́trī*. The mss.  
 all ⌊with trifling variations⌋ read *pīṣásya* or *pīṅsásya* (or  
@@ -286,17 +275,13 @@ combined; and TB. (ii. 7. 7¹) in the corresponding passage reads
 āhvānādilakṣaṇam*. Ppp. has *kṛṇuṣī* for *-ṣe*. ⌊The majority of the  
 authorities read *vibhātī́ḥ* at the end.⌋ \*⌊Cf. *áśvabudhna*, RV. x. 8.  
 3; and Aufrecht on *áśvabudhya*, ZDMG. xxiv. 206.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny lion, The horse's neighing and the wild-man's bellow, Thou takest many a form when thou appearest.
 </details>
+</details>
 </div>
-
-
 ## ०५ शिवां रात्रिमनुसूर्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/05_shivAM_rAtrimanusUryaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -312,16 +297,17 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/05_shivAM_rAtrimanusUryaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/05_shivAM_rAtrimanusUryaM.md">
+<details open><summary><h3>०५ शिवां रात्रिमनुसूर्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Propitious to me \[be\] night and \[the time\] after sunrise; be the  
 mother of cold (*himá*) easy of invocation for us; notice, O  
 well-portioned one, this song of praise, with which I greet thee in all  
 the quarters.
 
-#### Notes
+##### Notes
 The translation implies in a a new conjectural reading: *śivā́ me rā́try  
 anūsūryáṁ ca;* an accusative is opposed by the connection, and the meter  
 needs another syllable. *Anūtsūryá* is venturesome, but we had  
@@ -336,17 +322,13 @@ In **b**, Ppp. has *yamasya*. In **c**, nearly all the mss. read *aśvá*
 (or *áśva*) for *asyá;* and the *pada*-mss. treat it as an independent  
 word; SPP. has *asyá*, with us. In **d**, a few mss. have *vándye* or  
 *vádye*. Ppp. reads at the end *vikṣu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/05_shivAM_rAtrimanusUryaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kind through the Night be absence of the sunshine: Mother of Frost, may she be swift to hear us. Take notice of the hymn, thou highly favoured, wherewith I worship thee in all the regions.
 </details>
+</details>
 </div>
-
-
 ## ०६ स्तोमस्य नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/06_stomasya_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -362,30 +344,27 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 आसा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/06_stomasya_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/06_stomasya_no.md">
+<details open><summary><h3>०६ स्तोमस्य नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Our song of praise, O shining (*vibhā́van*) night, like a king thou  
 enjoyest; may we be having all heroes, may we become having all  
 possessions, through (*ánu*) the out-shining dawns.
 
-#### Notes
+##### Notes
 The mss. read at the end *anūṣásaḥ* (p. *anu॰uṣásaḥ*); SPP. emends as we  
 had done. Ppp., in **b, c, d**, has, *joṣasī yathā nas sarvavīrā bh-*.  
 The verse is very ill described by the Anukr.; it is a good *pan̄kti*  
 with one syllable wanting in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/06_stomasya_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Even as a King, O splendid Night, thou takest pleasure in our hymn. May we through Mornings as they flush have all our good men, round us, and become possessors of all wealth.
 </details>
+</details>
 </div>
-
-
 ## ०७ शम्या ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/07_shamyA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -401,15 +380,16 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 रात्री॒हि तान॑सुत॒पा यस्ते॒नो न वि॒द्यते॒ यत् पुन॒र्न वि॒द्यते॑ ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/07_shamyA_ha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/07_shamyA_ha.md">
+<details open><summary><h3>०७ शम्या ह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Pleasant names thou assumest:—whoso desire to damage my riches, them,  
 O night, do thou burn continually, so that no thief be found, so that he  
 be not found again.
 
-#### Notes
+##### Notes
 The translation follows our text, which is considerably altered from  
 that of the mss. All of them, with the comm. and SPP., have at the  
 beginning *śámyā*, for which our *rāmyā́* is, so far as the written form  
@@ -433,17 +413,13 @@ and the second time *yát;* the comm. both times *yas;* the meter and
 sense alike call for our emendation. Ppp. has for both pādas only *ta  
 steno anv avidyate*, ⌊which might (see above) be understood as *atas  
 steno* etc.⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/07_shamyA_ha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My wealth do thou annoy, O Night, that not one robber may appear, none may a second time appear.
 </details>
+</details>
 </div>
-
-
 ## ०८ भद्रासि रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -459,16 +435,17 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 चक्षु॑ष्मती मे उश॒ती वपूंषि॒ प्रति॒ त्वं दि॒व्या न क्षाम॑मुक्थाः ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/08_bhadrAsi_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
+<details open><summary><h3>०८ भद्रासि रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Excellent art thou, O night, like a decorated bowl; thou bearest  
 \[as\] maiden the whole form of kine; full of eyes, eager, \[thou  
 showest\] me wondrous forms; thou hast put on (*prati-muc*) the stars of  
 heaven (*divyá*).
 
-#### Notes
+##### Notes
 Of this verse also the translation is a make-shift, following in part  
 the mss. and in part our conjectural emendations. In **a** the only  
 point of question is the last word, which the mss. read as *ṣiṣṭás* (so  
@@ -500,17 +477,13 @@ arukṣam amugdhaḥ*. The comm's version of the text is senseless, and his
 attempt to put meaning into it very absurd; it might suggest *práti tváṁ  
 divyā́ nákṣatrāṇy amukthāḥ*. Our text ought to accent *tā́rakā am-*, if  
 the reading is admitted.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/08_bhadrAsi_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art formed in perfect beauty. Thou lovingly, for me with eyes to se: them, hast bound on thee heaven's stars as thine adornment.
 </details>
+</details>
 </div>
-
-
 ## ०९ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/09_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -526,14 +499,15 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत्॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/09_yo_adya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/09_yo_adya.md">
+<details open><summary><h3>०९ यो अद्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. What thief shall come today, \[what\] malicious mortal villain, may  
 night, going to meet him, smite away the neck, ⌊away⌋ the head of him;—
 
-#### Notes
+##### Notes
 The two following pādas ⌊10 **a, b**⌋ evidently belong to this verse  
 rather than to verse 10; but our division is that of the mss. and the  
 Anukr., and so is adopted also by SPP. The comm. inserts another line  
@@ -545,17 +519,13 @@ end. Ppp. has *yu dya stenā yutv aghāyu mṛtyo ripuḥ;* and, in **d**,
 *pra gīyasva pra*. Pāda **a** is the **a** of iv. 3. 5, ⌊of which the  
 **b** recurs here as the second pāda of the comm's inserted line and  
 also as the fourth pāda of our vs. 10⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/09_yo_adya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, encounter him, and smite away his neck and head;
 </details>
+</details>
 </div>
-
-
 ## १० प्र पादौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/10_pra_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -573,14 +543,15 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/049_rAtriH/10_pra_pAdau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/10_pra_pAdau.md">
+<details open><summary><h3>१० प्र पादौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. ⌊Away⌋ his feet, that he may not go; ⌊away⌋ his hands, that he may  
 not harm.
 
-#### Notes
+##### Notes
 What marauder shall approach, may he go away all crushed; may he go  
 away, may he go well away; may he go away in a dry place (?).  
   
@@ -606,12 +577,10 @@ deprived of the help of Ppp. upon the point, as it skips from *apāyati*
 in **e** to *tṛṣṭadhūnam* in 50. 1 **a**; for **c, d**, it had *yo  
 mulalaṁ sulapāyati sa saṁpiṣṭyo upāyati*. We had **d** above as iv. 3. 5  
 **b**; ⌊cf. the end of the note to vs. 9⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/049_rAtriH/10_pra_pAdau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 His feet that he may walk no more, his hands that he may do no harm. The robber who comes hitherward goes crushed and mutilated hence, Goes hence, goes far away from us, goes hence and bears no spoil away.
+</details>
 </details>
 </div>

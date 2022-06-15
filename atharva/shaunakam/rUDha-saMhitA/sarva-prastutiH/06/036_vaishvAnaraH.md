@@ -19,26 +19,23 @@ title = "०३६ वैश्वानरः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/036_vaishvAnaraH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also, imperfect, in Pāipp. xix., and in other texts, as SV. (ii. 1058-60), etc., mentioned under the several verses. For the use of the hymn with its predecessor by Kāuś. (31. 5), see under the latter.
 
 
-#### Translations
+##### Translations
 Translated: Florenz, 296 or 48; Griffith, i. 264.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/036_vaishvAnaraH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In praise of Agni Vaisvanara
 </details>
+</details>
 </div>
-
-
 ## ०१ वऋतावानं वैश्वानरमृतस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ In praise of Agni Vaisvanara
 अज॑स्रं घ॒र्ममी॑महे ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
+<details open><summary><h3>०१ वऋतावानं वैश्वानरमृतस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. To Vāiśvānara, the righteous, lord of right, of light, we pray for  
 unfailing heat (*gharmá*).
 
-#### Notes
+##### Notes
 The Sāman version, as also that in VS. (xxvi. 6), in MS. (iv. 11. 1),  
 and AśS. (viii. 10. 3), is precisely accordant with ours; that in śśS.  
 (iii. 3. 5) has *bhānum* instead of *gharmám* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Holy Vaisvanara we seek, the Lord of light and endless life, the burning One who fadeth not.
 </details>
+</details>
 </div>
-
-
 ## ०२ स विश्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,14 +85,15 @@ Holy Vaisvanara we seek, the Lord of light and endless life, the burning One who
 य॒ज्ञस्य॒ वय॑ उत्ति॒रन्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/036_vaishvAnaraH/02_sa_vishvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/02_sa_vishvA.md">
+<details open><summary><h3>०२ स विश्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. He shaped himself unto all things; he, the controlling one, sends out  
 the seasons, drawing out the vigor (*váyas*) of the sacrifice.
 
-#### Notes
+##### Notes
 The verse is corrupt in Ppp., but the second and third pādas in it  
 exchange places, as they do in the SV. version. SV. also reads, for  
 **a**, *yá idám pratipaprathé*, and has *svàr* for *váyas* in **c**; it  
@@ -110,17 +105,13 @@ text, as we have done. AśS. (viii. 9. 7) and śśS. (x. 11. 9) read
 instead *viśvam*, and *cākḷpat*. TB. (ii. 4. 1⁹⁻¹⁰) makes an *anuṣṭubh*  
 verse of our 3 **b, c** and 2 **a, b**; it reads, for our 2 **a**, *sá  
 idám práti paprathe*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/036_vaishvAnaraH/02_sa_vishvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He hath directed all things; he sends forth the Seasons in his might, furthering sacrifice's power.
 </details>
+</details>
 </div>
-
-
 ## ०३ अग्निः परेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,26 +127,25 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 स॒म्राडेको॒ वि रा॑जति ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/036_vaishvAnaraH/03_agniH_pareShu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
+<details open><summary><h3>०३ अग्निः परेषु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Agni, in distant domains, the desire of what is and is to be, bears  
 rule as the one universal ruler.
 
-#### Notes
+##### Notes
 Or, it may be (so Florenz), 'Agni, as Kāma, rules over what has been and  
 is to be,' etc.; the comm. explains *kāmas* as *kāmayitā kāmaprado vā*.  
 SV. (also VS. xii. 117) reads *priyéṣu* for *páreṣu* in **a**; AśS.  
 (viii. 10.3) has instead *pratneṣu*. śśS. (iii. 5. 8) has our text  
 without variant; also TB. (see above), in **b, c**. ⌊Cf. iii. 21. 4 and  
 Muir, v. 403.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/036_vaishvAnaraH/03_agniH_pareShu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni Kama in other homes shines forth the sole imperial Lord of all that is and is to be.
+</details>
 </details>
 </div>

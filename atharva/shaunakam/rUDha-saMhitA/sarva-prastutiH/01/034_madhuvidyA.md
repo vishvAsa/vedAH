@@ -19,26 +19,23 @@ title = "०३४ मधुविद्या"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Verses 1, 2, 5 are found in Pāipp. ii., vs. 3 in vi., and vs. 4 in part in viii. It is used by Kāuś. in a ceremony for superiority in disputation (38. 17): the ambitious disputant is to come into the assembly from the north-east, chewing the sweet plant; again, twice in the nuptial ceremonies, once with tying a madugha amulet on the finger (76. 8), and once (79. 10) on crushing the amulet at the consummation of the marriage. The comm. further declares it used at the disputation in the aśvamedha sacrifice; but he quotes no authority for it. All these applications are evidently imposed upon the hymn, not contained in it.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 429; Grill, 52, 78; Griffith, i. 38; Bloomfield, 99, 274.—Cf. Hillebrandt, Veda-chrestomathie, p. 46.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A young man's love-charm
 </details>
+</details>
 </div>
-
-
 ## ०१ इयं वीरुन्मधुजाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A young man's love-charm
 मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
+<details open><summary><h3>०१ इयं वीरुन्मधुजाता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This plant is honey-(*mádhu*-)born; with honey we dig thee; forth  
 from honey art thou engendered; ⌊so⌋ do thou make us possessed of honey.
 
-#### Notes
+##### Notes
 The comm. calls the plant *madhuka,* and uses that form of the name also  
 in the quotations from Kāuś. (instead of *madugha, madhugha,* etc.; the  
 mss. vary greatly in their readings).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From honey sprang this Plant to life; with honey now we dig thee up. Make us as sweet as honey, for from honey hast thou been pro- duced.
 </details>
+</details>
 </div>
-
-
 ## ०२ जिह्वाया अग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,15 +85,16 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/02_jihvAyA_agre.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/02_jihvAyA_agre.md">
+<details open><summary><h3>०२ जिह्वाया अग्रे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. At the tip of my tongue honey, at the root of my tongue honeyedness;  
 mayest thou be altogether in my power (*krátu*), mayest thou come unto  
 my intent (*cittá*).
 
-#### Notes
+##### Notes
 The second half-verse agrees nearly with that of iii. 25. 5 and vi. 9.  
 2, in both of which the *yáthā*, here unexpressed, helps the  
 construction (though the accent of *ásas* does not absolutely need it,  
@@ -108,17 +103,13 @@ being capable of being viewed as antithetical). Ppp. has for **a**
 **c**) *yaṁ vācā mām anvāyasī.* The comm. explains *madhūlakam* by  
 *madhurarasabahulaṁ jalamadhūlakavṛkṣapuṣpaṁ yathā;* he understands the  
 plant to be addressed in **c, d**—which is plainly wrong.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/02_jihvAyA_agre.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest to my wish and will, and shalt be mine and only mine.
 </details>
+</details>
 </div>
-
-
 ## ०३ मधुमन्मे निक्रमणं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/03_madhumanme_nikramaNaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -134,30 +125,27 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 वा॒चा व॑दामि॒ मधु॑मद् भू॒यासं॒ मधु॑संदृशः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/03_madhumanme_nikramaNaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/03_madhumanme_nikramaNaM.md">
+<details open><summary><h3>०३ मधुमन्मे निक्रमणं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Honeyed (*mádhumant*) \[is\] my in-stepping, honeyed my forth-going;  
 with my voice I speak what is honeyed; may I be of honey-aspect.
 
-#### Notes
+##### Notes
 *Vadāni* might be a better reading in **c**. The first half-verse  
 resembles RV. x. 24. 6 **a, b** (*m. m. parā́yaṇam mádhumat púnar  
 ā́yanam*). Ppp. has for second half-verse *vācā madhumad ubhyāma akṣo me  
 madhusaṁdṛśī.* The comm. takes *madhu* and *saṁdṛśas* in **d** as two  
 independent words.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/03_madhumanme_nikramaNaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My coming in is honey-sweet and honey-sweet, my going forth: My voice and words are sweet: I fain would be like honey in my look.
 </details>
+</details>
 </div>
-
-
 ## ०४ मधोरस्मि मधुतरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,14 +161,15 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 मामित् किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
+<details open><summary><h3>०४ मधोरस्मि मधुतरो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Than honey am I sweeter (*mádhu*), than the honey-plant more honeyed;  
 of me verily shalt thou be fond (? *van*), as of a honeyed branch.
 
-#### Notes
+##### Notes
 The majority of our mss. (not Bp. I. E. D.) read here *madhúghāt* in  
 **b**, as do also the Prāt. mss. in both places (ii. 5 c; iv. 16 c)  
 where the verse is quoted; but at vi. 102. 3 all read *-du-*; SPP. reads  
@@ -190,17 +179,13 @@ authorities; the comm. has *-du-*, and derives the word from
 *vánās* in **c**; the comm. explains the word by *sambhajes*. He again  
 regards the plant as addressed in the second half-verse. Ppp. (in viii.)  
 has **a** and **b**, with ⌊aham for asmi and⌋ *madhumāṅ* for *madughāt*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou love me as a branch full of all sweets, and only me.
 </details>
+</details>
 </div>
-
-
 ## ०५ परि त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/05_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -216,15 +201,16 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/034_madhuvidyA/05_pari_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/05_pari_tvA.md">
+<details open><summary><h3>०५ परि त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. About thee with an encompassing (*paritatnú*) sugar-cane have I gone,  
 in order to absence of mutual hatred; that thou mayest be one loving me,  
 that thou mayest be one not going away from me.
 
-#### Notes
+##### Notes
 The second half-verse is found repeatedly later, as ii. 30. 1 **d, e**  
 and vi. 8. 1-3 **d, e.** The *pada*-reading in **d** is *ápa॰gā*, and  
 the word is quoted under Prāt. iii. 34 as one of the cases of irregular  
@@ -236,12 +222,10 @@ copies) accents here *apa॰gā́*, as also at vi. 8. 1, 3, but not at ii.
 has for **b-d** *yakṣaṇākām avidviṣe yathā na vidvāvadvi na vibhāva kadā  
 cana.* As for the rite, cf. Pāraskara's Gṛhya-sūtra, iii. 7¹, and  
 Stenzler's note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/034_madhuvidyA/05_pari_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Around thee have I girt a zone of sugar-cane to banish hate. That thou mayst be in love with me, my darling never to depart.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०५० रात्रिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Follows also in Pāipp. xiv. our hymn 49. Has the same liturgical use as hymn 49.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 465; Griffith, ii. 307.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Night for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ अध रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A hymn to Night for protection and prosperity
 अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/01_adha_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/01_adha_rAtri.md">
+<details open><summary><h3>०१ अध रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Do thou, O night, make the snake blind, harsh-smoked, headless; smite  
 out the eyes of the wolf; cast the thief into the snare.
 
-#### Notes
+##### Notes
 This verse is nearly identical with that translated as 47. 8 above (8  
 **c, d** and 9 **a, b** of the printed text). As there, the mss. have at  
 the beginning *ándha*, which SPP., with the comm., changes to *ádha;*  
@@ -80,17 +78,13 @@ support for a *jahyās* (see note to 47. 8); but the *tvāinaṁ* obviously
 stands in some relation to the *dvāinaṁ* of the Ppp. reading at 47. 8,  
 which is *jambhayādvāinaṁ*.⌋ \*⌊The *pada*-reading is *níḥ: jahyāḥ:  
 téna*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/01_adha_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Blind him and make him headless, Night! the serpent with the pungent breath. Strike from his head the wolf's two eyes, and dash the thief against a post.
 </details>
+</details>
 </div>
-
-
 ## ०२ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,14 +100,15 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/02_ye_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/02_ye_te.md">
+<details open><summary><h3>०२ ये ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What draft-oxen thou hast, O night, sharp-horned, very swift, with  
 them do thou today pass us always (*viśváhā*) over difficulties.
 
-#### Notes
+##### Notes
 SPP. follows the mss. in the false accent *tī́kṣṇa-* in **b**. In **c,  
 d**, he reads *pārayā́ ’ti* with us and with the comm. (also with Ppp.),  
 ⌊but against the mss., most of which⌋ have *pārayaty áti*. In **b**,  
@@ -151,17 +146,13 @@ Ppp. gives *-śṛn̄gyāśvāsavaḥ*.
 Or *tanvā* belongs to *tarema*. The comm., against the accent and the  
 sense, takes *áriṣyantas* as a future participle (= *gamiṣyantas*)! Ppp.  
 reads in **c, d** *apravāyuṣaṁ na tarehur ar-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/02_ye_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Those oxen that are thine, O Night, with sharpened horns and rapid pace, With those transport us safe to-day o'er difficulties everywhere.
 </details>
+</details>
 </div>
-
-
 ## ०३ रात्रिंरात्रिमरिष्यन्तस्तरेम तन्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,21 +168,19 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 ग॒म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
+<details open><summary><h3>०३ रात्रिंरात्रिमरिष्यन्तस्तरेम तन्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा व॒यम्।  
-ग॒म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥३॥  
+ग॒म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥३॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Uninjured in our bodies may we pass through each succeeding night, And let malignities fail to pass, as men without a boat the depth.
 </details>
+</details>
 </div>
-
-
 ## ०४ यथा शाम्याकः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -207,14 +196,15 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्मां अ॑भ्यघा॒यति ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/04_yathA_shAmyAkaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
+<details open><summary><h3>०४ यथा शाम्याकः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. As the millet-seed, flying forth, blowing away, is not found, so, O  
 night, make him fly forth who is malicious against us.
 
-#### Notes
+##### Notes
 The mss. read in **a** mostly *śāmyā́kas* (so the comm. and SPP.), also  
 *śyāmyā́kas* and *śyāmā́kas;* and have *prapátan* or *prápatan*, with  
 other chance variations; and in **b**, *apavā́n* (p. *apa॰vā́n*) or  
@@ -226,17 +216,13 @@ all have *etā́v ā́* ⌊several *ā*⌋ (p. *etāú: ā́*); the comm. and SP
 Ppp.) agree with our *evā́*. The majority of mss. have at the end  
 *-yánti*. Ppp. has in **a, b** *sānyākaṣ prapatante divāṁ nā ’nu-*; in  
 **d** it combines *yo ‘smāṅ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/04_yathA_shAmyAkaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As millet hurried through the air before us is beheld no more. So cause the man to vanish, Night, who plans to do us injury.
 </details>
+</details>
 </div>
-
-
 ## ०५ अप स्तेनं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/05_apa_stenaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -252,14 +238,15 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/05_apa_stenaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/05_apa_stenaM.md">
+<details open><summary><h3>०५ अप स्तेनं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Thou didst make the thief stay away, and the kine-driving robber,  
 also him who, haltering the courser's head, tries to lead it \[away\].
 
-#### Notes
+##### Notes
 The *pada*-mss. strangely read at the beginning *apáḥ;* the rest ⌊save  
 one of SPP's, p.m., which has *ápa*⌋ accent *apá;* SPP., as well as our  
 text, emends to *ápa*, which the comm. also understands. All the mss.  
@@ -281,17 +268,13 @@ SPP's authorities. From the *Index Verborum* and from the *Roots* (p.
 the text and some mss., though he has overlooked the matter here. The  
 desiderative⌋ so distinctly calls for a prefix that one is tempted  
 further to emend *átho* in **c** to *ápa*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/05_apa_stenaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The thief hast thou kept far away, the robber driver of our kine. Even him who having covered up the horse's head would lead him off.
 </details>
+</details>
 </div>
-
-
 ## ०६ यदद्या रात्रि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -307,14 +290,15 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 यदे॒तद॒स्मान् भो॑जय॒ यथेद॒न्यानु॒पाय॑सि ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/06_yadadyA_rAtri.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/06_yadadyA_rAtri.md">
+<details open><summary><h3>०६ यदद्या रात्रि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. When, O well-portioned night, thou comest today, sharing out what is  
 good, \[then\] make us to enjoy that, that it go not away.
 
-#### Notes
+##### Notes
 The translation follows our text, which is very different from that of  
 the mss. and SPP. Our *adyā́* in **a** implies *adyá ā́* (*ā́...áyas*),  
 which all the *pada*-mss. have, while SPP., with the comm., treats it as  
@@ -332,17 +316,13 @@ upā́yasi* (p. *upa॰áyasi*), but in a note conjectures *yáthé ’d anyā́
 giving a good sense with less alteration of the original text than our  
 version requires. Ppp. is wholly corrupt: *yathed yasmā nitājaya yathed  
 anyān upāyatī;* but the last pāda favors SPP's conjecture.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/06_yadadyA_rAtri.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou us to enjoy it all so that this may not pass away.
 </details>
+</details>
 </div>
-
-
 ## ०७ उषसे नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,23 +338,22 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/050_rAtriH/07_uShase_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/07_uShase_naH.md">
+<details open><summary><h3>०७ उषसे नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Unto the dawn, O night, do thou commit us all, free from guilt; may  
 the dawn bestow (*ā-bhaj*) us on the day, the day on thee, O shining  
 one.
 
-#### Notes
+##### Notes
 The comm., two of SPP's reciters, and Ppp., read in **c** *bhajat*.  
 Compare the verse 48. 2, above ⌊and MB. i. 5. 15, there cited⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/050_rAtriH/07_uShase_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Do thou entrust us to the Dawn, all of us free from sin, O Night. May Dawn deliver us to Day, and Day to thee, O glorious One.
+</details>
 </details>
 </div>

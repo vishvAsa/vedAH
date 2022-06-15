@@ -19,24 +19,19 @@ title = "१०८ मेधावर्धनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Pāipp. xix. has vss. 1, 2, 5, thus reducing the hymn to the norm of this book. Found used in Kāuś. (10. 20), with vi. 53 ⌊so the comm.: but Dārila understands xii. 1. 53 as intended⌋, in the medhājanana ceremony; and also (57. 28) in the upanayana, with worship of Agni.
 
 
-#### Translations
+##### Translations
 Translated: Muir, i2 255; Griffith, i. 304.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ त्वं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/01_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,29 +47,26 @@ Translated: Muir, i2 255; Griffith, i. 304.
 त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/01_tvaM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/01_tvaM_no.md">
+<details open><summary><h3>०१ त्वं नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Do thou, O wisdom (*medhā́*), come first to us, with kine, with  
 horses, thou with the sun's rays; thou art worshipful to us.
 
-#### Notes
+##### Notes
 The comm. explains *medhā* as *śrutadhāraṇasāmarthyarūpiṇī devī*, and  
 finds in **c** an elliptical comparison (*luptopamā*): "as the rays of  
 the sun quickly pervade the whole world, so come to us with own  
 capacities able to pervade all subjects."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/01_tvaM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Intelligence, come first to us with store of horses and of kine! Thou with the rays of Surya art our worshipful and holy one.
 </details>
+</details>
 </div>
-
-
 ## ०२ मेधामहं प्रथमां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/02_medhAmahaM_prathamAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,15 +82,16 @@ Intelligence, come first to us with store of horses and of kine! Thou with the r
 प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/02_medhAmahaM_prathamAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/02_medhAmahaM_prathamAM.md">
+<details open><summary><h3>०२ मेधामहं प्रथमां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. I call first, unto the aid of the gods, wisdom filled with *bráhman*,  
 quickened by *bráhman*, praised by seers, drunk of (?) by Vedic  
 students.
 
-#### Notes
+##### Notes
 Ppp. omits *brahmajūtām* in **b**, without rectifying the meter, which  
 can only be saved by leaving out the superfluous *prathamā́m* in **a**.  
 It avoids, in **c**, the doubtful *prapītām* by reading instead  
@@ -111,17 +104,13 @@ notice the deficiency of a syllable in **a**; in fact, *prathamā́m* is
 intruded, and the verse otherwise a good *anuṣṭubh*. \*⌊That is, he  
 refers it to *pibati* by *sevitām* and to *pī* or *pyā* by  
 *pravardhitām*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/02_medhAmahaM_prathamAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahmacharis, for the favour of the Gods I call.
 </details>
+</details>
 </div>
-
-
 ## ०३ यां मेधामृभवो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,27 +126,24 @@ The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahma
 ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
+<details open><summary><h3>०३ यां मेधामृभवो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The wisdom that the Ribhus know, the wisdom that the Asuras know, the  
 excellent wisdom that the seers know—that do we cause to enter into me.
 
-#### Notes
+##### Notes
 It is the intrusion of *bhadrām* in **c** that spoils the *anuṣṭubh*,  
 but does not make a regular *bṛhatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sages know, we cause to enter into me.
 </details>
+</details>
 </div>
-
-
 ## ०४ यामृषयो भूतकृतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,29 +159,26 @@ That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sa
 तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
+<details open><summary><h3>०४ यामृषयो भूतकृतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The wisdom that the being-making seers, possessed of wisdom,  
 know—with that wisdom do thou make me today, O Agni, possessed of  
 wisdom.
 
-#### Notes
+##### Notes
 Many of the mss. (including our P.M.H.I.K.O.) leave *vidus* unaccented  
 at the end of **b**. The second half-verse is VS. xxxii. 14 **c, d**  
 (which has *kuru* for *kṛṇu*); ⌊so also RV. *khila* to x. 151⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Do thou, O Agni, make me wise this day with that Intelligence. Which the creative ishis, which the men endowed with wisdom knew.
 </details>
+</details>
 </div>
-
-
 ## ०५ मेधां सायं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/05_medhAM_sAyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -211,21 +194,20 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/108_medhAvardhanam/05_medhAM_sAyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/05_medhAM_sAyaM.md">
+<details open><summary><h3>०५ मेधां सायं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Wisdom at evening, wisdom in the morning, wisdom about noon, wisdom  
 by the sun's rays, by the spell (*vácas*), do we make enter into us.
 
-#### Notes
+##### Notes
 Ppp. is corrupt in **c, d**: *medhāṁ sūryeṇo ’dyato dhīrāṇā uta stvama*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/108_medhAvardhanam/05_medhAM_sAyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Intelligence at eve, at morn, Intelligence at noon of day, With the Sun's beams, and by our speech we plant in us Intelligence.
+</details>
 </details>
 </div>

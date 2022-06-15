@@ -19,26 +19,23 @@ title = "००३ स्वराज्ये राज्ञः पुनः �
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. ii. (our vs. 5 coming last). Used by Kāuś. (16. 30), with the hymn next following, in a ceremony for the restoration of a king to his former kingdom. In Vāit. (9. 2), vs. 1 accompanies a morning oblation to Agni anīkavant in the sākamedha rite of the cāturmāsya sacrifice; and again (30. 27), vs. 2 is used at the end of the sāutrāmaṇī ceremony.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 441; Weber, xvii. 185; Griffith, i. 83; Bloomfield, 112, 327.—Cf. Bergaigne-Henry, Manuel, p. 140.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for the restoration of an expelled king
 </details>
+</details>
 </div>
-
-
 ## ०१ अचिक्रदत् स्वपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradat_svapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A charm for the restoration of an expelled king
 यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आमुं न॑य॒ नम॑सा रा॒तह॑व्यम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradat_svapA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradat_svapA.md">
+<details open><summary><h3>०१ अचिक्रदत् स्वपा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. He hath shouted (? *krand*); may he be protector of his own here; O  
 Agni, bend apart the two widened firmaments (*ródasī*); let the  
 all-possessing Maruts harness (*yuj*) thee; lead thou hither with homage  
 yon man of bestowed oblation.
 
-#### Notes
+##### Notes
 This is a very literal translation of the obscure verse, which is  
 plainly an adaptation or corruption, or both, of a RV. verse in a hymn  
 to Agni (vi. 11. 4: it is repeated, without variant, in MS. iv. 14. 15):  
@@ -86,17 +84,13 @@ tvatsahāyā bhavantu*), and *amúm* in **d** as the king. The Anukr.
 ignores the *jagatī* pāda (**c**) ⌊or lets it offset **a** counted as  
 10!⌋ ⌊The usual compound is *sv-ápās;* but *sv-apā́s*, though not  
 quotable, is quite possible.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradat_svapA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth and heaven. Let Maruts who possesses all treasures yoke thee. Bring him who reverently paid oblations.
 </details>
+</details>
 </div>
-
-
 ## ०२ दूरे चित्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chit.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,16 +106,17 @@ Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth 
 यद् गा॑य॒त्रीं बृ॑ह॒तीम॒र्कम॑स्मै सौत्राम॒ण्या दधृ॑षन्त दे॒वाः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chit.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chit.md">
+<details open><summary><h3>०२ दूरे चित् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Indra, the inspired one, however far away, let the ruddy ones set in  
 motion hither (*ā-cyāvaya-*) in order to friendship, when the gods  
 venture (?) for him a *gāyatrī́*, a *bṛhatī́*, a song (*arká*), with the  
 *sāutrāmaṇī́* (ceremony).
 
-#### Notes
+##### Notes
 This verse is nearly as obscure as the preceding, and probably as  
 hopelessly corrupt. The "ruddy ones" in **a** are, according to the  
 comm., priests (*ṛtvij*); Weber understands "horses," Ludwig "somas."  
@@ -134,17 +129,13 @@ Anukr. fails to remark. R. conjectures "made firm for him the mighty
 *gāyatrī* as bolt." About half the mss. (including our Bp.E.I.H.K.)  
 accent in **b** *sakhyā̀ya;* the same uncertainty as to this word appears  
 elsewhere.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chit.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Though he be far away, let the red horses bring Indra, bring the sage to us and friendship, Since with Sautramani Gods for him o'erpower Gayatri, Brihati, and hymn of praises.
 </details>
+</details>
 </div>
-
-
 ## ०३ अद्भ्यस्त्वा राजा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,32 +151,29 @@ Though he be far away, let the red horses bring Indra, bring the sage to us and 
 इन्द्र॑स्त्वा ह्वयतु वि॒ड्भ्य॑ आ॒भ्यः श्ये॒नो भू॒त्वा विश॒ आ प॑ते॒माः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAjA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAjA.md">
+<details open><summary><h3>०३ अद्भ्यस्त्वा राजा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. For the waters let king Varuṇa call thee; let Soma call thee for the  
 mountains; let Indra call thee for these subjects (*víś*); becoming a  
 falcon, fly unto these subjects.
 
-#### Notes
+##### Notes
 "For" may of course be "from" in **a** and **b**, as preferred by ⌊the  
 four⌋ translators and comm. Ppp. reads, in **a, b** *varuṇo juhāva somas  
 tvā ’yaṁ hvayati;* and again in **c**, *indras ivā ’yaṁ hvayati.* With  
 the proper resolutions, this verse is a decent *triṣṭubh;* the Anukr.  
 scans it as 11 + 10: 10 + 10 = 41. The verses in our text are wrongly  
 numbered from this one on.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAjA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 King Varuna call thee hither from the waters! From hills and mountains Soma call thee hither! Let Indra call thee hither to these people. Fly hither to these people as a falcon.
 </details>
+</details>
 </div>
-
-
 ## ०४ श्येनो हव्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,33 +189,30 @@ King Varuna call thee hither from the waters! From hills and mountains Soma call
 अ॒श्विना॒ पन्थां॑ कृणुतां सु॒गं त॑ इ॒मं स॑जाता अभि॒संवि॑शध्वम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyaM.md">
+<details open><summary><h3>०४ श्येनो हव्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the falcon lead hither from far (*pára*) the one to be called,  
 living exiled in others' territory (*kṣétra*); let the (two) Aśvins make  
 the road for thee easy to go; settle together about this man, ye his  
 fellows.
 
-#### Notes
+##### Notes
 The translation follows both previous translators, and the comm. (=  
 *hvātavyam*), in implying *hávyam* in **a** instead of *havyám*  
 'oblation'; yet Ppp. reads *havis*, which supports *havyám.* The comm.,  
 with several of SPP's mss., has *avaruddham* in **b**; for ⌊the  
 technical⌋ *aparuddhaś caran* (and *ava-gam*, 6 **d**) compare  
 especially PB. xii. 12. 6.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the hawk bring the man who must be summoned, from far away, in alien land, an exile. May both the Asvins make thy pathway easy. Come, and unite yourselves with him, ye Kinsmen.
 </details>
+</details>
 </div>
-
-
 ## ०५ ह्वयन्तु त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -243,15 +228,16 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 इ॒न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते वि॒शि क्षेम॑मदीधरन्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
+<details open><summary><h3>०५ ह्वयन्तु त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Let thine opponents call thee; thy friends have chosen \[thee\]  
 against \[them\] (? *práti*); Indra-and-Agni, all the gods, have  
 maintained for thee security (*kṣéma*) in the people (*víś*).
 
-#### Notes
+##### Notes
 The comm., and a few of SPP's mss. that follow it, have at the beginning  
 *váyantu* (= *sāṁtatyena sevantām*). Several *saṁhitā*-mss. (including  
 our P.M.O.Op.) read *pratijānā́ḥ;* Ppp. has the easier reading *pañca  
@@ -263,17 +249,13 @@ and both editions read *té;* but it should plainly be *te*, as our
 translation renders, and as the comm. also explains it. The comm.  
 combines in **b** *pratimitrās*, making it mean "opposing friends"; the  
 combination of *vṛ* 'choose' with *prati* is strange and obscure.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let thine opponents call thee back. Thy friends have chosen, thee again. Indra and Agni, all the Gods have kept thy home amid the tribe.
 </details>
+</details>
 </div>
-
-
 ## ०६ यस्ते हवं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,25 +271,24 @@ Let thine opponents call thee back. Thy friends have chosen, thee again. Indra a
 अ॑पाञ्चमिन्द्र॒ तं कृ॒त्वाथे॒ममि॒हाव॑ गमय ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havaM.md">
+<details open><summary><h3>०६ यस्ते हवं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Whatever fellow disputes thy call, and whatever outsider—making  him  
 go away (*ápāñc*), O Indra, then do thou reinstate (*ava-gamaya*) this  
 man here.
 
-#### Notes
+##### Notes
 The comm. explains *sajātá* and *níṣṭya* as *samabala* and *nikṛṣṭabala*  
 (!) ⌊as at i. 19. 3⌋, and *ava gamaya* as *bodhaya*. The Anukr. takes no  
 notice of the metrical deficiency in **a**; emendation to *-vádati*  
 would fairly rectify it. ⌊For *ava-gam*, see note to vs. 4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He who disputes our calling thee, be he a stranger or akin. Drive him, O Indra, far away, and do thou bring this man to us.
+</details>
 </details>
 </div>

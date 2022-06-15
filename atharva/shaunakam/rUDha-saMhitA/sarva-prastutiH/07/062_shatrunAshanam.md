@@ -19,26 +19,23 @@ title = "०६२ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/062_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also, almost without variant, in Pāipp. xx. Kāuś (69. 7) uses it, with xii. 2, in the preparation of the house-fire, with scattering of holy water. In Vāit. (29. 9) it appears in the agnicayana.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 24, 88; Griffith, i. 357.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/062_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for the overthrow of enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ अयमग्निः सत्पतिर्वृद्धवृष्णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A prayer for the overthrow of enemies
 नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
+<details open><summary><h3>०१ अयमग्निः सत्पतिर्वृद्धवृष्णो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This Agni, lord of the good, household priest, conquered them of  
 increased virility (?), as a chariot-warrior \[conquers\] footmen; set  
 down on earth in the navel, brightly shining, let him put under foot  
 them who desire to fight \[us\].
 
-#### Notes
+##### Notes
 Our pādas **a, c, d** are **b, c, d** of a verse that is found in VS.  
 xv. 51, TS. iv. 7. 13³, MS. ii. 12. 4 with the following first pāda: *ā́  
 vācó mádhyam aruhad bhuraṇyús;* they also read *cékitānas* for  
@@ -76,13 +74,11 @@ impossible, though against usage in composition. The comm. reads
 *-ṇyas*, also *patnīm* in **b** (having to labor hard to make out a  
 sense for the latter). The mss. vary between *patnī́n* and *pattī́n* (our  
 Bp.P.M.W.E.I, have the former). The first pāda is *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत् पु॒रोहि॑तः ।  
 नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥१॥
+</details>
 </details>
 </div>

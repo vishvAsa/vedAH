@@ -19,22 +19,19 @@ title = "०४५ ईर्ष्यानिवारणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/045_IrShyAnivAraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Very probably (b) rather 'from the Indus' (síndhu). Ppp. reads -janīnaṁ viśam arukṣatīnām (= urukṣit-?); its second half-verse is corrupt. The comm. explains janāt by janapadāt and its epithet by viśvajanahitāt.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/045_IrShyAnivAraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against jealousy
 </details>
+</details>
 </div>
-
-
 ## ०१ जनाद् विश्वजनीनात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A charm against jealousy
 दू॒रात् त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md">
+<details open><summary><h3>०१ जनाद् विश्वजनीनात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. From a people belonging to all peoples, away from the river  
 (*síndhu*) brought hither, from afar I think thee brought up, a remedy,  
 namely, of jealousy.
 
-#### Notes
+##### Notes
 Very probably (**b**) rather 'from the Indus' (*síndhu*). Ppp. reads  
 *-janīnaṁ viśam arukṣatīnām* (= *urukṣit-*?); its second half-verse is  
 corrupt. The comm. explains *janāt* by *janapadāt* and its epithet by  
@@ -90,17 +88,13 @@ gṛbhāhitam:* and then, as second half-verse, our **a, b**, with *yathā*
 instead of *pṛthak;* in an added verse occurs the phrase *udhnā ’gnim  
 iva vāraye*. ⌊"Do I appease," *śamaye*, would be more natural; cf. Ppp's  
 *vāraye*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/045_IrShyAnivAraNam/01_janAd_vishvajanInAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from afar, thou art I deem, a balm that cureth. jealousy.
 </details>
+</details>
 </div>
-
-
 ## ०२ अग्नेरिवास्य दहतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -116,16 +110,16 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 ए॒तामे॒तस्ये॒र्ष्यामु॒द्राग्निमि॑व शमय ॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
+<details open><summary><h3>०२ अग्नेरिवास्य दहतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्।  
 ए॒तामे॒तस्ये॒र्ष्यामु॒द्राग्निमि॑व शमय ॥२॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As one with water quencheth fire, so calm this lover's jealousy, Like heat of fire that burneth here, or flame that rageth through the wood.
+</details>
 </details>
 </div>

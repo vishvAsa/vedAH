@@ -19,24 +19,19 @@ title = "०९९ संग्रामजयः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/099_saMgrAmajayaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 [Partly prose, "vs." 3.⌋ Found also in Pāipp. xix. No use of the hymn is made by Kāuś. except in connection with its two predecessors, as explained under hymn 97. But Vāit. has it in the agniṣṭoma, as whispered stotra (18. 16).
 
 
-#### Translations
+##### Translations
 Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/099_saMgrAmajayaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ अभि त्वेन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
+<details open><summary><h3>०१ अभि त्वेन्द्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Unto thee, O Indra, on account of width, thee against (*purā́*)  
 distress I call; I call on the stern corrector, the many-named,  
 sole-born.
 
-#### Notes
+##### Notes
 In spite of its wrong accent (cf. *aṇimatás, sthavimatás*\*) *várimatas*  
 is probably an adverb in *tas*. The comm. interprets it, doubtless  
 correctly, "for the sake of width" (*urutvād dhetoḥ*): i.e., of free  
@@ -68,17 +64,13 @@ space, opposed to distress or narrowness. ⌊The derivatives of *aṅh* and
 *uru* are in frequent antithesis, as, e.g., at RV. v. 24. 4.⌋  
 'Sole-born,' i.e. 'unique.' Ppp. ends **b** with *aṅhúraṇebhyaḥ*. \*⌊MS.  
 iii. 10. 4, p. 135, 1. 4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra, before affliction comes, I call thee from the wide expanse. The mighty guardian, born alone, wearer of many names, I call.
 </details>
+</details>
 </div>
-
-
 ## ०२ यो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,14 +86,15 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/099_saMgrAmajayaH/02_yo_adya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/02_yo_adya.md">
+<details open><summary><h3>०२ यो अद्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The hostile (? *sénya*) weapon that goes up today, desiring to slay  
 us—in that case we put completely about us Indra's two arms.
 
-#### Notes
+##### Notes
 Ppp. reads at the beginning *yo ‘dya*, and at the end *pari dadmahe*,  
 which rectifies the meter of **d**. The *pada* mss. strangely read  
 *jighāṅsam* in **b**; both editions make the necessary emendation to  
@@ -111,17 +104,13 @@ in connection with the Ppp. reading, suggests the emendation *dadhmahe*⌋
 is adopted in our text, though not in SPP's. The metrical irregularity  
 of the verse should not have been overlooked by the Anukr. ⌊Cf. i. 20. 2  
 **a, b**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/099_saMgrAmajayaH/02_yo_adya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever deadly missile launched to-day flies forth to slaughter us. We take both arms of Indra to encompass us on every side.
 </details>
+</details>
 </div>
-
-
 ## ०३ परि दद्म
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,26 +126,25 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 देव॑ सवितः॒ सोम॑ राजन्त्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/099_saMgrAmajayaH/03_pari_dadma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/03_pari_dadma.md">
+<details open><summary><h3>०३ परि दद्म ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. We put completely about the two arms of Indra the savior; let him  
 save us. God Savitar! king Soma! make thou me well-willing, in order to  
 well-being.
 
-#### Notes
+##### Notes
 In this verse, only our Bp.M. read *dadhmas*, but it is adopted in our  
 text. The comm. again gives it. Ppp. has *dadmān;* and in **d** it  
 reads, for *kṛṇu, kṛṇutam*, which is preferable for sense, though it  
 makes the verse still less metrical. The verse is *bṛhatī* only by  
 count.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/099_saMgrAmajayaH/03_pari_dadma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We draw about us both the arms of Indra, our deliverer. May they protect us thoroughly. O Savitar, thou God, O royal Soma, make thou me pious- minded for my welfare.
+</details>
 </details>
 </div>

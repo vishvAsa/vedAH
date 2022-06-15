@@ -19,24 +19,19 @@ title = "१४१ गोकर्णयोर्लक्ष्यकरणम�
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/141_gokarNayorlaxyakaraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuś. (23. 12-16) in a ceremony for welfare called citrākarman: after due preparation and ceremony, the ears are cut with vs. 2, and the blood is wiped off and eaten (by the creature, comm.) with vs. 3. The hymn is reckoned (note to 19. 1) to the puṣṭika mantras. The schol. also uses vs. 2 in the ceremony of letting loose a bull (note to 24. 19).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ वायुरेनाः समाकरत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,31 +47,28 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद् रु॒द्रो भू॒म्ने चि॑कित्सतु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md">
+<details open><summary><h3>०१ वायुरेनाः समाकरत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. May Vāyu collect them; let Tvashṭar stay fast in order to \[their\]  
 prosperity; may Indra bless them; let Rudra take care for \[their\]  
 numbers.
 
-#### Notes
+##### Notes
 *Samā́karat* (p. *sam॰ā́karat*) might, of course, also be indicative  
 (*sam-ā́-akarat*). Ppp., in **c**, combines *indrā ”bhyo*, and reads  
 *bruvat;* in **d**, it has *‘va gachatu* for *cikitsatu*. The comm.  
 renders *dhriyatām* by *dhārayatu*, and **d** by  
 *pādāsyādirogaparihāreṇa bahvīḥ karotu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vayu collected these: to find their sustenance be Tvashtar's care: May Indra bless and comfort them, and Rudra look that they increase.
 </details>
+</details>
 </div>
-
-
 ## ०२ लोहितेन स्वधितिना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,15 +84,16 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 अक॑र्ताम॒श्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
+<details open><summary><h3>०२ लोहितेन स्वधितिना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. With the red knife (*svádhiti*), make thou a pair (*mithuná*) on  
 \[their\] two ears; the Aśvins have made the mark; be that numerous by  
 progeny.
 
-#### Notes
+##### Notes
 The comm. explains *mithunam* as *strīpuṅsātmakaṁ cihnam*, and regards  
 it as applied to the calf's ears. ⌊If the comm. is correct on this  
 point, as is altogether likely, this marking the cattle's ears with  
@@ -108,17 +101,13 @@ marks resembling the genitals is a bit of symbolism most interesting to
 the student of folk-lore.⌋ The 'red' knife is doubtless of copper ⌊so  
 also the comm.⌋. Ppp. reads *lakṣmi* in **c** (but *lakṣma* in vs. 3).  
 MB. (i. 8. 7) has the first half-verse, with *kṛtam* for *kṛdhi*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Take thou the iron axe and make a pair by marks upon their ears. This sign the Asvins have impressed: let these increase and multiply.
 </details>
+</details>
 </div>
-
-
 ## ०३ यथा चक्रुर्देवासुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -134,21 +123,19 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
+<details open><summary><h3>०३ यथा चक्रुर्देवासुरा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. As the gods and Asuras made \[it\], as human beings also, so, O  
 Aśvins, make ye the mark, in order to thousand-fold prosperity.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Even as Gods and Asuras, even as mortal men have done, Do ye, that these may multiply in thousands, Asvins! make the mark.
+</details>
 </details>
 </div>

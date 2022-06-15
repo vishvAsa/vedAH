@@ -20,26 +20,23 @@ title = "०२९ दीर्घायुष्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp., but in two widely separated parts: vss. 1-3 in xix., and vss. 4-7 in i. (next following our hymn 28). Used in Kāuś. (27. 9 ff.) in a curious healing rite for one afflicted with thirst: the patient and a well person are set back to back, wrapped in one garment together, and the latter is made to drink a certain potion apparently prepared for the other; thus the disease will be transferred to the well person: a total perversion of the proper meaning of the hymn. Again, it is used (54. 18) in the godāna and cūḍā ceremonies, and, according to the schol. (58. 17, note), in that of name-giving; and the schol. (42. 15) further add it in the rite on the return home of a Vedic student. And vs. 3 accompanies in Vāit. (22. 16) the pouring of the āśīr milk into the clarified soma in the pūtabhṛt at the agniṣṭoma sacrifice ⌊cf. comm. and Hillebrandt, Ritual-litteratur, p. 129⌋.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 194; Ludwig, p. 493; Griffith, i. 68; Bloomfield, 47, 308.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benediction on a sick man
 </details>
+</details>
 </div>
-
-
 ## ०१ पार्थिवस्य रसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -55,15 +52,16 @@ A benediction on a sick man
 आ॒यु॒ष्यऽम॒स्मा अ॒ग्निः सूर्यो वर्च॒ आ धा॒द् बृह॒स्पतिः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
+<details open><summary><h3>०१ पार्थिवस्य रसे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. In the sap of what is earthly, O gods, in the strength of Bhaga's  
 self (*tanū́*)—length of life to this man may Agni, Sūrya—splendor may  
 Brihaspati impart.
 
-#### Notes
+##### Notes
 Or it might be 'in the sap of earthly portion, in strength of body'  
 (**a, b**); 'what is earthly' would refer to some characteristic product  
 of earth applied in the rite; the comm. understands the god Bhaga, but  
@@ -73,17 +71,13 @@ both verses: in neither case does the Anukr. note an irregularity. Ppp.
 has here *āyur asmāi*, but follows it with *somo varca dhātā bṛh-*. Some  
 of our mss., with two or three of SPP's, accent *āyúṣyam*. The comm.  
 takes *devās* in **a** for a nominative.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Gods, give him all that earth hath best with bodily strength and happy fate. Agni and Surya grant him life, Brihaspati give him eminence!
 </details>
+</details>
 </div>
-
-
 ## ०२ आयुरस्मै धेहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,30 +93,27 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 रा॒यस्पोषं॑ सवित॒रा सु॑वा॒स्मै श॒तं जी॑वाति श॒रद॒स्तवा॒यम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
+<details open><summary><h3>०२ आयुरस्मै धेहि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Length of life to him assign thou, O Jātavedas; progeny, O Tvashṭar,  
 do thou bestow on him; abundance of wealth, O Savitar ('impeller'), do  
 thou impel to him; may he live a hundred autumns of thee.
 
-#### Notes
+##### Notes
 The construction of a dative with *adhi-ni-dhā* in **b** seems hardly  
 admissible; BR. ⌊iii. 917⌋, in quoting the passage, reads *asmé*,  
 apparently by an intended emendation, which, however, does not suit the  
 connection; *asmín* is the only real help.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar. Send him, O Savitar, full growth of riches. Let this thy servant live a hundred autumns.
 </details>
+</details>
 </div>
-
-
 ## ०३ आशीर्ण ऊर्जमुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,16 +129,17 @@ Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar.
 जयं॒ क्षेत्रा॑णि॒ सह॑सा॒यमि॑न्द्र कृण्वा॒नो अ॒न्यानध॑रान्त्स॒पत्ना॑न्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
+<details open><summary><h3>०३ आशीर्ण ऊर्जमुत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Our blessing \[assign him\] refreshment, possession of excellent  
 progeny; do ye (two), accordant, assign \[him\] dexterity, property  
 (*dráviṇa*); \[let\] this man \[be\] conquering fields with power, O  
 Indra, putting (*kṛ*) other rivals beneath him.
 
-#### Notes
+##### Notes
 The verse is difficult, and, as the parallel texts show, badly  
 corrupted. *Āśī́r ṇas* (for which Weber ingeniously suggested *ā́śīrṇe*)  
 is supported by *āśī́r nas* in MS. (iv. 12. 3) and *āśī́r me* in TS. (iii.  
@@ -167,17 +159,13 @@ even more acceptable—only not with *ahám*, as all the four read for
 *āśī́r;* the comm. interprets both ways ⌊as from *āśís* 'blessing' or  
 from *āśír* 'milk'⌋. He regards the *āu* of *sāupra-* in **a** as simply  
 "Vedic," and heaven and earth as addressed in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May this our prayer bring strength and goodly offspring. Give, both of you one-minded, strength and riches. Let him with might win fields and victory, Indra! setting beneath his feet the rest, his rivals.
 </details>
+</details>
 </div>
-
-
 ## ०४ इन्द्रेण दत्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -193,32 +181,29 @@ May this our prayer bring strength and goodly offspring. Give, both of you one-m
 ए॒ष वां॑ द्यावापृथिवी उ॒पस्थे॒ मा क्षु॑ध॒न्मा तृ॑षत्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/04_indreNa_datto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
+<details open><summary><h3>०४ इन्द्रेण दत्तो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Given by Indra, instructed by Varuṇa, sent forth by the Maruts, hath  
 the formidable one come to us; let this man, in your lap, O  
 heaven-and-earth, not hunger, not thirst.
 
-#### Notes
+##### Notes
 The "thirst" of the patient in Kāuś. has no more substantial foundation  
 than the last two words of this verse. The text in Ppp. is defaced, but  
 shows *sṛṣṭas* for *śiṣṭas* in **a**, and in **c, d**, after *-thivī,  
 pari dadāmi sa mā.* The Anukr. would have us scan 11 + 11: 8 + 9 = 39,  
 dividing before *upásthe;* but the *pada*-mss. mark the division  
 correctly, after that word.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/04_indreNa_datto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maruts. Let him, O Heaven and Earth, rest in your bosom. Let him not hunger, let him not be thirsty.
 </details>
+</details>
 </div>
-
-
 ## ०५ ऊर्जमस्मा ऊर्जस्वती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,16 +219,17 @@ As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maru
 ऊर्ज॑म॒स्मै द्यावा॑पृथि॒वी अ॑धातां॒ विश्वे॑ दे॒वा म॒रुत॒ ऊर्ज॒मापः॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
+<details open><summary><h3>०५ ऊर्जमस्मा ऊर्जस्वती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Assign refreshment to him, ye (two) that are rich in refreshment;  
 assign milk to him, ye rich in milk; refreshment have heaven-and-earth  
 assigned to him, \[have\] all the gods, the Maruts, refreshment \[have\]  
 the waters.
 
-#### Notes
+##### Notes
 'Refreshment' is the conventional rendering selected for the ambiguous  
 word *ūrj* and its varieties. Nearly all our mss. (all save P. M.), and  
 all of SPP's, have the false accentuation *devās* in **d**; both  
@@ -254,17 +240,13 @@ with *dyā́vāpṛthivī́* in **c**, for which the mss. have either
 only our H. has the true reading, which is given by emendation in both  
 editions. The verse (10 + 10: 12 + 11 = 43) is far from being a good  
 *triṣṭubh.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give milk to feed him. These twain have given him vigour, Earth and Heaven, and all the Gods, the Maruts, and the Waters.
 </details>
+</details>
 </div>
-
-
 ## ०६ शिवाभिष्टे हृदयं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -280,16 +262,17 @@ Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give mi
 स॒वा॒सिनौ॑ पिबतां म॒न्थमे॒तम॒श्विनो॑ रू॒पं प॑रि॒धाय॑ मा॒याम्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayaM.md">
+<details open><summary><h3>०६ शिवाभिष्टे हृदयं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. With propitious things (f.) I gratify thy heart; mayest thou enjoy  
 thyself (*mud*) free from disease, very splendid; let the two that dwell  
 together (? *savāsín*) drink this stir-about (*manthá*), putting on  
 \[as\] magic the form of the (two) Aśvins.
 
-#### Notes
+##### Notes
 The second half-verse is said apparently of a married pair, who are by  
 supernatural means to become as beautiful as the Aśvins. Of course, the  
 comm. follows Kāuś. in understanding it of the sick and well man, and  
@@ -297,17 +280,13 @@ taking *savāsín* as "dressed in one garment." The comm. supplies
 *adbhís* in **a**, which is plausible (so Weber). Ppp. reads in **a**  
 *tarpayantu*, in **b** *modamānaś care ’ha*, and in **d** *aśvināu.*  
 Several of SPP's mss. give *mathám* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With health-bestowing drops thine heart I comfort: all-bright again, and undiseased, enjoy them. Drest in like robes let these two drink the mixture, wearing the Asvins' form as an illusion.
 </details>
+</details>
 </div>
-
-
 ## ०७ इन्द्र एतां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/07_indra_etAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -323,28 +302,27 @@ With health-bestowing drops thine heart I comfort: all-bright again, and undisea
 तया॒ त्वं जी॑व श॒रदः॑ सु॒वर्चा॒ मा त॒ आ सु॑स्रोद् भि॒षज॑स्ते अक्रन्॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/029_dIrghAyuShyam/07_indra_etAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/07_indra_etAM.md">
+<details open><summary><h3>०७ इन्द्र एतां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Indra in the beginning, being pierced, created this refreshment,  
 \[this\] unaging *svadhā́;* it is thine here; by it live thou for  
 autumns, very splendid; be there no flux of thee; the healers have made  
 \[it\] for thee.
 
-#### Notes
+##### Notes
 In **d**, *ā́ susrot* is here rendered as if it involved the idea of  
 *āsrāva* 'flux'; the **d** seems to forbid its being taken to mean "let  
 it not be spilled "; the comm., however, so understands it: *pracyuto mā  
 bhūt.* Some of our mss. (M.P.W.) read *tváyā* at beginning of **c**. The  
 comm. has *ūrjam* in **b**. Ppp. gives, in **a, b**, *viḍyo agram ūrjaṁ  
 svadhām ajatām etam eṣā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/029_dIrghAyuShyam/07_indra_etAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Erst Indra, wounded, made this strengthening portion, eternal food: thine is it, here presented. With this live full of vigour through the autumns. Let not thy strength be drained. Leeches have helped thee.
+</details>
 </details>
 </div>

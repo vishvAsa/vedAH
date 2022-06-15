@@ -19,24 +19,19 @@ title = "१३४ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/134_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. v. Used by Kāuś. (47. 14) in a rite of sorcery with the preceding hymn (which see); and also later in the same rite (47. 18), with smiting down the staff three times. *⌊The Anukr. text is here confused and defective. Its reading (with the probable omission supplied in brackets) is, antyā bhurik [anuṣṭub, dvitiyā bhurik] tripadā gāyatrī.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 448; Griffith, i. 320.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/134_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ अयं वज्रस्तर्पयतामृतस्यावास्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
+<details open><summary><h3>०१ अयं वज्रस्तर्पयतामृतस्यावास्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let this thunderbolt gratify itself with right (? *ṛtásya*), let it  
 smite down his kingdom, away his life; let it crush \[his\] neck, crush  
 up his nape, as Cachīpati of Vritra.
 
-#### Notes
+##### Notes
 Ppp. reads *vratena* instead of *ṛtasya* in **a**, meaning perhaps  
 *mṛtena*, which would be a welcome improvement, suggesting emendation of  
 our text to *-tām mṛtásya* 'on the dead man,' anticipating the result of  
@@ -74,17 +70,13 @@ off the last pāda, but whether it ends **c** with *uṣṇihāḥ* I am not
 informed. Ppp. also has *jīvam* for *jīvitam* in **b**, and *skandhā*  
 for *grivās* in **c**. ⌊The Anukr. ignores the *jagatī* rhythm of **a**  
 and **c**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This Thunderbolt shall take its fill of Order, scare life away and overthrow the kingdom. Tear necks in pieces. rend napes asunder, even as the Lord of Might the neck of Vritra.
 </details>
+</details>
 </div>
-
-
 ## ०२ अधरोऽधर उत्तरेभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo_adhara_uttarebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,27 +92,24 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 वज्रे॒णाव॑हतः शयाम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/134_shatrunAshanam/02_adharo_adhara_uttarebhyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/02_adharo_adhara_uttarebhyo.md">
+<details open><summary><h3>०२ अधरोऽधर उत्तरेभ्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Beneath, beneath them that are above, hidden, may he not creep out of  
 the earth; let him lie smitten down by the thunderbolt.
 
-#### Notes
+##### Notes
 ⌊The mark which should divide **a** from **b** is not noted in W's  
 collation-book.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/134_shatrunAshanam/02_adharo_adhara_uttarebhyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Down, down beneath the conquerors, let him not rise, concealed in earth, but lie down-smitten with the bolt.
 </details>
+</details>
 </div>
-
-
 ## ०३ यो जिनाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,15 +125,16 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 जि॒न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/134_shatrunAshanam/03_yo_jinAti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/03_yo_jinAti.md">
+<details open><summary><h3>०३ यो जिनाति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Whoever scathes, him seek thou after; whoever scathes, him smite; the  
 crown of the scather, O thunderbolt, do thou cause to fall following  
 after.
 
-#### Notes
+##### Notes
 The last pāda is very obscure; it is rendered as if it meant an  
 involving of the offender's crown (*sīmanta:=śiraso madhyadeśa*, comm.)  
 in the fall of the thunderbolt (but the comm. explains *anvañcam* by  
@@ -152,12 +142,10 @@ in the fall of the thunderbolt (but the comm. explains *anvañcam* by
 an *obiter dictum* (iii. 43) on the derivation of *sīmánta* (or  
 *sīmánt*). The metrical definition ⌊bhurig anuṣṭup⌋ seems to be omitted  
 in the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/134_shatrunAshanam/03_yo_jinAti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Seek out the fierce oppressor, yea, strike only the oppressor dead. Down on the fierce oppressor's head strike at full length, O Thunderbolt!
+</details>
 </details>
 </div>

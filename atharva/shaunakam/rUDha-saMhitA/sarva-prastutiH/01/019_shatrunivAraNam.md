@@ -20,26 +20,23 @@ title = "०१९ शत्रुनिवारणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/019_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn is found also in Pāipp. i. With the two that follow it (and others), it is reckoned by Kāuś. (14. 7) among the sāṃgrāmikāṇi or battle-hymns, or likewise (ib., note) to the aparājita ('unconquered') gaṇa; without them, but with vi. 13, it is used in several of the charms to ward off the effects of portents (104. 3; 105. 1; 113. 3). In Vāit. (9. 21), vs. 3 appears alone in the cāturmāsya or seasonal sacrifice, accompanying the release of the two puroḍāśa baskets.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 413; Griffith, i. 23; Bloomfield, 120, 262.—Cf. Bergaigne-Henry, Manuel, p. 134.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/019_shatrunivAraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for protection from arrows and for the punishment of enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -55,27 +52,24 @@ A prayer for protection from arrows and for the punishment of enemies
 आ॒राच्छ॑र॒व्या ऽ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/019_shatrunivAraNam/01_mA_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/01_mA_no.md">
+<details open><summary><h3>०१ मा नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let not the piercers find us, nor let the penetraters find \[us\];  
 far from us make the volleys (*śaravyā̀*) fly, dispersing, O Indra.
 
-#### Notes
+##### Notes
 Ppp. combines *mo 'bhi-* in **b**. The rendering of *śaravyā* follows  
 the comm., here and to vs. 3 (*śarasaṁhati*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/019_shatrunivAraNam/01_mA_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the piercers find us, nor let those who wound discover us. O Indra, make the arrows fall, turned, far from us, to every side.
 </details>
+</details>
 </div>
-
-
 ## ०२ विष्वञ्चो अस्मच्छरवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,29 +85,26 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 दैवी॑र्मनुष्येषवो॒ ममा॒मित्रान् वि वि॑ध्यत ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
+<details open><summary><h3>०२ विष्वञ्चो अस्मच्छरवः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Dispersing from us let the shafts fly, those that are hurled and that  
 are to be hurled; ye divine arrows of men (*manuṣyà-*), pierce my  
 enemies.
 
-#### Notes
+##### Notes
 The comm. inserts an "and" in **c**: "divine and human arrows"; this is  
 possible, but opposed by the accent. Ppp. has for **c, d**: *devā  
 manuṣyā ṛṣayo 'mitrān no vi viddhatu;* the comm. also reads *vidhyatu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Turned from us let the arrows fall, those shot and those that will be shot. Shafts of the Gods and shafts of men, strike and transfix mine enemies:
 </details>
+</details>
 </div>
-
-
 ## ०३ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -129,15 +120,16 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 रु॒द्रः श॑रव्य ऽ यै॒तान् ममा॒मित्रा॒न् वि वि॑ध्यतु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/019_shatrunivAraNam/03_yo_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/03_yo_naH.md">
+<details open><summary><h3>०३ यो नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Whether one of our own or whether a stranger, fellow or outsider,  
 whoso assails (*abhi-dās*) us—let Rudra with a volley pierce those my  
 enemies.
 
-#### Notes
+##### Notes
 Ppp's version is somewhat different: *yas samāno yo 'samāno 'mitro no  
 jighāṅsati: rudraś śavyā tān amitrān vi viddhata*. With **a, b** compare  
 RV. vi. 75. 19 **a, b:** *yó naḥ svó draṇo yáś ca níṣṭyo jíghāṅsati* (=  
@@ -147,17 +139,13 @@ follow RV. in omitting *yó* after *svó*. Āp. iv. 16. 1 has *yo naḥ
 sapatno yo 'raṇo marto 'bhidāsati devāḥ*, with a wholly different second  
 half. The comm. absurdly explains *niṣṭyas* as *nirgatavīryo  
 nikṛṣṭabalaḥ śatruḥ.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/019_shatrunivAraNam/03_yo_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whoever treateth us as foes, be he our own or strange to us, a kinsman or a foreigner, May Rudra with his arrows pierce and slay these enemies of mine.
 </details>
+</details>
 </div>
-
-
 ## ०४ यः सपत्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,15 +161,16 @@ Whoever treateth us as foes, be he our own or strange to us, a kinsman or a fore
 दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/019_shatrunivAraNam/04_yaH_sapatno.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
+<details open><summary><h3>०४ यः सपत्नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Whatever rival (*sapátna*), whatever non-rival, and whatever hater  
 shall curse us, him let all the gods damage (*dhūrv*); incantation  
 (*bráhman*) is my inner defense.
 
-#### Notes
+##### Notes
 Ppp. has as first half-verse *sabandhuś cā 'sabandhuś ca yo na indrā  
 'bhidāsati.* The second half-verse is found, without variant, in RV.  
 (and SV.: see under vs. 3). The comm. explains *sapatna* well as  
@@ -189,12 +178,10 @@ Ppp. has as first half-verse *sabandhuś cā 'sabandhuś ca yo na indrā
 mss. by reading *dviṣan ch-* (instead of *-añ* or *-aṅ*) in **b** ⌊cf.  
 i. 33. 2, ii. 4. 6, and see Prāt. ii. 10, 17, and especially 11.—The  
 *pada*-text reads *dviṣán*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/019_shatrunivAraNam/04_yaH_sapatno.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The rival and non-rival, he who in his hatred curses us May all the deities injure him! My nearest, closest mail is prayer.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०१६ अभयम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/016_abhayam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This and the following hymns, to 23 inclusive, are wanting in Pāipp. The comm. has 16-19 used in the night, in a ceremony to be performed by the purohita, on the entrance of a king into his sleeping-house (according to Pariśiṣṭa iv. 5). The hymn is repeated below as 27. 14, 15.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 276.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/016_abhayam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for security from danger
 </details>
+</details>
 </div>
-
-
 ## ०१ असपत्नं पुरस्तात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/01_asapatnaM_purastAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A prayer for security from danger
 स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/016_abhayam/01_asapatnaM_purastAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/01_asapatnaM_purastAt.md">
+<details open><summary><h3>०१ असपत्नं पुरस्तात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Freedom from rivals in front, behind us \[is\] fearlessness made;  
 Savitar \[protect\] me on the south, the lord of śachī me on the north.
 
-#### Notes
+##### Notes
 The comm. takes *kṛtám* in **b** as 2d du. impv., = *kurutam*, in spite  
 of the accent, trying to find a dual subject in the two gods mentioned  
 in **c, d**; and SPP., in obedience to this, even reads *kṛtam*,  
@@ -73,17 +71,13 @@ to take *mā* in **c** and **d** as object of *dakṣiṇatás* and *uttarā́t*
 svastyáyanam*, above, 9. 12 **c**.—In his Collation Book, W. refers to  
 RV. *khila*, 3. 4, which reads *asapatnám purástān naḥ śiváṁ dakṣíṇataḥ  
 kṛdhi: abháyaṁ sátatam paścā́d bhadrám uttarató gṛhé*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/016_abhayam/01_asapatnaM_purastAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
+</details>
 </div>
-
-
 ## ०२ दिवो मादित्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/02_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,17 +95,18 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/016_abhayam/02_divo_mAdityA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/02_divo_mAdityA.md">
+<details open><summary><h3>०२ दिवो मादित्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. From the sky let the Ādityas defend me; from the earth let the fires  
 defend; let Indra-and-Agni defend me in front; let the Aśvins yield  
 (*yam*) refuge round about; crosswise let the inviolable \[cow\], let  
 Jātavedas, defend \[me\]; let the being-makers be my defense (*várman*)  
 on all sides.
 
-#### Notes
+##### Notes
 In **e** the mss. all read *tiraścī́naghnyā́*, which the *pada*-text  
 resolves into *tiraścī́n: aghnyā́*, and this SPP. retains, though  
 *tiraścī́n* is not a possible word. Our emendation to *-cī́nā ’ghnyā́* is a  
@@ -147,12 +142,10 @@ the presence of *me* in **f** is all that spoils **f**; and the absence
 of *me* after *yachatām* is all that spoils the cadence of **d**, if,  
 substituting the grammatical equivalent, we pronounce *aśvínā ’bhítaḥ*  
 at the beginning.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/016_abhayam/02_divo_mAdityA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
+</details>
 </details>
 </div>

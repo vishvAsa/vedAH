@@ -19,24 +19,19 @@ title = "१३१ स्मरः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/131_smaraH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. (like the preceding and the following hymn). Used by Kāug. only with the preceding and the following hymn (see under the former).
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfield, 104, 535.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/131_smaraH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ नि शीर्षतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,27 +47,24 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 देवाः प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/131_smaraH/01_ni_shIrShato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/01_ni_shIrShato.md">
+<details open><summary><h3>०१ नि शीर्षतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Down from the head, down from the feet, thy longings (*ādhī́*) I draw  
 down. Ye gods, send forth love; let yon \[man\] burn for me.
 
-#### Notes
+##### Notes
 Again the comm. stupidly (see vs. 3) understands a woman to be  
 addressed.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/131_smaraH/01_ni_shIrShato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Down upon thee, from head to foot, I draw the pangs of long- ing love. Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
+</details>
 </div>
-
-
 ## ०२ अनुमतेऽन्विदं मन्यस्वाकूते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate_anvidaM_manyasvAkUte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,31 +80,28 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/131_smaraH/02_anumate_anvidaM_manyasvAkUte.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/02_anumate_anvidaM_manyasvAkUte.md">
+<details open><summary><h3>०२ अनुमतेऽन्विदं मन्यस्वाकूते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Anumati, assent to (*anu-man*) this; O design ('ā́kūti*), mayest  
 thou constrain (*sam-nam*) this. Ye gods, send etc. etc.*
 
-#### Notes
+##### Notes
 'Design' (*ā́kūti*) is evidently here a personification  
 (*saṁkalpābhimāninī devatā*, comm.), as is often *ánumati* 'assent.' No  
 ms. reads *namas*, without accent, and SPP. accordingly prints *námas*  
 in his text; ours emends to *namas;* the comm. takes the word as a noun;  
 *idam* in **a** he explains by *madabhilaṣitam*. The Anukr. heeds not  
 that the first pāda is *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/131_smaraH/02_anumate_anvidaM_manyasvAkUte.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
+</details>
 </div>
-
-
 ## ०३ यद् धावसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yad_dhAvasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -128,26 +117,25 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/131_smaraH/03_yad_dhAvasi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/03_yad_dhAvasi.md">
+<details open><summary><h3>०३ यद् धावसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. If (*yát*) thou runnest three leagues, five leagues, a horseman's  
 day's journey, thence shalt thou come back; thou shalt be father of our  
 sons.
 
-#### Notes
+##### Notes
 The proper division of *ā́yasi* in **c** is doubtless *ā́: ayasi*, which  
 is, however, read only by one of SPP's *pada*-mss.; the others give  
 *ā॰áyasi* (cf. *ā॰áyati* at vi. 60. 2) or *ā́॰ayasi*, and this last is  
 adopted by SPP.—quite unaccountably, since such accent and such division  
 do not properly go together in any *pada*-text.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/131_smaraH/03_yad_dhAvasi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If thou shouldst run three leagues away, five leagues, a horse's daily stage, Thence thou shalt come to me again and be the father of our sons.
+</details>
 </details>
 </div>

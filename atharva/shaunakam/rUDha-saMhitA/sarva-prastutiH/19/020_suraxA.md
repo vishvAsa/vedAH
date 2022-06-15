@@ -19,26 +19,23 @@ title = "०२० सुरक्षा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/020_suraxA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Not found in Pāipp.⌋ The comm. says, purely on his own authority, that with this hymn the purohita arms with a breastplate a king going to battle. ⌊For the reference to vs. 4 in Kāuś. 25. 36 note, see above, introd. to viii. 5.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 279. ⌊In Anukr. we miss caturṛcam.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/020_suraxA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for protection from death and misfortune
 </details>
+</details>
 </div>
-
-
 ## ०१ अप न्यधुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/01_apa_nyadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for protection from death and misfortune
 सोमो॒ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान् परि॑ पातु मृ॒त्योः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/020_suraxA/01_apa_nyadhuH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/01_apa_nyadhuH.md">
+<details open><summary><h3>०१ अप न्यधुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Have set down apart the human deadly weapon Indra-and-Agni, Dhātar,  
 Savitar, Bṛihaspati, king Soma, Varuṇa, the Aśvins, Yama; let Pūshan  
 protect us round about from death.
 
-#### Notes
+##### Notes
 It is quite as likely that 'Soma' etc. in the second half-verse should  
 be viewed as coördinate with Pūshan. The translation omits *yám* in  
 **a**; it seems probable that **a** is deeply corrupt ⌊Caland, KZ.  
@@ -79,17 +77,13 @@ Indra-and-Agni etc. etc. protect us.' ⌊Griffith: 'May Soma etc. guard us
 from Mṛityu—death caused by men, which Indra etc. appointed.'⌋ The verse  
 is far too irregular (11 + 12: 12 + 9 = 44) to be called simply a  
 *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/020_suraxA/01_apa_nyadhuH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrityu-- Death caused by men, which Indra-Agni, Dhatar, Brihaspati and Savitar appointed.
 </details>
+</details>
 </div>
-
-
 ## ०२ यानि चकार
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/02_yAni_chakAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,16 +99,17 @@ May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrity
 प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/020_suraxA/02_yAni_chakAra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/02_yAni_chakAra.md">
+<details open><summary><h3>०२ यानि चकार ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What \[defenses\] he who is lord of creation, Prajāpati, Mātariśvan,  
 made for his creatures (*prajā́*), what ones the directions and the  
 quarters put on (*vas*)—let those defenses (*várman*) be abundant  
 (*bahulá*) for me.
 
-#### Notes
+##### Notes
 The mss. accent *vasaté* ⌊except several that have *vasate*⌋; our  
 emendation to *vasáte* is unquestionably called for, even though there  
 are a few cases in RV. of such accent as *vasaté* ⌊*Gram.* § 613⌋. The  
@@ -122,17 +117,13 @@ comm. etymologizes *mātariśvan* as *antarikṣe śvasitī* '*ti*. ⌊The
 verse is properly 12 + 11: 11 + 11: for **d** has *triṣṭubh* cadence,  
 and there are three possibilities of excising a syllable from its prior  
 half.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/020_suraxA/02_yAni_chakAra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All that the World's Lord made, all that for creatures Prajapati and Matarisvan fashioned, All things within the quarters and their spaces, let all these be my manifold defences.
 </details>
+</details>
 </div>
-
-
 ## ०३ यत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/03_yat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,15 +139,16 @@ All that the World's Lord made, all that for creatures Prajapati and Matarisvan 
 इन्द्रो॒ यच्चक्रे वर्म॒ तद॒स्मान् पा॑तु वि॒श्वतः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/020_suraxA/03_yat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/03_yat_te.md">
+<details open><summary><h3>०३ यत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. What \[defense\] those gods fastened on themselves, when fighting for  
 overlordship, what defense Indra made for himself, let that protect us  
 on all sides.
 
-#### Notes
+##### Notes
 Pāda **b** is altogether corrupt; the translation implies the reading  
 *ā́dhirājyāya yodhínaḥ*, which differs a little from the emendation in  
 our text, but which the Pet. Lex. assumes under *ādhirājya*. The mss.  
@@ -175,17 +167,13 @@ has *viśvátaḥ*. The text, with **b** as translated, and with *ca-kṛ-e*
 in **c** ⌊making 11 + 8: 8 + 8⌋, answers excellently to the definition  
 of the Anukr. \*⌊W. means, I take it, no form which is usable in this  
 connection.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/020_suraxA/03_yat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That which the Gods bound on them when they battled for their royal sway. What Indra made his shield, may that protect us well on every side,
 </details>
+</details>
 </div>
-
-
 ## ०४ वर्म मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/04_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,15 +189,16 @@ That which the Gods bound on them when they battled for their royal sway. What I
 वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न् मा मा प्राप॑त् प्रतीचि॒का॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/020_suraxA/04_varma_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/04_varma_me.md">
+<details open><summary><h3>०४ वर्म मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Defense for me may heaven-and-earth, defense may day, defense may the  
 sun, defense for me may all the gods make; let not the affrontress (?  
 *pratīcikā́*) reach me.
 
-#### Notes
+##### Notes
 Some of the mss. leave *pratīcikā* accentless, and nearly all accent  
 *krán;* both editions have *kran* and *-kā́*. The comm. seems to read  
 *agnis* instead of *áhas* in **b**, and *mo* for *mā́* in **d**. The  
@@ -226,12 +215,10 @@ d**, *varma me brahmaṇaspatir mā mā prāpad ato bhayam*.
 counted hymn 16 as of 3 verses, there would be 73. Some mss. sum up the  
 verses as 72, and thus support the numeration of hymn 16 as given by  
 both editions (see p. 923).⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/020_suraxA/04_varma_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My shield is Heaven and Earth, my shield is the bright Day, my shield the Sun. The Visva Devas made my shield. Let not misfortune fall on me.
+</details>
 </details>
 </div>

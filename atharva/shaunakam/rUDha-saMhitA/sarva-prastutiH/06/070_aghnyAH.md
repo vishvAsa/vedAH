@@ -19,26 +19,23 @@ title = "०७० अघ्न्याः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. Used by Kāuś. (41. 18) in a rite for producing mutual attachment between cow and calf.
 
 
-#### Translations
+##### Translations
 Translated: Grill, 65, 165; Griffith, i. 283; Bloomfield, 144, 493.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benediction on cow and calf
 </details>
+</details>
 </div>
-
-
 ## ०१ यथा मांसं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -56,28 +53,25 @@ A benediction on cow and calf
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/01_yathA_mAMsaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/01_yathA_mAMsaM.md">
+<details open><summary><h3>०१ यथा मांसं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. As flesh, as strong-drink, as dice on the gambling-board; as of a  
 lustful man the mind is fastened (*ni-han*) on a woman—-so let thy mind,  
 O inviolable one (*aghnyā́*), be fastened on thy calf.
 
-#### Notes
+##### Notes
 The verses are six-pāda *jagatī* (6 × 8 = 48). ⌊The stanza is wrongly  
 numbered.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/01_yathA_mAMsaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As wine associates with flesh, as dice attend the gaming-board, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upou thy calf.
 </details>
+</details>
 </div>
-
-
 ## ०२ यथा हस्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,29 +89,26 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/02_yathA_hastI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/02_yathA_hastI.md">
+<details open><summary><h3>०२ यथा हस्ती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. As the elephant strains foot with foot of the she-elephant; as of a  
 lustful man etc. etc.
 
-#### Notes
+##### Notes
 The obscure first line is with intention rendered obscurely; the  
 Petersburg Lexicon conjectures 'hastens after, step with step,' which  
 then Grill follows. The comm. takes *udyujé* as = *unnamayati*, "bends  
 up, for love (*premṇā*), her foot with his foot."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/02_yathA_hastI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As the male elephant pursues with eager step his female's track, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon the calf.
 </details>
+</details>
 </div>
-
-
 ## ०३ यथा प्रधिर्यथोपधिर्यथा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,16 +126,17 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<details open><summary><h3>०३ यथा प्रधिर्यथोपधिर्यथा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. As the felly (*pradhí*), as the rim (*upadhí*), as the nave upon the  
 felly; as of a lustful man etc. etc.  
   
 ⌊See p. xcii.⌋
 
-#### Notes
+##### Notes
 The first line is again obscure, both in its internal relations and in  
 its relation to the refrain (in this resembling 1 **a, b**). BR. define  
 *upadhi* as 'the part of the wheel between the felly and nave,' but this  
@@ -154,12 +146,10 @@ bound together by the felly, that is the binder together of the spokes'
 the felly. Probably a solid wheel, without spokes, is had in view. We  
 should expect some other preposition than *adhi* 'on' to express the  
 relation of the nave to the felly.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.
+</details>
 </details>
 </div>

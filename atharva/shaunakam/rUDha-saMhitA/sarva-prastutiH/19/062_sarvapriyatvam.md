@@ -19,26 +19,23 @@ title = "०६२ सर्वप्रियत्वम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/062_sarvapriyatvam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. and in the comm.
 
 
-#### Translations
+##### Translations
 Translated: Zimmer, p. 205; Griffith, ii. 318.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/062_sarvapriyatvam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for the love of Gods and men
 </details>
+</details>
 </div>
-
-
 ## ०१ प्रियं मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/062_sarvapriyatvam/01_priyaM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A prayer for the love of Gods and men
 प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/062_sarvapriyatvam/01_priyaM_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/01_priyaM_mA.md">
+<details open><summary><h3>०१ प्रियं मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Make thou me dear to the gods, make me dear to kings, dear to  
 everything that sees, both to śūdra and to Āryan.
 
-#### Notes
+##### Notes
 A nearly corresponding verse is found in the supplement to RV. x. 128  
 (Aufr.², p. 685), and in HGS. i. 10. 6, ⌊and in *Kaṭha-hss.*, p. 36⌋. In  
 the first half-verse, RV. differs only by reading both times *kuru;* its  
@@ -77,12 +75,10 @@ compares 32. 8, above, and VS. xviii. 48 etc. With the **d** of the
 Berlin text, cf. the **d** of iv. 20. 4 and 8. Zimmer rightly notes that  
 the "gods" of **a** are the Brahmans, and aptly cites śB. ii. 2. 2⁶,  
 with 32. 8 etc. as just mentioned.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/062_sarvapriyatvam/01_priyaM_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Make me beloved among the Gods, beloved among the Princes, make Me dear to everyone who sees, to Sudra and to Aryan man.
+</details>
 </details>
 </div>

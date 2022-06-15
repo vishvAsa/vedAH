@@ -19,24 +19,19 @@ title = "१०७ विश्वजित्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/107_vishvajit/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa; and used (50. 13), with vi. 1. 3-7, etc., in a rite for welfare. The metrical definition of the Anukr. is forced and bad; although the number of syllables is each time not far from 32 (29-33).
 
 
-#### Translations
+##### Translations
 Translated: Griffith, i. 303.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/107_vishvajit/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ विश्वजित् त्रायमाणायै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajit_trAyamANAyai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,29 +47,26 @@ Translated: Griffith, i. 303.
 त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द् यच्च॑ नः॒ स्वम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/107_vishvajit/01_vishvajit_trAyamANAyai.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/01_vishvajit_trAyamANAyai.md">
+<details open><summary><h3>०१ विश्वजित् त्रायमाणायै ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O all-conqueror (*viśvajít*), commit me to rescuer; O rescuer,  
 protect both all our bipeds, and whatever quadrupeds are ours.
 
-#### Notes
+##### Notes
 Ppp. begins *trāyamāṇe sarvavide mām;* it omits *nas* before *rakṣa* in  
 the refrain. All the beings addressed are doubtless female; the comm.  
 has nothing to say in explanation of them otherwise than that they are  
 divinities so named.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/107_vishvajit/01_vishvajit_trAyamANAyai.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our wealth of quadrupeds.
 </details>
+</details>
 </div>
-
-
 ## ०२ त्रायमाणे विश्वजिते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,27 +82,24 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 विश्व॑जिद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/107_vishvajit/02_trAyamANe_vishvajite.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
+<details open><summary><h3>०२ त्रायमाणे विश्वजिते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O rescuer, commit me to all-conqueror; O all-conqueror, protect both  
 all etc. etc.
 
-#### Notes
+##### Notes
 Ppp. has *sarvavide* instead of *viśvajite*. The comm. prefixes  
 *viśvajit* at the beginning.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/107_vishvajit/02_trAyamANe_vishvajite.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
+</details>
 </div>
-
-
 ## ०३ विश्वजित् कल्याण्यैऽ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajit_kalyANyai_a.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -126,26 +115,23 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/107_vishvajit/03_vishvajit_kalyANyai_a.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/03_vishvajit_kalyANyai_a.md">
+<details open><summary><h3>०३ विश्वजित् कल्याण्यैऽ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. O all-conqueror, commit me to beauty; O beauty, protect both all etc.  
 etc.
 
-#### Notes
+##### Notes
 Ppp. has *sarvavid viśvavid* instead of *viśvajit* at the beginning.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/107_vishvajit/03_vishvajit_kalyANyai_a.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
+</details>
 </div>
-
-
 ## ०४ कल्याणि सर्वविदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,22 +147,21 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 सर्व॑विद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/107_vishvajit/04_kalyANi_sarvavide.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/04_kalyANi_sarvavide.md">
+<details open><summary><h3>०४ कल्याणि सर्वविदे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. O beauty, commit me to all-possessor; O all-possessor, protect both  
 all etc. etc.
 
-#### Notes
+##### Notes
 Ppp. reads *trāyamāṇāyāi* instead of *sarvavíde*, and *rakṣata* instead  
 of *no rakṣa*. *Sarvavíd* might, of course, mean 'all-knower.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/107_vishvajit/04_kalyANi_sarvavide.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our wealth of quadrupeds.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "००५ आत्मा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found (the first two verses only) also in Pāipp. xx., and (the same verses) also in other texts, as noted below. Kāuś. takes no notice of the hymn; but it is prescribed by Vāit. (13. 13), in the agniṣṭoma ceremony, in connection with the entertainment (ātithyā) of Soma.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 2, 49; Griffith, i. 329.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A glorification of sacrifice
 </details>
+</details>
 </div>
-
-
 ## ०१ यज्ञेन यज्ञमयजन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A glorification of sacrifice
 ते ह॒ नाकं॑ महि॒मानः॑ सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/01_yajnena_yajnamayajanta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
+<details open><summary><h3>०१ यज्ञेन यज्ञमयजन्त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. By the sacrifice the gods sacrificed to the sacrifice; those were  
 the first ordinances (*dhárman*); those greatnesses attach themselves to  
 (*sac*) the firmament, where are the ancient (*pū́rva*) perfectible  
 (*sādhyá*) gods.
 
-#### Notes
+##### Notes
 The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.  
 5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
 comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
@@ -76,17 +74,13 @@ worked into the ordinary classification of Vasus, Rudras, etc.; and what
 was formerly a serious religious problem, a hierarchy conceived as  
 possible before the now-accepted gods (something like the pre-Olympians  
 with the Greeks), has become an empty name." R. \*⌊Also RV. x. 90. 16.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/01_yajnena_yajnamayajanta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Gods adored the Sacrifice with worship: these were the statutes of primeval ages. Those mighty ones attained the cope of heaven, there where the Sadhyas, Gods of old, are dwelling.
 </details>
+</details>
 </div>
-
-
 ## ०२ यज्ञो बभूव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,15 +96,16 @@ The Gods adored the Sacrifice with worship: these were the statutes of primeval 
 स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/02_yajno_babhUva.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/02_yajno_babhUva.md">
+<details open><summary><h3>०२ यज्ञो बभूव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The sacrifice came to be; it came to be here; it was propagated; it  
 increased again; it became over-lord of the gods; let it assign wealth  
 to us.
 
-#### Notes
+##### Notes
 This verse is found also in TS. (i. 6. 6³⁻⁴ et al.) and śśS. (iv. 12.  
 15); TS. omits *u* and *punaḥ* in **b**, and both have, for **d**, *só  
 asmā́ṅ ádhipatīn karotu* (śśS. *kṛṇotu*), TS. adding further *vayáṁ syāma  
@@ -118,17 +113,13 @@ pátayo rayīṇā́m*. Ppp. combines *sa ”babhūva* in **a**, and inserts aft
 it *saṣ pṛthivyā adhipatir babhūva:* omitting later the pāda *sa devānām  
 a. b.;* it omits *u* before *vāvṛdhe*, and combines *so ‘smāsu* in the  
 last pāda. The Anukr. overlooks the metrical deficiency of **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/02_yajno_babhUva.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sacrifice was, was manifest among us: it sprang to life and then in time grew stronger. Then it became thedeities' lord and ruler: may it bestow on us abundant riches.
 </details>
+</details>
 </div>
-
-
 ## ०३ यद् देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yad_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,27 +135,24 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 मदे॑म॒ तत्र॑ पर॒मे व्योऽम॒न् पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/03_yad_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/03_yad_devA.md">
+<details open><summary><h3>०३ यद् देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. As the gods sacrificed to the gods with oblation, to immortals, with  
 immortal mind—may we revel there in the highest firmament; may we see  
 that at the rising of the sun.
 
-#### Notes
+##### Notes
 The verse is no *pan̄kti*, but a good *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/03_yad_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Where the Gods worshipped Gods with their oblation, worship- ped immortals with immortal spirit, There in the loftiest heaven may we be happy, and look upon that light when Surya rises.
 </details>
+</details>
 </div>
-
-
 ## ०४ यत् पुरुषेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yat_puruSheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,15 +168,16 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 अस्ति॒ नु तस्मा॒दोजी॑यो॒ यद् विहव्ये॑नेजि॒रे॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/04_yat_puruSheNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/04_yat_puruSheNa.md">
+<details open><summary><h3>०४ यत् पुरुषेण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. When, with man (*púruṣa*) for oblation, the gods extended the  
 sacrifice—even than that is it of more force that they sacrificed with  
 the *vihávya*.
 
-#### Notes
+##### Notes
 Nearly all the mss. read *atanvata*, without accent, in **b** (our Bp.  
 and O. have *á-*, and both editions give it); in **c** they have *ásthi*  
 instead of *ásti*, which latter is read in both editions, SPP. having  
@@ -198,17 +187,13 @@ and our xix. 6. 10). The comm. explains *vihavya* as meaning an offering
 without oblation, an offering of knowledge (*jñānayajña*); and this is  
 perhaps acceptable; or the half-verse is perhaps to be understood as a  
 question.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/04_yat_puruSheNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more potent still they paid with the invoking hymn.
 </details>
+</details>
 </div>
-
-
 ## ०५ मुग्धा देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -224,27 +209,26 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॑स्तमि॑हेह ब्र॑वः ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/005_AtmA/05_mugdhA_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/05_mugdhA_devA.md">
+<details open><summary><h3>०५ मुग्धा देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The gods, confounded, both sacrificed with a dog and sacrificed  
 variously with limbs of a cow; he who knoweth with the mind this  
 sacrifice—him mayest thou proclaim to us here, here mayest thou speak.
 
-#### Notes
+##### Notes
 The second half-verse is the same with 2. 1 **c, d** above. *Tam*  
 (rendered 'him') in **d** might refer grammatically to the offering  
 itself, instead of to him who knows it. All the *pada*-mss. read at the  
 beginning *mugdhā́* instead of *-dhā́ḥ*, as which latter the word must be  
 understood, and is translated. SPP. admits *-dhā́ḥ* in his *pada*-text.  
 Henry emends to *mūrdhnā* ⌊cf. also *Mém. Soc. Ling.* ix. 248⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/005_AtmA/05_mugdhA_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry sacrifices. Invoke for us, in many a place declare him who with his mind. hath noticed this our worship.
+</details>
 </details>
 </div>

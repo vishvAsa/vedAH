@@ -19,26 +19,23 @@ title = "०६४ सांमनस्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/064_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The first two verses are found in Pāipp. xix. The whole hymn is RV. x. 191. 2, 3, 4, and is also read in TB. ii. 4. 44-5, and (with the order of the verses inverted) in MS. ii. 2. 6. In neither of these texts does the first verse of the RV. hymn (our 63. 4) stand in connection with the other verses; and as the situation of the RV. hymn is one that calls for three verses only, it is pretty evident that the first verse (which also has nothing to do with the others in point of sense) is a later addition, and has also, by an extremely curious process, not paralleled elsewhere in our text, been added at the end of our 63, in order to stand in its RV. relation to the other verses. See Oldenberg, Die Hymnen des RV., i. 244. The hymn is used by Kāuś. (12. 5) in a rite for harmony, with iii. 30, v. 1, etc.
 
 
-#### Translations
+##### Translations
 Translated: by the RV. translators; and, as an AV. hymn, by Ludwig, p. 372; Grill, 31, 164; Griffith, i. 280; Bloomfield, 136, 492.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/064_sAMmanasyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To promote unanimity in an assembly
 </details>
+</details>
 </div>
-
-
 ## ०१ सं जानीध्वं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/01_saM_jAnIdhvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ To promote unanimity in an assembly
 दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/064_sAMmanasyam/01_saM_jAnIdhvaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/01_saM_jAnIdhvaM.md">
+<details open><summary><h3>०१ सं जानीध्वं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Do ye concur; be ye closely combined; let your minds be concurrent,  
 as the gods of old sat concurrent about their portion.
 
-#### Notes
+##### Notes
 The other texts begin *sáṁ gachadhvaṁ sáṁ vadadhvam* (but MS.  
 *jānīdhvam*); at the end, TB. reads (if it be not a misprint) *upā́sata;*  
 the *pū́rve* gives, at any rate, a past meaning to *-te*.  
   
 ⌊Poona ed. has *-ata*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/064_sAMmanasyam/01_saM_jAnIdhvaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agree and be united: let your minds be all of one accord, Even as the Gods of ancient days, unanimous, await their share.
 </details>
+</details>
 </div>
-
-
 ## ०२ समानो मन्त्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,16 +87,17 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 स॒मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/064_sAMmanasyam/02_samAno_mantraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/02_samAno_mantraH.md">
+<details open><summary><h3>०२ समानो मन्त्रः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. \[Be\] their counsel (*mántra*) the same, their gathering the same,  
 their course (*vratá*) the same, their intent alike (*sahá*); I offer  
 for you with the same oblation; do ye enter together into the same  
 thought (*cétas*).
 
-#### Notes
+##### Notes
 The other texts differ from ours in the first half-verse only in this,  
 that RV.TB. read *mánas* instead of *vratám* in **b**; but our **c** is  
 their **d** (TB.\* having *saṁjñā́nena* for *samānéna*), and their **c**  
@@ -111,17 +106,13 @@ rabhadhvam*, RV. *s. mántram abhí mantraye vaḥ*, and MS. *s. krátum abhí
 mantrayadhvam*. Ppp. has, for **b**, *samānaṁ cittaṁ saha vo manāṅsi*,  
 and omits **d**. The Anukr. omits to describe the verse, as a  
 *triṣṭubh*. \*⌊TB. has also *yajāmas* for *juhomi.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/064_sAMmanasyam/02_samAno_mantraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The rede is common, common the assembly, common the law, so be their thoughts united. I offer up your general oblation: together entertain one common purpose.
 </details>
+</details>
 </div>
-
-
 ## ०३ समानी व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,24 +128,23 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/064_sAMmanasyam/03_samAnI_va.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/03_samAnI_va.md">
+<details open><summary><h3>०३ समानी व ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Be your design the same, your hearts the same, your mind the same,  
 that it may be well for you together.
 
-#### Notes
+##### Notes
 MS. has, for **a**, *samānā́ vā* (i.e. *vas*) *ā́kūtāni*. The comm.  
 appears to understand *su saha* as two independent words in **d**. ⌊See  
 MGS. i. 8. 10 and p. 156, s.v. *samānā*.⌋ ⌊Pāda **a** lacks a syllable,  
 easily supplied.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/064_sAMmanasyam/03_samAnI_va.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 One and the same be your resolve, be all your hearts in har- mony: One and the same be all your minds that all may happily con- sent.
+</details>
 </details>
 </div>

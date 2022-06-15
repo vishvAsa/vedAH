@@ -19,26 +19,23 @@ title = "०६३ दुरितनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/063_duritanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Kāuś. (69. 22) uses it in the preparation of the house-fire, with invocation.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 25, 88; Griffith, i. 357.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/063_duritanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for deliverance from affliction
 </details>
+</details>
 </div>
-
-
 ## ०१ पृतनाजितं सहमानमग्निमुक्थ्यैर्हवामहे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for deliverance from affliction
 स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द् दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
+<details open><summary><h3>०१ पृतनाजितं सहमानमग्निमुक्थ्यैर्हवामहे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The fight-conquering, overpowering Agni do we call with songs from  
 the highest station; may he pass us across all difficult things; may  
 divine Agni stride (?) across arduous things.
 
-#### Notes
+##### Notes
 The translation implies emendation of *kṣā́mat* to *krā́mat* in **d**, as  
 suggested by BR. (and adopted also by Henry), since the former seems to  
 give no good sense, and both form and composition with *ati* are  
@@ -74,12 +72,10 @@ kṣāmat* as = *atyarthaṁ kṣāmāṇi dagdhāni karotu!* TA. further gives
 reading *huvema*, leaves the combination *devó áti* in **d**, and has  
 *duritā́ ’ty* for *-tāni*. Our **c** is the same with RV. i. 99. 1 **c**.  
 The verse has no *jagatī* character at all.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We call with lauds from his most lofty dwelling victorious Agni, conqueror in battles. May he conveyus over all distresses, may the God Agni bear us past our troubles.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०५८ यज्ञः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The first four verses occur also in Pāipp. i.; ⌊Roth's Collation, strictly interpreted, means that the whole hymn is found there⌋. The comm. quotes vs. 5 as used in Kāuś. 3. 16; but the verse there intended is evidently ii. 35. 5, of which vs. 5 here is a repetition. At the beginning of his exposition of vs. 1 he says: asmin sūkte manasā nirvartyo yajñaḥ stūyate.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 315.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for prosperity, accompanying a sacrifice
 </details>
+</details>
 </div>
-
-
 ## ०१ घृतस्य जूतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/01_ghRtasya_jUtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for prosperity, accompanying a sacrifice
 श्रोत्रं॒ चक्षुः॑ प्रा॒णोच्छि॑न्नो नो अ॒स्त्वच्छि॑न्ना व॒यमायु॑षो॒ वर्च॑सः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/01_ghRtasya_jUtiH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/01_ghRtasya_jUtiH.md">
+<details open><summary><h3>०१ घृतस्य जूतिः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The swiftness of ghee evenly always increasing the year with  
 oblation—be our hearing, sight, breath unsevered; unsevered be we from  
 life-time, from splendor.
 
-#### Notes
+##### Notes
 The translation implies in **a** *samanā́ sadāí ’vá*. ⌊This last may be a  
 slip for *sádāivá*, p. *sádā: evá;* the Berlin text and the *Index*  
 imply *sádeva*, p. *sádā॰iva*.⌋ Five authorities give *samanā́* (so in  
@@ -78,17 +76,13 @@ ach-*. In **d**, the *pada*-mss. read *áchinnā* instead of *-nāḥ*. The
 connection of the two half-verses is perhaps this: it is prayed that the  
 prospering flow of the libations of sacred butter be uninterrupted,  
 carrying as a consequence the continuance of physical blessings.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/01_ghRtasya_jUtiH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Still equal be the flow of butter ever causing the Year to prosper with oblation. Still be our hearing, sight, and breath uninjured: let us lose nothing of our life and vigour.
 </details>
+</details>
 </div>
-
-
 ## ०२ उपास्मान् प्राणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/02_upAsmAn_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,15 +98,16 @@ Still equal be the flow of butter ever causing the Year to prosper with oblation
 वर्चो॑ जग्राह पृथि॒व्य॑१न्तरि॑क्षं॒ वर्चः॒ सोमो॒ बृह॒स्पति॑र्विध॒त्ता॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/02_upAsmAn_prANo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/02_upAsmAn_prANo.md">
+<details open><summary><h3>०२ उपास्मान् प्राणो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let breath call unto us; we call unto breath; the earth, the  
 atmosphere hath seized (*grah*) splendor; splendor \[also\] Soma,  
 Bṛihaspati, the maintainer.
 
-#### Notes
+##### Notes
 Some mss. (including most of the *pada*-mss.) begin **b** with *úpa  
 hvayám*. In **c**, one of SPP's mss. and Ppp. combine *pṛthivy ānt-*. At  
 the end, the *pada*-mss. have correctly *dhartā́;* the *saṁhitā*-mss.  
@@ -126,17 +121,13 @@ not bad. Furthermore, Ppp. begins **a** with **apa**, but **b** with
 to the comm., for the purpose of giving it to us. Pādas **b** and **d**  
 lack each a syllable. ⌊A similar antithesis with *upahū* occurred at i.  
 1. 4, and others were pointed out there.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/02_upAsmAn_prANo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let lively breath invite us: we call vital breath to visit us. Earth and air's middle realm have gathered, Soma, Brihaspati and Dhartar gathered vigour.
 </details>
+</details>
 </div>
-
-
 ## ०३ वर्चसो द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -152,16 +143,17 @@ Let lively breath invite us: we call vital breath to visit us. Earth and air's m
 य॒शसं॒ गावो॒ गोप॑ति॒मुप॑ तिष्ठन्त्याय॒तीर्यशो॑ गृही॒त्वा पृ॑थि॒वीमनु॒ सं च॑रेम ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
+<details open><summary><h3>०३ वर्चसो द्यावापृथिवी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Heaven-and-earth have become joint-seizers of splendor; seizing  
 splendor may we go about upon the earth; with glory the kine, coming,  
 wait upon (*upa-sthā*) the lord of kine; seizing glory may we go about  
 upon the earth.
 
-#### Notes
+##### Notes
 ⌊The verse is by no means one of 4 pādas, but rather one of 6 (**a-f**:  
 so designated below): in fact, it is a regular *anuṣṭubh*, to each half  
 of which is added in prose an *ūha*-refrain (*varco* etc., *yaśo* etc.)  
@@ -183,17 +175,13 @@ gives *yaśasām*. The comm. foolishly takes *āyatī́s* in **e** as, jointly
 with *yáśas*, object of *gṛhītvā́* in **f**, supplying *dhenūs* for it to  
 qualify. The verse counts (16 + 14: 16 + 14 = 60) as a full  
 *atiśakvarī;* ⌊but see beginning of this paragraph⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/03_varchaso_dyAvApRthivI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The earth and heaven have come to be two gatherers up of vigo- rous might. So let us gather vigour up and closely follow after Earth. With glory come the cows and stand beside the master of the herd. Let us when we have gathered fame and glory closely follow Earth.
 </details>
+</details>
 </div>
-
-
 ## ०४ व्रजं कृणुध्वं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/04_vrajaM_kRNudhvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -209,16 +197,17 @@ The earth and heaven have come to be two gatherers up of vigo- rous might. So le
 पुरः॑ कृणुध्व॒माय॑सी॒रधृ॑ष्टा॒ मा वः॑ सुस्रोच्चम॒सो दृं॑हता॒ तम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/04_vrajaM_kRNudhvaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/04_vrajaM_kRNudhvaM.md">
+<details open><summary><h3>०४ व्रजं कृणुध्वं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Make ye a pen (*vrajá*), for that is men-protecting for you; sew ye  
 coats-of-mail (*várman*), abundant, broad; make ye strongholds of metal,  
 unattackable (*ádhṛṣṭā*); let not your bowl leak (*sru*); make it  
 strong.
 
-#### Notes
+##### Notes
 The verse is RV. x. 101. 8, with slight variation: RV. has *várma* in  
 *saṁhitā* as well as in *pada* in **b**; the mss., too, leave *dṛ́ṅhatā*  
 in **d** without accent, and SPP. does not correct their error. ⌊Roth  
@@ -231,17 +220,13 @@ comm. gives three distinct interpretations of the verse: as concerned
 respectively with the senses, with officiating priests, and with  
 soldiers (*indriyaparatvena rtvikparatvena yoddhṛparatvena*). ⌊As to  
 -*dhvam mā-*, cf. note to xviii. 2. 3.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/04_vrajaM_kRNudhvaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armour wide and many. Make iron forts defying all assailants: let not your pitcher leak; stay it securely.
 </details>
+</details>
 </div>
-
-
 ## ०५ यज्ञस्य चक्षुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -257,29 +242,26 @@ Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armou
 इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/05_yajnasya_chaxuH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/05_yajnasya_chaxuH.md">
+<details open><summary><h3>०५ यज्ञस्य चक्षुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Of the sacrifice the eye, beginning, and face; with voice, with  
 hearing, with mind do I make oblation; to this sacrifice, extended by  
 the all-working one, let the gods come ⌊*ā-i*⌋, with favoring minds.
 
-#### Notes
+##### Notes
 We had this verse above, as ii. 35. 5 ⌊see note thereon⌋. Our mss. cite  
 it by the whole first pāda: *yajñásya cákṣuḥ prábhṛtir múkhaṁ cé ’ty  
 ékā*. ⌊The Anukr. does not ignore the *ā́* at the beginning of **d**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/05_yajnasya_chaxuH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The eye of sacrifice, source and beginning with voice, car, spirit unto him I offer. To this our sacrifice, wrought by Visvakarman, may the Gods come gracious and kindly-hearted.
 </details>
+</details>
 </div>
-
-
 ## ०६ ये देवानामृत्विजो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,16 +277,17 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 इ॒मं य॒ज्ञं स॒ह पत्नी॑भि॒रेत्य॒ याव॑न्तो दे॒वास्त॑वि॒षा मा॑दयन्ताम्॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
+<details open><summary><h3>०६ ये देवानामृत्विजो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. They that are priests (*ṛtvíj*) of the gods, and that are worshipful,  
 for whom the oblation (*havyá*) is made the portion—coming to this  
 sacrifice together with their spouses, let the gods, as many as they are  
 (*yā́vant*), revel on the oblation.
 
-#### Notes
+##### Notes
 In **b**, the mss. have also *kriyate, kṛyate*, ⌊*kṛyáte*,⌋ and  
 *kṛṇute*. In **c**, the *pada*-mss. read *sahá॰patnībhiḥ*, and nearly  
 all the *saṁhitā*-mss. agree with them; SPP. also emends to *pát-*. In  
@@ -315,12 +298,10 @@ with the comm., *taviṣā́s* (= *mahāntaḥ*, comm.); the translation implies
 **a, b, c** accord with the number of syllables: but **d**, with 12, has  
 a *triṣṭubh* cadence; this casts still further suspicion on *taviṣā*, in  
 place of which we should expect only two syllables⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/058_yajnaH/06_ye_devAnAmRtvijo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the Gods' Priests and those who merit worship, to whom oblation as their share is offered, Come to this holy service with their Consorts, and all Gods revel in the food we bring them.
+</details>
 </details>
 </div>

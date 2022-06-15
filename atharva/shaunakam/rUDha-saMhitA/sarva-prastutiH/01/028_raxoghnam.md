@@ -19,26 +19,23 @@ title = "०२८ रक्षोघ्नम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/028_raxoghnam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn is not found in Pāipp. Though not mentioned as one of the cātanāni by the text of Kāuś., it is added to them by the schol. (8. 25, note). It is once used by itself in a witchcraft ceremony (ābhicārika) for the relief of one frightened, accompanying the tying on of an amulet (26. 26).
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 423; Griffith, i. 33.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/028_raxoghnam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Agni for the destruction of evil spirits
 </details>
+</details>
 </div>
-
-
 ## ०१ उप प्रागाद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A prayer to Agni for the destruction of evil spirits
 दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न् किमी॒दिनः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/028_raxoghnam/01_upa_prAgAd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/01_upa_prAgAd.md">
+<details open><summary><h3>०१ उप प्रागाद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Hither hath come forth god Agni, demon-slayer, disease-expeller,  
 burning away deceivers, sorcerers, *kimīdíns*.
 
-#### Notes
+##### Notes
 In our text, *upá* is a misprint for *úpa* (an accent-sign slipped out  
 of place to the left). The comment on Prāt. iv. 3 quotes the first three  
 words as exemplifying the disconnection of prefixes from a verb.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/028_raxoghnam/01_upa_prAgAd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yatudhanas up, Kimidins, and deceitful ones.
 </details>
+</details>
 </div>
-
-
 ## ०२ प्रति दह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,27 +85,24 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/028_raxoghnam/02_prati_daha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/02_prati_daha.md">
+<details open><summary><h3>०२ प्रति दह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Burn against the sorcerers, against the *kimīdíns*, O god; burn up  
 the sorceresses that meet thee, O black-tracked one.
 
-#### Notes
+##### Notes
 In **c** the comm., with two or three of SPP's authorities that follow  
 him, reads *kṛṣṇavartmane* (treating it as a vocative).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/028_raxoghnam/02_prati_daha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatudhanis as they face thee, thou whose path is black!
 </details>
+</details>
 </div>
-
-
 ## ०३ या शशाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -127,15 +118,16 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/028_raxoghnam/03_yA_shashApa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/03_yA_shashApa.md">
+<details open><summary><h3>०३ या शशाप ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. She that hath cursed with cursing, that hath taken malignity as her  
 root (? *mū́ra*), that hath seized on \[our\] young to take its sap—let  
 her eat \[her own\] offspring.
 
-#### Notes
+##### Notes
   
   
   
@@ -146,17 +138,13 @@ Ppp. The comm. first takes *mū́ram* as for *mū́lam* (as rendered above),
 but adds an alternative explanation as *mūrchākaram*, adjective to  
 *agham;* he has *ādade* in place of *-dhe*. *Jātám* is metrically an  
 intrusion, but completes the sense.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/028_raxoghnam/03_yA_shashApa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 She who hath cursed us with a curse, or hath conceived a murderous sin; Or seized our son to take his blood, let her devour the child she bare.
 </details>
+</details>
 </div>
-
-
 ## ०४ पुत्रमत्तु यातुधानीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -172,15 +160,16 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 अधा॑ मि॒थो वि॑के॒श्यो॒३वि घ्न॑तां यातुधा॒न्यो॒३वि तृ॑ह्यन्तामरा॒य्यः ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
+<details open><summary><h3>०४ पुत्रमत्तु यातुधानीः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the sorceress eat \[her own\] son, sister, and daughter (?  
 *naptī́*); then let the horrid-haired sorceresses mutually destroy  
 (*vi-han*) one another; let the hags (*arāyī́*) be shattered asunder.
 
-#### Notes
+##### Notes
 The comm, explains *naptī* as *naptrī* or *pāutrasya* (*putrasya?*)  
 *apatyarūpā saṁtati*. He reads *yātudhānī* (for *-nīs*) in **a**, and  
 *atha* in **c**.  
@@ -188,12 +177,10 @@ The comm, explains *naptī* as *naptrī* or *pāutrasya* (*putrasya?*)
     
 The 7 hymns of this *anuvāka* ⌊5.⌋ have 28 verses, as determined by the  
 quoted Anukr.: *pañcame 'ṣṭāu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let her, the Yatudhani eat son, sister, and her daughter's. child. Now let the twain by turns destroy the wild-haired Yatudhanis- and crush down Arayis to the earth!
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०१५ वृष्टिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found (except vss. 2 and 15) in Pāipp. v. (in the verse-order 1, 3, 6, 5, 4, 7, 9, 10, 8, 11-14, 16). This hymn and vii. 18 appear to be called mārutāni in Kāuś. (26. 24: see note to this rule); they are specified as used together in a rite for procuring rain (41. 1 ff.); also in expiation of the portent of upatārakās 'inundations' (103. 3); further, vss. 10 and 11, with oblations respectively to Agni and Prajāpati, in expiation of the portent of obscuration of the seven seers (127. 8, 9). In Vāit. (8. 9) vs. 6 appears in the preparations of the cāturmāsya sacrifice. And the comm. quotes vs. 11 as employed by the Nakṣ. K. (18) in a mahāśanti called prājāpatī.
 
 
-#### Translations
+##### Translations
 Translated: Bühler, Orient und Occident, i. 219; Griffith, 1.150; Weber, xviii. 58.—See also Weber's references to Ludwig and Zimmer. Cf. introduction to iii. 13.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to hasten the coming of the rains
 </details>
+</details>
 </div>
-
-
 ## ०१ समुत्पतन्तु प्रदिशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to hasten the coming of the rains
 म॒ह॒ऋ॒ष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/01_samutpatantu_pradisho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
+<details open><summary><h3>०१ समुत्पतन्तु प्रदिशो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let the directions, full of mist (*nábhasvant*), fly up together; let  
 clouds, wind-hurried, come together; let the lowing \[cows\] of the  
 resounding misty great bull, the waters, gratify the earth.
 
-#### Notes
+##### Notes
 Ppp. combines in **d** *vāśrā ”paḥ;* the comm., in **c**, *maharṣ-* ⌊as  
 the meter requires⌋; this happens to be a case where all the mss. agree  
 in *makaṛṣ-*. The meaning in **a** probably is the confusion of the  
@@ -70,17 +68,13 @@ directions by reason of the mists; the comm. renders *nábhasvatīs* in
 **a** by *nabhasvatā vāyunā yuktāḥ*, and *nabhasvatas* in **c** by  
 *vāyupreritasya meghasya sambandhinyaḥ*. ⌊The second half-verse recurs  
 at 5, below; see note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/01_samutpatantu_pradisho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let all the misty regions fly together, let all the rain-clouds sped by wind, assemble. Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
+</details>
 </div>
-
-
 ## ०२ समीक्षयन्तु तविषाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,16 +90,17 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग् जायन्ता॒मोष॑धयो वि॒श्वरू॑पाः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
+<details open><summary><h3>०२ समीक्षयन्तु तविषाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let the mighty (*taviṣá*), liberal (*sudā́nu*) ones cause to behold  
 together; let the juices (*rása*) of the waters attach themselves  
 (*sac*) to the herbs; let gushes (*sárga*) of rain gladden (*mahay-*)  
 the earth; let herbs of all forms be born here and there (*pṛ́thak*).
 
-#### Notes
+##### Notes
 The "mighty ones" in **a** are doubtless the Maruts; *īkṣay-* is perhaps  
 an error which has blundered in from the next verse, for *ukṣay-*  
 (though no causative of *ukṣ* occurs elsewhere in AV.); the comm.  
@@ -114,17 +109,13 @@ like "attract every one's attention." It would be easy to rectify the
 meter of **d** by reading *óṣadhīr vírūpaḥ;* **a** is the only real  
 *jagatī* pāda; and even by count the verse is only *nicṛt* (12 + 11: 11  
 + 13 = 47).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be hung with drops of moisture. Let floods of rain refresh the ground with gladness and herbs spring various with each form and colour.
 </details>
+</details>
 </div>
-
-
 ## ०३ समीक्षयस्व गायतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -140,33 +131,30 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॑ पृथ॑ग् जायन्तां वी॒रुधो॑ वि॒श्वरू॑पाः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/03_samIxayasva_gAyato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
+<details open><summary><h3>०३ समीक्षयस्व गायतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Do thou make the singers (*gā́yant*) to behold together the mists;  
 let rushes (*véga*) of waters rush (*vij*) up here and there; let  
 gushes of rain gladden the earth; let plants of all forms be born here  
 and there.
 
-#### Notes
+##### Notes
 Ppp. has for **a** *samikṣad viśvag vāto napāṅsy;* at end of **b**,  
 *patantu* for *vijantām;* in **d**, *oṣadhayas* (as in 2 **d** ⌊of the  
 editions⌋). The comm. regards **a** as addressed to the Maruts (*he  
 marudgaṇa*), and "the singing ones" as "us who are praising"; and *vega*  
 as "swift stream." The Anukr. ignores the extra syllable in **d**  
 ⌊rectify as in 2 **d**, *vírūpās?*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/03_samIxayasva_gAyato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Cause us who sing to see the gathering vapours: out burst in many a place the rush of waters! Let floods of rain refresh the ground with gladness; and herbs spring various with each form and colour.
 </details>
+</details>
 </div>
-
-
 ## ०४ गणास्त्वोप गायन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,14 +170,15 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 सर्गा॑ व॒र्षस्य॒ वर्ष॑तो॒ वर्ष॑न्तु पृथि॒वीमनु॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
+<details open><summary><h3>०४ गणास्त्वोप गायन्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the troops of Maruts sing unto thee, O Parjanya, noisy here and  
 there; let gushes of raining rain rain along the earth.
 
-#### Notes
+##### Notes
 *Pṛ́thak*, lit. 'severally, separately,' is used in these verses rather  
 in the sense of 'all about, everywhere.' Ppp. has in **d** *sṛjantu* for  
 *varṣantu*. The Anukr. makes the pāda-division after *mā́rutās*, and the  
@@ -197,17 +186,13 @@ in the sense of 'all about, everywhere.' Ppp. has in **d** *sṛjantu* for
 for its accentlessness; but all the mss. read so, and both editions  
 follow them. Doubtless either *mā́rutās* or *parjanya* is an intrusion;  
 so the meter indicates. The comm. gives in **c** *varṣantas*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring torrents of the rain that raineth rain upon the earth.
 </details>
+</details>
 </div>
-
-
 ## ०५ उदीरयत मरुतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/05_udIrayata_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -223,15 +208,16 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 म॒ह॒ऋ॒ष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/05_udIrayata_marutaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/05_udIrayata_marutaH.md">
+<details open><summary><h3>०५ उदीरयत मरुतः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Send up, O Maruts, from the ocean; brilliant \[is\] the song; ye make  
 the mist fly up; let the lowing \[cows\] of the resounding misty great  
 bull, the waters, gratify the earth.
 
-#### Notes
+##### Notes
 We had the second half-verse as 1 **c, d**; but Ppp. gives an original  
 half-verse instead: *pra varṣayanti tamiṣā sudānavo ‘paṁ rasīr oṣadhī  
 sacantām*. The first half is translated literally as it stands; but it  
@@ -245,17 +231,13 @@ first pāda nearly agreeing with our **a** (TS. *īrayathā*, MS. *-yatā*),
 the rest of the verse being wholly different. A couple of our mss.  
 (O.Op.), with two or three of SPP's, read *samudrajás* at end of **a**.  
 \*⌊Roth, in his collation, gives *pātayanta;* in his notes, *-tu*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/05_udIrayata_marutaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Up from the sea lift your dread might, ye Maruts: as light and splendour, send the vapour upward! Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
+</details>
 </div>
-
-
 ## ०६ अभि क्रन्द
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/06_abhi_kranda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -271,15 +253,16 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 त्वया॑ सृ॒ष्टं ब॑हु॒लमैतु॑ व॒र्षमा॑शारै॒षी कृ॒शगु॑रे॒त्वस्त॑म्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/06_abhi_kranda.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/06_abhi_kranda.md">
+<details open><summary><h3>०६ अभि क्रन्द ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Roar on, thunder, excite (*ard*) the water-holder; anoint the earth,  
 O Parjanya, with milk; by thee poured out, let abundant rain come; let  
 him of lean kine, seeking refuge, go home.
 
-#### Notes
+##### Notes
 That is, let the herdsman whose animals have been thinned by the  
 drought, now be even driven to shelter by the abundance of rain. Ppp.  
 makes *sṛṣṭam* and *varṣam* change places, and is defaced at the end.  
@@ -291,17 +274,13 @@ and, of course, he is to "set" (*astam i*), or be made invisible by the
 clouds. The Anukr. makes no account of the fact that **a** is *jagatī*.  
 ⌊For *āśāra*, see Lanman, *Trans. American Philological Association*,  
 xv. (1884), p. vii.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/06_abhi_kranda.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, Parjanya! Send plenteous showers on him who seeketh shelter, and let the owner of lean kine go homeward.
 </details>
+</details>
 </div>
-
-
 ## ०७ सं वोऽवन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/07_saM_vo_avantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -317,15 +296,16 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घा वर्ष॑न्तु पृथि॒वीमनु॑ ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/07_saM_vo_avantu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/07_saM_vo_avantu.md">
+<details open><summary><h3>०७ सं वोऽवन्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Let the liberal ones favor (*sam-av*) you, also the fountains, great  
 serpents (*ajagará*); let the clouds, started forward by the Maruts,  
 rain along the earth.
 
-#### Notes
+##### Notes
 Ppp. omits *vas* in **a**, and combines *sudānavo ’tsā ’jagarā;* and its  
 second half-verse is *vātā varṣasya varṣatuṣ pravahantu pṛthivīm anu*.  
 The comm. renders *avantu* by *tarpayantu;* *ajagarās* here by  
@@ -333,17 +313,13 @@ The comm. renders *avantu* by *tarpayantu;* *ajagarās* here by
 i.e. "that look like great serpents as they wind sinuously along"; he  
 takes *sudānavas* in **a** alternatively as vocative, notwithstanding  
 its accent.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/07_saM_vo_avantu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged by the Maruts let the clouds pour down their rain upon. the earth.
 </details>
+</details>
 </div>
-
-
 ## ०८ आशामाशां वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -359,30 +335,27 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/08_AshAmAshAM_vi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
+<details open><summary><h3>०८ आशामाशां वि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Let it lighten to every region (*ā́śā*); let the winds blow to  
 (from?) every quarter; let the clouds, started forward by the Maruts,  
 come together along the earth.
 
-#### Notes
+##### Notes
 Ppp. has in **d** *varṣantu*, as our text in the preceding verse. The  
 comm. also points out the possibility of taking *diśás* as either accus.  
 pl. or abl. sing. The Anukr. somehow omits to define the metrical  
 character of this verse and of vs. 14.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/08_AshAmAshAM_vi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let lightning flash on every side: from all the regions blow the winds! Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
+</details>
 </div>
-
-
 ## ०९ आपो विद्युदभ्रं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/09_Apo_vidyudabhraM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,15 +371,16 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/09_Apo_vidyudabhraM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/09_Apo_vidyudabhraM.md">
+<details open><summary><h3>०९ आपो विद्युदभ्रं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Waters, lightning, cloud, rain—let the liberal ones favor you, also  
 the fountains, great serpents; let the clouds, started forward by the  
 Maruts, show favor (*pra-av*) along the earth.
 
-#### Notes
+##### Notes
 Ppp. begins with *vātas* instead of *āpas*, and omits (as in 7 **a**)  
 *vas* in **b**; and, for the last two pādas, it reads *prā pyāyasva pra  
 pitṛsva saṁ bhūmiṁ payasā sṛja*. The comm. again takes *sudānavas* as  
@@ -414,17 +388,13 @@ vocative, and makes the elements mentioned in **a** subjects of *sam
 avantu;* in **d** he reads *plāvantu* but regards it as for *prā ’vantu*  
 ⌊parallel with *palāyate* etc. (W's *Gram.* §1087 c), for which he cites  
 Pāṇini viii. 2. 19⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/09_Apo_vidyudabhraM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May waters, lightning, cloud, and rain, boon springs and serpents tend you well. Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
+</details>
 </div>
-
-
 ## १० अपामग्निस्तनूभिः संविदानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -440,28 +410,25 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
+<details open><summary><h3>१० अपामग्निस्तनूभिः संविदानो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Agni, who, in unison with the waters' selves (*tanū́*), hath become  
 overlord of the herbs—let him, Jātavedas, win (*van*) for us rain,  
 breath for \[our\] progeny, *amṛ́ta* out of the sky.
 
-#### Notes
+##### Notes
 The comm. paraphrases *amṛtam* with *amṛtatvaprāpakam*. The Anukr. duly  
 notes the redundant syllable in **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May he who hath become the plants' high regent, suiting our bodies, Agni of the Waters, May Jatavedas send us rain from heaven, Amrit and vital breath to earthly creatures.
 </details>
+</details>
 </div>
-
-
 ## ११ प्रजापतिः सलिलादा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/11_prajApatiH_salilAdA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -477,15 +444,16 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 प्र प्या॑यतां॒ वृष्णो॒ अश्व॑स्य॒ रेतो॒ऽर्वाङे॒तेन॑ स्तनयि॒त्नुनेहि॑ ॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/11_prajApatiH_salilAdA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/11_prajApatiH_salilAdA.md">
+<details open><summary><h3>११ प्रजापतिः सलिलादा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. May Prajāpati from the sea, the ocean, sending waters, excite the  
 water-holder; let the seed of the stallion (*vṛ́ṣan áśva*) be filled up;  
 come hitherward with that thunder,—
 
-#### Notes
+##### Notes
 To this verse really belongs the first pāda of our vs. 12, as the sense  
 plainly shows, as well as its association in RV. (v. 83. 6 **b, c, d**)  
 with the two closing pādas here. ⌊Cf. Lanman, *Reader*, p. 370;  
@@ -499,17 +467,13 @@ words; *ardayāti* he paraphrases with *raśmibhir ādānena pīḍayatu*, and
 *udadhim* simply by *jaladhim*. This verse is as much *bhurij* as vs.  
 10, unless we combine *ā́pe ”ráyan* in **b**. ⌊For *-núnéhi*, see Prāt.  
 iii. 38, note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/11_prajApatiH_salilAdA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sending up waters from the flood and ocean Prajapati move the sea to agitation! Forth flow the moisture of the vigorous stallion! With this thy roar of thunder come thou hither,
 </details>
+</details>
 </div>
-
-
 ## १२ अपो निषिञ्चन्नसुरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -525,13 +489,14 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 वद॑न्तु॒ पृश्नि॑बाहवो म॒ण्डूका॒ इरि॒णानु॑ ॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
+<details open><summary><h3>१२ अपो निषिञ्चन्नसुरः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Pouring down waters, our Asura father.
 
-#### Notes
+##### Notes
 Let the gurgles of the waters puff, O Varuṇa; let down the descending  
 waters; let the speckled-armed frogs croak (*vad*) along the  
 water-courses (*íriṇa*).  
@@ -553,17 +518,13 @@ the translation so renders it; as second pāda of the *anuṣṭubh* he reads
 first account of *asura* is as from *as* 'throw' (*meghānāṁ kṣeptā*).  
 ⌊Discussed and translated, apropos of *íriṇa*, by Pischel, *Ved. Stud.*  
 ii. 223.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna, of the waters. Pour the floods down: along the brooks and channels let frogs with speckled arms send out their voices.
 </details>
+</details>
 </div>
-
-
 ## १३ संवत्सरं शशयाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -579,31 +540,28 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
+<details open><summary><h3>१३ संवत्सरं शशयाना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. Having lain for a year, \[like\] Brahmans performing a vow, the  
 frogs have spoken forth a voice quickened by Parjanya.
 
-#### Notes
+##### Notes
 The mss. (except one of SPP's, which follows the comm.) absurdly read  
 *vā́tam* at beginning of **c**; both editions emend to *vā́cam*, which the  
 comm. gives, and which is also read in the corresponding RV. verse, vii.  
 103. 1. Ppp. has *māṇḍūkā* in **d**. In our edition, correct two  
 printer's errors, reading *saṁvatsaráṁ* and *brāhmaṇā́*. ⌊Bloomfield  
 discusses this vs. and the following, JAOS. xvii. 174, 179.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, have lifted up their voice, the voice Parjanya hath. inspired.
 </details>
+</details>
 </div>
-
-
 ## १४ उपप्रवद मण्डूकि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/14_upapravada_maNDUki.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -619,14 +577,15 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 मध्ये॑ ह्र॒दस्य॑ प्लवस्व वि॒गृह्य॑ च॒तुरः॑ प॒दः ॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/14_upapravada_maNDUki.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/14_upapravada_maNDUki.md">
+<details open><summary><h3>१४ उपप्रवद मण्डूकि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. Speak forth unto \[it\], O she-frog; speak to the rain, O *tādurī;*  
 swim in the midst of the pool, spreading thy four feet.
 
-#### Notes
+##### Notes
 Many of our mss. (P.M.E.I.H.K.) accent *úpa* ⌊cf. Prāt. iv. 3⌋ at the  
 beginning. Ppp. reads *māṇḍūki* in **a**, and *tāṁdhuri* in **b**. The  
 comm. defines *tādurī* as "she-offspring of the *tadura*," but gives no  
@@ -634,17 +593,13 @@ explanation of *tadura*. The verse is also found in a *khila* to RV.
 vii. 103, reading in **a** *upaplávada*, and in **c** *plavásva*. ⌊For  
 14, 15, see Weber, *Berliner Sb.*, 1896, p. 257. As to metrical  
 definition of 14, see vs. 8 n.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/14_upapravada_maNDUki.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy four feet apart, and swim in the middle of the lake.
 </details>
+</details>
 </div>
-
-
 ## १५ खण्वखा३इ खैमखा३इ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -660,14 +615,15 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 व॒र्षं व॑नुध्वं पितरो म॒रुतां॒ मन॑ इछत ॥१५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
+<details open><summary><h3>१५ खण्वखा३इ खैमखा३इ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. O *khaṇvakhā!* O *khāimakhā!* in the middle, O *tadurī!* win ye  
 rain, O Fathers; seek the favor (*mánas*) of the Maruts.
 
-#### Notes
+##### Notes
 The verse (as already noted) is unfortunately wanting in Ppp. The first  
 pāda is misprinted as regards accentuation in our edition, being marked  
 as if the final syllables were *kampa*, instead of mere protractions.  
@@ -697,17 +653,13 @@ comm. and about a third of his manuscript authorities in reading
 translation above. The comm. explains *pitaras* as *pālayitāro  
 maṇḍūkāḥ!* SPP. regards him as reading *mārutam* in **d**, but this  
 appears doubtful. ⌊The Anukr. scans 8 + 5: 8 + 8.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rain from one who strives to win the Marutes heart.
 </details>
+</details>
 </div>
-
-
 ## १६ महान्तं कोशमुदचाभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -723,15 +675,16 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 त॒न्वतां॑ य॒ज्ञं ब॑हु॒धा विसृ॑ष्टा आन॒न्दिनी॒रोष॑धयो भवन्तु ॥१६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
+<details open><summary><h3>१६ महान्तं कोशमुदचाभि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 16. The great vessel (*kóśa*) do thou draw up (*ud-ac*); pour on; let   
 there be lightnings; let the wind blow; let them extend the sacrifice,  
 being manifoldly let loose; let the herbs become full of delight.
 
-#### Notes
+##### Notes
 Ppp. reads *mahantam* at beginning of **a**, and *visṛṣṭam* at end of  
 **c**. The first pāda is nearly RV. v. 83. 8 **a**, which, however,  
 reads *úd acā ní ṣiñca*. Our P.M.W. read *tanvántām* in **c**. The  
@@ -743,12 +696,10 @@ b**.⌋
   
 Here ends the third *anuvāka*, having 5 hymns and 51 verses; the quoted  
 Anukr. says *ekaviṅśatiḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Lift up the mighty cask and pour down water; let the wind blow, and lightnings flash around us. Let sacrifice be paid, and, widely scattered, let herbs and plants be full of joy and gladness.
+</details>
 </details>
 </div>

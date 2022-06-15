@@ -19,24 +19,19 @@ title = "०९४ सांमनस्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/094_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Not used by Kāuś. In Vāit. (13. 12) it accompanies, in the agniṣṭoma, the conducting of king Soma to his throne; and again, later (23. 7), the bringing of the dhruvagraha of soma into the cup.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/094_sAMmanasyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ ध्रुवं ध्रुवेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249
 यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
+<details open><summary><h3>०१ ध्रुवं ध्रुवेण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Fixed (*dhruvá*), with a fixed oblation, do we lead down Soma, that  
 Indra may make the clans (*víś*) like-minded, wholly ours.
 
-#### Notes
+##### Notes
 The verse is RV. x. 173. 6 and VS. vii. 25 **c**, and the first half is  
 found in MS. i. 3. 15; also in TS. iii. 2. 8⁶, followed at the interval  
 of two pādas by the second half. RV. has, for *áva...nayāmasi,  
@@ -70,12 +66,10 @@ kévalīḥ sárvāḥ sámanasaḥ kárat*. MS. reads *vaḥ* (?) for *‘va* i
 VS. is quite different: *dh. dh. mánasā vācā́ sómam áva nayāmi: áthā na  
 índra íd víśo ‘sapatnā́ḥ sámanasas kárat*. \*⌊And hence *karat* for  
 *kárat* in **d**.—The vs. is also noted as occurring at K. xxxv. 7.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We laid the constant Soma on with constant sacrificial gift, That Indra may make all the tribes unanimous and only ours.
+</details>
 </details>
 </div>

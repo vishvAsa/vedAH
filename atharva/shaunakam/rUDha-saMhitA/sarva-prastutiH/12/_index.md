@@ -2,12 +2,9 @@
 title = "+१२"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/12/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/_index.md">
+<details open><summary><h2>XII. Book the twelfth ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XII.
 
@@ -44,7 +41,6 @@ and 4 contain respectively 6, 6, 6, and 5 (in all, 23 "decads"); while
 *anuvāka* 5 has 7 *paryāyas*. The sum is 23 "decad"*-sūktas* and 7
 *paryāya-sūktas* or 30 *sūktas*. Cf. the summation at the end of hymn
 5.⌋
-
-
+</details>
 </details>
 </div>

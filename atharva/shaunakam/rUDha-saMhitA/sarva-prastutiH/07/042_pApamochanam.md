@@ -19,26 +19,23 @@ title = "०४२ पापमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/042_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. i. Used in Kāuś. (32. 3) with hymn 29 etc.: see that hymn.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 15, 71; Griffith, i. 346.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/042_pApamochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for delivery from sin and sickness
 </details>
+</details>
 </div>
-
-
 ## ०१ सोमारुद्रा वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for delivery from sin and sickness
 बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/042_pApamochanam/01_somArudrA_vi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/01_somArudrA_vi.md">
+<details open><summary><h3>०१ सोमारुद्रा वि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Soma-and-Rudra, eject asunder the disease that has entered our  
 household; drive far to a distance perdition; any committed sin put away  
 from us.
 
-#### Notes
+##### Notes
 The first three pādas occur in RV. vi. 74. 2 (**a, b, c**) and MS. iv.  
 11. 2, and the last two (repeating **c**) in RV. i. 24. 9 and MS. i. 3.  
 39; TS. i. 8. 22⁵ has the whole verse. At beginning of **c**, all  
@@ -72,17 +70,13 @@ The first three pādas occur in RV. vi. 74. 2 (**a, b, c**) and MS. iv.
 **d** *asmāt*. The comm. explains *gayam* as *gṛhaṁ śarīraṁ vā*. ⌊We had  
 **c, d** also above at vi. 97. 2; see also TS. i. 4. 45¹, which has  
 *dvéṣo* like Ppp.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/042_pApamochanam/01_somArudrA_vi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Scatter and drive away, Soma and Rudra, the sickness that hath come within our dwelling, Afar into the distance chase Destruction, and even from commit- ted sin release us.
 </details>
+</details>
 </div>
-
-
 ## ०२ सोमारुद्रा युवमेतान्यस्मद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,23 +92,22 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त् त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत्॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/042_pApamochanam/02_somArudrA_yuvametAnyasmad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmad.md">
+<details open><summary><h3>०२ सोमारुद्रा युवमेतान्यस्मद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Soma-and-Rudra, do ye put all these remedies in our bodies; untie,  
 loosen from us what committed sin may be bound in our bodies.
 
-#### Notes
+##### Notes
 Found also in RV. (vi. 74. 3), TS.MS. (as above) ⌊TS. *yúvam*, by  
 misprint⌋; all read *asmé* for the ungrammatical *asmát* in **a**, and  
 the translation follows them; and they have *ásti* for *ásat* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/042_pApamochanam/02_somArudrA_yuvametAnyasmad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Lay on our bodies, O ye twain, O Soma and Rudra, all those balms that heal diseases. Set free and draw away the sin committed, which we have still inherent in our persons.
+</details>
 </details>
 </div>

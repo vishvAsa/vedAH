@@ -19,26 +19,23 @@ title = "०२९ अरिष्टक्षयणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/029_ariShTaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. Used by Kāuś. (46. 7) with the two preceding hymns.
 
 
-#### Translations
+##### Translations
 Translated: Florenz, 287 or 39; Griffith, i. 260; Bloomfield, 166, 475.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/029_ariShTaxayaNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to avert misfortune foreshown by the coming of a dove and an owl
 </details>
+</details>
 </div>
-
-
 ## ०१ अमून् हेतिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUn_hetiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 यद् वा॑ क॒पोत॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/029_ariShTaxayaNam/01_amUn_hetiH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/01_amUn_hetiH.md">
+<details open><summary><h3>०१ अमून् हेतिः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Them yonder let the winged missile come upon; what the owl utters,  
 \[be\] that to no purpose, or that the dove makes its track (*padá*) at  
 the fire.
 
-#### Notes
+##### Notes
 The second and third pādas are RV. x. 165. 4 **a, b** (we had **d** in  
 the last verse of the preceding hymn); RV. omits *vā* in **c**; its  
 addition damages the meter of the *pāda*, but the Anukr. overlooks this.  
 ⌊Pādas **b, c** also occur at MGS. ii. 17. 1 **d**—cf. under h. 27.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/029_ariShTaxayaNam/01_amUn_hetiH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On these men yonder fall the winged missile: the screeching of the Owl is ineffective, And that the Dove beside the fire hath settled.
 </details>
+</details>
 </div>
-
-
 ## ०२ यौ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,27 +87,24 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 क॒पो॒तो॒लू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/029_ariShTaxayaNam/02_yau_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/02_yau_te.md">
+<details open><summary><h3>०२ यौ ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Thy two messengers, O perdition, that come hither, not sent forth or  
 sent forth, to our house—for the dove and owl be this no place.
 
-#### Notes
+##### Notes
 The comm. reads *etāu* for *etás* in **a**; he renders *ápadam* by  
 *anāśrayabhūtam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/029_ariShTaxayaNam/02_yau_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thine envoys who came hither, O Destruction, sent or not sent by thee unto our dwelling, The Dove and Owl, effectless be their visit!
 </details>
+</details>
 </div>
-
-
 ## ०३ अवैरहत्यायेदमा पपत्यात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -131,17 +122,18 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAt.md">
+<details open><summary><h3>०३ अवैरहत्यायेदमा पपत्यात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. May it fly hither in order to non-destruction of heroes; may it  
 settle (*ā-sad*) here in order to abundance of heroes; turned away, do  
 thou speak away, toward a distant stretch (? *saṁvát*); so that in  
 Yama's house they may look upon thee \[as\] sapless, may look upon  
 \[thee as\] empty (*ābhū́ka*).
 
-#### Notes
+##### Notes
 The sense would favor the accent *ávāirahatya* in **a**; and  
 *avīrahatyāyāi*, which the comm. reads, would be a further improvement.  
 The comm. also has *papadyāt* at end of **a**, and, for **c**, *parām  
@@ -150,12 +142,10 @@ eva parāvatam*. He explains *ābhū́kam* by *āgatavantam*. At the end of
 of ours that are noted) have *gṛhé*, and SPP. also has admitted it into  
 his text. ⌊As to Yama's house, cf. Hillebrandt, *Ved. Mythol.*, i. 512.  
 For *cā́kaśān*, see *Gram.* §1008 b.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Oft may it fly to us to save our heroes from slaughter, oft perch here to bring fair offspring, Turn thee and send thy voice afar: cry to the region far away; That I may see thee in the home of Yama reft of all thy power, that I may see thee impotent.
+</details>
 </details>
 </div>

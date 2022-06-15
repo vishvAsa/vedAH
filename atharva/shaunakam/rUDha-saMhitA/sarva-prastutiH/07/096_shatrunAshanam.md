@@ -19,24 +19,19 @@ title = "०९६ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/096_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. xx. Occurs in Kāuś. (48. 41) just after the preceding hymn, but in a different rite against an approaching enemy, who is made to drink a preparation. *⌊Berlin ms. prāg uktam.⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 39, iii; Griffith, i. 376.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/096_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ असदन् गावः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadan_gAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/096_shatrunAshanam/01_asadan_gAvaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/01_asadan_gAvaH.md">
+<details open><summary><h3>०१ असदन् गावः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The kine have sat in their seat; the bird has flown to its nest; the  
 mountains have stood in their site; I have made the (two) kidneys stand  
 in their station.
 
-#### Notes
+##### Notes
 Instead of the unsatisfactory and questionable\* *vṛkkāú*, the comm.  
 reads *vṛkāu*, and understands it to mean "the he-wolf and the  
 she-wolf"; they are to be made to stay in an enemy's house. He also  
@@ -73,12 +69,10 @@ half-verse is nearly identical with vi. 77. 1 **c, d**. ⌊Bp. has
 sure, not *vṛ́kāu* 'wolves.' But has not the phraseology of vs. 2 of the  
 preceding hymn (*atiṣṭhipaṁ vṛ́kāu*) something to do with the placing of  
 this one here?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/096_shatrunAshanam/01_asadan_gAvaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The kine are resting in the stall, home to her nest hath flown the bird, The hills are firmly rooted: I have fixed the kidneys in their place.
+</details>
 </details>
 </div>

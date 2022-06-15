@@ -19,25 +19,22 @@ title = "००६ अदितिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/006_aditiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This verse is, without variation, RV. i. 89. 10 (also VS. xxv. 23; TA. i. 13. 2; MS. iv. 14. 4); only RV. (in F. M. Müller's editions: but probably by an error) divides the last word jáni-tvam in the pada-text, while AV., more correctly, leaves it undivided.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/006_aditiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.6    A prayer to Aditi for help and protection
 7.6    A prayer to Aditi for help and protection
 Name: Comment, dtype: object
 </details>
+</details>
 </div>
-
-
 ## ०१ अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -53,33 +50,30 @@ Name: Comment, dtype: object
 विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
+<details open><summary><h3>०१ अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Aditi \[is\] heaven, Aditi atmosphere, Aditi mother, she father, she  
 son; all the gods \[are\] Aditi, the five races (jána); Aditi \[is\]  
 what is born, Aditi what is to be born.
 
-#### Notes
+##### Notes
 This verse is, without variation, RV. i. 89. 10 (also VS. xxv. 23; TA.  
 i. 13. 2; MS. iv. 14. 4); only RV. (in F. M. Müller's editions: but  
 probably by an error) divides the last word *jáni-tvam* in the  
 *pada*-text, while AV., more correctly, leaves it undivided.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
 7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
 Name: Comment, dtype: object
 </details>
+</details>
 </div>
-
-
 ## ०२ महीमू षु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/02_mahImU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,16 +95,17 @@ Name: Comment, dtype: object
 तु॒वि॒क्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/006_aditiH/02_mahImU_Shu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md">
+<details open><summary><h3>०२ महीमू षु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. We call for aid verily on the great mother of them of good courses,  
 the spouse of righteousness (*ṛtá*), on her of mighty authority, not  
 growing old, wide-spreading, on the well-sheltering, well-conducting  
 Aditi.
 
-#### Notes
+##### Notes
 The verse is also VS. xxi. 5, and is found further in TS. (i. 5. 11⁵),  
 MS. (iv. 10. 1), K. (xxx. 4, 5), (śśS. (ii. 2. 14), their only variant  
 being (in all) *huvema* for *havāmahe* at end of **b**; and Ppp. has the  
@@ -171,20 +166,16 @@ then explains it by *stumas;* the true text is perhaps *vácasā́ ”kar-*
 **c** in iii. 3. 11⁴ **c**, and its *pada*-text reads *upá॰sthaḥ*. ⌊Ppp.  
 has for **c** the **c** of VS. etc., and for **d** *sā no devī suhavā  
 śarma yacchatu.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/006_aditiH/02_mahImU_Shu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.6.2    We call for help the Queen of Law and Order, g...
 7.6.2    We call for help the Queen of Law and Order, g...
 Name: Comment, dtype: object
 </details>
+</details>
 </div>
-
-
 ## ०३ सुत्रामाणं पृथिवीं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -204,24 +195,22 @@ Name: Comment, dtype: object
 दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
+<details open><summary><h3>०३ सुत्रामाणं पृथिवीं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्।  
-दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥३॥  
+दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥३॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/006_aditiH/03_sutrAmANaM_pRthivIM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.6.3    Sinless may we ascend, for weal, the vessel, r...
 7.6.3    Sinless may we ascend, for weal, the vessel, r...
 Name: Comment, dtype: object
 </details>
+</details>
 </div>
-
-
 ## ०४ वाजस्य नु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/04_vAjasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -237,19 +226,19 @@ Name: Comment, dtype: object
 यस्या॑ उ॒पस्थ॑ उ॒र्व॑१न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/006_aditiH/04_vAjasya_nu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/04_vAjasya_nu.md">
+<details open><summary><h3>०४ वाजस्य नु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे ।  
 यस्या॑ उ॒पस्थ॑ उ॒र्व॑१न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात्॥४॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/006_aditiH/04_vAjasya_nu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.6.4    Let us bring hither, in pursuit of riches, Adi...
 7.6.4    Let us bring hither, in pursuit of riches, Adi...
 Name: Comment, dtype: object
+</details>
 </details>
 </div>

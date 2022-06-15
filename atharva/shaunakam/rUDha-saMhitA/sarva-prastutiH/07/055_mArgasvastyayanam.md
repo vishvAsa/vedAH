@@ -19,26 +19,23 @@ title = "०५५ मार्गस्वस्त्ययनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/055_mArgasvastyayanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/055_mArgasvastyayanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 For the true position of this verse, see the introduction to the preceding hymn. It is not found in Pāipp. This verse (separate from its predecessor) is used in Kāuś. (50. 1-3) for welfare on setting out upon a road, etc. (so at least the comm. determines: he pratīka is doubtful, being identical with that of xii. i. 47).
 
 
-#### Translations
+##### Translations
 Translated: Henry, 21, 82; Griffith, i. 353.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/055_mArgasvastyayanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to ensure a prosperous journey
 </details>
+</details>
 </div>
-
-
 ## ०१ ये ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/055_mArgasvastyayanam/01_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to ensure a prosperous journey
 तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/055_mArgasvastyayanam/01_ye_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/055_mArgasvastyayanam/01_ye_te.md">
+<details open><summary><h3>०१ ये ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1 (57. 2). The paths which are thine, downward from the sky, by which  
 thou didst send the all—by those, O Vasu, do thou set us in what is  
 pleasant.
 
-#### Notes
+##### Notes
 The first two pādas nearly correspond to SV. i. 172 **a, b**: *yé te  
 pánthā adhó divó yébhir vyàśvam āírayaḥ;* with the wholly different  
 close *utá śroṣantu no bhúvaḥ*. The comm. (as also the Anukr.) regards  
@@ -71,12 +69,10 @@ construction seems so decidedly to call for a locative in **c** that
 *sumnayā́* (p. *sumna॰yā́*, by Prāt. iv. 30) is rendered as if it were for  
 *-yāú*, from -*yú*; the comm. glosses it with *sumne sukhe*. The  
 irregular verse (8 + 7: 10 = 25) is but ill defined by the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/055_mArgasvastyayanam/01_ye_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy downward paths from heaven, whereby thou hast raised all the world to life, Give us in gracious love, good Lord!
+</details>
 </details>
 </div>

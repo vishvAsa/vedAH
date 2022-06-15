@@ -19,26 +19,23 @@ title = "०१८ सुरक्षा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ See note to the preceding hymn ⌊for ritual uses⌋. The gods etc. are throughout the same as in that hymn. ⌊The two hymns are closely accordant in general and special peculiarities of structure.⌋ ⌊A similar passage is found at MS. i. 5. 4, p. 719-15, as W. notes in the Collation Book: he also says "cf. K. vii. 2." AV. v. 10 presents some analogies with our hymn, and iv. 40 still more.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 277.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for security and peace on all sides
 </details>
+</details>
 </div>
-
-
 ## ०१ अग्निं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +49,15 @@ A prayer for security and peace on all sides
 अ॒ग्निं ते वसु॑वन्तमृच्छन्तु ।ये मा॑घा॒यवः॒ प्राच्या॑ दि॒शोऽभि॒दासा॑त्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/01_agniM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/01_agniM_te.md">
+<details open><summary><h3>०१ अग्निं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let those malignants (*aghāyú*) who shall attack (*abhi-dās*) me from  
 the eastern quarter come upon (*ṛch*) Agni with (*-vant*) the Vasus.
 
-#### Notes
+##### Notes
 The comm. has the more regular *vasumantam*. All the mss., and the  
 comm., have at the end of all the verses *‘bhidā́sāt*, which SPP.  
 accordingly retains; our edition makes the absolutely necessary  
@@ -69,17 +67,13 @@ leave *té* unaccented. 'With' is represented throughout the hymn by
 *-vant* or *-mant*, not by the instrumental case. As usual, *ṛch*  
 signifies a coming into hostile or detrimental contact or collision. ⌊W.  
 interlines "run against" as alternative for "come upon."⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/01_agniM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from the eastern region, sinners, praise Agni followed by the Vasus.
 </details>
+</details>
 </div>
-
-
 ## ०२ वायुं ते३ऽन्तरिक्षवन्तमृछन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_te3_antarixavantamRChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,26 +87,22 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 वा॒युं ते॒३ऽन्तरि॑क्षवन्तमृछन्तु । ये मा॑घा॒यवः॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/02_vAyuM_te3_antarixavantamRChantu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/02_vAyuM_te3_antarixavantamRChantu.md">
+<details open><summary><h3>०२ वायुं ते३ऽन्तरिक्षवन्तमृछन्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let those malignants who shall attack me from that quarter come upon  
 Vāyu with the atmosphere.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/02_vAyuM_te3_antarixavantamRChantu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from this quarter, sinners, praise Vayu compassed by the Air's mid region.
 </details>
+</details>
 </div>
-
-
 ## ०३ सोमं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -126,26 +116,22 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 सोमं॒ ते रु॒द्रव॑न्तमृछन्तु । ये मा॑घा॒यवो॒ दक्षि॑णाया दि॒शोऽभि॒दासा॑त्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/03_somaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/03_somaM_te.md">
+<details open><summary><h3>०३ सोमं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let those malignants who shall attack me from the southern quarter  
 come upon Soma with the Rudras.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/03_somaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from the southern quarter, sinners, sing praise to Soma with the Rudras.
 </details>
+</details>
 </div>
-
-
 ## ०४ वरुणं त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -159,26 +145,23 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु ।ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/04_varuNaM_ta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/04_varuNaM_ta.md">
+<details open><summary><h3>०४ वरुणं त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let those malignants who shall attack me from that quarter come upon  
 Varuṇa with the Ādityas.
 
-#### Notes
+##### Notes
 The Anukr. ought properly to call this verse *bhurij*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/04_varuNaM_ta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from this quarter, sinners, praise Varuna connected with Adityas.
 </details>
+</details>
 </div>
-
-
 ## ०५ सूर्यं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -192,26 +175,23 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ प्र॒तीच्याः॑ दि॒शोऽभि॒दासा॑त्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/05_sUryaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/05_sUryaM_te.md">
+<details open><summary><h3>०५ सूर्यं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Let those malignants who shall attack me from the western quarter  
 come upon the sun with heaven-and-earth.
 
-#### Notes
+##### Notes
 ⌊The accent of *dyā́vā-* is noted by W., *Skt. Gram.* §94 b.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/05_sUryaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from the western quarter, sinners, praise Surya linked with Earth and Heaven.
 </details>
+</details>
 </div>
-
-
 ## ०६ अपस्त ओषधीमतीरृछन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,26 +205,22 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 अ॒पस्त ओष॑धीमतीरृछन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/06_apasta_oShadhImatIrRChantu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/06_apasta_oShadhImatIrRChantu.md">
+<details open><summary><h3>०६ अपस्त ओषधीमतीरृछन्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let those malignants who shall attack me from that quarter come upon  
 the waters with the herbs.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/06_apasta_oShadhImatIrRChantu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from this quarter, sinners give praise to plants' associates the Waters.
 </details>
+</details>
 </div>
-
-
 ## ०७ विश्वकर्माणं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -258,27 +234,24 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु । ये मा॑घा॒यव॒ उदी॑च्या दि॒शोऽभि॒दासा॑त्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/07_vishvakarmANaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/07_vishvakarmANaM_te.md">
+<details open><summary><h3>०७ विश्वकर्माणं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Let those malignants who shall attack me from the northern quarter  
 come upon Viśvakarman with the seven seers.
 
-#### Notes
+##### Notes
 In our text there has dropped out an accent-sign under *va* before  
 *údīcyā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/07_vishvakarmANaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who from the north side vex me, sinners, praise Visvakarman with the Seven Rishis.
 </details>
+</details>
 </div>
-
-
 ## ०८ इन्द्रं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,26 +265,22 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/08_indraM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/08_indraM_te.md">
+<details open><summary><h3>०८ इन्द्रं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Let those malignants who shall attack me from that quarter come upon  
 Indra with the Maruts.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/08_indraM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from this quarter, sinners, praise Indra with the Marut host about him.
 </details>
+</details>
 </div>
-
-
 ## ०९ प्रजापतिं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,26 +294,22 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु । ये मा॑घा॒यवो॑ ध्रु॒वाया॑ दि॒शोऽभि॒दासा॑त्॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/09_prajApatiM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/09_prajApatiM_te.md">
+<details open><summary><h3>०९ प्रजापतिं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Let those malignants who shall attack me from the fixed quarter come  
 upon Prajāpati with generative qualities.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/09_prajApatiM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
+</details>
 </div>
-
-
 ## १० बृहस्पतिं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,24 +323,23 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु । ये मा॑घा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दासा॑त्॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/018_suraxA/10_bRhaspatiM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/10_bRhaspatiM_te.md">
+<details open><summary><h3>१० बृहस्पतिं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Let those malignants who shall attack me from the upward quarter  
 come upon Bṛihaspati with all the gods.
 
-#### Notes
+##### Notes
 Verse 8 is properly *bhurij* (23 syllables). Verses 9 and 10 are each  
 properly of 27 syllables; but by restoring elided initial *a* here and  
 there (with regard to which the Anukr. appears to acknowledge no rule)  
 the meters as defined can be made out.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/018_suraxA/10_bRhaspatiM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve Devas.
+</details>
 </details>
 </div>

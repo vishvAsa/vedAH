@@ -19,24 +19,19 @@ title = "१०४ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/104_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix., in reversed order of verses. Used by Kāuś. (16.6) in connection with the preceding hymn, which see.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 518; Griffith, i. 302.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/104_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ आदानेन संदानेनामित्राना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_saMdAnenAmitrAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,30 +47,27 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 अ॒पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/104_shatrunAshanam/01_AdAnena_saMdAnenAmitrAnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/01_AdAnena_saMdAnenAmitrAnA.md">
+<details open><summary><h3>०१ आदानेन संदानेनामित्राना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. With tying-up, with tying-together, we tie up the enemies; the  
 expirations and breaths of them, lives with life (*ásu*) have I cut off.
 
-#### Notes
+##### Notes
 The translation implies *acchidam* at the end, instead of *-dan*, which  
 all the authorities (and hence both editions) read, save the comm.,  
 which has *-dam*. Ppp. has in **c, d**, *teṣāṁ prāṇān samāsūn  
 amamasutam* (corrupt). One might conjecture *asinā* for *asunā* in  
 **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/104_shatrunAshanam/01_AdAnena_saMdAnenAmitrAnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We bind our foemen with a bond that binds them close and holds them fast. Their breath and respiration I dissever, and their lives from life.
 </details>
+</details>
 </div>
-
-
 ## ०२ इदमादानमकरं तपसेन्द्रेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,27 +83,24 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
+<details open><summary><h3>०२ इदमादानमकरं तपसेन्द्रेण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. This tying-up have I made, sharpened up with fervor by Indra; our  
 enemies that are here—them, O Agni, do thou tie up.
 
-#### Notes
+##### Notes
 Ppp. reads *indriyeṇa śaṅsitam* in **b**, and, for **d**, *metān ādān  
 dviṣato mama*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bind our enemies, O Agni, who are standing here.
 </details>
+</details>
 </div>
-
-
 ## ०३ ऐनान् द्यतामिन्द्राग्नी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAn_dyatAmindrAgnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -127,26 +116,25 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/104_shatrunAshanam/03_ainAn_dyatAmindrAgnI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/03_ainAn_dyatAmindrAgnI.md">
+<details open><summary><h3>०३ ऐनान् द्यतामिन्द्राग्नी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let Indra-and-Agni tie them up, and king Soma, allied; let Indra with  
 the Maruts make tying-up for our enemies.
 
-#### Notes
+##### Notes
 Ppp. has for **b** the better version *rājñā somena medinā* (the  
 construction of our *medināu* being anomalous); also *me* for *nas* at  
 the end. Some of the *pada* texts (including our D.Kp.) read *enām* in  
 **a**, and the *saṁhitā* mss. generally *enāṁ* instead of *enān;* the  
 comm. gives *enān*. The comm. explains *medināu* badly by *medasvināv  
 asmābhir dattena haviṣā mādyantāu vā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/104_shatrunAshanam/03_ainAn_dyatAmindrAgnI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni bind them fast, Soma the King, and both the Friends! May Indra, girt by Maruts, make a bond to bind our enemies.
+</details>
 </details>
 </div>

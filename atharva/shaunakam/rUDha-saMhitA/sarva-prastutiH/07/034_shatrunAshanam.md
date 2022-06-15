@@ -19,26 +19,23 @@ title = "०३४ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/034_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. (but only the first half-verse). Used by Kāuś. (36. 33), in a rite concerning women, to prevent generation of a male child; also (48. 37), with hymn 31 etc., against enemies: see under 31. Vāit. (29. 6) applies the verse, with the next, 35. 1, in the agnicayana, while the bricks called asapatna are laid on the fifth course of the fire-altar.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 13, 66; Griffith, i. 343.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/034_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for freedom from sin and the overthrow of enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ अग्ने जातान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/034_shatrunAshanam/01_agne_jAtAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for freedom from sin and the overthrow of enemies
 अ॒ध॒स्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/034_shatrunAshanam/01_agne_jAtAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/01_agne_jAtAn.md">
+<details open><summary><h3>०१ अग्ने जातान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Agni, thrust forth my rivals that are born; thrust back, O  
 Jātavedas, those unborn; put underfoot those that want to fight \[me\];  
 may we be guiltless for thee unto Aditi.
 
-#### Notes
+##### Notes
 The first half-verse (with a totally different second half) occurs also  
 in VS. (xv. 1), TS. (iv. 3. 12¹), TA. (ii. 5. 2), and MS. (ii. 8. 7).  
 ⌊Cf. *Kaṭha-hss.*, p. 73.⌋ They all read *nas* instead of *me* in **a**;  
@@ -74,12 +72,10 @@ called simple *jagatī*. ⌊The excision from **d** of *vayám* and the
 worse than superfluous *te* would make all regular, 11 + 11: 12 + 11.⌋  
 ⌊Ppp. in **a** exchanges the place of *jātān* and *sapatnān* and omits  
 *me;* has *śṛṇīhi* for *nudasva* in **b**; and omits **c, d**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/034_shatrunAshanam/01_agne_jAtAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni, drive off my rivals born and living, repel those yet unborn, O Jatavedas. Cast down beneath my feet mine adversaries. In Aditi's regard may we be sinless.
+</details>
 </details>
 </div>

@@ -19,24 +19,19 @@ title = "१०२ आत्मनोऽहिंसनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/102_Atmano_ahiMsanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. Kāuś. (52. 15) prescribes it in a rite for welfare, "with action as given in the verse" (iti mantroktam).
 
 
-#### Translations
+##### Translations
 Translated: Henry, 41, 115; Griffith, i. 378.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/102_Atmano_ahiMsanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न् मा मा॑ हिंसिषुरीश्व॒राः ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
+<details open><summary><h3>०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Having paid homage to heaven and earth, to the atmosphere, to Death,  
 I will urinate standing erect; let not the lords (*īśvará*) harm me.
 
-#### Notes
+##### Notes
 All the authorities read *mekṣā́mi* in **c**, and SPP. retains it in his  
 text, although it is a wholly impossible form, and the misreading of *ṣ*  
 for *ṣy* is an easy and familiar one; even the meter demands *me-kṣi-*  
@@ -75,12 +71,10 @@ and my note.⌋
   
 Here ends the ninth *anuvāka*, of 12 hymns and 21 verses: the old Anukr.  
 says *navamo dvādaśa* and *ekaviṅśa*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When I have worshipped Heaven and Earth, reverenced Firma- ment and Death, I will make water standing up. Let not the Sovrans injure me.
+</details>
 </details>
 </div>

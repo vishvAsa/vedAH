@@ -19,26 +19,23 @@ title = "०१४ गोष्ठः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn (except vs. 5) is found in Pāipp. ii. (in the verse-order 2, 4, 6, 1, 3). It is used by Kāuś., with other hymns (ii. 26 etc.), in a ceremony for the prosperity of cattle (19. 14). In Vāit. (21. 26), vs. 2 accompanies the driving of kine in the agnișțoma. The Vāit. use does not appear to be mentioned by the comm., and his report of the Kāuś. use is mostly lost from the manuscript (but filled in by the editor).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 469; Weber, xvii. 244; Grill, 64, 112; Griffith, i. 101; Bloomfield, 143, 351.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benediction on a cattle pen
 </details>
+</details>
 </div>
-
-
 ## ०१ सं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A benediction on a cattle pen
 अह॑र्जातस्य॒ यन्नाम॒ तेना॒ वः॒ सं सृ॑जामसि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/01_saM_vo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/01_saM_vo.md">
+<details open><summary><h3>०१ सं वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. With a comfortable (*suṣád*) stall, with wealth, with well-being,  
 with that which is the name of the day-born one, do we unite you.
 
-#### Notes
+##### Notes
 Ppp. reads in **b** *sapuṣṭyā* for *subhūtyā.* The obscure third pāda is  
 found again below as v. 28. 12 **c**; it is altogether diversely  
 rendered (conjecturally) by the translators (Weber, "with the blessing  
@@ -69,17 +67,13 @@ of favorable birth"; Ludwig, "with \[all\] that which one calls
 day-born"; Grill, "with whatever a day of luck brings forth"); R.  
 suggests "with all (of good things) that the day brings, or that is  
 under the heaven": none of these suits the other occurrence.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/01_saM_vo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the birth of day, all this do we bestow on you.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/02_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,14 +89,15 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 समिन्द्रो॒ यो ध॑नंज॒यो मयि॑ पुष्यत॒ यद् वसु॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/02_saM_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/02_saM_vaH.md">
+<details open><summary><h3>०२ सं वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let Aryaman unite you, let Pūshan, let Brihaspati, let Indra, who is  
 conqueror of riches; in my possession gain ye what is good.
 
-#### Notes
+##### Notes
   
   
   
@@ -116,17 +111,13 @@ given, but the verse may be regarded as (except **d**) a continuation of
 vs. 1. The three pādas **a-c** are found as a *gāyatrī*-verse in MS.  
 (iv. 2. 10: with *poṣā́* for *pūṣā́* in **b**). Ppp. has *iha puṣyati* at  
 beginning of **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/02_saM_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of the prize. Make ye my riches grow with me.
 </details>
+</details>
 </div>
-
-
 ## ०३ संजग्माना अबिभ्युषीरस्मिन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/03_saMjagmAnA_abibhyuShIrasmin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,14 +133,15 @@ May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of
 बिभ्र॑तीः सो॒म्यं मध्व॑नमी॒वा उ॒पेत॑न ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/03_saMjagmAnA_abibhyuShIrasmin.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/03_saMjagmAnA_abibhyuShIrasmin.md">
+<details open><summary><h3>०३ संजग्माना अबिभ्युषीरस्मिन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Having come together, iinaffrighted, rich in manure, in this stall,  
 bearing the sweet of soma, come ye hither, free from disease.
 
-#### Notes
+##### Notes
 Three of the pādas (**a, b, d**) again form, with considerable variants,  
 a *gāyatrī* in MS. (ibid.) immediately following the one noted above:  
 MS. has *ávihrutās* for *ábibhyuṣīs*, *purīṣíṇīs* for *kar-*, and, in  
@@ -161,17 +153,13 @@ by Prāt. iii. 52, according to the comment on that rule; but it would
 equally well fall under the general rule (iii. 38) as to the order of  
 combination when *ā* comes between two vowels (*upa-ā-itana* like  
 *indra-ā-ihi* etc.). ⌊Cf. also Lanman, JAOS. x. 425.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/03_saMjagmAnA_abibhyuShIrasmin.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Moving together, free from fear, with plenteous droppings in this pen, Bearing sweet milk-like Soma-juice, come hither free from all disease.
 </details>
+</details>
 </div>
-
-
 ## ०४ इहैव गाव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/04_ihaiva_gAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,14 +175,15 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 इ॒हैवोत प्र जा॑यध्वं॒ मयि॑ सं॒ज्ञान॑मस्तु वः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/04_ihaiva_gAva.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/04_ihaiva_gAva.md">
+<details open><summary><h3>०४ इहैव गाव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Come ye just here, O kine, and flourish here like *śákā;* also  
 multiply (*pra-jā*) just here; let your complaisance be toward me.
 
-#### Notes
+##### Notes
 *śáke ’va* (p. *śákā॰iva*) in **b** is very obscure: Weber renders "like  
 dung" (as if *śákā* = *ćákṛt*); Ludwig, "with the dung" (as if *śákā* =  
 *śáknā́*); Grill, "like plants" (implying *śākam iva* or *śākā iva*) the  
@@ -207,17 +196,13 @@ among those offered by the commentators on VS. xxiv. 32 (= MS. iii. 14.
 SPP. reports his *pada*-mss. as accenting *gā́vaḥ* in **a**, but emends  
 in his *pada*-text to *gāvaḥ;* the latter is read by all ours, so far as  
 noted.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/04_ihaiva_gAva.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come hither, to this place, O Cows: here thrive as though ye were manured. Even here increase and multiply; let us be friendly, you and me.
 </details>
+</details>
 </div>
-
-
 ## ०५ शिवो वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/05_shivo_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,14 +218,15 @@ Come hither, to this place, O Cows: here thrive as though ye were manured. Even 
 इ॒हैवोत प्र जा॑यध्वं॒ मया॑ वः॒ सं सृ॑जामसि ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/05_shivo_vo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/05_shivo_vo.md">
+<details open><summary><h3>०५ शिवो वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Let your stall be propitious; flourish ye like *śāriśā́kā;* also  
 multiply just here; with me we unite you.
 
-#### Notes
+##### Notes
 There is no Ppp. text of this verse to help cast light on the obscure  
 and difficult *śāriśākā* (p. *śāriśā́kā॰iva*). The comm. (implying  
 *-kās*) explains the word as meaning "kinds of creatures that increase  
@@ -257,17 +243,13 @@ starlings and parrots.' True, these birds are habitual companions in
 literature as in life (see my translation of *Karpūra-mañjarī*, p. 229,  
 note), loquacity being their salient characteristic; but what is the  
 *tertium comparationis* between the thriving of cows and of starlings?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/05_shivo_vo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Auspicious be this stall to you. Prosper like cultivated rice. Even here increase and multiply. Myself do we bestow on you.
 </details>
+</details>
 </div>
-
-
 ## ०६ मया गावो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/06_mayA_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -283,15 +265,16 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 रा॒यस्पोषे॑ण बहु॒ला भव॑न्तीर्जी॒वा जीव॑न्ती॒रुप॑ वः सदेम ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/014_goShThaH/06_mayA_gAvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/06_mayA_gAvo.md">
+<details open><summary><h3>०६ मया गावो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Attach yourselves, O kine, to me as lord of kine; this your stall  
 here \[be\] flourishing; to you, becoming numerous with abundance of  
 wealth, to you living, may we living be near (*upa-sad*).
 
-#### Notes
+##### Notes
   
   
   
@@ -303,12 +286,10 @@ rather 'wait upon' (so Grill), only then we should expect rather
 *sadema* and *sadāma* is not clear to me.⌋ Ppp. reads in **a**  
 *gopatyā*, and its **b** is *mayi vo goṣṭha iha poṣayāti.* ⌊The epithet  
 *ārṣī* seems to be as meaningless here as at iii. 12. 7—see note, end.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/014_goShThaH/06_mayA_gAvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Follow me, Cows, as master of the cattle. Here may this Cow- pen make you grow and prosper, Still while we live may we approach you living, ever increasing with the growth of riches.
+</details>
 </details>
 </div>

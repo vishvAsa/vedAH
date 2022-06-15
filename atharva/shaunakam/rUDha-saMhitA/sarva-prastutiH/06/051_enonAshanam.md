@@ -19,26 +19,23 @@ title = "०५१ एनोनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/051_enonAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix., in the verse-order 1, 3, 2. The hymn is reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa; it is used (25. 20) in healing rites against various diseases, and (25. 21) especially against disorders arising from soma drinking; and (41. 14), with hymn 19 and others, in a ceremony for good fortune; it is further (note to 7. 14) one of the apāṁ sūktāni. Vāit. (30. 7) has it in the sāutrāmaṇī ceremony with the preparation of surā for one disordered by soma. ⌊Keśava (to 61. 5) counts this hymn (not 57) to a pavitra gaṇa.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, i. 273.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/051_enonAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for purification and forgiveness of sins
 </details>
+</details>
 </div>
-
-
 ## ०१ वायोः पूतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A prayer for purification and forgiveness of sins
 इन्द्र॑स्य॒ युजः॒ सखा॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/051_enonAshanam/01_vAyoH_pUtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
+<details open><summary><h3>०१ वायोः पूतः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Purified with Vāyu's purifier, Soma \[hath\] run over opposite  
 (*pratyán̄*), Indra's suitable companion.
 
-#### Notes
+##### Notes
 The translation implies, at the end of **b**, *áti drutás* (or  
 *atidrutas*, as the comm. appears to read), which SPP. has rightly in  
 his text. In most mss. *dru* and *hru* are hardly distinguishable (and  
@@ -85,17 +83,13 @@ mss. read simple *n̄*, and both printed texts adopt it. ⌊Cf. Weber,
 xix. 3 also there are two immediately successive versions, the first  
 with *pratyán̄k...átidrutaḥ*, the second with *prā́n̄k...átidrutaḥ*.  
 Moreover, VS. has in x. (like TB.) *vāyúḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/051_enonAshanam/01_vAyoH_pUtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend of Indra.
 </details>
+</details>
 </div>
-
-
 ## ०२ आपो अस्मान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/02_Apo_asmAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -111,15 +105,16 @@ Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend 
 विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/051_enonAshanam/02_Apo_asmAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/02_Apo_asmAn.md">
+<details open><summary><h3>०२ आपो अस्मान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let the mother waters further (*sūd*) us; let the ghee-purifying ones  
 purify us with ghee; since the heavenly ones carry forth all evil  
 (*riprá*), forth from them, indeed, I come clean, purified.
 
-#### Notes
+##### Notes
 The verse is found also as RV. x. 17. 10, with the single variant  
 *śundhayantu* at end of **a**; the comm. gives to *sūd-* the same  
 meaning (*kṣālayantu pāparahitān śuddhān kurvantu*). VS. (iv. 2) also  
@@ -129,17 +124,13 @@ has *-vahantu* likewise, and at the end it reads *pūtay emi*, which,
 curiously enough, Schröder notes as read by two of his mss. and by the  
 Kapiṣṭhala text. Ppp. has further the phonetic ⌊? graphic⌋ variant  
 *ghṛtapuvas* in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/051_enonAshanam/02_Apo_asmAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the maternal Waters make us ready: cleanse us with fat- ness they who cleanse with fatness! The Goddesses bear off each blot and tarnish: I come forth from the waters cleansed and stainless.
 </details>
+</details>
 </div>
-
-
 ## ०३ यत् किं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/03_yat_kiM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,15 +146,16 @@ May the maternal Waters make us ready: cleanse us with fat- ness they who cleans
 अचि॑त्त्या॒ चेत् तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/051_enonAshanam/03_yat_kiM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/03_yat_kiM.md">
+<details open><summary><h3>०३ यत् किं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Whatever, O Varuṇa, that is hateful to the people of the gods human  
 beings practise here, if without intention we have obstructed thine  
 ordinances (*dhármān*), do not, O god, harm us for that sin.
 
-#### Notes
+##### Notes
 The verse is RV. vii. 89. 5, which, however, reads at end of **b**  
 *cárāmasi*, and at beginning of **c** *ácittī yát táva* etc. TS. (iii.  
 4. 11⁶) and MS. (iv. 12. 6) agree precisely with RV.  
@@ -173,12 +165,10 @@ quotation, *pan̄cama*, has to be combined with that to the next
 *anuvāka*.  
   
 Here ends also the thirteenth *prapāṭhaka*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/051_enonAshanam/03_yat_kiM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Varuna, whatever the offence may be, the sin which men commit against the heavenly folk-- When, through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
+</details>
 </details>
 </div>

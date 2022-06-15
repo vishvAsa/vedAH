@@ -19,26 +19,23 @@ title = "०६१ तपः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/061_tapaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 In Pāipp. (xx.) is found only the second half* of vs. 1. The hymn is, according to Kāuś. (10. 22), to be pronounced at āgrahāyaṇa full-moon, in a medhājanana rite (for acquisition of sacred knowledge); also (57. 23), in the ceremony of reception of a Vedic student, in the ⌊agnikārya⌋, next after hymn 33 (both verses are quoted, each by its pratīka); and the schol. (note to 53. 4) introduce both verses in the godāna ceremony. *⌊But R's notes give a variant for 1 b, as below!⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 24, 87; Griffith, i. 357.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/061_tapaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for sacred knowledge and its fruits
 </details>
+</details>
 </div>
-
-
 ## ०१ यदग्ने तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,31 +51,28 @@ A prayer for sacred knowledge and its fruits
 प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/061_tapaH/01_yadagne_tapasA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/01_yadagne_tapasA.md">
+<details open><summary><h3>०१ यदग्ने तपसा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. In that, O Agni, penance with penance, we perform additional (?)  
 penance, may we be dear to what is heard, long-lived, very wise.
 
-#### Notes
+##### Notes
 'What is heard' (*śrutá*), the inspired or revealed word. Nearly all the  
 mss. (all ours save Bp.¹ M.) read *priyā́* instead of *priyā́ḥ* at  
 beginning of **c**. Ppp. has for **b** *upa prekṣāmahe\* vayam*. The  
 comm. gives several diverse guesses at the sense of the obscure first  
 half-verse. ⌊The vs. recurs with variants at MGS. i. 1. 18.⌋ \*⌊R.  
 suggests that *pṛkṣāmahe* (root *pṛc*) may be intended.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/061_tapaH/01_yadagne_tapasA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacred Lore, may we be wise and live long lives.
 </details>
+</details>
 </div>
-
-
 ## ०२ अग्ने तपस्तप्यामह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,23 +88,22 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/061_tapaH/02_agne_tapastapyAmaha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/02_agne_tapastapyAmaha.md">
+<details open><summary><h3>०२ अग्ने तपस्तप्यामह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Agni, we perform penance, we perform additional penance—we, hearing  
 things heard, long-lived, very wise.
 
-#### Notes
+##### Notes
 It is questionable whether *upa-tapya* in both these verses has not a  
 more pregnant meaning ⌊as above: BR., simply, 'Kasteiung leiden'⌋: Henry  
 takes it as equivalent to simple *tapya.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/061_tapaH/02_agne_tapastapyAmaha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore may we grow wise and full of days.
+</details>
 </details>
 </div>

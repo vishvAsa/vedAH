@@ -19,26 +19,23 @@ title = "०११ श्रेयःप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊The hymn is not metrical.⌋ Not found in Pāipp., nor elsewhere. Reckoned as first of the kṛtyāpratiharaṇa ('counteraction of witchcraft') gaṇa (Kāuś. 39. 7 and note); used in a charm for protection against witchcraft (39. 1), with binding-on of a sraktya amulet; and again later (39. 13; the comm. says, only vs. 1), in a similar rite. The comm. quotes it further from Nakṣ. K. (17, 19), in a mahāśānti called bārhaspatī.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 163; Griffith, i. 54.—Discussed by Bloomfield, AJP. vii. 477 ff., or JAOS. xiii., p. cxxxii (= PAOS. Oct. 1886).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Counter-charm, with an amulet, against an enemy's spell
 </details>
+</details>
 </div>
-
-
 ## ०१ दूष्या दूषिरसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ Counter-charm, with an amulet, against an enemy's spell
 आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
+<details open><summary><h3>०१ दूष्या दूषिरसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Spoiler's spoiler (*dū́ṣi*) art thou; missile's missile (*hetí*) art  
 thou; weapon's weapon (*mení*) art thou: attain (*āp*) the better one,  
 step beyond the equal (*samá*).
 
-#### Notes
+##### Notes
 The body of the verse is addressed to the amulet; the refrain more  
 probably to its wearer (so, too, Weber); but the comm. assigns the  
 latter also to the amulet, and quotes to show it TS. ii. 4. 1⁴, which  
@@ -70,17 +68,13 @@ rather supports the contrary opinion. He calls *mení* **a**
 *vajranāman*, deriving it from root *mī* 'damage.' ⌊See Geldner's  
 discussion of *mení* ('hurt done to another in vengeful anger'),  
 *Festgruss an Böhtlingk*, p. 31, 32.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dart against dart, destroyer of destruction, thou art the missile sent to meet the missile. Reach thy superior, thou; surpass thine equal.
 </details>
+</details>
 </div>
-
-
 ## ०२ स्रक्त्योऽसि प्रतिसरोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/02_sraktyo_asi_pratisaro_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,30 +90,27 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/02_sraktyo_asi_pratisaro_asi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/02_sraktyo_asi_pratisaro_asi.md">
+<details open><summary><h3>०२ स्रक्त्योऽसि प्रतिसरोऽसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. *Sraktyà*. art thou; re-entrant (*pratisará*) art thou;  
 counter-conjuring art thou: attain the etc. etc.
 
-#### Notes
+##### Notes
 The comm. says that *srakti* is the *tilaka*-tree, and *sraktya* means  
 made from it; *pratisara* is something by which sorceries are turned  
 back (upon their performer); it seems to mean virtually a circular  
 amulet—⌊such as a bracelet? For *re-entrant*, Whitney has interlined  
 *revertent* (sic), better, perhaps, *reverting*, trans, or intrans.⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/02_sraktyo_asi_pratisaro_asi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy superior, thou; surpass thine equal.
 </details>
+</details>
 </div>
-
-
 ## ०३ प्रति तमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,26 +126,22 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
+<details open><summary><h3>०३ प्रति तमभि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Conjure (*abhi-car*) against him who hates us, whom we hate: attain  
 the etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Use spells against the man we hate, against the man who hateth us. Reach thy superior, thou; surpass thine equal.
 </details>
+</details>
 </div>
-
-
 ## ०४ सूरिरसि वर्चोधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,27 +157,24 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
+<details open><summary><h3>०४ सूरिरसि वर्चोधा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Patron (*sūrí*) art thou; splendor-bestowing art thou;  
 body-protecting art thou: attain the etc. etc.
 
-#### Notes
+##### Notes
 The comm., without explaining why, glosses *sūrí* with *abhijña*  
 'knowing.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prince art thou, giver of speech, thou art our bodies' strong defence. Reach thy superior, thou; surpass thine equal.
 </details>
+</details>
 </div>
-
-
 ## ०५ शुक्रोऽसि भ्राजोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/05_shukro_asi_bhrAjo_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -206,26 +190,25 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/011_shreyaHprAptiH/05_shukro_asi_bhrAjo_asi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/05_shukro_asi_bhrAjo_asi.md">
+<details open><summary><h3>०५ शुक्रोऽसि भ्राजोऽसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Bright (*śukrá*) art thou; shining (*bhrājá*) art thou; heaven  
 (*svàr*) art thou; light art thou: attain the etc. etc.
 
-#### Notes
+##### Notes
 The comm. thinks *svàr* to be *jvarādirogotpādanena tāpakaḥ*, or else  
 "the common name of sky and sun."  
   
 The Anukr. scans vs. 1 as 6 + 6 + 6: 12 = 30, and the other verses as 8  
 + 8: 12 = 28, excepting vs. 4, which is 9 + 6: 12 = 27 (restoring the  
 *a* of *asi* in **b**).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/011_shreyaHprAptiH/05_shukro_asi_bhrAjo_asi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fulgent art thou, and splendid, thou art heavenly lustre, thou art light. Reach thy superior, thou; surpass thine equal.
+</details>
 </details>
 </div>

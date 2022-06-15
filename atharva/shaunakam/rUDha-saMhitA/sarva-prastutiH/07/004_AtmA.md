@@ -19,29 +19,26 @@ title = "००४ आत्मा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/004_AtmA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/004_AtmA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx., and in a series of other texts: VS. (xxvii. 33), śB. (iv. 4. 115), MS. (iv. 6. 2), TA. (i. ii. 821), AśS. (v. 18. 5), śśS. (viii. 3. 10). Kāuś. (41. 26) teaches the repetition of the verse three times at the end of a rite for the benefit of a horse; and Vāit. (9. 27: misunderstood by the editor) applies it with an oblation to Vāyu at the cāturmāsya sacrifice.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 2, 49; Griffith, i. 328.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/004_AtmA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.4    To Vayu God of the Wind
 7.4    To Vayu God of the Wind
 Name: Comment, dtype: object
 </details>
+</details>
 </div>
-
-
 ## ०१ एकया च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/004_AtmA/01_ekayA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -57,15 +54,16 @@ Name: Comment, dtype: object
 ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/004_AtmA/01_ekayA_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/004_AtmA/01_ekayA_cha.md">
+<details open><summary><h3>०१ एकया च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Both with one and with ten, O easily-invoked one (masc.); with two  
 and with twenty, for \[our\] wish; both with three and with thirty  
 separately yoked ones drivest thou, O Vayu—those do thou here release.
 
-#### Notes
+##### Notes
 All the other texts read *svabhūte* at end of **a**, and *niyúdbhis* at  
 beginning of **d** (the Pet. Lex. proposes the latter by emendation  
 here); VS.śB.śśS. have *viṇśatī́* for *viṅśatyā́* in **b**, and (as also  
@@ -80,15 +78,13 @@ violence *triṣṭubh*. ⌊"One," "three," and "those" are fem.: the comm.
 supplies "mares."⌋ ⌊Perhaps the force of the accent of *váhase* is, "If  
 thou drivest with 11 or 22 or 33 (no matter how many),—here release thou  
 them." See *Gram.* §595 d.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/004_AtmA/01_ekayA_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 id
 7.4.1    With thine eleven teams, to aid our wishes, ye...
 7.4.1    With thine eleven teams, to aid our wishes, ye...
 Name: Comment, dtype: object
+</details>
 </details>
 </div>

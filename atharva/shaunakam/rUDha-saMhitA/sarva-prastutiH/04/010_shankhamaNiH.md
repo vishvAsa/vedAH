@@ -19,29 +19,26 @@ title = "०१० शङ्खमणिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found (except vs. 5) in Pāipp. iv. Used by Kāuś. (58. 9) in the same ceremony with the preceding hymn, but with an amulet of mother-of-pearl; the schol. (not the comm.) also add it in an earlier part of the ceremony (56. 17). The comm. quotes it further from Nakṣ. K. (19), as employed in a mahāśānti named vāruṇī.
 
 
 ⌊Although rain-drops are not expressly mentioned in this hymn nor in xix. 30. 5 (which see), I think it safe to say that the bit of Hindu folk-lore about the origin of pearls by transformation of rain-drops falling into the sea (Indische Sprüche, 344) is as old as this Vedic text and the one in xix. The references here to sky and sea and lightning, and in xix. to Parjanya and thunder and sea, all harmonize perfectly with that belief, which is at least ten centuries old (it occurs in Rājaśekhara, 900 A.D.) and has lasted till today (Manwaring's Marāṭhī Proverbs, no. 1291). See my translation of Karpūra-mañjarī, p. 264 f., and note 5. Pischel, l.c., reports as follows: "According to Aelian (περὶ ζῴων, x. 13), a pearl forms when the lightning flashes into an open seashell; according to an Arabic writer, when rain-drops fall into it, or, according to Pliny (ix. 107), dew."—The persistency of popular beliefs in India is well illustrated by the curious one concerning female snakes: see my note to Karpūra-mañjarī, p. 231.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 462; Grill, 36, 124; Griffith, 1. 142; Bloomfield, 62, 383; Weber, xviii. 36.—Bloomfield cites an article in ZDMG. (xxxvi. 135) by Pischel, who, in turn, cites a lot of interesting literature about pearl.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm accompanying investiture with an amulet of shell
 </details>
+</details>
 </div>
-
-
 ## ०१ वाताज्जातो अन्तरिक्षाद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -57,14 +54,15 @@ A charm accompanying investiture with an amulet of shell
 स नो॑ हिरण्य॒जाः श॒ङ्खः कृश॑नः पा॒त्वंह॑सः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/01_vAtAjjAto_antarixAd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAd.md">
+<details open><summary><h3>०१ वाताज्जातो अन्तरिक्षाद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Born from the wind out of the atmosphere, out from the light of  
 lightning, let this gold-born shell, of pearl, protect us from distress.
 
-#### Notes
+##### Notes
 Of course, all the four nouns in the first half-verse may be coördinate  
 ablatives. The beauty and sheen of the material connect it traceably  
 with gold and lightning, but how even a Hindu *ṛṣi* can bring it into  
@@ -73,17 +71,13 @@ relation with wind from (or and) the atmosphere is not easy to see.
 appositively = "which is itself virtually pearl"; the comm. explains it  
 in this verse as *karśayitā śatrūṇāṁ tanūkartā*. Ppp. has in **c**  
 *hiraṇyadās*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/01_vAtAjjAto_antarixAd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Child of the wind firmament, sprung from the lightning and the light, May this the gold-born Shell that bears the pearl preserve us from distress.
 </details>
+</details>
 </div>
-
-
 ## ०२ यो अग्रतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/02_yo_agrato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,29 +93,26 @@ Child of the wind firmament, sprung from the lightning and the light, May this t
 श॒ङ्खेन॑ ह॒त्वा रक्षां॑स्य॒त्त्रिणो॒ वि ष॑हामहे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/02_yo_agrato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/02_yo_agrato.md">
+<details open><summary><h3>०२ यो अग्रतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Thou that wast born from the top of the shining spaces (*rocaná*),  
 out of the ocean—by the shell having slain the demons, we overpower the  
 devourers.
 
-#### Notes
+##### Notes
 Ppp. combines in **a** *yo ‘grato r-*. Grill takes *agratas* as "first";  
 and the comm. as = *agre*, and not qualifying *jajñiṣe:* "at the top or  
 front of shining things, such as stars."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/02_yo_agrato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Shell that wast born from out the sea, set at the head of things that shine! With thee we slay the Rakshasas and overcome voracious fiends.
 </details>
+</details>
 </div>
-
-
 ## ०३ शङ्खेनामीवाममतिं शङ्खेनोत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,30 +128,27 @@ Shell that wast born from out the sea, set at the head of things that shine! Wit
 श॒ङ्खो नो॑ वि॒श्वभे॑षजः॒ कृश॑नः पा॒त्वंह॑सः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
+<details open><summary><h3>०३ शङ्खेनामीवाममतिं शङ्खेनोत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. By the shell \[we overpower\] disease, misery; by the shell also the  
 *sadā́nvās;* let the all-healing shell, of pearl, protect us from  
 distress.
 
-#### Notes
+##### Notes
 Ppp. has in **a** *avadyam* instead of *ámatim*. The comm. takes  
 *ámatim* from root *man* ⌊see BR's note, s.v. 3 *ámati*⌋: "ignorance,  
 the root of all mishap (*anartha*); and, forgetting his explanation of  
 only two verses ago, he this time declares *kṛśana* a "name of gold."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We stay disease and indigence, and chase Sadanvas with the Shell. May the all-healing Shell that bears the pearl preserve us from distress.
 </details>
+</details>
 </div>
-
-
 ## ०४ दिवि जातः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/04_divi_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,31 +164,28 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 स नो॑ हिरण्य॒जाः श॒ङ्ख आ॑युष्प्र॒तर॑णो म॒णिः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/04_divi_jAtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/04_divi_jAtaH.md">
+<details open><summary><h3>०४ दिवि जातः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Born in the sky, ocean-born, brought hither out of the river, this  
 gold-born shell \[is\] for us a life-prolonging amulet.
 
-#### Notes
+##### Notes
 Ppp. has *samudratas* at end of **a**, and in **c** again (as in 1  
 **c**) *hiraṇyadās*. Nearly all our mss. (except O.K.), and some of  
 SPP's, with the comm., read in **d** *āyuḥpr-* ⌊cf. Prāt, ii. 62 n.⌋;  
 but the point is one in regard to which each ms. is wont to follow its  
 own course, regardless of rule, and both editions very properly give  
 *āyuṣpr-*, as required by the Prāt.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/04_divi_jAtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Born in the heaven, sprung from the sea, brought to us hither from the flood. This gold-born Shell shall be to us an amulet to lengthen life.
 </details>
+</details>
 </div>
-
-
 ## ०५ समुद्राज्जातो मणिर्वृत्राज्जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -216,14 +201,15 @@ Born in the heaven, sprung from the sea, brought to us hither from the flood. Th
 सो अ॒स्मान्त्स॒र्वतः॑ पातु हे॒त्या दे॑वासु॒रेभ्यः॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
+<details open><summary><h3>०५ समुद्राज्जातो मणिर्वृत्राज्जातो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The amulet born from the ocean, born from Vṛtra, making day—let it  
 protect us on all sides from the missile of gods and Asuras.
 
-#### Notes
+##### Notes
 The comm. makes Vṛtra here signify either the demon Vṛtra or the cloud;  
 doubtless the latter is intended; then he explains *divākara* as the  
 sun, and *jāta* as "released," and renders "as brilliant as the sun  
@@ -233,17 +219,13 @@ understands in **d** *hetyā* instead of *-ās* (p. *hetyā́ḥ*). ⌊*Dev-*,
 ablative by attraction, from gen.—cf. *Skt. Gram.* §982 a.⌋ The first  
 pāda is deficient by a syllable, unless we resolve *samudrā́t* into four  
 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this protect us round about from shaft of God and Asura.
 </details>
+</details>
 </div>
-
-
 ## ०६ हिरण्यानामेकोऽसि सोमात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/06_hiraNyAnAmeko_asi_somAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -259,15 +241,16 @@ From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this prote
 रथे॒ त्वम॑सि दर्श॒त॑ इ॑षु॒धौ रो॑च॒नस्त्वं प्र ण॒ आयूं॑षि तारिषत्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/06_hiraNyAnAmeko_asi_somAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/06_hiraNyAnAmeko_asi_somAt.md">
+<details open><summary><h3>०६ हिरण्यानामेकोऽसि सोमात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. One of the golds art thou; out of soma wast thou born; thou art  
 conspicuous on the chariot, lustrous (*rocaná*) on the quiver thou. May  
 it prolong our lives!
 
-#### Notes
+##### Notes
 The last pāda, which occurs in four other places (ii. 4. 6 etc.), looks  
 like a late addition here; as elsewhere, some of the mss. (five of  
 SPP's) read *tārṣat*. Except our Op., all the *pada*-mss. blunderingly  
@@ -279,17 +262,13 @@ full reading. Here one is strongly tempted to translate *soma* by
 discourages it by reading *sa hoṣād* (for *-mād?*) *adhi*. The comm.  
 glosses *rocana* by *rocamāna dīpyamāna*. For **c**, Ppp. has *ratheṣu  
 darśatam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/06_hiraNyAnAmeko_asi_somAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest on the quiver, thou art beautiful upon the car: may it prolong our days of life!
 </details>
+</details>
 </div>
-
-
 ## ०७ देवानामस्थि कृशनं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,16 +284,17 @@ Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest
 तत् ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय कार्श॒नस्त्वा॒भि र॑क्षतु ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/010_shankhamaNiH/07_devAnAmasthi_kRshanaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanaM.md">
+<details open><summary><h3>०७ देवानामस्थि कृशनं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The gods' bone became pearl; that goes about within the waters,  
 possessing soul; that do I bind on thee in order to life-time, splendor,  
 strength, to length of life for a hundred autumns: let \[the amulet\] of  
 pearl defend thee.
 
-#### Notes
+##### Notes
 *Karśanás* in **e**, though read by all our mss. and nearly all of  
 SPP's, is hardly to be tolerated; we should have either *kṛ́śanas*, as  
 above, or *kārśanas*, which the comm. offers, with two or three mss.  
@@ -326,12 +306,10 @@ of being a full *śakvarī*. ⌊Reject either *āyuṣe* or *varcase* and the
 meter is good.—In **c**, *te* 'for thee' (comm., as gen.), is, I  
 suppose, virtually = 'on thee.'⌋ The second *anuvāka*, ending with this  
 hymn, contains 5 hymns and 39 verses; the Anukr. quotation is *nava ca*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/010_shankhamaNiH/07_devAnAmasthi_kRshanaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bone of the Good became the pearl's shell-mother endowed with soul it moveth in the waters. I bind this on thee for life, strength, and vigour, for long life lasting through a hundred autumns. May the pearl's mother keep and guard thee safely!
+</details>
 </details>
 </div>

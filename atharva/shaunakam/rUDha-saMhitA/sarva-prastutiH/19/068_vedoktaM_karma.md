@@ -19,26 +19,23 @@ title = "०६८ वेदोक्तं कर्म"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/068_vedoktaM_karma/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. xix. Quoted once in the text of Kāuś. (139. 10), in the ceremony of introduction to Vedic study, as to be murmured prior to pronouncing, by pādas, the Gāyatrī (RV. iii. 62. 10), and the Atharvan verses iv. 1. 1 and i. 1. 1 (or 1-4). But the various schol. (the Paddhati, Daś. Kar., Keśavī) make frequent mention and use of it: thus (see note to Kāuś. 25. 36), it is reckoned to a svastivācana; it is used in the sīmantonnayana (to 35. 20) and godāna (to 53. 2) ceremonies; it is added (note to 57. 22) to vii. 33. 1 in the ceremony of restoring lost fire, in the initiation of a Vedic student; it is used in the vedavratāni (to 57. 32), in the annaprāśana (to 58. 19), and the preparation for the marriage ceremonies (to 75. 1), and for the ājyatantra (to 137. 4), and in the introduction to the rājakarmāṇi of §14 (p. 315, l. 2). In all this is very probably to be seen only the influence of the occurrence of védam and of kármāṇi kṛṇmahe in the second half-verse; it need not imply any real comprehension of the obscure verse, with recognition of its appropriateness to all these various situations. ⌊As to the critical bearing of the uses of the vs. in the ritual, cf. the table on p. 896, and see p. 897, line 12.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 319.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/068_vedoktaM_karma/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A preliminary sacrificial formula
 </details>
+</details>
 </div>
-
-
 ## ०१ अव्यसश्च व्यचसश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A preliminary sacrificial formula
 ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
+<details open><summary><h3>०१ अव्यसश्च व्यचसश्च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Of non-expansion and of expansion do I untie the aperture with magic;  
 by those two having taken up the Veda, we then perform acts.
 
-#### Notes
+##### Notes
   
   
   
@@ -102,12 +100,10 @@ with *avyacásaś cá vyácasáś ca*, which, apart from the wild accents, is
 worth noting.⌋  
   
 In Ppp., this hymn is immediately followed by our hymn 72.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Both of broad and narrow I with magic power unclose the mouth. With these when we have raised the bunch of grass we pay the holy rites.
+</details>
 </details>
 </div>

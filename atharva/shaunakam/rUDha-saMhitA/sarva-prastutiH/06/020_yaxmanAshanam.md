@@ -19,26 +19,23 @@ title = "०२० यक्ष्मनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/020_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Only the last verse is found in Pāipp., in book xiii. Appears in Kāuś. (30. 7) in a remedial rite for bilious fever, and is reckoned (note to 26. 1) to the takmanāśana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Grohmann, Ind. Stud. ix. 384, 393; Ludwig, p. 511; Zimmer, p. 380; Florenz, 273 or 25; Griffith, i. 255; Bloomfield, 3, 468.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/020_yaxmanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against fever
 </details>
+</details>
 </div>
-
-
 ## ०१ अग्नेरिवास्य दहत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm against fever
 अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
+<details open><summary><h3>०१ अग्नेरिवास्य दहत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Of him as of burning fire goeth the vehemence (?); likewise, as it  
 were, shall he crying out go away from me; some other one than us let  
 the ill-behaved one seek; homage be to the heat-weaponed fever.
 
-#### Notes
+##### Notes
 The translation given implies the easy emendation of *śuṣmíṇas* to  
 *śúṣmas*, which eases the meter,\* and helps the sense out of a notable  
 difficulty. The comm. and the translators understand (perhaps  
@@ -73,17 +71,13 @@ accusative, *-tam*. The verse is really a *jagatī* with one redundant
 syllable in **a**. \*⌊The metrical difficulty is in the prior part of  
 **a**; the cadence of **a** is equally good with *śuṣmíṇas* or with  
 *śúṣmas*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He goes away as 'twere from this fierce burning fire, inebriated and lamenting he departs. Let him, the lawless, seek another and not us. Worship be paid to Fever armed with fiery heat.
 </details>
+</details>
 </div>
-
-
 ## ०२ नमो रुद्राय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,27 +93,24 @@ He goes away as 'twere from this fierce burning fire, inebriated and lamenting h
 नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/020_yaxmanAshanam/02_namo_rudrAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
+<details open><summary><h3>०२ नमो रुद्राय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Homage to Rudra, homage be to the fever, homage to king Varuṇa, the  
 brilliant (*tvíṣīmant*), homage to the sky, homage to the earth, homage  
 to the herbs.
 
-#### Notes
+##### Notes
 The Anukr. scans the verse as 12 + 12: 9 + 6 = 39 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/020_yaxmanAshanam/02_namo_rudrAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendid King! Worship to Dyaus, to Earth, worship be paid to Plants!
 </details>
+</details>
 </div>
-
-
 ## ०३ अयं यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/03_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,14 +126,15 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/020_yaxmanAshanam/03_ayaM_yo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/03_ayaM_yo.md">
+<details open><summary><h3>०३ अयं यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thou here who, scorching greatly, dost make all forms yellow—to thee  
 here, the ruddy, the brown, the woody *takmán*, do I pay homage.
 
-#### Notes
+##### Notes
 Ppp. reads, in **a**, *rūras* for *yas;* its **c, d** are *aruṇāya  
 babhrave tapurmaghavāya namo ‘stu takmane*. The comm. understands  
 *ványāya* in **d** as gerundive of root *van* = *saṁsevyāya:* perhaps  
@@ -161,12 +153,10 @@ The second *anuvāka* ends here, having 10 hymns and 32 verses, and the
 quotation from the old Anukr. is simply *dvitīyāu*, which ought to  
 combine with the *prathama* of the first *anuvāka*—only one does not see  
 how, as the two are not equal in number of verses.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/020_yaxmanAshanam/03_ayaM_yo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou who, aglow with heat, makest all bodies green, to thee, red, brown, I bow, the Fever of the wood.
+</details>
 </details>
 </div>

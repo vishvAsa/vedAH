@@ -19,26 +19,23 @@ title = "००४ आकूतिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/004_AkUtiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The second, third, and fourth verses are found in Pāipp. xix.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 261.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/004_AkUtiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer, accompanying sacrifice, for the attainment of a wish
 </details>
+</details>
 </div>
-
-
 ## ०१ यामाहुतिं प्रथमामथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
+<details open><summary><h3>०१ यामाहुतिं प्रथमामथर्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What oblation (*ā́huti*) Atharvan sacrificed first, with what one  
 Jātavedas made an offering, that same do I first call loudly for thee;  
 gratified with that, let Agni carry the offering: hail to Agni.
 
-#### Notes
+##### Notes
 This version represents neither of the edited texts, nor the mss., nor  
 the comm., but is a pure make-shift. SPP. reads in **a-b** *átharvā yā́  
 jātā́ yā́ h-*, and at beginning of **d** *tā́bhi ṣṭuptó v-* (p. *tā́bhiḥ:  
@@ -82,17 +80,13 @@ s.m., which favors the comm. *Johavīmi* possibly comes from root *hu*
 (so BR.) instead of *hū*. We ought to have in **a** *ā́kūtim*, as in the  
 following verses, but it is not easy to reconstruct the verse so as to  
 match that emendation.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Even this I, foremost, with repeated worship, now offer unto thee. May Agni carry the sacrificer's present. Hail to Agni!
 </details>
+</details>
 </div>
-
-
 ## ०२ आकूतिं देवीं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -108,16 +102,17 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 यामा॒शामे॑मि॒ केव॑ली॒ सा मे॑ अस्तु॒ विदे॑यमेनां॒ मन॑सि॒ प्रवि॑ष्टाम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/004_AkUtiH/02_AkUtiM_devIM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/02_AkUtiM_devIM.md">
+<details open><summary><h3>०२ आकूतिं देवीं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Heavenly fortunate design (*ā́kūti*) do I put forward (*puro-dhā*);  
 let the mother of intent (*cittá*) be easy of invocation for us; to what  
 expectation I go, be it entirely mine; may I find it entered into \[my\]  
 mind.
 
-#### Notes
+##### Notes
 Half the mss. accent in **b** *cíttasya;* in **c** and **d**, all have  
 *emi* and ⌊nearly all⌋ *vídeyam*, which SPP. accordingly admits into his  
 text; our *émi* and *vidéyam* are necessary emendations: in such a  
@@ -128,17 +123,13 @@ verse is found also in TB. (in ii. 5. 3²), which reads in **a**
 for *nas*, and for **c, d** *yád icchā́mi mánasā sákāmo vidéyam enad  
 dhṛ́daye níviṣṭam*. Ppp. reads *devyām* in **a**, and *me ‘stu* in **b**  
 ⌊? or **c**?⌋. The first pāda is the only *jagatī* element in the verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/004_AkUtiH/02_AkUtiM_devIM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In front I set Intention, blessed Goddess. Mother of thought, may she be prompt to hear us. Mine, and mine only, be the hope I fashion! May I gain this that hath possessed my spirit.
 </details>
+</details>
 </div>
-
-
 ## ०३ आकूत्या नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,28 +145,25 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/004_AkUtiH/03_AkUtyA_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/03_AkUtyA_no.md">
+<details open><summary><h3>०३ आकूत्या नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. With design to us, O Brihaspati, with design come thou unto us; then  
 assign to us of fortune (*bhága*); then be easy of invocation for us.
 
-#### Notes
+##### Notes
 The comm. has in **c** *dehi*. The definition of the verse as an  
 *anuṣṭubh* has apparently dropped out of the Anukr. Ppp. reads in **d**  
 *subhagas*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/004_AkUtiH/03_AkUtyA_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a share of luck, and so be swift to hear our call.
 </details>
+</details>
 </div>
-
-
 ## ०४ बृहस्पतिर्म आकूतिमाङ्गिरसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -191,15 +179,16 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
+<details open><summary><h3>०४ बृहस्पतिर्म आकूतिमाङ्गिरसः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let Brihaspati acknowledge my design, the son of An̄giras this \[my\]  
 speech; of whom the gods, the deities, came into being, let that desire  
 (*kā́ma*), well-conducting, go after us.
 
-#### Notes
+##### Notes
 *Kā́mas* in **d** is shown both by meter and by sense to be intrusive;  
 also the omission of *vā́cam* in **b** would improve the verse in both  
 respects, making it easier to understand *ān̄girasás* as simply epithet  
@@ -211,12 +200,10 @@ to give any help. Ppp. also combines in **a** *mā ”kūtiṁ*. The comm. has
 *abhy etu* in **d**. The omission of metrical definition by the Anukr.  
 seems due to a lacuna. ⌊If the suspicions resting on *vācam* and *kāmas*  
 are justified, the vs. would scan smoothly as 8 + 11: 11 + 11.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Prajapati Angirasa with favour regard this word and this my settled purpose! May he, whence Gods and Deities had being Kama attend us with his gentle guidance.
+</details>
 </details>
 </div>

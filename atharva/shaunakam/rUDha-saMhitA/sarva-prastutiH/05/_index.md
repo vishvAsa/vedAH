@@ -2,12 +2,9 @@
 title = "+०५"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/_index.md">
+<details open><summary><h2>V. Book the fifth ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book V.
 
@@ -27,7 +24,6 @@ this book (see p. 142); but there are only two such hymns ("hymns" 9 and
 The entire book has been translated by Weber, *Indische Studien*, vol.
 xviii. (1898), pages 154-288. This is the first book to which the native
 commentary is missing.⌋
-
-
+</details>
 </details>
 </div>

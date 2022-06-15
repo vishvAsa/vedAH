@@ -19,26 +19,23 @@ title = "०१८ ईर्ष्याविनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/018_IrShyAvinAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used by Kāuś. (36. 25), with vii. 45 and 74. 3, in a rite against jealousy.
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 235; Ludwig, p. 514; Florenz, 270 or 22; Grill, 28, 159; Griffith, i. 254; Bloomfield, 106, 467.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/018_IrShyAvinAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to banish jealousy
 </details>
+</details>
 </div>
-
-
 ## ०१ ईर्ष्याया ध्राजिं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjiM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A charm to banish jealousy
 अ॒ग्निं हृ॑द॒य्यं॑१ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjiM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjiM.md">
+<details open><summary><h3>०१ ईर्ष्याया ध्राजिं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The first blast of jealousy, and the one after the first, the fire,  
 the heat of the heart—this we extinguish for thee.
 
-#### Notes
+##### Notes
 Ppp. has readings in part better: for **b**, *madhyamām adhamām uta;*  
 for *agnim* in **c**, *satyaṁ;* at end, *nir mantrayāmahe*. The comm.  
 explains *dhrājim* by *vegayuktāṁ gatim*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjiM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The first approach of Jealousy, and that which followeth the first, The pain, the fire that burns within thy heart we quench and drive away.
 </details>
+</details>
 </div>
-
-
 ## ०२ यथा भूमिर्मृतमना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,28 +85,25 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
+<details open><summary><h3>०२ यथा भूमिर्मृतमना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. As the earth \[is\] dead-minded, more dead-minded than a dead man,  
 and as \[is\] the mind of one who has died, so of the jealous man the  
 mind \[be\] dead.
 
-#### Notes
+##### Notes
 "Feeling" would be in this verse an acceptable equivalent for *manas*  
 'mind.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Even as the earth is dead to sense, yea, more unconscious than the dead, Even as a corpse's spirit is the spirit of the jealous man.
 </details>
+</details>
 </div>
-
-
 ## ०३ अदो यत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -128,15 +119,16 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/018_IrShyAvinAshanam/03_ado_yat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/03_ado_yat.md">
+<details open><summary><h3>०३ अदो यत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  3. That fluttering mind (*manaská*) that has found place in (*śritá*)  
 thy heart—from it I set free thy jealousy, like the hot vapor from a bag  
 of skin.
 
-#### Notes
+##### Notes
 The translation implies at the end the emendation (first proposed in  
 BR.) of the apparently senseless *nṛ́tes* into *dṛ́tes*, which the comm.  
 reads, and which SPP. has accordingly admitted into his text; the result  
@@ -145,12 +137,10 @@ intended. Ppp., however, has *nṛtes*, although it gives sundry various
 readings (in part mere corruptions): for **a**, *yad yan me hṛdi  
 srukaṁ;* in **b**, *prathayiṣṇukam;* in **c**, *taṁ te riṣyāmi mu-*. The  
 comm. divides **b** into *manas kam patayiṣṇu kam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/018_IrShyAvinAshanam/03_ado_yat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The thought that harbours in thy heart, the fluttering doubt that dwells therein. Yea, all thy jealousy, like heat born of the dance, I banish thence.
+</details>
 </details>
 </div>

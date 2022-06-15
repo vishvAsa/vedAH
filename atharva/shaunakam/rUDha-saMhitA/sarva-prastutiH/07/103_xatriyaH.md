@@ -19,24 +19,19 @@ title = "१०३ क्षत्रियः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/103_xatriyaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Paipp. xx. Used by Kāuś. (59. 19) with hymn 17 etc. (see under 17).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, AJP. xvii. 408-9.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/103_xatriyaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ को अस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/103_xatriyaH/01_ko_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,27 +47,26 @@ Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, 
 को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/103_xatriyaH/01_ko_asyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/01_ko_asyA.md">
+<details open><summary><h3>०१ को अस्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What Kshatriya, seeking betterment, shall lead us up out of this  
 reproachful hate—who that desires sacrifice, or who that desires  
 bestowal? who wins long life-time among the gods?
 
-#### Notes
+##### Notes
 This is apparently the appeal of a Brahman seeking employment (so Ludwig  
 also). The comm. (also Ppp.) reads *vanate* in **d**; he gives  
 alternative conjectural explanations, and tries, of course, on account  
 of the repeated *ka*, to bring the verse into connection with Prajāpati  
 (Ka). Ppp. further has *no ‘syā* in **a**, and *kaṣ pūr. ko yaj.* in  
 **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/103_xatriyaH/01_ko_asyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 What princely warrior, seeking higher fortune, will free us from this shameful fiend of mischief? What friend of sacrifice? What guerdon-lover? Who winneth: 'mid the Gods a long existence?
+</details>
 </details>
 </div>

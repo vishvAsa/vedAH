@@ -19,26 +19,23 @@ title = "००१ शत्रुसेनासंमोहनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iii., next after the one which here follows it. In Kāuś. (14. 17), this hymn and the next are called mohanāni 'confounders,' and are used in a rite (14. 17-21) for confounding an enemy's army; its details have nothing to do with those of the hymns.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 518; Weber, xvii. 180; Griffith, i. 81; Bloomfield, 121, 325.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer or charm for the defeat and destruction of enemies in battle
 </details>
+</details>
 </div>
-
-
 ## ०१ अग्निर्नः शत्रून्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,31 +51,28 @@ A prayer or charm for the defeat and destruction of enemies in battle
 स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUn.md">
+<details open><summary><h3>०१ अग्निर्नः शत्रून् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let Agni, knowing, go against our foes, burning against the  
 imprecator, the niggard; let him confound (*mohaya-*) the army of our  
 adversaries (*pára*); and may Jātavedas make them handless.
 
-#### Notes
+##### Notes
 Ppp. makes *śatrūn* and *vidvān* in **a** change places. SPP. reports  
 that the text used by the comm. reads *ṇaḥ* after *agnir* both here and  
 in 2. 1 **a**. The comm. signalizes the beginning of the book by giving  
 absurd etymologies of *agni* at the length of nearly a page. Pāda **c**  
 lacks a syllable, unless we allow ourselves to resolve *sé-na-ām.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the wise Agni go against our foemen, burning against ill-will and imprecation Let him bewilder our opponents' army, Let Jatavedas smite and make them handless.
 </details>
+</details>
 </div>
-
-
 ## ०२ यूयमुग्रा मरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,16 +88,17 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 अमी॑मृण॒न् वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्येऽषां दू॒तः प्र॒त्येतु॑ वि॒द्वान्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
+<details open><summary><h3>०२ यूयमुग्रा मरुत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Ye, O Maruts, are formidable for such a plight; go forward upon  
 \[them\], kill, overcome! The Vasus have killed \[them\]; suppliant  
 \[are\] these; for let Agni, their messenger, go against \[their foes\],  
 knowing.
 
-#### Notes
+##### Notes
 The second half-verse is rendered literally as it stands, but is  
 certainly badly corrupt. Ppp. has *amīmṛcdaṁ vasavo nāthitebhyo agnir hy  
 eṣāṁ vidvān pratyetu śatrūn*, which is much more acceptable: *nāth-*  
@@ -124,17 +119,13 @@ the vs., putting *mṛḍáyata* for *mṛṇáta* in **b** and reading **c, d**
 thus: *ámīmṛḍan vásavo nāthitā́so agnír hí śatrū́n pratyéti vídhyan.* Cf.  
 Bloomfield, 326.—Roth gives (in his notes) *mṛḍata* for *mṛṇata* and (in  
 his collation) *yeṣām* for *hy eṣām*, as Ppp. readings.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy them. The Vasus slew, and these were left imploring. Wise Agni as our messenger assail them!
 </details>
+</details>
 </div>
-
-
 ## ०३ अमित्रसेनां मघवन्नस्मान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,14 +141,15 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAn.md">
+<details open><summary><h3>०३ अमित्रसेनां मघवन्नस्मान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The army of enemies, O bounteous one, playing the foe against us—do  
 ye (two), O Vṛtra-slaying Indra, Agni also, burn against them.
 
-#### Notes
+##### Notes
 The verse is found also as SV. ii. 1215, which reads *chatruyatī́m* in  
 **b**, and begins **c** with *ubhāú tā́m* (*tā́m* is read by the comm.,  
 and is called for as an emendation in our verse); it also has the  
@@ -165,17 +157,13 @@ correct accent *amitrasenā́m*, which is found in only two of our mss. (O.
 Op.) and three of SPP's; both editions read *-sénām.* In our text,  
 *āgníś* in **d** is a misprint for *agníś.* ⌊SPP. combines *asmā́n ch-*,  
 badly: cf. i. 19. 4, note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you, against these men, the foeman's host that threatens us.
 </details>
+</details>
 </div>
-
-
 ## ०४ प्रसूत इन्द्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -191,16 +179,17 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क् स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
+<details open><summary><h3>०४ प्रसूत इन्द्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Impelled, O Indra, forwards (? *pravátā*) by thy (two) bays—let thy  
 thunderbolt go forth, slaughtering (*pra-mṛ*) the foes; smite the  
 on-coming, the following, the fleeing (*párāñc*); scatter their actual  
 intent.
 
-#### Notes
+##### Notes
 The verse is RV. iii. 30. 6; which, however, reads at the beginning *prá  
 sū́ te* (as does also the comm.), accents in **c** *pratīcó anūcáḥ* (and  
 the comm. claims the same for our text), and has for **d** *víśvaṁ  
@@ -214,17 +203,13 @@ quite obscure. The comm. takes *satyam* as "established, settled," and
 to take *viṣvak-* as something like 'contrariwise,' with the general  
 sense "turn their plans against themselves." Ppp. has further *nūaḥ* for  
 *anūcas* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying foes, O Indra! Slay those who fly, slay those who stand and follow. On every side fulfil these men's intention.
 </details>
+</details>
 </div>
-
-
 ## ०५ इन्द्र सेनां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/05_indra_senAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -240,30 +225,27 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/05_indra_senAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/05_indra_senAM.md">
+<details open><summary><h3>०५ इन्द्र सेनां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. O Indra, confound the army of our enemies; with the blast of fire, of  
 wind, make them disappear, scattering.
 
-#### Notes
+##### Notes
 The defective first half-verse is completed by Ppp. in this form:  
 *manomohanaṁ kṛṇva* (i.e. *kṛṇavas?*) *indrā ’mitrebhyas tvam.* The  
 second half-verse is also 2. 3 **c, d**. The comm. explains *dhrājyā* by  
 *dahanaviṣaye yā vegitā gatis tathāvidhayā vegagatyā tayor eva vā  
 gatyā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/05_indra_senAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive them away to every side.
 </details>
+</details>
 </div>
-
-
 ## ०६ इन्द्रः सेनां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -279,23 +261,22 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 चक्षूं॑स्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/001_shatrusenAsaMmohanam/06_indraH_senAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/06_indraH_senAM.md">
+<details open><summary><h3>०६ इन्द्रः सेनां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let Indra confound the army; let the Maruts slay with force; let Agni  
 take away its eyes; let it go back conquered.
 
-#### Notes
+##### Notes
 All the mss. read *índra*, vocative, at the beginning of the verse; but  
 SPP's text, as well as ours, emends to *índraḥ s-;* and this the comm.  
 also has. The comm. further in **c** *dhattām* instead of *dattām.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/001_shatrusenAsaMmohanam/06_indraH_senAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Indra daze their army. Let the Maruts slay it with their might. Let Agni take their eyes away, and let the conquered host retreat.
+</details>
 </details>
 </div>

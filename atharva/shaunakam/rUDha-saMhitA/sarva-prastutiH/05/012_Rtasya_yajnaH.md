@@ -19,22 +19,19 @@ title = "०१२ ऋतस्य यज्ञः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The only variant in this verse is that MS. omits the peculiar and problematic accent of váha in c.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 An Apri or propitiatory hymn
 </details>
+</details>
 </div>
-
-
 ## ०१ समिद्धो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,29 +47,26 @@ An Apri or propitiatory hymn
 आ च॒ वह॑ मित्रमहश्चिकि॒त्वान्त्वं दू॒तः क॒विर॑सि॒ प्रचे॑ताः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
+<details open><summary><h3>०१ समिद्धो अद्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Kindled this day in the home of man (*mánus*), thou, a god, O  
 Jātavedas, dost sacrifice to the gods; and do thou bring \[them\],  
 understanding it, O thou of friendly might; thou art a forethoughtful  
 messenger, poet.
 
-#### Notes
+##### Notes
 The only variant in this verse is that MS. omits the peculiar and  
 problematic accent of *váha* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/01_samiddho_adya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas. Observant, bright as Mitra, bring them hither. Thou art a sapient and foreknowing envoy.
 </details>
+</details>
 </div>
-
-
 ## ०२ तनूनपात् पथ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/02_tanUnapAt_patha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,33 +82,30 @@ Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas
 मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृ॒न्धन् दे॑व॒त्रा च॑ कृणुह्यध्व॒रं नः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/02_tanUnapAt_patha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/02_tanUnapAt_patha.md">
+<details open><summary><h3>०२ तनूनपात् पथ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Tanūnapāt (son of thyself?), do thou, anointing with honey  
 (*mádhu*) the roads that go to righteousness (*ṛtá*), sweeten them, O  
 well-tongued one; prospering (*ṛdh*) with prayers (did) the devotions  
 (*mánman*) and the sacrifice, put (*kṛ*) thou also among the gods our  
 service (*adhvará*).
 
-#### Notes
+##### Notes
 The mss. accent, without assignable reason, *svadáyā* in **b**, but the  
 edition emends to *svadayā*, in agreement with the other texts.  
   
 The three Yajus-texts insert between this verse and the next an  
 alternative invocation to Narāśaṅsa (RV. vii. 2. 2).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/02_tanUnapAt_patha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, make them pleasant. Bear to the Gods our sacrifice, exalting with holy thoughts our hymns of praise and worship.
 </details>
+</details>
 </div>
-
-
 ## ०३ आजुह्वान ईड्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -130,32 +121,29 @@ Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, m
 त्वं दे॒वाना॑मसि यह्व॒ होता॒ स ए॑नान् यक्षीषि॒तो यजी॑यान्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
+<details open><summary><h3>०३ आजुह्वान ईड्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Making oblation do thou, O Agni, to be praised and to be greeted,  
 come in accord with the Vasus. Thou art invoker (*hótṛ*) of the gods, O  
 youthful one (? *yahvá*); do thou, sent forth, skilled sacrificer  
 (*yájīyaṅs*), sacrifice to them.
 
-#### Notes
+##### Notes
 *Ajúhvāna* in **a** is perhaps to be understood as passive (= *ā́huta*),  
 'receiving oblation.' There are no variants. The Anukr. absurdly calls  
 this verse a *pan̄kti*, because, by omitting resolutions of semivowels  
 etc., it is capable of being read as 40 syllables. The Anukr's of RV.  
 and VS. both reckon it as *triṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/03_AjuhvAna_IDyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus. Thou art, O youthful Lord, the Gods' Invoker, so, best of sacri- ficers, bring them quickly.
 </details>
+</details>
 </div>
-
-
 ## ०४ प्राचीनं बर्हिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,30 +159,27 @@ Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus.
 व्युऽप्रथते वित॒रं वरी॑यो दे॒वेभ्यो॒ अदि॑तये स्यो॒नम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
+<details open><summary><h3>०४ प्राचीनं बर्हिः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The forward *barhís*, through the fore-region of the earth, is  
 wreathed on this dawn (*vástu*), at the beginning (*ágra*) of the days;  
 it spreads out abroad more widely, pleasant to the gods, to Aditi.
 
-#### Notes
+##### Notes
 'Forward' and 'fore-region,' i.e. 'eastward' and 'east.' All our mss.  
 read *vṛjyase* in **b**, but the edition makes the necessary emendation  
 to *-te*, in accordance with the four other texts, and the translation  
 given implies *-te*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/04_prAchInaM_barhiH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when dawns are breaking. Widely it spreads around and far extended, fair for the Gods and bringing peace and freedom,
 </details>
+</details>
 </div>
-
-
 ## ०५ व्यचस्वतीरुर्विया वि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -210,29 +195,26 @@ By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when
 देवी॑र्द्वारो बृहतीर्विश्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
+<details open><summary><h3>०५ व्यचस्वतीरुर्विया वि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Expansive let them open (*vi-śri*) widely, like wives adorned for  
 their husbands; ye great, divine, all-furthering doors, be ye favorable  
 to the advance of the gods.
 
-#### Notes
+##### Notes
 Our *pada*-text divides the last word as *su-prāyanā́ḥ,* while the RV.  
 *pada* has *supra-ayanā́ḥ;* the meter appears to indicate that  
 *suprayāṇā́ḥ* is the true original reading.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/05_vyachasvatIrurviyA_vi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the expansive Doors be widely opened, like wives who deck their beauty for their husbands. Lofty, celestial, all-impelling Portals, admit the Gods and give them easy entrance!
 </details>
+</details>
 </div>
-
-
 ## ०६ आ सुष्वयन्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -248,30 +230,27 @@ Let the expansive Doors be widely opened, like wives who deck their beauty for t
 दि॒व्ये योष॑णे बृह॒ती सु॑रु॒क्मे अधि॒ श्रियं॑ शुक्र॒पिशं॒ दधा॑ने ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
+<details open><summary><h3>०६ आ सुष्वयन्ती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let Dawn and Night, dripping (? *suṣvay-*), worshipful, close, sit  
 down here in the lair (*yóni*)—the two heavenly, great, well-shining  
 women, putting on beauty (*śrī́*) with bright adornment.
 
-#### Notes
+##### Notes
 The other texts differ from ours only by accenting *úpāke*. ⌊The comment  
 to Prāt, ii. 91 cites *suṣvay* as a case of reduplication; and BR. vii.  
 1142 connect it with *su* 'impel.' But see Weber.—He renders *ā́* by  
 'Heran.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/06_A_suShvayantI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Pouring sweet dews let holy Night and Morning, each close to each, be seated at their station,-- Lofty, celestial Dames with gold to deck them, assuming all their fair and radiant beauty.
 </details>
+</details>
 </div>
-
-
 ## ०७ दैव्या होतारा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -287,29 +266,26 @@ Pouring sweet dews let holy Night and Morning, each close to each, be seated at 
 प्र॒चो॒दय॑न्ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑ दि॒शन्ता॑ ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
+<details open><summary><h3>०७ दैव्या होतारा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The (two) invokers of the gods, first, well-voiced, shaping (*mā*)  
 the sacrifice for man (*mánus*) to sacrifice, urging forward at the  
 councils (*vidátha*) the (two) singers (*kārú*), pointing out forward  
 light through the fore-region.
 
-#### Notes
+##### Notes
 There are no variants. ⌊Griffith, after Mahīdhara, takes the "light" as  
 the *āhavanīya* fire.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/07_daivyA_hotArA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to worship, As singers who inspire us in assemblies, showing the eastern light with their direction!
 </details>
+</details>
 </div>
-
-
 ## ०८ आ नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/08_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,15 +301,16 @@ Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to
 ति॒स्रो दे॒वीर्ब॒र्हिरेदं स्यो॒नं सर॑स्वतीः॒ स्वप॑सः सदन्ताम्॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/08_A_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/08_A_no.md">
+<details open><summary><h3>०८ आ नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Unto our sacrifice let Bhāratī come quickly, let Iḍā, taking note  
 here in human fashion; let the three goddesses, well-working, sit upon  
 this pleasant *barhís*—\[also\] Sarasvatī.
 
-#### Notes
+##### Notes
 The translation implies in **d** the reading *sárasvatī*, given by  
 RV.VS.MS.; TB. ⌊both ed's, Bibl. Ind. and Poona⌋ supports AV. in reading  
 *-tīḥ*, which, however, can hardly be anything but a blunder. The four  
@@ -344,17 +321,13 @@ from *manuṣyavat*. As being, therefore, the indubitable AV. reading, it
 should not have been altered in our edition to *-ṣvát*, to conform with  
 the four other texts, even though doubtless a corruption of *-ṣvát*.  
 ⌊SPP. also alters it.⌋ ⌊In **c**, correct *davī́r* to *devī́r*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/08_A_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Bharati come quickly to our worship and Ila showing like a human being. So let Sarasvati and both her fellows, deft Goddesses, on this fair grass be seated.
 </details>
+</details>
 </div>
-
-
 ## ०९ य इमे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/09_ya_ime.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -370,28 +343,25 @@ Let Bharati come quickly to our worship and Ila showing like a human being. So l
 तम॒द्य हो॑तरिषि॒तो यजी॑यान् दे॒वं त्वष्टा॑रमि॒हय॑क्षि वि॒द्वान्॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/09_ya_ime.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/09_ya_ime.md">
+<details open><summary><h3>०९ य इमे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. To him, god Tvashṭar, who adorned (*piś*) with forms these two  
 generatresses, heaven-and-earth, \[and\] all existences, do thou today,  
 O invoker, sent forth, skilled sacrificer, sacrifice here, understanding  
 it.
 
-#### Notes
+##### Notes
 There are no variants.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/09_ya_ime.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, thou who knowest, Even him who formed these two, the Earth and Heaven, the Parents, with their forms, and every creature.
 </details>
+</details>
 </div>
-
-
 ## १० उपावसृज त्मन्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -407,31 +377,28 @@ Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, tho
 वन॒स्पतिः॑ शमि॒ता दे॒वो अ॒ग्निः स्वद॑न्तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
+<details open><summary><h3>१० उपावसृज त्मन्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. In thy way (? *tmányā*) anointing them, pour thou down upon  
 (*upa-ava-sṛj*) the track of the gods the oblations in due season; let  
 the forest-tree, the queller (*śamitár*), god Agni, relish (*svad*) the  
 oblation with honey, with ghee.
 
-#### Notes
+##### Notes
 'Forest-tree,' doubtless a big name for the sacrificial post. That the  
 'queller' is a separate personage is shown by the plural number of the  
 following verb. ⌊E. Sieg discusses *pā́thas*, Gurupūjakaumudī, 97 ff.;  
 later, Oldenberg, ZDMG. liv. 602.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/10_upAvasRja_tmanyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bring thou to our oblations which thou balmest the companies of Gods in ordered season. Agni, Vanaspati, the Immolator sweeten our offered gifts with meath and butter!
 </details>
+</details>
 </div>
-
-
 ## ११ सद्यो जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -447,16 +414,16 @@ Bring thou to our oblations which thou balmest the companies of Gods in ordered 
 अ॒स्य होतुः॑ प्र॒शिष्यृ॒तस्य॑ वा॒चि स्वाहा॑कृतं ह॒विर॑दन्तु दे॒वाः ॥११॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
+<details open><summary><h3>११ सद्यो जातो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 स॒द्यो जा॒तो व्यऽमिमीत य॒ज्ञम॒ग्निर्दे॒वाना॑मभवत् पुरो॒गाः ।  
 अ॒स्य होतुः॑ प्र॒शिष्यृ॒तस्य॑ वा॒चि स्वाहा॑कृतं ह॒विर॑दन्तु दे॒वाः ॥११॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/012_Rtasya_yajnaH/11_sadyo_jAto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni as soon as he was born made ready the sacrifice and was the Gods' preceder. May the Gods eat our offering consecrated according to this true Priest's voice and guidance.
+</details>
 </details>
 </div>

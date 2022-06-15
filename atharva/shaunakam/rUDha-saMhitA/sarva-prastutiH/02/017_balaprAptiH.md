@@ -19,26 +19,23 @@ title = "०१७ बलप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Not metrical.⌋ Pāipp. has a similar set of phrases in ii. For the use of the hymn by Kāuś. and Vāit, see under hymn 16. It is also, with 15 and others, reckoned by the schol. to Kāuś. (54. 11, note) to the āyuṣya gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 180; Griffith, i. 61.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to an amulet for health and strength
 </details>
+</details>
 </div>
-
-
 ## ०१ ओजोऽस्योजो मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo_asyojo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,30 +49,27 @@ A prayer to an amulet for health and strength
 ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ।१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/01_ojo_asyojo_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/01_ojo_asyojo_me.md">
+<details open><summary><h3>०१ ओजोऽस्योजो मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Force art thou; force mayest thou give me: hail!
 
-#### Notes
+##### Notes
 The Ppp. has no phrase corresponding to this. Some of our mss., as of  
 SPP's, read *dā* instead of *dāḥ* before *svā́hā*, in this hymn and the  
 next, where they do not abbreviate the repetition by omitting both  
 words. The comm. regards them both as addressed to Agni, or else to the  
 article offered (*hūyamānadravyam*). ⌊Cf. MGS. i. 2. 3, and p. 149 and  
 citations.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/01_ojo_asyojo_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Power art thou, give me power. All hail!
 </details>
+</details>
 </div>
-
-
 ## ०२ सहोऽसि सहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho_asi_saho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,25 +83,22 @@ Power art thou, give me power. All hail!
 सहो॑ऽसि॒ सहो॑ मे दाः स्वाहा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/02_saho_asi_saho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/02_saho_asi_saho.md">
+<details open><summary><h3>०२ सहोऽसि सहो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Power art thou; power mayest thou give me: hail!
 
-#### Notes
+##### Notes
 Ppp. has *sahodā agnes saho me dhā svāhā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/02_saho_asi_saho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Might art thou, give me might. All hail!
 </details>
+</details>
 </div>
-
-
 ## ०३ बलमसि बलं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -121,25 +112,22 @@ Might art thou, give me might. All hail!
 बल॑मसि॒ बलं॑ मे दाः॒ स्वाहा॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/03_balamasi_balaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/03_balamasi_balaM.md">
+<details open><summary><h3>०३ बलमसि बलं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Strength art thou; strength mayest thou give me: hail!
 
-#### Notes
+##### Notes
 Ppp. gives *baladā agnir balaṁ me svāhā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/03_balamasi_balaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Strength art thou, give me strength. All hail!
 </details>
+</details>
 </div>
-
-
 ## ०४ आयुरस्यायुर्मे दाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,25 +141,22 @@ Strength art thou, give me strength. All hail!
 आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
+<details open><summary><h3>०४ आयुरस्यायुर्मे दाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Life-time art thou; life-time mayest thou give me: hail!
 
-#### Notes
+##### Notes
 The corresponding phrase in Ppp. is: *āyur asyā āyur me dhā svāhā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Life art thou, give me life. All hail!
 </details>
+</details>
 </div>
-
-
 ## ०५ श्रोत्रमसि श्रोत्रं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotraM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -185,26 +170,23 @@ Life art thou, give me life. All hail!
 श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/05_shrotramasi_shrotraM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/05_shrotramasi_shrotraM.md">
+<details open><summary><h3>०५ श्रोत्रमसि श्रोत्रं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Hearing art thou; hearing mayest thou give me: hail!
 
-#### Notes
+##### Notes
 There are no phrases in Ppp. answering to this and the two following  
 verses; but others with *varcas* and *tejas* as the gifts sought.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/05_shrotramasi_shrotraM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ear art thou, give me hearing! Hail!
 </details>
+</details>
 </div>
-
-
 ## ०६ चक्षुरसि चक्षुर्मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -218,25 +200,21 @@ Ear art thou, give me hearing! Hail!
 चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
+<details open><summary><h3>०६ चक्षुरसि चक्षुर्मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Sight art thou; sight mayest thou give me: hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Eye art thou, give me eyes. All hail!
 </details>
+</details>
 </div>
-
-
 ## ०७ परिपाणमसि परिपाणं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,24 +228,23 @@ Eye art thou, give me eyes. All hail!
 प॒रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/017_balaprAptiH/07_paripANamasi_paripANaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/07_paripANamasi_paripANaM.md">
+<details open><summary><h3>०७ परिपाणमसि परिपाणं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Protection (*paripā́ṇa*) art thou; protection mayest thou give me:  
 hail!
 
-#### Notes
+##### Notes
 The anuvāka ⌊3.⌋ has 7 hymns, with 42 verses; the Anukr. says: *aṣṭonaṁ  
 tasmāc chatārdhaṁ tṛtīye.*  
   
 Here ends also the third *prapāṭhaka.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/017_balaprAptiH/07_paripANamasi_paripANaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Shield art thou, shield me well. All hail
+</details>
 </details>
 </div>

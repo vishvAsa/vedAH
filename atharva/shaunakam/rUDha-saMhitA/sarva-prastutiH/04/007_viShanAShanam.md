@@ -19,26 +19,23 @@ title = "००७ विषनाषनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp., but not all together; vs. 1 occurs in v., vss. 2-6 in ii., and vs. 7 in vi. Not used by Kāuś. unless it is properly regarded by the schol. and the comm. (see under h. 6) as included with h. 6 by the citation (28. 1) of the latter's pratīka (the comm. puts it on the ground of the paribhāṣā rule grahaṇam ā grahaṇāt, Kāuś. 8. 21).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 201; Grill, 28, 121; Griffith, i. 138; Bloomfield, 26, 376; Weber, xviii. 26.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to make a poisonous plant innocuous
 </details>
+</details>
 </div>
-
-
 ## ०१ वारिदं वारयातै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/01_vAridaM_vArayAtai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to make a poisonous plant innocuous
 तत्रा॒मृत॒स्यासि॑क्त॒ तेना॑ ते वारये वि॒षम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/01_vAridaM_vArayAtai.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/01_vAridaM_vArayAtai.md">
+<details open><summary><h3>०१ वारिदं वारयातै ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This water (*vā́r*) shall ward off (*vāray-*) upon the Varaṇāvatī; an  
 on-pouring of ambrosia (*amṛ́ta*) is there; with it I ward off thy  
 poison.
 
-#### Notes
+##### Notes
 The significance of the verse lies in its punning upon *vār* and *var;*  
 the name *varaṇāvatī* is not found elsewhere, but has sufficient  
 analogies elsewhere; it is formed, as the comm. points out, from the  
@@ -70,17 +68,13 @@ tree-name *varaṇa* (*Crataeva Roxburghii*). Ppp. has in **b** a
 different pun: *varuṇād ābhṛtam;* and for **d** it reads *tac cakārā  
 ’rasaṁ viṣam*. The first pāda lacks a syllable, unless we resolve  
 *va-ā́r*. ⌊Cf. x. 3. 1 n.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/01_vAridaM_vArayAtai.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 So may this water guard us on the bank of Varanavati. Therein hath Amrit been infused: with that I ward thy poison off.
 </details>
+</details>
 </div>
-
-
 ## ०२ अरसं प्राच्यंऽविषमरसं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/02_arasaM_prAchyaM_aviShamarasaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,30 +90,27 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 अथे॒दम॑धरा॒च्यं॑ कर॒म्भेण॒ वि क॑ल्पते ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/02_arasaM_prAchyaM_aviShamarasaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/02_arasaM_prAchyaM_aviShamarasaM.md">
+<details open><summary><h3>०२ अरसं प्राच्यंऽविषमरसं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Sapless is the poison of the east, sapless what is of the north;  
 also this that is of the south is exchangeable with gruel (*karambhá*).
 
-#### Notes
+##### Notes
 That is, is no stronger or more harmful than gruel. Except our Bp.,  
 which has *adharā́cyàm*, all the mss. accent *-rā́cyam*, and SPP. follows  
 them; our edition emends to *-rācyàm*, to accord with the two adjectives  
 of like formation in **a, b**. Ppp. puts *arasam* after *viṣam* in  
 **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/02_arasaM_prAchyaM_aviShamarasaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Weak is the poison of the East, weak is the poison of the North, So too this poison of the South counts as a cake of curds and meal.
 </details>
+</details>
 </div>
-
-
 ## ०३ करम्भं कृत्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,15 +126,16 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 क्षु॒धा किल॑ त्वा दुष्टनो जक्षि॒वान्त्स न रू॑रुपः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
+<details open><summary><h3>०३ करम्भं कृत्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Having made gruel of sesame (?), teeming with fat, steaming (?), thou  
 dost not rack, O ill-bodied one, him that has eaten thee merely from  
 hunger.
 
-#### Notes
+##### Notes
 The verse is full of difficulties and doubtful points. The translation  
 implies in **d** emendation of *jakṣivā́nt sá* to *jakṣivā́ṅsam*, as  
 suggested by BR., s.v. *rup* (Grill rejects it, but unwisely); Ppp.  
@@ -180,17 +172,13 @@ Ppp. has *pivassākam;* R. has, p.m., *pibaspā-*, corrected to
 *pībasphā-;* T. has *pīvaspā-*.⌋ ⌊Correct the verse-number: for 6 read  
 3.⌋ \*⌊Or is *nirapa*, at p. 220¹⁴, a variant of *tiriya?* The two are  
 easily confused in *nāgarī*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When he hath made of thee a cake, broad, steaming, swelling up with fat, And even in hunger eaten thee, then gripe him not, thou hideous one!
 </details>
+</details>
 </div>
-
-
 ## ०४ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/04_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -206,15 +194,16 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 प्र त्वा॑ च॒रुमि॑व॒ येष॑न्तं॒ वच॑सा स्थापयामसि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/04_vi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/04_vi_te.md">
+<details open><summary><h3>०४ वि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Away we make thine intoxication fly, like an arrow (*śará*), O  
 intoxicating one (f.); we make thee with our spell (*vácas*) to stand  
 forth, like a boiling pot.
 
-#### Notes
+##### Notes
 The comm. (with a pair of SPP's mss.) reads *śarúm* in **b**\*; it also  
 (alone) has *jeṣantam* (= *prayatamānam*) in **c**; one of our mss.  
 (Op.), with two or three of SPP's, give instead *péṣantam*. Ppp. has a  
@@ -224,17 +213,13 @@ make the ordinary abbreviation of *iva* to *’va* in **b** and **c**.
 'arrow.' BR. render the verb in **d** by 'wegstellen.' When you set the  
 pot aside (take it off the fire), it stops boiling; and so the poison is  
 to stop working. But see also Weber's note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/04_vi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the fire, we with our word remove thee hence.
 </details>
+</details>
 </div>
-
-
 ## ०५ परि ग्राममिवाचितं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/05_pari_grAmamivAchitaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,32 +235,29 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 तिष्ठा॑ वृ॒क्ष इ॑व॒ स्थाम्न्यभ्रि॑खाते॒ न रू॑रुपः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/05_pari_grAmamivAchitaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/05_pari_grAmamivAchitaM.md">
+<details open><summary><h3>०५ परि ग्राममिवाचितं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. With a spell we cause to stand about \[thee\] as it were a collected  
 troop (*grā́ma*); stand thou, like a tree in \[its\] station; spade-dug  
 one (f.), thou rackest not.
 
-#### Notes
+##### Notes
 The comm., here and in 6 **d**, reads *abhriṣāte* (*-ṣāte* = *-labdhe*),  
 which looks like a result of the common confusion of *kh* and *ṣ*. SPP.  
 reads in *pada*-text *rūrupaḥ*, and this time without any report as to  
 the readings of his *pada*-mss.—doubtless by an oversight, as all but  
 one of them give *rur-* in both 3 **d** and 6 **d**. The true scanning  
 of **c** is probably *vṛkṣé ’va sthā́-mn-i*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/05_pari_grAmamivAchitaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet like a rooted tree. Dug up with mattocks, gripe not thou.
 </details>
+</details>
 </div>
-
-
 ## ०६ पवस्तैस्त्वा पर्यक्रीणन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/06_pavastaistvA_paryakrINan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -291,30 +273,27 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 प्र॒क्रीर॑सि॒ त्वमो॑ष॒धेऽभ्रि॑खाते॒ न रू॑रुपः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/06_pavastaistvA_paryakrINan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/06_pavastaistvA_paryakrINan.md">
+<details open><summary><h3>०६ पवस्तैस्त्वा पर्यक्रीणन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. For covers (? *pavásta*) they bought thee, also for garments (?  
 *dūrśá*), for goat-skins; purchasable (? *prakrī́*) art thou, O herb;  
 spade-dug one, thou rackest not.
 
-#### Notes
+##### Notes
 The comm. knows nothing of what *pavasta* and *dūrśa* mean, but  
 etymologizes the former out of *pavana* and *asta* (*pavanāyā ’stāiḥ  
 sammārjanītṛṇāiḥ*), and the other out of *dus* and *ṛśya*  
 (*duṣṭaṛśyasambandhibhiḥ*)! *Prakrīs* he renders by *prakarṣeṇa krītā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/06_pavastaistvA_paryakrINan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For coverings men have bartered thee, for skins of deer and woven cloths. Thou art a thing of sale, O Plant. Dug up with mattocks, gripe not thou!
 </details>
+</details>
 </div>
-
-
 ## ०७ अनाप्ता ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/07_anAptA_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,14 +309,15 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 वी॒रान्नो॒ अत्र॒ मा द॑भ॒न् तद् व॑ ए॒तत्पु॒रो द॑धे ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/007_viShanAShanam/07_anAptA_ye.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/07_anAptA_ye.md">
+<details open><summary><h3>०७ अनाप्ता ये ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Who of you did what first unattained deeds—let them not harm our  
 heroes here; for that purpose I put you forward.
 
-#### Notes
+##### Notes
 This verse occurs again later, as v. 6. 2, and in Ppp. makes a part of  
 that hymn alone. Its sense is very questionable, and its connection  
 casts no light upon it, either here or there; and Grill is justified in  
@@ -349,12 +329,10 @@ and *-mā́*, without intending to imply that the other readings may not be
 equally good; the comm. takes *ánāptāḥ* (= *ananukūlāḥ* ⌊'unkindly'⌋) as  
 qualifying *śatravas* understood, and *prathamā́* as qualifying  
 *kármāṇi*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/007_viShanAShanam/07_anAptA_ye.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 None have attained to those of old, those who wrought holy acts for you. Let them not harm our heroes here. Therefore I set before you this.
+</details>
 </details>
 </div>

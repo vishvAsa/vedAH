@@ -19,26 +19,23 @@ title = "०३९ कुष्ठनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. vii. The viniyoga is the same with that of the preceding hymn. ⌊Whitney, note to Prāt. ii. 67, speaks of the critical bearing of the fact that vs. 1 is cited by the comm. to the Prāt.: see above, p. 896, ¶1.⌋
 
 
-#### Translations
+##### Translations
 Translated: Grohmann, Ind. Stud. ix. 392, 420-422 (parts); Ludwig, p. 198; Bloomfield, 5, 676; Griffith, ii. 295.—Hillebrandt, Ved. Mythol., i. 65-66, discussing the connection of kuṣṭha and soma, cites part of the hymn. Cf. v. 4 and vi. 95.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A protective charm
 </details>
+</details>
 </div>
-
-
 ## ०१ ऐतु देवस्त्रायमाणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ A protective charm
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
+<details open><summary><h3>०१ ऐतु देवस्त्रायमाणः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let the heavenly rescuing *kúṣṭha* come hither from off the snowy  
 \[mountain\]; do thou make vanish all *takmán* and all the sorceresses.
 
-#### Notes
+##### Notes
 Of course, *himávant* may also be rendered 'Himālaya.' ⌊For *-tas pari*,  
 cf. note to Prāt. ii. 67.⌋ Emendation in **c** to *nāśáyan* is suggested  
 as acceptable; ⌊and *nāśayaṁ* is the reading of Ppp., both here and in 5  
 **f**⌋. Some of the mss. read at the beginnings *étu;* the *pada*-mss.  
 have blunderingly *āitu* instead of *ā́: etu;* SPP. emends to the latter.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Consumption, drive all sorceresses far away.
 </details>
+</details>
 </div>
-
-
 ## ०२ त्रीणि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,16 +89,17 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/02_trINi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/02_trINi_te.md">
+<details open><summary><h3>०२ त्रीणि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Three names are thine, O *kúṣṭha:* by-no-means-killing,  
 by-no-means-harming:—by no means may this man take harm, for whom I  
 bespeak (*pari-brū*) thee, at evening and in the morning, likewise by  
 day.
 
-#### Notes
+##### Notes
 In **a**, part of the mss. accent *kúṣṭha*. In **b, c**, SPP. reads  
 *nadyamāró nadyā́riṣaḥ: nádyā ’yám* etc. There is hardly any ms. that  
 distinguishes *dya* and *gha* in such a manner that confidence can be  
@@ -142,17 +137,13 @@ it both times later; in this verse, our edition follows the mss., but
 SPP's the Anukr. In **d**, all the mss. give *pári bra-*; SPP. follows  
 us in emending the accent to *paribrávīmi*. The comm. repeats *nadyā  
 ’yam puruṣo riṣat* a second time.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/02_trINi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap befall this man, For whom I make a charm of thee at eve, at morning, and by day.
 </details>
+</details>
 </div>
-
-
 ## ०३ जीवला नाम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -170,29 +161,26 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
+<details open><summary><h3>०३ जीवला नाम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. "Lively" by name is thy mother; "living" by name is thy father:—by no  
 means may etc. etc.
 
-#### Notes
+##### Notes
 All the mss., the comm., and Ppp., read in **b** *jīvantás*, and so of  
 course SPP.; there was doubtless no sufficient reason for altering to  
 *jīvalás* in our text. Ppp. adds further, after *pitā*, *mārṣa nāma te  
 svasā*. With **a, b** compare i. 24. 3 **a, b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </details>
+</details>
 </div>
-
-
 ## ०४ उत्तमो अस्योषधीनामनड्वान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -210,29 +198,26 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAn.md">
+<details open><summary><h3>०४ उत्तमो अस्योषधीनामनड्वान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thou art the highest (*uttamá*) of herbs, as the draft-ox of moving  
 creatures (*jágat*), as the tiger of beasts of prey:—by no means may  
 etc. etc.
 
-#### Notes
+##### Notes
 ⌊Pādas **a-c** are repeated from viii. 5. 11: see note.⌋ Ppp. combines  
 *uttamo ‘sy oṣ-*. It repeats in the refrain its readings *asmāi* and  
 *divaḥ* (see note to vs. 2).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou art the best amid the plants, even as the ox is best of tame, the tiger of rapacious beasts: let not mishap, etc.
 </details>
+</details>
 </div>
-
-
 ## ०५ त्रिः शाम्बुभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -252,16 +237,17 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
+<details open><summary><h3>०५ त्रिः शाम्बुभ्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Thrice from the śāmbus, from the An̄girases, thrice from the Ādityas,  
 thrice from the All-Gods art thou born; this all-healing *kúṣṭha* stands  
 along with soma; do thou make vanish all the *takmán* and all the  
 sorceresses.
 
-#### Notes
+##### Notes
 All the authorities ⌊save Ppp.⌋ agree in *śā́mbubhyas*, and our  
 alteration to *bhṛ́gubhyas* is not to be approved. All our  
 *saṁhitā*-mss., and the majority of SPP's *saṁhitā*-authorities, with  
@@ -275,17 +261,13 @@ has *-bheṣaja*, in **e** *tiṣṭhasi*, in **f** *nāśayaṁ* (as in 1 **c**
 SPP., probably by an oversight, inserts a stroke of interpunction  
 between **d** and **e**; it is against the Anukr., and our mss. do not  
 have it.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, born from the Visve Devas thrice, Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.
 </details>
+</details>
 </div>
-
-
 ## ०६ अश्वत्थो देवसदनस्तृतीयस्यामितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -305,15 +287,16 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
+<details open><summary><h3>०६ अश्वत्थो देवसदनस्तृतीयस्यामितो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. The *aśvatthá*, seat of the gods, in the third heaven from here:  
 there \[is\] the sight (*cákṣaṇa*) of immortality; thence was born the  
 *kúṣṭha*.
 
-#### Notes
+##### Notes
 This verse and the next correspond nearly with v. 4. 3, 4 (repeated as  
 vi. 95. 1, 2). Most of the mss. accent in **d** *kuṣṭhás*. SPP. adds to  
 this verse and the next the last four pādas of vs. 5, as a refrain  
@@ -323,17 +306,13 @@ on the authority of these two alone, or whether some of his mss. also
 intimate it, he does not state; not one of our mss. gives any sign of  
 it. ⌊Ppp. has *jayatāt saḥ:* presumably answering to the end of pāda  
 **d** of the Berlin ed.; but Roth's Collation is not quite clear.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In the third heaven above us stands the Asvattha tree, the seat of Gods: There is embodiment of life that dies not: thence was Kushtha born.
 </details>
+</details>
 </div>
-
-
 ## ०७ हिरण्ययी नौरचरद्धिरण्यबन्धना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,27 +332,24 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<details open><summary><h3>०७ हिरण्ययी नौरचरद्धिरण्यबन्धना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. A golden ship, of golden tackle, moved about in the sky; there \[is\]  
 the sight etc. etc.
 
-#### Notes
+##### Notes
 As to the correspondence and the extent of this verse, see the note to  
 vs. 6. Ppp. reads *hiraṇyena nāur* ⌊and omits **c, d**⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 There moved through heaven a golden ship, a ship with cordage wrought of gold: There is embodiment of life that dies not; thence was Kushtha born.
 </details>
+</details>
 </div>
-
-
 ## ०८ यत्र नावप्रभ्रंशनं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -393,15 +369,16 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanaM.md">
+<details open><summary><h3>०८ यत्र नावप्रभ्रंशनं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Where there is no falling downward (?), where the head of the snowy  
 \[mountain\], there is the sight of immortality; thence was born the  
 *kúṣṭha:*—this all-healing *kúṣṭha* etc. etc. (as vs. 5).
 
-#### Notes
+##### Notes
   
   
   
@@ -422,17 +399,13 @@ modern Brāhmaṇa-legend of Manu's flood—as is done in our text, by Weber
 in his notes to *Die Fluthsage* (*Ind. Streifen* i. 11), and by others  
 elsewhere ⌊cf. Griffith's note⌋. Ppp. reads ⌊*sa*⌋ *yatra navaṣ  
 paribhraśanaṁ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embodiment of life that dies not: thence was Kustha born. Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.
 </details>
+</details>
 </div>
-
-
 ## ०९ यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -448,14 +421,15 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 यं वा॒ वसो॑ यमात्स्य॒स्तेनासि॑ वि॒श्वभे॑षजः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/09_yaM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/09_yaM_tvA.md">
+<details open><summary><h3>०९ यं त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Thou whom Ikshvāku of old knew, or thou whom Kushṭhakāmya \[knew\],  
 whom Vāyasa, whom Mātsya—thereby art thou all-healing.
 
-#### Notes
+##### Notes
 There is almost nothing here that is not very questionable. Only the  
 comm. has *ikṣvākus* in **a**; the majority of mss. give *íṣvākas*, but  
 some (which SPP. follows) *íkṣvākas*. In **b** the *pada*-mss. divide  
@@ -468,17 +442,13 @@ Yama's"!); here emendation is a rather desperate undertaking; the
 translation follows the conjectures of our text ⌊but with *íkṣvākur* in  
 **a**⌋. Ppp. reads, in **a-c**, *pūrvakṣvāko yaṁ vā tvā kuṣṭikāś ca  
 ahiśyāvaso anusāricchas tenā-* etc.—too corrupt to give any help.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/09_yaM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa and Matsya knew, hence healer of all ills art thou.
 </details>
+</details>
 </div>
-
-
 ## १० शीर्षलोकं तृतीयकं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -494,15 +464,16 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakaM.md">
+<details open><summary><h3>१० शीर्षलोकं तृतीयकं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. The head-paining, the tertian, ⌊and⌋ that which is constant, is  
 hibernal—the *takmán*, O thou of power in every direction, do thou impel  
 (*sū*) away downward.
 
-#### Notes
+##### Notes
 The last half-verse is identical with v. 22. 3 **c, d**, above. The mss.  
 read in **a** *śīrṣalokám* (p. *-ṣa॰lo-*); and the comm. understands it  
 as two words, *śīrṣa lokam*, translating "they call thy head the third  
@@ -515,12 +486,10 @@ found elsewhere in the text (i. 25. 4: v. 22. 13), and SPP. follows the
 majority and adopts *tṛtī́-*. SPP. is also inconsistent in writing in  
 *pada*-text *sadam॰díḥ* but in *saṁhitā*-text *sadandír;* Ppp. has  
 instead *sadantī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O thou who hast all-reaching might drive away Fever, drive it down, racking Fever, tertian, continual, lasting for a year.
+</details>
 </details>
 </div>

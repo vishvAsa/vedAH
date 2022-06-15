@@ -19,24 +19,19 @@ title = "११७ आनृण्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/117_AnRNyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xvi. The hymn ⌊not 1 cd, 2 cd⌋ occurs in TB. (iii. 7. 98-9), and parts of it elsewhere, see under the verses. ⌊For 1 and 3, see also v. Schroeder, Tübinger Kaṭha-hss., p. 70 and 61.⌋ Hymns 117-119 are used in Kāuś. (133. 1) in the rite in expiation of the portent of the burning of one's house; and Keś. (to Kāuś. 46. 36) quotes them as accompanying the satisfaction of a debt after the death of a creditor, by payment to his son or otherwise; the comm. gives (as part of the Kāuś. text) the pratīka of 117. ⌊For the whole anuvāka, see under h. 114.⌋ In Vāit. (24. 15), in the agniṣṭoma, h. 117 goes with the burning of the vedi.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 444; Griffith, i. 309.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/117_AnRNyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ अपमित्यमप्रतीत्तं यदस्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न् वि॒चृतं॑ वेत्थ॒ सर्वा॑न्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
+<details open><summary><h3>०१ अपमित्यमप्रतीत्तं यदस्मि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What I eat (?) that is borrowed, that is not given back; with what  
 tribute of Yama I go about—now, O Agni, I become guiltless (*anṛṇá*) as  
 to that; thou knowest how to unfasten all fetters.
 
-#### Notes
+##### Notes
 The translation implies emendation of *ásmi* to *ádmi* in **a**; this is  
 suggested by *jaghasa* in vs. 2, and is adopted by Ludwig also; but  
 possibly *apratīttam asmi* might be borne as a sort of careless vulgar  
@@ -86,17 +82,13 @@ the *pratīka* in this form: *yat kusīdam apamityam apratītam*. Ppp.
 reads for **a, b** *apamṛtyum apratītaṁ yad asininnasyena*, etc., and,  
 for **d**, *jīvanna ena prati dadāmi sarvam* (nearly as TA. **d**,  
 above). The comm. takes *balinā* as = *balavatā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That which I eat, a debt which still is owing, the tribute due to Yama, which supports me, Thereby may I be free from debt, O Agni. Thou knowest how to rend all bonds asunder.
 </details>
+</details>
 </div>
-
-
 ## ०२ इहैव सन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -112,15 +104,16 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 अ॒प॒मित्य॑ धा॒न्यं॑१ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/117_AnRNyam/02_ihaiva_santaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/02_ihaiva_santaH.md">
+<details open><summary><h3>०२ इहैव सन्तः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Being just here we give it back; living, we pay it in (*ni-hṛ*) for  
 the living; what grain I have devoured having borrowed \[it\], now, O  
 Agni, I become guiltless as to that.
 
-#### Notes
+##### Notes
 With the first half-verse nearly agrees TB. (as above; also ĀpśS., as  
 above), which reads, however, *tád yātayāmas* for *dadma enat*. The  
 comm. has *dadhmas* for *dadmas* in **a**; he explains *ni harāmas* by  
@@ -129,17 +122,13 @@ comm. has *dadhmas* for *dadmas* in **a**; he explains *ni harāmas* by
 kṛṇotu*. *Apamítyam* in this verse also would be a more manageable form,  
 as meaning 'what is to be measured (or exchanged) off,' i.e. in  
 repayment. *Jaghā́sa* in our text is a misprint for *-ghás-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/117_AnRNyam/02_ihaiva_santaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Still dwelling here we give again this present; we send it forth, the living from the living. Throwing away the grain whence I have eaten, thereby shall I be free from debt, O Agni.
 </details>
+</details>
 </div>
-
-
 ## ०३ अनृणा अस्मिन्ननृणाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -155,15 +144,16 @@ Still dwelling here we give again this present; we send it forth, the living fro
 ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न् प॒थो अ॑नृ॒णा आ क्षि॑येम ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
+<details open><summary><h3>०३ अनृणा अस्मिन्ननृणाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Guiltless in this \[world\], guiltless in the higher, guiltless in  
 the third world may we be; the worlds traversed by the gods and  
 traversed by the Fathers—all the roads may we abide in guiltless.
 
-#### Notes
+##### Notes
 The verse is found in TB. (iii. 7. 9⁸⁻⁹), TA. (ii. 15⁴), and ĀpśS.  
 (xiii. 22. 5), with *-miṅs tṛ-* at junction of **a** and **b** (except  
 in TB. as printed), with *utá* inserted before *pitṛyā́ṇās* and *ca  
@@ -175,12 +165,10 @@ out that it has here both a sacred and a profane meaning, applying to
 what one owes to his fellow-men, and what duties to the gods. Ppp.  
 combines *anṛṇā ’smin* in **a**, and has the readings of TB. etc. in  
 **c**, and *adīma* for *ā kṣiyema* at the end.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May we be free in this world and that yonder, in the third world may we be unindebted. May we, debt-free, abide in all the pathways, in all the worlds which Gods and Fathers visit.
+</details>
 </details>
 </div>

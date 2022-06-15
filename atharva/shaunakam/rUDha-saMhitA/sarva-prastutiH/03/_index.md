@@ -2,12 +2,9 @@
 title = "+०३"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/_index.md">
+<details open><summary><h2>III. Book the third ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book III.
 
@@ -21,7 +18,6 @@ p. 178. The possibility of critical reduction to the norm is well
 illustrated by hymn 31—compare pages 1 and 37. The whole book has been
 translated by Weber, *Indische Studien*, vol. xvii. (1885), pages
 177-314.⌋
-
-
+</details>
 </details>
 </div>

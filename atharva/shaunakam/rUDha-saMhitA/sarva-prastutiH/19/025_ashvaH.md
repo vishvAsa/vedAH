@@ -19,26 +19,23 @@ title = "०२५ अश्वः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/025_ashvaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The verse is not found in Pāipp. The comm. finds it quoted in Nakṣ. K. 17-18, in a mahāśānti ceremony called gāndharvī, on occasion of the loss (kṣaya) of a horse.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 282.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/025_ashvaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to be used when a young ox is first yoked
 </details>
+</details>
 </div>
-
-
 ## ०१ अश्रान्तस्य त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to be used when a young ox is first yoked
 उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/025_ashvaH/01_ashrAntasya_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/01_ashrAntasya_tvA.md">
+<details open><summary><h3>०१ अश्रान्तस्य त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. I harness (*yuj*) thee with the mind of one that is unwearied and  
 that is first; be thou an up-carrier uphill; having carried up, then run  
 thou back.
 
-#### Notes
+##### Notes
 The real sense of the hymn is very obscure; neither the *viniyoga* nor  
 the comm. casts any light upon it. ⌊SPP. regards the comm. as taking  
 *utkūlamudvaho* as one word;⌋ the comm. reads *bhavas* for *bhava:* and  
@@ -73,12 +71,10 @@ sufficiently motived; the minor Pet. Lex. has *utkūlám*, which is more
 in accordance with general analogies. Fully half the mss. accent  
 *úduhya*. In our text, *bháva* (in **c**) is a misprint for *bhava* (an  
 accent-mark fallen out).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/025_ashvaH/01_ashrAntasya_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I yoke thee with the mind of one unwearied still and first of all. Be thou a bearer up the hill: run hither bearing up thy load.
+</details>
 </details>
 </div>

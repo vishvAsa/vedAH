@@ -19,26 +19,23 @@ title = "०५७ सरस्वती"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/057_sarasvatI/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The two verses are both found in Pāipp. xx., but in different places. In Kāuś. (46. 6) it is joined with v. 7. 5 in a rite for success when asking for something (the schol. and comm. specify both verses as employed).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 446; Henry, 22, 84; Griffith, i. 354.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/057_sarasvatI/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for some physical disorder
 </details>
+</details>
 </div>
-
-
 ## ०१ यदाशसा वदतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm for some physical disorder
 यदा॒त्मनि॑ त॒न्वोऽमे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद् घृ॒तेन॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/057_sarasvatI/01_yadAshasA_vadato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/01_yadAshasA_vadato.md">
+<details open><summary><h3>०१ यदाशसा वदतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What has gone wrong (*vi-kṣubh*) on the part of me speaking with  
 expectation, what of \[me\] going about among people begging, what in  
 myself of my body is torn apart—that may Sarasvatī fill up with ghee.
 
-#### Notes
+##### Notes
 Ppp. arranges differently the matter in **a, b**: *yad aśasā me carato  
 janāṅ anu yad yācamānasya vadato vicukṣubhe;* and it has a different  
 **c**: *yan me tanvo rajasi praviṣṭam;* further, it reads *pṛṇād* in  
@@ -71,17 +69,13 @@ of **c**; our Bp.W.I.O.s.m.T.K. and the comm. have *tád;* both editions
 give *yád*. Some of our mss. (Bp.E.D.O.p.m.) have *sárasvati* in **d**,  
 and one (E.) has correspondingly *pṛṇa*. Both verses are irregular  
 *jagatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/057_sarasvatI/01_yadAshasA_vadato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever trouble hath disturbed and shaken me--I speak with hope, I move, imploring, 'mid the folk What harm my body in myself hath suffered, now let Sarasvati relieve with fatness.
 </details>
+</details>
 </div>
-
-
 ## ०२ सप्त क्षरन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/02_sapta_xaranti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,16 +91,17 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अस्य पुष्यतः ॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/057_sarasvatI/02_sapta_xaranti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/02_sapta_xaranti.md">
+<details open><summary><h3>०२ सप्त क्षरन्ति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Seven flow for the Marut-accompanied young one (*śíśu*); for the  
 father the sons have made to understand righteous things; both indeed  
 bear rule over this of both kinds; both strive, both prosper (*puṣ*) of  
 it.
 
-#### Notes
+##### Notes
 The verse is RV. x. 13. 5; but RV. reads *ṛtám* at end of **b**, and  
 twice (in **c, d**) *ubháyasya* for *ubhé asya*. The translation follows  
 the RV. reading in **c**. "Both," it is to be noticed (in **c, d**), is  
@@ -118,12 +113,10 @@ same is given by our M.W.I. Ppp. has a text that is partly different and
 partly corrupt: *sapta sravanti śiśavo marutvate pitā pitrebhyo apy  
 avīvat padvataḥ: ubhaye piprati ubhaye ‘sya rājahi ubhe ubhe ubhaye ‘sya  
 piṣyakaḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/057_sarasvatI/02_sapta_xaranti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Seven flow for him, the youth on whom the Maruts wait: the sons have taught the Father everlasting laws. Both worlds are his: both shine belonging unto him. Both move together: both, as his possession thrive.
+</details>
 </details>
 </div>

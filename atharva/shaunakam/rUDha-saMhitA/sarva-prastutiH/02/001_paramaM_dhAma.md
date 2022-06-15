@@ -19,26 +19,23 @@ title = "००१ परमं धाम"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. ii., and parts of it in other texts, as pointed out under the several verses. ⌊Von Schroeder gives what may be called a Kaṭha-recension of nearly all of it in his Tübinger Kaṭha-hss., pp. 88, 89.⌋ Used by Kāuś. (37. 3) in addressing various articles out of whose behavior afterward signs of success or the contrary, and the like oracular responses, are to be drawn (the comm. gives them in a more expanded detail). And Vāit. (29. 14) applies vs. 3 in the upavasatha rite of the agnicayana.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 129; Ludwig, p. 393; Scherman, Philosophische Hymnen, p. 82; Deussen, Geschichte, i.1 253; Griffith, i. 41.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Glorification of the prime cause of all things
 </details>
+</details>
 </div>
-
-
 ## ०१ वेनस्तत् पश्यत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/01_venastat_pashyat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,21 +51,24 @@ Glorification of the prime cause of all things
 इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्यऽनूषत॒ व्राः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/01_venastat_pashyat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/01_venastat_pashyat.md">
+<details open><summary><h3>०१ वेनस्तत् पश्यत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-वे॒नस्तत् प॑श्यत् पर॒मं गुहा॒ यद् यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
-इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्यऽनूषत॒ व्राः ॥१॥  
+##### Translation
+1 . Vena (the longing one?) saw that which is highest in secret, where everything becomes of one form; this the spotted one (pṛ́çni) milked [when] born; the heaven-(svàr-)knowing troops (vrá) have shouted at it.
+
+##### Notes
+A bit of labored obscurity, like the verses that follow; books iv. and v. begin similarly; no attempt will be made here to solve the riddles. The comm. explains at great length (nine 4to pages), but evidently without any traditional or other understanding; he guesses and etymologizes this way and that, giving in part wholly discordant alternative interpretations. In this verse he first takes véna as = Āditya; and then, after a complete exposition on this basis, he says: yadvā: venaḥ parjanyātmā madhyamasthāno devaḥ, and gives another; pṛçni to him is "the common name of sky and sun." The translation given implies emendation in c of jā́yamānās to -nā; but the epithet might belong to vrā́s (so Ludwig and the comm.), or be the second object of aduhat (so Weber). The variants of the parallel versions of other texts make the impression (as often in other cases) of rather aimless stumbling over matters not understood.
+
+VS. (xxxii. 8) and TA. (x. 1. 3) have the first half-verse: VS. reads in a paçyan níhitaṁ gúhā sád, and TA. páçyan víçvā bhúvanāni vidvā́n; both have ékanīḍam at end of b. The pratīka is quoted in ÇÇS. xv. 3. 8, with the addition iti pañca, apparently referring to this hymn. Ppp. has padam for guhā in a, ekanaḍam in b, dhenur for pṛçnis in c (with -nās at the end), and, for d, svarvido 'bhyanuktir virāṭ. The phrase abhy ànūṣata vrā́ḥ occurs also in RV. iv. 1. 16 d; Pischel (Ved. Stud. ii. 121 ⌊and 321⌋) takes vrā́s to mean "women"; the comm. etymologizes it as āvṛtātmānaḥ prajāḥ. ⌊Cf. RV. x. 123. 2.⌋
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/01_venastat_pashyat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vena beholds That Highest which lies hidden, wherein this All resumes one form and fashion. Thence Prisni milked all life that had existence: the hosts that know the light with songs extolled her.
 </details>
+</details>
 </div>
-
-
 ## ०२ प्र तद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/02_pra_tad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -84,15 +84,16 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/02_pra_tad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/02_pra_tad.md">
+<details open><summary><h3>०२ प्र तद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. May the Gandharva, knowing of the immortal, proclaim that highest  
 abode that is in secret; three quarters (*padá*) of it \[are\] deposited  
 in secret; whoso knoweth them, he shall be the father's father.
 
-#### Notes
+##### Notes
 Ppp. begins with *pṛthag* (for *pra tad*), and for *amṛtasya* has *-taṁ  
 na*, probably intending the *amṛ́taṁ nú* of VS. (xxxii. 9) and TA. (x. 1.  
 3-4: TA. reads also *voce*). In **b**, TA. gives *nā́ma* (for *dhā́ma*);  
@@ -106,17 +107,13 @@ at the beginning. Prāt. ii. 73 prescribes the combination *pitúṣ p-* (in
 and part of SPP's, read *-túḥ p-* instead. To make a good *triṣṭubh*  
 pāda, we must resolve *pṛ-d* at the beginning. ⌊Hillebrandt, *Ved.  
 Mythol.* i. 433, discusses the verse.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/02_pra_tad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Knowing Eternity, may the Gandharva declare to us that highest secret station. Three steps thereof lie hidden in the darkness: he who knows these shall be the father's father.
 </details>
+</details>
 </div>
-
-
 ## ०३ स नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/03_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -132,15 +129,16 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/03_sa_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/03_sa_naH.md">
+<details open><summary><h3>०३ स नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. He, of us the father, the generator, and he the connection  
 (*bándhu*), knoweth the abodes, the beings all; who of the gods is the  
 sole nomenclator, of him all beings come to inquire.
 
-#### Notes
+##### Notes
 Here, as usual elsewhere ⌊cf. BR. iv. 1088, citations from TB., TS.,  
 AB.⌋, *-praśnam* is of infinitival value. Ppp. begins quite differently:  
 *sa no bandhur janitā sa vidhartā dhārmaṇi veda* etc.; its **c, d** are  
@@ -158,17 +156,13 @@ given by the comm. and by nearly half of SPP's authorities; the latter's
 text, however, agrees with ours. The verse is no *jagatī* at all, but,  
 if we make the frequent (RV.) combination *só 'tá* in **c**, a perfectly  
 regular *triṣṭubh.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/03_sa_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He is our kinsman, father, and begetter: he knows all beings and all Ordinances. He only gave the Gods their appellations: all creatures go to him to ask direction.
 </details>
+</details>
 </div>
-
-
 ## ०४ परि द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -184,15 +178,16 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॒३षो अ॒ग्निः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
+<details open><summary><h3>०४ परि द्यावापृथिवी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. About heaven-and-earth at once I went; I approached (*upa-sthā*) the  
 first-born of righteousness (*ṛtá*), abiding in beings as speech in the  
 speaker; eager (?) is he; is he not Agni (fire)?
 
-#### Notes
+##### Notes
 Of this verse, only the first pāda is found in VS. (xxxii. 12 **a**) and  
 TA. (x. i. 4), VS. reading *itvā́* for *āyam,* and TA. having at the end  
 *yanti sadyáḥ*. Ppp. has for first half *pari viśvā bhuvanāny āyam  
@@ -207,17 +202,13 @@ our mss. no other reading than *úpa:* *atiṣṭhe;* but S PP. gives *úpa:*
 accent) is an impossible form ⌊*Skt. Gr.* §1083 a⌋ this is perhaps  
 simply a blunder in his text; the comm., with a minority of SPP's mss.,  
 has *-tiṣṭhet.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have gone forth around the earth and heaven, I have approached the first-born Son of Order. He, putting voice, as 'twere, within the speaker, stands in the world, he, verily is Agni.
 </details>
+</details>
 </div>
-
-
 ## ०५ परि विश्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,16 +224,17 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/001_paramaM_dhAma/05_pari_vishvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/05_pari_vishvA.md">
+<details open><summary><h3>०५ परि विश्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Around all beings I went, the web (*tántu*) of righteousness  
 stretched out for beholding, where the gods, having attained immortality  
 (*amṛ́ta*) bestirred themselves (?*īraya-*) upon the same place of union  
 (*yóni*).
 
-#### Notes
+##### Notes
 The proper rendering of **d** is especially doubtful, but *ádhi*, by its  
 independent accent (which is established by Prāt. iv. 5), is clearly  
 only a strengthener of the locative sense of *yónāu*. In **b**, perhaps  
@@ -256,12 +248,10 @@ abhy āírayanta.* Ppp. has as vs. 5 something quite different: for **a**,
 for **b**, our own **b**; for **c**, d *devo devatvam abhirakṣamāṇas  
 samānaṁ bandhuṁ viparicchad ekaḥ*. The first pāda requires the harsh  
 resolution *vi-śu-ā* to make it full ⌊*víśvāni* would be easier⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/001_paramaM_dhAma/05_pari_vishvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I round the circumjacent worlds have travelled to see the far- extended thread of Order. Wherein the Gods, obtaining life eternal, have risen upward to one common birthplace.
+</details>
 </details>
 </div>

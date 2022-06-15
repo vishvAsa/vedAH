@@ -19,22 +19,19 @@ title = "०१४ वस्युनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 By the connection, the obscure words in the first half-verse should be names of individual sadānvās, but dhiṣā́ṇam (the translation implies emendation to -ṇām) is masculine (or neuter), and dhṛṣṇúm (for which Ppp. reads dhiṣṇyam) not distinctively feminine. Nissālā́ (SPP's text reads, with the saṁhitā-mss. generally, niḥsā-: p. niḥ॰sālā́m) is taken by the letter of the text, as if from niḥ-sālay = niḥ-sāray; the comm. gives first this derivation, but spoils it by adding as alternative "originating from the sāla, a kind of tree." R. suggests niḥsālam "out of the house," adverb. The comm. shamelessly derives dhiṣaṇam from dhṛṣ, and explains it as "a seizer with evil, so named"; he also takes -vādya as = vacana. All our pada-mss. commit the gross blunder of dividing jighat॰svàm, as if the word were a compound; SPP. lets the division stand in his pada-text. Ppp. reads in c napatiyas.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to banish vermin and noxious creatures
 </details>
+</details>
 </div>
-
-
 ## ०१ निःसालां धृष्णुं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNuM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A charm to banish vermin and noxious creatures
 सर्वा॒श्चण्ड॑स्य न॒प्त्योऽ ना॒शया॑मः स॒दान्वाः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/01_niHsAlAM_dhRShNuM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNuM.md">
+<details open><summary><h3>०१ निःसालां धृष्णुं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The expeller, the bold, the container, the one-toned, the  
 voracious—all the daughters (*naptī́*) of the wrathful one, the  
 *sadā́nvās*, we make to disappear.
 
-#### Notes
+##### Notes
 By the connection, the obscure words in the first half-verse should be  
 names of individual *sadānvās*, but *dhiṣā́ṇam* (the translation implies  
 emendation to *-ṇām*) is masculine (or neuter), and *dhṛṣṇúm* (for which  
@@ -73,17 +71,13 @@ named"; he also takes *-vādya* as = *vacana.* All our *pada*-mss. commit
 the gross blunder of dividing *jighat॰svàm*, as if the word were a  
 compound; SPP. lets the division stand in his *pada*-text. Ppp. reads in  
 **c** *napatiyas.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/01_niHsAlAM_dhRShNuM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sadanvas, and all progeny of Chanda we exterminate.
 </details>
+</details>
 </div>
-
-
 ## ०२ निर्वो गोष्ठादजामसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,15 +93,16 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
+<details open><summary><h3>०२ निर्वो गोष्ठादजामसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Out of the cow-stall we drive you, out of the axle, out of the  
 wagon-body (?); out of the houses we expel you, ye daughters (*duhitṛ́*)  
 of *magundī*.
 
-#### Notes
+##### Notes
 The comm. understands *upānasā́t* (for which two of our mss., P.M., read  
 *upamānasā́t*) to mean "a granary"—or else "a wagon full of grain"; and  
 *ákṣa* "a gambling house." He does not venture to etymologize *magundī*,  
@@ -116,17 +111,13 @@ but calls it simply the name of a certain *piśācī*. The *pada*-mss. read
 the corrupt *nir yoninnṛpānaca*, ⌊in **c** *magundyā*⌋, and at end of  
 **d** *cātayāmasi.* The Anukr. takes notice of the metrical irregularity  
 of **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We drive you forth from cattle-shed, from axle, from within the wain, Ye daughters of Magundi, we frighten and chase you from out homes.
 </details>
+</details>
 </div>
-
-
 ## ०३ असौ यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,14 +133,15 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 तत्र॑ से॒दिर्न्युऽच्यतु॒ सर्वा॑श्च यातुधा॒न्यः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/03_asau_yo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/03_asau_yo.md">
+<details open><summary><h3>०३ असौ यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Yon house that is below—there let the hags be; there let debility  
 (*sedí*) make its home (*ni-uc*), and all the sorceresses.
 
-#### Notes
+##### Notes
 Ppp. has a different version of the first three pādas: *amuṣminn adhare  
 gṛhe sarvā svaṅta rāyaḥ: tatra pāpmā ni yacchatu.* The comm. renders  
 *sedi* by *nirṛti.*  
@@ -159,17 +151,13 @@ gṛhe sarvā svaṅta rāyaḥ: tatra pāpmā ni yacchatu.* The comm. renders
 were the impossible *ni-ucyantu*, accentless); nor do the mss. of SPP.:  
 but in his text, he here employs the stroke, like "long ſ" or the sign  
 of integration, which does distinguish them.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/03_asau_yo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Yonder let the Arayis dwell, there where that house is down below. Let utter indigence and all the Yatudhanis settle there.
 </details>
+</details>
 </div>
-
-
 ## ०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -185,15 +173,16 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 गृ॒हस्य॑ बु॒ध्न आसी॑ना॒स्ता इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
+<details open><summary><h3>०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the lord of beings drive out, also Indra, from here the  
 *sadā́nvās*, sitting on the bottom of the house; let Indra subdue them  
 with the thunderbolt.
 
-#### Notes
+##### Notes
   
   
   
@@ -207,17 +196,13 @@ ii., would reduce the hymn to the norm of the second book. Ppp. (in v.)
 rectifies the meter of **d** by omitting *indras.* The metrical  
 definition of the Anukr. is mechanically correct. The comm. understands  
 *bhūtapati* to designate Rudra.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt quell those who sit upon our dwelling's floor.
 </details>
+</details>
 </div>
-
-
 ## ०५ यदि स्थ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,31 +218,28 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/05_yadi_stha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/05_yadi_stha.md">
+<details open><summary><h3>०५ यदि स्थ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. If ye are of the endemic (? *kṣetriyá*) ones, or if sent by men; if  
 ye are born from the barbarians (*dásyu*)—disappear from here, O  
 *sadā́nvās.*
 
-#### Notes
+##### Notes
 All the mss., both here and in the next verse, accent at the end  
 *sadā́nvās*, though the word is plainly a vocative, and is so understood  
 by the comm. (who says nothing of the accent, and indeed in general pays  
 no heed to it); SPP. retains the manuscript reading. Ppp. has for **a**  
 *yā devā gha kṣetriyād*, and for **c** *yad astu daśvibho jātā.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/05_yadi_stha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung from Dasyu race, vanish, Sadanvas, and begone.
 </details>
+</details>
 </div>
-
-
 ## ०६ परि धामान्यासामाशुर्गाष्ठामिवासरन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -273,15 +255,16 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
+<details open><summary><h3>०६ परि धामान्यासामाशुर्गाष्ठामिवासरन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. I have gone around the abodes (*dhāman*) of them as a swift \[steed  
 about\] a race-course; I have won (*ji*) all your races (*ājí*);  
 disappear from here, O *sadā́nvās.*
 
-#### Notes
+##### Notes
 The translation implies the evidently necessary emendation *asaram* at  
 end of **b**; Ppp. has it, and also the comm.; both editions give  
 *asaran*, with all the mss. But Ppp. agrees with the mss. in giving just  
@@ -289,12 +272,10 @@ before it the false reading *gā́ṣṭhām* for *kā́-* (our text emends, but
 by an oversight, gives *-śúr* instead of *-śúḥ* before it); and SPP.  
 retains *gā́-*. The comm. has instead *glā́ṣṭhām*, and explains it as "the  
 further goal, where one stops (*sthā*) wearied (*glāna*)."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have gone round their homes as runs a fleet-foot racer round the post, And in all races conquered you. Vanish, Sadanvas, and begone.
+</details>
 </details>
 </div>

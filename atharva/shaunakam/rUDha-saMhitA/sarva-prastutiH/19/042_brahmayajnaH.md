@@ -19,26 +19,23 @@ title = "०४२ ब्रह्मयज्ञः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/042_brahmayajnaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Only fragments of this hymn are found in Pāipp.; ⌊Roth's Collation says that the hymn probably stood somewhere near the beginning⌋. No viniyoga is given.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 298.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/042_brahmayajnaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In praise of Brahma, Prayer, or Devotion
 </details>
+</details>
 </div>
-
-
 ## ०१ ब्रह्म होता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ In praise of Brahma, Prayer, or Devotion
 अ॒ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/042_brahmayajnaH/01_brahma_hotA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/01_brahma_hotA.md">
+<details open><summary><h3>०१ ब्रह्म होता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The *bráhman* is invoker (*hótṛ*) the *bráhman* is the sacrifice; by  
 the *bráhman* the sacrificial posts are set up; the officiating priest  
 (*adhvaryú*) is born from the *bráhman;* within the *bráhman* is put the  
 oblation.
 
-#### Notes
+##### Notes
   
   
   
@@ -87,17 +85,13 @@ equally acceptable. \*⌊W. seems to have in mind such a construction as
 *tád antár asya sárvasya*, at Īśā Upanishad, vs. 5. If so, I do not see  
 why he says that, if we read *bráhmaṇas*, we must also read  
 *antárhitam*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/042_brahmayajnaH/01_brahma_hotA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was the Adhvaryu born, from Brahma hidden offering.
 </details>
+</details>
 </div>
-
-
 ## ०२ ब्रह्म स्रुचो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,16 +109,17 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 श॒मि॒ताय॒ स्वाहा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/042_brahmayajnaH/02_brahma_srucho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/02_brahma_srucho.md">
+<details open><summary><h3>०२ ब्रह्म स्रुचो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The *bráhman* is the sacrificial spoons filled with ghee; by the  
 *bráhman* is the sacrificial hearth set up (*ud-dhā*) and the *bráhman*  
 is the essence (*tattvá*) of the sacrifice—the priests that are  
 oblation-makers: ⌊to the slaughtered \[victim\] hail!⌋
 
-#### Notes
+##### Notes
 To the verse corresponds one in TB. ii. 4. 7¹⁰, which, however, has for  
 **b** our 1 **b** (as noted above), and in **c** *yajñásya tántavaḥ*,  
 and lacks the addition after **d**. In our text is left in **a**  
@@ -145,17 +140,13 @@ reading *tán-*, the un-Vedic look of *tattvam*, the *ṛ́caḥ prā́ñcas
 tántavas* of AV. xv. 3. 6, and the TB. parallel, all join in suggesting  
 that the true reading is *yajñásya tántavas*.⌋ In the appendix to the  
 verse, the comm. reads *sammitāya*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/042_brahmayajnaH/02_brahma_srucho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is worship, lengthened rite, the Rishis who pay sacrifice, the victim's Immolators. Hail!
 </details>
+</details>
 </div>
-
-
 ## ०३ अंहोमुचे प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -171,16 +162,17 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॑भाय स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/042_brahmayajnaH/03_aMhomuche_pra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
+<details open><summary><h3>०३ अंहोमुचे प्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. To him who frees from distress I bring forward my devotion  
 (*manīṣā́*), unto him who rescues well, choosing to myself his favor;  
 accept, O Indra, this oblation; let the desires of the sacrificer be  
 realized.
 
-#### Notes
+##### Notes
 Or (at the end) 'come true.' A corresponding verse is found in TS. (in  
 i. 6. 12³) and in MS. (in iv. 12. 3). In **a** both read *bharemā* ⌊p.  
 *-ma*⌋ *manīṣā́m*, thus rectifying the meter; and Ppp. does the same; for  
@@ -202,17 +194,13 @@ have *imám;* and it is confirmed by TS.MS., which give *idám*, and by
 W's subsequently collated O., and apparently also by his L. But SPP.  
 prints *imám* without note of variant; and the comm. has *imam*, which  
 he makes = *idam* in the sense of *idānīm!*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/042_brahmayajnaH/03_aMhomuche_pra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his favour. Accept this offering of mine, O Indra. Fulfilled be all the sacri- ficer's wishes!
 </details>
+</details>
 </div>
-
-
 ## ०४ अंहोमुचं वृषभं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabhaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -228,16 +216,17 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/042_brahmayajnaH/04_aMhomuchaM_vRShabhaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabhaM.md">
+<details open><summary><h3>०४ अंहोमुचं वृषभं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Him who frees from distress, the bull of the worshipful, him that  
 shines forth (*vi-rāj*), the first of the sacrifices (*adhvará*), the  
 child of the waters, O Aśvins, I call with prayer (*dhī́*); do ye with  
 Indra give me Indra-like force.
 
-#### Notes
+##### Notes
 A corresponding verse in TS. (in i. 6. 12³) reads thus: *prá samrā́jam  
 prathamám adhvarā́ṇām aṅhomúcaṁ vṛṣabháṁ yajñíyānām: apā́ṁ nápātam aśvinā  
 háyantam asmín nara indriyáṁ dhattam ójaḥ*. It helps us least in the  
@@ -248,12 +237,10 @@ The translation follows our emendation (*aśvinā*, with TS.; *dhiyé
 *aśvināu huve dhiya indriyeṇa na indriyaṁ dhattam ojaḥ*. The comm. has  
 *dhiyam* and *dhattām* (but his text, according to SPP., reads  
 *dhattam*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/042_brahmayajnaH/04_aMhomuchaM_vRShabhaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chief of sacrifices, I call the Waters' Child and both the Asvins, Vigour is mine, and strength bestowed by Indra.
+</details>
 </details>
 </div>

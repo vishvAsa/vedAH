@@ -19,26 +19,23 @@ title = "०२८ स्वस्ति"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/028_svasti/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. To this hymn, as to the preceding, Kāuś. pays no attention; but it is used twice by Vāit.: once in the parvan ceremony (4. 12), as the hotar unties the veda-bunch; and once in the agniṣṭoma (13. 2), in connection with the prayaṇīya iṣṭi.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 19; Henry, 11, 65; Griffith, i. 341.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/028_svasti/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Praise of the sacrificial utensils
 </details>
+</details>
 </div>
-
-
 ## ०१ वेदः स्वस्तिर्द्रुघणः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ Praise of the sacrificial utensils
 ह॒वि॒ष्कृतो॑ य॒ज्ञिया॑ य॒ज्ञका॑मा॒स्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
+<details open><summary><h3>०१ वेदः स्वस्तिर्द्रुघणः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The *vedá* \[is\] well-being, the tree-smiter well-being; the rib  
 \[is\] sacrificial hearth (*védi*), the ax our well-being;  
 oblation-making, worshipful, lovers of the offering, let those gods  
 enjoy this offering.
 
-#### Notes
+##### Notes
 The first half-verse corresponds to the initial clauses of TS. iii. 2.  
 4¹: *sphyáḥ svastír vighanáḥ svastíḥ párśur védiḥ paraśúr naḥ svastíḥ*.  
 By the *vedá* is doubtless here meant the bunch of sacred grass so  
@@ -85,12 +83,10 @@ reading (like TS.) *svastiḥ* at end of **b**. ⌋Discussions of
 Bloomfield, ib. xlviii. 546; Franke, WZKM. viii. 342.⌋ ⌊In **b**, Ppp.  
 reads *paraśur vediṣ paraśu nas svasti*, and, in **d**, *havir idaṁ* for  
 *yajñam imaṁ.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hatchet bless us. Worshipful Gods, may they accept this worship, lovers of sacri- fice, and sacrificers.
+</details>
 </details>
 </div>

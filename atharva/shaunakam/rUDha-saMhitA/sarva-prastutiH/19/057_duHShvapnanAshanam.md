@@ -19,26 +19,23 @@ title = "०५७ दुःष्वप्ननाशनम्"
 [Yama.—pañcatam. dāuṣvapnyam. trāiṣṭubham: 1. anuṣṭubh; 3 ⌊of Anukr.: = 3 and 4 a. (to mukham) of Berlin ed'n⌋. 3-av. 4-p. triṣṭubh; 4. ⌊of Anukr.: = 4 b to 5 b of Berlin ed'n, that is taṁ tvā svapna to gṛhe⌋. 6-p. uṣṇigbṛhatīgarbhā virāṭśakvarī; 5 ⌊of Anukr.: = 5 c to 6 of Berlin ed'n, that is anāsmākas tad to end of hymn⌋. 3-av. 5-p. paraśākvarā ’tijagatī.⌋
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Partly prose—verses 2, 3, 4, and 6.⌋ Pāipp. has only the first verse (in ii.). The comm. quotes from a Pariśiṣṭa (SPP. is unable to identify the passage) a direction for using it (with vi. 45, 46) to a king who sees bad dreams. ⌊As to the connection of the material of this hymn with that of h. 56, see introd. to h. 56.⌋ ⌊As to the differences of division, see under vss. 3, 4, and 5, and cf. SPP's Critical Notice, vol. i., p. 24.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 468; Griffith, ii. 314.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against evil dreams
 </details>
+</details>
 </div>
-
-
 ## ०१ यथा कलां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/01_yathA_kalAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ A charm against evil dreams
 ए॒वा दु॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/01_yathA_kalAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/01_yathA_kalAM.md">
+<details open><summary><h3>०१ यथा कलां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. As a sixteenth, as an eighth, as a \[whole\] debt they bring  
 together, so do we bring together all evil-dreaming on one who is  
 offensive (*ápriya*).
 
-#### Notes
+##### Notes
 The verse is nearly identical with vi. 46. 3, differing only by  
 substituting *ápriye* in **d** for *dviṣaté*. *Apriye* comes near to the  
 *āptyé* of RV. viii. 47. 17, with which both verses correspond: see note  
 to vi. 46. 3. The comm., in fact, reads *āptye*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/01_yathA_kalAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As men discharge the utmost debt, collect the eighth and sixteenth part, So to the foeman we transfer together all the evil dream.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं राजानो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,15 +87,16 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 सम॒स्मासु॒ यद् दु॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दु॒ष्वप्न्यं॑ सुवाम ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
+<details open><summary><h3>०२ सं राजानो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Kings have gathered (*sam-gā*), debts have gathered, *kuṣṭhás* have  
 gathered, sixteenths have gathered; all evil-dreaming that is in us—let  
 us impel away evil-dreaming to him that hates us.
 
-#### Notes
+##### Notes
 The *pada*-mss. read *sáḥ: mṛṇā́ni* for *sám: ṛṇā́ni*, and *sáḥ: kalā́ḥ*  
 (the *saṁhitā*-mss. also *sá kalā́ ag-*) for *sám: kalā́ḥ;* SPP. follows  
 us in emending in both places to *sám*, which the comm. also has. At the  
@@ -117,17 +112,13 @@ manner collected ill-dreaming is made over to an enemy. That is his
 idea, and a wholly unacceptable one, of the general meaning of the  
 verse. ⌊The verse is prose, no *triṣṭubh;* but may be stretched so as to  
 count as 43 syllables.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Princes came together, debts came together, Kushthas came to- gether, Sixteenths came together. The whole evil dream that hath visited us we send away as a bad dream to the man who hates us.
 </details>
+</details>
 </div>
-
-
 ## ०३ देवानां पत्नीनां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -145,15 +136,16 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/03_devAnAM_patnInAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAM.md">
+<details open><summary><h3>०३ देवानां पत्नीनां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Embryo of the wives of the gods, instrument of Yama, excellent dream;  
 the evil \[dream\] that is mine, that do we send forth to him that hates  
 us.
 
-#### Notes
+##### Notes
 The mss. all read *devā́nām pátnīnāṁ gárbha* (one *pada*-mss. *-bham*)  
 *yamásya kárayo bhadrásvapnaḥ;* the translation implies no further  
 emendation than to *gárbho* and *káraṇo;* ⌊the minor Pet. Lex., iv. 249,  
@@ -171,17 +163,13 @@ add to this verse what in our text is the first division of vs. 4; our
 division is that of our first mss., and is preferable on the ground of  
 the sense. ⌊The prose verse, according to the division of the Anukr.,  
 may be made to count (8 + 10: 13: 13?) as 44 syllables.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/03_devAnAM_patnInAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Child of Gods' Consorts, minister of Yama is the good Dream: that which is my trouble we drive away to the enemy.
 </details>
+</details>
 </div>
-
-
 ## ०४ तं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -197,16 +185,17 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 अ॒ना॒स्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दु॒ष्वप्न्यं॒ यद् गोषु॒ यच्च॑ नो गृ॒हे॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/04_taM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
+<details open><summary><h3>०४ तं त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thee that art "harsh" by name, mouth of the black bird  
 (*-śakúni*)—thee, O sleep, we thus know completely; do thou, O sleep, as  
 a horse a halter, as a horse a girth, scatter him who is not of us, the  
 god-reviler, the mocker.
 
-#### Notes
+##### Notes
 ⌊Prose.⌋ The translation here is of no authority, including various  
 venturesome emendations of the text; it follows our text except at the  
 end, where, instead of *badhāna*, it implies the (unsatisfactory) *vapa*  
@@ -236,17 +225,13 @@ not even a pāda-division after *vápus;* such a division was due in our
 text, however, after *nīnāhám*. ⌊The Anukr. seems to intend to count the  
 verse (*taṁ tvā* to *gṛhe*) as 9 + 9 + 7 + 13 (reading *vapa*): 8 + 8 =  
 54.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/04_taM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, Dream, as such we know thee well. Like a horse art thou, O Dream. As they bind girth and surcingle on a horse, so bind the alien mischief-maker, the scorner of the Gods.
 </details>
+</details>
 </div>
-
-
 ## ०५ अनास्माकस्तद् देवपीयुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/05_anAsmAkastad_devapIyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -264,10 +249,11 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 दु॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/057_duHShvapnanAshanam/05_anAsmAkastad_devapIyuH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/05_anAsmAkastad_devapIyuH.md">
+<details open><summary><h3>०५ अनास्माकस्तद् देवपीयुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. What evil-dreaming is in us, what in our kine, and what in our house,  
 that let him who is not of us, the god-reviler, the mocker, put on like  
 a necklace (*niṣká*).
@@ -275,7 +261,7 @@ a necklace (*niṣká*).
 6. Having measured off nine cubits, forth from that do we divide off to him who hates us all our evil-dreaming.
 
 
-#### Notes
+##### Notes
 ⌊Pādas **a** and **b** are identical with 45. 2 **a, b**, above; and the  
 rest of the verse seems to throw much light on 45. 2 **c, d**: see my  
 note to that verse. In his Collation-Book, Whitney here made a note of  
@@ -294,10 +280,9 @@ mss., after *pári*, as does SPP.⌋
 
 ⌊Prose.⌋ Instead of our _apamā́ya_, the mss., the comm., and SPP. read _ápamayā_ (p. _ápa॰mayāḥ_) how the comm. (or SPP.) would explain it does not appear, as he gives only the general sense of the expression; _asmākaṁ sambandhi duṣvapnyaṁ navāratniparyantam apasāraya_. He reads at the end _apriye saṁ nayāmasi_ (= 1 **d**).
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/057_duHShvapnanAshanam/05_anAsmAkastad_devapIyuH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The evil dream that threatens us, threatens our cattle or our home. That let the scorner of the Gods, the alien mischief-maker bind as a gold jewel round his neck.
+</details>
 </details>
 </div>

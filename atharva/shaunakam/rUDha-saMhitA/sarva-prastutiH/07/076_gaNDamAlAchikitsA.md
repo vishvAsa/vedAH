@@ -19,26 +19,23 @@ title = "०७६ गण्डमालाचिकित्सा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Once more (and for the last time) we followed our first mss. and the anuvāka-endings in reckoning as one hymn what other mss., the Anukr., the comm., etc., and hence SPP., regard as two. The verses (except 2) are found scattered in different parts of Pāipp.: 1 in i.; 3-5 (as two verses) in xix.; 6 in xx. This, and not either our division or SPP's, is in accordance with the sense of the verses: 1-2 concern the apacíts, 3-5 the jāyānya; and 6 is wholly independent. The hymn (that is, doubtless, the first two verses ⌊cf. the comm., p. 45621⌋) is used ⌊with vi. 83 (apacitas) or else vii. 74 (apacitām)—see introd. to hymn 74⌋ by Kāuś. (31. 16) in a remedial ceremony against apacits; and Keś. adds vs. 1 also to ⌊the citation apacitām (which he takes to mean vii. 74. 1 and 2) made in Kāuś.⌋ 32. 8; for the use, according to Keś., of vs. 2, see under hymn 74. The third verse (the comm. says, vss. 3-5) appears also by itself in 32. 11, in a rite against rājayakṣma, with a lute-string amulet. Of vss. 5-6 (= hymn 81) there is no appearance in Kāuś.; but verse 6 is used by Vāit. (16. 14) at the noon pressure of Soma.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 500; Zimmer, p. 377 (vss. 3-5); Bloomfield, JAOS. xiii. p. ccxvii (vss. 1-2), p. ccxv (vss. 3-5) = PAOS. Oct. 1887, or AJP. xi. 324, 320; Henry, 30, 97; Griffith, i. 364; Bloomfield, SBE. xlii. 17, 559.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to cure scrofulous pustules and scrofula
 </details>
+</details>
 </div>
-
-
 ## ०१ आ सुस्रसः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to cure scrofulous pustules and scrofula
 से हो॑रर॒सत॑रा लव॒णाद् विक्ले॑दीयसीः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
+<details open><summary><h3>०१ आ सुस्रसः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. More deciduous (pl.) than the deciduous one, more non-existent than  
 the non-existent ones, more sapless than the *séhu*, more dissolving  
 than salt.
 
-#### Notes
+##### Notes
 Said, of course, of the *apacits*, which are distinctly mentioned in the  
 next verse. The translation implies the emendation of the second  
 *susrásas* to *susrástarās*, suggested by Bloomfield, as helping both  
@@ -77,17 +75,13 @@ seems a mere guess; Henry substitutes *arasāt*. The prefixion of *ā́* to
 *séhos* would rectify the meter. Ppp. gives no help in explaining the  
 verse; it reads, for **a, b**, *nāmann asaṁ svayaṁ srasann asatībhyo  
 vasattarā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than a dried-up bone, swifter than salt to melt away.
 </details>
+</details>
 </div>
-
-
 ## ०२ या ग्रैव्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,30 +97,27 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
+<details open><summary><h3>०२ या ग्रैव्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The *apacíts* that are on the neck, likewise those that are along  
 the sides, the *apacíts* that are on the perineum (? *vijā́man*),  
 self-deciduous.
 
-#### Notes
+##### Notes
 In translating the obscure *vijā́man*, the comm. is followed; he says  
 *viśeṣeṇa jāyate ‘patyam atre ’ti vijāmā guhyapradeśaḥ;* Ludwig renders  
 it "knöchel." *Upapakṣyās* he paraphrases with *upapakṣe pakṣasamīpa  
 upakakṣe bhavāḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules that, falling of themselves, spring up on every twofold limb:
 </details>
+</details>
 </div>
-
-
 ## ०३ यः कीकसाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,15 +133,16 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 निर्हा॒स्तं सर्वं॑ जा॒यान्यं॒ यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
+<details open><summary><h3>०३ यः कीकसाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. He that crushes up the breast-bone (? *kī́kasās*), \[that\] descends  
 to the sole (?)—the whole *jāyánya* have I cast out, also whatever one  
 is set in the top.
 
-#### Notes
+##### Notes
 That is, apparently, has become seated in the head (or the prominence at  
 the base of the neck behind?); Ppp. reads *kaścit kakudhi*. The obscure  
 *talīdyàm* is here translated according to Bloomfield's suggestion in  
@@ -175,17 +167,13 @@ states it thus: *sa ca jāyāsambandhena prāpnoti*, or
 pointing to a venereal disease; R. conjectures gout. \*⌊in fact, R's  
 Collation gives *talābhyam:* W. seems to take it as a slip for  
 *-bhyām*.—Further, this is followed by *upa-*, not *ava-*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have expelled and banished all Scrofula harboured in the head, And that which bores the breast-bone through, and that which settles in the sole.
 </details>
+</details>
 </div>
-
-
 ## ०४ पक्षी जायान्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -201,14 +189,15 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
+<details open><summary><h3>०४ पक्षी जायान्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Having wings, the *jāyánya* flies; it enters into a man; this is the  
 remedy of both, of the *ákṣita* and of the *súkṣata*.
 
-#### Notes
+##### Notes
 Ppp. has in **b** *yā viśati* (i.e. *ya ā v-*) *pāu-*, and lacks **c,  
 d**. The meaning of the words *ákṣita* and *súkṣata* is very doubtful  
 and much disputed. They seem most likely to be two kinds of *jāyānya*,  
@@ -229,17 +218,13 @@ mean distinctively 'cut,' but more nearly 'bruise.' There is no
 variation of reading in the mss. as regards the two words; and it seems  
 extremely unlikely that, if they once agreed, they should have become  
 thus dissimilated.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Scrofula flies borne on by wings: it penerates and holds the man. Here is the cure of either kind, the chronic and the transient.
 </details>
+</details>
 </div>
-
-
 ## ०५ विद्म वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -255,15 +240,16 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
+<details open><summary><h3>०५ विद्म वै ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5 (81. 1). We know, indeed, O *jāyā́nya*, thine origin (*jā́na*), whence,  
 O *jāyā́nya*, thou art born ⌊*jā́yase*⌋; how shouldst thou smite there, in  
 whose house we perform oblation?
 
-#### Notes
+##### Notes
   
   
   
@@ -272,17 +258,13 @@ whose house we perform oblation?
 Ppp. has only **c, d**, as second half-verse to our 4 **a, b**, and  
 reads *tvaṁ hanyād yatra kuryān mahaṁ haviḥ*. ⌊We had our **d** at vi.  
 5. 3 **a**—The new decad begins here: cf. p. 389.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast thou then struck this man here, him in whose house we sacrifice?
 </details>
+</details>
 </div>
-
-
 ## ०६ धृषत् पिब
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShat_piba.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -298,23 +280,22 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/076_gaNDamAlAchikitsA/06_dhRShat_piba.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/06_dhRShat_piba.md">
+<details open><summary><h3>०६ धृषत् पिब ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6 (81. 2). Daringly drink the soma in the mug, O Indra, being a  
 Vritra-slayer, O hero, in the contest for good things; at the midday  
 libation pour \[it\] down; a *dépôt* of wealth, assign wealth to us.
 
-#### Notes
+##### Notes
 The verse is RV. vi. 47. 6; RV. has *rayisthā́nas* in **d**. Ppp. offers  
 no variant.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/076_gaNDamAlAchikitsA/06_dhRShat_piba.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slayer. Fill thyself full at the mid-day libation: thyself possessing riches grant us riches.
+</details>
 </details>
 </div>

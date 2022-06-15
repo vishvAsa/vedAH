@@ -19,26 +19,23 @@ title = "०६१ पूर्णायुः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/061_pUrNAyuH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/061_pUrNAyuH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting, as already pointed out, in the comm. and in Pāipp.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 317.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/061_pUrNAyuH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for long life prosperity and final happiness in heaven
 </details>
+</details>
 </div>
-
-
 ## ०१ तनूस्तन्वा मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/061_pUrNAyuH/01_tanUstanvA_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for long life prosperity and final happiness in heaven
 स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/061_pUrNAyuH/01_tanUstanvA_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/061_pUrNAyuH/01_tanUstanvA_me.md">
+<details open><summary><h3>०१ तनूस्तन्वा मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. A body together with my body. ⌊...⌋ May I attain all my life-time.  
 Sit thou on what is pleasant; fill thyself full, cleansing thyself in  
 heaven (*svargá*).
 
-#### Notes
+##### Notes
 The verse is utterly obscure and disconnected, and we might long for the  
 comm., if we had found that he ever gave any help in such a case. The  
 first clause is translated as corresponding with that in TS. etc. (see  
@@ -72,12 +70,10 @@ and *dántāḥ* (so all the *pada*-mss. and some others) or *datáḥ*, or
 *rádátāḥ* ⌊or *radántāḥ*⌋; SPP. adopts *sahe datáḥ*, to which he might  
 be puzzled to give any meaning. In the second division, SPP. reads with  
 the mss. *syonáṁ me s-*, and *purúḥ pṛ-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/061_pUrNAyuH/01_tanUstanvA_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May my self remain in my body: may I enjoy the full time of life, Rest thee pleasantly: pour forth abundance, purifying thyself in Svarga.
+</details>
 </details>
 </div>

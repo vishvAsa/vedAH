@@ -19,26 +19,23 @@ title = "००१ आत्मा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/001_AtmA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Used by Kāuś. (41. 8), with iii. 20 and v. 7, in a rite for success in gaining wealth; and again (59. 17), with v. 2, in one of the ceremonies for obtaining various objects of desire (kāmyāni), with worship of Indra and Agni.
 
 
-#### Translations
+##### Translations
 Translated: Henry, i, 47; Griffith, i. 327.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/001_AtmA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Glorification of the power of prayer and to Agni
 </details>
+</details>
 </div>
-
-
 ## ०१ धीती वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/01_dhItI_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ Glorification of the power of prayer and to Agni
 तृ॒तीये॑न॒ ब्रह्म॑णा वावृ॒धा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/001_AtmA/01_dhItI_vA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/01_dhItI_vA.md">
+<details open><summary><h3>०१ धीती वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. They either who by meditation led the beginning (*ágra*) of speech,  
 or who by mind spoke righteous things (*ṛtá*)—they, increasing with the  
 third incantation (*bráhman*), perceived (*man*) with the fourth the  
 name of the milch cow.
 
-#### Notes
+##### Notes
 The book, like some of those preceding, begins with mystic, obscure, and  
 un-Atharvanic material. The comm. has no idea what it means, and sets  
 forth his ignorance at immense length, giving about five quarto pages of  
@@ -75,17 +73,13 @@ explanations. The verse occurs also in śśS. (xv. 3. 7), with
 40. 6. The commentary to Prāt. i. 74 quotes *dhītī́* as an *ī*-form with  
 non-*pragṛhya* final, because not locative; and the *pada*-text does not  
 treat it as *pragṛhya*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/001_AtmA/01_dhItI_vA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They who by thought have guided all that Speech hath best, or they who with their heart have uttered words of truth, Made stronger by the strength which the third prayer bestows, have by the fourth prayer learned the nature of the Cow.
 </details>
+</details>
 </div>
-
-
 ## ०२ स वेद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/02_sa_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,16 +95,17 @@ They who by thought have guided all that Speech hath best, or they who with thei
 स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः॑१ स इ॒दं विश्व॑मभवत् स आभ॑वत्॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/001_AtmA/02_sa_veda.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/02_sa_veda.md">
+<details open><summary><h3>०२ स वेद ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. He, \[as a\] son, knows his father, he his mother; he is (*bhuvat*) a  
 son (*sūnú*), he is one of generous returns (? *púnarmagha*); he  
 enveloped the sky, the atmosphere, he the heaven (*svàr*); he became  
 this all; he came to be here (*ā-bhū*).
 
-#### Notes
+##### Notes
 This verse is found also in TS. (ii. 2. 12¹) and TB. (iii. 5. 7²), with  
 difference of reading only in the second half, where they have *āúrṇod  
 antárikṣaṁ sá súvaḥ sá víśvā bhúvo abh-*. Ppp. so far agrees with them  
@@ -120,12 +115,10 @@ as to have, for **d**, *viśvām bhuvo ‘bhavat svābhuvat*. The comm., in
 spite of giving of much wealth to his praisers." The comment to TS. says  
 *punaḥ-punar yajamānāya dātavyaṁ dhanaṁ yasya*. The verse lacks two  
 syllables of being a full *jagatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/001_AtmA/02_sa_veda.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Well knows this son his sire, he knows his mother well: he hath been son, and he hath been illiberal. He hath encompassed heaven, and air's mid-realm, and sky; he hath become this All; he hath come nigh to us.
+</details>
 </details>
 </div>

@@ -20,26 +20,23 @@ title = "००२ कामः"
 [Atharvan.—pañcaviṅśakam. kāmadevatyam. trāiṣṭubham: 5. atijagatī; 7. jagatī; 8. 2-p. ārcī pan̄kti; 11, 20, 23. bhurij; 12. anuṣṭubh; 13. 2-p. ārcy anuṣṭubh; 14, 15, 17, 18, 21, 22. jagatī; 16. 4-p. śakvarīgarbhā parājagatī.]
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Partly prose—"vs." 13.⌋ Found also (except vs. 4) in Pāipp. xvi. ⌊with vs. 16 before 12 and vs. 24 before 20⌋. The hymn (vs. 1) is prescribed in Vāit. 24. 10 to be recited, with homage to Kāma, in a part of the Agniṣṭoma ceremony; and in Kāuś. 49. 1 it (vs. 1) accompanies the release of a bull in a witchcraft ceremony.
 
 
-#### Translations
+##### Translations
 Translated: Muir, v. 404 (nearly all); Ludwig, p. 519; Scherman, Philosophische Hymnen, p. 76 (part); Henry, 84, 118; Griffith, i. 430; Bloomfield, 220, 591.—Cf. Hillebrandt, Veda-Chrestomathie, p. 40.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A glorification of Kama as God of desire of all that is good
 </details>
+</details>
 </div>
-
-
 ## ०१ सपत्नहनमृषभं घृतेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -55,28 +52,25 @@ A glorification of Kama as God of desire of all that is good
 नी॒चैः स॒पत्ना॒न् मम॑ पादय॒ त्वम॒भिष्टु॑तो मह॒ता वी॒र्येऽण ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
+<details open><summary><h3>०१ सपत्नहनमृषभं घृतेन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The rival-slaying bull Kāma do I desire to aid (? *śikṣ*) with ghee,  
 with oblation, with sacrificial butter; do thou, praised with great  
 heroism, make my rivals to fall downward.
 
-#### Notes
+##### Notes
 Kāma, lit. 'desire, love,' is so thoroughly personified throughout the  
 hymn that the word is better transferred than translated.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/01_sapatnahanamRShabhaM_ghRtena.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation. Beneath my feet cast down mine adversaries with thy great manly power, when I have praised thee.
 </details>
+</details>
 </div>
-
-
 ## ०२ यन्मे मनसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/02_yanme_manaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,15 +86,16 @@ Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation
 तद् दु॒ष्वप्न्यं॒ प्रति॑ मुञ्चामि स॒पत्ने॒ कामं॑ स्तु॒त्वोद॒हं भि॑देयम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/02_yanme_manaso.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/02_yanme_manaso.md">
+<details open><summary><h3>०२ यन्मे मनसो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What of my mind or my sight is not agreeable (*priyá*), what of me  
 gnaws, does not enjoy (*abhi-nand*), that evil-dreaming do I fasten on  
 my rival; praising Kāma, may I shoot up.
 
-#### Notes
+##### Notes
 The sense of **a, b** is very doubtful; without **b** added, **a** would  
 naturally mean 'what is not agreeable to my mind or sight'; the Pet.  
 Lex. proposes to help the difficulty rather by emending **b** to *yasmād  
@@ -111,17 +106,13 @@ Ppp. has, for **b**, *yan me hṛdaye na ’bhinandanti;* and, for **d**,
 *kāmaṁ juṣṭa hānudaṁ bhideyam*—thus giving us no help. ⌊Pischel treats  
 the vs., *Ved. Stud.* ii. 61. Aufrecht, KZ. xxxiv. 459, sees here a root  
 *bhas* 'verdriessen, taedere.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/02_yanme_manaso.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That which is hateful to mine eye and spirit, that harasses and robs me of enjoyment, The evil dream I loose upon my foemen. May I rend him when I have lauded Kama.
 </details>
+</details>
 </div>
-
-
 ## ०३ दुष्वप्न्यं काम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/03_duShvapnyaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,27 +128,24 @@ That which is hateful to mine eye and spirit, that harasses and robs me of enjoy
 उ॒ग्र ईशा॑नः॒ प्रति॑ मुञ्च॒ तस्मि॒न् यो अ॒स्मभ्य॑मंहूर॒णा चिकि॑त्सात्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/03_duShvapnyaM_kAma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/03_duShvapnyaM_kAma.md">
+<details open><summary><h3>०३ दुष्वप्न्यं काम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Evil-dreaming, O Kāma, and difficulty, O Kāma, want of progeny,  
 homelessness, ruin do thou, formidable, masterful, fasten on him who  
 shall seek to devise (*cikits-*) distresses for us.
 
-#### Notes
+##### Notes
 Ppp. combines *yo ‘smabhyam* in **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/03_duShvapnyaM_kAma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kama, do thou, a mighty Lord and Ruler, let loose ill dream, misfortune, want of children, Homelessness, Kama! utter destitution, upon the sinner who designs my ruin.
 </details>
+</details>
 </div>
-
-
 ## ०४ नुदस्व काम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/04_nudasva_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -173,31 +161,28 @@ Kama, do thou, a mighty Lord and Ruler, let loose ill dream, misfortune, want of
 तेषां॑ नु॒त्ताना॑मध॒मा तमां॒स्यग्ने॒ वास्तू॑नि॒ निर्द॑ह॒ त्वम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/04_nudasva_kAma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/04_nudasva_kAma.md">
+<details open><summary><h3>०४ नुदस्व काम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thrust, O Kāma; thrust forth, O Kāma; let them who are my rivals go  
 to ruin; of them, thrust to lowest darknesses, do thou, O Agni, burn out  
 the abodes (*vā́stu*).
 
-#### Notes
+##### Notes
 The Anukr. takes no notice of the deficiency of two syllables in **d**,  
 which in 9 **d** is made up by the addition of *anu*. In Vāit. 4. 5 the  
 verse is strangely used to accompany the separation of two sacrificial  
 ladles; in Kāuś. 48. 5 it accompanies the driving away of something with  
 a branch.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/04_nudasva_kAma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Drive them away, drive them afar, O Kama; indigence fall on those who are my foemen! When they have been cast down to deepest darkness, consume their dwellings with thy fire, O Agni.
 </details>
+</details>
 </div>
-
-
 ## ०५ सा ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/05_sA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -213,29 +198,26 @@ Drive them away, drive them afar, O Kama; indigence fall on those who are my foe
 तया॑ स॒पत्ना॑न् परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान् प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/05_sA_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/05_sA_te.md">
+<details open><summary><h3>०५ सा ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. That daughter of thine, O Kāma, is called a milch-cow, what utterance  
 (*vā́c*) the poets name *virā́j;* with that do thou avoid them that are my  
 rivals; let breath, cattle, life avoid them.
 
-#### Notes
+##### Notes
 Or **a** might be 'that milch-cow is called thy daughter.' O. reads  
 *páry eṇān* in **d**; but the passage is quoted under Prāt. iii. 80 as  
 one in which the lingualization of *n* does not take place.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/05_sA_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 She, Kama! she is called the Cow, thy daughter, she who is named Vak and Viraj by sages. By her drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.
 </details>
+</details>
 </div>
-
-
 ## ०६ कामस्येन्द्रस्य वरुणस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -251,29 +233,26 @@ She, Kama! she is called the Cow, thy daughter, she who is named Vak and Viraj b
 अ॒ग्नेर्हो॒त्रेण॒ प्र णु॑दे स॒पत्नां॑छ॒म्बीव॒ नाव॑मुद॒केषु॒ धीरः॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
+<details open><summary><h3>०६ कामस्येन्द्रस्य वरुणस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. With the strength of Kāma, of Indra, of king Varuṇa, of Vishṇu, with  
 the impulse of Savitar ('the impeller'), with the priestship (*hotrá*)  
 of Agni I thrust forth my rivals, as a skilful pole-man (? *śambín*) a  
 boat on the waters (*udaká*).
 
-#### Notes
+##### Notes
 *śambín* occurs nowhere else, and the meaning of *śámba* is doubtful.  
 Ppp. reads in **c** *piśācān* instead of *sapatnān*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/06_kAmasyendrasya_varuNasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 By Kama's might, King Varuna's and Indra's, by Vishnu's strength, and Savitar's instigation, I chase my foes with sacrifice to Agni, as a deft steersman drives his boat through waters.
 </details>
+</details>
 </div>
-
-
 ## ०७ अध्यक्षो वाजी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/07_adhyaxo_vAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,15 +268,16 @@ By Kama's might, King Varuna's and Indra's, by Vishnu's strength, and Savitar's 
 विश्वे॑ दे॒वा मम॑ ना॒थं भ॑वन्तु॒ सर्वे॑ दे॒वा हव॒मा य॑न्तु म इ॒मम्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/07_adhyaxo_vAjI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/07_adhyaxo_vAjI.md">
+<details open><summary><h3>०७ अध्यक्षो वाजी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Let Kāma, my valiant (*vājín*) formidable overseer, make for me  
 freedom from rivals; let the all-gods be my refuge; let all the gods  
 come to this call of mine.
 
-#### Notes
+##### Notes
   
   
   
@@ -308,17 +288,13 @@ come to this call of mine.
 only by count⌋. Ppp. combines at the end of **d** *māi ’mam* ⌊and thus  
 suggests the true metrical rendering of **d** as a *triṣṭubh:* similarly  
 at ix. 3. 15⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/07_adhyaxo_vAjI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Kama, mighty one, my potent warder, give me full free- dom from mine adversaries. May all the Deities be my protection, all Gods come nigh to this mine invocation.
 </details>
+</details>
 </div>
-
-
 ## ०८ इदमाज्यं घृतवज्जुषाणाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -334,28 +310,25 @@ May Kama, mighty one, my potent warder, give me full free- dom from mine adversa
 कृ॒ण्वन्तो॒ मह्य॑मसप॒त्नमे॒व॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
+<details open><summary><h3>०८ इदमाज्यं घृतवज्जुषाणाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Enjoying this sacrificial butter rich in ghee, do ye, with Kāma as  
 chief (*-jyéṣṭha*), revel here, making for me freedom from rivals.
 
-#### Notes
+##### Notes
 Ppp. reads *ghṛtam id* in **a**, and *kṛṇvantu* in **c**. The verse is a  
 perfectly good *virāṇnāmagāyatrī* but the Anukr. calls it an *ārcī  
 pan̄kti*, as if it had 30 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/08_idamAjyaM_ghRtavajjuShANAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief is Kama, Giving me freedom from mine adversaries.
 </details>
+</details>
 </div>
-
-
 ## ०९ इन्द्राग्नी काम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/09_indrAgnI_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -371,31 +344,28 @@ Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief i
 तेषां॑ प॒न्नाना॑मध॒मा तमां॒स्यग्ने॒ वास्तू॑न्यनु॒निर्द॑ह॒ त्वम्॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/09_indrAgnI_kAma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/09_indrAgnI_kAma.md">
+<details open><summary><h3>०९ इन्द्राग्नी काम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Becoming, O Kāma, in alliance (*sarátham*) with Indra-and-Agni, may  
 ye make my rivals to fall downward; of them, fallen to lowest  
 darknesses, do thou, O Agni, burn along out the abodes.
 
-#### Notes
+##### Notes
 With **c, d** compare 4 **c, d** above. The first half-verse presents  
 various anomalies: *sarátham* demands an instrumental case; we should  
 expect rather a plural verb (but compare vi. 104. 3 **a, b**); and it  
 should be accented after *hí*. Emending *indrāgnī́* to *índreṇa*, and  
 reading *pādáyāthas*, would make everything right.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/09_indrAgnI_kAma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye, Indra, Agni, Kama! come together and cast mine adver- saries down beneath me. When they have sunk into the deepest darkness, O Agni, with thy fire consume their dwellings.
 </details>
+</details>
 </div>
-
-
 ## १० जहि त्वं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/10_jahi_tvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -411,29 +381,26 @@ Ye, Indra, Agni, Kama! come together and cast mine adver- saries down beneath me
 निरि॑न्द्रिया अर॒साः स॑न्तु॒ सर्वे॒ मा ते॑ जी॑विषुः कत॒मच्च॒नाहः॑ ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/10_jahi_tvaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/10_jahi_tvaM.md">
+<details open><summary><h3>१० जहि त्वं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Slay thou, O Kāma, those that are my rivals; make them fall down to  
 blind darknesses; be they all senseless (? *nírindriya*), sapless; let  
 them not live any day soever.
 
-#### Notes
+##### Notes
 Ppp. combines *sapatnā ’ndhā* in **a-b**, combines and reads *nirindriyā  
 ’ravāḥ* in **c**, and has for **d** *yathā nu jīvāt katamac* ⌊-*maś*?⌋  
 *cane ’ṣāṁ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/10_jahi_tvaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness hurl them. Reft be they all of manly strength and vigour! Let them not have a single day's existence.
 </details>
+</details>
 </div>
-
-
 ## ११ अवधीत् कामो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/11_avadhIt_kAmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,29 +416,26 @@ Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness 
 मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्रो॒ मह्यं॒ षडु॒र्वीर्घृ॒तमा व॑हन्तु ॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/11_avadhIt_kAmo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/11_avadhIt_kAmo.md">
+<details open><summary><h3>११ अवधीत् कामो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Kāma hath slain (*vadh*) them that are my rivals; he hath made for  
 me wide space, prosperity; let the four directions bow to me; let the  
 six wide ones ⌊fem.⌋ bring ghee to me.
 
-#### Notes
+##### Notes
 The third pāda was found above as v. 3. 1 **c**. It is unusual for the  
 Anukr. to note as *bhurij* a *triṣṭubh* containing a *jagatī-*pāda. ⌊Cf.  
 Bergaigne, *Rel. Véd.* ii. 122.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/11_avadhIt_kAmo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kama hath slain those who were mine opponents, and given me ample room to grow and prosper. Let the four regions bow them down before me, and let the six expanses bring me fatness.
 </details>
+</details>
 </div>
-
-
 ## १२ तेऽधराञ्चः प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/12_te_adharAnchaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -487,27 +451,24 @@ Kama hath slain those who were mine opponents, and given me ample room to grow a
 न साय॑कप्रणुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम्॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/12_te_adharAnchaH_pra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/12_te_adharAnchaH_pra.md">
+<details open><summary><h3>१२ तेऽधराञ्चः प्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Let them float away downward, like a boat severed from its mooring;  
 of them, thrust forth by missiles, there is no return again.
 
-#### Notes
+##### Notes
 The verse is nearly identical with iii. 6. 7 above. ⌊Ppp. reads in **c**  
 *sāyakaṣ pra-*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/12_te_adharAnchaH_pra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let them drift downward like a boat torn from the rope that held it fast. There is no turning back for those whom our keen arrows have repelled.
 </details>
+</details>
 </div>
-
-
 ## १३ अग्निर्यव इन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/13_agniryava_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -523,14 +484,15 @@ Let them drift downward like a boat torn from the rope that held it fast. There 
 य॒व॒यावा॑नो दे॒वा या॑वयन्त्वेनम्॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/13_agniryava_indro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/13_agniryava_indro.md">
+<details open><summary><h3>१३ अग्निर्यव इन्द्रो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. Agni \[is\] a repeller (? *yava*), Indra a repeller, Soma a  
 repeller; let the repelling (? *yavayā́van*) gods repel (*yu*) him.
 
-#### Notes
+##### Notes
 ⌊Prose.⌋ This translation is altogether questionable. Perhaps the verse  
 accompanies a ceremony in which barley (*yáva*) is used, a play on words  
 being intended between *yáva* 'barley' and the root *yu* 'repel';  
@@ -538,17 +500,13 @@ being intended between *yáva* 'barley' and the root *yu* 'repel';
 *yavayanty amum amuṣyāyaṇam amuṣyāṣ putraṁ jīvalokaṁ mṛtalokaṁ katā  
 ’mum*. It is strange that the Anukr. does not note the paragraph as  
 *dvyavasānā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/13_agniryava_indro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.
 </details>
+</details>
 </div>
-
-
 ## १४ असर्ववीरश्चरतु प्रणुत्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -564,32 +522,29 @@ Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.
 उ॒त पृ॑थि॒व्यामव॑ स्यन्ति वि॒द्युत॑ उ॒ग्रो वो॑ दे॒वः प्र मृ॑णत् स॒पत्ना॑न्॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
+<details open><summary><h3>१४ असर्ववीरश्चरतु प्रणुत्तो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. With his heroes not safe ⌊*á-sarvavīra*⌋ let him go on, thrust  
 forth, to be hated of friends, to be avoided of his own kin; on earth  
 also stay (*ava-sā*) thunderbolts; may the formidable god massacre your  
 rivals.
 
-#### Notes
+##### Notes
 The sense of **c** is obscure; *vidyútas* might also be object of the  
 verb: 'they let loose thunderbolts.' Ppp. puts *dveṣyas* after  
 *mitrāṇām* in **b**. The Anukr. calls the verse a *jagatī*, although it  
 is a *triṣṭubh* with one *jagatī*-pāda (like 11). ⌊W. usually renders  
 *sárvavīra* by 'with all \[his, our, etc.\] heroes.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/14_asarvavIrashcharatu_praNutto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To be avoided by his friends, detested, repelled, with few men round him, let him wander. Yea, on the earth descend the lightning-flashes: may the strong God destroy your adversaries.
 </details>
+</details>
 </div>
-
-
 ## १५ च्युता चेयं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/15_chyutA_cheyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -605,30 +560,27 @@ To be avoided by his friends, detested, repelled, with few men round him, let hi
 उ॒द्यन्ना॑दि॒त्यो द्रवि॑णेन॒ तेज॑सा नी॒चैः स॒पत्ना॑न् नुदतां मे॒ सह॑स्वान्॥१५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/15_chyutA_cheyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/15_chyutA_cheyaM.md">
+<details open><summary><h3>१५ च्युता चेयं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. This great \[earth\], both stirred and unstirred, bears the  
 lightning and all the thunders; let the Āditya, arising with property,  
 with brilliancy, thrust downward my rivals, he the powerful one.
 
-#### Notes
+##### Notes
 The first half-verse is wholly obscure, and the version given commits  
 the grammatical solecism of taking *vidyút* as neut. accus. But for the  
 last *ca*, *vidyut* might be taken as subject of the sentence. The verse  
 has a *triṣṭubh*-pāda (**a**), of which the Anukr. makes no account.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/15_chyutA_cheyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This potent lightning nourishes things shaken, and things un- shaken yet, and all the thunders. May the Sun, rising with his wealth and splendour, drive in victorious might my foemen downward.
 </details>
+</details>
 </div>
-
-
 ## १६ यत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/16_yat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -644,32 +596,29 @@ This potent lightning nourishes things shaken, and things un- shaken yet, and al
 तेन॑ स॒पत्ना॒न् परि॑ वृङ्ग्धि॒ ये मम॒ पर्ये॑नान् प्रा॒णः प॒शवो॒ जीव॑नं वृणक्तु ॥१६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/16_yat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/16_yat_te.md">
+<details open><summary><h3>१६ यत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 16. What sufficient (*udbhú*) triply-guarding defense thou hast, O Kāma,  
 worship (*bráhman*) as extended protection (*várman*), made  
 unpierceable, with that do thou avoid them that are my rivals; let  
 breath, cattle, life avoid them.
 
-#### Notes
+##### Notes
 The last half-verse is ⌊nearly⌋ identical with 5 **c, d** above, and O.  
 again reads *eṇān* in **d**. Ppp. puts the verse next before our 12. The  
 description of the meter by the Anukr. is unintelligible, since we have  
 (12 + 14: 12 + 14) 52 syllables, or an *atijagatī;* perhaps *parājagatī*  
 is a misreading for this.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/16_yat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy firm and triply-barred protection, Kama! thy spell, made weapon-proof extended armour With that drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.
 </details>
+</details>
 </div>
-
-
 ## १७ येन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/17_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -685,21 +634,19 @@ Thy firm and triply-barred protection, Kama! thy spell, made weapon-proof extend
 तेन॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात् प्र णु॑दस्व दू॒रम्॥१७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/17_yena_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/17_yena_devA.md">
+<details open><summary><h3>१७ येन देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 येन॑ दे॒वा असु॑रा॒न् प्राणु॑दन्त॒ येनेन्द्रो॒ दस्यू॑नध॒मं तमो॑ नि॒नाय॑ ।  
-तेन॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात् प्र णु॑दस्व दू॒रम्॥१७॥  
+तेन॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात् प्र णु॑दस्व दू॒रम्॥१७॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/17_yena_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Far from the world wherein we live, O Kama, drive thou my foemen with that selfsame weapon Wherewith the Gods repelled the fiends, and Indra cast down the Dasyus into deepest darkness.
 </details>
+</details>
 </div>
-
-
 ## १८ यथा देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/18_yathA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -715,28 +662,25 @@ Far from the world wherein we live, O Kama, drive thou my foemen with that selfs
 तथा॒ त्वं का॑म॒ मम॒ ये स॒पत्ना॒स्तान॒स्माल्लो॒कात् णु॑दस्व दू॒रम्॥१८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/18_yathA_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/18_yathA_devA.md">
+<details open><summary><h3>१८ यथा देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 18. As the gods thrust forth the Asuras, as Indra drove (*bādh*) the  
 barbarians to lowest darkness, so do thou, O Kāma, thrust forth far from  
 this world those who are my rivals.
 
-#### Notes
+##### Notes
 Ppp. has again *tamo ‘pabādhe*, but this time *dūram*. The "*jagatī*"  
 meter is like that of vs. 17.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/18_yathA_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As Gods repelled the Asuras, and Indra down to the lowest darkness drove the demons, So, Kama, from this world, to distant places, drive thou the men who are mine adversaries.
 </details>
+</details>
 </div>
-
-
 ## १९ कामो जज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/19_kAmo_jajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -752,29 +696,26 @@ As Gods repelled the Asuras, and Indra down to the lowest darkness drove the dem
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥१९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/19_kAmo_jajne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/19_kAmo_jajne.md">
+<details open><summary><h3>१९ कामो जज्ञे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 19. Kāma was first born; not the gods, the Fathers, nor mortals attained  
 (*āp*) him; to them art thou superior (*jyā́yāṅs*), always great; to thee  
 as such, O Kāma, do I pay homage.
 
-#### Notes
+##### Notes
 Ppp. reads in **a, b** *prathamo nā ’nyat puro nāi ’naṁ devāsaṣ pitaro  
 no ’ta martyāḥ;* and it combines in **d** *namāi ’t*. The verse (9 ⌊10?⌋  
 + 10: 12 + 11 = 42) is a queer "*triṣṭubh*."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/19_kAmo_jajne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 First before all sprang Kama into being. Gods, Fathers, mortal men have never matched him. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २० यावती द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -790,28 +731,25 @@ First before all sprang Kama into being. Gods, Fathers, mortal men have never ma
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
+<details open><summary><h3>२० यावती द्यावापृथिवी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 20. How great in width are heaven-and-earth; how far the waters flowed,  
 how far fire—to them art thou etc. etc.
 
-#### Notes
+##### Notes
 With **a** is identical iv. 6. 2 **a**. Some saṁhitā-mss. read  
 *sisyadúr* in **b** (O.s.m.R.). ⌊I find no note of R.⌋ The meter is  
 described by the Anukr. in accordance with that of vs. 11.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/20_yAvatI_dyAvApRthivI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Wide as the space which heaven and earth encompass, far as the flow of waters, far as Agni, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २१ यावतीर्दिशः प्रदिशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -827,27 +765,24 @@ Wide as the space which heaven and earth encompass, far as the flow of waters, f
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
+<details open><summary><h3>२१ यावतीर्दिशः प्रदिशो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 21. How great are the divergent (*víṣvañc*) quarters \[and\] directions;  
 how great the regions (*ā́śā*), on-lookers of the sky—to them art thou  
 etc. etc.
 
-#### Notes
+##### Notes
 The verse lacks two syllables of being a real *jagatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/21_yAvatIrdishaH_pradisho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vast as the quarters of the sky and regions that lie between them spread in all directions, vast as celestial tracts and views of heaven, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २२ यावतीर्भृङ्गा जत्वःऽ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH_a.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -863,28 +798,25 @@ Vast as the quarters of the sky and regions that lie between them spread in all 
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH_a.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH_a.md">
+<details open><summary><h3>२२ यावतीर्भृङ्गा जत्वःऽ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 22. How many the humble-bees (*bhṛ́n̄ga*), the bats, the *kurū́nus;* how  
 many have been the *vághās*, the tree-creepers—to them art thou etc.  
 etc.
 
-#### Notes
+##### Notes
 The verse is a *jagatī* in number of syllables (12 + 13: 12 + 11 = 48).  
 Bp. accents *jatváḥ* in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/22_yAvatIrbhRngA_jatvaH_a.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Many as are the bees, and bats, and reptiles, and female serpents of the trees, and beetles, Stronger art thou than these, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २३ ज्यायान् निमिषतोऽसि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/23_jyAyAn_nimiShato_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -900,26 +832,22 @@ Many as are the bees, and bats, and reptiles, and female serpents of the trees, 
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/23_jyAyAn_nimiShato_asi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/23_jyAyAn_nimiShato_asi.md">
+<details open><summary><h3>२३ ज्यायान् निमिषतोऽसि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 23. Superior art thou to him that winks, that stands; superior to the  
 ocean art thou, O Kāma, fury—to them art thou etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/23_jyAyAn_nimiShato_asi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Stronger art thou than aught that stands or twinkles, stronger art thou than ocean, Kama! Manyu! Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २४ न वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/24_na_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -935,30 +863,27 @@ Stronger art thou than aught that stands or twinkles, stronger art thou than oce
 तत॒स्त्वम॑सि॒ ज्याया॑न् वि॒श्वहा॑ म॒हांस्तस्मै॑ ते काम॒ नम॒ इत् कृ॑णोमि ॥२४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/24_na_vai.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/24_na_vai.md">
+<details open><summary><h3>२४ न वै ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 24. Verily no wind soever attains (*āp*) Kāma, not fire, sun, also not  
 moon; to them art thou etc. etc.
 
-#### Notes
+##### Notes
 Ppp. puts this verse before our 20, and reads for **c, d** *na vāpaś  
 carta kāmam āpur nā ’horātrāṇi nihatāni yaṅtī na vāi puṇyajāś*  
 ⌊intending *puṇyajanāś?*⌋ *cana kāmam āpur na gandharvāpsaraso na  
 sarpāḥ*. The Anukr. accounts the verse simply a *triṣṭubh* ⌊perhaps  
 counting **b** as 10 and balancing it with the 12 of **c**⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/24_na_vai.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
+</details>
 </div>
-
-
 ## २५ यास्ते शिवास्तन्वःऽ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/002_kAmaH/25_yAste_shivAstanvaH_a.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -974,15 +899,16 @@ Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Str
 ताभि॒ष्ट्वम॒स्माँ अ॑भि॒संवि॑शस्वा॒न्यत्र॑ पा॒पीरप॑ वेशया॒ धियः॑ ॥२५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/002_kAmaH/25_yAste_shivAstanvaH_a.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/002_kAmaH/25_yAste_shivAstanvaH_a.md">
+<details open><summary><h3>२५ यास्ते शिवास्तन्वःऽ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 25. What propitious excellent bodies thou hast, O Kāma, with which what  
 thou choosest becometh real, with them do thou enter wholly into us;  
 make evil devices (*dhī́*) enter away elsewhere.
 
-#### Notes
+##### Notes
 The combination *tā́bhiṣ ṭvám* is an example under Prāt. ii. 84, and is  
 quoted in the commentary there. Ppp. reads *vṛṇīte* at end of **b**,  
 *upa-* for *abhi-* in **c**, and *upa* for *apa* in **d**. The Anukr.  
@@ -994,12 +920,10 @@ down (apparently merely on account of the occurrence of -*saṁ-viś* in
 ⌊The quoted Anukr. here says *kāmasūktaḥ*.⌋  
   
 ⌊Here ends the first *anuvāka*, with 2 hymns and 49 verses.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/09/002_kAmaH/25_yAste_shivAstanvaH_a.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy lovely and auspicious forms, O Kama, whereby the thing thou wilt becometh real, With these come thou and make thy home among us, and make malignant thoughts inhabit elsewhere.
+</details>
 </details>
 </div>

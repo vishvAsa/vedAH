@@ -19,26 +19,23 @@ title = "०२३ शत्रुनिवारणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/023_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. i., but defaced, so that for the most part comparison is impossible. Also, with vs. 3 of the next hymn, in TB. (11. 4. 41-2). Used by Kāuś. (26. 22-24), in company with the next following hymn, in a remedial rite (against white leprosy, (śvetakuṣṭha, schol. and comm.).
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 416; Ludwig, p. 506; Grill, 19, 77; Griffith, i. 27; Bloomfield, 16, 266; furthermore, vss. i, 2 by Bloomfield, AJP. xi. 325.—Cf. Bergaigne-Henry, Manuel, p. 135.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/023_shatrunivAraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against leprosy
 </details>
+</details>
 </div>
-
-
 ## ०१ नक्तंजातास्योषधे रामे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktaMjAtAsyoShadhe_rAme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm against leprosy
 इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/023_shatrunivAraNam/01_naktaMjAtAsyoShadhe_rAme.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/01_naktaMjAtAsyoShadhe_rAme.md">
+<details open><summary><h3>०१ नक्तंजातास्योषधे रामे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Night-born art thou, O herb, O dark, black, \[and\] dusky one; O  
 colorer (*rajanī*), do thou color this leprous spot and what is pale  
 (*palitá*).
 
-#### Notes
+##### Notes
 According to the comm., the herb addressed is the *haridrā* (*Curcuma  
 longa*). R. writes: "The *rajanī* is known to the lexicographers, and  
 has later as principal name *parpaṭī* \[an Oldenlandia dyeing red,  
@@ -73,17 +71,13 @@ out of the north. It has a dark aspect. The species not to be
 determined, because the later identifications are entirely  
 untrustworthy." ⌊See Dhanvantari, Ānanda-āśrama ed., p. 17.⌋ The  
 causative stem *rajaya* (the meter calls for *rāj-*) is found only here.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/023_shatrunivAraNam/01_naktaMjAtAsyoShadhe_rAme.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Rajani, re-colour thou these ashy spots, this leprosy.
 </details>
+</details>
 </div>
-
-
 ## ०२ किलासं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,30 +93,27 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
+<details open><summary><h3>०२ किलासं च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The leprous spot, what is pale, do thou cause to disappear from  
 hence, the speckled; let thine own color enter thee; make white things  
 (*śuklá*) fly away.
 
-#### Notes
+##### Notes
 TB. has *na* (*naḥ?*) for *tvāa* and *aśnntām* for *viśatām* in **c**,  
 and in **d** *śvetā́ni* for *śuklāni*. The comm. gives *pṛ´thak* for  
 *pṛ´ṣat* in **b**, and has the usual support of a small minority of  
 SPP's mss.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour come to thee; drive far away the specks of white.
 </details>
+</details>
 </div>
-
-
 ## ०३ असितं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,28 +129,25 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/023_shatrunivAraNam/03_asitaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/03_asitaM_te.md">
+<details open><summary><h3>०३ असितं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Dusky is thy hiding-place, dusky thy station (*āsthā́na*); dusky art  
 thou, O herb; make the speckled disappear from hence.
 
-#### Notes
+##### Notes
 TB. has the easier reading *niláyanam* in **a**. The comm. again gives  
 *pṛthak* in **d**; he holds that the plant here addressed is the indigo  
 (*nīlī*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/023_shatrunivAraNam/03_asitaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and dark, O Plant, art thou: remove from him each speck and spot.
 </details>
+</details>
 </div>
-
-
 ## ०४ अस्थिजस्य किलासस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -175,23 +163,22 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
+<details open><summary><h3>०४ अस्थिजस्य किलासस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Of the bone-born leprous spot, and of the body-born that is in the  
 skin, of that made by the spoiler (*dū́ṣi*)—by incantation have I made  
 the white (*śvetá*) mark disappear.
 
-#### Notes
+##### Notes
 Ppp. has in **c** *dhūṣya;* TB. reads instead *kṛtyáyā;* the comm.  
 explains *dūṣi* as *śatrūtpāditā kṛtyā*. Ppp. has at the end *anenaśam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I with my spell have chased away the pallid sign of leprosy, Caused by infection, on the skin, sprung from the body, from the bones.
+</details>
 </details>
 </div>

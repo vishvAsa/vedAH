@@ -19,26 +19,23 @@ title = "०१५ सविता"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/015_savitA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/015_savitA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx.; and in VS. (xvii. 74), TS. (iv. 6. 54), MS. (ii. 10. 6), and CB. (ix. 2. 3. 38). This hymn, like the preceding, is used by Kāuś. (24. 7) in a general rite for prosperity, with the binding on of a heifer-rope as amulet. In Vāit. (29. 18), it accompanies the laying on of fuel in the agnicayana ceremony.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 6, 58; Griffith, i. 335.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/015_savitA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to win divine favour and felicity
 </details>
+</details>
 </div>
-
-
 ## ०१ तां सवितः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/015_savitA/01_tAM_savitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to win divine favour and felicity
 याम॑स्य॒ कण्वो॒ अदु॑ह॒न् प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/015_savitA/01_tAM_savitaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/015_savitA/01_tAM_savitaH.md">
+<details open><summary><h3>०१ तां सवितः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This favor, O Savitar, of true impulse, very wondrous, having all  
 choice things, do I choose for myself; which of him, full-fed,  
 thousand-streamed, Kaṇva the bull (*mahiṣā*) milked for Bhaga.
 
-#### Notes
+##### Notes
 Or (at the end) 'for a portion,' as the comm. understands it  
 (*bhāgyāya*). The reading (alike in all) of the other texts is very  
 different: for **a**, *tā́ṁ savitúr váreṇyasya citrā́m;* in **b**,  
@@ -70,12 +68,10 @@ different: for **a**, *tā́ṁ savitúr váreṇyasya citrā́m;* in **b**,
 This gives a decidedly more intelligible meaning. Ppp. is still  
 different: in **a**, *satyasavasya citrām;* for **b**, *vayaṁ devasya  
 prasave manāmahe;* and, in **c**, *prapīnāṁ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/015_savitA/01_tAM_savitaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I choose, O Savitar, that glorious favour, with fruitful energy and every blessing, Even this one's teeming cow, erst milked by Kanva, thousand- streamed, milked for happiness by the mighty.
+</details>
 </details>
 </div>

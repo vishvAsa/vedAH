@@ -19,24 +19,19 @@ title = "०२८ पशुपोषणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. Used by Kāuś., in the chapter of portents, in the ceremonies of expiation for the birth of twins from kine, mares or asses, and human beings (109. 5; 110. 4; 111. 5).
 
 
-#### Translations
+##### Translations
 Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ एकैकयैषा सृष्ट्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून् क्षि॑णाति रिफ॒ती रुश॑ती ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
+<details open><summary><h3>०१ एकैकयैषा सृष्ट्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. She herself came into being by a one-by-one creation, where the  
 being-makers created the kine of all forms; where the twinning \[cow\]  
 gives birth, out of season, she destroys the cattle, snarling, angry.
 
-#### Notes
+##### Notes
 The translation implies emendation of *rúśatī* at the end to *rúṣyatī*  
 or *ruṣatī́* ⌊rather *rúṣyatī*, so as to give a *jagatī* cadence⌋—which,  
 considering the not infrequent confusion of the sibilants, especially  
@@ -78,18 +74,14 @@ generally regarded as of good omen. The Anukr. apparently counts 11
 *viśvárupās* could well enough be spared out of **b** ⌊better the  
 former; but it is bad meter at best⌋. \*⌊Shown by accent to be a blunder  
 for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः ।  
-यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून् क्षि॑णाति रिफ॒ती रुश॑ती ॥१॥  
+यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून् क्षि॑णाति रिफ॒ती रुश॑ती ॥१॥
+</details>
 </details>
 </div>
-
-
 ## ०२ एषा पशून्त्सं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,15 +97,16 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त् तथा॑ स्यो॒ना शि॒वा स्या॑त्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/02_eShA_pashUntsaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/02_eShA_pashUntsaM.md">
+<details open><summary><h3>०२ एषा पशून्त्सं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. She quite destroys the cattle, becoming a flesh-eater, devourer (?  
 *vy-ádvarī*); also one should give her to a priest (*brahmán*); so would  
 she be pleasant, propitious.
 
-#### Notes
+##### Notes
   
   
   
@@ -127,18 +120,14 @@ unhappiness," or, second, as from *adhvara*, and signifying "having
 magical sacrifices, that give obstructed fruit"! ⌊See note to vi. 50. 3,  
 where W. corrects the text to *vyadvará:* accent of masc. and fem.,  
 *Gram.* § 1171 a, b.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/02_eShA_pashUntsaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद् भू॒त्वा व्यद्व॑री ।  
-उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त् तथा॑ स्यो॒ना शि॒वा स्या॑त्॥२॥  
+उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त् तथा॑ स्यो॒ना शि॒वा स्या॑त्॥२॥
+</details>
 </details>
 </div>
-
-
 ## ०३ शिवा भव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,29 +143,26 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/03_shivA_bhava.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/03_shivA_bhava.md">
+<details open><summary><h3>०३ शिवा भव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Be thou propitious to men (*púruṣa*), propitious to kine, to horses,  
 propitious to all this field (*kṣétra*); be propitious to us here.
 
-#### Notes
+##### Notes
 'Field' seems taken here in a general sense, and might be rendered  
 'farm.' The Anukr. takes no notice of the irregularities in **c** and  
 **d**, probably because they balance each other.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/03_shivA_bhava.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा।  
-शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥३॥  
+शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥३॥
+</details>
 </details>
 </div>
-
-
 ## ०४ इह पुष्टिरिह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,31 +176,28 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॒हस्र॑सातमा भव । प॒शून् य॑मिनि पोषय ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/04_iha_puShTiriha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
+<details open><summary><h3>०४ इह पुष्टिरिह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Here prosperity, here sap—here be thou best winner of a thousand;  
 make the cattle prosper, O twinning one.
 
-#### Notes
+##### Notes
 The comm. supplies *bhavatu* to the first pāda. All the mss. agree in  
 giving the false accent *sahásrasātamā* in **b**; it should be  
 *sahasrasā́tamā*—or, to rectify the meter, simply *-sā́*. It  
 *pada*-division, *sahásra॰sātama* is prescribed by the text of Prāt. iv.  
 45. *Kakubh* properly has no need of the adjunct *yavamadhyā;* it is  
 very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
+</details>
+<details><summary>Griffith</summary>
 
+इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॒हस्र॑सातमा भव । प॒शून् य॑मिनि पोषय ॥४॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/04_iha_puShTiriha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-
-इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॒हस्र॑सातमा भव । प॒शून् य॑मिनि पोषय ॥४॥  
-</details>
-</div>
-
-
 ## ०५ यत्रा सुहार्दः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,30 +213,27 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
+<details open><summary><h3>०५ यत्रा सुहार्दः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Where the good-hearted \[and\] well-doing revel, quitting disease of  
 their own body—into that world hath the twinning one come into being;  
 let her not injure our men and cattle.
 
-#### Notes
+##### Notes
 The first half-verse is also that of vi. 120. 3 (which occurs further in  
 TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the  
 *kampa*-syllable.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्व॑१ स्वायाः॑ ।  
-तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥५॥  
+तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥५॥
+</details>
 </details>
 </div>
-
-
 ## ०६ यत्रा सुहार्दां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -269,25 +249,24 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/028_pashupoShaNam/06_yatrA_suhArdAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/06_yatrA_suhArdAM.md">
+<details open><summary><h3>०६ यत्रा सुहार्दां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Where is the world of the good-hearted, of the well-doing, where of  
 them that offer the fire-offering (*agnihotrá-*)—into that world hath  
 the twinning one come into being; let her not injure our men and cattle.
 
-#### Notes
+##### Notes
 The omission of the superfluous *yátra* in **b** would rectify the  
 meter. The Anukr. should say *āstārapan̄kti* instead of *prastāra-;* its  
 *virāj* means here a pāda of 10 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/028_pashupoShaNam/06_yatrA_suhArdAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः ।  
 तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥६॥
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०२५ पृश्निपर्णी"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iv. Both Weber and Grill regard the hymn as directed against abortion; but no sufficient indications of such value are found in its language, though some of the native authorities intimate their discovery of such. Kāuś. (8. 25) reckons it to the cātana hymns; and it is employed, with ii. 7 and other hymns, in a remedial ceremony (26. 33-36) against various evils, specially accompanying the smearing of the designated plant with sacrificial dregs (sampāta) upon the patient.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 187; Grill, 20, 92; Griffith, i. 64; Bloomfield, 36, 302.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against fiends who cause abortion
 </details>
+</details>
 </div>
-
-
 ## ०१ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm against fiends who cause abortion
 उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/01_shaM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/01_shaM_no.md">
+<details open><summary><h3>०१ शं नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Weal for us, woe (*áśam*) for Nirṛti ('perdition') hath the divine  
 spotted-leaf made; since it is a formidable grinder-up (*-jámbhana*) of  
 *káṇvas*, it, the powerful, have I used (*bhaj*).
 
-#### Notes
+##### Notes
 The comm. makes no attempt to identify the *pṛśniparṇī* as any  
 particular plant, but simply paraphrases it with *citraparṇy oṣadhiḥ.*  
 R. discusses the word as follows: "the *pṛśniparṇī* is, 1. according to  
@@ -83,17 +81,13 @@ comm. without a word of notice; he simply paraphrases the word with
 *pāpa.* ⌊But see Bergaigne, *Rel. véd.* ii. 465, and Hillebrandt, *Ved.  
 Mythol.* i. 207.⌋ Ppp. reads in **b** *nirṛtaye karat*, and in **d**  
 *tvā ’harṣam* for *abhakṣi.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/01_shaM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of the Kanvas she: her have I gained, the mighty one.
 </details>
+</details>
 </div>
-
-
 ## ०२ सहमानेयं प्रथमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -109,14 +103,15 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
+<details open><summary><h3>०२ सहमानेयं प्रथमा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. This spotted-leaf was first born overpowering; with it do I hew  
 \[off\] the head of the ill-named ones, as of a bird (*śakúni*).
 
-#### Notes
+##### Notes
 ⌊*śakú-* is misprinted *śakṛ́-*.⌋ The reading *vṛścāmi*, without accent  
 (which is given in both editions, on the authority of all the mss.)  
 implies that the fourth pāda begins with *śíras*, the preceding three  
@@ -127,17 +122,13 @@ however, regards the verse as a simple *anuṣṭubh*, which it plainly is,
 *vṛścā́mi.* Ppp. reads *sadānvāghnī pr-* for **a**, and, in **c, d**,  
 *tayā kaṇvasyāṁ śiraś chinadmi śak-.* The comm. explains the "ill-named"  
 as *dadruvisarpakaśvitrādikuṣṭharogaviśeṣās*, or varieties of leprosy.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Victorious in the olden time this Prisniparni was brought forth: With her I cleave, as 'twere a bird's, the head of the Detestables.
 </details>
+</details>
 </div>
-
-
 ## ०३ अरायमसृक्पावानं यश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,29 +144,26 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 ग॒र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
+<details open><summary><h3>०३ अरायमसृक्पावानं यश्च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The blood-drinking wizard, and whoso wants to take away fatness, the  
 embryo-eating *káṇva* do thou make disappear, O spotted-leaf, and  
 overpower.
 
-#### Notes
+##### Notes
 One or two of our mss. (W.I.), and several of SPP's, read in **b**  
 *jíhīriṣati* ⌊I. has *-īrīṣ-*.⌋ Ppp. has at the end *sahasvatī.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति ।  
-ग॒र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥३॥  
+ग॒र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥३॥
+</details>
 </details>
 </div>
-
-
 ## ०४ गिरिमेनाँ आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA_N_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -191,31 +179,28 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 तांस्त्वं दे॑वि पृश्निपर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/04_girimenA_N_A.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/04_girimenA_N_A.md">
+<details open><summary><h3>०४ गिरिमेनाँ आ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Make them enter the mountain, the life-obstructing (*-yopana*)  
 *káṇvas;* do thou, O divine spotted-leaf, go burning after them like  
 fire.
 
-#### Notes
+##### Notes
 ⌊As to *kaṇvāṅ,* cf. i. 19. 4 n. As to *-yopana,* see Bloomfield, AJP.  
 xii. 423.⌋ This verse and the next are too much defaced in Ppp. to admit  
 comparison in detail; but its text differs somewhat from ours. The  
 Anukr. refuses to sanction the common abbreviation to *agnir ’va* in  
 **d.**
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/04_girimenA_N_A.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The hateful fiend who drinks the blood, and him who take away the growth, The Kanva who devours the germ, quell, Prisniparni! and! destroy.
 </details>
+</details>
 </div>
-
-
 ## ०५ पराच एनान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -231,21 +216,19 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 तमां॑सि॒ यत्र॒ गच्छ॑न्ति॒ तत् क्र॒व्यादो॑ अजीगमम्॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/025_pRshniparNI/05_parAcha_enAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/05_parAcha_enAn.md">
+<details open><summary><h3>०५ पराच एनान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Thrust them forth to a distance, the life-obstructing *káṇvas;* where  
 the darknesses go, there have I made the flesh-eaters go.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/025_pRshniparNI/05_parAcha_enAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Drive and imprison in a hill these Kanvas harassers of life: Follow them Prisniparni, thou Goddess, like fire consuming. them.
+</details>
 </details>
 </div>

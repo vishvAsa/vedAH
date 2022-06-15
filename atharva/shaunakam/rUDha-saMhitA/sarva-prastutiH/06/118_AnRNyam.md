@@ -19,24 +19,19 @@ title = "११८ आनृण्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/118_AnRNyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xvi. ⌊The Kaṭha-version of vss. 1 and 2 is given by v. Schroeder, Tübinger Kaṭha-hss., p. 70 f.⌋ Is not used by Vāit., nor by Kāuś. otherwise than with ⌊the whole anuvāka and⌋ hymn 117: ⌊see under hymns 114 and 117⌋.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 455; Griffith, i. 310.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/118_AnRNyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यद्धस्ताभ्यां चकृम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,16 +47,17 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 उ॒ग्रं॒प॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
+<details open><summary><h3>०१ यद्धस्ताभ्यां चकृम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. If (*yát*) with our hands we have done offenses, desiring to take up  
 the course (?) of the dice, let the two Apsarases,  
 fierce-(*ugrá-*)seeing, fierce-conquering, forgive today that guilt  
 (*ṛṇá*) of ours.
 
-#### Notes
+##### Notes
 Our mss., like SPP's, waver in **b** between *gatnúm* and *gattúm* or  
 *gantúm*, but it is a mere indistinctness of writing, and *gatnúm*  
 (which not even Böhtlingk's last supplement gives) is doubtless the  
@@ -80,17 +76,13 @@ dattām ṛṇā́ni*, and MS., very corruptly, *ugrám paśyā́c ca rāṣṭr
 tā ny apsarásām ánu dattā́ ’nṛṇāni*. The comm., heedless of the accent,  
 takes the first two words in **c** as vocatives. Ppp. reads, in **a,  
 b**, *kilviṣam akṣam aktam avilipsamānāḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If we have sinned with both our hands, desiring to take the host of dice for our possession, May both Apsarases to-day forgive us that debt, the fiercely- conquering, fiercely-looking.
 </details>
+</details>
 </div>
-
-
 ## ०२ उग्रंपश्ये राष्ट्रभृत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugraMpashye_rAShTrabhRt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,16 +98,17 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒रा॑यत्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/118_AnRNyam/02_ugraMpashye_rAShTrabhRt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/02_ugraMpashye_rAShTrabhRt.md">
+<details open><summary><h3>०२ उग्रंपश्ये राष्ट्रभृत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O fierce-seeing one! realm-bearing one! \[our\] offenses, what  
 happened at the dice—forgive ye that to us; may there not come in Yama's  
 world one having a rope on, desiring to win from us debt (*ṛṇá*) from  
 debt.
 
-#### Notes
+##### Notes
 Two of the other texts (TA.MS., as above) have this verse also, and with  
 unimportant variations in the first half: TA. simply omits *nas* in  
 **b**, thus rectifying the meter; MS. does the same, but it is also  
@@ -135,17 +128,13 @@ as second Apsaras in the first verse. The irregularities of meter are
 passed unnoticed by the Anukr. ⌊Böhtlingk, ZDMG. lii. 250, discusses the  
 vs. at length. He suggests for **c**, *ṛṇāvnó no ná ṛṇám értsamāno*, or  
 perhaps *níd ṛṇám*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/118_AnRNyam/02_ugraMpashye_rAShTrabhRt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Stern viewers of their sins who rule the people, forgive us what hash happened as we gambled. Not urging us to pay the debt we owed him, he with a cord hath gone to Yama's kingdom.
 </details>
+</details>
 </div>
-
-
 ## ०३ यस्मा ऋणं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,27 +150,26 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/118_AnRNyam/03_yasmA_RNaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/03_yasmA_RNaM.md">
+<details open><summary><h3>०३ यस्मा ऋणं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. To whom \[I owe\] debt, whose wife I approach, to whom I go begging  
 (*yāc*), O gods—let them not speak words superior to me; ye (two)  
 Apsarases, wives of gods, take notice!
 
-#### Notes
+##### Notes
 Ppp. has a different version (mostly corrupt) of **b, c, d**: *yaṁ  
 yājamānāu abhyetnahe: vāte vājin vājibhir mo ’ttarām mad devapatnī  
 apsarasāpadītam*. The comm. reads *abhyemi* in **b**. By analogy with  
 *abhyāími*, the *pada*-text understands *upāími* as *upa-āími* in **a**.  
 Our *pada*-mss. also leave *mā* unaccented in **c**. The comm.  
 paraphrases *adhī ’tam* with *madvijñāpanaṁ citte ‘vadhārayatam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/118_AnRNyam/03_yasmA_RNaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My creditor, the man whose wife I visit, he, Gods! whom I approach with supplication, Let not these men dominate me in speaking. Mind this, ye two Apsarases, Gods' Consorts!
+</details>
 </details>
 </div>

@@ -2,12 +2,9 @@
 title = "+०८"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/08/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/_index.md">
+<details open><summary><h2>paryāya-hymns ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book VIII.
 
@@ -107,9 +104,6 @@ respectively 5, 6, 5, and 5 (in all, 21 "decads"); while *anuvāka* 5 has
 3 "decads" and 6 *paryāyas*. The sum is 24 "decad"-sūktas and 6
 *paryāya-sūktas* or 30 *sūktas*. Cf. again the summation at the end of
 hymn 10.⌋
-
-  
-
-
+</details>
 </details>
 </div>

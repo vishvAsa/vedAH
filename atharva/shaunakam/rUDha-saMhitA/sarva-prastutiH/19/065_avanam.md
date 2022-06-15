@@ -19,26 +19,23 @@ title = "०६५ अवनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/065_avanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xvi. The comm. says that hymns 65-67 are shown by their contents to belong to the worship of Sūrya.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 319.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/065_avanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Agni identified with the Sun
 </details>
+</details>
 </div>
-
-
 ## ०१ हरिः सुपर्णो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/065_avanam/01_hariH_suparNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A hymn to Agni identified with the Sun
 अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/065_avanam/01_hariH_suparNo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/01_hariH_suparNo.md">
+<details open><summary><h3>०१ हरिः सुपर्णो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. A yellow eagle, thou hast ascended unto heaven (*dív*) with radiance  
 (*arcís*); whoso (pl.) would injure thee flying up to heaven, them smite  
 thou down with flame (*háras*), O Jātavedas, unfearing; ascend unto  
 heaven, O sun, formidable, with radiance.
 
-#### Notes
+##### Notes
 By metrical evidence, *jātavedas* in **c** is an intrusion ⌊although  
 obviously older than the Anukr.⌋, besides being at least superfluous in  
 sense. The mss. read *bíbhyad ugro ‘rc-* (p. *bíbhyat: ugraḥ*) but SPP.  
@@ -73,12 +71,10 @@ emends to *ábibhyat: ugráḥ*, as we had done ⌊but neglects the necessary
   
 After this hymn, three of our mss. (P.M.W.) insert as next hymn,  
 numbering it 66, the one-versed RV. i. 99, without variant.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/065_avanam/01_hariH_suparNo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A Golden Eagle thou hast soared with light to heaven. Those who would harm thee as thou fliest skyward. Beat down, O Jatavedas, with thy fury. The strong hath feared: to heaven mount up with light, O Surya.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "००४ प्रजाभी राज्ञः संवरणम�
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iii. Used in Kāuś. only with the next preceding hymn (as there explained), although the two are of essentially different application, this one referring to a king who has been called or chosen, and has to be inaugurated as such. In Vāit. (13. 2), in the agniṣṭoma sacrifice, vs. 7 accompanies, with vii. 28, oblations to pathyā svasti and other divinities.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 252; Zimmer, p. 164; Weber, xvii. 190; Griffith, i. 84; Bloomfield, 113, 330.—Cf. Bergaigne-Henry, Manuel, p. 141.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benediction at the election of a king
 </details>
+</details>
 </div>
-
-
 ## ०१ आ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A benediction at the election of a king
 सर्वा॑स्त्वा राजन् प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्योऽ भवे॒ह॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
+<details open><summary><h3>०१ आ त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Unto thee hath come the kingdom; with splendor rise forward; \[as\]  
 lord of the people (*víśas*), sole king, bear thou rule (*vi-rāj*); let  
 all the directions call thee, O king; become thou here one for waiting  
 on, for homage.
 
-#### Notes
+##### Notes
 The translation implies in **a** *agan*, which is very probably the true  
 reading, though the *pada*-mss. divide *tvā:gan.* The metrical  
 redundancy in **a, b** is best removed by omitting *prā́n̄* (for which  
@@ -74,17 +72,13 @@ word wrongly to **b**, and the comm. renders it *pūrvam* 'formerly'; he
 takes *ví rāja* as "be resplendent," which is of course possible. The  
 verse has but one real *jagatī* pāda (**a**). ⌊With **d** (= vi. 98. 1  
 **d**), cf. *námasopasádyas*, used twice in RV.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To thee hath come the kingship with its splendour: On! shine as lord, sole ruler of the people. King! let all regions of the heavens invite thee. Here let men wait on thee and bow before thee.
 </details>
+</details>
 </div>
-
-
 ## ०२ त्वां विशो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,16 +94,17 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 वर्ष्म॑न् रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
+<details open><summary><h3>०२ त्वां विशो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Thee let the people (*víśas*) choose unto kingship (*rājyà*), thee  
 these five divine directions; rest (*śri*) at the summit of royalty, at  
 the pinnacle (*kakúd*); from thence, formidable, share out good things  
 to us.
 
-#### Notes
+##### Notes
 The verse is found also in TS. (iii. 3. 9²) and MS. (ii. 5. 10), with  
 nearly accordant differences of reading: *gā́vo ‘vŗņata rājyā́ya* in  
 **a**; *tvā́ṁ havanta* (MS. *vardhanti*) *marútaḥ svarkā́ḥ* for **b**;  
@@ -122,17 +117,13 @@ number of the mss. (including our O.Op.) read in **a** *rā́jyāya*, as,
 indeed, they generally disagree ⌊in threefold wise⌋ as to the accent of  
 this word. P.M.W. have in **a** *vṛṣatām.* The comm. renders *várṣman*  
 by *śarīre, śrayasva* by *āssva.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The tribesmen shall elect thee for the Kingship, these five celestial regions shall elect thee. Rest on the height and top of kingly power: thence as a mighty man award us treasures.
 </details>
+</details>
 </div>
-
-
 ## ०३ अच्छ त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,29 +139,26 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
+<details open><summary><h3>०३ अच्छ त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Unto thee let thy fellows come, calling \[thee\]; Agni shall go along  
 as speedy messenger; let the wives, the sons, be well-willing; thou,  
 formidable, shalt see arrive (*prati-paś*) much tribute.
 
-#### Notes
+##### Notes
 Ppp. has in **a, b** *yantu bhuvanasya jālā ’gnir dūto ‘va jarase  
 dadhāti*, and combines in **c** *jāyāṣ p-*. The comm. finds in **b** an  
 incomplete simile: "thy messenger, unassailable like fire, shall" etc.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active herald. Let women and their sons be friendly-minded. Thou mighty one, shalt see abundant tribute.
 </details>
+</details>
 </div>
-
-
 ## ०४ अश्विना त्वाग्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -186,32 +174,29 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
+<details open><summary><h3>०४ अश्विना त्वाग्रे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let the (two) Aśvins thee first,—let Mitra-and-Varuṇa both, let all  
 the gods, the Maruts, call thee; then put (*kṛ*) thy mind unto the  
 giving of good things; from thence, formidable, share out good things to  
 us.
 
-#### Notes
+##### Notes
 With **c** compare RV. i. 54. 9 **d**, which rectifies the meter by  
 reading *kṛṣva.* The second half-verse is quite different in Ppp.:  
 *sajātānāṁ madhyameṣṭhe ’ha masyā* (cf. ii. 6. 4 **c**; iii. 8. 2 **d**)  
 *sve kṣetre savite vi rāja.* The third pāda is made *bhurij* by the  
 change of *kṛṣva* to *kṛṇuṣva.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call thee. Then turn thy mind to giving gifts of treasures, thence, mighty one, distribute wealth among us.
 </details>
+</details>
 </div>
-
-
 ## ०५ आ प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,15 +212,16 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त् स उपे॒दमेहि॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
+<details open><summary><h3>०५ आ प्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Run forth hither from the furthest distance; propitious to thee be  
 heaven-and-earth both; king Varuṇa here saith this thus; he here hath  
 called thee; ⌊therefore (*sá*)⌋ do thou come to this place.
 
-#### Notes
+##### Notes
 Ppp. has *babhūtām* for *ubhe stām* at end of **b**, and *ahvat svenam  
 ehi* at end of **d**. SPP. reports all his *pada*-mss. as reading *aha*  
 instead of *āha* in **c**; no such blunder has been noted in ours. His  
@@ -245,17 +231,13 @@ only by an oversight of the copyist (under the next verse it gives
 gives a *pratīka* reading *ā́ préhi paramásyāḥ parāvátaḥ*, while no  
 corresponding verse is found in its text—or elsewhere, so far as is  
 known, unless here.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Speed to us hither from the farthest distance. Propitious unto thee be Earth and Heaven. Even so hath Varuna this King asserted, he who himself hath called thee: come thou hither.
 </details>
+</details>
 </div>
-
-
 ## ०६ इन्द्रेन्द्र मनुष्याः३
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -271,16 +253,17 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 स त्वा॒यम॑ह्व॒त् स्वे स॒धस्थे॒ स दे॒वान् य॑क्ष॒त् स उ॑ कल्पया॒द् विशः॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
+<details open><summary><h3>०६ इन्द्रेन्द्र मनुष्याः३ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Like a human Indra, go thou away; for thou hast concurred (*sam-jñā*)  
 in concord with the castes (?); he here hath called thee in his own  
 station; he shall sacrifice to the gods, and he shall arrange the people  
 (*víśas*).
 
-#### Notes
+##### Notes
 The translation of this obscure and difficult verse implies much and  
 venturesome emendation in the first half: namely, in **a**, *índra iva  
 manuṣyàḥ*, and in **b** *várṇāis*. Weber also takes *manuṣyā̀s* as meant  
@@ -302,17 +285,13 @@ qualifies *prajās* understood; the plural *varuṇāis* is plur.
 *majestaticus* for *varuṇena;* *kalpayāt*, finally, is *svasvavyāpāreṣu  
 niyun̄ktām*. The Anukr. passes without notice the *jagatī* pāda **d**, it  
 being easy to read the verse into 44 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found accordant. To his own place this one hath called thee, saying, Let him adore the Gods and guide the clansmen.
 </details>
+</details>
 </div>
-
-
 ## ०७ पथ्याऽ रेवतीर्बहुधा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_a_revatIrbahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -328,15 +307,16 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_a_revatIrbahudhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_a_revatIrbahudhA.md">
+<details open><summary><h3>०७ पथ्याऽ रेवतीर्बहुधा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The wealthy roads, of manifoldly various form, all, assembling, have  
 made wide room for thee; let them all in concord call thee; to the tenth  
 \[decade of life\] abide here formidable, well-willing.
 
-#### Notes
+##### Notes
 *Pathyā revatīs*, divinities of good roads and welfare, are explained by  
 the comm. as *patho ‘napetā mārgahitahāriṇya etatsaṁjñā devatāḥ;* or  
 else *pathyās* is *pathi sādhavaḥ*, and *revatīs* is *āpas.* Both  
@@ -348,12 +328,10 @@ in **c**; SPP. does not report any of his as guilty of such a blunder.
 ⌊V. and K. recognize *vaśehá* as a variant.⌋ Ppp. appends another verse:  
 *yadi jareṇa haviṣā datvā gamayāmasi: atrā ta indraṣ kevalīr viśo  
 balihṛtas karat* (cf. RV. x. 173. 6 **c, d**).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_a_revatIrbahudhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Bounteous Paths in sundry forms and places, all in accord, have given thee room and comfort. Let all of these in concert call thee hither. Live thy tenth decade here, a strong kind ruler.
+</details>
 </details>
 </div>

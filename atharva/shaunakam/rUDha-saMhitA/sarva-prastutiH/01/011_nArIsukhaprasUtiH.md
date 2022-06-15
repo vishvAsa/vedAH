@@ -19,26 +19,23 @@ title = "०११ नारी–सुखप्रसूतिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Verses 2-4 occur together in Pāipp. i., 5 and 6 in xx., but at different points. In Kāuś. (33. 1) it is quoted at the beginning of a long and intricate ceremony (filling the whole section) for safe delivery, the first of the strīkarmāṇi or 'women's rites'; its details have nothing to do with the text of the hymn, and cast no light upon the latter's difficulties. The Anukr. add to the author's name: anena mantroktān aryamādidevān nārīsukhaprasavāyā 'bhiṣṭūye 'ṣṭaṁ ca sarvābhir aprārthayat.
 
 
-#### Translations
+##### Translations
 Translated: Weber, iv. 404; Ludwig, p. 478; Griffith, i. 14 and 473; Bloomfield, 99, 242.—Discussed: Roth, Ueber den Atharva-veda, p. 15.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to be used at child-birth
 </details>
+</details>
 </div>
-
-
 ## ०१ वषट् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/01_vaShaT_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to be used at child-birth
 सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां॒ सूत॒वा उ॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/01_vaShaT_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/01_vaShaT_te.md">
+<details open><summary><h3>०१ वषट् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. At this birth, O Pūshan, let Aryaman \[as\] efficient (*vedhás*)  
 invoker utter *váṣaṭ* for thee; let the woman, rightly engendered, be  
 relaxed; let her joints go apart in order to birth.
 
-#### Notes
+##### Notes
 The translation of **c** implies emendation of the text to *ví sisṛtām*.  
 Roth formerly preferred *sísṛtām nāry ṛtáprajātaḥ* 'let a timely child  
 come forth, O woman'; Weber leaves *sísratām* as pl. with indefinite  
@@ -79,17 +77,13 @@ ceremony at birth; *vedhā́s* as = Dhātar 'the creator'; *ṛtaprajātā* as =
 objection) as "may she be relieved (*viniḥsṛtā*) of the pangs of birth."  
 The metrically irregular verse (9 + 10: 10 + 11 = 40) is a *pan̄kti*  
 solely in virtue of the ⌊aggregate⌋ number of its syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/01_vaShaT_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-priest, As one who bears in season let this dame be ready to bring forth her child.
 </details>
+</details>
 </div>
-
-
 ## ०२ चतस्रो दिवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -105,14 +99,15 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 दे॒वा गर्भं॒ समै॑रय॒न् तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
+<details open><summary><h3>०२ चतस्रो दिवः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Four \[are\] the directions of the sky, four also of the earth: the  
 gods sent together the fœtus; let them unclose her in order to birth.
 
-#### Notes
+##### Notes
 Or 'unclose it,' *tám*, which SPP. reads in text and comm. (the latter  
 omits the word itself in the paraphrase) with the minority of his mss.,  
 but against all of ours; Weber and Roth prefer *tám*. The word and its  
@@ -122,17 +117,13 @@ form of the quotation (*samāirayantādinām*) prevents our seeing whether
 its authors read *tā́m* or *tám;* the comm. gives *tām*. In **d**, the  
 comm. gives the false form *ūrṇavantu*. The text in Ppp. is confused,  
 but does not appear to intend any variants from our reading.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Four are the regions of the sky, and four the regions of the earth: The Gods have brought the babe; let them prepare the woman for the birth.
 </details>
+</details>
 </div>
-
-
 ## ०३ सूषा व्यूर्णोतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,14 +139,15 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
+<details open><summary><h3>०३ सूषा व्यूर्णोतु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let Pūshan (?) unclose \[her or it\]; we make the *yóni* go apart; do  
 thou, *sūṣaṇā*, loosen; do thou, *biṣkalā*, let go.
 
-#### Notes
+##### Notes
 The translation implies a very venturesome emendation in **a**, *pūṣā́*  
 for *sūṣā́* (all the authorities have the latter): Pūshan, referred to in  
 vs. 1 as principal officiating deity, might well be called on to do in  
@@ -171,17 +163,13 @@ equally absurd etymologies) is another deity. The Anukr. apparently
 intends the verse to be read as 6 + 8: 7 + 8 = 29, instead of admitting  
 the obvious resolution *tu-ám* in **c**. The supplying of *gárbham* as  
 omitted at the beginning would make a good *anuṣṭubh*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, parturiens! emitte eum non carni, non adipi, non medullae adhaerntem.
 </details>
+</details>
 </div>
-
-
 ## ०४ नेव मांसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -197,15 +185,16 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
+<details open><summary><h3>०४ नेव मांसे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Not as it were stuck (*ā́hata*) in the flesh, not in the fat, not as  
 it were in the marrows, let the spotted slimy (?) afterbirth come down,  
 for the dog to eat; let the afterbirth descend.
 
-#### Notes
+##### Notes
 SPP. reads in **a** *pī́vasi*, with the comm. and a small minority of his  
 mss.; three of ours (H. O. Op.) have *píbasi*. Ppp. has a very different  
 text (preserved in the *nāgarī* copy, though lost in the original text):  
@@ -224,17 +213,13 @@ na kasmiṅś canā "yatam;* then our **e**. But for its support of
 worthless explanation *jalasyo 'paristhitaśāivālavat  
 āntarāvayavāsambaddham*. Further may be compared HGS. ii. 3. 1. ⌊MP., at  
 ii. 11. 19, 20, has the verse with variants.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </details>
+</details>
 </div>
-
-
 ## ०५ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,30 +235,27 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/05_vi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
+<details open><summary><h3>०५ वि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. I split apart thy urinator, apart the *yóni*, apart the \[two\]  
 groins, apart both the mother and the child, apart the boy from the  
 afterbirth; let the afterbirth descend.
 
-#### Notes
+##### Notes
 Ppp. (xx.) has for **a, b** *vi te cṛtāmi tagariṁ v' yoni vi gavenyāu;*  
 for **d**, *vi garbhaṁ ca jarāyujaḥ;* and TS. (iii. 3-10¹) presents a  
 version nearly accordant with this, but with *takarī́m, gavīnyāù*, and  
 (at the end) *jarā́yu ca:* neither has our refrain.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/05_vi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque divido, puerum a placenta divido: decidat placenta.
 </details>
+</details>
 </div>
-
-
 ## ०६ यथा वातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,14 +271,15 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम्॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
+<details open><summary><h3>०६ यथा वातो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. As the wind, as the mind, as fly the birds, so do thou, O ten months'  
 \[child\], fly along with the afterbirth; let the afterbirth descend.
 
-#### Notes
+##### Notes
 Ppp. has the version *yathā vāto yathā dagha yathā saṣadroyajanta: evā  
 te garbha ejatu nir āitu daśamāsyo bahir jarāyuṇā saha*. For 'do thou  
 fly' might be given 'do thou fall,' the verb having both meanings. ⌊Ten  
@@ -307,12 +290,10 @@ Berliner Akad.*, 1861.⌋ ⌊Cf. RV. v. 78.8.⌋
 This *anuvāka* ⌊2.⌋ has 5 hymns, 25 verses; and the old Anukramaṇī, as  
 quoted, says *pañca pare tu* (apparently the *vidyāt* quoted at the end  
 of *an.* 1 belongs rather here than there).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sicut ventus, sicut mens, sicut alites volant, sic, decem mensium puer, cum placenta descende: descendat placenta.
+</details>
 </details>
 </div>

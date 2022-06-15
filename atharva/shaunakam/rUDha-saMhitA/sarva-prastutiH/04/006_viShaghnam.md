@@ -19,22 +19,19 @@ title = "००६ विषघ्नम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The absence of this verse in Ppp., and the normal length of the hymn without it, together with its own senselessness, suggest strongly the suspicion of its unoriginality. To put meaning into it, the comm. maintains that the serpents have castes, as men have; and that their primal Brahman was Takṣaka.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to make a poisoned arrow harmless
 </details>
+</details>
 </div>
-
-
 ## ०१ ब्राह्मणो जज्ञे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/01_brAhmaNo_jajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,30 +47,27 @@ A charm to make a poisoned arrow harmless
 स सोमं॑ प्रथ॒मः प॑पौ॒ स चकारार॒सं वि॒षम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/01_brAhmaNo_jajne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/01_brAhmaNo_jajne.md">
+<details open><summary><h3>०१ ब्राह्मणो जज्ञे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The Brahman was born first, with ten heads, with ten mouths; he first  
 drank the soma; he made the poison sapless.
 
-#### Notes
+##### Notes
 The absence of this verse in Ppp., and the normal length of the hymn  
 without it, together with its own senselessness, suggest strongly the  
 suspicion of its unoriginality. To put meaning into it, the comm.  
 maintains that the serpents have castes, as men have; and that their  
 primal Brahman was Takṣaka.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/01_brAhmaNo_jajne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Brahman first was brought to life ten-headed and with faces ten. First drinker of the Soma, he made poison ineffectual.
 </details>
+</details>
 </div>
-
-
 ## ०२ यावती द्यावापृथिवी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -89,15 +83,16 @@ The Brahman first was brought to life ten-headed and with faces ten. First drink
 वाचं॑ वि॒षस्य॒ दूष॑णीं॒ तामि॒तो निर॑वादिषम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
+<details open><summary><h3>०२ यावती द्यावापृथिवी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. As great as \[are\] heaven-and-earth by their width, as much as the  
 seven rivers spread out (*vi-sthā*), \[so far\] have I spoken out from  
 here these words (*vā́c*), spoilers of poison.
 
-#### Notes
+##### Notes
 *Tā́vatīm* in **d** for *tā́m itas* would be a welcome emendation. The  
 first half-verse occurs in VS. (xxxviii. 26 **a, b**: not quoted in śB.)  
 and TS. (in iii. 2. 6¹): VS. omits *varimṇā́;*- TS. has instead  
@@ -108,17 +103,13 @@ reads *-sthire*; the lingualization is one of the cases falling under
 Prāt. ii. 93. The comm. glosses in **b** *sindhavas* by *samudrās*, and  
 *vitasthire* by *vyāvartante*. This irregular *prastāra-pan̄kti* is  
 overlooked by the Anukr. in its treatment of the meter.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/02_yAvatI_dyAvApRthivI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Far as the heavens and earth are spread in compass, far as the Seven Rivers are extended, So far my spell, the antidote of poison, have I spoken hence,
 </details>
+</details>
 </div>
-
-
 ## ०३ सुपर्णस्त्वा गरुत्मान्विष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -134,15 +125,16 @@ Far as the heavens and earth are spread in compass, far as the Seven Rivers are 
 नामी॑मदो॒ नारू॑रुप उ॒तास्मा॑ अभवः पि॒तुः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
+<details open><summary><h3>०३ सुपर्णस्त्वा गरुत्मान्विष ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The winged (*garutmant*) eagle consumed (*av*) thee first, O poison;  
 thou hast not intoxicated (*mad*), thou hast not racked (*rup*) \[him\];  
 and thou becamest drink for him.
 
-#### Notes
+##### Notes
 At beginning of **b**, *víṣa* is read only ⌊by Ppp. and⌋ by the comm.  
 and by one of SPP's mss. that follows him; all the rest have the gross  
 blunder *víṣaḥ* (both editions emend to *víṣa*). Ppp. gives *ādayat* in  
@@ -154,17 +146,13 @@ Garutmant,' and the comm. so understands it, adding the epithet
 *vāinateya* to show that *garutmant* = Garuḍa. He also takes the two  
 aorists and the imperfect in **c-d** alike as imperatives (*nā ’rūrupas*  
 = *vimūḍham mā kārṣīḥ*). The Anukr. does not note **a** as irregular.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/03_suparNastvA_garutmAnviSha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst not gripe or make him drunk: aye, thou becamest food for him.
 </details>
+</details>
 </div>
-
-
 ## ०४ यस्त आस्यत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/04_yasta_Asyat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,15 +168,16 @@ The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst n
 अ॒प॒स्क॒म्भस्य॑ श॒ल्यान्निर॑वोचम॒हं वि॒षम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/04_yasta_Asyat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/04_yasta_Asyat.md">
+<details open><summary><h3>०४ यस्त आस्यत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. He of five fingers that hurled at thee from some crooked bow—from the  
 tip (*śalyá*) of the *apaskambhá* have I exorcised (*nir-vac*) the  
 poison.
 
-#### Notes
+##### Notes
 *Apaskambhá* is very obscure; the Pet. Lex. suggests "perhaps the  
 fastening of the arrow-head to the shaft"; Ludwig guesses "barb," but  
 that we have in vs. 5—as we also have *śalya*, which seems therefore  
@@ -201,17 +190,13 @@ reads) is the true text there ⌊Calcutta ed. reads *apastambhāu*⌋. The
 comm. has no idea what *apaskambha* means, but makes a couple of wild  
 guesses: it is the betel-nut (*kramuka*)-tree, or it is an arrow (both  
 based on senseless etymologies). In **a**, Ppp. reads *-gulis*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/04_yasta_Asyat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whoever with five fingers hath discharged thee from the crooked bow, I from the shaft have charmed away the poison of the fastening band.
 </details>
+</details>
 </div>
-
-
 ## ०५ शल्याद्विषं निरवोचं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/05_shalyAdviShaM_niravochaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,31 +212,28 @@ Whoever with five fingers hath discharged thee from the crooked bow, I from the 
 अ॒पा॒ष्ठाच्छृङ्गा॒त्कुल्म॑ला॒न्निर॑वोचमहं वि॒ष॑म्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/05_shalyAdviShaM_niravochaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/05_shalyAdviShaM_niravochaM.md">
+<details open><summary><h3>०५ शल्याद्विषं निरवोचं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. From the tip have I exorcised the poison, from the anointing and from  
 the feather-socket; from the barb (*apāṣṭhá*), the horn, the neck have I  
 exorcised the poison.
 
-#### Notes
+##### Notes
 Ppp. reads *vocam* instead of *avocam* in **a** and **d**, and its **b**  
 is *āñjanāt parṇadher uta*. Prāt. ii. 95 regards *apāṣṭha* as from  
 *apa-sthā*, doubtless correctly; between the "barb" and the "horn" there  
 is probably no important difference. To the comm., the *apāṣṭha* is a  
 poison-receptacle (*apakṛṣṭāvasthād etatsaṁjñād viṣopādānāt*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/05_shalyAdviShaM_niravochaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The poison have I charmed away from shaft, cement, and feather- ed end; Yea, from the barb, the neck, the horn, the poison have I charmed away.
 </details>
+</details>
 </div>
-
-
 ## ०६ अरसस्त इषो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/06_arasasta_iSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -267,27 +249,24 @@ The poison have I charmed away from shaft, cement, and feather- ed end; Yea, fro
 उ॒तार॒सस्य॑ वृ॒क्षस्य॒ धनु॑ष्टे अरसार॒सम्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/06_arasasta_iSho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/06_arasasta_iSho.md">
+<details open><summary><h3>०६ अरसस्त इषो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Sapless, O arrow, is thy tip; likewise thy poison is sapless; also  
 thy bow, of a sapless tree, O sapless one, is sapless.
 
-#### Notes
+##### Notes
 The comm. strangely takes *arasārasam* at the end (p. *arasa: arasám*)  
 as a reduplicated word, "excessively sapless."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/06_arasasta_iSho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of a worthless tree, thy bow, O feeble one, is impotent.
 </details>
+</details>
 </div>
-
-
 ## ०७ ये अपीषन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/07_ye_apIShan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -303,31 +282,28 @@ Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of 
 सर्वे॒ ते वध्र॑यः कृ॒ता वध्रि॑र्विषगि॒रिः कृतः ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/07_ye_apIShan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/07_ye_apIShan.md">
+<details open><summary><h3>०७ ये अपीषन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. They who mashed, who smeared, who hurled, who let loose—they \[are\]  
 all made impotent; impotent is made the poison-mountain.
 
-#### Notes
+##### Notes
 That is, as the comm. is wise enough to see, the mountain from which the  
 poisonous plant is brought. "Let loose" (*ava-sṛj*) probably applies to  
 arrows as distinguished from spears; though "hurl" might be used equally  
 of both. Ppp. has in **c** *santu* instead of *kṛtās*. According to  
 SPP., the text used by the comm. combines *ye ‘pīṣan;* *apīṣan* is an  
 anomalous form for *apiṅṣan*, with which the comm. glosses it.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/07_ye_apIShan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The men who brayed it, smeared it on, they who discharged it, sent it forth, All these are made emasculate, emasculate the poison-hill.
 </details>
+</details>
 </div>
-
-
 ## ०८ वध्रयस्ते खनितारो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -343,23 +319,22 @@ The men who brayed it, smeared it on, they who discharged it, sent it forth, All
 वध्रिः॒ स पर्व॑तो गि॒रिर्यतो॑ जा॒तमि॒दं वि॒षम्॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
+<details open><summary><h3>०८ वध्रयस्ते खनितारो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Impotent \[are\] thy diggers; impotent art thou, O herb; impotent  
 \[is\] that rugged (*párvata*) mountain whence was born this poison.
 
-#### Notes
+##### Notes
 As was pointed out above (under iv. 4. 2), the first half-verse is a  
 sort of opposite of one found in Ppp., and quoted by Kāuś. (at 40. 14).  
 ⌊With *párvata girí* cf. *mṛgá hastín*, xii. 1. 25.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/006_viShaghnam/08_vadhrayaste_khanitAro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy diggers are emasculate, emasculate, O, Plant art thou. The rugged mountain that produced this poison is emasculate.
+</details>
 </details>
 </div>

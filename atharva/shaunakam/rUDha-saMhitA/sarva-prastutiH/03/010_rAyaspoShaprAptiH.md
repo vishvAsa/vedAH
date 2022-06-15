@@ -20,26 +20,23 @@ title = "०१० रायस्पोषप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found, except vss. 9 and 13, in Pāipp. i., but with a very different order of verses (1-4, 6, 11, 10, 8, 5, 12, 7). Used by Kāuś. in connection with the aṣṭakā ceremony, or celebration of the festival of the moon's last quarter (19. 28, and again, with more fulness, 138. 1-16), or of a particular last quarter, regarded as of special importance. The details of the Kāuś. are expanded and explained by the comm.; they are not of a nature to cast light upon the interpretation of the verses. Weber (pp. 219 ff.) discusses at considerable length the questions connected with the festival. Vāit., which does not concern itself with the aṣṭakā, yet employs vs. 6 (13. 6) at the agniṣṭoma sacrifice, in connection with the somakrayaṇī cow; and also vs. 7 c-f (9. 4) in the sākamedha rite of the cāturmāsya sacrifice. The comm. quotes vss. 2, 3, 7 as employed by Pariśiṣṭa 6. 1.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 189; Weber, xvii. 218; Griffith, i. 93.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A new year prayer
 </details>
+</details>
 </div>
-
-
 ## ०१ प्रथमा ह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -55,14 +52,15 @@ A new year prayer
 सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
+<details open><summary><h3>०१ प्रथमा ह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. She first shone out; she became a milch-cow at Yama's; let her, rich  
 in milk, yield (*duh*) to us each further summer (? *sámā*).
 
-#### Notes
+##### Notes
 The verse occurs also in several other texts: in TS. (iv. 3. 11⁵), MS.  
 (ii. 13. 10), K. (xxxix. 10), PGS. (iii. 3. 5), and MB. (ii. 2. 1; 8.  
 1); and its second half is RV. iv. 57. 7 **c, d**, and MB. i. 8. 8 **c,  
@@ -74,17 +72,13 @@ occurrences) has *duhā utt-*, and in 8. i also *arhaṇā putra vāsa* for
 **a**. The comm. takes *sámām* in **d** as an adverbial accus. (=  
 *sarveṣu vatsareṣu*), as does Weber. ⌊Cf. Hillebrandt, *Ved. Mythol.* i.  
 500.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The First hath dawned. With Yama may it be a cow to pour forth milk. May she be rich in milk and stream for us through many a com- ing year.
 </details>
+</details>
 </div>
-
-
 ## ०२ यां देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,32 +94,29 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 सं॒व॒त्स॒रस्य॒ या पत्नी॒ सा नो॑ अस्तु सुमङ्ग॒ली॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
+<details open><summary><h3>०२ यां देवाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The night which the gods rejoice to meet, \[as\] a milch-cow coming  
 unto \[them\], which is the spouse (*pátnī*) of the year—let her be very  
 auspicious to us.
 
-#### Notes
+##### Notes
 The verse is found also in PGS. (iii. 2. 2), HGS. (ii. 17. 2) ⌊MP. (ii.  
 20. 27) and MGS. (ii. 8.4^(c))⌋, and its second half in MB. (ii. 2. 16  
 **c, d**); the first four have the better readings *janās* in **a** and  
 *ivā ”yatīm* in **b** ⌊and MGS. has *rātrīm.*⌋ Ppp. has in **b** *dhenu  
 rātrim up-*, and at the end *-galā*. For *saṁvatsarásya pátnī* (cf. vs.  
 8 **a, b**) the comm. quotes TS. vii. 4. 8¹.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May she whom Gods accept with joy, Night who approacheth. as a cow, She who is Consort of the Year, bring us abundant happiness
 </details>
+</details>
 </div>
-
-
 ## ०३ संवत्सरस्य प्रतिमां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -141,14 +132,15 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAM.md">
+<details open><summary><h3>०३ संवत्सरस्य प्रतिमां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thou, O night, whom we worship (*upa-ās*) as model (*pratimā́*) of the  
 year-—do thou unite our long-lived progeny with abundance of wealth.
 
-#### Notes
+##### Notes
 Or, perhaps better (so the comm. and Weber), 'do thou \[give\] us  
 long-lived progeny; unite \[us\] with abundance of wealth.' Ppp. has for  
 **b** *ye tvā rātrim upāsate*, and in **c** *teṣām* for *sā nas.* ⌊MGS.  
@@ -157,17 +149,13 @@ first half-verse is read also in TS. (v. 7. 2¹), K. (xl. 2), PGS. (iii.
 2. 2), and MB. (ii. 2. 18): TS. gives at end of **b** *upā́sate*, MB.  
 *yajāmahe;* PGS. has *pratimā yā tāṁ rātrīm upāsmahe.* In our edition,  
 restore a lost accent-mark over the *sṛ* of *sṛja* in **d.**
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. us children long to live; bless us with increase of our wealth.
 </details>
+</details>
 </div>
-
-
 ## ०४ इयमेव सा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -183,15 +171,16 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
+<details open><summary><h3>०४ इयमेव सा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. This same is she that first shone out; among these other ones (f.)  
 she goes about (*car*), having entered; great greatnesses \[are\] within  
 her; the bride (*vadhū́*), the new-going generatrix, hath conquered.
 
-#### Notes
+##### Notes
 This verse is repeated below as viii. 9. 11. It occurs, with  
 considerable variants, in a whole series of other texts: TS. (iv. 3.  
 11¹), MS. (ii. 13. 10), K. (xxxix. 10), śGS. (iii. 12. 3), and MB. (ii.  
@@ -214,17 +203,13 @@ follow." The meter is really redundant by a syllable in **a**
 ⌊*iyāívá?*⌋. ⌊Further, MB. has in **a** *eṣāi ’va sā yā pūrvā vy-;* and  
 Ppp. ends **d** with *janitrīm.*—BR., v. 1538, give 'erst-gebärend' for  
 *navagát.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This same is she whose light first dawned upon us: she moves established in the midst of others: Great powers and glories are contained within her: a first-born bride, she conquers and bears children.
 </details>
+</details>
 </div>
-
-
 ## ०५ वानस्पत्या ग्रावाणो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -240,15 +225,16 @@ This same is she whose light first dawned upon us: she moves established in the 
 एका॑ष्टके सुप्र॒जसः॑ सु॒वीरा॑ व॒यं स्या॑म॒ पत॑यो रयी॒णाम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
+<details open><summary><h3>०५ वानस्पत्या ग्रावाणो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The forest-tree pressing-stones have made their sound, making the  
 oblation of the complete year (*parivatsarī́ṇa*); O sole *áṣṭakā*, may  
 we, having good progeny and good heroes, be lords of wealths.
 
-#### Notes
+##### Notes
   
   
   
@@ -267,17 +253,13 @@ sampravadanti grāvāṇas*, ends **b** with *-rīṇām*, and has for **d**
 *jyog jīvema balihṛto vayaṁ te.* ⌊It recurs also at MP. ii. 20. 34 and  
 MGS. ii. 8. 4^(b).⌋ The first pāda is *jagatī*, unnoted in the Anukr.  
 ⌊As to *aṣṭakā*, cf. Zimmer, p. 365.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Loud was the wooden pass-gear's ring and rattle, as it made annual oblation ready. First Ashtaka! may we be lords of riches, with goodly children and good men about us.
 </details>
+</details>
 </div>
-
-
 ## ०६ इडायास्पदं घृतवत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -293,15 +275,16 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒स्तेषां सप्ता॒नां मयि॒ रन्ति॑रस्तु ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavat.md">
+<details open><summary><h3>०६ इडायास्पदं घृतवत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. The track (*padá*) of Idā \[is\] full of ghee, greatly trickling; O  
 Jātavedas, accept thou the oblations. The cattle of the village that are  
 of all forms—of those seven let the willing stay (*ráṁti*) be with me.
 
-#### Notes
+##### Notes
 Versions are found in AśS. (ii. 2. 17), ĀpśS. (vi. 5. 7), HGS. (ii. 17.  
 2), and MB. (ii. 2. 14), and of the latter half in TA. (iii. 11. 12, vs.  
 31 **a, c**). MB. agrees with our text throughout; the three others have  
@@ -317,17 +300,13 @@ indefinite sacred one. Pada **a** is again *jagatī*, as in vs. 5. ⌊Pāda
 **c** is our ii. 34. 4 **a**; between *viśvarūpās* and *teṣām* ĀpśS.  
 inserts *virūpās* (a fragment of our ii. 34. 4 **b**!).—Prāt. ii. 72  
 requires *iḍāyās p-.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations. Tame animals of varied form and colour--may all the seven abide with me contented.
 </details>
+</details>
 </div>
-
-
 ## ०७ आ मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -345,14 +324,15 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 सर्वान् य॒ज्ञान्त्सं॑भुञ्ज॒तीषमूर्जं॑ न॒ आ भ॑र ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/07_A_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
+<details open><summary><h3>०७ आ मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. \[Set\] thou me in both prosperity and abundance; O night, may we be  
 in the favor of the gods.
 
-#### Notes
+##### Notes
 O spoon, fly away full; fly back hither well-filled; jointly enjoying  
 all sacrifices, bring to us food (*íṣ*), refreshment (*ū́rj*).  
   
@@ -379,17 +359,13 @@ whole is made a verse, with three *avasānas;* the statement, but not the
 title, appears to fit our Anukr.; this scans as 8 + 10; 8 + 8: 8 + 8 =  
 50, needlessly counting only 10 syllables in **b**. In our ed., read  
 *mā* for *me*. ⌊Cf. iv. 15. 12 n.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/07_A_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come thou to nourish me and make me prosper. Night! may the favour of the Gods attend us. Filled full, O Ladle, fly thou forth. Completely filled fly back again. Serving at every sacrifice bring to us food and energy.
 </details>
+</details>
 </div>
-
-
 ## ०८ आयमगन्त्संवत्सरः पतिरेकाष्टके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -405,29 +381,26 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
+<details open><summary><h3>०८ आयमगन्त्संवत्सरः पतिरेकाष्टके ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Hither hath come the year, thy spouse, O sole *áṣṭakā;* do thou unite  
 our long-lived progeny with abundance of wealth.
 
-#### Notes
+##### Notes
 Instead of repeating the second half-verse of vs. 3, Ppp. gives for **c,  
 d** *tasmāi juhomi: haviṣā ghṛtena śāu naś śarma yacchatu.* Against his  
 usual habit, the comm. explains **c, d** anew, but quite in accordance  
 with his former explanation.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us children long to live, bless us with increase of our wealth.
 </details>
+</details>
 </div>
-
-
 ## ०९ ऋतून् यज
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/09_RtUn_yaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -443,15 +416,16 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 समाः॑ संवत्स॒रान् मासा॑न् भू॒तस्य॒ पत॑ये यजे ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/09_RtUn_yaja.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/09_RtUn_yaja.md">
+<details open><summary><h3>०९ ऋतून् यज ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. I sacrifice to the seasons, the lords of the seasons, them of the  
 seasons (*ārtavá*), and the winters (*hāyaná*), to the summers (*sámā*),  
 the years, the months; for the lord of existence I sacrifice.
 
-#### Notes
+##### Notes
 The change of case, from accusative to dative, in **d**, doubtless  
 intends no change of construction. The verse, as noted above, is wanting  
 in Ppp.; it is in part repeated below, as xi. 6. 17. According to the  
@@ -460,17 +434,13 @@ comm., the "lords of the seasons" are the gods, Agni etc.; the *ārtavas*
 of time, sixteenths, *kāṣṭhās*, etc."; and although *samā, saṁvatsara*,  
 and *hāyana* are synonymous, yet *hāyana* here signifies "days and  
 nights," and *samā* "half-months."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/09_RtUn_yaja.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half years, Years, Months, I offer to the Lord of all existing things.
 </details>
+</details>
 </div>
-
-
 ## १० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -486,15 +456,16 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<details open><summary><h3>१० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. To thee for the seasons, them of the seasons, the months, the years,  
 the Creator (*dhātár*), the Disposer (*vidhātár*), the Prosperer (?  
 *samṛ́dh*), the lord of existence, do I sacrifice.
 
-#### Notes
+##### Notes
 All the *saṁhitā*-mss. combine in **a** *-bhyaṣ ṭvā*, and SPP. accepts  
 the reading in his text; ours emends to *-bhyas tvā;* such treatment of  
 final *as* is common in Ppp., and sporadic examples of it are found  
@@ -506,17 +477,13 @@ be the one repeated as xix. 37. 4; see under that verse. Ppp. has, for
 any rate rids the text of the embarrassing *tvā*. Here the comm.  
 declares the *ārtavas* to be "days and nights, etc."; *samṛ́dh* he  
 explains as *samardhayitre etannāmne devāya.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vidhatar, Fortune, to the lord of all existing things.
 </details>
+</details>
 </div>
-
-
 ## ११ इडया जुह्वतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -532,15 +499,16 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vi
 गृ॒हानलु॑भ्यतो व॒यं सं वि॑शे॒मोप॒ गोम॑तः ॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
+<details open><summary><h3>११ इडया जुह्वतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. We, making oblation with *ídā*—I sacrifice to the gods with what is  
 rich in ghee; unto houses not disorderly (? *álubhyant*), rich in kine,  
 may we enter together.
 
-#### Notes
+##### Notes
 Or, it might be, 'may we lie down, go to rest'; the translation would  
 imply more naturally *sam úpa viśema* ⌊the *Index Verborum* takes *úpa*  
 as an independent "case-governing" preposition⌋; the comm. says *upe  
@@ -548,17 +516,13 @@ as an independent "case-governing" preposition⌋; the comm. says *upe
 anacoluthon in **a, b** by declaring *yaje* = *yajāmahe*, and takes  
 *alubhyatas* as either nom. (*gārdhyam akurvāṇās*) or accus.  
 (*gārdhyarahitān*). Ppp. reads for **d** *dṛṣadesvpagomata.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may we retire to rest us in our modest homes.
 </details>
+</details>
 </div>
-
-
 ## १२ एकाष्टका तपसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -574,15 +538,16 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 तेन॑ दे॒वा व्यऽसहन्त॒ शत्रू॑न् ह॒न्ता दस्यू॑नामभव॒च्छची॒पतिः॑ ॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
+<details open><summary><h3>१२ एकाष्टका तपसा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. The sole *áṣṭakā*, paining herself (*tapyá-*) with penance,  
 generated an embryo, a greatness, Indra; by him the gods overcame their  
 foes; slayer of the barbarians became the lord of might (*śácī-*).
 
-#### Notes
+##### Notes
 The verse is found also in TS. (iv. 3. 11³), K. (xxxix. 10), PGS. (iii.  
 3. 5), and MB. (ii. 3. 21); and **a** is identical with HGS. ii. 15.9  
 **a** ⌊and MP. ii. 20. 35 **a**⌋: TS. accents *tápya-* in **a** (the  
@@ -598,17 +563,13 @@ different explanations of *gárbham* in **b**, adding *garaṇīyam* or
 *stutyam* (from *gṛ* 'sing'), and then *garbhasthavad adṛśyam* (from  
 *gṛ* 'swallow'), to the true meaning. The *ekāṣṭakā* he defines to be  
 "eighth day of the dark half of Māgha." The concluding pāda is *jagatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ekashtaka, burning with zealous fervour, brought forth her babe the great and glorious Indra. With him the Gods subdued their adversaries: the Lord of Might became the Dasyus' slayer.
 </details>
+</details>
 </div>
-
-
 ## १३ इन्द्रपुत्रे सोमपुत्रे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -624,24 +585,23 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 कामा॑न॒स्माकं॑ पूरय॒ प्रति॑ गृह्णाहि नो ह॒विः ॥१३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
+<details open><summary><h3>१३ इन्द्रपुत्रे सोमपुत्रे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. Thou whose son is Indra, whose son is Soma, daughter art thou of  
 Prajāpati; fulfil thou our desires; accept our oblation.
 
-#### Notes
+##### Notes
 Wanting in Ppp., as above noted.  
   
 The second *anuvāka* contains 5 hymns, 40 verses; and the quotation from  
 the old Anukr. is simply *daśa*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra's and Soma's mother! thou art daughter of Prajapati. Satisfy thou our hearts' desires. Gladly accept our sacrifice.
+</details>
 </details>
 </div>

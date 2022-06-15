@@ -19,24 +19,19 @@ title = "१०९ पिप्पली-भैषज्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/109_pippalI-bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Employed in Kāuś. once (26. 33) with vi. 85, 127, and other hymns, and once (26. 38) alone, in a remedial rite against various wounds.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 516. See Bergaigne-Henry, Manuel, p. 154.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/109_pippalI-bhaiShajyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ पिप्पली क्षिप्तभेषज्यू३तातिविद्धभेषजी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyU3tAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyU3tAtividdhabheShajI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyU3tAtividdhabheShajI.md">
+<details open><summary><h3>०१ पिप्पली क्षिप्तभेषज्यू३तातिविद्धभेषजी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The berry (*pippalī́*), remedy for what is bruised (? *kṣiptá*), and  
 remedy for what is pierced—that did the gods prepare (*sam-kalpay-*)  
 that is sufficient for life.
 
-#### Notes
+##### Notes
 As elsewhere, the mss. waver between *pippalī* and *piṣpalī* (our  
 Bp.E.O.R.p.m. read the latter). All the *pada*-mss. stupidly give  
 *jī́vita: vāí* as two independent words. Ppp. has, in **a**, *kṣupta-*  
@@ -73,17 +69,13 @@ cases; among our mss. are found *ū3*, *ū1*, and *u3*. The comm. gives
 two alternatives both for *kṣipta-* and for *atividdha-*: for the former  
 *tiraskṛta* (of other remedies) and *vātarogaviśeṣa*, and so on.  
 \*⌊Intending -*tavāi iti*?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyU3tAtividdhabheShajI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods prepared and fashioned it. This hath sufficient power for life.
 </details>
+</details>
 </div>
-
-
 ## ०२ पिप्पल्यः१ समवदन्तायतीर्जननादधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH1_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -99,14 +91,15 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/109_pippalI-bhaiShajyam/02_pippalyaH1_samavadantAyatIrjananAdadhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/02_pippalyaH1_samavadantAyatIrjananAdadhi.md">
+<details open><summary><h3>०२ पिप्पल्यः१ समवदन्तायतीर्जननादधि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The berries talked together, coming from their birth: whomever we  
 shall reach living, that man shall not be harmed.
 
-#### Notes
+##### Notes
 The second half-verse is the same, without variant, as RV. x. 97. 17  
 **c, d** (found also as VS. xii. 91 **c, d**, and in TS. iv. 2. 65 and  
 MS. ii. 7. 13: the latter reading *-mahe* in **c**); while the first  
@@ -118,17 +111,13 @@ number of SPP's authorities, giving *piṣp-*. The comm. explains the word
 by *hastipippalyādijātibhedabhinnāḥ sarvāḥ pippalyaḥ;* and their "birth"  
 to have been contemporaneous with the churning of the *amṛta*. ⌊Ppp.  
 ends with *pāuruṣaḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/109_pippalI-bhaiShajyam/02_pippalyaH1_samavadantAyatIrjananAdadhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When from their origin they came, the Berries spake among themselves: The man whom we shall find alive shall never suffer injury.
 </details>
+</details>
 </div>
-
-
 ## ०३ असुरास्त्वा न्यऽखनन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nya_akhanan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,22 +133,21 @@ When from their origin they came, the Berries spake among themselves: The man wh
 वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/109_pippalI-bhaiShajyam/03_asurAstvA_nya_akhanan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nya_akhanan.md">
+<details open><summary><h3>०३ असुरास्त्वा न्यऽखनन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The Asuras dug thee in; the gods cast thee up again, a remedy for the  
 *vātī́kṛta*, likewise a remedy for what is bruised.
 
-#### Notes
+##### Notes
 The comm. understands *vātikṛta* as *vātarogāviṣṭaśarīra*. ⌊Cf. vi. 44.  
 3.⌋ ⌊In Ppp., **d** is wanting, perhaps by accident.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/109_pippalI-bhaiShajyam/03_asurAstvA_nya_akhanan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness caused by wounds and healer of the missile's rent.
+</details>
 </details>
 </div>

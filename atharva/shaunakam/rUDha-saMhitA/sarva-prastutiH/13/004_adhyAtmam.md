@@ -21,29 +21,26 @@ title = "००४ अध्यात्मम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Partly prose, and vss. 14-15, 22-26, and 46-56 are so designated in W's Index, p. 6.⌋ This hymn is not found in Pāipp., nor noticed either in Kāuś. or in Vāit. *⌊Here, indeed (but cf. introd. to hymn 3), the general definition for the whole kāṇḍa as "trāiṣṭubham" does not seem to apply.⌋
 
 
 
 
 
-#### Translations
+##### Translations
 Translated: Henry, 17, 51; Griffith, ii. 154.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A glorification of the Sun as the only Deity
 </details>
+</details>
 </div>
-
-
 ## ०१ स एति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/01_sa_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -57,26 +54,22 @@ A glorification of the Sun as the only Deity
 स ए॑ति सवि॒ता स्वऽर्दि॒वस्पृ॒ष्ठेऽव॒चाक॑शत्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/01_sa_eti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/01_sa_eti.md">
+<details open><summary><h3>०१ स एति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. He goes \[as\] impeller (Savitar) to the heaven (*svàr*), looking  
 down upon the back of the sky.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/01_sa_eti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Down looking, on the ridge of sky Savitar goes to highest heaven.
 </details>
+</details>
 </div>
-
-
 ## ०२ रश्मिभिर्नभ आभृतं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,26 +83,22 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtaM.md">
+<details open><summary><h3>०२ रश्मिभिर्नभ आभृतं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. To the cloud-mass (*nábhas*) brought by rays he goes \[as\] great  
 Indra, covered.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/02_rashmibhirnabha_AbhRtaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To misty cloud filled with his rays Mahendra goes encompassed round.
 </details>
+</details>
 </div>
-
-
 ## ०३ स धाता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/03_sa_dhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -125,26 +114,23 @@ To misty cloud filled with his rays Mahendra goes encompassed round.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/03_sa_dhAtA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/03_sa_dhAtA.md">
+<details open><summary><h3>०३ स धाता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. He \[is\] the Creator (*dhātṛ́*), he the disposer, he Vāyu, the  
 upraised (*ut-śri*) cloud-mass.
 
-#### Notes
+##### Notes
 A syllable is lacking, unless we make harsh resolution, in **a**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/03_sa_dhAtA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Creator and Ordainer, he is Vayu, he is lifted cloud.
 </details>
+</details>
 </div>
-
-
 ## ०४ सोऽर्यमा स
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/04_so_aryamA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,25 +146,21 @@ Creator and Ordainer, he is Vayu, he is lifted cloud.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/04_so_aryamA_sa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/04_so_aryamA_sa.md">
+<details open><summary><h3>०४ सोऽर्यमा स ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. He \[is\] Aryaman, he Varuṇa, he Rudra, he the great god.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/04_so_aryamA_sa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Rudra, and Mahadeva, he is Aryaman and Varuna.
 </details>
+</details>
 </div>
-
-
 ## ०५ सो अग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/05_so_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -194,26 +176,23 @@ Rudra, and Mahadeva, he is Aryaman and Varuna.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/05_so_agniH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/05_so_agniH.md">
+<details open><summary><h3>०५ सो अग्निः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. He \[is\] Agni, he also the Sun, he indeed great Yama.
 
-#### Notes
+##### Notes
 Parts of this verse are quoted as examples under Prāt. ii. 21, 24; iii.  
 35, 36; iv. 116.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/05_so_agniH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni is he, and Siirya, he is verily Mahayama.
 </details>
+</details>
 </div>
-
-
 ## ०६ तं वत्सा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/06_taM_vatsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -229,29 +208,26 @@ Agni is he, and Siirya, he is verily Mahayama.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/06_taM_vatsA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/06_taM_vatsA.md">
+<details open><summary><h3>०६ तं वत्सा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. On him wait (*upa-sthā*) young ones (*vatsá*), ten, united, having  
 one head.
 
-#### Notes
+##### Notes
 Henry acutely suggests emendation in **b** to *-ṇo ‘yútā dáśa* 'ten  
 myriads'—i.e. of rays, all heading in the sun itself. It seems probable  
 that the original text had *ékaśīrṣās:* cf. *dáśaśīrṣas*, iv. 6. 1; the  
 verse as it stands is redundant.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/06_taM_vatsA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Calves, joined, stand close beside him, ten in number, with one single head.
 </details>
+</details>
 </div>
-
-
 ## ०७ पश्चात् प्राञ्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/07_pashchAt_prAncha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -267,25 +243,22 @@ Calves, joined, stand close beside him, ten in number, with one single head.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/07_pashchAt_prAncha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/07_pashchAt_prAncha.md">
+<details open><summary><h3>०७ पश्चात् प्राञ्च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. From behind they stretch on forward; when he rises, he shines forth.
 
-#### Notes
+##### Notes
 *Vibhā́sati* would seem a better reading at the end.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/07_pashchAt_prAncha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From west to east they bend their way: when he mounts up he shines afar.
 </details>
+</details>
 </div>
-
-
 ## ०८ तस्यैष मारुतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -299,27 +272,24 @@ From west to east they bend their way: when he mounts up he shines afar.
 तस्यै॒ष मारु॑तो ग॒णः स ए॑ति शि॒क्याकृ॑तः ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
+<details open><summary><h3>०८ तस्यैष मारुतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. His is this troop of Maruts; he goes sling-made.
 
-#### Notes
+##### Notes
 That is (?), 'as if hung in slings ' ⌊OB. 'an Schnüre gehängt'⌋. Henry  
 makes a venturesome and unacceptable emendation, and regards the  
 adjective as referring to the 'troop '—which is not impossible.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/08_tasyaiSha_mAruto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 His are these banded Maruts: they move gathered close like porters' thongs.
 </details>
+</details>
 </div>
-
-
 ## ०९ रश्मिभिर्नभ आभृतं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -333,26 +303,23 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 र॒श्मिभि॒र्नभ॒ आभृ॑तं महे॒न्द्र ए॒त्यावृ॑तः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtaM.md">
+<details open><summary><h3>०९ रश्मिभिर्नभ आभृतं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. To the cloud-mass brought by rays he goes \[as\] great Indra,  
 covered.
 
-#### Notes
+##### Notes
 This is a repetition of vs. 2; all the mss. give it in full.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/09_rashmibhirnabha_AbhRtaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To misty cloud filled with his rays Mahendra goes encompassed round,
 </details>
+</details>
 </div>
-
-
 ## १० तस्येमे नव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/10_tasyeme_nava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -366,25 +333,22 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 तस्ये॒मे नव॒ कोशा॑ विष्ट॒म्भा न॑व॒धा हि॒ताः ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/10_tasyeme_nava.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/10_tasyeme_nava.md">
+<details open><summary><h3>१० तस्येमे नव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. His are these nine vessels (*kóśa*), the props set nine-fold.
 
-#### Notes
+##### Notes
 The *pada*-text reads *viṣṭambhā́ḥ*, undivided.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/10_tasyeme_nava.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 His are the nine supports, the casks set in nine several places here.
 </details>
+</details>
 </div>
-
-
 ## ११ स प्रजाभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/11_sa_prajAbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,26 +362,23 @@ His are the nine supports, the casks set in nine several places here.
 स प्र॒जाभ्यो॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/11_sa_prajAbhyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/11_sa_prajAbhyo.md">
+<details open><summary><h3>११ स प्रजाभ्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. He looks abroad for living creatures (*prajā́*), both what breathes  
 and what does not.
 
-#### Notes
+##### Notes
 Cf. vs. 19, below; 'for,' apparently 'for the advantage of.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/11_sa_prajAbhyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 </details>
+</details>
 </div>
-
-
 ## १२ तमिदं निगतं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/12_tamidaM_nigataM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -431,27 +392,24 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/12_tamidaM_nigataM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/12_tamidaM_nigataM.md">
+<details open><summary><h3>१२ तमिदं निगतं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Into him is entered (*ni-gam*) this power; he himself is one,  
 single (*ekavṛ́t*), one only.
 
-#### Notes
+##### Notes
 The verse lacks four syllables of the *gāyatrī* number, instead of two,  
 as the Anukr. counts.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/12_tamidaM_nigataM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This conquering might hath entered him, He is the sole the simple One, the One alone.
 </details>
+</details>
 </div>
-
-
 ## १३ एते अस्मिन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/004_adhyAtmam/13_ete_asmin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -465,13 +423,14 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 ए॒ते अ॑स्मिन् दे॒वा ए॑क॒वृतो॑ भवन्ति ॥१३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/004_adhyAtmam/13_ete_asmin.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/004_adhyAtmam/13_ete_asmin.md">
+<details open><summary><h3>१३ एते अस्मिन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. These gods in him become single.
 
-#### Notes
+##### Notes
 The Anukr. counts fourteen syllables in the verse; one does not see  
 where it finds more than thirteen.  
   
@@ -479,12 +438,10 @@ where it finds more than thirteen.
   
 \[**Paryāya II.**—*aṣṭāu. 14. bhurik sāmnī triṣṭubh; 15. āsurī pan̄kti;  
 16, 19. prājāpatyā ’nuṣṭubh; 17, 18. āsurī gāyatrī.*\]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/13/004_adhyAtmam/13_ete_asmin.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In him these Deities become simple and One
+</details>
 </details>
 </div>

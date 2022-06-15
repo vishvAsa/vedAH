@@ -19,26 +19,23 @@ title = "०३१ गौः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/031_gauH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix., as in RV. (x. 189. 1-3), SV. (ii. 726-8),* VS. (iii. 6-8), TS. (i. 5. 31). K. (vii. 13), MS. (i. 6. 1). Used by Kāuś. (66. 14) in the savayajñas, with a spotted cow as sava. And by Vāit. in the agnyādheya ceremony (6. 3), as the sacrificer approaches the āhavaniya fire; and again in the sattra (33. 28), spoken by the Brahman-priest to the hotar, after the mānasastotra. *⌊Also in i. 631-3 = Nāigeya-śākhā v. 46-8.⌋
 
 
-#### Translations
+##### Translations
 Translated: as RV. hymn, by Max Müller, ZDMG. ix. (1855), p. XI; Geldner, Siebenzig Lieder des RV., 1875, p. 57; Ludwig, number 160; Grassmann, ii. 433; and as AV. hymn, by Florenz, 289 or 41; Griffith, i. 262.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/031_gauH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Surya the Sun-God
 </details>
+</details>
 </div>
-
-
 ## ०१ आयं गौः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/01_AyaM_gauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,31 +51,28 @@ To Surya the Sun-God
 पि॒तरं॑ च प्र॒यन्त्स्वः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/031_gauH/01_AyaM_gauH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/01_AyaM_gauH.md">
+<details open><summary><h3>०१ आयं गौः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Hither hath stridden this spotted steer, hath sat upon his mother in  
 the east, and going forward to his father, the heaven (*svàr*).
 
-#### Notes
+##### Notes
 All the texts agree in this verse, except that TS. has *ásanat* and  
 *púnaḥ* in **b**, while Ppp. has *prayat* in **c**. It seems to be a  
 description of the rising of a heavenly body,—the comm. and the  
 translators say, the sun; but the epithet "spotted," and the number  
 thirty in the third verse point rather to the moon. The "mother" is of  
 course the earth, upon which it seems to rest a moment.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/031_gauH/01_AyaM_gauH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This spotted Bull hath come and sat before his mother in the east. Advancing to his father Heaven.
 </details>
+</details>
 </div>
-
-
 ## ०२ अन्तश्चरति रोचना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/02_antashcharati_rochanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,15 +88,16 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 व्यऽख्यन्महि॒षः स्वः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/031_gauH/02_antashcharati_rochanA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/02_antashcharati_rochanA.md">
+<details open><summary><h3>०२ अन्तश्चरति रोचना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. He moves between the shining spaces, from the breath of this  
 outbreathing \[universe\]; the bull (*mahiṣá*) hath looked forth unto  
 the heaven (*svàr*).
 
-#### Notes
+##### Notes
 RV. (with which, through the whole hymn, SV. and VS. entirely agree)  
 reads (as does TS.) *apānatī́* (p. *apa॰anatī́*) at end of **b**; in  
 **c**, it reads *dívam* for *svàḥ*. TS. inverts the order of **a** and  
@@ -118,17 +113,13 @@ plural.⌋ Our P.M.I.R.T.K., and all SPP's authorities, separate *rocanā́
 asyá* in *saṁhitá* (the *pada*-text reading -*nā́*), and SPP. has  
 accordingly, properly enough, adopted it in his text: see the note to  
 Prāt. iii. 34. ⌊Ppp. also has *vyākhyan*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/031_gauH/02_antashcharati_rochanA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As expiration from his breath his radiance penetrates within. The Bull shines out through all the sky.
 </details>
+</details>
 </div>
-
-
 ## ०३ त्रिंशद् धामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/03_triMshad_dhAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,14 +135,15 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/031_gauH/03_triMshad_dhAmA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/03_triMshad_dhAmA.md">
+<details open><summary><h3>०३ त्रिंशद् धामा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thirty domains (*dhā́man*) he rules over; voice, the bird, hath set  
 up, to meet the day with the lights of morning.
 
-#### Notes
+##### Notes
 This translation is one of despair, and of no value, like the others  
 that are given of the verse. Taken by itself, the first pāda is well  
 enough, and seems most naturally (as noted above) to refer to the thirty  
@@ -179,12 +171,10 @@ before 2.
 With this hymn ends the third *anuvāka*, of 11 hymns and 33 verses; the  
 extracted item of Anukr. is simply *tṛtīya* (see end of the next  
 *anuvāka*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/031_gauH/03_triMshad_dhAmA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He rules supreme through thirty realms--One winged with song hath made him mount Throughout the days at break of morn.
+</details>
 </details>
 </div>

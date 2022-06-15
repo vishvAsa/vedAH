@@ -19,26 +19,23 @@ title = "०३१ क्रिमिजम्भनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. ii. Used by Kāuś. (27. 14 ff.) in an extended healing rite against worms; the detail of the ceremonial has nothing to do with that of the hymn, and does not illustrate the latter.
 
 
-#### Translations
+##### Translations
 Translated: Kuhn, KZ. xiii. 135 ff.; Weber, xiii. 199; Ludwig, p. 323; Grill, 6, 98; Griffith, i. 71; Bloomfield, 22, 313.—Cf. Zimmer, pp. 98, 393; Mannhardt, Der Baumkultus der Germanen, p. 12 ff.; K. Müllenhoff, Denkmäler deutscher Poesie aus dem 8. bis 12. Jahrhundert 3, i. 17, 181; and especially the old Germanic analogues adduced by Kuhn, l.c. Griffith cites Harper's Magazine, June, 1893, p. 106, for modern usages in vogue near Quebec.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against all sorts of worms
 </details>
+</details>
 </div>
-
-
 ## ०१ इन्द्रस्य या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,32 +51,29 @@ A charm against all sorts of worms
 तया॑ पिनष्मि॒ सं क्रिमी॑न् दृ॒षदा॒ खल्वाँ॑ इव ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/01_indrasya_yA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/01_indrasya_yA.md">
+<details open><summary><h3>०१ इन्द्रस्य या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The great mill-stone that is Indra's, bruiser (*tárhaṇa*) of every  
 worm—with that I mash (*piṣ*) together the worms, as *khálva*-grains  
 with a mill-stone.
 
-#### Notes
+##### Notes
 Our mss. and those of SPP., as well as Ppp., vary, in this hymn and  
 elsewhere, quite indiscriminately between *krími* and *kṛ́mi*, so that it  
 is not at all worth while to report the details; SPP. agrees with us in  
 printing everywhere *krími*. Two of our mss. (O. Op.), with one of  
 SPP's, read *dhṛṣát* in **a**. Ppp. gives at the end *khalvān̄ iva.* The  
 comm. explains *krimīn* by *śarīrāntargatān sarvān kṣudrajantūn.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/01_indrasya_yA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With Indra's mighty millstone, that which crushes worms of every sort, I bray and bruise the worms to bits like vetches on the grinding stone.
 </details>
+</details>
 </div>
-
-
 ## ०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,15 +89,16 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 अ॒ल्गण्डू॒न्त्सर्वा॑न् छ॒लुना॒न् क्रिमी॒न् वच॑सा जम्भयामसि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
+<details open><summary><h3>०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The seen, the unseen one have I bruised, also the *kurū́ru* have I  
 bruised; all the *algáṇḍus*, the *śalúnas*, the worms we grind up with  
 our spell (*vácas*).
 
-#### Notes
+##### Notes
 The distinction of *-lga-* and *-lā-* in the manuscripts is very  
 imperfect; I had noted only one of our mss. as apparently having  
 *algáṇḍūn*, here and in the next verse; but SPP. gives this as found in  
@@ -118,17 +113,13 @@ and *ū* in the syllables of the word, and two of ours (Op. Kp.) give
 further has *adraham* for *atṛham* both times, and *śalūlān* in **c**.  
 The omission of *krímīn* in **d** would ease both sense and meter. ⌊As  
 to *sarvāṅ ch-*, cf. iii. 11. 5, iv. 8. 3, and Prāt. ii. 17, note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chhalunas, we bruise to pieces with our spell.
 </details>
+</details>
 </div>
-
-
 ## ०३ अल्गण्डून् हन्मि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUn_hanmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -144,29 +135,26 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 शि॒ष्टानशि॑ष्टा॒न् नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/03_algaNDUn_hanmi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/03_algaNDUn_hanmi.md">
+<details open><summary><h3>०३ अल्गण्डून् हन्मि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. I smite the *algáṇḍus* with a great deadly weapon; burnt \[or\]  
 unburnt, they have become sapless; those left \[or\] not left I draw  
 down by my spell (*vā́c*), that no one of the worms be left.
 
-#### Notes
+##### Notes
 It seems hardly possible to avoid amending at the end to *uchiṣyā́tāi*,  
 passive. Ppp. reads in **b** *dunāddunā*, and its last half-verse is  
 defaced.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/03_algaNDUn_hanmi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their vigour . Left or not left, I with the spell subdue them: let not a single worm remain uninjured.
 </details>
+</details>
 </div>
-
-
 ## ०४ अन्वान्त्र्यं शीर्षण्य१मथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -182,15 +170,16 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 अ॒व॒स्क॒वं व्य॑ध्व॒रं क्रिमी॒न् वच॑सा जम्भयामसि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
+<details open><summary><h3>०४ अन्वान्त्र्यं शीर्षण्य१मथो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The one along the entrails, the one in the head, likewise the worm in  
 the ribs, the *avaskavá*, the *vyadhvará*—the worms we grind up with our  
 spell (*vácas*).
 
-#### Notes
+##### Notes
 The comm., and two of SPP's mss., read in **b** *pā́rṣṇeyam* 'in the  
 heel'; and SPP. admits into his text after it *krímīn*, against the  
 great majority of his mss. and against the comm.; none of ours have it,  
@@ -206,17 +195,13 @@ heretofore defined' is not used elsewhere in the Anukr.; it is used by
 abbreviation for *upariṣṭādvirāḍ* (vs. 2); but why the two verses were  
 not defined together, to make repetition needless, does not appear. ⌊in  
 **d**, again, *krímīn* is a palpable intrusion.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The worm that lives within the ribs, within the bowels, in the head. Avaskava and Borer, these we bruise to pieces with the spell.
 </details>
+</details>
 </div>
-
-
 ## ०५ ये क्रिमयः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -232,15 +217,16 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 ये अ॒स्माकं॑ त॒न्वऽमाविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम्॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/031_krimijambhanam/05_ye_krimayaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/05_ye_krimayaH.md">
+<details open><summary><h3>०५ ये क्रिमयः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The worms that are in the mountains, in the woods, in the herbs, in  
 the cattle, within the waters, that have entered our selves  
 (*tanū́*)—that whole generation (*jåniman*) of worms I smite.
 
-#### Notes
+##### Notes
 Two of SPP's mss. agree with the comm. in reading *té* for *yé* at  
 beginning of **c**; and the comm. has further *tanvas* for *tanvam*.  
 Ppp. inserts *ye* before *vaneṣu*, and *ye* (with an *avasāna* before  
@@ -251,12 +237,10 @@ repeats this time the superfluous *ārṣī* of vs. 3.
   
 The *anuvāka* ⌊5.⌋ has 5 hymns and 29 verses, and the extract from the  
 old Anukr. says *tato ‘parātāi* or *‘parānte.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/031_krimijambhanam/05_ye_krimayaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Worms that are found on mountains, in the forests, that live in plants, in cattle, in the waters, Those that have made their way within our bodies,--these I destroy, the worms' whole generation.
+</details>
 </details>
 </div>

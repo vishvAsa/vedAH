@@ -19,26 +19,23 @@ title = "०३८ वाजिनीवान् ऋषभः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This and the two following hymns are not found in Pāipp. Kāuś. uses it (doubtless only the first four verses) in a ceremony (41. 13) for success in gambling. Verses 5-7 are called karkīpravādās and used (21. 11) in a rite for the prosperity of kine, and also (66. 13) in the sava sacrifices, with a karkī as sava; and they are reckoned (19. 1, note) to the puṣṭika mantras. The comm. attempts no explanation of the mutual relation of the two apparently unconnected parts of the hymn; ⌊but Weber, in his note to verse 7, suggests a connection⌋. ⌊As to Bādarāyaṇi, see introd. to h. 40.⌋
 
 
-#### Translations
+##### Translations
 Translated: Muir, OST. v. 430 (vss. 1-4); Ludwig, p. 454; Grill, 71 (vss. 1-4), 140; Griffith, i. 183; Bloomfield, 149, 412; Weber, xviii. 147.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for success in gambling
 </details>
+</details>
 </div>
-
-
 ## ०१ उद्भिन्दतीं संजयन्तीमप्सरां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_saMjayantImapsarAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm for success in gambling
 ग्लहे॑ कृ॒तानि॑ कृण्वा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_saMjayantImapsarAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_saMjayantImapsarAM.md">
+<details open><summary><h3>०१ उद्भिन्दतीं संजयन्तीमप्सरां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The up-shooting, all-conquering, successfully-playing Apsaras, that  
 wins (*kṛ*) the winnings in the pool (? *gláha*)—that Apsaras I call on  
 here.
 
-#### Notes
+##### Notes
 The form *apsarā́*, instead of *apsarás*, is used throughout this hymn;  
 the comm. regards it as a specialized name for the Apsaras in this  
 character or office: *dyūtakriyādhidevatām apsarojātīyam*. *Udbhindatīm*  
@@ -72,17 +70,13 @@ doubtfully translated, our knowledge of its method being insufficient;
 *gláha* is taken as the receptacle, of whatever kind, in which the  
 stakes are deposited; the comm. explains it thus: *gṛhyate paṇabandhena  
 kalpyata iti dyūtakriyājeyo* (mss. *-jayo*) *‘rtho glahaḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_saMjayantImapsarAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hither I call the Apsaras, victorious, who plays with skill, Her who comes freely fort to view, who wins the stakes in games of dice.
 </details>
+</details>
 </div>
-
-
 ## ०२ विचिन्वतीमाकिरन्तीमप्सरां साधुदेविनीम्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,28 +92,25 @@ Hither I call the Apsaras, victorious, who plays with skill, Her who comes freel
 ग्लहे॑ कृ॒तानि॑ गृह्णा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
+<details open><summary><h3>०२ विचिन्वतीमाकिरन्तीमप्सरां साधुदेविनीम् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The distributing (*vi-ci*), on-strewing (*ā-kir*),  
 successfully-playing Apsaras, that seizes (*grah*) the winnings in the  
 pool—that Apsaras I call on here.
 
-#### Notes
+##### Notes
 The comm. explains the first two epithets respectively by "collecting"  
 (taking *vi* as intensive) and "scattering."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hither I call that Apsaras who scatters and who gathers up. The Apsaras who plays with skill and takes her winnings in the game.
 </details>
+</details>
 </div>
-
-
 ## ०३ यायैः परिनृत्यत्याददाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,16 +128,17 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 सा नः॒ पय॑स्व॒त्यैतु॒ मा नो॑ जैषुरि॒दं धन॑म्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
+<details open><summary><h3>०३ यायैः परिनृत्यत्याददाना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. She who dances about with the dice (? *áya*), taking to herself the  
 winning from the pool—let her, trying to gain (?) for us the winnings,  
 obtain the stake (? *prahā́*) by magic (*māyā́*); let her come to us rich  
 in milk; let them not conquer from us this riches.
 
-#### Notes
+##### Notes
 The wholly anomalous *sīṣatī́* in **c** is here translated, in accordance  
 with the current understanding of it, as somehow coming from the root  
 *san* or *sā* ⌊i.e., as if it were for the normal *sí-ṣā-s-atī:*  
@@ -164,17 +156,13 @@ reports nothing of the kind from his) there is more or less discordance
 in regard to the verse-division, and some of them agree with the comm.  
 ⌊Our *sīṣatī́* appears in W's *Index Verborum*, p. 382, at the very end  
 of the "unclassified residuum" of AV. material.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dancing around us with the dice, winning the wager by her play. May she obtain the stake for us and gain the victory with skill. May she approach us full of strength: let them not win this wealth of ours.
 </details>
+</details>
 </div>
-
-
 ## ०४ या अक्षेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,15 +178,16 @@ Dancing around us with the dice, winning the wager by her play. May she obtain t
 आ॒न॒न्दिनीं॑ प्रमो॒दिनी॑मप्स॒रां तामि॒ह हु॑वे ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
+<details open><summary><h3>०४ या अक्षेषु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. She who delights (*pra-mud*) in the dice (*akṣá*), bringing (*bhṛ*)  
 pain and anger—the rejoicing, the dehghting one: that Apsaras I call on  
 here.
 
-#### Notes
+##### Notes
 The translation implies retention of *bíbhratī* at end of **b**, read by  
 all the mss. and by the comm., and retained by SPP., and the emendation  
 instead in **a** to *yā́ ’kṣéṣu pramódate*, which is metrically better,  
@@ -206,17 +195,13 @@ makes better connection, and has the support of the comm., with one ⌊or
 two⌋ of SPP's authorities. SPP's note to *bíbhratī*, "so read except by  
 K. who follows Sāyaṇa," is unintelligible, since the latter has also  
 *bíbhratī*. ⌊Delete the accent-mark under *huve.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who revel in the dice, who suffer grief and yield to wrath.
 </details>
+</details>
 </div>
-
-
 ## ०५ सूर्यस्य रश्मीननु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -234,17 +219,18 @@ Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who re
 स न॒ ऐतु॒ होम॑मि॒मं जु॑षा॒णो॒३ऽन्तरि॑क्षेण स॒ह वा॒जिनी॑वान्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
+<details open><summary><h3>०५ सूर्यस्य रश्मीननु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. They who (f.) go about (*sam-car*) after the rays of the sun, or who  
 go about after \[its\] beams (*márīci*); of whom the mighty (?  
 *vājínīvant*) bull from afar moves around (*pari-i*) at once all the  
 worlds, defending—let him come unto us, enjoying this libation, together  
 with the atmosphere, he the mighty one.
 
-#### Notes
+##### Notes
 According to the comm., the "they who" and "of whom" in **a** and **c**  
 are the Apsarases, this being apparently to him the tie of connection  
 between the two divisions of the hymn; and *vājinī* is the dawn, and  
@@ -263,17 +249,13 @@ as of 6 pādas and 3 *avasānas*, like vs. 3; it is not *bhurij;* and for
 *atyaṣṭi* the ⌊London, not the Berlin ms.⌋ reads *jagatyaṣṭi*. ⌊One is  
 tempted to suspect the syllable *saṁ-* in **a**. Pronounce *yā́sarṣabhó*  
 in **C**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Who follow in their course the rays of Surya, or as a particle of light attend him. Whose leader from afar, with store of riches, compasses quickly all the worlds and guards them. Pleased, may he come to this our burnt oblation, together with the Air, enriched with treasure.
 </details>
+</details>
 </div>
-
-
 ## ०६ अन्तरिक्षेन सह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/06_antarixena_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,16 +271,17 @@ Who follow in their course the rays of Surya, or as a particle of light attend h
 इ॒मे ते॑ स्तो॒का ब॑हु॒ला एह्य॒र्वाङि॒यं ते॑ क॒र्कीह ते॒ मनो॑ऽस्तु ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/06_antarixena_saha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/06_antarixena_saha.md">
+<details open><summary><h3>०६ अन्तरिक्षेन सह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Together with the atmosphere, O mighty one; defend thou here the  
 *karkī́* calf, O vigorous one (*vājín*); here are abundant drops  
 (*stoká*) for thee; come hitherward; this is thy *karkī́;* here be thy  
 mind.
 
-#### Notes
+##### Notes
 The comm. reads in **a** *vājinīvān*, as in 5 **f**; in **b** he has  
 *karkīn vatsān* (and one of SPP's mss. gives *karkī́n*); and, in **d**,  
 *namas* instead of *manas*, and SPP. reports three of his four  
@@ -307,17 +290,13 @@ The comm. reads in **a** *vājinīvān*, as in 5 **f**; in **b** he has
 *vatsā́m* to *vaśā́m* in this verse and the next. Three of SPP's mss. and  
 one of ours (O.) separate *karkī́ ihá* in *saṁhitā* in **d**. The Anukr.  
 ignores the deficiency of a syllable in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/06_antarixena_saha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Together with the Air, O rich in treasure, guard here the white cow and the calf, O mighty! Here are abundant drops for thee, come hither! Here is thy white calf, let thy mind be with us.
 </details>
+</details>
 </div>
-
-
 ## ०७ अन्तरिक्षेण सह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -335,15 +314,16 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 य॒था॒ना॒म व॑ ईश्महे॒ स्वाहा॑ ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
+<details open><summary><h3>०७ अन्तरिक्षेण सह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Together with the atmosphere, O mighty one; defend thou here the  
 *karkī́* calf, O vigorous one; this is fodder; this is the pen; here we  
 bind (*ni-bandh*) the calf; according to name we master you: hail!
 
-#### Notes
+##### Notes
 The comm., with one of SPP's oral authorities, has again *vatsān* in  
 **b**, and also *vatsān* in **d** (this time, with our P.M.W.E.). Kāuś.  
 (21. 11) quotes **c** and **d**, with the direction to do "as directed  
@@ -358,12 +338,10 @@ second *avasāna-*sign after *badhnīmaḥ*, and SPP. retains it. The verse
 of the deficiency in **b**. ⌊I think *karkyā̀s*, as a genitive sing.  
 fem., ought to be oxytone (JAOS. x. 385); but *karkyàs*, pronounced  
 *karkío*, might be better.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Together with the Air, O rich in treasure, keep the white calf in safety here, O mighty! Here is the grass, here is the stall, here do we bind the calf. We are your masters, name by name. All Hail!
+</details>
 </details>
 </div>

@@ -2,12 +2,9 @@
 title = "+१६"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/16/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/_index.md">
+<details open><summary><h2>Unity of subject not apparent. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XVI.
 
@@ -156,7 +153,6 @@ See pages 1015-6.⌋
 ⌊In the Vāit, the book is noticed only twice: see under 2. 6 and 9. 3.
 And in the Kāuś., it is noticed only about a dozen times: see under 1.
 1; 2. 1, 6; 3. 1; 4. 1; 5. 1; 6. 1; 9. 3, 4.⌋
-
-
+</details>
 </details>
 </div>

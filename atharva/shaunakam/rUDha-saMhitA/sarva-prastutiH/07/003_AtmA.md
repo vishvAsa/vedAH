@@ -18,24 +18,19 @@ title = "००३ आत्मा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/003_AtmA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx., and in a whole series of other texts: TS. (i. 7. 122), MS. (i. 10. 3), ACS. (ii. 19. 32), KśS. (xxv. 6. 10), śśS. (iii. 17. 1). Kāuś. (15. 11) prescribes the use, with vi. 125 and vii. 110 and a couple of single verses from elsewhere (the comm. includes also vii. 4), in the battle incantations, while the king and his charioteer mount a new chariot; as to its medical employment with vii. 2, see under the latter. Vāit. (9. 15) uses the verse in the 'sākamedha ceremony, on leaving the sacrificial hut.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 2, 48; Griffith, i. 328.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/003_AtmA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ १ अथर्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/003_AtmA/01_1_atharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -51,16 +46,17 @@ Translated: Henry, 2, 48; Griffith, i. 328.
 स प्र॒त्युदै॑द् ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वाऽत॒न्वऽमैरयत ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/003_AtmA/01_1_atharvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/01_1_atharvA.md">
+<details open><summary><h3>०१ १ अथर्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. By this shape (*viṣṭhá*) generating exploits (*kárvara*), he verily,  
 fiery, a wide way for space (? *vára*); he went up to meet the  
 sustaining top (*ágra*) of the sweet; with his own self (*tanū́*) he sent  
 forth (*īraya-*) a self.
 
-#### Notes
+##### Notes
 The translation given is purely mechanical. With **c** compare iv. 32. 7  
 **c**. The comm., after a mystic explanation, gives as alternative  
 another, accordant with the use in Kāuś., making the verse relate to a  
@@ -75,13 +71,11 @@ be given at the end of the verse in our text; it is accepted by SPP.,
 being favored by the considerable majority of his authorities, as it is  
 of ours (Bp.W.T.R.p.m. *-at*; K. has *-yanta*). Ppp. has *dharuṇe* in  
 **c**. \*⌊AśS.śśS. in fact have *-am*.⌋ ⌊KśS. has *tanvām*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/003_AtmA/01_1_atharvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 १ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, अ॒या वि॒ष्ठा ज॒नय॒न् कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
 स प्र॒त्युदै॑द् ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वाऽत॒न्वऽमैरयत ॥१॥
+</details>
 </details>
 </div>

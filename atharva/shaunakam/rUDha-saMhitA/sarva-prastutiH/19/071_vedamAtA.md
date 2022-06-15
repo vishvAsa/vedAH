@@ -19,26 +19,23 @@ title = "०७१ वेदमाता"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/071_vedamAtA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. The comm. is unable to quote any authority as to its use; but he declares it to belong to the worship of the Veda that one has studied, or of the gāyatrī.
 
 
-#### Translations
+##### Translations
 Translated: Zimmer, p. 204; Griffith, ii. 320.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/071_vedamAtA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn, accompanying libations, for wealth and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ स्तुता मया
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/071_vedamAtA/01_stutA_mayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -56,16 +53,17 @@ A hymn, accompanying libations, for wealth and prosperity
 मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम्॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/071_vedamAtA/01_stutA_mayA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/01_stutA_mayA.md">
+<details open><summary><h3>०१ स्तुता मया ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Praised by me \[is\] the boon-giving Veda-mother. Let them urge on  
 the soma-hymn of the twice-born. Having given to me life-time, breath,  
 progeny, cattle, fame, property, Vedic splendor, go ye to the  
 *brahma*-world.
 
-#### Notes
+##### Notes
 A corresponding verse is found in the supplement (p. 915 of the Calc.  
 ed.) ⌊p. 855 of the Poona ed.⌋ to TA. x. 36, reading thus: *stuto mayā  
 varadā vedamātā pracodayantī pavane dvijātā: āyuḥ pṛthivyāṁ draviṇam  
@@ -88,12 +86,10 @@ standing as subject to *pra codayantām*, which is *pluralis
 majestaticus*, as is also *vrajata*. ⌊Weber discusses *varadā* and the  
 TA. passage at *Ind. Stud.* ii. 194 (as Whitney notes in the margin),  
 and resolves *stuto* into *stutā u*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/071_vedamAtA/01_stutA_mayA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let my libations, giving boons, adoring, further the Twice-born's song that honours Soma. Go ye to Brahma's world having enriched me with life and breath, with children and with cattle, with fame and wealth, and with a Brahman's lustre.
+</details>
 </details>
 </div>

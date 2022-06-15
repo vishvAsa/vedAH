@@ -19,26 +19,23 @@ title = "०६६ असुरक्षयणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/066_asuraxayaNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xvi. The comm. connects it in use with the preceding hymn.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 319.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/066_asuraxayaNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Agni as the Sun
 </details>
+</details>
 </div>
-
-
 ## ०१ अयोजाला असुरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A hymn to Agni as the Sun
 तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्र॑ऋष्टिः स॒पत्ना॑न् प्रमृ॒णन् पा॑हि॒ वज्रः॑ ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
+<details open><summary><h3>०१ अयोजाला असुरा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The trickish Asuras that go about, having metal nets, hooking with  
 fetters of metal, them I make subject to thee with flame, O Jātavedas;  
 go thou, a thousand-barbed thunderbolt, slaughtering our rivals.
 
-#### Notes
+##### Notes
 Ppp. combines in **a** *-jālā ’surā*, and reads in **b** *ayasmāi p-*;  
 in **c** it seems to give *harase*, which would be an acceptable  
 emendation. Our *sahásrabhṛṣṭis* in **d** is for the *-hṛṣṭis* (the  
@@ -73,12 +71,10 @@ also follows the comm. in adopting *pāhi*, against the majority of his
 authorities (though in such a case their reading, whether *pā-* or  
 *yā-*, is extremely doubtful); ⌊here the testimony of his oral reciters  
 is of especial weight, and they (his K. and V.) gave *yāhi*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Asuras with iron nets, magicians, who roam about with hooks and bonds of iron, With wrath I make thy thralls, O Jatavedas. Come as a bolt foe- quelling, thousand pointed.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "००९ आत्मा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊This piece is prose.⌋ Neither this piece nor the next is found in Pāipp. This one is quoted in Kāuś. (28. 17) in a remedial ceremony, together with vi. 91; and it is reckoned (8. 23, note) to the vāstu gaṇa and (26. 1, note) the takmaṇāśana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, i. 201; Weber, xviii. 197.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Heaven and Earth for protection and assistance
 </details>
+</details>
 </div>
-
-
 ## ०१ दिवे स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/01_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,25 +49,21 @@ A prayer to Heaven and Earth for protection and assistance
 दि॒वे स्वाहा॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/01_dive_svAhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/01_dive_svAhA.md">
+<details open><summary><h3>०१ दिवे स्वाहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. To heaven hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/01_dive_svAhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Heaven!
 </details>
+</details>
 </div>
-
-
 ## ०२ पृथिव्यै स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -84,25 +77,21 @@ All hail to Heaven!
 पृ॒थि॒व्यै स्वाहा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/02_pRthivyai_svAhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/02_pRthivyai_svAhA.md">
+<details open><summary><h3>०२ पृथिव्यै स्वाहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. To earth hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/02_pRthivyai_svAhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Earth!
 </details>
+</details>
 </div>
-
-
 ## ०३ अन्तरिक्षाय स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/03_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -116,25 +105,21 @@ All hail to Earth!
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/03_antarixAya_svAhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/03_antarixAya_svAhA.md">
+<details open><summary><h3>०३ अन्तरिक्षाय स्वाहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. To atmosphere hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/03_antarixAya_svAhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Air!
 </details>
+</details>
 </div>
-
-
 ## ०४ अन्तरिक्षाय स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/04_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,25 +133,21 @@ All hail to Air!
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/04_antarixAya_svAhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/04_antarixAya_svAhA.md">
+<details open><summary><h3>०४ अन्तरिक्षाय स्वाहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. To atmosphere hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/04_antarixAya_svAhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Air!
 </details>
+</details>
 </div>
-
-
 ## ०५ दिवेस्वाहा ५
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/05_divesvAhA_5.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,25 +161,21 @@ All hail to Air!
 दि॒वेस्वाहा॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/05_divesvAhA_5.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/05_divesvAhA_5.md">
+<details open><summary><h3>०५ दिवेस्वाहा ५ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. To heaven hail!
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/05_divesvAhA_5.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Heaven!
 </details>
+</details>
 </div>
-
-
 ## ०६ पृथिव्यै स्वाहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -212,25 +189,22 @@ All hail to Heaven!
 पृ॒थि॒व्यै स्वाहा॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/06_pRthivyai_svAhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/06_pRthivyai_svAhA.md">
+<details open><summary><h3>०६ पृथिव्यै स्वाहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. To earth hail!
 
-#### Notes
+##### Notes
 ⌊The invocations of vss. 4-6 are those of 1-3 with changed order.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/06_pRthivyai_svAhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All hail to Eartht!
 </details>
+</details>
 </div>
-
-
 ## ०७ सूर्यो मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/07_sUryo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -246,27 +220,23 @@ All hail to Eartht!
 अ॒स्तृ॒तो नामा॒हम॒य म॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/07_sUryo_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/07_sUryo_me.md">
+<details open><summary><h3>०७ सूर्यो मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The sun my eye, wind my breath, atmosphere my soul (*ātmán*), earth  
 my body; unquelled (*astṛtá*) by name am I here; \[as\] such I deposit  
 myself for heaven and earth to guard (*gopīthá*).
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/07_sUryo_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Mine eye is Siirya and my breath is Vata, Air is my soul and Prithivi my body. I verily who never have been conquered give up my life toe Heaven and Earth for keeping.
 </details>
+</details>
 </div>
-
-
 ## ०८ उदायुरुद् बलमुत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/08_udAyurud_balamut.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -284,16 +254,17 @@ Mine eye is Siirya and my breath is Vata, Air is my soul and Prithivi my body. I
 आ॒त्म॒सदौ॑ मे स्तं॒ मा॑ हिंसिष्टम्॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/009_AtmA/08_udAyurud_balamut.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/08_udAyurud_balamut.md">
+<details open><summary><h3>०८ उदायुरुद् बलमुत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Up life-time, up strength, up act (*kṛtá*), up action (*kṛtyā́*), up  
 skill (*manīṣā́*), up sense (*indriyá*); O life- (*ā́yus-*) maker, O ye  
 (two) mistresses of life, rich in *svadhā́*⌊*m*.⌋, be ye my guardians,  
 guard me; be my soulsitters; do not harm me.
 
-#### Notes
+##### Notes
 The nouns with 'up' are accusatives, but what verb should be supplied  
 for the construction it is not easy to see. Perhaps *ā́yuṣkṛt* (p.  
 *ā́yuḥ-kṛt*) should be *-kṛtā*, as dual; at any rate, all that follows it  
@@ -302,12 +273,10 @@ is dual. Apparently the Anukr. would divide vs. 7 as 9 + 12: 10 + 7 + 10
 and inaccurate. ⌊Weber discusses the peculiarities of gender.⌋  
   
 A passage corresponding to this hymn is found in K. xxxvii. 15.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/009_AtmA/08_udAyurud_balamut.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Exalt my life, my strength, my deed and action; increase my understanding and my vigour. Be ye my powerful keepers, watch and guard me, ye mistresses of life and life's creators! Dwell ye within me, and forbear to harm me.
+</details>
 </details>
 </div>

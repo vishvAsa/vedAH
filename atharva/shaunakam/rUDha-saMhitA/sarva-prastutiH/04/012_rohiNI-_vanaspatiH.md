@@ -19,26 +19,23 @@ title = "०१२ रोहिणी- वनस्पतिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iv. (in the verse-order 3-5, 1, 2, 7, 6). Used by Kāuś. (28. 5) in a healing rite: Keśava and the comm. agree in saying, for the prevention of flow of blood caused by a blow from a sword or the like; boiled lākṣā—water is to be poured on the wound etc. The schol. to Kāuś. 28. 14 also regard the hymn as included among the lākṣālin̄gās prescribed to be used in that rule.
 
 
-#### Translations
+##### Translations
 Translated: Kuhn, KZ. xiii. 58, with Germanic parallels; Ludwig, p. 508; Grill, 18, 125; Griffith, i. 146; Bloomfield, 19, 384; Weber, xviii. 46.—Cf. Hillebrandt, Veda-chrestomathie, p. 48.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to mend a broken bone
 </details>
+</details>
 </div>
-
-
 ## ०१ रोहण्यसि रोहण्यस्थ्नश्छिन्नस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A charm to mend a broken bone
 रो॒हये॒दम॑रुन्धति ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
+<details open><summary><h3>०१ रोहण्यसि रोहण्यस्थ्नश्छिन्नस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Grower art thou, grower; grower of severed bone; make this grow, O  
 *arundhatī́*.
 
-#### Notes
+##### Notes
 *Arundhatī́*, lit. 'non-obstructing,' appears to be the name of a  
 climbing plant having healing properties; it is mentioned more than once  
 elsewhere, and in v. 5 (vss. 5 and 9) along with *lākṣā* (vs. 7) 'lac';  
@@ -77,17 +75,13 @@ assumes *rohiṇi*, voc., at end of **a** (*he lohitavarṇe lākṣe*). Ppp.
 further reads *śīrṇasya* instead of *chinnásya;* and has, in place of  
 our **c**, *rohiṇyām arha ātā ’si rohiṇyā ’sy oṣadhe*, making the verse  
 an *anuṣṭubh*. The comm. gives *asnas* for *asthnas* in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou art the healer, making whole, the healer of the broken bone: Make thou this whole, Arundhati!
 </details>
+</details>
 </div>
-
-
 ## ०२ यत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/02_yat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,15 +97,16 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 धा॒ता तद् भ॒द्रया॒ पुनः॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/02_yat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/02_yat_te.md">
+<details open><summary><h3>०२ यत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What of thee is torn (*riś*), what of thee is inflamed (? *dyut*), is  
 crushed (? *péṣṭra*) in thyself—may Dhātar excellently put that together  
 again, joint with joint.
 
-#### Notes
+##### Notes
 Ppp. reads in **a** *śīrṇaṁ* for *riṣṭam;* it reads *tā ”tmanaḥ* in  
 **b**; and in **c, d** it has *tat sarvaṁ kalpayāt saṁ dadat*. The comm.  
 (with one of SPP's mss.) reads *preṣṭham* (= *priyatamam*) for the  
@@ -120,17 +115,13 @@ where the comm. has *peṣṭam*); the conjecture "bone" of the Pet. Lex.
 seems altogether unsatisfactory; it is rendered above as if from *piṣ*.  
 The comm. paraphrases *dyuttám* by *dyotitam, vedanayā prajvalitam iva*,  
 which seems acceptable.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/02_yat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar set it properly and join together limb by limb.
 </details>
+</details>
 </div>
-
-
 ## ०३ सं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -146,32 +137,29 @@ Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar
 सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
+<details open><summary><h3>०३ सं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let thy marrow come together with marrow, and thy joint together with  
 joint; together let what of thy flesh has fallen apart, together let thy  
 bone grow over.
 
-#### Notes
+##### Notes
 Ppp. rectifies the meter of **a** by omitting *te*, and has for **d** ⌊?  
 **b**?⌋ *saṁstrāvam asu parva te*. A few of the mss. (including our  
 H.O.Op.) give *viśrastam* in **c**. The comm. reads *śam* instead of  
 *sam* in every pāda. A couple of SPP's mss., by a substitution found  
 also elsewhere ⌊see ii. 12. 7, note⌋, have *manyā́* for *majjñā́* in  
 **a**. The Anukr. ignores the redundant syllable in the first pāda.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With marrow be the marrow joined, thy limb united with the limb. Let what hath fallen of thy flesh, and the bone also grow again.
 </details>
+</details>
 </div>
-
-
 ## ०४ मज्जा मज्ज्ञा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,31 +175,28 @@ With marrow be the marrow joined, thy limb united with the limb. Let what hath f
 असृ॑क् ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
+<details open><summary><h3>०४ मज्जा मज्ज्ञा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Let marrow be put together with marrow; let skin (*cárman*) grow  
 (*ruh*) with skin; let thy blood, bone grow; let flesh grow with flesh.
 
-#### Notes
+##### Notes
 The third pāda is translated as it stands ⌊cf. vs. 5 **c**⌋, but we can  
 hardly avoid emending *ásṛk* to *asthnā́*, or else *ásthi* to *asnā́*, to  
 agree with the others; the comm. ⌊as an alternative⌋ fills it out to two  
 parallel expressions, for both blood and bone. Ppp. has, for **b-d**:  
 *asthnā ’sthi vi rohatu snāva te saṁ dadhmas snāvnā carmaṇā carma  
 rohatu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let marrow close with marrow, let skin grow united with the skin. Let blood and bone grow strong in thee, flesh grow together with the flesh.
 </details>
+</details>
 </div>
-
-
 ## ०५ लोम लोम्ना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -227,30 +212,27 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 असृ॑क् ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
+<details open><summary><h3>०५ लोम लोम्ना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Fit thou together hair with hair; fit together skin (*tvác*) with  
 skin; let thy blood, bone grow; put together what is severed, O herb.
 
-#### Notes
+##### Notes
 The prolongation of the final vowel of a pāda is so anomalous that we  
 can hardly help regarding *kalpayā* in **a** as wrong, perhaps imitated  
 from **b**; Ppp. avoids the difficulty by reading in **a** *saṁ  
 dhīyatām*. ⌊For **c**, compare vs. 4.⌋ Ppp. also has for **d** our 4  
 **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Join thou together hair with hair, join thou together skin with skin. Let blood and bone grow strong in thee. Unite the broken part,. O Plant.
 </details>
+</details>
 </div>
-
-
 ## ०६ स उत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/06_sa_ut.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -266,29 +248,26 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 प्रति॑ तिष्ठो॒र्ध्वः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/06_sa_ut.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/06_sa_ut.md">
+<details open><summary><h3>०६ स उत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Do thou here stand up, go forth, run forth, a chariot well-wheeled,  
 well-tired, well-naved; stand firm upright.
 
-#### Notes
+##### Notes
 Ppp. is very different: *ut tiṣṭha pre ’hi samudhā hi te paruḥ: saṁ te  
 dhātā dadhātu tan no viriṣṭaṁ rathasya cakra py upavaryathāir yathāi ’ti  
 sukhasya nābhiṣ prati tiṣṭha evaṁ*. The Anukr. scans the verse as 9 +  
 11: 5 = 25 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/06_sa_ut.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! Stand up erect upon thy feet.
 </details>
+</details>
 </div>
-
-
 ## ०७ यदि कर्तं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/07_yadi_kartaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -304,15 +283,16 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/012_rohiNI-_vanaspatiH/07_yadi_kartaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/07_yadi_kartaM.md">
+<details open><summary><h3>०७ यदि कर्तं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. If, falling into a pit, he hath been crushed (*sam-śṛ*), or if a  
 stone hurled (*pra-kṛ*) hath smitten \[him\]—as a Ṛbhu the parts of a  
 chariot, may it put together joint with joint.
 
-#### Notes
+##### Notes
 A number of the mss. (including our P.M.O.Op.) read *kártum* for  
 *kartám* in **a**; the comm. explains *kartam* as meaning *kartakaṁ  
 chedakam āyudham*, and makes it subject of *saṁśaśré* = *saṁhinasti;* he  
@@ -322,12 +302,10 @@ giving the word any general sense. Ppp. again has an independent text:
 yadi vā vibhyasi śīrṣa rbhūr iti sa evaṁ saṁ dhāmi te paruḥ*. The verse  
 is a *bṛhatī* only by number of syllables (10 + 10: 8 + 8 = 36). ⌊The  
 comm. makes the "Atharvanic spell" the subject in **d**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/012_rohiNI-_vanaspatiH/07_yadi_kartaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If he be torn and shattered, having fallen into a pit, or a cast stone have struck him, Let the skilled leech join limb with limb, as 'twere the portions of a car.
+</details>
 </details>
 </div>

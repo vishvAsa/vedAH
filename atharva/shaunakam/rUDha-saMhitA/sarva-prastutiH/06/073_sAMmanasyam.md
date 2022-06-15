@@ -19,26 +19,23 @@ title = "०७३ सांमनस्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/073_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. (with the verse-order 1, 3, 2). This hymn with iii. 12, vi. 93, xii. 1, is reckoned by Kāuś. to the vāstoṣpatyāni (8. 23) or the vāstu gaṇa; and it and the following hymn, with others (12. 5), to the sāmmanasyāni; also, by the schol. (note to 19. 1), to the puṣṭika mantras; and vs. 3 ⌊so comm.: not vii. 60. 7⌋ by itself (23. 6) in the ceremony of entering a new house.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, i. 284; Bloomfield, 135, 494.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/073_sAMmanasyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A King's charm to conciliate his discontented kinsmen
 </details>
+</details>
 </div>
-
-
 ## ०१ एह यातु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,31 +51,28 @@ A King's charm to conciliate his discontented kinsmen
 अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/073_sAMmanasyam/01_eha_yAtu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/01_eha_yAtu.md">
+<details open><summary><h3>०१ एह यातु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let Varuṇa come here, Soma, Agni; let Brihaspati with the Vasus come  
 here; come ye together, \[his\] fellows, all of you, like-minded, unto  
 the fortune of this stern corrector (*ugrá cettṛ́*).
 
-#### Notes
+##### Notes
 Ppp. reads *abhi-* instead of *upa-* in **c**, and has at the end  
 *sujātās*. The comm. explains *cettṛ* as "one who properly understands  
 the distinction of what is to be done and what is not to be done"; in  
 this word *cit* seems to take the value of *ci* or *cāy:* 'one who notes  
 and visits or requites.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/073_sAMmanasyam/01_eha_yAtu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unanimous, ye kinsmen, come united, come to the glory of this mighty guardian.
 </details>
+</details>
 </div>
-
-
 ## ०२ यो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,15 +88,16 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/073_sAMmanasyam/02_yo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/02_yo_vaH.md">
+<details open><summary><h3>०२ यो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The vehemence (*śúṣma*) that is within your hearts, the design that  
 has entered into your mind—that I frustrate with the oblation, the ghee;  
 in me, O \[my\] fellows, be your satisfaction (*ramáti*).
 
-#### Notes
+##### Notes
 Intended to restrain intending emigrants, apparently; as also vs. 3. All  
 the mss., and both editions with them, read *tā́n* at the beginning of  
 **c**, although it is unquestionably an error for *tā́m*, referring to  
@@ -114,17 +109,13 @@ before the Lalita-Vistara) adopts *sīvayāmi* from the comm. (=
 *parasparasambaddhān karomi*): Ppp. has *śrevayāmi;* and in **d** (as in  
 1 **d**) *sujātās*. The Anukr. should have noted the verse as *nicṛt*.  
 ⌊Read *yó vó ‘sti* in **a**?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/073_sAMmanasyam/02_yo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The inclination which your hearts have harboured, the purpose which hath occupied your spirits, This I annul with sacrifice and butter. In me be your sweet resting-place, O kinsmen.
 </details>
+</details>
 </div>
-
-
 ## ०३ इहैव स्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -140,24 +131,23 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/073_sAMmanasyam/03_ihaiva_sta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/03_ihaiva_sta.md">
+<details open><summary><h3>०३ इहैव स्त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Be ye just here; go not away from us; let Pūshan make \[it\] pathless  
 for you in the distance; let the lord of the dwelling (*vā́stu*) call  
 aloud after you; in me, O \[my\] fellows, be your satisfaction.
 
-#### Notes
+##### Notes
 Ppp. has, in **a**, *e ’ha yāta mā ’pa*, at the beginning; it rectifies  
 the meter of **b** by omitting *vas;* in **c**, it reads *‘yam ahvan*  
 for *johavītu;* in **d**, it again has *sujātās*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/073_sAMmanasyam/03_ihaiva_sta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Stand even here; forsake me not. Before us may Pushan make your path unfit to travel. Vastoshpati incessantly recall you! In me be your sweet resting- place, O kinsmen!
+</details>
 </details>
 </div>

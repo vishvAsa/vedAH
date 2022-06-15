@@ -19,22 +19,19 @@ title = "०१८ दवृष्टिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/018_davRShTiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Ppp. reads, for a, un nambhaya pṛthivīm, which is better; it reads bilam for dṛtim at the end; also udhno at beginning of c; not a single ms. has the right reading of this word, either here or in the other places ⌊cf. iii. 12. 4, n.⌋ where it occurs; here they vary between utnó (the great majority, including all SPP's pada-mss.), unnó, untó, utvó; the comm. reads correctly udnas, and SPP. receives it into his text; our ūdhnó was a mistaken emendation. Our Bp. leaves bhindhi unaccented, putting after it the mark of pāda division, and several of the mss. (including our P.s.m.E.p.m.I.) accent in saṁhitā accordingly. The verse is found also in TS. (ii. 4. 82) and MS. (i. 3. 26); both have a like Ppp.; MS. has adás for idám in b; both read udnó in c, and TS. has dehi for dhātar; and, in d, TS. has sṛjā for syā. The comm. gives three independent explanations of pra nabhasva: either prakarṣeṇa saṁgatā ucchvasitā bhava, or vṛṣtyā (? mss. kṛṣtyā, pṛṣtyā) prakarṣeṇa bādhitā mṛditā bhava, or ⌊nabhasva = nahyasva⌋ saṁnaddhā bhava. For dhātar, in c, he reads dhāta "= dhehi." The verse is really anuṣṭubh (resolving at the beginning pṛ-á). ⌊Play of words between nabhasva and nabhas: cf. iv. 7. 1.⌋ ⌊Correct ūdhnó to udnó.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/018_davRShTiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for rain
 </details>
+</details>
 </div>
-
-
 ## ०१ प्र नभस्व
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,14 +47,15 @@ A prayer for rain
 उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/018_davRShTiH/01_pra_nabhasva.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/01_pra_nabhasva.md">
+<details open><summary><h3>०१ प्र नभस्व ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Burst forth, O earth; split this cloud of heaven; untie for us, O  
 Dhātar, that art master, the skin-bag of the water of heaven.
 
-#### Notes
+##### Notes
 Ppp. reads, for **a**, *un nambhaya pṛthivīm*, which is better; it reads  
 *bilam* for *dṛtim* at the end; also *udhno* at beginning of **c**; not  
 a single ms. has the right reading of this word, either here or in the  
@@ -77,17 +75,13 @@ of *pra nabhasva:* either *prakarṣeṇa saṁgatā ucchvasitā bhava*, or
 reads *dhāta* "= *dhehi*." The verse is really *anuṣṭubh* (resolving at  
 the beginning *pṛ-á*). ⌊Play of words between *nabhasva* and *nabhas:*  
 cf. iv. 7. 1.⌋ ⌊Correct *ūdhnó* to *udnó*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/018_davRShTiH/01_pra_nabhasva.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--for thou canst--the bottle of the breast of heaven.
 </details>
+</details>
 </div>
-
-
 ## ०२ न घ्रंस्तताप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,23 +97,22 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 आप॑श्चिदस्मै घृ॒तमित् क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित् तत्र॑ भ॒द्रम्॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/018_davRShTiH/02_na_ghraMstatApa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/02_na_ghraMstatApa.md">
+<details open><summary><h3>०२ न घ्रंस्तताप ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Not heat burned, not cold smote; let the earth, of quick drops, burst  
 forth; waters verily flow ghee for him; where Soma is, there is it ever  
 excellent.
 
-#### Notes
+##### Notes
 In **b**, Ppp. reads *sadasyate* for *nabhatām;* in **c**, *sadam* for  
 *ghṛtam*. With **c** compare RV. i. 125. 5 **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/018_davRShTiH/02_na_ghraMstatApa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the Sun's heat burn, nor cold destroy her. Let Earth with all her quickening drops burst open. Even for her the waters flow, and fatness: where Soma is even there is bliss for ever.
+</details>
 </details>
 </div>

@@ -18,27 +18,24 @@ title = "०२७ सुरक्षा"
 [Bhṛgvan̄giras.—pañcadaśakam. trivṛddevatyam uta cāndramasam. ānuṣṭubham: 3, 9. triṣṭubh; 10. jagatī ⌊? see under the verse⌋; 11. ārcy uṣṇih; 12. ārcy anuṣṭubh; 13. sāmnī triṣṭubh (11-13. 1-av.).]
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 
 Found (except verses 12 and 13) also in Pāipp. x. The comm. quotes from the Nakṣ. K. (17, 19) its use, in a mahāśānti called prājāpatyā, by one desiring progeny and cattle, and in case of the loss of progeny, with the binding on of an amulet made of three metals, gold and silver and copper.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 283.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A benedictory hymn
 </details>
+</details>
 </div>
-
-
 ## ०१ गोभिष्ट्वा पात्वृषभो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,33 +51,30 @@ A benedictory hymn
 वा॒युष्त्वा॒ ब्रह्म॑णा पा॒त्विन्द्र॑स्त्वा पात्विन्द्रि॒यैः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
+<details open><summary><h3>०१ गोभिष्ट्वा पात्वृषभो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let the bull (*ṛṣabhá*) protect thee with the kine; let the virile  
 one (*vṛ́ṣan*) protect thee with the vigorous ones (*vājín*); let Vāyu  
 protect thee with *bráhman;* let Indra protect thee with Indra's powers  
 (? *indriyá*).
 
-#### Notes
+##### Notes
 The comm. reads in **a** *vṛṣabhas*.\* In **b**, he naturally  
 understands horses as intended, and connects *vājin* with the root *vij*  
 (*vājibhir vejanavadbhiḥ śīghragatibhir aśvāiḥ*). Of *bráhman* he gives  
 three different and equally worthless explanations. To *indriya* he says  
 *indriyāṇy atre ’ndrasṛṣṭānī ’ndrajuṣṭāni vā*, which gives us no help.  
 \*⌊But the text of the comm. has *pātv ṛṣabhas*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds. Let Vayu keep thee safe with prayer, and Indra with his mighty power.
 </details>
+</details>
 </div>
-
-
 ## ०२ सोमस्त्वा पात्वोषधीभिर्नक्षत्रैः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,32 +90,29 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 मा॒द्भ्यस्त्वा॑ च॒न्द्रो वृ॑त्र॒हा वातः॑ प्रा॒णेन॑ रक्षतु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
+<details open><summary><h3>०२ सोमस्त्वा पात्वोषधीभिर्नक्षत्रैः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let Soma protect thee with the herbs; let the sun protect with the  
 asterisms; \[let\] the moon, Vṛitra-slayer, \[protect\] ⌊thee⌋ from the  
 months; let the wind defend with breath.
 
-#### Notes
+##### Notes
 All the mss. without exception read in **c** *mādbhyás*, instead of the  
 *mādbhís* which we should have expected, and which the comm. has. It  
 seems like a blundering confusion of the two cases (the reverse of that  
 in 22. 1, above). The comm. makes *nakṣatra* here refer to the planets,  
 most unnecessarily; he reads in **d** *rakṣati*, but glosses it with  
 *rakṣatu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Soma guard thee with the plants, Surya protect thee with the stars; With breath let Wind protect thee, and the Moon, foe-slayer, with the months.
 </details>
+</details>
 </div>
-
-
 ## ०३ तिस्रो दिवस्तिस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/03_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,16 +128,17 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 त्रि॒वृतं॒ स्तोमं॑ त्रि॒वृत॒ आप॑ आहु॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/03_tisro_divastisraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/03_tisro_divastisraH.md">
+<details open><summary><h3>०३ तिस्रो दिवस्तिस्रः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. They call the heavens (*dív*) three, the earths three, the  
 atmospheres three, the oceans four, the song of praise (*stóma*) triple,  
 the waters triple: let these triple ones defend thee with the triple  
 ones.
 
-#### Notes
+##### Notes
 In Ppp., **b** and **c** have apparently dropped out, and **d** is made  
 to end with *trivṛtās trivṛttibhiḥ*. The mss. vary between *trivṛ́ta*  
 (which both editions read), *trivṛ́tās*, and *trivṛ́tāt;* the translation  
@@ -158,17 +150,13 @@ in our text, emend to *tisráḥ*. We need to combine *trivṛtā ”pa ā-* in
 reckon *trī́ṇi* to pāda **a** is very harsh. I suspect we have to  
 pronounce *pṛthvī́s* in **a**, and to read and pronounce *trī́ṇy  
 antárikṣā* in **b**. Thus the verse scans as 8 + 11: 11 + 11.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/03_tisro_divastisraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Three are the earths, they say, and three the heavens, three are the atmospheres, and four the oceans. Threefold the hymn of praise, threefold the Waters. Let these with triple song and triplets guard thee.
 </details>
+</details>
 </div>
-
-
 ## ०४ त्रीन्नाकांस्त्रीन्त्समुद्रांस्त्रीन् ब्रध्नांस्त्रीन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/04_trInnAkAMstrIntsamudrAMstrIn_bradhnAMstrIn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -184,15 +172,16 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 त्रीन् मा॑त॒रिश्व॑न॒स्त्रीन्त्सूर्या॑न् गो॒प्तॄन् क॑ल्पयामि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/04_trInnAkAMstrIntsamudrAMstrIn_bradhnAMstrIn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/04_trInnAkAMstrIntsamudrAMstrIn_bradhnAMstrIn.md">
+<details open><summary><h3>०४ त्रीन्नाकांस्त्रीन्त्समुद्रांस्त्रीन् ब्रध्नांस्त्रीन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The three firmaments (*nā́ka*), the three oceans, the three bright  
 ones (*bradhná*), the three at the summit (? *vāiṣṭapá*), the three  
 Mātariśvans, the three suns, do I arrange (*kḷp*) as thy guardians.
 
-#### Notes
+##### Notes
 Nearly ail the mss. read in **a** *nā́kaṅs*, and a part also  
 *bradháṅs*.\* The comm. has *badhnān*, and ⌊some of⌋ our mss. also  
 *badh-*, although SPP. strangely appears to find no *badh-* among his  
@@ -207,17 +196,13 @@ irregularity (7 + 7: 9 + 7 = 30). ⌊Roth notes expressly that Ppp. reads
 *vāiṣṭapān*.⌋ \*⌊Cf. note to 13. 8 above, and to 28. 2; also Müller's  
 1st quarto ed. of RV., vol. 1., preface, p. xii; and Pischel, *Gram. der  
 Prakrit-sprachen*, §83.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/04_trInnAkAMstrIntsamudrAMstrIn_bradhnAMstrIn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Three vaults of heaven, and three seas, three bright, three stationary ones, Three Matarisvans, and three suns, protectors, I arrange for thee.
 </details>
+</details>
 </div>
-
-
 ## ०५ घृतेन त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/05_ghRtena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,30 +218,27 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 अ॒ग्नेश्च॒न्द्रस्य॒ सूर्य॑स्य॒ मा प्रा॒णं मा॒यिनो॑ दभन्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/05_ghRtena_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/05_ghRtena_tvA.md">
+<details open><summary><h3>०५ घृतेन त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. With ghee do I sprinkle thee all over, O Agni, increasing thee with  
 sacrificial butter; of fire, of moon, of sun, let not the wily ones  
 damage the breath.
 
-#### Notes
+##### Notes
 The comm. takes the liberty of filling out **c, d** so as to mean "by  
 the favor of the fire etc....thy breath, O man that wearest the  
 threefold amulet." Some of SPP's mss. read in **a** *ukhyāmi* and  
 *ukṣyāmi*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/05_ghRtena_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicians harm the life of Agni or of Moon or Sun.
 </details>
+</details>
 </div>
-
-
 ## ०६ मा वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/06_mA_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -272,15 +254,16 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 भ्राज॑न्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/06_mA_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/06_mA_vaH.md">
+<details open><summary><h3>०६ मा वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let not the wily ones damage your breath, nor your expiration nor  
 flame (? *háras*); shining, all-possessing, run ye, O gods, with what is  
 of the gods.
 
-#### Notes
+##### Notes
 The translation implies emendation of *devā́s* in **d** to *dévās;* the  
 comm. understands *dévās*, but doubtless only by his customary disregard  
 of the accent. He understands *vas* in **a** ⌊altenatively⌋ as *plur.  
@@ -288,17 +271,13 @@ majest.* of the king on whom the amulet is bound, and *haras* in **b**
 as *śatrubalāpahārakaṁ tejas*. To *dāivyena* in **d** he supplies  
 *rathādinā sādhanena vegena vā*. We are tempted to emend at the end to  
 *dāívyenā́ ”dhāvata;* Ppp. reads *māvata* for *dhāvata*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/06_mA_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not magicians mar your heat, your vital or diffusive breath. Brilliant and all-possessing Gods, run ye your course with God- like power.
 </details>
+</details>
 </div>
-
-
 ## ०७ प्रानेनाग्निं सं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/07_prAnenAgniM_saM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -314,30 +293,27 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सुर्यं॑ दे॒वा अ॑जनयन्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/07_prAnenAgniM_saM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/07_prAnenAgniM_saM.md">
+<details open><summary><h3>०७ प्रानेनाग्निं सं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. One unites Agni with breath; the wind is combined with breath; with  
 breath the gods generated the sun that faces all ways. ⌊See p. xxxvi,  
 n.⌋
 
-#### Notes
+##### Notes
 All the mss. (save one of SPP's, which has *-jāti*) read *sṛjati* in  
 **a**, and, as the meter favors it, it might better stand (our text  
 emended to *-anti*). Ppp. gives for **a** *prāṇenā ’gniṁ saṁ dadhata*,  
 and ⌊reads and⌋ combines at the end ⌊*suryaṁ*⌋ *devā ’janayan*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/07_prAnenAgniM_saM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fire they endow with vital breath, Wind is compact, with vital breath: With vital breath the Gods produced the Sun whose face turn every way.
 </details>
+</details>
 </div>
-
-
 ## ०८ आयुषायुःकृतां जीवायुष्मान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/08_AyuShAyuHkRtAM_jIvAyuShmAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -353,15 +329,16 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 प्रा॒णेना॑त्म॒न्वतां जीव॒ मा मृ॒त्योरुद॑गा॒ वश॑म्॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/08_AyuShAyuHkRtAM_jIvAyuShmAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/08_AyuShAyuHkRtAM_jIvAyuShmAn.md">
+<details open><summary><h3>०८ आयुषायुःकृतां जीवायुष्मान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Live thou with the life-time of the life-time-makers; live as one  
 long-lived; do not die; live with the breath of the soulful  
 (*ātmanvánt*); do not come under the control of death.
 
-#### Notes
+##### Notes
 Nearly all the mss. read in **a** *āyuḥkṛ́tām*, and SPP. follows them,  
 although the comm. gives *-uṣk-*. In **c** both the editions emend to  
 *ātmanvátām*, all the mss. having *ātmatvátām* (p. *ātma॰tvátām!*); the  
@@ -372,17 +349,13 @@ slender authority. Our *úpa gās* in **d** is an emendation, for the *úd
 agās* of the mss., SPP., and the comm.; the change was demanded by the  
 requirements both of grammar and of the sense; and Ppp. supports it,  
 reading *upa gā v-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/08_AyuShAyuHkRtAM_jIvAyuShmAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Live with the Life-Creators' life. Die not, live on to lengthened age. Live with the breath of men with souls. Submit not to the power of Death.
 </details>
+</details>
 </div>
-
-
 ## ०९ देवानां निहितं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/09_devAnAM_nihitaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -398,15 +371,16 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 आपो॒ हिर॑ण्यं जुगुपुस्त्रि॒वृद्भि॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/09_devAnAM_nihitaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/09_devAnAM_nihitaM.md">
+<details open><summary><h3>०९ देवानां निहितं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. The treasured (*ni-dhā*) treasure of the gods that Indra discovered  
 by roads that the gods travel—the gold did the waters guard with triple  
 ones; let those triple ones defend thee with the triple ones.
 
-#### Notes
+##### Notes
   
   
   
@@ -418,17 +392,13 @@ the mss. give *indrā ’nv-* (p. *indra: anu-*); but this time SPP. also,
 as well as we, emends to the former reading, which is that of the comm.  
 ⌊*Nidhiṁ devā́nāṁ níhitaṁ yám índraḥ* would be good rhythm.⌋ \*⌊Or nearly  
 so: but *trivṛ́tā* of 3 is here *tṛvátā*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/09_devAnAM_nihitaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The secret treasure of the Gods which Indra, by pathways travelled by the Gods, discovered, That gold the Waters with the triplets guarded. May they keep thee with threebold hymn and triplets.
 </details>
+</details>
 </div>
-
-
 ## १० त्रयस्त्रिंशद् देवतास्त्रीणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/10_trayastriMshad_devatAstrINi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -444,15 +414,16 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 अ॒स्मिंश्च॒न्द्रे अधि॒ यद्धिर॑ण्यं॒ तेना॒यं कृ॑णवद् वी॒र्या॑णि ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/10_trayastriMshad_devatAstrINi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/10_trayastriMshad_devatAstrINi.md">
+<details open><summary><h3>१० त्रयस्त्रिंशद् देवतास्त्रीणि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Thirty-three deities and three heroisms guarded \[it\] within the  
 waters, holding \[it\] dear; what gold there is upon this shining one (?  
 *candrá*), therewith shall this man do heroisms.
 
-#### Notes
+##### Notes
 All the mss. read in **b** *priyā́yamā́ṇā* (p. *priyā́ya: mā́ṇā!*); but here  
 again SPP. has the courage to follow us in emending to *priyāyámāṇās*  
 (p. *priya॰yámāṇāḥ*), since the comm. so understands it; it is only a  
@@ -467,17 +438,13 @@ highly irregular\* verse (13 + 11: 10 + 11 = 45) should be called simply
 a *jagatī*. ⌊With **a**, cf. 37. 1 **c**, below.⌋ \*⌊Possibly we have to  
 substitute the older grammatical equivalent in **a**, *trī́ ca vīryā̀*  
 (cf. 3 **b**); a *‘sti* before *ádhi* would mend **c**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/10_trayastriMshad_devatAstrINi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With friendly thoughts the Deities, three-and thirty, and three great Powers preserved it in the Waters. He made heroic powers with the gold that lies upon this Moon.
 </details>
+</details>
 </div>
-
-
 ## ११ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/11_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -491,26 +458,22 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 ये दे॑वा दि॒व्येका॑दश॒ स्थ ते दे॑वासो ह॒विरि॒दं जु॑षध्वम्॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/11_ye_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/11_ye_devA.md">
+<details open><summary><h3>११ ये देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Ye, O gods, that are eleven in the sky, do ye, O gods, enjoy this  
 oblation.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/11_ye_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O ye eleven Gods who are in heaven, accept this sacrifice.
 </details>
+</details>
 </div>
-
-
 ## १२ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -524,26 +487,22 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 ये दे॑वा अ॒न्तरि॑क्ष॒ एका॑दश॒ स्थ ते दे॑वासो ह॒विरि॒दं जु॑षध्वम्॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/12_ye_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/12_ye_devA.md">
+<details open><summary><h3>१२ ये देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Ye, O gods, that are eleven in the atmosphere, do ye, O gods, enjoy  
 this oblation.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/12_ye_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O ye eleven Gods who are in air, accept this sacrifice.
 </details>
+</details>
 </div>
-
-
 ## १३ ये देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/13_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -557,31 +516,28 @@ O ye eleven Gods who are in air, accept this sacrifice.
 ये दे॑वा पृथि॒व्यामेका॑दश॒ स्थ ते दे॑वासो ह॒विरि॒दं जु॑षध्वम्॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/13_ye_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/13_ye_devA.md">
+<details open><summary><h3>१३ ये देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. Ye, O gods, that are eleven on the earth, do ye, O gods, enjoy this  
 oblation.
 
-#### Notes
+##### Notes
 With these three verses corresponds RV. i. 139. 11: *yé devāso divy  
 ékādaśa sthá pṛthivyā́m ádhy ékādaśa sthá: apsukṣíto mahināí ’kādaśa sthá  
 té devāso yajñám imáṁ juṣadhvam;* VS. vii. 19 precisely agrees with  
 this; MS. (in i. 3. 13) reads *devās* in **a**; TS. (in i. 4. 10) reads  
 *devās* in both **a** and **d** ⌊and *apsuṣádo* in **c**⌋. The comm's  
 text inserts in vs. 11 *divyās* after *devās*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/13_ye_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O ye eleven Gods who are on earth, accept this sacrifice.
 </details>
+</details>
 </div>
-
-
 ## १४ असपत्नं पुरस्तात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/14_asapatnaM_purastAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -597,26 +553,22 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑ ॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/14_asapatnaM_purastAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/14_asapatnaM_purastAt.md">
+<details open><summary><h3>१४ असपत्नं पुरस्तात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. Freedom from rivals in front, behind us \[is\] fearlessness made;  
 Savitar \[protect\] me on the south, the lord of śachī me on the north.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/14_asapatnaM_purastAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
+</details>
 </div>
-
-
 ## १५ दिवो मादित्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/15_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -634,17 +586,18 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥१५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/027_suraxA/15_divo_mAdityA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/15_divo_mAdityA.md">
+<details open><summary><h3>१५ दिवो मादित्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. From the sky let the Ādityas defend me, from the earth let the  
 fires defend; let Indra-and-Agni defend me in front; let the Aśvins  
 yield refuge round about; crosswise let the inviolable \[cow\], let  
 Jātavedas, defend \[me\]; let the being-makers be my defense on all  
 sides.
 
-#### Notes
+##### Notes
 These two verses are a repetition of 16. 1, 2 above, and in our mss., as  
 usual, are read simply thus: *asapatnám purástād íti dvé*. The Anukr.  
 does not repeat its definition of their meter; inasmuch as it reckons  
@@ -658,12 +611,10 @@ reads *me* instead of *nas*. \*⌊The comm. in fact takes our vss. 11-13
 as one vs., his 11; our 14 as his 12; our 15 **ab** as his 13; and our  
 15 **c-f** as his 14. Or, he says, we may take our 14 with 15 **ab** as  
 one *mantra*. He reads *agnis* again in our **e** as in 16. 2 **e**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/027_suraxA/15_divo_mAdityA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
+</details>
 </details>
 </div>

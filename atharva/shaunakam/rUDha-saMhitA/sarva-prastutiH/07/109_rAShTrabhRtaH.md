@@ -19,24 +19,19 @@ title = "१०९ राष्ट्रभृतः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. iv. (in the verse-order 6, 1, 2, 5, 3, 7, 4). Used by Kāuś. (41. 13), with hymn 50 etc., in a rite for success in gambling: see under 50; and by Vāit. (6. 10), in the agnyādheya ceremony, when the sacrificer hands the adhvaryu the anointed dice, for winning at play the somakrayaṇī cow. ⌊The decad division cuts the hymn between vss. 3 and 4: cf. p. 389.⌋ *⌊Note that iv. 38 is for luck in gambling and is ascribed to the same rishi. Cf. introd. to iv. 38 and 40.⌋
 
 
-#### Translations
+##### Translations
 Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i. 380.—Cf. Zimmer, p. 285, 284.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ इदमुग्राय बभ्रवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,32 +47,29 @@ Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i
 घृ॒तेन॒ कलिं॑ शिक्षामि॒ स नो॑ मृडाती॒दृशे॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
+<details open><summary><h3>०१ इदमुग्राय बभ्रवे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This homage to the formidable brown one, who among the dice is  
 self-controller; with ghee do I aid (?) Kali; may he be gracious to us  
 in such plight.
 
-#### Notes
+##### Notes
 ⌊In **a**, Henry would suppress either *idám* or else *námo*.⌋ Ppp.  
 combines *yo ‘kṣeṣu* in **b**, and reads *kalyam* in **c**. The comm.  
 explains *babhráve* as *babhruvarṇāyāi ’tatsaṁjñakāya dyūtajayakāriṇe  
 devāya;* of Kali he says *parājayahetuḥ pañcasaṁkhyāyukto ‘kṣaviṣayo  
 ‘yaḥ kalir ity ucyate*, and quotes TB. i. 5. 11¹; *śikṣāmi* is either  
 *tāḍayāmi* or *samarthaṁ kartum icchāmi*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 My homage to the strong, the brown, the sovran lord among the dice! Butter on Kali I bestow: may he be kind to one like me.
 </details>
+</details>
 </div>
-
-
 ## ०२ घृतमप्सराभ्यो वह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,15 +85,16 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 य॒था॒भ॒गं ह॒व्यदा॑तिं जुषा॒णा मद॑न्ति दे॒वा उ॒भया॑नि ह॒व्या॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
+<details open><summary><h3>०२ घृतमप्सराभ्यो वह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Do thou, O Agni, carry ghee for the Apsarases, dust for the dice,  
 gravel and waters; enjoying in their respective shares the  
 oblation-giving, the gods revel in both kinds of oblations.
 
-#### Notes
+##### Notes
 Ppp. puts *agne* after *ghṛtam* in **a** ⌊a great improvement of the  
 meter⌋, reads *nakhebhyas* in **b**, makes **c** refer to Agni by giving  
 *yathābhāgas* and *juṣāṇas*, and has *madantu* in **d**. Some of the  
@@ -111,17 +104,13 @@ supported. Half SPP's mss., and at least one (D.) of ours, give *pāṅśū́n*
 in **b**. The comm. boldly declares *akṣebhyas* in **b** to mean  
 *pratikitavebhyas:* they are to have dust etc. flung at them, that they  
 may be beaten.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and water. The Gods delight in both oblations, joying in sacrificial gifts apportioned duly.
 </details>
+</details>
 </div>
-
-
 ## ०३ अप्सरसः सधमादं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -137,31 +126,28 @@ Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and wat
 ता मे॒ हस्तौ॒ सं सृ॑जन्तु घृ॒तेन॑ स॒पत्नं॑ मे कित॒वं र॑न्धयन्तु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdaM.md">
+<details open><summary><h3>०३ अप्सरसः सधमादं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The Apsarases revel a joint reveling, between the oblation-holder  
 (*havirdhā́na*) and the sun; let them unite my hands with ghee; let them  
 make the rival gambler subject to me.
 
-#### Notes
+##### Notes
 Ppp. begins *yā ’ps-* puts *antarā* first in **b**, reads in **c** *tā  
 nāu* ⌊intending *no*?⌋ *hastaṁ kṛtena* (this is a great improvement)  
 *saṁ sṛ-*, and has *naṛ kit-* in **d**. The comm. understands  
 *havirdhāna* in **b** to signify the earth. The first half-verse is  
 identical with xiv. 2. 34 **a, b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Apsarases take pleasure in the banquet between the Sun and. the libation-holder. With butter let them fill my hands, and give me, to be my prey, the man who plays against me.
 </details>
+</details>
 </div>
-
-
 ## ०४ आदिनवं प्रतिदीव्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -177,14 +163,15 @@ The Apsarases take pleasure in the banquet between the Sun and. the libation-hol
 वृ॒क्षमि॑वा॒शन्या॑ जहि॒ यो अ॒स्मान् प्र॑ति॒दीव्य॑ति ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
+<details open><summary><h3>०४ आदिनवं प्रतिदीव्ने ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Ill luck (?) to the opposing player; do thou shed upon us with ghee;  
 smite thou him who plays against us as a tree with a thunderbolt.
 
-#### Notes
+##### Notes
 Compare above, 50. 1. The obscure word at the beginning is divided  
 *ādi॰navám* by the *pada*-mss.; SPP., however, alters his *pada*-text to  
 *ādinavám*, simply to agree with the comm's grammatical explanation! as  
@@ -194,17 +181,13 @@ worse than usual; the comm. makes the word a verb-form from root *dīv* +
 treats the verse as a cited one; but it has not been found elsewhere in  
 its text. \*⌊In the Corrections to vol. ii., p. 535⁵, SPP. suggests  
 *ādevanam*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree with lightning flash, mine adversary in the game.
 </details>
+</details>
 </div>
-
-
 ## ०५ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -220,31 +203,28 @@ Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree wi
 स नो॑ दे॒वो ह॒विरि॒दं जु॑षा॒णो ग॑न्ध॒र्वेभिः॑ सध॒मादं॑ मदेम ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/05_yo_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/05_yo_no.md">
+<details open><summary><h3>०५ यो नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. He who made this riches for our playing, who the taking (?) and  
 leaving of the dice—that god, enjoying this libation of ours—may we  
 revel a joint reveling with the Gandharvas.
 
-#### Notes
+##### Notes
 The Ppp. version is quite different: *yo no devo dhanam idaṁ dideśa yo  
 ‘kṣāṇāṁ grahaṇaṁ śaṣaṇaṁ ca: sa no ’vatu havir* etc.; also *gandharvāis  
 sadh-* in **d**. The comm. explains *gláhanam* and *śéṣaṇam*  
 respectively by *grahaṇa¿m svakīyāir akṣāir jitvā svīkaraṇam*, and  
 *svīyānām akṣāṇāṁ jayāhvasthāne* (one ms. *-yāṅhva-*) ‘*vaśeṣaṇam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/05_yo_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The God who found for us this wealth for gambling, to cast the dice and count the winning number, May he accept the sacrifice we offer, and with Gandharvas revel in the banquet.
 </details>
+</details>
 </div>
-
-
 ## ०६ संवसव इति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -260,15 +240,16 @@ The God who found for us this wealth for gambling, to cast the dice and count th
 तेभ्यो॑ व इन्दवो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो॒ रयी॒णाम्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
+<details open><summary><h3>०६ संवसव इति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Having good things in common (? *sáṁvasu*)—that is your appellation;  
 for stern-looking, realm-bearing \[are\] the dice; you as such, O drops,  
 would we worship with oblation; may we be lords of wealth.
 
-#### Notes
+##### Notes
 Ppp. begins **c** with *tasmāi ta indro hav-*. Emendation in **b** to  
 *akṣāḥ* (voc.) would be a welcome improvement; Henry so translates. The  
 minor Pet. Lex. conjectures that *indavas* in **c** means 'the marks or  
@@ -284,17 +265,13 @@ third pāda is *jagatī* ⌊only by count⌋. \*⌊The major Lex. takes it as
 text-critical remark about it. His Collation-book notes no variant ms.  
 reading; but SPP. reports *idáṁ vaḥ* and *indaváḥ;* none give  
 *índavaḥ*.⌋ †⌊As if it were *índavaḥ* = *índtimantaḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fellow-inhabitants, such is your title, for Dice with looks of power support dominion. As such with offerings may we serve you, Indus! May we have riches in our own possession.
 </details>
+</details>
 </div>
-
-
 ## ०७ देवान् यन्नाथितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/07_devAn_yannAthito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -310,23 +287,22 @@ Fellow-inhabitants, such is your title, for Dice with looks of power support dom
 अ॒क्षान् यद् ब॒भ्रूना॒लभे॒ ते नो॑ मृडन्त्वी॒दृशे॑ ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/109_rAShTrabhRtaH/07_devAn_yannAthito.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/07_devAn_yannAthito.md">
+<details open><summary><h3>०७ देवान् यन्नाथितो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. If (*yát*) a suppliant I call on the gods, if we have dwelt in Vedic  
 studentship, if I take up the brown dice—let them be gracious to us in  
 such plight.
 
-#### Notes
+##### Notes
 Ppp. begins with *yad devān*, and reads *ūvima* in **b**. One would like  
 to emend to *ālebhé* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/109_rAShTrabhRtaH/07_devAn_yannAthito.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As I invoke the Gods at need, as I have lived in chastity, May these, when I have grasped the Dice, the brown, be kind to one like me.
+</details>
 </details>
 </div>

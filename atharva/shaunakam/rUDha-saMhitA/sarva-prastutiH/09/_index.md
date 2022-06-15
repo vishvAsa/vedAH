@@ -2,12 +2,9 @@
 title = "+०९"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/09/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/_index.md">
+<details open><summary><h2>Paryāya-hymns: ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book IX.
 
@@ -43,9 +40,6 @@ editions. Of these "decads," *anuvākas* 1, 2, 3, 4, and 5 contain
 respectively 5, 5, 4, 2, and 5 (in all, 21 "decads"); while *anuvākas* 3
 and 4 have respectively 6 *paryāyas* and 1. The sum is 21
 "decad"-*sūktas* and 7 *paryāya-sūktas* or 28 *sūktas*.⌋
-
-  
-
-
+</details>
 </details>
 </div>

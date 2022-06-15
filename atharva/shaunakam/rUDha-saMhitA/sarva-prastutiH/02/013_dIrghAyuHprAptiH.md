@@ -19,26 +19,23 @@ title = "०१३ दीर्घायुःप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Verses 1, 4, 5 are found in Pāipp. xv. Though (as Weber points out) plainly having nothing to do with the godāna or tonsure ceremony, its verses are applied by Kāuś. to parts of that rite. Thus, it accompanies the preparations for it (53. 1) and the wetting of the youth's head (53. 13); vss. 2 and 3, the putting of a new garment on him (54. 7); vs. 4, making him stand on a stone (54. 8); vs. 5, taking away his old garment (54. 9). And the comm. quotes vss. 2 and 3 from Pariśiṣṭa 4. 1 as uttered by a purohita on handing to a king in the morning the garment he is to put on, and vs. 4 from ibid. 4, as the same throws four pebbles toward the four directions, and makes the king step upon a fifth.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 171; Zimmer, p. 322; Griffith, i. 57.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A youth's Investiture ceremony (godanam)
 </details>
+</details>
 </div>
-
-
 ## ०१ आयुर्दा अग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A youth's Investiture ceremony (godanam)
 घृ॒तं पी॒त्वा मधु॒ चारु॒ गव्यं॑ पि॒तेव॑ पु॒त्रान॒भि र॑क्षतादि॒मम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
+<details open><summary><h3>०१ आयुर्दा अग्ने ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Giving life-time, O Agni, choosing old age; ghee-fronted,  
 ghee-backed, O Agni—having drunk the sweet pleasant (*cā́ru*) ghee of the  
 cow, do thou afterward defend (*rakṣ*) this \[boy\] as a father his  
 sons.
 
-#### Notes
+##### Notes
 The verse occurs also in various Yajur-Veda texts, as VS. (xxxv. 17),  
 TS. (i. 3. 14⁴ et al.), TB. (i. 2. 1¹¹), TA. (ii. 5. 1), MS. (iv. 12.4)  
 ⌊MP. ii. 2. 1⌋, and in several Sūtras, as AśS. (ii. 10. 4), śGS. (i.  
@@ -89,17 +87,13 @@ the deficiency in **c**! The impossible cadence of **c** is curable by
 no less radical means than the adoption of the Ppp. reading. All this  
 illustrates so well the woodenness of the methods of the Anukr. and its  
 utter lack of sense of rhythm, that attention may well be called to it.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Strength-giver, winning lengthened life, O Agni, with face and back shining with molten butter, Drink thou the butter and fair milk and honey, and, as a sire his sons, keep this man safely.
 </details>
+</details>
 </div>
-
-
 ## ०२ परि धत्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,15 +109,16 @@ Strength-giver, winning lengthened life, O Agni, with face and back shining with
 बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत् सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
+<details open><summary><h3>०२ परि धत्त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Envelop, put ye him for us with splendor; make ye him one to die of  
 old age; \[make\] long life; Brihaspati furnished (*pra-yam*) this  
 garment unto king Soma for enveloping \[himself\].
 
-#### Notes
+##### Notes
 The verse is repeated below, as xix. 24. 4. It is found also in HGS. (i.  
 4. 2) ⌊MP. ii. 2. 6⌋, and **a, b** in MB. (i. 1. 6). HGS. in **a** omits  
 *nas*, and reads *vāsasāi ’nam* for *varcase ’mam*, and in **b** it has  
@@ -134,17 +129,13 @@ but *dhattá* requires rather *várcase*. Emending to *kṛṇutá* would
 enable *jarā́mṛtyum* to be construed with *imam* in **a** ⌊; but cf. ii.  
 28. 2⌋. Verses 2 and 3 are apparently lost out of Ppp., not originally  
 wanting.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For us surround him, cover him with splendour, give him long life, and death when age removes him. The garment hath Brihaspati presented to Soma, to the King, to w rap about him.
 </details>
+</details>
 </div>
-
-
 ## ०३ परीदं वासो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -160,16 +151,17 @@ For us surround him, cover him with splendour, give him long life, and death whe
 श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
+<details open><summary><h3>०३ परीदं वासो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Thou hast put about thee this garment in order to well-being; thou  
 hast become protector of the people (?) against imprecation; both do  
 thou live a hundred numerous autumns, and do thou gather about thee  
 abundance of wealth.
 
-#### Notes
+##### Notes
 The translation implies emendation of *gṛṣṭīnā́m* in **b** to *kṛṣṭīnā́m*,  
 as given by Ppp. and by PGS. (i. 4. 12) and HGS. (i. 4. 2) in a  
 corresponding expression to xix. 24.5 below. ⌊MP., ii. 2. 8, reads  
@@ -187,17 +179,13 @@ With **c, d** cf. PGS. ii. 6. 20.⌋ The first pāda is properly *jagatī*
 (*su-astáye*).  
   
 ⌊☞ See p. 1045.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers' guard from witchcraft. Live thou a hundred full and plenteous autumns, and wrap thee in prosperity of riches.
 </details>
+</details>
 </div>
-
-
 ## ०४ एह्यश्मानमा तिष्ठाश्मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -213,14 +201,15 @@ Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers
 कृ॒ण्वन्तु॒ विश्वे॑ दे॒वा आयु॑ष्टे श॒रदः॑ श॒तम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
+<details open><summary><h3>०४ एह्यश्मानमा तिष्ठाश्मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Come, stand on the stone; let thy body become a stone; let all the  
 gods make thy life-time a hundred autumns.
 
-#### Notes
+##### Notes
 The second pāda is nearly identical with RV. vi. 75. 12 **b**; with **a,  
 b** compare also AGS. i. 7. 7 and MB. i. 2. 1, similar lines used in the  
 nuptial ceremonies. ⌊With **a, c, d** compare MGS. i. 22. 12 and p.  
@@ -228,17 +217,13 @@ nuptial ceremonies. ⌊With **a, c, d** compare MGS. i. 22. 12 and p.
 bhava: pra mṛṇīhi durasyataḥ sahasva pṛtanāyataḥ;* which differs but  
 little from the AGS. verse. The Anukr. apparently expects us to resolve  
 *ví-śu-e* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come hither, stand upon the stone: thy body shall become a stone. The Universal Gods shall make thy life a hundred autumns long.
 </details>
+</details>
 </div>
-
-
 ## ०५ यस्य ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -254,15 +239,16 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 तं त्वा॒ भ्रात॑रः सु॒वृधा॒ वर्ध॑मान॒मनु॑ जातन्तां ब॒हवः॒ सुजा॑तम्॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
+<details open><summary><h3>०५ यस्य ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Thee here, of whom we take the garment to be first worn, let all the  
 gods favor; thee here, growing with good growth, let many brothers be  
 born after, ⌊\[after thee,\]⌋ as one well born.
 
-#### Notes
+##### Notes
 This verse makes it pretty evident that in vs. 3 also the garment is the  
 first that is put on the child after birth. But the comm., ignoring the  
 gerundive *-vāsyam*, thinks it a "formerly worn" garment that is "taken  
@@ -274,12 +260,10 @@ corresponding verse, omitting *vāsas* in **a**, combining *viśve av-* in
 before *hárāmas* in **a.** The verse is very irregular in the first  
 three pādas, though it can by violence be brought into *triṣṭubh*  
 dimensions; it has no *jagatī* quality whatever.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 So may the Universal Gods protect thee, whom we divest of raiment worn aforetime. So after thee, well-formed and growing stronger, be born a multitude of thriving brothers.
+</details>
 </details>
 </div>

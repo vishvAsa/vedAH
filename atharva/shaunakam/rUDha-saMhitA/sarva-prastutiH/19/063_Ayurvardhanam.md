@@ -19,26 +19,23 @@ title = "०६३ आयुर्वर्धनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/063_Ayurvardhanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. and in the comm.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 318.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/063_Ayurvardhanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer, with sacrifice, for long life and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ उत् तिष्ठ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_ut_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,26 +51,25 @@ A prayer, with sacrifice, for long life and prosperity
 आयुः॑ प्रा॒णं प्र॒जां प॒शून् की॒र्तिं यज॑मानं च वर्धय ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/063_Ayurvardhanam/01_ut_tiShTha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/01_ut_tiShTha.md">
+<details open><summary><h3>०१ उत् तिष्ठ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Arise, O Brahmaṇaspati; awaken the gods with the sacrifice; increase  
 \[his\] life-time, breath, progeny, cattle, fame, and the sacrificer  
 \[himself\].
 
-#### Notes
+##### Notes
 The mss. vary between *paśúm* and *paśū́n* in the second half-verse.  
 *Kīrtím* is pretty evidently intruded, spoiling the ⌊otherwise good  
 *anuṣṭubh*⌋ meter; the Anukr. reckons it to the fourth pāda. The  
 *paddhati* uses the verse (see note to Kāuś. 6. 21) in the course of the  
 *darśapūrṇamāsa* ceremony.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/063_Ayurvardhanam/01_ut_tiShTha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Rise up, O Brahmanaspati; awake the Gods with sacrifice. Strengthen the Sacrificer: aid life, breath, and off-spring, cattle, fame.
+</details>
 </details>
 </div>

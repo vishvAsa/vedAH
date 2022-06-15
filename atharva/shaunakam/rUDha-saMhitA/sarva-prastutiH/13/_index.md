@@ -2,12 +2,9 @@
 title = "+१३"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/13/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/_index.md">
+<details open><summary><h2>Hymns to the Ruddy Sun or Rohita. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XIII.
 
@@ -59,9 +56,6 @@ Here ¶ means "paragraph of a *paryāya*" (such as is numbered as a
 *anuvākas* 1, 2, and 3 contain respectively 6, 5, and 3 (in all, 14
 "decads"); while *anuvāka* 4 has 6 *paryāyas*. The sum is 14
 "decad"-*sūktas* and 6 *paryāya-sūktas* or 20 *sūktas* (cf. p. 737).⌋
-
-  
-
-
+</details>
 </details>
 </div>

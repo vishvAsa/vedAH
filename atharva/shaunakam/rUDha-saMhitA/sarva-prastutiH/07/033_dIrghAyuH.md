@@ -19,26 +19,23 @@ title = "०३३ दीर्घायुः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/033_dIrghAyuH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found, without variant, in Pāipp. vi.; also in a number of other texts: see below. The verse has various uses in Kāuś.: next after hymn 15, in a rite for prosperity (24. 8), with offering a dish of mixed grain; in the ceremony of reception of a Vedic student, twice (57. 22, 25), in the ⌊agnikārya⌋, with sprinkling thrice repeated; and (note to 53. 4) the schol. add it in other rites, the godāna etc. In Vāit. (29. 21), the brahman-priest makes the sacrificer repeat it on being anointed, in the agnicayana ceremony.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 13, 66; Griffith, i. 342.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/033_dIrghAyuH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for long life, children, and riches
 </details>
+</details>
 </div>
-
-
 ## ०१ सं मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for long life, children, and riches
 सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/033_dIrghAyuH/01_saM_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/01_saM_mA.md">
+<details open><summary><h3>०१ सं मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let the Maruts pour me together, together Pūshan, together  
 Brihaspati, together let Agni here pour me with both progeny and wealth;  
 long life-time let him make for me.
 
-#### Notes
+##### Notes
 'Pour together' (*sam-sic*), i.e. mingle, combine, unite; the expression  
 probably chosen as accompanying an action of mixing things together by  
 pouring. In their corresponding verses, TA. (ii. 18⁴), JB. (i. 362),  
@@ -72,12 +70,10 @@ pouring. In their corresponding verses, TA. (ii. 18⁴), JB. (i. 362),
 *dhánena;* **e** is wanting in PGS.; ĀpśS. has *sarvam* and *dadhātu*,  
 TA. *ā́yuṣmantaṁ karota mā*. The variants of K. (xxxv. 2) are not  
 accessible.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/033_dIrghAyuH/01_saM_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let Pushan, let the Maruts, let Brihaspati pour forth on me; This present Agni pour on me children and riches in a stream! May he bestow long life on me.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०७५ सपत्नक्षयणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/075_sapatnaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. (with the verse-order 1, 3, 2); and in TB. (iii. 3. 113-4) and Āp. (iii. 14. 2). ⌊TB. and Āp. agree with Pāipp. in the verse-order and several other points.⌋ Used by Kāuś. (47. 10) in a rite of sorcery; and again similarly (48. 29-31), with strewing of darbha grass.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 373; Grill, 22, 165; Griffith, i. 285; Bloomfield, 92, 495.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/075_sapatnaxayaNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to effect the removal of an enemy
 </details>
+</details>
 </div>
-
-
 ## ०१ निरमुं नुद
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,29 +51,26 @@ A charm to effect the removal of an enemy
 नै॒र्बा॒ध्येऽन ह॒विषेन्द्र॑ एनं॒ परा॑शरीत्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
+<details open><summary><h3>०१ निरमुं नुद ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. I thrust yon man out of home, the rival who fights \[us\], with the  
 oblation of ejectment; Indra hath demolished him.
 
-#### Notes
+##### Notes
 One of our mss. (O.) reads at the end also here (cf. 66. 2, above ⌊and  
 note to 32. 2⌋) *-śarāit*. Ppp., also TB.Āp., have *nirb-* at the  
 beginning of **c**; and TB.Āp. have *eṇam* in **d** (the two agree in  
 every point through the hymn). ⌊Ppp. *parāśarī*, as at 66. 2.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Forth from his dwelling drive that man, the foeman who assaileth us: Through the Expellent sacrifice hath Indra rent and mangled him.
 </details>
+</details>
 </div>
-
-
 ## ०२ परमां तं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_taM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,28 +86,25 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/075_sapatnaxayaNam/02_paramAM_taM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/02_paramAM_taM.md">
+<details open><summary><h3>०२ परमां तं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let Indra, Vritra-slayer, thrust him to the most distant distance,  
 whence he shall not come back, through constant years (*sámā*).
 
-#### Notes
+##### Notes
 Ppp.TB.Āp. read *tvā* for *tám* in **a**, and TB.Āp. *nayatu* for  
 *nudatu* in **b**, while Ppp. has, for **b**, *indro devo acīkḷpat;* all  
 three have *-yasi* at end of **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/075_sapatnaxayaNam/02_paramAM_taM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never more shall be return in all the years that are to come.
 </details>
+</details>
 </div>
-
-
 ## ०३ एतु तिस्रः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -131,16 +122,17 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 शश्व॒तीभ्यः॒ समा॑भ्यो॒ यावत् सूर्यो॒ अस॑द् दि॒वि॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/075_sapatnaxayaNam/03_etu_tisraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
+<details open><summary><h3>०३ एतु तिस्रः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let him go \[beyond\] three distances; let him go beyond the five  
 peoples; let him go beyond the three shining spaces, whence he shall not  
 come back, through constant years, so long as the sun shall be in the  
 sky.
 
-#### Notes
+##### Notes
 Instead of *étu*, TB.Āp. have three times *ihí*, and they omit pādas  
 **d, e**; RV. (viii. 32. 22 **a, b**) agrees with them in pādas **a,  
 b**. Ppp. reads *anu* for *ati* at end of **b**, and has, for **c**, the  
@@ -151,12 +143,10 @@ apparently taken here as feminine, and should be *rocanāḥ*. The mark of
 punctuation added after **d** in our edition is not in the mss.; it was  
 heedlessly introduced in going through the press; and the accent of  
 *śaśvatī́bhyas* is misprinted.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/075_sapatnaxayaNam/03_etu_tisraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To the three distances, beyond mankind's Five Races, let him go, Beyond the three skies let him go, whence he shall never come- again In all the years that are to be, long as the Sun is in the heaven.
+</details>
 </details>
 </div>

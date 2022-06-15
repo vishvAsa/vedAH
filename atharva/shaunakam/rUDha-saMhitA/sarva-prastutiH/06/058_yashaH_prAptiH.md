@@ -19,26 +19,23 @@ title = "०५८ यशः प्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/058_yashaH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also, except vs. 3, in Pāipp. xix. The hymn is reckoned (note to Kāuś. 13. 1) to the varcasya gaṇa, and is employed (59. 9) among the kāmya ceremonies by one desiring glory; also (139. 15), in the introduction to Vedic study (utsarjanakarmaṇi, comm.), it appears with various other hymns (vi. 38, 39, etc.), with an oblation to Agni.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 240; Griffith, i. 277.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A priest's prayer for power and glory
 </details>
+</details>
 </div>
-
-
 ## ०१ यशसं मेन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ A priest's prayer for power and glory
 य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
+<details open><summary><h3>०१ यशसं मेन्द्रो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Glorious let the bounteous Indra make me; glorious both  
 heaven-and-earth here; glorious let god Savitar make me; may I be dear  
 here to the giver of the sacrificial gift.
 
-#### Notes
+##### Notes
 Ppp. reads *me indro maghavā* in **a**; for **b**, *yaśasaṁ soma varuṇo  
 vāyur agniḥ;* and ends with *-ṇāyā syām aham*. The comm. has *dhātur*  
 instead of *dā-* in **d**. As *jagatī*, the verse is both irregular and  
 deficient.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, make me famous. May Savitar the deity make me honoured. Here may the man who gives the guerdon love me.
 </details>
+</details>
 </div>
-
-
 ## ०२ यथेन्द्रो द्यावापृथिव्योर्यशस्वान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,29 +87,26 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md">
+<details open><summary><h3>०२ यथेन्द्रो द्यावापृथिव्योर्यशस्वान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. As Indra is possessed of glory in heaven-and-earth, as the waters are  
 possessed of glory in the herbs, so among all the gods may we, among  
 all, be glorious.
 
-#### Notes
+##### Notes
 Ppp. omits *yaśasvatīs* in **b**, and has, for **c, d**, *yathā viśveṣu  
 deveṣv evā deveṣu yaśasaḥ syāma*. The verse (11 + 12: 8 + 11) is very  
 ill defined by the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra from Heaven and Earth receiveth glory among the plants the Waters have their glory; Even so may we be glorious'mid all the Universal Gods.
 </details>
+</details>
 </div>
-
-
 ## ०३ यशा इन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -131,21 +122,20 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/058_yashaH_prAptiH/03_yashA_indro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/03_yashA_indro.md">
+<details open><summary><h3>०३ यशा इन्द्रो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Glorious was Indra, glorious was Agni, glorious was Soma born;  
 glorious, of all existence am I most glorious.
 
-#### Notes
+##### Notes
 This verse is a repetition of 39. 3 above.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/058_yashaH_prAptiH/03_yashA_indro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra and Agni were renowned, famous was Soma at his birth; So too am I illustrious, most glorious of all that is.
+</details>
 </details>
 </div>

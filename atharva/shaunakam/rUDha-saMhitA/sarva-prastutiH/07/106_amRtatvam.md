@@ -19,24 +19,19 @@ title = "१०६ अमृतत्वम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/106_amRtatvam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Applied by Kāuś. (6. 2), in the parvan sacrifice, with offerings in expiation of any thing spilt or overlooked in the ceremony; and later (46. 24), when a direction at the sacrifice has not been fully executed. Used also for a similar purpose in Vāit. in the agniṣṭoma (12. 5), and again later (16. 8).
 
 
-#### Translations
+##### Translations
 Translated: Henry, 41, 117; Griffith, i. 379.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यदस्मृति चकृम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,26 +47,25 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/106_amRtatvam/01_yadasmRti_chakRma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
+<details open><summary><h3>०१ यदस्मृति चकृम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. If (*yát*) in forgetfulness we have done aught, O Agni, have  
 offended, O Jātavedas, in our behavior (*cáraṇa*), from that do thou  
 protect us, O forethoughtful one; unto beauty be there immortality for  
 us \[thy\] companions.
 
-#### Notes
+##### Notes
 The sense of the last pāda is obscure and doubtful. The comm. takes  
 *śubhé* as loc. = *śobhane sān̄ge karmaṇi*. Ppp. reads *tasmāt* for  
 *tatas* in **c**, and *śukhe* in **d**. The second half-verse is more  
 irregular than the Anukr. admits.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/106_amRtatvam/01_yadasmRti_chakRma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Each thoughtless ill that we have done, O Agni, all error in our conduct, Jatavedas! Therefrom do thou, O sapient God, preserve us. May we thy friends, for bliss, have life eternal.
+</details>
 </details>
 </div>

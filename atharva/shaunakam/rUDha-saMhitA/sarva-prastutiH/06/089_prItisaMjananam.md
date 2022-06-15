@@ -19,26 +19,23 @@ title = "०८९ प्रीतिसंजननम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/089_prItisaMjananam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This hymn also, like the preceding, is wanting in Pāipp. Kāuś. (36. 10-11) applies it in a women's rite, for winning affection, addressing the head and ear, or wearing the hair, of the person to be affected. *⌊The Anukr. text is confused here; but the Berlin ms. seems to add manyuvināśanam.⌋
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 242; Griffith, i. 293.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/089_prItisaMjananam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A man's love charm
 </details>
+</details>
 </div>
-
-
 ## ०१ इदं यत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/01_idaM_yat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,29 +51,26 @@ A man's love charm
 ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/089_prItisaMjananam/01_idaM_yat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/01_idaM_yat.md">
+<details open><summary><h3>०१ इदं यत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This head that is love's (? *preṇí*), virility given by Soma—by what  
 is engendered out of that, do we pain (*śocaya*) thy heart.
 
-#### Notes
+##### Notes
 *Preṇí* is as obscure to the comm. as to us; he paraphrases it by  
 *premaprāpaka* 'that obtains (or causes to obtain) affection.' He takes  
 *vṛṣṇya* as adj., treats *pari prajātena* in **c** as one word, and  
 supplies to it *snehaviśeṣeṣa*. ⌊Whitney's O. combines *tátas pári*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/089_prItisaMjananam/01_idaM_yat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This strength that Soma hath bestowed, the head of her who gladdeneth,-- With that which thence hath been produced we make thy spirit sorrowful.
 </details>
+</details>
 </div>
-
-
 ## ०२ शोचयामसि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,28 +86,25 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 वातं॑ धू॒म इ॑व स॒ध्र्य॑१ङ्मामे॒वान्वे॑तु ते॒ मनः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/089_prItisaMjananam/02_shochayAmasi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
+<details open><summary><h3>०२ शोचयामसि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. We pain thy heart; we pain thy mind; as smoke the wind, close upon it  
 (*sadhryàñc*), so let thy mind go after me.
 
-#### Notes
+##### Notes
 The sign in our text denoting *kampa* in *sadhryàñ* should have been,  
 for consistency's sake, 1 (as in SPP's text) and not 3; the mss., as  
 usual, vary between 1 and 3 and nothing. The comm. reads *sadhrim*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/089_prItisaMjananam/02_shochayAmasi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke accompanies the wind, so let thy fancy follow me.
 </details>
+</details>
 </div>
-
-
 ## ०३ मह्यं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -129,21 +120,20 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/089_prItisaMjananam/03_mahyaM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
+<details open><summary><h3>०३ मह्यं त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Unto me let Mitra-and-Varuṇa, unto me divine Sarasvatī, unto me let  
 the middle of the earth, let both \[its\] ends fling (*sam-as*) thee.
 
-#### Notes
+##### Notes
 The comm. renders *samasyatām* by *saṁyojayatām*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/089_prItisaMjananam/03_mahyaM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Varuna and Mitra, may Sarasvati the Goddess, May the centre of the earth, and both her limits bring thee close to me.
+</details>
 </details>
 </div>

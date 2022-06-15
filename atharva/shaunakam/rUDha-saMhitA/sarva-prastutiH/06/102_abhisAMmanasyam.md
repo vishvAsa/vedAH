@@ -19,24 +19,19 @@ title = "१०२ अभिसांमनस्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/102_abhisAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used by Kāuś. (35. 21) in a rite concerning women, with vi. 8, 9, etc., for reducing to one's will. Verse 3 is also reckoned (19. 1, note) to the puṣṭika mantras.
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield, 101, 512.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/102_abhisAMmanasyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यथायं वाहो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,29 +47,26 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
+<details open><summary><h3>०१ यथायं वाहो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. As this draft-horse (*vāhá*), O Aśvins, comes together and moves  
 together \[with his mate\], so unto me let thy mind come together and  
 move together.
 
-#### Notes
+##### Notes
 The comm. paraphrases *vāhas* with *suśikṣito ’śvaḥ*, 'a well-trained  
 horse,' but regards the driver (*vāhaka*) as the unexpressed object ⌊?  
 or adjunct⌋ of the verbs—which is also possible.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Even as this ox, O Asvins, steps and turns together with his mate, So let thy fancy turn itself, come nearer, and unite with me.
 </details>
+</details>
 </div>
-
-
 ## ०२ आहं खिदामि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,14 +82,15 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
+<details open><summary><h3>०२ आहं खिदामि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. I drag along (*ā-khid*) thy mind, as a king-horse a side-mare (?);  
 like grass cut by a whirlwind, let thy mind twine itself to me.
 
-#### Notes
+##### Notes
 Some of SPP's authorities give *pṛṣṭhyā́m* in **b**; but in general the  
 mss. cannot be relied on to distinguish *ṣṭy* and *ṣṭhy*. The Pet. Lex.  
 understands the word with *ṭh*, but the minor Pet. Lex. with *ṭ*, in the  
@@ -109,17 +102,13 @@ tied to a stake (to the pole of the chariot?)', *rājāśva* as
 accepts, is that of only two of our mss. (Bp.Bp.²). ⌊Read therefore  
 *tṛ́ṇam*.⌋ The comm. explains *reṣman* as *reṣako vātyātmako vāyuḥ*. Ppp.  
 ends **b** with *pṛṣṭyāmayaḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass that storm and wind have rent, so be thy mind at- tached to me!
 </details>
+</details>
 </div>
-
-
 ## ०३ आञ्जनस्य मदुघस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,14 +124,15 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद् भ॑रे ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
+<details open><summary><h3>०३ आञ्जनस्य मदुघस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Of ointment, of *madúgha*, of *kúṣṭha*, and of nard, by the hands of  
 Bhaga, I bring up quick a means of subjection.
 
-#### Notes
+##### Notes
 The construction of the genitives in the first half-verse is obscure.  
 The comm. makes them depend on *anurodhanam*, and so also Grill. They  
 are perhaps rather the means by which the *anurodhana* (= *anulepana*,  
@@ -159,12 +149,10 @@ The tenth *anuvāka*, of 10 hymns and 30 verses, ends here; the quoted
 Anukr. says simply *daśama*.  
   
 Here ends also the fourteenth *prapāṭhaka*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Swiftly from Bhaga's hands I bear away a love-compelling charm Of ointment and of sugar-cane, of Spikenard and the Kushtha plant.
+</details>
 </details>
 </div>

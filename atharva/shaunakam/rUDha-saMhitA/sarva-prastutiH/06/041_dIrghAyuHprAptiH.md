@@ -19,26 +19,23 @@ title = "०४१ दीर्घायुःप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/041_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp., nor, so far as observed, in any other text. Used by Kāuś. (54. 11), with ii. 15, in the godāna ceremony, as the youth is made to eat a properly cooked dish of big rice (mahāvrīhi).
 
 
-#### Translations
+##### Translations
 Translated: Florenz, 301 or 53; Griffith, i. 266.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/041_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for protection, long life, and various blessings
 </details>
+</details>
 </div>
-
-
 ## ०१ मनसे चेतसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A prayer for protection, long life, and various blessings
 म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
+<details open><summary><h3>०१ मनसे चेतसे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. To mind, to thought, to device (*dhī́*), to design, and to intention,  
 to opinion (*matí*), to instruction (*śrutá*), to sight, would we pay  
 worship with oblation.
 
-#### Notes
+##### Notes
 The meter in **b** would be rectified by reading *ā́kūtyāi*. ⌊In his note  
 to i. 1. 1, W. took *śruta* here as 'sense of hearing.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For mind, for intellect, for thought, for purpose, for intelligence,. For sense, for hearing, and for sight, let us adore with sacrifice.
 </details>
+</details>
 </div>
-
-
 ## ०२ अपानाय व्यानाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,27 +85,23 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
+<details open><summary><h3>०२ अपानाय व्यानाय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. To expiration, to perspiration (*vyāná*), to breath the much  
 nourishing, to Sarasvatī the wide extending, would we pay worship with  
 oblation.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For expiration, vital air, and breath that amply nourishes, Let us with sacrifice adore Sarasvati whose reach is wide.
 </details>
+</details>
 </div>
-
-
 ## ०३ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -127,16 +117,17 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/041_dIrghAyuHprAptiH/03_mA_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
+<details open><summary><h3>०३ मा नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let not the seers who are of the gods leave us, who are self  
 (*tanū́*) protecting, self-born of our self; O immortal ones, attach  
 yourselves to us mortals; grant life-time (*ā́yus*) in order to our  
 further living.
 
-#### Notes
+##### Notes
 With the first line is to be compared AB. ii. 27. 7: *ṛṣayo dāivyāsas  
 tanūpāvānas tanvas tapojāḥ* (Florenz). *Tanū* (lit. 'body') 'self'  
 apparently refers throughout to ourselves. This verse is translated by  
@@ -146,12 +137,10 @@ meter.⌋
 The fourth *anuvāka* ends here, having 10 hymns and 33 verses; and the  
 old Anukr. says of it and its predecessor together *tṛtīyacaturthāu  
 trayastriṅśakāu* (*tṛtīya-* given above, not here).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/041_dIrghAyuHprAptiH/03_mA_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not the Rishis, the divine, forsake us, our own, our very selves, our lives' protectors. Do ye, immortal, still attend us mortals, and give us vital power to live the longer.
+</details>
 </details>
 </div>

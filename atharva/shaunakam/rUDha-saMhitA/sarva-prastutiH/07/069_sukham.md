@@ -19,26 +19,23 @@ title = "०६९ सुखम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/069_sukham/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/069_sukham/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Included, like the preceding hymn, in the two śānti gaṇas (Kāuś. 9. 2, 4), and by the schol. (note to 9. 7) in yet a third.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 26, 91; Griffith, i. 360.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/069_sukham/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ शं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/069_sukham/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -56,15 +53,16 @@ A prayer for prosperity
 शमु॒षा नो॒ व्युऽच्छतु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/069_sukham/01_shaM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/069_sukham/01_shaM_no.md">
+<details open><summary><h3>०१ शं नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Weal for us let the wind blow; weal for us let the sun burn; be the  
 days weal for us; \[as\] weal let the night be applied; weal for us let  
 the dawn shine forth.
 
-#### Notes
+##### Notes
 The whole verse occurs in TA. iv. 42. 1, with *pavatām mātaríśvā* for  
 *vātu* in **a**, and *rā́triḥ* in **d**. MS., in iv. 9. 27, has only four  
 pādas, with *‘bhí* added before *vātu* in **a**. VS. has the same  
@@ -74,12 +72,10 @@ of our *rā́tri*). All have alike in **d** the strange expression *práti
 dhīyatām*. The Anukr. ignores the deficiency of two syllables in **a**.  
 ⌊Ppp. has *me* for *nas* all four times; also *‘bhivāte* for *vātu*, and  
 *tapati* for *-tu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/069_sukham/01_shaM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the wind kindly breathe on us, may the Sun warm us. pleasantly. May days pass happily for us, may night draw near delightfully, may dawn break joyfully for us!
+</details>
 </details>
 </div>

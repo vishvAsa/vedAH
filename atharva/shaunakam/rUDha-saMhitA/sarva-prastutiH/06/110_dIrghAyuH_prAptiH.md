@@ -19,24 +19,19 @@ title = "११० दीर्घायुः प्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/110_dIrghAyuH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This hymn is not found in Pāipp. Kāuś. (46. 25) applies it for the benefit of a child born under an inauspicious asterism.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 517.—With reference to the asterisms, see note to ii. 8. i; Zimmer, p. 356; Jacobi in Festgruss an Roth, p. 70.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/110_dIrghAyuH_prAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ प्रत्नो हि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 5
 स्वां चा॑ग्ने त॒न्वं पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
+<details open><summary><h3>०१ प्रत्नो हि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Since, an ancient one, to be praised at the sacrifices, thou sittest  
 as *hótar* both of old and recent—do thou, O Agni, both gratify thine  
 own self, and bestow (*ā-yaj*) good fortune on us.
 
-#### Notes
+##### Notes
 The verse is RV. viii. 11. 10 (also TA. x. 1⁶⁹). Our text has several  
 bad readings, which are corrected in the other version: *kám* in **a**  
 should be *kam*, *satsi* should be *sátsi*, and *piprā́yasva* should be  
@@ -68,17 +64,13 @@ should be *kam*, *satsi* should be *sátsi*, and *piprā́yasva* should be
 *vistārayasi!*): this last the comm. also reads, but renders it  
 *ājyādihaviṣā pūraya*. The verse is not at all a *pan̄kti*, although  
 capable of being read as 40 syllables.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as Hotar. And now, O Agni, make thy person friendly, and win felicity for us by worship.
 </details>
+</details>
 </div>
-
-
 ## ०२ ज्येष्ठघ्न्यं जातो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyaM_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,15 +86,16 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 अत्ये॑नं नेषद् दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyaM_jAto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyaM_jAto.md">
+<details open><summary><h3>०२ ज्येष्ठघ्न्यं जातो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Born in *jyeṣṭhaghnī́*, in Yama's two Unfasteners (*vicṛ́t*)—do thou  
 protect him from the Uprooter (*mūlabárhaṇa*); may he conduct him across  
 all difficulties unto long life, of a hundred autumns.
 
-#### Notes
+##### Notes
 The consecutiveness of the verse is very defective, inasmuch as 'born'  
 (*jātás*, nom.) in **a** can hardly be understood otherwise than of the  
 child, while Agni is addressed in **b**, and spoken of in third person  
@@ -116,17 +109,13 @@ the terminal star-pair, or the sting (λ, υ), has the specific name
 *vicṛtāu*. ⌊See note to ii. 8. i.⌋ The comm. takes *yamasya* as  
 belonging to *mūlabarhaṇāt*. By a misprint, our text begins with *jyāi-*  
 (read *jye-*). \*⌊See TB. i. 5. 2⁸.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyaM_jAto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him from uprooting. He shall conduct him safe past all misfortunes to lengthened life that lasts a hundred autumns.
 </details>
+</details>
 </div>
-
-
 ## ०३ व्याघ्रेऽह्न्यजनिष्ट वीरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/03_vyAghre_ahnyajaniShTa_vIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,24 +131,23 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 स मा व॑धीत् पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/110_dIrghAyuH_prAptiH/03_vyAghre_ahnyajaniShTa_vIro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/03_vyAghre_ahnyajaniShTa_vIro.md">
+<details open><summary><h3>०३ व्याघ्रेऽह्न्यजनिष्ट वीरो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. On the tiger day hath been born the hero, asterism-born, being born  
 rich in heroes; let him not, increasing, slay his father; let him not  
 harm his mother that gave him birth.
 
-#### Notes
+##### Notes
 We should expect at the beginning *vyāghryé* or *vāíyāghre;* the comm.  
 paraphrases the word with *vyāghravat krūre*. ⌊In **d**, read *sá mā́  
 mātáram?*—As to *minīt*, see *Gram.* §726.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/110_dIrghAyuH_prAptiH/03_vyAghre_ahnyajaniShTa_vIro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Born on the Tiger's day was he, a hero, the Constellations' child, born brave and manly. Let him not wound, when grown in strength, his father, nor disregard his mother, her who bare him.
+</details>
 </details>
 </div>

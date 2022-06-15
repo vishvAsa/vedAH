@@ -19,26 +19,23 @@ title = "००७ आदित्याः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/007_AdityAH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Used by Kāuś. (59. 18) with 2, as explained under that hymn. *⌊The Anukr., defining as trāiṣṭubhāni the "first eight hymns," included this among them: by inadvertence, it would seem, since he here calls it ārṣi jagatī.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 3, 52; Griffith, i. 331.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/007_AdityAH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Praise of the Adityas
 </details>
+</details>
 </div>
-
-
 ## ०१ दितेः पुत्राणामदितेरकारिषमव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ Praise of the Adityas
 तेषां॒ हि धाम॑ गभि॒षक् स॑मु॒द्रियं॒ नैना॒न् नम॑सा प॒रो अ॑स्ति॒ कश्च॒न॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
+<details open><summary><h3>०१ दितेः पुत्राणामदितेरकारिषमव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Of Diti's sons, of Aditi's, I have commemorated the aid, of the great  
 inviolable gods; for their domain (*dhā́man*) is deep in the sea; no one  
 soever is beyond them by homage.
 
-#### Notes
+##### Notes
 This translation is in part mechanical, understanding also *ávas* at  
 beginning of **b** (which = RV. x. 36. 11 **b**: cf. also 65. 3 **a**),  
 regarding *anarmáṇām* as = *anarváṇām* (so RV.), and giving *gabhiṣák*  
@@ -78,12 +76,10 @@ save D.R.) read *akārṣam* at end of **a**; SPP. reports the great
 majority of his as giving *akāriṣam*, which he accordingly adopts in his  
 text. Ppp. has *akārṣam*, MS. *akāriṣam*. Our Bp. has *enām* in **d**.  
 The testimony of the Anukr. as to *akārṣam* or *-riṣam* is of no value.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have sung praise to Diti's sons and Aditi's, those very lofty and invulnerable Gods. For far within the depths of ocean is their home and in the wor- ship paid them none excelleth these.
+</details>
 </details>
 </div>

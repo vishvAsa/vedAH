@@ -19,26 +19,23 @@ title = "०३१ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/031_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Like the preceding, not found in Pāipp. Used by Kāuś. (48. 37), with hymns 34 and 108, and with vii. 59 ⌊or vi. 37. 3 (but see note to vii. 59)⌋, in a witchcraft ceremony against enemies, while laying on the fire fuel from a tree struck by lightning.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 12, 66; Griffith, i. 342.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/031_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for the overthrow of enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ इन्द्रोतिभिर्बहुलाभिर्नो अद्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,26 +51,25 @@ A prayer for the overthrow of enemies
 यो नो॒ द्वेष्ट्यध॑र॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
+<details open><summary><h3>०१ इन्द्रोतिभिर्बहुलाभिर्नो अद्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Indra, with abundant best possible aids, O generous hero, quicken  
 us today; whoever hates us, may he fall downward; and whom we hate, him  
 let breath quit.
 
-#### Notes
+##### Notes
 The verse is RV. iii. 53. 21, which has for sole variant  
 *yācchreṣṭhā́bhis* ⌊which the meter alone would suggest as an emendation⌋  
 (p. *yāt॰śre-*) in **b**. The combination *sás padīṣṭa* is prescribed by  
 Prāt. ii. 58. The comm. treats *yāvat* and *śreṣṭhābhis* as independent  
 words.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Rouse us to-day O Indra, Maghavan, hero, with thy best pos- sible and varied succours, May he who hateth us fall low beneath us, and him whom we detest let life abandon.
+</details>
 </details>
 </div>

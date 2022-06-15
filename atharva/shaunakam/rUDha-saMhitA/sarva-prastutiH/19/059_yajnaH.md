@@ -19,26 +19,23 @@ title = "०५९ यज्ञः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/059_yajnaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Hymns 59-64 are not found in Pāipp. For the practical use of 59 with 52, see under the latter. ⌊Other uses under vs. 3.⌋ Verses 1 and 2, it will be noticed, are put together also in TS., and vs. 3 is not far off ⌊preceding 1 and 2⌋. In MS., on the other hand, vss. 2 and 3 have the same sequence as here; ⌊but in RV. their sequence is inverted⌋. ⌊As for the ritual use, cf. p. 896 and the table.⌋
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 317.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/059_yajnaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 An expiatory hymn accompanying sacrifice
 </details>
+</details>
 </div>
-
-
 ## ०१ त्वमग्ने व्रतपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +49,15 @@ An expiatory hymn accompanying sacrifice
 त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा। त्वं य॒ज्ञेष्वीड्यः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/059_yajnaH/01_tvamagne_vratapA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/01_tvamagne_vratapA.md">
+<details open><summary><h3>०१ त्वमग्ने व्रतपा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Thou, O Agni, art protector of vows among gods (?), among mortals;  
 thou art to be praised at the sacrifices.
 
-#### Notes
+##### Notes
 The verse is RV. viii. 11. 1, and found also in VS. iv. 16; TS. i. 1.  
 14⁴; 2. 3¹, and MS. i. 2. 3, everywhere without variant, except as the  
 AV. mss. in general read in **b** *devā́ ā́ m-* ⌊three have *devā́ ām-*⌋;  
@@ -76,17 +74,13 @@ vā ‘pi*, MBh. xii. 307 (or 306). 10 = xii. 11377, as cited by Hopkins,
 JAOS. xxiii. 111; cf. also English *inside and out* (*out* = *outside*);  
 Goethe's *Jeden Nachklang fühlt inein Herz froh-* (= *froher*) *und  
 trüber Zeit;* etc.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/059_yajnaH/01_tvamagne_vratapA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sacred rites.
 </details>
+</details>
 </div>
-
-
 ## ०२ यद् वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/02_yad_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,16 +96,17 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 अ॒ग्निष्टद् वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णां आ॑वि॒वेश॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/059_yajnaH/02_yad_vo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/02_yad_vo.md">
+<details open><summary><h3>०२ यद् वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. If we, O gods, detract from (*pra-mī*) your \[ordained\] courses—we  
 that are very unknowing, of you that are knowing—let Agni the  
 all-devouring fill that up, knowing, and the soma that has entered the  
 Brahmans.
 
-#### Notes
+##### Notes
 The first three pādas are RV. x. 2. 4 **a-c**, found also in TS. i. 1.  
 14⁴ and MS. iv. 10. 2. All these read in **c** *víśvam ā́ pṛṇāti;* our  
 *viśvā́d* (p. *viśva॰át*) can only be regarded as a corruption; the  
@@ -120,17 +115,13 @@ SPP. adopts it in his text, against the comm., who reads and explains
 *viśvam*. The comm. agrees with RV. etc. further in giving *pṛṇāti*. As  
 for the last pāda, we had it above as **d** of xviii. 3. 55; it is also  
 a RV. phrase, and found elsewhere: see under that verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/059_yajnaH/02_yad_vo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When, ignorant, we violate the statutes of you, O Deities, with whom is knowledge, Wise Agni shall correct our faults and failings, and Soma who hath entered into Brahmans.
 </details>
+</details>
 </div>
-
-
 ## ०३ आ देवानामपि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/03_A_devAnAmapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -146,16 +137,17 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त् स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून् क॑ल्पयाति ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/059_yajnaH/03_A_devAnAmapi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/03_A_devAnAmapi.md">
+<details open><summary><h3>०३ आ देवानामपि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. We have come unto the road of the gods, to convey (*vah*) along  
 forward what we may be able; Agni \[is\] knowing; he shall make  
 offering; he verily is *hótar;* he shall arrange the sacrifices  
 (*adhvará*), he the seasons.
 
-#### Notes
+##### Notes
 The verse is RV. x. 2. 3, and found also in TS. i. 1. 14³, MS. iv. 10.  
 2, and śB. xii. 4. 4¹. These texts read in **c, d** *sé ’d u hótā só  
 adhv-*, and all save śB. accent *ánu* in **b**. The comm's text also has  
@@ -165,12 +157,10 @@ In the same ceremonies it accompanies in Vāit. 3. 5 an offering to Agni
 *sviṣṭakṛt;* and again, in Vāit. 19. 12, an after-offering to various  
 gods. ⌊As for the critical significance of the citation of the vs. in  
 *sakalapāṭha*, see p. 897, ¶3.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/059_yajnaH/03_A_devAnAmapi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To the Gods' pathway have we come desiring to execute what work we may accomplish. Let Agni--for he knows--complete the worship. He is the Priest: let him fix rites and seasons.
+</details>
 </details>
 </div>

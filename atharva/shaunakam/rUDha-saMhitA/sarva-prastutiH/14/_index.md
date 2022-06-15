@@ -2,12 +2,9 @@
 title = "+१४"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/14/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/14/_index.md">
+<details open><summary><h2>Nuptial Hymns. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XIV.
 
@@ -147,7 +144,6 @@ definition of xiv. 1. 60, as follows: (the text of its beginning is
 uncertain: *ity?* or *parāviny?*) *edhiṣīmahīti vyāghrādiṣv
 avagantavyaḥ*. Cf. the introduction to xi. 1 and especially the note to
 xv. 5. 7.⌋
-
-
+</details>
 </details>
 </div>

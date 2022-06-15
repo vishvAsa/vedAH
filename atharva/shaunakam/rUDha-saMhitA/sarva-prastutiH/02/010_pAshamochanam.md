@@ -19,26 +19,23 @@ title = "०१० पाशमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. ii. (with vs. 8 preceding 6 and 7, and the refrain added only to vs. 8). The hymn occurs further in TB. (ii. 5. 61-2), and parts of it in HGS. (ii. 3. 10; 4. 1). ⌊And its original structure is doubtless clearly reflected by the MP. at ii. 12. 6, 7, 8, 9, 10. Cf. note to our verse 2.⌋ It is, like the two next preceding, reckoned (Kāuś. 26. 1, note) to the takmanāśana gaṇa, and it is employed (27. 7) in a healing ceremony, performed at a cross-roads, while chips of kāmpīla are bound on the joints of the patient, and they or he are wetted with bunches of grass. According to the comm., the rite is intended against kṣetriya simply.
 
 
-#### Translations
+##### Translations
 Translated: Weber, xiii. 156; Ludwig, p. 513; Griffith, i. 52; Bloomfield, 14, 292.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Absolution and benediction
 </details>
+</details>
 </div>
-
-
 ## ०१ क्षेत्रियात् त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAt_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ Absolution and benediction
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑ पृथि॒वी उ॒भे स्ता॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/01_xetriyAt_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/01_xetriyAt_tvA.md">
+<details open><summary><h3>०१ क्षेत्रियात् त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. From *kṣetriyá*, from perdition, from imprecation of sisters  
 (*jāmí-*), from hatred (*drúh*) do I release thee, from Varuṇa's fetter;  
 free from guilt (*-ā́gas*) I make thee by \[my\] incantation; be  
 heaven-and-earth both propitious to thee.
 
-#### Notes
+##### Notes
 TB. HGS. have for **a** only *kṣetriyāí tvā nírṛtyāi tvā*, in **c**  
 *bráhmaṇe* and *karomi*, and in **d** *imé* instead of *stām.* Ppp. has  
 at the end *-thivī ’ha bhūtām.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/01_xetriyAt_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I free and save thee. With spell and prayer I make thee pure and sinless: to thee be both, the Earth and Heaven, auspicious!
 </details>
+</details>
 </div>
-
-
 ## ०२ शं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/02_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,14 +89,15 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/02_shaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/02_shaM_te.md">
+<details open><summary><h3>०२ शं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Weal to thee be Agni, together with the waters; weal \[be\] Soma,  
 together with the herbs: so from *kṣetriyá*, from perdition, etc. etc.
 
-#### Notes
+##### Notes
 The repetition (with *evā ’ham* prefixed) of the whole first verse as  
 refrain for the following verses is not made by TB. and HGS. except  
 after our vs. 8, and there only to *pā́śāt;* and in Ppp. it forms  
@@ -126,17 +121,13 @@ definitions given; 3-7 are of 69 syllables, 8 of 71. ⌊By beginning pādas
 **a** and **b** with (*śáṁ túbhyam*, and pronouncing both *sahá*'s with  
 hiatus, and combining 2 **ab** with 3 **ab**, we get a perfectly regular  
 *triṣṭubh.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/02_shaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and bless thee. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०३ शं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/03_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,30 +145,27 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/03_shaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/03_shaM_te.md">
+<details open><summary><h3>०३ शं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Weal to thee may the wind in the atmosphere bestow (*dhā*) vigor;  
 weal to thee be the four directions: so from *kṣetriyá*, etc. etc.
 
-#### Notes
+##### Notes
 TB. HGS. have for **a** *śám antárikṣaṁ sahá vī́tena te;* Ppp. differs by  
 reading *sahavātam astu te;* the two former, in **b**, put *bhavantu*  
 last. The comm. has in **a** ⌊for *váyo dhāt*⌋ the better reading  
 *vayodhās*, but he makes it mean "sustainer of birds"! ⌊'Weal to thee  
 \[be\] the wind in the atmosphere, the vigor-bestower.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/03_shaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May kind Wind strengthen thee in air's mid-region, to thee may heaven's four quarters be auspicious. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's curse I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०४ इमा या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/04_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -195,29 +183,26 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॑ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/04_imA_yA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/04_imA_yA.md">
+<details open><summary><h3>०४ इमा या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. These four heavenly (*devá*) directions, having the wind as lord,  
 upon which the sun looks out—so from *kṣetriyá*, etc. etc.
 
-#### Notes
+##### Notes
 TB. HGS. (4. 1) have for **a** *yā́ dāívīś cátasraḥ pradíśaḥ;* Ppp. also  
 omits *imā́s*, and combines *devīṣ pra-*, combining the pāda immediately  
 with our 3 **b**. HGS. makes one verse of our 4 **a, b** and 5 **a, b**,  
 and puts it in 4, after all the rest.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/04_imA_yA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wives of Vata-- From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०५ तासु त्वान्तर्जरस्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -235,27 +220,24 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
+<details open><summary><h3>०५ तासु त्वान्तर्जरस्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Within them I set thee in old age; let the *yákṣma*, let perdition go  
 forth far away: so from *kṣetriyá*, etc. etc.
 
-#### Notes
+##### Notes
 Ppp. has at the beginning *tāsv e ’daṁ jarasa ā;* TB. HGS. give *tā́sāṁ  
 tvā jarása ā́;* both the latter read in **b** *nírṛtim.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For long life, in the midst of these I set thee. Away pass Nirriti, away Consumption! From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०६ अमुक्था यक्ष्माद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/06_amukthA_yaxmAd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -273,32 +255,29 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/06_amukthA_yaxmAd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/06_amukthA_yaxmAd.md">
+<details open><summary><h3>०६ अमुक्था यक्ष्माद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Thou hast been released from *yákṣma*, from difficulty (*duritá*),  
 from reproach (*avadyá*); from the fetter of hatred and from seizure  
 hast thou been released: so from *kṣetriyá*, etc. etc.
 
-#### Notes
+##### Notes
 Ppp. has both times *amoci* for *amukthās.* TB. likewise, and also, in  
 **a, b** *ávartyāi druháḥ pā́śāṁ nírṛtyāi có ’d am-.* HGS. has neither  
 this verse nor the next; that Ppp. puts our vs. 8 before it was noticed  
 above. The comm. explains *avadyāt* by *jāmyādyabhiśaṅsanarūpān  
 nindanāt.* ⌊TB., in comm. to Calc. ed., and in Poona ed., has  
 *avartyāi.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/06_amukthA_yaxmAd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou hast been freed from Phthisis and from trouble, from shame, and from the snare of Druh and Grain. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०७ अहा अरातिमविदः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -316,31 +295,28 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
+<details open><summary><h3>०७ अहा अरातिमविदः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Thou hast left niggardy, hast found what is pleasant; thou hast come  
 to be in the excellent world of what is well done: so from *kṣetriyá*,  
 etc. etc.
 
-#### Notes
+##### Notes
 Nearly all the *saṁhitā*-mss. omit the final visarga of *ávidaḥ* before  
 *syonám*. The comm. reads *abhūt* in **b**; TB. does the same, and,  
 correspondingly, *ávidat* in **a**, with *ávartim* (better ⌊cf. iv. 34.  
 3; x. 2. 10⌋) for *ārātim*. The comment to Prāt. ii. 46 quotes *ahās* in  
 this verse as not *ahār*, i.e. as from *hā*, not *hṛ.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Joy hast thou found, and left ill-will behind thee: thou hast attained the happy world of virtue. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
+</details>
 </div>
-
-
 ## ०८ सूर्यमृतं तमसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,14 +334,15 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 अ॒ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
+<details open><summary><h3>०८ सूर्यमृतं तमसो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. The gods, releasing from the seizure of darkness the sun whom it had  
 befallen, let him loose from sin (*énas*): so from *kṣetriyá*, etc. etc.
 
-#### Notes
+##### Notes
 It was noticed above that the other texts add the refrain (TB. HGS.  
 ⌊MP.⌋ only to *pā́śāt*) only to this verse, where alone it is in place.  
 Ppp. has *yathā* for *adhi* at end of **a**, and the other texts *yát;*  
@@ -382,12 +359,10 @@ beginning *evám ahám imám.*⌋
     
 The *anuvāka* ⌊2.⌋ has again 5 hymns, with 28 verses; the quotation is  
 *aṣṭa kuryād dvitīye.*
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Gods have freed from, sinfulness, redeeming the Sun, the Law from darkness and from Grahi. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee. With spell and prayer I make thee pure and sinless: to thee be both, the Earth and Heaven, auspicious!
+</details>
 </details>
 </div>

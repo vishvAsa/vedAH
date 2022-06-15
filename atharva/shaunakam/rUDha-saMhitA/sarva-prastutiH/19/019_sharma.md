@@ -19,26 +19,23 @@ title = "०१९ शर्म"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ The comm. says that, besides the uses stated in connection with preceding hymns, the purohita is to accompany with this the entrance of the king in the night into his sleeping-house; and that it also appears in the ceremony of a king's entrance into his city.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 278.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn recommending the protection of various Gods
 </details>
+</details>
 </div>
-
-
 ## ०१ मित्रः पृथिव्योदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/01_mitraH_pRthivyodakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,27 +51,24 @@ A hymn recommending the protection of various Gods
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/01_mitraH_pRthivyodakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/01_mitraH_pRthivyodakrAmat.md">
+<details open><summary><h3>०१ मित्रः पृथिव्योदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Mitra ascended with the earth: to that stronghold I lead you forward;  
 that enter ye into; that enter ye; let that yield (*yam*) you both  
 refuge and defense.
 
-#### Notes
+##### Notes
 The comm. declares that Mitra here means Agni.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/01_mitraH_pRthivyodakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it give you protection and defence.
 </details>
+</details>
 </div>
-
-
 ## ०२ वायुरन्तरिक्षेणोदक्रामत् तां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/02_vAyurantarixeNodakrAmat_tAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -90,25 +84,21 @@ Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it giv
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/02_vAyurantarixeNodakrAmat_tAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/02_vAyurantarixeNodakrAmat_tAM.md">
+<details open><summary><h3>०२ वायुरन्तरिक्षेणोदक्रामत् तां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Vāyu ascended with the atmosphere: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/02_vAyurantarixeNodakrAmat_tAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vayu arose with Air. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०३ सूर्यो दिवोदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/03_sUryo_divodakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -124,25 +114,21 @@ Vayu arose with Air. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/03_sUryo_divodakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/03_sUryo_divodakrAmat.md">
+<details open><summary><h3>०३ सूर्यो दिवोदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The sun ascended with the sky: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/03_sUryo_divodakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Surya arose with Heaven. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०४ चन्द्रमा नक्षत्रैरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/04_chandramA_naxatrairudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -158,25 +144,21 @@ Surya arose with Heaven. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/04_chandramA_naxatrairudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/04_chandramA_naxatrairudakrAmat.md">
+<details open><summary><h3>०४ चन्द्रमा नक्षत्रैरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The moon ascended with the asterisms: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/04_chandramA_naxatrairudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Chandramas arose with the Constellation. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०५ सोम ओषधीभिरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/05_soma_oShadhIbhirudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -192,25 +174,21 @@ Chandramas arose with the Constellation. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/05_soma_oShadhIbhirudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/05_soma_oShadhIbhirudakrAmat.md">
+<details open><summary><h3>०५ सोम ओषधीभिरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Soma ascended with the herbs: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/05_soma_oShadhIbhirudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sacrifice arose with Priestly Fees. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०६ यज्ञो दक्षिणाभिरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/06_yajno_daxiNAbhirudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -226,26 +204,22 @@ Sacrifice arose with Priestly Fees. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/06_yajno_daxiNAbhirudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/06_yajno_daxiNAbhirudakrAmat.md">
+<details open><summary><h3>०६ यज्ञो दक्षिणाभिरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. The sacrifice ascended with the sacrificial gifts: to that  
 stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/06_yajno_daxiNAbhirudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ocean arose with the Rivers. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०७ समुद्रो नदीभिरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/07_samudro_nadIbhirudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -261,25 +235,21 @@ Ocean arose with the Rivers. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/07_samudro_nadIbhirudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/07_samudro_nadIbhirudakrAmat.md">
+<details open><summary><h3>०७ समुद्रो नदीभिरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The ocean ascended with the streams: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/07_samudro_nadIbhirudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brahma arose with the Brahmacharis. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०८ ब्रह्म ब्रह्मचारिभिरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/08_brahma_brahmachAribhirudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,26 +265,23 @@ Brahma arose with the Brahmacharis. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/08_brahma_brahmachAribhirudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/08_brahma_brahmachAribhirudakrAmat.md">
+<details open><summary><h3>०८ ब्रह्म ब्रह्मचारिभिरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. The *bráhman* ascended with the Vedic students: to that stronghold  
 etc. etc.
 
-#### Notes
+##### Notes
 The comm. says that *bráhman* here means the Veda with the *an̄gas*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/08_brahma_brahmachAribhirudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra arose with Might. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## ०९ इन्द्रो वीर्ये३णोदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/09_indro_vIrye3NodakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,25 +297,21 @@ Indra arose with Might. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/09_indro_vIrye3NodakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/09_indro_vIrye3NodakrAmat.md">
+<details open><summary><h3>०९ इन्द्रो वीर्ये३णोदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Indra ascended with heroism: to that stronghold etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/09_indro_vIrye3NodakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Gods arose with Immortality. To that fort, etc.
 </details>
+</details>
 </div>
-
-
 ## १० देवा अमृतेनोदक्रामंस्तां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/10_devA_amRtenodakrAmaMstAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -364,26 +327,22 @@ The Gods arose with Immortality. To that fort, etc.
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/10_devA_amRtenodakrAmaMstAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/10_devA_amRtenodakrAmaMstAM.md">
+<details open><summary><h3>१० देवा अमृतेनोदक्रामंस्तां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. The gods ascended with the immortal (*amṛ́ta*): to that stronghold  
 etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/10_devA_amRtenodakrAmaMstAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it give you protection and defence.
 </details>
+</details>
 </div>
-
-
 ## ११ प्रजापतिः प्रजाभिरुदक्रामत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -399,23 +358,22 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥११॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/019_sharma/11_prajApatiH_prajAbhirudakrAmat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmat.md">
+<details open><summary><h3>११ प्रजापतिः प्रजाभिरुदक्रामत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Prajāpati ascended with progeny: to that stronghold etc. etc.
 
-#### Notes
+##### Notes
 The comm. explains *ud akrāmat* by *yām puraṁ rakṣitum utkrāntavān*, as  
 antecedent of *tām puram* etc. The metrical definitions of the Anukr.  
 are not worth comparing in detail.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/019_sharma/11_prajApatiH_prajAbhirudakrAmat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 प्र॒जाप॑तिः प्र॒जाभि॒रुद॑क्राम॒त् तां पुरं॒ प्र ण॑यामि वः ।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥११॥
+</details>
 </details>
 </div>

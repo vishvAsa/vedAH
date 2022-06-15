@@ -19,26 +19,23 @@ title = "०४० मेधा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/040_medhA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Of this hymn only the first verse occurs in Pāipp. (in xix.). The comm. reports no viniyoga, but SPP. supplies one, finding it quoted in Pariś. 37. 4, in a ceremony of expiation for the loss (nāśa) of a strainer; ⌊and again, in 37. 14, for use in case a certain earthen vessel (upayāma) falls from the hand⌋.
 
 
-#### Translations
+##### Translations
 Translated; Griffith, ii. 297.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/040_medhA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 </details>
+</details>
 </div>
-
-
 ## ०१ यन्मे छिद्रं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_ChidraM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 विश्वै॒स्तद् दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/040_medhA/01_yanme_ChidraM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/01_yanme_ChidraM.md">
+<details open><summary><h3>०१ यन्मे छिद्रं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What that is defective (*chidrá*) of my mind, and what of my voice  
 hath found (? *jagā́ma*) Sarasvatī enraged, let Bṛihaspati, in concord  
 with all the gods, mend (*sam-dhā*) that.
 
-#### Notes
+##### Notes
 The meaning of **b** is extremely doubtful. SPP. reads *sárasvatī*  
 against the large majority of his authorities and all of ours, which  
 have *-tīm*. Our *hárasvantam* was a conjecture, and perhaps not a  
@@ -75,17 +73,13 @@ verses in VS. (xxxvi. 2) and Āp. (xiv. 16. 1), but they cast no light on
 **b**: VS. reads *yán me chidráṁ cákṣuṣo hṛ́dayasya mánaso vā́ ’titṛṇṇam  
 bṛ́haspátir me tád dadhātu;* and Āp., *yan me manasaś chidraṁ yad vāco  
 yac ca me hṛdaḥ: ayaṁ devo bṛhaspatiḥ saṁ tat siñcatu rādhasā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/040_medhA/01_yanme_ChidraM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For each defect of mine in voice and spirit I have approached One vehement and ardent. With all the Deities, fully approving, Brihaspati supply the want!
 </details>
+</details>
 </div>
-
-
 ## ०२ मा न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -101,15 +95,16 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 सु॒ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/040_medhA/02_mA_na.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/02_mA_na.md">
+<details open><summary><h3>०२ मा न ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Do not ye, O waters, devastate (*pra-math*) our wisdom nor our  
 *bráhman;* come ye flowing with easy flow, being invoked; \[be\] I of  
 good wisdom, having splendor.
 
-#### Notes
+##### Notes
 All the mss. accent *ā́pas* in **a**, and SPP. refuses to follow us in  
 the obvious emendation to *āpas*, although the comm. also takes the word  
 as vocative. At the end of **b**, the comm., followed by three of SPP's  
@@ -127,17 +122,13 @@ with *syandadhvam*. The mss. and SPP. have *sumédhās* (the *p.*-mss.
 wrongly *su॰médhā*); ⌊in the edition⌋ we ⌊should have⌋ rectified the  
 accent ⌊so as to read⌋ *sumedhā́s*. \*⌊The Anukr. would scan as 6 + 8: 8  
 + 12; the Berlin text as 6 + 8: 12 + 8.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/040_medhA/02_mA_na.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your way, strength-giving, invocated: may I be vigor- ous and wise.
 </details>
+</details>
 </div>
-
-
 ## ०३ मा नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -153,15 +144,16 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/040_medhA/03_mA_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/03_mA_no.md">
+<details open><summary><h3>०३ मा नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Do not ye injure our wisdom, nor our consecration, nor what ardor  
 (*tápas*) is ours; be they propitious to us in order to \[prolonged\]  
 life-time; let them become \[our\] propitious mothers.
 
-#### Notes
+##### Notes
 The mss. have in **b** *hiṅsiṣṭam*, and SPP. does not follow our  
 obviously acceptable emendation to *-ṣṭa*. The comm., too, has *-ṣṭam*,  
 and explains it by calling ⌊into service⌋ that everlasting pair  
@@ -178,17 +170,13 @@ obviously to be accepted. The *pada*-mss. in general give *śivā́* in
 all ⌊except perhaps W's L.⌋ have *śivā́ḥ* in **d**. There is no good  
 reason why the Anukr. should call the verse *bṛhatīgarbhā*, since **c**  
 can be read as eight syllables in either form.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/040_medhA/03_mA_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us for lengthened life, propitious let the Mothers be.
 </details>
+</details>
 </div>
-
-
 ## ०४ या नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -204,14 +192,15 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 ताम॒स्मे रा॑सता॒मिष॑म्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/040_medhA/04_yA_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/04_yA_naH.md">
+<details open><summary><h3>०४ या नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. That food (? *íṣ*) O Aśvins, which, full of light, shall make us  
 pass through the darkness, may ye give (*rā*) to us.
 
-#### Notes
+##### Notes
 The verse corresponds to RV. i. 46. 6, and is translated from the RV.  
 text, the AV. version being utterly corrupt, and offering a very  
 noteworthy measure of what this nineteenth book can do in the way of  
@@ -234,12 +223,10 @@ throughout; any attempt at compromise simply spoils the verse. The comm.
 takes *mā pīparat* as *pāram mā gamayatu*, and **b** as its antithesis,  
 supplying *karotu* to *tiras;* and he refers at the end to *yā* as read  
 *śākhāntare* (i.e., in RV.).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/040_medhA/04_yA_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May through the darkness carry us.
+</details>
 </details>
 </div>

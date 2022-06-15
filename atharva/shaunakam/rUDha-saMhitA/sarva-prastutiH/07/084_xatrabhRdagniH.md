@@ -19,26 +19,23 @@ title = "०८४ क्षत्रभृदग्निः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/084_xatrabhRdagniH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Only the first verse is found in Pāipp., in iii. For the use by Kāuś. and Vāit. (not of vs. 1), see under vss. 2, 3.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 35, 105; Griffith, i. 371.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/084_xatrabhRdagniH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for protection
 </details>
+</details>
 </div>
-
-
 ## ०१ अनाधृष्यो जातवेदा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A prayer for protection
 विश्वा॒ अमी॑वाः प्रमु॒ञ्चन् मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
+<details open><summary><h3>०१ अनाधृष्यो जातवेदा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Agni, shine thou here unassailable, Jātavedas, immortal,  
 wide-ruling (*virā́j*), bearing dominion; releasing all diseases by  
 humane, propitious \[aids\], do thou protect round about today our  
 household.
 
-#### Notes
+##### Notes
 The comm. supplies *ūtibhis* in **c, d**, and the translation given  
 follows his lead. The verse is found also as VS. xxvii. 7, and in TS.  
 iv. i. 7³ and MS. ii. 12. 5; MS. makes **c** easy by reading *mā́nuṣāṇām*  
@@ -77,17 +75,13 @@ ways the difficulties and awkwardnesses of the second half-verse.
 We should expect here a separation of the hymn into two, as the  
 remaining verses are addressed to Indra; but no ms. or other authority  
 so divides.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With succours friendly to mankind, auspicious, driving away all maladies, guard our dwelling.
 </details>
+</details>
 </div>
-
-
 ## ०२ इन्द्र क्षत्रमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,15 +97,16 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
+<details open><summary><h3>०२ इन्द्र क्षत्रमभि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Indra, unto dominion, \[unto\] pleasant force, wast thou born, thou  
 bull of men (*carṣaṇí*); thou didst push away the inimical people; thou  
 didst make wide room for the gods.
 
-#### Notes
+##### Notes
 This verse and the next are two verses, connected (but in inverted  
 order), in RV. (x. 180. 3, 2), found also in TS. i. 6. 12⁴. Both these  
 read in **c** *amitrayántam*, their only variant in this verse. In **d**  
@@ -124,17 +119,13 @@ Brahmans. ⌊RV.TS. accent *carṣaṇinā́m* and all of W's and SPP's mss. see
 to do so. Perhaps, in spite of W's version, we have no right to correct  
 our text by deleting the accent; but the accent can hardly be aught else  
 than an old blunder.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou, Indra, lord and leader of the people, wast born for lovely strength and high dominion. Thou dravest off the folk who were unfriendly, and madest for the Gods wide room and freedom.
 </details>
+</details>
 </div>
-
-
 ## ०३ मृगो न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,15 +141,16 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न् ताढि॒ वि मृघो॑ नुदस्व ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/084_xatrabhRdagniH/03_mRgo_na.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/03_mRgo_na.md">
+<details open><summary><h3>०३ मृगो न ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Like a fearful wild beast, wandering, mountain-staying, from distant  
 distance may he come hither; sharpening, O Indra, \[thy\] missile (?  
 *sṛká*), \[thy\] keen rim, smite away the foes, push away the scorners.
 
-#### Notes
+##### Notes
 The first half-verse was read above as 26. 2 **b, c**. The verse is RV.  
 x. 180. 2, TS. i. 6. 12⁴ (as noted under the preceding verse), and also  
 SV. ii. 1223, MS. iv. 12. 3, VS. xviii. 71; their only variant is at  
@@ -167,12 +159,10 @@ SV. ii. 1223, MS. iv. 12. 3, VS. xviii. 71; their only variant is at
 Knauer's *Index* to MGS., p. 153.⌋ ⌊For use by Kāuś., see under vs. 2.⌋  
 Vāit. (29. 5) uses the verse in the *agnicayana*, in the covering of the  
 first layers.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/084_xatrabhRdagniH/03_mRgo_na.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Like a dread wild beast roaming on the mountain, may he. approach us from the farthest distance. Whetting thy bolt and thy sharp blade, O Indra, crush down our foes and scatter those who hate us.
+</details>
 </details>
 </div>

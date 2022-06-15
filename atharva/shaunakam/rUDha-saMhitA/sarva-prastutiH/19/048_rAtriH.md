@@ -19,26 +19,23 @@ title = "०४८ रात्रिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. vi., in connection with hymn 47, with which it also shares its liturgical application.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 305.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Night for protection
 </details>
+</details>
 </div>
-
-
 ## ०१ अथो यानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/01_atho_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A hymn to Night for protection
 तानि॑ ते॒ परि॑ दद्मसि ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/01_atho_yAni.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/01_atho_yAni.md">
+<details open><summary><h3>०१ अथो यानि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Now then what things we note, or what things are within the box,  
 those things we commit to thee.
 
-#### Notes
+##### Notes
 The first pāda here differs widely from the traditional text, which  
 instead of *cáyāmahe* has *ca yásmā* (p. *yásmāi*) *āha*, or (a  
 minority) *yásmāha;* the comm's text (according to SPP.) gives *ca yasmā  
@@ -89,17 +87,13 @@ one's ⌊domestic⌋ animals were spoken of, here one's very numerous
 house-articles (*bahiṣṭhāni gṛhavartīni...vastūni*); and in two classes:  
 those out in open sight (*anāvṛtadeśe*), and those inside an enclosed  
 house or the like (*parito naddhe pariśrite gṛhādāu*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/01_atho_yAni.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Then all that we accumulate, all that the treasure-chest contains,. All this do we entrust to thee.
 </details>
+</details>
 </div>
-
-
 ## ०२ रात्रि मातरुषसे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -115,30 +109,27 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 उ॒षा नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/02_rAtri_mAtaruShase.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
+<details open><summary><h3>०२ रात्रि मातरुषसे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O night! mother! commit thou us to the dawn; let the dawn commit us  
 to the day, the day to thee, O shining one (*vibhādvarī*).
 
-#### Notes
+##### Notes
 Compare 50. 7, below\*; also MB. i. 5. 15, where more such commitments  
 are given. The comm. reckons the first division of the verse to vs. 1.  
 The metrical definition of the Anukr. is mere arithmetic (12 + 10 + 8 =  
 30). The *pada*-text, both here and below, leaves *vibhāvari* undivided  
 (RV. *vibhā॰vari*). \*⌊Also vi. 107. 1-4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/02_rAtri_mAtaruShase.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day to thee, O splendid. One.
 </details>
+</details>
 </div>
-
-
 ## ०३ यत् किं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yat_kiM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,15 +145,16 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 यत् किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त् त्वं रा॑त्रि पाहि नः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/03_yat_kiM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/03_yat_kiM.md">
+<details open><summary><h3>०३ यत् किं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Whatsoever flies here, whatsoever that is crawling (*sarīsṛpá*) is  
 here, whatsoever creature is on the mountain—from that do thou, O night,  
 protect us.
 
-#### Notes
+##### Notes
   
   
   
@@ -180,17 +172,13 @@ better, but it implies a text much closer to the mss.—*párvata* (i.e.
 worth; it is by no means proposed as a definite solution of the  
 difficulty. Ppp. has *padvad āsunvan*, which gives no help. Ppp. also  
 reads *yadi kim* three times.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/03_yat_kiM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever fastens on a joint, therefrom do thou protect us, Night.
 </details>
+</details>
 </div>
-
-
 ## ०४ सा पश्चात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -206,26 +194,22 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 गो॒पाय॑ नो विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/04_sA_pashchAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/04_sA_pashchAt.md">
+<details open><summary><h3>०४ सा पश्चात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Do thou protect behind, thou in front, thou from above and from  
 below; do thou guard us, O shining one; here we are, thy praisers.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/04_sA_pashchAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 So guard thou us from west and east, protect us from the north and south. O splendid One, preserve us: we, the singers of thy praise, are here.
 </details>
+</details>
 </div>
-
-
 ## ०५ ये रात्रिमनुतिष्ठन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,15 +225,16 @@ So guard thou us from west and east, protect us from the north and south. O sple
 प॒शून् ये सर्वा॒न् रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
+<details open><summary><h3>०५ ये रात्रिमनुतिष्ठन्ति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. They who follow (*anu-sthā*) the night, and who watch over beings,  
 who defend all cattle—they watch over our selves (*ātmán*), they watch  
 over our cattle.
 
-#### Notes
+##### Notes
 The mss. accent *jā́grati*\* in **d** and **e**, and in **d** the accent  
 might well enough be retained, on the principle of antithesis; SPP.  
 gives *jāgrati*, like us. Emendation to *jāgratu* would be decidedly  
@@ -263,17 +248,13 @@ xix. 43. 7), each case being doubly faulty, in respect, namely, of
 accent and of ending.⌋ †⌊In Roth's Collation there is a note which  
 perhaps means that Ppp. reads *jāgrati* for *rákṣanti* at end of **c**;  
 but I am not at all sure.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They who are followers of Night, and they who watch o'er living things. They who protect all cattle, they keep watch and ward over our lives, over our herds keep watch and ward.
 </details>
+</details>
 </div>
-
-
 ## ०६ वेद वै
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/06_veda_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,14 +270,15 @@ They who are followers of Night, and they who watch o'er living things. They who
 तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/048_rAtriH/06_veda_vai.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/06_veda_vai.md">
+<details open><summary><h3>०६ वेद वै ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Verily I know thy name, O night; thou art "ghee-dripping" (*ghṛtā́cī*)  
 by name; as such Bharadvāja knows thee; do thou watch over our property.
 
-#### Notes
+##### Notes
 In **b**, Ppp. combines *vā ’si;* in **c** and **d** it reads, with our  
 edition, tvā and *jāgṛhi*, while SPP. gives *tvā́m* and *jāgrati*, the  
 latter for *jā́grati*, as all the mss. ⌊save one⌋ read; our emendation  
@@ -308,12 +290,10 @@ conscience to do. The *pada*-mss. have *tvā́m*, *tvām*, and *tvám;* our
 *tvā* was an emendation, called for after *tā́m*. More than half of the  
 mss. accent *bharadvājás*. In our text, the accent-sign printed over  
 *jā* in **d** should be shifted to over *dhi:* it is a misprint.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/048_rAtriH/06_veda_vai.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Verily, Night, I know thy name, Dropper of Fatness art thou called. Thee Bharadvaja knew as such: as such be watchful o'er our wealth.
+</details>
 </details>
 </div>

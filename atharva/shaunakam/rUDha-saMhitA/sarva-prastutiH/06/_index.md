@@ -2,12 +2,9 @@
 title = "+०६"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/_index.md">
+<details open><summary><h2>VI. Book the sixth ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book VI.
 
@@ -41,7 +38,6 @@ are indicated by their absence in other versions: thus hymns 16, 17, 34,
 63, 83, 108, and 128 consist in fact of only 3 verses in the Pāippalāda
 text.—For the sequence of the books with reference to the normal lengths
 of their hymns, see the table on p. cxlviii. See p. clii, end.⌋
-
-
+</details>
 </details>
 </div>

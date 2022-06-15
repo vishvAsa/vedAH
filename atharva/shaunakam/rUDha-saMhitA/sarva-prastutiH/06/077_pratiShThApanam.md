@@ -19,26 +19,23 @@ title = "०७७ प्रतिष्ठापनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/077_pratiShThApanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. The comm. regards this hymn, and not vi. 44 (which has the same pratīka), as intended in Kāuś. 36. 5, in a rite concerning women (the prevention of a woman's escape, etc., comm.).
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 468; Griffith, i.286; Bloomfield, 106, 496.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/077_pratiShThApanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to bring the cattle home
 </details>
+</details>
 </div>
-
-
 ## ०१ अस्थाद् द्यौरस्थात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to bring the cattle home
 आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वां॑ अतिष्ठिपम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/077_pratiShThApanam/01_asthAd_dyaurasthAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/01_asthAd_dyaurasthAt.md">
+<details open><summary><h3>०१ अस्थाद् द्यौरस्थात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The heaven hath stood; the earth hath stood; all this living world  
 hath stood; on their base (*āsthána*) the mountains have stood; I have  
 made the horses stand in their station.
 
-#### Notes
+##### Notes
 The first half-verse is 44. 1 **a, b**, above; the second is nearly vii.  
 96. 1 **c, d**, below. But Ppp. is different in **c, d**, and partly  
 illegible; *tiṣṭha...ime sthāmann aśvā ’raṅsata* can be read. The comm.  
@@ -70,17 +68,13 @@ inserts 'thee, O woman' in **d**, and regards *aśvān* as an incomplete
 comparison: 'as they bind vicious horses with ropes'! Prāt. iv. 96  
 prescribes the unchanged *pada*-reading *atiṣṭhipam*. ⌊Most of SPP's  
 authorities have *asthuḥ* in *saṁhitā*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/077_pratiShThApanam/01_asthAd_dyaurasthAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Firm stands the heaven, firm stands the earth, firm stands this universal world, Firm stand the rooted mountains. I have put the horses in the stall.
 </details>
+</details>
 </div>
-
-
 ## ०२ य उदानट्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,30 +90,27 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/077_pratiShThApanam/02_ya_udAnaT.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/02_ya_udAnaT.md">
+<details open><summary><h3>०२ य उदानट् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. He who hath attained the going away, he who hath attained the coming  
 in, the turning hither, the turning in—he who is herdsman, on him I  
 call.
 
-#### Notes
+##### Notes
 The first half-verse is nearly RV. x. 19. 5 **a, b**, and the second  
 exactly ib. 4 **c, d**. RV. reads *vyáyanam* for *parā́yaṇam* in **a**,  
 and *parā́yaṇam* for *nyā́yanam* in **b**. The comm. appears to read  
 *nyayanam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/077_pratiShThApanam/02_ya_udAnaT.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I call the Herdsman, him who knows the way to drive the cattle forth, Who knows the way to drive them home, to drive them back and drive them in.
 </details>
+</details>
 </div>
-
-
 ## ०३ जातवेदो नि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,26 +126,25 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 स॒हस्रं॑ त उपा॒वृत॒स्तभि॑र्नः॒ पुन॒रा कृ॑धि ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/077_pratiShThApanam/03_jAtavedo_ni.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
+<details open><summary><h3>०३ जातवेदो नि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. O Jātavedas, cause to turn in; be thy turners hither a hundred, thy  
 turners this way a thousand; with them get for us again.
 
-#### Notes
+##### Notes
 Ppp. has, for **d**, *tābhir enaṁ ni vartaya*, thus defining the object  
 of all this recovering action to be some male person or thing. The comm.  
 interprets it all through as a woman who has escaped or wants to escape.  
 RV. x. 19 is aimed at kine. Pādas **b** and **c** are found in VS. xii.  
 8, which also ends with *púnar no naṣṭám ā́ kṛdhi púnar no rayím ā́  
 kṛdhi*. *Santi* would be a better reading in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/077_pratiShThApanam/03_jAtavedo_ni.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Jatavedas turn them back: a hundred homeward ways be thine! Thou hast a thousand avenues: by these restore our kine to us.
+</details>
 </details>
 </div>

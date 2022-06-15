@@ -19,26 +19,23 @@ title = "००३ जातवेदाः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/003_jAtavedAH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn occurs also in Pāipp. xx., but only in fragments, not intelligible beyond the first half-verse. The comm. notices that the hymn has the same pratīka as ix. 1, and labors to point out that it ⌊xix. 3⌋ and its successor have features adapting them to the same use as the two parts of ix. 1; and that hence they may also be regarded as quoted (Kāuś. 10. 24; 12. 15; etc.) by that pratīka: this is, of course, a worthless bit of special pleading. Vāit. (16. 12), wishing to quote ix. 1 only, adds the specification madhusūktena.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 260.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/003_jAtavedAH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Agni for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A hymn to Agni for protection and prosperity
 यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
+<details open><summary><h3>०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Forth from the sky, from the earth, from the atmosphere, out of the  
 forest trees, the herbs—whithersoever borne, O Jātavedas, come thou,  
 enjoying, thence to us.
 
-#### Notes
+##### Notes
 The translation implies emendation to *jātavedas*, voc., in **c**. SPP.  
 reads in **d** *táta stutó j-*, with nearly all the mss.; one or two  
 read *tátas-tato j-*; ⌊this report coincides virtually with the *Index*,  
@@ -78,17 +76,13 @@ For **c, d** TB. has *yátra-yatra jātavedaḥ sambabhū́va* ⌊so Calc. ed.,
 text, p. 32, comm., p. 91; but Poona ed. has aright *sambabhū́tha*, text  
 and comm., p. 83⌋ *táto no agne juṣámāṇa é ‘hi;* Āp. (in v. 13. 4)  
 agrees with TB. ⌊precisely: reading *sambabhūtha*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from tall trees, Jatavedas. Is carried here and there to divers places, even thence come thou to us with loving-kindness.
 </details>
+</details>
 </div>
-
-
 ## ०२ यस्ते अप्सु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,15 +98,16 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 अग्ने॒ सर्वा॑स्त॒न्वः॑१ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/003_jAtavedAH/02_yaste_apsu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/02_yaste_apsu.md">
+<details open><summary><h3>०२ यस्ते अप्सु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What thy greatness is in the waters, what in the woods, what in the  
 herbs, in the cattle, within the waters—all thy bodies (*tanū́*), O Agni,  
 grasp together; with them come to us, a giver of property, unfailing.
 
-#### Notes
+##### Notes
   
   
   
@@ -124,17 +119,13 @@ as an only accidental variation, though *bharasva* would be a very good
 reading. A little emendation would rid us of the otiose repetition of  
 *apsú* in the first line. ⌊In **d** we have to pronounce *nāí ‘hi*, with  
 double sandhi (as often in Ppp.).⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/003_jAtavedAH/02_yaste_apsu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All majesty of thine in floods, in forest, in plants, in cattle, in the depths of waters Closely uniting all thy forms, O Agni, come unto us wealth-giv- ing, undecaying.
 </details>
+</details>
 </div>
-
-
 ## ०३ यस्ते देवेषु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -150,15 +141,16 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 पुष्टि॒र्या ते॑ मनु॒ष्येऽषु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/003_jAtavedAH/03_yaste_deveShu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/03_yaste_deveShu.md">
+<details open><summary><h3>०३ यस्ते देवेषु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. What thy heavenly (*svargá*) greatness is, among the gods, what body  
 of thine entered into the Fathers, what prosperity of thine was spread  
 among men (*manuṣyà*)—therewith, O Agni, assign wealth to us.
 
-#### Notes
+##### Notes
 The translation implies at end of **a** *svargás* ⌊so SPP.⌋; our text  
 has *-gé* on the authority of only a single ms., and against the comm.  
 ⌊*svargaḥ*⌋ and the parallel texts ⌊*suvargáḥ*⌋ as found in TB. (in i.  
@@ -167,17 +159,13 @@ ta ātmā́ paśúṣu práviṣṭaḥ*, and, for **d**, *táyā no agne juṣ�
 ‘hi;* while TB. has in **c** *prathé* for *paprathé* ⌊so Calc. ed., text  
 and comm.: but Poona aright, *paprathé*⌋. The Anukr. takes no notice of  
 the redundant syllable in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/003_jAtavedAH/03_yaste_deveShu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers. Thy plenty far-diffused mid human beings, even with this, O Agni, give us riches.
 </details>
+</details>
 </div>
-
-
 ## ०४ श्रुत्कर्णाय कवये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -193,27 +181,26 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
+<details open><summary><h3>०४ श्रुत्कर्णाय कवये ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. To him of hearing ears, the poet, worthy to be known, I apply for  
 gifts (*rātí*) with words, with speeches; whence \[there is\] fear, be  
 there no fear for us; pacify (*ava-yaj*), O Agni, the wrath (*héḍas*) of  
 the gods.
 
-#### Notes
+##### Notes
 The verse is found also in Āp. xiv. 17. 1, but with very different  
 **b**: *namobhir nākam upa yāmi śaṅsan;* with *tat kṛdkī naḥ* at end of  
 **c**; and, for **d**, *‘gne devānām ava heḍa iyakṣva:* cf. also Āp. v.  
 5. 8, which is far more different. ⌊In **c**, *asty* is a misprint for  
 *astv*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To him the wise, the famous, swift to listen, with words and verses I come nigh for bounty. May we be safe from threatening danger. Soften by sacrifice the- wrath of Gods, O Agni.
+</details>
 </details>
 </div>

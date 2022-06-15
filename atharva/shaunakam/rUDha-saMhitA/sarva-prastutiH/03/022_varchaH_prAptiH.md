@@ -19,26 +19,23 @@ title = "०२२ वर्चः प्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also (except vs. 6) in Pāipp. iii. Is reckoned to the varcasya gaṇa (Kāuś. 12. 10, note), and used in a charm for splendor (13. 1), with binding on an amulet of ivory. The comm. quotes the hymn also as employed by the Nakṣ. K. in a mahāśānti called brāhmī, for attainment of brahman-splendor; and by Pariś. iv. 1, in the daily morning consecration of an elephant for a king.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 461; Weber, xvii. 282; Griffith, i. 115.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The taming and training of an elephant for a king to ride on
 </details>
+</details>
 </div>
-
-
 ## ०१ हस्तिवर्चसं प्रथतां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ The taming and training of an elephant for a king to ride on
 तत् सर्वे॒ सम॑दु॒र्मह्य॑मे॒तद् विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAM.md">
+<details open><summary><h3>०१ हस्तिवर्चसं प्रथतां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let elephant-splendor, great glory, spread itself, which came into  
 being from Aditi's body; that same have all together given to me—all the  
 gods, Aditi, in unison.
 
-#### Notes
+##### Notes
 ⌊Cf. vii. 17. 3 n.⌋  
   
 A number of the mss. (including our Bp.Op.) read *ā́dityās* ⌊accent!⌋ in  
@@ -78,17 +76,13 @@ scanned by the Anukr. as 12 + 10: 10 + 10 = 42, but convertible into 45
 syllables by resolving *tanú-as, sáru-e, víśu-e* (of which only the  
 first is unobjectionable). ⌊If we read *devāsas* in **d**, the vs. is in  
 order (12 + 11:? + 11), except in **c** (*tád ít sárve?*).⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/01_hastivarchasaM_prathatAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Famed be the Elephant's strength, the lofty glory, which out of Aditi's body took existence! They all have given me this for my possession, even all the Gods and Aditi accordant.
 </details>
+</details>
 </div>
-
-
 ## ०२ मित्रश्च वरुणश्चेन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -102,14 +96,15 @@ Famed be the Elephant's strength, the lofty glory, which out of Aditi's body too
 मि॒त्रश्च॒ वरु॑ण॒श्चेन्द्रो॑ रु॒द्रश्च॑ चेततु । दे॒वासो॑ वि॒श्वधा॑यस॒स्ते मा॑ञ्जन्तु॒ वर्च॑सा ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
+<details open><summary><h3>०२ मित्रश्च वरुणश्चेन्द्रो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let both Mitra and Varuṇa, Indra and Rudra, \[each\] take notice; the  
 all-nourishing gods—let them anoint me with splendor.
 
-#### Notes
+##### Notes
 All the mss.\* read *cetatus* at end of **b**, and so does Ppp., and our  
 edition has it; but SPP. follows the comm. and substitutes *cetatu;* SV.  
 i. 154 has *sómaḥ pūṣā́ ca cetatuḥ;* the translation implies *cetatu*,  
@@ -119,17 +114,13 @@ Weber takes it as *cetatus*, 3d dual perf. of root *cat* "frighten into
 submission." The Anukr. takes no notice of the deficiency of a syllable  
 in **a**. \*⌊So W's two drafts; but his collations note P.M.W. as  
 reading *cetutaḥ* (!) and Op. as reading *cetatú*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/02_mitrashcha_varuNashchendro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-fostering deities anoint and balm me with his strength.
 </details>
+</details>
 </div>
-
-
 ## ०३ येन हस्ती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/03_yena_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -145,16 +136,17 @@ On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-
 येन॑ दे॒वा दे॒वता॒मग्र आय॒न् तेन॒ माम॒द्य वर्च॒साग्ने॑ वर्च॒स्विनं॑ कृणु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/03_yena_hastI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/03_yena_hastI.md">
+<details open><summary><h3>०३ येन हस्ती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. With what splendor the elephant came into being, with what the king  
 among men (*manuṣyà*), among waters, with what the gods in the beginning  
 went to godhood—with that splendor do thou, O Agni, now make me  
 splendid.
 
-#### Notes
+##### Notes
 *Apsú*, in **b**, is an impertinent intrusion as regards both sense and  
 meter; it is wanting in Ppp. In **c** all the mss. give *āyam* (*saṁh.,  
 āyaṁ*); our edition makes the necessary emendation to *ā́yan*, and so  
@@ -167,17 +159,13 @@ in **b** mean either "\[creatures\] in the waters," or else "\[Yakshas,
 Gandharvas, etc.\] in the atmosphere." The metrical definition of the  
 Anukr. is mechanically correct ⌊52-2 = 50⌋ if we count 13 syllables in  
 **b** ⌊and combine *varcasāgne*⌋!
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/03_yena_hastI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The strength wherewith the Elephant was dowered, that decks a King among the men, in waters, O Agni, even with that strength make thou me vigorous to-day.
 </details>
+</details>
 </div>
-
-
 ## ०४ यत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/04_yat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -195,16 +183,17 @@ The strength wherewith the Elephant was dowered, that decks a King among the men
 ताव॑न्मे अ॒श्विना॒ वर्च॒ आ ध॑त्तां॒ पुष्क॑रस्रजा ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/04_yat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/04_yat_te.md">
+<details open><summary><h3>०४ यत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. What great splendor becomes thine, O Jātavedas, from the offering;  
 how great splendor there is of the sun, and of the *ásura*-like  
 elephant—so great splendor let the (two) Aśvins, lotus-wreathed, assign  
 unto me.
 
-#### Notes
+##### Notes
 All the mss. read in **b** *bhavati*, and SPP. accordingly adopts it in  
 his edition; ours makes the necessary correction to *bhávati*. The comm.  
 reads *āhute*, vocative, at end of **b**; Ppp. has instead *āhutam;* and  
@@ -213,17 +202,13 @@ then adds to it, as second half-verse, our 3 **d, e** (with *abhya* for
 b** + 3 **d, e**⌋ before our vs. 3; and then it gives the remainder  
 (**c-f**) of our vs. 4 here, with *kṛṇutām* for *ā́ dhattām*, and in  
 **c** *yavad varcaḥ sūr-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/04_yat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The lofty strength which sacrifice brings, Jatavedas! unto thee, What strength the Sun possesses, all strength of the royal Ele- phant--such strength vouchsafe to me the pair of Asvins lotus-garlanded!
 </details>
+</details>
 </div>
-
-
 ## ०५ यावच्चतस्रः प्रदिशश्चक्षुर्यावत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -239,27 +224,24 @@ The lofty strength which sacrifice brings, Jatavedas! unto thee, What strength t
 ताव॑त् स॒मैत्वि॑न्द्रि॒यं मयि॒ तद्ध॑स्तिवर्च॒सम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvat.md">
+<details open><summary><h3>०५ यावच्चतस्रः प्रदिशश्चक्षुर्यावत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. As far as the four directions, as far as the eye reaches (*sam-aś*),  
 let so great force (*indriyá*) come together, that elephant-splendor, in  
 me.
 
-#### Notes
+##### Notes
 The comm. reads *sam etu* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/05_yAvachchatasraH_pradishashchaxuryAvat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Far as the heaven's four regions spread, far as the eye's most distant ken. So wide, so vast let power be mine, this vigour of the Elephant.
 </details>
+</details>
 </div>
-
-
 ## ०६ हस्ती मृगाणां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/022_varchaH_prAptiH/06_hastI_mRgANAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -275,15 +257,16 @@ Far as the heaven's four regions spread, far as the eye's most distant ken. So w
 तस्य॒ भगे॑न॒ वर्च॑सा॒भि षि॑ञ्चामि॒ माम॒हम्॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/022_varchaH_prAptiH/06_hastI_mRgANAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/06_hastI_mRgANAM.md">
+<details open><summary><h3>०६ हस्ती मृगाणां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Since the elephant has become the superior (*atiṣṭhā́vant*) of the  
 comfortable (? *suṣád*) wild beasts, with his fortune \[and\] splendor  
 do I pour (*sic*) upon myself.
 
-#### Notes
+##### Notes
 That is, 'I shed it upon me, cover myself with it.' The comm.  
 understands the somewhat questionable *suṣád* nearly as here translated,  
 "living at their pleasure in the forest"; and *atiṣṭhāvant* as  
@@ -291,12 +274,10 @@ possessing superiority either of strength or of position.
   
 Weber entitles the hymn, without good reason, "taming of a wild  
 elephant."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/022_varchaH_prAptiH/06_hastI_mRgANAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Now hath the Elephant become chief of all pleasant beasts to ride. With his high fortune and his strength I grace and conscorate myself.
+</details>
 </details>
 </div>

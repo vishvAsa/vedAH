@@ -19,26 +19,23 @@ title = "०३७ बलप्राप्तिः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/037_balaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Not found in Pāipp. The comm. neither quotes nor devises a viniyoga, but SPP. finds it used in Nakṣ.K. 19, in the mahāśānti ceremony called tvāṣṭrī, with a threefold amulet, on occasion of the loss of a garment.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 295.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/037_balaprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to secure long life and dominion to a prince
 </details>
+</details>
 </div>
-
-
 ## ०१ इदं वर्चो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to secure long life and dominion to a prince
 त्रय॑स्त्रिंश॒द् यानि॑ च वी॒र्याणि॒ तान्य॒ग्निः प्र द॑दातु मे ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/037_balaprAptiH/01_idaM_varcho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/01_idaM_varcho.md">
+<details open><summary><h3>०१ इदं वर्चो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This splendor hath come, given by Agni, brightness (*bhárga*), glory,  
 power, force, vigor (*vájas*), strength; and the heroisms that are  
 thirty-three—those let Agni give forth to me.
 
-#### Notes
+##### Notes
 Most of the mss. accent *balám* at end of **b**. The first half-verse  
 corresponds to a first half-verse in TB. (ii. 5. 7¹), MS. (ii. 3. 4),  
 and AśS. (vi. 12. 2); all these read at end of **a** *ā́ ’gāt*, and AśS.  
@@ -70,17 +68,13 @@ has *rādhas* instead of *várcas;* then, in **b**, TB. and AśS. give
 *yáśo bhárgaḥ sáha ójo bálaṁ ca*, MS. *máhi rā́dhaḥ sáha ójo bálaṁ yát*,  
 all making a good *triṣṭubh* pāda; the verse is too irregular to be  
 called simply a triṣṭubh. ⌊With **c**, cf. 27. 10 **a**, above.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/037_balaprAptiH/01_idaM_varcho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To me hath come this word given by Agni, fame, force and might, and strength, and life, and lustre. May Agni too bestow on me three-times a hundred manly powers.
 </details>
+</details>
 </div>
-
-
 ## ०२ वर्च आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,15 +90,16 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 इ॒न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्याय॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/037_balaprAptiH/02_varcha_A.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/02_varcha_A.md">
+<details open><summary><h3>०२ वर्च आ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Splendor set thou in my body (*tanū́*), power, force, vigor, strength;  
 unto Indra-like action, unto heroism, unto \[life\] of a hundred  
 autumns, do I accept thee.
 
-#### Notes
+##### Notes
 The majority of mss. again accent *balám*. In **a**, SPP. has the better  
 reading *tanvā̀m*, with the comm. and a single ms. (accidental i"). ⌊The  
 transition-form ought probably to be oxytone, *tanvā́m:* see my  
@@ -117,17 +112,13 @@ so on.⌋ ⌊The comm. takes **a, b** as addressed to Agni.⌋ Under 2 **c,
 d** and vss. 3 and 4, he speaks of the thing addressed simply as a  
 *padārtha*, 'a substance,' not presuming to define what it is: an  
 unusual restraint on his part.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/037_balaprAptiH/02_varcha_A.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For mighty strength, for action, I receive thee, for manly power, to last a hundred autumns.
 </details>
+</details>
 </div>
-
-
 ## ०३ ऊर्जे त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,15 +134,16 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 अ॒भि॒भूया॑य त्वा रा॒ष्ट्रभृ॑त्याय॒ पर्यू॑हामि श॒तशा॑रदाय ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/037_balaprAptiH/03_Urje_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/03_Urje_tvA.md">
+<details open><summary><h3>०३ ऊर्जे त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Unto refreshment thee, unto strength thee, unto force, unto power  
 thee, unto superiority thee do I carry about, unto the wearing of  
 royalty for a hundred autumns.
 
-#### Notes
+##### Notes
 Very likely the last word is best rendered as a noun; the comm. so takes  
 it. The mss. all accent *ráṣṭrābhṛt-*, which SPP. retains; our text  
 makes the necessary emendation to *-ṭrabhṛ́t-* ⌊cf. *Gram.* §1213 c⌋.  
@@ -159,17 +151,13 @@ makes the necessary emendation to *-ṭrabhṛ́t-* ⌊cf. *Gram.* §1213 c⌋.
 12:12:12,⌋ the definition of the Anukr. is bad: the verse is just as  
 much an *āstārapan̄kti* as vs. 2; ⌊both are doubtless to be scanned as 8  
 + 8: 11 + 11⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/037_balaprAptiH/03_Urje_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 For conquering strength and energy and vigour I fasten thee for chieftainship, for bearing royal dominion through a hundred autumns.
 </details>
+</details>
 </div>
-
-
 ## ०४ ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -185,15 +173,16 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<details open><summary><h3>०४ ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thee with the seasons, with them of the seasons; thee unto lifetime,  
 unto splendor; with the brilliancy of the year—with that we make  
 \[thee\] cheek by jowl.
 
-#### Notes
+##### Notes
 ⌊All the mss. give here *ṛtúbhiṣ ṭvé ’ty ékā* (= v. 28. 13), except W's  
 O. and SPP's careful Dc., which have, disregarding the accents,  
 *ṛtubhyaṣ ṭve ’ty ekā* (= iii. 10. 10). The metrical definition of the  
@@ -215,12 +204,10 @@ free from involuntary opening of the jaws.' A third version is given by
 Griffith: 'we fasten thee \[the amulet\] about the neck.' Dīgha Nikāya,  
 ii. 6l, suggests still a fourth interpretation, 'affected with  
 lock-jaw,' not applicable here: cf. viii. 1. 16.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With Seasons and with Season-groups, for vigour and extended life. With splendour of the perfect year we fasten thee about the neck.
+</details>
 </details>
 </div>

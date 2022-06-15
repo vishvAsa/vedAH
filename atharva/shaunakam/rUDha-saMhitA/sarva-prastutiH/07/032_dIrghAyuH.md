@@ -19,26 +19,23 @@ title = "०३२ दीर्घायुः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/032_dIrghAyuH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also (except d) in Pāipp. xx. It is, without variant, RV. ix. 67. 29 (which also lacks d). Used by Kāuś. twice (58. 3, 11) in rites for length of life (on account of the concluding pāda), with iii. 31, iv. 13, and other passages, in the ceremony of initiation of a Vedic student. It is reckoned (54. 11, note) to the āyuṣya gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: by RV. translators; and Henry, 12, 66; Griffith, i. 342.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/032_dIrghAyuH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Agni for long life
 </details>
+</details>
 </div>
-
-
 ## ०१ उप प्रियं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/032_dIrghAyuH/01_upa_priyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,22 +51,21 @@ A prayer to Agni for long life
 अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/032_dIrghAyuH/01_upa_priyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/01_upa_priyaM.md">
+<details open><summary><h3>०१ उप प्रियं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Unto the dear, wonder-working, young, oblation-increasing one have  
 we gone, bearing homage; long life-time let him make for me.
 
-#### Notes
+##### Notes
 The verse is in RV. addressed to Soma. The comm. understands it here of  
 Agni. He explains *pánipnatam* as *śabdāyamānaṁ stūyamānaṁ vā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/032_dIrghAyuH/01_upa_priyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We bringing homage have approached the friend who seeks our wondering praise, Young, strengthener of the sacrifice. May he bestow long life on me.
+</details>
 </details>
 </div>

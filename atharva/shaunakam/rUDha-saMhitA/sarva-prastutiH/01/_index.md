@@ -2,12 +2,9 @@
 title = "+०१"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/01/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/_index.md">
+<details open><summary><h2>I. Book the first ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book I.
 
@@ -19,7 +16,6 @@ given in more than one of these cases for the exceptional length. Hymns
 of 4 verses are also found in books vi. and vii. (12 in vi., and 11 in
 vii.), also 9 in xix. The whole book has been translated by Weber,
 *Indische Studien*, vol. iv. (1858), pages 393-430.
-
-
+</details>
 </details>
 </div>

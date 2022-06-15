@@ -19,26 +19,23 @@ title = "०८४ निर्ऋतिमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/084_nirRtimochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This hymn is not found in Pāipp. Kāuś. applies it (52. 3), with vi. 63 and 121, in a rite for welfare. The comm. takes no notice of this, but regards the hymn as implied in 31. 21: see under the preceding hymn. In Vāit. (38. 1) it is found used in a healing rite in the puruṣamedha: this also the comm. overlooks.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 444; Griffith, i. 291.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/084_nirRtimochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to accompany the symbolical loosing of sacrificial victims
 </details>
+</details>
 </div>
-
-
 ## ०१ यस्यास्त आसनि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to accompany the symbolical loosing of sacrificial victims
 भूमि॒रिति॑ त्वाभि॒प्रम॑न्वते॒ जना॒ निरृ॑ति॒रिति॑ त्वा॒हं परि॑ वेद स॒र्वतः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
+<details open><summary><h3>०१ यस्यास्त आसनि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Thou in whose terrible mouth I make oblation, in order to the release  
 of these bound ones; people think of thee as "earth"; I know thee  
 completely as "perdition" (*nírṛti*).
 
-#### Notes
+##### Notes
   
   
   
@@ -80,17 +78,13 @@ chief result for our text is the demonstration of *manvate* as probably
 a corruption of *mandate*. It was noted at the end of the preceding hymn  
 that the comm. mixes up the end and beginning of the two hymns. The  
 metrical definition of the Anukr. is very poor.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou in whose dread mouth I present oblation, that these bound victims may obtain their freedom, The people deem that thou art Earth: I know thee thoroughly, and I say thou art Destruction.
 </details>
+</details>
 </div>
-
-
 ## ०२ भूते हविष्मती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -106,27 +100,24 @@ Thou in whose dread mouth I present oblation, that these bound victims may obtai
 मु॒ञ्चेमान॒मूनेन॑सः॒ स्वाहा॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
+<details open><summary><h3>०२ भूते हविष्मती ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O earth (?), be thou rich in oblations; this is thy share which is in  
 us; free these \[and\] those from sin: hail!
 
-#### Notes
+##### Notes
 The translation follows Ludwig's suggested emendation of *bhū́te* at the  
 beginning to *bhū́me*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Be thou enriched, O Welfare, with oblations, here among us is thine allotted portion. Free--Hail to thee!--from sin those here and yonder.
 </details>
+</details>
 </div>
-
-
 ## ०३ एवो ष्व१स्मन्निरृतेऽनेहा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/03_evo_Shva1smannirRte_anehA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -142,29 +133,26 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 य॒मो मह्यं॒ पुन॒रित् त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/084_nirRtimochanam/03_evo_Shva1smannirRte_anehA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/03_evo_Shva1smannirRte_anehA.md">
+<details open><summary><h3>०३ एवो ष्व१स्मन्निरृतेऽनेहा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. So, O perdition, do thou, free from envy, kindly unfasten from us the  
 bond-fetters of iron. Yama verily giveth thee back to me; to that Yama,  
 to death, be homage.
 
-#### Notes
+##### Notes
 All of this verse except the first *pāda* is a repetition of 63. 2 **b,  
 c, d**, above. The comm. explains *anehā* by *anāhantrī*. The fourth is  
 the only *jagatī* pāda.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/084_nirRtimochanam/03_evo_Shva1smannirRte_anehA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Do thou, Destruction, thus, without a rival, release us from the iron bonds that hind us. To me doth Yama verily restore thee. To him, to Yama, yea, to Death be worship!
 </details>
+</details>
 </div>
-
-
 ## ०४ अयस्मये द्रुपदे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -180,22 +168,21 @@ Do thou, Destruction, thus, without a rival, release us from the iron bonds that
 य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
+<details open><summary><h3>०४ अयस्मये द्रुपदे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thou wast bound here to an iron post, bridled with deaths that are a  
 thousand; do thou, in concord with Yama, with the Fathers, make this man  
 ascend to the highest firmament.
 
-#### Notes
+##### Notes
 This verse is a repetition of 63.3, above.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou hast been fastened to an iron pillar, here compassed with a thousand deaths around thee. In full accord with Yama and the Fathers, send this man up- ward to the loftiest heaven.
+</details>
 </details>
 </div>

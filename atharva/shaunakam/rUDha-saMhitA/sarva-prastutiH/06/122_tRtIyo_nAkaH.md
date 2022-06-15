@@ -19,24 +19,19 @@ title = "१२२ तृतीयो नाकः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Verses 2, 3 are found in Pāipp. xvi. ⌊For vss. 1-3, cf. v. Schroeder, Zwei Hss., p. 15, Tübinger Kaṭha-hss., pp. 75-76.⌋ It appears in Kāuś., with the hymn next following,* in the savayajñas (63. 29), accompanying the offering of saṁsthitahomas; and the comm. regards vs. 5 (instead of xi. i. 27, which has the same pratīka) as intended at 63. 4, in the same ceremonies, with distribution of water for washing the priests' hands. Vāit. (22. 23) has both hymns in the agniṣṭoma, with vii. 41. 2, as recited by the sacrificer. ⌊For the whole anuvāka, see under h. 114.⌋ *⌊And with x. 9. 26.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 432; Griffith, i. 312.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ एतं भागं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/01_etaM_bhAgaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 432; Griffith, i. 312.
 अ॒स्माभि॑र्द॒त्तं ज॒रसः॑ प॒रस्ता॒दच्छि॑न्नं॒ तन्तु॒मनु॒ सं त॑रेम ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/01_etaM_bhAgaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/01_etaM_bhAgaM.md">
+<details open><summary><h3>०१ एतं भागं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This portion I, knowing, make over \[to thee\], O Viśvakarman,  
 first-born of right; by us \[is it\] given, beyond old age; along an  
 unbroken line may we pass (*tṛ*) together.
 
-#### Notes
+##### Notes
 The connection in this verse is obscure; *prathamajā́s* 'first-born' in  
 **b** can only qualify "I" grammatically; doubtless it should be  
 vocative, belonging to Viśvakarman. The comm. connects *dattam* directly  
@@ -72,17 +68,13 @@ reads. The first half-verse in TA. is as follows: *sá prajānán
 prátigṛbhṇīta vidvā́n prajā́patiḥ prathamajā́ ṛtásya;* and Ppp. apparently  
 intends a similar reading; it has *taṁ prajānan ity ekā*, as if the  
 verse had occurred earlier in the text; but it has not been found.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/01_etaM_bhAgaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This portion I who understand deliver to Visvakarman first-born son of Order. So may we follow to the end, unbroken, beyond old age, the thread which we have given.
 </details>
+</details>
 </div>
-
-
 ## ०२ ततं तन्तुमन्वेके
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,15 +90,16 @@ This portion I who understand deliver to Visvakarman first-born son of Order. So
 अ॒ब॒न्ध्वेके॒ दद॑तः प्र॒यच्छ॑न्तो॒ दातुं॒ चेच्छिक्षा॒न्त्स स्व॒र्ग ए॒व॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
+<details open><summary><h3>०२ ततं तन्तुमन्वेके ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Some pass along the extended line, of whom what is the Fathers'  
 \[was\] given in course (? *ā́yanena*); some, without relatives, giving,  
 bestowing—if they be able to give, that is very heaven.
 
-#### Notes
+##### Notes
   
   
   
@@ -122,17 +115,13 @@ descendants, they too reach heaven as reward of their gifts. Ppp. has
 also *te* for *cet* in **d**. \*⌊The Calc. ed. seems to have  
 *śaknúvāṅsáḥ sv-*. Does it intend *caknúvān* (or *śaknávān*—see *Gram.*  
 §701) *sá sv-*?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This long-drawn thread some follow who have offered in order- ed course oblation to the Fathers: Some, offering and giving to the friendless, if they can give: herein they find their heaven. 3, Stand on my side and range yourselves in order, ye two! The faithful reach this world of Svarga. When your dressed food hath been bestowed on Agni, to guard it, wife and husband, come together!
 </details>
+</details>
 </div>
-
-
 ## ०३ अन्वारभेथामनुसंरभेथामेतं लोकं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,16 +137,17 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 यद् वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दम्पती॒ सं श्र॑येथाम्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokaM.md">
+<details open><summary><h3>०३ अन्वारभेथामनुसंरभेथामेतं लोकं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Take ye (both) hold after, take hold together after; to this world  
 they that have faith attach themselves (*sac*); what cooked \[offering\]  
 of yours is served up in the fire, combine ye, O husband and wife, in  
 order to the guarding of it.
 
-#### Notes
+##### Notes
 The verse is found in TA. (ii. 6. 2⁷), with great differences of text:  
 *anu-* is omitted at the beginning; *anu*, second time in **a**, is  
 accented, *ánu;* **b** is *samānám pánthām avatho ghṛténa; pūrtám* for  
@@ -169,18 +159,14 @@ prepared by fire for the other world. The comm. explains *páriviṣṭam* by
 from root *viś*. The verse is found repeated, with a different  
 beginning, as xii. 3. 7. It is too irregular to be called a simple  
 *triṣṭubh*. \*⌊Thus rectifying its meter.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 अ॒न्वार॑भेथामनु॒संर॑भेथामे॒तं लो॒कं श्र॒द्दधा॑नाः सचन्ते ।  
-यद् वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दम्पती॒ सं श्र॑येथाम्॥३॥  
+यद् वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दम्पती॒ सं श्र॑येथाम्॥३॥
+</details>
 </details>
 </div>
-
-
 ## ०४ यज्ञं यन्तं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/04_yajnaM_yantaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -196,15 +182,16 @@ beginning, as xii. 3. 7. It is too irregular to be called a simple
 उप॑हूता अग्ने ज॒रसः॑ प॒रस्ता॑त् तृ॒तीये॒ नाके॑ सध॒मादं॑ मदेम ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/04_yajnaM_yantaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/04_yajnaM_yantaM.md">
+<details open><summary><h3>०४ यज्ञं यन्तं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The great sacrifice, as it goes, with mind, I ascend after, with  
 fervor (? *tápas*), of like origin; being called upon, O Agni, may we,  
 beyond old age, revel in joint reveling in the third firmament.
 
-#### Notes
+##### Notes
 The connection of *mánasā*, in **a**, is probably with *anvā́rohāmi;*  
 that of *tápasā* is possibly with *sáyonis;* but the comm. understands  
 "connected with the sacrifice in virtue of penance"; he guesses two  
@@ -212,17 +199,13 @@ different interpretations of the half-verse. Some of our mss.
 (P.M.H.p.m.O.) make in **c** the combination *úpahūtā ’gne* which the  
 meter demands. Neither this verse nor the next ⌊save its **a**⌋ has  
 anything of a *jagatī* character.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/04_yajnaM_yantaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. Agni, may we, beyond decay, invited, in the third heaven, feast and enjoy the banquet.
 </details>
+</details>
 </div>
-
-
 ## ०५ शुद्धाः पूता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -238,25 +221,24 @@ Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. 
 यत्का॑म इ॒दम॑भिषि॒ञ्चामि॑ वो॒ऽहमिन्द्रो॑ म॒रुत्वा॒न्त्स ददातु॒ तन्मे॑ ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
+<details open><summary><h3>०५ शुद्धाः पूता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. These cleansed, purified, worshipful maidens I seat in separate  
 succession in the hands of the priests (*brahmán*); with what desire I  
 now pour you on, let Indra here with the Maruts grant me that.
 
-#### Notes
+##### Notes
 The verse occurs again, with a slight variation at the end, as xi. 1.  
 27, and, with much more important differences, as x. 9. 27. In the  
 latter verse, instead of the figurative appellation "maidens," we have  
 "the divine waters (fem.)" themselves addressed.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 These women here, cleansed, purified, and holy, I place at rest singly, in hands of Brahmans. May Indra, Marut-girt, grant me the blessing I long for as I pour you this libation.
+</details>
 </details>
 </div>

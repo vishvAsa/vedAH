@@ -19,26 +19,23 @@ title = "०५९ शाप-मोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/059_shApa-mochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. (as part of our hymn vi. 37). This verse has the same pratīka as vi. 37. 3; but the comm. ⌊on vi. 37, page 70, line 2⌋, doubtless with reason, regards vi. 37. 3 as intended at Kāuś. 48. 37 ⌊Bloomfield there gives both⌋; this hymn, then, is left without ritual use. ⌊In fact, the comm. on this hymn, at p. 418, line 4, does cite yo naḥ śapāt for use in the same rite for which he cited it in his comment on vi. 37.⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 23, 86; Griffith, i. 355.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/059_shApa-mochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 An imprecation
 </details>
+</details>
 </div>
-
-
 ## ०१ यो नः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/059_shApa-mochanam/01_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ An imprecation
 वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/059_shApa-mochanam/01_yo_naH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/01_yo_naH.md">
+<details open><summary><h3>०१ यो नः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Whoever shall curse us not cursing, and whoever shall curse us  
 cursing, like a tree smitten by a thunderbolt, let him dry up from the  
 root.
 
-#### Notes
+##### Notes
 The first half-verse is vi. 37. 3 **a, b**, and is found in other  
 texts\* as there referred to. Ppp. has the whole verse as our vi. 37. 3,  
 and it combines in **c**, as often, *vṛkṣāi ’va*. The Anukr. seems to  
@@ -73,12 +71,10 @@ quotation for the verses is *pañcai ’vo ”rdhvaṁ viṅśateḥ pañcame sy
 and, for the hymns, *pañcamo ‘ṣṭāu*.  
   
 Here ends also the sixteenth *prapāṭhaka*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/059_shApa-mochanam/01_yo_naH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.
+</details>
 </details>
 </div>

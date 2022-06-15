@@ -19,24 +19,19 @@ title = "०९९ वेदी"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/099_vedI/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/099_vedI/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. Is in Kāuś. (2. 20) the priest's direction for strewing the barhis; and the same in Vāit. (2. 7): both in the parvan sacrifice.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an elaborate comment. Oldenberg, Indogermanische Forschungen, Anzeiger, iii. 3, refers to Hillebrandt, Neu- und Vollmondsopfer, 19, 64.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/099_vedI/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ परि स्तृणीहि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/099_vedI/01_pari_stRNIhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an e
 हो॒तृ॒षद॑नं हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/099_vedI/01_pari_stRNIhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/099_vedI/01_pari_stRNIhi.md">
+<details open><summary><h3>०१ परि स्तृणीहि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Strew thou around, enclose the sacrificial hearth (*védi*) do not rob  
 the sister lying down yonder; the *hótar's* seat \[is\] yellow, golden;  
 those \[are\] jewels (*niṣká*) in the sacrificer's world.
 
-#### Notes
+##### Notes
 The comm. regards the bunch of *darbha* grass as addressed. Ludwig  
 conjectures the 'sister' to be the *uttaravedi;* and Henry also  
 understands the same; it is perhaps rather the grass that lies about;  
@@ -69,12 +65,10 @@ in TB. iii. 7. 5¹³ and Āp. iii. 13. 5: they read *abhí* for *pári* at
 beginning of **a**; *jāmím mā́ hiṅsir amuyā́ śáyānā* for **b**; *-danā  
 háritāḥ suvárṇāḥ* in **c**, and, in **d**, *imé* for *eté* and *bradhné*  
 for *loké*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/099_vedI/01_pari_stRNIhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Strew thou the Grass, and spread it on the Altar: rob not the sister who is lying yonder. The Hotar's seat is green and golden: these are gold necklets. in the plaee of him who worships.
+</details>
 </details>
 </div>

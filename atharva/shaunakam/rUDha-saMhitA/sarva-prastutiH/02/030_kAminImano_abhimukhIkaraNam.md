@@ -19,26 +19,23 @@ title = "०३० कामिनीमनोऽभिमुखीकरणम�
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. ii. (in the verse-order 1, 5, 2, 4, 3). Used by Kāuś. (35. 21 ff.), with vi. 8 and other hymns, in a rite concerning women, to gain control over a certain person: a mess of various substances is prepared, and her body smeared with it—which is much like the proverbial catching of a bird by putting salt on its tail.
 
 
-#### Translations
+##### Translations
 Translated: Weber, v. 218 and xiii. 197; Ludwig, p. 517; Grill, 52, 97; Griffith, i. 70; Bloomfield, 100, 311.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A man's love-charm
 </details>
+</details>
 </div>
-
-
 ## ०१ यथेदं भूम्या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A man's love-charm
 ए॒वा म॑थ्नामि ते मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
+<details open><summary><h3>०१ यथेदं भूम्या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. As the wind here shakes the grass off the earth, so do I shake thy  
 mind, that thou mayest be one loving me, that thou mayest be one not  
 going away from me.
 
-#### Notes
+##### Notes
 The last half-verse is the same with the concluding pādas of i. 34. 5  
 and vi. 8. 1-3; SPP. again alters the *pada*-text to *ápa॰gāḥ* (see  
 under i. 34. 5); Ppp. has here for **e** *evā mama tvāyasī.* Ppp. reads  
@@ -70,17 +68,13 @@ in **a, b** *bhūmyā ’dhi vatas* (!) *tṛ-.* We should expect in **a**
 rather *bhū́myām*, and this the comm. reads, both in his exposition and  
 in his quotation of the pratīka from Kāuś.; but Bloomfield gives no such  
 variant in his edition.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As the wind shake this Tuft of Grass hither and thither on the ground. So do I stir and shake thy mind, that thou mayst be in love with me, my darling, never to depart.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं चेन्नयाथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,16 +90,17 @@ As the wind shake this Tuft of Grass hither and thither on the ground. So do I s
 सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
+<details open><summary><h3>०२ सं चेन्नयाथो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. May ye, O Aśvins, both lead together and bring \[her\] together with  
 him who loves her. The fortunes (*bhága*) of you (two) have come  
 together, together \[your\] intents, together \[your\] courses  
 (*vratá*).
 
-#### Notes
+##### Notes
 Notwithstanding the accent of *vákṣathas*, it does not seem possible to  
 understand *céd* in **a** as 'if' (Grill, however, so takes it; Weber as  
 above), since the second halfverse has no application to the Aśvins (we  
@@ -122,17 +117,13 @@ such hidden sense, says simply *bhāgyāni*. ⌊In **a**, *aśvinā* is
 misprinted.—W's implications are that if *vakṣathas* were toneless it  
 might be taken as a case of antithetical construction and that there  
 would be no need to join it with *céd.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fortunes of you twain, now have your vows and spirits met.
 </details>
+</details>
 </div>
-
-
 ## ०३ यत् सुपर्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/03_yat_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -148,15 +139,16 @@ Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fort
 तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/03_yat_suparNA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/03_yat_suparNA.md">
+<details open><summary><h3>०३ यत् सुपर्णा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. What the eagles \[are\] wanting to say, the free from disease \[are\]  
 wanting to say—there let her come to my call, as the tip to the neck of  
 the arrow (*kúlmala*).
 
-#### Notes
+##### Notes
 The first half-verse is very obscure, and very differently understood by  
 the translators; the rendering above is strictly literal, avoiding the  
 violences which they allow themselves; the comm. gives no aid; he  
@@ -165,17 +157,13 @@ supplies *strīviṣayaṁ vākyam* to *yat*, and explains *anamīvās* by
 independent text: *yas suparṇā rakṣāṇa vā na vakṣaṇa vā trātānpitaṁ  
 manaḥ: śalye ’va gulmalūṁ yathā*—too corrupt to make much of. The Anukr.  
 declines to sanction the contraction *śalyé ’va* in **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/03_yat_suparNA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When eagles, calling out aloud, are screaming in the joy of health, Then to my calling let her come, as to the arrow's neck the shaft.
 </details>
+</details>
 </div>
-
-
 ## ०४ यदन्तरं तद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -191,30 +179,27 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 क॒न्याऽनां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tad.md">
+<details open><summary><h3>०४ यदन्तरं तद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  4. What \[was\] within, \[be\] that without; what \[was\] without,  
 \[be\] that within; of the maidens of many forms seize thou the mind, O  
 herb.
 
-#### Notes
+##### Notes
 In the obscure formalism of **a, b** the comm. thinks mind and speech to  
 be intended. ⌊Why not *rétas* and *śépas?*⌋ 'Of all forms,' i.e., as  
 often elsewhere, 'of every sort and kind.' ⌊Ppp. reads *abāhyaṁ* for  
 *bāhyaṁ yad bāhyaṁ.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let what is inward turn outside, let what is outward be within: Seize and possess, O Plant, the mind of maidens rich in every charm.
 </details>
+</details>
 </div>
-
-
 ## ०५ एयमगन् पतिकामा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/05_eyamagan_patikAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,23 +215,22 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 अश्वः॒ कनि॑क्रद॒द् यथा॒ भगे॑ना॒हं स॒हाग॑मम्॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/030_kAminImano_abhimukhIkaraNam/05_eyamagan_patikAmA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/05_eyamagan_patikAmA.md">
+<details open><summary><h3>०५ एयमगन् पतिकामा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Hither hath this woman come, desiring a husband; desiring a wife have  
 I come; like a loud-neighing (*krand*) horse, together with fortune have  
 I come.
 
-#### Notes
+##### Notes
 That is, perhaps, 'I have enjoyed her favors.' None of the mss. fail to  
 accent *yáthā* in **c.**
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/030_kAminImano_abhimukhIkaraNam/05_eyamagan_patikAmA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Seeking a husband she hath come! and I came longing for a wife: Even as a loudly-neighing steed may fate and fortune have I met.
+</details>
 </details>
 </div>

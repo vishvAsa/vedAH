@@ -18,26 +18,23 @@ title = "०५५ रायस्पोषप्राप्तिः"
 [Bhṛgu.—ṣaḍṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 5 ⌊i.e. 5 and 6 a, b of the Berlin ed.⌋. 3-av. 5-p. purastājjyotiṣmatī.] ⌊of 6 (= 6 c, d, 7 a, b of Berlin ed.), the definition is lacking: see my note to vs. 6.⌋
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Only the first verse is found in Pāipp. (in xx.). The comm. points out that the hymn is plainly meant to be used in the early morning worship of Agni, but quotes no authority. ⌊As to a seventh verse, see SPP's Critical Notice, vol. i., p. 24, and see under vss. 5 and 7.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 363; Griffith, ii. 312.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Agni for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto_ashvAyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -53,15 +50,16 @@ A hymn to Agni for protection and prosperity
 रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto_ashvAyeva.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto_ashvAyeva.md">
+<details open><summary><h3>०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Night after night bringing to him without mixture, as fodder to a  
 horse that stands, let not us, O Agni, thy neighbors, receive harm,  
 reveling with abundance of wealth, with food (*íṣ*).
 
-#### Notes
+##### Notes
 The verse corresponds nearly with VS. xi. 75, also with a verse in TS.  
 iv. i. 10¹ and MS. ii. 7. 7. VS. begins **a** with *áhar-ahar* (but śB.  
 vi. 6. 4¹ ⌊like KśS. xvi. 6. 2⌋ gives a *pratīka* with *rā́trīṁ-rātrīm*  
@@ -123,17 +121,13 @@ divide *vā́taḥ: íṣuḥ: sā́*. The comm's text has *iṣa;* but how his
 explanation is related to the text is hard to see: *he agne vāsakasya  
 tava yā ’nugrahabuddhir annapradasya yā cā ’nugrahabuddhis tayā ‘smān  
 sukhaya;* that is all.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto_ashvAyeva.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bringing, as 'twere, with care unceasing fodder night after night to feed this stabled Courser, Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.
 </details>
+</details>
 </div>
-
-
 ## ०२ या ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -149,21 +143,19 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/02_yA_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
+<details open><summary><h3>०२ या ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
 या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड ।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥२॥  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥२॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/02_yA_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here is thine own desire for wealth: through this be gracious unto us. Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.
 </details>
+</details>
 </div>
-
-
 ## ०३ सायंसायं गृहपतिर्नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -179,31 +171,28 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं पुषेम ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
+<details open><summary><h3>०३ सायंसायं गृहपतिर्नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Evening after evening \[is\] Agni our house-lord; morning after  
 morning \[is he\] giver of well-willing; be thou giver of good to us of  
 every kind; may we, kindling thee, adorn (*puṣ*) ourselves.
 
-#### Notes
+##### Notes
 The third pāda is literally 'of good thing after good thing be thou  
 giver of good.' The *pada*-mss. divide *vasu॰dā́naḥ: edhi* instead of  
 *vasu°dā́ḥ: naḥ: edhi*, as is implied by our text; the meter makes us  
 suspect that the true original reading was *vasudā́no na edhi*. The  
 fourth pāda is v. 3. 1 **b** etc. (see under that verse). ⌊Cf. vs. 4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Each eve that comes our household's Lord is Agni, showing his. loving-kindness every morning. Bestow upon us treasure after treasure: enkindling thee may we increase thy body.
 </details>
+</details>
 </div>
-
-
 ## ०४ प्रातःप्रातर्गृहपतिर्नो अग्निः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -219,29 +208,26 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
+<details open><summary><h3>०४ प्रातःप्रातर्गृहपतिर्नो अग्निः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Morning after morning \[is\] Agni our house-lord; evening after  
 evening \[is he\] giver of well-willing; be thou giver of good to us of  
 every kind; kindling thee, may we thrive (*ṛdh*) a hundred winters.
 
-#### Notes
+##### Notes
 In **d** the mss. read *śatáṁhimās* (p. *śatám॰himāḥ*); the comm. takes  
 it as two words, *śataṁ himās*, ⌊ignoring the accent⌋. ⌊With pāda **d**,  
 cf. RV. i. 64. 14 **d**.⌋ ⌊Cf. vs. 3.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Each morn that comes our household's Lord is Agni, showing. his loving-kindness every evening. Vouchsafe us treasure after treasure: kindling thee may we prosper through a hundred winters.
 </details>
+</details>
 </div>
-
-
 ## ०५ अपश्चा दग्धान्नस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -259,14 +245,15 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
+<details open><summary><h3>०५ अपश्चा दग्धान्नस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. May I be one not falling short of food; to the food-eating lord of  
 food, to Agni \[as\] Rudra be homage.
 
-#### Notes
+##### Notes
 Here also there is discordance as to the verse-division; the Anukr. ⌊and  
 comm.⌋ further add to vs. 5 what in our edition is 6 **a, b,** and then  
 make one verse of what remains of the hymn; and SPP. follows them. The  
@@ -299,17 +286,13 @@ asamarthāya*. He seems to connect *a-..-daghvan* (= *dīptirahita*) with
 *dah;* but BR. and W., with Sāyaṇa on RV., derive it from *dagh:* cf.  
 RV. i. 123. 5 **c**; vii. 56. 21 **b**.⌋ †⌊Cf. SPP's notes to xviii. 4.  
 48; xix. 32. 10; 48. 1; 56. 3.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer and the Lord of food!
 </details>
+</details>
 </div>
-
-
 ## ०६ त्वामिन्द्रा पुरुहूत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvAmindrA_puruhUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,17 +308,18 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 अह॑रहर्ब॒लिमित् ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/055_rAyaspoShaprAptiH/06_tvAmindrA_puruhUta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/06_tvAmindrA_puruhUta.md">
+<details open><summary><h3>०६ त्वामिन्द्रा पुरुहूत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. O thou of the assembly, protect my assembly (*sabhā́*), and \[them\]  
 who are of the assembly, sitters in the assembly; having much invoked  
 thee, O Indra, may they attain their whole life-time.
 
 Day after day taking tribute to thee, O Agni, as fodder to a horse that stands [, let not us, O Agni, thy neighbors, receive harm, reveling with abundance of wealth, with food (_íṣ_)].
 
-#### Notes
+##### Notes
 The translation is to be taken simply for what it is worth, as it does  
 not follow the mss., nor either printed text. At the beginning, the mss.  
 ⌊except several of W's, which have the impossible *sabhyá*⌋, SPP., and  
@@ -357,12 +341,10 @@ puruhūtye ’ti* (our 6 **c**: note the reading), but gives no metrical
 definition: the Berlin ms. does not even give the *pratīka*.⌋
 
 None of the mss. have the second half-verse; it was added because it seemed called for by the first half, as in vss. 1 and 2. That the comm. and part of the mss., and so also SPP., in agreement with the Anukr., make only six verses in the hymn, was explained above under vs. 5. A majority of the mss. accent _bálim_ in **a** (including all those used by us before publication), and so the error has got into our text; SPP. has correctly _balím;_ some leave _hárantas_ without accent; the comm. and a ms. or two have _ítye_ for _ít te_ (= _prāptavye gṛhe vartamānāyā ’gnaye_, comm.). All the mss. have in **b** jātám instead of _ghāsám;_ but the comm. has the latter, and it is therefore read in SPP's text as well as in ours.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/055_rAyaspoShaprAptiH/06_tvAmindrA_puruhUta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Protect my company, protect its courteous members, courteous. God! Only through thee, O much-invoked, may I be ever rich in kine.
+</details>
 </details>
 </div>

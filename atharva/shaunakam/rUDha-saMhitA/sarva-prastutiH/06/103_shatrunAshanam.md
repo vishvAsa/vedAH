@@ -19,24 +19,19 @@ title = "१०३ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/103_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix., in reversed order of verses. Used by Kāuś. (16. 6) in connection with the following hymn, in a battle rite for victory over enemies: fetters, as the comm. explains, are thrown down in places where the hostile army will pass.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 518; Griffith, i. 301.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/103_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ संदानं वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/01_saMdAnaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,27 +47,24 @@ Translated: Ludwig, p. 518; Griffith, i. 301.
 सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/103_shatrunAshanam/01_saMdAnaM_vo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/01_saMdAnaM_vo.md">
+<details open><summary><h3>०१ संदानं वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Tying-together may Brihaspati, tying-together may Savitar make for  
 you; tying-together may Mitra, Aryaman, tying-together may Bhaga, the  
 Aśvins \[make\].
 
-#### Notes
+##### Notes
 Instead of *mitro aryamā*, Ppp. has, in **c**, *indraś cā ’gniś ca*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/103_shatrunAshanam/01_saMdAnaM_vo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryaman, and both the Asvins make the bond.
 </details>
+</details>
 </div>
-
-
 ## ०२ सं परमान्त्समवमानथो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,29 +80,26 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 इन्द्र॒स्तान् पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
+<details open><summary><h3>०२ सं परमान्त्समवमानथो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. I tie together the highest, together the lowest, also together the  
 middle ones; Indra hath encompassed them with a tie; do thou, Agni, tie  
 them together.
 
-#### Notes
+##### Notes
 The comm. reads *paramām, avamām*, and *madhyamām* in **a, b**,  
 supplying *śatrusenām* in each case. ⌊The *r* of *ahār* is prescribed by  
 Prāt. ii. 46.J⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I bind together all of them, the first, the last, the middlemost. Indra hath girded these with cord: bind them together, Agni, thou!
 </details>
+</details>
 </div>
-
-
 ## ०३ अमी ये
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/03_amI_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -126,22 +115,21 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 इन्द्र॒स्तान् पर्य॑हा॒र्दाम्न॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/103_shatrunAshanam/03_amI_ye.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/03_amI_ye.md">
+<details open><summary><h3>०३ अमी ये ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. They yonder who come to fight, having made their ensigns, in  
 troops—Indra hath encompassed them with a tie; do thou, Agni, tie them  
 together.
 
-#### Notes
+##### Notes
 The comm. glosses *anīkaśas* with *saṁghaśas*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/103_shatrunAshanam/03_amI_ye.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Those yonder who approach to fight, with banners raised along their ranks, Indra hath girded these with cord: bind them together, Agni, thou!
+</details>
 </details>
 </div>

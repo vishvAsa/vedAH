@@ -19,26 +19,23 @@ title = "०४५ दुःष्वप्ननाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/045_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. This hymn and the one next following are used together by Kāuś. (46. 9) in a rite against bad dreams; and they are both reckoned (note, ib.) to the duḥsvapnanāśana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 443; Florenz, 305 or 57; Griffith, i. 269; Bloomfield, 163, 483.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for preservation from mental sin and evil promptings
 </details>
+</details>
 </div>
-
-
 ## ०१ परोऽपेहि मनस्पाप
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,32 +51,29 @@ A prayer for preservation from mental sin and evil promptings
 परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॑ गोषु॑ मे॒ मनः॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md">
+<details open><summary><h3>०१ परोऽपेहि मनस्पाप ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Go far away, O mind-evil! why utterest (*śaṅs*) thou things  
 unuttered? Go away; I desire thee not; do thou frequent (*sam-cara*)  
 trees, woods; in houses, in kine \[is\] my mind.
 
-#### Notes
+##### Notes
 The combination *manaspāpa* is expressly prescribed by Prāt. ii. 79, and  
 the anomalous conversion of the final of *vṛkṣā́n* to *anusvāra* by Prāt.  
 ii. 28. Ppp. has, for **a**, *ape ’hi manasas pate* (which RV. has at  
 the beginning of x. 164. 1), and omits **e**. The comm. regards *manas*  
 and *pāpa* as two independent words in **a**, and reads *śaṅsati* in  
 **b**, and *vṛkṣavanāni* in **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/01_paro_apehi_manaspApa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence away, I love thee not. Go to the forests and the trees. My heart is in our homes and cows.
 </details>
+</details>
 </div>
-
-
 ## ०२ अवशसा निःशसा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,15 +89,16 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 अ॒ग्निर्वि॑श्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद् द॑धातु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
+<details open><summary><h3>०२ अवशसा निःशसा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
  2. If (*yát*) by down-utterance, out-utterance, forth-utterance we  
 have offended (*upa-ṛ*), waking or (*yát*) sleeping, let Agni put far  
 away from us all disagreeable ill-deeds.
 
-#### Notes
+##### Notes
 The verse corresponds to RV. x. 164. 3, which reads in **a** *yád āśásā  
 niḥśásā ’bhiśásā;* of these words the first and third have usage  
 elsewhere, and a determinable meaning, 'wish' or 'expectation' and  
@@ -117,17 +112,13 @@ unsupported.\* The comm. regards all the words as containing the root
 *upārtāḥ pīḍitā bhavema*, turning the active into a passive. ⌊Pāda **b**  
 recurs at vi. 96. 3.⌋ \*⌊TB. has *yád āśásā niśásā yát parāśásā*,  
 blending RV. and AV. readings.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or slander, All these offences, which deserve displeasure, may Agni take from us and keep them distant.
 </details>
+</details>
 </div>
-
-
 ## ०३ यदिन्द्र ब्रह्मणस्पतेऽपि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,14 +134,15 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात् पा॒त्वंह॑सः ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md">
+<details open><summary><h3>०३ यदिन्द्र ब्रह्मणस्पतेऽपि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. If (*yát*), O Indra, O Brahmaṇaspati, we also proceed falsely, let  
 the Ān̄girasa, forethoughtful, protect us from difficulty, from distress.
 
-#### Notes
+##### Notes
 The verse is RV. x. 164. 4, which, however, has the better readings  
 *abhidrohám* for *ápi mṛ́ṣā* in **b**, and *dviṣatā́m* for *duritā́t* in  
 **d**. Ppp. reads, for **d**, *dviṣatas pātu tebhyaḥ*.  
@@ -158,12 +150,10 @@ The verse is RV. x. 164. 4, which, however, has the better readings
 It is probably only on account of the occurrence in it of the word  
 *svapantas* (2 **b**) that this hymn is in our text put in connection  
 with the one that follows.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate_api.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa preserve us from the sin and woe.
+</details>
 </details>
 </div>

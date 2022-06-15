@@ -19,26 +19,23 @@ title = "०८७ व्यापको देवः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/087_vyApako_devaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Found in Kāuś. (59. 29) in a rite for welfare, with worship of the Rudras; and reckoned (note to 50. 13) to the rāudra gaṇa. Used repeatedly by Vāit.: in the parvan sacrifice (4. 10), when the cleansing tuft is thrown in the fire, and again, in the cāturmāsya sacrifice (9. 18), with a cake to Tryambaka; also (24. 17) at the end of the agniṣṭoma, when the priests quit the place of sacrifice.
 
 
-#### Translations
+##### Translations
 Translated: Muir, iv2. 333; Henry, 36, 106; Griffith, i. 372.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/087_vyApako_devaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to Rudra as Agni
 </details>
+</details>
 </div>
-
-
 ## ०१ यो अग्नौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/087_vyApako_devaH/01_yo_agnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A prayer to Rudra as Agni
 य इ॒मा विश्वा॒ भुव॑नानि चाक्लृ॒प तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/087_vyApako_devaH/01_yo_agnau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/01_yo_agnau.md">
+<details open><summary><h3>०१ यो अग्नौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The Rudra that is in the fire (*agní*), that is within the waters,  
 that entered the herbs, the plants, that shaped (*kḷp*) all these  
 beings—to that Rudra, to Agni, be homage.
 
-#### Notes
+##### Notes
 TS., at V. 5. 9³, has a nearly corresponding address, but making no  
 pretense to a metrical character: it reads *yó rudró agnāú* (so far,  
 Ppp. agrees) *yó apsú yá óṣadīṣu* *yó rudró víśvā bhúvanā ”vivéśa  
@@ -71,12 +69,10 @@ end, for which Ppp. also has the better reading *adya*. The comm.
 explains *cākḷpe* by (*sraṣṭuṁ*) *samartho bhavati*. Pāda **b** is  
 *triṣṭubh;* ⌊but **a** is not to be made good by pronouncing *rudró* as  
 a trisyllable⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/087_vyApako_devaH/01_yo_agnau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Rudra in the fire, to him who dwells in floods, to Rudra who hath entered into herbs and plants, To him who formed and fashioned all these worlds, to him this Rudra, yea, to Agni, reverence be paid!
+</details>
 </details>
 </div>

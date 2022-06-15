@@ -2,12 +2,9 @@
 title = "+१९"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/_index.md">
+<details open><summary><h2>Supplementary hymns. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XIX.
 
@@ -226,7 +223,6 @@ and not before it. A tabular conspectus follows:
 | Anuvākas | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | Hymns    | 9   | 1   | 6   | 7   | 12  | 9   | 18  |
 | Verses   | 59  | 72  | 65  | 68  | 74  | 63  | 55  |
-
-
+</details>
 </details>
 </div>

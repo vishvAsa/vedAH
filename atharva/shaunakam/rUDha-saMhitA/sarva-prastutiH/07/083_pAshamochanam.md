@@ -19,26 +19,23 @@ title = "०८३ पाशमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/083_pAshamochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The first two verses are found in Pāipp. xx. The hymn (the whole, says the comm.) is, according to Kāuś. (32. 14), to be repeated in a remedial rite for dropsy, in a hut amid flowing waters; also (127. 4) all the verses in a sacrifice to Varuṇa, after iv. 16. 3, in case of the portent of obscuration of the seven ṛṣis. Vāit. (10. 22) has vs. 1* at the end of the paśubandha, when the victim's heart has been set upon a spit; and vs. 3 in the agnicayana (28. 17), on loosening the cords by which the fire-dish has been carried. The comm. quotes the hymn from Nakṣatra Kalpa (14), with an offering to Varuna in a mahāśānti for portents. *⌊According to Garbe, the whole hymn.⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 35, 104; Griffith, i. 370; Bloomfield, 12, 562.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/083_pAshamochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for deliverance from sin and other evils
 </details>
+</details>
 </div>
-
-
 ## ०१ अप्सु ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/01_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A prayer for deliverance from sin and other evils
 ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/083_pAshamochanam/01_apsu_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/01_apsu_te.md">
+<details open><summary><h3>०१ अप्सु ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. In the waters, O king Varuṇa, is built for thee a golden house;  
 thence let the king of firm courses release all bonds (*dā́man*).
 
-#### Notes
+##### Notes
 All the authorities have *mithás* at end of **b**, and SPP. admits this  
 in his text, although it is a palpable misreading for *mitás* ⌊c.f.  
 Roth, ZDMG. xlviii. 107⌋, which is given by Ppp. and by AśS. in the  
@@ -78,17 +76,13 @@ explains *dhāmāni muñcatu* by *sthānāny asmadīyāni tyajatu*. The AśS.
 version of the verse reads: *dvīpe rājño varuṇasya gṛho mito hiraṇyayaḥ:  
 sa no dhṛtavrato rājā dhāmno-dhāmna iha muñcatu*. Ppp. has its **b**  
 like AśS.; in **d** it reads *dhāmā vi no suce*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/083_pAshamochanam/01_apsu_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovran who maintains the statutes loose all bind- ing cords.
 </details>
+</details>
 </div>
-
-
 ## ०२ धाम्नोधाम्नो राजन्नितो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,15 +98,16 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
+<details open><summary><h3>०२ धाम्नोधाम्नो राजन्नितो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. From every bond, O king, here, O Varuṇa, release us; if "O waters,  
 inviolable ones!" if "O Varuṇa!" we have said, from that, O Varuṇa,  
 release us.
 
-#### Notes
+##### Notes
 The whole verse is found in many other texts: VS. vi. 22 **b, c**; TS.  
 i. 3. 11¹; MS. i. 2. 18; AśS. iii. 6. 24; śśS. viii. 12. 11; LśS. v. 4.  
 6: TB. 11. 6. 6² and VS. xx. 18 have pādas **c-e**; ⌊and MGS., ii. 1.  
@@ -133,17 +128,13 @@ without exception combine *váruṇé ’ti*. Our translation implies
 are repeated below as xix. 44. 9 **a, b**; they relate doubtless to  
 adjurations made in support of what is false. ⌊The Anukr. seems to  
 sanction our pronouncing the *āmreḍita* as six syllables.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hence free thou us, King Varuna, from each successive bond and tie. As we have cried, O Varuna! have said, The Waters, they are kine, thence set us free, O Varuna.
 </details>
+</details>
 </div>
-
-
 ## ०३ उदुत्तमं वरुण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -154,7 +145,7 @@ Hence free thou us, King Varuna, from each successive bond and tie. As we have c
 +ऽना॑गसो॒ अदि॑तये स्याम ॥३॥  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
-<details open=""><summary><h5>१५ उदुत्तमं वरुण ...{Loading}...</h5></summary>
+<details open><summary><h5>१५ उदुत्तमं वरुण ...{Loading}...</h5></summary>
 
 
 उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मद्  
@@ -173,15 +164,16 @@ Hence free thou us, King Varuna, from each successive bond and tie. As we have c
 अधा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
+<details open><summary><h3>०३ उदुत्तमं वरुण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Loosen up the uppermost fetter from us, O Varuṇa, \[loosen\] down the  
 lowest, off the midmost; then may we, O Āditya, in thy sphere (*vratá*),  
 be guiltless unto Aditi.
 
-#### Notes
+##### Notes
 The verse is RV. i. 24. 15, and found also as VS. xii. 12, and in TS.  
 (i. 5. 11³ et al.), MS. (i. 2. 18 et al.), SV. i. 589 (Nāigeya appendix  
 i. 4), and MB. (i. 7. 10). All agree in reading *áthā* at beginning of  
@@ -189,17 +181,13 @@ i. 4), and MB. (i. 7. 10). All agree in reading *áthā* at beginning of
 further put *vayam* after *vraté* in **c**, while SV. accents *anāgásas*  
 in **d**. ⌊Knauer, Index to MGS., p. 148, cites many occurrences of the  
 verse.⌋ ⌊Repeated below as xviii. 4. 69.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and under. So before Aditi may we be sinless under thy favouring auspices, Aditya!
 </details>
+</details>
 </div>
-
-
 ## ०४ प्रास्मत् पाशान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/04_prAsmat_pAshAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -215,15 +203,16 @@ Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and u
 दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/083_pAshamochanam/04_prAsmat_pAshAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/04_prAsmat_pAshAn.md">
+<details open><summary><h3>०४ प्रास्मत् पाशान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Release from us, O Varuṇa, all fetters, that are uppermost, lowest,  
 that are Varuṇa's; remove from us evil-dreaming \[and\] difficulty; then  
 may we go to the world of the well-done.
 
-#### Notes
+##### Notes
   
   
   
@@ -232,12 +221,10 @@ may we go to the world of the well-done.
 The last three pādas are identical with those of vi. 121. 1, above. Our  
 text ought to read in **c**, as there, *níḥ ṣv-*. ⌊Pronounce, as there,  
 *níṣ ṣuvāsmát.*⌋ There is no *bṛhatī* element in the verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/083_pAshamochanam/04_prAsmat_pAshAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the lower. Drive from us evil dream, drive off misfortune: then let us pass into the world of virtue.
+</details>
 </details>
 </div>

@@ -19,26 +19,23 @@ title = "०६६ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/066_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Ppp. xix. ⌊but confused with h. 65⌋. Used by Kāuś. (14. 7) in a battle rite with the preceding hymn, which see; and reckoned to the aparājita gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 372; Griffith, i. 281.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/066_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for the destruction and plunder of enemies
 </details>
+</details>
 </div>
-
-
 ## ०१ निर्हस्तः शत्रुरभिदासन्नस्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A charm for the destruction and plunder of enemies
 सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
+<details open><summary><h3>०१ निर्हस्तः शत्रुरभिदासन्नस्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Handless be the assailing foe—they who come with armies to fight us;  
 make them, O Indra, collide with the great weapon; let their evildoer (?  
 *aghahārá*) run (*drā*), pierced through.
 
-#### Notes
+##### Notes
 The comm. to SV. explains *aghahāra* by *atipratyavara;* ours, by  
 *maraṇalakṣaṇasya duḥkhasya prāpayitā*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Handless be every foeman who assaileth, they who with missiles come to fight against us! Dash them together with great slaughter, Indra! and let their robber chief run pierced with arrows.
 </details>
+</details>
 </div>
-
-
 ## ०२ आतन्वाना आयच्छन्तोऽस्यन्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto_asyanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,15 +85,16 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वोऽद्य परा॑शरीत्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto_asyanto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto_asyanto.md">
+<details open><summary><h3>०२ आतन्वाना आयच्छन्तोऽस्यन्तो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Ye who run (*dhāv*) stringing \[the bow\], drawing \[the arrow\]  
 (*ā-yam*), hurling—handless are ye, O foes; Indra hath now demolished  
 you.
 
-#### Notes
+##### Notes
   
   
   
@@ -113,17 +108,13 @@ adopted, as the better supported as well as the regular form ⌊cf. vi.
 note to vi. 32. 2.⌋ SPP., contrary to his usual practice, retains the  
 *ḥ* of *śatravaḥ* before *sth-*. The comm. has *stana* in **c**.  
 ⌊"Demolished" stands in rapport with "demolisher" of 65. 1.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto_asyanto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless be ye, O enemies! Let Indra mangle you to-day.
 </details>
+</details>
 </div>
-
-
 ## ०३ निर्हस्ताः सन्तु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -139,22 +130,21 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/066_shatrunAshanam/03_nirhastAH_santu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
+<details open><summary><h3>०३ निर्हस्ताः सन्तु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Handless be the foes; their limbs we make to relax (*mlā*); then will  
 we, O Indra, share among us their possessions hundred-fold.
 
-#### Notes
+##### Notes
 All our mss. but one (D.), and nearly all SPP's, read *śatravas*,  
 vocative, in **a**; both texts emend to *śát-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/066_shatrunAshanam/03_nirhastAH_santu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Handless be these our enemies! We enervate their languid limbs. So let us part among ourselves, in hundreds, Indra! all their wealth.
+</details>
 </details>
 </div>

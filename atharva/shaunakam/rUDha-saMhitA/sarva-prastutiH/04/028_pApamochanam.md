@@ -19,26 +19,23 @@ title = "०२८ पापमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. iv. (next after our h. 26), but having nothing correspondent to it in the Yajur-Veda texts. Having the same beginning (bhavāśarvāu) as xi. 2. 1, one cannot tell in many cases which of the two hymns is intended by a quotation in Kāuś.; but according to the comm. (also to Keśava; Dārila appears to think otherwise) this one is employed in a healing ceremony at 28. 8; it is also reckoned (26. 1, note) to the takmanāśana gaṇa.
 
 
-#### Translations
+##### Translations
 Translated: Muir, OST. iv.2 332; Griffith, i. 169; Bloomfield, 158, 406; Weber, xviii. 111.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn to Bhava and Sarva
 </details>
+</details>
 </div>
-
-
 ## ०१ भवाशर्वौ मन्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,32 +51,29 @@ A hymn to Bhava and Sarva
 याव॒स्ये॑शा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/01_bhavAsharvau_manve.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
+<details open><summary><h3>०१ भवाशर्वौ मन्वे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Bhava-and-śarva, I reverence you, know ye that; ye in whose  
 direction is all that shines out (*vi-ruc*) here, who lord it over these  
 bipeds \[and\] quadrupeds: do ye free us from distress.
 
-#### Notes
+##### Notes
 Ppp. has, for **b**, *yayor vāṁ yad idaṁ vitiṣṭhate;* our *vāṁ* makes  
 this pāda redundant. In **c**, some of the *pada*-mss. (including our  
 Bp.) have *asya* (but *asyá*, correctly, in 6 **c**). The expression in  
 **b** corresponds with that in 23. 7 and vii. 25. 2. According to the  
 comm., the name Bhava signifies *bhavaty asmāt sarvaṁ jagad;* and śarva,  
 *śṛṇāti hinasti sarvam antakāle*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/01_bhavAsharvau_manve.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that shineth. Lords of this world both quadruped and biped. Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०२ ययोरभ्यभ्व उत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyabhva_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,31 +89,28 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/02_yayorabhyabhva_uta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/02_yayorabhyabhva_uta.md">
+<details open><summary><h3>०२ ययोरभ्यभ्व उत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Ye whose is whatever is on the way and afar; who are known as best  
 shooters among arrow-bearers; who lord it etc. etc.
 
-#### Notes
+##### Notes
 Ppp. has *vitatāu* for *viditāu* (perhaps *vīḍitāu?*) in **b**, and its  
 **c** reads *bhavāśarvāu bhavatam me syonāu*, which then continues to be  
 (as in 26. 2-6) part of the refrain through vs. 6, taking the place of  
 our **c**. The comm., with a couple of SPP's mss., has *iṣubhṛ́tāu* for  
 *-tām* in **b**. He explains *abhyadhve* by *samīpadeśe*. Perhaps **a**  
 means rather 'on whose way \[is\] even whatever is afar.'
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/02_yayorabhyabhva_uta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Lords of all near and even of what is distant, famed as the best and skilfullest of archers, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०३ सहस्राक्षौ वृत्रहना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,14 +126,15 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/03_sahasrAxau_vRtrahanA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/03_sahasrAxau_vRtrahanA.md">
+<details open><summary><h3>०३ सहस्राक्षौ वृत्रहना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. I call on the (two) thousand-eyed Vṛtra-slayers; I go praising the  
 (two) formidable ones, having pastures afar: who lord it etc. etc.
 
-#### Notes
+##### Notes
 One of the oddest *pada*-text blunders of the whole work is made in  
 **b**; *stuvánnemi* is resolved into *stuván: nemi* instead of *stuván:  
 emi;* and then one or two of the mss. (including our Op.) corrupt  
@@ -150,17 +142,13 @@ further to *stuvát*, and the comm. to *nemī* (manufacturing for it two
 different, but equally absurd, explanations after his manner ⌊cf.  
 *Festgruss an Roth*, p. 91⌋). Ppp. has in **a, b** *huve vā dūrehetī  
 sunemi ugrāu*. ⌊Add *avasāna*-mark after *ugrāu*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/03_sahasrAxau_vRtrahanA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wide dominion: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०४ यावारेभाथे बहु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -176,31 +164,28 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
+<details open><summary><h3>०४ यावारेभाथे बहु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Ye who have taken hold (*ā-rabh*) of much together in the beginning,  
 if ye have let loose (*pra-sṛj*) the portent (*abhibhā́*) among the  
 people (*jána*): who lord it etc. etc.
 
-#### Notes
+##### Notes
 The sense of the verse is very obscure. All the mss. without exception  
 have in **b** the absurd reading *ásrāṣṭram*, which our edition emends  
 to *-ṭam*, but which SPP. retains, though the comm. gives *-ṭam*. Ppp.  
 has the better reading *ugrāu* for *agre* in **a**. The comm. treats  
 *bahú sākám*, in spite of accents, as one word, = *janasaṁgham*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye who of old wrought many a deed in concert, and showed among mankind unhappy omens; Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -216,26 +201,23 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
+<details open><summary><h3>०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. From whose deadly weapon no one soever escapes (*apa-pad*), among  
 gods and among men (*mā́nuṣa*); who lord it etc. etc.
 
-#### Notes
+##### Notes
 Ppp. reads in **a, b** *kiṁ canā ’ntar deveṣu uta*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye from the stroke of whose destroying weapon not one among the Gods or men escapeth, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०६ यः कृत्याकृन्मूलकृद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRd.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -251,14 +233,15 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRd.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRd.md">
+<details open><summary><h3>०६ यः कृत्याकृन्मूलकृद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Whoso is witchcraft-maker, root-cutter (?), sorcerer, down on him put  
 \[your\] thunderbolt, O formidable ones; who lord it etc. etc.
 
-#### Notes
+##### Notes
 Ppp. is defaced in this verse, and omits *mūlakṛt*. The comm. takes  
 *-kṛ́t* in a both times as from *kṛt* 'cut,' and *mūla-* as "offspring,  
 the root of increase of a family"; the Pet. Lex. conjectures "preparing  
@@ -266,17 +249,13 @@ roots for purposes of witchcraft" ⌊see Bloomfield's note, p. 407⌋; one
 might also guess *mūrakṛ́t* ⌊see Weber's comment, p. 114⌋. Most of our  
 mss. (all save H.p.m.K.D.), and the majority of SPP's, have the false  
 reading *dhattām* in **b**; both editions give *-tam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRd.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and deals in magic: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
+</details>
 </div>
-
-
 ## ०७ अधि नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/07_adhi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,25 +271,24 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो॑ जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/028_pApamochanam/07_adhi_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/07_adhi_no.md">
+<details open><summary><h3>०७ अधि नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Bless us in fights, O formidable ones; visit (*sam-sṛj*) with  
 \[your\] thunderbolt whoever is a *kimīdín:* I praise Bhava-and-śarva;  
 \[as\] a suppliant I call loudly on \[them\]; do ye free us from  
 distress.
 
-#### Notes
+##### Notes
 Ppp. reads *me* for *nas* in **a**, and leaves *-su ugrāu* uncombined.  
 ⌊Its closing half-verse is as in the Vulgate (as may be inferred from  
 the note to vs. 2).⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/04/028_pApamochanam/07_adhi_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt of thunder. I, suppliant, praise and ever call on Bhav and Sarva. Set us free from grief and trouble.
+</details>
 </details>
 </div>

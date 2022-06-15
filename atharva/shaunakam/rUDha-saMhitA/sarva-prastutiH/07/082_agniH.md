@@ -19,26 +19,23 @@ title = "०८२ अग्निः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Of this hymn, verses 2 and 6 are found in Pāipp. xx., and verse 3 in iii. It is used in Kāuś. (59. 15), with ii. 6, in a rite for success; and also (59. 19), with hymn 17 etc.: see under 17; further, vss. 2-6, in the upanayana ceremony (57. 21), accompany the laying of five pieces of fuel in renewing a lost fire*; and the comm. quotes it from the Nakṣatra Kalpa (17-19) in various mahāśānti ceremonies. Vāit. (29. 19) employs it (or vs. 1?) in the agnicayana, after laying on fuel with vii. 15; further (5. 16) vs. 2, in the agnyādheya ceremony, while blowing the fire with one's breath; and yet again (2. 7) vs. 6, in the parvan sacrifice, while ladling out the sacrificial butter. *⌊Keś., p. 35925; comm., p. 484 end.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 428; Henry, 34, 102; Griffith, i. 369.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In praise of Agni
 </details>
+</details>
 </div>
-
-
 ## ०१ अभ्यऽर्चत सुष्टुतिं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhya_archata_suShTutiM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,30 +51,27 @@ In praise of Agni
 इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत् पवन्ताम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/01_abhya_archata_suShTutiM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/01_abhya_archata_suShTutiM.md">
+<details open><summary><h3>०१ अभ्यऽर्चत सुष्टुतिं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Sing (*arc*) ye good praise unto the contest for kine; put ye in us  
 excellent possessions; lead ye this sacrifice of ours unto the gods; let  
 streams of ghee purify themselves sweetly.
 
-#### Notes
+##### Notes
 The verse is found also as RV. iv. 58. 10 and VS. xvii. 98. Both read in  
 **a** *arṣata* (which is better), and at the the *pavante*. The comm.  
 understands *devatās* in **c**. He regards the waters or the kine as  
 addressed, and explains **a** in several different ways.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/01_abhya_archata_suShTutiM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sing with fair laud the combat for the cattle. Bestow upon us excellent possessions. Lead to the Gods the sacrifice we offer: let streams of oil flow pure and full of sweetness.
 </details>
+</details>
 </div>
-
-
 ## ०२ मय्यग्रे अग्निं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agniM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -93,14 +87,15 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/02_mayyagre_agniM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/02_mayyagre_agniM.md">
+<details open><summary><h3>०२ मय्यग्रे अग्निं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. I seize in me Agni at first, together with dominion, splendor,  
 strength; in me I put progeny, in me lifetime,—hail!—in me Agni.
 
-#### Notes
+##### Notes
 The first and third pādas are read in TS. v. 7. 9¹, and the first three  
 in MS. i. 6. 1, with sundry variants: both put *gṛhṇāmi* in **a** before  
 *ágre*, and MS. rectifies the meter by inserting *ahám* between the two;  
@@ -109,17 +104,13 @@ different, *rāyás póṣāya* etc.); in **c**, MS. puts *kṣatrám* in place
 of *prajā́m*, and, for *ā́yus*, MS. gives *rā́yas* and TS. *várcas* (**d**  
 is different in each text). Ppp. reads at the end *agniḥ*. The meter (8  
 + 11: 11 + 6 = 36) is imperfectly described by the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/02_mayyagre_agniM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni I first appropriate with power, with splendour, and with might. I give myself children and lengthened life, with Hail! take Agni to myself.
 </details>
+</details>
 </div>
-
-
 ## ०३ इहैवाग्ने अधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -135,15 +126,16 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/03_ihaivAgne_adhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/03_ihaivAgne_adhi.md">
+<details open><summary><h3>०३ इहैवाग्ने अधि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Just here, O Agni, do thou maintain wealth; let not the downputters,  
 with previous intents, put thee down; by dominion, O Agni, be it of easy  
 control for thee; let thine attendant increase, not laid low.
 
-#### Notes
+##### Notes
 The verse occurs also in VS. (xxvii. 4), TS. (iv. 1. 7²), MS. (ii. 12.  
 5); all have the better reading *kṣatrám* at beginning of **c**; and,  
 for the difficult and probably erroneous *pū́rvacittās* of **b**, VS.TS.  
@@ -161,17 +153,13 @@ in Ppp. stands in the middle of our hymn ii. 6 (between vss. 3 and 4);
 VS.TS.MS., is similar: see note to ii. 6. 3⌋. Ppp. reads *dabhan* for  
 *ni kran* in **b**, and *kṣatram* ⌊and *sūyamam*⌋ in **c**. This  
 *jagatī* has one *triṣṭubh* pāda.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/03_ihaivAgne_adhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by thinking of thee first. Light be thy task of ruling, Agni, with, thy power: may he who worships thee wax strong, invincible.
 </details>
+</details>
 </div>
-
-
 ## ०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,15 +175,16 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
+<details open><summary><h3>०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Agni hath looked after the apex of the dawns, after the days, \[he\]  
 first, Jātavedas, a sun, after the dawns, after the rays, after  
 heaven-and-earth he entered.
 
-#### Notes
+##### Notes
 *Anu* 'after' seems here to have a distributive force: Agni is ever  
 present to meet the first dawn etc. with his brightness; or it is the  
 opposite of *prati* in vs. 5: *anu* 'from behind,' as *prati* 'from in  
@@ -204,17 +193,13 @@ front.' The verse is found as VS. xi. 17, and in TS. iv. i. 2², TB. 1.
 ca raśmī́n* (an easier and better reading), and, at the end, VS. MS. give  
 *ā́ tatantha*, and TS.TB. *ā́ tatāna*. This verse and the next are  
 repeated as xviii. i. 27, 28.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni hath looked upon the spring of Morning, looked on the days, the earliest Jatavedas. So, following the gleams of Morning, Surya hath entered heaven and earth as his possession.
 </details>
+</details>
 </div>
-
-
 ## ०५ प्रत्यग्निरुषसामग्रमख्यत् प्रत्यहानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyat_pratyahAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -230,31 +215,28 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन् प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/05_pratyagniruShasAmagramakhyat_pratyahAni.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/05_pratyagniruShasAmagramakhyat_pratyahAni.md">
+<details open><summary><h3>०५ प्रत्यग्निरुषसामग्रमख्यत् प्रत्यहानि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Agni hath looked forth to meet the apex of the dawns, to meet the  
 days, \[he\] first, Jātavedas, and to meet the rays of the sun in many  
 places; to meet heaven-and-earth he stretched out.
 
-#### Notes
+##### Notes
 A variation of the preceding verse, perhaps suggested by RV. iv. 13. 1  
 **a**, which is identical with its first pāda; its second half agrees  
 much more closely with the version of the other texts than does 4 **c,  
 d**. The comm. is still more faithful to that version, by giving the  
 (preferable) reading *purutrā* in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/05_pratyagniruShasAmagramakhyat_pratyahAni.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni hath looked upon the spring of Mornings, looked on the days, the earliest Jatavedas. So he in countless places hath extended, full against heaven and earth, the beams of Surya.
 </details>
+</details>
 </div>
-
-
 ## ०६ घृतं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -270,24 +252,23 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 घृ॒तं ते॑ दे॒वीर्न॒प्त्य॑१आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/082_agniH/06_ghRtaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/06_ghRtaM_te.md">
+<details open><summary><h3>०६ घृतं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Ghee for thee, Agni, in the heavenly station; with ghee Manu kindleth  
 thee today; let the goddesses thy kin (*natpī́*) bring thee ghee; ghee to  
 thee let the kine milk, O Agni.
 
-#### Notes
+##### Notes
 Ppp. reads *duhrate* in **d**. The comm. gives *naptryas* in **c**, and  
 declares it to mean the waters; it is more probably the daughters of the  
 sky in general.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/082_agniH/06_ghRtaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Butter to thee in heaven thy home, O Agni! Manu this day hath kindled thee with butter. Let the Celestial Daughters bring thee butter: Let cows pour butter forth for thee, O Agni.
+</details>
 </details>
 </div>

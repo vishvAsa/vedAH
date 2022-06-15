@@ -19,24 +19,19 @@ title = "१३२ स्मरः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Like the two preceding hymns, not found in Pāipp. Used by Kāuś. only with its two predecessors (see under 130). The metrical definitions of the Anukr. are artificial and worthless.
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 245; Griffith, i. 319; Bloomfield, 104, 535.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यं देवाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/01_yaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,27 +47,23 @@ Translated: Weber, Ind. Stud. v. 245; Griffith, i. 319; Bloomfield, 104, 535.
 तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/01_yaM_devAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/01_yaM_devAH.md">
+<details open><summary><h3>०१ यं देवाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. The love that the gods poured within the waters, greatly burning,  
 together with longing—that I heat for thee by Varuṇa's ordinance  
 (*dhárman*).
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/01_yaM_devAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Philter, burning with the pangs of yearning love, which Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
+</details>
 </div>
-
-
 ## ०२ यं विश्वे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/02_yaM_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,25 +79,21 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/02_yaM_vishve.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/02_yaM_vishve.md">
+<details open><summary><h3>०२ यं विश्वे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The love that all the gods poured etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/02_yaM_vishve.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The charm which, burning with the pangs of love, the General Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
+</details>
 </div>
-
-
 ## ०३ यमिन्द्राणी स्मरमसिञ्चदप्स्व१न्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/03_yamindrANI_smaramasinchadapsva1ntaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -122,25 +109,21 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/03_yamindrANI_smaramasinchadapsva1ntaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/03_yamindrANI_smaramasinchadapsva1ntaH.md">
+<details open><summary><h3>०३ यमिन्द्राणी स्मरमसिञ्चदप्स्व१न्तः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. The love that Indrāṇī poured etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/03_yamindrANI_smaramasinchadapsva1ntaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Philter, burning with the pangs of longing, which Indrani hath effused within the waters' depth, That spell for thee I heat by Varuna's decree.
 </details>
+</details>
 </div>
-
-
 ## ०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्व१न्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsva1ntaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -156,25 +139,21 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsva1ntaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsva1ntaH.md">
+<details open><summary><h3>०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्व१न्तः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The love that Indra-and-Agni poured etc. etc.,
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsva1ntaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The charm, aglow with longing, which Indra and Agni have effused within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
+</details>
 </div>
-
-
 ## ०५ यं मित्रावरुणौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/05_yaM_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -190,20 +169,18 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥५॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/132_smaraH/05_yaM_mitrAvaruNau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/05_yaM_mitrAvaruNau.md">
+<details open><summary><h3>०५ यं मित्रावरुणौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The love that Mitra-and-Varuṇa poured etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/132_smaraH/05_yaM_mitrAvaruNau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The charm aglow with longing which Mitra and Varuna have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
+</details>
 </details>
 </div>

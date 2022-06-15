@@ -19,24 +19,19 @@ title = "११० शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/110_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx., vs. 3 not with vss. 1, 2. Kāug. (15. 11) employs the hymn (the comm. says, vss. 1 and 2), with vii. 3 etc., in battle incantations: see under 3;  further (59. 20), for the satisfaction of various desires, with worship of the deities mentioned in the verses. Vāit. (8. 6) has it (vss. 1, 2?) with an oblation to Indra and Agni, in the āgrayana iṣṭi; and vs. 3 (3. 17), in the parvan sacrifice, as the priests receive and partake of their iḍā-portion.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 43, 121; Griffith, i. 381.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/110_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ अग्न इन्द्रश्च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 उ॒भा हि वृ॑त्र॒हन्त॑मा ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/110_shatrunAshanam/01_agna_indrashcha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/01_agna_indrashcha.md">
+<details open><summary><h3>०१ अग्न इन्द्रश्च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Agni, together with Indra, ye slay the Vritras irresistibly for  
 your worshiper (*dāśvā́ns*); for ye are both best Vritra-slayers.
 
-#### Notes
+##### Notes
 The translation implies emendation of *hatás* in **b** to *hathás*,  
 which the construction clearly demands, and which is read by the comm.,  
 as also, in a corresponding verse, by TB. (ii. 4. 5⁷: this has also  
@@ -69,17 +65,13 @@ read *atho* for *hato*, and for **c** *ugrāya vṛtrahantamām*. ⌊Render
 rather, 'ye slay the adversaries...adversary-slayers'? cf. iv. 32. 7,  
 note.⌋ ⌊MS. has *ágnā índraś ca dāśúṣo* just after its version of our  
 vs. 2.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/110_shatrunAshanam/01_agna_indrashcha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slayers are ye both.
 </details>
+</details>
 </div>
-
-
 ## ०२ याभ्यामजयन्त्स्व१रग्र एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsva1ragra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -95,15 +87,16 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 प्रच॑र्षणी॒ वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/110_shatrunAshanam/02_yAbhyAmajayantsva1ragra_eva.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/02_yAbhyAmajayantsva1ragra_eva.md">
+<details open><summary><h3>०२ याभ्यामजयन्त्स्व१रग्र एव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. By whom in the very beginning they won the heaven (*svàr*), who stood  
 unto all existences, the two men-helpers (?), bulls,  
 thunderbolt-armed—Agni, Indra, Vritra-slayers, do I invoke.
 
-#### Notes
+##### Notes
 Found also in TB. (ii. 4. 5⁷) and MS. (iv. 12. 6); TB. puts in **a**  
 *súvar* before *ájayan*, much improving the meter; MS. does the same,  
 but corrupts to *ájanan;* in **b**, TB. has *bhúvanasya mádhye;* in  
@@ -117,17 +110,13 @@ Pet. Lex. had conjectured an emendation to *prá carṣaṇī* ⌊comparing RV.
 i. 109. 5⌋; the comm. gives it an alternative explanation: either  
 *prakarṣeṇa draṣṭārāu*, or *prakṛṣṭā manuṣyā yayor yaṣṭṛtvena santi*.  
 ⌊As to *vṛtra-*, see note to vs. i.⌋ \*⌊And MS. reads *vájrabāhum*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/110_shatrunAshanam/02_yAbhyAmajayantsva1ragra_eva.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the thunder, Through whom they won the light in the beginning, these who have made all worlds their habitation.
 </details>
+</details>
 </div>
-
-
 ## ०३ उप त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,14 +132,15 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/110_shatrunAshanam/03_upa_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/03_upa_tvA.md">
+<details open><summary><h3>०३ उप त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Divine Brihaspati hath served (? *upa-grah*) thee with a bowl; O  
 Indra, enter into us with songs—for the sacrificer, the soma-presser.
 
-#### Notes
+##### Notes
 In **a**, *upa-grah* is rendered as if equivalent to *upa-hṛ;* the comm.  
 takes it thus: *anyatra yathā na gacchasi tathā svādhīnaṁ kṛtavān*. The  
 comm. regards Indra as addressed in **a, b**, but it is rather the drink  
@@ -160,12 +150,10 @@ is cited in Vāit. (ib.); ⌊Garbe overlooked the fact that the second half
 of this vs. was intended⌋. Ppp. adds to the somewhat meaningless **d** a  
 fifth pāda: *sarvaṁ taṁ rīradhāsi naḥ:* compare the Ppp. version of vi.  
 54. 3. ⌊Ppp. reads in **a** *upāi ’naṁ devās.*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/110_shatrunAshanam/03_upa_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indra, enter us for the juice-pouring worshipper.
+</details>
 </details>
 </div>

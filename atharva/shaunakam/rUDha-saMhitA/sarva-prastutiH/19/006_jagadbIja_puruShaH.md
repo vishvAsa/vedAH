@@ -19,22 +19,19 @@ title = "००६ जगद्बीज पुरुषः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊The verse is RV. x. 90. 1; VS. xxxi. 1; SV. i. 618; TA. iii. 12. 1.⌋ All the other texts begin with sahásraśīrṣā (SV. -rṣāḥ); SV.VS. ⌊KaṭhaB.⌋ have in c sarvátas, and VS. after it spṛtvā́; ⌊von Schroeder reports the KaṭhaB. reading as smṛtvā́: but perhaps the intention of his mss. is rather spṛtvā́⌋. The comm. gives very long expositions of most of the verses, but casts no light upon them. ⌊Deussen, p. 150, calls the substitution of -bāhuḥ for -śīrṣā a "rationalizing variant: because, if Purusha has 1000 eyes, he ought to have only 500 heads"! But even the AV. comm. glosses sahasrākṣaḥ by bahubhir akṣibhir upetaḥ.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The purusha-Sukta, on the mystical Sacrifice of Purusha
 </details>
+</details>
 </div>
-
-
 ## ०१ सहस्रबाहुः पुरुषः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,14 +47,15 @@ The purusha-Sukta, on the mystical Sacrifice of Purusha
 स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद् दशाङ्गु॒लम्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
+<details open><summary><h3>०१ सहस्रबाहुः पुरुषः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Thousand-armed is Purusha, thousand-eyed, thousand-footed; he,  
 covering the earth entirely, exceeded it by ten fingers' breadth.
 
-#### Notes
+##### Notes
 ⌊The verse is RV. x. 90. 1; VS. xxxi. 1; SV. i. 618; TA. iii. 12. 1.⌋  
 All the other texts begin with *sahásraśīrṣā* (SV. *-rṣāḥ*); SV.VS.  
 ⌊KaṭhaB.⌋ have in **c** *sarvátas*, and VS. after it *spṛtvā́;* ⌊von  
@@ -68,17 +66,13 @@ expositions of most of the verses, but casts no light upon them.
 "rationalizing variant: because, if Purusha has 1000 eyes, he ought to  
 have only 500 heads"! But even the AV. comm. glosses *sahasrākṣaḥ* by  
 *bahubhir akṣibhir upetaḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pervading earth he fills a space ten fingers wide.
 </details>
+</details>
 </div>
-
-
 ## ०२ त्रिभिः पद्भिर्द्यामरोहत्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,14 +88,15 @@ Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pe
 तथा॒ व्यऽक्राम॒द् विष्व॑ङशनानश॒ने अनु॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohat.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohat.md">
+<details open><summary><h3>०२ त्रिभिः पद्भिर्द्यामरोहत् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. With three feet he ascended the sky; a foot of him, again, was here;  
 so he strode out asunder, after eating and non-eating.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 4; VS. xxxi. 4; SV. i. 619; TA. iii. 12. 2.⌋ RV. has a quite  
 different text: *tripā́d ūrdhvá úd āit púruṣaḥ pā́do ‘sye ’hā́ ’bhavat  
 púnaḥ: táto víṣvan̄ vy* *àkrāmat sāśanānaśané abhí;* VS. agrees with  
@@ -121,17 +116,13 @@ an absurd array of discordant explanations of this compound: *aśanā* is
 "men, animals, etc.," and *anaśanā* "gods, trees, etc."; then  
 (*adhyātmapakṣe*), the two are "the immovable and movable creation," or  
 else "the intelligent (*cetana*) and unintelligent creation."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohat.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 He with three quarters rose to heaven here reappeared a fourth of him. Thence he strode forth on every side to all that eats not and that eats.
 </details>
+</details>
 </div>
-
-
 ## ०३ तावन्तो अस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -147,15 +138,16 @@ He with three quarters rose to heaven here reappeared a fourth of him. Thence he
 पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्यृ॒तं॑ दि॒वि॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
+<details open><summary><h3>०३ तावन्तो अस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. So many are his greatnesses; and Purusha is superior (*jyā́jān*) to  
 that; a foot of him is all beings (*bhūtá*); three feet of him are what  
 is immortal in the sky.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 3; VS. xxxi. 3; SV. i. 621; TA. iii. 12. 1; ChU. iii. 12.  
 6.⌋ RV. reads in **a, b**: *etā́vān asya mahimā́ ’to jy-*; VS.TA. agree  
 with RV. (but TA. ⌊in the Calc. ed. only⌋ shortens the *ū* of *pū́ruṣaḥ*  
@@ -171,17 +163,13 @@ agrees with SV., except that it does not dislocate the two halves of our
 vs. As to the vs. in ChU., cf. Böhtlingk, *Berichte der säcks. Gesell.*,  
 July 10, 1897, p. 82; in his edition, he emends the vs. to conformity  
 with the RV. readings.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 So mighty is his grandeur, yea, greater than this is Purusha. All creatures are one-fourth of him, three-fourths what dieth not in heaven.
 </details>
+</details>
 </div>
-
-
 ## ०४ पुरुष एवेदं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/04_puruSha_evedaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -197,14 +185,15 @@ So mighty is his grandeur, yea, greater than this is Purusha. All creatures are 
 उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत् स॒ह॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/04_puruSha_evedaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/04_puruSha_evedaM.md">
+<details open><summary><h3>०४ पुरुष एवेदं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Purusha is just this all, what is and what is to be; also \[is he\]  
 lord (*īśvará*) of immortality, which was together with another.
 
-#### Notes
+##### Notes
 ⌊RV. X. 90. 2; VS. xxxi. 2; SV. i. 620; TA. iii. 12. 1.⌋ The wholly  
 obscure last pāda is doubtless a mere corruption, all the other texts  
 reading instead *yád ánnenā ’tiróhati* (which is itself obscure enough).  
@@ -215,17 +204,13 @@ of W's and seven of SPP's ten authorities;⌋ SPP. accepts it; the comm.
 has *bhavyam*, and, in **d**, *annena*. Some of the mss. accent  
 *ányena;* ⌊that is, they have the spelling of *anyéna* and the accent of  
 *ánnena*⌋. ⌊Pāda **b** is nearly = xiii. 1. 54 d.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/04_puruSha_evedaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Purusha is in truth this All, what hath been and what yet shall; be Lord, too, of immortality--and what hath grown with some- what else.
 </details>
+</details>
 </div>
-
-
 ## ०५ यत् पुरुषं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/05_yat_puruShaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -241,15 +226,16 @@ Purusha is in truth this All, what hath been and what yet shall; be Lord, too, o
 मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्येते ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/05_yat_puruShaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/05_yat_puruShaM.md">
+<details open><summary><h3>०५ यत् पुरुषं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. When they separated (*vi-dhā*) Purusha, in how many parts did they  
 distribute (*vi-kḷp*) him? what was his face? what his (two) arms? what  
 are called his (two) thighs \[and\] feet?
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 11; VS. xxxi. 10; TA. iii. 12. 5.⌋ The mss. vary between  
 *vyádadhus* and *vy àdadhus;* the *pada*-mss., between *ví: ad-* and  
 *ví: ád-*: the latter is (without any good reason: cf. my *Skt. Gr.*²  
@@ -262,17 +248,13 @@ first time) *kāú;* and RV. combines *kā́ ū-* and *pā́dā uc-* ⌊AV. and 
 ucyate:* cf. Prāt. ii. 22 and note; ⌊also my *Noun-Inflection*, p. 341⌋.  
 ⌊KaṭhaB. agrees with VS. in showing the intrusive *āsīt*, and with Ppp.  
 in reading the ungrammatical *ucyate*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/05_yat_puruShaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When they divided Purusha how many portions did they make? What was his mouth? what were his arms? what are the names of thighs and feet?
 </details>
+</details>
 </div>
-
-
 ## ०६ ब्राह्मणोऽस्य मुखमासीद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/06_brAhmaNo_asya_mukhamAsId.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -288,28 +270,25 @@ When they divided Purusha how many portions did they make? What was his mouth? w
 मध्यं॒ तद॑स्य॒ यद् वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/06_brAhmaNo_asya_mukhamAsId.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/06_brAhmaNo_asya_mukhamAsId.md">
+<details open><summary><h3>०६ ब्राह्मणोऽस्य मुखमासीद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. The Brahman was his face; the Kshatriya (*rājanyà*) became his (two)  
 arms; the Vāiśya \[was\] his middle; from his (two) feet was born the  
 śūdra.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 12; VS. xxxi. 11; TA. iii. 12. 5.⌋ The other three texts  
 read in **b** *rājanyàḥ kṛtáḥ*, and in **c** *ūrū́* (for *mádhyam*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/06_brAhmaNo_asya_mukhamAsId.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Brahman was his mouth, of both his arms was the Rajanya made. His waist became the Vaisya, from his feet the Sudra was produced.
 </details>
+</details>
 </div>
-
-
 ## ०७ चन्द्रमा मनसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -325,31 +304,28 @@ The Brahman was his mouth, of both his arms was the Rajanya made. His waist beca
 मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद् वा॒युर॑जायत ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
+<details open><summary><h3>०७ चन्द्रमा मनसो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. The moon \[is\] born from his mind; from his eye the sun was born;  
 from his mouth both Indra and Agni; from his breath Vāyu was born.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 13; VS. xxxi. 12; TA. iii. 12. 6.⌋ RV.TA. have no variant  
 from our text; VS. reads for the second line *śrótrād vāyúś ca prāṇáś ca  
 múkhād agnír ajāyata*. ⌊KaṭhaB. has for **b** the much better *cákṣuṣor  
 ádhi sū́ryaḥ* (avoiding the undesirable *cákṣos:* see *Noun-Inflection*,  
 p. 569 top, p. 410 top); and in **c, d** it agrees with VS., except that  
 it substitutes *násor* for *śrótrad*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Moon was gendered from his mind, and from his eye the Sun had birth. Indra and Agni from his mouth were born and Vayu from his breath.
 </details>
+</details>
 </div>
-
-
 ## ०८ नाभ्या आसीदन्तरिक्षं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -365,28 +341,25 @@ The Moon was gendered from his mind, and from his eye the Sun had birth. Indra a
 प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त् तथा॑ लो॒कां अ॑कल्पयन्॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixaM.md">
+<details open><summary><h3>०८ नाभ्या आसीदन्तरिक्षं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. From his navel was the atmosphere; from his head the sky came into  
 being (*sam-vṛt*); from his (two) feet the earth, the quarters from his  
 ear (*śrótra*): so shaped they the worlds.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 14; VS. xxxi. 13; TA. iii. 12. 6.⌋ The three other texts  
 agree with ours throughout.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Forth from his navel come mid-air; the sky was fashioned from his head. Earth from his feet, and from his ear the regions. Thus they formed the worlds.
 </details>
+</details>
 </div>
-
-
 ## ०९ विराडग्रे समभवद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -402,29 +375,26 @@ Forth from his navel come mid-air; the sky was fashioned from his head. Earth fr
 स जा॒तो अत्य॑रिच्यत प॒श्चाद् भूमि॒मथो॑ पु॒रः ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
+<details open><summary><h3>०९ विराडग्रे समभवद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Virāj in the beginning came into being (*sam-bhū*); out of Virāj,  
 Purusha; it, when born, exceeded the earth behind, also in front.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 5; VS. xxxi. 5; SV. i. 622; TA. iii. 12. 2.⌋ RV.TA. read,  
 for **a**, *tásmād virā́ḍ ajāyata;* SV.VS. ⌊and KaṭhaB. read⌋ the same,  
 save *tátas* for *tásmāt*. Ppp. reads in **b** *pāuruṣāt*, and in **d**  
 *purā*. ⌊For *puraḥ* in the Berlin ed., read *puráḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born he spread westward and eastward o'er the earth.
 </details>
+</details>
 </div>
-
-
 ## १० यत् पुरुषेण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -440,28 +410,25 @@ In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born
 व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
+<details open><summary><h3>१० यत् पुरुषेण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. When, with Purusha as oblation, the gods extended the sacrifice,  
 spring was its sacrificial butter, summer its fuel, autumn its oblation.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 6; VS. xxxi. 14; TA. iii. 12. 3.⌋ ⌊The first half-verse is  
 our vii. 5. 4 **a, b**, where, however, *devā́s* follows *yajñám*.⌋ Of  
 the other three texts, the only variant is *vasantò ‘sy-* in VS.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 When Gods performed the sacrifice with Purusha as their offering. Spring was the butter, summer was the fuel, autumn was the gift.
 </details>
+</details>
 </div>
-
-
 ## ११ तं यज्ञं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/11_taM_yajnaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -477,31 +444,28 @@ When Gods performed the sacrifice with Purusha as their offering. Spring was the
 तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/11_taM_yajnaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/11_taM_yajnaM.md">
+<details open><summary><h3>११ तं यज्ञं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. They sprinkled with the early rain (*prāvṛ́ṣ*) that sacrifice,  
 Purusha, born in the beginning; therewith the gods sacrificed, the  
 Perfectibles (*sādhyá*) and they that are Vasus.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 7; VS. xxxi. 9; TA. iii. 12. 3.⌋ The other three texts agree  
 in reading in **a** *barhíṣi* (for *prāvṛ́ṣā*), in **b** *agratás*, in  
 **d** *ṛ́ṣayas* (for *vásavas*). Ppp. has in **d** *sādhyā ca*. One or  
 two of our mss. give *agratás* (like RV. etc.); about half SPP's  
 authorities accent *áyajanta* ⌊as does also TA.⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/11_taM_yajnaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. The Deities, the Sadhyas, all the Vasus sacrificed with him.
 </details>
+</details>
 </div>
-
-
 ## १२ तस्मादश्वा अजायन्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -517,15 +481,16 @@ That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. Th
 गावो॑ ह जज्ञिरे॒ तस्मा॒त् तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
+<details open><summary><h3>१२ तस्मादश्वा अजायन्त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. From that were born horses, and whatever \[animals\] have teeth in  
 both jaws; kine were born from that; from that \[are\] born goats and  
 sheep.
 
-#### Notes
+##### Notes
   
   
   
@@ -533,17 +498,13 @@ sheep.
   
 ⌊RV. x. 90. 10; VS. xxxi. 8; TA. iii. 12. 5.⌋ The other three texts ⌊but  
 not KaṭhaB.⌋ omit *ca* after *yé* in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From it were horses born, from it all creatures with two rows of teeth. From it were generated kine, from it were goats and sheep produced.
 </details>
+</details>
 </div>
-
-
 ## १३ तस्माद् यज्ञात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -559,15 +520,16 @@ From it were horses born, from it all creatures with two rows of teeth. From it 
 छन्दो॑ ह जज्ञिरे॒ तस्मा॒द् यजु॒स्तस्मा॑दजायत ॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
+<details open><summary><h3>१३ तस्माद् यज्ञात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. From that all-sacrificing sacrifice were born the verses (*ṛ́c*), the  
 chants (*sā́man*); meter ⌊sic!⌋ were born from that; sacrificial formula  
 was born from that.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 9; VS. xxxi. 7; TA. iii. 12. 4.⌋ The other texts have at  
 beginning of **c** *chándāṅsi*, and our edition gives the same; but the  
 mss., except one of ours p. m. and two of SPP's, read instead *chándo  
@@ -576,17 +538,13 @@ shown in the translation), has the best right to figure as Atharvan
 text.  
   
 ⌊See p. xcvii.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From that great general sacrifice Richas and Sama hymns were born; Therefrom the metres were produced: the Yajus had its birth from it.
 </details>
+</details>
 </div>
-
-
 ## १४ तस्माद् यज्ञात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/14_tasmAd_yajnAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -602,32 +560,29 @@ From that great general sacrifice Richas and Sama hymns were born; Therefrom the
 प॒शूंस्तांश्च॑क्रे वाय॒व्याऽनार॒ण्या ग्रा॒म्याश्च॒ ये॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/14_tasmAd_yajnAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/14_tasmAd_yajnAt.md">
+<details open><summary><h3>१४ तस्माद् यज्ञात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. From that all-sacrificing sacrifice was collected the speckled  
 butter (*pṛṣadājyá*); it made those cattle belonging to Vāyu—those that  
 are of the forest and of the village.
 
-#### Notes
+##### Notes
 That is, the wild and the tame. ⌊The verse is RV. x. 90. 8; VS. xxxi. 6;  
 TA. iii. 12. 4.⌋ RV. alone combines in **c** *paśū́n tā́-*; in **d**, RV.  
 and TA. read *āraṇyā́n*. SPP. unaccountably accents at end of **b**  
 *pṛṣadājyàm*, against the majority of his mss., all of ours, and the  
 usage everywhere else. The mss. vary between *vāyavyā́n* and *vāyavyā̀n*.  
 Ppp. has in **c** *cakrire;* ⌊and so has KaṭhaB.⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/14_tasmAd_yajnAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From that great general sacrifice the dripping fat was gathered up: It formed the creatures fleet as wind, and animals both wild and tame.
 </details>
+</details>
 </div>
-
-
 ## १५ सप्तास्यासन् परिधयस्त्रिः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -643,30 +598,27 @@ From that great general sacrifice the dripping fat was gathered up: It formed th
 दे॒वा यद् य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न् पुरु॑षं प॒शुम्॥१५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
+<details open><summary><h3>१५ सप्तास्यासन् परिधयस्त्रिः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. Seven were made its enclosing sticks (*paridhí*), thrice seven its  
 pieces of fuel, when the gods, extending the sacrifice, bound Purusha as  
 victim.
 
-#### Notes
+##### Notes
 ⌊RV. x. 90. 15; VS. xxxi. 15; TA. iii. 12. 3.⌋ The other three texts  
 offer no variant. In connection with the 'seven,' the comm. of course  
 thinks of the meters; of the 'twenty-one' he gives more than one  
 explanation, sufficient to show that he is merely guessing.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offering sacrifice, the Gods bound as their victim Purusha.
 </details>
+</details>
 </div>
-
-
 ## १६ मूर्ध्नो देवस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -682,14 +634,15 @@ Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offe
 राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥१६॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
+<details open><summary><h3>१६ मूर्ध्नो देवस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 16. Seven times seventy rays (*aṅśú*) were born from the head of the  
 great god, of king Soma, when born out of Purusha.
 
-#### Notes
+##### Notes
 This verse is found nowhere else. The RV. has also a 16th verse, an  
 appendage to the hymn in a different meter, which was earlier found as  
 RV. i. 164. 50, and is our vii. 5. 1, besides occurring in a number of  
@@ -697,12 +650,10 @@ other texts—in VS. ⌊xxxi. 16⌋ and TA. ⌊iii. 12. 7⌋, in connection with
 the rest of the Purusha-hymn. The comm. refers to the double character  
 of soma, as plant and as moon, and notes that, while the sun's rays are  
 a thousand, those of the moon are four hundred and ninety.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Forth from head of the high God seven-and-seventy bright beams. Sprang into being, of the King Soma produced from Purusha.
+</details>
 </details>
 </div>

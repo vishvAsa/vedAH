@@ -2,12 +2,9 @@
 title = "+०४"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/04/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/_index.md">
+<details open><summary><h2>IV. Book the fourth ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book IV.
 
@@ -40,7 +37,6 @@ In accord therewith is the statement of the Anukr. (prefixed to its
 treatment of book iv.) that the seven-versed hymn is the norm for this
 book: *brahina jajñānam iti kāṇḍaṁ, saptarcaṁ sūktaṁ prakṛtir, anyā
 vikṛtir ity avagachet*.⌋
-
-
+</details>
 </details>
 </div>

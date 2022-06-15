@@ -19,26 +19,23 @@ title = "०७१ अग्निः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/071_agniH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/071_agniH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used in Kāuś. (2. 10), in the parvan sacrifices, to accompany the carrying of fire thrice about the offering. In Vāit., it occurs in the agniṣṭoma (21. 15), and also in the agnicayana (28. 8), in the same circling with fire.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 27, 92; Griffith, i. 361.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/071_agniH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 In praise of Agni
 </details>
+</details>
 </div>
-
-
 ## ०१ परि त्वाग्ने
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/071_agniH/01_pari_tvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ In praise of Agni
 धृ॒षद् व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/071_agniH/01_pari_tvAgne.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/071_agniH/01_pari_tvAgne.md">
+<details open><summary><h3>०१ परि त्वाग्ने ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Thee, the devout ⌊*vípra*⌋, O Agni, powerful one, would we fain put  
 about us \[as\] a stronghold, \[thee\] of daring color, day by day,  
 slayer of the destructive one.
 
-#### Notes
+##### Notes
 The verse is RV. x. 87. 22, which has at the end the plural (*-vatām*);  
 further found in VS. (xi. 26) and MS. (ii. 7. 2), both of which agree  
 with RV., and in TS. (i. 5. 6⁴ et al.), which has for **d** *bhettā́ram  
@@ -77,12 +75,10 @@ means 'Found in Pāipp. xix., cited' \[from its previous occurrence in
 xvi., where, according to R's Collation for viii. 3. 22, the variants  
 are *sahasva* and *bhan̄gurāvatām*\]. R. in his Notes says expressly that  
 Ppp. too "has *vipram* for the correct *vapram*."⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/071_agniH/01_pari_tvAgne.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 We set thee round us as a fort, victorious Agni! thee a sage, Bold in thy colour day by day, destroyer of the treacherous foe.
+</details>
 </details>
 </div>

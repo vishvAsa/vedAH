@@ -19,26 +19,23 @@ title = "०७८ वन्दमोचनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/078_vandamochanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. Used in Kāuś. (32. 3) with 29 and other hymns of this book, in a remedial rite: see under 29. Also vs. 2 by itself (2. 41), with x. 6. 35, as substitute for xii. 1. 19-21, with laying on of fuel, in the parvan sacrifices; and in the ājyatantra (137. 30), with other verses, with strewing (of barhis); its second pāda is further found as first part of a verse given in full in 3. 1. In Vāit. (4. 11) it accompanies, with other verses, the untying of the sacrificer's wife in the parvan sacrifice.
 
 
-#### Translations
+##### Translations
 Translated: Henry, 31, 99; Griffith, i. 366.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/078_vandamochanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for a prince's prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ वि ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/01_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,14 +51,15 @@ A charm for a prince's prosperity
 इ॒हैव त्वमज॑स्र एध्यग्ने ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/078_vandamochanam/01_vi_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/01_vi_te.md">
+<details open><summary><h3>०१ वि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. I loosen off thy strap, off thy harness, off thy halter; be thou just  
 here, unfailing, O Agni.
 
-#### Notes
+##### Notes
 TS. (i. 6.4³) and MS. (i. 4. 1) have a verse corresponding to the first  
 part of this and the second half of the next following verse: the first  
 half reads thus: *ví te muñcāmi raśanā́* (MS. *-nāṁ*) *ví raśmī́n ví  
@@ -71,17 +69,13 @@ double explanation, regarding the verse as addressed either to Agni or
 to one vexed with disease; and he adds at the end that the sacrificer's  
 wife may also be regarded as addressed. The commentary to TS. views the  
 sticks of *paridhi* as intended by the harness etc.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/078_vandamochanam/01_vi_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I free thee from the cord, I loose the bond, I loose the fastening. Even here, perpetual, Agni, wax thou strong.
 </details>
+</details>
 </div>
-
-
 ## ०२ अस्मै क्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/02_asmai_xatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,28 +91,27 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 दी॒दि॒ह्य॑१स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/078_vandamochanam/02_asmai_xatrANi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/02_asmai_xatrANi.md">
+<details open><summary><h3>०२ अस्मै क्षत्राणि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Thee, O Agni, maintaining dominions for this man, I harness (*yuj*)  
 with the incantation of the gods; shine thou unto us here excellent  
 property; mayest thou proclaim this man as oblation-giver among the  
 deities.
 
-#### Notes
+##### Notes
 The second half-verse is given quite differently by TS. and MS. (as  
 above): thus, *dhattā́d asmā́su* (MS. *asmábhyaṁ*) *dráviṇaṁ yác ca* (MS.  
 *dráviṇe ’há*) *bhadrám prá ṇo* (MS. *mā*) *brūtād bhāgadhā́n* (MS.  
 *-dā́ṁ*) *devátāsu*. Ppp. makes **a** and **b** change places. The  
 *pada*-text analyzes in **c** *dráviṇā: ihá*, but probably the original  
 value was *-viṇam*, and this the translation assumes.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/078_vandamochanam/02_asmai_xatrANi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I with celestial prayer appoint thee, Agni, maintainer of this man in princely powers. Here brightly shine for us with wealth: declare thou to Gods this favoured giver of oblations.
+</details>
 </details>
 </div>

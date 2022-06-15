@@ -19,20 +19,15 @@ title = "००८ नक्षत्राणी"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emended in our text. It is possible, but not natural, to count in the verse 46 syllables, with the Anukr.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ यानि नक्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -48,29 +43,26 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 प्रक॑ल्पयंश्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/01_yAni_naxatrANi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/01_yAni_naxatrANi.md">
+<details open><summary><h3>०१ यानि नक्षत्राणि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. What asterisms are in the sky, in the atmosphere, in the waters, on  
 the earth, what ones in the mountains, in the quarters, what ones the  
 moon goes on preparing (*pra-kḷp*), let all those be propitious to me.
 
-#### Notes
+##### Notes
 The mss., and so SPP., have the incorrect accent *prákalpayan* in **c**;  
 it is emended in our text. It is possible, but not natural, to count in  
 the verse 46 syllables, with the Anukr.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/01_yAni_naxatrANi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Benign to me be all those Lunar Mansions to which the Moon as he moves on doth honour. All that are in the sky, the air, the waters, on earth, on moun- tains, in the heavenly regions.
 </details>
+</details>
 </div>
-
-
 ## ०२ अष्टाविंशानि शिवानि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -86,16 +78,17 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
+<details open><summary><h3>०२ अष्टाविंशानि शिवानि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let them of the series of twenty-eight, propitious, helpful, together  
 allot to me acquisition (*yóga*); I go forward to acquisition and  
 possession (*kṣéma*); I go forward to possession and acquisition; homage  
 be to day-and-night.
 
-#### Notes
+##### Notes
   
   
   
@@ -107,17 +100,13 @@ ms., *alabhya-*), and kṣema as *labdhavastuparipālana*, and the
 translation follows him. The verse (11 + 8: 8 + 8 + 8 = 43) is quite  
 improperly let pass as simply a *triṣṭubh*. ⌊As, for the twenty-eight,  
 see introduction to hymn 7.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Propitious, mighty, let the eight-and-twenty together deal me out my share of profit. Profit and wealth be mine, and wealth and profit! To Day and Night be adoration rendered!
 </details>
+</details>
 </div>
-
-
 ## ०३ स्वस्तितं मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -133,16 +122,17 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 सु॒हव॑मग्ने स्व॒स्त्य॑१मर्त्यं॑ ग॒त्वा पुन॒राया॑भि॒नन्द॑न्॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/03_svastitaM_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/03_svastitaM_me.md">
+<details open><summary><h3>०३ स्वस्तितं मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Be it for me well at sunset (?), well in early morning, well at  
 evening, well by day; be it for me well with beasts, well with birds;  
 with easy invocation, O Agni, having gone with well-being to a mortal,  
 come thou again enjoying.
 
-#### Notes
+##### Notes
 In **a** the translation follows our conjectural emendation of  
 *svástitam* (or *svastí tám*, or *svastítam*, as some of the mss.  
 variously read; the *pada*-mss. have *svastí: tám* or *svástitam;* ⌊one.  
@@ -159,17 +149,13 @@ imperfect, one reading simply *ā́*, the other perhaps *ā́yā* with the *y*
 erased; if the word is to be accepted at all, it should apparently be  
 *ā́: aya*. The repetition of *martya* in our text is doubtless too  
 daring, considering how unsatisfactory a result it yields after all.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/03_svastitaM_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fair be my sunset, fair my morn and evening and day with. lucky chase and happy omens; With blessing and success, immortal Agni, go to the mortal and. return rejoicing.
 </details>
+</details>
 </div>
-
-
 ## ०४ अनुहवं परिहवं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -185,14 +171,15 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 सर्वै॑र्मे रिक्तकु॒म्भान् परा॒ तान् स॑वितः सुव॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/04_anuhavaM_parihavaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/04_anuhavaM_parihavaM.md">
+<details open><summary><h3>०४ अनुहवं परिहवं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Detraction, evil gossip, reproach, sneezing about (?)—them, O  
 Savitar, drive (*suva*) away for me empty-handed (?), with all.
 
-#### Notes
+##### Notes
 The translation implies the text of the mss., which is also read by  
 SPP., in the second half-verse: *sárvāir me riktakuinbhā́n párā* ⌊most  
 mss. *parā* or *yarā*⌋ *tā́nt savitaḥ suva;* we might alter *sárvāis* to  
@@ -239,17 +226,13 @@ my note; and uccase = ucyase at xii. 4. 4.—For sneezing as an omen, see
 Henry C. Warren, On superstitious customs connected with sneezing, JAOS.  
 xiii. = PAOS. May, 1885, p. xvii-xx. He quotes Jātaka, ii., p. 15 ff.  
 etc., and Whitney adds JB. ii. 155.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/04_anuhavaM_parihavaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empty pitchers send into the distance, Savitar!
 </details>
+</details>
 </div>
-
-
 ## ०५ अपपापं परिक्षवं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -265,15 +248,16 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/05_apapApaM_parixavaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/05_apapApaM_parixavaM.md">
+<details open><summary><h3>०५ अपपापं परिक्षवं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. \[Drive\] away evil sneezing about; may we enjoy (*bhaj*) propitious  
 (*púṇya*) sneezing; let the evil-nosed jackal and *púṇyaga* urinate upon  
 \[it\] for thee.
 
-#### Notes
+##### Notes
 Part of the mss. read in **a, b** *parichavam* and *chavam:* \[see  
 note\* to vs. 4⌋. All the mss., and so SPP., have at the beginning  
 *apapāpám;* the comm., with us, *ápa pāpám*. Again, all the mss. and  
@@ -291,17 +275,13 @@ particular?⌋ it is impossible to see. The version given here lays no
 claim to being of any value. Ppp. reads *śivā te pāpanāśakā* (in this  
 word favoring the comm.) *ṣaṇṇagasyā ’bhimehataḥ*, which does not seem  
 to help us. The reading of the line in our edition is not to be praised.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/05_apapApaM_parixavaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostrils smelling what is pleasant pour forth fragrant scent.
 </details>
+</details>
 </div>
-
-
 ## ०६ इमा या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -317,15 +297,16 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/06_imA_yA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/06_imA_yA.md">
+<details open><summary><h3>०६ इमा या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. These (fem.), O Brahmaṇaspati, that go dispersing upon the wind—do  
 thou, O Indra, making them come together, make them most propitious for  
 me.
 
-#### Notes
+##### Notes
 The *pada*-mss. give in **b** *vā́taḥ* instead of *vā́te*, which latter is  
 evidently the true reading. The comm. also understands *vātas*, which  
 compels him to take *īrate* as = *īrte*, and to translate it as if  
@@ -339,17 +320,13 @@ verses, and the mss. and the comm. so number, it combines 6 and 7
 together into one verse as 8 + 8: 8 + 8: 11 + 9 = 52. ⌊Ppp. has, for  
 **b**, *viṣūcer vāca īyate*, and at end of **d** *-tamaṣ kṛdhi*. \*⌊No:  
 see p. 912, line 9.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/06_imA_yA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all hither, Indra, and make them most gracious unto, me.
 </details>
+</details>
 </div>
-
-
 ## ०७ स्वस्ति नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -363,21 +340,20 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/008_naxatrANI/07_svasti_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/07_svasti_no.md">
+<details open><summary><h3>०७ स्वस्ति नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Let well-being be ours; let fearlessness be ours; homage be to  
 day-and-night.
 
-#### Notes
+##### Notes
 The verse is wanting in Ppp.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/008_naxatrANI/07_svasti_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥७॥
+</details>
 </details>
 </div>

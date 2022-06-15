@@ -19,26 +19,23 @@ title = "०४५ आञ्जनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Prose in part, vss. 6-10.⌋ Found (except vs. 9) also in Pāipp. xv., next after our 44. The practical use is, according to the comm., the same with that of 44.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 301.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A curative and protective charm
 </details>
+</details>
 </div>
-
-
 ## ०१ ऋणादृणमिव संनयन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/01_RNAdRNamiva_saMnayan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A curative and protective charm
 चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणाञ्जन ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/01_RNAdRNamiva_saMnayan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/01_RNAdRNamiva_saMnayan.md">
+<details open><summary><h3>०१ ऋणादृणमिव संनयन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Bringing together witchcraft to the house of the witchcraft-maker, as  
 it were debt from debt, do thou, O ointment, crush in the ribs of the  
 hostile eye-conjurer.
 
-#### Notes
+##### Notes
 With the second half-verse compare ii. 7. 5 **c, d**. The first half  
 seems to mean "paying back or returning...as debt upon debt, or repeated  
 debt"; this is, except for the sense given to the ablative *ṛṇāt* (which  
@@ -77,17 +75,13 @@ translation above, as being a smaller alteration of the original than
 our emendation *sáṁ naya*, and at least equally acceptable in point of  
 sense. In **c** the comm. has the bad reading *cakṣur mitrasya*. Ppp.  
 ends **d** with *āñjanam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/01_RNAdRNamiva_saMnayan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! the cruel villain's ribs whose evil eye bewitches us.
 </details>
+</details>
 </div>
-
-
 ## ०२ यदस्मासु दुष्वप्न्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/02_yadasmAsu_duShvapnyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -103,15 +97,16 @@ As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! 
 अना॑मग॒स्तं च॑ दु॒र्हार्दः॑ प्रि॒यः प्रति॑ मुञ्चताम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/02_yadasmAsu_duShvapnyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/02_yadasmAsu_duShvapnyaM.md">
+<details open><summary><h3>०२ यदस्मासु दुष्वप्न्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. What evil-dreaming \[is\] in us, what in \[our\] kine, and what in  
 our house, also the...of one hostile, let him that is unfriendly take  
 upon himself (*prati-muc*).
 
-#### Notes
+##### Notes
 Both sense and meter require the emendation in **d** of *priyás* to  
 *ápriyas*, and the comm. has the latter, but all the authorities,\* and  
 Ppp. (*durhārdaṣ priya pra-*), and SPP. give the former. In **c**, the  
@@ -181,17 +176,13 @@ grammatical and not intolerable in the texts, and to be unparalleled
 (cf. *Noun-Inflection*, p. 472).⌋  
   
 ⌊☞ See p. 1046.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/02_yadasmAsu_duShvapnyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Whatever evil dream we have, what'er befall our kine or home, Be this that is salubrity, the evil-hearted's foe applied.
 </details>
+</details>
 </div>
-
-
 ## ०३ अपामूर्ज ओजसो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/03_apAmUrja_ojaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -207,31 +198,28 @@ Whatever evil dream we have, what'er befall our kine or home, Be this that is sa
 चतु॑र्वीरं पर्व॒तीयं॒ यदाञ्ज॑नं॒ दिशः॑ प्र॒दिशः॑ कर॒दिच्छि॒वास्ते॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/03_apAmUrja_ojaso.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/03_apAmUrja_ojaso.md">
+<details open><summary><h3>०३ अपामूर्ज ओजसो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Increasing from the force of the refreshment of the waters, born out  
 of Agni Jātavedas—may the ointment that is four-heroed, that is of the  
 mountains, make the quarters, the directions, propitious to thee.
 
-#### Notes
+##### Notes
 In **a**, *ūrjás* might, of course, be ablative, coördinate with  
 *ójasas;* the whole expression is too obscure to help the construction  
 by the sense. The comm. reads *ūrjam;* Ppp. combines *ūrjo ’jaso*, and  
 has in **c** *parvataṁ*. The Anukr. does not heed the redundant syllable  
 in **c**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/03_apAmUrja_ojaso.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Increasing from the Waters' strength and vigour, sprung into life from Agni Jatavedas, Strong as four heroes, mountain born, this Ointment make for thee quarters and mind-points auspicious!
 </details>
+</details>
 </div>
-
-
 ## ०४ चतुर्वीरं बध्यत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/04_chaturvIraM_badhyata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -247,15 +235,16 @@ Increasing from the Waters' strength and vigour, sprung into life from Agni Jata
 ध्रु॒वस्ति॑ष्ठासि सवि॒तेव॒ चार्य॑ इ॒मा विशो॑ अ॒भि ह॑रन्तु ते ब॒लिम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/04_chaturvIraM_badhyata.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/04_chaturvIraM_badhyata.md">
+<details open><summary><h3>०४ चतुर्वीरं बध्यत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. The four-heroed ointment is bound to thee; be all the quarters free  
 from fear for thee; firm shalt thou stand, like Savitar desirable; let  
 these people (*víśas*) render thee tribute.
 
-#### Notes
+##### Notes
 In **a, b** Ppp. combines *badhyatā ”ñj-, diśo ‘bhayās*. In **c**, the  
 mss. ⌊with one or two exceptions⌋ read *cāryà i-* (p. *ca: āryàḥ*); SPP.  
 alters the accent to *cā́rya* (p. *ca: ā́ryaḥ*); our emendation to  
@@ -269,17 +258,13 @@ reading *diśo bhriyante*. The comm. gives two explanations for the
 strange epithet *caturvīra*, showing that he is merely guessing what its  
 sense might possibly be. We have in **d** again an extra syllable of  
 which the Anukr. takes no notice.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/04_chaturvIraM_badhyata.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On thee is laid the Chaturvira Ointment: let all the regions give thee peace and safety. Secure like precious Savitar thou standest: to thee let all these regions bring their tribute.
 </details>
+</details>
 </div>
-
-
 ## ०५ आक्ष्वैकं मणिमेकं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/05_AxvaikaM_maNimekaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -295,15 +280,16 @@ On thee is laid the Chaturvira Ointment: let all the regions give thee peace and
 चतु॑र्वीरं नैरृ॒तेभ्य॑श्च॒तुर्भ्यो॒ ग्राह्या॑ ब॒न्धेभ्यः॒ परि॑ पात्व॒स्मान्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/05_AxvaikaM_maNimekaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/05_AxvaikaM_maNimekaM.md">
+<details open><summary><h3>०५ आक्ष्वैकं मणिमेकं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Use thou one as ointment; make one an amulet; bathe with one; drink  
 one of them; let the four-heroed one protect us about from the four  
 destructive bonds of seizure (*grā́hi*).
 
-#### Notes
+##### Notes
 All the mss.\* have at the beginning *ā́kṣva*, which the *pada*-text  
 leaves undivided; SPP. goes so far as to emend the latter to *ā́: akṣva*,  
 but is unwilling to follow us in reading *ā́ ’n̄kṣva*, although *akṣva* is  
@@ -334,17 +320,13 @@ oṣadhayaḥ!* and this compels him to change *pātu* to *pāntu*. The
 *pada*-mss. (except one of SPP's, p.m.) have *grā́hyā*, they also failing  
 to recognize the not uncommon noun *grā́hi;* SPP. makes the necessary  
 emendation to *-hyāḥ*. \*⌊But SPP's S^(m)., *ākṣvā́ikam*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/05_AxvaikaM_maNimekaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Make one thy salve, thine amulet another, drink one, and with another bathe thy body. So let the Chaturvira keep us guarded from the four bonds of Nirriti and Grahi.
 </details>
+</details>
 </div>
-
-
 ## ०६ अग्निर्माग्निनावतु प्राणायापानायायुषे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -358,15 +340,16 @@ Make one thy salve, thine amulet another, drink one, and with another bathe thy 
 अ॒ग्निर्मा॒ग्निना॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
+<details open><summary><h3>०६ अग्निर्माग्निनावतु प्राणायापानायायुषे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Let Agni favor (*av*) me with fire (? *agní*), in order to breath, to  
 expiration, to life-time, to splendor, to force, to brilliancy, to  
 well-being, to welfare: hail!
 
-#### Notes
+##### Notes
 The comm. is uncertain whether by the second *agni* (*agninā*) is meant  
 *agniīvadharmeṇa*, or *pāvakādiguṇakena svamūrtyaniareṇā ’gninā  
 sahitaḥ*. All the mss. accent *subhūtáye* here, ⌊but *súbhūtyā* at iii.  
@@ -385,17 +368,13 @@ breath etc. etc.
   
 {{smaller block\|The comm. gives a double interpretation of *indriya*.  
 Ppp. again has *mā indriy-*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/06_agnirmAgninAvatu_prANAyApAnAyAyuShe.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Agni protect me with fire for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
+</details>
 </div>
-
-
 ## ०७ इन्द्रो मेन्द्रियेणावतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -409,20 +388,18 @@ May Agni protect me with fire for inspiration and expiration, for strength, for 
 इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
+<details open><summary><h3>०७ इन्द्रो मेन्द्रियेणावतु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥७॥  
+इन्द्रो॑ मेन्द्रि॒येणा॑वतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥७॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/07_indro_mendriyeNAvatu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Indra protect me with his Indra-power for inspiration, etc.
 </details>
+</details>
 </div>
-
-
 ## ०८ सोमो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/08_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -436,27 +413,24 @@ May Indra protect me with his Indra-power for inspiration, etc.
 सोमो॑ मा॒ सौम्ये॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/08_somo_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/08_somo_mA.md">
+<details open><summary><h3>०८ सोमो मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Let Soma favor me with what is Soma's (*sāúmya*), in order to breath  
 etc. etc.
 
-#### Notes
+##### Notes
 The comm. explains *sāúmyena* as *somatvasampādakena dharmeṇa  
 jagadāpyāyanakāritvādidharmeṇa*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/08_somo_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Soma protect me with Soma-power, etc.
 </details>
+</details>
 </div>
-
-
 ## ०९ भगो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/09_bhago_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -470,27 +444,24 @@ May Soma protect me with Soma-power, etc.
 भगो॑ मा॒ भगे॑नावतु प्रा॒णाया॑पा॒नायायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/09_bhago_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/09_bhago_mA.md">
+<details open><summary><h3>०९ भगो मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Let Bhaga favor me with fortune (*bhága*), in order to breath etc.  
 etc.
 
-#### Notes
+##### Notes
 The comm. has here a lacuna, embracing the commentary to this verse and  
 the text of the next. ⌊The verse is wanting in Ppp., as noted above.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/09_bhago_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Bhaga with good fortune protect me, etc.
 </details>
+</details>
 </div>
-
-
 ## १० मरुतो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/045_Anjanam/10_maruto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -504,25 +475,24 @@ May Bhaga with good fortune protect me, etc.
 म॒रुतो॑ मा ग॒णैर॑वन्तु प्रा॒णाया॑पा॒नायु॑षे॒ वर्च॑स॒ ओज॑से॒ तेज॑से स्व॒स्तये॑ सुभू॒तये॒ स्वाहा॑ ॥१०॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/045_Anjanam/10_maruto_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/10_maruto_mA.md">
+<details open><summary><h3>१० मरुतो मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Let the Maruts favor me with troops, in order to breath etc. etc.
 
-#### Notes
+##### Notes
 Ppp. reads this time *suprabhūtaye*. It is possible to make out of these  
 prose "verses" the number of syllables demanded by the Anukr. Perhaps  
 the modification *nicṛt* belongs only to vss. 7-9 (the manuscripts are  
 discordant and unclear).  
   
 ⌊Here ends the fifth *anuvāka*, with 12 hymns and 74 verses.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/045_Anjanam/10_maruto_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May the Maruts protect me with their troops for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
+</details>
 </details>
 </div>

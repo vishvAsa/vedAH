@@ -19,24 +19,19 @@ title = "१३० स्मरः"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/130_smaraH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Hymns 130-132 are not found in Pāipp. Hymn 130 and the next two are used by Kāug. (36. 13-14) in a women's rite (duṣṭastrīvaśīkaraṇakarmaṇi, comm. and Keś.), with strewing of beans (comm. and Keś. read māṣān, not māṣasmarān), burning of arrow-tips, and ⌊comm. and Keś.⌋ piercing of an effigy.
 
 
-#### Translations
+##### Translations
 Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, i. 317; Bloomfield, 104, 534.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/130_smaraH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ रथजितां राथजितेयीनामप्सरसामयं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,15 +47,16 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayaM.md">
+<details open><summary><h3>०१ रथजितां राथजितेयीनामप्सरसामयं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Of the Apsarases, chariot-conquering, belonging to the  
 chariot-conquering, \[is\] this the love (*smará*): ye gods, send forth  
 love; let yon \[man\] burn for (*anu-śuc*) me.
 
-#### Notes
+##### Notes
 Our *pada*-mss. (and three of SPP's) make in a the absurd division  
 *rātha॰jite: yī́nām*, for which the comm. reads *rathājite dhīnām* (=  
 *rathena jetavye māṣākhye oṣadhi;* and *dhyānajananīmām*). The two terms  
@@ -71,17 +67,13 @@ nothing more is meant than to mark strongly the all-conquering power
 postulated for the Apsarases in this spell. Ludwig renders *smara* by  
 "love-charm." The comm., in spite of *priyas* in 2 **b** and *amuṣya* in  
 3 **b**, thinks it a woman whose love is sought.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This is the Apsarases' love-spell, the conquering, resistless ones'. Send the spell forth, ye Deities! Let him consume with love of me.
 </details>
+</details>
 </div>
-
-
 ## ०२ असौ मे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -97,14 +89,15 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/130_smaraH/02_asau_me.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/02_asau_me.md">
+<details open><summary><h3>०२ असौ मे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let yon \[man\] love (*smṛ*) me; being dear, let him love me: ye  
 gods, send etc. etc.
 
-#### Notes
+##### Notes
 At the end of pādas **a** and **b** is added *íti*, not translated; it  
 appears to indicate an expression of the purpose for which the gods are  
 to despatch love. The comm. combines vss. 2 and 3 into one verse, thus  
@@ -112,17 +105,13 @@ restoring the norm of the book; but the Anukr. calls the hymn one of
 four verses, and that is plainly its value in the present state of the  
 text. ⌊Here the comm., alternatively, allows that it may be a man whose  
 love is sought.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/130_smaraH/02_asau_me.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I pray, may he remember me, think of me, loving and beloved. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
+</details>
 </div>
-
-
 ## ०३ यथा मम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/03_yathA_mama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,27 +127,24 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/130_smaraH/03_yathA_mama.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/03_yathA_mama.md">
+<details open><summary><h3>०३ यथा मम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. That yon \[man\] may love me, not I him at any time, ye gods, send  
 etc. etc.
 
-#### Notes
+##### Notes
 SPP's *pada*-ttxt, probably by an oversight, leaves *amuṣya* unaccented;  
 the comm. undauntedly explains it by *amūṁ striyam*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/130_smaraH/03_yathA_mama.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That he may think of me, that I may never, never think of him,. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
+</details>
 </div>
-
-
 ## ०४ उन्मादयत मरुत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -174,21 +160,19 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/130_smaraH/04_unmAdayata_maruta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/04_unmAdayata_maruta.md">
+<details open><summary><h3>०४ उन्मादयत मरुत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Craze (*un-māday-*) \[him\], O Maruts; O atmosphere, craze \[him\]; O  
 Agni, do thou craze \[him\]; let yon \[man\] burn for me.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/130_smaraH/04_unmAdayata_maruta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni, madden him. Let him consume with love of me.
+</details>
 </details>
 </div>

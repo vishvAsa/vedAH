@@ -19,26 +19,23 @@ title = "०५७ जलचिकित्सा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/057_jalachikitsA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used by Kāuś. (31. 11) in a healing rite, while treating a bruise ⌊? akṣata: cf. Bloomfield, Introd. p. xliii⌋ with foam of urine; and vs. 3 is reckoned (9. 2) to the bṛhachānti gaṇa, and employed, with vi. 19 etc. (41. 14), in a rite for welfare.
 
 
-#### Translations
+##### Translations
 Translated: Griffith, i. 276; Bloomfield, 19, 488.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/057_jalachikitsA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm for a wound or bruise
 </details>
+</details>
 </div>
-
-
 ## ०१ इदमिद् वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamid_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,29 +51,26 @@ A charm for a wound or bruise
 येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/057_jalachikitsA/01_idamid_vA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/01_idamid_vA.md">
+<details open><summary><h3>०१ इदमिद् वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. This verily is a remedy; this is Rudra's remedy; wherewith one may  
 spell away (*apa-brū*) the one-shafted (*-téjana*), hundred-tipped  
 arrow.
 
-#### Notes
+##### Notes
 The comm. has at the end *upabruvat*. He regards the remedy as used  
 against the *vraṇaroga*, and the arrow of **c, d** as that of Mahadeva,  
 used *tripurasaṁhṛtisamaye*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/057_jalachikitsA/01_idamid_vA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the arrow off one-shafted, with a hundred tips.
 </details>
+</details>
 </div>
-
-
 ## ०२ जालाषेणाभि षिञ्चत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -92,30 +86,27 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 जा॒ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
+<details open><summary><h3>०२ जालाषेणाभि षिञ्चत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Pour ye on with the *jālāṣá;* pour in with the *jālāṣá;* the  
 *jālāṣá* is a formidable remedy; with it do thou be gracious to us, unto  
 life (*jīvás*).
 
-#### Notes
+##### Notes
 Ppp. has, for second half-verse, *jālāṣe bhadraṁ bheṣajaṁ tasyo no dehi  
 jīvase*, which is better. The comm. reads *jal-* in all three cases; and  
 it has the RV. form *mṛḻa* in **d**; it understands the foam of cows'  
 urine to be intended by *jalāṣa* ⌊See Bloomfield, AJP. xii. 425⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is the medicine: bless us therewith that we may live.
 </details>
+</details>
 </div>
-
-
 ## ०३ शं च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/03_shaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -131,15 +122,16 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/057_jalachikitsA/03_shaM_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/03_shaM_cha.md">
+<details open><summary><h3>०३ शं च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. \[Be there\] both weal for us and kindness (*máyas*) for us, and let  
 nothing whatever ail (*am*) us; down with \[our\] complaint (*rápas*)!  
 be every remedy ours; be all remedy ours.
 
-#### Notes
+##### Notes
 Pāda **b** and the first two words of our **c** occur at RV. x. 59. 8  
 **e, d**, 9 **f, e**, 10 **f, e**, where, however, we have *mó ṣú te*  
 instead of *mā́ ca nas*, and *dyāúḥ pṛthivi* before *kṣamā́ rápas*, making  
@@ -150,12 +142,10 @@ first pāda lacks a syllable ⌊unheeded by the Anukr.: read *śáṁ cā́stu
 no?*⌋ . ⌊The Anukr. scans as 7 + 8: 12 + 8: but perhaps the  
 "12-syllabled pāda" contains, as the RV. hints, the damaged remnants of  
 two (8 + 8).⌋ ⌊Ppp. omits our last pāda, *sárvam* etc.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/057_jalachikitsA/03_shaM_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let it be health and joy to us. Let nothing vex or injure us. Down with the wound! Let all to us be balm, the whole be medicine.
+</details>
 </details>
 </div>

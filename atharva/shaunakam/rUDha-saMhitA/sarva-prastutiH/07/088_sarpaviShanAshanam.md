@@ -19,26 +19,23 @@ title = "०८८ सर्पविषनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/088_sarpaviShanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 ⌊Prose.⌋ Found in Pāipp. xx., but so defaced as not to be comparable in detail. Used by Kāuś. (29. 6) in a healing rite against snake-poison, rubbing the bite with grass and flinging this out in the direction of the snake.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 511; Henry, 36, 106; Griffith, i. 373.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/088_sarpaviShanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to cure a snake-bite
 </details>
+</details>
 </div>
-
-
 ## ०१ अपेह्यरिरस्यरिर्वा असि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,27 +51,26 @@ A charm to cure a snake-bite
 अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
+<details open><summary><h3>०१ अपेह्यरिरस्यरिर्वा असि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Go away! enemy (*ári*) art thou; enemy verily art thou; in poison  
 hast thou mixed poison; poison verily hast thou mixed; go away straight  
 to the snake; smite that!
 
-#### Notes
+##### Notes
 It can be seen in Ppp. that the combination *arir vā ’si* is made.  
 Addressed to the poison (comm.), or to the wisp of grass that wipes it  
 off (Henry)—or otherwise. The "verse" (12: 14: 10 = 36) is *bṛhatī* only  
 in number of syllables. ⌊The comm. reads *abhyupehi*. He takes the  
 "that" to mean the snake. With regard to the auto-toxic action of  
 snake-venoms, see note to v. 13. 4.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Depart! thou art a foe, a foe. Poison with poison hast thou mixt, yea, verily poison hast thou mixt. Go to the serpent: strike him dead.
+</details>
 </details>
 </div>

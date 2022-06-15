@@ -19,22 +19,19 @@ title = "०३० सांमनस्यम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found in Pāipp. v. Reckoned in Kāuś. (12. 5), with various other passages, to the sāmmanasyāni, and used in a rite for concord; and the comm. regards it as included under the designation gaṇakarmāṇi in the upākarman (139. 7).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On the means to obtain immunity from taxation in the next world
 </details>
+</details>
 </div>
-
-
 ## ०१ सहृदयं सांमनस्यमविद्वेषं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAMmanasyamavidveShaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,29 +47,26 @@ On the means to obtain immunity from taxation in the next world
 अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/01_sahRdayaM_sAMmanasyamavidveShaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/01_sahRdayaM_sAMmanasyamavidveShaM.md">
+<details open><summary><h3>०१ सहृदयं सांमनस्यमविद्वेषं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Like-heartedness, like-mindedness, non-hostility do I make for you;  
 do ye show affection (*hary*) the one toward the other, as the  
 inviolable \[cow\] toward her calf when born.
 
-#### Notes
+##### Notes
 Ppp. has *sāmnasyam* in **a**, and in **c** *anyo ‘nyam*, as demanded by  
 the meter. The comm. also reads the latter, and for the former  
 *sāmmanuṣyam;* and he ends the verse with *aghnyās*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/01_sahRdayaM_sAMmanasyamavidveShaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Freedom from hate I bring to you, concord and unanimity. Love one another as the cow loveth the calf that she hath borne.
 </details>
+</details>
 </div>
-
-
 ## ०२ अनुव्रतः पितुः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -88,31 +82,28 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
+<details open><summary><h3>०२ अनुव्रतः पितुः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Be the son submissive to the father, like-minded with the mother; let  
 the wife to the husband speak words (*vā́c*) full of honey, wealful.
 
-#### Notes
+##### Notes
 The translation implies at the end *śaṁtivā́m* ⌊BR. vii. 60⌋, which SPP.  
 admits as emendation into his text, it being plainly called for by the  
 sense, and read by the comm. (and by SPP's oral reciter K, who follows  
 the coram.); this ⌊not *śaṁtivā́m*⌋ is given also by Ppp. (cf. xii. 1.  
 59, where the word occurs again). The comm. further has in **b** *mātā́*  
 (two of SPP's reciters agreeing with him).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 One-minded with his mother let the son be loyal to his sire. Let the wife, calm and gentle, speak words sweet as honey to her lord.
 </details>
+</details>
 </div>
-
-
 ## ०३ मा भ्राता
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -128,28 +119,25 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/03_mA_bhrAtA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
+<details open><summary><h3>०३ मा भ्राता ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let not brother hate brother, nor sister sister; becoming accordant  
 (*samyáñc*), of like courses, speak ye words auspiciously (*bhadráyā*).
 
-#### Notes
+##### Notes
 The comm. reads *dviṣyāt* in **a**. The majority of SPP's *pada*-mss.  
 give *sá॰vratā* (instead of *-tāḥ*) in **c**. The comm. further reads  
 *vadatu* in **d**, explaining it to mean *vadantu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/03_mA_bhrAtA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 No brother hate his brother, no sister to sister be unkind. Unanimous, with one intent, speak ye your speech in friend- liness.
 </details>
+</details>
 </div>
-
-
 ## ०४ येन देवा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -165,29 +153,26 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 तत् कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/04_yena_devA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/04_yena_devA.md">
+<details open><summary><h3>०४ येन देवा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. That incantation in virtue of which the gods do not go apart, nor  
 hate one another mutually, we perform in your house, concord for  
 \[your\] men (*púruṣa*).
 
-#### Notes
+##### Notes
 Weber suggests that "gods" here perhaps means "Brāhmans," but there is  
 no authority nor occasion for such an understanding; the comm. also says  
 "Indra etc."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/04_yena_devA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That spell through which Gods sever not, nor ever bear each other hate, That spell we lay upon your home, a bond of union for the men.
 </details>
+</details>
 </div>
-
-
 ## ०५ ज्यायस्वन्तश्चित्तिनो मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -203,16 +188,17 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न् वः॒ संम॑नसस्कृणोमि ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
+<details open><summary><h3>०५ ज्यायस्वन्तश्चित्तिनो मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Having superiors (*jyā́yasvant*), intentful, be ye not divided,  
 accomplishing together, moving on with joint labor (*sádhura*); come  
 hither speaking what is agreeable one to another; I make you united  
 (*sadhrīcī́na*), like-minded.
 
-#### Notes
+##### Notes
 Ppp. reads *sudhirās* in **b**, combines *anyo ‘nyasmāi* (as does the  
 comm., and as the meter requires) in **c**, and inserts *samagrāstha*  
 before *sadhrīcīnān* in **d**; the comm. further has *āita* for *eta* in  
@@ -226,17 +212,13 @@ intents or plans.' The verse (11 + 11: 12 + 12 = 46) is ill defined by
 the Anukr., as even the redundant syllable in **d** gives no proper  
 *jagatī* character to the pāda. ⌊Reject *vaḥ* or else read *sadhrī́co?*  
 thus we get an orderly *triṣṭubh*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Intelligent, submissive, rest united, friendly and kind, bearing the yoke together. Come, speaking sweetly each one to the other. I make you one- intentioned and one-minded.
 </details>
+</details>
 </div>
-
-
 ## ०६ समानी प्रपा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -252,31 +234,28 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/06_samAnI_prapA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/06_samAnI_prapA.md">
+<details open><summary><h3>०६ समानी प्रपा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Your drinking (*prapā́*) \[be\] the same, in common your share of  
 food; in the same harness (*yóktra*) do I join ⌊*yuj*⌋ you together;  
 worship ye Agni united, like spokes about a nave.
 
-#### Notes
+##### Notes
 The comm. explains *prapā* as "drinking saloon" (*pānīyaśālā*). Two of  
 our mss. (P.M.) read at the beginning *samānī́ṁ*. ⌊To reproduce (as W.  
 usually does) the radical connection (here between *yóktra* and *yuj*),  
 we may render 'do I harness you.' The Anukr. seems to scan 12 + 11: 9 +  
 8 = 40; the vs. is of course 11 + 11: 8 + 8.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/06_samAnI_prapA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let what you drink, your share of food be common together, with one common bond I bid you. Serve Agni, gathered round him like the spokes about the chariot nave.
 </details>
+</details>
 </div>
-
-
 ## ०७ सध्रीचीनान् वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAn_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -292,15 +271,16 @@ Let what you drink, your share of food be common together, with one common bond 
 दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥७॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/03/030_sAMmanasyam/07_sadhrIchInAn_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/07_sadhrIchInAn_vaH.md">
+<details open><summary><h3>०७ सध्रीचीनान् वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. United, like-minded I make you, of one bunch, all of you, by \[my\]  
 conciliation; \[be\] like the gods defending immortality (*amṛ́ta*); late  
 and early be well-willing yours.
 
-#### Notes
+##### Notes
 We had the first pāda above as vs. 5 **d**; emendation to *sadhrī́cas*  
 would rectify the meter; the Anukr. takes no note of the metrical  
 irregularity; it is only by bad scanning that he makes out any  
@@ -311,12 +291,10 @@ vyāpanam ekavidhasyā ’nnasya bhuktiṁ vā*); part of our mss. also
 (Bp.E.H.Op.) read clearly *-śn-*, while others are corrupt, and some  
 have plainly *-śr-*: cf. the note to 17. 2 above. Ppp. has at the end  
 *susamitir vo ’stu*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/03/030_sAMmanasyam/07_sadhrIchInAn_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With binding charm I make you all united, obeying one sole leader and one-minded. Even as the Gods who watch and guard the Amrit, at morn and eve may ye be kindly-hearted.
+</details>
 </details>
 </div>

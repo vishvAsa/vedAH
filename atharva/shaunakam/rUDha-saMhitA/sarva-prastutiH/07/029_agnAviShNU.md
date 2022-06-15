@@ -19,26 +19,23 @@ title = "०२९ अग्नाविष्णू"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/029_agnAviShNU/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xx. (in inverse order of verses); and, as connected passage, further in TS. (i. 8. 221) and śśS. (ii. 4. 3). Used by Kāuś. (32. 3), with hymns 42, 46, 78, 112, in a remedial rite for various diseases, with binding of grass on the joints; and also (59. 19) with 17 etc.: see 17. In Vāit. (8. 1), it accompanies an offering to Agni and Vishnu at the beginning of the parvan ceremony. ⌊Whitney seems to doubt whether the Anukr. does not mean to ascribe this hymn (and 27, 28) to Bhṛgvan̄giras.⌋
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 374; Henry, 12, 65; Griffith, i. 341.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/029_agnAviShNU/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Agni and Vishnu
 </details>
+</details>
 </div>
-
-
 ## ०१ अग्नाविष्णू महि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ To Agni and Vishnu
 दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात्॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
+<details open><summary><h3>०१ अग्नाविष्णू महि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O Agni-and-Vishnu, great \[is\] that greatness of yours; ye drink of  
 the ghee that is called secret, assuming seven treasures in each house;  
 may your tongue move on to meet the ghee.
 
-#### Notes
+##### Notes
 TS. has, in **b**, the imperative *vītám*, and śśS. *pātam*, and both  
 *gúhyāni*, which makes of *nā́ma* an accus. pl.; at the end, TS. has  
 *caraṇyet*, and śśS. *-ṇyat;* and both *dádhānā* at end of **c**: śśS.  
@@ -78,17 +76,13 @@ ending with *caraṇyat*). With **b** compare further RV. iv. 58. 1 **c**,
 and with **c** RV. v. 1. 5 ⌊**c** and vi. 74. 1 **c**⌋. Ppp. exchanges  
 the place of 1 **b** and 2 **b**, and reads in the former (like śśS.)  
 *pātam* and *guhyāni* see my addition to note to vs. 2⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic butter. Placing in every home seven costly treasures. Let your tongue stretch to take the offered fatness.
 </details>
+</details>
 </div>
-
-
 ## ०२ अग्नाविष्णू महि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,15 +98,16 @@ This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic
 दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात्॥२॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
+<details open><summary><h3>०२ अग्नाविष्णू महि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O Agni-and-Vishṇu, great \[is\] your dear domain (*dhā́man*); ye  
 partake of (*vī*) the ghee, enjoying secret things, increasing by good  
 praise in each house; may your tongue move up to meet the ghee.
 
-#### Notes
+##### Notes
 For the exchanges of pādas in the other texts, see under the preceding  
 verse; for this verse we have here further AśS. (ii. 8. 3), without such  
 exchange. In the material corresponding to our 2, all the other texts  
@@ -129,12 +124,10 @@ the "exchange of pādas 1 **b** and 2 **b**," seems to mean that the Ppp.
 reading is as follows: *agnāviṣṇū mahi dhāma priyaṁ vāṁ pātaṁ ghṛtasya  
 guhyāni nāma: dame-dame* etc.; and then, *agnāviṣṇu mahi tad vāṁ  
 mahitvaṁ pātaṁ ghṛtasya guhyā juṣāṇaḥ: dame-dame* etc.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Ye love the great law, Agni Vishnu! joying, ye feast on mystic essences of butter, Exalted in each house with fair laudation. Let your tongue stretch to take the offered fatness.
+</details>
 </details>
 </div>

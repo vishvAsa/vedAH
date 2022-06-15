@@ -19,22 +19,19 @@ title = "०२४ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Ppp. reads: śarabhaka ṣeraśabha punar bho yānti yādavaṣ punar hatiṣ kimīdinaḥ yasya stha dam atta yo va prāhī tam uttam māsāṅsa manyatā. The comm. in the last phrase gives sā instead of svā and has much trouble to fabricate an explanation for it (as = tasya, or else for sā hetiḥ). śerabhaka he takes as either sukhasya prāpaka or śarabhavat sarveṣām hiṅsaka, but is confident that it designates a "chief of yātudhānas." Of the refrain, the first part seems metrical, and the second prose, in three phrases; and it may be counted as 8 + 8: 6 + 7 + 5 (or 7) = 34 (or 36): the prefixed names add 7 syllables (vss. 1, 2), or 5 (vss. 3, 4), or 3 (vss. 6-8), or 2 (vs. 5). ⌊Bloomfield comments on áhāit and the like, ZDMG. xlviii. 577.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm against the magic arts of fiends
 </details>
+</details>
 </div>
-
-
 ## ०१ शेरभक शेरभ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,15 +47,16 @@ A charm against the magic arts of fiends
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
+<details open><summary><h3>०१ शेरभक शेरभ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. O *śerabhaka, śerabha!* back again let your familiar demons go; back  
 again your missile, ye *kimīdíns!* whose ye are, him eat ye; who hath  
 sent you forth, him eat ye; eat your own flesh.
 
-#### Notes
+##### Notes
 Ppp. reads: *śarabhaka ṣeraśabha punar bho yānti yādavaṣ punar hatiṣ  
 kimīdinaḥ yasya stha dam atta yo va prāhī tam uttam māsāṅsa manyatā.*  
 The comm. in the last phrase gives *sā* instead of *svā* and has much  
@@ -70,17 +68,13 @@ and the second prose, in three phrases; and it may be counted as 8 + 8:
 6 + 7 + 5 (or 7) = 34 (or 36): the prefixed names add 7 syllables (vss.  
 1, 2), or 5 (vss. 3, 4), or 3 (vss. 6-8), or 2 (vs. 5). ⌊Bloomfield  
 comments on *áhāit* and the like, ZDMG. xlviii. 577.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your weapon fall. Eat your possessor; eat ye him who sent you forth;
 </details>
+</details>
 </div>
-
-
 ## ०२ शेवृधक शेवृध
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -96,25 +90,21 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 यस्य॒ स्थ तम॑त्त॒ यो वः प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
+<details open><summary><h3>०२ शेवृधक शेवृध ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. O *śevṛdhaka, śévṛdha!* back again let your familiar etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let your weapon fall, etc.
 </details>
+</details>
 </div>
-
-
 ## ०३ म्रोकानुम्रोक पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -130,25 +120,21 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
+<details open><summary><h3>०३ म्रोकानुम्रोक पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. O *mroká, anumroka!* back again let your familiar etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your weapon fall, etc.
 </details>
+</details>
 </div>
-
-
 ## ०४ सर्पानुसर्प पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -164,25 +150,21 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
+<details open><summary><h3>०४ सर्पानुसर्प पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. O *sarpá, anusarpa!* back again let your familiar etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let your weapon fall, etc.
 </details>
+</details>
 </div>
-
-
 ## ०५ जूर्णि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -198,26 +180,22 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
+<details open><summary><h3>०५ जूर्णि पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. O *júrṇī!* back again let your familiar demons go; back again your  
 missile, ye she-*kimīdíns;* whose ye are etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </details>
+</details>
 </div>
-
-
 ## ०६ उपब्दे पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -233,25 +211,21 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/06_upabde_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/06_upabde_punarvo.md">
+<details open><summary><h3>०६ उपब्दे पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. O *upabdi!* back again let your familiar etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/06_upabde_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 </details>
+</details>
 </div>
-
-
 ## ०७ अर्जुनि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -267,25 +241,21 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/07_arjuni_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
+<details open><summary><h3>०७ अर्जुनि पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. O *árjunī!* back again let your familiar etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/07_arjuni_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 </details>
+</details>
 </div>
-
-
 ## ०८ भरूजि पुनर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -301,13 +271,14 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/024_shatrunAshanam/08_bharUji_punarvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
+<details open><summary><h3>०८ भरूजि पुनर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. O *bharūjī!* back again. let your familiar etc. etc.
 
-#### Notes
+##### Notes
 To represent all these verses, we find in Ppp. *śevṛka śevṛdha sarpān  
 sarpa mrokān mro jyarṇyatro jarjūnvapaprado punar vo yanti yādavaḥ:  
 punar jūtiṣ kimīdinaḥ yasya stha dam atta yo na prāhi tam utvas sā  
@@ -319,12 +290,10 @@ roots *bhṛ* and *añc* ("going to take away the body"). ⌊In the first
 draft, W. notes that the four feminine names of vss. 5-8 might be  
 combined to one *triṣṭubh* pāda, which with the common refrain would  
 give us the normal five "verses."⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/024_shatrunAshanam/08_bharUji_punarvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Back, O, Bharuji! fall your charms, your weapon, ye Kimidinis. Eat your possessor; eat ye him who sent you forth; eat your own flesh.
+</details>
 </details>
 </div>

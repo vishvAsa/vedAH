@@ -19,26 +19,23 @@ title = "०१४ अभयम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/014_abhayam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 This hymn is not found in Pāipp. It and the one following are included in the abhaya gaṇa (note to Kāuś. 16. 8).
 
 
-#### Translations
+##### Translations
 Translated: Griffith, ii. 274. Griffith calls it a "hymn after victory" and refers tvā to the conquered enemy.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/014_abhayam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A hymn after victory
 </details>
+</details>
 </div>
-
-
 ## ०१ इदमुच्छ्रेयोऽवसानमागां शिवे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/014_abhayam/01_idamuchChreyo_avasAnamAgAM_shive.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A hymn after victory
 अ॒स॒प॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/19/014_abhayam/01_idamuchChreyo_avasAnamAgAM_shive.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/01_idamuchChreyo_avasAnamAgAM_shive.md">
+<details open><summary><h3>०१ इदमुच्छ्रेयोऽवसानमागां शिवे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Here have I come up to a better stop (*avasā́na*); heaven-and-earth  
 have been propitious to me; let the directions be for me free from  
 rivals; we verily hate thee not; be there fearlessness for us.
 
-#### Notes
+##### Notes
 The mss. read in **a** *uchréyas* (p. *ut॰śréyaḥ*); very possibly the  
 true reading would be *u śréyas*. The *pada*-text fail to divide  
 *avasā́nam* (it should be *ava॰sā́nam*, and this SPP. reads by  
@@ -71,12 +69,10 @@ at the end *no ‘stu*. Āp. vi. 29. 1 has a corresponding passage: *idaṁ
 śreyo ‘vasanaṁ yad āgāṁ syone me dyāvāpṛthivī abhūtām: anamīvāḥ pradīśaḥ  
 santu makyam: gomad...svāhe ’ty avasite juhoti:* cf. also Āp. xiii. 25.  
 3.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/19/014_abhayam/01_idamuchChreyo_avasAnamAgAM_shive.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I have attained this goodliest place to rest in. Both Heaven and, Earth have shown me grace and favour. Without a foe for me be all the regions! We hate thee not. May we have peace and safety.
+</details>
 </details>
 </div>

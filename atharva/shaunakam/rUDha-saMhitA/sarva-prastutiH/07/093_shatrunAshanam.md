@@ -19,24 +19,19 @@ title = "०९३ शत्रुनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/093_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/093_shatrunAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Wanting in Pāipp. Not employed by Kāuś., except as by the comm. declared to be joined with 91 and 92 in 59. 7 (see under 91).
 
 
-#### Translations
+##### Translations
 Translated: Henry, 38, 108; Griffith, i. 374.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/093_shatrunAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ इन्द्रेण मन्युना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/093_shatrunAshanam/01_indreNa_manyunA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
+<details open><summary><h3>०१ इन्द्रेण मन्युना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. With Indra, with fury may we overcome them that play the foe, smiting  
 Vritras irresistibly.
 
-#### Notes
+##### Notes
 The verse is found also in TS. iii. 5. 3² and MS. i. 3. 12. TS. reads  
 *sayújas* for *manyúnā*, and *sāsahyā́ma* for *abhí syāma;* *syāma* for  
 *vayám*, *áva bādhe* for *abhi syāma*, and *ghnatā́* for *ghnántas*. Most  
@@ -67,12 +63,10 @@ of the *saṁhitā*-mss. give *ṣyāma* (our W.O., and two fifths of SPP's
 authorities, *sy-*), and both printed texts read it; but the Prāt. (ii.  
 107) expressly requires *syāma*, and that accordingly should be the  
 accepted text. ⌊In **c**, rather, 'smiting adversaries'?⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/093_shatrunAshanam/01_indreNa_manyunA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destroying foes.
+</details>
 </details>
 </div>

@@ -2,12 +2,9 @@
 title = "+१७"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/17/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/_index.md">
+<details open><summary><h2>Prayer to the Sun, identified with Indra and with Vishṇu. ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XVII.
 
@@ -80,7 +77,6 @@ are *jagatī* in count and cadence. We might call them *paritta*-vents,
 charms for defense and protection; they show various derivatives of the
 roots *vṛ* and *gup*, and references to Kaśyapa (see note to iv. 20.
 7).⌋
-
-
+</details>
 </details>
 </div>

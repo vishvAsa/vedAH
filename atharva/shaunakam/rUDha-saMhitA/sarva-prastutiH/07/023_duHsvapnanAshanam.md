@@ -19,26 +19,23 @@ title = "०२३ दुःस्वप्ननाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/023_duHsvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The hymn is merely a repetition of iv. 17. 5 above, and is not found in Pāipp. otherwise than as part of the latter hymn. It is used neither by Kāuś. nor by Vāit. ⌊As to its insertion in the second anuvāka, see p. 389, near top.⌋
 
 
-#### Translations
+##### Translations
 Translated: Henry, 9, 62; Griffith, i. 338.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/023_duHsvapnanAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to banish fiends and troubles
 </details>
+</details>
 </div>
-
-
 ## ०१ दौष्वप्न्यं दौर्जीवित्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,21 +51,19 @@ A charm to banish fiends and troubles
 दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityaM.md">
+<details open><summary><h3>०१ दौष्वप्न्यं दौर्जीवित्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Evil-dreaming, evil-living, demon, monster, hags, all the ill-named  
 (f.), ill-voiced—them we make disappear from us.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The fearful dream, and indigence, the monster, the malignant hags. All female fiends of evil name and wicked tongue we drive afar.
+</details>
 </details>
 </div>

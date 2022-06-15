@@ -19,24 +19,19 @@ title = "०९२ वाजी"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/092_vAjI/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Applied by Kāuś. (41. 21) in a rite for the success of a horse; and by Vāit. (36. 18) in the aśvamedha, as the sacrificial horse is tied.
 
 
-#### Translations
+##### Translations
 Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/092_vAjI/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ वातरम्हा भव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaramhA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,33 +47,30 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा॑ प॒त्सु ज॒वं द॑धातु ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/092_vAjI/01_vAtaramhA_bhava.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/01_vAtaramhA_bhava.md">
+<details open><summary><h3>०१ वातरम्हा भव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Be thou, O steed (*vājín*), of wind-swiftness, being harnessed  
 (*yuj*) go in Indra's impulse, with mind-quickness; let the  
 all-possessing Maruts harness thee; let Tvashṭar put quickness in thy  
 feet.
 
-#### Notes
+##### Notes
 The verse is also VS. ix. 8, where, for **b**, is read *índrasye ’va  
 dákṣiṇaḥ śriyāt ’dhi*. Ppp. puts *bhava* after *vājin* in **a**, and  
 reads *dāivyasya* for *viśvavedasas* in **c**. The comm. gives an  
 alternative explanation of *viśvavedas*, as often of its near equivalent  
 *jātavedas: viśvadhanaḥ sarvagocarajñāno vā*. The Anukr., as often,  
 takes no note of the *triṣṭubh* pāda **d**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/092_vAjI/01_vAtaramhA_bhava.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as thought at lndra's sending. Let the possessors of all wealth, the Maruts, yoke thee, and Tvashtar in thy feet lay swiftness.
 </details>
+</details>
 </div>
-
-
 ## ०२ जवस्ते अर्वन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -94,15 +86,16 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 तेन॒ त्वं वा॑जि॒न् बल॑वा॒न् बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/092_vAjI/02_javaste_arvan.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/02_javaste_arvan.md">
+<details open><summary><h3>०२ जवस्ते अर्वन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The quickness, O courser, that is put in thee in secret, also that  
 went about committed to the hawk, to the wind—with that strength do  
 thou, O steed, being strong, win the race, rescuing in the conflict.
 
-#### Notes
+##### Notes
 This verse also is found in VS. (ix. 9 a), with considerable variants:  
 at the beginning, *javó yás te vājin;* for **b**, *śyené páritto ácarac  
 ca vā́te;* in **c**, *nas* for *tvám;* for **d**, *vājajíc ca bháva  
@@ -112,17 +105,13 @@ reading among our mss. The Anukr. ignores the irregularity of this
 verse and of vs. 3. ⌊The vs. is discussed by Bloomfield, JAOS. xvi. 17,  
 or *Festgruss an Roth*, p. 154. For **d**, see Pischel, *Ved. Stud.*,  
 ii. 314, and Baunack, KZ. xxxv. 516.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/092_vAjI/02_javaste_arvan.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 That speed, that lies concealed in thee, O Charger, speed granted to the hawk or wind that wandered, Therewith, Strong Steed, saving in shock of battle endowed with might by might win thou the contest.
 </details>
+</details>
 </div>
-
-
 ## ०३ तनूष्टे वाजिन्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -138,15 +127,16 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वीऽव ज्योतिः॒ स्वमा मि॑मीयात्॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/092_vAjI/03_tanUShTe_vAjin.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/03_tanUShTe_vAjin.md">
+<details open><summary><h3>०३ तनूष्टे वाजिन् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let thy body, O steed, conducting a body, run pleasance (*vāmá*) for  
 us, protection for thyself; uninjured, great, a god for maintaining, may  
 he set up his own light in the sky, as it were.
 
-#### Notes
+##### Notes
 This is translated literally according to the AV. text, although  
 comparison with the corresponding RV. verse (x. 56. 2) shows that its  
 readings are in part pure corruptions. So, in **b**, RV. makes ⌊the  
@@ -161,12 +151,10 @@ The comm. understands *tanvàm* in **a** of a rider: *ārūḍhasya sādinaḥ
   
 The ninth *anuvāka*, of 10 hymns and 32 verses, ends here; the old  
 Anukr. is thus quoted: *dvyadhikāv apacit*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/092_vAjI/03_tanUShTe_vAjin.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bearing thy body, Charger, may thy body run blessing us and winning thee protection. May he, unswerving, to uphold the mighty, stablish his lustre as a God in heaven.
+</details>
 </details>
 </div>

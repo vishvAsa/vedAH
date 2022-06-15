@@ -27,22 +27,19 @@ title = "००४ पितृमेधः"
 [Atharvan,—ekonanavati.1 yamadevatyam mantroktabahtidevatyaṁ ca (81. pitṛdevatyam;2 88. āgneyī; 89. cāndramasī). trāiṣṭubham: 1, 4, 7, 14, 36, 60. bhurij; 2, 5, 11, 29, 50, 51, 58. jagatī; 3. 5-p. bhurig atijagatī; 6, 9, 13. 5-p. śakvarī (9. bhurij; 13. 3-av.); 8. 5-p. atiśakvarī; 12. mahābṛhatī; 16-24. 3-p. bhurin̄ mahābṛhatī; 26, 33, [43]. upariṣṭādbṛhatī3 (26. virāj); 27. yājuṣī gāyatrī; [25], 31, 32, 38, 41, 42, 55-57, 59, 61. anuṣṭubh3 (56. kakummatī); 39, 62, 63. āstārapan̄kti (39. purovirāj; 62. bhurij; 63. svarāj); 49. anuṣṭubgarbhā triṣṭubh; 53. purovirāṭ sataḥpan̄kti; 66. 3-p. svarāḍ gāyatrī; 67. 2-p. ārcy anuṣṭubh; 68, 71. āsury anuṣṭubh; 72-74, 79. āsurī pan̄kti; 75. āsurī gāyatrī; 76. āsury uṣṇih; 77. dāivī jagatī; 78. āsuri triṣṭubh; 80. āsurī jagatī; 81. prājāpatyā ’nuṣṭubh; 82. sāmnī bṛhatī; 83, 84. sāmnī triṣṭubh; 83. āsurī bṛhatī (67-68, 71-86. 1-av.)4; 86, 87. 4-p. uṣṇih (86. kakummatī; 87. śan̄kumatī); 88. 3-av. pathyāpan̄kti; 89. 3-p. pathyāpan̄kti.]
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The translation implies emendation in a to jātavedasas, though all the mss., and hence both editions, read jātáv-; all, also, accent in c havyavā́has, and SPP. has that in his text; our edition makes the obviously necessary emendation to -vāhás ⌊cf. the opposite error in vs. 10⌋. All our saṁhita-mss. ⌊see Prāt. i. 94, note⌋ make in c the false combination ávāḍh ḍh-; SPP. says nothing of his, and both editions have correctly ávāḍ ḍh-. Our O.Op.R., and one of SPP's mss., read in c iṣitā́; the comm. also has it, explaining it with iṣitāny iṣṭāni. The comm. also understands jātavedasas as vocative (probably, after his manner, simply disregarding the accent); he explains janitrīm as svotpādikām araṇim; and the Kāuś. (80. 23) takes the same view: iti pṛthaś araṇīṣv agnīn samāropayanti; but its correctness as original sense of the verse may be strongly questioned. The comm. explains ā rohata by śaktyātmanā praviśata; and describes the samāropaṇa as taking place "because of the absence of any further ceremonies to be performed by him, being now dead, by help of the fires." In the comm's viniyoga he says simply araṇidvayam agnāu pratāpayet. All this is in the case of a person who has died away from home. But vss. 1-15 are also used nearly at the end of the cremation ceremony (Kāuś. 81. 45), with the direction ity āhitāgnim (Keś. adds upatiṣṭhate), ⌊and the comm. fills out the direction thus: citistham āhitāgnim pretam upatiṣṭheta⌋. The verse, as a triṣṭubh, is redundant by a syllable ⌊in a, which is thus a good jagatī-pāda: and also by one in d, which, however, by reason of its triṣṭubh cadence, is neither one thing nor the other⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A funeral hymn, composed partly of verses from the Rigveda
 </details>
+</details>
 </div>
-
-
 ## ०१ आ रोहत
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/01_A_rohata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -58,16 +55,17 @@ A funeral hymn, composed partly of verses from the Rigveda
 अवा॑ड्ढ॒व्येषि॒तो ह॑व्य॒वाह ईजा॒नं यु॒क्ताः सु॒कृतां॑ धत्त लो॒के॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/01_A_rohata.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/01_A_rohata.md">
+<details open><summary><h3>०१ आ रोहत ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Ascend to \[your\] generatrix, ye Jātavedases; by \[roads\] that the  
 Fathers travel I make you ascend together; the offering-carrier, sent  
 out, hath carried the offerings; united (*yuktá*), set ye him who hath  
 sacrificed in the world of the well-doing.
 
-#### Notes
+##### Notes
 The translation implies emendation in **a** to *jātavedasas*, though all  
 the mss., and hence both editions, read *jātáv-*; all, also, accent in  
 **c** *havyavā́has*, and SPP. has that in his text; our edition makes the  
@@ -93,17 +91,13 @@ ceremony (Kāuś. 81. 45), with the direction *ity āhitāgnim* (Keś. adds
 by a syllable ⌊in **a**, which is thus a good *jagatī*-pāda: and also by  
 one in **d**, which, however, by reason of its *triṣṭubh* cadence, is  
 neither one thing nor the other⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/01_A_rohata.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Rise to your mother, flames of Jatavedas! I send you up by paths which Fathers traverse. With headlong speed the Oblation bearer bore our gifts: toil ye, and place the offerer where the righteous dwell.
 </details>
+</details>
 </div>
-
-
 ## ०२ देवा यज्ञमृतवः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/02_devA_yajnamRtavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -119,33 +113,30 @@ Rise to your mother, flames of Jatavedas! I send you up by paths which Fathers t
 तेभि॑र्याहि प॒थिभि॑र्देव॒यानै॒र्यैरी॑जा॒नाः स्व॒र्गं यन्ति॑ लो॒कम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/02_devA_yajnamRtavaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/02_devA_yajnamRtavaH.md">
+<details open><summary><h3>०२ देवा यज्ञमृतवः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. The gods, the seasons, arrange the sacrifice, the oblation, the  
 sacrificial cake, the ladles (*srúc*), the implements (*-ā́yudha*) of  
 sacrifice; with them go thou by roads that the gods travel, by which  
 they that have sacrificed go to the heavenly (*svargá*) world.
 
-#### Notes
+##### Notes
 The word *srucás* in **b** is shown by the meter to be probably an  
 intrusion, and it is superfluous as regards the sense. ⌊The excision of  
 *havís* would give a better cesura.⌋ The verse is, of course, in no way  
 a real *jagatī*. Kāuś. (81. 10) directs it to be used as a sacrificial  
 cake is laid on the breast of the corpse on the funeral pile; the comm.  
 takes no notice of this.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/02_devA_yajnamRtavaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Seasons, Deities, form and order Worship, butter, cake, ladles, sacrificial weapons. Tread thou God-travelled paths whereby the righteous, payers of sacrifices, go to Svarga.
 </details>
+</details>
 </div>
-
-
 ## ०३ ऋतस्य पन्थामनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/03_Rtasya_panthAmanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -161,33 +152,30 @@ The Seasons, Deities, form and order Worship, butter, cake, ladles, sacrificial 
 तेभि॑र्याहि प॒थिभिः॑ स्व॒र्गं यत्रा॑दि॒त्या मधु॑ भ॒क्षय॑न्ति तृ॒तीये॒ नाके॒ अधि॒ वि श्र॑यस्व ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/03_Rtasya_panthAmanu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/03_Rtasya_panthAmanu.md">
+<details open><summary><h3>०३ ऋतस्य पन्थामनु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Look thou happily (*sādhú*) along the road of righteousness, by which  
 go the An̄girases, well-doers; by those roads go thou to heaven  
 (*svargá*), where the Ādityas feed on honey; spread thou out upon the  
 third firmament.
 
-#### Notes
+##### Notes
 The last pāda we had above as ix. 5. 8 **d**. Our O.Op.R., and one or  
 two of SPP's mss., read *tébhyas* at beginning of **c**. The comm.  
 explains *víśrayasva* in **e** by *viśritaḥ pratiṣṭhito bhava*. The  
 metrical description of the Anukr. fits the verse, if we ⌊decline to  
 make two of the three easy resolutions (in **c** and **d**) by which the  
 verse reads as five good *triṣṭubh* pādas⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/03_Rtasya_panthAmanu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Carefully look on Sacrifice's pathway whereon the Angirases, the righteous, travel. By those same pathways go thou up to Svarga where the Adityas take their fill of sweetness, There make thy home in the third vault of heaven,
 </details>
+</details>
 </div>
-
-
 ## ०४ त्रयः सुपर्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/04_trayaH_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -203,16 +191,17 @@ Carefully look on Sacrifice's pathway whereon the Angirases, the righteous, trav
 स्व॒र्गा लो॒का अ॒मृते॑न वि॒ष्ठा इष॒मूर्जं॒ यज॑मानाय दुह्राम्॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/04_trayaH_suparNA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/04_trayaH_suparNA.md">
+<details open><summary><h3>०४ त्रयः सुपर्णा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Three eagles (*suparṇá*)...upon the back of the firmament (*nā́ka*),  
 at the summit (? *viṣṭáp*) are set (*śritá*); let the heavenly  
 (*svargá*) worlds, filled (?) with *amṛ́ta*, yield (*duh*) food,  
 refreshment to the sacrificer.
 
-#### Notes
+##### Notes
   
   
   
@@ -230,17 +219,13 @@ translation follows the comm. ⌊and Whitney's P.M.I, and one of SPP's
 mss.⌋ in reading *viṣṭā́s* instead of *viṣṭhā́s* (p. *vi॰sthā́ḥ*); it is  
 glossed with *vyāptāḥ pūrṇāḥ*. Neither this verse nor the preceding is  
 quoted by Kāuś., nor has either a *viniyoga* indicated in the comm.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/04_trayaH_suparNA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Three eagles in the region's roar are standing high on heaven's ridge in their appointed station. The worlds of Svarga shall, filled full of Amrit, yield food and power to him who sacrificeth.
 </details>
+</details>
 </div>
-
-
 ## ०५ जुहूर्दाधार द्यामुपभृदन्तरिक्षं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/05_juhUrdAdhAra_dyAmupabhRdantarixaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -256,16 +241,17 @@ Three eagles in the region's roar are standing high on heaven's ridge in their a
 प्रती॒मां लो॒का घृ॒तपृ॑ष्ठाः स्व॒र्गाः कामं॑कामं॒ यज॑मानाय दुह्राम्॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/05_juhUrdAdhAra_dyAmupabhRdantarixaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/05_juhUrdAdhAra_dyAmupabhRdantarixaM.md">
+<details open><summary><h3>०५ जुहूर्दाधार द्यामुपभृदन्तरिक्षं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. The sacrificial spoon (*juhū́*) sustains the sky, the offering spoon  
 (*upabhṛ́t*) the atmosphere; the ladle (*dhruvā́*) sustains ⌊*dhṛ*⌋ the  
 earth, the support (*pratiṣṭhā́*); unto me (?) let the worlds,  
 ghee-backed, heavenly (*svargá*), yield every desire for the sacrificer.
 
-#### Notes
+##### Notes
 The reading and sense at the beginning of **c** are very doubtful; the  
 *pada*-mss. all give *prati॰mā́m*, as if it were accusative of *pratimā́;*  
 most of the *saṁhitā*-mss. have *pratīmā́m* (our Bs. has *pratímā́m* ⌊!⌋,  
@@ -281,17 +267,13 @@ better sense. The verse (13 + 11: 12 (11?) + 11 = 47) is, of course, no
 proper *jagatī*. This and the verse next following are used, according  
 to Kāuś. 81. 7, as the sacrificial utensils are laid about and upon the  
 body, to be burned with it.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/05_juhUrdAdhAra_dyAmupabhRdantarixaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Upabhrit stablished air, Juhu the heaven, Dhruva supported earth securely founded. As meed, the Svarga worlds, o'erspread with fatness shall yield the sacrificer all his wishes.
 </details>
+</details>
 </div>
-
-
 ## ०६ ध्रुव आ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/06_dhruva_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -307,16 +289,17 @@ Upabhrit stablished air, Juhu the heaven, Dhruva supported earth securely founde
 जुहु॒ द्यां ग॑च्छ॒ यज॑मानेन सा॒कं स्रु॒वेण॑ व॒त्सेन॒ दिशः॒ प्रपी॑नाः॒ सर्वा॑ धु॒क्ष्वाहृ॑ण्यमानः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/06_dhruva_A.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/06_dhruva_A.md">
+<details open><summary><h3>०६ ध्रुव आ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. O ladle, ascend the all-nourishing earth; stride, O offering spoon,  
 unto the atmosphere; O sacrificial spoon, go to the sky (*dív*) in  
 company with the sacrificer; with the little spoon (*sruvá*) \[as\]  
 calf, milk thou all the teeming, unirritated quarters.
 
-#### Notes
+##### Notes
 The mss. in general strangely accent the two vocatives in **a** and  
 **b** on the final syllable; all ours (save Op.s.m.), and all but one or  
 two of SPP's, have *dhruvé* (*-vá* in *saṁhitā*); all ours (save Op.),  
@@ -335,17 +318,13 @@ ritual use was given under the preceding verse. \*⌊The comm. assumes a
 very harsh change to the direct address and applies *ahṛṇ-* to the  
 sacrificer: *atha pratyakṣavad uktiḥ: evaṁ srugbhir lokatrayam prāpito  
 yajamānas tvam ahṛṇīyamānaḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/06_dhruva_A.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Dhruva, ascend thou earth the all sustainer: go thou, O Upa- bhrit, to air's mid-region. Juhu, go skyward with the sacrificer; go, and with Sruva be thy calf beside thee drain all the swelling unreluctant quarters.
 </details>
+</details>
 </div>
-
-
 ## ०७ तीर्थैस्तरन्ति प्रवतो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/07_tIrthaistaranti_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -361,16 +340,17 @@ Dhruva, ascend thou earth the all sustainer: go thou, O Upa- bhrit, to air's mid
 अत्रा॑दधु॒र्यज॑मानाय लो॒कं दिशो॑ भू॒तानि॒ यदक॑ल्पयन्त ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/07_tIrthaistaranti_pravato.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/07_tIrthaistaranti_pravato.md">
+<details open><summary><h3>०७ तीर्थैस्तरन्ति प्रवतो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. By fords they cross the advances (*pravát*) called the great ones, by  
 what \[road\] the sacrifice-makers, the well-doers, go; there did they  
 set a world for the sacrificer, when they arranged the quarters, the  
 creatures (*bhūtá*).
 
-#### Notes
+##### Notes
 ⌊Or, 'By crossings (*tīrthá*) they cross (*tṛ*).'⌋ The comm. explains  
 *praváto mahī́r íti* by *prakṛṣṭā mahatīr āpadaḥ...evam;* it also makes  
 *díśas* and *bhūtā́ni* in **d** the joint subject of *ákalpayanta*,  
@@ -378,17 +358,13 @@ having before taken *adadhus* as an imperative (*vidadhatu*)! Though the
 verse is obscure, the probabilities are doubtless in favor of the  
 translation as given. ⌊Pāda a seems to be a reminiscence of 1. 49,  
 above, or RV. x. 14. 1. Pischel renders the vs., *Ved. Stud.* ii. 74.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/07_tIrthaistaranti_pravato.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They ford the mighty rivers by the pathway which they who sacrifice, the righteous, travel. There they gave room unto the sacrificer when they made regions and existing creatures.
 </details>
+</details>
 </div>
-
-
 ## ०८ अङ्गिरसामयनं पूर्वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/08_angirasAmayanaM_pUrvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -404,33 +380,30 @@ They ford the mighty rivers by the pathway which they who sacrifice, the righteo
 म॒हि॒मान॑म॒ग्नेर्विहि॑तस्य॒ ब्रह्म॑णा॒ सम॑ङ्गः॒ सर्व॒ उप॑ याहि श॒ग्मः ॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/08_angirasAmayanaM_pUrvo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/08_angirasAmayanaM_pUrvo.md">
+<details open><summary><h3>०८ अङ्गिरसामयनं पूर्वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. The track (*áyana*) of the An̄girases is the eastern fire; the  
 Ādityas' track is the householder's fire; the track of the sacrificial  
 gifts is the southern fire; do thou, with thy limbs, whole (*sárva*),  
 powerful (? *śagmá*), go unto the greatness of Agni \[as\] disposed by  
 *bráhman*.
 
-#### Notes
+##### Notes
 Both in this verse and in the next, most of our mss. accent falsely  
 *dákṣiṇāgnis; SPP*. reports it of only one of his, and only in vs. 9.  
 The comm. glosses *śagma* with *sukhita*. The verse (11 + 11 + 11: 13 +  
 11 = 57) counts short of what the Anukr. describes it (*atiśakvarī* = 60  
 syll.).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/08_angirasAmayanaM_pUrvo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The Angirases' pathway is the eastern Agni, the Adityas' path- way is the Garhapatya: The southward Agni is the way of Southerns. To Agni's greatness whom the prayer divideth go powerful, un- scathed with all thy members.
 </details>
+</details>
 </div>
-
-
 ## ०९ पूर्वो अग्निष्ट्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/09_pUrvo_agniShTvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -446,17 +419,18 @@ The Angirases' pathway is the eastern Agni, the Adityas' path- way is the Garhap
 द॒क्षि॒णा॒ग्निष्टे॑ तपतु॒ शर्म॒ वर्मो॑त्तर॒तो म॑ध्य॒तो अ॒न्तरि॑क्षाद् दि॒शोदि॑शो अग्ने॒ परि॑ पाहि घो॒रात्॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/09_pUrvo_agniShTvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/09_pUrvo_agniShTvA.md">
+<details open><summary><h3>०९ पूर्वो अग्निष्ट्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Let the eastern fire burn (*tap*) thee happily (*śám*) in front; let  
 the householder's fire burn happily behind; let the southern fire burn  
 refuge, defense for thee; from the north, from the midst, from the  
 atmosphere, from each quarter, O Agni, protect him round about from what  
 is terrible.
 
-#### Notes
+##### Notes
 ⌊Cf. vs. 11.⌋ As to the accent of *dakṣiṇāgnis* in **c**, see under vs.  
 8. The funeral pile is separately, but simultaneously, kindled from each  
 of the sacrificial fires. To make the verse *bhurij*, we have to commit  
@@ -466,17 +440,13 @@ the violence of scanning *agne* instead of *‘gne* in the last pāda (so
 *tvā* in **b** after *śám paścā́t* rectifies the meter. In **c** we have  
 perhaps to tolerate 5 pre-cesural syllables; but with this reservation  
 and the rectification in **b**, all 5 pādas are faultless *triṣṭubhs*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/09_pUrvo_agniShTvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Eastward let east fire happily consume thee, and westward happily the Garhapatya. Burn southern fire, thine armour and protection: from air's- mid-region from the north and centre, on all sides, Agni, guard thou him from horror.
 </details>
+</details>
 </div>
-
-
 ## १० यूयमग्ने शंतमाभिस्तनूभिरीजानमभि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/10_yUyamagne_shaMtamAbhistanUbhirIjAnamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -492,16 +462,17 @@ Eastward let east fire happily consume thee, and westward happily the Garhapatya
 अश्वा॑ भू॒त्वा पृ॑ष्टि॒वाहो॑ वहाथ॒ यत्र॑ दे॒वैः स॑ध॒मादं॒ मद॑न्ति ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/10_yUyamagne_shaMtamAbhistanUbhirIjAnamabhi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/10_yUyamagne_shaMtamAbhistanUbhirIjAnamabhi.md">
+<details open><summary><h3>१० यूयमग्ने शंतमाभिस्तनूभिरीजानमभि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Ye, O Agni, having become back-carrying (? *pṛṣṭiváh*) horses, shall  
 with most healthful forms (*tanū́*) carry him that has sacrificed unto  
 the heavenly (*svargá*) world, where they revel in common revelry with  
 the gods.
 
-#### Notes
+##### Notes
 The doubtful word in this verse is pṛṣṭivā́has (as both editions read).  
 All our mss. save one (Op.), and the majority of SPP's, accent  
 *pṛṣṭivāhás*, as if nom. sing, of *-vāhá*, apparently by an error the  
@@ -515,17 +486,13 @@ and a *praṣṭivāha* horse is, of course, one that draws such a chariot.
 of SPP's, leave *madanti* unaccented at the end; ⌊Whitney's Bp.O.Op.R.K.  
 accent it, as it should be⌋; the comm. reads instead *madema*. The  
 Anukr. passes without notice the deficiency of a syllable in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/10_yUyamagne_shaMtamAbhistanUbhirIjAnamabhi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Do ye, with your most kindly forms, O Agni, waft, turned to rapid steeds whose ribs bear burthens, The sacrificer to the world of Svarga where with the Gods they banquet and are joyful.
 </details>
+</details>
 </div>
-
-
 ## ११ शमग्ने पश्चात्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/11_shamagne_pashchAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -541,15 +508,16 @@ Do ye, with your most kindly forms, O Agni, waft, turned to rapid steeds whose r
 एक॑स्त्रे॒धा विहि॑तो जातवेदः स॒म्यगे॑नं धेहि सु॒कृता॑मु लो॒के॥११॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/11_shamagne_pashchAt.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/11_shamagne_pashchAt.md">
+<details open><summary><h3>११ शमग्ने पश्चात् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. Burn (*tap*), O Agni, happily behind, happily in front; burn him  
 happily above, happily below; being one, O Jātavedas, triply disposed,  
 set him collectedly (*samyák*) in the world of the well-doers.
 
-#### Notes
+##### Notes
   
   
   
@@ -562,17 +530,13 @@ SPP's ⌊have the impossible⌋ accent jātávedas in **c**; and a few
 (including our O.R.) have at the end *lokám*. ⌊Although *samyág enaṁ*  
 must pass for the true AV. reading, one cannot forbear to query whether  
 it has not displaced an original *samyák táṁ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/11_shamagne_pashchAt.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Happily from the rear burn this man, Agni, happily from before, above, and under. One, triply parted, Jatavedas, place him happily in the world that holds the righteous.
 </details>
+</details>
 </div>
-
-
 ## १२ शमग्नयः समिद्धा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/12_shamagnayaH_samiddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -588,15 +552,16 @@ Happily from the rear burn this man, Agni, happily from before, above, and under
 शृ॒तं कृ॒ण्वन्त॑ इ॒ह माव॑ चिक्षिपन्॥१२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/12_shamagnayaH_samiddhA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/12_shamagnayaH_samiddhA.md">
+<details open><summary><h3>१२ शमग्नयः समिद्धा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 12. Let the fires, kindled, take hold happily; let the Jātavedases,  
 making done (*śṛtá*) here him that is Prajāpati's \[and\] sacrificial,  
 not throw him down.
 
-#### Notes
+##### Notes
 The verse (11 + 12: 12) lacks a syllable of counting as a full *bṛhatī*.  
 Two of our mss. (O.R.) read in **b** *jātavedaḥ* (without accent). The  
 comm. reads *sam* instead of *śam* at the beginning. ⌊Cf. vs. 13.⌋  
@@ -622,17 +587,13 @@ and chucked it back." An allusion to an occurrence of this kind is
 clearly made by the Chāndogya Upanishad at vii. 15. 3: *atha yady apy  
 enān utkrāntaprāṇāñ cchūlena* \[cf. the bamboo, above\] *samāsaṁ  
 vyatisaṁdahet: nāi ’vāi ’nam brūyuḥ pitṛha ’sī ’ti* etc.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/12_shamagnayaH_samiddhA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Happily lit, let fires, each Jatavedas, seize on Prajapati's appoint- ed victim. Let them not cast it down while here they cook it.
 </details>
+</details>
 </div>
-
-
 ## १३ यज्ञ एति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/13_yajna_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -648,16 +609,17 @@ Happily lit, let fires, each Jatavedas, seize on Prajapati's appoint- ed victim.
 तम॒ग्नयः॒ सर्व॑हुतं जुषन्तां प्राजाप॒त्यं मेध्यं॑ जा॒तवे॑दसः ॥१३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/13_yajna_eti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/13_yajna_eti.md">
+<details open><summary><h3>१३ यज्ञ एति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 13. The sacrifice goes, extended, adapting itself (? *kḷp*), \[taking\]  
 him who hath sacrificed, unto the heavenly (*svargá*) world; let the  
 fires enjoy it, made a whole oblation; let the Jātavedases, making done  
 here him that is Prajāpati's \[and\] sacrificial, not throw him down.
 
-#### Notes
+##### Notes
 ⌊Cf. vs. 12.⌋ 'Sacrifice' and 'whole oblation' ⌊and 'it,' that is *tám*  
 in **c**,⌋ all refer, of course, to the deceased himself. ⌊Cf. Whitney,  
 Oriental and Linguistic Studies, i. 56: "To burn the body of a deceased  
@@ -676,17 +638,13 @@ admitted in our text; but we ought to have emended to *kálpa-*, which
 SPP. reads. Two of our mss. (O.R.), and one of SPP's, also have  
 *jātavedasaḥ* at end of **d**. The verse counts just a full *atiśakvarī*  
 (11 + 10: 11 + 12: 12 = 56).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/13_yajna_eti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga, Let all the fires, each Jatavedas, welcome Prajapati's completely offered victim. Let them not cast it down while here they cook it.
 </details>
+</details>
 </div>
-
-
 ## १४ ईजानश्चितमारुक्षदग्निं नाकस्य
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/14_IjAnashchitamAruxadagniM_nAkasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -702,33 +660,30 @@ Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga
 तस्मै॒ प्र भा॑ति॒ नभ॑सो॒ ज्योति॑षीमान्त्स्व॒र्गः पन्थाः॑ सु॒कृते॑ देव॒यानः॑ ॥१४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/14_IjAnashchitamAruxadagniM_nAkasya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/14_IjAnashchitamAruxadagniM_nAkasya.md">
+<details open><summary><h3>१४ ईजानश्चितमारुक्षदग्निं नाकस्य ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 14. He that hath sacrificed hath ascended the piled fire, about to fly  
 up to heaven (*dív*) from the back of the firmament (*nā́ka*); for him,  
 the well-doer, shines forth from the welkin (*nábhas*), full of light,  
 the heavenly road, traveled by the gods.
 
-#### Notes
+##### Notes
 The mss. vary in **a** between *citám* and *cittám;* our text reads the  
 latter; SPP's the former, which is doubtless correct, and which is  
 implied by the translation. The comm. notes that *agni* is used to mean  
 *iṣṭakacitaḥ pradeśaḥ*, quoting Āpast. 25. 4 as authority. According to  
 Kāuś. (80. 52), the verse (the comm. says, vss. 14-15) accompanies the  
 laying of the body supine on the pile; it comes next after 1. 46.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/14_IjAnashchitamAruxadagniM_nAkasya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fain to fly up from the sky's ridge to heaven, the worshipper hath mounted visible Agni. Lucid from out the mist to him, the pious, gleams the God- travelled path that leads to Svarga.
 </details>
+</details>
 </div>
-
-
 ## १५ अग्निर्होताध्वर्युष्टे बहस्पतिरिन्द्रो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/15_agnirhotAdhvaryuShTe_bahaspatirindro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -744,16 +699,17 @@ Fain to fly up from the sky's ridge to heaven, the worshipper hath mounted visib
 हु॒तोऽयं संस्थि॑तो य॒ज्ञ ए॑ति॒ यत्र॒ पूर्व॒मय॑नं हु॒ताना॑म्॥१५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/15_agnirhotAdhvaryuShTe_bahaspatirindro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/15_agnirhotAdhvaryuShTe_bahaspatirindro.md">
+<details open><summary><h3>१५ अग्निर्होताध्वर्युष्टे बहस्पतिरिन्द्रो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 15. Agni thine invoker, Brihaspati thine officiating priest, be Indra on  
 the right thy supervising priest (*brahmán*); this offered sacrifice,  
 being completed (*sáṁsthita*), goeth where is the ancient track of those  
 offered.
 
-#### Notes
+##### Notes
 Both editions read in **c**, with nearly all the mss. (all ours save  
 R.s.m., and half of SPP's), *hutó ‘yám*, but both are wrong, the  
 emendation to *hutò ‘yám* being a matter of simple necessity (see note  
@@ -765,17 +721,13 @@ vs. 1). It is far from being a regular *triṣṭubh;* ⌊after resolving
 there remains pāda **d**, with one syllable missing before the cesura:  
 it would be a faultless *triṣṭubh* if we dared to insert *ásti*  
 (*yátrā́sti*): the comm. understands the equivalent *vidyate*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/15_agnirhotAdhvaryuShTe_bahaspatirindro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On thy right hand let Indra be thy Brahman, Brihaspati Adh- varyu Agni Hotar. This ordered sacrifice goes offered thither whither presented gifts have gone aforetime.
 </details>
+</details>
 </div>
-
-
 ## १६ अपूपवान् क्षीरवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/16_apUpavAn_xIravAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -791,15 +743,16 @@ On thy right hand let Indra be thy Brahman, Brihaspati Adh- varyu Agni Hotar. Th
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥१६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/16_apUpavAn_xIravAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/16_apUpavAn_xIravAMshcharureha.md">
+<details open><summary><h3>१६ अपूपवान् क्षीरवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 16. Rich in cakes, rich in milk (*kṣīrá-*) let the dish (*carú*) take  
 seat here; to the world-makers, the road-makers, do we sacrifice,  
 whoever of you are here, sharing in the oblation of the gods.
 
-#### Notes
+##### Notes
 ⌊The definition of verses 16-24 as 14: 12 + 11 = 37 is right by  
 mechanical count; but the metrical character of what precedes the first  
 *avasāna* is wholly misprized by the Anukr.: *carúr ā́ ihá sīdatu* is  
@@ -865,17 +818,13 @@ mádhubhāgās*, and *ácyutākṣarā*. Thus the mantra of the last set would
 begin *apūpávān mádhumān* etc., for the deposition of cakes is common to  
 that of all the dishes (so AV. comm., p. 202⁵: *apūpasāhityaṁ sarveṣāṁ  
 carūṇāṁ sādhāraṇam*).⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/16_apUpavAn_xIravAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and milk here let the Charu rest. World-makers, makers of the path we worship you of the Gods who here partake oblations.
 </details>
+</details>
 </div>
-
-
 ## १७ अपूपवान् दधिवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/17_apUpavAn_dadhivAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -891,25 +840,21 @@ Enriched with cake and milk here let the Charu rest. World-makers, makers of the
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥१७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/17_apUpavAn_dadhivAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/17_apUpavAn_dadhivAMshcharureha.md">
+<details open><summary><h3>१७ अपूपवान् दधिवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 17. Rich in cakes, rich in curds (*dádhi-*), let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/17_apUpavAn_dadhivAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and curds, etc. (as in stanza 16).
 </details>
+</details>
 </div>
-
-
 ## १८ अपूपवान् द्रप्सवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/18_apUpavAn_drapsavAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -925,26 +870,23 @@ Enriched with cake and curds, etc. (as in stanza 16).
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥१८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/18_apUpavAn_drapsavAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/18_apUpavAn_drapsavAMshcharureha.md">
+<details open><summary><h3>१८ अपूपवान् द्रप्सवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 18. Rich in cakes, rich in drops (*drapsá-*), let the dish etc. etc.
 
-#### Notes
+##### Notes
 Our O. reads *drápsa-*, ⌊and so does one of SPP's mss.⌋. According to  
 the comm., *drapsa* signifies "particles of curds" (*dadhikaṇās*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/18_apUpavAn_drapsavAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and drops, etc.
 </details>
+</details>
 </div>
-
-
 ## १९ अपूपवान् घृतवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/19_apUpavAn_ghRtavAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -960,25 +902,21 @@ Enriched with cake and drops, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥१९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/19_apUpavAn_ghRtavAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/19_apUpavAn_ghRtavAMshcharureha.md">
+<details open><summary><h3>१९ अपूपवान् घृतवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 19. Rich in cakes, rich in ghee, let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/19_apUpavAn_ghRtavAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and butter, etc.
 </details>
+</details>
 </div>
-
-
 ## २० अपूपवान् मांसवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/20_apUpavAn_mAMsavAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -994,25 +932,21 @@ Enriched with cake and butter, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/20_apUpavAn_mAMsavAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/20_apUpavAn_mAMsavAMshcharureha.md">
+<details open><summary><h3>२० अपूपवान् मांसवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 20. Rich in cakes, rich in flesh (*māṅsá-*), let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/20_apUpavAn_mAMsavAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and flesh, etc.
 </details>
+</details>
 </div>
-
-
 ## २१ अपूपवानन्नवांश्चरुरेह सीदतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/21_apUpavAnannavAMshcharureha_sIdatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1028,25 +962,21 @@ Enriched with cake and flesh, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/21_apUpavAnannavAMshcharureha_sIdatu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/21_apUpavAnannavAMshcharureha_sIdatu.md">
+<details open><summary><h3>२१ अपूपवानन्नवांश्चरुरेह सीदतु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 21. Rich in cakes, rich in food, let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/21_apUpavAnannavAMshcharureha_sIdatu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and food, etc.
 </details>
+</details>
 </div>
-
-
 ## २२ अपूपवान् मधुमांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/22_apUpavAn_madhumAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1062,25 +992,21 @@ Enriched with cake and food, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/22_apUpavAn_madhumAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/22_apUpavAn_madhumAMshcharureha.md">
+<details open><summary><h3>२२ अपूपवान् मधुमांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 22. Rich in cakes, rich in honey, let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/22_apUpavAn_madhumAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and mead, etc.
 </details>
+</details>
 </div>
-
-
 ## २३ अपूपवान् रसवांश्चरुरेह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/23_apUpavAn_rasavAMshcharureha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1096,25 +1022,21 @@ Enriched with cake and mead, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/23_apUpavAn_rasavAMshcharureha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/23_apUpavAn_rasavAMshcharureha.md">
+<details open><summary><h3>२३ अपूपवान् रसवांश्चरुरेह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 23. Rich in cakes, rich in sap, let the dish etc. etc.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/23_apUpavAn_rasavAMshcharureha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Enriched with cake and juice, etc.
 </details>
+</details>
 </div>
-
-
 ## २४ अपूपवानपवांश्चरुरेह सीदतु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/24_apUpavAnapavAMshcharureha_sIdatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1130,13 +1052,14 @@ Enriched with cake and juice, etc.
 लो॒क॒कृतः॑ पथि॒कृतो॑ यजामहे॒ ये दे॒वानां॑ हु॒तभा॑गा इ॒ह स्थ॥२४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/24_apUpavAnapavAMshcharureha_sIdatu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/24_apUpavAnapavAMshcharureha_sIdatu.md">
+<details open><summary><h3>२४ अपूपवानपवांश्चरुरेह सीदतु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 24. Rich in cakes, rich in water (*ápa-*), let the dish etc. etc.
 
-#### Notes
+##### Notes
 Instead of *apavant* in this verse, the comm. has a second time  
 *apūpavant*, explaining that it means cakes of a different material. In  
 the five dishes of TA. (vi. 8) are contained respectively (besides the  
@@ -1144,17 +1067,13 @@ cakes), ghee, boiled flesh (*śṛtá*), milk, curds, and honey. ⌊Caland's
 suggestion of *‘pavantam* for *pacantam* at Kāuś. 86. 4 (see WZKM. viii.  
 369) brings the text of Kāuś. into harmony with *ápavāṅs* of this vs.:  
 cf. ¶3 of the notes to vs. 16.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/24_apUpavAnapavAMshcharureha_sIdatu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here, mixt with cake and water rest the Charu! World-makers, makers of the path, we worship those Gods of you who here partake oblations.
 </details>
+</details>
 </div>
-
-
 ## २५ अपूपापिहितान् कुम्भान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/25_apUpApihitAn_kumbhAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1170,30 +1089,27 @@ Here, mixt with cake and water rest the Charu! World-makers, makers of the path,
 ते ते॑ सन्तु स्व॒धाव॑न्तो॒ मधु॑मन्तो घृत॒श्चुतः॑ ॥२५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/25_apUpApihitAn_kumbhAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/25_apUpApihitAn_kumbhAn.md">
+<details open><summary><h3>२५ अपूपापिहितान् कुम्भान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 25. What vessels covered with cakes the gods maintained for thee, be  
 they for thee rich in *svadhā́*, rich in honey, dripping with ghee.
 
-#### Notes
+##### Notes
 This is a ⌊precise⌋ repetition of 3. 68 above. While most of the mss.  
 quote it, as usual, by the first words with *íty ékā* added, two (O.R.)  
 write it in full. According to the comm., the verse follows the  
 deposition of the nine dishes; and it adds: "one should put on mixed  
 grains"; the Kāuś. makes no mention of it.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/25_apUpApihitAn_kumbhAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let these which Gods have held for thee, these beakers covered o'er with cake, Be full of sacred food for thee, distilling fatness, rich in mead.
 </details>
+</details>
 </div>
-
-
 ## २६ यास्ते धाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/26_yAste_dhAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1209,30 +1125,27 @@ Let these which Gods have held for thee, these beakers covered o'er with cake, B
 तास्ते॑ सन्तू॒द्भ्वीः प्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम्॥२६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/26_yAste_dhAnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/26_yAste_dhAnA.md">
+<details open><summary><h3>२६ यास्ते धाना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 26. What grains I scatter along for thee, mixed with sesame, rich in  
 *svadhā́*, be they for thee uprising (*udbhú*), prevailing; them let king  
 Yama approve for thee.
 
-#### Notes
+##### Notes
 This verse, differing from 3. 69 and 4. 43 by a single word (*udbhvī́s*  
 instead of *vibhvī́s*), is written out in full by all the mss. The comm.  
 has, instead of *udbhvīs*, *abhvīs*, glossing it with *mahatyas*. ⌊For a  
 possible ritual use of the verse, see under 3. 69.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/26_yAste_dhAnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Grains which for thee I scatter, mixt with Sesamum, as holy food. May they for thee be excellent and potent. King Yama look on, them as thine with favour!
 </details>
+</details>
 </div>
-
-
 ## २७ अक्षितिं भूयसीम्२७
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/27_axitiM_bhUyasIm27.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1246,26 +1159,23 @@ Grains which for thee I scatter, mixt with Sesamum, as holy food. May they for t
 अक्षि॑तिं॒ भूय॑सीम्॥२७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/27_axitiM_bhUyasIm27.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/27_axitiM_bhUyasIm27.md">
+<details open><summary><h3>२७ अक्षितिं भूयसीम्२७ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 27. A more abundant inexhaustibleness.
 
-#### Notes
+##### Notes
 The comm. adds this to the preceding verse as a part of it; but the  
 Anukr. and the mss. reckon it as an independent verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/27_axitiM_bhUyasIm27.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 More immortality!
 </details>
+</details>
 </div>
-
-
 ## २८ द्रप्सश्चस्कन्द पृथिवीमनु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/28_drapsashchaskanda_pRthivImanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1281,16 +1191,17 @@ More immortality!
 स॒मा॒नं योनि॒मनु॑ सं॒चर॑न्तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त होत्राः॑ ॥२८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/28_drapsashchaskanda_pRthivImanu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/28_drapsashchaskanda_pRthivImanu.md">
+<details open><summary><h3>२८ द्रप्सश्चस्कन्द पृथिवीमनु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 28. The drop leaped (*skand*) toward the earth, the sky (*dív*), toward  
 both this lair (*yóni*) and the one that was of old; of the drop that  
 goes about toward the same lair do I make oblation, after seven  
 invocations (*hótrā*).
 
-#### Notes
+##### Notes
 The verse is RV. x. 17. 11, and found also in several other texts: VS.  
 (xiii. 5), TS. (iv. 2. 8², 9⁵), TA. (vi. 6. 1), MS. (ii. 5. 10), śB.  
 (vii. 4. 1²⁰). RV. differs from our text by reading in **a** *prathamā́ṅ  
@@ -1307,17 +1218,13 @@ soma-sacrifices by the Fathers in heaven; it also points out that in CB.
 17) the verse (with RV. x. 17. 12, 13 and one or two others) is used in  
 the *agniṣṭoma* ceremony, with offerings to the soma-drops (*vāipruṣa*),  
 on occasion of the overflow of soma.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/28_drapsashchaskanda_pRthivImanu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On all the earth, to heaven, the drop descended, on this place and on that which was before it. I offer up, throughout the seven oblations, the drop which still to one same place is moving.
 </details>
+</details>
 </div>
-
-
 ## २९ शतधारं वायुमर्कं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/29_shatadhAraM_vAyumarkaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1333,15 +1240,16 @@ On all the earth, to heaven, the drop descended, on this place and on that which
 ये पृ॒णन्ति॒ प्र च॒ यच्छ॑न्ति सर्व॒दा ते दु॑ह्रते॒ दक्षि॑णां स॒प्तमा॑तरम्॥२९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/29_shatadhAraM_vAyumarkaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/29_shatadhAraM_vAyumarkaM.md">
+<details open><summary><h3>२९ शतधारं वायुमर्कं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 29. A hundred-streamed Vāyu, a heaven-finding sun (? *arká*), wealth, do  
 those men-beholders look upon; whoso bestow (*pṛ*) and present  
 (*prayam*) always, they milk a sacrificial gift having seven mothers.
 
-#### Notes
+##### Notes
 The verse corresponds to RV. x. 107. 4, which differs by reading *havís*  
 at end of **b**, ⌊and *saṁgamé* at end of **c**⌋; it also reads *duhate*  
 in **d** and puts the word after *dákṣiṇām;* the RV. hymn is one in  
@@ -1354,17 +1262,13 @@ the accent. Kāuś. does not quote the verse; the comm. says that it and
 the next are used together on watering the bone-relics with water  
 falling from a vessel with a hundred holes; and these hundred holes it  
 regards as referred to by the first word of the verse.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/29_shatadhAraM_vAyumarkaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Those who observe men look on wealth as Vayu with countless. streams, and as light-finding Arka; Those drain out Guerdon sprung from seven mothers, who satis- fy and evermore give presents.
 </details>
+</details>
 </div>
-
-
 ## ३० कोशं दुहन्ति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/30_koshaM_duhanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1380,16 +1284,17 @@ Those who observe men look on wealth as Vayu with countless. streams, and as lig
 ऊर्जं॒ मद॑न्ती॒मदि॑तिं॒ जने॒ष्वग्ने॒ मा हिं॑सीः पर॒मे व्योऽमन्॥३०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/30_koshaM_duhanti.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/30_koshaM_duhanti.md">
+<details open><summary><h3>३० कोशं दुहन्ति ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 30. They milk a receptacle (*kóśa*), a jar with four orifices, *iḍā*  
 \[as\] milch-cow rich in honey, in order to well-being; reveling  
 refreshment, Aditi among the people, injure thou not, O Agni, in the  
 highest firmament (*vyòman*).
 
-#### Notes
+##### Notes
   
   
   
@@ -1407,17 +1312,13 @@ of a certain cow. In the funeral ceremony of TA. (as above), our **c,
 d**, with ⌊the correspondent of⌋ our 36 **a, b** below as first half, is  
 used next after our vs. 28, and for the same purpose. The Anukr. does  
 not heed that the first two pādas are *jagatī*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/30_koshaM_duhanti.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 They for their weal drain out the cask, the beaker four-holed,. the milch-cow Ida full of sweetness, Injure not, Agni, in the loftiest heaven Aditi heightening strength among the people.
 </details>
+</details>
 </div>
-
-
 ## ३१ एतत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/31_etat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1433,14 +1334,15 @@ They for their weal drain out the cask, the beaker four-holed,. the milch-cow Id
 तत् त्वं य॒मस्य॒ राज्ये॒ वसा॑नस्ता॒र्प्यंऽ चर ॥३१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/31_etat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/31_etat_te.md">
+<details open><summary><h3>३१ एतत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 31. This garment god Savitar gives thee to wear (*bhṛ*); putting on  
 that, which is *tārpyà*, do thou go about in Yama's realm.
 
-#### Notes
+##### Notes
 Some of the mss. (including our O.Op.R.) read *dadātu* in **b**. Our Op.  
 accents *tā́rpyam*, and the word is variously accented by half of SPP's  
 authorities. The comm. first explains the word as *tarpaṇārham  
@@ -1448,17 +1350,13 @@ prītikaram*, and then adds: 'or, made of a kind of grass called *tṛpā*,
 \[and\] anointed with ghee.' For the ritual use of the verse, in company  
 with 2. 57, see under the latter verse. The comm. says only that it is  
 addressed to the garment when the dead man is wrapped up.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/31_etat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herein, and find meet robe in Yama's realm to cover thee.
 </details>
+</details>
 </div>
-
-
 ## ३२ धाना धेनुरभवद्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/32_dhAnA_dhenurabhavad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1474,31 +1372,28 @@ On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herei
 तां वै य॒मस्य॒ राज्ये॒ अक्षि॑ता॒मुप॑ जीवति ॥३२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/32_dhAnA_dhenurabhavad.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/32_dhAnA_dhenurabhavad.md">
+<details open><summary><h3>३२ धाना धेनुरभवद् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 32. The grains became a milch-cow; the sesame became her calf; upon her,  
 unexhausted, one lives in Yama's realm.
 
-#### Notes
+##### Notes
 The mss. are a little at variance as to the accent of *tilo ‘bhavat;*  
 but the majority give *tilò*, which is accepted in both editions. The  
 comm. reads at the end *jīvāti*. The ritual application of this verse  
 and its successor was given with that of 3. 69 above; the comm. says  
 here that with vss. 32-34 grains mingled with sesame are put upon the  
 bones. The first pāda is one syllable short.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/32_dhAnA_dhenurabhavad.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The grains of corn have now become a cow, the Sesamum her calf. He in the realm of Yama lives on her the inexhaustible.
 </details>
+</details>
 </div>
-
-
 ## ३३ एतास्ते असौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/33_etAste_asau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1514,30 +1409,27 @@ The grains of corn have now become a cow, the Sesamum her calf. He in the realm 
 एनीः॒ श्येनीः॒ सरू॑पा॒ विरू॑पास्ति॒लव॑त्सा॒ उप॑ तिष्ठन्तु॒ त्वात्र॑ ॥३३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/33_etAste_asau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/33_etAste_asau.md">
+<details open><summary><h3>३३ एतास्ते असौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 33. Be these, O so-and-so, thy milch-kine that yield what is desired;  
 variegated, white, of like form, of different form, with sesame as calf,  
 let them wait upon (*upa-sthā*) thee there.
 
-#### Notes
+##### Notes
 One of our mss. (Op.), and three or four of SPP's authorities, accent  
 *tílavatsās* in **d**. The comm. has *bhavanti* in **b**. The verse (8 +  
 7: 11 + 11 = 37) is not at all an *upariṣṭādbṛhatī*, but rather an  
 irregular *āstārapan̄kti*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/33_etAste_asau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let these become thy milch-kine, man! supplying all thy heart's desires. There, speckled, white, like-hued and various-coloured, with calves of Sesamum let them stand beside thee.
 </details>
+</details>
 </div>
-
-
 ## ३४ एनीर्धाना हरिणीः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/34_enIrdhAnA_hariNIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1553,15 +1445,16 @@ Let these become thy milch-kine, man! supplying all thy heart's desires. There, 
 ति॒लव॑त्सा॒ ऊर्ज॑म॒स्मै दुहा॑ना वि॒श्वाहा॑ सन्त्वनप॒स्फुर॑न्तीः ॥३४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/34_enIrdhAnA_hariNIH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/34_enIrdhAnA_hariNIH.md">
+<details open><summary><h3>३४ एनीर्धाना हरिणीः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 34. Grains variegated, yellow, white, grains black, red, \[be\] thy  
 milch-kine here; with sesame as calf, yielding (*duh*) him refreshment,  
 be they ever unresisting.
 
-#### Notes
+##### Notes
 The verse is found also in TA. (in vi. 7. 1), with its first half  
 abbreviated to *éṇīr dhānā́ háriṇīr árjunīḥ santu dhenávaḥ;* and it  
 accents *tíla-* in **c** (with our Op. and one or two of SPP's mss.).  
@@ -1579,17 +1472,13 @@ declares *apasphuraṇa* = *nāśa*, and the participle therefore =
 version of the accentless *asya:* Weber notices the wild incongruity  
 (absent in the TA. version) between *asya* in **a**, *te* in **b**, and  
 *asmāí* in **c**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/34_enIrdhAnA_hariNIH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let the green grains become thy white, and speckled, The dusky corns become thy ruddy milch-kine. Let those with calves of Sesamum for ever yield strength to him and never flinch from milking.
 </details>
+</details>
 </div>
-
-
 ## ३५ वैश्वानरे हविरिदं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/35_vaishvAnare_haviridaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1605,15 +1494,16 @@ Let the green grains become thy white, and speckled, The dusky corns become thy 
 स बि॑भर्ति पि॒तरं॑ पिताम॒हान् प्र॑पिताम॒हान् बि॑भर्ति॒ पिन्व॑मानः ॥३५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/35_vaishvAnare_haviridaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/35_vaishvAnare_haviridaM.md">
+<details open><summary><h3>३५ वैश्वानरे हविरिदं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 35. In Vāiśvānara I offer this oblation, a thousand-fold,  
 hundred-streamed fountain (*útsa*); it supports (*bhṛ*) \[our\] father,  
 grandfathers; \[our\] great-grandfathers it supports, swelling.
 
-#### Notes
+##### Notes
 That is, with fatness or abundance (*pinv*). The verse is found also at  
 the beginning of TA. vi. 6; but this rectifies the meter of **b** by  
 reading *sāhasrám útsaṁ śatádhāram etám;* and its **c, d** are not less  
@@ -1656,17 +1546,13 @@ there can be little doubt (cf. BR. i. 347) that we have to read
 dead is in keeping with the use of cows that are old, ugly, barren,  
 etc.: cf. śB. xii. 5. 1⁴ (dead man's *agnihotra*) and Caland, l.c., p.  
 173, p. 20.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/35_vaishvAnare_haviridaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I offer in Vaisvanara this oblation, thousandfold spring that pours a hundred steamlets. This with a swelling flow supports the Father, supports grand- fathers and their sires before them.
 </details>
+</details>
 </div>
-
-
 ## ३६ सहस्रधारं शतधारमुत्समक्षितं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/36_sahasradhAraM_shatadhAramutsamaxitaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1682,15 +1568,16 @@ I offer in Vaisvanara this oblation, thousandfold spring that pours a hundred st
 ऊर्जं॒ दुहा॑नमनप॒स्फुर॑न्त॒मुपा॑सते पि॒तरः॑ स्व॒धाभिः॑ ॥३६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/36_sahasradhAraM_shatadhAramutsamaxitaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/36_sahasradhAraM_shatadhAramutsamaxitaM.md">
+<details open><summary><h3>३६ सहस्रधारं शतधारमुत्समक्षितं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 36. A thousand-streamed, hundred-streamed fountain, unexhausted,  
 expanded upon the back of the sea, yielding refreshment, unresisting, do  
 the Fathers wait on at their will (? *svadhā́bhis*).
 
-#### Notes
+##### Notes
 The first half-verse stands in VS. ⌊xiii. 49⌋ TS. ⌊iv. 2. 10²⌋ TA. ⌊vi.  
 6. 1⌋ MS. ⌊ii. 7. 17, p. 102¹⁴⌋ as the first two pādas of a verse of  
 which our 30 **c, d** above is second half; in all, the first word is  
@@ -1707,17 +1594,13 @@ l.c., p. 173. The sprinkling is part of the *dhuvana* ceremony, l.c., p.
 137.⌋ \*⌊The rationale of the intrusion becomes clear, I think, if we  
 compare with our **a, b** the first pāda of iv. 27. 2, *útsam ákṣitam  
 viácanti yé sádā*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/36_sahasradhAraM_shatadhAramutsamaxitaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Beside the spring with hundred, thousand currents, expanding on the summit of the water, Exhaustless, yielding strength, never reluctant, the Fathers with their sacred food are seated.
 </details>
+</details>
 </div>
-
-
 ## ३७ इदं कसाम्बु
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/37_idaM_kasAmbu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1733,15 +1616,16 @@ Beside the spring with hundred, thousand currents, expanding on the summit of th
 मर्त्यो॒ऽयम॑मृत॒त्वमे॑ति॒ तस्मै॑ गृ॒हान् कृ॑णुत याव॒त्सब॑न्धु ॥३७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/37_idaM_kasAmbu.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/37_idaM_kasAmbu.md">
+<details open><summary><h3>३७ इदं कसाम्बु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 37. This funeral pile (? *kásāmbu*) \[is\] piled with piling; come, ye  
 \[his\] fellows, look down at it; this mortal goeth to immortality; make  
 ye houses for him according to his kindred.
 
-#### Notes
+##### Notes
 A number of the mss. (including our P.M.I.) read in **a** *cittám*, as  
 in 14 **a** above. The *pada*-text at end of **b** is *paśyata: ā́: ita*.  
 Some of the mss. make a blundering insertion of signs of *kampa* in  
@@ -1756,17 +1640,13 @@ is redundant, and suggests emendation of the closing word. ⌊The vs.,
 with its *cayanena citam* and *gṛhān* (cf. śB. as cited below under vs.  
 55), seems clearly to refer to a grave-mound; but the ritual use, with  
 its trench, is in flat contradiction with such reference.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/37_idaM_kasAmbu.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This pile of wood, collected, heaped together, regard it, O ye, kinsmen, and come near it. To immortality this mortal goeth: prepare a home for him, all ye his kindred.
 </details>
+</details>
 </div>
-
-
 ## ३८ इहैवैधि धनसनिरिहचित्त
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/38_ihaivaidhi_dhanasanirihachitta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1782,31 +1662,28 @@ This pile of wood, collected, heaped together, regard it, O ye, kinsmen, and com
 इ॒हैधि॑ वी॒र्यऽवत्तरो वयो॒धा अप॑राहतः ॥३८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/38_ihaivaidhi_dhanasanirihachitta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/38_ihaivaidhi_dhanasanirihachitta.md">
+<details open><summary><h3>३८ इहैवैधि धनसनिरिहचित्त ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 38. Be thou just here, winning riches, with thought here, with ability  
 here; be thou here, very heroic, vigor-bestowing, not smitten away.
 
-#### Notes
+##### Notes
 The comm. understands *iha citta iha kratuḥ* as four independent words.  
 According to Kāuś. (87. 21), the verse is made to accompany the taking  
 of one of two lighted sticks of wood (see under 1. 56), and setting it  
 up in the dirt (see under 2. 34). That this was its original office may  
 be questioned; perhaps it is rather an invocation of the ancestor for  
 help to his descendants.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/38_ihaivaidhi_dhanasanirihachitta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Be here, even here, acquiring wealth, here be thou thoughts here be thou strength. Be stronger here in manly power, life-giver, never beaten back.
 </details>
+</details>
 </div>
-
-
 ## ३९ पुत्रं पौत्रमभितर्पयन्तीरापो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/39_putraM_pautramabhitarpayantIrApo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1822,15 +1699,16 @@ Be here, even here, acquiring wealth, here be thou thoughts here be thou strengt
 स्व॒धां पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीरु॒भयां॑स्तर्पयन्तु ॥३९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/39_putraM_pautramabhitarpayantIrApo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/39_putraM_pautramabhitarpayantIrApo.md">
+<details open><summary><h3>३९ पुत्रं पौत्रमभितर्पयन्तीरापो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 39. These waters, rich in honey, satisfying (*abhi-tṛp*) son \[and\]  
 grandson, yielding to the Fathers *svadhā́* \[and\] *amṛ́ta*—let the  
 heavenly waters gratify both sides.
 
-#### Notes
+##### Notes
 That is, the Fathers on the one side, and their living descendants on  
 the other. Some of the mss. (including our O.R.) accent *abhí* in **a**.  
 The *abhi* could extremely well be spared, and its omission would make  
@@ -1841,17 +1719,13 @@ presentation of the *piṇḍas*, and this one while then rinsing the mouth
 (88. 24).  
   
 ⌊As to vs. 40, see p. xcvii, note.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/39_putraM_pautramabhitarpayantIrApo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Giving the son and grandson satisfaction, let these the present Waters full of sweetness, Pouring forth food and Amrit for the Fathers, refresh both these and those, the Goddess Waters.
 </details>
+</details>
 </div>
-
-
 ## ४० आपो अग्निं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/40_Apo_agniM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1867,15 +1741,16 @@ Giving the son and grandson satisfaction, let these the present Waters full of s
 आसी॑ना॒मूर्ज॒मुप॒ ये सच॑न्ते॒ ते नो॑ र॒यिं सर्व॑वीरं॒ नि य॑च्छान्॥४०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/40_Apo_agniM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/40_Apo_agniM.md">
+<details open><summary><h3>४० आपो अग्निं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 40. O waters, send forth (*pra-hi*) Agni unto the Fathers; this  
 sacrifice of mine let the Fathers enjoy; they who attach themselves unto  
 a sitting refreshment, may they confirm to us wealth having all heroes.
 
-#### Notes
+##### Notes
 A corresponding verse is found in HGS. (in ii. 10. 6), reading thus:  
 *āpo devīḥ pra hiṇutā ’gnim etaṁ yajñam pitaro no juṣantām: māsī ’mām  
 ūrjam uta ye bhajante te* *no rayiṁ sarvavīraṁ ni yacchantu;* and the  
@@ -1887,17 +1762,13 @@ the *barhis*." Both editions read at the end *yachān*, but all the mss.
 save one of SPP's read *yachāt;* the comm. has *-ān*. The Anukr. does  
 not heed that the first pāda is *jagatī*. For the ritual application,  
 see under the preceding verse. ⌊With **a**, cf. 2. 4 **d**, above.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/40_Apo_agniM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Waters, send Agni forward to the Fathers: let them accept the sacrifice I offer. May they who follow Vigour that abideth there send us down wealth with full store of heroes.
 </details>
+</details>
 </div>
-
-
 ## ४१ समिन्धते अमर्त्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/41_samindhate_amartyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1913,15 +1784,16 @@ Waters, send Agni forward to the Fathers: let them accept the sacrifice I offer.
 स वे॑द॒ निहि॑तान्नि॒धीन् पि॒तॄ॒न् प॑रा॒वतो॑ ग॒तान्॥४१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/41_samindhate_amartyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/41_samindhate_amartyaM.md">
+<details open><summary><h3>४१ समिन्धते अमर्त्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 41. They kindle the immortal one, oblation-carrying, ghee-loving; he  
 knoweth the deposited deposits, the Fathers that are gone away to the  
 distances.
 
-#### Notes
+##### Notes
 The comm., with his usual disregard of the accent, takes *ghṛtapríyam*  
 as from *ghṛtá* + *priyá* ⌊*prītikaram ājyaṁ yasya*⌋. For the ritual use  
 as prescribed by Kāuś. 87. 22, see under 2. 34, one of the verses that  
@@ -1932,17 +1804,13 @@ blaze up"; this the comm. does not report in his statement of viniyoga.
 means *samindhate saṁkasukam*, xii. 2. 11, and not our verse here. See  
 under xii. 2. 11 and note the free use of vss. from xii. 2. in the  
 sūtras immediately following 86. 18.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/41_samindhate_amartyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Lover of butter, deathless, him, Oblation-bearer, they inflame. He knoweth well the treasured stores gone to the Fathers, far away.
 </details>
+</details>
 </div>
-
-
 ## ४२ यं ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/42_yaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -1958,15 +1826,16 @@ Lover of butter, deathless, him, Oblation-bearer, they inflame. He knoweth well 
 ते ते॑ सन्तु स्व॒धाव॑न्तो॒ मधु॑मन्तो घृत॒श्चुतः॑ ॥४२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/42_yaM_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/42_yaM_te.md">
+<details open><summary><h3>४२ यं ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 42. What stirabout for thee, what rice-dish, what flesh I offer  
 (*ni-pṛ*) to thee, be they for thee rich in *svadhā́*, rich in honey,  
 dripping with ghee.
 
-#### Notes
+##### Notes
 The second half-verse is identical with 3. 68 **c, d**, above. Nearly  
 all the mss. (of ours, all save Op.) accent *mántham* in **a**; both  
 editions read *manthám*. The comm. again ⌊see under 2. 30⌋ notes the  
@@ -1975,17 +1844,13 @@ pitrarthaṁ coditadravyasya prakṣepaḥ*. By Kāuś. 84. 6, the verse
 accompanies an offering of the articles mentioned, in the hut (*vimita*)  
 in the preparation for interment of the relics; the comm. overlooks  
 this. ⌊For the ceremony, cf. Caland, *Todtengebräuche*, p. 137.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/42_yaM_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The mingled draught, the mess of rice, the flesh which I present to thee, May these be full of food for thee, distilling fatness, rich in sweets.
 </details>
+</details>
 </div>
-
-
 ## ४३ यास्ते धाना
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/43_yAste_dhAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2001,15 +1866,16 @@ The mingled draught, the mess of rice, the flesh which I present to thee, May th
 तास्ते॑ सन्तू॒द्भ्वीः प्र॒भ्वीस्तास्ते॑ य॒मो राजानु॑ मन्यताम्॥४३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/43_yAste_dhAnA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/43_yAste_dhAnA.md">
+<details open><summary><h3>४३ यास्ते धाना ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 43. What grains I scatter along for thee, mixed with sesame, rich in  
 *svadhā́*, be they for thee abundant, prevailing; them let king Yama  
 approve for thee.
 
-#### Notes
+##### Notes
 This is a repetition of 3. 69, being distinguished as such (and not of  
 4. 26) by the words *íti pū́rvā*, instead of *íty ékā*, after the pratīka  
 in most of the mss. Nevertheless, the two *saṁhitā*-mss. of ours (O.R.)  
@@ -2017,17 +1883,13 @@ which give it in full, read *udbhvī́s* in **c**, the word in 4. 26,
 instead of *vibhvī́s*, that in 3. 69; and the comm. also states the  
 repetition to be of 4. 26; and SPP's text reads accordingly. ⌊For the  
 ritual, see under 3. 69.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/43_yAste_dhAnA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Grains which for thee I scatter, mixt with Sesamum as sacred food, May these for thee be excellent and potent. King Yama look on, them, as thine, with favour.
 </details>
+</details>
 </div>
-
-
 ## ४४ इदं पूर्वमपरं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/44_idaM_pUrvamaparaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2043,15 +1905,16 @@ Grains which for thee I scatter, mixt with Sesamum as sacred food, May these for
 पु॒रो॒ग॒वा ये अ॑भि॒शाचो॑ अस्य॒ ते त्वा॑ वहन्ति सु॒कृता॑मु लो॒कम्॥४४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/44_idaM_pUrvamaparaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/44_idaM_pUrvamaparaM.md">
+<details open><summary><h3>४४ इदं पूर्वमपरं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 44. This \[is\] the former, the after down-track, by which thy former  
 Fathers went away; they who are the forerunners, the followers (?  
 *abhiṣác*) of it, they carry thee to the world of the well-doing.
 
-#### Notes
+##### Notes
 Our reading *abhiṣā́cas* is an emendation, almost every ms. giving  
 *abhiśā́cas* (our Op. has *abhi॰sā́caḥ*, and also one ⌊or two⌋ of SPP's  
 authorities); *-ṣā́c-* is of course intended, and the comm. gives it.  
@@ -2062,17 +1925,13 @@ all sides: which is doubtless not at all the true sense; he also reads
 *vahantu* in **d**. The verse is one of the *hariṇīs* ⌊Kāuś. 80. 35; 82.  
 31 note⌋: see under 1. 61. It lacks (in **a**) a syllable of being a  
 full *triṣṭubh*. Its second pāda is identical with 1. 54 **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/44_idaM_pUrvamaparaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 This is the ancient, this the recent pathway, by which thy sires of olden time departed. They who first travelled it, and they who followed, convey thee to the world where dwell the righteous.
 </details>
+</details>
 </div>
-
-
 ## ४५ सरस्वतीं देवयन्तो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/45_sarasvatIM_devayanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2088,27 +1947,23 @@ This is the ancient, this the recent pathway, by which thy sires of olden time d
 सर॑स्वतीं सु॒कृतो॑ हवन्ते॒ सर॑स्वती दा॒शुषे॑ वार्यं॑ दात्॥४५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/45_sarasvatIM_devayanto.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/45_sarasvatIM_devayanto.md">
+<details open><summary><h3>४५ सरस्वतीं देवयन्तो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 45. On Sarasvatī do the pious call; on Sarasvatī, while the sacrifice is  
 being extended; on Sarasvatī do the well-doers call; may Sarasvatī give  
 what is desirable to the worshiper.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/45_sarasvatIM_devayanto.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The righteous doers of good deeds invoke her: Sarasvati send bliss to him who giveth!
 </details>
+</details>
 </div>
-
-
 ## ४६ सरस्वतीं पितरो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/46_sarasvatIM_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2124,27 +1979,23 @@ The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The
 आ॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयध्वमनमी॒वा इष॒ आ धे॑ह्य॒स्मे॥४६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/46_sarasvatIM_pitaro.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/46_sarasvatIM_pitaro.md">
+<details open><summary><h3>४६ सरस्वतीं पितरो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 46. On Sarasvatī do the Fathers call, arriving at the sacrifice on the  
 south; sitting on this *barhís*, do ye revel; assign thou to us food  
 free from disease.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/46_sarasvatIM_pitaro.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear them. Sit on this holy grass and be ye joyful: give thou us strengthen- ing food that brings no sickness.
 </details>
+</details>
 </div>
-
-
 ## ४७ सरस्वति या
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/47_sarasvati_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2160,30 +2011,27 @@ Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear
 स॒ह॒स्रा॒र्घमि॒डो अत्र॑ भा॒गं रा॒यस्पोषं॒ यज॑मानाय धेहि ॥४७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/47_sarasvati_yA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/47_sarasvati_yA.md">
+<details open><summary><h3>४७ सरस्वति या ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 47. O Sarasvatī, that wentest in company with the songs, with the  
 *svadhā́s*, O goddess, reveling with the Fathers, assign thou to the  
 sacrificer here a portion of refreshment of thousand-fold value,  
 abundance of wealth.
 
-#### Notes
+##### Notes
 These three verses are a repetition of i. 41-43 ⌊see notes thereon⌋,  
 quoted by *íti tisráḥ* in most mss., but written out by our O.R. (both  
 accenting *dakṣiṇā́* in 46 **b**).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/47_sarasvati_yA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the Fathers, Here give the Sacrificer growth of riches, a portion, worth a thousand, of refreshment.
 </details>
+</details>
 </div>
-
-
 ## ४८ पृथिवीं त्वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/48_pRthivIM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2199,16 +2047,17 @@ Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the F
 परा॑परैता वसु॒विद् वो अ॒स्त्वधा॑ मृ॒ताः पि॒तृषु॒ सं भ॑वन्तु ॥४८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/48_pRthivIM_tvA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/48_pRthivIM_tvA.md">
+<details open><summary><h3>४८ पृथिवीं त्वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 48. Thee, being earth, I make enter into earth; may god Dhātar lengthen  
 out our life-time; let him that goeth very far away be a finder of good  
 for you; then may the dead (pl.) come to be (*sam-bhū*) among the  
 Fathers.
 
-#### Notes
+##### Notes
 The first pāda is identical with that of xii. 3. 22, and hence the comm.  
 here makes the blunder of reporting this verse as quoted by Kāuś. 61.  
 30,\* whereas it is evidently the other; and he explains the meaning to  
@@ -2222,17 +2071,13 @@ meaning is arrived at. The comm. reads *parāparetās* (our O. gives
 *-retas*), and explains it as *dūradeśam parān̄mukham ito gatāḥ*. The  
 comm. also, against *pada*-text and accent, understands *adhā ’mṛtās* in  
 **d**. \*⌊Cf. p. 869, ¶7.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/48_pRthivIM_tvA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As Prithivi rests on earth, so do I seat thee. May the God Dhatar lengthen our existence. For you may he who parts in turn find treasures, but let the Dead among the Fathers.
 </details>
+</details>
 </div>
-
-
 ## ४९ आ प्र
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/49_A_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2248,16 +2093,17 @@ As Prithivi rests on earth, so do I seat thee. May the God Dhatar lengthen our e
 अ॒स्मादेत॑म॒घ्न्यौ तद् वशी॑यो दा॒तुः पि॒तृष्वि॒हभो॑जनौ॒ मम॑ ॥४९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/49_A_pra.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/49_A_pra.md">
+<details open><summary><h3>४९ आ प्र ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 49. Start ye (du.) forward hither, wipe off that which the portents (?  
 *abhibhā́*) have said there of you; from that come ye, inviolable ones,  
 to this which is better, being bestowers here on me, a giver to the  
 Fathers.
 
-#### Notes
+##### Notes
 This is highly obscure, and the second half-verse, especially, is  
 rendered only mechanically, and even then with substitution of *vásīyas*  
 where nearly all the mss. have *váśīyas* or *vaśīyas* (our M.I.D., and  
@@ -2285,17 +2131,13 @@ hint at the existence in Ppp. of our book xviii., of which, however,
 there are no other traces in Ppp. save the straggling verses 1. 46 (in  
 ii.), 2. 13 (in xix.), 2. 17 and 3. 56 (in xx.).⌋ ⌊☞ Last addition  
 misplaced: see p. 1016.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/49_A_pra.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Depart ye two: wipe ye away whatever omens of evil fortune here have told you. Go from this man, both Steers, to him who wills it: ye are my joys here by the giver's Fathers.
 </details>
+</details>
 </div>
-
-
 ## ५० एयमगन् दक्षिणा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/50_eyamagan_daxiNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2311,15 +2153,16 @@ Depart ye two: wipe ye away whatever omens of evil fortune here have told you. G
 यौव॑ने जी॒वानु॑प॒पृञ्च॑ती ज॒रा पि॒तृभ्य॑ उप॒संप॑राणयादि॒मान्॥५०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/50_eyamagan_daxiNA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/50_eyamagan_daxiNA.md">
+<details open><summary><h3>५० एयमगन् दक्षिणा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 50. This sacrificial gift hath come excellently to us, given by him,  
 well-milking, vigor-bestowing; old age, coming close to (? *upa-pṛc*)  
 them living in youth, shall lead these away together unto the Fathers.
 
-#### Notes
+##### Notes
 According to Kāuś. (82. 41, the next rule to that which quotes the  
 preceding verse), the verse accompanies the giving ⌊or receiving: comm.⌋  
 of a *dakṣiṇā* or sacrificial gift of at least ten kine ⌊the comm. says  
@@ -2340,17 +2183,13 @@ the regular and proper form: see Prāt. iv. 2 and note, and iv. 7. In
 váne*, and Op. *yāuváneṣu;* while Bs. ⌊O.K.⌋ also accent *yāú váne*, as  
 do two of SPP's mss. (three others *yāuváne*, and only two, with our  
 M.T.R.s.m., *yāúvane*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/50_eyamagan_daxiNA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From a good quarter have we gained this guerdon, gift of this man, strength giving, plenteous milker. Bringing in youth old age unto the living, may she bear these together to the Fathers.
 </details>
+</details>
 </div>
-
-
 ## ५१ इदं पितृभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/51_idaM_pitRbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2366,15 +2205,16 @@ From a good quarter have we gained this guerdon, gift of this man, strength givi
 तदा रो॑ह पुरुष॒ मेध्यो॒ भव॒न् प्रति॑ त्वा जानन्तु पि॒तरः॒ परे॑तम्॥५१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/51_idaM_pitRbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/51_idaM_pitRbhyaH.md">
+<details open><summary><h3>५१ इदं पितृभ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 51. This *barhís* I bring forward for the Fathers; a living, higher one  
 I strew for the gods; that do thou ascend, O man, becoming sacrificial;  
 let the Fathers acknowledge thee who art departed.
 
-#### Notes
+##### Notes
 A corresponding verse is found in TA. (in vi. 7. 2), which reads in  
 **a** *bharema*, for **b** *devébhyo jī́vanta úttaram bharema*, for **c,  
 d** *táttvam ārohā́so médhyo bháva* ⌊Poona ed. *bhávam*\*⌋ *yaména tváṁ  
@@ -2392,17 +2232,13 @@ supine upon the grass thus strewn: that is to say, this verse is
 intended in Kāuś. 80. 51; ⌊so also Caland, WZKM. viii. 368⌋. \*⌊The mss.  
 vary between *bhavaṁ* and *bhava* and the TA. comm. understands  
 *bhava*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/51_idaM_pitRbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 I bring this clipped grass hither for the Fathers: grass living,. higher, for the Gods I scatter. Mount this, O man, as victim: let the Fathers recognize thee: when thou hast travelled yonder.
 </details>
+</details>
 </div>
-
-
 ## ५२ एदं बर्हिरसदो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/52_edaM_barhirasado.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2418,15 +2254,16 @@ I bring this clipped grass hither for the Fathers: grass living,. higher, for th
 य॒था॒प॒रु त॒न्वं॑१ सं भ॑रस्व॒ गात्रा॑णि ते॒ ब्रह्म॑णा कल्पयामि ॥५२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/52_edaM_barhirasado.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/52_edaM_barhirasado.md">
+<details open><summary><h3>५२ एदं बर्हिरसदो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 52. Thou hast sat upon this *barhís*, thou hast become sacrificial; let  
 the Fathers acknowledge thee who art departed; collect thy body  
 according to its joints; I arrange thy members with *bráhman*.
 
-#### Notes
+##### Notes
   
   
   
@@ -2452,17 +2289,13 @@ passage the mss. have *yathāparuḥ saṁcinoti* (one, *-puru*), and Keśava
 says *yathāparu*, and Bloomfield emends to *yathāparu;* but I am not  
 quite sure that it is necessary, for *yathāparus* may not be bad  
 Sanskrit.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/52_edaM_barhirasado.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Set on this grass thou hast become a victim. Fathers shall know thee yonder when they meet thee. Gather thy body, limb by limb, together: I by the power of prayer arrange thy members.
 </details>
+</details>
 </div>
-
-
 ## ५३ पर्णो राजापिधानं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/53_parNo_rAjApidhAnaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2478,15 +2311,16 @@ Set on this grass thou hast become a victim. Fathers shall know thee yonder when
 आयु॑र्जी॒वेभ्यो॒ विद॑धद् दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥५३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/53_parNo_rAjApidhAnaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/53_parNo_rAjApidhAnaM.md">
+<details open><summary><h3>५३ पर्णो राजापिधानं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 53. King leaf is the cover of the dishes; the strength of refreshment,  
 the power, vigor, hath come to us, dispensing (*vi-dhā*) life-time to  
 the living (pl.), in order to length of life for a hundred autumns.
 
-#### Notes
+##### Notes
 The comm. reads in **a**, against the *pada*-text and the metrical  
 requirement, the later abbreviated *pidhānam*. It understands by *parṇa*  
 ('leaf') the tree so called, or the *palāśa*-tree; and this may be  
@@ -2520,17 +2354,13 @@ Caland's excellent paragraphs on this subject, ZDMG. liii. 212.—The
 "nine dishes" are the last nine of the eleven whose deposition is  
 explained above, under vs. 16. The "plates" are the leaky old dishes  
 noticed above under vs. 36.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/53_parNo_rAjApidhAnaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The royal Parna is the caldrons' cover: strength have we gained, force, power, and might, and vigour. Bestowing length of life upon the living, for long existence through a hundred autumns.
 </details>
+</details>
 </div>
-
-
 ## ५४ ऊर्जो भागो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/54_Urjo_bhAgo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2546,15 +2376,16 @@ The royal Parna is the caldrons' cover: strength have we gained, force, power, a
 तम॑र्चत वि॒श्वमि॑त्रा ह॒विर्भिः॒ स नो॑ य॒मः प्र॑त॒रं जी॒वसे॑ धात्॥५४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/54_Urjo_bhAgo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/54_Urjo_bhAgo.md">
+<details open><summary><h3>५४ ऊर्जो भागो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 54. The share of refreshment that generated this man;—the stone attained  
 (*gam*) the overlordship of the foods;—him praise ye, all-befriended,  
 with oblations; may that Yama make (*dhā*) us to live further.
 
-#### Notes
+##### Notes
   
   
   
@@ -2581,17 +2412,13 @@ for preferring either nominative or vocative ⌊the comm. takes the
 doubtful word as voc.⌋. ⌊If the Viśvāmitras be not meant here and at 3.  
 63, then Weber's observations reported under 3. 16 lose some of their  
 basis.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/54_Urjo_bhAgo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 The share of vigour which gave this man being, the stone won lordship over foods that nourish. Hymn this with your oblations, Visvamitras: may he, may Yama, lengthen our existence.
 </details>
+</details>
 </div>
-
-
 ## ५५ यथा यमाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/55_yathA_yamAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2607,14 +2434,15 @@ The share of vigour which gave this man being, the stone won lordship over foods
 ए॒वा व॑पामि ह॒र्म्यं यथा॑ मे॒ भूर॒योऽस॑त ॥५५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/55_yathA_yamAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/55_yathA_yamAya.md">
+<details open><summary><h3>५५ यथा यमाय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 55. As the five clans (*mānavá*) scattered (*vap*) a dwelling (*harmyá*)  
 for Yama, so do I scatter a dwelling, that there may be many of me (?).
 
-#### Notes
+##### Notes
 A corresponding verse is found in TA. (in vi. 6. 2); it reads *hārmyám*  
 in **a** and **c**, and *evám* in **c**; and for **d** *yáthā́ ’sāma  
 jīvaloké bhū́rayas*, which, however unmetrical, is at least capable of  
@@ -2664,17 +2492,13 @@ I would accordingly read *saṁśnathya* in place of the printed
 their obscene senses, and here, with *sam*, 'to make \[the mound\]  
 compact or firm by striking or beating or patting,' as a modern  
 gravemaker pats the mound with his spade to give it shape and firmness.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/55_yathA_yamAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As the Five Races of mankind for Yama set apart a house. Even so I set a house apart that greater numbers may be mine.
 </details>
+</details>
 </div>
-
-
 ## ५६ इदं हिरण्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/56_idaM_hiraNyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2690,14 +2514,15 @@ As the Five Races of mankind for Yama set apart a house. Even so I set a house a
 स्व॒र्गं य॒तः पि॒तुर्हस्तं॒ निर्मृ॑ड्ढि॒ दक्षि॑णम्॥५६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/56_idaM_hiraNyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/56_idaM_hiraNyaM.md">
+<details open><summary><h3>५६ इदं हिरण्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 56. Wear (*bhṛ*) thou this gold, which thy father wore before; of thy  
 father, going to heaven (*svargá*), do thou wipe off the right hand.
 
-#### Notes
+##### Notes
 The majority of mss. read *pitur* in **c**, some *pítur*, and hardly any  
 (of ours, only Op.) *pitúr*. Many of ours have *mṛḍhḍhi* in **d**: see  
 Prāt. i. 94 and note. The comm. strangely gives *pipṛhi* ⌊cf. xiii. 1.  
@@ -2710,17 +2535,13 @@ the first half he makes the oldest son heat (*ādipayet:* as if the comm.
 read in Kāuś. *ādīpayati* instead of *ādāp-*) in the fire gold found in  
 the hand of the deceased; with the other half the son should wipe the  
 deceased's hand."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/56_idaM_hiraNyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Take thou and wear this piece of gold, the gold thy father used to wear. Wipe tenderly the right hand of thy sire who goes away to heaven.
 </details>
+</details>
 </div>
-
-
 ## ५७ ये च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/57_ye_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2736,15 +2557,16 @@ Take thou and wear this piece of gold, the gold thy father used to wear. Wipe te
 तेभ्यो॑ घृ॒तस्य॑ कु॒ल्यैऽतु॒ मधु॑धारा व्युन्द॒ती॥५७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/57_ye_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/57_ye_cha.md">
+<details open><summary><h3>५७ ये च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 57. Both those who are living and those who are dead; those who are born  
 and those who are worshipful—for them let there go a brook of ghee,  
 honey-streamed, overflowing.
 
-#### Notes
+##### Notes
 We had the second half-verse above as 3. 72 **c, d**, only with  
 *śatádhārā* instead of *mádhudhārā*. The mss. are again at variance as  
 to the accent of *kulyā;* and the majority also accent *madhúdhārā*, as  
@@ -2760,17 +2582,13 @@ the curious corruption *dhārayitum* for *kulyāi ’tu;* ⌊and accents
 80. 46; the Kāuś. uses it twice with 3. 72: see under that verse; in TA.  
 it has an utterly different application, in the ceremony of turning  
 loose the cow that was led with the corpse to the funeral pile.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/57_ye_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To all, the living and the dead, all that are born, the worshipful. Let the full brook of fatness run, o'erflowing, with stream of mead.
 </details>
+</details>
 </div>
-
-
 ## ५८ वृषा मतीनां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/58_vRShA_matInAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2786,16 +2604,17 @@ To all, the living and the dead, all that are born, the worshipful. Let the full
 प्रा॒णः सिन्धू॑नां क॒लशाँ॑ अचिक्रद॒दिन्द्र॑स्य॒ हार्दि॑मावि॒शन् म॑नी॒षया॑ ॥५८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/58_vRShA_matInAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/58_vRShA_matInAM.md">
+<details open><summary><h3>५८ वृषा मतीनां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 58. There purifies itself the conspicuous bull of the prayers, the sun  
 of days, lengthener out of dawns, of the sky (*dív*); the breath of the  
 rivers hath made the jars to resound loudly; entering Indra's heart with  
 skill.
 
-#### Notes
+##### Notes
 This is a verse out of one of the most formidable hymns of the RV.  
 soma-book (RV. ix. 86. 19), and occurring also twice in SV. (i. 559; ii.  
 171). In **b**, RV. reads *sómo áhnaḥ pratarītó ’ṣáso diváḥ;* in **c**,  
@@ -2820,17 +2639,13 @@ ceremonies for the Fathers. He explains the 'rivers' in **c** as the
 tisṛṇām* (vss. 58, 59, 60) *pitṛmedha eva kāṇḍokto viniyogo  
 ‘nusaṁdheyaḥ*, which is not clear to me: should it be *pitṛmedhakāṇḍa  
 evokto?*⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/58_vRShA_matInAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Far-seeing he flows on, the Bull, the Lord of hymns, promoter of the Sun, of Days, of Dawns, of Heaven. Breath of the rivers he hath roared into the jars, and through his wisdom entered into Indra's heart.
 </details>
+</details>
 </div>
-
-
 ## ५९ त्वेषस्ते धूम
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/59_tveShaste_dhUma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2846,30 +2661,27 @@ Far-seeing he flows on, the Bull, the Lord of hymns, promoter of the Sun, of Day
 सूरो॒ न हि द्यु॒ता त्वं कृ॒पा पावक॒ रोच॑से ॥५९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/59_tveShaste_dhUma.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/59_tveShaste_dhUma.md">
+<details open><summary><h3>५९ त्वेषस्ते धूम ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 59. Let thy sparkling (? *tveṣá*) smoke cover, being in the sky,  
 extended bright; for thou, O purifier, shinest like the sun with luster,  
 with beauty (*kṛpā́*).
 
-#### Notes
+##### Notes
 The verse is RV. vi. 2. 6 and SV. i. 83; both read *ṛṇvati* in **a**;  
 ⌊in **b**, SV. combines *diví sáṅ ch-:* cf. *diví ṣáṅ ch-* at xvii. 1.  
 12⌋. The comm. explains *kṛpā* as = *kṛpayā* or *stutyā*. Vāit. (6. 11)  
 uses the verse, with others, in the ceremony of establishing the fires.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/59_tveShaste_dhUma.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let thy bright smoke envelop thee, spread forth, O Bright One, in the sky. For, Purifier, like the Sun thou shinest with thy radiant glow.
 </details>
+</details>
 </div>
-
-
 ## ६० प्र वा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/60_pra_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2885,16 +2697,17 @@ Let thy bright smoke envelop thee, spread forth, O Bright One, in the sky. For, 
 मर्य॑ इव॒ योषाः॒ सम॑र्षसे॒ सोमः॑ क॒लशे॑ श॒तया॑मना प॒था॥६०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/60_pra_vA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/60_pra_vA.md">
+<details open><summary><h3>६० प्र वा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 60. Soma (*índu*) verily goes forward to Indra's rendezvous; the comrade  
 does not violate (*pra-mī*) the comrade's agreements; thou rushest to  
 join, as a male after females—soma, in the jar, by a road of a hundred  
 tracks.
 
-#### Notes
+##### Notes
 The verse corresponds to RV. ix. 86. 16, which has, however, important  
 variants: in **a**, *pró ayāsīd índur* and *niṛkṛtám;* in **b**,  
 *saṁgíram;* in **c**, *yuvatíbhis* and *arṣati;* in **d**, *śatáyāmnā;*  
@@ -2915,17 +2728,13 @@ as an instrumental (like *yuvatíbhis*); in **d** he has the RV.SV.
 reading. The metrical definition of the Anukr. is worthless. ⌊The RV.  
 verse is a good *jagatī*, and so is this, barring **c**, where the  
 corruptions have spoiled meter as well as sense.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/60_pra_vA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Indu is moving forth to Indra's destined place, and slights not as a friend the promise of his friend. Thou, Soma, comest nigh as bridegroom meets the bride, reach- ing the beaker by a course of hundred paths.
 </details>
+</details>
 </div>
-
-
 ## ६१ अक्षन्नमीमदन्त ह्यव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/61_axannamImadanta_hyava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2941,15 +2750,16 @@ Indu is moving forth to Indra's destined place, and slights not as a friend the 
 अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ यवि॑ष्ठा ईमहे ॥६१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/61_axannamImadanta_hyava.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/61_axannamImadanta_hyava.md">
+<details open><summary><h3>६१ अक्षन्नमीमदन्त ह्यव ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 61. They have eaten; they have revelled ⌊surely⌋; they have shaken off  
 (*áva*) those that are dear; having own brightness (*svábhānu*), they  
 have praised; inspired, youngest, we implore.
 
-#### Notes
+##### Notes
 The verse corresponds to RV. i. 82. 2 **a-d**, and is found also in  
 other texts: SV. i. 415; VS. iii. 51; TS. in i. 8. 5²; MS. in i. 10. 3.  
 All these agree in reading in **c** *priyā́s* for *priyā́n*, and, for  
@@ -2971,17 +2781,13 @@ pitaraḥ* etc. comes just before the verses corresponding to our vss.
 81-85.⌋ ⌊śGS., i. 15, prescribes the RV. verse for use when the bride  
 greases the axle of the wedding-car: is this because of the resemblance  
 of *akṣam* ('axle') to *akṣan* (root *ghas*)?!⌋ ⌊See p. lxxix.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/61_axannamImadanta_hyava.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, self-luminous, have praised: we who are youngest supplicate.
 </details>
+</details>
 </div>
-
-
 ## ६२ आ यात
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/62_A_yAta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -2997,15 +2803,16 @@ Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, 
 आयु॑र॒स्मभ्यं॒ दध॑तः प्र॒जां च॑ रा॒यश्च॒ पोषै॑र॒भि नः॑ सचध्वम्॥६२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/62_A_yAta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/62_A_yAta.md">
+<details open><summary><h3>६२ आ यात ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 62. Come ye, O Fathers, delectable, by profound roads that the Fathers  
 travel, assigning to us lifetime and progeny; and do ye attach  
 yourselves to us with abundances of wealth.
 
-#### Notes
+##### Notes
 The last pāda was found above as ix. 4. 24 **d**. Corresponding verses  
 are found in HGS. ii. 10. 5 and MB. ii. 3. 5. For **a, b**, MB. reads  
 *eta pitaraḥ somyāso gambhīrebhiḥ pathibhiḥ pūrviṇebhiḥ;* and as second  
@@ -3023,17 +2830,13 @@ sesame on the *barhis* spread for the purpose of giving the *piṇḍas*. In
 number of syllables, the verse answers to the description of the Anukr.  
 (9+ 10: 11 + 11 = 41). ⌊The MB. reading makes a rectification of the  
 meter at the beginning of **b**.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/62_A_yAta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fathers travel. Bestow upon us life and store of children, and favour us with increase of our riches.
 </details>
+</details>
 </div>
-
-
 ## ६३ परा यात
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/63_parA_yAta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3049,15 +2852,16 @@ Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fat
 अधा॑ मा॒सि पुन॒रा या॑त नो गृ॒हान् ह॒विरत्तुं॑ सुप्र॒जसः॑ सु॒वीराः॑ ॥६३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/63_parA_yAta.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/63_parA_yAta.md">
+<details open><summary><h3>६३ परा यात ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 63. Go away, O Fathers, delectable, by profound roads that go to the  
 stronghold (*pūryā́ṇa*); then, in a month, come ye again to our houses to  
 eat the oblation, with good progeny, with good heroes.
 
-#### Notes
+##### Notes
 All the *pada*-mss. commit the strange blunder of dividing *ā́yāta* in  
 **c** into *ā́: ayāta;* both editions make the necessary correction; the  
 comm. also understands *ā yāta*. In **d**, some of the mss. make great  
@@ -3077,17 +2881,13 @@ after vs. 61, in dismissing the Fathers after their feast of *piṇḍas*.
 The metrical description of the Anukr. is very poor: ⌊it is probable  
 that the verse originally was 11 + 11: 12 + 11; but its **b** is spoiled  
 metrically⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/63_parA_yAta.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Depart, O Fathers, ye who merit Soma, by the deep pathways which the Fathers travel; But in a month, rich in fair sons and heroes, come back into our homes to eat oblation.
 </details>
+</details>
 </div>
-
-
 ## ६४ यद् वो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/64_yad_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3103,15 +2903,16 @@ Depart, O Fathers, ye who merit Soma, by the deep pathways which the Fathers tra
 तद् व॑ ए॒तत् पुन॒रा प्या॑ययामि सा॒ङ्गाः स्व॒र्गे पि॒तरो॑ मादयध्वम्॥६४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/64_yad_vo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/64_yad_vo.md">
+<details open><summary><h3>६४ यद् वो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 64. What one limb of you Agni Jātavedas left when making you go to the  
 Fathers' world, that same for you I fill up again; revel ye, O Fathers,  
 in heaven (*svargá*) with \[all\] your limbs.
 
-#### Notes
+##### Notes
 HGS. has (in ii. 11. 1) an analogous but quite different verse: *yad vaḥ  
 kravyād an̄gam adahal lokān ayam praṇayañ jātavedāḥ: tad vo ’ham punar ā  
 veśayāmy ariṣṭāḥ sarvāir an̄gāiḥ sam bhavata pitaraḥ*. Most of our mss.  
@@ -3128,17 +2929,13 @@ accompany an offering of rice-grains with the stirring-stick (*sāyavana*
 right⌋). ⌊As to completeness of limbs in the other world, see my note to  
 4. 12, above. This verse was translated metrically by Whitney, *O. and  
 L.S.*, i. 57.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/64_yad_vo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 If Agni Jatavedas, as he bore you hence to the Fathers' world, hath left one single. Limb of your bodies, here do I restore it. Fathers, rejoice in heaven with all your members!
 </details>
+</details>
 </div>
-
-
 ## ६५ अभूद् दूतः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/65_abhUd_dUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3154,15 +2951,16 @@ If Agni Jatavedas, as he bore you hence to the Fathers' world, hath left one sin
 प्रादाः॑ पि॒तृभ्यः॑ स्व॒धया॒ ते अ॑क्षन्न॒द्धि त्वं दे॑व॒ प्रय॑ता ह॒वींषि॑ ॥६५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/65_abhUd_dUtaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/65_abhUd_dUtaH.md">
+<details open><summary><h3>६५ अभूद् दूतः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 65. Jātavedas has been the messenger sent forth, at evening, at close of  
 day to be honored by men;—thou hast given to the Fathers; they have  
 eaten after their wont; eat thou, O god, the presented oblations.
 
-#### Notes
+##### Notes
 We had the second half-verse above as 3. 42 **c, d**. Part of our mss.  
 (O.Op.R.D.), with, so far as appears, the majority of SPP's, read in  
 **b** *upavándyas*, and the latter accordingly adopts it in his text;  
@@ -3174,17 +2972,13 @@ I suppose W. means the technical *praṇīta* (cf. comm., p. 233⁶). The
 words of Kāuś. are *agnim pratyānayati:* the ceremony seems to be the  
 same as that prescribed by śB. at ii. 4. 2²⁴, *punar ulmukam api  
 sṛjati*, and by śśS. at iv. 5. 9, *ulmukam agnāu kṛtvā*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/65_abhUd_dUtaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Meet for men's praises, Agni Jatavedas was sent as envoy when the day was closing. Thou gavest to the Fathers with oblation. They ate; eat, God, our offered sacrifices.
 </details>
+</details>
 </div>
-
-
 ## ६६ असौ हा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/66_asau_hA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3200,14 +2994,15 @@ Meet for men's praises, Agni Jatavedas was sent as envoy when the day was closin
 अ॒भ्येऽनं भूम ऊर्णुहि ॥६६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/66_asau_hA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/66_asau_hA.md">
+<details open><summary><h3>६६ असौ हा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 66. Thou yonder, ho! hither thy mind! as sisters (*jāmí*) a *kákutsala*,  
 do thou cover him, O earth.
 
-#### Notes
+##### Notes
 The translation implies the evidently necessary emendation to *ásāu* in  
 **a**; both editions give *asāú*, because this is read by all the mss.;  
 the comm. understands the word as a vocative; it also reads the  
@@ -3220,17 +3015,13 @@ pet word for a little child. We had the third pāda above as 2. 50 **d**,
 51 **d**, and 3. 50 **d**. Kāuś. uses the verse (86. 10) with 2. 50 and  
 3. 49 in the ceremony over the bone-relics. The comm. includes with it  
 vs. 67.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/66_asau_hA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here hast thou left thy heart; O man, as sisters leave their little pet. Do thou, O earth, envelop him.
 </details>
+</details>
 </div>
-
-
 ## ६७ शुम्भन्तां लोकाः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/67_shumbhantAM_lokAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3244,29 +3035,26 @@ Here hast thou left thy heart; O man, as sisters leave their little pet. Do thou
 शुम्भ॑न्तां लो॒काः पि॑तृ॒षद॑नाः पितृ॒षद॑ने त्वा लो॒क आ सा॑दयामि ॥६७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/67_shumbhantAM_lokAH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/67_shumbhantAM_lokAH.md">
+<details open><summary><h3>६७ शुम्भन्तां लोकाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 67. Let the worlds where the Fathers sit adorn themselves (*śumbh*); I  
 make thee to sit in the world where the Fathers sit.
 
-#### Notes
+##### Notes
 The first phrase is VS. v. 26 f, which, however, reads *śúndhantām;* Āp.  
 vii. 9. 10 has *śundhatāṁ lokaḥ pitṛṣadanaḥ*. ⌊For variants as between  
 *śundh* and *śumbh*, cf. notes to vi. 115. 3; xii. 2. 40; 3. 13, 21, 26;  
 xviii. 3. 56.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/67_shumbhantAM_lokAH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphere which they inhabit.
 </details>
+</details>
 </div>
-
-
 ## ६८ ये३स्माकं पितरस्तेषां
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/68_ye3smAkaM_pitarasteShAM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3280,27 +3068,24 @@ Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphe
 ये॒३स्माकं॑ पि॒तर॒स्तेषां॑ ब॒र्हिर॑सि ॥६८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/68_ye3smAkaM_pitarasteShAM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/68_ye3smAkaM_pitarasteShAM.md">
+<details open><summary><h3>६८ ये३स्माकं पितरस्तेषां ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 68. Thou art the *barhís* of them that are our Fathers.
 
-#### Notes
+##### Notes
 The metrical description of the Anukr. implies the reading *yé asm-*. In  
 Kāuś. (87. 27) the verse is used with 1. 51 etc. (see under 1. 51) in  
 connection with the strewing of *barhis*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/68_ye3smAkaM_pitarasteShAM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Thou art the grass whereon our Fathers seat them.
 </details>
+</details>
 </div>
-
-
 ## ६९ उदुत्तमं वरुण
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/69_uduttamaM_varuNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3316,15 +3101,16 @@ Thou art the grass whereon our Fathers seat them.
 अधा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥६९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/69_uduttamaM_varuNa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/69_uduttamaM_varuNa.md">
+<details open><summary><h3>६९ उदुत्तमं वरुण ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 69. Loosen up the uppermost fetter from us, O Varuṇa, \[loosen\] down  
 the lowest, off the midmost; then may we in thy sphere, O Āditya, be  
 guiltless unto Aditi.
 
-#### Notes
+##### Notes
 The verse ⌊which is RV. i. 24. 15, etc.⌋ occurred above as vii. 83. 3  
 ⌊which see⌋; among our mss., only O.R. write it out in full. The comm.  
 notices the repetition, yet goes on to give a full explication. In Kāuś.  
@@ -3333,17 +3119,13 @@ notices the repetition, yet goes on to give a full explication. In Kāuś.
 implying that "the oldest" son of the deceased pours water on the  
 attendants; the comm. says that with this verse, immediately after the  
 cremation, all the Brahmans should take a bath (*snānaṁ kuryuḥ*).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/69_uduttamaM_varuNa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and under. Then under thy protection, O Aditya, may we be sinless and restored to freedom.
 </details>
+</details>
 </div>
-
-
 ## ७० प्रास्मत् पाशान्
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/70_prAsmat_pAshAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3359,15 +3141,16 @@ Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and un
 अधा॑ जीवेम श॒रदं॑ श॒तानि॒ त्वया॑ राजन् गुपि॒ता रक्ष॑माणाः ॥७०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/70_prAsmat_pAshAn.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/70_prAsmat_pAshAn.md">
+<details open><summary><h3>७० प्रास्मत् पाशान् ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 70. Release from us all fetters, O Varuṇa, with which one is bound  
 crosswise, with which lengthwise; so may we live hundreds of autumns, by  
 thee, O king, guarded, defended.
 
-#### Notes
+##### Notes
 The rendering of *samāmé* and *vyāmé* in **b** is far from certain: cf.  
 iv. 16. 8. The comm. explains: *samāmo nāma vyāmasaṁjñitapradeśāt  
 saṁkucitapramāṇako deśaḥ: saṁnihite pradeśe dūre pradeśe ce ’ti yāvat*.  
@@ -3386,17 +3169,13 @@ identical with vii. 83. 4 **a**. All the *pada*-mss. except one of SPP's
 read *gupitā́* instead of *-tā́ḥ*. The comm. directs the verse to be  
 recited for good fortune evening and morning at the end of the  
 *daśarātra* in the *pitṛmedha*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/70_prAsmat_pAshAn.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 From all those bonds, O Varuna, release us, wherewith a man is bound at length and cross-wise. Then may we live a hundred autumn seasons guarded by thee, O King, by thee protected.
 </details>
+</details>
 </div>
-
-
 ## ७१ अग्नये कव्यवाहनाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/71_agnaye_kavyavAhanAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3410,25 +3189,21 @@ From all those bonds, O Varuna, release us, wherewith a man is bound at length a
 अ॒ग्नये॑ कव्य॒वाह॑नाय स्व॒धा नमः॑ ॥७१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/71_agnaye_kavyavAhanAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/71_agnaye_kavyavAhanAya.md">
+<details open><summary><h3>७१ अग्नये कव्यवाहनाय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 71. To Agni, carrier of the *kavyás*, \[be\] *svadhā́* \[and\] homage.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/71_agnaye_kavyavAhanAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Agni, bearer of oblation to the Manes, be Hail! and homage!
 </details>
+</details>
 </div>
-
-
 ## ७२ सोमाय पितृमते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/72_somAya_pitRmate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3442,13 +3217,14 @@ To Agni, bearer of oblation to the Manes, be Hail! and homage!
 सोमा॑य पि॒तृम॑ते स्व॒धा नमः॑ ॥७२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/72_somAya_pitRmate.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/72_somAya_pitRmate.md">
+<details open><summary><h3>७२ सोमाय पितृमते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 72. To Soma with the Fathers \[be\] *svadhā́* \[and\] homage.
 
-#### Notes
+##### Notes
 ⌊Verses 71-87 are prose, except vs. 75, with regard to which see p. 869,  
 ¶5.⌋ These verses ⌊71, 72⌋ are found, in reversed order, in AśS. ii. 6.  
 12. In VS. ii. 29 **a, b**, are found both, but with *svā́hā* in place of  
@@ -3461,17 +3237,13 @@ later (88. 2, 3, 4) in the same ceremony, with oblations. ⌊Verse 71 is
 employed by Vāit. (9. 8) in the *sākamedha*, and I suspect (see p. 869,  
 ¶7) that the *sūtra* intends vss. 72 and 73 also to be thus used: cf.  
 also ĀpśS. viii. 13. 15, 16.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/72_somAya_pitRmate.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Soma connected with the Fathers Hail! and homage!
 </details>
+</details>
 </div>
-
-
 ## ७३ पितृभ्यः सोमवद्भ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/73_pitRbhyaH_somavadbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3485,25 +3257,21 @@ To Soma connected with the Fathers Hail! and homage!
 पि॒तृभ्यः॒ सोम॑वद्भ्यः स्व॒धा नमः॑ ॥७३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/73_pitRbhyaH_somavadbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/73_pitRbhyaH_somavadbhyaH.md">
+<details open><summary><h3>७३ पितृभ्यः सोमवद्भ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 73. To the Fathers with Soma, *svadhā́* \[and\] homage.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/73_pitRbhyaH_somavadbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To the Fathers connected with Soma Hail! and homage!
 </details>
+</details>
 </div>
-
-
 ## ७४ यमाय पितृमते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/74_yamAya_pitRmate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3517,13 +3285,14 @@ To the Fathers connected with Soma Hail! and homage!
 य॒माय॑ पि॒तृम॑ते स्व॒धा नमः॑ ॥७४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/74_yamAya_pitRmate.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/74_yamAya_pitRmate.md">
+<details open><summary><h3>७४ यमाय पितृमते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 74. To Yama with the Fathers, *svadhā́* \[and\] homage.
 
-#### Notes
+##### Notes
   
   
   
@@ -3533,17 +3302,13 @@ For the ritual use of these verses see the preceding note. ⌊Parallels of
 our vss. 72 and 74 and 71, and in that order, recur at MGS. ii. 9. 13:  
 cf. the *pratīkas* in Knauer's Index, and also under *pitṛbhyas*, p.  
 152.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/74_yamAya_pitRmate.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To Yama connected with the Fathers Hail! and homage!
 </details>
+</details>
 </div>
-
-
 ## ७५ एतत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/75_etat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3557,26 +3322,22 @@ To Yama connected with the Fathers Hail! and homage!
 ए॒तत् ते॑ प्रततामह स्व॒धा ये च॒ त्वामनु॑ ॥७५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/75_etat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/75_etat_te.md">
+<details open><summary><h3>७५ एतत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 75. Here is *svadhā́* for thee, O great-grandfather, and for them that  
 are after (*ánu*) thee.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/75_etat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To thee, O Great-grandfather, and those with thee be this cry of Hail
 </details>
+</details>
 </div>
-
-
 ## ७६ एत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/76_et_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3590,26 +3351,22 @@ To thee, O Great-grandfather, and those with thee be this cry of Hail
 ए॒त् ते॑ ततामह स्व॒धा ये च॒ त्वामनु॑ ॥७६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/76_et_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/76_et_te.md">
+<details open><summary><h3>७६ एत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 76. Here is *svadhā́* for thee, O grandfather, and for them that are  
 after thee.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/76_et_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To thee, Great-grandfather, and to those with thee be this cry of Hail!
 </details>
+</details>
 </div>
-
-
 ## ७७ एतत् ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/77_etat_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3623,13 +3380,14 @@ To thee, Great-grandfather, and to those with thee be this cry of Hail!
 ए॒तत् ते॑ तत स्व॒धा॥७७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/77_etat_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/77_etat_te.md">
+<details open><summary><h3>७७ एतत् ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 77. Here is *svadhā́* for thee, O father.
 
-#### Notes
+##### Notes
 Passages analogous with these three verses are found in a number of  
 other texts: TS. i. 8. 5¹; AśS. ii. 6. 15; Āp. i. 9. 1 (cf. also viii.  
 16. 6; xiii. 12. 9); śśS. iv. 4. 2; GGS. iv. 2. 35; śB. ii. 4. 2¹⁹  
@@ -3648,17 +3406,13 @@ Prajāpati's early linguistic ventures which remind us somewhat of the
 beautiful  
   
 βεκός story as told by Herodotus in the beginning of Euterpe.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/77_etat_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To thee, O Fathers, be this cry of Hail!
 </details>
+</details>
 </div>
-
-
 ## ७८ स्वधा पितृभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/78_svadhA_pitRbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3672,25 +3426,21 @@ To thee, O Fathers, be this cry of Hail!
 स्व॒धा पि॒तृभ्यः॑ पृथिवि॒षद्भ्यः॑॥७८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/78_svadhA_pitRbhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/78_svadhA_pitRbhyaH.md">
+<details open><summary><h3>७८ स्वधा पितृभ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 78. *Svadhā́* to the Fathers that sit upon the earth.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/78_svadhA_pitRbhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail to the Fathers who inhabit earth!
 </details>
+</details>
 </div>
-
-
 ## ७९ स्वधा पितृभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/79_svadhA_pitRbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3704,25 +3454,21 @@ Hail to the Fathers who inhabit earth!
 स्व॒धा पि॒तृभ्यो॑ अन्तरिक्ष॒सद्भ्यः॑ ॥७९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/79_svadhA_pitRbhyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/79_svadhA_pitRbhyo.md">
+<details open><summary><h3>७९ स्वधा पितृभ्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 79. *Svadhā́* to the Fathers that sit in the atmosphere.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/79_svadhA_pitRbhyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail to the Fathers who inhabit the firmament!
 </details>
+</details>
 </div>
-
-
 ## ८० स्वधा पितृभ्यो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/80_svadhA_pitRbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3736,13 +3482,14 @@ Hail to the Fathers who inhabit the firmament!
 स्व॒धा पि॒तृभ्यो॑ दिवि॒षद्भ्यः॑ ॥८०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/80_svadhA_pitRbhyo.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/80_svadhA_pitRbhyo.md">
+<details open><summary><h3>८० स्वधा पितृभ्यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 80. *Svadhā́* to the Fathers that sit in the sky (*dív*).
 
-#### Notes
+##### Notes
 These verses are found also in Āp. i. 9. 6, and in GGS. iv. 3. 10. GGS.  
 has *pṛthivīṣadbhyas* ⌊and *antarīkṣasadbhyas*⌋; both combine *pitṛbhyo  
 ‘ntar-*; and our O.R.K., with half of SPP's authorities, do the same;  
@@ -3750,17 +3497,13 @@ the Anukr. implies *-bhyo antar-*, but that proves nothing. For the
 ritual use, see under vss. 71, 72 above. Both Āp. and GGS. prescribe the  
 verses for the case that the names of the Fathers intended are not  
 known.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/80_svadhA_pitRbhyo.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail to the Fathers who dwell in heaven!
 </details>
+</details>
 </div>
-
-
 ## ८१ नमो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/81_namo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3774,26 +3517,22 @@ Hail to the Fathers who dwell in heaven!
 नमो॑ वः पितर ऊ॒र्जे नमो॑ वः पितरो॒ रसा॑य ॥८१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/81_namo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/81_namo_vaH.md">
+<details open><summary><h3>८१ नमो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 81. Homage, O Fathers, to your refreshment (*ū́rj*); homage, O Fathers,  
 to your sap.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/81_namo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail, Fathers, to your energy! Hail, Fathers, to your sap!
 </details>
+</details>
 </div>
-
-
 ## ८२ नमो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/82_namo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3807,26 +3546,22 @@ Hail, Fathers, to your energy! Hail, Fathers, to your sap!
 नमो॑ वः पितरो॒ भामा॑य॒ नमो॑ वः पितरो म॒न्यवे॑ ॥८२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/82_namo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/82_namo_vaH.md">
+<details open><summary><h3>८२ नमो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 82. Homage, O Fathers, to your terror\* (*bhā́ma*); homage, O Fathers,  
 to your fury.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/82_namo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail Father; to your wrath! Hail, Fathers, to your ardour!
 </details>
+</details>
 </div>
-
-
 ## ८३ नमो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/83_namo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3840,26 +3575,22 @@ Hail Father; to your wrath! Hail, Fathers, to your ardour!
 नमो॑ वः पितरो॒ यद् घोरं तस्मै॒ नमो॑ वः पितरो॒ यत् क्रू॒रं तस्मै॑ ॥८३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/83_namo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/83_namo_vaH.md">
+<details open><summary><h3>८३ नमो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 83. Homage, O Fathers, to that of yours which is terrible; homage, O  
 Fathers, to that of yours which is cruel.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/83_namo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 </details>
+</details>
 </div>
-
-
 ## ८४ नमो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/84_namo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3873,26 +3604,22 @@ Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 नमो॑ वः पितरो॒ यच्छि॒वं तस्मै॒ नमो॑ वः पितरो॒ यत् स्यो॒नं तस्मै॑ ॥८४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/84_namo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/84_namo_vaH.md">
+<details open><summary><h3>८४ नमो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 84. Homage, O Fathers, to that of yours which is propitious; homage, O  
 Fathers, to that of yours which is pleasant.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/84_namo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 </details>
+</details>
 </div>
-
-
 ## ८५ नमो वः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/85_namo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3906,13 +3633,14 @@ Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 नमो॑ वः पितरः स्व॒धा वः॑ पितरः ॥८५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/85_namo_vaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/85_namo_vaH.md">
+<details open><summary><h3>८५ नमो वः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 85. Homage to you, O Fathers; *svadhā́* to you, O Fathers.
 
-#### Notes
+##### Notes
 For a wonder, these formulas are written by all the mss. without  
 variation and without error. Corresponding passages are to be found in  
 many other texts: VS. ii. 32; TB. i. 3. 10⁸; MS. i. 10. 3; K. ix. 6;  
@@ -3922,17 +3650,13 @@ the details of accordance and of difference are not worth giving. In
 Kāuś. (88. 26) they accompany in the *piṇḍapitṛyajña* the reverence  
 (*upasthāna*) paid to the Fathers, being then followed by vss. 61 and  
 63. \*⌊That is, 'to your terror-inspiring fury.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/85_namo_vaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Homage to you Fathers! Hail to you, Fathers!
 </details>
+</details>
 </div>
-
-
 ## ८६ येऽत्र पितरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/86_ye_atra_pitaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3946,26 +3670,22 @@ Homage to you Fathers! Hail to you, Fathers!
 येऽत्र॑ पि॒तरः॑ पि॒तरो॒ येऽत्र॑ यू॒यं स्थ यु॒ष्मांस्तेऽनु॑ यू॒यं तेषां॒ श्रेष्ठा॑ भूयास्थ ॥८६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/86_ye_atra_pitaraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/86_ye_atra_pitaraH.md">
+<details open><summary><h3>८६ येऽत्र पितरः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 86. They who are there, O Fathers—Fathers there are ye—\[be\] they after  
 you; may ye be the best of them.
 
-#### Notes
-
-
+##### Notes
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/86_ye_atra_pitaraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All Fathers who are here, the Fathers here are you: let then- follow you. May ye be the most excellent of these.
 </details>
+</details>
 </div>
-
-
 ## ८७ य इह
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/87_ya_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -3981,14 +3701,15 @@ All Fathers who are here, the Fathers here are you: let then- follow you. May ye
 अ॒स्मांस्तेऽनु॑ व॒यं तेषां॒ श्रेष्ठा॑ भूयास्म ॥८७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/87_ya_iha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/87_ya_iha.md">
+<details open><summary><h3>८७ य इह ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 87. They who are here, O Fathers—alive here are we—\[be\] they after  
 us; may we be the best of them.
 
-#### Notes
+##### Notes
 The translation here implies certain emendations of the text: *pitaras*  
 ⌊accentless⌋ in 87 and the first time in 86, and the omission of *yé*  
 after the second *pitáras* in 86: the latter is made also in our text,  
@@ -4066,17 +3787,13 @@ santaḥ syāmeti mantraḥ paṭhitavyo vaḥkāraṁ varjayitvā*.—The *etā
 *imās* seem to refer to *svadhā́s* (cf. śśS. as above: *yā atra pitarḥh  
 svadhā, yuṣmākaṁ sā: ya iha pitara edhatur, asmākaṁ saḥ*); and the *eṣā́*  
 of MS. appears to require correction to *etā́* p. *etā́ḥ*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/87_ya_iha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 All living fathers who are here are we here: let them follow us. May we be the most excellent of these.
 </details>
+</details>
 </div>
-
-
 ## ८८ आ त्वाग्न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/88_A_tvAgna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4094,15 +3811,16 @@ All living fathers who are here are we here: let them follow us. May we be the m
 इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥८८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/88_A_tvAgna.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/88_A_tvAgna.md">
+<details open><summary><h3>८८ आ त्वाग्न ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 88. Thee, O Agni, would we kindle, full of light (*dyumánt*), O god,  
 unwasting; as that very wondrous fuel of thine shall shine in the sky  
 (*dív*), bring thou food for thy praisers.
 
-#### Notes
+##### Notes
 The verse is RV. v. 6. 4, and occurs also as SV. i. 419 and ii. 372, and  
 in TS. iv. 4. 4⁶ and MS. ii. 13. 7. All these agree together throughout,  
 reading in **a** *te agna idh-* for *tvā ’gna idh-*, and in **c** *syā́*  
@@ -4114,17 +3832,13 @@ and the Anukr. supports it, whence SPP. has it in his edition; we left
 it out as being uncalled for, and wanting in the parallel texts. For the  
 use of the verse in Kāuś. with 3. 42, see the note to the latter: cf. p.  
 871, ¶3.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/88_A_tvAgna.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Bright Agni, we will kindle thee, rich in thy splendour, fading. not. So that this glorious fuel may send forth to heaven its light for thee. Bring food to those who sing thy praise.
 </details>
+</details>
 </div>
-
-
 ## ८९ चन्द्रमा अप्स्व१न्तरा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/18/004_pitRmedhaH/89_chandramA_apsva1ntarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -4140,15 +3854,16 @@ Bright Agni, we will kindle thee, rich in thy splendour, fading. not. So that th
 न वो॑ हिरण्यनेमयः प॒दं वि॑न्दन्ति विद्युतो वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥८९॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/18/004_pitRmedhaH/89_chandramA_apsva1ntarA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/004_pitRmedhaH/89_chandramA_apsva1ntarA.md">
+<details open><summary><h3>८९ चन्द्रमा अप्स्व१न्तरा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 89. The moon among the waters runs, an eagle in the sky (*dív*); they  
 find not your track, O golden-rimmed lightnings: know me as such, O  
 firmaments (*ródasī*).
 
-#### Notes
+##### Notes
 The verse is RV. i. 105. 1 and also SV. i. 417 ⌊Trāita Sāman⌋; and its  
 first two pādas are VS. xxxiii. 90 **a, b**; it is quoted by *pratīka*  
 in GB. i. 2. 9; ⌊pāda **e** is refrain all through the RV. hymn, save in  
@@ -4169,12 +3884,10 @@ Anukr. says *ekonanavatiś cāi ’va yameṣu vihitā ṛcaḥ:* cf. pages 814 
 869, ¶4, note 1.⌋  
   
 ⌊Here also ends the thirty-fourth *prapāṭhaka*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/18/004_pitRmedhaH/89_chandramA_apsva1ntarA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Within the waters runs the Moon, the strong-winged Eagle soars. in heaven. Ye Lightnings with your golden wheels, men find not your abid- ing-place. Hear this my call, O Heaven and Earth.
+</details>
 </details>
 </div>

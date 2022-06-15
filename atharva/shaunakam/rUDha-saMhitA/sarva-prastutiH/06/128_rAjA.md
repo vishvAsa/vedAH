@@ -19,24 +19,19 @@ title = "१२८ राजा"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/128_rAjA/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Except the third verse, this hymn occurs also in Pāipp. xix. Besides the ceremony reported under vs. 1, Kāuś. has the hymn (50. 13) in a general rite for good fortune, with vi. 1, 3-7, 59, etc. etc.; and also, in the chapter of portents (100. 3), in an expiatory ceremony on occasion of an eclipse of the moon (somagrahaṇa, comm.); vs. 3, too, is specially quoted in the aṣṭakā ceremony (138. 8), as accompanying a nineteenth [oblation?].
 
 
-#### Translations
+##### Translations
 Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, i. 316; Bloomfield, 160, 532.—Bloomfield had already treated it at length, AJP. vii. 484 ff., and JAOS. xiii. p. cxxxiii (= PAOS., Oct. 1886). A pencilled note on Whitney's ms. shows that he considered the propriety of rewriting the translation and comment for vi. 128.
-
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/128_rAjA/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
-</details>
-</div>
-
-
 ## ०१ शकधूमं नक्षत्राणि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -52,14 +47,15 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 भ॒द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
+<details open><summary><h3>०१ शकधूमं नक्षत्राणि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. When the asterisms made the *śakadhū́ma* their king, they bestowed on  
 him auspicious (*bhadrá-*) day, saying "This shall be \[his\] royalty."
 
-#### Notes
+##### Notes
 *śakadhū́ma* (with irregular but not unparalleled accent: see my *Skt.  
 Gr.* §1267 b) means primarily 'dung-smoke,' i.e. smoke arising from  
 burning dung (or else the vapor from fresh dung). According to the  
@@ -78,17 +74,13 @@ appendix to the Nakṣatra-kalpa: see Bloomfield, AJP. vii. 485): it reads
 *yad rājānaṁ śakadhūmaṁ nakṣatrāṇy akṛṇuta: bhadrāham asmāi prā ’yachan  
 iato rāṣṭram ajāyata*. The accent of *ásāt* in **d** is not explained by  
 any known rule. \*⌊So Keśava to Kāuś. 50. 16.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 What time the heavenly bodies chose the Weather Prophet as their King, They brought him favouring weather, and, Let this be his do- main, they said.
 </details>
+</details>
 </div>
-
-
 ## ०२ भद्राहं नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,30 +96,27 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 भ॒द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/128_rAjA/02_bhadrAhaM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/02_bhadrAhaM_no.md">
+<details open><summary><h3>०२ भद्राहं नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Auspicious day ours at noon, auspicious day be ours at evening,  
 auspicious day ours in the morning of the days; be night auspicious day  
 for us.
 
-#### Notes
+##### Notes
 That is, may each of these times be free from omens and influences of  
 ill-luck. The Ppp. version runs thus: *bh. astu nas sāyaṁ bh. prātar  
 astu naḥ: bh. asmabhyaṁ tvaṁ śakadhūma sadā kṛṇu* (as in the appendix to  
 the Nakṣatra-kalpa just cited).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/128_rAjA/02_bhadrAhaM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May we have weather fair at noon, May we have weather fair at eve, Fair weather when the morning breaks, fair weather when the night is come.
 </details>
+</details>
 </div>
-
-
 ## ०३ अहोरात्राभ्यां नक्षत्रेभ्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,29 +132,26 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 भ॒द्रा॒हम॒स्मभ्यं॑ राज॒न्छक॑धूम॒ त्वं कृ॑धि ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
+<details open><summary><h3>०३ अहोरात्राभ्यां नक्षत्रेभ्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. From day-and-night, from the asterisms, from sun-and-moon, do thou, O  
 king *śakadhū́ma*, make auspicious day for us.
 
-#### Notes
+##### Notes
 This verse, as already noted, is wanting in Ppp., but its second half  
 nearly agrees with that of the Ppp. version of vs. 2. The accent in  
 **b** should be emended to *sūryācandramasā́bhyām*, as is read below ⌊see  
 W's note⌋ in xi. 3. 34. The first half-verse is metrically irregular.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Fair weather to the day and night, and to the stars and sun and moon. Give favourable weather thou, King, Weather Prophet, unto us.
 </details>
+</details>
 </div>
-
-
 ## ०४ यो नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -181,15 +167,16 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥४॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/128_rAjA/04_yo_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/04_yo_no.md">
+<details open><summary><h3>०४ यो नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. Thou who hast made auspicious day for us at evening, by night, also  
 by day—to thee as such, O *śakadhū́ma*, king of the asterisms, \[be\]  
 always homage.
 
-#### Notes
+##### Notes
 Ppp. reads *akarat* at end of **a**, and *prātar* for *naktam* in **b**.  
 All the mss. leave *akaras* unaccented, and SPP. accordingly gives  
 *akaras*. in his text; ours emends to *ákaras*.  
@@ -200,12 +187,10 @@ asterisms, and that its imitation by a column of the heavy smoke of
 burning dung is what was relied on to counteract any evil influences  
 from the asterisms; or the behavior of such smoke, as rising upward or  
 hanging low, may have been really a weather-sign.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/128_rAjA/04_yo_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us oo weather in the evening and by night and day!
+</details>
 </details>
 </div>

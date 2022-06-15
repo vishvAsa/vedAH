@@ -2,12 +2,9 @@
 title = "+११"
 
 +++
-<div class="js_include" newlevelforh1="2" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/11/_index.md">
-<details open><summary><h2>अनुक्रमणी (Whitney) ...{Loading}...</h2></summary>
-
-
-
-
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/_index.md">
+<details open><summary><h2>Paryāya-hymns: ...{Loading}...</h2></summary>
+<details><summary>Whitney</summary>
 
 Book XI.
 
@@ -123,7 +120,6 @@ shows the "decad"-division. Of these "decads," *anuvākas* 1, 2, 3, 4,
 and 5 contain respectively 7, 3, 5, 6, and 6 (in all, 27 "decads");
 while *anuvāka* 2 has 3 *paryāyas*. The sum is 27 "decad"-*sūktas* and 3
 *paryāya-sūktas* or 30 *sūktas*.⌋
-
-
+</details>
 </details>
 </div>

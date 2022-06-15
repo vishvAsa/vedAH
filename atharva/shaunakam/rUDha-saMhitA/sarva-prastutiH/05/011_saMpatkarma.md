@@ -19,22 +19,19 @@ title = "०११ संपत्कर्म"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. viii. It is used by Kāuś. only once, and in a connection which casts no light upon it, namely at 12. 1, in a rite for general welfare (one eats a dish of milk-rice cooked on a fire of mādānaka-sticks). It is not quoted at all by Vāit. The interpretation in detail is difficult and far from certain.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A dialogue between Atharvan and Varuna
 </details>
+</details>
 </div>
-
-
 ## ०१ कथं महे
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/01_kathaM_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -50,16 +47,17 @@ A dialogue between Atharvan and Varuna
 पृश्निं॑ वरुण॒ दक्षि॑णां ददा॒वान् पुन॑र्मघ॒ त्वं मन॑साचिकित्सीः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/01_kathaM_mahe.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/01_kathaM_mahe.md">
+<details open><summary><h3>०१ कथं महे ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. How unto the great Asura didst thou speak here? how, with shining  
 manliness, unto the yellow (*hári*) father? having given, O Varuṇa, a  
 spotted \[cow\] as sacrificial fee, thou hast with the mind intended (?  
 *cikits*) re-bestowal (?).
 
-#### Notes
+##### Notes
 The second half-verse is probably meant as what was "spoken." The  
 translation of **d** implies Aufrecht's acute emendation (in Muir) of  
 the reading to *punarmaghatvám*. The sense of *punarmagha* is very  
@@ -72,17 +70,13 @@ Varuna,' and understand *cikits* as 'impute' or 'expect.' Roth regards
 the verse as spoken by Varuṇa; Muir, by Atharvan; the former is more  
 acceptable. Ppp. begins *kathā diva asurāya bravāmaḥ kathā*, and reads  
 *pṛśniḥ* in **c**. ⌊R. takes *hári* as 'wrathful.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/01_kathaM_mahe.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 How, terrible in might, hast thou here spoken to the great God, how to the gold-hued Father! Thy mind watched, greedy Varuna! to recover the brindled cow thou hadst bestowed as guerdon.
 </details>
+</details>
 </div>
-
-
 ## ०२ न कामेन
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/02_na_kAmena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -98,16 +92,17 @@ How, terrible in might, hast thou here spoken to the great God, how to the gold-
 केन॒ नु त्वम॑थर्व॑न् काव्ये॑न॒ केन॑ जा॒तेना॑सि जा॒तवे॑दाः ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/02_na_kAmena.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/02_na_kAmena.md">
+<details open><summary><h3>०२ न कामेन ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Not at pleasure am I a re-bestower; for examination (?) do I drive  
 home this spotted \[cow\]; by what poesy (*kā́vya*) now, O Atharvan,  
 \[art\] thou \[poet\]? by what that is produced (*jātá*) art thou  
 *jātávedas?*
 
-#### Notes
+##### Notes
 The rendering of **b** implies the necessary and obvious emendation of  
 *sáṁ cakṣe* (P.M.W. *-kṣve*) to *saṁcákṣe*, infinitive. *Kā́mena* seems  
 taken adverbially, = *kāmāya, kāmam, kāmāt;* the god is not to be moved  
@@ -117,17 +112,13 @@ possession whatever is produced (or born),' 'all-possessor.' B.P.M.
 accent *átharvan* in **c**; one might emend to *átharvā:* 'in virtue of  
 what poetic merit art thou Atharvan?' The verse belongs of course to  
 Varuṇa. Ppp. reads in **b** *saṁpṛcchi* and *upājet*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/02_na_kAmena.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Not through desire do I revoke my present: I bring this brind- led cow to contemplate her. Now by what lore, by what inherent nature, knowest thou all things that exist, Atharvan?
 </details>
+</details>
 </div>
-
-
 ## ०३ सत्यमहं गभीरः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -143,15 +134,16 @@ Not through desire do I revoke my present: I bring this brind- led cow to contem
 न मे॑ दा॒सो नार्यो॑ महि॒त्वा व्र॒तं मी॑माय॒ यद॒हं ध॑रि॒ष्ये॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
+<details open><summary><h3>०३ सत्यमहं गभीरः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. I verily am profound by poesy; verily by what is produced I am  
 *jātávedas;* not barbarian (*dāsá*), not Aryan, by his might, damageth  
 (*mī*) the course which I shall maintain.
 
-#### Notes
+##### Notes
 Muir ascribes the verse to Atharvan; Roth, better, to Varuṇa; the god  
 asserts that it is he himself to whom wisdom and possession belong; his  
 worshiper is comparatively nothing. Ppp. begins with *satvasaṁ* and  
@@ -161,17 +153,13 @@ absurdly calls the verse a *pan̄kti*, although it is an evident
 *triṣṭubh*, not less regular than a great proportion of the verses so  
 called. ⌊The *me* in **c** is easier rendered in German than in  
 English.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/03_satyamahaM_gabhIraH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Truly I am profound in wisdom, truly I know by nature all existing creatures. No Dasa by his greatness, not an Arya, may violate the law that I will stablish.
 </details>
+</details>
 </div>
-
-
 ## ०४ न त्वदन्यः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/04_na_tvadanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -187,29 +175,26 @@ Truly I am profound in wisdom, truly I know by nature all existing creatures. No
 त्वं ता विश्वा॒ भुव॑नानि वेत्थ॒ स चि॒न्नु त्वज्जनो॑ मा॒यी बि॑भाय ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/04_na_tvadanyaH.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/04_na_tvadanyaH.md">
+<details open><summary><h3>०४ न त्वदन्यः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. None else than thou is more poet, nor by wisdom (*medhá*) more wise  
 (*dhī́ra*), O Varuṇa, self-ruling one (*svadhā́vant*); thou knowest all  
 these beings; even that wily man (*jána*) now is afraid of thee.
 
-#### Notes
+##### Notes
 Ppp. reads in **a** *vedhā anu* (for *medháyā*), and has at end of **b**  
 the more antique form *svadhāvas;* as second half-verse it gives: *tvam  
 an̄ga viśvā janmāni vettha mataṁ na tuj jano māṁ bibhāyaḥ*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/04_na_tvadanyaH.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Thou knowest well all these created beings: even the man of wondrous powers fears thee.
 </details>
+</details>
 </div>
-
-
 ## ०५ त्वं ह्य१ङ्ग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/05_tvaM_hya1nga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -225,15 +210,16 @@ None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Th
 किं रज॑स ए॒ना प॒रो अ॒न्यद॑स्त्ये॒ना किं परे॒णाव॑रममुर ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/05_tvaM_hya1nga.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/05_tvaM_hya1nga.md">
+<details open><summary><h3>०५ त्वं ह्य१ङ्ग ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Since thou verily, O self-ruling Varuṇa, knowest all births, O  
 well-conducting one—is there anything else beyond the welkin (*rájas*)?  
 is there anything below what is beyond, O unerring one (? *amura*)?
 
-#### Notes
+##### Notes
 The version given implies that *kím* is interrog. particle in **c, d**,  
 as best suits the answer in the next verse: else, 'what other is beyond'  
 etc. *Amura* in **b** is understood as *amūra*, as required by the  
@@ -245,17 +231,13 @@ combination *enā́ parás* = 'beyond,' in 3d pāda, see BR. iv. 494. I
 suggest for **d**, 'Is there (*kím*) (anything behind, *ávaram*, i.e.)  
 anything beyond that (*enā́*, substantive pronoun) which is beyond  
 (*páreṇa*)?'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/05_tvaM_hya1nga.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O self-dependent Varuna, wise director, thou knowest verily all generations. What is, unerring one! beyond this region? What more remote than that which is most distant?
 </details>
+</details>
 </div>
-
-
 ## ०६ एकं रजस
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/06_ekaM_rajasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -271,16 +253,17 @@ O self-dependent Varuna, wise director, thou knowest verily all generations. Wha
 तत् ते॑ वि॒द्वान् वरु॑ण॒ प्र ब्र॑वीम्य॒धोव॑चसः प॒णयो॑ भवन्तु नी॒चैर्दा॒सा उप॑ सर्पन्तु॒ भूमि॑म्॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/06_ekaM_rajasa.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/06_ekaM_rajasa.md">
+<details open><summary><h3>०६ एकं रजस ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. There is one other thing beyond the welkin; there is something, hard  
 to attain, hitherward from what is beyond: this I Varuṇa, knowing it,  
 proclaim to thee. Be the *paṇi*'s of degraded speech; let the barbarians  
 creep (*sṛp*) downward to the earth.
 
-#### Notes
+##### Notes
 The translation implies emendation of *varuṇa* to *váruṇaḥ* in **c**,  
 which seems necessary, as the verse evidently belongs in Varuṇa's mouth;  
 both Roth and Muir so understand it. In **d** is implied *adhóvacasas*,  
@@ -304,17 +287,13 @@ Omitting them, I render: 'There is one other thing beyond the welkin;
 understand *tat tve acchovacasaṣ* to mean merely that Ppp. reads *tve*  
 for *te* and *acchovacasaṣ* for *adhovacasaḥ*—not that it omits the rest  
 from *te* to *nīcāir*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/06_ekaM_rajasa.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 One thing there is beyond this air, and something beyond that one, most hard to reach, remotest. I, Varuna, who know, to thee declare it. Let churls be mighty in the lower regions. Let Dasas sink into the earth beneath them.
 </details>
+</details>
 </div>
-
-
 ## ०७ त्वं ह्य१ङ्ग
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/07_tvaM_hya1nga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -330,28 +309,25 @@ One thing there is beyond this air, and something beyond that one, most hard to 
 मो षु प॒णींर॒भ्ये॒३ताव॑तो भू॒न्मा त्वा॑ वोचन्नरा॒धसं॒ जना॑सः ॥७॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/07_tvaM_hya1nga.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/07_tvaM_hya1nga.md">
+<details open><summary><h3>०७ त्वं ह्य१ङ्ग ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Since thou verily, O Varuṇa, speakest many reproachful things among  
 (as to?) re-bestowers, do not thou, I pray, belong to (*abhi-bhū*) such  
 *paṇís;* let not people call thee ungenerous (*arādhás*).
 
-#### Notes
+##### Notes
 The rendering implies emendation of *bhūt* to *bhūs* at end of **c**,  
 which is made also by Roth and Muir. The pāda is corrupt in Pāipp.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/07_tvaM_hya1nga.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Many reproaches, Varuna, dost thou utter against the misers. who revoke their presents. Be not thou added to that crowd of niggards: let not men call thee an illiberal giver.
 </details>
+</details>
 </div>
-
-
 ## ०८ मा मा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/08_mA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -367,30 +343,27 @@ Many reproaches, Varuna, dost thou utter against the misers. who revoke their pr
 स्तो॒त्रं मे॒ विश्व॒मा या॑हि॒ शची॑भिर॒न्तर्विश्वा॑सु॒ मानु॑षीषु दि॒क्षु॥८॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/08_mA_mA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/08_mA_mA.md">
+<details open><summary><h3>०८ मा मा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Let not people call me ungenerous; I give thee back the spotted  
 \[cow\], O singer; come thou mightily (*śácībhis*) to every song of  
 praise (*stotrá*) of mine, among all human regions (*díś*).
 
-#### Notes
+##### Notes
 Roth's suggested emendation of *dikṣú* at the end to *vikṣú* 'settlers,  
 tribes,' accepted by Muir, is unquestionably an improvement of the text;  
 Ppp. has unfortunately a different reading: *ā yāhi janeṣu antar deveṣu  
 mānuṣeṣu riprā*. *Dikṣu* is read in Prāt. iv. 34 c.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/08_mA_mA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let not men call me an illiberal giver. I give thee back the brindled cow, O singer. Attend in every place where men inhabit, with all thy powers, the hymn that tells my praises.
 </details>
+</details>
 </div>
-
-
 ## ०९ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/09_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -406,15 +379,16 @@ Let not men call me an illiberal giver. I give thee back the brindled cow, O sin
 दे॒हि नु मे॒ यन्मे॒ अद॑त्तो॒ असि॒ युज्यो॑ मे स॒प्तप॑दः॒ सखा॑सि ॥९॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/09_A_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/09_A_te.md">
+<details open><summary><h3>०९ आ ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 9. Let uplifted (*ud-yam*) songs of praise of thee come, among all human  
 regions. Give now to me what thou hast not given me; thou art my  
 suitable comrade of seven steps;—
 
-#### Notes
+##### Notes
 That is, apparently, ready to go seven steps (or any indefinite  
 distance) with me. Roth suggests as an improved reading *ā́dattas* 'hast  
 taken from me' in **c**, and Muir so renders. Both words are alike, and  
@@ -423,17 +397,13 @@ active; *ádattam ásti* would be correct, and at this Ppp. perhaps
 points: *dehi taṁ mahyaṁ yadi tatvam asti yadyo nas saptapadaḥ sakhā  
 ’saḥ*. Ppp. also begins with *yā te stotrāṇi bandhanāni yāni*, and  
 apparently has *dikṣu* in **b**.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/09_A_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Let hymns of praise ascend to thee, uplifted in every place of human habitation. But give me now the gift thou hast not given. Thou art my friend for ever firm and faithful.
 </details>
+</details>
 </div>
-
-
 ## १० समा नौ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/10_samA_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -449,14 +419,15 @@ Let hymns of praise ascend to thee, uplifted in every place of human habitation.
 ददा॑मि॒ तद् यत् ते अद॑त्तो॒ अस्मि॒ युज्य॑स्ते स॒प्तप॑दः॒ सखा॑स्मि ॥१०॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/10_samA_nau.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/10_samA_nau.md">
+<details open><summary><h3>१० समा नौ ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 10. Of us two, O Varuṇa, \[there is\] the same connection, the same  
 birth (*jā́*).
 
-#### Notes
+##### Notes
 I know that which is of us two this same birth; I give that which I have  
 not given thee; I am thy suitable comrade of seven steps;—  
   
@@ -475,17 +446,13 @@ of little value), is hardly acceptable; better *samó nāu*. Ppp. reads
 also, for **b**, *vada vāitad vadaṁ samā jāḥ;* and, for **c**, *dadāmi  
 tubhyaṁ yadi tatvam asti;* and it omits **d**. ⌊The translation implies  
 *ádattam ásti* as in 9.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/10_samA_nau.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 One origin, Varuna! one bond unites us I know the nature of that common kinship. I give thee now the gift that I retracted. I am thy friend for ever firm and faithful.
 </details>
+</details>
 </div>
-
-
 ## ११ देवो देवाय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/011_saMpatkarma/11_devo_devAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -503,14 +470,15 @@ One origin, Varuna! one bond unites us I know the nature of that common kinship.
 तस्मा॑ उ॒ राधः॑ कृणुहि सुप्रश॒स्तं सखा॑ नो असि पर॒मं च॒ बन्धुः॑ ॥११॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/05/011_saMpatkarma/11_devo_devAya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/11_devo_devAya.md">
+<details open><summary><h3>११ देवो देवाय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 11. A god, bestower of vigor on a singing god; a sage (*vípra*), of good  
 wisdom for a praising sage.
 
-#### Notes
+##### Notes
 Since thou, O self-ruling Varuṇa, hast generated father Atharvan,  
 connection of the gods, for him do thou make well-extolled generosity;  
 our comrade art thou, and highest connection.  
@@ -530,12 +498,10 @@ praś-* in **e**, and, for **f**, *sakhā no ‘sti varuṇaś ca bandhuḥ*. Th
 Anukr. makes no account of the extra syllable in **e**. In **b**, the  
 vertical over *su-* is gone. ⌊Pādas **c-f** are not part of the  
 dialogue.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/05/011_saMpatkarma/11_devo_devAya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 God, giving life unto the god who lauds me, Sage strengthener of the sage who sings my praises. Thou, self-dependent Varuna! hast begotten the kinsman of the Gods, our sire Atharvan. On him bestow most highly-lauded riches. Thou art our friend, high over all, our kinsman.
+</details>
 </details>
 </div>

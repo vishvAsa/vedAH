@@ -19,26 +19,23 @@ title = "०३६ पतिवेदनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found (except vss. 6,8) in Pāipp. ii. (in the verse-order 1, 3, 2, 4, 5, 7). Used by Kāuś. (34. 13 ff.) among the women's rites, in a ceremony for obtaining a husband; vss. 5 and 7 are specially referred to or quoted, with rites adapted to the text. It is further regarded by the schol. and the comm. as signified by pativedana (75. 7), at the beginning of the chapters on nuptial rites, accompanying the sending out of a wooer or paranymph.
 
 
-#### Translations
+##### Translations
 Translated: Weber, v. 219; xiii. 214; Ludwig, p. 476; Grill, 55, 102; Grifiith, i. 78; Bloomfield, 94, 322.—Cf. Zimmer, p. 306.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to secure a husband for a marriageable girl
 </details>
+</details>
 </div>
-
-
 ## ०१ आ नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,16 +51,17 @@ A charm to secure a husband for a marriageable girl
 जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/01_A_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/01_A_no.md">
+<details open><summary><h3>०१ आ नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Unto our favor, O Agni, may a wooer come, to this girl, along with  
 our fortune (*bhága*). Enjoyable (*juṣṭá*) \[is she\] to suitors  
 (*vará*), agreeable at festivals (*sámana*); be there quickly  
 good-fortune for her with a husband.
 
-#### Notes
+##### Notes
 The text is not improbably corrupt. Ppp. reads in **a, b** *sumatiṁ  
 skandaloke idam āṁ kumāryāmāno bhagena;* but it combines **c** and **d**  
 much better into one sentence by reading for **d** *oṣaṁ patyā bhavati*  
@@ -74,17 +72,13 @@ that *vará* also means paranymph. *Juṣṭā́* he quotes Pāṇini to prove
 accented *júṣṭā*. In **d** he reads *ūṣam*, and declares it to signify  
 *sukhakaram.* ⌊Bergaigne, *Rel. véd.* i. 159, takes *sámana* as =  
 'marriage.'⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/01_A_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 To please us may the suitor come, O Agni, seeking this maid and bringing us good fortune. Approved by wooers, lovely in assemblies, may she be soon made happy with a husband.
 </details>
+</details>
 </div>
-
-
 ## ०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -100,15 +94,16 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम्॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
+<details open><summary><h3>०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Fortune enjoyed by Soma, enjoyed by Brahman, brought together by  
 Aryaman; with the truth of divine Dhātar, the husband-finder I perform  
 (*kṛ*).
 
-#### Notes
+##### Notes
 Ppp. has a mutilated first half-verse: *somajuṣṭo aryamṇā saṁbhṛto  
 bhaga;* and at the end *patirvedanam.* The comm. understands in **a**  
 *brahma-* to mean the Gandharva, who and Soma are the first husbands of  
@@ -121,17 +116,13 @@ needs to be rendered by 'make' or 'procure' for the one combination and
 by 'perform' for the other. It is hardly a case of zeugma.—Bloomfield  
 notes that *saṁbhṛta* contains a conscious allusion to *sambhala*, vs.  
 1.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God Dhatar's truthfulness I work the bridal oracle.
 </details>
+</details>
 </div>
-
-
 ## ०३ इयमग्ने नारी
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -147,16 +138,17 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 सुवा॑ना पु॒त्रान् महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥३॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/03_iyamagne_nArI.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/03_iyamagne_nArI.md">
+<details open><summary><h3>०३ इयमग्ने नारी ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. May this woman, O Agni, find a husband; for king Soma maketh her of  
 good-fortune; giving birth to sons, she shall become chief consort  
 (*máhiṣī*); having gone to a husband, let her, having good-fortune, bear  
 rule (*vi-rāj*).
 
-#### Notes
+##### Notes
   
   
   
@@ -168,17 +160,13 @@ Three mss. (including our P.O.) read *nā́ri* in **a**. ⌊For *videṣṭa* in
 reading *bhavāsi*, and *subhage vi rājā.* The comm. explains *mahiṣī* as  
 *mahanīyā śreṣṭhā bhāryā.* The fourth pāda is best scanned as *jagatī*,  
 with resolution *ga-tu-ā́* ⌊or insert *sā́* before *subhágā*⌋.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/03_iyamagne_nArI.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 O Agni, may this woman find a husband. Then verily King Soma makes her happy. May she bear sons, chief lady of the household, blessed and bearing rule beside her consort.
 </details>
+</details>
 </div>
-
-
 ## ०४ यथाखरो मघवंश्चारुरेष
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -194,15 +182,16 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥४॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
+<details open><summary><h3>०४ यथाखरो मघवंश्चारुरेष ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 4. As, O bounteous one (*maghávan*), this pleasant covert hath been dear  
 to the well-settled (*suṣád*) wild beasts, so let this woman be enjoyed  
 of Bhaga, mutually dear, not disagreeing with her husband.
 
-#### Notes
+##### Notes
 The translation here involves emendation of the unmanageable *suṣádā* in  
 **b** to *suṣádām*, as suggested by iii. 22. 6. SPP. has in his  
 *pada*-text. *su॰sádāḥ* (as if nom. of *suṣádas*), and makes no note  
@@ -224,17 +213,13 @@ a syllable in **c**. ⌊Pronounce *juṣṭā iyam* and reject *nārī?*—The u
 of *sámpriya* in dual and plural is natural: its extension to the  
 singular is rather illogical (cf. TS. iv. 2. 4), unless we assign  
 intensive value to *sam* ('very dear').⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 As this lair, Maghavan! that is fair to look on was dear to wild things as a pleasant dwelling, So may this woman here be Bhaga's darling. Loved by her lord and prizing his affection.
 </details>
+</details>
 </div>
-
-
 ## ०५ भगस्य नावमा
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -250,30 +235,27 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 तयो॑पप्रता॑रय॒ यो वरः प्र॑तिका॒म्यः ॥५॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/05_bhagasya_nAvamA.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/05_bhagasya_nAvamA.md">
+<details open><summary><h3>०५ भगस्य नावमा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 5. Ascend thou the boat of Bhaga, full, unfailing; with that cause to  
 cross over hither a suitor who is according to thy wish.
 
-#### Notes
+##### Notes
 Or *pratikāmyà* may perhaps mean 'responsive to thy love.' Ppp. has in  
 **a** *ā ruha*, in **b** *anuparas-*, and for **c, d** *trayo pūṣā hitaṁ  
 yaṣ patiṣ patikāmyaḥ.* The comm. understands *upa-* in **c** as an  
 independent word. With this verse, according to the comm., the girl is  
 made to ascend a properly prepared boat.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/05_bhagasya_nAvamA.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hitherward to us the lover whom thou fain wouldst wed.
 </details>
+</details>
 </div>
-
-
 ## ०६ आ क्रन्दय
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -289,30 +271,27 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः ॥६॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/06_A_krandaya.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/06_A_krandaya.md">
+<details open><summary><h3>०६ आ क्रन्दय ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 6. Shout to \[him\], O lord of riches; make a suitor hither-minded; turn  
 the right side to every one who is a suitor according to thy wish.
 
-#### Notes
+##### Notes
 Circumambulation with the right side toward one is a sign of reverence.  
 *Ā krandaya* in **a** is perhaps a real causative, 'make him call out to  
 us'; the comm. takes it so. His explanation ⌊page 332⌋ of the  
 accompanying rite is: "offering rice in the night, one should make the  
 girl step forward to the right."
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/06_A_krandaya.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each on thy right hand who is a lover worthy of her choice.
 </details>
+</details>
 </div>
-
-
 ## ०७ इदं हिरण्यं
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -328,15 +307,16 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥७  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/07_idaM_hiraNyaM.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/07_idaM_hiraNyaM.md">
+<details open><summary><h3>०७ इदं हिरण्यं ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 7. Here \[is\] gold, bdellium; here \[is\] *āukṣá*, likewise fortune;  
 these have given thee unto husbands, in order to find one according to  
 thy wish.
 
-#### Notes
+##### Notes
 *Āukṣá* (cf. *āukṣagandhi*, iv. 37. 3) seems to be some fragrant product  
 of the ox; or it may perhaps come from *ukṣ* 'sprinkle,' but not through  
 *ukṣan*. The mss. vary here, as everywhere else, in an indiscriminate  
@@ -352,17 +332,13 @@ The comm., p. 332, explains that with this verse is to be performed a
 binding on and fumigation and anointing of the girl with ornaments,  
 bdellium, and *āukṣa* respectively. ⌊BR., iv. 947, suggests  
 *pratikāmyā̀ya*.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/07_idaM_hiraNyaM.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Here is the Bdellium and the gold, the Auksha and the bliss are here: These bring thee to the husbands, so to find the man whom thou. wouldst have.
 </details>
+</details>
 </div>
-
-
 ## ०८ आ ते
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -378,14 +354,15 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 त्वम॑स्यै धेह्योषधे ॥८॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/02/036_pativedanam/08_A_te.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/08_A_te.md">
+<details open><summary><h3>०८ आ ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 8. Hither let Savitar conduct for thee, conduct a husband that is  
 according to thy wish; do thou assign \[him\] to her, O herb.
 
-#### Notes
+##### Notes
 The second *nayatu* is a detriment equally to sense and to meter; the  
 Anukr. counts it to **a**, and the *pada*-mss. mark the division  
 accordingly. Emendation of *tvám* in **c** to *tám* is strongly  
@@ -399,12 +376,10 @@ accordingly *triṅśadekādhiko ‘ntyaḥ.*
 This is the end also of the fourth *prapāṭhaka.*  
   
 ⌊One or two mss. sum up the book as 36 hymns and 207 verses.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/02/036_pativedanam/08_A_te.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Savitar lead and bring to thee the husband whom thy heart desires. O Plant, be this thy gift to her!
+</details>
 </details>
 </div>

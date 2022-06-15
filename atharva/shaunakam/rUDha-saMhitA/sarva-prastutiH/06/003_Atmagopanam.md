@@ -19,26 +19,23 @@ title = "००३ आत्मगोपनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/003_Atmagopanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. In Kāuś. (50. 13) hymns 3-7 (pātaṁ na iti pañca; the comm. says it means 'with five verses') are directed to be used with vi. 1 etc. for success in traffic (see under h. 1). Hymn 3 is connected with i. 26, 27 and vi. 76 at the beginning of the welfare-rites (50. 4), and it is reckoned (note to 25. 36) to the svastyayana gaṇa. By Vāit. (16. 9), hymns 3-6 are muttered in the agniṣṭoma by the hotar after the prātaranuvāka.
 
 
-#### Translations
+##### Translations
 Translated: Florenz, 251 or 3; Griffith, i. 246.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/003_Atmagopanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer to various deities for protection and prosperity
 </details>
+</details>
 </div>
-
-
 ## ०१ पातं न
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,28 +51,25 @@ A prayer to various deities for protection and prosperity
 अपां॑ नपात् सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/003_Atmagopanam/01_pAtaM_na.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/01_pAtaM_na.md">
+<details open><summary><h3>०१ पातं न ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Protect us, O Indra-and-Pūshan; let Aditi, let the Maruts protect; O  
 child of the waters, ye seven rivers, protect; let Vishṇu protect us,  
 also the heaven.
 
-#### Notes
+##### Notes
 The accent of **c** is in part against all rule and analogy, and  
 doubtless corrupt; we ought to read *síndhavaḥ sapta pātána*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/003_Atmagopanam/01_pAtaM_na.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters' Child, and Rivers Seven. May Vishnu guard us, and the Sky.
 </details>
+</details>
 </div>
-
-
 ## ०२ पातां नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -91,16 +85,17 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/003_Atmagopanam/02_pAtAM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/02_pAtAM_no.md">
+<details open><summary><h3>०२ पातां नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Let heaven-and-earth protect us in order to assistance (*abhíṣṭi*);  
 let the pressing-stone protect, let Soma protect us from distress; let  
 the fortunate goddess Sarasvatī protect us; let Agni protect us—the  
 propitious protections that are his.
 
-#### Notes
+##### Notes
   
   
   
@@ -110,17 +105,13 @@ Ppp. has *suhavā* instead of *subhagā* in **c**. The comm. explains
 *abhiṣṭaye* by *abhyeṣaṇāya* (taking it from root *iṣ*) or  
 *abhimataphalaprāptaye*. In **c**, *devó* in our edition is a misprint  
 for *devī́*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/003_Atmagopanam/02_pAtAM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma save us from distress. Sarasvati, auspicious Goddess, guard us well: preserve us Agni and his kind protecting powers.
 </details>
+</details>
 </div>
-
-
 ## ०३ पातां नो
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/03_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -136,16 +127,17 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 अपां॑ नपा॒दभिह्रुती॒ गय॑स्य चि॒द देव॑ त्वष्टर्व॒र्ध॑य॑ स॒र्वता॑तये ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/003_Atmagopanam/03_pAtAM_no.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/03_pAtAM_no.md">
+<details open><summary><h3>०३ पातां नो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Let the divine Aśvins, lords of beauty, protect us; let  
 dawn-and-night also make broad for us; O child of the waters, in case of  
 any detriment to \[our\] household; O divine Tvashṭar, increase \[us\]  
 in order to our completeness.
 
-#### Notes
+##### Notes
 Ppp. has, in **a**, *sudaṅsasā* for *śubhas patī;* and in **c, d** it  
 reads *vihvṛtī kayasya cid devo ‘sūvandadhite śarma yacha naḥ*. The  
 comm. partly agrees with it in reading *abhihvṛtī* and *kayasya*  
@@ -155,12 +147,10 @@ and takes the nouns that follow as vocatives. It understands *ábhihvṛtī*
 our translation ⌊cf. JAOS. x. 389⌋. The accent requires amendment, to  
 *abhíhrutī*. Florenz suggests the substitution of *abhihrútas*, which  
 would be an easier reading.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/003_Atmagopanam/03_pAtAM_no.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Preserve us both the Asvins, Gods and Lords of Light, and let the Dawns and Night bring us deliverance. The Waters' Child protect our house from every harm. Do thou, God Tvashtar, make us strong for health and wealth.
+</details>
 </details>
 </div>

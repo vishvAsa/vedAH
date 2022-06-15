@@ -19,26 +19,23 @@ title = "०२५ मन्याविनाशनम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/025_manyAvinAshanam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 Found also in Pāipp. xix. Used in Kāuś. (30. 14) in a healing rite against gaṇḍamālās, with kindling fifty-five paraśu (comm., -śū) leaves by chips.
 
 
-#### Translations
+##### Translations
 Translated: Kuhn, KZ. xiii. 130 (with Germanic parallels); Florenz, 280 or 32; Griffith, i. 258; Bloomfield, 19, 472 (cf. AJP. xi. 323).
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/025_manyAvinAshanam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A charm to remove pustules or scrofulous swellings (apachitas)
 </details>
+</details>
 </div>
-
-
 ## ०१ पञ्च च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -54,15 +51,16 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/025_manyAvinAshanam/01_pancha_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/01_pancha_cha.md">
+<details open><summary><h3>०१ पञ्च च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Both the five and the fifty that gather against those of the nape—let  
 them all disappear from here, like the noises (? *vāká*) of the  
 *apacíts*.
 
-#### Notes
+##### Notes
   
   
   
@@ -78,17 +76,13 @@ indefinite object, 'one,' understood. The comm. renders *vākā́s* by
 *vacanīyā doṣāḥ*, and takes *apacítām* as accus. fem. pple: "as  
 blameworthy faults leave an honored woman"! Under VS. xvii. 57, the  
 comm. renders *vākā́s* by *vākyāni*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/025_manyAvinAshanam/01_pancha_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 May all the five-and-fifty which meet round the tendons of the neck. Depart and vanish hence away like plaguing insects buzz and hum!
 </details>
+</details>
 </div>
-
-
 ## ०२ सप्त च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -104,27 +98,24 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥२॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/025_manyAvinAshanam/02_sapta_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/02_sapta_cha.md">
+<details open><summary><h3>०२ सप्त च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 2. Both the seven and the seventy that gather against those of the  
 neck—let them all etc. etc.
 
-#### Notes
+##### Notes
 Part of the mss. (including our D.R.) accent *saptá* at the beginning,  
 and SPP. with good reason adopts that in his text.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/025_manyAvinAshanam/02_sapta_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Those seventy-and-seven which meet round the upper vertebrae, Let them all vanish hence away like plaguing insects' buzz and hum!
 </details>
+</details>
 </div>
-
-
 ## ०३ नव च
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/03_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -140,23 +131,22 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥३॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/06/025_manyAvinAshanam/03_nava_cha.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/03_nava_cha.md">
+<details open><summary><h3>०३ नव च ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 3. Both the nine and the ninety that gather against those of the  
 shoulders—let them all etc. etc.
 
-#### Notes
+##### Notes
 Ppp., in these verses, exchanges the numbers of 1 and 3, omits *yās*  
 every time in **a**, and combines *manyā ’bhi, grāivyā ’bhi, skandā  
 ’bhi*.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/06/025_manyAvinAshanam/03_nava_cha.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Those nine-and-ninety which, combined, attack the shoulder round about, Let them all vanish hence away like plaguing insects' buzz and hum!
+</details>
 </details>
 </div>

@@ -19,25 +19,22 @@ title = "०५१ परिपाणम्"
 
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/051_paripANam/_index.md">
+<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/_index.md">
 <details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Comment
+##### Comment
 The directions admit also of being understood as from west, north, south, and east. RV. (and TS.) reads várivas in d, and so does Ppp. (varivaṣ kṛṇotu).
 
 
 The fourth anuvāka ends here; it has, according to our division, 13 hymns and 30 verses; the other division counts 14 hymns; the quoted Anukr. is to this effect: dvāu pañcarcāu saṁniviṣṭāu caturthe; and, for the hymns: caturthe trayodaśa sūktāḥ—thus sanctioning our division.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/051_paripANam/_index.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 A prayer for Brihaspati's and Indra's protection
 </details>
+</details>
 </div>
-
-
 ## ०१ बृहस्पतिर्नः परि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
@@ -53,15 +50,16 @@ A prayer for Brihaspati's and Indra's protection
 इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः॒ कृणोतु ॥१॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" title="Whitney" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/notes/07/051_paripANam/01_bRhaspatirnaH_pari.md">
-<details open><summary><h3>Whitney ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
+<details open><summary><h3>०१ बृहस्पतिर्नः परि ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
 
-#### Translation
+##### Translation
 1. Let Brihaspati protect us round about from behind, also from above,  
 from below, against the malignant one; let Indra from in front and from  
 midway make wide space for us, a companion for companions.
 
-#### Notes
+##### Notes
 The directions admit also of being understood as from west, north,  
 south, and east. RV. (and TS.) reads *várivas* in **d**, and so does  
 Ppp. (*varivaṣ kṛṇotu*).  
@@ -71,12 +69,10 @@ hymns and 30 verses; the other division counts 14 hymns; the quoted
 Anukr. is to this effect: *dvāu pañcarcāu saṁniviṣṭāu caturthe;* and,  
 for the hymns: *caturthe trayodaśa sūktāḥ*—thus sanctioning our  
 division.
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="Griffith" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/griffith/07/051_paripANam/01_bRhaspatirnaH_pari.md">
-<details open><summary><h3>Griffith ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
 
 Brihaspati protect us from the sinner, from rearward, from above, and from below us! May Indra from the front and from the centre, as friend to friends, vouchsafe us room and freedom.
+</details>
 </details>
 </div>
