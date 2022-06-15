@@ -1,5 +1,5 @@
 +++
-title = "135. To crush an enemy."
+title_whitney = "135. To crush an enemy."
 
 +++
 [śukra.—mantroktavajradevatyam. ānuṣṭubham.]

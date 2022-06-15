@@ -1,5 +1,5 @@
 +++
-title = "142. For increase of barley."
+title_whitney = "142. For increase of barley."
 
 +++
 [Viśvāmitra.—vāyavyam. ānuṣṭubham.]

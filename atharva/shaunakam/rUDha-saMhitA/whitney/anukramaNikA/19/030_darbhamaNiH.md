@@ -1,5 +1,5 @@
 +++
-title = "30. For protection etc.: with an amulet of darbhá."
+title_whitney = "30. For protection etc.: with an amulet of darbhá."
 
 +++
 [As 28. pañcakam.]

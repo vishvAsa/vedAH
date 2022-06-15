@@ -1,5 +1,5 @@
 +++
-title = "7. Extolling the ox."
+title_whitney = "7. Extolling the ox."
 
 +++
 [Brahman.—ekaḥ [paryāyaḥ]. ṣaḍviṅśaḥ. gavyaḥ.]

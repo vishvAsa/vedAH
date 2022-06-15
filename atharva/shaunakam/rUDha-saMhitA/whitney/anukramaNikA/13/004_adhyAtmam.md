@@ -1,5 +1,5 @@
 +++
-title = "4. Extolling the sun."
+title_whitney = "4. Extolling the sun."
 
 +++
 [(Brahman.—ādhyātmam; rohitādityadevatyam. trāiṣṭubham.*) ṣaṭ paryāyāḥ. mantrokta drvatyāḥ.]

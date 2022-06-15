@@ -1,5 +1,5 @@
 +++
-title = "24. For abundance of grain."
+title_whitney = "24. For abundance of grain."
 
 +++
 [Bhṛgu.—saptarcam. vānaspatyam uta prājāpatyam. ānuṣṭubham: 2. nicṛtpathypan̄kti.]

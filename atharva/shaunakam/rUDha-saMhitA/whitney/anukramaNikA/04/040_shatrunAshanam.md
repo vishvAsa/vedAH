@@ -1,5 +1,5 @@
 +++
-title = "40. Against enemies from the different quarters."
+title_whitney = "40. Against enemies from the different quarters."
 
 +++
 [śukra.—*kṛtyāpratiharaṇam. bahudevatyam. trāiṣṭubham: 2, 8. jagatī (8. puro’tiśakvarī pādayuj).]

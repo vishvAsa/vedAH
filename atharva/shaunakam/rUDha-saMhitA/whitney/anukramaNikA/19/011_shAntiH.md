@@ -1,5 +1,5 @@
 +++
-title = "11. For well-being."
+title_whitney = "11. For well-being."
 
 +++
 [Brahman (śāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]

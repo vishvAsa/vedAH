@@ -1,5 +1,5 @@
 +++
-title = "87 (92). Homage to Rudra."
+title_whitney = "87 (92). Homage to Rudra."
 
 +++
 [Atharvan.—rāudram. jāgatam.]

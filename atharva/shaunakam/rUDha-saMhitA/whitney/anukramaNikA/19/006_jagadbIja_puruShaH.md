@@ -1,5 +1,5 @@
 +++
-title = "6. Purusha and his sacrifice."
+title_whitney = "6. Purusha and his sacrifice."
 
 +++
 [Nārāyaṇa.—ṣoḍaśarcam. puruṣadevatyam. ānuṣṭubham.]

@@ -1,5 +1,5 @@
 +++
-title = "53. Praise of time (kālá)."
+title_whitney = "53. Praise of time (kālá)."
 
 +++
 [Bhṛgu.—daśakam. mantroktasarvātmakakāladevatyam. ānuṣṭubham: 1-4. triṣṭubh; 5. nicṛt purastādbṛhatī.]

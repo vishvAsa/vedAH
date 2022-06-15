@@ -1,5 +1,5 @@
 +++
-title = "5. Praise and prayer to Indra."
+title_whitney = "5. Praise and prayer to Indra."
 
 +++
 [Atharvān̄giras (?).—ekarcam. āindram. trāiṣṭubham.]

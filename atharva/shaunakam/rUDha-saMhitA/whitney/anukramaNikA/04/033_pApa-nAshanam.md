@@ -1,5 +1,5 @@
 +++
-title = "33. To Agni: for release from evil."
+title_whitney = "33. To Agni: for release from evil."
 
 +++
 [Brahman.—aṣṭarcam. pāpmanyam; āgneyam, gāyatram.]

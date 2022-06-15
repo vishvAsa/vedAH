@@ -1,5 +1,5 @@
 +++
-title = "5. The Brahman's cow."
+title_whitney = "5. The Brahman's cow."
 
 +++
 [Atharvācārya.*—sapta paryāyāḥ. brahmagavīdevatāḥ.]
