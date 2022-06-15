@@ -1,0 +1,9 @@
++++
+title = "०२ यस्य संस्थे"
+
++++
+
+<details><summary>Griffith</summary>
+
+Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Indra, sing your song.
+</details>

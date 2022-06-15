@@ -1,0 +1,9 @@
++++
+title = "०१ उदप्रुतो न"
+
++++
+
+<details><summary>Griffith</summary>
+
+Like birds who keep their watch, plashing in water, like the loud voices of the thundering rain-cloud, Like merry streamlets bursting from the mountain thus to Brihaspati our hymns have sounded.
+</details>

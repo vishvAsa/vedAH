@@ -1,0 +1,9 @@
++++
+title = "०४ इन्द्रेण रोचना"
+
++++
+
+<details><summary>Griffith</summary>
+
+By Indra were the luminous realms of heaven established and secured, Firm and immovable from their place.
+</details>

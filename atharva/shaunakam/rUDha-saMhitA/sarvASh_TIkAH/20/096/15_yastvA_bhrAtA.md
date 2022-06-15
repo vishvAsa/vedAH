@@ -1,0 +1,9 @@
++++
+title = "१५ यस्त्वा भ्राता"
+
++++
+
+<details><summary>Griffith</summary>
+
+What rests by thee in borrowed form of brother, lover, or of lord, And would destroyed the progeny,--even this will we exter- minate.
+</details>

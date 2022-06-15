@@ -1,0 +1,9 @@
++++
+title = "०२ अनर्शरातिं वसुदामुप"
+
++++
+
+<details><summary>Griffith</summary>
+
+Praise him who sends us wealth, whose bounties injure none. Good are the gifts which Indra gives. He is not wroth with one who satisfies his wish: he turns his mind to granting boons.
+</details>

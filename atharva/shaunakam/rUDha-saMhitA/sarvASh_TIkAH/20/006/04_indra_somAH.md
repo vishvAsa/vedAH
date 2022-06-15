@@ -1,0 +1,9 @@
++++
+title = "०४ इन्द्र सोमाः"
+
++++
+
+<details><summary>Griffith</summary>
+
+Lord of the brave, to thee proceed these drops of Soma juice expressed, The bright drops to thy dwelling-place.
+</details>

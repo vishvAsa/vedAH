@@ -1,0 +1,9 @@
++++
+title = "०२ इन्द्रियाणि शतक्रतो"
+
++++
+
+<details><summary>Griffith</summary>
+
+O Satakratu, powers which thou mid the Five Races hast dis- played These, Indra, do I claim of thee.
+</details>

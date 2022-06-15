@@ -1,0 +1,9 @@
++++
+title = "०१ त्वं हि"
+
++++
+
+<details><summary>Griffith</summary>
+
+For thou, O Indra, art the God whom hymns and praises magnify: Thou blessest those who worship thee.
+</details>

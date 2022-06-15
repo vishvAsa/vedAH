@@ -1,0 +1,30 @@
++++
+title = "०९ देवानां निहितं"
+
++++
+
+<details><summary>Whitney</summary>
+
+### Translation
+9. The treasured (*ni-dhā*) treasure of the gods that Indra discovered  
+by roads that the gods travel—the gold did the waters guard with triple  
+ones; let those triple ones defend thee with the triple ones.
+
+### Notes
+  
+  
+  
+  
+  
+The last pāda is a repetition of 3 **d**, and has the same readings as  
+there in mss.,\* editions, and comm. Instead of *índro ‘nv-* in **a, b**  
+the mss. give *indrā ’nv-* (p. *indra: anu-*); but this time SPP. also,  
+as well as we, emends to the former reading, which is that of the comm.  
+⌊*Nidhiṁ devā́nāṁ níhitaṁ yám índraḥ* would be good rhythm.⌋ \*⌊Or nearly  
+so: but *trivṛ́tā* of 3 is here *tṛvátā*.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+The secret treasure of the Gods which Indra, by pathways travelled by the Gods, discovered, That gold the Waters with the triplets guarded. May they keep thee with threebold hymn and triplets.
+</details>

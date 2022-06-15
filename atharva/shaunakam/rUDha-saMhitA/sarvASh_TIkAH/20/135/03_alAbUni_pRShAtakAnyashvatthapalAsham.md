@@ -1,0 +1,9 @@
++++
+title = "०३ अलाबूनि पृषातकान्यश्वत्थपलाशम्"
+
++++
+
+<details><summary>Griffith</summary>
+
+Crunch! it is trodden on. A cow's hoof.
+</details>

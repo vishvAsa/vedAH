@@ -1,0 +1,9 @@
++++
+title = "०१ आ तू"
+
++++
+
+<details><summary>Griffith</summary>
+
+Invoked to drink the Soma juice come with thy bay steeds, Thunder-armed! Come, Indra, hitherward, to me.
+</details>

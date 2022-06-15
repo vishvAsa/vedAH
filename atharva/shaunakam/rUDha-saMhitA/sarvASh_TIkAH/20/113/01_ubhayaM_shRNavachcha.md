@@ -1,0 +1,9 @@
++++
+title = "०१ उभयं शृणवच्च"
+
++++
+
+<details><summary>Griffith</summary>
+
+Both boons--may Indra hitherward turned, listen to this, prayer of ours, And, mightiest Maghavan with thought inclined to us come nigh to drink the Soma juice.
+</details>

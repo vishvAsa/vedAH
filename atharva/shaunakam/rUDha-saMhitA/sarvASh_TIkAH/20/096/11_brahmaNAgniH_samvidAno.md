@@ -1,0 +1,9 @@
++++
+title = "११ ब्रह्मणाग्निः सम्विदानो"
+
++++
+
+<details><summary>Griffith</summary>
+
+May Agni yielding to our prayer, the Rakshas-killer, drive away. The malady of evil name that hath beset thy labouring womb.
+</details>

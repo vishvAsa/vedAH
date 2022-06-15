@@ -1,0 +1,9 @@
++++
+title = "०२ परा हीन्द्र"
+
++++
+
+<details><summary>Griffith</summary>
+
+Thou, Indra, heedless passest by the ill Vrishakapi hath wrought; Yet nowhere else thou findest place wherein to drink the Soma juice. Supreme is Indra over all.
+</details>

@@ -1,0 +1,9 @@
++++
+title = "०९ यस्य द्विबर्हसो"
+
++++
+
+<details><summary>Griffith</summary>
+
+Whose lofty might--for doubly strong is he--supports the heaven and earth, And hills and plains and floods and light with manly power.
+</details>

@@ -1,0 +1,9 @@
++++
+title = "०२ वार्ण त्वा"
+
++++
+
+<details><summary>Griffith</summary>
+
+As rivers swell the ocean, so, Hero, our prayers increase thy might, Though of thyself, O Thunderer, waxing day by day.
+</details>

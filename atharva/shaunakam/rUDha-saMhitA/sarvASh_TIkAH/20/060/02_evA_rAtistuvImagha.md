@@ -1,0 +1,9 @@
++++
+title = "०२ एवा रातिस्तुवीमघ"
+
++++
+
+<details><summary>Griffith</summary>
+
+So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwell thou, Indra, even with me.
+</details>

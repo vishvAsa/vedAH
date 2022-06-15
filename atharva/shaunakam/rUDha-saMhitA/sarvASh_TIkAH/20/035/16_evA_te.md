@@ -1,0 +1,9 @@
++++
+title = "१६ एवा ते"
+
++++
+
+<details><summary>Griffith</summary>
+
+Thus to thee, Indra, yoker of bay coursers, the Gotamas have brought their prayers and praises. Bestow upon them thought, decked with all beauty. May he, enriched with prayer, come soon and early.
+</details>

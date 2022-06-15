@@ -1,0 +1,9 @@
++++
+title = "०७ इहेह यद्वां"
+
++++
+
+<details><summary>Griffith</summary>
+
+Whene'er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye twain, the singer of your praises: to you, Nasatyas, is my wish directed.
+</details>

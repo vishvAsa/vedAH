@@ -1,0 +1,9 @@
++++
+title = "०१ इदं जना"
+
++++
+
+<details><summary>Griffith</summary>
+
+Listen to this, ye men, a laud of glorious bounty shall be sung. Thousands sixty, and ninety we, O Kaurama, among the Rusamas have received.
+</details>

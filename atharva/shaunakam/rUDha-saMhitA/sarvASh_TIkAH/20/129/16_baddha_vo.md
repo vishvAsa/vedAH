@@ -1,0 +1,9 @@
++++
+title = "१६ बद्ध वो"
+
++++
+
+<details><summary>Griffith</summary>
+
+Barley and ripened rice I seek. On rice and barley hast thou fed, (with previous verse)
+</details>
