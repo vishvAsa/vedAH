@@ -1,5 +1,0 @@
-+++
-title_whitney = "27 (28). Prayer and praise to Iḍā."
-
-+++
-[Medhātithi (?).—mantrokteḍādāivatam. trāiṣṭubham.]

@@ -1,5 +1,0 @@
-+++
-title_whitney = "9. Paryāya the ninth."
-
-+++
-[trika. 1. āsurī jagatī; 2. ārcī gāyatrī; 3. ārcī pan̄kti.]
