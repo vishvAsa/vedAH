@@ -1,7 +1,21 @@
 +++
 title = "12. Āprī-hymn: to various divinities."
+title_whitney = "12. Āprī-hymn: to various divinities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ऋतस्य यज्ञः।  
+१-११ अङ्गिराः। जातवेदाः। त्रिष्टुप्, ३ पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—ekādaśarcam. trāiṣṭubham, jātavedasam. 3. pan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

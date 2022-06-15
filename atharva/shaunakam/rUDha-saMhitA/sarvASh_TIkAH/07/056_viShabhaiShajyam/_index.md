@@ -1,7 +1,21 @@
 +++
 title = "56 (58). Against poison of snakes and insects."
+title_whitney = "56 (58). Against poison of snakes and insects."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विषभैषज्यम्।  
+१-८ अथर्वा।वृश्चिकादयः, २ वनस्पतिः, ४ ब्रह्मणस्पतिः। अनुष्टुप्, ४ विराट्-प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭarcam. mantroktavṛścikadevatāham: 2. vānaspatyā; 4. brāhmaṇaspatyā.* ānuṣṭubham: 4. virāṭprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

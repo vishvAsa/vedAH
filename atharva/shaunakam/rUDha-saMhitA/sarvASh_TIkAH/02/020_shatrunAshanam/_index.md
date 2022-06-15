@@ -3,6 +3,14 @@ title = "20. The same: to Vāyu (wind)."
 
 +++
 
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-५ अथर्वा। वायुः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
+</details>
+
+
+
 <details><summary>Whitney</summary>
 
 ### Comment

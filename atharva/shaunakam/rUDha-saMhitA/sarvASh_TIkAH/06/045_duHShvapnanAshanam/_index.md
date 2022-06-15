@@ -1,7 +1,21 @@
 +++
 title = "45. In atonement of offenses."
+title_whitney = "45. In atonement of offenses."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःष्वप्ननाशनम्।  
+१-३ अङ्गिराः प्रचेता, यमश्च। दुःष्वप्ननाशनम्। १ पथ्यापङ्क्तिः, २ भुरिक् त्रिष्टुप्, ३ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras (pracetās) Yamaś ca.—duḥsvapnanāśanadevatyam. 1. pathyāpan̄kti; 2. bhurik triṣṭubh; 3. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

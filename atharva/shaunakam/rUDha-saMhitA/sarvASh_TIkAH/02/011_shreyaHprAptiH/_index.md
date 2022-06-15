@@ -1,7 +1,21 @@
 +++
 title = "11. To counteract witchcraft: with an amulet."
+title_whitney = "11. To counteract witchcraft: with an amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+श्रेयःप्राप्तिः।  
+१-५ शुक्रः। कृत्यादूषणम्। १ चतुष्पदा विराट् गायत्री, २-५ त्रिपदा परोष्णिक्, ४ पिपीलिकमध्या निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—kṛtyāpratiharaṇasūktam; kṛtyādūṣaṇadevatyam. 1. 4p. virāḍgāyatrī; 2-5. 3-p. paroṣṇih (4. pipīlikamadhyā nicṛt).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

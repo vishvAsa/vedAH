@@ -1,7 +1,21 @@
 +++
 title = "27. Against various evils."
+title_whitney = "27. Against various evils."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्त्ययनम्।  
+१-४ अथर्वा(स्वस्त्ययनकामः)। (चन्द्रमाः,) इन्द्रणी (च)। अनुष्टुप्, १ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—cāndramasam ute 'ndrāṇīdāivatam. ānuṣṭubham: 1. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

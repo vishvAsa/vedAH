@@ -1,7 +1,21 @@
 +++
 title = "43 (44). Of speech (?)."
+title_whitney = "43 (44). Of speech (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाक्  
+१ प्रस्कण्वः। वाक्। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praskaṇva.—vāgdevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

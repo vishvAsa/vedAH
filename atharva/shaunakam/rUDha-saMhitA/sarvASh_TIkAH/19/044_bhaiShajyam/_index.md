@@ -1,7 +1,21 @@
 +++
 title = "44. With an ointment: against diseases etc."
+title_whitney = "44. With an ointment: against diseases etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भैषज्यम्।  
+१-१० भृगुः। आञ्जनम्, ८-९ वरुणः। अनुष्टुप्, ४ चतुष्पदा शङ्कुमत्युष्णिक्, ५ निचृद्विषमा त्रिपदा गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—daśa. mantroktāñjanadevatyam. (8, 9. vāruṇe.) ānuṣṭubham: 4. 4-p. śan̄kumaty uṣṇih; 5. 3-p. nicṛd viṣamā gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

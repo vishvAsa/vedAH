@@ -1,7 +1,21 @@
 +++
 title = "118 (123). When arming a warrior."
+title_whitney = "118 (123). When arming a warrior."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्मधारणम्।  
+१ अथर्वाङ्गिराः। चन्द्रमाः, वरुणः, देवः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—bahudevatyam uta cāndramasam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "115. For relief from sin."
+title_whitney = "115. For relief from sin."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम्।  
+१-३ ब्रह्मा। विश्वे देवाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—vāiśvadevam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

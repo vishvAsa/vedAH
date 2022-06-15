@@ -1,7 +1,21 @@
 +++
 title = "62 (64). To Agni: against enemies."
+title_whitney = "62 (64). To Agni: against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ मरीचिःकाश्यपः। अग्निः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kaśyapa Mārīca.—āgneyam. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

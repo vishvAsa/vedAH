@@ -1,7 +1,21 @@
 +++
 title = "141. With marking of cattle's ears."
+title_whitney = "141. With marking of cattle's ears."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गोकर्णयोर्लक्ष्यकरणम्।  
+१-३ विश्वामित्रः। अश्विनौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Viśvāmitra.—āśvinam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

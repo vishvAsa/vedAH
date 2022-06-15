@@ -1,7 +1,21 @@
 +++
 title = "53. For protection: to various gods."
+title_whitney = "53. For protection: to various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्वतो रक्षणम्।  
+१-३ बृहच्छुक्रः। १ द्यौः, पृथिवि, शुक्रः, सोमः, अग्निः, वायुः, सविता, १ भगः, २ वैश्वानरः, ३ त्वष्टा। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bṛhachukra.—nānādāivatam. trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "33. To the waters: for blessings."
+title_whitney = "33. To the waters: for blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आपः।  
+१-४ शन्तातिः।(चन्द्रमाः) आपः(च)। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—cāndramasam āpyam uta. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

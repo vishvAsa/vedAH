@@ -1,7 +1,21 @@
 +++
 title = "9. For some one's advancement and success."
+title_whitney = "9. For some one's advancement and success."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विजयाय प्रार्थना।  
+१-४ अथर्वा। १ वसवः, इन्द्रः, पूषा, वरुणः, मित्रः, अग्निः, आदित्याः, विश्वेदेवाः, २ देवाः, सूर्यः, अग्निः, हिरण्यं, ३-४ अग्निः (जातवेदाः)। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vasvādinānāmantroktadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

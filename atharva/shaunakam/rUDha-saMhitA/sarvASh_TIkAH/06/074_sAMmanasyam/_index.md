@@ -1,7 +1,21 @@
 +++
 title = "74. For harmony."
+title_whitney = "74. For harmony."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१-३ अथर्वा। सांमनस्यम्, नाना देवताः, त्रिणामा। अनुष्टुप्, ३ त्रिषटुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—(as above.) ānuṣṭubham: 3. triṣṭubh, triṇāmadevatyā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

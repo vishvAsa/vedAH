@@ -1,7 +1,22 @@
 +++
 title = "3. For relief from flux: with a certain remedy."
+title_whitney = "3. For relief from flux: with a certain remedy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आस्रावस्य  
+भेषजम्।  
+१-६ अङ्गिराः। भैषज्यं, आयुः, धन्वन्तरिः। अनुष्टुप्, ६ त्रिपदा स्वराडुपरिष्टान्महाबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—ṣaḍṛcam. bhāiṣajyāyurdhanvantariddivatam. ānuṣṭubham: 6. 3-p. svarāḍupariṣṭānmahbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

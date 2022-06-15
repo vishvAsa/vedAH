@@ -1,7 +1,21 @@
 +++
 title = "24. For abundance of grain."
+title_whitney = "24. For abundance of grain."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+समृद्घि-प्राप्तिः।  
+१-७ भृगुः। वनस्पतिः. प्रजापतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—saptarcam. vānaspatyam uta prājāpatyam. ānuṣṭubham: 2. nicṛtpathypan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

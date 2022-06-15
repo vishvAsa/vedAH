@@ -1,7 +1,21 @@
 +++
 title = "8 (9). For some one's success."
+title_whitney = "8 (9). For some one's success."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ उपरिबभ्रवः। बृहस्पतिः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uparibabhrava.—bārhaspatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

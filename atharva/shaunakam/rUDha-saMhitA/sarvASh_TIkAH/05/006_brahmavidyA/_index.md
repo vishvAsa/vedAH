@@ -1,7 +1,21 @@
 +++
 title = "6.xa0?⌊Disconnected verses.⌋"
+title_whitney = "6.xa0?⌊Disconnected verses.⌋"
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मविद्या।  
+१-१४ अथर्वा। सोमरुद्रौ। १ ब्रह्म, २ कर्माणि, ३-४ रुद्रगणाः, ५-८ सोमारुद्रौ, ९ हेतिः, १०-१४ सर्वात्मा रुद्रः। त्रिष्टुप्, २ अनुष्टुप्, ३ जगती, ४ अनुष्टुबुष्णिक्-त्रिष्टुब्गर्भा पञ्चपदा जगती, ५-७ त्रिपदा विराण्नाम गायत्री, ८ एकावसाना द्विपदार्च्यनुष्टुप्, १० प्रस्तारपङ्क्तिः, ११-१३ पङ्क्तिः, १४ स्वराट्-पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturdaśakam. somārudrīyam: 1. brahmādityam (astāut); 2. karmāṇi; 3, 4. rudragaṇān; 5-7. somārudrāu; 8. tayor eva prārthanam; 9. hetim; 10-13. sarvātmakaṁ rudram. trāiṣṭubham: 2. anuṣṭubh; 3, 4. jagatī (4. anuṣṭubuṣṇiktriṣṭubgarbhā 5-p.); 5-7. 3-p. virāṇnāmagāyatrī; 8. 1-av. 2-p. ”rcyanuṣṭubh; 10. prastārapan̄kti; 11-14. pan̄kti (14. svarāj).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

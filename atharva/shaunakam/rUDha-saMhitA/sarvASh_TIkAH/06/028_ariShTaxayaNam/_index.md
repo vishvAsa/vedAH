@@ -1,7 +1,21 @@
 +++
 title = "28. Against birds of ill omen etc."
+title_whitney = "28. Against birds of ill omen etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अरिष्टक्षयणम्।  
+१-३ भृगुः। यमः, निर्ऋतिः। १ त्रिष्टुप्, २ अनुष्टुप्, ३ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—yāmyam uta nāirṛtam. trāiṣṭubham: 2. anuṣṭubh; 3. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

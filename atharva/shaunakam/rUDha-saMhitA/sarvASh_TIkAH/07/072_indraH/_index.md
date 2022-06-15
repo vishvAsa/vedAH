@@ -1,7 +1,21 @@
 +++
 title = "72 (75, 76). With an oblation to Indra."
+title_whitney = "72 (75, 76). With an oblation to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इन्द्रः।  
+१-३ अथर्वा। इन्द्रः। १ अनुष्टुप्, २-३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[1, 2. Atharvan.—dvyṛcam. āindrani. 1. anuṣṭubh; 2. triṣṭubh.—3. Atharvan.—āindram. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

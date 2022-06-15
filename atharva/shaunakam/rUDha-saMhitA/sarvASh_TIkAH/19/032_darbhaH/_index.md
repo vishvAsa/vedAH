@@ -1,7 +1,21 @@
 +++
 title = "32. For long life etc.: with an amulet of darbhá."
+title_whitney = "32. For long life etc.: with an amulet of darbhá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दर्भः।  
+१-१० भृगुः (आयुष्कामः)। दर्भः। अनुष्टुप्, ८ पुरस्ताद्बृहती, ९ त्रिष्टुप्, १० जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu (saruakāmaḥ. āyuṣe).—daśakam. mantroktadevatyam. ānuṣṭubham: 8. purastādbṛhatī; 9. triṣṭubh; 10. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

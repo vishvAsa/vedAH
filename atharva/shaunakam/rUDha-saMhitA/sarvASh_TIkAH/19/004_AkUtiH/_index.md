@@ -1,7 +1,21 @@
 +++
 title = "4. To various divinities."
+title_whitney = "4. To various divinities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आकूतिः।  
+१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, १ पञ्चपदा विराडतिजगती, २ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—caturṛcam. āgneyam ⌊2. mantroktadevatyā⌋. trāiṣṭubham: 1. 5-p. virāḍ atijagatī; 2. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

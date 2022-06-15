@@ -1,7 +1,21 @@
 +++
 title = "97. For victory."
+title_whitney = "97. For victory."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभिभूर्वीरः  
+-३ अथर्वा। १,३ देवाः, २ मित्रावरुणौ। १ त्रिष्टुप्, २ जगती, ३ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—māitrāvaruṇam. trāiṣṭubham: 2. jagatī; 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

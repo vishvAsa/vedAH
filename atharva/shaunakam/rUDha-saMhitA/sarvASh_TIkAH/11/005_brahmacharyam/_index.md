@@ -1,7 +1,21 @@
 +++
 title = "5. Extolling the Vedic student (brahmacārin)."
+title_whitney = "5. Extolling the Vedic student (brahmacārin)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मचर्यम्।  
+१-२६ ब्रह्मा।ब्रह्मचारी। त्रिष्टुप्, १ पुरोऽतिजागता विराड् गर्भा, २ पञ्चपदा बृहतीगर्भा विराट् शक्वरी, ३ उरोबृहती, ६ शाक्वरगर्भा चतुष्पदा जगती, ७ विराड् गर्भा, ८ पुरोऽतिजागता विराड् जगती, ९ बृहतीगर्भा, १० भुरिक्, ११, १३ जगती, १२ शाक्वरगर्भा चतुष्पदा विराडतिजगती, १५ पुरस्ताज्ज्योतिः, १४, १६-२२ अनुष्टुप्, २३ पुरोबार्हतातिजागतगर्भा, २५ एकावसानार्च्युष्णिक्, २६ मध्येज्योतिर ष्णिग्गर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṣaḍviṅśakam. mantroktabrahmacārīdevatyam. trāiṣṭubham: 1. puro ‘tijāgatavirāḍgarbhā; 2. 5-p. bṛhatīgarbhā virāṭ śakvarī*; 6. śākvaragarbhā 4-p. jagatī; 7. virāḍgarbhā; 8. puro ‘tijāgatā virāḍ jagatī; 9. bṛhatīgarbhā; 10. bhurij; 11. jagatī; 12. śākvaragarbhā 4-p. virāḍ atijagatī; 13. jagatī; 15. purastājjyotis; 14, 16-22. anuṣṭuhh; 23. purobārhatātijāgatagarbhā; 25. 1-av. ārcy uṣṇih; 26. madhyejyotir uṣṇiggarbhā.⌋ *⌊The words virāṭ śakvarī are lacking in the London ms. and are supplied from the Berlin ms. The latter adds parā urobṛhatī: but vs. 3 is hardly metrical, and at any rate no urobṛhatī.
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

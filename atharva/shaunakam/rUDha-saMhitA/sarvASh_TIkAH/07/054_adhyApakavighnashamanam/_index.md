@@ -1,7 +1,21 @@
 +++
 title = "54 (56, 57. 1). Extolling verse and chant."
+title_whitney = "54 (56, 57. 1). Extolling verse and chant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अध्यापकविघ्नशमनम्।  
+(१-२) १ ब्रह्मा, २ भृगुः। १ ऋक्सामनी, २ इन्द्र। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[vs. 1. Brahman.—ṛksāmadevatyam. ānuṣṭubham.—vs. 2, and 55. 1. Bhṛgu.—dvyṛcam. āindram. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

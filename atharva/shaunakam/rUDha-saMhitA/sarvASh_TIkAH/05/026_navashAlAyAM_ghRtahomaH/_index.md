@@ -1,7 +1,21 @@
 +++
 title = "26. Accompanying a sacrifice."
+title_whitney = "26. Accompanying a sacrifice."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+नवशालायां घृतहोमः।  
+१२ ब्रह्म। वास्तोष्पतिः, १ अग्निः, २ सविता, ३,११ इन्द्रः, ४ निविदः, ५ मरुतः, ६ अदितिः, ७ विष्णुः, ८ त्वष्टा, ९ भगः, १० सोमः, १२ अश्विनौ, बृहस्पतिः। १, ५ द्विपदार्षी उष्णिक्, २,४,६,७,८,१०,११ द्विपदा प्राजापत्या बृहती, ३ त्रिपदा विराड् गायत्री, ९ त्रिपदा पिपीलिकमध्या पुरउष्णिक्,(१-११ एकावसाना) १२ परातिशक्वरपी चतुष्पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dvādaśakam. vāstoṣpatyam uta mantroktabahudevatyam. 1, 5. 2-p. ārcy uṣṇih; 2, 4, 6, 7, 8, 10, 11. 2-p. prājāpatyā bṛhatī; 3. 3-p. virāḍ gāyatrī; 9. 3-p. pipīlikamadhyā purauṣṇih: 1-11. ekāvasāna; 12. parātiśakvarī 4-p.jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

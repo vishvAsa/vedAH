@@ -1,7 +1,21 @@
 +++
 title = "85. For relief from yákṣma."
+title_whitney = "85. For relief from yákṣma."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-३ अथर्वा। वनस्पतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (yakṣmanāśanakāmaḥ).—vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

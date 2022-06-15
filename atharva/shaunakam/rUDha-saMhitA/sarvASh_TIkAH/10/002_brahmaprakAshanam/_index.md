@@ -1,7 +1,21 @@
 +++
 title = "2. The wonderful structure of man."
+title_whitney = "2. The wonderful structure of man."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मप्रकाशनम्।  
+१-३३ नारायणः। पार्ष्णिसूक्तम्, पुरुषः, ब्रह्मप्रकाशनम्। अनुष्टुप्, १-४,७-८ त्रिष्टुप्, ६, ११ जगती, २८ भुरिग्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Nārāyaṇa.—trayastriṅśat. pārṣṇisūktam; pāuruṣam; brahmaprakāśisūktam (31, 32. sākṣātparabrahmaprakāśinyāu). ānuṣṭubham: 1-4, 7, 8. triṣṭubh; 6, 11. jagatī; 28. bhurig bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "19. For protection by various gods."
+title_whitney = "19. For protection by various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शर्म।  
+१-११ अथर्वा। चन्द्रमाः, मन्त्रोक्ताश्च। पङ्क्तिः १, ३, ९ भुरिग्बृहती, १० स्वराट्, २, ४-८, ११ अनुष्टुगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ekādaśakam. cāndramasam uta mantroktadtvatyam. pān̄ktam: 1, 3, 9. bhurig bṛhatī; 10. svarāj; 2, 4-8, 11. anuṣṭubgarbhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

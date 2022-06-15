@@ -1,7 +1,21 @@
 +++
 title = "14. Against the balā́sa."
+title_whitney = "14. Against the balā́sa."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+बलासनाशनम्।  
+१-३ बभ्रुपिङ्गलः। बलासः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Babhrupin̄gala (?).—balāsadevatyatn. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

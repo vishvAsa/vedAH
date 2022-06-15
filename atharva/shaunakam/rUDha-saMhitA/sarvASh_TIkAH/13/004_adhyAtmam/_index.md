@@ -1,7 +1,22 @@
 +++
 title = "4. Extolling the sun."
+title_whitney = "4. Extolling the sun."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अध्यात्मम्।  
+(१-१३ प्रथमः पर्यायः।) १-११ प्राजापत्याऽनुष्टुप्; १२ विराड् गायत्री; १३आसुरी उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[(Brahman.—ādhyātmam; rohitādityadevatyam. trāiṣṭubham.*) ṣaṭ paryāyāḥ. mantrokta drvatyāḥ.]
+[Paryāya I.—trayodaça. 1-11. prājāpatyā ’nuṣṭubh; 12. virāḍ gāyatrī; 13. āsury uṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

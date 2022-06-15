@@ -1,7 +1,21 @@
 +++
 title = "107 (112). To relieve a stinging pain."
+title_whitney = "107 (112). To relieve a stinging pain."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+संतरणम्।  
+१ भृगुः। सूर्यः आपः च। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—sāuryam utā ’bdāivatam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "30. To secure a woman's love."
+title_whitney = "30. To secure a woman's love."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कामिनीमनोऽभिमुखीकरणम्।  
+१-५ प्रजापतिः। १ मनः, २ अश्विनौ, ३-४ औषधिः, ५ दम्पती। अनुष्टुप्, १ पथ्यापङ्क्तिः, ३ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Prajāpati (kāminīmano‘ bhimukhīkaraṇakāmaḥ).—āśvinam. ānuṣṭubham: 1. pathyāpan̄kti; 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

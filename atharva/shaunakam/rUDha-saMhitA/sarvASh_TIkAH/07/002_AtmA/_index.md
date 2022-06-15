@@ -1,7 +1,21 @@
 +++
 title = "2. Of Atharvan."
+title_whitney = "2. Of Atharvan."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्,
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "10. Against evils: with a pearl-shell amulet."
+title_whitney = "10. Against evils: with a pearl-shell amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शङ्खमणिः।  
+१-७ अथर्वा। शङ्खमणिः, कृशनः। अनुष्टुप्, ६ पथ्यापङ्क्तिः, ७ पञ्चपदा परानुष्टुप्शक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—śan̄khamaṇisūktam. taddāivatam. ānuṣṭubham: 6. pathyāpan̄kti; 7. 5-p. parānuṣṭup śakvarī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

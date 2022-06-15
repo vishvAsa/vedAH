@@ -1,7 +1,21 @@
 +++
 title = "20. Against enemies and their weapons."
+title_whitney = "20. Against enemies and their weapons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१-४ अथर्वा। १ सोमः, मरुतः, २ मित्रावरुणौ, ३ वरुणः ४ इन्द्रः। अनुष्टुप्, त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāumyam. ānuṣṭubham: 1. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

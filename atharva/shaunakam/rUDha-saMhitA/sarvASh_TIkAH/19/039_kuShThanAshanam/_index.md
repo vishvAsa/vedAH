@@ -1,7 +1,21 @@
 +++
 title = "39. With kúṣṭha: against diseases."
+title_whitney = "39. With kúṣṭha: against diseases."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कुष्ठनाशनम्।  
+१-१० भृग्वङ्गिराः। कुष्ठः। अनुष्टुप्, २, ३ त्र्यवसाना पथ्यापङ्क्तिः, ४ षट्-पदा जगती, ५ सप्तपदा शक्वरी, ६-८ अष्टिः (५-८ चतुरवसाना)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—daśakam. mantroktakuṣṭhadevatyam. ānuṣṭubham: 2, 3. pathyāpan̄kti; 4. 6-p. jagatī (2-4. 3-av.); 5. 7-p. śakvarī; 6-8. aṣṭi (5-8. 4-av.).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

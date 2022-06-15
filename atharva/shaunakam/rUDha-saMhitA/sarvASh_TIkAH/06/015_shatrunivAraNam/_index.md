@@ -1,7 +1,21 @@
 +++
 title = "15. For superiority."
+title_whitney = "15. For superiority."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१-३ उद्दालकः। वनस्पतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uddālaka.—vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

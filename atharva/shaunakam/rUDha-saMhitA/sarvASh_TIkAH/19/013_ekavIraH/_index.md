@@ -1,7 +1,21 @@
 +++
 title = "13. For success in war: ⌊Apratiratha hymn⌋."
+title_whitney = "13. For success in war: ⌊Apratiratha hymn⌋."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+एकवीरः।  
+१-११ अप्रतिरथः। इन्द्रः। त्रिष्टुप्, ३-६, ११ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Apratiratha.—ekādaśa. āindram. trāiṣṭubham: 3-6, 11. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

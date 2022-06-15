@@ -1,7 +1,21 @@
 +++
 title = "47 (49). To Kuhū (goddess of the new moon)."
+title_whitney = "47 (49). To Kuhū (goddess of the new moon)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कुहूः।  
+१-२ अथर्वा। कुहूः। जगती, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. mantroktadevatyam. 1. jagatī; 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

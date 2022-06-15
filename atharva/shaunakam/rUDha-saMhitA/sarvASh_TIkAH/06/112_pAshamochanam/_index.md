@@ -1,7 +1,21 @@
 +++
 title = "112. For expiation of overslaughing."
+title_whitney = "112. For expiation of overslaughing."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाशमोचनम्।  
+१-३ अथर्वा। अग्निः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āgneyam. trāiṣṭubham..]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

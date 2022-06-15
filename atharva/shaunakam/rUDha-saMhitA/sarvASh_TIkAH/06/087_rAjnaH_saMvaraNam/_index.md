@@ -1,7 +1,21 @@
 +++
 title = "87. To establish some one in sovereignty."
+title_whitney = "87. To establish some one in sovereignty."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राज्ञः संवरणम्।  
+१-३ अथर्वा। ध्रुवः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dhrāuvyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

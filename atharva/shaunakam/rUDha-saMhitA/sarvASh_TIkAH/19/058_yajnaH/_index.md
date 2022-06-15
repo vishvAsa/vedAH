@@ -1,7 +1,21 @@
 +++
 title = "58. For various blessings."
+title_whitney = "58. For various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यज्ञः।  
+१-६ ब्रह्मा। यज्ञः, बहुदैवत्यम्। त्रिष्टुप्, २ पुरोऽनुष्टुप्, ३ चतुष्पदाऽतिशक्वरी, ५ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṣaḍṛcam. mantroktabahudevatyam uta yajñikam. trāiṣṭubham: 2. puro- ‘nuṣṭubh; 3. 4-p. atiśakvarī; 5. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

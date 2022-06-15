@@ -1,7 +1,21 @@
 +++
 title = "9. Against viṣkandha and other evils."
+title_whitney = "9. Against viṣkandha and other evils."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःखनाशनम्।  
+१-६ वामदेवः। द्यावापृथिवी, देवाः। अनुष्टुप्, ४ चतुष्पदा निचृद्बृहती, ६भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vāmadeva.—dyāvāpṛthivīyam uta vāiśvadevam. ānuṣṭubham: 4. 4-p. nicṛd bṛhatī; 6. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

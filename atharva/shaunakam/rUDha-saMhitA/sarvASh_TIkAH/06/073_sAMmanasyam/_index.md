@@ -1,7 +1,21 @@
 +++
 title = "73. To assure supremacy."
+title_whitney = "73. To assure supremacy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१-३ अथर्वा। सांमनस्यम्, वरुणसोमाग्निबृहस्पतिवसवः, ३ वास्तोष्पतिः, १,३ भुरिक्, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāmmanasyam. mantroktanānādevatyam. trāiṣṭubham: 1, 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

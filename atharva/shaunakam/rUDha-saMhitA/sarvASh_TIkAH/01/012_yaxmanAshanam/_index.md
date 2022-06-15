@@ -1,7 +1,21 @@
 +++
 title = "12. Against various ailments (as results of lightning?)."
+title_whitney = "12. Against various ailments (as results of lightning?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-४ भृग्वङ्गिराः। यक्ष्मनाशनम्। जगती(त्रिष्टुप्), ४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—yakṣmanāśanadevatākam. jāgatam: 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "36. With a śatávāra-amulet: for protection etc."
+title_whitney = "36. With a śatávāra-amulet: for protection etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शतवारो मणिः।  
+१-६ ब्रह्मा। शतवारः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṣaḍṛcam. śatavāradāivatam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

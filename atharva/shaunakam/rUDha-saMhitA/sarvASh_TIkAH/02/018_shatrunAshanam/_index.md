@@ -1,7 +1,21 @@
 +++
 title = "18. For relief from demons and foes."
+title_whitney = "18. For relief from demons and foes."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-५ चातनः। अग्निः। (द्वैपदम्) साम्नी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana (sapatnakṣayakāmaḥ).—āgneyam. dvāipadam; sāmnībārhatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

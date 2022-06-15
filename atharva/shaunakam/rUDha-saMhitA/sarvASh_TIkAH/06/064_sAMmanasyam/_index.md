@@ -1,7 +1,21 @@
 +++
 title = "64. For concord."
+title_whitney = "64. For concord."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१-३ अथर्वा। सांमनस्यम्, १ विश्वे देवाः। अनुष्टुप्, (२ त्रिष्टुप्)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāmmanasyam. vāiśvadevam. ānuṣṭubham: [2. triṣṭubh].]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

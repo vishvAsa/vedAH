@@ -1,7 +1,21 @@
 +++
 title = "12. Accompanying the building of a house."
+title_whitney = "12. Accompanying the building of a house."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शालानिर्माणम्।  
+१-९ ब्रह्मा। शाला, वास्तोष्पतिः। त्रिष्टुप्, २ विराड् जगती, ३ बृहती, ६ शक्वरीगर्भा जगती, ७ आर्षी अनुष्टुप्, ८ भुरिक्, ९अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—navarcam. śālāsūktam. vāstoṣpatiśālādāivatam. trāiṣṭubham: 2. virāḍjagatī; 3. bṛhatī; 6. śakvarīgarbhā jagatī; 7. ārṣy anuṣṭubh; 8. bhurij; 9. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

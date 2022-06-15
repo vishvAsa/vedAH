@@ -1,7 +1,21 @@
 +++
 title = "67 (69). For recovery of sense, etc."
+title_whitney = "67 (69). For recovery of sense, etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१ ब्रह्म। आत्मा। पुरःपरोष्णिग्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ātmadevatyam. puraḥparoṣṇig bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

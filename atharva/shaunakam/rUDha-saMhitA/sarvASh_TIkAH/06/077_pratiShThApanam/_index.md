@@ -1,7 +1,21 @@
 +++
 title = "77. For recovery and retention of what is lost."
+title_whitney = "77. For recovery and retention of what is lost."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+प्रतिष्ठापनम्।  
+१-३ कबन्धः। जातवेदाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kabandha.—jātavedasam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

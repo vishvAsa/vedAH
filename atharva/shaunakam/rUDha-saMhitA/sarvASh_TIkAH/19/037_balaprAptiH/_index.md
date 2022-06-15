@@ -1,7 +1,21 @@
 +++
 title = "37. With an amulet: for various blessings."
+title_whitney = "37. With an amulet: for various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+बलप्राप्तिः।  
+१-४ अथर्वा॥ अग्निः। १ त्रिष्टुप्, २ आस्तारपङ्क्तिः, ३ त्रिपदा महाबृहती, ४ उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 3. 3-p. mahābṛhatī; 4. purāuṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

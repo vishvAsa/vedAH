@@ -1,7 +1,21 @@
 +++
 title = "109. For healing: with pippalī́."
+title_whitney = "109. For healing: with pippalī́."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पिप्पली-भैषज्यम्।  
+१-३ अथर्वा। पिप्पली-भैषज्यं, आयुः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktapippalīdevatyam; bhāiṣajyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,22 @@
 +++
 title = "17 (18). Prayer to Dhātar for blessings."
+title_whitney = "17 (18). Prayer to Dhātar for blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+द्रविणार्थ प्रार्थना।  
+१-४ भृगुः। धाता, सविता, ४ अग्निः, त्वष्टा, विष्णुः।  
+१ त्रिपदा आर्षी गायत्री, २ अनुष्टुप्, ३-४ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—caturṛcam. sāvitram uta bahudmatyam. ānuṣṭubham: 1. 3-p. ārṣī gāyatrī; 3, 4. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

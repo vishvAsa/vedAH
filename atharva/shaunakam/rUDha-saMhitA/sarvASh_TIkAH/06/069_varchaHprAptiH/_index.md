@@ -1,7 +1,21 @@
 +++
 title = "69. For glory etc."
+title_whitney = "69. For glory etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चःप्राप्तिः।  
+१-३ अथर्वा। बृहस्पतिः, अश्विनौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (? varcaskāmo yaśaskāmaś ca).—bārhaspatyam utā ”śvinam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

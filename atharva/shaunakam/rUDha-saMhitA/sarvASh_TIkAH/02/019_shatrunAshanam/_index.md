@@ -1,7 +1,21 @@
 +++
 title = "19. Against enemies: to Agni (fire)."
+title_whitney = "19. Against enemies: to Agni (fire)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-५ अथर्वा। अग्निः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āgneyam. 1-4. nicṛdviṣamāgāyatrī; 5. bhurigviṣamā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

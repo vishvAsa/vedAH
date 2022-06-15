@@ -1,7 +1,21 @@
 +++
 title = "11 (12). Against injury to the grain by lightning."
+title_whitney = "11 (12). Against injury to the grain by lightning."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सरस्वती।  
+१ शौनकः। सरस्वती। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cāunaka.—sārasvatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

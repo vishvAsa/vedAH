@@ -1,7 +1,21 @@
 +++
 title = "89. To win affection."
+title_whitney = "89. To win affection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+प्रीतिसंजननम्।  
+१-३ अथर्वा। (रुद्रः,) १ सोमः, २ वातः, ३ मित्रावरुणौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktadāivatam.* ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

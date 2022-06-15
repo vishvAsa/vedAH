@@ -1,7 +1,21 @@
 +++
 title = "9. Against possession by demons: with an amulet."
+title_whitney = "9. Against possession by demons: with an amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१- ५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्मनाशनम्। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vānaspatyam; yahṣmanāśanadāivatam. ānuṣṭubham: 1. virāṭprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

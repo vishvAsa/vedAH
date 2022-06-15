@@ -1,7 +1,21 @@
 +++
 title = "2. Praise and prayer to Indra."
+title_whitney = "2. Praise and prayer to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मगोपनम्।  
+१-३ अथर्वा। सोमः, वनस्पतिः। परोष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vānaspatyaṁ sāumyam. āuṣṇiham: 1-3. paroṣṇiḥ.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

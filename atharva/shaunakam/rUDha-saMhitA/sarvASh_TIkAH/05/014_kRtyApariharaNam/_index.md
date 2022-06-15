@@ -1,7 +1,21 @@
 +++
 title = "14. Against witchcraft: with a plant."
+title_whitney = "14. Against witchcraft: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कृत्यापरिहरणम्।  
+१-१३ शुक्रः। वनस्पतिः, कृत्यापरिहरणम्। अनुष्टुप्, ३,५,१२ भुरिक्, ८ त्रिपदा विराट्, १० निचृद्बृहती, ११ त्रिपदा साम्नी त्रिष्टुप्, १३ स्वराट्।¬
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—trayodaśakam. vānaspatyam. kṛtyāpratiharaṇam. ānuṣṭubham: 8, 5, 12. bhurij; 8. 3-p. virāj; 10. nicṛd bṛhatī; 11. 3-p. sāmnī triṣṭubh; 13. svarāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

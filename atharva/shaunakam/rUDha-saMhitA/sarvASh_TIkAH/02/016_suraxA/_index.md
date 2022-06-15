@@ -1,7 +1,20 @@
 +++
 title = "16. For protection."
+title_whitney = "16. For protection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुरक्षा
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—prāṇāpānāyurdevatyam. ekāvasānam: 1. 1-p. āsurī triṣṭubh; 2. i-p. āsury uṣṇih; 3. 1-p. āsurī triṣṭubh; 4. 5. 2-p. āsurī gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

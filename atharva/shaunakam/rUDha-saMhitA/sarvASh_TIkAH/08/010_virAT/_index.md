@@ -1,7 +1,22 @@
 +++
 title = "10. Extolling the virā́j."
+title_whitney = "10. Extolling the virā́j."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विराट्।  
+१-१३ अथर्वाचार्यः। विराट्। (षट्-पर्यायाः)। १-१३, १ त्रिपदार्ची पङ्क्तिः,  
+२-७ याजुषी जगती, ३, ९ साम्न्यनुष्टुप्, ५ आर्च्यनुष्टुप्, ७, १३ विराड् गायत्री, ११ साम्ननी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvācārya.—ṣaṭ paryāyā virāḍdevatyās.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

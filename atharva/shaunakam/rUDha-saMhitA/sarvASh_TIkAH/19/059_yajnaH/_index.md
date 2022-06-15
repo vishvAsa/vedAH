@@ -1,7 +1,21 @@
 +++
 title = "59. For successful sacrifice."
+title_whitney = "59. For successful sacrifice."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यज्ञः।  
+१-३ ब्रह्मा। अग्निः। त्रिष्टुप्, १ गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—tṛcam, āgneyam. trāiṣṭubham: 1. gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "9. Mystic."
+title_whitney = "9. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१-२२ ब्रह्मा।वामः, अध्यात्मं, आदित्यः। त्रिष्टुप्, १२, १४, १६, १८ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dvāviṅśakam. vāmīyam ādityadevatyam adhyātmakaram. trāiṣṭubham: 12, 14, 16, 18. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "23. Praise and prayer to Agni."
+title_whitney = "23. Praise and prayer to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाप-मोचनम्।  
+१-७ मृगारः। प्रचेता अग्निः। त्रिषटुप्, ३ पुरस्ताज्ज्योतिष्मती, ४ अनुष्टुप्, ६ प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—sapta mṛgārasaṁjñakāni sūktāni nānādevatyāni. trāiṣṭubhāni: 3. purastājjyotiṣmatī; 4. anuṣṭubh; 6. prastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

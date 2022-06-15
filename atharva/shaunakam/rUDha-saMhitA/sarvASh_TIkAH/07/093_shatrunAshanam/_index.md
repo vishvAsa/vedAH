@@ -1,7 +1,21 @@
 +++
 title = "93 (98). For Indra's aid."
+title_whitney = "93 (98). For Indra's aid."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ भृग्वङ्गिराः। इन्द्रः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgan̄giras.—āindram. gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

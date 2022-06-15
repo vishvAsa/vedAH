@@ -1,7 +1,21 @@
 +++
 title = "113 (118). Against a (woman) rival: with a plant."
+title_whitney = "113 (118). Against a (woman) rival: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-२ भार्गवः। तृष्टिका। १ विराडनुष्टुप्, २ शंकुमती चतुष्पदा भुरिगुष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhārgava.—dvyṛcam. tṛṣṭikādevatyam. 1. virāḍ anuṣṭubh; 2. śan̄kumatī 4-p. bhurig uṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

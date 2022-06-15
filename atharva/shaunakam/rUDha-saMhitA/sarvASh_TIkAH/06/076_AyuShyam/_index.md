@@ -1,7 +1,21 @@
 +++
 title = "76. For a kṣatríya's security from death."
+title_whitney = "76. For a kṣatríya's security from death."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आयुष्यम्।  
+१-४ कबन्धः। सान्तपनाग्निः। अनुष्टुप्, ३ ककुम्मती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kabandha.—caturṛcam. sāṁtapanāgneyam. ānuṣṭubham: 3. kakummatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

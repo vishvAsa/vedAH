@@ -1,7 +1,21 @@
 +++
 title = "31. To the divine guardians of the quarters."
+title_whitney = "31. To the divine guardians of the quarters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाशमोचनम्।  
+१-४ ब्रह्मा। आशापालाः,(वास्तोष्पतिः)। अनुष्टुप्, ३ विराट् त्रिष्टुप्, ४ परानुष्टुप् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—āśāpālīyam, vāstoṣpatyam. ānuṣṭubham: 3. virāṭtriṣṭubh; 4. parānuṣṭuptriṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "36. To get a husband for a woman."
+title_whitney = "36. To get a husband for a woman."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पतिवेदनम्।  
+१-८ पतिवेदनः। १अग्निः, २ सोमः, अर्यमा, धाता, ३ अग्नीषोमौ, ४ इन्द्रः, ५ सूर्यः, ६ धनपतिः, ७ भगः, ८ औषधिः। त्रिष्टुप्, १भुरिक्, २, ५-७ अनुष्टुप्, ८ निचृत्पुरउष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Pativedana.—aṣṭarcam. āgnīṣomīyam. trāiṣṭubham: 1. bhurij; 2, 5-7. anuṣṭubh; 8. nicṛtpurauṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

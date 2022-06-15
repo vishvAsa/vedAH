@@ -1,7 +1,21 @@
 +++
 title = "136. To fasten and increase the hair."
+title_whitney = "136. To fasten and increase the hair."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+केशदृंहणम्।  
+१-३ वीतहव्यः। नितत्नि वनस्पतिः। अनुष्टुप् २ एकावसाना द्विपदा साम्नी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (keśavardhanakāmaḥ ⌊vītahavyaḥ⌋).—vānaspatyam. ānuṣṭubham: 2. 1-av. 2-p. sāmni bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

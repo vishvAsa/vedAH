@@ -1,7 +1,21 @@
 +++
 title = "125. To the war-chariot: for its success."
+title_whitney = "125. To the war-chariot: for its success."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वीरस्य रथः।  
+१-३ अथर्वा। वनस्पतिः। त्रिष्टुप्, २ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vānaspatyam. trāiṣṭubham: 2. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "25. Praise and prayer to Vāyu and Savitar."
+title_whitney = "25. Praise and prayer to Vāyu and Savitar."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम्।  
+१-७ मृगारः। सविता, वायुः। त्रिष्टुप्, ३ अतिशक्वरी, ७ पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23). 3. atiśakvarīgarbhā jagatī; 7. pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

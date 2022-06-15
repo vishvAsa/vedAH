@@ -1,7 +1,21 @@
 +++
 title = "49. To Agni etc."
+title_whitney = "49. To Agni etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अग्निस्तवः।  
+१-३ गार्ग्यः। अग्निः। १ अनुष्टुप्, २ जगती, ३ विराड्जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Gārgya.—āgneyam. 1. anuṣṭubh; 2-3. jagatī (3. virāj).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "15. With an oblation: for confluence of wealth."
+title_whitney = "15. With an oblation: for confluence of wealth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पुष्टिकर्म।  
+१-४ अथर्वा। सिन्धवः,(वाताः, पतत्रिणः)। अनुष्टुप्, १-२ भुरिक्पथ्या पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāindhavam. ānuṣṭubham: 2. bhurikpathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

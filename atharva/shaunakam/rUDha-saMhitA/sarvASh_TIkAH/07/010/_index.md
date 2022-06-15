@@ -1,7 +1,20 @@
 +++
 title = "10 (11). To Sarasvatī."
+title_whitney = "10 (11). To Sarasvatī."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+१ शौनकः। सरस्वती। त्रिष्टुप्। सरस्वती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śāunaka.—sārasvatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

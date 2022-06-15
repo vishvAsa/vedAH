@@ -1,7 +1,21 @@
 +++
 title = "69 (72). Prayer for good fortune."
+title_whitney = "69 (72). Prayer for good fortune."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुखम्।  
+१ शन्तातिः। सुखम्। पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—sukhadevatākam. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

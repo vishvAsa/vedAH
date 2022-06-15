@@ -1,7 +1,21 @@
 +++
 title = "126. To the drum: for success against the foe."
+title_whitney = "126. To the drum: for success against the foe."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुन्दुभिः।  
+१-३ अथर्वा। दुन्दुभिः। भुरिक् त्रिष्टुप्, ३ पुरोबृहतीगर्भा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vānaspatyadundubhidevatyam. bhuriktrāiṣṭubham: 3. purobṛhatī virāḍgarbhā triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "27. Āprī-hymn: to various divinities."
+title_whitney = "27. Āprī-hymn: to various divinities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अग्निः।  
+१-१२ ब्रह्म। अग्निः। १ बृहतीगर्भा त्रिष्टुप्, २ द्विपदा साम्नी भुरिगनुष्टुप्, ३ द्विपदार्ची बृहती, ४ द्विपदा साम्नी भुरिग्बृहती, ५ द्विपदा साम्नी त्रिष्टुप्, ६ द्विपदा विराण्नाम गायत्री, ७ द्विपदा साम्नी बृहती, ७ संस्तारपङ्क्तिः, ९ षट्-पदानुष्टुब्गर्भा परातिजगती, १०-१२ पुरउष्णिक् (२-७ एकावसाना)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dvādaśakam. āgneyam. 1. bṛhatīgarbhā triṣṭubh; 2. 2-p. sāmnām bhuriganuṣṭubh; 3. 2-p. ārcī bṛhatī; 4. 2-p. sāmnī bhurigbṛhatī; 5. 2-p. sāmnī triṣṭubh; 6. 2-p. virāṇ nāma gāyatrī; 7. 2-p. sāmnī bṛhatī (imā ⌊2-7?⌋ ekāvasānāḥ); 8. saṁstārapan̄kti; 9. 6-p. anuṣṭubgarbhā parātijagatī; 10-12. purauṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

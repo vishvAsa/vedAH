@@ -1,7 +1,21 @@
 +++
 title = "117. For relief from guilt or debt."
+title_whitney = "117. For relief from guilt or debt."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आनृण्यम्।  
+१-३ कौशिकः। अग्निः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

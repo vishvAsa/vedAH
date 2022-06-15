@@ -1,7 +1,21 @@
 +++
 title = "15. For exorcism: to a plant."
+title_whitney = "15. For exorcism: to a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रोगोपशमनम्।  
+१-११ विश्वामित्रः। मधुला वनस्पतिः। अनुष्टुप्, ४ पुरस्ताद्बृबती, ५,७,९ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Viśvāmitra.—ekādaśakam. vānasfatyam. ānuṣṭubham: 4. purastādbṛhatī; 5, 7, 8, 9. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

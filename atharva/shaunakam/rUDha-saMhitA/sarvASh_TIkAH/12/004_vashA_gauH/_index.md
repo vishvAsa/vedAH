@@ -1,7 +1,21 @@
 +++
 title = "4. The cow (vaśā́) as belonging exclusively to the Brahmans."
+title_whitney = "4. The cow (vaśā́) as belonging exclusively to the Brahmans."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वशा गौः।  
+१-५३ कश्यपः। वशा। अनुष्टुप्, ७ भुरिक्, २० विराट्, ३१ उष्णिग्बृहतीगर्भा, ४२ बृहतीगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kaśyapa.—tripañcāśat. mantroktavaśādevatyam. ānuṣṭubham: 7. bhurij; 20. virāj; 32. uṣṇigbṛhatīgarbhā; 42. bṛhatīgarbhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

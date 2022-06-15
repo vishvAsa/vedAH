@@ -1,7 +1,21 @@
 +++
 title = "16 (17). Prayer to Savitar (or Brihaspati)."
+title_whitney = "16 (17). Prayer to Savitar (or Brihaspati)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सविता  
+१ भृगुः। सविता। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—sāvitram. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

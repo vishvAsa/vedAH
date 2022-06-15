@@ -1,7 +1,21 @@
 +++
 title = "84 (89). To Agni: and to Indra."
+title_whitney = "84 (89). To Agni: and to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्षत्रभृदग्निः।  
+१-३ भृगु। १ जातवेदाःअग्निः, २-३ इन्द्रः। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—tṛcam. āindra,: 1. āgneyī. trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "52. For deliverance from unseen pests."
+title_whitney = "52. For deliverance from unseen pests."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भैषज्यम्।  
+१-३ भागलिः। १ सूर्यः, २ गावः, ३ भेषजम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhāgali.—mantroktabahudevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "28 (29). Of the instruments of offering."
+title_whitney = "28 (29). Of the instruments of offering."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्ति।  
+मेधातिथिः। वेदः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Medhātithi (?).—vedadevatākam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

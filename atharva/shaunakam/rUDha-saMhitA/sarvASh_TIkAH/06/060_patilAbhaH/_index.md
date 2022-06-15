@@ -1,7 +1,21 @@
 +++
 title = "60. For winning a spouse."
+title_whitney = "60. For winning a spouse."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पतिलाभः।  
+१-३ अथर्वा। अर्यमा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—āryamaṇam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

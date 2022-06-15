@@ -1,7 +1,21 @@
 +++
 title = "68. To accompany the act of shaving."
+title_whitney = "68. To accompany the act of shaving."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वपनम्।  
+१-३ अथर्वा। १ सविता, आदित्याः, रुद्राः, वसवः, २ अदितिः, आपः, प्रजापतिः, ३ सविता, सोमः, वरुणः। १ पुरोविराडतिशाक्वरगर्भा चतुष्पदा जगती, २ अनुष्टुप्, ३ अतिजगतीगर्भा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—mantroktadevatyam. 1. purovirāḍ atiśakvarīgarbhā 4-p. jagatī; 2. anuṣṭubh; 3. atijagatīgarbhā triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

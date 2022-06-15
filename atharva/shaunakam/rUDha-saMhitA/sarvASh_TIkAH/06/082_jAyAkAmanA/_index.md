@@ -1,7 +1,21 @@
 +++
 title = "82. To obtain a wife."
+title_whitney = "82. To obtain a wife."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जायाकामना।  
+१-३ भगः। इन्द्रः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhaga (jāyākāmaḥ).—āindram. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "24. To various gods as overlords."
+title_whitney = "24. To various gods as overlords."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मकर्म  
+१-१७ अथर्वा। ब्रह्मकर्मात्मा, १ सविता, २ अग्निः, ३ द्यावापृथिवी, ४ वरुणः, ५ मित्रावरुणौ, ६ मरुतः, ७ सोमः, ८ वायुः, ९ सूर्यः, १० चन्द्रमाः, ११ इन्द्रः, १२ मरुतां पिता, १३ मृत्युः, १४ यमः, १५ पितरः, १६ तताः, १७ ततामहाः। अतिशक्वरी, १-१०, १२-१४ चतुष्पदातिशक्वरी, ११ शक्वरी, १५-१६ त्रिपदा भुरिग्जगती, १७ त्रिपदा विराट् शक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptadaśakam. brahmakarmātmadevatyam. atiśākvaram: 1-17. 4-p. atiśakvarī; 11. śakvarī; 15-17. 3-p. (15, 16. bhurig atijagatī; 17. virāṭ śakvarī).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

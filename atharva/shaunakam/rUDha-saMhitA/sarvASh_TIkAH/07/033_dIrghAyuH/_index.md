@@ -1,7 +1,21 @@
 +++
 title = "33 (34) For blessings: to various gods."
+title_whitney = "33 (34) For blessings: to various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः।  
+१ ब्रह्मा। मरुतः, पूषा, बृहसपतिः, अग्निः। पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—mantroktadevatyavi . pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

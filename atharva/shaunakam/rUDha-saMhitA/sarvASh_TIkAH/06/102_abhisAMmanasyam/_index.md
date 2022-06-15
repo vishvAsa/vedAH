@@ -1,7 +1,21 @@
 +++
 title = "102. To win a woman."
+title_whitney = "102. To win a woman."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभिसांमनस्यम्।  
+१-३ जमदग्निः। अश्विनौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Jamadagni (abhisammanaskāmaḥ) .—āśvinam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

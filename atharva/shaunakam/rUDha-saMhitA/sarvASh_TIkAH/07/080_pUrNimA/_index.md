@@ -1,7 +1,21 @@
 +++
 title = "80 (85). To the night or goddess of full moon (pāurṇamāsī́)."
+title_whitney = "80 (85). To the night or goddess of full moon (pāurṇamāsī́)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पूर्णिमा।  
+१-४ अथर्वा।पौर्णमासी, ३ प्रजापतिः। त्रिष्टुप्, २ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. pāurṇamāsam: 3. prājāpatyā. trāiṣṭubham: 2. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

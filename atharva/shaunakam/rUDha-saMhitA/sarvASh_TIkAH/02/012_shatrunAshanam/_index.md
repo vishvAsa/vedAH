@@ -1,7 +1,22 @@
 +++
 title = "12. ⌊Against such as would thwart my incantations.⌋"
+title_whitney = "12. ⌊Against such as would thwart my incantations.⌋"
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-८ भरद्वाजः। १ द्यावापृथिवी, अन्तरिक्षम्, २ देवाः, ३ इन्द्रः, ४ आदित्या वसवोऽङ्गिरसः पितरः, ५ सोम्यासः पितरः, ६ मरुतः, ७ यमसादनम्, ब्रह्म, ८ अग्निः।  
+त्रिष्टुप्, २ जगती, ७-८ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bharadvāja.—aṣṭarcam. nānādevatyam. trāiṣṭubham: 2. jagatī; 7, 8. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

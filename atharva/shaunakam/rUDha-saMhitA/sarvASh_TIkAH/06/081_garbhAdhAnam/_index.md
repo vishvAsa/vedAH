@@ -1,7 +1,21 @@
 +++
 title = "81. For successful pregnancy: with an amulet."
+title_whitney = "81. For successful pregnancy: with an amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गर्भाधानम्।  
+१-३ अथर्वा। आदित्यः, ३ त्वष्टा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Tvaṣṭar.—mantroktadevatyam utā ”dityam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

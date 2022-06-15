@@ -1,7 +1,21 @@
 +++
 title = "16. Morning invocation to various gods, especially Bhaga."
+title_whitney = "16. Morning invocation to various gods, especially Bhaga."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्तये प्रार्थना।  
+१-७ अथर्वा। १ अग्निः, इन्द्रः, मित्रावरुणौ, अश्विनौ, भगः, पूषा, ब्रह्मणस्पतिः, सोमः, रुद्रः, २-३ ५ भगः, आदित्यः, ४ इन्द्रः, ६ दधिक्रवा, अश्वाः, ७ उषाः। त्रिष्टुप्, १ आर्षी जगती, ४ भुरिक् पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptarcam. prātaḥsūktam. bārhaspatyam uta bahudevatyam. trāiṣṭubham: 1. ārṣī jagatī; 4. bhurikpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

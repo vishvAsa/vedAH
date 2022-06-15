@@ -1,7 +1,21 @@
 +++
 title = "34. With a jan̄giḍá-amulet: for protection etc."
+title_whitney = "34. With a jan̄giḍá-amulet: for protection etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जङ्गिडमणिः।  
+१-१० अङ्गिराः। वनस्पतिः, लिङ्गोक्ताः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—daśakam. mantroktadevatyam uta vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

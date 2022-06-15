@@ -1,7 +1,21 @@
 +++
 title = "48. To the deities of the three daily libations."
+title_whitney = "48. To the deities of the three daily libations."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्तिवाचनम्।  
+१-३ अङ्गिराः, प्रचेताः। १ श्येनः, २ ऋभुः, ३ वृषा। उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[⌊?⌋—mantroktarṣidevatyam. āuṣṇiham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

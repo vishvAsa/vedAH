@@ -1,7 +1,21 @@
 +++
 title = "80. The heavenly dog and the kālakāñjás."
+title_whitney = "80. The heavenly dog and the kālakāñjás."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अरिष्टक्षयणम्।  
+१-३ अथर्वा। चन्द्रमाः। १ भुरिक्, २ अनुष्टुप्, ३ प्रस्तारपङक्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—cāndramasam. ānuṣṭubham: 1. bhurij; 3. prastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

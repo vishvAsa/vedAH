@@ -1,7 +1,21 @@
 +++
 title = "7. To Agni: for the discovеrу of sorcerers."
+title_whitney = "7. To Agni: for the discovеrу of sorcerers."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यातुधाननाशनम्।  
+१-७ चातनः। अग्निः (जातवेदाः), ३ अग्नीन्द्रौ। अनुष्टुप्, ५ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cãtana.—saptarcam. ãnuṣṭubham: 5. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

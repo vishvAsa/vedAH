@@ -1,7 +1,21 @@
 +++
 title = "43. To assuage wrath."
+title_whitney = "43. To assuage wrath."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मन्युशमनम्।  
+१-३ भृग्वङ्गिराः (परस्परचित्तैकीकरणकामः)। मन्युशमनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[(As 42.)—manyuśamanadevatākam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

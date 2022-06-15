@@ -1,7 +1,21 @@
 +++
 title = "49 (51). To the spouses of the gods."
+title_whitney = "49 (51). To the spouses of the gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+देवपत्न्यः।  
+१-२ अथर्वा। देवपत्नीः। १ आर्षी जगती, २ चतुष्पदा पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvam.—dvyṛcam. mantroktadevapatnīdevatākam. 1. ārṣī jagatī; 2. 4. p. pan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "3. To various divinities: for protection."
+title_whitney = "3. To various divinities: for protection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मगोपनम्।  
+१-३ अथर्वा। १ इन्द्रपूषणौ, अदितिः, मरुतः, अपां नपात्, सिन्धवः, विष्णुः, द्यौः,२ द्यावापृथिवी, ग्रावा, सोमः, सरस्वती, अग्निः,३ अश्विनौ, उषासानक्ता, अपां नपात्, त्वष्टा। जगती, पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—nānādāivatam. jāgatam: 1. pathyābṛhati.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

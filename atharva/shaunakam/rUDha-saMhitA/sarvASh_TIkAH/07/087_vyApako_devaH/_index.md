@@ -1,7 +1,21 @@
 +++
 title = "87 (92). Homage to Rudra."
+title_whitney = "87 (92). Homage to Rudra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+व्यापको देवः।  
+१ अथर्वा। रुद्रः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—rāudram. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

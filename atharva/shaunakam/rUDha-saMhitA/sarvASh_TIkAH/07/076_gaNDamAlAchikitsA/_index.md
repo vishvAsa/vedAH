@@ -1,7 +1,21 @@
 +++
 title = "76 (80, 81). Against apacíts and jāyā́nya: etc."
+title_whitney = "76 (80, 81). Against apacíts and jāyā́nya: etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गण्डमालाचिकित्सा।  
+१-६ अथर्वा। १,२ अपचिद्भैषज्यं, ३-६ जायान्यः, इन्द्रः। अनुष्टुप्,
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[1-4. Atharvan.—caturṛcam. apacidbhāiṣajyadevatyam. ānuṣṭubham: 1. virāj; 2, paroṣṇiḥ. 5, 6. Atharvan.—dvyṛcam. jāyānyāindradāivatam. trāiṣṭubham: 5. bhurig anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "28. With an amulet of three metals: for safety etc."
+title_whitney = "28. With an amulet of three metals: for safety etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः।  
+१-१४ अथर्वा। त्रिवृत्, अग्न्यादयः। त्रिष्टुप्, ६ पञ्चपदातिशक्वरी, ७,९-१०,१२ ककुम्मत्यनुष्टुप् १३ पुरउष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturdaśarcam. trivṛddevatyam (agnyādīn mantroktān devān samprārthya trivṛtam astāut). trāiṣṭubham: 6. 5-p. atiśakvarī; 7, 9, 10, 12. kakummatyanuṣṭubh; 13. purauṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

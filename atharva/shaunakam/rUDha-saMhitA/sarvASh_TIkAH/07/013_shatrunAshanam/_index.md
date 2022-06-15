@@ -1,7 +1,21 @@
 +++
 title = "13 (14). Against one's foes."
+title_whitney = "13 (14). Against one's foes."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-२ अथर्वा (द्विषो वर्चो हर्तुकामः)। सूर्यः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (dviṣo varcohartukāmaḥ).—dvyṛcam. sāuryam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

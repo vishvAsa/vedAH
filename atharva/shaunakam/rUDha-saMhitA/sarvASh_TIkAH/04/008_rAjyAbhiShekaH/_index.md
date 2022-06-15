@@ -1,7 +1,22 @@
 +++
 title = "8. Accompanying the consecration of a king."
+title_whitney = "8. Accompanying the consecration of a king."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राज्याभिषेकः।  
+१-७ अथर्वाङ्गिराः। चन्द्रमाः, आपः, राज्याभिषेकः; १ राजा, २ देवाः, ३ विश्वरूपः, ४-५ आपः।  
+अनुष्टुप्; १, ७ भुरिक् त्रिष्टुप्, ३ त्रिष्टुप्, ५ विराट् प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—rājyābhiṣekyam, cāndramasam, āpyam. ānuṣṭubham: 1, 7. bhuriktriṣṭubh; 3. triṣṭubh; 5. virāṭprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

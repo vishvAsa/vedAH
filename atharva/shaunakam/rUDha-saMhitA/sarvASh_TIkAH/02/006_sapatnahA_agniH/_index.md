@@ -1,7 +1,21 @@
 +++
 title = "6. Praise and prayer to Agni."
+title_whitney = "6. Praise and prayer to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सपत्नहाऽग्निः।  
+१-५ शौनकः(सम्पत्कामः) अग्निः। त्रिष्टुप्, ४ चतुष्पदार्षी पङ्क्तिः, ५ विराट् प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śāunaka (sampatkāmaḥ).—āgneyam. trāiṣṭubham: 4. 4-p. ārṣī pan̄kti; 5. virāṭprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

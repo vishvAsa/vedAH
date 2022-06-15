@@ -1,7 +1,21 @@
 +++
 title = "37. Against various superhuman foes: with an herb."
+title_whitney = "37. Against various superhuman foes: with an herb."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कृमिनाशनम्।  
+१२ बादरायणिः। अजशृङ्गी, १ अप्सरसः, १-२, ६-१० औषधी अजशृङ्गी, ३-५ अप्सरसः, ७-१२ गन्धर्वाप्सरसः। अनुष्टुप्, ३ त्र्यवसाना षट् पदा त्रिष्टुप्, ५ प्रस्तारपङ्क्तिः, ७ परोष्णिक्, ११ षट् पदा जगती, १२ निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bādarāyaṇi.—dvādaśarcam . ajaśṛn̄gyapsarodevatyam. ānuṣṭubham: 3. 3-av.6-p. triṣṭubh; 5. prastārapan̄kti; 7. paroṣṇih; 11. 6-p. jagatī; 12. nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

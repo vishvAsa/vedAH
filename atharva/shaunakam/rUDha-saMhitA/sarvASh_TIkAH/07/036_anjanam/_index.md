@@ -1,7 +1,21 @@
 +++
 title = "36 (37). Husband and wife to one another."
+title_whitney = "36 (37). Husband and wife to one another."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अञ्जनम्।  
+१ अथर्वा। अक्षि, मनः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktāhṣidevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

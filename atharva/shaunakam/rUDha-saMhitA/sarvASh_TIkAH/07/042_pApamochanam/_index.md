@@ -1,7 +1,21 @@
 +++
 title = "42 (43). To Soma and Rudra."
+title_whitney = "42 (43). To Soma and Rudra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम्।  
+१-२ प्रस्कण्वः। सोमारुद्रौ। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praskaṇva.—dvyṛcam. mantroktadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

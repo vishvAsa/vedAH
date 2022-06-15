@@ -1,7 +1,21 @@
 +++
 title = "26 (27). Praise and prayer to Vishṇu."
+title_whitney = "26 (27). Praise and prayer to Vishṇu."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विष्णुः।  
+१-८ मेधातिथिः। विष्णुः। १,८ त्रिष्टुप्, २ त्रिपदा विराड्-गायत्री, ३ त्र्यवसाना षट्-पदा विराट् शक्वरी, ४-७ गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Medhātithi.—aṣṭarcam. vāiṣṇavam. trāiṣṭubham: 2. 3-p. virāḍgāyatrī; 3. 3-av. 6-p. virāṭśakvarī; 4-7. gāyatrī; 8. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

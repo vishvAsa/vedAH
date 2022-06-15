@@ -1,7 +1,21 @@
 +++
 title = "19. To help friends against enemies."
+title_whitney = "19. To help friends against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अजरं क्षत्रम्।  
+१-८ वसिष्ठः। विश्वे देवाः, चन्द्रमाः, इन्द्रः। अनुष्टुप्, १ पथ्याबृहती, ३ भुरिग्बृहती, ५ त्रिष्टुप्, ६ त्र्यवसाना षट्पदा त्रिष्टुप्ककुम्मतीगर्भातिजगती, ७ विराडास्तारपङ्क्तिः, ८ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vasiṣṭha.—aṣṭarcam. vāiśvadevam uta cāndramasam utāi ”ndram. ānuṣṭubham: 1. pathyābṛhatī; 3. bhurigbṛhatī; 6. 3-av. 6-p. triṣṭupkakummatīgarbhā ’tijagatī; 7. virāḍāstārapan̄kti; 8. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "35 (36). Against a rival (woman)."
+title_whitney = "35 (36). Against a rival (woman)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सपत्नीनाशनम्।  
+१-३ अथर्वा। जातवेदाः। १ जगती, २ अनुष्टुप्, ३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—tṛcam. jātavedasam. ānuṣṭubham: 1, 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

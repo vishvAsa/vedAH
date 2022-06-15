@@ -1,7 +1,21 @@
 +++
 title = "57 (59). Prayer to Sarasvati etc."
+title_whitney = "57 (59). Prayer to Sarasvati etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सरस्वती।  
+१-२ वामदेवः। सरस्वती। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vāmadeva.—dvyṛcam. sārasvatam. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

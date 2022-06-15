@@ -1,7 +1,23 @@
 +++
 title = "10. Extolling the cow (vaśā́)."
+title_whitney = "10. Extolling the cow (vaśā́)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वशा गौः।  
+१-३४ कश्यपः। वशा। अनुष्टुप्, १ ककुम्मती, ५ पञ्चपदा॰ स्कन्धोग्रीवी बृहती, ६, ८, १० विराट्,  
+२३ बृहती, २४ उपरिष्टाद् बृहती, २६ आस्तारपङ्क्तिः, २७ शंकुमती,  
+२९ त्रिपदा विराड् गायत्री, ३१ उष्णिग्गर्भा, ३२ विराट् पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kaśyapa.—catustriṅśat. mantroktavaśādevatyam. ānuṣṭubham: 1. kakummatī; 5. skandhogrīvābṛhatī; 6, 8, 10. virāj; 23. bṛhatī; 24. upariṣṭādbṛhatī; 26. āstārapan̄kti; 27. śan̄kumatī; 29. 3-p. virāḍ gāyatrī; 31. uṣṇiggarbhā; 32. virāṭ pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

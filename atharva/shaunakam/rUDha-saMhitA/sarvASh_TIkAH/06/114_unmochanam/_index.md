@@ -1,7 +1,21 @@
 +++
 title = "114. Against disability in sacrifice."
+title_whitney = "114. Against disability in sacrifice."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+उन्मोचनम्।  
+१-३ ब्रह्म। विश्वे देवाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—vāiśvadevam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

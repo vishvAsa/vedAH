@@ -1,7 +1,21 @@
 +++
 title = "4. Against various evils: with a jan̄giḍá amulet."
+title_whitney = "4. Against various evils: with a jan̄giḍá amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-६ अथर्वा। (चन्द्रमाः,) जङ्गिडः। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ṣaḍṛcam. cāndramasam uta jan̄giḍadevatākam. ānuṣṭubham: 1. virāṭ prastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

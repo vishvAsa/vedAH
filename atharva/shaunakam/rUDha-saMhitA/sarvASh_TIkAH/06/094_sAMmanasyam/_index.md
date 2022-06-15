@@ -1,7 +1,21 @@
 +++
 title = "94. For harmony."
+title_whitney = "94. For harmony."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१-३ अथर्वाङ्गिराः। सरस्वती। अनुष्टुप्, २ विराड्-जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—sārasvatyam. ānuṣṭubham. 2. virāḍ jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

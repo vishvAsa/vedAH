@@ -1,7 +1,21 @@
 +++
 title = "34. Praise and prayer to Agni."
+title_whitney = "34. Praise and prayer to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-५ चातनः। अग्निः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—⌊pañcarcam.⌋ agnidāivatam. gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

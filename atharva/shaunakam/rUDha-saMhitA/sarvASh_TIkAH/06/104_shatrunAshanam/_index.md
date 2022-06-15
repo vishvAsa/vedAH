@@ -1,7 +1,21 @@
 +++
 title = "104. Against enemies."
+title_whitney = "104. Against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ प्रशोचनः। इन्द्राग्नी, ३ इन्द्रानी, सोम इन्द्रश्च। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praśocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

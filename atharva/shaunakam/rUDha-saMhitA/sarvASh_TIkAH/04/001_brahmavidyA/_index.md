@@ -1,7 +1,21 @@
 +++
 title = "1. Mystic."
+title_whitney = "1. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+१-७ वेनः। बृहस्पतिः, आदित्यः। त्रिष्टुप् २, ५ पुरोऽनुष्टुप्।  
+ब्रह्मविद्या।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vena.—bārhaspatyam utā ”dityadāivatam. trāiṣṭubham: 2, 5. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

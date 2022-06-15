@@ -1,7 +1,21 @@
 +++
 title = "88. To establish a sovereign."
+title_whitney = "88. To establish a sovereign."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ध्रुवो राजा।  
+१-३ अथर्वा। ध्रुवः। अनुष्टुप्, ३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dhrāuvyam. ānuṣṭubham: 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

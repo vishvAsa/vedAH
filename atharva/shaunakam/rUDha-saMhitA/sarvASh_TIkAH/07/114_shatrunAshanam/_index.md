@@ -1,7 +1,21 @@
 +++
 title = "114 (119). Against enemies."
+title_whitney = "114 (119). Against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-२ भार्गवः। अग्नीषोमौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhārgava.—dvyṛcam. agnīṣomīyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

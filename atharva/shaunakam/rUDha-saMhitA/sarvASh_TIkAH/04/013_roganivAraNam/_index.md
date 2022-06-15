@@ -1,7 +1,21 @@
 +++
 title = "13. For healing."
+title_whitney = "13. For healing."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रोगनिवारणम्  
+१-७ शंतातिः। चन्द्रमाः, विश्वे देवाः, १ देवाः, २-३ वातः, ४ मरुतः, ६-७ हस्तः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—cāndramasam uta vāiśvadevam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

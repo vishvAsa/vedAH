@@ -1,7 +1,21 @@
 +++
 title = "15. Against fear."
+title_whitney = "15. Against fear."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभय प्राप्तिः।  
+१-६ ब्रह्मा। प्राणः, आयुः। त्रिपाद्गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṣaḍṛcam. prāṇāpānāyurdevatyam. tripādgāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

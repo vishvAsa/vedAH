@@ -1,7 +1,21 @@
 +++
 title = "28. Praise and prayer to Bhava and śarva."
+title_whitney = "28. Praise and prayer to Bhava and śarva."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम् ।  
+१-७ मृगारोऽथर्वा वा । भवाशर्वौ रुद्रो वा । त्रिष्टुप्, १ अतिजागतगर्भा भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23). 1. dvyatijāgatagarbhā bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

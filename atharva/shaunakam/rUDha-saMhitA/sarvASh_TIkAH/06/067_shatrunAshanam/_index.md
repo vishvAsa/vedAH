@@ -1,7 +1,21 @@
 +++
 title = "67. For success against enemies."
+title_whitney = "67. For success against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ अथर्वा। इन्द्रः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—cāndram utāi ”ndram. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "16. For safety and protection."
+title_whitney = "16. For safety and protection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभयम्।  
+१-२ अथर्वा। मन्त्रोक्ताः। १ अनुष्टुप्, २ त्र्यवसाना सप्तपदा बृहतीगर्भाऽतिशक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—tṛcam.* mantroktabahudevatyam. 1. anuṣṭubh; 2.3-av. 7-p. bṛhatīgarbhā ’tiśakvarī.⌋ *⌊So the London ms.; the Berlin ms. says in fact dvyṛcam: see under vs. 2.⌋
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

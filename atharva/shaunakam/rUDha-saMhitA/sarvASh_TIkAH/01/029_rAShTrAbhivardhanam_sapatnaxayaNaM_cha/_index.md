@@ -1,7 +1,21 @@
 +++
 title = "29. For a chief's success: with an amulet."
+title_whitney = "29. For a chief's success: with an amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्राभिवर्धनम्, सपत्नक्षयणं च।  
+१-६ वसिष्ठः। ब्रह्मणस्पतिः, अभीवर्तमणिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vasiṣṭha.—ṣaḍṛcam. abhīvartamaṇisūktam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

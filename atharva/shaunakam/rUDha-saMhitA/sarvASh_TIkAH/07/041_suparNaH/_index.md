@@ -1,7 +1,21 @@
 +++
 title = "41 (42). To the heavenly falcon (the sun)."
+title_whitney = "41 (42). To the heavenly falcon (the sun)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुपर्णः।  
+१-२ प्रस्कण्वः। श्येनः । १ जगती, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praskaṇva.—dvyṛcam. śyenadāivatam. 1. jagatī; 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

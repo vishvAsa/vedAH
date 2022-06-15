@@ -1,7 +1,21 @@
 +++
 title = "85 (90). Invocation of Tārkshya."
+title_whitney = "85 (90). Invocation of Tārkshya."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अरिष्टनेमिः।  
+१ अथर्वा (स्वस्त्ययनकामः)। तार्क्ष्यः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—tārkṣyadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

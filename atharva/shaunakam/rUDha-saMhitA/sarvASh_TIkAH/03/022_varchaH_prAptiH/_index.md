@@ -1,7 +1,21 @@
 +++
 title = "22. To the gods: for splendor (várcas)."
+title_whitney = "22. To the gods: for splendor (várcas)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चः प्राप्तिः।  
+१-६ वसिष्ठः। वर्चः, बृहस्पतिः, विश्वे देवाः। अनुष्टुप्, १ विराट् त्रिष्टुप्, ३ पञ्चपदा परानुष्टुप् विराडतिजगती, ४ त्र्यवसाना षट् पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vasiṣṭha.—varcasyam. bārhaspatyam uta vāiśvadevam. ānuṣṭubham: 1. virāṭ triṣṭubh; 3. 5-p. parānuṣṭub virāḍatijagatī; 4. 3-av. 6-p. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

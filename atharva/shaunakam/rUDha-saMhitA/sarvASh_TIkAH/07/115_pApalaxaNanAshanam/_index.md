@@ -1,7 +1,21 @@
 +++
 title = "115 (120). Against ill luck."
+title_whitney = "115 (120). Against ill luck."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापलक्षणनाशनम्।  
+१-४ अथर्वाङ्गिराः। सविता, जातवेदाः। अनुष्टुप्, २-३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—caturṛcam. sāvitram; jātavedasam. ānuṣṭubham: 2, 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

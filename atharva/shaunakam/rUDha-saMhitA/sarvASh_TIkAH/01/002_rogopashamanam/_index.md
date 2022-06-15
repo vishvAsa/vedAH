@@ -1,7 +1,21 @@
 +++
 title = "2. Against injury and disease: with a reed."
+title_whitney = "2. Against injury and disease: with a reed."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रोगोपशमनम्।  
+अथर्वा। पर्जन्यः(१,४ पृथिवी, ३ इन्द्रः,(चन्द्रमाश्च))। अनुष्टुप्, ३ त्रिपदा विराण्नाम गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—cāndramasam; pārjanyam. ānuṣṭubham: 3. 3-p. virāṇnāma gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

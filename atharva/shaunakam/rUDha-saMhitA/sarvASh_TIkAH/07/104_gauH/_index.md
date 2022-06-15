@@ -1,7 +1,21 @@
 +++
 title = "104 (109). Concerning Atharvan's cow."
+title_whitney = "104 (109). Concerning Atharvan's cow."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गौः।  
+१ ब्रह्म। आत्मा। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ātmadāivatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "12 (13). For success in the assembly."
+title_whitney = "12 (13). For success in the assembly."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रसभा।  
+१-४ शौनकः। सभा, १-२ सभा, पितरः, ३ इन्द्रः, ४ मनः। अनुष्टुप्, १ भुरिक् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śāunaka.—caturṛcam. sabhyam: 1. ⌊dvidevatyā⌋ uta pitryā*; 3. āindrī; 4. mantroktadevatyā. anuṣṭubham: 1. bhurik triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

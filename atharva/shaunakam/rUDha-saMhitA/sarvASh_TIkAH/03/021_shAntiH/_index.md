@@ -1,7 +1,21 @@
 +++
 title = "21. With oblation to the various forms of fire or Agni."
+title_whitney = "21. With oblation to the various forms of fire or Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शान्तिः।  
+१-१० वसिष्ठः। अग्निः। त्रिष्टुप्, १ पुरोनुष्टुप्, २, ३, ८ भुरिक् ५ जगती, ६ उपरिष्टाद्विराड् बृहती, ७ विराड् गर्भा, ९ निचृदनुष्टुप्, १० अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vasiṣṭha.—daśarcam. āgneyam. trāiṣṭubham: 1. puro ‘nuṣṭubh; 2, 3, 8. bhurij; 5. jagatī; 6. upariṣṭādvirāḍbṛhatī; 7. virāḍgarbhā; 9, 10. anuṣṭubh (9. nicṛt).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

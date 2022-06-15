@@ -1,7 +1,21 @@
 +++
 title = "15. For safety and success."
+title_whitney = "15. For safety and success."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभयम्।  
+१-६ अथर्वा। १-४ इन्द्रः, मन्त्रोक्ताः। त्रिष्टुप्, १ पथ्याबृहती, २, ५ जगती, ३ विराट् पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ṣaḍṛcam. 1-4. āindram; 5, 6. mantroktabahudevatyam. 1. pathyābṛhatī; 2, 5. 4-p. jagatī; 3. virāṭ pathyāpan̄kti; 4, 6. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

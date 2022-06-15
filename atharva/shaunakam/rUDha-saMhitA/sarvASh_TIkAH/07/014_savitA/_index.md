@@ -1,7 +1,21 @@
 +++
 title = "14 (15). Prayer and praise to Savitar."
+title_whitney = "14 (15). Prayer and praise to Savitar."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सविता  
+१-४ अथर्वा। सविता। अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. sāvitram. ānuṣṭubham: 3. triṣṭubh; 4. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

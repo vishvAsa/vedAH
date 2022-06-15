@@ -1,7 +1,21 @@
 +++
 title = "7. For blessings."
+title_whitney = "7. For blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+असुरक्षयणम्।  
+१-३ अथर्वा। सोमः, अदितिः, ३ देवाः। गायत्री, १ निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāumyam: 3. vāiśvadevī. gāyatram; 1. nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

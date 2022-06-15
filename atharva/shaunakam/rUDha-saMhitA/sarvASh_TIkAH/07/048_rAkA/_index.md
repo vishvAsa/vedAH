@@ -1,7 +1,21 @@
 +++
 title = "48 (50). To Rākā (goddess of the full moon)."
+title_whitney = "48 (50). To Rākā (goddess of the full moon)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राका।  
+१-२अथर्वा। राका। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. mantroktadevatyam. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

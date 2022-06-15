@@ -1,7 +1,21 @@
 +++
 title = "50. Against petty destroyers of grain."
+title_whitney = "50. Against petty destroyers of grain."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभययाचना।  
+१-३ अथर्वा (अभयकामः)। अश्विनौ। १ विराड्जगती, २-३ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (abhayakāmaḥ).—āśvinam. 1. virāḍ jagatī; 2, 3. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

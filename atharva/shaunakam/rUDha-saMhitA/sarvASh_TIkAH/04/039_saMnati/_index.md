@@ -1,7 +1,21 @@
 +++
 title = "39. For various blessings."
+title_whitney = "39. For various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+संनति  
+१-१० अङ्गिराः, ९-१० ब्रह्म च। १-२ पृथिव्यग्नी, २-४ वाय्वन्तरिक्षे, ५-६ दिवादित्यौ, ७-८ दिक्-चन्द्रमसः, ९-१० जातवेदसोऽग्निः। संनतिः। पङ्क्तिः, १,२,५,७ त्रिपदा महाबृहती, २,४,६,८ संस्तारपङ्क्तिः, ९-१० त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.*—daśarcam. sāṁnatyam. nānādevatyam. pān̄ktam: 1, 3, 5, 7. 3-p. mahābṛhatī; 2, 4, 6, 8. saṁstārapan̄kti; 9, 10. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

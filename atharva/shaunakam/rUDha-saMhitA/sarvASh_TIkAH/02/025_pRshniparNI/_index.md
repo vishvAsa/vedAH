@@ -1,7 +1,21 @@
 +++
 title = "25. Against káṇvas: with a plant."
+title_whitney = "25. Against káṇvas: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पृश्निपर्णी।  
+१-५ चातनः। पृश्निपर्णी वनस्पतिः। अनुष्टुप्, ४ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—vānaspatyam. ānuṣṭubham: 4. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "13. To the waters."
+title_whitney = "13. To the waters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आपः।  
+१-७ भृगुः। वरुणः, सिन्धुः, आपः, २-३ इन्द्रः। अनुष्टुप्, १ निचृत्, ५ विराड् जगती, ६ निचृदगनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—saptarcam. vāruṇam uta sindhudāivatam. ānuṣṭubham: 1. nicṛt; 5. virāḍjagatī; 6. nicṛt triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

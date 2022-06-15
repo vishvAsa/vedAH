@@ -1,7 +1,21 @@
 +++
 title = "33. For expulsion of yákṣma from all parts of the body."
+title_whitney = "33. For expulsion of yákṣma from all parts of the body."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मविबर्हणम्।  
+१-७ ब्रह्मा। यक्ष्मविबर्हणं, चन्द्रमाः, आयुष्यम्। अनुष्टुप्, ३ ककुम्मती, ४ चतुष्पदा भुरिगुष्णिक्, ५ उपरिष्टाद्विराड्बृहती, ६ उष्णिग्गर्भा निचृदनुष्टुप्, ७ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—saptarcam. yakṣmavibarhaṇam; cāndramasam; āyuṣyam. ānuṣṭubham. 3. kakummatī; 4. 4-p. bhurig uṣṇih; 5. upariṣṭādvirāḍbṛhatī; 6. uṣṇiggarbhā nicṛdanuṣṭubh; 7. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

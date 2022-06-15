@@ -1,7 +1,21 @@
 +++
 title = "27 (28). Prayer and praise to Iḍā."
+title_whitney = "27 (28). Prayer and praise to Iḍā."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इडा।  
+१ मेधातिथिः। इडा। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Medhātithi (?).—mantrokteḍādāivatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

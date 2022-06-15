@@ -1,7 +1,21 @@
 +++
 title = "28. Against sorcerers and witches."
+title_whitney = "28. Against sorcerers and witches."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रक्षोघ्नम्।  
+१-४ चातनः। १-२ अग्निः, ३-४ यातुधानीः। अनुष्टुप्, ३ विराट् पथ्याबृहती, ४ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—svastyayanam . ānuṣṭubham: 3. virāṭpathyābṛhatī; 4. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

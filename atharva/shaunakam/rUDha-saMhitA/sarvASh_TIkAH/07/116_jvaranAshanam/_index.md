@@ -1,7 +1,21 @@
 +++
 title = "116 (121). Against intermittent fever."
+title_whitney = "116 (121). Against intermittent fever."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ज्वरनाशनम्।  
+१-२ अथर्वाङ्गिराः। चन्द्रमाः। १ पुरोष्णिक्, २ एकावसाना द्विपदा आर्च्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—dvyṛcam. cāndramasam. 1. puroṣṇiḥ; 2. 1-av. 2-p. ārcy anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

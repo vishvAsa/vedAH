@@ -1,7 +1,21 @@
 +++
 title = "71 (74). To Agni: for protection."
+title_whitney = "71 (74). To Agni: for protection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अग्निः।  
+१ अथर्वा। अग्निः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āgneyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

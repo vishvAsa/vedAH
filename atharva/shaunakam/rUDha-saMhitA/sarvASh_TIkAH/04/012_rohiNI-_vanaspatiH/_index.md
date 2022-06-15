@@ -1,7 +1,21 @@
 +++
 title = "12. To heal serious wounds: with an herb."
+title_whitney = "12. To heal serious wounds: with an herb."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रोहिणी- वनस्पतिः।  
+१-७ ऋभुः। रोहिणी- वनस्पतिः। अनुष्टुप्, १ त्रिपदा गायत्री, ६ त्रिपदा यवमध्या भुरिग्गायत्री, ७ बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Ṛbhu.—vānaspatyatn. ānuṣṭubham: 1. 3-p. gāyatrī; 6. 3-p. yavamadhyā bhuriggāyatrī; 7. bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

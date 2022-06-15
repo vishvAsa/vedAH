@@ -1,7 +1,21 @@
 +++
 title = "11. For relief from disease, and for long life."
+title_whitney = "11. For relief from disease, and for long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः प्राप्तिः।  
+१-८ ब्रह्मा, भृग्वङ्गिराश्च। इन्द्राग्नी, आयुष्यं, यक्ष्मनाशनम्। त्रिष्टुप्, ४ शक्करीगर्भा जगती, ५-६ अनुष्टुप्, ७ उष्णिग्बृहतीगर्भा पथ्यापङ्क्तिः, ८ त्र्यवसाना षट् पदा बृहतीगर्भा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman and Bhṛgvan̄giras.—aṣṭarcam. āindrāgnāyuṣyam, yakṣmanāśanadevatyam. trāiṣṭubham: 4. śakvarīgarbhā jagatī; 5, 6. anuṣṭubh; 7. uṣṇigbṛhatīgarbhā pathyāpan̄kti; 8. 3-av. 6-p. bṛhatīgarbhā jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

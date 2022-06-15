@@ -1,7 +1,21 @@
 +++
 title = "124. Against evil influence of a sky-drop."
+title_whitney = "124. Against evil influence of a sky-drop."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+निर्ऋत्यपस्तरणम्।  
+१-३ अथर्वा। दिव्या आपः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (nirṛtyapasaraṇakāmaḥ).—mantroktadevatyam uta divyāpyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

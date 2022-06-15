@@ -1,7 +1,21 @@
 +++
 title = "30 (31). For successful anointing."
+title_whitney = "30 (31). For successful anointing."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अञ्जनम्।  
+१ भृग्वङ्गिराः। द्यावापृथिवी, मित्रः, ब्रह्मणस्पतिः, सविता च । बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̈giras.—dyāvāpṛthivīyam uta pratipādoktadevatākam. bārkatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

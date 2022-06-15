@@ -1,7 +1,21 @@
 +++
 title = "109 (114). ⌊For success with the dice.⌋"
+title_whitney = "109 (114). ⌊For success with the dice.⌋"
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रभृतः।  
+१-७ बादरायणिः। अग्निः। अनुष्टुप्, १ विराट् पुरस्ताद् बृहती, २,३,५-७ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bādarāyaṇi.*—saptarcam. āgneyam uta mantroktadāivatam. ānuṣṭubham: 1. virāṭ purastādbṛhatī; 2, 3, 5, 6. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

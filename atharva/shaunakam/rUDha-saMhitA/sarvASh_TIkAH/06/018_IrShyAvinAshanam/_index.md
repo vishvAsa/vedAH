@@ -1,7 +1,21 @@
 +++
 title = "18. Against jealousy."
+title_whitney = "18. Against jealousy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ईर्ष्याविनाशनम्।  
+१-३ अथर्वा। ईर्ष्याविनाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—īrṣyāvināśanadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "52 (54). For harmony."
+title_whitney = "52 (54). For harmony."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१-२ अथर्वा। सांमनस्यं, अश्विनौ। १ ककुम्मत्यनुष्टुप्, २ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. sāmmanasyam; āśvinam. 1. kakummaty anuṣṭubh; 2. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "17. The Brahman's wife."
+title_whitney = "17. The Brahman's wife."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मजाया।  
+१-१८ मयोभूः। ब्रह्मजाया। अनुष्टुप्, १-६ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mayobhū.—aṣṭādaśakam. brahmajāyādevatyam. ānuṣṭubham: 1-6. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

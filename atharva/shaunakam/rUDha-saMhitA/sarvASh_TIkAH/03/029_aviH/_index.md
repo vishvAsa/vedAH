@@ -1,7 +1,21 @@
 +++
 title = "29. With the offering of a white-footed sheep."
+title_whitney = "29. With the offering of a white-footed sheep."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अविः।  
+१-८ उद्दालकः। शितिपाद् अविः, ७ कामः, ८ भूमिः। अनुष्टुप्, १, ३ पथ्यापङ्क्तिः, ७ त्र्यवसाना षट्पदा उपरिष्टा द्दैवी बृहती ककुम्मतीगर्भा विराड् जगती, ८ उपरिष्टाद् बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uddālaka.—aṣṭarcam. śitipādā’ videvatyam: 7. kāmadevatyā; 8. bhāumī. ānuṣṭubham: 1, 3. pathyāpan̄kti; 7. 3-av. 6-p. upariṣṭāddāivībṛhatī kaiummatīgarbhā virāḍjagatī; 8. upariṣṭādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

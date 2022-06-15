@@ -1,7 +1,21 @@
 +++
 title = "26. For long life etc.: with something golden."
+title_whitney = "26. For long life etc.: with something golden."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+हिरण्यधारणम्।  
+१-४ अथर्वा। अग्निः, हिरण्यं च। त्रिष्टुप्, ३ अनुष्टुप्, ४ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. āgneyam; hāiraṇyam. trāiṣṭubham: 3. anuṣṭubh; 4. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "72. For the favor of the gods."
+title_whitney = "72. For the favor of the gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+परमात्मा।  
+१ भृग्वङ्गिराः ब्रह्मा। परमात्मा देवाश्च। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛvan̄giras Brahman.—ekarcam. paramātmadāivatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

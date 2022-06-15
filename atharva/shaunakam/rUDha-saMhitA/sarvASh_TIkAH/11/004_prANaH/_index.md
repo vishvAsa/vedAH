@@ -1,7 +1,21 @@
 +++
 title = "4. Extolling the breath (prāṇá)."
+title_whitney = "4. Extolling the breath (prāṇá)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+प्राणः।  
+१-२६ भार्गवो वैदर्भिः। प्राणः। अनुष्टुप्, १ शङ्कुमती, ८ पथ्यापङ्क्तिः, १४ निचृत्, १५ भुरिक्, २० अनुष्टुगर्भा त्रिष्टुप्, २१ मध्येज्योतिर्जगती, २२ त्रिष्टुप्, २६ बृहतीगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhārgava Vāidarbhi.—ṣaḍviṅśakam. mantroktaprāṇadevatyam. ānuṣṭubham: 1. śin̄kumatī; 8. pathyāpan̄kti; 14. nicṛt; 15. bhurij; 20. anuṣṭubgarbhātriṣṭubh; 21. madhyejyotir jagatī; 22. triṣṭubh; 26. bṛhatīgarbhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

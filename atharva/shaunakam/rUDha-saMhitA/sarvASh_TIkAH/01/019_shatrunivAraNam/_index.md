@@ -1,7 +1,22 @@
 +++
 title = "19. Against enemies."
+title_whitney = "19. Against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१-४ ब्रह्मा। ईश्वरः, (१ इन्द्रः, २ दैवीः मनुष्येषवः, ३ रुद्रः, ४ देवाः)।  
+अनुष्टुप्, २ पुरस्ताद् बृहती, ३ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—diśvaryam. ānuṣṭubham: 2. purastādbṛhatī; 3. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

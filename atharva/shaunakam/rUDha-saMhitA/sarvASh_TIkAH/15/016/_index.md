@@ -1,7 +1,20 @@
 +++
 title = "16. Paryāya the sixteenth."
+title_whitney = "16. Paryāya the sixteenth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+१-७ अथर्वा। अध्यात्मं, व्रात्यः। १,३ साम्नी उष्णिक्, २,४-५ प्राजापत्या उष्णिक्, ६ याजुषी त्रिष्टुप्, ७ आसुरी गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[saptaka. 1, 3. sāmny uṣṇih; 2, 4, 5. prājāpatyo ’ṣṇih; 6. yājuṣī triṣṭubh; 7. āsurī gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

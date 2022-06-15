@@ -1,7 +1,21 @@
 +++
 title = "75. To eject a rival."
+title_whitney = "75. To eject a rival."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सपत्नक्षयणम्।  
+१-३ कबन्धः। इन्द्रः। अनुष्टुप्, ३ षट्-पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kabandha (sapatnakṣayakāmaḥ).—mantroktadevatyam; āindram. ānuṣṭubham: 3. 6-p. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

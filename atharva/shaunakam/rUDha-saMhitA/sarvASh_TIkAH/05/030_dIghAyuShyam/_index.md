@@ -1,7 +1,21 @@
 +++
 title = "30. To lengthen out some one's life."
+title_whitney = "30. To lengthen out some one's life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीघायुष्यम्।  
+१-१७ उन्मोचनः (आयुष्कामः)। आयुष्यम्। अनुष्टुप्, १ पथ्यापङ्क्तिः, ९ भुरिक्, १२ चतुष्पदा विराड्-जगती, १४ विराट-प्रस्तारपङ्क्तिः। १७ त्र्यवसाना षट्-पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Unmocana (āyuṣyakāmaḥ).—saptadaśakam. ānuṣṭubham: 1. pathyāpan̄kti; 9. bhurij; 12. 4-p.virāḍ jagatī; 14. virāṭ prastārapan̄kti; 17. 3-av. 6-p. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

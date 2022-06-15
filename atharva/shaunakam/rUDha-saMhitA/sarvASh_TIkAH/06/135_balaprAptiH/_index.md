@@ -1,7 +1,21 @@
 +++
 title = "135. To crush an enemy."
+title_whitney = "135. To crush an enemy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+बलप्राप्तिः।  
+१-३ शुक्रः। वज्रः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—mantroktavajradevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

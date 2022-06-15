@@ -1,7 +1,21 @@
 +++
 title = "86. For supremacy."
+title_whitney = "86. For supremacy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वृषकामना।  
+१-३ अथर्वा। एकवृषः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (vṛṣakāmaḥ).—ekavṛṣadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

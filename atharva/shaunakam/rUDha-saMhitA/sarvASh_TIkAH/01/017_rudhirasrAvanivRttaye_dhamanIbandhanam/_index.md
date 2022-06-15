@@ -1,7 +1,21 @@
 +++
 title = "17. To stop the vessels of the body."
+title_whitney = "17. To stop the vessels of the body."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रुधिरस्रावनिवृत्तये धमनीबन्धनम्।  
+१-४ ब्रह्मा। योषितः धमन्यश्च। अनुष्टुप्, १ भुरिगनुष्टुप्, ४ त्रिपदार्षी गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—yoṣiddevatyam. ānuṣṭubham: 1. bhurij; 4. 3-p. ārṣī gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

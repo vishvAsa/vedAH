@@ -1,7 +1,21 @@
 +++
 title = "7. To the lunar asterisms: for blessings."
+title_whitney = "7. To the lunar asterisms: for blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+नक्षत्राणि।  
+१-५ गार्ग्यः। नक्षत्राणि। त्रिष्टुप्, ४ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Gārgya.—pañca. mantroktanakṣatradevatyam. trāiṣṭubham: 4. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

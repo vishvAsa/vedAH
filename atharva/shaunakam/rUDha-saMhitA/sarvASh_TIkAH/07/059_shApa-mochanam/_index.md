@@ -1,7 +1,21 @@
 +++
 title = "59 (61). Against cursers."
+title_whitney = "59 (61). Against cursers."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शाप-मोचनम्।  
+१ बादरायणिः। अरिनाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bādarāyaṇi.—arināśanamantroktadevatākam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "8. To Agni and other gods: for the discovery of sorcerers."
+title_whitney = "8. To Agni and other gods: for the discovery of sorcerers."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यातुधाननाशनम्।  
+१-४ चातनः। १-२ बृहस्पतिः, अग्नीषोमौ च, ३-४ अग्निः (जातवेदाः)। १-३ अनुष्टुप्, ४ बार्हतगर्भा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—ānuṣṭubham: 4. bārhatagarbhā triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "86 (91). Invocation of Indra."
+title_whitney = "86 (91). Invocation of Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+त्राता इन्द्रः।  
+१ अथर्वा (स्वस्त्ययनकामः)। इन्द्रः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—āindram, trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

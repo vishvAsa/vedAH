@@ -1,7 +1,21 @@
 +++
 title = "98 (103). With an oblation to India."
+title_whitney = "98 (103). With an oblation to India."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+हविः।  
+१ अथर्वा। इन्द्रः, विश्वे देवाः। विराट् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. virāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

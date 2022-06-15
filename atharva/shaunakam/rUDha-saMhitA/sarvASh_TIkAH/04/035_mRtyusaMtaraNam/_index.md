@@ -1,7 +1,21 @@
 +++
 title = "35. Extolling a rice-mess offering."
+title_whitney = "35. Extolling a rice-mess offering."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मृत्युसंतरणम्।  
+१-७ प्रजापतिः। अतिमृत्युः। त्रिष्टुप्, ३ भुरिग्जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Prajāpati.—ātimartyam.* trāiṣṭubham: 3. bhurij; 4. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

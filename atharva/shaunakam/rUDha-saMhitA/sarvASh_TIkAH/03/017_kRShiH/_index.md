@@ -1,7 +1,21 @@
 +++
 title = "17. For successful agriculture."
+title_whitney = "17. For successful agriculture."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कृषिः।  
+१-९ विश्वामित्रः। सीता। अनुष्टुप्, १आर्षी गायत्री, २, ५, ९ त्रिष्टुप्, ३ पथ्यापङ्क्तिः, ७ विराट् पुर उष्णिक्, ८ निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Viśvāmitra.—navarcam. sītādevatyam. ānuṣṭubham: 1. ārṣī gāyatrī; 2, 5, 9. triṣṭubh; 3. pathyāpan̄kti; 7. virāṭpurauṣṇih; 8. nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

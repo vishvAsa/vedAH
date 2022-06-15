@@ -1,7 +1,21 @@
 +++
 title = "7 (8). Praise of the Ādityas."
+title_whitney = "7 (8). Praise of the Ādityas."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आदित्याः।  
+१ अथर्वा (ब्रह्मवर्चसकामः) । अदितिः।आर्षी जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (as above).—aditidevatyam. ārṣī jagatī.*]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "28. For long life for a certain person (child?)."
+title_whitney = "28. For long life for a certain person (child?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-५ शम्भुः। १, ३ जरिमा, आयुः, २ मित्रावरुणौ, ३-५ द्यावापृथिव्यादयो देवाः। त्रिष्टुप्, १जगती, ५ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śambhū.—jarimāyurdāivatam. trāiṣṭubham: 1. jagatī; 5. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "12. For success and long life."
+title_whitney = "12. For success and long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शान्तिः।  
+१ वसिष्ठः। उषा। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (śāntikāmaḥ).—ekarcam. sāumyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,22 @@
 +++
 title = "93. For protection: to many gods."
+title_whitney = "93. For protection: to many gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्त्ययनम्।  
+१-३ शन्तातिः। रुद्रः, १ यमो, मृत्युः, शर्वः, २ भवः, शर्वः  
+३ विश्वे देवाः, मरुतः, अग्नीषोमौ, वरुणः, वातपर्जन्यौ। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—rāudram: 3. bahudevatyā. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "108. For wisdom."
+title_whitney = "108. For wisdom."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मेधावर्धनम्।  
+१-५ शौनकः। मेधा, ४ अग्निः। अनुष्टुप्, २ उरोबृहती, ३ पथ्यबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cāunaka.—pañcarcam. medhādevatyam: 4. āgneyī. ānuṣṭubham; 2. urobṛhatī; 3. pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

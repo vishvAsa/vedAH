@@ -1,7 +1,21 @@
 +++
 title = "42. To remove wrath."
+title_whitney = "42. To remove wrath."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+परस्परचित्तैकीकरणम्।  
+१-३ भृग्वङ्गिराः। (परस्परचित्तैकीकरणकामः)। मन्युः। १-२ भुरिक्,३ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras (parasparaṁcittāikīkaraṇaḥ).—manyudevatyam. ānuṣṭubham: 1. 2. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

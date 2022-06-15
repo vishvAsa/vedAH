@@ -1,7 +1,21 @@
 +++
 title = "107. For protection: to various divinities."
+title_whitney = "107. For protection: to various divinities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विश्वजित्।  
+१-४ शन्तातिः। विश्वजित्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—caturṛcam. viśvajiddevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

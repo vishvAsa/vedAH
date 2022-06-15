@@ -1,7 +1,21 @@
 +++
 title = "30. For protection: to all the gods."
+title_whitney = "30. For protection: to all the gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-४ अथर्वा (आयुष्कामः)। विश्वेदेवाः (१ वसवः, आदित्याः, १-४ देवाः)। त्रिष्टुप्, ३ शाक्वरगर्भा विराड् जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (āyuṣkāmaḥ).—vāiśvadevam. trāiṣṭubham: 3. śākvaragarbhā virāḍjagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,22 @@
 +++
 title = "4. Accompanying the gift of a bull."
+title_whitney = "4. Accompanying the gift of a bull."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ऋषभः  
+१-२४ ब्रह्मा। ऋषभः। त्रिष्टुप्, ८ भुरिक्, ६, १०, २४ जगती, ११-१७, १९-२०, २३ अनुष्टुप्,  
+१८ उपरिष्टाद्बृहती, २१ आस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—caturviṅśakam. ārṣabham. trāiṣṭubham: 8. bhurij; 6, 10, 24. jagatī; 11-17, 19, 20, 23. anuṣṭubh; 18. upariṣṭād bṛhatī; 21. āstārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
+title_whitney = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कुष्ठतक्मनाशनम्।  
+१-१० भृग्वङ्गिराः। कुष्ठो, यक्ष्मनाशनम्। अनुष्टप्, ५ भुरिक्, ६ गायत्री, १० उष्णिग्गर्भा निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—daśakam. yakṣmanāśanakuṣṭhadevatyam. ānuṣṭubham: 5. bhurij; 6. gāyatrī; 10. uṣṇiggarbhā nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

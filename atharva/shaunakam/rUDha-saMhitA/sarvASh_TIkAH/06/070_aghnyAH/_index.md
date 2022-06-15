@@ -1,7 +1,21 @@
 +++
 title = "70. To attach a cow to her calf."
+title_whitney = "70. To attach a cow to her calf."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अघ्न्याः।  
+१-३ काङ्कायनः। अघ्न्याः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kān̄kāyana.—āghnyam. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

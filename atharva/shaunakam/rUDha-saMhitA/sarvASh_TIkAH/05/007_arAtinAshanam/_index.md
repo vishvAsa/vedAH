@@ -1,7 +1,21 @@
 +++
 title = "7. Against niggardliness and its effects."
+title_whitney = "7. Against niggardliness and its effects."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अरातिनाशनम्।  
+१-१० अथर्वा। बहुदैवत्यम्, १-३, ६-१० अरातयः, ४-५ सरस्वती। अनुष्टुप्, १ विराड्गर्भा प्रस्तारपङ्क्तिः, ४ पथ्याबृहती, ६ प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—daśakam. bahudevatyam (1-3, 6-10. arātīyās; 4, 5. sārasvatyāu). ānuṣṭubham: 1. virāḍgarbhā prastārapan̄kti; 4. pathyābṛhatī; 6. prastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

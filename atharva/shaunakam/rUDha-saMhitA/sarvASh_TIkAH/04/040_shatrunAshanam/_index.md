@@ -1,7 +1,22 @@
 +++
 title = "40. Against enemies from the different quarters."
+title_whitney = "40. Against enemies from the different quarters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-८ शुक्रः। ब्रह्म, १ अग्निः, २ यमः, ३ वरुणः, ४ सोमः, ५ भूमिः, ६ वायुः, ७ सूर्यः, ९ दिशः।  
+त्रिष्टुप्, २ जगती, ८ पुरोऽतिशक्वरी पादयुग्जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—*kṛtyāpratiharaṇam. bahudevatyam. trāiṣṭubham: 2, 8. jagatī (8. puro’tiśakvarī pādayuj).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

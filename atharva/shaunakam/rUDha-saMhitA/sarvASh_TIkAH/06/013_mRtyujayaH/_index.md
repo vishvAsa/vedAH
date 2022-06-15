@@ -1,7 +1,21 @@
 +++
 title = "13. To the instruments and ministers of death."
+title_whitney = "13. To the instruments and ministers of death."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मृत्युजयः।  
+१-३ अथर्वा। (स्वस्त्ययनकामः)। मृत्युः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāma).—mārtya[va]m. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

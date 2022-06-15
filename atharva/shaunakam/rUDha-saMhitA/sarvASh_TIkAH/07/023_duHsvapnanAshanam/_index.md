@@ -1,7 +1,21 @@
 +++
 title = "23 (24). Against ill conditions and beings."
+title_whitney = "23 (24). Against ill conditions and beings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःस्वप्ननाशनम्।  
+१ यमः। दुःस्वप्ननाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Yama.—mantroktaduṣvpnanāśanadtvatyam: ānuṣtubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

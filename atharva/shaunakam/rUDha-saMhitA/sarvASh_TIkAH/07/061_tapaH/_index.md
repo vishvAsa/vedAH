@@ -1,7 +1,21 @@
 +++
 title = "61 (63). For success of penance."
+title_whitney = "61 (63). For success of penance."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+तपः।  
+१-२ अथर्वा। अग्निः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. āgneyam. ānuṣṭuhham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

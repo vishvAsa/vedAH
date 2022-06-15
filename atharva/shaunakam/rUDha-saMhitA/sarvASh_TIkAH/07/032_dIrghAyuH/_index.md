@@ -1,7 +1,21 @@
 +++
 title = "32 (33). Homage to Soma (?)."
+title_whitney = "32 (33). Homage to Soma (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः।  
+१ ब्रह्मा। आयुः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—āyuṣyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

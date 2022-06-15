@@ -1,7 +1,21 @@
 +++
 title = "71. For various blessings."
+title_whitney = "71. For various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वेदमाता।  
+१ ब्रह्मा। गायत्री। त्र्यवसाना पञ्चपदाऽतिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. gāyatrīdāivalam. 3-av. 5-f. atijagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "32. Against worms."
+title_whitney = "32. Against worms."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्रिमिनाशनम्।  
+१-६ कण्वः। आदित्यः। अनुष्टुप्, १ त्रिपाद्भुरिग्गायत्री, ६ चतुष्पान्निचृदुष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāṇva.—ṣaḍṛcam. ādityadevatyatn. ānuṣṭubham: 1. 3-p. bhurig gāyatrī; 6. 4-p. nicṛd uṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

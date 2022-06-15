@@ -1,7 +1,21 @@
 +++
 title = "46 (48). To Sinīvāli (goddess of the new moon)."
+title_whitney = "46 (48). To Sinīvāli (goddess of the new moon)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सिनीवाली।  
+१-३ अथर्वा। सिनीवाली। अनुष्टुप्। ३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.-—tṛcam. mantroktadevatyam. ānuṣṭubham: 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

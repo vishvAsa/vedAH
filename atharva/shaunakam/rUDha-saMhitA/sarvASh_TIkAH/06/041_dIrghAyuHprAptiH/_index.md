@@ -1,7 +1,21 @@
 +++
 title = "41. To various divinities."
+title_whitney = "41. To various divinities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-३ ब्रह्म।१ चन्द्रमाः, २ सरस्वती, ३ दैव्या ऋषयः। १ भुरिक्, २ अनुष्टुप्, ३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—bahudāivatam uta cāndramasam. ānuṣṭubham: 1. bhurij; 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

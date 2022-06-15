@@ -1,7 +1,21 @@
 +++
 title = "55 (57. 2). To Indra (?)."
+title_whitney = "55 (57. 2). To Indra (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मार्गस्वस्त्ययनम्।  
+१ भृगुः। इन्द्रः। विराट् परोष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—āindram . virāṭ paroṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

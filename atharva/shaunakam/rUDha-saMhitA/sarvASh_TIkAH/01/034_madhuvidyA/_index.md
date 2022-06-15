@@ -1,7 +1,21 @@
 +++
 title = "34. A love-spell: with a sweet herb."
+title_whitney = "34. A love-spell: with a sweet herb."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मधुविद्या।  
+१-५ अथर्वा।मधुवनस्पतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan,—pañcarcam. madughamaṇisūktam. vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

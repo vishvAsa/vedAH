@@ -1,7 +1,21 @@
 +++
 title = "30. To the śamī́ plant: for benefit to the hair."
+title_whitney = "30. To the śamī́ plant: for benefit to the hair."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापशमनम्।  
+१-३ उपरिबभ्रवः। शमी। जगती, २ त्रिष्टुप्, ३ चतुष्पाच्छंकुमत्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uparibabhrava.—śāmyam. jāgatam: 2. triṣṭubh; 3. 4-p. kakummaty anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

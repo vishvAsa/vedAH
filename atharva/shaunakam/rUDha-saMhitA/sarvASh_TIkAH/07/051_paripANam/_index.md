@@ -1,7 +1,21 @@
 +++
 title = "51 (53). For protection by Brihaspati and Indra."
+title_whitney = "51 (53). For protection by Brihaspati and Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+परिपाणम्।  
+१ अङ्गिराः। इन्द्राबृहस्पती। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—bārhaspatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

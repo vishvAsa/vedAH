@@ -1,7 +1,22 @@
 +++
 title = "29. For some one's long life and other blessings."
+title_whitney = "29. For some one's long life and other blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुष्यम्।  
+१-७ अथर्वा। १ अग्निः, सूर्यः, बृहस्पतिः, २ जातवेदाः, सविता, ३ इन्द्रः, ४-५ द्यावापृथिवी, विश्वे देवाः, मरुतः, आपः, ६ अश्विनौ, ७ इन्द्रः।  
+त्रिष्टुप्, १ अनुष्टुप्, ४ पराबृहती निचृत्प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptarcam. bahudevatyam. trāiṣṭubham: 1. anuṣṭubh; 4. parābṛhatī nicṛtprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

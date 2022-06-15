@@ -1,7 +1,21 @@
 +++
 title = "5. Mystic: on the offering or sacrifice."
+title_whitney = "5. Mystic: on the offering or sacrifice."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१-५ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, ३ पङ्क्तिः ४ अनष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (as above).—pañcarcam. ātmadevatākam: trāiṣṭubham: 3. pan̄kti; 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

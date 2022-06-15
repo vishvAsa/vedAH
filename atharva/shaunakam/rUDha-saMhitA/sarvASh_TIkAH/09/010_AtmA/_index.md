@@ -1,7 +1,22 @@
 +++
 title = "10. Mystic."
+title_whitney = "10. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१-२८ ब्रह्मा। गौः, विराट् अध्यात्मम्, २३ मित्रावरुणौ। त्रिष्टुप्, १,७,१४,१७-१८ जगती,  
+२१ पञ्चपदातिशक्वरी, २४ चतुष्पदा पुरस्कृतिर्भुरिगतिजगती, २, २६-२७ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭāviṅśakam . govirāḍadhyātmadāivatyam (23. māitrāvaruṇī). trāiṣṭubham: 1, 7, 14, 17, 18. jagatī; 21. 5-p. atiśakvarī; 24. 4-p. puraskṛtir bhurig atijagatī; 2, 26, 27. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

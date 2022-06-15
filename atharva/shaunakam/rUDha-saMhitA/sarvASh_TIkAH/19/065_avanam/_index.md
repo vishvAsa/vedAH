@@ -1,7 +1,21 @@
 +++
 title = "65. Praise of the sun."
+title_whitney = "65. Praise of the sun."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अवनम्।  
+१ ब्रह्मा। जातवेदाः, सूर्यश्च। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. jātavedasam; sāuryam. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

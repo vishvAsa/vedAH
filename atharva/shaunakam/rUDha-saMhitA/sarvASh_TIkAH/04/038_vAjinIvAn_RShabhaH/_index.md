@@ -1,7 +1,21 @@
 +++
 title = "38. For luck in gambling: by aid of an Apsaras."
+title_whitney = "38. For luck in gambling: by aid of an Apsaras."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाजिनीवान् ऋषभः।  
+१-७ बादरायणिः। १-४ अप्सरसः, ५-७ ऋषभः। अनुष्टुप्, ३ षट् पदा त्र्यवसाना जगती, ५ भुरिगत्यष्टिः,…. त्रिष्टुप्,७ त्र्यवसाना पञ्चपदानुष्टुब्गर्भा पुरउपरिष्टाज्ज्योतिष्मती जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bādarāyaṇi.—dvidevatyam. ānuṣṭubham: 3. 6-p. 3-av. jagatī; 5. bhurigatyaṣṭi; 6. triṣṭubh; 7. 3-av. 5-p. anuṣṭubgarbhā puraupariṣṭājjyotiṣmatī jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

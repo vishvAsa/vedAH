@@ -1,7 +1,21 @@
 +++
 title = "26. Praise and prayer to heaven and earth."
+title_whitney = "26. Praise and prayer to heaven and earth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाप-मोचनम्।  
+१-७ मृगारः। द्यावापृथिवी। त्रिष्टुप्, १ अष्टिः, २-३ जगती, ७ शाक्वरगर्भातिमध्येज्योतिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23). 1. puro ’ṣṭir jagatī; 7. śākvaragarbhātimadhyejyotis.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

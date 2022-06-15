@@ -1,7 +1,21 @@
 +++
 title = "127. Against various diseases: with a wooden amulet."
+title_whitney = "127. Against various diseases: with a wooden amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्, वनस्पतिः। अनुष्टुप्, ३ त्र्यवसाना षट्-पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vānaspatyam uta yakṣmanāśanadevatyam. ānuṣṭubham: 3. 3-a. 6-p. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

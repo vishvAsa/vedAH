@@ -1,7 +1,21 @@
 +++
 title = "91. For remedy from disease."
+title_whitney = "91. For remedy from disease."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्, ३ आपः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—mantroktayakṣmanāśanadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

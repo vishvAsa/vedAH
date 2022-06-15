@@ -1,7 +1,21 @@
 +++
 title = "21. To healing plants."
+title_whitney = "21. To healing plants."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+केशवर्धनी औषधिः।  
+१-३ शन्तातिः। चन्द्रमाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—cāndramasam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

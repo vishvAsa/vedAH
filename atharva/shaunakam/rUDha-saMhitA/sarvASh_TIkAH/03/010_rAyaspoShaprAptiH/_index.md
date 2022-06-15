@@ -1,7 +1,22 @@
 +++
 title = "10. To the ekāṣṭakā́ (day of moon's last quarter)."
+title_whitney = "10. To the ekāṣṭakā́ (day of moon's last quarter)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रायस्पोषप्राप्तिः।  
+१-१३ अथर्वा। अष्टका, धेनुः, २-४ रात्रिः, धेनुः, ५ एकाष्टका, ६ जातवेदाः, पशवः, ७ रात्रिः, यज्ञ ८ संवत्सरः, ९ ऋतवः, १० धाता विधातारौ, ऋतवः, ११ देवाः, १२ इन्द्रः, देवाः, १३ प्रजापतिः।  
+अनुष्टुप्, ४-६,१२ त्रिष्टुप् ७ त्र्यवसाना षट्पदा विराड् गर्भातिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—trayodaśarcam. āṣṭakyam. ānuṣṭubham: 4, 5, 6, 12. triṣṭubh; 7. 3-av. 6-p. virāḍgarbhātijagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

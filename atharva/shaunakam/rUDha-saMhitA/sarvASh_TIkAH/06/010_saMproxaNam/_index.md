@@ -1,7 +1,21 @@
 +++
 title = "10. Greeting to divinities etc. of the three spheres."
+title_whitney = "10. Greeting to divinities etc. of the three spheres."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+संप्रोक्षणम्।  
+१-३ शन्तातिः। १ पृथिवि, श्रोत्रं, वनस्पतिः, अग्निः, २ प्राणः, अन्तरिक्षं, वयः, वायुः, ३ द्यौः, चक्षुः, नक्षत्राणि, सूर्यः। द्वैपदम्, १ साम्नी त्रिष्टुप्, २ प्राजापत्या बृहती, ३ साम्नी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—nānādevatyam: 1. āgneyī, 2. vāyavyā, 3. sāuryā. 1. sāmnī triṣṭubh, 2. prājāpatyā bṛhatī, 3. sāmnī bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

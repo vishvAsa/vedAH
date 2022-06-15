@@ -1,7 +1,21 @@
 +++
 title = "110 (115). To Indra and Agni: for help."
+title_whitney = "110 (115). To Indra and Agni: for help."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ भृगुः। इन्द्राग्नी। १ गायत्री, २ त्रिष्टुप्, ३ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—tṛcam. āindrāgam. 1. gāyatrī; 2. triṣṭubh; 3. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "13. Deterrent homage to lightning."
+title_whitney = "13. Deterrent homage to lightning."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विद्युत्।  
+१-४ भृग्वङ्गिराः। विद्युत्। अनुष्टुप्, ३ चतुष्पाद्विराड् जगती, ४ त्रिष्टुप्परा बृहतीगर्भा पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vāidyutam. ānuṣṭubham: 3. 4-p. virāḍ jagatī; 4. triṣṭupparā bṛhatīgarbhā pan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

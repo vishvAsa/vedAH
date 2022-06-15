@@ -1,7 +1,21 @@
 +++
 title = "62. To Vāiśvānara etc.: for purification."
+title_whitney = "62. To Vāiśvānara etc.: for purification."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पावमानम्।  
+१-३ अथर्वा। रुद्रः, वैश्वानरः, वातः, द्यावापृथिवि। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—rāudram uta mantroktadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

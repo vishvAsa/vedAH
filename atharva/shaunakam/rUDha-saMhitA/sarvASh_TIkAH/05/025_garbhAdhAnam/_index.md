@@ -1,7 +1,21 @@
 +++
 title = "25. For successful conception."
+title_whitney = "25. For successful conception."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गर्भाधानम्।  
+१-१३ ब्रह्म। योनिगर्भः, पृथिव्यादयो देवताः। अनुष्टुप्, १३ विराट्-पुरस्ताद्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—trayodaśakam. yonigarbhadevatyam. ānuṣṭubham: 13. virāṭpurastādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

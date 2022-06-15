@@ -1,7 +1,21 @@
 +++
 title = "71. Against harm from improper food."
+title_whitney = "71. Against harm from improper food."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अन्नम्।  
+१-३ ब्रह्मा। अग्निः, ३ वैश्वानरः, देवाः। जगती, ३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—āgneyam: 3. vāiśvadevī. jāgatyam: 3. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

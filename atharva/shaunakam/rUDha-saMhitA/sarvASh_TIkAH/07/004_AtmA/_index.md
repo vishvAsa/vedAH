@@ -1,7 +1,21 @@
 +++
 title = "4. To the wind-god with his steeds."
+title_whitney = "4. To the wind-god with his steeds."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१ अथर्वा (ब्रह्मवर्चसकामः) । वायुः। त्रिष्टुप्,
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (as above).—vāyavyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "116. For relief from guilt."
+title_whitney = "116. For relief from guilt."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मधुमदन्नम्।  
+१-३ जाटिकायनः। विवस्वान्। जगती, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Jāṭikāyana.—vāivasvatadtvatyam. jāgatam: 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "1. Mystic."
+title_whitney = "1. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+परमं धाम  
+१-५ वेनः। ब्रह्म, आत्मा। त्रिष्टुप्, ३ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vena.—brahmātmadāivatam. trāiṣṭubham: 3. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

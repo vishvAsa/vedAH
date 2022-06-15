@@ -1,7 +1,21 @@
 +++
 title = "92. For success of a horse."
+title_whitney = "92. For success of a horse."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाजी।  
+१-३ अथर्वा। इन्द्रः, वाजी। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vājinam. trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

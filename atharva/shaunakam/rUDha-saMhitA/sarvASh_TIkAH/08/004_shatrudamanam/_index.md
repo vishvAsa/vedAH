@@ -1,7 +1,21 @@
 +++
 title = "4. Against sorcerers and demons: to Indra and Soma."
+title_whitney = "4. Against sorcerers and demons: to Indra and Soma."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुदमनम्।  
+१-२५ चातनः। इन्द्रसोमौ। जगती, ८-१४, १६-१७, १९, २२, २४ त्रिष्टुप्, २०,२३ भुरिक्, २५ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—pañcaviṅśakam. mantroktadevatyam. jāgatam: 8-14, 16, 17, 19, 22, 24. triṣṭubh; 20, 23. bhurij; 25. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

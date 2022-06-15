@@ -1,7 +1,21 @@
 +++
 title = "70. For long life."
+title_whitney = "70. For long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पूर्णायुः।  
+१ ब्रह्मा। इन्द्रसूर्यादयः। त्रिपदा गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. sāuryam. 3-p. gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

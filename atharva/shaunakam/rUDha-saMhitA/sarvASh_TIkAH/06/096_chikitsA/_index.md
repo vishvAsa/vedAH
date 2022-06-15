@@ -1,7 +1,21 @@
 +++
 title = "96. For relief from sin and distress."
+title_whitney = "96. For relief from sin and distress."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+चिकित्सा।  
+१-३ भृग्वङ्गिराः। वनस्पतिः, ३ सोमः। अनुष्टुप्, ३ त्रिपाद्विराण्नाम गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vānaspatyam: 3. sāumyā. ānuṣṭubham: 3. 3-p. virāṇ nāma gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

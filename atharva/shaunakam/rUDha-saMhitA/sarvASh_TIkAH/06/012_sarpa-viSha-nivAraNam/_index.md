@@ -1,7 +1,21 @@
 +++
 title = "12. Against the poison of snakes."
+title_whitney = "12. Against the poison of snakes."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्प-विष-निवारणम्।  
+१-३ गरुत्मान्। तक्षकः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Garutman.—takṣakadāivatam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

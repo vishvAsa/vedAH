@@ -1,7 +1,21 @@
 +++
 title = "79. For abundance at home."
+title_whitney = "79. For abundance at home."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ऊर्जःप्राप्तिः।  
+१-३ अथर्वा। संस्फानम्। गायत्री, ३ त्रिपदा प्राजापतया गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saṁsphānadevatyam. gāyatram: 3. 3-p. prājāpatyā jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

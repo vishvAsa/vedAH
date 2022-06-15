@@ -1,7 +1,22 @@
 +++
 title = "16. To various plants (?)."
+title_whitney = "16. To various plants (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अक्षिरोगभैषजम्।  
+१-४ शौनकः। चन्द्रमाः, मन्त्रोक्तदेवताः, अनुष्टुप्, १ निचृत्त्रिपदा गायत्री,  
+३ बृहतीगर्भा ककुम्मत्यनुष्टुप्, ४ त्रिपदा प्रतिष्ठा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śāunaka (anena hinahidevam astāut).—mantroktadevatyam uta cāndramasam. ānuṣṭubham. caturṛcam. 1. nicṛt 3-p. gāyatrī; 3. bṛhatīgarbhā kakummaty anuṣṭubh; 4. 3-p. pratiṣṭhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

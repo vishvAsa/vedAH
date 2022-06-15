@@ -1,7 +1,21 @@
 +++
 title = "26. For protection from the wrath of the gods."
+title_whitney = "26. For protection from the wrath of the gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शर्मप्राप्तिः।  
+१-४ ब्रह्मा। १ देवाः, २ इन्द्रः, भगः, सविता, ३-४ मरुतः। गायत्री, २ त्रिपदा एकावसाना साम्नी त्रिष्टुप्, ४ एकावसाना पादनिचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—indrādibahudevatyam, gāyatram: 2. 3-p. sāmnĩ triṣṭubh; 4. pādanicṛt (2, 4. ekāvasāna)].
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "25. To command a woman's love."
+title_whitney = "25. To command a woman's love."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कामस्य इषुः।  
+१-६ भृगुः। मित्रावरुणौ, कामेषुः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu (jāyākāmaḥ).—māitrāvaruṇaṁ kāmeṣudevatākaṁ ca. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "90. For safety from Rudra's arrow."
+title_whitney = "90. For safety from Rudra's arrow."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इषुनिष्कासनम्।  
+१-३ अथर्वा। रुद्रः। अनुष्टुप्, ३ आर्षी भुरिगुष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—rāudram. 1, 2. anuṣṭubh; 3. ārṣi bhurig uṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

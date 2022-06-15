@@ -1,7 +1,21 @@
 +++
 title = "14. With the sacrifice of a goat."
+title_whitney = "14. With the sacrifice of a goat."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वर्ज्योतिः प्राप्तिः।  
+१-९ भृगुः। आज्यं, अग्निः। त्रिष्टुप्, २, ४ अनुष्टुप्, ३ प्रस्तारपङ्क्तिः, ७, ९ जगति, ८ पञ्चपदातिशक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—navarcam. ājyam, āgneyam. trāiṣṭubham: 2, 4. anuṣṭubh; 3. prastārapan̄kti; 7, 9. jagatī; 8. 5-p. atiśakvarī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "44 (45). Extolling Indra and Vishṇu."
+title_whitney = "44 (45). Extolling Indra and Vishṇu."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इन्द्राविष्णुः।  
+१ प्रस्कण्वः। इन्द्रः, विष्णुः। भुरिक् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praskaṇva.—mantroktadevatyam. bhurik triṣṭubhh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

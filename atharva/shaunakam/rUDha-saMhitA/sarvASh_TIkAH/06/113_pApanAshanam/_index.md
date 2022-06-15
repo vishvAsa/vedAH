@@ -1,7 +1,21 @@
 +++
 title = "113. For release from seizure (grā́hi)."
+title_whitney = "113. For release from seizure (grā́hi)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापनाशनम्।  
+१-३ अथर्वा। पूषा। त्रिष्टुप्, ३ पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—pāuṣṇam. trāiṣṭubham: 3. pan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

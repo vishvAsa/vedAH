@@ -1,7 +1,21 @@
 +++
 title = "19. For ceremonial purification."
+title_whitney = "19. For ceremonial purification."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पावमानम्।  
+१-३ शन्तातिः। चन्द्रमाः, १ देवजनाः, मनवः विश्वा भूतानि, पवमानः, २ पवमानः, ३ सविता। गायत्री, १ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śamtāti.—nānādevatyam uta cāndramasam. gāyatram: 1. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

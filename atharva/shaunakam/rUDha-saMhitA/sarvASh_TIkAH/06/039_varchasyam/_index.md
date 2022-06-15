@@ -1,7 +1,22 @@
 +++
 title = "39. For glory."
+title_whitney = "39. For glory."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चस्यम्।  
+१-३ अथर्वा (वर्चस्कामः)। (बृहस्पतिः), २ इन्द्रः, ३ इन्द्रः, अग्निः, सोमः,।  
+१ जगती, २ त्रिष्टुप्, ३ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (varcashāmaḥ).—bṛhaspatidevatyam. 1. jagatī; 2. triṣṭubh; 3. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

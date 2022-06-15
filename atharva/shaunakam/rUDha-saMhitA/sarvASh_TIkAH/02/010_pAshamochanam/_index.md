@@ -1,7 +1,21 @@
 +++
 title = "10. For release from evils, and for welfare."
+title_whitney = "10. For release from evils, and for welfare."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाशमोचनम्।  
+१-८ भृग्वङ्गिराः। १-८ द्यावापृथिवी, ब्रह्म, २ अग्निः, आपः, ओषधयः, सोमः, ३ वातः, दिशः,४-८वातपत्नीः, सूर्यः, यक्ष्मं, निर्ऋतिः। १ त्रिष्टुप्, २ सप्तपदाष्टिः, ३-५, ७-८ सप्तपदा धृतिः, ६ सप्तपदात्यष्टिः, ८ (२, ३) द्वौ पादौ उष्णिहौ।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—aṣṭarcam. nirṛtidyāvāpṛthivyādinānādevatyam. 1. triṣṭubh; 2. 7-p. aṣṭi; 3-5, 7, 8. 7-p. dhṛti; 6. 7-p. atyṣṭti (eva ’haṁ tvām iti dvāv āuṣṇihāu pādāu).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "103 (108). For betterment."
+title_whitney = "103 (108). For betterment."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्षत्रियः।  
+१ ब्रह्म। आत्मा। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ātmadāivatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

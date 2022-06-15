@@ -1,7 +1,21 @@
 +++
 title = "69. To the waters: for long life."
+title_whitney = "69. To the waters: for long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आपः।  
+१-४ ब्रह्मा। आपः। १ आसुर्यनुष्टुप्, २ साम्न्यनुष्टुप्, ३ आसुरी गायत्री, ४ साम्न्युष्णिक् ( १-४ एकावसाना)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—catasraḥ. mantroktādevatyāḥ. 1. āsury anuṣṭubh; 2. sāmny anuṣṭubh; 3. āsurī gāyatrī; 4. sāmny uṣṇih (1-4. 1-av.).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

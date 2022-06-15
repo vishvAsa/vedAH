@@ -1,7 +1,21 @@
 +++
 title = "24 (25). To various gods."
+title_whitney = "24 (25). To various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सविता।  
+१ ब्रह्मा। इन्द्रः, अग्निः, विश्वे देवाः, मरुतः, सविता, प्रजापतिः अनुमतिः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—sāvitram: trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "38. With gúggulu: against disease."
+title_whitney = "38. With gúggulu: against disease."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्षमनाशनम्।  
+१-३ अथर्वा। गुल्गुलुः। १ अनुष्टुप्, २ चतुष्पदा उष्णिक्, ३ एकावसाना प्राजापत्याऽनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—tṛcam. mantroktagulguludevatākam. ānuṣṭubham. 2 a-d. 4-p. uṣṇih; 2 e-f. 1-av. prājāpatyā ’nuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

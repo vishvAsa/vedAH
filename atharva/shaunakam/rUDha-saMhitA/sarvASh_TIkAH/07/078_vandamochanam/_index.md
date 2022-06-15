@@ -1,7 +1,21 @@
 +++
 title = "78 (83). To Agni: in favor of some one."
+title_whitney = "78 (83). To Agni: in favor of some one."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वन्दमोचनम्।  
+१-२ अथर्वा। अग्निः। १ परोष्णिक्, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. āgneyam. 1. paroṣṇih; 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

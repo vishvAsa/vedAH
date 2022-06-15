@@ -1,7 +1,21 @@
 +++
 title = "29. To Agni: against demons."
+title_whitney = "29. To Agni: against demons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रक्षोघ्नम्।  
+१-१५ चातनः। जातवेदाः, मन्त्रोक्ताः। त्रिष्टुप्, ३ त्रिपदा विराण्नाम गायत्री, ५ पुरोऽतिजगती विराड्-जगती,१२-१५ अनुष्टुप् ( १२ भुरिक्, १४ चतुष्पदा पराबृहती ककुम्मती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—pañcadaśarcam. jātavedasam uta mantroktadevatākam. trāiṣṭubham: 3. 3-p. virāṇnāma gāyatrī; 5. purotijagatī virāḍjagatī; 12-15. anuṣṭubh (12. bhurij; 14. 4-p. parābṛhatī kakummatī).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

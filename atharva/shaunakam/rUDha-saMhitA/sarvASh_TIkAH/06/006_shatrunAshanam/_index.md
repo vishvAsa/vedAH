@@ -1,7 +1,21 @@
 +++
 title = "6. Against enemies."
+title_whitney = "6. Against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ अथर्वा। १ ब्रह्मणस्पतिः, २-३ सोमः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—brāhmaṇaspatyam; sāumyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

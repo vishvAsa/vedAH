@@ -1,7 +1,21 @@
 +++
 title = "130. To win a man's love."
+title_whitney = "130. To win a man's love."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्मरः।  
+१-४ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्, १ विराट् पुरस्ताद्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—caturṛcam. smaradevatāham. ānuṣṭubham: 1. virāṭpurastādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "54. To secure and increase some one's superiority."
+title_whitney = "54. To secure and increase some one's superiority."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अमित्रदम्भनम्।  
+१-३ ब्रह्मा। अग्नीषोमौ। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—āgnīṣomīyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

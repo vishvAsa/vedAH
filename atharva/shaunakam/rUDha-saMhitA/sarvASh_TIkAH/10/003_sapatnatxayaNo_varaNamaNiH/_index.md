@@ -1,7 +1,22 @@
 +++
 title = "3. With an amulet of varaṇá."
+title_whitney = "3. With an amulet of varaṇá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सपत्नत्क्षयणो वरणमणिः।  
+१-२५ अथर्वा। वरणमणिः, वनस्पतिः चन्द्रमाः। अनुष्टुप्, २-३, ६ भुरिक् त्रिष्टुप्,  
+८, १३-१४ पथ्यापङ्क्तिः, ११, १६ भुरिक्, १५, १७-२५ षट्-पदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—pañcaviṅśakam . mantroktavaraṇadevatyam uta vānaspatyaṁ; cāndramasam, ānuṣṭubham: 2, 3, 6. bhurik triṣṭubh; 8, 13, 14. pathyāpan̄kti; 11, 16. bhurij; 15, 17-25. 6-p. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

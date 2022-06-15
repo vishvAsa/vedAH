@@ -1,7 +1,21 @@
 +++
 title = "8. Mystic: especially on the constitution of man."
+title_whitney = "8. Mystic: especially on the constitution of man."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अध्यात्मम्।  
+१-३४ कौरुपथिः। अध्यात्मं, मन्युः। अनुष्टुप्, ३३ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāurupathi.—catustriṅśat. adhyātmamanyudāivatam. ānuṣṭubham: 33. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

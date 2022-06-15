@@ -1,7 +1,21 @@
 +++
 title = "101 (106). As to food enjoyed in a dream."
+title_whitney = "101 (106). As to food enjoyed in a dream."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःष्वप्ननाशनम्।  
+१ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

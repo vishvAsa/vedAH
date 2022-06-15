@@ -1,7 +1,21 @@
 +++
 title = "7. Extolling the remnant (úcchiṣṭa) of the offering."
+title_whitney = "7. Extolling the remnant (úcchiṣṭa) of the offering."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+उच्छिष्ट ब्रह्म-सूक्तम्।  
+१-२७ अथर्वा। अध्यात्मं, उच्छिष्टः। अनुष्टप्, ६ पुर उष्णिग्बार्हतपरा, २१ स्वराट्, २२ विराट् पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptaviṅśati, mantroktochiṣṭādhyātmadāivatam. ānuṣṭubham*: 6. puroṣṇigbārhataparā; 21. svarāj; 22. virāṭ pathyābṛhatī.] *⌊The Anukr. omits the definition of vs. 11 as pathyāpan̄kti.⌋
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

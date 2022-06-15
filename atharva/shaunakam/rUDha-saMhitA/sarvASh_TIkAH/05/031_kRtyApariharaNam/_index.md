@@ -1,7 +1,21 @@
 +++
 title = "31. Against witchcraft."
+title_whitney = "31. Against witchcraft."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कृत्यापरिहरणम्।  
+१-१२ शक्रः। कृत्यादूषणम्। अनुष्टुप्, ११ बृहतीगर्भा अनुष्टुप्, १२ पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—dvādaśarcam. kṛtyādūṣaṇadevatyam. ānuṣṭubham: 11. bṛhatīgarbhā; 12. pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

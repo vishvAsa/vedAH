@@ -1,7 +1,21 @@
 +++
 title = "140. With the first two upper teeth of a child."
+title_whitney = "140. With the first two upper teeth of a child."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुमङ्गलौ दन्तौ।  
+१-३ अथर्वा। ब्रह्मणस्पतिः, दन्ताः। (अनुष्टुप् १) १ उरोबृहती, २ उपरिष्टाज्ज्योतिष्मती त्रिषटुप्, ३ आस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—brāhmaṇaspatyam uta mantroktadantadevatyam. ānuṣṭubham: 1. urobṛhatī; 2. upariṣṭājjyotiṣmatī triṣṭubh; 3. āstārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

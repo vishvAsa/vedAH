@@ -1,7 +1,21 @@
 +++
 title = "18 (19). For rain, etc."
+title_whitney = "18 (19). For rain, etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दवृष्टिः।  
+१-२ अथर्वा। पृथिवि, पर्जन्यः। १ चतुष्पदा भुरिगुष्णिक्, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—dvyṛcam. pārjanyam uta pārthivam. 1. 4-p. bhurig uṣṇih; 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

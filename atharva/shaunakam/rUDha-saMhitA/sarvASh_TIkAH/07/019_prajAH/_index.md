@@ -1,7 +1,21 @@
 +++
 title = "19 (20). For progeny, etc."
+title_whitney = "19 (20). For progeny, etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+प्रजाः।  
+१ ब्रह्मा। प्रजापतिः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—mantroktadevatyatn. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

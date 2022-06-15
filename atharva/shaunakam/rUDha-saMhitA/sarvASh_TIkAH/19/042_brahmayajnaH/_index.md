@@ -1,7 +1,21 @@
 +++
 title = "42. Extolling the bráhman etc."
+title_whitney = "42. Extolling the bráhman etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मयज्ञः।  
+१-४ ब्रह्मा। ब्रह्म। १ अनुष्टुप्, २ त्र्यवसाना ककुम्मती पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—catasras. mantroktabrahmadevatyam. 1. anuṣṭubh; 2. 3-av. kakummatī pathyāpan̄kti; 3. triṣṭubh; 4. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

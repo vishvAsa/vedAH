@@ -1,7 +1,21 @@
 +++
 title = "8. Against the disease kṣetriyá: with a plant."
+title_whitney = "8. Against the disease kṣetriyá: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्षेत्रियरोगनाशनम्।  
+१-५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्म नाशनम्। अनुष्टुप्, ३ पथ्यापङ्क्तिः, ४ विराट्, ५ निचृत्पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vānaspatyam; yakṣmanāśanadāivatam. ānuṣṭubham: 3. pathyāpan̄kti; 4.. virāj; 5. nicṛtpathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

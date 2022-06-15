@@ -1,7 +1,21 @@
 +++
 title = "33. Praise to Indra."
+title_whitney = "33. Praise to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इन्द्रस्तवः।  
+१-३ जाटिकायनः। इन्द्रः। गायत्री, २ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Jāṭikāyana.—indradāivatam. gāyatram: 2. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

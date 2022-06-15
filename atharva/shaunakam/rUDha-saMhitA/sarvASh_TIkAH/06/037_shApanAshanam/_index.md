@@ -1,7 +1,21 @@
 +++
 title = "37. Against curses."
+title_whitney = "37. Against curses."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शापनाशनम्।  
+१-३ अथर्वा (स्वस्त्ययनकामः)। चन्द्रमाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—cāndramasam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

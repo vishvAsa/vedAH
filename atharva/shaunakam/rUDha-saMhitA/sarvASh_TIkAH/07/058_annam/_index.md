@@ -1,7 +1,21 @@
 +++
 title = "58 (60). Invitation to Indra and Varuṇa."
+title_whitney = "58 (60). Invitation to Indra and Varuṇa."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अन्नम्।  
+१-२ कौरुपथिः। इन्द्रावरुणौ। जगती, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāurupathi.—dvyṛcam. mantroktadevatyam. jāgatam: 2. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "65 (67). To the plant apāmārgá: for cleansing."
+title_whitney = "65 (67). To the plant apāmārgá: for cleansing."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुरितनाशनम्।  
+१-३ शुक्रः। अपामार्गवीरुत। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—tṛcam. apāmārgavīrudddivatam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

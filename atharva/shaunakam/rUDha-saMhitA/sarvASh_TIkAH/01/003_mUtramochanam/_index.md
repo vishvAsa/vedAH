@@ -1,7 +1,21 @@
 +++
 title = "3. Against obstruction of urine: with a reed."
+title_whitney = "3. Against obstruction of urine: with a reed."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मूत्रमोचनम्।  
+१-९ अथर्वा। १ पर्जन्यः, २ मित्रः, ३ वरुणः, ४ चन्द्रः, ५ सूर्यः, (१-९ मूत्रमोचनम्)। अनुष्टुप्, १-५ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—navarcam. parjanyamitrādibahudevatyam. ānuṣṭubham: 1-5. pathyāpan̄kti]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

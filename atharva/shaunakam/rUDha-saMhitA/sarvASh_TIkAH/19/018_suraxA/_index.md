@@ -1,7 +1,21 @@
 +++
 title = "18. For protection: to various gods."
+title_whitney = "18. For protection: to various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुरक्षा।  
+१-१० अथर्वा। मन्त्रोक्ताः। १, ८ साम्नी त्रिष्टुप्, २-३ आर्च्यनुष्टुप्, ( ५ सम्राडार्च्यनुष्टुप्) ७, ९-१० (द्विपदाः)
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—daśaham. pratyṛcam mantroktadevatyam. dvāipadam: 1, 8. sāmnī triṣṭubh; 2-6. ārcy anuṣṭubh (5. samrāj ⌊intending svarāj?⌋); 7, 9, 10. prājāpatyā triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

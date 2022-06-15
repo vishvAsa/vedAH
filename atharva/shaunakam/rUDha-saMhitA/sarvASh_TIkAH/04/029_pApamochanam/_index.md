@@ -1,7 +1,21 @@
 +++
 title = "29. Praise and prayer to Mitra and Varuṇa."
+title_whitney = "29. Praise and prayer to Mitra and Varuṇa."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम् ।  
+१-७ मृगारः । मित्रावरुणौ। त्रिष्टुप्, ७ शक्वरीगर्भातिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23). 7. śakvarīgarbhā jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

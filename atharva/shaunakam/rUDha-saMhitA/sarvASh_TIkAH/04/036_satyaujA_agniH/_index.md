@@ -1,7 +1,21 @@
 +++
 title = "36. Against demons and other enemies."
+title_whitney = "36. Against demons and other enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सत्यौजा अग्निः।  
+१-१० चातनः। सत्यौजा अग्निः। अनुष्टुप्, ९ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—satyāujasam.* āgneyam. ānuṣṭubham: 9. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

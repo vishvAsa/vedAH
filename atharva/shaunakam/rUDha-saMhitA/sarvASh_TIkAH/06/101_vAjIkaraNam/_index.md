@@ -1,7 +1,21 @@
 +++
 title = "101. For virile power."
+title_whitney = "101. For virile power."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाजीकरणम्।  
+१-३ अथर्वाङ्गिराः। ब्रह्मणसपतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras (śepaḥprathanakāmaḥ).—brāhmaṇaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

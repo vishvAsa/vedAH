@@ -1,7 +1,21 @@
 +++
 title = "20. Against fever (takmán)."
+title_whitney = "20. Against fever (takmán)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्। १ अतिजगती, २ ककुम्मतीप्रस्तारपङ्क्तिः, ३ सतः पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—yakṣmanāśanadāivatam. 1. atijagatī; 2. kakummatī prastirāpan̄ktiḥ; 3. sataḥpan̄ktiḥ.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

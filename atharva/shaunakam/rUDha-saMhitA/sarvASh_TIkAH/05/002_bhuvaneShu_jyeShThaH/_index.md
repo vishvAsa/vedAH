@@ -1,7 +1,21 @@
 +++
 title = "2. Mystic."
+title_whitney = "2. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भुवनेषु ज्येष्ठः।  
+१-९ बृहद्दिवोऽथर्वा। वरुणः। त्रिष्टुप्, ९ भुरिक् परातिजागता त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bṛhaddiva Atharvan.—navakam. vāruṇam. trāiṣṭubham: 9. bhurik parātijāgatā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

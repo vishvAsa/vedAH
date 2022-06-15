@@ -1,7 +1,21 @@
 +++
 title = "9 (10). Praise and prayer to Pūshan."
+title_whitney = "9 (10). Praise and prayer to Pūshan."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वस्तिदा पूषा।  
+१-४ उपरिबभ्रवः। पूषा। त्रिष्टुप्, ३ त्रिपदा आर्षी गायत्री, ४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uparibabhrava.—caturṛcam. pāuṣṇam. trāiṣṭubham: 3. 3-p. ārṣī gāyatrī; 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

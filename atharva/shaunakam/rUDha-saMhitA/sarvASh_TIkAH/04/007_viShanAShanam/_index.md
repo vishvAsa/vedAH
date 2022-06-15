@@ -1,7 +1,21 @@
 +++
 title = "7. Against poison."
+title_whitney = "7. Against poison."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विषनाषनम्  
+१-७ गरुत्मान्। वनस्पतिः। अनुष्टुप्, ४ स्वरीट्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Garutman.—vānaspatyam. ānuṣṭubham: 4. svarāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "24. Against leprosy."
+title_whitney = "24. Against leprosy."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१-४ ब्रह्मा। आसुरी वनस्पतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—āsurīvanaspatidevatyam. ānuṣṭubham: 2. niśrtpathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

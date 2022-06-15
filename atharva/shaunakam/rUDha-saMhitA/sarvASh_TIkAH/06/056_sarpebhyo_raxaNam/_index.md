@@ -1,7 +1,21 @@
 +++
 title = "56. For protection from serpents."
+title_whitney = "56. For protection from serpents."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्पेभ्यो रक्षणम्।  
+१-३ शन्तातिः। १ विश्वे देवाः, २-३ रुद्रः। १ उष्णिग्गर्भा पथ्यापङ्क्तिः, २ अनुष्टुप्, ३ निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—1. vāiśvadevī, uṣṇiggarbhā pathyāpan̄kti; 2, 3. rāudryāu: 2. anuṣṭubh; 3. nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

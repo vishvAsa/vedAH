@@ -1,7 +1,21 @@
 +++
 title = "35. The same."
+title_whitney = "35. The same."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जङ्गिडः।  
+१-५ अङ्गिराः। वनस्पतिः। अनुष्टुप्, ३ पथ्याबृहतीः, ४ शक्वरी निचृत् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[As 34.—pañcakam. 3. pathyāpan̄kti; 4. nicṛt triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

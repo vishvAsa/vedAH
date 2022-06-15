@@ -1,7 +1,21 @@
 +++
 title = "21. Praise of the kine."
+title_whitney = "21. Praise of the kine."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गावः।  
+१-७ ब्रह्मा । गावः । त्रिष्टुप्, २-४ जगती
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—gavyam. trāiṣṭubham. 2-4. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

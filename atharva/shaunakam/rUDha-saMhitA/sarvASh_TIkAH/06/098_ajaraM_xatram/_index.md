@@ -1,7 +1,21 @@
 +++
 title = "98. To Indra: for victory."
+title_whitney = "98. To Indra: for victory."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अजरं क्षत्रम्।  
+१-३ अथर्वाः। इन्द्रः। त्रिष्टुप्, २ बृहतीगर्भास्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āindram. trāiṣṭubham: 2. bṛhatīgarbhā ”stārapan̄ktiḥ.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

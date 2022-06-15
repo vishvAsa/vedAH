@@ -1,7 +1,21 @@
 +++
 title = "103. To tie up enemies."
+title_whitney = "103. To tie up enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ उच्छोचनः।इन्द्राग्नी, १ बृहस्पतिः, सविता, मित्रोः, अर्यमा, भगः,अश्विनौ, २-३ इन्द्रः, अग्निः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Ucchocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "11. For successful childbirth."
+title_whitney = "11. For successful childbirth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+नारी–सुखप्रसूतिः।  
+१-६ अथर्वा। पूषा, अर्यमा, वेधाः, दिशः, देवाः। पङ्क्तिः, २ अनुष्टुप्, ३ चतुष्पदोष्णिग्गर्भा ककुम्मत्यनुष्टुप्, ४-६ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ṣadṛcam. pāuṣṇam. pān̄ktam: 2. anuṣṭubh; 3. 4-p. uṣṇiggarbhā kakummaty anuṣṭubh; 4-6. pathyapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "52. Of and to desire (kā́ma)."
+title_whitney = "52. Of and to desire (kā́ma)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कामः।  
+१-५ ब्रह्माः कामः। त्रिष्टुप्, ३ चतुष्पदा उष्णिक्, ५ उपरिष्टाद्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—pañcakam. mantroktakāmadāivatam. trāiṣṭubham. 3. 4-p. uṣṇih; 5. upariṣṭādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

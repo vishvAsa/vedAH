@@ -1,7 +1,21 @@
 +++
 title = "4. To establish a king."
+title_whitney = "4. To establish a king."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+प्रजाभी राज्ञः संवरणम्।  
+१-७ अथर्वा। इन्द्रः, २ पञ्च प्रदिशः, ४ अश्विनौ, मित्रावरुणौ, विश्वे देवाः, मरुतः, ५ द्यावापृथिवी। त्रिष्टुप्, १ जगती, ४-५ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptakam. āindram. trāiṣṭubham: 1. jagatī; 4, 5. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

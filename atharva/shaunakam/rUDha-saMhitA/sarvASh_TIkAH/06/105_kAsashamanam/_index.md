@@ -1,7 +1,21 @@
 +++
 title = "105. To get rid of cough."
+title_whitney = "105. To get rid of cough."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कासशमनम्।  
+१-३ उन्मोचनः। कासा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Unmocana—kāsādevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

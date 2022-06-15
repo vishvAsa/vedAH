@@ -1,7 +1,22 @@
 +++
 title = "9. With the offering of a cow and a hundred rice-dishes."
+title_whitney = "9. With the offering of a cow and a hundred rice-dishes."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शतौदना गौः।  
+१-२७ अथर्वा। शतौदना। अनुष्टुप्, १ त्रिष्टुप्, १२ पथ्यापङ्क्तिः, २५ द्व्युष्णिग्गर्भाऽनुष्टुप्,  
+२६ पञ्चपदा बृहत्यनुष्टुबुष्णिग्गर्भा जगती, २७ पञ्चपदातिजागतानुष्टब्गर्भा शक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—saptaviṅśati. mantroktaśatāudanadevatyam. ānuṣṭubham: 1. triṣṭubh; 12. pathyāpan̄kti; 25. dvyuṣṇiggarbhā ’nuṣṭubh; 26. 5-p. bṛhatyanuṣṭubuṣṇiggarbhā jagatī; 27. 5-p. atijāgatānuṣṭubgarbhā śakvarī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "14. Against sadā́nvās."
+title_whitney = "14. Against sadā́nvās."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वस्युनाशनम्।  
+१-६ चातनः। शालाग्निदैवत्यम्। अनुष्टुप्, २ भुरिक्, ४ उपरिष्ठाद्विराड् बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—ṣaḍṛcam. śālāgnidevatyam uta mantroktadevatākam. ānuṣṭubham: 2. bhurij; 4. upariṣṭādvirāḍbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

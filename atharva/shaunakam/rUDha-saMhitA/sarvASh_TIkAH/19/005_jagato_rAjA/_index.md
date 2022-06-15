@@ -1,7 +1,21 @@
 +++
 title = "5. Praise and prayer to Indra."
+title_whitney = "5. Praise and prayer to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जगतो राजा  
+१ अथर्वाङ्गिराः। इन्द्रः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras (?).—ekarcam. āindram. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

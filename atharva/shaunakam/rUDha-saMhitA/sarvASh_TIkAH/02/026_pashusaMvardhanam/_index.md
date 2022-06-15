@@ -1,7 +1,21 @@
 +++
 title = "26. For safety and increase of kine."
+title_whitney = "26. For safety and increase of kine."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पशुसंवर्धनम्।  
+१-५ सविता। पशवः। त्रिष्टुप्, ३ उपरिष्टाद्विराड् बृहती, ४ भुरिगनुष्टुप्, ५ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Savitar.—paśavyam. trāiṣṭuhham. 3. upariṣṭādvirāḍbṛhatī; 4, 5. anuṣṭubh (4. bhurij).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

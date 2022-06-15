@@ -1,7 +1,22 @@
 +++
 title = "35. Prayer to Agni Vāiśvānara."
+title_whitney = "35. Prayer to Agni Vāiśvānara."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वैश्वानरः।
+
+१-३ कौशिकः। वैश्वानरः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāuśika.—viśvānaradāivatam. gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

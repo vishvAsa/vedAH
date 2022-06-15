@@ -1,7 +1,21 @@
 +++
 title = "20. To the war-drum."
+title_whitney = "20. To the war-drum."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुसेनात्रासनम्।  
+१-१२ ब्रह्मा। वनस्पतिः, दुन्दुभिः। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dvādaśakam. vānaspatyaṁ dundubhidevatyam (20, 21. sapatnasenāparājayāya devasenāvijayāya ca dundubhim astāut). trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

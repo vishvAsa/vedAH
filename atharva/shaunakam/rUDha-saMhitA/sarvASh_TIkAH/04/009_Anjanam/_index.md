@@ -1,7 +1,21 @@
 +++
 title = "9. For protection etc.: with a certain ointment."
+title_whitney = "9. For protection etc.: with a certain ointment."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आञ्जनम्।  
+१-१० भृगुः। त्रैकाकुदञ्जनम्। अनुष्टुप्, २ ककुम्मती, ३ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—daśarcam. trāikakudāñjanadāivatam. ānuṣṭubham: 2. kakummatī; 3. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

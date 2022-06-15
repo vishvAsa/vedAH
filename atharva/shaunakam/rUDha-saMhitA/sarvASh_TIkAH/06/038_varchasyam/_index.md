@@ -1,7 +1,21 @@
 +++
 title = "38. For brilliance."
+title_whitney = "38. For brilliance."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चस्यम्।  
+१-४ अथर्वा (वर्चस्कामः)। त्विषिः। (बृहस्पतिः)। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (varcashāmaḥ).—caturṛcam. bṛhaspatidevatyam uta tviṣidevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "11. Paryāya the eleventh."
+title_whitney = "11. Paryāya the eleventh."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+१-११ अथर्वा। अध्यात्मं, व्रात्यः। १ दैवी पङ्क्तिः, २ द्विपदा पूर्वात्रिष्टुबतिशक्वरी,  
+३-६, ८, १० निचृदाऽर्ची बृहती (१० भुरिक्), ७,९ द्विपदा प्राजापत्या बृहती, ११ द्विपदाऽर्च्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[ekādaśaka. 1. dāivī pan̄kti; 2. 2-p. pūrvātriṣṭub atiśakvarī; 3-6, 8, 10, 3-p. ārcī bṛhatī (10. bhurij); 7, 9. 2-p. prājāpatyā bṛhatī; 11. 2-p. ārcy anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

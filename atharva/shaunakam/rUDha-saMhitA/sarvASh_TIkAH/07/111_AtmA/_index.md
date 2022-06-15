@@ -1,7 +1,21 @@
 +++
 title = "111 (116). To a soma-vessel."
+title_whitney = "111 (116). To a soma-vessel."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१ ब्रह्मा। वृषभः। पराबृहती त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—vārṣabham. parabṛhatī triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

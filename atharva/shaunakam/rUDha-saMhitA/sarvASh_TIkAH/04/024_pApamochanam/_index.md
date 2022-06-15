@@ -1,7 +1,21 @@
 +++
 title = "24. Praise and prayer to Indra."
+title_whitney = "24. Praise and prayer to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम्।  
+१-७ मृगारः। इन्द्रः। त्रिष्टुप्, १ शाक्वरीगर्भा पुरःशक्वरी।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23). 1. śakvarīgarbhā puraḥśakvarī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

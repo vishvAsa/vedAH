@@ -1,7 +1,21 @@
 +++
 title = "134. To crush an enemy with a thunderbolt."
+title_whitney = "134. To crush an enemy with a thunderbolt."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ शक्रः। वज्रः। १ परानुष्टुप् त्रिष्टुप्, २ अनुष्टुप्, ३ भुरिक् त्रिपदा गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cukra.—mantroktavajradevatyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh; [2.]* bhurih 3-p. gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

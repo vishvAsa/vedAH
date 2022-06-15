@@ -1,7 +1,21 @@
 +++
 title = "60 (62). To the home: on returning or leaving."
+title_whitney = "60 (62). To the home: on returning or leaving."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रम्यं गृहम्।  
+१-७ ब्रह्मा। गृहाः, वास्तोष्पतिः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (ramyān gṛhān vāstospatīn aprārthayat).—saptarcam. vāstoṣpatyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

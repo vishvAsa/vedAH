@@ -1,7 +1,21 @@
 +++
 title = "5. For prosperity: with a parṇá-amulet."
+title_whitney = "5. For prosperity: with a parṇá-amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रस्य राजा राजकृतश्च।  
+१-८ अथर्वा। सोमः। १ पुरोऽनुष्टुप् त्रिष्टुप्, २-३, ५-७ अनुष्टुप्, ४ त्रिष्टुप्, ८ विराडुरोबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭakam. sāumyam. ānuṣṭubham: 1. puro‘nuṣṭup triṣṭubh; 8. virāḍurobṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "31. For welfare and long life."
+title_whitney = "31. For welfare and long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्  
+१-११ ब्रह्मा। पाप्महा, १ अग्निः, २ शक्रः, ३ पशवः, ४ द्यावापृथिवी, ५ त्वष्टा, ६ अग्निः, इन्द्रः, ७ देवाः, सूर्यः, ८-१० आयुः, ११ पर्जन्यः। अनुष्टुप्, ४ भुरिक् ५ विराट् प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekādaśarcam. pāpmahādevatyam. ānuṣṭubham: 4. bhurij; 5. virāṭprastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

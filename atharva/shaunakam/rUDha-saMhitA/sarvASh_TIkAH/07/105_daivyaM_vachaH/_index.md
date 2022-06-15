@@ -1,7 +1,21 @@
 +++
 title = "105 (110). An exhortation to holy life."
+title_whitney = "105 (110). An exhortation to holy life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दैव्यं वचः।  
+१ अथर्वा।मन्त्रोक्ताः। अनुष्टुप्॥
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

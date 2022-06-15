@@ -1,7 +1,21 @@
 +++
 title = "31 (32). To Indra: for aid."
+title_whitney = "31 (32). To Indra: for aid."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ भृग्वङ्गिराः। इन्द्रः। भुरिक् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—āindram. bkuriktriṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "2. To Gandharvas and Apsarases."
+title_whitney = "2. To Gandharvas and Apsarases."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भुवनपतिसूक्तम्।  
+१-५ मातृनामा। गन्धर्वाप्सरसः। त्रिष्टुप्, १ विराड् जगती, ४ त्रिष्टुपाद्विराण्नाम गायत्री, ५ भुरिगनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mātṛnāman.—gandharvāpsarodevatyam. trāiṣṭubham: 1. virāḍjagatī; 4. 3-p. virāṇnāmagāyatrī; 5. bhuriganuṣṭub.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

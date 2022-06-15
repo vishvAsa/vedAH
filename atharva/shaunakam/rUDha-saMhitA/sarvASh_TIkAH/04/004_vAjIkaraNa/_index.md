@@ -1,7 +1,21 @@
 +++
 title = "4. For recovery of virility: with a plant."
+title_whitney = "4. For recovery of virility: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाजीकरण  
+१-८ अथर्वा । वनस्पतिः, १-२ सूर्यः, प्रजापतिः, ४ इन्द्रः, ५ आपः, सोमः, ६ अग्निः, सरस्वती, ब्रह्मणस्पतिः। अनुष्टप्, ४ पुरउष्णिक्, ६-७ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭarcam. vānaspatyam. ānuṣṭubham: 4. purauṣṇih; 6, 7. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

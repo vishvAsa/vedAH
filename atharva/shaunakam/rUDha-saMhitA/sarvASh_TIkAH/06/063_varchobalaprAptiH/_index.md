@@ -1,7 +1,21 @@
 +++
 title = "63. For some one's release from perdition (nírṛti)."
+title_whitney = "63. For some one's release from perdition (nírṛti)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चोबलप्राप्तिः।  
+१-४ द्रुणः। १ निर्ऋतिः, २ यमः, ३ मृत्युः, ४ अग्नि। १-3 जगती, २ अतिजगतीगर्भा, ४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Druhvaṇa (?).—caturṛcam. nāirṛtam: 4. āgneyī. jāgatam: 1. atijagatīgarbhā; 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "8. To win a woman's love."
+title_whitney = "8. To win a woman's love."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कामात्मा  
+१-३ जमदग्निः। कामात्मा, २ सुपर्णः, ३ द्यावापृथिवी, सूर्यः। पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Jamadagni.—kāmātmadāivatam. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

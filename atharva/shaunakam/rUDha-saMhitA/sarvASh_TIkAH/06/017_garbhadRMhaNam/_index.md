@@ -1,7 +1,21 @@
 +++
 title = "17. Against premature birth."
+title_whitney = "17. Against premature birth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गर्भदृंहणम्।  
+१-४ अथर्वा। गर्भदृंहणम्, पृथिवि। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. garbhadṛṅhaṇadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

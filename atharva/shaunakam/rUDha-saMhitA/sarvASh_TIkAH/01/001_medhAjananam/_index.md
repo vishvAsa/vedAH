@@ -1,7 +1,21 @@
 +++
 title = "1. For the retention of sacred learning."
+title_whitney = "1. For the retention of sacred learning."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मेधाजननम्।  
+१-४ अथर्वा। वाचस्पतिः। अनुष्टुप्, ४ चतुष्पदा विराडुरोबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vācaspatyam. caturṛcam. ānuṣṭubham: 4. 4-p. virāḍ urobṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

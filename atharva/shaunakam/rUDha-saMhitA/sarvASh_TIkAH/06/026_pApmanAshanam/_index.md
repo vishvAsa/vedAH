@@ -1,7 +1,21 @@
 +++
 title = "26. Against evil."
+title_whitney = "26. Against evil."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाप्मनाशनम्।  
+१-३ ब्रह्म। पाप्मा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—pāpmadevatākam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

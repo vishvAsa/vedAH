@@ -1,7 +1,21 @@
 +++
 title = "95. For relief from disease: with kúṣṭha."
+title_whitney = "95. For relief from disease: with kúṣṭha."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कुष्ठौषधिः।  
+१-३ भृग्वङ्गिराः। वनस्पतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—vānaspatyam; mantroktadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

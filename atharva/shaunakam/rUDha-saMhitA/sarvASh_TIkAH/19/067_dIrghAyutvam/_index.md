@@ -1,7 +1,21 @@
 +++
 title = "67. For long life and prosperity."
+title_whitney = "67. For long life and prosperity."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुत्वम्।  
+१-८ ब्रह्मा। सूर्यः। प्राजापत्या गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭāu. sāuryam. prājāpatyā gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

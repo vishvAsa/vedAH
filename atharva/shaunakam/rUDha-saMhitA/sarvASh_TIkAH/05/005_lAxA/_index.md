@@ -1,7 +1,21 @@
 +++
 title = "5. To a healing plant, lākṣā."
+title_whitney = "5. To a healing plant, lākṣā."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+लाक्षा  
+१-९ अथर्वा। लाक्षा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—navakam. lākṣikam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

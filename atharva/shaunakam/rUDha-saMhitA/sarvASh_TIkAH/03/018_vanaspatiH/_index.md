@@ -1,7 +1,21 @@
 +++
 title = "18. Against a rival wife: with a plant."
+title_whitney = "18. Against a rival wife: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वनस्पतिः।  
+१-६ अथर्वा। वनस्पतिः। अनुष्टुप्, ४ अनुष्टुब्गर्भा चतुष्पदा उष्णिक्, ६ उष्णिग्गर्भा पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—vānaspatyam. ānuṣṭubham: 4. 4-p. anuṣṭubgarbhā uṣṇih; 6. uṣṇiggarbhā pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

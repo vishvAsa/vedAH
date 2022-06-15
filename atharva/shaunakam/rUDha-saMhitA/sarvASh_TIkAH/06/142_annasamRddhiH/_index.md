@@ -1,7 +1,21 @@
 +++
 title = "142. For increase of barley."
+title_whitney = "142. For increase of barley."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अन्नसमृद्धिः।  
+१-३ विश्वामित्रः। वायुः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Viśvāmitra.—vāyavyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

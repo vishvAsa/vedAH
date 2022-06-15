@@ -1,7 +1,21 @@
 +++
 title = "40. For freedom from fear."
+title_whitney = "40. For freedom from fear."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभयम्।  
+१-३ अथर्वा। १ द्यावापृथिवी, सोमः, सविता, अन्तरिक्षं, सप्तऋषयः, २ सविता इन्द्रः, ३ इन्द्रः। १-२ जगती, ३ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?: 1-2. abhayakāmaḥ; 3. svastyayanakāmaḥ).—1-2. mantroktadevatye. jagatyāu. 3. āindrī. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

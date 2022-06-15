@@ -1,7 +1,21 @@
 +++
 title = "133. To a girdle: for long life etc."
+title_whitney = "133. To a girdle: for long life etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मेखलाबन्धनम्।  
+१-५ अगस्त्यः। मेखला। १ भुरिक् २, ५ अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Agastya.—pañcarcam. mekhalādevatākam. trāiṣṭubham: 1. bhūrij; 2, 5. anuṣṭubh; 4. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

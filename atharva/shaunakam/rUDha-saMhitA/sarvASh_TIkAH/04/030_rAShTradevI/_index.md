@@ -1,7 +1,21 @@
 +++
 title = "30. Self-laudation of Speech (?)."
+title_whitney = "30. Self-laudation of Speech (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रदेवी ।  
+१- ८ अथर्वा। सर्वरूपा सर्वात्मिका सर्वदेवमयी वाक्। त्रिष्टुप्, ६ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭarcam. vāgdevatyam. trāiṣṭubham: 6.jagati.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

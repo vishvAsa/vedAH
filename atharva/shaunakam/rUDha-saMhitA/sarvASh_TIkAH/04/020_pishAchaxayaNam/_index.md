@@ -1,7 +1,21 @@
 +++
 title = "20. To discover sorcerers: with an herb."
+title_whitney = "20. To discover sorcerers: with an herb."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पिशाचक्षयणम्।  
+१-९ मातृनामा। मातृनामा। अनुष्टुप्, १ स्वराट्, ९ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mātṛnāman.—navarcam. mātṛnāmadāivatam. ānuṣṭubham: 1. svarāj; 9. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

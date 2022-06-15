@@ -1,7 +1,21 @@
 +++
 title = "5. An incantation to put to sleep."
+title_whitney = "5. An incantation to put to sleep."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+स्वापनम्।  
+१-७ ब्रह्म। स्वापनं, वृषभः। अनुष्टुप्,२ भुरिक्, ७ पुरस्ताज्ज्योतिस्त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—svāpanam, vārṣabham. ānuṣṭubham: 2. bhurij; 7. purastājjyotis triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

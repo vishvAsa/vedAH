@@ -1,7 +1,21 @@
 +++
 title = "50. To night: for protection."
+title_whitney = "50. To night: for protection."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रात्रिः।  
+१-७ गोपथः। रात्रिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[As 47.—saptakam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

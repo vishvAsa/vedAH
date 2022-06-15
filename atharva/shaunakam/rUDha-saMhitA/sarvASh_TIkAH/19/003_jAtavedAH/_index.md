@@ -1,7 +1,21 @@
 +++
 title = "3. Praise to Agni."
+title_whitney = "3. Praise to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जातवेदाः।  
+१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, २ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan̄giras.—caturṛcam. āgneyam. trāiṣṭubham: 2. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

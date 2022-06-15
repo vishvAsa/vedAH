@@ -1,7 +1,21 @@
 +++
 title = "3. To Agni: against sorcerers and demons."
+title_whitney = "3. To Agni: against sorcerers and demons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-२६ चातनः। अग्निः। त्रिष्टुप्, ७,१२,१४-१५,१७,२१ भुरिक्, २५ पञ्चपदा बृहतीगर्भा जगती २२-२३ अनुष्टुप्, २६ गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—ṣaḍviṅśam. āgneyam. trāiṣṭubham: 7, I2, 14, 15, 17, 21. bhurij; 25. 5-p. bṛhatīgarbhā jagatī; 22, 23. anuṣṭubh; 26. gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

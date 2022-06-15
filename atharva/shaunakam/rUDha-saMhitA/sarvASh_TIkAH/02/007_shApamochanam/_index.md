@@ -1,7 +1,21 @@
 +++
 title = "7. Against curses and cursers: with a plant."
+title_whitney = "7. Against curses and cursers: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शापमोचनम्।  
+१-५ अथर्वा। भैषज्यं, आयुः, वनस्पतिः। अनुष्टुप्, १ भुरिक्, ४ विराडुपरिष्टाद् बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—bhāiṣajyāyurvanaspatidāivatyam. ānuṣṭubham: 1. bhurij; 4. virāḍupariṣṭādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

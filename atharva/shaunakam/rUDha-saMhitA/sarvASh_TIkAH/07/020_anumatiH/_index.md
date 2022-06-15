@@ -1,7 +1,21 @@
 +++
 title = "20 (21). Praise and prayer to Anumati."
+title_whitney = "20 (21). Praise and prayer to Anumati."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अनुमतिः।  
+१-६ अथर्वा। अनुमतिः। १-२ अनुष्टुप्, ३ त्रिष्टुप्, ४ भुरिक्, ५ जगती ६ अतिशाक्वरीगर्भा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṣaḍṛcam. ānumatīyam. ānuṣṭubham: 3, ⌊4⌋. triṣṭubh; 4. bhurij; 5, 6. jagatī; 6. atiśākvaragarbā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

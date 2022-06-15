@@ -1,7 +1,22 @@
 +++
 title = "5. Preparation and use of water-thunderbolts."
+title_whitney = "5. Preparation and use of water-thunderbolts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विजयप्राप्तिः।  
+१-२४ सिन्धुद्वीपः। आपः, चन्द्रमाः। अनुष्टुप्, १-५ त्रिपदा पुरोऽभिकृतिककुम्मतीगर्भा पङ्क्तिः, ६ चतुष्पदा जगतीगर्भा जगती, ७-१४ त्र्यवसाना पञ्चपदा विपरीतपादलक्ष्मा बृहती (११,१४ पथ्यापङ्क्तिः), १५-२१ चतुरवसाना दशपदा त्रैष्टुब्गर्भातिधृतिः, (१९-२० कृतिः, २४ त्रिपदा विराड् गायत्री)  
+(१)
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[B1. (vss. 25-35). Kāuśika.—ekādaśa. viṣṇukramadevatyā uta pratimantroktadevatyāḥ. 25-35. 3-av. 6-p. yathākṣaraṁ śakvaryatiśatvarī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

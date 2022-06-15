@@ -1,7 +1,21 @@
 +++
 title = "34. Accompanying the sacrifice of an animal."
+title_whitney = "34. Accompanying the sacrifice of an animal."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पशवः।  
+१-५ अथर्वा। १ पशुपतिः, २ देवाः, ३ अग्निः विश्वाकर्मा, ४ वायुः प्रजापतिः, ५ आशीः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—pāśupatyam; paśubhāgakaraṇam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

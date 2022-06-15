@@ -1,7 +1,21 @@
 +++
 title = "129. For good-fortune: with a śiṅśápā amulet."
+title_whitney = "129. For good-fortune: with a śiṅśápā amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भगप्राप्तिः  
+१-३ अथर्वाङ्गिराः। भगः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—bhagadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "7. Mystic: on the skambhá or frame of creation."
+title_whitney = "7. Mystic: on the skambhá or frame of creation."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्वाधारवर्णनम्।  
+१-४४ अथर्वा। स्कम्भः आत्मा वा। त्रिष्टुप्, १ विराड् जगती, २, ८ भुरिक्, ७, १३ परोष्णिक्,१०, १४, १६, १८-१९ उपरिष्टाद् बृहती, ११-१२, १५, २०, २२, ३९ उपरिष्टाज्ज्योतिर्जगती, १७ त्र्यवसाना षट्-पदा जगती, २१ बृहतीगर्भानुष्टुप्, २३-३०, ३७, ४० अनुष्टुप् , ३१ मध्येज्योतिर्जगती, ३२, ३४, ३६ उपरिष्टाद्विराड्बृहती, ३३ पराविराडनुष्टुप्, ३५ चतुष्पदा जगती, ३८, ४२-४३ त्रिष्टुप्, ४१ आर्षी त्रिपदा गायत्री, ४४ एका॰ आर्च्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (kṣudra).—catuścatvāriṅśat. mantroktaskambhādhyātmadevatyam. trāiṣṭubham*: 1. virāḍ jagatī; 2, 8. bhurij; 7, 13. paroṣṇih; 10, 14, 16, 18, ig. upariṣṭād bṛhatī; 11, 12, 15, 20, 22, 39. upariṣṭājjyotirjagatī; 17. 3-av. 6-p. jagatī; 21. bṛhatīgarbhā ’nuṣṭubh; 23-30, 37, 40. anuṣṭubh; 31. madhyejyotirjagatī; 32, 34, 36. upariṣṭādvirāḍ bṛhatī; 33. paravirāḍ anuṣṭubh; 35. 4-p. jagatī; 38, 42, 43. triṣṭubh*; 41. ārsī 3-p. gāyatrī; 44. ārcy anuṣṭubh (?) †.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

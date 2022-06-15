@@ -1,7 +1,21 @@
 +++
 title = "32. Praise and prayer to fury (manyú)."
+title_whitney = "32. Praise and prayer to fury (manyú)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सेनासंयोजनम्।  
+१-७ ब्रह्म स्कन्दः। मन्युः। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahmāskanda.—manyudāivatam. trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

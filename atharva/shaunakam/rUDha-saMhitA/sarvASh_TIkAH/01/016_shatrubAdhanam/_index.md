@@ -1,7 +1,21 @@
 +++
 title = "16. Against demons: with an amulet of lead."
+title_whitney = "16. Against demons: with an amulet of lead."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुबाधनम्।  
+१-४ चातनः। १ अग्निः, २ इन्द्रः, वरुणः, (२-४ दधत्यं सीसम्)। अनुष्टुप्, ४ ककुम्मती अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Cātana.—agnīndram, vāruṇam, dadhatyam. ānuṣṭubham: 4. kakummatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

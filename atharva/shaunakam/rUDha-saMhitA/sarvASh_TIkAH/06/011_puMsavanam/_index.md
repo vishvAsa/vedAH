@@ -1,7 +1,21 @@
 +++
 title = "11. For birth of sons."
+title_whitney = "11. For birth of sons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पुंसवनम्।  
+१-३ प्रजापतिः। रेतः, ३ प्रजापतिः, अनुमतिः, सिनीवाली। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Prajāpatiḥ.—retodevatyam uta mantroktadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

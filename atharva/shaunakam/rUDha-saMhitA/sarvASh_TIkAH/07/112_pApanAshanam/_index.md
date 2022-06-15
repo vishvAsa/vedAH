@@ -1,7 +1,21 @@
 +++
 title = "112 (117). For release from guilt and distress."
+title_whitney = "112 (117). For release from guilt and distress."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापनाशनम्।  
+१-२ वरुणः। आपः, वरुणश्च। अनुष्टुप्, १ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Varuṇa.—dvyṛcam. mantroktābdāivatam. ānuṣṭubham: 1. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

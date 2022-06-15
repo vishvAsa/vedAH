@@ -1,7 +1,21 @@
 +++
 title = "23. Against worms."
+title_whitney = "23. Against worms."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्रिमिघ्नम्।  
+१-१३ कण्वः। इन्द्रः। अनुष्टुप्, १३ विराट्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāṇva.—trayodaśakam. āindram (krimijambhanāya devān aprārthayat). ānuṣṭubham: 13. virāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

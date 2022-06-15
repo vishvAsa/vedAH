@@ -1,7 +1,21 @@
 +++
 title = "57. With a certain remedy against disease."
+title_whitney = "57. With a certain remedy against disease."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जलचिकित्सा।  
+१-३ शन्तातिः। रुद्रः। १-२ अनुष्टुप् ३ पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—1, 2. rāudryāu; anuṣṭubh; 3. ⌊?⌋; pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

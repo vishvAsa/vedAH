@@ -1,7 +1,21 @@
 +++
 title = "96 (101). For quiet kidneys (?)."
+title_whitney = "96 (101). For quiet kidneys (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ कपिञ्जलः। वयः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kapiñjala.—prākṛtam ⌊?⌋; vāyasam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

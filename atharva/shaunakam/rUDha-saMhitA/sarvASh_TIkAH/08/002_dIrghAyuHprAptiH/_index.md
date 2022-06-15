@@ -1,7 +1,23 @@
 +++
 title = "2. To prolong some one's life."
+title_whitney = "2. To prolong some one's life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-२८ ब्रह्मा। आयुः। त्रिष्टुप्, १-२,७ भुरिक्, ३,२६ आस्तारपङ्क्तिः, ४ प्रस्तारपङ्क्तिः, ६,१५ पथ्यापङ्क्तिः,  
+८ पुरस्ताज्ज्योतिष्मती जगती, ९ पञ्चपदा जगती, ११ विष्टारपङ्क्तिः, १२,२२,२८ पुरस्ताद्बृहती,  
+१४ त्र्यवसाना षट्-पदा जगती, १९ उपरिष्टाद्बृहती, २१ सतः पङ्कतिः ५,१०,१६-१८,२०,२३-२५,२७ अनुष्टुप् (१७ त्रिपाद्)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭāviṅśakam. ārsy (ārtvy?) āyuṣyam. trāiṣṭubham*: 1, 2, 7. bhurij; 3. āstārapan̄kti; 4. prastārapan̄kti; 6. pathyāpan̄kti; 8. purastāj jyotiṣmatī jagatī; 9. 5-p. jagatī; 11. viṣṭārapan̄kti; 12. purastādbṛhatī; 14. 3-av. 6-p. jagatī; 15. pathyāpan̄kti; 19. upariṣṭādbṛhatī; 21. sataḥpan̄kti; 26. āstārapan̄kti; 22, 28. purastādbṛhatī; 5, 10, 16-18, 20, 23-25, 27. anuṣṭubh (17. tripāt).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

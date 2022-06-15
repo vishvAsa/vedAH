@@ -1,7 +1,21 @@
 +++
 title = "74 (78). Against apacíts: against jealousy: to Agni."
+title_whitney = "74 (78). Against apacíts: against jealousy: to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गण्डमालाचिकित्सा।  
+१-४ अथर्वाङ्गिराः। मन्त्रोक्ताः, ४ जातवेदाः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—caturṛcam. mantroktadevatyam uta jātavedasam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "29. Continuation of the foregoing."
+title_whitney = "29. Continuation of the foregoing."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दर्भमणिः।  
+१-९ ब्रह्मा। दर्भमाणिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[As 28. navakam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

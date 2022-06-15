@@ -1,7 +1,21 @@
 +++
 title = "6. To many different gods: for relief."
+title_whitney = "6. To many different gods: for relief."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम्।  
+१-२३ शन्तातिः। चन्द्रमाः, मन्त्रोक्ताः। अनुष्टुप्, २३ बृहतीगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—trayoviṅśakam. cāndramasam uta mantroktadevatyam. ānuṣṭubham*: 23. bṛhatīgarbhā.] *⌊The Anukr. omits the definition of 18 as pathyāpan̄kti.⌋
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

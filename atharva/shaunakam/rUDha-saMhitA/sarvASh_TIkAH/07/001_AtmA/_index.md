@@ -1,7 +1,21 @@
 +++
 title = "1. Mystic."
+title_whitney = "1. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१-२ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, २ विराड् जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (brahmavarcasahāmaḥ).—dvyṛcam. ātmadevatyam. trāiṣṭubham: 2. virāḍjagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

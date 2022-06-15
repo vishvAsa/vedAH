@@ -1,7 +1,21 @@
 +++
 title = "14. A blessing on the kine."
+title_whitney = "14. A blessing on the kine."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गोष्ठः।  
+१-६ ब्रह्मा। गोष्ठः, अहः, २ अर्यमा, पूषा, बृहस्पतिः, इन्द्रः, १-६ गावः, ५ गोष्ठश्च। अनुष्टुप्, ६आर्षी त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—nānādevatyam uta goșțhadevatākam. ānușțubham: 6. ārṣī triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

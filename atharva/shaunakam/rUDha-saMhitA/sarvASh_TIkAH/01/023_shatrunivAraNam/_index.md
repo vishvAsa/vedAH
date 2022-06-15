@@ -1,7 +1,21 @@
 +++
 title = "23. Against leprosy: with a healing herb."
+title_whitney = "23. Against leprosy: with a healing herb."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१-४ अथर्वा। वनस्पतिः(असिक्निः)। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (śvetalakṣmavināśanāyā 'nenā 'siknīm oṣadhim astāut).—vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

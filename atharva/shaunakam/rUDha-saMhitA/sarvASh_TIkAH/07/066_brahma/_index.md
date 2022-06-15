@@ -1,7 +1,21 @@
 +++
 title = "66 (68). For recovery of sacred knowledge (brā́hmaṇa)."
+title_whitney = "66 (68). For recovery of sacred knowledge (brā́hmaṇa)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्म।  
+१ ब्रह्म। ब्रह्म। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—brāhmaṇam. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

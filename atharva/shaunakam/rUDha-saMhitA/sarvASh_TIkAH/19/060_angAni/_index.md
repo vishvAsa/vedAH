@@ -1,7 +1,21 @@
 +++
 title = "60. For physical abilities."
+title_whitney = "60. For physical abilities."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अङ्गानि।  
+१-२ ब्रह्मा। वाक्, अङ्गानि च। १ पथ्याबृहती, २ ककुम्मती पुर उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dvyṛcam. mantroktavāgādidāivatam. 1. pathyābṛhatī; 2. kakummatī purauṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "39 (40). In praise of Sarasvant (?)."
+title_whitney = "39 (40). In praise of Sarasvant (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आपः।  
+१ प्रस्कण्वः। आपः, सुपर्णः वृषभः त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Praskaṇva.—mantroktadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

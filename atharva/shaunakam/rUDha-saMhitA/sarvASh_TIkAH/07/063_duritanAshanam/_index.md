@@ -1,7 +1,21 @@
 +++
 title = "63 (65). To Agni: for aid."
+title_whitney = "63 (65). To Agni: for aid."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुरितनाशनम्।  
+१ मरीचिः काश्यपः। जातवेदाः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kaśyapa Mārīca.—jātavedasam. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

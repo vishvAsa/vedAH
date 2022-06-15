@@ -1,7 +1,21 @@
 +++
 title = "6. Purusha and his sacrifice."
+title_whitney = "6. Purusha and his sacrifice."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+जगद्बीज पुरुषः।  
+१-१६ नारायणः। पुरुषः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Nārāyaṇa.—ṣoḍaśarcam. puruṣadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

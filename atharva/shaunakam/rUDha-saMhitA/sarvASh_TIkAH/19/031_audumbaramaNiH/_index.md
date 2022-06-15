@@ -1,7 +1,21 @@
 +++
 title = "31. For various blessings: with an amulet of udumbára."
+title_whitney = "31. For various blessings: with an amulet of udumbára."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+औदुम्बरमणिः।  
+१-१४ सविता (पुष्टिकामः)। औदुम्बरमणिः। अनुष्टुप्, ५, १२ त्रिष्टुप्, ६ विराट् प्रस्तारपङ्क्तिः, ११ , १३ पञ्चपदा शक्वरी, १४ विराडास्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Savitṛ (puṣṭīkāmaḥ).—caturdaśa. mantroktāudumbaramaṇidevatyam. ānuṣṭubham: 5, 12. triṣṭubh; 6. virāṭ prastārapan̄kti; 11, 13. 5-p. ¸śakvarī; 14. virāḍ āstārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

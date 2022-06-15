@@ -1,7 +1,21 @@
 +++
 title = "102 (107). Accompanying self-relief."
+title_whitney = "102 (107). Accompanying self-relief."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मनोऽहिंसनम्।  
+१ प्रजापतिः। द्यावापृथिवी, अन्तरिक्षम्, मृत्युः। विराट् पुरस्ताद् बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Prajāpati.—mantroktanānādevatyam. virāṭ purastādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

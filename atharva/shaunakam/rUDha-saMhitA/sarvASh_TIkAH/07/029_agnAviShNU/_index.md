@@ -1,7 +1,21 @@
 +++
 title = "29 (30). To Agni and Vishṇu."
+title_whitney = "29 (30). To Agni and Vishṇu."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अग्नाविष्णू।  
+१-२ मेधातिथिः। अग्नाविष्णू। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Medhātithi (?).—dvyṛcam. mantroktadāivatam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "106. Against fire in the house."
+title_whitney = "106. Against fire in the house."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दूर्वाशाला  
+१-३ प्रमोचनः। दूर्वाशाला। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Pramocana.—dūrvāśālādevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

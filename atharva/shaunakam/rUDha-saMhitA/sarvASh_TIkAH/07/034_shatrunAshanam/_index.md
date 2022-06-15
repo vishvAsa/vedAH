@@ -1,7 +1,21 @@
 +++
 title = "34 (35). To Agni: against enemies."
+title_whitney = "34 (35). To Agni: against enemies."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१ अथर्वा। जाचवेदाः। जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—jātavedasam. jāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

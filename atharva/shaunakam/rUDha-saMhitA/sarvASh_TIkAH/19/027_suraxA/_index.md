@@ -1,7 +1,21 @@
 +++
 title = "27. For protection etc.: with a triple amulet."
+title_whitney = "27. For protection etc.: with a triple amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुरक्षा।  
+१-१५ भृग्वङ्गिराः। त्रिवृत्, चन्द्रमाश्च। अनुष्टुप्, ३, ९ त्रिष्टुप्, १० जगती, ११ आर्ची उष्णिक्, १२ आर्च्यनुष्टुप्, १३ साम्नी त्रिष्टुप् (११-१३ एकावसानाः)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—pañcadaśakam. trivṛddevatyam uta cāndramasam. ānuṣṭubham: 3, 9. triṣṭubh; 10. jagatī ⌊? see under the verse⌋; 11. ārcy uṣṇih; 12. ārcy anuṣṭubh; 13. sāmnī triṣṭubh (11-13. 1-av.).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

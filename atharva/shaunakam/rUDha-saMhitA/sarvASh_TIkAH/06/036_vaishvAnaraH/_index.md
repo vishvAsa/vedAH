@@ -1,7 +1,21 @@
 +++
 title = "36. In praise of Agni."
+title_whitney = "36. In praise of Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वैश्वानरः।  
+१-३ अथर्वा (स्वस्त्ययनकामः)। अग्निः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—āgneyam. gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

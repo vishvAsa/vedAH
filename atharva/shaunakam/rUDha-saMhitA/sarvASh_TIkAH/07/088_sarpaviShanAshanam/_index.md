@@ -1,7 +1,21 @@
 +++
 title = "88 (93). Against poison."
+title_whitney = "88 (93). Against poison."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्पविषनाशनम्।  
+१ गरुत्मान्। तक्षकः। त्र्यवसाना बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Garutman.—takṣakadevatyam. 3-av. bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "11. For well-being."
+title_whitney = "11. For well-being."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शान्तिः।  
+१-६ वसिष्ठः। बहुदैवत्यम्। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (śāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

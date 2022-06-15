@@ -1,7 +1,21 @@
 +++
 title = "10. For some one's release from Varuṇa's wrath."
+title_whitney = "10. For some one's release from Varuṇa's wrath."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाप -विमोचनम्।  
+१-४ अथर्वा। १ असुरः, २-४ वरुणः। त्रिष्टुप्, ३ ककुम्मती अनुष्टुप्, ४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āsuram, vāruṇam. trāiṣṭubham: 3, 4. anuṣṭubh (3. kakummati).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

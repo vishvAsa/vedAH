@@ -1,7 +1,21 @@
 +++
 title = "51. Accompanying acceptance (?)."
+title_whitney = "51. Accompanying acceptance (?)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।  
+१-२ ब्रह्मा। १ आत्मा, २ सविता च। १ एकपदा ब्राह्म्यनुष्टुप्, २ त्रिपाद् यवमध्योष्णिक्, (१-२ एकावसाना)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dve. 1. ātmadevatyā; 2. sāvitrī. 1. 1-p. brāhmy anuṣṭubh; 2. 3-p. yavamadhyo ’ṣṇih (1, 2. 1-av.).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

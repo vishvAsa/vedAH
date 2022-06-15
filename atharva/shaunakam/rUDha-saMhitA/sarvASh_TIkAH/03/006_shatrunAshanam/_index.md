@@ -1,7 +1,21 @@
 +++
 title = "6. Against enemies: with aśvatthá."
+title_whitney = "6. Against enemies: with aśvatthá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-८ जगद्वीजं पुरुषः। वानस्पत्योऽश्वत्थः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Jagadbījampuruṣa.—aṣṭarcam. vānaspatyāśvatthadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "2. To the unknown god."
+title_whitney = "2. To the unknown god."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मविद्या।  
+१-८ वेनः। आत्मा। त्रिष्टुप्, ६ पुरोऽनुष्टुप्, ७ उपरिष्टाज्यो। तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vena.—aṣṭarcam. ātmadāivatam. trāiṣṭubham: 6. puro ’nuṣṭubh; 8. upariṣṭājjyotis.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "22. Against fever (takmán)."
+title_whitney = "22. Against fever (takmán)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+तक्मनाशनम्।  
+१-१४ भृग्वङ्गिराः। तक्मनाशनः। अनुष्टुप्, १ भुरिक् त्रिष्टुप्, २ त्रिष्टुप्, ५ विराट्, पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—caturdaśakam. takmanāśanadevatyam (takmāpabādhāyā ’nena devān aprārthayat takmanāśanam astāut). ānușțubham: 1, 2. trișțubh (1. bhurij); 5. virāṭ pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

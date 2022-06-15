@@ -1,7 +1,21 @@
 +++
 title = "28. For various blessings: with an amulet of darbhá."
+title_whitney = "28. For various blessings: with an amulet of darbhá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दर्भमणिः।  
+१-१० ब्रह्मा (सपत्नक्षयकामः)। दर्भमणिः. मन्त्रोक्ताश्च। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (sapatnakṣayakāmaḥ).—daśakam. mantroktadarbhantaṇidevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

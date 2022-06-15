@@ -1,7 +1,20 @@
 +++
 title = "3. Mystic."
+title_whitney = "3. Mystic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

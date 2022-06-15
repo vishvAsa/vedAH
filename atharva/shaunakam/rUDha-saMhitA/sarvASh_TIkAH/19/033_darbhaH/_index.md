@@ -1,7 +1,21 @@
 +++
 title = "33. For various blessings: with an amulet of darbhá."
+title_whitney = "33. For various blessings: with an amulet of darbhá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दर्भः।  
+१-५ भृगुः। दर्भः। १ जगती, २, ५ त्रिष्टुप्, ३ आर्षी पङ्क्तिः, ४ आस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[As 32.—pañcakam. 1. jagatī; 2, 5. triṣṭubh; 3. ārṣī pan̄kti; 4. āstārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

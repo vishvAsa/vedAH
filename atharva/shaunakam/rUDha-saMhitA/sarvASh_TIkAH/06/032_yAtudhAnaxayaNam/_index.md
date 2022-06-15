@@ -1,7 +1,21 @@
 +++
 title = "32. Against demons."
+title_whitney = "32. Against demons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यातुधानक्षयणम्।  
+(१-३) १-२ चातनः, ३ अथर्वा। १ अग्निः, २ रुद्रः, ३ मित्रावरुणौ। त्रिष्टुप्, २ प्रस्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[1, 2. Cātana; 3. Atharvan.—agnidāivatam. trāiṣṭubham: 2. prastārapan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

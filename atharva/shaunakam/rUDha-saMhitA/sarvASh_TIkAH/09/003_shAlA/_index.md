@@ -1,7 +1,23 @@
 +++
 title = "3. To accompany the releasing of a house."
+title_whitney = "3. To accompany the releasing of a house."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शाला।  
+१-३१ भृग्वङ्गिराः। शाला। अनुष्टुप्, ६ पथ्यापङ्क्तिः, ७ परोष्णिक्, १५ त्र्यवसाना पञ्चपदातिशक्वरी,  
+१७ प्रस्तारपङ्क्तिः, २१ आस्तारपङ्क्तिः २५-३१ त्रिपदा प्राजापत्या बृहती, २६ साम्नी त्रिष्टुप्,  
+२७-३० प्रतिष्ठानाम गायत्री, (२५-३१) एकावसाना त्रिपदा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—ekatriṅśatkam. śālādevatyam. ānuṣṭubham: 6. pathyāpan̄kti; 7. paroṣṇih; 15. 3-av. 5-p. atiśakvarī; 17. prastārapan̄kti; 21. āstārapan̄kti; 25, 31. 3-p. prajāpatyā bṛhatī; 26. sāmnī triṣṭubh; 27-30. pratiṣṭhānāmagāyatrī; 23-31. 1-av. 3-p.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

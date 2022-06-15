@@ -1,7 +1,21 @@
 +++
 title = "122. With an offering for offspring."
+title_whitney = "122. With an offering for offspring."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+तृतीयो नाकः।  
+१-५ भृगुः। विश्वकर्मा। त्रिष्टुप्। ४-५ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—pañcarcam. vāiśvakarmaṇam. trāiṣṭubham: 4. 5. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

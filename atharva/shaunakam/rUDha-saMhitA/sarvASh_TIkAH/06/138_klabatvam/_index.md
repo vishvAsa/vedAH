@@ -1,7 +1,21 @@
 +++
 title = "138. To make a certain man impotent."
+title_whitney = "138. To make a certain man impotent."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+क्लबत्वम्।  
+१-५ अथर्वा। वनस्पतिः। अनुष्टुप्, ३ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (klībakartukāmaḥ).—pañcarcam. vānaspatyam. ānuṣṭubham: 3. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

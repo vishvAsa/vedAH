@@ -1,7 +1,21 @@
 +++
 title = "59. For protection to cattle."
+title_whitney = "59. For protection to cattle."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+औषधिः।  
+१-३ अथर्वा। रुद्रः, अरुन्धती औषधिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan ⌊?⌋.—rāudram uta mantroktadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "53. Praise of time (kālá)."
+title_whitney = "53. Praise of time (kālá)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कालः।  
+१-१० भृगुः। कालः। अनुष्टुप्, १-४ त्रिष्टुप्, ५ निचृत् पुरस्ताद्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—daśakam. mantroktasarvātmakakāladevatyam. ānuṣṭubham: 1-4. triṣṭubh; 5. nicṛt purastādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

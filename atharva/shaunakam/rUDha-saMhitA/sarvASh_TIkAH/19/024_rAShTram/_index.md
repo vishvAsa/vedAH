@@ -1,7 +1,21 @@
 +++
 title = "24. For prosperity: with a certain garment."
+title_whitney = "24. For prosperity: with a certain garment."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रम्।  
+१-८ अथर्वा। ब्रह्मणस्पतिः, बहुदैवत्यम्। अनुष्टुप्, ४-६, ८ त्रिष्टुप्, ७ त्रिपदाऽर्षी गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭāu. mantroktabahudevatyam uta brāhmaṇaspatyam. ānuṣṭubham: 4-6, 8. triṣṭubh; 7. 3-p. ārṣī gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

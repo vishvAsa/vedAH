@@ -1,7 +1,21 @@
 +++
 title = "72. For virile power."
+title_whitney = "72. For virile power."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाजीकरणम्।  
+१-३ अथर्वाङ्गिराः। शेपोऽर्कः। १ जगती, २ अनुष्टुप्, ३ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—śepo ‘rkadcvatyam. ānuṣṭubham: 1. jagatī; 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

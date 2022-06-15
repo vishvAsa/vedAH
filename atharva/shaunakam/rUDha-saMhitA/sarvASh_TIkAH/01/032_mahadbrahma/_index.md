@@ -1,7 +1,21 @@
 +++
 title = "32. Cosmogonic."
+title_whitney = "32. Cosmogonic."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+महद्ब्रह्म।  
+१-४ ब्रह्मा। द्यावापृथिवी। अनुष्टुप्, २ ककुम्मत्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—dyāvāpṛthivīyam. ānuṣṭubham: 2. kakummatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "38 (39). To win and fix a man's love: with a plant."
+title_whitney = "38 (39). To win and fix a man's love: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+केवलः पतिः।  
+१-५ अथर्वा। वनस्पतिः। अनुष्टुप्, ३ चतुष्पदा उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—pañcarcam. vānaspatyam. ānuṣṭubham: 3. 4-p. uṣṇiḥ.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

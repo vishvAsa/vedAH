@@ -1,7 +1,21 @@
 +++
 title = "22. Against yellowness (jaundice)."
+title_whitney = "22. Against yellowness (jaundice)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+हृद्रोग-कामिला-नाशनम्।  
+१-४ ब्रह्मा। सूर्यो, हरिमा हृद्रोगश्च। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—sāuryam uta mantroktaharimadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

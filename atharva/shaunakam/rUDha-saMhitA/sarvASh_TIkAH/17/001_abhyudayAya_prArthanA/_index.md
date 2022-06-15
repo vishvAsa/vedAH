@@ -1,7 +1,26 @@
 +++
 title = "1. Prayer and praise to Indra and the Sun."
+title_whitney = "1. Prayer and praise to Indra and the Sun."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभ्युदयाय प्रार्थना।  
+१-३० ब्रह्मा। आदित्यः। १ जगती; १-८ त्र्यवसाना; १-३ अतिजगती; ६-७, १९ अत्यष्टिः;  
+८, ११, १६ अतिधृतिः; ९ पञ्चपदा शक्वरी; १०-१३, १६, १८-१९, २४ त्र्यवसाना;  
+१० अष्टपदा धृतिः; १२ कृतिः; १३ प्रकृतिः; १४-१५ पञ्चपदा शक्वरी;  
+१७ पञ्चपदा विराडतिशक्वरी; १८ भुरिगष्टिः; २४ विराडत्यष्टिः; १-५ षट्-पदा;  
+११-१३,१६,१८-१९,२४ सप्तपदा; २० ककुप्; २१ चतुष्पदा उपरिष्टाद्बृहती; २२ याजुषी अनुष्टुप्;  
+२३ निचृद् बृहती (२२-२३ द्विपदा) ; २५-२६ अनुष्टुप्; २७, ३०जगती; २८-२९ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ṛcas triṅśat.1 ādityadevatyās. 1. jagatī; 1-8. try-avasāna;4 1-4 ⌊intending 2-5?⌋. atijagatī;2 6, 7, 19. atyaṣṭi;3 8, 11, 16. atidhṛti; 9. 5-p. śakvarī; 10-23, 16, 18-19, 24. try-avasāna;4 10. 8-p. dhṛti; 12. kṛti; 13. prakṛti; 14-15. 5-p. śakvarī; 17. 5-p. virāḍ atiśakvarī; 18. bhurig aṣṭi; 24. virāḍ atyaṣṭi; 1-8 ⌊intending 1-5?⌋. 6-p.; ⌊6-8,⌋ 11-13, 16, 18-19, 24. 7-p.5 20. kakubh; 21. 4-p. upariṣṭādbṛhatī; 22. anuṣṭubh; 23. nicṛd bṛhatī (22-23. yajuṣī dve;6 2-p); 25, 26. anuṣṭubh; 27, 30. jagatī; 28, 29. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

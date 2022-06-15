@@ -1,7 +1,21 @@
 +++
 title = "53 (55). For some one's health and long life."
+title_whitney = "53 (55). For some one's health and long life."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः।  
+१-७ ब्रह्मा। आयुः, बृहस्पतिः अश्विनौ च। १-२ त्रिष्टुप्, ३ भुरिक्, ४ उष्णिग्गर्भार्षी पङ्क्तिः, ५-७ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—saptarcam. āyuṣyam uta bārhaspatyam; āśvinam. trāiṣṭubham: 3. bhurij; 4. uṣṇiggarbhā ”rṣī pan̄kti; 5-7. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

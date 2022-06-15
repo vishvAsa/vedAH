@@ -1,7 +1,21 @@
 +++
 title = "2. Praise and prayer to the waters."
+title_whitney = "2. Praise and prayer to the waters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आपः।  
+१-५ सिन्धुद्वीपः। आपः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Sindhudvīpa.—pañcarcam. āpyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

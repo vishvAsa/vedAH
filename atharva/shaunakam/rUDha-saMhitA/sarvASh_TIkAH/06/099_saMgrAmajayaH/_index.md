@@ -1,7 +1,21 @@
 +++
 title = "99. For safety: to Indra."
+title_whitney = "99. For safety: to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+संग्रामजयः।  
+१-३ अथर्वा। इन्द्रः, सोमः, सविता च। अनुष्टुप्, ३ भुरिग्बृहती (सौम्या सावित्री)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āindram: 3. sāumyā sāvitrī ca. ānuṣṭubham: 3. bhurig bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

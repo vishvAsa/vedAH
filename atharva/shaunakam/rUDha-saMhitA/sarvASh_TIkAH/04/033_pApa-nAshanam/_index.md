@@ -1,7 +1,21 @@
 +++
 title = "33. To Agni: for release from evil."
+title_whitney = "33. To Agni: for release from evil."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाप-नाशनम्  
+१-८ ब्रह्म। पाप्मनाशनोऽग्निः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭarcam. pāpmanyam; āgneyam, gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

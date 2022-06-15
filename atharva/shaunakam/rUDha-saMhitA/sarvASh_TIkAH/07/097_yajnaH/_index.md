@@ -1,7 +1,22 @@
 +++
 title = "97 (102). Accompanying an offering."
+title_whitney = "97 (102). Accompanying an offering."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यज्ञः  
+१-५ अथर्वा। इन्द्राग्नी।त्रिष्टुप्, ५ त्रिपदार्षी भुरिग्गायत्री, ६ त्रिपदा प्राजापत्या बृहती,  
+७ त्रिपदा साम्नी भुरिग्जगती, ८ उपरिष्टाद्बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (yajñasampūrṇakāmaḥ*).—aṣṭarcam. mantroktāindrāgnam. trāiṣṭubham: 5. 3-p. ārcī bhurig gāyatrī; 6. 3-p. prājāpatyā bṛhatī; 7. 3-p. sāmnī bhurig jagatī; 8. upariṣṭād bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

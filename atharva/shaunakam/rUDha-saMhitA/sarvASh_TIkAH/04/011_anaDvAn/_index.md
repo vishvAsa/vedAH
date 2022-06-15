@@ -1,7 +1,21 @@
 +++
 title = "11. In praise of the draft-ox."
+title_whitney = "11. In praise of the draft-ox."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अनड्वान्  
+१-१२ भृग्वङ्गिराः। अनड्वान्, इन्द्रः। त्रिष्टुप्; १, ४ जगति, २ भुरिक्, ७ त्र्यवसाना षट् पदानुष्टुब्गर्भोपरिष्टज्जागतानिचृच्छक्वरी, ८-१२ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—dvādaśarcam. ānaḍuham. trāiṣṭubham: 1, 4. jagatī; 5. bhurij; 7. 3-av. 6-p. anuṣṭubgarbho ’pariṣṭājjāgatā nicṛcchakvarī; 8-12. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

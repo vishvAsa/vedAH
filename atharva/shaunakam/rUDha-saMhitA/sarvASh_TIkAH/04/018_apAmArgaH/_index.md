@@ -1,7 +1,21 @@
 +++
 title = "18. Against witchcraft: with a plant."
+title_whitney = "18. Against witchcraft: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अपामार्गः।  
+१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुष्टुप्, ६ बृहतीगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—(etc.: see under hymn 17). 6. bṛhatīgarbhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

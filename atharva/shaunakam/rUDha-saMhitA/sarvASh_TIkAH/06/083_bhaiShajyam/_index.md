@@ -1,7 +1,21 @@
 +++
 title = "83. To remove apacíts."
+title_whitney = "83. To remove apacíts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भैषज्यम्।  
+१-४ भगः। २ सूर्यः, चन्द्रमाः, २ रोहिणी, ३ रामायणी। अनुष्टुप्, ४ एकावसाना द्विपदा निचृदार्च्यनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—caturṛcam. mantroktadevatyam. ānuṣṭubham: 4. 1-av. 2-p. nicṛd ārcy anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

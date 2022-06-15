@@ -1,7 +1,21 @@
 +++
 title = "55. For various blessings."
+title_whitney = "55. For various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सौमनस्यम्।  
+१-३ ब्रह्म। १ विश्वे देवाः, २-३ रुद्रः। जगती, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (?).—1. vāiśvadevī, jagatī; 2, 3. rāudryāu: 2. triṣṭubh; 3. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

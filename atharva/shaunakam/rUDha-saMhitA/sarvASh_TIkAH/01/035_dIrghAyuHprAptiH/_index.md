@@ -1,7 +1,21 @@
 +++
 title = "35. For long life etc.: with a gold amulet."
+title_whitney = "35. For long life etc.: with a gold amulet."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-४ अथर्वा(आयुष्कामः)। हिरण्यम्, इन्द्राग्नी, विश्वे देवाः। जगती, ४ अनुष्टुब्गर्भा चतुष्पदा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—hāiraṇyam; āindrāgnam uta vāiśvadevam. jāgatam: 4. anuṣṭubgarbhā 4-p. triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

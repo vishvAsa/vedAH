@@ -1,7 +1,21 @@
 +++
 title = "16. The power of the gods."
+title_whitney = "16. The power of the gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सत्यानृतसमीक्षकः।  
+१-९ ब्रह्म। वरुणः, सत्यानृतान्वीक्षणम्। त्रिष्टुप्, १ अनुष्टुप्, ५ भुरिक्, ७ जगति, ८ त्रिपान्महाबृहती, विराण्नाम त्रिपाद्गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—navarcam. satyānṛtānvīkṣaṇasūktam. vāruṇam. trāiṣṭubham: 1. anuṣṭubh; 5. bhurij; 7. jagatī; 8. 3-p. mahābṛhatī; 9. virāṇnāmatripādgāyatr.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "21. The meters."
+title_whitney = "21. The meters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+छन्दांसि।  
+१ ब्रह्मा। छन्दांसि। एकावसाना द्विपदा साम्नी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. chāndasam. 1-av. 2-p. sāmnī bṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

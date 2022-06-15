@@ -1,7 +1,21 @@
 +++
 title = "83 (88). For release from Varuṇa's fetters."
+title_whitney = "83 (88). For release from Varuṇa's fetters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पाशमोचनम्।  
+१-४ शुनःशेपः। वरुणः। अनुष्टुप्, २ पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ बृहतीगर्भा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śunaḥśepa.—caturṛcam. vāruṇam. ānuṣṭubham: 2. pathyāpan̄kti; 3, 4. triṣṭubh (4. bṛhatīgarbkā).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

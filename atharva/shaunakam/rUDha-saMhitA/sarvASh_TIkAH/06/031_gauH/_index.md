@@ -1,7 +1,21 @@
 +++
 title = "31. At rising of the sun (or moon)."
+title_whitney = "31. At rising of the sun (or moon)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गौः।  
+१-३ उपरिबभ्रवः। गौः। गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uparibabhrava.—gavyam. gāyatram.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

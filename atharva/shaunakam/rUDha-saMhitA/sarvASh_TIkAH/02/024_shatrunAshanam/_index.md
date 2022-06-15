@@ -1,7 +1,21 @@
 +++
 title = "24. Against kimīdíns, male and female."
+title_whitney = "24. Against kimīdíns, male and female."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-८ ब्रह्मा। आयुष्यम्। पङ्क्तिः, १-२ पुरउष्णिक्, ३-४ पुरोदेवत्या पङ्क्तिः(१-४ विराट्), ५-८ पञ्चपदा पथ्यापङ्क्तिः (५ भुरिक्, ६-७ निचृत्, ५ चतुष्पदा बृहती, ७-८ भुरिक्)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭarcam. āyuṣyam. pān̄ktam....]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "23. For fecundity."
+title_whitney = "23. For fecundity."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वीर-प्रसूतिः।  
+१-६ ब्रह्मा। चन्द्रमा, योनिः, द्यावापृथिवी। अनुष्टुप्, ५ उपरिष्टाद् भुरिग्बृहती, ६ स्कंधोग्रीवी बृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—cāndramasam uta yonidevatyam. ānuṣṭubham: 5. upariṣṭābhurigbṛhatī; 6. skandhogrīvībṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,23 @@
 +++
 title = "2. To Kāma: for various blessings."
+title_whitney = "2. To Kāma: for various blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+कामः  
+१-२५ अथर्वा। कामः। त्रिष्टुप्, ५ अतिजगती, ७, १४-१५, १७-१८, २१-२२ जगती,  
+८ द्विपदा आर्षी पङ्क्तिः ११, २०, २३ भुरिक्, १२ अनुष्टुप्, १३ द्विपदार्ची अनुष्टुप्,  
+१६ चतुष्पदा शक्वरीगर्भा परा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—pañcaviṅśakam. kāmadevatyam. trāiṣṭubham: 5. atijagatī; 7. jagatī; 8. 2-p. ārcī pan̄kti; 11, 20, 23. bhurij; 12. anuṣṭubh; 13. 2-p. ārcy anuṣṭubh; 14, 15, 17, 18, 21, 22. jagatī; 16. 4-p. śakvarīgarbhā parājagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

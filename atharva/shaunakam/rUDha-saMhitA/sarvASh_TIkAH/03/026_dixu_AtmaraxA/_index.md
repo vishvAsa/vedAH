@@ -1,7 +1,21 @@
 +++
 title = "26. Homage to the gods of the quarters etc. ⌊snake charms?⌋."
+title_whitney = "26. Homage to the gods of the quarters etc. ⌊snake charms?⌋."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दिक्षु आत्मरक्षा।  
+१-६ अथर्वा। रुद्रः, दिशः, १ साग्नयो हेतवः, २ सकामा आविष्यवः, ३ वैराजः, ४ सवाताः, प्राविध्यन्तः, ५ सौषधिका निलिम्पा, ६ बृहस्पतियुता अवस्वन्तः। त्रिष्टुप्, २, ५, ६ जगती, ३, ४ भुरिक्, १-६ पञ्चपदा विपरीतपादलक्ष्मा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—rāudram; pratyṛcam agnyādibahudevatyam. ⌊trāiṣṭubham:⌋ 1-6. 5-p. viparītapādalakṣmyā ⌊?⌋: 1. triṣṭubh; 2, 5, 6. jagatī; 3, 4. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

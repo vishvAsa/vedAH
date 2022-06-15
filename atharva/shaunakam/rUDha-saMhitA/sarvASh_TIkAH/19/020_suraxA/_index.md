@@ -1,7 +1,21 @@
 +++
 title = "20. For protection by various gods."
+title_whitney = "20. For protection by various gods."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुरक्षा।  
+१-४ अथर्वा। बहुदैवत्यम्। १ त्रिष्टुप्, २ जगती, ३ पुरस्ताद्बृहती, ४ अनुष्टुगर्भा।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—bahudevatyam. trāiṣṭubham: 2. jagatī; 3. purastādbṛhatī; 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

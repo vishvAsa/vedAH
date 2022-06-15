@@ -1,7 +1,21 @@
 +++
 title = "5. To the waters: for blessings."
+title_whitney = "5. To the waters: for blessings."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अपां भेषजम्।  
+१-४ सिन्धुद्वीपः।(अपांनपात्, सोमः,) आपः। गायत्री, ४ वर्धमाना।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Sindhudvīpa.—(etc., as 4).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

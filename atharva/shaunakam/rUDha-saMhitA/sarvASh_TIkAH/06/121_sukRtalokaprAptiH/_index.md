@@ -1,7 +1,21 @@
 +++
 title = "121. For release from evil."
+title_whitney = "121. For release from evil."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुकृतलोकप्राप्तिः  
+-४ कौशिकः। अग्निः, ३ तारके। १-२ त्रिष्टुप्, ३-४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāuśika.—[caturṛcam.] mantroktadevatyam. 1, 2. triṣṭubh; 3, 4. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

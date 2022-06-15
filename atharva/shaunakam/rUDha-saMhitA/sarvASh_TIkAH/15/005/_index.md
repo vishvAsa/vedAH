@@ -1,7 +1,23 @@
 +++
 title = "5. Paryāya the fifth."
+title_whitney = "5. Paryāya the fifth."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+१-२१ अथर्वा। रुद्रः। १ त्रिपदा समविषमा गायत्री; २ त्रिपदा भुरिगार्ची त्रिष्टुप्;  
+३,६, ९,१२,१५,१८,२१ द्विपदा प्राजापत्याऽनुष्टुप्; ४ त्रिपदा स्वराट् प्राजापत्या पङ्क्तिः;  
+५,८,११,१७ त्रिपदा ब्राह्मी गायत्री; ७, १०, १६ त्रिपदा ककुप्; १३, १९ भुरिग् विषमा गायत्री;  
+१४ निचृद्ब्राह्मी गायत्री; २० विराट्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[ṣoḍaśa. mantroktarudradevatyāk. 1 a. 3-p. samaviṣamā gāyatrī; 1 b. 3-p. bhurig ārcī triṣṭubh; c of 1-7. 2-p. prājāpatyā ’nuṣṭubh; 2 a. 3-p. svarāṭ prājāpatyā pan̄kti; b of 2-4, 6. 3-p. brāhmī gāyatrī; a of 3, 4, 6. 3-p. kakubh; a of 5, 7. bhurig viṣamā gāyatrī; 5 b. nicṛd brāhmī gāyatrī; 7 b. virāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "30. For protection etc.: with an amulet of darbhá."
+title_whitney = "30. For protection etc.: with an amulet of darbhá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दर्भमणिः।  
+१-५ ब्रह्मा। दर्भमणिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[As 28. pañcakam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

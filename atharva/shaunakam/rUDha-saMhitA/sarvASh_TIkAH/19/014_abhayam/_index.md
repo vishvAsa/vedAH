@@ -1,7 +1,21 @@
 +++
 title = "14. For safety."
+title_whitney = "14. For safety."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अभयम्।  
+१ अथर्वा। द्यावापृथिवी। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ekarcam . dyāvāpṛthivīyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

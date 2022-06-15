@@ -1,7 +1,21 @@
 +++
 title = "84. For release from perdition."
+title_whitney = "84. For release from perdition."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+निर्ऋतिमोचनम्।  
+१-४ भगः।निर्ऋतिः। १ भुरिग्जगती, २ त्रिपदार्षी बृहती, ३ जगती, ४ भुरिक् त्रिष्टुप् (जगती)
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—caturṛcam. nāirṛtam. 1. bhurig jagatī; 2. 3-p. ārcī bṛhatī; 3, 4. jagatī; 4. bhurik triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

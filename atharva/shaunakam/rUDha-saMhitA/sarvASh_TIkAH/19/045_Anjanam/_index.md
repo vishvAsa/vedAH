@@ -1,7 +1,21 @@
 +++
 title = "45. With an ointment etc.: for various objects."
+title_whitney = "45. With an ointment etc.: for various objects."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आञ्जनम्।  
+१-१० भृगुः। आञ्जनम्, मन्त्रोक्ताः। १-२ अनुष्टुप्, ३-४ त्रिष्टुप्, ६-१० एकावसाना महाबृहती ( ६ विराट् ७-१० निचृत्)।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—daśa. 1-5. āñjanadevatyam; 6-10. mantroktadevatyam. 1, 2. anuṣṭubh; 3-5. triṣṭubh; 6-10. 1-av. mahābṛhatī (6. virāj; 7-10. nicṛṭ).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

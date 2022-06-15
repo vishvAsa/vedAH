@@ -1,7 +1,21 @@
 +++
 title = "37 (38). The wife to the husband."
+title_whitney = "37 (38). The wife to the husband."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वासः।  
+१ अथर्वा। वासः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—lin̄goktadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

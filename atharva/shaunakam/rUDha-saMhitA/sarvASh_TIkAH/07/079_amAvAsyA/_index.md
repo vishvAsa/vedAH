@@ -1,7 +1,21 @@
 +++
 title = "79 (84). To Amāvāsyā (night or goddess of new moon)."
+title_whitney = "79 (84). To Amāvāsyā (night or goddess of new moon)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अमावास्या।  
+१-४ अथर्वा। अमावास्या। त्रिष्टुप्, १ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. amāvāsyādevatākam. trāiṣṭubham: 1. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

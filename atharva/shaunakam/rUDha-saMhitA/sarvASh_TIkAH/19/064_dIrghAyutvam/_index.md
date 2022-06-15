@@ -1,7 +1,21 @@
 +++
 title = "64. To Agni: with fuel."
+title_whitney = "64. To Agni: with fuel."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुत्वम्।  
+१-४ ब्रह्मा। अग्निः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—caturṛcam. āgneyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

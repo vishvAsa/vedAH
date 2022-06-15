@@ -1,7 +1,21 @@
 +++
 title = "61. For length of life etc."
+title_whitney = "61. For length of life etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पूर्णायुः।  
+१ ब्रह्मा। ब्रह्मणस्पतिः। विराट् पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. brāhmaṇaspatyam. virāṭ pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

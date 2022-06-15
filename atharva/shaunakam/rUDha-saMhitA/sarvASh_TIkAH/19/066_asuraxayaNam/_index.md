@@ -1,7 +1,21 @@
 +++
 title = "66. To Agni: for aid."
+title_whitney = "66. To Agni: for aid."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+असुरक्षयणम्।  
+१ ब्रह्मा। जातवेदाः सूर्यो वज्रश्च। अतिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. jātavedasam; sāuryam; vajradevatyam. atijāgatam.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

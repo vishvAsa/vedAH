@@ -1,7 +1,21 @@
 +++
 title = "61. Prayer and boasts."
+title_whitney = "61. Prayer and boasts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विश्वस्रष्टा।  
+१-३ अथर्वा। रुद्रः। १ त्रिष्टुप्, २-३ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (?).—rāudram. trāiṣṭubham: 2, 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

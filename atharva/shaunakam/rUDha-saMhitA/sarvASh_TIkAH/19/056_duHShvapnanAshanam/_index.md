@@ -1,7 +1,21 @@
 +++
 title = "56. To sleep (or dream)."
+title_whitney = "56. To sleep (or dream)."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःष्वप्ननाशनम्।  
+१-६ यमः। दुःष्वप्ननाशनम्। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Yama.—ṣaṭkam. dāuṣvapnyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

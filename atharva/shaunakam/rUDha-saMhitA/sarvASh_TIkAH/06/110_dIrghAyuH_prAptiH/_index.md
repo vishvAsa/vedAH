@@ -1,7 +1,21 @@
 +++
 title = "110. For a child born at an unlucky time."
+title_whitney = "110. For a child born at an unlucky time."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुः प्राप्तिः।  
+१-३ अथर्वा। अग्निः। त्रिष्टुप्, १ पङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āgneyam. trāiṣtubham: 1. pan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

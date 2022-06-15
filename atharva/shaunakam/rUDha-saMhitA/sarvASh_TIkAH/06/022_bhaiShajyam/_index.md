@@ -1,7 +1,21 @@
 +++
 title = "22. To the Maruts."
+title_whitney = "22. To the Maruts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+भैषज्यम्।  
+१-३ शन्तातिः। १ आदित्यरश्मिः, २-३ मरुतः। त्रिष्टुप्, २ चतुष्पदा भुरिग्जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śaṁtāti.—ādityaraśmidevatya[m]. mārutam. trāiṣṭubham: 2. 4-p. bhurigjagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

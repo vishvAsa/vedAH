@@ -1,7 +1,22 @@
 +++
 title = "8. Against various diseases."
+title_whitney = "8. Against various diseases."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनिवारणम्।  
+१-२२ भृग्वङ्गिराः। सर्वशीर्षामयाद्यपाकरणम्। अनुष्टुप्, १२ अनुष्टुब्गर्भा ककुम्मती चतुष्पदोष्णिक्,  
+१५ विराडनुष्टुप्, २१ विराट् पथ्याबृहती, २२ पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—dvāviṅśakam. ⌊anena⌋ sarvaśīrṣāmayādyāmayam ⌊apākarot⌋. ānuṣṭubham: 12. anuṣṭuhgarbhā kakummatī 4-p. uṣṇih; 15. virāḍ anuṣṭubh; 21. virāṭ pathyābṛhatī; 22. pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

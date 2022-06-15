@@ -1,7 +1,21 @@
 +++
 title = "119. For relief from guilt or obligation."
+title_whitney = "119. For relief from guilt or obligation."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आनृण्यम्।  
+१-३ कौशिकः। वैश्वानरोऽग्निः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

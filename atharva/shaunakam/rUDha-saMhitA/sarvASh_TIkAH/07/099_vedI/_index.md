@@ -1,7 +1,21 @@
 +++
 title = "99 (104). When bestrewing the védi."
+title_whitney = "99 (104). When bestrewing the védi."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वेदी।  
+१ अथर्वा। वेदी। भुरिक् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

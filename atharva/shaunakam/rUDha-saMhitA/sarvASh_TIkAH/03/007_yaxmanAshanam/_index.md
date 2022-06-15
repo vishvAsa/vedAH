@@ -1,7 +1,21 @@
 +++
 title = "7. Against the disease kṣetriyá."
+title_whitney = "7. Against the disease kṣetriyá."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+यक्ष्मनाशनम्।  
+१-७ भृग्वङ्गिराः। १-३ हरिणः, ४ तारके, ५ आपः, ६-७ यक्ष्मनाशनम्। अनुष्टुप्, ६ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—saptarcam. yakṣmanāśanadāivatam uta bahudevatyam. ānuṣṭubham: 6. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

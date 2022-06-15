@@ -1,7 +1,21 @@
 +++
 title = "128. For auspicious time: with dung-smoke."
+title_whitney = "128. For auspicious time: with dung-smoke."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राजा  
+१-४ अङ्गिराः। सोमः, शकधूमः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras (nakṣatrarājānam candramasam astāut).—caturṛcam. sāumyam; śakadhūmadevatyam. ānuṣṭubham.']]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

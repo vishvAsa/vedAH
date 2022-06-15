@@ -1,7 +1,21 @@
 +++
 title = "21 (22). In praise of the sun."
+title_whitney = "21 (22). In praise of the sun."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+एको विभुः।  
+१ ब्रह्म। आत्मा। शक्वरी विराड्-गर्भा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—mantroktātmadevatyam. śakvarīvirāḍgarbhā jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

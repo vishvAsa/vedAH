@@ -1,7 +1,21 @@
 +++
 title = "100 (105). Against bad dreams."
+title_whitney = "100 (105). Against bad dreams."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दुःष्वप्ननाशनम्।  
+१ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "27. For victory in disputation: with a plant."
+title_whitney = "27. For victory in disputation: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुपराजयः।  
+१-७ कपिञ्जलः। १-५ वनस्पतिः, ६ रुद्रः, ७ इन्द्रः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kapiñjala.—saptarcam. vānaspatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

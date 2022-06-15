@@ -1,7 +1,21 @@
 +++
 title = "18. Against unlucky marks."
+title_whitney = "18. Against unlucky marks."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अलक्ष्मीनाशनम्।  
+१-४ द्रविणोदाः। विनायकः(२ सविता, वरुणः, मित्रः, अर्यमा, देवाः, ३ सविता)। १ विराडुपरिष्टाद् बृहती, २ निचृज्जगती, ३ विराडास्तार पङ्क्तिस्त्रिष्टुप्, ४ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Draviṇodas.—vāināyakam. ānuṣṭubham: 1. upariṣṭādvirāḍbrṛatT; 2. nicṛjjagatī; 3. virāḍāstārapan̄ktitriṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

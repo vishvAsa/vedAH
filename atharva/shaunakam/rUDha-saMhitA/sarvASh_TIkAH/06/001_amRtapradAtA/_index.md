@@ -1,7 +1,21 @@
 +++
 title = "1. Praise to Savitar."
+title_whitney = "1. Praise to Savitar."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अमृतप्रदाता  
+१-३ अथर्वा। सविता। उष्णिक्, १ त्रिपदा पिपिलिकमध्या साम्नी जगती, २-३ पिपीलिकमध्या पुरउष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāvitram. āuṣṇiham: 1. 3-p. pipīlikamadhyā sāmnī jagatī; 2, 3. pipīlihamadhyā purauṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

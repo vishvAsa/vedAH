@@ -1,7 +1,21 @@
 +++
 title = "8. For well-being: to the asterisms etc."
+title_whitney = "8. For well-being: to the asterisms etc."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+नक्षत्राणी।  
+१-७ गार्ग्यः। नक्षत्राणी, …. ब्रह्मणस्पतिः। त्रिष्टुप्, १ विराड् जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Gārgya.—sapta. mantroktanakṣatradevatyam (6. brāhmaṇaspatyā). trāiṣṭubham: 1. virāḍ jagatī; 6. 3-av. 6-p. atijagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "6. Against the poison of a poisoned arrow."
+title_whitney = "6. Against the poison of a poisoned arrow."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विषघ्नम्।  
+१-८ गरत्मान्। तक्षकः, १ ब्राह्मणः, २ द्यावापृथिवी, सप्तसिन्धवः, ३ सुपर्णः, ४-८ विषम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Garutman.—aṣṭarcam. takṣakadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

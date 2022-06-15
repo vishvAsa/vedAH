@@ -1,7 +1,21 @@
 +++
 title = "3. Against wild beasts and thieves."
+title_whitney = "3. Against wild beasts and thieves."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्  
+१-७ अथर्वा । रुद्रः, व्याघ्रः । अनुष्टुप्, १ पथ्यापङ्क्तिः, ३ गायत्री, ७ ककुम्मतीगर्भोपरिष्टाद् बृहती ।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—rāudram uta vyāghradevatyam. ānuṣṭubham: 1. pathyāpan̄kti; 3. gāyatrī; 7. kakummatīgarbho 'pariṭādbṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

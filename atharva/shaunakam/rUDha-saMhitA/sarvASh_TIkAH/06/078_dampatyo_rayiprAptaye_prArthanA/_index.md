@@ -1,7 +1,21 @@
 +++
 title = "78. For matrimonial happiness."
+title_whitney = "78. For matrimonial happiness."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दम्पत्यो रयिप्राप्तये प्रार्थना।  
+१-३ अथर्वा। १-२ चन्द्रमाः, ३ त्वष्टा। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—1, 2. cāndramasyāu; 3. tvāṣṭrī. 1-3. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

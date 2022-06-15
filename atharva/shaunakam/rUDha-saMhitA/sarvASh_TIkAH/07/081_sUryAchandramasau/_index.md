@@ -1,7 +1,21 @@
 +++
 title = "81 (86). To the sun and moon."
+title_whitney = "81 (86). To the sun and moon."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सूर्याचन्द्रमसौ।  
+१-६ अथर्वा। सावित्री, सूर्यः, चन्द्रमाः। त्रिष्टुप्, ३ अनुष्टुप्, ४ आस्तारपङ्क्तिः, ५ सम्राडास्तारपङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ṣaḍṛcam. sāvitrīsūryacādramasam. trāiṣṭubham: 3. anuṣṭubh; 4, 5. āstārapan̄kti (5. samrāj).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

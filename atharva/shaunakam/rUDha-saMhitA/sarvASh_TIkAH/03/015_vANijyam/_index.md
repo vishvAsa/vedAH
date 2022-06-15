@@ -1,7 +1,21 @@
 +++
 title = "15. For success in trade."
+title_whitney = "15. For success in trade."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वाणिज्यम्।  
+१-८ अथर्वा (पण्यकामः)। विश्वे देवाः, इन्द्राग्नी। त्रिष्टुप्,१ भुरिक्, ४ त्र्यवसाना षट् पदा बृहतीगर्भा विराडत्यष्टिः, ५ विराड्जगती, ७ अनुष्टुप्, ८ निचृत्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (paṇyakāmaḥ).—aṣṭarcam. vāiśvadevam utāi ”ndrāgnam. trāiṣṭubham: 1. bhurij; 4. 3-av. 6-p. bṛhatīgarbhā virāḍatyaṣṭi; 5. virāḍjagatī; 7. anuṣṭubh; 8. nicṛt.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

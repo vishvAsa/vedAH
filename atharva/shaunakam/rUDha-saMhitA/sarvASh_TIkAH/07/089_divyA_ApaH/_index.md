@@ -1,7 +1,21 @@
 +++
 title = "89 (94). To Agni and the waters."
+title_whitney = "89 (94). To Agni and the waters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दिव्या आपः।  
+१-४ सिन्धुद्वीपः। अग्निः। अनुष्टुप्, ४ त्रिपदा निचृत् परोष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Sindhudvīpa.—caturṛcam. āgneyam. ānuṣṭubham: 4. 3-p. nicṛtparoṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

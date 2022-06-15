@@ -1,7 +1,21 @@
 +++
 title = "62. For popularity."
+title_whitney = "62. For popularity."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सर्वप्रियत्वम्।  
+१ ब्रह्मा। ब्रह्मणस्पतिः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman (etc., as 61).—anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

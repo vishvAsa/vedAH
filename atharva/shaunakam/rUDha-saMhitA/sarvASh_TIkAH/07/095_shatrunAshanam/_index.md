@@ -1,7 +1,21 @@
 +++
 title = "95 (100) A spell against some one."
+title_whitney = "95 (100) A spell against some one."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ कपिञ्जलः। गृध्रौ। अनुष्टुप्, २-३ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Kapiñjala.—tṛcam. mantroktagṛdhradevatyam. ānuṣṭubham: 2, 3. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

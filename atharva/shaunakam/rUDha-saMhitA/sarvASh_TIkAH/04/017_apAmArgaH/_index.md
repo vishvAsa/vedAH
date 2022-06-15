@@ -1,7 +1,21 @@
 +++
 title = "17. Against various evils: with a plant."
+title_whitney = "17. Against various evils: with a plant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अपामार्गः।  
+१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुषटुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śukra.—caturviṅśarcaṁ trayaṁ sūktānām. apāmārgavanaspatidevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

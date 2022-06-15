@@ -1,7 +1,21 @@
 +++
 title = "25. Against fever"
+title_whitney = "25. Against fever"
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ज्वर-नाशनम्।  
+१-४ भृग्वङ्गिराः । यक्ष्मनाशनोऽग्निः। त्रिष्टुप्,२-३ विराड् गर्भा, ४पुरोऽनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgvan̄giras.—yakṣmanāśanānidāivatam. trāiṣṭubham: 2, 3. virāḍgarbhā; 4. puro 'nuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

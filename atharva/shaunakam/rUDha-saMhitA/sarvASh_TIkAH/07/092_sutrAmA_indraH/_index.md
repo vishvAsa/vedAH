@@ -1,7 +1,21 @@
 +++
 title = "92 (97). To Indra: for aid."
+title_whitney = "92 (97). To Indra: for aid."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सुत्रामा इन्द्रः।  
+१ अथर्वा। चन्द्रमाः (इन्द्रः)। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (etc. as hymn 91).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "41. For some one's welfare."
+title_whitney = "41. For some one's welfare."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रं बलमोजश्च।  
+१ ब्रह्मा। तपः। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. mantroktatapodevatyam. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

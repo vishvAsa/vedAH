@@ -1,7 +1,21 @@
 +++
 title = "111. For relief from insanity."
+title_whitney = "111. For relief from insanity."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+उन्मत्ततामोचनम्।  
+१-४ अथर्वा। अग्निः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—caturṛcam. āgneyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

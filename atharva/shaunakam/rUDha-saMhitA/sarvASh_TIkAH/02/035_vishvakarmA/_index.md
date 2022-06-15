@@ -1,7 +1,21 @@
 +++
 title = "35. To expiate errors in the sacrifice: to Viśvakarman."
+title_whitney = "35. To expiate errors in the sacrifice: to Viśvakarman."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विश्वकर्मा।  
+१-५ अङ्गिराः। विश्वकर्मा। त्रिष्टुप्, १ बृहतीगर्भा, ४-५ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.-—vāiśvakarmaṇam. trāiṣṭubham: 1. bṛhatīgarbhā; 4, 5. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

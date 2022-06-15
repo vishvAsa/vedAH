@@ -1,7 +1,21 @@
 +++
 title = "68 (70, 71). Praise and prayer to Sarasvatī."
+title_whitney = "68 (70, 71). Praise and prayer to Sarasvatī."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सरस्वती।  
+१-३ शन्तातिः। सरस्वती। १ अनुष्टुप्, २ त्रिष्टुप्, ३ गायत्री।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[1-2. Caṁtāti.—dvyṛcam. sārasvatam. 1. anuṣṭubh; 2. triṣṭubh.—3. śaṁtāti.—sārasvatam. gāyatrī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

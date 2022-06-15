@@ -1,7 +1,21 @@
 +++
 title = "25. For relief from pains (?) in neck and shoulders."
+title_whitney = "25. For relief from pains (?) in neck and shoulders."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+मन्याविनाशनम्  
+१-३ शुनःशेपः। मन्याविनाशनम्। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śunaḥśepa.—mantroktamanyā[di]vināśanadevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

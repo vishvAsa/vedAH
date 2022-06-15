@@ -1,7 +1,21 @@
 +++
 title = "68. With ceremonial performance."
+title_whitney = "68. With ceremonial performance."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वेदोक्तं कर्म।  
+१ ब्रह्मा। कर्म। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—ekarcam. mantroktakarmamātradevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "5. For some one's exaltation."
+title_whitney = "5. For some one's exaltation."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+वर्चः प्राप्तिः  
+१-३ अथर्वा। १ अग्निः, २ इन्द्रः, ३ अग्निः, सोमः, ब्रह्मणस्पतिः। अनुष्टुप्, २ भुरिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—āindrāgnam. ānuṣṭubham: 2. bhurij.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

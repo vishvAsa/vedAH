@@ -1,7 +1,21 @@
 +++
 title = "27. Praise and prayer to the Maruts."
+title_whitney = "27. Praise and prayer to the Maruts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+पापमोचनम् ।  
+१-७ मृगारः। मरुतः। त्रिषटुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mṛgāra.—(see h. 23).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

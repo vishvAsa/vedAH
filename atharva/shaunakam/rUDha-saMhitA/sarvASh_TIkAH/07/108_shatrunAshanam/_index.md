@@ -1,7 +1,21 @@
 +++
 title = "108 (113). Against enemies: to Agni."
+title_whitney = "108 (113). Against enemies: to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-२ भृगुः। अग्निः। १ बृहतीगर्भा त्रिष्टुप्, २ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu.—dvyṛcam. āgneyam. trāiṣṭubham: 1. bṛhatīgarbhā.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

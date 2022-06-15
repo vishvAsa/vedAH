@@ -1,7 +1,21 @@
 +++
 title = "18. The Brahman's cow."
+title_whitney = "18. The Brahman's cow."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मरावी  
+१-१५ मयोभूः। ब्रह्मगवी। अनुष्टुप्, ४ भुरिक् त्रिष्टुप्, ५,८-९,१३ त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mayobhū.—pañcadaśakam. brahmagavīdevatyam. ānuṣṭubham: 4, 5, 8, 9, 13. triṣṭubh (4. bhurij).]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,22 @@
 +++
 title = "8. For authority."
+title_whitney = "8. For authority."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+राष्ट्रधारणम्।  
+१-६ अथर्वा। १ मित्रः, पृथिवी, वरुणः, वायुः, अग्निः, २ धाता, सविता, इन्द्रः, त्वष्टा, अदितिः, ३ सोमः, सविता, आदित्यः, अग्निः, ४ विश्वे देवाः, ५-६ सांमनस्यम्।  
+त्रिष्टुप्, २-३ जगती, ४ चतुष्पदा विराड् बृहतीगर्भा, ५ अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—māitram uta vāiśvadevam. trāiṣṭubham: 2, 6. jagatī; 4. 4-p. virāḍbṛhatīgarbhā; 5. anuṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

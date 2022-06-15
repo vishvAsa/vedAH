@@ -1,7 +1,21 @@
 +++
 title = "25. To a horse."
+title_whitney = "25. To a horse."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अश्वः।  
+१ गोपथः। वाजी। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Gopatha.—ekarcam. vājidevatyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

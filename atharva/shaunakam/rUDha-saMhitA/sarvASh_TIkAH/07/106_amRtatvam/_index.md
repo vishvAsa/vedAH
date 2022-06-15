@@ -1,7 +1,21 @@
 +++
 title = "106 (111). Deprecation for offenses."
+title_whitney = "106 (111). Deprecation for offenses."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अमृतत्वम्।  
+१ अथर्वा। जातवेदा वरुणश्च। बृहतीगर्भा त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—mantroktadāivatam uta jātavedasam (c, d, vāruṇam). bṛhatīgarbhā triṣṭubh.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

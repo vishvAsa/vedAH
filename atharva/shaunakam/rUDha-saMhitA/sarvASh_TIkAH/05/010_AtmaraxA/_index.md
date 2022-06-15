@@ -1,7 +1,21 @@
 +++
 title = "10. For defense from all quarters."
+title_whitney = "10. For defense from all quarters."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+आत्मरक्षा  
+१-८ ब्रह्म। वास्तोष्पतिः। १-६ यवमध्या त्रिपदा गायत्री, ७ यवमध्या ककुप्, ८ पुरोधृतिद्व्यनुष्टुब्गर्भा पराष्टिस्त्र्यवसाना चतुष्पदातिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—aṣṭakam. vāstoṣpatyam. 1-6. yavamadhyā 3-p. gāyatrī; 7. yavamadhyā kakubh; 8. purodhṛtidvyanuṣṭubgarbhā parāṣṭi 3-av. 4-p. atijagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

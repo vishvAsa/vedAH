@@ -1,7 +1,22 @@
 +++
 title = "9. Mystic: extolling the virā́j."
+title_whitney = "9. Mystic: extolling the virā́j."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+विराट्।  
+१-२६ अथर्वा। कश्यपः, सर्वे ऋषयः, छन्दांसी च, विराट्। त्रिष्टुप्, २ पङ्क्तिः, ३ आस्तारपङ्क्तिः,  
+४-५, २३, २५-२६ अनुष्टुप्, ८, ११-१२, २२ जगती, ९ भुरिक्, १४ चतुष्पदातिजगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—ṣaḍviṅśam. kāśyapeyam uta sarvārṣaṁ chāndasam. trāiṣṭubham: 2, 3. pan̄kti (3. āstārapan̄kti); 4, 5, 23, 25, [26]. anuṣṭubh; 8, 11, 12, 22. jagatī; 9. bhurij; 14. 4p. atijagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

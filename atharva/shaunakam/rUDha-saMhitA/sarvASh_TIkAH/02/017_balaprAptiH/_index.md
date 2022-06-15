@@ -1,7 +1,21 @@
 +++
 title = "17. For various gifts."
+title_whitney = "17. For various gifts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+बलप्राप्तिः।  
+१-७ ब्रह्मा। प्राणः, अपानः, आयुः। (एकावसानम्) १-६ एकपदासुरी त्रिष्टुप्, ७ आसुरी उष्णिक्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—saptarcam. prāṇāpānāyurdevatyam. ekāvasānam: 1-6. 1-p. āsurī triṣṭubh; 7. āsury uṣṇih.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

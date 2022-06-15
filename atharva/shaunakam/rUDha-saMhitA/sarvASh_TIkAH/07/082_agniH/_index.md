@@ -1,7 +1,21 @@
 +++
 title = "82 (87). Praise and prayer to Agni."
+title_whitney = "82 (87). Praise and prayer to Agni."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अग्निः।  
+१-६ शौनकः (संपत्कामः)। अग्निः। त्रिष्टुप्, २ ककुम्मती बृहती, ३ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[śāunaka (sampatkāmaḥ).—ṣaḍṛcam. āgneyam. trāiṣṭubham: 2. kakummatī bṛhatī; 3. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

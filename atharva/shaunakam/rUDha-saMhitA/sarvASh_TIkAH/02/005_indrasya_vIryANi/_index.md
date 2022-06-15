@@ -1,7 +1,21 @@
 +++
 title = "5. Praise and prayer to Indra."
+title_whitney = "5. Praise and prayer to Indra."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+इन्द्रस्य वीर्याणि।  
+१-७ भृगुराथर्वणः। इन्द्रः। त्रिष्टुप्, १ उपरिष्टान्निचृद् बृहती, २ उपरिष्टाद्विराड् बृहती,३ विराट् पथ्या बृहती, ४ जगती पुरोविराट्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Bhṛgu Ātharvaṇa.—saptarcam. āindram. trāiṣṭubham: 1, 2. upariṣṭād bṛhatī (1. nicṛt; 2. virāj); 3. virāṭpathyābṛhatī; 4. jagatī purovirāj.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

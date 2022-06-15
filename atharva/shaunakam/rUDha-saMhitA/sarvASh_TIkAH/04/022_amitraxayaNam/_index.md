@@ -1,7 +1,21 @@
 +++
 title = "22. For the success and prosperity of a king."
+title_whitney = "22. For the success and prosperity of a king."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अमित्रक्षयणम्।  
+१-७ वसिषठः, अथर्वा वा। क्षत्रियो राजा, इन्द्रश्च। त्रिष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Vasiṣṭha (? Atharvan?).—āindram. trāiṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,20 @@
 +++
 title = "34. Extolling a certain rice-mess offering."
+title_whitney = "34. Extolling a certain rice-mess offering."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+ब्रह्मौदनम्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—aṣṭarcam. brahmāsyāudanam. trāiṣṭubham: 4. bhurij; 5. 3-av. 7-p. kṛti; 6. 5-p. atiśakvarī; 7. bhurikśakvarī; 8. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

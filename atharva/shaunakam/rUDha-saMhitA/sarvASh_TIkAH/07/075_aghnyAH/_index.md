@@ -1,7 +1,21 @@
 +++
 title = "75 (79). Praise and prayer to the kine."
+title_whitney = "75 (79). Praise and prayer to the kine."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+अघ्न्याः।  
+१-२ उपरिबभ्रबः। अघ्न्याः। १ त्रिष्टुप्, २ त्र्यवसाना पञ्चपदा भुरिक् पथ्यापङ्क्तिः।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Uparibabhrava.—dvyṛcam. āghnyam. trāiṣṭubham: 2. 3-av. bhurik pathyāpan̄kti.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

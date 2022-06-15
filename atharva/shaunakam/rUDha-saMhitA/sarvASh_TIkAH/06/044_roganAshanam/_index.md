@@ -1,7 +1,21 @@
 +++
 title = "44. For cessation of a disease."
+title_whitney = "44. For cessation of a disease."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+रोगनाशनम्।  
+१-३ विश्वामित्रः। वनस्पतिः। अनुष्टुप्, ३ त्रिपदा महाबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Viśvāmitra.—mantroktadevatyam uta vānaspatyam. ānuṣṭubham: 3. 3-p. mahābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

@@ -1,7 +1,21 @@
 +++
 title = "13. For welfare and long life of an infant."
+title_whitney = "13. For welfare and long life of an infant."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+दीर्घायुःप्राप्तिः।  
+१-५ अथर्वा। अग्निः, २-३ बृहस्पतिः, ४-५ विश्वे देवाः। त्रिष्टुप्, ४ अनुष्टुप्, ५ विराड् जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—bahudevatyam utā ”gneyam. trāiṣṭubham: 4. anuṣṭubh; 5. virāḍjagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

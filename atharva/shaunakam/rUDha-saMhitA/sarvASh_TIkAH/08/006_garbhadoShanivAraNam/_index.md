@@ -1,7 +1,22 @@
 +++
 title = "6. To guard a pregnant woman from demons."
+title_whitney = "6. To guard a pregnant woman from demons."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+गर्भदोषनिवारणम्।  
+१-२६ मातृनामा। मन्त्रोक्ताः, मातृनामा, १५ ब्रह्मणस्पतिः। अनुष्टुप्, २ पुरस्ताद्बृहती, १० त्र्यवसाना  
+षट्-पदा जगती, ११,१२,१४,१६ पथ्यापङ्क्तिः, १५ त्र्यवसाना सप्तपदा शक्वरी, १७ त्र्यवसाना सप्तपदा जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Mātṛnāman.—ṣaḍviṅśam. mātṛnāmādevatyam uta mantroktadevatyam. ānuṣṭubham: 2.purastādbṛhatī; 10. 3-av. 6-p. jagatī; 11, 12, 14, 16. pathyāpan̄kti; 15. 3-av. 7-p. śakvarī brāhmaṇaspatyā; 17. tathā jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

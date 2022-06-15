@@ -1,7 +1,21 @@
 +++
 title = "117 (122). Invitation to India."
+title_whitney = "117 (122). Invitation to India."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनिवारणम्।  
+१ अथर्वाङ्गिराः। इन्द्रः। पथ्याबृहती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvān̄giras.—āindram. pathyābṛhatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

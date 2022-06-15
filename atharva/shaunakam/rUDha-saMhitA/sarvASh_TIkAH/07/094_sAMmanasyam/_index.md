@@ -1,7 +1,21 @@
 +++
 title = "94 (99). For India's help to unanimity."
+title_whitney = "94 (99). For India's help to unanimity."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+सांमनस्यम्।  
+१ अथर्वा। सोमः। अनुष्टुप्।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan.—sāumyam. ānuṣṭubham.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 

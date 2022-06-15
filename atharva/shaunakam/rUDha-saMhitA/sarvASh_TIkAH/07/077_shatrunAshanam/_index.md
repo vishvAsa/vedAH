@@ -1,7 +1,21 @@
 +++
 title = "77 (82). To the Maruts."
+title_whitney = "77 (82). To the Maruts."
 
 +++
+
+<details><summary>VH anukramaṇī</summary>
+
+शत्रुनाशनम्।  
+१-३ अङ्गिराः।मरुतः। १ त्रिपदा गायत्री, २ त्रिष्टुप्, ३ जगती।
+</details>
+
+<details><summary>Whitney anukramaṇī</summary>
+
+[An̄giras.—tṛcam. mantroktamaruddevatākam. 1. 3-p. gāyatrī; 2. triṣṭubh; 3. jagatī.]
+</details>
+
+
 
 <details><summary>Whitney</summary>
 
