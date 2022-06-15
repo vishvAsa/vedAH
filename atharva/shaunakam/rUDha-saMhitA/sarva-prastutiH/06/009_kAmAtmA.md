@@ -2,32 +2,24 @@
 title = "००९ कामात्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/009_kAmAtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/009_kAmAtmA/_index.md">
+<details open><summary><h2>9. To win a woman's love. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कामात्मा  
-१-३ जमदग्निः। कामात्मा, ३ गावः। अनुष्टुप्।  
-
+१-३ जमदग्निः। कामात्मा, ३ गावः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/009_kAmAtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Jamadagni.—kāmātmadāivatam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/009_kAmAtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp., but in ii. (not in xix., like the hymns that precede and follow). Used by Kāuś. (35. 21) with the preceding hymn, for the same purpose.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 264; Florenz, 258 or 10; Griffith, i. 249; Bloomfield, 101, 459.
 </details>
 <details><summary>Griffith</summary>

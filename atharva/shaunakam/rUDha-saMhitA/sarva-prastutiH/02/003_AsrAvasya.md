@@ -2,33 +2,25 @@
 title = "००३ आस्रावस्य"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/003_AsrAvasya.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/_index.md">
+<details open><summary><h2>3. For relief from flux: with a certain remedy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आस्रावस्य  
 भेषजम्।  
-१-६ अङ्गिराः। भैषज्यं, आयुः, धन्वन्तरिः। अनुष्टुप्, ६ त्रिपदा स्वराडुपरिष्टान्महाबृहती।  
-
+१-६ अङ्गिराः। भैषज्यं, आयुः, धन्वन्तरिः। अनुष्टुप्, ६ त्रिपदा स्वराडुपरिष्टान्महाबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/003_AsrAvasya.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.—ṣaḍṛcam. bhāiṣajyāyurdhanvantariddivatam. ānuṣṭubham: 6. 3-p. svarāḍupariṣṭānmahbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn in Pāipp. also follows the one that precedes it here; but in Pāipp. vss. 3 and 6 are wanting, and 4 and 5 are made to change places; and vs. 1 is defaced. Kāuś. employs it only once (25. 6), in a healing rite for various disorders and wounds (jvarātīsārātimūtranāḍīvraṇeṣu, comm.), with i. 2.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 138; Ludwig, p. 507; Grill, 17, 79; Griffith, i. 43; Bloomfield, 9, 277.
 </details>
 <details><summary>Griffith</summary>

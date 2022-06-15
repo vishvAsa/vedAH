@@ -2,32 +2,24 @@
 title = "०१९ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/019_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/_index.md">
+<details open><summary><h2>19. Against enemies: to Agni (fire). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-५ अथर्वा। अग्निः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।  
-
+१-५ अथर्वा। अग्निः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/019_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. 1-4. nicṛdviṣamāgāyatrī; 5. bhurigviṣamā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not metrical.⌋ This hymn (but not its four successors and counterparts) is found in Pāipp. ii.; also in MS. (i. 5. 2: in verse-order 1, 4, 3, 2, 5) and Āp. (vi. 21. 1: in verse-order 3, 4, 1, 2, 5); further, in K. Its first pratīka (but regarded by the schol. and by the comm. as including all the five hymns) is used by Kāuś. (47. 8) to accompany the purastād homas in the witchcraft rites. The Anukr. has a common description of the five hymns, 19-23, as pañca sūktāni pañcarcāni pañcādpatyni (? or -catapāty-) tripādgāyatrāṇy ekāvasānāni. ⌊The mss. blunder; but pañcāpatyāni is probably right; see note to Kāuś. 47. 8.⌋
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 181; Griffith, i. 62.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०२९ पापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/029_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/_index.md">
+<details open><summary><h2>29. Praise and prayer to Mitra and Varuṇa. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
-१-७ मृगारः । मित्रावरुणौ। त्रिष्टुप्, ७ शक्वरीगर्भातिजगती।  
-
+१-७ मृगारः । मित्रावरुणौ। त्रिष्टुप्, ७ शक्वरीगर्भातिजगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/029_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—(see h. 23). 7. śakvarīgarbhā jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (with vs. 5 put before vs. 4). The first and last verses also in the Yajus texts (see under h. 23), between those of our hymns 24 and 25. For the use by Kāuś. as mṛgāra hymn, see under h. 23.
 
 
-##### Translations
+#### Translations
 Translated: Roth, Zur Litteratur und Geschichte des Weda, 1846, p. 43; Ludwig, p. 137, with an elaborate discussion of the proper names; Griffith, i. 170; Weber, xviii. 114.
 </details>
 <details><summary>Griffith</summary>

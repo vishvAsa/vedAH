@@ -2,32 +2,24 @@
 title = "०२८ दीर्घायुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/028_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/_index.md">
+<details open><summary><h2>28. With an amulet of three metals: for safety etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
-१-१४ अथर्वा। त्रिवृत्, अग्न्यादयः। त्रिष्टुप्, ६ पञ्चपदातिशक्वरी, ७,९-१०,१२ ककुम्मत्यनुष्टुप् १३ पुरउष्णिक्।  
-
+१-१४ अथर्वा। त्रिवृत्, अग्न्यादयः। त्रिष्टुप्, ६ पञ्चपदातिशक्वरी, ७,९-१०,१२ ककुम्मत्यनुष्टुप् १३ पुरउष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/028_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturdaśarcam. trivṛddevatyam (agnyādīn mantroktān devān samprārthya trivṛtam astāut). trāiṣṭubham: 6. 5-p. atiśakvarī; 7, 9, 10, 12. kakummatyanuṣṭubh; 13. purauṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊The second half of 1 is prose.⌋ Found also (except vs. 2 and vss. 12-14) in Pāipp. ii. Used by Kāuś. twice, in company with i. 9 and i. 35, in a ceremony (11. 19) for obtaining one's desires and in one (52. 20) for winning splendor; and vss. i, 12-14 in one (58. 10, 11) for gaining length of life.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 387; Griffith, i. 234; Weber, xviii. 271.
 </details>
 <details><summary>Griffith</summary>

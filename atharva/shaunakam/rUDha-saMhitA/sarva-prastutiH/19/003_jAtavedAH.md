@@ -2,32 +2,24 @@
 title = "००३ जातवेदाः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/003_jAtavedAH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/_index.md">
+<details open><summary><h2>3. Praise to Agni. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जातवेदाः।  
-१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, २ भुरिक्।  
-
+१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, २ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/003_jAtavedAH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan̄giras.—caturṛcam. āgneyam. trāiṣṭubham: 2. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn occurs also in Pāipp. xx., but only in fragments, not intelligible beyond the first half-verse. The comm. notices that the hymn has the same pratīka as ix. 1, and labors to point out that it ⌊xix. 3⌋ and its successor have features adapting them to the same use as the two parts of ix. 1; and that hence they may also be regarded as quoted (Kāuś. 10. 24; 12. 15; etc.) by that pratīka: this is, of course, a worthless bit of special pleading. Vāit. (16. 12), wishing to quote ix. 1 only, adds the specification madhusūktena.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 260.
 </details>
 <details><summary>Griffith</summary>

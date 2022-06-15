@@ -2,32 +2,24 @@
 title = "०७७ प्रतिष्ठापनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/077_pratiShThApanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/_index.md">
+<details open><summary><h2>77. For recovery and retention of what is lost. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 प्रतिष्ठापनम्।  
-१-३ कबन्धः। जातवेदाः। अनुष्टुप्।  
-
+१-३ कबन्धः। जातवेदाः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/077_pratiShThApanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kabandha.—jātavedasam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. The comm. regards this hymn, and not vi. 44 (which has the same pratīka), as intended in Kāuś. 36. 5, in a rite concerning women (the prevention of a woman's escape, etc., comm.).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 468; Griffith, i.286; Bloomfield, 106, 496.
 </details>
 <details><summary>Griffith</summary>

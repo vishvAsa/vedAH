@@ -2,32 +2,24 @@
 title = "०९७ अभिभूर्वीरः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/097_abhibhUrvIraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/_index.md">
+<details open><summary><h2>97. For victory. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभिभूर्वीरः  
--३ अथर्वा। १,३ देवाः, २ मित्रावरुणौ। १ त्रिष्टुप्, २ जगती, ३ भुरिक्।  
-
+-३ अथर्वा। १,३ देवाः, २ मित्रावरुणौ। १ त्रिष्टुप्, २ जगती, ३ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/097_abhibhUrvIraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—māitrāvaruṇam. trāiṣṭubham: 2. jagatī; 3. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. The three hymns 97-99 are used together in a battle rite, for victory, with vi. 65-67 and others, by Kāuś. (14. 7); and they are reckoned to the aparājita gaṇa (note to 14. 7), and noted by the comm. as therefore intended at 139. 7; they are again specifically prescribed in the indramahotsava (140. 10): a full homa is offered, with the king joining in the act.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 </details>
 </details>

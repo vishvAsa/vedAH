@@ -2,32 +2,24 @@
 title = "०१९ अजरं क्षत्रम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/019_ajaraM_xatram.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/_index.md">
+<details open><summary><h2>19. To help friends against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अजरं क्षत्रम्।  
-१-८ वसिष्ठः। विश्वे देवाः, चन्द्रमाः, इन्द्रः। अनुष्टुप्, १ पथ्याबृहती, ३ भुरिग्बृहती, ५ त्रिष्टुप्, ६ त्र्यवसाना षट्पदा त्रिष्टुप्ककुम्मतीगर्भातिजगती, ७ विराडास्तारपङ्क्तिः, ८ पथ्यापङ्क्तिः।  
-
+१-८ वसिष्ठः। विश्वे देवाः, चन्द्रमाः, इन्द्रः। अनुष्टुप्, १ पथ्याबृहती, ३ भुरिग्बृहती, ५ त्रिष्टुप्, ६ त्र्यवसाना षट्पदा त्रिष्टुप्ककुम्मतीगर्भातिजगती, ७ विराडास्तारपङ्क्तिः, ८ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/019_ajaraM_xatram.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Vasiṣṭha.—aṣṭarcam. vāiśvadevam uta cāndramasam utāi ”ndram. ānuṣṭubham: 1. pathyābṛhatī; 3. bhurigbṛhatī; 6. 3-av. 6-p. triṣṭupkakummatīgarbhā ’tijagatī; 7. virāḍāstārapan̄kti; 8. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The verses are found in Pāipp. iii. (in the verse-order 1, 2, 4, 3, 5, 7, 6, 8). The hymn is applied by Kāuś. (14. 22-24) in a rite for gaining victory over a hostile army, and reckoned (14. 7, note) to the aparājita gaṇa. The Vāit. uses vs. 1 in the agnicayana (28. 15) in connection with lifting the ukhya fire, and vss. 6-8 in a sattra sacrifice (34. 16, 17), with mounting a chariot and discharging an arrow.
 
 
-##### Translations
+#### Translations
 Translated: John Muir, Original Sanskrit Texts, i.2 283; Ludwig, p. 234; Weber, xvii. 269; Griffith, i. 109.
 </details>
 <details><summary>Griffith</summary>

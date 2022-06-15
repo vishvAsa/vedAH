@@ -2,32 +2,24 @@
 title = "०३१ पाशमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/031_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/_index.md">
+<details open><summary><h2>31. To the divine guardians of the quarters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
-१-४ ब्रह्मा। आशापालाः,(वास्तोष्पतिः)। अनुष्टुप्, ३ विराट् त्रिष्टुप्, ४ परानुष्टुप् त्रिष्टुप्।  
-
+१-४ ब्रह्मा। आशापालाः,(वास्तोष्पतिः)। अनुष्टुप्, ३ विराट् त्रिष्टुप्, ४ परानुष्टुप् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/031_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āśāpālīyam, vāstoṣpatyam. ānuṣṭubham: 3. virāṭtriṣṭubh; 4. parānuṣṭuptriṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i. The hymn is called in Kāuś. (38. 11) āśāpālīyam, and is also reckoned by the schol. (8. 23, note) to the vāstoṣpatīyāni or vāstu gaṇa. It is used with xii. 1 in the ceremony (38. 16) for establishing a house, and again, except vs. 3, as dṛṅhaṇāni 'establishers' in a like rite (38. 11); it appears in one of the sava-sacrifices (64. 1) with an offering of four dishes (catuḥśarāva), and in the portent ceremony (127. 6) against obscuration of the "Seven Sages" (the Dipper, or Charles's Wain) by a comet. Verse 2 (32. 27, note; but the comm. says instead vs. 1, quoting its pratika) is reckoned among the aṅholin̄gās, and applied in rites for healing, security, long life, etc.; and vs. 4 (50. 11) in one for good fortune in the night. In Vāit. (36. 20) the hymn (as āśāpālīya) accompanies in the aśvamedha the turning loose of the sacrificial horse. And the comm. quotes it as used in Nakṣ. Kalpa 14 in the adbhuta mahāśanti.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 425; Ludwig, p. 372; Griffith, i. 35.
 </details>
 <details><summary>Griffith</summary>

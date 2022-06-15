@@ -2,32 +2,24 @@
 title = "०९३ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/093_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/093_shatrunAshanam/_index.md">
+<details open><summary><h2>93 (98). For Indra's aid. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१ भृग्वङ्गिराः। इन्द्रः। गायत्री।  
-
+१ भृग्वङ्गिराः। इन्द्रः। गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/093_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgan̄giras.—āindram. gāyatram.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/093_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Not employed by Kāuś., except as by the comm. declared to be joined with 91 and 92 in 59. 7 (see under 91).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
 </details>

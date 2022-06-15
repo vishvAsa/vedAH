@@ -2,32 +2,24 @@
 title = "००१ आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/001_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/_index.md">
+<details open><summary><h2>1. Mystic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
-१-२ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, २ विराड् जगती।  
-
+१-२ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, २ विराड् जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/001_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (brahmavarcasahāmaḥ).—dvyṛcam. ātmadevatyam. trāiṣṭubham: 2. virāḍjagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (41. 8), with iii. 20 and v. 7, in a rite for success in gaining wealth; and again (59. 17), with v. 2, in one of the ceremonies for obtaining various objects of desire (kāmyāni), with worship of Indra and Agni.
 
 
-##### Translations
+#### Translations
 Translated: Henry, i, 47; Griffith, i. 327.
 </details>
 <details><summary>Griffith</summary>

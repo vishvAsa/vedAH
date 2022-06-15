@@ -2,32 +2,24 @@
 title = "०६४ दीर्घायुत्वम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/064_dIrghAyutvam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/_index.md">
+<details open><summary><h2>64. To Agni: with fuel. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुत्वम्।  
-१-४ ब्रह्मा। अग्निः। अनुष्टुप्।  
-
+१-४ ब्रह्मा। अग्निः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/064_dIrghAyutvam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—caturṛcam. āgneyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used in Kāuś. (57. 26) in the ceremony of initiation of a Vedic student, to accompany the laying of four sticks of fuel on the fire—the schol. say, one at each verse. ⌊With regard to the ritual use, see the table on p. 896, and p. 897, l. 9.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 318; vs. 1 also by Ludwig, p. 265.
 </details>
 <details><summary>Griffith</summary>

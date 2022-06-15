@@ -2,32 +2,24 @@
 title = "०२६ पशुसंवर्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/026_pashusaMvardhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/_index.md">
+<details open><summary><h2>26. For safety and increase of kine. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पशुसंवर्धनम्।  
-१-५ सविता। पशवः। त्रिष्टुप्, ३ उपरिष्टाद्विराड् बृहती, ४ भुरिगनुष्टुप्, ५ अनुष्टुप्।  
-
+१-५ सविता। पशवः। त्रिष्टुप्, ३ उपरिष्टाद्विराड् बृहती, ४ भुरिगनुष्टुप्, ५ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/026_pashusaMvardhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Savitar.—paśavyam. trāiṣṭuhham. 3. upariṣṭādvirāḍbṛhatī; 4, 5. anuṣṭubh (4. bhurij).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. ii. Used by Kāuś. (19. 14), with iii. 14, iv. 21, and ix. 7 ⌊not vi. 11. 3—see comm. to ix. 7 = 12⌋, in a ceremony for the prosperity of cattle.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 188; Ludwig, p. 371; Griffith, i. 65; Bloomfield, 142, 303; vss. 1 and 2, also by Grill, 64, 92.—Cf. Bergaigne-Henry, Manuel, p. 138.
 </details>
 <details><summary>Griffith</summary>

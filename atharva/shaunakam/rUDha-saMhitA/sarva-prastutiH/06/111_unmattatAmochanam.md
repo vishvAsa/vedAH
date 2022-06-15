@@ -2,32 +2,24 @@
 title = "१११ उन्मत्ततामोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/111_unmattatAmochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/_index.md">
+<details open><summary><h2>111. For relief from insanity. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 उन्मत्ततामोचनम्।  
-१-४ अथर्वा। अग्निः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।  
-
+१-४ अथर्वा। अग्निः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/111_unmattatAmochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. āgneyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn, like the preceding, is wanting in Pāipp. Kāuś. (8. 24) reckons it as one of the mātṛnāmāni (with ii. 2 and viii. 6); and the comm. quotes a remedial rite against demons (26. 29-32) as an example of their use.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 512; Zimmer, p. 393; Grill, 21, 170; Griffith, i. 306; Bloomfield, 32, 518.—Cf. Hillebrandt, Veda-chrestomathie, p. 50.
 </details>
 </details>

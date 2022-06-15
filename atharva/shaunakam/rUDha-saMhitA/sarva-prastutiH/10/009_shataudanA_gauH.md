@@ -2,32 +2,25 @@
 title = "००९ शतौदना गौः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/10/009_shataudanA_gauH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/_index.md">
+<details open><summary><h2>9. With the offering of a cow and a hundred rice-dishes. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शतौदना गौः।  
 १-२७ अथर्वा। शतौदना। अनुष्टुप्, १ त्रिष्टुप्, १२ पथ्यापङ्क्तिः, २५ द्व्युष्णिग्गर्भाऽनुष्टुप्,  
-२६ पञ्चपदा बृहत्यनुष्टुबुष्णिग्गर्भा जगती, २७ पञ्चपदातिजागतानुष्टब्गर्भा शक्वरी।  
-
+२६ पञ्चपदा बृहत्यनुष्टुबुष्णिग्गर्भा जगती, २७ पञ्चपदातिजागतानुष्टब्गर्भा शक्वरी।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/10/009_shataudanA_gauH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saptaviṅśati. mantroktaśatāudanadevatyam. ānuṣṭubham: 1. triṣṭubh; 12. pathyāpan̄kti; 25. dvyuṣṇiggarbhā ’nuṣṭubh; 26. 5-p. bṛhatyanuṣṭubuṣṇiggarbhā jagatī; 27. 5-p. atijāgatānuṣṭubgarbhā śakvarī.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. The hymn (vs. 1) is quoted in Kāuś. 65. 1 to accompany the closing of the mouth of a victim, and some of the verses (1-3, 26, 27) in other neighboring parts of the sūtra. In Vāit. is used a single verse (26).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 270 (in great part); Henry, 32, 83; Griffith, ii. 42.
 </details>
 <details><summary>Griffith</summary>

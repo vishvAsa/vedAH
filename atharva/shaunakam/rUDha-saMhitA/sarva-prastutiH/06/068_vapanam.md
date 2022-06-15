@@ -2,32 +2,24 @@
 title = "०६८ वपनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/068_vapanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/_index.md">
+<details open><summary><h2>68. To accompany the act of shaving. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वपनम्।  
-१-३ अथर्वा। १ सविता, आदित्याः, रुद्राः, वसवः, २ अदितिः, आपः, प्रजापतिः, ३ सविता, सोमः, वरुणः। १ पुरोविराडतिशाक्वरगर्भा चतुष्पदा जगती, २ अनुष्टुप्, ३ अतिजगतीगर्भा त्रिष्टुप्।  
-
+१-३ अथर्वा। १ सविता, आदित्याः, रुद्राः, वसवः, २ अदितिः, आपः, प्रजापतिः, ३ सविता, सोमः, वरुणः। १ पुरोविराडतिशाक्वरगर्भा चतुष्पदा जगती, २ अनुष्टुप्, ३ अतिजगतीगर्भा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/068_vapanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—mantroktadevatyam. 1. purovirāḍ atiśakvarīgarbhā 4-p. jagatī; 2. anuṣṭubh; 3. atijagatīgarbhā triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (in the verse-order 1, 3, 2), and in part in various Gṛhya-Sūtras, as noted under the several verses. ⌊Further, in MP. ii. 1. 1-3; and MGS. i. 21. 2, 3, 14, 6 (cf. also Knauer's Index, p. 148, s.v. uṣṇena, p. 146, and p. 154).⌋ The hymn is used by Kāuś., as was to be expected, in the godāna ceremony (53. 17-20), vs. 1 being addressed to the vessel of water used, vs. 2 accompanying the wetting of the youth, and vs. 3 the parting and cutting of the hair. Further, in the upanayana, at the beginning of the whole ceremony (55. 2), with the directions "do as directed in the text" etc.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 430; Griffith, i. 282.
 </details>
 <details><summary>Griffith</summary>

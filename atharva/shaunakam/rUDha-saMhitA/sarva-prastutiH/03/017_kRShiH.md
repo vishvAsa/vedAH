@@ -2,28 +2,20 @@
 title = "०१७ कृषिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/017_kRShiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/_index.md">
+<details open><summary><h2>17. For successful agriculture. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कृषिः।  
-१-९ विश्वामित्रः। सीता। अनुष्टुप्, १आर्षी गायत्री, २, ५, ९ त्रिष्टुप्, ३ पथ्यापङ्क्तिः, ७ विराट् पुर उष्णिक्, ८ निचृत्।  
-
+१-९ विश्वामित्रः। सीता। अनुष्टुप्, १आर्षी गायत्री, २, ५, ९ त्रिष्टुप्, ३ पथ्यापङ्क्तिः, ७ विराट् पुर उष्णिक्, ८ निचृत्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/017_kRShiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Viśvāmitra.—navarcam. sītādevatyam. ānuṣṭubham: 1. ārṣī gāyatrī; 2, 5, 9. triṣṭubh; 3. pathyāpan̄kti; 7. virāṭpurauṣṇih; 8. nicṛt.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The verse seems to imply a hidden comparison of the poet's work with the plowman's. The other texts (RV. x. 101. 4; VS. xii. 67; TS. iv. 2. 55; MS. ii. 7. 12; K. xvi. 11; Kap. xxv. 3) read sumnayā́ (but K. has -yuḥ: Kap. not noted), which the translation adopts, -yāú seeming an unintelligent corruption of it; but the comm. gives a double explanation of -yāu, one as "desiring a happy-making sacrifice" and qualifying yajamāne understood, the other as from sumna-ya (-ya for root yā) and qualifying balīvardāu understood! He makes sīra equivalent with lān̄gala, and takes vi tanvate as = "put on the oxen's shoulders"; vi-tan as here applied seems imitated from its use of stringing a bow; in TB. ii. 5. 812 we have even ví tanoti sī́ram.
 </details>
 <details><summary>Griffith</summary>

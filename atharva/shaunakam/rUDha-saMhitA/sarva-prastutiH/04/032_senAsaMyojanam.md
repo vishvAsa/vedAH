@@ -2,32 +2,24 @@
 title = "०३२ सेनासंयोजनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/032_senAsaMyojanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/_index.md">
+<details open><summary><h2>32. Praise and prayer to fury (manyú). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सेनासंयोजनम्।  
-१-७ ब्रह्म स्कन्दः। मन्युः। त्रिष्टुप्, १ जगती।  
-
+१-७ ब्रह्म स्कन्दः। मन्युः। त्रिष्टुप्, १ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/032_senAsaMyojanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahmāskanda.—manyudāivatam. trāiṣṭubham: 1. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn ⌊which is RV. x. 83⌋ goes in all respects with hymn 31, which see.
 
 
-##### Translations
+#### Translations
 Translated: by the RV. translators; and Griffith, i. 174; Weber, xviii. 129.
 </details>
 <details><summary>Griffith</summary>

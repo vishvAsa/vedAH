@@ -2,32 +2,24 @@
 title = "०७२ इन्द्रः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/072_indraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/_index.md">
+<details open><summary><h2>72 (75, 76). With an oblation to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 इन्द्रः।  
-१-३ अथर्वा। इन्द्रः। १ अनुष्टुप्, २-३ त्रिष्टुप्।  
-
+१-३ अथर्वा। इन्द्रः। १ अनुष्टुप्, २-३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/072_indraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [1, 2. Atharvan.—dvyṛcam. āindrani. 1. anuṣṭubh; 2. triṣṭubh.—3. Atharvan.—āindram. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Here again, following our leading ms. and the sense, we combined into one what the Anukr. etc. treat as two hymns, our vs. 3, which begins a new decad,* being reckoned as a separate hymn. No one of the three verses is found in Pāipp.; but they are a RV. hymn (x. 179). Kāuś. (2 .40) uses the hymn in the parvan sacrifices, for Indra (the schol. adds iti tisras, as if the three verses were to be regarded as one hymn; there is no quotation of vs. 3 as a separate hymn). In Vāit., vs. 1 (or vss. 1, 2?) is repeated (14. 3) by the hotar in summoning the adhvaryu to milk the cow in the agniṣṭoma ceremony; and again in the same (21. 18), vs. 3 (= hymn 76) accompanies the offering of the dadhigharmahoma. *⌊Cf. p. 389.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 27, 92; Griffith, i. 361.
 </details>
 <details><summary>Griffith</summary>

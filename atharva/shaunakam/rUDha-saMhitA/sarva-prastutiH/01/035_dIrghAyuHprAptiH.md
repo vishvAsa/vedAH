@@ -2,32 +2,24 @@
 title = "०३५ दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/035_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>35. For long life etc.: with a gold amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१-४ अथर्वा(आयुष्कामः)। हिरण्यम्, इन्द्राग्नी, विश्वे देवाः। जगती, ४ अनुष्टुब्गर्भा चतुष्पदा त्रिष्टुप्।  
-
+१-४ अथर्वा(आयुष्कामः)। हिरण्यम्, इन्द्राग्नी, विश्वे देवाः। जगती, ४ अनुष्टुब्गर्भा चतुष्पदा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/035_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—hāiraṇyam; āindrāgnam uta vāiśvadevam. jāgatam: 4. anuṣṭubgarbhā 4-p. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. ⌊Of vss. 1 and 2, Schroeder gives the Kaṭha version, with variants, Tübinger Kaṭha-hss., p. 36.⌋ Used by Kāuś., with i. 9 and v. 28, in two ceremonies for fortune and for power (11. 19; 52. 20); and the comm. considers it involved also at 57. 31, in the upanayana. The comm. further quotes it from the ādityā mahāśānti in Nakṣ. Kalpa 19; also from Pariśiṣṭa 4. 1 and 13. 1.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 430; Ludwig, p. 457; Griffith, i. 39.
 </details>
 <details><summary>Griffith</summary>

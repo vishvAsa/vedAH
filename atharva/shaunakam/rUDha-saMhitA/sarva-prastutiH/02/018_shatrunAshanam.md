@@ -2,32 +2,24 @@
 title = "०१८ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/018_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/_index.md">
+<details open><summary><h2>18. For relief from demons and foes. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-५ चातनः। अग्निः। (द्वैपदम्) साम्नी बृहती।  
-
+१-५ चातनः। अग्निः। (द्वैपदम्) साम्नी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/018_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana (sapatnakṣayakāmaḥ).—āgneyam. dvāipadam; sāmnībārhatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not metrical.⌋ Ppp. has some similar phrases in ii. The hymn belongs to the cātanāni (Kāuś. 8. 25: the comm. regards only the last three verses as cātana, because vs. 3 is the one whose pratīka is cited in the Kāuś. text; but it is perhaps more likely that arāyakṣayaṇam is an oversight for bhrātṛvyakṣ-); it is used by itself also in one of the witchcraft rites (ābhicārikāṇi), while adding fuel of reeds to the fire (48. 1).
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 180; Griffith, i. 61.
 </details>
 <details><summary>Griffith</summary>

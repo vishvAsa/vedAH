@@ -2,32 +2,24 @@
 title = "०२३ अपां भैषज्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/023_apAM_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/_index.md">
+<details open><summary><h2>23. To the waters: for blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अपां भैषज्यम्।  
-१-३ शन्तातिः। आपः। १ अनुष्टुप्, २ त्रिपदा गायत्री, ३ परोष्णिक्।  
-
+१-३ शन्तातिः। आपः। १ अनुष्टुप्, २ त्रिपदा गायत्री, ३ परोष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/023_apAM_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti (?)—abdevatyam. ānuṣṭubham: 2. 3-p. gāyatrī; 3. paroṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa, and also (note to 7. 14) to the apāṁ sūktāni; and again (41. 14), with vi. 19 etc., used in a rite for good fortune: as to its combination (30. 11) with the preceding hymn, see that hymn. In Vāit. (4. 14) it accompanies in the parvan sacrifices the pouring out of water.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 431; Florenz, 278 or 30; Griffith, i. 257.
 </details>
 <details><summary>Griffith</summary>

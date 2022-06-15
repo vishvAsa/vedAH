@@ -2,32 +2,24 @@
 title = "००६ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/006_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/_index.md">
+<details open><summary><h2>6. Against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-३ अथर्वा। १ ब्रह्मणस्पतिः, २-३ सोमः। अनुष्टुप्।  
-
+१-३ अथर्वा। १ ब्रह्मणस्पतिः, २-३ सोमः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/006_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—brāhmaṇaspatyam; sāumyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. For the use of the hymn by Kāuś. 59. 7, see under the preceding hymn; by Kāuś. 50. 13, see under vi. 1; by Vāit. 16. 9, see under vi. 3.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 430; Florenz, 255 or 7; Griffith, i. 247.
 </details>
 <details><summary>Griffith</summary>

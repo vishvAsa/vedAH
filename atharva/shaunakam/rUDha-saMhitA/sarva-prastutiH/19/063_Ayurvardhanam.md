@@ -2,32 +2,24 @@
 title = "०६३ आयुर्वर्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/063_Ayurvardhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/_index.md">
+<details open><summary><h2>63. To Bṛihaspati: for sundry blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आयुर्वर्धनम्।  
-१ ब्रह्मा। ब्रह्मणस्पतिः। विराडुपरिष्टाद्बृहती।  
-
+१ ब्रह्मा। ब्रह्मणस्पतिः। विराडुपरिष्टाद्बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/063_Ayurvardhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (etc., as 61).—virāḍ upariṣṭādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. and in the comm.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 318.
 </details>
 <details><summary>Griffith</summary>

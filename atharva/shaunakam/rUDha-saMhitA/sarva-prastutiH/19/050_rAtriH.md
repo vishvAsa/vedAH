@@ -2,32 +2,24 @@
 title = "०५० रात्रिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/050_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/_index.md">
+<details open><summary><h2>50. To night: for protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
-१-७ गोपथः। रात्रिः। अनुष्टुप्।  
-
+१-७ गोपथः। रात्रिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/050_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 47.—saptakam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Follows also in Pāipp. xiv. our hymn 49. Has the same liturgical use as hymn 49.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 465; Griffith, ii. 307.
 </details>
 <details><summary>Griffith</summary>

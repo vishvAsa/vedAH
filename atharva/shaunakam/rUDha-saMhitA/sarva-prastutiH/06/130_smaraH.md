@@ -2,32 +2,24 @@
 title = "१३० स्मरः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/130_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/_index.md">
+<details open><summary><h2>130. To win a man's love. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्मरः।  
-१-४ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्, १ विराट् पुरस्ताद्बृहती।  
-
+१-४ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्, १ विराट् पुरस्ताद्बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/130_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—caturṛcam. smaradevatāham. ānuṣṭubham: 1. virāṭpurastādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Hymns 130-132 are not found in Pāipp. Hymn 130 and the next two are used by Kāug. (36. 13-14) in a women's rite (duṣṭastrīvaśīkaraṇakarmaṇi, comm. and Keś.), with strewing of beans (comm. and Keś. read māṣān, not māṣasmarān), burning of arrow-tips, and ⌊comm. and Keś.⌋ piercing of an effigy.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, i. 317; Bloomfield, 104, 534.
 </details>
 </details>

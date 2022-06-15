@@ -2,29 +2,21 @@
 title = "०१७ द्रविणार्थ प्रार्थना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/017_draviNArtha_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/_index.md">
+<details open><summary><h2>17 (18). Prayer to Dhātar for blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 द्रविणार्थ प्रार्थना।  
 १-४ भृगुः। धाता, सविता, ४ अग्निः, त्वष्टा, विष्णुः।  
-१ त्रिपदा आर्षी गायत्री, २ अनुष्टुप्, ३-४ त्रिष्टुप्।  
-
+१ त्रिपदा आर्षी गायत्री, २ अनुष्टुप्, ३-४ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/017_draviNArtha_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—caturṛcam. sāvitram uta bahudmatyam. ānuṣṭubham: 1. 3-p. ārṣī gāyatrī; 3, 4. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Literally (at the end) 'with full,' to which the comm. supplies dhanena. Ppp. shows no variants. TS. (ii. 4. 51 et al.) has dadātu in a, and vāvanat for yachatu at the end. MS. ⌊iv. 12. 6⌋ has only a (with dadhātu), combining it with our 2 b-d.
 </details>
 <details><summary>Griffith</summary>

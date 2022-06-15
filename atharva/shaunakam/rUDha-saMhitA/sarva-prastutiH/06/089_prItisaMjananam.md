@@ -2,32 +2,24 @@
 title = "०८९ प्रीतिसंजननम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/089_prItisaMjananam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/_index.md">
+<details open><summary><h2>89. To win affection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 प्रीतिसंजननम्।  
-१-३ अथर्वा। (रुद्रः,) १ सोमः, २ वातः, ३ मित्रावरुणौ। अनुष्टुप्।  
-
+१-३ अथर्वा। (रुद्रः,) १ सोमः, २ वातः, ३ मित्रावरुणौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/089_prItisaMjananam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadāivatam.* ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn also, like the preceding, is wanting in Pāipp. Kāuś. (36. 10-11) applies it in a women's rite, for winning affection, addressing the head and ear, or wearing the hair, of the person to be affected. *⌊The Anukr. text is confused here; but the Berlin ms. seems to add manyuvināśanam.⌋
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 242; Griffith, i. 293.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०१० आत्मरक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/010_AtmaraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/_index.md">
+<details open><summary><h2>10. For defense from all quarters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मरक्षा  
-१-८ ब्रह्म। वास्तोष्पतिः। १-६ यवमध्या त्रिपदा गायत्री, ७ यवमध्या ककुप्, ८ पुरोधृतिद्व्यनुष्टुब्गर्भा पराष्टिस्त्र्यवसाना चतुष्पदातिजगती।  
-
+१-८ ब्रह्म। वास्तोष्पतिः। १-६ यवमध्या त्रिपदा गायत्री, ७ यवमध्या ककुप्, ८ पुरोधृतिद्व्यनुष्टुब्गर्भा पराष्टिस्त्र्यवसाना चतुष्पदातिजगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/010_AtmaraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭakam. vāstoṣpatyam. 1-6. yavamadhyā 3-p. gāyatrī; 7. yavamadhyā kakubh; 8. purodhṛtidvyanuṣṭubgarbhā parāṣṭi 3-av. 4-p. atijagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊This piece is prose.⌋ This piece, like the preceding, is wanting in Pāipp. Parts of vss. 1-7 are apparently used by Kāuś. in a magic rite (49. 7-9); and certainly those verses are quoted in a ceremony (51. 14) for the welfare of the house with burying ⌊five⌋ stones in its corners ⌊and middle and putting a sixth above it⌋; and the hymn is reckoned (8. 23, note) to the vāstu gaṇa; while vs. 8 appears, with vi. 53 and vii. 67, in the savayajñas (66. 2). In Vāit. (29. 11) the verses are addressed to the stones of enclosure in the agnicayana.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 202; Weber, xviii. 200.
 </details>
 <details><summary>Griffith</summary>

@@ -2,33 +2,25 @@
 title = "०४० शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/040_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/_index.md">
+<details open><summary><h2>40. Against enemies from the different quarters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
 १-८ शुक्रः। ब्रह्म, १ अग्निः, २ यमः, ३ वरुणः, ४ सोमः, ५ भूमिः, ६ वायुः, ७ सूर्यः, ९ दिशः।  
-त्रिष्टुप्, २ जगती, ८ पुरोऽतिशक्वरी पादयुग्जगती।  
-
+त्रिष्टुप्, २ जगती, ८ पुरोऽतिशक्वरी पादयुग्जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/040_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—*kṛtyāpratiharaṇam. bahudevatyam. trāiṣṭubham: 2, 8. jagatī (8. puro’tiśakvarī pādayuj).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Somewhat similar formulas are met with in TB. (iii. 11. 5) and ĀpśS. (vi. 18. 3). Used in Kāuś., with ii. 11 etc., in the preparation of holy water for the counteraction of witchcraft (39. 7), and reckoned to the kṛtyāpratiharaṇa gaṇa (ib., note). *⌊The Berlin ms. of the Anukr. adds the expected aṣṭarcam.—Weber, in a footnote, p. 152, says that the remarks of the Anukr. on vs. 8 suggest that the author of the Anukr. was a Vedantist. Hence his attribution of hymns 37 and 38 to Bādarāyaṇi.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 185; Weber, xviii. 152.
 </details>
 <details><summary>Griffith</summary>

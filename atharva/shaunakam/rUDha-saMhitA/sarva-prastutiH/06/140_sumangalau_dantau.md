@@ -2,32 +2,24 @@
 title = "१४० सुमङ्गलौ दन्तौ"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/140_sumangalau_dantau.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/_index.md">
+<details open><summary><h2>140. With the first two upper teeth of a child. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुमङ्गलौ दन्तौ।  
-१-३ अथर्वा। ब्रह्मणस्पतिः, दन्ताः। (अनुष्टुप् १) १ उरोबृहती, २ उपरिष्टाज्ज्योतिष्मती त्रिषटुप्, ३ आस्तारपङ्क्तिः।  
-
+१-३ अथर्वा। ब्रह्मणस्पतिः, दन्ताः। (अनुष्टुप् १) १ उरोबृहती, २ उपरिष्टाज्ज्योतिष्मती त्रिषटुप्, ३ आस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/140_sumangalau_dantau.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—brāhmaṇaspatyam uta mantroktadantadevatyam. ānuṣṭubham: 1. urobṛhatī; 2. upariṣṭājjyotiṣmatī triṣṭubh; 3. āstārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (46. 43-46) in an expiatory rite when the two upper teeth of a child appear first; it "is made to bite the things mentioned in the text; and both it and its parents are made to eat of the grain so mentioned after it has been boiled in consecrated water."
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 540.
 </details>
 </details>

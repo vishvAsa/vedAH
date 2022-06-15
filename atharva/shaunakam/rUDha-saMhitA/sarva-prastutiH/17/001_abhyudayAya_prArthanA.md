@@ -2,10 +2,9 @@
 title = "००१ अभ्युदयाय प्रार्थना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/17/001_abhyudayAya_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/_index.md">
+<details open><summary><h2>1. Prayer and praise to Indra and the Sun. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभ्युदयाय प्रार्थना।  
 १-३० ब्रह्मा। आदित्यः। १ जगती; १-८ त्र्यवसाना; १-३ अतिजगती; ६-७, १९ अत्यष्टिः;  
@@ -13,21 +12,15 @@ title = "००१ अभ्युदयाय प्रार्थना"
 १० अष्टपदा धृतिः; १२ कृतिः; १३ प्रकृतिः; १४-१५ पञ्चपदा शक्वरी;  
 १७ पञ्चपदा विराडतिशक्वरी; १८ भुरिगष्टिः; २४ विराडत्यष्टिः; १-५ षट्-पदा;  
 ११-१३,१६,१८-१९,२४ सप्तपदा; २० ककुप्; २१ चतुष्पदा उपरिष्टाद्बृहती; २२ याजुषी अनुष्टुप्;  
-२३ निचृद् बृहती (२२-२३ द्विपदा) ; २५-२६ अनुष्टुप्; २७, ३०जगती; २८-२९ त्रिष्टुप्।  
-
+२३ निचृद् बृहती (२२-२३ द्विपदा) ; २५-२६ अनुष्टुप्; २७, ३०जगती; २८-२९ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/17/001_abhyudayAya_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṛcas triṅśat.1 ādityadevatyās. 1. jagatī; 1-8. try-avasāna;4 1-4 ⌊intending 2-5?⌋. atijagatī;2 6, 7, 19. atyaṣṭi;3 8, 11, 16. atidhṛti; 9. 5-p. śakvarī; 10-23, 16, 18-19, 24. try-avasāna;4 10. 8-p. dhṛti; 12. kṛti; 13. prakṛti; 14-15. 5-p. śakvarī; 17. 5-p. virāḍ atiśakvarī; 18. bhurig aṣṭi; 24. virāḍ atyaṣṭi; 1-8 ⌊intending 1-5?⌋. 6-p.; ⌊6-8,⌋ 11-13, 16, 18-19, 24. 7-p.5 20. kakubh; 21. 4-p. upariṣṭādbṛhatī; 22. anuṣṭubh; 23. nicṛd bṛhatī (22-23. yajuṣī dve;6 2-p); 25, 26. anuṣṭubh; 27, 30. jagatī; 28, 29. triṣṭubh.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The Anukr. has some bad readings and confusions in its account of the book, but they do not concern things of much consequence. ⌊So Whitney, in a note to vs. 5, which note I have transposed hither. He had altered (as often, for brevity) the order of his excerpts from the Anukr.: but I have restored them in this case to the order of the original. Moreover, there are several trifling items which he has omitted or misapprehended: and these I have added or tried to set right without marking them with the usual ell-brackets.⌋
 
 

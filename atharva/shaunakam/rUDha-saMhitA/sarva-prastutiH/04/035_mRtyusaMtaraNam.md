@@ -2,32 +2,24 @@
 title = "०३५ मृत्युसंतरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/035_mRtyusaMtaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/_index.md">
+<details open><summary><h2>35. Extolling a rice-mess offering. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मृत्युसंतरणम्।  
-१-७ प्रजापतिः। अतिमृत्युः। त्रिष्टुप्, ३ भुरिग्जगती।  
-
+१-७ प्रजापतिः। अतिमृत्युः। त्रिष्टुप्, ३ भुरिग्जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/035_mRtyusaMtaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Prajāpati.—ātimartyam.* trāiṣṭubham: 3. bhurij; 4. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (66. 11) in the sava sacrifices, with a sava for escaping death (atimṛtyu) and, according to the comm., also in the ceremony of expiation for the birth of twin calves (109. 1; he reads yam odanam iti, instead of yamāu janayati, which the edition has). *⌊The Berlin Anukr. reads ātimārcyam.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 438; Griffith, i. 177; Weber, xviii. 139.
 </details>
 <details><summary>Griffith</summary>

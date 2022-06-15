@@ -2,32 +2,24 @@
 title = "१०५ कासशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/105_kAsashamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/_index.md">
+<details open><summary><h2>105. To get rid of cough. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कासशमनम्।  
-१-३ उन्मोचनः। कासा। अनुष्टुप्।  
-
+१-३ उन्मोचनः। कासा। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/105_kAsashamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Unmocana—kāsādevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. except 2 a, b in xix. Employed by Kāuś. (31. 27) in a remedial rite against cough and catarrh.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.—Cf. Hillebrandt, Veda-chrestomathie, p. 50.
 </details>
 </details>

@@ -2,28 +2,20 @@
 title = "०१४ स्वर्ज्योतिः प्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/014_svarjyotiH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/_index.md">
+<details open><summary><h2>14. With the sacrifice of a goat. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वर्ज्योतिः प्राप्तिः।  
-१-९ भृगुः। आज्यं, अग्निः। त्रिष्टुप्, २, ४ अनुष्टुप्, ३ प्रस्तारपङ्क्तिः, ७, ९ जगति, ८ पञ्चपदातिशक्वरी।  
-
+१-९ भृगुः। आज्यं, अग्निः। त्रिष्टुप्, २, ४ अनुष्टुप्, ३ प्रस्तारपङ्क्तिः, ७, ९ जगति, ८ पञ्चपदातिशक्वरी।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/014_svarjyotiH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—navarcam. ājyam, āgneyam. trāiṣṭubham: 2, 4. anuṣṭubh; 3. prastārapan̄kti; 7, 9. jagatī; 8. 5-p. atiśakvarī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in VS. (xiii. 51), MS. (ii. 7. 17; like VS. throughout), and TS. (iv. 2. 104). VS. and MS. have in c, d devátām ágram āyaṅs téna róham āyann úpa médh-. TS. has at the beginning ajā́, and, correspondingly, sā́ (with vāí added) in b, and táyā in c and d; it also reverses the order of c and d, agreeing otherwise with VS. MS. in d, but having ágre, like AV., in c; it also replaces śókāt by gárbhāt in a. We have a again below as ix. 5. 13 a; and c is nearly equivalent to iii. 22. 3 c: moreover the pada-mss., here as there, misinterpret āyaṅ before téna as āyam, which SPP. properly corrects to āyan in his pada-text; all our saṁhitā-mss. read āyaṅ. The comm. declares hí in a to be intended to intimate that the same statement was made in another text also; and he quotes TS. ii. 1. 14; róha he explains by svargādiloka; téna he takes both times as designating the means. The Anukr. takes no notice of the deficiency of a syllable in b. ⌊As to ajá, see Weber, Berliner Sb., 1895, p. 847 n.⌋
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०११ शान्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/011_shAntiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/_index.md">
+<details open><summary><h2>11. For well-being. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
-१-६ वसिष्ठः। बहुदैवत्यम्। त्रिष्टुप्।  
-
+१-६ वसिष्ठः। बहुदैवत्यम्। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/011_shAntiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (śāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is made up of the remaining verses of RV. vii. 35, ⌊vss. 11-15,⌋ with another RV. verse (v. 47. 7) added. Among the former the differences of order and reading are very slight. ⌊The hymn is found, as noted under hymn 10, in Pāipp. xiii.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 272; and also, of course, by the RV. translators.
 </details>
 <details><summary>Griffith</summary>

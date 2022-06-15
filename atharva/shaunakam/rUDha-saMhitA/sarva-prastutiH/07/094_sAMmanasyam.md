@@ -2,32 +2,24 @@
 title = "०९४ सांमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/094_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/_index.md">
+<details open><summary><h2>94 (99). For India's help to unanimity. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
-१ अथर्वा। सोमः। अनुष्टुप्।  
-
+१ अथर्वा। सोमः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/094_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāumyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Not used by Kāuś. In Vāit. (13. 12) it accompanies, in the agniṣṭoma, the conducting of king Soma to his throne; and again, later (23. 7), the bringing of the dhruvagraha of soma into the cup.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249.
 </details>
 </details>

@@ -2,32 +2,24 @@
 title = "०२९ अरिष्टक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/029_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/_index.md">
+<details open><summary><h2>29. Against birds of ill omen. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
-१-३ भृगुः। यमः, निर्ऋतिः। (बृहती) १-२ विराण्नाम गायत्री, ३ त्र्यवसाना सप्तपदा विराडष्टिः।  
-
+१-३ भृगुः। यमः, निर्ऋतिः। (बृहती) १-२ विराण्नाम गायत्री, ३ त्र्यवसाना सप्तपदा विराडष्टिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/029_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—yāmyam uta nāirṛtam. bārhatam: 1, 2. virāṇnāmagāyatrī; 3. 3-av. 7-p. virāḍaṣṭi.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (46. 7) with the two preceding hymns.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 287 or 39; Griffith, i. 260; Bloomfield, 166, 475.
 </details>
 <details><summary>Griffith</summary>

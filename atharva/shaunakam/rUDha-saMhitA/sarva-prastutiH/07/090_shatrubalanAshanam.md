@@ -2,32 +2,24 @@
 title = "०९० शत्रुबलनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/090_shatrubalanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/_index.md">
+<details open><summary><h2>90 (95) To destroy some one's virile power. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुबलनाशनम्।  
-१-३ अङ्गिराः। मन्त्रोक्ताः। १ गायत्री, २ विराट् पुरस्ताद् बृहती,  
-
+१-३ अङ्गिराः। मन्त्रोक्ताः। १ गायत्री, २ विराट् पुरस्ताद् बृहती,
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/090_shatrubalanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.—tṛcam. mantroktadevatyam. 1. gāyatri; 2. virāṭ purastādbṛhatī; 3. 3-av. 6-p. bhurig jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (36. 35) in a women's rite, being directed against the lover of one's wife.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 </details>
 </details>

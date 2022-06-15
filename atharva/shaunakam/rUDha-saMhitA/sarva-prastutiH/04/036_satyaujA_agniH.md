@@ -2,32 +2,24 @@
 title = "०३६ सत्यौजा अग्निः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/036_satyaujA_agniH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/_index.md">
+<details open><summary><h2>36. Against demons and other enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सत्यौजा अग्निः।  
-१-१० चातनः। सत्यौजा अग्निः। अनुष्टुप्, ९ भुरिक्।  
-
+१-१० चातनः। सत्यौजा अग्निः। अनुष्टुप्, ९ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/036_satyaujA_agniH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—satyāujasam.* āgneyam. ānuṣṭubham: 9. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Not used individually by Kāuś., but only as one of the cātanāni (8. 25). Our mss. of the Anukr. do not contain the expected definition of the hymn as one of ten stanzas (daśarcam). *⌊The Berlin Anukr. reads sātyāujasam.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 526; Grill, 3, 136; Griffith, i. 179; Bloomfield, 35, 407; Weber, xviii. 141.
 </details>
 <details><summary>Griffith</summary>

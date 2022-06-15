@@ -2,32 +2,24 @@
 title = "०९५ कुष्ठौषधिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/095_kuShThauShadhiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/_index.md">
+<details open><summary><h2>95. For relief from disease: with kúṣṭha. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कुष्ठौषधिः।  
-१-३ भृग्वङ्गिराः। वनस्पतिः। अनुष्टुप्।  
-
+१-३ भृग्वङ्गिराः। वनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/095_kuShThauShadhiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—vānaspatyam; mantroktadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is not found in Pāipp. As in the case of the preceding hymn, the first two verses have already occurred in the AV. text: namely, as v. 4. 3, 4. The comm. regards this hymn as included in the kuṣṭhalin̄gās of Kāuś. 28. 13; and vs. 3 (instead of v. 25. 7) as intended in Vāit. 28. 20, in the agnicayana.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 297.
 </details>
 </details>

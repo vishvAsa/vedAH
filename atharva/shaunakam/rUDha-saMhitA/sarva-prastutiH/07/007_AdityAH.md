@@ -2,32 +2,24 @@
 title = "००७ आदित्याः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/007_AdityAH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/_index.md">
+<details open><summary><h2>7 (8). Praise of the Ādityas. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आदित्याः।  
-१ अथर्वा (ब्रह्मवर्चसकामः) । अदितिः।आर्षी जगती।  
-
+१ अथर्वा (ब्रह्मवर्चसकामः) । अदितिः।आर्षी जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/007_AdityAH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—aditidevatyam. ārṣī jagatī.*]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (59. 18) with 2, as explained under that hymn. *⌊The Anukr., defining as trāiṣṭubhāni the "first eight hymns," included this among them: by inadvertence, it would seem, since he here calls it ārṣi jagatī.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 3, 52; Griffith, i. 331.
 </details>
 <details><summary>Griffith</summary>

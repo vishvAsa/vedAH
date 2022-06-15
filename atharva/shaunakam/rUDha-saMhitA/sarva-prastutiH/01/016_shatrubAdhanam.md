@@ -2,32 +2,24 @@
 title = "०१६ शत्रुबाधनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/016_shatrubAdhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/_index.md">
+<details open><summary><h2>16. Against demons: with an amulet of lead. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुबाधनम्।  
-१-४ चातनः। १ अग्निः, २ इन्द्रः, वरुणः, (२-४ दधत्यं सीसम्)। अनुष्टुप्, ४ ककुम्मती अनुष्टुप्।  
-
+१-४ चातनः। १ अग्निः, २ इन्द्रः, वरुणः, (२-४ दधत्यं सीसम्)। अनुष्टुप्, ४ ककुम्मती अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/016_shatrubAdhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—agnīndram, vāruṇam, dadhatyam. ānuṣṭubham: 4. kakummatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i. Kāuś. does not include the hymn among the cātanāni (8. 25), but a Pariś. (ib., note) reckons it to them (in accordance with the Anukr.). Kāuś. (47. 23) uses it once in a rite of sorcery (for the death of one's enemies: comm.), and its commentator (47. 13, note) in another.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 409; Grill, 1, 75; Griffith, 1. 20; Bloomfield, 65, 256.
 </details>
 <details><summary>Griffith</summary>

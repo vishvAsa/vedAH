@@ -2,32 +2,24 @@
 title = "०१५ अभयम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/015_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/_index.md">
+<details open><summary><h2>15. For safety and success. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
-१-६ अथर्वा। १-४ इन्द्रः, मन्त्रोक्ताः। त्रिष्टुप्, १ पथ्याबृहती, २, ५ जगती, ३ विराट् पथ्यापङ्क्तिः।  
-
+१-६ अथर्वा। १-४ इन्द्रः, मन्त्रोक्ताः। त्रिष्टुप्, १ पथ्याबृहती, २, ५ जगती, ३ विराट् पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/015_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ṣaḍṛcam. 1-4. āindram; 5, 6. mantroktabahudevatyam. 1. pathyābṛhatī; 2, 5. 4-p. jagatī; 3. virāṭ pathyāpan̄kti; 4, 6. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is found also in Pāipp. iii. As noted under the preceding, it belongs to the abhaya gaṇa; and the comm. points out sundry uses of the gaṇa (śānti K. 16; Nakṣ. K. 18; Pariśiṣṭa 5. 3).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 513; Griffith, ii. 275.
 </details>
 <details><summary>Griffith</summary>

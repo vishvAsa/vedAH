@@ -2,32 +2,24 @@
 title = "०६८ सरस्वती"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/068_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/068_sarasvatI/_index.md">
+<details open><summary><h2>68 (70, 71). Praise and prayer to Sarasvatī. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
-१-३ शन्तातिः। सरस्वती। १ अनुष्टुप्, २ त्रिष्टुप्, ३ गायत्री।  
-
+१-३ शन्तातिः। सरस्वती। १ अनुष्टुप्, २ त्रिष्टुप्, ३ गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/068_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [1-2. Caṁtāti.—dvyṛcam. sārasvatam. 1. anuṣṭubh; 2. triṣṭubh.—3. śaṁtāti.—sārasvatam. gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/068_sarasvatI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 None of the verses are found in Pāipp. Here again the Anukr., the comm., and some mss. differ in division from our first mss., and make our third verse a separate hymn.* In Kāuś. (81. 39) the first two verses (= hymn 70) come in with other Sarasvatī verses in the pitṛmedha; the third verse (= hymn 71) not with them, in spite of its kindred character, but in both the bṛhat and laghuśānti gaṇas (9. 2, 4). Vāit. introduces the hymn (doubtless the two verses) twice (8. 2, 13), once with hymn 40, once with hymn 9 and other verses, in praise of Sarasvatī. *⌊So also SPP's text. The decad-division cuts the hymn between vss. 2 and 3: cf. p. 389.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 26, 90; Griffith, i. 359.
 </details>
 <details><summary>Griffith</summary>

@@ -2,28 +2,21 @@
 title = "००२ पितृमेधः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/18/002_pitRmedhaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/002_pitRmedhaH/_index.md">
+<details open><summary><h2>2. ⌊Funeral verses.⌋ ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पितृमेधः।  
 १-६० अथर्वा। यमः, मन्त्रोक्ताः, ४, ३४ अग्निः, ५ जातवेदाः, २९ पितरः। त्रिष्टुप्, १-३, ६, १४- १८, २०, २२-२३, २५, ३०, ३४, ३६, ४६, ४८, ५०-५२, ५६ अनुष्टुप्, ४, ७, ९, १३ जगती, ५ , २६, ४९, ५७ भुरिक्, १९ त्रिपदाऽर्षी गायत्री, २४ त्रिपदा समविषमाऽर्षी गायत्री,  
-३७ विराड् जगती, ३८-४४ आर्षी गायत्री, (४०, ४२-४४ भुरिक्) ४५ ककुम्मती अनुष्टुप्।  
-
+३७ विराड् जगती, ३८-४४ आर्षी गायत्री, (४०, ४२-४४ भुरिक्) ४५ ककुम्मती अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/18/002_pitRmedhaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ṣaṣṭi. yamadevatyam mantroktabakudevatyaṁ ca (4, 34. āgneyyāu; 5. jātavedasī; 29. pitryā). trāiṣṭubham: 1-3, 6, 14-18, 20, 22, 23, 25, 30, 34, 36, 46, 48, 50-52, 56. anuṣṭubh; [4,] 7, 9, 13. jagatī; 5, 26, 49, 57. bhurij; 19. 3-p. ārṣī gāyatrī; 24. 3-p. samaviṣamā ”rṣī gāyatrī; 37. virāḍ jagatī; 38-44. ārṣī gāyatrī (40, 42-44. bhurij); 45. kakummaty anuṣṭubh.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/002_pitRmedhaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Of the eight "measuring-verses," 38-45, the first (vs. 38) is a true gāyatrī; the next six (39-44) are mere repetitions of vs. 38, with an ūha in the first pāda which sometimes spoils the meter; and the last (vs. 45) agrees in its last two pādas with the rest, but has a prior half which is true prose.⌋
 
 

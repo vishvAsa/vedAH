@@ -2,32 +2,24 @@
 title = "०८६ वृषकामना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/086_vRShakAmanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/_index.md">
+<details open><summary><h2>86. For supremacy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वृषकामना।  
-१-३ अथर्वा। एकवृषः। अनुष्टुप्।  
-
+१-३ अथर्वा। एकवृषः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/086_vRShakAmanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (vṛṣakāmaḥ).—ekavṛṣadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Employed by Kāuś. (59. 12), in a kāmya rite, by one who is vṛṣakāma (śrāiṣṭhyakāma, comm.); and the schol. (note to 140. 6) adds it to v. 3. 11 and vii. 86, 91 as used in the indramahotsava.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 241; Griffith, i. 292.
 </details>
 <details><summary>Griffith</summary>

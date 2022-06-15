@@ -2,33 +2,26 @@
 title = "००४ सर्पविषदूरीकरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/10/004_sarpaviShadUrIkaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/004_sarpaviShadUrIkaraNam/_index.md">
+<details open><summary><h2>4. Against snakes and their poison. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सर्पविषदूरीकरणम्।  
 १-२६ गरुत्मान्। तक्षकः। अनुष्टुप्, १ पथ्यापङ्क्तिः, २ त्रिपदा यवमध्या गायत्री, ३-४ पथ्याबृहती,  
 ८ उष्णिग्गर्भा परा त्रिष्टुप्, १२ भुरिग्गायत्री, १६ त्रिपदा प्रतिष्ठागायत्री, २१ ककुम्मती,  
-२३ त्रिष्टुप्, २६ त्र्यवसाना षट्-पदा बृहतीगर्भा ककुम्मती भुरिक् त्रिष्टुप्।  
-
+२३ त्रिष्टुप्, २६ त्र्यवसाना षट्-पदा बृहतीगर्भा ककुम्मती भुरिक् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/10/004_sarpaviShadUrIkaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—ṣaḍviṅśati. takṣakadāivatam. ānuṣṭubham: 1. pathyāpan̄kti; 2. 3-p. yavamadhyā gāyatrī; 3, 4. pathyābṛhatī; 8. uṣṇiggarbhā parātriṣṭubh; 12. bhurig gāyatrī; 16. 3-p. pratiṣṭhā gāyatrī; 21. kakummatī; 23. triṣṭubh; 26. 3-av. 6-p. bṛhatīgarbhā kakummatī bhurik triṣṭubh.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/004_sarpaviShadUrIkaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. (with one or two changes of order: see below). Not noticed in Vāit. Quoted (vs. 1), as addressed to Takṣaka (king of the serpent-divinities), in Kāuś. 32. 20, and also 139. 8, in the ceremonies of beginning Vedic study (see further under vss. 25, 26).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 502; Henry, 11, 56; Griffith, ii. 14; Bloomfield, 152, 605.
 </details>
 <details><summary>Griffith</summary>

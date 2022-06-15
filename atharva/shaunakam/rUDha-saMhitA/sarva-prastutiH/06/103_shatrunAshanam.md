@@ -2,32 +2,24 @@
 title = "१०३ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/103_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/_index.md">
+<details open><summary><h2>103. To tie up enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-३ उच्छोचनः।इन्द्राग्नी, १ बृहस्पतिः, सविता, मित्रोः, अर्यमा, भगः,अश्विनौ, २-३ इन्द्रः, अग्निः। अनुष्टुप्।  
-
+१-३ उच्छोचनः।इन्द्राग्नी, १ बृहस्पतिः, सविता, मित्रोः, अर्यमा, भगः,अश्विनौ, २-३ इन्द्रः, अग्निः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/103_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Ucchocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix., in reversed order of verses. Used by Kāuś. (16. 6) in connection with the following hymn, in a battle rite for victory over enemies: fetters, as the comm. explains, are thrown down in places where the hostile army will pass.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 518; Griffith, i. 301.
 </details>
 </details>

@@ -2,32 +2,24 @@
 title = "०२९ दर्भमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/029_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/029_darbhamaNiH/_index.md">
+<details open><summary><h2>29. Continuation of the foregoing. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
-१-९ ब्रह्मा। दर्भमाणिः। अनुष्टुप्।  
-
+१-९ ब्रह्मा। दर्भमाणिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/029_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 28. navakam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/029_darbhamaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This is a mere continuation of the preceding hymn, and it is hard to see why they are divided. They are found together in Pāipp. xiii. ⌊Ritual use under 28.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 286.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०५४ कालः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/054_kAlaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/_index.md">
+<details open><summary><h2>54. Praise of time. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कालः।  
-१-५ भृगुः। कालः। अनुष्टुप्, २ त्रिपदाऽर्षी गायत्री, ५ त्र्यवसाना षट्पदा विराडष्टिः।  
-
+१-५ भृगुः। कालः। अनुष्टुप्, २ त्रिपदाऽर्षी गायत्री, ५ त्र्यवसाना षट्पदा विराडष्टिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/054_kAlaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu etc. (as 53).—pañcakam. 2. 3-p. ārṣī gāyatrī; 5 ⌊5 and 6 of the Berlin ed.⌋. 3-av. 6-p. virāḍ aṣṭi.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Properly a part of the same hymn with the preceding, and found with vss. 7-10 of the latter in Pāipp. xii. See under hymn 53.
 
 
-##### Translations
+#### Translations
 Translated: Muir, v. 409; Ludwig, p. 191; Scherman, Philosophische Hymnen, p. 80; Deussen, Geschichte, i. 1. 212; Griffith, ii. 311; Bloomfield, 225, 687.—As to the verse-division, see under vss. 2 and 5, and SPP's Critical Notice, vol. i., p. 24.
 </details>
 <details><summary>Griffith</summary>

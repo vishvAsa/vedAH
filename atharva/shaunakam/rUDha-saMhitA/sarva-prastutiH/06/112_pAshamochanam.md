@@ -2,32 +2,24 @@
 title = "११२ पाशमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/112_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/_index.md">
+<details open><summary><h2>112. For expiation of overslaughing. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
-१-३ अथर्वा। अग्निः। त्रिष्टुप्।  
-
+१-३ अथर्वा। अग्निः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/112_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. trāiṣṭubham..]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (vs. 3 in i.). Used by Kāuś. (46. 26), with vi. 113, in a spell to expiate the offense of parivitti 'overslaughing,' or the marriage of a younger before an elder brother ⌊see Zimmer, p. 315⌋.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 469; Grill, 15, 171; Griffith, i. 306; Bloomfield, AJP. xvii. 437 (elaborate discussion, p. 430 ff.), or JAOS. xvi. p. cxxii (= PAOS., March, 1894); SBE. xlii. 164, 521.
 </details>
 </details>

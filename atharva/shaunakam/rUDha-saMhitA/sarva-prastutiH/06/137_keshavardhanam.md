@@ -2,32 +2,24 @@
 title = "१३७ केशवर्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/137_keshavardhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/_index.md">
+<details open><summary><h2>137. To fasten and increase the hair. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 केशवर्धनम्।  
-१-३ वीतहव्यः। वनस्पतिः। अनुष्टुप्।  
-
+१-३ वीतहव्यः। वनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/137_keshavardhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (⌊keśavardhanakāmaḥ⌋ vītahavyaḥ).—vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this hymn only the second verse is found in Pāipp. (i.). It is used by Kāuś. only with the preceding hymn, as there explained.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 537.
 </details>
 </details>

@@ -2,28 +2,20 @@
 title = "००६ विषघ्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/006_viShaghnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/_index.md">
+<details open><summary><h2>6. Against the poison of a poisoned arrow. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विषघ्नम्।  
-१-८ गरत्मान्। तक्षकः, १ ब्राह्मणः, २ द्यावापृथिवी, सप्तसिन्धवः, ३ सुपर्णः, ४-८ विषम्। अनुष्टुप्।  
-
+१-८ गरत्मान्। तक्षकः, १ ब्राह्मणः, २ द्यावापृथिवी, सप्तसिन्धवः, ३ सुपर्णः, ४-८ विषम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/006_viShaghnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—aṣṭarcam. takṣakadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/006_viShaghnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The absence of this verse in Ppp., and the normal length of the hymn without it, together with its own senselessness, suggest strongly the suspicion of its unoriginality. To put meaning into it, the comm. maintains that the serpents have castes, as men have; and that their primal Brahman was Takṣaka.
 </details>
 <details><summary>Griffith</summary>

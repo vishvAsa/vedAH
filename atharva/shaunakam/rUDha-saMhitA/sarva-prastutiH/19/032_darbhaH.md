@@ -2,32 +2,24 @@
 title = "०३२ दर्भः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/032_darbhaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/032_darbhaH/_index.md">
+<details open><summary><h2>32. For long life etc.: with an amulet of darbhá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दर्भः।  
-१-१० भृगुः (आयुष्कामः)। दर्भः। अनुष्टुप्, ८ पुरस्ताद्बृहती, ९ त्रिष्टुप्, १० जगती।  
-
+१-१० भृगुः (आयुष्कामः)। दर्भः। अनुष्टुप्, ८ पुरस्ताद्बृहती, ९ त्रिष्टुप्, १० जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/032_darbhaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu (saruakāmaḥ. āyuṣe).—daśakam. mantroktadevatyam. ānuṣṭubham: 8. purastādbṛhatī; 9. triṣṭubh; 10. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/032_darbhaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xii. The comm. finds the hymn quoted in Nakṣ. K. 19, as used in a mahāśānti ceremony called yāmī, with the binding on of an amulet of darbha, in case of fear of Yama (yamabhaye).
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 289; vs. 8 also by Zimmer, p. 205, with comment.
 </details>
 <details><summary>Griffith</summary>

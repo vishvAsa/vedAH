@@ -2,28 +2,20 @@
 title = "०१६ सत्यानृतसमीक्षकः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/016_satyAnRtasamIxakaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/_index.md">
+<details open><summary><h2>16. The power of the gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सत्यानृतसमीक्षकः।  
-१-९ ब्रह्म। वरुणः, सत्यानृतान्वीक्षणम्। त्रिष्टुप्, १ अनुष्टुप्, ५ भुरिक्, ७ जगति, ८ त्रिपान्महाबृहती, विराण्नाम त्रिपाद्गायत्री।  
-
+१-९ ब्रह्म। वरुणः, सत्यानृतान्वीक्षणम्। त्रिष्टुप्, १ अनुष्टुप्, ५ भुरिक्, ७ जगति, ८ त्रिपान्महाबृहती, विराण्नाम त्रिपाद्गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/016_satyAnRtasamIxakaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—navarcam. satyānṛtānvīkṣaṇasūktam. vāruṇam. trāiṣṭubham: 1. anuṣṭubh; 5. bhurij; 7. jagatī; 8. 3-p. mahābṛhatī; 9. virāṇnāmatripādgāyatr.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Five verses of this hymn (in the verse-order 3, 2, 5, 8, 7) are found together in Pāipp. v., and parts of vss. 4 and 6 elsewhere in the same book. It is used by Kāuś. (48. 7) in a rite of sorcery against an enemy who "comes cursing"; and vs. 3 also in the portent-ceremony of the seven seers (127. 3), with praise to Varuṇa.
 
 

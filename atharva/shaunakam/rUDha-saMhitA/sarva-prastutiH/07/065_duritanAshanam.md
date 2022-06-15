@@ -2,32 +2,24 @@
 title = "०६५ दुरितनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/065_duritanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/_index.md">
+<details open><summary><h2>65 (67). To the plant apāmārgá: for cleansing. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुरितनाशनम्।  
-१-३ शुक्रः। अपामार्गवीरुत। अनुष्टुप्।  
-
+१-३ शुक्रः। अपामार्गवीरुत। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/065_duritanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—tṛcam. apāmārgavīrudddivatam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (46. 49) in a ceremony of expiation, with a fire of apāmārgá; and vss. 1, 2 are reckoned (note to 39. 7) to the kṛtyā gaṇa. And the comm. regards vss. 2 and 3 as intended at 76. 1 in the nuptial ceremonies, instead of xiv. 2. 66 (both verses having the same pratīka); in this he is evidently wrong.
 
 
-##### Translations
+#### Translations
 Translated: Grill, 38, 186; Henry, 25, 89; Griffith, i. 358; Bloomfield, 72, 556.
 </details>
 <details><summary>Griffith</summary>

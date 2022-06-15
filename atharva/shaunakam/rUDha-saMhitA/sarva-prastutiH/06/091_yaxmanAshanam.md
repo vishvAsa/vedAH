@@ -2,32 +2,24 @@
 title = "०९१ यक्ष्मनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/091_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/_index.md">
+<details open><summary><h2>91. For remedy from disease. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
-१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्, ३ आपः। अनुष्टुप्।  
-
+१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्, ३ आपः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/091_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—mantroktayakṣmanāśanadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (28. 17-20) in a healing rite against all diseases (in 17 with v. 9; in 20 alone), with binding on of a barley amulet; also reckoned to the takmanāśana gaṇa (note to 26. 1).
 
 
-##### Translations
+#### Translations
 Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 </details>
 </details>

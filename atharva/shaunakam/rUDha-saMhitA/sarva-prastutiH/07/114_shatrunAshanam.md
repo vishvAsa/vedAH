@@ -2,32 +2,24 @@
 title = "११४ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/114_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/_index.md">
+<details open><summary><h2>114 (119). Against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-२ भार्गवः। अग्नीषोमौ। अनुष्टुप्।  
-
+१-२ भार्गवः। अग्नीषोमौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/114_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhārgava.—dvyṛcam. agnīṣomīyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first verse is found also in Pāipp. xx. Used by Kāuś. (36. 39: doubtless only vs. 1) in connection with the preceding hymn, at the end of the women's rites; vs. 2, on the other hand, appears in a healing rite (31. 4) against demons, with vi. 34.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 </details>
 </details>

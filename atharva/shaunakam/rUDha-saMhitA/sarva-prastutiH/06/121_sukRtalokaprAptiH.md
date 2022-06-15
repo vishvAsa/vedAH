@@ -2,32 +2,24 @@
 title = "१२१ सुकृतलोकप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/121_sukRtalokaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/_index.md">
+<details open><summary><h2>121. For release from evil. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुकृतलोकप्राप्तिः  
--४ कौशिकः। अग्निः, ३ तारके। १-२ त्रिष्टुप्, ३-४ अनुष्टुप्।  
-
+-४ कौशिकः। अग्निः, ३ तारके। १-२ त्रिष्टुप्, ३-४ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/121_sukRtalokaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāuśika.—[caturṛcam.] mantroktadevatyam. 1, 2. triṣṭubh; 3, 4. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. ⌊For vss. 3, 4, cf. v. Schroeder, Zwei Hss., p. 15, Tübinger Kaṭka-hss., p. 75.⌋ Used by Kāuś. (52. 3) with vi. 63 and 84, in a rite for release from various bonds; ⌊and with the whole anuvāka—see under h. 114⌋.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 </details>
 </details>

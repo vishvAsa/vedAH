@@ -2,32 +2,24 @@
 title = "०३३ इन्द्रस्तवः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/033_indrastavaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/_index.md">
+<details open><summary><h2>33. Praise to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 इन्द्रस्तवः।  
-१-३ जाटिकायनः। इन्द्रः। गायत्री, २ अनुष्टुप्।  
-
+१-३ जाटिकायनः। इन्द्रः। गायत्री, २ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/033_indrastavaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Jāṭikāyana.—indradāivatam. gāyatram: 2. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix., and in AA. (v. 2. i) and śśS. (xviii. 3. 2); and the first verse, in the Nāigeya supplement to SV. i. (i. 3; or SV. i. 588). Kāuś. quotes, in the section relating to house-building, marking cattle, etc., with the simple direction ity āyojanānām apyayaḥ (23. 17); the schol. and the comm. declare it to relate to the rite for success in plowing (kṛṣikarman); the details of the process described by them have nothing to do with the expressions of the Atharvan text. Again, it appears in a kāmya ceremony (59. 18), with vii. 2, 6, etc. (by a sarvaphalakāma, comm.); and the comm. holds it to be intended (106. 1, 8) in the portent-rite for the collision of plows. It is further reckoned (note to 19. 1) to the puṣṭika mantras.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 293 or 45; Griffith, i. 263.
 </details>
 <details><summary>Griffith</summary>

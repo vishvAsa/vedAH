@@ -2,28 +2,20 @@
 title = "०४४ रोगनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/044_roganAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/_index.md">
+<details open><summary><h2>44. For cessation of a disease. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रोगनाशनम्।  
-१-३ विश्वामित्रः। वनस्पतिः। अनुष्टुप्, ३ त्रिपदा महाबृहती।  
-
+१-३ विश्वामित्रः। वनस्पतिः। अनुष्टुप्, ३ त्रिपदा महाबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/044_roganAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Viśvāmitra.—mantroktadevatyam uta vānaspatyam. ānuṣṭubham: 3. 3-p. mahābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Partly prose—vs. 3.⌋ The verses 1, 2, are found also in Pāipp., 1 a, b in iii.; 1 c, d and 2 in xix. Used in Kāuś. (31. 6) in a remedial rite against slander (apavāda; but the text ⌊cf. Bloomfield, p. xlv.⌋ reads apavātā), with help of a self-shed cow-horn properly prepared.
 </details>
 <details><summary>Griffith</summary>

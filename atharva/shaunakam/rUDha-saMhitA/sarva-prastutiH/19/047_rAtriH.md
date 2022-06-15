@@ -2,32 +2,24 @@
 title = "०४७ रात्रिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/047_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/_index.md">
+<details open><summary><h2>47. To night: for protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
-१-९ गोपथः। रात्रिः। अनुष्टुप्, १ पथ्याबृहती, २ पञ्चपदाऽनुष्टुब्गर्भा पराऽतिजगती, ६ पुरस्ताद्बृहती, ७ त्र्यवसाना षट्पदा जगती।  
-
+१-९ गोपथः। रात्रिः। अनुष्टुप्, १ पथ्याबृहती, २ पञ्चपदाऽनुष्टुब्गर्भा पराऽतिजगती, ६ पुरस्ताद्बृहती, ७ त्र्यवसाना षट्पदा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/047_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Gopatha.—navakam. mantroktarātridevatyam. ānuṣṭubham: 1. pathyābṛhatī; 2. 5-p. anuṣṭubgarbhā parātijagatī; 6. purastādbṛhatī; 7. 3-av. 6-p. jagatī.]]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/047_rAtriH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. vi. According to the comm., hymns 47 and 48 form a single "sense-hymn" (arthasūkta), and 49 and 50 another; and their use is prescribed in Pariś. 4. 3-5, as of two hymns, in a ceremony of worship of night.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 467; Zimmer, p. 179; Griffith, ii. 303.
 </details>
 <details><summary>Griffith</summary>

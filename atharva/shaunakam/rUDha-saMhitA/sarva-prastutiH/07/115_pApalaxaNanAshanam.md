@@ -2,28 +2,20 @@
 title = "११५ पापलक्षणनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/115_pApalaxaNanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/_index.md">
+<details open><summary><h2>115 (120). Against ill luck. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापलक्षणनाशनम्।  
-१-४ अथर्वाङ्गिराः। सविता, जातवेदाः। अनुष्टुप्, २-३ त्रिष्टुप्।  
-
+१-४ अथर्वाङ्गिराः। सविता, जातवेदाः। अनुष्टुप्, २-३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/115_pApalaxaNanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—caturṛcam. sāvitram; jātavedasam. ānuṣṭubham: 2, 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16-18) in rites against nirṛti ('perdition'), with the driving off of a crow to whose leg certain things have been fastened, and with casting into the water certain wraps or garments. The comm. quotes it also from the śāntikalpa (6. 16) in expiatory rites.
 </details>
 </details>

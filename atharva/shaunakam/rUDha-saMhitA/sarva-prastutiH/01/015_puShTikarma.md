@@ -2,32 +2,24 @@
 title = "०१५ पुष्टिकर्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/015_puShTikarma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/_index.md">
+<details open><summary><h2>15. With an oblation: for confluence of wealth. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पुष्टिकर्म।  
-१-४ अथर्वा। सिन्धवः,(वाताः, पतत्रिणः)। अनुष्टुप्, १-२ भुरिक्पथ्या पङ्क्तिः।  
-
+१-४ अथर्वा। सिन्धवः,(वाताः, पतत्रिणः)। अनुष्टुप्, १-२ भुरिक्पथ्या पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/015_puShTikarma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāindhavam. ānuṣṭubham: 2. bhurikpathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i. (in the verse-order 1, 4, 3, 2). Used by Kāuś. only in a general rite for prosperity (19. 4), to accompany a douche for persons bringing water from two navigable streams and partaking of a dish of mixed grain; it is also reckoned (19. 1, note) to the puṣṭika mantras, or hymns bringing prosperity.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 409; Ludwig, p. 371; Griffith, i. 19.
 </details>
 <details><summary>Griffith</summary>

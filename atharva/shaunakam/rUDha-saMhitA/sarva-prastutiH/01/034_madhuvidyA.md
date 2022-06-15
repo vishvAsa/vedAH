@@ -2,32 +2,24 @@
 title = "०३४ मधुविद्या"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/034_madhuvidyA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/_index.md">
+<details open><summary><h2>34. A love-spell: with a sweet herb. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मधुविद्या।  
-१-५ अथर्वा।मधुवनस्पतिः। अनुष्टुप्।  
-
+१-५ अथर्वा।मधुवनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/034_madhuvidyA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan,—pañcarcam. madughamaṇisūktam. vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Verses 1, 2, 5 are found in Pāipp. ii., vs. 3 in vi., and vs. 4 in part in viii. It is used by Kāuś. in a ceremony for superiority in disputation (38. 17): the ambitious disputant is to come into the assembly from the north-east, chewing the sweet plant; again, twice in the nuptial ceremonies, once with tying a madugha amulet on the finger (76. 8), and once (79. 10) on crushing the amulet at the consummation of the marriage. The comm. further declares it used at the disputation in the aśvamedha sacrifice; but he quotes no authority for it. All these applications are evidently imposed upon the hymn, not contained in it.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 429; Grill, 52, 78; Griffith, i. 38; Bloomfield, 99, 274.—Cf. Hillebrandt, Veda-chrestomathie, p. 46.
 </details>
 <details><summary>Griffith</summary>

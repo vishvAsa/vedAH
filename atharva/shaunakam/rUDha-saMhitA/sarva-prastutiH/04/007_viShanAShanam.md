@@ -2,32 +2,24 @@
 title = "००७ विषनाषनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/007_viShanAShanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/_index.md">
+<details open><summary><h2>7. Against poison. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विषनाषनम्  
-१-७ गरुत्मान्। वनस्पतिः। अनुष्टुप्, ४ स्वरीट्।  
-
+१-७ गरुत्मान्। वनस्पतिः। अनुष्टुप्, ४ स्वरीट्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/007_viShanAShanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—vānaspatyam. ānuṣṭubham: 4. svarāj.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp., but not all together; vs. 1 occurs in v., vss. 2-6 in ii., and vs. 7 in vi. Not used by Kāuś. unless it is properly regarded by the schol. and the comm. (see under h. 6) as included with h. 6 by the citation (28. 1) of the latter's pratīka (the comm. puts it on the ground of the paribhāṣā rule grahaṇam ā grahaṇāt, Kāuś. 8. 21).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 201; Grill, 28, 121; Griffith, i. 138; Bloomfield, 26, 376; Weber, xviii. 26.
 </details>
 <details><summary>Griffith</summary>

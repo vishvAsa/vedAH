@@ -2,32 +2,24 @@
 title = "०२० सुरक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/020_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/_index.md">
+<details open><summary><h2>20. For protection by various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
-१-४ अथर्वा। बहुदैवत्यम्। १ त्रिष्टुप्, २ जगती, ३ पुरस्ताद्बृहती, ४ अनुष्टुगर्भा।  
-
+१-४ अथर्वा। बहुदैवत्यम्। १ त्रिष्टुप्, २ जगती, ३ पुरस्ताद्बृहती, ४ अनुष्टुगर्भा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/020_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—bahudevatyam. trāiṣṭubham: 2. jagatī; 3. purastādbṛhatī; 4. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not found in Pāipp.⌋ The comm. says, purely on his own authority, that with this hymn the purohita arms with a breastplate a king going to battle. ⌊For the reference to vs. 4 in Kāuś. 25. 36 note, see above, introd. to viii. 5.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 279. ⌊In Anukr. we miss caturṛcam.⌋
 </details>
 <details><summary>Griffith</summary>

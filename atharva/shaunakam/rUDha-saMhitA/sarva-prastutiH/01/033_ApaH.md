@@ -2,32 +2,24 @@
 title = "०३३ आपः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/033_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/_index.md">
+<details open><summary><h2>33. To the waters: for blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आपः।  
-१-४ शन्तातिः।(चन्द्रमाः) आपः(च)। त्रिष्टुप्।  
-
+१-४ शन्तातिः।(चन्द्रमाः) आपः(च)। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/033_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—cāndramasam āpyam uta. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/033_ApaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i., and also in TS. (v. 6. 1), MS. (ii. 13. 1), and the Mantrapāṭha ⌊i. 2. 2-5⌋ (Winternitz in Denksch. d. Wiener Akad. xl. 44). ⌊See also MGS. i. 2. 11 and p. 158.⌋ Reckoned by Kāuś. to the apāṁ sūktāni 'hymns of the waters' (121. 1, and 7. 14, note), also to both the śānti gaņas (9. 1, 4); appears further, with several other hymns, in a rite for good-fortune (41. 14); and in the godāna ceremony to accompany bathing after the shaving (54. 5), also in the feet-washing of a guest (90. 9), against the portent of the appearance of water in a waterless place (121. 1), and against that of the causeless breaking of water-jars etc. (136. 8). And the comm. quotes it as employed by Pariśiṣṭa v. 2 in the puṣpābhiṣeka rite.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 428; Winternitz, Hochzeitsrituell, Wiener Denkschr. xl. 44; Griffith, i. 37.
 </details>
 <details><summary>Griffith</summary>

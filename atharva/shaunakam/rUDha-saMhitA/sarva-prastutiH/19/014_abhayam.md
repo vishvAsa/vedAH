@@ -2,32 +2,24 @@
 title = "०१४ अभयम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/014_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/_index.md">
+<details open><summary><h2>14. For safety. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
-१ अथर्वा। द्यावापृथिवी। त्रिष्टुप्।  
-
+१ अथर्वा। द्यावापृथिवी। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/014_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekarcam . dyāvāpṛthivīyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn is not found in Pāipp. It and the one following are included in the abhaya gaṇa (note to Kāuś. 16. 8).
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 274. Griffith calls it a "hymn after victory" and refers tvā to the conquered enemy.
 </details>
 <details><summary>Griffith</summary>

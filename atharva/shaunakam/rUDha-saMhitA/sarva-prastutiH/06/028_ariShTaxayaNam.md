@@ -2,32 +2,24 @@
 title = "०२८ अरिष्टक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/028_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/_index.md">
+<details open><summary><h2>28. Against birds of ill omen etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
-१-३ भृगुः। यमः, निर्ऋतिः। १ त्रिष्टुप्, २ अनुष्टुप्, ३ जगती।  
-
+१-३ भृगुः। यमः, निर्ऋतिः। १ त्रिष्टुप्, २ अनुष्टुप्, ३ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/028_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—yāmyam uta nāirṛtam. trāiṣṭubham: 2. anuṣṭubh; 3. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 All the verses found also in Pāipp., but not together; 1. occurs after the preceding hymn in xix.; 3. at a later point in xix.; 2. in x.; and there is no internal connection perceptible among them. Used by Kāuś., with the preceding and the following hymn, against birds of ill omen (46. 7); and vs. 2 is especially quoted as accompanying the leading of a cow [and] fire three times around the house. ⌊Vss. 1 and 3 occur at MGS. ii. 17. 1—see under h. 27.⌋
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 285 or 37; Griffith, i. 260.
 </details>
 <details><summary>Griffith</summary>

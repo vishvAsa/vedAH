@@ -2,32 +2,24 @@
 title = "०७१ अग्निः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/071_agniH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/071_agniH/_index.md">
+<details open><summary><h2>71 (74). To Agni: for protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अग्निः।  
-१ अथर्वा। अग्निः। अनुष्टुप्।  
-
+१ अथर्वा। अग्निः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/071_agniH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/071_agniH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used in Kāuś. (2. 10), in the parvan sacrifices, to accompany the carrying of fire thrice about the offering. In Vāit., it occurs in the agniṣṭoma (21. 15), and also in the agnicayana (28. 8), in the same circling with fire.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 27, 92; Griffith, i. 361.
 </details>
 <details><summary>Griffith</summary>

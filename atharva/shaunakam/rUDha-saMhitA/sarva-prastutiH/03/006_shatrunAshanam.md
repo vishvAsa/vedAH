@@ -2,28 +2,20 @@
 title = "००६ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/006_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/_index.md">
+<details open><summary><h2>6. Against enemies: with aśvatthá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-८ जगद्वीजं पुरुषः। वानस्पत्योऽश्वत्थः। अनुष्टुप्।  
-
+१-८ जगद्वीजं पुरुषः। वानस्पत्योऽश्वत्थः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/006_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Jagadbījampuruṣa.—aṣṭarcam. vānaspatyāśvatthadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 A very acceptable emendation would be pári jātás, since pári is plainly accessory to the ablative puṁsás, as ádhi to khadirā́t in b (cf. ásatas pári jajñiré, x. 7. 25). Ppp. retains the initial a of aśvatthas, and begins d with yāṅś cā ’ham. The aśvattha begins as a parasite, usually on the śamī (fem.), this time from the hard khadira (masc).
 </details>
 <details><summary>Griffith</summary>

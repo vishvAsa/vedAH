@@ -2,32 +2,24 @@
 title = "०५४ अमित्रदम्भनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/054_amitradambhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/_index.md">
+<details open><summary><h2>54. To secure and increase some one's superiority. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अमित्रदम्भनम्।  
-१-३ ब्रह्मा। अग्नीषोमौ। अनुष्टुप्।  
-
+१-३ ब्रह्मा। अग्नीषोमौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/054_amitradambhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āgnīṣomīyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (48. 27), in a sorcery, with vii. 70, with the direction ity āhitāgnim pratinirvapati; vs. 2 appears also in the parvan sacrifice (4. 19), with an offering to Agni and Soma. And vs. 2 appears in Vāit. (3. 4), in the parvan sacrifice, with a silent offering to the same gods.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 275.—He entitles it "Benediction on a newly elected King."
 </details>
 <details><summary>Griffith</summary>

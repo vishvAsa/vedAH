@@ -2,32 +2,24 @@
 title = "०३४ जङ्गिडमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/034_jangiDamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/_index.md">
+<details open><summary><h2>34. With a jan̄giḍá-amulet: for protection etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जङ्गिडमणिः।  
-१-१० अङ्गिराः। वनस्पतिः, लिङ्गोक्ताः। अनुष्टुप्।  
-
+१-१० अङ्गिराः। वनस्पतिः, लिङ्गोक्ताः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/034_jangiDamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.—daśakam. mantroktadevatyam uta vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xi. The comm. quotes it as used by Nakṣ. K. 19, in a mahāśānti ceremony called vāyavyā, with the binding on of an amulet from the jan̄giḍa tree. Hymn 35 is used in company with it.
 
 
-##### Translations
+#### Translations
 Translated: Bloomfield, 38, 669; Griffith, ii. 291; verses 1 and 7 ab also by Grohmann, Ind. Stud. ix. 417-18.
 </details>
 <details><summary>Griffith</summary>

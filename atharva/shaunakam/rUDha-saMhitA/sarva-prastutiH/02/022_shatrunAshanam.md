@@ -2,18 +2,13 @@
 title = "०२२ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/022_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/_index.md">
+<details open><summary><h2>०२२ शत्रुनाशनम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-५ अथर्वा। चन्द्रः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।  
-
+१-५ अथर्वा। चन्द्रः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ चन्द्र यत्

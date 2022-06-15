@@ -2,32 +2,24 @@
 title = "००६ अपां भेषजम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/006_apAM_bheShajam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/_index.md">
+<details open><summary><h2>6. To the waters: for blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अपां भेषजम्।  
-१-४ सिन्धुद्वीपः।(अथर्वा कृतिर्वा)। (अपांनपात्,) आपः, २ आपः सोमोऽग्निश्च। गायत्री, ४ पथ्यापङ्क्तिः।  
-
+१-४ सिन्धुद्वीपः।(अथर्वा कृतिर्वा)। (अपांनपात्,) आपः, २ आपः सोमोऽग्निश्च। गायत्री, ४ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/006_apAM_bheShajam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Sindhudvīpa (Atharvākṛti).—(etc., as 4). 4. pathyāpan̄kti.]]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is not found in Pāipp., but perhaps stood at the beginning of its text, on the lost first leaf: see ⌊Bloomfield's introd. to the Kāuś., p. xxxvii and ref's, esp. Weber, v. 78 and xiii. 431⌋. Verses 1-3 occur in RV., as noted under the preceding hymn, and 1-2 in other texts, as pointed out under the verses. For the use of the hymn, with its predecessor or its two predecessors, in Kāuś. and Vāit., see above, under those hymns. Verse 1 is also (Kāuś. 9. 7) directed to be repeated (with the gāyatrī or sāvitrī-verse) at the beginning and end of śānti rites, and to be recited part by part six times, with rinsing of the mouth, in the indramahotsava ceremony (140. 5).
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 397; Griffith, i. 8.
 </details>
 <details><summary>Griffith</summary>

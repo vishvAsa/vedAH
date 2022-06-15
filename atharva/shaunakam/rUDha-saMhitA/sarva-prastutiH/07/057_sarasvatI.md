@@ -2,32 +2,24 @@
 title = "०५७ सरस्वती"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/057_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/_index.md">
+<details open><summary><h2>57 (59). Prayer to Sarasvati etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
-१-२ वामदेवः। सरस्वती। जगती।  
-
+१-२ वामदेवः। सरस्वती। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/057_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Vāmadeva.—dvyṛcam. sārasvatam. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The two verses are both found in Pāipp. xx., but in different places. In Kāuś. (46. 6) it is joined with v. 7. 5 in a rite for success when asking for something (the schol. and comm. specify both verses as employed).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 446; Henry, 22, 84; Griffith, i. 354.
 </details>
 <details><summary>Griffith</summary>

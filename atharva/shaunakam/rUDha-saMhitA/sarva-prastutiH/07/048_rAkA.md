@@ -2,32 +2,24 @@
 title = "०४८ राका"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/048_rAkA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/048_rAkA/_index.md">
+<details open><summary><h2>48 (50). To Rākā (goddess of the full moon). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राका।  
-१-२अथर्वा। राका। जगती।  
-
+१-२अथर्वा। राका। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/048_rAkA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—dvyṛcam. mantroktadevatyam. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/048_rAkA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Further, as RV. ii. 32. 4, 5 and in TS. (iii. 3. 115), MS. (iv. 12. 6), and MB. (i. 5. 3, 4). As to use in Kāuś. and Vāit., see under hymn 47. The second half of verse 2 is further found in the adbhuta chapter of Kāuś. (106. 7) as part of a series of verses there given in full.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 17, 74; Griffith, i. 348.
 </details>
 <details><summary>Griffith</summary>

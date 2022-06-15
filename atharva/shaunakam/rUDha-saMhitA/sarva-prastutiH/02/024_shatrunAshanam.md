@@ -2,28 +2,20 @@
 title = "०२४ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/024_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/_index.md">
+<details open><summary><h2>24. Against kimīdíns, male and female. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-८ ब्रह्मा। आयुष्यम्। पङ्क्तिः, १-२ पुरउष्णिक्, ३-४ पुरोदेवत्या पङ्क्तिः(१-४ विराट्), ५-८ पञ्चपदा पथ्यापङ्क्तिः (५ भुरिक्, ६-७ निचृत्, ५ चतुष्पदा बृहती, ७-८ भुरिक्)।  
-
+१-८ ब्रह्मा। आयुष्यम्। पङ्क्तिः, १-२ पुरउष्णिक्, ३-४ पुरोदेवत्या पङ्क्तिः(१-४ विराट्), ५-८ पञ्चपदा पथ्यापङ्क्तिः (५ भुरिक्, ६-७ निचृत्, ५ चतुष्पदा बृहती, ७-८ भुरिक्)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/024_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭarcam. āyuṣyam. pān̄ktam....]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Ppp. reads: śarabhaka ṣeraśabha punar bho yānti yādavaṣ punar hatiṣ kimīdinaḥ yasya stha dam atta yo va prāhī tam uttam māsāṅsa manyatā. The comm. in the last phrase gives sā instead of svā and has much trouble to fabricate an explanation for it (as = tasya, or else for sā hetiḥ). śerabhaka he takes as either sukhasya prāpaka or śarabhavat sarveṣām hiṅsaka, but is confident that it designates a "chief of yātudhānas." Of the refrain, the first part seems metrical, and the second prose, in three phrases; and it may be counted as 8 + 8: 6 + 7 + 5 (or 7) = 34 (or 36): the prefixed names add 7 syllables (vss. 1, 2), or 5 (vss. 3, 4), or 3 (vss. 6-8), or 2 (vs. 5). ⌊Bloomfield comments on áhāit and the like, ZDMG. xlviii. 577.⌋
 </details>
 <details><summary>Griffith</summary>

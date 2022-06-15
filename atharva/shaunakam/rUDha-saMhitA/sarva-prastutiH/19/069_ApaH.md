@@ -2,32 +2,24 @@
 title = "०६९ आपः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/069_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/_index.md">
+<details open><summary><h2>69. To the waters: for long life. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आपः।  
-१-४ ब्रह्मा। आपः। १ आसुर्यनुष्टुप्, २ साम्न्यनुष्टुप्, ३ आसुरी गायत्री, ४ साम्न्युष्णिक् ( १-४ एकावसाना)।  
-
+१-४ ब्रह्मा। आपः। १ आसुर्यनुष्टुप्, २ साम्न्यनुष्टुप्, ३ आसुरी गायत्री, ४ साम्न्युष्णिक् ( १-४ एकावसाना)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/069_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—catasraḥ. mantroktādevatyāḥ. 1. āsury anuṣṭubh; 2. sāmny anuṣṭubh; 3. āsurī gāyatrī; 4. sāmny uṣṇih (1-4. 1-av.).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ Found also in Pāipp. xix. The four verses of this hymn are called in Kāuś. and Vāit. jivās, and are prescribed to accompany the rinsing of the mouth with water in the parvan ceremony (Kāuś. 3. 4; Vāit. 1. 19, misunderstood by the editor), in a rite for long life at the reception of a Vedic student (Kāuś. 58. 7), and in the madhuparka ceremony (Kāuś. 90. 22); of these the comm. takes notice only of Kāuś. 58. 7. With this use is doubtless connected the attribution of the hymn in the Anukr. to the waters as divinity. ⌊As to the citation by technical designation, and especially as to the ritual uses, see p. 897, ¶2.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 320.
 </details>
 <details><summary>Griffith</summary>

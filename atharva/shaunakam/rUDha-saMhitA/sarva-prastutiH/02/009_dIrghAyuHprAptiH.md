@@ -2,32 +2,24 @@
 title = "००९ दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/009_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>9. Against possession by demons: with an amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१- ५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्मनाशनम्। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।  
-
+१- ५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्मनाशनम्। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/009_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—vānaspatyam; yahṣmanāśanadāivatam. ānuṣṭubham: 1. virāṭprastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. ii. (in the verse-order 1, 5, 4, 2, 3). Reckoned, like the next preceding and the next following hymn, to the takmanāśana gaṇa (Kāuś. 26. 1, note), and made (27. 5, 6) to accompany the binding on of an amulet composed of splinters (from ten different trees: the comm.), being muttered by ten friends who lay hands on the patient.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 153; Ludwig, p. 506; Grill, 8, 82; Griffith, i. 51; Bloomfield, 34, 290.—Cf. Bergaigne-Henry, Manuel, p. 137.
 </details>
 <details><summary>Griffith</summary>

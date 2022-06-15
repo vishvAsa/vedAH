@@ -2,32 +2,24 @@
 title = "०३२ यातुधानक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/032_yAtudhAnaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/_index.md">
+<details open><summary><h2>32. Against demons. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यातुधानक्षयणम्।  
-(१-३) १-२ चातनः, ३ अथर्वा। १ अग्निः, २ रुद्रः, ३ मित्रावरुणौ। त्रिष्टुप्, २ प्रस्तारपङ्क्तिः।  
-
+(१-३) १-२ चातनः, ३ अथर्वा। १ अग्निः, २ रुद्रः, ३ मित्रावरुणौ। त्रिष्टुप्, २ प्रस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/032_yAtudhAnaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [1, 2. Cātana; 3. Atharvan.—agnidāivatam. trāiṣṭubham: 2. prastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses found also in Pāipp. xix.* Kāuś. has the hymn (or vss. 1, 2) in a remedial rite against demons (31. 3); the fire is circumambulated three times, and a cake is offered; and it is reckoned (note to 8. 25) to the cātana gaṇa. Verse 3 is by itself reckoned (note to 16. 8) to the abhaya gaṇa, and also (note to 25. 36) to the svastyayana gaṇa. *⌊Ppp. then has a third verse, whose a = vi. 40. 1 a, and whose b is corrupt. Roth's note seems incomplete.⌋
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 291 or 43; Griffith, i. 262; Bloomfield, 36, 475.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००२ आत्मगोपनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/002_Atmagopanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/_index.md">
+<details open><summary><h2>2. Praise and prayer to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मगोपनम्।  
-१-३ अथर्वा। सोमः, वनस्पतिः। परोष्णिक्।  
-
+१-३ अथर्वा। सोमः, वनस्पतिः। परोष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/002_Atmagopanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—vānaspatyaṁ sāumyam. āuṣṇiham: 1-3. paroṣṇiḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (in the order 1, 3, 2). The second verse is used by Kāuś. (29. 27) in a remedial rite against demons, while partaking of a rice-mess boiled over birds' nests. Vāit. (16. 13) has the hymn in the agniṣṭoma, when the soma is turned into the large wooden vessel.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 251 or 3; Griffith, i. 245; Bloomfield, 66, 458.
 </details>
 <details><summary>Griffith</summary>

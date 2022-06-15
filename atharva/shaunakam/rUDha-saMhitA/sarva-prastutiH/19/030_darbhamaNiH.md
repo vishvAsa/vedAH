@@ -2,32 +2,24 @@
 title = "०३० दर्भमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/030_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/_index.md">
+<details open><summary><h2>30. For protection etc.: with an amulet of darbhá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
-१-५ ब्रह्मा। दर्भमणिः। अनुष्टुप्।  
-
+१-५ ब्रह्मा। दर्भमणिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/030_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 28. pañcakam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xiii., with the two preceding, and, according to the comm., associated with them in use.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 287. ⌊☞ See p. 1045.⌋
 </details>
 <details><summary>Griffith</summary>

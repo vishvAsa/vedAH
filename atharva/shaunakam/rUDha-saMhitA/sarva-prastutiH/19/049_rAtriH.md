@@ -2,31 +2,24 @@
 title = "०४९ रात्रिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/049_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/_index.md">
+<details open><summary><h2>49. Praise and prayer to night. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
-१-१० गोपथः, भरद्वाजश्च। रात्रिः। अनुष्टुप्, १-५, ८ त्रिष्टुप्, ६ आस्तारपङ्क्तिः, ७ पथ्यापङ्क्तिः, १० त्र्यवसाना  
-
+१-१० गोपथः, भरद्वाजश्च। रात्रिः। अनुष्टुप्, १-५, ८ त्रिष्टुप्, ६ आस्तारपङ्क्तिः, ७ पथ्यापङ्क्तिः, १० त्र्यवसाना
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/049_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 47.*—daśakam. ānuṣṭubham: 1-5, 8. triṣṭubh; 6. āstārapan̄kti; 7. pathyāpan̄kti; 10. 3-av. 6-p. jagatī.] *⌊The Anukr. adds bharadvājaś ca (or bhārad-), apparently meaning that Gopatha and Bharadvāja were jointly the seers in the case of this hymn.⌋
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn and the following occur together also in Pāipp. xiv. Their viniyoga is the same with that of the two preceding hymns (see under hymn 47). They are translated together (but in reversed order) by Ludwig.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 466; Griffith, ii. 306.
 </details>
 <details><summary>Griffith</summary>

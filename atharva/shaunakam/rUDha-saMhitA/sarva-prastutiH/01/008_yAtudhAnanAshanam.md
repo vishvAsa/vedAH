@@ -2,32 +2,24 @@
 title = "००८ यातुधाननाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/008_yAtudhAnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/_index.md">
+<details open><summary><h2>8. To Agni and other gods: for the discovery of sorcerers. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यातुधाननाशनम्।  
-१-४ चातनः। १-२ बृहस्पतिः, अग्नीषोमौ च, ३-४ अग्निः (जातवेदाः)। १-३ अनुष्टुप्, ४ बार्हतगर्भा त्रिष्टुप्।  
-
+१-४ चातनः। १-२ बृहस्पतिः, अग्नीषोमौ च, ३-४ अग्निः (जातवेदाः)। १-३ अनुष्टुप्, ४ बार्हतगर्भा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/008_yAtudhAnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—ānuṣṭubham: 4. bārhatagarbhā triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn, except vs. 4, is found in Pāipp. iv. also next after our hymn 7, but in the verse-order 1, 3, 2. For its use by Kāuś. with 7, see under the latter.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 401; Ludwig, p. 523; Griffith, i. 11; Bloomfield, 65, 239.—Cf. Bergaigne-Henry, Manuel, p. 132; Whitney, Festgruss an Roth, p. 94 f.
 </details>
 <details><summary>Griffith</summary>

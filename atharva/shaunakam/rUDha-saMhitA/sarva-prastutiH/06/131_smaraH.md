@@ -2,32 +2,24 @@
 title = "१३१ स्मरः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/131_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/_index.md">
+<details open><summary><h2>131. To win a man's love. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्मरः।  
-१-३ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्।  
-
+१-३ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/131_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—smaradevatākam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. (like the preceding and the following hymn). Used by Kāug. only with the preceding and the following hymn (see under the former).
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfield, 104, 535.
 </details>
 </details>

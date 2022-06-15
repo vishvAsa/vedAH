@@ -2,33 +2,25 @@
 title = "०९३ स्वस्त्ययनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/093_svastyayanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/_index.md">
+<details open><summary><h2>93. For protection: to many gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वस्त्ययनम्।  
 १-३ शन्तातिः। रुद्रः, १ यमो, मृत्युः, शर्वः, २ भवः, शर्वः  
-३ विश्वे देवाः, मरुतः, अग्नीषोमौ, वरुणः, वातपर्जन्यौ। त्रिष्टुप्।  
-
+३ विश्वे देवाः, मरुतः, अग्नीषोमौ, वरुणः, वातपर्जन्यौ। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/093_svastyayanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—rāudram: 3. bahudevatyā. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Reckoned by Kāuś. (8. 23) to the vāstoṣpatyāni, and also (9. 2) to the bṛhachānti gaṇa; used (50. 13), with vi. i, 3, 59, and others, in a rite for welfare; further added (note to 25. 36) to the svastyayana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 </details>
 </details>

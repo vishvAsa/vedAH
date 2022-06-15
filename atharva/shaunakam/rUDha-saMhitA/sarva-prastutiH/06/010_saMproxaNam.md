@@ -2,32 +2,24 @@
 title = "०१० संप्रोक्षणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/010_saMproxaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/_index.md">
+<details open><summary><h2>10. Greeting to divinities etc. of the three spheres. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 संप्रोक्षणम्।  
-१-३ शन्तातिः। १ पृथिवि, श्रोत्रं, वनस्पतिः, अग्निः, २ प्राणः, अन्तरिक्षं, वयः, वायुः, ३ द्यौः, चक्षुः, नक्षत्राणि, सूर्यः। द्वैपदम्, १ साम्नी त्रिष्टुप्, २ प्राजापत्या बृहती, ३ साम्नी बृहती।  
-
+१-३ शन्तातिः। १ पृथिवि, श्रोत्रं, वनस्पतिः, अग्निः, २ प्राणः, अन्तरिक्षं, वयः, वायुः, ३ द्यौः, चक्षुः, नक्षत्राणि, सूर्यः। द्वैपदम्, १ साम्नी त्रिष्टुप्, २ प्राजापत्या बृहती, ३ साम्नी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/010_saMproxaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—nānādevatyam: 1. āgneyī, 2. vāyavyā, 3. sāuryā. 1. sāmnī triṣṭubh, 2. prājāpatyā bṛhatī, 3. sāmnī bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This prose hymn is not found in Pāipp. In Kāuś. (9. 3, 5), it is quoted after each śānti gaṇa, to accompany a pouring out of water three times (iti triḥ pratyāsiñcati; the comm. does not notice this use); and again (12. 3), it is prescribed in all rites for success; being further (note to 8. 23) reclconed to the vāstu gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 258 or 10; Griffith, i. 249.
 </details>
 <details><summary>Griffith</summary>

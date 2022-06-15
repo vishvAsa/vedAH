@@ -2,32 +2,24 @@
 title = "०३५ सपत्नीनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/035_sapatnInAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/_index.md">
+<details open><summary><h2>35 (36). Against a rival (woman). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सपत्नीनाशनम्।  
-१-३ अथर्वा। जातवेदाः। १ जगती, २ अनुष्टुप्, ३ त्रिष्टुप्।  
-
+१-३ अथर्वा। जातवेदाः। १ जगती, २ अनुष्टुप्, ३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/035_sapatnInAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—tṛcam. jātavedasam. ānuṣṭubham: 1, 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses are found also in Pāipp. xx., but not together. Kāuś. employs the hymn in the same rule (36. 33) as hymn 34, to prevent an enemy's wife from bearing children; only vss. 2 and 3 are suited to such use. For the use of vs. 1 by Vāit. (29. 6), see under the preceding hymn.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 477 (vss. 2, 3); Henry, 13, 67; Griffith, 1. 343, and 475; Bloomfield, 98, 545.
 </details>
 <details><summary>Griffith</summary>

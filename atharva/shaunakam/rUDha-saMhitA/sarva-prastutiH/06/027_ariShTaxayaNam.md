@@ -2,28 +2,20 @@
 title = "०२७ अरिष्टक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/027_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/_index.md">
+<details open><summary><h2>27. Against birds of ill omen. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
-१-३ भृगुः। यमः, निर्ऋतिः। जगती, २ त्रिष्टुप्।  
-
+१-३ भृगुः। यमः, निर्ऋतिः। जगती, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/027_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—yāmyam uta nāirṛtam. jāgatam: 2. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 RV. has precisely the same text in this verse. Ppp. begins with devaṣ k-. Some of the mss. (including our P.M.W.T.) read níḥkṛtiṁ in c. The verse lacks two syllables of being a full jagatī.
 </details>
 <details><summary>Griffith</summary>

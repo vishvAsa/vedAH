@@ -2,32 +2,24 @@
 title = "०१७ बलप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/017_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/_index.md">
+<details open><summary><h2>17. For various gifts. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
-१-७ ब्रह्मा। प्राणः, अपानः, आयुः। (एकावसानम्) १-६ एकपदासुरी त्रिष्टुप्, ७ आसुरी उष्णिक्।  
-
+१-७ ब्रह्मा। प्राणः, अपानः, आयुः। (एकावसानम्) १-६ एकपदासुरी त्रिष्टुप्, ७ आसुरी उष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/017_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—saptarcam. prāṇāpānāyurdevatyam. ekāvasānam: 1-6. 1-p. āsurī triṣṭubh; 7. āsury uṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not metrical.⌋ Pāipp. has a similar set of phrases in ii. For the use of the hymn by Kāuś. and Vāit, see under hymn 16. It is also, with 15 and others, reckoned by the schol. to Kāuś. (54. 11, note) to the āyuṣya gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 180; Griffith, i. 61.
 </details>
 <details><summary>Griffith</summary>

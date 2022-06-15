@@ -2,32 +2,24 @@
 title = "०१९ शर्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/019_sharma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/_index.md">
+<details open><summary><h2>19. For protection by various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शर्म।  
-१-११ अथर्वा। चन्द्रमाः, मन्त्रोक्ताश्च। पङ्क्तिः १, ३, ९ भुरिग्बृहती, १० स्वराट्, २, ४-८, ११ अनुष्टुगर्भा।  
-
+१-११ अथर्वा। चन्द्रमाः, मन्त्रोक्ताश्च। पङ्क्तिः १, ३, ९ भुरिग्बृहती, १० स्वराट्, २, ४-८, ११ अनुष्टुगर्भा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/019_sharma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekādaśakam. cāndramasam uta mantroktadtvatyam. pān̄ktam: 1, 3, 9. bhurig bṛhatī; 10. svarāj; 2, 4-8, 11. anuṣṭubgarbhā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ The comm. says that, besides the uses stated in connection with preceding hymns, the purohita is to accompany with this the entrance of the king in the night into his sleeping-house; and that it also appears in the ceremony of a king's entrance into his city.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 278.
 </details>
 <details><summary>Griffith</summary>

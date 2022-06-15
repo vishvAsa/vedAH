@@ -2,32 +2,24 @@
 title = "००४ दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/004_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>4. Against various evils: with a jan̄giḍá amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१-६ अथर्वा। (चन्द्रमाः,) जङ्गिडः। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।  
-
+१-६ अथर्वा। (चन्द्रमाः,) जङ्गिडः। अनुष्टुप्, १ विराट् प्रस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/004_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ṣaḍṛcam. cāndramasam uta jan̄giḍadevatākam. ānuṣṭubham: 1. virāṭ prastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (except vs. 6 and parts of 1 and 2) in Pāipp. ii. Accompanies in Kāug. (42. 23) the binding on of an amulet "as described in the text" (iti mantroktam), against various evils (the comm. says, "for thwarting witchcraft, for protecting one's self, for putting down hindrances").
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 140; Griffith, i. 45; Bloomfield, 37, 280; in part also by Grohmann, Ind. Stud. ix. 417-418.—As to the jan̄giḍá see Zimmer, p. 65; also Weber and Grohmann, ll. cc.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०२५ कामस्य इषुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/025_kAmasya_iShuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/_index.md">
+<details open><summary><h2>25. To command a woman's love. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कामस्य इषुः।  
-१-६ भृगुः। मित्रावरुणौ, कामेषुः। अनुष्टुप्।  
-
+१-६ भृगुः। मित्रावरुणौ, कामेषुः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/025_kAmasya_iShuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu (jāyākāmaḥ).—māitrāvaruṇaṁ kāmeṣudevatākaṁ ca. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (35. 22) in the chapters of women's rites, in a charm for bringing a woman under one's control, by pushing her with a finger, piercing the heart of an image of her, etc.
 
 
-##### Translations
+#### Translations
 Translated: Weber, v. 224; Muir, OST. v. 407; Ludwig, p. 516; Zimmer, p. 307; Weber, xvii. 290; Grill, 53, 115; Griffith, i. 119; Bloomfield, 102, 358.—Cf. Zimmer, p. 300; Bergaigne-Henry, Manuel, p. 144. Muir gives only a part.
 </details>
 <details><summary>Griffith</summary>

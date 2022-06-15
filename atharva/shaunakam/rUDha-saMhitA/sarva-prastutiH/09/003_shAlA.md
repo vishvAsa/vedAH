@@ -2,33 +2,26 @@
 title = "००३ शाला"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/09/003_shAlA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/_index.md">
+<details open><summary><h2>3. To accompany the releasing of a house. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शाला।  
 १-३१ भृग्वङ्गिराः। शाला। अनुष्टुप्, ६ पथ्यापङ्क्तिः, ७ परोष्णिक्, १५ त्र्यवसाना पञ्चपदातिशक्वरी,  
 १७ प्रस्तारपङ्क्तिः, २१ आस्तारपङ्क्तिः २५-३१ त्रिपदा प्राजापत्या बृहती, २६ साम्नी त्रिष्टुप्,  
-२७-३० प्रतिष्ठानाम गायत्री, (२५-३१) एकावसाना त्रिपदा।  
-
+२७-३० प्रतिष्ठानाम गायत्री, (२५-३१) एकावसाना त्रिपदा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/09/003_shAlA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—ekatriṅśatkam. śālādevatyam. ānuṣṭubham: 6. pathyāpan̄kti; 7. paroṣṇih; 15. 3-av. 5-p. atiśakvarī; 17. prastārapan̄kti; 21. āstārapan̄kti; 25, 31. 3-p. prajāpatyā bṛhatī; 26. sāmnī triṣṭubh; 27-30. pratiṣṭhānāmagāyatrī; 23-31. 1-av. 3-p.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Partly prose—25 to end.⌋ Found also in Pāipp. xvi. (in the verse-order 1-3, 5, 4, 6-10, 14, 16, 11, 12, 13, 15, 17, 21, 18, 20, 19, 24, 23, 22, 25-31). The hymn is not noticed in Vāit.; but several verses (1, 15, 18, 22, 24) are quoted in Kāuś. 66. 22-30, in connection with an inauguration-ceremony (savayajña) in which a house (a toy house?) is an object given.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 464; Zimmer, p. 151 (vss. 1-24); Grill, 60, 188 (vss. 1-24); Henry, 87, 121; Griffith, i. 434; Bloomfield, 193, 595.—Cf. also Oldenberg, IFA. vi. 179.
 </details>
 <details><summary>Griffith</summary>

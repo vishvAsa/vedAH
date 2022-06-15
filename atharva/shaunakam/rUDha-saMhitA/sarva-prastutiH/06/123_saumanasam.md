@@ -2,33 +2,25 @@
 title = "१२३ सौमनसम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/123_saumanasam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/_index.md">
+<details open><summary><h2>123. For the success of an offering. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सौमनसम्।  
-१-५ भृगुः। विश्वे देवाः। त्रिष्टुप्, ३ द्विपदा साम्म्यनुष्टुप्, ४ एकावसाना द्विपदा प्राजापत्या भुरिगनुष्टु।  
-
+१-५ भृगुः। विश्वे देवाः। त्रिष्टुप्, ३ द्विपदा साम्म्यनुष्टुप्, ४ एकावसाना द्विपदा प्राजापत्या भुरिगनुष्टु।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/123_saumanasam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—pañcarcam, vāiśvadevam. trāiṣṭubham: 3. 2-p. sāmny anuṣṭubh; 4. 1-av. 2-p. prājāpatyā bhurig anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Partly prose, 3 and 4.⌋ This hymn and the one following are not found in Pāipp. Its uses by Kāuś. and Vāit. with hymn 122 are explained under that hymn. And vss. 3-5 appear also in Vāit. (2. 15), at the parvan sacrifice, in the ceremony of pravaraṇa.
 ⌊For the whole anuvāka, see under h. 114.⌋
 
 
-##### Translations
+#### Translations
 Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 </details>
 </details>

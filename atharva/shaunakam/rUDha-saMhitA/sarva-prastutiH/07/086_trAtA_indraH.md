@@ -2,32 +2,24 @@
 title = "०८६ त्राता इन्द्रः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/086_trAtA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/_index.md">
+<details open><summary><h2>86 (91). Invocation of Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 त्राता इन्द्रः।  
-१ अथर्वा (स्वस्त्ययनकामः)। इन्द्रः। त्रिष्टुप्।  
-
+१ अथर्वा (स्वस्त्ययनकामः)। इन्द्रः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/086_trAtA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (svastyayanakāmaḥ).—āindram, trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Follows in its applications closely those of 85 (Kāuś. 59. 14, and notes to 137. 4 and 25. 36); but appears further (140. 6) in the indramahotsava, with hymn 91 and v. 3. 11, accompanying an offering of butter.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 36, 106; Griffith, i. 372.
 </details>
 <details><summary>Griffith</summary>

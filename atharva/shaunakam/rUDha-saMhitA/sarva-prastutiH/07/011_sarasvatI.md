@@ -2,33 +2,25 @@
 title = "०११ सरस्वती"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/011_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/_index.md">
+<details open><summary><h2>11 (12). Against injury to the grain by lightning. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
-१ शौनकः। सरस्वती। त्रिष्टुप्।  
-
+१ शौनकः। सरस्वती। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/011_sarasvatI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cāunaka.—sārasvatam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Like the preceding hymn, not found in Pāipp.; also not in any other known text. Kāuś. uses it (38. 8), with i. 13, in a ceremony against the effect of lightning; and also (139. 8), with the same and other hymns, in the rites of entrance upon Vedic study
 (upākarman, comm.). And the comm. quotes it as applied in śānti-Kalpa 15 with observances to ketu.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 463; Grill, 66, 178; Henry, 5, 54; Griffith, i. 333; Bloomfield, 142, 543.
 </details>
 <details><summary>Griffith</summary>

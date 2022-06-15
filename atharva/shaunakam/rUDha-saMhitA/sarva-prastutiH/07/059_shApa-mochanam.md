@@ -2,32 +2,24 @@
 title = "०५९ शाप-मोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/059_shApa-mochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/_index.md">
+<details open><summary><h2>59 (61). Against cursers. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शाप-मोचनम्।  
-१ बादरायणिः। अरिनाशनम्। अनुष्टुप्।  
-
+१ बादरायणिः। अरिनाशनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/059_shApa-mochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bādarāyaṇi.—arināśanamantroktadevatākam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. (as part of our hymn vi. 37). This verse has the same pratīka as vi. 37. 3; but the comm. ⌊on vi. 37, page 70, line 2⌋, doubtless with reason, regards vi. 37. 3 as intended at Kāuś. 48. 37 ⌊Bloomfield there gives both⌋; this hymn, then, is left without ritual use. ⌊In fact, the comm. on this hymn, at p. 418, line 4, does cite yo naḥ śapāt for use in the same rite for which he cited it in his comment on vi. 37.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 23, 86; Griffith, i. 355.
 </details>
 <details><summary>Griffith</summary>

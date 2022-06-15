@@ -2,32 +2,24 @@
 title = "००२ शत्रुसेनासंमोहनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/002_shatrusenAsaMmohanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/_index.md">
+<details open><summary><h2>2. Against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुसेनासंमोहनम्।  
-१-६ अथर्वा। सेनामोहनम्, १-२ अग्निः, ३-४ इन्द्रः, ५ द्यौः, ६ मरुतः। त्रिष्टुप्, २-४ अनुष्टुप्।  
-
+१-६ अथर्वा। सेनामोहनम्, १-२ अग्निः, ३-४ इन्द्रः, ५ द्यौः, ६ मरुतः। त्रिष्टुप्, २-४ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/002_shatrusenAsaMmohanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—senāmohanam. bahudevatyam. trāiṣṭubham: 2-4. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iii., next before the hymn here preceding. Used in Kāuś. only with the latter, as there explained.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xvii. 183; Griffith, i. 82; Bloomfield, 121, 327.—Cf. Bergaigne-Henry, Manuel, p. 139.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००१ परमं धाम"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/001_paramaM_dhAma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/_index.md">
+<details open><summary><h2>1. Mystic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 परमं धाम  
-१-५ वेनः। ब्रह्म, आत्मा। त्रिष्टुप्, ३ जगती।  
-
+१-५ वेनः। ब्रह्म, आत्मा। त्रिष्टुप्, ३ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/001_paramaM_dhAma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Vena.—brahmātmadāivatam. trāiṣṭubham: 3. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. ii., and parts of it in other texts, as pointed out under the several verses. ⌊Von Schroeder gives what may be called a Kaṭha-recension of nearly all of it in his Tübinger Kaṭha-hss., pp. 88, 89.⌋ Used by Kāuś. (37. 3) in addressing various articles out of whose behavior afterward signs of success or the contrary, and the like oracular responses, are to be drawn (the comm. gives them in a more expanded detail). And Vāit. (29. 14) applies vs. 3 in the upavasatha rite of the agnicayana.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 129; Ludwig, p. 393; Scherman, Philosophische Hymnen, p. 82; Deussen, Geschichte, i.1 253; Griffith, i. 41.
 </details>
 <details><summary>Griffith</summary>

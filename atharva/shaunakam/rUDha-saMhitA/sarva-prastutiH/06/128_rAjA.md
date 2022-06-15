@@ -2,32 +2,24 @@
 title = "१२८ राजा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/128_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/_index.md">
+<details open><summary><h2>128. For auspicious time: with dung-smoke. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राजा  
-१-४ अङ्गिराः। सोमः, शकधूमः। अनुष्टुप्।  
-
+१-४ अङ्गिराः। सोमः, शकधूमः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/128_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras (nakṣatrarājānam candramasam astāut).—caturṛcam. sāumyam; śakadhūmadevatyam. ānuṣṭubham.']]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Except the third verse, this hymn occurs also in Pāipp. xix. Besides the ceremony reported under vs. 1, Kāuś. has the hymn (50. 13) in a general rite for good fortune, with vi. 1, 3-7, 59, etc. etc.; and also, in the chapter of portents (100. 3), in an expiatory ceremony on occasion of an eclipse of the moon (somagrahaṇa, comm.); vs. 3, too, is specially quoted in the aṣṭakā ceremony (138. 8), as accompanying a nineteenth [oblation?].
 
 
-##### Translations
+#### Translations
 Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, i. 316; Bloomfield, 160, 532.—Bloomfield had already treated it at length, AJP. vii. 484 ff., and JAOS. xiii. p. cxxxiii (= PAOS., Oct. 1886). A pencilled note on Whitney's ms. shows that he considered the propriety of rewriting the translation and comment for vi. 128.
 </details>
 </details>

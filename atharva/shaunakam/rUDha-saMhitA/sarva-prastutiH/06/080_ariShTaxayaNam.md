@@ -2,28 +2,20 @@
 title = "०८० अरिष्टक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/080_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/080_ariShTaxayaNam/_index.md">
+<details open><summary><h2>80. The heavenly dog and the kālakāñjás. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
-१-३ अथर्वा। चन्द्रमाः। १ भुरिक्, २ अनुष्टुप्, ३ प्रस्तारपङक्तिः।  
-
+१-३ अथर्वा। चन्द्रमाः। १ भुरिक्, २ अनुष्टुप्, ३ प्रस्तारपङक्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/080_ariShTaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—cāndramasam. ānuṣṭubham: 1. bhurij; 3. prastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/080_ariShTaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first half-verse is RV. x. 136. 4 a, b, which differs only by reading rūpā́ instead of bhūtā́ in b; it is part of the hymn that extols the powers of the muni. Ppp. has a very different version of b, c, d: svar bhūtā vyacācalat: sa no divyasyāi ’daṁ mahas tasmā etena haviṣā juhomi.
 </details>
 <details><summary>Griffith</summary>

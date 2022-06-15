@@ -2,28 +2,20 @@
 title = "००६ जगद्बीज पुरुषः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/006_jagadbIja_puruShaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/_index.md">
+<details open><summary><h2>6. Purusha and his sacrifice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जगद्बीज पुरुषः।  
-१-१६ नारायणः। पुरुषः। अनुष्टुप्।  
-
+१-१६ नारायणः। पुरुषः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/006_jagadbIja_puruShaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Nārāyaṇa.—ṣoḍaśarcam. puruṣadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊The verse is RV. x. 90. 1; VS. xxxi. 1; SV. i. 618; TA. iii. 12. 1.⌋ All the other texts begin with sahásraśīrṣā (SV. -rṣāḥ); SV.VS. ⌊KaṭhaB.⌋ have in c sarvátas, and VS. after it spṛtvā́; ⌊von Schroeder reports the KaṭhaB. reading as smṛtvā́: but perhaps the intention of his mss. is rather spṛtvā́⌋. The comm. gives very long expositions of most of the verses, but casts no light upon them. ⌊Deussen, p. 150, calls the substitution of -bāhuḥ for -śīrṣā a "rationalizing variant: because, if Purusha has 1000 eyes, he ought to have only 500 heads"! But even the AV. comm. glosses sahasrākṣaḥ by bahubhir akṣibhir upetaḥ.⌋
 </details>
 <details><summary>Griffith</summary>

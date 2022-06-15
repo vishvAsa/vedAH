@@ -2,28 +2,20 @@
 title = "०४५ ईर्ष्यानिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/045_IrShyAnivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/_index.md">
+<details open><summary><h2>45 (46, 47). To cure jealousy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ईर्ष्यानिवारणम्।  
-१-२ प्रस्कण्वः, २ अथर्वा। ईर्ष्यापनयनं, भेषजम्। अनुष्टुप्।  
-
+१-२ प्रस्कण्वः, २ अथर्वा। ईर्ष्यापनयनं, भेषजम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/045_IrShyAnivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [1. Praskaṇva.—bhāiṣajyam. ānuṣṭubham.—2. Atharvan.—mantroktadevatyam; irṣyāpanayanam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Very probably (b) rather 'from the Indus' (síndhu). Ppp. reads -janīnaṁ viśam arukṣatīnām (= urukṣit-?); its second half-verse is corrupt. The comm. explains janāt by janapadāt and its epithet by viśvajanahitāt.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०२८ स्वस्ति"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/028_svasti.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/_index.md">
+<details open><summary><h2>28 (29). Of the instruments of offering. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वस्ति।  
-मेधातिथिः। वेदः। त्रिष्टुप्।  
-
+मेधातिथिः। वेदः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/028_svasti.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Medhātithi (?).—vedadevatākam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. To this hymn, as to the preceding, Kāuś. pays no attention; but it is used twice by Vāit.: once in the parvan ceremony (4. 12), as the hotar unties the veda-bunch; and once in the agniṣṭoma (13. 2), in connection with the prayaṇīya iṣṭi.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 19; Henry, 11, 65; Griffith, i. 341.
 </details>
 <details><summary>Griffith</summary>

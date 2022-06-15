@@ -2,28 +2,20 @@
 title = "००९ आञ्जनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/009_Anjanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/_index.md">
+<details open><summary><h2>9. For protection etc.: with a certain ointment. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आञ्जनम्।  
-१-१० भृगुः। त्रैकाकुदञ्जनम्। अनुष्टुप्, २ ककुम्मती, ३ पथ्यापङ्क्तिः।  
-
+१-१० भृगुः। त्रैकाकुदञ्जनम्। अनुष्टुप्, २ ककुम्मती, ३ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/009_Anjanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—daśarcam. trāikakudāñjanadāivatam. ānuṣṭubham: 2. kakummatī; 3. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found mostly in Pāipp. viii. (in the verse-order 9, 3, 2, 5, 6, 8, 10, 4, 7). Used by Kāuś. (58. 8) with the binding on of an ointment-amulet, in a ceremony for long life of the Vedic pupil after his initiation. And the comm. quotes it from the Nakṣ. K. (19) ⌊error for śānti, says BI.⌋, as employed in the mahāśānti called āirāvatī.
 </details>
 <details><summary>Griffith</summary>

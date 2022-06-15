@@ -2,32 +2,24 @@
 title = "०४० सरस्वान्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/040_sarasvAn.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/_index.md">
+<details open><summary><h2>40 (41). Prayer and praise to Sarasvant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सरस्वान्।  
-१-२ प्रस्कण्वः। सरस्वान्। १ भुरिक्, २ त्रिष्टुप्।  
-
+१-२ प्रस्कण्वः। सरस्वान्। १ भुरिक्, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/040_sarasvAn.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Praskaṇva.—dvyṛcam. sārasvatam. trāiṣṭubham: 1. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Kāuś. makes no use of the hymn; but it is quoted by Vāit. (8. 2), with hymn 68, as accompanying offerings to Sarasvatī and Sarasvant at the full-moon sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 14, 70; Griffith, i. 345.
 </details>
 <details><summary>Griffith</summary>

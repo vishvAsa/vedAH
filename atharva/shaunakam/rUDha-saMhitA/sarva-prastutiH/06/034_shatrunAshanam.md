@@ -2,32 +2,24 @@
 title = "०३४ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/034_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/_index.md">
+<details open><summary><h2>34. Praise and prayer to Agni. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-५ चातनः। अग्निः। गायत्री।  
-
+१-५ चातनः। अग्निः। गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/034_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—⌊pañcarcam.⌋ agnidāivatam. gāyatram.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only vss. 1, 3, 4 found in Pāipp. xix. It is also a RV. hymn, x. 187 (with exchange of place between vss. 2 and 3); in other texts is found only the last verse. As in the case of certain previous hymns with a refrain, one may conjecture that, with omission of the refrain, and combination of the remaining parts of verses, it was made into or viewed as three verses; but the case is a much less probable one than those we have had above. ⌊Cf. Oldenberg, Die Hymnen des RV., i. 245.⌋ The hymn is employed by Kāuś. (31. 4), with vii. 114. 2, in a remedial rite against demons; and it is added (note to 8. 25) to the cātana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: by the RV. translators; and Florenz, 294 or 46; Griffith, i. 263.
 </details>
 <details><summary>Griffith</summary>

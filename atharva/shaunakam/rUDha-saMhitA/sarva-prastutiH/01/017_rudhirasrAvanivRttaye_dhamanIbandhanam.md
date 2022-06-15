@@ -2,32 +2,24 @@
 title = "०१७ रुधिरस्रावनिवृत्तये धमनीबन्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/_index.md">
+<details open><summary><h2>17. To stop the vessels of the body. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रुधिरस्रावनिवृत्तये धमनीबन्धनम्।  
-१-४ ब्रह्मा। योषितः धमन्यश्च। अनुष्टुप्, १ भुरिगनुष्टुप्, ४ त्रिपदार्षी गायत्री।  
-
+१-४ ब्रह्मा। योषितः धमन्यश्च। अनुष्टुप्, १ भुरिगनुष्टुप्, ४ त्रिपदार्षी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—yoṣiddevatyam. ānuṣṭubham: 1. bhurij; 4. 3-p. ārṣī gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. xix. (in the verse-order 3, 4, 1, 2). Used once by Kāuś. (26. 10: the quotation appears to belong to what follows it, not to what precedes), in a remedial rite, apparently for stopping the flow of blood (the comm. says, as result of a knife wound and the like, and also of disordered menses).
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 411; Ludwig, p. 508; Grill, 16, 76; Griffith, i. 21; Bloomfield, 22, 257.—Cf. Hillebrandt, Veda-Chrestomathie, p. 46.
 </details>
 <details><summary>Griffith</summary>

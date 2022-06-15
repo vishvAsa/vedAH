@@ -2,32 +2,24 @@
 title = "०७८ वन्दमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/078_vandamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/_index.md">
+<details open><summary><h2>78 (83). To Agni: in favor of some one. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वन्दमोचनम्।  
-१-२ अथर्वा। अग्निः। १ परोष्णिक्, २ त्रिष्टुप्।  
-
+१-२ अथर्वा। अग्निः। १ परोष्णिक्, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/078_vandamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—dvyṛcam. āgneyam. 1. paroṣṇih; 2. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used in Kāuś. (32. 3) with 29 and other hymns of this book, in a remedial rite: see under 29. Also vs. 2 by itself (2. 41), with x. 6. 35, as substitute for xii. 1. 19-21, with laying on of fuel, in the parvan sacrifices; and in the ājyatantra (137. 30), with other verses, with strewing (of barhis); its second pāda is further found as first part of a verse given in full in 3. 1. In Vāit. (4. 11) it accompanies, with other verses, the untying of the sacrificer's wife in the parvan sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 31, 99; Griffith, i. 366.
 </details>
 <details><summary>Griffith</summary>

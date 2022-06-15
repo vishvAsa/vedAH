@@ -2,32 +2,24 @@
 title = "०४२ ब्रह्मयज्ञः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/042_brahmayajnaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/_index.md">
+<details open><summary><h2>42. Extolling the bráhman etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ब्रह्मयज्ञः।  
-१-४ ब्रह्मा। ब्रह्म। १ अनुष्टुप्, २ त्र्यवसाना ककुम्मती पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ जगती।  
-
+१-४ ब्रह्मा। ब्रह्म। १ अनुष्टुप्, २ त्र्यवसाना ककुम्मती पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/042_brahmayajnaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—catasras. mantroktabrahmadevatyam. 1. anuṣṭubh; 2. 3-av. kakummatī pathyāpan̄kti; 3. triṣṭubh; 4. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only fragments of this hymn are found in Pāipp.; ⌊Roth's Collation says that the hymn probably stood somewhere near the beginning⌋. No viniyoga is given.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 298.
 </details>
 <details><summary>Griffith</summary>

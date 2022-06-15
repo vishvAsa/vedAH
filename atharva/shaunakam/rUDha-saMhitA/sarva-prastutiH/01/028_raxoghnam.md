@@ -2,32 +2,24 @@
 title = "०२८ रक्षोघ्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/028_raxoghnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/_index.md">
+<details open><summary><h2>28. Against sorcerers and witches. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रक्षोघ्नम्।  
-१-४ चातनः। १-२ अग्निः, ३-४ यातुधानीः। अनुष्टुप्, ३ विराट् पथ्याबृहती, ४ पथ्यापङ्क्तिः।  
-
+१-४ चातनः। १-२ अग्निः, ३-४ यातुधानीः। अनुष्टुप्, ३ विराट् पथ्याबृहती, ४ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/028_raxoghnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—svastyayanam . ānuṣṭubham: 3. virāṭpathyābṛhatī; 4. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is not found in Pāipp. Though not mentioned as one of the cātanāni by the text of Kāuś., it is added to them by the schol. (8. 25, note). It is once used by itself in a witchcraft ceremony (ābhicārika) for the relief of one frightened, accompanying the tying on of an amulet (26. 26).
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 423; Griffith, i. 33.
 </details>
 <details><summary>Griffith</summary>

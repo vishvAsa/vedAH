@@ -2,32 +2,24 @@
 title = "०२१ शत्रुसेनात्रासनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/021_shatrusenAtrAsanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/021_shatrusenAtrAsanam/_index.md">
+<details open><summary><h2>21. To the war-drum. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुसेनात्रासनम्।  
-१-१२ ब्रह्म। वनस्पतिः, दुन्दुभिः, १०-१२ आदित्यादयः। अनुष्टुप्, १, ४-५ पथ्यापङ्क्तिः, ६ जगती, ११ बृहतीगर्भा त्रिष्टुप्, १२ त्रिपदा यवमध्या गायत्री।  
-
+१-१२ ब्रह्म। वनस्पतिः, दुन्दुभिः, १०-१२ आदित्यादयः। अनुष्टुप्, १, ४-५ पथ्यापङ्क्तिः, ६ जगती, ११ बृहतीगर्भा त्रिष्टुप्, १२ त्रिपदा यवमध्या गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/021_shatrusenAtrAsanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—dvādaśakam. vānaspatyaṁ dundubhidevatyam (10-12. ādityādin devān aprārthayat).* ānuṣṭubham: 1, 4, 5. pathyāpan̄kti; 6. jagatī; 11. bṛhatīgarbhā triṣṭubh; 12. 3-p, yavamadhyā gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/021_shatrusenAtrAsanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Pādas 11 c, d and 12 a, b appear to be prose.⌋ Not found in Pāipp. Not noticed in Vāit.; quoted by Kāuś. (16. 2), in a battle-rite (next after the preceding hymn). *⌊Cf. extracts from Anukr. under h. 20.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 374; Griffith, i. 222; Bloomfield, 131, 439; Weber, xviii. 249.
 </details>
 <details><summary>Griffith</summary>

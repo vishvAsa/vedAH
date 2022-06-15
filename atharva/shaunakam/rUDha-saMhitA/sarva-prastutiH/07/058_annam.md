@@ -2,32 +2,24 @@
 title = "०५८ अन्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/058_annam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/_index.md">
+<details open><summary><h2>58 (60). Invitation to Indra and Varuṇa. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अन्नम्।  
-१-२ कौरुपथिः। इन्द्रावरुणौ। जगती, २ त्रिष्टुप्।  
-
+१-२ कौरुपथिः। इन्द्रावरुणौ। जगती, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/058_annam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāurupathi.—dvyṛcam. mantroktadevatyam. jāgatam: 2. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. The two verses are part of a RV. hymn (vi. 68. 10, 11). They are not used in Kāuś.; but Vāit. (25. 2) introduces them with hymns 51 and 44: see under the latter.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 23, 85; Griffith, i. 355.
 </details>
 <details><summary>Griffith</summary>

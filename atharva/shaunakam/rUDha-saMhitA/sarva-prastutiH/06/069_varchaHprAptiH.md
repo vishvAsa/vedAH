@@ -2,28 +2,20 @@
 title = "०६९ वर्चःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/069_varchaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/_index.md">
+<details open><summary><h2>69. For glory etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वर्चःप्राप्तिः।  
-१-३ अथर्वा। बृहस्पतिः, अश्विनौ। अनुष्टुप्।  
-
+१-३ अथर्वा। बृहस्पतिः, अश्विनौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/069_varchaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (? varcaskāmo yaśaskāmaś ca).—bārhaspatyam utā ”śvinam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The verse corresponds nearly to ix. 1. 18, below; but the latter has a quite different first half, and with it Ppp. precisely agrees. What our aragarāṭa's are is wholly obscure, and the word is most probably a corruption. The comm. explains it in two alternative ways: as kings that 'go' (aṭa) in 'spoke(ara)-swallowers(gara),' i.e. chariots; or, as 'shouts' (rāṭa) of soldiers that 'go' (ga) at the 'enemy' (ara = ari)!
 </details>
 <details><summary>Griffith</summary>

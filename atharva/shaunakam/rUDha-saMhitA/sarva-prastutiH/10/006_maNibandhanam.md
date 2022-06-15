@@ -2,31 +2,24 @@
 title = "००६ मणिबन्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/10/006_maNibandhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/_index.md">
+<details open><summary><h2>6. With an amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मणिबन्धनम्।  
-१-३५ बृहस्पतिः। फालमणिः, वनस्पतिः, ३ आपः। अनुष्टुप्, १,४,२१ गायत्री, ५ षट्-पदा जगती, ६ सप्तपदा विराट् शक्वरी, ७-१० त्र्यवसाना अष्टपदाऽष्टिः (१० नवपदा धृतिः), ११, २०, २३-२७ पथ्यापङ्क्तिः १२-१७ त्र्यवसाना षट्-पदा शक्वरी, ३१ त्र्यवसाना षट्-पदा जगती, ३५ पञ्चपदा त्र्यनुष्टुब्गर्भा जगती।  
-
+१-३५ बृहस्पतिः। फालमणिः, वनस्पतिः, ३ आपः। अनुष्टुप्, १,४,२१ गायत्री, ५ षट्-पदा जगती, ६ सप्तपदा विराट् शक्वरी, ७-१० त्र्यवसाना अष्टपदाऽष्टिः (१० नवपदा धृतिः), ११, २०, २३-२७ पथ्यापङ्क्तिः १२-१७ त्र्यवसाना षट्-पदा शक्वरी, ३१ त्र्यवसाना षट्-पदा जगती, ३५ पञ्चपदा त्र्यनुष्टुब्गर्भा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/10/006_maNibandhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bṛhaspati.—pañcatriṅśat. mantroktaphālamaṇidevatyam uta vānaspaiyam. ⌊3. āpyā.⌋ ānuṣṭubham: 1, 4, 21. gāyatrī; 5. 6-p. jagatī; 6. 7-p. virāṭ śakvarī; 7-10. 3-av. 8-p. aṣṭi (10. 9-p. dhṛti); 11, 20, 23-27. pathyāpan̄kti; 12-17. 3-av. 7-p. śakvarī; 31. 3-av. 6-p. jagatī; 35. 5-p. tryanuṣṭubgarbhā jagatī.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in great part (not vss. 18, 19, 23, 24, 26, 27, 29, 30, 33, 35) in Pāipp. xvi. A number of verses and parts of verses are prescribed in Kāuś. 19 ⌊and its schol.⌋ to be used in various acts of a ceremony for prosperity, and a few in other connections. Verses 1 and 3 are also used in Vāit. ⌊For details, see under the several verses.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 18, 65; Griffith, ii. 21; Bloomfield, 84, 608.
 </details>
 <details><summary>Griffith</summary>

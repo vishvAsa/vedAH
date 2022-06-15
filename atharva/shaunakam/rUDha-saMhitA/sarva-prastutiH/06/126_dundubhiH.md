@@ -2,32 +2,24 @@
 title = "१२६ दुन्दुभिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/126_dundubhiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/_index.md">
+<details open><summary><h2>126. To the drum: for success against the foe. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुन्दुभिः।  
-१-३ अथर्वा। दुन्दुभिः। भुरिक् त्रिष्टुप्, ३ पुरोबृहतीगर्भा त्रिष्टुप्।  
-
+१-३ अथर्वा। दुन्दुभिः। भुरिक् त्रिष्टुप्, ३ पुरोबृहतीगर्भा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/126_dundubhiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—vānaspatyadundubhidevatyam. bhuriktrāiṣṭubham: 3. purobṛhatī virāḍgarbhā triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xv.* (but 1 c, d and 2 a, b are wanting, probably by an error of the copyist), and in the same other texts as the preceding hymn (RV.VS.TS.MS.: in MS. the three verses are not in consecution with those of 125). Applied by Kāuś. (16. 1) in a battle rite, with v. 20, as the drums and other musical instruments of war, duly prepared, are sounded thrice and handed to those who are to play them. Vāit. (34. 11) has it (also with v. 20) in the same ceremony as the preceding hymn, as the drum-heads are drawn on. *⌊Seems to be an error for Pāipp. vii.⌋
 
 
-##### Translations
+#### Translations
 Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Henry, Manuel, p. 156.
 </details>
 </details>

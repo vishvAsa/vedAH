@@ -2,32 +2,24 @@
 title = "०१८ ईर्ष्याविनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/018_IrShyAvinAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/_index.md">
+<details open><summary><h2>18. Against jealousy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ईर्ष्याविनाशनम्।  
-१-३ अथर्वा। ईर्ष्याविनाशनम्। अनुष्टुप्।  
-
+१-३ अथर्वा। ईर्ष्याविनाशनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/018_IrShyAvinAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—īrṣyāvināśanadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (36. 25), with vii. 45 and 74. 3, in a rite against jealousy.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 235; Ludwig, p. 514; Florenz, 270 or 22; Grill, 28, 159; Griffith, i. 254; Bloomfield, 106, 467.
 </details>
 <details><summary>Griffith</summary>

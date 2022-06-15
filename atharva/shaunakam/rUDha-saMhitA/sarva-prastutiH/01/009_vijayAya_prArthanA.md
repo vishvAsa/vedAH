@@ -2,32 +2,24 @@
 title = "००९ विजयाय प्रार्थना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/009_vijayAya_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/_index.md">
+<details open><summary><h2>9. For some one's advancement and success. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विजयाय प्रार्थना।  
-१-४ अथर्वा। १ वसवः, इन्द्रः, पूषा, वरुणः, मित्रः, अग्निः, आदित्याः, विश्वेदेवाः, २ देवाः, सूर्यः, अग्निः, हिरण्यं, ३-४ अग्निः (जातवेदाः)। त्रिष्टुप्।  
-
+१-४ अथर्वा। १ वसवः, इन्द्रः, पूषा, वरुणः, मित्रः, अग्निः, आदित्याः, विश्वेदेवाः, २ देवाः, सूर्यः, अग्निः, हिरण्यं, ३-४ अग्निः (जातवेदाः)। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/009_vijayAya_prArthanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—vasvādinānāmantroktadevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. i. Reckoned to the varcasya gaṇa (Kāuś. 13. 1, note), and further used in various ceremonies: by itself, in that of the restoration of a king (16. 27); with i. 35 and v. 28, in two ceremonies for fortune and for power (11. 19; 52. 20); with seven others, employed by a teacher at the reception of a Vedic student (55. 17). In Vāit. (3. 1), vs. 3 accompanies an oblation to Agni in the parvan-sacrifices. And the comm. quotes its use in the Nakṣ. Kalpa 17-19, in two mahśānti ceremonies called āirāvatī and bārhaspatī; and in Pariśiṣṭa 5. 3, in the puṣpābhiṣeka rite.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 401; Ludwig, p. 456; Zimmer, p. 163; Griffith, i. 12; Bloomfield, 116, 239.
 </details>
 <details><summary>Griffith</summary>

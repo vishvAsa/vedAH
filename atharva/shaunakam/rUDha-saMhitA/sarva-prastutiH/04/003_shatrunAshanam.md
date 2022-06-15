@@ -2,32 +2,24 @@
 title = "००३ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/003_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/_index.md">
+<details open><summary><h2>3. Against wild beasts and thieves. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्  
-१-७ अथर्वा । रुद्रः, व्याघ्रः । अनुष्टुप्, १ पथ्यापङ्क्तिः, ३ गायत्री, ७ ककुम्मतीगर्भोपरिष्टाद् बृहती ।  
-
+१-७ अथर्वा । रुद्रः, व्याघ्रः । अनुष्टुप्, १ पथ्यापङ्क्तिः, ३ गायत्री, ७ ककुम्मतीगर्भोपरिष्टाद् बृहती ।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/003_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—rāudram uta vyāghradevatyam. ānuṣṭubham: 1. pathyāpan̄kti; 3. gāyatrī; 7. kakummatīgarbho 'pariṭādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. ii. (except vs. 5, and in the verse-order 1-3, 7, 6, 4). Used by Kāuś. (51. 1) in a rite for the prosperity of kine and their safety from tigers, robbers, and the like; also reckoned (50. 13, note) to the rāudra gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 499; Grill, 33, 118; Griffith, i. 133; Bloomfield, 147, 366; Weber, xviii. 13.
 </details>
 <details><summary>Griffith</summary>

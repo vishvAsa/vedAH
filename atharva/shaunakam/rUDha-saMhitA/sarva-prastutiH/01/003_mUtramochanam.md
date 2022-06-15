@@ -2,32 +2,24 @@
 title = "००३ मूत्रमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/003_mUtramochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/_index.md">
+<details open><summary><h2>3. Against obstruction of urine: with a reed. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मूत्रमोचनम्।  
-१-९ अथर्वा। १ पर्जन्यः, २ मित्रः, ३ वरुणः, ४ चन्द्रः, ५ सूर्यः, (१-९ मूत्रमोचनम्)। अनुष्टुप्, १-५ पथ्यापङ्क्तिः।  
-
+१-९ अथर्वा। १ पर्जन्यः, २ मित्रः, ३ वरुणः, ४ चन्द्रः, ५ सूर्यः, (१-९ मूत्रमोचनम्)। अनुष्टुप्, १-५ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/003_mUtramochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—navarcam. parjanyamitrādibahudevatyam. ānuṣṭubham: 1-5. pathyāpan̄kti]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this hymn, only vss. 7-8 are found in Pāipp. (in xix.), without the refrain. It is doubtless intended at Kāuś. 25. 10, as used in a rite for regulating the flow of urine; vss. 8-9 are specified in 25. 12. The "reed" implies some primitive form of a fistula urinaria, the vastiyantra (one of the nāḍiyantrāṇi) of the later physicians—who, however, do not appear to have made frequent use of it.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 395; Griffith, i. 4; Bloomfield, 10, 235.—Cf. Bergaigne-Henry, Manuel, p. 130.
 </details>
 <details><summary>Griffith</summary>

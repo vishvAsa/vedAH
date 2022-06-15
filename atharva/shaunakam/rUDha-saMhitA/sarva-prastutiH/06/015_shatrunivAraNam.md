@@ -2,32 +2,24 @@
 title = "०१५ शत्रुनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/015_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/_index.md">
+<details open><summary><h2>15. For superiority. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
-१-३ उद्दालकः। वनस्पतिः। अनुष्टुप्।  
-
+१-३ उद्दालकः। वनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/015_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Uddālaka.—vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Kāuś. applies (19. 26) in a rite for prosperity, with vi. 142. 3, using an amulet of barley. It is also reckoned (note to 19. 1) to the puṣṭika mantras.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 267 or 19; Griffith, i. 252.
 </details>
 <details><summary>Griffith</summary>

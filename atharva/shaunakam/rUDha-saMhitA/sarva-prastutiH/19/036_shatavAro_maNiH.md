@@ -2,32 +2,24 @@
 title = "०३६ शतवारो मणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/036_shatavAro_maNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/_index.md">
+<details open><summary><h2>36. With a śatávāra-amulet: for protection etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शतवारो मणिः।  
-१-६ ब्रह्मा। शतवारः। अनुष्टुप्।  
-
+१-६ ब्रह्मा। शतवारः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/036_shatavAro_maNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṣaḍṛcam. śatavāradāivatam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also ⌊except 4 c, d, 5 a, b⌋ in Pāipp. ii. The comm. quotes its use from Nakṣ.K. 19, in the mahāśānti ceremony called saṁtati, performed for a failure of family, with the śatavāra amulet.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 294.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "११८ आनृण्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/118_AnRNyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/_index.md">
+<details open><summary><h2>118. For relief from guilt. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आनृण्यम्।  
-१-३ कौशिकः। अग्निः। त्रिष्टुप्।  
-
+१-३ कौशिकः। अग्निः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/118_AnRNyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. ⌊The Kaṭha-version of vss. 1 and 2 is given by v. Schroeder, Tübinger Kaṭha-hss., p. 70 f.⌋ Is not used by Vāit., nor by Kāuś. otherwise than with ⌊the whole anuvāka and⌋ hymn 117: ⌊see under hymns 114 and 117⌋.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 455; Griffith, i. 310.
 </details>
 </details>

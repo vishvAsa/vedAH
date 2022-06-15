@@ -2,32 +2,24 @@
 title = "१३३ मेखलाबन्धनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/133_mekhalAbandhanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/_index.md">
+<details open><summary><h2>133. To a girdle: for long life etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मेखलाबन्धनम्।  
-१-५ अगस्त्यः। मेखला। १ भुरिक् २, ५ अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।  
-
+१-५ अगस्त्यः। मेखला। १ भुरिक् २, ५ अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/133_mekhalAbandhanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Agastya.—pañcarcam. mekhalādevatākam. trāiṣṭubham: 1. bhūrij; 2, 5. anuṣṭubh; 4. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. v. Used by Kāuś. (47. 14-15) in a rite of sorcery, with the following hymn, for due preparation of girdle and staff; vs. 3 also alone in the same rite (47. 13), with laying fuel of bādhaka on the fire; and vss. 4 and 5 twice in the upanayana ceremony (56. 1; 57. 1), with tying on a girdle.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 432; Griffith, i. 319.
 </details>
 </details>

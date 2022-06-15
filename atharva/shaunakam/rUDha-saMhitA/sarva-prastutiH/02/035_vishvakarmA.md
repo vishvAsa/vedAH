@@ -2,32 +2,24 @@
 title = "०३५ विश्वकर्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/035_vishvakarmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/_index.md">
+<details open><summary><h2>35. To expiate errors in the sacrifice: to Viśvakarman. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विश्वकर्मा।  
-१-५ अङ्गिराः। विश्वकर्मा। त्रिष्टुप्, १ बृहतीगर्भा, ४-५ भुरिक्।  
-
+१-५ अङ्गिराः। विश्वकर्मा। त्रिष्टुप्, १ बृहतीगर्भा, ४-५ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/035_vishvakarmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.-—vāiśvakarmaṇam. trāiṣṭubham: 1. bṛhatīgarbhā; 4, 5. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (except vs. 5, and in the verse-order 2, 3, 1, 4) in Pāipp. i. The same four verses are found in TS. (iii. 2. 81-3: in the order 2, 4, 3, 1), and the first three in MS. (ii. 3. 8; in the order 1, 3, 2). The hymn is used by Kāuś. (38. 22) in a rite intended, according to the comm., to prevent faults of vision (dṛṣṭidoṣanivāraṇāya; Keśava says "to prevent rain," vṛṣṭinivāraṇāya; perhaps his text is corrupt), accompanying the eating of something in an assembly. Its employment (59. 21) with the hymn next preceding was noticed under the latter. The comm. (differing in his reading and division of the rules from the edited text of Kāuś.) declares it to be used in all the sava sacrifices, to accompany the purastād homas (59. 23-4: uttareṇa savapurastāddhomān); and vs. 5 is used (3. 16) with a purastād homa in the parvan sacrifices. In Vāit. the hymn appears (9. 7) in the cāturmāsya sacrifice, with two oblations to Mahendra and Viśvakarman respectively; and again (29. 22) in the agnicayana. In all these applications there is nothing that suits the real character of the hymn.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 211; Ludwig, p. 302 (vss. 1-4); Griffith, i. 76.
 </details>
 <details><summary>Griffith</summary>

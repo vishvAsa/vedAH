@@ -2,32 +2,24 @@
 title = "०२१ गावः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/021_gAvaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/_index.md">
+<details open><summary><h2>21. Praise of the kine. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गावः।  
-१-७ ब्रह्मा । गावः । त्रिष्टुप्, २-४ जगती  
-
+१-७ ब्रह्मा । गावः । त्रिष्टुप्, २-४ जगती
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/021_gAvaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—gavyam. trāiṣṭubham. 2-4. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn is not found in Pāipp., but it occurs in the Rig-Veda (vi. 28. 1-7; vs. 8, in a different meter, is perhaps a later addition), and also in TB. (ii. 8. 811-12). It is used by Kāuś. (19. 1), with i. 4-6 and others in a rite for ailing kine, and also (21. 8 ff.) in one for the prosperity of kine, vs. 7 being specifically mentioned as repeated when they go forth to pasture; vs. 7 appears further to be quoted at 19. 14, in a rite for the cow-stall; but the comm. declares two verses to be intended, and, if so, they must be vii. 75. 1, 2, since there is here no following verse. In Vāit. (21. 24), in the agniṣṭoma, the cows intended as sacrificial gifts are greeted with this hymn. The schol. (Kāuś. 16. 8) reckons vs. 4 to the abhaya gaṇa. The comm. ⌊and Keśava's scholion to Kāuś. 27. 34⌋ declare hymns 21-30 to be mṛgāra-hymns (Kāuś. 27. 34; 9. 1), but the name would seem properly to belong only to hymns 23-29, which form a related group, and are by the Anukr. ascribed to Mṛgāra as author.
 
 
-##### Translations
+#### Translations
 Translated: by RV. translators; and Griffith, i. 161; Weber, xviii. 87.
 </details>
 <details><summary>Griffith</summary>

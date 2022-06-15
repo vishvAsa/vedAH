@@ -2,27 +2,20 @@
 title = "००३ स्वर्गैदनः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/12/003_svargaidanaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/003_svargaidanaH/_index.md">
+<details open><summary><h2>3. Cremation as a sacrifice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वर्गैदनः।  
-१-६० यमः। स्वर्गः, ओदनः, अग्निः। त्रिष्टुप्, १, ४२-४३, ४७ भुरिक्, ८, १२, २१-२२, २४ जगती, १३, १७ स्वराडार्षी पङ्क्तिः, ३४ विराड् गर्भा, ३९ अनुष्टुब्गर्भा, ४४ परा बृहती, ५५-६० त्र्यवसाना सप्तपदा शङ्कुमत्यतिजागतशाक्वरातिशाक्वरधा-र्त्यगर्भातिधृतिः (५५, ५७-६० कृतिः),।  
-
+१-६० यमः। स्वर्गः, ओदनः, अग्निः। त्रिष्टुप्, १, ४२-४३, ४७ भुरिक्, ८, १२, २१-२२, २४ जगती, १३, १७ स्वराडार्षी पङ्क्तिः, ३४ विराड् गर्भा, ३९ अनुष्टुब्गर्भा, ४४ परा बृहती, ५५-६० त्र्यवसाना सप्तपदा शङ्कुमत्यतिजागतशाक्वरातिशाक्वरधा-र्त्यगर्भातिधृतिः (५५, ५७-६० कृतिः),।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/12/003_svargaidanaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—ṣaṣṭiḥ. mantroktasvargāudanāgnidevatyam. trāiṣṭubham: 1, 42, 43, 47. bhurij; 8, 12, 21, 22, 24. jagatī; 13.?; 17. svarāḍ ārṣī pan̄kti; 34. virāḍgarbhā; 39. anuṣṭubgarbhā; 44. parābṛhatī; 55-60. 3-av. 7-p. śan̄kumaty atijāgataśākvarātiśākvaradhārtyagarbhā ’tidhṛti (55, 57-60. kṛti; 56. virāṭ kṛti).]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/003_svargaidanaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Ppp. combines puṅso adhi and omits ihi in a. Kāuś. 60. 31 has the verse used when the sacrificer is made to stand upon the ox-hide which is to be his station during the ceremony. The various antecedents have been prepared to the accompaniment of the first verses of xi. 1.
 </details>
 <details><summary>Griffith</summary>

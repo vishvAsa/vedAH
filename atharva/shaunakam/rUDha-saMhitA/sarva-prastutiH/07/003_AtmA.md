@@ -2,31 +2,23 @@
 title = "००३ आत्मा"
 
 +++
-## अधिसूक्तम्
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/_index.md">
+<details open><summary><h2>3. Mystic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/003_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
-
-आत्मा।  
-
+आत्मा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/003_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx., and in a whole series of other texts: TS. (i. 7. 122), MS. (i. 10. 3), ACS. (ii. 19. 32), KśS. (xxv. 6. 10), śśS. (iii. 17. 1). Kāuś. (15. 11) prescribes the use, with vi. 125 and vii. 110 and a couple of single verses from elsewhere (the comm. includes also vii. 4), in the battle incantations, while the king and his charioteer mount a new chariot; as to its medical employment with vii. 2, see under the latter. Vāit. (9. 15) uses the verse in the 'sākamedha ceremony, on leaving the sacrificial hut.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 2, 48; Griffith, i. 328.
 </details>
 </details>

@@ -2,31 +2,23 @@
 title = "००१ पितृमेधः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/18/001_pitRmedhaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/001_pitRmedhaH/_index.md">
+<details open><summary><h2>1. ⌊Funeral verses.⌋ ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पितृमेधः।
 
 १-६१ अथर्वा। यमः।, मन्त्रोक्ताः, ४० रुद्रः, ४१-४३ सरस्वती, ४४-४६, ५१-५२ पितरः। त्रिष्टुप्,
 ८, १५ आर्षी पङ्क्तिः, १४, ४९-५० भुरिक्, १८-२०, २१-२३ जगती,
 ३७-३८ परोष्णिक्, ५६-५७, ६१ अनुष्टुप्, ५९ पुरोबृहती।
-
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/18/001_pitRmedhaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekaṣaṣṭi. yamadevatyam mantroktabahudevatyaṁ ca (41-43. sarasvatīdevatyās; 40. rāudrī; 44-46. mantroktapitṛdevatyās; 51, 52. pitrye). trāiṣṭubham: 8, 15. ārṣī pan̄kti; 14, 49, 50. bhurij; 18-20, 21-23. jagatī; 37, 38. paroṣṇih; 56, 57, 61. anuṣṭubh; 59. purābṛhatī.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/001_pitRmedhaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Only one verse (46) is found in Pāipp., and that in book ii. Only four sūtras of the Vāit. cite verses from this hymn, and those verses are 44-46, 51, and 55. In the Kāuś., as already noted by Whitney, p. 814, nearly all the verses from 1. 40 to the end of the book have their uses in the ritual. That Parts I. and II. and III. of the hymn as divided below are utterly impertinent to the proper subject of the book and therefore without ritual application, is a fact on which Weber, Sb. 1895, p. 819, has already animadverted.⌋
 
 

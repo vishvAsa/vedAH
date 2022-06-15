@@ -2,32 +2,24 @@
 title = "०१९ अपामार्गः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/019_apAmArgaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/019_apAmArgaH/_index.md">
+<details open><summary><h2>19. Against enemies: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अपामार्गः।  
-१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुष्टुप्, २ पथ्यापङ्क्तिः।  
-
+१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुष्टुप्, २ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/019_apAmArgaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—(etc.: see hymn 17). 2. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/019_apAmArgaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also, in connection with the two next preceding hymns, in Pāipp. v. Used by Kāuś. only in company with hymns 17 and 18, as described under h. 17. ⌊But vs. 2 is reckoned to the abhaya gaṇa, employed as battle-charms; see Kāuś. 16. 8, note.⌋
 
 
-##### Translations
+#### Translations
 Translated: Grill, 34, 132; Griffith, i. 157; Bloomfield, 71, 397; Weber, xviii. 81.
 </details>
 <details><summary>Griffith</summary>

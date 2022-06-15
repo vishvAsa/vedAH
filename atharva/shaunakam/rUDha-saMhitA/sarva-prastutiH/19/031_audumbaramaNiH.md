@@ -2,32 +2,24 @@
 title = "०३१ औदुम्बरमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/031_audumbaramaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/_index.md">
+<details open><summary><h2>31. For various blessings: with an amulet of udumbára. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 औदुम्बरमणिः।  
-१-१४ सविता (पुष्टिकामः)। औदुम्बरमणिः। अनुष्टुप्, ५, १२ त्रिष्टुप्, ६ विराट् प्रस्तारपङ्क्तिः, ११ , १३ पञ्चपदा शक्वरी, १४ विराडास्तारपङ्क्तिः।  
-
+१-१४ सविता (पुष्टिकामः)। औदुम्बरमणिः। अनुष्टुप्, ५, १२ त्रिष्टुप्, ६ विराट् प्रस्तारपङ्क्तिः, ११ , १३ पञ्चपदा शक्वरी, १४ विराडास्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/031_audumbaramaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Savitṛ (puṣṭīkāmaḥ).—caturdaśa. mantroktāudumbaramaṇidevatyam. ānuṣṭubham: 5, 12. triṣṭubh; 6. virāṭ prastārapan̄kti; 11, 13. 5-p. ¸śakvarī; 14. virāḍ āstārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Partly prose, vs. 12 (?).⌋ Found also in Pāipp. x. The comm. finds it used in Nakṣ. K. 17, 19, by one desiring wealth, or in the case of loss of wealth, in a mahāśānti ceremony called kāuberī, with binding on of an amulet of udumbara.
 
 
-##### Translations
+#### Translations
 Translated: Grifiith, ii. 287.
 </details>
 <details><summary>Griffith</summary>

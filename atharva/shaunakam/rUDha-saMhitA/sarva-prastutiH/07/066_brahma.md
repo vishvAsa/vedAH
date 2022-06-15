@@ -2,32 +2,24 @@
 title = "०६६ ब्रह्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/066_brahma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/_index.md">
+<details open><summary><h2>66 (68). For recovery of sacred knowledge (brā́hmaṇa). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ब्रह्म।  
-१ ब्रह्म। ब्रह्म। त्रिष्टुप्।  
-
+१ ब्रह्म। ब्रह्म। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/066_brahma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—brāhmaṇam. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Reckoned in Kāuś. (9. 2) to bṛhachāntigaṇa, with some of the hymns next following.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 25, 89; Griffith, i. 359.
 </details>
 <details><summary>Griffith</summary>

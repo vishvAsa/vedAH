@@ -2,21 +2,16 @@
 title = "०२० शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/020_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/_index.md">
+<details open><summary><h2>20. The same: to Vāyu (wind). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-५ अथर्वा। वायुः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।  
-
+१-५ अथर्वा। वायुः। (एकावसानम्) १-४ निचृद्विषमा गायत्री, ५ भुरिग्विषमा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This and the three following hymns are mechanical variations of the one next preceding, differing from it only by the name of the deity addressed, and in hymn 23 by the pronouns and verbs being adapted to the plural deity. They are wanting in the other texts. The comm. does not deign to explain them in detail, but prefixes a few introductory words to the text of this one. For the Anukr. descriptions of the meter, and for the use by Kāuś., see under hymn 19. It would be space wasted to write out the translation in full. ⌊They should all be regarded as non-metrical.⌋ They are briefly treated (not translated) by Weber, xiii. 182, and Griffith, i. 62.
 </details>
 </details>

@@ -2,28 +2,21 @@
 title = "००६ गर्भदोषनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/08/006_garbhadoShanivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/_index.md">
+<details open><summary><h2>6. To guard a pregnant woman from demons. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गर्भदोषनिवारणम्।  
 १-२६ मातृनामा। मन्त्रोक्ताः, मातृनामा, १५ ब्रह्मणस्पतिः। अनुष्टुप्, २ पुरस्ताद्बृहती, १० त्र्यवसाना  
-षट्-पदा जगती, ११,१२,१४,१६ पथ्यापङ्क्तिः, १५ त्र्यवसाना सप्तपदा शक्वरी, १७ त्र्यवसाना सप्तपदा जगती।  
-
+षट्-पदा जगती, ११,१२,१४,१६ पथ्यापङ्क्तिः, १५ त्र्यवसाना सप्तपदा शक्वरी, १७ त्र्यवसाना सप्तपदा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/08/006_garbhadoShanivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mātṛnāman.—ṣaḍviṅśam. mātṛnāmādevatyam uta mantroktadevatyam. ānuṣṭubham: 2.purastādbṛhatī; 10. 3-av. 6-p. jagatī; 11, 12, 14, 16. pathyāpan̄kti; 15. 3-av. 7-p. śakvarī brāhmaṇaspatyā; 17. tathā jagatī.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Weber (and Zimmer after him: p. 321) conjectures that the two 'winners of a husband ' are the breasts, and that the reference is to the ceremonious washing of the young child. The numerous names of evil beings in the hymn are in good part unknown elsewhere and untranslatable; of some of them tentative versions can be added in parenthesis. The comm. reads alīśas in d, and explains it as ali + īśa ⌊taking ali as diseases (or deities representing them) that fly about like bees⌋.
 </details>
 <details><summary>Griffith</summary>

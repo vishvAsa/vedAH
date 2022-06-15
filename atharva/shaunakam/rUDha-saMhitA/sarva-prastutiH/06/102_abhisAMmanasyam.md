@@ -2,32 +2,24 @@
 title = "१०२ अभिसांमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/102_abhisAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/_index.md">
+<details open><summary><h2>102. To win a woman. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभिसांमनस्यम्।  
-१-३ जमदग्निः। अश्विनौ। अनुष्टुप्।  
-
+१-३ जमदग्निः। अश्विनौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/102_abhisAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Jamadagni (abhisammanaskāmaḥ) .—āśvinam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (35. 21) in a rite concerning women, with vi. 8, 9, etc., for reducing to one's will. Verse 3 is also reckoned (19. 1, note) to the puṣṭika mantras.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield, 101, 512.
 </details>
 </details>

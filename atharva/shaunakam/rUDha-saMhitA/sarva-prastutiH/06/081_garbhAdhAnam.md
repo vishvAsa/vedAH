@@ -2,32 +2,24 @@
 title = "०८१ गर्भाधानम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/081_garbhAdhAnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/_index.md">
+<details open><summary><h2>81. For successful pregnancy: with an amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गर्भाधानम्।  
-१-३ अथर्वा। आदित्यः, ३ त्वष्टा। अनुष्टुप्।  
-
+१-३ अथर्वा। आदित्यः, ३ त्वष्टा। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/081_garbhAdhAnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Tvaṣṭar.—mantroktadevatyam utā ”dityam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Applied by Kāuś. (35. 11) in a rite for conception of a male, with the direction iti mantroktam badhnāti; and the schol. (note to 35. 26) quotes it also in a women's rite.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 239; Ludwig, p. 477; Griffith, i. 289; Bloomfield, 96, 501.—Cf. Bergaigne-Henry, Manuel, p. 153.
 </details>
 <details><summary>Griffith</summary>

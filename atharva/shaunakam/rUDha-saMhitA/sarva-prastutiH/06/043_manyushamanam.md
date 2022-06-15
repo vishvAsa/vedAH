@@ -2,32 +2,24 @@
 title = "०४३ मन्युशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/043_manyushamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/_index.md">
+<details open><summary><h2>43. To assuage wrath. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मन्युशमनम्।  
-१-३ भृग्वङ्गिराः (परस्परचित्तैकीकरणकामः)। मन्युशमनम्। अनुष्टुप्।  
-
+१-३ भृग्वङ्गिराः (परस्परचित्तैकीकरणकामः)। मन्युशमनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/043_manyushamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [(As 42.)—manyuśamanadevatākam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. In Kāuś. (36. 32), the hymn appears, next after hymn 42, in a rite for appeasement of anger, darbha being treated as an amulet (? oṣadhivat).
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 303 or 55; Grill, 30, 162; Griffith, i. 267; Bloomfield, 137, 480.
 </details>
 <details><summary>Griffith</summary>

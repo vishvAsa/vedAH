@@ -2,32 +2,24 @@
 title = "१०३ क्षत्रियः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/103_xatriyaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/_index.md">
+<details open><summary><h2>103 (108). For betterment. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 क्षत्रियः।  
-१ ब्रह्म। आत्मा। त्रिष्टुप्।  
-
+१ ब्रह्म। आत्मा। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/103_xatriyaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ātmadāivatam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Paipp. xx. Used by Kāuś. (59. 19) with hymn 17 etc. (see under 17).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, AJP. xvii. 408-9.
 </details>
 </details>

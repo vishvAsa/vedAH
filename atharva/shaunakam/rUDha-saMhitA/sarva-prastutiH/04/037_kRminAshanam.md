@@ -2,32 +2,24 @@
 title = "०३७ कृमिनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/037_kRminAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/_index.md">
+<details open><summary><h2>37. Against various superhuman foes: with an herb. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कृमिनाशनम्।  
-१२ बादरायणिः। अजशृङ्गी, १ अप्सरसः, १-२, ६-१० औषधी अजशृङ्गी, ३-५ अप्सरसः, ७-१२ गन्धर्वाप्सरसः। अनुष्टुप्, ३ त्र्यवसाना षट् पदा त्रिष्टुप्, ५ प्रस्तारपङ्क्तिः, ७ परोष्णिक्, ११ षट् पदा जगती, १२ निचृत्।  
-
+१२ बादरायणिः। अजशृङ्गी, १ अप्सरसः, १-२, ६-१० औषधी अजशृङ्गी, ३-५ अप्सरसः, ७-१२ गन्धर्वाप्सरसः। अनुष्टुप्, ३ त्र्यवसाना षट् पदा त्रिष्टुप्, ५ प्रस्तारपङ्क्तिः, ७ परोष्णिक्, ११ षट् पदा जगती, १२ निचृत्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/037_kRminAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bādarāyaṇi.—dvādaśarcam . ajaśṛn̄gyapsarodevatyam. ānuṣṭubham: 3. 3-av.6-p. triṣṭubh; 5. prastārapan̄kti; 7. paroṣṇih; 11. 6-p. jagatī; 12. nicṛt.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (except vs. 9) in Pāipp. xiii. (in the verse-order 1-4, 7, 6, 5, 12, 8, 10, 11), but in a much defaced condition. Used by Kāuś. with the preceding hymn, as one of the cātanāni (8. 25); but also independently (28. 9) in a remedial rite against possession by evil spirits. And the comm. quotes it from Nakṣ. K. 21 ⌊error for śānti K., says Bloomfield⌋, as employed in a mahāśānti called gāndharvī. ⌊As to Bādarāyaṇi, see introduction to hymn 40.⌋
 
 
-##### Translations
+#### Translations
 Translated: Kuhn, KZ. xiii. 118 (interesting Germanic parallels); Ludwig, p. 352; Griffith, i. 180; Bloomfield, 33, 408; Weber, xviii. 144.
 </details>
 <details><summary>Griffith</summary>

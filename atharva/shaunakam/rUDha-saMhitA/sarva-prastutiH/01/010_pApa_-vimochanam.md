@@ -2,32 +2,24 @@
 title = "०१० पाप -विमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/010_pApa_-vimochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/_index.md">
+<details open><summary><h2>10. For some one's release from Varuṇa's wrath. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाप -विमोचनम्।  
-१-४ अथर्वा। १ असुरः, २-४ वरुणः। त्रिष्टुप्, ३ ककुम्मती अनुष्टुप्, ४ अनुष्टुप्।  
-
+१-४ अथर्वा। १ असुरः, २-४ वरुणः। त्रिष्टुप्, ३ ककुम्मती अनुष्टुप्, ४ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/010_pApa_-vimochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āsuram, vāruṇam. trāiṣṭubham: 3, 4. anuṣṭubh (3. kakummati).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i. Used in Kāuś. (25. 37) to accompany lavation of the head in a healing ceremony (for dropsy, comm. and schol.).
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 403; Ludwig, p. 445; Griffith, i. 13; Bloomfield, 11, 241; Weber, Sb. 1897, p. 599, cf. 594 ff.—Cf. Bergaigne-Henry, Manuel, p. 133.
 </details>
 <details><summary>Griffith</summary>

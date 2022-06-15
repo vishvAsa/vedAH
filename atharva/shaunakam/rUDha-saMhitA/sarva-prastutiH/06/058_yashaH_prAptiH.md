@@ -2,32 +2,24 @@
 title = "०५८ यशः प्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/058_yashaH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/_index.md">
+<details open><summary><h2>58. For glory. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यशः प्राप्तिः।  
-१-३ अथर्वा (यशस्कामः)। बृहस्पतिः, १-२ इन्द्रः, द्यावापृथिवि, सविता, ३ अग्निः, इन्द्रः, सोमः। १ जगती, २ प्रस्तारपङ्क्तिः, ३ अनुष्टुप्।  
-
+१-३ अथर्वा (यशस्कामः)। बृहस्पतिः, १-२ इन्द्रः, द्यावापृथिवि, सविता, ३ अग्निः, इन्द्रः, सोमः। १ जगती, २ प्रस्तारपङ्क्तिः, ३ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/058_yashaH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (yaśaskāmaḥ).—mantroktadevatyam. bārhaspatyam. 1. jagatī; 2. prastārapan̄kti; 3. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also, except vs. 3, in Pāipp. xix. The hymn is reckoned (note to Kāuś. 13. 1) to the varcasya gaṇa, and is employed (59. 9) among the kāmya ceremonies by one desiring glory; also (139. 15), in the introduction to Vedic study (utsarjanakarmaṇi, comm.), it appears with various other hymns (vi. 38, 39, etc.), with an oblation to Agni.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 240; Griffith, i. 277.
 </details>
 <details><summary>Griffith</summary>

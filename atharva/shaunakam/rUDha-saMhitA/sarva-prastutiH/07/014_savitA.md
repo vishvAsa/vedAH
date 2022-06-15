@@ -2,32 +2,24 @@
 title = "०१४ सविता"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/014_savitA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/_index.md">
+<details open><summary><h2>14 (15). Prayer and praise to Savitar. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सविता  
-१-४ अथर्वा। सविता। अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।  
-
+१-४ अथर्वा। सविता। अनुष्टुप्, ३ त्रिष्टुप्, ४ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/014_savitA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. sāvitram. ānuṣṭubham: 3. triṣṭubh; 4. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The third and fourth verses are found in Pāipp. xx. The first and second form together one long verse in SV. (i. 464), VS. (iv. 25), MS. (i. 2. 5), and AśS. (iv. 6. 3), and two, as in our text, in śśS. (v. 9. 11). In Kāuś. (24. 3) the hymn appears only in a general rite for prosperity; in accordance with which, it is included (note to 19. 1) among the puṣṭika mantras. Vāit. (13. 7) uses it in a more specific office, to accompany the winnowing of the soma, in the agniṣṭoma ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 6, 56; Griffith, i. 334.
 </details>
 <details><summary>Griffith</summary>

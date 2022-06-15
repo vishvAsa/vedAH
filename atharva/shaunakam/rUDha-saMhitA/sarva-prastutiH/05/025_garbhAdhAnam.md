@@ -2,32 +2,24 @@
 title = "०२५ गर्भाधानम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/025_garbhAdhAnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/_index.md">
+<details open><summary><h2>25. For successful conception. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गर्भाधानम्।  
-१-१३ ब्रह्म। योनिगर्भः, पृथिव्यादयो देवताः। अनुष्टुप्, १३ विराट्-पुरस्ताद्बृहती।  
-
+१-१३ ब्रह्म। योनिगर्भः, पृथिव्यादयो देवताः। अनुष्टुप्, १३ विराट्-पुरस्ताद्बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/025_garbhAdhAnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—trayodaśakam. yonigarbhadevatyam. ānuṣṭubham: 13. virāṭpurastādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (except vs. 2, and some end-repetitions) also in Pāipp. xiii. (in the verse-order 1, 5, 3, 4, 7. 10, 8, 6, 9). The hymn is quoted in Kāuś. (35. 5) in the ceremony for male conception (puṁsavana); and vs. 7 (unless it be rather vi. 95. 3, which the comm. to vi. 95 holds) in Vāit. 28. 20.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 227; Ludwig, p. 478; Griffith, i. 229; Weber, xviii. 264.
 </details>
 <details><summary>Griffith</summary>

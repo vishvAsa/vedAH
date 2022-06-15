@@ -2,33 +2,25 @@
 title = "००८ राज्याभिषेकः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/008_rAjyAbhiShekaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/_index.md">
+<details open><summary><h2>8. Accompanying the consecration of a king. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राज्याभिषेकः।  
 १-७ अथर्वाङ्गिराः। चन्द्रमाः, आपः, राज्याभिषेकः; १ राजा, २ देवाः, ३ विश्वरूपः, ४-५ आपः।  
-अनुष्टुप्; १, ७ भुरिक् त्रिष्टुप्, ३ त्रिष्टुप्, ५ विराट् प्रस्तारपङ्क्तिः।  
-
+अनुष्टुप्; १, ७ भुरिक् त्रिष्टुप्, ३ त्रिष्टुप्, ५ विराट् प्रस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/008_rAjyAbhiShekaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—rājyābhiṣekyam, cāndramasam, āpyam. ānuṣṭubham: 1, 7. bhuriktriṣṭubh; 3. triṣṭubh; 5. virāṭprastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (in the verse-order 1-3, 7, 4-6). For occurrences in other texts, see under the verses. Used by Kāuś. (17. 1 ff.), and also in Vāit. (36. 7) in connection with the rājābhiṣeka or rājasūya ceremony; and Vāit. (29. 12) further employs vs. 5 in the agnicayana, with pouring of water around the erected altar.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 458; Zimmer, p. 213; Weber, Ueber den Rājasūya, Berliner Abh., 1893, p. 139 (with full discussion); Grifiith, i. 139; Bloomfield, 111, 378; Weber, xviii. 30.
 </details>
 <details><summary>Griffith</summary>

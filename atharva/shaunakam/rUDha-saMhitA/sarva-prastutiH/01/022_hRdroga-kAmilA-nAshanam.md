@@ -2,28 +2,20 @@
 title = "०२२ हृद्रोग-कामिला-नाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/022_hRdroga-kAmilA-nAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/_index.md">
+<details open><summary><h2>22. Against yellowness (jaundice). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 हृद्रोग-कामिला-नाशनम्।  
-१-४ ब्रह्मा। सूर्यो, हरिमा हृद्रोगश्च। अनुष्टुप्।  
-
+१-४ ब्रह्मा। सूर्यो, हरिमा हृद्रोगश्च। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/022_hRdroga-kAmilA-nAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—sāuryam uta mantroktaharimadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i. Used by Kāuś. (26. 14) in a remedial rite (against heart disease and jaundice [kāmala, Keś.; kāmila, the comm.]).
 </details>
 <details><summary>Griffith</summary>

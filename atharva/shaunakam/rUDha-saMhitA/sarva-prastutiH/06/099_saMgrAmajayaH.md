@@ -2,32 +2,24 @@
 title = "०९९ संग्रामजयः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/099_saMgrAmajayaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/_index.md">
+<details open><summary><h2>99. For safety: to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 संग्रामजयः।  
-१-३ अथर्वा। इन्द्रः, सोमः, सविता च। अनुष्टुप्, ३ भुरिग्बृहती (सौम्या सावित्री)।  
-
+१-३ अथर्वा। इन्द्रः, सोमः, सविता च। अनुष्टुप्, ३ भुरिग्बृहती (सौम्या सावित्री)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/099_saMgrAmajayaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āindram: 3. sāumyā sāvitrī ca. ānuṣṭubham: 3. bhurig bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 [Partly prose, "vs." 3.⌋ Found also in Pāipp. xix. No use of the hymn is made by Kāuś. except in connection with its two predecessors, as explained under hymn 97. But Vāit. has it in the agniṣṭoma, as whispered stotra (18. 16).
 
 
-##### Translations
+#### Translations
 Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 </details>
 </details>

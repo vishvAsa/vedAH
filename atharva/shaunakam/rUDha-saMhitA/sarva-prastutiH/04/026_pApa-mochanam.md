@@ -2,32 +2,24 @@
 title = "०२६ पाप-मोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/026_pApa-mochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/_index.md">
+<details open><summary><h2>26. Praise and prayer to heaven and earth. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाप-मोचनम्।  
-१-७ मृगारः। द्यावापृथिवी। त्रिष्टुप्, १ अष्टिः, २-३ जगती, ७ शाक्वरगर्भातिमध्येज्योतिः।  
-
+१-७ मृगारः। द्यावापृथिवी। त्रिष्टुप्, १ अष्टिः, २-३ जगती, ७ शाक्वरगर्भातिमध्येज्योतिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/026_pApa-mochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—(see h. 23). 1. puro ’ṣṭir jagatī; 7. śākvaragarbhātimadhyejyotis.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (in a somewhat different verse-order*), after our hymn 27. The other texts (see under hymn 23) have but one verse that represents the hymn, made up of parts of our vss. 1 and 7. As to the use of the mṛgāra hymns by Kāuś., see under h. 23. In Vait. (15. 13), this hymn (or vs. 1) accompanies the offering to the udumbara twig in the agniṣṭoma. *⌊Order, 1, 2, 4, 6, 3, 5, 7.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 167; Weber, xviii. 106.
 </details>
 <details><summary>Griffith</summary>

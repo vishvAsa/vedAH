@@ -2,32 +2,24 @@
 title = "०६६ असुरक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/066_asuraxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/_index.md">
+<details open><summary><h2>66. To Agni: for aid. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 असुरक्षयणम्।  
-१ ब्रह्मा। जातवेदाः सूर्यो वज्रश्च। अतिजगती।  
-
+१ ब्रह्मा। जातवेदाः सूर्यो वज्रश्च। अतिजगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/066_asuraxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. jātavedasam; sāuryam; vajradevatyam. atijāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. The comm. connects it in use with the preceding hymn.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 319.
 </details>
 <details><summary>Griffith</summary>

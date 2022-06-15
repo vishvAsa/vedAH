@@ -2,28 +2,20 @@
 title = "०५२ कामः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/052_kAmaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/_index.md">
+<details open><summary><h2>52. Of and to desire (kā́ma). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कामः।  
-१-५ ब्रह्माः कामः। त्रिष्टुप्, ३ चतुष्पदा उष्णिक्, ५ उपरिष्टाद्बृहती।  
-
+१-५ ब्रह्माः कामः। त्रिष्टुप्, ३ चतुष्पदा उष्णिक्, ५ उपरिष्टाद्बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/052_kAmaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—pañcakam. mantroktakāmadāivatam. trāiṣṭubham. 3. 4-p. uṣṇih; 5. upariṣṭādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first half-verse is nearly identical with RV. x. 129. 4 a, b ⌊TB. ii. 4. 11; 8. 94; TA. i. 23. 1⌋, which differ only by adding ádhi at end of a; the word is missed in our verse both for sense and for meter. Our text omits* at beginning of c a sá (sá kāma) that is in both these respects superfluous; it is found, however, also in Ppp. The comm. explains kā́mena bṛhatā́ to mean mahatā deśakālavastuparicchedarahitena kāmayitrā parameśvareṇa. The last pāda is xviii. 1. 43 d. *⌊And so accents kā́ma.⌋
 </details>
 <details><summary>Griffith</summary>

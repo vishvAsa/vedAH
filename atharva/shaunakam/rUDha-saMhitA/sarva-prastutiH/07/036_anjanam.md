@@ -2,32 +2,24 @@
 title = "०३६ अञ्जनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/036_anjanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/_index.md">
+<details open><summary><h2>36 (37). Husband and wife to one another. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अञ्जनम्।  
-१ अथर्वा। अक्षि, मनः। अनुष्टुप्।  
-
+१ अथर्वा। अक्षि, मनः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/036_anjanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktāhṣidevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this verse are found in Pāipp. only the first words, a lacuna following. Kāuś. (79. 2) prescribes its use in the marriage ceremonies of the fourth day, as the two spouses anoint one another's eyes.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 248; Grill, 55, 179; Henry, 13, 67; Griffith, i. 343; Bloomfield, 96, 546.—Cf. also Bergaigne, JA. 8. iii. 200, note (1884).
 </details>
 <details><summary>Griffith</summary>

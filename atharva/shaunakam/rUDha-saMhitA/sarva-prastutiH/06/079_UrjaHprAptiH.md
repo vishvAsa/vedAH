@@ -2,32 +2,24 @@
 title = "०७९ ऊर्जःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/079_UrjaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/_index.md">
+<details open><summary><h2>79. For abundance at home. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ऊर्जःप्राप्तिः।  
-१-३ अथर्वा। संस्फानम्। गायत्री, ३ त्रिपदा प्राजापतया गायत्री।  
-
+१-३ अथर्वा। संस्फानम्। गायत्री, ३ त्रिपदा प्राजापतया गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/079_UrjaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saṁsphānadevatyam. gāyatram: 3. 3-p. prājāpatyā jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊"Verse" 3 is prose.⌋ Found also in Pāipp. xix.; and in TS. iii. 3.82-3. Kāuś. uses the hymn in a rite ⌊21. 7⌋ for prosperity (for fatness in grain, comm.), and it is reckoned (note to 19. 1) to the puṣṭika mantras. Vāit. (31. 4) has it in the sattra, on the ekāṣṭakā day, with offerings to the two deities mentioned.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 288; Bloomfield, 141, 499.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०११ अनड्वान्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/011_anaDvAn.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/_index.md">
+<details open><summary><h2>11. In praise of the draft-ox. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अनड्वान्  
-१-१२ भृग्वङ्गिराः। अनड्वान्, इन्द्रः। त्रिष्टुप्; १, ४ जगति, २ भुरिक्, ७ त्र्यवसाना षट् पदानुष्टुब्गर्भोपरिष्टज्जागतानिचृच्छक्वरी, ८-१२ अनुष्टुप्।  
-
+१-१२ भृग्वङ्गिराः। अनड्वान्, इन्द्रः। त्रिष्टुप्; १, ४ जगति, २ भुरिक्, ७ त्र्यवसाना षट् पदानुष्टुब्गर्भोपरिष्टज्जागतानिचृच्छक्वरी, ८-१२ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/011_anaDvAn.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—dvādaśarcam. ānaḍuham. trāiṣṭubham: 1, 4. jagatī; 5. bhurij; 7. 3-av. 6-p. anuṣṭubgarbho ’pariṣṭājjāgatā nicṛcchakvarī; 8-12. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/011_anaDvAn/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iii. (in the verse-order 1, 4, 2, 5, 3, 6, 11, 12, 9, 8, 10, 7). Used by Kāuś. (66. 12) in a sava sacrifice, with the draft-ox as sava. The hymn offers an example of that characteristic Hindu extollation, without any measure or limit, of the immediate object of reverence, which, when applied to a divinity, has led to the setting up of the baseless doctrine of "henotheism."
 
 
-##### Translations
+#### Translations
 Translated: Muir, OST. v. 399, 361 (about half); Ludwig, pp. 534 and 190; Deussen, Geschichte, i. 1. 232; Griffith, i. 144; Weber, xviii. 39.—Cf. Deussen, l.c., p. 230 f. Weber entitles the hymn "Verschenkung eines Pflugstieres zur Feier der Zwölften (i.e. nights of the winter solstice—see vs. 11)."
 </details>
 <details><summary>Griffith</summary>

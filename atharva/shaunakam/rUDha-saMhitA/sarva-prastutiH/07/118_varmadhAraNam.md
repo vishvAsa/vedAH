@@ -2,32 +2,24 @@
 title = "११८ वर्मधारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/118_varmadhAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/_index.md">
+<details open><summary><h2>118 (123). When arming a warrior. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वर्मधारणम्।  
-१ अथर्वाङ्गिराः। चन्द्रमाः, वरुणः, देवः। त्रिष्टुप्।  
-
+१ अथर्वाङ्गिराः। चन्द्रमाः, वरुणः, देवः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/118_varmadhAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—bahudevatyam uta cāndramasam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Used in Kāuś. (16. 7) in one of the battle rites, for terrifying a hostile army, with arming a king or kshatriya; for its connection with hymn 117, see under that hymn; and some mss. read it in 39. 28, in a rite against witchcraft (probably wrongly, as the comm. knows no such use). Vāit. has it (34. 12) in the sattra sacrifice, with arming a king.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
 </details>

@@ -2,32 +2,24 @@
 title = "०४६ सिनीवाली"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/046_sinIvAlI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/046_sinIvAlI/_index.md">
+<details open><summary><h2>46 (48). To Sinīvāli (goddess of the new moon). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सिनीवाली।  
-१-३ अथर्वा। सिनीवाली। अनुष्टुप्। ३ त्रिष्टुप्।  
-
+१-३ अथर्वा। सिनीवाली। अनुष्टुप्। ३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/046_sinIvAlI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.-—tṛcam. mantroktadevatyam. ānuṣṭubham: 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/046_sinIvAlI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. (in the verse-order 2, 1, 3). Used by Kāuś. (32. 3), with hymn 29 etc., and again (59. 19) with hymn 17 etc.: see under hymns 29 and 17. In Vāit. (1. 14), in the parvan sacrifice, it conciliates Sinīvālī.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 16, 73; Griffith, i. 347.
 </details>
 <details><summary>Griffith</summary>

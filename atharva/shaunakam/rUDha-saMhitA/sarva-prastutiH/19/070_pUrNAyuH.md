@@ -2,32 +2,24 @@
 title = "०७० पूर्णायुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/070_pUrNAyuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/070_pUrNAyuH/_index.md">
+<details open><summary><h2>70. For long life. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पूर्णायुः।  
-१ ब्रह्मा। इन्द्रसूर्यादयः। त्रिपदा गायत्री।  
-
+१ ब्रह्मा। इन्द्रसूर्यादयः। त्रिपदा गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/070_pUrNAyuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. sāuryam. 3-p. gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/070_pUrNAyuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ Not found in Pāipp. ⌊See note to 69. 4.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 320.
 </details>
 <details><summary>Griffith</summary>

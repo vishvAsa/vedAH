@@ -2,29 +2,21 @@
 title = "००५ विजयप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/10/005_vijayaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/005_vijayaprAptiH/_index.md">
+<details open><summary><h2>5. Preparation and use of water-thunderbolts. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विजयप्राप्तिः।  
 १-२४ सिन्धुद्वीपः। आपः, चन्द्रमाः। अनुष्टुप्, १-५ त्रिपदा पुरोऽभिकृतिककुम्मतीगर्भा पङ्क्तिः, ६ चतुष्पदा जगतीगर्भा जगती, ७-१४ त्र्यवसाना पञ्चपदा विपरीतपादलक्ष्मा बृहती (११,१४ पथ्यापङ्क्तिः), १५-२१ चतुरवसाना दशपदा त्रैष्टुब्गर्भातिधृतिः, (१९-२० कृतिः, २४ त्रिपदा विराड् गायत्री)  
-(१)  
-
+(१)
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/10/005_vijayaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [B1. (vss. 25-35). Kāuśika.—ekādaśa. viṣṇukramadevatyā uta pratimantroktadevatyāḥ. 25-35. 3-av. 6-p. yathākṣaraṁ śakvaryatiśatvarī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/005_vijayaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊The hymn is mingled prose and verse: 22-24, 42-43, 45-50, and parts of 7-14 and 36-41 are metrical. Cf. Whitney, Index, p. 5.⌋ This hymn, which by the mss. is given and numbered as one,* without any intimation of a subdivision, is by the Anukr. divided into four† parts, which are even ascribed to different authors. ⌊Part A = verses 1-24; B = 25-35; C = 37-41; D = 42-50.⌋ Verses 1-41, or the first three divisions, are found also in Pāipp. xvi.; part of the last division (vss. 45, 42 c, d, 43, 44, in this order), in Pāipp. i.—⌊"Water-thunderbolts" appears to me to be nothing more than a highfalutin name, well befitting the black magic of this hymn, for handfuls of water hurled with much hocus-pocus.⌋
 
 

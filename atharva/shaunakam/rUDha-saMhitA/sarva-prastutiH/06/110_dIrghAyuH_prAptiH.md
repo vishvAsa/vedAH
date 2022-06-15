@@ -2,32 +2,24 @@
 title = "११० दीर्घायुः प्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/110_dIrghAyuH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/_index.md">
+<details open><summary><h2>110. For a child born at an unlucky time. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः प्राप्तिः।  
-१-३ अथर्वा। अग्निः। त्रिष्टुप्, १ पङ्क्तिः।  
-
+१-३ अथर्वा। अग्निः। त्रिष्टुप्, १ पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/110_dIrghAyuH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āgneyam. trāiṣtubham: 1. pan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn is not found in Pāipp. Kāuś. (46. 25) applies it for the benefit of a child born under an inauspicious asterism.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 517.—With reference to the asterisms, see note to ii. 8. i; Zimmer, p. 356; Jacobi in Festgruss an Roth, p. 70.
 </details>
 </details>

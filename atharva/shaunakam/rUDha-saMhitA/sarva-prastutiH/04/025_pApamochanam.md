@@ -2,32 +2,24 @@
 title = "०२५ पापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/025_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/_index.md">
+<details open><summary><h2>25. Praise and prayer to Vāyu and Savitar. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
-१-७ मृगारः। सविता, वायुः। त्रिष्टुप्, ३ अतिशक्वरी, ७ पथ्याबृहती।  
-
+१-७ मृगारः। सविता, वायुः। त्रिष्टुप्, ३ अतिशक्वरी, ७ पथ्याबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/025_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—(see h. 23). 3. atiśakvarīgarbhā jagatī; 7. pathyābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (in the verse-order 1-3, 6, 5, 4, 7, and after our hymn 23). The Black Yajur-Veda texts (see under hymn 23) put their passages corresponding to our hymn 29 (to Mitra and Varuṇa) between those corresponding to our 24 and 25. For the use of the hymn as one of the mṛgāra hymns in Kāuś., see under hymn 23; the comm. further quotes it as employed by Nakṣ. K. 18, in a śānti ceremony named vāyavyā. The metrical irregularities are not worth the trouble of detailing.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 166; Weber, xviii. 102.
 </details>
 <details><summary>Griffith</summary>

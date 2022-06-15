@@ -2,32 +2,24 @@
 title = "०३८ केवलः पतिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/038_kevalaH_patiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/_index.md">
+<details open><summary><h2>38 (39). To win and fix a man's love: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 केवलः पतिः।  
-१-५ अथर्वा। वनस्पतिः। अनुष्टुप्, ३ चतुष्पदा उष्णिक्।  
-
+१-५ अथर्वा। वनस्पतिः। अनुष्टुप्, ३ चतुष्पदा उष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/038_kevalaH_patiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—pañcarcam. vānaspatyam. ānuṣṭubham: 3. 4-p. uṣṇiḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses of this hymn are found in Pāipp. xx., but in a fragmentary and corrupt condition; the remaining three, in iii. Used, according to Kāuś. (36. 12), with vi. 129, 139, in a rite concerning women; the plant is fastened to the head (of the woman ⌊so the comm.⌋), and she enters the village. (Keśava explains differently.) ⌊He regards a man as object of the rite (tasya śirasi baddhvā), as indeed the text of vs. 2 d requires.⌋
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 249; Ludwig, p. 515; Grill, 59, 179; Henry, 14, 68; Griffith, i. 344; Bloomfield, 103, 546.
 </details>
 <details><summary>Griffith</summary>

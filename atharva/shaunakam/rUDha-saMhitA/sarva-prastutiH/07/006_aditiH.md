@@ -2,28 +2,20 @@
 title = "००६ अदितिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/006_aditiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/_index.md">
+<details open><summary><h2>6 (6, 7). Praise of Aditi. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अदितिः  
-१-४ अथर्वा (ब्रह्मवर्चसकामः) । अदितिः। त्रिष्टुप्, २ भुरिक्, ३-४ विराड् जगती।  
-
+१-४ अथर्वा (ब्रह्मवर्चसकामः) । अदितिः। त्रिष्टुप्, २ भुरिक्, ३-४ विराड् जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/006_aditiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—dvyṛcam ⌊tathā param⌋. aditidevatyam: trāiṣṭubham: 2. bhurij; 3, 4. virāḍjagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This verse is, without variation, RV. i. 89. 10 (also VS. xxv. 23; TA. i. 13. 2; MS. iv. 14. 4); only RV. (in F. M. Müller's editions: but probably by an error) divides the last word jáni-tvam in the pada-text, while AV., more correctly, leaves it undivided.
 </details>
 <details><summary>Griffith</summary>

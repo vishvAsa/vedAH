@@ -2,32 +2,24 @@
 title = "०५५ सौमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/055_saumanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/055_saumanasyam/_index.md">
+<details open><summary><h2>55. For various blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सौमनस्यम्।  
-१-३ ब्रह्म। १ विश्वे देवाः, २-३ रुद्रः। जगती, २ त्रिष्टुप्।  
-
+१-३ ब्रह्म। १ विश्वे देवाः, २-३ रुद्रः। जगती, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/055_saumanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (?).—1. vāiśvadevī, jagatī; 2, 3. rāudryāu: 2. triṣṭubh; 3. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/055_saumanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp., but in TS. (v. 7. 23-4) etc. as noted below. Used by Kāuś. (52. 1) in a rite for welfare, on going away; and vs. 2 is reckoned (note to 50. 13) to the rāudra gaṇa. With vs. 2, according to Vāit. 2. 16, are offered the prayājas in the parvan sacrifice; and with vs. 3 (8. 5), the initial and final homas in the āgrayaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 218; Griffith, i. 275.—As to cycles of lunar years, see Zimmer, p. 370.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००४ आकूतिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/004_AkUtiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/_index.md">
+<details open><summary><h2>4. To various divinities. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आकूतिः।  
-१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, १ पञ्चपदा विराडतिजगती, २ जगती।  
-
+१-४ अथर्वाङ्गिराः। अग्निः। त्रिष्टुप्, १ पञ्चपदा विराडतिजगती, २ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/004_AkUtiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—caturṛcam. āgneyam ⌊2. mantroktadevatyā⌋. trāiṣṭubham: 1. 5-p. virāḍ atijagatī; 2. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The second, third, and fourth verses are found in Pāipp. xix.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 261.
 </details>
 <details><summary>Griffith</summary>

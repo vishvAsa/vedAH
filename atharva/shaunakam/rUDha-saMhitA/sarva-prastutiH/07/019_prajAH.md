@@ -2,32 +2,24 @@
 title = "०१९ प्रजाः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/019_prajAH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/_index.md">
+<details open><summary><h2>19 (20). For progeny, etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 प्रजाः।  
-१ ब्रह्मा। प्रजापतिः। जगती।  
-
+१ ब्रह्मा। प्रजापतिः। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/019_prajAH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—mantroktadevatyatn. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Kāuś. (35. 17) uses it in a women's rite, with an oblation in the lap of a woman desirous of offspring; and further (59. 19), with hymn 17 etc.: see under the latter.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 8, 60; Griffith, i. 337.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०६० पतिलाभः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/060_patilAbhaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/_index.md">
+<details open><summary><h2>60. For winning a spouse. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पतिलाभः।  
-१-३ अथर्वा। अर्यमा। अनुष्टुप्।  
-
+१-३ अथर्वा। अर्यमा। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/060_patilAbhaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—āryamaṇam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (34. 22), in a women's rite, for obtaining a husband, with an oblation to Arymaman (it is added, purā kākasampātāt, which the comm. explains by kākasaṁcārāt pūrvam).
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 236; Zimmer, p. 306; Grill, 56, 164; Griffith, i. 278; Bloomfield, 95, 491.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०५७ जलचिकित्सा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/057_jalachikitsA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/_index.md">
+<details open><summary><h2>57. With a certain remedy against disease. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जलचिकित्सा।  
-१-३ शन्तातिः। रुद्रः। १-२ अनुष्टुप् ३ पथ्याबृहती।  
-
+१-३ शन्तातिः। रुद्रः। १-२ अनुष्टुप् ३ पथ्याबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/057_jalachikitsA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—1, 2. rāudryāu; anuṣṭubh; 3. ⌊?⌋; pathyābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (31. 11) in a healing rite, while treating a bruise ⌊? akṣata: cf. Bloomfield, Introd. p. xliii⌋ with foam of urine; and vs. 3 is reckoned (9. 2) to the bṛhachānti gaṇa, and employed, with vi. 19 etc. (41. 14), in a rite for welfare.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 276; Bloomfield, 19, 488.
 </details>
 <details><summary>Griffith</summary>

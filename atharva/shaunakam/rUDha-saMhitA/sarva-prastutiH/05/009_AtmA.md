@@ -2,32 +2,24 @@
 title = "००९ आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/009_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/_index.md">
+<details open><summary><h2>9. For protection: to various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा  
-१-८ ब्रह्म। वास्तोष्पतिः, आत्मा। १,५ दैवी बृहती, २, ६ दैवी त्रिष्टुप्, ३, ४ दैवी जगती, ७ विराडुष्णिग्बृहतीगर्भा पञ्चपदा जगती, ८ पुरस्कृतित्रिष्टुब्बृहतीगर्भा चतुष्पदा त्र्यवसाना जगती।  
-
+१-८ ब्रह्म। वास्तोष्पतिः, आत्मा। १,५ दैवी बृहती, २, ६ दैवी त्रिष्टुप्, ३, ४ दैवी जगती, ७ विराडुष्णिग्बृहतीगर्भा पञ्चपदा जगती, ८ पुरस्कृतित्रिष्टुब्बृहतीगर्भा चतुष्पदा त्र्यवसाना जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/009_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭakam. vāstoṣpatyam. 1, 5. dāivī bṛhatī; 2, 6. dāivī triṣṭubh; 3, 4. dāivī jagatī; 7. virāḍuṣṇigbṛhatīgarbhā 5-p. jagatī; 8. puraskṛtitriṣṭubbṛhatīgarbhā 4-p. 3-av. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊This piece is prose.⌋ Neither this piece nor the next is found in Pāipp. This one is quoted in Kāuś. (28. 17) in a remedial ceremony, together with vi. 91; and it is reckoned (8. 23, note) to the vāstu gaṇa and (26. 1, note) the takmaṇāśana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 201; Weber, xviii. 197.
 </details>
 <details><summary>Griffith</summary>

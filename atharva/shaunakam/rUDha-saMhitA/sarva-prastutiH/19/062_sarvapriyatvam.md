@@ -2,32 +2,24 @@
 title = "०६२ सर्वप्रियत्वम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/062_sarvapriyatvam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/_index.md">
+<details open><summary><h2>62. For popularity. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सर्वप्रियत्वम्।  
-१ ब्रह्मा। ब्रह्मणस्पतिः। अनुष्टुप्।  
-
+१ ब्रह्मा। ब्रह्मणस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/062_sarvapriyatvam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (etc., as 61).—anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. and in the comm.
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 205; Griffith, ii. 318.
 </details>
 <details><summary>Griffith</summary>

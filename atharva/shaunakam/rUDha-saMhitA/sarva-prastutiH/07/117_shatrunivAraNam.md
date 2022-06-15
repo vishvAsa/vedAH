@@ -2,32 +2,24 @@
 title = "११७ शत्रुनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/117_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/117_shatrunivAraNam/_index.md">
+<details open><summary><h2>117 (122). Invitation to India. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
-१ अथर्वाङ्गिराः। इन्द्रः। पथ्याबृहती।  
-
+१ अथर्वाङ्गिराः। इन्द्रः। पथ्याबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/117_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—āindram. pathyābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/117_shatrunivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Used by Kāuś. (59. 14), with hymns 85 and 86, in a rite for welfare; and it is, with 118, reckoned (note to 25. 36) to the svastyayana gaṇa; while a schol. (note to 137. 4) adds it and 118 in the introduction to the ājyatantra; that another uses it with 116 was noted under that hymn. And Vāit. (23. 9) repeats it in the agniṣṭoma with the offering of the hāriyojanagraha.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
 </details>

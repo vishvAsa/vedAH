@@ -2,19 +2,14 @@
 title = "००५ ब्रह्मगवी"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/12/005_brahmagavI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/_index.md">
+<details open><summary><h2>5. The Brahman's cow. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ब्रह्मगवी।  
-१-७२ (कश्यपः?) अथर्वाचार्यः। ब्रह्मगवी। (सप्त पर्यायाः) (१-६) १ प्राजापत्याऽनुष्टुप्, २,६ भुरिक् साम्यनुष्टुप्, ३ चतुष्पदा स्वराडुष्णिक्, ४ आसुर्यनुष्टुप्, ५ साम्नी पङ्क्तिः।  
-
-
+१-७२ (कश्यपः?) अथर्वाचार्यः। ब्रह्मगवी। (सप्त पर्यायाः) (१-६) १ प्राजापत्याऽनुष्टुप्, २,६ भुरिक् साम्यनुष्टुप्, ३ चतुष्पदा स्वराडुष्णिक्, ४ आसुर्यनुष्टुप्, ५ साम्नी पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/12/005_brahmagavI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvācārya.*—sapta paryāyāḥ. brahmagavīdevatāḥ.]
 
@@ -32,23 +27,17 @@ title = "००५ ब्रह्मगवी"
 [Paryāya VI.—pañcadaça. 47, 49, 51-53, 57-59, 61 (?). prājāpatyā ’nuṣṭubh; 48. ārṣy anuṣṭubh; 50. sāmnī bṛhatī; 54, 55. prājāpatyo ‘ṣṇih; 56. āsurī gāyatrī; 60. gāyatrī.]
 
 [Paryāya VII.—dvādaçakaḥ. 62-64, 66, 68-70. prajāpatyā ’nuṣṭubh; 65. gāyatrī; 67. prājāpatyā gāyatrī; 71. āsurī pan̄kti; 72. prājāpatyā triṣṭubh; 73. āsury uṣṇih.]
-
-
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/005_brahmagavI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Partly metrical: vss. 15-17, 47-53, 55-70 are so reckoned by W. in the Index, p. 6.⌋ Found also in the main in Pāipp. xvi., but in the central parts with omissions and disorder of which the details are not given; ⌊vss. 58, 60, 64-73 are wanting⌋. Not quoted at all by Vāit., nor probably by Kāuś., since 'the two Brahman-cow hymns' mentioned in Kāuś. 48. 13 are doubtless v. 18, 19; although the comm. ⌊Dārila: cf. Keśava, p. 35120⌋ declares these ⌊v. 18, 19⌋ to constitute one of the 'two,' and xii. 5 the other. *⌊The Berlin ms. reads prāguktarṣibrahmagavīdevatāḥ: so also SPP's citation, Critical Notice, p. 21. This seems to mean that Kaśyapa is the ṛṣi; h. 4 clearly has the same "deity" as this.⌋
 
 
 
 
 
-##### Translations
+#### Translations
 Translated: Muir, i2. 288 (vss. 4-15); Ludwig, p. 529 (vss. 47-73); Henry, 209, 257; Griffith, ii. 127.
 </details>
 <details><summary>Griffith</summary>

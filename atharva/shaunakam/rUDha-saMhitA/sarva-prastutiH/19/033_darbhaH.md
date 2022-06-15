@@ -2,32 +2,24 @@
 title = "०३३ दर्भः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/033_darbhaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/_index.md">
+<details open><summary><h2>33. For various blessings: with an amulet of darbhá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दर्भः।  
-१-५ भृगुः। दर्भः। १ जगती, २, ५ त्रिष्टुप्, ३ आर्षी पङ्क्तिः, ४ आस्तारपङ्क्तिः।  
-
+१-५ भृगुः। दर्भः। १ जगती, २, ५ त्रिष्टुप्, ३ आर्षी पङ्क्तिः, ४ आस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/033_darbhaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 32.—pañcakam. 1. jagatī; 2, 5. triṣṭubh; 3. ārṣī pan̄kti; 4. āstārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. xii., following our hymn 32. Used with the latter in the same ceremony, according to the comm. ⌊For citations by Kāuś., see under vs. 3.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 290.
 </details>
 <details><summary>Griffith</summary>

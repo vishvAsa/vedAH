@@ -2,32 +2,24 @@
 title = "०६३ दुरितनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/063_duritanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/_index.md">
+<details open><summary><h2>63 (65). To Agni: for aid. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुरितनाशनम्।  
-१ मरीचिः काश्यपः। जातवेदाः। जगती।  
-
+१ मरीचिः काश्यपः। जातवेदाः। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/063_duritanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kaśyapa Mārīca.—jātavedasam. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Kāuś. (69. 22) uses it in the preparation of the house-fire, with invocation.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 25, 88; Griffith, i. 357.
 </details>
 <details><summary>Griffith</summary>

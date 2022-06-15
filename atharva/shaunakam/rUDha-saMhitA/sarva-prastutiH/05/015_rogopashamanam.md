@@ -2,32 +2,24 @@
 title = "०१५ रोगोपशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/015_rogopashamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/_index.md">
+<details open><summary><h2>15. For exorcism: to a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रोगोपशमनम्।  
-१-११ विश्वामित्रः। मधुला वनस्पतिः। अनुष्टुप्, ४ पुरस्ताद्बृबती, ५,७,९ भुरिक्।  
-
+१-११ विश्वामित्रः। मधुला वनस्पतिः। अनुष्टुप्, ४ पुरस्ताद्बृबती, ५,७,९ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/015_rogopashamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Viśvāmitra.—ekādaśakam. vānasfatyam. ānuṣṭubham: 4. purastādbṛhatī; 5, 7, 8, 9. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. viii. Used by Kāuś. (19. 1), with several other hymns, for the healing of distempered cattle; and its verses and those of hymn 16 are referred to as madhulāvṛṣalin̄gāḥ again in 29. 15, following the use of hymn 13.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 211; Weber, xviii. 220.
 </details>
 <details><summary>Griffith</summary>

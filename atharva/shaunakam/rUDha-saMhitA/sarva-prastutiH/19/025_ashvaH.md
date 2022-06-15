@@ -2,32 +2,24 @@
 title = "०२५ अश्वः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/025_ashvaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/_index.md">
+<details open><summary><h2>25. To a horse. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अश्वः।  
-१ गोपथः। वाजी। अनुष्टुप्।  
-
+१ गोपथः। वाजी। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/025_ashvaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Gopatha.—ekarcam. vājidevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The verse is not found in Pāipp. The comm. finds it quoted in Nakṣ. K. 17-18, in a mahāśānti ceremony called gāndharvī, on occasion of the loss (kṣaya) of a horse.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 282.
 </details>
 <details><summary>Griffith</summary>

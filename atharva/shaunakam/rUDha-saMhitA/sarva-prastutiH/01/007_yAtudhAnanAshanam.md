@@ -2,32 +2,24 @@
 title = "००७ यातुधाननाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/007_yAtudhAnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/_index.md">
+<details open><summary><h2>7. To Agni: for the discovеrу of sorcerers. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यातुधाननाशनम्।  
-१-७ चातनः। अग्निः (जातवेदाः), ३ अग्नीन्द्रौ। अनुष्टुप्, ५ त्रिष्टुप्।  
-
+१-७ चातनः। अग्निः (जातवेदाः), ३ अग्नीन्द्रौ। अनुष्टुप्, ५ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/007_yAtudhAnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cãtana.—saptarcam. ãnuṣṭubham: 5. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn and the follоwing occur in Pāipp. iv., where the length of this one is more in place than here among the hymns of four verses. Both, with eight other hymns (mostly attributed by the Anukr. to Cātana as author), are called by Kāuś. (8. 25) cātanāni 'expellers,' and are used in a few places for exorcism and such purposes.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 398; Ludwig, p. 523; Griffith, i. 9; Bloomfield, 64, 237.—Cf. Bergaigne-Henry, Manuel, p. 131; also Whitney, Festgruss an Roth, p. 94 f.
 </details>
 <details><summary>Griffith</summary>

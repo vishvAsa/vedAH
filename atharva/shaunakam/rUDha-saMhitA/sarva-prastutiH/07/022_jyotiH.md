@@ -2,32 +2,24 @@
 title = "०२२ ज्योतिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/022_jyotiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/022_jyotiH/_index.md">
+<details open><summary><h2>22 (23). To the sun (?). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ज्योतिः।  
-१-२ ब्रह्मा। ब्रध्नः। १ द्विपदा एकावसाना विराड्-गायत्री. २ त्रिपदा अनुष्टुप्।  
-
+१-२ ब्रह्मा। ब्रध्नः। १ द्विपदा एकावसाना विराड्-गायत्री. २ त्रिपदा अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/022_jyotiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—dvyṛcam. lin̄goktadevatyam. 1. 2-p. l-av. virāḍgāyatrī; 2. 3-p. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/022_jyotiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Both verses form a single long verse in SV. (i. 458). Appears in Kāuś. (66. 14), in the savayajñas, with vi. 31, on giving a spotted cow. In Vāit. (13. 8) it follows, in the agniṣṭoma, next after hymn 14.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 9, 61; Griffith, i. 338.
 </details>
 <details><summary>Griffith</summary>

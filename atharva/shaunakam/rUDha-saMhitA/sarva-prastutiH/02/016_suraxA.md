@@ -2,31 +2,23 @@
 title = "०१६ सुरक्षा"
 
 +++
-## अधिसूक्तम्
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/_index.md">
+<details open><summary><h2>16. For protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/016_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
-
-सुरक्षा  
-
+सुरक्षा
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/016_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—prāṇāpānāyurdevatyam. ekāvasānam: 1. 1-p. āsurī triṣṭubh; 2. i-p. āsury uṣṇih; 3. 1-p. āsurī triṣṭubh; 4. 5. 2-p. āsurī gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not metrical.⌋ Found (except vs. 5) in Pāipp. ii. (in the verse-order 2, 1, 3, 4). The hymn, with the one next following, is used by Kāuś. (54. 12) immediately after hymn 15; and the comm. adds, quoting for it the authority of Pāiṭhīnasi, to accompany the offering of thirteen different substances, which he details. Both appear also in Vāit. (4. 20), in the parvan sacrifices, on approaching the āhavanīya fire; and vss. 2 and 4 further (8. 7, 9) in the āgrayaṇa and cāturmāsya sacrifices.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 179; Griffith, i. 60.
 </details>
 <details><summary>Griffith</summary>

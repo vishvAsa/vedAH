@@ -2,32 +2,24 @@
 title = "०७१ वेदमाता"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/071_vedamAtA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/_index.md">
+<details open><summary><h2>71. For various blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वेदमाता।  
-१ ब्रह्मा। गायत्री। त्र्यवसाना पञ्चपदाऽतिजगती।  
-
+१ ब्रह्मा। गायत्री। त्र्यवसाना पञ्चपदाऽतिजगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/071_vedamAtA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. gāyatrīdāivalam. 3-av. 5-f. atijagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. The comm. is unable to quote any authority as to its use; but he declares it to belong to the worship of the Veda that one has studied, or of the gāyatrī.
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 204; Griffith, ii. 320.
 </details>
 <details><summary>Griffith</summary>

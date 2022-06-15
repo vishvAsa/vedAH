@@ -2,32 +2,24 @@
 title = "०३२ महद्ब्रह्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/032_mahadbrahma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/_index.md">
+<details open><summary><h2>32. Cosmogonic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 महद्ब्रह्म।  
-१-४ ब्रह्मा। द्यावापृथिवी। अनुष्टुप्, २ ककुम्मत्यनुष्टुप्।  
-
+१-४ ब्रह्मा। द्यावापृथिवी। अनुष्टुप्, २ ककुम्मत्यनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/032_mahadbrahma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—dyāvāpṛthivīyam. ānuṣṭubham: 2. kakummatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i., next after our hymn 31. Used by Kāuś. in a women's rite (34. 1), against barrenness, and again (59.3) in a ceremony for prosperity, to heaven and earth; and the first verse (so the comm.) further (6. 17), as alternate to x. 5. 23, with conducting water into the joined hands of the sacrificer's wife, in the parvan-sacrifices.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 426; Ludwig, p. 533; Griffith, i. 36.
 </details>
 <details><summary>Griffith</summary>

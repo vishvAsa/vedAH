@@ -2,32 +2,24 @@
 title = "०७० शत्रुदमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/070_shatrudamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/_index.md">
+<details open><summary><h2>70 (73). Against an enemy's sacrifice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुदमनम्।  
-१-५ अथर्वा। श्येनः, देवाः। १ त्रिष्टुप्, २ अतिजगतीगर्भा जगती, ३-५ अनुष्टुप् (३ पुरःककुम्मती)।  
-
+१-५ अथर्वा। श्येनः, देवाः। १ त्रिष्टुप्, २ अतिजगतीगर्भा जगती, ३-५ अनुष्टुप् (३ पुरःककुम्मती)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/070_shatrudamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—pañcarcam. mantroktadevatyam uta śyenadevatākam. trāiṣṭubham: 2. atijagatīgarbhā jagatī; 3-5. anuṣṭubh (3. puraḥkakummati).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses are found in Pāipp. xix. Used by Kāuś. (48. 27), with vi. 54, in a charm to spoil an enemy's sacred rites.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 374; Grill, 46, 187; Henry, 26, 91; Griffith, i. 360; Bloomfield, 90, 557.
 </details>
 <details><summary>Griffith</summary>

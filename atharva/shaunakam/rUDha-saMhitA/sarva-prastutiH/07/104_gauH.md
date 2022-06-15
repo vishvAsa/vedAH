@@ -2,32 +2,24 @@
 title = "१०४ गौः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/104_gauH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/_index.md">
+<details open><summary><h2>104 (109). Concerning Atharvan's cow. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गौः।  
-१ ब्रह्म। आत्मा। त्रिष्टुप्।  
-
+१ ब्रह्म। आत्मा। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/104_gauH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ātmadāivatam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (66. 17) in a savayajña, having as sava a cultivated field {urvarākhye savayajñe, comm.).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 </details>
 </details>

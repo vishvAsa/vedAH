@@ -2,32 +2,24 @@
 title = "०७२ परमात्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/072_paramAtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/_index.md">
+<details open><summary><h2>72. For the favor of the gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 परमात्मा।  
-१ भृग्वङ्गिराः ब्रह्मा। परमात्मा देवाश्च। त्रिष्टुप्।  
-
+१ भृग्वङ्गिराः ब्रह्मा। परमात्मा देवाश्च। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/072_paramAtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛvan̄giras Brahman.—ekarcam. paramātmadāivatam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Follows in Pāipp. directly after hymn 68. It is given in full* in the Kāuś. text (139. 26), at the end of the ceremony of commencement of Vedic study; ⌊and the pratīka is cited at 139. 25;⌋ and the scholiasts add its use at the end of the parvan ceremonies (Keś. to section 6; p. 310, l. 5), and of the piṇḍapitṛyajña (Keś. to 89. 17; p. 371, l. 12), and to the snānavrata (note to 42. 18). *⌊As to the citation in sakalapāṭha, cf. p. 897, ¶3.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 320.
 </details>
 <details><summary>Griffith</summary>

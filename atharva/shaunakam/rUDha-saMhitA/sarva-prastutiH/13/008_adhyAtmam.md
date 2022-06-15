@@ -2,25 +2,17 @@
 title = "००८ अध्यात्मम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/13/008_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/_index.md">
+<details open><summary><h2>००८ अध्यात्मम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
-४६ आसुरी गायत्री, ४७ यवमध्या गायत्री, ४८ साम्नी उष्णिक्, ४९ निचृत्साम्नी बृहती, ५० प्राजापत्याऽनुष्टुप्, ५१ विराड् गायत्री।  
-
+४६ आसुरी गायत्री, ४७ यवमध्या गायत्री, ४८ साम्नी उष्णिक्, ४९ निचृत्साम्नी बृहती, ५० प्राजापत्याऽनुष्टुप्, ५१ विराड् गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/13/008_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Paryāya V.—ṣaṭ. 46. āsurī gāyatrī; 47. yavamadhyā gāyatrī; 48. sāmny uṣḥih; 49. nicṛt sāmnī bṛhatī; 50. prājāpatyā ’nuṣṭubh; 51. virāḍ gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ भूयानिन्द्रो नमुराद्

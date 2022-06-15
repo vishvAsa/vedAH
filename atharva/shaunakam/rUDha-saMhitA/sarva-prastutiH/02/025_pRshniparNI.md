@@ -2,32 +2,24 @@
 title = "०२५ पृश्निपर्णी"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/025_pRshniparNI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/_index.md">
+<details open><summary><h2>25. Against káṇvas: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पृश्निपर्णी।  
-१-५ चातनः। पृश्निपर्णी वनस्पतिः। अनुष्टुप्, ४ भुरिक्।  
-
+१-५ चातनः। पृश्निपर्णी वनस्पतिः। अनुष्टुप्, ४ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/025_pRshniparNI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—vānaspatyam. ānuṣṭubham: 4. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. Both Weber and Grill regard the hymn as directed against abortion; but no sufficient indications of such value are found in its language, though some of the native authorities intimate their discovery of such. Kāuś. (8. 25) reckons it to the cātana hymns; and it is employed, with ii. 7 and other hymns, in a remedial ceremony (26. 33-36) against various evils, specially accompanying the smearing of the designated plant with sacrificial dregs (sampāta) upon the patient.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 187; Grill, 20, 92; Griffith, i. 64; Bloomfield, 36, 302.
 </details>
 <details><summary>Griffith</summary>

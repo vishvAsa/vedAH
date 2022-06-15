@@ -2,32 +2,24 @@
 title = "०२० पिशाचक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/020_pishAchaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/_index.md">
+<details open><summary><h2>20. To discover sorcerers: with an herb. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पिशाचक्षयणम्।  
-१-९ मातृनामा। मातृनामा। अनुष्टुप्, १ स्वराट्, ९ भुरिक्।  
-
+१-९ मातृनामा। मातृनामा। अनुष्टुप्, १ स्वराट्, ९ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/020_pishAchaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mātṛnāman.—navarcam. mātṛnāmadāivatam. ānuṣṭubham: 1. svarāj; 9. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. viii. (in the verse-order 1-4, 7, 6, 8, 9, 5). Reckoned by Kāuś. (8. 25) to the cātanāni; and by the schol. (8. 24, note) added to the mātṛnāmāni: with good reason, if we may trust the Anukr. (which adds to what is given above: anena mātṛnāmāu ’ṣadhim evā ’stāut); but the comm. says nothing about it. The hymn is used by itself (28. 7) to accompany the binding on of an amulet of sadampuṣpā 'ever-flowering' (or, as the comm. and schol. say, trisandhyā) in a healing ceremony (the comm. says, against brahmagraha and the like).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 525; Grill, 2, 133; Griffith, i. 159; Bloomfield, 68, 398; Weber, xviii. 84.—See also Hillebrandt, Veda-chrestomathie, p. 48.
 </details>
 <details><summary>Griffith</summary>

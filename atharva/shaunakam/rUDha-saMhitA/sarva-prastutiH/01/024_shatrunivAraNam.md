@@ -2,32 +2,24 @@
 title = "०२४ शत्रुनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/024_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/_index.md">
+<details open><summary><h2>24. Against leprosy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
-१-४ ब्रह्मा। आसुरी वनस्पतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।  
-
+१-४ ब्रह्मा। आसुरी वनस्पतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/024_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āsurīvanaspatidevatyam. ānuṣṭubham: 2. niśrtpathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i., but not in connection with the preceding hymn. For the use of 23 and 24 together by Kāuś., see under hymn 23.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 417; Ludwig, p. 509; Grill, 19, 77; Griffith, i. 28; Bloomfield, 16, 268.
 </details>
 <details><summary>Griffith</summary>

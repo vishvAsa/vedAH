@@ -2,32 +2,24 @@
 title = "०६७ दीर्घायुत्वम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/067_dIrghAyutvam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/_index.md">
+<details open><summary><h2>67. For long life and prosperity. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुत्वम्।  
-१-८ ब्रह्मा। सूर्यः। प्राजापत्या गायत्री।  
-
+१-८ ब्रह्मा। सूर्यः। प्राजापत्या गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/067_dIrghAyutvam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭāu. sāuryam. prājāpatyā gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. According to the comm., it is used in the same manner as the two preceding hymns. ⌊Cf. khila to RV. i. 50.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 319.
 </details>
 <details><summary>Griffith</summary>

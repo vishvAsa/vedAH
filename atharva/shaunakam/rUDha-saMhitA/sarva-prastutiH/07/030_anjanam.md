@@ -2,32 +2,24 @@
 title = "०३० अञ्जनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/030_anjanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/_index.md">
+<details open><summary><h2>30 (31). For successful anointing. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अञ्जनम्।  
-१ भृग्वङ्गिराः। द्यावापृथिवी, मित्रः, ब्रह्मणस्पतिः, सविता च । बृहती।  
-
+१ भृग्वङ्गिराः। द्यावापृथिवी, मित्रः, ब्रह्मणस्पतिः, सविता च । बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/030_anjanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̈giras.—dyāvāpṛthivīyam uta pratipādoktadevatākam. bārkatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (54. 6) in the godāna ceremony, to accompany the anointing of the youth's eyes. Vāit. (10. 5) makes it accompany, in the paśubandha, the anointing of the sacrificial post.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 12, 65; Griffith, i. 342.
 </details>
 <details><summary>Griffith</summary>

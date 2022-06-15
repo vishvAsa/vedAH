@@ -2,31 +2,23 @@
 title = "०३४ ब्रह्मौदनम्"
 
 +++
-## अधिसूक्तम्
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/_index.md">
+<details open><summary><h2>34. Extolling a certain rice-mess offering. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/034_brahmaudanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
-
-ब्रह्मौदनम्।  
-
+ब्रह्मौदनम्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/034_brahmaudanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—aṣṭarcam. brahmāsyāudanam. trāiṣṭubham: 4. bhurij; 5. 3-av. 7-p. kṛti; 6. 5-p. atiśakvarī; 7. bhurikśakvarī; 8. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. vi. Used in Kāuś. (66. 6), in the sava sacrifices, with the brahmāsyāudana sava, to accompany the making of pools and channels in the rice-mess, filling them with juices (rasa), and setting on the ground, with surā and water, knob-bearing plants as specified in the text. Doubtless it is on account of this treatment that the rice-mess in question is called viṣṭārin 'out-strewn, expanded.'
 
 
-##### Translations
+#### Translations
 Translated: Muir, OST. v. 307 (vss. 2-4); Ludwig, p. 437; Griffith, i. 176; Weber, xviii. 136.
 </details>
 <details><summary>Griffith</summary>

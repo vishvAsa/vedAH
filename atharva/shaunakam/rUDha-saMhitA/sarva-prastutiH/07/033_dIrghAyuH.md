@@ -2,32 +2,24 @@
 title = "०३३ दीर्घायुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/033_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/_index.md">
+<details open><summary><h2>33 (34) For blessings: to various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
-१ ब्रह्मा। मरुतः, पूषा, बृहसपतिः, अग्निः। पथ्यापङ्क्तिः।  
-
+१ ब्रह्मा। मरुतः, पूषा, बृहसपतिः, अग्निः। पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/033_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—mantroktadevatyavi . pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found, without variant, in Pāipp. vi.; also in a number of other texts: see below. The verse has various uses in Kāuś.: next after hymn 15, in a rite for prosperity (24. 8), with offering a dish of mixed grain; in the ceremony of reception of a Vedic student, twice (57. 22, 25), in the ⌊agnikārya⌋, with sprinkling thrice repeated; and (note to 53. 4) the schol. add it in other rites, the godāna etc. In Vāit. (29. 21), the brahman-priest makes the sacrificer repeat it on being anointed, in the agnicayana ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 13, 66; Griffith, i. 342.
 </details>
 <details><summary>Griffith</summary>

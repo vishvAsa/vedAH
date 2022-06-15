@@ -2,32 +2,24 @@
 title = "१४१ गोकर्णयोर्लक्ष्यकरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/141_gokarNayorlaxyakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/_index.md">
+<details open><summary><h2>141. With marking of cattle's ears. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गोकर्णयोर्लक्ष्यकरणम्।  
-१-३ विश्वामित्रः। अश्विनौ। अनुष्टुप्।  
-
+१-३ विश्वामित्रः। अश्विनौ। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/141_gokarNayorlaxyakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Viśvāmitra.—āśvinam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuś. (23. 12-16) in a ceremony for welfare called citrākarman: after due preparation and ceremony, the ears are cut with vs. 2, and the blood is wiped off and eaten (by the creature, comm.) with vs. 3. The hymn is reckoned (note to 19. 1) to the puṣṭika mantras. The schol. also uses vs. 2 in the ceremony of letting loose a bull (note to 24. 19).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 </details>
 </details>

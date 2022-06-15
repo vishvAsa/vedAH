@@ -2,32 +2,24 @@
 title = "०७५ सपत्नक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/075_sapatnaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/_index.md">
+<details open><summary><h2>75. To eject a rival. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सपत्नक्षयणम्।  
-१-३ कबन्धः। इन्द्रः। अनुष्टुप्, ३ षट्-पदा जगती।  
-
+१-३ कबन्धः। इन्द्रः। अनुष्टुप्, ३ षट्-पदा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/075_sapatnaxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kabandha (sapatnakṣayakāmaḥ).—mantroktadevatyam; āindram. ānuṣṭubham: 3. 6-p. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (with the verse-order 1, 3, 2); and in TB. (iii. 3. 113-4) and Āp. (iii. 14. 2). ⌊TB. and Āp. agree with Pāipp. in the verse-order and several other points.⌋ Used by Kāuś. (47. 10) in a rite of sorcery; and again similarly (48. 29-31), with strewing of darbha grass.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 373; Grill, 22, 165; Griffith, i. 285; Bloomfield, 92, 495.
 </details>
 <details><summary>Griffith</summary>

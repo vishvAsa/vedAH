@@ -2,32 +2,24 @@
 title = "०८५ यक्ष्मनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/085_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/085_yaxmanAshanam/_index.md">
+<details open><summary><h2>85. For relief from yákṣma. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
-१-३ अथर्वा। वनस्पतिः। अनुष्टुप्।  
-
+१-३ अथर्वा। वनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/085_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (yakṣmanāśanakāmaḥ).—vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/085_yaxmanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (26. 33-37) in a healing rite, with vi. 109, 127 and others; in 37 with the direction mantroktam badhnāti; and reckoned (note to 26. 1) to the takmanāśana gaṇa. And the first half of vs. 2 is part of a verse given entire in 6. 17.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 291; Bloomfield, 39, 505.
 </details>
 <details><summary>Griffith</summary>

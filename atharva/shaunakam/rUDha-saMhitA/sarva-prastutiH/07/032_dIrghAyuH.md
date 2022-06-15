@@ -2,32 +2,24 @@
 title = "०३२ दीर्घायुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/032_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/_index.md">
+<details open><summary><h2>32 (33). Homage to Soma (?). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
-१ ब्रह्मा। आयुः। अनुष्टुप्।  
-
+१ ब्रह्मा। आयुः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/032_dIrghAyuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—āyuṣyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (except d) in Pāipp. xx. It is, without variant, RV. ix. 67. 29 (which also lacks d). Used by Kāuś. twice (58. 3, 11) in rites for length of life (on account of the concluding pāda), with iii. 31, iv. 13, and other passages, in the ceremony of initiation of a Vedic student. It is reckoned (54. 11, note) to the āyuṣya gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: by RV. translators; and Henry, 12, 66; Griffith, i. 342.
 </details>
 <details><summary>Griffith</summary>

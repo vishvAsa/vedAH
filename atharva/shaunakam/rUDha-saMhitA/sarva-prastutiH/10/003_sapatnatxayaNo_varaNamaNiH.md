@@ -2,32 +2,25 @@
 title = "००३ सपत्नत्क्षयणो वरणमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/10/003_sapatnatxayaNo_varaNamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/003_sapatnatxayaNo_varaNamaNiH/_index.md">
+<details open><summary><h2>3. With an amulet of varaṇá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सपत्नत्क्षयणो वरणमणिः।  
 १-२५ अथर्वा। वरणमणिः, वनस्पतिः चन्द्रमाः। अनुष्टुप्, २-३, ६ भुरिक् त्रिष्टुप्,  
-८, १३-१४ पथ्यापङ्क्तिः, ११, १६ भुरिक्, १५, १७-२५ षट्-पदा जगती।  
-
+८, १३-१४ पथ्यापङ्क्तिः, ११, १६ भुरिक्, १५, १७-२५ षट्-पदा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/10/003_sapatnatxayaNo_varaNamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—pañcaviṅśakam . mantroktavaraṇadevatyam uta vānaspatyaṁ; cāndramasam, ānuṣṭubham: 2, 3, 6. bhurik triṣṭubh; 8, 13, 14. pathyāpan̄kti; 11, 16. bhurij; 15, 17-25. 6-p. jagatī.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/003_sapatnatxayaNo_varaNamaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. (in the verse-order 1-7, 9, 8, 10-13, 15, 14, 16, 17, 19, 22, 21, 20, 18, 24; 23 and 25 are wanting). Quoted (vs. 1) in Kāuś. 19. 22, with three other hymns, in connection with the binding on of amulets for welfare. Not noticed in Vāit.
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 60 (17 vss.); Henry, 9, 53; Griffith, ii. 11; Bloomfield, 81, 605.
 </details>
 <details><summary>Griffith</summary>

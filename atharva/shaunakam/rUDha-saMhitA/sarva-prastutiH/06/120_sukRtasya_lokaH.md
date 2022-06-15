@@ -2,32 +2,24 @@
 title = "१२० सुकृतस्य लोकः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/120_sukRtasya_lokaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/_index.md">
+<details open><summary><h2>120. To reach heaven. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुकृतस्य लोकः।  
-१-३ कौशिकः। अन्तरिक्षं, पृथिवी, द्यौः, अग्निः। १ जगती, २ पङ्क्तिः, ३ त्रिष्टुप्।  
-
+१-३ कौशिकः। अन्तरिक्षं, पृथिवी, द्यौः, अग्निः। १ जगती, २ पङ्क्तिः, ३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/120_sukRtasya_lokaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāuśika.—mantroktadevatyam 1. jagatī; 2. pan̄kti; 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. ⌊Von Schroeder's Zwei Hss., p. 16, and Tübinger Kaṭha-hss., p. 76, may also be consulted for all three vss.⌋ Not used by Kāuś. otherwise than with the whole anuvāka: see under hymn 114.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 529.
 </details>
 </details>

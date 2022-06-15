@@ -2,32 +2,24 @@
 title = "०२९ अग्नाविष्णू"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/029_agnAviShNU.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/_index.md">
+<details open><summary><h2>29 (30). To Agni and Vishṇu. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अग्नाविष्णू।  
-१-२ मेधातिथिः। अग्नाविष्णू। त्रिष्टुप्।  
-
+१-२ मेधातिथिः। अग्नाविष्णू। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/029_agnAviShNU.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Medhātithi (?).—dvyṛcam. mantroktadāivatam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. (in inverse order of verses); and, as connected passage, further in TS. (i. 8. 221) and śśS. (ii. 4. 3). Used by Kāuś. (32. 3), with hymns 42, 46, 78, 112, in a remedial rite for various diseases, with binding of grass on the joints; and also (59. 19) with 17 etc.: see 17. In Vāit. (8. 1), it accompanies an offering to Agni and Vishnu at the beginning of the parvan ceremony. ⌊Whitney seems to doubt whether the Anukr. does not mean to ascribe this hymn (and 27, 28) to Bhṛgvan̄giras.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 374; Henry, 12, 65; Griffith, i. 341.
 </details>
 <details><summary>Griffith</summary>

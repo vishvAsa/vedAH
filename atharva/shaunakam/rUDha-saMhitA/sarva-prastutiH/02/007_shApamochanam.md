@@ -2,32 +2,24 @@
 title = "००७ शापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/007_shApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/_index.md">
+<details open><summary><h2>7. Against curses and cursers: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शापमोचनम्।  
-१-५ अथर्वा। भैषज्यं, आयुः, वनस्पतिः। अनुष्टुप्, १ भुरिक्, ४ विराडुपरिष्टाद् बृहती।  
-
+१-५ अथर्वा। भैषज्यं, आयुः, वनस्पतिः। अनुष्टुप्, १ भुरिक्, ४ विराडुपरिष्टाद् बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/007_shApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—bhāiṣajyāyurvanaspatidāivatyam. ānuṣṭubham: 1. bhurij; 4. virāḍupariṣṭādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used with other hymns (ii. 25; vi. 85, etc.) in a healing rite (Kāuś. 26. 33-35) for various evils, and accompanying especially (ib. 35) the binding on of an amulet. And the comm. reports the hymn as employed by Nakṣ. Kalpa (17, 19) in a mahāśānti called bhārgavī.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 148; Ludwig, p. 508; Grill, 24, 81; Griffith, i. 49; Bloomfield, 91, 285.
 </details>
 <details><summary>Griffith</summary>

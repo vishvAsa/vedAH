@@ -2,32 +2,24 @@
 title = "०१२ रोहिणी- वनस्पतिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/012_rohiNI-_vanaspatiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/_index.md">
+<details open><summary><h2>12. To heal serious wounds: with an herb. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रोहिणी- वनस्पतिः।  
-१-७ ऋभुः। रोहिणी- वनस्पतिः। अनुष्टुप्, १ त्रिपदा गायत्री, ६ त्रिपदा यवमध्या भुरिग्गायत्री, ७ बृहती।  
-
+१-७ ऋभुः। रोहिणी- वनस्पतिः। अनुष्टुप्, १ त्रिपदा गायत्री, ६ त्रिपदा यवमध्या भुरिग्गायत्री, ७ बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/012_rohiNI-_vanaspatiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Ṛbhu.—vānaspatyatn. ānuṣṭubham: 1. 3-p. gāyatrī; 6. 3-p. yavamadhyā bhuriggāyatrī; 7. bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (in the verse-order 3-5, 1, 2, 7, 6). Used by Kāuś. (28. 5) in a healing rite: Keśava and the comm. agree in saying, for the prevention of flow of blood caused by a blow from a sword or the like; boiled lākṣā—water is to be poured on the wound etc. The schol. to Kāuś. 28. 14 also regard the hymn as included among the lākṣālin̄gās prescribed to be used in that rule.
 
 
-##### Translations
+#### Translations
 Translated: Kuhn, KZ. xiii. 58, with Germanic parallels; Ludwig, p. 508; Grill, 18, 125; Griffith, i. 146; Bloomfield, 19, 384; Weber, xviii. 46.—Cf. Hillebrandt, Veda-chrestomathie, p. 48.
 </details>
 <details><summary>Griffith</summary>

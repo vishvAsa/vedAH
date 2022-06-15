@@ -2,32 +2,24 @@
 title = "१०१ वाजीकरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/101_vAjIkaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/_index.md">
+<details open><summary><h2>101. For virile power. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वाजीकरणम्।  
-१-३ अथर्वाङ्गिराः। ब्रह्मणसपतिः। अनुष्टुप्।  
-
+१-३ अथर्वाङ्गिराः। ब्रह्मणसपतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/101_vAjIkaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras (śepaḥprathanakāmaḥ).—brāhmaṇaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (40. 18) in a rite for sexual vigor, after vi. 72.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 </details>
 </details>

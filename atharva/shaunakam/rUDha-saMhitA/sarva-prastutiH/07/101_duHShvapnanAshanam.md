@@ -2,32 +2,24 @@
 title = "१०१ दुःष्वप्ननाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/101_duHShvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/_index.md">
+<details open><summary><h2>101 (106). As to food enjoyed in a dream. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
-१ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।  
-
+१ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/101_duHShvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (46. 12) in a rite against ill effect from food eaten in dreams, and reckoned (note to 46. 9) to the duḥsvapnanāśana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaigne-Henry, Manuel, p. 157, without other comment than is implied in the title.
 </details>
 </details>

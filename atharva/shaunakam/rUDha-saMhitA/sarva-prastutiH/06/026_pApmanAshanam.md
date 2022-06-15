@@ -2,32 +2,24 @@
 title = "०२६ पाप्मनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/026_pApmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/_index.md">
+<details open><summary><h2>26. Against evil. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाप्मनाशनम्।  
-१-३ ब्रह्म। पाप्मा। अनुष्टुप्।  
-
+१-३ ब्रह्म। पाप्मा। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/026_pApmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—pāpmadevatākam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used in Kāuś. (30. 17) in a healing rite against all diseases; and reckoned (note to 26. 1) to the takmanāśana gaṇa. The comm. finds it quoted also in the Nakṣ. K. (15), in a ceremony against nirṛti.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 282 or 34; Griffith, i. 259; Bloomfield, 163, 473.
 </details>
 <details><summary>Griffith</summary>

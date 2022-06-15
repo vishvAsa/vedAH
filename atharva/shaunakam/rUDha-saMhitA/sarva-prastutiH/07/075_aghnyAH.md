@@ -2,32 +2,24 @@
 title = "०७५ अघ्न्याः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/075_aghnyAH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/_index.md">
+<details open><summary><h2>75 (79). Praise and prayer to the kine. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अघ्न्याः।  
-१-२ उपरिबभ्रबः। अघ्न्याः। १ त्रिष्टुप्, २ त्र्यवसाना पञ्चपदा भुरिक् पथ्यापङ्क्तिः।  
-
+१-२ उपरिबभ्रबः। अघ्न्याः। १ त्रिष्टुप्, २ त्र्यवसाना पञ्चपदा भुरिक् पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/075_aghnyAH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Uparibabhrava.—dvyṛcam. āghnyam. trāiṣṭubham: 2. 3-av. bhurik pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Like the preceding hymn, not found in Pāipp. Not used in Kāuś. (if iv. 21. 7 is intended in 19. 14). But the comm. says here that the ritual application in the rite for prosperity of kine has already been stated, referring, probably, to his exposition under iv. 21. 7, where he spoke of two verses, although the hymn had none after 7; possibly the two verses of this hymn are what he had in mind.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 469; Henry, 30, 96; Griffith, i. 364.
 </details>
 <details><summary>Griffith</summary>

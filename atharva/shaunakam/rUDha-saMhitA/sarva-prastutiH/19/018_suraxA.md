@@ -2,32 +2,24 @@
 title = "०१८ सुरक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/018_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/_index.md">
+<details open><summary><h2>18. For protection: to various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
-१-१० अथर्वा। मन्त्रोक्ताः। १, ८ साम्नी त्रिष्टुप्, २-३ आर्च्यनुष्टुप्, ( ५ सम्राडार्च्यनुष्टुप्) ७, ९-१० (द्विपदाः)  
-
+१-१० अथर्वा। मन्त्रोक्ताः। १, ८ साम्नी त्रिष्टुप्, २-३ आर्च्यनुष्टुप्, ( ५ सम्राडार्च्यनुष्टुप्) ७, ९-१० (द्विपदाः)
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/018_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—daśaham. pratyṛcam mantroktadevatyam. dvāipadam: 1, 8. sāmnī triṣṭubh; 2-6. ārcy anuṣṭubh (5. samrāj ⌊intending svarāj?⌋); 7, 9, 10. prājāpatyā triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ See note to the preceding hymn ⌊for ritual uses⌋. The gods etc. are throughout the same as in that hymn. ⌊The two hymns are closely accordant in general and special peculiarities of structure.⌋ ⌊A similar passage is found at MS. i. 5. 4, p. 719-15, as W. notes in the Collation Book: he also says "cf. K. vii. 2." AV. v. 10 presents some analogies with our hymn, and iv. 40 still more.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 277.
 </details>
 <details><summary>Griffith</summary>

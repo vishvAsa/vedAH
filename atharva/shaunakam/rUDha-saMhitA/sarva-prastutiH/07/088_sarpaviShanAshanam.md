@@ -2,32 +2,24 @@
 title = "०८८ सर्पविषनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/088_sarpaviShanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/_index.md">
+<details open><summary><h2>88 (93). Against poison. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सर्पविषनाशनम्।  
-१ गरुत्मान्। तक्षकः। त्र्यवसाना बृहती।  
-
+१ गरुत्मान्। तक्षकः। त्र्यवसाना बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/088_sarpaviShanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—takṣakadevatyam. 3-av. bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ Found in Pāipp. xx., but so defaced as not to be comparable in detail. Used by Kāuś. (29. 6) in a healing rite against snake-poison, rubbing the bite with grass and flinging this out in the direction of the snake.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 511; Henry, 36, 106; Griffith, i. 373.
 </details>
 <details><summary>Griffith</summary>

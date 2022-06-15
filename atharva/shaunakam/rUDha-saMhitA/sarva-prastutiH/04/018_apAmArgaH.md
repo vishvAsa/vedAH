@@ -2,32 +2,24 @@
 title = "०१८ अपामार्गः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/018_apAmArgaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/_index.md">
+<details open><summary><h2>18. Against witchcraft: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अपामार्गः।  
-१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुष्टुप्, ६ बृहतीगर्भा।  
-
+१-८ शुक्रः। अपामार्गो वनस्पतिः। अनुष्टुप्, ६ बृहतीगर्भा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/018_apAmArgaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—(etc.: see under hymn 17). 6. bṛhatīgarbhā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. v. (vs. 6 before 5). Used by Kāuś. only in company with h. 17, as there explained.
 
 
-##### Translations
+#### Translations
 Translated: Grill, 25, 131; Griffith, i. 156; Bloomfield, 70, 396; Weber, xviii. 77.
 </details>
 <details><summary>Griffith</summary>

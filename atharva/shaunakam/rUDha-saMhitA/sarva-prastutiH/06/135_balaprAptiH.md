@@ -2,32 +2,24 @@
 title = "१३५ बलप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/135_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/_index.md">
+<details open><summary><h2>135. To crush an enemy. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
-१-३ शुक्रः। वज्रः। अनुष्टुप्।  
-
+१-३ शुक्रः। वज्रः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/135_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—mantroktavajradevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. v. Used by Kāuś. (47. 20) in the same rite of sorcery as the two preceding hymns, with the direction "do as stated in the text."
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 321.
 </details>
 </details>

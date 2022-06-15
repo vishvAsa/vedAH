@@ -2,28 +2,21 @@
 title = "०२३ अथर्वाणः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/023_atharvANaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/_index.md">
+<details open><summary><h2>23. Homage to parts of the Atharva-Veda. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अथर्वाणः।  
 १-३० अथर्वा। चन्द्रमाः, मन्त्रोक्ताश्च। १ आसरी गायत्री, २-७, २०, २३, २७ दैवी त्रिष्टुप्, ८, १०-१२, १४-१६ प्राजापत्या गायत्री,  
-१७, १९, २१, २४-२५, २९ दैवी पङ्क्तिः, ९, १३, १८, २२, २६, २८ दैवी जगती, (१-२९ एकावसानाः)।  
-
+१७, १९, २१, २४-२५, २९ दैवी पङ्क्तिः, ९, १३, १८, २२, २६, २८ दैवी जगती, (१-२९ एकावसानाः)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/023_atharvANaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—triṅśat mantroktadevatyam uta cāndramasam. 1. āsurī bṛhatī; 2-7, 20, 23, 27. dāivī triṣṭubh; 8, 10-12, 14-16. prājāpatyā gāyatrī; 17, 19, 21, 24, 25, 29. dāivī pan̄kti; 9, 13, 18, 22, 26, 28. dāivī jagatī; (1-29. 1-av.).]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/023_atharvANaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 All the saṁhitā-mss. read ṣaḍarc-, and two of SW's pada-mss. ṣaḍá॰ṛc-; both editions ṣaḍṛc-, with the comm. and three pada-mss. The Gop.Br. has ṣaḍarc- in i. 1. 5.
 </details>
 <details><summary>Griffith</summary>

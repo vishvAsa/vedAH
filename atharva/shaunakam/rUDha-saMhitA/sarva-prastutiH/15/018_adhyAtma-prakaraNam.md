@@ -2,31 +2,23 @@
 title = "०१८ अध्यात्म-प्रकरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/15/018_adhyAtma-prakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/_index.md">
+<details open><summary><h2>18. Paryāya the eighteenth. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्म-प्रकरणम्।  
-१-५ अथर्वा। अध्यात्मं, व्रात्यः। १ दैवी पङ्क्तिः, २-३ आर्ची बृहती, ४ आर्ची अनुष्टुप्, ५ साम्नी उष्णिक्।  
-
+१-५ अथर्वा। अध्यात्मं, व्रात्यः। १ दैवी पङ्क्तिः, २-३ आर्ची बृहती, ४ आर्ची अनुष्टुप्, ५ साम्नी उष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/15/018_adhyAtma-prakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [pañcaka. 1. dāivī pan̄kti; 2, 3. ārcī bṛhatī; 4. ārcy anuṣṭubh; 5. sāmny uṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 
 
-##### Translations
+#### Translations
 Translated: Aufrecht, Ind. Stud. i. 138; Griffith, ii. 199.
 </details>
 <details><summary>Griffith</summary>

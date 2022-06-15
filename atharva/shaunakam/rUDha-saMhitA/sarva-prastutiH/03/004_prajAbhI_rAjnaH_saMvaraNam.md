@@ -2,32 +2,24 @@
 title = "००४ प्रजाभी राज्ञः संवरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/004_prajAbhI_rAjnaH_saMvaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
+<details open><summary><h2>4. To establish a king. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 प्रजाभी राज्ञः संवरणम्।  
-१-७ अथर्वा। इन्द्रः, २ पञ्च प्रदिशः, ४ अश्विनौ, मित्रावरुणौ, विश्वे देवाः, मरुतः, ५ द्यावापृथिवी। त्रिष्टुप्, १ जगती, ४-५ भुरिक्।  
-
+१-७ अथर्वा। इन्द्रः, २ पञ्च प्रदिशः, ४ अश्विनौ, मित्रावरुणौ, विश्वे देवाः, मरुतः, ५ द्यावापृथिवी। त्रिष्टुप्, १ जगती, ४-५ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/004_prajAbhI_rAjnaH_saMvaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saptakam. āindram. trāiṣṭubham: 1. jagatī; 4, 5. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iii. Used in Kāuś. only with the next preceding hymn (as there explained), although the two are of essentially different application, this one referring to a king who has been called or chosen, and has to be inaugurated as such. In Vāit. (13. 2), in the agniṣṭoma sacrifice, vs. 7 accompanies, with vii. 28, oblations to pathyā svasti and other divinities.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 252; Zimmer, p. 164; Weber, xvii. 190; Griffith, i. 84; Bloomfield, 113, 330.—Cf. Bergaigne-Henry, Manuel, p. 141.
 </details>
 <details><summary>Griffith</summary>

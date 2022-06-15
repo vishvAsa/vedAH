@@ -2,33 +2,25 @@
 title = "०३९ वर्चस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/039_varchasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/_index.md">
+<details open><summary><h2>39. For glory. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वर्चस्यम्।  
 १-३ अथर्वा (वर्चस्कामः)। (बृहस्पतिः), २ इन्द्रः, ३ इन्द्रः, अग्निः, सोमः,।  
-१ जगती, २ त्रिष्टुप्, ३ अनुष्टुप्।  
-
+१ जगती, २ त्रिष्टुप्, ३ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/039_varchasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (varcashāmaḥ).—bṛhaspatidevatyam. 1. jagatī; 2. triṣṭubh; 3. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. always in connection with hymn 38: see under that hymn.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 240; Florenz, 299 or 51; Griffith, i. 265; Bloomfield, 117, 478.
 </details>
 <details><summary>Griffith</summary>

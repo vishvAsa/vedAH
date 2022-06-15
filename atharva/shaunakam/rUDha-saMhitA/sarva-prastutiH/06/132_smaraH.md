@@ -2,32 +2,24 @@
 title = "१३२ स्मरः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/132_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/_index.md">
+<details open><summary><h2>132. To compel a man's love. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्मरः।  
-१-५ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्, १ त्रिपदा अनुष्टुप्, २,४,५ बृहती, ३ भुरिक्।  
-
+१-५ अथर्वाङ्गिराः। स्मरः। अनुष्टुप्, १ त्रिपदा अनुष्टुप्, २,४,५ बृहती, ३ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/132_smaraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—pan̄carcam. smaradevatākam. ānuṣṭubham: 1. 3-p. anuṣṭubh; 3. bhurij; 2, 4, 5. 3-p. mahābṛhatī; 2, 4. virāj.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Like the two preceding hymns, not found in Pāipp. Used by Kāuś. only with its two predecessors (see under 130). The metrical definitions of the Anukr. are artificial and worthless.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 245; Griffith, i. 319; Bloomfield, 104, 535.
 </details>
 </details>

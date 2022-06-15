@@ -2,32 +2,24 @@
 title = "१०२ आत्मनोऽहिंसनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/102_Atmano_ahiMsanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/_index.md">
+<details open><summary><h2>102 (107). Accompanying self-relief. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मनोऽहिंसनम्।  
-१ प्रजापतिः। द्यावापृथिवी, अन्तरिक्षम्, मृत्युः। विराट् पुरस्ताद् बृहती।  
-
+१ प्रजापतिः। द्यावापृथिवी, अन्तरिक्षम्, मृत्युः। विराट् पुरस्ताद् बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/102_Atmano_ahiMsanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Prajāpati.—mantroktanānādevatyam. virāṭ purastādbṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Kāuś. (52. 15) prescribes it in a rite for welfare, "with action as given in the verse" (iti mantroktam).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 41, 115; Griffith, i. 378.
 </details>
 </details>

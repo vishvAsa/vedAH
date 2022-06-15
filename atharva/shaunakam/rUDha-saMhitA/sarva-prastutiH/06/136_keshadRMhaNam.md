@@ -2,32 +2,24 @@
 title = "१३६ केशदृंहणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/136_keshadRMhaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/_index.md">
+<details open><summary><h2>136. To fasten and increase the hair. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 केशदृंहणम्।  
-१-३ वीतहव्यः। नितत्नि वनस्पतिः। अनुष्टुप् २ एकावसाना द्विपदा साम्नी बृहती।  
-
+१-३ वीतहव्यः। नितत्नि वनस्पतिः। अनुष्टुप् २ एकावसाना द्विपदा साम्नी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/136_keshadRMhaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (keśavardhanakāmaḥ ⌊vītahavyaḥ⌋).—vānaspatyam. ānuṣṭubham: 2. 1-av. 2-p. sāmni bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (31. 28), with the following hymn, in a remedial rite for the growth of the hair.
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536.
 </details>
 </details>

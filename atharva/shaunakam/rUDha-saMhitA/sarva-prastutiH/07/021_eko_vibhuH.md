@@ -2,32 +2,24 @@
 title = "०२१ एको विभुः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/021_eko_vibhuH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/021_eko_vibhuH/_index.md">
+<details open><summary><h2>21 (22). In praise of the sun. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 एको विभुः।  
-१ ब्रह्म। आत्मा। शक्वरी विराड्-गर्भा जगती।  
-
+१ ब्रह्म। आत्मा। शक्वरी विराड्-गर्भा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/021_eko_vibhuH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—mantroktātmadevatyam. śakvarīvirāḍgarbhā jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/021_eko_vibhuH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx., and in SV. (i. 372). According to Kāuś. (86. 16), the verse is used in the pitṛnidhāna division of the funeral ceremony accompanying the application of the dhruvanas {sic); ⌊see xviii. 3. 10, 17.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 9, 61; Griffith, i. 338.
 </details>
 <details><summary>Griffith</summary>

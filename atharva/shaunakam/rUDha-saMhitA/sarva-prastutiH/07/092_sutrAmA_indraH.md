@@ -2,32 +2,24 @@
 title = "०९२ सुत्रामा इन्द्रः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/092_sutrAmA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/_index.md">
+<details open><summary><h2>92 (97). To Indra: for aid. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुत्रामा इन्द्रः।  
-१ अथर्वा। चन्द्रमाः (इन्द्रः)। त्रिष्टुप्।  
-
+१ अथर्वा। चन्द्रमाः (इन्द्रः)। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/092_sutrAmA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (etc. as hymn 91).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Reckoned to the svastyayana gaṇa (note to Kāuś. 25. 36), and by the comm. joined with 91: see under 91.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
 </details>

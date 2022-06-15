@@ -2,35 +2,27 @@
 title = "००४ शत्रुदमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/08/004_shatrudamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/004_shatrudamanam/_index.md">
+<details open><summary><h2>4. Against sorcerers and demons: to Indra and Soma. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुदमनम्।  
-१-२५ चातनः। इन्द्रसोमौ। जगती, ८-१४, १६-१७, १९, २२, २४ त्रिष्टुप्, २०,२३ भुरिक्, २५ अनुष्टुप्।  
-
+१-२५ चातनः। इन्द्रसोमौ। जगती, ८-१४, १६-१७, १९, २२, २४ त्रिष्टुप्, २०,२३ भुरिक्, २५ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/08/004_shatrudamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—pañcaviṅśakam. mantroktadevatyam. jāgatam: 8-14, 16, 17, 19, 22, 24. triṣṭubh; 20, 23. bhurij; 25. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/004_shatrudamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. (with exchange of order between 4 and 5, and between 19 and 20). It is, with no change of order of verses, and with only few and insignificant variants, RV. vii. 104; not a verse occurs further in any other text, so far as known.
 
 
 ⌊No ritual use of the hymn is prescribed either by Kāuś. or by Vāit. But the comm. regards this hymn as used with the preceding one in a variety of practices: see h. 3.⌋
 
 
-##### Translations
+#### Translations
 Translated: by the RV. translators; and as AV. hymn by Henry, 10, 47; Griffith, i. 396.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०२७ पापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/027_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/_index.md">
+<details open><summary><h2>27. Praise and prayer to the Maruts. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
-१-७ मृगारः। मरुतः। त्रिषटुप्।  
-
+१-७ मृगारः। मरुतः। त्रिषटुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/027_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mṛgāra.—(see h. 23).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found, with very slight variations, in Pāipp. iv.; and its first and last verses are represented in TS., MS., and K. (see under h. 23); they follow a similar passage to the Aśvins, which follows our h. 25. The use by Kāuś. is the same with that of the other mṛgāra hymns (see under h. 23). The first pāda of vs. 4 nearly agrees with the second pāda of a verse (the last) given in Kāuś. 3. 3; and vs. 4 is directed by Vāit. (12. 12) to be used in the agniṣṭoma when one is rained on; further, vs. 7 (9. 2), in the cāturmāsya sacrifice, with an evening libation to the Maruts. And the comm. quotes the hymn as used by Nakṣ. K. (18) in a śānti-rite named mārudgaṇī.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 168; Weber, xviii. 109.
 </details>
 <details><summary>Griffith</summary>

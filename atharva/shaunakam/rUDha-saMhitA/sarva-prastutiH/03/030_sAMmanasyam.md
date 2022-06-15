@@ -2,28 +2,20 @@
 title = "०३० सांमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/030_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/_index.md">
+<details open><summary><h2>30. For concord. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
-१-७ अथर्वा। चन्द्रमाः, सांमनस्यम्। अनुष्टुप्, ५ विराड् जगती, ६ प्रस्तारपङ्क्तिः, ७ त्रिष्टुप्।  
-
+१-७ अथर्वा। चन्द्रमाः, सांमनस्यम्। अनुष्टुप्, ५ विराड् जगती, ६ प्रस्तारपङ्क्तिः, ७ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/030_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—saptarcam. cāndramasam, sāmmanasyam. ānuṣṭubham: 5. virāḍjagatī; 6. prastārapan̄kti; 7. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. v. Reckoned in Kāuś. (12. 5), with various other passages, to the sāmmanasyāni, and used in a rite for concord; and the comm. regards it as included under the designation gaṇakarmāṇi in the upākarman (139. 7).
 </details>
 <details><summary>Griffith</summary>

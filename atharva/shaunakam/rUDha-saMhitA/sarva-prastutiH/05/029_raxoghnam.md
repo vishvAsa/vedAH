@@ -2,32 +2,24 @@
 title = "०२९ रक्षोघ्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/029_raxoghnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/_index.md">
+<details open><summary><h2>29. To Agni: against demons. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रक्षोघ्नम्।  
-१-१५ चातनः। जातवेदाः, मन्त्रोक्ताः। त्रिष्टुप्, ३ त्रिपदा विराण्नाम गायत्री, ५ पुरोऽतिजगती विराड्-जगती,१२-१५ अनुष्टुप् ( १२ भुरिक्, १४ चतुष्पदा पराबृहती ककुम्मती।  
-
+१-१५ चातनः। जातवेदाः, मन्त्रोक्ताः। त्रिष्टुप्, ३ त्रिपदा विराण्नाम गायत्री, ५ पुरोऽतिजगती विराड्-जगती,१२-१५ अनुष्टुप् ( १२ भुरिक्, १४ चतुष्पदा पराबृहती ककुम्मती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/029_raxoghnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Cātana.—pañcadaśarcam. jātavedasam uta mantroktadevatākam. trāiṣṭubham: 3. 3-p. virāṇnāma gāyatrī; 5. purotijagatī virāḍjagatī; 12-15. anuṣṭubh (12. bhurij; 14. 4-p. parābṛhatī kakummatī).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (except vss. 10, 11) in Pāipp. xiii. No notice is taken in Vāit. of any part of the hymn; but in Kāuś. 8. 25 it is reckoned among the cātana hymns, or as belonging in the cātana gaṇa, and two or three of its verses (2-4) are separately quoted, as will be pointed out below.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 526; Griffith, i. 236; Weber, xviii. 277.
 </details>
 <details><summary>Griffith</summary>

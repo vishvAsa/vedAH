@@ -2,32 +2,24 @@
 title = "०५० अभययाचना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/050_abhayayAchanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/_index.md">
+<details open><summary><h2>50. Against petty destroyers of grain. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभययाचना।  
-१-३ अथर्वा (अभयकामः)। अश्विनौ। १ विराड्जगती, २-३ पथ्यापङ्क्तिः।  
-
+१-३ अथर्वा (अभयकामः)। अश्विनौ। १ विराड्जगती, २-३ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/050_abhayayAchanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (abhayakāmaḥ).—āśvinam. 1. virāḍ jagatī; 2, 3. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only the second verse is found in Pāipp., in book xix.; and no occurrence of any part of the hymn has been noted elsewhere. Its intent is obvious. In Kāuś. (51. 17) the hymn is applied in a rite for ridding the fields of danger from mice and other pests; one goes about the field scratching lead with iron (? the comm. reads ayaḥsīsaṁ gharṣan); and it is reckoned (note to 16. 8) to the abhaya gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 499; Florenz, 312 or 64; Griffith, i. 272; Bloomfield, 142, 485.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०६१ तपः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/061_tapaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/_index.md">
+<details open><summary><h2>61 (63). For success of penance. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 तपः।  
-१-२ अथर्वा। अग्निः। अनुष्टुप्।  
-
+१-२ अथर्वा। अग्निः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/061_tapaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—dvyṛcam. āgneyam. ānuṣṭuhham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 In Pāipp. (xx.) is found only the second half* of vs. 1. The hymn is, according to Kāuś. (10. 22), to be pronounced at āgrahāyaṇa full-moon, in a medhājanana rite (for acquisition of sacred knowledge); also (57. 23), in the ceremony of reception of a Vedic student, in the ⌊agnikārya⌋, next after hymn 33 (both verses are quoted, each by its pratīka); and the schol. (note to 53. 4) introduce both verses in the godāna ceremony. *⌊But R's notes give a variant for 1 b, as below!⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 24, 87; Griffith, i. 357.
 </details>
 <details><summary>Griffith</summary>

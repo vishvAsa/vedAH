@@ -2,29 +2,21 @@
 title = "००३ ओदनः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/11/003_odanaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/003_odanaH/_index.md">
+<details open><summary><h2>3. Extolling the rice-dish (odaná). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ओदनः।  
 (१)  
-१-३१ अथर्वा। ओदनः (बार्हस्पत्यौदनः।) ( त्रयः पर्याया)। १, १४ आसुरी गायत्री, २ त्रिपदा समविषमा गायत्री, ३, ६, १० आसुरी पङ्क्तिः, ४, ८ साम्न्यनुष्टुप्, ५, १३, १५, २५ साम्न्युष्णिक्, ७, १९-२२ प्राजापत्याऽनुष्टुप्, ९, १७-१८ आसुर्यनुष्टुप्, ११ भुरिगार्च्नुष्टुप्, १२ याजुषी जगती, १६ २३ आसुरी बृहती, २४ त्रिपदा प्राजापत्या बृहती, २६ आर्च्युष्णिक्, २७-२९ साम्नी बृहती, (२८-२९ भुरिक्), ३० याजुषी त्रिष्टुप्, ३१ अल्पशः पङ्क्तिरुत याजुषी।  
-
+१-३१ अथर्वा। ओदनः (बार्हस्पत्यौदनः।) ( त्रयः पर्याया)। १, १४ आसुरी गायत्री, २ त्रिपदा समविषमा गायत्री, ३, ६, १० आसुरी पङ्क्तिः, ४, ८ साम्न्यनुष्टुप्, ५, १३, १५, २५ साम्न्युष्णिक्, ७, १९-२२ प्राजापत्याऽनुष्टुप्, ९, १७-१८ आसुर्यनुष्टुप्, ११ भुरिगार्च्नुष्टुप्, १२ याजुषी जगती, १६ २३ आसुरी बृहती, २४ त्रिपदा प्राजापत्या बृहती, २६ आर्च्युष्णिक्, २७-२९ साम्नी बृहती, (२८-२९ भुरिक्), ३० याजुषी त्रिष्टुप्, ३१ अल्पशः पङ्क्तिरुत याजुषी।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/11/003_odanaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—trayaḥ paryāyāḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/003_odanaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose, except vss. 19-22.⌋ A corresponding passage is found in Pāipp. xvi., but so different in detail that it would require to be given in full for comparison; and this has not been done.
 
 
@@ -40,7 +32,7 @@ SPP., without any good reason,* counts the three paryāyas or divisions of this 
 
 
 
-##### Translations
+#### Translations
 Translated: Henry, 106, 145; Griffith, ii. 61.—Cf. especially Henry's introduction, p. 145. The rice-dish, hot and yellow and nourishing, is a symbol of the sun (cf. vs. 50); its ingredients and the utensils used in making it are identified with all sorts of things in the most grotesque manner of the Brāhmaṇas.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०१७ सुरक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/017_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/_index.md">
+<details open><summary><h2>17. For protection: to various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
-१-१० अथर्वा। मन्त्रोक्ताः। जगती, ५, ७, १० अतिजगती, ६ भुरिक्, ९ पञ्चपदाऽतिशक्वरी।  
-
+१-१० अथर्वा। मन्त्रोक्ताः। जगती, ५, ७, १० अतिजगती, ६ भुरिक्, ९ पञ्चपदाऽतिशक्वरी।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/017_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—daśakam. pratyṛcam mantroktadevatyam. jāgatam: 5, 7, 10. atijagatī; 6. bhurij; 9. 5-p. atiśakvarī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ This hymn and the next are used, the comm. points out, in the same ceremony as 16, with other hymns, as detailed in Pariśiṣṭa 4. 4; both are also prescribed in Par. 19. 1 (see note to Kāuś. 140. 9), in a ceremony against danger from the various quarters. ⌊See introd. to next hymn.⌋ ⌊Note that the vss. of this hymn group themselves in 5 dyads (comm., paryāya-dvayas), one for each cardinal point and a fifth for the 'fixed and upward points'; and that those of h. 18 do likewise and are so grouped by the comm. also.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 276.
 </details>
 <details><summary>Griffith</summary>

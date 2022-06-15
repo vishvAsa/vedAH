@@ -2,28 +2,20 @@
 title = "००१ दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/08/001_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>1. For some one's continued life. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१-२१ ब्रह्मा। आयुः। त्रिष्टुप्, १ पुरोबृहती त्रिष्टुप्, २-३, १७-२१ अनुष्टुप्, ४,९,१५-१६ प्रस्तारपङ्क्तिः, ७ त्रिपदा विराड् गायत्री, ८ विराट् पथ्याबृहती, १२ त्र्यवसाना पञ्चपदा जगती, १३ त्रिपदा भुरिङ्महाबृहती, १४ एकावसाना द्विपदा साम्नी भुरिग्बृहती।  
-
+१-२१ ब्रह्मा। आयुः। त्रिष्टुप्, १ पुरोबृहती त्रिष्टुप्, २-३, १७-२१ अनुष्टुप्, ४,९,१५-१६ प्रस्तारपङ्क्तिः, ७ त्रिपदा विराड् गायत्री, ८ विराट् पथ्याबृहती, १२ त्र्यवसाना पञ्चपदा जगती, १३ त्रिपदा भुरिङ्महाबृहती, १४ एकावसाना द्विपदा साम्नी भुरिग्बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/08/001_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekaviṅśakam. ārṣy (ārtvy?) āyuṣyam. trāiṣṭubham: 1. purobṛhatī triṣṭubh; 2, 3, 17-21. anuṣubh; 4, 9, 15, 16. prastārapan̄kti; 7. 3-p. virāḍ gāyatrī; 8. virāt pathyābrhatī; 12. 3-av. 5-p. jagatī; 13. 3-p. bhurin̄ mahābṛhatī; 14. 1-av. 2-p. sāmnī bhurig bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/001_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Ppp. puts our second pāda last.
 </details>
 <details><summary>Griffith</summary>

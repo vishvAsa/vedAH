@@ -2,32 +2,24 @@
 title = "००२ आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/002_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/002_AtmA/_index.md">
+<details open><summary><h2>2. Of Atharvan. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
-१ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्,  
-
+१ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्,
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/002_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/002_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (59. 18: the comm. says, hymns 2-5) in a kāmya rite, like the preceding hymn, with vi. 33, and vii. 6, 7, 16; and, according to the schol. (note to 30. 11), with hymn 3, in a healing ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 1, 48; Griffith, i. 328.
 </details>
 <details><summary>Griffith</summary>

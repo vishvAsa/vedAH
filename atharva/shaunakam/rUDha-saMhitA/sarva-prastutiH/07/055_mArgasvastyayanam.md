@@ -2,32 +2,24 @@
 title = "०५५ मार्गस्वस्त्ययनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/055_mArgasvastyayanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/055_mArgasvastyayanam/_index.md">
+<details open><summary><h2>55 (57. 2). To Indra (?). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मार्गस्वस्त्ययनम्।  
-१ भृगुः। इन्द्रः। विराट् परोष्णिक्।  
-
+१ भृगुः। इन्द्रः। विराट् परोष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/055_mArgasvastyayanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—āindram . virāṭ paroṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/055_mArgasvastyayanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 For the true position of this verse, see the introduction to the preceding hymn. It is not found in Pāipp. This verse (separate from its predecessor) is used in Kāuś. (50. 1-3) for welfare on setting out upon a road, etc. (so at least the comm. determines: he pratīka is doubtful, being identical with that of xii. i. 47).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 21, 82; Griffith, i. 353.
 </details>
 <details><summary>Griffith</summary>

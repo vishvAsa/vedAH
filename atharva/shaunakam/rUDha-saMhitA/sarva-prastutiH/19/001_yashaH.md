@@ -2,32 +2,24 @@
 title = "००१ यशः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/001_yashaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/001_yashaH/_index.md">
+<details open><summary><h2>1. With an oblation for confluence. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यशः।  
-१-३ ब्रह्मा। यज्ञः, चन्द्रमाश्च। १-२ पथ्याबृहती, ३ पङ्क्तिः।  
-
+१-३ ब्रह्मा। यज्ञः, चन्द्रमाश्च। १-२ पथ्याबृहती, ३ पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/001_yashaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—⌊tṛcam.⌋ yājñikam; cāndramasam. ānuṣṭubham: 1, 2. pathyābṛhatyāu; 3. pan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/001_yashaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is found also in Pāipp. xix. (the order of vss. 2 and 3 being inverted). It resembles i. 15, and, as it has the same pratīka of the first verse, the comm. maintains that it may be used along with or instead of that hymn where the latter is quoted (Kāuś. 19. 4, and Nakṣ. K. 20). ⌊C.f. also note to Kāuś. 19. 1.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 259.
 </details>
 <details><summary>Griffith</summary>

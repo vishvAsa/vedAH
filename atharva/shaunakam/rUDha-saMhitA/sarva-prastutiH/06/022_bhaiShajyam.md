@@ -2,32 +2,24 @@
 title = "०२२ भैषज्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/022_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/_index.md">
+<details open><summary><h2>22. To the Maruts. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
-१-३ शन्तातिः। १ आदित्यरश्मिः, २-३ मरुतः। त्रिष्टुप्, २ चतुष्पदा भुरिग्जगती।  
-
+१-३ शन्तातिः। १ आदित्यरश्मिः, २-३ मरुतः। त्रिष्टुप्, २ चतुष्पदा भुरिग्जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/022_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—ādityaraśmidevatya[m]. mārutam. trāiṣṭubham: 2. 4-p. bhurigjagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (30. 11) in a remedial rite against protuberant belly etc. Keś. and the comm. read further in the rule the pratīka sasruṣīs of hymn 23, and detail a second lengthy process in the same rite as performed with the two. Hymns 22-24 are also explained as among the apāṁ sūktāni (7. 14 and note). In Vāit. (9. 5) this hymn appears in the cāturmāsya sacrifice as addressed to the playing (krīḍin) Maruts.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 463 ⌊vss. 1-2⌋; Florenz, 276 or 28; Griffith, i. 256.
 </details>
 <details><summary>Griffith</summary>

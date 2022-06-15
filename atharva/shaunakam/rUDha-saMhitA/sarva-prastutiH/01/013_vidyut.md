@@ -2,32 +2,24 @@
 title = "०१३ विद्युत्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/013_vidyut.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/_index.md">
+<details open><summary><h2>13. Deterrent homage to lightning. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विद्युत्।  
-१-४ भृग्वङ्गिराः। विद्युत्। अनुष्टुप्, ३ चतुष्पाद्विराड् जगती, ४ त्रिष्टुप्परा बृहतीगर्भा पङ्क्तिः।  
-
+१-४ भृग्वङ्गिराः। विद्युत्। अनुष्टुप्, ३ चतुष्पाद्विराड् जगती, ४ त्रिष्टुप्परा बृहतीगर्भा पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/013_vidyut.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—vāidyutam. ānuṣṭubham: 3. 4-p. virāḍ jagatī; 4. triṣṭupparā bṛhatīgarbhā pan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn occurs in Pāipp. xix., and vs. 1 also in xv. It is used by Kāuś. (38. 8, 9) in a charm against lightning, with vii. 11; and it also appears (139. 8), with i. 26 and vii. 11 and several other hymns, in the ceremony of introduction to Vedic study.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 406; Griffith, i. 16.
 </details>
 <details><summary>Griffith</summary>

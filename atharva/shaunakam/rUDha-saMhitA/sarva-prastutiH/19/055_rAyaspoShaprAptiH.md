@@ -2,31 +2,24 @@
 title = "०५५ रायस्पोषप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/055_rAyaspoShaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/_index.md">
+<details open><summary><h2>55. To Agni. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रायस्पोषप्राप्तिः।  
-१-६ भृगुः। अग्निः। त्रिष्टुप्, २ आस्तारपङ्क्तिः, ५ त्र्यवसाना पञ्चपदा पुरस्ताज्ज्योतिष्मती।  
-
+१-६ भृगुः। अग्निः। त्रिष्टुप्, २ आस्तारपङ्क्तिः, ५ त्र्यवसाना पञ्चपदा पुरस्ताज्ज्योतिष्मती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/055_rAyaspoShaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—ṣaḍṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 5 ⌊i.e. 5 and 6 a, b of the Berlin ed.⌋. 3-av. 5-p. purastājjyotiṣmatī.] ⌊of 6 (= 6 c, d, 7 a, b of Berlin ed.), the definition is lacking: see my note to vs. 6.⌋
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only the first verse is found in Pāipp. (in xx.). The comm. points out that the hymn is plainly meant to be used in the early morning worship of Agni, but quotes no authority. ⌊As to a seventh verse, see SPP's Critical Notice, vol. i., p. 24, and see under vss. 5 and 7.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 363; Griffith, ii. 312.
 </details>
 <details><summary>Griffith</summary>

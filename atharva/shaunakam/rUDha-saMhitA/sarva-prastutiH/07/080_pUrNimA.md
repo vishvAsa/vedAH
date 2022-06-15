@@ -2,32 +2,24 @@
 title = "०८० पूर्णिमा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/080_pUrNimA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/_index.md">
+<details open><summary><h2>80 (85). To the night or goddess of full moon (pāurṇamāsī́). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पूर्णिमा।  
-१-४ अथर्वा।पौर्णमासी, ३ प्रजापतिः। त्रिष्टुप्, २ अनुष्टुप्।  
-
+१-४ अथर्वा।पौर्णमासी, ३ प्रजापतिः। त्रिष्टुप्, २ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/080_pUrNimA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. pāurṇamāsam: 3. prājāpatyā. trāiṣṭubham: 2. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first and fourth verses are found also in Pāipp. i. The hymn is used in the same manner as the preceding one (Kāuś. 5. 5; Vāit. 1. 16), but on full-moon day; it also appears (Kāuś. 59. 19) with hymn 17 etc. For the separate use of vs. 3, see under that verse.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 32, 101; Griffith, i. 367. See also Zimmer, p. 365 (vss. 1-2).
 </details>
 <details><summary>Griffith</summary>

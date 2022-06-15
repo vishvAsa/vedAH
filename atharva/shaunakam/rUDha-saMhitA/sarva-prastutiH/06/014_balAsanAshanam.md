@@ -2,32 +2,24 @@
 title = "०१४ बलासनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/014_balAsanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/014_balAsanAshanam/_index.md">
+<details open><summary><h2>14. Against the balā́sa. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 बलासनाशनम्।  
-१-३ बभ्रुपिङ्गलः। बलासः। अनुष्टुप्।  
-
+१-३ बभ्रुपिङ्गलः। बलासः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/014_balAsanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Babhrupin̄gala (?).—balāsadevatyatn. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/014_balAsanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Occurs also in Pāipp. xix. Used by Kāuś. (29. 30) in a remedial rite against catarrh (śleṣman), with variously administering prepared water to the patient.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 265 or 17; Griffith, i. 252; Bloomfield, 8, 463; vs. 1 also by Grohmann, Ind. Stud. ix. 397, with an excursus on the balā́sa.
 </details>
 <details><summary>Griffith</summary>

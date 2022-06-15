@@ -2,32 +2,24 @@
 title = "०४१ राष्ट्रं बलमोजश्च"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/041_rAShTraM_balamojashcha.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/_index.md">
+<details open><summary><h2>41. For some one's welfare. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राष्ट्रं बलमोजश्च।  
-१ ब्रह्मा। तपः। त्रिष्टुप्।  
-
+१ ब्रह्मा। तपः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/041_rAShTraM_balamojashcha.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. mantroktatapodevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. No viniyoga.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 298.
 </details>
 <details><summary>Griffith</summary>

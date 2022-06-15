@@ -2,32 +2,24 @@
 title = "००५ आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/005_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/_index.md">
+<details open><summary><h2>5. Mystic: on the offering or sacrifice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
-१-५ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, ३ पङ्क्तिः ४ अनष्टुप्।  
-
+१-५ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, ३ पङ्क्तिः ४ अनष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/005_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—pañcarcam. ātmadevatākam: trāiṣṭubham: 3. pan̄kti; 4. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (the first two verses only) also in Pāipp. xx., and (the same verses) also in other texts, as noted below. Kāuś. takes no notice of the hymn; but it is prescribed by Vāit. (13. 13), in the agniṣṭoma ceremony, in connection with the entertainment (ātithyā) of Soma.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 2, 49; Griffith, i. 329.
 </details>
 <details><summary>Griffith</summary>

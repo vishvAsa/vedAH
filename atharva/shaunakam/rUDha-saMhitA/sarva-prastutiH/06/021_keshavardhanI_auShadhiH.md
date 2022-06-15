@@ -2,32 +2,24 @@
 title = "०२१ केशवर्धनी औषधिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/021_keshavardhanI_auShadhiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/021_keshavardhanI_auShadhiH/_index.md">
+<details open><summary><h2>21. To healing plants. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 केशवर्धनी औषधिः।  
-१-३ शन्तातिः। चन्द्रमाः। अनुष्टुप्।  
-
+१-३ शन्तातिः। चन्द्रमाः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/021_keshavardhanI_auShadhiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—cāndramasam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/021_keshavardhanI_auShadhiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. 1. Used by Kāuś. (30. 8) in a remedial rite for growth of hair.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 275 or 27; Grill, 50, 160; Griffith, i. 256; Bloomfield, 30, 470.—See also Bergaigne-Henry, Manuel, p. 150.
 </details>
 <details><summary>Griffith</summary>

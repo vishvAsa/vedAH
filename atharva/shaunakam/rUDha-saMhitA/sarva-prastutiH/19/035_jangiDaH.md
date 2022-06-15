@@ -2,32 +2,24 @@
 title = "०३५ जङ्गिडः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/035_jangiDaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/_index.md">
+<details open><summary><h2>35. The same. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जङ्गिडः।  
-१-५ अङ्गिराः। वनस्पतिः। अनुष्टुप्, ३ पथ्याबृहतीः, ४ शक्वरी निचृत् त्रिष्टुप्।  
-
+१-५ अङ्गिराः। वनस्पतिः। अनुष्टुप्, ३ पथ्याबृहतीः, ४ शक्वरी निचृत् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/035_jangiDaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 34.—pañcakam. 3. pathyāpan̄kti; 4. nicṛt triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn is found with the preceding in Pāipp. (in xi.), and it has the same viniyoga.
 
 
-##### Translations
+#### Translations
 Translated: Grohmann, Ind. Stud. ix. 419; Zimmer, p. 65; Bloomfield, 39, 674; Griffith, ii. 293.
 </details>
 <details><summary>Griffith</summary>

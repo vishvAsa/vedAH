@@ -2,32 +2,24 @@
 title = "०१६ अभयम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/016_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/_index.md">
+<details open><summary><h2>16. For safety and protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
-१-२ अथर्वा। मन्त्रोक्ताः। १ अनुष्टुप्, २ त्र्यवसाना सप्तपदा बृहतीगर्भाऽतिशक्वरी।  
-
+१-२ अथर्वा। मन्त्रोक्ताः। १ अनुष्टुप्, २ त्र्यवसाना सप्तपदा बृहतीगर्भाऽतिशक्वरी।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/016_abhayam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—tṛcam.* mantroktabahudevatyam. 1. anuṣṭubh; 2.3-av. 7-p. bṛhatīgarbhā ’tiśakvarī.⌋ *⌊So the London ms.; the Berlin ms. says in fact dvyṛcam: see under vs. 2.⌋
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This and the following hymns, to 23 inclusive, are wanting in Pāipp. The comm. has 16-19 used in the night, in a ceremony to be performed by the purohita, on the entrance of a king into his sleeping-house (according to Pariśiṣṭa iv. 5). The hymn is repeated below as 27. 14, 15.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 276.
 </details>
 <details><summary>Griffith</summary>

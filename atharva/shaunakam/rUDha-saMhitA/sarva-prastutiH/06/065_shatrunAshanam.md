@@ -2,32 +2,24 @@
 title = "०६५ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/065_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/_index.md">
+<details open><summary><h2>65. For success against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-३ अथर्वा।(चन्द्रमाः) इन्द्रः, पराशरः। अनुष्टुप्, १ पथ्यापङ्क्तिः।  
-
+१-३ अथर्वा।(चन्द्रमाः) इन्द्रः, पराशरः। अनुष्टुप्, १ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/065_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—cāndram utāi ”ndram; pārāśaryam. ānuṣṭubham: 1. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (vss. 1, 2) in Pāipp. xix. Used by Kāuś. (14. 7), with i. 2, 19-21, vi. 66, 67, 97-99, in a rite for victory over enemies; belongs (note to 14.7) to the aparājita gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 372; Griffith, i. 281.
 </details>
 <details><summary>Griffith</summary>

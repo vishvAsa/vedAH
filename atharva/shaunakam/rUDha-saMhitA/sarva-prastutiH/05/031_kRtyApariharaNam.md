@@ -2,32 +2,24 @@
 title = "०३१ कृत्यापरिहरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/031_kRtyApariharaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/_index.md">
+<details open><summary><h2>31. Against witchcraft. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कृत्यापरिहरणम्।  
-१-१२ शक्रः। कृत्यादूषणम्। अनुष्टुप्, ११ बृहतीगर्भा अनुष्टुप्, १२ पथ्याबृहती।  
-
+१-१२ शक्रः। कृत्यादूषणम्। अनुष्टुप्, ११ बृहतीगर्भा अनुष्टुप्, १२ पथ्याबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/031_kRtyApariharaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—dvādaśarcam. kṛtyādūṣaṇadevatyam. ānuṣṭubham: 11. bṛhatīgarbhā; 12. pathyābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found (except vs. 12) in Pāipp. Not noticed in Vāit. The hymn is reckoned as belonging in the kṛtyā gaṇa or krtyāpratiharaṇa gaṇa (see note to Kāuś. 39. 7), and it is quoted with several other hymns in Kāuś. 39. 7, in a ceremony for counteracting magic.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 241; Bloomfield, 76, 456; Weber, xviii. 284.
 </details>
 <details><summary>Griffith</summary>

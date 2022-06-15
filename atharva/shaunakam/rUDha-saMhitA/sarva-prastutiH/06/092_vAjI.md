@@ -2,32 +2,24 @@
 title = "०९२ वाजी"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/092_vAjI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/_index.md">
+<details open><summary><h2>92. For success of a horse. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वाजी।  
-१-३ अथर्वा। इन्द्रः, वाजी। त्रिष्टुप्, १ जगती।  
-
+१-३ अथर्वा। इन्द्रः, वाजी। त्रिष्टुप्, १ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/092_vAjI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—vājinam. trāiṣṭubham: 1. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Applied by Kāuś. (41. 21) in a rite for the success of a horse; and by Vāit. (36. 18) in the aśvamedha, as the sacrificial horse is tied.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 </details>
 </details>

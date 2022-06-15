@@ -2,36 +2,28 @@
 title = "००६ अतिथि-सत्कारः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/09/006_atithi-satkAraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/_index.md">
+<details open><summary><h2>6. Exalting the entertainment of guests. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अतिथि-सत्कारः।  
 १-६२ (षट् पर्यायाः) ब्रह्माः। अतिथिः, विद्या।  
 (१)  
 १-१७, नागीनाम त्रिपदा गायत्री, २ त्रिपदाऽर्षी गायत्री, ३,७ साम्नी त्रिष्टुप्, ४,९ आर्च्यनुष्टुप्,  
 ५ आसुरी गायत्री, ६ त्रिपदा साम्नी जगती, ८ याजुषी त्रिष्टुप्, १० साम्नी भुरिग्बृहती,  
-११,१४-१६ साम्न्यनुष्टुप्, १२ विराड् गायत्री, १३ साम्नि निचृत्पङ्क्तिः, १७ त्रिपदा विराड् भुरिग्गायत्री।  
-
+११,१४-१६ साम्न्यनुष्टुप्, १२ विराड् गायत्री, १३ साम्नि निचृत्पङ्क्तिः, १७ त्रिपदा विराड् भुरिग्गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/09/006_atithi-satkAraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṣaṭ paryāyāḥ. ātithyā uta vidyādevatyāḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This whole prose hymn is found in Pāipp. xvi., except a few verses, as noted below. It is not quoted by either Kāuś. or Vāit. In the Prāt., on the other hand, it has more than its fair share of notice. ⌊With regard to the paryāya-hymns in general, see pp. 471-2.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 98, 137; Griffith, i. 448.
 </details>
 <details><summary>Griffith</summary>

@@ -2,28 +2,20 @@
 title = "०१७ ब्रह्मजाया"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/017_brahmajAyA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/_index.md">
+<details open><summary><h2>17. The Brahman's wife. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ब्रह्मजाया।  
-१-१८ मयोभूः। ब्रह्मजाया। अनुष्टुप्, १-६ त्रिष्टुप्।  
-
+१-१८ मयोभूः। ब्रह्मजाया। अनुष्टुप्, १-६ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/017_brahmajAyA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Mayobhū.—aṣṭādaśakam. brahmajāyādevatyam. ānuṣṭubham: 1-6. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in part (vss. 1-7, 9-11 in ix., also 18, in another part of ix.) in Pāipp. The hymn contains (in vss. 1-3, 6, 5, 10, 11) the seven verses of RV. x. 109, none of which occur elsewhere than in these two texts. Vāit. takes no notice of it, but it is used in Kāuś. (48. 11), next after hymn 13, in a witchcraft ceremony; while vs. 4 is quoted also in 126. 9, on occasion of the fall of a meteor.
 </details>
 <details><summary>Griffith</summary>

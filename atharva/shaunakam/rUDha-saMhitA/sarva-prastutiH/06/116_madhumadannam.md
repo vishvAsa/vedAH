@@ -2,32 +2,24 @@
 title = "११६ मधुमदन्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/116_madhumadannam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/_index.md">
+<details open><summary><h2>116. For relief from guilt. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मधुमदन्नम्।  
-१-३ जाटिकायनः। विवस्वान्। जगती, २ त्रिष्टुप्।  
-
+१-३ जाटिकायनः। विवस्वान्। जगती, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/116_madhumadannam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Jāṭikāyana.—vāivasvatadtvatyam. jāgatam: 2. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. The hymn is used by Kāuś. in the chapter of portents (132. 1), in a rite for expiation of the spilling of sacrificial liquids. As to the whole anuvāka, see under hymn 114.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 443; Griffith, i. 309.
 </details>
 </details>

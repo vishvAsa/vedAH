@@ -2,28 +2,18 @@
 title = "००६ अध्यात्मम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/13/006_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/_index.md">
+<details open><summary><h2>००६ अध्यात्मम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
 २२,२४ भुरिक्प्राजापत्या त्रिष्टुप्, २३ आर्ची गायत्री, २५ एकपदाऽसुरी गायत्री,  
-२६ आर्ची अनुष्टुप्, २७-२८ प्राजापत्याऽनुष्टुप्।  
-
+२६ आर्ची अनुष्टुप्, २७-२८ प्राजापत्याऽनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/13/006_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Paryāya III.—sapta. 22. bhurik prājāpatyā triṣṭubh; 23. ārcī gāyatrī; 25. 1-p. āsurī gāyatrī; 26. ārcy anuṣṭubh; 27, 28. prājāpatyā ’nuṣṭubh.]
-
-
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ ब्रह्म च

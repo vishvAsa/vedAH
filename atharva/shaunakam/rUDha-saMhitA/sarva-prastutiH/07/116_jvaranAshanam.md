@@ -2,32 +2,24 @@
 title = "११६ ज्वरनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/116_jvaranAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/_index.md">
+<details open><summary><h2>116 (121). Against intermittent fever. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ज्वरनाशनम्।  
-१-२ अथर्वाङ्गिराः। चन्द्रमाः। १ पुरोष्णिक्, २ एकावसाना द्विपदा आर्च्यनुष्टुप्।  
-
+१-२ अथर्वाङ्गिराः। चन्द्रमाः। १ पुरोष्णिक्, २ एकावसाना द्विपदा आर्च्यनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/116_jvaranAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—dvyṛcam. cāndramasam. 1. puroṣṇiḥ; 2. 1-av. 2-p. ārcy anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This and the two following hymns are not found in Pāipp. This appears in Kāuś. (32. 17: Keś. adds, with hymn 117) in a remedial rite against fever, with aid of a frog as in hymn 95; and it is reckoned (note to 26. 1) to the takmanāśana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; Griffith, i. 384; Bloomfield, 4, 565.—Cf. also Bloomfield, JAOS. xvii. 173.
 </details>
 </details>

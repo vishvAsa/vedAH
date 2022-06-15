@@ -2,31 +2,24 @@
 title = "०२६ हिरण्यधारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/026_hiraNyadhAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/_index.md">
+<details open><summary><h2>26. For long life etc.: with something golden. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 हिरण्यधारणम्।  
-१-४ अथर्वा। अग्निः, हिरण्यं च। त्रिष्टुप्, ३ अनुष्टुप्, ४ पथ्यापङ्क्तिः।  
-
+१-४ अथर्वा। अग्निः, हिरण्यं च। त्रिष्टुप्, ३ अनुष्टुप्, ४ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/026_hiraNyadhAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. āgneyam; hāiraṇyam. trāiṣṭubham: 3. anuṣṭubh; 4. pathyāpan̄kti.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this hymn only vs. 4 is found in Pāipp. (in xx.). The comm. finds it used in Nakṣ. K. 17, 19, in a mahāśānti ceremony called āgneyī, on occasion of danger from fire, with the insertion of a golden earring; further, in Pariś. 11. 1, in a tulāpuruṣa ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Grill, 49, 192; Griffith, ii. 283; Bloomfield, 63, 668.
 </details>
 <details><summary>Griffith</summary>

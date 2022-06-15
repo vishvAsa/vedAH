@@ -2,32 +2,24 @@
 title = "०८५ अरिष्टनेमिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/085_ariShTanemiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/_index.md">
+<details open><summary><h2>85 (90). Invocation of Tārkshya. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अरिष्टनेमिः।  
-१ अथर्वा (स्वस्त्ययनकामः)। तार्क्ष्यः। त्रिष्टुप्।  
-
+१ अथर्वा (स्वस्त्ययनकामः)। तार्क्ष्यः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/085_ariShTanemiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (svastyayanakāmaḥ).—tārkṣyadevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used in Kāuś. (59. 14), with 86 and 117, in a rite for general welfare, and by the schol. (note to 137. 4) in making a sacrificial hearth for the ājyatantra; it is also reckoned (note to 25. 36) to the svastyayana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 36, 105; Griffith, i. 372.—See also Foy, KZ. xxxiv. 268.
 </details>
 <details><summary>Griffith</summary>

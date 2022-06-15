@@ -2,32 +2,24 @@
 title = "०१७ गर्भदृंहणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/017_garbhadRMhaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/_index.md">
+<details open><summary><h2>17. Against premature birth. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गर्भदृंहणम्।  
-१-४ अथर्वा। गर्भदृंहणम्, पृथिवि। अनुष्टुप्।  
-
+१-४ अथर्वा। गर्भदृंहणम्, पृथिवि। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/017_garbhadRMhaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. garbhadṛṅhaṇadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found, except vs. 1 (in the order 4, 2, 3), in Pāipp. xix. Used by Kāuś. (35. 12) in the rite for securing the fœtus against abortion.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 477; Florenz, 269 or 21; Griffith, i. 254; Bloomfield, 98, 467.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००५ राष्ट्रस्य राजा राजकृतश्च"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/005_rAShTrasya_rAjA_rAjakRtashcha.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/_index.md">
+<details open><summary><h2>5. For prosperity: with a parṇá-amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राष्ट्रस्य राजा राजकृतश्च।  
-१-८ अथर्वा। सोमः। १ पुरोऽनुष्टुप् त्रिष्टुप्, २-३, ५-७ अनुष्टुप्, ४ त्रिष्टुप्, ८ विराडुरोबृहती।  
-
+१-८ अथर्वा। सोमः। १ पुरोऽनुष्टुप् त्रिष्टुप्, २-३, ५-७ अनुष्टुप्, ४ त्रिष्टुप्, ८ विराडुरोबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/005_rAShTrasya_rAjA_rAjakRtashcha.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—aṣṭakam. sāumyam. ānuṣṭubham: 1. puro‘nuṣṭup triṣṭubh; 8. virāḍurobṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (except vs. 8) in Pāipp. iii. Used by Kāuś. (19. 22), with viii. 5 and x. 3, 6, to accompany the binding on of an amulet for general prosperity (tejobalāyurdhanādipuṣṭaye, comm.). And the comm. quotes it from Nakṣ. K. ⌊comm. should say śānti K.—Bloomfield⌋ as employed in a mahāśānti named ān̄girasī. ⌊In the prior draft, W. writes "For success of a king: with" etc. as title of this hymn. Its place in the collection, next after iii. 3 and 4, and its second vs., seem to justify that title.⌋
 
 
-##### Translations
+#### Translations
 Translated: Weber, xvii. 1 94; Griffith, i. 86; Bloomfield, 114, 331.—Vss. 6 and 7, Zimmer, p. 184, with comment.
 </details>
 <details><summary>Griffith</summary>

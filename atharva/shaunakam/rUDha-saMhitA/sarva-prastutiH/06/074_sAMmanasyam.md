@@ -2,33 +2,25 @@
 title = "०७४ सांमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/074_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/_index.md">
+<details open><summary><h2>74. For harmony. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
-१-३ अथर्वा। सांमनस्यम्, नाना देवताः, त्रिणामा। अनुष्टुप्, ३ त्रिषटुप्।  
-
+१-३ अथर्वा। सांमनस्यम्, नाना देवताः, त्रिणामा। अनुष्टुप्, ३ त्रिषटुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/074_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—(as above.) ānuṣṭubham: 3. triṣṭubh, triṇāmadevatyā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (in the verse-order 2, 1, 3). Reckoned by Kāuś. (12. 5), with the preceding hymn and others, to the 
 sāmmanasyāni.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 285; Bloomfield, 135, 495.
 </details>
 <details><summary>Griffith</summary>

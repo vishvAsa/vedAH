@@ -2,32 +2,24 @@
 title = "०२४ समृद्घि-प्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/024_samRdghi-prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/_index.md">
+<details open><summary><h2>24. For abundance of grain. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 समृद्घि-प्राप्तिः।  
-१-७ भृगुः। वनस्पतिः. प्रजापतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।  
-
+१-७ भृगुः। वनस्पतिः. प्रजापतिः। अनुष्टुप्, २ निचृत्पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/024_samRdghi-prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—saptarcam. vānaspatyam uta prājāpatyam. ānuṣṭubham: 2. nicṛtpathypan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found (except vs. 7) in Pāipp. v. Used by Kāuś. (21. 1 ff.) in rites for the prosperity of grain-crops, and reckoned (19. I, note) to the puṣṭika mantras. The comm. declares it employed also in the pitṛmedha ceremony (82. 9), but doubtless by an error, the verse there quoted being xviii. 3. 56 (which has the same pratīka).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 268; Weber, xvii. 286; Griffith, i. 117.
 </details>
 <details><summary>Griffith</summary>

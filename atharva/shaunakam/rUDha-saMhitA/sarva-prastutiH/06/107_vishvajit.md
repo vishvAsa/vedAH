@@ -2,32 +2,24 @@
 title = "१०७ विश्वजित्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/107_vishvajit.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/_index.md">
+<details open><summary><h2>107. For protection: to various divinities. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विश्वजित्।  
-१-४ शन्तातिः। विश्वजित्। अनुष्टुप्।  
-
+१-४ शन्तातिः। विश्वजित्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/107_vishvajit.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—caturṛcam. viśvajiddevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇa; and used (50. 13), with vi. 1. 3-7, etc., in a rite for welfare. The metrical definition of the Anukr. is forced and bad; although the number of syllables is each time not far from 32 (29-33).
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 303.
 </details>
 </details>

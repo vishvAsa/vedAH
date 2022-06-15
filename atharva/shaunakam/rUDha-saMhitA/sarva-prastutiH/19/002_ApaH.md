@@ -2,32 +2,24 @@
 title = "००२ आपः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/002_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/002_ApaH/_index.md">
+<details open><summary><h2>2. Praise and prayer to the waters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आपः।  
-१-५ सिन्धुद्वीपः। आपः। अनुष्टुप्।  
-
+१-५ सिन्धुद्वीपः। आपः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/002_ApaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Sindhudvīpa.—pañcarcam. āpyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/002_ApaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. viii. The comm. finds it used in Nakṣ. K. 20, in addressing waters brought from streams etc. for a ceremony of appeasement.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 259.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०४० मेधा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/040_medhA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/_index.md">
+<details open><summary><h2>40. To various divinities: for various blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मेधा।  
-१-४ ब्रह्माः बृहस्पतिः, विश्वे देवाश्च। १ पराऽनुष्टुप् त्रिष्टुप्, २ पुरः ककुम्मत्युपरिष्टाद्बृहती, ३ बृहतीगर्भा, ४ त्रिपदाऽर्षी गायत्री।  
-
+१-४ ब्रह्माः बृहस्पतिः, विश्वे देवाश्च। १ पराऽनुष्टुप् त्रिष्टुप्, २ पुरः ककुम्मत्युपरिष्टाद्बृहती, ३ बृहतीगर्भा, ४ त्रिपदाऽर्षी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/040_medhA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—caturṛcam. bārhaspatyam uta vāiśvadevam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh; 2. puraḥkakummaty upariṣṭādbṛhatī; 3. bṛhatīgarbhā; 4. 3-p. ārṣī gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this hymn only the first verse occurs in Pāipp. (in xix.). The comm. reports no viniyoga, but SPP. supplies one, finding it quoted in Pariś. 37. 4, in a ceremony of expiation for the loss (nāśa) of a strainer; ⌊and again, in 37. 14, for use in case a certain earthen vessel (upayāma) falls from the hand⌋.
 
 
-##### Translations
+#### Translations
 Translated; Griffith, ii. 297.
 </details>
 <details><summary>Griffith</summary>

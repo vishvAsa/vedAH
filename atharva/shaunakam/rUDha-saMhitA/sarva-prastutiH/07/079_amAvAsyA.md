@@ -2,32 +2,24 @@
 title = "०७९ अमावास्या"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/079_amAvAsyA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/_index.md">
+<details open><summary><h2>79 (84). To Amāvāsyā (night or goddess of new moon). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अमावास्या।  
-१-४ अथर्वा। अमावास्या। त्रिष्टुप्, १ जगती।  
-
+१-४ अथर्वा। अमावास्या। त्रिष्टुप्, १ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/079_amAvAsyA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. amāvāsyādevatākam. trāiṣṭubham: 1. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first verse is found in Pāipp. xx., the second and third in Pāipp. i. Used by Kāuś. (5. 6) in the parvan sacrifice on the day of new moon; also (59. 19) with hymns 17 etc. (see under 17), for various benefits. It has in Vāit. (1. 16) an office similar to that prescribed by Kāuś. 5. 6.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 32, 100; Griffith, i. 367.
 </details>
 <details><summary>Griffith</summary>

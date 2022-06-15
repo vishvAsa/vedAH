@@ -2,28 +2,20 @@
 title = "००२ रोगोपशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/002_rogopashamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/_index.md">
+<details open><summary><h2>2. Against injury and disease: with a reed. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रोगोपशमनम्।  
-अथर्वा। पर्जन्यः(१,४ पृथिवी, ३ इन्द्रः,(चन्द्रमाश्च))। अनुष्टुप्, ३ त्रिपदा विराण्नाम गायत्री।  
-
+अथर्वा। पर्जन्यः(१,४ पृथिवी, ३ इन्द्रः,(चन्द्रमाश्च))। अनुष्टुप्, ३ त्रिपदा विराण्नाम गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/002_rogopashamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—cāndramasam; pārjanyam. ānuṣṭubham: 3. 3-p. virāṇnāma gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Vidmā is quoted in Prāt. iii. 16 as the example first occurring in the text of a lengthened final a.
 </details>
 <details><summary>Griffith</summary>

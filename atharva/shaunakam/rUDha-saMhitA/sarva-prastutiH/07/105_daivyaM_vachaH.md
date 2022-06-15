@@ -2,32 +2,24 @@
 title = "१०५ दैव्यं वचः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/105_daivyaM_vachaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/_index.md">
+<details open><summary><h2>105 (110). An exhortation to holy life. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दैव्यं वचः।  
-१ अथर्वा।मन्त्रोक्ताः। अनुष्टुप्॥  
-
+१ अथर्वा।मन्त्रोक्ताः। अनुष्टुप्॥
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/105_daivyaM_vachaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Quoted by Kāug. (55. 16) in the upanayana ceremony, as the teacher takes the pupil by the arm and sets him facing eastward; and the second half-verse later in the same (56. 16), as he makes the pupil turn so as to face him.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
 </details>

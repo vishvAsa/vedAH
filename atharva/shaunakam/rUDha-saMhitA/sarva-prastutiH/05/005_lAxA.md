@@ -2,32 +2,24 @@
 title = "००५ लाक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/005_lAxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/_index.md">
+<details open><summary><h2>5. To a healing plant, lākṣā. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 लाक्षा  
-१-९ अथर्वा। लाक्षा। अनुष्टुप्।  
-
+१-९ अथर्वा। लाक्षा। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/005_lAxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—navakam. lākṣikam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. vi. (in the verse-order 1, 2, 4, 5, 3, 7, 6, 8, 9). Not textually quoted by Kāuś., but doubtless intended, as pointed out by the schol., in the lākṣālin̄gās of 28. 14, as employed in a healing rite for flesh-wounds.
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 67; Grill, 10, 142; Griffith, i. 195; Bloomfield, 20, 419; Weber, xviii. 181.
 </details>
 <details><summary>Griffith</summary>

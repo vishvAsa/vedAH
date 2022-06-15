@@ -2,32 +2,24 @@
 title = "०६९ सुखम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/069_sukham.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/069_sukham/_index.md">
+<details open><summary><h2>69 (72). Prayer for good fortune. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुखम्।  
-१ शन्तातिः। सुखम्। पथ्यापङ्क्तिः।  
-
+१ शन्तातिः। सुखम्। पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/069_sukham.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śaṁtāti.—sukhadevatākam. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/069_sukham/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Included, like the preceding hymn, in the two śānti gaṇas (Kāuś. 9. 2, 4), and by the schol. (note to 9. 7) in yet a third.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 26, 91; Griffith, i. 360.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००७ यक्ष्मनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/007_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/_index.md">
+<details open><summary><h2>7. Against the disease kṣetriyá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
-१-७ भृग्वङ्गिराः। १-३ हरिणः, ४ तारके, ५ आपः, ६-७ यक्ष्मनाशनम्। अनुष्टुप्, ६ भुरिक्।  
-
+१-७ भृग्वङ्गिराः। १-३ हरिणः, ४ तारके, ५ आपः, ६-७ यक्ष्मनाशनम्। अनुष्टुप्, ६ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/007_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—saptarcam. yakṣmanāśanadāivatam uta bahudevatyam. ānuṣṭubham: 6. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iii., with few variants, but with vs. 5 at the end. Used by Kāuś. (27. 29) in a healing ceremony (its text does not specify the disease); and reckoned (26. 1, note) to the takmanāśana gaṇa. And the comm. quotes it as employed by the Nakṣ. ⌊śānti?⌋ K. (17, 19) in the mahāśānti called kāumāri.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xvii. 208; Grill, 8, 105; Griffith, i.89; Bloomfield, 15, 336.
 </details>
 <details><summary>Griffith</summary>

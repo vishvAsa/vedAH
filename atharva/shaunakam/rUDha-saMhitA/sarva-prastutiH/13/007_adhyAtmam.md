@@ -2,25 +2,17 @@
 title = "००७ अध्यात्मम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/13/007_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/_index.md">
+<details open><summary><h2>००७ अध्यात्मम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
-२९, ३३, ३९-४०, ४५ आसुरी गायत्री, ३०, ३२,३५-३६, ४२ प्राजापत्याऽनुष्टुप्, ३१ विराट् गायत्री, ३४ साम्नी उष्णिक्, ३७-३८ साम्नी उष्णिगनुष्टुप्, ४१ साम्नी बृहती, ४३ आर्षी गायत्री, ४४ साम्नी अनुष्टुप्।  
-
+२९, ३३, ३९-४०, ४५ आसुरी गायत्री, ३०, ३२,३५-३६, ४२ प्राजापत्याऽनुष्टुप्, ३१ विराट् गायत्री, ३४ साम्नी उष्णिक्, ३७-३८ साम्नी उष्णिगनुष्टुप्, ४१ साम्नी बृहती, ४३ आर्षी गायत्री, ४४ साम्नी अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/13/007_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Paryāya IV.—saptadaça. 29, 33, 39, 40, 45. āsurī gāyatrī; 30, 32, 35, 36, 42. prājāpatyā ’nuṣṭubh; 31. virāḍ gāyatrī; 34, 37, 38. sāmny uṣṇih; 41. sāmnī bṛhatī; 43. ārṣī gāyatrī; 44. sāmny anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ स वा

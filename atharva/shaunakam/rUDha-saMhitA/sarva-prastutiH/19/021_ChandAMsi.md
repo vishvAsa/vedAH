@@ -2,32 +2,24 @@
 title = "०२१ छन्दांसि"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/021_ChandAMsi.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/_index.md">
+<details open><summary><h2>21. The meters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 छन्दांसि।  
-१ ब्रह्मा। छन्दांसि। एकावसाना द्विपदा साम्नी बृहती।  
-
+१ ब्रह्मा। छन्दांसि। एकावसाना द्विपदा साम्नी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/021_ChandAMsi.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. chāndasam. 1-av. 2-p. sāmnī bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose.⌋ ⌊Not found in Pāipp.⌋ The comm. finds the verse quoted by the appellation chandogaṇa in Nakṣatra Kalpa 18.—⌊The Anukr. says: idam Brahmā chandonukrāntivijñānāyā ’paśyat.—The meters are arranged, according to the number of their syllables, in an arithmetical progression ascending by a difference of 4. In VS. xxiii. 33, all these and kakúbh are mentioned.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 279.
 </details>
 <details><summary>Griffith</summary>

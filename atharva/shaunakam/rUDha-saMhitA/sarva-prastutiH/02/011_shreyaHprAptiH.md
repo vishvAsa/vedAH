@@ -2,32 +2,24 @@
 title = "०११ श्रेयःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/011_shreyaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/_index.md">
+<details open><summary><h2>11. To counteract witchcraft: with an amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 श्रेयःप्राप्तिः।  
-१-५ शुक्रः। कृत्यादूषणम्। १ चतुष्पदा विराट् गायत्री, २-५ त्रिपदा परोष्णिक्, ४ पिपीलिकमध्या निचृत्।  
-
+१-५ शुक्रः। कृत्यादूषणम्। १ चतुष्पदा विराट् गायत्री, २-५ त्रिपदा परोष्णिक्, ४ पिपीलिकमध्या निचृत्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/011_shreyaHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śukra.—kṛtyāpratiharaṇasūktam; kṛtyādūṣaṇadevatyam. 1. 4p. virāḍgāyatrī; 2-5. 3-p. paroṣṇih (4. pipīlikamadhyā nicṛt).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊The hymn is not metrical.⌋ Not found in Pāipp., nor elsewhere. Reckoned as first of the kṛtyāpratiharaṇa ('counteraction of witchcraft') gaṇa (Kāuś. 39. 7 and note); used in a charm for protection against witchcraft (39. 1), with binding-on of a sraktya amulet; and again later (39. 13; the comm. says, only vs. 1), in a similar rite. The comm. quotes it further from Nakṣ. K. (17, 19), in a mahāśānti called bārhaspatī.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 163; Griffith, i. 54.—Discussed by Bloomfield, AJP. vii. 477 ff., or JAOS. xiii., p. cxxxii (= PAOS. Oct. 1886).
 </details>
 <details><summary>Griffith</summary>

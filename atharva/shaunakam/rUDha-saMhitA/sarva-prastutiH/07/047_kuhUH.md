@@ -2,32 +2,24 @@
 title = "०४७ कुहूः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/047_kuhUH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/_index.md">
+<details open><summary><h2>47 (49). To Kuhū (goddess of the new moon). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 कुहूः।  
-१-२ अथर्वा। कुहूः। जगती, २ त्रिष्टुप्।  
-
+१-२ अथर्वा। कुहूः। जगती, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/047_kuhUH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—dvyṛcam. mantroktadevatyam. 1. jagatī; 2. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Further, in TS. iii. 3. 115, MS. iv. 12. 6, K. xiii. 16, AśS. i. 10. 8, śśS. ix. 28. 3. This hymn, with the preceding (or also 48 and 49?) and hymn 6, makes up (Kāuś. 59. 18, note), according to the schol., a patnīvantagaṇa (not acknowledged nor used in the Kāuś. text). In Vāit. (i. 16), it and hymn 48, paired respectively with 79 and 80, are used on the days of new and full moon at the parvan sacrifices.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 17, 74; Griffith, i. 348.
 </details>
 <details><summary>Griffith</summary>

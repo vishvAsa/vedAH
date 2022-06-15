@@ -2,32 +2,24 @@
 title = "०८७ व्यापको देवः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/087_vyApako_devaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/_index.md">
+<details open><summary><h2>87 (92). Homage to Rudra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 व्यापको देवः।  
-१ अथर्वा। रुद्रः। जगती।  
-
+१ अथर्वा। रुद्रः। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/087_vyApako_devaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—rāudram. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Found in Kāuś. (59. 29) in a rite for welfare, with worship of the Rudras; and reckoned (note to 50. 13) to the rāudra gaṇa. Used repeatedly by Vāit.: in the parvan sacrifice (4. 10), when the cleansing tuft is thrown in the fire, and again, in the cāturmāsya sacrifice (9. 18), with a cake to Tryambaka; also (24. 17) at the end of the agniṣṭoma, when the priests quit the place of sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Muir, iv2. 333; Henry, 36, 106; Griffith, i. 372.
 </details>
 <details><summary>Griffith</summary>

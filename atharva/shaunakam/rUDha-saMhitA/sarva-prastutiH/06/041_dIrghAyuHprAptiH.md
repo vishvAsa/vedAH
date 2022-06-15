@@ -2,32 +2,24 @@
 title = "०४१ दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/041_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>41. To various divinities. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१-३ ब्रह्म।१ चन्द्रमाः, २ सरस्वती, ३ दैव्या ऋषयः। १ भुरिक्, २ अनुष्टुप्, ३ त्रिष्टुप्।  
-
+१-३ ब्रह्म।१ चन्द्रमाः, २ सरस्वती, ३ दैव्या ऋषयः। १ भुरिक्, २ अनुष्टुप्, ३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/041_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—bahudāivatam uta cāndramasam. ānuṣṭubham: 1. bhurij; 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp., nor, so far as observed, in any other text. Used by Kāuś. (54. 11), with ii. 15, in the godāna ceremony, as the youth is made to eat a properly cooked dish of big rice (mahāvrīhi).
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 301 or 53; Griffith, i. 266.
 </details>
 <details><summary>Griffith</summary>

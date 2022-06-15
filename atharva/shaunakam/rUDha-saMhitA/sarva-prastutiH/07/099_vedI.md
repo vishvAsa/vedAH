@@ -2,32 +2,24 @@
 title = "०९९ वेदी"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/099_vedI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/099_vedI/_index.md">
+<details open><summary><h2>99 (104). When bestrewing the védi. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वेदी।  
-१ अथर्वा। वेदी। भुरिक् त्रिष्टुप्।  
-
+१ अथर्वा। वेदी। भुरिक् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/099_vedI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/099_vedI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Is in Kāuś. (2. 20) the priest's direction for strewing the barhis; and the same in Vāit. (2. 7): both in the parvan sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an elaborate comment. Oldenberg, Indogermanische Forschungen, Anzeiger, iii. 3, refers to Hillebrandt, Neu- und Vollmondsopfer, 19, 64.
 </details>
 </details>

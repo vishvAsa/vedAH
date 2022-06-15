@@ -2,28 +2,20 @@
 title = "००८ नक्षत्राणी"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/008_naxatrANI.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/_index.md">
+<details open><summary><h2>8. For well-being: to the asterisms etc. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 नक्षत्राणी।  
-१-७ गार्ग्यः। नक्षत्राणी, …. ब्रह्मणस्पतिः। त्रिष्टुप्, १ विराड् जगती।  
-
+१-७ गार्ग्यः। नक्षत्राणी, …. ब्रह्मणस्पतिः। त्रिष्टुप्, १ विराड् जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/008_naxatrANI.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Gārgya.—sapta. mantroktanakṣatradevatyam (6. brāhmaṇaspatyā). trāiṣṭubham: 1. virāḍ jagatī; 6. 3-av. 6-p. atijagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emended in our text. It is possible, but not natural, to count in the verse 46 syllables, with the Anukr.
 </details>
 </details>

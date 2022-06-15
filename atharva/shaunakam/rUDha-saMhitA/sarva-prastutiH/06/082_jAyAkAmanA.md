@@ -2,32 +2,24 @@
 title = "०८२ जायाकामना"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/082_jAyAkAmanA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/_index.md">
+<details open><summary><h2>82. To obtain a wife. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जायाकामना।  
-१-३ भगः। इन्द्रः। अनुष्टुप्।  
-
+१-३ भगः। इन्द्रः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/082_jAyAkAmanA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhaga (jāyākāmaḥ).—āindram. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Part (vs. 4) prose.⌋ Found also in Pāipp. xix. Used by Kāuś. (59. 11), in a kāmya rite, by one desiring a wife; and again, in the nuptial ceremonies (78. 10), with vi. 78 etc.
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 239; Ludwig, p. 470; Grill, 57, 167; Griffith, i. 289; Bloomfield, 95, 502.
 </details>
 <details><summary>Griffith</summary>

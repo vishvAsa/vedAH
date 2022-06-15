@@ -2,32 +2,24 @@
 title = "०११ पुंसवनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/011_puMsavanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/_index.md">
+<details open><summary><h2>11. For birth of sons. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पुंसवनम्।  
-१-३ प्रजापतिः। रेतः, ३ प्रजापतिः, अनुमतिः, सिनीवाली। अनुष्टुप्।  
-
+१-३ प्रजापतिः। रेतः, ३ प्रजापतिः, अनुमतिः, सिनीवाली। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/011_puMsavanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Prajāpatiḥ.—retodevatyam uta mantroktadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is found also in Pāipp. xix. Accompanies in Kāuś. (35. 8) a rite for conception of a male child (puṁsavana); fire is generated between śamī and aśvattha, and is variously applied to the woman.
 
 
-##### Translations
+#### Translations
 Translated: Weber, v. 264; Ludwig, p. 477; Zimmer, p. 319; Florenz, 260 or 12; Griffith, i. 250; Bloomfield, 97, 460.
 </details>
 <details><summary>Griffith</summary>

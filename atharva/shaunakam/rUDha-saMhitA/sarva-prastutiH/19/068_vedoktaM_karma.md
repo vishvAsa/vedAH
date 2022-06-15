@@ -2,32 +2,24 @@
 title = "०६८ वेदोक्तं कर्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/068_vedoktaM_karma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/_index.md">
+<details open><summary><h2>68. With ceremonial performance. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वेदोक्तं कर्म।  
-१ ब्रह्मा। कर्म। अनुष्टुप्।  
-
+१ ब्रह्मा। कर्म। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/068_vedoktaM_karma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. mantroktakarmamātradevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. xix. Quoted once in the text of Kāuś. (139. 10), in the ceremony of introduction to Vedic study, as to be murmured prior to pronouncing, by pādas, the Gāyatrī (RV. iii. 62. 10), and the Atharvan verses iv. 1. 1 and i. 1. 1 (or 1-4). But the various schol. (the Paddhati, Daś. Kar., Keśavī) make frequent mention and use of it: thus (see note to Kāuś. 25. 36), it is reckoned to a svastivācana; it is used in the sīmantonnayana (to 35. 20) and godāna (to 53. 2) ceremonies; it is added (note to 57. 22) to vii. 33. 1 in the ceremony of restoring lost fire, in the initiation of a Vedic student; it is used in the vedavratāni (to 57. 32), in the annaprāśana (to 58. 19), and the preparation for the marriage ceremonies (to 75. 1), and for the ājyatantra (to 137. 4), and in the introduction to the rājakarmāṇi of §14 (p. 315, l. 2). In all this is very probably to be seen only the influence of the occurrence of védam and of kármāṇi kṛṇmahe in the second half-verse; it need not imply any real comprehension of the obscure verse, with recognition of its appropriateness to all these various situations. ⌊As to the critical bearing of the uses of the vs. in the ritual, cf. the table on p. 896, and see p. 897, line 12.⌋
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 319.
 </details>
 <details><summary>Griffith</summary>

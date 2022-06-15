@@ -2,29 +2,21 @@
 title = "०१० विराट्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/08/010_virAT.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/_index.md">
+<details open><summary><h2>10. Extolling the virā́j. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विराट्।  
 १-१३ अथर्वाचार्यः। विराट्। (षट्-पर्यायाः)। १-१३, १ त्रिपदार्ची पङ्क्तिः,  
-२-७ याजुषी जगती, ३, ९ साम्न्यनुष्टुप्, ५ आर्च्यनुष्टुप्, ७, १३ विराड् गायत्री, ११ साम्ननी बृहती।  
-
+२-७ याजुषी जगती, ३, ९ साम्न्यनुष्टुप्, ५ आर्च्यनुष्टुप्, ७, १३ विराड् गायत्री, ११ साम्ननी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/08/010_virAT.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvācārya.—ṣaṭ paryāyā virāḍdevatyās.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This curious piece of prose is (with the exception of paragraphs here and there) found also in Pāipp. xvi. ⌊Pāipp. has the order 22, 24, 23, 26, 25.⌋ ⌊This is the first of the paryāya-sūktas. For the paryāya-hymns in general, see introduction to book viii., pages 471-2, above.⌋
 
 
@@ -34,7 +26,7 @@ This curious piece of prose is (with the exception of paragraphs here and there)
 
 
 
-##### Translations
+#### Translations
 Translated: Henry, 29, 71; Griffith, i. 421.—See also Muir, v. 370.
 </details>
 <details><summary>Griffith</summary>

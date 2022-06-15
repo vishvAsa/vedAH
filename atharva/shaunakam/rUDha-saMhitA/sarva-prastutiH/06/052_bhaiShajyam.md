@@ -2,32 +2,24 @@
 title = "०५२ भैषज्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/052_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/_index.md">
+<details open><summary><h2>52. For deliverance from unseen pests. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
-१-३ भागलिः। १ सूर्यः, २ गावः, ३ भेषजम्। अनुष्टुप्।  
-
+१-३ भागलिः। १ सूर्यः, २ गावः, ३ भेषजम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/052_bhaiShajyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhāgali.—mantroktabahudevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Also found in Pāipp. xix. (in the verse-order 1, 3, 2). The first two verses are RV. i. 191. 9, 4. Used by Kāuś. (31-8) in a remedial rite against demons.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 273.—See also Henry, Mém. Soc. Ling., ix. 241 top, and 239.
 </details>
 <details><summary>Griffith</summary>

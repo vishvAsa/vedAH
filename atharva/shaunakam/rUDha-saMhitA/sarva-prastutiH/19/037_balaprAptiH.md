@@ -2,32 +2,24 @@
 title = "०३७ बलप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/037_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/_index.md">
+<details open><summary><h2>37. With an amulet: for various blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
-१-४ अथर्वा॥ अग्निः। १ त्रिष्टुप्, २ आस्तारपङ्क्तिः, ३ त्रिपदा महाबृहती, ४ उष्णिक्।  
-
+१-४ अथर्वा॥ अग्निः। १ त्रिष्टुप्, २ आस्तारपङ्क्तिः, ३ त्रिपदा महाबृहती, ४ उष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/037_balaprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—caturṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 3. 3-p. mahābṛhatī; 4. purāuṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. The comm. neither quotes nor devises a viniyoga, but SPP. finds it used in Nakṣ.K. 19, in the mahāśānti ceremony called tvāṣṭrī, with a threefold amulet, on occasion of the loss of a garment.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 295.
 </details>
 <details><summary>Griffith</summary>

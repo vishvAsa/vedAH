@@ -2,32 +2,24 @@
 title = "०१४ गोष्ठः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/014_goShThaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/_index.md">
+<details open><summary><h2>14. A blessing on the kine. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 गोष्ठः।  
-१-६ ब्रह्मा। गोष्ठः, अहः, २ अर्यमा, पूषा, बृहस्पतिः, इन्द्रः, १-६ गावः, ५ गोष्ठश्च। अनुष्टुप्, ६आर्षी त्रिष्टुप्।  
-
+१-६ ब्रह्मा। गोष्ठः, अहः, २ अर्यमा, पूषा, बृहस्पतिः, इन्द्रः, १-६ गावः, ५ गोष्ठश्च। अनुष्टुप्, ६आर्षी त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/014_goShThaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—nānādevatyam uta goșțhadevatākam. ānușțubham: 6. ārṣī triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn (except vs. 5) is found in Pāipp. ii. (in the verse-order 2, 4, 6, 1, 3). It is used by Kāuś., with other hymns (ii. 26 etc.), in a ceremony for the prosperity of cattle (19. 14). In Vāit. (21. 26), vs. 2 accompanies the driving of kine in the agnișțoma. The Vāit. use does not appear to be mentioned by the comm., and his report of the Kāuś. use is mostly lost from the manuscript (but filled in by the editor).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 469; Weber, xvii. 244; Grill, 64, 112; Griffith, i. 101; Bloomfield, 143, 351.
 </details>
 <details><summary>Griffith</summary>

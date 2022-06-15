@@ -2,32 +2,24 @@
 title = "०२० शत्रुनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/020_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/_index.md">
+<details open><summary><h2>20. Against enemies and their weapons. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
-१-४ अथर्वा। १ सोमः, मरुतः, २ मित्रावरुणौ, ३ वरुणः ४ इन्द्रः। अनुष्टुप्, त्रिष्टुप्।  
-
+१-४ अथर्वा। १ सोमः, मरुतः, २ मित्रावरुणौ, ३ वरुणः ४ इन्द्रः। अनुष्टुप्, त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/020_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāumyam. ānuṣṭubham: 1. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first three verses are found in Pāipp. xix., and vs. 4 in ii.: see below. For the use of the hymn by Kāuś. with 19 and 21, see under 19. And vs. 1 is used alone (so the comm.) in the parvan-sacrifices (Kāuś. 2. 39), on viewing the cooked oblation.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 413; Griffith, i. 24.
 </details>
 <details><summary>Griffith</summary>

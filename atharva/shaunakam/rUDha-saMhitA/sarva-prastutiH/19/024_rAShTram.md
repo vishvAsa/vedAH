@@ -2,32 +2,24 @@
 title = "०२४ राष्ट्रम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/024_rAShTram.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/_index.md">
+<details open><summary><h2>24. For prosperity: with a certain garment. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 राष्ट्रम्।  
-१-८ अथर्वा। ब्रह्मणस्पतिः, बहुदैवत्यम्। अनुष्टुप्, ४-६, ८ त्रिष्टुप्, ७ त्रिपदाऽर्षी गायत्री।  
-
+१-८ अथर्वा। ब्रह्मणस्पतिः, बहुदैवत्यम्। अनुष्टुप्, ४-६, ८ त्रिष्टुप्, ७ त्रिपदाऽर्षी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/024_rAShTram.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—aṣṭāu. mantroktabahudevatyam uta brāhmaṇaspatyam. ānuṣṭubham: 4-6, 8. triṣṭubh; 7. 3-p. ārṣī gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn, except vs. 2, is found also in Pāipp. xv. The comm. points out that it is prescribed by Nakṣatra Kalpa 17-18 to be used in a mahāśānti ceremony called tvāṣṭrī, on occasion of the loss (kṣaya) of a garment.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 458; Griffith, ii. 281.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "००८ क्षेत्रियरोगनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/008_xetriyaroganAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/_index.md">
+<details open><summary><h2>8. Against the disease kṣetriyá: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 क्षेत्रियरोगनाशनम्।  
-१-५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्म नाशनम्। अनुष्टुप्, ३ पथ्यापङ्क्तिः, ४ विराट्, ५ निचृत्पथ्यापङ्क्तिः।  
-
+१-५ भृग्वङ्गिराः। वनस्पतिः, यक्ष्म नाशनम्। अनुष्टुप्, ३ पथ्यापङ्क्तिः, ४ विराट्, ५ निचृत्पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/008_xetriyaroganAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—vānaspatyam; yakṣmanāśanadāivatam. ānuṣṭubham: 3. pathyāpan̄kti; 4.. virāj; 5. nicṛtpathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Verse 1 occurs in Pāipp. i. It is reckoned (Kāuś. 26. 1, note) to the takmanāśana gaṇa, and is used in a healing ceremony (against kulāgatakuṣṭhakṣayagrahaṇyādirogās, comm.), accompanying various practices upon the diseased person, which are evidently rather adapted to the words of the text than represented by them (26. 41-27.4), and, according to the comm., are rather alternative than to be performed successively.
 
 
-##### Translations
+#### Translations
 Translated: Weber, xiii. 149; Ludwig, p. 513; Griffith, i. 50; Bloomfield, 13, 286.
 </details>
 <details><summary>Griffith</summary>

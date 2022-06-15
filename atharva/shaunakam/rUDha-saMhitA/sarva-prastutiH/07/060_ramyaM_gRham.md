@@ -2,28 +2,20 @@
 title = "०६० रम्यं गृहम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/060_ramyaM_gRham.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/_index.md">
+<details open><summary><h2>60 (62). To the home: on returning or leaving. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रम्यं गृहम्।  
-१-७ ब्रह्मा। गृहाः, वास्तोष्पतिः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।  
-
+१-७ ब्रह्मा। गृहाः, वास्तोष्पतिः। अनुष्टुप्, १ परानुष्टुप् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/060_ramyaM_gRham.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (ramyān gṛhān vāstospatīn aprārthayat).—saptarcam. vāstoṣpatyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first and third pādas are found in VS. iii. 41, as a second half-verse, and also in LśS. iii. 3. 1, ĀpśS. vi. 27. 5, śGS. iii. 7. For vasuvánis in a, all read vaḥ sumánās; in c, their reading gṛhā́n āí ’mi (LśS. emi, ĀpśS. ā ’gām) mánasā módamānaḥ (LśS. dāivena). Ppp. has a very different text: gṛhān emi mánasā modamāno ”rjaṁ bibhrad vasumatis sumedhā ’ghoreṇa cakṣuṣā mitriyeṇa gṛhāṇāṁ paśyaṅ paya ut tarāmi. ⌊HGS. (i. 29. 1 a) and Āp. (vi. 27. 3) have a verse whose c is our a (but Āp. has vaḥ suvaniḥ), and whose d is Ppp's a (but Āp. has āi ’mi).⌋
 </details>
 <details><summary>Griffith</summary>

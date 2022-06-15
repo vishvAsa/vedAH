@@ -2,32 +2,24 @@
 title = "००५ स्वापनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/005_svApanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/_index.md">
+<details open><summary><h2>5. An incantation to put to sleep. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वापनम्।  
-१-७ ब्रह्म। स्वापनं, वृषभः। अनुष्टुप्,२ भुरिक्, ७ पुरस्ताज्ज्योतिस्त्रिष्टुप्।  
-
+१-७ ब्रह्म। स्वापनं, वृषभः। अनुष्टुप्,२ भुरिक्, ७ पुरस्ताज्ज्योतिस्त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/005_svApanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—svāpanam, vārṣabham. ānuṣṭubham: 2. bhurij; 7. purastājjyotis triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv., next after our hymn 4. Part of the verses are RV. vii. 55. 5-8. Used by Kāuś. among the women's rites, in a rite (36. 1 ff.) for putting to sleep a woman and her attendants, in order to approach her safely.
 
 
-##### Translations
+#### Translations
 Translated: Aufrecht, Ind. Stud. iv. 340; Grill, 51, 119; Griffith, i. 135; Bloomfield, 105, 371; Weber, xviii. 20.—Discussed by Pischel, Ved. Stud. ii. 55 f.; see also Lanman, Reader, p. 370, and references; further, the RV. translators; and Zimmer, p. 308.
 </details>
 <details><summary>Griffith</summary>

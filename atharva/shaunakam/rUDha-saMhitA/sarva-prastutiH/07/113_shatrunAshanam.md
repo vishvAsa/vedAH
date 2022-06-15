@@ -2,33 +2,25 @@
 title = "११३ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/113_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/_index.md">
+<details open><summary><h2>113 (118). Against a (woman) rival: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-२ भार्गवः। तृष्टिका। १ विराडनुष्टुप्, २ शंकुमती चतुष्पदा भुरिगुष्णिक्।  
-
+१-२ भार्गवः। तृष्टिका। १ विराडनुष्टुप्, २ शंकुमती चतुष्पदा भुरिगुष्णिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/113_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhārgava.—dvyṛcam. tṛṣṭikādevatyam. 1. virāḍ anuṣṭubh; 2. śan̄kumatī 4-p. bhurig uṣṇih.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Used by Kāuś. (36. 38), in one of the rites concerning women, against a wife's lover, with a plant called bāṇāparṇī 'arrow-feather' (Dārila, ⌊śirapun̄khā: for which Bl. conjectures⌋ śarapun̄khā, which is Thephrosia purpurea
 ⌊Roth⌋, though T. spinosa is the spinous species).
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>

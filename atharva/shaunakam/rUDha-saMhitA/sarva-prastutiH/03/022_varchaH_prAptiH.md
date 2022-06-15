@@ -2,32 +2,24 @@
 title = "०२२ वर्चः प्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/022_varchaH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/_index.md">
+<details open><summary><h2>22. To the gods: for splendor (várcas). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वर्चः प्राप्तिः।  
-१-६ वसिष्ठः। वर्चः, बृहस्पतिः, विश्वे देवाः। अनुष्टुप्, १ विराट् त्रिष्टुप्, ३ पञ्चपदा परानुष्टुप् विराडतिजगती, ४ त्र्यवसाना षट् पदा जगती।  
-
+१-६ वसिष्ठः। वर्चः, बृहस्पतिः, विश्वे देवाः। अनुष्टुप्, १ विराट् त्रिष्टुप्, ३ पञ्चपदा परानुष्टुप् विराडतिजगती, ४ त्र्यवसाना षट् पदा जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/022_varchaH_prAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Vasiṣṭha.—varcasyam. bārhaspatyam uta vāiśvadevam. ānuṣṭubham: 1. virāṭ triṣṭubh; 3. 5-p. parānuṣṭub virāḍatijagatī; 4. 3-av. 6-p. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/022_varchaH_prAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (except vs. 6) in Pāipp. iii. Is reckoned to the varcasya gaṇa (Kāuś. 12. 10, note), and used in a charm for splendor (13. 1), with binding on an amulet of ivory. The comm. quotes the hymn also as employed by the Nakṣ. K. in a mahāśānti called brāhmī, for attainment of brahman-splendor; and by Pariś. iv. 1, in the daily morning consecration of an elephant for a king.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 461; Weber, xvii. 282; Griffith, i. 115.
 </details>
 <details><summary>Griffith</summary>

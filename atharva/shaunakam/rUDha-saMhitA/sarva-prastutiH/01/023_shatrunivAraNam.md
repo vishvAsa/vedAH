@@ -2,32 +2,24 @@
 title = "०२३ शत्रुनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/023_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/_index.md">
+<details open><summary><h2>23. Against leprosy: with a healing herb. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
-१-४ अथर्वा। वनस्पतिः(असिक्निः)। अनुष्टुप्।  
-
+१-४ अथर्वा। वनस्पतिः(असिक्निः)। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/023_shatrunivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (śvetalakṣmavināśanāyā 'nenā 'siknīm oṣadhim astāut).—vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i., but defaced, so that for the most part comparison is impossible. Also, with vs. 3 of the next hymn, in TB. (11. 4. 41-2). Used by Kāuś. (26. 22-24), in company with the next following hymn, in a remedial rite (against white leprosy, (śvetakuṣṭha, schol. and comm.).
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 416; Ludwig, p. 506; Grill, 19, 77; Griffith, i. 27; Bloomfield, 16, 266; furthermore, vss. i, 2 by Bloomfield, AJP. xi. 325.—Cf. Bergaigne-Henry, Manuel, p. 135.
 </details>
 <details><summary>Griffith</summary>

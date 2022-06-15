@@ -2,28 +2,20 @@
 title = "००१ ब्रह्मविद्या"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/001_brahmavidyA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/_index.md">
+<details open><summary><h2>1. Mystic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 १-७ वेनः। बृहस्पतिः, आदित्यः। त्रिष्टुप् २, ५ पुरोऽनुष्टुप्।  
-ब्रह्मविद्या।  
-
+ब्रह्मविद्या।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/001_brahmavidyA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Vena.—bārhaspatyam utā ”dityadāivatam. trāiṣṭubham: 2, 5. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Weber's statement, that there are twenty-two hymns of 7 verses each and two of 9, rests on the misprinted number (7, for 9) at the end of hymn 20.⌋
 
 

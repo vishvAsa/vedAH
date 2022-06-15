@@ -2,32 +2,24 @@
 title = "१०८ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/108_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/_index.md">
+<details open><summary><h2>108 (113). Against enemies: to Agni. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-२ भृगुः। अग्निः। १ बृहतीगर्भा त्रिष्टुप्, २ त्रिष्टुप्।  
-
+१-२ भृगुः। अग्निः। १ बृहतीगर्भा त्रिष्टुप्, २ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/108_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—dvyṛcam. āgneyam. trāiṣṭubham: 1. bṛhatīgarbhā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp. Used by Kāuś. (48. 37) in a witchcraft rite with hymns 31, 34, and 59 (see under 31); and both verses separately are reckoned to the duḥsvapnanāśana gaṇa (note to 46. 9).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 </details>
 </details>

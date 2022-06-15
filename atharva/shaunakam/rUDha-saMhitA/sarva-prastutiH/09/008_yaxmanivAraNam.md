@@ -2,32 +2,25 @@
 title = "००८ यक्ष्मनिवारणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/09/008_yaxmanivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/_index.md">
+<details open><summary><h2>8. Against various diseases. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनिवारणम्।  
 १-२२ भृग्वङ्गिराः। सर्वशीर्षामयाद्यपाकरणम्। अनुष्टुप्, १२ अनुष्टुब्गर्भा ककुम्मती चतुष्पदोष्णिक्,  
-१५ विराडनुष्टुप्, २१ विराट् पथ्याबृहती, २२ पथ्यापङ्क्तिः।  
-
+१५ विराडनुष्टुप्, २१ विराट् पथ्याबृहती, २२ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/09/008_yaxmanivAraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—dvāviṅśakam. ⌊anena⌋ sarvaśīrṣāmayādyāmayam ⌊apākarot⌋. ānuṣṭubham: 12. anuṣṭuhgarbhā kakummatī 4-p. uṣṇih; 15. virāḍ anuṣṭubh; 21. virāṭ pathyābṛhatī; 22. pathyāpan̄kti.]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also (except vs. 4) in Pāipp. xvi. Not noticed in Vāit., but quoted (vs. 1) in Kāuś. 32. 18, in a remedial ceremony. ⌊The last two verses are specified (32. 19) as used "with worship of the sun."⌋
 
 
-##### Translations
+#### Translations
 Translated: Zimmer, p. 378; Henry, 105, 141; Griffith, i. 455; Bloomfield, 45, 600.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०९४ सांमनस्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/094_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/_index.md">
+<details open><summary><h2>94. For harmony. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
-१-३ अथर्वाङ्गिराः। सरस्वती। अनुष्टुप्, २ विराड्-जगती।  
-
+१-३ अथर्वाङ्गिराः। सरस्वती। अनुष्टुप्, २ विराड्-जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/094_sAMmanasyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras.—sārasvatyam. ānuṣṭubham. 2. virāḍ jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first verse (= iii. 8. 5; the four preceding verses of iii. 8 occurred elsewhere) is found in Pāipp. xix. The comm. regards it as intended by Kāuś. 12. 5, in a rite for harmony, as, in almost identical terms, he had above (under iii. 8) declared iii. 8. 5, 6 to be intended.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 </details>
 </details>

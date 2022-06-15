@@ -2,32 +2,24 @@
 title = "००४ वाजीकरण"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/04/004_vAjIkaraNa.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/_index.md">
+<details open><summary><h2>4. For recovery of virility: with a plant. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वाजीकरण  
-१-८ अथर्वा । वनस्पतिः, १-२ सूर्यः, प्रजापतिः, ४ इन्द्रः, ५ आपः, सोमः, ६ अग्निः, सरस्वती, ब्रह्मणस्पतिः। अनुष्टप्, ४ पुरउष्णिक्, ६-७ भुरिक्।  
-
+१-८ अथर्वा । वनस्पतिः, १-२ सूर्यः, प्रजापतिः, ४ इन्द्रः, ५ आपः, सोमः, ६ अग्निः, सरस्वती, ब्रह्मणस्पतिः। अनुष्टप्, ४ पुरउष्णिक्, ६-७ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/04/004_vAjIkaraNa.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—aṣṭarcam. vānaspatyam. ānuṣṭubham: 4. purauṣṇih; 6, 7. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iv. (except vs. 7, and in the verse-order 1-3, 5, 8, 4, 6). Used by Kāuś. (40. 14) in a rite for sexual vigor.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 134 and 473; Bloomfield, 31, 369; Weber, xviii. 16.
 </details>
 <details><summary>Griffith</summary>

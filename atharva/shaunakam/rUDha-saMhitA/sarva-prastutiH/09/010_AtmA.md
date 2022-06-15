@@ -2,33 +2,25 @@
 title = "०१० आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/09/010_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/010_AtmA/_index.md">
+<details open><summary><h2>10. Mystic. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
 १-२८ ब्रह्मा। गौः, विराट् अध्यात्मम्, २३ मित्रावरुणौ। त्रिष्टुप्, १,७,१४,१७-१८ जगती,  
-२१ पञ्चपदातिशक्वरी, २४ चतुष्पदा पुरस्कृतिर्भुरिगतिजगती, २, २६-२७ भुरिक्।  
-
+२१ पञ्चपदातिशक्वरी, २४ चतुष्पदा पुरस्कृतिर्भुरिगतिजगती, २, २६-२७ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/09/010_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭāviṅśakam . govirāḍadhyātmadāivatyam (23. māitrāvaruṇī). trāiṣṭubham: 1, 7, 14, 17, 18. jagatī; 21. 5-p. atiśakvarī; 24. 4-p. puraskṛtir bhurig atijagatī; 2, 26, 27. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/010_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This hymn is in RV. a continuation of the preceding; but our vss. 9 and 23 are not found in the RV. with the rest (9 is RV. x. 55. 5 and 23 is RV. i. 152.3); ⌊while of 19, only d is found in RV., making, with the odd fifth pāda of our vs. 21, the first half of RV. i. 164. 42 (42 a, b = 21 e + 19 d); and our 24 (prose) does not occur in the RV. at all⌋. The first 23 verses are found also in Pāipp. xvi. The hymn is not quoted in Kāuś. (except as vs. 20 is also vii. 73. 11); but a few verses (9, 13, 14) are cited in Vāit.
 
 
-##### Translations
+#### Translations
 Translated: as AV. hymn, by Henry, 110, 150; Griffith, i. 464.—For other translations etc. see the introduction to hymn 9.
 </details>
 <details><summary>Griffith</summary>

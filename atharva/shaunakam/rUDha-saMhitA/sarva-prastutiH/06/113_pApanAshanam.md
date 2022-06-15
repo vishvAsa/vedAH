@@ -2,28 +2,20 @@
 title = "११३ पापनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/113_pApanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/_index.md">
+<details open><summary><h2>113. For release from seizure (grā́hi). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापनाशनम्।  
-१-३ अथर्वा। पूषा। त्रिष्टुप्, ३ पङ्क्तिः।  
-
+१-३ अथर्वा। पूषा। त्रिष्टुप्, ३ पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/113_pApanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—pāuṣṇam. trāiṣṭubham: 3. pan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is employed by Kāuś. (46. 26) in company with the preceding hymn, which see. Verse 2 c, d is specified in the course of the rite, as accompanying the depositing of the "upper fetters" in river-foam.
 </details>
 </details>

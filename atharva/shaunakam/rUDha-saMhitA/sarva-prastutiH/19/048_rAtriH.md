@@ -2,32 +2,24 @@
 title = "०४८ रात्रिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/048_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/_index.md">
+<details open><summary><h2>48. To night: for protection. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
-१-६ गोपथः। रात्रिः। अनुष्टुप्, १ त्रिपदाऽर्षी गायत्री, २ त्रिपदा विराडनुष्टुप्, ३ बृहतीगर्भाऽनुष्टुप्, ५ पथ्यापङ्क्तिः।  
-
+१-६ गोपथः। रात्रिः। अनुष्टुप्, १ त्रिपदाऽर्षी गायत्री, २ त्रिपदा विराडनुष्टुप्, ३ बृहतीगर्भाऽनुष्टुप्, ५ पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/048_rAtriH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [As 47.—ṣaṭ. ānuṣṭubham: 1. 3-p. ārṣī gāyatrī; 2. 3-p. virāḍ anuṣṭubh; 3. bṛhatīgarbhā; 5. pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. vi., in connection with hymn 47, with which it also shares its liturgical application.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 305.
 </details>
 <details><summary>Griffith</summary>

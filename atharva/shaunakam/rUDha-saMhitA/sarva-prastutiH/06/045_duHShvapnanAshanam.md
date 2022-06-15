@@ -2,32 +2,24 @@
 title = "०४५ दुःष्वप्ननाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/045_duHShvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/_index.md">
+<details open><summary><h2>45. In atonement of offenses. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
-१-३ अङ्गिराः प्रचेता, यमश्च। दुःष्वप्ननाशनम्। १ पथ्यापङ्क्तिः, २ भुरिक् त्रिष्टुप्, ३ अनुष्टुप्।  
-
+१-३ अङ्गिराः प्रचेता, यमश्च। दुःष्वप्ननाशनम्। १ पथ्यापङ्क्तिः, २ भुरिक् त्रिष्टुप्, ३ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/045_duHShvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras (pracetās) Yamaś ca.—duḥsvapnanāśanadevatyam. 1. pathyāpan̄kti; 2. bhurik triṣṭubh; 3. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. This hymn and the one next following are used together by Kāuś. (46. 9) in a rite against bad dreams; and they are both reckoned (note, ib.) to the duḥsvapnanāśana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 443; Florenz, 305 or 57; Griffith, i. 269; Bloomfield, 163, 483.
 </details>
 <details><summary>Griffith</summary>

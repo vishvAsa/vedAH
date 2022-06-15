@@ -2,27 +2,17 @@
 title = "००५ अध्यात्मम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/13/005_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/_index.md">
+<details open><summary><h2>००५ अध्यात्मम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
-१४ भुरिक्साम्नी त्रिष्टुप्, १५ आसुरी पङ्क्तिः, १६, १९ प्राजापत्याऽनुष्टुप्, १७-१८ आसुरी गायत्री।  
-
+१४ भुरिक्साम्नी त्रिष्टुप्, १५ आसुरी पङ्क्तिः, १६, १९ प्राजापत्याऽनुष्टुप्, १७-१८ आसुरी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/13/005_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Paryāya II.—aṣṭāu. 14. bhurik sāmnī triṣṭubh; 15. āsurī pan̄kti; 16, 19. prājāpatyā ’nuṣṭubh; 17, 18. āsurī gāyatrī.]
-
-
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ कीर्तिश्च यशश्चाम्भश्च

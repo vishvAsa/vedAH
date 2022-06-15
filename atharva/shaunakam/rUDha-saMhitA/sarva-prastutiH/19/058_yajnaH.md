@@ -2,32 +2,24 @@
 title = "०५८ यज्ञः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/058_yajnaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/_index.md">
+<details open><summary><h2>58. For various blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यज्ञः।  
-१-६ ब्रह्मा। यज्ञः, बहुदैवत्यम्। त्रिष्टुप्, २ पुरोऽनुष्टुप्, ३ चतुष्पदाऽतिशक्वरी, ५ भुरिक्।  
-
+१-६ ब्रह्मा। यज्ञः, बहुदैवत्यम्। त्रिष्टुप्, २ पुरोऽनुष्टुप्, ३ चतुष्पदाऽतिशक्वरी, ५ भुरिक्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/058_yajnaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ṣaḍṛcam. mantroktabahudevatyam uta yajñikam. trāiṣṭubham: 2. puro- ‘nuṣṭubh; 3. 4-p. atiśakvarī; 5. bhurij.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/058_yajnaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first four verses occur also in Pāipp. i.; ⌊Roth's Collation, strictly interpreted, means that the whole hymn is found there⌋. The comm. quotes vs. 5 as used in Kāuś. 3. 16; but the verse there intended is evidently ii. 35. 5, of which vs. 5 here is a repetition. At the beginning of his exposition of vs. 1 he says: asmin sūkte manasā nirvartyo yajñaḥ stūyate.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 315.
 </details>
 <details><summary>Griffith</summary>

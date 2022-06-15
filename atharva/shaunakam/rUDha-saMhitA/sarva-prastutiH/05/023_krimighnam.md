@@ -2,32 +2,24 @@
 title = "०२३ क्रिमिघ्नम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/023_krimighnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/_index.md">
+<details open><summary><h2>23. Against worms. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 क्रिमिघ्नम्।  
-१-१३ कण्वः। इन्द्रः। अनुष्टुप्, १३ विराट्।  
-
+१-१३ कण्वः। इन्द्रः। अनुष्टुप्, १३ विराट्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/023_krimighnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāṇva.—trayodaśakam. āindram (krimijambhanāya devān aprārthayat). ānuṣṭubham: 13. virāj.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found, except vss. 10-12, in Pāipp. vii. (vs. 9 coming before vs. 6). Used by Kāuś. (29. 20) in a healing ceremony against worms; part of the last verse (13 c) is specially quoted (29. 24) with the direction "do as prescribed in the text." ⌊Cf. hymns 31 and 32 of book ii.⌋
 
 
-##### Translations
+#### Translations
 Translated: Kuhn, KZ. xiii. 140; Ludwig, p. 501; Griffith, i. 226; Bloomfield, 23, 452; Weber, xviii. 257.—See Bergaigne-Henry, Manuel, p. 148.
 </details>
 <details><summary>Griffith</summary>

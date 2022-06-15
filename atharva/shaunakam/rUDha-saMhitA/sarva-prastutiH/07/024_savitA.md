@@ -2,32 +2,24 @@
 title = "०२४ सविता"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/024_savitA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/_index.md">
+<details open><summary><h2>24 (25). To various gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सविता।  
-१ ब्रह्मा। इन्द्रः, अग्निः, विश्वे देवाः, मरुतः, सविता, प्रजापतिः अनुमतिः। त्रिष्टुप्।  
-
+१ ब्रह्मा। इन्द्रः, अग्निः, विश्वे देवाः, मरुतः, सविता, प्रजापतिः अनुमतिः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/024_savitA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—sāvitram: trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (59. 19) only with 17 etc.: see under hymn 17.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 10, 62; Griffith, i. 339.
 </details>
 <details><summary>Griffith</summary>

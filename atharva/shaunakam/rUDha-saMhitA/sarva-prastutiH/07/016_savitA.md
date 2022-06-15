@@ -2,32 +2,24 @@
 title = "०१६ सविता"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/016_savitA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/_index.md">
+<details open><summary><h2>16 (17). Prayer to Savitar (or Brihaspati). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सविता  
-१ भृगुः। सविता। त्रिष्टुप्।  
-
+१ भृगुः। सविता। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/016_savitA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—sāvitram. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp., but occurs as VS. xxvii. 8, and in TS. (iv. i. 73) and MS. (ii. 12. 5). Used by Kāuś. (59. 18) in a kāmya rite with hymn 2 etc.: see hymn 2; but to it alone seems to belong (so also comm.) the added direction "wakens a Vedic student ⌊found asleep after sunrise (abhyudita)⌋"; since in Vāit. (5. 9), in the agnyādheya ceremony, one awakens with it priests who may have fallen asleep. Both applications seem to imply (as Henry suggests) the reading bodhaya in a.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 7, 58; Griffith, i. 335.
 </details>
 <details><summary>Griffith</summary>

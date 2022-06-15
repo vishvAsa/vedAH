@@ -2,32 +2,24 @@
 title = "११५ पापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/115_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/_index.md">
+<details open><summary><h2>115. For relief from sin. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
-१-३ ब्रह्मा। विश्वे देवाः। अनुष्टुप्।  
-
+१-३ ब्रह्मा। विश्वे देवाः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/115_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—vāiśvadevam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. For the use of this hymn by Kāug., and in part by Vāit., with the preceding, see under that hymn; Vāit. has this one also alone in the āgrayaṇa iṣṭi (8. 7), with ii. 16. 2 and v. 24. 7; and vs. 3 appears (30. 23) in the sāutrāmaṇī́ next after hymn 114.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith, i. 308; Bloomfield, 164, 529.
 </details>
 </details>

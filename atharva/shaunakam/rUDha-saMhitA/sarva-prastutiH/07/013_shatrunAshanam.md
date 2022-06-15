@@ -2,32 +2,24 @@
 title = "०१३ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/013_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/_index.md">
+<details open><summary><h2>13 (14). Against one's foes. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-२ अथर्वा (द्विषो वर्चो हर्तुकामः)। सूर्यः। अनुष्टुप्।  
-
+१-२ अथर्वा (द्विषो वर्चो हर्तुकामः)। सूर्यः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/013_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (dviṣo varcohartukāmaḥ).—dvyṛcam. sāuryam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Verse 1 found also in Pāipp. xix.* In Kāuś. (48. 35, 36) the hymn is used in a rite of sorcery, against enemies; with the second verse the user goes and looks at them. The mention of the pratīka in the edition of Kāuś. as contained in 58. 11 appears to be an error. On the other hand, the comm. regards this hymn as intended in Kāuś. 39. 26 (not x. 1. 32, as in the edition), in a rite against sorcery. The comm. further quotes the pratīka from the Nakṣatra ⌊error for śānti, Bl.⌋ Kalpa 15, in a rite against nirṛti. *⌊If I understand Roth's note, Ppp. has vs. 1 without variant, and for vs. 2 what is reported below.⌋
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 241; Grill, 23, 179; Henry, 5, 56; Griffith, i. 334; Bloomfield, 93, 544.
 </details>
 <details><summary>Griffith</summary>

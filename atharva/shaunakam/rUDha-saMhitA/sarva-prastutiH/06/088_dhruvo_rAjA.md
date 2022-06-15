@@ -2,32 +2,24 @@
 title = "०८८ ध्रुवो राजा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/088_dhruvo_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/_index.md">
+<details open><summary><h2>88. To establish a sovereign. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ध्रुवो राजा।  
-१-३ अथर्वा। ध्रुवः। अनुष्टुप्, ३ त्रिष्टुप्।  
-
+१-३ अथर्वा। ध्रुवः। अनुष्टुप्, ३ त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/088_dhruvo_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—dhrāuvyam. ānuṣṭubham: 3. triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn does not occur in Pāipp., but its first two verses are RV. x. 173. 4, 5 (continuation of those corresponding to our 87). For its use by Kāuś. with the preceding hymn, see under the latter.
 
 
-##### Translations
+#### Translations
 Translated: by the RV. translators and by Zimmer (p. 163), in part; and Ludwig, p. 255; Griffith, i. 293.
 </details>
 <details><summary>Griffith</summary>

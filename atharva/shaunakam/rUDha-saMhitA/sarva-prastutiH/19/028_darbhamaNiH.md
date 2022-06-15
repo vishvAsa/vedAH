@@ -2,35 +2,27 @@
 title = "०२८ दर्भमणिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/028_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/_index.md">
+<details open><summary><h2>28. For various blessings: with an amulet of darbhá. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
-१-१० ब्रह्मा (सपत्नक्षयकामः)। दर्भमणिः. मन्त्रोक्ताश्च। अनुष्टुप्।  
-
+१-१० ब्रह्मा (सपत्नक्षयकामः)। दर्भमणिः. मन्त्रोक्ताश्च। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/028_darbhamaNiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman (sapatnakṣayakāmaḥ).—daśakam. mantroktadarbhantaṇidevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 [Brahman (sapatnakṣayakāmaḥ).—daśakam. mantroktadarbhantaṇidevatyam. ānuṣṭubham.]
 
 
 The hymn is found also in Pāipp. xiii., with very few variants. The comm. finds it ⌊or rather the whole triad of hymns, 28, 29, 30⌋ used by the Nakṣ. K. ⌊17, 19⌋ in a mahāśānti ceremony called āindrī, with binding on of a darbha amulet, by one desiring victory and the like.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 285.
 </details>
 <details><summary>Griffith</summary>

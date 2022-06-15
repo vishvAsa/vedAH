@@ -2,32 +2,24 @@
 title = "००१ अध्यात्म-प्रकरणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/15/001_adhyAtma-prakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/_index.md">
+<details open><summary><h2>1. Paryāya the first. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्म-प्रकरणम्।  
 १-८ अथर्वा। अध्यात्मं, व्रात्यः। १ साम्नी पङ्क्तिः; २ द्विपदा साम्नी बृहती; ३ एकपदा यजुर्ब्राह्म्यनुष्टुप्;  
-४ एकपदा विराड् गायत्री; ५ साम्नी अनुष्टुप्; ६ त्रिपदा प्राजापत्या बृहती, ७ आसुरी पङ्क्तिः; ८ त्रिपदा अनुष्टुप्।  
-
+४ एकपदा विराड् गायत्री; ५ साम्नी अनुष्टुप्; ६ त्रिपदा प्राजापत्या बृहती, ७ आसुरी पङ्क्तिः; ८ त्रिपदा अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/15/001_adhyAtma-prakaraNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [aṣṭāu. 1. sāmnī pan̄kti; 2. 2-p. sāmni bṛhatī; 3. 1-p. yajurbrāhmy anuṣṭubh; 4. 1-p. virāḍ gāyatrī; 5. sāmny anuṣṭubh; 6. 3-p. prājāpatyā bṛhatī; 7. āsurī pan̄kti; 8. 3-p. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 
 
-##### Translations
+#### Translations
 Translated: Aufrecht, Ind. Stud. i. 130; Griffith, ii. 185.
 </details>
 <details><summary>Griffith</summary>

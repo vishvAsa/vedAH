@@ -2,32 +2,24 @@
 title = "०८४ क्षत्रभृदग्निः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/084_xatrabhRdagniH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/_index.md">
+<details open><summary><h2>84 (89). To Agni: and to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 क्षत्रभृदग्निः।  
-१-३ भृगु। १ जातवेदाःअग्निः, २-३ इन्द्रः। त्रिष्टुप्, १ जगती।  
-
+१-३ भृगु। १ जातवेदाःअग्निः, २-३ इन्द्रः। त्रिष्टुप्, १ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/084_xatrabhRdagniH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—tṛcam. āindra,: 1. āgneyī. trāiṣṭubham: 1. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only the first verse is found in Pāipp., in iii. For the use by Kāuś. and Vāit. (not of vs. 1), see under vss. 2, 3.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 35, 105; Griffith, i. 371.
 </details>
 <details><summary>Griffith</summary>

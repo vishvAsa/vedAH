@@ -2,28 +2,20 @@
 title = "००६ सपत्नहाऽग्निः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/02/006_sapatnahA_agniH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/_index.md">
+<details open><summary><h2>6. Praise and prayer to Agni. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सपत्नहाऽग्निः।  
-१-५ शौनकः(सम्पत्कामः) अग्निः। त्रिष्टुप्, ४ चतुष्पदार्षी पङ्क्तिः, ५ विराट् प्रस्तारपङ्क्तिः।  
-
+१-५ शौनकः(सम्पत्कामः) अग्निः। त्रिष्टुप्, ४ चतुष्पदार्षी पङ्क्तिः, ५ विराट् प्रस्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/02/006_sapatnahA_agniH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śāunaka (sampatkāmaḥ).—āgneyam. trāiṣṭubham: 4. 4-p. ārṣī pan̄kti; 5. virāṭprastārapan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 TS. reads at the end pṛthivyā́s (for cátasras). Ppp. has for b saṁvatsara ṛṣayo yā nu sakhyā, and in c gives dyumnena for divyéna. The comm. glosses samās by saṁvatsarās. ⌊If the translation implies that rocanéna is an instr. of accompaniment, it is less apposite than Mr. Whitney's earlier version, 'shine together with heavenly brightness'—which I take to be Agni's own (cf. RV. x. 4. 2). His brightness is nil by day-time. The "together" were better left out.⌋
 </details>
 <details><summary>Griffith</summary>

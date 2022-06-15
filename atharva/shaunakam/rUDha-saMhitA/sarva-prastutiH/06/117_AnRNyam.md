@@ -2,32 +2,24 @@
 title = "११७ आनृण्यम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/117_AnRNyam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/_index.md">
+<details open><summary><h2>117. For relief from guilt or debt. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आनृण्यम्।  
-१-३ कौशिकः। अग्निः। त्रिष्टुप्।  
-
+१-३ कौशिकः। अग्निः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/117_AnRNyam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. The hymn ⌊not 1 cd, 2 cd⌋ occurs in TB. (iii. 7. 98-9), and parts of it elsewhere, see under the verses. ⌊For 1 and 3, see also v. Schroeder, Tübinger Kaṭha-hss., p. 70 and 61.⌋ Hymns 117-119 are used in Kāuś. (133. 1) in the rite in expiation of the portent of the burning of one's house; and Keś. (to Kāuś. 46. 36) quotes them as accompanying the satisfaction of a debt after the death of a creditor, by payment to his son or otherwise; the comm. gives (as part of the Kāuś. text) the pratīka of 117. ⌊For the whole anuvāka, see under h. 114.⌋ In Vāit. (24. 15), in the agniṣṭoma, h. 117 goes with the burning of the vedi.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 444; Griffith, i. 309.
 </details>
 </details>

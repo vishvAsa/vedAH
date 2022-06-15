@@ -2,26 +2,17 @@
 title = "००९ अध्यात्मम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/13/009_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/_index.md">
+<details open><summary><h2>००९ अध्यात्मम् ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
-५२-५३ प्राजापत्याऽनुष्टुप्, ५४ द्विपदार्षी गायत्री।  
-
+५२-५३ प्राजापत्याऽनुष्टुप्, ५४ द्विपदार्षी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/13/009_adhyAtmam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Paryāya VI.—pañca. 52, 53. prājāpatyā ’nuṣṭubh; 54. 2-p. ārṣī gāyatrī.]
-
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 </details>
 </div>
 ## ०१ उरुः पृथुः

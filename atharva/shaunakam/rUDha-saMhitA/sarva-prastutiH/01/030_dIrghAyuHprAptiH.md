@@ -2,32 +2,24 @@
 title = "०३० दीर्घायुःप्राप्तिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/01/030_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/_index.md">
+<details open><summary><h2>30. For protection: to all the gods. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
-१-४ अथर्वा (आयुष्कामः)। विश्वेदेवाः (१ वसवः, आदित्याः, १-४ देवाः)। त्रिष्टुप्, ३ शाक्वरगर्भा विराड् जगती।  
-
+१-४ अथर्वा (आयुष्कामः)। विश्वेदेवाः (१ वसवः, आदित्याः, १-४ देवाः)। त्रिष्टुप्, ३ शाक्वरगर्भा विराड् जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/01/030_dIrghAyuHprAptiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (āyuṣkāmaḥ).—vāiśvadevam. trāiṣṭubham: 3. śākvaragarbhā virāḍjagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. i., but damaged and only in part legible. The hymn belongs, according to the comm., to the āyuṣya ('for length of life') gaṇa, although not found among those mentioned (Kāuś. 54. 11, note) as composing that gaṇa; it is used in ceremonies for long life by 52. 18 and 59. 1; also, with i. 9 and other hymns, in the reception of a Vedic student (55.17), and in dismissal from Vedic study (139. 15). And vss. 3, 4 appear in Vāit. (4. 4, 15) in connection with different parts of the parvan-sacrifices. The comm. further quotes it from Nakṣ. Kalpa 17 and 18 in two mahāśānti rites, styled āirāvatī and vāiśvadevī, and from Pariśiṣṭa 5. 4, in the puṣpābhiṣeka ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Weber, iv. 424; Ludwig, p. 430; Griffith, i. 34.
 </details>
 <details><summary>Griffith</summary>

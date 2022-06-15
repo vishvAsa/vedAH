@@ -2,32 +2,25 @@
 title = "०२७ सुरक्षा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/027_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/_index.md">
+<details open><summary><h2>27. For protection etc.: with a triple amulet. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
-१-१५ भृग्वङ्गिराः। त्रिवृत्, चन्द्रमाश्च। अनुष्टुप्, ३, ९ त्रिष्टुप्, १० जगती, ११ आर्ची उष्णिक्, १२ आर्च्यनुष्टुप्, १३ साम्नी त्रिष्टुप् (११-१३ एकावसानाः)।  
-
+१-१५ भृग्वङ्गिराः। त्रिवृत्, चन्द्रमाश्च। अनुष्टुप्, ३, ९ त्रिष्टुप्, १० जगती, ११ आर्ची उष्णिक्, १२ आर्च्यनुष्टुप्, १३ साम्नी त्रिष्टुप् (११-१३ एकावसानाः)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/027_suraxA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—pañcadaśakam. trivṛddevatyam uta cāndramasam. ānuṣṭubham: 3, 9. triṣṭubh; 10. jagatī ⌊? see under the verse⌋; 11. ārcy uṣṇih; 12. ārcy anuṣṭubh; 13. sāmnī triṣṭubh (11-13. 1-av.).]
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 
 Found (except verses 12 and 13) also in Pāipp. x. The comm. quotes from the Nakṣ. K. (17, 19) its use, in a mahāśānti called prājāpatyā, by one desiring progeny and cattle, and in case of the loss of progeny, with the binding on of an amulet made of three metals, gold and silver and copper.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 283.
 </details>
 <details><summary>Griffith</summary>

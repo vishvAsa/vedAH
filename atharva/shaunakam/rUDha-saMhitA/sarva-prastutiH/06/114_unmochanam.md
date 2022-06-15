@@ -2,28 +2,20 @@
 title = "११४ उन्मोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/114_unmochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/_index.md">
+<details open><summary><h2>114. Against disability in sacrifice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 उन्मोचनम्।  
-१-३ ब्रह्म। विश्वे देवाः। अनुष्टुप्।  
-
+१-३ ब्रह्म। विश्वे देवाः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/114_unmochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—vāiśvadevam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the only variant in this verse. Then this verse occurs again with a somewhat different version of c, d in TB. ii. 6. 61, with which a version in MS. iii. 11. 10 precisely agrees; and yet again, more slightly different, in TB. iii. 7. 121, with which nearly agree versions in TA. ii. 3. 1 and MS. iv. 14. 17. In TB. ii. 6. 61 (and MS.), the second half-verse reads thus: agnír mā tásmād énaso víśvān múñcatv áṅhasaḥ; in TB. iii. 7. 121, it is ā́dityās tásmān mā muñcata rtásya rténa mā́m utá (TA. itá for utá ⌊cf. v. Schroeder, Tübinger Kaṭha-hss., p. 68⌋; MS. omits mā in c, and has, for d, rtásya tv ènam ā́ ’mútaḥ, with variants for the last two words). VS. xx. 14 has our a, b, without variant ⌊and adds the c, d of TB. ii. 6. 6⌋. ⌊In b, MS. iv. 14. 17 has yád vācā́ ’nṛtam ódima (accent! Kaṭha ūdimá).⌋
 </details>
 </details>

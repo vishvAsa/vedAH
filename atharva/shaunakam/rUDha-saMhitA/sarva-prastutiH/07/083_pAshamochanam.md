@@ -2,32 +2,24 @@
 title = "०८३ पाशमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/083_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/_index.md">
+<details open><summary><h2>83 (88). For release from Varuṇa's fetters. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
-१-४ शुनःशेपः। वरुणः। अनुष्टुप्, २ पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ बृहतीगर्भा त्रिष्टुप्।  
-
+१-४ शुनःशेपः। वरुणः। अनुष्टुप्, २ पथ्यापङ्क्तिः, ३ त्रिष्टुप्, ४ बृहतीगर्भा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/083_pAshamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śunaḥśepa.—caturṛcam. vāruṇam. ānuṣṭubham: 2. pathyāpan̄kti; 3, 4. triṣṭubh (4. bṛhatīgarbkā).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The first two verses are found in Pāipp. xx. The hymn (the whole, says the comm.) is, according to Kāuś. (32. 14), to be repeated in a remedial rite for dropsy, in a hut amid flowing waters; also (127. 4) all the verses in a sacrifice to Varuṇa, after iv. 16. 3, in case of the portent of obscuration of the seven ṛṣis. Vāit. (10. 22) has vs. 1* at the end of the paśubandha, when the victim's heart has been set upon a spit; and vs. 3 in the agnicayana (28. 17), on loosening the cords by which the fire-dish has been carried. The comm. quotes the hymn from Nakṣatra Kalpa (14), with an offering to Varuna in a mahāśānti for portents. *⌊According to Garbe, the whole hymn.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 35, 104; Griffith, i. 370; Bloomfield, 12, 562.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०४३ ब्रह्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/043_brahmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/_index.md">
+<details open><summary><h2>43. To various gods: for attaining heaven. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 ब्रह्मा।  
-१-८ ब्रह्मा। ब्रह्म, बहुदैवत्यम्। त्र्यवसाना शङ्कुमती पथ्यापङ्क्तिः।  
-
+१-८ ब्रह्मा। ब्रह्म, बहुदैवत्यम्। त्र्यवसाना शङ्कुमती पथ्यापङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/043_brahmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—aṣṭāu. bahudevatyam uta brahmadevatyam. 1-8. 3-av. śan̄kumatī pathyāpan̄kti.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. No viniyoga.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 299.
 </details>
 <details><summary>Griffith</summary>

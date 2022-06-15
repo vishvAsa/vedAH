@@ -2,32 +2,24 @@
 title = "०२० यक्ष्मनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/020_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/_index.md">
+<details open><summary><h2>20. Against fever (takmán). ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
-१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्। १ अतिजगती, २ ककुम्मतीप्रस्तारपङ्क्तिः, ३ सतः पङ्क्तिः।  
-
+१-३ भृग्वङ्गिराः। यक्ष्मनाशनम्। १ अतिजगती, २ ककुम्मतीप्रस्तारपङ्क्तिः, ३ सतः पङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/020_yaxmanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgvan̄giras.—yakṣmanāśanadāivatam. 1. atijagatī; 2. kakummatī prastirāpan̄ktiḥ; 3. sataḥpan̄ktiḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Only the last verse is found in Pāipp., in book xiii. Appears in Kāuś. (30. 7) in a remedial rite for bilious fever, and is reckoned (note to 26. 1) to the takmanāśana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Grohmann, Ind. Stud. ix. 384, 393; Ludwig, p. 511; Zimmer, p. 380; Florenz, 273 or 25; Griffith, i. 255; Bloomfield, 3, 468.
 </details>
 <details><summary>Griffith</summary>

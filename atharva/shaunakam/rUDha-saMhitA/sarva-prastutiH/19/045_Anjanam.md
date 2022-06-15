@@ -2,32 +2,24 @@
 title = "०४५ आञ्जनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/045_Anjanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/_index.md">
+<details open><summary><h2>45. With an ointment etc.: for various objects. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आञ्जनम्।  
-१-१० भृगुः। आञ्जनम्, मन्त्रोक्ताः। १-२ अनुष्टुप्, ३-४ त्रिष्टुप्, ६-१० एकावसाना महाबृहती ( ६ विराट् ७-१० निचृत्)।  
-
+१-१० भृगुः। आञ्जनम्, मन्त्रोक्ताः। १-२ अनुष्टुप्, ३-४ त्रिष्टुप्, ६-१० एकावसाना महाबृहती ( ६ विराट् ७-१० निचृत्)।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/045_Anjanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Bhṛgu.—daśa. 1-5. āñjanadevatyam; 6-10. mantroktadevatyam. 1, 2. anuṣṭubh; 3-5. triṣṭubh; 6-10. 1-av. mahābṛhatī (6. virāj; 7-10. nicṛṭ).]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/045_Anjanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Prose in part, vss. 6-10.⌋ Found (except vs. 9) also in Pāipp. xv., next after our 44. The practical use is, according to the comm., the same with that of 44.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 301.
 </details>
 <details><summary>Griffith</summary>

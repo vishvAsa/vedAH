@@ -2,32 +2,24 @@
 title = "०९८ अजरं क्षत्रम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/098_ajaraM_xatram.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/_index.md">
+<details open><summary><h2>98. To Indra: for victory. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अजरं क्षत्रम्।  
-१-३ अथर्वाः। इन्द्रः। त्रिष्टुप्, २ बृहतीगर्भास्तारपङ्क्तिः।  
-
+१-३ अथर्वाः। इन्द्रः। त्रिष्टुप्, २ बृहतीगर्भास्तारपङ्क्तिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/098_ajaraM_xatram.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—āindram. trāiṣṭubham: 2. bṛhatīgarbhā ”stārapan̄ktiḥ.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Besides the uses in Kāuś. of hymns 97-99, as stated under 97, hymn 98 is further applied, with vi. 67, in another battle rite (16. 4); and the schol. add it to vii. 86, 91, etc., in the indramahotsava (note to 140. 6). Vāit. also (34. 13) has it in the sattra, when the king is armed.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 299.
 </details>
 </details>

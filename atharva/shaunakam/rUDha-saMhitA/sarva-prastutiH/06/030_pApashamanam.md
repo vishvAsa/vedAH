@@ -2,32 +2,24 @@
 title = "०३० पापशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/030_pApashamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/_index.md">
+<details open><summary><h2>30. To the śamī́ plant: for benefit to the hair. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापशमनम्।  
-१-३ उपरिबभ्रवः। शमी। जगती, २ त्रिष्टुप्, ३ चतुष्पाच्छंकुमत्यनुष्टुप्।  
-
+१-३ उपरिबभ्रवः। शमी। जगती, २ त्रिष्टुप्, ३ चतुष्पाच्छंकुमत्यनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/030_pApashamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Uparibabhrava.—śāmyam. jāgatam: 2. triṣṭubh; 3. 4-p. kakummaty anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Verse 1 is wholly unconnected in meaning with the others, nor do these clearly belong together. Used by Kāuś. (66. 15) in the savayajñas, at a sava called pāunaḥśila (pāunasira, comm.); and vs. 2 (2 and 3, comm.) in a remedial rite (31. 1).
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 512; Florenz, 288 or 40; Griffith, i. 261.—See also Bergaigne-Henry, Manuel, p. 151.
 </details>
 <details><summary>Griffith</summary>

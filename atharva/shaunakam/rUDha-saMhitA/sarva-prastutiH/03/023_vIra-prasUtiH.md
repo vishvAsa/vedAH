@@ -2,32 +2,24 @@
 title = "०२३ वीर-प्रसूतिः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/023_vIra-prasUtiH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/_index.md">
+<details open><summary><h2>23. For fecundity. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वीर-प्रसूतिः।  
-१-६ ब्रह्मा। चन्द्रमा, योनिः, द्यावापृथिवी। अनुष्टुप्, ५ उपरिष्टाद् भुरिग्बृहती, ६ स्कंधोग्रीवी बृहती।  
-
+१-६ ब्रह्मा। चन्द्रमा, योनिः, द्यावापृथिवी। अनुष्टुप्, ५ उपरिष्टाद् भुरिग्बृहती, ६ स्कंधोग्रीवी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/023_vIra-prasUtiH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—cāndramasam uta yonidevatyam. ānuṣṭubham: 5. upariṣṭābhurigbṛhatī; 6. skandhogrīvībṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found in Pāipp. iii. Used by Kāuś. in the chapters of women's rites, in a charm (35. 3) to procure the conception of male offspring, with breaking an arrow over the mother's head etc.
 
 
-##### Translations
+#### Translations
 Translated: Weber, v. 223; Ludwig, p. 477; Zimmer, p. 319; Weber, xvii. 285; Griffith, i. 116; Bloomfield, 97, 356.
 </details>
 <details><summary>Griffith</summary>

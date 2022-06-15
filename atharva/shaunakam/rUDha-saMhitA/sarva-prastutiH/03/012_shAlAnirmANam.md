@@ -2,28 +2,20 @@
 title = "०१२ शालानिर्माणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/03/012_shAlAnirmANam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/012_shAlAnirmANam/_index.md">
+<details open><summary><h2>12. Accompanying the building of a house. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शालानिर्माणम्।  
-१-९ ब्रह्मा। शाला, वास्तोष्पतिः। त्रिष्टुप्, २ विराड् जगती, ३ बृहती, ६ शक्वरीगर्भा जगती, ७ आर्षी अनुष्टुप्, ८ भुरिक्, ९अनुष्टुप्।  
-
+१-९ ब्रह्मा। शाला, वास्तोष्पतिः। त्रिष्टुप्, २ विराड् जगती, ३ बृहती, ६ शक्वरीगर्भा जगती, ७ आर्षी अनुष्टुप्, ८ भुरिक्, ९अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/03/012_shAlAnirmANam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—navarcam. śālāsūktam. vāstoṣpatiśālādāivatam. trāiṣṭubham: 2. virāḍjagatī; 3. bṛhatī; 6. śakvarīgarbhā jagatī; 7. ārṣy anuṣṭubh; 8. bhurij; 9. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/012_shAlAnirmANam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Ppp. reads abhi instead of upa in d. Pādas a, b are found in PGS. iii. 4. 4, with tiṣṭhatu for -āti; and b in śGS. iii. 3, with tiṣṭha for the same; HGS. (i. 27. 2) has the whole verse, with tiṣṭhati in a, anu (for upa) in d, and suvīrās before sarvav- in c.
 </details>
 <details><summary>Griffith</summary>

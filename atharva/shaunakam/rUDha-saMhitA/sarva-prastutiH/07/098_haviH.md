@@ -2,32 +2,24 @@
 title = "०९८ हविः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/098_haviH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/_index.md">
+<details open><summary><h2>98 (103). With an oblation to India. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 हविः।  
-१ अथर्वा। इन्द्रः, विश्वे देवाः। विराट् त्रिष्टुप्।  
-
+१ अथर्वा। इन्द्रः, विश्वे देवाः। विराट् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/098_haviH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. virāj.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. In Kāuś. (6. 7), the verse accompanies, at the parvan sacrifice, the distribution of barhis to each divinity; and again (88. 6), in the piṇḍapitṛyajña, the sprinkling of rice-grains joined with darbha. In Vāit. (4.6), it goes with the casting of the prastara into the fire in the parvan sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 40, 112; Griffith, i. 377.
 </details>
 </details>

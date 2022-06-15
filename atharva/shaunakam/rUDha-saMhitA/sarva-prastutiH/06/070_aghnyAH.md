@@ -2,32 +2,24 @@
 title = "०७० अघ्न्याः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/070_aghnyAH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/_index.md">
+<details open><summary><h2>70. To attach a cow to her calf. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अघ्न्याः।  
-१-३ काङ्कायनः। अघ्न्याः। जगती।  
-
+१-३ काङ्कायनः। अघ्न्याः। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/070_aghnyAH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kān̄kāyana.—āghnyam. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Not found in Pāipp. Used by Kāuś. (41. 18) in a rite for producing mutual attachment between cow and calf.
 
 
-##### Translations
+#### Translations
 Translated: Grill, 65, 165; Griffith, i. 283; Bloomfield, 144, 493.
 </details>
 <details><summary>Griffith</summary>

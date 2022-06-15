@@ -2,32 +2,24 @@
 title = "०६४ पापमोचनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/064_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/_index.md">
+<details open><summary><h2>64 (66). Against evil influence of a black bird. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
-१-२ यमः। आपः, अग्निः, निर्ऋतिः। १ भुरिगनुष्टुप्, २ न्यङ्कुसारिणी बृहती।  
-
+१-२ यमः। आपः, अग्निः, निर्ऋतिः। १ भुरिगनुष्टुप्, २ न्यङ्कुसारिणी बृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/064_pApamochanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—dvyṛcam. mantroktadevatyam uta nāirṛtam. 1. bhurig anuṣṭubh; 2. nyan̄husāriṇī bṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also, with very different text, in Pāipp. xx. Used by Kāuś. (46. 47), in a rite to avert the evil influence of a bird of ill omen.
 
 
-##### Translations
+#### Translations
 Translated: Grill, 41, 186; Henry, 25, 88; Griffith, i. 357; Bloomfield, 167, 555.
 </details>
 <details><summary>Griffith</summary>

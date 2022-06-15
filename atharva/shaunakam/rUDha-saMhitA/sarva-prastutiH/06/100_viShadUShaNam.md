@@ -2,32 +2,24 @@
 title = "१०० विषदूषणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/100_viShadUShaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/_index.md">
+<details open><summary><h2>100. Against poison. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विषदूषणम्।  
-१-३ गरुत्मान्। वनस्पतिः। अनुष्टुप्।  
-
+१-३ गरुत्मान्। वनस्पतिः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/100_viShadUShaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Garutman.—vānaspatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used by Kāuś. (31. 26) in a remedial rite against various poisons, with aid of earth from an ant-hill etc.; and the comm. ⌊considers this (and not xviii. 4. 2) to be intended at 81. 10⌋ when the sacrificial cake is laid on the breast of a deceased sacrificer on the funeral-pile.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Bergaigne-Henry, Manuel, p. 153; Bloomfield, AJP. vii. 482. Griffith quotes an interesting paragraph about the moisture of the white-ants.
 </details>
 </details>

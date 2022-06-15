@@ -2,32 +2,24 @@
 title = "०१६ वृषरोगशमनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/016_vRSharogashamanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/_index.md">
+<details open><summary><h2>16. Exorcism. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वृषरोगशमनम्।  
-१-११ विश्वामित्रः। एकवृषः। एकावसानं द्वैपदम्, १, ४, ५, ७-१० साम्नी उष्णिक्, २, ३ ,६, आसुरी अनुष्टुप्, ११ आसुरी गायत्री।  
-
+१-११ विश्वामित्रः। एकवृषः। एकावसानं द्वैपदम्, १, ४, ५, ७-१० साम्नी उष्णिक्, २, ३ ,६, आसुरी अनुष्टुप्, ११ आसुरी गायत्री।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/016_vRSharogashamanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Viśvāmitra.—ekādaśakam. ekavṛṣadevatyam. ⌊ekāvasānam.⌋ dvāipadam: 1, 4, 5, 7-10. sāmny uṣṇih; 2, 3, 6. āsury anuṣṭubh; 11. āsurī gāyatrī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 ⌊Not metrical.⌋ Found also in Pāipp. viii. Referred to only in Kāuś. 29. 15, in company with the preceding hymn, as above reported.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 212; Weber, xviii. 222.
 </details>
 <details><summary>Griffith</summary>

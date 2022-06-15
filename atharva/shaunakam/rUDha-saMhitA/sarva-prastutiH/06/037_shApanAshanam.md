@@ -2,32 +2,24 @@
 title = "०३७ शापनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/037_shApanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/037_shApanAshanam/_index.md">
+<details open><summary><h2>37. Against curses. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शापनाशनम्।  
-१-३ अथर्वा (स्वस्त्ययनकामः)। चन्द्रमाः। अनुष्टुप्।  
-
+१-३ अथर्वा (स्वस्त्ययनकामः)। चन्द्रमाः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/037_shApanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (svastyayanakāmaḥ).—cāndramasam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/037_shApanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Quoted by Kāuś. (48. 23) in a witchcraft ceremony (against the effect of an opponent's sorcery, comm.), with giving a pale lump (piṇḍam pāṇḍum: the comm. explains it as a lump of white dirt) to a dog; and vs. 3 is, doubtless correctly, regarded by the comm. as intended at 48. 37 (the pratīka would equally designate vii. 59), with the laying on of fuel from a tree struck by lightning. The hymn is further reckoned (note to 25. 36) to the svastyayana gaṇa.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 297 or 49; Grill, 25, 161; Griffith, i. 264; Bloomfield, 93, 475.
 </details>
 <details><summary>Griffith</summary>

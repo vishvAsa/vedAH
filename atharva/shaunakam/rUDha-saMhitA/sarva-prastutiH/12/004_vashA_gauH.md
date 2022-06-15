@@ -2,32 +2,24 @@
 title = "००४ वशा गौः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/12/004_vashA_gauH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/_index.md">
+<details open><summary><h2>4. The cow (vaśā́) as belonging exclusively to the Brahmans. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वशा गौः।  
-१-५३ कश्यपः। वशा। अनुष्टुप्, ७ भुरिक्, २० विराट्, ३१ उष्णिग्बृहतीगर्भा, ४२ बृहतीगर्भा।  
-
+१-५३ कश्यपः। वशा। अनुष्टुप्, ७ भुरिक्, २० विराट्, ३१ उष्णिग्बृहतीगर्भा, ४२ बृहतीगर्भा।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/12/004_vashA_gauH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Kaśyapa.—tripañcāśat. mantroktavaśādevatyam. ānuṣṭubham: 7. bhurij; 20. virāj; 32. uṣṇigbṛhatīgarbhā; 42. bṛhatīgarbhā.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvii. (with slight differences of verse-order ⌊4, 6, 5, 8, 7, 9 and 17, 19, 18, 20⌋). Not noticed at all in Vāit., and in Kāuś. only once, in 66. 20, where, with x. 10, it (or the first verse) is to be spoken by the giver of a cow, after sprinkling etc.
 
 
-##### Translations
+#### Translations
 Translated; Ludwig, p. 448; Henry, 203, 248; Griffith, ii. 120; Bloomfield, 174, 656.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०६२ पावमानम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/062_pAvamAnam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/_index.md">
+<details open><summary><h2>62. To Vāiśvānara etc.: for purification. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 पावमानम्।  
-१-३ अथर्वा। रुद्रः, वैश्वानरः, वातः, द्यावापृथिवि। त्रिष्टुप्।  
-
+१-३ अथर्वा। रुद्रः, वैश्वानरः, वातः, द्यावापृथिवि। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/062_pAvamAnam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (?).—rāudram uta mantroktadevatyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. (but the first verse is given only by its pratīka, and has not been found elsewhere), and its first two verses in other texts, as noted below. Agrees in use with the preceding hymn as regards the gaṇas to which it is reckoned (Kāuś. 9. 2, and note to 50. 13; Keś. ⌊to 61. 5⌋ and the comm. ⌊page 37 end⌋ further have it, with vi. 19 and 51, in a pavitra gaṇa), and (41. 14) in the rite for good fortune; and it appears (41. 15) in another similar rite, with worship of the rising sun; and is added (note to 41. 13) in one for luck in gambling.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, i. 279.
 </details>
 <details><summary>Griffith</summary>

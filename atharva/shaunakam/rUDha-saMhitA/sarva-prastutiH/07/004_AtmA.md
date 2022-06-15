@@ -2,32 +2,24 @@
 title = "००४ आत्मा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/004_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/004_AtmA/_index.md">
+<details open><summary><h2>4. To the wind-god with his steeds. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
-१ अथर्वा (ब्रह्मवर्चसकामः) । वायुः। त्रिष्टुप्,  
-
+१ अथर्वा (ब्रह्मवर्चसकामः) । वायुः। त्रिष्टुप्,
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/004_AtmA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan (as above).—vāyavyam. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/004_AtmA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx., and in a series of other texts: VS. (xxvii. 33), śB. (iv. 4. 115), MS. (iv. 6. 2), TA. (i. ii. 821), AśS. (v. 18. 5), śśS. (viii. 3. 10). Kāuś. (41. 26) teaches the repetition of the verse three times at the end of a rite for the benefit of a horse; and Vāit. (9. 27: misunderstood by the editor) applies it with an oblation to Vāyu at the cāturmāsya sacrifice.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 2, 49; Griffith, i. 328.
 </details>
 <details><summary>Griffith</summary>

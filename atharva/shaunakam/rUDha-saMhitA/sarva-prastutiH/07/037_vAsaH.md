@@ -2,32 +2,24 @@
 title = "०३७ वासः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/037_vAsaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/037_vAsaH/_index.md">
+<details open><summary><h2>37 (38). The wife to the husband. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 वासः।  
-१ अथर्वा। वासः। अनुष्टुप्।  
-
+१ अथर्वा। वासः। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/037_vAsaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—lin̄goktadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/037_vAsaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Wanting in Pāipp., but perhaps by reason of the lacuna noted under the preceding verse. Employed by Kāuś. (79. 7) in the same ceremony as the preceding hymn, with the direction ity abhichādayati, which may well enough mean, as plainly required by the sense of the verse, 'she envelops him,' but is explained by the schol. as 'one envelops the two spouses.'
 
 
-##### Translations
+#### Translations
 Translated: Weber, Ind. Stud. v. 248; Grill, 55, 179; Henry, 14, 67; Griffith, i. 343; Bloomfield, 96, 546.
 </details>
 <details><summary>Griffith</summary>

@@ -2,28 +2,20 @@
 title = "०११ संपत्कर्म"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/05/011_saMpatkarma.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/_index.md">
+<details open><summary><h2>11. ⌊Dialogue between⌋ Varuṇa and Atharvan. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 संपत्कर्म।  
-१-११ अथर्वा। वरुणः (प्रश्नोत्तरम्)। त्रिष्टुप्, १ भुरिक्, ३ पङ्क्तिः, ६ पञ्चपदा अतिशक्वरी, ११ त्र्यवसाना षट्-पदा अत्यष्टिः।  
-
+१-११ अथर्वा। वरुणः (प्रश्नोत्तरम्)। त्रिष्टुप्, १ भुरिक्, ३ पङ्क्तिः, ६ पञ्चपदा अतिशक्वरी, ११ त्र्यवसाना षट्-पदा अत्यष्टिः।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/05/011_saMpatkarma.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekādaśakam. vāruṇam. trāiṣṭubham: 1. bhurij; 3. pan̄kti; 6. 5-p. atiśakvarī; 11. 3-av. 6-p. atyaṣṭi.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/011_saMpatkarma/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. viii. It is used by Kāuś. only once, and in a connection which casts no light upon it, namely at 12. 1, in a rite for general welfare (one eats a dish of milk-rice cooked on a fire of mādānaka-sticks). It is not quoted at all by Vāit. The interpretation in detail is difficult and far from certain.
 </details>
 <details><summary>Griffith</summary>

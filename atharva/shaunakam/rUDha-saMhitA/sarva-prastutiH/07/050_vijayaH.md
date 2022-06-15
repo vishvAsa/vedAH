@@ -2,28 +2,20 @@
 title = "०५० विजयः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/050_vijayaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/050_vijayaH/_index.md">
+<details open><summary><h2>50 (52). For success with dice. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 विजयः।  
-१-९ अङ्गिराः ( कितववधकामः)। इन्द्रः। अनुष्टुप्, ३, ७ त्रिष्टुप्, ४ जगती, ६ भुरिक् त्रिष्टुप्।  
-
+१-९ अङ्गिराः ( कितववधकामः)। इन्द्रः। अनुष्टुप्, ३, ७ त्रिष्टुप्, ४ जगती, ६ भुरिक् त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/050_vijayaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras (kitavabādhanakāmas*).—navarcam. āindram. ānuṣṭubham: 3, 7. triṣṭubh; 4. jagatī; 6. bhurik triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/050_vijayaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Ppp. reads, in b, viśvāhaṁ, and, for c, evā ’ham amuṁ kitavam. The comm. has vadhyāsam in d. Compare vii. 109. 4, below. The Anukr. overlooks the deficiency in a.
 </details>
 <details><summary>Griffith</summary>

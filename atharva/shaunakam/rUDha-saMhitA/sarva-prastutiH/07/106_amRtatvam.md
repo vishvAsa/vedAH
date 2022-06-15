@@ -2,32 +2,24 @@
 title = "१०६ अमृतत्वम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/106_amRtatvam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/106_amRtatvam/_index.md">
+<details open><summary><h2>106 (111). Deprecation for offenses. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अमृतत्वम्।  
-१ अथर्वा। जातवेदा वरुणश्च। बृहतीगर्भा त्रिष्टुप्।  
-
+१ अथर्वा। जातवेदा वरुणश्च। बृहतीगर्भा त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/106_amRtatvam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—mantroktadāivatam uta jātavedasam (c, d, vāruṇam). bṛhatīgarbhā triṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/106_amRtatvam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. Applied by Kāuś. (6. 2), in the parvan sacrifice, with offerings in expiation of any thing spilt or overlooked in the ceremony; and later (46. 24), when a direction at the sacrifice has not been fully executed. Used also for a similar purpose in Vāit. in the agniṣṭoma (12. 5), and again later (16. 8).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
 </details>

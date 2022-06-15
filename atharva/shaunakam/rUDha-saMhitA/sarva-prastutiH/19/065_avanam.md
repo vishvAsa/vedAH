@@ -2,32 +2,24 @@
 title = "०६५ अवनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/065_avanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/_index.md">
+<details open><summary><h2>65. Praise of the sun. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 अवनम्।  
-१ ब्रह्मा। जातवेदाः, सूर्यश्च। जगती।  
-
+१ ब्रह्मा। जातवेदाः, सूर्यश्च। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/065_avanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Brahman.—ekarcam. jātavedasam; sāuryam. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xvi. The comm. says that hymns 65-67 are shown by their contents to belong to the worship of Sūrya.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 319.
 </details>
 <details><summary>Griffith</summary>

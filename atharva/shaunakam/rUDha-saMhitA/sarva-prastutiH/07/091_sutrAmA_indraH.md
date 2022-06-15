@@ -2,32 +2,24 @@
 title = "०९१ सुत्रामा इन्द्रः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/091_sutrAmA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/091_sutrAmA_indraH/_index.md">
+<details open><summary><h2>91 (96). To Indra: for aid. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 सुत्रामा इन्द्रः।  
-१ अथर्वा। चन्द्रमाः (इन्द्रः)। त्रिष्टुप्।  
-
+१ अथर्वा। चन्द्रमाः (इन्द्रः)। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/091_sutrAmA_indraH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—cāndramasam (!). trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/091_sutrAmA_indraH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 This and the two following hymns are wanting in Pāipp. This one (the comm. says, with 92 and 93 also) is used by Kāuś. (59. 7), with vi. 5 and 6, by one desiring a village; also (140. 6), with v. 3. 11 and vii. 86, to accompany an offering of butter in the indramahotsava; and it is reckoned to the abhaya gaṇa (note to 16. 8), and to the svastyayana gaṇa (note to 25. 36).
 
 
-##### Translations
+#### Translations
 Translated: Henry, 37, 108; Griffith, i. 374.
 </details>
 </details>

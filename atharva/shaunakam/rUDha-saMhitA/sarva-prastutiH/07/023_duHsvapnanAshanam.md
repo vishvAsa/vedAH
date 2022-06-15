@@ -2,32 +2,24 @@
 title = "०२३ दुःस्वप्ननाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/023_duHsvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/_index.md">
+<details open><summary><h2>23 (24). Against ill conditions and beings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 दुःस्वप्ननाशनम्।  
-१ यमः। दुःस्वप्ननाशनम्। अनुष्टुप्।  
-
+१ यमः। दुःस्वप्ननाशनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/023_duHsvapnanAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Yama.—mantroktaduṣvpnanāśanadtvatyam: ānuṣtubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The hymn is merely a repetition of iv. 17. 5 above, and is not found in Pāipp. otherwise than as part of the latter hymn. It is used neither by Kāuś. nor by Vāit. ⌊As to its insertion in the second anuvāka, see p. 389, near top.⌋
 
 
-##### Translations
+#### Translations
 Translated: Henry, 9, 62; Griffith, i. 338.
 </details>
 <details><summary>Griffith</summary>

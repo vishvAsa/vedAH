@@ -2,32 +2,24 @@
 title = "००९ स्वस्तिदा पूषा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/009_svastidA_pUShA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/_index.md">
+<details open><summary><h2>9 (10). Praise and prayer to Pūshan. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 स्वस्तिदा पूषा।  
-१-४ उपरिबभ्रवः। पूषा। त्रिष्टुप्, ३ त्रिपदा आर्षी गायत्री, ४ अनुष्टुप्।  
-
+१-४ उपरिबभ्रवः। पूषा। त्रिष्टुप्, ३ त्रिपदा आर्षी गायत्री, ४ अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/009_svastidA_pUShA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Uparibabhrava.—caturṛcam. pāuṣṇam. trāiṣṭubham: 3. 3-p. ārṣī gāyatrī; 4. anuṣṭubh.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Of this hymn only vs. 4 is found in Pāipp. (xx.). For other correspondences see under the several verses. Kāuś. (52. 12), among the rites for welfare (svastyayana), uses the hymn in one for the recovery of lost articles of property; and verse 2 is reckoned (on account of abhayatamena in b) to the abhaya gaṇa (note to 16. 8). Vāit. (8. 13) makes it accompany a libation to Pūshan in the cāturmāsya ceremony.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 4, 52; Griffith, i. 332; Bloomfield, 159, 542.
 </details>
 <details><summary>Griffith</summary>

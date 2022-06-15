@@ -2,32 +2,24 @@
 title = "००५ जगतो राजा"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/19/005_jagato_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/_index.md">
+<details open><summary><h2>5. Praise and prayer to Indra. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 जगतो राजा  
-१ अथर्वाङ्गिराः। इन्द्रः। त्रिष्टुप्।  
-
+१ अथर्वाङ्गिराः। इन्द्रः। त्रिष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/19/005_jagato_rAjA.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvān̄giras (?).—ekarcam. āindram. trāiṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The verse is RV. vii. 27. 3, without variation, and is found also, with the same text, in Pāipp. xx. The comm. gives as its viniyoga that one who desires riches may worship Indra with it.
 
 
-##### Translations
+#### Translations
 Translated: Griffith, ii. 261; also by the RV. translators.
 </details>
 <details><summary>Griffith</summary>

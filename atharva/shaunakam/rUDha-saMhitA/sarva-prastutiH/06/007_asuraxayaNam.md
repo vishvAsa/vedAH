@@ -2,32 +2,24 @@
 title = "००७ असुरक्षयणम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/007_asuraxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/007_asuraxayaNam/_index.md">
+<details open><summary><h2>7. For blessings. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 असुरक्षयणम्।  
-१-३ अथर्वा। सोमः, अदितिः, ३ देवाः। गायत्री, १ निचृत्।  
-
+१-३ अथर्वा। सोमः, अदितिः, ३ देवाः। गायत्री, १ निचृत्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/007_asuraxayaNam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—sāumyam: 3. vāiśvadevī. gāyatram; 1. nicṛt.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/007_asuraxayaNam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. The hymn appears in Kāuś. (46. 4) as a help in removing obstacles to sacrifice, or an expiation for sacrificing for an improper person; and it is reckoned (note to 25. 36) to the svastyayana gaṇa; for its use by 50. 13, see under vi. 1.
 
 
-##### Translations
+#### Translations
 Translated: Florenz, 256 or 8; Griffith, i. 248.
 </details>
 </details>

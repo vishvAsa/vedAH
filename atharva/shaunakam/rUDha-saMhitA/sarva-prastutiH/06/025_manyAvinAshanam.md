@@ -2,32 +2,24 @@
 title = "०२५ मन्याविनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/06/025_manyAvinAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/_index.md">
+<details open><summary><h2>25. For relief from pains (?) in neck and shoulders. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 मन्याविनाशनम्  
-१-३ शुनःशेपः। मन्याविनाशनम्। अनुष्टुप्।  
-
+१-३ शुनःशेपः। मन्याविनाशनम्। अनुष्टुप्।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/06/025_manyAvinAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [śunaḥśepa.—mantroktamanyā[di]vināśanadevatyam. ānuṣṭubham.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xix. Used in Kāuś. (30. 14) in a healing rite against gaṇḍamālās, with kindling fifty-five paraśu (comm., -śū) leaves by chips.
 
 
-##### Translations
+#### Translations
 Translated: Kuhn, KZ. xiii. 130 (with Germanic parallels); Florenz, 280 or 32; Griffith, i. 258; Bloomfield, 19, 472 (cf. AJP. xi. 323).
 </details>
 <details><summary>Griffith</summary>

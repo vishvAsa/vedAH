@@ -2,32 +2,24 @@
 title = "०३४ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/034_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/_index.md">
+<details open><summary><h2>34 (35). To Agni: against enemies. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१ अथर्वा। जाचवेदाः। जगती।  
-
+१ अथर्वा। जाचवेदाः। जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/034_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—jātavedasam. jāgatam.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also in Pāipp. xx. (but only the first half-verse). Used by Kāuś. (36. 33), in a rite concerning women, to prevent generation of a male child; also (48. 37), with hymn 31 etc., against enemies: see under 31. Vāit. (29. 6) applies the verse, with the next, 35. 1, in the agnicayana, while the bricks called asapatna are laid on the fifth course of the fire-altar.
 
 
-##### Translations
+#### Translations
 Translated: Henry, 13, 66; Griffith, i. 343.
 </details>
 <details><summary>Griffith</summary>

@@ -2,32 +2,24 @@
 title = "०७७ शत्रुनाशनम्"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/077_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/_index.md">
+<details open><summary><h2>77 (82). To the Maruts. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
-१-३ अङ्गिराः।मरुतः। १ त्रिपदा गायत्री, २ त्रिष्टुप्, ३ जगती।  
-
+१-३ अङ्गिराः।मरुतः। १ त्रिपदा गायत्री, २ त्रिष्टुप्, ३ जगती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/077_shatrunAshanam.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [An̄giras.—tṛcam. mantroktamaruddevatākam. 1. 3-p. gāyatrī; 2. triṣṭubh; 3. jagatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 The second and third verses are found also in Pāipp. xx. Used by Kāuś. (48. 38), next after hymn 31 etc., with laying on of fuel from an upright dry tree, in a witchcraft rite. In Vāit. (9. 2) it appears in the cāturmāsya sacrifice, with noon offering to the Maruts.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 373; Henry, 31, 99; Griffith, i. 366.
 </details>
 <details><summary>Griffith</summary>

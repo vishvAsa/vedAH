@@ -2,32 +2,24 @@
 title = "०७३ घर्मः"
 
 +++
-## अधिसूक्तम्
-
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (VH)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/info_vh/07/073_gharmaH.md">
-<details open><summary><h3>अनुक्रमणी (VH) ...{Loading}...</h3></summary>
+<div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/_index.md">
+<details open><summary><h2>73 (77). With a heated offering to the Aśvins. ...{Loading}...</h2></summary>
+<details><summary>VH anukramaṇī</summary>
 
 घर्मः।  
-१-११ अथर्वा। घर्मः, अश्विनौ। त्रिष्टुप्, १, ४, ६ जगती, २ पथ्याबृहती।  
-
+१-११ अथर्वा। घर्मः, अश्विनौ। त्रिष्टुप्, १, ४, ६ जगती, २ पथ्याबृहती।
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/whitney/anukramaNikA/07/073_gharmaH.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
+<details><summary>Whitney anukramaṇī</summary>
 
 [Atharvan.—ekādaśarcam. gharmasūktam. āśvinam uta pratyṛcammantroktadāivatam. trāiṣṭubham: 1, 4, 6. jagatī; 2. pathyābṛhatī.]
-
 </details>
-</div>
-<div class="js_include" newlevelforh1="3" title="अनुक्रमणी (Whitney)" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/_index.md">
-<details open><summary><h3>अनुक्रमणी (Whitney) ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
-##### Comment
+#### Comment
 Found also, except vss. 7-9, in Pāipp. xx. (the first six verses in the order 2, 1, 4, 5, 6, 3); the first six verses, further, in AśS. iv. 7 and śśS. v. 10 (in both, in the order 2, 1, 6, 5, 4, 3); the last five are RV. verses etc.; see under the several verses. The hymn in general does not appear in Kāuś. (the sacrifice which it accompanies not falling within its sphere); but the last verse (so the comm.; it might be ix. 10. 20) is applied (24. 17) in settling the kine in their pasture by one who is going away from home; and again (92. 15), in the madhuparka ceremony, when the presented cow is released instead of being sacrificed. Vāit. uses several of the verses, all in the agnisṣṭoma ceremony: vss. 3 and 4 (14. 5) with the offering of the gharma; vs. 7 (14. 4) in summoning the gharma cow; vs. 11 (14. 9) before the concluding homa.
 
 
-##### Translations
+#### Translations
 Translated: Ludwig, p. 429 (vss. 1-6); Henry, 28, 93; Griffith, i. 361.
 </details>
 <details><summary>Griffith</summary>
