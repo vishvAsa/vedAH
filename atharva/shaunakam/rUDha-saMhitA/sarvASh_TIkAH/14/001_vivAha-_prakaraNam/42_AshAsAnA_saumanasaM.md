@@ -26,3 +26,4 @@ correct *kam* to *kám*.⌋
 
 Saying thy prayer for cheerfulness, children, prosperity, and wealth, Devoted to thy husband, gird thyself for immortality.
 </details>
+
