@@ -6,9 +6,8 @@ title = "०२ धाम्नोधाम्नो राजन्नितो
 <details><summary>Whitney</summary>
 
 ### Translation
-2. From every bond, O king, here, O Varuṇa, release us; if "O waters,  
-inviolable ones!" if "O Varuṇa!" we have said, from that, O Varuṇa,  
-release us.
+2. From every bond, O king, here, O Varuṇa, release us;  
+if "O waters, inviolable ones!" if "O Varuṇa!" we have said, from that, O Varuṇa, release us.
 
 ### Notes
 The whole verse is found in many other texts: VS. vi. 22 **b, c**; TS.  
@@ -37,3 +36,10 @@ sanction our pronouncing the *āmreḍita* as six syllables.⌋
 
 Hence free thou us, King Varuna, from each successive bond and tie. As we have cried, O Varuna! have said, The Waters, they are kine, thence set us free, O Varuna.
 </details>
+
+<details><summary>Keith</summary>
+
+From every rule of thine, O King Varuna, set us free;  
+From whatever oath by the waters, by the kine, by Varuna, we have sworn, From that, O Varuna, set us free.
+</details>
+
