@@ -1,5 +1,5 @@
 +++
-title = "००७ उच्छिष्ट ब्रह्म-सूक्तम्"
+title = "००७ उच्छिष्ट-ब्रह्म-सूक्तम्"
 
 +++
 <div class="js_include" fieldnames="title_whitney" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/_index.md">
