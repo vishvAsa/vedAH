@@ -1,0 +1,122 @@
++++
+title = "16 THE SACRIFICIAL VISION"
+
++++
+
+
+
+
+
+As for Numa himself, they say that he confided so much in the divine that one day, while he was celebrating a sacrifice, when told that enemies were approaching, he smiled and said: “And I am sacrificing.”
+
+—Plutarch, *Numa*, XV, 12
+
+
+
+![image](images/00024.jpeg)
+
+
+
+
+
+
+
+The sacrifice is a journey—linked to a destruction. A journey from a visible place to an invisible place, and back. The point of departure can be anywhere. And also the point of arrival, so long as it is inhabited by the divine. What is destroyed is the energy—an animate or inanimate being—that moves the journey. But it is always considered a living being—an animal or plant or even a liquid that is poured or an edible substance or an object \(a ring or a precious stone or something that is perhaps precious only to the sacrificer\).
+
+This, in a minimum of words, was the doctrine of the Vedic ritualists, expounded in the Brāhmaṇas in thousands and thousands of words. And it didn’t simply describe the Indian way of practicing sacrifice, comparable with countless others. The sacrifice, like the sexual act, can be practiced in many different ways, but it follows an immutable pattern.
+
+Men are continually changing. Their basic physiology remains the same. If a certain interlinked sequence of gestures is to be carried out, certain ways will be constant. The sacrifice is not like the act of running or breathing or sleeping. But it is a sequence of acts that has a certain resemblance to them. It doesn’t matter that the motives are various and complex. In each case they have to follow certain preexisting tracks.
+
+The Vedic ritualists composed their treatises between the tenth and the sixth centuries B.C.E. Nowhere else was the theory of the sacrifice ever developed, varied, explained with such clarity. All other practices and other descriptions—in Polynesia or Africa, in Greece or Palestine—are just particular instances of what may be found in the labyrinths of the Brāhmaṇas.
+
+One day, in late nineteenth-century Paris, an Indologist—Sylvain Lévi—set out to describe as precisely as possible the sequence of actions that govern the sacrifice according to the Brāhmaṇas. Lévi refrained from expressing his own thoughts on the doctrine, except in a few isolated instances. He was convinced that the scholar had only one duty: accuracy.
+
+Very shortly after, two of his students, Hubert and Mauss, outlined a theory of sacrifice—hence of all sacrifices, in every age and in every place—stating at the outset that they would be following the lines traced out in the Brāhmaṇas and in the Pentateuch \(though in fact referring almost exclusively to the Brāhmaṇas\). This declaration was presented as a methodological warning that the authors wished to express at the very beginning of their study. But it was much more. Almost a hundred years later, Valerio Valeri observed that “perhaps more than any other work on sacrifice, that of Hubert and Mauss reflects a traditional priestly viewpoint.” An observation that is not only true, but is to be taken literally. Mauss spoke as a Vedic ritualist disguised as a young sociologist of the Durkheim school, doing much as Sylvain Lévi had previously done, but this time extending his inquiry to the whole of history. And his arguments sounded right, even if they were set out in a form that could be accepted in the scholarly journals published in the West during the years of positivism. Thanks to this approach, the Vedic ritualists could be presented once again in a new guise, without any of their doctrine being left out. It was an indication that such a doctrine had immense vitality—and it was capable of containing within it any other form of what anthropologists called “sacrifice” but for the Vedic ritualists was *action* itself \(in Latin it would have been described as *operari*, hence the German *Opfer*, “sacrifice”\).
+
+\*\*\*
+
+We need only accept one of the most common metaphors—“life is a gift”—and already we are caught in the web that is implicit in the act of giving. Until we discover, at least where there is an exchange between a visible and an invisible subject, that *gift* and *sacrifice* are superimposed and amalgamated:* “Agnaye idaṃ* *na mama,”* “This is for Agni, not mine.” The formula of the *tyāga*, of the “yielding”—or abandonment of the offering to an invisible presence—brings the gift and the sacrifice together once and for all, even in the simplest of rituals. Staal comments: “The *tyāga* is considered, more and more, as the essence of the ritual. The term will have a great destiny in the development of Hinduism. In the *Bhagavad Gītā*, *tyāga* denotes the fact of renouncing the fruits of actions and is recommended as the main aim of human life.” But what are the consequences? Either that world which calls itself modern has to reject certain metaphors \(and this would imply being reduced to a sort of muteness in regard to images\)—or it has to agree to drag a whole uncontainable web of connotations with these metaphors, which oblige us to plunge into the farthest depths of time, thus reaching a point where only the metaphors remain, as if they had the power to cover the totality of existence.
+
+The sacrifice is a gift that has to be destroyed. It would be impious for it to remain intact. Only destruction assures the rightness of the ceremony. Only destruction ensures that we will not be destroyed: “The sacrificer puts himself in debt to Yama in that he spreads grasses over the altar; if he went away without having burned them, they would wring his neck and they would drag him away into the other world.”
+
+\*\*\*
+
+At the origin of the sacrificial vision is the recognition of a debt contracted with the unknown and a gift that is bestowed upon the unknown. No epistemology can alter this view. The concept passes it by, leaving it untouched. What objection can be made to someone feeling in debt toward the unknown and at the same time wanting to offer it a gift? At most, such behavior might suggest a certain madness. But a feeling cannot be refuted. And, before becoming liturgical and metaphysical, the sacrificial vision was a feeling—a chemical reaction that can develop in anyone exposed to existence. This feeling forms the basis of everything—and casts its shadow over everything. Only if it is flimsy can it be dispelled by arguments—from which it could in any case make a quick escape, like an animal that disappears in the forest as soon as the hunter approaches.
+
+A feeling can only be supplanted by a contrary feeling. It is pointless objecting to it with reasonable considerations. Far more effective, far more immediate is the outburst of an extreme eccentric, John Cowper Powys: “Toward these forces, which have summoned us forth from the deep, we have, as men and women, a perfect right to be hostile, to be vindictive, to be blasphemous, to be cynical. To worship these forces with tender solicitude is ridiculous. To prostrate ourselves before them in panic-terror is humiliating and degrading. To seek to propitiate them, to seek to get them ‘on one’s side,’ is natural enough; but whether it is likely to make any difference is another matter\!
+
+“We owe them nothing. *We did not ask to be born.* They deserve no more from us than the rain deserves when it wets us or the sun deserves when it dries us.
+
+“If we do have to invent incantations ‘to get them on our side’ we do not love them the better for that, or admire them the more\! The account is equal between us. They to their ends. We to our ends.”
+
+\*\*\*
+
+There is a *debt* that finds its way into every feeling of gratitude. If at some moment—as a sensation underlying every other—the pure fact of being alive gives rise to a sense of gratitude, that is enough to establish a relationship with an unnamed counterpart to whom that feeling is directed. And even to outline an obligation, which may arise in a whole variety of ways. One of these is the sacrifice.
+
+Sacrifice brings together *debt* and *desire.* Opposing powers: one that invites giving, the other taking. Colliding, they produce destruction. More accurately: the destruction of a living being, even if it is just a plant. This destruction is the element that cannot be removed from the sacrifice. By accepting destruction, desire is saved from itself, through *detachment.*
+
+\*\*\*
+
+Sacrifice is a game where things are never entirely what they are. The sacrificer *is* the victim, but he is never entirely so. As Malamoud writes: “The sacrificer seeks to show that he is the victim and at the same time that he is other than the victim.” When the victim is dismembered, Agni is called to bless it and at the same time to bless the sacrificer. But the ritualist immediately warns: “‘Uniting the blessings, not uniting the bodies.’ By this he means: ‘Unite the blessings but not the bodies’; for if he were to unite the bodies, Agni would burn the sacrificer.” In that case the sacrificer would die, whereas the sacrificer has to make his life longer and better. But the game is all the more perfect when this superimposition appears. The higher the risk, the better the sacred work.
+
+This game in which each element, each entity that has a name, is and at the same time is not another entity, to which it is tied by a kinship, by a bond, by a connection, is the very game of Vedic thought. Every single step, every gesture described there, every formula is an application of it. But how can all this be translated into the language of the Westerner? Is there a word that at least resembles that game and can be used without awkward periphrases? There is such a word—and only one: *analogy.*
+
+\*\*\*
+
+Apart from liturgy, apart from metaphysics, the sacrifice is a character. “The sacrifice… is not just a series of acts, it is also a structure, an organism.” Sometimes it appears as a fleeing antelope, sometimes we hear only its voice: “The sacrifice said: ‘I am afraid of nakedness.’ ‘What is it for you not to be naked?’ ‘That they spread sacrificial grass around me.’” We might ask why the sacrifice is afraid of nakedness, but we immediately feel it has good reason: there is something frightening about nakedness, all the more if it is the sacrifice itself that is naked, in other words something that in a certain way can only be naked, because it is performed *in the open.* The sacrificial grass, which the sacrifice invokes here, lessens the impact of the truth, of its unbearable intractability. But at the same time the sacrifice is “afraid of thirst”: it is afraid of drying up to the extent of being inert and therefore unable to act.
+
+\*\*\*
+
+The sacrifice is an alternation of two gestures: scattering and gathering. The gods sucked the essence of the sacrifice, which for them was as sweet as honey. Then they scattered the shells with a pole. They didn’t want people to reach them. Happy with the “victory” they had gained through the sacrifice, they thought: “May this world of ours be unreachable by men\!” Then the *ṛṣis*, the perennial counterpart of the gods, appeared and collected up the *disiecta membra* of the sacrifice. That “collect,” *sambhṛ-*, also means “prepare,” lay out the objects—the spoons, the wooden sword, the antelope hides, and other items that are the “equipment,” *sambhārāh*, for the sacrifice. The gathering up, on a desolate scene, of the empty shells of the sacrifice, to which the *ṛṣis* devote themselves, is also a refinement of the tools of the trade, an exercise in meter, a series of piano scales. That the sacrifice is an alternation, a combination, a superimposition of two gestures—scattering and gathering—also explains why it is inevitably and immediately conceived of as breathing, systole and diastole, alchemical *solve et coagula.*
+
+\*\*\*
+
+The gods continued to sacrifice even after—thanks to it—they had conquered the sky. This might lead us to think that the sacrifice is the model for every action that is an end in itself, as someone will one day claim in relation to art. Every form of opus would then be an indirect descendant of sacrifice, which—in exactly the same way as alchemy—can claim to be effective only if it exceeds a certain degree of complexity. This is what Prajāpati taught people when he said that they could build the fire altar only by piling a certain number of bricks in a certain way. The right form was therefore a boon, revealed by that being whom the gods sought to reassemble. Prajāpati’s behavior to the gods was like that of a master craftsman with his apprentices. Here you are building too much, here too little. In this way you’ll never succeed. Even though the Vedic liturgists—and Prajāpati before them—never spoke about art, it was exactly that. When, at the opposite end of history, in places and times far removed from any form of liturgy, people began to talk about art in terms of an *absolute*, the memory of Prajāpati was once again revived—and in a way congenial to him, as if such memory were cloaked in a boundless cloud, nourished by what Bloy called “prophetic recklessness.” He was speaking about Lautréamont—one of the first to do so—and wrote: “The undisputable sign of the great poet is *prophetic recklessness*, the disturbing faculty of uttering words without precedent, regardless of people and times, of whose effect he himself is ignorant. This is the mysterious mark of the Holy Spirit on certain sacred or profane foreheads.”
+
+\*\*\*
+
+One of the more tormenting paradoxes that the Vedic ritualists had to consider was this: “Those who presented oblations in former times touched the altar and the oblations in that moment, while they were sacrificing. Thus they became more guilty.” Meanwhile those who refused to sacrifice did not increase the burden of their guilt. This was intolerable. And so “unbelief took hold of men: ‘Those who sacrifice become more guilty and those who do not sacrifice become more prosperous.’”
+
+This led to an extremely serious crisis: “No sacrificial food then came to the gods from the world.” Life itself was in danger of becoming extinct. It was Bṛhaspati, the chaplain to the gods, who suggested a solution to the problem by spreading a layer of *darbha* grass over the altar. And so, “thanks to the sacrificial grass the altar is appeased.” Life then resumed, but the episode was etched into the memory as one of the moments of great danger and uncertainty. Behind that episode was a nagging concern that would remain and that nothing—not even the *darbha* grass—could allay. This was the thought that the substance of the sacrifice—the oblation and the altar—is impregnated with contagious guilt. Sacrifice is above all the place where evil dwells—and from where it can infect those who come into contact with it. The brahmin, as can be seen from this passage, is the one who possesses sufficient strength to absorb the evil, transmitted through contact, in himself. A brahmin is he who, more than anyone else, boldly allows his body to be exposed to evil. Yet over the course of time the brahmin was to become the opposite: the one who most strictly observes the rules that prevent contact with impurity. Continuing along this path, anyone who avoided exposing themselves to evil could become a model of good, hence anyone who avoided performing sacrifices: the most undeserving, cowardly, insignificant beings. And so unbelief took root: through purity. But at this point communication broke down between gods and humans: an example of a stalemate from which the liturgy had to point the way out. How? By following the suggestion of Bṛhaspati, performing sacrifices once again, but spreading a layer of grass over the altar, like a cushion that prevented immediate contact with the guilt. This is one of the many sublime *half measures* by which the liturgy showed how to do something, and at the same time how not to do it. If this way out through gesture was not good enough, all that was left was logical impossibility, which paralyzes and prevents any further thought. The whole of Vedic India was an attempt to *think further.*
+
+\*\*\*
+
+If no one celebrates the rites any longer, if there are no longer any places fit to celebrate them—apart from open countryside, but then the very notion of “open countryside” has become archaic—what is left of the sacrifice? The Vedic ritualists had thought even of this possibility. And their answer: there are still two syllables, *svāhā* \(an invocation, something like “hail\!”\). “*Svāhā* is the sacrifice; thus he makes everything here immediately ready for the sacrifice.” All the differences, ramifications, variations take us back, in the end, to one question: whether or not there is a sacrificial attitude in thought, in action, whether or not the act of making any offering to any invisible presence has meaning. That which indicates the sacrificial attitude, prior to any act, prior to any thought, that which holds it like a sound cell, is a two-syllable invocation: *svāhā*. The presence or absence of those two syllables shows that action and thought have set off in one or other of the two fundamental directions. That’s why it might be said that “*svāhā* is the sacrifice”: that tiny vibration is enough to announce that we have arrived in the world where something will be offered. What is to be offered, and to whom, is in a way secondary to the gesture of that preliminary invocation.
+
+And so it might also be said: “It is only with the offering that a brick becomes whole and complete.” In those words we may find an answer to the question of what is the object of the gesture—an inevitable question, given such a profusion of liturgical gestures. An object—therefore also the object of knowledge—is never just that which is enclosed within a perimeter of matter or within the limits of a definition. To be complete, the object must also include within itself the gesture of the offering—and the entire liturgy is an immense variation on that gesture.
+
+\*\*\*
+
+“The sacrificer being the sacrifice, he thus heals the sacrifice by means of the sacrifice.” Hidden in a sequence of invocations, we find an all-embracing formula, which describes the essence of that action—the sacrifice—which claims that it is everything. In this autistic and tautological vortex, only one word is added: the verb *heal.* The rest consists of grammatical variations on the word *sacrifice.* And if the verb *heal* is the only other word, this already indicates that everything proceeds around a wound, which coincides with life itself.
+
+The sacrifice is a wound. Which has to be healed by inflicting another wound, but *in a certain way.* And, since wound is added to wound, the wound never closes. And so the sacrifice must be performed over and over again.
+
+\*\*\*
+
+The sacrifice is an interrupted, incomplete suicide \(Sylvain Lévi, with his masterly concision: “The only authentic sacrifice would be suicide”\). But the ritualists were used to thinking to the extreme. What would happen if, on that journey toward the sky and coming back from the sky, which is the sacrifice, someone refused to *come back*? It would be a new rite, the *sarvasvāra* \(the ritualists were relentless classifiers\). A rite befitting an old man “who wishes to die.” It will begin with a series of actions and chants that make up the first part of the sacrifice, the part that moves toward the sky. When it is complete, the sacrificer lies down on the ground, with his head covered. Other chants follow. At the end of which the sacrificer *must* die. But if he doesn’t die? The ritualists also thought of this: “If he remains alive, he shall celebrate the last oblation of the *soma* sacrifice, after which he will seek to die of hunger.”
+
+And there is yet one more eventuality: what if someone, before reaching old age, wishes to reach the sky through the sacrifice and not come back to earth? The ritualists advised against it: “People say: ‘A life of a hundred years leads to heaven.’ And so one ought not to yield to one’s desires and die before having reached the last term of life, for this does not lead to heaven.” And we know why: the gods don’t like intruders.
+
+\*\*\*
+
+In thought, there is no evolution but rather an occasional concentration, accumulation, crystallization in particular places at particular times. For *ousía*, it occurred in Greece between the sixth and the fourth centuries B.C.E.; for *sacrifice* in India, between the tenth and sixth centuries B.C.E.; for *hunting* in certain tribes, in various parts of the world, we know not when. Each of these peoples was the most tenacious, most lucid, most obsessive in thinking about what is hidden behind those words. Then time served above all to unlearn, to obfuscate these elements of knowledge. But they remained there, waiting to be picked up once again, expanded, worked out, connected.
+
+Sacrifice is a system that can have countless, uncontrollable variants. Always belonging to the same set. More than being a system, it is an attitude: the sacrificial attitude. It is to be found \(or not\) at every moment in a person’s life. And according to the teachings of the Brāhmaṇas, it is present throughout life, in its perpetual pulsation.
+
+\*\*\*
+
+In the theories of sacrifice, after many twists and turns, we reach a final fork: either sacrifice is a device used by society to ease certain tensions or to satisfy certain needs, in which case it has to be said that it is a ruthless institution based upon a collective illusion that is perpetuated from generation to generation; or it is an attempt by society to blend with nature, taking on certain irreducible characteristics, in which case it must be seen as a form of metaphysics put into action, celebrated and displayed in a formalized sequence of gestures. In the first case, sacrifice would be an official part of society to be rejected without any second thoughts: a society that, in order to sustain itself, needs to choose arbitrary victims, simply because it *must* kill someone, is a society that no enlightened thinking could put forward as a model. In the second case, sacrifice would be a form of metaphysics to be refused or accepted. And an experimental form of metaphysics, based not just on certain propositions, but on certain acts.
+
+\*\*\*
+
+Rudra is the most powerful objection to the sacrificial world of the Vedas. He accompanies it like a shadow, he watches its disruption. In the Black Age, that patient, noble work of sacrificial builders would no longer be feasible. Rudra, the nameless, was to become the ever-present Śiva, already multiform in his names, ruler over every cult. For only Śiva, as obscure as the primordial archer, the unnameable Rudra, resembles the obscurity of time. Only Śiva can absorb time into himself—time which kills without remedy.
+
+Desire, Kāma, swirls about with his sugarcane bow and his five flower-arrows. The only one who can reduce him to ashes is Śiva. This was the obsessive thought: desire that provokes action, that produces fruits. One of these fruits is the world itself—its enchantment. The one who incinerates desire is therefore the destroyer of the world. But does this mean that Śiva would become an enemy of desire? Such a conflict would be too simple, too crude. On the contrary: Śiva is also the one who, more than anyone else, is susceptible to desire, who continually exasperates it, who pushes it to the extreme, who lets it run in his veins—to the point that sometimes we might think that Śiva *is* desire, that Śiva is Kāma.
+
+When Brahmā curses Kāma, he incites him to turn on Śiva, because he knows that only Śiva can crush Kāma. In the same way that he knows that only Kāma can wound Śiva. By bringing Kāma and Śiva together, Brahmā knows that in this way he can avenge himself against the one who has subjugated him \(Kāma\) and the one who has mocked him \(Śiva\). And he hopes they will torment each other endlessly, like two warring brothers.
+
+
+
+
+
+
