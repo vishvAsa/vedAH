@@ -1,0 +1,46 @@
++++
+title = "3 Venkatesvara Sastri and Family"
+
++++
+
+Both contemporary Kapilavayi brothers inherited their father’s passion for the  life of srauta and benefited from a childhood spent not only learning Vedas but  being on the move with their father, uncles, and others, observing sacrifices  ordinary and extraordinary. From seven to twelve years of age Venkatesvara,  born in 1953, learned the Taittiriya Samhita with Apastamba and from thir 
+
+teen to fifteen he undertook the three khandas—adhvaryava, hotriya, and audg atriya—with the aid of a well-worn palm-leaf bundle about twenty inches thick,  “the Srautam” in Sanskrit Telugu script of his grandfather. His next task was  the Rg Veda, Sakala sakha, with Asvalayana. After that came the Atharva Veda,  Saunaka sakha, which he completed in 1979 at age twenty-seven with much 
+
+A Selection of Ahitagni and Other Veda Pandits 121 
+
+inspiration from Lanka. The Sama Veda was not omitted and he learned por tions of what he claims, in accord with his father, to be three different sakha or variants thereof. It was these that he recited in the van in 1980 recounted at  the beginning of this segment. 
+
+His paternal uncle Chinna Rama Sastri retired from service at the  Simhacalam temple and recommended Venkatesvara for the post. Still today  Venkatesvara recites daily as Rg Veda pandit, one who, like his father, claims  the status of catur-vedin. The temple is a famous shape-shifting site in the  history of Hinduism and an important pilgrimage goal. Normally the cen 
+
+tral image is one of the Vaisnava god Narasimha, the fierce Man-lion who,  according to the temple sthala-purana, rescued his devotee Prahlada from  burial at sea by the demon Hiranyakasipu. But on one day of every year the  seemingly solid sandalpaste murti miraculously melts down to something  resembling a linga and, according to many devotees, reveals the true deity  to be Siva! 
+
+At the age of nineteen Venkatesvara married Annadanam Sita Rama  Laksmi, daughter of a Veda pandit in the Aryapathi agrahara near Tenali,  Guntur District, and together in Simhacalam they raised three daughters  and two sons. Venkatesvara was an aggressive, demanding teacher of the  sons, enterprising in method and attempting to succeed where so many had  failed. In April 1992, for example, he was taking his sons along when he  had temple duty. At ages thirteen and eight, both boys had been removed  from school. “Did they like this idea?” was the query for Venkatesvara. “Who  cares? I decided for them.” Rising at 5 am every day they tackled the third  khanda, second panna, a five-hour lesson for the boys and the father’s paray ana simultaneously. Rama Yajna Varaha Narasimha Murti, his upanayana well behind him, was repeating on schedule and Agni Rama Kumar, his  upanayana still weeks ahead, was hearing this for the first time. “He joins  his brother as an ‘outside observer,’ ” confided Venkatesvara, “so when it  is his actual time to ‘study’ he will have experience.” Eventually, however,  both returned to school and six years later Rama achieved Intermediate sta 
+
+tus and prepared for a career in the navy while his younger brother was in  tenth class with his first Veda nearly completed. (See Figure 3.17, Kapilavayi  Venkatesvara and Sita Rama Laksmi, Simhacalam, 1988, and Figure 3.18, the  family in 1999.) 
+
+By May 1998, daughters Sitaram Laksmi, Sita Mahalaksmi, and Sridevi  were all married and soon all produced grandchildren for their parents,  the eldest daughter with a matched pair of twins after delivering two girls.  Twins are regarded with circumspection in Vedic history and require spe 
+
+cial protection. Venkatesvara and Sita Rama Laksmi discussed, as they 
+
+  
+
+Figure 3.17. Kapilavayi Venkatesvara Sastri and Sitarama Laksmi, Simhacalam  1988. 
+
+  
+
+Figure 3.18. Kapilavayi Venkatesvara family, Simhacalam 1999.
+
+A Selection of Ahitagni and Other Veda Pandits 123 
+
+did for three decades, the decision to set the fires and assume the honors  and burdens of agni-hotra. It had been a comfortable life for the family,  living only a few miles west of the sprawling seaport of Visakhapatnam,  population over 2  million, with distractions so foreign to agrahara life.  Venkatesvara, with a good income from Rg Veda recitations, was the first  Veda pandit to own a motorcycle, the first to have a television set, and later  a cell phone. Middle-class comfort and amenities became second nature  and they knew the roles of agni-hotrin and patni would mean a consider able change in life style. 
+
+Sadly, that step was not to be when Sita Rama Laksmi contracted can cer and died at the young age of forty-nine in 2010. Her death was dev astating to the wider family as well as to Venkatesvara, the children, and  grandchildren. Without remarriage, not only was he blocked from setting  fires just as he reached the age of retirement from TTD service, but so  also was younger brother Rama Sastri. Family history repeated itself. Rama  Sastri found himself in the same bind as his uncle Kapilavayi Chinna Rama  Sastri and father Yajnesvara nearly a century ago. They could not set fires  because elder bother Pedda Rama Sastri never married in the course of his  ninety-eight years. 
+
+There is a devastating antiphonal irony here regarding fire. In coastal  Andhra, when a youthful man dies, his widow and her friends and relatives all  gather to lament mournfully “gunda, gunda!” the Telugu word for a pyre or pit  of burning embers meant for fire-walking. In modern India it is no longer the  case that a widow enters her husband’s funeral fire, but so irreversibly altered  is her life that in this stressful moment committing sati appears as prefer 
+
+able option. On the other side is the death of the youthful wife of an aspi rant ahitagni where the setting of fires is prohibited and a sacrificing career is  ruthlessly denied. Venkatesvara confided that his astrological chart indicates  that he will remarry. He wishes to defy that planetary prediction, however, as  remarriage, for the sake of a pure lineage, requires a pre-pubescent bride. That  would not be right, he said in 2014, when he was sixty-one and his older son  already thirty-five. 
+
+In the meantime, fortunes were reversed for the two sons of Venkatesvara  and Sita Rama Laksmi after both achieved certification as Veda pandits  and gained employment by the Andhra Pradesh Department of Temple  Endowments. Rama Yajna does parayana in Kancipakanam, Chittoor District.  He and his wife have a son, Rama Yajnesvara, who lives with his guru, none  other than grandfather Venkatesvara in Simnacalam, and anticipates his  upanayana in 2014. Younger brother Rama Kumar is a Rg Veda pandit in  Visakhapatman and does parayana in an Anjaneya (Hamuman) temple.
+
+124 vedic voices 

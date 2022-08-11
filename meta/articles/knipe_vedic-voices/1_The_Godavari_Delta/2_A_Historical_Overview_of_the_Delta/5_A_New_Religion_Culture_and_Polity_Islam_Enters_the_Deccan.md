@@ -1,0 +1,14 @@
++++
+title = "5 A New Religion, Culture, and Polity: Islam Enters the Deccan"
+
++++
+
+The grandson of Ganapati was Pratapa Rudra who ruled successfully, by most  accounts, from 1289 until the Delhi Sultan Ala-ud-din dispatched armies to  subdue the Kakatiya region. Sieges were laid, bargains were struck, but finally  the well-fortified city of Warangal and abundant Kakatiya armies were no  match for the battle-hardened cavalry tactics and leadership of Ulugh Khan.  Warangal fell in 1322 to the fifth successive Sultanate invasion and a captive  king Pratapa Rudra was under transport toward Delhi when he died near the  Namada River, perhaps by his own hand.15 It is noteworthy that Marco Polo 
+
+14 vedic voices 
+
+was traveling in Thanjavur and elsewhere in Tamil Nadu at the close of the  thirteenth century after Pratapa Rudra ruled the eastern Deccan. Consolidation of territory by the armies of the Delhi sultanate expanded  Muslim administrations south from the Narmada to the Krishna river and  east from the Arabian Sea to the Bay of Bengal, adding to Andhra culture  the Persian, Arabic, and to limited extent Urdu languages, the last written in  a Persian script. The majority of the population, however, remained Hindu.  Minor raja and chieftains continued to fight internal revolts and each other,  aided by the development of gunpowder artillery and new siege techniques  of the fourteenth and fifteenth centuries. The script of the asva-medha, in  essence land grabbing at the expense of neighbors, was acted out even if no  ritual performance was scheduled. One can only imagine the continuing dev astation century after century as hungry armies, their mounts, and supply  trains trampled the crop fields of the fecund green delta and stole grain stores,  coconuts, herds, and perhaps even daughters and young wives before moving  on, only to return on the same route a few seasons later. 
+
+Islam had represented a cultural tectonic shift for India in the north for  centuries before penetration of Muslim armies and civilians into the Deccan.  With conquest of the Godavari Delta, mosques began to replace some Hindu  temples. Already in 1324 Muhammad Tughluq (Ulugh Khan, who assumed the  Tughluq dynastic name after the conquest of Warangal the year before) erected  a mosque at Rajahmundry on the ruins of the Hindu temple of Venugopal.  His cousin Firoz Shah succeeded him in 1351 and helped to extend the Tughluq  dynasty to 1413 in a period of widespread construction of mosques, some cre ated by adding a pulpit after removal of all Hindu murti, allowing their stone  residences to remain intact.16 Under Ala-ud-din (d. 1316) Hindus were forced  to relinquish half of their harvests; now Brahmans felt for the first time the  burden of the jizya poll tax on non-Muslims. The Sultanate of Delhi was ter 
+
+minated by Timur’s dreadful destruction of the city and its Hindu population  in 1398. 

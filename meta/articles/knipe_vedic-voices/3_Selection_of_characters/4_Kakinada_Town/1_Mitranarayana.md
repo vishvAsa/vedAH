@@ -1,0 +1,74 @@
++++
+title = "1 Mitranarayana"
+
++++
+
+Like his departed elders Baballa and Lanka, Bhamidipati Mitranarayana  Sarvatomukha Somayaji (hereafter, Mitranarayana), Sandilya gotra, is the son  of a well-known ahitagni, ghana-pathi, and Veda-bhasya scholar. The father,  Bhamidipati Sesadri Somayaji (c.1909–89), performed his agni-stoma in 1935  when he was in his mid-twenties. Mitranarayana was there for that yajna as  a five-year-old, too young an observer for recollection. Sesadri received certifi 
+
+cates of distinction in Veda and srauta, both an urlam patta and a Bezwada  (Vijayawada) patta, something like receiving PhDs from both Harvard and  Oxford. He and his wife, Surya Somidevamma, whose grandfather, father, and 
+
+A Selection of Ahitagni and Other Veda Pandits 111 
+
+brothers all performed agni-stoma, had ten children, three of them sons, and  Sesadri taught two sons to completion with certification as Veda pandits and  succeeded in marrying one of the seven daughters to a Veda pandit as well.  Lanka, only three years younger than this elder Bhamidipati, was one of his  many other students. When Lanka eventually set his fires, Mitranarayana— married to Lanka’s only daughter, Anasuya—became son-in-law as well as son  of an ahitagni. 
+
+Mitranarayana, the first male child of Seshadri and Surya’s ten children,  was born in 1930. He completed Veda entirely with his father in the village  of Korumilli by age sixteen. Korumilli is near Kapilesvarapuram, the home  village of Duvvuri Yajulu, due north of Nedunuru on the left bank of the  eastward-flowing Gautami-Godavari River. At age fifteen Anasuya crossed  this broad stream to begin her life with Mitranarayana in Korumilli. After  the birth of the first of their seven children, adhana and agni-stoma were per 
+
+formed in 1955 to initiate a brief but intense srauta career. Strongly motivated  toward yajna by his inlaws as well as his natal family, Mitranarayana became  an ahitagni himself at the youthful age of twenty-two, four years earlier than  his father. His agni-stoma occurred before all others reported here—Baballa,  Bulusu Cayanulu, Lanka, Laksminarayana, Bulusu Vyaghresvara, and Bulusu  Kamesvara—with the sole exception of Duvvuri Yajulu. With such an early start  in agni-hotra he was intrigued into further srauta karma and before 1970 had  accomplished a cayana and a sarvato-mukha in Nedunuru, the sarvato-mukha demanding seventy-two rtvij to work at fire altars facing in all four directions.  It was the first in the delta since Renducintala Yajulu had performed one some  fifty years previously. The youthful sacrificer now bore the title Mahagni Catur  Sarvatomukha Yajulu. 
+
+Duvvuri Yajulu, a close relative, was a major source of inspiration, and  the two were mutually supportive even when one or the other was across the  river in Konasima for Vedic learning or srauta service. Throughout the 1950s  and 1960s there was no lack of rtvij support system for routine isti, agrayana,  and sravana-pasu. In a span of only seven years Mitranarayana managed to  perform four significant srauta rituals on top of nityagnihotrin duties. On the  teaching side of his career, however, Mitranarayana was no more successful  than his father-in-law Lanka in transmitting Veda to any of his four sons. Just  as with Lanka, continuity in Veda was assured only by teaching the sons of  others, and this continued into his late seventies. 
+
+Mitranarayana credits Uppuluri Ganapati Sastri, one of the founders of the  TTD parayana program for Veda pandits, for the furtherance of his career in  several ways. Uppuluri, born in Dangeru in 1888 on the Bank Canal directly  east of Korumilli, lived for most of his nearly one hundred years in the District 
+
+112 vedic voices 
+
+headquarters town of Kakinada. Uppuluri brought Mitranarayana to a donated  house in Kakinada in 1977, facilitating his appointment as a Veda pandit in the  Venkatesvara temple only a few miles south in the village of Jagannaikapuram.  The rent-free house enabled him to support a family of nine. For many years  his routine was to bathe, do sandhya-vandana and agni-hotra, eat breakfast,  recite in the temple 8 to 10 am, return home by bus for lunch at 11, teach a  student in the afternoon, sandhya-vandana and agni-hotra again, dinner, and  sleep. By 1992 his TTD salary for parayana was Rs. 1,000 and by 1998 Rs.  1,800 per month. 
+
+The four-altar fire stretched out his enthusiasm for performing further  srauta rituals as yajamana. “By the end of the sarvato-mukha I had vairagya (indifference, even aversion toward) srauta.” But for many years he was and  still is sought as supervisor and rtvij for major and minor sacrifices of others.  For example, by 1998 he had supervised eight paundarika and two vaja-peya as  brahman or adhvaryu and served as udgatr or hotr in numerous other rituals  including naksatra isti and panca-ratna yaga in places such as Machilipatnam.  Finally, he exhausted himself serving as brahman in a paundarika in Vijayawada  that began in late January 2005 and seventy-five-year-old Mitranarayana had to  return to Kakinada to recover. 
+
+As to his own ritual life, after some seven years of continuous agni-hotra in Kakinada he allowed the fires to lapse, rekindling them only for agrayana and sravana-pasu, with prayascitta and subsequent darsa- or purnimasa isti, as  he had moved to a rented house rather than keep his own house. But after  construction of a new private house in an attractive suburban area of Kakinada  he still did not rekindle for continuous agni-hotra. There were various explana tions over the years: the agni-hotra room in the new house was not finished,  his wife’s health was not good, there were not enough rtvij available for isti. 
+
+And it was true that Kakinada had grown increasingly more isolated from  the agrahara of Konasima, and both students and qualified Veda pandits had  dwindled away in numbers. When Uppuluri died in 1988, almost a centenar ian, Vedic life in Kakinada was more or less defined by Mitranarayana alone.  By the spring of 1992 he was reduced to teaching only a retired engineer, two  years his junior, eight hours every day, working on the fourth kanda of the  Taittiriya Samhita in krama patha, the sixty-year-old “student” reading aloud  from a book as Mitranarayana recited with eyes closed, his mind absorbed in  the text he himself had learned in his father’s voice more than half a century  before. It was a moving scene for the dora, one displaying the complex his 
+
+tory of a “text,” the unchanging oral Veda in a changing era of print. Later in  Kakindada there was something of a revival with the establishment of a Veda  patha-sala in a hamlet outside of town. The school lacked srauta expertise, and 
+
+A Selection of Ahitagni and Other Veda Pandits 113 
+
+Mitranarayana, after a request for aid, received five students, ten to twelve  years old, to learn Taittiriya segments on adhana, agni-stoma, and agni-cayana. In his middle years, Mitranarayana was a good-looking man, tall like his  father and father-in-law Lanka. He is likable, with a strong face, his gold ear rings bouncing as he gestures rapidly with hands, arms, head, fingers wag gling with rapid wrist movements to affirm or negate a statement. In April  1992 a “felicitation” was held in Kakinada to honor him, with Remella Surya  Prakasa Avadhani, the stodgy Veda-bhasya scholar from Rajahmundry, as chief  speaker. Mitranarayana was disappointed that father-in-law Lanka was not  hearty enough to travel from Nedunuru for this. Other felicitations and patta certificates occurred in Chennai, Kanci, Tirupati, Rajahmundry, and Delhi.  But he is wary of such honors. “All sorts of temptations get in the way of Vedic  life. ‘We will honor you . . .’ ‘We will photograph you . . .’ ‘We will set up a  statue of you . . .’ That kind of attention can wipe out all sense of devotion and  security and interfere with self-knowledge.” 
+
+By the close of the century Mitranarayana, rail-thin and feeling the weight  of his years, announced abruptly that he had only a few years of active life  remaining. Complete baldness exaggerated a long face bracketed by heavy  gold rings tugging at his earlobes. But well over a decade into the new century  he remains active and highly respected by colleagues young and old. “He is an  excellent scholar in srauta, very much self-sufficient, independent, one who  speaks with authority and erudition” was Duvvuri Yajulu’s observation years  ago. And now Duvvuri Phani ranks him even higher than his own father,  referring to Mitranarayana as a tri-kanda scholar, one with universal knowl edge of the essential three subjects: ritual, worship, and knowledge—karma,  upasana, and jnana, respectively. 
+
+He retains both his instinctive sense of humor and withering sarcasm.  Setting high standards in his own performance, Mitranarayana is also known  for his unusually stringent, at times scathing critiques of others, including both  students with “empty learning” and clueless contemporary colleagues. When  he goes to the Virabhadra temple on Pattisima Island in the Godavari River  he joins a great throng of one to two hundred Veda pandits to recite for much  of Maha-siva-ratri night. He notes that “only five or six” others actually know  correctly the svasti-vacana they have been summoned and paid to recite. And  recently, replacing Duvvuri Yajulu as one of the board of examiners of newly  minted reciters of Veda, he deplored their lack of skill: “I was asked to rank first,  second, third class. What class? About a hundred students came from different  areas. I did not approve of a single one! They did not deserve to pass! So I tried to  remain a spectator and let the other examiners decide.” Regarding Vedic Sanskrit  he often sounds like an American college professor grumbling about current 
+
+114 vedic voices 
+
+students who can neither speak nor write with coherence in their own language.  Mitranarayana sees himself as an outlier, one who is both the last of the old guard  keepers of tradition and a critic of all that has gone wrong in modern life. 
+
+Of today’s youth who attempt to maintain English education alongside  Veda he is contemptuous. Huna-vidya he sees as the main cause of the decline  in Veda and srauta. “Vaidika life has disappeared, the spirit has gone, it is a  period of huna-vidya. . . . The generation of accomplished elders is over. . . .  There are no rtvij-priests, there is no eligibility (adhikara) remaining for  someone to become a sacrificer.” Those srauta rituals still going on are “taste 
+
+less,” he concludes, while admitting that he travels south to participate, even  supervise. “If motives are not pure the performer of rites receives no intended  results. He gets only the pressed stalks, not the sweet juice of the cane.” Here  he expresses special contempt for sacrificers in Krishna District who spend  most of their time demanding money. 
+
+And vehement vituperation Mitranarayana reserves for his aging colleagues  who, unlike himself, “fear death.” When his famous father died in 1989 and  required the brahma-medha funeral deserved by ahitagni, it was difficult to find  experts willing to participate, including a longtime friend and colleague he now  castigates without mercy. “By attending they think they too will die. So I took  the book, read it, did it myself,” he said proudly. “Otherwise, without brahma medha, my father’s funeral would have been that of a dog.” It is possible that  the solicited Veda pandit used Dharmasastra cautions to beg off from fulfilling  the request despite the urgency of a rarely performed ritual.7 
+
+In 1988 Baballa predicted that srauta karma in the delta would last only  another ten years. He was close to the mark. By the century’s end Bulusu  Kamesvara and Mitranarayana were both discussing rekindling. All other  fires were extinguished and no one was convincingly projecting adhana. And  the two remaining ahitagni of Konasima lacked the passion so evident in the  Dendukuri families of Vijayawada in Krishna District or in the Kapilavayi  brothers discussed later. 
+
+Although the son-in-law of Lanka, seemingly a generation younger,  Mitranarayana is still of the “old school” like Lanka and Duvvuri Yajulu. He  adheres to the old calendar, referring to the named years Nandana, Durmukha,  Sarvari, respectively, for his performance of adhana/agni-stoma, agni-cayana,  and then sarvato-mukha. And like Duvvuri Yajulu, he speaks easily of srauta life  as a family vidya, practice. Always reliable for candid remarks, Mitranarayana  seems to enjoy receiving occasional visits from the dora and Krishnayya, the  Andhra University professor. Kakinada is a town drained of Vedic life over  the decades and now busy with its political function as district headquarters.  Discussion of Vedic teaching and especially srauta details brightens his day 
+
+A Selection of Ahitagni and Other Veda Pandits 115 
+
+and energizes him. Today he gesticulates in the front room of a pleasant and  comfortable house with sunlight and breezes filtering through coconut palms.  (See Figure  3.15, Mitranarayana 1998 and Figure  3.16, M.  V. Krishnayya in  Mitranarayana’s house in Kakinada, 2005.) 
+
+Anasuya, inside with domestic chores, always remains within earshot.  A  beautiful daughter, Lanka’s granddaughter seen so often in Nedunuru or  here in Kakinada, serves tea. Mitranarayana and Anasuya now have thirteen  grandchildren. Behind Mitranarayana are shelves loaded with brittle tala-patra 
+
+palm-leaf manuscripts, some well over two hundred years old, many written  in his Veda pandit grandfather’s hand, all carefully handed down from his  
+
+  
+
+
+
+Figure 3.15. Mitranarayana, Kakinada 1998.116 vedic voices 
+
+  
+
+Figure 3.16. M. V. Krishnayya with Mitranarayana, Kakinada 2005. 
+
+ahitagni father. “Recently,” reports Mitranarayana, “a man came from America  and asked for books. So I told him to take all these, and he will come for them.”  On the same wall are class photos from Andhra University in Visakhapatnam  that include two sons, with years of huna-vidya behind them, now well placed  in secular jobs. Bank managers have little use for tala-patra in an unlearned  language. “Once,” says Mitranarayana, resigned to his role as sole survivor of  Vedic srauta tradition in his part of India, “I received a telephone call asking me  to recite Veda over the phone. I was reluctant but my colleagues made me yield.  I asked about results at the other end and they told me it recorded very well and  everyone was pleased. An honorarium of Rs. 1,116 came. What a great profession  this is! All I need is one phone call per day and I don’t have to do anything else!”8 
