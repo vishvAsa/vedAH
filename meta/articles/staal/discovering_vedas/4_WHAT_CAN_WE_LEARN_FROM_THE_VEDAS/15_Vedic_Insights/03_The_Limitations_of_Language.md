@@ -27,7 +27,7 @@ One of these terms is *anirukta* which I translated as ‘ineffable’ for lack 
 
 Though we may take our cue from the Sāmaveda embellishments, the broad category of mantras illustrates the deficiencies of ordinary speech in a different manner. For if it were the case that natural language could do what mantras do, their would be no need for them. I have not been able to state precisely what mantras can and cannot do \(Chapter 11\). They are syntactically similar to bird song which, according to some experts, ‘defies explanation’. We know about mantras even less than about bird song or human language. All are unknown like the depths of the ocean as it appeared to Albert Einstein standing on the beach, trying to see far into the darkness.
 
-Mantras, like sāmans, must belong to the higher levels of the hierarchy of Rigveda 1.164.45. They have been discussed in chapters 6, 7, and 11, especially *Eleven: Mantras*, some are *upā*ṃ*śu*, ‘articulated \(within the mouth\) but inaudible’, sometimes, less technically, rendered as ‘indistinct’. As for rites, some are performed without mantras, that is *tūṣṇīm*, ‘in silence’. Examples are not needed but I shall make some space for them here for the reader to ponder:
+Mantras, like sāmans, must belong to the higher levels of the hierarchy of Rigveda 1.164.45. They have been discussed in chapters 6, 7, and 11, especially *Eleven: Mantras*, some are *upāṃśu*, ‘articulated \(within the mouth\) but inaudible’, sometimes, less technically, rendered as ‘indistinct’. As for rites, some are performed without mantras, that is *tūṣṇīm*, ‘in silence’. Examples are not needed but I shall make some space for them here for the reader to ponder:
 
 ![image](images/000002.jpg)
 

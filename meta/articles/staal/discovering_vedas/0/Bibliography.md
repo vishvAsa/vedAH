@@ -173,7 +173,7 @@ Geldner, Karl Friedrich. 1951. *Der Rig-veda*. Vols. I–III. Cambridge, Mass.: 
 
 \_\_\_\_\_. 1957. *Register, Nachträge und Verbesserungen*. Cambridge, Mass.: Harvard Oriental Series.
 
-Ghosh, Abhijit. 2002. *Ātharva**a* \(*a collection of essays on the AtharvaVeda with special reference to its Paippalāda tradition*\). Kolkata: Sanskrit Book Depot.
+Ghosh, Abhijit. 2002. *Ātharvaṇa* \(*a collection of essays on the AtharvaVeda with special reference to its Paippalāda tradition*\). Kolkata: Sanskrit Book Depot.
 
 Gonda, Jan. 1960. *Die Religionen Indiens*. Vol. I: *Veda und älterer Hinduismus*. Stuttgart: W. Kohlhammer.
 
