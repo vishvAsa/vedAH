@@ -1,5 +1,5 @@
 +++
-title = "19 READINGS"
+title = "READINGS"
 
 +++
 

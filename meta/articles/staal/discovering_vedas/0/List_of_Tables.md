@@ -1,5 +1,5 @@
 +++
-title = "01 List of Tables"
+title = "List of Tables"
 
 +++
 
