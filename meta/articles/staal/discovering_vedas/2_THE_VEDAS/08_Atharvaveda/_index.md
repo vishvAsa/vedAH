@@ -32,7 +32,7 @@ A different hymn \(Paippalāda Saṃhitā 6: 14\) is directed at various noxious
 3. The Grabber that eats what must be groped for, the Groper with a horrible hand, the Shuddering-eyed One with soft fingers, the Nail-strong One with force in the teeth: these do we cause to vanish from here.
 4. The constantly approaching …, the phantom that tries to win \(food\); and also the slimy one with quills: these do we cause to vanish from here.
 5. The Beater with a snout in front—the *ali*ṃ*śa* and the *vatsapa*; the Slipping one whose knot is as \[tight as\] that of a cord—the one belonging to the jungle, and the one belonging to *armas*: these do we cause to vanish from here.
-6. The knee-hairy Asurian demon that roams here, that seeks out the absent-minded one; the Arāyas that are …, that are …, and on the hair, the ones that are Ś*vaki*ṣ*kin*: these do we cause to vanish from here.
+6. The knee-hairy Asurian demon that roams here, that seeks out the absent-minded one; the Arāyas that are …, that are …, and on the hair, the ones that are Ś*vakiṣkin*: these do we cause to vanish from here.
 7. The Asurian fiend who eats a man’s young boys, the hairy, dreadful Arāya who slays and eats men: him do we cause to vanish from here.
 8. The one of the Arāyas, called Vein-eyed, who is in the house, killing where the sun does not reach: him do we cause to vanish from here.
 9. The chewing, robbing Vitūla, and the ever climbing \(?\) Forest-Shriek\(er\); the eater of raw \[flesh\], that seeks out the absent-minded \[person\]; the one running around, wet all over; the deep howling of a wolf: these do we cause to vanish from here.

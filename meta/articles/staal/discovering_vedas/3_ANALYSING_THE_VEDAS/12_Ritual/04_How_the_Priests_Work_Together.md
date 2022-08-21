@@ -3,7 +3,7 @@ title = "04 How the Priests Work Together"
 
 +++
 
-Vedic ritual is a cooperative activity between priests on behalf of the patron or *yajamāna*, who is almost always accompanied by his wife. He will remunerate the priests at the end for their work by giving them a *dak*ṣ*i*ṇ*ā* or ritual gift. This is how Vedic rituals in general are often characterized, and illustrated by descriptions of the more spectacular occasions, such as the Royal Consecration or the famous *aśvamedha* or horse sacrifice. But when we witness the more commonly and frequently performed Śrauta rituals, and study their history, another and different picture emerges.
+Vedic ritual is a cooperative activity between priests on behalf of the patron or *yajamāna*, who is almost always accompanied by his wife. He will remunerate the priests at the end for their work by giving them a *dakṣiṇā* or ritual gift. This is how Vedic rituals in general are often characterized, and illustrated by descriptions of the more spectacular occasions, such as the Royal Consecration or the famous *aśvamedha* or horse sacrifice. But when we witness the more commonly and frequently performed Śrauta rituals, and study their history, another and different picture emerges.
 
 Since the Yajurvedins started re-organizing the ritual, they increasingly emphasized the role and the tasks of priests. They assigned four priests to each of the four Vedas. All sixteen, and in addition an optional Sadasya, who is in charge of the Sadas, are needed to officiate in the Soma and all larger Śrauta rituals that are based upon, or related to them.
 

@@ -21,9 +21,9 @@ B. The second part consists again of four elements but the first consists of two
 
 > May we be masters of wealth\!
 
-C. The third part is the Soma offering. It has the recursive ritual structure studied in Chapter 12 and ends with the exclamation *vau*ṣ*a*ṭ, ‘may \(Agni\) lead \(the offerings to the gods\)\!’.
+C. The third part is the Soma offering. It has the recursive ritual structure studied in Chapter 12 and ends with the exclamation *vauṣa*ṭ, ‘may \(Agni\) lead \(the offerings to the gods\)\!’.
 
-D. The fourth and final part is the culmination of the Soma sequence. It consists again of four elements: 1. Each priest who is about to drink addresses the Adhvaryu: ‘Adhvaryu, invite me.’ 2. The Adhvaryu replies: ‘You are invited’\! 3. Then comes Soma drinking. It is called Soma ‘partaking’, that is, ‘drinking’ or ‘eating’ \(*bhak*ṣ*a*ṇ*a*\), and consists of sipping accompanied by Rigveda recitals. 4. The Adhvaryu recites a long piece from the Rigveda called ‘Long Drink’.
+D. The fourth and final part is the culmination of the Soma sequence. It consists again of four elements: 1. Each priest who is about to drink addresses the Adhvaryu: ‘Adhvaryu, invite me.’ 2. The Adhvaryu replies: ‘You are invited’\! 3. Then comes Soma drinking. It is called Soma ‘partaking’, that is, ‘drinking’ or ‘eating’ \(*bhakṣaṇa*\), and consists of sipping accompanied by Rigveda recitals. 4. The Adhvaryu recites a long piece from the Rigveda called ‘Long Drink’.
 
 The structure of this ritual construction may be expressed by an inverted tree:
 

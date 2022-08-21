@@ -13,7 +13,7 @@ For the Rigveda, there is no reliable translation into English. The two English 
 
 For the Sāmaveda, good chanters may be found through *Vedapā*ṭ*haśāla*s although reciters of Rig- and Yajurvedas are more common. Sāmaveda recordings are available in various formats but generally bereft of good explanations.
 
-For the Yajurveda we have two reliable translations that are old: Keith for the *Taittirīya Sa*ṃ*hitā* of the Black Yajurveda and Eggeling for the Ś*atapatha Brāhma*ṇ*a* of the White Yajurveda. There are rare possibilities, in India, of witnessing authentic performances of Vedic ritual which is as important for the understanding of the Yajurveda as is listening to chants for that of the Sāmaveda.
+For the Yajurveda we have two reliable translations that are old: Keith for the *Taittirīya Sa*ṃ*hitā* of the Black Yajurveda and Eggeling for the Ś*atapatha Brāhmaṇa* of the White Yajurveda. There are rare possibilities, in India, of witnessing authentic performances of Vedic ritual which is as important for the understanding of the Yajurveda as is listening to chants for that of the Sāmaveda.
 
 The Atharvaveda has remained what it has always been: fairly inaccessible. \(Whitney is outdated.\)
 

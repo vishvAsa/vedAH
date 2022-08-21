@@ -7,7 +7,7 @@ The third Vedic science of language as I have reconstructed it may be looked upo
 >
 > A \+ Nominative ending, B \+ Accusative ending.
 
-In order to apply this metarule or *paribhā*ṣ*ā*, we have to treat the element ‘A’ as if it were a Sanskrit word of the object language and attach the Nominative ending to it. Similarly for ‘B’ and the Accusative ending. We met with an example on *Fourteen: Sūtra: Vedic Sciences*: *takāro le lam*. The beginning of the Padapāṭha of Chapter 4 alluded to a case that is a little more interesting: two rules operate on three elements in order to explain \(in modern notation\):
+In order to apply this metarule or *paribhāṣā*, we have to treat the element ‘A’ as if it were a Sanskrit word of the object language and attach the Nominative ending to it. Similarly for ‘B’ and the Accusative ending. We met with an example on *Fourteen: Sūtra: Vedic Sciences*: *takāro le lam*. The beginning of the Padapāṭha of Chapter 4 alluded to a case that is a little more interesting: two rules operate on three elements in order to explain \(in modern notation\):
 >
 > ā *\+ uru \+ aprā*ḥ *> orvaprā*ḥ.
 

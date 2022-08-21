@@ -7,7 +7,7 @@ title = "+3 ANALYSING THE VEDAS"
 
 How to Discover
 
-*We have studied origins and backgrounds in Part I and focused on the Vedas in Part II. The reader should by now be familiar with the subject matter of this book. Part I answered the old questions about Indo-European, Indo-Aryan and other contributions to Indic civilization. Discovering the Vedas depends on the answer to a second and more important question that has never been asked: what have the Vedas contributed to Indic intellectual history? It is clear that the Upaniṣads influenced the philosophies of the Vedānta; and that mantras and rituals are the chief channels through which Vedic contributions entered what came to be known as Hinduism. The second question is concerned with deeper analytical issues. We must do what sage Uddālaka* Ā*ru*ṇ*i told his son* Ś*vetaketu \(‘White Flame’\) to do in the Chāndogya Upaniṣad \(CU 6.12\):*
+*We have studied origins and backgrounds in Part I and focused on the Vedas in Part II. The reader should by now be familiar with the subject matter of this book. Part I answered the old questions about Indo-European, Indo-Aryan and other contributions to Indic civilization. Discovering the Vedas depends on the answer to a second and more important question that has never been asked: what have the Vedas contributed to Indic intellectual history? It is clear that the Upaniṣads influenced the philosophies of the Vedānta; and that mantras and rituals are the chief channels through which Vedic contributions entered what came to be known as Hinduism. The second question is concerned with deeper analytical issues. We must do what sage Uddālaka Āruṇi told his son* Ś*vetaketu \(‘White Flame’\) to do in the Chāndogya Upaniṣad \(CU 6.12\):*
 >
 > *‘Bring a banyan fruit.’*
 

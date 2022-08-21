@@ -11,13 +11,13 @@ Does this ring a bell? The reader wil recall the nonsensical equivalences of the
 
 My second observation is about the infinite. It is referred to by several terms throughout the Vedas and is related to the very large numbers of the Yajurveda, etc., that verge on it. The infinite was loved throughout Indic civilization, but abhorred by the ancient Greeks, from Pythagoras onward. It was ultimately very productive in science and led, in the fourteenth century CE, to infinite power series of pi and the trigonometric functions that Indic mathematicians discovered three centuries before Newton and Leibniz, long after the Vedas.
 
-Long before that, the infinite is also found in a poem about *pūr*ṇ*am*, ‘fullness’ that occurs or has been inserted in some Upaniṣads. Those who composed it understood the mathematical sense of infinity, i.e. something like the following.
+Long before that, the infinite is also found in a poem about *pūrṇam*, ‘fullness’ that occurs or has been inserted in some Upaniṣads. Those who composed it understood the mathematical sense of infinity, i.e. something like the following.
 
 Look at the interval between the integers ‘0’ and ‘1.’ Think of it as a small line segment: /————————/. There are infinitely many points on that segment. Infinitely many of those points, but not all of them, may be represented by *fractions* of the form ‘*m/n*’. This may be shown by cutting the segment into small segments of various sizes. To make it easier, I shall cut it in segments of equal size. We start by cutting the segment in four: /——/——/——/——/ with cuts at ‘1/4’, ‘1/2’ and ‘3/4’. Continue cutting each of those intervals in half, i.e.: ‘1/8’, ‘1/4’, ‘3/8’, ‘1/2’ ‘5/8’, ‘3/4’ and ‘7/8’. This may continue indefinitely. Now return to the interval between ‘0’ and ‘1’ once again and cut it in two pieces, anywhere. The argument we have gone through just now applies to each of the two pieces. It follows that even if we take an infinity away from the segment, an infinity remains:
 >
-> *pūr*ṇ*am ada*ḥ *pūr*ṇ*am idam pūr*ṇ*āt pūr*ṇ*am udacyate*/
+> *pūrṇam ada*ḥ *pūrṇam idam pūrṇāt pūrṇam udacyate*/
 
-> *pūr*ṇ*asya pūr*ṇ*am ādāya pūr*ṇ*am evāvaśi*ṣ*yate*//
+> *pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate*//
 
 > ‘Fullness is there, fullness is here, fullness from fullness proceeds,
 

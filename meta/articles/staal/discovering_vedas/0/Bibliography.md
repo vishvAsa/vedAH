@@ -41,7 +41,7 @@ Bhattacharya, Kamaleswar. 1968. ‘*Upādhi-*, *Upādi-* et *Upādana-* dans le 
 
 Bowring, Philip. 2005. ‘Facing the facts on migration’, *International Herald Tribune*, 11 October.
 
-Brereton, Joel P. 1981. *The* *Ṛgvedic* Ā*dityas.* New Haven: American Oriental Society.
+Brereton, Joel P. 1981. *The* *Ṛgvedic Ādityas.* New Haven: American Oriental Society.
 
 \_\_\_\_\_. 1986. ‘*Tat Tvam Asi* in Context’, *Zeitschrift der deutschen morgenländischen Gesellschaft*, 136: 98–109.
 
