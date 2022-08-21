@@ -1,0 +1,12 @@
++++
+title = "+04 The Four Vedas"
+
++++
+
+
+
+Yājñavalkya is said to have received his mantras directly from the Sun. This captures the notion of timelessness that is not interested in ‘early’ or ‘late’ and is blind to historical development or evolution. I shall make limited use of that synchronistic and analytical perspective because it is a helpful abstraction when using language as a writer must do: it assists our discourse because it looks upon the four Vedas as a kind of transcendental idea that had not yet descended to earth. In actual fact, we shall see that each of the Vedic schools developed in a different place and at a different period. A survey of these schools is a straightforward continuation of the maps of Figures 1 and 2. They show that the Rigveda was composed in the Indus Valley in the west and the other three Vedas originated around the upper and middle courses of the Ganges further east. A closer look reveals that ‘upper’ Ganges refers to Kuru and Pañcāla \(parts of the eastern Punjab, modern Haryana and western UP north of the Ganges\) and ‘middle’ Ganges to Kośala and Videha \(eastern UP and Bihar north of the Ganges\). If we add approximate dates we have a framework for the present chapter. If we add the Vedic compositions themselves, the four Vedas are in hand. To help capture that the next four chapters, 4 to 8, will treat each of them separately.
+
+The reader may wonder how we can be precise about such ancient history especially when our sources are oral. Part of the answer is that the transmission of the Vedas has been remarkably accurate. The rest of it is due to the history and evolution of the Vedic language, which is now fairly well established though it tends to be ignored or neglected by most archaeologists and historians. Alas, when disciplines isolate themselves from each other, progress will soon come to an end. Languages change though not necessarily at the same pace. Just as Chaucer, Shakespeare and W.H. Auden exhibit three stages of the development of English, our tripartite division of the Indus Valley, upper Ganges \(Kuru-Pañcāla\) and middle Ganges \(Kośala and Videha\) corresponds to three stages of development of Vedic, conveniently known as Early, Middle and Late Vedic. I shall use these labels and other variables and treat the three periods one by one, trying to illustrate to what extent the Vedas were connected with each other and to what extent they were artificially put together. On Early Vedic, we can be brief since I have partly dealt with this before.
+
+

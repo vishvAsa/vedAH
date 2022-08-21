@@ -1,0 +1,16 @@
++++
+title = "03 Indic Representations of Spoke-Wheeled Chariots"
+
++++
+
+The Indus Civilization did not have a script but our information on the Vedas is lacking in another respect. The Vedas left no temples, friezes or icons as we have seen. It had ritual enclosures, but they were made of perishable materials and generally used only once. Connections have been sought between the Vedas and a type of grey-ware pottery, but these pots do not provide pictorial representations, let alone of spoke-wheeled chariots which are common, for instance, on Greek vases. The oral tradition speaks loud and clear, but for visual representations we must wait for the Buddhist era, after the Vedic period.
+
+It begins with the columns or pillars erected by the Mauryan emperor Ashoka who reigned from 268 to 231 BCE. The one with lion-capitals from Sarnath, where the Buddha first turned the *dharmacakra*, ‘the wheel of Dharma’, display wheels with spokes and there was originally another large *cakra* on top. Solid enough reasons for it to have become the emblem of modern India. Figure 9 is more specific. It comes from one of the gateways of the Sanchi Stupa and dates from the early first century BCE. It depicts a horse chariot’s procession with clear details, some we have discussed and others we have not: for example, the tying up of the tail of the horse to a strap connected with the neckstrap which is found elsewhere in Sanchi as well. The chariot that is depicted here is used ceremonially, not for hunting or fighting as was frequently depicted in the Near East and Egypt. Ideas behind representations like these are transmitted orally which is likely to have continued during later periods even when writing had become common.
+
+Figure 10 illustrates a hold-up and may be even earlier than Sanchi: it is a rock painting from Morhana Pahar in Mirzapur, dated to the last centuries BCE. It provides again a wealth of detail. The picture on top is taken, more or less, from above. It shows how the draught pole is connected with the yoke and how the reins run separately to the heads of four horses. The axle is at the end of the chariot box and there are six spokes. The traveller is met by two armed men: one who is about to shoot an arrow and the other who stands ready with club and shield. The picture below is taken more or less from the side and is more sketchy.
+
+After these early representations, spoked wheels become abundant in Indic art. A famous example is illustrated in Figure 11: a wheel of the Sun Temple at Konarak, built by Narasimha Deva of the Ganga dynasty between ca. 1238 and 1264. It depicts erotic positions that have to be imagined on this illustration but are said to be common in the Sun’s celestial realm. Some have been provided with Tantric interpretations.
+
+India has preserved the chariot with spoked wheels for almost three millennia. Spoked wheels survive on bi-cycles \(*dvi-cakra*\) and rickshaws. But the even older carts with solid wheels from Harappa and other pre-Vedic civilizations have never died out. They are represented on stone temples \(at Hampi, for example\) and Figure 12 depicts a wooden procession cart from the temple at Kumbakonam. It is called *ratham*.
+
+

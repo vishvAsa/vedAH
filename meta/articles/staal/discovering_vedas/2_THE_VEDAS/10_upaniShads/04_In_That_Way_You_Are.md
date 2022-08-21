@@ -1,0 +1,28 @@
++++
+title = "04 ‘In That Way You Are’"
+
++++
+
+We have encountered several meanings of brahman. It means sublime ‘language’ in the early Rigveda and the brahman priest is an officiant attached to the Atharvaveda. In the Upaniṣads, brahman is something entirely different. It cannot be easily defined and its frequent translation as ‘absolute’ does not contradict the fact that it must sometimes be translated as ‘language’. The word *ātman* is even more intractable. Etymologically related to an Indo-European word for ‘breath’ \(German *Athem*, Dutch *adem*\), it is used in Vedic and Sanskrit as a reflexive pronoun for all three genders and persons, as in English: ‘he did it himself’, ‘they went out by themselves’, ‘the book itself says so’. In English, one cannot say ‘the self’ just as one cannot say ‘the we.’ ‘The I’ is only used by philosophers \(psychologists prefer ‘the ego’\). ‘The self’ and ‘the Self’ occur only in English writings on Indian philosophy.
+
+A simple way of formulating the basic identity taught by the Upaniṣads is: ‘I am Brahman’ \(*aham brahmāsmi*\). That insight can only be obtained from a teacher and its oral transmission goes from person to person, not from an individual to a group. It is not obtained by listening to a lecture, let alone reading. It is not really *transmitted* because it arises in the pupil from within. It dawns upon him when he realizes its truth; and *realize* is the proper word because he realizes himself for which he does not need any evidence from outside. The teacher may have prompted it by a silent mantra or a snap of the finger.
+
+The identity of ātman and brahman is expressed by similes, e.g., light. King Janaka asks Yājñavalkya what its source is. He answers: ‘The sun, your Majesty, is the source of light. It is by the light of the sun that a persons sits down, goes about, does his work and returns.’ Not satisfied, the king asks what happens when the sun sets. Yājñavalkya replaces sun by moon and repeats the same phrases. When sun and moon have set, the answer is fire, followed by voice in case the fire has gone out. When voice has stopped, ‘The self is then his own source of light’ followed by the same refrain. But unlike the knowledge of light, the knowledge of self has no specifics. It seems to answer our first question at the beginning of this book about what Yājñavalkya might have had in mind. But if there is no awareness of specifics, what does Yājñavalkya say?
+
+Perhaps another teacher in another Upaniṣad gives the answer. Uddālaka Āruṇi instructs Śvetaketu in the CU \(6.8–16\). He tells him nine stories, each ending with the famous *Tattvamasi.* But its meaning has been misunderstood for two-and-a-half millennia—another example \(after what I wrote about the Atharvaveda and Obeyesekhere’s thesis\) of a major new discovery in the field of Vedic studies. The customary translation of *Tattvamasi* is ‘Thou Art That.’ But in 1986, Joel Brereton pointed out that this interpretation is not in accordance with the rules of Vedic syntax which require that the neuter pronoun *tat* \(‘that’\) cannot refer to the masculine *tvam*, ‘you’ or ‘Thou’. In Vedic, if you want to say ‘You are that,’ you must say: *sa tvam asi*. Since the only other relevant meanings of *tat* are ‘in that way’, ‘therefore’, or some such translation, *Tattvamasi* Ś*vetaketu* must mean: ‘In that way are you, Śvetaketu\!’
+
+Now the context. Uddālaka Āruṇi tries to explain a certain ‘minuteness’ \(*a*ṇ*iman*\). He returns to it nine times, each time starting with a different preliminary. One starts on the previous evening, when he asks his son to put some salt in a container of water and come back the next day. Next morning, he asks him to find the salt in the water but the son cannot find it.
+
+‘Now, take a sip from this corner,’ says the father. ‘How does it taste?’
+
+‘Salty.’
+
+The father tells him to take a sip from the centre and from another corner, and the son gives the same answers. Then follows the famous statement in its context which is made nine times: ‘That which is this finest minuteness, that the whole world has as its self. That is the truth. That is the self. *Tat tvam asi.’*
+
+I have followed Brereton’s translation, replacing his ‘finest essence’ for *a*ṇ*iman* by the more literal: ‘minuteness.’ I thereby avoid the term ‘essence’, which in English means perfume but also substance, the equivalent of Sanskrit *dravya*, a loaded term in Indian as well as European philosophies, from Plato who exalted it to Heidegger and the existentialists who denounced it in discussions, none of them minute.
+
+Could *Tat* refer to *a*ṇ*iman*? It cannot because that word has the masculine gender also. We are left with ‘Therefore you are.’ No one has challenged Brereton’s interpretation, as far as I know. I can think of only one way one could do it. It is far-fetched but not out of the question because some of the great Upanisadic sages were great eccentrics. Uddālaka Āruṇi might have wanted to impress his son by making not only a Great Statement \(*mahākāvya*\) but also an Outrageous Statement, one that rages beyond humdrum grammar. Its meaning would not be clear, like *aham brahmāsmi,* ‘I am *brahman*,’ but ungrammaticality is not unprecedented. The statement of abandon by the patron: *agnaye ida*ṃ *na mama*, ‘this is for Agni, not for me,’ is ungrammatical as we have seen in Chapter 7.
+
+Having seen what Uddālaka Āruṇi said, what did Yājñavalkya have in mind? I am not sure. Things are different from what they seem to. It shows that more work is needed even on the famous great statements \(*mahāvākya*\) of the Upaniṣads.
+
+

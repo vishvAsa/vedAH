@@ -1,0 +1,14 @@
++++
+title = "01 Mantra and Kalpa"
+
++++
+
+Much of what we found in the preceding chapter is formulated briefly, but clearly, in a post-Vedic work of uncertain date, the Ṛ*gvidhāna*: ‘The mantras attain the \(desired\) result by the correct method \(*vidhi*\) in the *brāhma*ṇ*a*; they give success, when they are employed in the right ritual manner \(*vidhivat*\)’ \(translated by J. Gonda\).
+
+At the end of the previous chapter we have studied the upanayana initiation during which the Gāyatrī mantra is taught to a young student. I have argued that the way it is learned is totally different from the manner in which children learn or rather pick up their native natural language. But just as mantras derive their effectiveness from ritual, and not from language, no Vedic rite should be performed without mantras. In ritual, mantras are also treated differently from the sentences of a language. In the utterance of the latter, shouting, whispering or silence are options that individuals may use on whatever occasions they wish. If I cannot be heard, I may decide to raise my voice. If I wish to inspire confidentiality, I may whisper. But in ritual contexts, the occasions are fixed. When offerings are made, the accompanying mantra ends with *vau*ṣ*a*ṭ\! ‘May \(Agni\) lead the offerings to the gods\!’ The priest should shout the second syllable ṢAṬ\! at the top of his voice. In a larger number of contexts, mantras are recited mentally \(*manasā*\), more specifically *upā*ṃ*śu*, ‘articulated but inaudible’ \(*Seven: Yajurveda*\), which is distinguished from the ritual being performed *tūṣṇīm*, ‘in silence’.
+
+Unlike mantras, ritual consists of acts. I can do no more than give a rough idea of a syntactic study of Vedic ritual. We cannot even envisage instituting a large-scale syntactic comparison between mantras, ritual, language, bird song, other animal sound systems and rituals not to mention music and dance. Such a research programme lies in the future. If it is ever done, the study of Vedic mantras and ritual will be an integral part of it.
+
+A common Indic term for ritual is *karman,* derived from the root *k*ṛ*-* which means ‘to do’. I have used it before and shall use it again, but it means so many other things that it is best avoided. Its vagueness may be an asset when describing references in the Rigveda that are too fragmentary to help us reconstruct specific rituals. In the Yajurveda, where many rituals are known in precise detail from Sūtra texts and performances, I shall use the term *kalpa*, which means both ritual practice and the science of ritual as we have seen. It is derived from a root *kḷp-* which means ‘prepare’ or ‘arrange’. Its derivative *vikalpa* or ‘alternative’ denotes practices and rituals of other schools such as Baudhāyana or Āpastamba—not rival schools since they do not contradict but co-exist and are compatible with each other, as are the different lineages themselves.
+
+
