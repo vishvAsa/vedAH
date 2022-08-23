@@ -29,21 +29,21 @@ In praise of Agni Vaisvanara
 </details>
 </div>
 ## ०१ वऋतावानं वैश्वानरमृतस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
 अज॑स्रं घ॒र्ममी॑महे ॥१॥  
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
 वऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
 अज॑स्रं घ॒र्ममी॑महे ॥१॥  
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_vaRtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>०१ वऋतावानं वैश्वानरमृतस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
