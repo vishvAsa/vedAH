@@ -2,6 +2,16 @@
 title = "०२ महीमू षु"
 
 +++
+<details><summary>भट्टभास्करटीका</summary>
+
+महीं महतीं महनीयां वा मातरं मातृस्थानीयां वा सुव्रतानां शोभनकर्मणां पुरुषाणाम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । ऋतस्य सत्यस्य यज्ञस्य वा पत्नीं पालयित्रीं तुविक्षत्रां बहुलां बहुधनां वा । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । अजरन्तीमविनाशां उरूचीमुरु महतोञ्चतीं बहुप्रकारगातिं वा । 'चौ' इति पूर्वपदस्य दीर्घत्वं उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् ।
+
+**सुशर्माणं** सुसुखाम् । 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् ।  
+**अदितिम्** अखण्डनीयां **सुप्रणीतिं** सुखेन शर्मणां प्रणेत्रीम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । तत्र च 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
+
+ईदृशीं महीं देवीमवसे रक्षणाय तस्यास्तर्पणाय वा हुवेम सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । उ इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
+</details>
+
 
 <details><summary>Whitney</summary>
 
@@ -16,63 +26,16 @@ The verse is also VS. xxi. 5, and is found further in TS. (i. 5. 11⁵),
 MS. (iv. 10. 1), K. (xxx. 4, 5), (śśS. (ii. 2. 14), their only variant  
 being (in all) *huvema* for *havāmahe* at end of **b**; and Ppp. has the  
 same.  
-  
-  
-  
-  
-  
-  
-    
-3 (7. 1). The well-preserving earth, the unenvious sky, the  
-well-sheltering, well-conducting Aditi, the well-oared ship of the gods,  
-unleaking, may we, guiltless, embark on in order to well-being.  
-  
-  
-  
-  
-  
-  
-  
-This verse is also RV. x. 63. 10 (and VS. xxi. 6; TS. i. 5. 11⁵; MS. iv.  
-10. 1; K. ii. 3 ⌊cf. MGS. i. 13. 16, and p. 157⌋), which (as also the  
-others) reads *ánāgasam* at end of **c**. It and the preceding verse are  
-associated in VS.TS.MS., and are so closely kindred in application and  
-expression that, numbered as they are as successive verses in Bp., and  
-lacking the usual sign of the end of a hymn after vs. 2, we naturally  
-enough regarded them as belonging to one continuous hymn. The verse  
-lacks but one syllable of a full *jagatī*. ⌊In **c**, Ppp. has  
-*suvidatrām* (a faulty reminiscence of *sv-aritrām*) *anāgasam.*⌋  
-  
-  
-  
-  
-  
-  
-    
-4 (7. 2). Now, in the impulse of might (*vā́ja*), will we commemorate (?  
-*karāmahe*) with utterance (*vácas*) the great mother, Aditi by name,  
-whose lap is the broad atmosphere; may she confirm to us  
-thrice-defending protection.  
-  
-  
-  
-  
-  
-  
-  
-The first half-verse is found also in VS. (ix. 5 b), TS. (i. 7. 7¹), MS.  
-(i. 11. 1), without variant; the second half-verse, common to them all,  
-is totally different from ours. A whole series of VS. verses begin with  
-*vājasya prasava-* (ix. 23-25 etc.): Weber (*Vājapeya*, p. 796 ff.)  
-renders "Zeuger der Kraft." All the *pada*-mss. read in **c**  
-*upá॰sthaḥ*, but SPP. strangely prefers to substitute *-sthe* on the  
-authority of the comm. The comm. glosses *karāmahe* with *kurmahe*, but  
-then explains it by *stumas;* the true text is perhaps *vácasā́ ”kar-*  
-'would we gain' (Henry translates "puissions-nous la gagner"). TS. has  
-**c** in iii. 3. 11⁴ **c**, and its *pada*-text reads *upá॰sthaḥ*. ⌊Ppp.  
-has for **c** the **c** of VS. etc., and for **d** *sā no devī suhavā  
-śarma yacchatu.*⌋
 </details>
+
+<details><summary>Keith</summary>
+
+The mighty mother of the righteous,  
+The spouse of holy order, let us invoke to aid us,  
+The powerful, the unageing, the wide  
+Aditi, who giveth good protection and good guidance.
+</details>
+
 
 <details><summary>Griffith</summary>
 
