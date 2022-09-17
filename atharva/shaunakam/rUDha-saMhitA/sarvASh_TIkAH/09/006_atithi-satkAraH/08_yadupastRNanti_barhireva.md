@@ -22,3 +22,29 @@ Ppp. omits the second clause of vs. 7, and reads *pari-* for *upa-* in
 
 What they spread upon the floor is just Sacrificial Grass.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यत्। उपऽस्तृणन्ति। बर्हि:। एव। तत्। ६.८।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+संन्यासी और गृहस्थ के धर्म का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) जो कुछ वे [गृहस्थ] (उपस्तृणन्ति) बिछोना करते हैं, (तत्) वह [संन्यासी के लिये] (बर्हिः) कुशासन (एव) ही होता है ॥८॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  संन्यासी लोग अल्पमूल्य वस्तुओं में निर्वाह करके यज्ञसामग्री का ध्यान रखते हैं ॥८॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ८−(यत्) यत्किंचित् (उपस्तृणन्ति) आच्छादनानि कुर्वन्ति (बर्हिः) अ० ५।२२।१। कुशासनम्। यज्ञसामग्री ॥
+</details>
