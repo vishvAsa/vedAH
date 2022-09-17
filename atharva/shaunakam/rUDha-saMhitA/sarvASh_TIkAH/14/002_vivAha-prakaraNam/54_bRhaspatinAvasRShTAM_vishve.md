@@ -16,3 +16,29 @@ etc.
 
 Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour that is stored in cows do we enrich this girl.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। तेजः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५४।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+गृहआश्रम का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (बृहस्पतिना)बृहस्पति....। (यत्) जो (तेजः) तेज (गोषु) विद्वानों में (प्रविष्टम्) प्रविष्टहै, (तेन) उससे.... [मन्त्र ५३] ॥५४॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र ५३ के समान है॥५४॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५४−(तेजः) ज्योतिः। अन्यत् पूर्ववत्-म० ५३ ॥
+</details>
