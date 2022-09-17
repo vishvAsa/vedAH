@@ -1,8 +1,12 @@
 +++
-title = "61 (63). For success of penance."
-title_whitney = "61 (63). For success of penance."
+title = "०६१ तपः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+61 (63). For success of penance.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

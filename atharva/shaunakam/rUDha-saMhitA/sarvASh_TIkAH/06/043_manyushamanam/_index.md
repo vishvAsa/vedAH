@@ -1,8 +1,12 @@
 +++
-title = "43. To assuage wrath."
-title_whitney = "43. To assuage wrath."
+title = "०४३ मन्युशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+43. To assuage wrath.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "31. At rising of the sun (or moon)."
-title_whitney = "31. At rising of the sun (or moon)."
+title = "०३१ गौः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+31. At rising of the sun (or moon).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "16. Exorcism."
-title_whitney = "16. Exorcism."
+title = "०१६ वृषरोगशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+16. Exorcism.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

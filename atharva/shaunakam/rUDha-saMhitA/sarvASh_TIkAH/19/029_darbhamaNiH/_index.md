@@ -1,8 +1,12 @@
 +++
-title = "29. Continuation of the foregoing."
-title_whitney = "29. Continuation of the foregoing."
+title = "०२९ दर्भमणिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+29. Continuation of the foregoing.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

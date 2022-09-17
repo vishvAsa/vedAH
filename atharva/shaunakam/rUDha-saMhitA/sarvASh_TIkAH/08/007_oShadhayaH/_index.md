@@ -1,8 +1,12 @@
 +++
-title = "7. To the plants: for some one's restoration to health."
-title_whitney = "7. To the plants: for some one's restoration to health."
+title = "००७ ओषधयः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. To the plants: for some one's restoration to health.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

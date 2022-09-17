@@ -1,8 +1,12 @@
 +++
-title = "83. To remove apacíts."
-title_whitney = "83. To remove apacíts."
+title = "०८३ भैषज्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+83. To remove apacíts.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

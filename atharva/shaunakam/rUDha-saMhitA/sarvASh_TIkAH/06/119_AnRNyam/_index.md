@@ -1,8 +1,12 @@
 +++
-title = "119. For relief from guilt or obligation."
-title_whitney = "119. For relief from guilt or obligation."
+title = "११९ आनृण्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+119. For relief from guilt or obligation.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

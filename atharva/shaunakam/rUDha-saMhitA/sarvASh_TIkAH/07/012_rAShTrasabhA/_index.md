@@ -1,8 +1,12 @@
 +++
-title = "12 (13). For success in the assembly."
-title_whitney = "12 (13). For success in the assembly."
+title = "०१२ राष्ट्रसभा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12 (13). For success in the assembly.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

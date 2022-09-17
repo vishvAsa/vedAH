@@ -1,8 +1,12 @@
 +++
-title = "62. To Vāiśvānara etc.: for purification."
-title_whitney = "62. To Vāiśvānara etc.: for purification."
+title = "०६२ पावमानम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+62. To Vāiśvānara etc.: for purification.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

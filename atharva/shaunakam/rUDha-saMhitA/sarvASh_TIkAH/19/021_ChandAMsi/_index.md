@@ -1,8 +1,12 @@
 +++
-title = "21. The meters."
-title_whitney = "21. The meters."
+title = "०२१ छन्दांसि"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+21. The meters.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

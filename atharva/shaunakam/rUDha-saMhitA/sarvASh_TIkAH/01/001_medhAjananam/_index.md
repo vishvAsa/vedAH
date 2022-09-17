@@ -1,8 +1,12 @@
 +++
-title = "1. For the retention of sacred learning."
-title_whitney = "1. For the retention of sacred learning."
+title = "००१ मेधाजननम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. For the retention of sacred learning.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "53. For protection: to various gods."
-title_whitney = "53. For protection: to various gods."
+title = "०५३ सर्वतो रक्षणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+53. For protection: to various gods.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

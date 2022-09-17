@@ -1,8 +1,12 @@
 +++
-title = "105 (110). An exhortation to holy life."
-title_whitney = "105 (110). An exhortation to holy life."
+title = "१०५ दैव्यं वचः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+105 (110). An exhortation to holy life.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

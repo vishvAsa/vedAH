@@ -1,8 +1,12 @@
 +++
-title = "6. Praise and prayer to Agni."
-title_whitney = "6. Praise and prayer to Agni."
+title = "००६ सपत्नहाऽग्निः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+6. Praise and prayer to Agni.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

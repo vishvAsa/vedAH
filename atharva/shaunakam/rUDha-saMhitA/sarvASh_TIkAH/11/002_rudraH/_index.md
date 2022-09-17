@@ -1,8 +1,12 @@
 +++
-title = "2. To Rudra, especially as Bhava and śarva."
-title_whitney = "2. To Rudra, especially as Bhava and śarva."
+title = "००२ रुद्रः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. To Rudra, especially as Bhava and śarva.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "142. For increase of barley."
-title_whitney = "142. For increase of barley."
+title = "१४२ अन्नसमृद्धिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+142. For increase of barley.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "72. For the favor of the gods."
-title_whitney = "72. For the favor of the gods."
+title = "०७२ परमात्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+72. For the favor of the gods.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

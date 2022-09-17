@@ -1,8 +1,12 @@
 +++
-title = "20. Against fever (takmán)."
-title_whitney = "20. Against fever (takmán)."
+title = "०२० यक्ष्मनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+20. Against fever (takmán).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

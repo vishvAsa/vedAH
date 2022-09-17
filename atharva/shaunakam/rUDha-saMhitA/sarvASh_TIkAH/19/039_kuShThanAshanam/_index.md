@@ -1,8 +1,12 @@
 +++
-title = "39. With kúṣṭha: against diseases."
-title_whitney = "39. With kúṣṭha: against diseases."
+title = "०३९ कुष्ठनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+39. With kúṣṭha: against diseases.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

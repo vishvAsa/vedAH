@@ -1,8 +1,12 @@
 +++
-title = "7. Extolling the remnant (úcchiṣṭa) of the offering."
-title_whitney = "7. Extolling the remnant (úcchiṣṭa) of the offering."
+title = "००७ उच्छिष्ट ब्रह्म-सूक्तम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. Extolling the remnant (úcchiṣṭa) of the offering.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

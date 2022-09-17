@@ -1,8 +1,12 @@
 +++
-title = "6. To many different gods: for relief."
-title_whitney = "6. To many different gods: for relief."
+title = "००६ पापमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+6. To many different gods: for relief.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

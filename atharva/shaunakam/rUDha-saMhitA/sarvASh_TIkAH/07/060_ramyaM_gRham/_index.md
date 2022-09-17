@@ -1,8 +1,12 @@
 +++
-title = "60 (62). To the home: on returning or leaving."
-title_whitney = "60 (62). To the home: on returning or leaving."
+title = "०६० रम्यं गृहम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+60 (62). To the home: on returning or leaving.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

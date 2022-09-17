@@ -1,8 +1,12 @@
 +++
-title = "66 (68). For recovery of sacred knowledge (brā́hmaṇa)."
-title_whitney = "66 (68). For recovery of sacred knowledge (brā́hmaṇa)."
+title = "०६६ ब्रह्म"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+66 (68). For recovery of sacred knowledge (brā́hmaṇa).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

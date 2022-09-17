@@ -1,8 +1,12 @@
 +++
-title = "133. To a girdle: for long life etc."
-title_whitney = "133. To a girdle: for long life etc."
+title = "१३३ मेखलाबन्धनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+133. To a girdle: for long life etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

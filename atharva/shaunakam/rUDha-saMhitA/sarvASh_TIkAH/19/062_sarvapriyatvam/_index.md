@@ -1,8 +1,12 @@
 +++
-title = "62. For popularity."
-title_whitney = "62. For popularity."
+title = "०६२ सर्वप्रियत्वम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+62. For popularity.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

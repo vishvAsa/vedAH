@@ -1,8 +1,12 @@
 +++
-title = "83 (88). For release from Varuṇa's fetters."
-title_whitney = "83 (88). For release from Varuṇa's fetters."
+title = "०८३ पाशमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+83 (88). For release from Varuṇa's fetters.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

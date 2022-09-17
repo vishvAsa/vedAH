@@ -1,8 +1,12 @@
 +++
-title = "1. To Rohita (the sun, as ruddy one)."
-title_whitney = "1. To Rohita (the sun, as ruddy one)."
+title = "००१ अध्यात्म-प्रकरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. To Rohita (the sun, as ruddy one).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "70. To attach a cow to her calf."
-title_whitney = "70. To attach a cow to her calf."
+title = "०७० अघ्न्याः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+70. To attach a cow to her calf.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

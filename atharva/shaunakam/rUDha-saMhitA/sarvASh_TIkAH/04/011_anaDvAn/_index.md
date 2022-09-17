@@ -1,8 +1,12 @@
 +++
-title = "11. In praise of the draft-ox."
-title_whitney = "11. In praise of the draft-ox."
+title = "०११ अनड्वान्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+11. In praise of the draft-ox.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

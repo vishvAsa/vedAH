@@ -1,8 +1,12 @@
 +++
-title = "7. Against niggardliness and its effects."
-title_whitney = "7. Against niggardliness and its effects."
+title = "००७ अरातिनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. Against niggardliness and its effects.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

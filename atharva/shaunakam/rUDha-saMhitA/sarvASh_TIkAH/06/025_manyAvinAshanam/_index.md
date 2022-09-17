@@ -1,8 +1,12 @@
 +++
-title = "25. For relief from pains (?) in neck and shoulders."
-title_whitney = "25. For relief from pains (?) in neck and shoulders."
+title = "०२५ मन्याविनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+25. For relief from pains (?) in neck and shoulders.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

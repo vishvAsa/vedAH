@@ -1,8 +1,12 @@
 +++
-title = "15. Against fear."
-title_whitney = "15. Against fear."
+title = "०१५ अभय प्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+15. Against fear.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

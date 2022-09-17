@@ -1,8 +1,12 @@
 +++
-title = "19. Against enemies: to Agni (fire)."
-title_whitney = "19. Against enemies: to Agni (fire)."
+title = "०१९ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+19. Against enemies: to Agni (fire).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

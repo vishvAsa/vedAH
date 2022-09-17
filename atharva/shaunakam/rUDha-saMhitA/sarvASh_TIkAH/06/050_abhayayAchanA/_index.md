@@ -1,8 +1,12 @@
 +++
-title = "50. Against petty destroyers of grain."
-title_whitney = "50. Against petty destroyers of grain."
+title = "०५० अभययाचना"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+50. Against petty destroyers of grain.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

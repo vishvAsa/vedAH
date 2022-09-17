@@ -1,8 +1,12 @@
 +++
-title = "5. Mystic: on the offering or sacrifice."
-title_whitney = "5. Mystic: on the offering or sacrifice."
+title = "००५ आत्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. Mystic: on the offering or sacrifice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

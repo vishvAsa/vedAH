@@ -1,8 +1,12 @@
 +++
-title = "13. To the instruments and ministers of death."
-title_whitney = "13. To the instruments and ministers of death."
+title = "०१३ मृत्युजयः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+13. To the instruments and ministers of death.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

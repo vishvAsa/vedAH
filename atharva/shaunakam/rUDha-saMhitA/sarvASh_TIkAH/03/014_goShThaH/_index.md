@@ -1,8 +1,12 @@
 +++
-title = "14. A blessing on the kine."
-title_whitney = "14. A blessing on the kine."
+title = "०१४ गोष्ठः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+14. A blessing on the kine.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

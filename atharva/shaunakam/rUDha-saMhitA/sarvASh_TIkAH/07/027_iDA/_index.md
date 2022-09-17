@@ -1,8 +1,12 @@
 +++
-title = "27 (28). Prayer and praise to Iḍā."
-title_whitney = "27 (28). Prayer and praise to Iḍā."
+title = "०२७ इडा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+27 (28). Prayer and praise to Iḍā.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

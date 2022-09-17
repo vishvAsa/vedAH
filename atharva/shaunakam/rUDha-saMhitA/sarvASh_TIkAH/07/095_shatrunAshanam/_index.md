@@ -1,8 +1,12 @@
 +++
-title = "95 (100) A spell against some one."
-title_whitney = "95 (100) A spell against some one."
+title = "०९५ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+95 (100) A spell against some one.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

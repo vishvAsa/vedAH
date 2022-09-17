@@ -1,8 +1,12 @@
 +++
-title = "91. For remedy from disease."
-title_whitney = "91. For remedy from disease."
+title = "०९१ यक्ष्मनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+91. For remedy from disease.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

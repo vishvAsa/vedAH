@@ -1,8 +1,12 @@
 +++
-title = "137. To fasten and increase the hair."
-title_whitney = "137. To fasten and increase the hair."
+title = "१३७ केशवर्धनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+137. To fasten and increase the hair.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

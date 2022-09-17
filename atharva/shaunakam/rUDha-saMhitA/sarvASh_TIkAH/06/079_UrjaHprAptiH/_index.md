@@ -1,8 +1,12 @@
 +++
-title = "79. For abundance at home."
-title_whitney = "79. For abundance at home."
+title = "०७९ ऊर्जःप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+79. For abundance at home.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

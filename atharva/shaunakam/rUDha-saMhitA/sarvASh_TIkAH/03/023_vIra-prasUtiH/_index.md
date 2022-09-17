@@ -1,8 +1,12 @@
 +++
-title = "23. For fecundity."
-title_whitney = "23. For fecundity."
+title = "०२३ वीर-प्रसूतिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+23. For fecundity.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

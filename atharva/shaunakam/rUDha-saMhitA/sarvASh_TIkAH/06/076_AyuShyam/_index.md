@@ -1,8 +1,12 @@
 +++
-title = "76. For a kṣatríya's security from death."
-title_whitney = "76. For a kṣatríya's security from death."
+title = "०७६ आयुष्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+76. For a kṣatríya's security from death.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

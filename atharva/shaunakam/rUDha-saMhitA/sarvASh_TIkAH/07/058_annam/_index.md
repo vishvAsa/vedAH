@@ -1,8 +1,12 @@
 +++
-title = "58 (60). Invitation to Indra and Varuṇa."
-title_whitney = "58 (60). Invitation to Indra and Varuṇa."
+title = "०५८ अन्नम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+58 (60). Invitation to Indra and Varuṇa.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

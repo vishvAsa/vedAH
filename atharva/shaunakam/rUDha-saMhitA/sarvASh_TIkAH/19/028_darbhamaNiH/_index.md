@@ -1,8 +1,12 @@
 +++
-title = "28. For various blessings: with an amulet of darbhá."
-title_whitney = "28. For various blessings: with an amulet of darbhá."
+title = "०२८ दर्भमणिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+28. For various blessings: with an amulet of darbhá.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

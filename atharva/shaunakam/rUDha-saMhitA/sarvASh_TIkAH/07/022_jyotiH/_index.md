@@ -1,8 +1,12 @@
 +++
-title = "22 (23). To the sun (?)."
-title_whitney = "22 (23). To the sun (?)."
+title = "०२२ ज्योतिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+22 (23). To the sun (?).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

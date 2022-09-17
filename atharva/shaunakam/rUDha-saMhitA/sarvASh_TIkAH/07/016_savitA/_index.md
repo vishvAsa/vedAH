@@ -1,8 +1,12 @@
 +++
-title = "16 (17). Prayer to Savitar (or Brihaspati)."
-title_whitney = "16 (17). Prayer to Savitar (or Brihaspati)."
+title = "०१६ सविता"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+16 (17). Prayer to Savitar (or Brihaspati).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

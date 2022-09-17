@@ -1,8 +1,12 @@
 +++
-title = "57. Against evil-dreaming."
-title_whitney = "57. Against evil-dreaming."
+title = "०५७ दुःष्वप्ननाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+57. Against evil-dreaming.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

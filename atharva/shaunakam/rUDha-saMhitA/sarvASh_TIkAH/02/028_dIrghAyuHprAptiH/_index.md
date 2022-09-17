@@ -1,8 +1,12 @@
 +++
-title = "28. For long life for a certain person (child?)."
-title_whitney = "28. For long life for a certain person (child?)."
+title = "०२८ दीर्घायुःप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+28. For long life for a certain person (child?).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

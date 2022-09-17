@@ -1,8 +1,12 @@
 +++
-title = "38 (39). To win and fix a man's love: with a plant."
-title_whitney = "38 (39). To win and fix a man's love: with a plant."
+title = "०३८ केवलः पतिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+38 (39). To win and fix a man's love: with a plant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

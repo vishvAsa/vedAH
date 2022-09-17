@@ -1,8 +1,12 @@
 +++
-title = "2. Against injury and disease: with a reed."
-title_whitney = "2. Against injury and disease: with a reed."
+title = "००२ रोगोपशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. Against injury and disease: with a reed.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

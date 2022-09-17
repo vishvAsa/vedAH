@@ -1,8 +1,12 @@
 +++
-title = "2. To the unknown god."
-title_whitney = "2. To the unknown god."
+title = "००२ आत्मविद्या"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. To the unknown god.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

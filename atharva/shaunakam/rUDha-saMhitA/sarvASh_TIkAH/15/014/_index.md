@@ -1,8 +1,12 @@
 +++
-title = "14. Paryāya the fourteenth."
-title_whitney = "14. Paryāya the fourteenth."
+title = "०१४ "
 
 +++
+<details open><summary>Whitney subject</summary>
+
+14. Paryāya the fourteenth.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

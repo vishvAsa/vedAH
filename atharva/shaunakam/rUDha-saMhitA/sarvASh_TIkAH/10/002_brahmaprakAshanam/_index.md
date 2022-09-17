@@ -1,8 +1,12 @@
 +++
-title = "2. The wonderful structure of man."
-title_whitney = "2. The wonderful structure of man."
+title = "००२ ब्रह्मप्रकाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. The wonderful structure of man.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

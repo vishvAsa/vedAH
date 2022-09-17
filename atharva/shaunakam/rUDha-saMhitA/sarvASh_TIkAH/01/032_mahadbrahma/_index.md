@@ -1,8 +1,12 @@
 +++
-title = "32. Cosmogonic."
-title_whitney = "32. Cosmogonic."
+title = "०३२ महद्ब्रह्म"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+32. Cosmogonic.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

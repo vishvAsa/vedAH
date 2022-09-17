@@ -1,8 +1,12 @@
 +++
-title = "120. To reach heaven."
-title_whitney = "120. To reach heaven."
+title = "१२० सुकृतस्य लोकः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+120. To reach heaven.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

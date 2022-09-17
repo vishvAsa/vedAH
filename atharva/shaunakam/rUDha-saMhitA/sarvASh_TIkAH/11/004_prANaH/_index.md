@@ -1,8 +1,12 @@
 +++
-title = "4. Extolling the breath (prāṇá)."
-title_whitney = "4. Extolling the breath (prāṇá)."
+title = "००४ प्राणः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. Extolling the breath (prāṇá).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

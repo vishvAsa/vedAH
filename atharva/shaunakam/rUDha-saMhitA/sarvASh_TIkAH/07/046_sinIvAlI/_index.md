@@ -1,8 +1,12 @@
 +++
-title = "46 (48). To Sinīvāli (goddess of the new moon)."
-title_whitney = "46 (48). To Sinīvāli (goddess of the new moon)."
+title = "०४६ सिनीवाली"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+46 (48). To Sinīvāli (goddess of the new moon).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

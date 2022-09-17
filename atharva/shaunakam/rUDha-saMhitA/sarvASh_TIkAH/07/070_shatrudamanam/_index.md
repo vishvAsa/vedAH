@@ -1,8 +1,12 @@
 +++
-title = "70 (73). Against an enemy's sacrifice."
-title_whitney = "70 (73). Against an enemy's sacrifice."
+title = "०७० शत्रुदमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+70 (73). Against an enemy's sacrifice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

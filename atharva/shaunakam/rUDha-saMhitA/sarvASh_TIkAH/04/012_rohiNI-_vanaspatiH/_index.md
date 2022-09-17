@@ -1,8 +1,12 @@
 +++
-title = "12. To heal serious wounds: with an herb."
-title_whitney = "12. To heal serious wounds: with an herb."
+title = "०१२ रोहिणी- वनस्पतिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12. To heal serious wounds: with an herb.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

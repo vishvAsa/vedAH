@@ -1,8 +1,12 @@
 +++
-title = "24. For prosperity: with a certain garment."
-title_whitney = "24. For prosperity: with a certain garment."
+title = "०२४ राष्ट्रम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+24. For prosperity: with a certain garment.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "111 (116). To a soma-vessel."
-title_whitney = "111 (116). To a soma-vessel."
+title = "१११ आत्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+111 (116). To a soma-vessel.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

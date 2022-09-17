@@ -1,8 +1,12 @@
 +++
-title = "81. For successful pregnancy: with an amulet."
-title_whitney = "81. For successful pregnancy: with an amulet."
+title = "०८१ गर्भाधानम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+81. For successful pregnancy: with an amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

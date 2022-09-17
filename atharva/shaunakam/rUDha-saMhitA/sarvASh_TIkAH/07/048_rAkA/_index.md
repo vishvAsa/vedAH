@@ -1,8 +1,12 @@
 +++
-title = "48 (50). To Rākā (goddess of the full moon)."
-title_whitney = "48 (50). To Rākā (goddess of the full moon)."
+title = "०४८ राका"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+48 (50). To Rākā (goddess of the full moon).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

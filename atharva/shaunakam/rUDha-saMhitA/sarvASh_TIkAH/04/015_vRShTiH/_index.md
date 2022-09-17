@@ -1,8 +1,12 @@
 +++
-title = "15. For abundant rain."
-title_whitney = "15. For abundant rain."
+title = "०१५ वृष्टिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+15. For abundant rain.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

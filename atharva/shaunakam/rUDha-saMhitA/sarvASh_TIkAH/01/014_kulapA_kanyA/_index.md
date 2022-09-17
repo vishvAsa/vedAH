@@ -1,8 +1,12 @@
 +++
-title = "14. Imprecation of spinsterhood on a woman."
-title_whitney = "14. Imprecation of spinsterhood on a woman."
+title = "०१४ कुलपा कन्या"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+14. Imprecation of spinsterhood on a woman.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

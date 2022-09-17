@@ -1,8 +1,12 @@
 +++
-title = "37. Against various superhuman foes: with an herb."
-title_whitney = "37. Against various superhuman foes: with an herb."
+title = "०३७ कृमिनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+37. Against various superhuman foes: with an herb.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

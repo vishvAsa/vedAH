@@ -1,8 +1,12 @@
 +++
-title = "22. To the Maruts."
-title_whitney = "22. To the Maruts."
+title = "०२२ भैषज्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+22. To the Maruts.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

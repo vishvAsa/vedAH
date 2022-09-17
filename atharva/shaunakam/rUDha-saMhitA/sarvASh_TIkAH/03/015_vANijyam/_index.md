@@ -1,8 +1,12 @@
 +++
-title = "15. For success in trade."
-title_whitney = "15. For success in trade."
+title = "०१५ वाणिज्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+15. For success in trade.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

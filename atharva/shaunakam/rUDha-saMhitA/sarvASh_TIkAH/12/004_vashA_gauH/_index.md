@@ -1,8 +1,12 @@
 +++
-title = "4. The cow (vaśā́) as belonging exclusively to the Brahmans."
-title_whitney = "4. The cow (vaśā́) as belonging exclusively to the Brahmans."
+title = "००४ वशा गौः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. The cow (vaśā́) as belonging exclusively to the Brahmans.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

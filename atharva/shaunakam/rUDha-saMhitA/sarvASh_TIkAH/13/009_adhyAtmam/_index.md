@@ -1,8 +1,12 @@
 +++
 title = "००९ अध्यात्मम्"
-title_whitney = "9. Extolling the sun."
 
 +++
+<details open><summary>Whitney subject</summary>
+
+9. Extolling the sun.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

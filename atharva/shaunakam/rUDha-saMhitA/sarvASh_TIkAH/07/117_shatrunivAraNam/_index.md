@@ -1,8 +1,12 @@
 +++
-title = "117 (122). Invitation to India."
-title_whitney = "117 (122). Invitation to India."
+title = "११७ शत्रुनिवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+117 (122). Invitation to India.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

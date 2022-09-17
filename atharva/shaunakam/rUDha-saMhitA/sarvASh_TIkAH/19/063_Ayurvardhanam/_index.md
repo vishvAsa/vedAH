@@ -1,8 +1,12 @@
 +++
-title = "63. To Bṛihaspati: for sundry blessings."
-title_whitney = "63. To Bṛihaspati: for sundry blessings."
+title = "०६३ आयुर्वर्धनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+63. To Bṛihaspati: for sundry blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

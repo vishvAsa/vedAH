@@ -1,8 +1,12 @@
 +++
-title = "69 (72). Prayer for good fortune."
-title_whitney = "69 (72). Prayer for good fortune."
+title = "०६९ सुखम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+69 (72). Prayer for good fortune.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

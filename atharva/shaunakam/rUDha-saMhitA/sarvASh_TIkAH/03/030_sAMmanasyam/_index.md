@@ -1,8 +1,12 @@
 +++
-title = "30. For concord."
-title_whitney = "30. For concord."
+title = "०३० सांमनस्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+30. For concord.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

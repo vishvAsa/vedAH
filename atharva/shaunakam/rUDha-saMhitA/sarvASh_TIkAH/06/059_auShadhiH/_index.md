@@ -1,8 +1,12 @@
 +++
-title = "59. For protection to cattle."
-title_whitney = "59. For protection to cattle."
+title = "०५९ औषधिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+59. For protection to cattle.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

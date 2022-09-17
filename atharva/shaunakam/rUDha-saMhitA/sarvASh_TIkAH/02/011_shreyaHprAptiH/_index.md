@@ -1,8 +1,12 @@
 +++
-title = "11. To counteract witchcraft: with an amulet."
-title_whitney = "11. To counteract witchcraft: with an amulet."
+title = "०११ श्रेयःप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+11. To counteract witchcraft: with an amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "17 (18). Prayer to Dhātar for blessings."
-title_whitney = "17 (18). Prayer to Dhātar for blessings."
+title = "०१७ द्रविणार्थ प्रार्थना"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+17 (18). Prayer to Dhātar for blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

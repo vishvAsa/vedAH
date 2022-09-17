@@ -1,8 +1,12 @@
 +++
-title = "10. For release from evils, and for welfare."
-title_whitney = "10. For release from evils, and for welfare."
+title = "०१० पाशमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+10. For release from evils, and for welfare.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

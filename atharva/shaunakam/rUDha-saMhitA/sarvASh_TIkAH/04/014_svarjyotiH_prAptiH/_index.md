@@ -1,8 +1,12 @@
 +++
-title = "14. With the sacrifice of a goat."
-title_whitney = "14. With the sacrifice of a goat."
+title = "०१४ स्वर्ज्योतिः प्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+14. With the sacrifice of a goat.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

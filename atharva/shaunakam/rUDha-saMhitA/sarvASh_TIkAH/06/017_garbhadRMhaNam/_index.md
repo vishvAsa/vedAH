@@ -1,8 +1,12 @@
 +++
-title = "17. Against premature birth."
-title_whitney = "17. Against premature birth."
+title = "०१७ गर्भदृंहणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+17. Against premature birth.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "92. For success of a horse."
-title_whitney = "92. For success of a horse."
+title = "०९२ वाजी"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+92. For success of a horse.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

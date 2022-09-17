@@ -1,8 +1,12 @@
 +++
-title = "45. With an ointment etc.: for various objects."
-title_whitney = "45. With an ointment etc.: for various objects."
+title = "०४५ आञ्जनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+45. With an ointment etc.: for various objects.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

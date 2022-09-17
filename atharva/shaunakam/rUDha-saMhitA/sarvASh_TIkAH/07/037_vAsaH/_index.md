@@ -1,8 +1,12 @@
 +++
-title = "37 (38). The wife to the husband."
-title_whitney = "37 (38). The wife to the husband."
+title = "०३७ वासः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+37 (38). The wife to the husband.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

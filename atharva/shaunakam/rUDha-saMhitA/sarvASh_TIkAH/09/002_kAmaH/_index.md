@@ -1,8 +1,12 @@
 +++
-title = "2. To Kāma: for various blessings."
-title_whitney = "2. To Kāma: for various blessings."
+title = "००२ कामः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. To Kāma: for various blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "8 (9). For some one's success."
-title_whitney = "8 (9). For some one's success."
+title = "००८ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+8 (9). For some one's success.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

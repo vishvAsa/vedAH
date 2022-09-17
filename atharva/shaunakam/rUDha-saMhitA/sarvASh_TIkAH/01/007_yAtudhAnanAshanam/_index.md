@@ -1,8 +1,12 @@
 +++
-title = "7. To Agni: for the discovеrу of sorcerers."
-title_whitney = "7. To Agni: for the discovеrу of sorcerers."
+title = "००७ यातुधाननाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. To Agni: for the discovеrу of sorcerers.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

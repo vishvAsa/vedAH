@@ -1,8 +1,12 @@
 +++
-title = "60. For physical abilities."
-title_whitney = "60. For physical abilities."
+title = "०६० अङ्गानि"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+60. For physical abilities.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

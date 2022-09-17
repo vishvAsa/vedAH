@@ -1,8 +1,12 @@
 +++
-title = "4. To establish a king."
-title_whitney = "4. To establish a king."
+title = "००४ प्रजाभी राज्ञः संवरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. To establish a king.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "29. With the offering of a white-footed sheep."
-title_whitney = "29. With the offering of a white-footed sheep."
+title = "०२९ अविः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+29. With the offering of a white-footed sheep.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

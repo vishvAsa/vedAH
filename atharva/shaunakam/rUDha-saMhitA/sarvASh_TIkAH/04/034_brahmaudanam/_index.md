@@ -1,8 +1,12 @@
 +++
-title = "34. Extolling a certain rice-mess offering."
-title_whitney = "34. Extolling a certain rice-mess offering."
+title = "०३४ ब्रह्मौदनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+34. Extolling a certain rice-mess offering.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

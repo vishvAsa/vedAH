@@ -1,8 +1,12 @@
 +++
-title = "127. Against various diseases: with a wooden amulet."
-title_whitney = "127. Against various diseases: with a wooden amulet."
+title = "१२७ यक्ष्मनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+127. Against various diseases: with a wooden amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

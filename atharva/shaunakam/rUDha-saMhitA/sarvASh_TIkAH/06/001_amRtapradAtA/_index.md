@@ -1,8 +1,12 @@
 +++
-title = "1. Praise to Savitar."
-title_whitney = "1. Praise to Savitar."
+title = "००१ अमृतप्रदाता"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. Praise to Savitar.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

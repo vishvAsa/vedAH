@@ -1,8 +1,12 @@
 +++
-title = "51 (53). For protection by Brihaspati and Indra."
-title_whitney = "51 (53). For protection by Brihaspati and Indra."
+title = "०५१ परिपाणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+51 (53). For protection by Brihaspati and Indra.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

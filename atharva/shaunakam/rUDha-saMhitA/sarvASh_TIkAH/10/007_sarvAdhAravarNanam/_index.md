@@ -1,8 +1,12 @@
 +++
-title = "7. Mystic: on the skambhá or frame of creation."
-title_whitney = "7. Mystic: on the skambhá or frame of creation."
+title = "००७ सर्वाधारवर्णनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. Mystic: on the skambhá or frame of creation.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

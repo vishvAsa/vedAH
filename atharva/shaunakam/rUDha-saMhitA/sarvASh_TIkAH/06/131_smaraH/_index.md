@@ -1,8 +1,12 @@
 +++
-title = "131. To win a man's love."
-title_whitney = "131. To win a man's love."
+title = "१३१ स्मरः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+131. To win a man's love.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "27. For victory in disputation: with a plant."
-title_whitney = "27. For victory in disputation: with a plant."
+title = "०२७ शत्रुपराजयः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+27. For victory in disputation: with a plant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

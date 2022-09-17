@@ -1,8 +1,12 @@
 +++
-title = "128. For auspicious time: with dung-smoke."
-title_whitney = "128. For auspicious time: with dung-smoke."
+title = "१२८ राजा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+128. For auspicious time: with dung-smoke.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "3. To various gods: for protection and blessings."
-title_whitney = "3. To various gods: for protection and blessings."
+title = "००३ विजयाय प्रार्थना"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. To various gods: for protection and blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

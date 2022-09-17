@@ -1,8 +1,12 @@
 +++
-title = "77. For recovery and retention of what is lost."
-title_whitney = "77. For recovery and retention of what is lost."
+title = "०७७ प्रतिष्ठापनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+77. For recovery and retention of what is lost.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

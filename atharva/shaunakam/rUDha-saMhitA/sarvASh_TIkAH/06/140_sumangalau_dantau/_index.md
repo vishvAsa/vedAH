@@ -1,8 +1,12 @@
 +++
-title = "140. With the first two upper teeth of a child."
-title_whitney = "140. With the first two upper teeth of a child."
+title = "१४० सुमङ्गलौ दन्तौ"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+140. With the first two upper teeth of a child.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

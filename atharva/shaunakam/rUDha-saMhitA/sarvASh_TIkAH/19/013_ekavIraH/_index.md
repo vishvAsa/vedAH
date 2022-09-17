@@ -1,8 +1,12 @@
 +++
-title = "13. For success in war: ⌊Apratiratha hymn⌋."
-title_whitney = "13. For success in war: ⌊Apratiratha hymn⌋."
+title = "०१३ एकवीरः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+13. For success in war: ⌊Apratiratha hymn⌋.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

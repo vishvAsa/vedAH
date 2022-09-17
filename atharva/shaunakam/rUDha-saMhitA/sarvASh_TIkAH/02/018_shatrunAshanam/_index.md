@@ -1,8 +1,12 @@
 +++
-title = "18. For relief from demons and foes."
-title_whitney = "18. For relief from demons and foes."
+title = "०१८ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+18. For relief from demons and foes.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

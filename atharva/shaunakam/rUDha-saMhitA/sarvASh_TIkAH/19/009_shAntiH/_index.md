@@ -1,8 +1,12 @@
 +++
-title = "9. For appeasement and weal: to various divinities."
-title_whitney = "9. For appeasement and weal: to various divinities."
+title = "००९ शान्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+9. For appeasement and weal: to various divinities.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

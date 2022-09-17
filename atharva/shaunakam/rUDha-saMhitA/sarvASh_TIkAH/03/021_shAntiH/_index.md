@@ -1,8 +1,12 @@
 +++
-title = "21. With oblation to the various forms of fire or Agni."
-title_whitney = "21. With oblation to the various forms of fire or Agni."
+title = "०२१ शान्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+21. With oblation to the various forms of fire or Agni.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

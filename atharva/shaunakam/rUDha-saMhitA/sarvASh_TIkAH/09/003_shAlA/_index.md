@@ -1,8 +1,12 @@
 +++
-title = "3. To accompany the releasing of a house."
-title_whitney = "3. To accompany the releasing of a house."
+title = "००३ शाला"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. To accompany the releasing of a house.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

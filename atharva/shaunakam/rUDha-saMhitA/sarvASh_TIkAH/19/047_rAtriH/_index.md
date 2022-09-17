@@ -1,8 +1,12 @@
 +++
-title = "47. To night: for protection."
-title_whitney = "47. To night: for protection."
+title = "०४७ रात्रिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+47. To night: for protection.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

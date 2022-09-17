@@ -1,8 +1,12 @@
 +++
-title = "1. To the earth."
-title_whitney = "1. To the earth."
+title = "००१ भूमिसूक्तम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. To the earth.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

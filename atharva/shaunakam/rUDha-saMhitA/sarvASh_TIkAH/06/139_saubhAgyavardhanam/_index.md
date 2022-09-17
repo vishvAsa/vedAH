@@ -1,8 +1,12 @@
 +++
-title = "139. To compel a woman's love."
-title_whitney = "139. To compel a woman's love."
+title = "१३९ सौभाग्यवर्धनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+139. To compel a woman's love.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

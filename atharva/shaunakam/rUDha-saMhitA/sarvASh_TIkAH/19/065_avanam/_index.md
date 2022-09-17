@@ -1,8 +1,12 @@
 +++
-title = "65. Praise of the sun."
-title_whitney = "65. Praise of the sun."
+title = "०६५ अवनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+65. Praise of the sun.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

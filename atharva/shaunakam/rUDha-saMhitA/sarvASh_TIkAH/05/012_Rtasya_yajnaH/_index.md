@@ -1,8 +1,12 @@
 +++
-title = "12. Āprī-hymn: to various divinities."
-title_whitney = "12. Āprī-hymn: to various divinities."
+title = "०१२ ऋतस्य यज्ञः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12. Āprī-hymn: to various divinities.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

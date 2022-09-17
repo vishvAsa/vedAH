@@ -1,8 +1,12 @@
 +++
-title = "79 (84). To Amāvāsyā (night or goddess of new moon)."
-title_whitney = "79 (84). To Amāvāsyā (night or goddess of new moon)."
+title = "०७९ अमावास्या"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+79 (84). To Amāvāsyā (night or goddess of new moon).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

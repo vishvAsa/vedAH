@@ -1,8 +1,12 @@
 +++
-title = "99 (104). When bestrewing the védi."
-title_whitney = "99 (104). When bestrewing the védi."
+title = "०९९ वेदी"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+99 (104). When bestrewing the védi.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

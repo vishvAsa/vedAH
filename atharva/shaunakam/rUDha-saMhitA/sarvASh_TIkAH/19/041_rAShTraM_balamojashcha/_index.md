@@ -1,8 +1,12 @@
 +++
-title = "41. For some one's welfare."
-title_whitney = "41. For some one's welfare."
+title = "०४१ राष्ट्रं बलमोजश्च"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+41. For some one's welfare.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

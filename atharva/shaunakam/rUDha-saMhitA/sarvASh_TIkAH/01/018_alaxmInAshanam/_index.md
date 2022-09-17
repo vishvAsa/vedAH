@@ -1,8 +1,12 @@
 +++
-title = "18. Against unlucky marks."
-title_whitney = "18. Against unlucky marks."
+title = "०१८ अलक्ष्मीनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+18. Against unlucky marks.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

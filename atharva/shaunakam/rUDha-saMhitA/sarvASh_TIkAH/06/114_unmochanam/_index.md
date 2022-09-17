@@ -1,8 +1,12 @@
 +++
-title = "114. Against disability in sacrifice."
-title_whitney = "114. Against disability in sacrifice."
+title = "११४ उन्मोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+114. Against disability in sacrifice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

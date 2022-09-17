@@ -1,8 +1,12 @@
 +++
-title = "8. Accompanying the consecration of a king."
-title_whitney = "8. Accompanying the consecration of a king."
+title = "००८ राज्याभिषेकः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+8. Accompanying the consecration of a king.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

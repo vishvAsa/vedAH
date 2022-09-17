@@ -1,8 +1,12 @@
 +++
-title = "28 (29). Of the instruments of offering."
-title_whitney = "28 (29). Of the instruments of offering."
+title = "०२८ स्वस्ति"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+28 (29). Of the instruments of offering.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

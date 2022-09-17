@@ -1,8 +1,12 @@
 +++
-title = "68. To accompany the act of shaving."
-title_whitney = "68. To accompany the act of shaving."
+title = "०६८ वपनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+68. To accompany the act of shaving.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

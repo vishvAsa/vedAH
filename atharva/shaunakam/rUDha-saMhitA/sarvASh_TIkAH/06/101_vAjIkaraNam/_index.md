@@ -1,8 +1,12 @@
 +++
-title = "101. For virile power."
-title_whitney = "101. For virile power."
+title = "१०१ वाजीकरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+101. For virile power.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

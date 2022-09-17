@@ -1,8 +1,12 @@
 +++
-title = "57 (59). Prayer to Sarasvati etc."
-title_whitney = "57 (59). Prayer to Sarasvati etc."
+title = "०५७ सरस्वती"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+57 (59). Prayer to Sarasvati etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

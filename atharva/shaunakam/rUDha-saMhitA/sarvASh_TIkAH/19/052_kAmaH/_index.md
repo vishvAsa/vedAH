@@ -1,8 +1,12 @@
 +++
-title = "52. Of and to desire (kā́ma)."
-title_whitney = "52. Of and to desire (kā́ma)."
+title = "०५२ कामः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+52. Of and to desire (kā́ma).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

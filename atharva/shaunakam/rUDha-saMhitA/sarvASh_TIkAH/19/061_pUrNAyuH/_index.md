@@ -1,8 +1,12 @@
 +++
-title = "61. For length of life etc."
-title_whitney = "61. For length of life etc."
+title = "०६१ पूर्णायुः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+61. For length of life etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

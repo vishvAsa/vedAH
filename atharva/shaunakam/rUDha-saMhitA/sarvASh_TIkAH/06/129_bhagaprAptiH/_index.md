@@ -1,8 +1,12 @@
 +++
-title = "129. For good-fortune: with a śiṅśápā amulet."
-title_whitney = "129. For good-fortune: with a śiṅśápā amulet."
+title = "१२९ भगप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+129. For good-fortune: with a śiṅśápā amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

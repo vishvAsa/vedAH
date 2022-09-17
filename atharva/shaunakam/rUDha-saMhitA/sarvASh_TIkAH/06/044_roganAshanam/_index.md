@@ -1,8 +1,12 @@
 +++
-title = "44. For cessation of a disease."
-title_whitney = "44. For cessation of a disease."
+title = "०४४ रोगनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+44. For cessation of a disease.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

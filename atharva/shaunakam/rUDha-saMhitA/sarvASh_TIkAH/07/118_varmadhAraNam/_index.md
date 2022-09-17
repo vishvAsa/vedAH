@@ -1,8 +1,12 @@
 +++
-title = "118 (123). When arming a warrior."
-title_whitney = "118 (123). When arming a warrior."
+title = "११८ वर्मधारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+118 (123). When arming a warrior.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

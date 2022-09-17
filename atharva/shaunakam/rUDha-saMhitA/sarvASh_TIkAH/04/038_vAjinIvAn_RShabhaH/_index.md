@@ -1,8 +1,12 @@
 +++
-title = "38. For luck in gambling: by aid of an Apsaras."
-title_whitney = "38. For luck in gambling: by aid of an Apsaras."
+title = "०३८ वाजिनीवान् ऋषभः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+38. For luck in gambling: by aid of an Apsaras.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

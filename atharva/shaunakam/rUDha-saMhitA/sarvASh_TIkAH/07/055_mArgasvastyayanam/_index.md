@@ -1,8 +1,12 @@
 +++
-title = "55 (57. 2). To Indra (?)."
-title_whitney = "55 (57. 2). To Indra (?)."
+title = "०५५ मार्गस्वस्त्ययनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+55 (57. 2). To Indra (?).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

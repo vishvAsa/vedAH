@@ -1,8 +1,12 @@
 +++
-title = "31. To the divine guardians of the quarters."
-title_whitney = "31. To the divine guardians of the quarters."
+title = "०३१ पाशमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+31. To the divine guardians of the quarters.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

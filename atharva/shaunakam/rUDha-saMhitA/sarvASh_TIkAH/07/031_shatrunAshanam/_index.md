@@ -1,8 +1,12 @@
 +++
-title = "31 (32). To Indra: for aid."
-title_whitney = "31 (32). To Indra: for aid."
+title = "०३१ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+31 (32). To Indra: for aid.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

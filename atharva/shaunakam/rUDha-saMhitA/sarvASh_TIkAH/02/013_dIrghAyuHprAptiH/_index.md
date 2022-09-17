@@ -1,8 +1,12 @@
 +++
-title = "13. For welfare and long life of an infant."
-title_whitney = "13. For welfare and long life of an infant."
+title = "०१३ दीर्घायुःप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+13. For welfare and long life of an infant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

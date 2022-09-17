@@ -1,8 +1,12 @@
 +++
-title = "2. The flesh-eating and the householder's fires."
-title_whitney = "2. The flesh-eating and the householder's fires."
+title = "००२ "
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. The flesh-eating and the householder's fires.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

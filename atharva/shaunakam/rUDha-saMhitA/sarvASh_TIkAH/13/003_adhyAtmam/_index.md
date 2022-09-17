@@ -1,8 +1,12 @@
 +++
-title = "3. To the sun (with imprecation on the evil-doer)."
-title_whitney = "3. To the sun (with imprecation on the evil-doer)."
+title = "००३ अध्यात्मम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. To the sun (with imprecation on the evil-doer).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

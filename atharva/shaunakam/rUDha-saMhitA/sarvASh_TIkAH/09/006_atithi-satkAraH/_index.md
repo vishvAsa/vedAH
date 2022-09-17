@@ -1,8 +1,12 @@
 +++
-title = "6. Exalting the entertainment of guests."
-title_whitney = "6. Exalting the entertainment of guests."
+title = "००६ अतिथि-सत्कारः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+6. Exalting the entertainment of guests.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

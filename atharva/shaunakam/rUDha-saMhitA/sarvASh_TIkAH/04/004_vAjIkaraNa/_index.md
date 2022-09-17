@@ -1,8 +1,12 @@
 +++
-title = "4. For recovery of virility: with a plant."
-title_whitney = "4. For recovery of virility: with a plant."
+title = "००४ वाजीकरण"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. For recovery of virility: with a plant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

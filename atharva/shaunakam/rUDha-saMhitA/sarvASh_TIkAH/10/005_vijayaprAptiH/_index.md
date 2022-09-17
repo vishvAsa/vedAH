@@ -1,8 +1,12 @@
 +++
-title = "5. Preparation and use of water-thunderbolts."
-title_whitney = "5. Preparation and use of water-thunderbolts."
+title = "+००५ विजयप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. Preparation and use of water-thunderbolts.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

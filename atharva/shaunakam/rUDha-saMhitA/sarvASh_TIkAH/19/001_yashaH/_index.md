@@ -1,8 +1,12 @@
 +++
-title = "1. With an oblation for confluence."
-title_whitney = "1. With an oblation for confluence."
+title = "००१ यशः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. With an oblation for confluence.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

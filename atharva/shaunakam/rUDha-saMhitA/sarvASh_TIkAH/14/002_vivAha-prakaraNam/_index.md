@@ -1,8 +1,12 @@
 +++
-title = "2. Marriage ceremonies (continued)."
-title_whitney = "2. Marriage ceremonies (continued)."
+title = "००२ विवाह-प्रकरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. Marriage ceremonies (continued).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

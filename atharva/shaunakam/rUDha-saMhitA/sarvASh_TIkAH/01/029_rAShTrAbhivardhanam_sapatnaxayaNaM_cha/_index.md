@@ -1,8 +1,12 @@
 +++
-title = "29. For a chief's success: with an amulet."
-title_whitney = "29. For a chief's success: with an amulet."
+title = "०२९ राष्ट्राभिवर्धनम्, सपत्नक्षयणं च"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+29. For a chief's success: with an amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

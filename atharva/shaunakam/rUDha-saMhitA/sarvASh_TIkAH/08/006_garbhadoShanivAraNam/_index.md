@@ -1,8 +1,12 @@
 +++
-title = "6. To guard a pregnant woman from demons."
-title_whitney = "6. To guard a pregnant woman from demons."
+title = "००६ गर्भदोषनिवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+6. To guard a pregnant woman from demons.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

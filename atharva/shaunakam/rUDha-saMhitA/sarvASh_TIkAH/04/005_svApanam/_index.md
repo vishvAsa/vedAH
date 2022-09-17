@@ -1,8 +1,12 @@
 +++
-title = "5. An incantation to put to sleep."
-title_whitney = "5. An incantation to put to sleep."
+title = "००५ स्वापनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. An incantation to put to sleep.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

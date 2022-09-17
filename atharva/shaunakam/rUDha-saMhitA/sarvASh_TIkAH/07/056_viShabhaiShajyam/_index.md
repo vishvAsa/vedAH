@@ -1,8 +1,12 @@
 +++
-title = "56 (58). Against poison of snakes and insects."
-title_whitney = "56 (58). Against poison of snakes and insects."
+title = "०५६ विषभैषज्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+56 (58). Against poison of snakes and insects.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

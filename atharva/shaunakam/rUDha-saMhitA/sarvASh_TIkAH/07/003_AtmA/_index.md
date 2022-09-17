@@ -1,8 +1,12 @@
 +++
-title = "3. Mystic."
-title_whitney = "3. Mystic."
+title = "००३ आत्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. Mystic.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

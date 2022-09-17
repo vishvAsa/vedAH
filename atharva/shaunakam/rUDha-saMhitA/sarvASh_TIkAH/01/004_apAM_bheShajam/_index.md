@@ -1,8 +1,12 @@
 +++
-title = "4. To the waters: for blessings."
-title_whitney = "4. To the waters: for blessings."
+title = "००४ अपां भेषजम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. To the waters: for blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

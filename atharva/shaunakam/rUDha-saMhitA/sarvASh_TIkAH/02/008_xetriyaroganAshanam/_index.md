@@ -1,8 +1,12 @@
 +++
-title = "8. Against the disease kṣetriyá: with a plant."
-title_whitney = "8. Against the disease kṣetriyá: with a plant."
+title = "००८ क्षेत्रियरोगनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+8. Against the disease kṣetriyá: with a plant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

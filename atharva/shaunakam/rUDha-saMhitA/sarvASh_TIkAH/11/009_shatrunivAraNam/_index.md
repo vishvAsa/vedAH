@@ -1,8 +1,12 @@
 +++
-title = "9. To conquer enemies: to Arbudi."
-title_whitney = "9. To conquer enemies: to Arbudi."
+title = "००९ शत्रुनिवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+9. To conquer enemies: to Arbudi.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

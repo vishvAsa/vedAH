@@ -1,8 +1,12 @@
 +++
-title = "18 (19). For rain, etc."
-title_whitney = "18 (19). For rain, etc."
+title = "०१८ दवृष्टिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+18 (19). For rain, etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "5. The Brahman's cow."
-title_whitney = "5. The Brahman's cow."
+title = "००५ ब्रह्मगवी"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. The Brahman's cow.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

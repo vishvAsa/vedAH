@@ -1,8 +1,12 @@
 +++
-title = "12. ⌊Against such as would thwart my incantations.⌋"
-title_whitney = "12. ⌊Against such as would thwart my incantations.⌋"
+title = "०१२ शत्रुनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12. ⌊Against such as would thwart my incantations.⌋
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

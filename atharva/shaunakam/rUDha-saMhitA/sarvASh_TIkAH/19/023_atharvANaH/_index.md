@@ -1,8 +1,12 @@
 +++
-title = "23. Homage to parts of the Atharva-Veda."
-title_whitney = "23. Homage to parts of the Atharva-Veda."
+title = "०२३ अथर्वाणः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+23. Homage to parts of the Atharva-Veda.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

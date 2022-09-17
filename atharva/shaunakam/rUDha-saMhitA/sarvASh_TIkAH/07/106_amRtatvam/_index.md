@@ -1,8 +1,12 @@
 +++
-title = "106 (111). Deprecation for offenses."
-title_whitney = "106 (111). Deprecation for offenses."
+title = "१०६ अमृतत्वम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+106 (111). Deprecation for offenses.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

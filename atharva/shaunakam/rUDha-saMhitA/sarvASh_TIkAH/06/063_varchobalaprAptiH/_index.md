@@ -1,8 +1,12 @@
 +++
-title = "63. For some one's release from perdition (nírṛti)."
-title_whitney = "63. For some one's release from perdition (nírṛti)."
+title = "०६३ वर्चोबलप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+63. For some one's release from perdition (nírṛti).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

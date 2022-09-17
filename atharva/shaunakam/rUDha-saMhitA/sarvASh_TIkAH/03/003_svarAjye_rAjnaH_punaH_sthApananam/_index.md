@@ -1,8 +1,12 @@
 +++
-title = "3. For the restoration of a king."
-title_whitney = "3. For the restoration of a king."
+title = "००३ स्वराज्ये राज्ञः पुनः स्थापननम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. For the restoration of a king.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

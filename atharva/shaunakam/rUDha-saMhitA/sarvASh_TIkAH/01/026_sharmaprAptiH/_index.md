@@ -1,8 +1,12 @@
 +++
-title = "26. For protection from the wrath of the gods."
-title_whitney = "26. For protection from the wrath of the gods."
+title = "०२६ शर्मप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+26. For protection from the wrath of the gods.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

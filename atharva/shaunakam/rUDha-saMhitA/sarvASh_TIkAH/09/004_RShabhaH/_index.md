@@ -1,8 +1,12 @@
 +++
-title = "4. Accompanying the gift of a bull."
-title_whitney = "4. Accompanying the gift of a bull."
+title = "००४ ऋषभः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. Accompanying the gift of a bull.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

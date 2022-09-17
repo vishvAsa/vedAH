@@ -1,8 +1,12 @@
 +++
-title = "19 (20). For progeny, etc."
-title_whitney = "19 (20). For progeny, etc."
+title = "०१९ प्रजाः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+19 (20). For progeny, etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

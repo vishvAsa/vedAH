@@ -1,8 +1,12 @@
 +++
-title = "2. Praise and prayer to the waters."
-title_whitney = "2. Praise and prayer to the waters."
+title = "००२ आपः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. Praise and prayer to the waters.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

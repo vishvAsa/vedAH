@@ -1,8 +1,12 @@
 +++
-title = "25 (26). Praise to Vishṇu and Varuṇa."
-title_whitney = "25 (26). Praise to Vishṇu and Varuṇa."
+title = "०२५ विष्णुः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+25 (26). Praise to Vishṇu and Varuṇa.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

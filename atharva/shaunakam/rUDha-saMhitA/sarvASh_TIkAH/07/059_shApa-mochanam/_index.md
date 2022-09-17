@@ -1,8 +1,12 @@
 +++
-title = "59 (61). Against cursers."
-title_whitney = "59 (61). Against cursers."
+title = "०५९ शाप-मोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+59 (61). Against cursers.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

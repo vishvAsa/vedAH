@@ -1,8 +1,12 @@
 +++
-title = "32 (33). Homage to Soma (?)."
-title_whitney = "32 (33). Homage to Soma (?)."
+title = "०३२ दीर्घायुः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+32 (33). Homage to Soma (?).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

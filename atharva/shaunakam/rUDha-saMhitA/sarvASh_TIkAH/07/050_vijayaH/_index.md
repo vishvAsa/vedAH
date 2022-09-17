@@ -1,8 +1,12 @@
 +++
-title = "50 (52). For success with dice."
-title_whitney = "50 (52). For success with dice."
+title = "०५० विजयः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+50 (52). For success with dice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

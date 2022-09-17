@@ -1,8 +1,12 @@
 +++
-title = "45. In atonement of offenses."
-title_whitney = "45. In atonement of offenses."
+title = "०४५ दुःष्वप्ननाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+45. In atonement of offenses.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

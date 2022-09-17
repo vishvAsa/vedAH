@@ -1,8 +1,12 @@
 +++
-title = "29. Against birds of ill omen."
-title_whitney = "29. Against birds of ill omen."
+title = "०२९ अरिष्टक्षयणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+29. Against birds of ill omen.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "5. To a healing plant, lākṣā."
-title_whitney = "5. To a healing plant, lākṣā."
+title = "००५ लाक्षा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. To a healing plant, lākṣā.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "3. Cremation as a sacrifice."
-title_whitney = "3. Cremation as a sacrifice."
+title = "००३ स्वर्गैदनः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. Cremation as a sacrifice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

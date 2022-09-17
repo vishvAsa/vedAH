@@ -1,8 +1,12 @@
 +++
-title = "138. To make a certain man impotent."
-title_whitney = "138. To make a certain man impotent."
+title = "१३८ क्लबत्वम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+138. To make a certain man impotent.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

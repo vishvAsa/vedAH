@@ -1,8 +1,12 @@
 +++
-title = "98. To Indra: for victory."
-title_whitney = "98. To Indra: for victory."
+title = "०९८ अजरं क्षत्रम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+98. To Indra: for victory.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "105. To get rid of cough."
-title_whitney = "105. To get rid of cough."
+title = "१०५ कासशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+105. To get rid of cough.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

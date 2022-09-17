@@ -1,8 +1,12 @@
 +++
-title = "54 (56, 57. 1). Extolling verse and chant."
-title_whitney = "54 (56, 57. 1). Extolling verse and chant."
+title = "०५४ अध्यापकविघ्नशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+54 (56, 57. 1). Extolling verse and chant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

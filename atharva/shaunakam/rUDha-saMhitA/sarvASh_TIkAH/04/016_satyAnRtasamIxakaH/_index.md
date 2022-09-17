@@ -1,8 +1,12 @@
 +++
-title = "16. The power of the gods."
-title_whitney = "16. The power of the gods."
+title = "०१६ सत्यानृतसमीक्षकः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+16. The power of the gods.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

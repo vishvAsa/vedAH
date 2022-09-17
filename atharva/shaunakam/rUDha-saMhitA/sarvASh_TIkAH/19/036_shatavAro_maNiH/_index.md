@@ -1,8 +1,12 @@
 +++
-title = "36. With a śatávāra-amulet: for protection etc."
-title_whitney = "36. With a śatávāra-amulet: for protection etc."
+title = "०३६ शतवारो मणिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+36. With a śatávāra-amulet: for protection etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

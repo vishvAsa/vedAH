@@ -1,8 +1,12 @@
 +++
-title = "90. For safety from Rudra's arrow."
-title_whitney = "90. For safety from Rudra's arrow."
+title = "०९० इषुनिष्कासनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+90. For safety from Rudra's arrow.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

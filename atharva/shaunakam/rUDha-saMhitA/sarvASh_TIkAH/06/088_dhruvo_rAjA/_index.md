@@ -1,8 +1,12 @@
 +++
-title = "88. To establish a sovereign."
-title_whitney = "88. To establish a sovereign."
+title = "०८८ ध्रुवो राजा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+88. To establish a sovereign.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

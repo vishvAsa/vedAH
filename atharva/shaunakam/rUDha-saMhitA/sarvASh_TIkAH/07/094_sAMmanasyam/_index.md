@@ -1,8 +1,12 @@
 +++
-title = "94 (99). For India's help to unanimity."
-title_whitney = "94 (99). For India's help to unanimity."
+title = "०९४ सांमनस्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+94 (99). For India's help to unanimity.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "5. Extolling the Vedic student (brahmacārin)."
-title_whitney = "5. Extolling the Vedic student (brahmacārin)."
+title = "००५ ब्रह्मचर्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. Extolling the Vedic student (brahmacārin).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

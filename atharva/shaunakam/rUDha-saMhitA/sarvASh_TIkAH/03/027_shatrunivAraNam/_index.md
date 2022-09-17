@@ -1,8 +1,12 @@
 +++
-title = "27. The same: with imprecation on enemies."
-title_whitney = "27. The same: with imprecation on enemies."
+title = "०२७ शत्रुनिवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+27. The same: with imprecation on enemies.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "57. With a certain remedy against disease."
-title_whitney = "57. With a certain remedy against disease."
+title = "०५७ जलचिकित्सा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+57. With a certain remedy against disease.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

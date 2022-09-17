@@ -1,8 +1,12 @@
 +++
-title = "2. Of Atharvan."
-title_whitney = "2. Of Atharvan."
+title = "००२ आत्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. Of Atharvan.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

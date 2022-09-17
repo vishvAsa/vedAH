@@ -1,8 +1,12 @@
 +++
-title = "100. Against poison."
-title_whitney = "100. Against poison."
+title = "१०० विषदूषणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+100. Against poison.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "61. Prayer and boasts."
-title_whitney = "61. Prayer and boasts."
+title = "०६१ विश्वस्रष्टा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+61. Prayer and boasts.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

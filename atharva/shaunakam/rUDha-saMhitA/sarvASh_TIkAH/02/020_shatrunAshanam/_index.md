@@ -1,5 +1,5 @@
 +++
-title = "20. The same: to Vāyu (wind)."
+title = "०२० शत्रुनाशनम्"
 
 +++
 

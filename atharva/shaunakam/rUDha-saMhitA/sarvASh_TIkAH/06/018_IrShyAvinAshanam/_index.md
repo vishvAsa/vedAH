@@ -1,8 +1,12 @@
 +++
-title = "18. Against jealousy."
-title_whitney = "18. Against jealousy."
+title = "०१८ ईर्ष्याविनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+18. Against jealousy.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

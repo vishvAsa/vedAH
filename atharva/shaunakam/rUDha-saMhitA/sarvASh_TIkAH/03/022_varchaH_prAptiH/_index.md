@@ -1,8 +1,12 @@
 +++
-title = "22. To the gods: for splendor (várcas)."
-title_whitney = "22. To the gods: for splendor (várcas)."
+title = "०२२ वर्चः प्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+22. To the gods: for splendor (várcas).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

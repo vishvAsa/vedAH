@@ -1,8 +1,12 @@
 +++
-title = "9. With the offering of a cow and a hundred rice-dishes."
-title_whitney = "9. With the offering of a cow and a hundred rice-dishes."
+title = "००९ शतौदना गौः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+9. With the offering of a cow and a hundred rice-dishes.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

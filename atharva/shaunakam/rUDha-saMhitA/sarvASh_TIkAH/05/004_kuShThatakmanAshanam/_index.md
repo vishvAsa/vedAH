@@ -1,8 +1,12 @@
 +++
-title = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
-title_whitney = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
+title = "००४ कुष्ठतक्मनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. To the plant kúṣṭha: against takmán ⌊fever⌋.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

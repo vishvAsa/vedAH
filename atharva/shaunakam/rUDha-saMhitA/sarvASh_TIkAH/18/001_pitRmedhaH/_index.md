@@ -1,8 +1,12 @@
 +++
-title = "1. ⌊Funeral verses.⌋"
-title_whitney = "1. ⌊Funeral verses.⌋"
+title = "००१ पितृमेधः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. ⌊Funeral verses.⌋
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "135. To crush an enemy."
-title_whitney = "135. To crush an enemy."
+title = "१३५ बलप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+135. To crush an enemy.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

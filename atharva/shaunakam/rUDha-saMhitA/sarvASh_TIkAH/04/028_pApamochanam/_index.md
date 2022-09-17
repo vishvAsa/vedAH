@@ -1,8 +1,12 @@
 +++
-title = "28. Praise and prayer to Bhava and śarva."
-title_whitney = "28. Praise and prayer to Bhava and śarva."
+title = "०२८ पापमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+28. Praise and prayer to Bhava and śarva.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

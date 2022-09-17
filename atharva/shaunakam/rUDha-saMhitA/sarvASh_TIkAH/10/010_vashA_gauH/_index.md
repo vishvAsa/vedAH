@@ -1,8 +1,12 @@
 +++
-title = "10. Extolling the cow (vaśā́)."
-title_whitney = "10. Extolling the cow (vaśā́)."
+title = "०१० वशा गौः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+10. Extolling the cow (vaśā́).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

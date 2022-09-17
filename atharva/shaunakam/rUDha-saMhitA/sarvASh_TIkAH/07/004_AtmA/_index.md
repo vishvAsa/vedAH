@@ -1,8 +1,12 @@
 +++
-title = "4. To the wind-god with his steeds."
-title_whitney = "4. To the wind-god with his steeds."
+title = "००४ आत्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. To the wind-god with his steeds.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

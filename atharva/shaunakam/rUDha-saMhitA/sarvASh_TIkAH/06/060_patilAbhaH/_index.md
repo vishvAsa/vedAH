@@ -1,8 +1,12 @@
 +++
-title = "60. For winning a spouse."
-title_whitney = "60. For winning a spouse."
+title = "०६० पतिलाभः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+60. For winning a spouse.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

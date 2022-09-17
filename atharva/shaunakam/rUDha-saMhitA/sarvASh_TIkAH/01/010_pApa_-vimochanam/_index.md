@@ -1,8 +1,12 @@
 +++
-title = "10. For some one's release from Varuṇa's wrath."
-title_whitney = "10. For some one's release from Varuṇa's wrath."
+title = "०१० पाप -विमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+10. For some one's release from Varuṇa's wrath.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

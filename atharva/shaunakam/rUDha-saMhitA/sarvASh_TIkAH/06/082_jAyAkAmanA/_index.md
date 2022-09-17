@@ -1,8 +1,12 @@
 +++
-title = "82. To obtain a wife."
-title_whitney = "82. To obtain a wife."
+title = "०८२ जायाकामना"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+82. To obtain a wife.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "23. Against worms."
-title_whitney = "23. Against worms."
+title = "०२३ क्रिमिघ्नम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+23. Against worms.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

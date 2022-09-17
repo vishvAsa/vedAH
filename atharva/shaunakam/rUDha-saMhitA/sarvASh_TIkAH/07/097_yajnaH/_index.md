@@ -1,8 +1,12 @@
 +++
-title = "97 (102). Accompanying an offering."
-title_whitney = "97 (102). Accompanying an offering."
+title = "०९७ यज्ञः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+97 (102). Accompanying an offering.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

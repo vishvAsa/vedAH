@@ -1,8 +1,12 @@
 +++
-title = "15. For exorcism: to a plant."
-title_whitney = "15. For exorcism: to a plant."
+title = "०१५ रोगोपशमनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+15. For exorcism: to a plant.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

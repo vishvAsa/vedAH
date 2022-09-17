@@ -1,8 +1,12 @@
 +++
-title = "3. Extolling the rice-dish (odaná)."
-title_whitney = "3. Extolling the rice-dish (odaná)."
+title = "००३ ओदनः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. Extolling the rice-dish (odaná).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

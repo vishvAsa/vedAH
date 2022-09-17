@@ -1,8 +1,12 @@
 +++
-title = "8. Mystic: especially on the constitution of man."
-title_whitney = "8. Mystic: especially on the constitution of man."
+title = "००८ अध्यात्मम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+8. Mystic: especially on the constitution of man.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

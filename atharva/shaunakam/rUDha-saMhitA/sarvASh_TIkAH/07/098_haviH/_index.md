@@ -1,8 +1,12 @@
 +++
-title = "98 (103). With an oblation to India."
-title_whitney = "98 (103). With an oblation to India."
+title = "०९८ हविः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+98 (103). With an oblation to India.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "7. Extolling the ox."
-title_whitney = "7. Extolling the ox."
+title = "००७ गौः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+7. Extolling the ox.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "6. Purusha and his sacrifice."
-title_whitney = "6. Purusha and his sacrifice."
+title = "००६ जगद्बीज पुरुषः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+6. Purusha and his sacrifice.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

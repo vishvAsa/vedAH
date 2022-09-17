@@ -1,8 +1,12 @@
 +++
-title = "35. The same."
-title_whitney = "35. The same."
+title = "०३५ जङ्गिडः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+35. The same.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

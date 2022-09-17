@@ -1,8 +1,12 @@
 +++
-title = "5. For some one's exaltation."
-title_whitney = "5. For some one's exaltation."
+title = "००५ वर्चः प्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+5. For some one's exaltation.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "20. To the war-drum."
-title_whitney = "20. To the war-drum."
+title = "०२० शत्रुसेनात्रासनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+20. To the war-drum.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "30 (31). For successful anointing."
-title_whitney = "30 (31). For successful anointing."
+title = "०३० अञ्जनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+30 (31). For successful anointing.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

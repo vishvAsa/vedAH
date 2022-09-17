@@ -1,8 +1,12 @@
 +++
-title = "80. The heavenly dog and the kālakāñjás."
-title_whitney = "80. The heavenly dog and the kālakāñjás."
+title = "०८० अरिष्टक्षयणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+80. The heavenly dog and the kālakāñjás.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

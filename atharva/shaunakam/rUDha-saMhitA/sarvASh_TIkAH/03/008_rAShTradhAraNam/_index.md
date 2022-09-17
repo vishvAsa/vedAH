@@ -1,8 +1,12 @@
 +++
-title = "8. For authority."
-title_whitney = "8. For authority."
+title = "००८ राष्ट्रधारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+8. For authority.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

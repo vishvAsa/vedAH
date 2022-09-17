@@ -1,8 +1,12 @@
 +++
-title = "24. To various gods as overlords."
-title_whitney = "24. To various gods as overlords."
+title = "०२४ ब्रह्मकर्म"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+24. To various gods as overlords.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

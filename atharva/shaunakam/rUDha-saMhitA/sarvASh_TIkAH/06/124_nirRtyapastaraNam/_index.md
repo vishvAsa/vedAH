@@ -1,8 +1,12 @@
 +++
-title = "124. Against evil influence of a sky-drop."
-title_whitney = "124. Against evil influence of a sky-drop."
+title = "१२४ निर्ऋत्यपस्तरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+124. Against evil influence of a sky-drop.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

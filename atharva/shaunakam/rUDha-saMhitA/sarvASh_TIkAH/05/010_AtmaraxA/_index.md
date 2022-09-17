@@ -1,8 +1,12 @@
 +++
-title = "10. For defense from all quarters."
-title_whitney = "10. For defense from all quarters."
+title = "०१० आत्मरक्षा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+10. For defense from all quarters.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

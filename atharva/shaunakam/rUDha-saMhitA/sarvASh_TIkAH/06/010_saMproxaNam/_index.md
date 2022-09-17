@@ -1,8 +1,12 @@
 +++
-title = "10. Greeting to divinities etc. of the three spheres."
-title_whitney = "10. Greeting to divinities etc. of the three spheres."
+title = "०१० संप्रोक्षणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+10. Greeting to divinities etc. of the three spheres.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

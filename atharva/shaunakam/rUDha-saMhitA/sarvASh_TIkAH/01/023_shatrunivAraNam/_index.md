@@ -1,8 +1,12 @@
 +++
-title = "23. Against leprosy: with a healing herb."
-title_whitney = "23. Against leprosy: with a healing herb."
+title = "०२३ शत्रुनिवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+23. Against leprosy: with a healing herb.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

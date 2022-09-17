@@ -1,8 +1,12 @@
 +++
-title = "3. Against obstruction of urine: with a reed."
-title_whitney = "3. Against obstruction of urine: with a reed."
+title = "००३ मूत्रमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+3. Against obstruction of urine: with a reed.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

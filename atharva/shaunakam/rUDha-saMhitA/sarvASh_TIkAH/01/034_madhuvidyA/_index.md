@@ -1,8 +1,12 @@
 +++
-title = "34. A love-spell: with a sweet herb."
-title_whitney = "34. A love-spell: with a sweet herb."
+title = "०३४ मधुविद्या"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+34. A love-spell: with a sweet herb.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "12. Against various ailments (as results of lightning?)."
-title_whitney = "12. Against various ailments (as results of lightning?)."
+title = "०१२ यक्ष्मनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12. Against various ailments (as results of lightning?).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

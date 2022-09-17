@@ -1,8 +1,12 @@
 +++
-title = "116 (121). Against intermittent fever."
-title_whitney = "116 (121). Against intermittent fever."
+title = "११६ ज्वरनाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+116 (121). Against intermittent fever.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "56. To sleep (or dream)."
-title_whitney = "56. To sleep (or dream)."
+title = "०५६ दुःष्वप्ननाशनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+56. To sleep (or dream).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

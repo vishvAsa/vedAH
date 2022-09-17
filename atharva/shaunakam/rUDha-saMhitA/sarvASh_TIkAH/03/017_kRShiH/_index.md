@@ -1,8 +1,12 @@
 +++
-title = "17. For successful agriculture."
-title_whitney = "17. For successful agriculture."
+title = "०१७ कृषिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+17. For successful agriculture.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

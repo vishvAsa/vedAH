@@ -1,8 +1,12 @@
 +++
-title = "12. Against the poison of snakes."
-title_whitney = "12. Against the poison of snakes."
+title = "०१२ सर्प-विष-निवारणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+12. Against the poison of snakes.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

@@ -1,8 +1,12 @@
 +++
-title = "11. For relief from disease, and for long life."
-title_whitney = "11. For relief from disease, and for long life."
+title = "०११ दीर्घायुः प्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+11. For relief from disease, and for long life.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

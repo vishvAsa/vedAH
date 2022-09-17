@@ -1,8 +1,12 @@
 +++
-title = "68. With ceremonial performance."
-title_whitney = "68. With ceremonial performance."
+title = "०६८ वेदोक्तं कर्म"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+68. With ceremonial performance.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

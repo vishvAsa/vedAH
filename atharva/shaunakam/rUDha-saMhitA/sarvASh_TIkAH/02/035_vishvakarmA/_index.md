@@ -1,8 +1,12 @@
 +++
-title = "35. To expiate errors in the sacrifice: to Viśvakarman."
-title_whitney = "35. To expiate errors in the sacrifice: to Viśvakarman."
+title = "०३५ विश्वकर्मा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+35. To expiate errors in the sacrifice: to Viśvakarman.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

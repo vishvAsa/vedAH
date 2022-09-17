@@ -1,8 +1,12 @@
 +++
-title = "28. To avert the ill omen of a twinning animal."
-title_whitney = "28. To avert the ill omen of a twinning animal."
+title = "०२८ पशुपोषणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+28. To avert the ill omen of a twinning animal.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

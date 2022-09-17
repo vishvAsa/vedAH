@@ -1,8 +1,12 @@
 +++
-title = "80 (85). To the night or goddess of full moon (pāurṇamāsī́)."
-title_whitney = "80 (85). To the night or goddess of full moon (pāurṇamāsī́)."
+title = "०८० पूर्णिमा"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+80 (85). To the night or goddess of full moon (pāurṇamāsī́).
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

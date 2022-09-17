@@ -1,8 +1,12 @@
 +++
-title = "16. Against demons: with an amulet of lead."
-title_whitney = "16. Against demons: with an amulet of lead."
+title = "०१६ शत्रुबाधनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+16. Against demons: with an amulet of lead.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

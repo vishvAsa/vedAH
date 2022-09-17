@@ -1,8 +1,12 @@
 +++
-title = "71. For various blessings."
-title_whitney = "71. For various blessings."
+title = "०७१ वेदमाता"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+71. For various blessings.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

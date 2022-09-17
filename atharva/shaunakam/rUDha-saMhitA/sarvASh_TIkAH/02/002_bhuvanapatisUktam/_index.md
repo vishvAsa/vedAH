@@ -1,8 +1,12 @@
 +++
-title = "2. To Gandharvas and Apsarases."
-title_whitney = "2. To Gandharvas and Apsarases."
+title = "००२ भुवनपतिसूक्तम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+2. To Gandharvas and Apsarases.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

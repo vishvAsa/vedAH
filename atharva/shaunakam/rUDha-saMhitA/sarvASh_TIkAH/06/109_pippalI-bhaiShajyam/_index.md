@@ -1,8 +1,12 @@
 +++
-title = "109. For healing: with pippalī́."
-title_whitney = "109. For healing: with pippalī́."
+title = "१०९ पिप्पली-भैषज्यम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+109. For healing: with pippalī́.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

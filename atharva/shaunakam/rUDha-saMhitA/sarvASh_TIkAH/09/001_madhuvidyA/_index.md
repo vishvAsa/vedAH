@@ -1,8 +1,12 @@
 +++
-title = "1. To the honey-whip etc."
-title_whitney = "1. To the honey-whip etc."
+title = "००१ मधुविद्या"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. To the honey-whip etc.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

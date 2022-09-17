@@ -1,8 +1,12 @@
 +++
-title = "31. Against witchcraft."
-title_whitney = "31. Against witchcraft."
+title = "०३१ कृत्यापरिहरणम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+31. Against witchcraft.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

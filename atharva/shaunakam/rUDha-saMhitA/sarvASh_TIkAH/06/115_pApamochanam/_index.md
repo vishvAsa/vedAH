@@ -1,8 +1,12 @@
 +++
-title = "115. For relief from sin."
-title_whitney = "115. For relief from sin."
+title = "११५ पापमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+115. For relief from sin.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

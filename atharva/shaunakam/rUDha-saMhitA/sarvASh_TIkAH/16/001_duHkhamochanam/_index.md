@@ -1,8 +1,12 @@
 +++
-title = "1. Paryāya the first."
-title_whitney = "1. Paryāya the first."
+title = "००१ दुःखमोचनम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+1. Paryāya the first.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

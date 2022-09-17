@@ -1,8 +1,12 @@
 +++
-title = "4. Against various evils: with a jan̄giḍá amulet."
-title_whitney = "4. Against various evils: with a jan̄giḍá amulet."
+title = "००४ दीर्घायुःप्राप्तिः"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+4. Against various evils: with a jan̄giḍá amulet.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

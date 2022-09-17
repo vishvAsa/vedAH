@@ -1,8 +1,12 @@
 +++
-title = "71. Against harm from improper food."
-title_whitney = "71. Against harm from improper food."
+title = "०७१ अन्नम्"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+71. Against harm from improper food.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 

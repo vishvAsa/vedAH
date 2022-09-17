@@ -1,8 +1,12 @@
 +++
-title = "11. ⌊Dialogue between⌋ Varuṇa and Atharvan."
-title_whitney = "11. ⌊Dialogue between⌋ Varuṇa and Atharvan."
+title = "०११ संपत्कर्म"
 
 +++
+<details open><summary>Whitney subject</summary>
+
+11. ⌊Dialogue between⌋ Varuṇa and Atharvan.
+</details>
+
 
 <details><summary>VH anukramaṇī</summary>
 
