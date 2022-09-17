@@ -1,5 +1,5 @@
 +++
-title = "००८ ज्येष्ठब्रह्मवर्णनम्"
+title = "+००८ ज्येष्ठब्रह्मवर्णनम्"
 
 +++
 <details open><summary>Whitney subject</summary>

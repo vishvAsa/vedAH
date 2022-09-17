@@ -1,0 +1,9 @@
++++
+title = "१७ इन्द्रं तम्"
+
++++
+
+<details><summary>Griffith</summary>
+
+Honour that Indra, Puruhanman! for his aid, in whose sustain- ing hand of old. The splendid bolt of thunder was deposited, as the great Sun was set in heaven.
+</details>

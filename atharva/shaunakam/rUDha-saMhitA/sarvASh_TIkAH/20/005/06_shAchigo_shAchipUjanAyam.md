@@ -1,0 +1,9 @@
++++
+title = "०६ शाचिगो शाचिपूजनायम्"
+
++++
+
+<details><summary>Griffith</summary>
+
+Famed for thy radiance, worshipped well! this juice is shed for thy delight: Thou art invoked, Akhandala!
+</details>

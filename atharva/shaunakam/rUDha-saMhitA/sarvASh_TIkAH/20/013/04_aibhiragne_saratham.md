@@ -1,0 +1,9 @@
++++
+title = "०४ ऐभिरग्ने सरथम्"
+
++++
+
+<details><summary>Griffith</summary>
+
+With these, borne on one car, Agni, approach us; or borne on many, for thy steeds are able. Bring, with their Dames, the Gods, the Three-and-Thirty, after thy Godlike nature, and he joyful.
+</details>

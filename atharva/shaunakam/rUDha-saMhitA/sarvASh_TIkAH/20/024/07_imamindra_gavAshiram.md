@@ -1,0 +1,9 @@
++++
+title = "०७ इममिन्द्र गवाशिरम्"
+
++++
+
+<details><summary>Griffith</summary>
+
+Borne hither by thy stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.
+</details>
