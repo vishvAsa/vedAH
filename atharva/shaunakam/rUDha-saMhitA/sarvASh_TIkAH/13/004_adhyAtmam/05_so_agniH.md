@@ -17,3 +17,29 @@ Parts of this verse are quoted as examples under Prāt. ii. 21, 24; iii.
 
 Agni is he, and Siirya, he is verily Mahayama.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+सः। अग्निः। सः। ऊं इति। सूर्यः। सः। ऊं इति। एव। महाऽयमः। ४.५।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+परमात्मा और जीवात्मा के विषय का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सः) वह [परमेश्वर] (अग्निः) व्यापकः (सः उ) वही (सूर्यः) प्रेरक, (सः उ) वही (एव) निश्चय करके (महायमः) बड़ा न्यायकारी है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र ३ के समान है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५−(सः) (अग्निः) व्यापकः (सः) (उ) अवधारणे (सूर्यः) प्रेरकः (सः) (उ) (एव) निश्चयेन (महायमः) महान्यायाधीशः ॥
+</details>
