@@ -1,6 +1,5 @@
 +++
-title = "29. Praise and prayer to Mitra and Varuṇa."
-title_whitney = "29. Praise and prayer to Mitra and Varuṇa."
+title = "०२९ पापमोचनम्"
 
 +++
 

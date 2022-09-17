@@ -1,6 +1,5 @@
 +++
-title = "24. For abundance of grain."
-title_whitney = "24. For abundance of grain."
+title = "०२४ समृद्घि-प्राप्तिः"
 
 +++
 

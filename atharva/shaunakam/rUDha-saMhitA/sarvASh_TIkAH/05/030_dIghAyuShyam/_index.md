@@ -1,6 +1,5 @@
 +++
-title = "30. To lengthen out some one's life."
-title_whitney = "30. To lengthen out some one's life."
+title = "०३० दीघायुष्यम्"
 
 +++
 

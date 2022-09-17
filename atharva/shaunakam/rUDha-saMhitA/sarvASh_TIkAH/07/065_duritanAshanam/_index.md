@@ -1,6 +1,5 @@
 +++
-title = "65 (67). To the plant apāmārgá: for cleansing."
-title_whitney = "65 (67). To the plant apāmārgá: for cleansing."
+title = "०६५ दुरितनाशनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "26. For safety and increase of kine."
-title_whitney = "26. For safety and increase of kine."
+title = "०२६ पशुसंवर्धनम्"
 
 +++
 

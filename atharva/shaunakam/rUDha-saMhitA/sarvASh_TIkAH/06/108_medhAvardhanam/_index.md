@@ -1,6 +1,5 @@
 +++
-title = "108. For wisdom."
-title_whitney = "108. For wisdom."
+title = "१०८ मेधावर्धनम्"
 
 +++
 

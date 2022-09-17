@@ -1,6 +1,5 @@
 +++
-title = "93 (98). For Indra's aid."
-title_whitney = "93 (98). For Indra's aid."
+title = "०९३ शत्रुनाशनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "10. To the ekāṣṭakā́ (day of moon's last quarter)."
-title_whitney = "10. To the ekāṣṭakā́ (day of moon's last quarter)."
+title = "०१० रायस्पोषप्राप्तिः"
 
 +++
 

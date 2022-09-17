@@ -1,6 +1,5 @@
 +++
-title = "60. For winning a spouse."
-title_whitney = "60. For winning a spouse."
+title = "०६० पतिलाभः"
 
 +++
 

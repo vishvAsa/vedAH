@@ -1,6 +1,5 @@
 +++
-title = "87. To establish some one in sovereignty."
-title_whitney = "87. To establish some one in sovereignty."
+title = "०८७ राज्ञः संवरणम्"
 
 +++
 

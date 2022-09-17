@@ -1,6 +1,5 @@
 +++
-title = "26 (27). Praise and prayer to Vishṇu."
-title_whitney = "26 (27). Praise and prayer to Vishṇu."
+title = "०२६ विष्णुः"
 
 +++
 

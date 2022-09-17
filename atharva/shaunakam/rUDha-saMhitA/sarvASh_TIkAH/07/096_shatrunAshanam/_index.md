@@ -1,6 +1,5 @@
 +++
-title = "96 (101). For quiet kidneys (?)."
-title_whitney = "96 (101). For quiet kidneys (?)."
+title = "०९६ शत्रुनाशनम्"
 
 +++
 

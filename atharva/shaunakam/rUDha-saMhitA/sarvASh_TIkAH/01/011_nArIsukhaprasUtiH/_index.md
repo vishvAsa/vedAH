@@ -1,6 +1,5 @@
 +++
-title = "11. For successful childbirth."
-title_whitney = "11. For successful childbirth."
+title = "०११ नारी–सुखप्रसूतिः"
 
 +++
 

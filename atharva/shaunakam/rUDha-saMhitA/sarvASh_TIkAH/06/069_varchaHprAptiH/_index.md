@@ -1,6 +1,5 @@
 +++
-title = "69. For glory etc."
-title_whitney = "69. For glory etc."
+title = "०६९ वर्चःप्राप्तिः"
 
 +++
 

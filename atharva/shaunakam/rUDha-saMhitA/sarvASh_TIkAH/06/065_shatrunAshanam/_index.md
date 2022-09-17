@@ -1,6 +1,5 @@
 +++
-title = "65. For success against enemies."
-title_whitney = "65. For success against enemies."
+title = "०६५ शत्रुनाशनम्"
 
 +++
 

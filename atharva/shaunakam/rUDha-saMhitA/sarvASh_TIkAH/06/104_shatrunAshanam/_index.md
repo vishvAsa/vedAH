@@ -1,6 +1,5 @@
 +++
-title = "104. Against enemies."
-title_whitney = "104. Against enemies."
+title = "१०४ शत्रुनाशनम्"
 
 +++
 

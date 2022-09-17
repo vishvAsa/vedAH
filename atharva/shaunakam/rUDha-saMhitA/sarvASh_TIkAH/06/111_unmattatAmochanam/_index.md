@@ -1,6 +1,5 @@
 +++
-title = "111. For relief from insanity."
-title_whitney = "111. For relief from insanity."
+title = "१११ उन्मत्ततामोचनम्"
 
 +++
 

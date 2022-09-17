@@ -1,6 +1,5 @@
 +++
-title = "90. For safety from Rudra's arrow."
-title_whitney = "90. For safety from Rudra's arrow."
+title = "०९० इषुनिष्कासनम्"
 
 +++
 

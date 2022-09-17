@@ -1,6 +1,5 @@
 +++
-title = "5. Mystic: on the offering or sacrifice."
-title_whitney = "5. Mystic: on the offering or sacrifice."
+title = "००५ आत्मा"
 
 +++
 

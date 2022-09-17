@@ -1,6 +1,5 @@
 +++
-title = "24. Against leprosy."
-title_whitney = "24. Against leprosy."
+title = "०२४ शत्रुनिवारणम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "112. For expiation of overslaughing."
-title_whitney = "112. For expiation of overslaughing."
+title = "११२ पाशमोचनम्"
 
 +++
 

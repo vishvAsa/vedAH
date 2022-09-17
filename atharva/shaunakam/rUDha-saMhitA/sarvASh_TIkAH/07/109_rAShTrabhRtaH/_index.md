@@ -1,6 +1,5 @@
 +++
-title = "109 (114). ⌊For success with the dice.⌋"
-title_whitney = "109 (114). ⌊For success with the dice.⌋"
+title = "१०९ राष्ट्रभृतः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "125. To the war-chariot: for its success."
-title_whitney = "125. To the war-chariot: for its success."
+title = "१२५ वीरस्य रथः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "122. With an offering for offspring."
-title_whitney = "122. With an offering for offspring."
+title = "१२२ तृतीयो नाकः"
 
 +++
 

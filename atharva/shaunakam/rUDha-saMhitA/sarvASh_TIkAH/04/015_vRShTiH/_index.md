@@ -1,6 +1,5 @@
 +++
-title = "15. For abundant rain."
-title_whitney = "15. For abundant rain."
+title = "०१५ वृष्टिः"
 
 +++
 

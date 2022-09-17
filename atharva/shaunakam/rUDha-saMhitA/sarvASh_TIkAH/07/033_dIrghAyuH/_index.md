@@ -1,6 +1,5 @@
 +++
-title = "33 (34) For blessings: to various gods."
-title_whitney = "33 (34) For blessings: to various gods."
+title = "०३३ दीर्घायुः"
 
 +++
 

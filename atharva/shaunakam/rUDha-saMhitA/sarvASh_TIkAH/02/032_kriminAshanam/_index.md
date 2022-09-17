@@ -1,6 +1,5 @@
 +++
-title = "32. Against worms."
-title_whitney = "32. Against worms."
+title = "०३२ क्रिमिनाशनम्"
 
 +++
 

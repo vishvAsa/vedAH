@@ -1,6 +1,5 @@
 +++
-title = "16. To various plants (?)."
-title_whitney = "16. To various plants (?)."
+title = "०१६ अक्षिरोगभैषजम्"
 
 +++
 

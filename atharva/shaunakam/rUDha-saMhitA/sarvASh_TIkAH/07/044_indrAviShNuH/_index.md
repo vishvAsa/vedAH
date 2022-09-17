@@ -1,6 +1,5 @@
 +++
-title = "44 (45). Extolling Indra and Vishṇu."
-title_whitney = "44 (45). Extolling Indra and Vishṇu."
+title = "०४४ इन्द्राविष्णुः"
 
 +++
 

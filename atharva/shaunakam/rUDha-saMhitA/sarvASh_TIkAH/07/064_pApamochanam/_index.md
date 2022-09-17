@@ -1,6 +1,5 @@
 +++
-title = "64 (66). Against evil influence of a black bird."
-title_whitney = "64 (66). Against evil influence of a black bird."
+title = "०६४ पापमोचनम्"
 
 +++
 

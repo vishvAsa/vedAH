@@ -1,6 +1,5 @@
 +++
-title = "23. Praise and prayer to Agni."
-title_whitney = "23. Praise and prayer to Agni."
+title = "०२३ पाप-मोचनम्"
 
 +++
 

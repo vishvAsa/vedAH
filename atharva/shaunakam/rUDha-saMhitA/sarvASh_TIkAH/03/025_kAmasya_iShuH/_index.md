@@ -1,6 +1,5 @@
 +++
-title = "25. To command a woman's love."
-title_whitney = "25. To command a woman's love."
+title = "०२५ कामस्य इषुः"
 
 +++
 

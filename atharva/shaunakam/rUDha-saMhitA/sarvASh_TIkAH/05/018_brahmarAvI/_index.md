@@ -1,6 +1,5 @@
 +++
-title = "18. The Brahman's cow."
-title_whitney = "18. The Brahman's cow."
+title = "०१८ ब्रह्मरावी"
 
 +++
 

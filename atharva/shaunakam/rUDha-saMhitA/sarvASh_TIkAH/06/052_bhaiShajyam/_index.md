@@ -1,6 +1,5 @@
 +++
-title = "52. For deliverance from unseen pests."
-title_whitney = "52. For deliverance from unseen pests."
+title = "०५२ भैषज्यम्"
 
 +++
 

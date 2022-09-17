@@ -1,6 +1,5 @@
 +++
-title = "3. Mystic."
-title_whitney = "3. Mystic."
+title = "००३ आत्मा"
 
 +++
 

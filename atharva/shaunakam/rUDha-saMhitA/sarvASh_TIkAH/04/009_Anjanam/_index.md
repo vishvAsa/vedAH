@@ -1,6 +1,5 @@
 +++
-title = "9. For protection etc.: with a certain ointment."
-title_whitney = "9. For protection etc.: with a certain ointment."
+title = "००९ आञ्जनम्"
 
 +++
 

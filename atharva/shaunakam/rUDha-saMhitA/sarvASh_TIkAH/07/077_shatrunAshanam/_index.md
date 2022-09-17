@@ -1,6 +1,5 @@
 +++
-title = "77 (82). To the Maruts."
-title_whitney = "77 (82). To the Maruts."
+title = "०७७ शत्रुनाशनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "53 (55). For some one's health and long life."
-title_whitney = "53 (55). For some one's health and long life."
+title = "०५३ दीर्घायुः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "7. Against curses and cursers: with a plant."
-title_whitney = "7. Against curses and cursers: with a plant."
+title = "००७ शापमोचनम्"
 
 +++
 

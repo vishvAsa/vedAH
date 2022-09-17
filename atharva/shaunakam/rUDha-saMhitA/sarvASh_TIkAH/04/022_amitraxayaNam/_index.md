@@ -1,6 +1,5 @@
 +++
-title = "22. For the success and prosperity of a king."
-title_whitney = "22. For the success and prosperity of a king."
+title = "०२२ अमित्रक्षयणम्"
 
 +++
 

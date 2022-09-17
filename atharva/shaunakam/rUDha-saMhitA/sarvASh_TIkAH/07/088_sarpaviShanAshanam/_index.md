@@ -1,6 +1,5 @@
 +++
-title = "88 (93). Against poison."
-title_whitney = "88 (93). Against poison."
+title = "०८८ सर्पविषनाशनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "45 (46, 47). To cure jealousy."
-title_whitney = "45 (46, 47). To cure jealousy."
+title = "०४५ ईर्ष्यानिवारणम्"
 
 +++
 

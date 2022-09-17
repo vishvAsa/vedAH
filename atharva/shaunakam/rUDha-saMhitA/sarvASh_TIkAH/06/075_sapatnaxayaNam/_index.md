@@ -1,6 +1,5 @@
 +++
-title = "75. To eject a rival."
-title_whitney = "75. To eject a rival."
+title = "०७५ सपत्नक्षयणम्"
 
 +++
 

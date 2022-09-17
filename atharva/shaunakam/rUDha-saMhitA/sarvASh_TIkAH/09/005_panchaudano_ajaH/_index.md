@@ -1,6 +1,5 @@
 +++
-title = "5. With the offering of a goat and five rice-dishes."
-title_whitney = "5. With the offering of a goat and five rice-dishes."
+title = "००५ पञ्चौदनो अजः"
 
 +++
 

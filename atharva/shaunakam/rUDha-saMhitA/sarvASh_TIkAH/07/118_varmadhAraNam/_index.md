@@ -1,6 +1,5 @@
 +++
-title = "118 (123). When arming a warrior."
-title_whitney = "118 (123). When arming a warrior."
+title = "११८ वर्मधारणम्"
 
 +++
 

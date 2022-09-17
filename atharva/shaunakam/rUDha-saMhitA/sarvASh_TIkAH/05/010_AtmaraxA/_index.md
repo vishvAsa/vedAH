@@ -1,6 +1,5 @@
 +++
-title = "10. For defense from all quarters."
-title_whitney = "10. For defense from all quarters."
+title = "०१० आत्मरक्षा"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "82 (87). Praise and prayer to Agni."
-title_whitney = "82 (87). Praise and prayer to Agni."
+title = "०८२ अग्निः"
 
 +++
 

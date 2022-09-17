@@ -1,6 +1,5 @@
 +++
-title = "16. Morning invocation to various gods, especially Bhaga."
-title_whitney = "16. Morning invocation to various gods, especially Bhaga."
+title = "०१६ स्वस्तये प्रार्थना"
 
 +++
 

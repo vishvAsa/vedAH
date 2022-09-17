@@ -1,6 +1,5 @@
 +++
-title = "12. Accompanying the building of a house."
-title_whitney = "12. Accompanying the building of a house."
+title = "०१२ शालानिर्माणम्"
 
 +++
 

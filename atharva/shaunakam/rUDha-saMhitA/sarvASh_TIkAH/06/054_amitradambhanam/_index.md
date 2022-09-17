@@ -1,6 +1,5 @@
 +++
-title = "54. To secure and increase some one's superiority."
-title_whitney = "54. To secure and increase some one's superiority."
+title = "०५४ अमित्रदम्भनम्"
 
 +++
 

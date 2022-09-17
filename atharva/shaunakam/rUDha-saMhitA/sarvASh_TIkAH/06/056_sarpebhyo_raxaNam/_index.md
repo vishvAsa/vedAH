@@ -1,6 +1,5 @@
 +++
-title = "56. For protection from serpents."
-title_whitney = "56. For protection from serpents."
+title = "०५६ सर्पेभ्यो रक्षणम्"
 
 +++
 

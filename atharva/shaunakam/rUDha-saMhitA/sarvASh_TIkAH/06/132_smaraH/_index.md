@@ -1,6 +1,5 @@
 +++
-title = "132. To compel a man's love."
-title_whitney = "132. To compel a man's love."
+title = "१३२ स्मरः"
 
 +++
 

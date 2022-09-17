@@ -1,6 +1,5 @@
 +++
-title = "6.xa0?⌊Disconnected verses.⌋"
-title_whitney = "6.xa0?⌊Disconnected verses.⌋"
+title = "००६ ब्रह्मविद्या"
 
 +++
 

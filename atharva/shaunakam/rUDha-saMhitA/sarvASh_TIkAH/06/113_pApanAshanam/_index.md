@@ -1,6 +1,5 @@
 +++
-title = "113. For release from seizure (grā́hi)."
-title_whitney = "113. For release from seizure (grā́hi)."
+title = "११३ पापनाशनम्"
 
 +++
 

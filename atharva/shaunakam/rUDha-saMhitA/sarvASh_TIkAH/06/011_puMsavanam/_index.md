@@ -1,6 +1,5 @@
 +++
-title = "11. For birth of sons."
-title_whitney = "11. For birth of sons."
+title = "०११ पुंसवनम्"
 
 +++
 

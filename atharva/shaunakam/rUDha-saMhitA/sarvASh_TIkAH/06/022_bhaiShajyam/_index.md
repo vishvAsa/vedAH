@@ -1,6 +1,5 @@
 +++
-title = "22. To the Maruts."
-title_whitney = "22. To the Maruts."
+title = "०२२ भैषज्यम्"
 
 +++
 

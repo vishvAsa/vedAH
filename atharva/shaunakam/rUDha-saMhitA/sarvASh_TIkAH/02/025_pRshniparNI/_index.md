@@ -1,6 +1,5 @@
 +++
-title = "25. Against káṇvas: with a plant."
-title_whitney = "25. Against káṇvas: with a plant."
+title = "०२५ पृश्निपर्णी"
 
 +++
 

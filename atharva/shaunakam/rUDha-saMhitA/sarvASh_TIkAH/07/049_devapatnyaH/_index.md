@@ -1,6 +1,5 @@
 +++
-title = "49 (51). To the spouses of the gods."
-title_whitney = "49 (51). To the spouses of the gods."
+title = "०४९ देवपत्न्यः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "84. For release from perdition."
-title_whitney = "84. For release from perdition."
+title = "०८४ निर्ऋतिमोचनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "28. With an amulet of three metals: for safety etc."
-title_whitney = "28. With an amulet of three metals: for safety etc."
+title = "०२८ दीर्घायुः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "26. Homage to the gods of the quarters etc. ⌊snake charms?⌋."
-title_whitney = "26. Homage to the gods of the quarters etc. ⌊snake charms?⌋."
+title = "०२६ दिक्षु आत्मरक्षा"
 
 +++
 

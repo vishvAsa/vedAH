@@ -1,6 +1,5 @@
 +++
-title = "41. To various divinities."
-title_whitney = "41. To various divinities."
+title = "०४१ दीर्घायुःप्राप्तिः"
 
 +++
 

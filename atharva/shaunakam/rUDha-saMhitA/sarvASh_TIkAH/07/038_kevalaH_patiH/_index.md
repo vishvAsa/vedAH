@@ -1,6 +1,5 @@
 +++
-title = "38 (39). To win and fix a man's love: with a plant."
-title_whitney = "38 (39). To win and fix a man's love: with a plant."
+title = "०३८ केवलः पतिः"
 
 +++
 

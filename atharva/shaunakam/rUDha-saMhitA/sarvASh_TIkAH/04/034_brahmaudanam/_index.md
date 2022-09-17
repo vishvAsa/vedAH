@@ -1,6 +1,5 @@
 +++
-title = "34. Extolling a certain rice-mess offering."
-title_whitney = "34. Extolling a certain rice-mess offering."
+title = "०३४ ब्रह्मौदनम्"
 
 +++
 

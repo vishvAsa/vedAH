@@ -1,6 +1,5 @@
 +++
-title = "73 (77). With a heated offering to the Aśvins."
-title_whitney = "73 (77). With a heated offering to the Aśvins."
+title = "०७३ घर्मः"
 
 +++
 

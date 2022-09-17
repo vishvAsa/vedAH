@@ -1,6 +1,5 @@
 +++
-title = "22. Against yellowness (jaundice)."
-title_whitney = "22. Against yellowness (jaundice)."
+title = "०२२ हृद्रोग-कामिला-नाशनम्"
 
 +++
 

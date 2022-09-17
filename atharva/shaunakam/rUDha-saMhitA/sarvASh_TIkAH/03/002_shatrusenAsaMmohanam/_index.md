@@ -1,6 +1,5 @@
 +++
-title = "2. Against enemies."
-title_whitney = "2. Against enemies."
+title = "००२ शत्रुसेनासंमोहनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "55 (57. 2). To Indra (?)."
-title_whitney = "55 (57. 2). To Indra (?)."
+title = "०५५ मार्गस्वस्त्ययनम्"
 
 +++
 

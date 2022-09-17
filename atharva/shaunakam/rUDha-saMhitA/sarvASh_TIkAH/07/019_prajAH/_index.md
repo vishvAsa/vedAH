@@ -1,6 +1,5 @@
 +++
-title = "19 (20). For progeny, etc."
-title_whitney = "19 (20). For progeny, etc."
+title = "०१९ प्रजाः"
 
 +++
 

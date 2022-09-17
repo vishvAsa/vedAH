@@ -1,6 +1,5 @@
 +++
-title = "87 (92). Homage to Rudra."
-title_whitney = "87 (92). Homage to Rudra."
+title = "०८७ व्यापको देवः"
 
 +++
 

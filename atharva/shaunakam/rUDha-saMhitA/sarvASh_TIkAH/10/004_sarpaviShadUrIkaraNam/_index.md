@@ -1,6 +1,5 @@
 +++
-title = "4. Against snakes and their poison."
-title_whitney = "4. Against snakes and their poison."
+title = "००४ सर्पविषदूरीकरणम्"
 
 +++
 

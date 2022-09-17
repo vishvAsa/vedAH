@@ -1,6 +1,5 @@
 +++
-title = "20. To discover sorcerers: with an herb."
-title_whitney = "20. To discover sorcerers: with an herb."
+title = "०२० पिशाचक्षयणम्"
 
 +++
 

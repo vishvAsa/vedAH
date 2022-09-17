@@ -1,6 +1,5 @@
 +++
-title = "3. To various divinities: for protection."
-title_whitney = "3. To various divinities: for protection."
+title = "००३ आत्मगोपनम्"
 
 +++
 

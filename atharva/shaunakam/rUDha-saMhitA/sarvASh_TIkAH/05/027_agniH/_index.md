@@ -1,6 +1,5 @@
 +++
-title = "27. Āprī-hymn: to various divinities."
-title_whitney = "27. Āprī-hymn: to various divinities."
+title = "०२७ अग्निः"
 
 +++
 

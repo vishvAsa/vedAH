@@ -1,6 +1,5 @@
 +++
-title = "123. For the success of an offering."
-title_whitney = "123. For the success of an offering."
+title = "१२३ सौमनसम्"
 
 +++
 

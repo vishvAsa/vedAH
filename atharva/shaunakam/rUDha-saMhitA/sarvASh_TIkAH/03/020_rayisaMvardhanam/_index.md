@@ -1,6 +1,5 @@
 +++
-title = "20. To Agni and other gods: for various blessings."
-title_whitney = "20. To Agni and other gods: for various blessings."
+title = "०२० रयिसंवर्धनम्"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "85 (90). Invocation of Tārkshya."
-title_whitney = "85 (90). Invocation of Tārkshya."
+title = "०८५ अरिष्टनेमिः"
 
 +++
 

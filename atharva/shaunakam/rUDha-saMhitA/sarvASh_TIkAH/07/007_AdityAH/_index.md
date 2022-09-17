@@ -1,6 +1,5 @@
 +++
-title = "7 (8). Praise of the Ādityas."
-title_whitney = "7 (8). Praise of the Ādityas."
+title = "००७ आदित्याः"
 
 +++
 

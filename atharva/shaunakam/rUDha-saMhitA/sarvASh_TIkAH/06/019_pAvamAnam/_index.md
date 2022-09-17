@@ -1,6 +1,5 @@
 +++
-title = "19. For ceremonial purification."
-title_whitney = "19. For ceremonial purification."
+title = "०१९ पावमानम्"
 
 +++
 

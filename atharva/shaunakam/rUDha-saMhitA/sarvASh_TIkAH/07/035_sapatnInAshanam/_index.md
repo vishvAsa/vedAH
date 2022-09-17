@@ -1,6 +1,5 @@
 +++
-title = "35 (36). Against a rival (woman)."
-title_whitney = "35 (36). Against a rival (woman)."
+title = "०३५ सपत्नीनाशनम्"
 
 +++
 

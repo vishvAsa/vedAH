@@ -1,6 +1,5 @@
 +++
-title = "73. To assure supremacy."
-title_whitney = "73. To assure supremacy."
+title = "०७३ सांमनस्यम्"
 
 +++
 

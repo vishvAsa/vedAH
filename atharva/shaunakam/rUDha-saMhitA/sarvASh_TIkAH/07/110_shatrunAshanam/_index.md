@@ -1,6 +1,5 @@
 +++
-title = "110 (115). To Indra and Agni: for help."
-title_whitney = "110 (115). To Indra and Agni: for help."
+title = "११० शत्रुनाशनम्"
 
 +++
 

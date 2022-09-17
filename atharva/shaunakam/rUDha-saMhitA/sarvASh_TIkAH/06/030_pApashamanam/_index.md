@@ -1,6 +1,5 @@
 +++
-title = "30. To the śamī́ plant: for benefit to the hair."
-title_whitney = "30. To the śamī́ plant: for benefit to the hair."
+title = "०३० पापशमनम्"
 
 +++
 

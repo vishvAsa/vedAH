@@ -1,6 +1,5 @@
 +++
-title = "17. To stop the vessels of the body."
-title_whitney = "17. To stop the vessels of the body."
+title = "०१७ रुधिरस्रावनिवृत्तये धमनीबन्धनम्"
 
 +++
 

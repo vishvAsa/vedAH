@@ -1,6 +1,5 @@
 +++
-title = "16. For protection."
-title_whitney = "16. For protection."
+title = "०१६ सुरक्षा"
 
 +++
 

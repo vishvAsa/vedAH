@@ -1,6 +1,5 @@
 +++
-title = "33. For expulsion of yákṣma from all parts of the body."
-title_whitney = "33. For expulsion of yákṣma from all parts of the body."
+title = "०३३ यक्ष्मविबर्हणम्"
 
 +++
 

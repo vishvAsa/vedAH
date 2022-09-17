@@ -1,6 +1,5 @@
 +++
-title = "68 (70, 71). Praise and prayer to Sarasvatī."
-title_whitney = "68 (70, 71). Praise and prayer to Sarasvatī."
+title = "०६८ सरस्वती"
 
 +++
 

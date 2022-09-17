@@ -1,6 +1,5 @@
 +++
-title = "12. To heal serious wounds: with an herb."
-title_whitney = "12. To heal serious wounds: with an herb."
+title = "०१२ रोहिणी- वनस्पतिः"
 
 +++
 

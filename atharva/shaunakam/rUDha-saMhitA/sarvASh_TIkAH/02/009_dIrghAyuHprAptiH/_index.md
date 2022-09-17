@@ -1,6 +1,5 @@
 +++
-title = "9. Against possession by demons: with an amulet."
-title_whitney = "9. Against possession by demons: with an amulet."
+title = "००९ दीर्घायुःप्राप्तिः"
 
 +++
 

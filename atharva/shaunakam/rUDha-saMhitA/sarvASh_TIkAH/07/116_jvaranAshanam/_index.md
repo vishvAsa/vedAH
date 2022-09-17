@@ -1,6 +1,5 @@
 +++
-title = "116 (121). Against intermittent fever."
-title_whitney = "116 (121). Against intermittent fever."
+title = "११६ ज्वरनाशनम्"
 
 +++
 

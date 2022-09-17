@@ -1,6 +1,5 @@
 +++
-title = "33. To the waters: for blessings."
-title_whitney = "33. To the waters: for blessings."
+title = "०३३ आपः"
 
 +++
 

@@ -1,6 +1,5 @@
 +++
-title = "1. Praise to Savitar."
-title_whitney = "1. Praise to Savitar."
+title = "००१ अमृतप्रदाता"
 
 +++
 

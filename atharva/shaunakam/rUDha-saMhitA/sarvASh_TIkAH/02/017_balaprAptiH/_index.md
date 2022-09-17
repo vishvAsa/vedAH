@@ -1,6 +1,5 @@
 +++
-title = "17. For various gifts."
-title_whitney = "17. For various gifts."
+title = "०१७ बलप्राप्तिः"
 
 +++
 

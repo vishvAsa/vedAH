@@ -1,6 +1,5 @@
 +++
-title = "2. Of Atharvan."
-title_whitney = "2. Of Atharvan."
+title = "००२ आत्मा"
 
 +++
 

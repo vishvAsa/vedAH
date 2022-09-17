@@ -1,6 +1,5 @@
 +++
-title = "29 (30). To Agni and Vishṇu."
-title_whitney = "29 (30). To Agni and Vishṇu."
+title = "०२९ अग्नाविष्णू"
 
 +++
 

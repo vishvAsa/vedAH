@@ -1,6 +1,5 @@
 +++
-title = "17. For successful agriculture."
-title_whitney = "17. For successful agriculture."
+title = "०१७ कृषिः"
 
 +++
 

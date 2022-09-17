@@ -1,6 +1,5 @@
 +++
-title = "10. For release from evils, and for welfare."
-title_whitney = "10. For release from evils, and for welfare."
+title = "०१० पाशमोचनम्"
 
 +++
 

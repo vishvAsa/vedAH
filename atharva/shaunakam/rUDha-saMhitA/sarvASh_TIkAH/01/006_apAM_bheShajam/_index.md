@@ -1,6 +1,5 @@
 +++
-title = "6. To the waters: for blessings."
-title_whitney = "6. To the waters: for blessings."
+title = "००६ अपां भेषजम्"
 
 +++
 

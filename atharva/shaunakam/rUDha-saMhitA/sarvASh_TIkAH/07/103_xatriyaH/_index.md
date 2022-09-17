@@ -1,6 +1,5 @@
 +++
-title = "103 (108). For betterment."
-title_whitney = "103 (108). For betterment."
+title = "१०३ क्षत्रियः"
 
 +++
 

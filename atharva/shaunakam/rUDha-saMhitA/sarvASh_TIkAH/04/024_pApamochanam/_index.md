@@ -1,6 +1,5 @@
 +++
-title = "24. Praise and prayer to Indra."
-title_whitney = "24. Praise and prayer to Indra."
+title = "०२४ पापमोचनम्"
 
 +++
 

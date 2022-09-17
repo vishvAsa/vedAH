@@ -1,6 +1,5 @@
 +++
-title = "18. Against unlucky marks."
-title_whitney = "18. Against unlucky marks."
+title = "०१८ अलक्ष्मीनाशनम्"
 
 +++
 

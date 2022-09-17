@@ -1,6 +1,5 @@
 +++
-title = "10. Greeting to divinities etc. of the three spheres."
-title_whitney = "10. Greeting to divinities etc. of the three spheres."
+title = "०१० संप्रोक्षणम्"
 
 +++
 

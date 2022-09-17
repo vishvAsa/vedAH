@@ -1,6 +1,5 @@
 +++
-title = "42 (43). To Soma and Rudra."
-title_whitney = "42 (43). To Soma and Rudra."
+title = "०४२ पापमोचनम्"
 
 +++
 

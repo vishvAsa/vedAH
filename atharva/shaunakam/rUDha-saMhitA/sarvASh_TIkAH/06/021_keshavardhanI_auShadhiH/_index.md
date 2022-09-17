@@ -1,6 +1,5 @@
 +++
-title = "21. To healing plants."
-title_whitney = "21. To healing plants."
+title = "०२१ केशवर्धनी औषधिः"
 
 +++
 

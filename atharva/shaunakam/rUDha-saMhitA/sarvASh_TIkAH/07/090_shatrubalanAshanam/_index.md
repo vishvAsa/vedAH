@@ -1,6 +1,5 @@
 +++
-title = "90 (95) To destroy some one's virile power."
-title_whitney = "90 (95) To destroy some one's virile power."
+title = "०९० शत्रुबलनाशनम्"
 
 +++
 

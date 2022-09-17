@@ -1,6 +1,5 @@
 +++
-title = "10 (11). To Sarasvatī."
-title_whitney = "10 (11). To Sarasvatī."
+title = "०१० "
 
 +++
 

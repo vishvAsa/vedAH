@@ -1,6 +1,5 @@
 +++
-title = "78. For matrimonial happiness."
-title_whitney = "78. For matrimonial happiness."
+title = "०७८ दम्पत्यो रयिप्राप्तये प्रार्थना"
 
 +++
 

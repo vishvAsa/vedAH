@@ -1,6 +1,5 @@
 +++
-title = "26. Praise and prayer to heaven and earth."
-title_whitney = "26. Praise and prayer to heaven and earth."
+title = "०२६ पाप-मोचनम्"
 
 +++
 

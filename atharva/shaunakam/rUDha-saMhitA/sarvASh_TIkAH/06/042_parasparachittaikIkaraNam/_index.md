@@ -1,6 +1,5 @@
 +++
-title = "42. To remove wrath."
-title_whitney = "42. To remove wrath."
+title = "०४२ परस्परचित्तैकीकरणम्"
 
 +++
 
