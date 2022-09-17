@@ -27,3 +27,9 @@ the hymn, which is *triṣṭubh*.
 
 Golden, refulgent, lofty is the Lady, Rohini, Rohita's devoted Consort. Through her may we win various spoil and booty, through her be conquerors in every battle.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+अनुऽव्रता। रोहिणी। रोहितस्य। सूरिः। सुऽवर्णा। बृहती। सुऽवर्चाः। तया। वाजान्। विश्वऽरूपान्। जयेम। तया। विश्वाः। पृतनाः। अभि। स्याम। १.२२।
+</details>
