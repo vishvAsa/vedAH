@@ -23,3 +23,29 @@ for *ghorásya manyúnā* in **c**, and *sárvam* for *téna* and *kṛtám* for
 
 Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrific Agni's wrath have I destroyed thy sacrifice.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+अपि। नह्यामि। ते। बाहू इति। अपि। नह्यामि। आस्यम्। अग्ने:। घोरस्य। मन्युना। तेन। ते। अवधिषम्। हवि:। ७३.५।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+शत्रु के दमन का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  [हे शत्रु !] (ते) तेरी (बाहू) दोनों भुजाओं को (अपि नह्यामि) बाँधे देता हूँ और (आस्यम्) मुख को (अपि) भी (नह्यामि) बन्द करता हूँ। (घोरस्य) भयंकर (अग्नेः) तेजस्वी सेनापति के (तेन मन्युना) उस क्रोध से (ते) तेरे (हविः) भोजनादि ग्राह्य पदार्थ को (अवधिषम्) मैंने नष्ट कर दिया है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र चार के समान ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५−(घोरस्य) भयङ्करस्य। अन्यत् पूर्ववत्-म० ४ ॥
+</details>

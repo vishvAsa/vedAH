@@ -16,3 +16,29 @@ his assembly, fit for the assembly becometh he who knoweth thus.
 
 She mounted up, she entered the Assembly. He who knows this becomes polite and courtly, and people come as guests to his assembly.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यन्ति। अस्य। देवा:। देवऽहूतिम्। प्रिय:। देवानाम्। भवति। य:। एवम्। वेद। । १०.५।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्म विद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अस्य) उस [पुरुष] के (देवहूतिम्) विद्वानों के लिये बुलावे में (देवाः) विद्वान् लोग (यन्ति) जाते हैं, वह (देवानाम्) विद्वानों का (प्रियः) प्रिय (भवति) होता है, (यः) जो (एवम्) ऐसा (वेद) जानता है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वरमहिमा को जाननेवाला पुरुष विद्वानों का प्रिय होता है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५−(यन्ति) गच्छन्ति (अस्य) तस्य (देवाः) विद्वांसः (देवहूतिम्) विद्वद्भ्य आह्वानम् (प्रियः) हितः (देवानाम्) विदुषाम्। अन्यत् सुगमम् ॥
+</details>

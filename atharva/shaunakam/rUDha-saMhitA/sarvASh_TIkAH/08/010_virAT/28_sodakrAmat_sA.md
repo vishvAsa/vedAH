@@ -24,3 +24,29 @@ occurrence not noted⌋, and reads in **b** *vasuruciḥ sūryavarcaso* and
 
 She mounted up, she came to Other People. They called her, crying, Come, Concealment! hither. Her dear calf was Vaisravana Kubera, a vessel never tempered was her milk-pail. Rajatanabhi, offspring of Kubera, milked her, and from her udder drew concealment. By that concealment live the Other People. He who knows this becomes a meet supporter, and makes all evil disappear and vanish.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+सा। उत्। अक्रामत्। सा। देवान्। आ। अगच्छत्। ताम्। देवा:। अघ्नत। सा। अर्धऽमासे। सम्। अभवत्। १२.५।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्मविद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सा उत् अक्रामत्) वह [विराट्] ऊपर चढ़ी, (सा) वह (देवान्) सूर्य की किरणों में (आ अगच्छत्) आयी, (ताम्) उसको (देवाः) किरणें (अघ्नत) प्राप्त हुए, (सा) वह (अर्धमासे) आधे महीने [पखवाड़े] में (सम् अभवत्) संयुक्त हुयी ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वरशक्ति किरणों द्वारा अर्ध मास आदि समय उत्पन्न करती है ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५−(देवान्) देवो दानाद्वा दीपनाद् वा द्योतनाद्वा द्युस्थानो भवतीति वा-निरु० ७।१५। देवाः रश्मयः, इति दुर्गाचार्यनिरुक्तटीकायाम्-१२।३९। आदित्यरश्मीन् (अर्धमासे) मासपक्षकाले। अन्यत् पूर्ववत् ॥
+</details>

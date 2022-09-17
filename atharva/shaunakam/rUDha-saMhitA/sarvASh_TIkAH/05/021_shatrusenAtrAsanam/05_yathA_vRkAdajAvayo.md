@@ -18,3 +18,29 @@ omitted in our text after *bíbhyatīḥ*.
 
 As, when the wolf approaches, goats and sheep run sorely terrified, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यथा। वृकात्। अजऽअवय:। धावन्ति। बहु। बिभ्यती:। । एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथोऽइति। चित्तानि। मोहय। २१.५।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+शत्रुओं को जीतने को उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यथा) जैसे (वृकात्) भेड़िये से (बहु) बहुत (बिभ्यतीः) डरती हुई (अजावयः) बकरी और भेड़ें (धावन्ति) भाग जाती हैं। (एव) वैसे ही... म० ४ ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र ४ के समान ॥५॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ५−(यथा) येन प्रकारेण (वृकात्) कुक्कुराकाराद् व्याघ्रभेदात् (अजावयः) वर्करीमेष्यः (धावन्ति) पलायन्ते (बहु) अत्यन्तम् (बिभ्यतीः) बिभ्यत्यः। भयं गच्छन्त्यः। अन्यत् पूर्ववत् म० ॥५॥
+</details>

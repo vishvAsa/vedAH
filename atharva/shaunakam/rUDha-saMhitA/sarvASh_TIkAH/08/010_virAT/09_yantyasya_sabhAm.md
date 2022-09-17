@@ -17,3 +17,29 @@ Ppp. reads at the end *hvayāmahi* (without *iti*).
 
 Of her the Gods and men said, This she knoweth. That we may both have life let us invoke her.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यन्ति। अस्य। सभाम्। सभ्य:। भवति। य:। एवम्। वेद। १०.९।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्म विद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अस्य) उसकी (सभाम्) सभा में (यन्ति) जाते हैं, वह (सभ्यः) सभ्य [सभा में] चतुर (भवति) होता है, (यः एवम् वेद) जो ऐसा जानता है ॥९॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  पुरुषार्थी, ईश्वरमहिमा जाननेवाला मनुष्य सभा में प्रतिज्ञा पाता है ॥९॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ९−(सभ्यः) सभाया यः। पा० ४।४।१०५। सभा-य प्रत्ययः। सभायां साधुः। सभासद्। अन्यत्पूर्ववत् ॥
+</details>

@@ -22,3 +22,29 @@ its occupants.
 
 Full of refreshment, full of charms, of laughter and felicity, Be ever free from hunger, free from thirst! Ye Houses, fear us not. Stay here, and come not after me: prosper in every form and shape. With happy fortune will I come! Grow more abundant still through me!
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+सूनृताऽवन्त:। सुऽभगा:। इराऽवन्त:। हसामुदा:। अतृष्या:। अक्षुध्या:। स्त। गृहा:। मा। अस्मत्। बिभीतन। ६२.६।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+कुवचन के त्याग का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सूनृतावन्तः) प्रिय सत्य वचनवाले, (सुभगाः) बड़े ऐश्वर्यवाले, (इरावन्तः) उत्तम भोजनवाले, (हसामुदाः) हँस-हँस कर प्रसन्न करनेवाले, (गृहाः) हे घर के लोगो ! तुम (अतृष्याः, अक्षुध्याः स्त) प्यासे-भूखे मत रहो, (अस्मत्) हम से (मा बिभीतन) मत भय करो ॥६॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य परस्पर सत्यभाषी, धर्मात्मा होते हैं, वे ही ऐश्वर्य बढ़ाकर सदा प्रसन्न रहते हैं ॥६॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ६−(सूनृतावन्तः) अ० ३।१२।२। सत्यप्रियवाग्युक्ताः (सुभगाः) शोभनैश्वर्यवन्तः (इरावन्तः) अन्नवन्तः-निघ० २।७। (हसामुदाः) हस हसने-क्विप+मुद मोदे क, अन्तर्गतण्यर्थः। हासेन मोदयमानाः। अन्यत् पूर्ववत्-म० ४ ॥
+</details>

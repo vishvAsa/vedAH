@@ -21,3 +21,29 @@ in **c**.
 
 She rose, she came unto the Gods. They called her, crying, O Vigour, come to us, come hither! God Savitar milked her, he milked forth Vigour. The Gods depend for life upon that Vigour. He who knows this becomes a meet supporter.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+सा। उत्। अक्रामत्। सा। पितृन्। आ। अगच्छत्। ताम्। पितर:। अघ्नत। सा। मासि। सम्। अभवत्। १२.३।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्मविद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सा उत् अक्रामत्) वह [विराट्] ऊपर चढ़ा, (सा) वह (पितॄन्) ऋतुओं में (आ अगच्छत्) आई, (ताम्) उसको (पितरः) ऋतुएँ (अघ्नत) प्राप्त हुए, (सा) वह (मासि) महीने में [वा चन्द्रमा में] (सम् अभवत्) संयुक्त हुई ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वरशक्ति की महिमा ऋतु आदि कालों में प्रकट है ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३−(पितॄन्) ऋतून्-दयानन्दभाष्ये, यजु० ८।६०। (पितरः) ऋतवः (मासि) मासे मासे। चन्द्रमसि। अन्यत् पूर्ववत् ॥
+</details>

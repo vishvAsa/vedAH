@@ -28,3 +28,29 @@ paragraph.
 
 She mounted up, the Eastward fire she entered. He who knows this becomes the Gods' beloved, and to his call they come when she invokes them.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+गृहऽमेधी। गृहऽपति:। भवति। य:। एवम्। वेद। १०.३।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्म विद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  वह [पुरुष] (गृहमेधी) घर के काम समझनेवाला (गृहपतिः) गृहपति (भवति) होता है, (यः) जो (एवम्) ऐसा (वेद) जानता है ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र १ और २ में वर्णित विराट् की महिमा जान कर मनुष्य संसार के कामों में चतुर होता है ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३−(गृहमेधी) सुप्यजातौ०। पा० ३।२।७८। गृह+मेधृ वधमेधासंगमेषु-णिनि। गृहं गृहकार्यं मेधति जानाति यः स (गृहपतिः) गृहस्वामी ॥
+</details>

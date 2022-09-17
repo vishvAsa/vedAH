@@ -18,3 +18,29 @@ Ppp. prefixes a *tasyās* at the beginning. Accent again in our text
 
 Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यन्ति। अस्य। आऽमन्त्रणम्। आऽमन्त्रणीय:। भवति। य:। एवम्। वेद। १०.१३।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ब्रह्म विद्या का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  [लोग] (अस्य) उसके (आमन्त्रणम्) अभिनन्दन में (यन्ति) जाते हैं, वह (आमन्त्रणीयः) अभिनन्दनयोग्य (भवति) होता है, (यः एवम् वेद) जो ऐसा जानता है ॥१३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वरज्ञानी पुरुष उच्च पद पाकर संसार में अभिनन्दनयोग्य होते हैं ॥१३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १३−(आमन्त्रणीयः) आमन्त्रण-छ। अभिनन्दनीयः। अन्यत् पूर्ववत् ॥
+</details>

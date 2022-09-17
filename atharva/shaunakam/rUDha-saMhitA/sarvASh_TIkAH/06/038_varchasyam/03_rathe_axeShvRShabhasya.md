@@ -19,3 +19,9 @@ comm.⌋ read *vṛṣabhásya* in **a**.
 
 Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, in Parjanya, In Warrior, in the war-drum stretched for battle, in the man's roar and in the horse's mettle, May the blest Goddess who gave birth to Indra come unto us conjoined with strength and vigour.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+रथे। अक्षेषु। ऋषभस्य। वाजे। वाते। पर्जन्ये। वरुणस्य। शुष्मे। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। न:। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.३।
+</details>

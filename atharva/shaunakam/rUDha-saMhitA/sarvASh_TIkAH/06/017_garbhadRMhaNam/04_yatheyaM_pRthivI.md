@@ -16,3 +16,9 @@ beings, so let thine etc. etc.
 
 Even as this mighty Earth supports the moving world that dwells thereon, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भ:। अनु। सूतुम्। सवितवे। १७.४।
+</details>

@@ -20,3 +20,9 @@ style it.
 
 O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter. For harming Earth let them be turned and troubled. I smite them backward with mine incantation.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+ये। अधस्तात्। जुह्वति। जातऽवेद:। ध्रुवाया:। दिश:। अभिऽदासन्ति। अस्मान्। भूमिम्। ऋत्वा। ते। पराञ्च:। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.५।
+</details>

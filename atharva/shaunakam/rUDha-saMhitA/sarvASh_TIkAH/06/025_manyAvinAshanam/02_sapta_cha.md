@@ -18,3 +18,29 @@ and SPP. with good reason adopts that in his text.
 
 Those seventy-and-seven which meet round the upper vertebrae, Let them all vanish hence away like plaguing insects' buzz and hum!
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+सप्त। च। या:। सप्तति:। च। सम्ऽयन्ति। ग्रैव्या:। अभि। इत:। ता:। सर्वा:। नश्यन्तु। वाका:। अपचिताम्ऽइव। २५.२।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+रोग के नाश के लिये उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सप्त) सात (च च) और (सप्ततिः) सत्तर (याः) जो पीड़ायें (ग्रैव्याः अभि) कण्ठ की नाड़ियों में (संयन्ति) सब ओर से व्यापती हैं (ताः सर्वाः) वे सब म० १ ॥२॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र १ के समान ॥२॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २−(सप्त च सप्ततिश्च) सप्ताधिकसप्ततिसंख्यकाः (ग्रैव्याः) गम्भीराञ्ञ्यः। पा० ४।३।५८। इति बाहुलकात् ग्रीवा−ञ्य। ग्रीवासु भवा नाडीः। अन्यत्पूर्ववत् ॥
+</details>

@@ -15,3 +15,9 @@ title = "०५ दिवेस्वाहा ५"
 
 All hail to Heaven!
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+दिवे। स्वाहा। ९.५।
+</details>

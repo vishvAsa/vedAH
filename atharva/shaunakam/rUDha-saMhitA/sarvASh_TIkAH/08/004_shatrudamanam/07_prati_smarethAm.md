@@ -22,3 +22,9 @@ attenuates the difficult *prati smarethām* to *prati gacchatam*.
 
 In your impetuous manner think ye both thereon: destroy those evil spirits, kill the treacherous fiends. Indra and Soma, let the wicked have no bliss whoso at any time- attacks and injures us.
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+प्रति। स्मरेथाम्। तुजयत्ऽभि:। एवै:। हतम्। द्रुह:। रक्षस:। भङ्गुरऽवत:। इन्द्रासोमा। दु:ऽकृते। मा। सुऽगम्। भूत्। य:। मा। कदा। चित्। अभिऽदासति। द्रुहु:। ४.७।
+</details>

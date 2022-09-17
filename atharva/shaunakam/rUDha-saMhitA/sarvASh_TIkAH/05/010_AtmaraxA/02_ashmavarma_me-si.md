@@ -16,3 +16,9 @@ etc.
 
 Thou art my wall of stone against the sinner who fights against me from the southern quarter. May he encounter it!
 </details>
+
+
+<details open><summary>पदपाठः</summary>
+
+अश्मऽवर्म। मे। असि। य:। मा। दक्षिणाया:। दिश:। अघऽयु:। अभिऽदासात्। एतत्। स:। ऋच्छात्। १०.२।
+</details>
