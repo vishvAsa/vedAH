@@ -1,5 +1,6 @@
 +++
-title = "०८१ गर्भाधानम्"
+title = "81. For successful pregnancy: with an amulet."
+title_whitney = "81. For successful pregnancy: with an amulet."
 
 +++
 

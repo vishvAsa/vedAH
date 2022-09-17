@@ -1,5 +1,6 @@
 +++
-title = "०१३ विद्युत्"
+title = "13. Deterrent homage to lightning."
+title_whitney = "13. Deterrent homage to lightning."
 
 +++
 

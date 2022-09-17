@@ -1,5 +1,6 @@
 +++
-title = "००८ राज्याभिषेकः"
+title = "8. Accompanying the consecration of a king."
+title_whitney = "8. Accompanying the consecration of a king."
 
 +++
 

@@ -1,11 +1,12 @@
 +++
-title = "०३४ ब्रह्मौदनम्"
+title = "34. Extolling a certain rice-mess offering."
+title_whitney = "34. Extolling a certain rice-mess offering."
 
 +++
 
 <details><summary>VH anukramaṇī</summary>
 
-ब्रह्मौदनम्।
+ब्रह्मौदनम्। १-८ अथर्वा। ब्रह्मौदनं। त्रिष्टुप्, ४ उत्तमा भुरिक्, ५ व्यवसाना सप्तपदा …………,
 </details>
 
 <details><summary>Whitney anukramaṇī</summary>

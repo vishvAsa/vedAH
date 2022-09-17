@@ -1,5 +1,6 @@
 +++
-title = "०३८ वर्चस्यम्"
+title = "38. For brilliance."
+title_whitney = "38. For brilliance."
 
 +++
 

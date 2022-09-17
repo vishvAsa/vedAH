@@ -1,5 +1,6 @@
 +++
-title = "०४८ राका"
+title = "48 (50). To Rākā (goddess of the full moon)."
+title_whitney = "48 (50). To Rākā (goddess of the full moon)."
 
 +++
 

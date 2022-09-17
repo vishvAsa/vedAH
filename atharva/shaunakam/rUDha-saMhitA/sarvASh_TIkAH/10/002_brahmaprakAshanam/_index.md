@@ -1,5 +1,6 @@
 +++
-title = "००२ ब्रह्मप्रकाशनम्"
+title = "2. The wonderful structure of man."
+title_whitney = "2. The wonderful structure of man."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "१३४ शत्रुनाशनम्"
+title = "134. To crush an enemy with a thunderbolt."
+title_whitney = "134. To crush an enemy with a thunderbolt."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "१०७ संतरणम्"
+title = "107 (112). To relieve a stinging pain."
+title_whitney = "107 (112). To relieve a stinging pain."
 
 +++
 

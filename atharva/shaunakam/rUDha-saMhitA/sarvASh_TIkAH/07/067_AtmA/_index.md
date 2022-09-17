@@ -1,5 +1,6 @@
 +++
-title = "०६७ आत्मा"
+title = "67 (69). For recovery of sense, etc."
+title_whitney = "67 (69). For recovery of sense, etc."
 
 +++
 

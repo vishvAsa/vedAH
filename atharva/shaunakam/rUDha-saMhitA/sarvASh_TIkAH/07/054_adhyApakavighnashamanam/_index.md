@@ -1,5 +1,6 @@
 +++
-title = "०५४ अध्यापकविघ्नशमनम्"
+title = "54 (56, 57. 1). Extolling verse and chant."
+title_whitney = "54 (56, 57. 1). Extolling verse and chant."
 
 +++
 

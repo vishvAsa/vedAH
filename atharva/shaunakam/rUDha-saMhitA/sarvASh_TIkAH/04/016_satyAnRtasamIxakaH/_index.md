@@ -1,5 +1,6 @@
 +++
-title = "०१६ सत्यानृतसमीक्षकः"
+title = "16. The power of the gods."
+title_whitney = "16. The power of the gods."
 
 +++
 

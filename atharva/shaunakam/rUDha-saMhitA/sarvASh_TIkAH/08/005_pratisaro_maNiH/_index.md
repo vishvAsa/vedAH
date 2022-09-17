@@ -1,5 +1,6 @@
 +++
-title = "००५ प्रतिसरो मणिः"
+title = "5. Against witchcraft etc.: with an amulet."
+title_whitney = "5. Against witchcraft etc.: with an amulet."
 
 +++
 

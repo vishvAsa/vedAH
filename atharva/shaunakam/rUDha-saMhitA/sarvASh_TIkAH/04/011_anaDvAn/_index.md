@@ -1,5 +1,6 @@
 +++
-title = "०११ अनड्वान्"
+title = "11. In praise of the draft-ox."
+title_whitney = "11. In praise of the draft-ox."
 
 +++
 

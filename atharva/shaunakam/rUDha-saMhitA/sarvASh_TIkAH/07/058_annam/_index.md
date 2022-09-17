@@ -1,5 +1,6 @@
 +++
-title = "०५८ अन्नम्"
+title = "58 (60). Invitation to Indra and Varuṇa."
+title_whitney = "58 (60). Invitation to Indra and Varuṇa."
 
 +++
 

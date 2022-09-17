@@ -1,5 +1,6 @@
 +++
-title = "००३ शत्रुनाशनम्"
+title = "3. Against wild beasts and thieves."
+title_whitney = "3. Against wild beasts and thieves."
 
 +++
 

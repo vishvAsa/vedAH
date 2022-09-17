@@ -1,5 +1,6 @@
 +++
-title = "१३६ केशदृंहणम्"
+title = "136. To fasten and increase the hair."
+title_whitney = "136. To fasten and increase the hair."
 
 +++
 

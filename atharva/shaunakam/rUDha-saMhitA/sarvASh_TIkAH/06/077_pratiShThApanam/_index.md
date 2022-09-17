@@ -1,5 +1,6 @@
 +++
-title = "०७७ प्रतिष्ठापनम्"
+title = "77. For recovery and retention of what is lost."
+title_whitney = "77. For recovery and retention of what is lost."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०५० विजयः"
+title = "50 (52). For success with dice."
+title_whitney = "50 (52). For success with dice."
 
 +++
 

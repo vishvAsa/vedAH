@@ -1,5 +1,6 @@
 +++
-title = "०७४ गण्डमालाचिकित्सा"
+title = "74 (78). Against apacíts: against jealousy: to Agni."
+title_whitney = "74 (78). Against apacíts: against jealousy: to Agni."
 
 +++
 

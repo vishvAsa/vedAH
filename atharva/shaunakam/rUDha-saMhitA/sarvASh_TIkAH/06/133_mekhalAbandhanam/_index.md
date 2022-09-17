@@ -1,5 +1,6 @@
 +++
-title = "१३३ मेखलाबन्धनम्"
+title = "133. To a girdle: for long life etc."
+title_whitney = "133. To a girdle: for long life etc."
 
 +++
 

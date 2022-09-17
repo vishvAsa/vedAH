@@ -1,5 +1,6 @@
 +++
-title = "०८१ सूर्याचन्द्रमसौ"
+title = "81 (86). To the sun and moon."
+title_whitney = "81 (86). To the sun and moon."
 
 +++
 

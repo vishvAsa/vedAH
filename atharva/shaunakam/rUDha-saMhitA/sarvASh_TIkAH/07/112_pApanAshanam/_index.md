@@ -1,5 +1,6 @@
 +++
-title = "११२ पापनाशनम्"
+title = "112 (117). For release from guilt and distress."
+title_whitney = "112 (117). For release from guilt and distress."
 
 +++
 

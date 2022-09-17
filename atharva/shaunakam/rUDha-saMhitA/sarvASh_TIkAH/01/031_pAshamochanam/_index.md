@@ -1,5 +1,6 @@
 +++
-title = "०३१ पाशमोचनम्"
+title = "31. To the divine guardians of the quarters."
+title_whitney = "31. To the divine guardians of the quarters."
 
 +++
 

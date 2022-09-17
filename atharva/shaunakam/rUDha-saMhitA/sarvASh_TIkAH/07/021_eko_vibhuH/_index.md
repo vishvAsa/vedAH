@@ -1,5 +1,6 @@
 +++
-title = "०२१ एको विभुः"
+title = "21 (22). In praise of the sun."
+title_whitney = "21 (22). In praise of the sun."
 
 +++
 

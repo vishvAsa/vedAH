@@ -1,5 +1,6 @@
 +++
-title = "००७ अरातिनाशनम्"
+title = "7. Against niggardliness and its effects."
+title_whitney = "7. Against niggardliness and its effects."
 
 +++
 

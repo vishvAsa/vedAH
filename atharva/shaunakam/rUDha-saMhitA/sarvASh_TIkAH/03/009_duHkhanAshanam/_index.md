@@ -1,5 +1,6 @@
 +++
-title = "००९ दुःखनाशनम्"
+title = "9. Against viṣkandha and other evils."
+title_whitney = "9. Against viṣkandha and other evils."
 
 +++
 

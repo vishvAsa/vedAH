@@ -1,5 +1,6 @@
 +++
-title = "०२१ गावः"
+title = "21. Praise of the kine."
+title_whitney = "21. Praise of the kine."
 
 +++
 

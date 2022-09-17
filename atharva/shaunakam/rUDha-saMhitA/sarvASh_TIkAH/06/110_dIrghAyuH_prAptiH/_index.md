@@ -1,5 +1,6 @@
 +++
-title = "११० दीर्घायुः प्राप्तिः"
+title = "110. For a child born at an unlucky time."
+title_whitney = "110. For a child born at an unlucky time."
 
 +++
 

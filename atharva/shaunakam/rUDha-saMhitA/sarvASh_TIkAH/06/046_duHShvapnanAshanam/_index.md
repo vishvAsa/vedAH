@@ -1,5 +1,6 @@
 +++
-title = "०४६ दुःष्वप्ननाशनम्"
+title = "46. Against evil dreams."
+title_whitney = "46. Against evil dreams."
 
 +++
 

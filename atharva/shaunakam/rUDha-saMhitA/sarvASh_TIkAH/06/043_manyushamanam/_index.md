@@ -1,5 +1,6 @@
 +++
-title = "०४३ मन्युशमनम्"
+title = "43. To assuage wrath."
+title_whitney = "43. To assuage wrath."
 
 +++
 

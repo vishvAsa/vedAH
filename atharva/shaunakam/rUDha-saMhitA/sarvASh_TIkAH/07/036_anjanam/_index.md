@@ -1,5 +1,6 @@
 +++
-title = "०३६ अञ्जनम्"
+title = "36 (37). Husband and wife to one another."
+title_whitney = "36 (37). Husband and wife to one another."
 
 +++
 

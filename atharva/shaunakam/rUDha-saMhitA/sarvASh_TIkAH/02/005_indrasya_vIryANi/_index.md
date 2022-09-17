@@ -1,5 +1,6 @@
 +++
-title = "००५ इन्द्रस्य वीर्याणि"
+title = "5. Praise and prayer to Indra."
+title_whitney = "5. Praise and prayer to Indra."
 
 +++
 

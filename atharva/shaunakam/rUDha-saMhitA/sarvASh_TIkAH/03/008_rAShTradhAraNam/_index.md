@@ -1,5 +1,6 @@
 +++
-title = "००८ राष्ट्रधारणम्"
+title = "8. For authority."
+title_whitney = "8. For authority."
 
 +++
 

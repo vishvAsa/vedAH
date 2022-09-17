@@ -1,5 +1,6 @@
 +++
-title = "०४५ दुःष्वप्ननाशनम्"
+title = "45. In atonement of offenses."
+title_whitney = "45. In atonement of offenses."
 
 +++
 

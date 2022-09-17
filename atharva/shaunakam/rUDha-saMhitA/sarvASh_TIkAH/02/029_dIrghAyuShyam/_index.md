@@ -1,5 +1,6 @@
 +++
-title = "०२९ दीर्घायुष्यम्"
+title = "29. For some one's long life and other blessings."
+title_whitney = "29. For some one's long life and other blessings."
 
 +++
 

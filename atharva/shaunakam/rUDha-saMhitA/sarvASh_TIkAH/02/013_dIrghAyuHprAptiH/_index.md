@@ -1,5 +1,6 @@
 +++
-title = "०१३ दीर्घायुःप्राप्तिः"
+title = "13. For welfare and long life of an infant."
+title_whitney = "13. For welfare and long life of an infant."
 
 +++
 

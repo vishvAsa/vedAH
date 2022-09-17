@@ -1,5 +1,6 @@
 +++
-title = "००४ दीर्घायुःप्राप्तिः"
+title = "4. Against various evils: with a jan̄giḍá amulet."
+title_whitney = "4. Against various evils: with a jan̄giḍá amulet."
 
 +++
 

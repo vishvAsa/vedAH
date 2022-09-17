@@ -1,5 +1,6 @@
 +++
-title = "०९७ अभिभूर्वीरः"
+title = "97. For victory."
+title_whitney = "97. For victory."
 
 +++
 

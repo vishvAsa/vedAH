@@ -1,5 +1,6 @@
 +++
-title = "०१४ कुलपा कन्या"
+title = "14. Imprecation of spinsterhood on a woman."
+title_whitney = "14. Imprecation of spinsterhood on a woman."
 
 +++
 

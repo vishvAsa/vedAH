@@ -1,5 +1,6 @@
 +++
-title = "०११ श्रेयःप्राप्तिः"
+title = "11. To counteract witchcraft: with an amulet."
+title_whitney = "11. To counteract witchcraft: with an amulet."
 
 +++
 

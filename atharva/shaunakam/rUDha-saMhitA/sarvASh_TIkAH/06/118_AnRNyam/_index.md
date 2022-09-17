@@ -1,5 +1,6 @@
 +++
-title = "११८ आनृण्यम्"
+title = "118. For relief from guilt."
+title_whitney = "118. For relief from guilt."
 
 +++
 

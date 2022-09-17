@@ -1,5 +1,6 @@
 +++
-title = "००८ शत्रुनाशनम्"
+title = "8. Against enemies: to Indra and other gods."
+title_whitney = "8. Against enemies: to Indra and other gods."
 
 +++
 

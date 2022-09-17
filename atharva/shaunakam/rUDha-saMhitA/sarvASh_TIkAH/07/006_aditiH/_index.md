@@ -1,5 +1,6 @@
 +++
-title = "००६ अदितिः"
+title = "6 (6, 7). Praise of Aditi."
+title_whitney = "6 (6, 7). Praise of Aditi."
 
 +++
 

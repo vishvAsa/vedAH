@@ -1,5 +1,6 @@
 +++
-title = "००५ वर्चः प्राप्तिः"
+title = "5. For some one's exaltation."
+title_whitney = "5. For some one's exaltation."
 
 +++
 

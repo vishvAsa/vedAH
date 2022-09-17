@@ -1,5 +1,6 @@
 +++
-title = "००४ कुष्ठतक्मनाशनम्"
+title = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
+title_whitney = "4. To the plant kúṣṭha: against takmán ⌊fever⌋."
 
 +++
 

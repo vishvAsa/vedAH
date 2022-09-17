@@ -1,5 +1,6 @@
 +++
-title = "०३८ वाजिनीवान् ऋषभः"
+title = "38. For luck in gambling: by aid of an Apsaras."
+title_whitney = "38. For luck in gambling: by aid of an Apsaras."
 
 +++
 

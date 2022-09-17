@@ -1,5 +1,6 @@
 +++
-title = "१२१ सुकृतलोकप्राप्तिः"
+title = "121. For release from evil."
+title_whitney = "121. For release from evil."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "१०१ वाजीकरणम्"
+title = "101. For virile power."
+title_whitney = "101. For virile power."
 
 +++
 

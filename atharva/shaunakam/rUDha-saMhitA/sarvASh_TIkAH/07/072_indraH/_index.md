@@ -1,5 +1,6 @@
 +++
-title = "०७२ इन्द्रः"
+title = "72 (75, 76). With an oblation to Indra."
+title_whitney = "72 (75, 76). With an oblation to Indra."
 
 +++
 

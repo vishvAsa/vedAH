@@ -1,5 +1,6 @@
 +++
-title = "०२६ शर्मप्राप्तिः"
+title = "26. For protection from the wrath of the gods."
+title_whitney = "26. For protection from the wrath of the gods."
 
 +++
 

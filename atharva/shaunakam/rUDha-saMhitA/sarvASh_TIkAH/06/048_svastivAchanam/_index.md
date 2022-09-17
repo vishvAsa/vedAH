@@ -1,5 +1,6 @@
 +++
-title = "०४८ स्वस्तिवाचनम्"
+title = "48. To the deities of the three daily libations."
+title_whitney = "48. To the deities of the three daily libations."
 
 +++
 

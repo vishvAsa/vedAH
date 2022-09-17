@@ -1,5 +1,6 @@
 +++
-title = "०२९ अरिष्टक्षयणम्"
+title = "29. Against birds of ill omen."
+title_whitney = "29. Against birds of ill omen."
 
 +++
 

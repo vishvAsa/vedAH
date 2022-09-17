@@ -1,5 +1,6 @@
 +++
-title = "००७ विषनाषनम्"
+title = "7. Against poison."
+title_whitney = "7. Against poison."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००२ आत्मविद्या"
+title = "2. To the unknown god."
+title_whitney = "2. To the unknown god."
 
 +++
 

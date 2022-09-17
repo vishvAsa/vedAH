@@ -1,5 +1,6 @@
 +++
-title = "०३२ महद्ब्रह्म"
+title = "32. Cosmogonic."
+title_whitney = "32. Cosmogonic."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०१५ रोगोपशमनम्"
+title = "15. For exorcism: to a plant."
+title_whitney = "15. For exorcism: to a plant."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०२७ स्वस्त्ययनम्"
+title = "27. Against various evils."
+title_whitney = "27. Against various evils."
 
 +++
 

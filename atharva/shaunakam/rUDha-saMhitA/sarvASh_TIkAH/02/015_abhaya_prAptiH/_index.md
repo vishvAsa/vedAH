@@ -1,5 +1,6 @@
 +++
-title = "०१५ अभय प्राप्तिः"
+title = "15. Against fear."
+title_whitney = "15. Against fear."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "१०९ पिप्पली-भैषज्यम्"
+title = "109. For healing: with pippalī́."
+title_whitney = "109. For healing: with pippalī́."
 
 +++
 

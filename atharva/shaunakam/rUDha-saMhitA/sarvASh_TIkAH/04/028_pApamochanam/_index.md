@@ -1,5 +1,6 @@
 +++
-title = "०२८ पापमोचनम्"
+title = "28. Praise and prayer to Bhava and śarva."
+title_whitney = "28. Praise and prayer to Bhava and śarva."
 
 +++
 

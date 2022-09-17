@@ -1,5 +1,6 @@
 +++
-title = "१४१ गोकर्णयोर्लक्ष्यकरणम्"
+title = "141. With marking of cattle's ears."
+title_whitney = "141. With marking of cattle's ears."
 
 +++
 

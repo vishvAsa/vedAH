@@ -1,5 +1,6 @@
 +++
-title = "०३५ वैश्वानरः"
+title = "35. Prayer to Agni Vāiśvānara."
+title_whitney = "35. Prayer to Agni Vāiśvānara."
 
 +++
 

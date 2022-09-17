@@ -1,5 +1,6 @@
 +++
-title = "११५ पापलक्षणनाशनम्"
+title = "115 (120). Against ill luck."
+title_whitney = "115 (120). Against ill luck."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०३१ कृत्यापरिहरणम्"
+title = "31. Against witchcraft."
+title_whitney = "31. Against witchcraft."
 
 +++
 

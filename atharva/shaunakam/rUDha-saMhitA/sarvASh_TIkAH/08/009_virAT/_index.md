@@ -1,5 +1,6 @@
 +++
-title = "००९ विराट्"
+title = "9. Mystic: extolling the virā́j."
+title_whitney = "9. Mystic: extolling the virā́j."
 
 +++
 

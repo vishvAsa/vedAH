@@ -1,5 +1,6 @@
 +++
-title = "०४६ सिनीवाली"
+title = "46 (48). To Sinīvāli (goddess of the new moon)."
+title_whitney = "46 (48). To Sinīvāli (goddess of the new moon)."
 
 +++
 

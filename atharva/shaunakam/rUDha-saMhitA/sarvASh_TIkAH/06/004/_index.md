@@ -1,5 +1,6 @@
 +++
-title = "००४ "
+title = "4. To various divinities: for protection."
+title_whitney = "4. To various divinities: for protection."
 
 +++
 

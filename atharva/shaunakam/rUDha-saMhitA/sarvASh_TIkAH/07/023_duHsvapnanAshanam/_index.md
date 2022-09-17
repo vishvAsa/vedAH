@@ -1,5 +1,6 @@
 +++
-title = "०२३ दुःस्वप्ननाशनम्"
+title = "23 (24). Against ill conditions and beings."
+title_whitney = "23 (24). Against ill conditions and beings."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०१७ द्रविणार्थ प्रार्थना"
+title = "17 (18). Prayer to Dhātar for blessings."
+title_whitney = "17 (18). Prayer to Dhātar for blessings."
 
 +++
 

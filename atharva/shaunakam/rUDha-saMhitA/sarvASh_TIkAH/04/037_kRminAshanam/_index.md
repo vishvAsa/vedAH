@@ -1,5 +1,6 @@
 +++
-title = "०३७ कृमिनाशनम्"
+title = "37. Against various superhuman foes: with an herb."
+title_whitney = "37. Against various superhuman foes: with an herb."
 
 +++
 

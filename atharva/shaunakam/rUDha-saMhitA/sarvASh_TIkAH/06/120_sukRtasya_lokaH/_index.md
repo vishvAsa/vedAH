@@ -1,5 +1,6 @@
 +++
-title = "१२० सुकृतस्य लोकः"
+title = "120. To reach heaven."
+title_whitney = "120. To reach heaven."
 
 +++
 

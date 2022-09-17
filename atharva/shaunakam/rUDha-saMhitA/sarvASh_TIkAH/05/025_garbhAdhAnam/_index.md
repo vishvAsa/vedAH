@@ -1,5 +1,6 @@
 +++
-title = "०२५ गर्भाधानम्"
+title = "25. For successful conception."
+title_whitney = "25. For successful conception."
 
 +++
 

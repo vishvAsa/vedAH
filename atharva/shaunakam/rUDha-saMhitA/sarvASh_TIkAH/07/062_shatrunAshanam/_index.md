@@ -1,5 +1,6 @@
 +++
-title = "०६२ शत्रुनाशनम्"
+title = "62 (64). To Agni: against enemies."
+title_whitney = "62 (64). To Agni: against enemies."
 
 +++
 

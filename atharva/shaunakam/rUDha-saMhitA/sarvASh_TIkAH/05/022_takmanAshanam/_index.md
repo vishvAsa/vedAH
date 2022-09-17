@@ -1,5 +1,6 @@
 +++
-title = "०२२ तक्मनाशनम्"
+title = "22. Against fever (takmán)."
+title_whitney = "22. Against fever (takmán)."
 
 +++
 

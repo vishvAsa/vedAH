@@ -1,5 +1,6 @@
 +++
-title = "०११ सरस्वती"
+title = "11 (12). Against injury to the grain by lightning."
+title_whitney = "11 (12). Against injury to the grain by lightning."
 
 +++
 

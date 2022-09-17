@@ -1,5 +1,6 @@
 +++
-title = "०२३ शत्रुनिवारणम्"
+title = "23. Against leprosy: with a healing herb."
+title_whitney = "23. Against leprosy: with a healing herb."
 
 +++
 

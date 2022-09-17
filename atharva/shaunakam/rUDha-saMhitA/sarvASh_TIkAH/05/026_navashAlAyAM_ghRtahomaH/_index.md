@@ -1,5 +1,6 @@
 +++
-title = "०२६ नवशालायां घृतहोमः"
+title = "26. Accompanying a sacrifice."
+title_whitney = "26. Accompanying a sacrifice."
 
 +++
 

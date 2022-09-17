@@ -1,5 +1,6 @@
 +++
-title = "०२४ ब्रह्मकर्म"
+title = "24. To various gods as overlords."
+title_whitney = "24. To various gods as overlords."
 
 +++
 

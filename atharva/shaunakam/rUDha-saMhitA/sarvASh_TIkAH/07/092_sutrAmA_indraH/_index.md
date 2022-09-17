@@ -1,5 +1,6 @@
 +++
-title = "०९२ सुत्रामा इन्द्रः"
+title = "92 (97). To Indra: for aid."
+title_whitney = "92 (97). To Indra: for aid."
 
 +++
 

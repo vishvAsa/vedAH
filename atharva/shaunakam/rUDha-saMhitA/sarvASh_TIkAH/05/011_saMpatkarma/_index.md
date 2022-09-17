@@ -1,5 +1,6 @@
 +++
-title = "०११ संपत्कर्म"
+title = "11. ⌊Dialogue between⌋ Varuṇa and Atharvan."
+title_whitney = "11. ⌊Dialogue between⌋ Varuṇa and Atharvan."
 
 +++
 

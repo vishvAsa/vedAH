@@ -1,5 +1,6 @@
 +++
-title = "०२० अनुमतिः"
+title = "20 (21). Praise and prayer to Anumati."
+title_whitney = "20 (21). Praise and prayer to Anumati."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०३५ मृत्युसंतरणम्"
+title = "35. Extolling a rice-mess offering."
+title_whitney = "35. Extolling a rice-mess offering."
 
 +++
 

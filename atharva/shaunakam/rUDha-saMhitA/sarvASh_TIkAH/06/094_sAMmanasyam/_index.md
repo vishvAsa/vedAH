@@ -1,5 +1,6 @@
 +++
-title = "०९४ सांमनस्यम्"
+title = "94. For harmony."
+title_whitney = "94. For harmony."
 
 +++
 

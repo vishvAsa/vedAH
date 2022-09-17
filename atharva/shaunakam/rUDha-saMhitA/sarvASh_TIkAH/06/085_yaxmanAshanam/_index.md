@@ -1,5 +1,6 @@
 +++
-title = "०८५ यक्ष्मनाशनम्"
+title = "85. For relief from yákṣma."
+title_whitney = "85. For relief from yákṣma."
 
 +++
 

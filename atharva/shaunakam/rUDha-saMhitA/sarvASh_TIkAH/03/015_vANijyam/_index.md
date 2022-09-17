@@ -1,5 +1,6 @@
 +++
-title = "०१५ वाणिज्यम्"
+title = "15. For success in trade."
+title_whitney = "15. For success in trade."
 
 +++
 

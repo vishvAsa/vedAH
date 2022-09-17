@@ -1,5 +1,6 @@
 +++
-title = "०१२ ऋतस्य यज्ञः"
+title = "12. Āprī-hymn: to various divinities."
+title_whitney = "12. Āprī-hymn: to various divinities."
 
 +++
 

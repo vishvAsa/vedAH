@@ -1,5 +1,6 @@
 +++
-title = "०२८ रक्षोघ्नम्"
+title = "28. Against sorcerers and witches."
+title_whitney = "28. Against sorcerers and witches."
 
 +++
 

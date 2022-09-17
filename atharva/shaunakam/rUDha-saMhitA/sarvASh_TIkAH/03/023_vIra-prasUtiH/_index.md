@@ -1,5 +1,6 @@
 +++
-title = "०२३ वीर-प्रसूतिः"
+title = "23. For fecundity."
+title_whitney = "23. For fecundity."
 
 +++
 

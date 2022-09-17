@@ -1,5 +1,6 @@
 +++
-title = "००३ मूत्रमोचनम्"
+title = "3. Against obstruction of urine: with a reed."
+title_whitney = "3. Against obstruction of urine: with a reed."
 
 +++
 

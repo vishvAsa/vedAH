@@ -1,5 +1,6 @@
 +++
-title = "००२ रोगोपशमनम्"
+title = "2. Against injury and disease: with a reed."
+title_whitney = "2. Against injury and disease: with a reed."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००७ यातुधाननाशनम्"
+title = "7. To Agni: for the discovеrу of sorcerers."
+title_whitney = "7. To Agni: for the discovеrу of sorcerers."
 
 +++
 

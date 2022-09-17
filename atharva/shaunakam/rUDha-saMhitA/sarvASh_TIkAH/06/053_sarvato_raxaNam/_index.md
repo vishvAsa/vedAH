@@ -1,5 +1,6 @@
 +++
-title = "०५३ सर्वतो रक्षणम्"
+title = "53. For protection: to various gods."
+title_whitney = "53. For protection: to various gods."
 
 +++
 

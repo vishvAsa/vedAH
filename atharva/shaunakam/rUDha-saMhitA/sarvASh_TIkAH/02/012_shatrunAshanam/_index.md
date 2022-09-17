@@ -1,5 +1,6 @@
 +++
-title = "०१२ शत्रुनाशनम्"
+title = "12. ⌊Against such as would thwart my incantations.⌋"
+title_whitney = "12. ⌊Against such as would thwart my incantations.⌋"
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००६ अतिथि-सत्कारः"
+title = "6. Exalting the entertainment of guests."
+title_whitney = "6. Exalting the entertainment of guests."
 
 +++
 

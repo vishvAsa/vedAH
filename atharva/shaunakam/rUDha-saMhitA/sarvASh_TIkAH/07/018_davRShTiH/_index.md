@@ -1,5 +1,6 @@
 +++
-title = "०१८ दवृष्टिः"
+title = "18 (19). For rain, etc."
+title_whitney = "18 (19). For rain, etc."
 
 +++
 

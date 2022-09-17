@@ -1,5 +1,6 @@
 +++
-title = "०३२ दीर्घायुः"
+title = "32 (33). Homage to Soma (?)."
+title_whitney = "32 (33). Homage to Soma (?)."
 
 +++
 

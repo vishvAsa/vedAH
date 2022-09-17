@@ -1,5 +1,6 @@
 +++
-title = "१०२ अभिसांमनस्यम्"
+title = "102. To win a woman."
+title_whitney = "102. To win a woman."
 
 +++
 

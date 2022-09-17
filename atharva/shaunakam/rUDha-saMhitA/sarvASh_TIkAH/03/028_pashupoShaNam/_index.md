@@ -1,5 +1,6 @@
 +++
-title = "०२८ पशुपोषणम्"
+title = "28. To avert the ill omen of a twinning animal."
+title_whitney = "28. To avert the ill omen of a twinning animal."
 
 +++
 

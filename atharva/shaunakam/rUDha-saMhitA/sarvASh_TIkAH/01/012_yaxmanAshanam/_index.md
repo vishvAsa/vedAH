@@ -1,5 +1,6 @@
 +++
-title = "०१२ यक्ष्मनाशनम्"
+title = "12. Against various ailments (as results of lightning?)."
+title_whitney = "12. Against various ailments (as results of lightning?)."
 
 +++
 

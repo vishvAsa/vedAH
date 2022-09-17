@@ -1,5 +1,6 @@
 +++
-title = "०४७ दीर्घायुः प्राप्तिः"
+title = "47. For blessings: at the three daily libations."
+title_whitney = "47. For blessings: at the three daily libations."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००३ आस्रावस्य"
+title = "3. For relief from flux: with a certain remedy."
+title_whitney = "3. For relief from flux: with a certain remedy."
 
 +++
 

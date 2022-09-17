@@ -1,5 +1,6 @@
 +++
-title = "०३६ पतिवेदनम्"
+title = "36. To get a husband for a woman."
+title_whitney = "36. To get a husband for a woman."
 
 +++
 

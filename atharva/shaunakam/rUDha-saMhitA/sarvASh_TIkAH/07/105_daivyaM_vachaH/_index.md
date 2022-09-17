@@ -1,5 +1,6 @@
 +++
-title = "१०५ दैव्यं वचः"
+title = "105 (110). An exhortation to holy life."
+title_whitney = "105 (110). An exhortation to holy life."
 
 +++
 

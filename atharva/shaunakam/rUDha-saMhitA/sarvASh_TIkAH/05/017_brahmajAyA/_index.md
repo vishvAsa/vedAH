@@ -1,5 +1,6 @@
 +++
-title = "०१७ ब्रह्मजाया"
+title = "17. The Brahman's wife."
+title_whitney = "17. The Brahman's wife."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०१५ सविता"
+title = "15 (16). Prayer to Savitar."
+title_whitney = "15 (16). Prayer to Savitar."
 
 +++
 

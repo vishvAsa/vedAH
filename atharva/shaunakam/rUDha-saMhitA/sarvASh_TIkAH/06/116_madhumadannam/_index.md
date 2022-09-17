@@ -1,5 +1,6 @@
 +++
-title = "११६ मधुमदन्नम्"
+title = "116. For relief from guilt."
+title_whitney = "116. For relief from guilt."
 
 +++
 

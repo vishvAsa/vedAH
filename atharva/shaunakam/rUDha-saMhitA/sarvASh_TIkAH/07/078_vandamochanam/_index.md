@@ -1,5 +1,6 @@
 +++
-title = "०७८ वन्दमोचनम्"
+title = "78 (83). To Agni: in favor of some one."
+title_whitney = "78 (83). To Agni: in favor of some one."
 
 +++
 

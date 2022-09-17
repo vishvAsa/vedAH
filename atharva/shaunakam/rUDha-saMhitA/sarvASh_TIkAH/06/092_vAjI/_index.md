@@ -1,5 +1,6 @@
 +++
-title = "०९२ वाजी"
+title = "92. For success of a horse."
+title_whitney = "92. For success of a horse."
 
 +++
 

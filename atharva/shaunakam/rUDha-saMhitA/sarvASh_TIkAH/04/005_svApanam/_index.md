@@ -1,5 +1,6 @@
 +++
-title = "००५ स्वापनम्"
+title = "5. An incantation to put to sleep."
+title_whitney = "5. An incantation to put to sleep."
 
 +++
 

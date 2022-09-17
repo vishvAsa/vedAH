@@ -1,5 +1,6 @@
 +++
-title = "०९९ वेदी"
+title = "99 (104). When bestrewing the védi."
+title_whitney = "99 (104). When bestrewing the védi."
 
 +++
 

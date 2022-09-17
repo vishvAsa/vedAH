@@ -1,5 +1,6 @@
 +++
-title = "०१० पाप -विमोचनम्"
+title = "10. For some one's release from Varuṇa's wrath."
+title_whitney = "10. For some one's release from Varuṇa's wrath."
 
 +++
 

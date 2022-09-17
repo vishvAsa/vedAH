@@ -1,5 +1,6 @@
 +++
-title = "०३९ आपः"
+title = "39 (40). In praise of Sarasvant (?)."
+title_whitney = "39 (40). In praise of Sarasvant (?)."
 
 +++
 

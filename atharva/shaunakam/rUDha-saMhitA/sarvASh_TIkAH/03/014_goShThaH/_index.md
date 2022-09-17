@@ -1,5 +1,6 @@
 +++
-title = "०१४ गोष्ठः"
+title = "14. A blessing on the kine."
+title_whitney = "14. A blessing on the kine."
 
 +++
 

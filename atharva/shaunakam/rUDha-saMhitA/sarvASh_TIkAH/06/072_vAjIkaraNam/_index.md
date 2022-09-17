@@ -1,5 +1,6 @@
 +++
-title = "०७२ वाजीकरणम्"
+title = "72. For virile power."
+title_whitney = "72. For virile power."
 
 +++
 

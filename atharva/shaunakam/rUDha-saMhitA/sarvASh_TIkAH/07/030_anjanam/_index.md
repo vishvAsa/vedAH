@@ -1,5 +1,6 @@
 +++
-title = "०३० अञ्जनम्"
+title = "30 (31). For successful anointing."
+title_whitney = "30 (31). For successful anointing."
 
 +++
 

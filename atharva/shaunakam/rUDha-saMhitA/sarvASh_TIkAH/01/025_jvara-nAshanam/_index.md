@@ -1,5 +1,6 @@
 +++
-title = "०२५ ज्वर-नाशनम्"
+title = "25. Against fever"
+title_whitney = "25. Against fever"
 
 +++
 

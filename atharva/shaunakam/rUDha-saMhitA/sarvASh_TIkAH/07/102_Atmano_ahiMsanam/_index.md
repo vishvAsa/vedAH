@@ -1,5 +1,6 @@
 +++
-title = "१०२ आत्मनोऽहिंसनम्"
+title = "102 (107). Accompanying self-relief."
+title_whitney = "102 (107). Accompanying self-relief."
 
 +++
 

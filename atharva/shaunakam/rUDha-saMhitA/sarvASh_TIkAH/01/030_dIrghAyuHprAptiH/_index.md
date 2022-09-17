@@ -1,5 +1,6 @@
 +++
-title = "०३० दीर्घायुःप्राप्तिः"
+title = "30. For protection: to all the gods."
+title_whitney = "30. For protection: to all the gods."
 
 +++
 

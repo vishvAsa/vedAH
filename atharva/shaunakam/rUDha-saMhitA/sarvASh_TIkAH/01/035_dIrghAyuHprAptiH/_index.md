@@ -1,5 +1,6 @@
 +++
-title = "०३५ दीर्घायुःप्राप्तिः"
+title = "35. For long life etc.: with a gold amulet."
+title_whitney = "35. For long life etc.: with a gold amulet."
 
 +++
 

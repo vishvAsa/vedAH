@@ -1,5 +1,6 @@
 +++
-title = "००८ क्षेत्रियरोगनाशनम्"
+title = "8. Against the disease kṣetriyá: with a plant."
+title_whitney = "8. Against the disease kṣetriyá: with a plant."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००५ राष्ट्रस्य राजा राजकृतश्च"
+title = "5. For prosperity: with a parṇá-amulet."
+title_whitney = "5. For prosperity: with a parṇá-amulet."
 
 +++
 

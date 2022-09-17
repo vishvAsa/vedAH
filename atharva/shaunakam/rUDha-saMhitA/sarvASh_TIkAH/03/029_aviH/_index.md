@@ -1,5 +1,6 @@
 +++
-title = "०२९ अविः"
+title = "29. With the offering of a white-footed sheep."
+title_whitney = "29. With the offering of a white-footed sheep."
 
 +++
 

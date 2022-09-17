@@ -1,5 +1,6 @@
 +++
-title = "०३७ वासः"
+title = "37 (38). The wife to the husband."
+title_whitney = "37 (38). The wife to the husband."
 
 +++
 

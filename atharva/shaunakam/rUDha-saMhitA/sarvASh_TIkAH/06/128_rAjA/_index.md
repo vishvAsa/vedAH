@@ -1,5 +1,6 @@
 +++
-title = "१२८ राजा"
+title = "128. For auspicious time: with dung-smoke."
+title_whitney = "128. For auspicious time: with dung-smoke."
 
 +++
 

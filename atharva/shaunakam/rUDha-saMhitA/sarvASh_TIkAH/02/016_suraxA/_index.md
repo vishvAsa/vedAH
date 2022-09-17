@@ -1,11 +1,13 @@
 +++
-title = "०१६ सुरक्षा"
+title = "16. For protection."
+title_whitney = "16. For protection."
 
 +++
 
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा
+१-५ ब्रह्मा। प्राणः, अपानः, आयुः। (एकावसानम्) १, ३ एकपदासुरी त्रिष्टुप्,
 </details>
 
 <details><summary>Whitney anukramaṇī</summary>

@@ -1,5 +1,6 @@
 +++
-title = "०१६ शत्रुबाधनम्"
+title = "16. Against demons: with an amulet of lead."
+title_whitney = "16. Against demons: with an amulet of lead."
 
 +++
 

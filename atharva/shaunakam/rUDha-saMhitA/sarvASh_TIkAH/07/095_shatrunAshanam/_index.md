@@ -1,5 +1,6 @@
 +++
-title = "०९५ शत्रुनाशनम्"
+title = "95 (100) A spell against some one."
+title_whitney = "95 (100) A spell against some one."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००१ मधुविद्या"
+title = "1. To the honey-whip etc."
+title_whitney = "1. To the honey-whip etc."
 
 +++
 

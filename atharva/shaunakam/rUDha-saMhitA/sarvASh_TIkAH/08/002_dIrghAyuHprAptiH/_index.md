@@ -1,5 +1,6 @@
 +++
-title = "००२ दीर्घायुःप्राप्तिः"
+title = "2. To prolong some one's life."
+title_whitney = "2. To prolong some one's life."
 
 +++
 

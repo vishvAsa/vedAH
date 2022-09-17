@@ -1,11 +1,12 @@
 +++
-title = "००३ आत्मा"
+title = "3. Mystic."
+title_whitney = "3. Mystic."
 
 +++
 
 <details><summary>VH anukramaṇī</summary>
 
-आत्मा।
+आत्मा। १ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्,
 </details>
 
 <details><summary>Whitney anukramaṇī</summary>

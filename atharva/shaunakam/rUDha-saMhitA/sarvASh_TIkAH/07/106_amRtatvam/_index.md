@@ -1,5 +1,6 @@
 +++
-title = "१०६ अमृतत्वम्"
+title = "106 (111). Deprecation for offenses."
+title_whitney = "106 (111). Deprecation for offenses."
 
 +++
 

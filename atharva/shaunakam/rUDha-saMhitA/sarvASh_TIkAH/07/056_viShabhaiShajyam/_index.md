@@ -1,5 +1,6 @@
 +++
-title = "०५६ विषभैषज्यम्"
+title = "56 (58). Against poison of snakes and insects."
+title_whitney = "56 (58). Against poison of snakes and insects."
 
 +++
 

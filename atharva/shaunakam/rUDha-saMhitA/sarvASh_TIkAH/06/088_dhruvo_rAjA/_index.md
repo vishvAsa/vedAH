@@ -1,5 +1,6 @@
 +++
-title = "०८८ ध्रुवो राजा"
+title = "88. To establish a sovereign."
+title_whitney = "88. To establish a sovereign."
 
 +++
 

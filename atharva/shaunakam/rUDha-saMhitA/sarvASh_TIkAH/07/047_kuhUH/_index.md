@@ -1,5 +1,6 @@
 +++
-title = "०४७ कुहूः"
+title = "47 (49). To Kuhū (goddess of the new moon)."
+title_whitney = "47 (49). To Kuhū (goddess of the new moon)."
 
 +++
 

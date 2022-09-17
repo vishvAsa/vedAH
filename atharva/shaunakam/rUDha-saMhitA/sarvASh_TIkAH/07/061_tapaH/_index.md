@@ -1,5 +1,6 @@
 +++
-title = "०६१ तपः"
+title = "61 (63). For success of penance."
+title_whitney = "61 (63). For success of penance."
 
 +++
 

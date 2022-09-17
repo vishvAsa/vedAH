@@ -1,5 +1,6 @@
 +++
-title = "०२२ वर्चः प्राप्तिः"
+title = "22. To the gods: for splendor (várcas)."
+title_whitney = "22. To the gods: for splendor (várcas)."
 
 +++
 

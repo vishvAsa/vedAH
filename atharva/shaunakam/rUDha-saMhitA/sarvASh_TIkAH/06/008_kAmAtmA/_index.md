@@ -1,5 +1,6 @@
 +++
-title = "००८ कामात्मा"
+title = "8. To win a woman's love."
+title_whitney = "8. To win a woman's love."
 
 +++
 

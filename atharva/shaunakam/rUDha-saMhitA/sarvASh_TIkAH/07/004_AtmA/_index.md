@@ -1,5 +1,6 @@
 +++
-title = "००४ आत्मा"
+title = "4. To the wind-god with his steeds."
+title_whitney = "4. To the wind-god with his steeds."
 
 +++
 

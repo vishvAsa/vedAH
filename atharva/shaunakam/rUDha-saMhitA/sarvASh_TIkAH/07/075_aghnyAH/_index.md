@@ -1,5 +1,6 @@
 +++
-title = "०७५ अघ्न्याः"
+title = "75 (79). Praise and prayer to the kine."
+title_whitney = "75 (79). Praise and prayer to the kine."
 
 +++
 

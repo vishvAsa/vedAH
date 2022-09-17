@@ -1,5 +1,6 @@
 +++
-title = "१२९ भगप्राप्तिः"
+title = "129. For good-fortune: with a śiṅśápā amulet."
+title_whitney = "129. For good-fortune: with a śiṅśápā amulet."
 
 +++
 

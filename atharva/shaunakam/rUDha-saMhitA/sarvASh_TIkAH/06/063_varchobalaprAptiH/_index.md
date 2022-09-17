@@ -1,5 +1,6 @@
 +++
-title = "०६३ वर्चोबलप्राप्तिः"
+title = "63. For some one's release from perdition (nírṛti)."
+title_whitney = "63. For some one's release from perdition (nírṛti)."
 
 +++
 

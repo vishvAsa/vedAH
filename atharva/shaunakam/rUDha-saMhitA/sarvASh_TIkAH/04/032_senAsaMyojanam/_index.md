@@ -1,5 +1,6 @@
 +++
-title = "०३२ सेनासंयोजनम्"
+title = "32. Praise and prayer to fury (manyú)."
+title_whitney = "32. Praise and prayer to fury (manyú)."
 
 +++
 

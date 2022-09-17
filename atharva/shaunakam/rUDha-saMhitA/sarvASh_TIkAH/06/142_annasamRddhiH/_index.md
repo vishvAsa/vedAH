@@ -1,5 +1,6 @@
 +++
-title = "१४२ अन्नसमृद्धिः"
+title = "142. For increase of barley."
+title_whitney = "142. For increase of barley."
 
 +++
 

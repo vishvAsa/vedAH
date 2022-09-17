@@ -1,5 +1,6 @@
 +++
-title = "००३ सपत्नत्क्षयणो वरणमणिः"
+title = "3. With an amulet of varaṇá."
+title_whitney = "3. With an amulet of varaṇá."
 
 +++
 

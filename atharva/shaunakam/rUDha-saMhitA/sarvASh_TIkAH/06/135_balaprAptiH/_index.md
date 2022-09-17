@@ -1,5 +1,6 @@
 +++
-title = "१३५ बलप्राप्तिः"
+title = "135. To crush an enemy."
+title_whitney = "135. To crush an enemy."
 
 +++
 

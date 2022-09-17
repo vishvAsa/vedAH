@@ -1,5 +1,6 @@
 +++
-title = "०६८ वपनम्"
+title = "68. To accompany the act of shaving."
+title_whitney = "68. To accompany the act of shaving."
 
 +++
 

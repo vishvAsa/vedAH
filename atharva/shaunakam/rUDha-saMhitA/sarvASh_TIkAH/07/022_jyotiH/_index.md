@@ -1,5 +1,6 @@
 +++
-title = "०२२ ज्योतिः"
+title = "22 (23). To the sun (?)."
+title_whitney = "22 (23). To the sun (?)."
 
 +++
 

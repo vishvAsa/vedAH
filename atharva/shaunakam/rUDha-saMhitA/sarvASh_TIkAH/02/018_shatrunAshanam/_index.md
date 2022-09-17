@@ -1,5 +1,6 @@
 +++
-title = "०१८ शत्रुनाशनम्"
+title = "18. For relief from demons and foes."
+title_whitney = "18. For relief from demons and foes."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "००३ शाला"
+title = "3. To accompany the releasing of a house."
+title_whitney = "3. To accompany the releasing of a house."
 
 +++
 

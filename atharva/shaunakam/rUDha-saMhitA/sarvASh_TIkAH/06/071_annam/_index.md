@@ -1,5 +1,6 @@
 +++
-title = "०७१ अन्नम्"
+title = "71. Against harm from improper food."
+title_whitney = "71. Against harm from improper food."
 
 +++
 

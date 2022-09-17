@@ -1,5 +1,6 @@
 +++
-title = "०१४ स्वर्ज्योतिः प्राप्तिः"
+title = "14. With the sacrifice of a goat."
+title_whitney = "14. With the sacrifice of a goat."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "१३९ सौभाग्यवर्धनम्"
+title = "139. To compel a woman's love."
+title_whitney = "139. To compel a woman's love."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०५० अभययाचना"
+title = "50. Against petty destroyers of grain."
+title_whitney = "50. Against petty destroyers of grain."
 
 +++
 

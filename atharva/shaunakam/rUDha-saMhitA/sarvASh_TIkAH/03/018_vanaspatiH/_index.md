@@ -1,5 +1,6 @@
 +++
-title = "०१८ वनस्पतिः"
+title = "18. Against a rival wife: with a plant."
+title_whitney = "18. Against a rival wife: with a plant."
 
 +++
 

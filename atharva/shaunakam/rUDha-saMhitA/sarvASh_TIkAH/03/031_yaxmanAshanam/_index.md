@@ -1,5 +1,6 @@
 +++
-title = "०३१ यक्ष्मनाशनम्"
+title = "31. For welfare and long life."
+title_whitney = "31. For welfare and long life."
 
 +++
 

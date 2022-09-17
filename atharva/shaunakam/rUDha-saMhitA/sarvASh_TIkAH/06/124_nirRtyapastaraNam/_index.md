@@ -1,5 +1,6 @@
 +++
-title = "१२४ निर्ऋत्यपस्तरणम्"
+title = "124. Against evil influence of a sky-drop."
+title_whitney = "124. Against evil influence of a sky-drop."
 
 +++
 

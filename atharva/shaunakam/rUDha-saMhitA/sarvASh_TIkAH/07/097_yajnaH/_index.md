@@ -1,5 +1,6 @@
 +++
-title = "०९७ यज्ञः"
+title = "97 (102). Accompanying an offering."
+title_whitney = "97 (102). Accompanying an offering."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०३० राष्ट्रदेवी"
+title = "30. Self-laudation of Speech (?)."
+title_whitney = "30. Self-laudation of Speech (?)."
 
 +++
 

@@ -1,5 +1,6 @@
 +++
-title = "०७१ अग्निः"
+title = "71 (74). To Agni: for protection."
+title_whitney = "71 (74). To Agni: for protection."
 
 +++
 
