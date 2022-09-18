@@ -25,6 +25,14 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। प्राण। तिष्ठते। आसीनाय। उत। ते। नमः। ६.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः
+- भार्गवो वैदर्भिः
+- अनुष्टुप्
+- प्राण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
@@ -44,3 +52,4 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 
 टिप्पणी:   ७−(नमः) नमस्कारः (ते) तुभ्यम् (अस्तु) भवतु (आयते) आगच्छते पुरुषाय (परायते) बहिर्गच्छते (प्राण) हे जीवनप्रद परमेश्वर (तिष्ठते) स्थितिं कुर्वते (आसीनाय) उपविष्टपुरुषहिताय (उत) अपि च। अन्यद् गतम् ॥
 </details>
+

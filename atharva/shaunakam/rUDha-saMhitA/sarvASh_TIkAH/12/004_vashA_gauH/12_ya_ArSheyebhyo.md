@@ -25,6 +25,14 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 यः। आर्षेयेभ्यः। याचत्ऽभ्यः। देवानाम्। गाम्। न। दित्सति। आ। सः। देवेषु। वृश्चते। ब्राह्मणानाम‌्। च। मन्यवे। ४.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वशा
+- कश्यपः
+- अनुष्टुप्
+- वशा गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी के प्रकाश करने के श्रेष्ठ गुणों का उपदेश।
@@ -44,3 +52,4 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 
 टिप्पणी:   १२−(आ) समन्तात् (सः) मूर्खः (देवेषु) स्तुत्यगुणेषु (वृश्चते) वृश्च्यते। छिद्यते। हीयते (ब्राह्मणानाम्) वेदवेतॄणां मध्ये (च) (मन्यवे) क्रोधाय भवतीति शेषः। अन्यत् पूर्ववत्−म० २ ॥
 </details>
+

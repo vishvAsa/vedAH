@@ -22,6 +22,14 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 अहीनाम्। सर्वेषाम्। विषम्। परा। वहन्तु। सिन्धवः। हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। ४.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तक्षकः
+- गरुत्मान्
+- अनुष्टुप्
+- सर्पविषदूरीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
@@ -41,3 +49,4 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 
 टिप्पणी:   २०−(अहीनाम्) म० १। सर्पाणाम् (सर्वेषाम्) (विषम्) (परा) दूरे (वहन्तु) नयन्तु (सिन्धवः) नद्यः। अन्यत् पूर्ववत्−म० १३ ॥
 </details>
+

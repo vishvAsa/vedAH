@@ -25,6 +25,14 @@ From every member drive away the venom, and avoid the heart. Then let the poison
 अङ्गात्ऽअङ्गात्। प्र। च्यवय। हृदयम्। परि। वर्जय। अध। विषस्य। यत्। तेजः। अवाचीनम्। तत्। एतु। ते। ४.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तक्षकः
+- गरुत्मान्
+- अनुष्टुप्
+- सर्पविषदूरीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
@@ -44,3 +52,4 @@ From every member drive away the venom, and avoid the heart. Then let the poison
 
 टिप्पणी:   २५−(अङ्गादङ्गात्) (प्र च्यवय) बहिर्गमय (हृदयम्) (परि) सर्वतः (वर्जय) रोधय (अध) अथ (विषस्य) (यत्) (तेजः) तीक्ष्णता (अवाचीनम्) अधोमुखं गतम् (तत्) (एतु) गच्छतु (ते) तुभ्यम् ॥
 </details>
+

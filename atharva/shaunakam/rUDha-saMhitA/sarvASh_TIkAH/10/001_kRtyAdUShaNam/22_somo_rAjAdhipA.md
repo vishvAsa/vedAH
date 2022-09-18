@@ -24,6 +24,14 @@ May Soma, gracious friend, imperial Sovran, and the world's Masters look on us w
 सोमः। राजा। अधिऽपाः। मृडिताः। च। भूतस्य। नः। पतयः। मृडयन्तु। १.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्यादूषणम्
+- प्रत्यङ्गिरसः
+- एकावसाना द्विपदार्च्युष्णिक्
+- कृत्यादूषण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्तव्य दण्ड का उपदेश।
@@ -43,3 +51,4 @@ May Soma, gracious friend, imperial Sovran, and the world's Masters look on us w
 
 टिप्पणी:   २२−(सोमः) ऐश्वर्यवान् (राजा) शासकः (अधिपाः) अधिकपालकः (मृडिता) सुखयिता (च) (भूतस्य पतयः) संसारस्य पालका राजपुरुषाः (नः) अस्मान् (मृडयन्तु) सुखयन्तु ॥
 </details>
+

@@ -23,6 +23,14 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 यौ। ते। ओष्ठौ। ये‍। इति। नासिके। इति। ये  इति। शृङ्गे इति। ये इति। च। ते। अक्षिणी इति। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -42,3 +50,4 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 
 टिप्पणी:   १४−(अक्षिणी) नेत्रे। अन्यत् स्पष्टम् ॥
 </details>
+

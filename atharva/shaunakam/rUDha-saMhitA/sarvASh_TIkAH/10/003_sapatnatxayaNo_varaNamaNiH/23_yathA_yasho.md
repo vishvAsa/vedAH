@@ -23,6 +23,14 @@ As glory is bestowed upon the patron and this sacrifice, So may the Charm, etc.
 यथा। यशः। यजमाने। यथा। अस्मिन्। यज्ञे। आऽहितम्। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरणमणिः, वनस्पतिः, चन्द्रमाः
+- अथर्वा
+- अनुष्टुप्
+- सपत्नक्षयणवरणमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
@@ -42,3 +50,4 @@ As glory is bestowed upon the patron and this sacrifice, So may the Charm, etc.
 
 टिप्पणी:   २३−(यजमाने) देवपूजासंगतिकारकदानशीले (यज्ञे) देवपूजासंगतिकारकदानकर्मणि (आहितम्) स्थापितम्। अन्यत् पूर्ववत् ॥
 </details>
+

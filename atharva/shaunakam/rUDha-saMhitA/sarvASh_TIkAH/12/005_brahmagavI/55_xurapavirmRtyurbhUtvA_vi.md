@@ -24,6 +24,14 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 क्षुरऽपविः। मृत्युः। भूत्वा। वि। धाव। त्वम्। १०.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्योष्णिक्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -43,3 +51,4 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 
 टिप्पणी:   ५५−(क्षुरपविः) म० २०। शस्त्रधारा यथा (मृत्युः) (भूत्वा) (वि) विविधम् (धाव) शीघ्रं गच्छ (त्वम्) ॥
 </details>
+

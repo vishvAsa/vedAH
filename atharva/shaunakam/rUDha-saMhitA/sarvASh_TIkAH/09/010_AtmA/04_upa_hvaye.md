@@ -26,6 +26,14 @@ I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may
 उप। ह्वये। सुऽदुघाम्। धेनुम्। एताम्। सुऽहस्तः। गोऽधुक्। उत। दोहत्। एनाम्। श्रेष्ठम्। सवम्। सविता। साविषत्। नः। अभिऽइध्दः। घर्मः। तत्। ऊं इति। सु। प्र। वोचत्। १५.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः, विराट्, अध्यात्मम्
+- ब्रह्मा
+- त्रिष्टुप्
+- आत्मा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवात्मा और परमात्मा के लक्षणों का उपदेश।
@@ -45,3 +53,4 @@ I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may
 
 टिप्पणी:   ४-अयं मन्त्रः पूर्वं व्याख्यातः-अ० ७।७३।३। तत्रैव द्रष्टव्यः ॥
 </details>
+

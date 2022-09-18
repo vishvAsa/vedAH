@@ -24,6 +24,14 @@ Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan
 यत्। भद्राः। सम्। अगच्छन्त। वशा। देष्ट्री। अथो इति। स्वधा। अथर्वा। यत्र। दीक्षितः। बर्हिषि। आस्त। हिरण्यये। १०.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वशा
+- कश्यपः 
+- अनुष्टुप्
+- वशागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर शक्ति की महिमा का उपदेश।
@@ -43,3 +51,4 @@ Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan
 
 टिप्पणी:   १७−(तत्) तत्र (भद्राः) शुभगुणाः (सम् अगच्छन्त) संगतवन्तः (देष्ट्री) आदेष्ट्री। शासिका (अथो) अपि च (स्वधा) अन्नम्-निघ० २।७। अन्यत् पूर्ववत्−म० १२ ॥
 </details>
+

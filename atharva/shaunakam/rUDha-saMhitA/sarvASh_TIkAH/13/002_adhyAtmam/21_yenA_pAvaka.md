@@ -24,6 +24,14 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 येन। पावक। चक्षसा। भुरण्यन्तम्। जनान्। अनु। त्वम्। वरुण। पश्यसि। २.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रोहितः, आदित्यः, अध्यात्मम्
+- ब्रह्मा
+- आर्षी गायत्री
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -43,3 +51,4 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 
 टिप्पणी:   २१−(येन) (पावक) शोधक (चक्षसा) प्रकाशेन (भुरण्यन्तम्) भुरण धारणपोषणयोः-शतृ। धरन्तं पोषयन्तं च (जनान् अनु) उत्पन्नान् प्राणिनः प्रति (त्वम्) (वरुण) उत्तमगुणविशिष्ट (पश्यसि) दर्शयसि ॥
 </details>
+

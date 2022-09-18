@@ -23,6 +23,14 @@ The water that is solemnly brought at a sacrifice is this same water.
 याः। एव। यज्ञे। आपः। प्रऽनीयन्ते। ताः। एव। ताः। ६.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आसुरी गायत्री
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -42,3 +50,4 @@ The water that is solemnly brought at a sacrifice is this same water.
 
 टिप्पणी:   ५−(याः) (एव) (यज्ञे) सत्करणीये व्यवहारे (आपः) जलानि (प्रणीयन्ते) आदरेण दीयन्ते (ताः) जलानि (एव) (ताः) उपकारिण्य इत्यर्थः ॥
 </details>
+

@@ -25,6 +25,14 @@ As Agni and the wind devour the trees, the sovrans of the wood, Even so devour m
 यथा। वातः। च। अग्निः। च। वृक्षान्। प्सातः। वनस्पतीन्। एव। सऽपत्नान्। मे। प्साहि। पूर्वान्। जातान्। उत। अपरान्। वरणः। त्वा। अभि। रक्षतु। ३.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरणमणिः, वनस्पतिः, चन्द्रमाः
+- अथर्वा
+- पथ्यापङ्क्तिः
+- सपत्नक्षयणवरणमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
@@ -44,3 +52,4 @@ As Agni and the wind devour the trees, the sovrans of the wood, Even so devour m
 
 टिप्पणी:   १४−(प्सातः) भक्षतः (प्साहि) भक्ष। अन्यत् पूर्ववत् ॥
 </details>
+

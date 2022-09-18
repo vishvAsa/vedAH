@@ -26,6 +26,14 @@ In hamlets and in woodland, and in all assemblages on earth, In gatherings, meet
 ये। ग्रामाः। यत्। अरण्यम्। याः। सभाः। अधि। भूम्याम्। ये। सम्ऽग्रामाः। सम्ऽइतयः। तेषु। चारु। वदेम। ते। १.५६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भूमिः
+- अथर्वा 
+- अनुष्टुप्
+- भूमि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राज्य की रक्षा का उपदेश।
@@ -45,3 +53,4 @@ In hamlets and in woodland, and in all assemblages on earth, In gatherings, meet
 
 टिप्पणी:   ५६−(ये) (ग्रामाः) वासस्थानानि (यत्) (अरण्यम्) वनम् (याः) (सभाः) समाजाः (अधि) उपरि (भूम्याम्) (ये) (संग्रामाः) रणक्षेत्राणि (समितयः) सम्मेलनानि (तेषु) (चारु) सुन्दरं यशः (वदेम) कथयेम (ते) तव ॥
 </details>
+

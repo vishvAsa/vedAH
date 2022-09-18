@@ -26,6 +26,14 @@ The ointment that they bring for injunction is just clarified liquid butter.
 यत्। आञ्जनऽअभ्यञ्जनम्। आऽहरन्ति। आज्यम्। एव। तत्। ६.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्न्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -45,3 +53,4 @@ The ointment that they bring for injunction is just clarified liquid butter.
 
 टिप्पणी:   ११−(यत्) यदा (आञ्जनाभ्यञ्जनम्) अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु-ल्युट्। सम्यक् चन्दनादिलेपनं तैलादिमर्दनं च (आहरन्ति) (आज्यम्) अ० ५।८।१। आङ्+अञ्जू व्यक्तौ-क्यप्। संसारस्य व्यक्तिकरं ब्रह्म (एव) (तत्) तदा ॥
 </details>
+

@@ -58,6 +58,14 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 तानि। सर्वाणि। अप। क्रामन्ति। ब्रह्मऽगवीम्। आऽददानस्य। जिनतः। ब्राह्मणम्। क्षत्रियस्य। ६.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आर्ची निचृत्पङ्क्तिः
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -77,3 +85,4 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 
 टिप्पणी:   ११−(तानि) पूर्वोक्तानि (सर्वाणि) समस्तानि (अप क्रामन्ति) अपगच्छन्ति। विनश्यन्ति। अन्यत् पूर्ववत्−म० ५ ॥
 </details>
+

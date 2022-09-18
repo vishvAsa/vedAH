@@ -23,6 +23,14 @@ As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm
 यथा। यशः। प्रजाऽपतौ। यथा। अस्मिन्। परमेऽस्थिनि। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरणमणिः, वनस्पतिः, चन्द्रमाः
+- अथर्वा
+- अनुष्टुप्
+- सपत्नक्षयणवरणमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
@@ -42,3 +50,4 @@ As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm
 
 टिप्पणी:   २४−(प्रजापतौ) प्रजापालके नृपतौ (परमेष्ठिनि) सर्वोपरिस्थिते परमात्मनि। अन्यत् पूर्ववत् ॥
 </details>
+

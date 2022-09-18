@@ -28,6 +28,14 @@ Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to
 इन्द्रः। मे। अहिम्। अरन्धयत्। मित्रः। च। वरुणः। च। वातापर्जन्या। उभा। ४.१६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तक्षकः
+- गरुत्मान्
+- त्रिपदा प्रतिष्ठा गायत्री
+- सर्पविषदूरीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
@@ -47,3 +55,4 @@ Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to
 
 टिप्पणी:   १६−(इन्द्रः) परमैश्वर्यवान् वैद्यः (मे) मह्यम् (अहिम्) म० १। महाहिंसकं सर्पम् (अरन्धयत्) म० १०। मारितवान् (मित्रः) प्रेरकः सूर्यो यथा (च) (वरुणः) जलवद् गुणकारी (वातापर्जन्या) वायुमेघौ यथा (उभा) द्वौ ॥
 </details>
+

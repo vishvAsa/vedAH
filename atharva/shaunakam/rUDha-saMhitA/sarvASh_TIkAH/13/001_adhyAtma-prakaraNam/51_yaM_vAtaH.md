@@ -23,6 +23,14 @@ That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita
 यम्। वातः। परिऽशुम्भति। यम्। वा। इन्द्रः। ब्रह्मणः। पतिः। ब्रह्मऽइध्दौ। अग्नी इति। ईजाते‍ इति। रोहितस्य। स्वःऽविदः। १.५१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्, रोहितः, आदित्यः
+- ब्रह्मा
+- अनुष्टुप्
+- अध्यात्म प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवात्मा और परमात्मा का उपदेश।
@@ -42,3 +50,4 @@ That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita
 
 टिप्पणी:   ५१−(यम्) परमात्मानम् (वातः) पवनः (परिशुम्भति) सर्वतो दीपयति (यम्) (वा) अवधारणे (इन्द्रः) मेघः (ब्रह्मणः) अन्नस्य (पतिः) रक्षकः। अन्यत् पूर्ववत्-म० ४९ ॥
 </details>
+

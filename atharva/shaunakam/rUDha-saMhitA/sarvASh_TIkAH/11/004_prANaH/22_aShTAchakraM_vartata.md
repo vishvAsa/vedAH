@@ -32,6 +32,14 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 अष्टाऽचक्रम्। वर्तते। एकऽनेमि। सहस्रऽअक्षरम्। प्र। पुरः। नि। पश्चा। अर्धेन। विश्वम्। भुवनम्। जजान। यत्। अस्य। अर्धम्। कतमः। सः। केतुः। ६.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः
+- भार्गवो वैदर्भिः
+- त्रिष्टुप्
+- प्राण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
@@ -51,3 +59,4 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 
 टिप्पणी:   २२−(अष्टाचक्रम्) अष्टसु दिक्षु चक्रं यस्य तद् ब्रह्म। अन्यद्व्याख्यातम्-अथर्व० १०।८।७ तथा १३ ॥
 </details>
+

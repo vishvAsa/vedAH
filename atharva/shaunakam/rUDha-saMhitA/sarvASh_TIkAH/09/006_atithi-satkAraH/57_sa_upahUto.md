@@ -23,6 +23,14 @@ He having been invited in the sky, regales, invited, in that which wears all var
 सः। उपऽहूतः। दिव‍ि। भक्षयति। उपऽहूतः। तस्मिन्। यत्। दिवि। विश्वऽरूपम्। ११.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आर्ची बृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -42,3 +50,4 @@ He having been invited in the sky, regales, invited, in that which wears all var
 
 टिप्पणी:   ९−(दिवि) सूर्यमण्डले वर्तमानं प्रकाशधारणाकर्षणादिगुणम्। अन्यत् पूर्ववत् ॥
 </details>
+

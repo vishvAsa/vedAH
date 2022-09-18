@@ -22,6 +22,14 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 रक्षांसि। लोहितम्। इतरऽजनाः। ऊबध्यम्। १२.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्न्युष्णिक्
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -41,3 +49,4 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 
 टिप्पणी:   १७−(रक्षांसि) दुष्टजीवाः (लोहितम्) अ० ६।१२७।१। रुधिरविकारः (इतरजनाः) अ० ८।१०(५)।९। पामराः (ऊबध्यम्) अ० ९।४।१६। अजीर्णमन्नम् ॥
 </details>
+

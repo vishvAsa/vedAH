@@ -29,6 +29,14 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 त्वया। प्रऽमूर्णम्। मृदितम्। अग्निः। दहतु। दुःऽचितम्। १०.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -48,3 +56,4 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 
 टिप्पणी:   ६१−(त्वया) वेदवाण्या (प्रमूर्णम्) मुर्व बन्धने−क्त। प्रकर्षेण बद्धम् (मृदितम्) मृद क्षोदे−क्त। चूर्णितम् (अग्निः) प्रत्यक्षः (दहतु) (दुश्चितम्) चिती संज्ञाने−क्विप्। अनिष्टचिन्तकम् ॥
 </details>
+

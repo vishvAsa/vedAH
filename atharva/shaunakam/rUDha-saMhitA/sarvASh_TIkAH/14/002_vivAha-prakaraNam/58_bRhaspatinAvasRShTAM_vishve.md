@@ -23,6 +23,14 @@ Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store o
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। रसः। गोषु। प्रऽविष्टः। यः। तेन। इमाम्। सम्। सृजामसि। इमाम्। सम्। सृजामसि। २.५८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -42,3 +50,4 @@ Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store o
 
 टिप्पणी:   ५८−(रसः) वीर्यम्। वीररसः। अन्यद् गतम् ॥
 </details>
+

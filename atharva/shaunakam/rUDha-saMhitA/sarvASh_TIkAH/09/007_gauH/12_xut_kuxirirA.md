@@ -24,6 +24,14 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 क्षुत्। कुक्षिः। इरा। वनिष्ठुः। पर्वताः। प्लाशयः। १२.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्न्युष्णिक्
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -43,3 +51,4 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 
 टिप्पणी:   १२−(क्षुत्) बुभुक्षा (कुक्षिः) उदरपार्श्वः (इरा) अन्नम् (वनिष्ठुः) अ० २।३३।४। अन्नरक्तादिसंभाजकं स्थूलान्त्रम् (पर्वताः) मेघाः-निघ० १।१०। (प्लाशयः) अ० २।३३।४। प्र+अश भोजने−इञ्। रस्य लः। अन्नाधारा अन्त्रविशेषाः ॥
 </details>
+

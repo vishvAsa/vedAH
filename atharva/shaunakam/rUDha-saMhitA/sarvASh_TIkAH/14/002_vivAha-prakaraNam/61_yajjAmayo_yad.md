@@ -25,6 +25,14 @@ If the bride's sisters, if young maids have danced together in thy house, commit
 यत्। जामयः। यत्। युवतयः। गृहे। ते। सम्ऽअनर्तिषु। रोदेन। कृण्वतीः। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्रिष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -44,3 +52,4 @@ If the bride's sisters, if young maids have danced together in thy house, commit
 
 टिप्पणी:   ६१−(यत्) यदि (जामयः) म० ३३। कुलस्त्रियः (यत्) (युवतयः) तरुण्यः (कृण्वतीः)कुर्वन्त्यः-अन्यद् गतम्-म० ५९ ॥
 </details>
+

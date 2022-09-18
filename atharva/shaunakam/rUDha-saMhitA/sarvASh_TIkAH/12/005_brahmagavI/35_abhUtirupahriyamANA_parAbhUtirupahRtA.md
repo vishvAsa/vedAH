@@ -24,6 +24,14 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 अभूतिः। उपऽह्रियमाणा। पराऽभूतिः। उपऽहृता। ८.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- भुरिक्साम्न्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -43,3 +51,4 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 
 टिप्पणी:   ३५−(अभूतिः) अनैश्वर्यम् (उपह्रियमाणा) अपहरणं गम्यमाना (पराभूतिः) पराजयः (उपहृता) अपहरणं गता ॥
 </details>
+

@@ -22,6 +22,14 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 चरुम्। पञ्चऽबिलम्। उखम्। घर्मः। अभि। इन्धे। ३.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- आसुर्यनुष्टुप्
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -41,3 +49,4 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 
 टिप्पणी:   १८−(चरुम्) पाकपात्रम् (पञ्चबिलम्) पञ्च पृथिवीजलतेजोवाय्वाकाशरूपाणि बिलानि च्छिद्राणि यस्मिन् तम् (उखम्) पुंस्त्वं छान्दसम्। उखां स्थालीम् (घर्मः) घर्मग्रीष्मौ। उ० १।१४९। घृ दीप्तौ-मक्, गुणो निपातितः। आतपः। ग्रीष्मः। सूर्यः (अभि) प्रति (इन्धे) दीप्यते ॥
 </details>
+

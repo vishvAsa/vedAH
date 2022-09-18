@@ -22,6 +22,14 @@ So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 यौ। ते। ऊरू इति। अष्ठीवन्तौ। ये इति। श्रोणी इति। या। च। ते। भसत्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -41,3 +49,4 @@ So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 
 टिप्पणी:   २१−(ऊरू) जानुनी (अष्ठीवन्तौ) अ० २।३३।५। जानुसंयोगास्थिनी (श्रोणी) कटिदेशौ (भसत्) नाभितलभागः। अन्यत् स्पष्टम् ॥
 </details>
+

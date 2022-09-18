@@ -24,6 +24,14 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 नदी। सूत्री। वर्षस्य। पतयः। स्तनाः। स्तनयित्नुः। ऊधः। १२.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्नी बृहती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -43,3 +51,4 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 
 टिप्पणी:   १४−(नदी) सरित् (सूत्री) अमिचिमिशसिभ्यः क्त्रः। उ० ४।१६४। षूङ् प्राणिगर्भविमोचने−क्त्र, ङीप्। उत्पादयित्री नाडी (वर्षस्य पतयः) वृष्टिरक्षका मेघाः (स्तनाः) दुग्धाधाराः (स्तनयित्नुः) अ० ४।१५।११। गर्जनम् (ऊधः) अ० ४।११।४। आपीनम् ॥
 </details>
+

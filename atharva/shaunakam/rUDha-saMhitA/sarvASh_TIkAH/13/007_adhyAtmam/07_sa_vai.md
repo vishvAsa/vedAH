@@ -22,6 +22,14 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 सः। वै। भूमेः। अजायत। तस्मात्। भूमिः। अजायत। ७.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -41,3 +49,4 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 
 टिप्पणी:   ३५−(भूमेः) कार्यरूपायाः पृथिव्याः (भूमिः) पृथिवी। अन्यद् गतम् ॥
 </details>
+

@@ -28,6 +28,14 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 सर्वः। वै। एषः। अजग्धऽपाप्मा। यस्य। अन्नम्। न। अश्नन्ति। ७.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्न्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -47,3 +55,4 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 
 टिप्पणी:   ९−(अजग्धपाप्मा) अनाशितपापः। अन्यत् सुगमम् ॥
 </details>
+

@@ -22,6 +22,14 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 सः। वै। दिवः। अजायत। तस्मात्। द्यौः। अधि। अजायत। ७.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- आसुरी गायत्री
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -41,3 +49,4 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 
 टिप्पणी:   ३३−(दिवः) कार्यरूपात् सूर्यात् (द्यौः) सूर्यः (अधि) यथाविधि। अन्यद् गतम् ॥
 </details>
+

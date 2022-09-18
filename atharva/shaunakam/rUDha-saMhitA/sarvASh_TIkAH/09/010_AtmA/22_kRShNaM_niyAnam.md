@@ -29,6 +29,14 @@ Dark the descent: the birds are golden-coloured. Robed in the floods they fly al
 कृष्णम्। निऽयानम्। हरयः। सुऽपर्णाः। अपः। वसानाः। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। आत्। इत्। घृतेन। पृथिवीम्। वि। ऊदुः। १५.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः, विराट्, अध्यात्मम्
+- ब्रह्मा
+- त्रिष्टुप्
+- आत्मा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवात्मा और परमात्मा के लक्षणों का उपदेश।
@@ -48,3 +56,4 @@ Dark the descent: the birds are golden-coloured. Robed in the floods they fly al
 
 टिप्पणी:   २२-अयं मन्त्रो व्याख्यातः-अ० ६।२२।१ ॥
 </details>
+

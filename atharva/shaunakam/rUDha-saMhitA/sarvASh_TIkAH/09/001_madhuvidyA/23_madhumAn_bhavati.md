@@ -22,6 +22,14 @@ Sweet is the man, sweet are his goods and chattels: he who knows this conquers t
 मधुऽमान्। भवति। मधुऽमत्। अस्य। आऽहार्यम्। भवति। मधुऽमतः। लोकान्। जयति। यः। एवम्। वेद। १.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- द्विपदार्ची पङ्क्तिः
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -41,3 +49,4 @@ Sweet is the man, sweet are his goods and chattels: he who knows this conquers t
 
 टिप्पणी:   २३−(मधुमान्) ज्ञानवान् (मधुमत्) ज्ञानमयम् (अस्य) ज्ञानिनः (आहार्यम्) आ+हृञ् स्वीकारे−ण्यत्। ग्राह्यं कर्म (मधुमतः) ज्ञानवतः (लोकान्) समाजान् (जयति) उत्कर्षेण प्राप्नोति। अन्यत् पूर्ववत् ॥
 </details>
+

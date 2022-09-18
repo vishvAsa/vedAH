@@ -24,6 +24,14 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 मा। नः। हिंसीः। अधि। नः। ब्रूहि। परि। नः। वृङ्ग्धि। मा। क्रुधः। मा। त्वया। सम्। अरामहि। २.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रुद्रः
+- अथर्वा 
+- भुरिग्गायत्री
+- रुद्र सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
@@ -43,3 +51,4 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 
 टिप्पणी:   २०−(नः) अस्मान् (मा हिंसीः) मा वधीः (अधि) ईश्वरत्वेन (नः) अस्मान् (परि) सर्वतः (वृङ्ग्धि) वर्जय। वियोजय (मा क्रुधः) म० १९। (त्वया) (मा सम् अरामहि) म० ७। समरं युद्धं न करवाम ॥
 </details>
+

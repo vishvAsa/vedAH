@@ -22,6 +22,14 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 मेनिः। शरव्या। भव। अघात्। अघऽविषा। भव। १०.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 
 टिप्पणी:   ५९−(मेनिः) म० १६। वज्रः (शरव्या) म० २५। शरौ वाणविद्यायां कुशला सेना (भव) (अघविषा) म० १२। अतिशयेन विषमयी (भव) ॥
 </details>
+

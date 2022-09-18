@@ -23,6 +23,14 @@ As immortality and truth have been established in the Gods, So may the Charm, th
 यथा। देवेषु। अमृतम्। यथा। एषु। सत्यम्। आऽहितम्। एव। मे। वरणः। मणिः। कीर्तिम्। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरणमणिः, वनस्पतिः, चन्द्रमाः
+- अथर्वा
+- षट्पदा जगती
+- सपत्नक्षयणवरणमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
@@ -42,3 +50,4 @@ As immortality and truth have been established in the Gods, So may the Charm, th
 
 टिप्पणी:   २५−(देवेषु) विजिगीषुषु शूरेषु (अमृतम्) अमरणम्। पौरुषम् (सत्यम्) सत्यव्रतम्। अन्यत् पूर्ववत् म० १७ ॥
 </details>
+

@@ -28,6 +28,14 @@ What they spread upon the floor is just Sacrificial Grass.
 यत्। उपऽस्तृणन्ति। बर्हिः। एव। तत्। ६.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- याजुषी त्रिष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -47,3 +55,4 @@ What they spread upon the floor is just Sacrificial Grass.
 
 टिप्पणी:   ८−(यत्) यत्किंचित् (उपस्तृणन्ति) आच्छादनानि कुर्वन्ति (बर्हिः) अ० ५।२२।१। कुशासनम्। यज्ञसामग्री ॥
 </details>
+

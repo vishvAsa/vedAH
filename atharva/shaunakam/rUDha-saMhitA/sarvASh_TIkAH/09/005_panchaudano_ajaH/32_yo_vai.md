@@ -24,6 +24,14 @@ The man who knows the season called the Working takes to himself the active fame
 यः। वै। कुर्वन्तम्। नाम। ऋतुम्। वेद। कुर्वतीम्ऽकुर्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। कुर्वन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अजः पञ्चौदनः
+- भृगुः
+- दशपदा प्रकृतिः
+- अज सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से सुख का उपदेश।
@@ -43,3 +51,4 @@ The man who knows the season called the Working takes to himself the active fame
 
 टिप्पणी:   ३२−(कुर्वन्तम्) करोतेः शतृ, रचयन्तम् (कुर्वतीं कुर्वतीम्) रचन्तीं रचन्तीम् (श्रियम्) लक्ष्मीम् (आ दत्ते) गृह्णाति (कुर्वन्) निष्पादयन्। अन्यत् पूर्ववत् ॥
 </details>
+

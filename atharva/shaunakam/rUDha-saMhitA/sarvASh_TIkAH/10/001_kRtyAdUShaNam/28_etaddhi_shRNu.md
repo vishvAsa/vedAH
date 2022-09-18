@@ -23,6 +23,14 @@ Hearken to this my word; then go thither away whence thou hast come; to him who 
 एतत्। हि। शृणु। मे। वचः। अथ। इहि। यतः। आऽइयथ। यः। त्वा। चकार। तम्। प्रति। १.२८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्यादूषणम्
+- प्रत्यङ्गिरसः
+- त्रिपदा गायत्री
+- कृत्यादूषण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्तव्य दण्ड का उपदेश।
@@ -42,3 +50,4 @@ Hearken to this my word; then go thither away whence thou hast come; to him who 
 
 टिप्पणी:   २८−(एतत्) इदं निर्णयसूचकम् (हि) अवश्यम् (शृणु) (मे) मम (वचः) वचनम् (अथ) तदा (इहि) गच्छ (यतः) यस्मात् स्थानात् (एयथ) आङ्+इण् गतौ-लिट्। एयेथ। आगतवती त्वम् (यः त्वा, चकार, तम् प्रति) ॥
 </details>
+

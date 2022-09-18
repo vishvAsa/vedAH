@@ -25,6 +25,14 @@ often elsewhere, typify the Brahman and Kshatriya classes or castes.
 इन्द्रस्य। ओजः। स्थ। इन्द्रस्य। सहः। स्थ। इन्द्रस्य। बलम्। स्थ। इन्द्रस्य। वीर्यम्। स्थ। इन्द्रस्य। नृम्णम्। स्थ। जिष्णवे। योगाय। क्षत्रऽयोगैः। वः। युनज्मि। । ५.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः, चन्द्रमाः
+- सिन्धुद्वीपः
+- त्रिपदा पुरोऽभिकृतिः ककुम्मतीगर्भापङ्क्तिः
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों के कर्तव्य का उपदेश।
@@ -44,3 +52,4 @@ often elsewhere, typify the Brahman and Kshatriya classes or castes.
 
 टिप्पणी:   २−(क्षत्रयोगैः) राज्यध्यानैः। अन्यत् पूर्ववत्−म० १ ॥
 </details>
+

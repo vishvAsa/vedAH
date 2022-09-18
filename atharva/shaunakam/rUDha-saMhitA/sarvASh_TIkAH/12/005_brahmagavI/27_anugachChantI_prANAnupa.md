@@ -26,6 +26,14 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 अनुऽगच्छन्ती। प्राणान्। उप। दासयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। ७.१६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आर्च्युष्णिक्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -45,3 +53,4 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 
 टिप्पणी:   २७−(अनुगच्छन्ती) अनुसरन्ती (प्राणान्) जीवनसाधनानि (उप दासयति) सर्वथा नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य ॥
 </details>
+

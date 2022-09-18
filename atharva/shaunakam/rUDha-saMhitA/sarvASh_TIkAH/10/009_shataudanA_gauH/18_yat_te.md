@@ -26,6 +26,14 @@ Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 यत्। ते। मज्जा। यत्। अस्थि। यत्। मांसम्। यत्। च। लोहितम्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -45,3 +53,4 @@ Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 
 टिप्पणी:   १८−(मज्जा) अ० १।११।४। छान्दसो दीर्घः। अस्थिमध्यस्थस्नेहः। अन्यत् स्पष्टम् ॥
 </details>
+

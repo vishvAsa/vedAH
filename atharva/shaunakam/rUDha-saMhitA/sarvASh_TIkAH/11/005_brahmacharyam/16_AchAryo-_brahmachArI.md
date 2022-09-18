@@ -23,6 +23,14 @@ The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; t
 आऽचार्यः। ब्रह्मऽचारी। ब्रह्मऽचारी। प्रजाऽपतिः। प्रजाऽपतिः। वि। राजति। विऽराट्। इन्द्रः। अभवत्। वशी। ७.१६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मचारी
+- ब्रह्मा
+- अनुष्टुप्
+- ब्रह्मचर्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मचर्य के महत्त्व का उपदेश।
@@ -42,3 +50,4 @@ The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; t
 
 टिप्पणी:   १६−(आचार्यः) म० १ (ब्रह्मचारी) म० १ (प्रजापतिः) प्रजापालकः पुरुषः (वि) विविधम् (राजति) शासको भवति (विराट्) विविधं शासकः अधिराजः (इन्द्रः) परमैश्वर्ययुक्तः (वशी) वशयिता। शासकः। अन्यद् गतम् ॥
 </details>
+

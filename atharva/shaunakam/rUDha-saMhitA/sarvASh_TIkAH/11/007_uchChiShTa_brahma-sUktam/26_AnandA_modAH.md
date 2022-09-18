@@ -29,6 +29,14 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 आऽनन्दाः। मोदाः। प्रऽमुदः। अभिऽमोदऽमुदः। च। ये। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उच्छिष्टः, अध्यात्मम्
+- अथर्वा 
+- अनुष्टुप्
+- उच्छिष्ट ब्रह्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब जगत् के कारण परमात्मा का उपदेश।
@@ -48,3 +56,4 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 
 टिप्पणी:   २६−(आनन्दाः) सुखविशेषाः (मोदाः) हर्षाः (प्रमुदः) प्रकृष्टहर्षाः (अभिमोदमुदः) अभिमोदैर्महोत्सवैर्हर्षयितारः पदार्थाः (च) (ये) अन्यत् पूर्ववत् ॥
 </details>
+

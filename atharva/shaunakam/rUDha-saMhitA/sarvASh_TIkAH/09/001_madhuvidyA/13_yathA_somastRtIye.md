@@ -29,6 +29,14 @@ As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, th
 यथा। सोमः। तृतीये। सवने। ऋभूणाम्। भवति। प्रियः। एव। मे। ऋभवः। वर्चः। आत्मनि। ध्रियताम्। १.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- अनुष्टुप्
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -48,3 +56,4 @@ As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, th
 
 टिप्पणी:   १३−(सोमः) ऐश्वर्यवान्। वृद्धपुरुषः (तृतीये) शैशवयौवनवार्धकानां पूरके (सवने) यज्ञे। वृद्धभाव इत्यर्थः। (ऋभूणाम्) अ० १।२।३। मेधाविनाम्-निघ० ३।१५। (ऋभवः) हे मेधाविनः। शिष्टं पूर्ववत् ॥
 </details>
+

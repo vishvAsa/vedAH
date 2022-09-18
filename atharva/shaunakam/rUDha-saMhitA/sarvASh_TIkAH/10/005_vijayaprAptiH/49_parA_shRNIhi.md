@@ -35,6 +35,14 @@ Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Ag
 परा। शृणीहि। तपसा। यातुऽधानान्। परा। अग्ने। रक्षः। हरसा। शृणीहि। परा। अर्चिषा। मूरऽदेवान्। शृणीहि। परा। असुऽतृपः। शोशुचतः। शृणीहि। ५.४९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रजापतिः
+- सिन्धुद्वीपः
+- अनुष्टुप्
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -54,3 +62,4 @@ Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Ag
 
 टिप्पणी:   ४९−अयं मन्त्रो व्याख्यातः-अ० ८।३।१३ ॥
 </details>
+

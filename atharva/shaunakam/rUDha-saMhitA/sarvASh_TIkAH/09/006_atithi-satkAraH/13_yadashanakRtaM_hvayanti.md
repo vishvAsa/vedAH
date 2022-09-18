@@ -23,6 +23,14 @@ When they call the man who prepares food they summon the preparer of oblation.
 यत्। अशनऽकृतम्। ह्वयन्ति। हविःऽकृतम्। एव। तत्। ह्वयन्ति। ६.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्नी निचृत्पङ्क्तिः
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -42,3 +50,4 @@ When they call the man who prepares food they summon the preparer of oblation.
 
 टिप्पणी:   १३−(यत्) यदा (अशनकृतम्) सूपकारम् (ह्वयन्ति) आह्वयन्ति (हविष्कृतम्) दातव्यादातव्यव्यवहाराणां कर्तारं परमेश्वरम् (एव) (तत्) तदा (ह्वयन्ति) ॥
 </details>
+

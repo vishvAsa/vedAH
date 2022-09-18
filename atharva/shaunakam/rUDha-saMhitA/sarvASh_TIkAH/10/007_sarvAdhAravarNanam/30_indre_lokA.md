@@ -26,6 +26,14 @@ On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly
 इन्द्रे। लोकाः। इन्द्रे। तपः। इन्द्रे। अधि। ऋतम्। आऽहितम्। इन्द्रम्। त्वा। वेद। प्रतिऽअक्षम्। स्कम्भे। सर्वम्‌। प्रतिऽस्थितम्। ७.३०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्कन्धः, आत्मा
+- अथर्वा, क्षुद्रः
+- अनुष्टुप्
+- सर्वाधारवर्णन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म के स्वरूप के विचार का उपदेश।
@@ -45,3 +53,4 @@ On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly
 
 टिप्पणी:   ३०−(इन्द्रे) परमैश्वर्यवति जगदीश्वरे (स्कम्भे) सर्वधारके (प्रतिष्ठितम्) परस्परं स्थितम्। अन्यत् पूर्ववत् ॥
 </details>
+

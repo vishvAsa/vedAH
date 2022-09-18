@@ -23,6 +23,14 @@ May both the Asvins, Lords of Light, balm me with honey of the bees, That I may 
 अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। वर्चस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। १.१९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- अनुष्टुप्
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -42,3 +50,4 @@ May both the Asvins, Lords of Light, balm me with honey of the bees, That I may 
 
 टिप्पणी:   १९−(सारघेण) अ० ६।६९।२। सारं घाटयति संग्राहयतीति सारघः। सारस्य बलस्य धनस्य वा संग्राहकेण। (मधुना) ज्ञानेन (अङ्क्तम्) प्रकाशयतम् (वर्चस्वतीम्) तेजोमयीम्। अन्यद् व्याख्यातम् अ० ६।६९।२ ॥
 </details>
+

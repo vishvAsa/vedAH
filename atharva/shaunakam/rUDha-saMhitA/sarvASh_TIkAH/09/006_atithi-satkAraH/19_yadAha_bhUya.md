@@ -26,6 +26,14 @@ When he says, Bring out more, he lengthens his life thereby.
 यत्। आह। भूयः। उत्। हर। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ७.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्नी त्रिष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -45,3 +53,4 @@ When he says, Bring out more, he lengthens his life thereby.
 
 टिप्पणी:   २−(यत्) यदा (आह) ब्रूते (भूयः) अधिकतरम् (उद्धर) उत्तमतया गृहाण (इति) (प्राणम्) जीवनम् (एव) निश्चयेन (तेन) कारणेन (वर्षीयांसम्) वृद्धतरम् ॥
 </details>
+

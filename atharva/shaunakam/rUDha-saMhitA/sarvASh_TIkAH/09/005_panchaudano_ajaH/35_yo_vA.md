@@ -32,6 +32,14 @@ The man who knows the season called the Rising takes to him- self the rising fam
 यः। वै। उत्ऽयन्तम्। नाम। ऋतुम्। वेद। उद्यतीम्ऽउद्यतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। उत्ऽयन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अजः पञ्चौदनः
+- भृगुः
+- दशपदा प्रकृतिः
+- अज सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से सुख का उपदेश।
@@ -51,3 +59,4 @@ The man who knows the season called the Rising takes to him- self the rising fam
 
 टिप्पणी:   ३५−(उद्यन्तम्) इण्-शतृ। उद्गच्छन्तम् (उद्यतीमुद्यतीम्) अतिशयेनोदयं प्राप्नुवतीम् (उद्यन्) उद्गच्छन्। अन्यत् पूर्ववत् ॥
 </details>
+

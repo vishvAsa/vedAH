@@ -24,6 +24,14 @@ Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward
 प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। व्यानऽउदानौ। वाक्। मनः। शरीरेण। ते। ईयन्ते। १०.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्, मन्युः
+- कौरुपथिः
+- अनुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब जगत् के कारण परमात्मा का उपदेश।
@@ -43,3 +51,4 @@ Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward
 
 टिप्पणी:   २६−त्रयः पादाः पूर्ववत्-म० ४। (शरीरेण) देहेन (ते) पूर्वोक्ताः पदार्थाः (ईयन्ते) ईङ् गतौ−श्यन्। गच्छन्ति। प्रवर्तन्ते ॥
 </details>
+

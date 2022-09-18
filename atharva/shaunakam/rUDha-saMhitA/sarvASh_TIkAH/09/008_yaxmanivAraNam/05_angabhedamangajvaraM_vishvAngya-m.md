@@ -25,6 +25,14 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 अङ्गऽभेदम्। अङ्गऽज्वरम्। विश्वऽअङ्ग्यम्। विऽसल्पकम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वशीर्षामयापाकरणम्
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- यक्ष्मनिवारण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समस्त शरीर के रोग नाश का उपदेश।  इस सूक्त का मिलान अ० का० २ सूक्त ३३ से करो।
@@ -44,3 +52,4 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 
 टिप्पणी:   ५−(अङ्गभेदम्) अ० ५।३०।९। शरीरावयवविदारम् (अङ्गज्वरम्) प्रत्यङ्गतापम् (विश्वाङ्ग्यम्) सर्वाङ्गभवम्। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ What curse soever couples launch against us, whatever bitter speech the chattere
 यत्। अग्ने। अद्य। मिथुना। शपातः। यत्। वाचः। तृष्टम्। जनयन्त। रेभाः। मन्योः। मनसः। शरव्या। जायते। या। तया। विध्य। हृदये। यातुऽधानान्। ५.४८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रजापतिः
+- सिन्धुद्वीपः
+- अनुष्टुप्
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -42,3 +50,4 @@ What curse soever couples launch against us, whatever bitter speech the chattere
 
 टिप्पणी:   ४८−अयं मन्त्रो व्याख्यातः-अ० ८।३।१२ ॥
 </details>
+

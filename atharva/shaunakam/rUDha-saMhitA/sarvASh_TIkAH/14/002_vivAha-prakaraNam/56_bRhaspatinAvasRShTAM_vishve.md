@@ -21,6 +21,14 @@ Her whom Brihaspati, etc. With all the glory, etc.
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। यशः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -40,3 +48,4 @@ Her whom Brihaspati, etc. With all the glory, etc.
 
 टिप्पणी:   ५६−(यशः) दानशूरतादिप्रभवं सुनाम। अन्यद् गतम् ॥
 </details>
+

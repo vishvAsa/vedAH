@@ -25,6 +25,14 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 एषः। वै। अतिथिः। यत्। श्रोत्रियः। तस्मात्। पूर्वः। न। अश्नीयात्। ८.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्नी बृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -44,3 +52,4 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 
 टिप्पणी:   ७−(यत्) यस्मात् कारणात् (श्रोत्रियः) श्रोत्रियंश्छन्दोऽधीते। पा० ५।२।८४। छन्दस्-घन्। वेदाध्येतृपुरुषः (तस्मात्) अतिथेः सकाशात् (न) निषेधे (अश्नीयात्) जेमेत्। अन्यत् पूर्ववत् ॥
 </details>
+

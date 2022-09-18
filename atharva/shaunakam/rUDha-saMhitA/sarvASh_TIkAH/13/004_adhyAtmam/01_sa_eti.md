@@ -22,6 +22,14 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 सः। एति। सविता। स्वः। दिवः। पृष्ठे। अवऽचाकशत्। ४.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -41,3 +49,4 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 
 टिप्पणी:   १−(सः) प्रसिद्धः (एति) प्राप्नोति (सविता) सर्वप्रेरकः परमेश्वरः (स्वः) सुखम् (दिवः) आकाशस्य। व्यवहारस्य (पृष्ठे) उपरिभागे (अवचाकशत्) निघ० ३।११। अवलोकयन् ॥
 </details>
+

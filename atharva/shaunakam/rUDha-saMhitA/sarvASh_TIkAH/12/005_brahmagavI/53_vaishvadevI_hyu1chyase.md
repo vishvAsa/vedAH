@@ -23,6 +23,14 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 वैश्वऽदेवी। हि। उच्यसे। कृत्या। कूल्बजम्। आऽवृता। १०.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -42,3 +50,4 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 
 टिप्पणी:   ५३−(वैश्वदेवी) विश्वदेव−अण्, ङीप्। सर्वविदुषां हितकरी (हि) यस्मात् कारणात् (उच्यसे) कथ्यसे। शेषं गतम्−म० १२ ॥
 </details>
+

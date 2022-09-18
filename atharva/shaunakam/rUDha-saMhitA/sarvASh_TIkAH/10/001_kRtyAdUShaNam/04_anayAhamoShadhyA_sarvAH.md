@@ -24,6 +24,14 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 अनया। अहम्। ओषध्या। सर्वाः। कृत्वाः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्यादूषणम्
+- प्रत्यङ्गिरसः
+- अनुष्टुप्
+- कृत्यादूषण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्तव्य दण्ड का उपदेश।
@@ -43,3 +51,4 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 
 टिप्पणी:   ४−(कृत्याः) कृञ् हिंसायाम्-क्यप् तुक् च। हिंसाः। अन्यद् व्याख्यातम् अ० ४।१८।५ ॥
 </details>
+

@@ -21,6 +21,14 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 अघऽविषा। निऽपतन्ती। तमः। निऽपतिता। ७.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्न्युष्णिक्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 
 टिप्पणी:   २६−(अघविषा) म० १२। महाघोरविषयुक्ता यथा (निपतन्ती) अधोगच्छन्ती (तमः) अन्धकारः (निपतिता) अधोगता ॥
 </details>
+

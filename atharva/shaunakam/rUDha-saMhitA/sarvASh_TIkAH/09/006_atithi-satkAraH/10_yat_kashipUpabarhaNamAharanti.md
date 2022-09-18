@@ -26,6 +26,14 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 यत्। कशिपुऽउपबर्हणम्। आऽहरन्ति। परिऽधयः। एव। ते। ६.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्नी भुरिग्बृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -45,3 +53,4 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 
 टिप्पणी:   १०−(यत्) यदा (कशिपूपबर्हणम्) कशिपुर्व्याख्यातः-अ० ६।१३८।५। उपबर्हणं व्याख्यातम्-अ० ९।५।२९। परिस्तरणं बालिशं च (आहरन्ति) (परिधयः) उपसर्गे घोः किः। पा० ३।३।९२। परि+दधातेः-कि। ईश्वरस्य परितो धारणशक्तयः (एव) (ते) प्रसिद्धाः ॥
 </details>
+

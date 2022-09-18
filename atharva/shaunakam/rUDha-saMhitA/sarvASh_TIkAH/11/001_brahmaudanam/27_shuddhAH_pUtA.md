@@ -29,6 +29,14 @@ Here I set singly in the hands of Brahmans these cleansed and. purifie d and hol
 शुध्दाः। पूताः। योषितः। यज्ञियाः। इमाः। ब्रह्मणाम्। हस्तेषु। प्रऽपृथक्। सादयामि। यत्ऽकामः। इदम्। अभिऽसिञ्चामि। वः। अहम्। इन्द्रः। मरुत्वान्। सः। ददात्। इदम्। मे। १.२७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मौदनः
+- ब्रह्मा
+- अतिजागतगर्भा जगती
+- ब्रह्मौदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
@@ -48,3 +56,4 @@ Here I set singly in the hands of Brahmans these cleansed and. purifie d and hol
 
 टिप्पणी:   २७−(योषितः) अ० १।१७।१। सेव्याः प्रजाः (ददात्) लेटि रूपम्। ददातु (इदम्) काम्यमानं फलम्। अन्यत् पूर्ववत्-अ० ६।१२२।५ ॥
 </details>
+

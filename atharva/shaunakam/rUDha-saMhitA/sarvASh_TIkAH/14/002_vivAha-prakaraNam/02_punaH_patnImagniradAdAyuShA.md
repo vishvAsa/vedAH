@@ -26,6 +26,14 @@ Agni hath given the bride again with splendour and a lengthened. life. Long-live
 पुनः। पत्नीम्। अग्निः। अदात्। आयुषा। सह। वर्चसा। दीर्घऽआयुः। अस्याः। यः। पतिः। जीवाति। शरदः। शतम्। २.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -45,3 +53,4 @@ Agni hath given the bride again with splendour and a lengthened. life. Long-live
 
 टिप्पणी:   २−(पुनः) निश्चयेन (पत्नीम्) (अग्निः)सर्वव्यापकः परमेश्वरः (अदात्) दत्तवान् (आयुषा) जीवनेन (सह) (वर्चसा) (दीर्घायुः) चिरंजीवी (अस्याः) पत्न्याः (यः) (पतिः) (जीवाति) जीवतु (शरदः)संवत्सरान् (शतम्) ॥
 </details>
+

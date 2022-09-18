@@ -24,6 +24,14 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उच्छिष्टः, अध्यात्मम्
+- अथर्वा 
+- अनुष्टुप्
+- उच्छिष्ट ब्रह्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब जगत् के कारण परमात्मा का उपदेश।
@@ -43,3 +51,4 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 
 टिप्पणी:   २५−(प्राणापानौ) श्वासप्रश्वासौ (चक्षुः) नेत्रम् (श्रोत्रम्) करणम् (अक्षितिः) तत्त्वानां निर्हानिः (च) (क्षितिः) तत्त्वानां हानिः (च) (या)। अन्यत् पूर्ववत् ॥
 </details>
+

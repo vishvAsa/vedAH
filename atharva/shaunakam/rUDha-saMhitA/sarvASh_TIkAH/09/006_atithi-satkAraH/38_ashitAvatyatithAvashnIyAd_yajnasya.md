@@ -28,6 +28,14 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 अशितऽवति। अतिथौ। अश्नीयात्। यज्ञस्य। सात्मऽत्वाय। यज्ञस्य। अविऽछेदाय। तत्। व्रतम्। ८.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- पिपीलिकमध्योष्णिक्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -47,3 +55,4 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 
 टिप्पणी:   ८−(अशितवति) सांहितिको दीर्घः। भुक्तवति (अतिथौ) संन्यासिनि (अश्नीयात्) जेमेत् (यज्ञस्य) शुभव्यवहारस्य (सात्मत्वाय) सजीवनत्वाय। वृद्धिकरणाय (अविच्छेदाय) निरन्तरत्वाय। अविरामाय। अन्यत् पूर्ववत् ॥
 </details>
+

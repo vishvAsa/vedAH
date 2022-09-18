@@ -29,6 +29,14 @@ Unlovely is his body when it glistens with that wicked fiend, What time the husb
 अश्लीला। तनूः। भवति। रुशती। पापया। अमुया। पतिः। यत्। वध्वः। वाससः। स्वम्। अङ्गम्। अभिऽऊर्णुते। १.२७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोम
+- वधूवास संस्पर्श मोचन
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह संस्कार का उपदेश।
@@ -48,3 +56,4 @@ Unlovely is his body when it glistens with that wicked fiend, What time the husb
 
 टिप्पणी:   २७−(अश्लीला) श्रीरहिता। कुरूपा (तनूः) रूपम् (भवति) (रुशती) रोचमाना (पापया) पापबुद्धया (अमुया) प्रसिद्धया (पतिः) (यत्) यदा (वध्वः) पत्न्याः (वाससः) वस्त्रात् (स्वम्) स्वकीयम् (अङ्गम्)(अभ्यूर्णुते) आच्छादयति ॥
 </details>
+

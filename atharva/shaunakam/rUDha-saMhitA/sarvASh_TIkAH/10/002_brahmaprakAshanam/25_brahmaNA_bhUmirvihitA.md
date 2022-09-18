@@ -26,6 +26,14 @@ By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this 
 ब्रह्मणा। भूमिः। विऽहिता। ब्रह्म। द्यौः। उत्ऽतरा। हिता। ब्रह्म। इदम्। ऊर्ध्वम्। तिर्यक्। च। अन्तरिक्षम्। व्यचः। हितम्। २.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मप्रकाशनम्, पुरुषः
+- नारायणः
+- अनुष्टुप्
+- ब्रह्मप्रकाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
@@ -45,3 +53,4 @@ By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this 
 
 टिप्पणी:   २५−(ब्रह्मणा) परमेश्वरेण (ब्रह्म) म० २३। ब्रह्मणा। अन्यत् पूर्ववत् मन्त्रे २४ ॥
 </details>
+

@@ -25,6 +25,14 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 मूलऽबर्हणी। परिऽआक्रियमाणा। क्षितिः। परिऽआकृता। ८.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्नी बृहती
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -44,3 +52,4 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 
 टिप्पणी:   ३३−(मूलबर्हणी) बर्ह हिंसायाम्−ल्युट्, ङीप्। मूलनाशिका (पर्याक्रियमाणा) आङ्पूर्वकः डुकृञ् वेषान्तरकरणे। परि अनादरेण रूपान्तरं क्रियमाणा (क्षितः) हानिः (पर्याकृता) अनादरेण रूपान्तरं कृता ॥
 </details>
+

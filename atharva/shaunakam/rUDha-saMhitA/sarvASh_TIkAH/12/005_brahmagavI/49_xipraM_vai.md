@@ -22,6 +22,14 @@ Quickly the wolves are howling in the habitation where he lived:
 तस्य। वास्तुषु। वृकाः। कुर्वते। ऐलबम्। १०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ Quickly the wolves are howling in the habitation where he lived:
 
 टिप्पणी:   ४९−(वास्तुषु) निवासेषु (वृकाः) हिंस्राः पशवः (ऐलबम्) म० ४७। आक्रोशम्। अन्यत् पूर्ववत्−म० ४७ ॥
 </details>
+

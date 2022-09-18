@@ -26,6 +26,14 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 ये। व्रीहयः। यवाः। निःऽउप्यन्ते। अंशवः। एव। ते। ६.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्न्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -45,3 +53,4 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 
 टिप्पणी:   १४−(ये) (व्रीहयः) अ० ६।१४०।२। धान्यविशेषाः (यवाः) (निरुप्यन्ते) डुवप बीजसन्ताने मुण्डने च। प्रक्षिप्यन्ते (अंशवः) मृगय्वादयश्च। उ० १।३७। अंश विभाजने-क। सूक्ष्मांशाः। सोमलतावयवाः ॥
 </details>
+

@@ -24,6 +24,14 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 तम्। इदम्। निऽगतम्। सहः। सः। एषः। एकः। एकऽवृत्। एकः। एव। ४.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -43,3 +51,4 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 
 टिप्पणी:   १२−(तम्) परमात्मानम् (इदम्) पूर्वोक्तम् (निगतम्) निश्चयेन प्राप्तम् (सहः) बलम् (सः) (एषः) (एकः) अद्वितीयः (एकवृत्) एको वर्तमानः (एकः) (एव) ॥
 </details>
+

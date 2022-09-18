@@ -21,6 +21,14 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 ऋतवः। पक्तारः। आर्तवाः। सम्। इन्धते। ३.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- आसुर्यनुष्टुप्
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -40,3 +48,4 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 
 टिप्पणी:   १७−(ऋतवः) वसन्तादयः (पक्तारः) पाचकाः (आर्तवाः) ऋतूनामवयवाः (सम्) सम्यक् (इन्धते) दीपयन्ति, अग्निं ज्वलयन्ति ॥
 </details>
+

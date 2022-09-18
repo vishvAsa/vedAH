@@ -21,6 +21,14 @@ Her whom Brihaspati, etc. With all good fortune, etc.
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। भगः। गोषु। प्रऽविष्टः। यः। तेन। इमाम्। सम्। सृजामसि। २.५५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -40,3 +48,4 @@ Her whom Brihaspati, etc. With all good fortune, etc.
 
 टिप्पणी:   ५५−(भगः) सेवनीयः प्रभावः। ऐश्वर्यम्। अन्यत् पूर्ववत् ॥
 </details>
+

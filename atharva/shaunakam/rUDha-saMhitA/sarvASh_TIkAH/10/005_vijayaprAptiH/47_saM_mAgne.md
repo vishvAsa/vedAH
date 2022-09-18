@@ -24,6 +24,14 @@ Give me the boon of splendid strength; give, Agni! progeny and life. May the God
 सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। ५.४७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रजापतिः
+- सिन्धुद्वीपः
+- अनुष्टुप्
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -43,3 +51,4 @@ Give me the boon of splendid strength; give, Agni! progeny and life. May the God
 
 टिप्पणी:   ४७−अयं मन्त्रो व्याख्यातः-अ० ७।८९।२ ॥
 </details>
+

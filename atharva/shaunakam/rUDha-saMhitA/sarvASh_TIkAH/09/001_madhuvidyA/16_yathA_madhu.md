@@ -25,6 +25,14 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 यथा। मधु। मधुऽकृतः। सम्ऽभरन्ति। मधौ। अधि। एव। मे। अश्विना। वर्चः। आत्मनि। ध्रियताम्। १.१६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- अनुष्टुप्
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -44,3 +52,4 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 
 टिप्पणी:   १६−(मधु) ज्ञानम् (मधुकृतः) बोधकर्तारः। आचार्याः (संभरन्ति) संगृह्य धरन्ति (मधौ) ज्ञाने (अधि) यथावत्। अन्यत् पूर्ववत्-म० ११ ॥
 </details>
+

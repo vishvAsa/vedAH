@@ -28,6 +28,14 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 मधु। जनिषीय। मधु। वंशिषीय। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। १.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- पुरउष्णिक्
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -47,3 +55,4 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 
 टिप्पणी:   १४−(मधु) म० १। ज्ञानम् (जनिषीय) जनी प्रादुर्भावे, छन्दसि प्रादुष्करणे-आशीर्लिङ्। प्रादुष्क्रियासम् (वंशिषीय) वनु याचने-आशीर्लिङि छान्दसं रूपम्। अहं वनिषीय। याचिषीय। अन्यत् पूर्ववत्-अ० ७।८९।१ ॥
 </details>
+

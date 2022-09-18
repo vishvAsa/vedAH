@@ -31,6 +31,14 @@ Splendid are Heaven and Earth, still near to bless us, mighty in their power; Th
 शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आपः। सप्त। सुस्रुवः। देवीः। ताः। नः। मुञ्चन्तु अंहसः। २.४५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -50,3 +58,4 @@ Splendid are Heaven and Earth, still near to bless us, mighty in their power; Th
 
 टिप्पणी:   ४५−अयं मन्त्रो व्याख्यातः-अ० ७।११२।१ ॥
 </details>
+

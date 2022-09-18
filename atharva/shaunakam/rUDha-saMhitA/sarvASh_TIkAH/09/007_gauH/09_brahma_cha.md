@@ -22,6 +22,14 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 ब्रह्म। च। क्षत्रम्। च। श्रोणी इति। बलम्। ऊरू इति। १२.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्नी गायत्री
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -41,3 +49,4 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 
 टिप्पणी:   ९−(ब्रह्म) ब्राह्मणत्वम् (च) (क्षत्रम्) अ० २।१५।४। क्षत्रियत्वम् (च) एव (श्रोणी) अ० २।३३।५। कटिभागौ (बलम्) (ऊरू) अ० २।३३।५। जानूपरिभागौ ॥
 </details>
+

@@ -28,6 +28,14 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 आविः। आत्मानम्। कृणुते। यदा। स्थाम। जिघांसति। अथो इति। ह। ब्रह्मऽभ्यः। वशा। याञ्चाय। कृणुते। मनः। ४.३०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वशा
+- कश्यपः
+- अनुष्टुप्
+- वशा गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी के प्रकाश करने के श्रेष्ठ गुणों का उपदेश।
@@ -47,3 +55,4 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 
 टिप्पणी:   ३०−(आत्मानम्) तत्त्वबोधम् (आविष्कृणुते) प्रकटयति (अथो ह) तदैव (ब्रह्मभ्यः) ब्रह्मचारिभ्यः (वशा) कमनीया वेदवाणी (याच्ञाय) याचृ याच्ञायाम्−नङ्। याचनाय (कृणुते) करोति (मनः) मननम्। अन्यत् पूर्ववत्−म० २९ ॥
 </details>
+

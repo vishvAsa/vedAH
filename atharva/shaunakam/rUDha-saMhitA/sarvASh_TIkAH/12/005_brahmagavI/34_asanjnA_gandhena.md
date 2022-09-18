@@ -25,6 +25,14 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 असम्ऽज्ञा। गन्धेन। शुक्। उध्द्रियमाणा। आशीविषः। उध्दृता। ८.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्नी बृहती
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -44,3 +52,4 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 
 टिप्पणी:   ३४−(असंज्ञा) असङ्गतिः। भेदः (गन्धेन) गन्ध अर्दने−अच्। नाशेन (शुक्) शोकः। (उद्ध्रियमाणा) उत्पाट्यमाना (आशीविषः) आङ्+अश भोजने−अच्, ङीप्। आश्यां फणे विषं यस्य सः। महाविषयुक्तः सर्पः (उद्धृता) उत्पाटिता ॥
 </details>
+

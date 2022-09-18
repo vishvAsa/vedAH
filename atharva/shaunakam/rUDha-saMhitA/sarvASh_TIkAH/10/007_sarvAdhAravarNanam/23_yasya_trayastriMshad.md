@@ -22,6 +22,14 @@ Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth no
 यस्य। त्रयःऽत्रिंशत्। देवाः। निऽधिम्। रक्षन्ति। सर्वदा। निऽधिम्। तम्। अद्य। कः। वेद। यम्। देवाः। अभिऽरक्षथ। ७.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्कन्धः, आत्मा
+- अथर्वा, क्षुद्रः
+- अनुष्टुप्
+- सर्वाधारवर्णन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म के स्वरूप के विचार का उपदेश।
@@ -41,3 +49,4 @@ Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth no
 
 टिप्पणी:   २३−(यस्य) परमेश्वरस्य (त्रयस्त्रिंशत्) म० १३ (देवाः) वस्वादयो दिव्यपदार्थाः (निधिम्) कोषम्। संसारम् (रक्षन्ति) पालयन्ति (सर्वदा) (वेद) जानाति। अन्यत् सुगमम् ॥
 </details>
+

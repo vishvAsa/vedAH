@@ -24,6 +24,14 @@ Let them drift downward like a boat torn from the rope that held it fast. There 
 ते। अधराञ्चः। प्र। प्लवन्ताम्। छिन्ना। नौःऽइव। बन्धनात्। न। सायकऽप्रनुत्तानाम्। पुनः। अस्ति। निऽवर्तनम्। २.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कामः
+- अथर्वा
+- अनुष्टुप्
+- काम सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
@@ -43,3 +51,4 @@ Let them drift downward like a boat torn from the rope that held it fast. There 
 
 टिप्पणी:   १२−(सायकप्रणुत्तानाम्) बाणैः प्रेरितानाम्। अन्यद् व्याख्यातम् अ० ३।६।७ ॥
 </details>
+

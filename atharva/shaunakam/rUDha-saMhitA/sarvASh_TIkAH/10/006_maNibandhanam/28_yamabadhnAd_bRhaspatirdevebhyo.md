@@ -22,6 +22,14 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सर्वाभिः। भूतिःऽभिः। सह। ६.२८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- अनुष्टुप्
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -41,3 +49,4 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 
 टिप्पणी:   २८−(भूतिभिः) विभूतिभिः। सम्पत्तिभिः। सिद्धिभिः। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 रश्मिऽभिः। नभः। आऽभृतम्। महाऽइन्द्रः। एति। आऽवृतः। ४.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -42,3 +50,4 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 
 टिप्पणी:   ९−अयं मन्त्रो व्याख्यातः-म० २ ॥
 </details>
+

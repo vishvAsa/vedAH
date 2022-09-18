@@ -22,6 +22,14 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 यत्। आऽवसथान्। कल्पयन्ति। सदःऽहविर्धानानि। एव। तत्। कल्पयन्ति। ६.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्नी त्रिष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -41,3 +49,4 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 
 टिप्पणी:   ७−(यत्) यदा (आवसथान्) उपसर्गे वसेः। उ० ३।११६। आ+वस निवासे-अथ। निवासान् (कल्पयन्ति) रचयन्ति (सदोहविर्धानानि) यज्ञगृहग्राह्यदातव्यकर्मस्थानानि (एव) (तत्) तदा (कल्पयन्ति) विचारयन्ति। समर्थयन्ति ॥
 </details>
+

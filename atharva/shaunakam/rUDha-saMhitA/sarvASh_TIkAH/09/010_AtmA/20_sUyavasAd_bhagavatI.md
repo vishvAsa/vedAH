@@ -24,6 +24,14 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 सुयवसऽअत्। भगऽवती। हि। भूयाः। अध। वयम्। भगऽवन्तः। स्याम। अध्दि। तृणम्। अघ्न्ये। विश्वऽदानीम्। पिब। शुध्दम्। उदकम्। आऽचरन्ती। १५.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः, विराट्, अध्यात्मम्
+- ब्रह्मा
+- त्रिष्टुप्
+- आत्मा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवात्मा और परमात्मा के लक्षणों का उपदेश।
@@ -43,3 +51,4 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 
 टिप्पणी:   २०-अयं मन्त्रो व्याख्यातः-अ० ७।७३।११ ॥
 </details>
+

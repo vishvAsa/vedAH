@@ -21,6 +21,14 @@ Poverty while she is being eaten. Destruction when eaten.
 अवर्तिः। अश्यमाना। निःऽऋतिः। अशिता। ८.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आसुर्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ Poverty while she is being eaten. Destruction when eaten.
 
 टिप्पणी:   ३७−(अवर्तिः) अ० ९।२।३। निर्जीविका (अश्यमाना) भक्ष्यमाणा (निर्ऋतिः) अ० ३।११।२। कृच्छ्रापत्तिः−निरु० २।७। (अशिता) भक्षिता ॥
 </details>
+

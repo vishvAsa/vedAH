@@ -25,6 +25,14 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 याः। हृदयम्। उपऽऋषन्ति। अनुऽतन्वन्ति। कीकसाः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वशीर्षामयापाकरणम्
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- यक्ष्मनिवारण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समस्त शरीर के रोग नाश का उपदेश।  इस सूक्त का मिलान अ० का० २ सूक्त ३३ से करो।
@@ -44,3 +52,4 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 
 टिप्पणी:   १४−(याः) अर्षण्यः (उपर्षन्ति) ऋषी गतौ। प्रविशन्ति (अनुतन्वन्ति) अनुलक्ष्य विस्तीर्यन्ते (कीकसाः) अ० २।३३।२। जत्रुवक्षोगतास्थीनि। अन्यत् पूर्ववत् ॥
 </details>
+

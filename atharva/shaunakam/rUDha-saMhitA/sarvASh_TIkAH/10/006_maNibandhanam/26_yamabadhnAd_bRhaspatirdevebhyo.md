@@ -22,6 +22,14 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। ऊर्जया। पयसा। सह। द्रविणेन। श्रिया। सह। ६.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -41,3 +49,4 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 
 टिप्पणी:   २६−(ऊर्जया) पराक्रमेण (पयसा) ज्ञानेन (द्रविणेन) धनेन (श्रिया) सेवनीयया संपत्या। अन्यत् पूर्ववत् ॥
 </details>
+

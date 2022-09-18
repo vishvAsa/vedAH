@@ -22,6 +22,14 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। गोभिः। अजाविऽभिः। अन्नेन। प्रऽजया। सह। ६.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -41,3 +49,4 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 
 टिप्पणी:   २३−(अजाविभिः) अजाश्च अवयश्च ताभिः (प्रजया) सन्तानेन सह। अन्यत् सुगमम् ॥
 </details>
+

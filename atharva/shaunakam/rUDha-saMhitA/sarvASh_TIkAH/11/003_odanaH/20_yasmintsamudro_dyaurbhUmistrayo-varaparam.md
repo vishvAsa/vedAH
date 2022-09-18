@@ -22,6 +22,14 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 यस्मिन्। समुद्रः। द्यौः। भूमिः। त्रयः। अवरऽपरम्। श्रिताः। ३.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- प्राजापत्यानुष्टुप्
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -41,3 +49,4 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 
 टिप्पणी:   २०−(यस्मिन्) ओदने, परमेश्वरे (समुद्रः) अ० १।१३।३। अन्तरिक्षम्-निघ० १।३। (द्यौः) प्रकाशमानः सूर्यः (भूमिः) (त्रयः) लोकाः (अवरपरम्) अधरोत्तरम् (श्रिताः) स्थिताः ॥
 </details>
+

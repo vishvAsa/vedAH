@@ -23,6 +23,14 @@ As to the meter, see the note to the preceding verse.
 सः। वै। ऋक्ऽभ्यः। अजायत। तस्मात्। ऋचः। अजायन्त। ७.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- साम्न्युष्णिक्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -42,3 +50,4 @@ As to the meter, see the note to the preceding verse.
 
 टिप्पणी:   ३८−(ऋग्भ्यः) स्तुत्याभ्यो वेदवाणीभ्यः (ऋचः) स्तुत्या वेदवाण्यः। अन्यद् गतम् ॥
 </details>
+

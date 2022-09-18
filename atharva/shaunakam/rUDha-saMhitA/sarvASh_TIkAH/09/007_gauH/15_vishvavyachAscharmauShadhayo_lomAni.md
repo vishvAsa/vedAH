@@ -23,6 +23,14 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 विश्वऽव्यचाः। चर्म। ओषधयः। लोमानि। नक्षत्राणि। रूपम्। १२.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्नी बृहती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -42,3 +50,4 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 
 टिप्पणी:   १५−(विश्वव्यचाः) व्यच छले सम्बन्धे च-असुन् सर्वव्याप्तिः (चर्म) त्वचा (ओषधयः) अन्नादिपदार्थाः (लोमानि) रोमाणि (नक्षत्राणि) अ० ३।७।७। तारागणाः (रूपम्) सौन्दर्यम् ॥
 </details>
+

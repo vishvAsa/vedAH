@@ -23,6 +23,14 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 यौ। ते। बाहू इति। ये  इति। दोषणी इति। यौ। अंसौ। या। च। ते। ककुत्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -42,3 +50,4 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 
 टिप्पणी:   १९−(दोषणी) अ० ९।७।७। भुजदण्डौ (ककुत्) अ० ३।४।२। वृषादिस्कन्धपृष्ठस्थमांसपिण्डः। अन्यत् स्पष्टम् ॥
 </details>
+

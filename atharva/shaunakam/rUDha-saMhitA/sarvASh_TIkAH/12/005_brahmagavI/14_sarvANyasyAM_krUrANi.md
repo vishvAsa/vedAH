@@ -21,6 +21,14 @@ In her are all dreadful, deeds, all slaughters of mankind.
 सर्वाणि। अस्याम्। क्रूराणि। सर्वे। पुरुषऽवधाः। ७.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्न्युष्णिक्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ In her are all dreadful, deeds, all slaughters of mankind.
 
 टिप्पणी:   १४−(सर्वाणि) (अस्याम्) (क्रूराणि) निर्दयकर्माणि (पुरुषवधाः) पुरुषाणां हत्याव्यापाराः ॥
 </details>
+

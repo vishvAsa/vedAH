@@ -27,6 +27,14 @@ same curtailed way until vs. 54, which is filled out to the end.
 अम्भः। अमः। महः। सहः। इति। त्वा। उप। आस्महे। वयम्। ८.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -46,3 +54,4 @@ same curtailed way until vs. 54, which is filled out to the end.
 
 टिप्पणी:   ५०−(अम्भः) म० १४। आप्लृ व्याप्तौ-असुन्। व्यापकं ब्रह्म (अमः) अम गतौ-असुन्। ज्ञानस्वरूपम् (महः) पूजनीयम् (सहः) सहनशीलम्। अन्यत् पूर्ववत्-म० ४७ ॥
 </details>
+

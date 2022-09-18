@@ -22,6 +22,14 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। व्रीहिऽयवाभ्याम्। महसा। भूत्या। सह। ६.२४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -41,3 +49,4 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 
 टिप्पणी:   २४−(महसा) महत्त्वेन (भूत्या) सम्पत्या। अन्यत् सुगमम् ॥
 </details>
+

@@ -24,6 +24,14 @@ Poison when in agitation, fever when seasoned with condi- ments;
 विषम्। प्रऽयस्यन्ती। तक्मा। प्रऽयस्ता। ८.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- याजुषी त्रिष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -43,3 +51,4 @@ Poison when in agitation, fever when seasoned with condi- ments;
 
 टिप्पणी:   ३१−(विषम्) (प्रयस्यन्ती) प्रयासं क्लेशं सहमाना (तक्मा) अ० १।२५।१। कृच्छ्रजीवनकारी ज्वरो यथा (प्रयस्ता) आयासं क्लेशं प्राप्ता ॥
 </details>
+

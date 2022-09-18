@@ -21,6 +21,14 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 ध्रुवायाः। दिशः शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः। ३.२९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शाला
+- भृग्वङ्गिराः
+- एकावसाना त्रिपदा प्रतिष्ठा गायत्री
+- शाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शाला बनाने की विधि का उपदेश।[इस सूक्त का मिलान अथर्व काण्ड ३ सूक्त १२ से करो]
@@ -40,3 +48,4 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 
 टिप्पणी:   २९−(ध्रुवायाः) अ० ३।२६।४। नीचस्थायाः सकाशात् ॥
 </details>
+

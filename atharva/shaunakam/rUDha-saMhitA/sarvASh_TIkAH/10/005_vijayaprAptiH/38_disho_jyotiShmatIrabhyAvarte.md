@@ -25,6 +25,14 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 दिशः। ज्योतिष्मतीः। अभिऽआवर्ते। ताः। मे। द्रविणम्। यच्छन्तु। ताः। मे। ब्राह्मणऽवर्चसम्। ५.३८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्त्रोक्ता
+- ब्रह्मा
+- पुरउष्णिक्
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों के कर्तव्य का उपदेश।
@@ -44,3 +52,4 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 
 टिप्पणी:   ३८−(दिशः) प्राच्यादीः (ज्योतिष्मतीः) प्रकाशवतीः (अभ्यावर्ते) अभीत्य वर्तनं करोमि (ताः) दिशः (यच्छन्तु) ददतु। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -26,6 +26,14 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 वरणः। वारयातै। अयम्। देवः। वनस्पतिः। यक्ष्मः। यः। अस्मिन्। आऽविष्टः। तम्। ऊं इति। देवाः। अवीवरन्। ३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरणमणिः, वनस्पतिः, चन्द्रमाः
+- अथर्वा
+- अनुष्टुप्
+- सपत्नक्षयणवरणमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
@@ -45,3 +53,4 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 
 टिप्पणी:   ५−अयं मन्त्रो व्याख्यातः-अथर्व० ६।८५।१ ॥
 </details>
+

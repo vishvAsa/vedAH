@@ -26,6 +26,14 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। ओषधयः। प्र। जायन्ते। अथो इति। याः। काः। च। वीरुधः। ६.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः
+- भार्गवो वैदर्भिः
+- अनुष्टुप्
+- प्राण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
@@ -45,3 +53,4 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 
 टिप्पणी:   १७−पूर्वार्धर्चो व्याख्यातः-म० ५ (ओषधयः) अन्नादिपदार्थाः (प्र जायन्ते) (अथो) अनन्तरमेव (याः) (काः) (च) (वीरुधः) अ० १।३२।१। विरोहणशीला लतादयः ॥
 </details>
+

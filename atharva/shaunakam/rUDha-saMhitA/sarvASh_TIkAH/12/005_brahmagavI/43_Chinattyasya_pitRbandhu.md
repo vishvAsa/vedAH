@@ -22,6 +22,14 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 छिनत्ति। अस्य। पितृऽबन्धु। परा। भावयति। मातृऽबन्धु। ९.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्नी बृहती
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 
 टिप्पणी:   ४२, ४३−(सर्वा) सर्वाणि (अस्य) ब्रह्मजस्य (अङ्गा) अङ्गानि (पर्वा) पर्वाणि। ग्रन्थीन् (मूलानि) (वृश्चति) (छिनत्ति) (अस्य) ब्रह्मज्यस्य (पितृबन्धु) पैतृकसम्बन्धनम् (पराभावयति) पराजयति (मातृबन्धु) मातृकसम्बन्धनम् ॥
 </details>
+

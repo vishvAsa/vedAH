@@ -22,6 +22,14 @@ Sin while she is cooking, evil dream when she is cooked;
 अघम्। पच्यमाना। दुःऽस्वप्न्यम्। पक्वा। ८.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्नी गायत्री
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ Sin while she is cooking, evil dream when she is cooked;
 
 टिप्पणी:   ३२−(अघम्) महादुःखम् (पच्यमाना) पाकं नाशं गम्यमाना (दुःष्वप्न्यम्) दुष्टः स्वप्नः (पक्वा) पाकं नाशं गता ॥
 </details>
+

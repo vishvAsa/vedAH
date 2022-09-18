@@ -24,6 +24,14 @@ Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every k
 भूतिः। च। वै। अभूतिः। च। रातयः। अरातयः। च। याः। क्षुधः। च। सर्वाः। तृष्णा। च। शरीरम्। अनु। प्र। अविशन्। १०.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्, मन्युः
+- कौरुपथिः
+- अनुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब जगत् के कारण परमात्मा का उपदेश।
@@ -43,3 +51,4 @@ Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every k
 
 टिप्पणी:   २१−(भूतिः) सम्पत्तिः (च) (वै) एव (अभूतिः) निर्धनता (च) (रातयः) दानशक्तयः (अरातयः) कार्पण्यानि (च) (याः) (क्षुधः) बुभुक्षाः (च) (सर्वाः) (तृष्णाः) पिपासाः। अन्यत् पूर्ववत् ॥
 </details>
+

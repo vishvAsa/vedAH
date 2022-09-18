@@ -21,6 +21,14 @@ Her whom Brihaspati, etc. With all the milky store possessed by cows do we enric
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। पयः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुष्टुप्
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -40,3 +48,4 @@ Her whom Brihaspati, etc. With all the milky store possessed by cows do we enric
 
 टिप्पणी:   ५७−(पयः) पय गतौ-असुन्। विज्ञानम्। अन्यद् गतम् ॥
 </details>
+

@@ -32,6 +32,14 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 अशिता। लोकात्। छिनत्ति। ब्रह्मऽगवी। ब्रह्मऽज्यम्। अस्मात्। च। अमुष्मात्। च। ८.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्रतिष्ठा गायत्री
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -51,3 +59,4 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 
 टिप्पणी:   ३८−(अशिता) भक्षिता। नाशिता (लोकात्) जन्मनः (छिनत्ति) भिनत्ति। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यम्) म० १५। ब्रह्मचारिणां हानिकरम् (अस्मात्) प्रत्यक्षात् (च) (अमुष्मात्) परस्मात् (च) ॥
 </details>
+

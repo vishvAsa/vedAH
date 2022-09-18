@@ -28,6 +28,14 @@ He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brah
 ब्रह्म। श्रोत्रियम्। आप्नोति। ब्रह्म। इमम्। परमेऽस्थिनम्। ब्रह्म। इमम्। अग्निम्। पुरुषः। ब्रह्म। सम्ऽवत्सरम्। ममे। २.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मप्रकाशनम्, पुरुषः
+- नारायणः
+- अनुष्टुप्
+- ब्रह्मप्रकाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
@@ -47,3 +55,4 @@ He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brah
 
 टिप्पणी:   २१−(ब्रह्म) सुपां सुलुक्। पा० ७।१।३९। तृतीयार्थे सु। ब्रह्मणा। वेदज्ञानेन। परमेश्वरेण। अन्यत् पूर्ववत्−म० २० ॥
 </details>
+

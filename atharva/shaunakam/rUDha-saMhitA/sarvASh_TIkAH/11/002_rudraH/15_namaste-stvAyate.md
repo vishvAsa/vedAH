@@ -26,6 +26,14 @@ Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when
 नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। रुद्र। तिष्ठते। आसीनाय। उत। ते। नमः। २.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रुद्रः
+- अथर्वा 
+- अनुष्टुप्
+- रुद्र सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
@@ -45,3 +53,4 @@ Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when
 
 टिप्पणी:   १५−(नमः) (ते) तुभ्यम् (अस्तु) (आयते) आगच्छतः पुरुषस्य हिताय (परायते) दूरं गच्छते (रुद्र) म० ३। हे दुःखनाशक (तिष्ठते) उत्तिष्ठतः पुरुषस्य हिताय (आसीनाय) उपविष्टस्य हिताय (उत) अपि च। अन्यद् गतम् ॥
 </details>
+

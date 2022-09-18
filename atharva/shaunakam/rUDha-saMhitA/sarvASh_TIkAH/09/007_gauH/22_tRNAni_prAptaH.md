@@ -23,6 +23,14 @@ When he hath got his grass he is King Soma.
 तृणानि। प्रऽआप्तः। सोमः। राजा। १२.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- एकपदासुरी जगती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -42,3 +50,4 @@ When he hath got his grass he is King Soma.
 
 टिप्पणी:   २२−(तृणानि) अ० २।३०।१। तृणवत् सृष्टिवस्तूनि (प्राप्तः) व्याप्तः सन् (सोमः) उत्पादकः (राजा) सर्वशासकः ॥
 </details>
+

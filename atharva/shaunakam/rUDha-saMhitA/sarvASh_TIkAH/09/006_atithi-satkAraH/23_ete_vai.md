@@ -25,6 +25,14 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 एते। वै। प्रियाः। च। अप्रियाः। च। ऋत्विजः। स्वःऽगम्। लोकम्। गमयन्ति। यत्। अतिथयः। ७.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आर्च्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -44,3 +52,4 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 
 टिप्पणी:   ६−(एते) (वै) निश्चयेन (प्रियाः) प्रीताः (च) (अप्रियाः) अप्रीताः (ऋत्विजः) अ० ६।२।१। सर्वर्तुयाजकाः (स्वर्गम्) सुखप्रापकम् (लोकम्) दर्शनीयं पदम् (गमयन्ति) प्रापयन्ति (यत्) यस्मात् कारणात् (अतिथयः) संन्यासिनः ॥
 </details>
+

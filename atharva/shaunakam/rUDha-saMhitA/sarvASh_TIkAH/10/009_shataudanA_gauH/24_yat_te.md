@@ -22,6 +22,14 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 यत्। ते। चर्म। शतऽओदने। यानि। लोमानि। अघ्न्ये। आमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो  इति। मधु। ९.२४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -41,3 +49,4 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 
 टिप्पणी:   २४−(शतौदने) म० १। हे बहुप्रकारसेचनशीले (अघ्न्ये) म० ३। हे अहिंसिके वेदवाणि। अन्यद् गतम्−म० १३ स्पष्टं च ॥
 </details>
+

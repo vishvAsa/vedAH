@@ -24,6 +24,14 @@ Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this oth
 ब्रह्म। देवान्। अनु। क्षियति। ब्रह्म। दैवऽजनीः। विशः। ब्रह्म। इदम्। अन्यत्। नक्षत्रम्। ब्रह्म। सत्। क्षत्रम्। उच्यते। २.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मप्रकाशनम्, पुरुषः
+- नारायणः
+- अनुष्टुप्
+- ब्रह्मप्रकाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
@@ -43,3 +51,4 @@ Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this oth
 
 टिप्पणी:   २३−(ब्रह्म) सुपां सुलुक्०। पा० ७।१।३९। विभक्तेः सुः। ब्रह्मणा। परमेश्वरद्वारा। अन्यत् पूर्ववत्−मन्त्र २२ ॥
 </details>
+

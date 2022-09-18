@@ -21,6 +21,14 @@ Misery while being additionally acquired, contumely and abuse while being put in
 पाप्मा। अधिऽधीयमाना। पारुष्यम्। अवऽधीयमाना। ९.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्न्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ Misery while being additionally acquired, contumely and abuse while being put in
 
 टिप्पणी:   ३०−(पाप्मा) पापम्। अनर्थः (अधिधीयमाना) ऊर्ध्वं ध्रियमाणा (पारुष्यम्) नैष्ठुर्य्यम् (अवधीयमाना) अधोध्रियमाणा ॥
 </details>
+

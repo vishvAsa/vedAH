@@ -22,6 +22,14 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ५.४६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रजापतिः
+- सिन्धुद्वीपः
+- अनुष्टुप्
+- विजय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -41,3 +49,4 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 
 टिप्पणी:   ४६−अयं मन्त्रो व्याख्यातः-अ० ७।८९।१ ॥
 </details>
+

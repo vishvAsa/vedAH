@@ -23,6 +23,14 @@ Grant me, O Agni, splendid strength, and progeny, and length- ened life. May the
 सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। १.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधु, अश्विनौ
+- अथर्वा
+- अनुष्टुप्
+- मधु विद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
@@ -42,3 +50,4 @@ Grant me, O Agni, splendid strength, and progeny, and length- ened life. May the
 
 टिप्पणी:   १५-अयं मन्त्रो व्याख्यातः-अ० ७।८९।२ ॥
 </details>
+

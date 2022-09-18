@@ -25,6 +25,14 @@ Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young 
 यस्य। सूर्यः। चक्षुः। चन्द्रमाः। च। पुनःऽनवः। अग्निम्। यः। चक्रे। आस्यम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ७.३३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्कन्धः, आत्मा
+- अथर्वा, क्षुद्रः
+- पराविराडनुष्टुप्
+- सर्वाधारवर्णन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म के स्वरूप के विचार का उपदेश।
@@ -44,3 +52,4 @@ Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young 
 
 टिप्पणी:   ३३−(यस्य) (सूर्यः) (चक्षुः) नेत्रतुल्यः (चन्द्रमाः) (च) (पुनर्णवः) पुनः पुनः सर्गादौ नवीनः सृष्टः (अग्निम्) (यः) (चक्रे) कृतवान् (आस्यम्) मुखतुल्यम्। अन्यत् पूर्ववत् ॥
 </details>
+

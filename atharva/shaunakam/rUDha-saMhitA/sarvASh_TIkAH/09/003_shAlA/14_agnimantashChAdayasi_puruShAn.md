@@ -22,6 +22,14 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 अग्निम्। अन्तः। छादयसि। पुरुषान्। पशुऽभिः। सह। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शाला
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- शाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शाला बनाने की विधि का उपदेश।[इस सूक्त का मिलान अथर्व काण्ड ३ सूक्त १२ से करो]
@@ -41,3 +49,4 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 
 टिप्पणी:   १४−(अग्निम्) यज्ञस्य पाकस्य वा पावकम् (अन्तः) मध्ये (छादयसि) संवृणोषि (पुरुषान्) मनुष्यान् (पशुभिः) गवादिभिः (सह) अन्यत् पूर्ववत् म० १३ ॥
 </details>
+

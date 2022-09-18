@@ -26,6 +26,14 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। तेजसा। त्विष्या। सह। यशसा। कीर्त्या। सह। ६.२७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -45,3 +53,4 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 
 टिप्पणी:   २७−(त्विष्या) इगुपधात् कित्। उ० ४।१२०। त्विष दीप्तौ-इन्, कित्। दीप्त्या। शोभया। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -25,6 +25,14 @@ He gains this world and the world yonder.
 आप्नोति। इमम्। लोकम्। आप्नोति। अमुम्। ११.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- याजुषी त्रिष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -44,3 +52,4 @@ He gains this world and the world yonder.
 
 टिप्पणी:   १२, १३−(आप्नोति) प्राप्नोति (इमम्) वर्तमानम् (लोकम्) जन्म (अमुम्) आगामिनम्। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -25,6 +25,14 @@ In concert may these creatures yield us blessings. With honey of discourse, O Ea
 ताः। नः। प्रऽजाः। सम्। दुह्रताम्। सम्ऽअग्राः। वाचः। मधु। पृथिवि। धेहि। मह्यम्। १.१६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भूमिः
+- अथर्वा 
+- एकावसाना साम्नी त्रिष्टुप्
+- भूमि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राज्य की रक्षा का उपदेश।
@@ -44,3 +52,4 @@ In concert may these creatures yield us blessings. With honey of discourse, O Ea
 
 टिप्पणी:   १६−(ताः) (नः) अस्मान् (प्रजाः) प्राणिनः (सम्) मिलित्वा (दुह्रताम्) प्रपूरयन्तु (समग्राः) समस्ताः (वाचः) वचनस्य (मधु) माधुर्यम् (पृथिवि) (धेहि) देहि (मह्यम्) ॥
 </details>
+

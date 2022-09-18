@@ -31,6 +31,14 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। सः। अस्मै। वाजिनम्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -50,3 +58,4 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 
 टिप्पणी:   ११−(वाताय) अ० १।११।६। वा गतौ-तन्। गमनशीलाय। उद्योगिने (आशवे) कृवापा०। उ० १।१। अश भोजने-उण्। भोक्त्रे प्राणिने (वाजिनम्) महेरिनण् च। उ० २।५६। वज गतौ-इनण्। बलम्। अन्यत् पूर्ववत् ॥
 </details>
+

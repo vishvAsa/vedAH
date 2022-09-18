@@ -23,6 +23,14 @@ He, having been invited in air, regales, invited, in that which wears all variou
 सः। उपऽहूतः। अन्तरिक्षे। भक्षयति। उपऽहूतः। तस्मिन्। यत्। अन्तरिक्षे। विश्वऽरूपम्। ११.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आर्ची बृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -42,3 +50,4 @@ He, having been invited in air, regales, invited, in that which wears all variou
 
 टिप्पणी:   ८−(अन्तरिक्षे) अ० १।३०।३। मध्यलोके वर्तमानं वाय्वादिपदार्थजातम्। अन्यत् पूर्ववत् ॥
 </details>
+

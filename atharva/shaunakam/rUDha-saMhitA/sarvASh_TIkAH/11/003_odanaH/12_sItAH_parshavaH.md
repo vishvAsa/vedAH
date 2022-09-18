@@ -18,6 +18,14 @@ Furrows are its ribs, sandy soils the undigested contents of its stomach.
 सीताः। पर्शवः। सिकताः। ऊबध्यम्। ३.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- याजुषी जगती
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -37,3 +45,4 @@ Furrows are its ribs, sandy soils the undigested contents of its stomach.
 
 टिप्पणी:   १२−(सीताः) कर्षणोत्पन्ना लाङ्गलपद्धतयः (पर्शवः) पार्श्वास्थीनि (सिकताः) बालुकाः (ऊबध्यम्) अ० ९।४।१६। दुर्+बध बन्धने-यत्, दकारलोपे, ऊत्वम्। अजीर्णमन्नम् ॥
 </details>
+

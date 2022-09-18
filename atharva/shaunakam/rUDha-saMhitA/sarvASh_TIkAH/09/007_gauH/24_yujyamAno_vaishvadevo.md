@@ -23,6 +23,14 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 युज्यमानः। वैश्वऽदेवः। युक्तः। प्रजाऽपतिः। विऽमुक्तः। सर्वम्। १२.२४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्नी भुरिग्बृहती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -42,3 +50,4 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 
 टिप्पणी:   २४−(युज्यमानः) ध्यायमानः (वैश्वदेवः) सर्वविदुषां हितः (युक्तः) समाहितः (प्रजापतिः) प्रजापालकः परमेश्वरः (विमुक्तः) विविधमुक्तस्वभावः (सर्वम्) व्यापकं ब्रह्म ॥
 </details>
+

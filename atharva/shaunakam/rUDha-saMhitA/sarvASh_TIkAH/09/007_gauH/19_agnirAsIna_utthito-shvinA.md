@@ -23,6 +23,14 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 अग्निः। आसीनः। उत्थितः। अश्विना। १२.१९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- एकपदासुरी पङ्क्तिः
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -42,3 +50,4 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 
 टिप्पणी:   १९−(अग्निः) पार्थिवो जाठरोऽग्निर्वा (आसीनः) उपविष्टः (उत्थितः) (अश्विना) अ० २।२९।६। सूर्याचन्द्रमसौ यथा ॥
 </details>
+

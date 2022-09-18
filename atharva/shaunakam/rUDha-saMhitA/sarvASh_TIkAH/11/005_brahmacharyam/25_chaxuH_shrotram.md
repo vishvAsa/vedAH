@@ -24,6 +24,14 @@ Bestow on us the power of sight and hearing, glory and food and seed and blood a
 चक्षुः। श्रोत्रम्। यशः। अस्मासु। धेहि। अन्नम्। रेतः। लोहितम्। उदरम्। ७.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मचारी
+- ब्रह्मा
+- एकावसानार्च्युष्णिक्
+- ब्रह्मचर्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मचर्य के महत्त्व का उपदेश।
@@ -43,3 +51,4 @@ Bestow on us the power of sight and hearing, glory and food and seed and blood a
 
 टिप्पणी:   २५−(चक्षुः) रूपग्राहकमिन्द्रियम् (श्रोत्रम्) शब्दग्राहकमिन्द्रियम् (यशः) कीर्तिम् (अस्मासु) (धेहि) धारय (अन्नम्) भोजनम् (रेतः) वीर्यम् (लोहितम्) रुधिरस्वास्थ्यम् (उदरम्) जठरस्वास्थ्यम् ॥
 </details>
+

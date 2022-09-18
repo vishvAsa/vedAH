@@ -52,6 +52,14 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 अन्नऽअद्येन। यशसा। तेजसा। ब्राह्मणऽवर्चसेन। ९.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- निचृत्साम्नी बृहती
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -71,3 +79,4 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 
 टिप्पणी:   ५५, ५६−सर्वं पूर्ववत्-म० ४८, ४९ ॥
 </details>
+

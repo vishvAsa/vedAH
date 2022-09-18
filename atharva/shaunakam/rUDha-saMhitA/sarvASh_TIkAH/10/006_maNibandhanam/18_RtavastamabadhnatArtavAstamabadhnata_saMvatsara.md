@@ -23,6 +23,14 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 ऋतवः। तम्। अबध्नत। आर्तवाः। तम्। अबध्नत। सम्ऽवत्सरः। तम्। बध्द्वा। सर्वम्। भूतम्। वि। रक्षति। ६.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- अनुष्टुप्
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -42,3 +50,4 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 
 टिप्पणी:   १८−(ऋतवः) वसन्तादयः कालविशेषाः (तम्) नियमम् (अबध्नत) गृहीतवन्तः (आर्तवाः) ऋतु-अण्। ऋतूनामवयवाः (संवत्सरः) वर्षकालः (बद्ध्वा) गृहीत्वा (सर्वम्) (भूतम्) जगत् (वि) विविधम् (रक्षति) पाति ॥
 </details>
+

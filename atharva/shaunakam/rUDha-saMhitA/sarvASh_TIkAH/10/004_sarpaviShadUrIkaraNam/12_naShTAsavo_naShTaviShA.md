@@ -22,6 +22,14 @@ Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and w
 नष्टऽअसवः। नष्टऽविषाः। हताः। इन्द्रेण। वज्रिणा। जघान। इन्द्रः। जघ्निम। वयम्। ४.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तक्षकः
+- गरुत्मान्
+- भुरिग्गायत्री
+- सर्पविषदूरीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
@@ -41,3 +49,4 @@ Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and w
 
 टिप्पणी:   १२−(नष्टासवः) विगतप्राणाः (नष्टविषाः) विगतगरलाः (हताः) मारिताः (इन्द्रेण) परमैश्वर्यवता पुरुषेण (वज्रिणा) वज्रधारिणा (जघान) नाशितवान् (जघ्निम) नाशितवन्तः (वयम्) ॥
 </details>
+

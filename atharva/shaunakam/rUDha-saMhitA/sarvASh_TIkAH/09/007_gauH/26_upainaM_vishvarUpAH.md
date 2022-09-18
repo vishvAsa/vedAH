@@ -26,6 +26,14 @@ Upon him wait omniform beasts, wearing every shape, each one who hath this knowl
 उप। एनम्। विश्वऽरूपाः। सर्वऽरूपाः। पशवः। तिष्ठन्ति। यः। एवम्। वेद। १२.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- साम्नी त्रिष्टुप्
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -45,3 +53,4 @@ Upon him wait omniform beasts, wearing every shape, each one who hath this knowl
 
 टिप्पणी:   २६−(उप तिष्ठन्ति) पूजयन्ति (एनम्) ब्रह्मवादिनम् (विश्वरूपाः) सर्ववर्णाः (सर्वरूपाः) सर्वाकाराः (पशवः) पशवो व्यक्तवाचश्चाव्यक्तवाचश्च-निरु० ११।२९। प्राणिनः (यः) (एवम्) (वेद) जानाति ॥
 </details>
+

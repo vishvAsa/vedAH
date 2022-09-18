@@ -22,6 +22,14 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 सेदिः। उपऽतिष्ठन्ती। मिथःऽयोधः। पराऽसृष्टा। ७.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आसुरी गायत्री
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 
 टिप्पणी:   २४−(सेदिः) अ० २।१४।३। षद्लृ विशरणगत्यवसादनेषु−कि। निर्ऋतिः। विषादः (उपतिष्ठन्ती) विदुषां समीपे वर्तमाना (मिथोयोधः) युध संप्रहारे−घञ्। दुष्टानां परस्परयुद्धम् (परामृष्टा) मृश स्पर्शे, परापूर्वको विचारे−क्त। विचारिता विद्वद्भिः ॥
 </details>
+

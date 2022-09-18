@@ -18,6 +18,14 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 सः। उपऽहूतः। लोकेषु। भक्षयति। उपऽहूतः। तस्मिन्। यत्। लोकेषु। विश्वऽरूपम्। ११.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आर्ची बृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -37,3 +45,4 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 
 टिप्पणी:   ११−(लोकेषु) दृश्यमानेषु भुवनेषु सूर्यचन्द्रपृथिवीमङ्गलबुधबृहस्पत्यादिलोकेषु वर्तमानं परस्परसम्बन्धम्। अन्यत् पूर्ववत् ॥
 </details>
+

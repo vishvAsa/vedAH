@@ -25,6 +25,14 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 न। वै। तम्। चक्षुः। जहाति। न। प्राणः। जरसः। पुरा। पुरम्। यः। ब्रह्मणः। वेद। यस्याः। पुरुषः। उच्यते। २.३०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मप्रकाशनम्, पुरुषः
+- नारायणः
+- अनुष्टुप्
+- ब्रह्मप्रकाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
@@ -44,3 +52,4 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 
 टिप्पणी:   ३०−(न) निषेधे (वै) एव (तम्) मनुष्यम् (चक्षुः) दृष्टिः (जहाति) त्यजति (न) (प्राणः) (जरसः) जरायाः। पुरुषार्थहानेः सकाशात् (पुरा) पूर्वम्। अन्यत् पूर्ववत्−मन्त्रे २८ ॥
 </details>
+

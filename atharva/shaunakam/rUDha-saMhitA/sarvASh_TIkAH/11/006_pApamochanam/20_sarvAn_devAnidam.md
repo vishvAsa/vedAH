@@ -26,6 +26,14 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 सर्वान्। देवान्। इदम्। ब्रूमः। सत्यऽसंधान्। ऋतऽवृधः। सर्वाभिः। पत्नीभिः। सह। ते। नः। मुञ्चन्तु। अंहसः। ८.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- चन्द्रमा अथवा मन्त्रोक्ताः
+- शन्तातिः
+- अनुष्टुप्
+- पापमोचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कष्ट हटाने के लिये उपदेश।
@@ -45,3 +53,4 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 
 टिप्पणी:   २०−(सर्वान्) समस्तान् (देवान्) व्यवहारिणः पुरुषान् (सत्यसंधान्) सत्या संधा, अनुसन्धानमन्वेषणं येषां तान् (ऋतवृधः) सत्यज्ञानेन बुद्धिशीलान्। धार्मिकान्। अन्यत् पूर्ववत्-म० १९ ॥
 </details>
+

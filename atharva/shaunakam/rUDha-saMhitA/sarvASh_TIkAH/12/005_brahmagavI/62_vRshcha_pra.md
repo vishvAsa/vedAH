@@ -21,6 +21,14 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 वृश्च। प्र। वृश्च। सम्। वृश्च। दह। प्र। दह। सम्। दह। ११.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 
 टिप्पणी:   ६२−(वृश्च) छिन्धि (प्र) प्रकर्षेण (वृश्च) (सम्) सम्यक् (वृश्च) (दह) भस्मीकुरु (प्र) (दह) (सम्) (दह) ॥
 </details>
+

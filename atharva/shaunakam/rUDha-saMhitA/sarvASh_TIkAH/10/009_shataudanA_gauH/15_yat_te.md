@@ -24,6 +24,14 @@ Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 यत्। ते। क्लोमा। यत्। हृदयम्। पुरिऽतत्। सहऽकण्ठिका। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -43,3 +51,4 @@ Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 
 टिप्पणी:   १५−(क्लोमा) अ० २।३३।३। फुप्फुसम् (पुरीतत्) अ० ९।७।११। पुरिं शरीरं तनोतीति। सूक्ष्मान्तरम् (सहकण्ठिका) कण्ठेन सहिता। अन्यत् स्पष्टं गतं च ॥
 </details>
+

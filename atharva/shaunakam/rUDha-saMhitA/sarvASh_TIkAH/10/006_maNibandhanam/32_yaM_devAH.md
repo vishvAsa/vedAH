@@ -23,6 +23,14 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 यम्। देवाः। पितरः। मनुष्याः। उपऽजीवन्ति। सर्वदा। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- अनुष्टुप्
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -42,3 +50,4 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 
 टिप्पणी:   ३२−(यम्) वैदिकनियमम् (देवाः) व्यवहारकुशलाः (पितरः) पालकाः (मनुष्याः) अ० ३।४।६। मननशीलाः (उपजीवन्ति) आश्रयन्ति। अन्यत् पूर्ववत्−म० ३१ ॥
 </details>
+

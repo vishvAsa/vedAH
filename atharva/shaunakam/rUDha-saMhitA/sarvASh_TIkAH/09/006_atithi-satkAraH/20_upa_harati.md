@@ -21,6 +21,14 @@ He brings oblations: he makes the men sit down.
 उप। हरति। हवींषि। आ। सादयति। ७.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आसुर्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -40,3 +48,4 @@ He brings oblations: he makes the men sit down.
 
 टिप्पणी:   ३−(उप हरति) समर्पयति (हवींषि) हवनद्रव्याणि (आ सादयति) समीपं प्रापयति ॥
 </details>
+

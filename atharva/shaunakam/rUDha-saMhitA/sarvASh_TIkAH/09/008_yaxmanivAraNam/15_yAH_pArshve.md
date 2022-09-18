@@ -23,6 +23,14 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 याः। पार्श्वे  इति। उपऽऋषन्ति। अनुऽनिक्षन्ति। पृष्टीः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वशीर्षामयापाकरणम्
+- भृग्वङ्गिराः
+- विराडनुष्टुप्
+- यक्ष्मनिवारण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समस्त शरीर के रोग नाश का उपदेश।  इस सूक्त का मिलान अ० का० २ सूक्त ३३ से करो।
@@ -42,3 +50,4 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 
 टिप्पणी:   १५−(पार्श्वे) अ० २।३३।३। कक्षयोरधोभागौ (अनुनिक्षन्ति) णिक्ष चुम्बने। निरन्तरं पीडयन्ति (पृष्टीः) अ० २।७।५। पार्श्वस्थीनि। अन्यत् पूर्ववत् ॥
 </details>
+

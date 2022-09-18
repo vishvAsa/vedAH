@@ -24,6 +24,14 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 इमाः। आपः। प्र। भरामि। अयक्ष्माः। यक्ष्मऽनाशनीः। गृहान्। उप। प्र। सीदामि। अमृतेन। सह। अग्निना। ३.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शाला
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- शाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शाला बनाने की विधि का उपदेश।[इस सूक्त का मिलान अथर्व काण्ड ३ सूक्त १२ से करो]
@@ -43,3 +51,4 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 
 टिप्पणी:   २३-अयं मन्त्रो व्याख्यातः-अ० ३।१२।९ ॥
 </details>
+

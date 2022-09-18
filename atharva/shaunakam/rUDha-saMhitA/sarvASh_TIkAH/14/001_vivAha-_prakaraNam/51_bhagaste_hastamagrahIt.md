@@ -27,6 +27,14 @@ Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and
 भगः। ते। हस्तम्। अग्रहीत्। सविता। हस्तम्। अग्रहीत्। पत्नी। त्वम्। असि। धर्मणा। अहम्। गृहऽपतिः। तव। १.५१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोम
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह संस्कार का उपदेश।
@@ -46,3 +54,4 @@ Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and
 
 टिप्पणी:   ५१−(भगः)ऐश्वर्यवान् परमात्मा (ते) तव (हस्तम्) (अग्रहीत्) गृहीतवान् (सविता)सर्वोत्पादको जगदीश्वरः (हस्तम्) (अग्रहीत्) (पत्नी) पालयित्री (त्वम्) (असि) (धर्मणा) शास्त्रविहितकर्मणा (अहम्) (गृहपतिः) गृहस्वामी (तव) ॥
 </details>
+

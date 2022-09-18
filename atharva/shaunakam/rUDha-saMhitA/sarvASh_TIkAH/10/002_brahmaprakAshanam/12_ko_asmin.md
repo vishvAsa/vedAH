@@ -24,6 +24,14 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 कः। अस्मिन्। रूपम्। अदधात्। कः। मह्यानम्। च। नाम। च। गातुम्। कः। अस्मिन्। कः। केतुम्। कः। चरित्राणि। पुरुषे। २.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मप्रकाशनम्, पुरुषः
+- नारायणः
+- अनुष्टुप्
+- ब्रह्मप्रकाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
@@ -43,3 +51,4 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 
 टिप्पणी:   १२−(कः) म० ५। कर्ता वेधाः (मह्मानम्) म० ६। महत्त्वम् (गातुम्) गतिम्। प्रवृत्तिम् (केतुम्) विज्ञानम् (चरित्राणि) आचरणानि (पुरुषे) मनुष्ये। अन्यत् सरलम् ॥
 </details>
+

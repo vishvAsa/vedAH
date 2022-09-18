@@ -22,6 +22,14 @@ Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 अश्वाः। कणाः। गावः। तण्डुलाः। मशकाः। तुषाः। ३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- साम्न्युष्णिक्
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -41,3 +49,4 @@ Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 
 टिप्पणी:   ५−(अश्वाः) मार्गव्यापिनो घोटकाः (कणाः) क्षुद्रांशाः (गावः) गवादिजन्तवः (तण्डुलाः) अ० १०।९।२६। तुषरहिता व्रीहयः (मशकाः) अ० ४।२६।९। दशकाः (तुषाः) धान्यत्वचाः ॥
 </details>
+

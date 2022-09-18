@@ -23,6 +23,14 @@ Come with the Sun, come hitherward with every creature that hath eyes, Bearing a
 सम्। हि। सूर्येण। अगत। सम्। ऊं इति। सर्वेण। चक्षुषा। वशा। समुद्रम्। अति। अख्यत्। भद्रा। ज्योतींषि। बिभ्रती। १०.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वशा
+- कश्यपः 
+- अनुष्टुप्
+- वशागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर शक्ति की महिमा का उपदेश।
@@ -42,3 +50,4 @@ Come with the Sun, come hitherward with every creature that hath eyes, Bearing a
 
 टिप्पणी:   १५−(सूर्येण) सूर्यमण्डलेन (चक्षुषा) दर्शनशक्त्या (अति) अत्यन्तम् (अख्यत्) चक्षिङ् व्यक्तायां वाचि दर्शने च। प्रकाशितवती (भद्रा) श्रेष्ठानि (ज्योतींषि) प्रकाशान्। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ The man who knows the called the Swelling takes to himself the swelling fame, hi
 यः। वै। पिन्वन्तम्। नाम। ऋतुम्। वेद। पिन्वतीम्ऽपिन्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। पिन्वन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अजः पञ्चौदनः
+- भृगुः
+- दशपदा प्रकृतिः
+- अज सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से सुख का उपदेश।
@@ -42,3 +50,4 @@ The man who knows the called the Swelling takes to himself the swelling fame, hi
 
 टिप्पणी:   ३४−(पिन्वन्तम्) पिवि सेचने सेवने च-शतृ। सिञ्चन्तम्। पोषयन्तम् (पिन्वतीं, पिन्वतीम्) अतिशयेन पोषयन्तीम् (पिन्वन्) पोषयन्। अन्यत् पूर्ववत् ॥
 </details>
+

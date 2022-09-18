@@ -26,6 +26,14 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 यदि। प्रऽईयुः। देवऽपुराः। ब्रह्म। वर्माणि। चक्रिरे। तनूऽपानम्। परिऽपानम्। कृण्वानाः। यत्। उपऽऊचिरे। सर्वम्। तत्। अरसम्। कृधि। १२.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्रिषन्धिः
+- भृग्वङ्गिराः
+- पथ्यापङ्क्तिः
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
@@ -45,3 +53,4 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 
 टिप्पणी:   १७−अयं मन्त्रो व्याख्यातः-अ० ५।८।६ ॥
 </details>
+

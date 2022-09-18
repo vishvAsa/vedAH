@@ -23,6 +23,14 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 सः। प्रऽजाभ्यः। वि। पश्यति। यत्। च। प्राणति। यत्। च। न। ४.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अध्यात्मम्
+- ब्रह्मा
+- प्राजापत्यानुष्टुप्
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -42,3 +50,4 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 
 टिप्पणी:   ११−(सः) परमेश्वरः (प्रजाभ्यः) उत्पन्नजीवानां हिताय (वि) विविधम् (पश्यति) विलोकयति (यत्) सृष्टिजातम् (च) (प्राणति) प्रश्वसिति (यत्) (च) (न) निषेधे ॥
 </details>
+

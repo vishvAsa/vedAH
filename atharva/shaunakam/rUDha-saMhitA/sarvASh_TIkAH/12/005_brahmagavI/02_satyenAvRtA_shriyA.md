@@ -24,6 +24,14 @@ Invested with truth, surrounded with honour, compassed about with glory;
 सत्येन। आऽवृता। श्रिया। प्रावृता। यशसा। परिऽवृता। ५.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- भुरिक्साम्न्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -43,3 +51,4 @@ Invested with truth, surrounded with honour, compassed about with glory;
 
 टिप्पणी:   २−(सत्येन) यथार्थनियमेन (आवृता) समन्तात् स्वीकृता (श्रिया) चक्रवर्तिराज्यादिलक्ष्म्या (प्रावृता) प्रकर्षेणाङ्गीकृता (यशसा) कीर्त्या (परीवृता) सर्वतो गृहीता ॥
 </details>
+

@@ -25,6 +25,14 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 उदरात्। ते। क्लोम्नः। नाभ्याः। हृदयात्। अधि। यक्ष्माणम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वशीर्षामयापाकरणम्
+- भृग्वङ्गिराः
+- अनुष्टुब्गर्भा ककुम्मती चतुष्पदोष्णिक्
+- यक्ष्मनिवारण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समस्त शरीर के रोग नाश का उपदेश।  इस सूक्त का मिलान अ० का० २ सूक्त ३३ से करो।
@@ -44,3 +52,4 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 
 टिप्पणी:   १२−(क्लोम्नः) अ० २।३३।३। फुप्फुसात्। पिपासास्थानात् (अधि) अपि। अन्यत् सुगमम् ॥
 </details>
+

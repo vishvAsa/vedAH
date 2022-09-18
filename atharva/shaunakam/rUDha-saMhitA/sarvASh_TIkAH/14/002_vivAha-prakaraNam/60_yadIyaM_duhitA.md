@@ -24,6 +24,14 @@ If in thy house thy daughter here have wept, with wild dishevel- led locks, comm
 यदि। इयम्। दुहिता। तव। विऽकेशी। अरुदत्। गृहे। रोदेन। कृण्वती। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पथ्यापङ्क्ति
+- आत्मा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
@@ -43,3 +51,4 @@ If in thy house thy daughter here have wept, with wild dishevel- led locks, comm
 
 टिप्पणी:   ६०−(इयम्) उपस्थिता (दुहिता) पुत्री (तव) (विकेशी) विकीर्णकेशा (अरुदत्)रुद्यात् (कृण्वती) कुर्वती। अन्यद्गतम्-म० ५९ ॥
 </details>
+

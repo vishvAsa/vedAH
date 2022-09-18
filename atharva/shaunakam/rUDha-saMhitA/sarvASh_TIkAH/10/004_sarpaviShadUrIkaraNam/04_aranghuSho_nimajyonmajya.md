@@ -27,6 +27,14 @@ Loud neighing he hath dived below, and rising up again replied, Stayed the dire 
 अरम्ऽघुषः। निऽमज्य। उत्ऽमज्य। पुनः। अब्रवीत्। उदप्लुतम्ऽइव। दारु। अहीनाम्। अरसम्। विषम्। वाः। उग्रम्। ४.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तक्षकः
+- गरुत्मान्
+- पथ्याबृहती
+- सर्पविषदूरीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
@@ -46,3 +54,4 @@ Loud neighing he hath dived below, and rising up again replied, Stayed the dire 
 
 टिप्पणी:   ४−(अरंघुषः) अलम्+घुषिर् अविशब्दने-क, लस्य रः। पर्याप्तघोषणाकारी (निमज्य) जले प्रविश्य यथा (उन्मज्य) जलादुद्गत्य यथा (पुनः) (अब्रवीत्)। अन्यत् पूर्ववत्−म० ३ ॥
 </details>
+

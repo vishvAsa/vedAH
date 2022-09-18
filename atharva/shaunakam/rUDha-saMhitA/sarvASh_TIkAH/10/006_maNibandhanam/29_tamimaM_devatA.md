@@ -25,6 +25,14 @@ That Amulet may the Deities bestow on me to win success, The conquering, strengt
 तम्। इमम्। देवताः। मणिम्। मह्यम्। ददतु। पुष्टये। अभिऽभुम्। क्षत्रऽवर्धनम्। सपत्नऽदम्भनम्। मणिम्। ६.२९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- अनुष्टुप्
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -44,3 +52,4 @@ That Amulet may the Deities bestow on me to win success, The conquering, strengt
 
 टिप्पणी:   २९−(देवताः) विद्वज्जनाः (ददतु) प्रयच्छन्तु (पुष्टये) पालनाय (अभिभुम्) शत्रूणामभिभवितारं पराजेतारम् (क्षत्रवर्धनम्) राज्यवर्धकम् (सपत्नदम्भनम्) शत्रुनाशकम्। अन्यत् पूर्ववत् ॥
 </details>
+

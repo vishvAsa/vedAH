@@ -18,6 +18,14 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 ऋचा। कुम्भी। अधिऽहिता। आर्त्विज्येन। प्रऽइषिता। ३.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- आसुरी गायत्री
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -37,3 +45,4 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 
 टिप्पणी:   १४−(ऋचा) ऋग् वाङ्नाम-निघ० १।११। स्तुत्या वेदवाण्या सह (कुम्भी) जलादिलघुपात्रम्। उखा (अधिहिता) उपरि स्थापिता (आर्त्विज्येन) गुणवचनब्राह्मणादिभ्यः कर्मणि च। पा० ५।१।१२४। ऋत्विज्−ष्यञ्। ऋत्विजां कर्मणा (प्रेषिता) प्रेरिता ॥
 </details>
+

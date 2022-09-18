@@ -25,6 +25,14 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 अदृश्रन्। अस्य। केतवः। वि। रश्मयः। जनान्। अनु। भ्राजन्तः। अग्नयः। यथा। २.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रोहितः, आदित्यः, अध्यात्मम्
+- ब्रह्मा
+- आर्षी गायत्री
+- अध्यात्म सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
@@ -44,3 +52,4 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 
 टिप्पणी:   १८−(अदृश्रन्) दृष्टा अभूवन् (अस्य) सूर्यस्य (केतवः) ज्ञापकाः (वि) विविधम् (रश्मयः) किरणाः (जनान् अनु) जातान् प्राणिनः प्रति (भ्राजन्तः) प्रकाशमानाः (अग्नयः) पावकाः (यथा) ॥
 </details>
+

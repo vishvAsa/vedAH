@@ -22,6 +22,14 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। मधोः। घृतस्‍य। धारया। कीलालेन। मणिः। सह। ६.२५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- पथ्यापङ्क्तिः
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -41,3 +49,4 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 
 टिप्पणी:   २५−(मधोः) मधुररसस्य (घृतस्य) सर्पिषः (धारया) प्रवाहेण (कीलालेन) अ० ४।११।१०। कीलालमन्ननाम-निघ० २।७। सुसंस्कृतेनान्नेन। अन्यद् गतम् ॥
 </details>
+

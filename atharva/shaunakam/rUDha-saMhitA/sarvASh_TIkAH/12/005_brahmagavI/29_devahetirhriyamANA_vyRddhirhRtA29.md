@@ -27,6 +27,14 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 देवऽहेतिः। ह्रियमाणा। विऽऋध्दिः। हृता। ८.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आसुर्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -46,3 +54,4 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 
 टिप्पणी:   २९−(देवहेतिः) इन्द्रियाणां हननम् (ह्रियमाणा) गृह्यमाणा (व्यृद्धिः) अवृद्धिः। हानिः (हृता) गृहीता ॥
 </details>
+

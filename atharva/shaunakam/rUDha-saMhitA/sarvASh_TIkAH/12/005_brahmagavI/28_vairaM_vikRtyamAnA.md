@@ -26,6 +26,14 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 वैरम्। विऽकृत्यमाना। पौत्रऽआद्यम्। विऽभाज्यमाना। ८.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- आसुरी गायत्री
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -45,3 +53,4 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 
 टिप्पणी:   २८−(वैरम्) वि विरोधे+ईर गतौ−क, वीर-अण्। विरोधः (विकृत्यमाना) विच्छिद्यमाना (पौत्राद्यम्) पौत्र+अद भक्षणे-ण्यत्। पुत्रादिभक्षणम्। सन्ताननाशनम् (विभाज्यमाना) विभागेन गृह्यमाणा ॥
 </details>
+

@@ -24,6 +24,14 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 मित्रः। ईक्षमाणः। आऽवृत्तः। आऽनन्दः। १२.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- एकपदासुरी बृहती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -43,3 +51,4 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 
 टिप्पणी:   २३−(मित्रः) हितः (ईक्षमाणः) पश्यन् सन् (आवृत्तः) समन्ताद् वर्तमानः (आनन्दः) सुखस्वरूपः ॥
 </details>
+

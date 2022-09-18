@@ -23,6 +23,14 @@ The man who knows the season called the Meeting takes to him- self the gathering
 यः। वै। सम्ऽयन्तम्। नाम। ऋतुम्। वेद। संयतीम्ऽसंयतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। सम्ऽयन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अजः पञ्चौदनः
+- भृगुः
+- दशपदा प्रकृतिः
+- अज सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से सुख का उपदेश।
@@ -42,3 +50,4 @@ The man who knows the season called the Meeting takes to him- self the gathering
 
 टिप्पणी:   ३३−(संयन्तम्) इण् गतौ-शतृ, अन्तर्गतण्यर्थः। अन्नादि संगमयन्तम् (संयतीं संयतीम्) संगमयन्तीं संगमयन्तीम् (संयन्) संगमयन्। अन्यत् पूर्ववत् ॥
 </details>
+

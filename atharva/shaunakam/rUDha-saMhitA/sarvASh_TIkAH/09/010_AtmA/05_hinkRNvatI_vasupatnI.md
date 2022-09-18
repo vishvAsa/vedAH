@@ -27,6 +27,14 @@ She, Lady of all treasures, hath come hither, yearning in spirit for her calf, a
 हिङ्ऽकृण्वती। वसुऽपत्नी। वसूनाम्। वत्सम्। इच्छन्ती। मनसा। अभिऽआगात्। दुहाम्। अश्विऽभ्याम्। पयः। अघ्न्या। इयम्। सा। वर्धताम्। महते। सौभगाय। १५.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः, विराट्, अध्यात्मम्
+- ब्रह्मा
+- त्रिष्टुप्
+- आत्मा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 जीवात्मा और परमात्मा के लक्षणों का उपदेश।
@@ -46,3 +54,4 @@ She, Lady of all treasures, hath come hither, yearning in spirit for her calf, a
 
 टिप्पणी:   ५−(अभ्यागात्) आभिमुख्येन आगतवती, प्राप्तवती। अन्यद् व्याख्यातम्-अ० ७।७३।८ ॥
 </details>
+

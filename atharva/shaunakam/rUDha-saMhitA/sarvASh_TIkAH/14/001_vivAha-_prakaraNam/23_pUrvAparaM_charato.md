@@ -23,6 +23,14 @@ Moving by magic power from east to westward, these children twain go sporting ro
 पूर्वऽअपरम्। चरतः। मायया। एतौ। शिशू इति। क्रीडन्तौ। परि। यातः। अर्णवम्। विश्वा। अन्यः। भुवना। विऽचष्टे। ऋतून्। अन्यः। विऽदधत्। जायसे। नवः। १.२३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृहती गर्भा त्रिष्टुप्
+- सोमार्क
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह संस्कार का उपदेश।
@@ -42,3 +50,4 @@ Moving by magic power from east to westward, these children twain go sporting ro
 
 टिप्पणी:   २३−अयं मन्त्रोव्याख्यातः-अ० ७।८१।१ ॥
 </details>
+

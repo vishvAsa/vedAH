@@ -23,6 +23,14 @@ The rain-cloud is her fat, her resting-place her marrow.
 अभ्रम्। पीबः। मज्जा। निऽधनम्। १२.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- ब्रह्मा
+- एकपदासुरी जगती
+- गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
@@ -42,3 +50,4 @@ The rain-cloud is her fat, her resting-place her marrow.
 
 टिप्पणी:   १८−(अभ्रम्) मेघः (पीबः) अ० १।११।४। पीव स्थौल्ये-असुन्, वस्य बः। शरीरस्नेहः (मज्जा) अ० १।११।४। अस्थिस्नेहः (निधनम्) अ० ९।६(५)।२। राशीकरणम् ॥
 </details>
+

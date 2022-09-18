@@ -24,6 +24,14 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 यत्। प्राणः। ऋतौ। आऽगते। अभिऽक्रन्दति। ओषधीः। सर्वम्। तदा। प्र। मोदते। यत्। किम्। च। भूम्याम्। अधि। ६.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः
+- भार्गवो वैदर्भिः
+- अनुष्टुप्
+- प्राण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
@@ -43,3 +51,4 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 
 टिप्पणी:   ४−(यत्) यदा (प्राणः) म० १ (ऋतौ) ऋतुकाले वर्षतौ (आगते) प्राप्ते (अभिक्रन्दति) (ओषधीः) म० ३। (सर्वम्) चराचरं जगत् (तदा) (प्र मोदते) अत्यन्तं हृष्यति (यत्) (किम् च) किमपि (भूम्याम्) (अधि) उपरि ॥
 </details>
+

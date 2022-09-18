@@ -28,6 +28,14 @@ Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation 
 अग्ने। अक्रव्यऽअत्। निः। क्रव्यऽअदम्। नुद। आ। देवऽयजनम्। वह। २.४२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भृगुः
+- त्रिपदैकावसाना भुरिगार्ची गायत्री
+- यक्ष्मारोगनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
@@ -47,3 +55,4 @@ Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation 
 
 टिप्पणी:   ४२−(अग्ने) हे अग्निवत्तेजस्विन् विद्वन् (अक्रव्यात्) हे अमांसभक्षक ! शान्तस्वभाव (क्रव्यादम्) मांसभक्षकं दोषम् (निर्णुद) निःसारय (देवयजनम्) देव+यज−ल्यु। विद्वद्भिः पूजितव्यवहारम् (आ वह) प्रापय ॥
 </details>
+

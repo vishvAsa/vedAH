@@ -35,6 +35,14 @@ Thou, born afresh, art new and new for ever; ensign of days, before the Dawns th
 नवऽनवः। भवसि। जायमानः। अह्नाम्। केतुः। । उषसाम्। एषि। अग्रम्। भागम्। देवेभ्यः। वि। दधासि। आऽयन्। प्र। चन्द्रमः। तिरसे। दीर्घम्। आयुः। १.२४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्रिष्टुप्
+- चन्द्रमा
+- सवित्री, सूर्या
+- विवाह प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह संस्कार का उपदेश।
@@ -54,3 +62,4 @@ Thou, born afresh, art new and new for ever; ensign of days, before the Dawns th
 
 टिप्पणी:   २४-अयं मन्त्रो व्याख्यातः-अ० ७।८१।२ ॥
 </details>
+

@@ -26,6 +26,14 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 मूढाः। अमित्राः। निऽअर्बुदे। जहि। एषाम्। वरम्ऽवरम्। अनया। जहि। सेनया। १२.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्रिषन्धिः
+- भृग्वङ्गिराः
+- त्रिपदा गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
@@ -45,3 +53,4 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 
 टिप्पणी:   २१−(मूढाः) अचेतसः (अमित्राः) शत्रवः (न्यर्बुदे) म० २०। हे नित्यपुरुषार्थिन् राजन् (जहि) मारय (एषाम्) (वरंवरम्) श्रेष्ठं श्रेष्ठं वीरम् (अनया) स्वकीयया (जहि) (सेनया) ॥
 </details>
+

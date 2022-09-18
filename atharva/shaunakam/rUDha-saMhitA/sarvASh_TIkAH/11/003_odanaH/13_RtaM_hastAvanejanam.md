@@ -18,6 +18,14 @@ Law is its water for the hands and family custom its aspersion.
 ऋतम्। हस्तऽअवनेजनम्। कुल्या। उपऽसेचनम्। ३.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- साम्न्युष्णिक्
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -37,3 +45,4 @@ Law is its water for the hands and family custom its aspersion.
 
 टिप्पणी:   १३−(ऋतम्) सत्यज्ञानम् (हस्तावनेजनम्) णिजिर् शौचपोषणयोः-ल्युट्। हस्तप्रक्षालनजलम् (कुल्या) कुल-यत्, टाप्। कुलेभ्यो जगत्समूहेभ्यो हिता नीतिः (उपसेचनम्) जलेनार्द्रीकरणं वर्धनम् ॥
 </details>
+

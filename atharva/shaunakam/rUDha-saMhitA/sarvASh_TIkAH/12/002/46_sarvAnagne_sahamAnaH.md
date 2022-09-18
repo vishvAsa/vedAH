@@ -24,6 +24,14 @@ Subduing all our adversaries, Agni, give us their food, their strength and their
 सर्वान्। अग्ने। सहमानः। सऽपत्नान्। आ। एषाम्। ऊर्जम्। रयिम्। अस्मासु। धेहि। २.४६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भृगुः
+- एकावसाना द्विपदा साम्नी त्रिष्टुप्
+- यक्ष्मारोगनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
@@ -43,3 +51,4 @@ Subduing all our adversaries, Agni, give us their food, their strength and their
 
 टिप्पणी:   ४६−(सर्वान्) (अग्ने) हे ज्ञानस्वरूप परमात्मन् (सहमानः) अभिभवन् (सपत्नान्) शत्रून् (आ) समन्तात् (एषाम्) शत्रूणाम् (ऊर्जम्) अन्नम् (रयिम्) धनम् (अस्मासु) धार्मिकेषु (धेहि) धारय ॥
 </details>
+

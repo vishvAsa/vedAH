@@ -22,6 +22,14 @@ So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 यत्। ते। पुच्छम्। ये। ते। बालाः। यत्। ऊधः। ये। च। । ते। स्तनाः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -41,3 +49,4 @@ So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 
 टिप्पणी:   २२−(पुच्छम्) लाङ्गूलम् (बालाः केशाः) (ऊधः) दुग्धच्छिद्रस्थानम् (स्तनाः) दुग्धाधाराः। अन्यत् स्पष्टम् ॥
 </details>
+

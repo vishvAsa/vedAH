@@ -23,6 +23,14 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 तम्। धाता। प्रति। अमुञ्चत। सः। भूतम्। वि। अकल्पयत्। तेन। त्वम्। द्व‍िषतः। जहि। ६.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- फालमणिः, वनस्पतिः
+- बृहस्पतिः
+- गायत्री
+- मणि बन्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
@@ -42,3 +50,4 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 
 टिप्पणी:   २१−(तम्) (धाता) प्रजापालको राजा (भूतम्) जगत् (वि) विविधम् (अकल्पयत्) संस्कृतवान्। अन्यत् पूर्ववत् ॥
 </details>
+

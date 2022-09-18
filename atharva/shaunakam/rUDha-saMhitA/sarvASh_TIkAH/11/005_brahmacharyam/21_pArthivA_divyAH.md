@@ -25,6 +25,14 @@ All creatures of the earth and heaven, tame animals and sylvan beasts, Winged an
 पार्थिवाः। दिव्याः। पशवः। आरण्याः। ग्राम्याः। च। ये। अपक्षाः। पक्षिणः। च। ये। ते। जाताः। ब्रह्मऽचारिणः। ७.२१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मचारी
+- ब्रह्मा
+- अनुष्टुप्
+- ब्रह्मचर्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मचर्य के महत्त्व का उपदेश।
@@ -44,3 +52,4 @@ All creatures of the earth and heaven, tame animals and sylvan beasts, Winged an
 
 टिप्पणी:   २१−(पार्थिवाः) पृथिवीभवाः पदार्थाः (दिव्याः) आकाशभवाः (पशवः) गवाश्वसिंहादयः (आरण्याः) वने भवाः (ग्राम्याः) ग्रामे भवाः (अपक्षाः) पक्षरहिताः प्राणिनः (पक्षिणः) पक्षवन्तः (च)। अन्यत् पूर्ववत् म० २० ॥
 </details>
+

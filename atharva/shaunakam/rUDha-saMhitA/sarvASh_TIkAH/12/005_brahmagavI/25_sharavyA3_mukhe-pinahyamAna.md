@@ -29,6 +29,14 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 शरव्या। मुखे। अपिऽनह्यमाने। ऋतिः। हन्यमानाः। ७.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- साम्न्यनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -48,3 +56,4 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 
 टिप्पणी:   २५−(शरव्या) अ० ३।१९।८। शरु−यत्। शरौ वाणविद्यायां कुशला सेना (मुखे) (अपिनह्यमाने) अपवध्यमाने (ऋतिः) ऋ हिंसायाम्−क्तिन्। निर्ऋतिः। आपत्तिः (हन्यमाना) ताड्यमाना ॥
 </details>
+

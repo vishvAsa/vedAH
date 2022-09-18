@@ -21,6 +21,14 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 ओषन्ती। सम्ऽओषन्ती। ब्रह्मणः। वज्रः। १०.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्योष्णिक्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -40,3 +48,4 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 
 टिप्पणी:   ५४−(ओषन्ती) उष दाहे−शतृ। दहन्ती (समोषन्ती) सम्यग्भस्मीकुर्वती (ब्रह्मणः) परमेश्वरस्य (वज्रः) शस्त्रं यथा ॥
 </details>
+

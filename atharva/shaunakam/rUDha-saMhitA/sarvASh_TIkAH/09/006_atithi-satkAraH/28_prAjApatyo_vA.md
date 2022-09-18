@@ -21,6 +21,14 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 प्राजाऽपत्यः। वै। एतस्य। यज्ञः। विऽततः। यः। उपऽहरति। ७.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- भुरिक्साम्नीबृहती
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -40,3 +48,4 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 
 टिप्पणी:   ११−(प्राजापत्यः) अ० ३।२३।५। प्रजापति-ण्य। प्रजापतेः परमात्मनः प्राप्तिकारको यद्वा गृहस्थस्य हितकारकः (वै) (एतस्य) गृहस्थस्य (यज्ञः) शुभव्यवहारः (विततः) विस्तृतः। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 अघ्न्ये। प्र। शिरः। जहि। ब्रह्मऽज्यस्य। कृतऽआगसः। देवऽपीयोः। अराधसः। १०.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- गायत्री
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -42,3 +50,4 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 
 टिप्पणी:   ६०−(अघ्न्ये) म० ५८। (प्र जहि) विनाशय (शिरः) मस्तकम् (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (कृतागसः) कृतापराधस्य (देवपीयोः) म० १५। विदुषां हिंसकस्य (अराधसः) अ० ५।११।७। नास्ति राधो धनं यस्मात् तस्य। अदानशीलस्य ॥
 </details>
+

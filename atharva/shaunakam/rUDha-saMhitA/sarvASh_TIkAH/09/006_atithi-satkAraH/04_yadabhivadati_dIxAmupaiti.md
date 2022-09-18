@@ -24,6 +24,14 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 यत्। अभिऽवदति। दीक्षाम्। उप। एति। यत्। उदकम्। याचति। अपः। प्र। नयति। ६.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- आर्च्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
@@ -43,3 +51,4 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 
 टिप्पणी:   ४−(यत्) यदा (अभिवदति) संवदति प्रणमति वा (दीक्षाम्) अ० ८।५।१५। व्रतोपदेशम् (उपैति) आदरेण प्राप्नोति (यत्) यदा (याचति) याचृ आत्मने दानार्थं प्रेरणे, ग्रहणार्थं प्रेरणेऽपि-शब्दकल्पद्रुमः। विनयेन ददाति। (अपः) जलानि (प्र णयति) प्रणीतापात्रेण समर्पयति गृहस्थः ॥
 </details>
+

@@ -25,6 +25,14 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 यत्। प्रतिऽशृणोति। प्रतिऽआश्रावयति। एव। तत्। ११.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- साम्न्यनुष्टुप्
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -44,3 +52,4 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 
 टिप्पणी:   २−(प्रतिशृणोति) प्रतीत्य श्रद्धया शृणोति (प्रत्याश्रावयति) श्रद्धयोपदिशति। अन्यत् पूर्ववत् ॥
 </details>
+

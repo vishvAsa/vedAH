@@ -23,6 +23,14 @@ The man who eats before the guest eats up the glory and the understanding of the
 श्रियम्। च। वै। एषः। सम्ऽविदम्। च। गृहाणाम्। अश्नाति। यः। पूर्वः। अतिथेः। अश्नाति। ८.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अतिथिः, विद्या
+- ब्रह्मा
+- त्रिपदा पिपीलिकमध्या गायत्री
+- अतिथि सत्कार
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
@@ -42,3 +50,4 @@ The man who eats before the guest eats up the glory and the understanding of the
 
 टिप्पणी:   ६−(श्रियम्) सेवनीयां सम्पत्तिम् (संविदम्) अ० ३।५।५। यथार्थ बुद्धिम्। अन्यत् पूर्ववत्-म० १ ॥
 </details>
+

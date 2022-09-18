@@ -22,6 +22,14 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 आऽदाय। जीतम्। जीताय। लोके। अमुष्मिन्। प्र। यच्छसि। १०.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- अथर्वाचार्यः
+- प्राजापत्यानुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
@@ -41,3 +49,4 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 
 टिप्पणी:   ५७−(आदाय) गृहीत्वा (जीतम्) ज्या वयोहानौ कर्तरि−क्त, तकारस्य नत्वाभावः। हानिकर्तारम् (जीताय) कर्मणि−क्त। हानिं गताय पुरुषाय (लोके) संसारे जन्मनि वा (अमुष्मिन्) परस्मिन् (प्र यच्छसि) ददासि ॥
 </details>
+

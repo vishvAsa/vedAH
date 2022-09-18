@@ -24,6 +24,14 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 याः। ते। ग्रीवाः। ये। स्कन्धाः। याः। पृष्टीः। याः। च। पर्शवः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शतौदना (गौः)
+- अथर्वा 
+- अनुष्टुप्
+- शतौदनागौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
@@ -43,3 +51,4 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 
 टिप्पणी:   २०−(ग्रीवाः) कण्ठस्थनाड्यः (स्कन्धाः) स्कन्धास्थीनि (पृष्टीः) अ० ९।७।६। पार्श्वस्थीनि (पर्शवः) अ० ९।७।६। पार्श्वाधःस्थास्थीनि। अन्यत् स्पष्टम् ॥
 </details>
+

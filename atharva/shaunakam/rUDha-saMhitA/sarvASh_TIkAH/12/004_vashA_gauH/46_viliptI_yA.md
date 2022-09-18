@@ -25,6 +25,14 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 विऽलिप्ती। या। बृहस्पते। अथो इति। सूतऽवशा। वशा। तस्याः। न। अश्नीयात्। अब्राह्मणः। यः। आऽशंसेत। भूत्याम्। ४.४६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वशा
+- कश्यपः
+- अनुष्टुप्
+- वशा गौ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी के प्रकाश करने के श्रेष्ठ गुणों का उपदेश।
@@ -44,3 +52,4 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 
 टिप्पणी:   ४६−(विलिप्ती) म० ४१। विशेषवृद्धियुक्ता (अथो) अपि च। अन्यत् पूर्ववत्−म० ४४ ॥
 </details>
+

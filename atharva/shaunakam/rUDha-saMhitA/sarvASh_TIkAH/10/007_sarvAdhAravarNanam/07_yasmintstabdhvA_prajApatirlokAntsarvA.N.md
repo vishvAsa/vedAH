@@ -25,6 +25,14 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 यस्मिन्। स्तब्ध्वा। प्रजाऽपतिः। लोकान्। सर्वान्। अधारयत्। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्कन्धः, आत्मा
+- अथर्वा, क्षुद्रः
+- परोष्णिक्
+- सर्वाधारवर्णन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म के स्वरूप के विचार का उपदेश।
@@ -44,3 +52,4 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 
 टिप्पणी:   ७−(यस्मिन्) (स्तब्ध्वा) अवरुध्य (प्रजापतिः) प्रजापालकः सूर्य आकाशो वा (लोकान्) ब्रह्माण्डान् (सर्वान्) (अधारयत्) धारितवान्। अन्यत् पूर्ववत् ॥
 </details>
+

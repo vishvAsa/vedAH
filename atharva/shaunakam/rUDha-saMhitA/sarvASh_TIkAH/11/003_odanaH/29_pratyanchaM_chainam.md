@@ -22,6 +22,14 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 प्रत्यञ्चम्। च। एनम्। प्रऽआशीः। अपानाः। त्वा। हास्यन्ति। इति। एनम्। आह। ३.२९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बार्हस्पत्यौदनः
+- अथर्वा 
+- भुरिक्साम्नी बृहती
+- ओदन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
@@ -41,3 +49,4 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 
 टिप्पणी:   २९−(प्रत्यञ्चम्) म० २६। प्रत्यक्षवर्तिनम् (अपानाः) प्रश्वासबलानि। अन्यत् पूर्ववत् म० २८॥
 </details>
+

@@ -22,6 +22,14 @@ I know the drawn-out string, the thread whereon these creatures all are strung. 
 वेद। अहम्। सूत्रम्। विऽततम्। यस्मिन्। आऽउताः। प्रऽजाः। इमाः। सूत्रम्। सूत्रस्य। अहम्। वेद। अथो इति। यत्। ब्राह्मणम्। महत्। ८.३८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आत्मा
+- कुत्सः
+- अनुष्टुप्
+- ज्येष्ठब्रह्मवर्णन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के स्वरूप का उपदेश।
@@ -41,3 +49,4 @@ I know the drawn-out string, the thread whereon these creatures all are strung. 
 
 टिप्पणी:   ३८−(वेद) जानामि (अहम्) विवेकी (अथो) अपि च। अन्यत् पूर्ववत्−म० ३७ ॥
 </details>
+
