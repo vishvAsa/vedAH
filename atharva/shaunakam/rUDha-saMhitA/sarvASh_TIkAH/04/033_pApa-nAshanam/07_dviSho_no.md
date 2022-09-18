@@ -22,6 +22,14 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 द्विषः। नः। विश्वतःऽमुख। अति। नावाऽइव। पारय। अप। नः। शोशुचत्। अघम्। ३३.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ब्रह्मा
+- गायत्री
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
@@ -41,3 +49,4 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 
 टिप्पणी:   ७−(द्विषः) द्वेष्टॄन् शत्रून् (नः) अस्मान् (विश्वतोमुख) म० ६। (अति) अतीत्य। उल्लङ्घ्य (नावा इव) यथा नौकया (पारय) पारं गमय। अन्यत्पूर्ववत् ॥
 </details>
+

@@ -29,6 +29,14 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 अमू इति। ये इति। दिवि। सुभगे इति। सुऽभगे। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ७.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तारागणः
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- यक्ष्मनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग नाश करने के लिए उपदेश।
@@ -48,3 +56,4 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 
 टिप्पणी:   ४−(अमू)। परिदृश्यमाने। (ये)। ज्ञाते। (दिवि)। द्युलोके। आकाशे। (सुभगे)। शोभनैश्वर्ययुक्ते। शिष्टं व्याख्यातम्-अ० २।८।१ ॥
 </details>
+

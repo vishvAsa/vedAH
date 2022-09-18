@@ -24,6 +24,14 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 अन्तरिक्षे। वायवे। सम्। अनमन्। सः। आर्ध्नोत्। यथा। अन्तरिक्षे। वायवे। सम्ऽअनमन्। एव। मह्मम्। सम्ऽनमः। सम्। नमन्तु। ३९.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अङ्गिराः
+- त्रिपदा महाबृहती
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -43,3 +51,4 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 
 टिप्पणी:   ३−(अन्तरिक्षे) मध्यलोके (वायवे) पवनाय। अन्यत् पूर्ववत्। म० १ ॥
 </details>
+

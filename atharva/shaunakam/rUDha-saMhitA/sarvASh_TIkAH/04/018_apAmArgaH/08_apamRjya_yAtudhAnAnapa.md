@@ -25,6 +25,14 @@ Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamar
 अपऽमृज्य। यातुऽधानान्। अप। सर्वाः। अराय्यः। अपामार्गः। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १८.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपामार्गो वनस्पतिः
+- शुक्रः
+- अनुष्टुप्
+- अपामार्ग सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -44,3 +52,4 @@ Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamar
 
 टिप्पणी:   ८−(अपमृज्य) सम्यक् शोधयित्वा (यातुधानान्) अ० १।७।१। पीडाप्रदान् राक्षसान् (अप) अपमृज्य (सर्वाः) (अराय्यः) म० ७। अरायीन् अलक्ष्मीः। अन्यद् व्याख्यातं सू० १७ म० ६ ॥
 </details>
+

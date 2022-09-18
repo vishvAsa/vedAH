@@ -25,6 +25,14 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 दिशः। धेनवः। तासाम्। चन्द्रः। वत्सः। ताः। मे। चन्द्रेण। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- चन्द्रमाः
+- अङ्गिराः
+- संस्तारपङ्क्तिः
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -44,3 +52,4 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 
 टिप्पणी:   ८−(दुहाम्) दुहताम् प्रपूरयन्तु। अन्यत् पूर्ववत्। म २, ७ ॥
 </details>
+

@@ -28,6 +28,14 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 यदि। एकऽवृषः। असि। सृज। अरसः। असि। १६.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- एकवृषः
+- विश्वामित्रः
+- साम्न्युष्णिक्
+- वृषरोगनाशमन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ का उपदेश।
@@ -47,3 +55,4 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 
 टिप्पणी:   १−(यदि) पक्षान्तरे (एकवृषः) वृषु प्रजननैश्ययोः−क। एकेन परमेश्वरेण सहैश्वर्य्यवान् (असि) (सृज) उत्पादय सुखम् [नोचेत्] इति शेषः (अरसः) असमर्थः (असि) ॥
 </details>
+

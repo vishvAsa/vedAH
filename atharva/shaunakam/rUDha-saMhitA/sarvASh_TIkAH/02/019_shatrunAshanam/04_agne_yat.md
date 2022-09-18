@@ -22,6 +22,14 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 अग्ने। यत्। ते। शोचिः। तेन। तम्। प्रति। शोच। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- एकावसानानिचृद्विषमात्रिपाद्गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
@@ -41,3 +49,4 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 
 टिप्पणी:   ४–शोचिः। अर्चिशुचि०। उ० २।१०८। इति ईशुचिर् शौचविशरणयोः–इसि। ज्वलतो नाम–निघ० १।१७। शुच्यत्यनेनेति। शोधनसामर्थ्यम्। शोच। शोचय, शोधय ॥
 </details>
+

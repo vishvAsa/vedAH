@@ -28,6 +28,14 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 प्रति। अग्निः। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथमः। जातऽवेदाः। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। ८७.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- शौनकः
+- त्रिष्टुप्
+- अग्नि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद के विज्ञान का उपदेश।
@@ -47,3 +55,4 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 
 टिप्पणी:   ५−(प्रति) प्रत्यक्षरूपेण (सूर्यस्य) आदित्यमण्डलस्य (पुरुधा) अनेकधा (च) (आ) समन्तात् (ततान) विस्तारयामास ॥अन्यत्पूर्ववत्-म० ४॥
 </details>
+

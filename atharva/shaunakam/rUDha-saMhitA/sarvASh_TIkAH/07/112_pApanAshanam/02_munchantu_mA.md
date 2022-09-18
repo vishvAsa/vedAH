@@ -24,6 +24,14 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 मुञ्चन्तु। मा। शपथ्यात्। अथो इति। वरुण्यात्। उत। अथो इति। यमस्‍य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः, वरुणः
+- वरुणः
+- अनुष्टुप्
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 इन्द्रियों के जय का उपदेश।
@@ -43,3 +51,4 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 
 टिप्पणी:   २−(मुञ्चन्तु) मोचयन्तु (ताः) आपः-म० १। (देवकिल्बिषात्) परमेश्वरं प्रति दोषात्। अन्यद् व्याख्यातम्-अ० ६।९६।२ ॥
 </details>
+

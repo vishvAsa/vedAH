@@ -27,6 +27,14 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 अग्निः। नः। दूतः। प्रतिऽएतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। सः। चित्तानि। मोहयतु। परेषाम्। निःऽहस्तान्। च। कृणवत्। जातऽवेदाः। २.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- त्रिष्टुप्
+- शत्रु सेनासंमोहन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सेनापति के कर्तव्य का उपदेश।
@@ -46,3 +54,4 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 
 टिप्पणी:   १−(दूतः)। अ० १।७।६। दु गतौ-यद्वा, टुदु उपतापे-क्त। अग्रेसरः। उपतापकः (चित्तानि)। अन्तःकरणानि। अन्यद् व्याख्यातम्-सू० १ म० १ ॥
 </details>
+

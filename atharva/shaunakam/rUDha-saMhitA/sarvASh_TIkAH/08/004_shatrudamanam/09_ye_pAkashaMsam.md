@@ -27,6 +27,14 @@ Those who destroy, as is their wont, the simple, and with their evil natures har
 ये। पाकऽशंसम्। विऽहरन्ते। एवैः। ये। वा। भद्रम्। दूषयन्ति। स्वधाभिः। अहये। वा। तान्। प्रऽददातु। सोमः। आ। वा। दधातु। निःऽऋतेः। उपऽस्थे। ४.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रासोमौ, अर्यमा
+- चातनः
+- त्रिष्टुप्
+- शत्रुदमन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और मन्त्री के धर्म का उपदेश।
@@ -46,3 +54,4 @@ Those who destroy, as is their wont, the simple, and with their evil natures har
 
 टिप्पणी:   ९−ऐश्वर्यवान् प्रेरको वा राजा (आ) समन्तात् (दधातु) स्थापयतु (निर्ऋतेः) अ० २।१०।१। कृच्छ्रापत्तेः। अलक्ष्म्याः (उपस्थे) उत्सङ्गे ॥
 </details>
+

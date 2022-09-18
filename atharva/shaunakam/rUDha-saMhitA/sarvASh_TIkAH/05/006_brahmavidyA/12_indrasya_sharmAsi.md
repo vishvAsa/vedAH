@@ -21,6 +21,14 @@ Thou art the guard of Indra. I betake me to thee, etc.
 इन्द्रस्य। शर्म। असि। तम्। त्वा। प्र। पद्ये। तम्। त्वा। विशामि। सर्वऽगुः। सर्वऽपुरुषः। सर्वऽआत्मा। सर्वऽतनूः। सह। यत्। मे। अस्ति। तेन। ६.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वात्मा रुद्रः
+- अथर्वा
+- पङ्क्तिः
+- ब्रह्मविद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
@@ -40,3 +48,4 @@ Thou art the guard of Indra. I betake me to thee, etc.
 
 टिप्पणी:   १२−(शर्म) शरणम्। अन्यत् पूर्ववत् म० १० ॥
 </details>
+

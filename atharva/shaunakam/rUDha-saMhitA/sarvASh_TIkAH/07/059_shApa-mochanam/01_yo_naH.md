@@ -33,6 +33,14 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। वृक्षःऽइव। विऽद्युता। हतः। आ। मूलात्। अनु। शुष्यतु। ६१.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अरिनाशनम्
+- बादरायणिः
+- अनुष्टुप्
+- शापमोचन सुक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुवचन के त्याग का उपदेश।
@@ -52,3 +60,4 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 
 टिप्पणी:   १−(यः) दुष्टः (नः) अस्मान् (शपात्) शपेत्। निन्देत् (अशपतः) अशापिनः (शपतः) शापकारिणः (यः) (च) (नः) (शपात्) (वृक्षः) (इव) (विद्युता) अशन्या (हतः) भस्मीकृतः (आ मूलात्) मूलमारभ्य (अनु) निरन्तरम् (शुष्यतु) शुष्को भवतु ॥
 </details>
+

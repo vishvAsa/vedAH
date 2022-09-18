@@ -24,6 +24,14 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 सा। उत्। अक्रामत्। सा। गार्हऽपत्ये। नि। अक्रामत्। १०.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- याजुषी जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -43,3 +51,4 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 
 टिप्पणी:   २−(सा) विराट् (उत्) उपरि (अक्रामत्) पादं स्थापितवती (सा) (गार्हपत्ये) अ० ५।३१।५। गृहपतिभिः संयुक्ते कर्मणि (नि) नीचैः ॥
 </details>
+

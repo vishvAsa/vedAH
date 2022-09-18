@@ -28,6 +28,14 @@ Agni Kama in other homes shines forth the sole imperial Lord of all that is and 
 अग्निः। परेषु। धामऽसु। कामः। भूतस्य। भव्यस्य। सम्ऽराट्‌। एकः। वि। राजति। ३६.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- गायत्री
+- वैश्वनार सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश।
@@ -47,3 +55,4 @@ Agni Kama in other homes shines forth the sole imperial Lord of all that is and 
 
 टिप्पणी:   ३−(अग्निः) सर्वव्यापकः परमेश्वरः (परेषु) दूरेषु (धामसु) स्थानेषु (कामः) कमु कान्तौ−घञ्। कमनीयः (भूतस्य) अतीतस्य (भव्यस्य) भविष्यतः कालस्य (सम्राट्) राजाधिराज (एकः) अद्वितीयः (वि) विविधम् (राजति) ईष्टे ॥
 </details>
+

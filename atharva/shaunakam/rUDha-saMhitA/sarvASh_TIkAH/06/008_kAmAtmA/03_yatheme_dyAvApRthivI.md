@@ -24,6 +24,14 @@ As in his rapid course the Sun encompasses the heaven and: earth, So do I compas
 यथा। इमे इति। द्यावापृथिवी इति। सद्यः। परिऽएति। सूर्यः। एव। परि। एमि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापथिवी, सूर्यः
+- जमदग्नि
+- पथ्यापङ्क्तिः
+- कामात्मा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्या की प्राप्ति का उपदेश।
@@ -43,3 +51,4 @@ As in his rapid course the Sun encompasses the heaven and: earth, So do I compas
 
 टिप्पणी:   ३−(यथा) (इमे) परिदृश्यमाने (द्यावापृथिवी) आकाशं भूमिं च (परि एति) परितो व्याप्नोति (सूर्यः) लोकप्रेरको भास्करः (एव) एवम् (परि एमि) परितः प्राप्नोमि। अन्यत् पूर्ववत् ॥
 </details>
+

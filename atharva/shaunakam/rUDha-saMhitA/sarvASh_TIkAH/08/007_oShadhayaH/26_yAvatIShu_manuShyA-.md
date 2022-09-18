@@ -23,6 +23,14 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 यावतीषु। मनुष्याः। भेषजम्। भिषजः। विदुः। तावतीः। विश्वऽभेषजीः। आ। भरामि। त्वाम्‌। अभि। ७.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भैषज्यम्, आयुष्यम्, ओषधिसमूहः
+- अथर्वा
+- निचृदनुष्टुप्
+- ओषधि समूह सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
@@ -42,3 +50,4 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 
 टिप्पणी:   २६−(यावतीषु) (मनुष्याः) मानवाः (भेषजम्) चिकित्साम् (भिषजः) अ० २।९।३। यद्वा भिषज् चिकित्सायाम्-क्विप्। वैद्याः (विदुः) जानन्ति (तावतीः) (विश्वभेषजीः) सर्वरोगजेत्रीः (आभरामि) आहरामि (त्वाम्) (अभि) प्रति ॥
 </details>
+

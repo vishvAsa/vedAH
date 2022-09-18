@@ -24,6 +24,14 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 अप। एतेन। अरात्सीः। असौ। स्वाहा। तिग्मऽआयुधौ। तिग्महेती इति तिग्मऽहेती। सुऽशेवौ। सोमारुद्रौ। इह। सु। मृडतम्। नः। ६.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमारुद्रौ
+- अथर्वा
+- त्रिपदा विराड्गायत्री
+- ब्रह्मविद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
@@ -43,3 +51,4 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 
 टिप्पणी:   ७−(अप अरात्सीः) अपराद्धवानसि, दोषयुक्तं कल्पितवानसि दुष्टम्। अन्यत् पूर्ववत्−म० ५ ॥
 </details>
+

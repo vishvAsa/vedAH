@@ -27,6 +27,14 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 भद्रऽअहम्। नः। मध्यंदिने। भद्रऽअहम्। सायम्। अस्तु। नः। भद्रऽअहम्। नः। अह्नाम्। प्रातः। रात्री भद्रऽअहम्। अस्तु। नः। १२८.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमः, शकधूमः
+- अथर्वाङ्गिरा
+- अनुष्टुप्
+- राजा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आनन्द पाने का उपदेश।
@@ -46,3 +54,4 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 
 टिप्पणी:   २−(भद्राहम्) म० १। शुभकालः (नः) अस्मभ्यम् (मध्यन्दिने) मध्याह्ने (सायम्) सूर्यास्ते (अस्तु) (अह्नाम्) सर्वदिनानाम् (प्रातः) सूर्योदये (रात्री) रात्र्याम् ॥अन्यद् व्याख्यातम्॥
 </details>
+

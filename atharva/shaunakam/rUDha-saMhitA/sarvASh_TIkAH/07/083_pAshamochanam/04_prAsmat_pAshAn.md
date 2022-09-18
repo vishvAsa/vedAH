@@ -31,6 +31,14 @@ Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the 
 प्र। अस्मत्। पाशान्। वरुण। मुञ्च। सर्वान्। ये। उत्ऽतमाः। अधमाः। वारुणाः। ये। दुःऽस्वप्न्यम्। दुःऽइतम्। निः। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। ८८.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- शुनःशेपः
+- बृहतीगर्भा त्रिष्टुप्
+- पाशमोचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के नियम का उपदेश।
@@ -50,3 +58,4 @@ Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the 
 
 टिप्पणी:   ४−(प्र) प्रकर्षेण (वरुण) हे दुःखनिवारक परमेश्वर (मुञ्च) मोचय। अन्यद् व्याख्यातम्-अ० ६।१२१।१ ॥
 </details>
+

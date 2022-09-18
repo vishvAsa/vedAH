@@ -21,6 +21,14 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 ताम्। उप। अह्वयन्त। ११.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- एपदा याजुषी गायत्री
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -40,3 +48,4 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 
 टिप्पणी:   ३−(ताम्) (उप) उपेत्य (अह्वयन्त) आहूतवन्तः ॥
 </details>
+

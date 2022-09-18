@@ -25,6 +25,14 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मनः। वातम्। धूमःऽइव। सध्र्यङ्। माम्। एव। अनु। एतु। ते। मनः। ८९.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वातः
+- अथर्वा
+- अनुष्टुप्
+- प्रीतिसंजनन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रु को जीतने का उपदेश।
@@ -44,3 +52,4 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 
 टिप्पणी:   २−(मनः) सङ्कल्पविकल्पात्मकं मननसामर्थ्यम् (वातम्) वायुम् (धूमः) (इव) यथा (सध्र्यङ्) अ० ३।३०।५। सह अञ्चतीति, सहस्य सध्रि। वातेन सह गन्ता (माम्) पुरुषार्थिनम् (एव) अवश्यम् (अनु) अनुसृत्य (एतु) गच्छतु। अन्यत् पूर्ववत् ॥
 </details>
+

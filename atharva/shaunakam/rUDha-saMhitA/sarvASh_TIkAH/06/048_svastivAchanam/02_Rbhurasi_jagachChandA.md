@@ -27,6 +27,14 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 ऋभुः। असि। जगत्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ऋभुः
+- प्रचेता
+- उष्णिक्
+- स्वस्तिवाचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा के गुणों का उपदेश।
@@ -46,3 +54,4 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 
 टिप्पणी:   २−(ऋभुः) अ० १।२।३। मेधावी... निघ० ३।१५। (जगच्छन्दाः) जगत्सु लोकेषु। छन्दः स्वातन्त्र्यं यस्य सः। अन्यत् पूर्ववत् ॥
 </details>
+

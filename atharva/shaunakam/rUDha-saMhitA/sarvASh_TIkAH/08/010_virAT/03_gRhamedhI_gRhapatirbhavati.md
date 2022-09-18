@@ -34,6 +34,14 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 गृहऽमेधी। गृहऽपतिः। भवति। यः। एवम्। वेद। १०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- साम्नी
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -53,3 +61,4 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 
 टिप्पणी:   ३−(गृहमेधी) सुप्यजातौ०। पा० ३।२।७८। गृह+मेधृ वधमेधासंगमेषु-णिनि। गृहं गृहकार्यं मेधति जानाति यः स (गृहपतिः) गृहस्वामी ॥
 </details>
+

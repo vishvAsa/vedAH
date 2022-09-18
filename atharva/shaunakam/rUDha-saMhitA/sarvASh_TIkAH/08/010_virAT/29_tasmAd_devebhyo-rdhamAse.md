@@ -36,6 +36,14 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 तस्मात्। देवेभ्यः। अर्धऽमासे। वषट्। कुर्वन्ति। प्र। देवऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- आर्ची बृहती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -55,3 +63,4 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 
 टिप्पणी:   ६−(देवेभ्यः) किरणानामर्थं किरणानां सकाशाद्वा (वषट्) अ० १।११।१। वह प्रापणे−डषटि। रसप्रापणम् (कुर्वन्ति) निष्पादयन्ति (देवयानम्) किरणैर्गन्तव्यम्। अन्यत् पूर्ववत् ॥
 </details>
+

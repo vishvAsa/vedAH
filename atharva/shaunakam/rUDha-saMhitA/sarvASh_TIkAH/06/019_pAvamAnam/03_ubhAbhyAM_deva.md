@@ -26,6 +26,14 @@ God Savitar, byboth of these, filter and pressing out this juice, purify us that
 उभाभ्याम्। देव। सवितः। पवित्रेण। सवेन। च। अस्मान्। पुनीहि। चक्षसे। १९.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- शन्ताति
+- गायत्री
+- पावमान सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पवित्र आचरण के लिये उपदेश।
@@ -45,3 +53,4 @@ God Savitar, byboth of these, filter and pressing out this juice, purify us that
 
 टिप्पणी:   ३−(उभाभ्याम्) द्वाभ्याम् (देव) हे दातः (सवितः) सत्यकर्मसु प्रेरकेश्वर (पवित्रेण) शुद्धाचरणेन (सवनेन) ऐश्वर्येण (च) (अस्मान्) धार्मिकान् (पुनीहि) शोधय (चक्षसे) अ० १।५।१। दर्शनाय ॥
 </details>
+

@@ -23,6 +23,14 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 द्यौः। धेनुः। तस्याः। आदित्यः। वत्सः। सा। मे। आदित्येन। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्यः
+- अङ्गिराः
+- त्रिपदा महाबृहती
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -42,3 +50,4 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 
 टिप्पणी:   ६-सर्वं पूर्ववत्-म० २, ५ ॥
 </details>
+

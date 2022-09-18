@@ -26,6 +26,14 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 पूषन्। तव। व्रते। वयम्। न। रिष्येम। कदा। चन। स्तोतारः। ते। इह। स्मसि। १०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पूषा
+- उपरिबभ्रवः 
+- त्रिपदार्षी गायत्री
+- स्वस्तिदा पूषा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के उपासना का उपदेश।
@@ -45,3 +53,4 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 
 टिप्पणी:   ३−(पूषन्) पोषक परमात्मन् (तव) (व्रते) वरणीये नियमे (वयम्) उपासकाः (न) निषेधे (रिष्येम) रिष हिंसायाम्, दैवादिकः, अकर्मकः। हिंसिता भवेम (कदा चन) कदापि (स्तोतारः) स्तावकाः (ते) तव (इह) अत्र (स्मसि) स्मः। भवामः ॥
 </details>
+

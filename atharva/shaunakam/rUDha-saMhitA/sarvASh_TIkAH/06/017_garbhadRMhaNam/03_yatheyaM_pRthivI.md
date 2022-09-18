@@ -21,3 +21,17 @@ Even as this mighty Earth hath borne and bears the mountains and the hills, So m
 
 यथा। इयम्। पृथिवी। मही। दाधार। पर्वतान्। गिरीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.३।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+यथा। इयम्। पृथिवी। मही। दाधार। पर्वतान्। गिरीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.३।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गर्भदृंहणम्, पृथिवी
+- अथर्वा
+- अनुष्टुप्
+- गर्भदृंहण सूक्त
+</details>

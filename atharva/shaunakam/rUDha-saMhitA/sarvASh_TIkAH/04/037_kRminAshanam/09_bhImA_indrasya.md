@@ -24,6 +24,14 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 भीमाः। इन्द्रस्य। हेतयः। शतम्। ऋष्टीः। हिरण्ययीः। ताभिः। हविःऽअदान्। गन्धर्वान्। अवकाऽअदान्। वि। ऋषतु। ३७.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अजशृङ्ग्योषधिः
+- बादरायणिः
+- अनुष्टुप्
+- कृमिनाशक सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गन्धर्व और अप्सराओं के गुणों का उपदेश।
@@ -43,3 +51,4 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 
 टिप्पणी:   ९−(हिरण्ययीः) हिरण्यः=हिरण्यमयः=निरु० १०।२३। हिरण्यमय्यः। तेजोमय्यः। अन्यत् पूर्ववत्-म० ८ ॥
 </details>
+

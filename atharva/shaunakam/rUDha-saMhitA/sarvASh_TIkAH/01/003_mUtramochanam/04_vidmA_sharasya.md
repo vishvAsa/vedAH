@@ -21,6 +21,14 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 विद्म। शरस्य। पितरम्। चन्द्रम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- चन्द्रः
+- अथर्वा
+- अनुष्टुप्
+- मूत्र मोचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति के लिये उपदेश।
@@ -40,3 +48,4 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 
 टिप्पणी:   ४−चन्द्रम्। स्फायितञ्चीत्यादिना, उ० २।१३। इति चदि आह्लादने-रक्। चन्द्रश्चन्दतेः कान्तिकर्मणः निरु० ११।५। आह्लादकं देवं, हिमांशुम्। इन्दुम्। तद्वत् उपकारकम्। अन्यत्−यथा मं० १ ॥
 </details>
+

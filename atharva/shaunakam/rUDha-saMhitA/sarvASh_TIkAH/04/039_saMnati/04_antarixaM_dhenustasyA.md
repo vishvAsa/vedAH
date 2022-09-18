@@ -24,6 +24,14 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 अन्तरिक्षम्। धेनुः। तस्याः। वायुः। वत्सः। सा। मे। वायुना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अन्तरिक्षम्
+- अङ्गिरा
+- त्रिपदा महाबृहती
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -43,3 +51,4 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 
 टिप्पणी:   ४-सर्वं पूर्ववत् म० २, ३ ॥
 </details>
+

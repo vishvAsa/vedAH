@@ -23,6 +23,14 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 याम्। ते। चक्रुः। एकऽशफे। पशूनाम्। उभयादति। गर्दभे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्याप्रतिहरणम्
+- शुक्रः
+- अनुष्टुप्
+- कृत्यापरिहरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -42,3 +50,4 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 
 टिप्पणी:   ३−(एकशफे) एकखुरयुक्ते अश्वादौ (पशूनाम्) चतुष्पदां मध्ये (उभयादति) छान्दसो दीर्घः। उभयदति। ऊर्ध्वाधोभागयोर्दन्तयुक्ते (गर्दभे) कॄगॄशलिकलिगर्दिभ्योऽभच्। उ० ३।१२२। इति गर्द शब्दे−अभच्। खरे। अन्यद् गतम् ॥
 </details>
+

@@ -29,6 +29,14 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 वि। इमे इति। द्यावापृथिवी इति। इतः। वि। पन्थानः। दिशम्ऽदिशम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- ब्रह्मा
+- भुरिगनुष्टुप्
+- यक्ष्मनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
@@ -48,3 +56,4 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 
 टिप्पणी:   ४−(इमे) परिदृश्यमाने। (द्यावापृथिव्यौ) अ० २।१।४। सूर्यभूमी। (इतः) गच्छतः। (पन्थानः) मार्गाः। (वि) वियन्ति। अन्यद् गतम् ॥
 </details>
+

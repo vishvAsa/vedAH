@@ -28,6 +28,14 @@ One is the Cow, one is the Single Spirit, one is the law, single are benediction
 एकः। गौः। एकः। एकऽऋषिः। एकम्। धाम। एकऽधा। आऽशिषः। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतुः। न। अति। रिच्यते। ९.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कश्यपः, समस्तार्षच्छन्दांसि, ऋषिगणः
+- अथर्वा
+- अनुष्टुप्
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -47,3 +55,4 @@ One is the Cow, one is the Single Spirit, one is the law, single are benediction
 
 टिप्पणी:   २६−(एकः) इण्भीकापा०। उ० ३।४३। इण् गतौ-कन्। एति प्राप्नोतीत्येकः। सर्वव्यापकः केवलः परमेश्वरः (न) निषेधे (अति रिच्यते) पराभूयते केनापि। अन्यत् पूर्ववत् म० २५ ॥
 </details>
+

@@ -30,6 +30,14 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 यः। अस्य। पारे। रजसः। शुक्रः। अग्निः। अजायत। सः। नः। पर्षत्। अति। द्विषः। ३४.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातन
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -49,3 +57,4 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 
 टिप्पणी:   ५−(यः) परमेश्वरः (अस्य) प्रत्यक्षस्य (पारे) अन्ते (रजसः) अन्तरिक्षलोकस्य−निघ० १।७। (शुक्रः) शुद्धस्वभावः (अजायत) प्रादुरभवत्। अन्यत्पूर्ववत् ॥
 </details>
+

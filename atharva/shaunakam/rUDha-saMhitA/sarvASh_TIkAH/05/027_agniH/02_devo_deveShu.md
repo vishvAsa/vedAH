@@ -18,6 +18,14 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 देवः। देवेषु। देवः। पथः। अनक्ति। मध्वा। घृतेन। २७.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इळा, सरस्वती, भारती
+- ब्रह्मा
+- द्विपदा साम्न्यनुष्टुप्
+- अग्नि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ का उपदेश।
@@ -37,3 +45,4 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 
 टिप्पणी:   २−(देवः) व्यवहारकुशलः (देवेषु) व्यवहारिषु विद्वत्सु (देवः) विजिगीषुः (पथः) मार्गान् (अनक्ति) व्यनक्ति व्यक्तीकरोति (मध्वा) अ० १।४।१। मन ज्ञाने−उ, नस्य धः। मधुना। ज्ञानेन (घृतेन) प्रकाशेन ॥
 </details>
+

@@ -29,6 +29,14 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 अपः। वामऽदेव्यम्। यज्ञम्। यज्ञायज्ञियम्। यः। एवम्। वेद। ११.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- साम्नी बृहती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -48,3 +56,4 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 
 टिप्पणी:   ९, १०−(अस्मै) ब्रह्मज्ञानिने (दुहे) द्विकर्मकः। दुग्धे। प्रपूरयति (व्यचः) विस्तृतम्। अन्यत् पूर्ववत् ॥
 </details>
+

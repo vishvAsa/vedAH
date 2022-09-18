@@ -30,6 +30,14 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 तस्मात्। पितृऽभ्यः। मासि। उपऽमास्यम्। ददति। प्र। पितृऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- आर्ची बृहती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -49,3 +57,4 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 
 टिप्पणी:   ४−(पितृभ्यः) ऋतूनामर्थम्। ऋतूनां सकाशात् (मासि) मासे (उपमास्यम्) मासि चन्द्रमसि प्रभवममृतम् (ददति) प्रयच्छन्ति, ईश्वरनियमा इति शेषः (प्र) प्रकर्षेण (पितृयाणम्) ऋतुभिर्गमनीयम् (पन्थाम्) मार्गम्। अन्यत् सुगमम् ॥
 </details>
+

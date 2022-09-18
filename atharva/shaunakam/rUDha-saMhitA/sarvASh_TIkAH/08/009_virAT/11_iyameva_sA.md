@@ -27,6 +27,14 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्तः। अस्याम्। महिमानः। अन्तः। वधूः। जिगाय। नवऽगत्। जनित्री। ९.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कश्यपः, समस्तार्षच्छन्दांसि, ऋषिगणः
+- अथर्वा
+- जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -46,3 +54,4 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 
 टिप्पणी:   ११−(इयम्) परिदृश्यमाना विराट् (एव) (सा) ईश्वरी (या) विराट्। अन्यत् पूर्ववत्-अ० ३।१०।४ ॥
 </details>
+

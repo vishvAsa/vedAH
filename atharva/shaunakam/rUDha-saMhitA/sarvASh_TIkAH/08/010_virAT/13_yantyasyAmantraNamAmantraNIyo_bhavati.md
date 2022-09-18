@@ -24,6 +24,14 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 यन्ति। अस्य। आऽमन्त्रणम्। आऽमन्त्रणीयः। भवति। यः। एवम्। वेद। १०.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- विराड्गायत्री
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -43,3 +51,4 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 
 टिप्पणी:   १३−(आमन्त्रणीयः) आमन्त्रण-छ। अभिनन्दनीयः। अन्यत् पूर्ववत् ॥
 </details>
+

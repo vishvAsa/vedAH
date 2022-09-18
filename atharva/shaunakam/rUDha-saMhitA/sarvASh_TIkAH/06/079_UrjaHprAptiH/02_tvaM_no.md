@@ -25,6 +25,14 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 त्वम्। नः। नभसः। पते। ऊर्जम्। गृहेषु। धारय। आ। पुष्टम्। एतु। आ। वसु। ७९.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- संस्फानम्
+- अथर्वा
+- गायत्री
+- ऊर्जा प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्वसम्पत्ति पाने का उपदेश।
@@ -44,3 +52,4 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 
 टिप्पणी:   २−(त्वम्) (नः) अस्माकम् (नभसस्पते) हे सूर्यलोकस्य पालक (ऊर्जम्) बलकरमन्नम् (गृहेषु) (धारय) स्थापय (आ) चार्थे (पुष्टम्) पुष्टिम्। वृद्धिम् (ऐतु) आगच्छतु (वसु) धनम् ॥
 </details>
+

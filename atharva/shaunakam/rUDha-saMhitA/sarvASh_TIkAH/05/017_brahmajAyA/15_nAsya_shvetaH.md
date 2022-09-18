@@ -22,6 +22,14 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 न। अस्य। श्वेतः। कृष्णऽकर्णः। धुरि। युक्तः। महीयते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मजाया
+- मयोभूः
+- अनुष्टुप्
+- ब्रह्मजाया सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -41,3 +49,4 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 
 टिप्पणी:   १५−(न) निषेधे (अस्य) (श्वेतः) शुक्लवर्णः (कृष्णकर्णः) श्यामकर्णोऽश्वः (धुरि) धुर्व हिंसायाम्−क्विप्। यानमुखे (युक्तः) युगं गतः (महीयते) महीङ् पूजायाम्। पूज्यते स्तूयते ॥
 </details>
+

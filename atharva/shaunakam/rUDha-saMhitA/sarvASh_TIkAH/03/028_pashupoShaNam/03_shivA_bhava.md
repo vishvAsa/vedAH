@@ -26,6 +26,14 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 शिवा। भव। पुरुषेभ्यः। गोभ्यः। अश्वेभ्यः। शिवा। शिवा। अस्मै। सर्वस्मै। क्षेत्राय। शिवा। नः। इह। एधि। २८.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- यमिनी
+- ब्रह्मा
+- अनुष्टुप्
+- पशुपोषण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 उत्तम नियम से सुख होता है।
@@ -45,3 +53,4 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 
 टिप्पणी:   ३−(क्षेत्राय) अ० २।८।५। शालिगोधूमादिकेदारवर्धनाय (एधि) अस्तेर्लोटि रूपम्। भव। अन्यत् स्पष्ठम् ॥
 </details>
+

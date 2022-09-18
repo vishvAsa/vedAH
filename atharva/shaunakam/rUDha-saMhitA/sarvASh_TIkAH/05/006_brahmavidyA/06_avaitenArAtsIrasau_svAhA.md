@@ -22,6 +22,14 @@ Through this hast thou been left in want. All hail! With sharpened arms and miss
 अव। एतेन। अरात्सीः। असौ। स्वाहा। तिग्मऽआयुधौ। तिग्महेती इति तिग्मऽहेती। सुऽशेवौ। सोमारुद्रौ। इह। सु। मृडतम्। नः। ६.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमारुद्रौ
+- अथर्वा
+- त्रिपदा विराड्गायत्री
+- ब्रह्मविद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
@@ -41,3 +49,4 @@ Through this hast thou been left in want. All hail! With sharpened arms and miss
 
 टिप्पणी:   ६−(अव अरात्सीः) नीचै राद्धवान् निर्धनं कृतवानसि दुरात्मानम्। अन्यद् गतम्। म० ५ ॥
 </details>
+

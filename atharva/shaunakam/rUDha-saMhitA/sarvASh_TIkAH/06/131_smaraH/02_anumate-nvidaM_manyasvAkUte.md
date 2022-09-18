@@ -28,6 +28,14 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 अनुऽमते। अनु। इदम्। मन्यस्व। आऽकूते। सम्। इदम्। नमः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- अनुष्टुप्
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परस्पर पालन का उपदेश।
@@ -47,3 +55,4 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 
 टिप्पणी:   २−(अनुमते) अ० १।१८।२। हे सहायिके बुद्धे (इदम्) क्रियमाणं कर्म (अनु मन्यस्व) स्वीकुरु (आकूते) हे उत्साहशक्ते−यथा दयानन्दभाष्ये, यजु० ४।७। (सम्) सम्यक् (इदम्) (नमः) अन्नम्−निघ० २।७। अन्यत् पूर्ववत् ॥
 </details>
+

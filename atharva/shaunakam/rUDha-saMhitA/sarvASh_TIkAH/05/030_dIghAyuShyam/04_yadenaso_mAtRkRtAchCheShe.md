@@ -24,6 +24,14 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 यत्। एनसः। मातृकृतात्। शेषे। पितृऽकृतात्। च। यत्। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आयुः
+- चातनः
+- अनुष्टुप्
+- दीर्घायुष्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आत्मा के उन्नति का उपदेश।
@@ -43,3 +51,4 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 
 टिप्पणी:   ४−(यत्) यदि (एनसः) अ० २।१०।८। अपराधात् (मातृकृतात्) मात्रा निष्पादितात् (शेषे) स्वपिषि। आलस्यं करोषि (पितृकृतात्) जनकेन कृतात्। अन्यद् यथा म० २ ॥
 </details>
+

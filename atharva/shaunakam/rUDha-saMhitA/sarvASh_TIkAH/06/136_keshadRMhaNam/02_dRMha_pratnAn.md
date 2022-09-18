@@ -25,6 +25,14 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 दृंह। प्रत्नान्। जनय। अजातान्। जातान्। ऊं इति। वर्षीयसः। कृधि। १३६.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नितत्नीवनस्पतिः
+- वीतहव्य
+- एकावसाना द्विपदा साम्नी बृहती
+- केशदृंहण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 केश के बढ़ाने का उपदेश।
@@ -44,3 +52,4 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 
 टिप्पणी:   २−(दृंह) दृढीकुरु (प्रत्नान्) पुरातनान् केशान् (जनय) उत्पादय (अजातान्) अनुत्पन्नान् (जातान्) (उ) अपि (वर्षीयसः) अ० ४।९।८। वृद्ध−ईयसुन्। प्रवृद्धतरान् (कृधि) कुरु ॥
 </details>
+

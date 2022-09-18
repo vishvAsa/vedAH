@@ -25,6 +25,14 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 प्रजाऽवतीः। सुऽयवसे। रुशन्तीः। शुध्दाः। अपः। सुऽप्रपाने। पिबन्तीः। मा। वः। स्तेनः। ईशत। मा। अघऽशंसः। परि। वः। रुद्रस्य। हेतिः। वृणक्तु। ७९.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अघ्न्या
+- उपरिबभ्रवः 
+- त्रिष्टुप्
+- अघ्न्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सामाजिक उन्नति का उपदेश।
@@ -44,3 +52,4 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 
 टिप्पणी:   १-शब्दार्थो यथा, अ० ४।२१।७ ॥
 </details>
+

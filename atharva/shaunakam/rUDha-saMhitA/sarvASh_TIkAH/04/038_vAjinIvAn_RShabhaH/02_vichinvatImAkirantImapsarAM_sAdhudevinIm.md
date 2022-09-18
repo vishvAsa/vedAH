@@ -25,6 +25,14 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 विऽचिन्वतीम्। आऽकिरन्तीम्। अप्सराम्। साधुऽदेविनीम्। ग्लहे। कृतानि। गृह्णानाम्। अप्सराम्। ताम्। इह। हुवे। ३८.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अप्सराः
+- बादरायणिः
+- अनुष्टुप्
+- वाजिनीवान् ऋषभ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -44,3 +52,4 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 
 टिप्पणी:   २−(विचिन्वतीम्) चिञ् चयने-शतृ। संघीकुर्वतीम् (आकिरन्तीम्) कॄ विक्षेपे-शतृ। विक्षिपन्तीम् (गृह्णानाम्) ग्रह उपादाने-शानच्। आददानाम्। अन्यत् पूर्ववत् म० २ ॥
 </details>
+

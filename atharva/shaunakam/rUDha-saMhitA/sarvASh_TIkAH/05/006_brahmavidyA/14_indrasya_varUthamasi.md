@@ -25,6 +25,14 @@ Indra's protection art thou. I betake me to thee, I enter thee with all my cattl
 इन्द्रस्य। वरूथम्। असि। तम्। त्वा। प्र। पद्ये। तम्। त्वा। विशामि। सर्वऽगुः। सर्वऽपुरुषः। सर्वऽआत्मा। सर्वऽतनूः। सह। यत्। मे। अस्ति। तेन। ६.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सर्वात्मा रुद्रः
+- अथर्वा
+- पङ्क्तिः
+- ब्रह्मविद्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
@@ -44,3 +52,4 @@ Indra's protection art thou. I betake me to thee, I enter thee with all my cattl
 
 टिप्पणी:   १४−(वरूथम्) जृवृञ्भ्यामूथन्। उ० २।६। इति वृञ्−ऊथन्। शरीरावरकं शस्त्रम्। चर्म। फलकम्। अन्यत् पूर्ववत् म० ११ ॥
 </details>
+

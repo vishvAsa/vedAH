@@ -23,6 +23,14 @@ He who from distance far remote shineth across the tracts of land, May he transp
 यः। परस्याः। पराऽवतः। तिरः। धन्व। अतिऽरोचते। सः। नः। पर्षत्। अति। द्विषः। ३४.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातन
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -42,3 +50,4 @@ He who from distance far remote shineth across the tracts of land, May he transp
 
 टिप्पणी:   ३−(यः) परमेश्वरः (परस्या) दूरदिशायाः (परावतः) अ० ३।४।५। दूरगतात् स्थानात् (तिरः) तिरस्कृत्य, अन्तर्धाय (धन्व) अ० ४।४।७। अन्तरिक्षम्−निघ० १।३। (अतिरोचते) अतिशयेन दीप्यते। अन्यद् गतम् ॥
 </details>
+

@@ -25,6 +25,14 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 याम्। ते। चक्रुः। सेनायाम्। याम्। चक्रुः। इषुआयुधे। दुन्दुभौ। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्याप्रतिहरणम्
+- शुक्रः
+- अनुष्टुप्
+- कृत्यापरिहरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -44,3 +52,4 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 
 टिप्पणी:   ७−(सेनायाम्) योद्धृसमूहे (इष्वायुधे) बाणादिशस्त्रे (दुन्दुभौ) बृहड्ढक्कायाम्। अन्यद् गतम् ॥
 </details>
+

@@ -24,6 +24,14 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 सा। उत्। अक्रामत्। सा। सभायाम्। नि। अक्रामत्। १०.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- याजुषी जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -43,3 +51,4 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 
 टिप्पणी:   ८−(सभायाम्) विदुषां समाजे। अन्यत् पूर्ववत् ॥
 </details>
+

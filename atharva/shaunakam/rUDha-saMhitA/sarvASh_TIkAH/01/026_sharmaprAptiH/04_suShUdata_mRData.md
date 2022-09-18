@@ -29,6 +29,14 @@ Further us rightly, favour ye our bodies with your gracious love. Give thou our 
 सुसूदत। मृडत। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुद्गणः
+- ब्रह्मा
+- एकावसाना पादनिचृद्गायत्री
+- सुख प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 युद्ध का प्रकरण।
@@ -48,3 +56,4 @@ Further us rightly, favour ye our bodies with your gracious love. Give thou our 
 
 टिप्पणी:   ४−सुषूदत। षूद आश्रुतिहत्योः। निरासे च। आश्रुतिरङ्गीकारः। इति शब्दकल्पद्रुमः। अङ्गीकुरुत। मृडत। मृड सुखने। सुखयत। मृडय। सुखय। तनूभ्यः। १।१।१। शरीरेभ्यः। मयः। १।१३।२। सुखम्। १। तोकेभ्यः। १।१३।२। अपत्येभ्यः ॥
 </details>
+

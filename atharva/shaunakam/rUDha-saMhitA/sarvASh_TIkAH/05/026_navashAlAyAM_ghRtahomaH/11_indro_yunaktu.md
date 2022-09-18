@@ -22,6 +22,14 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 इन्द्रः। युनक्तु। बहुऽधा। वीर्याणि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- ब्रह्मा
+- द्विपदा प्राजापत्या बृहती
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -41,3 +49,4 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 
 टिप्पणी:   ११−(इन्द्रः) प्रतापी पुरुषः (वीर्याणि) वीर-यत्। वीरकर्माणि ॥ ०५।०२६।१२ ॥
 </details>
+

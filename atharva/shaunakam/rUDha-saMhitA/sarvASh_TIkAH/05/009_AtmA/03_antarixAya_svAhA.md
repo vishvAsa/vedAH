@@ -20,3 +20,17 @@ All hail to Air!
 
 अन्तरिक्षाय। स्वाहा। ९.३।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+अन्तरिक्षाय। स्वाहा। ९.३।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वास्तोष्पतिः
+- ब्रह्मा
+- दैवी जगती
+- आत्मा सूक्त
+</details>

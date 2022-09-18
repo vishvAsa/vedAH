@@ -32,6 +32,14 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 यज्ञऽऋतः। दक्षिणीयः। वासतेयः। भवति। यः। एवम्। वेद। १०.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- आर्च्यनुष्टुप्
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -51,3 +59,4 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 
 टिप्पणी:   ७−(यज्ञर्तः) यज्ञ ऋ गतौ-क्त। यज्ञे पूजितः (दक्षिणीयः) कडङ्करदक्षिणाच्छ च। पा० ५।१।६९। दक्षिणा-छ। प्रतिष्ठार्हः (वासतेयः) पथ्यतिथिवसतिस्वपतेर्ढञ्। पा० ४।४।१०४। वसति−ढञ्। निवासयोग्यः। अन्यत् पूर्ववत् ॥
 </details>
+

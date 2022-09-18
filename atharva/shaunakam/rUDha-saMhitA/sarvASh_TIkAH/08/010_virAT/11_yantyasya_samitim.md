@@ -24,6 +24,14 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 यन्ति। अस्य। सम्ऽइतिम्। साम्ऽइत्यः। भवति। यः। एवम्। वेद। १०.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- साम्नी बृहती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -43,3 +51,4 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 
 टिप्पणी:   ११−(सामित्यः) परिषदो ण्यः। पा० ४।४।१०१। समिति-ण्य, बाहुलकात्। संग्रामे साधुः। शूरः। अन्यत् पूर्ववत् ॥
 </details>
+

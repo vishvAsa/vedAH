@@ -23,6 +23,14 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 यः। रक्षांसि। निऽजूर्वति। अग्निः। तिग्मेन। शोचिषा। सः। नः। पर्षत्। अति। द्विषः। ३४.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातन
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -42,3 +50,4 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 
 टिप्पणी:   २−(रक्षांसि) राक्षसान्। दारिद्र्यादिदोषान् (निजूर्वति) जुर्व वधे। निहन्ति (तिग्मेन) तीक्ष्णेन (शोचिषा) तेजसा। अन्यद् गतम् ॥
 </details>
+

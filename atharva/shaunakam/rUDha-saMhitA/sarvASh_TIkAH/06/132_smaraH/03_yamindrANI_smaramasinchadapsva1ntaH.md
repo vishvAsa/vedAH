@@ -21,6 +21,14 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 यम्। इन्द्राणी। स्मरम्। असिञ्चत्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- भुरिगनुष्टुप्
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य प्राप्ति का उपदेश।
@@ -40,3 +48,4 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 
 टिप्पणी:   ३−(इन्द्राणी) अ० १।२७।४। परमैश्वर्यकारिणी राजनीतिः−दयानन्दभाष्ये यजु० ३८।३। (असिञ्चत्) क्रमेणावर्धयत्। अन्यत् पूर्ववत् ॥
 </details>
+

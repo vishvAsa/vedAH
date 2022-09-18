@@ -29,6 +29,14 @@ Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrif
 अपि। नह्यामि। ते। बाहू इति। अपि। नह्यामि। आस्यम्। अग्नेः। घोरस्य। मन्युना। तेन। ते। अवधिषम्। हविः। ७३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- श्येनः
+- अथर्वा
+- अनुष्टुप्
+- शत्रुदमन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रु के दमन का उपदेश।
@@ -48,3 +56,4 @@ Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrif
 
 टिप्पणी:   ५−(घोरस्य) भयङ्करस्य। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
+

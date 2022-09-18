@@ -26,6 +26,14 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 सखायौऽइव। सचावहै। अव। मन्युम्। तनोमि। ते। अधः। ते। अश्मनः। मन्युम्। उप। अस्यामसि। यः। गुरुः। ४२.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्यु
+- भृग्वङ्गिरा
+- भुरिगनुष्टुप्
+- परस्परचित्तैदीकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 क्रोध की शान्ति के लिये उपदेश।
@@ -45,3 +53,4 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 
 टिप्पणी:   २−पूर्वार्धो यथा म० १। (अधः) अधस्तात् (ते) तव (अश्मनः) पाषाणस्य (मन्युम्) क्रोधम् (उप) उपेत्य (अस्यामसि) क्षिपामः (यः) अश्मा (गुरुः) भारोपेतः ॥
 </details>
+

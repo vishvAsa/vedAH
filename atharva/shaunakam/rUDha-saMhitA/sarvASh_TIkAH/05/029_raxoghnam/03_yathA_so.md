@@ -23,6 +23,14 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 यथा। सः। अस्य। परिऽधिः। पताति। तथा। तत्। अग्ने। कृणु। जातऽवेदः। विश्वेभिः। देवैः। सह। सम्ऽविदानः। २९.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- जातवेदाः
+- चातनः
+- त्रिपदा विराड्गायत्री
+- रक्षोघ्न सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं और रोगों के नाश का उपदेश।
@@ -42,3 +50,4 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 
 टिप्पणी:   ३−गतम्। म० २ ॥
 </details>
+

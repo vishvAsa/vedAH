@@ -24,6 +24,14 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ९४.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सरस्वती
+- अथर्वाङ्गिरा
+- अनुष्टुप्
+- सांमनस्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति करने के लिये उपदेश।
@@ -43,3 +51,4 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 
 टिप्पणी:   १−पूर्ववद् व्याख्येयः−अ० ३।८।५ ॥
 </details>
+

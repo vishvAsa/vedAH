@@ -30,6 +30,14 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 ओषधीः। एव। अस्मै। रथमऽतरम्। दुहे। व्यचः। बृहत्। ११.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- साम्न्यनुष्टुप्
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -49,3 +57,4 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 
 टिप्पणी:   ९, १०−(अस्मै) ब्रह्मज्ञानिने (दुहे) द्विकर्मकः। दुग्धे। प्रपूरयति (व्यचः) विस्तृतम्। अन्यत् पूर्ववत् ॥
 </details>
+

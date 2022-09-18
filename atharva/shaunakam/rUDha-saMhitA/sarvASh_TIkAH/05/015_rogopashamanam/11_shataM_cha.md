@@ -28,6 +28,14 @@ Here ends also the eleventh *prapāṭhaka*.
 शतम्। च। मे। सहस्रम्। च। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवरि। मधु। मे। मधुला। करः। १५.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मधुलौषधिः
+- विश्वामित्रः
+- अनुष्टुप्
+- रोगोपशमन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विघ्नों के हटाने का उपदेश।
@@ -47,3 +55,4 @@ Here ends also the eleventh *prapāṭhaka*.
 
 टिप्पणी:   ११−शब्दार्थः प्रथममन्त्रेण समानः सुगमश्च ॥
 </details>
+

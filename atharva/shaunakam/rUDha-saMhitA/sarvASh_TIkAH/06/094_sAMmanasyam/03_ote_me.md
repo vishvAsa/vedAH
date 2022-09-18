@@ -25,6 +25,14 @@ I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni h
 ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। ऋध्यास्म। इदम्। सरस्वति। ९४.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सरस्वती
+- अथर्वाङ्गिरा
+- अनुष्टुप्
+- सांमनस्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति करने के लिये उपदेश।
@@ -44,3 +52,4 @@ I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni h
 
 टिप्पणी:   ३−(ओते) आ+वेञ् तन्तुसन्ताने−क्त। परस्परं स्यूने। अन्तर्व्याप्ते (सरस्वती) विज्ञानवती विद्या (इन्द्रः) मेघः (ऋध्यास्म) ऋधु वृद्धौ। श्रीमन्तो भूयास्म। अन्यद् गतम्−अ० ५।२३।१ ॥
 </details>
+

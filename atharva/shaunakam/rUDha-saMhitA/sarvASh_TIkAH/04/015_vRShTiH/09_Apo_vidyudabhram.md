@@ -30,6 +30,14 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 आपः। विऽद्युत्। अभ्रम्। वर्षम्। सम्। वः। अवन्तु। सुऽदानवः। उत्साः। अजगराः। उत। मरुत्ऽभिः। प्रऽच्युताः। मेघाः। प्र। अवन्तु। पृथिवीम्। अनु। १५.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुद्गणः
+- अथर्वा
+- पथ्यापङ्क्तिः
+- वृष्टि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
@@ -49,3 +57,4 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
 </details>
+

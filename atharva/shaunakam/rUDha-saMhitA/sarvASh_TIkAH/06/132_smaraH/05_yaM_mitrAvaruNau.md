@@ -21,6 +21,14 @@ The charm aglow with longing which Mitra and Varuna have poured within the bosom
 यम्। मित्रावरुणौ। स्मरम्। असिञ्चताम्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- त्रिपदा महाबृहती
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य प्राप्ति का उपदेश।
@@ -40,3 +48,4 @@ The charm aglow with longing which Mitra and Varuna have poured within the bosom
 
 टिप्पणी:   ५−(मित्रावरुणौ) अ० १।२०।२। प्राणापानौ। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -21,3 +21,17 @@ All hail to Eartht!
 
 पृथिव्यै। स्वाहा। ९.६।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+पृथिव्यै। स्वाहा। ९.६।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वास्तोष्पतिः
+- ब्रह्मा
+- दैवी त्रिष्टुप्
+- आत्मा सूक्त
+</details>

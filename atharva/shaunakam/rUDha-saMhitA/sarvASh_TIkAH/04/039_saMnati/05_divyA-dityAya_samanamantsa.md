@@ -24,6 +24,14 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 दिवि। आदित्याय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिवि। आदित्याय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यौः
+- अङ्गिराः
+- त्रिपदा महाबृहती
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -43,3 +51,4 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 
 टिप्पणी:   ५−(दिवि) आकाशे वर्तमानाय (आदित्याय) अ० १।९।१। प्रकाशमानाय सूर्याय। अन्यत् पूर्ववत्-म० १ ॥
 </details>
+

@@ -31,6 +31,14 @@ Agni, from days of old thou slayest demons: never have Rakshasas in fight o'erco
 सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्युः। सहऽमूरान्। अनु। दह। क्रव्यऽअदः। मा। ते। हेत्याः। मुक्षत। दैव्यायाः। ३.१८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातनः
+- त्रिष्टुप्
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -50,3 +58,4 @@ Agni, from days of old thou slayest demons: never have Rakshasas in fight o'erco
 
 टिप्पणी:   १८−(सहमूरान्) मूलेन कारणेन सहितान्। यद्वा मूढमनुष्यैः सहितान्। अन्यद् व्याख्यातम्-अ० ५।२९।११ ॥
 </details>
+

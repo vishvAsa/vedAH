@@ -22,6 +22,14 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 यन्ति। अस्य। देवाः। देवऽहूतिम्। प्रियः। देवानाम्। भवति। यः। एवम्। वेद। । १०.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- आर्च्यनुष्टुप्
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -41,3 +49,4 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 
 टिप्पणी:   ५−(यन्ति) गच्छन्ति (अस्य) तस्य (देवाः) विद्वांसः (देवहूतिम्) विद्वद्भ्य आह्वानम् (प्रियः) हितः (देवानाम्) विदुषाम्। अन्यत् सुगमम् ॥
 </details>
+

@@ -25,6 +25,14 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 अग्ने। यत्। ते। हरः। तेन। तम्। प्रति। हर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- एकावसानानिचृद्विषमात्रिपाद्गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
@@ -44,3 +52,4 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 
 टिप्पणी:   २–हरः। हृञ् प्रापणस्वीकारस्तेयनाशनेषु–असुन्। हरो हरतेर्ज्योतिर्हर उच्यते–निरु० ४।१९। हरति तमः। नाशनशक्तिः। हर। नाशय ॥
 </details>
+

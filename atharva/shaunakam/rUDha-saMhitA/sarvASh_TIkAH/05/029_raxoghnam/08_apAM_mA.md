@@ -26,3 +26,17 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 
 अपाम्। मा। पाने। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। । २९.८।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+अपाम्। मा। पाने। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। । २९.८।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- जातवेदाः
+- चातनः
+- त्रिष्टुप्
+- रक्षोघ्न सूक्त
+</details>

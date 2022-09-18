@@ -22,6 +22,14 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 हतासः। अस्य। वेशसः। हतासः। परिऽवेशसः। अथो इति। ये। क्षुल्लकाःऽइव। सर्वे। ते। क्रिमयः। हताः। २३.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- कण्वः
+- अनुष्टुप्
+- कृमिघ्न सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 छोटे-छोटे दोषों के नाश का उपदेश।
@@ -41,3 +49,4 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 
 टिप्पणी:   १२−यथा−अ० २।३२।५। (हतासः) हताः (वेशसः) प्रवेशकाः। मुख्यसेवकाः (परिवेशसः) परितः स्थिताः। अनुचरा (अथो) अपि च (क्षुल्लकाः) क्षुदिर् सम्पेषणे−क्विप्+लक प्राप्तौ−अच्। सूक्ष्माकाराः क्षुद्रजन्तवः ॥
 </details>
+

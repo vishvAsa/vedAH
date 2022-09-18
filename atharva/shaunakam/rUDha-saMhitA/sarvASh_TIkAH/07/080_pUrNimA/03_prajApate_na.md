@@ -41,6 +41,14 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 प्रजाऽपते। न। त्वत्। एतानि। अन्यः। विश्वा। रूपाणि। परिऽभूः। जजान। यत्ऽकामाः। ते। जुहुमः। तत्। नः। अस्तु। वयम्। स्याम। पतयः। रयीणाम्। ८५.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रजापतिः
+- अथर्वा
+- त्रिष्टुप्
+- पूर्णिमा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के गुणों का उपदेश
@@ -60,3 +68,4 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 
 टिप्पणी:   ३−(प्रजापते) हे प्रजापालक। अन्यद्गतम्-अ० ७।७९।४ ॥
 </details>
+

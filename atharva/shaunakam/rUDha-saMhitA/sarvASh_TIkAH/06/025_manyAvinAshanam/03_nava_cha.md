@@ -25,6 +25,14 @@ Those nine-and-ninety which, combined, attack the shoulder round about, Let them
 नव। च। याः। नवतिः। च। सम्ऽयन्ति। स्कन्ध्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्याविनाशनम् 
+- शुनः शेप
+- अनुष्टुप्
+- मन्याविनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश के लिये उपदेश।
@@ -44,3 +52,4 @@ Those nine-and-ninety which, combined, attack the shoulder round about, Let them
 
 टिप्पणी:   ३−(नव च नवतिश्च) नवोत्तरनवतिसंख्याकाः (स्कन्ध्याः) स्कन्ध−यत्, स्कन्धे भवा धमनीः। अन्यद्गतम् ॥
 </details>
+

@@ -23,6 +23,14 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 न। विऽकर्णः। पृथुऽशिराः। तस्मिन्। वेश्मनि। जायते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मजाया
+- मयोभूः
+- अनुष्टुप्
+- ब्रह्मजाया सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -42,3 +50,4 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 
 टिप्पणी:   १३−(न) निषेधे (विकर्णः) कर्ण भेदने−अच्। विशेषश्रवणः। बहुश्रतः (पृथुशिराः) विस्तीर्णमस्तकशक्तियुक्तः। बहुप्रज्ञः (तस्मिन्) (वेश्मनि) गृहे (जायते) उत्पद्यते ॥
 </details>
+

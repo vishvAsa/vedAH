@@ -23,6 +23,14 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 यन्ति। अस्य। सभाम्। सभ्यः। भवति। यः। एवम्। वेद। १०.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- साम्नी
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -42,3 +50,4 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 
 टिप्पणी:   ९−(सभ्यः) सभाया यः। पा० ४।४।१०५। सभा-य प्रत्ययः। सभायां साधुः। सभासद्। अन्यत्पूर्ववत् ॥
 </details>
+

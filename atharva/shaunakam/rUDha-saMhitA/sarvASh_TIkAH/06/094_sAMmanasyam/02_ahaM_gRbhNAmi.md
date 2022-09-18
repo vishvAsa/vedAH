@@ -26,6 +26,14 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभिः। आ। इत। मम। वशेषु। हृदयानि। वः। कृणोमि। मम। यातम्। अनुऽवर्त्मानः। आ। इत। ९४.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सरस्वती
+- अथर्वाङ्गिरा
+- विराड्जगती
+- सांमनस्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति करने के लिये उपदेश।
@@ -45,3 +53,4 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 
 टिप्पणी:   २−पूर्ववद् व्याख्येयः−अ० ३।८।६ ॥
 </details>
+

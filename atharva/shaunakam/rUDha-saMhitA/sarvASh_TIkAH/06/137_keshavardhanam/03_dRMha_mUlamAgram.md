@@ -23,6 +23,14 @@ Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let
 दृंह। मूलम्। आ। अग्रम्। यच्छ। वि। मध्यम्। यमय। ओषधे। केशाः। नडाःऽइव। वर्धन्ताम्। शीर्ष्णः। ते। असिताः। परि। १३७.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नितत्नीवनस्पतिः
+- वीतहव्य
+- अनुष्टुप्
+- केशवर्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 केश के बढ़ाने का उपदेश।
@@ -42,3 +50,4 @@ Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let
 
 टिप्पणी:   ३−(दृंह) दृढीकुरु (मूलम्) केशमूलम् (अग्रम्) अग्रभागम् (आ यच्छ) आयतं कुरु (मध्यम्) (वियमय) विविधं दीर्घीकुरु (ओषधे) अन्यत्पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 याम्। ते। चक्रुः। सभायाम्। याम्। चक्रुः। अधिऽदेवने। अक्षेषु। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्याप्रतिहरणम्
+- शुक्रः
+- अनुष्टुप्
+- कृत्यापरिहरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -42,3 +50,4 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 
 टिप्पणी:   ६−(सभायाम्) सह भान्ति यत्र। समाजे (अधिदेवने) दिवु क्रीडादिषु−ल्युट्। उपवनादौ क्रीडास्थाने (अक्षेषु) अ० ४।३८।५। व्यवहारेषु। अन्यद् गतम् ॥
 </details>
+

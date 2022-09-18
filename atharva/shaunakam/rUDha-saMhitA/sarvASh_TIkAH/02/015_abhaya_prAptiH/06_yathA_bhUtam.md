@@ -26,6 +26,14 @@ is "untruth" (vs. 5) to be commended as an example. ⌊Weber would read
 यथा। भूतम्। च। भव्यम्। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः, अपानः, आयुः
+- ब्रह्मा
+- त्रिपाद्गायत्री
+- अभय प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म के पालन में निर्भय रहे।
@@ -45,3 +53,4 @@ is "untruth" (vs. 5) to be commended as an example. ⌊Weber would read
 
 टिप्पणी:   ६–भूतम्। भू–क्त। अतीतम्। गतकालः। भव्यम्। भव्यगेयप्रवचनीयो०। पा० ३।४।६८। इति भू–यत्। भविष्यत्। अनागतम् ॥
 </details>
+

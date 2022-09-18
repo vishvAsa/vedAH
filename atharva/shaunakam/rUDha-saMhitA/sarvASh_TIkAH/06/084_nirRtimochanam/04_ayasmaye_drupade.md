@@ -24,6 +24,14 @@ Thou hast been fastened to an iron pillar, here compassed with a thousand deaths
 अयस्मये। द्रुऽपदे। बेधिषे। इह। अभिऽहितः। मृत्युऽभिः। ये। सहस्रम्। यमेन। त्वम्। पितृऽभिः। सम्ऽविदानः। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। ८४.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- निर्ऋतिः
+- अङ्गिरा
+- भुरिक्त्रिष्टुप्
+- निर्ऋतिमोचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
@@ -43,3 +51,4 @@ Thou hast been fastened to an iron pillar, here compassed with a thousand deaths
 
 टिप्पणी:   ४−(अयस्मये द्रुपदे) इत्येषा व्याख्याता−अ० ६।६३−३ ॥
 </details>
+

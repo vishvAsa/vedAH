@@ -35,6 +35,14 @@ We set thee round us as a fort, victorious Agni! thee, a sage, In conquering col
 परि। त्वा। अग्ने। पुरम्। वयम्। विप्रम्। सहस्य। धीमहि। धृषत्ऽवर्णम्। दिवेऽदिवे। हन्तारम्। भङ्गुरऽवतः। ३.२२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातनः
+- अनुष्टुप्
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -54,3 +62,4 @@ We set thee round us as a fort, victorious Agni! thee, a sage, In conquering col
 
 टिप्पणी:   २२-अयं मन्त्रो व्याख्यातः-अ० ७।७१।१ ॥
 </details>
+

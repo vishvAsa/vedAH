@@ -24,6 +24,14 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 नव। एव। ताः। नवतयः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १९.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मगवी
+- मयोभूः
+- अनुष्टुप्
+- ब्रह्मगवी सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नास्तिक के तिरस्कार का उपदेश।
@@ -43,3 +51,4 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 
 टिप्पणी:   ११−(नव नवतयः) नवगुणिता नवतयः। ९*९०=८१०। असङ्ख्याते इत्यर्थः (एव) अपि (ताः) जनताः। अन्यद् यथा−अ० ५।१८।१२ ॥
 </details>
+

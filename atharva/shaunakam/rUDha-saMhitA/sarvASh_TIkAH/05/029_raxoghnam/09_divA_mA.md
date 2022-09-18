@@ -26,6 +26,14 @@ If one, flesh-eater, in the day or night-time have wronged me lying in the bed o
 दिवा। मा। नक्तम्। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। तत्। आत्मना। प्रऽजया। पिशाचाः। वि। यातयन्ताम्। अगदः। अयम्। अस्तु। २९.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- जातवेदाः
+- चातनः
+- त्रिष्टुप्
+- रक्षोघ्न सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं और रोगों के नाश का उपदेश।
@@ -45,3 +53,4 @@ If one, flesh-eater, in the day or night-time have wronged me lying in the bed o
 
 टिप्पणी:   ९−(दिवा) दिने (नक्तम्) रात्रौ। अन्यद् यथा म० ८, ६ ॥
 </details>
+

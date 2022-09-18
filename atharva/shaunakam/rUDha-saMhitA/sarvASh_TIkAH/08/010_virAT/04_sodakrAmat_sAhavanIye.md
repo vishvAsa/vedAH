@@ -28,6 +28,14 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 सा। उत्। अक्रामत्। सा। आऽहवनीये। नि। अक्रामत्। १०.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- याजुषी जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -47,3 +55,4 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 
 टिप्पणी:   ४−(आहवनीये) आङ्+हु दानादानादनेषु-अनीयर्, यद्वा आहवन-छ-प्रत्ययः। यजनीये व्यवहारे। अन्यत् पूर्ववत् ॥
 </details>
+

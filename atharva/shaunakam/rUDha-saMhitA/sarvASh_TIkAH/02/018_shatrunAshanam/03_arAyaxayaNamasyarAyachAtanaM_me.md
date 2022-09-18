@@ -22,6 +22,14 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 अरायऽक्षयणम्। असि। अरायऽचातनम्। मे। दाः। स्वाहा। १८.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातनः
+- द्विपदा साम्नीबृहती
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
@@ -41,3 +49,4 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 
 टिप्पणी:   ३–अरायक्षयणम्। रा+दाने–घञ्, युक् आगमः। नञ्तत्पुरुषः। अरायस्य निर्धनत्वस्य नाशनम् ॥
 </details>
+

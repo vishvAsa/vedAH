@@ -34,6 +34,14 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 तया। अहम्। शत्रुन्। साक्षे। इन्द्रः। सालावृकान्ऽइव। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ओषधिः
+- कपिञ्जलः
+- अनुष्टुप्
+- शत्रुपराजय सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 बुद्धि से विवाद करे, इसका उपदेश।
@@ -53,3 +61,4 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 
 टिप्पणी:   ५–तया। पाटया। तत्प्रभावेन। शत्रून्। वैरिणः। साक्षे। षह अभिभवे–लेटि उत्तमे। अभिभवामि। असत्प्रायान् करोमि। सालावृकान्। सालायां गृहे वृक इव। शालावृकान्। कुक्कुरान् विडालान्। अन्यद् गतम् ॥
 </details>
+

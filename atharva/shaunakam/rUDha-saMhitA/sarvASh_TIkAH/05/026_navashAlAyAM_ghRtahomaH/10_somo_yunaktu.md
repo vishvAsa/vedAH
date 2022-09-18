@@ -22,6 +22,14 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 सोमः। युनक्तु। बहुऽधा। पयांसि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमः
+- ब्रह्मा
+- द्विपदा प्राजापत्या बृहती
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -41,3 +49,4 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 
 टिप्पणी:   १०−(सोमः) शान्तस्वभावः पुरुषः (पयांसि) अन्नानि−निघ० २।७। अन्यद् गतम् ॥
 </details>
+

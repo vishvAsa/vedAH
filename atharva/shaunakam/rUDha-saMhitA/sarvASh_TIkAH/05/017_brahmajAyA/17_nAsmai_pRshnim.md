@@ -23,6 +23,14 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 न। अस्मै। पृश्न‍िम्। वि। दुहन्ति। ये। अस्याः। दोहम्। उपऽआसते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मजाया
+- मयोभूः
+- अनुष्टुप्
+- ब्रह्मजाया सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -42,3 +50,4 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 
 टिप्पणी:   १७−(न) निषेधे (अस्मै) राज्ञे (पृश्निम्) स्पर्शवतीं भूमिम् (वि) विशेषेण (दुहन्ति) प्रपूरयन्ति (ये) पुरुषाः (अस्याः) पृश्नेः (दोहम्) रसम् (उपासते) सेवन्ते। अन्यद् यथा म० १२ ॥
 </details>
+

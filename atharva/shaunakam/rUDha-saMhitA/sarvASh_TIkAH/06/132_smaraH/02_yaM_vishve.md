@@ -21,6 +21,14 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 यम्। विश्वे। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपा‍मि। वरुणस्य। धर्मणा। १३२.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- त्रिपदा विराण्महाबृहती
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य प्राप्ति का उपदेश।
@@ -40,3 +48,4 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 
 टिप्पणी:   २−(विश्वे) सर्वे (देवाः) उत्तमगुणाः। अन्यत् पूर्ववत् ॥
 </details>
+

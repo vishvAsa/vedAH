@@ -27,6 +27,14 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ९५.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वनस्पतिः
+- भृग्वङ्गिरा
+- अनुष्टुप्
+- कुष्ठौषधि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों के गुणों का उपदेश।
@@ -46,3 +54,4 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 
 टिप्पणी:   २−(हिरण्ययी) तेजोमयी अग्निना विद्युता सूर्येण वा गन्त्री (दिवि) गमने ॥ अन्यद्यथा−अ० ५।४।४ ॥
 </details>
+

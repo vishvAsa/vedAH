@@ -25,6 +25,14 @@ As in a ship across the flood, transport us to felicity. His lustre flash our pa
 सः। नः। सिन्धुम्ऽइव। नावा। अति। पर्ष। स्वस्तये। अप। नः। शोशुचत्। अघम्। ३३.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ब्रह्मा
+- गायत्री
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
@@ -44,3 +52,4 @@ As in a ship across the flood, transport us to felicity. His lustre flash our pa
 
 टिप्पणी:   ८−(सः) स त्वम् (नः) अस्मान् (सिन्धुम् इव) यथा समुद्रं तथा (नावा) नौकया (अति) अतीत्य (पर्ष) पॄ पालनपूर्णयोः, लेटि अडागमः। सिब् बहुलं लेटि। पा० ३।१।३४। इति−सिप्। पारं प्रापय। (स्वस्तये) आनन्दाय। अन्यत् पूर्ववत ॥
 </details>
+

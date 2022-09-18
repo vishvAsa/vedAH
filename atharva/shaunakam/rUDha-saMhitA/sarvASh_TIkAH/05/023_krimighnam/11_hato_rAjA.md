@@ -23,6 +23,14 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। २३.११।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- कण्वः
+- अनुष्टुप्
+- कृमिघ्न सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 छोटे-छोटे दोषों के नाश का उपदेश।
@@ -42,3 +50,4 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 
 टिप्पणी:   ११−तथा−अ० २।३२।४। (हतः) नाशितो भवतु (राजा) अधिपतिः (क्रिमीणाम्) कीटानाम् (उत) अपि च (एषाम्) उपस्थितानाम् (स्थपतिः) द्वारपालः (हतः) (हतमाता) नष्टमातृकः (क्रिमिः) (हतभ्राता) नष्टमातृकः (हतस्वसा) नष्टभगिनीकः ॥
 </details>
+

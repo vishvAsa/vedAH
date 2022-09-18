@@ -28,6 +28,14 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 अग्ने। यत्। ते। तेजः। तेन। तम्। अतेजसम्। कृणु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- एकावसानानिचृद्विषमात्रिपाद्गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
@@ -47,3 +55,4 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 
 टिप्पणी:   ५–तेजः। अ० १।३५।३। तिज निशाने, तेज निशानपालनयोः–असुन्। कान्तिः। अतेजसम्। तिज, तेज–असुन्। नञ्समासः। कान्तिरहितम्। निस्तेजस्कम्। कृणु। कुरु ॥
 </details>
+

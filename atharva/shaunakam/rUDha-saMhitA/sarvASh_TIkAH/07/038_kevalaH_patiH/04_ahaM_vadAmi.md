@@ -30,6 +30,14 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 अहम्। वदामि। न। इत्। त्वम्। सभायाम्। अह। त्वम्। वद। मम। इत्। असः। त्वम्। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३९.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आसुरी वनस्पतिः
+- अथर्वा
+- अनुष्टुप्
+- केवलपति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह में प्रतिज्ञा का उपदेश।
@@ -49,3 +57,4 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 
 टिप्पणी:   ४−(अहम्) वधूः (वदामि) प्रतिजानामि (न) सम्प्रति-निरु० ७।३१। (इत्) एव (त्वम् त्वम्) वीप्सायां द्विर्वचनम् (सभायाम्) विद्वत्समाजे (अह) एव (वद) प्रतिजानीहि (मम) (इत्) एव। अन्यत्पूर्ववत् अ० ७।३७।१ ॥
 </details>
+

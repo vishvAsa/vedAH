@@ -20,3 +20,17 @@ All hail to Heaven!
 
 दिवे। स्वाहा। ९.१।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+दिवे। स्वाहा। ९.१।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वास्तोष्पतिः
+- ब्रह्मा
+- दैवी बृहती
+- आत्मा सूक्त
+</details>

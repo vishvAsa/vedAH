@@ -24,6 +24,14 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 ये। क्रिमयः। शितिऽकक्षाः। ये। कृष्णाः। शितिऽबाहवः। ये। के। च। विश्वऽरूपाः। तान्। क्रिमीन्। जम्भयामसि। २३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- कण्वः
+- अनुष्टुप्
+- कृमिघ्न सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 छोटे-छोटे दोषों के नाश का उपदेश।
@@ -43,3 +51,4 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 
 टिप्पणी:   ५−(ये) (क्रिमयः) कीटाः (शितिकक्षाः) कृष्णकक्षावन्तः (कृष्णाः) श्यामवर्णाः (शितिबाहवः) कृष्णभुजाः (के) केचित् (च) (विश्वरूपाः) सर्ववर्णाः (तान्) पूर्वोक्तान् (क्रिमीन्) कीटान् (जम्भयामसि) नाशयामः ॥
 </details>
+

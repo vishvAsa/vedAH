@@ -24,6 +24,14 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 त्रायमाणे। विश्वऽजिते। मा। परि। देहि। विश्वऽजित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वजित्
+- शन्ताति
+- अनुष्टुप्
+- विश्वजित् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख की प्राप्ति के लिये उपदेश।
@@ -43,3 +51,4 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 
 टिप्पणी:   २−यथा व्याख्यातम्−म० १ ॥
 </details>
+

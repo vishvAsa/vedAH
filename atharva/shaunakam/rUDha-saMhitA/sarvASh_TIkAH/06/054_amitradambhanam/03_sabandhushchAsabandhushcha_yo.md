@@ -26,6 +26,14 @@ The man who shows us enmity, whether a stranger or akin, Thou wilt give up entir
 सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नीषोमौ
+- ब्रह्मा
+- अनुष्टुप्
+- अमित्रदम्भन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राज्य की रक्षा के लिये उपदेश।
@@ -45,3 +53,4 @@ The man who shows us enmity, whether a stranger or akin, Thou wilt give up entir
 
 टिप्पणी:   ३−पूर्वार्द्धो व्याख्यातः−अ० ६।१५।२। उत्तरार्द्धः−अ० ६।६।१।
 </details>
+

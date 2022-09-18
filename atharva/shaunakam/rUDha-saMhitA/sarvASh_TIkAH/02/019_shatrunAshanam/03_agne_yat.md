@@ -22,6 +22,14 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 अग्ने। यत्। ते। अर्चिः। तेन। तम्। प्रति। अर्च। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- एकावसानानिचृद्विषमात्रिपाद्गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुप्रयोग के त्याग के लिये उपदेश।
@@ -41,3 +49,4 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 
 टिप्पणी:   ३–अर्चिः। अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः। उ० २।१०८। इति अर्च पूजाप्रकाशयोः–इसि। ज्वलतो नाम–निघ० १।१७। दीपनम्। ज्वाला। अर्च। ज्वलितो भव। दीप्यस्व ॥
 </details>
+

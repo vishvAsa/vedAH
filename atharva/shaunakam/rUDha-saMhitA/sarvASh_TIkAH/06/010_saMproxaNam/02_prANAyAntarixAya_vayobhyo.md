@@ -24,6 +24,14 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 प्राणाय। अन्तरिक्षाय। वयःऽभ्यः। वायवे। अधिऽपतये। स्वाहा। १०.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायुः
+- शन्ताति
+- प्राजापत्या बृहती
+- संप्रोक्षण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 स्वास्थ्य की रक्षा का उपदेश।
@@ -43,3 +51,4 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 
 टिप्पणी:   २−(प्राणाय) प्राणहिताय (अन्तरिक्षाय) मध्यलोकाय (वयोभ्यः) अ० २।१०।३। अन्नादिपदार्थेभ्यः (वायवे) गमनशीलाय पवनाय (अधिपतये) अन्तरिक्षस्य पालकाय (स्वाहा) सुन्दरस्तुतिः ॥
 </details>
+

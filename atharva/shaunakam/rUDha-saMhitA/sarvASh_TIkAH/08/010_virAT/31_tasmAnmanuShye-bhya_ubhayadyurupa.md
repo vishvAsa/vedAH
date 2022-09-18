@@ -22,6 +22,14 @@ And did he not repel, if in his spirit he said, I drive thee back, he would repe
 तस्मात्। मनुष्येभ्यः। उभयःऽद्युः। उप। हरन्ति। उप। अस्य। गृहे। हरन्ति। यः। एवम्। वेद। १२.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- आर्ची बृहती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -41,3 +49,4 @@ And did he not repel, if in his spirit he said, I drive thee back, he would repe
 
 टिप्पणी:   ८−(उभयद्युः) अ० ७।११६।२। उभयदिनयोः। प्रतिदिनमित्यर्थः। (उप हरन्ति) उपहारेण ददति श्रेष्ठपदार्थान् (गृहे) गेहे। अन्यत् पूर्ववत् ॥
 </details>
+

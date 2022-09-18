@@ -24,6 +24,14 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 देवाः। पितरः। पितरः। देवाः। यः। अस्मि। सः। अस्मि। १२३.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवाः
+- भृगु
+- द्विपदा साम्न्यनुष्टुप्
+- सौमनस्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों से सत्सङ्ग का उपदेश।
@@ -43,3 +51,4 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 
 टिप्पणी:   ३−(देवाः) विद्वांसः (पितरः) पालयितारः। माननीयाः (देवाः) विजिगीषवः (यः) या प्रापणे−ड। गन्ता। उद्योगी (अस्मि) अहं वर्ते (सः) षो अन्तकर्मणि−ड। दुःखनाशकः ॥
 </details>
+

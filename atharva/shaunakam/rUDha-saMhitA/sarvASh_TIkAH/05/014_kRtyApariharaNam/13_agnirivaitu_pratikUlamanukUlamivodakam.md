@@ -19,6 +19,14 @@ Let it go contrary like flame, like water following its course. Let witchcraft, 
 अग्निःऽइव। एतु। प्रतिऽकूलम्। अनुकूलम्ऽइव। उदकम्। सुखः। रथःऽइव। वर्तताम्। कृत्या। कृत्याऽकृतम्। पुनः। १४.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्यापरिहरणम्
+- शुक्रः
+- स्वराडनुष्टुप्
+- कृत्यापरिहरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रु के विनाश का उपदेश।
@@ -38,3 +46,4 @@ Let it go contrary like flame, like water following its course. Let witchcraft, 
 
 टिप्पणी:   १३−(अग्निरिव) अग्निर्यथा (एतु) गच्छतु, अस्माकं सेना (प्रतिकूलम्) यथा तथा विरुद्धपक्षम् (अनुकूलम्) तीरद्वयमनुसृत्य गमनशीलम् (उदकम्) जलम्। अन्यद् व्याख्यातम् म० ५ ॥
 </details>
+

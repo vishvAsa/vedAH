@@ -35,6 +35,14 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ४.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कुष्ठस्तक्मनाशनः
+- भृग्वङ्गिराः
+- अनुष्टुप्
+- कुष्ठतक्मनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -54,3 +62,4 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 
 टिप्पणी:   ४−(हिरण्ययी) हिरण्ययी तेजोमयी (नौः) अ० ३।६।७। तरणिः (अचरत्) अगमत् (हिरण्यबन्धना) तेजोमयबन्धनयुक्ता (दिवि) प्रकाशलोके (पुष्पम्) पुष्प विकसने−पचाद्यच्। विकाशम्। अन्यद् गतम्। म० ३ ॥
 </details>
+

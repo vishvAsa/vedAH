@@ -29,6 +29,14 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 वैश्वानरः। नः। ऊतये। आ। प्र। यातु। पराऽवतः। अग्निः। नः। सुऽस्तुतीः। उप। ३५.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वैश्वानरः
+- कौशिक
+- गायत्री
+- वैश्वनार सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 यश की प्राप्ति का उपदेश।
@@ -48,3 +56,4 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 
 टिप्पणी:   १−(वैश्वानरः) अ० १।१०।४। सर्वनरहितः (नः) अस्माकम् (ऊतये) रक्षायै (आ) अभिमुखम् (प्र) प्रकर्षेण (यातु) गच्छतु (परावतः) अ० ३।४।५। परागतात् उत्कर्षं प्राप्ताद् दूरगतात् स्थानाद् वा (अग्निः) सर्वव्यापकः (नः) अस्माकम् (सुष्टुतीः) यथाशास्त्रं स्तवान् (उप) उपयात ॥
 </details>
+

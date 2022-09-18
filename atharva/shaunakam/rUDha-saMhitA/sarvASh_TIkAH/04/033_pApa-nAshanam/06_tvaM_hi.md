@@ -22,6 +22,14 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 त्वम्। हि। विश्वतःऽमुख। विश्वतः। परिऽभूः। असि। अप। नः। शोशुचत्। अघम्। ३३.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ब्रह्मा
+- गायत्री
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
@@ -41,3 +49,4 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 
 टिप्पणी:   ६−(त्वम्) (हि) (विश्वतोमुख) हे मुखवत् सर्वोपदेशक, सर्वोत्तम, परमात्मन् (विश्वतः) सर्वतः (परिभूः) अ० ३।२१।४। ग्रहीता व्यापकः (असि) अन्यत् पूर्ववत् ॥
 </details>
+

@@ -27,6 +27,14 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 यज्ञ। यज्ञम्। गच्छ। यज्ञऽपतिम्। गच्छ। स्वाम्। योनिम्। गच्छ। स्वाहा। १०२.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- अथर्वा
+- त्रिपदार्ची भुरिग्गायत्री
+- यज्ञ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
@@ -46,3 +54,4 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 
 टिप्पणी:   ५−(यज्ञ) पूजनीय पुरुष (यज्ञम्) पूजनीयं व्यवहारम् (यज्ञपतिम्) पूजनीयव्यवहारस्य पालकम् (गच्छ) (स्वाम्) स्वकीयाम् (योनिम्) प्रकृतिम्। स्वभावम् (गच्छ) (स्वाहा) अ० २।१६।१। सुवाण्या। वेदवाचा ॥
 </details>
+

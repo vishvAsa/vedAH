@@ -24,6 +24,14 @@ To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our 
 कल्याणि। सर्वऽविदे। मा। परि। देहि। सर्वऽवित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वजित्
+- शन्ताति
+- अनुष्टुप्
+- विश्वजित् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख की प्राप्ति के लिये उपदेश।
@@ -43,3 +51,4 @@ To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our 
 
 टिप्पणी:   ४−(सर्वविदे) विद् ज्ञाने−क्विप्। सर्वज्ञाय परमेश्वराय। (सर्ववित्) हे सर्वज्ञ ॥अन्यत्पूर्ववत्॥
 </details>
+

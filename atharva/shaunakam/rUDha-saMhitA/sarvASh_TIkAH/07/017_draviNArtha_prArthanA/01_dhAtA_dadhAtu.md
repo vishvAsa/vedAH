@@ -26,6 +26,14 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 धाता। दधातु। नः। रयिम्। ईशानः। जगतः। पतिः। सः। नः। पूर्णेन। यच्छतु। १८.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता 
+- भृगुः
+- त्रिपदार्षी गायत्री
+- द्रविणार्थप्रार्थना सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहस्थ के कर्म का उपदेश।
@@ -45,3 +53,4 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 
 टिप्पणी:   १−(धाता) सर्वस्य विधाता-निरु० ११।१०। सृष्टिकर्ता (दधातु) ददातु (नः) अस्मभ्यम् (रयिम्) धनम् (ईशानः) ईश्वरः (जगतः) (पतिः) पालकः (सः) धाता (नः) अस्मान् (पूर्णेन) समस्तेन बलेन (यच्छतु) यम-लोट्। उद्यच्छतु। उन्नयतु ॥
 </details>
+

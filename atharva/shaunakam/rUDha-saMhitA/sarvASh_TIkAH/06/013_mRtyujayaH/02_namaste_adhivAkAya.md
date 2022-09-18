@@ -24,6 +24,14 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 नमः। ते। अधिऽवाकाय। पराऽवाकाय। ते। नमः। सुऽमत्यै। मृत्यो इति। ते। नमः। दुःऽमत्यै। ते। इदम्। नमः। १३.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मृत्युः
+- अथर्वा
+- अनुष्टुप्
+- मृत्युञ्जय सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मृत्यु की प्रबलता का उपदेश।
@@ -43,3 +51,4 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 
 टिप्पणी:   २−(नमः) सत्कारः (ते) तव (अधिवाकाय) वच परिभाषणे−घञ्, कुत्वम्। अनुग्रहवचनाय (परावाकाय) पराभववचनाय (सुमत्यै) शोभनायै बुद्ध्यै (मृत्यो) हे मरण ! (दुर्मत्यै) कठोरायै बुद्ध्यै (इदम्) क्रियमाणम् ॥
 </details>
+

@@ -25,6 +25,14 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 अग्ने। तपः। तप्यामहे। उप। तप्यामहे। तपः। श्रुतानि। शृण्वन्तः। वयम्। आयुष्मन्तः। सुऽमेधसः। ६३.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- अनुष्टुप्
+- तपः सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदविद्या प्राप्ति का उपदेश।
@@ -44,3 +52,4 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 
 टिप्पणी:   २−(तप्यामहे) साधयामः (श्रुतानि) वेदशास्त्राणि (शृण्वन्तः) श्रवणेन स्वीकुर्वन्तः। अन्यत् पूर्ववत्-म० १ ॥
 </details>
+

@@ -24,6 +24,14 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 सप्त। च। याः। सप्ततिः। च। सम्ऽयन्ति। ग्रैव्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्याविनाशनम् 
+- शुनः शेप
+- अनुष्टुप्
+- मन्याविनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश के लिये उपदेश।
@@ -43,3 +51,4 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 
 टिप्पणी:   २−(सप्त च सप्ततिश्च) सप्ताधिकसप्ततिसंख्यकाः (ग्रैव्याः) गम्भीराञ्ञ्यः। पा० ४।३।५८। इति बाहुलकात् ग्रीवा−ञ्य। ग्रीवासु भवा नाडीः। अन्यत्पूर्ववत् ॥
 </details>
+

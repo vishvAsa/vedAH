@@ -22,6 +22,14 @@ Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni,
 उत्। मादयत। मरुतः। उत्। अन्तरिक्ष। मादय। अग्ने। उत्। मादय। त्वम्। असौ। माम्। अनु। शोचतु। १३०.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- अनुष्टुप्
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 स्मरण सामर्थ्य बढ़ाने का उपदेश।
@@ -41,3 +49,4 @@ Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni,
 
 टिप्पणी:   ४−(उत्) उत्तमतया (मादयत) हर्षयत (मरुतः) हे मरुद्गणाः। प्राणापानाः (उत्) (अन्तरिक्ष) मध्यलोक (मादय) आनन्दय (अग्ने) जाठराग्ने। अन्यद् गतम् ॥
 </details>
+

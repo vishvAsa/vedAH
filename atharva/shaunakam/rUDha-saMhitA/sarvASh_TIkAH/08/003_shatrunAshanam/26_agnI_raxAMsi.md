@@ -27,6 +27,14 @@ Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Ra
 अग्निः। रक्षांसि। सेधति। शुक्रऽशोचिः। अमर्त्य। शुचिः। पावकः। ईड्यः। ३.२६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातनः
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -46,3 +54,4 @@ Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Ra
 
 टिप्पणी:   २६−(अग्निः) अग्निवत्तेजस्वी सेनाधीशः (रक्षांसि) दुष्टान् (सेधति) षिधु शासने। शास्ति (शुक्रशोचिः) शुद्धतेजाः (अमर्त्यः) अमरणधर्मा। महापुरुषार्थी (शुचिः) पवित्रः (पावकः) संशोधकः (ईड्यः) स्तुत्यः। अन्वेषणीयः ॥
 </details>
+

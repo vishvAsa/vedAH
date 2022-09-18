@@ -24,6 +24,14 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 यम्। ग्रामम्। आऽविशते। इदम्। उग्रम्। सहः। मम। पिशाचाः। तस्मात्। नश्यन्ति। न। पापम्। उप। जानते। ३६.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सत्यौजा अग्निः
+- चातनः
+- अनुष्टुप्
+- सत्यौजा अग्नि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -43,3 +51,4 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 
 टिप्पणी:   ८−(यम्) (ग्रामम्) वसतिम् (आविशते) प्रविशति (इदम्) (उग्रम्) तीक्ष्णम् (सहः) बलम् (मम) मदीयम् (पिशाचाः, तस्मात्, नश्यन्ति) म० ७। (न) निषेधे (पापम्) पाति यस्मात् तत्। अनिष्टम् (उप जानते) अवबुध्यन्ते ॥
 </details>
+

@@ -29,6 +29,14 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 असौ। मे। स्मरतात्। इति। प्रियः। मे। स्मरतात्। इति। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- अनुष्टुप्
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 स्मरण सामर्थ्य बढ़ाने का उपदेश।
@@ -48,3 +56,4 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 
 टिप्पणी:   २−(असौ) स्मरः (मे) अधीगर्थदयेशां कर्मणि। पा० २।३।५२। इति षष्ठी। मम (स्मरतात्) स्मृ लोटि तातङ्। स्मरतु (इति) वाक्यसमाप्तौ (प्रियः) हितकरः। अन्यद्गतम् ॥
 </details>
+

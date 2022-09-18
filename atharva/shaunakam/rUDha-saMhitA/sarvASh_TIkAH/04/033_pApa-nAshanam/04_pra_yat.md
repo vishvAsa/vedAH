@@ -22,6 +22,14 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 प्र। यत्। ते। अग्ने। सूरयः। जायेमहि। प्र। ते। वयम्। अप। नः। शोशुचत्। अघम्। ३३.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ब्रह्मा
+- गायत्री
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
@@ -41,3 +49,4 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 
 टिप्पणी:   ४−(प्र) इत्यस्य, जायेमहि, इति क्रियया सह सम्बन्धः। प्रजायन्ते प्रजाः सन्ति (यत्) यस्य (ते) तव (अग्ने) परमात्मन् (सूरयः) विद्वांसः (प्र जायेमहि) प्रजा भवेम (ते) तस्य तव (वयम्) उपासकाः। अन्यद्गतम् ॥
 </details>
+

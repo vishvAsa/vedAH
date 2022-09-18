@@ -25,6 +25,14 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 युनक्तु। देवः। सविता। प्रऽजानन्। अस्मिन्। यज्ञे। महिषः। स्वाहा। २६.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- ब्रह्मा
+- द्विपदा प्राजापत्या बृहती
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -44,3 +52,4 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 
 टिप्पणी:   २−(युनक्तु) उपयोगे करोतु−यजूंषि समिध इति अनुवर्त्तेते, म० १ (देवः) व्यवहारकुशलः (सविता) प्रेरकः प्रधानपुरुषः (प्रजानन्) प्रविद्वान् (महिषः) अ० २।३५।४। महान्। अन्यत् पूर्ववत् ॥
 </details>
+

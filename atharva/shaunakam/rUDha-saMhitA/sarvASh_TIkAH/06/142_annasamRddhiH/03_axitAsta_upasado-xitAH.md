@@ -34,6 +34,14 @@ Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustle
 अक्षिताः। ते। उपऽसदः। अक्षिताः। सन्तु। राशयः। पृणन्तः। अक्षिताः। सन्तु। अत्तारः। सन्तु। अक्षिताः। १४२.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायुः
+- विश्वामित्र
+- अनुष्टुप्
+- अन्नसमृद्धि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अन्न की वृद्धि का उपदेश।
@@ -53,3 +61,4 @@ Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustle
 
 टिप्पणी:   ३−(अक्षिताः) अक्षीणाः (ते) तव (उपसदः) उपसत्तारः कर्मकराः (सन्तु) (राशयः) अशिपणाय्योरुडायलुकौ च। उ० ४।१३३। अशू व्याप्तौ−इण्, रुट् च। धान्यपुञ्जाः (पृणन्तः) अन्नं पूरयन्तः (अत्तारः) भोक्तारः। अन्यत्पूर्ववत् ॥
 </details>
+

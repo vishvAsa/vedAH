@@ -26,6 +26,14 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 दिक्षु। चन्द्राय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिक्षु। चन्द्राय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- दिशः
+- अङ्गिराः
+- त्रिपदा महाबृहती
+- सन्नति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
@@ -45,3 +53,4 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 
 टिप्पणी:   ७−(दिक्षु) प्राच्यादिषु (चन्द्राय) आह्लादकाय चन्द्रमसे। अन्यत् पूर्ववत्। म० १ ॥
 </details>
+

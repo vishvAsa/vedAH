@@ -25,6 +25,14 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 याः। ते। शतम्। धमनयः। अङ्गानि। अनु। विऽस्थिताः। तासाम्। ते। सर्वासाम्। वयम्। निः। विषाणि। ह्वयामसि। ९०.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रुद्रः
+- अथर्वा
+- अनुष्टुप्
+- इषुनिष्कासन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कर्म के फल का उपदेश।
@@ -44,3 +52,4 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 
 टिप्पणी:   २−(याः) (ते) तव (शतम्) बह्व्यः (धमनयः) नाड्यः, अङ्गानि शरीरावयवान् (अनु) अनुसृत्य (विष्ठिताः) विविधं स्थिताः (तासाम्) (ते) तव (सर्वासाम्) धमनीनाम् (वयम्) (निः) निष्कृष्य (विषाणि) दुःखानि (ह्वयामसि) आह्वयामः ॥
 </details>
+

@@ -28,6 +28,14 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 सा। उत्। अक्रामत्। सा। मनुष्यान्। आ। अगच्छत्। ताम्। मनुष्याः। अघ्नत। सा। सद्यः। सम्। अभवत्। १२.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- चतुष्पदा प्राजापत्या पङ्क्तिः
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -47,3 +55,4 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 
 टिप्पणी:   ७−(मनुष्यान्) मननशीलान् मनुष्यान् (सद्यः) अ० २।१।४। तत्क्षणम्। अन्यत् सुगमम् ॥
 </details>
+

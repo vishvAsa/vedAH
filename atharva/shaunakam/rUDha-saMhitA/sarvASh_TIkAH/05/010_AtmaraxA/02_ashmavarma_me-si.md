@@ -21,3 +21,17 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 
 अश्मऽवर्म। मे। असि। यः। मा। दक्षिणायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.२।
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+अश्मऽवर्म। मे। असि। यः। मा। दक्षिणायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.२।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वास्तोष्पतिः
+- ब्रह्मा
+- यवमध्या त्रिपदा गायत्री
+- आत्मा रक्षा सूक्त
+</details>

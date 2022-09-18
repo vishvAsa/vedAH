@@ -26,6 +26,14 @@ Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to
 नमः। ते। रुद्र। अस्यते। नमः। प्रतिऽहितायै। नमः। विऽसृज्यमानायै। नमः। निऽपतितायै। ९०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रुद्रः
+- अथर्वा
+- आर्षी भुरिगुष्णिक्
+- इषुनिष्कासन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कर्म के फल का उपदेश।
@@ -45,3 +53,4 @@ Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to
 
 टिप्पणी:   ३−(नमः) सत्कारः (ते) तुभ्यम् (रुद्र) हे पापिनां रोदयितः परमेश्वर (अस्यते) इषुं क्षिपते (प्रतिहितायै) हननाय संहितायै त्वदीयेषवे (विसृज्यमानायै) प्रेर्यमाणायै (निपतितायै) लक्ष्ये अधः पतितायै ॥
 </details>
+

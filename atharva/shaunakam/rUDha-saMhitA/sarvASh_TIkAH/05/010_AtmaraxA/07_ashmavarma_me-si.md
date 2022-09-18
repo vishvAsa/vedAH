@@ -26,6 +26,14 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 अश्मऽवर्म। मे। असि। यः। मा। दिशाम्। अन्तःऽदेशेभ्यः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वास्तोष्पतिः
+- ब्रह्मा
+- यवमध्याककुप्
+- आत्मा रक्षा सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की उत्तमता का उपदेश।
@@ -45,3 +53,4 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 
 टिप्पणी:   ७−(दिशाम्) दिशानाम् (अन्तर्देशेभ्यः) अन्तरालेभ्यः ॥
 </details>
+

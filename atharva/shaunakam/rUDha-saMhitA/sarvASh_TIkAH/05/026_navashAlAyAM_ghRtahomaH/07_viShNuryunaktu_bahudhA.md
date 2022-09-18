@@ -23,6 +23,14 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 विष्णुः। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विष्णुः
+- ब्रह्मा
+- द्विपदा प्राजापत्या बृहती
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -42,3 +50,4 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 
 टिप्पणी:   ७−(विष्णुः) कर्मसु व्यापकः पुरुषः (युनक्तु) योजयतु (बहुधा) अनेकप्रकारेण (तपांसि) तप संतापे ऐश्वर्ये च−असुन्। ऐश्वर्याणि। विभूतयः। अन्यद् गतम् ॥
 </details>
+

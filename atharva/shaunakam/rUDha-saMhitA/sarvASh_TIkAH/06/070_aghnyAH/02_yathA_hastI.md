@@ -26,6 +26,14 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 यथा। हस्ती। हस्तिन्याः। पदेन। पदम्। उत्ऽयुजे। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अघ्न्या
+- काङ्कायन 
+- जगती
+- अघ्न्या सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की भक्ति का उपदेश।
@@ -45,3 +53,4 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 
 टिप्पणी:   २−(यथा) (हस्ती) हस्ताज्जातौ। पा० ५।२।१३३। इति−णिनि। गजः (हस्तिन्याः) करेण्वाः (पदम्) पादम् (उद्युजे) युजिर् योगे, छान्दसो विकरणस्य लुक्। उद्युङ्क्ते। उन्नमयति। अन्यत्पूर्ववत् ॥
 </details>
+

@@ -24,6 +24,14 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 सा। उत्। अक्रामत्। सा। आऽमन्त्रणे। नि। अक्रामत्। १०.१२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- याजुषी जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -43,3 +51,4 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 
 टिप्पणी:   १२− (आमन्त्रणे) आङ्+मत्रि गुप्तपरिभाषणे-ल्युट्। सम्बोधने। अभिनन्दने। अन्यत् पूर्ववत् ॥
 </details>
+

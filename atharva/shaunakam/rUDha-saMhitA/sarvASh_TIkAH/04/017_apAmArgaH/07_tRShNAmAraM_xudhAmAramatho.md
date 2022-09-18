@@ -23,6 +23,14 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 तृष्णाऽमारम्। क्षुधाऽमारम्। अथो इति। अक्षऽपराजयम्। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.७।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपामार्गो वनस्पतिः
+- शुक्रः
+- अनुष्टुप्
+- अपामार्ग सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के लक्षणों का उपदेश।
@@ -42,3 +50,4 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 
 टिप्पणी:   ७−(अथो) अपि च (अक्षपराजयम्) अक्षू व्याप्तौ-पचाद्यच् घञ् वा। यद्वा। अशेर्देवने। उ० ३।६५। इति अशू व्याप्तौ स प्रत्ययः। अक्षाणां व्यवहाराणाम् इन्द्रियाणां वा पराजयं पराभवम्। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -23,6 +23,14 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 ते। त्वा। रक्षन्तु। ते। त्वा। गोपायन्तु। तेभ्यः। नमः। तेभ्यः। स्वाहा। १.१४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आयुः
+- ब्रह्मा
+- एकावसाना द्विपदा साम्नी भुरिग्बृहती
+- दीर्घायु सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य कर्त्तव्य का उपदेश।
@@ -42,3 +50,4 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 
 टिप्पणी:   १४−(ते)-म० ११-१३। अग्निपृथिव्यादिपदार्थाः (रक्षन्तु) पालयन्तु (त्वा) त्वाम् (गोपायन्तु) सर्वतो रक्षन्तु (नमः) सत्कारः (स्वाहा) अ० २।१६।१। सुवाणी। स्तुतिः। अन्यत्सुगमम् ॥
 </details>
+

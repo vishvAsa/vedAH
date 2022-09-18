@@ -27,6 +27,14 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 सा। उत्। अक्रामत्। सा। पितृन्। आ। अगच्छत्। ताम्। पितरः। अघ्नत। सा। मासि। सम्। अभवत्। १२.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- चतुष्पदा प्राजापत्या पङ्क्तिः
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
@@ -46,3 +54,4 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 
 टिप्पणी:   ३−(पितॄन्) ऋतून्-दयानन्दभाष्ये, यजु० ८।६०। (पितरः) ऋतवः (मासि) मासे मासे। चन्द्रमसि। अन्यत् पूर्ववत् ॥
 </details>
+

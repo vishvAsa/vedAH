@@ -28,6 +28,14 @@ Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy
 शिवा। नः। शम्ऽतमा। भव। सुऽमृडीका। सरस्वति। मा। ते। युयोम। सम्ऽदृशः। ७१.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सरस्वती
+- शन्तातिः
+- गायत्री
+- सरस्वती सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सरस्वती की आराधना का उपदेश।
@@ -47,3 +55,4 @@ Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy
 
 टिप्पणी:   ३−(शिवा) कल्याणी (नः) अस्मभ्यम् (शंतमा) अत्यर्थं रोगनिवारिका (भव) (सुमृडीका) अत्यन्तं सुखदा (सरस्वति) (ते) तव (मा युयोम) यौतेर्लोटि शपः श्लुः। पृथग्भूता मा भवेम (संदृशः) दृशिर्-क्विप्। समीचीनाद् दर्शनात्। यथार्थस्वरूपज्ञानात् ॥
 </details>
+

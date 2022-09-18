@@ -23,6 +23,14 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 यथा। उदकम्। अपपुषः। अपऽशुष्यति। आस्यम्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वनस्पतिः
+- अथर्वा
+- अनुष्टुप्
+- सौभाग्यवर्धन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहस्थ आश्रम में प्रवेश के लिये उपदेश।
@@ -42,3 +50,4 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 
 टिप्पणी:   ४−(यथा) येन प्रकारेण (उदकम्) जलम् (अपपुषः) पा पाने−लिटः क्वसुः। अपीतवतस्तृषितस्य पुरुषस्य (अपशुष्यति) शुष्कं भवति (आस्यम्) मुखम् (एव) एवम्। अन्यद्गतम्−म० २ ॥
 </details>
+

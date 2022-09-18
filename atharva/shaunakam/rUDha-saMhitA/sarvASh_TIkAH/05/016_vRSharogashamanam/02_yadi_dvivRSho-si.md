@@ -23,6 +23,14 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 यदि। द्विऽवृषः। असि। सृज। अरसः। असि। १६.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- एकवृषः
+- विश्वामित्रः
+- आसुर्यनुष्टुप्
+- वृषरोगनाशमन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ का उपदेश।
@@ -42,3 +50,4 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 
 टिप्पणी:   २−(द्विवृषः) द्वाभ्यां परमात्मात्मभ्यां वृषो वृषा, ऐश्वर्यवान् ॥
 </details>
+

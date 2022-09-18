@@ -30,6 +30,14 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 जीवलाम्। नघऽरिषाम्। जीवन्तीम्। ओषधीम्। अहम्। अरुन्धतीम्। उत्ऽनयन्तीम्। पुष्पाम्। मधुऽमतीम्। इह। हुवे। अस्मै। अरिष्टऽतातये। ७.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भैषज्यम्, आयुष्यम्, ओषधिसमूहः
+- अथर्वा
+- पथ्यापङ्क्तिः
+- ओषधि समूह सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
@@ -49,3 +57,4 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 
 टिप्पणी:   ६−(अरुन्धतीम्) अ० ४।१२।१। अवारयित्रीम् (उन्नयन्तीम्) उन्नतिकरीम् (पुष्पाम्) अर्शआद्यच्, टाप्। बहुपुष्पवतीम् (मधुमतीम्) माधुर्योपेताम्। अन्यत्पूर्ववत्-अ० ८।२।६ ॥
 </details>
+

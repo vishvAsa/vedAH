@@ -23,6 +23,14 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 सा। उत्। अक्रामत्। सा। दक्षिणऽअग्नौ। नि। अक्रामत्। १०.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विराट्
+- अथर्वाचार्यः
+- याजुषी जगती
+- विराट् सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
@@ -42,3 +50,4 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 
 टिप्पणी:   ६−(दक्षिणाग्नौ) द्रुदक्षिभ्यामिनन्। उ० २।५०। दक्ष वृद्धौ-इनन्। प्रवृद्धे पावके सूर्यस्य यज्ञस्य वा। अन्यत् पूर्ववत् ॥
 </details>
+

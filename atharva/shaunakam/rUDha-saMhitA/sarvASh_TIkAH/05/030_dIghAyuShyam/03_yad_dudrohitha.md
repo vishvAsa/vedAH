@@ -22,6 +22,14 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 यत्। दुद्रोहिथ। शेपिषे। स्त्रियै। पुसे। अचित्त्या। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आयुः
+- चातनः
+- अनुष्टुप्
+- दीर्घायुष्य सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आत्मा के उन्नति का उपदेश।
@@ -41,3 +49,4 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 
 टिप्पणी:   ३−(यत्) यदि (दुद्रोहिथ) द्रुह−लिट्। अनिष्टं चिन्तितवानसि (शेपिषे) शपितवानसि (स्त्रियै) (पुंसे) पुरुषाय (अचित्त्या) अचेतनया। अन्यद् गतम् ॥
 </details>
+

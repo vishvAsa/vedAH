@@ -28,6 +28,14 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 इन्द्रः। उक्थऽमदानि। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुजः। स्वाहा। २६.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- ब्रह्मा
+- त्रिपदा विराड्गायत्री
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -47,3 +55,4 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 
 टिप्पणी:   ३−(इन्द्रः) परमैश्वर्यवान् पुरुषः (उक्थमदानि) उक्थानि−अ० २।१२।२। वक्तव्यानि शास्त्राणि, मदानि हर्षकर्माणि च (सुयुजः) युजिर् योगे−इगुपधत्वात् कः। सुयोग्यः। अन्यद् गतम् ॥
 </details>
+

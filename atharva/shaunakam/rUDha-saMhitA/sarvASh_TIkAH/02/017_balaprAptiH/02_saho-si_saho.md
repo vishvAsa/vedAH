@@ -22,6 +22,14 @@ Might art thou, give me might. All hail!
 सहः। असि। सहः। मे। दाः। स्वाहा। १७.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः, अपानः, आयुः
+- ब्रह्मा
+- एदपदासुरीत्रिष्टुप्
+- बल प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने के लिये उपदेश।
@@ -41,3 +49,4 @@ Might art thou, give me might. All hail!
 
 टिप्पणी:   २–सहः। षह अभिभवे, क्षमायाम्–असुन्। मानसिकबलम्। पराक्रमः ॥
 </details>
+

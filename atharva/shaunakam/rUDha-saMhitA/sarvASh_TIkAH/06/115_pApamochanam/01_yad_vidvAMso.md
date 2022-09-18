@@ -27,6 +27,14 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 यत्। विद्वांसः। यत्। अविद्वांसः। एनांसि। चकृम। वयम्। यूयम्। नः। तस्मात्। मुञ्चत। विश्वे। देवाः। सऽजोषसः। ११५.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवाः
+- ब्रह्मा
+- अनुष्टुप्
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप से मुक्ति का उपदेश।
@@ -46,3 +54,4 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 
 टिप्पणी:   १−(यत्) यदि (विद्वांसः) जानन्तः (यत्) यदि (अविद्वांसः) अजानानाः (एनांसि) अ० २।१०।८। अपराधान् (चकृम) कृतवन्तः (वयम्) (यूयम्) (नः) अस्मान् (तस्मात्) अपराधात् (मुञ्चत) (विश्वे) (देवाः) (सजोषसः) अ० ३।२२।१। समानप्रीतयः ॥
 </details>
+

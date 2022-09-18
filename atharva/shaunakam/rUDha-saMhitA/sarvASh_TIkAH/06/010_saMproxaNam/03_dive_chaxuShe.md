@@ -24,6 +24,14 @@ All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 दिवे। चक्षुषे। नक्षत्रेभ्यः। सूर्याय। अधिऽपतये। स्वाहा। १०.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- शन्ताति
+- साम्नी बृहती
+- संप्रोक्षण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 स्वास्थ्य की रक्षा का उपदेश।
@@ -43,3 +51,4 @@ All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 
 टिप्पणी:   ३−(दिवे) प्रकाशाय (चक्षुषे) दर्शनशक्तये (नक्षत्रेभ्यः) नक्षत्रज्ञानेभ्यः (सूर्याय) अ० १।३।५। लोकप्रेरकाय दिवाकराय (अधिपतये) प्रकाशस्य महारक्षकाय ॥
 </details>
+

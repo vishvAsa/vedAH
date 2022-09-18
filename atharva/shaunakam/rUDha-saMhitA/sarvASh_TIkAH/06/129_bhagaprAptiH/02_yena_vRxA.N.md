@@ -24,6 +24,14 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 येन। वृक्षान्। अभिऽअभवः। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.२।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भगः
+- अथर्वा
+- अनुष्टुप्
+- भगप्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य पाने का उपदेश।
@@ -43,3 +51,4 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 
 टिप्पणी:   २−(येन) यादृशेन (वृक्षान्) अ० ३।६।८। सर्वान् स्वीकरणीयान् पदार्थान् (अभ्यभवः) पराजितवानसि (भगेन) ऐश्वर्येण (वर्चसां सह) तेजसा सहितेन (तेन) तादृशेन (मा) माम् (भगिनम्) ऐश्वर्यवन्तम् (कृणु) कुरु। अन्यद्गतम्−म० १ ॥
 </details>
+

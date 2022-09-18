@@ -23,6 +23,14 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 सदान्वाऽक्षयणम्। असि। सदान्वाऽचातनम्। मे। दाः। स्वाहा। १८.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातनः
+- द्विपदा साम्नीबृहती
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं से रक्षा करनी चाहिये–इसका उपदेश।
@@ -42,3 +50,4 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 
 टिप्पणी:   ५–सदान्वाक्षयणम्। अ० २।१४।१। सदानोनुवानां सर्वदा शब्दकारिकानां वा दानवै राक्षसैः सह वर्त्तमानानां दरिद्रतादिविपत्तीनां नाशनम् ॥
 </details>
+

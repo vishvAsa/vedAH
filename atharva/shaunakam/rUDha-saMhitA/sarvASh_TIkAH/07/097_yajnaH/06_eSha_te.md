@@ -30,6 +30,14 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 एषः। ते। यज्ञः। यज्ञऽपते। सहऽसूक्तवाकः। सुऽवीर्यः। स्वाहा। १०२.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- अथर्वा
+- त्रिपदा प्राजापत्या बृहती
+- यज्ञ सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्य धर्म का उपदेश।
@@ -49,3 +57,4 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 
 टिप्पणी:   ६−(एषः) (ते) तव (यज्ञः) पूजनीयो व्यवहारः (यज्ञपते) पूजनीयो व्यवहारस्य पालक (सहसूक्तवाकः) सह+सु+उक्त+वच परिभाषणे-घञ्। शोभनानां मुक्तानां वचनानां वाकैर्भाषणैः सहितः (सुवीर्यः) उत्तमपराक्रमयुक्तः (स्वाहा) सुवाण्या ॥
 </details>
+

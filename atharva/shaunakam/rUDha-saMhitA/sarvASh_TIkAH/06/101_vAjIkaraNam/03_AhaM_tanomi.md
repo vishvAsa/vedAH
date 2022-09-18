@@ -24,6 +24,14 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 आ। अहम्। तनोमि। ते। पसः। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋशःऽइव। रोहितम्। अनवऽग्लायता। सदा। १०१.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मणस्पतिः
+- अथर्वाङ्नगिरा
+- अनुष्टुप्
+- बलवर्धक सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -43,3 +51,4 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 
 टिप्पणी:   ३−अयं मन्त्रो व्याख्येयो यथा−अ० ४।४।४७ ॥
 </details>
+

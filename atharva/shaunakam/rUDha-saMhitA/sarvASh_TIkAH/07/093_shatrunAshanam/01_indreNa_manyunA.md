@@ -29,6 +29,14 @@ With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destro
 इन्द्रेण। मन्युना। वयम्। अभि। स्याम। पृतन्यतः। घ्नन्तः। वृत्राणि। अप्रति। ९८.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- भृग्वङ्गिराः
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शूरों के लक्षणों का उपदेश।
@@ -48,3 +56,4 @@ With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destro
 
 टिप्पणी:   १−(इन्द्रेण) परमैश्वर्यवता सेनापतिना (मन्युना) क्रोधेन (वयम्) सैनिकाः (अभि स्याम) अभिभवेम (पृतन्यतः) अ० १।२१।२। पृतनां सेनामात्मन इच्छतः शत्रून् (घ्नन्तः) मारयन्तः (वृत्राणि) आवरकाणि सेनादलानि (अप्रति) प्रतिपक्षम् ॥
 </details>
+

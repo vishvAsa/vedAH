@@ -22,6 +22,14 @@ Life art thou, give me life. All hail!
 आयुः। असि। आयुः। मे। दाः। स्वाहा। १७.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राणः, अपानः, आयुः
+- ब्रह्मा
+- एदपदासुरीत्रिष्टुप्
+- बल प्राप्ति सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने के लिये उपदेश।
@@ -41,3 +49,4 @@ Life art thou, give me life. All hail!
 
 टिप्पणी:   ४–आयुः। अ० १।३०।३। इण् गतौ–उसि, स च णित्। जीवनम्। जीवनकारणम् ॥
 </details>
+

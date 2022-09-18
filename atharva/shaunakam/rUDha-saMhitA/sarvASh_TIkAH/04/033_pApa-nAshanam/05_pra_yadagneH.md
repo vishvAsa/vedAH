@@ -32,6 +32,14 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 प्र। यत्। अग्नेः। सहस्वतः। विश्वतः। यन्ति। भानवः। अप। नः। शोशुचत्। अघम्। ३३.५।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ब्रह्मा
+- गायत्री
+- पापनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
@@ -51,3 +59,4 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 
 टिप्पणी:   ५−(प्र) प्रकर्षेण (यत्) यस्मात् (अग्नेः) परमात्मनः (सहस्वतः) बलवतः (विश्वतः) सर्वतः (यन्ति) गच्छन्ति (भानवः) प्रकाशाः। अन्यत् पूर्ववत् ॥
 </details>
+

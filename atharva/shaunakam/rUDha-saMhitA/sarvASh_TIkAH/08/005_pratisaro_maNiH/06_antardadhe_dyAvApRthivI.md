@@ -26,6 +26,14 @@ I have obscured the heaven and earth, yea, and the daylight and the sun. So may 
 अन्तः। दधे। द्यावापृथिवी इति। उत। अहः। उत। सूर्यम्। ते। मे। देवाः। पुरःऽहिताः। प्रतीचीः। कृत्याः। प्रतिऽसरैः। अजन्तु। ५.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कृत्यादूषणम् अथवा मन्त्रोक्ताः
+- शुक्रः
+- उपरिष्टाद्बृहती
+- प्रतिसरमणि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 हिंसा के नाश का उपदेश।
@@ -45,3 +53,4 @@ I have obscured the heaven and earth, yea, and the daylight and the sun. So may 
 
 टिप्पणी:   ६−(अन्तः) मध्ये (दधे) धरामि (द्यावापृथिवी) आकाशभूमी। तत्रत्यान् पदार्थान् (उत) अपि च (अहः) दिनम् (उत) (सूर्यम्) आदित्यम्। शिष्टं पूर्ववत्-म० ५ ॥
 </details>
+

@@ -25,6 +25,14 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 अपाम्। अग्निः। तनूभिः। सम्ऽविदानः। यः। ओषधीनाम्। अधिऽपा। बभूव। सः। नः। वर्षम्। वनुताम्। जातऽवेदाः। प्राणम्। प्रऽजाभ्यः। अमृतम्। दिवः। परि। १५.१०।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- भुरिक्त्रिष्टुप्
+- वृष्टि सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वृष्टि की प्रार्थना और गुणों का उपदेश।
@@ -44,3 +52,4 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 
 टिप्पणी:   ९−(आपः) जलधाराः (विद्युत्) तडित् (अभ्रम्) उदकपूर्णो मेघः (वर्षम्) वृष्टिजलम् (प्र) प्रकर्षेण। अन्यद् यथा म० ७ ॥
 </details>
+

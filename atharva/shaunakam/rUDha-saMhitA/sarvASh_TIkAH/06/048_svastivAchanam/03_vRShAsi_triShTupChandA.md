@@ -25,6 +25,14 @@ Thou art the Bull, the Trishtup's lord: I hold thee fast. Happily bear me to the
 वृषा। असि। त्रिस्तुप्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वृषा
+- यम
+- उष्णिक्
+- स्वस्तिवाचन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा के गुणों का उपदेश।
@@ -44,3 +52,4 @@ Thou art the Bull, the Trishtup's lord: I hold thee fast. Happily bear me to the
 
 टिप्पणी:   ३−(वृषा) अ० १।१२।१। ऐश्वर्यवान् परमात्मा (त्रिष्टुच्छन्दाः) ष्टुभ स्तम्भे−क्विप्। तापत्रयस्य आध्यात्मिकाधिभौतिकाधिदैविकरूपस्य स्तोभने वर्जने छन्दः स्वातन्त्र्यं यस्य सः। अन्यत् पूर्ववत्−म० १ ॥
 </details>
+

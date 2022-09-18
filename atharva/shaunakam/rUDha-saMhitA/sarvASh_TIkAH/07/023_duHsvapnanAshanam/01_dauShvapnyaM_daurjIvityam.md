@@ -22,6 +22,14 @@ The fearful dream, and indigence, the monster, the malignant hags. All female fi
 दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्वम्। अराय्यः। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। २४.१।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- दुःष्वप्ननाशनम्
+- यमः
+- अनुष्टुप्
+- दुष्वप्नाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
@@ -41,3 +49,4 @@ The fearful dream, and indigence, the monster, the malignant hags. All female fi
 
 टिप्पणी:   १-अयं मन्त्रो व्याख्यातः-अ० ४।१७।५ ॥
 </details>
+

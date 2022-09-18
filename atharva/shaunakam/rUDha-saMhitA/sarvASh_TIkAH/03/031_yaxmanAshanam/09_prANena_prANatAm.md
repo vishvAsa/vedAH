@@ -25,6 +25,14 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 प्राणेन। प्राणताम्। प्र। अन। इह। एव। भव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आयुः
+- ब्रह्मा
+- अनुष्टुप्
+- यक्ष्मनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने का उपदेश।
@@ -44,3 +52,4 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 
 टिप्पणी:   ९−(प्राणेन) प्रकृष्टजीवनेन। श्वासप्रश्वासव्यापारेण। (प्राणताम्) प्र+अन जीवने-शतृ। श्वसताम्। आत्मवत्ताम्। (प्राण) प्राणान् धारय। (इह एव) अस्मिन्नेव जन्मनि लोके वा। (भव) वर्तस्व। अन्यद् गतम् ॥
 </details>
+

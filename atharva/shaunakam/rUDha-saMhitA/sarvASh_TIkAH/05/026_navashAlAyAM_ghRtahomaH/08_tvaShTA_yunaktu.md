@@ -28,6 +28,14 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 त्वष्टा। युनक्तु। बहुऽधा। नु। रूपाः। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.८।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्वष्टा
+- ब्रह्मा
+- द्विपदा प्राजापत्या बृहती
+- नवशाला सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
@@ -47,3 +55,4 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 
 टिप्पणी:   ८−(त्वष्टा) अ० २।५।६। सूक्ष्मदर्शी पुरुषः (नु) क्षिप्रम् (रूपाः) अर्शआदिभ्योऽच्। पा० ५।२।१२७। इति रूप−अच् भूम्नि। अनेकरूपवतीः क्रियाः। अन्यत् पूर्ववत् ॥
 </details>
+

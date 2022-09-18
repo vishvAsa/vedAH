@@ -23,6 +23,14 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 यः। विश्वा। अभि। विऽपश्यति। भुवना। सम्। च। पश्यति। सः। नः। पर्षत्। अति। द्विषः। ३४.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- चातन
+- गायत्री
+- शत्रुनाशन सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
@@ -42,3 +50,4 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 
 टिप्पणी:   ४−(यः) परमेश्वरः (विश्वा) सर्वाणि (अभि) सर्वतः (विपश्यति) पृथक् पृथगवलोकयति (भुवना) भुवनानि (च) (सम् पश्यति) संगतानि निरीक्षते ॥
 </details>
+

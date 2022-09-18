@@ -21,6 +21,14 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 यम्। इन्द्राग्नी इति। स्मरम्। असिञ्चताम्। अपऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.४।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- स्मरः
+- अथर्वा
+- त्रिपदा विराण्महाबृहती
+- स्मर सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य प्राप्ति का उपदेश।
@@ -40,3 +48,4 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 
 टिप्पणी:   ४−(इन्द्राग्नी) विद्युत्पावकौ (असिञ्चताम्) अवर्धयताम्। अन्यत् पूर्ववत् ॥
 </details>
+
