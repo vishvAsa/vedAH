@@ -7,7 +7,6 @@ title = "००१ अध्यात्म-प्रकरणम्"
 1. Paryāya the first.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यात्म-प्रकरणम्।  
@@ -19,8 +18,6 @@ title = "००१ अध्यात्म-प्रकरणम्"
 
 [aṣṭāu. 1. sāmnī pan̄kti; 2. 2-p. sāmni bṛhatī; 3. 1-p. yajurbrāhmy anuṣṭubh; 4. 1-p. virāḍ gāyatrī; 5. sāmny anuṣṭubh; 6. 3-p. prājāpatyā bṛhatī; 7. āsurī pan̄kti; 8. 3-p. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, Ind. Stud. i. 130; Griffith, ii. 185.
 
 The hyperbolical glorification of the Vratya or Aryan Non-conformist
 </details>
+

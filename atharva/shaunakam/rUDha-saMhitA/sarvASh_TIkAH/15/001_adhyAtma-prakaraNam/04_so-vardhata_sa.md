@@ -18,7 +18,6 @@ syllables.
 He grew, he became great, he became Mahadeva.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। अवर्धत। सः। महान्। अभवत्। सः। महाऽदेवः। अभवत्। १.४।

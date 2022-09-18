@@ -19,7 +19,6 @@ abhavat*. To read *abhavat*, again, fills out the 20 syllables.
 He became Chief Vratya. He held a bow, even that Bow of Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। एकऽव्रात्यः। अभवत्। सः। धनुः। आ। अदत्त। तत्। एव। इन्द्रऽधनुः। १.६।

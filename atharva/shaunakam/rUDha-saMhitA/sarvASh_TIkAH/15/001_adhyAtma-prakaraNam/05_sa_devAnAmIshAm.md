@@ -18,7 +18,6 @@ this verse, Ppp. has only the last three words.⌋
 He gained the lordship of the Gods. He became Lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। देवानाम्। ईशाम्। परि। ऐत्। सः। ईशानः। अभवत्। १.५।

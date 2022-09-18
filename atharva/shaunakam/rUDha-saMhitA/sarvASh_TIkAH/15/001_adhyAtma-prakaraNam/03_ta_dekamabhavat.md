@@ -21,7 +21,6 @@ abhavat*.
 That became unique, that became distinguished, that became great, that became excellent, that became Devotion, that be- came holy Fervour, that became Truth: through that he was born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तत्। एकम्। अभवत्। तत्। ललामम्। अभवत्। तत्। महत्। अभवत्। तत्। ज्येष्ठम्। अभवत्। तत्। ब्रह्म। अभवत्। तत्। तपः। अभवत्। तत्। सत्यम्। अभवत्। तेन। प्र। अजायत। १.३।

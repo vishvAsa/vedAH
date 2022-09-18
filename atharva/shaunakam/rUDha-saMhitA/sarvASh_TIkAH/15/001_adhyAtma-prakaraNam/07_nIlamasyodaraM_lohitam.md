@@ -18,7 +18,6 @@ might equally well be 'his.'
 His belly is dark-blue, his back is red.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नीलम्। अस्य। उदरम्। लोहितम्। पृष्ठम्। १.७।

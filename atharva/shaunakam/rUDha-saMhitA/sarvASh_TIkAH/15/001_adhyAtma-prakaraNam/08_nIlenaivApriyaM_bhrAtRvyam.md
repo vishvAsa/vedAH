@@ -21,7 +21,6 @@ brackets is called for by the sense.
 With dark-blue he envelops a detested rival, with red he pierces the man who hates him: so the theologians say.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नीलेन। एव। अप्रियम्। भ्रातृव्यम्। प्र। ऊर्णोति। लोहितेन। द्विषन्तम्। विध्यति। इति। ब्रह्मऽवादिनः। वदन्ति। १.८।

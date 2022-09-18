@@ -17,7 +17,6 @@ For *suvarṇam ātmann*, Ppp. reads: *ātmanas suparṇam*.
 Prajapati beheld gold in himself and engendered it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। प्रजाऽपतिः। सुऽवर्णम्। आत्मन्। अपश्यत्। तत्। प्र। अजनयत्। १.२।

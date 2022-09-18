@@ -18,7 +18,6 @@ full *sāmnī pan̄kti* (20 syll.).
 There was a roaming Vratya. He roused Prajapati to action.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 व्रात्यः। आसीत्। ईयमानः। एव। सः। प्रजाऽपतिम्। सम्। ऐरयत्। १.१।
