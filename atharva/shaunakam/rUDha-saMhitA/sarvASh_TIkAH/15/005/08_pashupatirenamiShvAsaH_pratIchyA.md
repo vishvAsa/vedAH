@@ -5,10 +5,7 @@ title = "०८ पशुपतिरेनमिष्वासः प्रत
 
 <details><summary>Whitney</summary>
 
-प॒शु॒पति॑रेनमिष्वा॒सः प्र॒तीच्या॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥८॥
+⌊7.⌋ The archer Paśupati attends him as attendant from the intermediate  
+direction of the western quarter; not śarva etc. etc.
 </details>
 
-<details><summary>Griffith</summary>
-
-प॒शु॒पति॑रेनमिष्वा॒सः प्र॒तीच्या॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥८॥
-</details>

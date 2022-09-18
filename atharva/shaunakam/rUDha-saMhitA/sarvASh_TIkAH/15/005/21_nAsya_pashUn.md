@@ -5,10 +5,10 @@ title = "२१ नास्य पशून्"
 
 <details><summary>Whitney</summary>
 
-नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑ ॥२१॥
+16. injures him nor his cattle nor his fellows who knoweth thus⌋.
 </details>
 
 <details><summary>Griffith</summary>
 
-नास्य॑ प॒शून् न स॑मा॒नान् हि॑नस्ति॒ य ए॒वं वेद॑ ॥२१॥
+slays him who possesses this knowledge, or his cattle, or his kinsmen.
 </details>

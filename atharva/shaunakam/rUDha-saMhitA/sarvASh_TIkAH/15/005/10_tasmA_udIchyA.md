@@ -5,10 +5,16 @@ title = "१० तस्मा उदीच्या"
 
 <details><summary>Whitney</summary>
 
-तस्मा॒ उदी॑च्या दि॒शो अ॑न्तर्दे॒शाद॒ग्रं दे॒वमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन्॥१०॥
+### Translation
+4. ⌊8.⌋ For him, from the intermediate direction of the northern  
+   quarter, they made the archer, the formidable god, attendant. 
+
+### Notes
+At the beginning, read in our text *tásmā* for *tásmāi*.
+
 </details>
 
 <details><summary>Griffith</summary>
 
-तस्मा॒ उदी॑च्या दि॒शो अ॑न्तर्दे॒शाद॒ग्रं दे॒वमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन्॥१०॥
+They made the Awful God, the Archer, his deliverer from the intermediate space of the northern region, etc, as above.
 </details>

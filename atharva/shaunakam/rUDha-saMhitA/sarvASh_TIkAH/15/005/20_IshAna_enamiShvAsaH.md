@@ -5,10 +5,11 @@ title = "२० ईशान एनमिष्वासः"
 
 <details><summary>Whitney</summary>
 
-ईशा॑न एनमिष्वा॒सः सर्वे॑भ्यो अन्तर्दे॒शेभ्यो॑ऽनुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥२०॥
+⌊15.⌋ The archer Īśāna as attendant attends him  
+from all the intermediate directions; not śarva, ⌊not Bhava, not Īśāna, 
 </details>
 
 <details><summary>Griffith</summary>
 
-ईशा॑न एनमिष्वा॒सः सर्वे॑भ्यो अन्तर्दे॒शेभ्यो॑ऽनुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥२०॥
+Isana the Archer, a deliverer, delivers him from all the intermediate regions. Neither Sarva nor Bhava, nor Isana 
 </details>

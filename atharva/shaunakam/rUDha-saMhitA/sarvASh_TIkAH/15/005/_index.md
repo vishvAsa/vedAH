@@ -7,7 +7,6 @@ title = "००५ "
 5. Paryāya the fifth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-२१ अथर्वा। रुद्रः। १ त्रिपदा समविषमा गायत्री; २ त्रिपदा भुरिगार्ची त्रिष्टुप्;  
@@ -20,8 +19,6 @@ title = "००५ "
 
 [ṣoḍaśa. mantroktarudradevatyāk. 1 a. 3-p. samaviṣamā gāyatrī; 1 b. 3-p. bhurig ārcī triṣṭubh; c of 1-7. 2-p. prājāpatyā ’nuṣṭubh; 2 a. 3-p. svarāṭ prājāpatyā pan̄kti; b of 2-4, 6. 3-p. brāhmī gāyatrī; a of 3, 4, 6. 3-p. kakubh; a of 5, 7. bhurig viṣamā gāyatrī; 5 b. nicṛd brāhmī gāyatrī; 7 b. virāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: Aufrecht, Ind. Stud. i. 132; Muir, iv.2 338; Griffith, ii. 189.
 
 Vratya
 </details>
+

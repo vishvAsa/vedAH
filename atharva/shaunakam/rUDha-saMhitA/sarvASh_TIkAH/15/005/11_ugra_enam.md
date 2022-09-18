@@ -5,10 +5,7 @@ title = "११ उग्र एनम्"
 
 <details><summary>Whitney</summary>
 
-उ॒ग्र ए॑नं दे॒व इ॑ष्वा॒स उदी॑च्या दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑न॥११॥
-</details>
-
-<details><summary>Griffith</summary>
-
-उ॒ग्र ए॑नं दे॒व इ॑ष्वा॒स उदी॑च्या दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑न॥११॥
+⌊9.⌋ The  
+archer, the formidable god, attends him as attendant from the  
+intermediate direction of the northern quarter; not śarva etc. etc.
 </details>

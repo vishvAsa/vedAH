@@ -5,10 +5,11 @@ title = "१३ तस्मै ध्रुवाया"
 
 <details><summary>Whitney</summary>
 
-तस्मै॑ ध्रु॒वाया॑ दि॒शो अ॑न्तर्दे॒शाद् रु॒द्रमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन्॥१३॥
+5. ⌊10.⌋ For him, from the intermediate direction of the fixed quarter,  
+   they made the archer Rudra attendant. 
 </details>
 
 <details><summary>Griffith</summary>
 
-तस्मै॑ ध्रु॒वाया॑ दि॒शो अ॑न्तर्दे॒शाद् रु॒द्रमि॑ष्वा॒सम॑नुष्ठा॒तार॑मकुर्वन्॥१३॥
+They made Rudra the Archer his deliverer from the intermediate space of the region of the nadir etc.
 </details>

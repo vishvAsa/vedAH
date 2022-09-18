@@ -5,10 +5,8 @@ title = "१७ महादेव एनमिष्वास"
 
 <details><summary>Whitney</summary>
 
-म॒हा॒दे॒व ए॑नमिष्वा॒स ऊ॒र्ध्वाया॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥१७॥
+⌊13.⌋  
+The archer Mahādeva attends him as attendant from the intermediate  
+direction of the upward quarter; not śarva etc. etc.
 </details>
 
-<details><summary>Griffith</summary>
-
-म॒हा॒दे॒व ए॑नमिष्वा॒स ऊ॒र्ध्वाया॑ दि॒शो अ॑न्तर्दे॒शाद॑नुष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥१७॥
-</details>

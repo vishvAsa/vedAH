@@ -5,10 +5,8 @@ title = "१४ रुद्र एनमिष्वासो"
 
 <details><summary>Whitney</summary>
 
-रु॒द्र ए॑नमिष्वा॒सो ध्रु॒वाया॑ दि॒शो अ॑न्तर्दे॒शादनु॑ष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥१४॥
+⌊11.⌋ The archer Rudra attends him  
+as attendant from the intermediate direction of the fixed quarter; not  
+śarva etc. etc.
 </details>
 
-<details><summary>Griffith</summary>
-
-रु॒द्र ए॑नमिष्वा॒सो ध्रु॒वाया॑ दि॒शो अ॑न्तर्दे॒शादनु॑ष्ठा॒तानु॑ तिष्ठति॒ नैनं॑ श॒र्वो न भ॒वो नेशा॑नः॥१४॥
-</details>
