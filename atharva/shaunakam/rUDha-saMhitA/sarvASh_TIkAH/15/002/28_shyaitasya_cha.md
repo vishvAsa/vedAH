@@ -5,12 +5,13 @@ title = "२८ श्यैतस्य च"
 
 <details><summary>Whitney</summary>
 
-श्यै॒तस्य॑ च॒ वै स नौ॑ध॒सस्य॑ च सप्तर्षी॒णां च॒ सोम॑स्य च॒ राज्ञः॑  
-प्रि॒यं धाम॑ भवति॒ तस्योदी॑च्यां दि॒शि॥२८॥
+**d.** ⌊24.⌋ of both the  
+*śyāitá* and the *nāudhasá* and the seven seers and king Soma doth he  
+become the dear abode \[who knoweth thus\]. Of him in the northern  
+quarter 
 </details>
 
 <details><summary>Griffith</summary>
 
-श्यै॒तस्य॑ च॒ वै स नौ॑ध॒सस्य॑ च सप्तर्षी॒णां च॒ सोम॑स्य च॒ राज्ञः॑  
-प्रि॒यं धाम॑ भवति॒ तस्योदी॑च्यां दि॒शि॥२८॥
+He who hath this knowledge be- comes the dear home of Syaita, etc. 
 </details>

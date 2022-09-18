@@ -5,10 +5,12 @@ title = "१४ अमावास्याऽ च"
 
 <details><summary>Whitney</summary>
 
-अ॒मा॒वा॒स्याऽ च पौर्णमा॒सी च॑ परिष्क॒न्दौ मनो॑ विप॒थम्॥१४॥
+
+**f.** ⌊14.⌋ both new moon and full  
+moon the two footmen, mind the etc. etc.
 </details>
 
 <details><summary>Griffith</summary>
 
-अ॒मा॒वा॒स्याऽ च पौर्णमा॒सी च॑ परिष्क॒न्दौ मनो॑ विप॒थम्॥१४॥
+New Moon Night and Full Moon Night are his running attendants, Mind, etc. as in stanza 1.
 </details>

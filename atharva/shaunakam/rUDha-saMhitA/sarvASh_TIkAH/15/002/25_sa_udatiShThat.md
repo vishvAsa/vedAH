@@ -5,10 +5,10 @@ title = "२५ स उदतिष्ठत्"
 
 <details><summary>Whitney</summary>
 
-स उद॑तिष्ठ॒त् स उदी॑चीं॒ दिश॒मनु॒ व्यऽ चलत्॥२५॥
+4. **a.** ⌊21.⌋ He arose; he moved out toward the northern quarter;  
 </details>
 
 <details><summary>Griffith</summary>
 
-स उद॑तिष्ठ॒त् स उदी॑चीं॒ दिश॒मनु॒ व्यऽ चलत्॥२५॥
+He arose and went away to the northern region. 
 </details>

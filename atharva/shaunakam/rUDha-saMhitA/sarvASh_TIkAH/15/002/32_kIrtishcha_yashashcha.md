@@ -5,10 +5,7 @@ title = "३२ कीर्तिश्च यशश्च"
 
 <details><summary>Whitney</summary>
 
-की॒र्तिश्च॒ यश॑श्च पुरःस॒रावैनं की॒र्तिर्ग॑च्छ॒त्या यशो॑ गच्छति॒ य ए॒वं वेद॑ ॥३२॥
-</details>
-
-<details><summary>Griffith</summary>
-
-की॒र्तिश्च॒ यश॑श्च पुरःस॒रावैनं की॒र्तिर्ग॑च्छ॒त्या यशो॑ गच्छति॒ य ए॒वं वेद॑ ॥३२॥
+**h.** 28. both fame and glory  
+the two forerunners: to him cometh fame, cometh glory, who knoweth  
+thus.⌋
 </details>

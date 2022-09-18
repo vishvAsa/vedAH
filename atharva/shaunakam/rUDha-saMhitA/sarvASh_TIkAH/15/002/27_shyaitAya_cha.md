@@ -5,12 +5,12 @@ title = "२७ श्यैताय च"
 
 <details><summary>Whitney</summary>
 
-श्यै॒ताय॑ च॒ वै स नौ॑ध॒साय॑ च सप्त॒र्षिभ्य॑श्च॒ सोमा॑य च॒ राज्ञ॒  
-आ वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॑ व्रात्य॑मुप॒वद॑ति ॥२७॥
+**c.** ⌊23.⌋ against both the  
+*śyāitá* and the *nāudhasá* and the seven seers and king Soma doth he  
+offend who revileth a thus-knowing Vrātya; 
 </details>
 
 <details><summary>Griffith</summary>
 
-श्यै॒ताय॑ च॒ वै स नौ॑ध॒साय॑ च सप्त॒र्षिभ्य॑श्च॒ सोमा॑य च॒ राज्ञ॒  
-आ वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॑ व्रात्य॑मुप॒वद॑ति ॥२७॥
+He who reviles the Vratya possessing this knowledge is alienated from Syaita, etc. 
 </details>

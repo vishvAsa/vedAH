@@ -6,30 +6,36 @@ title = "०२ तं बृहच्च"
 <details><summary>Whitney</summary>
 
 ### Translation
-2. **a.** ⌊9.⌋ He arose; he moved out toward the southern quarter;  
-**b.** ⌊10.⌋ after him moved out both the *yajñāyajñíya* and the  
-*vāmadevyá* and the sacrifice and the sacrificer and the cattle; **c.**  
-⌊11.⌋ against both the *yajñāyajñíya* and the *vāmadevyá* and the  
-sacrifice and the sacrificer and the cattle doth he offend who revileth  
-a thus-knowing Vrātya; **d.** ⌊12.⌋ of both the *yajñāyajñíya* and the  
-*vāmadevyá* and the sacrifice and the sacrificer and the cattle doth he  
-become the dear abode \[who knoweth thus\]. Of him in the southern  
-quarter **e.** ⌊13.⌋ dawn is the harlot, the *mántra* the *māgadhá*,  
-discernment the garment, day the turban, night the hair, yellow the two  
-*pravartás*, *kalmalí* the jewel, **f.** ⌊14.⌋ both new moon and full  
-moon the two footmen, mind the etc. etc.
-
-### Notes
-All the mss. have in **e** *mántro;* ⌊so also SPP.: correct the Berlin  
-ed.⌋; in our text it and the *mitró* of 1 **e** have been made to change  
-places, for the sake of better adaptation to the surroundings. Why 2  
-**d** (44 syllables) should be called by the Anukr. an *ārṣī  
-parānuṣṭubh* is obscure; perhaps *triṣṭubh* is to be added (or implied  
-from the next preceding definition). ⌊For *paśavas*, perhaps 'victims'  
-would suit the connection better than 'cattle,' here and below.⌋
+**b.** ⌊2.⌋ after him moved out both the *bṛhát* and the  
+*rathaṁtará* and the Ādityas and all the gods; 
 </details>
 
 <details><summary>Griffith</summary>
 
-He arose and went away to the southern region. Yajnayajniya and Vamadevya and Sacrifice and Sacrificer and sacrificial victims followed him. The man who reviles the Vratya possessing this knowledge is alienated from Yajnayajniya and Vamadevya, Sacrifice, Sacrificer and sacrificial victims. He who hath this knowledge becomes the beloved home of Yajnayajniya,Vamadevya, Sacrifice, Sacrificer, and sacrificial victims. In the southern region Dawn is his leman, Mitra his panegyrist, knowledge his vesture, day his turban, night his hair, Indra's two Bays are his circular ornaments, New Moon Night and Full Moon Night are his running attendants, Mind, etc. as in stanza 1.
+The Brihat, the Rathantara, the Adityas and all the Gods followed him. 
+</details>
+
+<details open><summary>पदपाठः</summary>
+
+तम्। बृहत्। च। रथम्ऽतरम्। च। आदित्याः। च। विश्वे। च। देवाः। अनुऽव्यचलन्। २.२।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+परमेश्वर की सर्वत्र व्यापकता का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (बृहत्) बृहत् [बड़ाआकाश] (च च) और (रथन्तरम्) रथन्तर [रमणीय गुणों द्वारा पार होने योग्य जगत्] (च)और (आदित्याः) सब चमकनेवाले सूर्य आदि (च) और (विश्वे) सब (देवाः) गतिवाले लोक (तम्) उस [व्रात्य परमात्मा] के (अनुव्यचलन्) पीछे-पीछे विचरे ॥२॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य को चाहिये किआकाश, भूमि, सूर्य, और सब चलते हुए लोकों को परमात्मा की आज्ञा में चलता हुआसाक्षात् करे ॥२॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २−(तम्) व्रात्यं परमात्मानम् (बृहत्) प्रवृद्धमाकाशम् (च) (रथन्तरम्) अ० ८।१०(२)।६। रमु क्रीडायाम्-क्थन्+तॄ प्लवनतरणयोः-खच् मुम् च।रमणीयैर्गुणैस्तरणीयं जगत् (च) (आदित्याः) आदीप्यमानाः सूर्यादिलोकाः (च) (विश्वे)सर्वे (च) (देवाः) दिवु गतौ-पचाद्यच्। गतिमन्तो लोकाः (अनुव्यचलन्) अनुसृत्यव्यचरन् ॥
 </details>

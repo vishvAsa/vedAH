@@ -5,12 +5,12 @@ title = "२९ विद्युत् पुंश्चली"
 
 <details><summary>Whitney</summary>
 
-वि॒द्युत् पुं॑श्च॒ली स्त॑नयि॒त्नुर्मा॑ग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒ रात्री॒  
-केशा॒ हरि॑तौ प्रव॒र्तौ क॑ल्म॒लिर्म॒णिः॥२९॥
+**e.** ⌊25.⌋ lightning is the harlot, thunder the *māgadhá*,  
+discernment the garment, day the turban, night the hair, yellow the two  
+*pravartás*, *kalmalí* the jewel, 
 </details>
 
 <details><summary>Griffith</summary>
 
-वि॒द्युत् पुं॑श्च॒ली स्त॑नयि॒त्नुर्मा॑ग॒धो वि॒ज्ञानं॒ वासोऽह॑रु॒ष्णीषं॒ रात्री॒  
-केशा॒ हरि॑तौ प्रव॒र्तौ क॑ल्म॒लिर्म॒णिः॥२९॥
+In the northern region Lightning is his leman, thunder his panegyrist, etc. as above.
 </details>

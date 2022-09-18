@@ -5,12 +5,12 @@ title = "२० वैरूपस्य च"
 
 <details><summary>Whitney</summary>
 
-वै॒रू॒पस्य॑ च॒ वै स वै॑रा॒जस्य॑ चा॒पां च॒ वरु॑णस्य च॒ राज्ञः॑ प्रि॒यं  
-धाम॑ भवति॒ तस्य॑ प्र॒तीच्यां॑ दि॒शी ॥२०॥
+**d.** ⌊18.⌋ of both the *vāirūpá* and  
+the *vāirājá* and the waters and king Varuṇa doth he become the dear  
+abode \[who knoweth thus\]. Of him in the western quarter
 </details>
 
 <details><summary>Griffith</summary>
 
-वै॒रू॒पस्य॑ च॒ वै स वै॑रा॒जस्य॑ चा॒पां च॒ वरु॑णस्य च॒ राज्ञः॑ प्रि॒यं  
-धाम॑ भवति॒ तस्य॑ प्र॒तीच्यां॑ दि॒शी ॥२०॥
+He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna. 
 </details>

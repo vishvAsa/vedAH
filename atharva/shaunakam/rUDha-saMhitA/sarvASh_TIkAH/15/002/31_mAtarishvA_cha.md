@@ -5,10 +5,7 @@ title = "३१ मातरिश्वा च"
 
 <details><summary>Whitney</summary>
 
-मा॒त॒रिश्वा॑ च॒ पव॑मानश्च विपथवा॒हौ वातः॒ सार॑थी रे॒ष्मा प्र॑तो॒दः॥३१॥
-</details>
-
-<details><summary>Griffith</summary>
-
-मा॒त॒रिश्वा॑ च॒ पव॑मानश्च विपथवा॒हौ वातः॒ सार॑थी रे॒ष्मा प्र॑तो॒दः॥३१॥
+**g.** 27.  
+Mātariśvan and Pavamāna the two drawers of the rough vehicle, the wind  
+the charioteer, the whirlwind the goad, 
 </details>

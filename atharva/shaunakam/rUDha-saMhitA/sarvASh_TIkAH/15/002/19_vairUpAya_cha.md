@@ -5,12 +5,12 @@ title = "१९ वैरूपाय च"
 
 <details><summary>Whitney</summary>
 
-वै॒रू॒पाय॑ च॒ वै स वै॑रा॒जाय॑ चा॒द्भ्यश्च॒ वरु॑णाय च॒ राज्ञ॒ आ  
-वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥१९॥
+**c.** ⌊17.⌋ against both the *vāirūpá*  
+and the *vāirājá* and the waters and king Varuṇa doth he offend who  
+revileth a thus-knowing Vrātya; 
 </details>
 
 <details><summary>Griffith</summary>
 
-वै॒रू॒पाय॑ च॒ वै स वै॑रा॒जाय॑ चा॒द्भ्यश्च॒ वरु॑णाय च॒ राज्ञ॒ आ  
-वृ॑श्चते॒ य ए॒वं वि॒द्वांसं॒ व्रात्य॑मुप॒वद॑ति ॥१९॥
+He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King. 
 </details>

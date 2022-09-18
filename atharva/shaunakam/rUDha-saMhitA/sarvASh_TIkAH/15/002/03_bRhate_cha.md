@@ -6,28 +6,37 @@ title = "०३ बृहते च"
 <details><summary>Whitney</summary>
 
 ### Translation
-3. **a.** ⌊15.⌋ He arose; he moved out toward the western quarter;  
-**b.** ⌊16.⌋ after him moved out both the *vāirūpá* and the *vāirājá*  
-and the waters and king Varuṇa; **c.** ⌊17.⌋ against both the *vāirūpá*  
-and the *vāirājá* and the waters and king Varuṇa doth he offend who  
-revileth a thus-knowing Vrātya; **d.** ⌊18.⌋ of both the *vāirūpá* and  
-the *vāirājá* and the waters and king Varuṇa doth he become the dear  
-abode \[who knoweth thus\]. Of him in the western quarter **e.** ⌊19.⌋  
-cheer is the harlot, laughter the *māgadhá*, discernment the garment,  
-day the turban, night the hair, yellow the two *pravartás*, *kalmalí*  
-the jewel, **f.** ⌊20.⌋ both day and night the two footmen, mind the  
-etc. etc.
-
-### Notes
-All our earlier mss. accent *irā́* in **e**, and our edition followed  
-them, but some of the later ones (O.D.R.s.m.K.) have correctly *írā*,  
-and the text should be emended accordingly. ⌊SPP., p. 322, maintains  
-that the mss. showing *írā* are influenced by the RV. accentuation of  
-the word, and holds that *irā́* is the true AV. reading.⌋ Some mss.  
-(Bs.R.s.m.D.) accent *hasás*.
+**c.** ⌊3.⌋ against both  
+the *bṛhát* and the *rathaṁtará* and the Ādityas and all the gods doth  
+he offend (*ā-vraśc*) who revileth a thus-knowing Vrātya; 
 </details>
 
 <details><summary>Griffith</summary>
 
-He arose and went away to the western region. Vairupa and Vairaja, the Waters, and King Varuna followed him. He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King. He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna. In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc., as above. Day and Night are his running attendants, Mind, etc., as above.
+That man is alienated from the Brihat, the Rathantara, the Adityas, and all Gods who reviles the Vratya who possesses this knowledge. 
+</details>
+
+<details open><summary>पदपाठः</summary>
+
+बृहते। च। वै। सः। रथम्ऽतराय। च। आदित्येभ्यः। च। विश्वेभ्यः। च। देवेभ्यः। आ। वृश्चते। यः। एवम्। विद्वांसम्। व्रात्यम्। उपऽवदति। २.३।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+परमेश्वर की सर्वत्र व्यापकता का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सः) वह [मूर्ख] (वै)निश्चय करके (बृहते) बृहत् [बड़े आकाश] के लिये (च च) और (रथन्तराय) रथन्तर [रमणीय गुणों द्वारा पार होने योग्य जगत्] के लिये (च) और, (आदित्येभ्यः)चमकनेवाले सूर्य आदि के लिये (च) और (विश्वेभ्यः) सब (देवेभ्यः) गतिवाले लोकोंके लिये (आ) सब प्रकार (वृश्चते) दोषी होता है, (यः) जो [मूर्ख] (एवम्) ऐसे वाव्यापक (विद्वांसम्) ज्ञानवान् (व्रात्यम्) व्रात्य [सब समूहों के हितकारीपरमात्मा] को (उपवदति) बुरा कहता है ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य परमात्मा केगुणों को साक्षात् न करके तत्त्वज्ञान नहीं पाता, वह संसार के पदार्थों सेयथावत् उपकार नहीं ले सकता ॥३॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३−(बृहत्) प्रवृद्धायाकाशाय (च) (वै) निश्चयेन (रथन्तराय) रमणीयैर्गुणैस्तरणीयाय जगते (च) (आदित्येभ्यः) आदीप्यमानेभ्यःसूर्यादिभ्यः (च) (विश्वेभ्यः) (च) (देवेभ्यः) गतिमद्भ्यो लोकेभ्यः (आ समन्तात् (वृश्चते) वृश्च्यते। छिद्यते। दूषितो भवति (यः) (मूर्खः) (एवम्) इण्शीभ्यांवन्। उ० १।१५२। इण् गतौ-वन्। एवैरयनैरवनैर्वा-निरु० २।२५। एतिप्राप्नोतीत्येवस्तम्। ईदृशम्। व्यापकम् (विद्वांसम्) विज्ञातारम् (व्रात्यम्)म० १। व्रातेभ्यः सर्वसमूहेभ्यो हितकरं परमात्मानम् (उपवदति) हीनं कथयति।निन्दति ॥
 </details>

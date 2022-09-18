@@ -5,10 +5,11 @@ title = "१८ तं वैरूपम्"
 
 <details><summary>Whitney</summary>
 
-तं वै॑रू॒पं च॑ वैरा॒जं चाप॑श्च॒ वरु॑णश्च॒ राजा॑नु॒व्यऽचलन्॥१८॥
+**b.** ⌊16.⌋ after him moved out both the *vāirūpá* and the *vāirājá*  
+and the waters and king Varuṇa; 
 </details>
 
 <details><summary>Griffith</summary>
 
-तं वै॑रू॒पं च॑ वैरा॒जं चाप॑श्च॒ वरु॑णश्च॒ राजा॑नु॒व्यऽचलन्॥१८॥
+Vairupa and Vairaja, the Waters, and King Varuna followed him. 
 </details>
