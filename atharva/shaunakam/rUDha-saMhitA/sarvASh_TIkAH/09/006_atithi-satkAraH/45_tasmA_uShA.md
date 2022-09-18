@@ -1,0 +1,36 @@
++++
+title = "४५ तस्मा उषा"
+
++++
+
+<details><summary>Whitney</summary>
+
+### Translation
+45. For him the dawn utters *hing;* Savitar preludes (*pra-stu*);  
+Brihaspati with refreshment (*ūrjáyā*) sings the *udgīthá;* Tvashṭar  
+with prosperity responds (*prati-hṛ*); all the gods \[are\] the  
+conclusion (*nidhána*); the conclusion of thrift, of progeny, of cattle  
+becometh he who knoweth thus.
+
+### Notes
+Here and in the following verses ⌊cf. PB. iv. 9. 9⌋ are had in view the  
+five successive parts or divisions of a *sāman*, of which the *udgītha*  
+is the central and principal: cf. Chānd. Upan. ii. 2 ff. In this section  
+also the majority of the mss. divide and number in accordance with our  
+edition; the rest, with the Anukr., number the subdivisions  
+successively. Our edition assumes the subdivision *nidhánam bhū́tyāḥ* to  
+be repeated at the end of each of the four paragraphs; the Anukr.  
+⌊counting 10 (not 12) *avasānarcas:* cf. p. 546 below⌋ is against this;  
+as for the mss., their testimony is nothing, since they all, in any  
+case, write such an addition only the first time and the last, omitting  
+all intermediate occurrences; it is altogether probable that the edition  
+is right. The artificial description by the Anukr. of **b** as an  
+*uṣṇih*, implies resolving *ūrjáyā úd*, and either *púṣṭi-ā* or  
+*víśu-e*. Ppp. adds *vāi* after *tasmāi*, and *bhūtyā* after *savitā*,  
+and reads *ūrjā* for *ūrjayā*.
+</details>
+
+<details><summary>Griffith</summary>
+
+For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vigour, and Tvashtar joins in with increase; the Visve Devah take up conclusion. He who hath this know- ledge is the abiding-place of welfare, of progeny, and of cattle.
+</details>

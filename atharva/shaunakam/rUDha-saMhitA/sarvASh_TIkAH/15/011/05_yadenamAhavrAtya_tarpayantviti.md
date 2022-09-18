@@ -1,0 +1,24 @@
++++
+title = "०५ यदेनमाहव्रात्य तर्पयन्त्विति"
+
++++
+
+<details><summary>Whitney</summary>
+
+### Translation
+5. In that he says to him: Vrātya, let them gratify \[thee\], he thereby  
+makes his breath (*prāṇá*) longer.
+
+### Notes
+⌊We had the last clause above at ix. 6. 19.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+When he says to him, Let them refresh thee, he thereby wins vital breath to exceeding old age.
+</details>
+
+<details open><summary>पदपाठः</summary>
+
+यत्। एनम्। आह। व्रात्य। तर्पयन्तु। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ११.५।
+</details>
