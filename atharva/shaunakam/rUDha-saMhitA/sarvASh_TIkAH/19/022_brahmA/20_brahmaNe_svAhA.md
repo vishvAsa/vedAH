@@ -38,3 +38,37 @@ present division of the text seems very unlikely.
 
 To Brahma, Hail!
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+ब्रह्मणे। स्वाहा। २२.२०।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्त्रोक्ताः
+- अङ्गिराः
+- आसुर्यनुष्टुप्
+- ब्रह्मा सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+महाशान्ति के लिये उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ब्रह्मणे) वेदज्ञान के लिये (स्वाहा) स्वाहा [सुन्दर वाणी] हो ॥२०॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य वेदविद्या के उपदेश से परस्पर हित करते-कराते रहें ॥२०॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २०−(ब्रह्मणे) वेदज्ञानाय ॥
+</details>

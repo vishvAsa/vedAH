@@ -25,3 +25,37 @@ with you.' Ppp. reads throughout *stu* instead of *stha*.
 
 Ye are life-givers. I fain would live. I fain would live my com- plete term of life.
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+जीवलाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.४।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः
+- ब्रह्मा
+- साम्न्युष्णिक्
+- आपः सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+जीवन बढ़ाने के लिये उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  [हे विद्वानो !] तुम (जीवलाः) जीवनदाता (स्थ) हो, (जीव्यासम्) मैं जीता रहूँ, (सर्वम्) सम्पूर्ण (आयुः) आयु (जीव्यासम्) मैं जीता रहूँ ॥४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य परस्पर उपकार से सबका जीवन बढ़ाते रहें ॥४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ४−(जीवलाः) जीव+ला दानादानयोः-क प्रत्ययः। जीवनदातारः ॥
+</details>
