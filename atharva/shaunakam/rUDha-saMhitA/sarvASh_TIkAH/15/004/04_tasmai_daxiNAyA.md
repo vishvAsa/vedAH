@@ -20,3 +20,37 @@ Here again (as in 2. 4), the mss. vary between *śyāitá* and *śāitá* in
 
 They made the two Autumn months his protectors from the northern region, and Syaita and Naudhasa superintendents. The two Autumn months. etc. as above.
 </details>
+
+<details open><summary>पदपाठः</summary>
+
+तस्मै। दक्षिणायाः। दिशः। ४.४।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्राजापत्या गायत्री
+- अध्यात्म अथवा व्रात्य
+- अथर्वा
+- अध्यात्म प्रकरण सूक्त
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+परमेश्वर के रक्षा गुण का उपदेश।
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (तस्मै) उस [विद्वान्]के लिये (दक्षिणायाः दिशः) दक्षिण दिशा से ॥४॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र १-३ के समान है॥४-६॥
+</details>
+
+<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ४-स्पष्टम् ॥
+</details>
+

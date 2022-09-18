@@ -7,7 +7,6 @@ title = "००३ "
 3. Paryāya the third.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-११ अथर्वा। अध्यात्मं, व्रात्यः। १ पिपीलिकमध्या गायत्री; २ साम्नी उष्णिक्; ३ याजुषी जगती;  
@@ -19,8 +18,6 @@ title = "००३ "
 
 [ekādaśa. 1. pipīlikamadhyā gāyatrī; 2. sāmny uṣṇih; 3. yājuṣī jagatī; 4. 2-p. ārcy uṣṇih; 5. ārcī bṛhatī; 6. āsury anuṣṭubh; 7. sāmnī gāyatrī; 8. āsurī pan̄kti; 9. āsurī jagatī; 10. prājāpatyā triṣṭubh; 11. virāḍ gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, Ind. Stud. i. 131; Griffith, ii. 188.—In part also by Zi
 
 Vratya
 </details>
+
