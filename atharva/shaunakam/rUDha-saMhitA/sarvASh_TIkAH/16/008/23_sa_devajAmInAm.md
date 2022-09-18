@@ -6,17 +6,16 @@ title = "२३ स देवजामीनाम्"
 <details><summary>Whitney</summary>
 
 ### Translation
-23. ⌊26.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-heaven-and-earth. Of him now etc. etc.
+20. ⌊23.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+the half-months. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of Heaven and Earth, etc.
+Whatever, etc. Let him not be freed from the noose of the Half- months, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of Heaven and Earth, etc.
 
 टिप्पणी:   २३−(अर्धमासानाम्)मासावयवानाम्। अन्यत् पूर्ववत् ॥
 </details>
+

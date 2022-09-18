@@ -6,17 +6,16 @@ title = "१४ तस्मादमुं निर्भजामोऽमु
 <details><summary>Whitney</summary>
 
 ### Translation
-14. ⌊17.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-them of the Atharvans. Of him now etc. etc.
+11. ⌊14.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+the Angirases. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
+Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 
 टिप्पणी:   १४−(अङ्गिरसाम्) अ०२।१२।४। अङ्गतेरसिरिरुडागमश्च। उ० ४।२३६। अगि गतौ-असि, इरुट्। महाज्ञानिनांयुद्धकुशलानाम्। अन्यत् पूर्ववत् ॥
 </details>
+

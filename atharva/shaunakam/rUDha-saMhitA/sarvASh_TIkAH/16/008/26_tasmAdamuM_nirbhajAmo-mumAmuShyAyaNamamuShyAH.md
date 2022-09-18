@@ -5,12 +5,17 @@ title = "२६ तस्मादमुं निर्भजामोऽमु
 
 <details><summary>Whitney</summary>
 
+### Translation
+23. ⌊26.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+heaven-and-earth. Of him now etc. etc.
+
+### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
+Whatever, etc. Let him not be freed from the noose of Heaven and Earth, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -44,3 +49,4 @@ title = "२६ तस्मादमुं निर्भजामोऽमु
 
 टिप्पणी:   २६−(द्यावापृथिव्योः)सूर्यपृथिव्योः। अन्यत् पूर्ववत् ॥
 </details>
+

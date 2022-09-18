@@ -6,17 +6,16 @@ title = "१९ स पराभूत्याः"
 <details><summary>Whitney</summary>
 
 ### Translation
-19. ⌊22.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-the months. Of him now etc. etc.
+16. ⌊19.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+them of the forest trees. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Months, etc.
+Whatever, etc. Let him not be freed from the noose of Shrubs, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Months, etc.
 
 टिप्पणी:   १९−(वानस्पत्यानाम्)वृक्षेभ्य उत्पन्नकाष्ठपुष्पफलादिकानाम्। अन्यत् पूर्ववत् ॥
 </details>
+

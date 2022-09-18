@@ -6,17 +6,16 @@ title = "०८ तस्येदं वर्चस्तेजः"
 <details><summary>Whitney</summary>
 
 ### Translation
-8. ⌊11.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-Prajāpati. Of him now etc. etc.
+5. ⌊8.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+calamity. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever we have gained, etc. Let him not be freed from the noose of Prajapati, etc.
+Whatever we have gained, etc. Let him not be freed from the noose of defeat, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever we have gained, etc. Let him not be freed from the noose of Prajapati, 
 
 टिप्पणी:   ८−(पराभूत्याः)पराजितेः। पराभवस्य। अन्यत् पूर्ववत् ॥
 </details>
+

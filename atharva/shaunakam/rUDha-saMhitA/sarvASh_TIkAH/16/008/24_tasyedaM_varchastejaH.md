@@ -6,17 +6,16 @@ title = "२४ तस्येदं वर्चस्तेजः"
 <details><summary>Whitney</summary>
 
 ### Translation
-24. ⌊27.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-Indra-and-Agni. Of him now etc. etc.
+21. ⌊24.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+day-and-night. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of Indra- Agni, etc.
+Whatever, etc. Let him not be freed from the noose of Day and Night, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of Indra- Agni, etc.
 
 टिप्पणी:   २४−(अहोरात्रयोः)रात्रिदिवसयोः। अन्यत् पूर्ववत् ॥
 </details>
+

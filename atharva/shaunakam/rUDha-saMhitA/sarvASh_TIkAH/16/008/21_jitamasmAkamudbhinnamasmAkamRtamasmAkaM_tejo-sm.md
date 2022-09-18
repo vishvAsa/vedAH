@@ -6,17 +6,16 @@ title = "२१ जितमस्माकमुद्भिन्नमस्�
 <details><summary>Whitney</summary>
 
 ### Translation
-21. ⌊24.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-day-and-night. Of him now etc. etc.
+18. ⌊21.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+them of the seasons. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of Day and Night, etc.
+Whatever, etc. Let him not be freed from the noose of the Season-groups, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of Day and Night, etc.
 
 टिप्पणी:   २१−(आर्तवानाम्)ऋतुषूत्पन्नानां शीतोष्णपुष्पफलादीनाम्। अन्यत् पूर्ववत् ॥
 </details>
+

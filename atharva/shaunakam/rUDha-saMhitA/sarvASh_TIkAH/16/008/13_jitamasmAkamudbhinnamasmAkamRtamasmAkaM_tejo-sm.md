@@ -5,18 +5,13 @@ title = "१३ जितमस्माकमुद्भिन्नमस्�
 
 <details><summary>Whitney</summary>
 
-### Translation
-13. ⌊16.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-the Atharvans. Of him now etc. etc.
-
-### Notes
+तस्मा॑द॒मुं निर्भ॑जामो॒ऽमुमा॑मुष्याय॒णम॒मुष्याः॑ पु॒त्रम॒सौ यः॥२॥
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
+Whatever we have gained, etc. Let him not be freed from the noose of the Rishis' children, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +45,4 @@ Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 
 टिप्पणी:   १३−(आर्षेयाणाम्)ऋषिप्रणीतानां धर्मशास्त्राणाम्। अन्यत् पूर्ववत् ॥
 </details>
+

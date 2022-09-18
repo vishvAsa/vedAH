@@ -6,17 +6,16 @@ title = "१७ जितमस्माकमुद्भिन्नमस्�
 <details><summary>Whitney</summary>
 
 ### Translation
-17. ⌊20.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-the seasons. Of him now etc. etc.
+14. ⌊17.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+them of the Atharvans. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Seasons, etc.
+Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Seasons, etc.
 
 टिप्पणी:   १७−(आथर्वणानाम्) अ०४।३।७। अथर्वन्-अण्। अन्। पा० ६।४।१६७। अनः प्रकृतिभावः। अथर्वणांनिश्चलस्वभावसेनानायकानां गणानाम् अन्यत् पूर्ववत् ॥
 </details>
+

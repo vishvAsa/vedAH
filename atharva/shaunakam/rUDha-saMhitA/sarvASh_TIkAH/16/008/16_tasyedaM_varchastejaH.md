@@ -6,17 +6,16 @@ title = "१६ तस्येदं वर्चस्तेजः"
 <details><summary>Whitney</summary>
 
 ### Translation
-16. ⌊19.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-them of the forest trees. Of him now etc. etc.
+13. ⌊16.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+the Atharvans. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of Shrubs, etc.
+Whatever, etc. Let him not be freed from the noose of the Atharvans, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of Shrubs, etc.
 
 टिप्पणी:   १६−(अथर्वणाम्) अ०४।१।७। अथर्वाणोऽथनवन्तस्थर्वतिश्चरतिकर्मा तत्प्रतिषेधः-निरु० ११।१८।स्रामदिपद्यर्तिपॄशकिभ्यो वनिप्। उ० ४।११३। अथर्व चरणे=गतौ-वनिप्। वलोपोविकल्पेन। निश्चलस्वभावानां सेनानायकानाम् ॥
 </details>
+

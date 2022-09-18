@@ -5,14 +5,17 @@ title = "१० तस्मादमुं निर्भजामोऽमु
 
 <details><summary>Whitney</summary>
 
-तस्मा॑द॒मुं निर्भ॑जामो॒ऽमुमा॑मुष्याय॒णम॒मुष्याः॑ पु॒त्रम॒सौ यः॥२॥
+### Translation
+7. ⌊10.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+Brihaspati. Of him now etc. etc.
+
+### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever we have gained, etc. Let him not be freed from the noose of the Rishis' children, etc.
+Whatever we have gained, etc. Let him not be freed from the noose of Brihaspati, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -46,3 +49,4 @@ Whatever we have gained, etc. Let him not be freed from the noose of the Rishis'
 
 टिप्पणी:   १०−(बृहस्पतेः)बृहतीनां विद्यानां पालकस्य सेनाध्यक्षस्य। अन्यत् पूर्ववत् ॥
 </details>
+

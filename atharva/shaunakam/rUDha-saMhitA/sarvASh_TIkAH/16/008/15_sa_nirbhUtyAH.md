@@ -6,17 +6,16 @@ title = "१५ स निर्भूत्याः"
 <details><summary>Whitney</summary>
 
 ### Translation
-15. ⌊18.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-the forest trees. Of him now etc. etc.
+12. ⌊15.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+them of the Angirases. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Trees, etc.
+Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Trees, etc.
 
 टिप्पणी:   १५−(आङ्गिरसानाम्)अङ्गिरस्-अण्। महाज्ञानिभिः शिक्षितयोद्धॄणाम्। अन्यत् पूर्ववत् ॥
 </details>
+

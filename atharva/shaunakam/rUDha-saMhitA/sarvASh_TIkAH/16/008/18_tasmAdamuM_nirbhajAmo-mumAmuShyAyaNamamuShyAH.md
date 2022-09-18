@@ -6,17 +6,16 @@ title = "१८ तस्मादमुं निर्भजामोऽमु
 <details><summary>Whitney</summary>
 
 ### Translation
-18. ⌊21.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-them of the seasons. Of him now etc. etc.
+15. ⌊18.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+the forest trees. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Season-groups, etc.
+Whatever, etc. Let him not be freed from the noose of the Trees, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Season-groups, etc.
 
 टिप्पणी:   १८−(वनस्पतीनाम्)वृक्षाणाम्। अन्यत् पूर्ववत् ॥
 </details>
+

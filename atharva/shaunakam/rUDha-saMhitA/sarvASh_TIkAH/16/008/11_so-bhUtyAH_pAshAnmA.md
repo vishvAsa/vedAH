@@ -6,17 +6,16 @@ title = "११ सोऽभूत्याः पाशान्मा"
 <details><summary>Whitney</summary>
 
 ### Translation
-11. ⌊14.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-the Angirases. Of him now etc. etc.
+8. ⌊11.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+Prajāpati. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
+Whatever we have gained, etc. Let him not be freed from the noose of Prajapati, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever, etc. Let him not be freed from the noose of the Angirases, etc.
 
 टिप्पणी:   ११−(प्रजापतेः)प्रजापालकस्य सेनापतेः। अन्यत् पूर्ववत् ॥
 </details>
+

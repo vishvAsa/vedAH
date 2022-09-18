@@ -6,17 +6,16 @@ title = "०७ स निरृत्याः"
 <details><summary>Whitney</summary>
 
 ### Translation
-7. ⌊10.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-Brihaspati. Of him now etc. etc.
+4. ⌊7.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+extermination. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever we have gained, etc. Let him not be freed from the noose of Brihaspati, etc.
+Whatever we have gained, etc. Let him not be freed from the noose of disappearance, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever we have gained, etc. Let him not be freed from the noose of Brihaspati,
 
 टिप्पणी:   ७−(निर्भूत्याः)हानेः। अन्यत् पूर्ववत् ॥
 </details>
+

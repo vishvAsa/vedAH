@@ -6,17 +6,16 @@ title = "०५ जितमस्माकमुद्भिन्नमस्�
 <details><summary>Whitney</summary>
 
 ### Translation
-5. ⌊8.⌋ Ours is etc. etc.; let him not be released from the fetter of  
-calamity. Of him now etc. etc.
+2. ⌊5.⌋ Ours is etc. etc.; let him not be released from the fetter of  
+perdition. Of him now etc. etc.
 
 ### Notes
 </details>
 
 <details><summary>Griffith</summary>
 
-Whatever we have gained, etc. Let him not be freed from the noose of defeat, etc.
+Whatever we have gained, etc. (as in verse 1). Let him not be freed from the noose of Nirriti, etc.
 </details>
-
 
 <details><summary>पदपाठः</summary>
 
@@ -50,3 +49,4 @@ Whatever we have gained, etc. Let him not be freed from the noose of defeat, etc
 
 टिप्पणी:   ५−(निर्ऋत्याः)कृच्छ्रापत्तेः। महामारीरोगस्य। अन्यत् पूर्ववत् ॥
 </details>
+
