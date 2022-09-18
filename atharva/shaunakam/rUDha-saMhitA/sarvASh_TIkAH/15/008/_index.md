@@ -7,7 +7,6 @@ title = "००८ "
 8. Paryāya the eighth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-३ अथर्वा। अध्यात्मं, व्रात्यः। १ साम्नी उष्णिक्, २ प्राजापत्याऽनुष्टुप्, ३ आर्ची पङ्क्तिः।
@@ -17,8 +16,6 @@ title = "००८ "
 
 [trika. 1. sāmny uṣṇih; 2. prājāpatyā ’nuṣṭubh; 3. ārcī pan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -33,3 +30,4 @@ Translated: Aufrecht, Ind. Stud. i. 134; Griffith, ii. 192.
 
 Vratya
 </details>
+
