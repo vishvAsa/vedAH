@@ -22,10 +22,9 @@ rather 'the points of thine arrows': cf. VS. xvi. 53.
 This is the place where waters meet, here is the gathering of the flood. Our home is set amid the lake: turn thou thy jaws away from it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाम्। इदम्। निऽअयनम्। समुद्रस्य। निऽवेशनम्। मध्ये। ह्रदस्य। न:। गृहा:। पराचीना। मुखा। कृधि। १०६.२।
+अपाम्। इदम्। निऽअयनम्। समुद्रस्य। निऽवेशनम्। मध्ये। ह्रदस्य। नः। गृहाः। पराचीना। मुखा। कृधि। १०६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

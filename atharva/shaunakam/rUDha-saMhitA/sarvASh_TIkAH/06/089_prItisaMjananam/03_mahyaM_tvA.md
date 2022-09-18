@@ -18,10 +18,9 @@ The comm. renders *samasyatām* by *saṁyojayatām*.
 May Varuna and Mitra, may Sarasvati the Goddess, May the centre of the earth, and both her limits bring thee close to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मह्यम्। त्वा। मित्रावरुणौ। मह्यम्। देवी। सरस्वती। मह्यम्। त्वा। मध्यम्। भूम्या:। उभौ। अन्तौ। सम्। अस्यताम्। ८९.३।
+मह्यम्। त्वा। मित्रावरुणौ। मह्यम्। देवी। सरस्वती। मह्यम्। त्वा। मध्यम्। भूम्याः। उभौ। अन्तौ। सम्। अस्यताम्। ८९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

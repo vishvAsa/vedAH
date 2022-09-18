@@ -26,10 +26,9 @@ being *triṣṭubh*.
 Go forward on thy way from good to better: Brihaspati pre- cede thy steps and guide thee! Place this man here, within this earth's enclosure, afar from foes with all his men about him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भद्रात्। अधि। श्रेय:। प्र। इहि। बृहस्पति:। पुर:ऽएता। ते। अस्तु। अथ। इमम्। अस्या:। वरे। आ। पृथिव्या:। आरेऽशत्रुम्। कृणुहि। सर्वऽवीरम्। ९.१।
+भद्रात्। अधि। श्रेयः। प्र। इहि। बृहस्पतिः। पुरःऽएता। ते। अस्तु। अथ। इमम्। अस्याः। वरे। आ। पृथिव्याः। आरेऽशत्रुम्। कृणुहि। सर्वऽवीरम्। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

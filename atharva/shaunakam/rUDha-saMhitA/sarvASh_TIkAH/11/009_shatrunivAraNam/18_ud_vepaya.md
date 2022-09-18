@@ -25,7 +25,6 @@ He also has *śucas* for *sicas* in **b**. Read *amitrāṅ* at end of
 Make thou, O Arbudi, those wings of hostile armies quake with dread. Let Conqueror and Victor, friends of Indra, overcome our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। वेपय। त्वम्। अर्बुदे। अमित्राणाम्। अमूः। सिचः। जयन्। च। जिष्णुः। च। अमित्रान्। जयताम्। इन्द्रऽमेदिनौ। ११.१८।

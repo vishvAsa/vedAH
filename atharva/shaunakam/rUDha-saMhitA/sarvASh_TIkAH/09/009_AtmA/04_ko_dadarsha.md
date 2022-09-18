@@ -20,7 +20,6 @@ blood, soul? who shall go to ask that of him who knows?
 Who hath beheld at birth the Primal Being, when She who hath no bone supports the bony? Where is the blood of earth, the life, the spirit? Who may ap- proach the man who knows, to ask it?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। ददर्श। प्रथमम्। जायमानम्। अस्थन्ऽवन्तम्। यत्। अनस्था। बिभर्ति। भूम्याः। असुः। असृक्। आत्मा। क। स्वित्। कः। विद्वांसम्। उप। गात्। प्रष्टुम्। एतत्। १४.४।

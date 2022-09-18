@@ -27,10 +27,9 @@ may be consulted.⌋
 Savitar hath come hither with the razor: come thou, O Vayu, with the heated water. One-minded let Adityas, Rudras, Vasus moisten the hair: shave ye who know King Soma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। सविता। क्षुरेण। उष्णेन। वायो इति। उदकेन। आ। इहि। आदित्या:। रुद्रा:। वसव:। उन्दन्तु। सऽचेतस:। सोमस्य। राज्ञ:। वपत। प्रऽचेतस:। ६८.१।
+आ। अयम्। अगन्। सविता। क्षुरेण। उष्णेन। वायो इति। उदकेन। आ। इहि। आदित्याः। रुद्राः। वसवः। उन्दन्तु। सऽचेतसः। सोमस्य। राज्ञः। वपत। प्रऽचेतसः। ६८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

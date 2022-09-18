@@ -21,10 +21,9 @@ for *naḥ* in **a**⌋.
 From thee, from thee who fliest not from us, O Misery, we fly. Then at the turning of the paths let Misery fall on someone else.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। पाप्मन्। न। जहासि। तम्। ऊं इति। त्वा। जहिम:। वयम्। पथाम्। अनु। विऽआवर्तने। अन्यम्। पाप्मा। अनु। पद्यताम्। २६.२।
+यः। नः। पाप्मन्। न। जहासि। तम्। ऊं इति। त्वा। जहिमः। वयम्। पथाम्। अनु। विऽआवर्तने। अन्यम्। पाप्मा। अनु। पद्यताम्। २६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

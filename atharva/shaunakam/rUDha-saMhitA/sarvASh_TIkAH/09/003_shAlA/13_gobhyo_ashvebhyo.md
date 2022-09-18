@@ -19,10 +19,9 @@ Ppp. lacks, probably by an oversight, the second half-verse.
 Homage to kine and steeds! to all that shall be born within the house We loose the bonds that fasten thee, mother of multitudes to come!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गोभ्य:। अश्वेभ्य:। नम:। यत्। शालायाम्। विऽजायते। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१३।
+गोभ्यः। अश्वेभ्यः। नमः। यत्। शालायाम्। विऽजायते। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

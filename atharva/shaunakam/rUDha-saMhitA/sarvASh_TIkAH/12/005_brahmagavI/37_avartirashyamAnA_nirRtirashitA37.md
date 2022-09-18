@@ -16,7 +16,6 @@ title = "३७ अवर्तिरश्यमाना निरृतिर
 Poverty while she is being eaten. Destruction when eaten.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवर्तिः। अश्यमाना। निःऽऋतिः। अशिता। ८.१०।

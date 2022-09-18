@@ -28,10 +28,9 @@ syllable in **a**. \*⌊The metrical difficulty is in the prior part of
 He goes away as 'twere from this fierce burning fire, inebriated and lamenting he departs. Let him, the lawless, seek another and not us. Worship be paid to Fever armed with fiery heat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:ऽइव। अस्य। दहत:। एति। शुष्मिण:। उतऽइव। मत्त:। विऽलपन्। अप। अयति। अन्यम्। अस्मत्। इच्छतु। कम्। चित्। अव्रत:। तपु:ऽवधाय। नम:। अस्तु। तक्मने। २०.१।
+अग्नेःऽइव। अस्य। दहतः। एति। शुष्मिणः। उतऽइव। मत्तः। विऽलपन्। अप। अयति। अन्यम्। अस्मत्। इच्छतु। कम्। चित्। अव्रतः। तपुःऽवधाय। नमः। अस्तु। तक्मने। २०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

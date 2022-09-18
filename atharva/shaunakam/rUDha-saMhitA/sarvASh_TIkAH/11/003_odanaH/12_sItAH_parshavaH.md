@@ -13,7 +13,6 @@ title = "१२ सीताः पर्शवः"
 Furrows are its ribs, sandy soils the undigested contents of its stomach.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सीताः। पर्शवः। सिकताः। ऊबध्यम्। ३.१२।

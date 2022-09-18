@@ -23,7 +23,6 @@ Vāit. 10. 8 ⌊in the *paśubandha*⌋.
 Together with the Gods, banning Pis5chas and demons, hath Vanaspati come hither. He shall rise up and send his voice out loudly. May we win all the worlds with him to help us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वनस्पतिः। सह। देवैः। नः। आ। अगन्। रक्षः। पिशाचान्। अपऽबाधमानः। सः। उत्। श्रयातै। प्र। वदाति। वाचम्। तेन। लोकान्। अभि। सर्वान्। जयेम। ३.१५।

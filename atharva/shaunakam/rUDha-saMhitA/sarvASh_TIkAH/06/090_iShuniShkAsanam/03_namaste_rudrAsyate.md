@@ -21,10 +21,9 @@ namas trayatābhyaḥ* (but in i., where the verse is also found,
 Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to thine arrow when it left the bow, and when it fell!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। रुद्र। अस्यते। नम:। प्रतिऽहितायै। नम:। विऽसृज्यमानायै। नम:। निऽपतितायै। ९०.३।
+नमः। ते। रुद्र। अस्यते। नमः। प्रतिऽहितायै। नमः। विऽसृज्यमानायै। नमः। निऽपतितायै। ९०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

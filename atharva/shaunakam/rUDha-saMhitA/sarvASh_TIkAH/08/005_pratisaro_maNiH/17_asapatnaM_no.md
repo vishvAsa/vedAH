@@ -20,10 +20,9 @@ Ppp. has, for **c**, *indra piśācaṁ naṣ paścāt*.
 Brave Indra, set before us light, peace and security from below, Peace and security from above, peace and security from behind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असपत्नम्। न:। अधरात्। असपत्नम्। न:। उत्तरात्। इन्द्र। असपत्नम्। न:। पश्चात्। ज्योति:। शूर। पुर:। कृधि। ५.१७।
+असपत्नम्। नः। अधरात्। असपत्नम्। नः। उत्तरात्। इन्द्र। असपत्नम्। नः। पश्चात्। ज्योतिः। शूर। पुरः। कृधि। ५.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

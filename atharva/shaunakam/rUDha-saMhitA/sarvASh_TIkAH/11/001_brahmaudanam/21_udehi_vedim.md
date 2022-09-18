@@ -24,7 +24,6 @@ reads *enam* at end of **a**, *pratiraṁ dhehy enam* at end of **b**,
 Rise to the altar: bless this dame with offspring. Promote this woman; drive away the demons. May we surpass in glory all our rivals. I cast beneath my feet the men who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽएहि। वेदिम्। प्रऽजया। वर्धय। एनाम्। नुदस्व। रक्षः। प्रऽतरम्। धेहि। एनाम्। श्रिया। समानान्। अति। सर्वान्। स्याम। अधःऽपदम्। द्विषतः। पादयामि। १.२१।

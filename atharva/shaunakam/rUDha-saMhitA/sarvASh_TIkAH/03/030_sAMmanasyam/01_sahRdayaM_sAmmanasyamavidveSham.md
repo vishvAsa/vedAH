@@ -21,10 +21,9 @@ the meter. The comm. also reads the latter, and for the former
 Freedom from hate I bring to you, concord and unanimity. Love one another as the cow loveth the calf that she hath borne.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽहृदयम्। साम्ऽमनस्यम्। अविऽद्वेषम्। कृणोमि। व:। अन्य:। अन्यम्। अभि। हर्यत। वत्सम्। जातम्ऽइव। अघ्न्या। ३०.१।
+सऽहृदयम्। साम्ऽमनस्यम्। अविऽद्वेषम्। कृणोमि। वः। अन्यः। अन्यम्। अभि। हर्यत। वत्सम्। जातम्ऽइव। अघ्न्या। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ two; but Ppp. has instead *katarasyāḥ pṛihivyāḥ.*
 Whence were these two produced? which was that region?' From what world, from which earth had they their being? Calves of Viraj, these two arose from water. I ask thee of these twain, who was their milker.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कुत:। तौ। जातौ। कतम:। स:। अर्ध:। कस्मात्। लोकात्। कतमस्या:। पृथिव्या:। वत्सौ। विऽराज:। सलिलात्। उत्। ऐताम्। तौ। त्वा। पृच्छामि। कतरेण। दुग्धा। ९.१।
+कुतः। तौ। जातौ। कतमः। सः। अर्धः। कस्मात्। लोकात्। कतमस्याः। पृथिव्याः। वत्सौ। विऽराजः। सलिलात्। उत्। ऐताम्। तौ। त्वा। पृच्छामि। कतरेण। दुग्धा। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

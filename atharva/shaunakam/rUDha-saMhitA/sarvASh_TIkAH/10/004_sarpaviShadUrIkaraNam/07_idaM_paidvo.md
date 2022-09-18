@@ -33,7 +33,6 @@ ms., either of W's or of SPP's, gives that reading.—Cf. *atighnyàs*, xi.
 Here was the horse of Pedu born: this is the way that takes him hence. These are the tracks the courser left, the mighty slayer of the Snakes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। पैद्वः। अजायत। इदम्। अस्‍य। पराऽअयनम्। इमानि। अर्वतः। पदा। अहिऽघ्न्यः। वाजिनीऽवतः। ४.७।

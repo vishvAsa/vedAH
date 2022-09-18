@@ -23,7 +23,6 @@ the *anuṣṭubhs* of the hymn. The verse is quoted in Kāuś. 72. 3.
 By pathways travelled by the Gods these waters, well-knowing, from below have mounted upward. High on the summit of the raining mountain the ancient rivers fresh and new are flowing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताः। अधरात्। उदीचीः। आ। अववृत्रन्। प्रऽजानतीः। पथिऽभिः। देवऽयानैः। पर्वतस्य। वृषभस्य। अधि। पृष्ठे। नवाः। चरन्ति। सरितः। पुराणीः। २.४१।

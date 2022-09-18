@@ -17,7 +17,6 @@ remnant were born all the gods in heaven, heaven-resorters.
 All things that breathe the breath of life, all creatures that have eyes to see, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। च। प्राणति। प्राणेन। यत्। च। पश्यति। चक्षुषा। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२३।

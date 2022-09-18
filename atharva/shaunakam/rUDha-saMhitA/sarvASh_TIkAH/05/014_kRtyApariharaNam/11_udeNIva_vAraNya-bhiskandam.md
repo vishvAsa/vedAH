@@ -120,7 +120,6 @@ verse is a fairly regular
 Even as the timid antelope or hind from her assailant flees, So swiftly let the sorcery o'ertake and reach the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। एणीऽइव। वारणी। अभिऽस्कन्दम्। मृगीऽइव। कृत्या। कर्तारम्। ऋच्छतु। १४.११।

@@ -35,10 +35,9 @@ tubhyaṁ yadi tatvam asti;* and it omits **d**. ⌊The translation implies
 One origin, Varuna! one bond unites us I know the nature of that common kinship. I give thee now the gift that I retracted. I am thy friend for ever firm and faithful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समा। नौ। बन्धु:। वरुण। समा। जा। वेद। अहम्। तत्। यत्। नौ। एषा। समा। जा। ददामि। तत्। यत्। ते। अदत्त:। अस्मि। युज्य:। ते। सप्तऽपद:। सखा। अस्मि। ११.१०।
+समा। नौ। बन्धुः। वरुण। समा। जा। वेद। अहम्। तत्। यत्। नौ। एषा। समा। जा। ददामि। तत्। यत्। ते। अदत्तः। अस्मि। युज्यः। ते। सप्तऽपदः। सखा। अस्मि। ११.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

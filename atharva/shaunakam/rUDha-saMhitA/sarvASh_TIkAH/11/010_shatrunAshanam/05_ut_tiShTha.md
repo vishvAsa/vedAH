@@ -19,7 +19,6 @@ compound in **d**. ⌊In some copies the *i* of *priyā* is broken.⌋
 Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrificed to thee, Trishandhi's welcome offering
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। त्वम्। देवऽजन। अर्बुदे। सेनया। सह। अयम्। बलिः। वः। आऽहुतः। त्रिऽसंधेः। आऽहुतिः। प्रिया। १२.५।

@@ -21,10 +21,9 @@ filling-out. Ppp. has for **a** *ehi ehi punar ehi*, and reads *hi* for
 O man, stay here among us; stay with all thy spirit: follow not Yama's two messengers. Approach the castles where the living dwell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एधि। पुरुष। सर्वेण। मनसा। सह। दूतौ। यमस्य। मा। अनु। गा:। अधि। जीवऽपुरा:। इहि। ३०.६।
+इह। एधि। पुरुष। सर्वेण। मनसा। सह। दूतौ। यमस्य। मा। अनु। गाः। अधि। जीवऽपुराः। इहि। ३०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

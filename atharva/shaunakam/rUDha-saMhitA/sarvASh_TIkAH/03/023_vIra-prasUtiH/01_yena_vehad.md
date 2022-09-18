@@ -20,7 +20,6 @@ of vss. 1 and 2.
 From thee we banish and expel the cause of thy sterility. This in another place we lay apart from thee and far removed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। वेहत्। बभूविथ। नाशयामसि। तत्। त्वत्। इदम्। तत्। अन्यत्र। त्वत्। अप। दूरे। नि। दध्मसि। २३.१।

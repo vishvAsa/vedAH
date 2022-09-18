@@ -39,10 +39,9 @@ his collation) *yeṣām* for *hy eṣām*, as Ppp. readings.⌋
 Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy them. The Vasus slew, and these were left imploring. Wise Agni as our messenger assail them!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यूयम्। उग्रा:। मरुत:। ईदृशे। स्थ। अभि। प्र। इत। मृणत। सहध्वम्। अमीमृणन्। वसव:। नाथिता:। इमे। अग्नि:। हि। एषाम्। दूत:। प्रतिऽएतु। विद्वान्। १.२।
+यूयम्। उग्राः। मरुतः। ईदृशे। स्थ। अभि। प्र। इत। मृणत। सहध्वम्। अमीमृणन्। वसवः। नाथिताः। इमे। अग्निः। हि। एषाम्। दूतः। प्रतिऽएतु। विद्वान्। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ for *gīrbhír havāmahe* in **b**. The comm. takes *brahmā́ṇam* in **d** as
 We call King Soma to our aid, and Agni with our songs and. hymn, The Adityas, Vishnu, Surya, and the Brahman-priest Brihaspati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमम्। राजानम्। अवसे। अग्निम्। गी:ऽभि:। हवामहे। आदित्यम्। विष्णुम्। सूर्यम्। ब्रह्माणम्। च। बृहस्पतिम्। २०.४।
+सोमम्। राजानम्। अवसे। अग्निम्। गीःऽभिः। हवामहे। आदित्यम्। विष्णुम्। सूर्यम्। ब्रह्माणम्। च। बृहस्पतिम्। २०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

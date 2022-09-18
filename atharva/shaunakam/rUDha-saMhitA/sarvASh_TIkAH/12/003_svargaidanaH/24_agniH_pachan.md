@@ -25,7 +25,6 @@ the kettle.
 Eastward may Agni as he cooks preserve thee. Southward may Indra, grit by Maruts, guard thee, Varuna strengthen and support thee westward, and Soma on the north hold thee together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। पचन्। रक्षतु। त्वा। पुरस्तात्। इन्द्रः। रक्षतु। दक्षिणतः। मरुत्वान्। वरुणः। त्वा। दृंहात्। धरुणे। प्रतीच्याः। उत्तरात्। त्वा। सोमः। सम्। ददातै। ३.२५।

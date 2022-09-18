@@ -21,10 +21,9 @@ in Ppp.) "food." The comm. explains *nilimpās* as *nitarāṁ liptāḥ*.
 Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are your arrow. Be kind, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। ध्रुवायाम्। दिशि। निऽलिम्पा:। नाम। देवा:। तेषाम्। व:। ओषधी:। इषव:। ते। न:। मृडत। ते। न:। अधि। ब्रूत। तेभ्य:। व:। नम:। तेभ्य:। व:। स्वाहा। २६.५।
+ये। अस्याम्। स्थ। ध्रुवायाम्। दिशि। निऽलिम्पाः। नाम। देवाः। तेषाम्। वः। ओषधीः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

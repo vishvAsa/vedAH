@@ -19,7 +19,6 @@ Again two unnoticed redundant syllables.
 Whitheward go the half-months, and, accordant with the full year, the months in their procession? Who out of many, tell me, is that Skambha to whom go seasons and the groups of seasons?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्व। अर्धऽमासाः। क्व। यन्ति। मासाः। सम्ऽवत्सरेण। सह। सम्ऽविदानाः। यत्र। यन्ति। ऋतवः। यत्र। आर्तवाः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.५।

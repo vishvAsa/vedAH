@@ -33,10 +33,9 @@ tasmāi.* The comm. ⌊quoting Yaska⌋ declares *śunāsīrāu* to be Vāyu and
 Happily let the shares turn up the ploughland, the ploughers happily follow the oxen. Pleased with our sacrifice, Suna and Sira! make the plants bring this man abundant produce.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुनम्। सुऽफाला:। वि। तुदन्तु। भूमिम्। शुनम्। कीनाशा:। अनु। यन्तु। वाहान्। शुनासीरा। हविषा। तोशमाना। सुऽपिप्पला:। ओषधी:। कर्तम्। अस्मै। १७.५।
+शुनम्। सुऽफालाः। वि। तुदन्तु। भूमिम्। शुनम्। कीनाशाः। अनु। यन्तु। वाहान्। शुनासीरा। हविषा। तोशमाना। सुऽपिप्पलाः। ओषधीः। कर्तम्। अस्मै। १७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

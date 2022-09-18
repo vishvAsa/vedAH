@@ -20,7 +20,6 @@ identical with 7. 26 **a, b** above.
 Enjoyments, pleasures, and delights, gladness, and rapturous ecstasies. Laughter and merriment and dance entered the body as a home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽनन्दाः। मोदाः। प्रऽमुदः। अभिमोदऽमुदः। च। ये। हसः। नरिष्टा। नृत्तानि। शरीरम्। अनु। प्र। अविशन्। १०.२४।

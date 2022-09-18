@@ -18,7 +18,6 @@ Ppp. adds *antarikṣe patanty antarikṣā ”bhāti* ⌊*svargo* etc.⌋.
 He, having been invited in air, regales, invited, in that which wears all various forms in air.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। अन्तरिक्षे। भक्षयति। उपऽहूतः। तस्मिन्। यत्। अन्तरिक्षे। विश्वऽरूपम्। ११.८।

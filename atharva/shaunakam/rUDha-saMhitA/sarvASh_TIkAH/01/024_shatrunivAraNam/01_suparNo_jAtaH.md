@@ -27,10 +27,9 @@ of two *pada*-mss.
 First, before all, the strong-winged Bird was born;; thou wast the gall thereof. Conquered in fight, the Asuri took then the shape and form of plants.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽपर्ण:। जात:। प्रथम:। तस्य। त्वम्। पित्तम्। आसिथ। तत्। आसुरी। युधा। जिता। रूपम्। चक्रे। वनस्पतीन्।
+सुऽपर्णः। जातः। प्रथमः। तस्य। त्वम्। पित्तम्। आसिथ। तत्। आसुरी। युधा। जिता। रूपम्। चक्रे। वनस्पतीन्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

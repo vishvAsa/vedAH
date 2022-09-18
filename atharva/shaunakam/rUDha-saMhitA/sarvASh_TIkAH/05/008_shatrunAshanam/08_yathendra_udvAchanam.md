@@ -29,10 +29,9 @@ passed without notice by the Anukr.
 As Indra, having seized him, set his foot upon Udvachana, Even so for all the coming years I cast those men beneath my feet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इन्द्र:। उत्ऽवाचनम्। लब्ध्वा। चक्रे। अध:ऽपदम्। कृण्वे। अहम्। अधरान्। तथा। अमून्। शश्वतीभ्य:। समाभ्य:। ८.८।
+यथा। इन्द्रः। उत्ऽवाचनम्। लब्ध्वा। चक्रे। अधःऽपदम्। कृण्वे। अहम्। अधरान्। तथा। अमून्। शश्वतीभ्यः। समाभ्यः। ८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ called *upayamana;* the "Gandharva" is either the sun or the fire.
 Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence Gods are wont to drink. Yea, the Immortal Ones accept it, one and all, and come to kiss that cup with the Gandharva's mouth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वाहाऽकृत:। शुचि:। देवेषु। यज्ञ:। य:। अश्विनो:। चमस:। देवऽपान:। तम्। ऊं इति। विश्वे। अमृतास:। जुषाणा:। गन्धर्वस्य। प्रति। आस्ना। रिहन्ति। ७७.३।
+स्वाहाऽकृतः। शुचिः। देवेषु। यज्ञः। यः। अश्विनोः। चमसः। देवऽपानः। तम्। ऊं इति। विश्वे। अमृतासः। जुषाणाः। गन्धर्वस्य। प्रति। आस्ना। रिहन्ति। ७७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

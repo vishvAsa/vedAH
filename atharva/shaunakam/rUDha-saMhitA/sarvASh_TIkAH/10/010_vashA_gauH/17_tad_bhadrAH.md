@@ -19,7 +19,6 @@ The second half-verse is identical with 12 **c, d** above. Ppp. reads in
 Then came and met the Blessed Ones, Deshtri, the Cow, and Svadha, where Atharvan, consecrated. sate upon the Sacred Grass of gold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। भद्राः। सम्। अगच्छन्त। वशा। देष्ट्री। अथो इति। स्वधा। अथर्वा। यत्र। दीक्षितः। बर्हिषि। आस्त। हिरण्यये। १०.१७।

@@ -7,7 +7,6 @@ title = "०६६ ब्रह्म"
 66 (68). For recovery of sacred knowledge (brā́hmaṇa).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्म।  
@@ -18,8 +17,6 @@ title = "०६६ ब्रह्म"
 
 [Brahman.—brāhmaṇam. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 25, 89; Griffith, i. 359.
 
 A prayer to Vak
 </details>
+

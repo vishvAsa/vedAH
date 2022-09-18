@@ -21,7 +21,6 @@ in **c** *sarvāṅs tān*.
 All children of Prajapati have breath distinctly in themselves. The Brahma that is stored within the Brahmachari guards them all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृथक्। सर्वे। प्राजाऽपत्याः। प्राणान्। आत्मऽसु। बिभ्रति। तान्। सर्वान्। ब्रह्म। रक्षति। ब्रह्मऽचारिणि। आऽभृतम्। ७.२२।

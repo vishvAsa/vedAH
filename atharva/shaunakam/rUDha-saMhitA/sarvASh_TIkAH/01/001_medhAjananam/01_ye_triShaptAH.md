@@ -47,10 +47,9 @@ an Roth,* p. 94.⌋
 Now may Vachaspati assign to me the strength and powers of Those Who, wearing every shape and form, the triple seven, are wandering round.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। त्रिऽसप्ताः। परिऽयन्ति। विश्वा। रूपाणि। बिभ्रतः। वाचः। पति:। वला। तेषाम्। तन्वः। अद्य। दधातु। मे।
+ये। त्रिऽसप्ताः। परिऽयन्ति। विश्वा। रूपाणि। बिभ्रतः। वाचः। पतिः। वला। तेषाम्। तन्वः। अद्य। दधातु। मे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

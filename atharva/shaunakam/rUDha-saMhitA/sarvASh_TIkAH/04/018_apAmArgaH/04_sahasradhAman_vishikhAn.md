@@ -29,7 +29,6 @@ he regards as addressed to the *sahadevī*.
 Endowed with thousand powers! adjure the bald and those with necks awry. Back to its author turn the spell like a dear damsel to her friend!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽधामन्। विऽशिखान्। विऽग्रीवान्। शायय। त्वम्। प्रति। स्म। चक्रुषे। कृत्याम्। प्रियाम्। प्रियऽवते। हर। १८.४।

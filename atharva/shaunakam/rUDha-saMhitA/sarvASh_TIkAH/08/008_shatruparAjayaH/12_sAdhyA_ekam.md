@@ -19,10 +19,9 @@ ekā udyatā*.
 Forth go the Sadhyas in their might bearing one netpole raised aloft. One pole the Rudras carry, one the Vasus, and the Adityas one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-साध्या:। एकम्। जालऽदण्डम्। उत्ऽयत्य। यन्ति। ओजसा। रुद्रा:। एकम्। वसव:। एकम्। आदित्यै:। एक:। उत्ऽयत:। ८.१२।
+साध्याः। एकम्। जालऽदण्डम्। उत्ऽयत्य। यन्ति। ओजसा। रुद्राः। एकम्। वसवः। एकम्। आदित्यैः। एकः। उत्ऽयतः। ८.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

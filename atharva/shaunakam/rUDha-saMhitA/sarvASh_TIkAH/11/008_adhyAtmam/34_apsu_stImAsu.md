@@ -27,7 +27,6 @@ caturdaśa ca:* that is 14 over 20.⌋
 In the primeval waters cold the body is deposited. In this there is the power of growth: from this is power of growth declared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप्ऽसु। स्तीमासु। वृध्दासु। शरीरम्। अन्तरा। हितम्। तस्मिन्। शवः। अधि। अन्तरा। तस्मात्। शवः। अधि। उच्यते। १०.३४।

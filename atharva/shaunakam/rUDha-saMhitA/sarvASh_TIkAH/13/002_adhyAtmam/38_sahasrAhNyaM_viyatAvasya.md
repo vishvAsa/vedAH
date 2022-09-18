@@ -20,7 +20,6 @@ We had the verse above as x. 8. 18, and it is repeated again below as 3.
 This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' continued journey Supporting all the Gods upon his bosom, he goes his way behold- ing every creature.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽअह्न्यम्। विऽयतौ। अस्य। पक्षौ। हरेः। हंसस्य। पततः। स्वःऽगम्। सः। देवान्। सर्वान्। उरसि। उपऽदद्य। सम्ऽपश्यन्। याति। भुवनानि। विश्वा। २.३८।

@@ -23,10 +23,9 @@ iii. 76, iv. 77, the commentary quoting it under each rule.
 Fly, conquered, in alarm, ye foes, run driven by the spell away! Let not one man escape of those when routed by Brihaspati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पराऽजिता:। प्र। त्रसत। अमित्रा:। नुत्ता:। धावत। ब्रह्मणा। बृहस्पतिऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। क:। चन। ८.१९।
+पराऽजिताः। प्र। त्रसत। अमित्राः। नुत्ताः। धावत। ब्रह्मणा। बृहस्पतिऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। कः। चन। ८.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

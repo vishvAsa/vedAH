@@ -25,10 +25,9 @@ verse.⌋ ⌊Repeated below as xviii. 4. 69.⌋
 Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and under. So before Aditi may we be sinless under thy favouring auspices, Aditya!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। उत्ऽतमम्। वरुण। पाशम्। अस्मत्। अव। अधमम्। वि। मध्यमम्। श्रयथ। अध। वयम्। आदित्य। व्रते। तव। अनागस:। अदितये। स्याम। ८८.३।
+उत्। उत्ऽतमम्। वरुण। पाशम्। अस्मत्। अव। अधमम्। वि। मध्यमम्। श्रयथ। अध। वयम्। आदित्य। व्रते। तव। अनागसः। अदितये। स्याम। ८८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

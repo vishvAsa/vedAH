@@ -24,10 +24,9 @@ explains the word correspondingly with *dhanavān hitātmā vā*.
 May Indra with his help, Lord of all treasures, be unto us a careful protector. Drive off our foes and give us peace and safety. May we be lords of goodly store of heroes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। सुऽत्रामा। स्वऽवान्। अव:ऽभि:। सुऽमृडीक:। भवतु। विश्वऽवेदा:। बाधताम्। द्वेष:। अभयम्। न:। कृणोतु। सुऽवीर्यस्य। पतय:। स्याम। ९६.१।
+इन्द्रः। सुऽत्रामा। स्वऽवान्। अवःऽभिः। सुऽमृडीकः। भवतु। विश्वऽवेदाः। बाधताम्। द्वेषः। अभयम्। नः। कृणोतु। सुऽवीर्यस्य। पतयः। स्याम। ९६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

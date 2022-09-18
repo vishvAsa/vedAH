@@ -26,10 +26,9 @@ quoted under Prāt. iv. 18 as an example of a word made with a
 Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O thou Plant, destroy the slippery fiend who lusts for her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। कृणोति। मृतऽवत्सरम्। अवऽतोकाम्। इमाम्। स्त्रियम्। तम्। ओषधे। त्वम्। नाशय। अस्या:। कमलम्। अञ्जिऽवम्। ६.९।
+यः। कृणोति। मृतऽवत्सरम्। अवऽतोकाम्। इमाम्। स्त्रियम्। तम्। ओषधे। त्वम्। नाशय। अस्याः। कमलम्। अञ्जिऽवम्। ६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

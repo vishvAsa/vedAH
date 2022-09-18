@@ -24,7 +24,6 @@ very irregular '"*jagatī*."
 One form comes on, the other is reverted: to day and night the Strong One shapes and fits him. With humble prayer for aid we call on Surya, who knows the way, whose home is in the region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभि। अन्यत्। एति। परि। अन्यत्। अस्यते। अहोरात्राभ्याम्। महिषः। कल्पमानः। सूर्यम्‌। वयम्। रजसि। क्षियन्तम्। गातुऽविदम्। हवामहे। नाधमानाः। २.४३।

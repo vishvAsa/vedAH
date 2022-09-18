@@ -17,7 +17,6 @@ the cross-lined ones, crushed down the *pṛ́dākus*.
 Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis have been slain and vipers crushed and brayed to bits.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहीनाम्। सर्वेषाम्। विषम्। परा। वहन्तु। सिन्धवः। हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। ४.२०।

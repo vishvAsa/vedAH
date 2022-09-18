@@ -26,10 +26,9 @@ the hymns, *ṣaṣṭhaś caturdaśa*.
 Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy. Feed on the grass, O Cow, at every season, and, coming hither, drink the limpid water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुयवसऽअत्। भगऽवती। हि। भूया:। अध। वयम्। भगऽवन्त:। स्याम। अध्दि। तृणम्। अघ्न्ये। विश्वऽदानीम्। पिब। शुध्दम्। उदकम्। आऽचरन्ती। ७७.११।
+सुयवसऽअत्। भगऽवती। हि। भूयाः। अध। वयम्। भगऽवन्तः। स्याम। अध्दि। तृणम्। अघ्न्ये। विश्वऽदानीम्। पिब। शुध्दम्। उदकम्। आऽचरन्ती। ७७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

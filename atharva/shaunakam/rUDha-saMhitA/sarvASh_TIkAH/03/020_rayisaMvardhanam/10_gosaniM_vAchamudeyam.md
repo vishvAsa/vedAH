@@ -23,10 +23,9 @@ quotation from the old Anukr. is simply *daśa*.
 May speech that winneth cows be mine. With splendour mount thou over me. May Vayu hedge me round about May Pushan make me pros- perous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गोऽसनिम्। वाचम्। उदेयम्। वर्चसा। मा। अभिऽउदिहि। आ। रुन्धाम्। सर्वत:। वायु:। त्वष्टा। पोषम्। दधातु। मे। २०.१०।
+गोऽसनिम्। वाचम्। उदेयम्। वर्चसा। मा। अभिऽउदिहि। आ। रुन्धाम्। सर्वतः। वायुः। त्वष्टा। पोषम्। दधातु। मे। २०.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

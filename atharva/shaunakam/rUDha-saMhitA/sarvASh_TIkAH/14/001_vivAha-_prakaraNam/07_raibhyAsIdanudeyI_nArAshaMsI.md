@@ -25,7 +25,6 @@ einführend'; Weber, 'train' and 'hand-maid.'
 Raibhi was her dear bridal friend, and Narasatisi led her home. Lovely to see was Surya's robe: by Gatha beautified she moves
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रैभी। आसीत्। अनुऽदेयी। नाराशंसी। निऽओचनी। सूर्यायाः। भद्रम्। इत्। वासः। गाथया। एति। परिष्कृता। १.७।

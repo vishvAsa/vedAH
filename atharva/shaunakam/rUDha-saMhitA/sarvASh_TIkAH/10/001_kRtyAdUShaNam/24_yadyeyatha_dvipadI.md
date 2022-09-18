@@ -20,7 +20,6 @@ The verse has the same structure as 20. The *pada*-text here and in vs.
 If thou hast come two-footed or four-footed, made by the sorcerer, wrought in perfect beauty, Become eight-footed and go hence. Speed back again, thou evil one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। आऽइयथ। द्विऽपदी। चतुःऽपदी। कृत्याऽकृता। सम्ऽभृता। विश्वऽरूपा। सा। इतः। अष्टाऽपदी। भूत्वा। पुनः। परा। इहि। दुच्छुने। १.२४।

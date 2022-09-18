@@ -20,10 +20,9 @@ half-verse is *taṁ ma indras sahā ”yuṣā maṇiṁ dadātu bhartave.*
 That dear mysterious Amulet which Gods have set within the tree, May the Gods grant to me to wear together with extended life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। निऽदधु:। वनस्पतौ। गुह्यम्। देवा:। प्रियम्। मणिम्। तम्। अस्मभ्यम्। सह। आयुषा। देवा:। ददतु। भर्तवे। ५.३।
+यम्। निऽदधुः। वनस्पतौ। गुह्यम्। देवाः। प्रियम्। मणिम्। तम्। अस्मभ्यम्। सह। आयुषा। देवाः। ददतु। भर्तवे। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

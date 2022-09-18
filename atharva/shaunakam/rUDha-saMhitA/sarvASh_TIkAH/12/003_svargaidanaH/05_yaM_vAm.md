@@ -20,7 +20,6 @@ Ppp. reads at the beginning *yaṁ vaṣ pitā*.
 That which your mother and your sire, to banish sin and un- cleanness from their lips, are cooking. That Odana with hundred streams, sky-reaching, hath in its might prevaded earth and heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। वाम्। पिता। पचति। यम्। च। मात। रिप्रात्। निःऽमुक्त्यै। शमलात्। च। वाचः। सः। ओदनः। शतऽधारः। स्वःऽगः। उभे इति। वि। आप। नभसी इति। महिऽत्वा। ३.५।

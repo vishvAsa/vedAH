@@ -23,10 +23,9 @@ better). Ppp. further reads *yamās* for *śivās*, and *ejati* for *-thā*;
 Ye make floods rich in milk, make plants propitious, what time ye stir, O golden-breasted Maruts! Pour down your showers of vigorous strength and favour there where ye sprinkle mead, O Maruts, heroes!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पयस्वती:। कृणुथ। अप:। ओषधी:। शिवा:। यत्। एजथ। मरुत:। रुक्मऽवक्षस:। ऊर्जम्। च। तत्र। सुऽमतिम्। च। पिन्वत। यत्र। नर:। मरुत:। सिञ्चथ। मधु। २२.२।
+पयस्वतीः। कृणुथ। अपः। ओषधीः। शिवाः। यत्। एजथ। मरुतः। रुक्मऽवक्षसः। ऊर्जम्। च। तत्र। सुऽमतिम्। च। पिन्वत। यत्र। नरः। मरुतः। सिञ्चथ। मधु। २२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०११ संपत्कर्म"
 11. ⌊Dialogue between⌋ Varuṇa and Atharvan.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 संपत्कर्म।  
@@ -19,8 +18,6 @@ title = "०११ संपत्कर्म"
 [Atharvan.—ekādaśakam. vāruṇam. trāiṣṭubham: 1. bhurij; 3. pan̄kti; 6. 5-p. atiśakvarī; 11. 3-av. 6-p. atyaṣṭi.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found also in Pāipp. viii. It is used by Kāuś. only once, and in a connection
 
 A dialogue between Atharvan and Varuna
 </details>
+

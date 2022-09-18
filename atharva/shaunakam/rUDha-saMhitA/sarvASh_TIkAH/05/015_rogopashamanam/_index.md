@@ -7,7 +7,6 @@ title = "०१५ रोगोपशमनम्"
 15. For exorcism: to a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रोगोपशमनम्।  
@@ -18,8 +17,6 @@ title = "०१५ रोगोपशमनम्"
 
 [Viśvāmitra.—ekādaśakam. vānasfatyam. ānuṣṭubham: 4. purastādbṛhatī; 5, 7, 8, 9. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 211; Weber, xviii. 220.
 
 A charm for general prosperity
 </details>
+

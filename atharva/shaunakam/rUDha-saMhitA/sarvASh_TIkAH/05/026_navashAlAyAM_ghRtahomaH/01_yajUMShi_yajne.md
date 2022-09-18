@@ -21,10 +21,9 @@ reckons only 21 syllables.
 In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यजूंषि। यज्ञे। सम्ऽइध:। स्वाहा। अग्नि:। प्रऽविद्वान्। इह। व:। युनक्तु। २६.१।
+यजूंषि। यज्ञे। सम्ऽइधः। स्वाहा। अग्निः। प्रऽविद्वान्। इह। वः। युनक्तु। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

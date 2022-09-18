@@ -36,7 +36,6 @@ rest of the hymn.
 To the eastern region, to Agni the Regent, to Asita the Protector, Aditya the Archer, we present thee, this offering of ours. Do ye preserve it from aggression To full old age may Destiny conduct us; may full old age deliver us to Mrityu. Then may we be with our prepared oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राच्यै। त्वा। दिशे। अग्नये। अधिऽपतये। असिताय। रक्षित्रे। आदित्याय। इषुऽमते। एतम्। परि। दद्मः। तम्। नः। गोपायत। आ। अस्माकम्। आऽएतोः। दिष्टम्। नः। अत्र। जरसे। नि। नेषत्। जरा। मृत्यवे। परि। नः। ददातु। अथ। पक्वेन। सह। सम्। भवेम। ३.५५।

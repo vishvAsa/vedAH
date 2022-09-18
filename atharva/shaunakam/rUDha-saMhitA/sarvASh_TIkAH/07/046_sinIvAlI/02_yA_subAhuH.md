@@ -20,10 +20,9 @@ suṣumā*.
 Present the sacrifice to her, to Sinivali, Queen of men, Beauti- ful-fingered, lovely-armed, prolific, bearing many a child.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। सुऽबाहु:। सुऽअङ्गुरि:। सुऽसूमा। बहुऽसूवरी। तस्यै। विश्पत्न्यै। हवि:। सिनीवाल्यै। जुहोतन। ४८.२।
+या। सुऽबाहुः। सुऽअङ्गुरिः। सुऽसूमा। बहुऽसूवरी। तस्यै। विश्पत्न्यै। हविः। सिनीवाल्यै। जुहोतन। ४८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

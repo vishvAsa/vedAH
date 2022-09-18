@@ -18,10 +18,9 @@ homage to thy breath have I made.
 I blow upon thee with the breath of bipeds and quadrupeds, as on a fire new-kindled. To thee, O Death, and to thy sight and breath have I paid reverence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणेन। त्वा। द्विऽपदाम्। चतु:ऽपदाम्। अग्निम्ऽइव। जातम्। अभ‍ि। सम्। धमामि। नम:। ते। मृत्यो इति। चक्षुषे। नम:। प्राणाय। ते। अकरम्। २.४।
+प्राणेन। त्वा। द्विऽपदाम्। चतुःऽपदाम्। अग्निम्ऽइव। जातम्। अभ‍ि। सम्। धमामि। नमः। ते। मृत्यो इति। चक्षुषे। नमः। प्राणाय। ते। अकरम्। २.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

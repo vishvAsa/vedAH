@@ -20,10 +20,9 @@ deficiency of a syllable in **a** is not noticed by the Anukr.
 Let Varana the heavenly tree here present keep disease away. The Gods have driven off Decline that entered and possessed this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वरण:। वारयातै। अयम्। देव:। वनस्पति:। यक्ष्म:। य:। अस्मिन्। आऽविष्ट:। तम्। ऊं इति। देवा:। अवीवरन्। ८५.१।
+वरणः। वारयातै। अयम्। देवः। वनस्पतिः। यक्ष्मः। यः। अस्मिन्। आऽविष्टः। तम्। ऊं इति। देवाः। अवीवरन्। ८५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

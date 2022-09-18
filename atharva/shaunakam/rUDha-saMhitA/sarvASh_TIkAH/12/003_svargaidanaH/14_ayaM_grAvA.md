@@ -27,7 +27,6 @@ mortar, pestle, and winnowing basket, after sprinkling, upon the hide.
 This pressing-stone, broad-based and strength-bestowing, made pure by cleansing means, shall chase the demon. Mount on the skin: afford us great protection, Let not the sons' sin fall on wife and husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। ग्रावा। पृथुऽबुध्नः। वयःऽधाः। पूतः। पवित्रैः। अप। हन्तु। रक्षः। आ। रोह। चर्म। महि। शर्म। यच्छ। मा। दंपती  इति  दम्ऽपती। पौत्रम्। अघम्। नि। गाताम्। ३.१४।

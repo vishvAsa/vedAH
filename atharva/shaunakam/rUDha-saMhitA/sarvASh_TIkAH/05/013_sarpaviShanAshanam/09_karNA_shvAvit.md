@@ -22,10 +22,9 @@ cf. iv. 37. 10 and xiv. 2. 63.⌋
 Dwelling beside the mountain's slope, the quick-eared porcupine exclaimed: Of all these she-snakes homed in earth the poison is most powerless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कर्णा। श्वावित्। तत्। अब्रवीत्। गिरे:। अवऽचरन्तिका। या:। का:। च। इमा:। खनित्रिमा:। तासाम्। अरसऽतमम्। विषम्। १३.९।
+कर्णा। श्वावित्। तत्। अब्रवीत्। गिरेः। अवऽचरन्तिका। याः। काः। च। इमाः। खनित्रिमाः। तासाम्। अरसऽतमम्। विषम्। १३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

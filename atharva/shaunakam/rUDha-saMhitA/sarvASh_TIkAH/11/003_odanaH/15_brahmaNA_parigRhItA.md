@@ -13,7 +13,6 @@ title = "१५ ब्रह्मणा परिगृहीता"
 Received by the Brahman, it has been carried round.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मणा। परिऽगृहिता। साम्ना। परिऽऊढा। ३.१५।

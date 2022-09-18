@@ -19,7 +19,6 @@ although, in the apparently parallel case, it divides *pári॰vṛtā*.
 Invested with truth, surrounded with honour, compassed about with glory;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्येन। आऽवृता। श्रिया। प्रावृता। यशसा। परिऽवृता। ५.२।

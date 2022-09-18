@@ -21,10 +21,9 @@ Ppp. reads *manas* for *vayas* in **a**. The Anukr. calls the verse
 Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar and from Vayu. In thought I offer thee in air's mid-region. Thy sacrificial grass be Earth and Heaven!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहस्पति:। सविता। ते। वय:। दधौ। त्वष्टु:। वायो:। परि। आत्मा। ते। आऽभृत:। अन्तरिक्षे। मनसा। त्वा। जुहोमि। बर्हि:। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। ४.१०।
+बृहस्पतिः। सविता। ते। वयः। दधौ। त्वष्टुः। वायोः। परि। आत्मा। ते। आऽभृतः। अन्तरिक्षे। मनसा। त्वा। जुहोमि। बर्हिः। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। ४.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

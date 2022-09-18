@@ -18,10 +18,9 @@ Ppp. ⌊see under vs. 25⌋ reads at the end *iti* for *abhi*.
 Hitherward unto thee I bring the Plants that cure all maladies, All Plants wherein physicians have discovered health-bestowing power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावतीषु। मनुष्या:। भेषजम्। भिषज:। विदु:। तावती:। विश्वऽभेषजी:। आ। भरामि। त्वाम्‌। अभि। ७.२६।
+यावतीषु। मनुष्याः। भेषजम्। भिषजः। विदुः। तावतीः। विश्वऽभेषजीः। आ। भरामि। त्वाम्‌। अभि। ७.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

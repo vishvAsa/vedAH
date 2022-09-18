@@ -26,10 +26,9 @@ syllables.
 From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this protect us round about from shaft of God and Asura.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समुद्रात्। जात:। मणि:। वृत्रात्। जात:। दिवाऽकर:। स:। अस्मान्। सर्वत:। पातु। हेत्या:। देवऽअसुरेभ्य:। १०.५।
+समुद्रात्। जातः। मणिः। वृत्रात्। जातः। दिवाऽकरः। सः। अस्मान्। सर्वतः। पातु। हेत्याः। देवऽअसुरेभ्यः। १०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

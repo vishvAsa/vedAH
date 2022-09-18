@@ -25,10 +25,9 @@ through the hymn. ⌊MS. has *jayati* for *jayāti*.⌋
 Indra be victor, never to be vanquished, to reign among the Kings as sovran ruler! Here be thou meet for praise and supplication, to be revered and waited on and worshipped.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। जयाति। न। परा। जयातै। अधिऽराज:। राजऽसु। राजयातै। चर्कृत्य:। ईड्य:। वन्द्य। च। उपऽसद्य:। नमस्य:। भव। इह। ९८.१।
+इन्द्रः। जयाति। न। परा। जयातै। अधिऽराजः। राजऽसु। राजयातै। चर्कृत्यः। ईड्यः। वन्द्य। च। उपऽसद्यः। नमस्यः। भव। इह। ९८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

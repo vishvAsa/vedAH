@@ -27,7 +27,6 @@ Most of our mss. accent *svā̀n* in **c**.
 Snatching away the vertebra, while with her thought she seeks her son, Her husband, brother, kin, when one, Arbudi! hath been pierc- ed by thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽकर्षन्ती। करूकरम्। मनसा। पुत्रम्। इच्छन्ती। पतिम्। भ्रातरम्। आत्। स्वान्। रदिते। अर्बुदे। तव। ११.८।

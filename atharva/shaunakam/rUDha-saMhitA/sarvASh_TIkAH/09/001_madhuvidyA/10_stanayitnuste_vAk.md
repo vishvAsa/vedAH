@@ -24,10 +24,9 @@ and that one pāda contains seven.
 The thunder is thy voice, O Lord of Creatures: a Bull, thou castest on the earth thy vigour. The Honey-whip, the Manus' first-born daughter, derives her origin from Wind and Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्तनयित्नु:। ते। वाक्। प्रजाऽपते। वृषा। शुष्मम्। क्षिपसि। भूम्याम्। अधि। अग्ने:। वातात्। मधुऽकशा। हि। जज्ञे। मरुताम्। उग्रा। नप्ति:। १.१०।
+स्तनयित्नुः। ते। वाक्। प्रजाऽपते। वृषा। शुष्मम्। क्षिपसि। भूम्याम्। अधि। अग्नेः। वातात्। मधुऽकशा। हि। जज्ञे। मरुताम्। उग्रा। नप्तिः। १.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

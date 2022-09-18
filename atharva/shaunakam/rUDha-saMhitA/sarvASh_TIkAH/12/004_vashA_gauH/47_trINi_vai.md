@@ -24,7 +24,6 @@ in the Anukr.; ⌊or rather, it lets them balance each the other⌋.
 Threefold are kine, Vilipti, cow, the mother of no seeond calf: These one should give to priests, and he will not offend Praja- pati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रीणि। वै। वशाऽजातानि। व‍िऽलिप्ती। सूतऽवशा। वशा। ताः। प्र। यच्छेत्। ब्रह्मऽभ्यः। सः। अनाव्रस्कः। प्रजाऽपतौ। ४.४७।

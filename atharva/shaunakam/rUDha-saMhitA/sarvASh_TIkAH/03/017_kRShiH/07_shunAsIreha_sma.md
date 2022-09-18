@@ -25,10 +25,9 @@ The comm. changes all the three verbs to 3d dual. The Anukr. forbids in
 Suna and Sira, welcome ye this laud, and with the milk that ye have made in heaven, Bedew ye both this earth of ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुनासीरा। इह। स्म। मे। जुषेथाम्। यत्। दिवि। चक्रथु:। पय:। तेन। इमाम्। उप। सिञ्चतम्। १७.७।
+शुनासीरा। इह। स्म। मे। जुषेथाम्। यत्। दिवि। चक्रथुः। पयः। तेन। इमाम्। उप। सिञ्चतम्। १७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

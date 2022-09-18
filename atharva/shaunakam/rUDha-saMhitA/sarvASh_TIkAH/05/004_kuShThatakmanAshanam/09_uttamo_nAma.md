@@ -19,10 +19,9 @@ ariṣṭatātaye*.
 Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Consumption pass away and render Fever powerless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽतम:। नाम। कुष्ठ। असि। उत्ऽतम:। नाम। ते। पिता। यक्ष्मम्। च। सर्वम्। नाशय। तक्मानम्। च। अरसम्। कृधि। ४.९।
+उत्ऽतमः। नाम। कुष्ठ। असि। उत्ऽतमः। नाम। ते। पिता। यक्ष्मम्। च। सर्वम्। नाशय। तक्मानम्। च। अरसम्। कृधि। ४.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

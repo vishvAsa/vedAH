@@ -26,10 +26,9 @@ and obstructing motion (*gatipratibandhaka*): cf. below ii. 4 and iii.
 This overcomes Vishkandha, -this drives the voracious fiends away: By means of this have I, o'erthrown all the Pisachi's demon brood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। विऽस्कन्धम्। सहते। इदम्। बाधते। अत्त्रिण:। अनेन। विश्वा। ससहे। या। जातानि। पिशाच्या:।
+इदम्। विऽस्कन्धम्। सहते। इदम्। बाधते। अत्त्रिणः। अनेन। विश्वा। ससहे। या। जातानि। पिशाच्याः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

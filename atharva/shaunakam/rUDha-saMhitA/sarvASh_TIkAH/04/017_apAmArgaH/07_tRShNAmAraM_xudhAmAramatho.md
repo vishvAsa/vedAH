@@ -18,7 +18,6 @@ Ppp. omits this variation on vs. 6.
 Death caused by thirst, death caused by stress of hunger, loss at play with dice, All this, O Apamarga with thine aid we cleanse and wipe away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तृष्णाऽमारम्। क्षुधाऽमारम्। अथो इति। अक्षऽपराजयम्। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.७।

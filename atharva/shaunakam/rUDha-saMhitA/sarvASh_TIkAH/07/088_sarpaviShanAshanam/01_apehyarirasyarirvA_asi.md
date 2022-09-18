@@ -24,10 +24,9 @@ snake-venoms, see note to v. 13. 4.⌋
 Depart! thou art a foe, a foe. Poison with poison hast thou mixt, yea, verily poison hast thou mixt. Go to the serpent: strike him dead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप। इहि। अरि:। असि। अरि:। वै। असि। विषे। विषम्। अपृक्था:। विषम्। इत्। वै। अपृक्था:। अहिम्। एव। अभिऽअपेहि। तम्। जहि। ९३.१।
+अप। इहि। अरिः। असि। अरिः। वै। असि। विषे। विषम्। अपृक्थाः। विषम्। इत्। वै। अपृक्थाः। अहिम्। एव। अभिऽअपेहि। तम्। जहि। ९३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

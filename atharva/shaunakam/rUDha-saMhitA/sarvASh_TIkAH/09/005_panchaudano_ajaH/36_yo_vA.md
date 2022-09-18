@@ -21,10 +21,9 @@ Anukr. gives it a name (*ākṛti*) applying properly to 88 syllables. In
 The man who knows the season called Surpassing takes to him- self the conquering fame, his hated rival's conquering fame. The Goat Panchaudana is this Conquering season. He lives himself, he verily burns up his hated rival's fame Who gives the Goat Panchaudana illumined with a priestly fee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। अभिऽभुवम्। नाम। ऋतुम्। वेद। अभिभवन्तीम्ऽअभिभवन्तीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एष:। वै। अभिऽभू:। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। नि:। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। दहति। भवति। आत्मना। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.३६।
+यः। वै। अभिऽभुवम्। नाम। ऋतुम्। वेद। अभिभवन्तीम्ऽअभिभवन्तीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। अभिऽभूः। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। निः। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। दहति। भवति। आत्मना। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.३६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ explains *dūṣi* as *śatrūtpāditā kṛtyā*. Ppp. has at the end *anenaśa
 I with my spell have chased away the pallid sign of leprosy, Caused by infection, on the skin, sprung from the body, from the bones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्थिऽजस्य। किलासस्य। तनूऽजस्य। च। यत्। त्वचि। दूप्या। कृतस्य। ब्रह्मणा। लक्ष्म। श्वेतम्। अनीनशम्।

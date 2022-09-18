@@ -23,10 +23,9 @@ instead *sahasrākṣo ‘martyaḥ;* in **d** it reads *bahlikaṁ*.
 In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is eager to depart, and to the Bahlikas will go,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्यऽक्षेत्रे। न। रमसे। वशी। सन्। मृडयसि। न:। अभूत्। ऊं इति। प्रऽअर्थ:। तक्मा। स:। गमिष्यति। बल्हिकान्। २२.९।
+अन्यऽक्षेत्रे। न। रमसे। वशी। सन्। मृडयसि। नः। अभूत्। ऊं इति। प्रऽअर्थः। तक्मा। सः। गमिष्यति। बल्हिकान्। २२.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

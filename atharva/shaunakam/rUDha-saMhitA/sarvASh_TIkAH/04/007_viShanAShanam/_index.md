@@ -7,7 +7,6 @@ title = "००७ विषनाषनम्"
 7. Against poison.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विषनाषनम्  
@@ -18,8 +17,6 @@ title = "००७ विषनाषनम्"
 
 [Garutman.—vānaspatyam. ānuṣṭubham: 4. svarāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 201; Grill, 28, 121; Griffith, i. 138; Bloomfield, 26, 37
 
 A charm to make a poisonous plant innocuous
 </details>
+

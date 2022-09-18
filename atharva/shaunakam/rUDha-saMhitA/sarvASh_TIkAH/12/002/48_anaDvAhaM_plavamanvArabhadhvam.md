@@ -25,7 +25,6 @@ verse *bhurij*.
 Seize with firm hold the Ox who boundeth forward: he will uplift you from disgrace and trouble. Enter this ship of Savitar; let us flee from poverty over all the six expenses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनड्वाहम्। प्लवम्। अनुऽआरभध्वम्। स ः। वः। निः। वक्षत्। दुःऽइतात्। अवद्यात्। आ। रोहत। सवितुः। नावम्। एताम्। षटऽभिः। उर्वीभिः। अमतिम्। तरेम। २.४८।

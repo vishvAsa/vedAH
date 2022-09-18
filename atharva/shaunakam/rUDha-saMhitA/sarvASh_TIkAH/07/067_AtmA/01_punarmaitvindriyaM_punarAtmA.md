@@ -29,10 +29,9 @@ as 7 syllables each.
 May sense return to me again, and spirit, return my Sacred Power and my possessions! Again let fires, aflame on lesser altars, each duly stationed, here succeed and prosper.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। मा। आ। एतु। इन्द्रियम्। पुन:। आत्मा। द्रविणम्। ब्राह्मणम्। च। पुन:। अग्नय:। धिष्ण्या:। यथाऽस्थाम। कल्पयन्ताम्। इह। एव। ६९.१।
+पुनः। मा। आ। एतु। इन्द्रियम्। पुनः। आत्मा। द्रविणम्। ब्राह्मणम्। च। पुनः। अग्नयः। धिष्ण्याः। यथाऽस्थाम। कल्पयन्ताम्। इह। एव। ६९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

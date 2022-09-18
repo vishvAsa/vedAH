@@ -23,10 +23,9 @@ to that rule); but one may also conjecture that the true reading is
 Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वष्टा। युनक्तु। बहुऽधा। नु। रूपा:। अस्मिन्। यज्ञे। सुऽयुज:। स्वाहा। २६.८।
+त्वष्टा। युनक्तु। बहुऽधा। नु। रूपाः। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

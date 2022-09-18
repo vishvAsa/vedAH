@@ -19,7 +19,6 @@ part of **b** *yāu ca te akṣāu* ⌊cf. vs. 14⌋.
 Let thy head, let thy mouth, let both thine ears, and those two jaws of thine. Pour for the giver mingled curd, and flowing butter, milk, and mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। शिरः। यत्। ते। मुखम्। यौ। कर्णौ। ये  इति। च। ते। हनू इति। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१३।

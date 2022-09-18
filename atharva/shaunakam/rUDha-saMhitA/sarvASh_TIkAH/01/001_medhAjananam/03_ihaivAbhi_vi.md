@@ -23,10 +23,9 @@ sacred learning, as also in **c**.⌋
 Here, even here, spread sheltering arms like the two bow-ends strained with cord. This let Vachaspati confirm. In me be Knowledge, yea, in me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। अभि। वि। तनु। उभे इति। आलीं इवेत्यार्लीऽइव। ज्यया। वाचः। पति:। नि। यच्छतु। मयि। एव। अस्तु। मयि। श्रुतम्।
+इह। एव। अभि। वि। तनु। उभे इति। आलीं इवेत्यार्लीऽइव। ज्यया। वाचः। पतिः। नि। यच्छतु। मयि। एव। अस्तु। मयि। श्रुतम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

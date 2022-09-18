@@ -19,10 +19,9 @@ is simply *prathama* (or *-mā*): see under the next *anuvāka*.
 All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवे। चक्षुषे। नक्षत्रेभ्य:। सूर्याय। अधिऽपतये। स्वाहा। १०.३।
+दिवे। चक्षुषे। नक्षत्रेभ्यः। सूर्याय। अधिऽपतये। स्वाहा। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

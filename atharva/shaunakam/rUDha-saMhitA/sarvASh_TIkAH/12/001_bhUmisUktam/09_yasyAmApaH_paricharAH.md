@@ -20,7 +20,6 @@ verse precedes our 7.⌋
 On whom the running universal waters flow day and night with never-ceasing motion, May she with many streams pour milk to feed us, may she bedew us with a flood of splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। आपः। परिऽचराः। समानीः। अहोरात्रे इति। अप्रऽमादम्। क्षरन्ति। सा। नः। भूमिः। भूरिऽधारा। पयः। दुहाम्। अथो इति। उक्षतु। वर्चसा। १.९।

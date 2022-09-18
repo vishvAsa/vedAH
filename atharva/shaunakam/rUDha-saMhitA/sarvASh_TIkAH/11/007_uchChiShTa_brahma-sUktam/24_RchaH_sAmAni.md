@@ -20,7 +20,6 @@ verse our 27 **a, b** (combining *devāṣ pit-*).
 Verses, and Songs, and magic hymns, Purana, sacrificial text. All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋचः। सामानि। छन्दांसि। पुराणम्। यजुषा। सह। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२४।

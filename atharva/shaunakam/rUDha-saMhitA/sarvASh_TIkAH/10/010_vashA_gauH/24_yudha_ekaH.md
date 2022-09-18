@@ -20,7 +20,6 @@ The Anukr. should have qualified the name of this *bṛhatī* by adding
 He only joineth battle, yea, he who alone controlleth her. Now sacrifices have become victories, and the Cow their eye.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 युधः। एकः। सम्। सृजति। यः। अस्याः। एकः। इत्। वशी। तरांसि। यज्ञा। अभवन्। तरसाम्। चक्षुः। अभवत्। वशा। १०.२४।

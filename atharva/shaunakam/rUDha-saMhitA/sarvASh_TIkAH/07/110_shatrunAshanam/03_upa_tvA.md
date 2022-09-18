@@ -26,10 +26,9 @@ fifth pāda: *sarvaṁ taṁ rīradhāsi naḥ:* compare the Ppp. version of vi.
 The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indra, enter us for the juice-pouring worshipper.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। त्वा। देव:। अग्रभीत्। चमसेन। बृहस्पति:। इन्द्र। गी:ऽभि:। न:। आ। विश। यजमानाय। सुन्वते। ११५.३।
+उप। त्वा। देवः। अग्रभीत्। चमसेन। बृहस्पतिः। इन्द्र। गीःऽभिः। नः। आ। विश। यजमानाय। सुन्वते। ११५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

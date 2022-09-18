@@ -24,10 +24,9 @@ Anukr. says *aṣṭariṅśo dvādaśaḥ*.
 It is a fragrant ointment, happy fortune, sheen all of gold, yea, purified from blemish. Spread over us are all purifications. Death and Malignity shall not subdue us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभिऽअञ्जनम्। सुरभि। सा। सम्ऽऋध्दि:। हिरण्यम्। वर्च:। तत्। ऊं इति। पूत्रिमम्। एव। सर्वा। पवित्रा। विऽतता। अधि। अस्मत्। तत्। मा। तारीत्। नि:ऽऋति:। मो इति। अराति:। १२४.३।
+अभिऽअञ्जनम्। सुरभि। सा। सम्ऽऋध्दिः। हिरण्यम्। वर्चः। तत्। ऊं इति। पूत्रिमम्। एव। सर्वा। पवित्रा। विऽतता। अधि। अस्मत्। तत्। मा। तारीत्। निःऽऋतिः। मो इति। अरातिः। १२४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

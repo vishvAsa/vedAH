@@ -22,10 +22,9 @@ of *sthā* after *revatīs* would rectify it.
 Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid the wandering stars, as Varuna among the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रेष्ठम्। असि। भेषजानाम्। वसिष्ठम्। वीरुधानाम्। सोम:। भग:ऽइव। यामेषु। देवेषु। वरुण:। यथा। २१.२।
+श्रेष्ठम्। असि। भेषजानाम्। वसिष्ठम्। वीरुधानाम्। सोमः। भगःऽइव। यामेषु। देवेषु। वरुणः। यथा। २१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

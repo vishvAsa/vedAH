@@ -21,7 +21,6 @@ pṛthvi vibhyāsaṁ mayu satva ca*.
 In hamlets and in woodland, and in all assemblages on earth, In gatherings, meeting of the folk, we will speak glorious things of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। ग्रामाः। यत्। अरण्यम्। याः। सभाः। अधि। भूम्याम्। ये। सम्ऽग्रामाः। सम्ऽइतयः। तेषु। चारु। वदेम। ते। १.५६।

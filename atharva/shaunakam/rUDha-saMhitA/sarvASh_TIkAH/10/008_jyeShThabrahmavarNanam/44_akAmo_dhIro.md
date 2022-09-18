@@ -25,7 +25,6 @@ from Sanskrit Writers*, p. 1, gives a metrical paraphrase of the verse.⌋
 Desireless, firm, immortal, self-existent, contented with the es- sence, lacking nothing, Free from the fear of Death is he who knoweth that Soul cou- rageous, youthful, undecaying.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अकामः। धीरः। अमृतः। स्वयम्ऽभूः। रसेन। तृप्तः। न। कुतः। चन। ऊनः। तम्। एव। विद्वान्। न। बिभाय। मृत्योः। आत्मानम्। धीरम्। अजरम्। युवानम्। ८.४४।

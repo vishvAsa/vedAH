@@ -22,10 +22,9 @@ verse *yātudhā́nā durévāḥ;* Ppp. has instead *durevā yātudhānāḥ*.
 If verily in every war the sages joy and exult in thee who win- nest treasures, With mightier power, strong God, extend thy firmness: let not malevolent Kaokas harm thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। चित्। नु। त्वा। धना। जयन्तम्। रणेऽरणे। अनुऽमदन्ति। विप्रा:। ओजीय:। शुष्मिन्। स्थिरम्। आ। तनुष्व। मा। त्वा। दभन्। दु:ऽएवास:। कशोका:। २.४।
+यदि। चित्। नु। त्वा। धना। जयन्तम्। रणेऽरणे। अनुऽमदन्ति। विप्राः। ओजीयः। शुष्मिन्। स्थिरम्। आ। तनुष्व। मा। त्वा। दभन्। दुःऽएवासः। कशोकाः। २.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

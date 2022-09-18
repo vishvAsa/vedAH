@@ -7,7 +7,6 @@ title = "०२३ दुःस्वप्ननाशनम्"
 23 (24). Against ill conditions and beings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःस्वप्ननाशनम्।  
@@ -18,8 +17,6 @@ title = "०२३ दुःस्वप्ननाशनम्"
 
 [Yama.—mantroktaduṣvpnanāśanadtvatyam: ānuṣtubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 9, 62; Griffith, i. 338.
 
 A charm to banish fiends and troubles
 </details>
+

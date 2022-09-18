@@ -35,10 +35,9 @@ There is no reason for calling the verse *bhurij*. ⌊AśS. reads *ugnam*
 He from the depth hath been reborn for ever, Brihaspati the world's sole Lord and Ruler. From light was born the Day with all its lustre: through this let sages live endowed with splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। बुध्न्यात्। आष्ट्र। जनुष:। अभि। अग्रम्। बृहस्पति:। देवता। तस्य। सम्ऽराट्। अह:। यत्। शुक्रम्। ज्योतिष:। जनिष्ट। अथ। द्युऽमन्त:। वि। वसन्तु। विप्रा:। १.५।
+सः। बुध्न्यात्। आष्ट्र। जनुषः। अभि। अग्रम्। बृहस्पतिः। देवता। तस्य। सम्ऽराट्। अहः। यत्। शुक्रम्। ज्योतिषः। जनिष्ट। अथ। द्युऽमन्तः। वि। वसन्तु। विप्राः। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

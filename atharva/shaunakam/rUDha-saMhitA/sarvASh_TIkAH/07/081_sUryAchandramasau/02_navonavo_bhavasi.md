@@ -24,10 +24,9 @@ not without significance. ⌊Over "stretchest" W. interlines "extendest."⌋
 Thou art re-born for ever new: thou marchest, ensign of days, in forefront of the mornings. Marching thou dealest to the Gods their portion. Thou lengthe- nest, Moon! the days of man's existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नव:ऽनव:। भवसि। जायमान:। अह्नाम्। केतु:। उषसाम्। एषि। अग्रम्। भागम्। देवेभ्य:। वि। दधासि। आऽयन्। प्र। चन्द्रम:। तिरसे। दीर्घम्। आयु:। ८६.२।
+नवःऽनवः। भवसि। जायमानः। अह्नाम्। केतुः। उषसाम्। एषि। अग्रम्। भागम्। देवेभ्यः। वि। दधासि। आऽयन्। प्र। चन्द्रमः। तिरसे। दीर्घम्। आयुः। ८६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

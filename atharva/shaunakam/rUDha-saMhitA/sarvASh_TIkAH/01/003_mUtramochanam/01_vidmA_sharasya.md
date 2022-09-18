@@ -20,7 +20,6 @@ xviii. 2. 22.
 We know the father of the shaft, Parjanya strong with hundred powers: By this may I bring health unto thy body: let the channels pour their burthen freely as of old.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विद्म। शरस्य। पितरम्। पर्जन्यम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।

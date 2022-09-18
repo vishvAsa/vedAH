@@ -31,10 +31,9 @@ Anukr. (cf. end of h. 1) says *ādyasahitam*.⌋
 Body of Agni prompt to save, slayer of fiends and foes art thou, Yea, banisher of malady, the healing balm called Putudru.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:। शरीरम्। असि। पारयिष्णु। रक्ष:ऽहा। असि। सपत्नऽहा। अथो इति। अमीवऽचातन:। पूतुद्रु:। नाम। भेषजम्। २.२८।
+अग्नेः। शरीरम्। असि। पारयिष्णु। रक्षःऽहा। असि। सपत्नऽहा। अथो इति। अमीवऽचातनः। पूतुद्रुः। नाम। भेषजम्। २.२८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

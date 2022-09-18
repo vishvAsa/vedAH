@@ -19,10 +19,9 @@ addressed.
 Down upon thee, from head to foot, I draw the pangs of long- ing love. Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-‍नि। शीर्षत:। नि। पत्तत:। आऽध्य:। नि। तिरामि। ते। देवा:। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.१।
+‍नि। शीर्षतः। नि। पत्ततः। आऽध्यः। नि। तिरामि। ते। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

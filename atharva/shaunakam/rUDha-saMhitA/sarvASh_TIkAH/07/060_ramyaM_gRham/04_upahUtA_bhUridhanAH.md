@@ -21,10 +21,9 @@ for *-pūrṇās* (HGS. also *bhūrisakhās* in **a**).
 Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever free from hunger, free from thirst! Ye Houses, fear us not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽहूता:। भूरिऽधना:। सखाय:। स्वादुऽसंमुद:। अक्षुध्या:। अतृष्या:। स्त। गृहा:। मा। अस्मत्। बिभीतन। ६२.४।
+उपऽहूताः। भूरिऽधनाः। सखायः। स्वादुऽसंमुदः। अक्षुध्याः। अतृष्याः। स्त। गृहाः। मा। अस्मत्। बिभीतन। ६२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

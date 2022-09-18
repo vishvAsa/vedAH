@@ -19,7 +19,6 @@ The comm. questions whether to render *brūmas* by *stumas* or by
 We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Surya, Brihaspati: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निम्। ब्रूमः। वनस्पतीन्। ओषधीः। उत। वीरुधः। इन्द्रम्। बृहस्पतिम्। सूर्यम्। ते। नः। मुञ्चन्तु। अंहसः। ८.१।

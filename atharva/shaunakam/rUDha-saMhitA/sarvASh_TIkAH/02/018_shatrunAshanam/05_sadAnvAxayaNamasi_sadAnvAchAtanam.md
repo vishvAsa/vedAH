@@ -18,10 +18,9 @@ Read in our edition *sadānvācā́t-*.
 Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सदान्वाऽक्षयणम्। असि। सदान्वाऽचातनम्। मे। दा:। स्वाहा। १८.५।
+सदान्वाऽक्षयणम्। असि। सदान्वाऽचातनम्। मे। दाः। स्वाहा। १८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

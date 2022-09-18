@@ -22,7 +22,6 @@ same curtailed way until vs. 54, which is filled out to the end.
 अम्भो॒ अमो॒ महः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५०॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अम्भः। अमः। महः। सहः। इति। त्वा। उप। आस्महे। वयम्। ८.५।

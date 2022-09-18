@@ -27,7 +27,6 @@ book exceed the ordinary measure. ⌊For vss. 15, 17-20, cf. AJP. xii.
 On thee have mounted Brihati and Pankti. and Kakup with great splendour, Jatavedas! The cry of Vashat with the voice uplifted and Rohita with seed on thee have mounted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। त्वा। रुरोह। बृहती। उत। पङ्क्तिः। आ। ककुप्। वर्चसा। जातऽवेदः। आ। त्वा। रुरोह। उष्णिहाऽअक्षरः। वषट्ऽकारः। आ। त्वा। रुरोह। रोहितः। रेतसा। सह। १.१५।

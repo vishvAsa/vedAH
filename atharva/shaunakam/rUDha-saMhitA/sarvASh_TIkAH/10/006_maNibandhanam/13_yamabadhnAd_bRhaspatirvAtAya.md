@@ -18,7 +18,6 @@ to him pleasantness (*sūnṛ́tā*), more and more etc. etc.
 Savitar wore this Amulet: herewith he won this lucid heaven. This yields him glory and delight, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। बिभ्रत्। सविता। मणिम्। तेन। इदम्। अजयत्। स्वः। सः। अस्मै। सूनृताय। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१३।

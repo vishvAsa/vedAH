@@ -21,10 +21,9 @@ The comm. takes *alipsata* as impf. of the desiderative of root *labh*
 The kine had settled in their pen, wild animals sought their lairs The wavelets of the brooks had passed away, and were beheld no more.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि। गाव:। गोऽस्थे। असदन्। नि। मृगास:। अविक्षत। नि। ऊर्मय:। नदीनाम्। नि। अदृष्टा:। अलिप्सत। ५२.२।
+नि। गावः। गोऽस्थे। असदन्। नि। मृगासः। अविक्षत। नि। ऊर्मयः। नदीनाम्। नि। अदृष्टाः। अलिप्सत। ५२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

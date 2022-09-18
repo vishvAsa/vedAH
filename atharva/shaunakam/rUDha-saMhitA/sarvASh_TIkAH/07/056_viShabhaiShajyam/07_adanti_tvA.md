@@ -22,10 +22,9 @@ makes the addressee a snake. ⌊Pischel, *Ved. Stud.* i. 62, discusses
 The emmets make a meal of thee and peahens tear and mangle thee: All ye are crying out, In sooth the scorpion's poison hath no strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अदन्ति। त्वा। पिपीलिका:। वि। वृश्चन्ति। मयूर्य:। सर्वे। भल। ब्रवाथ। शार्कोटम्। अरसम्। विषम्। ५८.७।
+अदन्ति। त्वा। पिपीलिकाः। वि। वृश्चन्ति। मयूर्यः। सर्वे। भल। ब्रवाथ। शार्कोटम्। अरसम्। विषम्। ५८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

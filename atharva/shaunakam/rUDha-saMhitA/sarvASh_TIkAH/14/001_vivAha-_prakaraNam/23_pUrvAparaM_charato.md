@@ -18,7 +18,6 @@ other, disposing the seasons art born new.
 Moving by magic power from east to westward, these children twain go sporting round the ocean. The one beholds all creatures: thou, the other, art born anew, duly arranging seasons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूर्वऽअपरम्। चरतः। मायया। एतौ। शिशू इति। क्रीडन्तौ। परि। यातः। अर्णवम्। विश्वा। अन्यः। भुवना। विऽचष्टे। ऋतून्। अन्यः। विऽदधत्। जायसे। नवः। १.२३।

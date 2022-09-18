@@ -29,10 +29,9 @@ with *ámitam abhi yójanam;* its second half-verse is our 2 **c, d**.
 O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who through measureless expanses have spread forth. For ye are seats and homes of goodly treasures. Deliver us, ye twain from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मन्वे। वाम्। द्यावापृथिवी इति। सुऽभोजसौ। सऽचेतसौ। ये इति। अप्रथेथाम्। अमिता। योजनानि। प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम। ते इति। न:। मुञ्चतम्। अंहस:। २६.१।
+मन्वे। वाम्। द्यावापृथिवी इति। सुऽभोजसौ। सऽचेतसौ। ये इति। अप्रथेथाम्। अमिता। योजनानि। प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम। ते इति। नः। मुञ्चतम्। अंहसः। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

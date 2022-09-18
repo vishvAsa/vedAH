@@ -17,7 +17,6 @@ heroism; it yields to him strength, more and more etc. etc.
 The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent Khadira, for strength, This Charm hath Indra put on him for power and manly puissance. It yieldeth strength to strengthen him, again, again, from morn to morn, having approached the deities.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। इन्द्रः। प्रति। अमुञ्चत। ओजसे। वीर्याय। कम्। सः। अस्मै। बलम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.७।

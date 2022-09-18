@@ -24,10 +24,9 @@ numbered from this one on.
 King Varuna call thee hither from the waters! From hills and mountains Soma call thee hither! Let Indra call thee hither to these people. Fly hither to these people as a falcon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अत्ऽभ्य:। त्वा। राजा। वरुण:। ह्वयतु। सोम:। त्वा। ह्वयतु। पर्वतेभ्य:। इन्द्र:। त्वा। ह्वयतु। विट्ऽभ्य:। आभ्य:। श्येन:। भूत्वा। विश:। आ। पत। इमा:। ३.३।
+अत्ऽभ्यः। त्वा। राजा। वरुणः। ह्वयतु। सोमः। त्वा। ह्वयतु। पर्वतेभ्यः। इन्द्रः। त्वा। ह्वयतु। विट्ऽभ्यः। आभ्यः। श्येनः। भूत्वा। विशः। आ। पत। इमाः। ३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

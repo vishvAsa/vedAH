@@ -23,10 +23,9 @@ instead of *-mahe*.
 With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase the fiends. Cause all to vanish with thy smell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वया। वयम्। अप्सरस:। गन्धर्वान्। चातयामहे। अजऽशृ‍ङ्गि। अज। रक्ष:। सर्वान्। गन्धेन। नाशय। ३७.२।
+त्वया। वयम्। अप्सरसः। गन्धर्वान्। चातयामहे। अजऽशृ‍ङ्गि। अज। रक्षः। सर्वान्। गन्धेन। नाशय। ३७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ regular close. Ppp. has at end of **b** the more manageable reading
 The grief that pains me here, whoever caused it, not sent by fate, hath sprung from human action. I, suppliant, praise Heaven, Earth, and oft invoke them. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। मा। इदम्। अभिऽशोचति। येनऽयेन। वा। कृतम्। पौरुषेयात्। न। दैवात्। स्तौमि। द्यावापृथिवी इति। नाथित:। जोहवीमि। ते इति। न:। मुञ्चतम्। अंहस:। २६.७।
+यत्। मा। इदम्। अभिऽशोचति। येनऽयेन। वा। कृतम्। पौरुषेयात्। न। दैवात्। स्तौमि। द्यावापृथिवी इति। नाथितः। जोहवीमि। ते इति। नः। मुञ्चतम्। अंहसः। २६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

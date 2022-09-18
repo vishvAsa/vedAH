@@ -7,7 +7,6 @@ title = "०१७ गर्भदृंहणम्"
 17. Against premature birth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गर्भदृंहणम्।  
@@ -18,8 +17,6 @@ title = "०१७ गर्भदृंहणम्"
 
 [Atharvan.—caturṛcam. garbhadṛṅhaṇadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 477; Florenz, 269 or 21; Griffith, i. 254; Bloomfield, 98
 
 A charm to ensure conception
 </details>
+

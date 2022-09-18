@@ -23,10 +23,9 @@ lehe;* and here and in the verses that follow, it varies between
 If some Pisacha in my food raw, ready, thoroughly cooked, or, spotty, hath deceived me, Let the Pisachas with their lives and offspring atone for this, and let this man be healthy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आमे। सुऽपक्वे। शबले। विऽपक्वे। य:। मा। पिशाच:। अशने। ददम्भ। तत्। आत्मना। प्रऽजया। पिशाचा:। वि। यातयन्ताम्। अगद:। अयम्। अस्तु। २९.६।
+आमे। सुऽपक्वे। शबले। विऽपक्वे। यः। मा। पिशाचः। अशने। ददम्भ। तत्। आत्मना। प्रऽजया। पिशाचाः। वि। यातयन्ताम्। अगदः। अयम्। अस्तु। २९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

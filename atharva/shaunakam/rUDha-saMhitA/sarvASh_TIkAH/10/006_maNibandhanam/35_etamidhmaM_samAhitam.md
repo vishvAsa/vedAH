@@ -32,7 +32,6 @@ Anukr. intends us to divide 8 + 11 (or 11 + 8): 8 + 8 + 11 = 46, a
 Love thou, O Agni, pleased with burnt oblations, this sacred fuel that is ranged in order. In him may we find grace and loving-kindness, happiness, progeny, and sight and cattle, in Jatavedas kindled with devotion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतम्। इध्मम्। सम्ऽआहितम्। जुषाणः। अग्ने। प्रति। हर्य। होमैः। तस्मिन्। विदेम। सुऽमतिम्। स्वस्ति। प्रऽजाम्। चक्षुः। पशून्। सम्ऽइध्दे। जातऽवेदसि। ब्रह्मणा। ६.३५।

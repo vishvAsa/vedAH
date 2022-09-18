@@ -25,7 +25,6 @@ should properly be *patan̄ga*.
 In heaven, O Bird, and in mid-air thou shinest: thou shinest on the earth and in the waters. Thou hast pervaded both the seas with splendour: a God art thou, O God, light-winner, mighty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोचसे। दिवि। रोचसे। अन्तरिक्षे। पतङ्। पृथिव्याम्। रोचसे। रोचसे। अप्ऽसु। अन्तः। उभा। समुद्रौ। रुच्या। वि। आपिथ। देवः। देव। असि। महिषः। स्वःऽजित्। २.३०।

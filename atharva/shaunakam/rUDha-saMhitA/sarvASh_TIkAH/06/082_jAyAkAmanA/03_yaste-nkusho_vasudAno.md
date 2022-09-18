@@ -22,10 +22,9 @@ hymn; the old Anukr. says: *ekatriṅśakam aṣṭamaṁ vadanti*.
 Great, Indra. is that hook of thine, bestowing treasure, wrought of gold: Therewith, O Lord of Might, bestow a wife on me who long to wed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। अङ्कुश:। वसुऽदान:। बृहन्। इन्द्र। हिरण्यय:। तेन। जनिऽयते। जायाम्। मह्यम्। धेहि। शचीऽपते। ८२.३।
+यः। ते। अङ्कुशः। वसुऽदानः। बृहन्। इन्द्र। हिरण्ययः। तेन। जनिऽयते। जायाम्। मह्यम्। धेहि। शचीऽपते। ८२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

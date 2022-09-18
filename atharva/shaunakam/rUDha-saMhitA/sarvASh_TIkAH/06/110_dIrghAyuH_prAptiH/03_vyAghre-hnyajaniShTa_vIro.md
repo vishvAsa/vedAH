@@ -21,10 +21,9 @@ mātáram?*—As to *minīt*, see *Gram.* §726.⌋
 Born on the Tiger's day was he, a hero, the Constellations' child, born brave and manly. Let him not wound, when grown in strength, his father, nor disregard his mother, her who bare him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-व्याघ्रे। अह्नि। अजनिष्ट। वीर:। नक्षत्रऽजा:। जायमान:। सुऽवीर:। स:। मा। वधीत्। पितरम्। वर्धमान:। मा। मातरम्। प्र। मिनीत्। जनित्रीम्। ११०.३।
+व्याघ्रे। अह्नि। अजनिष्ट। वीरः। नक्षत्रऽजाः। जायमानः। सुऽवीरः। सः। मा। वधीत्। पितरम्। वर्धमानः। मा। मातरम्। प्र। मिनीत्। जनित्रीम्। ११०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

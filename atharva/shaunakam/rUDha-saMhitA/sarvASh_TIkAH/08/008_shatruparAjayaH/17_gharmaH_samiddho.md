@@ -28,10 +28,9 @@ and *hatām* at the end of the two lines respectively.
 The Gharma hath been warmed with fire: this Homa slays a thousand men. Let Bhava, Prisnibahu, and Sarva destroy that armament.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घर्म:। सम्ऽइध्द:। अग्निना। अयम्। होम:। सहस्रऽह:। भव:। च। पृश्निऽबाहु:। च। शर्व। सेनाम्। अमूम्। हतम्। ८.१७।
+घर्मः। सम्ऽइध्दः। अग्निना। अयम्। होमः। सहस्रऽहः। भवः। च। पृश्निऽबाहुः। च। शर्व। सेनाम्। अमूम्। हतम्। ८.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

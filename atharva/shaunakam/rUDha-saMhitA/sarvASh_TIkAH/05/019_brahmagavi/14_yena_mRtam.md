@@ -18,10 +18,9 @@ water.
 The share of water which the Gods have destined to be thine, is that, Oppressor of the priest! wherewith men lave the corpse and wet the beard.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। मृतम्। स्नपयन्ति। श्मश्रूणि। येन। उन्दते। तम्। वै। ब्रह्मऽज्य। ते। देवा:। अपाम्। भागम्। अधारयन्। १९.१४।
+येन। मृतम्। स्नपयन्ति। श्मश्रूणि। येन। उन्दते। तम्। वै। ब्रह्मऽज्य। ते। देवाः। अपाम्। भागम्। अधारयन्। १९.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ of *’va* in **d**. ⌊Read *’va*, or *akṣā́ñ śvaghnī́va*, or with Pp
 All this the royal Varuna beholdeth, all between heaven and earth and all beyond them. The twinklings of men's eyelids hath he counted. As one who plays throws dice he settles all things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्वम्। तत्। राजा। वरुण:। वि। चष्टे। यत्। अन्तरा। रोदसी इति। यत्। परस्तात्। सम्ऽख्याता:। अस्य। निऽमिष:। जनानाम्। अक्षान्ऽइव। श्वऽघ्नी। नि। मिनोति। तानि। १६.५।
+सर्वम्। तत्। राजा। वरुणः। वि। चष्टे। यत्। अन्तरा। रोदसी इति। यत्। परस्तात्। सम्ऽख्याताः। अस्य। निऽमिषः। जनानाम्। अक्षान्ऽइव। श्वऽघ्नी। नि। मिनोति। तानि। १६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

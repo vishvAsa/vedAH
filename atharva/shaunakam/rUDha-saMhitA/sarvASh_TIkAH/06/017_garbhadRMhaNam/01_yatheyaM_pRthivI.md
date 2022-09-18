@@ -22,10 +22,9 @@ superfluous unless it read *ánusūtum*.
 Even as this mighty Earth conceived the germ of all the things that be, So may the germ of life be laid in thee that thou mayst bear a son.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। ते। ध्रियताम्। गर्भ:। अनु। सूतुम्। सवितवे। १७.१।
+यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

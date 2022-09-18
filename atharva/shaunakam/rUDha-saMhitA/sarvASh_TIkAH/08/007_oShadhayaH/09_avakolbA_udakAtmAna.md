@@ -18,10 +18,9 @@ Literally, 'having the *avakā* as fœtal envelop.'
 Let Plants whose soul is water, girt with Avakas, piercing with their sharp horns expel the malady.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अवकाऽउल्बा:। उदकऽआत्मान:। ओषधय:। वि। ऋषन्तु। दु:ऽइतम्। तीक्ष्णऽशृङ्ग्य:। ७.९।
+अवकाऽउल्बाः। उदकऽआत्मानः। ओषधयः। वि। ऋषन्तु। दुःऽइतम्। तीक्ष्णऽशृङ्ग्यः। ७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

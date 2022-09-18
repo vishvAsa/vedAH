@@ -24,7 +24,6 @@ for *vām*, combining *tv āyus sav-*.⌋ The verse is ill defined as a
 Up, happy bridegroom! with a joyous spirit caress thy wife and throw thine arm around her. Here take your pleasure, procreate your offspring. May Savitar bestow long life upon you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। रोह। ऊरुम्। उप। धत्स्व। हस्तम्। परि। स्वजस्व। जायाम्। सुऽमनस्यमानः। प्रऽजाम्। कृण्वाथाम्। इह। मोदमानौ। दीर्घम्। वाम्। आयुः। सविता। कृणोतु। २.३९।

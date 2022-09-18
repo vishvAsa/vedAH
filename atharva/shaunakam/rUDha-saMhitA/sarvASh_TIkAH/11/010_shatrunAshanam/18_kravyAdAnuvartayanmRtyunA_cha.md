@@ -19,7 +19,6 @@ The last pāda is identical with iii. 19. 8 **c**.
 With the Flesh-eater and with Death, following the Purohita, On! forward with Trishandhi's host! conquering enemies advance!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रव्यऽअदा। अनुऽवर्तयन्। मृत्युना। च। पुरःऽहितम्। त्रिऽसंधे। प्र। इहि। सेनया। जय। अमित्रान्। प्र। पद्यस्व। १२.१८।

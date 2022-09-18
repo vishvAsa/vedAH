@@ -7,7 +7,6 @@ title = "०६३ दुरितनाशनम्"
 63 (65). To Agni: for aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुरितनाशनम्।  
@@ -18,8 +17,6 @@ title = "०६३ दुरितनाशनम्"
 
 [Kaśyapa Mārīca.—jātavedasam. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 25, 88; Griffith, i. 357.
 
 A prayer for deliverance from affliction
 </details>
+

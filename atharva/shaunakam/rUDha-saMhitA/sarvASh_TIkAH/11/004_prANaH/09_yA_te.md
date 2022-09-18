@@ -20,7 +20,6 @@ as dual.
 Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm thou hast, give us thereof that we may live.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। ते। प्राण। प्रिया। तनूः। यो इति। ते। प्राण। प्रेयसी। अथो इति। यत्। भेषजम्। तव। तस्य। नः। धेहि। जीवसे। ६.९।

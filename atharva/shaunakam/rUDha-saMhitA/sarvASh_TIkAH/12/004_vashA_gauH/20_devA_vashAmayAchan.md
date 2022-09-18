@@ -20,7 +20,6 @@ in **a** *yācanti*, which does not rectify the meter. ⌊Read *devā́so?*⌋
 The Deities have begged the Cow, using the Brahman as their mouth: The man who gives her not incurs the enmity of all the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। वशाम्। अयाचन्। मुखम्। कृत्वा। ब्राह्मणम्। तेषाम्। सर्वेषाम्। अददत्। हेडम्। नि। एति। मानुषः। ४.२०।

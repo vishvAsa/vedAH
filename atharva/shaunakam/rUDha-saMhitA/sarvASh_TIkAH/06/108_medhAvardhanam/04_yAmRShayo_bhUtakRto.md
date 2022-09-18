@@ -21,10 +21,9 @@ at the end of **b**. The second half-verse is VS. xxxii. 14 **c, d**
 Do thou, O Agni, make me wise this day with that Intelligence. Which the creative ishis, which the men endowed with wisdom knew.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ऋषय:। भूतऽकृत:। मेधाम्। मेधाविन:। विदु:। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४।
+याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

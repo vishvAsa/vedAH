@@ -21,8 +21,7 @@ is there quoted.
 Whoso accuses me with words of falsehood when I pursue my way with guileless spirit, May he, the speaker of untruth, be, Indra! like water which the hollowed hand compresses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। मा। पाकेन। मनसा। चरन्तम्। अभिऽचष्टे। अनृतेभि:। वच:ऽभि:। आप:ऽइव। काशिना। सम्ऽगृभीता:। असन्। अस्तु। असत:। इन्द्र। वक्ता। ४.८।
+यः। मा। पाकेन। मनसा। चरन्तम्। अभिऽचष्टे। अनृतेभिः। वचःऽभिः। आपःऽइव। काशिना। सम्ऽगृभीताः। असन्। अस्तु। असतः। इन्द्र। वक्ता। ४.८।
 </details>

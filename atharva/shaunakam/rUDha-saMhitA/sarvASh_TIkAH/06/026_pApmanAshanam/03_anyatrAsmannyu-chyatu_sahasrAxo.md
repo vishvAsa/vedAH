@@ -22,10 +22,9 @@ ucyatu* by *nitarāṁ gacchatu*.
 May the immortal, thousand eyed, dwell otherwhere apart from us. Let him afflict the man we hate: smite only him who is our foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्यत्र। अस्मत्। नि। उच्यतु। सहस्रऽअक्ष:। अमर्त्य:। यम्। द्वेषाम्। तम्। ऋच्छतु। यम्। ऊं इति। द्विष्म:। तम्। इत्। जहि। २६.३।
+अन्यत्र। अस्मत्। नि। उच्यतु। सहस्रऽअक्षः। अमर्त्यः। यम्। द्वेषाम्। तम्। ऋच्छतु। यम्। ऊं इति। द्विष्मः। तम्। इत्। जहि। २६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

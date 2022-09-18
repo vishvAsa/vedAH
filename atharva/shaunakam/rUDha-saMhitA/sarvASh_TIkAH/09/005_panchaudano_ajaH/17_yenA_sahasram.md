@@ -25,10 +25,9 @@ in 29. 9, 23. ⌊MS. has *yéna*.⌋
 Convey our sacrifice to heaven, that it may reach the Gods, with that Whereby thou, Agni, bearest wealth in thousands, and all pre- cious things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। सहस्रम्। वहसि। येन। अग्ने। सर्वऽवेदसम्। तेन। इमम्। यज्ञम्। न:। वह। स्व:। देवेषु। गन्तवे। ५.१७।
+येन। सहस्रम्। वहसि। येन। अग्ने। सर्वऽवेदसम्। तेन। इमम्। यज्ञम्। नः। वह। स्वः। देवेषु। गन्तवे। ५.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

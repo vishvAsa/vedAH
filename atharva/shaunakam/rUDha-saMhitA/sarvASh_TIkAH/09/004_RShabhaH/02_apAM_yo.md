@@ -19,10 +19,9 @@ father of young (*vatsá*), lord of the inviolable \[kine\]—let him set
 He who at first became the Waters' model, a match for everyone, like Earth the Goddess; The husband of the cows, the young calves' father, may be secure us thousandfold abundance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाम्। य:। अग्ने। प्रतिऽमा। बभूव। प्रऽभू:। सर्वस्मै। पृथिवीऽइव। देवी। पिता। वत्सानाम्। पति:। अघ्न्यानाम्। साहस्रे। पोषे। अपि। न:। कृणोतु। ४.२।
+अपाम्। यः। अग्ने। प्रतिऽमा। बभूव। प्रऽभूः। सर्वस्मै। पृथिवीऽइव। देवी। पिता। वत्सानाम्। पतिः। अघ्न्यानाम्। साहस्रे। पोषे। अपि। नः। कृणोतु। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,10 +20,9 @@ with it ⌊but with *-no* for *-nās*⌋.
 So then the Gods restored her, so men gave the woman back again. Princes who kept their promises restored the Brahman's wedded wife.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। वै। देवा:। अददु:। पुन:। मनुष्या:। अददु:। राजान:। सत्यम्। गृह्णाना:। ब्रह्मऽजायाम्। पुन:। ददु:। १७.१०।
+पुनः। वै। देवाः। अददुः। पुनः। मनुष्याः। अददुः। राजानः। सत्यम्। गृह्णानाः। ब्रह्मऽजायाम्। पुनः। ददुः। १७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

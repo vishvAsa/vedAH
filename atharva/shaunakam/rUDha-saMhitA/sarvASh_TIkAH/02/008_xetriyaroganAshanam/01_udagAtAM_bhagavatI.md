@@ -37,7 +37,6 @@ l.c., p. 337.⌋
 Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inherited disease, the uppermost and lowest bond.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ८.१।

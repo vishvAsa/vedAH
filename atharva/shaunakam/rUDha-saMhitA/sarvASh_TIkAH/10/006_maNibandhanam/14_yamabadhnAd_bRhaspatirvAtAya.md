@@ -18,7 +18,6 @@ amulet the waters run always unexhausted; it yields to them immortality
 Wearing this Charm the Waters flow eternally inviolate. This yieldeth them ambrosia, again etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। आपः। बिभ्रतीः। मणिम्। सदा। धावन्ति। अक्षिताः। सः। आभ्यः। अमृतम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१४।

@@ -20,10 +20,9 @@ TB. has the easier reading *niláyanam* in **a**. The comm. again gives
 Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and dark, O Plant, art thou: remove from him each speck and spot.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आसितम्। ते। प्रऽलयनम्। आऽस्थानम्। आसितम्। तव। असिक्नी। असि। ओषधे। नि:। इत:। नाशय। पृषत्।
+आसितम्। ते। प्रऽलयनम्। आऽस्थानम्। आसितम्। तव। असिक्नी। असि। ओषधे। निः। इतः। नाशय। पृषत्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

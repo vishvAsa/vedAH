@@ -22,10 +22,9 @@ Anukr. ignores the deficiency of **a**, as the redundancy of 3 **a**.
 We know thy name, O Conference: thy name is interchange of talk. Let all the company who join the Conference agree with me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विद्म। ते। सभे। नाम। नरिष्टा। नाम। वै। असि। ये। ते। के। च। सभाऽसद:। ते। मे। सन्तु। सऽवाचस:। १३.२।
+विद्म। ते। सभे। नाम। नरिष्टा। नाम। वै। असि। ये। ते। के। च। सभाऽसदः। ते। मे। सन्तु। सऽवाचसः। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

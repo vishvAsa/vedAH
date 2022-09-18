@@ -18,10 +18,9 @@ Ppp. reads *yathā somasya paridhiṣ patātiḥ tathā tvam agne*.
 Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that this defence of his may fall and fail him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। स:। अस्य। परिऽधि:। पताति। तथा। तत्। अग्ने। कृणु। जातऽवेद:। विश्वेभि:। देवै:। सह। सम्ऽविदान:। २९.३।
+यथा। सः। अस्य। परिऽधिः। पताति। तथा। तत्। अग्ने। कृणु। जातऽवेदः। विश्वेभिः। देवैः। सह। सम्ऽविदानः। २९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

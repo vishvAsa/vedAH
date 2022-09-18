@@ -21,10 +21,9 @@ indicated in the *pada*-text) 11: 9 + 7 = 27 syllables.
 Vanaspati, rejoicing, of thyself send God-ward! Let Agni, Im- molator, sweeten our libation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। स्वाहा। कृणुहि। जातऽवेद:। इन्द्राय। यज्ञम्। विश्वे। देवा:। हवि:। इदम्। जुषन्ताम्। २७.१२।
+अग्ने। स्वाहा। कृणुहि। जातऽवेदः। इन्द्राय। यज्ञम्। विश्वे। देवाः। हविः। इदम्। जुषन्ताम्। २७.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ in a tremble," as in v. 21. 4, 6.⌋
 Before the gathered Plants they fly and scatter, as though a lion's roar or fire dismayed them. Expelled by Plants, let men's and kine's Consumption pass from us to the navigable rivers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिंहस्यऽइव। स्तनयो:। सम्। विजन्ते। अग्ने:ऽइव। विजन्ते। आऽभृताभ्य:। गवाम्। यक्ष्म:। पुरुषाणाम्। वीरत्ऽभि:। अतिऽनुत्त:। नाव्या:। एतु। स्रोत्या:। ७.१५।
+सिंहस्यऽइव। स्तनयोः। सम्। विजन्ते। अग्नेःऽइव। विजन्ते। आऽभृताभ्यः। गवाम्। यक्ष्मः। पुरुषाणाम्। वीरत्ऽभिः। अतिऽनुत्तः। नाव्याः। एतु। स्रोत्याः। ७.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

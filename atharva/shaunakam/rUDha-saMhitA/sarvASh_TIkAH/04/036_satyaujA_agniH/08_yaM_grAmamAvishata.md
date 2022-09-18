@@ -19,10 +19,9 @@ syllables ⌊or read *yáṁ-yaṁ*⌋.
 Into whatever village this mine awful power penetrates, Thence the Pisachas flee away, and plot no further mischief there.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। ग्रामम्। आऽविशते। इदम्। उग्रम्। सह:। मम। पिशाचा:। तस्मात्। नश्यन्ति। न। पापम्। उप। जानते। ३६.८।
+यम्। ग्रामम्। आऽविशते। इदम्। उग्रम्। सहः। मम। पिशाचाः। तस्मात्। नश्यन्ति। न। पापम्। उप। जानते। ३६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

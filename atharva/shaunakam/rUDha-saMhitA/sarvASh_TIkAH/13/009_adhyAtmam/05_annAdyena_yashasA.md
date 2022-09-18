@@ -47,7 +47,6 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥५६॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्नऽअद्येन। यशसा। तेजसा। ब्राह्मणऽवर्चसेन। ९.५।

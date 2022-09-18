@@ -24,7 +24,6 @@ notice of the irregularity.
 Through whom doth he abide with Gods? Through whom with the Celestial Tribes? Why is this other called a star? Why is this called the Real Power?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। देवान्। अनु। क्षियति। केन। दैवऽजनाः। विशः। केन। इदम्। अन्यत्। नक्षत्रम्। केन। सत्। क्षत्रम्। उच्यते। २.२२।

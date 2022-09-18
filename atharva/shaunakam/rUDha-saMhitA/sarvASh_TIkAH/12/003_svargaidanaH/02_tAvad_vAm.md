@@ -26,7 +26,6 @@ burnt together?? and born anew and alike out of the cremation?"⌋
 So strong your sight, so many be your powers, so great your force, your energies so many, When fire attends the body as its fuel, then may, ye gain full chargers, O ye couple.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तावत्। वाम्। चक्षुः। तति। वीर्याणि। तावत्। तेजः। ततिऽधा। वाजिनानि। अग्निः। शरीरम्। सचते। यदा। एधः। अध। पक्वात्। मिथुना। सम्। भवाथः। ३.२।

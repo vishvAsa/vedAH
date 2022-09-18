@@ -23,7 +23,6 @@ except *vahaḥ* at the end.
 His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Vertebrae.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वम्। वायुः। स्वःऽगः। लोकः। कृष्णऽद्रम्। विऽधरणी। निऽवेष्यः १। १२.४।

@@ -7,7 +7,6 @@ title = "०८२ जायाकामना"
 82. To obtain a wife.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जायाकामना।  
@@ -18,8 +17,6 @@ title = "०८२ जायाकामना"
 
 [Bhaga (jāyākāmaḥ).—āindram. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 239; Ludwig, p. 470; Grill, 57, 167; Griffith, 
 
 A charm to win a bride
 </details>
+

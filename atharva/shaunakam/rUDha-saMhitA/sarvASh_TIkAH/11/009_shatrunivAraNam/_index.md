@@ -7,7 +7,6 @@ title = "००९ शत्रुनिवारणम्"
 9. To conquer enemies: to Arbudi.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम् ।  
@@ -18,8 +17,6 @@ title = "००९ शत्रुनिवारणम्"
 
 [Kān̄kāyana.—ṣaḍviṅśakam. mantroktārbudidevatyam. ānuṣṭubham: 1. 7-p. virāṭ śakvarī 3-av.; 3. paroṣṇiḥ; 4, 3-av. uṣṇigbṛhatīgarbhā parātriṣṭup 6-p. atijagatī; 9, 11, 14, 23, 26. pathyāpan̄kti; 15, 22, 24, 25. 3-av. 7-p. śakvarī; 16. 3-av. 5-p. virāḍ upariṣṭājjyotis triṣṭubh; 17. 3-p. gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 530; Henry, 126, 164; Griffith, ii. 84; Bloomfield, 123, 
 
 An incantation for the destruction of a hostile army
 </details>
+

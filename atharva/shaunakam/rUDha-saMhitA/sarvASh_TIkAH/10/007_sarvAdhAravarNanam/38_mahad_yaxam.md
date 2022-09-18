@@ -29,7 +29,6 @@ see introduction.⌋
 Absorbed in Fervour, is the mighty Being, in the world's centre, on the waters' surface. To him the Deities, one and all betake them. So stand the tree- trunk with the branches round it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 महत्। यक्षम्। भुवनस्य। मध्ये। तपसि। क्रान्तम्। सलिलस्‍य। पृष्ठे। तस्मिन्। श्रयन्ते। ये। ऊं इति। के। च। देवाः। वृक्षस्य। स्कन्धः। परितःऽइव। शाखाः। ७.३८।

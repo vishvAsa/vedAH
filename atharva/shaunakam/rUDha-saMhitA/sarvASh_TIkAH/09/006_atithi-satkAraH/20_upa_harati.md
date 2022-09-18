@@ -16,7 +16,6 @@ title = "२० उप हरति"
 He brings oblations: he makes the men sit down.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। हरति। हवींषि। आ। सादयति। ७.३।

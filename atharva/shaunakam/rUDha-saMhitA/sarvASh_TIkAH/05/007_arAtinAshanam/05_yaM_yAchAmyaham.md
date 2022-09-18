@@ -19,10 +19,9 @@ below. ⌊See Bloomfield, AJP. xvii. 412; Oldenberg, ZDMG. l. 448.⌋
 The portion that I crave with speech intelligent and full of power, May faith, presented with the gift of tawny Soma, find to-day.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। याचामि। अहम्। वाचा। सरस्वत्या। मन:ऽयुजा। श्रध्दा। तम्। अद्य। विन्दतु। दत्ता। सोमेन। बभ्रुणा। ७.५।
+यम्। याचामि। अहम्। वाचा। सरस्वत्या। मनःऽयुजा। श्रध्दा। तम्। अद्य। विन्दतु। दत्ता। सोमेन। बभ्रुणा। ७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

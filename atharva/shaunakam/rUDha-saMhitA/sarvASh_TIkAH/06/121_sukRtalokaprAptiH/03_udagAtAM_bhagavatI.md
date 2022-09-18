@@ -22,7 +22,6 @@ for **a**, *amī́* ⌊AV. iii. 7. 4, *amū́*⌋*yé subháge diví*, and, in *
 The two auspicious stars whose name is called Releasers have gone up. Send Amrit hither, let it come freeing the captive from his bonds!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके‍ इति। प्र। इह। अमृतस्य। यच्छताम्। प्र। एतु। बध्दकऽमोचनम्। १२१.३।

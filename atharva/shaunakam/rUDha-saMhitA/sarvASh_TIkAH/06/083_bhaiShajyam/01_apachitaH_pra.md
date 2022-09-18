@@ -27,10 +27,9 @@ unnecessary and very venturesome suggestion to explain it.
 Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya bring a remedy, the Moon shine forth and banish you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽचित:। प्र। पतत। सुऽपर्ण:। वसते:ऽइव। सूर्य:। कृणोतु। भेषजम्। चन्द्रमा:। व:। अप। उच्छतु। ८३.१।
+अपऽचितः। प्र। पतत। सुऽपर्णः। वसतेःऽइव। सूर्यः। कृणोतु। भेषजम्। चन्द्रमाः। वः। अप। उच्छतु। ८३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

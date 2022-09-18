@@ -27,10 +27,9 @@ ways, to the winning or to the worshipping.
 With fuel. Agni! and with butter, longing, mine offering I present for strength and conquest; With prayer, so far as I have strength, adoring--this holy hymn to gain a hundred treasures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इध्मेन। अग्ने। इच्छमान:। घृतेन। जुहोमि। हव्यम्। तरसे। बलाय। यावत्। ईशे। ब्रह्मणा। वन्दमान:। इमाम्। धियम्। शतऽसेयाय। देवीम्। १५.३।
+इध्मेन। अग्ने। इच्छमानः। घृतेन। जुहोमि। हव्यम्। तरसे। बलाय। यावत्। ईशे। ब्रह्मणा। वन्दमानः। इमाम्। धियम्। शतऽसेयाय। देवीम्। १५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ Ppp. reads, for **c**, *katimā ”sāṁ bhīmatamā* (like our vs. 45 **c**).
 How many cows, O Narada, knowest thou, born among man- kind I ask thee who dost know, of which must none who is no Brahman eat?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कति। नु। वशाः। नारद। याः। त्वम्। वेत्थ। मनुष्यऽजाः। ताः। त्वा। पृच्छामि। विद्वांसम्। कस्याः। न। अश्नीयात्। अब्राह्मणः। ४.४३।

@@ -30,7 +30,6 @@ bhurik sāmnī bṛhatī; 55. sāmny uṣṇih; 56. prājāpatyā bṛhatī.*\]
 And thence, etc. . . . with other basis . . . Without standing-ground and resting-place thou wilt die . . . Having taken my stand on truth. With this I ate it, with this I came to it. Now this Odana is complete with all members, joints, and body. Complete, verily, with all his members, joints, and body is he who possesses this knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ततः। च। एनम्। अन्यया। प्रतिऽस्थया। प्रऽआशीः। यया। च। एतम्। पूर्वे। ऋषयः। प्रऽआश्नन्। अप्रतिऽस्थानः। अनायतनः। मरिष्यसि। इति। एनम्। आह। तम्। वै। अहम्। न। अर्वाञ्चम्। न। पराञ्चम्। न। प्रत्यञ्चम्। सत्ये। प्रतिऽस्थाय। तया। एनम्। प्र। आशिषम्। तया। एनम्। अजीगमम्। एषः। वै। ओदनः। सर्वऽअङ्गः। सर्वऽपरुः। सर्वऽतनूः। सर्वऽअङ्गः। एव। सर्वऽपरुः। सर्वऽतनूः। सम्। भवति। यः। एवम्। वेद। ४.१८।

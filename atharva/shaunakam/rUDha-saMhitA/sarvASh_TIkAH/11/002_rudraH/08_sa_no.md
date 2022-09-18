@@ -20,7 +20,6 @@ this tense occurs a couple of times in other texts also.
 May he, may Bhava from all sides avoid us, avoid us even as fire avoids the waters. Let him not threaten us. To him be homage!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। नः। भवः। परि। वृणक्तु। विश्वतः। आपःऽइव। अग्निः। परि। वृणक्तु। नः। भवः। मा। नः। अभि। मांस्त। नमः। अस्तु। अस्मै। २.८।

@@ -24,10 +24,9 @@ far correct that the verses can be read as 28 syllables.
 Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal of this my sacrifice. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्येन:। असि। गायत्रऽछन्दा:। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.१।
+श्येनः। असि। गायत्रऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

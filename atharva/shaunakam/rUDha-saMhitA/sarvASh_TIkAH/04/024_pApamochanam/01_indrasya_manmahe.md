@@ -25,10 +25,9 @@ addition *śakvarīgarbhā*.
 I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come near him. He cometh to the pious offerer's calling. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। मन्महे। शश्वत्। इत्। अस्य। मन्महे। वृत्रऽघ्न:। स्तोमा:। उप। मा। इमे। आ। अगु:। य:। दाशुष:। सुऽकृत:। हवम्। एति। स:। न:। मुञ्चतु। अंहस:। २४.१।
+इन्द्रस्य। मन्महे। शश्वत्। इत्। अस्य। मन्महे। वृत्रऽघ्नः। स्तोमाः। उप। मा। इमे। आ। अगुः। यः। दाशुषः। सुऽकृतः। हवम्। एति। सः। नः। मुञ्चतु। अंहसः। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

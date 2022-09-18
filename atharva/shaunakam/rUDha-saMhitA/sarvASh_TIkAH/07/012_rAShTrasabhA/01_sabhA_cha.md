@@ -28,10 +28,9 @@ Henry renders *upa-śikṣ* by "pay homage," and emends *pitaras* to
 In concord may Prajapati's two daughters, Gathering and As- sembly, both protect me. May every man I meet respect and aid me. Fair be my words, O Fathers, at the meetings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सभा। च। मा। सम्ऽइति:। च। अवताम्। प्रजाऽपते:। दुहितरौ। संविदाने इति सम्ऽविदाने। येन। सम्ऽगच्छै। उप। मा। स:। शिक्षात्। चारु। वदानि। पितर:। सम्ऽगतेषु। १३.१।
+सभा। च। मा। सम्ऽइतिः। च। अवताम्। प्रजाऽपतेः। दुहितरौ। संविदाने इति सम्ऽविदाने। येन। सम्ऽगच्छै। उप। मा। सः। शिक्षात्। चारु। वदानि। पितरः। सम्ऽगतेषु। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ can supply. *Paniṣpadā* in **b** is prescribed by Prāt. iv. 96.
 Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I charmed Decline away and Fever's hundred ago- nies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। अन्त:। वदति। जिह्वा। बध्दा। पनिष्पदा। त्वया। यक्ष्मम्। नि:। अवोचम्। शतम्। रोपी:। च। तक्मन:। ३०.१६।
+इयम्। अन्तः। वदति। जिह्वा। बध्दा। पनिष्पदा। त्वया। यक्ष्मम्। निः। अवोचम्। शतम्। रोपीः। च। तक्मनः। ३०.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

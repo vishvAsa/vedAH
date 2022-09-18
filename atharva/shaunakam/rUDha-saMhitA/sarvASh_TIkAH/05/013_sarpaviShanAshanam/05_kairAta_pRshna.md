@@ -35,10 +35,9 @@ expect in Hind. *kērā*.⌋
 Listen to me, Black Snakes and hateful creatures, Lurker-in- Grass, Karait, and Brown, and Spotty, Approach not near the house my friend inhabits: give warning, and rest quiet with your poison.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कैरात। पृश्ने। उपऽतृण्य। बभ्रो इति। आ। मे। शृणत। असिता:। अलीका:। मा। मे। सख्यु:। स्तामानम्। अपि। स्थात। आऽश्रावयन्त:। नि। विषे। रमध्वम्। १३.५।
+कैरात। पृश्ने। उपऽतृण्य। बभ्रो इति। आ। मे। शृणत। असिताः। अलीकाः। मा। मे। सख्युः। स्तामानम्। अपि। स्थात। आऽश्रावयन्तः। नि। विषे। रमध्वम्। १३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

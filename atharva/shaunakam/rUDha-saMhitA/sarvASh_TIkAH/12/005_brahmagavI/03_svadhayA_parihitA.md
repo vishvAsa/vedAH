@@ -21,7 +21,6 @@ required 30 syllables, we have to resolve *pári-ūḍhā*.
 Girt round with inherent power, fortified with faith, protected, by consecration, installed at sacrifice, the world her resting- place;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वधया। परिऽहिता। श्रध्दया। परिऽऊढा। दीक्षया। गुप्ता। यज्ञे। प्रतिऽस्थिता। लोकः। निऽधनम्। ५.३।

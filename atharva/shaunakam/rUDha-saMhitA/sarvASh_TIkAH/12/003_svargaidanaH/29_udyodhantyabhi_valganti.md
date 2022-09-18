@@ -23,7 +23,6 @@ water to boil.
 Heated, they rage and boil in agitation, they cast about their foam and countless bubbles Like a fond woman when she sees her husband--what time ye waters and these rice-grains mingle,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। योधन्ति। अभि। वल्गन्ति। तप्ताः। फेनम्। अस्यन्ति। बहुलान्। च। बिन्दून्। योषाऽइव। दृष्ट्वा। पतिम्। ऋत्विजाय। एतैः। तण्डुलैः। भवत। सम्। आपः। ३.२९।

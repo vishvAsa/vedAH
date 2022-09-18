@@ -31,7 +31,6 @@ glossed by *khaṭvā* (no. 112, ed. 1870) or *paryan̄kikā* (no. 700, ed.
 Whatever magic hath been wrought on cushion, chair, or canopy. Each spell to mar the wedding rites, all this we throw into the bath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। आऽसन्द्योम्। उपऽधाने। यत्। वा। उपऽवासने। कृतम्। विऽवाहे। कृत्याम। याम्। चक्रुः। आऽस्नाने। ताम्। नि। दध्मसि। २.६५।

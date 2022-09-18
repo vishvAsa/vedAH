@@ -20,10 +20,9 @@ give *sá॰vratā* (instead of *-tāḥ*) in **c**. The comm. further reads
 No brother hate his brother, no sister to sister be unkind. Unanimous, with one intent, speak ye your speech in friend- liness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। भ्राता। भ्रातरम्। द्विक्षत्। मा। स्वसारम्। उत। स्वसा। सम्यञ्च:। सऽव्रता:। भूत्वा। वाचम्। वदत। भद्रया। ३०.३।
+मा। भ्राता। भ्रातरम्। द्विक्षत्। मा। स्वसारम्। उत। स्वसा। सम्यञ्चः। सऽव्रताः। भूत्वा। वाचम्। वदत। भद्रया। ३०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

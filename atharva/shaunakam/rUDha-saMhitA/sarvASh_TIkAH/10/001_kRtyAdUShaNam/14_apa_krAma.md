@@ -19,7 +19,6 @@ cases.
 Go with a resonant cry, depart, like a she-ass whose cords are loosed. Go to thy makers: hence! away! Go driven by the potent spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। क्राम। नानदीती। विऽनध्दा। गर्दभीऽइव। कर्तृन्। नक्षस्व। इतः। नुत्ता। ब्रह्मणा। वीर्यऽवता। १.१४।

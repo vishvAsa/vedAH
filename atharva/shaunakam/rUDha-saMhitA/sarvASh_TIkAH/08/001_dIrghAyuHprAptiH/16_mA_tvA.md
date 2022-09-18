@@ -27,10 +27,9 @@ reads, for **b**, *mā jihvacaryaḥ prasuyuṣ kathāsya*.
 Let not the fiend with snapping jaws, nor darkness find thee: tongue, holy grass: how shouldst thou perish? May the Adityas and the Vasus, Indra and Agni raise thee and to health restore thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। त्वा। जम्भ:। सम्ऽहनु:। मा। तम:। विदत्। मा। जिह्वा। आ। बर्हि:। प्रऽमयु:। कथा। स्या:। उत्। त्वा। आदित्या:। वसव:। भरन्तु। उत्। इन्द्राग्नी  इति। स्वस्तये। १.१६।
+मा। त्वा। जम्भः। सम्ऽहनुः। मा। तमः। विदत्। मा। जिह्वा। आ। बर्हिः। प्रऽमयुः। कथा। स्याः। उत्। त्वा। आदित्याः। वसवः। भरन्तु। उत्। इन्द्राग्नी  इति। स्वस्तये। १.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

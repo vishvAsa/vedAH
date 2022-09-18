@@ -26,7 +26,6 @@ Zimmer, p. 392.⌋
 Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of all art thou, curing disease and morbid flow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आत्। अङ्ग। कुवित्। अङ्ग। शतम्। या। भेषजानि। ते। तेषाम्। असि। त्वम्। उत्ऽतमम्। अनास्रावम्। अरोगणम्। ३.२।

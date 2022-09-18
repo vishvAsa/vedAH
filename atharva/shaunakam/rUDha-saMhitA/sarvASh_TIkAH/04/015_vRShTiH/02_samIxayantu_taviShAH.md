@@ -27,10 +27,9 @@ meter of **d** by reading *óṣadhīr vírūpaḥ;* **a** is the only real
 Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be hung with drops of moisture. Let floods of rain refresh the ground with gladness and herbs spring various with each form and colour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। ईक्षयन्तु। तविषा:। सुऽदानव:। अपाम्। रसा:। ओषधीभि:। सचन्ताम्। वर्षस्य। सर्गा:। महयन्तु। भूमिम्। पृथक्। जायन्ताम्। ओषधय:। विश्वऽरूपा:। १५.२।
+सम्। ईक्षयन्तु। तविषाः। सुऽदानवः। अपाम्। रसाः। ओषधीभिः। सचन्ताम्। वर्षस्य। सर्गाः। महयन्तु। भूमिम्। पृथक्। जायन्ताम्। ओषधयः। विश्वऽरूपाः। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

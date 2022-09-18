@@ -21,7 +21,6 @@ accident, and might better have been printed as such.
 This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Death the oppressor of the Brahman, the blas- phemer of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। ब्रह्मऽज्यम्। देवऽपीयुम्। ब्रह्मऽगवी। आऽदीयमाना। मृत्योः। पड्वीशे। आ। द्यति। ७.४।

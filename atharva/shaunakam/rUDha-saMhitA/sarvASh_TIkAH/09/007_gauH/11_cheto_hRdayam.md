@@ -19,7 +19,6 @@ The *pada*-text divides *puri॰tát*, but one can only wonder why. After
 Thought is the heart, intelligence is the liver, law the pericar- dium.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चेतः। हृदयम्। यकृत्। मेधा। व्रतम्। पुरिऽतत्। १२.११।

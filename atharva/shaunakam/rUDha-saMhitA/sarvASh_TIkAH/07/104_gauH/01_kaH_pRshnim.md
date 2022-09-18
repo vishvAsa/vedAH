@@ -26,10 +26,9 @@ bṛhaspatyā sakhyā.*
 Who will prepare the dappled Cow, good milker, ne'er without calf, whom Varuna gave Atharvan, And, joying in Brihaspati's alliance, arrange according to his will her body?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। पृश्निम्। धेनुम्। वरुणेन। दत्ताम्। अथर्वणे। सुऽदुघाम्। नित्यऽवत्साम्। बृहस्पत‍िना। सख्यम्। जुषाण:। यथाऽवशम्। तन्व:। कल्पयाति। १०९.१।
+कः। पृश्निम्। धेनुम्। वरुणेन। दत्ताम्। अथर्वणे। सुऽदुघाम्। नित्यऽवत्साम्। बृहस्पत‍िना। सख्यम्। जुषाणः। यथाऽवशम्। तन्वः। कल्पयाति। १०९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

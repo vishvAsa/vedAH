@@ -23,10 +23,9 @@ identical with xiv. 2. 34 **a, b**.
 The Apsarases take pleasure in the banquet between the Sun and. the libation-holder. With butter let them fill my hands, and give me, to be my prey, the man who plays against me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्सरस:। सधऽमादम्। मदन्ति। हवि:ऽधानम्। अन्तरा। सूर्यम्। च। ता:। मे। हस्तौ। सम्। सृजन्तु। घृतेन। सऽपत्नम्। मे। कितवम्। रन्धयन्तु। ११४.३।
+अप्सरसः। सधऽमादम्। मदन्ति। हविःऽधानम्। अन्तरा। सूर्यम्। च। ताः। मे। हस्तौ। सम्। सृजन्तु। घृतेन। सऽपत्नम्। मे। कितवम्। रन्धयन्तु। ११४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ Ppp. reads in **b** *vakṣaṇābhyaḥ*, and omits the following *te*.
 The penetrating pangs that pierce thy stomach as they shoot across, Let them depart and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। तिरश्चीः। उपऽऋषन्ति। अर्षणीः। वक्षणासु। ते। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१६।

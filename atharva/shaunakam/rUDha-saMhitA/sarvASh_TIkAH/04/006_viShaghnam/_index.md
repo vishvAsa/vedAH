@@ -7,7 +7,6 @@ title = "००६ विषघ्नम्"
 6. Against the poison of a poisoned arrow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विषघ्नम्।  
@@ -19,8 +18,6 @@ title = "००६ विषघ्नम्"
 [Garutman.—aṣṭarcam. takṣakadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The absence of this verse in Ppp., and the normal length of the hymn without it,
 
 A charm to make a poisoned arrow harmless
 </details>
+

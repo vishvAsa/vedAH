@@ -19,7 +19,6 @@ Ppp. reads in **b** *ca* instead of the second *tvam*.
 Produced from thee, on thee move mortal creatures: thou bearest them, both quadruped and biped. Thine, Prithivi, are these Five human Races, for whom, though mortal, Surya as he rises spreads with his rays the light that is immortal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वत्। जाताः। त्वयि। चरन्ति। मर्त्याः। त्वम्। बिभर्षिः। द्विऽपदः। त्वम्। चतुःऽपदः। तव। इमे। पृथिवि। पञ्च। मानवाः। येभ्यः। ज्योतिः। अमृतम्। मर्त्येभ्यः। उत्ऽयन्। सूर्यः। रश्मिऽभिः। आऽतनोति। १.१५।

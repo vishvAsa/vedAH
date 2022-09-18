@@ -20,10 +20,9 @@ beginning the false combination *yá usr-*. The comm. declares *usriya* a
 Ye by whom cows and forest trees are cherished within whose range all creatures are included, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये इति। उस्रिया:। बिभृथ:। ये इति। वनस्पतीन्। ययो:। वाम्। विश्वा। भुवनानि। अन्त:। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। न:। मुञ्चतम्। अंहस:। २६.५।
+ये इति। उस्रियाः। बिभृथः। ये इति। वनस्पतीन्। ययोः। वाम्। विश्वा। भुवनानि। अन्तः। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

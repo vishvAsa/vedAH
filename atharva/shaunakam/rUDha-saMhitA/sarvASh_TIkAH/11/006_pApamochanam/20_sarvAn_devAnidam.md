@@ -21,7 +21,6 @@ signify 'increasing by righteousness.'
 We speak to the collected Gods, faithful, maintainers of the Right. Present with their collective Dames: may these deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वान्। देवान्। इदम्। ब्रूमः। सत्यऽसंधान्। ऋतऽवृधः। सर्वाभिः। पत्नीभिः। सह। ते। नः। मुञ्चन्तु। अंहसः। ८.२०।

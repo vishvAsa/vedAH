@@ -22,10 +22,9 @@ castes are addressed.
 Prince! like a poisoned arrow, like a deadly snake, O lord of kine! Dire is the Brahman's arrow: he pierces his enemies therewith.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इषु:ऽइव। दिग्धा। नृऽपते। पृदाकू:ऽइव। गोऽपते। सा। ब्राह्मणस्य। इषु:। घोरा। तया। विध्यति। पीयत:। १८.१५।
+इषुःऽइव। दिग्धा। नृऽपते। पृदाकूःऽइव। गोऽपते। सा। ब्राह्मणस्य। इषुः। घोरा। तया। विध्यति। पीयतः। १८.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

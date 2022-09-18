@@ -24,10 +24,9 @@ comm., the name Bhava signifies *bhavaty asmāt sarvaṁ jagad;* and śarva,
 I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that shineth. Lords of this world both quadruped and biped. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भवाशर्वौ। मन्वे। वाम्। तस्य। वित्तम्। ययो:। वाम्। इदम्। प्रऽदिशि। यत्। विऽरोचते। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.१।
+भवाशर्वौ। मन्वे। वाम्। तस्य। वित्तम्। ययोः। वाम्। इदम्। प्रऽदिशि। यत्। विऽरोचते। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

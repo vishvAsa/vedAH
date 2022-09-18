@@ -25,7 +25,6 @@ nīlāgalasā́lā*. The verse is capable of being read as 8 + 7: 6.
 नी॒ला॒ग॒ल॒साला॑ ॥४॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अलसाला। असि। पूर्वा। सिलाञ्जाला। असि। उत्तरा। नीलागलसाला। १६.४।

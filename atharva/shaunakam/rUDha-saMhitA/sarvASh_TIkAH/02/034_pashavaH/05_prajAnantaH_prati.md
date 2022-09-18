@@ -30,10 +30,9 @@ demons get hold of it.'
 Let those who know receive before all others the vital breath proceeding from the body. Go to the sky. Stay there with all thy members. By paths which Gods have travelled go to Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽजानन्त:। प्रति। गृह्णन्तु। पूर्वे। प्राणम्। अङ्गेभ्य:। परि। आऽचरन्तम्। दिवम्। गच्छ। प्रति। तिष्ठ। शरीरै:। स्व:ऽगम्। याहि। पथिऽभि:। देवऽयानै:। ३४.५।
+प्रऽजानन्तः। प्रति। गृह्णन्तु। पूर्वे। प्राणम्। अङ्गेभ्यः। परि। आऽचरन्तम्। दिवम्। गच्छ। प्रति। तिष्ठ। शरीरैः। स्वःऽगम्। याहि। पथिऽभिः। देवऽयानैः। ३४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

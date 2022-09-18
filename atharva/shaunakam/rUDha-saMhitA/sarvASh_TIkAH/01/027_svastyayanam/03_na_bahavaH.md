@@ -26,10 +26,9 @@ appears to be quotable from elsewhere.
 Not many have had power enough; the feeble ones have not prevailed, Like scattered fragments of a reed: ne'er are the wicked pros- perous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। वहव:। सम्। अशकन्। न। अर्भका:। अभि। दधृषु:। वेणो:। अङ्गा:ऽइव। अभित:। असम्ऽऋध्दा:। अघऽयव:।
+न। वहवः। सम्। अशकन्। न। अर्भकाः। अभि। दधृषुः। वेणोः। अङ्गाःऽइव। अभितः। असम्ऽऋध्दाः। अघऽयवः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

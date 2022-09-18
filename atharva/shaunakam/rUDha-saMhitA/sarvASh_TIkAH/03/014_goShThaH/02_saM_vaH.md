@@ -30,10 +30,9 @@ beginning of **d**.
 May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of the prize. Make ye my riches grow with me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। सृजतु। अर्यमा। सम्। पूषा। सम्। बृहस्पति:। सम्। इन्द्र:। य:। धनम्ऽजय:। मयि। पुष्यत। यत्। वसु। १४.२।
+सम्। वः। सृजतु। अर्यमा। सम्। पूषा। सम्। बृहस्पतिः। सम्। इन्द्रः। यः। धनम्ऽजयः। मयि। पुष्यत। यत्। वसु। १४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

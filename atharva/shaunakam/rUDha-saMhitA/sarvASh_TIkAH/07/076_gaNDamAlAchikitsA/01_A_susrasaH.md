@@ -32,10 +32,9 @@ vasattarā*.
 Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than a dried-up bone, swifter than salt to melt away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। सुऽस्रस:। सुऽस्रस:। असतीभ्य:। असत्ऽतरा:। सेहो:। अरसऽतरा:। लवणात्। विऽक्लेदीयसी:। ८०.१।
+आ। सुऽस्रसः। सुऽस्रसः। असतीभ्यः। असत्ऽतराः। सेहोः। अरसऽतराः। लवणात्। विऽक्लेदीयसीः। ८०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ in its iii.⌋ The definition of the meter by the Anukr. seems senseless
 Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that radiant region. So may I know that holy world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। असि। अज। स्व:ऽग:। असि। त्वया। लोकम्। अङ्गिरस:। प्र। अजानन्। तम्। लोकम्। पुण्यम्। प्र। ज्ञेषम्। ५.१६।
+अजः। असि। अज। स्वःऽगः। असि। त्वया। लोकम्। अङ्गिरसः। प्र। अजानन्। तम्। लोकम्। पुण्यम्। प्र। ज्ञेषम्। ५.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ The comm. explains *bhogébhis* as *ātmīyāiḥ sarpaśarīrāiḥ*.
 Rise with our army stand thou up. O Godlike Being, Arbudi. Breaking the hosts of enemies, surround them with thy winding coils.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। त्वम्। देवऽजन। अर्बुदे। सेनया। सह। भञ्जन्। अमित्राणाम्। सेनाम्। भोगेभिः। परि। वारय। ११.५।

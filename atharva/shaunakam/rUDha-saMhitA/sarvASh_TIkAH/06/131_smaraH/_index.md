@@ -7,7 +7,6 @@ title = "१३१ स्मरः"
 131. To win a man's love.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्मरः।  
@@ -19,8 +18,6 @@ title = "१३१ स्मरः"
 [Atharvān̄giras.—smaradevatākam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Not found in Pāipp. (like the preceding and the following hymn). Used by Kāug.
 ### Translations
 Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfield, 104, 535.
 </details>
+

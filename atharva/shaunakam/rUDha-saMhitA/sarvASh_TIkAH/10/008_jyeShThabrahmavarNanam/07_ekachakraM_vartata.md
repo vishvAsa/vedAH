@@ -20,7 +20,6 @@ not here. The sun is evidently meant, with half his course lost to view.
 Up, eastward downward in the west, 'it rolleth, with countless elements, one-wheeled, single-fellied. With half it hath begotten all creation. Where hath the other half become unnoticed?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकऽचक्रम्। वर्तते। एकऽनेमि। सहस्रऽअक्षरम्। प्र। पुरः। नि। पश्चा। अर्धेन। विश्वम्। भुवनम्। जजान। यत्। अस्य। अर्धम्। क्व। तत्। बभूव। ८.७।

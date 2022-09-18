@@ -25,10 +25,9 @@ Ppp. has *stabhitā* in **a**, and *śacībhiḥ* (for *śaviṣṭhā*) in **b*
 The early morning prayer hath come to Vishnu and Varuna, Lords through might, whom none hath equalled, Gods by whose power the realms of air were stablished, strongest and most heroic in their vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ययो:। ओजसा। स्कभिता। रजांसि। यौ। वीर्यै:। वीरऽतमा। शविष्ठा। यौ। पत्येते इति। अप्रतिऽइतौ। सह:ऽभि:। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूति:। २६.१।
+ययोः। ओजसा। स्कभिता। रजांसि। यौ। वीर्यैः। वीरऽतमा। शविष्ठा। यौ। पत्येते इति। अप्रतिऽइतौ। सहःऽभिः। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूतिः। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

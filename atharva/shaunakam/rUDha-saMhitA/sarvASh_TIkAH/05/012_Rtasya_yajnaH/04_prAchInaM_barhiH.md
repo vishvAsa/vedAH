@@ -22,10 +22,9 @@ given implies *-te*.
 By rule the Sacred Grass is scattered eastward, a robe to clothe this earth when dawns are breaking. Widely it spreads around and far extended, fair for the Gods and bringing peace and freedom,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राचीनम्। बर्हि:। प्रऽदिशा। पृथिव्या:। वस्तो:। अस्या:। वृज्यते। अग्रे। अह्नाम्। वि। ऊं इति। प्रथते। विऽतरम्। वरीय:। देवेभ्य:। अदितये। स्योनम्। १२.४।
+प्राचीनम्। बर्हिः। प्रऽदिशा। पृथिव्याः। वस्तोः। अस्याः। वृज्यते। अग्रे। अह्नाम्। वि। ऊं इति। प्रथते। विऽतरम्। वरीयः। देवेभ्यः। अदितये। स्योनम्। १२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

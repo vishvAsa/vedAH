@@ -24,10 +24,9 @@ comm. explains *krimīn* by *śarīrāntargatān sarvān kṣudrajantūn.*
 With Indra's mighty millstone, that which crushes worms of every sort, I bray and bruise the worms to bits like vetches on the grinding stone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। या। मही। दृषत्। क्रिमे:। विश्वस्य। तर्हणी। तया। पिनष्मि। सम्। क्रिमीन्। दृषदा। खल्वान्ऽइव। ३१.१।
+इन्द्रस्य। या। मही। दृषत्। क्रिमेः। विश्वस्य। तर्हणी। तया। पिनष्मि। सम्। क्रिमीन्। दृषदा। खल्वान्ऽइव। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ Ppp. has for **d** *dhātā sam abhavat kutaḥ*.
 From whom did Indra spring? from whom sprang Soma? whence was Agni born? From whom did Tvashtar spring to life? and whence is Dilator's origin?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कुतः। इन्द्रः। कुतः। सोमः। कुतः। अग्निः। अजायत। कुतः। त्वष्टा। सम्। अभवत्। कुतः। धाता। अजायत। १०.८।

@@ -23,7 +23,6 @@ three words of **d** singular⌋.
 Gain, acquisition, and success, fulness, complete prosperity. Great gain and wealth, are laid, concealed and treasured, in the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 राध्दिः। प्रऽआप्तिः। सम्ऽआप्तिः। विऽआप्तिः। महः। एधतुः। अतिऽआप्तिः। उत्ऽशिष्टे। भूतिः। च। आऽहिता। निऽहिता। हिता। ९.२२।

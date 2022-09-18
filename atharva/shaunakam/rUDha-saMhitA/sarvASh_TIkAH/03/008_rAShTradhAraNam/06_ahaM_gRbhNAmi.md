@@ -28,10 +28,9 @@ as if it had blundered in from the end of **b**.⌋
 I with my spirit seize and hold your spirits. Follow with thought and wish my thoughts and wishes. I make your hearts the thralls of my dominion; on me attendant come thy way I guide you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभि:। आ। इत। मम। वशेषु। हृदयानि। व:। कृणोमि। मम। यातम्। अनुऽवर्त्मान:। आ। इत। ८.६।
+अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभिः। आ। इत। मम। वशेषु। हृदयानि। वः। कृणोमि। मम। यातम्। अनुऽवर्त्मानः। आ। इत। ८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०५० अभययाचना"
 50. Against petty destroyers of grain.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभययाचना।  
@@ -18,8 +17,6 @@ title = "०५० अभययाचना"
 
 [Atharvan (abhayakāmaḥ).—āśvinam. 1. virāḍ jagatī; 2, 3. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 499; Florenz, 312 or 64; Griffith, i. 272; Bloomfield, 14
 
 A charm for the destruction of vermin
 </details>
+

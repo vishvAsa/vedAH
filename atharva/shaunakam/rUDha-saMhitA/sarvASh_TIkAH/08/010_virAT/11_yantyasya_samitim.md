@@ -19,10 +19,9 @@ Ppp. combines *svadhe ’hi* and *sūnṛte ’hi*, and omits *iti* at the end
 Come, Strength! come, Food! come, Charmer! come, Free- giver!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यन्ति। अस्य। सम्ऽइतिम्। साम्ऽइत्य:। भवति। य:। एवम्। वेद। १०.११।
+यन्ति। अस्य। सम्ऽइतिम्। साम्ऽइत्यः। भवति। यः। एवम्। वेद। १०.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

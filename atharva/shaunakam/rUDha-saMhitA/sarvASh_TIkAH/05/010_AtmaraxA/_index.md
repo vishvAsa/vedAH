@@ -7,7 +7,6 @@ title = "०१० आत्मरक्षा"
 10. For defense from all quarters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मरक्षा  
@@ -18,8 +17,6 @@ title = "०१० आत्मरक्षा"
 
 [Brahman.—aṣṭakam. vāstoṣpatyam. 1-6. yavamadhyā 3-p. gāyatrī; 7. yavamadhyā kakubh; 8. purodhṛtidvyanuṣṭubgarbhā parāṣṭi 3-av. 4-p. atijagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 202; Weber, xviii. 200.
 
 A prayer to the presiding deities of the four quarters for protection
 </details>
+

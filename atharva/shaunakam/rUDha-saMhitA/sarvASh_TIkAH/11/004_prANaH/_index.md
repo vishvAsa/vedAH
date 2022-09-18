@@ -7,7 +7,6 @@ title = "००४ प्राणः"
 4. Extolling the breath (prāṇá).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्राणः।  
@@ -18,8 +17,6 @@ title = "००४ प्राणः"
 
 [Bhārgava Vāidarbhi.—ṣaḍviṅśakam. mantroktaprāṇadevatyam. ānuṣṭubham: 1. śin̄kumatī; 8. pathyāpan̄kti; 14. nicṛt; 15. bhurij; 20. anuṣṭubgarbhātriṣṭubh; 21. madhyejyotir jagatī; 22. triṣṭubh; 26. bṛhatīgarbhā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 394 (the greater part); Scherman, p. 69 (nearly all); Deuss
 
 A glorification of Prana, Breath or Vital Spirit
 </details>
+

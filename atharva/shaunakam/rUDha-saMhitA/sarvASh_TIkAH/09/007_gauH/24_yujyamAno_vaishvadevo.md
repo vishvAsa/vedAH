@@ -18,7 +18,6 @@ Ppp. reads *vāiśvānaras* instead of *vāiśvadevas*.
 When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when unyoked he is All.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 युज्यमानः। वैश्वऽदेवः। युक्तः। प्रजाऽपतिः। विऽमुक्तः। सर्वम्। १२.२४।

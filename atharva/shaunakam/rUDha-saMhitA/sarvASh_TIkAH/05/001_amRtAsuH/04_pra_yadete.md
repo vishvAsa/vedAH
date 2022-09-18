@@ -21,10 +21,9 @@ combines *-nto ‘juryám* in **b**.
 As these have gone to their primeval station, each gaining an imperishable dwelling, May kissing mothers of the bards' beloved bring the pole-draw- ing husband to the sister.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। यत्। एते। प्रऽतरम्। पूर्व्यम्। गु:। सद:ऽसद:। आऽतिष्ठन्त:। अजुर्यम्। कवि:। शुषस्य। मातरा। रिहाणे इति। जाम्यै। धुर्यम्। पतिम्। आ। ईरयेथाम्। १.४।
+प्र। यत्। एते। प्रऽतरम्। पूर्व्यम्। गुः। सदःऽसदः। आऽतिष्ठन्तः। अजुर्यम्। कविः। शुषस्य। मातरा। रिहाणे इति। जाम्यै। धुर्यम्। पतिम्। आ। ईरयेथाम्। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

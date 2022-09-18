@@ -17,7 +17,6 @@ been lord of all, in whom all stands firm.
 Homage to Prana, him who hath dominion o'er the universe, Who hath become the Sovran Lord of all, on whom the whole depends!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणाय। नमः। यस्य। सर्वम्। इदम्। वशे। यः। भूतः। सर्वस्य। ईश्वरः। यस्मिन्। सर्वम्। प्रतिऽस्थितम्। ६.१।

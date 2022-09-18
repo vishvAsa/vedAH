@@ -19,10 +19,9 @@ in **b**, and the older *bhūtvī́* for *bhūtvā́* in **c**.
 I am the conqueror, and thou, thou also art victorious: As victory attends us both we will subdue my fellowwife.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। अस्मि। सहमाना। अथो इति। त्वम्। असि। ससहि:। उभे इति। सहस्वती इति। भूत्वा। सऽपत्नीम्। मे। सहावहै। १८.५।
+अहम्। अस्मि। सहमाना। अथो इति। त्वम्। असि। ससहिः। उभे इति। सहस्वती इति। भूत्वा। सऽपत्नीम्। मे। सहावहै। १८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

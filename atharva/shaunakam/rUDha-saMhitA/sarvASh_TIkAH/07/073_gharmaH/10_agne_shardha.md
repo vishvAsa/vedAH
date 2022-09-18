@@ -26,10 +26,9 @@ once each). ⌊Winternitz, *Hochzeitsrituell*, p. 57, cites the verse.⌋
 Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent splendours! Make easy to maintain our household lordship, and overcome the might of those who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। शर्ध। महते। सौभगाय। तव। द्युम्नानि। उत्ऽतमानि। सन्तु। सम्। जा:ऽपत्यम्। सुऽयमम्। आ। कृणुष्व। शत्रुयऽयताम्। अभि। तिष्ठ। महांसि। ७७.१०।
+अग्ने। शर्ध। महते। सौभगाय। तव। द्युम्नानि। उत्ऽतमानि। सन्तु। सम्। जाःऽपत्यम्। सुऽयमम्। आ। कृणुष्व। शत्रुयऽयताम्। अभि। तिष्ठ। महांसि। ७७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

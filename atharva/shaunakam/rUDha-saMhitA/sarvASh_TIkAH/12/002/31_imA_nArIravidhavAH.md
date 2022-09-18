@@ -28,7 +28,6 @@ avidhavāḥ sujāmaya*) to accompany a similar act to the men.
 Let these unwidowed dames with goodly husbands adorn them- selves with fragrant balm and unguent, Decked with fair jewels, tearless, sound and healthy, first let the dames go up to where he lieth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमाः। नारीः। अविधवाः। सुऽपत्नीः। आऽअञ्जनेन। सर्पिषा। सम्। स्पृशन्ताम्। अनश्रवः। अनमीवाः। सुऽरत्नाः। आ। रोहन्तु। जनयः। योनिम्। अग्रे। २.३१।

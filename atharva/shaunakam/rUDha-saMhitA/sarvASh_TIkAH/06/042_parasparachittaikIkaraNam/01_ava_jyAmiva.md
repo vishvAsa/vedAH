@@ -25,10 +25,9 @@ abbreviation *’va* after *sákhāyāu*.
 I loose the anger from thy heart as 'twere the bowstring from a bow, That we, one-minded now, may walk together as familiar friends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। ज्याम्ऽइव। धन्वन:। मन्युम्। तनोमि। ते। हृद:। यथा। सम्ऽमनसौ। भूत्वा। सखायौऽइव। सचावहै। ४२.१।
+अव। ज्याम्ऽइव। धन्वनः। मन्युम्। तनोमि। ते। हृदः। यथा। सम्ऽमनसौ। भूत्वा। सखायौऽइव। सचावहै। ४२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

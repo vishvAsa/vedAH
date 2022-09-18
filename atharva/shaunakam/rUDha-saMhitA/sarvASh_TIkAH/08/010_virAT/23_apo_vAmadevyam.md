@@ -24,10 +24,9 @@ it puts the paragraph after our 24.
 She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, come hither. King Yama was her calf, her pail was silvern. Antaka, Mrityu's. son, milked her, this Svadha. This Food the Fathers make their lives' sustainer. He who* knows this becomes a meet supporter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप:। वामऽदेव्यम्। यज्ञम्। यज्ञायज्ञियम्। य:। एवम्। वेद। ११.१०।
+अपः। वामऽदेव्यम्। यज्ञम्। यज्ञायज्ञियम्। यः। एवम्। वेद। ११.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

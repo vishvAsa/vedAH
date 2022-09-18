@@ -19,7 +19,6 @@ This verse, with a part of the preceding one, is wanting in Ppp.
 I know the Seven Water-floods, I know the seven distances, I know the head of sacrifice, and Soma shining bright in her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वेद। अहम्। सप्त। प्रऽवतः। सप्त। वेद। पराऽवतः। शिरः। यज्ञस्य। अहम्। वेद। सोमम्। च। अस्याम्। विऽचक्षणम्। १०.३।

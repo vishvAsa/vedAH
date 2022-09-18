@@ -21,10 +21,9 @@ gopám*, as two separate words.
 May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni. Mine be the middle air's extended region, and may the Wind blow favouring these my wishes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मम। देवा:। विऽहवे। सन्तु। सर्वे। इन्द्रऽवन्त:। मरुत:। विष्णु:। अग्नि:। मम। अन्तरिक्षम्। उरुऽलोकम्। अस्तु। मह्यम्। वात:। पवताम्। कामाय। अस्मै। ३.३।
+मम। देवाः। विऽहवे। सन्तु। सर्वे। इन्द्रऽवन्तः। मरुतः। विष्णुः। अग्निः। मम। अन्तरिक्षम्। उरुऽलोकम्। अस्तु। मह्यम्। वातः। पवताम्। कामाय। अस्मै। ३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

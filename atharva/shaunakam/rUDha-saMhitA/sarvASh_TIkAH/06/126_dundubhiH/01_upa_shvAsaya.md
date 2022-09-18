@@ -23,10 +23,9 @@ dūrā́t*.*
 Send forth thy voice aloud through earth and heaven, and let the world in all its breadth regard thee. O Drum, accordant with the Gods and Indra, drive thou afar, yea, very far, our foemen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। श्वासय। पृथिवीम्। उत। द्याम्। पुरुऽत्रा। ते। वन्वताम्। विऽस्थितम्। जगत्। स:। दुन्दुभे। सऽजू:। इन्द्रेण। देवै:। दूरात्। दवीय:। अप। सेध। शत्रून्। १२६.१।
+उप। श्वासय। पृथिवीम्। उत। द्याम्। पुरुऽत्रा। ते। वन्वताम्। विऽस्थितम्। जगत्। सः। दुन्दुभे। सऽजूः। इन्द्रेण। देवैः। दूरात्। दवीयः। अप। सेध। शत्रून्। १२६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ sāyaka*, see note to iv. 31. 6; and for *púṣyati*, note to iv. 13. 2.⌋
 He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthwith all conquering energy. Arya and Dasa will we conquer with thine aid, with thee the conqueror, with conquest conquest-sped.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। मन्यो इति। अविधत्। वज्र। सायक। सह:। ओज:। पुष्यति। विश्वम्। आनुषक्। सह्याम्। दासम्। आर्यम्। त्वया। युजा। वयम्। सह:ऽकृतेन। सहसा। सहस्वता। ३२.१।
+यः। ते। मन्यो इति। अविधत्। वज्र। सायक। सहः। ओजः। पुष्यति। विश्वम्। आनुषक्। सह्याम्। दासम्। आर्यम्। त्वया। युजा। वयम्। सहःऽकृतेन। सहसा। सहस्वता। ३२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

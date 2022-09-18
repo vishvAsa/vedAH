@@ -26,7 +26,6 @@ JAOS. xv., p. xlv.⌋
 Quickly around his funeral fire dance women with dishevelled locks, Striking the hand upon the breast and uttering their evil shriek.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्य। आऽदहनम्। परि। नृत्यन्ति। केशिनीः। आऽघ्नानाः। पाणिना। उरसि। कुर्वाणाः। पापम्। ऐलबम्। १०.२।

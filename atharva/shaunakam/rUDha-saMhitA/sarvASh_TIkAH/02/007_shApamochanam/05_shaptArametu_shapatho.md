@@ -23,10 +23,9 @@ Griflith's note, and mine to xix. 45. 2.⌋
 Upon the curser fall his curse! Dwell we with him whose heart is true! We split the cruel villain's ribs whose evil eye bewitches us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शप्तारम्। एतु। शपथ:। य:। सुऽहार्त्। तेन। न:। सह। चक्षु:ऽमन्त्रस्य। दु:ऽहार्द:। पृष्टी:। अपि। शृणीमसि। ७.५।
+शप्तारम्। एतु। शपथः। यः। सुऽहार्त्। तेन। नः। सह। चक्षुःऽमन्त्रस्य। दुःऽहार्दः। पृष्टीः। अपि। शृणीमसि। ७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ to make a full *kṛti* (80 syll.).
 Giver of breath, giver of strength and vigour, he whose com- mandment all the Gods acknowledge, He who is Lord of this, of man and cattle, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। आत्मऽदाः। बलऽदाः। यस्य। विश्वे। उपऽआसते। प्रऽशिषम्। यस्य। देवाः। यः। अस्य। ईशे। द्विऽपदः। यः। चतुःऽपदः। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२४।

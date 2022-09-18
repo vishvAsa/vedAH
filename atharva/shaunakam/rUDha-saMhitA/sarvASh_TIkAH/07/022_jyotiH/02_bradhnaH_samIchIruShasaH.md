@@ -26,10 +26,9 @@ misprinted *kāṇḍa*-number 6 to 7.⌋
 The Bright One hath sent forth the Dawns, a closely gathered band, Immaculate, unanimous, brightly refulgent in their homes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बध्न:। समीची:। उषस:। सम्। ऐरयन्। अरेपस:। सऽचेतस:। स्वसरे। मन्युमत्ऽतमा:। चिते। गो:। २३.२।
+बध्नः। समीचीः। उषसः। सम्। ऐरयन्। अरेपसः। सऽचेतसः। स्वसरे। मन्युमत्ऽतमाः। चिते। गोः। २३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

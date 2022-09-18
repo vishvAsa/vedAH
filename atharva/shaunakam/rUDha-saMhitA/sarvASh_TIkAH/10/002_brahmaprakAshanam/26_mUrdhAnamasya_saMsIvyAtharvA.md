@@ -21,7 +21,6 @@ the end *śīrṣṇaḥ*.
 Together, with his needle hath Atharvan sewn his head and heart. And Pavamana hovered from his head on high above his brain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मूर्धानम्। अस्य। सम्ऽसीव्य। अथर्वा। हृदयम्। च। यत्। मस्तिष्कात्। ऊर्ध्वः। प्र। ऐरयत्। पवमानः। अधि। शीर्षतः। २.२६।

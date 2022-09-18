@@ -20,10 +20,9 @@ etc., as in vs. 1. The comm. regards the verse as addressed to Agni.
 In waters is thy birth, in heaven thy station, thy majesty on earth and in the ocean. We with this offering will adore the greatness of the Heavenly Hound.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्ऽसु। ते। जन्म। दिवि। ते। सधऽस्थम्। समुद्रे। अन्त:। महिमा। ते। पृथिव्याम्। शुन:। दिव्यस्य। यत्। मह:। तेन। ते। हविषा। विधेम। ८०.३।
+अप्ऽसु। ते। जन्म। दिवि। ते। सधऽस्थम्। समुद्रे। अन्तः। महिमा। ते। पृथिव्याम्। शुनः। दिव्यस्य। यत्। महः। तेन। ते। हविषा। विधेम। ८०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

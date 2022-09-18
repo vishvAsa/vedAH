@@ -7,7 +7,6 @@ title = "०६२ पावमानम्"
 62. To Vāiśvānara etc.: for purification.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पावमानम्।  
@@ -18,8 +17,6 @@ title = "०६२ पावमानम्"
 
 [Atharvan (?).—rāudram uta mantroktadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 279.
 
 A prayer for purification and riches
 </details>
+

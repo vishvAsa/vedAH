@@ -23,7 +23,6 @@ and Ppp. offers no variants. The comm. reads *bhūtam* instead of
 Filled with a babe, mid deities he wanders: grown; near at hand, he springs again to being. That Father, grown the present and the future, hath past into the son with mighty powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्तः। गर्भः। चरति। देवतासु। आऽभूतः। भूतः। सः। ऊं इति। जायते। पुनः। सः। भूतः। भव्यम्। भविष्यत्। पिता। पुत्रम्। प्र। विवेश। शचीभिः। ६.२०।

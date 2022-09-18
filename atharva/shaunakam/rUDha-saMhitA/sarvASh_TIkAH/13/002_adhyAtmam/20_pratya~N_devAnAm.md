@@ -18,7 +18,6 @@ RV. reads at end of **b** *mā́nuṣān*, and SV. (i. 637) has the same.
 Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all light to behold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रत्यङ्। देवानाम्। विशः। प्रत्यङ्। उत्। एषि। मानुषीः। प्रत्यङ्। विश्वम्। स्वः। दृशे। २.२०।

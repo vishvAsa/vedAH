@@ -28,10 +28,9 @@ would be an easier reading.
 Preserve us both the Asvins, Gods and Lords of Light, and let the Dawns and Night bring us deliverance. The Waters' Child protect our house from every harm. Do thou, God Tvashtar, make us strong for health and wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पाताम्। न:। देवा। अश्विना। शुभ:। पती इति। उषासानक्ता। उत। न:। उरुष्यताम्। अपाम्। नपात्। अभिह्रुती। इत्यभिऽह्रुती। गयस्य। चित्। देव। त्वष्ट:। वर्धय। सर्वऽतातये। ३.३।
+पाताम्। नः। देवा। अश्विना। शुभः। पती इति। उषासानक्ता। उत। नः। उरुष्यताम्। अपाम्। नपात्। अभिह्रुती। इत्यभिऽह्रुती। गयस्य। चित्। देव। त्वष्टः। वर्धय। सर्वऽतातये। ३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

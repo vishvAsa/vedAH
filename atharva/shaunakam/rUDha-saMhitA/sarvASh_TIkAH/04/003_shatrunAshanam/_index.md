@@ -7,7 +7,6 @@ title = "००३ शत्रुनाशनम्"
 3. Against wild beasts and thieves.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्  
@@ -18,8 +17,6 @@ title = "००३ शत्रुनाशनम्"
 
 [Atharvan.—rāudram uta vyāghradevatyam. ānuṣṭubham: 1. pathyāpan̄kti; 3. gāyatrī; 7. kakummatīgarbho 'pariṭādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ id
 4.3    A Charm against tigers, wolves, thieves and ot...
 Name: Comment, dtype: object
 </details>
+

@@ -20,10 +20,9 @@ thus a *kakubh*-element (**b**), but no *bṛhatī*.
 Here, Agni, is the fuel, here are logs that crush Pisachas down. O Jatavedas, willingly accept them and be pleased therewith.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एता:। ते। अग्ने। सम्ऽइध:। पिशाचऽजम्भनी:। ता:। त्वम्। जुषस्व। प्रति। च। एना:। गृहाण। जातऽवेद:। २९.१४।
+एताः। ते। अग्ने। सम्ऽइधः। पिशाचऽजम्भनीः। ताः। त्वम्। जुषस्व। प्रति। च। एनाः। गृहाण। जातऽवेदः। २९.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,7 +17,6 @@ The Anukr., as above, forces the elision *yajñò ‘j-*.
 स वै य॒ज्ञाद॑जायत॒ तस्मा॑द् य॒ज्ञोऽजायत ॥३९॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। वै। यज्ञात्। अजायत। तस्मात्। यज्ञः। अजायत। ७.११।

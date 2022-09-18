@@ -28,10 +28,9 @@ and AśS. *yajamāne*. The comm. gives several diverse explanations of
 Kuhl), the Queen of Gods and immortality, called to assist, enjoy this sacrifice of' ours! Let her, desirous of our worship, hear to-day: may she, intelligent, give increase of our wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कुहू:। देवानाम्। अमृतस्य। पत्नी। हव्या। न:। अस्य। हविष:। जुषेत। शृणोतु। यज्ञम्। उशती। न:। अद्य। राय:। पोषम्। चिकितुषी। दधातु। ४९.२।
+कुहूः। देवानाम्। अमृतस्य। पत्नी। हव्या। नः। अस्य। हविषः। जुषेत। शृणोतु। यज्ञम्। उशती। नः। अद्य। रायः। पोषम्। चिकितुषी। दधातु। ४९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

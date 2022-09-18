@@ -23,7 +23,6 @@ at Kāuś. 61. 4.⌋
 Embrace us as a father clasps his children. Here on the Earth let kindly breezes fan us. Let the rice-mess these two cook here, O Goddess, know this our truthfulness and zealous fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पिताऽइव। पुत्रान्। अभि। सम्। स्वजस्व। नः। शिवाः। नः। वाताः। इह। वान्तु। भूमौ। यम्। ओदनम.। पचतः। देवते इति। इह। तम्। नः। तपः। उत। सत्यम्। च। वेत्तु। ३.१२।

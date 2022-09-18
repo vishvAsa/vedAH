@@ -22,10 +22,9 @@ The adjectives in **a, b** are fem., seeming to indicate that the
 So planning bliss for you have I come hither to win your friendship: kind am I, and gracious. Born from one source, propitious is your wisdom: knowing full well to all of you it cometh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इत्थम्। श्रेय:। मन्यमाना:। इदम्। आ। अगमम्। युष्माकम्। सख्ये। अहम्। अस्मि। शेवा। समानऽजन्मा। क्रतु:। अस्ति। व:। शिव:। स:। व:। सर्वा:। सम्। चरति। प्रऽजानन्। ९.२२।
+इत्थम्। श्रेयः। मन्यमानाः। इदम्। आ। अगमम्। युष्माकम्। सख्ये। अहम्। अस्मि। शेवा। समानऽजन्मा। क्रतुः। अस्ति। वः। शिवः। सः। वः। सर्वाः। सम्। चरति। प्रऽजानन्। ९.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

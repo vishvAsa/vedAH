@@ -29,7 +29,6 @@ of this verse. Griffith and the other translators may be consulted.⌋
 All trembled at the babe that came from him who brings not to the birth. He hath produced her--thus they cried--He is a cow, and formed by spells, he hath become skin to her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वे। गर्भात्। अवेपन्त। जायमानात्। असूप्स्वः। ससूव। हि। ताम्। आहुः। वशा। इति। ब्रह्मऽभिः। क्लृप्तः। सः। हि। अस्याः। बन्धुः। १०.२३।

@@ -21,10 +21,9 @@ Ppp. combines *sapatnā ’ndhā* in **a-b**, combines and reads *nirindriyā
 Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness hurl them. Reft be they all of manly strength and vigour! Let them not have a single day's existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जहि। त्वम्। काम। मम। ये। सऽपत्ना:। अन्धा। तमांसि। अव। पादय। एनान्। नि:ऽइन्द्रिया:। अरसा:। सन्तु। सर्वे। मा। ते। जीविषु:। कतमत्। चन। अह:। २.१०।
+जहि। त्वम्। काम। मम। ये। सऽपत्नाः। अन्धा। तमांसि। अव। पादय। एनान्। निःऽइन्द्रियाः। अरसाः। सन्तु। सर्वे। मा। ते। जीविषुः। कतमत्। चन। अहः। २.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

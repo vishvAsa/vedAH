@@ -26,10 +26,9 @@ is very likely that the tradition is right.
 Agni, from days of old thou slayest demons: never have Rakshasas in fight o'ercome thee. Burn up the foolish ones, the flesh-devourers: let none of them escape thy heavenly arrow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्यु:। सहऽमूरान्। अनु। दह। क्रव्यऽअद:। मा। ते। हेत्या:। मुक्षत। दैव्याया:। ३.१८।
+सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्युः। सहऽमूरान्। अनु। दह। क्रव्यऽअदः। मा। ते। हेत्याः। मुक्षत। दैव्यायाः। ३.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

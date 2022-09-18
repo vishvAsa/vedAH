@@ -20,7 +20,6 @@ redundant syllable (in **a**).
 That universe which Prajapati created, wearing all forms,, the highest, midmost, lowest, How far did Skambha penetrate within it? What portion did he leave unpenetrated?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। परमम्। अवमम्। यत्। च। मध्यमम्। प्रजाऽपतिः। ससृजे। विश्वऽरूपम्। कियता। स्कम्भः। प्र। विवेश। तत्र। यत्। न। प्रऽअविशत्। कियत्। तत्। बभूव। ७.८।

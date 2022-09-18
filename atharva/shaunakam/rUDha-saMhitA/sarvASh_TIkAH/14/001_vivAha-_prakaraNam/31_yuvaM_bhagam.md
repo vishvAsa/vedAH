@@ -31,7 +31,6 @@ cadence⌋. Ppp. reads *mṛtyodyena* at end of **b**, and *ṣumbhalo* in
 Prepare, ye twain, happy and prosperous fortune, speaking the truth in faithful utterances. Dear unto her, Brihaspati, make the husband, and pleasant be these words the wooer speaketh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 युवम्। भगम्। सम्। भरतम्। सम्ऽऋध्दम्। ऋतम्। वदन्तौ। ऋतऽउद्येषु। ब्रह्मणः। पते। पतिम्। अस्यै। रोचय। चारु। सम्ऽभलः। वदतु। वाचम्। एताम्। १.३१।

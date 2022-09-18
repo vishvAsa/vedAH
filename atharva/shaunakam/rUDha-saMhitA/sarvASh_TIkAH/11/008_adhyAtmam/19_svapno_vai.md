@@ -19,7 +19,6 @@ perhaps rather 'one after another.'
 Sleep, specially, Sloth, Nirriti, and deities whose name is Sin, Baldness, old age, and hoary hairs within the body found their way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वप्नः। वै। तन्द्रीः। निःऽऋतिः। पाप्मानः। नाम। देवताः। जरा। खालत्यम्। पालित्यम्। शरीरम्। अनु। प्र। अविशन्। १०.१९।

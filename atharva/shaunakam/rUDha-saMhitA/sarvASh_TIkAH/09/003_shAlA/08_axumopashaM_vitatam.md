@@ -23,7 +23,6 @@ and has in **c** the easier reading *apinaddham apihitam*.
 We with our incantation loose the net that hath a thousand. eyes. The diadem, securely tied and laid upon the central beam.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अक्षुम्। ओपशम्। विऽततम्। सहस्रऽअक्षम्। विषुऽवति। अवऽनध्दम्। अभिऽहितम्। ब्रह्मणा। वि। चृतामसि। ३.८।

@@ -30,10 +30,9 @@ ed., correct *nadyò3* to *nadyà1ḥ*.⌋
 With mead I mingle flowing streams: the hills and mountains shall be mead. Parushni and Sipala mead. May it be well with mouth and heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मध्वा। पृञ्चे। नद्य:। पर्वता:। गिरय:। मधु। मधु। परुष्णी। शीपाला। शम्। आस्ने। अस्तु। शम्। हृदे। १२.३।
+मध्वा। पृञ्चे। नद्यः। पर्वताः। गिरयः। मधु। मधु। परुष्णी। शीपाला। शम्। आस्ने। अस्तु। शम्। हृदे। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

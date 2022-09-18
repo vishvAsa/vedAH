@@ -23,10 +23,9 @@ resolution (*viśu-a*, *pṛ-āṇas*).
 They call thee earth's great strength in every form, they call thee too the ocean's genial seed. Whence comes the Honey-whip bestowing bounty, there Vital Spirit is, and Amrit treasured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-महत्। पय:। विश्वऽरूपम्। अस्या:। समुद्रस्य। त्वा। उत। रेत:। आहु:। यत:। आऽएति। मधुऽकशा। रराणा। तत्। प्राण:। तत्। अमृतम्। निऽविष्टम्। १.२।
+महत्। पयः। विश्वऽरूपम्। अस्याः। समुद्रस्य। त्वा। उत। रेतः। आहुः। यतः। आऽएति। मधुऽकशा। रराणा। तत्। प्राणः। तत्। अमृतम्। निऽविष्टम्। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -16,7 +16,6 @@ title = "६७ प्र स्कन्धान्"
 Strike off the shoulders and the head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। स्कन्धान्। प्र। शिरः। जहि। ११.६।

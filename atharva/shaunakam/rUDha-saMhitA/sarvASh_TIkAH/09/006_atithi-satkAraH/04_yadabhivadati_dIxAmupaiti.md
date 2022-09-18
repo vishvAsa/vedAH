@@ -19,10 +19,9 @@ read *yā́cati apáḥ* to make out the defined meter.
 When he salutes them reverently he undergoes preparation for a religious ceremony: when he calls for water, he solemnly brings sacrificial water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अभिऽवदति। दीक्षाम्। उप। एति। यत्। उदकम्। याचति। अप:। प्र। नयति। ६.४।
+यत्। अभिऽवदति। दीक्षाम्। उप। एति। यत्। उदकम्। याचति। अपः। प्र। नयति। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ count.
 We draw about us both the arms of Indra, our deliverer. May they protect us thoroughly. O Savitar, thou God, O royal Soma, make thou me pious- minded for my welfare.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। दद्म:। इन्द्रस्य। बाहू इति। समन्तम्। त्रातु:। त्रायताम्। न:। देव। सवित:। सोम। राजन्। सुऽमनसम्। मा। कृणु। स्वस्तये। ९९.३।
+परि। दद्मः। इन्द्रस्य। बाहू इति। समन्तम्। त्रातुः। त्रायताम्। नः। देव। सवितः। सोम। राजन्। सुऽमनसम्। मा। कृणु। स्वस्तये। ९९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

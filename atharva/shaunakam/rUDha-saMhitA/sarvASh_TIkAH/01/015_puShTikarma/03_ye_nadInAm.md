@@ -19,10 +19,9 @@ The comm. gives the verse twice, each time with a separate explanation.
 All river founts that blend their streams for ever inexhaustible-- With all these confluent streams of mine we make abundant riches flow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। नदीनाम्। सम्ऽस्रवन्ति। उत्सास :। सदम्। अक्षिता:। तेर्भि:। मे। सर्वै:। सम्ऽस्रावै:। धनम्। सम्। स्रावयामसि।
+ये। नदीनाम्। सम्ऽस्रवन्ति। उत्सास ः। सदम्। अक्षिताः। तेर्भिः। मे। सर्वैः। सम्ऽस्रावैः। धनम्। सम्। स्रावयामसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

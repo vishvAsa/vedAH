@@ -20,10 +20,9 @@ end of **b**. ⌊One suspects that "hawk" may be too specific.⌋
 Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that seeks our dwelling! May Agni, Sage, be pleased with our oblation, and may the missile borne on wings avoid us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिव:। कपोत:। इषित:। न:। अस्तु। अनागा:। देवा:। शकुन:। गृहम्। न:। अग्नि:। हि। विप्र:। जुषताम्। हवि:। न:। परि। हेति:। पक्षिणी। न:। वृणक्तु। २७.२।
+शिवः। कपोतः। इषितः। नः। अस्तु। अनागाः। देवाः। शकुनः। गृहम्। नः। अग्निः। हि। विप्रः। जुषताम्। हविः। नः। परि। हेतिः। पक्षिणी। नः। वृणक्तु। २७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

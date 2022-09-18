@@ -14,10 +14,9 @@ title = "०१ वनस्पते वीड्वऽङ्गो"
 Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodly hero. Put forth thy strength, compact with thongs of leather, and let thy rider win all spoils of battle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वनस्पते। वीडुऽअङ्ग:। हि। भूया:। अस्मत्ऽसखा। प्रऽतरण:। सुऽवीर:। गोभि:। सम्ऽनध्द:। असि। वीडयस्व। आऽस्थाता। ते। जयतु। जेत्वानि। १२५.१।
+वनस्पते। वीडुऽअङ्गः। हि। भूयाः। अस्मत्ऽसखा। प्रऽतरणः। सुऽवीरः। गोभिः। सम्ऽनध्दः। असि। वीडयस्व। आऽस्थाता। ते। जयतु। जेत्वानि। १२५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

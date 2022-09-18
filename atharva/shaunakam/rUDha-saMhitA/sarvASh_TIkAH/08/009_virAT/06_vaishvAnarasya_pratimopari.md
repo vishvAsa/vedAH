@@ -21,10 +21,9 @@ pleasure in the *navarātra* ceremony.
 Vaisvanara's image is the sky above us, so far as Agni forced both spheres asunder. Thence from that region as the sixth come praise-songs, and every sixth day hence again go upward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानरस्य। प्रतिऽमा। उपरि। द्यौ:। यावत्। रोदसी इति। विऽबबाधे। अग्नि:। तत:। षष्ठात्। आ। अमुत:। यन्ति। स्तोमा:। उत्। इत:। यन्ति। अभि। षष्ठम्। अह्न:। ९.६।
+वैश्वानरस्य। प्रतिऽमा। उपरि। द्यौः। यावत्। रोदसी इति। विऽबबाधे। अग्निः। ततः। षष्ठात्। आ। अमुतः। यन्ति। स्तोमाः। उत्। इतः। यन्ति। अभि। षष्ठम्। अह्नः। ९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

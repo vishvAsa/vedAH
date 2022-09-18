@@ -22,7 +22,6 @@ redundant syllable in **b** as balanced by the deficiency in **a**. ⌊Cf.
 Mount thy strong car, O Surya, lightly rolling, drawn by good steeds, propitious, brightly gleaming, Whirled by thy bays, most excellent at drawing, thy hundred horses or seven goodly coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुऽखम्। सूर्य। रथम्। अंशुऽमन्तम्। स्योनम्। सुऽवह्निम्। अधि। तिष्ठ। वाजिनम्। यम्। ते। वहन्ति। हरितः। वहिष्ठाः। शतम्। अश्वाः। यदि। वा। सप्त। बह्वीः। 2.७।

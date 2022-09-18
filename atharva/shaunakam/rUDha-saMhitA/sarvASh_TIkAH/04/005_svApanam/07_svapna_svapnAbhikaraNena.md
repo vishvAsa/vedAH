@@ -30,10 +30,9 @@ Anukr., taking 30 as norm, says simply *sapta*.
 With soporific charm, O Sleep, lull thou to slumber all the folk. Let the rest sleep till break of day, I will remain awake till dawn, like Indra free from scath and harm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वप्न। स्वप्नऽअभिकरणेन। सर्वम्। नि। स्वापय। जनम्। आऽउत्सूर्यम्। अन्यान्। स्वापय। आऽव्युषम्। जागृतात्। अहम्। इन्द्र:ऽइव। अरिष्ट:। अक्षित:। ५.७।
+स्वप्न। स्वप्नऽअभिकरणेन। सर्वम्। नि। स्वापय। जनम्। आऽउत्सूर्यम्। अन्यान्। स्वापय। आऽव्युषम्। जागृतात्। अहम्। इन्द्रःऽइव। अरिष्टः। अक्षितः। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

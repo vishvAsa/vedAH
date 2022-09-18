@@ -27,10 +27,9 @@ i. 22¹⁴.⌋
 Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the world of splendour. Fire burneth not their organ of enjoyment: much pleasure have they in the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनस्था:। पूता:। पवनेन। शुध्दा:। शुचय:। शुचिम्। अपि। यन्ति। लोकम्। न। एषाम्। शिश्नम्। प्र। दहति। जातऽवेदा:। स्व:ऽगे। लोके। बहु। स्त्रैणम्। एषाम् ३४.२।
+अनस्थाः। पूताः। पवनेन। शुध्दाः। शुचयः। शुचिम्। अपि। यन्ति। लोकम्। न। एषाम्। शिश्नम्। प्र। दहति। जातऽवेदाः। स्वःऽगे। लोके। बहु। स्त्रैणम्। एषाम् ३४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

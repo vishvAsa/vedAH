@@ -28,10 +28,9 @@ find no note of P.M.⌋
 First was the Full Moon meet for adoration among the days and in the nights' deep darkness. Into thy heaven, O Holy One, have entered those pious men who honour thee with worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पौर्णऽमासी। प्रथमा। यज्ञिया। आसीत्। अह्नाम्। रात्रीणाम्। अतिऽशर्वरेषु। ये। त्वाम्। यज्ञै:। यज्ञिये। अर्धयन्ति। अमी इति। ते। नाके। सुऽकृत:। प्रऽविष्टा:। ८५.४।
+पौर्णऽमासी। प्रथमा। यज्ञिया। आसीत्। अह्नाम्। रात्रीणाम्। अतिऽशर्वरेषु। ये। त्वाम्। यज्ञैः। यज्ञिये। अर्धयन्ति। अमी इति। ते। नाके। सुऽकृतः। प्रऽविष्टाः। ८५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

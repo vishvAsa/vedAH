@@ -7,7 +7,6 @@ title = "०२६ शर्मप्राप्तिः"
 26. For protection from the wrath of the gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शर्मप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०२६ शर्मप्राप्तिः"
 
 [Brahman.—indrādibahudevatyam, gāyatram: 2. 3-p. sāmnĩ triṣṭubh; 4. pādanicṛt (2, 4. ekāvasāna)].
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 420; Griffith, i. 31.
 
 A prayer for protection, guidance, and prosperity
 </details>
+

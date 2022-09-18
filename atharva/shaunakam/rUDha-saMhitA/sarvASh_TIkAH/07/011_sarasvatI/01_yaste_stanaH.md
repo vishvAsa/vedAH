@@ -22,10 +22,9 @@ bhūṣati* as = *vyāpnoti*. Some mss., as usual, retain the *ḥ* of
 That far-spread thunder, sent from thee, which cometh on all this world, a high celestial signal Strike not, O God, our growing corn with lightning, not kill it with the burning rays of Surya.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। पृथु:। स्तनयित्नु:। य:। ऋष्व:। दैव:। केतु:। विश्वम्। आऽभूषति। इदम्। मा। न:। वधी:। विऽद्युता। देव:। सस्यम्। मा। उत। वधी:। रश्मिऽभि:। सूर्यस्य। १२.१।
+यः। ते। पृथुः। स्तनयित्नुः। यः। ऋष्वः। दैवः। केतुः। विश्वम्। आऽभूषति। इदम्। मा। नः। वधीः। विऽद्युता। देवः। सस्यम्। मा। उत। वधीः। रश्मिऽभिः। सूर्यस्य। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

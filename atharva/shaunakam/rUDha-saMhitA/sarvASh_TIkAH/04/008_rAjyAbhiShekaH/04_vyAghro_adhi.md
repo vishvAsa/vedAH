@@ -24,10 +24,9 @@ vi. 87. 1 **d**, and in other texts: see under that verse). Ppp. gives
 Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all the people long for thee. Let heavenly floods be rich in milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-व्याघ्र:। अधि। वैयाघ्रे। वि। क्रमस्व। दिश:। मही:। दिश:। त्वा। सर्वा:। वाञ्छन्तु। आप:। दिव्या:। पयस्वती:। ८.४।
+व्याघ्रः। अधि। वैयाघ्रे। वि। क्रमस्व। दिशः। महीः। दिशः। त्वा। सर्वाः। वाञ्छन्तु। आपः। दिव्याः। पयस्वतीः। ८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

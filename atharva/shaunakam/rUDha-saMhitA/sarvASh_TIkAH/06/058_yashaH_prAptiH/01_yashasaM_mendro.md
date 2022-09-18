@@ -22,10 +22,9 @@ deficient.
 May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, make me famous. May Savitar the deity make me honoured. Here may the man who gives the guerdon love me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यशसम्। मा। इन्द्र:। मघऽवान्। कृणोतु। यशसम्। द्यावापृथिवी इति। उभे इति। इमे इति। यशसम्। मा। देव:। सविता। कृणोतु। प्रिय:। दातु:। दक्षिणाया:। इह। स्याम्। ५८.१।
+यशसम्। मा। इन्द्रः। मघऽवान्। कृणोतु। यशसम्। द्यावापृथिवी इति। उभे इति। इमे इति। यशसम्। मा। देवः। सविता। कृणोतु। प्रियः। दातुः। दक्षिणायाः। इह। स्याम्। ५८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

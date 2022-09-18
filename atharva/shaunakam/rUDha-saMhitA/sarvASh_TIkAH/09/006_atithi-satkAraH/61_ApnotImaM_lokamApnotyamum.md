@@ -20,7 +20,6 @@ demands the resolution *-ti amúm*.
 He gains this world and the world yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आप्नोति। इमम्। लोकम्। आप्नोति। अमुम्। ११.१३।

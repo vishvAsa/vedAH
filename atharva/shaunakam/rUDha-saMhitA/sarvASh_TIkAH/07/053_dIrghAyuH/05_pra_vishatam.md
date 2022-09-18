@@ -19,10 +19,9 @@ rather 'let this man, a treasury of old age' (so Henry).
 Enter him, both ye breaths, like two draught-oxen entering their stall. Let him, the treasure of old age, still wax in strength, uninjured,. here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। अयम्। जरिम्ण:। शेवऽधि:। अरिष्ट:। इह। वर्धताम्। ५५.५।
+प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। अयम्। जरिम्णः। शेवऽधिः। अरिष्टः। इह। वर्धताम्। ५५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

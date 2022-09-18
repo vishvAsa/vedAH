@@ -18,10 +18,9 @@ sister slain.
 Destroyed are his dependants, who those dwell around him are destroyed, And all the worms that seem to be the little ones are done to death
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हत:। राजा। क्रिमीणाम्। उत। एषाम्। स्थपति:। हत:। हत:। हतमाता। क्रिमि:। हतऽभ्राता। हतऽस्वसा। २३.११।
+हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। २३.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

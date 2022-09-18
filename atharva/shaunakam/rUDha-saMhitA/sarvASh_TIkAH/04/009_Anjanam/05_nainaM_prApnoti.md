@@ -20,10 +20,9 @@ with *yas tvāṁ bibharty āñjana.*⌋
 No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha seizes not the man who carries thee about.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। एनम्। प्र। आप्नोति। शपथ:। न। कृत्या। न। अभिऽशोचनम्। न। एनम्। विऽस्कन्धम्। अश्नुते। य:। त्वा। बिभर्ति। आऽअञ्जन। ९.५।
+न। एनम्। प्र। आप्नोति। शपथः। न। कृत्या। न। अभिऽशोचनम्। न। एनम्। विऽस्कन्धम्। अश्नुते। यः। त्वा। बिभर्ति। आऽअञ्जन। ९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

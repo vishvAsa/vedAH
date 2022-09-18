@@ -26,10 +26,9 @@ of **c**.
 We drive you forth from cattle-shed, from axle, from within the wain, Ye daughters of Magundi, we frighten and chase you from out homes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि। व:। गोऽस्थात्। अजामसि। नि:। अक्षात्। नि:। उपऽआनसात्। नि:। व:। मगुन्द्या:। दुहितर:। गृहेभ्य:। चातयामहे। १४.२।
+नि। वः। गोऽस्थात्। अजामसि। निः। अक्षात्। निः। उपऽआनसात्। निः। वः। मगुन्द्याः। दुहितरः। गृहेभ्यः। चातयामहे। १४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

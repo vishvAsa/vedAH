@@ -32,7 +32,6 @@ to *sarvāṅ ch-*, cf. iii. 11. 5, iv. 8. 3, and Prāt. ii. 17, note.⌋
 The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chhalunas, we bruise to pieces with our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दृष्टम्। अदृष्टम्। अतृहम्। अथो इति। कुरूरुम्। अतृहम्। अल्गण्डून्। सर्वान्। शलुनान्। क्रिमीन्। वचसा। जम्भयामसि। ३१.२।

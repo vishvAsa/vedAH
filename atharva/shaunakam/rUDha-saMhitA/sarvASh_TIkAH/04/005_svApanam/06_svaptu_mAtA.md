@@ -25,10 +25,9 @@ by the comm. ⌊For *asyāi*, cf. iii. 25. 6.⌋
 Sleep mother, let the father sleep, sleep dog, and master of the home. Let all her kinsmen sleep, sleep all the people who are round about.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वप्तु। माता। स्वप्तु। पिता। स्वप्तु। श्वा। स्वप्तु। विश्पति:। स्वपन्तु। अस्यै। ज्ञातय:। स्वप्तु। अयम्। अभित:। जन:। ५.६।
+स्वप्तु। माता। स्वप्तु। पिता। स्वप्तु। श्वा। स्वप्तु। विश्पतिः। स्वपन्तु। अस्यै। ज्ञातयः। स्वप्तु। अयम्। अभितः। जनः। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ Ppp. combines *asyā ’gruvāi* in **c**, and reads *dadātu* in **d**.
 Dhatar upholds the spacious earth, upholds the sky, upholds the Sun. Dhatar bestow upon this maid a husband suited to her wish!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 धाता। दाधार। पृथिवीम्। धाता। द्याम्। उत। सूर्यम्। धाता। अस्यै। अग्रुवै। पतिम्। पतिम्। दधातु। प्रतिऽकाम्यम्। ६०.३।

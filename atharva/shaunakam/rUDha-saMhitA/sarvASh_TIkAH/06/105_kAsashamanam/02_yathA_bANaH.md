@@ -14,10 +14,9 @@ title = "०२ यथा बाणः"
 Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away, O Cough, over the region of the earth!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। बाण:। सुऽसंशित:। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। पृथिव्या:। अनु। सम्ऽवतम्। १०५.२।
+यथा। बाणः। सुऽसंशितः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। पृथिव्याः। अनु। सम्ऽवतम्। १०५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

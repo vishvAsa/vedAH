@@ -43,10 +43,9 @@ above). The comm. takes *balinā* as = *balavatā*.
 That which I eat, a debt which still is owing, the tribute due to Yama, which supports me, Thereby may I be free from debt, O Agni. Thou knowest how to rend all bonds asunder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽमित्यम्। अप्रतीत्तम्। यत्। अस्मि। यमस्य। येन। बलिना। चरामि। इदम्। तत्। अग्ने। अनृण:। भवामि। त्वम्। पाशान्। विऽचृतम्। वेत्थ। सर्वान्। ११७.१।
+अपऽमित्यम्। अप्रतीत्तम्। यत्। अस्मि। यमस्य। येन। बलिना। चरामि। इदम्। तत्। अग्ने। अनृणः। भवामि। त्वम्। पाशान्। विऽचृतम्। वेत्थ। सर्वान्। ११७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

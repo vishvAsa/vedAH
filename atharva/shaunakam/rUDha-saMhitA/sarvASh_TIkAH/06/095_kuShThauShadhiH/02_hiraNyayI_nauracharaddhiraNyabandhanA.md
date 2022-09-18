@@ -22,10 +22,9 @@ But a note in his copy of the printed text here seems to prefer
 There moved through heaven a golden ship, a ship with cordage wrought of gold. There Gods obtained the Kushtha plant, the flower of immor- tality.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्ययी। नौ:। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवा:। कुष्ठम्। अवन्वत। ९५.२।
+हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ९५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

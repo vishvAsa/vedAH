@@ -28,10 +28,9 @@ the sun is seen rising," and foolishly gives as alternative sense of
 Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious friend whose word is guileless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तम्। ऊं इति। स्तुहि। य:। अन्त:। सिन्धौ। सूनु:। सत्यस्य। युवानम्। अद्रोघऽवाचम्। सुऽशेवम्। १.२।
+तम्। ऊं इति। स्तुहि। यः। अन्तः। सिन्धौ। सूनुः। सत्यस्य। युवानम्। अद्रोघऽवाचम्। सुऽशेवम्। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

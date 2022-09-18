@@ -24,10 +24,9 @@ and VS. both reckon it as *triṣṭubh*.
 Invoked, deserving prayer and adoration, O Agni, come accor dant with the Vasus. Thou art, O youthful Lord, the Gods' Invoker, so, best of sacri- ficers, bring them quickly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽजुह्वान:। ईड्य:। वन्द्य। च। आ। याहि। अग्ने। वसुऽभि:। सऽजोषा:। त्वम्। देवानाम्। असि। यह्व। होता। स:। एनान्। यक्षि। इषित:। यजीयान्। १२.३।
+आऽजुह्वानः। ईड्यः। वन्द्य। च। आ। याहि। अग्ने। वसुऽभिः। सऽजोषाः। त्वम्। देवानाम्। असि। यह्व। होता। सः। एनान्। यक्षि। इषितः। यजीयान्। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

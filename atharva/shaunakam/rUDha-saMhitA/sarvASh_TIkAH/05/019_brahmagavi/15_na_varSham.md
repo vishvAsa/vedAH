@@ -19,10 +19,9 @@ Ppp. reads in **b** *-jyām*. With **c** compare vi. 88. 3 **d**.
 The rain of Mitra-Varuna falls not on him who wrongs the priest. To him no counsel brings success: he wins, no friend to do his will.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। वर्षम्। मैत्रावरुणम्। ब्रह्मऽज्यम्। अभि। वर्षति। न। अस्मै। सम्ऽइति:। कल्पते। न। मित्रम्। नयते। वशम्। १९.१५।
+न। वर्षम्। मैत्रावरुणम्। ब्रह्मऽज्यम्। अभि। वर्षति। न। अस्मै। सम्ऽइतिः। कल्पते। न। मित्रम्। नयते। वशम्। १९.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

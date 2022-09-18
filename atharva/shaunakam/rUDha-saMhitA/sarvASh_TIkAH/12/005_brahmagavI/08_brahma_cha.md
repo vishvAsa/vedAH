@@ -18,7 +18,6 @@ property,—
 Devotion and princely sway, kingship and people, brilliance and honour, and splendour and wealth;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। च। क्षत्रम्। राष्ट्रम्। च। विशः। च। त्विषिः। च। यशः। च। वर्चः। च। द्रविणम्। च। ६.२।

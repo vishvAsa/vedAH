@@ -24,10 +24,9 @@ Anukr. ignores the metrical irregularity of the verse (9 + 8: 7 + 8 =
 Ward off from this side and from that, O Varuna, the deadly dart: Give us thy great protection, turn the lethal weapon far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इत:। च। यत्। अमुत:। च। यत्। वधम्। वरुण। यवय। वि। महत्। शर्म। यच्छ। वरीय:। यवय। वधम्।
+इतः। च। यत्। अमुतः। च। यत्। वधम्। वरुण। यवय। वि। महत्। शर्म। यच्छ। वरीयः। यवय। वधम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

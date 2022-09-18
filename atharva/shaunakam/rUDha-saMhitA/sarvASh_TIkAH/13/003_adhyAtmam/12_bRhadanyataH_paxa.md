@@ -20,7 +20,6 @@ This verse counts 77 syllables, as required, but is irregular (9 + 13:
 One of his wings was Brihat, and the other Rathantarr., vigorous with one same purpose, What time the Gods gave Rohita his being. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहत्। अन्यतः। पक्षः। आसीत्। रथम्ऽतरम्। अन्यतः। सबले इति सऽबले। सध्रीची इति। यत्। रोहितम्। अजनयन्त। देवाः। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१२।

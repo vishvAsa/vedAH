@@ -20,10 +20,9 @@ resolve *-patnān* into three syllables.
 Subduing those who rival us, subduing all malignities, Withstand the man who menaces, and him who seeks to injure- us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभिऽवृत्य। सऽपत्नान्। अभि। या:। न:। अरातय:। अभि। पृतन्यन्तम्। तिष्ठ। अभि। य:। न:। दुरस्यति।
+अभिऽवृत्य। सऽपत्नान्। अभि। याः। नः। अरातयः। अभि। पृतन्यन्तम्। तिष्ठ। अभि। यः। नः। दुरस्यति।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

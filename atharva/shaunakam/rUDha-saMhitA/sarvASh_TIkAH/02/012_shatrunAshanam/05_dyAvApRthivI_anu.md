@@ -23,10 +23,9 @@ accent-mark under *-vī* is missing.⌋
 O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my side and help me. Angirases, Fathers worthy of the Soma! woe fall on him who, caused the hateful outrage!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्यावापृथिवी इति। अनु। मा। आ। दीधीथाम्। विश्वे। देवास:। अनु। मा। आ। रभध्वम्। अङ्गिरस:। पितर:। सोम्यास:। पापम्। आ। ऋच्छतु। अपऽकामस्य। कर्ता। १२.५।
+द्यावापृथिवी इति। अनु। मा। आ। दीधीथाम्। विश्वे। देवासः। अनु। मा। आ। रभध्वम्। अङ्गिरसः। पितरः। सोम्यासः। पापम्। आ। ऋच्छतु। अपऽकामस्य। कर्ता। १२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

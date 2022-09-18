@@ -24,10 +24,9 @@ correctly defined by the Anukr., its **c** having 14 syllables
 Live, waxing in thy strength a hundred autumns, live through a hundred springs, a hundred winters! Indra, Agni, Savitar, Brihaspati give thee a hundred! With hundred-lived oblation have I saved him,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतम्। जीव। शरद:। वर्धमान:। शतम्। हेमन्तान्। शतम्। ऊं इति। वसन्तान्। शतम्। ते। इन्द्र:। अग्नि:। सविता। बृहस्पति:। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। ११.४।
+शतम्। जीव। शरदः। वर्धमानः। शतम्। हेमन्तान्। शतम्। ऊं इति। वसन्तान्। शतम्। ते। इन्द्रः। अग्निः। सविता। बृहस्पतिः। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। ११.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

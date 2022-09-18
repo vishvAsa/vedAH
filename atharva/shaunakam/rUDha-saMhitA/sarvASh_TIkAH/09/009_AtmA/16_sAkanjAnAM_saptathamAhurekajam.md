@@ -23,7 +23,6 @@ should expect instead the ablative. ⌊The vs. recurs at TA. i. 3. 1 with
 Of the co-born they call the seventh single-born: the six twin, pairs are called the Rishis, sons of Gods. Their good gifts sought of men are ranged in order due, and, various, form by form, move for their guiding Lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 साकम्ऽजानाम्। सप्तथम्। आहूः। एकऽजम्। षट्। इत्। यमाः। ऋषयः। देवऽजाः। इति। तेषाम्। इष्टानि। विऽहितानि। धामऽशः। स्थात्रे। रेजन्ते। विऽकृतानि। रूपऽशः। १४.१६।

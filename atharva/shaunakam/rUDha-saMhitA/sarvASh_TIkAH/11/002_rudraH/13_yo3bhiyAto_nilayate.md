@@ -23,7 +23,6 @@ Dhammapada, vss. 179, 180⌋. Ppp. reads *ugra* instead of *rudra* in
 Thou, Rudra, followest close the foe who lies in wait to conquer thee. Even as a hunter who pursues the footsteps of the wounded game.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अभिऽयातः। निऽलयते। त्वाम्। रुद्र। निऽचिकीर्षति। पश्चात्। अनुऽप्रयुङ्क्षे। तम्। विध्दस्य। पदनीःऽइव। २.१३।

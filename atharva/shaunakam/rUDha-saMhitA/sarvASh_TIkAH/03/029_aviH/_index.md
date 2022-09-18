@@ -7,7 +7,6 @@ title = "०२९ अविः"
 29. With the offering of a white-footed sheep.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अविः।  
@@ -19,8 +18,6 @@ title = "०२९ अविः"
 [Uddālaka.—aṣṭarcam. śitipādā’ videvatyam: 7. kāmadevatyā; 8. bhāumī. ānuṣṭubham: 1, 3. pathyāpan̄kti; 7. 3-av. 6-p. upariṣṭāddāivībṛhatī kaiummatīgarbhā virāḍjagatī; 8. upariṣṭādbṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ By this offering, one is released from the payment otherwise due to Yama's counc
 
 On the means to obtain immunity from taxation in the next world
 </details>
+

@@ -27,7 +27,6 @@ according to their wont, read in **a** *mṛḍhvam* (but Bs. *mṛḍhḍham*).
 Wipe all away on lead and reed, on Agni, him who breaketh up, Then on a black-hued sheep, and on a cushion pain that racks. the head,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सीसे। मृड्ढ्वम्। नडे। मृड्ढ्वम्। अग्नौ। सम्ऽकसुके। च। यत्। अथो इति। अव्याम्। रामायाम्। शीर्षक्तिम्। उपऽबर्हणे। २.१९।

@@ -25,10 +25,9 @@ K. who follows Sāyaṇa," is unintelligible, since the latter has also
 Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who revel in the dice, who suffer grief and yield to wrath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। अक्षेषु। प्रऽमोदन्ते। शुचम्। क्रोधम्। च। बिभ्रती। आऽनन्दिनीम्। प्रऽमोदिनीम्। अप्सराम्। ताम्। इह। हुवे। ३८.४।
+याः। अक्षेषु। प्रऽमोदन्ते। शुचम्। क्रोधम्। च। बिभ्रती। आऽनन्दिनीम्। प्रऽमोदिनीम्। अप्सराम्। ताम्। इह। हुवे। ३८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

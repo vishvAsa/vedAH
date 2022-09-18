@@ -21,7 +21,6 @@ used in the comm. to Kāuś. 26. 40. *Muñcāsi* in **b** is a misprint for
 I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the foe, it hath subdued mine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मणा। तेजसा। सह। प्रति। मुञ्चामि। मे। शिवम्। असपत्नः। सपत्नऽहा। सऽपत्नान्। मे। अधरान्। अक। ६.३०।

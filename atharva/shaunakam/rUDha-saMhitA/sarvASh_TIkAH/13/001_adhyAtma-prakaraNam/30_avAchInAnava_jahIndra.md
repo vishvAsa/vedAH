@@ -22,7 +22,6 @@ Ppp. puts the verse after our 31, and reads at the end *ā dadhe*. ⌊Or
 Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I through the energy and force of Agni have secured my foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवाचीनान्। अव। जहि। इन्द्र। वज्रेण‍। बाहुऽमान्। अध। सऽपत्नान्। मामकान्। अग्ने। तेजःऽभिः। आ। अदिषि। १.३०।

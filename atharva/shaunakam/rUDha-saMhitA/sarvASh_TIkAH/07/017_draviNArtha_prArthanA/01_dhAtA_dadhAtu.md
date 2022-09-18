@@ -21,10 +21,9 @@ only **a** (with *dadhātu*), combining it with our 2 **b-d**.
 May the Ordainer give us wealth, Lord, ruler of the world of life: with full hand may he give to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। दधातु। न:। रयिम्। ईशान:। जगत:। पति:। स:। न:। पूर्णेन। यच्छतु। १८.१।
+धाता। दधातु। नः। रयिम्। ईशानः। जगतः। पतिः। सः। नः। पूर्णेन। यच्छतु। १८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

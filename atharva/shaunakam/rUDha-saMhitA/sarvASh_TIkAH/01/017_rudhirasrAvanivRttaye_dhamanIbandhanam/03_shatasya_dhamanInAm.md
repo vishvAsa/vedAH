@@ -20,10 +20,9 @@ but Ppp. also has *antās: sakam antā 'raṁsata;* its **c** is corrupt
 Among a thousand vessels charged with blood, among a thousand veins, Even these the middlemost stand still and their extremities have rest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतस्य। धमनीनाम्। सहस्रस्य। हिराणाम्। अस्थु:। इत्। मध्यमा:। इमा:। साकम्। अन्ता:। अरंसत।
+शतस्य। धमनीनाम्। सहस्रस्य। हिराणाम्। अस्थुः। इत्। मध्यमाः। इमाः। साकम्। अन्ताः। अरंसत।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

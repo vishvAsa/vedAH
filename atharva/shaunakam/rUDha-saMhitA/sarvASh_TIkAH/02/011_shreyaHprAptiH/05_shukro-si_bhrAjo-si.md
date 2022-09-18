@@ -23,10 +23,9 @@ The Anukr. scans vs. 1 as 6 + 6 + 6: 12 = 30, and the other verses as 8
 Fulgent art thou, and splendid, thou art heavenly lustre, thou art light. Reach thy superior, thou; surpass thine equal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुक्र:। असि। भ्राज:। असि। स्व:। असि। ज्योति:। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.५।
+शुक्रः। असि। भ्राजः। असि। स्वः। असि। ज्योतिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

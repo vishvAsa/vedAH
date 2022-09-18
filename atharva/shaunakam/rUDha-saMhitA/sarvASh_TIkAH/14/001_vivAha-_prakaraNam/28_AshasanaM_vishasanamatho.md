@@ -21,7 +21,6 @@ the priest having power to cleanse both stains away.
 The butchering, the cutting-up, the severing of limb and joint-- Behold the forms which Surya wears: yet these the Brahman purifies,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽशसनम्। विऽशसनम्। अथो इति। अधिऽविकर्तनम्। सूर्यायाः। पश्य। रूपाणि। तानि। ब्रह्मा। उत। शुम्भति। १.२८।

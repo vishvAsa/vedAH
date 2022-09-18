@@ -17,7 +17,6 @@ The description of the Anukr. implies the resolution *-pni-am*.
 Sin while she is cooking, evil dream when she is cooked;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघम्। पच्यमाना। दुःऽस्वप्न्यम्। पक्वा। ८.५।

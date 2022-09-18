@@ -22,10 +22,9 @@ but the comm. gives for the former his standing and always repeated
 Preserve me with a hundred, yea, protect me with a thousand aids. May mighty Indra, Lord of Plants! give store of strength and. power to thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतेन। मा। परि। पाहि। सहस्रेण। अभि। रक्ष। मा। इन्द्र:। ते। वीरुधाम्। पते। उग्र:। ओज्मानम्। आ। दधत्। १९.८।
+शतेन। मा। परि। पाहि। सहस्रेण। अभि। रक्ष। मा। इन्द्रः। ते। वीरुधाम्। पते। उग्रः। ओज्मानम्। आ। दधत्। १९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

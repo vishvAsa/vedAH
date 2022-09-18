@@ -26,10 +26,9 @@ for *loké*.
 Strew thou the Grass, and spread it on the Altar: rob not the sister who is lying yonder. The Hotar's seat is green and golden: these are gold necklets. in the plaee of him who worships.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। स्तृणीहि। परि। धेहि। वेदिम्। मा। जामिम्। मोषी:। अमुया। शयानाम्। होतृऽसदनम्। हरितम्। हिरण्ययम्। निष्का:। एते। यजमानस्‍य। लोके। १०४.१।
+परि। स्तृणीहि। परि। धेहि। वेदिम्। मा। जामिम्। मोषीः। अमुया। शयानाम्। होतृऽसदनम्। हरितम्। हिरण्ययम्। निष्काः। एते। यजमानस्‍य। लोके। १०४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

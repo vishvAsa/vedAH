@@ -36,10 +36,9 @@ implies the division 9 + 7: 8 + 10 = 34 syllables.
 Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu he cleft Vala through, and quelled his foes in Soma's rapturous joy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। तुराषाट्। मित्र:। वृत्रम्। य:। जघान। यती:। न। बिभेद। वलम्। भृगु:। न। ससहे। शत्रून्। मदे। सोमस्य। ५.३।
+इन्द्रः। तुराषाट्। मित्रः। वृत्रम्। यः। जघान। यतीः। न। बिभेद। वलम्। भृगुः। न। ससहे। शत्रून्। मदे। सोमस्य। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

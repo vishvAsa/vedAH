@@ -19,7 +19,6 @@ two that follow are found in Ppp. here.
 Give me the boon of splendid strength; give, Agni! progeny and life. May the Gods know this prayer of mine, may Indra with the Rishis know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। ५.४७।

@@ -21,10 +21,9 @@ i. 13; MGS. ii. 15. 1 and p. 153, s.v. *bodha-*.⌋
 Two sages, Sense and Vigilance, the sleepless and the watchful one, These, the protectors of thy life, shall be awake both day and night.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋषी इति। बोधऽप्रतीबोधौ। अस्वप्न:। य:। च। जागृवि:। तौ। ते। प्राणस्य। गोप्तारौ। दिवा। नक्तम्। च। जागृताम्। ३०.१०।
+ऋषी इति। बोधऽप्रतीबोधौ। अस्वप्नः। यः। च। जागृविः। तौ। ते। प्राणस्य। गोप्तारौ। दिवा। नक्तम्। च। जागृताम्। ३०.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

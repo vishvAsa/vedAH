@@ -25,7 +25,6 @@ of the hymn is (as noted above) wanting in Ppp.
 Forth from the full he lifts the full, the full he sprinkles with the full. Now also may we know the source from which the stream is sprinkled round.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूर्णात्। पूर्णम्। उत्। अचति। पूर्णम्‌। पूर्णेन। सिच्यते। उतो इति। तत्। अद्य। विद्याम। यतः। तत्। परिऽसिच्यते। ८.२९।

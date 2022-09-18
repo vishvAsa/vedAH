@@ -7,7 +7,6 @@ title = "१२५ वीरस्य रथः"
 125. To the war-chariot: for its success.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वीरस्य रथः।  
@@ -19,8 +18,6 @@ title = "१२५ वीरस्य रथः"
 [Atharvan.—vānaspatyam. trāiṣṭubham: 2. jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xv. (in the verse-order 2, 3, 1). This hymn and the next a
 ### Translations
 Translated: by the RV. translators; and, as AV. hymn, by Ludwig again, p. 459; Griffith, i. 314.—See also Bergaigne-Henry, Manuel, p. 155.
 </details>
+

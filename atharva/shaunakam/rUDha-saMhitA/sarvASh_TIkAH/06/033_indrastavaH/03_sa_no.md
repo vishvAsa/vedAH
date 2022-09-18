@@ -25,10 +25,9 @@ be noted in the Anukr. ⌊śśS. omits **a** at the end.⌋
 May he bestow on us that wealth, far-spreading, bright with yellow hue. Indra is mightiest Lord among the folk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। न:। ददातु। ताम्। रयिम्। उरुम्। पिशङ्गऽसंदृशम्। इन्द्र:। पति:। तुविऽतम:। जनेषु। आ। ३३.३।
+सः। नः। ददातु। ताम्। रयिम्। उरुम्। पिशङ्गऽसंदृशम्। इन्द्रः। पतिः। तुविऽतमः। जनेषु। आ। ३३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

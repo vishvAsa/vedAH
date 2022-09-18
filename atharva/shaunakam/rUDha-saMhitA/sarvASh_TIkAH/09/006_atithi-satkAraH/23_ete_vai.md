@@ -20,10 +20,9 @@ a slip of Roth's pen for *cartvijas*⌋.
 Now these guests, as priests beloved or not beloved, bring one to the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एते। वै। प्रिया:। च। अप्रिया:। च। ऋत्विज:। स्व:ऽगम्। लोकम्। गमयन्ति। यत्। अतिथय:। ७.६।
+एते। वै। प्रियाः। च। अप्रियाः। च। ऋत्विजः। स्वःऽगम्। लोकम्। गमयन्ति। यत्। अतिथयः। ७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

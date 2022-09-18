@@ -20,10 +20,9 @@ etymologies of the various names through the hymn.
 Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help Kasyapa, who help Vasishtha, deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। अङ्गिरसम्। अवथ:। यौ। अगस्तिम्। मित्रावरुणा। जमत्ऽअग्निम्। अत्त्रिम्। यौ। कश्यपम्। अवथ:। यौ। वसिष्ठम्। तौ। न:। मुञ्चतम्। अंहस:। २९.३।
+यौ। अङ्गिरसम्। अवथः। यौ। अगस्तिम्। मित्रावरुणा। जमत्ऽअग्निम्। अत्त्रिम्। यौ। कश्यपम्। अवथः। यौ। वसिष्ठम्। तौ। नः। मुञ्चतम्। अंहसः। २९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

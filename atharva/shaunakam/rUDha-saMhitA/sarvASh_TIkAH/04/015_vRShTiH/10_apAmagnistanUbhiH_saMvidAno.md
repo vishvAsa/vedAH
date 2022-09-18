@@ -20,10 +20,9 @@ notes the redundant syllable in **d**.
 May he who hath become the plants' high regent, suiting our bodies, Agni of the Waters, May Jatavedas send us rain from heaven, Amrit and vital breath to earthly creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाम्। अग्नि:। तनूभि:। सम्ऽविदान:। य:। ओषधीनाम्। अधिऽपा। बभूव। स:। न:। वर्षम्। वनुताम्। जातऽवेदा:। प्राणम्। प्रऽजाभ्य:। अमृतम्। दिव:। परि। १५.१०।
+अपाम्। अग्निः। तनूभिः। सम्ऽविदानः। यः। ओषधीनाम्। अधिऽपा। बभूव। सः। नः। वर्षम्। वनुताम्। जातऽवेदाः। प्राणम्। प्रऽजाभ्यः। अमृतम्। दिवः। परि। १५.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

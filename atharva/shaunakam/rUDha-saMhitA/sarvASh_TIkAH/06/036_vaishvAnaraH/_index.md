@@ -7,7 +7,6 @@ title = "०३६ वैश्वानरः"
 36. In praise of Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वैश्वानरः।  
@@ -18,8 +17,6 @@ title = "०३६ वैश्वानरः"
 
 [Atharvan (svastyayanakāmaḥ).—āgneyam. gāyatram.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 296 or 48; Griffith, i. 264.
 
 In praise of Agni Vaisvanara
 </details>
+

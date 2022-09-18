@@ -20,10 +20,9 @@ SPP. reads *kā́se*.
 Rapidly as the beams of light, the rays of Surya, fly away, So, Cough! fly rapidly away over the current of the sea!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सूर्यस्य। रश्मय:। पराऽपतन्ति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। समुद्रस्य। अनु। विऽक्षरम्। १०५.३।
+यथा। सूर्यस्य। रश्मयः। पराऽपतन्ति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। समुद्रस्य। अनु। विऽक्षरम्। १०५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

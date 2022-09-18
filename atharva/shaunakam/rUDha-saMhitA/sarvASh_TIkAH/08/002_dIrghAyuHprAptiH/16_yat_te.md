@@ -25,10 +25,9 @@ the vs. in the *paśubandha* on draping the sacrificial post.⌋
 Whatever robe to cover thee or zone thou makest for thyself, We make it pleasant to thy frame: may it be soft and smooth to touch.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। वास:। परिऽधानम्। याम्। नीविम्। कृणुषे। त्वम्। शिवम्। ते। तन्वे। तत्। कृण्म:। सम्ऽस्पर्शे। अद्रूक्ष्णम्। अस्तु। ते। २.१६।
+यत्। ते। वासः। परिऽधानम्। याम्। नीविम्। कृणुषे। त्वम्। शिवम्। ते। तन्वे। तत्। कृण्मः। सम्ऽस्पर्शे। अद्रूक्ष्णम्। अस्तु। ते। २.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

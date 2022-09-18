@@ -21,10 +21,9 @@ offers a variant reading.
 I balm with oil the mighty demon-slayer, to the most famous friend I come for shelter. Enkindled, sharpened by our rites, may Agni protect us in the day and night from evil.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रक्ष:ऽहनम्। वाजिनम्। आ। जिघर्मि। मित्रम्। प्रथिष्ठम्। उप। यामि। शर्म। शिशान:। अग्नि:। क्रतुऽभि:। सम्ऽइध्द:। स:। न:। दिवा। स:। रिष:। पातु। नक्तम्। ३.१।
+रक्षःऽहनम्। वाजिनम्। आ। जिघर्मि। मित्रम्। प्रथिष्ठम्। उप। यामि। शर्म। शिशानः। अग्निः। क्रतुऽभिः। सम्ऽइध्दः। सः। नः। दिवा। सः। रिषः। पातु। नक्तम्। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

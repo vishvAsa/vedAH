@@ -26,7 +26,6 @@ The comm. explains *radantām* by *svatuṇḍāiḥ pādāiś ca vilikhantu*.
 Let all the birds that move on wings come downward, all fowls that roam the heavens and air's midregion. Let beasts of prey and flies attacks, and vultures that eat raw flesh mangle and gnaw the carcase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अव। अयन्ताम्। पक्षिणः। ये। वयांसि। अन्तरिक्षे। दिवि। चरन्ति। श्वापदः। मक्षिकाः। सम्। रभन्ताम्। आमऽअदः। गृध्राः। कुणपे। रदन्ताम्। १२.८।

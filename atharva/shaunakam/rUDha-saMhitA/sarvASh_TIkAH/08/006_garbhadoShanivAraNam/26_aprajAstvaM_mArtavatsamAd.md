@@ -32,10 +32,9 @@ book xi. 7.
 Sterility, and infants' death, and weeping that announceth woe, Dear! lay them on the fiend as thou wouldst pluck a garland from a tree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्रजा:ऽत्वम्। मार्तऽवत्सम्। आत्। रोदम्। अघम्। आऽवयम्। वृक्षात्ऽइव। स्रजम्। कृत्वा। अप्रिये। प्रति। मुञ्च। तत्। ६.२६।
+अप्रजाःऽत्वम्। मार्तऽवत्सम्। आत्। रोदम्। अघम्। आऽवयम्। वृक्षात्ऽइव। स्रजम्। कृत्वा। अप्रिये। प्रति। मुञ्च। तत्। ६.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

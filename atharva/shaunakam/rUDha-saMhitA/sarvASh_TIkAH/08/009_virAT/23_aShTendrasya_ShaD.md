@@ -20,10 +20,9 @@ in **a-b**. Ppp. puts the verse after our 24.
 To Indra eight, to Yama six, seven to the Rishis, seven to each: The number five accompanies waters and men and healing herbs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अष्ट। इन्द्रस्य। षट्। यमस्य। ऋषीणाम्। सप्त। सप्तऽधा। अप:। मनुष्यान्। ओषधी:। तान्। ऊं इति। पञ्च। अनु। सेचिरे। ९.२३।
+अष्ट। इन्द्रस्य। षट्। यमस्य। ऋषीणाम्। सप्त। सप्तऽधा। अपः। मनुष्यान्। ओषधीः। तान्। ऊं इति। पञ्च। अनु। सेचिरे। ९.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ The comm. does not attempt to identify the plant addressed.
 O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for me to-day this man that he may wear the horn of hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वम्। वीरुधाम्। श्रेष्ठऽतमा। अभिऽश्रुता। असि। ओषधे। इमम्। मे। अद्य। पुरुषम्। क्लीबम्। ओपशिनम्। कृधि। १३८.१।

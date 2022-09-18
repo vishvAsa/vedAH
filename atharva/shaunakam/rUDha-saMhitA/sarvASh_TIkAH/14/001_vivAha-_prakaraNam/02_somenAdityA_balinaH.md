@@ -24,7 +24,6 @@ i. 14. 8 and p. 157.⌋
 By Soma are the Adityas strong, by Soma mighty is the earth: Thus Soma in the lap of all these constellations hath his home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमेन। आदित्याः। बलिनः। सोमेन। पृथिवी। मही। अथो इति। नक्षत्राणाम्। एषाम्। उपऽस्थे। सोमः। आऽहितः। १.२।

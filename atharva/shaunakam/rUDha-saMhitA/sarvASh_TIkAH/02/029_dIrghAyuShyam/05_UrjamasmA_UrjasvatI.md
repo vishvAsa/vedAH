@@ -29,10 +29,9 @@ editions. The verse (10 + 10: 12 + 11 = 43) is far from being a good
 Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give milk to feed him. These twain have given him vigour, Earth and Heaven, and all the Gods, the Maruts, and the Waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्जम्। अस्मै। ऊर्जस्वती इति। धत्तम्। पय:। अस्मै। पयस्वती इति। धत्तम्। ऊर्जम्। अस्मै। द्यावापृथिवी इति। अधाताम्। विश्वे। देवा:। मरुत:। ऊर्जम्। आप:। २९.५।
+ऊर्जम्। अस्मै। ऊर्जस्वती इति। धत्तम्। पयः। अस्मै। पयस्वती इति। धत्तम्। ऊर्जम्। अस्मै। द्यावापृथिवी इति। अधाताम्। विश्वे। देवाः। मरुतः। ऊर्जम्। आपः। २९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

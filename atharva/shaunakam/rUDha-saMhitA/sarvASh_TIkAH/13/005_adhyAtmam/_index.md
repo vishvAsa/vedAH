@@ -7,7 +7,6 @@ title = "००५ अध्यात्मम्"
 5. Extolling the sun.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
@@ -18,5 +17,4 @@ title = "००५ अध्यात्मम्"
 
 [Paryāya II.—aṣṭāu. 14. bhurik sāmnī triṣṭubh; 15. āsurī pan̄kti; 16, 19. prājāpatyā ’nuṣṭubh; 17, 18. āsurī gāyatrī.]
 </details>
-
 

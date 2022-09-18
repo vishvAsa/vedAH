@@ -21,10 +21,9 @@ an̄ga viśvā janmāni vettha mataṁ na tuj jano māṁ bibhāyaḥ*.
 None, self-dependent Varuna! existeth wiser than thou or sager by his wisdom. Thou knowest well all these created beings: even the man of wondrous powers fears thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। त्वत्। अन्य:। कविऽतर:। न। मेधया। धीरऽतर:। वरुण। स्वधाऽवन्। त्वम्। ता। विश्वा। भुवनानि। वेत्थ। स:। चित्। नु। त्वत्। जन:। मायी। बिभाय। ११.४।
+न। त्वत्। अन्यः। कविऽतरः। न। मेधया। धीरऽतरः। वरुण। स्वधाऽवन्। त्वम्। ता। विश्वा। भुवनानि। वेत्थ। सः। चित्। नु। त्वत्। जनः। मायी। बिभाय। ११.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

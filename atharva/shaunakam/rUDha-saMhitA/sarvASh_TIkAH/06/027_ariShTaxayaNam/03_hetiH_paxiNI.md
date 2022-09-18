@@ -24,10 +24,9 @@ spoils the meter of **c**, but the Anukr. does not heed this.
 Let not the arrow that hath wings distract us. Beside the fire- place, on the hearth it settles. May it bring welfare to our men and cattle: here let the Dove, ye Gods, forbear to harm us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हेति:। पक्षिणी। न। दभाति। अस्मान्। आष्ट्री इति। पदम्। कृणुते। अग्निऽधाने। शिव:। गोभ्य:। उत। पुरुषेभ्य:। न:। अस्तु। मा। न:। देवा:। इह। हिंसीत्। कपोत:। २७.३।
+हेतिः। पक्षिणी। न। दभाति। अस्मान्। आष्ट्री इति। पदम्। कृणुते। अग्निऽधाने। शिवः। गोभ्यः। उत। पुरुषेभ्यः। नः। अस्तु। मा। नः। देवाः। इह। हिंसीत्। कपोतः। २७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

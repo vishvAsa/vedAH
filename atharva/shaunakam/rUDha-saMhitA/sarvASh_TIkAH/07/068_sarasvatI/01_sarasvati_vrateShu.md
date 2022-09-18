@@ -19,10 +19,9 @@ with 46. i **c, d**.
 Sarasvati, in thy decrees, Goddess, in thy celestial laws, Accept the offered sacrifice, and, Goddess, grant us progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सरस्वति। व्रतेषु। ते। दिव्येषु। देवि। धामऽसु। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। न:। ७०.१।
+सरस्वति। व्रतेषु। ते। दिव्येषु। देवि। धामऽसु। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। ७०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

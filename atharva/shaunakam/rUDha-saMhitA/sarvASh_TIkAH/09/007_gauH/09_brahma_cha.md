@@ -17,7 +17,6 @@ his (two) hips, force his (two) thighs.
 Priestly rank and princely power are the hips, and strength is. the thigh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। च। क्षत्रम्। च। श्रोणी इति। बलम्। ऊरू इति। १२.९।

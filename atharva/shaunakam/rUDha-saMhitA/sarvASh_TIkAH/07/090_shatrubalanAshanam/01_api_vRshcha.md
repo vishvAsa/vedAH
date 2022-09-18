@@ -28,10 +28,9 @@ appeal to Agni. Ppp. reads at end *jambhaya*.
 Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou the Dasa's might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपि। वृश्च। पुराणऽवत्। व्रतते:ऽइव। गुष्पितम्। ओज:। दासस्य। दम्भय। ९५.१।
+अपि। वृश्च। पुराणऽवत्। व्रततेःऽइव। गुष्पितम्। ओजः। दासस्य। दम्भय। ९५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

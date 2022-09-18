@@ -24,10 +24,9 @@ víśvā avṛṇod ápa svā́ḥ*. RV. has also before it *svarā́jas*, and i
 Brihaddiva, the foremost of light-winners, hath made these holy prayers, this strength for Indra. Free Lord, he rules the mighty fold of cattle, winning, aglow, even all the billowy waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा। ब्रह्म। बृहत्ऽदिव:। कृणवत्। इन्द्राय। शूषम्। अग्रिय:। स्व:ऽसा:। मह:। गोत्रस्य। क्षयति। स्वऽराजा। तुर:। चित्। विश्वम्। अर्णवत्। तपस्वान्। २.८।
+इमा। ब्रह्म। बृहत्ऽदिवः। कृणवत्। इन्द्राय। शूषम्। अग्रियः। स्वःऽसाः। महः। गोत्रस्य। क्षयति। स्वऽराजा। तुरः। चित्। विश्वम्। अर्णवत्। तपस्वान्। २.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ sunrise.
 Beyond the sky, beyond the Earth looks Surya, and beyond the floods. The single eye of all that is; to mighty heaven hath he arisen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यः। द्याम्। सूर्यः। पृथिवीम्। सूर्यः। आपः। अति। पश्यति। सूर्यः। भूतस्य। एकम्। चक्षुः। आ। रुरोह। दिवम्। महीम्। १.४५।

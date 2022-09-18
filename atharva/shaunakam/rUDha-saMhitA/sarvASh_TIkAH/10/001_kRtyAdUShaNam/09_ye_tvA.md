@@ -27,7 +27,6 @@ although all the mss. happen to agree here in lengthening the *i*.
 The cunning men, the sorcerers who fashioned thee and held thee fast,-- This cures and mars their witchery, this, repellent, drives it back the way it came. With this we make thee swim.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। त्वा। कृत्वा। आऽलेभिरे। विद्वलाः। अभिऽचारिणः। शम्ऽभु। इदम्। कृत्याऽदूषणम्। प्रतिऽवर्त्म। पुनःऽसरम्। तेन। त्वा। स्नपयामसि। १.९।

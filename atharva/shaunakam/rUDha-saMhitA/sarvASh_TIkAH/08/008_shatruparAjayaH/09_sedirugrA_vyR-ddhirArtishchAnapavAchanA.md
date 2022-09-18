@@ -18,10 +18,9 @@ these do I encircle all yon men.
 Great weakness and misfortune, pain which words can never charm away, Languor, fatigue, bewilderment, with these I compass all the foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सेदि:। उग्रा। विऽऋध्दि:। आर्ति:। च। अनपऽवाचना। श्रम:। तन्द्री:। च। मोह:। च। तै:। अमून्। अभि। दधामि। सर्वान्। ८.९।
+सेदिः। उग्रा। विऽऋध्दिः। आर्तिः। च। अनपऽवाचना। श्रमः। तन्द्रीः। च। मोहः। च। तैः। अमून्। अभि। दधामि। सर्वान्। ८.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

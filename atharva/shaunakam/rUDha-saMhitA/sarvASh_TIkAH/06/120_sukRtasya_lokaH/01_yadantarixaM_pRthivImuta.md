@@ -24,10 +24,9 @@ which they put in place of ours. Ppp. agrees with some of them, reading
 If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or our Father, May Agni Garhapatya here absolve us, and bear us up into the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अन्तरिक्षम्। ‍पृथिवीम्। उत। द्याम्। यत्। मातरम्। पितरम्। वा। जिहिंसिम। अयम्। तस्मात्। गार्हऽपत्य:। न:। अग्नि:। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२०.१।
+यत्। अन्तरिक्षम्। ‍पृथिवीम्। उत। द्याम्। यत्। मातरम्। पितरम्। वा। जिहिंसिम। अयम्। तस्मात्। गार्हऽपत्यः। नः। अग्निः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

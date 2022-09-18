@@ -27,10 +27,9 @@ nikṛṣṭabalaḥ śatruḥ.*
 Whoever treateth us as foes, be he our own or strange to us, a kinsman or a foreigner, May Rudra with his arrows pierce and slay these enemies of mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न :। स्व:। य:। अरण:। सऽजात:। उत ‍। निष्ट्य:। य:। अस्मान्। अभिऽदासति। रुद्र:। शरव्यया। एतान्। मम। अमित्रान्। वि। विध्यतु।
+यः। न ः। स्वः। यः। अरणः। सऽजातः। उत ‍। निष्ट्यः। यः। अस्मान्। अभिऽदासति। रुद्रः। शरव्यया। एतान्। मम। अमित्रान्। वि। विध्यतु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

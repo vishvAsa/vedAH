@@ -27,10 +27,9 @@ quotes TS. v. 6. 7¹ as to the twelve nights of consecration.
 Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows their proper prayer performs the service of the Ox.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्वादश। वै। एता:। रात्री:। व्रत्या:। आहु:। प्रजाऽपते:। तत्र। उप। ब्रह्म। य:। वेद। तत्। वै। अनडुह:। व्रतम्। ११.११।
+द्वादश। वै। एताः। रात्रीः। व्रत्याः। आहुः। प्रजाऽपतेः। तत्र। उप। ब्रह्म। यः। वेद। तत्। वै। अनडुहः। व्रतम्। ११.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

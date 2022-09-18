@@ -29,10 +29,9 @@ only 57 (11 + 11 + 12: 11 + 12) can be fairly counted.
 This gold, born threefold at its first production, grew the one thing that Agni loved most dearly: it fell away, one part of injured Soma. One part they call seed of the sapient Waters. This gold bring thee long life when triply threaded!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रेधा। जातम्। जन्मना। इदम्। हिरण्यम्। अग्ने:। एकम्। प्रियऽतमम्। बभूव। सोमस्य। एकम्। हिंसितस्य। परा। अपतत्। अपाम्। एकम्। वेधसाम्। रेत:। आहु:। तत्। ते। हिरण्यम्। त्रिऽवृत्। अस्तु। आयुषे। २८.६।
+त्रेधा। जातम्। जन्मना। इदम्। हिरण्यम्। अग्नेः। एकम्। प्रियऽतमम्। बभूव। सोमस्य। एकम्। हिंसितस्य। परा। अपतत्। अपाम्। एकम्। वेधसाम्। रेतः। आहुः। तत्। ते। हिरण्यम्। त्रिऽवृत्। अस्तु। आयुषे। २८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

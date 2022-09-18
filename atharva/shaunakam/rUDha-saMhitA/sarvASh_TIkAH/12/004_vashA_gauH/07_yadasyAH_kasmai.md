@@ -19,7 +19,6 @@ Or (in **a**), 'for any advantage *or* use.' Ppp. makes 7 **c, d** and 8
 If to his own advantage one applies the long hair of her tail, His colts, in consequence thereof. die, and the wolf destroys his calves.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अस्याः। कस्मै। चित्। भोगाय। बालान्। कः। चित्। प्रऽकृन्तति। ततः। किशोराः। म्रियन्ते। वत्सान्। च। घातुकः। वृकः। ४.७।

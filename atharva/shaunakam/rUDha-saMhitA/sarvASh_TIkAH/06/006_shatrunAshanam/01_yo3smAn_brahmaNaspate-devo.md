@@ -18,10 +18,9 @@ Ppp. has *abhidāsati* at end of **b**.
 The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as prey to me the worshipper who pour the juice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अस्मान्। ब्रह्मण:। पते। अदेव:। अभिऽमन्यते। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ६.१।
+यः। अस्मान्। ब्रह्मणः। पते। अदेवः। अभिऽमन्यते। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

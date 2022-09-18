@@ -24,10 +24,9 @@ elides *‘nāvayo*⌋.
 O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आवयो इति। अनाबयो इति। रस:। ते। उग्र:। आबयो इति। आ। ते। करम्भम्। अद्मस‍ि। १६.१।
+आवयो इति। अनाबयो इति। रसः। ते। उग्रः। आबयो इति। आ। ते। करम्भम्। अद्मस‍ि। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

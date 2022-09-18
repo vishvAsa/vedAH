@@ -32,10 +32,9 @@ accordance with the comm. Though so differently defined by the Anukr.
 Varuna sends, and drives away, diseases: Varuna is both native and a stranger, Varuna is celestial and is human.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। सम्ऽआभ्य:। वरुण:। य:। विऽआभ्य:। य:। सम्ऽदेश्य:। वरुण:। य:। विऽदेश्य:। य:। दैव:। वरुण:। य:। च। मानुष:। १६.८।
+यः। सम्ऽआभ्यः। वरुणः। यः। विऽआभ्यः। यः। सम्ऽदेश्यः। वरुणः। यः। विऽदेश्यः। यः। दैवः। वरुणः। यः। च। मानुषः। १६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

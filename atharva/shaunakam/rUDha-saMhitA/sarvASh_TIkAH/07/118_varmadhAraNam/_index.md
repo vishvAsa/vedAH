@@ -7,7 +7,6 @@ title = "११८ वर्मधारणम्"
 118 (123). When arming a warrior.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्मधारणम्।  
@@ -19,8 +18,6 @@ title = "११८ वर्मधारणम्"
 [Atharvān̄giras.—bahudevatyam uta cāndramasam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Used in Kāuś. (16. 7) in one of the battle rites, for terri
 ### Translations
 Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
+

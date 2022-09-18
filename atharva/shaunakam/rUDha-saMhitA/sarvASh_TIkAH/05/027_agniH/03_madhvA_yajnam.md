@@ -25,10 +25,9 @@ the Anukr. acknowledges only two.
 With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minded, comes Savitar, righteous God who brings all blessings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मध्वा। यज्ञम्। नक्षति। प्रैणान:। नराशंस:। अग्नि:। सुऽकृत्। देव:। सविता। विश्वऽवार:। २७.३।
+मध्वा। यज्ञम्। नक्षति। प्रैणानः। नराशंसः। अग्निः। सुऽकृत्। देवः। सविता। विश्वऽवारः। २७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

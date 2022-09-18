@@ -23,10 +23,9 @@ does not note the deficiency in **c**.
 In me be strength, in me be fame, in me the power of sacrifice: Prajapati establish this in me as firm as light in heaven!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मयि। वर्च:। अथो इति। यश:। अथो इति। यज्ञस्य। यत्। पय:। तत्। मयि। प्रजाऽपति:। दिवि। द्याम्ऽइव। ‍ दृंहतु। ६९.३।
+मयि। वर्चः। अथो इति। यशः। अथो इति। यज्ञस्य। यत्। पयः। तत्। मयि। प्रजाऽपतिः। दिवि। द्याम्ऽइव। ‍ दृंहतु। ६९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ the syllable *-nra-* in **d**.
 Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of the people. Scatter his foes, deliver all his rivals into his hand in struggles for precedence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। इन्द्र। वर्धय। क्षत्रियम्। मे। इमम्। विशाम्। एकऽवृषम्। कृणु। त्वम्। नि:। अमित्रान्। अक्ष्णुहि। अस्य। सर्वान्। तान्। रन्धय। अस्मै। अहम्ऽउत्तरेषु। २२.१।
+इमम्। इन्द्र। वर्धय। क्षत्रियम्। मे। इमम्। विशाम्। एकऽवृषम्। कृणु। त्वम्। निः। अमित्रान्। अक्ष्णुहि। अस्य। सर्वान्। तान्। रन्धय। अस्मै। अहम्ऽउत्तरेषु। २२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

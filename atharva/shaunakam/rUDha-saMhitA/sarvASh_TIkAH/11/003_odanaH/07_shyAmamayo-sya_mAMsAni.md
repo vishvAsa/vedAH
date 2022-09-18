@@ -17,7 +17,6 @@ That is, doubtless, iron and copper respectively.
 Grey iron is its flesh, copper its blood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्यामम्। अयः। अस्य। मांसानि। लोहितम्। अस्य। लोहितम्। ३.७।

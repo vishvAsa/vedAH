@@ -18,7 +18,6 @@ Wanting in Ppp., as above noted.
 As glory is bestowed upon the patron and this sacrifice, So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। यजमाने। यथा। अस्मिन्। यज्ञे। आऽहितम्। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२३।

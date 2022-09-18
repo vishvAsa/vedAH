@@ -22,7 +22,6 @@ else his 'in me' is an inadvertence for 'for me.'⌋
 As Surya shines with brightest sheen, as splendour hath been stored in him, So may the Charm, the Varana, give me prosperity and fame. With lustre let it sprinkle me, and balm me with magni- ficence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। सूर्यः। अतिऽभाति। यथा। अस्मिन्। तेजः। आऽहितम्। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.१७।

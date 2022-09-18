@@ -7,7 +7,6 @@ title = "०१६ सविता"
 16 (17). Prayer to Savitar (or Brihaspati).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सविता  
@@ -18,8 +17,6 @@ title = "०१६ सविता"
 
 [Bhṛgu.—sāvitram. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 7, 58; Griffith, i. 335.
 
 A prayer for prosperity
 </details>
+

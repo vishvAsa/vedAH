@@ -23,10 +23,9 @@ the seers, Angiras etc."!
 Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum masculus vigor es.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाम्। रस:। प्रथमऽज:। अथो इति। वनस्पतीनाम्। उत। सोमस्य। भ्राता। असि। उत। आर्शम्। असि। वृष्ण्यम्। ४.५।
+अपाम्। रसः। प्रथमऽजः। अथो इति। वनस्पतीनाम्। उत। सोमस्य। भ्राता। असि। उत। आर्शम्। असि। वृष्ण्यम्। ४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

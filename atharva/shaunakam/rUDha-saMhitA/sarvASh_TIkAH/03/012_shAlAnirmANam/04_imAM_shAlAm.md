@@ -36,10 +36,9 @@ and Ppp. have *unnā́;* I. has *uttā́;* W. has *-tu tvā*.⌋
 This House may Savitar and Vayu stablish, Brihaspati who knows the way, and Indra. May the moist Maruts sprinkle it with fatness, and may King Bhaga make our corn-land fruitful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमाम्। शालाम्। सविता। वायु:। इन्द्र:। बृहस्पति:। नि। मिनोतु। प्रऽजानन्। उक्षन्तु। उद्ना। मरुत:। घृतेन। भग:। न:। राजा। नि। कृषिम्। तनोतु। १२.४।
+इमाम्। शालाम्। सविता। वायुः। इन्द्रः। बृहस्पतिः। नि। मिनोतु। प्रऽजानन्। उक्षन्तु। उद्ना। मरुतः। घृतेन। भगः। नः। राजा। नि। कृषिम्। तनोतु। १२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

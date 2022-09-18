@@ -25,10 +25,9 @@ Weber's note.⌋
 The Parna-Charm hath come to me for great security from ill. That I may be exalted, yea, above the wealth of Aryaman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। मा। अरुक्षत्। पर्णऽमणि:। मह्यै। अरिष्टऽतातये। यथा। अहम्। उत्तर:। असानि। अर्यम्ण:। उत। सम्ऽविद:। ५.५।
+आ। मा। अरुक्षत्। पर्णऽमणिः। मह्यै। अरिष्टऽतातये। यथा। अहम्। उत्तरः। असानि। अर्यम्णः। उत। सम्ऽविदः। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

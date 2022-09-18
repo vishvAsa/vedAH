@@ -18,7 +18,6 @@ The meter is the same as that of vs. 20.
 He who, as soon as born, laid broad earth open, and set the ocean in the air's mid-region, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। यः। और्णोत्। पृथिवीम्। जायमानः। आ। समुद्रम्। अदधात्। अन्तरिक्षे। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२२।

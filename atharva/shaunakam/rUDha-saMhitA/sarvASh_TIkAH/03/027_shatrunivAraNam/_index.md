@@ -7,7 +7,6 @@ title = "०२७ शत्रुनिवारणम्"
 27. The same: with imprecation on enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -19,8 +18,6 @@ title = "०२७ शत्रुनिवारणम्"
 
 [Atharvan.—rāudram; agnyādibahudevatyam. āṣṭikam: 1-6. 5-p. kakummatīgarbhā ’ṣṭi ; 2. atyaṣṭi; 5. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -39,3 +36,4 @@ id
 3.27    A charm to change the ill-omened birth of twin...
 Name: Comment, dtype: object
 </details>
+

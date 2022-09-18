@@ -18,7 +18,6 @@ Ppp. reads *carma oṣadhayo romāṇi*, and follows with our vs. 18.
 The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Mansions her form.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वऽव्यचाः। चर्म। ओषधयः। लोमानि। नक्षत्राणि। रूपम्। १२.१५।

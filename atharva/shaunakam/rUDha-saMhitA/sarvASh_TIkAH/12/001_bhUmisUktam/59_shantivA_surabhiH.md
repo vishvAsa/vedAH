@@ -21,7 +21,6 @@ and by Keś. to 70. 8, 9⌋.
 Mild, gracious, sweetly odorous, milky, with nectar in her breast, May Earth, may Prithivi bestow her benison, with milk, on me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शन्तिऽवा। सुरभिः। स्योना। कीलालऽऊध्नी। पयस्वती। भूमिः। अधि। ब्रवीतु। मे। पृथिवी। पयसा। सह। १.५९।

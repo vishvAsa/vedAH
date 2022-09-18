@@ -27,10 +27,9 @@ were in question.
 A mighty rampart built of sand hath circled and encompassed you: Be still, and quietly take rest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। व:‍। सिकताऽवती। धनू:। बृहती। अक्रमीत्। ‍तिष्ठत। इलयत। सु। कम्।
+परि। वः‍। सिकताऽवती। धनूः। बृहती। अक्रमीत्। ‍तिष्ठत। इलयत। सु। कम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

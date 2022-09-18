@@ -26,7 +26,6 @@ elsewhere.
 Live your full lives and find age delightful, all of you striving, one behind the other. May Tvashtar, maker of fair things, be gracious, and lead your whole lives on to full existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। रोहत। आयुः। जरसम्। वृणानाः। अनुऽपूर्वम्। यतमानाः। यति। स्थ। तान्। वः। त्वष्टा। सुऽजनिमा। सऽजोषाः। सर्वम्। आयुः। नयतु। जीवनाय। २.२४।

@@ -7,7 +7,6 @@ title = "००२ आत्मा"
 2. Of Atharvan.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "००२ आत्मा"
 
 [Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 1, 48; Griffith, i. 328.
 
 Praise of Atharvan
 </details>
+

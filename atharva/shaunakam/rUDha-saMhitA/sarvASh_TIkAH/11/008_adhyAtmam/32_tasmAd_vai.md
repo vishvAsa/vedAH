@@ -20,7 +20,6 @@ samāhitaḥ*.
 Therefore whoever knoweth man regardeth him as Brahman's self: For all the Deities abide in him as cattle in their pen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्मात्। वै। विद्वान्। पुरुषम्। इदम्। ब्रह्म। इति। मन्यते। सर्वाः। हि। अस्मिन्। देवताः। गावः। गोस्थेऽइव। आसते। १०.३२।

@@ -19,10 +19,9 @@ Ppp. combines *yo ‘smabhyam* in **d**.
 Kama, do thou, a mighty Lord and Ruler, let loose ill dream, misfortune, want of children, Homelessness, Kama! utter destitution, upon the sinner who designs my ruin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दु:ऽस्वप्न्यम्। काम। दु:ऽइतम्। च। काम। अप्रजस्ताम्। अस्वगताम्। अवर्तिम्। उग्र:। ईशान:। प्रति। मुञ्च। तस्मिन्। य:। अस्मभ्यम्। अंहूरणा। चिकित्सात्। २.३।
+दुःऽस्वप्न्यम्। काम। दुःऽइतम्। च। काम। अप्रजस्ताम्। अस्वगताम्। अवर्तिम्। उग्रः। ईशानः। प्रति। मुञ्च। तस्मिन्। यः। अस्मभ्यम्। अंहूरणा। चिकित्सात्। २.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

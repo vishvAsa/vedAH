@@ -18,10 +18,9 @@ calf, milk for me etc. etc.
 Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, strength, and all my wish, life first of all, and offspring, plenty, wealth. All Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्यौ:। धेनु:। तस्या:। आदित्य:। वत्स:। सा। मे। आदित्येन। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयु:। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.६।
+द्यौः। धेनुः। तस्याः। आदित्यः। वत्सः। सा। मे। आदित्येन। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

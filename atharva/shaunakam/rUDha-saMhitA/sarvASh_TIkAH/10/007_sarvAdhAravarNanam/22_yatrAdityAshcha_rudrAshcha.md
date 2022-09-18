@@ -18,7 +18,6 @@ are established—that Skambha tell \[me\]: which forsooth is he?
 Who out of many, tell me, is that Skambha In whom Adityas dwell, in whom Rudras and Vasus are contained, In whom the future and the past and all the worlds are firmly set;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। आदित्याः। च। रूद्राः। च। वसवः। च। सम्ऽआहिताः। भूतम्। च। यत्र। भव्यम्। च। सर्वे। लोकाः। प्रतिऽस्थिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.२२।

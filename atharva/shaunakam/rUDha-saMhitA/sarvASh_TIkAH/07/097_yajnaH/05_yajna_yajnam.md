@@ -22,7 +22,6 @@ as intended by *yajñam*. \*⌊Also vi. 6. 22.⌋
 Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Svaha.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यज्ञ। यज्ञम्। गच्छ। यज्ञऽपतिम्। गच्छ। स्वाम्। योनिम्। गच्छ। स्वाहा। १०२.५।

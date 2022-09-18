@@ -26,7 +26,6 @@ the Vulgate as they stand in Ppp. seems therefore to be as follows: 3
 On whom the men of old before us battled, on whom the Gods attacked the hostile demons, The varied home of bird, and kine and horses, this Prithivi vouchsafe us luck and splendour!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। पूर्वे। पूर्वऽजनाः। विऽचक्रिरे। यस्याम्। देवाः। असुरान्। अभिऽअवर्तयन्। गवाम्। अश्वानाम्। वयसः। च। विऽस्था। भगम्। वर्चः। पृथिवी। नः। दधातु। १.५।

@@ -19,7 +19,6 @@ Ppp. reads *devīr āpo*.
 Ye are the share of Agni. Grant, O heavenly Waters unto us the Waters' brilliant energy. By statute of Prajapati I set you down for this our world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्नेः। भागः। स्थ। अपाम्। शुक्रम्। आपः। देवीः। वर्चः। अस्मासु। धत्त। प्रजाऽपतेः। वः। धाम्ना। अस्मै। लोकाय। सादये। ५.७।

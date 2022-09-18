@@ -29,10 +29,9 @@ acāriṣam;* and *tejo ‘si* is at ii. 2. 11 (cf. p. 150).⌋ \*⌊And reading
 Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give splendour unto me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एध:। असि। एधिषीय। सम्ऽइत्। असि। सम्। एधिषीय। तेज:। असि। तेज:। मयि। धेहि। ९४.४।
+एधः। असि। एधिषीय। सम्ऽइत्। असि। सम्। एधिषीय। तेजः। असि। तेजः। मयि। धेहि। ९४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

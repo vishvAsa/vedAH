@@ -26,7 +26,6 @@ the *puṣṭika mantras*.
 Truth, high and potent Law, the Consecrating Rite, Fervour, Brahma, and Sacrifice uphold the Earth. May she, the Queen of all that is and is to be, may Prithivi make ample space and room for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्यम्। बृहत्। ऋतम्। उग्रम्। दीक्षा। तपः। ब्रह्म। यज्ञः। पृथिवीम्। धारयन्ति। सा। नः। भूतस्य। भव्यस्य। पत्नी। उरुम्। लोकम्। पृथिवी। नः। कृणोतु। १.१।

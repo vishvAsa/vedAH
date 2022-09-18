@@ -18,10 +18,9 @@ We should expect vocatives instead of nominatives in the first line.
 Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Plants whose ruler is Vanaspati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुमुचाना:। ओषधय:। अग्ने:। वैश्वानरात्। अधि। भूमिम्। सम्ऽतन्वती:। इत। यासाम्। राजा। वनस्पति:। ७.१६।
+मुमुचानाः। ओषधयः। अग्नेः। वैश्वानरात्। अधि। भूमिम्। सम्ऽतन्वतीः। इत। यासाम्। राजा। वनस्पतिः। ७.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

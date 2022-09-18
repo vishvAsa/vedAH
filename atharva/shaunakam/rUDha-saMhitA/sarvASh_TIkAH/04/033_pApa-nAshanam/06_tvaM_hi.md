@@ -17,10 +17,9 @@ encompasser on all sides: gleaming away our evil.
 To every side thy face is turned, thou art triumphant everywhere. His lustre flash our pain away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। हि। विश्वत:ऽमुख। विश्वत:। परिऽभू:। असि। अप। न:। शोशुचत्। अघम्। ३३.६।
+त्वम्। हि। विश्वतःऽमुख। विश्वतः। परिऽभूः। असि। अप। नः। शोशुचत्। अघम्। ३३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

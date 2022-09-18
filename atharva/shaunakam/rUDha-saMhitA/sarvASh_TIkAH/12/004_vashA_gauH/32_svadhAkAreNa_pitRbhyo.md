@@ -20,7 +20,6 @@ very unnecessarily forbids us to resolve *-bhi-aḥ* in **b**.
 By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, the Prince doth not incur the mother's. wrath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वधाऽकारेण। पितृऽभ्यः। यज्ञेन। देवताभ्यः। दानेन। राजन्यः। वशायाः। मातुः। हेडम्। न। गच्छति। ४.३२।

@@ -7,7 +7,6 @@ title = "०१८ दवृष्टिः"
 18 (19). For rain, etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दवृष्टिः।  
@@ -19,8 +18,6 @@ title = "०१८ दवृष्टिः"
 [Atharvan.—dvyṛcam. pārjanyam uta pārthivam. 1. 4-p. bhurig uṣṇih; 2. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Ppp. reads, for a, un nambhaya pṛthivīm, which is better; it reads bilam for 
 
 A prayer for rain
 </details>
+

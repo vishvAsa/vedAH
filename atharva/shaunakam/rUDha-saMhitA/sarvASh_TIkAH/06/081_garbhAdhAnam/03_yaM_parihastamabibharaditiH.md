@@ -18,10 +18,9 @@ Ppp. reads *suvāt* in **d**. For Aditi desiring a son, compare xi. 1. 1.
 The Amulet which Aditi wore when desirous of a son, Tvashtar hath bound upon this dame and said, Be mother of a boy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। परिऽहस्तम्। अबिभ:। अदिति:। पुत्रऽकाम्या। त्वष्टा। तम्। अस्यै। आ। बध्नात्। यथा। पुत्रम्। जनात्। इति। ८१.३।
+यम्। परिऽहस्तम्। अबिभः। अदितिः। पुत्रऽकाम्या। त्वष्टा। तम्। अस्यै। आ। बध्नात्। यथा। पुत्रम्। जनात्। इति। ८१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

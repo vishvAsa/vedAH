@@ -7,7 +7,6 @@ title = "१०१ दुःष्वप्ननाशनम्"
 101 (106). As to food enjoyed in a dream.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
@@ -19,8 +18,6 @@ title = "१०१ दुःष्वप्ननाशनम्"
 [Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Used by Kāuś. (46. 12) in a rite against ill effect 
 ### Translations
 Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaigne-Henry, Manuel, p. 157, without other comment than is implied in the title.
 </details>
+

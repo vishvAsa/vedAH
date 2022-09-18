@@ -17,10 +17,9 @@ of the gazelle—\[the gods\] who are masters of the host.
 May all the deities whose might controls the fortune of the fray Frighten away our enemies with Drum and skin of antelope.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परा। अमित्रान्। दुन्दुभिना। हरिणस्य। अजिनेन। च। सर्वे। देवा:। अतित्रसन्। ये। सम्ऽग्रामस्य। ईशते। २१.७।
+परा। अमित्रान्। दुन्दुभिना। हरिणस्य। अजिनेन। च। सर्वे। देवाः। अतित्रसन्। ये। सम्ऽग्रामस्य। ईशते। २१.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

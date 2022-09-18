@@ -23,7 +23,6 @@ circumstances mentioned in the verse.'
 May all the Rivers, all the Plants, may all the Forests, all the Fields, O Bride, protect thee from the fiend, guard his sons' mother for her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ओषधयः। याः। नद्यः। यानि। क्षेत्राणि। या। वना। ताः। त्वा। वधु। प्रजाऽवतीम्। पत्ये। रक्षन्तु। रक्षसः। २.७।

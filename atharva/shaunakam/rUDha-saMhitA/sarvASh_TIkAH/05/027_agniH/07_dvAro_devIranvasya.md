@@ -13,10 +13,9 @@ title = "०७ द्वारो देवीरन्वस्य"
 Ever the Doors divine, and all protect this worshipper's holy work.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्वार:। देवी:। अनु। अस्य। विश्वे। व्रतम्। रक्षन्ति। विश्वहा। २७.७।
+द्वारः। देवीः। अनु। अस्य। विश्वे। व्रतम्। रक्षन्ति। विश्वहा। २७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

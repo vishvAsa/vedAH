@@ -26,7 +26,6 @@ beginning of **c** read *téna* (accent-sign slipped out of place).
 Waters, your ceremonial share of Waters which the waters hold, which aids our sacrifice to Gods, This as a remnant here I leave. Do not thou wash it clean away. With this we let the man go by who hates us and whom we abhor. Him would I fain o'erthrow and slay with this our ceremonial act, with this our prayer, our thunder-bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। वः। आपः। अपाम्। भागः। अप्ऽसु। अन्तः। यजुष्यः। देवऽयजनः। इदम्। तम्। अति। सृजामि। तम्। मा। अभिऽअवनिक्षि। तेन। तम्। अभिऽअतिसृजामः। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वधेयम्। तम्। स्तृषीय। अनेन। ब्रह्मणा। अनेन। कर्मणा। अनया। मेन्या। ५.१५।

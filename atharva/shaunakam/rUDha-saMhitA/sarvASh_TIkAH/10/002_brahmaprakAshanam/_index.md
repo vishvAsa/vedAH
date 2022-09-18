@@ -7,7 +7,6 @@ title = "००२ ब्रह्मप्रकाशनम्"
 2. The wonderful structure of man.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मप्रकाशनम्।  
@@ -18,8 +17,6 @@ title = "००२ ब्रह्मप्रकाशनम्"
 
 [Nārāyaṇa.—trayastriṅśat. pārṣṇisūktam; pāuruṣam; brahmaprakāśisūktam (31, 32. sākṣātparabrahmaprakāśinyāu). ānuṣṭubham: 1-4, 7, 8. triṣṭubh; 6, 11. jagatī; 28. bhurig bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 375 (nearly all); Ludwig, p. 398; Scherman, Philosophische 
 
 Purusha, Primeval Man or humanity personified
 </details>
+

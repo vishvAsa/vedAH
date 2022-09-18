@@ -19,7 +19,6 @@ The Anukr. seems to read **c, d** as 9 + 7 syllables.
 As, when the plough hath tilled the soil, the seed springs up in. fertile land, Let cattle, progeny, and food of every kind spring up with me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। बीजम्। उर्वरायाम्। कृष्टे। फालेन। रोहति। एव। मयि। प्रऽजा। पशवः। अन्नम्ऽअन्नम्। वि। रोहतु। ६.३३।

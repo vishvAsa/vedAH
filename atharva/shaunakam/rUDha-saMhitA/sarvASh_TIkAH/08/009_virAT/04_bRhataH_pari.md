@@ -18,10 +18,9 @@ Ppp. reads *ṣaṣṭhaḥ* instead of -*ṭhāt*.
 Out of the Brihat as the sixth five Salmons have been fashioned forth: From Brihati was Brihat formed: whence was the Brihati com- posed?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहत:। परि। सामानि। षष्ठात्। पञ्च। अधि। नि:ऽमिता। बृहत्। बृहत्या:। नि:ऽमितम्। कुत :। अधि। बृहती। मिता। ९.४।
+बृहतः। परि। सामानि। षष्ठात्। पञ्च। अधि। निःऽमिता। बृहत्। बृहत्याः। निःऽमितम्। कुत ः। अधि। बृहती। मिता। ९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

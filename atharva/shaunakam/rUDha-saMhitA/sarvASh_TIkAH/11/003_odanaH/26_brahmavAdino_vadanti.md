@@ -35,7 +35,6 @@ should be accented.⌋
 The theologians say, Thou hast eaten the averted Odana and the Odana turned hither- ward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽवादिनः। वदन्ति। पराञ्चम्। ओदनम्। प्र। आशी३ः। प्रत्यञ्चा३म्। इति। ३.२६।

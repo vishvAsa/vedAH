@@ -22,10 +22,9 @@ last. The comm. has in **a** ⌊for *váyo dhāt*⌋ the better reading
 May kind Wind strengthen thee in air's mid-region, to thee may heaven's four quarters be auspicious. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's curse I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। ते। वात:। अन्तरिक्षे। वय:। धात्। शम्। ते। भवन्तु। प्रऽदिश:। चतस्र:। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.३।
+शम्। ते। वातः। अन्तरिक्षे। वयः। धात्। शम्। ते। भवन्तु। प्रऽदिशः। चतस्रः। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

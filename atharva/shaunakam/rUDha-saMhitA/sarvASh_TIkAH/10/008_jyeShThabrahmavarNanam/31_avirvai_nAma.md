@@ -20,7 +20,6 @@ means 'sheep,' but is possibly here a derivative from the root *av*
 Known by the name of Guardian Grace the Deity sits girt by Right. The trees have taken from her hue, green-garlanded, their robe of green.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अविः। वै। नाम। देवता। ऋतेन। आस्ते। परिऽवृता। तस्याः। रूपेण। इमे। वृक्षाः। हरिताः। हरितऽस्रजः। ८.३१।

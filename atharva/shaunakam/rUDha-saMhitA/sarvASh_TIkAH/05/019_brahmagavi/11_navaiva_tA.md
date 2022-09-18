@@ -19,10 +19,9 @@ accentuations of *vyádhūnuta* are precisely the same here as there.
 Those nine-and-ninety people whom Earth shook and cast away from her, When they had wronged the Brahman race were ruined incon- ceivably.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नव। एव। ता:। नवतय:। या:। भूमि:। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १९.११।
+नव। एव। ताः। नवतयः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १९.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

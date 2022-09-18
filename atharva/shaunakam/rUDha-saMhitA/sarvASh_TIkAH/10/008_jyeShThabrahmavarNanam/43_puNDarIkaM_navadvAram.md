@@ -24,7 +24,6 @@ under that name later. The second half-verse was found above as 2. 32
 Men versed in sacred knowledge know that living Being that abides. In the nine-portalled Lotus Flower, enclosed with triple bands and bonds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुण्डरीकम्। नवऽद्वारम्। त्रिऽभिः। गुणेभिः। आऽवृतम्। तस्मिन्। यत्। यक्षम्। आत्मन्ऽवत्। तत्। वै। ब्रह्मऽविदः। विदुः। ८.४३।

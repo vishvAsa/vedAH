@@ -37,10 +37,9 @@ ii. 223.⌋
 Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna, of the waters. Pour the floods down: along the brooks and channels let frogs with speckled arms send out their voices.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप:। निऽसिञ्चन्। असुर:। पिता। न:। श्वसन्तु। गर्गरा:। अपाम्। वरुण। अव। नीची:। अप:। सृज। वदन्तु। पृश्निऽबाहव:। मण्डूका:। इरिणा। अनु। १५.१२।
+अपः। निऽसिञ्चन्। असुरः। पिता। नः। श्वसन्तु। गर्गराः। अपाम्। वरुण। अव। नीचीः। अपः। सृज। वदन्तु। पृश्निऽबाहवः। मण्डूकाः। इरिणा। अनु। १५.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

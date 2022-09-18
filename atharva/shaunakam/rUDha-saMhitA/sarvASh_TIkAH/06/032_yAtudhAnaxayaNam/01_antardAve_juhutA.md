@@ -26,10 +26,9 @@ verse (10 + 10: 12 + 11 = 43) is ill-defined as a mere *triṣṭubh*.
 With butter, in his hall v4here fire is burning, perform that sacri- fice which quells the goblins. Burn from afar against the demons Agni! Afflict not in thy fury us who praise thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्त:ऽदावे। जुहुत। सु। एतत्। यातुधानऽक्षयणम्। घृतेन। आरात्। रक्षांसि। प्रति। दह। त्वम्। अग्ने। न। न:। गृहाणाम्। उप। तीतपासि। ३२.१।
+अन्तःऽदावे। जुहुत। सु। एतत्। यातुधानऽक्षयणम्। घृतेन। आरात्। रक्षांसि। प्रति। दह। त्वम्। अग्ने। न। नः। गृहाणाम्। उप। तीतपासि। ३२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

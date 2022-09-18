@@ -22,10 +22,9 @@ genuine, it is rather the name of some (constricting?) disease.
 Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Thy father is the loftiest of mountains, named the Triple- peaked.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रय:। दासा:। आऽअञ्जनस्य। तक्मा। बलास:। आत्। अहि:। वर्षिष्ठ:। पर्वतानाम्। त्रिऽककुत्। नाम। ते। पिता। ९.८।
+त्रयः। दासाः। आऽअञ्जनस्य। तक्मा। बलासः। आत्। अहिः। वर्षिष्ठः। पर्वतानाम्। त्रिऽककुत्। नाम। ते। पिता। ९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

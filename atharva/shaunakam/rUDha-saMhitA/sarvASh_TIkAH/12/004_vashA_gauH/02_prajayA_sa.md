@@ -19,7 +19,6 @@ ask for her.
 He trades and traffics with his sons, and in his cattle suffers loss. Who will not give the Cow of Gods to Rishis children when they beg.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रऽजया। सः। वि। क्रीणीते। पशुऽभिः। च। उप। दस्यति। यः। आर्षेयेभ्यः। याचत्ऽभ्यः। देवानाम्। गाम्। न। दित्सति। ४.२।

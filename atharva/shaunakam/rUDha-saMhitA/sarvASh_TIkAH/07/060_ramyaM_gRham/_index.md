@@ -7,7 +7,6 @@ title = "०६० रम्यं गृहम्"
 60 (62). To the home: on returning or leaving.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रम्यं गृहम्।  
@@ -19,8 +18,6 @@ title = "०६० रम्यं गृहम्"
 [Brahman (ramyān gṛhān vāstospatīn aprārthayat).—saptarcam. vāstoṣpatyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The first and third pādas are found in VS. iii. 41, as a second half-verse, and
 
 A parting traveller's address to the houses of his village
 </details>
+

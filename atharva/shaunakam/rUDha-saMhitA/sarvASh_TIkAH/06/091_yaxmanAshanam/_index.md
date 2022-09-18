@@ -7,7 +7,6 @@ title = "०९१ यक्ष्मनाशनम्"
 91. For remedy from disease.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
@@ -19,8 +18,6 @@ title = "०९१ यक्ष्मनाशनम्"
 [Bhṛgvan̄giras.—mantroktayakṣmanāśanadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Used by Kāuś. (28. 17-20) in a healing rite against
 ### Translations
 Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 </details>
+

@@ -26,7 +26,6 @@ by Kāuś., see above ⌊introduction⌋.
 Well-skilled, against this man I hurl the Water's bolt with four spikes, to cleave his head asunder. May it destroy all members of his body. Let the whole host of Gods approve my purpose.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपाम्। अस्मै। वज्रम्। प्र। हरामि। चतुःऽभृष्टिम्। शीर्षऽभिद्याय। विद्वान्। सः। अस्य। अङ्गानि। प्र। शृणातु। सर्वा। तत्। मे। देवाः। अनु। जानन्तु। विश्वे। ५.५०।

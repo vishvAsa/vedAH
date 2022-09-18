@@ -24,7 +24,6 @@ extremely implausible. Ppp. reads at beginning of **c** *atrā ”sata*.
 The bowl with mouth inclined and bottom upward holds stored within it every form of glory. Thereon together sit the Seven Rishis who have become this mighty One's protectors
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तिर्यक्ऽबिलः। चमसः। ऊर्ध्वऽबुध्नः। तस्मिन्। यशः। निऽहितम्। विश्वऽरूपम्। तत्। आसते। ऋषयः। सप्त। साकम्। ये। अस्य। गोपा। महतः। बभूवुः। ८.९।

@@ -7,7 +7,6 @@ title = "११६ ज्वरनाशनम्"
 116 (121). Against intermittent fever.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ज्वरनाशनम्।  
@@ -19,8 +18,6 @@ title = "११६ ज्वरनाशनम्"
 [Atharvān̄giras.—dvyṛcam. cāndramasam. 1. puroṣṇiḥ; 2. 1-av. 2-p. ārcy anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ This and the two following hymns are not found in Pāipp. This appears in Kāuś
 ### Translations
 Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; Griffith, i. 384; Bloomfield, 4, 565.—Cf. also Bloomfield, JAOS. xvii. 173.
 </details>
+

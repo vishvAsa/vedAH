@@ -20,7 +20,6 @@ change places in **c**.
 Thou hast poured oil and made the worlds: let heaven, unequal- led, be spread out in wide extension. Herein be cooked the buffalo, strong-pinioned: the Gods shall give the Deities this oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। अस्तरीः। अकरः। लोकम्। एतम्। उरुः। प्रथताम्। असमः। स्वःऽगः। तस्मिन्। श्रयातै। महिषः। सुऽपर्णः। देवाः। एनम्। देवताभ्यः। प्र। यच्छान्। ३.३८।

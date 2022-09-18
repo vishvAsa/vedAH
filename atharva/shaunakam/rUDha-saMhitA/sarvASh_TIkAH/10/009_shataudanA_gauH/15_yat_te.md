@@ -19,7 +19,6 @@ W's and SPP's⌋ read.
 Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। क्लोमा। यत्। हृदयम्। पुरिऽतत्। सहऽकण्ठिका। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१५।

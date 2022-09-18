@@ -19,10 +19,9 @@ Ppp. reads, for **b**, *savye me jayā ”hitaḥ*, and, in **d**,
 My right hand holds my winnings fast, and in my left is victory. I would that I were winner of cattle and horses, wealth and gold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृतम्। मे। दक्षिणे। हस्ते। जय:। मे। सव्ये। आऽहित:। गोऽजित्। भूयासम्। अश्वऽजित्। धनम्ऽजय:। हिरण्यऽजित्। ५२.८।
+कृतम्। मे। दक्षिणे। हस्ते। जयः। मे। सव्ये। आऽहितः। गोऽजित्। भूयासम्। अश्वऽजित्। धनम्ऽजयः। हिरण्यऽजित्। ५२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

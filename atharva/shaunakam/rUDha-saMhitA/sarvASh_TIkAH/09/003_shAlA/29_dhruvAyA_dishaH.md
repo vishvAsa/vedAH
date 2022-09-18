@@ -16,10 +16,9 @@ title = "२९ ध्रुवाया दिशः"
 So from the mansion's every side to the Great Power be homage paid! Hail to the Gods whose due is Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ध्रुवाया:। दिश: शालाया:। नम:। महिम्ने। स्वाहा। देवेभ्य:। स्वाह्येभ्य:। ३.२९।
+ध्रुवायाः। दिशः शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः। ३.२९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

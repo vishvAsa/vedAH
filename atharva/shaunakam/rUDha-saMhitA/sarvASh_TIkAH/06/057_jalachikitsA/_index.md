@@ -7,7 +7,6 @@ title = "०५७ जलचिकित्सा"
 57. With a certain remedy against disease.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जलचिकित्सा।  
@@ -18,8 +17,6 @@ title = "०५७ जलचिकित्सा"
 
 [śaṁtāti.—1, 2. rāudryāu; anuṣṭubh; 3. ⌊?⌋; pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 276; Bloomfield, 19, 488.
 
 A charm for a wound or bruise
 </details>
+

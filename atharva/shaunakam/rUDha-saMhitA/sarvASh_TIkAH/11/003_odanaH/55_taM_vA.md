@@ -20,7 +20,6 @@ The comm. explains *sarvajyāním* by *prajāpśvādirūpasya sarvasyā
 तं वा अ॒हं नार्वाञ्चं॒ न परा॑ञ्चं॒ न प्र॒त्यञ्च॑म् ॥३॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। च। प्राणम्। रुणध्दि। सर्वऽज्यानिम्। जीयते। ५.६।

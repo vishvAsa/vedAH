@@ -22,10 +22,9 @@ omission of *evá* in **a** would make the verse regular.
 Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengthen and increase this man. Hither come every animal: with this man let all wealth abide.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। हवम्। आ। यात। मे। इह। समऽस्रावणा:। उत। इम्। वर्धयत। गिर:। इह। आ। एतु। सर्व:। य:। पशु:। अस्मिन्। तिष्ठतु। या। रयि:।
+इह। एव। हवम्। आ। यात। मे। इह। समऽस्रावणाः। उत। इम्। वर्धयत। गिरः। इह। आ। एतु। सर्वः। यः। पशुः। अस्मिन्। तिष्ठतु। या। रयिः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

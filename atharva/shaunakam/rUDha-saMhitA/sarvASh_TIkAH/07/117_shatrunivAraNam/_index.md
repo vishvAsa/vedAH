@@ -7,7 +7,6 @@ title = "११७ शत्रुनिवारणम्"
 117 (122). Invitation to India.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -19,8 +18,6 @@ title = "११७ शत्रुनिवारणम्"
 [Atharvān̄giras.—āindram. pathyābṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Used by Kāuś. (59. 14), with hymns 85 and 86, in a rite for
 ### Translations
 Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
+

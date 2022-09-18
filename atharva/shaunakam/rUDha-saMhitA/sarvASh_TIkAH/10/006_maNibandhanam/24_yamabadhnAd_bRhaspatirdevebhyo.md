@@ -17,7 +17,6 @@ with greatness, growth.
 The Amulet, etc. That Amulet here hath come to me with store of barley and of rice, with greatness and prosperity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। व्रीहिऽयवाभ्याम्। महसा। भूत्या। सह। ६.२४।

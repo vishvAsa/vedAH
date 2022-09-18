@@ -22,10 +22,9 @@ translation of it is a mere guess, to avoid transferring the word.
 Destroy the fiend shaped like an owl or owlet, destroy him in. the form of dog or cuckoo. Destroy him shaped as eagle or as vulture: as with a stone, O Indra, crush the demon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उलूकऽयातुम्। शुशुलूकऽयातुम्। ‍ जहि। श्वऽयातुम्। उत। कोकऽयातुम्। सुपर्णऽयातुम्। उत। गृध्रऽयातुम्। दृषदाऽइव। प्र। मृण। रक्ष:। इन्द्र। ४.२२।
+उलूकऽयातुम्। शुशुलूकऽयातुम्। ‍ जहि। श्वऽयातुम्। उत। कोकऽयातुम्। सुपर्णऽयातुम्। उत। गृध्रऽयातुम्। दृषदाऽइव। प्र। मृण। रक्षः। इन्द्र। ४.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

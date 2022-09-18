@@ -30,7 +30,6 @@ Anukr.⌋
 Send her most rich in every charm, O Pushan, her who shall be the sharer of my pleasures; Her who shall twine her eager arms about me, and welcome all my love and soft embraces.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताम्। पूषन्। शिवऽतमाम्। आ। ईरयस्व। यस्याम्। बीजम्। मनुष्याः। वपन्ति। या। नः। ऊरू इति। उशति। विऽश्रयाति। यस्याम्। उशन्तः। प्रऽहरेम। शेपः। २.३८।

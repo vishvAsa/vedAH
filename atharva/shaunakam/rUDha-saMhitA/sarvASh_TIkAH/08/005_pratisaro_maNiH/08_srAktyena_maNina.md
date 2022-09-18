@@ -17,10 +17,9 @@ have conquered all fighters; I smite away the scorners, the demoniacs.
 With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight have I prevailed; I smite the foes and Rakshasas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्राक्त्येन। मणिना। ऋषिणाऽइव। मनीषिणा। अजैषम्। सर्वा:। पृतना:। वि। मृध:। हन्मि। रक्षस:। ५.८।
+स्राक्त्येन। मणिना। ऋषिणाऽइव। मनीषिणा। अजैषम्। सर्वाः। पृतनाः। वि। मृधः। हन्मि। रक्षसः। ५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ lacks three syllables in its second half.
 Balmed is the Grass with butter and libation, with Indra. gracious Lord, and with the Maruts. Hail! let the sacrifice go forth anointed to Indra with the Gods and Visve Devas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। बर्ह‍ि:। अक्तम्। हविषा। घृतेन। सम्। इन्द्रेण। वसुना। सम्। मरुत्ऽभि:। सम्। देवै:। विश्वऽदेवेभ‍ि:। अक्तम्। इन्द्रम्। गच्छतु। हवि:। स्वाहा। १०३.१।
+सम्। बर्ह‍िः। अक्तम्। हविषा। घृतेन। सम्। इन्द्रेण। वसुना। सम्। मरुत्ऽभिः। सम्। देवैः। विश्वऽदेवेभ‍िः। अक्तम्। इन्द्रम्। गच्छतु। हविः। स्वाहा। १०३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,10 +18,9 @@ In **b**, P. begins *yò ‘syā*, I.H. *yé ‘syā*.
 The men whose task it is to milk drain not the brindled cow for him, In whose dominion is detained, through senseless love, a Brahman's dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। अस्मै। पृश्न‍िम्। वि। दुहन्ति। ये। अस्या:। दोहम्। उपऽआसते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१७।
+न। अस्मै। पृश्न‍िम्। वि। दुहन्ति। ये। अस्याः। दोहम्। उपऽआसते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००७ शापमोचनम्"
 7. Against curses and cursers: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शापमोचनम्।  
@@ -18,8 +17,6 @@ title = "००७ शापमोचनम्"
 
 [Atharvan.—bhāiṣajyāyurvanaspatidāivatyam. ānuṣṭubham: 1. bhurij; 4. virāḍupariṣṭādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 148; Ludwig, p. 508; Grill, 24, 81; Griffith, i. 49; Bl
 
 A counter-charm against imprecation and malignity
 </details>
+

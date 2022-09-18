@@ -22,10 +22,9 @@ however, reads *-yáti*, as do, by emendation, both the edited texts.
 Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy the butter of the foe whoever plots to injure us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अजिरऽअधिराजौ। श्येनौ। संपातिनौऽइव। आज्यम्। पृतन्यत:। हताम्। य:। न:। क:। च। अभिऽअघायति। ७३.३।
+अजिरऽअधिराजौ। श्येनौ। संपातिनौऽइव। आज्यम्। पृतन्यतः। हताम्। यः। नः। कः। च। अभिऽअघायति। ७३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

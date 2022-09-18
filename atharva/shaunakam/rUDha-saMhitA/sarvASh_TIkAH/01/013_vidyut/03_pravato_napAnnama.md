@@ -23,10 +23,9 @@ verse is scanned by the Anukr. as 12 + 12: 11 + 11 = 46 syllables.
 Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dart and fiery flame: For well we know thy secret and sublimest home, where thou as central point art buried in the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽवत:। नपात्। नम:। एव। अस्तु। तुभ्यम्। नम:। ते। हेतये। तपुषे। च। कृण्म:। विद्म:। ते। धाम। परमम्। गुहा। यत्। समुद्रे। अन्त:। निऽहिता। असि। नाभि:।
+प्रऽवतः। नपात्। नमः। एव। अस्तु। तुभ्यम्। नमः। ते। हेतये। तपुषे। च। कृण्मः। विद्मः। ते। धाम। परमम्। गुहा। यत्। समुद्रे। अन्तः। निऽहिता। असि। नाभिः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

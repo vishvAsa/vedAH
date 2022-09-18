@@ -26,10 +26,9 @@ of integration, which does distinguish them.⌋
 Yonder let the Arayis dwell, there where that house is down below. Let utter indigence and all the Yatudhanis settle there.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असौ। य:। अधरात्। गृह:। तत्र। सन्तु। अराय्य:। तत्र। सेदि:। नि। उच्यतु। सर्वा:। च। यातुऽधान्य:। १४.३।
+असौ। यः। अधरात्। गृहः। तत्र। सन्तु। अराय्यः। तत्र। सेदिः। नि। उच्यतु। सर्वाः। च। यातुऽधान्यः। १४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

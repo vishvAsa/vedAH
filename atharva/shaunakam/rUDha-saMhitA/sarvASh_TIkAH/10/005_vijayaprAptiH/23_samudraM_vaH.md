@@ -29,7 +29,6 @@ ii. 11. 18 and the Index, p. 157.⌋ Kāuś. quotes the verse at 6. 17, in a
 Onward I urge your gathered floods: enter your own abiding- place, Uninjured and with all your strength. Let nothing bend or bow us down.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 समुद्रम्। वः। प्र। हिणोमि। स्वाम्। योनिम्। अपि। इतन। अरिष्टाः। सर्वऽहायसः। मा। च। नः। किम्। चन। आममत्। ५.२३।

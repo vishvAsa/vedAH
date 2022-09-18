@@ -20,10 +20,9 @@ Ppp. reads *hirās* for *śatam* in **a**, and *sākam* for *vayam* in
 From all the hundred vessels spread throughout the members of thy frame. From all those vessels and canals we call the poisonous matter forth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। ते। शतम्। धमनय:। अङ्गानि। अनु। विऽस्थिता:। तासाम्। ते। सर्वासाम्। वयम्। नि:। विषाणि। ह्वयामसि। ९०.२।
+याः। ते। शतम्। धमनयः। अङ्गानि। अनु। विऽस्थिताः। तासाम्। ते। सर्वासाम्। वयम्। निः। विषाणि। ह्वयामसि। ९०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०६१ विश्वस्रष्टा"
 61. Prayer and boasts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विश्वस्रष्टा।  
@@ -18,8 +17,6 @@ title = "०६१ विश्वस्रष्टा"
 
 [Atharvan (?).—rāudram. trāiṣṭubham: 2, 3. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 278.
 
 A prayer for prosperity and greatness
 </details>
+

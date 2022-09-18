@@ -7,7 +7,6 @@ title = "००७ उच्छिष्ट ब्रह्म-सूक्त�
 7. Extolling the remnant (úcchiṣṭa) of the offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 उच्छिष्ट ब्रह्म-सूक्तम्।  
@@ -18,8 +17,6 @@ title = "००७ उच्छिष्ट ब्रह्म-सूक्त�
 
 [Atharvan.—saptaviṅśati, mantroktochiṣṭādhyātmadāivatam. ānuṣṭubham*: 6. puroṣṇigbārhataparā; 21. svarāj; 22. virāṭ pathyābṛhatī.] *⌊The Anukr. omits the definition of vs. 11 as pathyāpan̄kti.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 397 (part); Scherman, p. 87 (part); Deussen, Geschichte, i.
 
 A glorification of the Uchchhishta or Residue of Sacrifice
 </details>
+

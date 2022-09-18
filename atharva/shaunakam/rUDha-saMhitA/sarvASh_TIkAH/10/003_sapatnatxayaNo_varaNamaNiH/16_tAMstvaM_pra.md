@@ -21,7 +21,6 @@ Ppp. reads, for **b**, *purā dṛṣṭān parā ”yuṣaḥ*. ⌊In **c**, pr
 Cut them in pieces, Varana! before their destined term of life, Those who would hurt his cattle, those who fain would harm. the realm he rules.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तान्। त्वम्। प्र। छिन्ध्दि। वरण। पुरा। दिष्टात्। पुरा। आयुषः। ये। एनम्। पशुषु। दिप्सन्ति। ये। च। अस्य। राष्ट्रऽदिप्सवः। ३.१६।

@@ -22,7 +22,6 @@ resolve *ya-āsi*.
 A glorious sight to beasts and men, thou goest glorious to the regions and mid-regions. On earth's, on Aditi's bosom, bright with glory. Fain would I equal Savitar in beauty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यशाः। यासि। प्रऽदिशः। दिशः। च। यशाः। पशूनाम्। उत। चर्षणीनाम्। यशाः। पृथिव्याः। अदित्याः। उपऽस्थे। भूयासम्। सविताऽइव। चारुः। १.३८।

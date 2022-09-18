@@ -24,10 +24,9 @@ foolishly supplies an "O our enemies" in **c**; *aśmā* he explains as
 Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone ye wont to hurl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आरे। असौ। अस्मत्। अस्तु। हेति:। देवास:। असत्। आरे। अश्मा। यम्। अस्यथ।
+आरे। असौ। अस्मत्। अस्तु। हेतिः। देवासः। असत्। आरे। अश्मा। यम्। अस्यथ।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

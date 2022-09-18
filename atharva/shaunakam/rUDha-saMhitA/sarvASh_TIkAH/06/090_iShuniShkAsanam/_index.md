@@ -7,7 +7,6 @@ title = "०९० इषुनिष्कासनम्"
 90. For safety from Rudra's arrow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इषुनिष्कासनम्।  
@@ -19,8 +18,6 @@ title = "०९० इषुनिष्कासनम्"
 [Atharvan.—rāudram. 1, 2. anuṣṭubh; 3. ārṣi bhurig uṣṇih.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (in the verse-order 2, 1, 3). Used by Kāuś. (31. 7)
 ### Translations
 Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 </details>
+

@@ -17,10 +17,9 @@ propagated for thee with progeny—gleaming away our evil—
 So that thy worshipper and we, thine, Agni! in our sons may live. His lustre flash our pain away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। यत्। ते। अग्ने। सूरय:। जायेमहि। प्र। ते। वयम्। अप। न:। शोशुचत्। अघम्। ३३.४।
+प्र। यत्। ते। अग्ने। सूरयः। जायेमहि। प्र। ते। वयम्। अप। नः। शोशुचत्। अघम्। ३३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ Cf. note to iv. 5. 5.⌋
 This fair one is untouched by age, immortal in a mortal's house. He for whom she was made lies low, and he who formed her hath grown old.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। कल्याणी। अजरा। मर्त्यस्य। अमृता। गृहे। यस्मै। कृता। शये। सः। यः। चकार। जजार। सः। ८.२६।

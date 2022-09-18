@@ -33,7 +33,6 @@ however, *‘stu sahapatnī vadhū* for our *astu sahásambhalāyai*.
 Now from the noose of Varuna I free thee, where with the bless- ed Savitar hath bound thee. May bless be thine together with thy wooer in Order's dwelling, in the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। त्वा। मुञ्चामि। वरुणस्य। पाशात्। येन। त्वा। अबध्नात्। सविता। सुऽशेवाः। ऋतस्य। योनौ। सुऽकृतस्य। लोके। स्योनम्। ते। अस्तु। सहऽसंभलायै। १.१९।

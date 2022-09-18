@@ -29,10 +29,9 @@ reading (with the other texts) *bráhmaṇā* in **c**.
 With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes and with favour, With the God-destined portion of the Brahmans, and the good-will of Gods who merit worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। इन्द्र। न:। मनसा। नेष। गोभि:। सम्। सूरिऽभि:। हरिऽवन्। सम्। स्वस्त्या। सम्। ब्रह्मणा। देवऽहितम्। यत्। अस्ति। सम्। देवानाम्। सुऽमतौ। यज्ञियानाम्। १०२.२।
+सम्। इन्द्र। नः। मनसा। नेष। गोभिः। सम्। सूरिऽभिः। हरिऽवन्। सम्। स्वस्त्या। सम्। ब्रह्मणा। देवऽहितम्। यत्। अस्ति। सम्। देवानाम्। सुऽमतौ। यज्ञियानाम्। १०२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

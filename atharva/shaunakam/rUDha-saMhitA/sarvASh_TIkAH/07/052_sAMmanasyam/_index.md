@@ -7,7 +7,6 @@ title = "०५२ सांमनस्यम्"
 52 (54). For harmony.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -18,8 +17,6 @@ title = "०५२ सांमनस्यम्"
 
 [Atharvan.—dvyṛcam. sāmmanasyam; āśvinam. 1. kakummaty anuṣṭubh; 2. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 428; Grill, 31, 181; Henry, 19, 79; Griffith, i. 351; Blo
 
 A prayer for peace and concord
 </details>
+

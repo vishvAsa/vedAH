@@ -7,7 +7,6 @@ title = "००५ इन्द्रस्य वीर्याणि"
 5. Praise and prayer to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इन्द्रस्य वीर्याणि।  
@@ -18,8 +17,6 @@ title = "००५ इन्द्रस्य वीर्याणि"
 
 [Bhṛgu Ātharvaṇa.—saptarcam. āindram. trāiṣṭubham: 1, 2. upariṣṭād bṛhatī (1. nicṛt; 2. virāj); 3. virāṭpathyābṛhatī; 4. jagatī purovirāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ The hymn is used once in Kāuś. (59. 5), among the kāmya rites, or those inten
 
 Invitation to, and praise of Indra
 </details>
+

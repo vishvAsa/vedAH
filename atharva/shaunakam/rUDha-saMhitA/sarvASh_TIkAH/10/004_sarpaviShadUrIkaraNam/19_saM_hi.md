@@ -20,7 +20,6 @@ would be equally correct here. Ppp. reads *pāuñjiṣṭhī ’va*.
 Their heads have I seized firmly as a fisher grasps the spotted prey, Waded half through the stream and washed the poison of the serpents off.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। हि। शीर्षाणि। अग्रभम्। पौञ्जिष्ठःऽइव। कर्वरम्। सिन्धोः। मध्यम्। पराऽइत्य। वि। अनिजम्। अहेः। विषम्। ४.१९।

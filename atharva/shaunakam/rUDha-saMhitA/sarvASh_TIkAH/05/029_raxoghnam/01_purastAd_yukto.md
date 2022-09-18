@@ -24,10 +24,9 @@ ceremonies.
 Made ready in the east drive forth, take notice of what is hap- pening here, omniscient Agni! Thou bringest medicine and healest sickness: through thee may we win horses, kine, and people.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुरस्तात्। युक्त:। वह। जातऽवेद:। अग्ने। विध्दि। क्रियमाणम्। यथा। इदम्। त्वम्। भिषक्। भेषजस्य। असि। कर्ता। त्वया। गाम्। अश्वम्। पुरुषम्। सनेम। २९.१।
+पुरस्तात्। युक्तः। वह। जातऽवेदः। अग्ने। विध्दि। क्रियमाणम्। यथा। इदम्। त्वम्। भिषक्। भेषजस्य। असि। कर्ता। त्वया। गाम्। अश्वम्। पुरुषम्। सनेम। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

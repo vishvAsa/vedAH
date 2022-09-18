@@ -24,10 +24,9 @@ unusual and indefinite name *mahābṛhatī*.
 Who understandeth well, who hath perceived it, her heart's un- injured Soma-holding beaker? Let the wise Brahman priest therein be joyful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। तम्। प्र। वेद। क:। ऊं इति  तम्। चिकेत। य:। अस्या:। हृद:। कलश:। सोमऽधान:। अक्षित:। ब्रह्मा। सुऽमेधा:। स:। अस्मिन्। मदेत। १.६।
+कः। तम्। प्र। वेद। कः। ऊं इति  तम्। चिकेत। यः। अस्याः। हृदः। कलशः। सोमऽधानः। अक्षितः। ब्रह्मा। सुऽमेधाः। सः। अस्मिन्। मदेत। १.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

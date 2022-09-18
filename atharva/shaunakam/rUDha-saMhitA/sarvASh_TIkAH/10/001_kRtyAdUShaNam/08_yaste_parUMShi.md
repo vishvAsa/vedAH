@@ -19,7 +19,6 @@ All the *saṁhitā*-mss. read *-va rbhur* in **b**.
 He who composed thy limbs with thought as a deft joiner builds a car, Go to him: thither lies thy way. This man is all unknown to thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। परूंषि। सम्ऽदधौ। रथस्यऽइव। ऋभुः। धिया। तम्। गच्छ। तत्र। ते। अयनम्। अज्ञातः। ते। अयम्। जनः। १.८।

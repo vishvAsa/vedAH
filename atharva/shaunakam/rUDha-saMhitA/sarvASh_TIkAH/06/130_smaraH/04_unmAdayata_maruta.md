@@ -17,10 +17,9 @@ Agni, do thou craze \[him\]; let yon \[man\] burn for me.
 Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni, madden him. Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। मादयत। मरुत:। उत्। अन्तरिक्ष। मादय। अग्ने। उत्। मादय। त्वम्। असौ। माम्। अनु। शोचतु। १३०.४।
+उत्। मादयत। मरुतः। उत्। अन्तरिक्ष। मादय। अग्ने। उत्। मादय। त्वम्। असौ। माम्। अनु। शोचतु। १३०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

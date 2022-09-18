@@ -21,7 +21,6 @@ bowels) to move,' i.e. 'produce diarrhœa'?⌋
 The pains that through the bowels creep, disordering the inward parts, Let them depart and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। गुदाः। अनुऽसर्पन्ति। आन्त्राणि। मोहयन्ति। च। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१७।

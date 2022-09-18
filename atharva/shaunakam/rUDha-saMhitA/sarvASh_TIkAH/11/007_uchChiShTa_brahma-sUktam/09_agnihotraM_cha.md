@@ -27,7 +27,6 @@ vāpīkūpataṭākadevāyatanārāmādinirmāṇam*.
 Faith fire-oblation, fervent zeal, service, and sacrificial cry, Guerdon, good works and their reward, are stored within the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निऽहोत्रम्। च। श्रध्दा। च। वषट्ऽकारः। व्रतम्। तपः। दक्षिणा। इष्टम्। पूर्तम्‌। च। उत्ऽशिष्टे। अधि। सम्ऽआहिताः। ९.९।

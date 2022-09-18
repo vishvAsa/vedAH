@@ -24,10 +24,9 @@ accepted text. ⌊In **c**, rather, 'smiting adversaries'?⌋
 With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destroying foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रेण। मन्युना। वयम्। अभि। स्याम। पृतन्यत:। घ्नन्त:। वृत्राणि। अप्रति। ९८.१।
+इन्द्रेण। मन्युना। वयम्। अभि। स्याम। पृतन्यतः। घ्नन्तः। वृत्राणि। अप्रति। ९८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

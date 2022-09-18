@@ -7,7 +7,6 @@ title = "०१३ दीर्घायुःप्राप्तिः"
 13. For welfare and long life of an infant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०१३ दीर्घायुःप्राप्तिः"
 
 [Atharvan.—bahudevatyam utā ”gneyam. trāiṣṭubham: 4. anuṣṭubh; 5. virāḍjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 171; Zimmer, p. 322; Griffith, i. 57.
 
 A youth's Investiture ceremony (godanam)
 </details>
+

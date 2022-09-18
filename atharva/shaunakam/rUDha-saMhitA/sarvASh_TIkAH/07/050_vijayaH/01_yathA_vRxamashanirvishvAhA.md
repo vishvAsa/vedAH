@@ -20,10 +20,9 @@ below. The Anukr. overlooks the deficiency in **a**.
 As evermore the lightning flash strikes, irresistible, the tree, So, irresistible, may I conquer the gamblers with the dice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। वृक्षम्। अशनि:। विश्वाहा। हन्ति। अप्रति। एव। अहम्। अद्य। कितवान्। अक्षै:। बध्यासम्। अप्रति। ५२.१।
+यथा। वृक्षम्। अशनिः। विश्वाहा। हन्ति। अप्रति। एव। अहम्। अद्य। कितवान्। अक्षैः। बध्यासम्। अप्रति। ५२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

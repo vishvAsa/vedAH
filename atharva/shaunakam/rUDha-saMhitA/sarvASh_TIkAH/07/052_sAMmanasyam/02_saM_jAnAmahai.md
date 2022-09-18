@@ -34,10 +34,9 @@ also: ⌊is the second *sám* an intrusion?⌋. \*⌊Alternatively, and as
 May we agree in mind, agree in purpose: let us not fight against the heavenly spirit. Around us rise no din of frequent slaughter, nor Indra's arrow fly, for day is present!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। जानामहै। मनसा। सम्। चिकित्वा। मा। युष्महि। मनसा। दैव्येन। मा। घोषा:। उत्। स्थु:। बहुले। विऽनिर्हते। मा। इषु:। पप्तत्। इन्द्रस्य। अहनि। आऽगते। ५४.२।
+सम्। जानामहै। मनसा। सम्। चिकित्वा। मा। युष्महि। मनसा। दैव्येन। मा। घोषाः। उत्। स्थुः। बहुले। विऽनिर्हते। मा। इषुः। पप्तत्। इन्द्रस्य। अहनि। आऽगते। ५४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

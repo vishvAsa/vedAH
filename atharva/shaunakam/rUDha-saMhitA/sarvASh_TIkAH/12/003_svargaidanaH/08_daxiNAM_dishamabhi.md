@@ -22,7 +22,6 @@ reckon the verse (11 + 11: 12 + 11 = 45) a *jagatī*.
 Now, as your steps approach the southern quarter, move in. your circling course about this vessel. Herein, accordant with the Fathers, Yama shall mightily protect your cooked oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दक्षिणाम्। दिशम्। अभि। नक्षमाणौ। परिऽआवर्तेथाम्। अभि। पात्रम्। एतत्। तस्मिन्। वाम्। यमः। पितृऽभिः। सम्ऽविदानः। पक्वाय। शर्म। बहुलम्। नि। यच्छात्। ३.८।

@@ -22,10 +22,9 @@ maghavann amitrāṅ śaśvatībhyaḥ.*
 Great is thy net, brave Indra, thine the mighty match for a thousand, Lord of Hundred Powers! Holding them, with his host, therewith hath Indra slaughtered Dasyus a hundred, thousand, myriad, hundred millions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहत्। ते। जालम्। बृहत:। इन्द्र। शूर। सहस्रऽअर्घस्य। शतऽवीर्यस्य। तेन। शतम्। सहस्रम्। अयुतम्। निऽअर्बुदम्। जघान। शक्र:। दस्यूनाम्। अभिऽधाय। सेनया। ८.७।
+बृहत्। ते। जालम्। बृहतः। इन्द्र। शूर। सहस्रऽअर्घस्य। शतऽवीर्यस्य। तेन। शतम्। सहस्रम्। अयुतम्। निऽअर्बुदम्। जघान। शक्रः। दस्यूनाम्। अभिऽधाय। सेनया। ८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

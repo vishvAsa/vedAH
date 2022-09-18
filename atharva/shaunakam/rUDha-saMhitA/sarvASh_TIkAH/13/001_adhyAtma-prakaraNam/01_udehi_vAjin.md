@@ -33,7 +33,6 @@ Kāuś. 49. 18, to be used in the witchcraft ceremony of the
 Rise, Mighty One, who liest in the waters, and enter this thy fair and glorious kingdom. Let Rohita who made this All uphold thee carefully nurtured for supreme dominion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽएहि। वाजिन्। यः। अप्ऽसु। अन्तः। इदम्। राष्ट्रम्। प्र। विश। सूनृताऽवत्। यः। रोहितः। विश्वम्। इदम्। जजान। सः। त्वा। राष्ट्राय। सुऽभृतम्। बिभर्तु। १.१।

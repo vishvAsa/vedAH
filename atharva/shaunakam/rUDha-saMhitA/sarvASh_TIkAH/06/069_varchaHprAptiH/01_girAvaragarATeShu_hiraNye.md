@@ -25,10 +25,9 @@ corruption. The comm. explains it in two alternative ways: as kings that
 Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the sweetness that is found in nectar and in flowing wine!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गिरौ। अरगराटेषु। हिरण्ये। गोषु। यत्। यश:। सुरायाम्। सिच्यमानायाम्। कीलाले। मधु। तत्। मयि। ६९.१।
+गिरौ। अरगराटेषु। हिरण्ये। गोषु। यत्। यशः। सुरायाम्। सिच्यमानायाम्। कीलाले। मधु। तत्। मयि। ६९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

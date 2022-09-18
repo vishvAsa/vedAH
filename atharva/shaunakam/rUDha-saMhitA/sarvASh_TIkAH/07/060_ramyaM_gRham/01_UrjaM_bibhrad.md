@@ -27,10 +27,9 @@ whose **d** is Ppp's **a** (but Āp. has *āi ’mi*).⌋
 I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no terror, Come, praising and kind-thoughted, to these houses: be not afraid of me, be glad and joyful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्जम्। बिभ्रत्। वसुऽवनि:। सुऽमेधा:। अघोरेण। चक्षुषा। मित्रियेण। गृहान्। आ। एमि। सुऽमना:। वन्दमान:। रमध्वम्। मा। बिभीत। मत्। ६२.१।
+ऊर्जम्। बिभ्रत्। वसुऽवनिः। सुऽमेधाः। अघोरेण। चक्षुषा। मित्रियेण। गृहान्। आ। एमि। सुऽमनाः। वन्दमानः। रमध्वम्। मा। बिभीत। मत्। ६२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

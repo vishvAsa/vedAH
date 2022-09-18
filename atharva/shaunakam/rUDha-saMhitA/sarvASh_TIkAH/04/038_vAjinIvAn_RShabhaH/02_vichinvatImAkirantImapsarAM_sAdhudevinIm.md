@@ -20,7 +20,6 @@ The comm. explains the first two epithets respectively by "collecting"
 Hither I call that Apsaras who scatters and who gathers up. The Apsaras who plays with skill and takes her winnings in the game.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽचिन्वतीम्। आऽकिरन्तीम्। अप्सराम्। साधुऽदेविनीम्। ग्लहे। कृतानि। गृह्णानाम्। अप्सराम्। ताम्। इह। हुवे। ३८.२।

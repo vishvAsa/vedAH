@@ -38,10 +38,9 @@ his perplexity.
 Rapidly as the fancy flies forth with conceptions of the mind. So following the fancy's flight, O Cough, flee rapidly away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। मन:। मन:ऽकेतै:। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। मनस:। अनु। प्रऽवाय्यम्। १०५.१।
+यथा। मनः। मनःऽकेतैः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। मनसः। अनु। प्रऽवाय्यम्। १०५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

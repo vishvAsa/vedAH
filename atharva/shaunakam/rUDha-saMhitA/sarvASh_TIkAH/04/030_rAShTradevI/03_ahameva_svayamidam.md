@@ -20,7 +20,6 @@ comm. absurdly explains *brahmā́ṇam* by *sraṣṭāram*, or the god Brahman
 I, verily, myself announce and utter the word that Gods, and men alike shall welcome. I make the man I love exceeding mighty, make him a sage, a Rishi, and a Brahman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। एव। स्वयम्। इदम्। वदामि। जुष्टम्। देवानाम्। उत। मानुषाणाम्। यम्। कामये। तम्ऽतम्। उग्रम्। कृणोमि। तम्। ब्रह्माणम्। तम्। ऋषिम्। तम्। सुऽमेधाम्। ३०.३।

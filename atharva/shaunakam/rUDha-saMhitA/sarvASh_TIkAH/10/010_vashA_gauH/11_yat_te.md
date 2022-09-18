@@ -18,7 +18,6 @@ Ppp. reads, in **a-b**, *-patiḥ kṣīraṁ dehi bharad vaśe*.
 O Cow, the milk which in his wrath the Lord of Riches took from thee, That same the vault of heaven now preserveth in three reser- voirs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। क्रुध्दः। धनऽपतिः। आ। क्षीरम्। अहरत्। वशे। इदम्। तत्। अद्य। नाकः। त्रिषु। पात्रेषु। रक्षति। १०.११।

@@ -7,7 +7,6 @@ title = "०२७ स्वस्त्ययनम्"
 27. Against various evils.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्त्ययनम्।  
@@ -18,8 +17,6 @@ title = "०२७ स्वस्त्ययनम्"
 
 [Atharvan (svastyayanakāmaḥ).—cāndramasam ute 'ndrāṇīdāivatam. ānuṣṭubham: 1. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 421; Ludwig, p. 517; Griffith, i. 32.—Griffith says the
 
 A charm to obtain invisibility
 </details>
+

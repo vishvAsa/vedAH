@@ -29,10 +29,9 @@ stringing a bow; in TB. ii. 5. 8¹² we have even *ví tanoti sī́ram.*
 Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the yokes on either side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सीरा। युञ्जन्ति। कवय:। युगा। वि। तन्वते। पृथक्। धीरा:। देवेषु। सुम्नऽयौ। १७.१।
+सीरा। युञ्जन्ति। कवयः। युगा। वि। तन्वते। पृथक्। धीराः। देवेषु। सुम्नऽयौ। १७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०७० शत्रुदमनम्"
 70 (73). Against an enemy's sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुदमनम्।  
@@ -18,8 +17,6 @@ title = "०७० शत्रुदमनम्"
 
 [Atharvan.—pañcarcam. mantroktadevatyam uta śyenadevatākam. trāiṣṭubham: 2. atijagatīgarbhā jagatī; 3-5. anuṣṭubh (3. puraḥkakummati).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 374; Grill, 46, 187; Henry, 26, 91; Griffith, i. 360; Blo
 
 A charm to frustrate an enemy's sacrifice
 </details>
+

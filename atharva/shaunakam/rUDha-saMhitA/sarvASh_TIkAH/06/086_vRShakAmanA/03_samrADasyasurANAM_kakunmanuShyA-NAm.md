@@ -19,10 +19,9 @@ that of all the other gods together," and applies it to Indra.
 Thou art the King of Asuras, the crown and summit of man- kind: Thou art the partner of the Gods: the one and only Lord be thou.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽराट्। असि। असुराणाम्। ककुत्। मनुष्याणाम्। देवानाम्। अर्धऽभाक्। असि। त्वम्। एकऽवृष:। भव। ८६.३।
+सम्ऽराट्। असि। असुराणाम्। ककुत्। मनुष्याणाम्। देवानाम्। अर्धऽभाक्। असि। त्वम्। एकऽवृषः। भव। ८६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ vi. 15.⌋
 Let breath and mind return to him, let sight and vigour come again Let all his body be restored and firmly stand upon its feet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। एतु। प्राण:। आ। एतु। मन:। आ। एतु। चक्षु:। अथो इति। बलम्। शरीरम्। अस्य। सम्। विदाम्। तत्। पत्ऽभ्याम्। प्रति। तिष्ठतु। ३०.१३।
+आ। एतु। प्राणः। आ। एतु। मनः। आ। एतु। चक्षुः। अथो इति। बलम्। शरीरम्। अस्य। सम्। विदाम्। तत्। पत्ऽभ्याम्। प्रति। तिष्ठतु। ३०.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

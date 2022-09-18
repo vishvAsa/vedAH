@@ -21,10 +21,9 @@ explains *svaryà* as *suṣṭhu preraṇīya* (from *su* + root *ṛ*), and
 He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar fashioned. Like lowing kine in rapid flow descending the waters glided downward to the ocean.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहन्। अहिम्। पर्वते। शिश्रियाणम्। त्वष्टा। अस्मै। वज्रम्। स्वर्यम्। ततक्ष। वाश्रा:ऽइव। धेनव:। स्यन्दमाना:। अञ्ज:। समुद्रम्। अव। जग्मु:। आप:। ५.६।
+अहन्। अहिम्। पर्वते। शिश्रियाणम्। त्वष्टा। अस्मै। वज्रम्। स्वर्यम्। ततक्ष। वाश्राःऽइव। धेनवः। स्यन्दमानाः। अञ्जः। समुद्रम्। अव। जग्मुः। आपः। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

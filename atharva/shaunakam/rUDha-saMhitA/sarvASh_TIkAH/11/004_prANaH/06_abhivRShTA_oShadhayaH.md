@@ -18,7 +18,6 @@ Ppp. reads in **b** *avāciraṁ*, and in **c** *acīcarat*.
 Watered by Prana's rain the plants have raised their voices in accord: Thou hast prolonged our life, they say, and given fragrance to us all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभिऽवृष्टाः। ओषधयः। प्राणेन। सम्। अवादिरन्। आयुः। वै। नः। प्र। अतीतरः। सर्वाः। नः। सुरभीः। अकः। ६.६।

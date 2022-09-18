@@ -7,7 +7,6 @@ title = "०४६ सिनीवाली"
 46 (48). To Sinīvāli (goddess of the new moon).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सिनीवाली।  
@@ -18,8 +17,6 @@ title = "०४६ सिनीवाली"
 
 [Atharvan.-—tṛcam. mantroktadevatyam. ānuṣṭubham: 3. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 16, 73; Griffith, i. 347.
 
 A charm for offspring and prosperity
 </details>
+

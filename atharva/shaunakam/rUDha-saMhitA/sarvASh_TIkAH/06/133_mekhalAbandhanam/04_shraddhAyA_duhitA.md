@@ -23,10 +23,9 @@ really mixed *triṣṭubh* and *jagatī*; ⌊**a** is *jagatī* only by count;
 She hath become, Faith's daughter, sprung from Fervour, the sister of the world-creating Rishis; As such, O Girdle, give us thought and wisdom, give us religious zeal and mental vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रध्दाया:। दुहिता। तपस:। अधि। जाता। स्वसा। ऋषीणाम्। भूतऽकृताम्। बभूव। सा। न:। मेखले। मतिम्। आ। धेहि। मेधाम्। अथो इति। न:। धेहि। तप:। इन्द्रियम्। च। १३३.४।
+श्रध्दायाः। दुहिता। तपसः। अधि। जाता। स्वसा। ऋषीणाम्। भूतऽकृताम्। बभूव। सा। नः। मेखले। मतिम्। आ। धेहि। मेधाम्। अथो इति। नः। धेहि। तपः। इन्द्रियम्। च। १३३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

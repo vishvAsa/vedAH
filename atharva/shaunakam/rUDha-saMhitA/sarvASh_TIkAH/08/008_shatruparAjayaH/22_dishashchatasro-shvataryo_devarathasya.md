@@ -21,10 +21,9 @@ kiṁkarāḥ*. The verse is quoted in Kāuś. 15. 11 ⌊see introd.⌋.
 The mules of the Gods' car are heaven's four quarters; their hooves are sacred cakes, the air its body. Its sides are Heaven and Earth, its reins the Seasons, Voice is its hood, its grooms are sky's mid-regions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिश:। चतस्र:। अश्वतर्य:। देवऽरथस्य। पुरोडाशा:। शफा:। अन्तरिक्षम्। उध्दि:। द्यावापृथिवी इति। पक्षसी इति। ऋतव:। अभीशव:। अन्त:ऽदेशा:। किम्ऽकरा:। वाक्। परिऽरथ्यम्। ८.२२।
+दिशः। चतस्रः। अश्वतर्यः। देवऽरथस्य। पुरोडाशाः। शफाः। अन्तरिक्षम्। उध्दिः। द्यावापृथिवी इति। पक्षसी इति। ऋतवः। अभीशवः। अन्तःऽदेशाः। किम्ऽकराः। वाक्। परिऽरथ्यम्। ८.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

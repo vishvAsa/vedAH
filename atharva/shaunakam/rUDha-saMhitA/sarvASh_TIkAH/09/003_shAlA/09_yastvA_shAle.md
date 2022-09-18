@@ -21,10 +21,9 @@ tvā?) pr-*. The Anukr. pays no heed to the irregularity of the verse (9
 The man who takes thee as his own, and he who was thy builder,. House! Both these, O Lady of the Home, shall live to long-extended' years.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। शाले। प्रतिऽगृह्णाति। येन। च। असि। मिता। त्वम्। उभौ। मानस्य। पत्नि। तौ। जीवताम्। जरदष्टी इति जरत्ऽअष्टी। ३.९।
+यः। त्वा। शाले। प्रतिऽगृह्णाति। येन। च। असि। मिता। त्वम्। उभौ। मानस्य। पत्नि। तौ। जीवताम्। जरदष्टी इति जरत्ऽअष्टी। ३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

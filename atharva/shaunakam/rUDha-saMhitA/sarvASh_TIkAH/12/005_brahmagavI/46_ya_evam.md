@@ -20,7 +20,6 @@ thus.
 So shall it be with the Kshatriya who takes to himself the cow of the Braman who hath this knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। एवम्। विदुषः। ब्राह्मणस्य। क्षत्रियः। गाम्। आऽदत्ते। ९.८।

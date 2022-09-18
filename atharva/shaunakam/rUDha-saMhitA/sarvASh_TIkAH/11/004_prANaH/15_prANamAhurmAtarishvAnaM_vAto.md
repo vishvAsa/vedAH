@@ -19,7 +19,6 @@ Ppp. has at the end *samāhitāḥ*.
 The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and future, yea, on Prana everything depends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणम्। आहुः। मातरिश्वानम्। वातः। ह। प्राणः। उच्यते। प्राणे। ह। भूतम्। भव्यम्। च। प्राणे। सर्वम्। प्रतिऽस्थितम्। ६.१५।

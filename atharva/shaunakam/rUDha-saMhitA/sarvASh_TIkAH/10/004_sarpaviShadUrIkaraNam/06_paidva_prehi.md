@@ -17,7 +17,6 @@ snakes from the road by which we come.
 Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside the Serpents from the pathway whereupon we tread.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पैद्व। प्र। इहि। प्रथमः। अनु। त्वा। वयम्। आ। ईमसि। अहीन्। वि। अस्यतात्। पथः। येन। स्म। वयम्। आऽईमसि। ४.६।

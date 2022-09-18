@@ -21,10 +21,9 @@ ms.⌋; Ppp. substitutes for it *nāsyāt* (i.e. *āsyāt*), has *uta* for
 From both thy nostrils, from both eyes, from both thine ears, and from thy chin, Forth from thy brain and tongue I root Consumption seated in thy head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्षीभ्याम्। ते। नासिकाभ्याम्। कर्णाभ्याम्। छुबुकात्। अधि। यक्ष्मम्। शीर्षण्यम्। मस्तिष्कात्। जिह्वाया:। वि। वृहामि। ते। ३३.१।
+अक्षीभ्याम्। ते। नासिकाभ्याम्। कर्णाभ्याम्। छुबुकात्। अधि। यक्ष्मम्। शीर्षण्यम्। मस्तिष्कात्। जिह्वायाः। वि। वृहामि। ते। ३३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

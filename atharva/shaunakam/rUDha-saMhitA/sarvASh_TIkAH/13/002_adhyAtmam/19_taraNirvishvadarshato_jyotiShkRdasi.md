@@ -22,7 +22,6 @@ other texts: SV. (i. 636), VS. (xxxiii. 36), TS. (i. 4. 31¹), TA. (iii.
 Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the radiant realm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तरणिः। विश्वऽदर्शतः। ज्योतिःऽकृत्। असि। सूर्य। विश्वम्। आ। भासि। रोचन। २.१९।

@@ -28,10 +28,9 @@ catur-uttarāḥ* (referring to a plus of 4 over the normal 20).⌋
 The thundering of Prajapati in heaven is verily manifest to living creatures. Therefore I stand from right to left invested, and, O Prajapati, I cry, regard me! The man who hath this knowledge is regarded by living beings and the Lord of Creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। वीध्रे। स्तनयति। प्रजाऽपति:। एव। तत्। प्रऽजाभ्य:। प्रादु:। भवति। तस्मात्। प्राचीनऽउपवीत:। तिष्ठे। प्रजाऽपते। अनु। मा। बुध्यस्य। इति। अनु। एनम्। प्रऽजा:। अनु। प्रजाऽपति:। बुध्यते। य:। एवम्। वेद। १.२४।
+यत्। वीध्रे। स्तनयति। प्रजाऽपतिः। एव। तत्। प्रऽजाभ्यः। प्रादुः। भवति। तस्मात्। प्राचीनऽउपवीतः। तिष्ठे। प्रजाऽपते। अनु। मा। बुध्यस्य। इति। अनु। एनम्। प्रऽजाः। अनु। प्रजाऽपतिः। बुध्यते। यः। एवम्। वेद। १.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

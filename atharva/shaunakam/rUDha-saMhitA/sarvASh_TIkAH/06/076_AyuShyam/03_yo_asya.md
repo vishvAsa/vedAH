@@ -20,10 +20,9 @@ meeting death.'
 The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon the steep declivity that leads to Death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अस्य। सम्ऽइधम्। वेद। क्षत्रियेण। सम्ऽआहिताम्। न। अभिऽह्वारे। पदम्। नि। दधाति। स:। मृत्यवे। ७६.३।
+यः। अस्य। सम्ऽइधम्। वेद। क्षत्रियेण। सम्ऽआहिताम्। न। अभिऽह्वारे। पदम्। नि। दधाति। सः। मृत्यवे। ७६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

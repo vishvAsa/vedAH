@@ -7,7 +7,6 @@ title = "०२९ राष्ट्राभिवर्धनम्, सप�
 29. For a chief's success: with an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्राभिवर्धनम्, सपत्नक्षयणं च।  
@@ -18,8 +17,6 @@ title = "०२९ राष्ट्राभिवर्धनम्, सप�
 
 [Vasiṣṭha.—ṣaḍṛcam. abhīvartamaṇisūktam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 423; Griffith, i. 33.
 
 A charm to secure the supremacy of a dethroned King
 </details>
+

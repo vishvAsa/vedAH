@@ -21,10 +21,9 @@ te*.*
 I send thee back thy vital breath; I drive Consumption far from thee, May Agni here, most excellent, sustain our life on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। ते। प्राणम्। सुवामसि। परा। यक्ष्मम्। सुवामि। ते। आयु:। न:। विश्वत:। दधत्। अयम्। अग्नि:। वरेण्य:। ५५.६।
+आ। ते। प्राणम्। सुवामसि। परा। यक्ष्मम्। सुवामि। ते। आयुः। नः। विश्वतः। दधत्। अयम्। अग्निः। वरेण्यः। ५५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

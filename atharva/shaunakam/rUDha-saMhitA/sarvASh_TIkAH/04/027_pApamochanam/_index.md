@@ -7,7 +7,6 @@ title = "०२७ पापमोचनम्"
 27. Praise and prayer to the Maruts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
@@ -18,8 +17,6 @@ title = "०२७ पापमोचनम्"
 
 [Mṛgāra.—(see h. 23).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 168; Weber, xviii. 109.
 
 A hymn to the Maruts
 </details>
+

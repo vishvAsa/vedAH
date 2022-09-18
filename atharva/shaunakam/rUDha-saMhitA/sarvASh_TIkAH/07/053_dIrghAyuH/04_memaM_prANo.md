@@ -32,10 +32,9 @@ the meter conjecturally by adding *mó vyānó*.
 Let not the vital breath he draws forsake him, let not his expiration part and leave him. I give him over to the Seven Rishis: let them conduct him to old age in safety.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। इमम्। प्राण:। हासीत्। मो इति। अपान:। अवऽहाय। परा। गात्। सप्तर्षिऽभ्य:। एनम्। परि। ददामि। ते। एनम्। स्वस्ति। जरसे। वहन्तु। ५५.४।
+मा। इमम्। प्राणः। हासीत्। मो इति। अपानः। अवऽहाय। परा। गात्। सप्तर्षिऽभ्यः। एनम्। परि। ददामि। ते। एनम्। स्वस्ति। जरसे। वहन्तु। ५५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

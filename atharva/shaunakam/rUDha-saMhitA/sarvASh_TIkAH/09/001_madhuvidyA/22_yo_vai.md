@@ -26,10 +26,9 @@ for *kaś-* and *sapta madhumatīm* for *madhumān bhavati;* then follows
 Whoever knows the Whip's seven kinds of honey, becomes himself a man endowed with sweetness. Brahman and King, the draught-ox and the milch-cow, barley and rice, and honey is the seventh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। कशाया:। सप्त। मधूनि। वेद। मधुऽमान्। भवति। ब्राह्मण:। च। राजा। च। धेनु:। च। अनड्वान्। च। व्रीहि:। च। यव:। च। मधु। सप्तमम्। १.२२।
+यः। वै। कशायाः। सप्त। मधूनि। वेद। मधुऽमान्। भवति। ब्राह्मणः। च। राजा। च। धेनुः। च। अनड्वान्। च। व्रीहिः। च। यवः। च। मधु। सप्तमम्। १.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

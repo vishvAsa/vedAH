@@ -22,7 +22,6 @@ in **d** *gāvo ‘śvāṣ puruṣāṅd aj-*.
 Four times, eight times be homage paid to Bhava, yea, Lord of Beasts, ten times be reverence paid thee! Thine are these animals, five several classes, oxen, and goats and sheep, and men, and horses
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुः। नमः। अष्टऽकृत्वः। भवाय। दश। कृत्वः। पशुऽपते। नमः। ते। तव। इमे। पञ्च। पशवः। विऽभक्ताः। गावः। अश्वाः। पुरुषा। अजऽअवयः। २.९।

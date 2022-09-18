@@ -31,7 +31,6 @@ of **d** casts suspicion on the integrity of its prior part.⌋
 Up and begone! What wish hath brought thee hither from thine own house? Thy mightier, I conjure thee. Vain is the hope, O Nirriti, that brought thee. Fly off, Malignity; stay here no longer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। इतः। किम्। इच्छन्ती। इदम्। आ। अगाः। अहम्। त्वा। ईडे। अभिऽभूः। स्वात्। गृहात्। शून्यऽएषी। निःऽऋते। या। आऽजगन्ध। उत्। तिष्ठ। अराते। प्र। पत। मा। इह। रंस्थाः। १.१९।

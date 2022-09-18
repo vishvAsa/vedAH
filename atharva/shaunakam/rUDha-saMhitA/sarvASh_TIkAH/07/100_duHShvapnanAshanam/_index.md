@@ -7,7 +7,6 @@ title = "१०० दुःष्वप्ननाशनम्"
 100 (105). Against bad dreams.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
@@ -19,8 +18,6 @@ title = "१०० दुःष्वप्ननाशनम्"
 [Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Used by Kāuś. (46. 11) in a rite against bad dreamin
 ### Translations
 Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 </details>
+

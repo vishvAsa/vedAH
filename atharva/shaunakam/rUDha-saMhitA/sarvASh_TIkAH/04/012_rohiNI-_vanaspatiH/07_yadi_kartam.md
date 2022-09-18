@@ -27,10 +27,9 @@ comm. makes the "Atharvanic spell" the subject in **d**.⌋
 If he be torn and shattered, having fallen into a pit, or a cast stone have struck him, Let the skilled leech join limb with limb, as 'twere the portions of a car.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। कर्तम्। पतित्वा। सम्ऽशश्रे। यदि। वा। अश्मा। प्रऽहृत:। जघान। ऋभु:। रथस्यऽइव। अङ्गानि। सम्। दधत्। परुषा। परु:। १२.७।
+यदि। कर्तम्। पतित्वा। सम्ऽशश्रे। यदि। वा। अश्मा। प्रऽहृतः। जघान। ऋभुः। रथस्यऽइव। अङ्गानि। सम्। दधत्। परुषा। परुः। १२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

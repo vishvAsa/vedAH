@@ -17,7 +17,6 @@ thinking me barren, let him be bound in the fetters of death.
 Enraged against her owner roams the Cow when she hath been impregned. He deemed me fruitless is her thought; let him be bound in, snares of Death!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रऽवीयमाना। चरति। क्रुध्दा। गोऽपतये। वशा। वेहतम्। मा। मन्यमानः। मृत्योः। पाशेषु। बध्यताम्। ४.३७।

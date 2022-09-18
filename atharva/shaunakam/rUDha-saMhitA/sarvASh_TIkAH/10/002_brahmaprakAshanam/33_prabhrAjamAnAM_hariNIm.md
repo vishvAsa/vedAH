@@ -27,7 +27,6 @@ norm of 30).—Here ends the first *anuvaka*, with 2 hymns and 65 verses.⌋
 Brahma hath passed within the fort, the golden castle; ne'er subdued, Bright with excessive brilliancy, compassed with glory round about.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रऽभ्राजमानाम्। हरिणीम्। यशसा। सम्ऽपरिवृताम्। पुरम्। ह‍िरण्ययीम्। ब्रह्म। आ। विवेश। अपराऽजिताम्। २.३३।

@@ -22,7 +22,6 @@ with RV. in *glāpayanti* and *viśvavidam*.
 Bearing three mothers and three fathers, single he stood erect: they never made him weary. On yonder heaven's high ridge they speak together in speech not known to all, themselves all-knowing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तिस्रः। मातृः। त्रीन्। पितृन्। बिभ्रत्। एकः। ऊर्ध्वः। तस्थौ। न। ईम्। अव। ग्लपयन्त। मन्त्रयन्ते। दिवः। अमुष्य। पृष्ठे। विश्वऽविदः। वाचम्। अविश्वऽविन्नाम्। १४.१०।

@@ -7,7 +7,6 @@ title = "०१६ अक्षिरोगभैषजम्"
 16. To various plants (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अक्षिरोगभैषजम्।  
@@ -19,8 +18,6 @@ title = "०१६ अक्षिरोगभैषजम्"
 
 [śāunaka (anena hinahidevam astāut).—mantroktadevatyam uta cāndramasam. ānuṣṭubham. caturṛcam. 1. nicṛt 3-p. gāyatrī; 3. bṛhatīgarbhā kakummaty anuṣṭubh; 4. 3-p. pratiṣṭhā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -39,3 +36,4 @@ Translated: Florenz, 268 or 20; Griffith, i. 253 (see his notes); Bloomfield, 30
 
 A medical charm
 </details>
+

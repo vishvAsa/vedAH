@@ -22,10 +22,9 @@ wanting in our text over the *ya* of *dūṣáyanti* in **b**.
 Those who destroy, as is their wont, the simple, and with their evil natures harm the righteous, May Soma give them over to the serpent, or to the lap of Nirriti consign them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पाकऽशंसम्। विऽहरन्ते। एवै:। ये। वा। भद्रम्। दूषयन्ति। स्वधाभि:। अहये। वा। तान्। प्रऽददातु। सोम:। आ। वा। दधातु। नि:ऽऋते:। उपऽस्थे। ४.९।
+ये। पाकऽशंसम्। विऽहरन्ते। एवैः। ये। वा। भद्रम्। दूषयन्ति। स्वधाभिः। अहये। वा। तान्। प्रऽददातु। सोमः। आ। वा। दधातु। निःऽऋतेः। उपऽस्थे। ४.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

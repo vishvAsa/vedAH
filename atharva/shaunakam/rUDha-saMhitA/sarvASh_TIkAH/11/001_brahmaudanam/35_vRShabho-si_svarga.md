@@ -24,7 +24,6 @@ falls under rule iv. 58 of the AV. Prāt.
 Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest in the world of pious men: there is the place prepared for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वृषभः। असि। स्वःऽगः। ऋषीन्। आर्षेयान्। गच्छ। सुऽकृताम्। लोके। सीद। तत्र। नौ। संस्कृतम्। १.३५।

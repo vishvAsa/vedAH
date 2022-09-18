@@ -19,7 +19,6 @@ each.
 Let thy heart wither for my love and let thy month be dry for me. Parch and dry up with longing, go with lips that love of me hath dried.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुष्यतु। मयि। ते। हृदयम्। अथो इति। शुष्यतु। आस्यम्। अथो इति। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.२।

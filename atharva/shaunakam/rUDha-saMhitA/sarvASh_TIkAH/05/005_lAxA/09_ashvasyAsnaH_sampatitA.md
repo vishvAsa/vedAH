@@ -32,10 +32,9 @@ says *dviṣaḍbhir ādyaḥ* (i.e. twice six short of 60 verses).
 Issuing from the horse's blood away she glided to the trees. Become a winged water-brook, and come to us, Arundhati!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वस्य। अस्न:। सम्ऽपतिता। सा। वृक्षान्। अभि। सिस्यदे। सरा। पतत्रिणी। भूत्वा। सा। न:। आ। इहि। अरुन्धति। ५.९।
+अश्वस्य। अस्नः। सम्ऽपतिता। सा। वृक्षान्। अभि। सिस्यदे। सरा। पतत्रिणी। भूत्वा। सा। नः। आ। इहि। अरुन्धति। ५.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

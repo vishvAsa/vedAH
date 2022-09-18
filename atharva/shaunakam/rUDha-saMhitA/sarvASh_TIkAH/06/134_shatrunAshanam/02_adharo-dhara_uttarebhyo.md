@@ -19,10 +19,9 @@ collation-book.⌋
 Down, down beneath the conquerors, let him not rise, concealed in earth, but lie down-smitten with the bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधर:ऽअधर:। उत्तरेभ्य:। गूढ:। पृथिव्या:। मा। उत्। सृपत्। वज्रेण। अवऽहत:। शयाम्। १३४.२।
+अधरःऽअधरः। उत्तरेभ्यः। गूढः। पृथिव्याः। मा। उत्। सृपत्। वज्रेण। अवऽहतः। शयाम्। १३४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ that of RV. ⌊vs. 27⌋ gives *abhí: ā́: agāt;* both yield the same
 She, Lady of all treasures, hath come hither, yearning in spirit for her calf, and lowing. May this Cow yield her milk for both the Asvins, and may she prosper to our high advantage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हिङ्ऽकृण्वती। वसुऽपत्नी। वसूनाम्। वत्सम्। इच्छन्ती। मनसा। अभिऽआगात्। दुहाम्। अश्विऽभ्याम्। पयः। अघ्न्या। इयम्। सा। वर्धताम्। महते। सौभगाय। १५.५।

@@ -7,7 +7,6 @@ title = "०३० दीघायुष्यम्"
 30. To lengthen out some one's life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीघायुष्यम्।  
@@ -18,8 +17,6 @@ title = "०३० दीघायुष्यम्"
 
 [Unmocana (āyuṣyakāmaḥ).—saptadaśakam. ānuṣṭubham: 1. pathyāpan̄kti; 9. bhurij; 12. 4-p.virāḍ jagatī; 14. virāṭ prastārapan̄kti; 17. 3-av. 6-p. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 441; Ludwig, p. 494; Griffith, i. 238; Bloomfield, 59, 455;
 
 A charm to restore life and health
 </details>
+

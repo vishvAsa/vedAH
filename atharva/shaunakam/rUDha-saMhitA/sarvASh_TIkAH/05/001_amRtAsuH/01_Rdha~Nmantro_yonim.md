@@ -25,10 +25,9 @@ taking no notice of the deficiency.
 He who with special plans and deathless spirit, waxing, well- born, hath come unto his birth-place, As he who shines upholds the days, thus Trita, of pure life, bears the Three as their supporter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋधक्ऽमन्त्र:। योनिम्। य:। आऽबभूव। अमृतऽअसु:। वर्धमान:। सुऽजन्मा। अदब्धऽअसु:। भ्राजमान:। अहाऽइव। त्रित:। धर्ता। दाधार। त्रीणि। १.१।
+ऋधक्ऽमन्त्रः। योनिम्। यः। आऽबभूव। अमृतऽअसुः। वर्धमानः। सुऽजन्मा। अदब्धऽअसुः। भ्राजमानः। अहाऽइव। त्रितः। धर्ता। दाधार। त्रीणि। १.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

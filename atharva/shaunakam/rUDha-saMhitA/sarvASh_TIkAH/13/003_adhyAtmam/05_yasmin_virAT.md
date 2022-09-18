@@ -23,7 +23,6 @@ the seers' there. The verse, of very irregular meter (12 + 12: 15: 44 =
 In whom Viraj, Prajapati, Parameshthin, Agni Vaisvanara abide with Pankti, He who hath taken to himself the breathing of the Supreme, the vigour of the Highest, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। विऽराट्। परमेऽस्थी। प्रजाऽपतिः। अग्निः। वैश्वानरः। सह। पङ्क्त्या। श्रितः। यः। परस्य। प्राणम्। परमस्य। तेजः। आऽददे। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.५।

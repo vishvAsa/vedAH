@@ -19,7 +19,6 @@ Ppp. reads in **c** *balāsam* for *yakṣmaṁ te* \[cf. our 8 c and under
 Disease that creeps about the thighs and, after, reaches both the groins, Consumption from thine inward parts we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ऊरू इति। अनुऽसर्पति। अथो इति। एति। गवीनिके इति। यक्ष्मम्। ते। अन्तः। अङ्गेभ्यः। बहिः। निः। मन्त्रयामहे। १३.७।

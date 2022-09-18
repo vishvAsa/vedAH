@@ -23,10 +23,9 @@ questionable.
 Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy hair, thy face, All this we drive away and banish with our speech. May Savitar the God graciously further thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। आत्मनि। तन्वाम्। घोरम्। अस्ति। यत्। वा। केशेषु। प्रतिऽचक्षणे। वा। सर्वम्। तत्। वाचा। अप। हन्म:। वयम्। देव:। त्वा। सविता। सूदयतु।
+यत्। ते। आत्मनि। तन्वाम्। घोरम्। अस्ति। यत्। वा। केशेषु। प्रतिऽचक्षणे। वा। सर्वम्। तत्। वाचा। अप। हन्मः। वयम्। देवः। त्वा। सविता। सूदयतु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

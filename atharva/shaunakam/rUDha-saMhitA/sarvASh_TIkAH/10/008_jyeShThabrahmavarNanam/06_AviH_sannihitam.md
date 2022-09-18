@@ -18,7 +18,6 @@ all, \[there is\] established what stirs, what breathes.
 Though manifest, it lies concealed in the vast place they call the old: Therein is firmly stationed all the moving, breathing universe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आविः। सत्। निऽहितम्। गुहा। जरत्। नाम। महत्। पदम्। तत्र। इदम्। सर्वम्‌। आर्पितम्। एजत्। प्राणत्। प्रतिऽस्थितम्। ८.६।

@@ -7,7 +7,6 @@ title = "०१८ अपामार्गः"
 18. Against witchcraft: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपामार्गः।  
@@ -18,8 +17,6 @@ title = "०१८ अपामार्गः"
 
 [śukra.—(etc.: see under hymn 17). 6. bṛhatīgarbhā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 25, 131; Griffith, i. 156; Bloomfield, 70, 396; Weber, xviii.
 
 A counter-charm against the incantations of enemies
 </details>
+

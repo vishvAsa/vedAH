@@ -7,7 +7,6 @@ title = "०१२ सर्प-विष-निवारणम्"
 12. Against the poison of snakes.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्प-विष-निवारणम्।  
@@ -18,8 +17,6 @@ title = "०१२ सर्प-विष-निवारणम्"
 
 [Garutman.—takṣakadāivatam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 501; Florenz, 262 or 14; Griffith, i. 250; Bloomfield, 28
 
 A charm against venomous serpents
 </details>
+

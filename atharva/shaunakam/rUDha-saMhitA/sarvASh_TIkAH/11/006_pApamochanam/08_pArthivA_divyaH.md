@@ -21,7 +21,6 @@ note⌋.
 All creatures both of heaven and earth, wild beasts and sylvan animals, And winged birds of air we call: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पार्थिवाः। दिव्याः। पशवः। आरण्याः। उत। ये। मृगाः। शकुन्तान्। पक्षिणः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.८।

@@ -19,10 +19,9 @@ Ppp. reads *paspṛśāte* at end of **b**.
 The prudent finds it easy to distinguish the true and false: their words oppose each other. Of these two that which is the true and honest Soma protects, and brings the false to nothing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽविज्ञानम्। चिकितुषे। जनाय। सत्। च। असत्। च। वचसी  इति। पस्पृधाते इति। तयो:। यत्। सत्यम्। यतरत्। ऋजीय:। तत्। इत्। सोम:। अवति। हन्ति। असत्। ४.१२।
+सुऽविज्ञानम्। चिकितुषे। जनाय। सत्। च। असत्। च। वचसी  इति। पस्पृधाते इति। तयोः। यत्। सत्यम्। यतरत्। ऋजीयः। तत्। इत्। सोमः। अवति। हन्ति। असत्। ४.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

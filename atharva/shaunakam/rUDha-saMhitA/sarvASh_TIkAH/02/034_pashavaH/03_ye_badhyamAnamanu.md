@@ -31,10 +31,9 @@ the other animals, comrades of the victim, to be aimed at in the verse.
 Those who are looking, deep in meditation, on the bound ani- mal with eye and spirit To them, the first, may Agni, God, give freedom, rejoicing in his creatures, Visvakarman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। बध्यमानम्। अनु। दीध्याना:। अनुऽऐक्षन्त। मनसा। चक्षुषा। च। अग्नि:। तान्। अग्रे। प्र। मुमोक्तु। देव:। विश्वऽकर्मा। प्रऽजया। सम्ऽरराण:। ३४.३।
+ये। बध्यमानम्। अनु। दीध्यानाः। अनुऽऐक्षन्त। मनसा। चक्षुषा। च। अग्निः। तान्। अग्रे। प्र। मुमोक्तु। देवः। विश्वऽकर्मा। प्रऽजया। सम्ऽरराणः। ३४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

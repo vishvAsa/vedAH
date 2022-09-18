@@ -20,7 +20,6 @@ gacchantāu;* Henry renders "that watch one another." ⌊He would reject
 I verily have stirred them up like oxen resting after toil. Like two loud-snarling curs, or like two wolves who watch to make their spring:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। एनौ। उत्। अतिष्ठिपम्। गावौ। श्रान्तसदौऽइव। कुर्कुरौऽइव। कूजन्तौ। उत्ऽअवन्तौ। वृकौऽइव। १००.२।

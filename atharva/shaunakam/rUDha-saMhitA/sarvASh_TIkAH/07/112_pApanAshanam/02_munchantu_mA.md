@@ -19,7 +19,6 @@ This verse is a repetition of vi. 96. 2.
 Release me from the curse's bond and plague that comes from Varuna; Free me from Yama's fetter and from every sin against the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मुञ्चन्तु। मा। शपथ्यात्। अथो इति। वरुण्यात्। उत। अथो इति। यमस्‍य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।

@@ -21,10 +21,9 @@ the *n̄* of *nyàn̄*, and several (P.M.W.H.) read *nyàn̄g;* P.M.W. have
 And thou thyself who makest all men yellow, consuming them with burning heat like Agni, Thou, Fever! then be weak and ineffective. Pass hence into the realms below or vanish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। य:। विश्वान्। हरितान्। कृणोषि। उत्ऽशोचयन्। अग्नि:ऽइव। अभिऽदुन्वन्। अध। हि। तक्मन्। अरस:। हि। भूया:। अध। न्यङ्। अधराङ्। वा। परा। इहि। २२.२।
+अयम्। यः। विश्वान्। हरितान्। कृणोषि। उत्ऽशोचयन्। अग्निःऽइव। अभिऽदुन्वन्। अध। हि। तक्मन्। अरसः। हि। भूयाः। अध। न्यङ्। अधराङ्। वा। परा। इहि। २२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

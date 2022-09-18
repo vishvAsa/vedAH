@@ -24,10 +24,9 @@ is 12 + 8, the second having an added pāda of 11 syllables.
 Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। सहस्रम्। आ। न:। दृशे। कवीनाम्। मति:। ज्योति:। विऽधर्मणि। २३.१।
+अयम्। सहस्रम्। आ। नः। दृशे। कवीनाम्। मतिः। ज्योतिः। विऽधर्मणि। २३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

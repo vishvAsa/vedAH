@@ -16,7 +16,6 @@ title = "६६ वज्रेण शतपर्वणा"
 With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वज्रेण। शतऽपर्वणा। तीक्ष्णेन। क्षुरऽभृष्टिना। ११.५।

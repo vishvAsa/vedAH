@@ -21,10 +21,9 @@ into two verses, the hymn would conform to the norm of the second book
 The strong-winged bird discovered thee, the boar unearthed thee with his snout. Refute mine adversary's speech. Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽपर्ण:। त्वा। अनु। अविन्दत्। सूकर:। त्वा। अखनत्। नसा। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.२।
+सुऽपर्णः। त्वा। अनु। अविन्दत्। सूकरः। त्वा। अखनत्। नसा। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

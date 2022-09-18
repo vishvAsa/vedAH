@@ -24,10 +24,9 @@ mss., see p. cxvi.
 The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream health and wealth to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। न:। देवी:। अभिष्टये। आप:। भवन्तु। पीतये। शम्। यो:। अभि। स्रवन्तु। न:।
+शम्। नः। देवीः। अभिष्टये। आपः। भवन्तु। पीतये। शम्। योः। अभि। स्रवन्तु। नः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

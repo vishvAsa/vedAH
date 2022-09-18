@@ -18,7 +18,6 @@ Ppp. reads, after *bāhū, yāu te aṅsāu dūhanaṁ yā ca* etc.
 Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यौ। ते। बाहू इति। ये  इति। दोषणी इति। यौ। अंसौ। या। च। ते। ककुत्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१९।

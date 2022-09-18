@@ -28,7 +28,6 @@ awkward *ca*, his note, p. 139.⌋
 May we adore thee, Sacrifice that yieldeth an everlasting son, cow, home of treasures, Together with increasing store of riches, long life and immor- tality of children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यज्ञम्। दुहानम्। सदम्। इत्। प्रऽपीनम्। पुमांसम्। धेनुम्। सदनम्। रयीणाम्। प्रजाऽअमृतत्वम्। उत। दीर्घम्। आयुः। रायः। च। पोषैः। उप। त्वा। सदेम। १.३४।

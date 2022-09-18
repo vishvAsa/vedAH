@@ -27,10 +27,9 @@ in **c** (also in 9 **c**).
 With those dread hundred iron spears, the darts of Indra, let it pierce. The Blyxa-fed Gandharvas, those who bring no sacrificial gift.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भीमा:। इन्द्रस्य। हेतय:। शतम्। ऋष्टी:। अयस्मयी:। ताभि:। हवि:ऽअदान्। गन्धर्वान्। अवकाऽअदान्। वि। ऋषतु। ३७.८।
+भीमाः। इन्द्रस्य। हेतयः। शतम्। ऋष्टीः। अयस्मयीः। ताभिः। हविःऽअदान्। गन्धर्वान्। अवकाऽअदान्। वि। ऋषतु। ३७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

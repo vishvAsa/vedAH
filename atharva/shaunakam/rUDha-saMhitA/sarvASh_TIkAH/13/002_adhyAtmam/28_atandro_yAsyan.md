@@ -22,7 +22,6 @@ translates the vs., *Ved. Stud.* ii. 76.⌋
 When he, unwearied, fain to go, hath mounted his bays, he makes two colours, brightly shining. Rising with banners, conquering the regions, thou sendest light through all the floods, Aditya.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अतन्द्रः। यास्यन्। हरितः। यत्। आऽअस्थात्। द्वे  इति। रूपे इति। कृणुते। रोचमानः। केतुऽमान्। उत्ऽयन्। सहमानः। रजांसि। विश्वाः। आद‍ित्यः। प्रऽवतः। वि। भासि। २.२८।

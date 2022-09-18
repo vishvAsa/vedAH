@@ -18,10 +18,9 @@ verses; but others with *varcas* and *tejas* as the gifts sought.
 Ear art thou, give me hearing! Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रोत्रम्। असि। श्रोत्रम्। मे। दा:। स्वाहा। १७.५।
+श्रोत्रम्। असि। श्रोत्रम्। मे। दाः। स्वाहा। १७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

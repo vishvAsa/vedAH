@@ -18,10 +18,9 @@ title = "०३ अपो देवीरुप"
 I call the Waters, Goddesses, hitherward where our cattle drink: The streams must share the sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपः। देवीः। उप। ह्वये। यत्र। गाव:। पिबन्ति। नः। सिन्धुऽभ्यः। कर्त्वम्। हविः।
+अपः। देवीः। उप। ह्वये। यत्र। गावः। पिबन्ति। नः। सिन्धुऽभ्यः। कर्त्वम्। हविः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,10 +20,9 @@ VS. viii. 21 et al., TS. i. 4. 44³ et al., MS. i. 3. 38. Ppp. reads
 Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and pursue it!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वषट्। हुतेभ्य:। वषट्। अहुतेभ्य:। देवा:। गातुऽविद:। गातुम्। वित्त्वा। गातुम्। इत। १०२.७।
+वषट्। हुतेभ्यः। वषट्। अहुतेभ्यः। देवाः। गातुऽविदः। गातुम्। वित्त्वा। गातुम्। इत। १०२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

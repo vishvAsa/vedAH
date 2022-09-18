@@ -24,10 +24,9 @@ render it 'blinding.' ⌊Ppp. has for a *śīrṣahatyām upahatya*, and for
 Malady that affects the head, eye-weakness, bodily defect-- All this let Kushtha heal and cure: aye, godlike is the vigorous power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शीर्षऽआमयम्। उपऽहत्याम्। अक्ष्यो:। तन्व:। रप:। कुष्ठ:। तत्। सर्वम्। नि:। करत्। दैवम्। समह। वृष्ण्यम्। ४.१०।
+शीर्षऽआमयम्। उपऽहत्याम्। अक्ष्योः। तन्वः। रपः। कुष्ठः। तत्। सर्वम्। निः। करत्। दैवम्। समह। वृष्ण्यम्। ४.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

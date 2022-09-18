@@ -21,10 +21,9 @@ the end *aṅśava eva te ‘nūpyante*.
 The grains of rice and barley that are selected are just filaments of the Soma plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। व्रीहय:। यवा:। नि:ऽउप्यन्ते। अंशव:। एव। ते। ६.१४।
+ये। व्रीहयः। यवाः। निःऽउप्यन्ते। अंशवः। एव। ते। ६.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ the mss.
 Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, may ye both accept this sacrifice of ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। लपन्तु। यातुधाना:। अत्त्रिण:। ये। किमीदिन:। अथ। इदम्। अग्ने:। न:। हवि:। इन्द्र:। च। प्रति। हर्यतम्।
+वि। लपन्तु। यातुधानाः। अत्त्रिणः। ये। किमीदिनः। अथ। इदम्। अग्नेः। नः। हविः। इन्द्रः। च। प्रति। हर्यतम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

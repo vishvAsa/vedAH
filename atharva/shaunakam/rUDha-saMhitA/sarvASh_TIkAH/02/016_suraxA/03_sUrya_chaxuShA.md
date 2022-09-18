@@ -21,7 +21,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्य। चक्षुषा। मा। पाहि। स्वाहा। १६.३।

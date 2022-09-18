@@ -25,10 +25,9 @@ budhyasva.*
 Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bestowing. Come to me, Manyu, wielder of the thunder: bethink thee of thy friend, and slay the Dasyus.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। ते। अस्मि। उप। न:। आ। इहि। अर्वाङ्। प्रतीचीन:। सहुरे। विश्वऽदावन्। मन्यो इति। वज्रिन्। अभि। न:। आ। ववृत्स्व। हनाव। दस्यून्। उत। बोधि। आपे:। ३२.६।
+अयम्। ते। अस्मि। उप। नः। आ। इहि। अर्वाङ्। प्रतीचीनः। सहुरे। विश्वऽदावन्। मन्यो इति। वज्रिन्। अभि। नः। आ। ववृत्स्व। हनाव। दस्यून्। उत। बोधि। आपेः। ३२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

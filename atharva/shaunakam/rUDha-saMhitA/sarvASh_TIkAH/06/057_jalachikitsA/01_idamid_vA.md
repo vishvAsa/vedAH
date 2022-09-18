@@ -21,7 +21,6 @@ used *tripurasaṁhṛtisamaye*.
 This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the arrow off one-shafted, with a hundred tips.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। इत्। वै। ऊं इति। भेषजम्। इदम्। रुद्रस्य। भेषजम्। येन। इषुम्। एकऽतेजनाम्। शतऽशल्याम्। अपऽब्रवत्। ५७.१।

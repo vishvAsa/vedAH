@@ -20,10 +20,9 @@ nomenclature affords no ⌊simple⌋ name for one of 23 syllables.
 Verily when a host looks at his guests he looks at the place of sacrifice to the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। वै। अतिथिऽपति:। अतिथीन्। प्रतिऽपश्यति। देवऽयजनम्। प्र। ईक्षते। ६.३।
+यत्। वै। अतिथिऽपतिः। अतिथीन्। प्रतिऽपश्यति। देवऽयजनम्। प्र। ईक्षते। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

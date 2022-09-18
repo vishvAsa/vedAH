@@ -19,10 +19,9 @@ The comm., without explaining why, glosses *sūrí* with *abhijña*
 A prince art thou, giver of speech, thou art our bodies' strong defence. Reach thy superior, thou; surpass thine equal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सूरि:। असि। वर्च:ऽधा:। असि। तनूऽपान:। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.४।
+सूरिः। असि। वर्चःऽधाः। असि। तनूऽपानः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

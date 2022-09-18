@@ -17,10 +17,9 @@ honeyed speech have I spoken in the god-invocations of the gods.
 We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoken, sweet as honey is, at invocations of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सरस्वतीम्। अनुऽमतिम्। भगम्। यन्त:। हवामहे। वाचम्। जुष्टाम्। मधुऽमतीम्। अवादिषम्। देवानाम्। देवऽहूतिषु। ७.४।
+सरस्वतीम्। अनुऽमतिम्। भगम्। यन्तः। हवामहे। वाचम्। जुष्टाम्। मधुऽमतीम्। अवादिषम्। देवानाम्। देवऽहूतिषु। ७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

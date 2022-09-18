@@ -22,7 +22,6 @@ unavoidable.
 Ye youthful maidens, ill-disposed, and all ye ancient woman here, Give all your brilliance to the bride, then to your several homes depart!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। दुःऽहार्दः। युवतयः। याः। च। इह। जरतीः। अपि। वर्चः। नु। अस्यै। सम्। दत्त। अथ। अस्तम्। विऽपरेतन। २.२९।

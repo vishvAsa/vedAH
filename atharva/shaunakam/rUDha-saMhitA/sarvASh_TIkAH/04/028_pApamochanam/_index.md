@@ -7,7 +7,6 @@ title = "०२८ पापमोचनम्"
 28. Praise and prayer to Bhava and śarva.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
@@ -18,8 +17,6 @@ title = "०२८ पापमोचनम्"
 
 [Mṛgāra.—(see h. 23). 1. dvyatijāgatagarbhā bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, OST. iv.2 332; Griffith, i. 169; Bloomfield, 158, 406; Weber, 
 
 A hymn to Bhava and Sarva
 </details>
+

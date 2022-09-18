@@ -25,10 +25,9 @@ apparently the thunder.
 Victorious in the battle, loudly roaring, seizing what may be seized, look all around thee. Utter, O Drum, thy heavenly voice with triumph. Bring, as a priest, our enemies' possessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽजयन्। पृतना:। ऊर्ध्वऽमायु:। गृह्या:। गृह्णान:। बहुधा। वि। चक्ष्व। दैवीम्। वाचम्। दुन्दुभे। आ। गुरस्व। वेधा:। शत्रूणाम्। उप। भरस्व। वेद:। २०.४।
+सम्ऽजयन्। पृतनाः। ऊर्ध्वऽमायुः। गृह्याः। गृह्णानः। बहुधा। वि। चक्ष्व। दैवीम्। वाचम्। दुन्दुभे। आ। गुरस्व। वेधाः। शत्रूणाम्। उप। भरस्व। वेदः। २०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

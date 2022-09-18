@@ -22,10 +22,9 @@ for *-rāis* in **d**. The first half-verse is found again below as xix.
 This Agni hath declared, Soma declared it, Brihaspati, and Savitar, and Indra. So may these Gods whom I have set before me oppose with saving charms and banish witchcraft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। अग्नि:। आह। तत्। ऊं इति। सोम:। आह। बृहस्पति:। सविता। तत्। इन्द्र:। ते। मे। देवा:। पुर:ऽहिता:। प्रतीची:। कृत्या:। प्रतिऽसरै:। अजन्तु। ५.५।
+तत्। अग्निः। आह। तत्। ऊं इति। सोमः। आह। बृहस्पतिः। सविता। तत्। इन्द्रः। ते। मे। देवाः। पुरःऽहिताः। प्रतीचीः। कृत्याः। प्रतिऽसरैः। अजन्तु। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

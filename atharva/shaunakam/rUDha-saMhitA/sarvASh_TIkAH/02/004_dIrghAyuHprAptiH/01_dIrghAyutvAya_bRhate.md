@@ -25,10 +25,9 @@ the same manner as above, to i. 16. 3.
 For length of life, for mighty joy, uninjured, ever showing strength. We wear Vishkandha's antidote, the Amulet of Jangida.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दीर्घायुऽत्वाय। बृहते। रणाय। अरिष्यन्त:। दक्षमाणा:। सदा। एव। मणिम्। विस्कन्धऽदूषणम्। जङ्गिडम्। बिभृम:। वयम्। ४.१।
+दीर्घायुऽत्वाय। बृहते। रणाय। अरिष्यन्तः। दक्षमाणाः। सदा। एव। मणिम्। विस्कन्धऽदूषणम्। जङ्गिडम्। बिभृमः। वयम्। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

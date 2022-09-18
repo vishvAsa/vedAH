@@ -17,7 +17,6 @@ them yield etc. etc.
 So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यौ। ते। ऊरू इति। अष्ठीवन्तौ। ये इति। श्रोणी इति। या। च। ते। भसत्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२१।

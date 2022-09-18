@@ -20,10 +20,9 @@ liquid. With **a, b** compare RV. ii. 23. 12.
 If any King who deems himself mighty would eat a Brahman up, Rent and disrupted is that realm wherein a Brahman is oppres- sed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उग्र:। राजा। मन्यमान:। ब्राह्मणम्। य:। जिघत्सति। परा। तत्। सिच्यते। राष्ट्रम्। ब्राह्मण:। यत्र। जीयते। १९.६।
+उग्रः। राजा। मन्यमानः। ब्राह्मणम्। यः। जिघत्सति। परा। तत्। सिच्यते। राष्ट्रम्। ब्राह्मणः। यत्र। जीयते। १९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

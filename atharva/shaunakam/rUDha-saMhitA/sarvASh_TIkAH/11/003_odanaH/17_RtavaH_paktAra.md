@@ -16,7 +16,6 @@ title = "१७ ऋतवः पक्तार"
 The Seasons are the dressers, the Groups of Seasons kindle the fire.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतवः। पक्तारः। आर्तवाः। सम्। इन्धते। ३.१७।

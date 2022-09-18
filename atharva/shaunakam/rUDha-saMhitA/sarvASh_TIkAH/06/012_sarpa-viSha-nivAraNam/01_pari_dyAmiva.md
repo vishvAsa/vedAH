@@ -26,10 +26,9 @@ Anukr. does not heed the redundant syllable in **c**. ⌊Ppp. combines
 I, As the Sun goes round the heaven, have travelled round the Serpents' race. I ward thy poison off, as Night parts all else living from the Sun.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। द्याम्ऽइव। सूर्य:। अहीनाम्। जनिम। अगमम्। रात्री। जगत्ऽइव। अन्यत्। हंसात्। तेन। ते। वारये। विषम्। १२.१।
+परि। द्याम्ऽइव। सूर्यः। अहीनाम्। जनिम। अगमम्। रात्री। जगत्ऽइव। अन्यत्। हंसात्। तेन। ते। वारये। विषम्। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

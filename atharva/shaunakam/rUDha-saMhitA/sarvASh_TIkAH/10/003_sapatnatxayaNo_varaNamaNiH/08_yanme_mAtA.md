@@ -19,7 +19,6 @@ bṛhaspatiḥ:* compare its version of 5 **b**.
 Each sinful act that we have done,--my mother, father, and my friends,-- From all the guilt this heavenly Plant will be our guard and sure defence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। मे। माता। यत्। मे। पिता। भ्रातरः। यत्। च। स्वाः। यत्। एनः। चकृमः। वयम्। ततः। नः। वारयिष्यते। अयम्। देवः। वनस्पतिः। ३.८।

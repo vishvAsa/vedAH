@@ -14,10 +14,9 @@ title = "१२ इष्वा ऋजीयः"
 Straighter than any arrow let it fly against him, Heaven and Earth. So let that witchcraft seize again the wizard like a beast of chase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इष्वा:। ऋजीय:। पततु। द्यावापृथिवी इति। तम्। प्रति। सा। तम्। मृगम्ऽइव। गृह्णातु। कृत्या। कृत्याऽकृतम्। पुन:। १४.१२।
+इष्वाः। ऋजीयः। पततु। द्यावापृथिवी इति। तम्। प्रति। सा। तम्। मृगम्ऽइव। गृह्णातु। कृत्या। कृत्याऽकृतम्। पुनः। १४.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

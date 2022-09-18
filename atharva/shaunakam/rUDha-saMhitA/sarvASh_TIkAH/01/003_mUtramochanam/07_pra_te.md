@@ -19,7 +19,6 @@ urethra'—with a metallic catheter, says the comm.⌋
 I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। ते। भिनद्मि। मेहनम्। वर्त्रम्। वेशन्त्याःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्।

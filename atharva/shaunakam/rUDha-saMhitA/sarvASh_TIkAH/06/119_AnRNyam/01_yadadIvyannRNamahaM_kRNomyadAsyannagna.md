@@ -24,10 +24,9 @@ TA. (ii. 4. 1¹). In **a**, TB. reads *cakā́ra* and TA. *babhū́va* for
 The debt which I incur, not gaming, Agni! and, not intending to repay, acknowledge, That may Vaisvanara, the best, our sovran, carry away into the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अदीव्यन्। ऋणम्। अहम्। कृणोमि। अदास्यन्। अग्ने। उत। सम्ऽगृणामि। वैश्वानर:। न:। अधिऽपा:। वसिष्ठ:। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। ११९.१।
+यत्। अदीव्यन्। ऋणम्। अहम्। कृणोमि। अदास्यन्। अग्ने। उत। सम्ऽगृणामि। वैश्वानरः। नः। अधिऽपाः। वसिष्ठः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। ११९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

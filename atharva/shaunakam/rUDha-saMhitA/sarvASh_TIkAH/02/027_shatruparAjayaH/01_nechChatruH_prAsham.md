@@ -29,10 +29,9 @@ things much easier. For **a** Ppp. has *yaś catrūn saṁjayāt.* *Néd* in
 Let not the enemy win the cause! Strong and predominant art thou. Refute mine adversary's speech. Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। इत्। शत्रु:। प्राशम्। जयाति। सहमाना। अभिऽभू:। असि। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.१।
+न। इत्। शत्रुः। प्राशम्। जयाति। सहमाना। अभिऽभूः। असि। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

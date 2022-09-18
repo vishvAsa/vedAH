@@ -25,7 +25,6 @@ plant.
 The living Plant that giveth life, that driveth malady away, Arundhatr, the rescuer, strengthening, rich a sweets I call, to free this man from scath and harm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जीवलाम्। नघऽरिषाम्। जीवन्तीम्। ओषधीम्। अहम्। अरुन्धतीम्। उत्ऽनयन्तीम्। पुष्पाम्। मधुऽमतीम्। इह। हुवे। अस्मै। अरिष्टऽतातये। ७.६।

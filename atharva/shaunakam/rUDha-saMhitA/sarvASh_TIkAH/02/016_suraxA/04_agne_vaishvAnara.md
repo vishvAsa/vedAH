@@ -23,10 +23,9 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। वैश्वानर। विश्वै:। मा। देवै:। पाहि। स्वाहा। १६.४।
+अग्ने। वैश्वानर। विश्वैः। मा। देवैः। पाहि। स्वाहा। १६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

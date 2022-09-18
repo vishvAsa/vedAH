@@ -19,10 +19,9 @@ Ppp. reads in **b** *sahasrapoṣas*, and in **d** *‘smā* and *śivāi ’tu*
 He bears oblation, and his seed is butter. Thousand-fold plenty; sacrifice they call him. May he, the Bull, wearing the shape of Indra, come unto us, O Gods, bestowed, with blessing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आज्यम्। बिभर्ति। घृतम्। अस्य। रेत:। साहस्र:। पोष:। तम्। ऊं इति। यज्ञम्। आहु:। इन्द्रस्य। रूपम्। ऋषभ:। वसान:। स:। अस्मान्। देवा:। शिव:। आ। एतु। दत्त:। ४.७।
+आज्यम्। बिभर्ति। घृतम्। अस्य। रेतः। साहस्रः। पोषः। तम्। ऊं इति। यज्ञम्। आहुः। इन्द्रस्य। रूपम्। ऋषभः। वसानः। सः। अस्मान्। देवाः। शिवः। आ। एतु। दत्तः। ४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

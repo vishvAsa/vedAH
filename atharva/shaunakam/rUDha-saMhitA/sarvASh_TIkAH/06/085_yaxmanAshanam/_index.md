@@ -7,7 +7,6 @@ title = "०८५ यक्ष्मनाशनम्"
 85. For relief from yákṣma.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "०८५ यक्ष्मनाशनम्"
 
 [Atharvan (yakṣmanāśanakāmaḥ).—vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 291; Bloomfield, 39, 505.
 
 A charm against Consumption
 </details>
+

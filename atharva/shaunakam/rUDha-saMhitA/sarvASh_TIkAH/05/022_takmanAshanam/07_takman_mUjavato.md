@@ -20,10 +20,9 @@ gṛhāḥ; dāsīm ṛtyuccha prapharvyaṁ tāṅs takman nī ’va dhūnuhi*.
 Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara girl and seem to shake her through and through.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तक्मन्। मूजऽवत:। गच्छ। बल्हिकान्। वा। पर:ऽतराम्। शूद्राम्। इच्छ। प्रऽफर्व्यम्। तान्। तक्मन्। विऽइव। धूनुहि। २२.७।
+तक्मन्। मूजऽवतः। गच्छ। बल्हिकान्। वा। परःऽतराम्। शूद्राम्। इच्छ। प्रऽफर्व्यम्। तान्। तक्मन्। विऽइव। धूनुहि। २२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

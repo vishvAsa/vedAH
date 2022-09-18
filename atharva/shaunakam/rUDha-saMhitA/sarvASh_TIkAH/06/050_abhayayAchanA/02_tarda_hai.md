@@ -24,10 +24,9 @@ twice, not *heṁ*.⌋
 Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest leaves the unfinished sacrifice, go hence devouring not, injuring not this corn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तर्द। है। पतङ्ग। है। जभ्य। है। उपऽक्वस। ब्रह्माऽइव। असम्ऽस्थितम्। हवि:। अनदन्त:। इमान्। यवान्। अहिसन्त:। अपऽउदित। ५०.२।
+तर्द। है। पतङ्ग। है। जभ्य। है। उपऽक्वस। ब्रह्माऽइव। असम्ऽस्थितम्। हविः। अनदन्तः। इमान्। यवान्। अहिसन्तः। अपऽउदित। ५०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

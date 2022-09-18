@@ -16,7 +16,6 @@ title = "५५ बृहस्पतिनावसृष्टां विश
 Her whom Brihaspati, etc. With all good fortune, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। भगः। गोषु। प्रऽविष्टः। यः। तेन। इमाम्। सम्। सृजामसि। २.५५।

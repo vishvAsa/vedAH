@@ -19,7 +19,6 @@ The Anukr. does not notice the lacking syllable in **a**.
 Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ते। ग्रीवाः। ये। स्कन्धाः। याः। पृष्टीः। याः। च। पर्शवः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२०।

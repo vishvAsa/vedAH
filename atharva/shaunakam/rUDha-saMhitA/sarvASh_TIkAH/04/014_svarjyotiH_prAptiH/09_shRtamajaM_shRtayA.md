@@ -28,10 +28,9 @@ second and fourth pādas are *triṣṭubh*. ⌊Ppp. has *śrutam ekaṁ
 O'er the dressed Goat lay a dressed skin to robe him prepared, in perfect form, with all his members. Rise upward to the loftiest vault of heaven: with thy four feet stand firmly in the regions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शृतम्। अजम्। शृतया। प्र। ऊर्णुहि। त्वचा। सर्वै:। अङ्गै:। सम्ऽभृतम्। विश्वऽरूपम्। स:। उत्। तिष्ठ। इत:। अभि। नाकम्। उत्ऽतमम्। पत्ऽभि:। चतु:ऽभि:। प्रति। तिष्ठ। दिक्षु। १४.९।
+शृतम्। अजम्। शृतया। प्र। ऊर्णुहि। त्वचा। सर्वैः। अङ्गैः। सम्ऽभृतम्। विश्वऽरूपम्। सः। उत्। तिष्ठ। इतः। अभि। नाकम्। उत्ऽतमम्। पत्ऽभिः। चतुःऽभिः। प्रति। तिष्ठ। दिक्षु। १४.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

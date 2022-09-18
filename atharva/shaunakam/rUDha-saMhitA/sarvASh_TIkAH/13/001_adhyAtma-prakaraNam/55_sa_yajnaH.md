@@ -22,7 +22,6 @@ with the sanction of the Anukr., which calls the pāda *bṛhatī*. ⌊Cf. iv.
 This sacrifice, the first of all, the past, the present, had its birth. From that arose this universe, yea, all this world of brightness, brought by Rohita the heavenly Sage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। यज्ञः। प्रथमः। भूतः। भव्यः। अजायत। तस्मात्। ह। जज्ञे। इदम्। सर्वम्। यत्। किम्। च। इदम्। विऽरोचते। रोहितेन। ऋषिणा। आऽभृतम्। १.५५।

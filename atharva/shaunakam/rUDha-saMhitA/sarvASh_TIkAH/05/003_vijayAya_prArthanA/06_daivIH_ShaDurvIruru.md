@@ -33,10 +33,9 @@ mss. accent *urvī́s* in **a** (Bp.P.M.K.), and some accent *devā́sas* in
 Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves like heroes. Let not calamity or curse o'ertake us, nor deeds of wickedness that merit hatred.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दैवी:। षट्। उर्वी:। उरु। न:। कृणोत। विश्वे। देवास:। इह। मादयध्वम्। मा। न:। विदत्। अभिऽभा:। मो इति। अशस्ति:। मा। न:। विदत्। वृजिना। द्वेष्या। या। ३.६।
+दैवीः। षट्। उर्वीः। उरु। नः। कृणोत। विश्वे। देवासः। इह। मादयध्वम्। मा। नः। विदत्। अभिऽभाः। मो इति। अशस्तिः। मा। नः। विदत्। वृजिना। द्वेष्या। या। ३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

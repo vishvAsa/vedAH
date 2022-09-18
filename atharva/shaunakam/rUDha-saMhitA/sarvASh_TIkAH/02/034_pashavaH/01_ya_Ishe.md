@@ -38,10 +38,9 @@ dvipadaḥ!*⌋
 May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and biped, Come, purchased, to the sacrificial portion. May growth of wealth attend the sacrificer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ईशे। पशुऽपति:। पशूनाम्। चतु:ऽपदाम्। उत। य:। द्विऽपदाम्। नि:ऽक्रीत:। स:। यज्ञियम्। भागम्। एतु। राय:। पोषा:। यजमानम्। सचन्ताम्। ३४.१।
+यः। ईशे। पशुऽपतिः। पशूनाम्। चतुःऽपदाम्। उत। यः। द्विऽपदाम्। निःऽक्रीतः। सः। यज्ञियम्। भागम्। एतु। रायः। पोषाः। यजमानम्। सचन्ताम्। ३४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

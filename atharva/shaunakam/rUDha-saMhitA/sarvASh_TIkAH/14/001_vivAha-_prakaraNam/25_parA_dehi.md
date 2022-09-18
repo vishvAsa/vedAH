@@ -27,7 +27,6 @@ is defined in the Pet. Lexx. as "a woolen shirt," as identical with
 Give thou the wollen robe away: deal treasure to the Brahman- priests. This Witchery hath got her feet: the wife attendeth on her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परा। देहि। शामुल्यम्। ब्रह्मऽभ्यः। वि। भज। वसु। कृत्या। एषा। पत्ऽवती। भूत्वा। आ। जाया। विशते। पतिम्। १.२५।

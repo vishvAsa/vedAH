@@ -22,10 +22,9 @@ is superfluous.⌋
 Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. Source of all bonds! fill up therewith our worship, and, Blest One! grant us wealth with goodly heroes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। नाम। सुऽहवम्। सुऽप्रनीते। अनुऽमते। अनुऽमतम्। सुऽदानु। तेन। न:। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। न:। धेहि। सुऽभगे। सुऽवीरम्। २१.४।
+यत्। ते। नाम। सुऽहवम्। सुऽप्रनीते। अनुऽमते। अनुऽमतम्। सुऽदानु। तेन। नः। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। नः। धेहि। सुऽभगे। सुऽवीरम्। २१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

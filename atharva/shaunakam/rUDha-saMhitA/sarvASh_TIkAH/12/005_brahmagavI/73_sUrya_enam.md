@@ -34,7 +34,6 @@ number 231\] and 7 *paryāya-sūktas* \[73 "verses"\], or as of "11
 From heaven let Surya drive him and consume him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यः। एनम्। दिवः। प्र। नुदताम्। नि। ओषतु। ११.१२।

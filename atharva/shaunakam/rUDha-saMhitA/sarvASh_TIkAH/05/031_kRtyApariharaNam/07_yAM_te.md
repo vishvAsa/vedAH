@@ -20,10 +20,9 @@ the unusual resolution *-ya-am* at end of **a**.
 The spell that they have cast upon thine army or thy shafts and arms, Spell they have cast upon the drum, this I throw back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। सेनायाम्। याम्। चक्रु:। इषुआयुधे। दुन्दुभौ। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.७।
+याम्। ते। चक्रुः। सेनायाम्। याम्। चक्रुः। इषुआयुधे। दुन्दुभौ। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

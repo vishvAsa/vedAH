@@ -29,10 +29,9 @@ kṛd bheṣatodanaḥ*.
 Their station, as of those who rest when weary, is in midmost air: The base whereon this world is built, the sages know or know it not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षे। आसाम्। स्याम। श्रान्तसदाम्ऽइव। आऽस्थानम्। अस्य। भूतस्य। विदु:। तत्। वेधस:। न। वा।
+अन्तरिक्षे। आसाम्। स्याम। श्रान्तसदाम्ऽइव। आऽस्थानम्। अस्य। भूतस्य। विदुः। तत्। वेधसः। न। वा।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

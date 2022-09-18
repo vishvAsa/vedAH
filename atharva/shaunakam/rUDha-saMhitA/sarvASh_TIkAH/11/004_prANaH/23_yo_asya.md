@@ -25,7 +25,6 @@ us.
 Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion is this All of varied sort that stirs and works!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्य। विश्वऽजन्मनः। ईशे। विश्वस्य। चेष्टतः। अन्येषु। क्षिप्रऽधन्वने। तस्मै। प्राण। नमः। अस्तु। ते। ६.२३।

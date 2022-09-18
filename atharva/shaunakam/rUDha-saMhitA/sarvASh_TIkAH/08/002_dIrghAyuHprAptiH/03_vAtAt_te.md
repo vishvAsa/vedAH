@@ -19,10 +19,9 @@ The comm. reads in **d** *viśvān̄gāis* and *ālapan*.
 Thy breath have I recovered from the Wind, thy vision from the Sun. Thy mind I stablish and secure within thee: feel in thy members,. use thy tongue, conversing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वातात्। ते। प्राणम्। अविदम्। सूर्यात्। चक्षु:। अहम्। तव। यत्। ते। मन:। त्वयि। तत्। धारयामि। सम्। वित्स्व। अङ्गै:। वद। जिह्वया। अलपन्। २.३।
+वातात्। ते। प्राणम्। अविदम्। सूर्यात्। चक्षुः। अहम्। तव। यत्। ते। मनः। त्वयि। तत्। धारयामि। सम्। वित्स्व। अङ्गैः। वद। जिह्वया। अलपन्। २.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ which should be corrected by p. 411 of Lanman's *Noun-Inflection.*⌋
 Far let her go, cutting her way, brandishing, as it were, a club: Diverted be the new-born's mind: ne'er are the wicked prosperous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विषूची। एतु। कृन्तती। पिनाकम्ऽइव। बिभ्रती। विष्वक्। पुन:ऽभुवा:। मन:। असम्ऽऋध्दा:। अघऽयव:। १.२७.२।
+विषूची। एतु। कृन्तती। पिनाकम्ऽइव। बिभ्रती। विष्वक्। पुनःऽभुवाः। मनः। असम्ऽऋध्दाः। अघऽयवः। १.२७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०६८ वपनम्"
 68. To accompany the act of shaving.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वपनम्।  
@@ -18,8 +17,6 @@ title = "०६८ वपनम्"
 
 [Atharvan (?).—mantroktadevatyam. 1. purovirāḍ atiśakvarīgarbhā 4-p. jagatī; 2. anuṣṭubh; 3. atijagatīgarbhā triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 430; Griffith, i. 282.
 
 A charm to accompany the shaving of the beard
 </details>
+

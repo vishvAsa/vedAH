@@ -22,10 +22,9 @@ abbreviation of *iva* to *’va* in **c**.
 Gone is the pain that racked thee, gone thy fever, gone thy heart's disease. Consumption, conquered by my voice, hath, like a hawk, fled far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अङ्गऽभेद:। अङ्गऽज्वर:। य:। च। ते। हृदयऽआमय:। यक्ष्म:। श्येन:ऽइव। प्र। अपप्तत्। वाचा। साढ:। पर:ऽतराम्। ३०.९।
+अङ्गऽभेदः। अङ्गऽज्वरः। यः। च। ते। हृदयऽआमयः। यक्ष्मः। श्येनःऽइव। प्र। अपप्तत्। वाचा। साढः। परःऽतराम्। ३०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

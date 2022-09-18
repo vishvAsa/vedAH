@@ -19,10 +19,9 @@ Ppp. has *viśvānām* in **c**.
 Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to the people's arms! worship, O Death, be paid to thee!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। देवऽवधेभ्य:। नम:। राजऽवधेभ्य:। अथो इति। ये। विश्यानाम्। वधा:। तेभ्य:। मृत्यो इति। नम:। अस्तु। ते। १३.१।
+नमः। देवऽवधेभ्यः। नमः। राजऽवधेभ्यः। अथो इति। ये। विश्यानाम्। वधाः। तेभ्यः। मृत्यो इति। नमः। अस्तु। ते। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

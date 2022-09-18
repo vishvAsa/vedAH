@@ -19,10 +19,9 @@ Ppp. reads for **a** *na tatra dhenur dohena*. ⌊See BR. vi. 1023.⌋
 His milch-cow doth not profit one, his draught-ox masters not the yoke, Wherever, severed from his wife, a Brahman spends the mourn- ful night.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। अस्य। धेनु:। कल्याणी। न। अनड्वान्। सहते। धुरम्। विऽजानि:। यत्र। ब्राह्मण:। रात्रिम्। वसति। पापया। १७.१८।
+न। अस्य। धेनुः। कल्याणी। न। अनड्वान्। सहते। धुरम्। विऽजानिः। यत्र। ब्राह्मणः। रात्रिम्। वसति। पापया। १७.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -49,10 +49,9 @@ iva vāraye*. ⌊"Do I appease," *śamaye*, would be more natural; cf. Ppp's
 Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from afar, thou art I deem, a balm that cureth. jealousy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जनात्। विश्वऽजनीनात्। सिन्धुत:। परि। आऽभृतम्। दूरात्। त्वा। मन्ये। उत्ऽभृतम्। ईर्ष्याया:। नाम। भेषजम्। ४६.१।
+जनात्। विश्वऽजनीनात्। सिन्धुतः। परि। आऽभृतम्। दूरात्। त्वा। मन्ये। उत्ऽभृतम्। ईर्ष्यायाः। नाम। भेषजम्। ४६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

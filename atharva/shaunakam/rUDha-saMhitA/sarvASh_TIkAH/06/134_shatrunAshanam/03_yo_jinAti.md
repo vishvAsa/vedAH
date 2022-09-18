@@ -25,10 +25,9 @@ in the Anukr.
 Seek out the fierce oppressor, yea, strike only the oppressor dead. Down on the fierce oppressor's head strike at full length, O Thunderbolt!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। जिनाति। तम्। अनु। इच्छ। य:। जिनाति। तम्। इत्। जहि। जिनत:। वज्र। त्वम्। सीमन्तम्। अन्वञ्चम्। अनु। पातय। १३४.३।
+यः। जिनाति। तम्। अनु। इच्छ। यः। जिनाति। तम्। इत्। जहि। जिनतः। वज्र। त्वम्। सीमन्तम्। अन्वञ्चम्। अनु। पातय। १३४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

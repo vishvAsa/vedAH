@@ -20,7 +20,6 @@ Ppp. reads *śaṅsatas* for *saṁsicas* in **a**, and *saṁsṛjya* for
 Casters, those Gods were called who brought together all the elements: When they had fused the mortal man complete, they entered into him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽसिचः। नाम। ते। देवाः। ये। सम्ऽभारान्। सम्ऽअभरन्। सर्वम्। सम्ऽसिच्य। मर्त्यम्। देवाः। पुरुषम्। आ। अविशन्। १०.१३।

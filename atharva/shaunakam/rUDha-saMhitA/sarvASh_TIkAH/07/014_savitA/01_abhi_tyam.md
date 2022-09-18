@@ -28,10 +28,9 @@ comparable with those in ii. 5; see introduction to ii. 5.⌋
 I praise this God, parent of heaven and earth, exceeding wiser possessed of real energy, giver of treasure, thinker dear to all,.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। त्यम्। देवम्। सवितारम्। ओण्यो:। कविऽक्रतुम्। अर्चामि। सत्यऽसवम्। रत्नऽधाम्। अभि। प्रियम्। मतिम्। १५.१।
+अभि। त्यम्। देवम्। सवितारम्। ओण्योः। कविऽक्रतुम्। अर्चामि। सत्यऽसवम्। रत्नऽधाम्। अभि। प्रियम्। मतिम्। १५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

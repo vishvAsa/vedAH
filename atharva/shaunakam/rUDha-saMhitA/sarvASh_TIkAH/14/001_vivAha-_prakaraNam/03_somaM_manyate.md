@@ -20,7 +20,6 @@ Bs.P.M.W.T. read *-piṣanti*, D. *-pīṣanti;* Ppp. has *-piśanti*. The
 One thinks, when men have brayed the plant, that he hath drunk the Soma's juice. Of him whom Brahmans truly know as Soma never mortal eats.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमम्। मन्यते। पपिऽवान्। यत्। सम्ऽपिषन्ति। ओषधिम्। सोमम्। यम्। ब्रह्माणः। विदुः। न। तस्य। अश्नाति। पार्थिवः। १.३।

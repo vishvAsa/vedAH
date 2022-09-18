@@ -20,10 +20,9 @@ kine, by horses, by progeny, by cattle, by houses, by riches.
 Thou art the New Moon, fair to see, thou art complete in every part. May I be perfect, fully blest in every way in steeds and kine, in children, cattle, home, and wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दर्श:। असि। दर्शत:। असि। सम्ऽअग्र:। असि। सम्ऽअन्त:। सम्ऽअग्र:। सम्ऽअन्त:। भूयासम्। गोभि:। अश्वै:। प्रऽजया। पशुऽभि:। गृहै:। धनेन। ८६.४।
+दर्शः। असि। दर्शतः। असि। सम्ऽअग्रः। असि। सम्ऽअन्तः। सम्ऽअग्रः। सम्ऽअन्तः। भूयासम्। गोभिः। अश्वैः। प्रऽजया। पशुऽभिः। गृहैः। धनेन। ८६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

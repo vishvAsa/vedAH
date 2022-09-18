@@ -23,10 +23,9 @@ out).
 All that man's sin whose food they do not eat remains unblot- ted out.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्व:। वै। एष:। अजग्धऽपाप्मा। यस्य। अन्नम्। न। अश्नन्ति। ७.९।
+सर्वः। वै। एषः। अजग्धऽपाप्मा। यस्य। अन्नम्। न। अश्नन्ति। ७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

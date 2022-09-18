@@ -28,7 +28,6 @@ as simple *jagatī;* the true reading in **b** would seem to be
 Surya hath harnessed to his car to draw him seven stately bay steeds gay with wolden housings. The Bright One started from the distant region: dispelling gloom the God hath climbed the heavens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। सूर्यः। हरितः। यातवे। रथे। हिरण्यऽत्वचसः। बृहतीः। अयुक्त। अमोचि। शुक्रः। रजसः। परस्तात्। विऽधूय। देवः। तमः। दिवम्। आ। अरुहत्। 2.८।

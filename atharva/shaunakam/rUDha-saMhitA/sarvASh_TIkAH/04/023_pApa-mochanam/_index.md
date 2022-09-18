@@ -7,7 +7,6 @@ title = "०२३ पाप-मोचनम्"
 23. Praise and prayer to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाप-मोचनम्।  
@@ -18,8 +17,6 @@ title = "०२३ पाप-मोचनम्"
 
 [Mṛgāra.—sapta mṛgārasaṁjñakāni sūktāni nānādevatyāni. trāiṣṭubhāni: 3. purastājjyotiṣmatī; 4. anuṣṭubh; 6. prastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 163; Weber, xviii. 94.
 
 Magnification of Agni and prayer for his protection
 </details>
+

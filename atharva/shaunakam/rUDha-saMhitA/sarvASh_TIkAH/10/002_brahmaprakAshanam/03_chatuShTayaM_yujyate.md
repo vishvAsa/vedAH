@@ -20,7 +20,6 @@ Ppp. reads *saṁhatantaṁ* in **a**, and *sudhṛtam* in **d**.
 A fourfold frame is fixt with ends connected, and up above the knees a yielding belly. The hips and thighs, who was their generator, those props where- by the trunk grew firmly stablished?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुष्टयम्। युज्यते। संहितऽअन्तम्। जानुऽभ्याम्। ऊर्ध्वम्। शिथिरम्। कबन्धम्। श्रोणी इति। यत्। ऊरू इति। कः। ऊं इति। तत्। जजान। याभ्याम्। कृसिन्धम्। सुऽदृढम्। बभूव। २.३।

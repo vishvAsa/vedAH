@@ -23,10 +23,9 @@ turns it into a defective *bṛhatī*.
 Go as a son goes to his sire: bite as a trampled viper bites. As one who flies from bonds, go back, O Witchcraft, to the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुत्र:ऽइव। पितरम्। गच्छ। स्वज:ऽइव। अभिऽस्थित:। दश। बन्धम्ऽइव। अवऽक्रामी। गच्छ। कृत्ये। कृत्याऽकृतम्। पुन:। १४.१०।
+पुत्रःऽइव। पितरम्। गच्छ। स्वजःऽइव। अभिऽस्थितः। दश। बन्धम्ऽइव। अवऽक्रामी। गच्छ। कृत्ये। कृत्याऽकृतम्। पुनः। १४.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

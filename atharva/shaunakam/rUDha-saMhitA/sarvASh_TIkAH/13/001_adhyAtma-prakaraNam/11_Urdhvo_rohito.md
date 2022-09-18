@@ -21,7 +21,6 @@ Ppp. reads *bhāsi* in **c**. The Anukr. again passes without notice the
 Erected, Rohita hath reached the welkin, wise, young, creating every form and figure. Agni, refulgent with his heightened lustre, in the third realm hath brought us joy and gladness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्ध्वः। रोहितः। अधि। नाके। अस्थात्। विश्वा। रूपाणि। जनयन्। युवा। कविः। तिग्मेन। ‍ अग्निः। ज्योतिषा। वि। भाति। तृतीये। चक्रे। रजसि। प्रियाणि। १.११।

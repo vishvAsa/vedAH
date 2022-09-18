@@ -23,10 +23,9 @@ reading *pādáyāthas*, would make everything right.
 Ye, Indra, Agni, Kama! come together and cast mine adver- saries down beneath me. When they have sunk into the deepest darkness, O Agni, with thy fire consume their dwellings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्राग्नी इति। काम। सऽरथम्। हि। भूत्वा। नीचै:। सऽपत्नान्। मम। पादयाथ:। तेषाम्। पन्नानाम्। अधमा। तमांसि। अग्ने। वास्तूनि। अनुऽनर्दह। त्वम्। २.९।
+इन्द्राग्नी इति। काम। सऽरथम्। हि। भूत्वा। नीचैः। सऽपत्नान्। मम। पादयाथः। तेषाम्। पन्नानाम्। अधमा। तमांसि। अग्ने। वास्तूनि। अनुऽनर्दह। त्वम्। २.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

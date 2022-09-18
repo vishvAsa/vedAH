@@ -26,10 +26,9 @@ which seems acceptable.
 Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar set it properly and join together limb by limb.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। रिष्टम्। यत्। ते। द्युत्तम्। अस्ति। पेष्ट्रम्। ते। आत्मनि। धाता। तत्। भद्रया। पुन:। सम्। दधत्। परुषा। परु:। १२.२।
+यत्। ते। रिष्टम्। यत्। ते। द्युत्तम्। अस्ति। पेष्ट्रम्। ते। आत्मनि। धाता। तत्। भद्रया। पुनः। सम्। दधत्। परुषा। परुः। १२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

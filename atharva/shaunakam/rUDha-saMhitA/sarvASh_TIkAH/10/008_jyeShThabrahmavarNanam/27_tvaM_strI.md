@@ -22,7 +22,6 @@ Up. iv. 3. It is so far correctly described by the Anukr. that it counts
 Thou art a woman, and a man; thou art a damsel and a boy. Grown old thou totterest with a staff, new-born thou lookest every way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वम्। स्त्री। त्वम्। पुमान्। असि। त्वम्। कुमारः। उत। वा। कुमारी। त्वम्। जीर्णः। दण्डेन। वञ्चसि। त्वम्। जातः। भवसि। विश्वतःऽमुखः। ८.२७।

@@ -27,10 +27,9 @@ up by reading either *śakrás* or *rátnam* as trisyllabic. ⌊A barytone
 Working, I go my way with deathless spirit: life, spirit, bodies have gone gladly thither. Aye, Sakra also gives his gift of treasure as when the sacrificer meets with power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। अमृतऽअसु:। व्रत:। एमि। कृण्वन्। असु:। आत्मा। तन्व:। तत्। सुमत्ऽगु:। उत। वा। शक्र:। रत्नम्। दधाति। ऊर्जया। वा। यत्। सचते। हवि:ऽदा:। १.७।
+उत। अमृतऽअसुः। व्रतः। एमि। कृण्वन्। असुः। आत्मा। तन्वः। तत्। सुमत्ऽगुः। उत। वा। शक्रः। रत्नम्। दधाति। ऊर्जया। वा। यत्। सचते। हविःऽदाः। १.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

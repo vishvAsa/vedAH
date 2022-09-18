@@ -17,7 +17,6 @@ these the Brahmans ask her; under their wrath falls he who gives not.
 For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: from these is he who giveth not estranged.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्नीषोमाभ्याम्। कामाय। मित्राय। वरुणाय। च। तेभ्यः। याचन्ति। ब्राह्मणाः। तेषु। आ। वृश्चते। अददत्। ४.२६।

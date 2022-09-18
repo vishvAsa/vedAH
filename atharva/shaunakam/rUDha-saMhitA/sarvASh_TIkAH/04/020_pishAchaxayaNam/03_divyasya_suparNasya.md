@@ -20,10 +20,9 @@ upon them. ⌊Bloomfield discusses this vs., AJP. xvii. 402.⌋
 The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou alighted as a weary woman seeks her couch.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव्यस्य। सुऽपर्णस्य। तस्य। ह। असि। कनीनिका। सा। भूमिम्। आ। रुरोहिथ। वह्यम्। श्रान्ता। वधू:ऽइव। २०.३।
+दिव्यस्य। सुऽपर्णस्य। तस्य। ह। असि। कनीनिका। सा। भूमिम्। आ। रुरोहिथ। वह्यम्। श्रान्ता। वधूःऽइव। २०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

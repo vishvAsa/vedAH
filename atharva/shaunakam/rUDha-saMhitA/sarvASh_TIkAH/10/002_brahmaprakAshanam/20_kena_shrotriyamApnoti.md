@@ -19,7 +19,6 @@ Ppp. has for **b** our 19 **b** again; also *puruṣaḥ* in **c**.
 What leads him to the learned priest? What leads him to this Lord Supreme? How doth he gain this Agni? By whom hath he measured out the year?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। श्रोत्रियम्। आप्नोति। केन। इमम्। परमेऽस्थितम्। केन। इमम्। अग्निम्। पुरुषः। केन। सम्ऽवत्सरम्। ममे। २.२०।

@@ -21,10 +21,9 @@ bibhratī śālām* (cf. our 16 **c**) *amṛto sāumyaṁ sadaḥ* for **c, d**
 May Indra, Agni, deathless Gods, protect the house where Soma dwells, House that was founded with the prayer, built and erected by the wise.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्रह्मणा। शालाम्। निऽमिताम्। कविऽभि:। निऽमिताम्। मिताम्। इन्द्राग्नी इति। रक्षताम्। शालाम्। अमृतौ। सोम्यम्। सद:। ३.१९।
+ब्रह्मणा। शालाम्। निऽमिताम्। कविऽभिः। निऽमिताम्। मिताम्। इन्द्राग्नी इति। रक्षताम्। शालाम्। अमृतौ। सोम्यम्। सदः। ३.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

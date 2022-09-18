@@ -20,10 +20,9 @@ MS. iv. 14. 16, the latter with *ájaniṣṭa* accented).
 Pushan was born to move on distant pathways, on roads remote from earth, remote from heaven. To both most lovely places of assembly he travels and returns with perfect knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽपथे। पथाम्। अजनिष्ट। पूषा। प्रऽपथे। दिव:। प्रऽपथे। पृथिव्या:। उभे  इति। अभि। प्रियतमे  इति प्रियऽतमे। सधऽस्थे इति सधऽस्थे। आ। च। परा। च। चरति। प्रऽजानन्। १०.१।
+प्रऽपथे। पथाम्। अजनिष्ट। पूषा। प्रऽपथे। दिवः। प्रऽपथे। पृथिव्याः। उभे  इति। अभि। प्रियतमे  इति प्रियऽतमे। सधऽस्थे इति सधऽस्थे। आ। च। परा। च। चरति। प्रऽजानन्। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

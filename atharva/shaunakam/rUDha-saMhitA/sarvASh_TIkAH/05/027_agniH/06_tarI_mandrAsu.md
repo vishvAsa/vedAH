@@ -13,10 +13,9 @@ title = "०६ तरी मन्द्रासु"
 He is the furtherer at glad oblations: there stood the Vasus and the treasure-givers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तरी। मन्द्रासु। प्रऽयक्षु। वसव:। च। अतिष्ठन्। वसुऽधातर:। च। २७.६।
+तरी। मन्द्रासु। प्रऽयक्षु। वसवः। च। अतिष्ठन्। वसुऽधातरः। च। २७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

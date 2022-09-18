@@ -23,10 +23,9 @@ etena haviṣā juhomi*.
 He flieth in the firmament observing all the things that be: We with this offering will adore the greatness of the Heavenly Hound.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षेण। पतति। विश्वा। भूता। अवऽचाकशत्। शुन:। दिव्यस्य। यत्। मह:। तेन। ते। हविषा। विधेम। ८०.१।
+अन्तरिक्षेण। पतति। विश्वा। भूता। अवऽचाकशत्। शुनः। दिव्यस्य। यत्। महः। तेन। ते। हविषा। विधेम। ८०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

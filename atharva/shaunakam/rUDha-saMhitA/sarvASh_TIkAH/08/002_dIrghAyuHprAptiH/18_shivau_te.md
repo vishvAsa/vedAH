@@ -24,10 +24,9 @@ and note) is very obscure; Ppp. reads instead *adhomadhāu;* the comm.
 Auspicious unto thee be rice and barley, causing no painful sick- ness or consumption, these deliver from calamity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवौ। ते। स्ताम्। व्रीहिऽयवौ। अबलासौ। अदोमधौ। एतौ। यक्ष्मम्। वि। बाधेते इति। एतौ। मुञ्चत:। अंहस:। २.१८।
+शिवौ। ते। स्ताम्। व्रीहिऽयवौ। अबलासौ। अदोमधौ। एतौ। यक्ष्मम्। वि। बाधेते इति। एतौ। मुञ्चतः। अंहसः। २.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

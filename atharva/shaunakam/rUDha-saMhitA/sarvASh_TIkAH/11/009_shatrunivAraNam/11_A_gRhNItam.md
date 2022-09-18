@@ -21,7 +21,6 @@ He explains *nivāśās* as *nīcīnaṁ vāśyamānā ābhāṣyamāṇāḥ*.
 Attack them, both of you; bear off their vital breath O Nyar- budi. Let mingled shouts and echoing cries of woe amid our foemen show where thou, O Arbudi, hast pierced
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निऽवाशाः। घोषाः। सम्। यन्तु। अमित्रेषु। सम्ऽईक्षयन्। रदिते। अर्बुदे। तव। १.११।

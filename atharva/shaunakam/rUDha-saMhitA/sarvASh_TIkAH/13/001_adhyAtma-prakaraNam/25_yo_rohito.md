@@ -26,7 +26,6 @@ gaṇa*.
 Rohita, Bull whose horns are sharply pointed, superior of Agni and of Surya, He who supports the sundered earth and heaven,--from him the Gods effect their own creations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। रोहितः। वृषभः। तिग्मऽशृङ्गः। परि। अग्निम्। परि। सूर्यम्। बभूव। यः। विऽस्तभ्नाति। पृथिवीम्। दिवम्। च। तस्मात्। देवाः। अधि। सृष्टीः। सृजन्ते। १.२५।

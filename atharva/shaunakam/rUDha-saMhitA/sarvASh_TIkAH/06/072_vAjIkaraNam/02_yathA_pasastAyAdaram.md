@@ -22,10 +22,9 @@ root: *sthāulyena bhāsamānam*.
 Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, tantus penis tuus increscat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। पस:। तायादरम्। वातेन। स्थूलभम्। कृतम्। यावत्। परस्वत:। पस:। तावत्। ते। वर्धताम्। पस:। ७२.२।
+यथा। पसः। तायादरम्। वातेन। स्थूलभम्। कृतम्। यावत्। परस्वतः। पसः। तावत्। ते। वर्धताम्। पसः। ७२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

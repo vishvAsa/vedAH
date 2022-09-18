@@ -21,10 +21,9 @@ both editions give *naḥ* with the minority, and with the other texts
 Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of the food within our homes, kind greeting to the plea- sant drink!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽहूता:। इह। गाव:। उपऽहूता:। अजऽअवय:। अथो इति। अन्नस्य। कीलाल:। उपऽहूत:। गृहेषु। न:। ६२.५।
+उपऽहूताः। इह। गावः। उपऽहूताः। अजऽअवयः। अथो इति। अन्नस्य। कीलालः। उपऽहूतः। गृहेषु। नः। ६२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

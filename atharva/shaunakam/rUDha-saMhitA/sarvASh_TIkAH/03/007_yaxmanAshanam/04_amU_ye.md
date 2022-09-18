@@ -24,7 +24,6 @@ its end and part of vs. 6 (which next follows) are defaced.
 May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of the chronic malady the uppermost and lowest bond.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अमू इति। ये इति। दिवि। सुभगे इति। सुऽभगे। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ७.४।

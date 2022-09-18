@@ -19,7 +19,6 @@ Ppp. reads in **a** *anusarpanti* for *nirdhayanti*. We are to resolve
 The pains that suck the marrow out, and rend and tear the bones apart, May they speed forth and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। मज्ज्ञः। निःऽधयन्ति। परूंषि। विऽरुजन्ति। च। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१८।

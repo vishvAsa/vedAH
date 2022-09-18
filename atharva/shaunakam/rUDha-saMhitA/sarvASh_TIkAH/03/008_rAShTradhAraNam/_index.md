@@ -7,7 +7,6 @@ title = "००८ राष्ट्रधारणम्"
 8. For authority.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रधारणम्।  
@@ -19,8 +18,6 @@ title = "००८ राष्ट्रधारणम्"
 
 [Atharvan.—māitram uta vāiśvadevam. trāiṣṭubham: 2, 6. jagatī; 4. 4-p. virāḍbṛhatīgarbhā; 5. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Weber, xvii. 212; Griffith, i. 90.
 
 A charm to secure the submission, love, and fidelity of kinsmen
 </details>
+

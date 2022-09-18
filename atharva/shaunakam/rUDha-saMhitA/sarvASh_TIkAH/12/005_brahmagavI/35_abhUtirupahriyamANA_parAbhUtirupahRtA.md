@@ -19,7 +19,6 @@ Anukr. notices this time that the verse is *bhurij*.
 Loss of power while sacrificially presented, humiliation when she hath been offered;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभूतिः। उपऽह्रियमाणा। पराऽभूतिः। उपऽहृता। ८.८।

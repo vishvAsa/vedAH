@@ -7,7 +7,6 @@ title = "०७५ सपत्नक्षयणम्"
 75. To eject a rival.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सपत्नक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०७५ सपत्नक्षयणम्"
 
 [Kabandha (sapatnakṣayakāmaḥ).—mantroktadevatyam; āindram. ānuṣṭubham: 3. 6-p. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 373; Grill, 22, 165; Griffith, i. 285; Bloomfield, 92, 49
 
 A charm to effect the removal of an enemy
 </details>
+

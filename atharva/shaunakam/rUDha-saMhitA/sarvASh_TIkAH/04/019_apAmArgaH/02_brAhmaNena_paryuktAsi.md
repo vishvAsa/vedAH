@@ -36,7 +36,6 @@ gives *ásti* in *saṁhitā-*, but *asti* in *pada*-text. ⌊Are not
 Thou hast been blessed with blessing by the Brahman, Kanva Narshada. Thou fliest like a flashing dart: there is no fear or danger, Plant! within the limit of thy range.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्राह्मणेन। परिऽउक्ता। असि। कण्वेन। नार्षदेन। सेनाऽइव। एषि। त्विषिऽमती। न। तत्र। भयम्। अस्ति। यत्र। प्रऽआप्नोषि। ओषधे। १९.२।

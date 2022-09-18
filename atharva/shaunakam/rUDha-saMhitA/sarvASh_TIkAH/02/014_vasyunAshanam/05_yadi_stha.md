@@ -23,10 +23,9 @@ no heed to it); SPP. retains the manuscript reading. Ppp. has for **a**
 Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung from Dasyu race, vanish, Sadanvas, and begone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। स्थ। क्षेत्रियाणाम्। यदि। वा। पुरुषऽइषिता:। यदि। स्थ। दस्युऽभ्य:। जाता:। नश्यत। इत:। सदान्वा:। १४.५।
+यदि। स्थ। क्षेत्रियाणाम्। यदि। वा। पुरुषऽइषिताः। यदि। स्थ। दस्युऽभ्यः। जाताः। नश्यत। इतः। सदान्वाः। १४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

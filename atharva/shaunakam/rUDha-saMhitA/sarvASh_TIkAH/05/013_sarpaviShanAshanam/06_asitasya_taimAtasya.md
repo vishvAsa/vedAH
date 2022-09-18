@@ -29,10 +29,9 @@ etc.—Bloomfield. 'Des Asita...des Manyu Streitwagen gleichsam spanne
 Even as the cord that strings the bow, I slacken, as it were, the cars. Of the All-conquering serpent's wrath, of the fierce rage of Black, and Brown, Taimata, and Apodaka.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असितस्य। तैमातस्य। बभ्रो:। अपऽउदकस्य। च। सात्राऽसहस्य। अहम्। मन्यो:। अव। ज्याम्ऽइव। धन्वन:। वि। मुञ्चामि। रथान्ऽइव। १३.६।
+असितस्य। तैमातस्य। बभ्रोः। अपऽउदकस्य। च। सात्राऽसहस्य। अहम्। मन्योः। अव। ज्याम्ऽइव। धन्वनः। वि। मुञ्चामि। रथान्ऽइव। १३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

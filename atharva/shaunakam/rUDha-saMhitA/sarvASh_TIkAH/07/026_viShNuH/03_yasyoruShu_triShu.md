@@ -31,10 +31,9 @@ variants (only TS. combines *naḥ kṛdhi* in **b**, and MS. reads
 Thou within whose three wide-extended paces all worlds and creatures have their habitation, Drink oil, thou homed in oil! promote the sacrificer more and more.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। उरुषु। त्रिषु। विऽक्रमणेषु। अधिऽक्षियन्त‍ि। भुवनान‍ि। विश्वा। उरु। विष्णो  इति। वि। क्रमस्व। उरु। क्षयाय। न:। कृधि। घृतम्। घृतऽयोने। पिब। प्रऽप्र। यज्ञऽपतिम्। तिर। २७.३।
+यस्य। उरुषु। त्रिषु। विऽक्रमणेषु। अधिऽक्षियन्त‍ि। भुवनान‍ि। विश्वा। उरु। विष्णो  इति। वि। क्रमस्व। उरु। क्षयाय। नः। कृधि। घृतम्। घृतऽयोने। पिब। प्रऽप्र। यज्ञऽपतिम्। तिर। २७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

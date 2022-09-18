@@ -19,7 +19,6 @@ The comm. again correctly paraphrases *saṁ srāḥ* with *saṁ sṛja*.
 O'erwhelm us not with Fever or with poison, nor, Rudra! with the fire that comes from heaven. Elsewhere, and not on us, cast down this lightning.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। रुद्र। तक्मना। मा। विषेण। मा। नः। सम्। स्राः। दिव्येन। अग्निना। अन्यत्र। अस्मत्। विऽद्युतम्। पातय। एताम्। २.२६।

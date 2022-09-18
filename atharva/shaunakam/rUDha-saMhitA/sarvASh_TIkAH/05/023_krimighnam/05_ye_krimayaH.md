@@ -19,10 +19,9 @@ in **a** *sitavakṣās*, and in **b** *sitabāhavas*.
 Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and killing all the worms invisible and visible.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। क्रिमय:। शितिऽकक्षा:। ये। कृष्णा:। शितिऽबाहव:। ये। के। च। विश्वऽरूपा:। तान्। क्रिमीन्। जम्भयामसि। २३.५।
+ये। क्रिमयः। शितिऽकक्षाः। ये। कृष्णाः। शितिऽबाहवः। ये। के। च। विश्वऽरूपाः। तान्। क्रिमीन्। जम्भयामसि। २३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

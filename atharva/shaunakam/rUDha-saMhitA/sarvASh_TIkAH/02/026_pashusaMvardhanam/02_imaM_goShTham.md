@@ -25,10 +25,9 @@ come, O Anumati.
 Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them hither! Let Sinivali guide the foremost homeward. When they have come, Anumati! enclose them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। गोऽस्थम्। पशव:। सम्। स्रवन्तु। बृहस्पति:। आ। नयतु। प्रऽजानन्। सिनीवाली। नयतु। आ। अग्रम्। एषाम्। आऽजग्मुष:। अनुऽमते। नि। यच्छ। २६.२।
+इमम्। गोऽस्थम्। पशवः। सम्। स्रवन्तु। बृहस्पतिः। आ। नयतु। प्रऽजानन्। सिनीवाली। नयतु। आ। अग्रम्। एषाम्। आऽजग्मुषः। अनुऽमते। नि। यच्छ। २६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

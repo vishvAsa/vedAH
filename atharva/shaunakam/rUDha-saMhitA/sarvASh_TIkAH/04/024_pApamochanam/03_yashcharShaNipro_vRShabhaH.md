@@ -22,10 +22,9 @@ Ppp. has *carṣaṇi* instead of *vṛṣabhas* in **a**, and, for **c**,
 Ruler of men, finder of light, the hero: the pressing-stones declare his valour, master. Of sweetest sacrifice with seven Hotars. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। चर्षणिऽप्र:। वृषभ:। स्व:ऽवित्। यस्मै। ग्रावाण:। प्रऽवदन्ति। नृम्णम्। यस्य। अध्वर:। सप्तऽहोता। मदिष्ठ:। स:। न:। मुञ्चतु। अंहस:। २४.३।
+यः। चर्षणिऽप्रः। वृषभः। स्वःऽवित्। यस्मै। ग्रावाणः। प्रऽवदन्ति। नृम्णम्। यस्य। अध्वरः। सप्तऽहोता। मदिष्ठः। सः। नः। मुञ्चतु। अंहसः। २४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

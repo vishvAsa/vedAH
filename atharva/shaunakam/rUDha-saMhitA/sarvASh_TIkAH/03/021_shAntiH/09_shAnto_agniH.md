@@ -20,10 +20,9 @@ Ppp. has *atho puruṣareṣiṇaḥ* for **b**, and this time *viśvadavyas* in
 Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burneth every thing, the Flesh-consumer, have I stilled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शान्त:। अग्नि:। क्रव्यऽअत्। शान्त:। पुरुषऽरेषण:। अथो  इति। य:। विश्वऽदाव्य:। तम्। क्रव्यऽअदम्। अशीशमम्। २१.९।
+शान्तः। अग्निः। क्रव्यऽअत्। शान्तः। पुरुषऽरेषणः। अथो  इति। यः। विश्वऽदाव्यः। तम्। क्रव्यऽअदम्। अशीशमम्। २१.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

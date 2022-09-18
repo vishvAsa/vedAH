@@ -24,10 +24,9 @@ in **d**. ⌊Geldner discusses *ákṣu*, Ved. Stud. i. 136.⌋
 Their portion be the fire of Death, hunger, exhaustion, slaughter, fear. With your entangling snares and nets, Sarva and Indra! slay that host.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मृत्यो:। आषम्। आ। पद्यन्ताम्। क्षुधम्। सेदिम्। वधम्। भयम्। इन्द्र:। च। अक्षुऽजालाभ्याम्। शर्व। सेनाम्। अमूम्। हतम्। ८.१८।
+मृत्योः। आषम्। आ। पद्यन्ताम्। क्षुधम्। सेदिम्। वधम्। भयम्। इन्द्रः। च। अक्षुऽजालाभ्याम्। शर्व। सेनाम्। अमूम्। हतम्। ८.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

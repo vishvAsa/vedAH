@@ -22,10 +22,9 @@ as addressed.
 Most excellent of all the plants art thou: thy vassals are the trees. Let him be subject to our power, the man who seeks to injure us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽतम:। असि। ओषधीनाम्। तव। वृक्षा:। उपऽस्तय:। उपऽस्ति:। अस्तु। स:। अस्माकम्। य:। अस्मान्। अभिऽदासति। १५.१।
+उत्ऽतमः। असि। ओषधीनाम्। तव। वृक्षाः। उपऽस्तयः। उपऽस्तिः। अस्तु। सः। अस्माकम्। यः। अस्मान्। अभिऽदासति। १५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

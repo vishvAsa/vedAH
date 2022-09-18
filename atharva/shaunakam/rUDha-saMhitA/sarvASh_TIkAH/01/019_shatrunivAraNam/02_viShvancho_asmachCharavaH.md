@@ -21,10 +21,9 @@ manuṣyā ṛṣayo 'mitrān no vi viddhatu;* the comm. also reads *vidhyatu*.
 Turned from us let the arrows fall, those shot and those that will be shot. Shafts of the Gods and shafts of men, strike and transfix mine enemies:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्वञ्च:। अस्मत्। शरव:। पतन्तु। ये। अस्ता:। ये। च। आस्या:। दैवी:। मनुष्यऽइषव:। मम। अमित्रान्। वि। विध्यत।
+विष्वञ्चः। अस्मत्। शरवः। पतन्तु। ये। अस्ताः। ये। च। आस्याः। दैवीः। मनुष्यऽइषवः। मम। अमित्रान्। वि। विध्यत।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

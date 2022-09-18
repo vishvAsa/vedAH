@@ -25,7 +25,6 @@ B.s.m. has it), and with the comm. The latter defines it simply as
 Self-smiting, beating breast and thigh, careless of unguent, with their hair dishevelled, weeping, hags shall run together, when a man is slain, when thou, O Arbudi, hast pierced.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतिऽघ्नानाः। सम्। धावन्तु। उरः। पटूरौ। आऽघ्नानाः। अघारिणीः। विऽकेश्यः। रुदत्यः। पुरुषे। हते। रदिते। अर्बुदे। तव। ११.१४।

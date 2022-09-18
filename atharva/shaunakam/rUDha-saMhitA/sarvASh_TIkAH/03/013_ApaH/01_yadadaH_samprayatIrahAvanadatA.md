@@ -26,10 +26,9 @@ names of water.
 As ye, when Ahi had been slain, flowed forth together with a roar, So are ye called the Roaring Ones: this, O ye Rivers, is your name.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अद:। सम्ऽप्रयती:। अहौ। अनदत। हते। तस्मात्। आ। नद्य:। नाम। स्थ। ता। व:। नामानि। सिन्धव:। १३.१।
+यत्। अदः। सम्ऽप्रयतीः। अहौ। अनदत। हते। तस्मात्। आ। नद्यः। नाम। स्थ। ता। वः। नामानि। सिन्धवः। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

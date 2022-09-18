@@ -26,7 +26,6 @@ The comm. has again *pakvā*. ⌊Correct the Berlin ed. to *paktā́*.⌋
 Expand thyself abroad in all thy greatness, with thousand Prish- thas, in the world of virtue. Grandfathers, fathers, children, and descendants, fifteenth am I to thee when I have dressed it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उरुः। प्रथस्व। महता। महिम्ना। सहस्रऽपृष्ठः। सुऽकृतस्य। लोके। पितामहाः। पितरः। प्रऽजा। उपऽजा। अहम्। पक्ता। पञ्चऽदशः। ते। अस्मि। १.१९।

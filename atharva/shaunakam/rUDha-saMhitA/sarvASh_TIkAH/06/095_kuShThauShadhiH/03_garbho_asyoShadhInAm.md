@@ -27,10 +27,9 @@ c** are nearly v. 25. 7 **a, b, c**; and **d** is nearly v. 4. 6 **c**.⌋
 Thou art the infant of the plants, the infant of the Snowy Hills: The germ of every thing that is: free this my friend from his disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गर्भ:। असि। ओषधीनाम्। गर्भ:। हिमऽवताम्। उत। गर्भ:। विश्वस्य। भूतस्य। इमम्। मे। अगदम्। कृधि। ९५.३।
+गर्भः। असि। ओषधीनाम्। गर्भः। हिमऽवताम्। उत। गर्भः। विश्वस्य। भूतस्य। इमम्। मे। अगदम्। कृधि। ९५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

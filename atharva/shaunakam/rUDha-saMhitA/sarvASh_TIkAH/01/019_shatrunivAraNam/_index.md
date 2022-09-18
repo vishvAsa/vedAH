@@ -7,7 +7,6 @@ title = "०१९ शत्रुनिवारणम्"
 19. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -19,8 +18,6 @@ title = "०१९ शत्रुनिवारणम्"
 
 [Brahman.—diśvaryam. ānuṣṭubham: 2. purastādbṛhatī; 3. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Weber, iv. 413; Griffith, i. 23; Bloomfield, 120, 262.—Cf. Bergaig
 
 A prayer for protection from arrows and for the punishment of enemies
 </details>
+

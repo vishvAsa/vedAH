@@ -19,10 +19,9 @@ the datives in **a** and **b** as *nomina agentis*.
 Let worship be to thy defence and to thine accusation paid. Death! be this worship paid to thy good-will and thy malevo- lence!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। अधिऽवाकाय। पराऽवाकाय। ते। नम:। सुऽमत्यै। मृत्यो इति। ते। नम:। दु:ऽमत्यै। ते। इदम्। नम:। १३.२।
+नमः। ते। अधिऽवाकाय। पराऽवाकाय। ते। नमः। सुऽमत्यै। मृत्यो इति। ते। नमः। दुःऽमत्यै। ते। इदम्। नमः। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

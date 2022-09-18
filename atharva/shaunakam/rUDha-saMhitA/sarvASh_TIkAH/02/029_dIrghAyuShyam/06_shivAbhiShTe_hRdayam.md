@@ -26,10 +26,9 @@ Several of SPP's mss. give *mathám* in **c**.
 With health-bestowing drops thine heart I comfort: all-bright again, and undiseased, enjoy them. Drest in like robes let these two drink the mixture, wearing the Asvins' form as an illusion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवाभि:। ते। हृदयम्। तर्पयामि। अनमीव:। मोदिषीष्ठा:। सुऽवर्चा:। सऽवासिनौ। पिबताम्। मन्थम्। एतम्। अश्विनो:। रूपम्। परिऽधाय। मायाम्। २९.६।
+शिवाभिः। ते। हृदयम्। तर्पयामि। अनमीवः। मोदिषीष्ठाः। सुऽवर्चाः। सऽवासिनौ। पिबताम्। मन्थम्। एतम्। अश्विनोः। रूपम्। परिऽधाय। मायाम्। २९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

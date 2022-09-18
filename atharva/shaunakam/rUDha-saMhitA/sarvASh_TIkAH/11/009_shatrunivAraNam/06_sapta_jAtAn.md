@@ -23,7 +23,6 @@ reading of the comm. at 10. 21.⌋
 Exhibiting, O Arbudi, seven children of the mist and fog, When butter hath been offered, rise with all of these and with the host.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। जातान्। निऽअर्बुदे। उत्ऽआराणाम्। सम्ऽईक्षयन्। तेभिः। त्वम्। आज्ये। हुते। सर्वैः। उत्। तिष्ठ। सेनया। ११.६।

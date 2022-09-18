@@ -24,7 +24,6 @@ inevitable." But I do not see how the accented form is to be rendered.⌋
 Two wheels of thine the Brahmans know, Surya! according to their times. That which is hidden only those who know the highest truths have learned.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्वे इति। ते। चक्रे इति। सूर्ये। ब्रह्माणः। ऋतुऽथा। विदुः। अथ। एकम्। चक्रम्। यत्। गुहा। तत्। अध्दातयः। इत्। विदुः। १.१६।

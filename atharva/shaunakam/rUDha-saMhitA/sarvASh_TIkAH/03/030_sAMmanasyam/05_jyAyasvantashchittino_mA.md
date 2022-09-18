@@ -32,10 +32,9 @@ thus we get an orderly *triṣṭubh*.⌋
 Intelligent, submissive, rest united, friendly and kind, bearing the yoke together. Come, speaking sweetly each one to the other. I make you one- intentioned and one-minded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ज्यायस्वन्त:। चित्तिन:। मा। वि। यौष्ट। सम्ऽराधयन्त:। सऽधुरा:। चरन्त:। अन्य:। अन्यस्मै। वल्गु। वदन्त:। आ। इत। सध्रीचीनान्। व:। सम्ऽमनस:। कृणोमि। ३०.५।
+ज्यायस्वन्तः। चित्तिनः। मा। वि। यौष्ट। सम्ऽराधयन्तः। सऽधुराः। चरन्तः। अन्यः। अन्यस्मै। वल्गु। वदन्तः। आ। इत। सध्रीचीनान्। वः। सम्ऽमनसः। कृणोमि। ३०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०३४ ब्रह्मौदनम्"
 34. Extolling a certain rice-mess offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मौदनम्। १-८ अथर्वा। ब्रह्मौदनं। त्रिष्टुप्, ४ उत्तमा भुरिक्, ५ व्यवसाना सप्तपदा …………,
@@ -17,8 +16,6 @@ title = "०३४ ब्रह्मौदनम्"
 
 [Atharvan.—aṣṭarcam. brahmāsyāudanam. trāiṣṭubham: 4. bhurij; 5. 3-av. 7-p. kṛti; 6. 5-p. atiśakvarī; 7. bhurikśakvarī; 8. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ Translated: Muir, OST. v. 307 (vss. 2-4); Ludwig, p. 437; Griffith, i. 176; Webe
 
 Glorification of the Vishtari sacrifice
 </details>
+

@@ -26,10 +26,9 @@ is, indeed, a little startling to find the two names here side by side.
 Seize to thyself this trust of life for ever: thine be longevity which nothing shortens. Thy spirit and thy life again I bring thee: die not, nor vanish into mist and darkness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। रभस्व। इमाम्। अमृतस्य। श्नुष्टिम्। अच्छिद्यमाना। जरत्ऽअष्टि:। अस्तु। ते। असुम्। ते। आयु:। पुन:। आ। भरामि। रज:। तम:। मा। उप। गा:। मा। प्र। मेष्ठा:। २.१।
+आ। रभस्व। इमाम्। अमृतस्य। श्नुष्टिम्। अच्छिद्यमाना। जरत्ऽअष्टिः। अस्तु। ते। असुम्। ते। आयुः। पुनः। आ। भरामि। रजः। तमः। मा। उप। गाः। मा। प्र। मेष्ठाः। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

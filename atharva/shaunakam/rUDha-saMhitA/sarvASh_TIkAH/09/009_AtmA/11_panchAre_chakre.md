@@ -21,7 +21,6 @@ RV. and Ppp. count this verse as 13, our version inverting the order of
 Upon the five-spoked wheel revolving ever, whereon all crea- tures rest and are dependent, The axle, heavy-laden, is not heated: the nave from ancient time remains unheated.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पञ्चऽअरे। चक्रे। परिऽवर्तमाने। यस्मिन्। आऽतस्थुः। भुवनानि। विश्वा। तस्य। न। अक्षः। तप्यते। भूरिऽभारः। सनात्। एव। न। छिद्यते। सऽनाभिः। १४.११।

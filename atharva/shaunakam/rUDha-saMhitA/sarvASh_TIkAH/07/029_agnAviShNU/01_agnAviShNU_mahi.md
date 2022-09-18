@@ -33,10 +33,9 @@ the place of 1 **b** and 2 **b**, and reads in the former (like śśS.)
 This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic butter. Placing in every home seven costly treasures. Let your tongue stretch to take the offered fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नाविष्णू इति। महि। तत्। वाम्। महिऽत्वम्। पाथ:। घृतस्य। गुह्यस्य। नाम। दमेऽदमे। सप्त। रत्ना। दधानौ। प्रति। वाम्। जिह्वा। घृतम्। आ। चरण्यात्। ३०.१।
+अग्नाविष्णू इति। महि। तत्। वाम्। महिऽत्वम्। पाथः। घृतस्य। गुह्यस्य। नाम। दमेऽदमे। सप्त। रत्ना। दधानौ। प्रति। वाम्। जिह्वा। घृतम्। आ। चरण्यात्। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

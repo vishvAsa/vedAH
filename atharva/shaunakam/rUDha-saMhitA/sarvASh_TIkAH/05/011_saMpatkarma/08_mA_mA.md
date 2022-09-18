@@ -22,10 +22,9 @@ mānuṣeṣu riprā*. *Dikṣu* is read in Prāt. iv. 34 c.
 Let not men call me an illiberal giver. I give thee back the brindled cow, O singer. Attend in every place where men inhabit, with all thy powers, the hymn that tells my praises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। मा। वोचन्। अराधसम्। जनास:। पुन:। ते। पृश्निम्। जरित:। ददामि। स्तोत्रम्। मे। विश्वम्। आ। याहि। शचीभि:। अन्त:। विश्वासु। मानुषीषु। दिक्षु। ११.८।
+मा। मा। वोचन्। अराधसम्। जनासः। पुनः। ते। पृश्निम्। जरितः। ददामि। स्तोत्रम्। मे। विश्वम्। आ। याहि। शचीभिः। अन्तः। विश्वासु। मानुषीषु। दिक्षु। ११.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

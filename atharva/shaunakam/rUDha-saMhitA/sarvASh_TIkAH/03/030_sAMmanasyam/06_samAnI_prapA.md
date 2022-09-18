@@ -23,10 +23,9 @@ we may render 'do I harness you.' The Anukr. seems to scan 12 + 11: 9 +
 Let what you drink, your share of food be common together, with one common bond I bid you. Serve Agni, gathered round him like the spokes about the chariot nave.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समानी। प्रऽपा। सह। व:। अन्नऽभाग:। समाने। योक्त्रे। सह। व:। युनज्मि। सम्यञ्च:। अग्निम्। सपर्यत। अरा:। नाभिम्ऽइव। अभित:। ३०.६।
+समानी। प्रऽपा। सह। वः। अन्नऽभागः। समाने। योक्त्रे। सह। वः। युनज्मि। सम्यञ्चः। अग्निम्। सपर्यत। अराः। नाभिम्ऽइव। अभितः। ३०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

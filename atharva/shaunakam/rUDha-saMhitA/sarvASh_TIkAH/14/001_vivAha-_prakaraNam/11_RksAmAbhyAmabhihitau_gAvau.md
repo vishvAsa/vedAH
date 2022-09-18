@@ -23,7 +23,6 @@ syllable by harsh resolution in order to make a full pāda. Ppp. reads in
 Steadily went the steers upheld by holy verse and song of praise, The chariot-wheels were listening ears: thy path was tremulous in the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋक्ऽसामाभ्याम्। अभिऽहितौ। गावौ। ते। सामनौ। ऐताम्। श्रोत्रे इति। ते। चक्रे  इति। आस्ताम्। दिवि। पन्थाः। चराचरः। १.११।

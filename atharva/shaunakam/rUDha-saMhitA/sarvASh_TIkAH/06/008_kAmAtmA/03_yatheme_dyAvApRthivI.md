@@ -19,10 +19,9 @@ Part of SPP's mss. read *paryāíti* in **b**. The comm. gives *śīghram*
 As in his rapid course the Sun encompasses the heaven and: earth, So do I compass round thy mind that thou mayst be in love with. me, my darling, never to depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इमे इति। द्यावापृथिवी इति। सद्य:। परिऽएति। सूर्य:। एव। परि। एमि। ते। मन:। यथा। माम्। कामिनी। अस:। यथा। मत्। न। अपऽगा:। अस:। ८.३।
+यथा। इमे इति। द्यावापृथिवी इति। सद्यः। परिऽएति। सूर्यः। एव। परि। एमि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

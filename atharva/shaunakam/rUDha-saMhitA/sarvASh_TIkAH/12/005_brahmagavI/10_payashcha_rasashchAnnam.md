@@ -18,7 +18,6 @@ and cattle:—
 Milk and flavour, and food and nourishment, and right and truth, and action and fulfilment, and children and cattle;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पयः। च। रसः। च। अन्नम्। च। अन्नऽअद्यम्। च। ऋतम्। च। सत्यम्। च। इष्टम्। च। पूर्तम्‌। च। प्रऽजा। च। पशवः। च। ६.४।

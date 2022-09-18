@@ -7,7 +7,6 @@ title = "०२९ पापमोचनम्"
 29. Praise and prayer to Mitra and Varuṇa.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम् ।  
@@ -18,8 +17,6 @@ title = "०२९ पापमोचनम्"
 
 [Mṛgāra.—(see h. 23). 7. śakvarīgarbhā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Roth, Zur Litteratur und Geschichte des Weda, 1846, p. 43; Ludwig, p
 
 A hymn to Mitra-Varuna
 </details>
+

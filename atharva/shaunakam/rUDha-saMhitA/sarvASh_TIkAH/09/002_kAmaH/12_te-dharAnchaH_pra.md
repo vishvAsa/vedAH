@@ -19,10 +19,9 @@ The verse is nearly identical with iii. 6. 7 above. ⌊Ppp. reads in **c**
 Let them drift downward like a boat torn from the rope that held it fast. There is no turning back for those whom our keen arrows have repelled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ते। अधराञ्च:। प्र। प्लवन्ताम्। छिन्ना। नौ:ऽइव। बन्धनात्। न। सायकऽप्रनुत्तानाम्। पुन:। अस्ति। निऽवर्तनम्। २.१२।
+ते। अधराञ्चः। प्र। प्लवन्ताम्। छिन्ना। नौःऽइव। बन्धनात्। न। सायकऽप्रनुत्तानाम्। पुनः। अस्ति। निऽवर्तनम्। २.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -16,10 +16,9 @@ title = "०३ यमिन्द्राणी स्मरमसिञ्च
 The Philter, burning with the pangs of longing, which Indrani hath effused within the waters' depth, That spell for thee I heat by Varuna's decree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। इन्द्राणी। स्मरम्। असिञ्चत्। अप्ऽसु। अन्त:। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.३।
+यम्। इन्द्राणी। स्मरम्। असिञ्चत्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

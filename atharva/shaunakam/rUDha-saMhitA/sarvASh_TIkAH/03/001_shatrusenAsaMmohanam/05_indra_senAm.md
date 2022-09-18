@@ -22,10 +22,9 @@ gatyā.*
 Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive them away to every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। सेनाम्। मोहय। अमित्राणाम्। अग्ने:। वातस्य। ध्राज्या। तान्। विषूच:। वि। नाशय। १.५।
+इन्द्र। सेनाम्। मोहय। अमित्राणाम्। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

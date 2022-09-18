@@ -23,10 +23,9 @@ nouns that precede ⌊aside from *āśíṣo*⌋.
 In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yoked coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। उक्थऽमदानि। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुज:। स्वाहा। २६.३।
+इन्द्रः। उक्थऽमदानि। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुजः। स्वाहा। २६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

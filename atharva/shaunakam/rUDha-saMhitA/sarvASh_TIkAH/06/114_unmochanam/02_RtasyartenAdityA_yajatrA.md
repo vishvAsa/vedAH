@@ -27,10 +27,9 @@ collations seem clearly to give Bp.²p.m.I.H.D. as reading *-śekimá.⌋*
 Here set us free, O holy ones, Adityas, by the right of Law. When striving, bringing sacrifice, we failed to offer it aright.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋतस्‍य। ऋतेन। आदित्या:। यजत्रा:। मुञ्चत। इह। न:। यज्ञम्। यत्। यज्ञऽवाहस:। शिक्षन्त:। न। उपऽशेकिम। ११४.२।
+ऋतस्‍य। ऋतेन। आदित्याः। यजत्राः। मुञ्चत। इह। नः। यज्ञम्। यत्। यज्ञऽवाहसः। शिक्षन्तः। न। उपऽशेकिम। ११४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

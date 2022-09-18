@@ -7,7 +7,6 @@ title = "०१५ अभय प्राप्तिः"
 15. Against fear.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभय प्राप्तिः।  
@@ -19,8 +18,6 @@ title = "०१५ अभय प्राप्तिः"
 [Brahman.—ṣaḍṛcam. prāṇāpānāyurdevatyam. tripādgāyatram.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. vi., but in a much fuller form, with thirteen verses, of w
 ### Translations
 Translated: Weber, xiii. 179; Griffith, i. 59.
 </details>
+

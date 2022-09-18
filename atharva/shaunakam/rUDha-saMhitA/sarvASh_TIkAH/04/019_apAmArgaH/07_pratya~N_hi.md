@@ -21,10 +21,9 @@ vocative; regarding, of course, the *apāmārga* plant as addressed.
 For thou hast grown reverted, and turned backward also is thy fruit. Remove all curses far from me, keep most remote the stroke of death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रत्यङ्। हि। सम्ऽबभूविथ। प्रतीचीनऽफल:। त्वम्। सर्वान्। मत्। शपथान्। अधि। वरीय:। यवय। वधम्। १९.७।
+प्रत्यङ्। हि। सम्ऽबभूविथ। प्रतीचीनऽफलः। त्वम्। सर्वान्। मत्। शपथान्। अधि। वरीयः। यवय। वधम्। १९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

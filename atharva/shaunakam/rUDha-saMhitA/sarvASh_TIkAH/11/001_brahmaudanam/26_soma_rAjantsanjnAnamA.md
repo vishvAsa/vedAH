@@ -25,7 +25,6 @@ quoted in Kāuś.; ⌊but Keśava cites it just before vs. 25 in 63. 3⌋.
 Give understanding unto these, King Soma! all the good Brah mans who attend and serve thee. Oft, in Brahmaudana, and well I call on: Rishis, their sons, and those who sprang from Fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोम। राजन्। सम्ऽज्ञानम्। आ। वप। एभ्यः। सुऽब्राह्मणाः। यतमे। त्वा। उपऽसीदान्। ऋषीन्। आर्षेयान्। तपसः। अधि। जातान्। ब्रह्मऽओदने। सुऽहवा। जोहवीमि। १.२६।

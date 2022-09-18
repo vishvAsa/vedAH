@@ -30,10 +30,9 @@ treat it as *pragṛhya*.
 They who by thought have guided all that Speech hath best, or they who with their heart have uttered words of truth, Made stronger by the strength which the third prayer bestows, have by the fourth prayer learned the nature of the Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धीती। वा। ये। अनयन्। वाच:। अग्रम्। मनसा। वा। ये। अवदन्। ऋतानि। तृतीयेन। ब्रह्मणा। ववृधाना:। तुरीयेण। अमन्वत। नाम। धेनो:। .१.१।
+धीती। वा। ये। अनयन्। वाचः। अग्रम्। मनसा। वा। ये। अवदन्। ऋतानि। तृतीयेन। ब्रह्मणा। ववृधानाः। तुरीयेण। अमन्वत। नाम। धेनोः। .१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

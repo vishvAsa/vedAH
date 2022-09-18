@@ -25,7 +25,6 @@ structure elsewhere in the section.
 Created by toil and holy fervour, found by devotion, resting in right;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्रमेण। तपसा। सृष्टा। ब्रह्मणा। वित्ता। ऋते। श्रिता। ५.१।

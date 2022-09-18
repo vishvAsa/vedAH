@@ -26,10 +26,9 @@ supposition that the address is to the moon itself.
 O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect, Beauteous One! in riches and in progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमस्य। अंशो इति। युधाम्। पते। अनून:। नाम। वै। असि। अनूनम्। दर्श। मा। कृधि। प्रऽजया। च। धनेन। च। ८६.३।
+सोमस्य। अंशो इति। युधाम्। पते। अनूनः। नाम। वै। असि। अनूनम्। दर्श। मा। कृधि। प्रऽजया। च। धनेन। च। ८६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

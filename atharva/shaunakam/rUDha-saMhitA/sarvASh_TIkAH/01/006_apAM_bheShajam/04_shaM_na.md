@@ -25,10 +25,9 @@ the verses exceed by 9 the assumed norm of the chapters, which is 20.
 The Waters bless us, all that rise in desert lands or marshy pools! Bless us the Waters dug from earth, bless us the Waters brought in jars, bless us the Waters of the Rains!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। न:। आप:। धन्वन्या:। शम्। ऊं इति। सन्तु। अनूप्या:। शम्। न:। खनित्रिमा:। आप:। शम्। ऊं इति। या:। कुम्भे। आऽभृता:। शिवा:। न:। सन्तु। वार्षिकी:।
+शम्। नः। आपः। धन्वन्याः। शम्। ऊं इति। सन्तु। अनूप्याः। शम्। नः। खनित्रिमाः। आपः। शम्। ऊं इति। याः। कुम्भे। आऽभृताः। शिवाः। नः। सन्तु। वार्षिकीः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

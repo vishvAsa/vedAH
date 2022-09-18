@@ -29,7 +29,6 @@ shorter equivalent forms, our text is most clearly at fault⌋.
 Now from the bond of Varuna I loose thee, wherein the blessed Savitar hath bound thee. O bride, I give thee here beside thy husband fair space and room and pleasant paths to travel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। त्वा। मुञ्चामि। वरुणस्य। पाशात्। येन। त्वा। अबध्नात्। सविता। सुऽशेवाः। उरुम्। लोकम्। सुगऽगम्। अत्र। पन्थाम्। कृणोमि। तुभ्यम्। सहऽपत्न्यै। वधु। १.५८।

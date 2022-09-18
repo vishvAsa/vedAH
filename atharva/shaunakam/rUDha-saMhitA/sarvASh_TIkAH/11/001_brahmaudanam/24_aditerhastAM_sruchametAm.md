@@ -21,7 +21,6 @@ may well be the case. Ppp. ⌊has *hastāṁ* and⌋ combines *saptarṣayas*.
 This second hand of Aditi, this ladle which the Seven Rishis, world-creators, fashioned. May this scoop deftly pile upon the altar, therein, the members of the rice-oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अदितेः। हस्ताम्। स्रुचम्। एताम्। द्वितीयाम्। सप्तऽऋषयः। भूतऽकृतः। याम्। अकृण्वन्। सा। गात्राणि। विदुषी। ओदनस्य। दर्विः। वेद्याम्। अधि। एनम्। चिनोतु। १.२४।

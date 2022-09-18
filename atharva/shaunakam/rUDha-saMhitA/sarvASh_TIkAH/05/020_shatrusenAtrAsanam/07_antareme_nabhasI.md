@@ -23,10 +23,9 @@ at the end *śraddhī*. ⌊Bloomfield discusses *utpípāna*, AJP. xii. 441.⌋
 Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in all directions. Neigh at them, thunder, set in opposition, song-maker, good ally that friends may conquer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरा। इमे इति। नभसी इति। घोष:। अस्तु। पृथक्। ते। ध्वनय:। यन्तु। शीभम्। अभि। क्रन्द। स्तनय। उत्ऽपिपान:। श्लोकऽकृत्। मित्रऽतूर्याय। सुऽअर्धी। २०.७।
+अन्तरा। इमे इति। नभसी इति। घोषः। अस्तु। पृथक्। ते। ध्वनयः। यन्तु। शीभम्। अभि। क्रन्द। स्तनय। उत्ऽपिपानः। श्लोकऽकृत्। मित्रऽतूर्याय। सुऽअर्धी। २०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

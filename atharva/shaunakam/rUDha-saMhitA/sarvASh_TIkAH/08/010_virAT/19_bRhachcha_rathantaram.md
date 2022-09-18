@@ -22,7 +22,6 @@ accent *jānā́ti*.
 She mounted up, she came unto the Fathers: they killed her: in a month she re-existed. Hence men give monthly offerings to the Fathers: who knows this, knows the path which they have trodden.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहत्। च। रथम्ऽतरम्। च। द्वौ। स्तनौ। आस्ताम्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। द्वौ। ११.६।

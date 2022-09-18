@@ -22,10 +22,9 @@ Anukr. scans as 7 + 7: 9 + 8 = 31.
 Forth from thy marrows and thy bones, forth from thy tendons and thy veins I banish thy Consumption, from thy hands, thy fingers, and thy nails.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्थिऽभ्य:। ते। मज्जऽभ्य:। स्नावऽभ्य:। धमनिऽभ्य:। यक्ष्मम्। पाणिऽभ्याम्। अङ्गुलिऽभ्य:। नखेभ्य:। वि। वृहामि। ते। ३३.६।
+अस्थिऽभ्यः। ते। मज्जऽभ्यः। स्नावऽभ्यः। धमनिऽभ्यः। यक्ष्मम्। पाणिऽभ्याम्। अङ्गुलिऽभ्यः। नखेभ्यः। वि। वृहामि। ते। ३३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

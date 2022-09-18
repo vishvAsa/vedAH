@@ -21,7 +21,6 @@ This verse is found, without variant, in TB. (ii. 8. 8⁵) and śB. (iv. i.
 Speech hath been measured out in four divisions: the Brahmans who have wisdom comprehend them. Three, kept in close concealment, cause no motion. Of Speech men speak the fourth division only.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चत्वारि। वाक्। परिऽमिता। पदानि। तानि। विदुः। ब्राह्मणाः। ये। मनीषिणः। गुहा। त्रीणि। निऽहिता। न। इङ्गयन्ति। तुरीयम्। वाचः। मनुष्याः। वदन्ति। १५.२७।

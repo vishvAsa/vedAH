@@ -32,10 +32,9 @@ quoted Anukr. says *indro manthatu*.⌋
 Hence conquer, conquer, Hail! be thou the victor! Let these be conquerors and those be conquered. Good luck to these, ill luck to those men yonder! With the dark-blue-and-red our foes I cover.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इत:। जय। इत:। वि। जय। सम्। जय। जय। स्वाहा। इमे। जयन्तु। परा। अमी इति। जयन्ताम्। स्वाहा। एभ्य:। दुराहा। अमीभ्य:। नीलऽलोहितेन। अमून्। अभिऽअवतनोमि। ८.२४।
+इतः। जय। इतः। वि। जय। सम्। जय। जय। स्वाहा। इमे। जयन्तु। परा। अमी इति। जयन्ताम्। स्वाहा। एभ्यः। दुराहा। अमीभ्यः। नीलऽलोहितेन। अमून्। अभिऽअवतनोमि। ८.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

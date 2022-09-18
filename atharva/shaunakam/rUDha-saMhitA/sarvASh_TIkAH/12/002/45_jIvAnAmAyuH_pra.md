@@ -25,7 +25,6 @@ it is used with one of the offerings of the sacrificer's wife. It (11 +
 Prolong the lives of those who live, O Agni, Let the dead go unto world of Fathers. As goodly household fire burn up Arati; give this man dawn brighter than all the mornings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जीवानाम्। आयुः। प्र। तिर। त्वम्। अग्ने। पितॄणाम्। लोकम्। अपि। गच्छन्तु। ये। मृताः। सुऽगार्हपत्यः। विऽतपन्। अरातिम्। उषाम्ऽउषाम्। श्रेयसीम्। धेहि। अस्मै। २.४५।

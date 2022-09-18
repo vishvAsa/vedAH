@@ -49,10 +49,9 @@ plus 67 *avasāna-rcas*. Similarly ms. l. makes 30 hymns; but 259 verses
 The man who hath this knowledge pours its venom on his hated foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्या:। विऽरोचन:। प्राह्रादि:। वत्स:। आसीत्। अय:ऽपात्रम्। पात्रम्। १३.२।
+तस्याः। विऽरोचनः। प्राह्रादिः। वत्सः। आसीत्। अयःऽपात्रम्। पात्रम्। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

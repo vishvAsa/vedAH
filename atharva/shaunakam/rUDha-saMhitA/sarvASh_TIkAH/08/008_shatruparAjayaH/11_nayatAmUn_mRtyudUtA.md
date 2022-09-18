@@ -20,10 +20,9 @@ apparently is the same with our **d**.
 Bear them away, Death's messengers! envoys of Yama! bind them fast. More than a thousand be their slain: the club of Bhava pierce them through!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नयत। अमून्। मृत्युऽदूता:। यमऽदूता:। अप। उम्भत। पर:ऽसहस्रा:। हन्यन्ताम्। तृणेढु। एनान्। मत्यम्। भवस्य। ८.११।
+नयत। अमून्। मृत्युऽदूताः। यमऽदूताः। अप। उम्भत। परःऽसहस्राः। हन्यन्ताम्। तृणेढु। एनान्। मत्यम्। भवस्य। ८.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

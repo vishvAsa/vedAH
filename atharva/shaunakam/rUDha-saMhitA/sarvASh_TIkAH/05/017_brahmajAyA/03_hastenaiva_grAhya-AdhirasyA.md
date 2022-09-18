@@ -28,10 +28,9 @@ identicjil meaning; emendation to *dūtyā̀ya* is desirable. Ppp. reads
 The man, her pledge, must by the hand be taken when he hath cried, She is a Brahman's consort. She stayed not for a herald to conduct her: thus is the kingdom of a ruler guarded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हस्तेन। एव। ग्राह्य:। आऽधि:। अस्या:। ब्रह्मऽजाया। इति। च। इत्। अवोचत्। न। दूताय। प्रऽहेया। तस्थे। एषा। तथा। राष्ट्रम्। गुपितम्। क्षत्रियस्य। १७.३।
+हस्तेन। एव। ग्राह्यः। आऽधिः। अस्याः। ब्रह्मऽजाया। इति। च। इत्। अवोचत्। न। दूताय। प्रऽहेया। तस्थे। एषा। तथा। राष्ट्रम्। गुपितम्। क्षत्रियस्य। १७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

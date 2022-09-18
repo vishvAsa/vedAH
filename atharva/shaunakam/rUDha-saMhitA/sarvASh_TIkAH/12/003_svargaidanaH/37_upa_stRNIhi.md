@@ -22,7 +22,6 @@ next verse is added in 61. 46 when the operation is completed.
 Pour out the covering butter, spread it eastward: sprinkle this vessel over with the fatness. Greet this, ye Deities, with gentle murmur, as lowing cows wel- come their tender suckling.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। स्तृणीहि। प्रथय। पुरस्तात्। घृतेन। पात्रम्। अभि। धारय। एतत्‌। वाश्राऽइव। उस्रा। तरुणम्। स्तनस्युम्। इमम्। देवासः। अभिऽहिङ्कृणोत। ३.३७।

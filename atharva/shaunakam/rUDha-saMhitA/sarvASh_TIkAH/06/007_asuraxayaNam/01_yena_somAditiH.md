@@ -21,10 +21,9 @@ impossible. ⌊The description as *nicṛt* belongs rather to 8. 1.⌋
 तेना॒ नोऽव॒सा ग॑हि ॥१॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। सोम। अदिति:। पथा। मित्रा:। वा। यन्ति। अद्रुह:। तेन। न:। अवसा। आ। गहि। ७.१।
+येन। सोम। अदितिः। पथा। मित्राः। वा। यन्ति। अद्रुहः। तेन। नः। अवसा। आ। गहि। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

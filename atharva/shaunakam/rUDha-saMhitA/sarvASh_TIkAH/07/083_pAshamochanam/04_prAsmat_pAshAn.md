@@ -26,10 +26,9 @@ text ought to read in **c**, as there, *níḥ ṣv-*. ⌊Pronounce, as there,
 Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the lower. Drive from us evil dream, drive off misfortune: then let us pass into the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। अस्मत्। पाशान्। वरुण। मुञ्च। सर्वान्। ये। उत्ऽतमा:। अधमा:। वारुणा:। ये। दु:ऽस्वप्न्यम्। दु:ऽइतम्। नि:। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। ८८.५।
+प्र। अस्मत्। पाशान्। वरुण। मुञ्च। सर्वान्। ये। उत्ऽतमाः। अधमाः। वारुणाः। ये। दुःऽस्वप्न्यम्। दुःऽइतम्। निः। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। ८८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

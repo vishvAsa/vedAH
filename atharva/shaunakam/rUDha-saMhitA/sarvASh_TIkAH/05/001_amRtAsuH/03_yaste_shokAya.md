@@ -27,10 +27,9 @@ be derived only from the occurrence of *vástrāṇi* in **d**.
 He who--the fluid gold, with radiant kinsmen--to fervent glow delivered up thy body, On him both set names, that shall live for ever: to him the regions shall send robes to clothe him,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। शोकाय। तन्वम्। रिरेच। क्षरत्। हिरण्यम्। शुचय:। अनु। स्वा:। अत्र। दधेते इति। अमृतानि। नाम। अस्मे इति। वस्त्राणि। विश:। आ। ईरयन्ताम्। १.३।
+यः। ते। शोकाय। तन्वम्। रिरेच। क्षरत्। हिरण्यम्। शुचयः। अनु। स्वाः। अत्र। दधेते इति। अमृतानि। नाम। अस्मे इति। वस्त्राणि। विशः। आ। ईरयन्ताम्। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

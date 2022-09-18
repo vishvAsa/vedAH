@@ -22,10 +22,9 @@ MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders
 Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-region, They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यासाम्। देवा:। दिवि। कृण्वन्ति। भक्षम्। या:। अन्तरिक्षे। बहुऽधा। भवन्ति। या:। अग्निम्। गर्भम्। दधिरे। सुऽवर्णा:। ता:। न:। आप:। शम्। स्योना:। भवन्तु।
+यासाम्। देवाः। दिवि। कृण्वन्ति। भक्षम्। याः। अन्तरिक्षे। बहुऽधा। भवन्ति। याः। अग्निम्। गर्भम्। दधिरे। सुऽवर्णाः। ताः। नः। आपः। शम्। स्योनाः। भवन्तु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

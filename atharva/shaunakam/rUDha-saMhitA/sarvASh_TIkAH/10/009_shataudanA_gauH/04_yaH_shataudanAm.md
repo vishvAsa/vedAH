@@ -19,7 +19,6 @@ All the *saṁhitā*-mss. read in **c** *asya rtv-*.
 He who prepares the Hundredfold Oblation gains each wish thereby: For all his ministering priests, contented, move as fitteth them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। शतऽओदनाम्। पचति। कामऽप्रेण। सः। कल्पते। प्रीताः। हि। अस्य। ऋत्विजः। सर्वे। यन्ति। यथाऽयथम्। ९.४।

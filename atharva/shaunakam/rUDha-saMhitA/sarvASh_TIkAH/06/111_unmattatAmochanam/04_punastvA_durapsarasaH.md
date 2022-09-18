@@ -24,10 +24,9 @@ which this hymn has been increased beyond the norm of the book.
 May the Apsarases release, Indra and Bhaga let thee go. May all the Gods deliver thee that thou no longer mayst be mad.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। त्वा। दु:। अप्सरस:। पुन:। इन्द्र:। पुन:। भग:। पुन:। त्वा। दु:। विश्वे। देवा:। यथा। अनुत्ऽमदित:। अससि। १११.४।
+पुनः। त्वा। दुः। अप्सरसः। पुनः। इन्द्रः। पुनः। भगः। पुनः। त्वा। दुः। विश्वे। देवाः। यथा। अनुत्ऽमदितः। अससि। १११.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

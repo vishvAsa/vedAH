@@ -20,10 +20,9 @@ at the same place.
 He who bestows a white-hooved ram, adequate to the place he holds. Ascends to the celestial height, the heaven where tribute is not paid to one more mighty by the weak.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ददाति। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। स:। नाकम्। अभिऽआरोहति। यत्र। शुल्क:। न। क्रियते। अबलेन। बलीयसे। २९.३।
+यः। ददाति। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। सः। नाकम्। अभिऽआरोहति। यत्र। शुल्कः। न। क्रियते। अबलेन। बलीयसे। २९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

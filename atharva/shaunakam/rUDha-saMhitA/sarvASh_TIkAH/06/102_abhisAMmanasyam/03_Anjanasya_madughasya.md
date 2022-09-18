@@ -33,10 +33,9 @@ Here ends also the fourteenth *prapāṭhaka*.
 Swiftly from Bhaga's hands I bear away a love-compelling charm Of ointment and of sugar-cane, of Spikenard and the Kushtha plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽअञ्जनस्य। मदुघस्य। कुष्ठस्य। नलदस्य। च। तुर:। भगस्य। हस्ताभ्याम्। अनुऽरोधनम्। उत्। भरे। १०२.३।
+आऽअञ्जनस्य। मदुघस्य। कुष्ठस्य। नलदस्य। च। तुरः। भगस्य। हस्ताभ्याम्। अनुऽरोधनम्। उत्। भरे। १०२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

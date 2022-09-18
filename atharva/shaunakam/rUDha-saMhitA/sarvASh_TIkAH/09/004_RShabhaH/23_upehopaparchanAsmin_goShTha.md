@@ -25,10 +25,9 @@ Anukr. does not heed the irregularity.
 Here we restore this Bull, your youthful leader: sporting with him, go, wander at your pleasure. Ne'er, wealthy ones! may he be reft of offspring; and do ye favour us with growth of riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। इह। उपऽपर्चन। अस्मिन्। गोऽस्थे। उप। पृञ्च। न:। उप। ऋषभस्य। यत्। रेत:। उप। इन्द्र। तव। वीर्यम्। ४.२४।
+उप। इह। उपऽपर्चन। अस्मिन्। गोऽस्थे। उप। पृञ्च। नः। उप। ऋषभस्य। यत्। रेतः। उप। इन्द्र। तव। वीर्यम्। ४.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

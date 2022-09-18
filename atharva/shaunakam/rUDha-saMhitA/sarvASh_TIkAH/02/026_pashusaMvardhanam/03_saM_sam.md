@@ -24,10 +24,9 @@ seems to reject the obvious resolution *-vi-e-ṇa* in **d.**
 Together stream the cattle! stream together horses and the men! Hitherward press all growth of grain! I offer sacrifice with mixt oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। पशव:। सम्। अश्वा:। सम्। ऊं इति। पुरुषा:। सम्। धान्यस्य। या। स्‍फाति:। सम्ऽस्राव्येण। हविषा। जुहोमि। २६.३।
+सम्। सम्। स्रवन्तु। पशवः। सम्। अश्वाः। सम्। ऊं इति। पुरुषाः। सम्। धान्यस्य। या। स्‍फातिः। सम्ऽस्राव्येण। हविषा। जुहोमि। २६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -41,10 +41,9 @@ drops he failed of"—that is, 'missed.'⌋
 Rishis have called the sacrifice's patron amerced through sin, sorrowing for his offspring. Those drops of meath whereof the missed enjoyment,--may Visvakarman with those drops unite us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञऽपतिम्। ऋषय:। एनसा। आहु:। नि:ऽभक्तम्। प्रऽजा:। अनुऽतप्यमानम्। मथव्यान्। स्तोकान्। अप। यान्। रराध। सम्। न:। तेभि:। सृजतु। विश्वऽकर्मा। ३५.२।
+यज्ञऽपतिम्। ऋषयः। एनसा। आहुः। निःऽभक्तम्। प्रऽजाः। अनुऽतप्यमानम्। मथव्यान्। स्तोकान्। अप। यान्। रराध। सम्। नः। तेभिः। सृजतु। विश्वऽकर्मा। ३५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

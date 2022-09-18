@@ -23,10 +23,9 @@ suggests that *pṛkṣāmahe* (root *pṛc*) may be intended.⌋
 Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacred Lore, may we be wise and live long lives.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अग्ने। तपसा। तप:। उपऽतप्यामहे। तप:। प्रिया:। श्रुतस्य। भूयास्म। आयुष्मन्त:। सुऽमेधस:। ६३.१।
+यत्। अग्ने। तपसा। तपः। उपऽतप्यामहे। तपः। प्रियाः। श्रुतस्य। भूयास्म। आयुष्मन्तः। सुऽमेधसः। ६३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

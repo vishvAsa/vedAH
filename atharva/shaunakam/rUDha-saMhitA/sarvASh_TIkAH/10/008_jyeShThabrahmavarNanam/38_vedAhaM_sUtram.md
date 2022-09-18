@@ -17,7 +17,6 @@ in; the string of the string I know, likewise the great *brā́hmaṇa*.
 I know the drawn-out string, the thread whereon these creatures all are strung. I know the thread's thread also, thus I know the mighty Brah- ma na.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वेद। अहम्। सूत्रम्। विऽततम्। यस्मिन्। आऽउताः। प्रऽजाः। इमाः। सूत्रम्। सूत्रस्य। अहम्। वेद। अथो इति। यत्। ब्राह्मणम्। महत्। ८.३८।

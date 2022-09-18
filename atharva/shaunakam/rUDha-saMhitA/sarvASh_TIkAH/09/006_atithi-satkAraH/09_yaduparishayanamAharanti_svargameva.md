@@ -20,10 +20,9 @@ elevated couch.' The verse lacks a syllable.
 With the couch that the men bring, he wins for himself the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। उपरिऽशयनम्। आऽहरन्ति। स्व:ऽगम्। एव। तेन। लोकम्। अव। रुन्ध्दे। ६.९।
+यत्। उपरिऽशयनम्। आऽहरन्ति। स्वःऽगम्। एव। तेन। लोकम्। अव। रुन्ध्दे। ६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

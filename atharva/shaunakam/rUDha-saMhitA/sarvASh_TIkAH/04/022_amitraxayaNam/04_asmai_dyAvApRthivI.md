@@ -27,10 +27,9 @@ signifies the *pravargya*. ⌊The meter requires the prefix.⌋
 Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him full many a blessing. May he as King be Indra's well-beloved, the darling of the kine, the plants, the cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मै। द्यावापृथिवी  इति। भूरि। वामम्। दुहाथाम्। घर्मदुघे इवेति घर्मदुघेऽइव। धेनू इति। अयम्। राजा। प्रिय:। इन्द्रस्य। भूयात्। प्रिय:। गवाम्। ओषधीनाम्। पशूनाम्। २२.४।
+अस्मै। द्यावापृथिवी  इति। भूरि। वामम्। दुहाथाम्। घर्मदुघे इवेति घर्मदुघेऽइव। धेनू इति। अयम्। राजा। प्रियः। इन्द्रस्य। भूयात्। प्रियः। गवाम्। ओषधीनाम्। पशूनाम्। २२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

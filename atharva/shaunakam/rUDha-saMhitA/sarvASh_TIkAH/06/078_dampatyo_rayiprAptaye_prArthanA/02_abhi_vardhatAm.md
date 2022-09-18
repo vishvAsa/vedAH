@@ -26,7 +26,6 @@ SPP's.
 With life's sap let him comfort her, and raise her high with princely sway. In wealth that hath a thousand powers, this pair be inexhausti- ble!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभि। वर्धताम्। पयसा। अभि। राष्ट्रेण। वर्धताम्। रय्या। सहस्रऽवर्चसा। इमौ। स्ताम्। अनुपऽक्षितौ। ७८.२।

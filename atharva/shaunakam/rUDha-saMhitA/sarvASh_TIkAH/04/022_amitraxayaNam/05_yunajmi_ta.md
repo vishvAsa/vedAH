@@ -22,10 +22,9 @@ svā́nām átho rājann utt-*. The comm. explains *uttarā́vantam* by
 I join in league with thee victorious Indra, with whom men conquer and are ne'er defeated. He shall make thee the folk's sole lord and leader, shall make thee highest of all human rulers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-युनज्मि। ते। उत्तरऽवन्तम्। इन्द्रम्। येन। जयन्ति। न। पराऽजयन्ते। य:। त्वा। करत्। एकऽवृषम्। जनानाम्। उत। राज्ञाम्। उत्ऽतमम्। मानवानाम्। २२.५।
+युनज्मि। ते। उत्तरऽवन्तम्। इन्द्रम्। येन। जयन्ति। न। पराऽजयन्ते। यः। त्वा। करत्। एकऽवृषम्। जनानाम्। उत। राज्ञाम्। उत्ऽतमम्। मानवानाम्। २२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

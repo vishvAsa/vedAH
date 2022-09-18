@@ -18,7 +18,6 @@ Gandharvas-and-Apsarases: from the remnant etc. etc.
 The Deities, the Fathers, men, Gandharvas, and Apsarases. All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। पितरः। मनुष्याः। गन्धर्वऽअप्सरसः। च। ये। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२७।

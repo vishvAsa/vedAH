@@ -29,10 +29,9 @@ verse has but one real *jagatī* pāda (**a**). ⌊With **d** (= vi. 98. 1
 To thee hath come the kingship with its splendour: On! shine as lord, sole ruler of the people. King! let all regions of the heavens invite thee. Here let men wait on thee and bow before thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। त्वा। गन्। राष्ट्रम्। सह। वर्चसा। उत्। इहि। प्राङ्। विशाम्। पति:। एकऽराट्। त्वम्। वि। राज। सर्वा:। त्वा। राजन्। प्रऽदिश:। ह्वयन्तु। उपऽसद्य:। नमस्य:। भव। इह। ४.१।
+आ। त्वा। गन्। राष्ट्रम्। सह। वर्चसा। उत्। इहि। प्राङ्। विशाम्। पतिः। एकऽराट्। त्वम्। वि। राज। सर्वाः। त्वा। राजन्। प्रऽदिशः। ह्वयन्तु। उपऽसद्यः। नमस्यः। भव। इह। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

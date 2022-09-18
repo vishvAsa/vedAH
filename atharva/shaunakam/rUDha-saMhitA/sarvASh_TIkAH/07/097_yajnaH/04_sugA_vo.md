@@ -38,10 +38,9 @@ notice the redundancy of **c**, due to the apparently intruded *svā*.
 Gods, we have made your seats of easy access, who, pleased with me, have come to my libation. Bearing and bringing hitherward your treasures, after the rich warm beverage mount to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽगा। व:। देवा:। सदना। अकर्म। ये। आऽजग्म। सवने। मा। जुषाणा:। वहमाना:। भरमाणा:। स्वा। वसूनि। वसुम्। घर्मम्। दिवम्। आ। रोहत। अनु। १०२.४।
+सुऽगा। वः। देवाः। सदना। अकर्म। ये। आऽजग्म। सवने। मा। जुषाणाः। वहमानाः। भरमाणाः। स्वा। वसूनि। वसुम्। घर्मम्। दिवम्। आ। रोहत। अनु। १०२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

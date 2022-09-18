@@ -23,10 +23,9 @@ The comm. has *purastāt* in **a**.
 If one should flee afar beyond the heaven, King Varuna would still be round about him. Proceeding hither from the sky his envoys look, thousand-eyed, over the earth beneath them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। य:। द्याम्। अतिऽसर्पात्। परस्तात्। न। स:। मुच्यातै। वरुणस्य। राज्ञ:। दिव:। स्पश:। प्र। चरन्ति। इदम्। अस्य। सहस्रऽअक्षा:। अति। पश्यन्ति। भूमिम्। १६.४।
+उत। यः। द्याम्। अतिऽसर्पात्। परस्तात्। न। सः। मुच्यातै। वरुणस्य। राज्ञः। दिवः। स्पशः। प्र। चरन्ति। इदम्। अस्य। सहस्रऽअक्षाः। अति। पश्यन्ति। भूमिम्। १६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

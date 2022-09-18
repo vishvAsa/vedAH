@@ -19,10 +19,9 @@ title = "०५ यममी पुरोदधिरे"
 The Brahman whom those yonder have appointed priest, for injury, He, Indra! is beneath thy feet. I cast him to the God of Death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। अमी इति। पुर:ऽदधिरे। ब्रह्माणम्। अपऽभूतये। इन्द्र। स:। ते। अध:ऽपदम्। तम्। प्रति। अस्यामि। मृत्यवे। । ८.५।
+यम्। अमी इति। पुरःऽदधिरे। ब्रह्माणम्। अपऽभूतये। इन्द्र। सः। ते। अधःऽपदम्। तम्। प्रति। अस्यामि। मृत्यवे। । ८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

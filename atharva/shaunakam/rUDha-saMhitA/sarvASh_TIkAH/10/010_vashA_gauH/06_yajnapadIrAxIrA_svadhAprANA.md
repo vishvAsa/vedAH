@@ -21,7 +21,6 @@ nowhere else). There is no need of calling the verse *virāj*.
 Her foot is sacrifice, her milk libation, Svadha her breath, Mahi- luka the mighty: To the God goes with prayer the Cow who hath Parjanya for her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यज्ञऽपदी। इराऽक्षीरा। स्वधाऽप्राणा। महीलुका। वशा। पर्जन्यऽपत्नी। देवान्। अपि। एति। ब्रह्मणा। १०.६।

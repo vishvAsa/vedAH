@@ -27,10 +27,9 @@ Here ends also the thirteenth *prapāṭhaka*.
 O Varuna, whatever the offence may be, the sin which men commit against the heavenly folk-- When, through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। किम्। च। इदम्। वरुण। दैव्ये। जने। अभिऽद्रोहम्। मनुष्या:। चरन्ति। अचित्त्या। च। इत्। तव। धर्म। युयोपिम। मा। न:। तस्मात्। एनस:। देव। रीरिष:। ५१.३।
+यत्। किम्। च। इदम्। वरुण। दैव्ये। जने। अभिऽद्रोहम्। मनुष्याः। चरन्ति। अचित्त्या। च। इत्। तव। धर्म। युयोपिम। मा। नः। तस्मात्। एनसः। देव। रीरिषः। ५१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

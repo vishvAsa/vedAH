@@ -23,10 +23,9 @@ poison-receptacle (*apakṛṣṭāvasthād etatsaṁjñād viṣopādānāt*).
 The poison have I charmed away from shaft, cement, and feather- ed end; Yea, from the barb, the neck, the horn, the poison have I charmed away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शल्यात्। विषम्। नि:। अवोचम्। प्रऽअञ्जनात्। उत। पर्णऽधे:। अपाष्ठात्। शृङ्गात्। कुल्मलात्। नि:। अवोचम्। अहम्। विषम्। ६.५।
+शल्यात्। विषम्। निः। अवोचम्। प्रऽअञ्जनात्। उत। पर्णऽधेः। अपाष्ठात्। शृङ्गात्। कुल्मलात्। निः। अवोचम्। अहम्। विषम्। ६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ verse). Ppp. omits **a, b**, and reads (better) *sarvadā* instead of
 Lord of the clan who brings, us bliss, fiend-slayer, queller of the foe, May he, the conqueror, ne'er subdued, may Indra bind the Charm on thee, Bull, Soma-drinker, he who gives us peace. May he protect thee round about, by night and day on every, side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वस्तिऽदा:। विशाम्। पति:। वृत्रऽहा। विऽमृध:। वशी। इन्द्र:। बध्नातु। ते। मणिम्। जिगीवान्। अपराऽजित:। सोमऽपा:। अभयम्ऽकर:। वृषा। स:। त्वा। रक्षतु। सर्वत:। दिवा। नक्तम्। च। विश्वत:। ५.२२।
+स्वस्तिऽदाः। विशाम्। पतिः। वृत्रऽहा। विऽमृधः। वशी। इन्द्रः। बध्नातु। ते। मणिम्। जिगीवान्। अपराऽजितः। सोमऽपाः। अभयम्ऽकरः। वृषा। सः। त्वा। रक्षतु। सर्वतः। दिवा। नक्तम्। च। विश्वतः। ५.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

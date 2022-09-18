@@ -7,7 +7,6 @@ title = "०२५ पापमोचनम्"
 25. Praise and prayer to Vāyu and Savitar.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -18,8 +17,6 @@ title = "०२५ पापमोचनम्"
 
 [Mṛgāra.—(see h. 23). 3. atiśakvarīgarbhā jagatī; 7. pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 166; Weber, xviii. 102.
 
 A hymn of prayer and praise to Vayu and Savitar
 </details>
+

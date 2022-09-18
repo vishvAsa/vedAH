@@ -23,10 +23,9 @@ see Hillebrandt, *Ved. Mythol.* i. 60 f.⌋
 The mountains where the Soma grows, the waters lying calm and still, Vata, Parjanya, Agni's self have made the Flesh-consumer rest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पर्वता:। सोमऽपृष्ठा:। आप:। उत्तानऽशीवरी:। वात:। पर्जन्य:। आत्। अग्नि:। ते। क्रव्यऽअदम्। अशीशमन्। २१.१०।
+ये। पर्वताः। सोमऽपृष्ठाः। आपः। उत्तानऽशीवरीः। वातः। पर्जन्यः। आत्। अग्निः। ते। क्रव्यऽअदम्। अशीशमन्। २१.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

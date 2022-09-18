@@ -26,10 +26,9 @@ see Zimmer, p. 400.⌋
 All Gods who dwell on earth or in the heavens, in air, within. the plants, the beasts, the waters, Grant this man life to full old age, and let him escape the hundred other ways of dying.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। देवा:। दिवि। स्थ। ये। पृथिव्याम्। ये। अन्तरिक्षे। ओषधीषु। पशुषु। अप्ऽसु। अन्त:। ते। कृणुत। जरसम्। आयु:। अस्मै। शतम्। अन्यान्। परि। वृणक्तु। मृत्यून्।
+ये। देवाः। दिवि। स्थ। ये। पृथिव्याम्। ये। अन्तरिक्षे। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। ते। कृणुत। जरसम्। आयुः। अस्मै। शतम्। अन्यान्। परि। वृणक्तु। मृत्यून्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

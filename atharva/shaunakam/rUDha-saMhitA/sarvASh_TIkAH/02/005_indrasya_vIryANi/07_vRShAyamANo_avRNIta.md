@@ -28,10 +28,9 @@ the old Anukr. says: *pañcarcādye* (i.e. 'in the first division of the
 Impetuous as a bull he chose the Soma, and quaffed the juices in three sacred beakers. Maghavan grasped the thunder for his weapon, and smote to death this first-born of the dragons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषऽयमान:। अवृणीत। सोमम्। त्रिऽकद्रुकेषु। अपिबत्। सुतस्य। आ। सायकम्। मघऽवा। अदत्त। वज्रम्। अहन्। एनम्। प्रथमऽजाम्। अहीनाम्। ५.७।
+वृषऽयमानः। अवृणीत। सोमम्। त्रिऽकद्रुकेषु। अपिबत्। सुतस्य। आ। सायकम्। मघऽवा। अदत्त। वज्रम्। अहन्। एनम्। प्रथमऽजाम्। अहीनाम्। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

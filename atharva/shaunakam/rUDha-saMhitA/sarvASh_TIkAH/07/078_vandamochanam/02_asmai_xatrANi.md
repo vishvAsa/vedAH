@@ -25,10 +25,9 @@ value was *-viṇam*, and this the translation assumes.
 I with celestial prayer appoint thee, Agni, maintainer of this man in princely powers. Here brightly shine for us with wealth: declare thou to Gods this favoured giver of oblations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मै। क्षत्राणि। धारयन्तम्। अग्ने। युनज्मि। त्वा। ब्रह्मणा। दैव्येन। दीदिहि। अस्मभ्यम्। द्रविणा। इह। भद्रम्। प्र। इमम्। वोच:। हवि:ऽदाम्। देवतासु। ८३.२।
+अस्मै। क्षत्राणि। धारयन्तम्। अग्ने। युनज्मि। त्वा। ब्रह्मणा। दैव्येन। दीदिहि। अस्मभ्यम्। द्रविणा। इह। भद्रम्। प्र। इमम्। वोचः। हविःऽदाम्। देवतासु। ८३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

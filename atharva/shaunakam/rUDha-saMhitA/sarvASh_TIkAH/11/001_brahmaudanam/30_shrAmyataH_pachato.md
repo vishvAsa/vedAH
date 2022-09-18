@@ -24,7 +24,6 @@ no light on the verse.
 Mark him who toils and cooks and pours oblation: make this man climb the path that leads to heaven, That he may mount and reach life that is highest, ascending to the loftiest vault above us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्राम्यतः। पचतः। विध्दि। सुन्वतः। पन्थाम्। स्वःऽगम्। अधि। रोहय। एनम्। येन। रोहात्। परम्। आऽपद्य। यत्। वयः। उत्ऽतमम्। नाकम्। परमम्। विऽओम। १.३०।

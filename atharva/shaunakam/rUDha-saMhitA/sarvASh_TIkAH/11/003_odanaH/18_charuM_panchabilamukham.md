@@ -17,7 +17,6 @@ title = "१८ चरुं पञ्चबिलमुखम्"
 The caldron flames round the oblation (charu) whose mouth consists of five openings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चरुम्। पञ्चऽबिलम्। उखम्। घर्मः। अभि। इन्धे। ३.१८।

@@ -19,10 +19,9 @@ the accent of the first *asmi*.
 Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। पितर:। पितर:। देवा:। य:। अस्मि। स:। अस्मि। १२३.३।
+देवाः। पितरः। पितरः। देवाः। यः। अस्मि। सः। अस्मि। १२३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

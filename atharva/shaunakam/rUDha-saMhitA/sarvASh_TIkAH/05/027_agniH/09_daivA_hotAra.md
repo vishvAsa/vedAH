@@ -14,10 +14,9 @@ title = "०९ दैवा होतार"
 Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, so that our sacrifice be well conducted!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दैवा:। होतार:। ऊर्ध्वम्‌। अध्वरम्। न:। अग्ने:। जिह्वया। अभि। गृणत। गृणत। न:। सुऽइष्टये। तिस्र:। देवी:। बर्हि:। आ। इदम्। सदन्ताम्। इडा। सरस्वती। मही। भारती। गृणाना। २७.९।
+दैवाः। होतारः। ऊर्ध्वम्‌। अध्वरम्। नः। अग्नेः। जिह्वया। अभि। गृणत। गृणत। नः। सुऽइष्टये। तिस्रः। देवीः। बर्हिः। आ। इदम्। सदन्ताम्। इडा। सरस्वती। मही। भारती। गृणाना। २७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

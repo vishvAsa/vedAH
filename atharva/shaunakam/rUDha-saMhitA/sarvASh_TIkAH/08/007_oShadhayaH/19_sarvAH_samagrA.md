@@ -19,10 +19,9 @@ above.
 Let all the congregated Plants attend and mark mine utterance, That we may rescue this man here and save him from severe distress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्वा:। सम्ऽअग्रा:। ओषधी:। बोधन्तु। वचस:। मम। यथा। इमम्। पारयामसि। पुरुषम्। दु:ऽइतात्। अधि। ७.१९।
+सर्वाः। सम्ऽअग्राः। ओषधीः। बोधन्तु। वचसः। मम। यथा। इमम्। पारयामसि। पुरुषम्। दुःऽइतात्। अधि। ७.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

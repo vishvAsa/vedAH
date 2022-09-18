@@ -19,10 +19,9 @@ the mss. except Bp.²
 This Agni must be waited on. Here let the Sun mount up for thee. Rise from deep death and come away, yea, from black darkness rise thou up!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। अग्नि:। उपऽसद्य:। इह। सूर्य:। उत्। एतु। ते। उत्ऽएहि। मृत्यो:। गम्भीरात्। कृष्णात्। चित्। तमस:। परि। ३०.११।
+अयम्। अग्निः। उपऽसद्यः। इह। सूर्यः। उत्। एतु। ते। उत्ऽएहि। मृत्योः। गम्भीरात्। कृष्णात्। चित्। तमसः। परि। ३०.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

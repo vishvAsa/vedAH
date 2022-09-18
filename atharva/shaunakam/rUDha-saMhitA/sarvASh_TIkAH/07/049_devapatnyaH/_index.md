@@ -7,7 +7,6 @@ title = "०४९ देवपत्न्यः"
 49 (51). To the spouses of the gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 देवपत्न्यः।  
@@ -18,8 +17,6 @@ title = "०४९ देवपत्न्यः"
 
 [Atharvam.—dvyṛcam. mantroktadevapatnīdevatākam. 1. ārṣī jagatī; 2. 4. p. pan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 17, 75; Griffith, i. 349.
 
 A prayer for children and booty
 </details>
+

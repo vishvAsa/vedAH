@@ -28,10 +28,9 @@ relation of the nave to the felly.
 Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। प्रऽधि:। यथा। उपऽधि:। यथा। नभ्यम्। प्रऽधौ। अधि। यथा। पुंस:। वृषण्यत:। स्त्रियाम्। निऽहन्यते। मन:। एव। ते। अघ्न्ये। मन:। अधि। वत्से। नि। हन्यताम्। ७०.३।
+यथा। प्रऽधिः। यथा। उपऽधिः। यथा। नभ्यम्। प्रऽधौ। अधि। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

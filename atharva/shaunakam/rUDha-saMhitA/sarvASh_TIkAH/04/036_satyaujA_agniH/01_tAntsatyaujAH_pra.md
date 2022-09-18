@@ -22,10 +22,9 @@ example of the former.
 Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who would pain and injure us, him who would treat us as a foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तान्। सत्यऽओजा:। प्र। दहतु। अग्नि:। वैश्वानर:। वृषा। य:। न:। दुरस्यात्। दिप्सात्। च। अथो इति। य:। न:। अरातिऽयात्। ३६.१।
+तान्। सत्यऽओजाः। प्र। दहतु। अग्निः। वैश्वानरः। वृषा। यः। नः। दुरस्यात्। दिप्सात्। च। अथो इति। यः। नः। अरातिऽयात्। ३६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

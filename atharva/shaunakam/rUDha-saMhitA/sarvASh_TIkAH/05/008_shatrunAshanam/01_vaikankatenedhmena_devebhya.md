@@ -20,10 +20,9 @@ Ppp. reads *sādaya*, which is better, in **c**, and combines *sarvā
 With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful here: let them all come unto my call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैकङ्कतेन। इध्मेन। देवेभ्य:। आज्यम्। वह। अग्ने। तान्। इह। मादय। सर्वे। आ। यन्तु। मे। हवम्। ८.१।
+वैकङ्कतेन। इध्मेन। देवेभ्यः। आज्यम्। वह। अग्ने। तान्। इह। मादय। सर्वे। आ। यन्तु। मे। हवम्। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

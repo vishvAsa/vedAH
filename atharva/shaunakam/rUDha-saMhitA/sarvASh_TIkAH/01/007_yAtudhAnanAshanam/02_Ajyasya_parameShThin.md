@@ -30,10 +30,9 @@ SPP. chooses the former ⌊cf. Prāt. íí. 11⌋. Ppp. has *vaśim* in **b.**
 O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, taste the oil: make thou the Yatudhanas mourn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आज्यस्य। परमेस्थिन्। जातवेद:। तनूवशिन्। अग्ने। तौलस्य। म। अशान। यातुधानान्। वि। लापय।
+आज्यस्य। परमेस्थिन्। जातवेदः। तनूवशिन्। अग्ने। तौलस्य। म। अशान। यातुधानान्। वि। लापय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

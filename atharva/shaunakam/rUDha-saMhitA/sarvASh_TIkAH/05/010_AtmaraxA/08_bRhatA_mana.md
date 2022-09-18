@@ -24,10 +24,9 @@ old Anukr. says *ādyāt para ekādaśahīnaṣaṣṭiḥ*.
 With Brihat I invoke the mind, with Matarisvan both the breaths, The eye from Surya, and the ear from Air, the body from the Earth. We, with Sarasvati who suits the mind, call Speech to come to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहता। मन:। उप। ह्वये। मातरिश्वना। प्राणापानौ। सूर्यात्। चक्षु:। अन्तरिक्षात्। श्रोत्रम्। पृथिव्या:। शरीरम्। सरस्वत्या:। वाचम्। उप। ह्वयामहे। मन:ऽयुजा। १०.८।
+बृहता। मनः। उप। ह्वये। मातरिश्वना। प्राणापानौ। सूर्यात्। चक्षुः। अन्तरिक्षात्। श्रोत्रम्। पृथिव्याः। शरीरम्। सरस्वत्याः। वाचम्। उप। ह्वयामहे। मनःऽयुजा। १०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

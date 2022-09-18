@@ -25,10 +25,9 @@ nearly unchanged.
 I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt be mine and only mine, and never mention other dames.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। वदामि। न। इत्। त्वम्। सभायाम्। अह। त्वम्। वद। मम। इत्। अस:। त्वम्। केवल:। न। अन्यासाम्। कीर्तया:। चन। ३९.४।
+अहम्। वदामि। न। इत्। त्वम्। सभायाम्। अह। त्वम्। वद। मम। इत्। असः। त्वम्। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

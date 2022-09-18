@@ -22,10 +22,9 @@ adhi pra-*. SPP. seems to regard the comm. as reading *abhiprasarpataḥ*.
 From the five-footed, fingerless, from the four-eyed, the double- faced, From the Close-creeper, from the Worm, from the Quick-roller guard her well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्विऽआस्यात्। चतु:ऽअक्षात्। पञ्चऽपादात्। अनङ्गुरे:। वृन्तात्। अभ‍ि। प्रऽसर्पत:। परि। पाहि। वरीवृतात्। ६.२२।
+द्विऽआस्यात्। चतुःऽअक्षात्। पञ्चऽपादात्। अनङ्गुरेः। वृन्तात्। अभ‍ि। प्रऽसर्पतः। परि। पाहि। वरीवृतात्। ६.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

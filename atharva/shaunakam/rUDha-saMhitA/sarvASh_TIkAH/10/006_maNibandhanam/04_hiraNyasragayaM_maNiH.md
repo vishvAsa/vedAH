@@ -18,7 +18,6 @@ greatness, dwell a guest in our house.
 This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, and dwell as guest within our house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हिरण्यऽस्रक्। अयम्। मणिः। श्रध्दाम्। यज्ञम्। महः। दधत्। गृहे। वसतु। नः। अतिथिः। ६.४।

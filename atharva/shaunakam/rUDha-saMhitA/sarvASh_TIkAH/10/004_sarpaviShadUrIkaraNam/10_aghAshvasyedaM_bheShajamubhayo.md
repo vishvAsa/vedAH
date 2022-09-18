@@ -21,7 +21,6 @@ the better reading *vṛścikasya ca* ⌊cf. our 15 **c, d**, below⌋.
 This is the remedy against Aghasva and the adder, both: Indra and Paidva have subdued and tamed the vicious snake for me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघऽअश्वस्य। इदम्। भेषजम्। उभयोः। स्वजस्य। च। इन्द्रः। मे। अहिम्। अघऽयन्तम्। अहिम्। पैद्वः। अरन्धयत्। ४.१०।

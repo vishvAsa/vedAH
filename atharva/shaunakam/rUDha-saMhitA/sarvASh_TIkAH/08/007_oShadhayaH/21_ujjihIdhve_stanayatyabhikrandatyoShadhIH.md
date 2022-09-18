@@ -21,10 +21,9 @@ with *stanáyati*, under the domain of *yadā́*⌋.
 Lift yourselves up, ye Healing Plants, loud is the thunder's crash and roar. When with full flow Parjanya, ye Children of Prisni! blesseth; you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। जिहीध्वे। स्तनयति। अभिऽक्रन्दति। ओषधी:। यदा। व:। पृश्निऽमातर:। पर्जन्य:। रेतसा। अवति। ७.२१।
+उत्। जिहीध्वे। स्तनयति। अभिऽक्रन्दति। ओषधीः। यदा। वः। पृश्निऽमातरः। पर्जन्यः। रेतसा। अवति। ७.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

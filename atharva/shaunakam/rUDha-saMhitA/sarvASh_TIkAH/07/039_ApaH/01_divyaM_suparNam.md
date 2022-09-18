@@ -31,10 +31,9 @@ invoke him."
 May he establish in our home the master of riches, gladdening with rain in season, Mighty, strong-winged, celestial, dropping moisture, Bull of the plants and embryo of waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव्यम्। सुऽपर्णम्। पयसम्। बृहन्तम्। अपाम्। गर्भम्। वृषभम्। ओषधीनाम्। अभीपत:। वृष्ट्या। तर्पयन्तम्। आ। न:। गोऽस्थे। रयिऽस्थाम्। स्थापयति। ४०.१।
+दिव्यम्। सुऽपर्णम्। पयसम्। बृहन्तम्। अपाम्। गर्भम्। वृषभम्। ओषधीनाम्। अभीपतः। वृष्ट्या। तर्पयन्तम्। आ। नः। गोऽस्थे। रयिऽस्थाम्। स्थापयति। ४०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

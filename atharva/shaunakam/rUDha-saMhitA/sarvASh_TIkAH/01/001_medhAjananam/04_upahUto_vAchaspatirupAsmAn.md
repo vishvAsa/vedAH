@@ -24,10 +24,9 @@ dadhāmi.* The Anukr. notes the metrical irregularity of the second pāda.
 Vachaspati hath been invoked: may he invite us in reply. May we adhere to Sacred Lore. Never may I be reft thereof.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽहूतः। वाचः। पति:। उप। अस्मान्। वाचः। पति:। व्हयताम्। सम्। श्रुतेन। गमेमहि। मा। श्रुतेन। वि। राधिषि।
+उपऽहूतः। वाचः। पतिः। उप। अस्मान्। वाचः। पतिः। व्हयताम्। सम्। श्रुतेन। गमेमहि। मा। श्रुतेन। वि। राधिषि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

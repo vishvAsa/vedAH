@@ -7,7 +7,6 @@ title = "०४१ दीर्घायुःप्राप्तिः"
 41. To various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०४१ दीर्घायुःप्राप्तिः"
 
 [Brahman.—bahudāivatam uta cāndramasam. ānuṣṭubham: 1. bhurij; 3. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 301 or 53; Griffith, i. 266.
 
 A prayer for protection, long life, and various blessings
 </details>
+

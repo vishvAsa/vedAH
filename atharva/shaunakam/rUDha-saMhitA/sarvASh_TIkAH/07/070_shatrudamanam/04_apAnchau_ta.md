@@ -21,10 +21,9 @@ the **c, d** of a vs. which is immediately followed by our next vs.⌋
 I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the anger of the God Agni have killed thy sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाञ्चौ। ते। उभौ। बाहू इति। अपि। नह्यामि। आस्यम्। अग्ने:। देवस्य। मन्युना। तेन। ते। अवधिषम्। हव‍ि:। ७३.४।
+अपाञ्चौ। ते। उभौ। बाहू इति। अपि। नह्यामि। आस्यम्। अग्नेः। देवस्य। मन्युना। तेन। ते। अवधिषम्। हव‍िः। ७३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

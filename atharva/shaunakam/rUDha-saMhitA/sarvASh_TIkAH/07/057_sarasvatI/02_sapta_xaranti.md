@@ -30,10 +30,9 @@ piṣyakaḥ*.
 Seven flow for him, the youth on whom the Maruts wait: the sons have taught the Father everlasting laws. Both worlds are his: both shine belonging unto him. Both move together: both, as his possession thrive.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। क्षरन्ति। शिशवे। मरुत्वते। पित्रे। पुत्रास:। अपि। अवीवृतन्। ऋतानि। उभे इति। इत्। अस्य। उभे इति। अस्य। राजत:। उभे इति। यतेते इति। उभे इति। अस्य। पुष्यत:। ५९.२।
+सप्त। क्षरन्ति। शिशवे। मरुत्वते। पित्रे। पुत्रासः। अपि। अवीवृतन्। ऋतानि। उभे इति। इत्। अस्य। उभे इति। अस्य। राजतः। उभे इति। यतेते इति। उभे इति। अस्य। पुष्यतः। ५९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

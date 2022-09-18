@@ -24,7 +24,6 @@ Véd.*, ii. 122, would separate *pradiśas* from *urvīs*.⌋
 Skambha set fast these two, the earth and heaven, Skambha maintained the ample air between them. Skambha established the six spacious regions: this whole world Skambha entered and pervaded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्कम्भः। दाधार। द्यावापृथिवी इति। उभे इति। इमे इति। स्कम्भः। दाधार। उरु। अन्तरिक्षम्। स्कम्भः। दाधार। प्रऽदिशः। षट्। उर्वीः। स्कम्भे। इदम्। विश्वम्। भुवनम्। आ। विवेश। ७.३५।

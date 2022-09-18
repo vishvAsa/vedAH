@@ -34,10 +34,9 @@ it to a following initial sibilant. The comm. reads *stana* instead of
 We bend together all your minds, your vows and purposes we bend. We bend together you who stand apart with hopes opposed to ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। मनांसि। सम्। व्रता। सम्। आऽकूती:। नमामसि। अमी इति। ये। विऽव्रता:। स्थन। तान्। व:। सम्। नमयामसि। ८.५।
+सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

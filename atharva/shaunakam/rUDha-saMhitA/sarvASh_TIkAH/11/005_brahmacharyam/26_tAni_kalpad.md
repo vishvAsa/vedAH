@@ -25,7 +25,6 @@ the comm. makes no scruple of glossing it with *kalpayan*.
 These, standing on the flood, the Brahmachari formed practising in sea his hot devotion. When he hath bathed, brown, yellow-hued, he shines exceedingly on earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तानि। कल्पत्। ब्रह्मऽचारी। सलिलस्य। पृष्ठे। तपः। अतिष्ठत्। तप्यमानः। समुद्रे। सः। स्नातः। बभ्रुः। पिङ्गलः। पृथिव्याम्। बहु। रोचते। ७.२६।

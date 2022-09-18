@@ -19,10 +19,9 @@ Wanting (as noted above) in Ppp. ⌊for *tṛṇáhān*, see *Gram.* §687.⌋
 Exertions which that man hath made, Exertions which he yet will make Turn them, O Indra, back again, O Vritra-slayer, back again on him that they may kill that man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यान्। असौ। अतिऽसरान्। चकार। कृणवत्। च। यान्। त्वम्। तान्। इन्द्र। वृत्रऽहन्। प्रतीच:। पुन:। आ। कृधि। यथा। अमुम्। तृणहान्। जनम्। ८.७।
+यान्। असौ। अतिऽसरान्। चकार। कृणवत्। च। यान्। त्वम्। तान्। इन्द्र। वृत्रऽहन्। प्रतीचः। पुनः। आ। कृधि। यथा। अमुम्। तृणहान्। जनम्। ८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

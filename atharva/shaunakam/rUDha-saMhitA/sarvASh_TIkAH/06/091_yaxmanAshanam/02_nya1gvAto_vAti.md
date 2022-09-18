@@ -21,10 +21,9 @@ Anukr. ignores the deficiency of our text.
 Vita breathes downward from above, and downward Surya sends his heat: Downward is drawn the milch-cow's milk: so downward go thy malady!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न्यक्। वात:। वाति। न्यक्। तपति। सूर्य:। नीचीनम्। अघ्न्या। दुहे। न्यक्। भवतु। ते। रप:। ९१.२।
+न्यक्। वातः। वाति। न्यक्। तपति। सूर्यः। नीचीनम्। अघ्न्या। दुहे। न्यक्। भवतु। ते। रपः। ९१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

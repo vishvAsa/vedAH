@@ -17,7 +17,6 @@ gods shared, in order to both force and strength.
 The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose protection, both, Indra and yon Aditya stand.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। असौ। गुप्तः। आदित्यः। उभौ। इन्द्रः। च। तिष्ठतः। त्रिऽसंधिम्। देवाः। अभजन्त। ओजसे। च। बलाय। च। १२.११।

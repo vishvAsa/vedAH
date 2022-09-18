@@ -20,7 +20,6 @@ the same. Ppp. also has *dīrgham* for *viśvam* in **b**. ⌊Cf. MP. 1. 8.
 Be not divided; dwell ye here; reach the full time of human life. With sons and grandsons sport and play, rejoicing in your happy home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। एव। स्तम्। मा। वि। यौष्टम्। विश्वम्। आयुः। वि। अश्नुतम्। क्रीडन्तौ। पुत्रैः। नप्तृऽभिः। मोदमानौ। सुऽअस्तकौ। १.२२।

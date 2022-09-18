@@ -22,8 +22,7 @@ reading *dṛthās* in **b**.
 Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the shaft of Love: therewith I pierce thee to the heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽतुद:। त्वा। उत्। तुदतु। मा। धृथा:। शयने। स्वे। इषु:। कामस्य। या। भीमा। तया। विध्यामि। त्वा। हृदि। २५.१।
+उत्ऽतुदः। त्वा। उत्। तुदतु। मा। धृथाः। शयने। स्वे। इषुः। कामस्य। या। भीमा। तया। विध्यामि। त्वा। हृदि। २५.१।
 </details>

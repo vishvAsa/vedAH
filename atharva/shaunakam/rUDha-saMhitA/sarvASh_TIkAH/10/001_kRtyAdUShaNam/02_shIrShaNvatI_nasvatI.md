@@ -22,7 +22,6 @@ hiṇmasi yaś cakāra tum ṛcchatu:* cf. vs. 5 **c** and v. 14. 11 **c**.
 Complete, with head and nose and ears, all-beauteous, wrought with magic skill Afar let her depart: away we drive her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शीर्षण्ऽवती। नस्वती। कर्णिनी। कृत्याऽकृता। सम्ऽभृता। विश्वऽरूपा। सा। आरात्। एतु। अप। नुदामः। एनाम्। १.२।

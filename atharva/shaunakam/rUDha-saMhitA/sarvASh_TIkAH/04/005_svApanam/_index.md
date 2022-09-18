@@ -7,7 +7,6 @@ title = "००५ स्वापनम्"
 5. An incantation to put to sleep.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वापनम्।  
@@ -18,8 +17,6 @@ title = "००५ स्वापनम्"
 
 [Brahman.—svāpanam, vārṣabham. ānuṣṭubham: 2. bhurij; 7. purastājjyotis triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, Ind. Stud. iv. 340; Grill, 51, 119; Griffith, i. 135; Bloo
 
 A lover's sleep-charm
 </details>
+

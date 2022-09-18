@@ -21,7 +21,6 @@ it reads *gṛbhir* like our text⌋. The Anukr. calls the first pāda an
 As the horse scattereth the dust, the people who dwelt upon the land, at birth, she scattered, Leader and head of all the world, delightful, the trees' protectress and the plants' upholder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अश्वःऽइव। रजः। दुधुवे। वि। तान्। जनान्। ये। आऽअक्षियन्। पृथिवीम्। यात्। आजायत। मन्द्रा। अग्रऽइत्वरी। भुवनस्य। गोपाः। वनस्पतीनाम्। गृभिः। ओषधीनाम्। १.५७।

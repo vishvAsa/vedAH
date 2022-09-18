@@ -7,7 +7,6 @@ title = "००६ अदितिः"
 6 (6, 7). Praise of Aditi.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अदितिः  
@@ -18,8 +17,6 @@ title = "००६ अदितिः"
 
 [Atharvan (as above).—dvyṛcam ⌊tathā param⌋. aditidevatyam: trāiṣṭubham: 2. bhurij; 3, 4. virāḍjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ id
 7.6    A prayer to Aditi for help and protection
 Name: Comment, dtype: object
 </details>
+

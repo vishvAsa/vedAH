@@ -24,10 +24,9 @@ of the repeated *ka*, to bring the verse into connection with Prajāpati
 What princely warrior, seeking higher fortune, will free us from this shameful fiend of mischief? What friend of sacrifice? What guerdon-lover? Who winneth: 'mid the Gods a long existence?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। अस्या:। न:। द्रुह:। अवद्यऽवत्या:। उत्। नेष्यति। क्षत्रिय:। वस्य:। इच्छन्। क:। यज्ञऽकाम:। क:। ऊं इति। पूर्तिऽकाम:। क:। देवेषु। वनुते। दीर्घम्। आयु:। १०८.१।
+कः। अस्याः। नः। द्रुहः। अवद्यऽवत्याः। उत्। नेष्यति। क्षत्रियः। वस्यः। इच्छन्। कः। यज्ञऽकामः। कः। ऊं इति। पूर्तिऽकामः। कः। देवेषु। वनुते। दीर्घम्। आयुः। १०८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

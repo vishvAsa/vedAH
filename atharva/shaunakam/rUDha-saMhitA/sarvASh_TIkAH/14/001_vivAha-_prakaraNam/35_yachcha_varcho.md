@@ -27,7 +27,6 @@ into Vedic study; both also (35, 36) are reckoned as belonging to the
 Whatever lustre is in dice, whatever lustre is in wine, Whatever lustre is in cows, Asvins, endue this dame therewith.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। च। वर्चः। अक्षेषु। सुरायाम्। च। यत्। आऽहितम्। यत्। गोषु। अश्विना। वर्चः। तेन। इमाम्। वर्चसा। अवतम्। १.३५।

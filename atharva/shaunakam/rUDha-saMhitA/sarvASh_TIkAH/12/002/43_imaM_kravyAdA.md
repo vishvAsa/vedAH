@@ -20,7 +20,6 @@ quoted, with others (see note to vs. 1), in Kāuś. 71. 8.
 The Flesh-eater hath entered him: he hath pursued the Flesh- eater. Making two tigers different-wise, I bear away the ungracious one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। क्रव्यऽअत्। आ। विवेश। अयम्। क्रव्यऽअदम्। अनु। अगात्। व्याघ्रौ। कृत्वा। नानानम्। तम्। हरामि। शिवऽअपरम्। २.४३।

@@ -20,10 +20,9 @@ The third pāda is redundant by a syllable.
 May our desire which Gods have roused fulfil itself by day and night. We seek to win Arati: to Arati be our homage paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। न:। वनि:। देवऽकृता। दिवा। नक्तम्। च। कल्पताम्। अरातिम्। अनुऽप्रेम:। वयम्। नम:। अस्तु। अरातये। ७.३।
+प्र। नः। वनिः। देवऽकृता। दिवा। नक्तम्। च। कल्पताम्। अरातिम्। अनुऽप्रेमः। वयम्। नमः। अस्तु। अरातये। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

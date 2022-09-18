@@ -22,7 +22,6 @@ of like formation in **a, b**. Ppp. puts *arasam* after *viṣam* in
 Weak is the poison of the East, weak is the poison of the North, So too this poison of the South counts as a cake of curds and meal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरसम्। प्राच्यम्। विषम्। अरसम्। यत्। उदीच्यम्। अथ। इदम्। अधराच्यम्। करम्भेण। वि। कल्पते। ७.२।

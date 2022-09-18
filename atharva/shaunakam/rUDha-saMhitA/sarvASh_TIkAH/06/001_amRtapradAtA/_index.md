@@ -7,7 +7,6 @@ title = "००१ अमृतप्रदाता"
 1. Praise to Savitar.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमृतप्रदाता  
@@ -19,8 +18,6 @@ title = "००१ अमृतप्रदाता"
 [Atharvan.—sāvitram. āuṣṇiham: 1. 3-p. pipīlikamadhyā sāmnī jagatī; 2, 3. pipīlihamadhyā purauṣṇih.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ All the mss.—and SPP., following them—put the avasāna-mark after dhehi, thu
 
 In praise of Savitar
 </details>
+

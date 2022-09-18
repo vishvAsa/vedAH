@@ -32,10 +32,9 @@ has *-tiṣṭhet.*
 I have gone forth around the earth and heaven, I have approached the first-born Son of Order. He, putting voice, as 'twere, within the speaker, stands in the world, he, verily is Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। द्यावापृथिवी इति। सद्य:। आयम्। उप। आऽतिष्ठे। प्रथमऽजाम्। ऋतस्य। वाचम्ऽइव। वक्तरि। भुवनेऽस्था:। धास्यु:। एष:। ननु। एष:। अग्नि:। १.४।
+परि। द्यावापृथिवी इति। सद्यः। आयम्। उप। आऽतिष्ठे। प्रथमऽजाम्। ऋतस्य। वाचम्ऽइव। वक्तरि। भुवनेऽस्थाः। धास्युः। एषः। ननु। एषः। अग्निः। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

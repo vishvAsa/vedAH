@@ -24,7 +24,6 @@ of the redundant syllable in **c**.
 So when the Brahmans come unto the Cow they come unto their own. For this is her withholding, to oppress these in another life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वम्। एतत्। अच्छऽआयन्ति। यत्। वशाम्। ब्राह्मणाः। अभि। यथा। एनान्। अन्यस्मिन्। जिनीयात्। एव। अस्याः। निऽरोधनम्। ४.१५।

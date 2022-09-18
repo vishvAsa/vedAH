@@ -30,10 +30,9 @@ reported as dividing *grāma॰nyàḥ.*⌋
 The kings and makers of the kings, troop-leaders, masters of the horse, Make all the men on every side, Parna, obedient to my will.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। राजान:। राजऽकृत:। सूता:। ग्रामण्या:। च। ये। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभित:। जनान्। ५.७।
+ये। राजानः। राजऽकृतः। सूताः। ग्रामण्याः। च। ये। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

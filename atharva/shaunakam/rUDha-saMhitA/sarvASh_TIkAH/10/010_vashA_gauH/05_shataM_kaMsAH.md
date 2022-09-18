@@ -20,7 +20,6 @@ only.
 Upon her back there are a hundred keepers, a hundred metal bowls, a hundred milkers. The Deities who breathe in her all separately know the Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शतम्। कंसाः। शतम्। दोग्धारः। शतम्। गोप्तारः। अधि। पृष्ठे। अस्याः। ये। देवाः। तस्याम्। प्राणन्ति। ते। वशाम्। विदुः। एकऽधा। १०.५।

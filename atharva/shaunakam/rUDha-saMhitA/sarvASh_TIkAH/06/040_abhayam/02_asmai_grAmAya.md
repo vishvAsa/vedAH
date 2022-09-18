@@ -21,10 +21,9 @@ has *madhye ca viṣāṁ sukṛte syāma*. The comm. reads *aśatrus* in **c**.
 May the Four Quarters give this hamlet power: Savitar favour us and make us happy! May Indra make us free from foes and danger: may wrath of Kings be turned to other places.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मै। ग्रामाय। प्रऽद‍िश:। चतस्र:। ऊर्जम्। सुऽभूतम्। स्वस्ति। सविता। न:। कृणोतु। अशत्रु। इन्द्र:। अभयम्। न:। कृणोतु। अन्यत्र। राज्ञाम्। अभि। यातु। मन्यु:। ४०.२।
+अस्मै। ग्रामाय। प्रऽद‍िशः। चतस्रः। ऊर्जम्। सुऽभूतम्। स्वस्ति। सविता। नः। कृणोतु। अशत्रु। इन्द्रः। अभयम्। नः। कृणोतु। अन्यत्र। राज्ञाम्। अभि। यातु। मन्युः। ४०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

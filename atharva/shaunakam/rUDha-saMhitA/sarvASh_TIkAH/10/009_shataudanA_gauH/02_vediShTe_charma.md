@@ -21,7 +21,6 @@ adapted.
 Thy skin shall be the Altar; let thine hair become the Sacred Grass. This cord hath held thee firmly: let this pressing-stone dance round on thee:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वेदिः। ते। चर्म। भवतु। बर्हिः। लोमानि। यानि। ते। एषा। त्वा। रशना। अग्रभीत्। ग्रावा। त्वा। एषः। अधि। नृत्यतु। ९.२।

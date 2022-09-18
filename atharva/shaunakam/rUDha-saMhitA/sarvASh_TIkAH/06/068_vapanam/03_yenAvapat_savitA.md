@@ -31,10 +31,9 @@ R. notes that **c, d** appears in Ppp. ii.⌋
 The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even with this shave ye this man, O Brahman. Let him be rich in horses, kine, and children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। अवपत्। सविता। क्षुरेण। सोमस्य। राज्ञ:। वरुणस्य। विद्वान्। तेन। ब्रह्माण:। वपत। इदम्। अस्य। गोऽमान्। अश्वऽवान्। अयम्। अस्तु। प्रजाऽवान्। ६८.३।
+येन। अवपत्। सविता। क्षुरेण। सोमस्य। राज्ञः। वरुणस्य। विद्वान्। तेन। ब्रह्माणः। वपत। इदम्। अस्य। गोऽमान्। अश्वऽवान्। अयम्। अस्तु। प्रजाऽवान्। ६८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

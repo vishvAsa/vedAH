@@ -7,7 +7,6 @@ title = "०१७ ब्रह्मजाया"
 17. The Brahman's wife.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मजाया।  
@@ -19,8 +18,6 @@ title = "०१७ ब्रह्मजाया"
 [Mayobhū.—aṣṭādaśakam. brahmajāyādevatyam. ānuṣṭubham: 1-6. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found in part (vss. 1-7, 9-11 in ix., also 18, in another part of ix.) in Pāipp
 
 The abduction and restoration of a Brahman's wife
 </details>
+

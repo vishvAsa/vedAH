@@ -19,10 +19,9 @@ pl., explaining it by *annabhūtās*.
 Thou into whom the drops find way as sap pours life into a tree, Drive off in thine abundant might our demon foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। यम्। विशन्ति। इन्दव:। वय:। न। वृक्षम्। अन्धस:। विऽरप्शिन्। वि। मृध:। जहि। रक्षस्विनी:। २.२।
+आ। यम्। विशन्ति। इन्दवः। वयः। न। वृक्षम्। अन्धसः। विऽरप्शिन्। वि। मृधः। जहि। रक्षस्विनीः। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

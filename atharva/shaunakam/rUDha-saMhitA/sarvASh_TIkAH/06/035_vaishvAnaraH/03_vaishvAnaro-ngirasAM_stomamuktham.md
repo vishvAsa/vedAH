@@ -23,10 +23,9 @@ pleasure in.' AśS. also has *an̄girobhyas* in **a** (both preserve the
 Vaisvanara hath formed the hymn and laud of the Angirases. To these may he bring glorious right.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानर:। अङ्गिरसाम्। स्तोमम्। उक्थम्। च। चक्लृपत्। आ। एषु। द्युम्नम्। स्व:। यमत्। ३५.३।
+वैश्वानरः। अङ्गिरसाम्। स्तोमम्। उक्थम्। च। चक्लृपत्। आ। एषु। द्युम्नम्। स्वः। यमत्। ३५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

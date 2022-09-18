@@ -27,7 +27,6 @@ perfect *jagatī*, if (with RV. MB. MP.) we omit *imam*⌋.
 So may the Lord of Life vouchsafe you children, Aryaman bind you, day and night, together. Enter thy husband's house with happy omens, bring blessing to our quadrupeds and bipeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। वाम्। प्रऽजाम्। जनयतु। प्रजाऽपतिः। अहोरात्राभ्याम्। सम्। अनक्तु। अर्यमा। अदुःऽमङ्गली। पतिऽलोकम्। आ। विश। इमम्। शम्। नः। भव। द्विऽपदे। शम्। चतुःऽपदे। २.४०।

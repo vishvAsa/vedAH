@@ -23,10 +23,9 @@ The verse is wanting in Ppp.
 Seven metres, by four syllables increasing, each of the seven founded upon another How are the hymns of praise on these supported, and how are these imposed upon the praise-songs?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। छन्दांसि। चतु:ऽउत्तराणि। अन्य:। अन्यस्मिन्। अधि। आर्पितानि। कथम्। स्तोमा:। प्रति। तिष्ठन्ति। तेषु। तानि। स्तोमेषु। कथम्। आर्पितानि। ९.१९।
+सप्त। छन्दांसि। चतुःऽउत्तराणि। अन्यः। अन्यस्मिन्। अधि। आर्पितानि। कथम्। स्तोमाः। प्रति। तिष्ठन्ति। तेषु। तानि। स्तोमेषु। कथम्। आर्पितानि। ९.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

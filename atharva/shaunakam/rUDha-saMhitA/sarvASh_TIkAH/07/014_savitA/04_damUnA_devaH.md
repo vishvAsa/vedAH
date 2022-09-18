@@ -26,10 +26,9 @@ second line, where they read *amadann enam iṣṭayaḥ*, and *ramate* for
 Savitar, God, our household friend, most precious, hath sent our fathers life and power and riches. Let him drink Soma and rejoice when worshipped. Under his law even the Wanderer travels.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दमूना:। देव:। सविता। वरेण्य:। दधत्। रत्नम्। दक्षम्। पितृऽभ्य:। आयूंषि। पिबात्। सोमम्। ममदत्। एनम्। इष्टे। परिऽज्मा। चित्। क्रमते। अस्य। धर्मणि। १५.४।
+दमूनाः। देवः। सविता। वरेण्यः। दधत्। रत्नम्। दक्षम्। पितृऽभ्यः। आयूंषि। पिबात्। सोमम्। ममदत्। एनम्। इष्टे। परिऽज्मा। चित्। क्रमते। अस्य। धर्मणि। १५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

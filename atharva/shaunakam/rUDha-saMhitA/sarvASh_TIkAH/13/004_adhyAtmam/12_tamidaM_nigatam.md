@@ -19,7 +19,6 @@ as the Anukr. counts.
 This conquering might hath entered him, He is the sole the simple One, the One alone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। इदम्। निऽगतम्। सहः। सः। एषः। एकः। एकऽवृत्। एकः। एव। ४.१२।

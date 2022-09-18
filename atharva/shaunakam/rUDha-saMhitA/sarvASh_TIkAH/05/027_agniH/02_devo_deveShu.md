@@ -13,10 +13,9 @@ title = "०२ देवो देवेषु"
 God among Gods, the God bedews the paths with fatness and' with mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देव:। देवेषु। देव:। पथ:। अनक्ति। मध्वा। घृतेन। २७.२।
+देवः। देवेषु। देवः। पथः। अनक्ति। मध्वा। घृतेन। २७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

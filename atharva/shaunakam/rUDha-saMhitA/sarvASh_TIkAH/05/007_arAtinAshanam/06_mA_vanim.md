@@ -24,10 +24,9 @@ irregular.
 Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring us treasures. All, fain to-day to give us gifts, welcome Arati with your love.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। वनिम्। मा। वाचम्। न:। वि। ईर्त्सी:। उभौ। इन्द्राग्नी इति। आ। भरताम्। न:। वसूनि। सर्वे। न:। अद्य। दित्सन्त:। अरातिम्। प्रति। हर्यत। ७.६।
+मा। वनिम्। मा। वाचम्। नः। वि। ईर्त्सीः। उभौ। इन्द्राग्नी इति। आ। भरताम्। नः। वसूनि। सर्वे। नः। अद्य। दित्सन्तः। अरातिम्। प्रति। हर्यत। ७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

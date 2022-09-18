@@ -28,10 +28,9 @@ added, he glosses with *bhūmim!*
 With feet subduing weariness, with legs extracting freshening draughts, Through toil the plougher and the Ox approach the honeyed beverage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पत्ऽभि:। सेदिम्। अवऽक्रामन्। इराम्। जङ्घाभि:। उत्ऽखिदन्। श्रमेण। अनड्वान्। कीलालम्। कीनाश:। च। अभि। गच्छत:। ११.१०।
+पत्ऽभिः। सेदिम्। अवऽक्रामन्। इराम्। जङ्घाभिः। उत्ऽखिदन्। श्रमेण। अनड्वान्। कीलालम्। कीनाशः। च। अभि। गच्छतः। ११.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ verse is used (Kāuś. 77. 3), with 1. 34, when the bridal train starts.
 Let not the highway thieves who lie in ambush find the wedded pair. Let wicked men's malignities go elsewhere by an easy path.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। विदन्। परिऽपन्थिनः। ये। आऽसीदन्ति। दंपती इति दम्ऽपती। सुऽगेन। दुःऽगम्। अति। इताम्। अप। द्रान्तु। अरातयः। १.११।

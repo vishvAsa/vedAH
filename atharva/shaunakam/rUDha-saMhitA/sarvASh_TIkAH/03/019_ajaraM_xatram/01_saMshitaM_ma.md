@@ -31,10 +31,9 @@ itself mixed up with vs. 5 **c**.
 Quickened is this my priest rank, quickened is manly strength and force, Quickened be changeless power, whereof I am the conquering President!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽशितम्। मे। इदम्। ब्रह्म। सम्ऽशितम्। वीर्यम्। बलम्। सम्ऽशितम्। क्षत्रम्। अजरम्। अस्तु। जिष्णु:। येषाम्। अस्मि। पुर:ऽहित:। १९.१।
+सम्ऽशितम्। मे। इदम्। ब्रह्म। सम्ऽशितम्। वीर्यम्। बलम्। सम्ऽशितम्। क्षत्रम्। अजरम्। अस्तु। जिष्णुः। येषाम्। अस्मि। पुरःऽहितः। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

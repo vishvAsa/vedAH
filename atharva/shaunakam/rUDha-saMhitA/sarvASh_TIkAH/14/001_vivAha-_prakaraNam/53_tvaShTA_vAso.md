@@ -24,7 +24,6 @@ end the decidedly better reading *prajāyāi*.
 Tvashtar, by order of the holy sages, hath laid on her Brihas- pati's robe for glory, By means of this let Savitar and Bhaga surround this dame, like Surya, with her children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वष्टा। वासः। वि। अदधात्। शुभे। कम्। बृहस्पतेः। प्रऽशिषा। कवीनाम्। तेन। इमाम्। नारीम्। सविता। भगः। च। सूर्याम्ऽइव। परि। धत्ताम्। प्रऽजया। १.५३।

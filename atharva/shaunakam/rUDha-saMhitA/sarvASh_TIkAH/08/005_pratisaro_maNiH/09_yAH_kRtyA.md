@@ -26,10 +26,9 @@ combines in **f** *nāvyā ’ti;* and in **c** it puts *yās* after
 All witchcraft of Angirases,"all witchcraft wrought by Asuras, All witchcraft self-originate, and all that others have prepared, May these depart to both remotest spaces, past ninety ample water-floods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। कृत्या:। आङ्गिरसी:। या:। कृत्या:। आसुरी:। या:। कृत्या:। स्वयम्ऽकृता:। या:। ऊं  इति। च। अन्येभि:। आऽभृता:। उभयी:। ता:। परा। यन्तु। पराऽवत:। नवतिम्। नाव्या:। अति। ५.९।
+याः। कृत्याः। आङ्गिरसीः। याः। कृत्याः। आसुरीः। याः। कृत्याः। स्वयम्ऽकृताः। याः। ऊं  इति। च। अन्येभिः। आऽभृताः। उभयीः। ताः। परा। यन्तु। पराऽवतः। नवतिम्। नाव्याः। अति। ५.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

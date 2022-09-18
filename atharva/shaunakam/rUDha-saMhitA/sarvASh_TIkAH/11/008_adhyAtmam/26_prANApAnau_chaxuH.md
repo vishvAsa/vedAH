@@ -19,7 +19,6 @@ The first three pādas are the same with 4 **a, b, c**, above.
 Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward and diffused, voice, mind, these quickly with the body move,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। व्यानऽउदानौ। वाक्। मनः। शरीरेण। ते। ईयन्ते। १०.२६।

@@ -7,7 +7,6 @@ title = "०६९ वर्चःप्राप्तिः"
 69. For glory etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चःप्राप्तिः।  
@@ -19,8 +18,6 @@ title = "०६९ वर्चःप्राप्तिः"
 [Atharvan (? varcaskāmo yaśaskāmaś ca).—bārhaspatyam utā ”śvinam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The verse corresponds nearly to ix. 1. 18, below; but the latter has a quite dif
 
 A priest's prayer for power and glory
 </details>
+

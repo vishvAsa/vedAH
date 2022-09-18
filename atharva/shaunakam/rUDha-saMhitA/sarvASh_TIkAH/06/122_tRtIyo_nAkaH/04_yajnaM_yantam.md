@@ -25,10 +25,9 @@ anything of a *jagatī* character.
 Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. Agni, may we, beyond decay, invited, in the third heaven, feast and enjoy the banquet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञम्। यन्तम्। मनसा। बृहन्तम्। अनुऽआरोहामि। तपसा। सऽयोनि:। उपऽहूता:। अग्ने। जरस:। परस्तात्। तृतीये। नाके। सधऽमादम्। मदेम। १२२.४।
+यज्ञम्। यन्तम्। मनसा। बृहन्तम्। अनुऽआरोहामि। तपसा। सऽयोनिः। उपऽहूताः। अग्ने। जरसः। परस्तात्। तृतीये। नाके। सधऽमादम्। मदेम। १२२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

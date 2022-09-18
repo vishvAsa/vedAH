@@ -35,10 +35,9 @@ definition of the verse, *prastāra-* must be a bad reading for
 Past those who slay, past enemies, past thoughtless men, past those who hate, Yea, Agni, hear us safe past all distresses: give thou us opulence with men about us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अति। निह:। अति। सृध:। अति। अचित्ती:। अति। द्विष:। विश्वा। हि। अग्ने। दु:ऽइता। तर। त्वम्। अथ। अस्मभ्यम्। सहऽवीरम्। रयिम्। दा:। ६.५।
+अति। निहः। अति। सृधः। अति। अचित्तीः। अति। द्विषः। विश्वा। हि। अग्ने। दुःऽइता। तर। त्वम्। अथ। अस्मभ्यम्। सहऽवीरम्। रयिम्। दाः। ६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

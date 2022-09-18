@@ -7,7 +7,6 @@ title = "०९७ अभिभूर्वीरः"
 97. For victory.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभिभूर्वीरः  
@@ -19,8 +18,6 @@ title = "०९७ अभिभूर्वीरः"
 [Atharvan.—māitrāvaruṇam. trāiṣṭubham: 2. jagatī; 3. bhurij.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. The three hymns 97-99 are used together in a battle r
 ### Translations
 Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 </details>
+

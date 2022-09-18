@@ -20,7 +20,6 @@ syllables, we must resolve *ca ápare* (or else *camasá-adh-*).
 When the attendants with vessels in their hands, foremost and hindmost, come in, they are just the priests who manage the Soma cups.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। परिऽवेष्टारः। पात्रऽहस्ताः। पूर्वे। च। अपरे। च। प्रऽपद्यन्ते। चमसऽअध्वर्यवः। एव। ते। ११.३।

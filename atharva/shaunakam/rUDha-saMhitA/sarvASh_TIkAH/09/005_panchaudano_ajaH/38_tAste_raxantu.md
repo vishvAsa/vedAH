@@ -27,10 +27,9 @@ fails to coincide with the *anuvāka*-division.⌋
 May these preserve him for thee. Here I offer t o these the molten butter as oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ता:। ते। रक्षन्तु। तव। तुभ्यम्। एतम्। ताभ्य:। आज्यम्। हवि:। इदम्। जुहोमि। ५.३८।
+ताः। ते। रक्षन्तु। तव। तुभ्यम्। एतम्। ताभ्यः। आज्यम्। हविः। इदम्। जुहोमि। ५.३८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

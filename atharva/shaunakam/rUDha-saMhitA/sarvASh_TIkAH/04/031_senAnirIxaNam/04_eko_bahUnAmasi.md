@@ -27,10 +27,9 @@ reading. The obscure *ákṛttaruk* in **c** is explained by the comm. as
 Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for combat. With thee to aid, O thou of perfect splendour, we raise the glorious battle-shout for conquest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एक:। बहूनाम्। असि। मन्यो इति। ईडिता। विशम्ऽविशम्। युध्दाय। सम्। शिशाधि। अकृत्तऽरुक्। त्वया। युजा। वयम्। द्युऽमन्तम्। घोषम्। विऽजयाय। कृण्मसि। ३१.४।
+एकः। बहूनाम्। असि। मन्यो इति। ईडिता। विशम्ऽविशम्। युध्दाय। सम्। शिशाधि। अकृत्तऽरुक्। त्वया। युजा। वयम्। द्युऽमन्तम्। घोषम्। विऽजयाय। कृण्मसि। ३१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ also has *gatān* for *pitṝn* in **d**.
 From thy vicinity I call, from near, from far, from night at hand. Stay here: depart not: follow not the Fathers of the olden time. I bind thy vital spirit fast.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽवत:। ते। आऽवत:। पराऽवत:। ते। आ उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते वत:। इह। एव। भव। मा। नु। गा:। मा। पूर्वान्। अनु। गा:। पितृन्। असुम्। बध्नामि। ते। दृढम्। ३०.१।
+आऽवतः। ते। आऽवतः। पराऽवतः। ते। आ उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते वतः। इह। एव। भव। मा। नु। गाः। मा। पूर्वान्। अनु। गाः। पितृन्। असुम्। बध्नामि। ते। दृढम्। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

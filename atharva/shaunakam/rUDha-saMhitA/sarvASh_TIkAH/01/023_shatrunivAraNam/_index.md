@@ -7,7 +7,6 @@ title = "०२३ शत्रुनिवारणम्"
 23. Against leprosy: with a healing herb.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -18,8 +17,6 @@ title = "०२३ शत्रुनिवारणम्"
 
 [Atharvan (śvetalakṣmavināśanāyā 'nenā 'siknīm oṣadhim astāut).—vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 416; Ludwig, p. 506; Grill, 19, 77; Griffith, i. 27; Bloo
 
 A charm against leprosy
 </details>
+

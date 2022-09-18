@@ -28,10 +28,9 @@ pādas are of 10 syllables each; ⌊but the *vā*'s of VS.TS. make them good
 From heaven, O Vishnu, or from earth, O Vishnu, or from the great far-spreading air's mid-region, Fill both thy hands full of abundant treasures, and from the right and left bestow them freely.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। विष्णो  इति। उत। वा। पृथिव्या:। मह:। विष्णो  इति। उरो:। अन्तरिक्षात्। हस्तौ। पृणस्व। बहुऽभि:। वसव्यै:। आऽप्रयच्छ। दक्षिणात्। आ। उत। सव्यात्। २७.८।
+दिवः। विष्णो  इति। उत। वा। पृथिव्याः। महः। विष्णो  इति। उरोः। अन्तरिक्षात्। हस्तौ। पृणस्व। बहुऽभिः। वसव्यैः। आऽप्रयच्छ। दक्षिणात्। आ। उत। सव्यात्। २७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

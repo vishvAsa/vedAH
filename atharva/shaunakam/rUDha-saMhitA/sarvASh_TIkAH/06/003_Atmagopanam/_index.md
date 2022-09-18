@@ -7,7 +7,6 @@ title = "००३ आत्मगोपनम्"
 3. To various divinities: for protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मगोपनम्।  
@@ -18,8 +17,6 @@ title = "००३ आत्मगोपनम्"
 
 [Atharvan (svastyayanakāmaḥ).—nānādāivatam. jāgatam: 1. pathyābṛhati.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 251 or 3; Griffith, i. 246.
 
 A prayer to various deities for protection and prosperity
 </details>
+

@@ -7,7 +7,6 @@ title = "१०१ वाजीकरणम्"
 101. For virile power.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाजीकरणम्।  
@@ -19,8 +18,6 @@ title = "१०१ वाजीकरणम्"
 [Atharvān̄giras (śepaḥprathanakāmaḥ).—brāhmaṇaspatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Not found in Pāipp. Used by Kāuś. (40. 18) in a rite for sexual vigor, after 
 ### Translations
 Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 </details>
+

@@ -24,7 +24,6 @@ of Böhtlingk as cited under vs. 8 above.—The Kaṭha variant (WZKM. xii.
 Back, forward goes he, grasped by power inherent, immortal born the brother of the mortal. Ceaseless they move in opposite directions: men mark the one and fail to mark the other.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपाङ्। प्राङ्। एति। स्वधया। गृभीतः। अमर्त्यः। मर्त्येन। सऽयोनिः। ता। शश्वन्ता। विषूचीना। विऽयन्ता। नि। अन्यम्। चिक्युः। न। नि। चिक्युः। अन्यम्। १५.१६।

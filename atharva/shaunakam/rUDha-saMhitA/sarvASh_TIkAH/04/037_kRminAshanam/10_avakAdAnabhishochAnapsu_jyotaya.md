@@ -35,7 +35,6 @@ to ii. 3. 1.⌋
 O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining in the floods, illumining the selfish ones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवकाऽअदान्। अभिऽशोचान्। अप्ऽसु। ज्योतय। मामकान्। पिशाचान्। सर्वान्। ओषधे। प्र। मृणीहि। सहस्व। च। ३७.१०।

@@ -24,10 +24,9 @@ combines in **d** *dhanadā ’si.*
 Turn hither, Agni, speak to us, come to us with a friendly mind. Enrich us, Sovran of the Tribes! Thou art the giver of our wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। अच्छ। वद। इह। न:। प्रत्यङ्। न:। सुऽमना:। भव। प्र। न:। यच्छ। विशाम्। पते। धनऽदा:। असि। न:। त्वम्। २०.२।
+अग्ने। अच्छ। वद। इह। नः। प्रत्यङ्। नः। सुऽमनाः। भव। प्र। नः। यच्छ। विशाम्। पते। धनऽदाः। असि। नः। त्वम्। २०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

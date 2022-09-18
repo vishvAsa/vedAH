@@ -17,7 +17,6 @@ teats—let them yield etc. etc.
 So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। पुच्छम्। ये। ते। बालाः। यत्। ऊधः। ये। च। । ते। स्तनाः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२२।

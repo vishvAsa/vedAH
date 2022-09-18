@@ -20,7 +20,6 @@ verse is quoted in Kāuś. 32. 23.
 From every member drive away the venom, and avoid the heart. Then let the poison's burning heat pass downward and away- from thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अङ्गात्ऽअङ्गात्। प्र। च्यवय। हृदयम्। परि। वर्जय। अध। विषस्य। यत्। तेजः। अवाचीनम्। तत्। एतु। ते। ४.२५।

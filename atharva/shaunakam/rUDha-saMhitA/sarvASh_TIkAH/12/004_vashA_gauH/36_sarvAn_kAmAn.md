@@ -20,7 +20,6 @@ noted in Prāt. iii. 21; iv. 90. Ppp. reads *tathā* for *atha* in **c**.
 In Yama's realm the Cow fulfils each wish for him who gave her up; But hell, they say, is for the man who, when they beg, bestow her not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वान्। कामान्। यमऽराज्ये। वशा। प्रऽददुषे। दुहे। अथ। आहुः। नरकम्। लोकम्। निऽरुन्धानस्य। याचिताम्। ४.३६।

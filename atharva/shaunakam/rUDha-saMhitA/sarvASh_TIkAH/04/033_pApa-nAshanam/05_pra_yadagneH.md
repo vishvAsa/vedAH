@@ -27,10 +27,9 @@ and the sense, by reading *sūráyas* for *bhānávas* in 5 **b**. Ppp. has
 As ever conquering Agni's beams of splendour go to every side, His lustre flash our pain away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। यत्। अग्ने:। सहस्वत:। विश्वत:। यन्ति। भानव:। अप। न:। शोशुचत्। अघम्। ३३.५।
+प्र। यत्। अग्नेः। सहस्वतः। विश्वतः। यन्ति। भानवः। अप। नः। शोशुचत्। अघम्। ३३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

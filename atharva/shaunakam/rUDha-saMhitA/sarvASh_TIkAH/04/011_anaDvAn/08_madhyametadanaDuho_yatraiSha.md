@@ -27,10 +27,9 @@ rather 'where the burden is put,' i.e. the back; cf. Deussen, l.c., p.
 The middle of the Bullock's neck, there where the shoulder-bar is placed, Extends as far to east of him as that is settled to the west.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मध्यम्। एतत्। अनडुह:। यत्र। एष:। वह:। आऽहित:। एतावत्। अस्य। प्राचीनम्। यावान्। प्रत्यङ्। सम्ऽआहित:। ११.८।
+मध्यम्। एतत्। अनडुहः। यत्र। एषः। वहः। आऽहितः। एतावत्। अस्य। प्राचीनम्। यावान्। प्रत्यङ्। सम्ऽआहितः। ११.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

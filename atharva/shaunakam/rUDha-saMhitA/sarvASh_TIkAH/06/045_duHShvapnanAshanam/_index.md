@@ -7,7 +7,6 @@ title = "०४५ दुःष्वप्ननाशनम्"
 45. In atonement of offenses.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
@@ -18,8 +17,6 @@ title = "०४५ दुःष्वप्ननाशनम्"
 
 [An̄giras (pracetās) Yamaś ca.—duḥsvapnanāśanadevatyam. 1. pathyāpan̄kti; 2. bhurik triṣṭubh; 3. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 443; Florenz, 305 or 57; Griffith, i. 269; Bloomfield, 16
 
 A prayer for preservation from mental sin and evil promptings
 </details>
+

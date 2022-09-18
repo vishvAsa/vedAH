@@ -7,7 +7,6 @@ title = "०१४ गोष्ठः"
 14. A blessing on the kine.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गोष्ठः।  
@@ -18,8 +17,6 @@ title = "०१४ गोष्ठः"
 
 [Brahman.—nānādevatyam uta goșțhadevatākam. ānușțubham: 6. ārṣī triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 469; Weber, xvii. 244; Grill, 64, 112; Griffith, i. 101; 
 
 A benediction on a cattle pen
 </details>
+

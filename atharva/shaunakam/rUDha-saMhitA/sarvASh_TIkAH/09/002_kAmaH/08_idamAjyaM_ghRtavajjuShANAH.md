@@ -20,10 +20,9 @@ pan̄kti*, as if it had 30 syllables.
 Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief is Kama, Giving me freedom from mine adversaries.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। आज्यम्। घृतऽवत्। जुषाणा:। कामऽज्येष्ठा:। इह। मादयध्वम्। कृण्वन्त:। मह्यम्। असपत्नम्। एव। २.८।
+इदम्। आज्यम्। घृतऽवत्। जुषाणाः। कामऽज्येष्ठाः। इह। मादयध्वम्। कृण्वन्तः। मह्यम्। असपत्नम्। एव। २.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

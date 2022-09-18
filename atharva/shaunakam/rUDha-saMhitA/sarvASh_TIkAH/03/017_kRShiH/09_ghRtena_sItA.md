@@ -24,10 +24,9 @@ MS. gives *ūrjó bhāgám mádhumat pínv-*.
 Loved by the Visvedevas and the Maruts, let Sita be bedewed. with oil and honey. Turn thou to us with wealth of milk, O Sita, in vigorous strength and pouring streams of fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घृतेन। सीता। मधुना। सम्ऽअक्ता। विश्वै:। देवै:। अनुऽमता। मरुत्ऽभि:। सा। न:। सीते। पयसा। अभिऽआववृत्स्व। ऊर्जस्वती। घृतऽवत्। पिन्वमाना। १७.९।
+घृतेन। सीता। मधुना। सम्ऽअक्ता। विश्वैः। देवैः। अनुऽमता। मरुत्ऽभिः। सा। नः। सीते। पयसा। अभिऽआववृत्स्व। ऊर्जस्वती। घृतऽवत्। पिन्वमाना। १७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

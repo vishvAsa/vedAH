@@ -19,7 +19,6 @@ This paragraph and the one following are wanting in Ppp.
 She rose, the Garhapatya fire she entered. He who knows this becomes lord of a household, performer of domestic sacri- fices.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। गार्हऽपत्ये। नि। अक्रामत्। १०.२।

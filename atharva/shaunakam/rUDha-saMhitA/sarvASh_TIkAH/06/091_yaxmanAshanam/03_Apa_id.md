@@ -21,10 +21,9 @@ second half-verse: *āpaḥ samudrārthāyatīṣ parā vahantu te rapaḥ*.
 The Waters verily bring health, the Waters drive disease away. The Waters cure all malady: may they bring medicine for thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। इत्। वै। ऊं इति। भेषजी:। आप:। अमीवऽचातनी:। आप:। विश्वस्य। भेषजी:। ता:। ते। कृण्वन्तु। भेषजम्। ९१.३।
+आपः। इत्। वै। ऊं इति। भेषजीः। आपः। अमीवऽचातनीः। आपः। विश्वस्य। भेषजीः। ताः। ते। कृण्वन्तु। भेषजम्। ९१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

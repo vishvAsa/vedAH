@@ -19,10 +19,9 @@ The comm. reads *etāu* for *etás* in **a**; he renders *ápadam* by
 Thine envoys who came hither, O Destruction, sent or not sent by thee unto our dwelling, The Dove and Owl, effectless be their visit!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। ते। दूतौ। नि:ऽऋते। इदम्। आऽइत:। अप्रऽहितौ। प्रऽहितौ। वा। गृहम्। न:। कपोतऽउलूकाभ्याम्। अपदम्। तत्। अस्तु। । २९.२।
+यौ। ते। दूतौ। निःऽऋते। इदम्। आऽइतः। अप्रऽहितौ। प्रऽहितौ। वा। गृहम्। नः। कपोतऽउलूकाभ्याम्। अपदम्। तत्। अस्तु। । २९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

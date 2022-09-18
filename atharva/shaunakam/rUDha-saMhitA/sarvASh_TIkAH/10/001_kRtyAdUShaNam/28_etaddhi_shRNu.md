@@ -18,7 +18,6 @@ Ppp. reads at the end *punaḥ* for *prati*.
 Hearken to this my word; then go thither away whence thou hast come; to him who made thee go thou back.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतत्। हि। शृणु। मे। वचः। अथ। इहि। यतः। आऽइयथ। यः। त्वा। चकार। तम्। प्रति। १.२८।

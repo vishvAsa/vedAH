@@ -24,10 +24,9 @@ be *jatruvakṣogatāsthīni*, which is quite indefinite.
 Forth from the neck and from the nape, from dorsal vertebrae and spine. From arms and shoulder-blades I root Consumption seated in thine arms.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ग्रीवाभ्य:। ते। उष्णिहाभ्य:। कीकसाभ्य:। अनूक्यात्। यक्ष्मम्। दोषण्यम्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ३३.२।
+ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्यात्। यक्ष्मम्। दोषण्यम्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ३३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

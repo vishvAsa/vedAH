@@ -24,10 +24,9 @@ renders *vṛjinā́ni* falsely by *varjakāni bādhakāni.*
 Whoever either scorns us, O ye Maruts, or blames devotion which we now are paying. Let his own wicked deeds be fires to burn him. May Heaven consume the man who hates devotion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अतिऽइव। य:। मरुत:। मन्यते। न:। ब्रह्म। वा। य:। निन्दिषत्। क्रियमाणम्। तपूंषि। तस्मै। वृजिनानि। सन्तु। ब्रह्मऽद्विषम्। द्यौ :। अभिऽसंतपाति। १२.६।
+अतिऽइव। यः। मरुतः। मन्यते। नः। ब्रह्म। वा। यः। निन्दिषत्। क्रियमाणम्। तपूंषि। तस्मै। वृजिनानि। सन्तु। ब्रह्मऽद्विषम्। द्यौ ः। अभिऽसंतपाति। १२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

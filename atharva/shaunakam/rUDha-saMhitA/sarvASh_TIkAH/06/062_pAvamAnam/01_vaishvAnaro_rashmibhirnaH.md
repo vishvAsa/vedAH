@@ -22,10 +22,9 @@ in **c**. Pāda **c** is *jagatī*.
 Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quickening Vayu cleanse us. And, rich in milky rain, let Earth and Heaven, worshipful, holy, cleanse us with their water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानर:। रश्मिऽभि:। न:। पुनातु। वात:। प्राणेन। इषिर:। नभ:ऽभि:। द्यावापृथिवी इति। पयसा। पयस्वती इति। ऋतवरी इत्यृतऽवरी। यज्ञिये  इति। न:। पुनीताम्। ६२.१।
+वैश्वानरः। रश्मिऽभिः। नः। पुनातु। वातः। प्राणेन। इषिरः। नभःऽभिः। द्यावापृथिवी इति। पयसा। पयस्वती इति। ऋतवरी इत्यृतऽवरी। यज्ञिये  इति। नः। पुनीताम्। ६२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

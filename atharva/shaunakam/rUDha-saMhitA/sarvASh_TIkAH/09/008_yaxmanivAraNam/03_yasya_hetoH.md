@@ -18,7 +18,6 @@ Ppp. reads in **b** *nāsata ”syata* ⌊intending *-tas -tas*⌋.
 So that Consumption may depart forth from thine ears and from. thy mouth, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। हेतोः। प्रऽच्यवते। यक्ष्मः। कर्णतः। आस्यतः। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.३।

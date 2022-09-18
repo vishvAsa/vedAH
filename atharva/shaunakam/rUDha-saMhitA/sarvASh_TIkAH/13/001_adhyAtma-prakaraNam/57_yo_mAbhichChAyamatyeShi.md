@@ -21,7 +21,6 @@ syllables.
 Thou who, between the fire and me, passest across the line of shade. Thy root I sever: nevermore mayst thou cast shadow on the ground.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। मा। अभिऽछायम्। अत‍िऽएषिः। माम्। च। अग्निम्। च। अन्तरा। तस्य। वृश्चामि। ते। मूलम्। न। छायाम्। करवः। अपरम्। १.५७।

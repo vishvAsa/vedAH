@@ -41,7 +41,6 @@ those men \[for whom they're shed\]."⌋ ⌊See Lüders, ZDMG. lviii. 507.⌋
 If, wearing long loose hair, these men have danced together in thy house, committing sin with shout and cry, May Agni free thee from that guilt, may Savitar deliver thee,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। इमे। केशिनः। जनाः। गृहे। ते। सम्ऽअनर्तिषुः। रोदेन। कृण्वन्तः। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.५९।

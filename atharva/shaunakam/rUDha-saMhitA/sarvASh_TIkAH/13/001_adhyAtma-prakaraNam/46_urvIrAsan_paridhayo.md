@@ -18,7 +18,6 @@ cold and heat.
 The earth was made his altar, and the wide expanses were the fence. There Rohita established both these Agnis, fervent heat and cold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उर्वीः। आसन्। परिऽधयः। वेदिः। भूमिः। अकल्पत। तत्र। एतौ। अग्नी इति। आ। अधत्त। हिमम्। घ्रंसम्। च। रोहितः। १.४६।

@@ -34,10 +34,9 @@ occurrences of the words as a whole in AV.⌋
 Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and the lower. Drive from us evil dream, drive off misfortune; then let us go in- to the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विऽसाना। पाशान्। वि। स्य। अधि। अस्मत्। ये। उत्ऽतमा:। अधमा:। वारुणा:। ये। दु:ऽस्वप्न्यम्। दु:ऽइतम्। नि:। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। १२१.१।
+विऽसाना। पाशान्। वि। स्य। अधि। अस्मत्। ये। उत्ऽतमाः। अधमाः। वारुणाः। ये। दुःऽस्वप्न्यम्। दुःऽइतम्। निः। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। १२१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Ppp. combines *prajā ’nu* in **a**, and in **d** reads twice *yas* for
 Prana robes living creatures as a father his beloved son. Prana is sovran Lord of all, of all that breathes not, all that breathes
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणः। प्रऽजाः। अनु। वस्ते। पिता। पुत्रम्ऽइव। प्रियम्। प्राणः। ह। सर्वस्‍य। ईश्वरः। यत्। च। प्राणति। यत्। च। न। ६.१०।

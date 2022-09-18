@@ -7,7 +7,6 @@ title = "१०९ राष्ट्रभृतः"
 109 (114). ⌊For success with the dice.⌋
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रभृतः।  
@@ -19,8 +18,6 @@ title = "१०९ राष्ट्रभृतः"
 [Bādarāyaṇi.*—saptarcam. āgneyam uta mantroktadāivatam. ānuṣṭubham: 1. virāṭ purastādbṛhatī; 2, 3, 5, 6. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. iv. (in the verse-order 6, 1, 2, 5, 3, 7, 4). Used by Kāu
 ### Translations
 Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i. 380.—Cf. Zimmer, p. 285, 284.
 </details>
+

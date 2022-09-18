@@ -21,7 +21,6 @@ probably be 'was born before the *bráhman*' (so the translators).
 The Brahmachari, earlier born than Brahma, sprang up through Fervour, robed in hot libation. From him sprang heavenly lore, the highest Brahma, and all the Gods, with life that lasts for ever.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूर्वः। जातः। ब्रह्मणः। ब्रह्मऽचारी। घर्मम्। वसानः। तपसा। उत्। अतिष्ठत्। तस्मात्। जातम्। ब्राह्मणम्। ब्रह्म। ज्येष्ठम्। देवाः। च। सर्वे। अमृतेन। साकम्। ७.५।

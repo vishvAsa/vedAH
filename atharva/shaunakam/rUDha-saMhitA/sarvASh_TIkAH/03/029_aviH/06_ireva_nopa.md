@@ -25,10 +25,9 @@ contraction *samudrá ’va* in **b**.
 Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the two Gods whose home is one, the ram white-footed, faileth not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इराऽइव। न। उप। दस्यति। समुद्र:ऽइव। पय:। महत्। देवौ। सवासिनौऽइव। शितिऽपात्। न। उप। दस्यति। २९.६।
+इराऽइव। न। उप। दस्यति। समुद्रःऽइव। पयः। महत्। देवौ। सवासिनौऽइव। शितिऽपात्। न। उप। दस्यति। २९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

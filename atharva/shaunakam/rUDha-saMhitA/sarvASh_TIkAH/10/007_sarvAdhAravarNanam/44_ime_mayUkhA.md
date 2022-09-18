@@ -25,7 +25,6 @@ seem to be mere repetition.⌋
 These pegs have buttressed up the sky. The Samans have turned them into shuttles for the weaving.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमे। मयूखाः। उप। तस्तभुः। दिवम्। सामानि। चक्रुः। तसराणि। वातवे। ७.४४।

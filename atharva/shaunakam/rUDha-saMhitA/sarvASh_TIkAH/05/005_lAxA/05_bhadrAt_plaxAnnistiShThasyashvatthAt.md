@@ -19,10 +19,9 @@ These are names of various trees. Ppp. combines *ne ’hi* in **d**.
 Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Nyagrodha, so come thou to use, Arundhati!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भद्रात्। प्लक्षात्। नि:। तिष्ठसि। अश्वत्थात्। खदिरात्। धवात्। भद्रात्। न्यग्रोधात्। पर्णात्। सा। न:। आ। इहि। अरुन्धति। ५.५।
+भद्रात्। प्लक्षात्। निः। तिष्ठसि। अश्वत्थात्। खदिरात्। धवात्। भद्रात्। न्यग्रोधात्। पर्णात्। सा। नः। आ। इहि। अरुन्धति। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

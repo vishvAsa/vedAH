@@ -23,7 +23,6 @@ the verse is a pure *triṣṭubh*. Read in **d** *kúto* (for *kṛ́to*).
 Who, that the father of this Calf discerneth beneath the upper realm, above the lower, Showing himself a sage, may here declare him? Whence hath the godlike spirit had its rising?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवः। परेण। पितरम्। यः। अस्य। वेद। अवः। परेण। परः। एना। अवरेण। कविऽयमानः। कः। इह। प्र। वोचत्। देवम्। मनः। कुतः। अधि। प्रऽजातम्। १४.१८।

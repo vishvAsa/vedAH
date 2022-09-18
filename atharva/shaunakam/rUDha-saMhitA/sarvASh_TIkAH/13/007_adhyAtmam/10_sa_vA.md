@@ -18,7 +18,6 @@ As to the meter, see the note to the preceding verse.
 स वा ऋ॒ग्भ्योऽजायत॒ तस्मा॒दृचो॑ऽजायन्त ॥३८॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। वै। ऋक्ऽभ्यः। अजायत। तस्मात्। ऋचः। अजायन्त। ७.१०।

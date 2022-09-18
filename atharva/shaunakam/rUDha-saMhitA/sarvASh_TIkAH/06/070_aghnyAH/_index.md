@@ -7,7 +7,6 @@ title = "०७० अघ्न्याः"
 70. To attach a cow to her calf.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अघ्न्याः।  
@@ -18,8 +17,6 @@ title = "०७० अघ्न्याः"
 
 [Kān̄kāyana.—āghnyam. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 65, 165; Griffith, i. 283; Bloomfield, 144, 493.
 
 A benediction on cow and calf
 </details>
+

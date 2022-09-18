@@ -29,10 +29,9 @@ sahasvatā* (cf. our vs. 6 **c, d**).
 As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar all those men who hate me and whom I detest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। अश्वत्थ। नि:ऽअभन:। अन्त:। महति। अर्णवे। एव। तान्। सर्वान्। नि:। भङ्ग्धि। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.३।
+यथा। अश्वत्थ। निःऽअभनः। अन्तः। महति। अर्णवे। एव। तान्। सर्वान्। निः। भङ्ग्धि। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

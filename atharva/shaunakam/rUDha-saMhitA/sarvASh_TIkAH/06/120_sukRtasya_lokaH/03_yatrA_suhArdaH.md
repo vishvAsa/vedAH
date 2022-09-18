@@ -25,10 +25,9 @@ the substance of the vs., cf. Weber, *Sb.* 1894, p. 775.⌋
 There where our virtuous friends, who left behind them their bodily infirmities, are happy, Free from distortion of the limbs and lameness, may we behold, in heaven, our sons and parents.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्र। सुऽहार्द:। सुऽकृत:। मदन्ति। विऽहाय। रोगम्। तन्व:। स्वाया:। अश्लोणा:। अङ्गै:। अह्रुता:। स्व:ऽगे। तत्र। पश्येम। पितरौ। च। पुत्रान्। १२०.३।
+यत्र। सुऽहार्दः। सुऽकृतः। मदन्ति। विऽहाय। रोगम्। तन्वः। स्वायाः। अश्लोणाः। अङ्गैः। अह्रुताः। स्वःऽगे। तत्र। पश्येम। पितरौ। च। पुत्रान्। १२०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

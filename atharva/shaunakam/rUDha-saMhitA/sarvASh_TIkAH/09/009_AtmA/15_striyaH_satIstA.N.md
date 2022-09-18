@@ -25,7 +25,6 @@ under Prāt. ii. 73. We might expect, in **d**, *tā́ḥ*, referring to
 They told me these were males, though truly females. He who hath eyes sees this, the blind discerns not. The son who is a sage hath comprehended: who knows this rightly is his father's father.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्त्रियः। सतीः। तान्। ऊं इति। मे। पुंसः। आहुः। पश्यत्। अक्षण्ऽवान्। न। वि। चेतत्। अन्धः। कविः। यः। पुत्रः। सः। ईम्। आ। चिकेत। यः। ता। विऽजानात्। सः। पितुः। पिता। असत्। १४.१५।

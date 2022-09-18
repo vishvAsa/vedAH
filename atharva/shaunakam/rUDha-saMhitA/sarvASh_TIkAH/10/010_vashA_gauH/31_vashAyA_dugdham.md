@@ -21,7 +21,6 @@ and easy resolutions, a regular *anuṣṭubh*.
 When these, Sadhyas and Vasus, have drunk the out-pourings of the Cow, They in the Bright One's dwelling-place pay adoration to her milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशायाः। दुग्धम्। पीत्वा। साध्याः। वसवः। च। ये। ते। वै। ब्रध्नस्य। विष्टपि। पयः। अस्याः। उप। आसते। १०.३१।

@@ -20,7 +20,6 @@ The mss., as is usual in such cases, are divided between *duḥpr-* and
 Within the mouth of Varuna three tongues are glittering with light. That which shines midmost of them is this Cow most difficult to hold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तिस्रः। जिह्वाः। वरुणस्य। अन्तः। दीद्यति। आसनि। तासाम्। या। मध्ये। राजति। सा। वशा। दुःऽप्रतिग्रहा। १०.२८।

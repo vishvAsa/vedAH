@@ -7,7 +7,6 @@ title = "००५ प्रतिसरो मणिः"
 5. Against witchcraft etc.: with an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्रतिसरो मणिः।  
@@ -18,8 +17,6 @@ title = "००५ प्रतिसरो मणिः"
 
 [śukra.—dvāviṅśam. kṛtyādūṣaṇadevatyam uta mantroktadevatyam. ānuṣṭubham: 1. upariṣṭādbṛhatī; 2. 3-p. virāḍgayatrī; 3. 4-p. bhurigjagatī; 5. saṁstārapan̄kti bhurij; 6. upariṣṭādbṛhatī; 7, 8. kakummatī; 9. 4-p. puraskṛti jagatī; 10. triṣṭubh; 11. pathyāpan̄kti; 14. 3-av. 6-p. jagatī; 15. purastādbṛhatī; 19. jāgatīgarbhā triṣṭubh; 20. virāḍgarbhā* prastārapan̄kti; 21. parāvirāṭ triṣṭubh; 22. 3-av. 7-p. virāḍgarbhā bhurik śakvarī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ Found also (except vs. 18) in Pāipp. xvi. *⌊The Berlin ms. reads -garbhā ”
 
 A charm accompanying investiture with an amulet
 </details>
+

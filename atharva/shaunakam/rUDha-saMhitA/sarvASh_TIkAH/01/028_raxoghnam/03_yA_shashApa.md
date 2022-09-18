@@ -28,7 +28,6 @@ intrusion, but completes the sense.
 She who hath cursed us with a curse, or hath conceived a murderous sin; Or seized our son to take his blood, let her devour the child she bare.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। शशाप। शपनेन। या। अघम्। मूरम्। आऽदधे। या। रसस्य। हरणाय। जातम्। आऽरेभे। तोकम्। अत्तु। सा।

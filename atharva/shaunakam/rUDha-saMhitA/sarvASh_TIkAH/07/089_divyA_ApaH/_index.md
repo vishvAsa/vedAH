@@ -7,7 +7,6 @@ title = "०८९ दिव्या आपः"
 89 (94). To Agni and the waters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दिव्या आपः।  
@@ -18,8 +17,6 @@ title = "०८९ दिव्या आपः"
 
 [Sindhudvīpa.—caturṛcam. āgneyam. ānuṣṭubham: 4. 3-p. nicṛtparoṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 36, 106; Griffith, i. 373.
 
 A prayer for purification and prosperity
 </details>
+

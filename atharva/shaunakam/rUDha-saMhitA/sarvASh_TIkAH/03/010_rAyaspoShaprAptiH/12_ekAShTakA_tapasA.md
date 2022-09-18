@@ -33,10 +33,9 @@ different explanations of *gárbham* in **b**, adding *garaṇīyam* or
 Ekashtaka, burning with zealous fervour, brought forth her babe the great and glorious Indra. With him the Gods subdued their adversaries: the Lord of Might became the Dasyus' slayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एकऽअष्टका। तपसा। तप्यमाना। जजान। गर्भम्। महिमानम्। इन्द्रम्। तेन। देवा:। वि। असहन्त। शत्रून्। हन्ता। दस्यूनाम्। अभवत्। शचीऽपति:। १०.१२।
+एकऽअष्टका। तपसा। तप्यमाना। जजान। गर्भम्। महिमानम्। इन्द्रम्। तेन। देवाः। वि। असहन्त। शत्रून्। हन्ता। दस्यूनाम्। अभवत्। शचीऽपतिः। १०.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

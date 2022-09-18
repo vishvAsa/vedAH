@@ -22,7 +22,6 @@ recur below, vs. 43.⌋
 Cleansed by prayer, sacrifices bear thee upward: bay coursers, ever travelling, convey thee. Thy light shines over sea and billowy ocean.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। त्वा। यज्ञाः। ब्रह्मऽपूताः। वहन्ति। अध्वऽगतः। हरयः। त्वा। वहन्ति। तिरः। समुद्रम्। अति। रोचसे। अर्णवम्। १.३६।

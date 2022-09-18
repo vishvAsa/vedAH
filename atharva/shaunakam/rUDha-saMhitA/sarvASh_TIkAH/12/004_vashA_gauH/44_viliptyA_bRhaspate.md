@@ -28,7 +28,6 @@ Anukr. heeds none of these cases.
 Vilipti, cow, and she who drops no second calf, Brihaspati! Of these none not a Brahmana should eat if he hope for emi- nence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽलिप्त्याः। बृहस्पते। या। च। सूतऽवशा। वशा। तस्याः। न। अश्नीयात्। अब्राह्मणः। यः। आऽशंसेत। भूत्याम्। ४.४४।

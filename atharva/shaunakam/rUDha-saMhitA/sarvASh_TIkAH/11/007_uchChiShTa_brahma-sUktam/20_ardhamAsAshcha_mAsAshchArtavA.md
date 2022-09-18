@@ -20,7 +20,6 @@ meaning of *śruti*.
 Months, half-months, sections of the year, seasons are in the Residue, The waters resonant afar, the thunder, and the mighty noise.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्धऽमासाः। च। मासाः। च। आर्तवाः। ऋतुऽभिः। सह। उत्ऽशिष्टे। घोषिणीः। आपः। स्तनयित्नुः। श्रुतिः। मही। ९.२०।

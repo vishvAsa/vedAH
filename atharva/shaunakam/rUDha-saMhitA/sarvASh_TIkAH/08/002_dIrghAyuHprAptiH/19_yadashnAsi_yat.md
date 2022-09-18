@@ -19,10 +19,9 @@ The comm. reads strangely *kṛchrāt* instead of *kṣsyās* in **b**.
 Thy food, thy drink, whate'er they be corn grown by cultivation, milk, Food eatable, uneatable, I make all poisonless for thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अश्नासि। यत्। पिबसि। धान्यम्। कृष्या। पय:। यत्। आद्यम्। यत्। अनाद्यम्। सर्वम्। ते। अन्नम्। अविषम्। कृणोमि। २.१९।
+यत्। अश्नासि। यत्। पिबसि। धान्यम्। कृष्या। पयः। यत्। आद्यम्। यत्। अनाद्यम्। सर्वम्। ते। अन्नम्। अविषम्। कृणोमि। २.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

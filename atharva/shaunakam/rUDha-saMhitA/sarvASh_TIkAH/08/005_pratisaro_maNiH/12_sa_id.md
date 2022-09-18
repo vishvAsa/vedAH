@@ -22,10 +22,9 @@ deprives us of its witness.
 A tiger verily is he, he is a lion, and a bull, Subduer of his foes is he, the man who wears this Amulet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। इत्। व्याघ्र:। भवति। अथो इति। सिंह:। अथो इति। वृषा। अथो इति। सपत्नऽकर्शन:। य:। बिभर्ति। इमम्। मणिम्। ५.१२।
+सः। इत्। व्याघ्रः। भवति। अथो इति। सिंहः। अथो इति। वृषा। अथो इति। सपत्नऽकर्शनः। यः। बिभर्ति। इमम्। मणिम्। ५.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

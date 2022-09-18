@@ -22,10 +22,9 @@ hymn 113, as vs. 2 with 115.
 I have extracted from thy sides, I have extracted from thy heart, I have extracted from thy face the strength and splendour that were thine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। ते। ददे। वक्षणाभ्य:। आ। ते। अहम्। हृदयात्। ददे। आ। ते। मुखस्य। सम्ऽकाशात्। सर्वम्। ते। वर्च:। आ। ददे। ११९.१।
+आ। ते। ददे। वक्षणाभ्यः। आ। ते। अहम्। हृदयात्। ददे। आ। ते। मुखस्य। सम्ऽकाशात्। सर्वम्। ते। वर्चः। आ। ददे। ११९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

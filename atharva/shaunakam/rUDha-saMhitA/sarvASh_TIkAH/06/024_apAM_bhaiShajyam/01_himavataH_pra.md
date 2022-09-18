@@ -23,10 +23,9 @@ a case (and hence the *pada*-text blunder *hṛ-dyota* in i. 22. 1).
 Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To me the sacred Waters gave the balm that heals the heart's disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिमऽवत:। प्र। स्रवन्ति। सिन्धौ। समह। सम्ऽगम:। आप:। ह। मह्यम्। तत्। देवी:। ददन्। हृद्द्योतऽभेषजम्। २४.१।
+हिमऽवतः। प्र। स्रवन्ति। सिन्धौ। समह। सम्ऽगमः। आपः। ह। मह्यम्। तत्। देवीः। ददन्। हृद्द्योतऽभेषजम्। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

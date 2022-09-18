@@ -7,7 +7,6 @@ title = "००६ शत्रुनाशनम्"
 6. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "००६ शत्रुनाशनम्"
 
 [Atharvan.—brāhmaṇaspatyam; sāumyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 430; Florenz, 255 or 7; Griffith, i. 247.
 
 A prayer to Brahmanaspati for protection from wicked men
 </details>
+

@@ -53,10 +53,9 @@ contraction *-rśye ’va* in **c**.
 Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus fascinum velut arcum extende.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अद्य। अग्ने। अद्य। सवित:। अद्य। देवि। सरस्वति। अद्य। अस्य। ब्रह्मण:। पते। धनु:ऽइव। आ। तानय। पस:। ४.६।
+अद्य। अग्ने। अद्य। सवितः। अद्य। देवि। सरस्वति। अद्य। अस्य। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

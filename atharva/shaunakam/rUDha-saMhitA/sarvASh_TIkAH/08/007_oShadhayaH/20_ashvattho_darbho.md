@@ -18,10 +18,9 @@ Ppp. reads *yavasya bheṣajo* in **c**.
 Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice are healing balms, the sons of Heaven who never die.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वत्थ:। दर्भ:। वीरुधाम्। सोम:। राजा। अमृतम्। हवि:। व्रीहि:। यव:। च। भेषजौ। दिव:। पुत्रौ। अमर्त्यौ। ७.२०।
+अश्वत्थः। दर्भः। वीरुधाम्। सोमः। राजा। अमृतम्। हविः। व्रीहिः। यवः। च। भेषजौ। दिवः। पुत्रौ। अमर्त्यौ। ७.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

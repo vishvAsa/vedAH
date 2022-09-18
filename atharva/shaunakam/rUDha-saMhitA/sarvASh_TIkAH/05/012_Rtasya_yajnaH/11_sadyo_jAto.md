@@ -14,10 +14,9 @@ title = "११ सद्यो जातो"
 Agni as soon as he was born made ready the sacrifice and was the Gods' preceder. May the Gods eat our offering consecrated according to this true Priest's voice and guidance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सद्य:। जात:। वि। अमिमीत। यज्ञम्। अग्नि:। देवानाम्। अभवत्। पुर:ऽगा:। अस्य। होतु:। प्रऽशिषि। ऋतस्य। वाचि। स्वाहाऽकृतम्। हवि:। अदन्तु। देवा:। १२.११।
+सद्यः। जातः। वि। अमिमीत। यज्ञम्। अग्निः। देवानाम्। अभवत्। पुरःऽगाः। अस्य। होतुः। प्रऽशिषि। ऋतस्य। वाचि। स्वाहाऽकृतम्। हविः। अदन्तु। देवाः। १२.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

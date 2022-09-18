@@ -21,10 +21,9 @@ rhythmical fevers—tertian, quartan, etc., see Grohmann, l.c., 387, 3S8.⌋
 I offer homage to the chilly Fever, to his fierce burning glow I offer homage. Be adoration paid to Fever coming each other day, the third, of two days running.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। शीताय। तक्मने। नम:। रूराय। शोचिषे। कृणोमि। य:। अन्येद्यु:। उभयऽद्यु:। अभिऽएति। तृतीयकाय। नम:। अस्तु। तक्मने।
+नमः। शीताय। तक्मने। नमः। रूराय। शोचिषे। कृणोमि। यः। अन्येद्युः। उभयऽद्युः। अभिऽएति। तृतीयकाय। नमः। अस्तु। तक्मने।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

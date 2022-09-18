@@ -24,10 +24,9 @@ after *agním.* MP. offers *te* for *nas* in **d**. ⌊As to *savitṛ* =
 May they, the golden-hued, the bright, the splendid, they wherein Savitar was born and Agni, They who took Agni as a germ, fair-coloured, the Waters, bring felicity and bless us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णा:। शुचय:। पावका:। यासु। जात:। सविता। यासु। अग्नि:। या:। अग्निम्। गर्भम्। दधिरे। सुऽवर्णा:। ता:। न:। आप:। शम्। स्योना:। भवन्तु।
+हिरण्यऽवर्णाः। शुचयः। पावकाः। यासु। जातः। सविता। यासु। अग्निः। याः। अग्निम्। गर्भम्। दधिरे। सुऽवर्णाः। ताः। नः। आपः। शम्। स्योनाः। भवन्तु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

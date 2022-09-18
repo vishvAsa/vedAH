@@ -24,7 +24,6 @@ tvā ’karam arasā ’raso ’si*.
 I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed thee, weakling! of thy strength. Upon his head we set the horn, we set the branching ornament.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्लीब। क्लीबम्। त्वा। अकरम्। वध्रे। वध्रिम्। त्वा। अकरम्। अरस। अरसम्। त्वा। अकरम्। कुरीरम्। अस्य। शीर्षाणि। कुम्बम्। च। अधिऽनिदध्मसि। १३८.३।

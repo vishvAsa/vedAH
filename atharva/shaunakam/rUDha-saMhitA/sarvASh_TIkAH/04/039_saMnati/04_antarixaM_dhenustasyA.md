@@ -19,10 +19,9 @@ The comm. has *tasya* 'of it (i.e. the atmosphere),' instead of
 Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षम्। धेनु:। तस्या:। वायु:। वत्स:। सा। मे। वायुना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयु:। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.४।
+अन्तरिक्षम्। धेनुः। तस्याः। वायुः। वत्सः। सा। मे। वायुना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -32,10 +32,9 @@ interpretation. Ppp. reads in **c** *sa te* for *tásya*.
 The Being lays the sap of life in beings: he hath become the sovran Lord of creatures. Death comes to this man's royal consecration: let him as King own and allow this kingdom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भूत:। भूतेषु। पय:। आ। दधाति। स:। भूतानाम्। अधिऽपति:। बभूव। तस्य। मृत्यु:। चरति। राजऽसूयम्। स:। राजा। राज्यम्। अनु। मन्यताम्। इदम्। ८.१।
+भूतः। भूतेषु। पयः। आ। दधाति। सः। भूतानाम्। अधिऽपतिः। बभूव। तस्य। मृत्युः। चरति। राजऽसूयम्। सः। राजा। राज्यम्। अनु। मन्यताम्। इदम्। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

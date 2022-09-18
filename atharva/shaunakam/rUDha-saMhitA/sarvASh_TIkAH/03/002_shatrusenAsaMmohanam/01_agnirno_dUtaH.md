@@ -22,10 +22,9 @@ to have *śatrūn* instead of *vidvān* at end of **a**.
 May Agni, he who knows, our envoy, meet them, burning against ill-will and imprecation. May he bewilder our opponent's senses. May Jatavedas smite and make them handless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। न:। दूत:। प्रतिऽएतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। स:। चित्तानि। मोहयतु। परेषाम्। नि:ऽहस्तान्। च। कृणवत्। जातऽवेदा:। २.१।
+अग्निः। नः। दूतः। प्रतिऽएतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। सः। चित्तानि। मोहयतु। परेषाम्। निःऽहस्तान्। च। कृणवत्। जातऽवेदाः। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

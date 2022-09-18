@@ -22,7 +22,6 @@ her spouse the sun.
 Soma, preserved by covering rules, guarded by hymns in Brihati, Thou standest listening to the stones; none tastes of thee who dwells on earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽच्छत्ऽविधानैः। गुपितः। बार्हतैः। सोम। रक्षितः। ग्राव्णाम्। इत्। शृण्वन्। तिष्ठसि। न। ते। अश्नाति। पार्थिवः। १.५।

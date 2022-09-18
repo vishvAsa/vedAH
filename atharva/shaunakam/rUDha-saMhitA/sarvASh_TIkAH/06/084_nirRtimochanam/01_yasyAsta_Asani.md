@@ -35,10 +35,9 @@ metrical definition of the Anukr. is very poor.
 Thou in whose dread mouth I present oblation, that these bound victims may obtain their freedom, The people deem that thou art Earth: I know thee thoroughly, and I say thou art Destruction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्या:। ते। आसनि। घोरे। जुहोमि। एषाम्। बध्दानाम्। अवऽसर्जनाय। कम्। भूमि:। इत‍ि। त्वा। अभिऽप्रमन्वते। जना:। नि:ऽऋति:। इति। त्वा। अहम्। परि। वेद। सर्वत:। ८४.१।
+यस्याः। ते। आसनि। घोरे। जुहोमि। एषाम्। बध्दानाम्। अवऽसर्जनाय। कम्। भूमिः। इत‍ि। त्वा। अभिऽप्रमन्वते। जनाः। निःऽऋतिः। इति। त्वा। अहम्। परि। वेद। सर्वतः। ८४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

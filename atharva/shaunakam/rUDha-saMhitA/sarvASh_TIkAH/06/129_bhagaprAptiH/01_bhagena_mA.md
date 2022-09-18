@@ -26,10 +26,9 @@ syllable in **c**.
 With fortune of the Sisu tree--with Indra as my friend to aid I give myself a happy fate. Fly and begone, Malignities!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भगेन। मा। शांशपेन। साकम्। इन्द्रेण। मेदिना। कृणोमि। भगिनम्। मा। अप। द्रान्तु। अरातय:। १२९.१।
+भगेन। मा। शांशपेन। साकम्। इन्द्रेण। मेदिना। कृणोमि। भगिनम्। मा। अप। द्रान्तु। अरातयः। १२९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

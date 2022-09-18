@@ -28,10 +28,9 @@ ends with *pāuruṣaḥ*.⌋
 When from their origin they came, the Berries spake among themselves: The man whom we shall find alive shall never suffer injury.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिप्पल्य:। सम्। अवदन्त। आऽयती:। जननात्। अधि। यम्। जीवम्। अश्नवामहै। न। स:। रिष्याति। पुरुष:। १०९.२।
+पिप्पल्यः। सम्। अवदन्त। आऽयतीः। जननात्। अधि। यम्। जीवम्। अश्नवामहै। न। सः। रिष्याति। पुरुषः। १०९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

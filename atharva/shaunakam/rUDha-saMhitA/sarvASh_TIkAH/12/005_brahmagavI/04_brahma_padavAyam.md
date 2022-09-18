@@ -18,7 +18,6 @@ make the 13 syllables required by the definition of the Anukr.
 Brahma her guide, the Brahman her lord and ruler;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। पदऽवायम्। ब्राह्मणः। अधिऽपतिः। ५.४।

@@ -27,10 +27,9 @@ suspect *-veṣ-*, from root *viṣ*, and so 'attendants, servants.'
 Slain are his ministers, and slain his followers and retinue: Yes, those that seemed the tiniest things, the Worms have all been put to death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हतास:। अस्य। वेशस:। हतास:। परिऽवेशस:। अथो इति। ये। क्षुल्लका:ऽइव। सर्वे। ते। क्रिमय:। हता:। ३२.५।
+हतासः। अस्य। वेशसः। हतासः। परिऽवेशसः। अथो इति। ये। क्षुल्लकाःऽइव। सर्वे। ते। क्रिमयः। हताः। ३२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

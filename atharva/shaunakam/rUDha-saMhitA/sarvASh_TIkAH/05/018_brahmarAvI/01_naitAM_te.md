@@ -19,10 +19,9 @@ An accent-mark under the *nya* of *rājanya* in **c** has been lost.
 The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not, Rajanya, to devour the Brahman's cow which none may eat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। एताम्। ते। देवा:। अददु:। तुभ्यम्। नृऽपते। अत्तवे। मा। ब्राह्मणस्य। राजन्य। गाम्। जिघत्स:। अनाद्याम्। १८.१।
+न। एताम्। ते। देवाः। अददुः। तुभ्यम्। नृऽपते। अत्तवे। मा। ब्राह्मणस्य। राजन्य। गाम्। जिघत्सः। अनाद्याम्। १८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

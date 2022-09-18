@@ -21,10 +21,9 @@ unlengthened final in **b**, and VS. no with unlingualized nasal in
 Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us wealth, O Bhaga. Bhaga, augment our store of kine and horses. Bhaga, may we be rich in men and heroes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भग। प्रऽनेत:। भग। सत्यऽराध:। भग। इमाम्। धियम्। उत्। अव। ददत्। न:। भग। प्र। न:। जनय। गोभि:। अश्वै:। भग। प्र। नृऽभि:। नृऽवन्त:। स्याम। १६.३।
+भग। प्रऽनेतः। भग। सत्यऽराधः। भग। इमाम्। धियम्। उत्। अव। ददत्। नः। भग। प्र। नः। जनय। गोभिः। अश्वैः। भग। प्र। नृऽभिः। नृऽवन्तः। स्याम। १६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

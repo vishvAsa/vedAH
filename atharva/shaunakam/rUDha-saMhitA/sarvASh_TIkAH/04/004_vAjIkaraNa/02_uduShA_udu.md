@@ -28,10 +28,9 @@ as it were the reverse of our iv. 6. 8 **a, b**, which see.
 Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong male Prajapati arise with manly energy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। उषा:। उत्। ऊं इति। सूर्य:। उत्। इदम्। मामकम्। वच:। उत्। एजतु। प्रजाऽपति:। वृषा। शुष्मेण। वाजिना। ४.२।
+उत्। उषाः। उत्। ऊं इति। सूर्यः। उत्। इदम्। मामकम्। वचः। उत्। एजतु। प्रजाऽपतिः। वृषा। शुष्मेण। वाजिना। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

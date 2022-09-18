@@ -20,7 +20,6 @@ for *nas* in **a** and **b**.
 Dyaus is our father, our begetter: kinship is here. This great Earth is our kin and mother. Between the wide-spread world-halves is the birth-place. The Father laid the Daughter's germ within it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्यौः। नः। पिता। जनिता। नाभिः। अत्र। बन्धुः। नः। माता। पृथिवी। मही। इयम्। उत्तानयोः। चम्वोः। योनिः। अन्तः। अत्र। पिता। दुहितुः। गर्भम्‌। आ। अघात्। १५.१२।

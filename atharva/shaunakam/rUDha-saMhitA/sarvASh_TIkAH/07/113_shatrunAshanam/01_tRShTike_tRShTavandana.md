@@ -29,10 +29,9 @@ good *anuṣṭubh*, not *virāj*.
 Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That thou mayst hinder from his act that man in all his manly strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तृष्टिके। तृष्टऽवन्दने। उत्। अमूम्। छिन्धि। तृष्टिके। यथा। कृतऽद्विष्टा। अस:। अमुष्मै। शेप्याऽवते। ११८.१।
+तृष्टिके। तृष्टऽवन्दने। उत्। अमूम्। छिन्धि। तृष्टिके। यथा। कृतऽद्विष्टा। असः। अमुष्मै। शेप्याऽवते। ११८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

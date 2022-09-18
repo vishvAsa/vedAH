@@ -20,7 +20,6 @@ beginning *utāi ’tāṁ bh-;* its second half-verse is corrupt.
 Solicited by Indra, still Bheda refused to give this Cow. In strife for victory the Gods destroyed him for that sin of his.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत। एनाम्। भेदः। न। अददात्। वशाम्। इन्द्रेण। याचितः। तस्मात्। तम्। देवाः। आगसः। अवृश्चन्। अहम्ऽउत्तरे। ४.५०।

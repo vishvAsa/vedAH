@@ -21,7 +21,6 @@ of *brahma*. ⌊Ci. note to vs. 21.⌋
 By Brahma was this earth disposed: Brahma is sky arranged above. Brahma is this expanse of air lifted on high and stretched across.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मणा। भूमिः। विऽहिता। ब्रह्म। द्यौः। उत्ऽतरा। हिता। ब्रह्म। इदम्। ऊर्ध्वम्। तिर्यक्। च। अन्तरिक्षम्। व्यचः। हितम्। २.२५।

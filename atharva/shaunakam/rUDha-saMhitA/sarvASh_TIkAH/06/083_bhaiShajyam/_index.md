@@ -7,7 +7,6 @@ title = "०८३ भैषज्यम्"
 83. To remove apacíts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
@@ -19,8 +18,6 @@ title = "०८३ भैषज्यम्"
 [An̄giras.—caturṛcam. mantroktadevatyam. ānuṣṭubham: 4. 1-av. 2-p. nicṛd ārcy anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ title = "०८३ भैषज्यम्"
 
 A charm against sores and pustules (apachitas)
 </details>
+

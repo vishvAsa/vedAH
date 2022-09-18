@@ -21,10 +21,9 @@ sakhyā juṣāṇaḥ*. The comm. paraphrases *praṇītīs* by
 Leaving humanity behind, making the heavenly word thy choice, With all thy friends address thyself to furthering and guiding men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽक्रामन्। पौरुषेयात्। वृणान:। दैव्यम्। वच:। प्रऽनीती:। अभिऽआवर्तस्व। विश्वेभ‍ि:। सखिऽभि:। सह। ११०.१।
+अपऽक्रामन्। पौरुषेयात्। वृणानः। दैव्यम्। वचः। प्रऽनीतीः। अभिऽआवर्तस्व। विश्वेभ‍िः। सखिऽभिः। सह। ११०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

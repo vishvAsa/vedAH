@@ -24,10 +24,9 @@ at end of **b** *-vo adābhyam*.
 They fly, the demon dogs, and, bent on mischief, fain would they harm indomitable Indra. Sakra makes sharp his weapon for the wicked: now let him cast his bolt at fiendish wizards.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एते। ऊं इति। त्ये। पतयन्ति। श्वऽयातव:। इन्द्रम्। दिप्सन्ति। दिप्सव:। अदाभ्यम्। शिशीते। शक्र:। पिशुनेभ्य:। वधम्। नूनम्। सृजत्। अशनिम्। यातुमत्ऽभ्य:। ४.२०।
+एते। ऊं इति। त्ये। पतयन्ति। श्वऽयातवः। इन्द्रम्। दिप्सन्ति। दिप्सवः। अदाभ्यम्। शिशीते। शक्रः। पिशुनेभ्यः। वधम्। नूनम्। सृजत्। अशनिम्। यातुमत्ऽभ्यः। ४.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

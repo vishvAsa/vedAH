@@ -19,7 +19,6 @@ and below, *saṁkusika-*.
 Agni the God, the Breaker-up, hath mounted to the heights of heaven. Released from all transgression, he hath from the curse delivered us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवः। अग्निः। सम्ऽकसुकः। दिवः। पृष्ठानि। आ। अरुहत्। मुच्यमानः। निः। एनसः। अमोक्। अस्मान्। अशस्त्याः। २.१२।

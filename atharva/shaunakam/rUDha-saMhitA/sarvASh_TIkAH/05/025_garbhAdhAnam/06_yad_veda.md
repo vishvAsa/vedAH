@@ -20,10 +20,9 @@ One or two of our mss. (P.W.) read *-bhaṁkár-* in **d**. Ppp. has for
 Drink thou the procreative draught well-known to Varuna the King, Known to divine Sarasvati, and Indra slayer of the foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। वेद। राजा। वरुण:। यत्। वा। देवी। सरस्वती। यत्। इन्द्र:। वृत्रऽहा। वेद। तत्। गर्भऽकरणम्। पिब। २५.६।
+यत्। वेद। राजा। वरुणः। यत्। वा। देवी। सरस्वती। यत्। इन्द्रः। वृत्रऽहा। वेद। तत्। गर्भऽकरणम्। पिब। २५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

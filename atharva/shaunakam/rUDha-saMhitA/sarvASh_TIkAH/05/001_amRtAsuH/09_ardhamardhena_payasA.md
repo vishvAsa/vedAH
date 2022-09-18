@@ -34,10 +34,9 @@ given by some of SPP's authorities.⌋
 Halt with the milk, its other half, thou minglest and with that half, strong! unbeguiled! increasest. Let us exalt the gracious friend, the mighty, Varuna son of- Aditi, strength-giver. We have told him the marvels sung by poets. The utterance of Heaven and Earth is truthful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अर्धम्। अर्धेन। पयसा। पृणक्षि। अर्धेन। शुष्म। वर्धसे। अमुर। अविम्। वृधाम। शग्मियम्। सखायम्। वरुणम्। पुत्रम्। अदित्या:। इषिरन्। कविऽशस्तानि। अस्मै। वपूंषि। अवोचाम। रोदसी इति। सत्यऽवाचा। १.९।
+अर्धम्। अर्धेन। पयसा। पृणक्षि। अर्धेन। शुष्म। वर्धसे। अमुर। अविम्। वृधाम। शग्मियम्। सखायम्। वरुणम्। पुत्रम्। अदित्याः। इषिरन्। कविऽशस्तानि। अस्मै। वपूंषि। अवोचाम। रोदसी इति। सत्यऽवाचा। १.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

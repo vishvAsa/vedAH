@@ -22,10 +22,9 @@ might also be subject of 'disjoins.' Compare ix. 10. 27 (RV. i. 164.
 Which are the three, the mighty three, whereof the fourth divides the voice, This may the Brahman know by prayer and fervour, whereto belongs the one, whereto the other.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यानि। त्रीणि। बृहन्ति। येषाम्। चतुर्थम्। विऽयुनक्ति। वाचम्। ब्रह्मा। एनत्। विद्यात्। तपसा। विप:ऽचित्। यस्मिन्। एकम्। युज्यते। यस्मिन्। एकम्। ९.३।
+यानि। त्रीणि। बृहन्ति। येषाम्। चतुर्थम्। विऽयुनक्ति। वाचम्। ब्रह्मा। एनत्। विद्यात्। तपसा। विपःऽचित्। यस्मिन्। एकम्। युज्यते। यस्मिन्। एकम्। ९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

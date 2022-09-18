@@ -28,10 +28,9 @@ the four other texts, even though doubtless a corruption of *-ṣvát*.
 Let Bharati come quickly to our worship and Ila showing like a human being. So let Sarasvati and both her fellows, deft Goddesses, on this fair grass be seated.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। न:। यज्ञम्। भारती। तूयम्। एतु। इडा। मनुष्वत्। इह। चेतयन्ती। तिस्र:। देवी:। बर्हि:। आ। इदम्। स्योनम्। सरस्वती:। सुऽअपस:। सदन्ताम्। १२.८।
+आ। नः। यज्ञम्। भारती। तूयम्। एतु। इडा। मनुष्वत्। इह। चेतयन्ती। तिस्रः। देवीः। बर्हिः। आ। इदम्। स्योनम्। सरस्वतीः। सुऽअपसः। सदन्ताम्। १२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

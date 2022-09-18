@@ -35,10 +35,9 @@ how, as the two are not equal in number of verses.
 Thou who, aglow with heat, makest all bodies green, to thee, red, brown, I bow, the Fever of the wood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। य:। अभिऽशोचयिष्णु:। विश्वा। रूपाणि। हरिता। कृणोषि। तस्मै। ते। अरुणाय। बभ्रवे। नम:। कृणोमि। वन्याय। तक्मने। २०.३।
+अयम्। यः। अभिऽशोचयिष्णुः। विश्वा। रूपाणि। हरिता। कृणोषि। तस्मै। ते। अरुणाय। बभ्रवे। नमः। कृणोमि। वन्याय। तक्मने। २०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

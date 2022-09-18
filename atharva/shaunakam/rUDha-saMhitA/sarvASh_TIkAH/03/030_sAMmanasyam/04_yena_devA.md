@@ -21,10 +21,9 @@ no authority nor occasion for such an understanding; the comm. also says
 That spell through which Gods sever not, nor ever bear each other hate, That spell we lay upon your home, a bond of union for the men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। देवा:। न। विऽयन्ति। नो इति। च। विऽद्विषते। मिथ:। तत्। कृण्म:। ब्रह्म। व:। गृहे। सम्ऽज्ञानम्। पुरुषेभ्य:। ३०.४।
+येन। देवाः। न। विऽयन्ति। नो इति। च। विऽद्विषते। मिथः। तत्। कृण्मः। ब्रह्म। वः। गृहे। सम्ऽज्ञानम्। पुरुषेभ्यः। ३०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

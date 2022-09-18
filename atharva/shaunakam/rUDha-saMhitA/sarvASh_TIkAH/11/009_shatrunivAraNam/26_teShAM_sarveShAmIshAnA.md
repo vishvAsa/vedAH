@@ -23,7 +23,6 @@ properly does the same. ⌊Our **b, c** = 2 **a, b**: **b** = 10. 1
 With full dominion over these, rise, stand ye up, prepare your- selves, Ye are our friends, celestial hosts. When ye have won this battle, go, each to his several sphere, apart. HYMN X
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तेषाम्। सर्वेषाम्। ईशानाः। उत्। तिष्ठत। सम्। नह्यध्वम्। मित्राः। देवऽजनाः। यूयम्। इमम्। सम्ऽग्रामम्। सम्ऽजित्य। यथाऽलोकम्। वि। तिष्ठध्वम्। ११.२६।

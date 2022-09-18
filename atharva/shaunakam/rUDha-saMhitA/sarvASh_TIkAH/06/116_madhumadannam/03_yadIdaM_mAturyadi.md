@@ -26,10 +26,9 @@ api parijanāt!*
 Whether this sin into our heart hath entered regarding mother, father, son or brother, Auspicious be to us the zeal and spirit of all the fathers who are here among us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। इदम्। मातु:। यदि। वा। पितु:। न:। परि। भ्रातु:। पुत्रात्। चेतस:। एन:। आऽअगन्। यावन्त:। अस्मान्। पितर:। सचन्ते। तेषाम्। सर्वेषाम्। शिव:। अस्तु। मन्यु:। ११६.३।
+यदि। इदम्। मातुः। यदि। वा। पितुः। नः। परि। भ्रातुः। पुत्रात्। चेतसः। एनः। आऽअगन्। यावन्तः। अस्मान्। पितरः। सचन्ते। तेषाम्। सर्वेषाम्। शिवः। अस्तु। मन्युः। ११६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

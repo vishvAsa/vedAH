@@ -25,10 +25,9 @@ authority of only one of his mss., unaccountably substitutes *pra॰ayám*
 Ye who have counted up the earth's expanses, and in the sky smoothed out the air's mid-region, Whose going-forth hath ne'er been reached by any, deliver us, ye two, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ययो:। सम्ऽख्याता। वरिमा। पार्थिवानि। याभ्याम्। रज:। युपितम्। अन्तरिक्षे। ययो:। प्रऽअयम्। न। अनुऽआनशे। क:। चन। तौ। न:। मुञ्चतम्। अंहस:। २५.२।
+ययोः। सम्ऽख्याता। वरिमा। पार्थिवानि। याभ्याम्। रजः। युपितम्। अन्तरिक्षे। ययोः। प्रऽअयम्। न। अनुऽआनशे। कः। चन। तौ। नः। मुञ्चतम्। अंहसः। २५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

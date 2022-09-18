@@ -18,10 +18,9 @@ they have made—I take that back again.
 The spell that they have cast upon thy beast that hath uncloven hooves, The ass with teeth in both his jaws, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। एकऽशफे। पशूनाम्। उभयादति। गर्दभे। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.३।
+याम्। ते। चक्रुः। एकऽशफे। पशूनाम्। उभयादति। गर्दभे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ read in **a** *-já rtásya* (p. *prathama॰jā́: ṛtásya* ⌊cf. JAGS. x. 4
 Six Elements arose, first-born of Order: the six-day time is carried by six Samans. Six-yoked the plough is, as each trace is numbered: they call both broad ones six; six, Earth and Heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-षट्। जाता। भूता। प्रथमऽजा। ऋतस्य। षट्। ऊं इति। सामानि। षट्ऽअहम्। वहन्ति। षट्ऽयोगम्। सीरम्। अनु। सामऽसाम। षट्। आहु:। द्यावापृथिवी:। षट्। उर्वी:। ९.१६।
+षट्। जाता। भूता। प्रथमऽजा। ऋतस्य। षट्। ऊं इति। सामानि। षट्ऽअहम्। वहन्ति। षट्ऽयोगम्। सीरम्। अनु। सामऽसाम। षट्। आहुः। द्यावापृथिवीः। षट्। उर्वीः। ९.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

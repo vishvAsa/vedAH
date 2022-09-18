@@ -20,7 +20,6 @@ instead of *vṛkṣān* in **b**; also it has in **c** *-tnāṅs tvam* for
 As Agni and the wind devour the trees, the sovrans of the wood, Even so devour my rivals, born before me and born after. Let the Varana protect thee well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। वातः। च। अग्निः। च। वृक्षान्। प्सातः। वनस्पतीन्। एव। सऽपत्नान्। मे। प्साहि। पूर्वान्। जातान्। उत। अपरान्। वरणः। त्वा। अभि। रक्षतु। ३.१४।

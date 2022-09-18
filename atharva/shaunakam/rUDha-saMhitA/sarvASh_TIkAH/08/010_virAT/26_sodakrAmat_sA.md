@@ -22,10 +22,9 @@ in **c**.
 She rose, she came unto the Gods. They called her, crying, O Vigour, come to us, come hither! God Savitar milked her, he milked forth Vigour. The Gods depend for life upon that Vigour. He who knows this becomes a meet supporter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। पितृन्। आ। अगच्छत्। ताम्। पितर:। अघ्नत। सा। मासि। सम्। अभवत्। १२.३।
+सा। उत्। अक्रामत्। सा। पितृन्। आ। अगच्छत्। ताम्। पितरः। अघ्नत। सा। मासि। सम्। अभवत्। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

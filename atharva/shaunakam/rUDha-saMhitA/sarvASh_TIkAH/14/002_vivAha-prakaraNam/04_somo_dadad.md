@@ -22,7 +22,6 @@ Wint., p. 48.⌋
 Soma to the Gandharva, and to Agni the Gandharva gave. Now, Agni hath bestowed on me riches and sons and this my bride.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमः। ददत्। गन्धर्वाय। गन्धर्वः। ददत्। अग्नये। रयिम्। च। पुत्रान्। च। अदात्। अग्निः। मह्यम्। अथो इति। इमाम्। २.४।

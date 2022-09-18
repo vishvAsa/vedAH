@@ -7,7 +7,6 @@ title = "०२४ शत्रुनाशनम्"
 24. Against kimīdíns, male and female.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०२४ शत्रुनाशनम्"
 [Brahman.—aṣṭarcam. āyuṣyam. pān̄ktam....]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Ppp. reads: śarabhaka ṣeraśabha punar bho yānti yādavaṣ punar hatiṣ ki
 
 A charm against the magic arts of fiends
 </details>
+

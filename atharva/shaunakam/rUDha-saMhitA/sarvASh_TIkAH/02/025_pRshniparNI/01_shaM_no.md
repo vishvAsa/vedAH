@@ -38,10 +38,9 @@ Mythol.* i. 207.⌋ Ppp. reads in **b** *nirṛtaye karat*, and in **d**
 The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of the Kanvas she: her have I gained, the mighty one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। न:। देवी। पृश्निऽपर्णी। अशम्। नि:ऽऋत्यै। अक:। उग्रा। हि। कण्वऽजम्भनी। ताम्। अभक्षि। सहस्वतीम्। २५.१।
+शम्। नः। देवी। पृश्निऽपर्णी। अशम्। निःऽऋत्यै। अकः। उग्रा। हि। कण्वऽजम्भनी। ताम्। अभक्षि। सहस्वतीम्। २५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

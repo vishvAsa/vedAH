@@ -24,7 +24,6 @@ a cushion.
 I speak to Prithivi the purifier, to patient Earth who groweth strong through Brahma. O Earth, may we recline on thee who bearest strength, increase, portioned share of food, and fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽमृग्वरीम्। पृथिवीम्। आ। वदामि। क्षमाम्। भूमिम्। ब्रह्मणा। ववृधानाम्। ऊर्जम्। पुष्टम्। बिभ्रतीम्। अन्नऽभागम्। घृतम्। त्वा। अभि। नि। सीदेम। भूमे। १.२९।

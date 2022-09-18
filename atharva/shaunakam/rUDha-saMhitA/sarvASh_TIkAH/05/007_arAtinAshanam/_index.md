@@ -7,7 +7,6 @@ title = "००७ अरातिनाशनम्"
 7. Against niggardliness and its effects.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अरातिनाशनम्।  
@@ -18,8 +17,6 @@ title = "००७ अरातिनाशनम्"
 
 [Atharvan (?).—daśakam. bahudevatyam (1-3, 6-10. arātīyās; 4, 5. sārasvatyāu). ānuṣṭubham: 1. virāḍgarbhā prastārapan̄kti; 4. pathyābṛhatī; 6. prastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 305; Grill, 39, 145; Griffith, i. 198; Bloomfield, 172, 4
 
 A charm to deprecate Arati or Malignity
 </details>
+

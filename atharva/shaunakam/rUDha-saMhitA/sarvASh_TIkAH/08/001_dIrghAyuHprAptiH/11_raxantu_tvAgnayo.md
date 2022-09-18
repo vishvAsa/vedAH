@@ -21,10 +21,9 @@ error of the press. Ppp. reads *mā pra dahāt.*
 Thy guardians be the Fires within the Waters, thy guardian be the Fire which men enkindle. Thy guardian be Vaisvanara Jatavedas; let not celestial Fire with lightning burn thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रक्षन्तु। त्वा। अग्नय:। ये। अप्ऽसु। अन्त:। रक्षतु। त्वा। मनुष्या:। यम्। इन्धते। वैश्वानर:। रक्षतु। जातऽवेदा:। दिव्य:। त्वा। मा। प्र। धाक्। विऽद्युता। सह। १.११।
+रक्षन्तु। त्वा। अग्नयः। ये। अप्ऽसु। अन्तः। रक्षतु। त्वा। मनुष्याः। यम्। इन्धते। वैश्वानरः। रक्षतु। जातऽवेदाः। दिव्यः। त्वा। मा। प्र। धाक्। विऽद्युता। सह। १.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

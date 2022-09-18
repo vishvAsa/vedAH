@@ -16,7 +16,6 @@ title = "२३ स य"
 He who may know the magnitude of the Odana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। यः। ओदनस्य। महिमानम्। विद्यात्। ३.२३।

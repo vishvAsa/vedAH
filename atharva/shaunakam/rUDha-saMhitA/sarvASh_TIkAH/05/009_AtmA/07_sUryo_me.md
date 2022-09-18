@@ -18,10 +18,9 @@ myself for heaven and earth to guard (*gopīthá*).
 Mine eye is Siirya and my breath is Vata, Air is my soul and Prithivi my body. I verily who never have been conquered give up my life toe Heaven and Earth for keeping.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सूर्य:। मे। चक्षु:। वात:। प्राण:। अन्तरिक्षम्। आत्मा। पृथिवी। शरीरम्। अस्तृत:। नाम। अहम्। अयम्। अस्मि। स:। आत्मानम्। नि। दधे। द्यावापृथिवीभ्याम्। गोपीथाय। ९.७।
+सूर्यः। मे। चक्षुः। वातः। प्राणः। अन्तरिक्षम्। आत्मा। पृथिवी। शरीरम्। अस्तृतः। नाम। अहम्। अयम्। अस्मि। सः। आत्मानम्। नि। दधे। द्यावापृथिवीभ्याम्। गोपीथाय। ९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ subject and with acc., Whitney has noted the excellent parallel, RV. i.
 Why was born, first, for active operation, whose valour as the first hath been awakened, Who raised his bolt when he encountered Ahi. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। प्रथम:। कर्मऽकृत्याय। जज्ञे। यस्य। वीर्यम्। प्रथमस्य। अनुऽबुध्दम्। येन। उत्ऽयत:। वज्र:। अभिऽआयत। अहिम्। स:। न:। मुञ्चतु। अंहस:। २४.६।
+यः। प्रथमः। कर्मऽकृत्याय। जज्ञे। यस्य। वीर्यम्। प्रथमस्य। अनुऽबुध्दम्। येन। उत्ऽयतः। वज्रः। अभिऽआयत। अहिम्। सः। नः। मुञ्चतु। अंहसः। २४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

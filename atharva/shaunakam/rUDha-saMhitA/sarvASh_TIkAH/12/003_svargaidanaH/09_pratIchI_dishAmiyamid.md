@@ -23,7 +23,6 @@ notice of the deficiency of the first pāda.
 Best of the regions is indeed this western wherein the King and gracious Lord is Soma. Thither resort for rest, follow the pious. Then gain the laden chargers, O ye couple.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतीची। दिशाम्। इयम्। इत्। वरम्। यस्याम्। सोमः। अधिऽपाः। मृडिता। च। तस्याम्। श्रयेथाम्। सुऽकृतः। सचेथाम्। अध। पक्वात्। मिथुना। सम्। भवाथः। ३.९।

@@ -21,10 +21,9 @@ constantly come to thee. Ppp. reads *dhartrī ca* for *bhartrī hi* in
 Whoever drinketh thee hath life: thou savest and protectest man. As nursing mother of mankind, thou takest all upon thy lap.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। पिबति। जीवति। त्रायसे। पुरुषम्। त्वम्। मर्त्री। हि। शश्वताम्। असि। जनानाम्। च। निऽअञ्चनी। ५.२।
+यः। त्वा। पिबति। जीवति। त्रायसे। पुरुषम्। त्वम्। मर्त्री। हि। शश्वताम्। असि। जनानाम्। च। निऽअञ्चनी। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

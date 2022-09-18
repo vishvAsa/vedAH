@@ -19,7 +19,6 @@ be called a *sāmnī triṣṭubh*. Ppp. reads in **b** *ṛtasya naṣ*.
 May Soma, gracious friend, imperial Sovran, and the world's Masters look on us with favour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमः। राजा। अधिऽपाः। मृडिताः। च। भूतस्य। नः। पतयः। मृडयन्तु। १.२२।

@@ -21,7 +21,6 @@ obscure verse.
 One is yet finer than a hair, one is not even visible. And hence the Deity who grasps with firmer hold is dear to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बालात्। एकम्। अणीयःऽकम्। उत। एकम्। नऽइव। दृश्यते। ततः। परिऽस्वजीयसी। देवता। सा। मम। प्रिया। ८.२५।

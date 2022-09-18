@@ -18,10 +18,9 @@ season "fattening" by name, namely the goat etc. etc.
 The man who knows the called the Swelling takes to himself the swelling fame, his hated rival's swelling fame. The Goat Panchaudana is this Swelling season. He lives himself, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। पिन्वन्तम्। नाम। ऋतुम्। वेद। पिन्वतीम्ऽपिन्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एष:। वै। पिन्वन्। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। ५.३४।
+यः। वै। पिन्वन्तम्। नाम। ऋतुम्। वेद। पिन्वतीम्ऽपिन्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। पिन्वन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

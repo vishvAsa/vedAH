@@ -22,10 +22,9 @@ adds further at the end *śivās te santv oṣadhīḥ*. The comm. gives
 Gracious to thee be Heaven and Earth, bringing no grief, and drawing nigh! Pleasantly shine the Sun for thee, the Wind blow sweetly to thy heart! Let the celestial Waters full of milk flow happily for thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श‍िवे इति। ते। स्ताम्। द्यावापृथिवी इति। असंतापे इत्यसम्ऽतापे। अभिऽश्रियौ। शम्। ते। सूर्य:। आ। तपतु। शम्। वात:। वातु। ते। हृदे। शिवा:। अभि। क्षरन्तु। त्वा। आप:। द‍िव्या:। पयस्वती:। २.१४।
+श‍िवे इति। ते। स्ताम्। द्यावापृथिवी इति। असंतापे इत्यसम्ऽतापे। अभिऽश्रियौ। शम्। ते। सूर्यः। आ। तपतु। शम्। वातः। वातु। ते। हृदे। शिवाः। अभि। क्षरन्तु। त्वा। आपः। द‍िव्याः। पयस्वतीः। २.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

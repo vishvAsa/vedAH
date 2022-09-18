@@ -90,7 +90,6 @@ but of the Old Anukr. or *Pañcapaṭalikā*. as well.⌋
 The Odana has just eaten the Odana. 2
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओदनः। एव। ओदनम्। प्र। आशीत्। ३.३१।

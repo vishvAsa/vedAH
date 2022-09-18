@@ -23,7 +23,6 @@ HGS. i. 6. 4; MB. i. 5. 9. ⌊Cf. MGS. ii. 18. 2 k and p. 150.⌋
 O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asvins, crowned with lotuses, bestow the germ.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गर्भम्। धेहि। सिनीवालि। गर्भम्। धेहि। सरस्वति। गर्भम्। ते। अश्विना। उभा। आ। धत्ताम्। पुष्करऽस्रजा। २५.३।

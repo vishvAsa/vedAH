@@ -25,10 +25,9 @@ probably taken indefinitely, as an imposing one.
 Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May the felicity of the Fathers guard us. I seize that man with fire that Gods have kindled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अशीतिऽभि:। तिसृभि:। सामऽगेभि:। आदित्येभि:। वसुऽभि:। अङ्गिर:ऽभि:। इष्टापूर्तम्। अवतु। न:। पितृणाम्। आ। अमुम्। ददे। हरसा। दैव्येन। १२.४।
+अशीतिऽभिः। तिसृभिः। सामऽगेभिः। आदित्येभिः। वसुऽभिः। अङ्गिरःऽभिः। इष्टापूर्तम्। अवतु। नः। पितृणाम्। आ। अमुम्। ददे। हरसा। दैव्येन। १२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

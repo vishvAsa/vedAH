@@ -7,7 +7,6 @@ title = "०३५ मृत्युसंतरणम्"
 35. Extolling a rice-mess offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मृत्युसंतरणम्।  
@@ -18,8 +17,6 @@ title = "०३५ मृत्युसंतरणम्"
 
 [Prajāpati.—ātimartyam.* trāiṣṭubham: 3. bhurij; 4. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 438; Griffith, i. 177; Weber, xviii. 139.
 
 Magnification of the Odana or oblation of milk and rice
 </details>
+

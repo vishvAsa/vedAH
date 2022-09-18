@@ -20,10 +20,9 @@ AJP. xvii. 433, JAOS., etc.⌋
 Insane through sin against the Gods, or maddened by a demon's power-- Well-skilled I make a medicine to free thee from insanity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवऽएनसात्। उत्ऽमदितम्। उत्ऽमत्तम्। रक्षस:। परि। कृणोमि। विद्वान्। भेषजम्। यदा। अनुत्ऽमदित:। असति। १११.३।
+देवऽएनसात्। उत्ऽमदितम्। उत्ऽमत्तम्। रक्षसः। परि। कृणोमि। विद्वान्। भेषजम्। यदा। अनुत्ऽमदितः। असति। १११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

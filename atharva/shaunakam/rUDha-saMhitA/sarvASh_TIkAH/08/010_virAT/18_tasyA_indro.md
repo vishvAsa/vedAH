@@ -22,10 +22,9 @@ following paragraphs. Ppp. puts *vanaspatīnām* after *saṁvatsare*. ⌊For
 She rose, she came unto the tress: they killed her. A year went by and she again existed. Hence in a year the wounds of trees heal over. He who knows this sees his loathed rival wounded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्या:। इन्द्र:। वत्स:। आसीत्। गायत्री। अभिऽधानी। अभ्रम्। ऊध:। ११.५।
+तस्याः। इन्द्रः। वत्सः। आसीत्। गायत्री। अभिऽधानी। अभ्रम्। ऊधः। ११.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

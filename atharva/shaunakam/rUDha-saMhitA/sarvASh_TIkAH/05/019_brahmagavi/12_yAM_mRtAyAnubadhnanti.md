@@ -23,10 +23,9 @@ Böhtlingk*, p. 98 ⌊and Bloomfield, AJP. xii. 416⌋.
 Oppressor of the Brahmans! thus the Gods have spoken and declared, The step-effacing wisp they bind upon the dead shall be thy couch.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। मृताय। अनुऽबध्नन्ति। कू़द्यम्। पदऽयोपनीम्। तत्। वै। ब्रह्मऽज्य। ते। देवा:। उपऽस्तरणम्। अब्रुवन्। १९.१२।
+याम्। मृताय। अनुऽबध्नन्ति। कू़द्यम्। पदऽयोपनीम्। तत्। वै। ब्रह्मऽज्य। ते। देवाः। उपऽस्तरणम्। अब्रुवन्। १९.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ variant in his edition.
 As the wind shake this Tuft of Grass hither and thither on the ground. So do I stir and shake thy mind, that thou mayst be in love with me, my darling, never to depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इदम्। भूम्या:। अधि। तृणम्। वात:। मथायति। एव। मथ्नामि। ते। मन:। यथा। माम्। कामिनी। अस:। यथा। मत्। न। अपऽगा:। अस:। ३०.१।
+यथा। इदम्। भूम्याः। अधि। तृणम्। वातः। मथायति। एव। मथ्नामि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

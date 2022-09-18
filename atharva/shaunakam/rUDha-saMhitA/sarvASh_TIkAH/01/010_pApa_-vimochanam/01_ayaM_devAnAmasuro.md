@@ -24,10 +24,9 @@ Anukr. ignores the first pāda as a *jagatī*.
 This Lord is the Gods' ruler; for the wishes of Varuna the King must be accomplished. Therefore, triumphant with the prayer I utter, I rescue this man from the Fierce One's anger.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्‍। देवानाम्‍। असुर:। वि। राजति। वशा। हि। सत्या। वरुणस्य। राज्ञ:। तत:। परि। ब्रह्मणा। शाशदान:। उग्रस्य। मन्यो:। उत्‍। इमम्‍। नयामि।
+अयम्‍। देवानाम्‍। असुरः। वि। राजति। वशा। हि। सत्या। वरुणस्य। राज्ञः। ततः। परि। ब्रह्मणा। शाशदानः। उग्रस्य। मन्योः। उत्‍। इमम्‍। नयामि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

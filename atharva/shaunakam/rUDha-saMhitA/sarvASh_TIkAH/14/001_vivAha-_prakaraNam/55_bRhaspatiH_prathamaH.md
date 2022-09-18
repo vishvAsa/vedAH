@@ -23,7 +23,6 @@ used together for the purpose.
 It was Brihaspati who first arranged the hair on Surya's head, And therefore, O ye Asvins, we adorn this woman for her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिः। प्रथमः। सूर्यायाः। शीर्षे। केशान्। अकल्पयत्। तेन। इमाम्। अश्विना। नारीम्। पत्ये। सम्। शोभयामसि। १.५५।

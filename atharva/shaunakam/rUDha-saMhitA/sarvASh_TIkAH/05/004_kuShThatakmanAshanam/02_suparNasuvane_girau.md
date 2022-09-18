@@ -21,10 +21,9 @@ iv. 9. 9 **b**. Ppp. begins with *suvarṇasavane*, and has for **c, d**
 Brought from the Snowy Mountain, born on the high hill where eagles breed, Men seek to buy thee when they hear: for Fever's Banisher they know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुपर्णऽसुवने। गिरौ। जातम्। हिमऽवत:। परि। धनै:। अभि। श्रुत्वा। यन्ति। विदु:। हि। तक्मऽनाशनम्। ४.२।
+सुपर्णऽसुवने। गिरौ। जातम्। हिमऽवतः। परि। धनैः। अभि। श्रुत्वा। यन्ति। विदुः। हि। तक्मऽनाशनम्। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

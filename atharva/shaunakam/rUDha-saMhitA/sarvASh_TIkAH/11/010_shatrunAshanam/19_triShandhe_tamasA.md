@@ -19,7 +19,6 @@ the stock-phrase **d**, see iii. 19. 8, note.⌋
 Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none escape of them expelled with speckled butter mixt with curds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रिऽसंधे। तमसा। त्वम्। अमित्रान्। परि। वारय। पृषदाज्यऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। कः। चन। १२.१९।

@@ -34,10 +34,9 @@ comprehension of the meaning of the hymn. \*⌊See Prāt. ii. 40, note, p.
 The mighty Ruler of these worlds beholds as though from close at hand, The man who thinks he acts by stealth: all this the Gods perceive and know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहन्। एषाम्। अधिऽस्थाता। अन्तिकात्ऽइव। पश्यति। य:। स्तायत्। मन्यते। चरन्। सर्वम्। देवा:। इदम्। विदु:। १६.१।
+बृहन्। एषाम्। अधिऽस्थाता। अन्तिकात्ऽइव। पश्यति। यः। स्तायत्। मन्यते। चरन्। सर्वम्। देवाः। इदम्। विदुः। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

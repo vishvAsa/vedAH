@@ -26,10 +26,9 @@ etc.—Render the subjunctive in **b** by 'cause ye' etc.?⌋
 Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. Come hither downward from the stream of blessing. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। सुऽमतिम्। सवित:। वायो  इति। ऊतये। महस्वन्तम्। मत्सरम्। मादयाथ:। अर्वाक्। वामस्य। प्रऽवत:। नि। यच्छतम्। तौ। न:। मुञ्चतम्। अंहस:। २५.६।
+प्र। सुऽमतिम्। सवितः। वायो  इति। ऊतये। महस्वन्तम्। मत्सरम्। मादयाथः। अर्वाक्। वामस्य। प्रऽवतः। नि। यच्छतम्। तौ। नः। मुञ्चतम्। अंहसः। २५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

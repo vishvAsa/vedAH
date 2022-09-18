@@ -22,10 +22,9 @@ W's *pada*-mss. seem to agree in reading *ṛjīṣā́* as fem.⌋ Ppp. reads
 The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pressing-gear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शूर्पम्। पवित्रम्। तुषा:। ऋजीषा:। अभिऽसवनी:। आप:। ६.१६।
+शूर्पम्। पवित्रम्। तुषाः। ऋजीषाः। अभिऽसवनीः। आपः। ६.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

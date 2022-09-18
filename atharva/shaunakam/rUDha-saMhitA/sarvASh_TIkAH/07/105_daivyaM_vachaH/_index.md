@@ -7,7 +7,6 @@ title = "१०५ दैव्यं वचः"
 105 (110). An exhortation to holy life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दैव्यं वचः।  
@@ -19,8 +18,6 @@ title = "१०५ दैव्यं वचः"
 [Atharvan.—mantroktadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Quoted by Kāug. (55. 16) in the upanayana ceremony, a
 ### Translations
 Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
+

@@ -27,10 +27,9 @@ thou art bitten' etc.; and *dhītám* by *pitaṁ sarpādinā*. Ppp. reads
 Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectual poison of the little sharply-stinging gnat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत:। दष्टम्। यत:। धीतम्। तत:। ते। नि:। ह्वयामसि। अर्भस्य। तृप्रऽदंशिन:। मशकस्य। अरसम्। विषम्। ५८.३।
+यतः। दष्टम्। यतः। धीतम्। ततः। ते। निः। ह्वयामसि। अर्भस्य। तृप्रऽदंशिनः। मशकस्य। अरसम्। विषम्। ५८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

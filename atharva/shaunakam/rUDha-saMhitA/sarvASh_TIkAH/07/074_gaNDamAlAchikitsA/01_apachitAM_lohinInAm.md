@@ -23,10 +23,9 @@ is "daughter of the black one."⌋
 Black is the mother, we have heard, from whom the red-hued Pustules sprang. With the divine ascetic's root I pierce and penetrate them all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽचिताम्। लोहिनीनाम्। कृष्णा। माता। इति। शुश्रुम। मुने:। देवस्य। मूलेन। सर्वा:। विध्यामि। ता:। अहम्। ७८.१।
+अपऽचिताम्। लोहिनीनाम्। कृष्णा। माता। इति। शुश्रुम। मुनेः। देवस्य। मूलेन। सर्वाः। विध्यामि। ताः। अहम्। ७८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

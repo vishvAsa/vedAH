@@ -25,10 +25,9 @@ reads *upacīkā*, and combines *-kā ”siñcan;* also, in **b**, *dhanvann*.
 That water, Upajikas! which Gods poured for you on thirsty land, With that same water sent by Gods, drive ye away this poison here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। व:। देवा:। उपऽजीका:। आऽअसिञ्चन्। धन्वनि। उदकम्। तेन। देवऽप्रसूतेन। इदम्। दूषयत। विषम्। १००.२।
+यत्। वः। देवाः। उपऽजीकाः। आऽअसिञ्चन्। धन्वनि। उदकम्। तेन। देवऽप्रसूतेन। इदम्। दूषयत। विषम्। १००.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

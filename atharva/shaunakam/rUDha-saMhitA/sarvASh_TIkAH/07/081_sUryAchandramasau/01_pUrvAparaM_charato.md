@@ -35,10 +35,9 @@ of **c**.⌋
 Forward and backward by their wondrous power move these two youths, disporting, round the ocean. One views all living things, and thou, the other, art born again arranging times and seasons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूर्वऽअपरम्। चरत:। मायया। एतौ। शिशू इति। क्रीडन्तौ। परि। यात:। अर्णवम्। विश्वा। अन्य:। भुवना। विऽचष्टे। ऋतून्। अन्य:। विऽदधत्। जायसे। नव:। ८६.१।
+पूर्वऽअपरम्। चरतः। मायया। एतौ। शिशू इति। क्रीडन्तौ। परि। यातः। अर्णवम्। विश्वा। अन्यः। भुवना। विऽचष्टे। ऋतून्। अन्यः। विऽदधत्। जायसे। नवः। ८६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०४७ कुहूः"
 47 (49). To Kuhū (goddess of the new moon).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कुहूः।  
@@ -18,8 +17,6 @@ title = "०४७ कुहूः"
 
 [Atharvan.—dvyṛcam. mantroktadevatyam. 1. jagatī; 2. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 17, 74; Griffith, i. 348.
 
 A prayer for wealth and birth of a son
 </details>
+

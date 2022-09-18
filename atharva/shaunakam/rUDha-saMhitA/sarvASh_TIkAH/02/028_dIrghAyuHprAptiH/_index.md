@@ -7,7 +7,6 @@ title = "०२८ दीर्घायुःप्राप्तिः"
 28. For long life for a certain person (child?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०२८ दीर्घायुःप्राप्तिः"
 
 [śambhū.—jarimāyurdāivatam. trāiṣṭubham: 1. jagatī; 5. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 192; Grill, 48, 94; Griffith, i. 67; Bloomfield, 50, 30
 
 A prayer for a boy's long and happy life
 </details>
+

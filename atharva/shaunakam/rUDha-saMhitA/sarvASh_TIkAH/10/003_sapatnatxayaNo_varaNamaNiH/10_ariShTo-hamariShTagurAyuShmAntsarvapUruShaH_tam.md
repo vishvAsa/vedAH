@@ -20,7 +20,6 @@ is meant).
 Safe are my cattle, safe am I, long-lived with all my men around. This Varana, mine Amulet, shall guard me well on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरिष्टः। अहम्। अरिष्टऽगुः। आयुष्मान्। सर्वऽपुरुषः। तम्। मा। अयम्। वरणः। मणिः। परि। पातु। दिशःऽदिशः। ३.१०।

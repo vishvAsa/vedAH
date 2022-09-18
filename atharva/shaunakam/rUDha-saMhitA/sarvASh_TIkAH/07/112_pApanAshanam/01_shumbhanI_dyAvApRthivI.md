@@ -24,10 +24,9 @@ elsewhere.⌋ †⌊BR. conjecture *śúndhanī:* cf. note to vi. 115. 3.⌋
 Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast. Seven Goddesses have flowed to us: may they deliver us from woe;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आप:। सप्त। सुस्रुवु:। देवी:। ता:। न:। मुञ्चन्तु। अंहस:। ११७.१।
+शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आपः। सप्त। सुस्रुवुः। देवीः। ताः। नः। मुञ्चन्तु। अंहसः। ११७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ verse reads most naturally as a *bhurig ākṛti* (12 + ll: l1 + 11: 44 =
 With flying feet his tawny coursers carry the bright God through, the sky, aglow with splendour. Whose limbs uplifted fire and heat the heavens: hither he shines- with beams of golden colour. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुक्रम्। वहन्ति। हरयः। रघुऽस्यदः। देवम्। दिवि। वर्चसा। भ्राजमानम्। यस्य। ऊर्ध्वाः। दिवम्। तन्वः। तपन्ति। अर्वाङ्। सुऽवर्णैः। पटरैः। वि। भाति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। । २.१६।

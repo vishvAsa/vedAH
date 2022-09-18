@@ -21,7 +21,6 @@ help little.
 On Indra Fervour rests, on him the worlds and Holy Law recline. Indra, I clearly know that all of thee on Skambha findeth rest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रे। लोकाः। इन्द्रे। तपः। इन्द्रे। अधि। ऋतम्। आऽहितम्। इन्द्रम्। त्वा। वेद। प्रतिऽअक्षम्। स्कम्भे। सर्वम्‌। प्रतिऽस्थितम्। ७.३०।

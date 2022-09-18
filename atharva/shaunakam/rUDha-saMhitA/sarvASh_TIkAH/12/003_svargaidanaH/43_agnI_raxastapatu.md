@@ -24,7 +24,6 @@ force of *pra* by defining *pra-pā* as 'sich an's Trinken machen.'⌋
 May Agni burn the God-denying demon: let no carnivorous. Pis icha drink here. We drive him off, we keep him at a distance. Adityas and Angirases pursue him!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। रक्षः। तपतु। यत्। विऽदेवम्। क्रव्यऽअत्। पिशाचः। इह। मा। प्र। पास्त। नुदामः। एनम्। अप। रुध्मः। अस्मत्। आदित्याः। एनम्। अङ्गिरसः। सचन्ताम्। ३.४३।

@@ -25,7 +25,6 @@ to *brahmacarya:* see Deussen, p. 281, p. 278.⌋
 By self-restraint a maiden finds a youth to be her wedded lord. By self-restraint the ox and horse seek to win fodder for them- selves.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचर्येण। कन्या। युवानम्। विन्दते। पतिम्। अनड्वान्। ब्रह्मऽचर्येण। अश्वः। घासम्। जिगीर्षति। ७.१८।

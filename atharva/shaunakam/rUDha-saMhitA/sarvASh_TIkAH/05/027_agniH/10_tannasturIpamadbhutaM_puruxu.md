@@ -27,10 +27,9 @@ out of place). \*⌊But TS. *suviram.*⌋
 Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati adored with praise.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। न:। तुरीषम्। अत्ऽभुतम्। पुरुऽक्षु। देव। त्वष्ट:। राय:। पोषम्। वि। स्य। नाभिम्। अस्य। २७.१०।
+तत्। नः। तुरीषम्। अत्ऽभुतम्। पुरुऽक्षु। देव। त्वष्टः। रायः। पोषम्। वि। स्य। नाभिम्। अस्य। २७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

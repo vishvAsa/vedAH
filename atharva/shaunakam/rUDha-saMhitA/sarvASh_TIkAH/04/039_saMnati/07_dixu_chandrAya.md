@@ -21,10 +21,9 @@ several other divinities.
 To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in the quarters I have bent, so let the Favour- ing Graces bow them down to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिक्षु। चन्द्राय। सम्। अनमन्। स:। आर्ध्नोत्। यथा। दिक्षु। चन्द्राय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनम:। सम्। नमन्तु। ३९.७।
+दिक्षु। चन्द्राय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिक्षु। चन्द्राय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,7 +17,6 @@ Indra, covered.
 To misty cloud filled with his rays Mahendra goes encompassed round.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रश्मिऽभिः। नभः। आऽभृतम्। महाऽइन्द्रः। एति। आऽवृतः। ४.२।

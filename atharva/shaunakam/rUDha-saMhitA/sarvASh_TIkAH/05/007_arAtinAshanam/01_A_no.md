@@ -20,10 +20,9 @@ the metrical definition of the Anukr.
 Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being brought us. Homage be paid to Failure, to Misfortune, and Malignity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। न:। भर। मा। परि। स्था:। अराते। मा। न:। रक्षी:। दक्षिणाम्। नीयमानाम्। नम:। विऽईर्त्सायै। असम्ऽऋध्दये। नम:। अस्तु। अरातये। ७.१।
+आ। नः। भर। मा। परि। स्थाः। अराते। मा। नः। रक्षीः। दक्षिणाम्। नीयमानाम्। नमः। विऽईर्त्सायै। असम्ऽऋध्दये। नमः। अस्तु। अरातये। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

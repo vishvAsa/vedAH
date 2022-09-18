@@ -19,10 +19,9 @@ That is (**a**), to prevent access to our villages. The comm. takes
 Indra and Pushan have gone forth along the ways on every side. To-day those hosts of enemies must flee bewildered far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। वर्त्मानि। सर्वत:। इन्द्र:। पूषा। च। सस्रतु:। मुह्यन्तु। अद्य। अमू:। सेना:। अमित्राणाम्। पर:ऽतराम्। ६७.१।
+परि। वर्त्मानि। सर्वतः। इन्द्रः। पूषा। च। सस्रतुः। मुह्यन्तु। अद्य। अमूः। सेनाः। अमित्राणाम्। परःऽतराम्। ६७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ than an old blunder.⌋
 Thou, Indra, lord and leader of the people, wast born for lovely strength and high dominion. Thou dravest off the folk who were unfriendly, and madest for the Gods wide room and freedom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। क्षत्रम्। अभ‍ि। वामम्। ओज:। अजायथा:। वृषभ:। चर्षणीनाम्। अप। अनुद:। जनम्। अमित्रऽयन्तम्। उरुम्। देवेभ्य:। अकृणो:। ऊं इति। लोकम्। ८९.२।
+इन्द्र। क्षत्रम्। अभ‍ि। वामम्। ओजः। अजायथाः। वृषभः। चर्षणीनाम्। अप। अनुदः। जनम्। अमित्रऽयन्तम्। उरुम्। देवेभ्यः। अकृणोः। ऊं इति। लोकम्। ८९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

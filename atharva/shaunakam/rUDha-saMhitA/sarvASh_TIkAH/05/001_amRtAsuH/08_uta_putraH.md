@@ -28,10 +28,9 @@ apparently founded on the occurrence in them of "son" and "father" and
 Yea, the son asks dominion of his father: this they declared the noblest path to welfare. Varuna, let them see thy revelations: display the wondrous shapes of times to follow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। पुत्र:। पितरम्। क्षत्रम्। ईडे। ज्येष्ठम्। मर्यादम्। अह्वयन्। स्वस्तये। दर्शन्। नु। ता:। वरुण। या:। ते। विऽस्था:। आऽवर्व्रतत:। कृणव:। वपूंषि। १.८।
+उत। पुत्रः। पितरम्। क्षत्रम्। ईडे। ज्येष्ठम्। मर्यादम्। अह्वयन्। स्वस्तये। दर्शन्। नु। ताः। वरुण। याः। ते। विऽस्थाः। आऽवर्व्रततः। कृणवः। वपूंषि। १.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

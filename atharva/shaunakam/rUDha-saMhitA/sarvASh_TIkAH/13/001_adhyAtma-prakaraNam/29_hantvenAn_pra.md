@@ -20,7 +20,6 @@ verbs in **a**. Ppp. has also *agnis* for *aris* in **b**.
 Let him smite down in death and burn the foeman who attacketh me. Our adversaries we consume through Agni the Carnivorous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हन्तु। एनान्। प्र। दहतु। अरिः। यः। नः। पृतन्यत‍ि। क्रव्यऽअदा। अग्निना। वयम्। सऽपत्नान्। प्र। दहामसि। १.२९।

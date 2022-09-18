@@ -17,7 +17,6 @@ from evil (*aghá*).
 Become a bolt, an arrow through his sin, be terribly venomous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मेनिः। शरव्या। भव। अघात्। अघऽविषा। भव। १०.१३।

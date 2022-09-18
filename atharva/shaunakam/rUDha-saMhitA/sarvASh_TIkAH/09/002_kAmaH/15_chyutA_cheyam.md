@@ -22,10 +22,9 @@ has a *triṣṭubh*-pāda (**a**), of which the Anukr. makes no account.
 This potent lightning nourishes things shaken, and things un- shaken yet, and all the thunders. May the Sun, rising with his wealth and splendour, drive in victorious might my foemen downward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-च्युता। च। इयम्। बृहती। अच्युता। च। विऽद्युत्। बिभर्ति। स्तनयित्नून्। च। सर्वान्। उत्ऽयन्। आदित्य:। द्रविणेन। तेजसा। नीचै:। सऽपत्नान्। नुदताम्। मे। सहस्वान्। २.१५।
+च्युता। च। इयम्। बृहती। अच्युता। च। विऽद्युत्। बिभर्ति। स्तनयित्नून्। च। सर्वान्। उत्ऽयन्। आदित्यः। द्रविणेन। तेजसा। नीचैः। सऽपत्नान्। नुदताम्। मे। सहस्वान्। २.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

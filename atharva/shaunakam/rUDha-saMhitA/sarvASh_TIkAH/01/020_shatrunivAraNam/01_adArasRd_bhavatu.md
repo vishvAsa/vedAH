@@ -31,10 +31,9 @@ anything originally to do with them.
 May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious unto us. Let not disaster, let not malison find us out; let not abominable guiles discover us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अदारऽसृत्। भवतु। देव। सोम। अस्मिन्। यज्ञे। मरुत:। मृडत। न:। मा। न:। विदत्। अभिऽभा:। मो इति। अशस्ति:। मा। न:। विदत्। वृजिना। द्वेष्या। या।
+अदारऽसृत्। भवतु। देव। सोम। अस्मिन्। यज्ञे। मरुतः। मृडत। नः। मा। नः। विदत्। अभिऽभाः। मो इति। अशस्तिः। मा। नः। विदत्। वृजिना। द्वेष्या। या।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

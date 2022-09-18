@@ -25,10 +25,9 @@ RV. (and TS.) has before it *rákṣase* (sing.).
 Agni shines far and wide with lofty splendour, and by his great- ness makes all things apparent. He conquers godless and malign enchantments, and sharpens both his horns to gore the ogres.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। ज्योतिषा। बृहता। भाति। अग्नि:। आवि:। विश्वानि। कृणुते। महिऽत्वा। प्र। अदेवी:। माया:। सहते। दु:ऽएवा:। शिशीते। शृङ्गे इति। रक्ष:ऽभ्य:। विऽनिक्ष्वे। ३.२४।
+वि। ज्योतिषा। बृहता। भाति। अग्निः। आविः। विश्वानि। कृणुते। महिऽत्वा। प्र। अदेवीः। मायाः। सहते। दुःऽएवाः। शिशीते। शृङ्गे इति। रक्षःऽभ्यः। विऽनिक्ष्वे। ३.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

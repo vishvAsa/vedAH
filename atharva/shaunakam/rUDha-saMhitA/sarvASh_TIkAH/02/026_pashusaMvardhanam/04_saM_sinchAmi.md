@@ -26,10 +26,9 @@ calf).'
 I pour together milk of kine, with butter blending strength and juice. Well sprinkled be our men, as true to me as cows are to their herd!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। सिञ्चामि। गवाम्। क्षीरम्। सम्। आज्येन। बलम्। रसम्। सम्ऽसिक्ता:। अस्माकम्। वीरा:। ध्रुवा:। गाव:। मयि। गोऽपतौ। २६.४।
+सम्। सिञ्चामि। गवाम्। क्षीरम्। सम्। आज्येन। बलम्। रसम्। सम्ऽसिक्ताः। अस्माकम्। वीराः। ध्रुवाः। गावः। मयि। गोऽपतौ। २६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

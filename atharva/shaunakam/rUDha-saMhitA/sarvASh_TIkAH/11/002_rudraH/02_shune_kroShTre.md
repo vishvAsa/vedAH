@@ -29,7 +29,6 @@ mā viśyantu*.
 Cast not our bodies to the dog or jackal, nor, Lord of Beasts! to carrion-kites or vultures. Let not thy black voracious flies attack them; let not thy birds obtain them for their banquet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुने। क्रोष्ट्रे। मा। शरीराणि। कर्तम। अलिक्लवेभ्यः। गृध्रेभ्यः। ये। चे। कृष्णाः। अविष्यवः। मक्षिकाः। ते। पशुऽपते। वयांसि। ते। विऽघसे। मा। विदन्त। २.२।

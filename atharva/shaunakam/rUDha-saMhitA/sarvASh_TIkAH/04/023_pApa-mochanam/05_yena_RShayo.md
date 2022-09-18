@@ -22,10 +22,9 @@ gives *uddyotayan;* a few of the mss. (including our Bp.K.) have
 With whom as friend the Rishis gave their power new splendour, with whom they kept aloof the Asuras' devices, Agni, with whom Indra subdued the Panis. May he deliver us. from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। ऋषय:। बलम्। अद्योतयन्। युजा। येन। असुराणाम्। अयुवन्त। माया:। येन। अग्निना। पणीन्। इन्द्र:। जिगाय। स:। न:। मुञ्चतु। अंहस:। २३.५।
+येन। ऋषयः। बलम्। अद्योतयन्। युजा। येन। असुराणाम्। अयुवन्त। मायाः। येन। अग्निना। पणीन्। इन्द्रः। जिगाय। सः। नः। मुञ्चतु। अंहसः। २३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

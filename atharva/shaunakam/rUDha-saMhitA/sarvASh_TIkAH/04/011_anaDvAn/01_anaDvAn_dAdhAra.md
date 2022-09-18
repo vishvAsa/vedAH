@@ -33,10 +33,9 @@ becomes a regular *triṣṭubh*.⌋
 The Bull supports the wide-spread earth and heaven, the Bull supports the spacious air between them. The Bull supports the sky's six spacious regions: the universal world hath he pervaded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनड्वान्। दाधार। पृथिवीम्। उत। द्याम्। अनड्वान्। दाधार। उरु। अन्तरिक्षम्। अनड्वान। दाधार। प्रऽदिश:। षट्। उर्वी:। अनड्वान्। विश्वम्। भुवनम्। आ। विवेश। ११.१।
+अनड्वान्। दाधार। पृथिवीम्। उत। द्याम्। अनड्वान्। दाधार। उरु। अन्तरिक्षम्। अनड्वान। दाधार। प्रऽदिशः। षट्। उर्वीः। अनड्वान्। विश्वम्। भुवनम्। आ। विवेश। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ the meter.
 Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from limb, whate'er is culled from cloud and from the womb of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर्वतात्। दिव:। योने:। अङ्गात्ऽअङ्गात्। सम्ऽआभृतम्। शेप:। गर्भस्य। रेत:ऽधा। सरौ। पर्णम्ऽइव। आ। दधत्। २५.१।
+पर्वतात्। दिवः। योनेः। अङ्गात्ऽअङ्गात्। सम्ऽआभृतम्। शेपः। गर्भस्य। रेतःऽधा। सरौ। पर्णम्ऽइव। आ। दधत्। २५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

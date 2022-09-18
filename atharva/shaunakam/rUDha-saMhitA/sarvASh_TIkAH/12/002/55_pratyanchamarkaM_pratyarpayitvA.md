@@ -28,7 +28,6 @@ Anukr. says *"naḍas" tu pañconā*.⌋
 Against the sinking western Sun I set them; each sundered path, knowing my way, I entered. I have warned off the ghosts of the Departed: to these I give the boon of long existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रत्यञ्चम्। अर्कम्। प्रतिऽअर्पयित्वा। प्रऽविद्वान्। पन्थाम्। वि। हि। आऽविवेश। परा। अमीषाम्। असून्। दिदेश। दीर्घेण। आयुषा। सम्। इमान्। सृजामि। २.५५।

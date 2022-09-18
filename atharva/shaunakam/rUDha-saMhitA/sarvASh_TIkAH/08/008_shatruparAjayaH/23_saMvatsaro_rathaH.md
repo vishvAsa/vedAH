@@ -21,10 +21,9 @@ is a subject of Prāt. ii. 95. ⌊As for the "years," see n. to vi. 55. 3.⌋
 Year is the car, Full Year the seat for driving, Viraj the pole, the chariot's front is Agni, Indra the warrior, and the Moon the driver.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवत्सर:। रथ:। परिऽवत्सर:। रथऽउपस्थ:। विऽराट्। ईषा। अग्नि:। रथऽमुखम्। इन्द्र:। सव्यऽस्था:। चन्द्रमा:। सारथि:। ८.२३।
+सम्ऽवत्सरः। रथः। परिऽवत्सरः। रथऽउपस्थः। विऽराट्। ईषा। अग्निः। रथऽमुखम्। इन्द्रः। सव्यऽस्थाः। चन्द्रमाः। सारथिः। ८.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

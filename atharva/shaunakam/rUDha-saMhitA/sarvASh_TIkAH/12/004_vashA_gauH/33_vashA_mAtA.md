@@ -20,7 +20,6 @@ Ludwig, by 'no restitution.' Ppp. combines *tasyā ”hur* in **c**.
 The Prince's mother is the Cow: so was it ordered from of old. She, when bestowed upon the priests, cannot be given back, they say.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशा। माता। राजन्यस्य। तथा। सम्ऽभूतम्। अग्रऽशः। तस्याः। आहुः। अनर्पणम्। यत्। ब्रह्मऽभ्यः। प्रऽदीयते। ४.३३।

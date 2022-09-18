@@ -21,10 +21,9 @@ connoting one's fellows (*sahajāta*)."
 All curses of a rival, each curse of a female relative, Curse uttered by an augry priest, all these we tread beneath our feet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। च। सापत्न:। शपथ:। जाम्या:। शपथ:। च। य:। ब्रह्मा। यत्। मन्युत:। शपात्। सर्वम्। तत्। न:। अध:ऽपदम्। ७.२।
+यः। च। सापत्नः। शपथः। जाम्याः। शपथः। च। यः। ब्रह्मा। यत्। मन्युतः। शपात्। सर्वम्। तत्। नः। अधःऽपदम्। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

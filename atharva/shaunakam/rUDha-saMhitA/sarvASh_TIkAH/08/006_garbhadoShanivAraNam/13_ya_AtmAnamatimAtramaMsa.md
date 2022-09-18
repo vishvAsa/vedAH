@@ -21,10 +21,9 @@ enough. Ppp. reads for **b** *ahiṁ mādhāya bibhrati*.
 All those who on their shoulders bear a head of monstrous magnitude, Who pierce the women's loins with pain,--those demons, Indra drive away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। आत्मानम्। अतिऽमात्रम्। अंसे। आऽधाय। बिभ्रति। स्त्रीणाम्। श्रोणिऽप्रतोदिन:। इन्द्र। रक्षांसि। नाशय। ६.१३।
+ये। आत्मानम्। अतिऽमात्रम्। अंसे। आऽधाय। बिभ्रति। स्त्रीणाम्। श्रोणिऽप्रतोदिनः। इन्द्र। रक्षांसि। नाशय। ६.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

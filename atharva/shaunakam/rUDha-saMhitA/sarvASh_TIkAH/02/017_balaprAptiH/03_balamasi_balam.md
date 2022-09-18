@@ -17,10 +17,9 @@ Ppp. gives *baladā agnir balaṁ me svāhā.*
 Strength art thou, give me strength. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बलम्। असि। बलम्। मे। दा:। स्वाहा। १७.३।
+बलम्। असि। बलम्। मे। दाः। स्वाहा। १७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

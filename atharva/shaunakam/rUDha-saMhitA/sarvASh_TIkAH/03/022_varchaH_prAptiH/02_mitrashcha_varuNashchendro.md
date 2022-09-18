@@ -26,10 +26,9 @@ reading *cetutaḥ* (!) and Op. as reading *cetatú*.⌋
 On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-fostering deities anoint and balm me with his strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मित्र:। च। वरुण:। च। इन्द्र:। रुद्र:। च। चेततु। देवास:। विश्वऽधायस:। ते। मा। अञ्जन्तु। वर्चसा। २२.२।
+मित्रः। च। वरुणः। च। इन्द्रः। रुद्रः। च। चेततु। देवासः। विश्वऽधायसः। ते। मा। अञ्जन्तु। वर्चसा। २२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

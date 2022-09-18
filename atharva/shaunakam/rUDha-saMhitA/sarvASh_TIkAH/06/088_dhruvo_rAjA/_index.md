@@ -7,7 +7,6 @@ title = "०८८ ध्रुवो राजा"
 88. To establish a sovereign.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ध्रुवो राजा।  
@@ -18,8 +17,6 @@ title = "०८८ ध्रुवो राजा"
 
 [Atharvan.—dhrāuvyam. ānuṣṭubham: 3. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators and by Zimmer (p. 163), in part; and Ludwig, 
 
 A benediction addressed to a newly elected King
 </details>
+

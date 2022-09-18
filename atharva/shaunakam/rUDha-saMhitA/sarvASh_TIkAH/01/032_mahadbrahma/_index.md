@@ -7,7 +7,6 @@ title = "०३२ महद्ब्रह्म"
 32. Cosmogonic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 महद्ब्रह्म।  
@@ -18,8 +17,6 @@ title = "०३२ महद्ब्रह्म"
 
 [Brahman.—dyāvāpṛthivīyam. ānuṣṭubham: 2. kakummatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 426; Ludwig, p. 533; Griffith, i. 36.
 
 In praise of Heaven and Earth
 </details>
+

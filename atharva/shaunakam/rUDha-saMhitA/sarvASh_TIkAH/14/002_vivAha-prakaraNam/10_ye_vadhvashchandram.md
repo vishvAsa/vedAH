@@ -20,7 +20,6 @@ the vs. *yakṣmanāśanī*.⌋
 Consumptions, which, through various folk, attack the bride's resplendent train, These let the holy Gods again bear to the place from which they sprang.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। वध्वः। चन्द्रम्। वहतुम्। यक्ष्माः। यन्ति। जनान्। अनु। पुनः। तान्। यज्ञियाः। देवाः। नयन्तु। यतः। आऽगताः। १.१०।

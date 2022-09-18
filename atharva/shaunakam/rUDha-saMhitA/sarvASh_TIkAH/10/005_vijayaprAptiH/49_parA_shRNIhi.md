@@ -30,7 +30,6 @@ merely have followed the Berlin edition.⌋
 Destroy the Yatudhanas with thy fervour, consume the demons with thy wrath, O Agni. Destroy the fool's gods with thy fiery splendour, destroy the blazing ones, the insatiable.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परा। शृणीहि। तपसा। यातुऽधानान्। परा। अग्ने। रक्षः। हरसा। शृणीहि। परा। अर्चिषा। मूरऽदेवान्। शृणीहि। परा। असुऽतृपः। शोशुचतः। शृणीहि। ५.४९।

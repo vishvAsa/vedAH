@@ -7,7 +7,6 @@ title = "०१३ मृत्युजयः"
 13. To the instruments and ministers of death.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मृत्युजयः।  
@@ -18,8 +17,6 @@ title = "०१३ मृत्युजयः"
 
 [Atharvan (svastyayanakāma).—mārtya[va]m. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 264 or 16; Griffith, i. 251.
 
 Homage to death
 </details>
+

@@ -27,7 +27,6 @@ ceremony of the "water-thunderbolts": cf. introd. to x. 5.⌋
 On whom rest six expenses and five regions, four waters, and three syllables of worship, He who hath looked between both spheres in anger, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। षट्। उर्वीः। पञ्च। दिशः। अधि। श्रिताः। चतस्रः। आपः। यज्ञस्य। त्रयः। अक्षराः। यः। अन्तरा। रोदसी इति। क्रुध्दः। चक्षुषा। ऐक्षत। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.६।

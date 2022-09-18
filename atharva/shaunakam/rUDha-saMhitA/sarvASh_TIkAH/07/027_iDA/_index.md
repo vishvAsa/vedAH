@@ -7,7 +7,6 @@ title = "०२७ इडा"
 27 (28). Prayer and praise to Iḍā.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इडा।  
@@ -18,8 +17,6 @@ title = "०२७ इडा"
 
 [Medhātithi (?).—mantrokteḍādāivatam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 433; Henry, 11, 64; Griffith, i. 341.
 
 A prayer to Ida, Goddess of devotion
 </details>
+

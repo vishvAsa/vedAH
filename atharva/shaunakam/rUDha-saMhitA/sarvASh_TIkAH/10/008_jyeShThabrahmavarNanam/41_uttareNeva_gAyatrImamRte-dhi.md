@@ -20,7 +20,6 @@ obscure to let us choose between them.
 Over the Gayatri, above the immortal world he strode away. Those who by Song discovered Song--where did the Unborn see that thing?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्तरेणऽइव। गायत्रीम्। अमृते। अधि। वि। चक्रमे। साम्ना। ये। साम। सम्ऽविदुः। अजः। तत्। ददृशे। क्व। ८.४१।

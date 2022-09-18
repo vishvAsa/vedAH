@@ -21,10 +21,9 @@ strangely accent *anyàm* in **b**. Ppp. reads *pacatas* for *dadātas* in
 When she who hath been wedded finds a second husband after- ward, The twain shall not be parted if they give the Goat Panchaud- ana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। पूर्वम्। पतिम्। वित्त्वा। अथ। अन्यम्। विन्दते। अपरम्। पञ्चऽओदनम्। च। तौ। अजम्। ददात:। न। वि। योषत:। ५.२७।
+या। पूर्वम्। पतिम्। वित्त्वा। अथ। अन्यम्। विन्दते। अपरम्। पञ्चऽओदनम्। च। तौ। अजम्। ददातः। न। वि। योषतः। ५.२७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

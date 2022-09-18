@@ -25,10 +25,9 @@ discussion of *mení* ('hurt done to another in vengeful anger'),
 Dart against dart, destroyer of destruction, thou art the missile sent to meet the missile. Reach thy superior, thou; surpass thine equal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दूष्या:। दूषि:। असि। हेत्या:। हेति:। असि। मेन्या:। मेनि:। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.१।
+दूष्याः। दूषिः। असि। हेत्याः। हेतिः। असि। मेन्याः। मेनिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

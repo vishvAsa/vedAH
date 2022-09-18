@@ -37,10 +37,9 @@ tisraś cā ’vabodhyās tṛtīye*.
 If thou art far away beyond the rivers, far away from men, This Herb shall seem to bind thee fast and bring thee back my prisoner.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। वा। असि। तिर:ऽजनम्। यदि। वा। नद्य:। तिर:। इयम्। ह। मह्यम्। त्वाम्। ओषधि:। बध्द्वाऽइव। निऽआनयत्। ३९.५।
+यदि। वा। असि। तिरःऽजनम्। यदि। वा। नद्यः। तिरः। इयम्। ह। मह्यम्। त्वाम्। ओषधिः। बध्द्वाऽइव। निऽआनयत्। ३९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

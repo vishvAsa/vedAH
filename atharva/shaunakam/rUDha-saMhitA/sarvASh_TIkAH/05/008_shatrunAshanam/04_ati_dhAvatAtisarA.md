@@ -24,10 +24,9 @@ Bergaigne, *Rel. véd.* iii. 7-8.⌋
 Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worrieth a sheep, so let not him escape from you while life remains. Stop fast his breath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अति। धावत। अतिऽसरा:। इन्द्रस्य। वचसा। हत। अविम्। वृक:ऽइव। मथ्नीत। स:। व:। जीवन्। मा। मोचि। प्राणम्। अस्य। अपि। नह्यत। ८.४।
+अति। धावत। अतिऽसराः। इन्द्रस्य। वचसा। हत। अविम्। वृकःऽइव। मथ्नीत। सः। वः। जीवन्। मा। मोचि। प्राणम्। अस्य। अपि। नह्यत। ८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

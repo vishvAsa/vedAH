@@ -20,10 +20,9 @@ In **b**, Ppp. reads *sadasyate* for *nabhatām;* in **c**, *sadam* for
 Let not the Sun's heat burn, nor cold destroy her. Let Earth with all her quickening drops burst open. Even for her the waters flow, and fatness: where Soma is even there is bliss for ever.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। घ्रन्। तताप। न। हिम:। जघान। प्र। नभताम्। पृथिवी। जीरऽदानु:। आप:। चित्। अस्मै। घृतम्। इत्। क्षरन्ति। यत्र। सोम:। सदम्। इत्। तत्र। भद्रम्। १९.२।
+न। घ्रन्। तताप। न। हिमः। जघान। प्र। नभताम्। पृथिवी। जीरऽदानुः। आपः। चित्। अस्मै। घृतम्। इत्। क्षरन्ति। यत्र। सोमः। सदम्। इत्। तत्र। भद्रम्। १९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

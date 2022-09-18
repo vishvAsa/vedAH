@@ -7,7 +7,6 @@ title = "००७ आदित्याः"
 7 (8). Praise of the Ādityas.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आदित्याः।  
@@ -18,8 +17,6 @@ title = "००७ आदित्याः"
 
 [Atharvan (as above).—aditidevatyam. ārṣī jagatī.*]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 3, 52; Griffith, i. 331.
 
 Praise of the Adityas
 </details>
+

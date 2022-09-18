@@ -24,7 +24,6 @@ redundant syllable in **d**.
 Who out of many, tell me, is that Skambha. To whom the Deities with hands, with feet, and voice, and ear, and eye. Present unmeasured tribute in the measured hall of sacrifice?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मै। हस्ताभ्याम्। पादाभ्याम्। वाचा। श्रोत्रेण। चक्षुषा। यस्मै। देवाः। सदा। बलिम्। प्रऽयच्छन्ति। विऽमिते। अमितम्। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.३९।

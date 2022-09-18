@@ -46,10 +46,9 @@ in fruit,' i.e. 'may barter bring me its reward.'⌋
 Pardon this stubbornness of ours. O Agni, the distant pathway which our feet have trodden. Propitious unto us be sale and barter, may interchange of mer- chandise enrich me. Accept, ye twain, accordant, this libation! Prosperous be our ventures and incomings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमाम्। अग्ने। शरणिम्। मीमृष:। न:। यम्। अध्वानम्। अगाम। दूरम्। शुनम्। न:। अस्तु। प्रऽपण:। विऽक्रय। च। प्रतिऽपण:। फलिनम्। मा। कृणोतु। इदम्। हव्यम्। सम्ऽविदानौ। जुषेथाम्। शुनम्। न:। अस्तु। चरितम्। उत्थितम्। च। १५.४।
+इमाम्। अग्ने। शरणिम्। मीमृषः। नः। यम्। अध्वानम्। अगाम। दूरम्। शुनम्। नः। अस्तु। प्रऽपणः। विऽक्रय। च। प्रतिऽपणः। फलिनम्। मा। कृणोतु। इदम्। हव्यम्। सम्ऽविदानौ। जुषेथाम्। शुनम्। नः। अस्तु। चरितम्। उत्थितम्। च। १५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

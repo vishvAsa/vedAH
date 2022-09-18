@@ -26,7 +26,6 @@ in Kāuś. 61. 22 the pounding with the pestle.
 We have subdued that sinful-hearted Grahi. Thou shalt speak sweetly having chased the darkness. Let not the wooden gear made ready fail us, nor harm the grain of rice that pays due worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ग्राहिम्। पाप्मानम्। अति। तान्। अयाम। तमः। वि। अस्य। प्र। वदासि। वल्गु। वानस्पत्यः। उत्ऽयत्। मा। जिहिंसीः। मा। तण्डुलम्। वि। शरीः। देवऽयन्तम्। ३.१८।

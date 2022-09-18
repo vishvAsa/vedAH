@@ -25,10 +25,9 @@ ca might be dropped, without hurting the meter.⌋
 May Vigilance and Watchfulness protect thee, Sleepless and Slumberless keep guard above thee! Let Guardian and let Wakeful be thy warders.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बोध:। च। त्वा। प्रतिऽबोध:। च। रक्षताम्। अस्वप्न:। च। त्वा। अनवऽद्राण:। च। रक्षताम्। गोपायन्। च। त्वा। जागृवि:। च। रक्षताम्। १.१३।
+बोधः। च। त्वा। प्रतिऽबोधः। च। रक्षताम्। अस्वप्नः। च। त्वा। अनवऽद्राणः। च। रक्षताम्। गोपायन्। च। त्वा। जागृविः। च। रक्षताम्। १.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

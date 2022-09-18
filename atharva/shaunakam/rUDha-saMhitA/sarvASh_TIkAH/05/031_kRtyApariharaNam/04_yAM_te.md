@@ -19,10 +19,9 @@ The *pada*-text does not divide *valagám*.
 The secret spell upon thy plants Amula or Narachi, spell That they have cast upon thy field, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। अमूलायाम्। वलगम्। वा। नराच्याम्। क्षेत्रे। ते। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.४।
+याम्। ते। चक्रुः। अमूलायाम्। वलगम्। वा। नराच्याम्। क्षेत्रे। ते। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

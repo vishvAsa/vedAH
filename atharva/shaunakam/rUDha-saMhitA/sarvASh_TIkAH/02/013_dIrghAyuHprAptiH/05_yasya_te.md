@@ -29,10 +29,9 @@ dimensions; it has no *jagatī* quality whatever.
 So may the Universal Gods protect thee, whom we divest of raiment worn aforetime. So after thee, well-formed and growing stronger, be born a multitude of thriving brothers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। ते। वास:। प्रथमऽवास्यम्। हराम:। तम्। त्वा। विश्वे। अवन्तु। देवा:। तम्। त्वा। भ्रातर:। सुऽवृधा। वर्धमानम्। अनु। जायन्ताम्। बहव:। सुऽजातम्। १३.५।
+यस्य। ते। वासः। प्रथमऽवास्यम्। हरामः। तम्। त्वा। विश्वे। अवन्तु। देवाः। तम्। त्वा। भ्रातरः। सुऽवृधा। वर्धमानम्। अनु। जायन्ताम्। बहवः। सुऽजातम्। १३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

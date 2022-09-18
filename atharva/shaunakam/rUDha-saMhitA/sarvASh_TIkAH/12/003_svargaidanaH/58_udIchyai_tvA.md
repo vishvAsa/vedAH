@@ -20,7 +20,6 @@ should be, of course, *-trè*.
 To the northern region, to Soma the Regent, to Svaja the Protec- tor, to Thunderbolt the Archer, we present, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उदीच्यै। त्वा। दिशे। सोमाय। अधिऽपतये। स्वजाय। रक्षित्रे। अशन्यै। इषुऽमत्यै। एतम्। परि। दद्मः। तम्। नः। गोपायत। आ। अस्माकम्। आऽएतोः। दिष्टम्। नः। अत्र। जरसे। नि। नेषत्। जरा। मृत्यवे। परि। नः। ददातु। अथ। पक्वेन। सह। सम्। भवेम। ३.५८।

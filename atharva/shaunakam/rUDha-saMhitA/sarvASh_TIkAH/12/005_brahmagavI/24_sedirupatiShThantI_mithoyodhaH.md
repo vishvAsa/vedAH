@@ -17,7 +17,6 @@ title = "२४ सेदिरुपतिष्ठन्ती मिथोय
 The taking away of strength when she approacheth, a hand-to- hand fighter when roughly touched;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सेदिः। उपऽतिष्ठन्ती। मिथःऽयोधः। पराऽसृष्टा। ७.१३।

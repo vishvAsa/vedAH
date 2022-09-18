@@ -27,10 +27,9 @@ he come.'
 Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who saves from woe, to lauds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानर। न:। आ। अगमत्। इमम्। यज्ञम्। सऽजू:। उप। अग्नि:। उक्थेषु। अंहऽसु। ३५.२।
+वैश्वानर। नः। आ। अगमत्। इमम्। यज्ञम्। सऽजूः। उप। अग्निः। उक्थेषु। अंहऽसु। ३५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१९ प्रजाः"
 19 (20). For progeny, etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्रजाः।  
@@ -18,8 +17,6 @@ title = "०१९ प्रजाः"
 
 [Brahman.—mantroktadevatyatn. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 8, 60; Griffith, i. 337.
 
 A prayer for prosperity
 </details>
+

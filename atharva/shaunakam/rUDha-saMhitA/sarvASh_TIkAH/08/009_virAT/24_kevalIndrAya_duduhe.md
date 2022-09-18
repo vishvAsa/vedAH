@@ -20,10 +20,9 @@ combination *utá ṛ́ṣin* as in the printed text.
 The Heifer, all his own, poured forth for Indra control and milk at her first time of milking; And he then satisfied the four divisions, the Gods and men and Asuras and Rishis.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-केवली। इन्द्राय। दुदुहे। हि। गृष्टि:। वशम्। पीयूषम्। प्रथमम्। दुहाना। अथ। अतर्पयत्। चतुर:। चतु:ऽधा:। देवान्। मनुष्यान्। असुरान्। उत। ऋषीन्। ९.२४।
+केवली। इन्द्राय। दुदुहे। हि। गृष्टिः। वशम्। पीयूषम्। प्रथमम्। दुहाना। अथ। अतर्पयत्। चतुरः। चतुःऽधाः। देवान्। मनुष्यान्। असुरान्। उत। ऋषीन्। ९.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

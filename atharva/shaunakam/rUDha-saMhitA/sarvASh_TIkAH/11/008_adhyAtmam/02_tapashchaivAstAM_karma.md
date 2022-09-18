@@ -21,7 +21,6 @@ alters to *āstām*. Some of the mss. (including our Bp.P.M.E.) leave
 Fervour and Action were the two, in depths of the great billowy sea? These were the wooers of the bride; Brahma the chief who courted her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तपः। च। एव। आस्ताम्। कर्म। च। अन्तः। महति। अर्णवे। ते। आसन्। जन्याः। ते। वराः। ब्रह्म। ज्येष्ठऽवरः। अभवत्। १०.२।

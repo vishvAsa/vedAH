@@ -23,10 +23,9 @@ paraphrases *ratnadheyāya* by *ramaṇīyaphalāya*. The verse (8 + 8: 8 +
 Let rice and barley be your food, eat also beans and sesamum. This is the share allotted you, to be your portion, ye two Teeth. Harm not your mother and your sire.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-व्रीहिम्। अत्तम्। यवम्। अत्तम्। अथो इति। माषम्। अथो इति। तिलम्। एष:। वाम्। भाग:। निऽहित:। रत्नऽधेयाय। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.२।
+व्रीहिम्। अत्तम्। यवम्। अत्तम्। अथो इति। माषम्। अथो इति। तिलम्। एषः। वाम्। भागः। निऽहितः। रत्नऽधेयाय। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

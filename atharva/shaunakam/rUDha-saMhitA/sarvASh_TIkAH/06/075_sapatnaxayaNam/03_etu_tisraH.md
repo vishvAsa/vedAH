@@ -29,10 +29,9 @@ heedlessly introduced in going through the press; and the accent of
 To the three distances, beyond mankind's Five Races, let him go, Beyond the three skies let him go, whence he shall never come- again In all the years that are to be, long as the Sun is in the heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एतु। तिस्र:। पराऽवत:। एतु। पञ्च। जनान्। अति। एतु। तिस्र:। अति। रोचना। यत:। न। पुन:। आऽअयति। शश्वतीभ्य:। समाभ्य:। यावत्। सूर्य:। असत्। दिवि। ७५.३।
+एतु। तिस्रः। पराऽवतः। एतु। पञ्च। जनान्। अति। एतु। तिस्रः। अति। रोचना। यतः। न। पुनः। आऽअयति। शश्वतीभ्यः। समाभ्यः। यावत्। सूर्यः। असत्। दिवि। ७५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

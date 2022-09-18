@@ -31,10 +31,9 @@ like MS.Āp.⌋
 Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Having one common womb, and mind, and spirit. He who is. Lord of Plenty give me plenty!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽपति:। जनयति। प्रऽजा:। इमा:। धाता:। दधातु। सुऽमनस्यमाना:। सम्ऽजानाना:। सम्ऽमनस:। सऽयोनय:। मयि। पुष्टम्। पुष्टऽपति:। दधातु। २०.१।
+प्रजाऽपतिः। जनयति। प्रऽजाः। इमाः। धाताः। दधातु। सुऽमनस्यमानाः। सम्ऽजानानाः। सम्ऽमनसः। सऽयोनयः। मयि। पुष्टम्। पुष्टऽपतिः। दधातु। २०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

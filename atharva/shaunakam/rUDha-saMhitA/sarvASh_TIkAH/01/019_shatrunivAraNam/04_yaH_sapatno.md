@@ -25,10 +25,9 @@ i. 33. 2, ii. 4. 6, and see Prāt. ii. 10, 17, and especially 11.—The
 The rival and non-rival, he who in his hatred curses us May all the deities injure him! My nearest, closest mail is prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। सऽपत्न:। य:। असपत्न:। य:। च। द्विषन्। शपाति। न:। देवा:। तम्। सर्वे। धूर्वन्तु। ब्रह्म। वर्म। मम। अन्तरम्।
+यः। सऽपत्नः। यः। असपत्नः। यः। च। द्विषन्। शपाति। नः। देवाः। तम्। सर्वे। धूर्वन्तु। ब्रह्म। वर्म। मम। अन्तरम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ sarve tena vo śeṣam ūrjaṁ bibharti*.
 The thunder is thy voice, O Lord of Creatures: a Bull, thou castest strength on earth and heaven. To that all cattle look for their existence: with this she nourishes their force and vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्तनियित्नु:। ते। वाक्। प्रजाऽपते। वृषा। शुष्मम्। क्षिपसि। भूम्याम्। दिवि। ताम्। पशव:। उप। जीवन्ति। सर्वे। तेनो इति। सा। इषम्। ऊर्जम्। पिपर्ति। १.२०।
+स्तनियित्नुः। ते। वाक्। प्रजाऽपते। वृषा। शुष्मम्। क्षिपसि। भूम्याम्। दिवि। ताम्। पशवः। उप। जीवन्ति। सर्वे। तेनो इति। सा। इषम्। ऊर्जम्। पिपर्ति। १.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

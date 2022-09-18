@@ -24,7 +24,6 @@ the resolution *aś-u-eṣu* being rejected), it is *nicṛt* as a *śakvarī*.
 Thy scent in women and in men, the luck and light that is in. males, That is in heroes and in steeds in sylvan beasts and elephants, The splendid energy of maids, therewith do thou unite us,. Earth! Let no man look on us with hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। गन्धः। पुरुषेषु। स्त्रीषु। पुम्ऽसु। भगः। रुचिः। यः। अश्वेषु। वीरेषु। यः। मृगेषु। उत। हस्तिषु। कन्यायाम्। वर्चः। यत्। भूमे। तेन। अस्मान्। अपि। सम्। सृज। मा। नः। द्विक्षत। कः। चन। २.२५।

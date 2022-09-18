@@ -23,7 +23,6 @@ hir-*); cf. Caland, p. 66.⌋
 May Earth the Goddess, she who bears her treasure stored up in many a place, gold, gems, and riches, Giver of opulence, grant great possessions to us bestowing them with love and favour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निऽधिम्। बिभ्रती। बहुऽधा। गुहा। वसु। मणिम्। हिरण्यम्। पृथिवी। ददातु। मे। वसूनि। नः। वसुऽदाः। रासमाना। देवी। दधातु। सुऽमनस्यमाना। १.४४।

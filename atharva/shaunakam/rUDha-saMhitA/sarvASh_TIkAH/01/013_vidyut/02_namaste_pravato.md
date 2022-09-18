@@ -24,10 +24,9 @@ reading is corrupt. ⌊Pischel discusses *pravát* (= 'stream') at length,
 Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gracious to our bodies, give our children happiness and joy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। प्रऽवत:। नपात्। यत:। तप:। सम्ऽऊहसि। मृडय। न:। तनूभ्य:। मय:। तोकेभ्य:। कृधि।
+नमः। ते। प्रऽवतः। नपात्। यतः। तपः। सम्ऽऊहसि। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

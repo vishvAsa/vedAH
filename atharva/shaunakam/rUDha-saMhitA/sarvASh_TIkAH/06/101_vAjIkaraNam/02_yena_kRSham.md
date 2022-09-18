@@ -26,10 +26,9 @@ repetition of iv. 4. 6 **c, d**. The comm. reads *vaśam* for *kṛśam* in
 Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, hujus penem in arcus modum extende.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। कृशम्। वाजयन्ति। येन। हिन्वन्ति। आतुरम्। तेन। अस्‍य। ब्रह्मण:। पते। धनु:ऽइव। आ। तानय। पस:। १०१.२।
+येन। कृशम्। वाजयन्ति। येन। हिन्वन्ति। आतुरम्। तेन। अस्‍य। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। १०१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

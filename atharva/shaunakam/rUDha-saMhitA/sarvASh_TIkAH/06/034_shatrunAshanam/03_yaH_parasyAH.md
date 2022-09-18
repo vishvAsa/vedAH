@@ -18,10 +18,9 @@ Ppp. reads, for **c**, *tiro viśvā ’dhirocate*.
 He who from distance far remote shineth across the tracts of land, May he transport us past our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। परस्या:। पराऽवत:। तिर:। धन्व। अतिऽरोचते। स:। न:। पर्षत्। अति। द्विष:। ३४.३।
+यः। परस्याः। पराऽवतः। तिरः। धन्व। अतिऽरोचते। सः। नः। पर्षत्। अति। द्विषः। ३४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

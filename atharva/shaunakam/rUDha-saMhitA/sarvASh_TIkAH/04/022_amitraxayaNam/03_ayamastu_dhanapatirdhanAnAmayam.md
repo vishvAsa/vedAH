@@ -22,10 +22,9 @@ epithets in **a** and **b** are not repetitious.
 Let him be treasure-lord of goodly treasures, let him as King be master of the people. Grant unto him great power and might, O Indra, and strip his enemy of strength and vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। अस्तु। धनऽपति:। धनानाम्। अयम्। विशाम्। विश्पति:। अस्तु। राजा। अस्मिन्। इन्द्र। महि। वर्चांसि। धेहि। अवर्चसम्। कृणुहि। शत्रुम्। अस्य। २२.३।
+अयम्। अस्तु। धनऽपतिः। धनानाम्। अयम्। विशाम्। विश्पतिः। अस्तु। राजा। अस्मिन्। इन्द्र। महि। वर्चांसि। धेहि। अवर्चसम्। कृणुहि। शत्रुम्। अस्य। २२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

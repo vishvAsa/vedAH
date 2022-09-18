@@ -20,7 +20,6 @@ our 16. Read in **a** *mṛtyúś ca* (an accent-sign slipped out of place).
 Who out of many, tell me, is the Skambha. Who comprehendeth, for mankind, both immortality and death, He who containeth for mankind the gathered waters as his veins?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। अमृतम्। च। मृत्युः। च। पुरुषे। अधि। समाहिते  इति  सम्ऽआहिते। समुद्रः। यस्य। नाड्यः। पुरुषे। अधि। सम्ऽआहिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१५।

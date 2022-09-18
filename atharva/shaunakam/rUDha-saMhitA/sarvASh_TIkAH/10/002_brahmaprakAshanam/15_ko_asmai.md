@@ -19,7 +19,6 @@ Ppp. reads for **a** *ko vāsasā pari dadhāt*, and elides *ko ‘syā-* in
 Who wrapped a garment round him? Who arranged the life he hath to live? Who granted him the boon of speech? Who gave this fleetness to his feet?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मै। वासः। पर‍ि। अदधात्। कः। अस्य। आयुः। अकल्पयत्। बलम्। कः। अस्मै। प्र। अयच्छत्। कः। अस्य। अकल्पयत्। जवम्। २.१५।

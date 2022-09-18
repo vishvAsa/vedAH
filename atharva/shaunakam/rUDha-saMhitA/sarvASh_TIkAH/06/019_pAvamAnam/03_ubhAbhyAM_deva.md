@@ -21,10 +21,9 @@ punīmahe*.
 God Savitar, byboth of these, filter and pressing out this juice, purify us that we may see.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उभाभ्याम्। देव। सवित:। पवित्रेण। सवेन। च। अस्मान्। पुनीहि। चक्षसे। १९.३।
+उभाभ्याम्। देव। सवितः। पवित्रेण। सवेन। च। अस्मान्। पुनीहि। चक्षसे। १९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

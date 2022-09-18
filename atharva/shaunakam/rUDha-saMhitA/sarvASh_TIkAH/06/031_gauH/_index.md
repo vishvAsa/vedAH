@@ -7,7 +7,6 @@ title = "०३१ गौः"
 31. At rising of the sun (or moon).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गौः।  
@@ -18,8 +17,6 @@ title = "०३१ गौः"
 
 [Uparibabhrava.—gavyam. gāyatram.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: as RV. hymn, by Max Müller, ZDMG. ix. (1855), p. XI; Geldner, Siebe
 
 To Surya the Sun-God
 </details>
+

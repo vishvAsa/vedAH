@@ -25,10 +25,9 @@ asya* intending *dṛṣṭād ājyam?*⌋.
 Whatever sacrifice that man performeth with voice, mind, sacred formula, oblation, May, in accord with Death, Destruction ruin his offering before it gain fulfilment.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। किम्। च। असौ। मनसा। यत्। च। वाचा। राज्ञै:। जुहोति। हविषा। यजुषा। तत्। मृत्युना। नि:ऽऋति:। सम्ऽविदाना। पुरा। सत्यात्। आऽहुतिम्। हन्तु। अस्य। ७३.१।
+यत्। किम्। च। असौ। मनसा। यत्। च। वाचा। राज्ञैः। जुहोति। हविषा। यजुषा। तत्। मृत्युना। निःऽऋतिः। सम्ऽविदाना। पुरा। सत्यात्। आऽहुतिम्। हन्तु। अस्य। ७३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

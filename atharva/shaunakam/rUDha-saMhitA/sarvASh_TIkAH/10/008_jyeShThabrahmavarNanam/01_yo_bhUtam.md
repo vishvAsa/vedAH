@@ -19,7 +19,6 @@ The concluding pāda is that of some of the verses of the preceding hymn
 Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who rules the universe, and heavenly light is all his own!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। भूतम्। च। भव्यम्। च। सर्वम्। यः। च। अधिऽतिष्ठति। स्वः। यस्य। च। केवलम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ८.१।

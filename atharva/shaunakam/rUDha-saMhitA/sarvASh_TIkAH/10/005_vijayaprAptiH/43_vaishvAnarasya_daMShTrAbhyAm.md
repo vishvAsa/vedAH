@@ -18,7 +18,6 @@ Ppp. reads *saṁvatsarasya* instead of *vāiśvānarasya*.
 Let the shot missile catch him with Vaisvanara's two mighty fangs. This offering, and the mightiest Goddess, the Fuel, eat him up!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वैश्वानरस्य। दंष्ट्राभ्याम्। हेतिः। तम्। सम्। अधात्। अभि। इयम्। तम्। प्सातु। आऽहुतिः। सम्ऽइत्। देवी। सहीयसी। ५.४३।

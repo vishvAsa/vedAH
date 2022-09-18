@@ -22,7 +22,6 @@ kṛṇotu*. ⌊In **d** of our vs. 40, Ppp. reads *indro yātu*.⌋
 May she, the Earth, assign to us the opulence for which we yearn, May Bhaga share and aid the task and Indra come to lead the way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। नः। भूमिः। आ। दिशतु। यत्। धनम्। कामयामहे। भगः। अनुऽप्रयुङ्क्ताम्। इन्द्रः। एतु। पुरःऽगवः। १.४०।

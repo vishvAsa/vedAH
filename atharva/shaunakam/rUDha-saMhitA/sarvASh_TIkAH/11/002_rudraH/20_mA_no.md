@@ -19,7 +19,6 @@ Ppp. omits *nas* before *brūhi* in **a**, and has at the end *arāmasi*
 Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us contend with thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। हिंसीः। अधि। नः। ब्रूहि। परि। नः। वृङ्ग्धि। मा। क्रुधः। मा। त्वया। सम्। अरामहि। २.२०।

@@ -29,10 +29,9 @@ for *yuvó* ⌊p. *yuvóḥ*⌋ and *yāhi* in **d**. The comm. explains
 True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which shall give you rapturous joy! Let sacrifice, your car, to entertain the Gods, approach its rest- ing-place that they may drink thereof.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रावरुणा। सुतऽपौ। इमम्। सुतम्। सोमम्। पिबतम्। मद्यम्। धृतऽव्रतौ। युवो:। रथ:। अध्वर:। देवऽवीतये। प्रति। स्वसरम्। उप। यातु। पीतये। ६०.१।
+इन्द्रावरुणा। सुतऽपौ। इमम्। सुतम्। सोमम्। पिबतम्। मद्यम्। धृतऽव्रतौ। युवोः। रथः। अध्वरः। देवऽवीतये। प्रति। स्वसरम्। उप। यातु। पीतये। ६०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -35,10 +35,9 @@ Anukr. takes no notice of the deficiency of a syllable in **b**. ⌊As to
 The Goat was verily produced from Agni. Through sorrow he beheld, at first, his father. Through him at first the Gods attained to godhead, and, meet for sacrifices, were exalted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। हि। अग्ने:। अजनिष्ट। शोकात्। स:। अपश्यत्। जनितारम्। अग्ने। तेन। देवा:। देवताम्। अग्रे। आयन्। तेन। रोहान्। रुरुहु:। मेध्यास:। १४.१।
+अजः। हि। अग्नेः। अजनिष्ट। शोकात्। सः। अपश्यत्। जनितारम्। अग्ने। तेन। देवाः। देवताम्। अग्रे। आयन्। तेन। रोहान्। रुरुहुः। मेध्यासः। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

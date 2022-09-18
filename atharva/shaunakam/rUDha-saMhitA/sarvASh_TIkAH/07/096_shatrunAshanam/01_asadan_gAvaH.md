@@ -30,10 +30,9 @@ this one here?⌋
 The kine are resting in the stall, home to her nest hath flown the bird, The hills are firmly rooted: I have fixed the kidneys in their place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असदन्। गाव:। सदने। अपप्तत्। वसतिम्। वय:। आऽस्थाने। पर्वता:। अस्थु:। स्थाम्नि। वृक्कौ। अतिष्ठिपम्। १०१.१।
+असदन्। गावः। सदने। अपप्तत्। वसतिम्। वयः। आऽस्थाने। पर्वताः। अस्थुः। स्थाम्नि। वृक्कौ। अतिष्ठिपम्। १०१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ had **a, b** above as 2 **c, d**, and **c** as 6 **b**.⌋
 He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an alien to the Gods, and subject to the Brahmans' wrath:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। आर्षेयेभ्यः। याचत्ऽभ्यः। देवानाम्। गाम्। न। दित्सति। आ। सः। देवेषु। वृश्चते। ब्राह्मणानाम‌्। च। मन्यवे। ४.१२।

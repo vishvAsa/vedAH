@@ -22,10 +22,9 @@ Ppp. gives *abhībhṛśat* instead, doubtless a mere corruption.
 Soma and Savitar the God have strengthened and exalted thee: All elements have aided thee, to make thee general conqueror.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। त्वा। देव:। सविता। अभि। सोम:। अवीवृधत्। अभि। त्वा। विश्वा। भूतानि। अभिऽवर्त:। यथा। अससि।
+अभि। त्वा। देवः। सविता। अभि। सोमः। अवीवृधत्। अभि। त्वा। विश्वा। भूतानि। अभिऽवर्तः। यथा। अससि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

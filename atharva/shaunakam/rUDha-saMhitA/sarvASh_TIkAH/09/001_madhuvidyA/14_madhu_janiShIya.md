@@ -23,7 +23,6 @@ it is not) the Anukr. counts out a good *purauṣṇih*.
 Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni! have I come: splendour and strength bestow on me!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मधु। जनिषीय। मधु। वंशिषीय। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। १.१४।

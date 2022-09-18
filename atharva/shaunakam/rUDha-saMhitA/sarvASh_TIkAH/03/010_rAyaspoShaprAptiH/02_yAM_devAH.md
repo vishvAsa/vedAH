@@ -24,10 +24,9 @@ rātrim up-*, and at the end *-galā*. For *saṁvatsarásya pátnī* (cf. vs.
 May she whom Gods accept with joy, Night who approacheth. as a cow, She who is Consort of the Year, bring us abundant happiness
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। देवा:। प्रतिऽनन्दन्ति। रात्रिम्। धेनुम्। उपऽआयतीम्। सम्ऽवत्सरस्य। या। पत्नी। सा। न:। अस्तु। सुऽमङ्गली। १०.२।
+याम्। देवाः। प्रतिऽनन्दन्ति। रात्रिम्। धेनुम्। उपऽआयतीम्। सम्ऽवत्सरस्य। या। पत्नी। सा। नः। अस्तु। सुऽमङ्गली। १०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

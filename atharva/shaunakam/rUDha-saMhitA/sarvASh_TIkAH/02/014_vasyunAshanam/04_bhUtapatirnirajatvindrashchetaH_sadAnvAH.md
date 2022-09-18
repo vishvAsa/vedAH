@@ -31,10 +31,9 @@ definition of the Anukr. is mechanically correct. The comm. understands
 May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt quell those who sit upon our dwelling's floor.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भूतऽपति:। नि:। अजतु। इन्द्र:। च। इत:। सदान्वा:। गृहस्य। बुध्ने। आसीना:। ता:। इन्द्र:। वज्रेण। अधि। तिष्ठतु। १४.४।
+भूतऽपतिः। निः। अजतु। इन्द्रः। च। इतः। सदान्वाः। गृहस्य। बुध्ने। आसीनाः। ताः। इन्द्रः। वज्रेण। अधि। तिष्ठतु। १४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

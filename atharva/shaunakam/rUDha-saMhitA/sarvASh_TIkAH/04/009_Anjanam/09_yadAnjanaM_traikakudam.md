@@ -34,10 +34,9 @@ customary defiance of grammar upon this point, reads *sárvān* instead of
 Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. Crushes and rends all sorcerers and every witch and sorceress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽअञ्जनम्। त्रैककुदम्। जातम्। हिमऽवत:। परि। यातून्। च। सर्वान्। जम्भयत्। सर्वा:। च। यातुऽधान्य:। ९.९।
+यत्। आऽअञ्जनम्। त्रैककुदम्। जातम्। हिमऽवतः। परि। यातून्। च। सर्वान्। जम्भयत्। सर्वाः। च। यातुऽधान्यः। ९.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ Anukr.
 This is the God who dwells-within the waters, the thousand- rooted, many-powered Atri, He who brought all this world into existence. This God; etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। सः। देवः। अप्ऽसु। अन्तः। सहस्रऽमूलः। पुरुऽशाकः। अत्त्रिः। यः। इदम्। विश्वम्। भुवनम्। जजान। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। । ३.१५।

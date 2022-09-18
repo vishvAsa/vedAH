@@ -27,10 +27,9 @@ iv. 9. 5 **d**).⌋
 Those who encompass slay him not: he goes not near his lurk-- ing foes The Kshatriya who, knowing well, takes Agni's name for length of life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। एनम्। घ्नन्ति। परिऽआयिन:। न। सन्नान्। अव। गच्छति। अग्ने:। य:। क्षत्रिय:। विद्वान्। नाम। गृह्णाति। आयुषे। ७६.४।
+न। एनम्। घ्नन्ति। परिऽआयिनः। न। सन्नान्। अव। गच्छति। अग्नेः। यः। क्षत्रियः। विद्वान्। नाम। गृह्णाति। आयुषे। ७६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

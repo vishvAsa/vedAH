@@ -20,7 +20,6 @@ accent-mark under the *ṇim* of *taráṇim*.⌋
 High in the midst of heaven may we behold thee whom men call Savitar, the bright red Eagle, Soaring and speeding on thy way, refulgent, unwasting light which Atri erst discovered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उच्चा। पतन्तम्। अरुणम्। सुऽपर्णम्। मध्ये। दिवः। तरणिम्। भ्राजमानम्। पश्याम। त्वा। सवितारम्। यम्। आहुः। अजस्रम्। ज्योतिः। यत्। अविन्दत्। अत्त्रिः। २.३६।

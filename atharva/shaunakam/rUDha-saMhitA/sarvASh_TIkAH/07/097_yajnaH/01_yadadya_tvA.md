@@ -34,10 +34,9 @@ otherwise agrees with RV.
 As we have here elected thee, skilled Hotar! to-day as this our sacrifice proceedeth, Come to the firm place, mightiest! yea, come firmly. Knowing the sacrifice, approach the Soma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अद्य। त्वा। प्रऽयति। यज्ञे। अस्मिन्। होत:। चिकित्वन्। अवृणीमहि। इह। ध्रुवम्। अय:। ध्रुवम्। उत। शविष्ठ। प्रऽविद्वान्। यज्ञम्। उप। याहि। सोमम्। १०२.१।
+यत्। अद्य। त्वा। प्रऽयति। यज्ञे। अस्मिन्। होतः। चिकित्वन्। अवृणीमहि। इह। ध्रुवम्। अयः। ध्रुवम्। उत। शविष्ठ। प्रऽविद्वान्। यज्ञम्। उप। याहि। सोमम्। १०२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

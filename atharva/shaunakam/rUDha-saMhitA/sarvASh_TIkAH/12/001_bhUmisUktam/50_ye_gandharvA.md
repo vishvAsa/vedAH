@@ -20,7 +20,6 @@ yāvayaḥ*.
 Gandharvas and Apsarases, Kimidins, and malignant sprites, Pisachas all, and Rakshasas, these keep thou, Earth! afar from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। गन्धर्वाः। अप्सरसः। ये। च। अरायाः। किमीदिनः। पिशाचान्। सर्वा। रक्षांसि। तान्। अस्मत्। भूमे। यवय। १.५०।

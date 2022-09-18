@@ -21,7 +21,6 @@ the same.
 Live with your sons, when life on earth is ended, live in the sphere most rich in light and sweetness. In skies that have been won by sacrificers make both the worlds, earth, heaven, your habitation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उभे इति। नभसी इति। उभयान्। च। लोकान्। ये। यज्वनाम्। अभिऽजिताः। स्वःऽगाः। तेषाम्। ज्योतिष्मान्। मधुऽमान्। यः। अग्रे। तस्मिन्। पुत्रैः। जरसि। सम्। श्रयेथाम्। ३.६।

@@ -25,10 +25,9 @@ restore a lost accent-mark over the *sṛ* of *sṛja* in **d.**
 Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. us children long to live; bless us with increase of our wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवत्सरस्य। प्रतिऽमाम्। याम्। त्वा। रात्रि। उपऽआस्महे। सा। न:। आयुष्मतीम्। प्रऽजाम्। राय:। पोषेण। सम्। सृज। १०.३।
+सम्ऽवत्सरस्य। प्रतिऽमाम्। याम्। त्वा। रात्रि। उपऽआस्महे। सा। नः। आयुष्मतीम्। प्रऽजाम्। रायः। पोषेण। सम्। सृज। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ and the description of the Anukr. appears to sanction it.
 No path leads hitherward for thee to travel. Turn thee from us: far off, thy light is yonder. Fly hence across the ninety floods, the rivers most hard to pass. Begone, and be not wounded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पराक्। ते। ज्योतिः। अपथम्। ते। अर्वाक्। अन्यत्र। अस्मत्। अयना। कृणुष्व। परेण। इहि। नवतिम्। नाव्याः। अति। दुःऽगाः। स्रोत्याः। मा। क्षणिष्ठाः। परा। इहि। १.१६।

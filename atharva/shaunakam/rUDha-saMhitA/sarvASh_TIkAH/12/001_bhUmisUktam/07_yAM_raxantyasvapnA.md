@@ -20,7 +20,6 @@ The verse is found also in MS. (iv. 14. 11), which reads in **c**
 May Earth, may Prithivi, always protected with ceaseless care by Gods who never slumber, May she pour out for us delicious nectar, may she bedew us with a flood of splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। रक्षन्ति। अस्वप्नाः। विश्वऽदानीम्। देवाः। भूमिम्। पृथिवीम्। अप्रऽमादम्। सा। नः। मधु। प्रियम्। दुहाम्। अथो इति। उक्षतु। वर्चसा। १.७।

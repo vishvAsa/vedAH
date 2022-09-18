@@ -20,7 +20,6 @@ Both RV. ⌊vs. 29⌋ and Ppp. read *mártyam* in **c**.
 He also snorts, by whom encompassed round the Cow lows as she closely clings to him who sheds the rain. She with her shrilling cries hath humbled mortal men, and turn- ed to lightning, hath stripped off her covering robe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। सः। शिङ्क्ते। येन। गौः। अभिऽवृता। मिमाति। मायुम्। ध्वसनौ। अध‍ि। श्रिता। सा। चित्तिऽभिः। नि। हि। चकार। मर्त्यान्। विऽद्युत्। भवन्ती। प्रति। वव्रिम्। औहत। १५.७।

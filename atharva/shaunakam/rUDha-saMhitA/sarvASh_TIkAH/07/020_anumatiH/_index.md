@@ -7,7 +7,6 @@ title = "०२० अनुमतिः"
 20 (21). Praise and prayer to Anumati.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अनुमतिः।  
@@ -18,8 +17,6 @@ title = "०२० अनुमतिः"
 
 [Brahman.—ṣaḍṛcam. ānumatīyam. ānuṣṭubham: 3, ⌊4⌋. triṣṭubh; 4. bhurij; 5, 6. jagatī; 6. atiśākvaragarbā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 8, 60; Griffith, i. 337.
 
 A prayer for prosperity and happiness
 </details>
+

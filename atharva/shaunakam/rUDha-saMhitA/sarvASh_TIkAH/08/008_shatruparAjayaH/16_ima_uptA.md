@@ -22,10 +22,9 @@ p. 585), "hammer."⌋
 Here spread are snares of Death wherefrom thou, once within them, ne'er art freed: Full many a thousand of the host yonder this horn shall smite and slay.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमे। उप्ता:। मृत्युऽपाशा:। यान्। आऽक्रम्य। न। मुच्यसे। अमुष्या:। हन्तु। सेनाया:। इदम्। कूटम्। सहस्रऽश:। ८.१६।
+इमे। उप्ताः। मृत्युऽपाशाः। यान्। आऽक्रम्य। न। मुच्यसे। अमुष्याः। हन्तु। सेनायाः। इदम्। कूटम्। सहस्रऽशः। ८.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

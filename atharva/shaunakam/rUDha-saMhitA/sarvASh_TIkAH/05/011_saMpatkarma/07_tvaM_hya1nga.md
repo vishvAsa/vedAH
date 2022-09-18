@@ -20,10 +20,9 @@ which is made also by Roth and Muir. The pāda is corrupt in Pāipp.
 Many reproaches, Varuna, dost thou utter against the misers. who revoke their presents. Be not thou added to that crowd of niggards: let not men call thee an illiberal giver.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। हि। अङ्ग। वरुण। ब्रवीषि। पुन:ऽमघेषु। अवद्यानि। भूरि। मो इति। सु। पणीन्। अभि। एतावत:। भूत्। मा। त्वा। वोचन्। अराधसम्। जनास:। ११.७।
+त्वम्। हि। अङ्ग। वरुण। ब्रवीषि। पुनःऽमघेषु। अवद्यानि। भूरि। मो इति। सु। पणीन्। अभि। एतावतः। भूत्। मा। त्वा। वोचन्। अराधसम्। जनासः। ११.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

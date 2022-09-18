@@ -22,10 +22,9 @@ become conspicuous'; the comm. very strangely renders it 'for injury'
 Those who are sitting round this babe prepare him to be looked upon. Let Agni thoroughly inflamed with all his tongues rise from his- heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। एनम्। परिऽसीदन्ति। सम्ऽआदधति। चक्षसे। सम्ऽप्रेध्द:। अग्नि:। जिह्वाभि:। उत्। एतु। हृदयात्। अधि। ७६.१।
+ये। एनम्। परिऽसीदन्ति। सम्ऽआदधति। चक्षसे। सम्ऽप्रेध्दः। अग्निः। जिह्वाभिः। उत्। एतु। हृदयात्। अधि। ७६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

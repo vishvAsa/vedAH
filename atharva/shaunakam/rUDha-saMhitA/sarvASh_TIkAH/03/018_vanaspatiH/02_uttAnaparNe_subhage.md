@@ -22,7 +22,6 @@ instead of *devajūte*.
 Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou, the rival wife away, and make my husband only mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्तानऽपर्णे। सुऽभगे। देवऽजूते। सहस्वति। सऽपत्नीम्। मे। परा। नुद। पतिम्। मे। केवलम्। कृधि। १८.२।

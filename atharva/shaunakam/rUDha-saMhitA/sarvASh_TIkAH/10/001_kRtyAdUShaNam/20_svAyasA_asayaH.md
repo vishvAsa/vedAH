@@ -22,7 +22,6 @@ is quoted in Kāuś. 39. 19.
 Within our house are swords of goodly iron. Kritya, we know thy joints and all their places. Arise this instant and begone! What, stranger! art thou seek- ing here?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुऽआयसाः। असयः। सन्ति। नः। गृहे। विद्म। ते। कृत्ये। यतिऽधा। परूंषि। उत्। तिष्ठ। एव। परा। इहि। इतः। अज्ञाते। किम्। इह। इच्छसि। १.२०।

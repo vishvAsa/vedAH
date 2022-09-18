@@ -25,10 +25,9 @@ with the same reading, save *pariṣad*.⌋
 That brilliant Agni who was born beyond this region of the air, May he transport us past our foes!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अस्य। पारे। रजस:। शुक्र:। अग्नि:। अजायत। स:। न:। पर्षत्। अति। द्विष:। ३४.५।
+यः। अस्य। पारे। रजसः। शुक्रः। अग्निः। अजायत। सः। नः। पर्षत्। अति। द्विषः। ३४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

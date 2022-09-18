@@ -22,7 +22,6 @@ better say 'in great numbers.'⌋
 When Prana with a thunderous voice shouts his loud message to the plants, They straightway are impregnate, they conceive, and bear abundantly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। प्राणः। स्तनयित्नुना। अभिऽक्रन्दति। ओषधीः। प्र। वीयन्ते। गर्भान्। दधते। अथो इति। बह्वीः। वि। जायन्ते। ६.३।

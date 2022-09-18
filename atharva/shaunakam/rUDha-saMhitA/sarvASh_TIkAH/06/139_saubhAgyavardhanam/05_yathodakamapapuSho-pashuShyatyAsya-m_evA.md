@@ -19,10 +19,9 @@ references to it been noted elsewhere.
 Even as the Mungoose bites and rends and then restores the wounded snake, So do thou, Mighty one, restore the fracture of our severed love.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। नकुल:। विऽछिद्य। सम्ऽदधाति। अहिम्। पुन:। एव। कामस्य। विऽछिन्नम्। सम्। धेहि। वीर्यऽवति। १३९.५।
+यथा। नकुलः। विऽछिद्य। सम्ऽदधाति। अहिम्। पुनः। एव। कामस्य। विऽछिन्नम्। सम्। धेहि। वीर्यऽवति। १३९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

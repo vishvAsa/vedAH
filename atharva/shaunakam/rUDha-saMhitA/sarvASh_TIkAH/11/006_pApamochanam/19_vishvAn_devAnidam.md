@@ -18,7 +18,6 @@ distress.
 This we address to all the Gods, faithful, maintainers of the Right, With all their Consorts by their side: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वान्। देवान्। इदम्। ब्रूमः। सत्यऽसंधान्। ऋतऽवृधः। विश्वाभिः। पत्नीभिः। सह। ते। नः। मुञ्चन्तु। अंहसः। ८.१९।

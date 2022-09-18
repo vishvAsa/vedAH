@@ -20,10 +20,9 @@ parts of 11-13, not metrical as it stands.
 As honey-bees collect and add fresh honey to their honey store, Even so may both the Asvins lay splendour and strength within my soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। मधु। मधुऽकृत:। सम्ऽभरन्ति। मधौ। अधि। एव। मे। अश्विना। वर्च:। आत्मनि। ध्रियताम्। १.१६।
+यथा। मधु। मधुऽकृतः। सम्ऽभरन्ति। मधौ। अधि। एव। मे। अश्विना। वर्चः। आत्मनि। ध्रियताम्। १.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

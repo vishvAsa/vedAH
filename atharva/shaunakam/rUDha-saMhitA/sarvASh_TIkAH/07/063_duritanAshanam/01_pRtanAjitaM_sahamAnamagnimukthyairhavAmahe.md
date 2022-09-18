@@ -29,10 +29,9 @@ The verse has no *jagatī* character at all.
 We call with lauds from his most lofty dwelling victorious Agni, conqueror in battles. May he conveyus over all distresses, may the God Agni bear us past our troubles.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृतनाऽजितम्। सहमानम्। अग्निम्। उक्थै:। हवामहे। परमात्। सधऽस्थात्। स:। न:। पर्षत्। अति। दु:ऽगानि। विश्वा। क्षामत्। देव:। अति। दु:ऽ0इतानि। अग्नि:। ६५.१।
+पृतनाऽजितम्। सहमानम्। अग्निम्। उक्थैः। हवामहे। परमात्। सधऽस्थात्। सः। नः। पर्षत्। अति। दुःऽगानि। विश्वा। क्षामत्। देवः। अति। दुःऽ0इतानि। अग्निः। ६५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

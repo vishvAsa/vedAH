@@ -20,10 +20,9 @@ kind of snake; Henry renders it "scorpion" ⌊after Grill⌋.
 This scorpion here that creeps along, low on the ground and powerless-- I have removed his poison and then utterly demolished him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अरसस्य। शर्कोटस्य। नीचीनस्य। उपऽसर्पत:। विषम्। हि। अस्य। आऽअदिषि। अथो इति। एनम्। अजीजभम्। ५८.५।
+अरसस्य। शर्कोटस्य। नीचीनस्य। उपऽसर्पतः। विषम्। हि। अस्य। आऽअदिषि। अथो इति। एनम्। अजीजभम्। ५८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

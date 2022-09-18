@@ -53,7 +53,6 @@ anuṣṭubh; 14, 26. sāmny uṣṇih; 15. gāyatrī; 16, 17, 19, 20. prājāpa
 All these blessings of a Kshatriya depart from him when he oppresseth the Brahman and taketh to himself the hhman's cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तानि। सर्वाणि। अप। क्रामन्ति। ब्रह्मऽगवीम्। आऽददानस्य। जिनतः। ब्राह्मणम्। क्षत्रियस्य। ६.५।

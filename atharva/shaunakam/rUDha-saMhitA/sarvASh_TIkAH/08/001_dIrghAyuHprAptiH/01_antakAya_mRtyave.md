@@ -19,10 +19,9 @@ Ppp. puts our second pāda last.
 Homage to Death the Ender! May thy breathings, inward and outward, still remain within thee. Here stay this man united with his spirit in the Sun's realm, the world of life eternal!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तकाय। मृत्यवे। नम:। प्राणा:। अपाना:। इह। ते। रमन्ताम्। इह। अयम्। अस्तु। पुरुष:। सह। असुना। सूर्यस्य। भागे। अमृतस्य। लोके। १.१।
+अन्तकाय। मृत्यवे। नमः। प्राणाः। अपानाः। इह। ते। रमन्ताम्। इह। अयम्। अस्तु। पुरुषः। सह। असुना। सूर्यस्य। भागे। अमृतस्य। लोके। १.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

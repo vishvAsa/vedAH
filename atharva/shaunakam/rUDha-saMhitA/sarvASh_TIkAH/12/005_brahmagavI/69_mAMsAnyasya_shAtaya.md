@@ -16,7 +16,6 @@ title = "६९ मांसान्यस्य शातय"
 Tear out his sinews, cause his flesh to fall in pieces from his frame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मांसानि। अस्य। शातय। स्नावानि। अस्य। सम्। वृह। ११.८।

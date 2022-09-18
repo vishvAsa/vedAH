@@ -21,10 +21,9 @@ are to syllabize *bṛ-āh-*, which is very harsh). Ppp. combines *brāhmaṇe
 Not Vaisya, not Rajanya, no, the Brahman is indeed her lord: This Surya in his course proclaims to the Five Races of man- kind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्राह्मण:। एव। पति:। न। राजन्य:। न। वैश्य:। तत्। सूर्य:। प्रऽब्रुवन्। एति। पञ्चऽभ्य:। मानवेभ्य:। १७.९।
+ब्राह्मणः। एव। पतिः। न। राजन्यः। न। वैश्यः। तत्। सूर्यः। प्रऽब्रुवन्। एति। पञ्चऽभ्यः। मानवेभ्यः। १७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

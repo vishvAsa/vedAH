@@ -21,10 +21,9 @@ gods, formidable, giving life to men.
 I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose sheath is single, I call for thee the fibrous and the reed-like, and branching. Plants, dear to the Visve Devas, powerful, giving life to men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽस्तृणती:। स्तम्बिनी:। एकऽशुङ्गा:। प्रऽतन्वती:। ओषधी:। आ। वदामि। अंशुऽमती:। काण्डिनी:। या:। विऽशाखा:। ह्वयामि। ते। वीरुध:। वैश्वऽदेवी:। उग्रा:। पुरुषऽजीवनी:। ७.४।
+प्रऽस्तृणतीः। स्तम्बिनीः। एकऽशुङ्गाः। प्रऽतन्वतीः। ओषधीः। आ। वदामि। अंशुऽमतीः। काण्डिनीः। याः। विऽशाखाः। ह्वयामि। ते। वीरुधः। वैश्वऽदेवीः। उग्राः। पुरुषऽजीवनीः। ७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

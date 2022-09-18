@@ -25,10 +25,9 @@ are metrically irregular, but the Anukr. does not heed it.
 Near to thee, Goat! approach these streams of Soma, divine, distilling meath, bedecked with butter! Stay thou the earth and sky and fix them firmly up on the seven- rayed pitch and height of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एता:। त्वा। अज। उप। यन्तु। धारा:। सोम्या:। देवी:। घृतऽपृष्ठ:। मधुऽश्चुत:। स्तभान्। पृथिवीम्। उत। द्याम्। नाकस्य। पृष्ठे। अधि। सप्तऽरश्मौ। ५.१५।
+एताः। त्वा। अज। उप। यन्तु। धाराः। सोम्याः। देवीः। घृतऽपृष्ठः। मधुऽश्चुतः। स्तभान्। पृथिवीम्। उत। द्याम्। नाकस्य। पृष्ठे। अधि। सप्तऽरश्मौ। ५.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

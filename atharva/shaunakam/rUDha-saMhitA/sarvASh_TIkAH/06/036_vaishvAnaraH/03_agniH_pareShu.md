@@ -23,10 +23,9 @@ Muir, v. 403.⌋
 Agni Kama in other homes shines forth the sole imperial Lord of all that is and is to be.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। परेषु। धामऽसु। काम:। भूतस्य। भव्यस्य। सम्ऽराट्‌। एक:। वि। राजति। ३६.३।
+अग्निः। परेषु। धामऽसु। कामः। भूतस्य। भव्यस्य। सम्ऽराट्‌। एकः। वि। राजति। ३६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

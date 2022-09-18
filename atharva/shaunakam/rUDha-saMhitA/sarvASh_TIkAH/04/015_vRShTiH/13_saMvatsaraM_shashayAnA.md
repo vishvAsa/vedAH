@@ -23,10 +23,9 @@ discusses this vs. and the following, JAOS. xvii. 174, 179.⌋
 They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, have lifted up their voice, the voice Parjanya hath. inspired.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवत्सरम्। शशयाना:। ब्राह्मणा:। व्रतऽचारिण:। वाचम्। पर्जन्यऽजिन्विताम्। प्र। मण्डूका:। अवादिषु:। १५.१३।
+सम्ऽवत्सरम्। शशयानाः। ब्राह्मणाः। व्रतऽचारिणः। वाचम्। पर्जन्यऽजिन्विताम्। प्र। मण्डूकाः। अवादिषुः। १५.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

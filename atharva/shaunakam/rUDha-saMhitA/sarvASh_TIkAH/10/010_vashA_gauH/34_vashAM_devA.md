@@ -26,7 +26,6 @@ Anukr. says, referring to this last hymn, *catasraḥ* (i.e. 4 over 30).⌋
 Both Gods and mortal men depend for life and being on the Cow. She hath become this universe: all that the Sun surveys is she.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशाम्। देवाः। उप। जीवन्ति। वशाम्। मनुष्याः। उत। वशा। इदम्। सर्वम्। अभवत्। यावत्। सूर्यः। विऽपश्यति। १०.३४।

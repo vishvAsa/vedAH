@@ -24,7 +24,6 @@ which gives us no help.
 The firm, the fast, the strong, the hard, Brahma, the All-creating Ten. Gods, as a wheel about the nave, are fixed all round the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दृढः। दृंहऽस्थिरः। न्यः। ब्रह्म। विश्वऽसृजः। दश। नाभिम्ऽइव। सर्वतः। चक्रम्। उत्ऽशिष्टे। देवताः। श्रिताः। ९.४।

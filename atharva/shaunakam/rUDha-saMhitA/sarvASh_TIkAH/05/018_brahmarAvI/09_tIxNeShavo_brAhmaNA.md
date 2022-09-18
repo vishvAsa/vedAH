@@ -20,10 +20,9 @@ course *jagatī*.⌋
 Keen arrows have the Brahmans, armed with missiles: the shaft, when they discharge it, never faileth. Pursuing him with fiery zeal and anger, they pierce the foeman even from a distance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तीक्ष्णऽइषव:। ब्राह्मणा:। हेतिऽमन्त:। याम्। अस्यन्ति। शरव्याम्। न। सा। मृषा। अनुऽहाय। तपसा। मन्युना। च। उत। दूरात्। अव। भिन्दन्ति। एनम्। १८.९।
+तीक्ष्णऽइषवः। ब्राह्मणाः। हेतिऽमन्तः। याम्। अस्यन्ति। शरव्याम्। न। सा। मृषा। अनुऽहाय। तपसा। मन्युना। च। उत। दूरात्। अव। भिन्दन्ति। एनम्। १८.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

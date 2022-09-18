@@ -31,7 +31,6 @@ reading is *adhy agne kravyād aṁ yakṣmas taṁ te pra suvāmaḥ*.⌋
 Death and Misfortune we expel, Malignity we drive away. O Agni, thou who eatest not the corpse, eat him who hateth us: him whom we hate we send to thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निः। इतः। मृत्युम्। निःऽऋतिम्। निः। अरातिम्। अजामसि। यः। नः। द्वेष्टि। तम्। अध्दि। अग्ने। अक्रव्यऽअत्। यम्। ऊं इति। द्विष्मः। तम्। ऊं इति। ते। प्र। सुवामसि। २.३।

@@ -7,7 +7,6 @@ title = "०७१ अन्नम्"
 71. Against harm from improper food.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अन्नम्।  
@@ -18,8 +17,6 @@ title = "०७१ अन्नम्"
 
 [Brahman.—āgneyam: 3. vāiśvadevī. jāgatyam: 3. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 433; Grill, 66, 165; Griffith, i. 284; Bloomfield, 196, 4
 
 A priest's benediction after meat
 </details>
+

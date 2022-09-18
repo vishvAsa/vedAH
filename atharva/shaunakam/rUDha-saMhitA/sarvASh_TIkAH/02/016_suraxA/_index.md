@@ -7,7 +7,6 @@ title = "०१६ सुरक्षा"
 16. For protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा
@@ -18,8 +17,6 @@ title = "०१६ सुरक्षा"
 
 [Brahman.—prāṇāpānāyurdevatyam. ekāvasānam: 1. 1-p. āsurī triṣṭubh; 2. i-p. āsury uṣṇih; 3. 1-p. āsurī triṣṭubh; 4. 5. 2-p. āsurī gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ id
 2.16    A prayer for general protection
 Name: Comment, dtype: object
 </details>
+

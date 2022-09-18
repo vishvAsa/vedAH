@@ -25,7 +25,6 @@ This verse, as noted above, is wanting in Ppp. It is quoted in Kāuś. 61.
 Numbered, they visit earth, these drops of moisture, commensu- rate with plants and vital breathings, Unnumbered, scattered, beautiful in colour, the bright, ones have pervaded all refulgence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽख्याताः। स्तोकाः। पृथिवीम्। सचन्ते। प्राणापानैः। सम्ऽमिताः। ओषधीभिः। असम्ऽख्याताः। आऽउप्यमानाः। सुऽवर्णाः। सर्वम्‌। वि। आपुः। शुचयः। शुचिऽत्वम्। ३.२८।

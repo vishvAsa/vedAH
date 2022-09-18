@@ -20,7 +20,6 @@ Ppp. reads at the beginning *ayurmābhyām*, and in **c** *yatrā jajñire*.
 From thy fore-quarters and thy thighs motion was generated, Cow! Food from thine entrails was produced, and from thy belly came the plants.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ईर्माभ्याम्‌। अयनम्। जातम्। सक्थिऽभ्याम्। च। वशे। तव। आन्त्रेभ्यः। जज्ञिरे। अत्राः। उदरात्। अधि। वीरुधः। १०.२१।

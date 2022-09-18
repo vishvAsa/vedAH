@@ -23,7 +23,6 @@ in **c**.
 Thou for thy son shalt yearn as yearns a mother. I lay thee down and with the earth unite thee. Conjoined with sacrificial gear and butter may pot and jar stand firmly on the altar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जनित्रीऽइव। प्रति। हर्यासि। सूनुम्। सम्। त्वा। दधामि। पृथिवीम्। पृथिव्या। उखा। कुम्भी। वेद्याम्। मा। व्यथिष्ठाः। यज्ञऽआयुधैः। आज्येन। अतिऽसक्ता। ३.२३।

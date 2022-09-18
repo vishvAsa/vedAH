@@ -7,7 +7,6 @@ title = "०१३ आपः"
 13. To the waters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आपः।  
@@ -18,8 +17,6 @@ title = "०१३ आपः"
 
 [Bhṛgu.—saptarcam. vāruṇam uta sindhudāivatam. ānuṣṭubham: 1. nicṛt; 5. virāḍjagatī; 6. nicṛt triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 240; Griffith, i. 99; Bloomfield, 146, 348.—Cf. Berga
 
 A benediction on a newly cut water channel
 </details>
+

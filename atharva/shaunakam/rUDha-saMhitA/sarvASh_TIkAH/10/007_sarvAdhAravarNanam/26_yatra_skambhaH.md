@@ -21,7 +21,6 @@ again (as in 17 **b, f**) *arasaṁ viduḥ* in **d**. Read in our edition
 Where Skambha generating gave the Ancient World its shape and form, They recognized that single part of Skambha as the Ancient World,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। स्कम्भः। प्रऽजनयन्। पुराणम्। विऽअवर्तयत्। एकम्। तत्। अङ्गम्। स्कम्भस्य। पुराणम्। अनुऽसंविदुः। ७.२६।

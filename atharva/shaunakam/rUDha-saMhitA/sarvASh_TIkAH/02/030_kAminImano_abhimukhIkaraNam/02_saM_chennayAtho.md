@@ -35,10 +35,9 @@ would be no need to join it with *céd.*⌋
 Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fortunes of you twain, now have your vows and spirits met.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। च। इत्। नयाथ:। अश्विना। कामिना। सम्। च। वक्षथ:। सम्। वाम्। भगास:। अग्मत। सम्। चित्तानि। सम्। ऊं इति। व्रता। ३०.२।
+सम्। च। इत्। नयाथः। अश्विना। कामिना। सम्। च। वक्षथः। सम्। वाम्। भगासः। अग्मत। सम्। चित्तानि। सम्। ऊं इति। व्रता। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

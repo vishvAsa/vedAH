@@ -7,7 +7,6 @@ title = "०२५ कामस्य इषुः"
 25. To command a woman's love.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कामस्य इषुः।  
@@ -18,8 +17,6 @@ title = "०२५ कामस्य इषुः"
 
 [Bhṛgu (jāyākāmaḥ).—māitrāvaruṇaṁ kāmeṣudevatākaṁ ca. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, v. 224; Muir, OST. v. 407; Ludwig, p. 516; Zimmer, p. 307; We
 
 A man's love-charm
 </details>
+

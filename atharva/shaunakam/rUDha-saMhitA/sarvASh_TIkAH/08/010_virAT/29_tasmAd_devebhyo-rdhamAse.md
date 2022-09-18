@@ -31,10 +31,9 @@ triṣṭubh; 32. 2-p. prājāpatyā ’nuṣṭubh; 33. 2-p. ārcy uṣṇih.*\
 She mounted up, she came unto the Serpents. The Serpents called her, Venomous! come hither. Her calf was Takshaka, Visala's offspring: a bottlegourd suppli- ed a milking-vessel. Iravan's offspring, Dhritarashtra milked her, and from her udder drew forth only poison. That poison quickens and supports the Serpents: He who knows this becomes a meet supporter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्मात्। देवेभ्य:। अर्धऽमासे। वषट्। कुर्वन्ति। प्र। देवऽयानम्। पन्थाम्। जानाति। य:। एवम्। वेद। १२.६।
+तस्मात्। देवेभ्यः। अर्धऽमासे। वषट्। कुर्वन्ति। प्र। देवऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

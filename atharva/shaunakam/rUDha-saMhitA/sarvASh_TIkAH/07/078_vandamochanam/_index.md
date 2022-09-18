@@ -7,7 +7,6 @@ title = "०७८ वन्दमोचनम्"
 78 (83). To Agni: in favor of some one.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वन्दमोचनम्।  
@@ -18,8 +17,6 @@ title = "०७८ वन्दमोचनम्"
 
 [Atharvan.—dvyṛcam. āgneyam. 1. paroṣṇih; 2. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 31, 99; Griffith, i. 366.
 
 A charm for a prince's prosperity
 </details>
+

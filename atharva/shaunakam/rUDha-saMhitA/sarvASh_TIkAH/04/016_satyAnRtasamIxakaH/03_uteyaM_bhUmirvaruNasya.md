@@ -23,10 +23,9 @@ udare*.
 This earth, too, is King Varuna's possession, and the high heaven whose ends are far asunder. The loins of Varuna are both the oceans, and this small drop of water, too, contains him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। इयम्। भूमि:। वरुणस्य। राज्ञ:। उत। असौ। द्यौ:। बृहती। दूरेऽअन्ता। उतो इति। समुद्रौ। वरुणस्य। कुक्षी इति। उत। अस्मिन्। अल्पे। उदके। निऽलीन:। १६.३।
+उत। इयम्। भूमिः। वरुणस्य। राज्ञः। उत। असौ। द्यौः। बृहती। दूरेऽअन्ता। उतो इति। समुद्रौ। वरुणस्य। कुक्षी इति। उत। अस्मिन्। अल्पे। उदके। निऽलीनः। १६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

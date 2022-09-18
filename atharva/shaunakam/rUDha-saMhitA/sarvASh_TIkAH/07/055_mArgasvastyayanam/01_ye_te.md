@@ -26,10 +26,9 @@ irregular verse (8 + 7: 10 = 25) is but ill defined by the Anukr.
 Thy downward paths from heaven, whereby thou hast raised all the world to life, Give us in gracious love, good Lord!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। ते। पन्थान:। अव। दिव:। येभि:। विश्वम्। ऐरय:। तेभि:। सुम्नऽया। आ। धेहि। न:। वसो इति। ५७.२।
+ये। ते। पन्थानः। अव। दिवः। येभिः। विश्वम्। ऐरयः। तेभिः। सुम्नऽया। आ। धेहि। नः। वसो इति। ५७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

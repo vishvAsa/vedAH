@@ -24,10 +24,9 @@ with *sṛjā́*, supplying *prāṇāis*⌋.
 Seize him not, but encourage and release him: here let him stay, though thine, in all his vigour. Bhava and Sarva, pity and protect him: give him full life and drive away misfortunes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधि। ब्रूहि। मा। आ। रभथा:। सृज। इमम्। तव। एव। सन्। सर्वऽहाया:। इह। अस्तु। भवाशर्वौ। मृडतम्। शर्म। यच्छतम्। अपऽसिध्य। दु:ऽइतम्। धत्तम्। आयु:। २.७।
+अधि। ब्रूहि। मा। आ। रभथाः। सृज। इमम्। तव। एव। सन्। सर्वऽहायाः। इह। अस्तु। भवाशर्वौ। मृडतम्। शर्म। यच्छतम्। अपऽसिध्य। दुःऽइतम्। धत्तम्। आयुः। २.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

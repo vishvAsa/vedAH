@@ -19,7 +19,6 @@ Ppp. begins *tasyā ’gnir vat-*. Accent in our text, with all the mss.,
 Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her udder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। आऽमन्त्रणे। नि। अक्रामत्। १०.१२।

@@ -21,7 +21,6 @@ herbs.
 All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants of Atharvan, Angiras, plants of the deities and men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आथर्वणीः। आङ्गिरसीः। दैवीः। मनुष्यऽजाः। उत। ओषधयः। प्र। जायन्ते। यदा। त्वम्। प्राण। जिन्वसि। ६.१६।

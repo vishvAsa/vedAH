@@ -20,7 +20,6 @@ when the bride sits down on the nuptial bed.
 Over the ruddy-coloured skin strew thou the grass, the Balbuja. Let her, the mother of good sons, sit there and serve this Agni here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। स्तृणीहि। बल्बजम्। अधि। चर्मणि। रोहिते। तत्र। उपऽविश्य। सुऽप्रजाः। इमम्। अग्निम्। सपर्यतु। २.२३।

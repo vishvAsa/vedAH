@@ -18,7 +18,6 @@ The Anukr. intends *pārśvé* to be read unresolved.
 The stabs that penetrate the sides and pierce their way along the ribs, Let them depart and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। पार्श्वे  इति। उपऽऋषन्ति। अनुऽनिक्षन्ति। पृष्टीः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१५।

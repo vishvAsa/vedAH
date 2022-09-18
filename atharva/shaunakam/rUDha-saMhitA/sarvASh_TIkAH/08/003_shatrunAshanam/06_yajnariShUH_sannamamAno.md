@@ -20,10 +20,9 @@ RV. (vs. 4) offers no variant; Ppp. (vs. 5) reads *śalyam* in **b**.
 Bending thy shafts through sacrifices, Agni! dipping thine arrows in the hymn to point them, Pierce to the heart therewith the Yatudhanas, and break their arms uplifted to attack thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञै:। इषू:। सम्ऽनममान:। अग्ने। वाचा। शल्यान्। अशनिऽभि:। दिहान:। ताभि:। विध्य। हृदये। यातुऽधानान्। प्रतीच:। बाहून्। प्रति। भङ्ग्धि। एषाम्। ३.६।
+यज्ञैः। इषूः। सम्ऽनममानः। अग्ने। वाचा। शल्यान्। अशनिऽभिः। दिहानः। ताभिः। विध्य। हृदये। यातुऽधानान्। प्रतीचः। बाहून्। प्रति। भङ्ग्धि। एषाम्। ३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

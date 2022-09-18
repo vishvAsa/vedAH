@@ -7,7 +7,6 @@ title = "०२६ पाप-मोचनम्"
 26. Praise and prayer to heaven and earth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाप-मोचनम्।  
@@ -18,8 +17,6 @@ title = "०२६ पाप-मोचनम्"
 
 [Mṛgāra.—(see h. 23). 1. puro ’ṣṭir jagatī; 7. śākvaragarbhātimadhyejyotis.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 167; Weber, xviii. 106.
 
 A hymn to Heaven and Earth
 </details>
+

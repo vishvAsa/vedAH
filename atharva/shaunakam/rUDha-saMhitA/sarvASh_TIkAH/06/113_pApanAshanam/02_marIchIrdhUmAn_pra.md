@@ -23,10 +23,9 @@ pariṇatāṅs tān* (*dhūmān*), and *nīhārān* by *tajjanyān avaśyāyān
 Enter the particles of light and vapours, go to the rising fogs or mists, O Evil! Hence! vanish in the foams of rivers. Pushan, wipe woes away upon the babe-destroyer!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मरीची:। धूमान्। प्र। विश। अनु। पाप्मन्। उत्ऽआरान्। गच्छ। उत। वा। नीहारान्। नदीनाम्। फेनान्। अनु। तान्। वि। नश्य। भ्रूणऽघ्नि। पूषन्। दु:ऽइतानि। मृक्ष्व। ११३.२।
+मरीचीः। धूमान्। प्र। विश। अनु। पाप्मन्। उत्ऽआरान्। गच्छ। उत। वा। नीहारान्। नदीनाम्। फेनान्। अनु। तान्। वि। नश्य। भ्रूणऽघ्नि। पूषन्। दुःऽइतानि। मृक्ष्व। ११३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

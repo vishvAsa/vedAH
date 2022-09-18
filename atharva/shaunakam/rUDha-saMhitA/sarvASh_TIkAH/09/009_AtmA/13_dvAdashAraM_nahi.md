@@ -22,7 +22,6 @@ would be *várvartti*.
 Formed with twelve spokes, too strong for age to weaken, this wheel of during Order rolls round heaven. Herein established, joined in pairs together, seven hundred sons and twenty stand, O Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्वादशऽअरम्। नहि। तत्। जराय। वर्वर्ति। चक्रम्। परि। द्याम्। ऋतस्य। आ। पुत्राः। अग्ने। मिथुनासः। अत्र। सप्त। शतानि। विंशतिः। च। तस्थुः। १४.१३।

@@ -20,7 +20,6 @@ One would like to emend *devás* to *devā́s* in **a**.
 High sway have Maruts, and the God Aditya, Brahmanaspati, High sway have Indra, Agni, and Dilator, Mitra, Prajapati, High sway have Rishis given to you, showing upon our enemies where thou, O Arbudi, hast pierced.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ईशाम्। वः। मरुतः। देवः। आदित्यः। ब्रह्मणः। पतिः। ईशाम्। वः। इन्द्रः। च। अग्निः। च। धाता। मित्रः। प्रजाऽपतिः। ईशाम्। वः। ऋषयः। चक्रुः। अमित्रेषु। सम्ऽईक्षयन्। रदिते। अर्बुदे। तव। ११.२५।

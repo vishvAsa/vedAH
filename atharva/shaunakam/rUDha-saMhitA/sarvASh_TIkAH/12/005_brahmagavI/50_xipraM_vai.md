@@ -22,7 +22,6 @@ ataṁ nu dā*.
 Quickly they ask about him, What is this? What thing hath happened here?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्षिप्रम्। वै। तस्य। पृच्छन्ति। यत्। तत्। आसी३त्। इदम्। नु। ता३त्। इति। १,४।

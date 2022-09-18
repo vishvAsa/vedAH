@@ -24,10 +24,9 @@ agrees with it.
 Thou art the germ of plants and herbs, thou art the germ of forest trees, The germ of each existing thing, so here, O Agni, lay the germ.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गर्भ:। असि। ओषधीनाम्। गर्भ:। वनस्पतीनाम्। गर्भ:। विश्वस्य। भूतस्य। स:। अग्ने। गर्भम्। आ। इह। धा:। २५.७।
+गर्भः। असि। ओषधीनाम्। गर्भः। वनस्पतीनाम्। गर्भः। विश्वस्य। भूतस्य। सः। अग्ने। गर्भम्। आ। इह। धाः। २५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

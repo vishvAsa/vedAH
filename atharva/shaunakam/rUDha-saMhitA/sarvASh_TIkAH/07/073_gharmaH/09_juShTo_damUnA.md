@@ -24,10 +24,9 @@ comm. paraphrases *abhiyujas* in **c** by *abhiyoktrīḥ parasenāḥ*. ⌊For
 As dear house-friend, guest welcome in the dwelling, to this our sacrifice come thou who knowest. And, Agni, having scattered all assailants, bring to us the posses- sions of our foemen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जुष्ट:। दमूना:। अतिथि:। दुरोणे। इमम्। न:। यज्ञम्। उप। याहि। विद्वान्। विश्वा:। अग्ने। अभिऽयुज:। विऽहत्य। शत्रुऽयताम्। आ। भर। भोजनानि। ७७.९।
+जुष्टः। दमूनाः। अतिथिः। दुरोणे। इमम्। नः। यज्ञम्। उप। याहि। विद्वान्। विश्वाः। अग्ने। अभिऽयुजः। विऽहत्य। शत्रुऽयताम्। आ। भर। भोजनानि। ७७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

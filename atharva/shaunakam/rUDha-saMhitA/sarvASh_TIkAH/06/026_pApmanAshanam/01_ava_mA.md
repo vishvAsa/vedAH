@@ -22,10 +22,9 @@ Anukr. overlooks the deficiency of two syllables.
 Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the world of happiness, O Misery.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। मा। पाप्मन्। सृज। वशी। सन्। मृडयासि। न:। आ। मा। भद्रस्य। लोके। पाप्मन्। धेहि। अविऽह्रुतम्। २६.१।
+अव। मा। पाप्मन्। सृज। वशी। सन्। मृडयासि। नः। आ। मा। भद्रस्य। लोके। पाप्मन्। धेहि। अविऽह्रुतम्। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

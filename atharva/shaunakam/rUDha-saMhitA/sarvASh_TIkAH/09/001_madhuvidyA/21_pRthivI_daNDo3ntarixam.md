@@ -20,10 +20,9 @@ madhokaśā ci ghṛtācī*.
 The Whip itself is Heaven, Earth is the handle, the point of juncture is the Air's mid-region. The lash is lightning, and the tip is golden.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृथिवी। दण्ड:। अन्तरिक्षम्। गर्भ:। द्यौ:। कशा। विऽद्युत्। प्रऽकश:। हिरण्यय:। बिन्दु:। १.२१। ।
+पृथिवी। दण्डः। अन्तरिक्षम्। गर्भः। द्यौः। कशा। विऽद्युत्। प्रऽकशः। हिरण्ययः। बिन्दुः। १.२१। ।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

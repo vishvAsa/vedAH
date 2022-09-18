@@ -23,10 +23,9 @@ and, in **d**, *api* for *abhi*.
 Eight Elements sprang up, first born of Order: the Priests divine are eight in number, Indra! Eight are the wombs of Aditi, eight her children; for the eighth night is the libation destined.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अष्ट। जाता। भूता। प्रथमऽजा। ऋतस्य। अष्ट। इन्द्र। ऋत्विज:। दैव्या:। ये। अष्टऽयोनि:। अदिति:। अष्टऽपुत्रा:। अष्टमीम्। रात्रिम्। अभि। हव्यम्। एति। ९.२१।
+अष्ट। जाता। भूता। प्रथमऽजा। ऋतस्य। अष्ट। इन्द्र। ऋत्विजः। दैव्याः। ये। अष्टऽयोनिः। अदितिः। अष्टऽपुत्राः। अष्टमीम्। रात्रिम्। अभि। हव्यम्। एति। ९.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

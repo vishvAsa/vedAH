@@ -23,7 +23,6 @@ after our vs. 9. The comm. ⌊and two of SPP's authorities⌋ read *tam* for
 The Master fashioned both these cloudy regions, profound and spacious pair, the earth and heaven. The Brahmachari guards them with his Fervour. In him the deities are all one-minded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽचार्यः। ततक्ष। नभसी इति। उभे इति। इमे इति। उर्वी इति। गम्भीरे इति। पृथिवीम्। दिवम्। च। ते इति। रक्षति। तपसा। ब्रह्मऽचारी। तस्मिन्। देवाः। सम्ऽमनसः। भवन्ति। ७.८।

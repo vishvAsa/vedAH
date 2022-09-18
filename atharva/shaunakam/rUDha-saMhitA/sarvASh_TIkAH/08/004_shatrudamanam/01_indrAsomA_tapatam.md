@@ -21,10 +21,9 @@ nothing better than *hiṅs* to suggest for *ubj*.
 Indra and Soma, burn, destroy the demon foe! Send downward, O ye Bulls, those who add gloom to gloom. Annihilate the fools, slay them and burn them up: chase them away from us, pierce the voracious fiends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। तपतम्। रक्ष:। उब्जतम्। नि। अर्पयतम्। वृषणा। तम:ऽवृध:। परा। शृणीतम्। अचित:। नि। ओषतम्। हतम्। नुदेथाम्। नि। शिशीतम्। अत्त्रिण:। ४.१।
+इन्द्रासोमा। तपतम्। रक्षः। उब्जतम्। नि। अर्पयतम्। वृषणा। तमःऽवृधः। परा। शृणीतम्। अचितः। नि। ओषतम्। हतम्। नुदेथाम्। नि। शिशीतम्। अत्त्रिणः। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

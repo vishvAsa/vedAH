@@ -7,7 +7,6 @@ title = "०२२ ज्योतिः"
 22 (23). To the sun (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ज्योतिः।  
@@ -18,8 +17,6 @@ title = "०२२ ज्योतिः"
 
 [Brahman.—dvyṛcam. lin̄goktadevatyam. 1. 2-p. l-av. virāḍgāyatrī; 2. 3-p. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 9, 61; Griffith, i. 338.
 
 To Savitar, or Yama invested with Savitar's attributes
 </details>
+

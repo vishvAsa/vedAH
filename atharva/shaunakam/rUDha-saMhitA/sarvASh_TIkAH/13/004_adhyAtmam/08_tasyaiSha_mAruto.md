@@ -19,7 +19,6 @@ adjective as referring to the 'troop '—which is not impossible.
 His are these banded Maruts: they move gathered close like porters' thongs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्य। एषः। मारुतः। गणः। सः। एति। शिक्याऽकृतः। ४.८।

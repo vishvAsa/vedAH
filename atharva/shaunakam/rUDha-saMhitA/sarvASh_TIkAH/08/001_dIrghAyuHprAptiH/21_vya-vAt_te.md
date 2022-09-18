@@ -34,10 +34,9 @@ The quoted Anukr. says *ekaviṅśakam ihā ”dyam ucyate*. It adds, further,
 Life hath breathed on thee; light hath come: darkness hath past away from thee. Far from thee we have buried Death, buried Destruction and: Decline.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। अवात्। ते। ज्योति:। अभूत्। अप। त्वत्। तम:। अक्रमीत्। अप। त्वत्। मृत्युम्। नि:ऽऋतिम्। अप। यक्ष्मम्। नि। दध्मसि। १.२१।
+वि। अवात्। ते। ज्योतिः। अभूत्। अप। त्वत्। तमः। अक्रमीत्। अप। त्वत्। मृत्युम्। निःऽऋतिम्। अप। यक्ष्मम्। नि। दध्मसि। १.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

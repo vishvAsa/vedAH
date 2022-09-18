@@ -7,7 +7,6 @@ title = "०१५ वाणिज्यम्"
 15. For success in trade.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाणिज्यम्।  
@@ -18,8 +17,6 @@ title = "०१५ वाणिज्यम्"
 
 [Atharvan (paṇyakāmaḥ).—aṣṭarcam. vāiśvadevam utāi ”ndrāgnam. trāiṣṭubham: 1. bhurij; 4. 3-av. 6-p. bṛhatīgarbhā virāḍatyaṣṭi; 5. virāḍjagatī; 7. anuṣṭubh; 8. nicṛt.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 215; Zimmer, p. 258 (except vss. 7, 8); Weber, xvii. 247;
 
 A merchant's prayer for success in his business
 </details>
+

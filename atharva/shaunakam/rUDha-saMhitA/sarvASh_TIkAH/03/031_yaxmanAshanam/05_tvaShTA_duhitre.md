@@ -30,7 +30,6 @@ use of *íti*, reckon it here to pāda **a**.
 Tvashtar prepares the bridal of his daughter; then all this world of life departs and leaves him. I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वष्टा। दुहित्रे। वहतुम्। युनक्ति। इति। इदम्। विश्वम्। भुवनम्। वि। याति। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.५।

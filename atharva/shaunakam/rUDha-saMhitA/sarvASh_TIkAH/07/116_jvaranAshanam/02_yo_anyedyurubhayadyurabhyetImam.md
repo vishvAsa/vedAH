@@ -19,10 +19,9 @@ The comm. reads *ubhayedyus*. The verse, though really metrical (11 +
 May he, the lawless one, who comes alternate or two following days, pass over and possess the frog.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अन्येद्यु:। उभयऽद्यु:। अभिऽएति। इमम। मण्डूकम्। अभि। एतु। अव्रत:। १२१.२।
+यः। अन्येद्युः। उभयऽद्युः। अभिऽएति। इमम। मण्डूकम्। अभि। एतु। अव्रतः। १२१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

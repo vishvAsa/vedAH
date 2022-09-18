@@ -20,10 +20,9 @@ with the preceding noun (*nāḍyāù*, *śépas*) and supplies *śilāyās* wit
 Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuum cum testiculis ob istam mulierem findo.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। नडम्। कशिपुने। स्रिय:। भिन्दन्ति। अश्मना। एव। भिनद्मि। ते। शेप:। अमुष्या:। अधि। मुष्कयो:। १३८.५।
+यथा। नडम्। कशिपुने। स्रियः। भिन्दन्ति। अश्मना। एव। भिनद्मि। ते। शेपः। अमुष्याः। अधि। मुष्कयोः। १३८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

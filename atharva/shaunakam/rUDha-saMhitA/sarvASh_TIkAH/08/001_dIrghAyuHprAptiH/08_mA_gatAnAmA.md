@@ -22,10 +22,9 @@ cf. v. 30. 12 **b**.⌋
 Yearn not for the departed ones, for those who lead men far away. Rise up from darkness into light: come, both thy hands we clasp in ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। गतानाम्। आ। दीधीथा:। ये। नयन्ति। पराऽवतम्। आ। रोह। तमस:। ज्योति:। आ। इहि। आ। ते। हस्तौ। रभामहे। १.८।
+मा। गतानाम्। आ। दीधीथाः। ये। नयन्ति। पराऽवतम्। आ। रोह। तमसः। ज्योतिः। आ। इहि। आ। ते। हस्तौ। रभामहे। १.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

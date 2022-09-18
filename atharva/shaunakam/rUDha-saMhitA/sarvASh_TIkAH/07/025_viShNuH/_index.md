@@ -7,7 +7,6 @@ title = "०२५ विष्णुः"
 25 (26). Praise to Vishṇu and Varuṇa.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विष्णुः।  
@@ -18,8 +17,6 @@ title = "०२५ विष्णुः"
 
 [Medhātithi.—dvyṛcam. vāiṣṇavam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 429; Henry, 10, 63; Griffith, i. 339.
 
 Praise of Vishnu and Varuna
 </details>
+

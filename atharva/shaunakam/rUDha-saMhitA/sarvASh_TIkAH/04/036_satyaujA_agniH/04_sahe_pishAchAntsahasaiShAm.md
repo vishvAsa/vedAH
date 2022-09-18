@@ -25,10 +25,9 @@ little exact that the evidence is really of no value.
 I conquer the Pisachas with my power, and take their wealth away. All who would injure us I slay. Let mine intention have success.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहे। पिशाचान्। सहसा। आ। एषाम्। द्रविणम्। ददे। सर्वान्। दुरस्यत:। हन्मि। सम्। मे। आऽकूति:। ऋध्यताम्। ३६.४।
+सहे। पिशाचान्। सहसा। आ। एषाम्। द्रविणम्। ददे। सर्वान्। दुरस्यतः। हन्मि। सम्। मे। आऽकूतिः। ऋध्यताम्। ३६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

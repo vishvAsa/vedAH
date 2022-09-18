@@ -27,10 +27,9 @@ saptamaḥ syāt*.
 Quantum estonagri membrum masculinum, elephanti, asinique, quantum est fortis equi, tantus penis tuus increscat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावत्ऽअङ्गीनम्। पारस्वतम्। हास्तिनम्। गार्दभम्। च। यत्। यावत्। अश्वस्य। वाजिन:। तावत्। ते। वर्धताम्। पस:। ७२.३।
+यावत्ऽअङ्गीनम्। पारस्वतम्। हास्तिनम्। गार्दभम्। च। यत्। यावत्। अश्वस्य। वाजिनः। तावत्। ते। वर्धताम्। पसः। ७२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

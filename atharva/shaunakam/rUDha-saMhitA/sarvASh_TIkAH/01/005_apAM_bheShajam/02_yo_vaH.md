@@ -17,10 +17,9 @@ here, like zealous mothers.
 Here grant to us a share of dew, that most auspicious dew of yours, Like mothers in their longing love.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। व:। शिवऽतम:। रस:। तस्य। भाजयत। इह। न:। उशती:ऽइव। मातर:।
+यः। वः। शिवऽतमः। रसः। तस्य। भाजयत। इह। नः। उशतीःऽइव। मातरः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

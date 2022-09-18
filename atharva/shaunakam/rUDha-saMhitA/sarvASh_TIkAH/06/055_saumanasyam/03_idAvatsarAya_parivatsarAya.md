@@ -30,10 +30,9 @@ changes; and verbatim at x. 14. 6.⌋
 Pay to the Year your lofty adoration, to the first Year, the second, and the present. Many we abide in the auspicious favour and gracious love of these who claim our worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदावत्सराय। परिऽवत्सराय। सम्ऽवत्सराय। कृणुत। बृहत्। नम:। तेषाम्। वयम्। सुऽमतौ। यज्ञियानाम्। अपि। भद्रे। सौमनसे। स्याम। ५५.३।
+इदावत्सराय। परिऽवत्सराय। सम्ऽवत्सराय। कृणुत। बृहत्। नमः। तेषाम्। वयम्। सुऽमतौ। यज्ञियानाम्। अपि। भद्रे। सौमनसे। स्याम। ५५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

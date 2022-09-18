@@ -19,10 +19,9 @@ The verse lacks two syllables of being a real *jagatī*.
 Vast as the quarters of the sky and regions that lie between them spread in all directions, vast as celestial tracts and views of heaven, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावती:। दिश:। प्रऽदिश:। विषूची:। यावती:। आशा:। अभिऽचक्षणा:। दिव:। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.२१।
+यावतीः। दिशः। प्रऽदिशः। विषूचीः। यावतीः। आशाः। अभिऽचक्षणाः। दिवः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

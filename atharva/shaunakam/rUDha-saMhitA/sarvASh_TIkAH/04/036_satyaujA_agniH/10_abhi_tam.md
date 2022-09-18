@@ -22,10 +22,9 @@ be welcome, if honestly come by. *Malva* he glosses with *śatru*. ⌊As to
 Destruction seize upon the man, as with a cord they hold a horse, The fool who is enraged with me! He is not rescued from the noose.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। तम्। नि:ऽऋति:। धत्ताम्। अश्वम्ऽइव। अश्वऽअभिधान्या। मल्व:। य:। मह्यम्। क्रुध्यति। स:। ऊं इति। पाशात्। न। मुच्यते। ३६.१०।
+अभि। तम्। निःऽऋतिः। धत्ताम्। अश्वम्ऽइव। अश्वऽअभिधान्या। मल्वः। यः। मह्यम्। क्रुध्यति। सः। ऊं इति। पाशात्। न। मुच्यते। ३६.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

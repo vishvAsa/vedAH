@@ -7,7 +7,6 @@ title = "०१९ ब्रह्मगवि"
 19. The Brahman's cow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मगवि  
@@ -18,8 +17,6 @@ title = "०१९ ब्रह्मगवि"
 
 [Mayobhū.—pañcadaśakam. brahmagavīdevatyatn. ānuṣṭubham: 2. virāṭpurastādbṛhatī; 7. upariṣṭādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, i2. 286; Ludwig, p. 451; Zimmer, p. 201; Grill, 43, 150; Griff
 
 The wickedness of robbing or insulting Brahmans
 </details>
+

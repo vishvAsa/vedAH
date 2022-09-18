@@ -24,10 +24,9 @@ intended in it.
 For lengthened life, to last through hundred autumns, they equalize with nine the nine aspirations. Three in gold, three in silver, three in iron by heat are stablished in their several places.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नव। प्राणान्। नवऽभि:। सम्। मिमीते। दीर्घायुऽत्वाय। शतऽशारदाय। हरिते। त्रीणि। रजते। त्रीणि। अयसि। त्रीणि। तपसा। आऽविस्थितानि। २८.१।
+नव। प्राणान्। नवऽभिः। सम्। मिमीते। दीर्घायुऽत्वाय। शतऽशारदाय। हरिते। त्रीणि। रजते। त्रीणि। अयसि। त्रीणि। तपसा। आऽविस्थितानि। २८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

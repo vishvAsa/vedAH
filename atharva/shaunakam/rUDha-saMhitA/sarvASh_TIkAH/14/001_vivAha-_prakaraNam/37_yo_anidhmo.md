@@ -23,7 +23,6 @@ in the water.
 He who in water shines unfed with fuel, whom sages worship in their sacrifices. May he, the Waters' Child, send us sweet waters those that en- hanced the power of mighty Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अनिध्मः। दीदयत्। अप्ऽसु। अन्तः। यम्। विप्रासः। ईडते। अध्वरेषु। अपाम्। नपात्। मधुऽमतीः। अपः। दाः। याभिः। इन्द्रः। ववृधे। वीर्यवान्। १.३७।

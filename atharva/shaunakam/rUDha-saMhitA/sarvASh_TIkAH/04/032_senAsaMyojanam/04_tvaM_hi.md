@@ -21,10 +21,9 @@ hūyámāno amṛ́tāya gachat.*
 For thou art, Manyu, of surpassing vigour, fierce, queller of the foe, and self-existent, Shared by all men, victorious, subduer: vouchsafe to us superior strength in battles.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। हि। मन्यो इति। अभिभूतिऽओजा:। स्वयम्ऽभू:। भाम:। अभिमातिऽसह:। विश्वऽचर्षणि। सहुरि:। सहीयान्। अस्मासु। ओज:। पृतनासु। धेहि। ३२.४।
+त्वम्। हि। मन्यो इति। अभिभूतिऽओजाः। स्वयम्ऽभूः। भामः। अभिमातिऽसहः। विश्वऽचर्षणि। सहुरिः। सहीयान्। अस्मासु। ओजः। पृतनासु। धेहि। ३२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

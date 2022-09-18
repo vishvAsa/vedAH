@@ -17,10 +17,9 @@ missile, ye she-*kimīdíns;* whose ye are etc. etc.
 Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जूर्णि। पुन:। व:। यन्तु। यातव:। पुन:। हेति:। किमीदिनी:। यस्य। स्थ। तम्। अत्त। य:। व:। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.५।
+जूर्णि। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

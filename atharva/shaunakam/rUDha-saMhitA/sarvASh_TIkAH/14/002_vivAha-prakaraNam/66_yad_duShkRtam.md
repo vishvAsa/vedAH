@@ -26,7 +26,6 @@ then carried to the woods and fastened to a tree.
 Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away upon the cloak the interceder wears.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। दुःऽकृतम्। यत्। शमलम्। विऽवाहे। वहतौ। च। यत्। तत्। सम्ऽभलस्‍य। कम्बले। मृज्महे। दुःऽइतम्। वयम्। २.६६।

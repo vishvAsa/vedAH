@@ -22,7 +22,6 @@ it says "they gave her what remained" (*uccheṣaṇa*) etc. Ppp. reads
 The Residue of Sacrifice containeth name, and from, and world: Indra and Agni and the whole universe are comprised therein.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽशिष्टे। नाम। रूपम्। च। उत्ऽशिष्टे। लोकः। आऽहितः। उत्ऽशिष्टे। इन्द्रः। च। अग्निः। च। विश्वम्। अन्तः। सम्ऽआहितम्। ९.१।

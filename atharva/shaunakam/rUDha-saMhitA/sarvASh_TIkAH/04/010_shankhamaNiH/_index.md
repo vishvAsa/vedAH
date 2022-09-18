@@ -7,7 +7,6 @@ title = "०१० शङ्खमणिः"
 10. Against evils: with a pearl-shell amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शङ्खमणिः।  
@@ -18,8 +17,6 @@ title = "०१० शङ्खमणिः"
 
 [Atharvan.—śan̄khamaṇisūktam. taddāivatam. ānuṣṭubham: 6. pathyāpan̄kti; 7. 5-p. parānuṣṭup śakvarī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Ludwig, p. 462; Grill, 36, 124; Griffith, 1. 142; Bloomfield, 62, 38
 
 A charm accompanying investiture with an amulet of shell
 </details>
+

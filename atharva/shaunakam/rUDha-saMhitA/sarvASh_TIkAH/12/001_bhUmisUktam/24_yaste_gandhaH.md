@@ -21,7 +21,6 @@ definition of the⌋ verse (11 + 11: 11 + 8 + 8 = 49) ⌊should be added
 Thy scent which entered and possessed the lotus, the scent which they prepared at Surya's bridal, Scent which Immortals Earth! of old collected, therewith make thou me sweet: let no man hate me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। गन्धः। पुष्करम्। आऽविवेश। यम्। सम्ऽजभ्रुः। सूर्यायाः। विऽवाहे। अमर्त्याः। पृथिवि। गन्धम्। अग्रे। तेन। मा। सुरभिम्। कृणु। मा। नः। द्विक्षत। कः। चन। १.२४।

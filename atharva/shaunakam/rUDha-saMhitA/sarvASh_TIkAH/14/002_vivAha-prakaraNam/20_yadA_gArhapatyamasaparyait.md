@@ -24,7 +24,6 @@ deities mentioned.
 As first of all this woman hath adored the sacred household fire. So do thou, Dame, pay homage to the Fathers and Sarasvati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदा। गार्हऽपत्यम्। असपर्यैत्। पूर्वम्। अग्निम्। वधूः। इयम्। अध। सरस्वत्यै। नारि। पितृऽभ्यः। च। नमः। कुरु। २.२०।

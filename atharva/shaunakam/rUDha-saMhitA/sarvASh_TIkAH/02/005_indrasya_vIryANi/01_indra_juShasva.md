@@ -32,10 +32,9 @@ the second half-verse scans as 8 + 11 syllables, instead of 9 + 10.
 Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste the libation, hither, enjoying meath and the hymn, come, fair, to the banquet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। जुषस्व। प्र। वह। आ। याहि। शूर। हरिऽभ्याम्। पिब। सुतस्य। मते:। इह। मधो:। चकान:। चारु:। मदाय। ५.१।
+इन्द्र। जुषस्व। प्र। वह। आ। याहि। शूर। हरिऽभ्याम्। पिब। सुतस्य। मतेः। इह। मधोः। चकानः। चारुः। मदाय। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ refers back to 113. 1 as another instance of the use of the word;
 Granting us riches, Savitar! golden-banded, send thou away from us to other regions That Fortune who, flying, abominable, hath, as a creeper climbs* a tree, assailed me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। मा। लक्ष्मी:। पतयालू:। अजुष्टा:। अभिऽचस्कन्द। वन्दनाऽइव। वृक्षम्। अन्यत्र। अस्मत्। सवित:। ताम्। इत:। धा:। हिरण्यऽहस्त:। वसु। न:। रराण:। १२०.२।
+या। मा। लक्ष्मीः। पतयालूः। अजुष्टाः। अभिऽचस्कन्द। वन्दनाऽइव। वृक्षम्। अन्यत्र। अस्मत्। सवितः। ताम्। इतः। धाः। हिरण्यऽहस्तः। वसु। नः। रराणः। १२०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

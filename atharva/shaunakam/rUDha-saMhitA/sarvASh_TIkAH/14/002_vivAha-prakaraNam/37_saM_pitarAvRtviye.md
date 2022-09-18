@@ -33,7 +33,6 @@ the matter as an essential element of the ritual, see Winternitz, p.
 In your due season, Parents! come together. Mother and sire be ye of future children. Embrace this woman like a happy lover. Raise ye up offspring here: increase your riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। पितरौ ‍। ऋत्विये इति। सृजेथाम्। माता। पिता। च। रेतसः। भवाथः। मर्यःऽइव। योषाम्। अधि। रोहय। एनाम्  प्रऽजाम्। कृण्वाथाम्। इह। पुष्यतम्। रयिम्। २.३७।

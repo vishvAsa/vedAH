@@ -29,7 +29,6 @@ friction of branches is here alluded to, and cites parallels. We may add
 To whom the winged bipeds fly together, birds of each various kind, the swans, the eagles; On whom the Wind comes rushing, Matarisvan, rousing the dust and causing trees to tremble, and flame pursues the blast. hither and thither;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। द्विऽपादः। पक्षिणः। सम्ऽपतन्ति। हंसाः। सुऽपर्णाः। शकुनाः। वयांसि। यस्याम्। वातः। मातरिश्वा। ईयते। रजांसि। कृण्वन्। च्यवयन्। च। वृक्षान्। वातस्य। प्रऽवाम्। उपऽवान्। अनु। वाति। अर्चिः। १.५१।

@@ -30,7 +30,6 @@ both verses precisely as RV., and LśS. differs from it only by having
 I bid thee tell me earth's extremest limit, about the Stallion's genial flow I ask thee; I ask about the universe's centre, and touching highest heaven where Speech abideth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृच्छामि। त्वा। परम्। अन्तम्। पृथिव्याः। पृच्छामि। वृष्णः। अश्वस्य। रेतः। पृच्छामि। विश्वस्य। भुवनस्य। नाभिम्। पृच्छामि। वाचः। परमम्। विऽओम। १५.१३।

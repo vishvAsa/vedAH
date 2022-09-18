@@ -38,10 +38,9 @@ perhaps *níd ṛṇám*.⌋
 Stern viewers of their sins who rule the people, forgive us what hash happened as we gambled. Not urging us to pay the debt we owed him, he with a cord hath gone to Yama's kingdom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उग्रंपश्ये इत्युग्रम्ऽपश्ये। राष्ट्रऽभृत्। किल्बिषाणि। यत्। अक्षऽवृत्तम्। अनु। दत्तम्। न:। एतत्। ऋणात्। न:। न। ऋणम्। एर्त्समान:। यमस्य। लोके। अधिऽरज्जु:। आ। अयत्। ११८.२।
+उग्रंपश्ये इत्युग्रम्ऽपश्ये। राष्ट्रऽभृत्। किल्बिषाणि। यत्। अक्षऽवृत्तम्। अनु। दत्तम्। नः। एतत्। ऋणात्। नः। न। ऋणम्। एर्त्समानः। यमस्य। लोके। अधिऽरज्जुः। आ। अयत्। ११८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

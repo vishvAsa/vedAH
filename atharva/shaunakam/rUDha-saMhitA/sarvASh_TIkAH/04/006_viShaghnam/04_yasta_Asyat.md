@@ -30,10 +30,9 @@ based on senseless etymologies). In **a**, Ppp. reads *-gulis*.
 Whoever with five fingers hath discharged thee from the crooked bow, I from the shaft have charmed away the poison of the fastening band.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। आस्यत्। पञ्चऽअङ्गुरि:। वक्रात्। चित्। अधि। धन्वन:। अपऽस्कम्भस्य। शल्यात्। नि:। अवोचम्। अहम्। विषम्। ६.४।
+यः। ते। आस्यत्। पञ्चऽअङ्गुरिः। वक्रात्। चित्। अधि। धन्वनः। अपऽस्कम्भस्य। शल्यात्। निः। अवोचम्। अहम्। विषम्। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

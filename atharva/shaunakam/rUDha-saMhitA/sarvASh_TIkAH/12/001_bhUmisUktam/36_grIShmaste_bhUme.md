@@ -24,7 +24,6 @@ measure out the sacrificial hearth. ⌊Cf. 137. 4, note.⌋
 Earth, may thy summer, and thy rains, and autumn, thy winter, and thy dewy frosts, and spring-time. May thy years, Prithivi! and ordered seasons, and day and night pour out for us abundance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ग्रीष्मः। ते। भूमे। वर्षाणि। शरत्। हेमन्तः। शिशिरः। वसन्तः। ऋतवः। ते। विऽहिताः। हायनीः। अहोरात्रे इति। पृथिवि। नः। दुहाताम्। १.३६।

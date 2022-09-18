@@ -22,10 +22,9 @@ addition damages the meter of the *pāda*, but the Anukr. overlooks this.
 On these men yonder fall the winged missile: the screeching of the Owl is ineffective, And that the Dove beside the fire hath settled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमून्। हेति:। पतत्रिणी। नि। एतु। यत्। उलूक:। वदति। मोघम्। एतत्। यत्। वा। कपोत:। पदम्। अग्नौ। कृणोति। २९.१।
+अमून्। हेतिः। पतत्रिणी। नि। एतु। यत्। उलूकः। वदति। मोघम्। एतत्। यत्। वा। कपोतः। पदम्। अग्नौ। कृणोति। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

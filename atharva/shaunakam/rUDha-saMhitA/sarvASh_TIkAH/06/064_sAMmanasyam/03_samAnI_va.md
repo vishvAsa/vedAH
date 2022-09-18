@@ -21,10 +21,9 @@ easily supplied.⌋
 One and the same be your resolve, be all your hearts in har- mony: One and the same be all your minds that all may happily con- sent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समानी। व:। आऽकूति:। समाना। हृदयानि। व:। समानम्। अस्तु। व:। मन:। यथा। व:। सुऽसह। असति। ६४.३।
+समानी। वः। आऽकूतिः। समाना। हृदयानि। वः। समानम्। अस्तु। वः। मनः। यथा। वः। सुऽसह। असति। ६४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -36,10 +36,9 @@ gave *āspand-*. The blunder is easy for the eye, not for the ear.⌋
 A spacious store, O House, art thou, full of clean corn and lofty-roofed. Let the young calf and little boy approach thee, and milch-kine streaming homeward in the evening.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धरुणी। असि। शाले। बृहत्ऽछन्दा:। पूतिऽधान्या। आ। त्वा। वत्स:। गमेत्। आ। कुमार:। आ। धेनव:। सायम्। आऽस्पन्दमाना:। १२.३।
+धरुणी। असि। शाले। बृहत्ऽछन्दाः। पूतिऽधान्या। आ। त्वा। वत्सः। गमेत्। आ। कुमारः। आ। धेनवः। सायम्। आऽस्पन्दमानाः। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

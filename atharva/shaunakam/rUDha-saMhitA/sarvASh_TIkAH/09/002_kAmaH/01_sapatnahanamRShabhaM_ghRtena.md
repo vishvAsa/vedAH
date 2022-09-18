@@ -20,10 +20,9 @@ hymn that the word is better transferred than translated.
 Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation. Beneath my feet cast down mine adversaries with thy great manly power, when I have praised thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सपत्नऽहनम्। ऋषभम्। घृतेन। कामम्। शिक्षामि। हविषा। आज्येन। नीचै:। सऽपत्नान्। मम। पादय। त्वम्। अभिऽस्तुत:। महता। वीर्येण। २.१।
+सपत्नऽहनम्। ऋषभम्। घृतेन। कामम्। शिक्षामि। हविषा। आज्येन। नीचैः। सऽपत्नान्। मम। पादय। त्वम्। अभिऽस्तुतः। महता। वीर्येण। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

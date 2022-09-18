@@ -20,10 +20,9 @@ In Ppp., the *a* of *abhūt* in **d** is elided. The comm. reads
 Thou art a grasper, holding fast both hands: drivest fiends away. A holder both of progeny and riches hath this Ring become.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यन्ता। असि। यच्छसे। हस्तौ। अप। रक्षांसि। सेधसि। प्रऽजाम्। धनम्। च। गृह्णान:। परिऽहस्त:। अभूत्। अयम्। ८१.१।
+यन्ता। असि। यच्छसे। हस्तौ। अप। रक्षांसि। सेधसि। प्रऽजाम्। धनम्। च। गृह्णानः। परिऽहस्तः। अभूत्। अयम्। ८१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

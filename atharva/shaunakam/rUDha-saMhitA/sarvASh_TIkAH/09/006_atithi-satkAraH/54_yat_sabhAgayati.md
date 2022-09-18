@@ -19,7 +19,6 @@ sacrifice (*ud-ava-sā*).
 When he distributes food he distributes priestly fees; what he performs he asks as favour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। सभागयति। दक्षिणाः। सभागयति। यत्। अनुऽतिष्ठते। उत्ऽअवस्यति। एव। तत्। ११.६।

@@ -32,10 +32,9 @@ for *udumbalaṁ tuṇḍelam, adaraṁ sulatuṇḍenam*.
 The Bristly-haired, the Maniac-haired, the Biter, and the Groper-fiend, The Creeper-near, the Copper-hued, the Snouty, and the Saluda, With foot and heel kick over, as a hasty cow her milking-pan.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽहर्षिणम्। मुनिऽकेशम्। जम्भयन्तम्। मरीमृशम्। उपऽएषन्तम्। उदुम्बलम्। तुण्डेलम्। उत। शालुडम्। पदा। प्र। विध्य। पार्ष्ण्या। स्थालीम्। गौ:ऽइव। स्पन्दना। ६.१७।
+उत्ऽहर्षिणम्। मुनिऽकेशम्। जम्भयन्तम्। मरीमृशम्। उपऽएषन्तम्। उदुम्बलम्। तुण्डेलम्। उत। शालुडम्। पदा। प्र। विध्य। पार्ष्ण्या। स्थालीम्। गौःऽइव। स्पन्दना। ६.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ distress.
 Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we call: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गन्धर्वऽअप्सरसः। ब्रूमः। अश्विना। ब्रह्मणः। पतिम्। अर्यमा। नाम। यः। देवः। ते। नः। मुञ्चन्तु। अंहसः। ८.४।

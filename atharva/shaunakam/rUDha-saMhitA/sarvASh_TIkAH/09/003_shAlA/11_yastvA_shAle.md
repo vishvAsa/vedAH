@@ -19,10 +19,9 @@ Ppp. reads *pūrvas* for *śāle* in **a**.
 He who collected timber for the work and built thee up, O House, Made thee for coming progeny, Prajapati, the Lord Supreme.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। शाले। निऽमिमाय। सम्ऽजभार। वनस्पतीन्। प्रऽजायै। चक्रे। त्वा। शाले। परमेऽस्थी। प्रजाऽपति:। ३.११।
+यः। त्वा। शाले। निऽमिमाय। सम्ऽजभार। वनस्पतीन्। प्रऽजायै। चक्रे। त्वा। शाले। परमेऽस्थी। प्रजाऽपतिः। ३.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

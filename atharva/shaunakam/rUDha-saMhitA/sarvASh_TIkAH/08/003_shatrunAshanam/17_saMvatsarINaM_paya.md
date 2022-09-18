@@ -23,10 +23,9 @@ this time) for *vidhya* in **d**, and *marman* after it.
 The cow gives milk each year, O Man-Beholder: let not the Yatudhana ever taste it. Agni, if one should glut him with the biestings, pierce with thy flame his vitals as he meets thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवत्सरीणम्। पय:। उस्रियाया:। तस्य। मा। आशीत्। यातुऽधान:। नृऽचक्ष:। पीयूषम्। अग्ने। यतम:। तितृप्सात्। तम्। प्रत्यञ्चम्। अर्चिषा। विध्य। मर्मणि। ३.१७।
+सम्ऽवत्सरीणम्। पयः। उस्रियायाः। तस्य। मा। आशीत्। यातुऽधानः। नृऽचक्षः। पीयूषम्। अग्ने। यतमः। तितृप्सात्। तम्। प्रत्यञ्चम्। अर्चिषा। विध्य। मर्मणि। ३.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

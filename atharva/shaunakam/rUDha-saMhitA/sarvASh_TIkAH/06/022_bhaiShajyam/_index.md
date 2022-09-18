@@ -7,7 +7,6 @@ title = "०२२ भैषज्यम्"
 22. To the Maruts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
@@ -18,8 +17,6 @@ title = "०२२ भैषज्यम्"
 
 [śaṁtāti.—ādityaraśmidevatya[m]. mārutam. trāiṣṭubham: 2. 4-p. bhurigjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 463 ⌊vss. 1-2⌋; Florenz, 276 or 28; Griffith, i. 256.
 
 To the Maruts or Storm-Gods
 </details>
+

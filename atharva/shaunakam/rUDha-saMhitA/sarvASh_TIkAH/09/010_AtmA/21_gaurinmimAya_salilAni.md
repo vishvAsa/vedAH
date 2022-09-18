@@ -27,7 +27,6 @@ being a proper *atiśakvarī* (60 syllables).
 Forming the water-floods the Cow herself hath lowed, one-foot- ed or two-footed or four-footed, she, Who hath become eight-footed or acquired nine feet, the uni- verse's thousand-syllabled Pankti. From her descend in streams the seas of water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गौः। इत्। मिमाय। सलिलानि। तक्षती। एकऽपदी। द्विऽपदी। सा। चतुःऽपदी। अष्टाऽपदी। नवऽपदी। बभूवुषी। सहस्रऽअक्षरा। भुवनस्य। पङ्क्तिः। तस्याः। समुद्राः। अधि। वि। क्षरन्ति। १५.२१।

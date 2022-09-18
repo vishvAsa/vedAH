@@ -7,7 +7,6 @@ title = "०६२ शत्रुनाशनम्"
 62 (64). To Agni: against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०६२ शत्रुनाशनम्"
 
 [Kaśyapa Mārīca.—āgneyam. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 24, 88; Griffith, i. 357.
 
 A prayer for the overthrow of enemies
 </details>
+

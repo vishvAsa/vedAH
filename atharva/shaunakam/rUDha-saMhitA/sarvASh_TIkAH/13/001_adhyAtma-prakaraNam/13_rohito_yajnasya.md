@@ -27,7 +27,6 @@ the Anukr. ⌊52 syllables⌋ ⌊nearly⌋ fits it mechanically.
 Rohita is the sire and mouth of worship: to him with voice, ear, heart I pay oblation. To Rohita come Gods with joyful spirit. May he by risings raise me till I join him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। यज्ञस्य। जनिता। मुखम्। च। रोहिताय। वाचा। श्रोत्रेण। मनसा। जुहोमि। रोहितम्। देवाः। यन्ति। सुऽमनस्यमानाः। सः। मा। रोहैः। साम्ऽइत्यै। रोहयतु। १.१३।

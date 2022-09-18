@@ -22,10 +22,9 @@ might be suggested as yet more probable.
 Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quells him who curses us. Sages know well that this is so.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। वै। न:। पदऽवाय:। सोम:। दायाद:। उच्यते। हन्ता। अभिऽशस्ता। इन्द्र। तथा। तत्। वेधस:। विदु:। १८.१४।
+अग्निः। वै। नः। पदऽवायः। सोमः। दायादः। उच्यते। हन्ता। अभिऽशस्ता। इन्द्र। तथा। तत्। वेधसः। विदुः। १८.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

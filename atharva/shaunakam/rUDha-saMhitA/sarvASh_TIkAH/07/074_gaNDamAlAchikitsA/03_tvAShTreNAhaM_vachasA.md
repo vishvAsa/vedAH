@@ -19,10 +19,9 @@ Some of the mss. (including our W.) combine *manyús te* in **c**.
 With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate and pacify the anger that thou feltest, Lord!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वाष्ट्रेण। अहम्। वचसा। वि। ते। ईर्ष्याम्। अमीमदम्। अथो इति। य:। मन्यु:। ते। पते। तम्। ऊं इति। ते। शमयामसि। ७८.३।
+त्वाष्ट्रेण। अहम्। वचसा। वि। ते। ईर्ष्याम्। अमीमदम्। अथो इति। यः। मन्युः। ते। पते। तम्। ऊं इति। ते। शमयामसि। ७८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

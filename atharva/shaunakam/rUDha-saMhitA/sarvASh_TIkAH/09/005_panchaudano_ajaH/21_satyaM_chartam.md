@@ -27,10 +27,9 @@ the metrical definition of vss. 20-22 and vs. 25.
 His eyes were Truth and Right. The whole together was Truth: Viraj his head and Faith his breathing. This Goat Panchaudana was indeed a sacrifice unlimited.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सत्यम्। च। ऋतम्। च। चक्षुषी इति। विश्वम्। सत्यम्। श्रध्दा। प्राण:। विऽराट्। शिर:। एष:। वै। अपरिऽमित:। यज्ञ:। यत्। अज:। पञ्चऽओदन:। ५.२१।
+सत्यम्। च। ऋतम्। च। चक्षुषी इति। विश्वम्। सत्यम्। श्रध्दा। प्राणः। विऽराट्। शिरः। एषः। वै। अपरिऽमितः। यज्ञः। यत्। अजः। पञ्चऽओदनः। ५.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

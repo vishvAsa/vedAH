@@ -20,10 +20,9 @@ same.
 As in a ship across the flood, transport us to felicity. His lustre flash our pain away
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। न:। सिन्धुम्ऽइव। नावा। अति। पर्ष। स्वस्तये। अप। न:। शोशुचत्। अघम्। ३३.८।
+सः। नः। सिन्धुम्ऽइव। नावा। अति। पर्ष। स्वस्तये। अप। नः। शोशुचत्। अघम्। ३३.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

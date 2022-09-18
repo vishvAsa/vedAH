@@ -31,10 +31,9 @@ have *ví* for *sám* in **c**, and TS. *ketúṁ kṛṇvāné* for *ketumátī
 Both Dawns on wings of song, with rich adornment, move on together to their common dwelling. Surya's two wives, unwasting, most prolific, knowing their way, move, rich in light, together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-छन्द:पक्षे इति छन्द:ऽपक्षे। उषसा। पेपिशाने  इति। समानम्। योनिम्। अनु। सम्। चरेते  इति। सूर्यपत्नी इति  सूर्यऽपत्नी। सम्। चरत:। प्रजानती इति  प्रऽजानती। केतुमती इति केतुऽमती। अजरे इति। भूरिऽरेतसा। ९.१२।
+छन्दःपक्षे इति छन्दःऽपक्षे। उषसा। पेपिशाने  इति। समानम्। योनिम्। अनु। सम्। चरेते  इति। सूर्यपत्नी इति  सूर्यऽपत्नी। सम्। चरतः। प्रजानती इति  प्रऽजानती। केतुमती इति केतुऽमती। अजरे इति। भूरिऽरेतसा। ९.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०३४ शत्रुनाशनम्"
 34. Praise and prayer to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३४ शत्रुनाशनम्"
 
 [Cātana.—⌊pañcarcam.⌋ agnidāivatam. gāyatram.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Florenz, 294 or 46; Griffith, i. 263.
 
 To Agni for protection from enemies
 </details>
+

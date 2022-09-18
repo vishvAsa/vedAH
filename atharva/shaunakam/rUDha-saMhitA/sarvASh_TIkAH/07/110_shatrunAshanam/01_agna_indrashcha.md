@@ -26,10 +26,9 @@ vs. 2.⌋
 Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slayers are ye both.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। इन्द्र:। च। दाशुषे। हत:। वृत्राणि। अप्रति। उभा। हि। वृत्रहन्ऽतमा। ११५.१।
+अग्ने। इन्द्रः। च। दाशुषे। हतः। वृत्राणि। अप्रति। उभा। हि। वृत्रहन्ऽतमा। ११५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

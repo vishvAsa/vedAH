@@ -20,10 +20,9 @@ resolution in **c**.
 I give thee over to old age, make thee the subject of old age. Let kindly old age lead thee on. Let all the other deaths, whereof men count a hundred, pass away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जरायै। त्वा। परि। ददामि। जरायै। नि। धुवामि। त्वा। जरा। त्वा। भद्रा। नेष्ट। वि। अन्ये। यन्तु। मृत्यव:। यान्। आहु:। इतरान्। शतम्। ११.७।
+जरायै। त्वा। परि। ददामि। जरायै। नि। धुवामि। त्वा। जरा। त्वा। भद्रा। नेष्ट। वि। अन्ये। यन्तु। मृत्यवः। यान्। आहुः। इतरान्। शतम्। ११.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

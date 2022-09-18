@@ -29,10 +29,9 @@ measure."⌋
 May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled riches in our homes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। न:। नभस:। पति:। सम्ऽस्फान:। अभि। रक्षतु। असमातिम्। गृहेषु। न:। ७९.१।
+अयम्। नः। नभसः। पतिः। सम्ऽस्फानः। अभि। रक्षतु। असमातिम्। गृहेषु। नः। ७९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

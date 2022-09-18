@@ -18,7 +18,6 @@ mind—with that pierce thou the sorcerers in the heart.
 What curse soever couples launch against us, whatever bitter speech the chatterers utter, With Manyu's arrow, offspring of the spirit, transfix thou to the heart the Yatudhanas,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अग्ने। अद्य। मिथुना। शपातः। यत्। वाचः। तृष्टम्। जनयन्त। रेभाः। मन्योः। मनसः। शरव्या। जायते। या। तया। विध्य। हृदये। यातुऽधानान्। ५.४८।

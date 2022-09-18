@@ -22,10 +22,9 @@ has *pannagās* (*pādena na gacchantaḥ*); for *pādaya* in **c**,
 Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant, cast each away who, not her husband, would approach this woman wedded to her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर्यस्तऽअक्षा:। अप्रऽचङ्कशा:। अस्त्रैणा:। सन्तु। पण्डगा:। अव। भेषज। पादय। य:। इमाम्। सम्ऽविवृत्सति। अपति:। स्वपतिम्। स्त्रियम्। ६.१६।
+पर्यस्तऽअक्षाः। अप्रऽचङ्कशाः। अस्त्रैणाः। सन्तु। पण्डगाः। अव। भेषज। पादय। यः। इमाम्। सम्ऽविवृत्सति। अपतिः। स्वपतिम्। स्त्रियम्। ६.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

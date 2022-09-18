@@ -21,10 +21,9 @@ of verse 4.
 With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni save thee! And in accordance with the plants may silver, regarding thee with favour, grant thee vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भूमि:। त्वा। पातु। हरितेन। विश्वऽभृत्। अग्नि:। पिपर्तु। अयसा। सऽजोषा:। वीरुत्ऽभि:। ते। अर्जुनम्। सम्ऽविदानम्। दक्षम्। दधातु। सुऽमनस्यमानम्। २८.५।
+भूमिः। त्वा। पातु। हरितेन। विश्वऽभृत्। अग्निः। पिपर्तु। अयसा। सऽजोषाः। वीरुत्ऽभिः। ते। अर्जुनम्। सम्ऽविदानम्। दक्षम्। दधातु। सुऽमनस्यमानम्। २८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

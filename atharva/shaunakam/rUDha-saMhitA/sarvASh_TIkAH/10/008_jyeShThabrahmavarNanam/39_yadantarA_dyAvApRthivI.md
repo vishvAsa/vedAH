@@ -23,7 +23,6 @@ the only one' for *ékapatnīs* is against the accent.
 When Agni passed between the earth and heaven devouring with his flame the all-consumer, Where dwelt afar the spouses of one husband, where at that moment, where was Matarisvan?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अन्तरा। द्यावाथिवी इति। अग्निः। ऐत्। प्रऽदहन्। विश्वऽदाव्यः। यत्र। अतिष्ठन्। एकऽपत्नीः। परस्तात्। क्वऽइव। आसीत्। मातरिश्वा। तदानीम्। ८.३९।

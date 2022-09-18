@@ -7,7 +7,6 @@ title = "००४ कुष्ठतक्मनाशनम्"
 4. To the plant kúṣṭha: against takmán ⌊fever⌋.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कुष्ठतक्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "००४ कुष्ठतक्मनाशनम्"
 
 [Bhṛgvan̄giras.—daśakam. yakṣmanāśanakuṣṭhadevatyam. ānuṣṭubham: 5. bhurij; 6. gāyatrī; 10. uṣṇiggarbhā nicṛt.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grohmann, Indische Studien, ix. 421 (vss. 1, 3-6); Zimmer, p. 64 (pa
 
 A charm against fever and other ailments
 </details>
+

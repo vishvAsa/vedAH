@@ -22,10 +22,9 @@ character of this verse and of vs. 14.
 Let lightning flash on every side: from all the regions blow the winds! Urged by the Maruts let the clouds pour down their rain upon the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आशाम्ऽआाशाम्। वि। द्योतताम्। वाता:। वान्तु। दिश:ऽदिश:। मरुत्ऽभि:। प्रऽच्युता:। मेघा:। सम्। यन्तु। पृथिवीम्। अनु। १५.८।
+आशाम्ऽआाशाम्। वि। द्योतताम्। वाताः। वान्तु। दिशःऽदिशः। मरुत्ऽभिः। प्रऽच्युताः। मेघाः। सम्। यन्तु। पृथिवीम्। अनु। १५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

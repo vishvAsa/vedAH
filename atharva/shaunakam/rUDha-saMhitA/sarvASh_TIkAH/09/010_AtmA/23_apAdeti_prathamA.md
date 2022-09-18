@@ -24,7 +24,6 @@ reads *ād ṛtasya*.
 The footless Maid precedeth footed creatures. Who marketh, Mitra Varuna! this your doing? The Babe unborn supporteth this world's burthen, supporteth Right and watcheth Wrong and Falsehood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपात्। एति। प्रथमा। पत्ऽवतीनाम्। कः। तत्। वाम्। मित्रावरुणा। आ। चिकेत। गर्भः। भारम्। भरति। आ। चित्। अस्याः। ऋतम्। पिपर्ति। अनृतम्। नि। पाति। १५.२३।

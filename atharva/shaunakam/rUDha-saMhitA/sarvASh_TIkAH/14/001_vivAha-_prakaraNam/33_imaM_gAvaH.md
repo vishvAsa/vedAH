@@ -22,7 +22,6 @@ kine.
 Come, O ye Cows, with offspring dwell around him: he doth not stint the Gods' alloted portion. To him, your friend, may Pushan, all the Maruts, to him may Dhatar, Savitar send vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। गावः। प्रऽजया। सम्। विशाथ। अयम्। देवानाम्। न। मिनाति। भागम्। अस्मै। वः। पूषा। मरुतः। च। सर्वे। अस्मै। वः। धाता। सविता। सुवाति। १.३३।

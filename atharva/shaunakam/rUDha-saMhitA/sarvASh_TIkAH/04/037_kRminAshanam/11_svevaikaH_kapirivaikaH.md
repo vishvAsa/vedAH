@@ -25,10 +25,9 @@ absence of interpunction after *stríyas.*
 Youthful, completely decked with hair, one monkey-like, one like a dog,-- So the Gandharva, putting on a lovely look, pursues a dame. Him with an efficacious charm we scare and cause to vanish hence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्वाऽइव। एक:। कपि:ऽइव। एक:। कुमार:। सर्वऽकेशक:। प्रिय:। दृशेऽइव। भूत्वा। गन्धर्व:। सचते। स्त्रिय:। तम्। इत:। नाशयामसि। ब्रह्मणा। वीर्यवता। ३७.११।
+श्वाऽइव। एकः। कपिःऽइव। एकः। कुमारः। सर्वऽकेशकः। प्रियः। दृशेऽइव। भूत्वा। गन्धर्वः। सचते। स्त्रियः। तम्। इतः। नाशयामसि। ब्रह्मणा। वीर्यवता। ३७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

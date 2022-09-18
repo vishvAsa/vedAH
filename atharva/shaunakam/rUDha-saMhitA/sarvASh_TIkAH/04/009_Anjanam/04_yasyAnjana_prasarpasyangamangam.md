@@ -39,10 +39,9 @@ the comm.⌋
 Whomso thou creepest over, Salve! member by member, joint by joint, From him, like some strong arbiter of strife, thou banishest decline.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। आऽअञ्जन। प्रऽसर्पसि। अङ्गम्ऽअङ्गम्। परु:ऽपरु:। तत:। यक्ष्मम्। वि। बाधसे। उग्र:। मध्यमशी:ऽइव। ९.४।
+यस्य। आऽअञ्जन। प्रऽसर्पसि। अङ्गम्ऽअङ्गम्। परुःऽपरुः। ततः। यक्ष्मम्। वि। बाधसे। उग्रः। मध्यमशीःऽइव। ९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

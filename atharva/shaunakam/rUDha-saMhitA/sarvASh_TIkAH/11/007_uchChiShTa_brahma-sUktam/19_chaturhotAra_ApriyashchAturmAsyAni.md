@@ -20,7 +20,6 @@ Tádiṣṭayaḥ at the end in our edition is a misprint for *tád íṣṭaya�
 And the four Hotars, Apri hymns, the Nivids, and Four- monthly rites, Oblations, sacrifices, and animal offerings, and their forms.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुःऽहोतारः। आप्रिय। चातुःऽमास्यानि। निऽविदः। उत्ऽशिष्टे। यज्ञाः। होत्राः। पशुऽबन्धाः। तत्। इष्टयः। ९.१९।

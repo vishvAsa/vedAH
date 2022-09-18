@@ -7,7 +7,6 @@ title = "०४० अभयम्"
 40. For freedom from fear.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
@@ -18,8 +17,6 @@ title = "०४० अभयम्"
 
 [Atharvan (?: 1-2. abhayakāmaḥ; 3. svastyayanakāmaḥ).—1-2. mantroktadevatye. jagatyāu. 3. āindrī. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 373, also 242; Florenz, 300 or 52; Griffith, i. 266.
 
 A prayer for peace and security
 </details>
+

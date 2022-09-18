@@ -20,10 +20,9 @@ balances the deficiencies of **a, b** by the redundancies of **c, d**.⌋
 The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So will we bring oblation unto Agni, this sacrifice that I may win all battles.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभिऽभू:। यज्ञ:। अभि:ऽभू:। अग्नि:। अभिऽभू:। सोम:। अभिऽभू:। इन्द्र:। अभि। अहम्। विश्वा:। पृतना:। यथा। असानि। एव। विधेम। अग्निऽहोत्रा:। इदम्। हवि:। ९७.१।
+अभिऽभूः। यज्ञः। अभिःऽभूः। अग्निः। अभिऽभूः। सोमः। अभिऽभूः। इन्द्रः। अभि। अहम्। विश्वाः। पृतनाः। यथा। असानि। एव। विधेम। अग्निऽहोत्राः। इदम्। हविः। ९७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

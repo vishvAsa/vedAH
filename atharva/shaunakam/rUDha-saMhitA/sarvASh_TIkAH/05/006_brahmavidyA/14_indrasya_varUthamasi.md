@@ -20,10 +20,9 @@ contains not far from 40 syllables.
 Indra's protection art thou. I betake me to thee, I enter thee with all my cattle. With all my people and with all my body, with all my soul, with mine entire possessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। वरूथम्। असि। तम्। त्वा। प्र। पद्ये। तम्। त्वा। विशामि। सर्वऽगु:। सर्वऽपुरुष:। सर्वऽआत्मा। सर्वऽतनू:। सह। यत्। मे। अस्ति। तेन। ६.१४।
+इन्द्रस्य। वरूथम्। असि। तम्। त्वा। प्र। पद्ये। तम्। त्वा। विशामि। सर्वऽगुः। सर्वऽपुरुषः। सर्वऽआत्मा। सर्वऽतनूः। सह। यत्। मे। अस्ति। तेन। ६.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

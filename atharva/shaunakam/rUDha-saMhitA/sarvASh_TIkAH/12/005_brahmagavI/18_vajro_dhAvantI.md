@@ -17,7 +17,6 @@ title = "१८ वज्रो धावन्ती"
 Running she is a thunderbolt, when driven away she is Vaisva- nara;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वज्रः। धावन्ती। वैश्वानरः। उत्ऽवीता। ७.७।

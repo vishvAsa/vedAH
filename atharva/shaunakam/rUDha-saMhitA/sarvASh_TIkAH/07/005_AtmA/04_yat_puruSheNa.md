@@ -27,10 +27,9 @@ question.
 With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more potent still they paid with the invoking hymn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। पुरुषेण। हविषा। यज्ञम्। देवा:। अतन्वत। अस्ति। नु। तस्मात्। ओजीय:। यत्। विऽहव्येन। ईजिरे। ५.४।
+यत्। पुरुषेण। हविषा। यज्ञम्। देवाः। अतन्वत। अस्ति। नु। तस्मात्। ओजीयः। यत्। विऽहव्येन। ईजिरे। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

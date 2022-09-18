@@ -30,10 +30,9 @@ this is a root-class imperative, *nikṣ-ṣva*.⌋
 Thy two unwasting horns, O Jatavedas, keen-pointed weapons, sharpened by devotion With these transfix the wicked-souled Kimidin, with fierce flame, Jatavedas! when he meets thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये इति। ते। शृङ्गे इति। अजरे इति। जातऽवेद:। तिग्महेती इति तिग्मऽहेती। ब्रह्मसंशिते  इति  ब्रह्मऽसशिते। ताभ्याम्। दु:ऽहार्दम्। अभिऽदासन्तम्। किमीदिनम्। प्रत्यञ्चम्। अर्चिषा। जातऽवेद:। वि। निक्ष्व। ३.२५।
+ये इति। ते। शृङ्गे इति। अजरे इति। जातऽवेदः। तिग्महेती इति तिग्मऽहेती। ब्रह्मसंशिते  इति  ब्रह्मऽसशिते। ताभ्याम्। दुःऽहार्दम्। अभिऽदासन्तम्। किमीदिनम्। प्रत्यञ्चम्। अर्चिषा। जातऽवेदः। वि। निक्ष्व। ३.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

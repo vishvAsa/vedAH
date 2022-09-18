@@ -22,7 +22,6 @@ man-:* Ppp. combines in **b** *aparaṣ p-*. ⌊Cf. MP. i. 3. 1.⌋
 She was the wife of Soma first: next the Gandharva was thy lord. Agni was the third husband: now one born of woman is thy fourth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमस्य। जाया। प्रथमम्। गन्धर्वः। ते। अपरः। पतिः। तृतीयः। अग्निः। ते। पतिः। तुरीयः। ते। मनुष्यऽजाः। २.३।

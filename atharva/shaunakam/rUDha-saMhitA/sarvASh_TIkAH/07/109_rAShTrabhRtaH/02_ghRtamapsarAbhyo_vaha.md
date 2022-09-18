@@ -27,10 +27,9 @@ may be beaten.
 Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and water. The Gods delight in both oblations, joying in sacrificial gifts apportioned duly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घृतम्। अप्सराभ्य:। वह। त्वम्। अग्ने। पांसून्। अक्षेभ्य:। सिकता:। अप:। च। यथाऽभागम्। हव्यऽदातिम्। जुषाणा:। मदन्ति। देवा:। उभयानि। हव्या। ११४.२।
+घृतम्। अप्सराभ्यः। वह। त्वम्। अग्ने। पांसून्। अक्षेभ्यः। सिकताः। अपः। च। यथाऽभागम्। हव्यऽदातिम्। जुषाणाः। मदन्ति। देवाः। उभयानि। हव्या। ११४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

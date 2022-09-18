@@ -20,10 +20,9 @@ TB. has in the refrain *ā́ ’gan* (or *ā́ gan*) for *āt ’tu*.
 What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya, And the blest Goddess who gave birth to Indra, come unto us conjoined with strength and vigour!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिंहे। व्याघ्रे। उत। या। पृदाकौ। त्विषि:। अग्नौ। ब्राह्मणे। सूर्ये। या। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। न:। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.१।
+सिंहे। व्याघ्रे। उत। या। पृदाकौ। त्विषिः। अग्नौ। ब्राह्मणे। सूर्ये। या। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

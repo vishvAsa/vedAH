@@ -7,7 +7,6 @@ title = "००८ अध्यात्मम्"
 8. Mystic: especially on the constitution of man.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
@@ -18,8 +17,6 @@ title = "००८ अध्यात्मम्"
 
 [Kāurupathi.—catustriṅśat. adhyātmamanyudāivatam. ānuṣṭubham: 33. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 402; Scherman, p. 67 (8 vss.); Deussen, Geschichte, i. 1.
 
 On the origin of some Gods and the creation of man
 </details>
+

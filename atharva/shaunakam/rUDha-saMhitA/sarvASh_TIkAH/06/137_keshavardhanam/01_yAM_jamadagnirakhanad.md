@@ -20,10 +20,9 @@ name, as also *ásitasya* (=*kṛṣṇakeśasyāi ’tatsaṁjñasya muneḥ*).
 The Plant which Jamadagni dug to make his daughter's locks. grow long, This same hath Vitahavya brought to us from Asita's abode.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। जमत्ऽअग्नि:। अखनत्। दुहित्रे। केशऽवर्धनीम्। ताम्। वीतऽहव्य:। आ। अभरत्। असितस्य। गृहेभ्य:। १३७.१।
+याम्। जमत्ऽअग्निः। अखनत्। दुहित्रे। केशऽवर्धनीम्। ताम्। वीतऽहव्यः। आ। अभरत्। असितस्य। गृहेभ्यः। १३७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

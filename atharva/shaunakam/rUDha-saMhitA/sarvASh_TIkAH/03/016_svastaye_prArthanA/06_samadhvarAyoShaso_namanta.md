@@ -24,10 +24,9 @@ appears to sanction the abbreviation *rátham ’va* in **d**.
 To this our sacrifice may the Dawns incline them, and come to the pure place like Dadhikravan. As strong steeds draw a chariot may they bring me hitherward Bhaga who discovers treasure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। अध्वराय। उषस:। नमन्त। दधिक्रावाऽइव। शुचये। पदाय। अर्वाचीनम्। वसुऽविदम्। भगम्। मे। रथम्ऽइव। अश्वा:। वाजिन:। आ। वहन्तु। १६.६।
+सम्। अध्वराय। उषसः। नमन्त। दधिक्रावाऽइव। शुचये। पदाय। अर्वाचीनम्। वसुऽविदम्। भगम्। मे। रथम्ऽइव। अश्वाः। वाजिनः। आ। वहन्तु। १६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

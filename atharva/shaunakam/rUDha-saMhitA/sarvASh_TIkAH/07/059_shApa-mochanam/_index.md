@@ -7,7 +7,6 @@ title = "०५९ शाप-मोचनम्"
 59 (61). Against cursers.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शाप-मोचनम्।  
@@ -18,8 +17,6 @@ title = "०५९ शाप-मोचनम्"
 
 [Bādarāyaṇi.—arināśanamantroktadevatākam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 23, 86; Griffith, i. 355.
 
 An imprecation
 </details>
+

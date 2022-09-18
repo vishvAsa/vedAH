@@ -32,10 +32,9 @@ defaces the meter, though unnoticed by the Anukr. Ppp. has *ajayanta*
 Thus spake of her those Gods of old, Seven Rishis, who sate them down to their austere devotion: Dire is a Brahman's wife led home by others: in the supremest heaven she plants confusion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। वै। एतस्याम्। अवदन्त। पूर्वे। सप्तऽऋषय:। तपसा। ये। निऽसेदु:। भीमा। जाया। ब्राह्मणस्य। अपऽनीता। दु:ऽधाम्। दधाति। परमे। विऽओमन्। १७.६।
+देवाः। वै। एतस्याम्। अवदन्त। पूर्वे। सप्तऽऋषयः। तपसा। ये। निऽसेदुः। भीमा। जाया। ब्राह्मणस्य। अपऽनीता। दुःऽधाम्। दधाति। परमे। विऽओमन्। १७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

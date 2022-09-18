@@ -7,7 +7,6 @@ title = "०२१ शत्रुनिवारणम्"
 21. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -18,8 +17,6 @@ title = "०२१ शत्रुनिवारणम्"
 
 [Atharvan.—āindram. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 414; Griffith, i. 25.
 
 A prayer to Indra for protection
 </details>
+

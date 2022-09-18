@@ -21,10 +21,9 @@ comm. has *upa* instead of *apa*. He glosses *khargálā* with *ulūkī*.
 She too who wanders like an owl at night-time, hiding her body in her guile and malice, May she fall downward into endless caverns. May press-stones with loud ring destroy the demons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। या। जिगाति। खर्गलाऽइव। नक्तम्। अप। द्रुहु:। तन्वम्। गूहमाना। वव्रम्। अनन्तम्। अव। सा। पदीष्ट। ग्रावाण:। घ्नन्तु। रक्षस:। उपब्दै:। ४.१७।
+प्र। या। जिगाति। खर्गलाऽइव। नक्तम्। अप। द्रुहुः। तन्वम्। गूहमाना। वव्रम्। अनन्तम्। अव। सा। पदीष्ट। ग्रावाणः। घ्नन्तु। रक्षसः। उपब्दैः। ४.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

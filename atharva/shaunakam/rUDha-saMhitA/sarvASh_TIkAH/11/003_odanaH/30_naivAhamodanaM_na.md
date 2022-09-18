@@ -16,7 +16,6 @@ title = "३० नैवाहमोदनं न"
 I indeed have not eaten the Odana, nor has the Odana eaten me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। एव। अहम्। ओदनम्। न। माम्। ओदनः। ३.३०।

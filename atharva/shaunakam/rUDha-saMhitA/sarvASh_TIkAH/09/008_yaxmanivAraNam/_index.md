@@ -7,7 +7,6 @@ title = "००८ यक्ष्मनिवारणम्"
 8. Against various diseases.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनिवारणम्।  
@@ -19,8 +18,6 @@ title = "००८ यक्ष्मनिवारणम्"
 
 [Bhṛgvan̄giras.—dvāviṅśakam. ⌊anena⌋ sarvaśīrṣāmayādyāmayam ⌊apākarot⌋. ānuṣṭubham: 12. anuṣṭuhgarbhā kakummatī 4-p. uṣṇih; 15. virāḍ anuṣṭubh; 21. virāṭ pathyābṛhatī; 22. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Zimmer, p. 378; Henry, 105, 141; Griffith, i. 455; Bloomfield, 45, 6
 
 A charm for the cure of various diseases connected with Consumption
 </details>
+

@@ -23,10 +23,9 @@ renders *dhriyatām* by *dhārayatu*, and **d** by
 Vayu collected these: to find their sustenance be Tvashtar's care: May Indra bless and comfort them, and Rudra look that they increase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वायु:। एना:। सम्ऽआकरत्। त्वष्टा। पोषाय। ध्रियताम्। इन्द्र:। आभ्य:। अधि। ब्रवत्। रुद्र:। भूम्ने। चिकित्सतु। १४१.१।
+वायुः। एनाः। सम्ऽआकरत्। त्वष्टा। पोषाय। ध्रियताम्। इन्द्रः। आभ्यः। अधि। ब्रवत्। रुद्रः। भूम्ने। चिकित्सतु। १४१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

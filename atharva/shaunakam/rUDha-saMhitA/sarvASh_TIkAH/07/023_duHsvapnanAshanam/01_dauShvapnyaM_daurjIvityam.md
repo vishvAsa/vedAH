@@ -17,10 +17,9 @@ title = "०१ दौष्वप्न्यं दौर्जीवित्
 The fearful dream, and indigence, the monster, the malignant hags. All female fiends of evil name and wicked tongue we drive afar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दौ:ऽस्वप्न्यम्। दौ:ऽजीवित्यम्। रक्ष:। अभ्वम्। अराय्य:। दु:ऽनाम्नी:। सर्वा:। दु:ऽवाच:। ता:। अस्मत्। नाशयामसि। २४.१।
+दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्वम्। अराय्यः। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,10 +20,9 @@ also has. The comm. further in **c** *dhattām* instead of *dattām.*
 Let Indra daze their army. Let the Maruts slay it with their might. Let Agni take their eyes away, and let the conquered host retreat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। सेनाम्। मोहयतु। मरुत:। घ्नन्तु। ओजसा। चक्षूंषि। अग्नि:। आ। दत्ताम्। पुन:। एतु। पराऽजिता। १.६।
+इन्द्रः। सेनाम्। मोहयतु। मरुतः। घ्नन्तु। ओजसा। चक्षूंषि। अग्निः। आ। दत्ताम्। पुनः। एतु। पराऽजिता। १.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

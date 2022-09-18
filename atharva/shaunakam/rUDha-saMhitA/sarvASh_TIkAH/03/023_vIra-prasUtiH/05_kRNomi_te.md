@@ -25,10 +25,9 @@ other renderings are possible ("das Zeugungswerk," Weber;
 I give thee power to bear a child: within, thee pass the germ of life! Obtain a son, O woman, who shall be a blessing unto thee. Be thou a blessing unto him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृणोमि। ते। प्राजाऽपत्यम्। आ। योनिम्। गर्भ:। एतु। ते। विन्दस्व। त्वम्। पुत्रम्। नारि। य:। तुभ्यम्। शम्। असत्। शम्। ऊं इति। तस्मै। त्वम्। भव। २३.५।
+कृणोमि। ते। प्राजाऽपत्यम्। आ। योनिम्। गर्भः। एतु। ते। विन्दस्व। त्वम्। पुत्रम्। नारि। यः। तुभ्यम्। शम्। असत्। शम्। ऊं इति। तस्मै। त्वम्। भव। २३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

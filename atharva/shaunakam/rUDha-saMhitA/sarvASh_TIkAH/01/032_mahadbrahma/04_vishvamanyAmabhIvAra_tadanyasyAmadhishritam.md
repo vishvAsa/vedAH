@@ -28,10 +28,9 @@ interpretations, from *vid* 'acquire' and from *vid* 'know.'
 This All hath compassed round the one, and on the other lies at rest. To Earth and all-possessing Heaven mine adoration have I paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वम। अन्याम्। अभिऽवार। तत्। अन्यस्याम्। अधि। श्रितम्। दिवे। च। विश्वऽवेदसे। पृथिव्यै। च। अकरम्। नम:।
+विश्वम। अन्याम्। अभिऽवार। तत्। अन्यस्याम्। अधि। श्रितम्। दिवे। च। विश्वऽवेदसे। पृथिव्यै। च। अकरम्। नमः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,7 +17,6 @@ the Brahman,—
 Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Brahman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताम्। आऽददानस्य। ब्रह्मऽगवीम्। जिनतः। ब्राह्मणम्। क्षत्रियस्य। ५.५।

@@ -7,7 +7,6 @@ title = "००३ शाला"
 3. To accompany the releasing of a house.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शाला।  
@@ -20,8 +19,6 @@ title = "००३ शाला"
 
 [Bhṛgvan̄giras.—ekatriṅśatkam. śālādevatyam. ānuṣṭubham: 6. pathyāpan̄kti; 7. paroṣṇih; 15. 3-av. 5-p. atiśakvarī; 17. prastārapan̄kti; 21. āstārapan̄kti; 25, 31. 3-p. prajāpatyā bṛhatī; 26. sāmnī triṣṭubh; 27-30. pratiṣṭhānāmagāyatrī; 23-31. 1-av. 3-p.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: Ludwig, p. 464; Zimmer, p. 151 (vss. 1-24); Grill, 60, 188 (vss. 1-2
 
 On the consecration of a newly built house
 </details>
+

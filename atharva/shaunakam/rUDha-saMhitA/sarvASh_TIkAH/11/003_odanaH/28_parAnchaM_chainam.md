@@ -17,7 +17,6 @@ thee: so one says to him.
 Thou hast eaten this averted; thy inward breath will leave thee; so he said to this one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पराञ्चम्। च। एनम्। प्रऽआशीः। प्राणाः। त्वा। हास्यन्ति। इति। एनम्। आह। ३.२८।

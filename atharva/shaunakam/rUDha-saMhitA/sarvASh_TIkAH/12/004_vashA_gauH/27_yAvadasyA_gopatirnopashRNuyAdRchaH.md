@@ -25,7 +25,6 @@ come to claim their rightful property.
 Long as her owner hath not heard, himself, the verses, let her move Among his kine: when he hath heard, let her not make her home with him;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यावत्। अस्याः। गोऽपतिः। न। उपऽशृणुयात्। ऋचः। स्वयम्। चरेत्। अस्य। तावत्। गोषु। न। अस्य। श्रुत्वा। गृहे। वसेत्। ४.२७।

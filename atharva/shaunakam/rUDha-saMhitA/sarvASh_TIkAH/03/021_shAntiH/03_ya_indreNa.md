@@ -27,10 +27,9 @@ syllables ⌊read *utá vā?*⌋.
 The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consuming, Whom, as the victor, I invoke in battles--to all these Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। इन्द्रेण। सऽरथम्। याति। देव:। वैश्वानर:। उत। विश्वऽदाव्य:। यम्। जोहवीमि। पृतनासु। ससहिम्। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.३।
+यः। इन्द्रेण। सऽरथम्। याति। देवः। वैश्वानरः। उत। विश्वऽदाव्यः। यम्। जोहवीमि। पृतनासु। ससहिम्। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

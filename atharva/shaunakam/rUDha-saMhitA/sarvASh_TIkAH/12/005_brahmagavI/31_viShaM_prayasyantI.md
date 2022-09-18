@@ -19,7 +19,6 @@ All the mss. read *práyastā*, but Bp. has *pra॰yáṅchaṅtī*, Bs.
 Poison when in agitation, fever when seasoned with condi- ments;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विषम्। प्रऽयस्यन्ती। तक्मा। प्रऽयस्ता। ८.४।

@@ -17,7 +17,6 @@ overbid (*ati-vad*).
 He would not declare it to be greater than the giver imagines it to be.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यावत्। दाता। अभिऽमनस्येत। तत्। न। अति। वदेत्। ३.२५।

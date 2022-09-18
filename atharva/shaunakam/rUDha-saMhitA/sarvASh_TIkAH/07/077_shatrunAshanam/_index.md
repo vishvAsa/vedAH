@@ -7,7 +7,6 @@ title = "०७७ शत्रुनाशनम्"
 77 (82). To the Maruts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०७७ शत्रुनाशनम्"
 
 [An̄giras.—tṛcam. mantroktamaruddevatākam. 1. 3-p. gāyatrī; 2. triṣṭubh; 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 373; Henry, 31, 99; Griffith, i. 366.
 
 An incantation against an enemy
 </details>
+

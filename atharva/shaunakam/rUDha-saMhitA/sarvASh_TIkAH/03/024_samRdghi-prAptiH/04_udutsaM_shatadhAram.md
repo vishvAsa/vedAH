@@ -27,7 +27,6 @@ akṣatam*.
 Open the well with hundred streams, exhaustless, with a thousand streams. So cause this corn of ours to be exhaustless, with a thousand streams.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। उत्सम्। शतऽधारम्। सहस्रऽधारम्। अक्षितम्। एव। अस्माक। इदम्। धान्यम्। सहस्रऽधारम्। अक्षितम्। २४.४।

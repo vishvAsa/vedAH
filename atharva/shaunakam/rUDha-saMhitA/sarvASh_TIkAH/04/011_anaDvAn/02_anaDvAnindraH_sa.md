@@ -29,10 +29,9 @@ vs. loses its *bhurij* quality. The cadence of **b** is bad.⌋
 The Bull is Indra o'er the beasts he watches. He, Sakra measures out three several pathways. He, milking out the worlds, the past, the future, discharges all the Gods' eternal duties.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनड्वान्। इन्द्र:। स:। पशुऽभ्य:। वि। चष्टे। त्रयान्। शक्र:। वि। मिमीते। अध्वन:। भूतम्। भविष्यत्। भुवना। दुहान:। सर्वा। देवानाम्। चरति। व्रतानि। ११.२।
+अनड्वान्। इन्द्रः। सः। पशुऽभ्यः। वि। चष्टे। त्रयान्। शक्रः। वि। मिमीते। अध्वनः। भूतम्। भविष्यत्। भुवना। दुहानः। सर्वा। देवानाम्। चरति। व्रतानि। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

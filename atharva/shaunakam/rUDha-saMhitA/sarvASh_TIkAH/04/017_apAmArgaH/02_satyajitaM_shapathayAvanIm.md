@@ -29,10 +29,9 @@ of the excess of two syllables in **a**.
 Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee and all Plants have I invoked: Hence let it save us! was my prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सत्यऽजितम्। शपथऽयावनीम्। सहमानम्। पुन:ऽसराम्। सर्वा:। सम्। अह्वि। ओषधी:। इत:। न:। पारयात्। इति। १७.२।
+सत्यऽजितम्। शपथऽयावनीम्। सहमानम्। पुनःऽसराम्। सर्वाः। सम्। अह्वि। ओषधीः। इतः। नः। पारयात्। इति। १७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

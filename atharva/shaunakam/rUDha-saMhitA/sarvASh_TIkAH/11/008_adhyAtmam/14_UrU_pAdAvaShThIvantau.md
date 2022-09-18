@@ -20,7 +20,6 @@ in **b**. It also makes our 14 **c, d** and 15 **c, d** exchange places.
 The thighs, the knee-bones, and the feet, the head, the face, Land both the hands, The ribs, the nipples, and the sides--what I ishi hath constructed that?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊरू इति। पादौ। अष्ठीवन्तौ। शिरः। हस्तौ। अथो इति। मुखम्। पृष्टीः। बर्जह्ये३ इति। पार्श्वे इति। कः। तत्। सम्। अदधात्। ऋषिः। १०.१४।

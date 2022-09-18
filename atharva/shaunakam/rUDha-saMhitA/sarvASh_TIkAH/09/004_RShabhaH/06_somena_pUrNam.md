@@ -21,10 +21,9 @@ unintelligible. The verse is with no propriety called a *jagatī* (11 +
 A beaker filled with Soma juice thou bearest. framer of forms, begetter of the cattle. Kindly to us be these thy wombs here present, and stay for us, O Axe, those that are yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमेन। पूर्णम्‌। कलशम्। बिभर्षि। त्वष्टा। रूपाणाम्। जनिता। पशूनाम्। शिवा:। ते। सन्तु। प्रऽजन्व:। इह। या:। इमा:। नि। अस्मभ्यम्। स्वऽधिते। यच्छ। या:। अमू:। ४.६।
+सोमेन। पूर्णम्‌। कलशम्। बिभर्षि। त्वष्टा। रूपाणाम्। जनिता। पशूनाम्। शिवाः। ते। सन्तु। प्रऽजन्वः। इह। याः। इमाः। नि। अस्मभ्यम्। स्वऽधिते। यच्छ। याः। अमूः। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

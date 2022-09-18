@@ -31,10 +31,9 @@ as in RV. iv. i. 3, *ráthyeva* = *ráthiam iva.*⌋
 Soma, whoever troubleth us, be he a stranger or akin, Deprive him of the strength he hath: slay him thy-self like mighty Dyaus!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। सोम। अभिऽदासति। सऽनाभि:। य:। च। निष्ट्य:। अप। तस्य। बलम्। तिर। महीऽइव। द्यौ:। वधत्मना। ६.३।
+यः। नः। सोम। अभिऽदासति। सऽनाभिः। यः। च। निष्ट्यः। अप। तस्य। बलम्। तिर। महीऽइव। द्यौः। वधत्मना। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

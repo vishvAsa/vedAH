@@ -21,10 +21,9 @@ tad astu sukṛtas tanvo yatas tvā 'pi nayāmasi.*
 One-coloured, is thy mother's name, One-coloured is thy father called: One-colour-maker, Plant! art thou: give thou one colour to this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽरूपा। नाम। ते। माता। सऽरूप:। नाम। ते। पिता। सरूपऽकृत्। त्वम्। ओषधे। सा। सऽरूपम्। इदम्। कृधि।
+सऽरूपा। नाम। ते। माता। सऽरूपः। नाम। ते। पिता। सरूपऽकृत्। त्वम्। ओषधे। सा। सऽरूपम्। इदम्। कृधि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

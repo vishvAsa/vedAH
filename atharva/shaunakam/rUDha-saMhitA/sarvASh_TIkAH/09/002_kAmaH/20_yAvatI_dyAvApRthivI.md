@@ -20,10 +20,9 @@ described by the Anukr. in accordance with that of vs. 11.
 Wide as the space which heaven and earth encompass, far as the flow of waters, far as Agni, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावती इति। द्यावापृथिवी इति। वरिम्णा। यावत्। आप:। सिस्यदु:। यावत्। अग्नि:। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.२०।
+यावती इति। द्यावापृथिवी इति। वरिम्णा। यावत्। आपः। सिस्यदुः। यावत्। अग्निः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

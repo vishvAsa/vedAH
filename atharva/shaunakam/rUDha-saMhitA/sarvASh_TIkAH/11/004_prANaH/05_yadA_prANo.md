@@ -20,7 +20,6 @@ thing as the English slang, 'that'll be great for us!'⌋
 When Prana hath poured down his flood of rain upon the mighty land. Cattle and beasts rejoice thereat: Now great will he our strength, they cry.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। पशवः। तत्। प्र। मोदन्ते। महः। वै। नः। भविष्यति। ६.५।

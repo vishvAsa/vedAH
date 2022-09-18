@@ -18,7 +18,6 @@ disportion him who etc. etc.
 Ours is superior place and ours is conquest: may I in all fights tread down spite and malice. Let him not live, let vital breath desert him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विष्णोः। क्रमः। असि। सपत्नऽहा। अन्तरिक्षऽसंशितः। वायुऽतेजाः। अन्तरिक्षम्। अनु। वि। क्रमे। अहम्। अन्तरिक्षात्। तम्। निः। भजामः। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। सः। मा। जीवीत्। तम्। प्राणः। जहातु। ५.२६।

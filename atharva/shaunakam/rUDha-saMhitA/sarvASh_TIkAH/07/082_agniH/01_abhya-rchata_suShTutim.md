@@ -22,10 +22,9 @@ addressed, and explains **a** in several different ways.
 Sing with fair laud the combat for the cattle. Bestow upon us excellent possessions. Lead to the Gods the sacrifice we offer: let streams of oil flow pure and full of sweetness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। अर्चत। सुऽस्तुतिम्। गव्यम्। आजिम्। अस्मासु। भद्रा। द्रविणानि। धत्त। इमम्। यज्ञम्। नयत। देवता। न:। घृतस्य। धारा:। मधुऽमत्। पवन्ताम्। ८७.१।
+अभि। अर्चत। सुऽस्तुतिम्। गव्यम्। आजिम्। अस्मासु। भद्रा। द्रविणानि। धत्त। इमम्। यज्ञम्। नयत। देवता। नः। घृतस्य। धाराः। मधुऽमत्। पवन्ताम्। ८७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

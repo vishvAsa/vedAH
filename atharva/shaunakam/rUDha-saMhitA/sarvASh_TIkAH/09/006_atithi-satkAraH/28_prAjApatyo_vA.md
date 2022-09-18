@@ -16,10 +16,9 @@ title = "२८ प्राजापत्यो वा"
 The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राजाऽपत्य:। वै। एतस्य। यज्ञ:। विऽतत:। य:। उपऽहरति। ७.११।
+प्राजाऽपत्यः। वै। एतस्य। यज्ञः। विऽततः। यः। उपऽहरति। ७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

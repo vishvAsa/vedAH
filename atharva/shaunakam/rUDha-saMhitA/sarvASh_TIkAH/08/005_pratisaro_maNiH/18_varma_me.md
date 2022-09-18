@@ -27,10 +27,9 @@ xix. 20. 4 **a, b**.
 My coat of mail is Heaven and Earth, my coat of mail is Day and Sun: A coat of mail may Indra and Agni and Dhatar grant to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वर्म। मे। द्यावापृथिवी इति। वर्म। अह:। वर्म। सूर्य:। वर्म। मे। इन्द्र:। च। अग्नि:। च। वर्म। धाता। दधातु। मे। ५.१८।
+वर्म। मे। द्यावापृथिवी इति। वर्म। अहः। वर्म। सूर्यः। वर्म। मे। इन्द्रः। च। अग्निः। च। वर्म। धाता। दधातु। मे। ५.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

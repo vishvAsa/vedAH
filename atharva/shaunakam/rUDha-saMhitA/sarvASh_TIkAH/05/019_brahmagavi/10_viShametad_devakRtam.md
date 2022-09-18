@@ -21,10 +21,9 @@ Pet. Lex. Ppp. has *jāgara*, and *dugdhvā* in **c**.
 That wealth, King Varuna hath said, is poison by the Gods prepared. None hath kept watch to guard his realm who hath devoured a Brahman's cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विषम्। एतत्। देवऽकृतम्। राजा। वरुण:। अब्रवीत्। न। ब्राह्मणस्य। गाम्। जग्ध्वा। राष्ट्रे। जागार। क:। चन। १९.१०।
+विषम्। एतत्। देवऽकृतम्। राजा। वरुणः। अब्रवीत्। न। ब्राह्मणस्य। गाम्। जग्ध्वा। राष्ट्रे। जागार। कः। चन। १९.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

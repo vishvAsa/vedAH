@@ -19,7 +19,6 @@ sacrificial gifts.
 Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preeminence him to whom I have attached thy happy fate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मै। त्वा। यज्ञऽवर्धन। मणे। प्रतिऽअमुञ्चम्। शिवम्। तम्। त्वम्। शतऽदक्षिण। मणे। श्रैष्ठ्याय। जिन्वतात्। ६.३४।

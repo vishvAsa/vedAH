@@ -23,7 +23,6 @@ the Ppp. variant *bhūmyaṁ* for *bhū́mim*, xiii. 2. 40, 41.⌋
 Lift up your weapons. Drive away the demons. Transport this woman to the world of virtue. Dilator, most wise, hath found for her a husband. Let him who knows, King Bhaga, go before her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। यच्छध्वम्। अप। रक्षः। हनाथ। इमाम्। नारीम्। सुऽकृते। दधात। धाता। विपःऽचित्। पतिम्। अस्यै। विवेद। भगः। राजा। पुरः। एतु। प्रऽजानन्। १.५९।

@@ -20,7 +20,6 @@ be compared v. 30. 9 **a**.
 The throbbing pain in all thy limbs that rends thy frame with fever-throes, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अङ्गऽभेदम्। अङ्गऽज्वरम्। विश्वऽअङ्ग्यम्। विऽसल्पकम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.५।

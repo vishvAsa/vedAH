@@ -20,10 +20,9 @@ Ppp. reads *pṛchāmi ṛṣ-* in **a**.
 We, Kagyapa! six present Rishis, ask thee--for thou hast prov- ed things tried and meet for trial They call Viraj the Father of Devotion: tell her to us thy friends in all her figures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-षट्। त्वा। पृच्छाम। ऋषय:। कश्यप। इमे। त्वम्। हि। युक्तम्। युयुक्षे। योग्यम्। च। विऽराजम्। आहु:। ब्रह्मण:। पितरम्। ताम्। न:। वि। धेहि। यतिऽधा। सखिऽभ्य:। ९.७।
+षट्। त्वा। पृच्छाम। ऋषयः। कश्यप। इमे। त्वम्। हि। युक्तम्। युयुक्षे। योग्यम्। च। विऽराजम्। आहुः। ब्रह्मणः। पितरम्। ताम्। नः। वि। धेहि। यतिऽधा। सखिऽभ्यः। ९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

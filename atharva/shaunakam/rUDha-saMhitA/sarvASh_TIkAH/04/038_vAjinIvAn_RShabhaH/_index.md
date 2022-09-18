@@ -7,7 +7,6 @@ title = "०३८ वाजिनीवान् ऋषभः"
 38. For luck in gambling: by aid of an Apsaras.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाजिनीवान् ऋषभः।  
@@ -18,8 +17,6 @@ title = "०३८ वाजिनीवान् ऋषभः"
 
 [Bādarāyaṇi.—dvidevatyam. ānuṣṭubham: 3. 6-p. 3-av. jagatī; 5. bhurigatyaṣṭi; 6. triṣṭubh; 7. 3-av. 5-p. anuṣṭubgarbhā puraupariṣṭājjyotiṣmatī jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, OST. v. 430 (vss. 1-4); Ludwig, p. 454; Grill, 71 (vss. 1-4), 
 
 A charm for success in gambling
 </details>
+

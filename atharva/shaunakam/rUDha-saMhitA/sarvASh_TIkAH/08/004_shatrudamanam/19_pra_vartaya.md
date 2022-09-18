@@ -23,10 +23,9 @@ north.
 Hurl down from heaven thy bolt of stone, O Indra: sharpen it, Maghavan, made keen by Soma. Forward, behind, and from above and under, smite down the demons with thy rocky weapon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। वर्तय। दिव:। अश्मानम्। इन्द्र। सोमऽशितम्। मघऽवन्। सम्। शिशाधि। प्राक्त:। अपाक्त:। अधरात्। उदक्त:। अभि। जहि। रक्षस:। पर्वतेन। ४.१९।
+प्र। वर्तय। दिवः। अश्मानम्। इन्द्र। सोमऽशितम्। मघऽवन्। सम्। शिशाधि। प्राक्तः। अपाक्तः। अधरात्। उदक्तः। अभि। जहि। रक्षसः। पर्वतेन। ४.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

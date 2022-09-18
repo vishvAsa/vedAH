@@ -18,7 +18,6 @@ As noted above, this verse and the one following are wanting in Ppp.
 The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year having constructed it preserveth everything that is.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतवः। तम्। अबध्नत। आर्तवाः। तम्। अबध्नत। सम्ऽवत्सरः। तम्। बध्द्वा। सर्वम्। भूतम्। वि। रक्षति। ६.१८।

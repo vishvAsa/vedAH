@@ -20,10 +20,9 @@ That is, doubtless, 'has extended or performed the sacrifice.'
 The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks all forms and natures, Brihaspati's Steer, hath stretched the thread, bestowing bliss on the worshipper, the liberal giver.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-साहस्र:। त्वेष:। ऋषभ:। पयस्वान्। विश्वा। रूपाणि। वक्षणासु। बिभ्रत्। भद्रम्। दात्रे। यजमानाय। शिक्षन्। बार्हस्पत्य:। उस्रिय:। तन्तुम्। आ। अतान्। ४.१।
+साहस्रः। त्वेषः। ऋषभः। पयस्वान्। विश्वा। रूपाणि। वक्षणासु। बिभ्रत्। भद्रम्। दात्रे। यजमानाय। शिक्षन्। बार्हस्पत्यः। उस्रियः। तन्तुम्। आ। अतान्। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ give us the normal five "verses."⌋
 Back, O, Bharuji! fall your charms, your weapon, ye Kimidinis. Eat your possessor; eat ye him who sent you forth; eat your own flesh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भरूजि। पुन:। व:। यन्तु। यातव:। पुन:। हेति:। किमीदिनी:। यस्य। स्थ। तम्। अत्त। य:। व:। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.८।
+भरूजि। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

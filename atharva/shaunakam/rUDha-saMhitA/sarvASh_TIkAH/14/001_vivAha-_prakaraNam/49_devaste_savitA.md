@@ -21,7 +21,6 @@ in **c**.
 God Savitar shall take thy hand, and Soma the King shall make thee rich in goodly offspring, Let Agni, Lord Omniscient, make thee happy, till old old age a wife unto thy husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवः। ते। सविता। हस्तम्। गृह्णातु। सोमः। राजा। सुऽप्रजसम्। कृणोतु। अग्निः। सुऽभगाम्। जातऽवेदाः। पत्ये। पत्नीम्। जरत्ऽअष्टिम्। कृणोतु। १.४९।

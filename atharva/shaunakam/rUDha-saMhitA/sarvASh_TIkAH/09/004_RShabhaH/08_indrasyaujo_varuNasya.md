@@ -20,10 +20,9 @@ The verse has two *jagatī*-pādas, though called by the Anukr. simply
 Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' shoulders. They who are sages, bards endowed with wisdom, call him Brihaspati compact and heightened.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। ओज:। वरुणस्य। बाहू इति। अश्विनो:। अंसौ। मरुताम्। इयम्। ककुत्। बृहस्पतिम्। सम्ऽभृतम्। एतम्। आहु:। ये। धीरास:। कवय:। ये। मनीषिण:। ४.८।
+इन्द्रस्य। ओजः। वरुणस्य। बाहू इति। अश्विनोः। अंसौ। मरुताम्। इयम्। ककुत्। बृहस्पतिम्। सम्ऽभृतम्। एतम्। आहुः। ये। धीरासः। कवयः। ये। मनीषिणः। ४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

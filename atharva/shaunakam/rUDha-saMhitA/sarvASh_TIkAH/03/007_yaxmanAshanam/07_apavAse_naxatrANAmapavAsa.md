@@ -22,10 +22,9 @@ too many, unless we make the double combination *vāsó ’ṣásām.*
 What time the starlight disappears, what time the gleams of Dawn depart, May evil fortune pass from us, the chronic sickness disappear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽवासे। नक्षत्राणाम्। अपऽवासे। उषसाम्। उत। अप। अस्मत्। सर्वम्। दु:ऽभूतम्। अप। क्षेत्रियम्। उच्छतु। ७.७।
+अपऽवासे। नक्षत्राणाम्। अपऽवासे। उषसाम्। उत। अप। अस्मत्। सर्वम्। दुःऽभूतम्। अप। क्षेत्रियम्। उच्छतु। ७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

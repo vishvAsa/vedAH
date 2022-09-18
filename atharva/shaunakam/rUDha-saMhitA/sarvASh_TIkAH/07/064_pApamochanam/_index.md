@@ -7,7 +7,6 @@ title = "०६४ पापमोचनम्"
 64 (66). Against evil influence of a black bird.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -18,8 +17,6 @@ title = "०६४ पापमोचनम्"
 
 [Yama.—dvyṛcam. mantroktadevatyam uta nāirṛtam. 1. bhurig anuṣṭubh; 2. nyan̄husāriṇī bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 41, 186; Henry, 25, 88; Griffith, i. 357; Bloomfield, 167, 55
 
 A charm to avert an evil omen
 </details>
+

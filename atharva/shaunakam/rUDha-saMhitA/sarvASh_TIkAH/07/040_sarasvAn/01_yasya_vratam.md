@@ -24,10 +24,9 @@ at the end. Ppp. has *vrate* in **a** and *vratam* in **b**, and
 We call Sarasvan, under whose protection all cattle wander, to preserve and aid us, Him in whose ordinance abide the waters, to whose command the Lord of Plenty listens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। व्रतम्। पशव:। यन्ति। सर्वे। यस्य। व्रते। उपऽतिष्ठन्ते। आप:। यस्य। व्रते। पुष्टऽपति:। निऽविष्ट:। तम्। सरस्वन्तम्। अवसे। हवामहे। ४१.१।
+यस्य। व्रतम्। पशवः। यन्ति। सर्वे। यस्य। व्रते। उपऽतिष्ठन्ते। आपः। यस्य। व्रते। पुष्टऽपतिः। निऽविष्टः। तम्। सरस्वन्तम्। अवसे। हवामहे। ४१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

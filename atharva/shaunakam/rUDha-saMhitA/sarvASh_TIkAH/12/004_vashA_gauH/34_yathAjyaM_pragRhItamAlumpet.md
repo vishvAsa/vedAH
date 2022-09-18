@@ -25,7 +25,6 @@ note to vs. 6 **b**.⌋
 As molten butter, held at length, drops down to Agni from the scoop, So falls away from Agni he who gives no Cow to Brahman priests.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। आज्यम्। प्रऽगृहीतम्। आऽलुम्पेत्‌। स्रुचः। अग्नये। एव। ह। ब्रह्मऽभ्यः। वशाम्। अग्नये। आ। वृश्चते। अददत्। ४.३४।

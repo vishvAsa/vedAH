@@ -23,10 +23,9 @@ it were *sásnis.*
 Grown mighty in his strength, with ample vigour, he as a foe strikes fear into the Dasa, Eager to win the breathing and the breathless: All sang thy praise at banquet and oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ववृधान:। शवसा। भूरिऽओजा:। शत्रु:। दासाय। भियसम्। दधाति। अव‍िऽअनत्। च। विऽअनत्। च। सस्नि। सम्। ते। नवन्त। प्रऽभृता। मदेषु। २.२।
+ववृधानः। शवसा। भूरिऽओजाः। शत्रुः। दासाय। भियसम्। दधाति। अव‍िऽअनत्। च। विऽअनत्। च। सस्नि। सम्। ते। नवन्त। प्रऽभृता। मदेषु। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

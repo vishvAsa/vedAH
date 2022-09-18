@@ -19,10 +19,9 @@ The Anukr. scans the verse as 12 + 12: 9 + 6 = 39 syllables.
 To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendid King! Worship to Dyaus, to Earth, worship be paid to Plants!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। रुद्राय। नम:। अस्तु। तक्मने। नम:। राज्ञे। वरुणाय। त्विषिऽमते। नम:। दिवे। नम:। पृथिव्यै। नम:। ओषधीभ्य:। २०.२।
+नमः। रुद्राय। नमः। अस्तु। तक्मने। नमः। राज्ञे। वरुणाय। त्विषिऽमते। नमः। दिवे। नमः। पृथिव्यै। नमः। ओषधीभ्यः। २०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

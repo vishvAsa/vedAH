@@ -19,7 +19,6 @@ This verse, as noted above, is wanting in Ppp.
 Through whom did he bedeck the earth, through whom did he encompass heaven? Whose might made Purusha surpass the mountains and created things?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। इमाम्। भूमिम्। और्णोत्। केन। परि। अभवत्। दिवम्। केन। अभि। मह्ना। पर्वतान्। केन। कर्माणि। पुरुषः। २.१८।

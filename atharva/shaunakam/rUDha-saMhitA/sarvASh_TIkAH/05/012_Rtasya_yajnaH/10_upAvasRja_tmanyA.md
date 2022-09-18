@@ -23,10 +23,9 @@ later, Oldenberg, ZDMG. liv. 602.⌋
 Bring thou to our oblations which thou balmest the companies of Gods in ordered season. Agni, Vanaspati, the Immolator sweeten our offered gifts with meath and butter!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽअवसृज। त्मन्या। सम्ऽअञ्जन्। देवानाम्। पाथ:। ऋतुऽथा। हवींषि। वनस्पति:। शमिता। देव:। अग्नि:। स्वदन्तु। हव्यम्। मधुना। घृतेन। १२.१०।
+उपऽअवसृज। त्मन्या। सम्ऽअञ्जन्। देवानाम्। पाथः। ऋतुऽथा। हवींषि। वनस्पतिः। शमिता। देवः। अग्निः। स्वदन्तु। हव्यम्। मधुना। घृतेन। १२.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

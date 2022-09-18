@@ -31,10 +31,9 @@ belonging to *mūlabarhaṇāt*. By a misprint, our text begins with *jyāi-*
 Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him from uprooting. He shall conduct him safe past all misfortunes to lengthened life that lasts a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ज्येष्ठऽघ्न्याम्। जात:। विऽचृतो:। यमस्य। मूलऽबर्हणात्। परि। पाहि। एनम्। अति। एनम्। नेषत्। दु:ऽइतानि। विश्वा। दीर्घायुऽत्वाय। शतऽशारदाय। ११०.२।
+ज्येष्ठऽघ्न्याम्। जातः। विऽचृतोः। यमस्य। मूलऽबर्हणात्। परि। पाहि। एनम्। अति। एनम्। नेषत्। दुःऽइतानि। विश्वा। दीर्घायुऽत्वाय। शतऽशारदाय। ११०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

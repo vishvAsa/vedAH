@@ -16,10 +16,9 @@ title = "०२ सपत्नक्षयणमसि सपत्नचात
 The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणम्। असि। सपत्नऽचातनम्। मे। दा:। स्वाहा। १८.२।
+सपत्नऽक्षयणम्। असि। सपत्नऽचातनम्। मे। दाः। स्वाहा। १८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

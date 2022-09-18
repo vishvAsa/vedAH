@@ -21,10 +21,9 @@ sanction it.
 Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the Gods come to his call, nor Agni bear his offering up. Come, ye, come hither to my call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। असौ। अमुत:। देवा:। अदेव:। सन्। चिकीर्षति। मा। तस्य। अग्नि:। हव्यम्। वाक्षीत्। हवम्। देवा:। अस्य। मा। उप। गु:। मम। एव। हवम्। आ। इतन। ८.३।
+यत्। असौ। अमुतः। देवाः। अदेवः। सन्। चिकीर्षति। मा। तस्य। अग्निः। हव्यम्। वाक्षीत्। हवम्। देवाः। अस्य। मा। उप। गुः। मम। एव। हवम्। आ। इतन। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

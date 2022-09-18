@@ -19,10 +19,9 @@ Ppp. reads in **d** *uta śarvare;* the comm. explains *atiś-* by
 Each moving thing have I secured, have held and held the eye and breath. Each limb and member have I seized in the deep darkness of the night.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एजत्ऽएजत्। अजग्रभम्। चक्षु:। प्राणम्। अजग्रभम्। अङ्गानि। अजग्रभम्। सर्वा:। रात्रीणाम्। अतिऽशर्वरे। ५.४।
+एजत्ऽएजत्। अजग्रभम्। चक्षुः। प्राणम्। अजग्रभम्। अङ्गानि। अजग्रभम्। सर्वाः। रात्रीणाम्। अतिऽशर्वरे। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

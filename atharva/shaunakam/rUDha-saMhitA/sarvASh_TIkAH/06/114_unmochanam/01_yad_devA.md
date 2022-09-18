@@ -32,10 +32,9 @@ ii. 6. 6⌋. ⌊In **b**, MS. iv. 14. 17 has *yád vācā́ ’nṛtam ódima*
 Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye deliver us, Adityas! by the right of Law.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। देवा:। देवऽहेडनम्। देवास:। चकृम:। वयम्। आदित्या:। तस्मात्। न:। यूयम्। ऋतस्य। ऋतेन। मुञ्चत। ११४.१।
+यत्। देवाः। देवऽहेडनम्। देवासः। चकृमः। वयम्। आदित्याः। तस्मात्। नः। यूयम्। ऋतस्य। ऋतेन। मुञ्चत। ११४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

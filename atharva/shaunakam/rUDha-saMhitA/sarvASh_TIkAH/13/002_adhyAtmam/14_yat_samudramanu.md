@@ -21,7 +21,6 @@ SPP.⌋, and the passage is quoted as an example under Prāt. ii. 91; iv.
 Surya is eager to obtain all wealth that lies along the sea, Great is the course spread out for him, his eastward and his westward path.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। समुद्रम्। अनु। श्रितम्। तत्। सिषासति। सूर्यः। अध्वा। अस्य। विऽततः। महान्। पूर्वः। च। अपरः। च। यः। 2.१४।

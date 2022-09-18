@@ -19,10 +19,9 @@ jagrabha bheṣajam*. ⌊See Griffith's note.⌋
 Of all the three terrestrial realms the ground is verily the best. I from the skin that covers these gather a healing medicine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा:। या:। तिस्र:। पृथिवी। तासाम्। ह। भूमि:। उत्ऽतमा। तासाम्। अधि। त्वच:। अहम्। भेषजम्। सम्। ऊं इति। जग्रभम्। २१.१।
+इमाः। याः। तिस्रः। पृथिवी। तासाम्। ह। भूमिः। उत्ऽतमा। तासाम्। अधि। त्वचः। अहम्। भेषजम्। सम्। ऊं इति। जग्रभम्। २१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

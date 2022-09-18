@@ -24,7 +24,6 @@ there should be a space between *módāḥ* and *pra-*.⌋
 All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽनन्दाः। मोदाः। प्रऽमुदः। अभिऽमोदऽमुदः। च। ये। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२६।

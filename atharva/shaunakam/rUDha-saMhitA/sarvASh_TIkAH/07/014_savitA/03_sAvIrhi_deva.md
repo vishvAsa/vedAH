@@ -22,10 +22,9 @@ also RV. iii. 56. 6 (quoted here by the comm.). Ppp. shows no variants.
 As thou, God! quickening, for our ancient father, sentest him height above and room about him, So unto us, O Savitar, send treasures, abundant, day by day, in shape of cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सावी:। हि। देव। प्रथमाय। पित्रे। वर्ष्माणम्। अस्मै। वरिमाणम्। अस्मै। अथ। अस्मभ्यम्। सवित:। वार्याणि। दिव:ऽदिव:। आ। सुव। भूरि। पश्व:। १५.३।
+सावीः। हि। देव। प्रथमाय। पित्रे। वर्ष्माणम्। अस्मै। वरिमाणम्। अस्मै। अथ। अस्मभ्यम्। सवितः। वार्याणि। दिवःऽदिवः। आ। सुव। भूरि। पश्वः। १५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

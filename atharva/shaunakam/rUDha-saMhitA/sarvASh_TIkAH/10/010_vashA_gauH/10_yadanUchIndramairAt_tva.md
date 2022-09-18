@@ -23,7 +23,6 @@ uncalled-for. Ppp. reads *uvūcī* in **a**, and *ād vṛṣabho* in **b**.
 The Bull, what time thou followedst the way of Indra, summon- ed thee: Thence the Fiend-slayer, angered, took thy water and thy milk away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अनूची। इन्द्रम्। ऐः। आत्। त्वा। ऋषभः। अह्वयत्। तस्मात्। ते। वृत्रऽहा। पयः। क्षीरम्। क्रुध्दः। अहरत्। वशे। १०.१०।

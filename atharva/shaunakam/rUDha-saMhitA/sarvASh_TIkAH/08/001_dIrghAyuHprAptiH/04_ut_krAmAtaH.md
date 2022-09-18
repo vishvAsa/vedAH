@@ -20,10 +20,9 @@ the former; the comm. has the latter.
 Up from this place, O man, rise! sink not downward, casting away the bonds of Death that hold thee. Be not thou parted from this world, from sight of Agni and the Sun.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। क्राम। अत:। पुरुष। मा। अव। पत्था:। मृत्यो:। पड्वीशम्। अवऽमुञ्चमान:। मा। छित्था:। अस्मात्। लोकात्। अग्ने:। सूर्यस्य। सम्ऽदृश:। १.४।
+उत्। क्राम। अतः। पुरुष। मा। अव। पत्थाः। मृत्योः। पड्वीशम्। अवऽमुञ्चमानः। मा। छित्थाः। अस्मात्। लोकात्। अग्नेः। सूर्यस्य। सम्ऽदृशः। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

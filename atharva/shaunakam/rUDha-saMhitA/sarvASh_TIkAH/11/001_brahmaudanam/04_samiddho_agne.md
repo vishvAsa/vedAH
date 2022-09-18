@@ -21,7 +21,6 @@ sa* for *sám idhyasva*. ⌊For **d**, cf. i. 9. 2, 4; vi. 63. 3.⌋
 Burn up, O Agni, kindled with the fuel. Knowing the Gods who merit worship, bring them. Cooking, for these, oblation, Jatavedas! lift up this man to heaven's most lofty summit.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽइध्दः। अग्ने। सम्ऽइधा। सम्। इध्यस्व। विद्वान्। देवान्। यज्ञियान्। आ। इह। वक्षः। तेभ्यः। हविः। श्रपयन्। जातऽवेदः। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। १.४।

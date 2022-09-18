@@ -19,7 +19,6 @@ which is not a bad emendation.
 If with the cripple we have lived, whose teeth are black and nails deformed, With thee, O Apamarga, we wipe all that ill away from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्यावऽदता। कुनखिना। बण्डेन। यत्। सह। आसिम। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। ६७.३।

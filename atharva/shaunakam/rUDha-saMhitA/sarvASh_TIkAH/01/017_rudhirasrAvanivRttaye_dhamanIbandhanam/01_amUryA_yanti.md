@@ -24,10 +24,9 @@ refuses to sanction the contraction *-tare 'va* in **c**.
 Those maidens there, the veins, who run their course in robes of ruddy hue, Must now stand quiet, reft of power, like sisters who are brotherless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमू:। या:। यन्ति। योषित:। हिरा:। लोहितऽवासस:। अभ्रातर:ऽइव। जामय:। तिष्ठन्तु। हतऽवर्चस:।
+अमूः। याः। यन्ति। योषितः। हिराः। लोहितऽवाससः। अभ्रातरःऽइव। जामयः। तिष्ठन्तु। हतऽवर्चसः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

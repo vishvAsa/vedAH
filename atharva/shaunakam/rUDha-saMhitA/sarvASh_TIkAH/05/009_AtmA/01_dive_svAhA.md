@@ -16,7 +16,6 @@ title = "०१ दिवे स्वाहा"
 All hail to Heaven!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिवे। स्वाहा। ९.१।

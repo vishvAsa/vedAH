@@ -21,7 +21,6 @@ SPP's authorities read *bhūtvā amṛt-* uncombined in **c**.
 The Brahmachari, fathering Prayer, world, Waters, Viraj, Praja- pati, and Parameshthin, Lay as a germ within the Immortal's bosom, then became Indra and destroyed the demons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचारी। जनयन्। ब्रह्म। अपः। लोकम्। प्रजाऽपतिम्। परमेऽनम्। विऽराजम्। गर्भः। भूत्वा। अमृतस्य। योनौ। इन्द्रः। ह। भूत्वा। असुरान्। ततर्ह। ७.७।

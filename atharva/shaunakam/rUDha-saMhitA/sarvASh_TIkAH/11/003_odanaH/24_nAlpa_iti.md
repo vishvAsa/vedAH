@@ -19,7 +19,6 @@ like, that is poured on'—we might render by 'sauce.'
 Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing whatever.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। अल्पः। इति। ब्रूयात्। न। अनुपऽसेचनः। इति। न। इदम्। च। किम्। च। इति। ३.२४।

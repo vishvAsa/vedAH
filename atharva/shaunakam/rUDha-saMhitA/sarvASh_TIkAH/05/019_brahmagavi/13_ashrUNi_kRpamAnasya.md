@@ -20,10 +20,9 @@ portion of water.
 Oppressor of the Brahmans! tears wept by the man who suffers wrong, These are the share of water which the Gods have destined to be thine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्रूणि। कृपमाणस्य। यानि। जीतस्य। ववृतु:। तम्। वै। ब्रह्मऽज्य। ते। देवा:। अपाम्। भागम्। अधारयन्। १९.१३।
+अश्रूणि। कृपमाणस्य। यानि। जीतस्य। ववृतुः। तम्। वै। ब्रह्मऽज्य। ते। देवाः। अपाम्। भागम्। अधारयन्। १९.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

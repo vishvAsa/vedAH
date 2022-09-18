@@ -24,10 +24,9 @@ not sanction this.
 Parted are heaven and earth, and paths turned to each quarter of the sky. I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। इमे इति। द्यावापृथिवी इति। इत:। वि। पन्थान:। दिशम्ऽदिशम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.४।
+वि। इमे इति। द्यावापृथिवी इति। इतः। वि। पन्थानः। दिशम्ऽदिशम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

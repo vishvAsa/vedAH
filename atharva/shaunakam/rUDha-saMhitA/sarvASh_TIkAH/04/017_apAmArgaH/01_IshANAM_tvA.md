@@ -25,7 +25,6 @@ cordifolia* and *rhombifolia*, OB.) as addressed. He takes *ujjeṣe* in
 We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Plant, I have endowed thee with a hundred powers for every man,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ईशानाम्। त्वा। भेषजानाम्। उत्ऽजेषे। आ। रभामहे। चक्रे। सहस्रऽवीर्यम्। सर्वस्मै। ओषधे। त्वा। १७.१।

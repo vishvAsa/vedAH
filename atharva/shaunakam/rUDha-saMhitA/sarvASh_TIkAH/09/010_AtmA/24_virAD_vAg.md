@@ -23,7 +23,6 @@ dividing after *pṛthivī*.
 Viraj is Speech, and Earth, and Air's mid-region. He is Praja- pati, and he is Mrityu. He is the Lord Imperial of the Sadhyas. He rules what is and what shall be hereafter. May he make me lord of what is and shall be.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽराट्। वाक्। विऽराट्। पृथिवी। विऽराट्। अन्तरिक्षम्। विऽराट्। प्रजाऽपतिः। विऽराट्। मृत्युः। साध्यानाम्। अधिऽराजः। बभूव। तस्य। भूतम्। भव्यम्। वशे। सः। मे। भूतम्। भव्यम्। वशे। कृणोतु। १५.२४।

@@ -21,10 +21,9 @@ capacities able to pervade all subjects."
 Intelligence, come first to us with store of horses and of kine! Thou with the rays of Surya art our worshipful and holy one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। न:। मेधे। प्रथमा। गोभि:। अश्वेभि:। आ। गहि। त्वम्। सूर्यस्य। रश्मिऽभि:। त्वम्। न:। असि। यज्ञिया। १०८.१।
+त्वम्। नः। मेधे। प्रथमा। गोभिः। अश्वेभिः। आ। गहि। त्वम्। सूर्यस्य। रश्मिऽभिः। त्वम्। नः। असि। यज्ञिया। १०८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

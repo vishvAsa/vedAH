@@ -25,10 +25,9 @@ putrapāutrādibhiḥ sahabhojanā vā*.
 Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's libation. May he, the brightly pure one, give us riches: may we have life enjoying food together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। प्रात:ऽसवने। पातु। अस्मान्। वैश्वानर:। विश्वऽकृत्। विश्वऽशंभू:। स:। न:। पावक:। द्रविणे। दधातु। आयुष्मन्त:। सहऽभक्षा:। स्याम। ४७.१।
+अग्निः। प्रातःऽसवने। पातु। अस्मान्। वैश्वानरः। विश्वऽकृत्। विश्वऽशंभूः। सः। नः। पावकः। द्रविणे। दधातु। आयुष्मन्तः। सहऽभक्षाः। स्याम। ४७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

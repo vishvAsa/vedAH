@@ -32,10 +32,9 @@ resolution *vi-śu-ā* to make it full ⌊*víśvāni* would be easier⌋.
 I round the circumjacent worlds have travelled to see the far- extended thread of Order. Wherein the Gods, obtaining life eternal, have risen upward to one common birthplace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। विश्वा। भुवनानि। आयम्। ऋतस्य। तन्तुम्। विऽततम्। दृशे। कम्। यत्र। देवा:। अमृतम्। आनशाना:। समाने। योनौ। अधि। ऐरयन्त। १.५।
+परि। विश्वा। भुवनानि। आयम्। ऋतस्य। तन्तुम्। विऽततम्। दृशे। कम्। यत्र। देवाः। अमृतम्। आनशानाः। समाने। योनौ। अधि। ऐरयन्त। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०३४ पशवः"
 34. Accompanying the sacrifice of an animal.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पशवः।  
@@ -18,8 +17,6 @@ title = "०३४ पशवः"
 
 [Atharvan.—pāśupatyam; paśubhāgakaraṇam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 207; Ludwig, p. 433; Griflith, i. 75.—See also Roth, 
 
 A prayer accompanying an animal sacrifice
 </details>
+

@@ -20,10 +20,9 @@ regular *anuṣṭubh*.
 May these three castles of the Gods keep thee secure on every side. Endowed with strength, possessing these, be thou the master of thy foes,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा:। तिस्र:। देवऽपुरा:। ता:। त्वा। रक्षन्तु। सर्वत:। ता:। त्वम्। बिभ्रत्। वर्चस्वी। उत्तर:। द्विषताम्। भव। २८.१०।
+इमाः। तिस्रः। देवऽपुराः। ताः। त्वा। रक्षन्तु। सर्वतः। ताः। त्वम्। बिभ्रत्। वर्चस्वी। उत्तरः। द्विषताम्। भव। २८.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

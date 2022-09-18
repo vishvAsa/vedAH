@@ -24,10 +24,9 @@ accent-mark under *ye* has dropped out.
 As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, the Ribhus, store splendour and strength within my soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सोम:। तृतीये। सवने। ऋभूणाम्। भवति। प्रिय:। एव। मे। ऋभव:। वर्च:। आत्मनि। ध्रियताम्। १.१३।
+यथा। सोमः। तृतीये। सवने। ऋभूणाम्। भवति। प्रियः। एव। मे। ऋभवः। वर्चः। आत्मनि। ध्रियताम्। १.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

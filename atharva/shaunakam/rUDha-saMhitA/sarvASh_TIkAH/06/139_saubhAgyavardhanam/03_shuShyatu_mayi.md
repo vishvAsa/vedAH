@@ -27,7 +27,6 @@ note of Mr. Whitney's suggests?⌋ Our P.M.I. read *amúm* at beginning of
 Drive us together, tawny! fair! a go-between who wakens love. Drive us together, him and me, and give us both one heart and mind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽवननी। सम्ऽउष्पला। बभ्रु। कल्याणि। सम्। नुद। अमूम्। च। माम्। च। सम्। नुद। समानम्। हृदयम्। कृधि। १३९.३।

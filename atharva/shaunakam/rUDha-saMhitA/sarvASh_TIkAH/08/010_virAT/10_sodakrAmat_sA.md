@@ -16,7 +16,6 @@ title = "१० सोदक्रामत् सा"
 Thus did they cry to her:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। सम्ऽइतौ। नि। अक्रामत्। १०.१०।

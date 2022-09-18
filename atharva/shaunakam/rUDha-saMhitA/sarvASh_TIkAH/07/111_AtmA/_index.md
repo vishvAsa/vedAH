@@ -7,7 +7,6 @@ title = "१११ आत्मा"
 111 (116). To a soma-vessel.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -19,8 +18,6 @@ title = "१११ आत्मा"
 [Brahman.—vārṣabham. parabṛhatī triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. For uses, see below.
 ### Translations
 Translated: Henry, 44, 122; Griffith, i. 382.
 </details>
+

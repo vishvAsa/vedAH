@@ -18,10 +18,9 @@ witchcraft-maker.
 Back on the wizard fall his craft, upon the curser light his curse! Let witchcraft, like a well-naved car, roll back upon the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृत्या:। सन्तु। कृत्याऽकृते। शपथ:। शपथिऽयते। सुख:। रथ:ऽइव। वर्तताम्। कृत्या। कृत्याऽकृतम्। पुन:। १४.५।
+कृत्याः। सन्तु। कृत्याऽकृते। शपथः। शपथिऽयते। सुखः। रथःऽइव। वर्तताम्। कृत्या। कृत्याऽकृतम्। पुनः। १४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

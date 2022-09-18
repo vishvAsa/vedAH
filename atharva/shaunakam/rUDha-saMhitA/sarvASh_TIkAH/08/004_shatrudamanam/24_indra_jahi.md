@@ -21,10 +21,9 @@ Ppp. reads *rujanta* instead. *śā́śadānām* the comm. explains as =
 Indra destroy the demon, male and female, joying and triumph- ing in arts of magic! Let the fools' gods with bent necks fall and perish, and see no. more the Sun when he arises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। जहि। पुमांसम्। यातुऽधानम्। उत। स्त्रियम्। मायया। शाशदानाम्। विऽग्रीवास:। मूरऽदेवा:। ऋदन्तु। मा। ते। दृशन्। सूर्यम्। उत्ऽचरन्तम्। ४.२४।
+इन्द्र। जहि। पुमांसम्। यातुऽधानम्। उत। स्त्रियम्। मायया। शाशदानाम्। विऽग्रीवासः। मूरऽदेवाः। ऋदन्तु। मा। ते। दृशन्। सूर्यम्। उत्ऽचरन्तम्। ४.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

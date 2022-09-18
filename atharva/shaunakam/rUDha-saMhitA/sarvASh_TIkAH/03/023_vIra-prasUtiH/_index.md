@@ -7,7 +7,6 @@ title = "०२३ वीर-प्रसूतिः"
 23. For fecundity.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वीर-प्रसूतिः।  
@@ -18,8 +17,6 @@ title = "०२३ वीर-प्रसूतिः"
 
 [Brahman.—cāndramasam uta yonidevatyam. ānuṣṭubham: 5. upariṣṭābhurigbṛhatī; 6. skandhogrīvībṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, v. 223; Ludwig, p. 477; Zimmer, p. 319; Weber, xvii. 285; Gri
 
 A charm to remove a woman's sterility, and to assure the birth of boys
 </details>
+

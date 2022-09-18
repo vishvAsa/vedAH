@@ -24,10 +24,9 @@ Zimmer (who translates vss. 10-12, at pp. 381-5) understands *udyugá* in
 Take none of these to be thy friends, Cough, or Consumption or Decline: Never come thence again to us! O Fever, thus I counsel thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। स्म। एतान्। सखीन्। कुरुथा:। बलासम्। कासम्। उत्ऽयुगम्। मा। स्म। अत:। अर्वाङ्। आ। ऐ:। पुन:। तत्। त्वा। तक्मन्। उप। ब्रुवे। २२.११।
+मा। स्म। एतान्। सखीन्। कुरुथाः। बलासम्। कासम्। उत्ऽयुगम्। मा। स्म। अतः। अर्वाङ्। आ। ऐः। पुनः। तत्। त्वा। तक्मन्। उप। ब्रुवे। २२.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ claim within a year and a day ."⌋
 Breath, Respiration, come to him, as two car-oxen to their stall! Let all the other deaths, whereof men count a hundred, pass away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। वि। अन्ये। यन्तु। मृत्यव:। यान्। आहु:। इतरान्। शतम्। ११.५।
+प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। वि। अन्ये। यन्तु। मृत्यवः। यान्। आहुः। इतरान्। शतम्। ११.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

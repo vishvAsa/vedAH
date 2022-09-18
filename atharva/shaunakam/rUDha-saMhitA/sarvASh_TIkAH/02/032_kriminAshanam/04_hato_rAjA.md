@@ -23,10 +23,9 @@ hatā mātā hataḥ pitā.* The comm. explains *sthapati* by *saciva.*
 Slain is the sovran of these Worms, yea, their controlling lord is slain: Slain is the Worm, his mother slain, brother and sister both are slain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हत:। राजा। क्रिमीणाम्। उत। एषाम्। स्थपति:। हत:। हत:। हतऽमाता। क्रिमि:। हतऽभ्राता। हतऽस्वसा। ३२.४।
+हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतऽमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। ३२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०९२ सुत्रामा इन्द्रः"
 92 (97). To Indra: for aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुत्रामा इन्द्रः।  
@@ -19,8 +18,6 @@ title = "०९२ सुत्रामा इन्द्रः"
 [Atharvan (etc. as hymn 91).]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Reckoned to the svastyayana gaṇa (note to Kāuś. 25. 36), 
 ### Translations
 Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
+

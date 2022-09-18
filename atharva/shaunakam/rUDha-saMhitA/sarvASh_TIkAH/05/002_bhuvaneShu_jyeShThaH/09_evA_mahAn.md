@@ -24,10 +24,9 @@ rather than *bhurij*.⌋
 Thus hath Brihaddiva, the great Atharvan, spoken to Indra as himself in person. Two sisters free from stain, the Matarivans, with power impel him onward and exalt him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एव। महान्। बृहत्ऽदिव:। अथर्वा। अवोचत्। स्वाम्। तन्वम्। इन्द्रम्। एव। स्वसारौ। मातरिभ्वरी इति। अरिप्रे इति। हिन्वन्ति। च। एने इति। शवसा। वर्धयन्ति। च। २.९।
+एव। महान्। बृहत्ऽदिवः। अथर्वा। अवोचत्। स्वाम्। तन्वम्। इन्द्रम्। एव। स्वसारौ। मातरिभ्वरी इति। अरिप्रे इति। हिन्वन्ति। च। एने इति। शवसा। वर्धयन्ति। च। २.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

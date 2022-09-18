@@ -21,7 +21,6 @@ kam;* and, for *varcas*, *mahit* (?).
 The Charm Brihaspati, etc. This Surya put on him, with this conquered the regions of the sky. This yieldeth him ability, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। सूर्यः। प्रति। अमुञ्चत। तेन। इमाः। अजयत्। दिशः। सः। अस्मै। भूतिम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.९।

@@ -19,10 +19,9 @@ The Anukr. refuses to sanction the abbreviation *’va* in **d**.
 Collect, O Jatavedas, what hath been removed and borne away. Let this man's members grow, let him swell like the tendril of a plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽआहर। जातऽवेद:। यत्। हृतम्। यत्। पराऽभृतम्। गात्राणि। अस्य। वर्धन्ताम्। अंशु:ऽइव। आ। प्यायताम्। अयम्। २९.१२।
+सम्ऽआहर। जातऽवेदः। यत्। हृतम्। यत्। पराऽभृतम्। गात्राणि। अस्य। वर्धन्ताम्। अंशुःऽइव। आ। प्यायताम्। अयम्। २९.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

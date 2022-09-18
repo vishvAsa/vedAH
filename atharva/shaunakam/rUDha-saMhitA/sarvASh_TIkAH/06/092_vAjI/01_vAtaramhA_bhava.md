@@ -25,10 +25,9 @@ takes no note of the *triṣṭubh* pāda **d**.
 Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as thought at lndra's sending. Let the possessors of all wealth, the Maruts, yoke thee, and Tvashtar in thy feet lay swiftness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वातऽरंहा:। भव। वाजिन्। युज्यमान:। इन्द्रस्य। याहि। प्रऽसवे। मन:ऽजवा:। युञ्जन्तु। त्वा। मरुत:। विश्वऽवेदस:। आ। ते। त्वष्टा। पत्ऽसु। जवम्। दधातु। ९२.१।
+वातऽरंहाः। भव। वाजिन्। युज्यमानः। इन्द्रस्य। याहि। प्रऽसवे। मनःऽजवाः। युञ्जन्तु। त्वा। मरुतः। विश्वऽवेदसः। आ। ते। त्वष्टा। पत्ऽसु। जवम्। दधातु। ९२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

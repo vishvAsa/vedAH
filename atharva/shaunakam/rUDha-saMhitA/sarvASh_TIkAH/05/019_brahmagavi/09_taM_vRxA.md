@@ -20,10 +20,9 @@ collection of adages.
 The very trees repel the man, and drive him from their sheltering shade, Whoever claims, O Narada, the treasure that a Brahman owns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तम्। वृक्षा:। अप। सेधन्ति। छायाम्। न:। मा। उप। गा:। इति। य:। ब्राह्मणस्य। सत्। धनम्। अभि। नारद। मन्यते। १९.९।
+तम्। वृक्षाः। अप। सेधन्ति। छायाम्। नः। मा। उप। गाः। इति। यः। ब्राह्मणस्य। सत्। धनम्। अभि। नारद। मन्यते। १९.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

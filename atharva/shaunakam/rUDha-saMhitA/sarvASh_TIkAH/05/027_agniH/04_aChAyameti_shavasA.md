@@ -153,10 +153,9 @@ count 11 + 9 + 8: 11 + 14 = 53, mechanically a *bhurig atijagatī*.
 Hither he comes with power and fatness also, the luminous,. implored with adoration.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अच्छ। अयम्। एति। शवसा। घृता। चित्। ईडान:। वह्नि। नमसा। २७.४।
+अच्छ। अयम्। एति। शवसा। घृता। चित्। ईडानः। वह्नि। नमसा। २७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

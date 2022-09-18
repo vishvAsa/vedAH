@@ -25,10 +25,9 @@ to *-tvāi* (a form found in MS.śB. and Āp.), or by emending it to
 Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency of wealth: guide him to life and length of days.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। इमम्‌। प्रऽतरम्। कृधि। सऽजातानाम्। असत्। वशी। राय:। पोषेण। सम्। सृज। जीवातवे। जरसे। नय। ५.२।
+इन्द्र। इमम्‌। प्रऽतरम्। कृधि। सऽजातानाम्। असत्। वशी। रायः। पोषेण। सम्। सृज। जीवातवे। जरसे। नय। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१३ शत्रुनाशनम्"
 13 (14). Against one's foes.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१३ शत्रुनाशनम्"
 
 [Atharvan (dviṣo varcohartukāmaḥ).—dvyṛcam. sāuryam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 241; Grill, 23, 179; Henry, 5, 56; Griffith, i. 334; Bloo
 
 A charm to win superiority over foes and rivals
 </details>
+

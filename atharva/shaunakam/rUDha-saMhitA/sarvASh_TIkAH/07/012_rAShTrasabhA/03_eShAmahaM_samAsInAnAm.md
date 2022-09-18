@@ -18,10 +18,9 @@ Indra, possessor of the fortune (*bhagín*).
 Of these men seated here I make the splendour and the lore mine own. Indra, make me conspicuous in all this gathered company.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एषाम्। अहम्। सम्ऽआसीनानाम्। वर्च:। विऽज्ञानम्। आ। ददे। अस्या:। सर्वस्या:। सम्ऽसद:। माम्। इन्द्र। भगिनम्। कृणु। १३.३।
+एषाम्। अहम्। सम्ऽआसीनानाम्। वर्चः। विऽज्ञानम्। आ। ददे। अस्याः। सर्वस्याः। सम्ऽसदः। माम्। इन्द्र। भगिनम्। कृणु। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

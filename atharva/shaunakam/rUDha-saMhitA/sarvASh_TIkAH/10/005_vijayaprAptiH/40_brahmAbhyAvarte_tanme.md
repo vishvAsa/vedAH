@@ -16,7 +16,6 @@ title = "४० ब्रह्माभ्यावर्ते तन्मे
 I turn me unto Prayer. May that, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। अभिऽआवर्ते। तत्। मे। द्रविणम्। यच्छतु। तत्। मे। ब्राह्मणऽवर्चसम्। ५.४०।

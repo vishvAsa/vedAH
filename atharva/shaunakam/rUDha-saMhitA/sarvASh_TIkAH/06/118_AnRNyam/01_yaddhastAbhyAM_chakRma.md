@@ -37,10 +37,9 @@ b**, *kilviṣam akṣam aktam avilipsamānāḥ*.
 If we have sinned with both our hands, desiring to take the host of dice for our possession, May both Apsarases to-day forgive us that debt, the fiercely- conquering, fiercely-looking.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। हस्ताभ्याम्। चकृम। किल्बिषाणि। अक्षाणाम्। गत्नुम्। उपऽलिप्समाना:। उग्रंपश्ये। इत्युग्रम्ऽपश्ये। उग्रऽजितौ। तत्। अद्य। अप्सरसौ। अनु। दत्ताम्। ऋणम्। न:। ११८.१।
+यत्। हस्ताभ्याम्। चकृम। किल्बिषाणि। अक्षाणाम्। गत्नुम्। उपऽलिप्समानाः। उग्रंपश्ये। इत्युग्रम्ऽपश्ये। उग्रऽजितौ। तत्। अद्य। अप्सरसौ। अनु। दत्ताम्। ऋणम्। नः। ११८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

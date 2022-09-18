@@ -19,7 +19,6 @@ variant. *Prá kṣiṇīhi* properly ought to be divided in our text.
 As, shattered by the tempest, trees lie withering ruined on the ground. Thus over throw my rivals thou, so crush them down and ruin. them, those born before and after. Let this Varana protect thee well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। वातेन। प्रऽक्षीणाः। वृक्षाः। शेरे। निऽअर्पिताः। एव। सऽपत्नान्। त्वम्। मम। प्र। क्षिणीहि। नि। अर्पय। पूर्वान्। जातान्। उत। अपरान्। वरणः। त्वा। अभि। रक्षतु। ३.१५।

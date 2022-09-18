@@ -7,7 +7,6 @@ title = "१३८ क्लबत्वम्"
 138. To make a certain man impotent.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्लबत्वम्।  
@@ -19,8 +18,6 @@ title = "१३८ क्लबत्वम्"
 [Atharvan (klībakartukāmaḥ).—pañcarcam. vānaspatyam. ānuṣṭubham: 3. pathyāpan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found (except vs. 5) also in Pāipp. i. Used by Kāuś. (48. 32) in a rite of so
 ### Translations
 Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131 (in part and with comment); Griffith, i. 322, 474; Bloomfield, 108, 537.
 </details>
+

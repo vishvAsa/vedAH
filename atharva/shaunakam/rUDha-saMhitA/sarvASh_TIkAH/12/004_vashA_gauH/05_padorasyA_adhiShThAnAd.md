@@ -26,7 +26,6 @@ vikulaṁ dvin nāma*.
 The malady Viklindu springs on him from ground whereon she stands, And suddenly, from fell disease, perish the men on whom she sniffs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पदोः। अस्याः। अधिऽस्थानात्। विऽक्लिन्दुः। नाम। विन्दति। अनामनात्। सम्। शीर्यन्ते। याः। मुखेन। उपऽजिघ्रति। ४.५।

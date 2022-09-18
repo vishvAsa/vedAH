@@ -22,10 +22,9 @@ often elsewhere, 'of every sort and kind.' ⌊Ppp. reads *abāhyaṁ* for
 Let what is inward turn outside, let what is outward be within: Seize and possess, O Plant, the mind of maidens rich in every charm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अन्तरम्। तत्। बाह्यम्। यत्। बाह्यम्। तत्। अन्तरम्। कन्यानाम्। विश्वऽरूपाणाम्। मन:। गृभाय। ओषधे। ३०.४।
+यत्। अन्तरम्। तत्। बाह्यम्। यत्। बाह्यम्। तत्। अन्तरम्। कन्यानाम्। विश्वऽरूपाणाम्। मनः। गृभाय। ओषधे। ३०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

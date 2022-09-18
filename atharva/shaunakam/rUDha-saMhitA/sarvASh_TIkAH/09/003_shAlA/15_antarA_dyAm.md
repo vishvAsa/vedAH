@@ -25,10 +25,9 @@ good *triṣṭubh*—pāda ⌊such was the case at ix. 2. 7 also⌋), and in **
 All space that lies between the earth and heaven, therewith I take this house for thy possession, And all that measures out the air's mid-region I make a hollow to contain thy treasures. Therewith I take the house for his possession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरा। द्याम्। च। पृथिवीम्। च। यत्। व्यच:। तेन। शालाम्। प्रति। गृह्णामि। ते। इमाम्। यत्। अन्तरिक्षम्। रजस:। विऽमानम्। तत्। कृण्वे। अहम्। उदरम्। शेवधिऽभ्य:। तेन। शलाम्। प्रति। गृह्णामि। तस्मै। ३.१५।
+अन्तरा। द्याम्। च। पृथिवीम्। च। यत्। व्यचः। तेन। शालाम्। प्रति। गृह्णामि। ते। इमाम्। यत्। अन्तरिक्षम्। रजसः। विऽमानम्। तत्। कृण्वे। अहम्। उदरम्। शेवधिऽभ्यः। तेन। शलाम्। प्रति। गृह्णामि। तस्मै। ३.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ to the other two fires.
 When, angered that a man hath died, we in our wrath have banished thee, That deed is easily set right through thee: we kindle thee again.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। त्वा। क्रुध्दाः। प्रऽचक्रुः। मन्युना। पुरुषे। मृते। सुऽकल्पम्। अग्ने। तत्। त्वया। पुनः। त्वा। उत्। दीपयामसि। २.५।

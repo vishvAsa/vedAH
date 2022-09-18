@@ -19,7 +19,6 @@ The *pada*-txt strangely reads *ā́॰vṛtā* in **a**, instead of *-tāḥ*.
 If ye be girt about with clouds of darkness, bound as with a net. We rend and tear all witcheries hence and to their maker send them back.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। स्थ। तमसा। आऽवृता। जालेन। अभिहिताःऽइव  सर्वाः। सम्ऽलुप्य। इतः। कृत्याः। पुनः। कर्त्रे। प्र। हिण्मसि। १.३०।

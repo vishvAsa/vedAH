@@ -18,7 +18,6 @@ more and more etc. etc.
 The Charin Brihaspati, etc. This Charm hath Soma put on him for might, for hearing, and for sight. This yields him energy indeed, again, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। सोमः। प्रति। अमुञ्चत। महे। श्रोत्राय। चक्षसे। सः। अस्मै। वर्चः। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.८।

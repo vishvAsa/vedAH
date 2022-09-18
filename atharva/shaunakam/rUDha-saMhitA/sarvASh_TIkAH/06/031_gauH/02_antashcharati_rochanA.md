@@ -33,10 +33,9 @@ Prāt. iii. 34. ⌊Ppp. also has *vyākhyan*.⌋
 As expiration from his breath his radiance penetrates within. The Bull shines out through all the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्त:। चरति। रोचना। अस्य। प्राणात्। अपानत:। वि। अख्यत्। महिष:। स्व:। ३१.२।
+अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः। ३१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ artificially, as 7 × 4 = 28.
 Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all the Gods art thou: therefore we call thee hither-- ward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतीची। सोमम्। असि। प्रतीची। उत। सूर्यम्। प्रतीची। विश्वान्। देवान्। ताम्। त्वा। अच्छऽआवदामसि। ३९.३।

@@ -17,7 +17,6 @@ Vivasvant we address: let them free us from distress.
 We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रूमः। राजानम्। वरुणम्। मित्रम्। विष्णुम्। अथो इति। भगम्। अंशम्। विवस्वन्तम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.२।

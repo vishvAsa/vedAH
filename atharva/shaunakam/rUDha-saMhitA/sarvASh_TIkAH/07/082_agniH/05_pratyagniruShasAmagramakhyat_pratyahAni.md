@@ -23,10 +23,9 @@ d**. The comm. is still more faithful to that version, by giving the
 Agni hath looked upon the spring of Mornings, looked on the days, the earliest Jatavedas. So he in countless places hath extended, full against heaven and earth, the beams of Surya.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रति। अग्नि:। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथम:। जातऽवेदा:। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। ८७.५।
+प्रति। अग्निः। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथमः। जातऽवेदाः। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। ८७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

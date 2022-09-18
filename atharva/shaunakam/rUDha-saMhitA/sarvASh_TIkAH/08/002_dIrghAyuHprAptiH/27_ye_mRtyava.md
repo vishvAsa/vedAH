@@ -20,10 +20,9 @@ Ppp. reads in **b** *nāṣṭrātta* (*-tu?*) *jīvyāḥ*. ⌊See note to iii.
 One and a hundred modes of death, dangers that may be over- come, May Gods deliver thee from this when Agni, dear to all men, bids.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। मृत्यव:। एकऽशतम्। या:। नाष्ट्रा:। अतिऽतार्या:। मुञ्चन्तु। तस्मात्। त्वाम्। देवा:। अग्ने:। वैश्वानरात्। अधि। २.२७।
+ये। मृत्यवः। एकऽशतम्। याः। नाष्ट्राः। अतिऽतार्याः। मुञ्चन्तु। तस्मात्। त्वाम्। देवाः। अग्नेः। वैश्वानरात्। अधि। २.२७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ viii. 90 (101). 14 **d**. 'The purifying one' is probably here the wind.
 Into the floods had Matarisvan entered, the deities had past in- to the waters. There stood the mighty measurer of the region: into the ver- dant plants went Pavamana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप्ऽसु। आसीत्। मातरिश्वा। प्रऽविष्टः। प्रऽविष्टाः। देवाः। सलिलान‍ि। आसन्। बृहन्। ह। तस्थौ। रजसः। विऽमानः। पवमानः। हरितः। आ। विवेश। ८.४०।

@@ -24,7 +24,6 @@ that their technical meaning was doubtful to him, as to us. Ppp. has for
 Verse, Song, and Sacrificial Text, chanting, the prelude, and the laud, The hum is in the Residue, the tone, the murmur of the psalm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋक्। साम। यजुः। उत्ऽशिष्टे। उत्ऽगीथः। प्रऽस्तुतम्। स्तुतम्। हिङ्ऽकार। उत्ऽशिष्टे। स्वरः। साम्नः। मेडिः। च। तत्। मय‍ि। ९.५।

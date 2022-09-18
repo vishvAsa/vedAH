@@ -25,10 +25,9 @@ SPP. and the comm. and Ppp. Correct the *Index* accordingly.⌋
 Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whither let the fierceness of your nature turn away, O Teeth! Harm not your mother or your sire.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽहूतौ। सऽयुजौ। स्योनौ। दन्तौ। सुऽमङ्गलौ। अन्यत्र। वाम्। घोरम्। तन्व:। परा। एतु। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.३।
+उपऽहूतौ। सऽयुजौ। स्योनौ। दन्तौ। सुऽमङ्गलौ। अन्यत्र। वाम्। घोरम्। तन्वः। परा। एतु। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

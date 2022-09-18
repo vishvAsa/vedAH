@@ -17,10 +17,9 @@ Aśvins, make ye the mark, in order to thousand-fold prosperity.
 Even as Gods and Asuras, even as mortal men have done, Do ye, that these may multiply in thousands, Asvins! make the mark.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। चक्रु:। देवऽअसुरा:। यथा। मनुष्या:। उत। एव। सहस्रऽपोषाय। कृणुतम्। लक्ष्म। अश्विना। १४१.३।
+यथा। चक्रुः। देवऽअसुराः। यथा। मनुष्याः। उत। एव। सहस्रऽपोषाय। कृणुतम्। लक्ष्म। अश्विना। १४१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

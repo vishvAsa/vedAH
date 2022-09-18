@@ -22,7 +22,6 @@ verb *sam-nud*, has the verse used to accompany the act of coition.
 Join thou this couple, Indra! like the Chakravaka and his. mate: May they attain to full old age with children in their happy home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। इमौ। चन्द्र। सम्। नुद। चक्रवाकाऽइव। दंपती इति दम्ऽपती। प्रऽजया। एनौ। सुऽअस्तकौ। विश्वम्। आयुः। वि। अश्नुताम्। २.६४।

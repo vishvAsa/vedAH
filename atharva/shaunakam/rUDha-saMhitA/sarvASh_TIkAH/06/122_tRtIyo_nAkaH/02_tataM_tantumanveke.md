@@ -33,10 +33,9 @@ also *te* for *cet* in **d**. \*⌊The Calc. ed. seems to have
 This long-drawn thread some follow who have offered in order- ed course oblation to the Fathers: Some, offering and giving to the friendless, if they can give: herein they find their heaven. 3, Stand on my side and range yourselves in order, ye two! The faithful reach this world of Svarga. When your dressed food hath been bestowed on Agni, to guard it, wife and husband, come together!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ततम्। तन्तुम्। अनु। एके। तरन्ति। येषाम्। दत्तम्। पित्र्यम्। आऽअयनेन। अबन्धु। एके। ददत:। प्रऽयच्छन्त:। दातुम्। च। इत्। शिक्षान्। स:। स्व:ऽग:। एव। १२२.२।
+ततम्। तन्तुम्। अनु। एके। तरन्ति। येषाम्। दत्तम्। पित्र्यम्। आऽअयनेन। अबन्धु। एके। ददतः। प्रऽयच्छन्तः। दातुम्। च। इत्। शिक्षान्। सः। स्वःऽगः। एव। १२२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

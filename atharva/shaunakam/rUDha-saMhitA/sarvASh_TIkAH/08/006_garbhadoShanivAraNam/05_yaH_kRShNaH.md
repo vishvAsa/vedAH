@@ -19,10 +19,9 @@ Ppp. reads, in **c, d**, *asyā bhaṅsaso muṣkayor apa* ⌊cf. vss. 2, 23⌋.
 The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we drive, from bosom, waist, and parts below.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। कृष्ण:। केशी। असुर:। स्तम्बऽज:। उत। तुण्डिक:। अरायान्। अस्या:। मुष्काभ्याम्। भंसस:। अप। हन्मसि। ६.५।
+यः। कृष्णः। केशी। असुरः। स्तम्बऽजः। उत। तुण्डिकः। अरायान्। अस्याः। मुष्काभ्याम्। भंससः। अप। हन्मसि। ६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

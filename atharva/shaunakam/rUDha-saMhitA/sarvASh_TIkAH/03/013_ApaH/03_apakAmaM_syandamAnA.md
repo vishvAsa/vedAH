@@ -23,10 +23,9 @@ reads *hikam* for *hitam.*
 Indra restrained you with his might. Goddesses, as ye glided on Not in accordance with his will: hence have ye got the name of Streams.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽकामम्। स्यन्दमाना:। अवीवरत। व:। हि। कम्। इन्द्र:। व:। शक्तिऽभि:। देवी:। तस्मात्। वा:। नाम। व:। हितम्। १३.३।
+अपऽकामम्। स्यन्दमानाः। अवीवरत। वः। हि। कम्। इन्द्रः। वः। शक्तिऽभिः। देवीः। तस्मात्। वाः। नाम। वः। हितम्। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

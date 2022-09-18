@@ -24,10 +24,9 @@ comm. takes it as accented (= *asmadīyam pāpam*).
 Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons. Ye give us store of energy and power. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप। इत:। वायो इति। सविता। च। दु:ऽकृतम्। अप। रक्षांसि। शिमिदाम्। च। सेधतम्। सम्। हि। ऊर्जया। सृजथ:। सम्। बलेन। तौ। न:। मुञ्चतम्। अंहस:। २५.४।
+अप। इतः। वायो इति। सविता। च। दुःऽकृतम्। अप। रक्षांसि। शिमिदाम्। च। सेधतम्। सम्। हि। ऊर्जया। सृजथः। सम्। बलेन। तौ। नः। मुञ्चतम्। अंहसः। २५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

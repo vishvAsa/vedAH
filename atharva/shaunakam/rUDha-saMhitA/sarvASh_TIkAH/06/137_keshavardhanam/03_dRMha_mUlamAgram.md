@@ -18,10 +18,9 @@ herb; let the black hairs grow out of thy head like reeds.
 Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let the black locks spring thick and strong and grow like reeds upon thy head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दृंह। मूलम्। आ। अग्रम्। यच्छ। वि। मध्यम्। यमय। ओषधे। केशा:। नडा:ऽइव। वर्धन्ताम्। शीर्ष्ण:। ते। असिता:। परि। १३७.३।
+दृंह। मूलम्। आ। अग्रम्। यच्छ। वि। मध्यम्। यमय। ओषधे। केशाः। नडाःऽइव। वर्धन्ताम्। शीर्ष्णः। ते। असिताः। परि। १३७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

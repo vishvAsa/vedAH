@@ -7,7 +7,6 @@ title = "००५ ब्रह्मगवी"
 5. The Brahman's cow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मगवी।  
@@ -52,8 +51,6 @@ title = "००५ ब्रह्मगवी"
 [Paryāya VII.—dvādaçakaḥ. 62-64, 66, 68-70. prajāpatyā ’nuṣṭubh; 65. gāyatrī; 67. prājāpatyā gāyatrī; 71. āsurī pan̄kti; 72. prājāpatyā triṣṭubh; 73. āsury uṣṇih.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -71,3 +68,4 @@ Translated: Muir, i2. 288 (vss. 4-15); Ludwig, p. 529 (vss. 47-73); Henry, 209, 
 
 On the duty of giving cows to Brahmans, and the sin and danger of withholding the gift
 </details>
+

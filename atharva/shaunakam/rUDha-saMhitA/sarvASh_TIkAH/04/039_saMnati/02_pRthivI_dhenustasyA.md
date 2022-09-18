@@ -21,10 +21,9 @@ mss., except one of SPP's, have *ā́yuḥ pr-*, which SPP. retains.
 Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृथिवी। धेनु:। तस्या:। अग्नि:। वत्स:। सा। मे। अग्निना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयु:। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.२।
+पृथिवी। धेनुः। तस्याः। अग्निः। वत्सः। सा। मे। अग्निना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

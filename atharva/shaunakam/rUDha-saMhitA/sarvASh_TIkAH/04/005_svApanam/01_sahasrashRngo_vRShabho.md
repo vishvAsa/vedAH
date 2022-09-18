@@ -21,10 +21,9 @@ more likely, but even that only as typifying the night.
 The Bull who hath a thousand horns, who rises up from out the sea, By him the strong and mighty one we lull the folk to rest and. sleep.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहस्रऽशृङ्ग:। वृषभ:। य:। समुद्रात्। उत्ऽआचरत्। तेन। सहस्येन। वयम्। नि। जनान्। स्वापयामसि। ५.१।
+सहस्रऽशृङ्गः। वृषभः। यः। समुद्रात्। उत्ऽआचरत्। तेन। सहस्येन। वयम्। नि। जनान्। स्वापयामसि। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

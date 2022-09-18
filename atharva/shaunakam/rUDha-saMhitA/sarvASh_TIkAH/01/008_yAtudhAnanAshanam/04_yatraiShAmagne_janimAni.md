@@ -24,10 +24,9 @@ the Anukr. if we may take *bārhatagarbha* as meaning *dvibārh-*
 As thou, O Agni Jatavedas, knowest the races of these secret greedy beings, So strengthened by the power of prayer, O Agni, crushing them down a hundred times destroy them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्र। एषाम्। अग्ने। जनिमानि। वेत्थ। गुहा। सताम्। अत्त्रिणाम्। जातऽवेद:। तान्। त्वम्। ब्रह्मणा। ववृधान:। जहि। एषाम्। शतऽतर्हम्। अग्ने।
+यत्र। एषाम्। अग्ने। जनिमानि। वेत्थ। गुहा। सताम्। अत्त्रिणाम्। जातऽवेदः। तान्। त्वम्। ब्रह्मणा। ववृधानः। जहि। एषाम्। शतऽतर्हम्। अग्ने।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

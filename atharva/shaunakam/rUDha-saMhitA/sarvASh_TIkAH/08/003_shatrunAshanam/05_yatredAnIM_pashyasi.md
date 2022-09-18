@@ -21,10 +21,9 @@ pátantam*. Ppp. (vs. 6) reads in **d** *viddhi śarvā*. Many mss.
 Where now thou seest, Agni Jatavedas! a Yatudhana, standing still or roaming. Or one that flieth through the air's mid-region, kindled to fury as an archer pierce him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्र। इदानीम्। पश्यसि। जातऽवेद:। तिष्ठन्तम्। अग्ने। उत। वा। चरन्तम्। उत। अन्तरिक्षे। पतन्तम्। यातुऽधानम्। तम। अस्ता। विध्य। शर्वा। शिशान:। ३.५।
+यत्र। इदानीम्। पश्यसि। जातऽवेदः। तिष्ठन्तम्। अग्ने। उत। वा। चरन्तम्। उत। अन्तरिक्षे। पतन्तम्। यातुऽधानम्। तम। अस्ता। विध्य। शर्वा। शिशानः। ३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

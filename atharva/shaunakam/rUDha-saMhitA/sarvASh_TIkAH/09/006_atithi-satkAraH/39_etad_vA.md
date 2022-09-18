@@ -27,10 +27,9 @@ wanting in Ppp. The so-called *gāyatrī* is to be thus divided: 7 + 11 +
 Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he should not eat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एतत्। वै। ऊं इति। स्वादीय:। यत्। अधिऽगवम्। क्षीरम्। वा। मांसम्। वा। तत्। एव। न। अश्नीयात्। ८.९।
+एतत्। वै। ऊं इति। स्वादीयः। यत्। अधिऽगवम्। क्षीरम्। वा। मांसम्। वा। तत्। एव। न। अश्नीयात्। ८.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

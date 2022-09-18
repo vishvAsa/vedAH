@@ -27,7 +27,6 @@ and *āhutīs* in **c**.⌋
 Who gave command unto the wind that blowet! Who ranged the five united heavenly regions? Who were the Gods who cared not for oblations! Which of them brought the sacrificial waters?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येभिः। वातः। इषितः। प्रऽवार्ति। ये। ददन्ते। पञ्च। दिशः। सध्रीचीः। ये। आऽहुतिम्। अतिऽअमन्यन्त। देवाः। अपाम्। नेतारः। कतमे। ते। आसन्। ८.३५।

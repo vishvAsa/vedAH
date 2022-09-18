@@ -31,10 +31,9 @@ xi. 66.⌋
 Ye twain have conquered, and have not been vanquished: not either of the pair hath been defeated. Ye, Indra Vishnu, when ye fought your battle; produced this infinite with three divisions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उभा। जिग्यथु:। न। परा। जयेथे इति। न। परा। जिग्ये। कतर:। चन। एनयो:। इन्द्र:। च। विष्णो इति। यत्। अपस्पृधेथाम्। त्रेधा। सहस्रम्। वि। तत्। ऐरयेथाम्। ४५.१।
+उभा। जिग्यथुः। न। परा। जयेथे इति। न। परा। जिग्ये। कतरः। चन। एनयोः। इन्द्रः। च। विष्णो इति। यत्। अपस्पृधेथाम्। त्रेधा। सहस्रम्। वि। तत्। ऐरयेथाम्। ४५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

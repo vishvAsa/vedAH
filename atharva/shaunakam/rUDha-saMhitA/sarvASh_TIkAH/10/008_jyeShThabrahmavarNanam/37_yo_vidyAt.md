@@ -18,7 +18,6 @@ know the great *brā́hmaṇa*.
 The man who knows the drawn-out string on which these crea- tures all are strung, The man who knows the thread's thread, he may know the mighty Brahmana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। विद्यात्। सूत्रम्। विऽततम्। यस्मिन्। आऽउताः। प्रऽजाः। इमाः। सूत्रम्। सूत्रस्य। यः। विद्यात्। सः। विद्यात्। ब्राह्मणम्। महत्। ८.३७।

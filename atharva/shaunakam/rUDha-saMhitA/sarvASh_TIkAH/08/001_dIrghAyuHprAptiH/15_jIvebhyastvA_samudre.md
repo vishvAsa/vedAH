@@ -27,10 +27,9 @@ the hymn.
 May saving Savitar, Vayu, Indra, Dhatar restore thee to com- munion with the living. Let not thy vigour or thy breath forsake thee: we recall thy life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जीवेभ्य:। त्वा। सम्ऽउदे। वायु:। इन्द्र:। धाता। दधातु। सविता। त्रायमाण:। मा। त्वा। प्राण:। बलम्। हासीत्। असुम्। ते। अनु। ह्वयामसि। १.१५।
+जीवेभ्यः। त्वा। सम्ऽउदे। वायुः। इन्द्रः। धाता। दधातु। सविता। त्रायमाणः। मा। त्वा। प्राणः। बलम्। हासीत्। असुम्। ते। अनु। ह्वयामसि। १.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

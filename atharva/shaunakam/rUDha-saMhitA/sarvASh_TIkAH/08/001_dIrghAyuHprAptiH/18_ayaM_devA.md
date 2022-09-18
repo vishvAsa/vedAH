@@ -17,10 +17,9 @@ by what is of thousand-fold might do we make pass up out of death.
 Here let this man, O Gods, remain: let him not go to yonder world. We rescue him from Mrityu with a charm that hath a thousand powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। देवा:। इह। एव। अस्तु। अयम्। मा। अमुत्र। गात्। इत:। इमम्। सहस्रऽवीर्येण। मृत्यो:। उत्। पारयामसि। १.१८।
+अयम्। देवाः। इह। एव। अस्तु। अयम्। मा। अमुत्र। गात्। इतः। इमम्। सहस्रऽवीर्येण। मृत्योः। उत्। पारयामसि। १.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००३ मूत्रमोचनम्"
 3. Against obstruction of urine: with a reed.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मूत्रमोचनम्।  
@@ -18,8 +17,6 @@ title = "००३ मूत्रमोचनम्"
 
 [Atharvan.—navarcam. parjanyamitrādibahudevatyam. ānuṣṭubham: 1-5. pathyāpan̄kti]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 395; Griffith, i. 4; Bloomfield, 10, 235.—Cf. Bergaigne
 
 A charm against constipation and suppression of urine
 </details>
+

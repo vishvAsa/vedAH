@@ -7,7 +7,6 @@ title = "०११ श्रेयःप्राप्तिः"
 11. To counteract witchcraft: with an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 श्रेयःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०११ श्रेयःप्राप्तिः"
 
 [śukra.—kṛtyāpratiharaṇasūktam; kṛtyādūṣaṇadevatyam. 1. 4p. virāḍgāyatrī; 2-5. 3-p. paroṣṇih (4. pipīlikamadhyā nicṛt).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 163; Griffith, i. 54.—Discussed by Bloomfield, AJP. v
 
 Counter-charm, with an amulet, against an enemy's spell
 </details>
+

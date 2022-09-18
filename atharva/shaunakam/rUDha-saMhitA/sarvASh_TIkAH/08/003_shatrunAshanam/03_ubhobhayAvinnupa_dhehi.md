@@ -22,10 +22,9 @@ RV. reads *dáṅṣṭrā* at end of **a**, and *rājan* for *agne* at end of
 Apply thy teeth, the upper and the lower, thou who hast both, enkindled and destroying. Roam also in the air, O King, around us, and with thy jaws assail the wicked spirits.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उभा। उभयाविन्। उप। धेहि। दंष्ट्रौ। हिंस्र:। शिशान:। अवरम्। परम्। च। उत। अन्तरिक्षे। परि। याहि। अग्ने। जम्भै:। सम्। धेहि। अभि। यातुऽधानान्। ३.३।
+उभा। उभयाविन्। उप। धेहि। दंष्ट्रौ। हिंस्रः। शिशानः। अवरम्। परम्। च। उत। अन्तरिक्षे। परि। याहि। अग्ने। जम्भैः। सम्। धेहि। अभि। यातुऽधानान्। ३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

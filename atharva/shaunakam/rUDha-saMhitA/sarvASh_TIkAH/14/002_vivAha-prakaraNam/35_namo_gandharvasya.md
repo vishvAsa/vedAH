@@ -24,7 +24,6 @@ the pāda and make the definition of the Anukr. exact.
 Homage we pay to the Gandharva's favour, obeisance to his eye and fiery anger. Visvavasu, with prayer we pay thee homage. Go hence to those Apsarases thy consorts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। गन्धर्वस्य। नमसे। नमः। भामाय। चक्षुषे। च। कृण्मः। विश्ववसो इति विश्वऽवसो। ब्रह्मणा। ते। नमः। अभि। जायाः। अप्सरसः। परा। इहि। २.३५।

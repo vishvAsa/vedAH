@@ -19,7 +19,6 @@ Ppp. puts this verse at the end of the book.
 Be pleasant to the husband's sire, sweet to thy household and thy lord, To all this clan be gentle, and favour these men's prosperity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्योना। भव। श्वशुरेभ्यः। स्योना। पत्ये। गृहेभ्यः। स्योना। अस्यै। सर्वस्यै। विशे। स्योना। पुष्टाय। एषाम्। भव। २.२७।

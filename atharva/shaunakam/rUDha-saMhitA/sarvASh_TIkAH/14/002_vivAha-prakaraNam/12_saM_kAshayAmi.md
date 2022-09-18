@@ -25,7 +25,6 @@ verse (13 + 11: 11 + 12 = 47) is but a poor *jagatī*.
 I look upon the house and bride's procession with prayer and with the gentle eye of friendship. All that is covered there in perfect beauty may Savitar make pleasant to the husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। काशयामि। वहतुम्। ब्रह्मणा। गृहैः। अघोरेण। चक्षुषा। मित्र‍ियेण। परिऽआनध्दम्। विश्वऽरूपम। यत्। अस्ति। स्योनम्। पतिऽभ्यः। सविता। तत्। कृणोतु। २.१२।

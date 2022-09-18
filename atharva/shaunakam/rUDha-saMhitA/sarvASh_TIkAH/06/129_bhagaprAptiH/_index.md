@@ -7,7 +7,6 @@ title = "१२९ भगप्राप्तिः"
 129. For good-fortune: with a śiṅśápā amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भगप्राप्तिः  
@@ -19,8 +18,6 @@ title = "१२९ भगप्राप्तिः"
 [Atharvān̄giras.—bhagadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuś. (36. 12
 ### Translations
 Translated: Griffith, i. 317.—The association of this hymn with 139 seems to imply something more specific than "good-fortune," namely, luck in love for a man, as Keśava's yasya (not yasyās) sāubhāgyam ichati indicates.
 </details>
+

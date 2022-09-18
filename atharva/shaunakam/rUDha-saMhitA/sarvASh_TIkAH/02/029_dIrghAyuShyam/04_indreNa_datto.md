@@ -24,10 +24,9 @@ correctly, after that word.
 As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maruts. Let him, O Heaven and Earth, rest in your bosom. Let him not hunger, let him not be thirsty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रेण। दत्त:। वरुणेन। शिष्ट:। मरुत्ऽभि:। उग्र:। प्रऽहित:। न:। आ। अगन्। एष:। वाम्। द्यावापृथिवी इति। उपऽस्थे। मा। क्षुधत्। मा। तृषत्। २९.४।
+इन्द्रेण। दत्तः। वरुणेन। शिष्टः। मरुत्ऽभिः। उग्रः। प्रऽहितः। नः। आ। अगन्। एषः। वाम्। द्यावापृथिवी इति। उपऽस्थे। मा। क्षुधत्। मा। तृषत्। २९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

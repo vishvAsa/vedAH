@@ -23,10 +23,9 @@ order to gain time for his deeds." R.
 Thou in that house, the highest or the lowest, which thy protec- tion guards, bestowest riches. Establish ye the ever-wandering mother, and bring full many deeds to their completion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि। तत्। दधिषे। अवरे। परे। च। यस्मिन्। आविथ। अवसा। दुरोणे। आ। स्थापयत। मातरम्। जिगत्नुम्। अत:। इन्वत। कर्वराणि। भूरि। २.६।
+नि। तत्। दधिषे। अवरे। परे। च। यस्मिन्। आविथ। अवसा। दुरोणे। आ। स्थापयत। मातरम्। जिगत्नुम्। अतः। इन्वत। कर्वराणि। भूरि। २.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

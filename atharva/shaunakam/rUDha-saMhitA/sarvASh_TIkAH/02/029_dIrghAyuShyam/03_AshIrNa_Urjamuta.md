@@ -38,10 +38,9 @@ from *āśír* 'milk'⌋. He regards the *āu* of *sāupra-* in **a** as simply
 May this our prayer bring strength and goodly offspring. Give, both of you one-minded, strength and riches. Let him with might win fields and victory, Indra! setting beneath his feet the rest, his rivals.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽशी:। न:। ऊर्जम्। उत। सौप्रजा:ऽत्वम्। दक्षम्। धत्तम्। द्रविणम्। सऽचेतसौ। जयम्। क्षेत्राणि। सहसा। अयम्। इन्द्र। कृण्वान:। अन्यान्। अधरान्। सऽपत्नान्। २९.३।
+आऽशीः। नः। ऊर्जम्। उत। सौप्रजाःऽत्वम्। दक्षम्। धत्तम्। द्रविणम्। सऽचेतसौ। जयम्। क्षेत्राणि। सहसा। अयम्। इन्द्र। कृण्वानः। अन्यान्। अधरान्। सऽपत्नान्। २९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

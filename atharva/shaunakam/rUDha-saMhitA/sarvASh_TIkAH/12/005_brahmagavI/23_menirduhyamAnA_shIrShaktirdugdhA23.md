@@ -16,7 +16,6 @@ title = "२३ मेनिर्दुह्यमाना शीर्षक
 A missile when milking, pain in the head when milked;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मेनिः। दुह्यमाना। शीर्षक्तिः। दुग्धा। ७.१२।

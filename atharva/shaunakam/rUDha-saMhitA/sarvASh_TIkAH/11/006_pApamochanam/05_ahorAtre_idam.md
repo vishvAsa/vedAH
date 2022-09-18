@@ -19,7 +19,6 @@ sarvān*.
 This word of ours to Day and Night, and to the Sun and Moon we speak, All the Adityas we address: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहोरात्रे इति। इदम्। ब्रूमः। सूर्याचन्द्रमसौ। उभा। विश्वान्। आदित्यान्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.५।

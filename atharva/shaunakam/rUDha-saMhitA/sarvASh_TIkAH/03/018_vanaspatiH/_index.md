@@ -7,7 +7,6 @@ title = "०१८ वनस्पतिः"
 18. Against a rival wife: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वनस्पतिः।  
@@ -19,8 +18,6 @@ title = "०१८ वनस्पतिः"
 [Atharvan.—vānaspatyam. ānuṣṭubham: 4. 4-p. anuṣṭubgarbhā uṣṇih; 6. uṣṇiggarbhā pathyāpan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ This peculiarly Atharvan hymn has found its way also into the tenth book of the 
 
 A jealous wife's incantation against a rival
 </details>
+

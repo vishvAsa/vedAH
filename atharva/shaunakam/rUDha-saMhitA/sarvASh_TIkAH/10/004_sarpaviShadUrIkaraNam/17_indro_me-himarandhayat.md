@@ -22,7 +22,6 @@ me ‘hīn ajambhayat*, and ⌊for **d**⌋ *kuśirṇīlaṁ naśonaśīṁ*.
 Indra hath given him up to me, the female viper and the male, The adder, him with stripes athwart. Kasarnila, Dasonasi.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रः। मे। अहिम्। अरन्धयत्। पृदाकुम्। च। पृदाक्वम्। स्वजम्। तिरश्चिऽराजिम्। कसर्णीलम्। दशोनसिम्। ४.१७।

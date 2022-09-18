@@ -20,10 +20,9 @@ or 'herewith' i.e. 'with this spell'?⌋
 The shaft that Rudra hath shot forth against thy members and thy heart, Here do we draw from thee to-day, and turn it hence to every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। रुद्र:। इषुम्। आस्यत्। अङ्गेभ्य:। हृदयाय:। च। इदम्। ताम्। अद्य। त्वत्। वयम्। विषूचीम्। वि। वृहामसि। ९०.१।
+याम्। ते। रुद्रः। इषुम्। आस्यत्। अङ्गेभ्यः। हृदयायः। च। इदम्। ताम्। अद्य। त्वत्। वयम्। विषूचीम्। वि। वृहामसि। ९०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

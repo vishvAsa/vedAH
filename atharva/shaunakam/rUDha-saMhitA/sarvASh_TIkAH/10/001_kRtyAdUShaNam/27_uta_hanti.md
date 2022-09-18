@@ -21,7 +21,6 @@ of *-dā́ya* to *-dhā́ya* in **b**, and the translation implies the change.
 He waits, and aiming with his shaft smites him who first would shoot at him, And, when the foeman deals a blow before him, following strikes him down.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत। हन्ति। पूर्वऽआसिनम्। प्रतिऽआदाय। अपरः। इष्वा। उत। पूर्वस्य। निऽघ्नतः। नि। हन्ति। अपरः। प्रति। १.२७।

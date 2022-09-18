@@ -7,7 +7,6 @@ title = "०८२ अग्निः"
 82 (87). Praise and prayer to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अग्निः।  
@@ -18,8 +17,6 @@ title = "०८२ अग्निः"
 
 [śāunaka (sampatkāmaḥ).—ṣaḍṛcam. āgneyam. trāiṣṭubham: 2. kakummatī bṛhatī; 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 428; Henry, 34, 102; Griffith, i. 369.
 
 In praise of Agni
 </details>
+

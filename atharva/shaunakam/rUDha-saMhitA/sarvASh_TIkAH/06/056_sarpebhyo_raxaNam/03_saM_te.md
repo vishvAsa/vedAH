@@ -23,10 +23,9 @@ some object or instrument used in the incantation.
 I close together fangs with fang, I close together jaws with jaw. I close together tongue with tongue, I close together mouth with mouth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। ते। हन्मि। दता। दत:। सम्। ऊं इति। ते। हन्वा। हनू इति। सम्। ते। जिह्वया। जिह्वाम्। सम्। ऊं इति। आस्ना। अहे। आस्यम्। ५६.३।
+सम्। ते। हन्मि। दता। दतः। सम्। ऊं इति। ते। हन्वा। हनू इति। सम्। ते। जिह्वया। जिह्वाम्। सम्। ऊं इति। आस्ना। अहे। आस्यम्। ५६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

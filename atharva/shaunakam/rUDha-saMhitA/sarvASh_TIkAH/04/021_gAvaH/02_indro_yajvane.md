@@ -27,10 +27,9 @@ and part of SPP's, read *mukhāyati* in **b**.
 Indra aids him who offers sacrifice and praise: he takes not what is his, and gives him more thereto. Increasing ever more and ever more his wealth, he makes the pious dwell within unbroken bounds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। यज्वने। गृणते। च। शिक्षते। उप। इत्। ददाति। न। स्वम्। मुषायति। भूय:ऽभूय:। रयिम्। इत्। अस्य। वर्धयन्। अभिन्ने। खिल्ये। नि। दधाति। देवऽयुम्। २१.२।
+इन्द्रः। यज्वने। गृणते। च। शिक्षते। उप। इत्। ददाति। न। स्वम्। मुषायति। भूयःऽभूयः। रयिम्। इत्। अस्य। वर्धयन्। अभिन्ने। खिल्ये। नि। दधाति। देवऽयुम्। २१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

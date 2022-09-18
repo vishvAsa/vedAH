@@ -20,7 +20,6 @@ verses.
 I turn me to the regions bright with splendour. May they bestow upon me wealth and glory of a Brahman's rank.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिशः। ज्योतिष्मतीः। अभिऽआवर्ते। ताः। मे। द्रविणम्। यच्छन्तु। ताः। मे। ब्राह्मणऽवर्चसम्। ५.३८।

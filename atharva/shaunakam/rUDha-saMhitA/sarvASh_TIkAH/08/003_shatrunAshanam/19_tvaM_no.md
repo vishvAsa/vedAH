@@ -22,10 +22,9 @@ out in our edition under the *-du-* of *paścā́d utá* in **b**.
 Guard us, O Agni, from above and under, protect us from be- hind and from before us; And may thy flames, most fierce and never wasting, glowing with fervent heat, consume the sinner.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। न:। अग्ने। अधरात्। उदक्त:। त्वम्। पश्चात्। उत। रक्ष। पुरस्तात्। प्रति। त्ये। ते। अजरास:। तपिष्ठा:। अघऽशंसम्। शोशुचत:। दहन्तु। ३.१९।
+त्वम्। नः। अग्ने। अधरात्। उदक्तः। त्वम्। पश्चात्। उत। रक्ष। पुरस्तात्। प्रति। त्ये। ते। अजरासः। तपिष्ठाः। अघऽशंसम्। शोशुचतः। दहन्तु। ३.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Ppp. reads *gandharvāpsaraso devā rudrān̄girasas tvā*. ⌊Cf. note to vs.
 The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will be the guards: o'ertake and pass the Atiratra, thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। पितरः। मनुष्याः। गन्धर्वऽअप्सरसः। च। ये। ते। त्वा। सर्वे। गोप्स्यन्ति। सा। अतिऽरात्रम्। अति। द्रव। ९.९।

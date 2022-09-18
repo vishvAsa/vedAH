@@ -7,7 +7,6 @@ title = "०३३ यक्ष्मविबर्हणम्"
 33. For expulsion of yákṣma from all parts of the body.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मविबर्हणम्।  
@@ -18,8 +17,6 @@ title = "०३३ यक्ष्मविबर्हणम्"
 
 [Brahman.—saptarcam. yakṣmavibarhaṇam; cāndramasam; āyuṣyam. ānuṣṭubham. 3. kakummatī; 4. 4-p. bhurig uṣṇih; 5. upariṣṭādvirāḍbṛhatī; 6. uṣṇiggarbhā nicṛdanuṣṭubh; 7. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Kuhn, KZ. xiii. 66 ff.; Weber, xiii. 205
 
 I
 </details>
+

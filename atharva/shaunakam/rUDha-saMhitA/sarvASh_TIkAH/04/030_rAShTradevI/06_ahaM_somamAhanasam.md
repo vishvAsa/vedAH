@@ -25,7 +25,6 @@ that the first pāda is *triṣṭubh*.
 I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bhaga. I load with wealth the zealous sacrificer who pours the juice and offers his oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। सोमम्। आहनसम्। बिभर्मि। अहम्। त्वष्टारम्। उत। पूषणम्। भगम्। अहम्। दधामि। द्रविणा। हविष्मते। सुप्रऽअव्या। यजमानाय। सुन्वते। ३०.६।

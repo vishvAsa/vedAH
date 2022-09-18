@@ -7,7 +7,6 @@ title = "०४१ सुपर्णः"
 41 (42). To the heavenly falcon (the sun).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुपर्णः।  
@@ -18,8 +17,6 @@ title = "०४१ सुपर्णः"
 
 [Praskaṇva.—dvyṛcam. śyenadāivatam. 1. jagatī; 2. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 15, 71; Griffith, i. 345.—Cf. Hillebrandt, Ved. Mythol. i. 
 
 A prayer for prosperity
 </details>
+

@@ -20,7 +20,6 @@ Ppp. reads in **a** *śīrṣaktyaṁ*, and in **b** *tṛtīyakam* for
 Each pain and ache that racks the head, earache, and erysipelas,. All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शीर्षक्तिम्। शीर्षऽआमयम्। कर्णऽशूलम्। विऽलोहितम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.१।

@@ -36,10 +36,9 @@ cf. iv. 7. 1.⌋ ⌊Correct *ūdhnó* to *udnó*.⌋
 Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--for thou canst--the bottle of the breast of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। नभस्व। पृथिव‍ि। भिन्ध्दि। इदम्। दिव्यम्। नभ:। उद्ग:। दिव्यस्य। न:। धात:। ईशान:। वि। स्य। दृतिम्। १९.१।
+प्र। नभस्व। पृथिव‍ि। भिन्ध्दि। इदम्। दिव्यम्। नभः। उद्गः। दिव्यस्य। नः। धातः। ईशानः। वि। स्य। दृतिम्। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

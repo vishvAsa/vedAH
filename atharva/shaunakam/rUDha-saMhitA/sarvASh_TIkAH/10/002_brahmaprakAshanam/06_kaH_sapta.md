@@ -21,7 +21,6 @@ does not heed that **d** is a *triṣṭubh* pāda.
 Who pierced the seven openings in the head? Who made these ears, these nostrils, eyes, and mouth, Through whose surpassing might in all directions bipeds and quadrupeds have power of motion?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। सप्त। खानि। वि। ततर्द। शीर्षणि। कर्णौ। इमौ। नासिके इति। चक्षणी इति। मुखम्। येषाम्। पुरुऽत्रा। विऽजयस्य। मह्यनि। चतुःऽपादः। द्विऽपदः। यन्ति। यामम्। २.६।

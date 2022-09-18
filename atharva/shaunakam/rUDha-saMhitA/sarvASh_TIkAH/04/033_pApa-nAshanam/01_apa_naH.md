@@ -22,10 +22,9 @@ places in both editions.⌋
 Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustre flash our pain away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप। न:। शोशुचत्। अघम्। अग्ने। शुशुग्धि। आ। रयिम्। अप। न:। शोशुचत्। अघम्। ३३.१।
+अप। नः। शोशुचत्। अघम्। अग्ने। शुशुग्धि। आ। रयिम्। अप। नः। शोशुचत्। अघम्। ३३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

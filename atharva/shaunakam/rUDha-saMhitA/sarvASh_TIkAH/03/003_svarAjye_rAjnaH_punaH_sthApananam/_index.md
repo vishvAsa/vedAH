@@ -7,7 +7,6 @@ title = "००३ स्वराज्ये राज्ञः पुनः �
 3. For the restoration of a king.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वराज्ये राज्ञः पुनः स्थापननम्।  
@@ -18,8 +17,6 @@ title = "००३ स्वराज्ये राज्ञः पुनः �
 
 [Atharvan.—nānādevatyam utā ”gneyam. trāiṣṭubham: 3. 4.-p. bhurih pan̄kti; 5. 6. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 441; Weber, xvii. 185; Griffith, i. 83; Bloomfield, 112, 
 
 A charm for the restoration of an expelled king
 </details>
+

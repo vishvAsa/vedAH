@@ -31,10 +31,9 @@ his authorities.⌋
 Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pain, thou Herb, let not a particle remain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विऽद्रधस्य। बलासस्य। लोहितस्य। वनस्पते। विऽसल्पकस्य। ओषधे। मा। उत्। शिष:। पिशितम्। चन। १२७.१।
+विऽद्रधस्य। बलासस्य। लोहितस्य। वनस्पते। विऽसल्पकस्य। ओषधे। मा। उत्। शिषः। पिशितम्। चन। १२७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

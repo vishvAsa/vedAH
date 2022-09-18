@@ -18,10 +18,9 @@ Some of the mss. read *haviḥkṛ́tam*.
 When they call the man who prepares food they summon the preparer of oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अशनऽकृतम्। ह्वयन्ति। हवि:ऽकृतम्। एव। तत्। ह्वयन्ति। ६.१३।
+यत्। अशनऽकृतम्। ह्वयन्ति। हविःऽकृतम्। एव। तत्। ह्वयन्ति। ६.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

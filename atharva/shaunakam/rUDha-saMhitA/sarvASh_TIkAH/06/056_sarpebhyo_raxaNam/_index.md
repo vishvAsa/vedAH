@@ -7,7 +7,6 @@ title = "०५६ सर्पेभ्यो रक्षणम्"
 56. For protection from serpents.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्पेभ्यो रक्षणम्।  
@@ -18,8 +17,6 @@ title = "०५६ सर्पेभ्यो रक्षणम्"
 
 [śaṁtāti.—1. vāiśvadevī, uṣṇiggarbhā pathyāpan̄kti; 2, 3. rāudryāu: 2. anuṣṭubh; 3. nicṛt.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, ZDMG. xxv. 235 (1871); Ludwig, p. 502; Grill, 5, 162; Grif
 
 A charm against snakes
 </details>
+

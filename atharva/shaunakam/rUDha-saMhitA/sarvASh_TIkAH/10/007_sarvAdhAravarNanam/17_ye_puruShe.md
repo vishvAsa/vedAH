@@ -21,7 +21,6 @@ For both **b** and **f**, Ppp. reads *te skambham arasaṁ viduḥ*
 They who in Purusha understand Brahma know Him who is. Supreme. He who knows Him who is Supreme, and he who knows the Lord of Life, These know the loftiest Power Divine, and thence know Skam- bha thoroughly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। पुरुषे। ब्रह्म। विदुः। ते। विदुः। परमेऽस्थिनम्। यः। वेद। परमेऽस्थिनम्। यः। च। वेद। प्रजाऽपतिम्। ज्येष्ठम्। ये। ब्राह्मणम्। विदुः। ते। स्कम्भम्। अनुऽसंविदुः। ७.१७।

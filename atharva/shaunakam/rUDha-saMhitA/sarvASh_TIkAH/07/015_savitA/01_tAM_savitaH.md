@@ -25,10 +25,9 @@ prasave manāmahe;* and, in **c**, *prapīnāṁ*.
 I choose, O Savitar, that glorious favour, with fruitful energy and every blessing, Even this one's teeming cow, erst milked by Kanva, thousand- streamed, milked for happiness by the mighty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ताम्। सवित:। सत्यऽसवाम्। सुऽचित्राम्। आ। अहम्। वृणे। सुऽमतिम्। विश्वऽवाराम्। याम्। अस्य। कण्व:। अदुहत्। प्रऽपीनाम्। सहस्रऽधाराम्। महिष:। भगाय। १६.१।
+ताम्। सवितः। सत्यऽसवाम्। सुऽचित्राम्। आ। अहम्। वृणे। सुऽमतिम्। विश्वऽवाराम्। याम्। अस्य। कण्वः। अदुहत्। प्रऽपीनाम्। सहस्रऽधाराम्। महिषः। भगाय। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

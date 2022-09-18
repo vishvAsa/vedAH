@@ -20,7 +20,6 @@ often elsewhere, trisyllabic.
 There are the settings, three the upward risings, three are the- spaces, yea, and three the heavens. We know thy triple place of birth, O Agni, we know the deities'' triple generations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निःऽम्रुचः। तिस्रः। विऽउषः। ह। तिस्रः। त्रीणि। रजांसि। दिवः। अङ्ग। तिस्रः। विद्म। ते। अग्ने। त्रेधा। जनित्रम्। त्रेधा। देवानाम्। जनिमानि। विद्म। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२१।

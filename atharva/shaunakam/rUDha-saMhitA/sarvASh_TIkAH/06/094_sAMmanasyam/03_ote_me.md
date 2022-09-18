@@ -20,10 +20,9 @@ paraphrases *ota* by *ābhimukhyena saṁtata* or *parasparaṁ saṁbaddha*.
 I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni have I called: Sarasvati, so may we thrive!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्र:। च। अग्नि:। च। ऋध्यास्म। इदम्। सरस्वति। ९४.३।
+ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। ऋध्यास्म। इदम्। सरस्वति। ९४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ the verse after our 8, and reads *te ‘stu* in **a**, and *namo ‘stu* in
 Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana, be to thee when standing and when sitting still.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। प्राण। तिष्ठते। आसीनाय। उत। ते। नमः। ६.७।

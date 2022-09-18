@@ -7,7 +7,6 @@ title = "०८१ गर्भाधानम्"
 81. For successful pregnancy: with an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गर्भाधानम्।  
@@ -18,8 +17,6 @@ title = "०८१ गर्भाधानम्"
 
 [Tvaṣṭar.—mantroktadevatyam utā ”dityam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 239; Ludwig, p. 477; Griffith, i. 289; Bloomfie
 
 A charm to facilitate child-birth
 </details>
+

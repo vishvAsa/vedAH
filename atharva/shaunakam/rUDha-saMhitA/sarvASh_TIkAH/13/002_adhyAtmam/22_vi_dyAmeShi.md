@@ -21,7 +21,6 @@ RV. reads *áhā* in **b**. S V. (i. 639) has the same, and also *úd* for
 Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seeing all things that have life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। द्याम्। एषि। रजः। पृथु। अहः। मिमानः। अक्तुऽभिः। पश्यन्। जन्मानि। सूर्य। २.२२।

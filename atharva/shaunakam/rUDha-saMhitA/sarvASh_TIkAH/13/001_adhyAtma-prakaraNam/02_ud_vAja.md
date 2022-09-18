@@ -33,7 +33,6 @@ right. The Anukr. takes no notice of any irregularity in the verse.
 The strength that was in waters hath ascended. Mount o'er the tribes which thou hast generated. Creating Soma, waters, plants and cattle, bring hitherward both quadrupeds and bipeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। वाजः। आ। गन्। यः। अप्ऽसु। अन्तः। विशः। आ। रोह। त्वत्ऽयोनयः। याः। सोमम्। दधानः। अपः। ओषधीः। गाः। चतुःऽपदः। द्विऽपदः। आ। वेशय। इह। १.२।

@@ -17,10 +17,9 @@ title = "३१ तस्मान्मनुष्येऽभ्य उभय
 And did he not repel, if in his spirit he said, I drive thee back, he would repel it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्मात्। मनुष्येभ्य:। उभय:ऽद्यु:। उप। हरन्ति। उप। अस्य। गृहे। हरन्ति। य:। एवम्। वेद। १२.८।
+तस्मात्। मनुष्येभ्यः। उभयःऽद्युः। उप। हरन्ति। उप। अस्य। गृहे। हरन्ति। यः। एवम्। वेद। १२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

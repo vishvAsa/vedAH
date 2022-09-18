@@ -18,10 +18,9 @@ The comm. explains *enī* as *īṣadraktamiśraśveta*.
 One bright with variegated tints, one white, one black, a couple red:-- The'names of all have I declared. Begone, and injure not our men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एनी। एका। श्येनी। एका। कृष्णा। एका। रोहिणी इति। द्वे इति। सर्वासाम्। अग्रभम्। नाम। अवीरऽघ्नी:। अप। इतन। ८३.२।
+एनी। एका। श्येनी। एका। कृष्णा। एका। रोहिणी इति। द्वे इति। सर्वासाम्। अग्रभम्। नाम। अवीरऽघ्नीः। अप। इतन। ८३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

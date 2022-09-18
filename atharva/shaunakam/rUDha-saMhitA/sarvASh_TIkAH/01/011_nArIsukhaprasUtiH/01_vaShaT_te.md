@@ -34,10 +34,9 @@ solely in virtue of the ⌊aggregate⌋ number of its syllables.
 Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-priest, As one who bears in season let this dame be ready to bring forth her child.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वषट्। ते। पूषन्। अस्मिन्। सूतौ। अर्यमा। होता। कृणोतु। वेधा:। सिस्रताम्। नारी। ऋतऽप्रजाता। वि। पर्वाणि। जिहताम्। सूतवै। ऊं इति।
+वषट्। ते। पूषन्। अस्मिन्। सूतौ। अर्यमा। होता। कृणोतु। वेधाः। सिस्रताम्। नारी। ऋतऽप्रजाता। वि। पर्वाणि। जिहताम्। सूतवै। ऊं इति।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

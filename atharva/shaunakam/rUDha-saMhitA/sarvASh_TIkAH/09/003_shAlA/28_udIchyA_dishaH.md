@@ -16,10 +16,9 @@ title = "२८ उदीच्या दिशः"
 Now from the north side of the house, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उदीच्या:। दिश:। शालाया:। नम:। महिम्ने। स्वाहा। देवेभ्य:। स्वाह्येभ्य:। ३.२८।
+उदीच्याः। दिशः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः। ३.२८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

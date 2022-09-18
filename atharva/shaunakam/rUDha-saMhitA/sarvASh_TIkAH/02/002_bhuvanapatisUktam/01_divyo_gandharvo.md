@@ -23,10 +23,9 @@ as "join" (*saṁyojayāmi*) ⌊BR. vi. 138, 'festhalten'⌋: RV. i. 24. 11
 Lord of the World, divine Gandharva, only he should be honoured in the Tribes and worshipped. Fast with my spell, celestial God, I hold thee. Homage to thee! Thy home is in the heavens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव्य:। गन्धर्व:। भुवनस्य। य:। पति:। एक:। एव। नमस्य:। विक्षु। ईड्य:। तम्। त्वा। यौमि। ब्रह्मणा। दिव्य। देव। नम:। ते। अस्तु। दिवि। ते। सधऽस्थम्। २.१।
+दिव्यः। गन्धर्वः। भुवनस्य। यः। पतिः। एकः। एव। नमस्यः। विक्षु। ईड्यः। तम्। त्वा। यौमि। ब्रह्मणा। दिव्य। देव। नमः। ते। अस्तु। दिवि। ते। सधऽस्थम्। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

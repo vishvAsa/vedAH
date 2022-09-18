@@ -26,7 +26,6 @@ calling the verse *nicṛt*.
 O Agni, kindled and adored, turn not away to visit us. Shine brightly even there in heaven, so that we long may see the Sun.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽइध्दः। अग्ने। आऽहुतः। सः। नः। मा। अभिऽअपक्रमीः। अत्र। एव। दीदिहि। द्यवि। ज्योक्। च। सूर्यम्। दृशे। २.१८।

@@ -20,7 +20,6 @@ from a gourd.
 Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Tastuva or not Tastuva, thou verily art not Tastuva: poison is killed by Tastuva.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताबुवम्। न। ताबुवम्। न। घ। इत्। त्वम्। असि। ताबुवम्। ताबुवेन। अरसम्। विषम्। १३.१०।

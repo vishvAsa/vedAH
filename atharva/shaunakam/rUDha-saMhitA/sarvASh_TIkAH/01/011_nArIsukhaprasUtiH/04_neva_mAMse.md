@@ -36,7 +36,6 @@ ii. 11. 19, 20, has the verse with variants.⌋
 Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नऽइव। मांसे। न। पीबसि। नऽइव। मज्जऽसु। आऽहतम्। अव। एतु। पृश्नि। शेवलम्। शुने। जरायु। अत्तवे। अव। जरायु। पद्यताम्।

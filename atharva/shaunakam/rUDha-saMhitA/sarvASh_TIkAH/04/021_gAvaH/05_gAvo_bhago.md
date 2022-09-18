@@ -24,10 +24,9 @@ course the well-known refrain of RV. ii. 12.⌋
 To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first poured Soma. These present Cows, they, O ye men, are Indra. I long for Indra with my heart and spirit.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गाव:। भग:। गाव:। ‍ इन्द्र:। मे। इच्छात्। गाव:। सोमस्य। प्रथमस्य। भक्ष:। इमा:। या:। गाव:। स:। जनास:। इन्द्र:। इच्छामि। हृदा। मनसा। चित्। इन्द्रम्। २१.५।
+गावः। भगः। गावः। ‍ इन्द्रः। मे। इच्छात्। गावः। सोमस्य। प्रथमस्य। भक्षः। इमाः। याः। गावः। सः। जनासः। इन्द्रः। इच्छामि। हृदा। मनसा। चित्। इन्द्रम्। २१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ Note 417, would read *krávyādaḥ*, as voc.⌋
 When ye have left the household fire, with the Corpse-eater southward go. Do that which is delightful to the Fathers, Brahmans, and your- selves.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपऽआवृत्य। गार्हऽपत्यात्। क्रव्यऽअदा। प्र। इत। दक्षिणा। प्रियम्। पितृऽभ्यः। आत्मने। ब्रह्मऽभ्यः। ःकृणुत। प्रियम्। २.३४।

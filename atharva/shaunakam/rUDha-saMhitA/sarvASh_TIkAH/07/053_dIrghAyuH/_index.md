@@ -7,7 +7,6 @@ title = "०५३ दीर्घायुः"
 53 (55). For some one's health and long life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
@@ -18,8 +17,6 @@ title = "०५३ दीर्घायुः"
 
 [Brahman.—saptarcam. āyuṣyam uta bārhaspatyam; āśvinam. trāiṣṭubham: 3. bhurij; 4. uṣṇiggarbhā ”rṣī pan̄kti; 5-7. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 443; Grill, 15, 182; Henry, 20, 80; Griffith, i. 351; Bloom
 
 A charm to recover a sick man at the point of death
 </details>
+

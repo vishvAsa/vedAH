@@ -25,10 +25,9 @@ meant for *avatkam: avatakaṁ mama bheṣajam avatakaṁ parivācanam*). In
 That little spring of water which is running downward from the hill I turn to healing balm for thee that thou mayst be good medicine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अद:। यत्। अवऽधावति। अवत्ऽकम्। अधि। पर्वतात्। तत्। ते। कृणोमि। भेषजम्। सुऽभेषजम्। यथा। अससि। ३.१।
+अदः। यत्। अवऽधावति। अवत्ऽकम्। अधि। पर्वतात्। तत्। ते। कृणोमि। भेषजम्। सुऽभेषजम्। यथा। अससि। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ expects us to make the unusual resolution *a-si-a* in **c**.
 The four-eyed worm, of every shape, the variegated, and the white I break and crush the creature's ribs, and tear away its head besides.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वऽरूपम्। चतु:ऽअक्षम्। क्रिमिम्। सारङ्गम्। अर्जुनम्। शृणामि। अस्य। पृष्टी:। अपि। वृश्चामि। यत्। शिर:। ३२.२।
+विश्वऽरूपम्। चतुःऽअक्षम्। क्रिमिम्। सारङ्गम्। अर्जुनम्। शृणामि। अस्य। पृष्टीः। अपि। वृश्चामि। यत्। शिरः। ३२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ Ppp. combines at the beginning *yā ”mam*, and has in place of our **d**
 Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feeders on babes unborn, long-haired, far from this place we banish these.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। आमम्। मांसम्। अदन्ति। पौरुषेयम्। च। ये। क्रवि:। गर्भान्। खादन्ति। केशऽवा:। तान्। इत:। नाशयामसि। ६.२३।
+ये। आमम्। मांसम्। अदन्ति। पौरुषेयम्। च। ये। क्रविः। गर्भान्। खादन्ति। केशऽवाः। तान्। इतः। नाशयामसि। ६.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

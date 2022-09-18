@@ -26,7 +26,6 @@ in **c** *aśṛṇod abhidyavaḥ*, and in **d** (with the desired accent)
 Ye Maruts, strong and mighty, sons of Prisni, with Indra for ally crush down our foemen. Let Rohita, ye bounteous givers, hear you, thrice-seven Maruts who delight in sweetness!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यूयम्। उग्राः। मरुतः। पृश्निमातरः। इन्द्रेण। युजा। प्र। मृणीत। शत्रून्। आ। वः। रोहितः। शृणवत्। सुऽदानवः। त्रिऽसप्तासः। मरुतः। स्वादुऽसंमुदः। १.३।

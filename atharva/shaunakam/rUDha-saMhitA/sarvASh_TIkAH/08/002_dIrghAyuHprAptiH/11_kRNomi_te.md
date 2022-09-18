@@ -20,10 +20,9 @@ Ppp. reads in **b** *jarāmṛtyum*, and, in **d**, *caratā ”rān* (i.e.
 I give thee both the acts of breath, health, lengthened life, and death by age. All Yama's messengers who roam around, sent by Vaivasvata, I chase away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृणोमि। ते। प्राणापानौ। जराम्। मृत्युम्। दीर्घम्। आयु:। स्वस्ति। वैवस्वतेन। प्रऽहितान्। यमऽदूतान्। चरत:। अप। सेधामि। सर्वान्। २.११।
+कृणोमि। ते। प्राणापानौ। जराम्। मृत्युम्। दीर्घम्। आयुः। स्वस्ति। वैवस्वतेन। प्रऽहितान्। यमऽदूतान्। चरतः। अप। सेधामि। सर्वान्। २.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

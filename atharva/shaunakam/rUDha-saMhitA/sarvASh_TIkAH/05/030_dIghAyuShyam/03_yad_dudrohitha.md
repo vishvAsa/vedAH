@@ -17,7 +17,6 @@ at man through thoughtlessness, deliverance and etc. etc.
 If in thy folly thou hast lied or cursed a woman or a man, I with my voice declare to thee thy freedom and release there- from.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। दुद्रोहिथ। शेपिषे। स्त्रियै। पुसे। अचित्त्या। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.३।

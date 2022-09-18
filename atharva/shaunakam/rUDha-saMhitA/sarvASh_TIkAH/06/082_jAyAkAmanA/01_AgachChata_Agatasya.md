@@ -25,10 +25,9 @@ combines *āgachatā ”gatasya* in **a**. The comm. reads at the end
 I call the name of him who comes, hath come, and still draws- nigh to us. Foe-slaying Indra's name I love, the Vasus' friend with hundred powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽगच्छत:। आऽगतस्य। नाम। गृह्णामि। आऽयत:। इन्द्रस्य। वृत्रऽघ्न:। वन्वे। वासवस्य। शतऽक्रतो:। ८२.१।
+आऽगच्छतः। आऽगतस्य। नाम। गृह्णामि। आऽयतः। इन्द्रस्य। वृत्रऽघ्नः। वन्वे। वासवस्य। शतऽक्रतोः। ८२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

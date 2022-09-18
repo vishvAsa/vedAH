@@ -21,7 +21,6 @@ begins *yas tiṣṭhati viśvabhṛto antarikṣe ‘yajvanaṣ pra-*.
 Homage be paid him with ten Sakvari verses who stands established in the air's mid-region, slaying non-sacrificing God-despisers!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अन्तर‍िक्षे। तिष्ठति। विऽस्तभितः। अयज्वनः। प्रऽमृणन्। देवऽपीयून्। तस्मै। नमः। दशऽभिः। शक्वरीभिः। २.२३।

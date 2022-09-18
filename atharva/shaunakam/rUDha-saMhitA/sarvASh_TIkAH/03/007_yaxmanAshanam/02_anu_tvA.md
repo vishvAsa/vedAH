@@ -30,10 +30,9 @@ connection with the use of a deer's horn.
 With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the chronic sickness, Horn! deeply inwoven in the heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। त्वा। हरिण:। वृषा। पत्ऽभि:। चतु:ऽभि:। अक्रमीत्। विऽसाने। वि। स्य। गुष्पितम्। यत्। अस्य। क्षेत्रियम्। हृदि। ७.२।
+अनु। त्वा। हरिणः। वृषा। पत्ऽभिः। चतुःऽभिः। अक्रमीत्। विऽसाने। वि। स्य। गुष्पितम्। यत्। अस्य। क्षेत्रियम्। हृदि। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

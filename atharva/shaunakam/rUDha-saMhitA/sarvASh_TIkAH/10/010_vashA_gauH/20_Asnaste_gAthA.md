@@ -19,7 +19,6 @@ Ppp. reads in **a** *bhavanti* for *abhavan*.
 Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Cow. Sacrifice from thy flanks was born, and rays of sunlight from. thy teats,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आस्नः। ते। गाथाः। अभवन्। उष्णिहाभ्यः। बलम्। वशे। पाजस्यात्। जज्ञे। यज्ञः। स्तनेभ्यः। रश्मयः। तव। १०.२०।

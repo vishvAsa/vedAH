@@ -20,10 +20,9 @@ sarvam: yam eve ’dam bhaviṣyati na vayam iti.*
 Viraj at first was This. At birth all feared her; the thought, She will become this All, struck terror.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विऽराट्। वै। इदम्। अग्रे। आसीत्। तस्या:। जाताया:। सर्वम्‌। अबिभेत्। इयम्। एव। इदम्। भविष्यति। इति। १०.१।
+विऽराट्। वै। इदम्। अग्रे। आसीत्। तस्याः। जातायाः। सर्वम्‌। अबिभेत्। इयम्। एव। इदम्। भविष्यति। इति। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

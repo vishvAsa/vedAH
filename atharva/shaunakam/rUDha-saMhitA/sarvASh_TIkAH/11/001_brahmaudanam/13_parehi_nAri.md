@@ -24,7 +24,6 @@ in **d** reads *vibhajya*, and *hvayīta* for *jahītāt*. SPP. reads in
 Go, Dame, and quickly come again: the waters, enclosed, have mounted thee that thou mayst bear them. Take thou of these such as are fit for service: skilfully separating. leave the others.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परा। इहि। नारि। पुनः। आ। इहि। क्षिप्रम्। अपाम्। त्वा। गोऽस्थः। अधि। अरुक्षत्। भराय। तासाम्। गृह्णीतात्। यतमाः। यज्ञियाः। असन्। विऽभाज्य। धीरी। इतराः। जहीतात्। १.१३।

@@ -22,7 +22,6 @@ in connection with anointing the vessel with butter.
 Of this have I obtained the noblest portion from that same world whence Parmeshthin gained it. Pour forth, besprinkle butter rich in fatness: the share of Angiras is here before us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। प्र। आपम्। उत्ऽतमम्। काण्डम्। अस्य। यस्मात्। लोकात्। परमेऽस्थी। सम्ऽआप। आ। सिञ्च। सर्पिः। घृतऽवत्। सम्। अङ्ग्धि। एषः। भागः। अङ्गिरसः। नः। अत्र। ३.४५।

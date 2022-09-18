@@ -29,10 +29,9 @@ anything beyond that (*enā́*, substantive pronoun) which is beyond
 O self-dependent Varuna, wise director, thou knowest verily all generations. What is, unerring one! beyond this region? What more remote than that which is most distant?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। हि। अङ्ग। वरुण। स्वधाऽवन्। विश्वा। वेत्थ। जनिम। सुऽप्रनीते। किम्। रजस:। एना। पर:। अन्यत्। अस्ति। एना। किम्। परेण। अवरम्। अमुर। ११.५।
+त्वम्। हि। अङ्ग। वरुण। स्वधाऽवन्। विश्वा। वेत्थ। जनिम। सुऽप्रनीते। किम्। रजसः। एना। परः। अन्यत्। अस्ति। एना। किम्। परेण। अवरम्। अमुर। ११.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ syllable.
 Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destroying. Speak out as a skilled speaker tells his counsel, speak strength to us that we may win the battle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शत्रूषाट्। नीषाट्। अभिमातिऽसह:। गोऽएषण:। सहमान:। उत्ऽभित्। वाग्वीऽइव। मन्त्रम्। प्र। भरस्व। वाचम्। संग्रामऽजित्याय। इषम्। उत्। वद। इह। २०.११।
+शत्रूषाट्। नीषाट्। अभिमातिऽसहः। गोऽएषणः। सहमानः। उत्ऽभित्। वाग्वीऽइव। मन्त्रम्। प्र। भरस्व। वाचम्। संग्रामऽजित्याय। इषम्। उत्। वद। इह। २०.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

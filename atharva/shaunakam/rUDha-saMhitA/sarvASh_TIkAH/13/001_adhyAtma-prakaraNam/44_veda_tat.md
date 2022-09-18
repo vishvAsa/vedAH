@@ -20,7 +20,6 @@ notice of the deficiency.
 This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place in loftiest heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वेद। तत्। ते। अमर्त्य। यत्। ते। आऽक्रमणम्। दिवि। यत्। ते। सधऽस्थम्। परमे। व‍िऽओमन्। १.४४।

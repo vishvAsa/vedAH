@@ -18,7 +18,6 @@ The metrical definition requires the resolution *dhātā́ údan̄*. Read
 Standing westwards he is Dhatar, standing northwards Savitar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रत्यङ्। तिष्ठन्। धाता। उदङ्। तिष्ठन्। सविता। १२.२१।

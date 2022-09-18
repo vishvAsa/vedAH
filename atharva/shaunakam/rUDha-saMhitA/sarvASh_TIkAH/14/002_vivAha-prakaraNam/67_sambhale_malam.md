@@ -23,7 +23,6 @@ syllable in **a**.
 We, having laid the stain and fault upon the interceder's cloak, Are pure and meet for sacrifice. May he prolong our lives for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽभले। मलम्। सादयित्वा। कम्बले। दुःऽइतम्। वयम्। अभूम। यज्ञियाः। शुध्दाः। प्र। नः। आयूंषि। तारिषत्। २.६७।

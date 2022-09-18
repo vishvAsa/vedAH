@@ -29,10 +29,9 @@ for *nayāsāi*, after it, RV. has *nayase*. The comm. explains *pā́jas* in
 O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the foemen. They have not hindered thine impetuous vigour: mighty! sole born! reduce them to subjection.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहस्व। मन्यो इति। अभिऽमातिम्  अस्मै। रुजन्। मृणन्। प्रऽमृणन्। प्र। इहि। शत्रून्। उग्रम्। ते। पाज:। ननु। आ। रुरुध्रे। वशी। वशम्। नयासै। एकऽज। त्वम्। ३१.३।
+सहस्व। मन्यो इति। अभिऽमातिम्  अस्मै। रुजन्। मृणन्। प्रऽमृणन्। प्र। इहि। शत्रून्। उग्रम्। ते। पाजः। ननु। आ। रुरुध्रे। वशी। वशम्। नयासै। एकऽज। त्वम्। ३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

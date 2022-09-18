@@ -23,7 +23,6 @@ the comm. *yāti;* ⌊while in the Poona ed. both text and comm. give
 Surya, hath yoked the pure bright seven, the daughters of the car, with these, His own dear team, he travelleth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयुक्त। सप्त। शुन्ध्युवः। सूरः। रथस्य। नप्त्यः। ताभिः। याति। स्वयुक्तिऽभिः। २.२४।

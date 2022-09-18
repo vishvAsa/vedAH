@@ -32,10 +32,9 @@ appears to ratify the contraction *-ṭram ’va* in **c**. ⌊Pada **d** = v.
 Who curses us, himself uncursed, or, cursed, who curses us again, Him cast I as a sop to Death, as to a dog one throws a bone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। शपात्। अशपत:। शपत:। य:। च। न:। शपात्। शुने। पेष्ट्रम्ऽइव। अवऽक्षामम्। तम्। प्रति। अस्यामि। मृत्यवे। ३७.३।
+यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। शुने। पेष्ट्रम्ऽइव। अवऽक्षामम्। तम्। प्रति। अस्यामि। मृत्यवे। ३७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

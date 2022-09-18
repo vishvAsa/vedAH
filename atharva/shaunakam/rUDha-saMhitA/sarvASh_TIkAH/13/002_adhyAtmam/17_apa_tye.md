@@ -21,7 +21,6 @@ variant. Henry renders *aktúbhis* 'with the night.'
 The Constellations pass away, like thieves, departing in the night. Before the all-beholding Sun.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। त्ये। तायवः। यथा। नक्षत्रा। यन्ति। अक्तुऽभिः। सूराय। विश्वऽचक्षसे। २.१७।

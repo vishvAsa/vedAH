@@ -21,10 +21,9 @@ root *vṛj*. Ppp. has *datsvā* (for *dhatsva*).
 O Jatavedas, armed with teeth of iron, enkindled with thy flame, attack the demons. Seize with thy tongue the foolish gods' adorers: rend, put with- in thy mouth the raw-flesh-eaters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अय:ऽदंष्ट्र:। अर्चिषा। यातुऽधानान्। उप। स्पृश। जातऽवेद:। सम्ऽइध्द:। आ। जिह्वया। मूरऽदेवान्। रभस्व। क्रव्यऽअद:। वृष्ट्वा। अपि। धत्स्व। आसन्। ३.२।
+अयःऽदंष्ट्रः। अर्चिषा। यातुऽधानान्। उप। स्पृश। जातऽवेदः। सम्ऽइध्दः। आ। जिह्वया। मूरऽदेवान्। रभस्व। क्रव्यऽअदः। वृष्ट्वा। अपि। धत्स्व। आसन्। ३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

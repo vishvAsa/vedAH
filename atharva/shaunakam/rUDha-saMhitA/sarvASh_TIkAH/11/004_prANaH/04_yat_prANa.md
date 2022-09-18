@@ -19,7 +19,6 @@ be compared the similar half-verse RV. v. 83. 9 **c, d**.
 When the due season hath arrived and Prana shouteth to herbs, Then all is joyful, yea, each thing upon the surface of the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। प्राणः। ऋतौ। आऽगते। अभिऽक्रन्दति। ओषधीः। सर्वम्। तदा। प्र। मोदते। यत्। किम्। च। भूम्याम्। अधि। ६.४।

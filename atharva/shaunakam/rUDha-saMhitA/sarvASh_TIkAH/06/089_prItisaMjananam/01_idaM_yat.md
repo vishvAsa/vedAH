@@ -21,10 +21,9 @@ supplies to it *snehaviśeṣeṣa*. ⌊Whitney's O. combines *tátas pári*.⌋
 This strength that Soma hath bestowed, the head of her who gladdeneth,-- With that which thence hath been produced we make thy spirit sorrowful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। यत्। प्रेण्य:। शिर:। दत्तम्। सोमन। वृष्ण्यम्। तत:। परि। प्रऽजातेन। हार्दिम्। ते। शोचयामसि। ८९.१।
+इदम्। यत्। प्रेण्यः। शिरः। दत्तम्। सोमन। वृष्ण्यम्। ततः। परि। प्रऽजातेन। हार्दिम्। ते। शोचयामसि। ८९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

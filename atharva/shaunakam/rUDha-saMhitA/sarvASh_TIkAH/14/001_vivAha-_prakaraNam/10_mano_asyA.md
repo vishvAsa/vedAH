@@ -18,7 +18,6 @@ RV. (x. 85. 10) has at end *gṛhám* instead of *pátim*.
 Her spirit was the bridal car, the canopy thereof was heaven: Two radiant oxen formed the team when Surya came unto her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मनः। अस्याः। अनः। आसीत्। द्यौः। आसीत्। उत। छदिः। शुक्रौ। अनड्वाहौ। आस्ताम्। यत्। अयात्। सूर्या। पतिम्। १.१०।

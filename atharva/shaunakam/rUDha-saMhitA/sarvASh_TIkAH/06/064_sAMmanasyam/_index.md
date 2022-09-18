@@ -7,7 +7,6 @@ title = "०६४ सांमनस्यम्"
 64. For concord.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -18,8 +17,6 @@ title = "०६४ सांमनस्यम्"
 
 [Atharvan.—sāmmanasyam. vāiśvadevam. ānuṣṭubham: [2. triṣṭubh].]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and, as an AV. hymn, by Ludwig, p. 372; Gril
 
 To promote unanimity in an assembly
 </details>
+

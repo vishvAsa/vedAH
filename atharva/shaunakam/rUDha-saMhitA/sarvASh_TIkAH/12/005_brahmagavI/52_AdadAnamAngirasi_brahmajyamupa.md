@@ -18,7 +18,6 @@ Ppp. reads *ādadhānam*.
 Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽददानम्। आङ्गिरसि। ब्रह्मऽज्यम्। उप। दासय। १०.६।

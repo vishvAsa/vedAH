@@ -18,7 +18,6 @@ Prajāpati; the yield (*dugdhá*) of the cow did the Perfectibles
 The Cow is Heaven, the Cow is Earth, the Cow is Vishnu, Lord of Life. e The Sadhyas and the Vasus have drunk the out-pourings of the Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशा। द्यौः। वशा। पृथिवी। वशा। विष्णुः। प्रजाऽपतिः। वशायाः। दुग्धम्। अपिबन्। साध्याः। वसवः। च। ये। १०.३०।

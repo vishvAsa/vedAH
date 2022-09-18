@@ -7,7 +7,6 @@ title = "०१४ वस्युनाशनम्"
 14. Against sadā́nvās.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वस्युनाशनम्।  
@@ -19,8 +18,6 @@ title = "०१४ वस्युनाशनम्"
 [Cātana.—ṣaḍṛcam. śālāgnidevatyam uta mantroktadevatākam. ānuṣṭubham: 2. bhurij; 4. upariṣṭādvirāḍbṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ By the connection, the obscure words in the first half-verse should be names of 
 
 A charm to banish vermin and noxious creatures
 </details>
+

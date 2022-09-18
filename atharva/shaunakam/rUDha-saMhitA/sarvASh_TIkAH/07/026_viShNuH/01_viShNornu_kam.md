@@ -23,10 +23,9 @@ i. 32. 1.⌋
 I will declare the mighty deeds of Vishnu, of him who measured out the earthly regions, Who propped the highest place of congregation, thrice setting down his footstep, widely striding.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्णो:। नु। कम्। प्र। वोचम्। वीर्याणि। य:। पार्थिवानि। विऽममे। रजांसि। य:। अस्कभायत्। उत्ऽतरम्। सधऽस्थम्। विऽचक्रमाण:। त्रेधा। उरुऽगाय:। २७.१।
+विष्णोः। नु। कम्। प्र। वोचम्। वीर्याणि। यः। पार्थिवानि। विऽममे। रजांसि। यः। अस्कभायत्। उत्ऽतरम्। सधऽस्थम्। विऽचक्रमाणः। त्रेधा। उरुऽगायः। २७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

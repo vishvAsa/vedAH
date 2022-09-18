@@ -35,10 +35,9 @@ resolution *kṛtu-ā́* makes the verse a full *anuṣṭubh*. ⌊Bp. also has
 When one puts poison in a dish of unbaked clay to kill a man, It cracks when set upon the fire with the sharp sound of many stones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमा। कृत्वा। पाप्मानम्। य:। तेन। अन्यम्। जिघांसति। अश्मान:। तस्याम्। दग्धायाम्। बहुला:। फट्। करिक्रति। १८.३।
+अमा। कृत्वा। पाप्मानम्। यः। तेन। अन्यम्। जिघांसति। अश्मानः। तस्याम्। दग्धायाम्। बहुलाः। फट्। करिक्रति। १८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

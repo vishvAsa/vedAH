@@ -22,10 +22,9 @@ iii. 25. 5; vi. 9. 2; 43. 3.⌋
 I trample on thine anger thus, I tread it down with heel and toe: So dost thou yield thee to my will, to speak no more rebelliously.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। तिष्ठामि। ते। मन्युम्। पार्ष्ण्या। प्रऽपदेन। च। यथा। अवश:। न। वादिष:। मम। चित्तम्। उपऽआयसि। ४२.३।
+अभि। तिष्ठामि। ते। मन्युम्। पार्ष्ण्या। प्रऽपदेन। च। यथा। अवशः। न। वादिषः। मम। चित्तम्। उपऽआयसि। ४२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

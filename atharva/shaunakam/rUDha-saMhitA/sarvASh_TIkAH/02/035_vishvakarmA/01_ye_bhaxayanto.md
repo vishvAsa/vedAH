@@ -40,10 +40,9 @@ irregular than the definition of the Anukr. admits.
 We who enjoying it have grown no richer, for whom the sacred altar-fires have sorrowed, We who compounded with deficient worship,--may Visvakarman make our service prosper.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। भक्षयन्त:। न। वसूनि। आनृधु:। यान्। अग्नय:। अनुऽअतप्यन्त। धिष्ण्या:। या। तेषाम्। अवऽया:। दु:ऽइष्टि:। सुऽइष्टिम्। न:। ताम्। कृणवत्। विश्वऽकर्मा। ३५.१।
+ये। भक्षयन्तः। न। वसूनि। आनृधुः। यान्। अग्नयः। अनुऽअतप्यन्त। धिष्ण्याः। या। तेषाम्। अवऽयाः। दुःऽइष्टिः। सुऽइष्टिम्। नः। ताम्। कृणवत्। विश्वऽकर्मा। ३५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

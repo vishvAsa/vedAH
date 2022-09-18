@@ -20,10 +20,9 @@ puts *enāṅ* before *krośatām*, and adds *ubhe* at the end of **a**.
 Let Heaven and Earth roar out in wrath against them, and Air with all the Deities in concert, Let them not find a surety or a refuge, but torn away go down to Death together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। क्रोशताम्। एनान्। द्यावापृथिवी इति। सम्। अन्तर‍िक्षम्। सह। देवताभि:। मा। ज्ञातारम्। मा। प्रतिऽस्थाम्। विदन्त। मिथ:। विऽघ्नाना:। उप। यन्तु। मृत्युम्। ८.२१।
+सम्। क्रोशताम्। एनान्। द्यावापृथिवी इति। सम्। अन्तर‍िक्षम्। सह। देवताभिः। मा। ज्ञातारम्। मा। प्रतिऽस्थाम्। विदन्त। मिथः। विऽघ्नानाः। उप। यन्तु। मृत्युम्। ८.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

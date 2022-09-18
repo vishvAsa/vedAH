@@ -23,10 +23,9 @@ in **c** ⌊render it rather 'brought hither or back'?⌋.
 Return, thy life now vanished into distance! Return, the breath thou drawest and exhalest! Agni hath snatched it from Destruction's bosom: into thyself again I introduce it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयु:। यत्। ते। अत‍िऽहितम्। पराचै:। अपान:। प्राण:। पुन:। आ। तौ। इताम्। अग्नि:। तत्। आ। अहा:। नि:ऽऋते :। उपऽस्थात्। तत्। आत्मनि। पुन:। आ। वेशयामि। ते। ५५.३।
+आयुः। यत्। ते। अत‍िऽहितम्। पराचैः। अपानः। प्राणः। पुनः। आ। तौ। इताम्। अग्निः। तत्। आ। अहाः। निःऽऋते ः। उपऽस्थात्। तत्। आत्मनि। पुनः। आ। वेशयामि। ते। ५५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

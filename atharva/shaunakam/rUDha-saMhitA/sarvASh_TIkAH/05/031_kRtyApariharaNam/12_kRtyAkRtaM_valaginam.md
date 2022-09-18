@@ -26,10 +26,9 @@ With the Book ends also the twelfth *prapāṭhaka*.
 May Indra slay with mighty bolt, may Agni with his missible pierce. The sorcerer who brings the curse, who deals with roots and secret spells.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृत्याऽकृतम्। वलगिनम्। मूलिनम्। शपथेय्यम्। इन्द्र:। तम्। हन्तु। महता। वधेन। अग्नि:। विध्यतु। अस्तया। ३१.१२।
+कृत्याऽकृतम्। वलगिनम्। मूलिनम्। शपथेय्यम्। इन्द्रः। तम्। हन्तु। महता। वधेन। अग्निः। विध्यतु। अस्तया। ३१.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

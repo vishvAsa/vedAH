@@ -21,10 +21,9 @@ d**. TB. (ii. 4. 2⁸) and ĀpśS. (xiv. 27. 7) follow our order, but have
 Firm is the sky, firm is the earth, and firm is all this living world; Firm are these mountains on their base, and stedfast is this King of men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ध्रुवा। द्यौ:। ध्रुवा। पृथिवी। ध्रुवम्। विश्वम्। इदम्। जगत्। ध्रुवास:। पर्वता:। इमे। ध्रुव:। राजा। विशाम्। अयम्। ८८.१।
+ध्रुवा। द्यौः। ध्रुवा। पृथिवी। ध्रुवम्। विश्वम्। इदम्। जगत्। ध्रुवासः। पर्वताः। इमे। ध्रुवः। राजा। विशाम्। अयम्। ८८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

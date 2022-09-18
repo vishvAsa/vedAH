@@ -20,10 +20,9 @@ sort of opposite of one found in Ppp., and quoted by Kāuś. (at 40. 14).
 Thy diggers are emasculate, emasculate, O, Plant art thou. The rugged mountain that produced this poison is emasculate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वध्रय:। ते। खनितार:। वध्रि:। त्वम्। असि। ओषधे। वध्रि:। स:। पर्वत:। गिरि:। यत:। जातम्। इदम्। विषम्। ६.८।
+वध्रयः। ते। खनितारः। वध्रिः। त्वम्। असि। ओषधे। वध्रिः। सः। पर्वतः। गिरिः। यतः। जातम्। इदम्। विषम्। ६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ next verse.
 The God whose name is Arbudi, and Nyarbudi the Mighty One, The two by whom the air and this great earth are compassed and possessed, With these two friends of Indra I go forth to conquer with the host.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्बुदिः। नाम। यः। देवः। ईशानः। च। निऽअर्बुदि ः। याभ्याम्। अन्तरिक्षम्। आऽवृतम्। इयम्। च। पृथिवी। मही। ताभ्याम्। इन्द्रमेदिऽभ्याम्। अहम्। जितम्। अनु। एमि। सेनया। ११.४।

@@ -7,7 +7,6 @@ title = "०२० यक्ष्मनाशनम्"
 20. Against fever (takmán).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "०२० यक्ष्मनाशनम्"
 
 [Bhṛgvan̄giras.—yakṣmanāśanadāivatam. 1. atijagatī; 2. kakummatī prastirāpan̄ktiḥ; 3. sataḥpan̄ktiḥ.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grohmann, Ind. Stud. ix. 384, 393; Ludwig, p. 511; Zimmer, p. 380; F
 
 A charm against fever
 </details>
+

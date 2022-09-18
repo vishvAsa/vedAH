@@ -22,7 +22,6 @@ to Prāt, ii. 91 cites *suṣvay* as a case of reduplication; and BR. vii.
 Pouring sweet dews let holy Night and Morning, each close to each, be seated at their station,-- Lofty, celestial Dames with gold to deck them, assuming all their fair and radiant beauty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। सुस्वयन्ती इति। यजते इति। उपाके इति। उषसानक्ता। सदताम्। नि। योनौ। दिव्ये इति। योषण इति। बृहती इति। सुरुक्मे इति सुऽरुक्मे। अधि। श्रियम्। शुक्रऽपिशम्। दधाने इति। १२.६।

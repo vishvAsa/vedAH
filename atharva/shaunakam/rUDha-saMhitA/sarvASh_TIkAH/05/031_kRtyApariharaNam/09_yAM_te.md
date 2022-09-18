@@ -21,10 +21,9 @@ fragments of bone.'
 The spell that they have wrought for thee in flickering fire of human bones,-- Mroka, consuming, cannibal, this I throw back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। पुरुषऽअस्ये। अग्नौ। सम्ऽकसुके। च। याम्। भ्रोकम्। नि:ऽदाहम्। क्रव्यऽअदम्। पुन:। प्रति। हरामि। ताम्। ३१.९।
+याम्। ते। चक्रुः। पुरुषऽअस्ये। अग्नौ। सम्ऽकसुके। च। याम्। भ्रोकम्। निःऽदाहम्। क्रव्यऽअदम्। पुनः। प्रति। हरामि। ताम्। ३१.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

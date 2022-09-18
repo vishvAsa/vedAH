@@ -19,7 +19,6 @@ last clause.
 Ten Gods before the Gods were born together in the ancient time. Whoso may know them face to face may now pronounce the mighty word.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दश। साकम्। अजायन्त। देवाः। देवेभ्यः। पुरा। यः। वै। तान्। विद्यात्। प्रतिऽअक्षम्। सः। वै। अद्य। महत्। वदेत्। १०.३।

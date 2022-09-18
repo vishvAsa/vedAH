@@ -27,10 +27,9 @@ sacrificer himself.
 This is thine ordered place of birth whence sprung to life thou shinest forth. Knowing this, Agni, mount on high and cause our riches to increase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। ते। योनि:। ऋत्विय:। यत:। जात:। अरोचथा:। तम्। जानन्। अग्ने। आ। रोह। अध। न:। वर्धय। रयिम्। २०.१।
+अयम्। ते। योनिः। ऋत्वियः। यतः। जातः। अरोचथाः। तम्। जानन्। अग्ने। आ। रोह। अध। नः। वर्धय। रयिम्। २०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ lomaśaḥ puruṣaḥ smṛtaḥ*.
 Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with two pressing-stones deprive him of his manly strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्लीबम्। कृधि। ओपशिनम्। अथो इति। कुरीरिणम्। कृधि। अथ। अस्य। इन्द्र:। ग्रावऽभ्याम्। उभे इति। भिनत्तु। आण्ड्यौ। १३८.२।
+क्लीबम्। कृधि। ओपशिनम्। अथो इति। कुरीरिणम्। कृधि। अथ। अस्य। इन्द्रः। ग्रावऽभ्याम्। उभे इति। भिनत्तु। आण्ड्यौ। १३८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

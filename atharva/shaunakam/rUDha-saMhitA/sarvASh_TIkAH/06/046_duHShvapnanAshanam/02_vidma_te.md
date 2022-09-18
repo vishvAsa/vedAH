@@ -21,10 +21,9 @@ This verse is repeated below as xvi. 5. 6. The comm. renders *-jāmi* by
 We know thy birth, O Sleep, thou art son of the sisters of the Gods; the minister of Yama thou, thou art Antaka, thou art Death. So well we know thee who thou art. Sleep, guard us from the evil dream.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विद्म। ते। स्वप्न। जनित्रम्। देवऽजामीनाम्। पुत्र:। असि। यमस्य। करण:। अन्तक:। असि। मृत्यु:। असि। तम्। त्वा। स्वप्न। तथा। सम्। विद्म। स:। न:। स्वप्न। दु:ऽस्वप्न्यात्। पाहि। ४६.२।
+विद्म। ते। स्वप्न। जनित्रम्। देवऽजामीनाम्। पुत्रः। असि। यमस्य। करणः। अन्तकः। असि। मृत्युः। असि। तम्। त्वा। स्वप्न। तथा। सम्। विद्म। सः। नः। स्वप्न। दुःऽस्वप्न्यात्। पाहि। ४६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

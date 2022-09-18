@@ -19,7 +19,6 @@ again our 14 **a, b** and 15 **c, d**, without other variant.
 Come hither with the Wind, yea, come with every creature borne on wings. Laden with holy verse and song the Cow hath leapt into the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। हि। वातेन। अगत। सम्। ऊं इति। सर्वैः। पतत्रिऽभिः। वशा। समुद्रे। प्र। अनृत्यत्। ऋचः। सामानि। बिभ्रती। १०.१४।

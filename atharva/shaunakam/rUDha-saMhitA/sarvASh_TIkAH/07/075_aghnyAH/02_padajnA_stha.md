@@ -21,10 +21,9 @@ their calves, or with other kine." ⌊The Anukr. seems to scan 8 + 7: 10:
 Ye know the place and rest content, close-gathered, called by many a name. Come to me, Goddesses, with Gods Bedew with streams of fatness us, this cattle-pen, and all this place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पदऽज्ञा:। स्थ। रमतय:। सम्ऽहिता:। विश्वऽनाम्नी:। उप। मा। देवी:। देवेभि:। आ। इत। इमम्। गोऽस्थम्। इदम्। सद:। घृतेन। अस्मान्। सम्। उक्षत। ७९.२।
+पदऽज्ञाः। स्थ। रमतयः। सम्ऽहिताः। विश्वऽनाम्नीः। उप। मा। देवीः। देवेभिः। आ। इत। इमम्। गोऽस्थम्। इदम्। सदः। घृतेन। अस्मान्। सम्। उक्षत। ७९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

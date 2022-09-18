@@ -20,7 +20,6 @@ Ppp. omits *tava pṛthivī*, thus rectifying the meter; and it has for
 Thine the four regions, thine are earth and heaven, thine, Mighty One, this firmament between them; Thine everything with soul and breath here on the surface of the land.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तव। चतस्रः। प्रऽदिशः। तव। द्यौः। पृथिवी। तव। इदम्। उग्र। उरु। अन्तरिक्षम्। तव। इदम्। सर्वम्। आत्मन्ऽवत्। यत्। प्राणत्। पृथिवीम्। अनु। २.१०।

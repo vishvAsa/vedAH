@@ -19,10 +19,9 @@ kuru*.
 O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free him from disease for me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। मे। कुष्ठ। पुरुषम्। तम्। आ। वह। तम्। नि:। कुरु। तम्। ऊं इति। मे। अगदम्। कृधि। ४.६।
+इमम्। मे। कुष्ठ। पुरुषम्। तम्। आ। वह। तम्। निः। कुरु। तम्। ऊं इति। मे। अगदम्। कृधि। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ and *tvam* for *nas* in **c**, and *divyā* for *divás* in **d**.
 Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who curses us, as the sky's lightning strikes the tree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। न:। वृङ्ग्धि। शपथ। ह्रदम्। अग्नि:ऽइव। दहन्। शप्तारम्। अत्र। न:। जहि। दिव:। वृक्षम्ऽइव। अशनि:। ३७.२।
+परि। नः। वृङ्ग्धि। शपथ। ह्रदम्। अग्निःऽइव। दहन्। शप्तारम्। अत्र। नः। जहि। दिवः। वृक्षम्ऽइव। अशनिः। ३७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

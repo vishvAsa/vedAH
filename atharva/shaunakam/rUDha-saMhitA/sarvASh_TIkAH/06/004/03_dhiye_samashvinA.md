@@ -26,10 +26,9 @@ to *dyāùṣ*.⌋
 May both the Asvins further our devotion. With ceaseless care deliver us, Wide-Ranger! O Father Heaven, keep from us all misfortunes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धिये। सम्। अश्विना। प्र। अवतम्। न:। उरुष्य। न:। उरुऽज्मन्। अप्रऽयुच्छन्। द्यौ:। पित:। यवय। दुच्छुना। या। ४.३।
+धिये। सम्। अश्विना। प्र। अवतम्। नः। उरुष्य। नः। उरुऽज्मन्। अप्रऽयुच्छन्। द्यौः। पितः। यवय। दुच्छुना। या। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

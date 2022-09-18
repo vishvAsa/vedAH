@@ -19,10 +19,9 @@ omitted in our text after *bíbhyatīḥ*.
 As, when the wolf approaches, goats and sheep run sorely terrified, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। वृकात्। अजऽअवय:। धावन्ति। बहु। बिभ्यती:। । एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथोऽइति। चित्तानि। मोहय। २१.५।
+यथा। वृकात्। अजऽअवयः। धावन्ति। बहु। बिभ्यतीः। । एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथोऽइति। चित्तानि। मोहय। २१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

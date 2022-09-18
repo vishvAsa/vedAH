@@ -24,7 +24,6 @@ interlined 'crushing' in three instances.⌋
 They being cleansed and bright, the purifiers, kindle Sankasuka for our well-being. Impurity leaveth us and sin departeth: lighted by the good cleanser Agni cleanseth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। इन्धते। सम्ऽकसुकम्। स्वस्तये। शुध्दाः। भवन्तः। शुचयः। पावकाः। जहाति। रिप्रम्। अति। एनः। एति। सम्ऽइध्दः। अग्निः। सुऽपुना। पुनाति। २.११।

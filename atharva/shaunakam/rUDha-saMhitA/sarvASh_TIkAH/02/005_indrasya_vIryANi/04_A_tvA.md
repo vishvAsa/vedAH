@@ -46,10 +46,9 @@ five-syllabled pādas.
 O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! Let the hymn bring thee. Hear thou my call, accept the song I sing, here, Indra, with thy friends enjoy thyself, to height of rapture.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। त्वा। विशन्तु। सुतास:। इन्द्र:। पृणस्व। कुक्षी इति। विड्ढि। शक्र। धिया। इहि। आ। न:। श्रुधि। हवम्। गिर:। मे। जुषस्व। आ। इन्द्र। स्वयुक्ऽभि:। मत्स्व। इह। महे। रणाय। ५.४।
+आ। त्वा। विशन्तु। सुतासः। इन्द्रः। पृणस्व। कुक्षी इति। विड्ढि। शक्र। धिया। इहि। आ। नः। श्रुधि। हवम्। गिरः। मे। जुषस्व। आ। इन्द्र। स्वयुक्ऽभिः। मत्स्व। इह। महे। रणाय। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

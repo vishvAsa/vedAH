@@ -32,10 +32,9 @@ simply acatalectic. Ought we perhaps to read *súāróh-*, i.e. *súar róh-*
 With milk and butter I anoint the mighty, celestial Goat, strong- winged, and full of juices. Through him will we attain the world of virtue, ascending to the loftiest cope, to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अजम्। अनज्मि। पयसा। घृतेन। दिव्यम्। सुऽपर्णम्। पयसम्। बृहन्तम्। तेन। गेष्म। सुऽकृतस्य। लोकम्। स्व:। आऽरोहन्त:। अभि। नाकम्। उत्ऽतमम्। १४.६।
+अजम्। अनज्मि। पयसा। घृतेन। दिव्यम्। सुऽपर्णम्। पयसम्। बृहन्तम्। तेन। गेष्म। सुऽकृतस्य। लोकम्। स्वः। आऽरोहन्तः। अभि। नाकम्। उत्ऽतमम्। १४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

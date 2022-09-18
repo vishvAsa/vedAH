@@ -38,7 +38,6 @@ use of *dhayati* at RV. i. 179. 4, *Lópāmudrā vṛ́ṣaṇaṁ (nadáṁ) dh
 This dame hath come, an animated corn-field: there sow, thou man, the seed of future harvest. She from her teeming side shall bear thee children, and feed them from the fountain of her bosom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आत्मन्ऽवती। उर्वरा। नारी। इयम्। आ। अगन्। तस्याम्। नरः। वपत। बीजम्। अस्याम्। सा। वः। प्रऽजाम्। जनयत्। वक्षणाभ्यः। बिभ्रती। दुग्धम्। ऋषभस्य। रेतः। २.१४।

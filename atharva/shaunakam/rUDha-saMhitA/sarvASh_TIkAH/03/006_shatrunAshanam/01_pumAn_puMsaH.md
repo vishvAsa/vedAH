@@ -24,10 +24,9 @@ hard *khadira* (masc).
 Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy mine enemies, who hate me and whom I detest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुमान्। पुंस:। परिऽजात:। अश्वत्थ:। खदिरात्। अधि। स:। हन्तु। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.१।
+पुमान्। पुंसः। परिऽजातः। अश्वत्थः। खदिरात्। अधि। सः। हन्तु। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

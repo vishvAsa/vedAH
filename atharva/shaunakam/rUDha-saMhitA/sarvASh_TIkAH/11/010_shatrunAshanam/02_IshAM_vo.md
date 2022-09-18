@@ -29,7 +29,6 @@ beginning *trisandhe tve* ("= *tava*"); explaining *upāsatām* by
 Let those who bear an evil name, in air, in heaven on earth, and men, After Trishandhi's will, revere your power, the sway that Know- ledge gives, together with your ruddy flags.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ईशाम्। वः। वेद। राज्यम्। त्रिऽसंधे। अरुणैः। केतुऽभिः। सह। ये। अन्तरिक्षे। ये। दिवि। पृथिव्याम्। ये। च। मानवाः। त्रिऽसंधेः। ते। चेतसि। दुःऽनामानः। उप। आसताम्। १२.२।

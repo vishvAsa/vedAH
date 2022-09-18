@@ -30,10 +30,9 @@ form *ṣá* after *ní* here is not quoted in the Prāt. commentary. ⌊Join
 O Agni, whosoever seeks to injure the essence of our food, kine, steeds, or bodies, May he, the adversary, thief, and robber, sink to destruction,. both himself and offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। रसम्। दिप्सति। प‍ित्व:। अग्ने। अश्वानम्। गवाम्। य:। तनूनाम्। रिपु:। स्तेन:। स्तेयऽकृत्। दभ्रम्। एतु। नि। स:। हीयताम्। तन्वा। तना। च। ४.१०।
+यः। नः। रसम्। दिप्सति। प‍ित्वः। अग्ने। अश्वानम्। गवाम्। यः। तनूनाम्। रिपुः। स्तेनः। स्तेयऽकृत्। दभ्रम्। एतु। नि। सः। हीयताम्। तन्वा। तना। च। ४.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

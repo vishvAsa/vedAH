@@ -7,7 +7,6 @@ title = "००३ आत्मा"
 3. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा। १ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्,
@@ -18,8 +17,6 @@ title = "००३ आत्मा"
 [Atharvan (as above).—ātmadevatyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -29,3 +26,4 @@ Found also in Pāipp. xx., and in a whole series of other texts: TS. (i. 7. 122)
 ### Translations
 Translated: Henry, 2, 48; Griffith, i. 328.
 </details>
+

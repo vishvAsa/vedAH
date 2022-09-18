@@ -40,10 +40,9 @@ being easy to read the verse into 44 syllables.
 Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found accordant. To his own place this one hath called thee, saying, Let him adore the Gods and guide the clansmen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रऽइन्द्र। मनुष्या:। परा। इहि। सम्। हि। अज्ञास्था:। वरुणै:। सम्ऽविदान:। स:। त्वा। अयम्। अह्वत्। स्वे। सधऽस्थे। स:। देवान्। यक्षत्। स:। ऊं इति। कल्पयात्। विश:। ४.६।
+इन्द्रऽइन्द्र। मनुष्याः। परा। इहि। सम्। हि। अज्ञास्थाः। वरुणैः। सम्ऽविदानः। सः। त्वा। अयम्। अह्वत्। स्वे। सधऽस्थे। सः। देवान्। यक्षत्। सः। ऊं इति। कल्पयात्। विशः। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

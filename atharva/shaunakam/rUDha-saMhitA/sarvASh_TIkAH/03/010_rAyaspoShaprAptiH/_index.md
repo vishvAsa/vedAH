@@ -7,7 +7,6 @@ title = "०१० रायस्पोषप्राप्तिः"
 10. To the ekāṣṭakā́ (day of moon's last quarter).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रायस्पोषप्राप्तिः।  
@@ -19,8 +18,6 @@ title = "०१० रायस्पोषप्राप्तिः"
 
 [Atharvan.—trayodaśarcam. āṣṭakyam. ānuṣṭubham: 4, 5, 6, 12. triṣṭubh; 7. 3-av. 6-p. virāḍgarbhātijagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 189; Weber, xvii. 218; Griffith, i. 93.
 
 A new year prayer
 </details>
+

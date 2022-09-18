@@ -19,7 +19,6 @@ The second pāda is the same with vs. 1 **d**, above.
 Let those mens' arms grow faint and weak, dull be the purpose of their heart; And let not aught of them be left when thou, O Arbudi, hast pierced.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मुह्यन्तु। एषाम्। बाहवः। चित्तऽआकूतम्। च। यत्। हृदि। मा। एषाम्। उत्। शेषि। किम्। चन। रदिते। अर्बुदे। तव। ११.१३।

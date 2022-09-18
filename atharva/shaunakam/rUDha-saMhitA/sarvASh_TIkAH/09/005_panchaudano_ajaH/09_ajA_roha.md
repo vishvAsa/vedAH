@@ -23,10 +23,9 @@ regular, and it can, indeed, be read by violence into 11 syllables.
 Rise to that world, O Goat, where dwell the righteous: pass, like a Sarabha veiled, all difficult places. The Goat Panchaudana, given to a Brahman, shall with all ful- ness satisfy the giver.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज। आ। रोह। सुऽकृताम्। यत्र। लोक:। शरभ:। न। चत्त:। अति। दु:ऽगानि। एष:। पञ्चऽओदन:। ब्रह्मणे। दीयमान:। स:। दातारम्। तृप्त्या। तर्पयति। ५.९।
+अज। आ। रोह। सुऽकृताम्। यत्र। लोकः। शरभः। न। चत्तः। अति। दुःऽगानि। एषः। पञ्चऽओदनः। ब्रह्मणे। दीयमानः। सः। दातारम्। तृप्त्या। तर्पयति। ५.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

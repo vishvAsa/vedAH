@@ -31,7 +31,6 @@ both times for *bhūme*.
 When, as I lie, O Earth, I turn upon my right side and my left, When stretched at all our length we lay our ribs on thee who meetest us. Do us no injury there, O Earth who furnishest a bed for all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। शयानः। परिऽआवर्ते। दक्षिणम्। सव्यम्। अभि। भूमे। पार्श्वम्। उत्तानाः। त्वा। प्रतीचीम्। यत्। पृष्टीभिः। अधिऽशेमहे। मा। हिंसीः। तत्र। नः। भूमे। सर्वस्य। प्रतिऽशीवरि। १.३४।

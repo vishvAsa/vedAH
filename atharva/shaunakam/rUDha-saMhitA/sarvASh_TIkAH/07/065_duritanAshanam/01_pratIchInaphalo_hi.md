@@ -22,10 +22,9 @@ fuel.
 With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into distance most remote drive every curse away from, me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रतीचीनऽफल:। हि। त्वम्। अपामार्ग। रुरोहिथ। सर्वान्। मत्। शपथान्। अधि। वरीय:। यवया:। इत:। ६७.१।
+प्रतीचीनऽफलः। हि। त्वम्। अपामार्ग। रुरोहिथ। सर्वान्। मत्। शपथान्। अधि। वरीयः। यवयाः। इतः। ६७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

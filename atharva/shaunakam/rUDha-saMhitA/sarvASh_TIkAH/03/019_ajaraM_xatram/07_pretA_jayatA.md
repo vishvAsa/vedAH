@@ -24,10 +24,9 @@ half *indro vaś śarma yacchaty anādhṛṣyā yathā ’satā*. The verse is 
 Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp-pointed arrows those whose bows are weak. With your strong arms and weapons smite the feeble foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। इत। जयत। नर:। उग्रा:। व:। सन्तु। बाहव:। तीक्ष्णऽइषव:। अबलऽधन्वन:। हत। उग्रऽआयुधा:। अबलान्। उग्रऽबाहव:। १९.७।
+प्र। इत। जयत। नरः। उग्राः। वः। सन्तु। बाहवः। तीक्ष्णऽइषवः। अबलऽधन्वनः। हत। उग्रऽआयुधाः। अबलान्। उग्रऽबाहवः। १९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

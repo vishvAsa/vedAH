@@ -18,7 +18,6 @@ the invoker born.
 From Brahma's summit there went forth a drop that mounted up on high: From that wast thou produced, O Cow, from that the Hotar sprang to life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्ध्वः। बिन्दुः। उत्। अचरत्। ब्रह्मणः। ककुदात्। अधि। ततः। त्वम्। जज्ञिषे। वशे। ततः। होता। अजायत। १०.१९।

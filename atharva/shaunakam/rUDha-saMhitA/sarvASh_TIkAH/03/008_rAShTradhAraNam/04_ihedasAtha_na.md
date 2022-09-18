@@ -36,10 +36,9 @@ diesem, dem Hausherrn, *kāmāya* zu Liebe; oder gehört *asmāi* zu
 Here, verily, may you stay: go ye no farther. The strong Herd, Lord of Increase, drive you hither! To please this man may all the Gods together come unto you and be as dames who love him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। इत्। असाथ। न। पर:। गमाथ। इर्य:। गोपा:। पुष्टऽपति:। व:। आ। अजत्। अस्मै। कामाय। उप। कामिनी:। विश्वे। व:। देवा:। उपऽसंयन्तु। ८.४।
+इह। इत्। असाथ। न। परः। गमाथ। इर्यः। गोपाः। पुष्टऽपतिः। वः। आ। अजत्। अस्मै। कामाय। उप। कामिनीः। विश्वे। वः। देवाः। उपऽसंयन्तु। ८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

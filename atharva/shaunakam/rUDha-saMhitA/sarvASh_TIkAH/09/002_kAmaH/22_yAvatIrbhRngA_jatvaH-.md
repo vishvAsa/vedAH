@@ -20,10 +20,9 @@ Bp. accents *jatváḥ* in **a**.
 Many as are the bees, and bats, and reptiles, and female serpents of the trees, and beetles, Stronger art thou than these, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावती:। भृङ्गा:। जत्व:। कुरूरव:। यावती:। वघा:। वृक्षऽसर्प्य:। बभूवु:। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.२२।
+यावतीः। भृङ्गाः। जत्वः। कुरूरवः। यावतीः। वघाः। वृक्षऽसर्प्यः। बभूवुः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

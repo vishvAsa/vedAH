@@ -30,10 +30,9 @@ sense.
 Here these two winds are blowing far as Sindhu from a distant land. May one breathe energy to thee, the other blow thy fault away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्वौ। इमौ। वातौ। वात:। आ। सिन्धो:। आ। पराऽवत:। दक्षम्। ते। अन्य:। आऽवातु। वि। अन्य:। वातु। यत्। रप:। १३.२।
+द्वौ। इमौ। वातौ। वातः। आ। सिन्धोः। आ। पराऽवतः। दक्षम्। ते। अन्यः। आऽवातु। वि। अन्यः। वातु। यत्। रपः। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,7 +28,6 @@ causative stem *rajaya* (the meter calls for *rāj-*) is found only here.
 O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Rajani, re-colour thou these ashy spots, this leprosy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नक्तम्ऽजाता। असि। ओषधे। रामे। कृष्णे। असिक्नि। च। इदम्। रजनि। रजय। किलासम्। पलितम्। च। यत्।

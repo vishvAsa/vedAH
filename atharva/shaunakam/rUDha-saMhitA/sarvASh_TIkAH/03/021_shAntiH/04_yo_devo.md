@@ -26,10 +26,9 @@ gods. In our edition, an accent-mark belonging under *ā* of *āhús* in
 The all-devouring God whom men call Kama, he whom they call the Giver and Receiver, Invincible, pervading, wise, and mighty--to all these Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। देव:। विश्वऽअत्। यम्। ऊं इति। कामम्। आहु:। यम्। दातारम्। प्रतिऽगृह्णन्तम्। आहु:। य:। धीर:। शक्र:। परिऽभू:। अदाभ्य:। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.४।
+यः। देवः। विश्वऽअत्। यम्। ऊं इति। कामम्। आहुः। यम्। दातारम्। प्रतिऽगृह्णन्तम्। आहुः। यः। धीरः। शक्रः। परिऽभूः। अदाभ्यः। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

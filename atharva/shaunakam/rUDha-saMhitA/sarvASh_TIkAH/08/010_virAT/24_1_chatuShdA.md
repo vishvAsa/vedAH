@@ -26,10 +26,9 @@ An accent-mark has dropped out in our edition under the *va* of
 She mounted up, she came to men. They called her, Come unto- us, come hither thou Free-giver! Earth was her milking-pail, the calf beside her Manu Vaivasvata, Vivasvan's offspring. Prithi the son of Vena was her milker: he milked forth hus- bandry and grain for sowing. These men depend for life on corn and tillage. He who knows this becomes a meet supporter, successful in the culture of his_ corn-land.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। वनस्पतीन्। आ। अगच्छत्। ताम्। वनस्पतय:। अघ्नत। सा। सम्ऽवत्सरे। सम्। अभवत्। १२.१।
+सा। उत्। अक्रामत्। सा। वनस्पतीन्। आ। अगच्छत्। ताम्। वनस्पतयः। अघ्नत। सा। सम्ऽवत्सरे। सम्। अभवत्। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

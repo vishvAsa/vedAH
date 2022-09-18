@@ -19,10 +19,9 @@ Agni. He explains *pánipnatam* as *śabdāyamānaṁ stūyamānaṁ vā*.
 We bringing homage have approached the friend who seeks our wondering praise, Young, strengthener of the sacrifice. May he bestow long life on me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। प्रियम्। पनिप्नतम्। युवानम्। आहुतिऽवृधम्। अगन्म। बिभ्रत:। नम:। दीर्घम्। आयु:। कृणोतु। मे। ३३.१।
+उप। प्रियम्। पनिप्नतम्। युवानम्। आहुतिऽवृधम्। अगन्म। बिभ्रतः। नमः। दीर्घम्। आयुः। कृणोतु। मे। ३३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

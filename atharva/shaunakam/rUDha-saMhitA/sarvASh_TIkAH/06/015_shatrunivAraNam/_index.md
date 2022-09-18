@@ -7,7 +7,6 @@ title = "०१५ शत्रुनिवारणम्"
 15. For superiority.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -18,8 +17,6 @@ title = "०१५ शत्रुनिवारणम्"
 
 [Uddālaka.—vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 267 or 19; Griffith, i. 252.
 
 A charm for power and preeminence
 </details>
+

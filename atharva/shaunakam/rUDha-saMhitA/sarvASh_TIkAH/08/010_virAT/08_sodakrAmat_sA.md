@@ -19,7 +19,6 @@ The phrase 'she ascended' is prefixed by only one or two of the mss.
 She mounted up, and, into four divided, she took her station in the air's mid-region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। सभायाम्। नि। अक्रामत्। १०.८।

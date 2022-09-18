@@ -25,7 +25,6 @@ arogaṇaṁ.*⌋
 Of all thy hundred remedies, a thousand remedies combined. This is the surest cure for flux, most excellent to heal disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शतम्। या। भेषजानि। ते। सहस्रम्। समऽगतानि। च। श्रेष्ठम्। आस्रावऽभेषजम्। वसिष्ठम्। रोगऽनाशनम्। ४४.२।

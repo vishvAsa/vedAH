@@ -23,7 +23,6 @@ an *urobṛhatī* or a *prastārapan̄kti*. It is quoted in Kāuś. 39. 18.
 Anointed, balmed, and well adorned, bearing all trouble with thee, go. Even as a daughter knows her sire, so know thy marker, Kritya, thou.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभिऽअक्ता। आऽअक्ता। सुऽअरंकृता। सर्वम्। भरन्ती। दुःऽइतम्। परा। इहि। जानीहि। कृत्ये। कर्तारम्। दुहिताऽइव। पितरम्। स्वम्। १.२५।

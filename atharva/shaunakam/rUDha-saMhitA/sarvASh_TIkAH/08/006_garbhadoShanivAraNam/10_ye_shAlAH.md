@@ -26,10 +26,9 @@ has interlined "humped?" As for *sríma*, cf. *sṛ́ma* in OB.⌋
 Those who at evening, with the bray of asses, dance around the house, Kukshilas, and Kusfilas, and Kakubhas, Srimas, Karumas, These with thine odour, O thou Plant, drive far away to every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। शाला:। परिऽनृत्यन्ति। सायम्। गर्दभऽनादिन:। कुसूला:। ये। च। कुक्षिला:। ककुभा:। करुमा:। स्त्रिमा:। तान्। ओषधे। त्वम्। गन्धेन। विषूचीनान्। वि। नाशय। ६.१०। १४
+ये। शालाः। परिऽनृत्यन्ति। सायम्। गर्दभऽनादिनः। कुसूलाः। ये। च। कुक्षिलाः। ककुभाः। करुमाः। स्त्रिमाः। तान्। ओषधे। त्वम्। गन्धेन। विषूचीनान्। वि। नाशय। ६.१०। १४
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

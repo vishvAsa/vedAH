@@ -23,10 +23,9 @@ fastening. ⌊The vs. recurs at ix. 2. 12, with *sā́yaka-* for
 Let them drift downward like a boat torn from the rope that fastened it. There is no turning back for those whom He who Cleaves hath driven away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ते। अधराञ्च:। प्र। प्लवन्ताम्। छिन्ना। नौ:ऽइव। बन्धनात्। न। वैबाधऽप्रनुत्तानाम्। पुन:। अस्ति। निऽवर्तनम्। ६.७।
+ते। अधराञ्चः। प्र। प्लवन्ताम्। छिन्ना। नौःऽइव। बन्धनात्। न। वैबाधऽप्रनुत्तानाम्। पुनः। अस्ति। निऽवर्तनम्। ६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

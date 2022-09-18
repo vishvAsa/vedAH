@@ -22,7 +22,6 @@ the quiver.' ⌊As for *vṛ́ṣaṇas*, cf. JAOS. x. 534, 524.⌋
 Homage to him whose weapon, Cough or Fever, assails one like the neighing of a stallion; to him who draws one forth and then another!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। तक्मा। कासिका। हेतिः। एकम्। अश्वस्यऽइव। वृषणः। क्रन्दः। एति। अभिऽपूर्वम्। निःऽनयते। नमः। अस्तु। अस्मै। २.२२।

@@ -22,10 +22,9 @@ yātudhānān ihā "naya.*
 O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our messenger and make the Yatudhanas wail.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। रभस्व। जातऽवेद:। अस्माकं। अर्थाय। जज्ञिषे। दूत:। न:। अग्ने। भूत्वा। यातुऽधानान्। वि। लापय।
+आ। रभस्व। जातऽवेदः। अस्माकं। अर्थाय। जज्ञिषे। दूतः। नः। अग्ने। भूत्वा। यातुऽधानान्। वि। लापय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

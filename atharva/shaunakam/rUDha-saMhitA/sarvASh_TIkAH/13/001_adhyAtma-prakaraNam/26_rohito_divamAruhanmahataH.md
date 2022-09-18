@@ -19,7 +19,6 @@ under the preceding verse.
 Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and rises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। दिवम्। आ। अरुहत्। महतः। परि। अर्णवात्। सर्वाः। रुरोह। रोह‍ितः। रुहः। १.२६।

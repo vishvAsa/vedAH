@@ -24,7 +24,6 @@ introduction; cf. also IFA. vi. 181, as noted above.⌋
 They call him in the farther half of heaven the Sire five-footed, of twelve forms, wealthy in watery store. These others, later still, say that he takes his stand upon a seven- wheeled car, six-spoked, whose sight is clear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पञ्चऽपादम्। पितरम्। द्वादशऽआकृतिम्। दिवः। आहुः। परे। अर्धे। पुरीषिणम्। अथ। इमे। अन्ये। उपरे। विऽचक्षणे। सप्तऽचक्रे। षट्ऽअरे। आहुः। अर्पितम्। १४.१२।

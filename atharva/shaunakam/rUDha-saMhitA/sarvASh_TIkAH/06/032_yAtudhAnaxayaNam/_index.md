@@ -7,7 +7,6 @@ title = "०३२ यातुधानक्षयणम्"
 32. Against demons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यातुधानक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०३२ यातुधानक्षयणम्"
 
 [1, 2. Cātana; 3. Atharvan.—agnidāivatam. trāiṣṭubham: 2. prastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 291 or 43; Griffith, i. 262; Bloomfield, 36, 475.
 
 A charm against fiends and goblins
 </details>
+

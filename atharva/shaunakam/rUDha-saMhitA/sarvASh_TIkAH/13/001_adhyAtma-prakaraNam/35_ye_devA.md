@@ -22,7 +22,6 @@ verse (7 + 8: 9 + 11: or 8 in **a**, if we resolve *deva-ā́* or
 With all the Gods who circle round the Sun, upholding royal sway, With all of these may Rohita accordant, give sovranty to thee with friendly spirit.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। देवाः। राष्ट्रऽभृतः। अभितः। यन्ति। सूर्यम्। तैः। ते। रोहितः। सम्ऽविदानः। राष्ट्रम्। दधातु। सुऽमनस्यमानः। १.३५।

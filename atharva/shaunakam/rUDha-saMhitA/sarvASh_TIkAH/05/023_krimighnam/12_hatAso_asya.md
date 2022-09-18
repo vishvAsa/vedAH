@@ -17,10 +17,9 @@ that are petty, as it were—all those worms are slain.
 Of every worm and insect, of the female and the male alike, I crush the head to pieces with a stone and burn the face with fire.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हतास:। अस्य। वेशस:। हतास:। परिऽवेशस:। अथो इति। ये। क्षुल्लका:ऽइव। सर्वे। ते। क्रिमय:। हता:। २३.१२।
+हतासः। अस्य। वेशसः। हतासः। परिऽवेशसः। अथो इति। ये। क्षुल्लकाःऽइव। सर्वे। ते। क्रिमयः। हताः। २३.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

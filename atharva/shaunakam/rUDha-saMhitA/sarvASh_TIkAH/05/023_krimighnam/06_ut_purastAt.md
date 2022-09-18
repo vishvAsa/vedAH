@@ -20,10 +20,9 @@ written with the *anunāsika*-sign or *candrabindu* inverted⌋.
 Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we can see, and that we see not, be destroyed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। पुरस्तात्। सूर्य:। एति। विश्वऽदृष्ट:। अदृष्टऽहा। दृष्टान्। च। घ्नन्। अदृष्टान्। च। सर्वान्। च। प्रऽमृणन्। क्रिमीन्। २३.६।
+उत्। पुरस्तात्। सूर्यः। एति। विश्वऽदृष्टः। अदृष्टऽहा। दृष्टान्। च। घ्नन्। अदृष्टान्। च। सर्वान्। च। प्रऽमृणन्। क्रिमीन्। २३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

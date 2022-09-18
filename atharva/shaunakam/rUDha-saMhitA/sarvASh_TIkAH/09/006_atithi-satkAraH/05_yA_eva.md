@@ -18,10 +18,9 @@ ones.
 The water that is solemnly brought at a sacrifice is this same water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। एव। यज्ञे। आप:। प्रऽनीयन्ते। ता:। एव। ता:। ६.५।
+याः। एव। यज्ञे। आपः। प्रऽनीयन्ते। ताः। एव। ताः। ६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

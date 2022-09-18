@@ -23,7 +23,6 @@ but with *śvaśruvā́m* in **b**: cf. Wint, p. 66.⌋
 Over thy husband's fathers and his brothers be imperial queen. Over thy husband's sister and, his mother bear supreme control.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽराज्ञी। एधि। श्वशुरेषु। सम्ऽराज्ञी। उत। देवृषु। ननान्दृः। सम्ऽराज्ञी। एधि। सम्ऽराज्ञी। उत। श्वश्वाः। १.४४।

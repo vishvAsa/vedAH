@@ -22,7 +22,6 @@ understood as a prayer: cf. vss. 5, 14.⌋
 Pratihara and Nidhanam, the Visvajit, the Abhijit, The two Sahnatiratras and Twelve-day rite are stored therein.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतिऽहारः। निऽधनम्। विश्वऽजित्। च। अभिऽजित्। च। यः। साह्नऽअतिरात्रौ। उत्ऽशिष्टे। द्वादशऽअहः। अपि। तत्। मयि। ९.१२।

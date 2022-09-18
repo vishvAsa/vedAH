@@ -22,10 +22,9 @@ second half-verse. There is a syllable lacking in **a**.
 He shall send forth his voice whom art hath fashioned. Make thou the weapons of our warriors bristle. With Indra for ally call out our heroes, and with thy friends scatter and chase the foemen
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धीभि:। कृत:। प्र। वदाति। वाचम्। उत्। हर्षय। सत्वनाम्। आयुधानि। इन्द्रऽमेदी। सत्वन:। नि। ह्वयस्व। मित्रै:। अमित्रान्। अव। जङ्घनीहि। २०.८।
+धीभिः। कृतः। प्र। वदाति। वाचम्। उत्। हर्षय। सत्वनाम्। आयुधानि। इन्द्रऽमेदी। सत्वनः। नि। ह्वयस्व। मित्रैः। अमित्रान्। अव। जङ्घनीहि। २०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

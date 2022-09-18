@@ -7,7 +7,6 @@ title = "००५ वर्चः प्राप्तिः"
 5. For some one's exaltation.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चः प्राप्तिः  
@@ -18,8 +17,6 @@ title = "००५ वर्चः प्राप्तिः"
 
 [Atharvan.—āindrāgnam. ānuṣṭubham: 2. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 431; Florenz, 254 or 6; Griffith, i. 247.
 
 A prayer to Agni and Indra for the well being of a princely patron
 </details>
+

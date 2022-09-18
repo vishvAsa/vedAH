@@ -17,10 +17,9 @@ malicious, shall assail me, this may he come upon (*ṛch*).
 Thou art my wall of stone against the sinner who fights against me from the eastern quarter. May he encounter it!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। य:। मा। प्राच्या:। दिश:। अघऽयु:। अभिऽदासात्। एतत्। स:। ऋच्छात्। १०.१।
+अश्मऽवर्म। मे। असि। यः। मा। प्राच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

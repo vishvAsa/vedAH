@@ -44,10 +44,9 @@ utter lack of sense of rhythm, that attention may well be called to it.⌋
 Strength-giver, winning lengthened life, O Agni, with face and back shining with molten butter, Drink thou the butter and fair milk and honey, and, as a sire his sons, keep this man safely.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयु:ऽदा:। अग्ने। जरसम्। वृणान:। घृतऽप्रतीक:। घृतऽपृष्ठ:। अग्ने। घृतम्। पीत्वा। मधु। चारु। गव्यम्। पिताऽइव। पुत्रान्। अभि। रक्षतात्। इमम्। १३.१।
+आयुःऽदाः। अग्ने। जरसम्। वृणानः। घृतऽप्रतीकः। घृतऽपृष्ठः। अग्ने। घृतम्। पीत्वा। मधु। चारु। गव्यम्। पिताऽइव। पुत्रान्। अभि। रक्षतात्। इमम्। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

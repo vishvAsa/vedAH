@@ -7,7 +7,6 @@ title = "०१२ यक्ष्मनाशनम्"
 12. Against various ailments (as results of lightning?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
@@ -19,8 +18,6 @@ title = "०१२ यक्ष्मनाशनम्"
 [Bhṛgvan̄giras.—yakṣmanāśanadevatākam. jāgatam: 4. anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The translation implies emendation in b to vātābhrajás or -jā́s, as suggest
 
 A prayer to Lightning, against fever, headache, and cough
 </details>
+

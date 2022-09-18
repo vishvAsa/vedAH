@@ -18,7 +18,6 @@ Ppp. reads in **b** *subhūtāny akalpayat*.
 Dhatar bound on this Amulet: he ranged and ordered all that is. With this do thou subdue thy foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। धाता। प्रति। अमुञ्चत। सः। भूतम्। वि। अकल्पयत्। तेन। त्वम्। द्व‍िषतः। जहि। ६.२१।

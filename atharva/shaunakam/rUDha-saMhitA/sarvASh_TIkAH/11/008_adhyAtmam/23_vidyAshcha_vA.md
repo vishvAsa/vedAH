@@ -21,7 +21,6 @@ representing the Atharvan hymns.
 All knowledge and all ignorance, each other thing that one may learn, Entered the body, prayer, and hymns, and songs, and sacrificial texts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विद्याः। च। वै। अविद्याः। च। यत्। च। अन्यत्। उपऽदेश्यम्। शरीरम्। ब्रह्म। प्र। अविशत्। ऋचः। साम। अथो इति। यजुः। १०.२३।

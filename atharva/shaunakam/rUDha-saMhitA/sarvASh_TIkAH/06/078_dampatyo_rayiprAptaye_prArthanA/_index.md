@@ -7,7 +7,6 @@ title = "०७८ दम्पत्यो रयिप्राप्तये
 78. For matrimonial happiness.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दम्पत्यो रयिप्राप्तये प्रार्थना।  
@@ -18,8 +17,6 @@ title = "०७८ दम्पत्यो रयिप्राप्तये
 
 [Atharvan.—1, 2. cāndramasyāu; 3. tvāṣṭrī. 1-3. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 238; Ludwig, p. 371; Grill, 57, 166; Griffith, 
 
 A nuptial benediction
 </details>
+

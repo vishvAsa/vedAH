@@ -23,7 +23,6 @@ Kāuś. (29. 2) calls the verse *grahaṇī*. ⌊For *neśat*, see *Skt. Gram.*
 All the non-fluid portion of thy venom, I receive in these. I take thy middlemost, thy highest, lowest juice: may it be spent and lest by reason of thy fear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। अपऽउदकम्। विषम्। तत्। ते। एतासु। अग्रभम्। गृह्णामि। ते। मध्यमम्। उत्ऽतमम्। रसम्। उत। अवमम्। भियसा। नेशत्। आत्। ऊं इति। ते। १३.२।

@@ -32,10 +32,9 @@ winks at it. Ppp. has the corrupt reading *sa vāi chāyad ag-* ⌊intending
 With forelock loosened o'er his brow here comes the wooer of the bride, Seeking a husband for this maid, a wife for this unmarried man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। आ। याति। अर्यमा। पुरस्तात्। विसितऽस्तुप:। अस्यै। इच्छन्। अग्रुवै। पतिम्। उत। जायाम्। अजानये। ६०.१।
+अयम्। आ। याति। अर्यमा। पुरस्तात्। विसितऽस्तुपः। अस्यै। इच्छन्। अग्रुवै। पतिम्। उत। जायाम्। अजानये। ६०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ had **d** above as i. 22. 2 **c**.
 May the Gods keep and save this man, the Maruts' host deliver him. All things that be deliver him that he be freed from his offence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रायन्ताम्। इमम्। देवा:। त्रायन्ताम्। मरुताम्। गणा:। त्रायन्ताम्। विश्वा। भूतानि। यथा। अयम्। अरपा:। असत्। १३.४।
+त्रायन्ताम्। इमम्। देवाः। त्रायन्ताम्। मरुताम्। गणाः। त्रायन्ताम्। विश्वा। भूतानि। यथा। अयम्। अरपाः। असत्। १३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ suggests that *śavarta* may be for *śavavarta* 'Aaswurm, Made.'⌋
 They gave the hooves to tortoises, to Sarama scraps of the feet: His undigested food they gave to worms and things that creep and crawl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ते। कुष्ठिका:। सरमायै। कूर्मेभ्य:। अदधु:। शफान्। ऊबध्यम्। अस्य। कीटेभ्य:। श्वेऽवर्तेभ्य:। अधारयन्। ४.१६।
+ते। कुष्ठिकाः। सरमायै। कूर्मेभ्यः। अदधुः। शफान्। ऊबध्यम्। अस्य। कीटेभ्यः। श्वेऽवर्तेभ्यः। अधारयन्। ४.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

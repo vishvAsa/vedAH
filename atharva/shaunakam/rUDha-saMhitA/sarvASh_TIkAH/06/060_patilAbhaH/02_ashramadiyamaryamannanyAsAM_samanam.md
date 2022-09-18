@@ -24,10 +24,9 @@ Comm. renders *an̄gá* by *he;* Bloomfield, "without fail."⌋
 Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wedding, verily, wooer! another maid shall come.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्रमत्। इयम्। अर्यमन्। अन्यासाम्। समनम्। यती। अङ्गो इति। नु। अर्यमन्। अस्या:। अन्या:। समनम्। आऽअयति। ६०.२।
+अश्रमत्। इयम्। अर्यमन्। अन्यासाम्। समनम्। यती। अङ्गो इति। नु। अर्यमन्। अस्याः। अन्याः। समनम्। आऽअयति। ६०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

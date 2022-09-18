@@ -23,7 +23,6 @@ the emergence of the bride from the bath (with vs. 35, above).
 As vigorous Sindhu won himself imperial lordship of the streams, So be imperial queen when thou hast come within thy husband's home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। सिन्धुः। नदीनाम्। साम्ऽराज्यम्। सुसुवे। वृषा। एव। त्वम्। सम्ऽराज्ञी। एधि। पत्युः। अस्तम्। पराऽइत्य। १.४३।

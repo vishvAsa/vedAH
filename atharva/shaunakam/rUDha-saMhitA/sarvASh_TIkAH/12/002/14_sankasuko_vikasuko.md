@@ -36,7 +36,6 @@ having *te ye ‘smad;* and it accents *yákṣmam*.⌋
 The Breaker-up, the Burster, the Destroyer, and the Silent One, These have expelled Consumption far, far off from thee and all thou hast,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽकसुकः। विऽकसुकः। निःऽऋथः। यः। च। निऽस्वरः। ते। ते। यक्ष्मम्। सऽवेदसः। दूरात्। दूरम्। अनीनशन्। २.१४।

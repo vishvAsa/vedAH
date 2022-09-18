@@ -18,7 +18,6 @@ Ppp. reads in **c** *‘stu* for *prāṇa*.
 Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Prana, unto thee what time thou sendest down thy rain!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। प्राण। क्रन्दाय। नमः। ते। स्तनयित्नवे। नमः। ते। प्राण। विऽद्युते। नमः। ते। प्राण। वर्षते। ६.२।

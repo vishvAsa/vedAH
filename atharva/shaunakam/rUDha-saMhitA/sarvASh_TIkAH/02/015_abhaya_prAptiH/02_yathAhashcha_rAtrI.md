@@ -18,10 +18,9 @@ sentences, correspondent but with elements in part different.
 यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥२॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। अह:। च। रात्री। च। न। बिभीत:। न। रिष्यत:। एव। मे। प्राण। मा। बिभे:। १५.२।
+यथा। अहः। च। रात्री। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

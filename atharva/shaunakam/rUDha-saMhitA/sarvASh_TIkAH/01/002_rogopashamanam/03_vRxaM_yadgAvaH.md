@@ -22,7 +22,6 @@ vid.* i. 278 n., ii. 182.⌋
 When, closely clinging round the wood, the bowstring sings triumph to the swift and whizzing arrow, Indra, ward off from us the shaft, the missile.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वृक्षम्। यत्। गावः। परिऽसखजानाः। अनुऽस्फुरम्। शरम्। अर्चन्ति। ॠभुम्। शरुम्। अस्मत्। यवय। दिद्युम्। इन्द्र।

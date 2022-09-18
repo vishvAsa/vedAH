@@ -26,10 +26,9 @@ Anukr. an *urobṛhatī*.
 May Agni Garhapatya save and set me free from all this guilt. Which the black Raven with thy mouth, O Nirriti, hath wiped away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। यत्। कृष्ण:। शकुनि:। अवऽअमृक्षत्। नि:ऽऋते। ते। मुखेन। अग्नि:। मा। तस्मात्। एनस:। गार्हऽपत्य:। प्र। मुञ्चतु। ६६.२।
+इदम्। यत्। कृष्णः। शकुनिः। अवऽअमृक्षत्। निःऽऋते। ते। मुखेन। अग्निः। मा। तस्मात्। एनसः। गार्हऽपत्यः। प्र। मुञ्चतु। ६६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

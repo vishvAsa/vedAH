@@ -28,10 +28,9 @@ place.
 Lend thou the worshipper that eye, O Agni, where with thou lookest on the hoof-armed demons. With light celestial in Atharvan's manner burn up the fool who ruins truth with falsehood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। अग्ने। चक्षु:। प्रति। धेहि। रेभे। शफऽआरुज:। येन। पश्यसि। यातुऽधानान्। अथर्वऽवत्। ज्योतिषा। दैव्येन। सत्यम्। धूर्वन्तम्। अचितम्। नि। ओष। ३.२१।
+तत्। अग्ने। चक्षुः। प्रति। धेहि। रेभे। शफऽआरुजः। येन। पश्यसि। यातुऽधानान्। अथर्वऽवत्। ज्योतिषा। दैव्येन। सत्यम्। धूर्वन्तम्। अचितम्। नि। ओष। ३.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

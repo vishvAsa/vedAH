@@ -20,10 +20,9 @@ words as exemplifying the disconnection of prefixes from a verb.
 God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yatudhanas up, Kimidins, and deceitful ones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। प्र। अगात्। देव:। अग्नि:। रक्ष:ऽहा। अमीवऽचातन:। दहन्। अप। इयाविन:। यातुऽधानान्। किमीदिन:।
+उप। प्र। अगात्। देवः। अग्निः। रक्षःऽहा। अमीवऽचातनः। दहन्। अप। इयाविनः। यातुऽधानान्। किमीदिनः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

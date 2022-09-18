@@ -22,10 +22,9 @@ connection; *asmín* is the only real help.
 Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar. Send him, O Savitar, full growth of riches. Let this thy servant live a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयु:। अस्मै। धेहि। जातऽवेद:। प्रऽजाम्। त्वष्ट:। अधिऽनिधेहि। अस्मै। राय:। पोषम्। सवित:। आ। सुव। अस्मै। शतम्। जीवाति। शरद:। तव। अयम्। २९.२।
+आयुः। अस्मै। धेहि। जातऽवेदः। प्रऽजाम्। त्वष्टः। अधिऽनिधेहि। अस्मै। रायः। पोषम्। सवितः। आ। सुव। अस्मै। शतम्। जीवाति। शरदः। तव। अयम्। २९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

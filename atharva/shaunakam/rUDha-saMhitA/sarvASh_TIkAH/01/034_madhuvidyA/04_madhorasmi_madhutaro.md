@@ -26,10 +26,9 @@ has **a** and **b**, with ⌊aham for asmi and⌋ *madhumāṅ* for *madughāt*.
 Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou love me as a branch full of all sweets, and only me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मधो:। अस्मि। मधुऽतर:। मदुघात्। मधुमत्ऽतर:। माम्। इत्। किल। त्वम्। वना:। शाखाम्। मधुमतीम्ऽइव।
+मधोः। अस्मि। मधुऽतरः। मदुघात्। मधुमत्ऽतरः। माम्। इत्। किल। त्वम्। वनाः। शाखाम्। मधुमतीम्ऽइव।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

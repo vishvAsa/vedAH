@@ -20,10 +20,9 @@ xxxi. 265.⌋
 These Plants that grow upon the earth, whate'er their number and their size, Let these with all their thousand leaves free me from Death and misery.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावती:। कियती:। च। इमा:। पृथिव्याम्। अधि। ओषधी:। ता:। मा। सहस्रऽपर्ण्य:। मृत्यो:। मुञ्चन्तु। अंहस:। ७.१३।
+यावतीः। कियतीः। च। इमाः। पृथिव्याम्। अधि। ओषधीः। ताः। मा। सहस्रऽपर्ण्यः। मृत्योः। मुञ्चन्तु। अंहसः। ७.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

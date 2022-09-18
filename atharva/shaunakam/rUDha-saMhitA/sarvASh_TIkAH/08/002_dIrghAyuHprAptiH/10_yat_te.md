@@ -24,10 +24,9 @@ combines *pathāi ’maṁ* (satisfying the meter).
 Saving him from that misty path of thine which cannot be defined. From that descent of thine, O Death, we make for him a shield of prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। निऽयानम्। रजसम्। मृत्यो इति। अनवऽधर्ष्यम्। पथ:। इमम्। तस्मात्। रक्षन्त:। ब्रह्म। अस्मै। वर्म। कृण्मसि। २.१०।
+यत्। ते। निऽयानम्। रजसम्। मृत्यो इति। अनवऽधर्ष्यम्। पथः। इमम्। तस्मात्। रक्षन्तः। ब्रह्म। अस्मै। वर्म। कृण्मसि। २.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

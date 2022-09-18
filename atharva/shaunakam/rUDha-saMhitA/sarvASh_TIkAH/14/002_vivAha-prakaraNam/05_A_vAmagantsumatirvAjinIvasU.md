@@ -22,7 +22,6 @@ cf. Wint., p. 70.⌋ More points than one in the translation are doubtful.
 Your favouring grace hath come, ye who are rich in spoil! Asvins, your longings are stored up within your hearts. Ye, Lords of Splendour have become our twofold guard: may we as dear friends reach the dwelling of the friend.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। वाम्। अगन्। सुऽमतिः। वाजिनीवसू इति वाजिनीऽवसू। नि। अश्विना। हत्ऽसु। कामाः। अरंसत। अभूतम्। गोपा। मिथुना। शुभः। पती इति। प्रियाः। अर्यम्णः  दुर्यान्। अशीमहि। २.५।

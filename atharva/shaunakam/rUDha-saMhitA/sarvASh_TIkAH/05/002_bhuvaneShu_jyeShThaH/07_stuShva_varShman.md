@@ -25,10 +25,9 @@ as merely a *triṣṭubh*.
 Praise in the height Him who hath many pathways, courageous, strongest, Aptya of the Aptyas Through strength he shows himself of ample power: pattern of Prithivi, he fights and conquers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्तुष्व। वर्ष्मन्। पुरुऽवर्त्मानम्। सम्। ऋभ्वाणम्। इनऽतमम्। आप्तम्। आप्त्यानाम्। आ। दर्शति। शवसा। भूरिऽओजा:। प्र। सक्षति। प्रतिऽमानम्। पृथिव्या:। २.७।
+स्तुष्व। वर्ष्मन्। पुरुऽवर्त्मानम्। सम्। ऋभ्वाणम्। इनऽतमम्। आप्तम्। आप्त्यानाम्। आ। दर्शति। शवसा। भूरिऽओजाः। प्र। सक्षति। प्रतिऽमानम्। पृथिव्याः। २.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

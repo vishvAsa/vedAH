@@ -7,7 +7,6 @@ title = "००८ राज्याभिषेकः"
 8. Accompanying the consecration of a king.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राज्याभिषेकः।  
@@ -19,8 +18,6 @@ title = "००८ राज्याभिषेकः"
 
 [Atharvān̄giras.—rājyābhiṣekyam, cāndramasam, āpyam. ānuṣṭubham: 1, 7. bhuriktriṣṭubh; 3. triṣṭubh; 5. virāṭprastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 458; Zimmer, p. 213; Weber, Ueber den Rājasūya, Berline
 
 A benediction at the consecration of a King
 </details>
+

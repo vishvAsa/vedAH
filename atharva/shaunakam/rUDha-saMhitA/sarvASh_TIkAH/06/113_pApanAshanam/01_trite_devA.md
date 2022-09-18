@@ -31,10 +31,9 @@ meter. \*⌊And *māmṛje*.⌋
 This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रिते। देवा:। अमृजत। एतत्। एन:। त्रित:। एनत्। मनुष्येषु। ममृजे। तत:। यदि। त्वा। ग्राहि:। आनशे। ताम्। ते। देवा:। ब्रह्मणा। नाशयन्तु। ११३.१।
+त्रिते। देवाः। अमृजत। एतत्। एनः। त्रितः। एनत्। मनुष्येषु। ममृजे। ततः। यदि। त्वा। ग्राहिः। आनशे। ताम्। ते। देवाः। ब्रह्मणा। नाशयन्तु। ११३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

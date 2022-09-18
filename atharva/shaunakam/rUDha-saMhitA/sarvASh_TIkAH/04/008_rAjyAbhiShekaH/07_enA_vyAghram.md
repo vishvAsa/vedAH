@@ -36,10 +36,9 @@ also, most ungrammatically, takes *enā́* at the beginning as ends "those
 These, compassing the tiger, rouse the lion to great joy and bliss. As strong floods purify the standing ocean, so men adorn the leopard in the waters
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एना। व्याघ्रम्। परिऽसस्वजाना:। सिंहम्। हिन्वन्ति। महते। सौभगाय। समुद्रम्। न। सुऽभुव:। तस्थिऽवांसम्। मर्मृज्यन्ते। द्वीपिनम्। अप्ऽसु। अन्त:। ८.७।
+एना। व्याघ्रम्। परिऽसस्वजानाः। सिंहम्। हिन्वन्ति। महते। सौभगाय। समुद्रम्। न। सुऽभुवः। तस्थिऽवांसम्। मर्मृज्यन्ते। द्वीपिनम्। अप्ऽसु। अन्तः। ८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

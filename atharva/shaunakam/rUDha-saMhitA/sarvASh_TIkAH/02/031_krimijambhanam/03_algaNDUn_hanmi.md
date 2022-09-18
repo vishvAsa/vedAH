@@ -21,10 +21,9 @@ defaced.
 I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their vigour . Left or not left, I with the spell subdue them: let not a single worm remain uninjured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अल्गण्डून्। हन्मि। महता। वधेन। दूना:। अदूना:। अरसा:। अभूवन्। शिष्टान्। अशिष्टान्। नि। तिरामि। वाचा। यथा। क्रिमीणाम्। नकि:। उत्ऽशिषातै। ३१.३।
+अल्गण्डून्। हन्मि। महता। वधेन। दूनाः। अदूनाः। अरसाः। अभूवन्। शिष्टान्। अशिष्टान्। नि। तिरामि। वाचा। यथा। क्रिमीणाम्। नकिः। उत्ऽशिषातै। ३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

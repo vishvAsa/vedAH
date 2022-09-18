@@ -24,10 +24,9 @@ The Anukr. appears to sanction the abbreviation *-kośaṁ 'va.*
 With Asita's and Kasyapa's and Gaya's incantation, thus As sisters pack within a chest, I bind and tie thy fortune up.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असितस्य। ते। ब्रह्मणा। कश्यपस्य। गयस्य। च। अन्‍त:कोशम्ऽइव। जामय:। अपि। नह्यामि। ते। भगम्।
+असितस्य। ते। ब्रह्मणा। कश्यपस्य। गयस्य। च। अन्‍तःकोशम्ऽइव। जामयः। अपि। नह्यामि। ते। भगम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

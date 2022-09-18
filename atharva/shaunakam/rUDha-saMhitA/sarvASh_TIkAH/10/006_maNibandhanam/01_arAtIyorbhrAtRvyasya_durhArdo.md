@@ -22,7 +22,6 @@ cutting of a sacrificial post.
 With power I cut away the head of my malignant rival, of mine evil-hearted enemy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरातिऽयोः। भ्रातृव्यस्य। दुःऽहार्दः। द्विषतः। शिरः। अपि। वृश्चामि। ओजसा। ६.१।

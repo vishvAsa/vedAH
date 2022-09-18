@@ -21,7 +21,6 @@ in **a**. The use by Kāuś. was noticed under the preceding verse.
 Thou followest the day and night, supporting, standing, at peace, promoting, rich in heroes. Long bearing undiseased and happy sleepers, be ours, O Bed, with smell of man about thee,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहोरात्रे इति। अनु। एषि। बिभ्रत्। क्षेम्यः। तिष्ठन्। प्रऽतरणः। सुऽवीरः। अनातुरान्। सुऽमनसः। तल्प। बिभ्रत्। ज्योक्। एव। नः। पुरुषऽगन्धिः। ‍ एधि। २.४९।

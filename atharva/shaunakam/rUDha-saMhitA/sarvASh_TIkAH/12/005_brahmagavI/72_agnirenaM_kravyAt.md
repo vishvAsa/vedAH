@@ -18,7 +18,6 @@ up; let Vāyu \[do so\] from the atmosphere, the great expanse
 From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's broad region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। एनम्। क्रव्यऽअत्। पृथिव्याः। नुदताम्। उत्। ओषतु। वायुः। अन्तरिक्षात्। महतः। वरिम्णः। १.११।

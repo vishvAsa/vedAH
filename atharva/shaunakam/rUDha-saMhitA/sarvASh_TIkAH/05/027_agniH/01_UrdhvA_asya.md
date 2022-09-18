@@ -58,10 +58,9 @@ set the *avāsana*-mark next before *pathás*.
 Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! Splendidly bright, fair-faced, with all his offspring, Tanunapat the Asura, many-handed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्ध्वा:। अस्य। सम्ऽइध:। भवन्ति। ऊर्ध्वा। शुक्रा। शोचीषि। अग्ने:। द्युमत्ऽतमा। सुऽप्रतीक:। सऽसूनु:। तनूऽनपात्। असुर:। भूरिऽपाणि:। २७.१।
+ऊर्ध्वाः। अस्य। सम्ऽइधः। भवन्ति। ऊर्ध्वा। शुक्रा। शोचीषि। अग्नेः। द्युमत्ऽतमा। सुऽप्रतीकः। सऽसूनुः। तनूऽनपात्। असुरः। भूरिऽपाणिः। २७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

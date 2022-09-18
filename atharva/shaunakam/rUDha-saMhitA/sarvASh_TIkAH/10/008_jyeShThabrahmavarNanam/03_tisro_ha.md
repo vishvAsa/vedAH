@@ -30,7 +30,6 @@ defective fourth pāda. Ppp. reads *na* (for *ha*) and *vimānaṁ* in
 Three generations have gone by and vanished and others near have entered into sunlight. There stood on high he who metes out the region into green, plants hath passed the Golden-coloured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तिस्रः। ह। प्रऽजाः। अतिऽआयम्। आयन्। नि। अन्याः। अर्कम्‌। अभितः। अविशन्त। बृहन्। ह। तस्थौ। रजसः। विऽमानः। हरितः। हरिणीः। आ। विवेश। ८.३।

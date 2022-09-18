@@ -7,7 +7,6 @@ title = "०४० शत्रुनाशनम्"
 40. Against enemies from the different quarters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०४० शत्रुनाशनम्"
 
 [śukra.—*kṛtyāpratiharaṇam. bahudevatyam. trāiṣṭubham: 2, 8. jagatī (8. puro’tiśakvarī pādayuj).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Griffith, i. 185; Weber, xviii. 152.
 
 A charm against rival worshippers
 </details>
+

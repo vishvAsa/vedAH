@@ -7,7 +7,6 @@ title = "०७७ प्रतिष्ठापनम्"
 77. For recovery and retention of what is lost.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्रतिष्ठापनम्।  
@@ -18,8 +17,6 @@ title = "०७७ प्रतिष्ठापनम्"
 
 [Kabandha.—jātavedasam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 468; Griffith, i.286; Bloomfield, 106, 496.
 
 A charm to bring the cattle home
 </details>
+

@@ -25,10 +25,9 @@ follows the RV. version of our **a, b**.⌋
 The many plants of hundred shapes and forms that Soma rules as King, Commanded by Brihaspati, deliver us from grief and woe!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। ओषधय:। सोमऽराज्ञी:। बह्वी:। शतऽविचक्षणा:। बृहस्पतिऽप्रसूता:। ता:। न:। मुञ्चन्तु। अंहस:। ९६.१।
+याः। ओषधयः। सोमऽराज्ञीः। बह्वीः। शतऽविचक्षणाः। बृहस्पतिऽप्रसूताः। ताः। नः। मुञ्चन्तु। अंहसः। ९६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

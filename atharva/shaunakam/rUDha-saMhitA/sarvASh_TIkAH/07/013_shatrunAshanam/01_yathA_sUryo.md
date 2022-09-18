@@ -18,10 +18,9 @@ splendor.
 As the Sun, rising, taketh to himself the brightness of the stars,. So I assume the glory of women and men mine enemies. All ye amang my rivals who behold me as I come to you, I seize the glory of my foes as the Sun, rising, theirs who sleep.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सूर्य:। नक्षत्राणाम्। उत्ऽयन्। तेजांसि। आऽददे। एव। स्त्रीणाम्। च। पुंसाम्। च। द्विषताम्। वर्च:। आ। ददे। १४.१।
+यथा। सूर्यः। नक्षत्राणाम्। उत्ऽयन्। तेजांसि। आऽददे। एव। स्त्रीणाम्। च। पुंसाम्। च। द्विषताम्। वर्चः। आ। ददे। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

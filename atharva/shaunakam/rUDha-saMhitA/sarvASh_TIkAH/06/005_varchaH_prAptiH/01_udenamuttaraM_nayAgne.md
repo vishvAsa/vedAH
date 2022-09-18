@@ -26,7 +26,6 @@ reads *bahūn* in **d**.
 Agni, adored with sacred oil, lift up this man to high estate. Endow him with full store of strength and make him rich in progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। एनम्। उत्ऽतरम्। नय। अग्ने। घृतेन। आऽहुत। सम्। एनम्। वर्चसा। सृज। प्रऽजया। च। बहुम्। कृधि। ५.१।

@@ -19,10 +19,9 @@ Ppp. combines *yaśā ’gnir* in **a**. This verse is repeated below, as
 Indra was glorious at his birth; Agni, Soma were born renowned. And glorious am I, the most illustrious of all that is.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यशा:। इन्द्र:। यशा:। अग्नि:। यशा:। सोम:। अजायत। यशा:। विश्वस्य। भूतस्य। अहम्। अस्मि। यश:ऽतम:। ३९.३।
+यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ३९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

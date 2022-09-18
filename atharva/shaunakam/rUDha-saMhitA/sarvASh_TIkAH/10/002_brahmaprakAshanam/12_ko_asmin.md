@@ -19,7 +19,6 @@ Ppp. again *pāuruṣe* at the end.
 Who gave him visible form and shape? Who gave him magni- tude and name? Who gave him motion, consciousness? Who furnished Purusha with feet?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मिन्। रूपम्। अदधात्। कः। मह्यानम्। च। नाम। च। गातुम्। कः। अस्मिन्। कः। केतुम्। कः। चरित्राणि। पुरुषे। २.१२।

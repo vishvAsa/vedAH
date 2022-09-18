@@ -35,10 +35,9 @@ KZ. xxxiv. 458. Hillebrandt discusses this vs., *Ved. Mythol.* i. 154.⌋
 Thou like a fleece contractest and expandest thee what time the upper stone and that below devour. Closely compressing head with head and breast with breast he crunches up the tendrils with his yellow jaws.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मेष:ऽइव। वै। सम्। च। वि। च। उरु। अच्यसे। यत्। उत्तरऽद्रौ। उपर:। च। खादत:। शीर्ष्णा:। शिर:। अप्ससा। अप्स:। अर्दयन्। अंशून्। बभस्ति। हरितेभि:। आसऽभि:। ४९.२।
+मेषःऽइव। वै। सम्। च। वि। च। उरु। अच्यसे। यत्। उत्तरऽद्रौ। उपरः। च। खादतः। शीर्ष्णाः। शिरः। अप्ससा। अप्सः। अर्दयन्। अंशून्। बभस्ति। हरितेभिः। आसऽभिः। ४९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

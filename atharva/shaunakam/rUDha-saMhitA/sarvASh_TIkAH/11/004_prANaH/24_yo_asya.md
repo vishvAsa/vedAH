@@ -20,7 +20,6 @@ interlines "attend" as a rendering of *anu-sthā*.⌋
 May he who rules this Universe of varied sort, that stirs and works, Prana, alert and resolute, assist me through the prayer I pray.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्य। सर्वऽजन्मनः। ईशे। सर्वस्य। चेष्टतः। अतन्द्रः। ब्रह्मणा। धीरः। प्राणः। मा। अनु। तिष्ठतु। ६.२४।

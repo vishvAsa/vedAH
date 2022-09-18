@@ -33,10 +33,9 @@ like AśS.; in **d** it reads *dhāmā vi no suce*.
 Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovran who maintains the statutes loose all bind- ing cords.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्ऽसु। ते। राजन्। वरुण। गृह:। हिरण्यय:। मिथ:। तत:। धृतऽव्रत:। राजा। सर्वा। धामानि। मुञ्चतु। ८८.१।
+अप्ऽसु। ते। राजन्। वरुण। गृहः। हिरण्ययः। मिथः। ततः। धृतऽव्रतः। राजा। सर्वा। धामानि। मुञ्चतु। ८८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

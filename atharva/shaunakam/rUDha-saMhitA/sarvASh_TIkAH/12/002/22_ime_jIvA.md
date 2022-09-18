@@ -26,7 +26,6 @@ counsel," and then interlined suggestion of "council."⌋ \*⌊TA. has also
 Divided from the dead are these, the living: now is our calling on the Gods successful. We have gone forth for dancing and for laughter: may we with brave sons speak to the assembly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमे। जीवाः। वि। मृतैः। आ। अववृत्रन्। अभूत्। भद्रा। देवऽहूतिः। नः। अद्य। प्राञ्चः। अगाम। नृतये। हसाय। सुऽवीरासः। विदथम्। आ। वदेम। २.२२।

@@ -21,10 +21,9 @@ syllable in **c**.
 The spell that they have cast for thee on unbaked dish or ming- led meal, The witchcraft wrought on undressed meat, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। आमे। पात्रे। याम्। चक्रु:। मिश्रऽधान्ये। आमे। मांसे। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.१।
+याम्। ते। चक्रुः। आमे। पात्रे। याम्। चक्रुः। मिश्रऽधान्ये। आमे। मांसे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

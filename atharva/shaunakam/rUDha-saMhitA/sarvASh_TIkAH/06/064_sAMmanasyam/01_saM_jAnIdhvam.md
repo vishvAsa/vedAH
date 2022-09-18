@@ -22,10 +22,9 @@ the *pū́rve* gives, at any rate, a past meaning to *-te*.
 Agree and be united: let your minds be all of one accord, Even as the Gods of ancient days, unanimous, await their share.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। जानीध्वम्। सम्। पृच्यध्वम्। सम्। व:। मनांसि। जानताम्। देवा:। भागम्। यथा। पूर्वे। सम्ऽजानाना:। उपऽआसते। ६४.१।
+सम्। जानीध्वम्। सम्। पृच्यध्वम्। सम्। वः। मनांसि। जानताम्। देवाः। भागम्। यथा। पूर्वे। सम्ऽजानानाः। उपऽआसते। ६४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

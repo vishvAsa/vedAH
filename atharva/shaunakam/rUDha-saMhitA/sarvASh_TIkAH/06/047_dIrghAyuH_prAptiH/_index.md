@@ -7,7 +7,6 @@ title = "०४७ दीर्घायुः प्राप्तिः"
 47. For blessings: at the three daily libations.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः प्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०४७ दीर्घायुः प्राप्तिः"
 
 [An̄giras (?).—āgneyam; 2. vāiśvadevī; 3. sāudhanvanā. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 429; Florenz, 308 or 60; Griffith, i. 270.
 
 To accompany the three daily libations
 </details>
+

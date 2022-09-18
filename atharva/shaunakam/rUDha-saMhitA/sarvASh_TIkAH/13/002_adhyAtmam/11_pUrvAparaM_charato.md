@@ -27,7 +27,6 @@ read *yāto ‘rṇavám* here, as in vii. 81. 1, since the majority of our
 Moving by magic power to east and westward, these two young creatures, sporting, circle ocean. One of the pair beholds all living creatures: with wheels of gold the bay steeds bear the other.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूर्वऽअपरम्। चरतः। मायया। एतौ। शिशू इति। क्रीडन्तौ। परि। यातः। अर्णवम्। विश्वा। अन्यः। भुवना। विऽचष्टे। हैरण्यैः। अन्यम्। हरितः। वहन्ति। 2.११।

@@ -23,10 +23,9 @@ tanvàm máma*; and it begins **a** with *upapréhi*. The comm. explains
 Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose thou here. In me be Knowledge, yea, in me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। आ। इहि। वाचः। पते। देवेन। मनसा। सह। वसो:। पते। नि। रमय। मयि। एव। अस्तु। मयि। श्रुतम्।
+पुनः। आ। इहि। वाचः। पते। देवेन। मनसा। सह। वसोः। पते। नि। रमय। मयि। एव। अस्तु। मयि। श्रुतम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

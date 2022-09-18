@@ -7,7 +7,6 @@ title = "०३० कामिनीमनोऽभिमुखीकरणम�
 30. To secure a woman's love.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कामिनीमनोऽभिमुखीकरणम्।  
@@ -18,8 +17,6 @@ title = "०३० कामिनीमनोऽभिमुखीकरणम�
 
 [Prajāpati (kāminīmano‘ bhimukhīkaraṇakāmaḥ).—āśvinam. ānuṣṭubham: 1. pathyāpan̄kti; 3. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, v. 218 and xiii. 197; Ludwig, p. 517; Grill, 52, 97; Griffith
 
 A man's love-charm
 </details>
+

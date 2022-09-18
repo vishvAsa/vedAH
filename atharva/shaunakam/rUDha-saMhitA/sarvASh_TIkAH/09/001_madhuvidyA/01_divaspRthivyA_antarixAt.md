@@ -22,10 +22,9 @@ and resolving *cāyitu-ā́*. *Divás p-* is prescribed by Prāt. ii. 68.
 The Asvins' Honey-whip was born from heaven and earth, from middle air, and ocean, and from fire and wind. All living creatures welcome it with joyful hearts, fraught with the store of Amrit it hath gathered up.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। पृथिव्या:। अन्तरिक्षात्। समुद्रात्। अग्ने:। वातात्। मधुऽकशा। हि। जज्ञे। ताम्। चायित्वा। अमृतम्। वसानाम्। हृत्ऽभि:। प्रऽजा:। प्रत‍ि। नन्दन्ति। सर्वा:। १.१।
+दिवः। पृथिव्याः। अन्तरिक्षात्। समुद्रात्। अग्नेः। वातात्। मधुऽकशा। हि। जज्ञे। ताम्। चायित्वा। अमृतम्। वसानाम्। हृत्ऽभिः। प्रऽजाः। प्रत‍ि। नन्दन्ति। सर्वाः। १.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

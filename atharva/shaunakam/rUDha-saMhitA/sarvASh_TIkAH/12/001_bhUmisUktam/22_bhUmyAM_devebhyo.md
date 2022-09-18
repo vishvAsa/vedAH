@@ -22,7 +22,6 @@ The verse (8 + 8: 8 + 8: 11 + 11 = 54) should be called by the Anukr.
 On earth they offer sacrifice and dressed oblation to the Gods. Men, mortals, live upon the earth by food in their accustomed way. May that Earth grant us breath and vital power. Prithivi give me life of long duration!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भूम्याम्। देवेभ्यः। ददति। यज्ञम्। हव्यम्। अरम्ऽकृतम्। भूम्याम्। मनुष्याः। जीवन्ति। स्वधया। अन्नेन। मर्त्याः। सा। नः। भूमिः। प्राणम्। आयुः। दधातु। जरत्ऽअष्टिम्। मा। पृथिवी। कृणोतु। १.२२।

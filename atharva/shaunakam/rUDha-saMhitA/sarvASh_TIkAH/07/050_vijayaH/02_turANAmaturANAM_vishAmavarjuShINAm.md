@@ -24,10 +24,9 @@ in spite of ill luck. For **d**, Ppp. has *antarhastyaṁ kṛtaṁ manaḥ*.
 From every side, from hale and sick, impotent to defend them- selves, May all the fortune of the folk as winnings pass into my hands.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तुराणाम्। अतुराणाम्। विशाम्। अवर्जुषीणाम्। सम्ऽऐतु। विश्वत:। भग:। अन्त:ऽहस्तम्। कृतम्। मम। ५२.२।
+तुराणाम्। अतुराणाम्। विशाम्। अवर्जुषीणाम्। सम्ऽऐतु। विश्वतः। भगः। अन्तःऽहस्तम्। कृतम्। मम। ५२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

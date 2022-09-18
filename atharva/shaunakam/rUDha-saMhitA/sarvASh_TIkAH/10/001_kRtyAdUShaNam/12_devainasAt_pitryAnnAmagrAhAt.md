@@ -26,7 +26,6 @@ nearly (and can easily be reduced to precisely) 40 syllables.
 From mention of thy name, from sin against the Fathers or the Gods, These herbs of healing shall by prayer release thee, by power, by holy texts, the milk of .Rishis.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवऽएनसात्। प‍ित्र्यात्। नामऽग्राहात्। सम्ऽदेश्यात्। अभिऽनिष्कृतात्। मुञ्चन्तु। त्वा। वीरुधः। वीर्येण। ब्रह्मणा। ऋक्ऽभिः। पयसा। ऋषीणाम्। १.१२।

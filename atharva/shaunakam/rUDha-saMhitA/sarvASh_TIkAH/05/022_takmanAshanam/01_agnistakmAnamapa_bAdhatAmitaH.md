@@ -24,10 +24,9 @@ qualify all the persons and things mentioned.
 Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, and the Altar. And Grass, and glowing Fuel banish Fever. Let hateful things stay at a distance yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। तक्मानम्। अप। बाधताम्। इत:। सोम:। ग्रावा। वरुण:। पूतऽदक्षा। वेदि:। बर्हि:। सम्ऽइध:। शोशुचाना:। अप। द्वेषांसि। अमुया। भवन्तु। २२.१।
+अग्निः। तक्मानम्। अप। बाधताम्। इतः। सोमः। ग्रावा। वरुणः। पूतऽदक्षा। वेदिः। बर्हिः। सम्ऽइधः। शोशुचानाः। अप। द्वेषांसि। अमुया। भवन्तु। २२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

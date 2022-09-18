@@ -17,7 +17,6 @@ all the three lights that are in Prājapati.
 Darkness is chased away from him: he is exempt from all dist- ress. In him are all the lights, the three abiding in Prajapati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। तस्य। हतम्। तमः। विऽआवृतः। सः। पाप्मना। सर्वाणि। तस्मिन्। ज्योतिषि। यानि। त्रीणि। प्रजाऽपतौ। ७.४०।

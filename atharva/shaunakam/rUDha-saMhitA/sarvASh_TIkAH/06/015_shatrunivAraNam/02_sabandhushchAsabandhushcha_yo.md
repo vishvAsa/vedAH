@@ -20,10 +20,9 @@ and its **c** is *sambandhūn sarvāṅs tīn tvā*.
 Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of all, even as this Plant is queen of trees.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽबन्धु:। च। असबन्धु:। च। य:। अस्मान्। अभिऽदासति। तेषाम्। सा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतम:। १५.२।
+सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। तेषाम्। सा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतमः। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

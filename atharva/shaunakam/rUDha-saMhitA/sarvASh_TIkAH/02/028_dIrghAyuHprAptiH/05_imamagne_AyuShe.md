@@ -31,10 +31,9 @@ Schroeder gives the Kaṭha version, *Tübinger Kaṭha-hss.*, p. 72-3.⌋
 Lead him to life, O Agni, and to splendour, this dear child, Varuna! and thou King Mitra! Give him protection, Aditi! as a mother; All Gods, that his be life of long duration;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। अग्ने। आयुषे। वर्चसे। नय। प्रियम्। रेत:। वरुण। मित्रऽराजन्। माताऽइव। अस्मै। अदिते। शर्म। यच्छ। विश्वे। देवा:। जरत्ऽअष्टि:। यथा। असत्। २८.५।
+इमम्। अग्ने। आयुषे। वर्चसे। नय। प्रियम्। रेतः। वरुण। मित्रऽराजन्। माताऽइव। अस्मै। अदिते। शर्म। यच्छ। विश्वे। देवाः। जरत्ऽअष्टिः। यथा। असत्। २८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

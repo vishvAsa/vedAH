@@ -25,10 +25,9 @@ Ppp. reads, for **b**, *prajayā ca bahuṁ kṛdhi*, and combines in **d**
 Endow me with the gift of strength, with children, and a length- ened life. May the Gods mark this prayer of mine, may Indra with the Rishis mark.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्यु:। मे। अस्य। देवा:। इन्द्र:। विद्यात्। सह। ऋषिऽभि:। ९४.२।
+सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। ९४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

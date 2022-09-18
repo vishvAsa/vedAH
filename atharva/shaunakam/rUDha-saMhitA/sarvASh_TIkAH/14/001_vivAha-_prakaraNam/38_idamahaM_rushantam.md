@@ -24,7 +24,6 @@ is described by the Anukr. with mechanical correctness.
 I cast away a handful here, hurtful, injurious to health. I lift another handful up, sparkling and bringing happiness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। अहम्। रुशन्तम्। ग्राभम्। तनूऽदूषिम्। अप। ऊहामि। यः। भद्रः। रोचनः। तम्। उत्। अचामि। १.३८।

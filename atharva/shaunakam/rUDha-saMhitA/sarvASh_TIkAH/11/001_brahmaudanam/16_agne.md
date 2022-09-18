@@ -24,7 +24,6 @@ the fire: so Kāuś. 61. 31; also 2. 7.
 Agni, on thee the sacrificial caldron hath mounted: shining,. fiercely flaming, heat it. May hottest flames, divine, sprung from the Rishis, gathering, with the Seasons, heat this portion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। चरुः। यज्ञियः। त्वा। अधि। अरुक्षत्। शुचिः। तपिष्ठः। तपसा। तप। एनम्। आर्षेयाः। दैवाः। अभिऽसंगत्य। भागम्। इमम्। तपिष्ठाः। ऋतुऽभिः। तपन्तु। १.१६।

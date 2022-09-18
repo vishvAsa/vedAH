@@ -27,7 +27,6 @@ of *an.* 1 belongs rather here than there).
 Sicut ventus, sicut mens, sicut alites volant, sic, decem mensium puer, cum placenta descende: descendat placenta.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा वातो यथा मनो यथा पतन्ति पक्षिणः। एवा त्वं दशमास्य साकं जरायुणा पताव जरायु पद्यताम्।

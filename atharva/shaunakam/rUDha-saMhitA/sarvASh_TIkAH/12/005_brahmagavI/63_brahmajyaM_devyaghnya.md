@@ -19,7 +19,6 @@ somewhat altered and⌋ the remaining vss. are wanting.
 Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽज्यम्। देवि। अघ्न्ये। आ। मूलात्। अनुऽसंदहः। ११.२।

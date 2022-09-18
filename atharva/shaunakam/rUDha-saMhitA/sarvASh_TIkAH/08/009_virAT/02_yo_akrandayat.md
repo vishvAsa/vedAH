@@ -20,10 +20,9 @@ Ppp. combines *yo ‘krand-* at the beginning, and reads in **b**
 He who prepared a threefold home, and lying there made the water bellow through his greatness, Calf of Viraj, giving each wish fulfilment, made bodies for him- self far off, in secret.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अक्रन्दयत्। सलिलम्। महिऽत्‍वा। योनिम्। कृत्वा। त्रिऽभुजम्। शयान:। वत्स:। कामऽदुघ:। विऽराज:। स:। गुहा। चक्रे। तन्व:। पराचै:। ९.२।
+यः। अक्रन्दयत्। सलिलम्। महिऽत्‍वा। योनिम्। कृत्वा। त्रिऽभुजम्। शयानः। वत्सः। कामऽदुघः। विऽराजः। सः। गुहा। चक्रे। तन्वः। पराचैः। ९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,10 +31,9 @@ Mythol.* i. 433, discusses the verse.⌋
 Knowing Eternity, may the Gandharva declare to us that highest secret station. Three steps thereof lie hidden in the darkness: he who knows these shall be the father's father.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। तत्। वोचेत्। अमृतस्य। विद्वान्। गन्धर्व:। धाम। परमम्। गुहा। यत्। त्रीणि। पदानि। निऽहिता। गुहा। अस्य। य:। तानि। वेद। स:। पितु:। पिता। असत्। १.२।
+प्र। तत्। वोचेत्। अमृतस्य। विद्वान्। गन्धर्वः। धाम। परमम्। गुहा। यत्। त्रीणि। पदानि। निऽहिता। गुहा। अस्य। यः। तानि। वेद। सः। पितुः। पिता। असत्। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,7 +27,6 @@ Böhtlingk occasion for some interesting general critical remarks,
 Cleansing Apala, Indra! thrice, thou gavest sunbright skin to her Drawn, Satakratu! through the hole of car, of wagon, and of yoke.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 खे। रथस्य। खे। अनसः। खे। युगस्य। शतक्रतो इति शतक्रतो। अपालाम्। इन्द्र। त्रिः। पूत्वा। अकृणोः। सूर्यऽत्ववचम्। १.४१।

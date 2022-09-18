@@ -24,10 +24,9 @@ verse. The comm. explains *tviṣita* in **a** by *pradīpta*.
 Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army's leader. Slay thou our foes, distribute their possession: show forth thy vigour, scatter those who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:ऽइव। मन्यो इति। त्विषित:। सहस्व। सेनाऽनी:। न:। सहुरे। हूत:। एधि। हत्वाय। शत्रून्। वि। भजस्व। वेद:। ओेज:। मिमान:। वि। मृध:। नुदस्व। ३१.२।
+अग्निःऽइव। मन्यो इति। त्विषितः। सहस्व। सेनाऽनीः। नः। सहुरे। हूतः। एधि। हत्वाय। शत्रून्। वि। भजस्व। वेदः। ओेजः। मिमानः। वि। मृधः। नुदस्व। ३१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

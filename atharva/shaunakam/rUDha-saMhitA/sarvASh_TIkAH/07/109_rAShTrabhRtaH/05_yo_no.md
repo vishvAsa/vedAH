@@ -23,10 +23,9 @@ respectively by *grahaṇa¿m svakīyāir akṣāir jitvā svīkaraṇam*, and
 The God who found for us this wealth for gambling, to cast the dice and count the winning number, May he accept the sacrifice we offer, and with Gandharvas revel in the banquet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। द्युवे। धनम्। इदम्। चकार। य:। अक्षाणाम्। ग्लहनम्। शेषणम्। च। स:। न:। देव:। हवि:। इदम्। जुषाण:। गन्धर्वेभि:। सधऽमादम्। मदेम। ११४.५।
+यः। नः। द्युवे। धनम्। इदम्। चकार। यः। अक्षाणाम्। ग्लहनम्। शेषणम्। च। सः। नः। देवः। हविः। इदम्। जुषाणः। गन्धर्वेभिः। सधऽमादम्। मदेम। ११४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

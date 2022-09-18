@@ -7,7 +7,6 @@ title = "१४१ गोकर्णयोर्लक्ष्यकरणम�
 141. With marking of cattle's ears.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गोकर्णयोर्लक्ष्यकरणम्।  
@@ -19,8 +18,6 @@ title = "१४१ गोकर्णयोर्लक्ष्यकरणम�
 [Viśvāmitra.—āśvinam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (in the verse-order 1, 3, 2). Used by Kāuś. (23. 12
 ### Translations
 Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 </details>
+

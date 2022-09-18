@@ -19,7 +19,6 @@ Ppp. combines *tā ”san* in **a**, and reads *puraḥ* for *purā* in **b**.
 Those Gods who were of old, the Ten begotten earlier than the Gods, What world do they inhabit since they gave the world unto their sons?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। ते। आसन्। दश। जाताः। देवाः। देवेभ्यः। पुरा। पुत्रेभ्यः। लोकम्। दत्त्वा। कस्मिन्। ते। लोके। आसते। १०.१०।

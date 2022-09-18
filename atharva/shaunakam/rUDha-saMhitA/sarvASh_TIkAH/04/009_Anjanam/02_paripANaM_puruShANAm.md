@@ -21,7 +21,6 @@ Anukr. refuses all resolution, and counts the pāda as of 6 syllables.
 Thou art the safeguard of the men, thou art the safeguard of the kine, Thou standest ready to protect the horses that are fleet of foot.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परिऽपानम्। पुरुषाणाम्। परिऽपानम्। गवाम्। असि। अश्वानाम्। अर्वताम्। परिऽपानाय। तस्थिषे। ९.२।

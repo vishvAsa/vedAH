@@ -21,7 +21,6 @@ his explanation there given—which, however, is not in our hands.
 If they have issued forth strongholds of Gods, and made their shields of prayer, Gaining protection for their lives, protection round about, make all their instigation powerless
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। प्रऽईयुः। देवऽपुराः। ब्रह्म। वर्माणि। चक्रिरे। तनूऽपानम्। परिऽपानम्। कृण्वानाः। यत्। उपऽऊचिरे। सर्वम्। तत्। अरसम्। कृधि। १२.१७।

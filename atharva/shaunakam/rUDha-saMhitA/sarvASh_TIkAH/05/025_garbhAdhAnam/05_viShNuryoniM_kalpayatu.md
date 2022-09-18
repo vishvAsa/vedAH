@@ -20,10 +20,9 @@ ii. 18. 2. i and p. 156.⌋
 Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati infuse the stream, and Dhatar lay for thee the germ.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्णु:। योनिम्। कल्पयतु। त्वष्टा। रूपाणि। पिशतु। आ। सिञ्चतु। प्रजाऽपति:। धाता। गर्भम्। दधातु। ते। २५.५।
+विष्णुः। योनिम्। कल्पयतु। त्वष्टा। रूपाणि। पिशतु। आ। सिञ्चतु। प्रजाऽपतिः। धाता। गर्भम्। दधातु। ते। २५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

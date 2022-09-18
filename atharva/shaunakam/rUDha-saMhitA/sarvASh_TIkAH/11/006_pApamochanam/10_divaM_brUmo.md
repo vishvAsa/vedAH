@@ -21,7 +21,6 @@ tatrayāni puṇyakṣetrāṇi*. MS. has the verse in ii. 7. 13, but reads
 We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, to Rivers, and to Lakes: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिवम्। ब्रूमः। नक्षत्राणि। भूमिम्। यक्षाणि। पर्वतान्। समुद्राः। नद्यः। वेशन्ताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१०।

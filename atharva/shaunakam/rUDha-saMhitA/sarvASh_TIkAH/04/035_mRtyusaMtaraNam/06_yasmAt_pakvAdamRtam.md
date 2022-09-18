@@ -14,10 +14,9 @@ title = "०६ यस्मात् पक्वादमृतम्"
 From which, matured, sprang Amrit into being, which hath become Gayatris lord and ruler, In which the perfect Vedas have been treasured,--I with this Odana will conquer Mrityu,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्मात्। पक्वात्। अमृतम्। सम्ऽबभूव। य:। गायत्र्या:। अधिऽपति:। बभूव। यस्मिन्। वेदा:। निऽहिता:। विश्वऽरूपा:। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.६।
+यस्मात्। पक्वात्। अमृतम्। सम्ऽबभूव। यः। गायत्र्याः। अधिऽपतिः। बभूव। यस्मिन्। वेदाः। निऽहिताः। विश्वऽरूपाः। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

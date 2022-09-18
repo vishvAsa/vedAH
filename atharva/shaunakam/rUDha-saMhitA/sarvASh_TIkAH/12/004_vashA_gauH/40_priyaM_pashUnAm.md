@@ -19,7 +19,6 @@ Lit. 'among the gods' (p. *deva॰trā́*).
 The animal is happy when it is bestowed upon the priests: But happy is the Cow when she is made a sacrifice to Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रियम्। पशूनाम्। भवति। यत्। ब्रह्मऽभ्यः। प्रऽदीयते। अथो इति। वशायाः। तत्। प्रियम्। यत्। देवऽत्रा। हविः। स्यात्। ४.४०।

@@ -21,10 +21,9 @@ word of remark, with *pālayathas*.
 Beauteously bright! men rest in thy dominion when thou hast risen up and hastened onward. Ye, Vayu, Savitar, preserve all creatures. Deliver us, ye, twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तव। व्रते। नि। विशन्ते। जनास:। त्वयि। उत्ऽइते। प्र। ईरते। चित्रभानो इति  चित्रऽभानो। युवम्। वायो इति। सविता। च। भुवनानि। रक्षथ:। तौ। न:। मुञ्चतम्। अंहस:। २५.३।
+तव। व्रते। नि। विशन्ते। जनासः। त्वयि। उत्ऽइते। प्र। ईरते। चित्रभानो इति  चित्रऽभानो। युवम्। वायो इति। सविता। च। भुवनानि। रक्षथः। तौ। नः। मुञ्चतम्। अंहसः। २५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

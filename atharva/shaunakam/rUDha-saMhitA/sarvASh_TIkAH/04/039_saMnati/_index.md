@@ -7,7 +7,6 @@ title = "०३९ संनति"
 39. For various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 संनति  
@@ -18,8 +17,6 @@ title = "०३९ संनति"
 
 [An̄giras.*—daśarcam. sāṁnatyam. nānādevatyam. pān̄ktam: 1, 3, 5, 7. 3-p. mahābṛhatī; 2, 4, 6, 8. saṁstārapan̄kti; 9, 10. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 184; Weber, xviii. 150.
 
 A prayer to various deities for health, wealth, and prosperity
 </details>
+

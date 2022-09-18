@@ -19,10 +19,9 @@ The comm. reads *udyatam* (= *grahavikāreṇo ’dbhrāntam*) instead of
 Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled I make a medicine that thou no larger mayst be mad.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। ते। नि। शमयतु। यदि। ते। मन:। उत्ऽयुतम्। कृणोमि। व‍िद्वान्। भेषजम्। यथा। अनुत्ऽमदित:। अससि। १११.२।
+अग्निः। ते। नि। शमयतु। यदि। ते। मनः। उत्ऽयुतम्। कृणोमि। व‍िद्वान्। भेषजम्। यथा। अनुत्ऽमदितः। अससि। १११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

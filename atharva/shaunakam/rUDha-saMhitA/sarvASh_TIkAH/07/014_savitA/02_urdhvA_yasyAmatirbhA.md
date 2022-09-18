@@ -26,10 +26,9 @@ vyāpanaśīlā*. \*⌊Mistake for P.M.?—Note to Prāt. i. 65 may be compared.
 Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise, and golden-handed, in his beauty made the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्ध्वा:। यस्य। अमति:। भा:। अदिद्युतत्। सवीमनि। हिरण्यऽपाणि:। अमिमीत। सुऽक्रतु:। कृपात्। स्व:। १५.२।
+ऊर्ध्वाः। यस्य। अमतिः। भाः। अदिद्युतत्। सवीमनि। हिरण्यऽपाणिः। अमिमीत। सुऽक्रतुः। कृपात्। स्वः। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ of the verse should not have been overlooked by the Anukr. ⌊Cf. i. 20. 2
 Whatever deadly missile launched to-day flies forth to slaughter us. We take both arms of Indra to encompass us on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अद्य। सेन्य:। वध:। जिघांसन्। न:। उत्ऽईरते। इन्द्रस्य। तत्र। बाहू इति। समन्तम्। परि। दद्म:। ९९.२।
+यः। अद्य। सेन्यः। वधः। जिघांसन्। नः। उत्ऽईरते। इन्द्रस्य। तत्र। बाहू इति। समन्तम्। परि। दद्मः। ९९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Bp. reads *vā́sya-*. Vss. 19 and 20 were perhaps intended as metrical (8
 Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्षुरऽपविः। ईक्षमाणा। वाश्यमाना। अभि। स्फूर्जति। ७.९।

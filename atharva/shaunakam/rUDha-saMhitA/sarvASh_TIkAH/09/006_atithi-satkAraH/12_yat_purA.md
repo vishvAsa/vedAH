@@ -19,7 +19,6 @@ meal. The verse is wanting in Ppp.
 The food they bring before the general distribution represents the two sacrificial cakes of rice meal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। पुरा। परिऽवेषात्। खादम्। आऽहरन्ति। पुरोडाशौ। एव। तौ। ६.१२।

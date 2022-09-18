@@ -24,10 +24,9 @@ sapatnān* (**d** = ii. 29. 3 **d**).
 May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and golden. Prostrate beneath our feet his foes and rivals. Uplift him to the. loftiest cope of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्य। देवा:। प्रऽदिशि। ज्योति:। अस्तु। सूर्य:। अग्नि:। उत। वा। हिरण्यम्। सऽपत्ना:। अस्मत्। अधरे। भवन्तु। उत्‍ऽतमम्। नाकम्। अधि। रोहय। इमम्।
+अस्य। देवाः। प्रऽदिशि। ज्योतिः। अस्तु। सूर्यः। अग्निः। उत। वा। हिरण्यम्। सऽपत्नाः। अस्मत्। अधरे। भवन्तु। उत्‍ऽतमम्। नाकम्। अधि। रोहय। इमम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

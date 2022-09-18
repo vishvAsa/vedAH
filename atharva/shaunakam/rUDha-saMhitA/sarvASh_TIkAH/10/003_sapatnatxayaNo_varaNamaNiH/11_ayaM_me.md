@@ -20,7 +20,6 @@ authorize. Ppp. also exchanges the second halves of vss. 11 and 12.
 This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my foemen as Indra quelled fiends and Asuras.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। मे। वरणः। उरसि। राजा। देवः। वनस्पतिः। सः। मे। शत्रून्। वि। बाधताम्। इन्द्रः। दस्यून्ऽइव। असुरान्। ३.११।

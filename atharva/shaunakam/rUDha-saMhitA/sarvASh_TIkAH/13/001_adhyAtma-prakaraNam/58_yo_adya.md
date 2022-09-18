@@ -19,7 +19,6 @@ duṣvapnyaṁ sarvaṁ*.
 Whoe'er he be who, Surya, God! comes between thee and me to-day, On him we wipe away ill-dream, and troubles, and impurity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अद्य। देव। सूर्य त्वाम्। च। माम्। च। अन्तरा। अयति। दुःऽस्वप्न्यम्। तस्मिन्। शमलम्। दुःऽइतानि। च। मृज्महे। १.५८।

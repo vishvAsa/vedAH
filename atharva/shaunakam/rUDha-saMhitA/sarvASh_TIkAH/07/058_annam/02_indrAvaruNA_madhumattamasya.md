@@ -23,10 +23,9 @@ as authority.
 O Indra Varuna, drink your fill, ye heroes, of this effectual and sweetest Soma. This juice was shed by us that ye might quaff it. On this trimmed grass be seated and rejoice you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रावरुणा। मधुमत्ऽतमस्य। वृष्ण:। सोमस्य। वृषणा। आ। वृषेथाम्। इदम्। वाम्। अन्ध:। परिऽसिक्तम्। आऽसद्य:। अस्मिन्। बर्हिषि। मादयेथाम्। ६०.२।
+इन्द्रावरुणा। मधुमत्ऽतमस्य। वृष्णः। सोमस्य। वृषणा। आ। वृषेथाम्। इदम्। वाम्। अन्धः। परिऽसिक्तम्। आऽसद्यः। अस्मिन्। बर्हिषि। मादयेथाम्। ६०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

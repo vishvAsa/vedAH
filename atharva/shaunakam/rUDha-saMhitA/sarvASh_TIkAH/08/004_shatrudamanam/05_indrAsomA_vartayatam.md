@@ -21,10 +21,9 @@ Ppp. reads *divas* for *yuvam* in **b**; the comm. has in **d**
 Indra and Soma, cast ye downward from the sky your deadly bolts of stone burning with fiery flame, Eternal, scorching darts. Plunge the voracious fiends within the depth, and let them pass without a sound.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। वर्तयतम्। दिव:। परि। अग्निऽतप्तेभि:। युवम्। अश्महन्मऽभि:। तपु:ऽवधेभि:। अजरेभि:। अत्त्रिण:। नि। पर्शाने। विध्यतम्। यन्तु। निऽस्वरम्। ४.५।
+इन्द्रासोमा। वर्तयतम्। दिवः। परि। अग्निऽतप्तेभिः। युवम्। अश्महन्मऽभिः। तपुःऽवधेभिः। अजरेभिः। अत्त्रिणः। नि। पर्शाने। विध्यतम्। यन्तु। निऽस्वरम्। ४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

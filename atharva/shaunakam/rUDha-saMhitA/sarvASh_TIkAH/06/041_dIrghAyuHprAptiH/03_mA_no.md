@@ -28,10 +28,9 @@ trayastriṅśakāu* (*tṛtīya-* given above, not here).
 Let not the Rishis, the divine, forsake us, our own, our very selves, our lives' protectors. Do ye, immortal, still attend us mortals, and give us vital power to live the longer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। न:। हासिषु:। ऋषय:। दैव्या:। ये। तनूऽपा:। ये। न:। तन्व:। तनूऽजा:। अमर्त्या:। मर्त्यान्। अभि। न:। सचध्वम्। आयु:। धत्त। प्रऽतरम्। जीवसे। न:। ४१.३।
+मा। नः। हासिषुः। ऋषयः। दैव्याः। ये। तनूऽपाः। ये। नः। तन्वः। तनूऽजाः। अमर्त्याः। मर्त्यान्। अभि। नः। सचध्वम्। आयुः। धत्त। प्रऽतरम्। जीवसे। नः। ४१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

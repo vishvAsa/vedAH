@@ -20,10 +20,9 @@ refrain of 2, 3: *mā hiṅs-* etc.
 Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahmanaspati, and thou, O Jatavedas, both these teeth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। व्याघ्रौ। अवऽरूढौ। जिघत्सत:। पितरम्। मातरम्। च। तौ। दन्तौ। ब्रह्मण:। पते। शिवौ। कृणु। जातऽवेद:। १४०.१।
+यौ। व्याघ्रौ। अवऽरूढौ। जिघत्सतः। पितरम्। मातरम्। च। तौ। दन्तौ। ब्रह्मणः। पते। शिवौ। कृणु। जातऽवेदः। १४०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

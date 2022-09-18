@@ -28,10 +28,9 @@ else *aprayātar*, i.e. *sarvadā dhāryamāṇa.*
 This Parna-Amulet hath come, strong and destroying with its strength my rivals. The power of the Gods, the plants' sweet essence, may it incite me ceaselessly with vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। पर्णऽमणि:। बली। बलेन। प्रऽमृणन्। सऽपत्नान्। ओज:। देवानाम्। पय:। ओषधीनाम्। वर्चसा। मा। जिन्वतु। अप्रऽयावन्। ५.१।
+आ। अयम्। अगन्। पर्णऽमणिः। बली। बलेन। प्रऽमृणन्। सऽपत्नान्। ओजः। देवानाम्। पयः। ओषधीनाम्। वर्चसा। मा। जिन्वतु। अप्रऽयावन्। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

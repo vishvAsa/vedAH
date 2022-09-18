@@ -25,7 +25,6 @@ arthaḥ*. He divides the verse into two, making the second begin with
 Let Vayu bend the arrow-points of those who are our enemies. Let Indra break their arms away: no power to lay the shaft be theirs! Aditya utterly destroy their missile! Chandramas bar the path of him who lingers!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वायुः। अमित्राणाम्। इषुऽअग्राणि। आ। अञ्चतु। इन्द्रः। एषाम्। बाहून्। प्रति। भनक्तु। मा। शकन्। प्रतिऽधाम्। इषुम्। आदित्यः। एषाम्। अस्त्रम्। वि। नाशयतु। चन्द्रमाः। युताम्। अगतस्य। पन्थाम्। १२.१६।

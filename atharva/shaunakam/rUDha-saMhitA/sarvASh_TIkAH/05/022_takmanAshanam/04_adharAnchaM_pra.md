@@ -22,10 +22,9 @@ reading *kṛtvāya*.
 When I have paid obeisance to Fever I send him downward forth. So let Sakambhara's boxer go again to the Mahavrishas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधराञ्चम्। प्र। हिनोमि। नम:। कृत्वा। तक्मने। शकम्ऽभरस्य। मुष्टिऽहा। पुन:। एतु। महाऽवृषान्। २२.४।
+अधराञ्चम्। प्र। हिनोमि। नमः। कृत्वा। तक्मने। शकम्ऽभरस्य। मुष्टिऽहा। पुनः। एतु। महाऽवृषान्। २२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

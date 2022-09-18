@@ -38,10 +38,9 @@ by the Ppp. *sūtre.*⌋
 What magic they have wrought for thee in dish unbaked or burnt dark-red, What they have wrought in flesh undressed,--conquer the sorcerers therewith.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। आमे। पात्रे। याम्। चक्रु:। नीलऽलोहिते। आमे। मांसे। कृत्याम्। याम्। चक्रु:। तया। कृत्याऽकृत:। जहि। १७.४।
+याम्। ते। चक्रुः। आमे। पात्रे। याम्। चक्रुः। नीलऽलोहिते। आमे। मांसे। कृत्याम्। याम्। चक्रुः। तया। कृत्याऽकृतः। जहि। १७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ as antithesis to *parāñcam;* the comm. has *atha* instead of *adha*.
 The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, destroyer, overcome and drive these foemen's might away, and then bring opulence to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। मन्यु:। अव। आऽयता। अव। बाहू इति। मन:ऽयुजा। पराऽशर। त्वम्। तेषाम्। पराञ्चम्। शुष्मम्। अर्दय। अध। न:। रयिम्। आ। कृधि। ६५.१।
+अव। मन्युः। अव। आऽयता। अव। बाहू इति। मनःऽयुजा। पराऽशर। त्वम्। तेषाम्। पराञ्चम्। शुष्मम्। अर्दय। अध। नः। रयिम्। आ। कृधि। ६५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

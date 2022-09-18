@@ -29,7 +29,6 @@ regard to the transition-sound between *-dan* and *ṣáḍ*, see Prāt. ii.
 Up to the lap of births, to lofty places, hath Rohita, the germ of Dames, ascended. Conjoined with these he found the six realms: seeing his way in front here he received the kingship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रुहः। रुरोह। रोहितः। आ। रुरोह। गर्भः। जनीनाम्। जनुषाम्। उपऽस्थम्। ताभिः। सम्ऽरब्धम्। अनु। अविन्दन्। षट्। उर्वीः। गातुम्। प्रऽपश्यन्। इह। राष्ट्रम्। आ। अहाः। १.४।

@@ -20,7 +20,6 @@ and reckon the verse as 16 syllables.
 Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। दत्से। जिनताम्। वर्चः। इष्टम्। पूर्तम्। च। आऽशिषः। १०.१०।

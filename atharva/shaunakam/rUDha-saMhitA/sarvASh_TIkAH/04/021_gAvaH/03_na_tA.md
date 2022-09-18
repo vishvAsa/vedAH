@@ -33,10 +33,9 @@ stand in RV. order at ii. 8. 8¹¹; but the vss. are given in full at ii.
 These are ne'er lost, no robber ever injures them: no evil-minded foe attempts to harass them. The master of the kine lives a long life with these, the Cows whereby he pours his gifts and serves the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। ता:। नशन्ति। न। दभाति। तस्कर:। न। आसाम्। आमित्र:। व्यथि:। आ। दधर्षति। देवान्। च। याभि:। यजते। ददाति। च। ज्योक्। इत्। ताभि:। सचते। गोऽपति:। सह। २१.३।
+न। ताः। नशन्ति। न। दभाति। तस्करः। न। आसाम्। आमित्रः। व्यथिः। आ। दधर्षति। देवान्। च। याभिः। यजते। ददाति। च। ज्योक्। इत्। ताभिः। सचते। गोऽपतिः। सह। २१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

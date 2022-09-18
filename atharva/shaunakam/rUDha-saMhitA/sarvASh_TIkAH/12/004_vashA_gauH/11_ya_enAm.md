@@ -23,7 +23,6 @@ different explanations, under *nipriyāy* and *priyāy* respectively.
 The God-created Cow belongs to those who come to ask for her. They call it outrage on the priests when one retains her as his own.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। एनाम्। वनिम्। आऽयन्ति। तेषाम्। देवऽकृता। वशा। ब्रह्मऽज्येयम्। तत्। अब्रुवन्। यः। एनाम्। निऽप्रिययते। ४.११।

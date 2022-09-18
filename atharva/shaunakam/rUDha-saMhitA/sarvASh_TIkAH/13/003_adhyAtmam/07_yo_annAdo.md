@@ -29,7 +29,6 @@ note to vs. 6 for use by Kāuś.⌋
 He who, consuming food, became its master, the Lord of Prayer, the Regent of Devotion, The world's Lord, present and to be hereafter, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अन्नऽअदः। अन्नऽपतिः। बभूव। ब्रह्मणः। पतिः। उत। यः। भूतः। भविष्यत्। भुवनस्य। यः। पतिः। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.७।

@@ -20,10 +20,9 @@ to be a misprint.⌋
 The fiend who smears himself with flesh of cattle, with flesh of horses and of human bodies, Who steals the milch-cow's milk away, O Agni,--tear off the heads of such with fiery fury.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। पौरुषेयेण। क्रविषा। सम्ऽअङ्क्ते। य:। अश्व्येन। पशुना। यातुऽधान:। य:। अघ्न्याया:। भरति। क्षीरम्। अग्ने। तेषाम्। शीर्षाणि। हरसा। अपि। वृश्च। ३.१५।
+यः। पौरुषेयेण। क्रविषा। सम्ऽअङ्क्ते। यः। अश्व्येन। पशुना। यातुऽधानः। यः। अघ्न्यायाः। भरति। क्षीरम्। अग्ने। तेषाम्। शीर्षाणि। हरसा। अपि। वृश्च। ३.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

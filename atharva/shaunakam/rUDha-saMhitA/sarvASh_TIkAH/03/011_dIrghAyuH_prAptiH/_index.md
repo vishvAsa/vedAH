@@ -7,7 +7,6 @@ title = "०११ दीर्घायुः प्राप्तिः"
 11. For relief from disease, and for long life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः प्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०११ दीर्घायुः प्राप्तिः"
 
 [Brahman and Bhṛgvan̄giras.—aṣṭarcam. āindrāgnāyuṣyam, yakṣmanāśanadevatyam. trāiṣṭubham: 4. śakvarīgarbhā jagatī; 5, 6. anuṣṭubh; 7. uṣṇigbṛhatīgarbhā pathyāpan̄kti; 8. 3-av. 6-p. bṛhatīgarbhā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 231; Griffith, i. 95; Bloomfield, 49, 341.—In part al
 
 A charm for the recovery of a dangerously sick man
 </details>
+

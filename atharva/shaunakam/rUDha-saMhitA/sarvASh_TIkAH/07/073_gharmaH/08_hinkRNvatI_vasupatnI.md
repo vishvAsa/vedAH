@@ -24,10 +24,9 @@ the cow for milking.
 She, sovran of all treasures, is come hither yearning in spirit for her calf, and lowing. May this cow yield her milk for both the Asvins, and may she prosper to our great advantage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिङ्ऽकृण्वती। वसुऽपत्नी। वसूनाम्। वत्सम्। इच्छन्ती। मनसा। निऽआगन्। दुहाम्। अश्व‍िऽभ्याम्। पय:। अघ्न्या। इयम्। सा। वर्धताम्। महते। सौभगाय। ७७.८।
+हिङ्ऽकृण्वती। वसुऽपत्नी। वसूनाम्। वत्सम्। इच्छन्ती। मनसा। निऽआगन्। दुहाम्। अश्व‍िऽभ्याम्। पयः। अघ्न्या। इयम्। सा। वर्धताम्। महते। सौभगाय। ७७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

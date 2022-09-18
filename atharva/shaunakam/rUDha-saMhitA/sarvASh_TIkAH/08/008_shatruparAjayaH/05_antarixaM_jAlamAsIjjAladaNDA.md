@@ -23,10 +23,9 @@ restraining: cf. vss. 7, 8, 9 and note to iii. 11. 8.⌋
 Air was the net; the poles thereof were the great quarters of the sky: Sakra therewith enveloped and cast on the ground the Dasyus' host.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षम्। जालम्। आसीत्। जालऽदण्डा:। दिश:। मही:। तेन। अभिऽधाय। दस्यूनाम्। शक्र:। सेनाम्। अप। अवपत्। ८.५।
+अन्तरिक्षम्। जालम्। आसीत्। जालऽदण्डाः। दिशः। महीः। तेन। अभिऽधाय। दस्यूनाम्। शक्रः। सेनाम्। अप। अवपत्। ८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

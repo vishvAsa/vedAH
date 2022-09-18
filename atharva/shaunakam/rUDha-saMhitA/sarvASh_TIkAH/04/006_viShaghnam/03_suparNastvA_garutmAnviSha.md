@@ -29,10 +29,9 @@ aorists and the imperfect in **c-d** alike as imperatives (*nā ’rūrupas*
 The strong-winged Bird Garutman first of all, O Poison fed on thee: Thou didst not gripe or make him drunk: aye, thou becamest food for him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽपर्ण:। त्वा। गरुत्मान्। विष। प्रथमम्। आवयत्। न। अमीमद:। न। अरूरुप:। उत। अस्मै। अभव:। पितु:। ६.३।
+सुऽपर्णः। त्वा। गरुत्मान्। विष। प्रथमम्। आवयत्। न। अमीमदः। न। अरूरुपः। उत। अस्मै। अभवः। पितुः। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

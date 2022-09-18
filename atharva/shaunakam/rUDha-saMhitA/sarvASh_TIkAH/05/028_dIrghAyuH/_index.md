@@ -7,7 +7,6 @@ title = "०२८ दीर्घायुः"
 28. With an amulet of three metals: for safety etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
@@ -18,8 +17,6 @@ title = "०२८ दीर्घायुः"
 
 [Atharvan.—caturdaśarcam. trivṛddevatyam (agnyādīn mantroktān devān samprārthya trivṛtam astāut). trāiṣṭubham: 6. 5-p. atiśakvarī; 7, 9, 10, 12. kakummatyanuṣṭubh; 13. purauṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 387; Griffith, i. 234; Weber, xviii. 271.
 
 A charm to ensure general protection and prosperity
 </details>
+

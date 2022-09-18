@@ -24,7 +24,6 @@ accusatives.
 Palala, Anupalala, Sarku, Koka, Malimlucha, Palijaka Vavri- vasas and Asresha, Rikshagriva and Pramilin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पलालऽअनुपलालौ। शर्कुम्। कोकम्। मलिम्लुचम्। पलीजकम्। आऽश्रेषम्। वव्रिऽवाससम्। ऋक्षऽग्रीवम्। प्रऽमीलिनम्। ६.२।

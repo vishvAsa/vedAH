@@ -19,10 +19,9 @@ W. and O.s.m. xkaA. *pārayāmasi* at end of **b**; Ppp. has
 We give the essence of that stream of nectar of this man to drink: So I prepare a remedy that he may live a hundred years.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्य। अमृतस्य। इमम्। बलम्। पुरुषम्। पाययामसि। अथो इति। कृणोमि। भेषजम्। यथा। असत्। शतऽहायन:। ७.२२।
+तस्य। अमृतस्य। इमम्। बलम्। पुरुषम्। पाययामसि। अथो इति। कृणोमि। भेषजम्। यथा। असत्। शतऽहायनः। ७.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

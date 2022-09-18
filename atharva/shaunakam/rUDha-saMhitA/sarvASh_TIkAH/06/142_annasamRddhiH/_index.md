@@ -7,7 +7,6 @@ title = "१४२ अन्नसमृद्धिः"
 142. For increase of barley.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अन्नसमृद्धिः।  
@@ -19,8 +18,6 @@ title = "१४२ अन्नसमृद्धिः"
 [Viśvāmitra.—vāyavyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Not found in Pāipp. Used by Kāuś. (24. 1) in a rite of preparation for sowing
 ### Translations
 Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bloomfield, 141, 541.—See also Bergaigne-Henry, Manuel, p. 156.
 </details>
+

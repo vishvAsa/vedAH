@@ -26,10 +26,9 @@ Ppp. reads *hiṅsrā* at beginning of **c**. The comm. appears to regard
 With keen glance guard the sacrifice, O Agni: thou Sage, con- duct it onward to the Vasus. Let not the fiends, O Man-Beholder, harm thee burning against the Rakshasas to slay them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तीक्ष्णेन। अग्ने। चक्षुषा। रक्ष। यज्ञम्। प्राञ्चम्। वसुऽभ्य:। नय। प्रऽचेत:। हिंस्रम्। रक्षांसि। अभि। शोशुचानम्। मा। त्वा। दभन्। यातुऽधाना:। नृऽचक्ष:। ३.९।
+तीक्ष्णेन। अग्ने। चक्षुषा। रक्ष। यज्ञम्। प्राञ्चम्। वसुऽभ्यः। नय। प्रऽचेतः। हिंस्रम्। रक्षांसि। अभि। शोशुचानम्। मा। त्वा। दभन्। यातुऽधानाः। नृऽचक्षः। ३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

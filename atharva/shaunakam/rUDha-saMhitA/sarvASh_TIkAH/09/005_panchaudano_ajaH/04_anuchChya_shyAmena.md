@@ -23,10 +23,9 @@ The *pada*-text divides *paru॰śaḥ*, by Prāt. iv. 19.
 Cut up this skin with the grey knife, Dissector! dividing joint from joint, and mangle nothing Do him no injury: limb by limb arrange him, and send him up to the third cope of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। च्छ्य। श्यामेन। त्वचम्। एताम्। विऽशस्त:। यथाऽपरु। असिना। मा। अभि। मंस्था:। मा। अभि। द्रुह:। परुऽश:। कल्पय। एनम्। तृतीये। नाके। अधि। वि। श्रय। एनम्। ५.४।
+अनु। च्छ्य। श्यामेन। त्वचम्। एताम्। विऽशस्तः। यथाऽपरु। असिना। मा। अभि। मंस्थाः। मा। अभि। द्रुहः। परुऽशः। कल्पय। एनम्। तृतीये। नाके। अधि। वि। श्रय। एनम्। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

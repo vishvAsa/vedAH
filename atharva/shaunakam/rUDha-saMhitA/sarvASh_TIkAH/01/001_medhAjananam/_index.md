@@ -7,7 +7,6 @@ title = "००१ मेधाजननम्"
 1. For the retention of sacred learning.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मेधाजननम्।  
@@ -18,8 +17,6 @@ title = "००१ मेधाजननम्"
 
 [Atharvan.—vācaspatyam. caturṛcam. ānuṣṭubham: 4. 4-p. virāḍ urobṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 393; Griffith, i. 1.
 
 A prayer to Vachaspati for divine illumination and help.
 </details>
+

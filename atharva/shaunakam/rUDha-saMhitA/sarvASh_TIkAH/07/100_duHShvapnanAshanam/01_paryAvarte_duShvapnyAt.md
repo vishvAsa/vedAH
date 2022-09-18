@@ -26,10 +26,9 @@ and v. 8. 6.⌋
 I turn away from evil dream, from dream of sin, from indigence. I make the prayer mine inmost friend. Hence! torturing. dreamy phantasies!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परिऽआवर्ते। दु:ऽस्वप्न्यात्। पापात्। स्वप्न्यात्। अभूत्या:। ब्रह्म। अहम्। अन्तरम्। कृण्वे। परा। स्वप्नऽमुखा:। शुच:। १०५.१।
+परिऽआवर्ते। दुःऽस्वप्न्यात्। पापात्। स्वप्न्यात्। अभूत्याः। ब्रह्म। अहम्। अन्तरम्। कृण्वे। परा। स्वप्नऽमुखाः। शुचः। १०५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

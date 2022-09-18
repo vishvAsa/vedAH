@@ -26,10 +26,9 @@ comm. divides **b** into *manas kam patayiṣṇu kam*.
 The thought that harbours in thy heart, the fluttering doubt that dwells therein. Yea, all thy jealousy, like heat born of the dance, I banish thence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अद:। यत्। ते। हृदि। श्रितम्। मन:ऽकम्। पतयिष्णुकम्। तत:। ते। ईर्ष्याम्। मुञ्चामि। नि:। ऊष्माणम्। दृंते:ऽइव। १८.३।
+अदः। यत्। ते। हृदि। श्रितम्। मनःऽकम्। पतयिष्णुकम्। ततः। ते। ईर्ष्याम्। मुञ्चामि। निः। ऊष्माणम्। दृंतेःऽइव। १८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

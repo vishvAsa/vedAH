@@ -24,10 +24,9 @@ the highest *brahman";* *viṣṭārín* he makes to mean
 The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya; Its face reality, its sides the metre, Vishtari sacrifice produced from fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्रह्म। अस्य। शीर्षम्। बृहत्। अस्य। पृष्ठम्। वामऽदेव्यम्। उदरम्। ओदनस्य। छन्दांसि। पक्षौ। मुखम्। अस्य। सत्यम्। विष्टारी। जात:। तपस:। अधि। यज्ञ:। ३४.१।
+ब्रह्म। अस्य। शीर्षम्। बृहत्। अस्य। पृष्ठम्। वामऽदेव्यम्। उदरम्। ओदनस्य। छन्दांसि। पक्षौ। मुखम्। अस्य। सत्यम्। विष्टारी। जातः। तपसः। अधि। यज्ञः। ३४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

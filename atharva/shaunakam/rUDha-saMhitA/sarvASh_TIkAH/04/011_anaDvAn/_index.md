@@ -7,7 +7,6 @@ title = "०११ अनड्वान्"
 11. In praise of the draft-ox.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अनड्वान्  
@@ -18,8 +17,6 @@ title = "०११ अनड्वान्"
 
 [Bhṛgvan̄giras.—dvādaśarcam. ānaḍuham. trāiṣṭubham: 1, 4. jagatī; 5. bhurij; 7. 3-av. 6-p. anuṣṭubgarbho ’pariṣṭājjāgatā nicṛcchakvarī; 8-12. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, OST. v. 399, 361 (about half); Ludwig, pp. 534 and 190; Deusse
 
 A glorification of the sacrificial gharma or milk caldron
 </details>
+

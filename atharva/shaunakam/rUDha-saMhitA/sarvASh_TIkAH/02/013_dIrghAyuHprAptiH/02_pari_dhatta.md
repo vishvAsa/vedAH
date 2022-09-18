@@ -28,10 +28,9 @@ wanting.
 For us surround him, cover him with splendour, give him long life, and death when age removes him. The garment hath Brihaspati presented to Soma, to the King, to w rap about him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। धत्त। धत्त। न:। वर्चसा। इमम्। जराऽमृत्युम्। कृणुत। दीर्घम्। आयु:। बृहस्पति:। प्र। अयच्छत्। वास:। एतत्। सोमाय। राज्ञे। परिऽधातवै। ऊं इति। १३.२।
+परि। धत्त। धत्त। नः। वर्चसा। इमम्। जराऽमृत्युम्। कृणुत। दीर्घम्। आयुः। बृहस्पतिः। प्र। अयच्छत्। वासः। एतत्। सोमाय। राज्ञे। परिऽधातवै। ऊं इति। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

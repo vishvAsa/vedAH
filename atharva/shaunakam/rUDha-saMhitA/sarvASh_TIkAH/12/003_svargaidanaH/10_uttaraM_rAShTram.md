@@ -21,7 +21,6 @@ resolve *pa-ān-* in order to make a full pāda.
 Ever victorious is the northern region: may the east quarter set us first and foremost. The Man became the five-divisioned metre. May we abide wit . all our members perfect.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्तरम्। राष्ट्रम्। प्रऽजया। उत्तरऽवत्। दिशाम्। उदीची। कृणवत्। नः। अग्रम्। पाङ्क्तम्। छन्दः। पुरुषः। बभूव। विश्वै। विश्वऽअङ्गैः। सह। सम्। भवेम। ३.१०।

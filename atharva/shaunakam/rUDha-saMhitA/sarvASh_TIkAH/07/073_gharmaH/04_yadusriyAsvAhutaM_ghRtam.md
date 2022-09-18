@@ -28,10 +28,9 @@ which is doubtful. The comm. takes *mādhvī* as *madhuvidyāveditārāu*.
 Milk, molten butter offered when the mornings break,--this is your portion, Asvins! Come ye hitherward. Lords of the brave, balm-lovers, guards of sacrifice, drink ye the warm libation in the light of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। उस्रियासु। आऽहुतम्। घृतम्। पय:। अयम्। स:। वाम्। अश्विना। भाग:। आ। गतम्। माध्वी इति। धर्तारा। विदथस्य। सत्पती इति सत्ऽपती। तप्तम्। घर्मम्। पिबतम्। रोचने। दिव:। ७७.४।
+यत्। उस्रियासु। आऽहुतम्। घृतम्। पयः। अयम्। सः। वाम्। अश्विना। भागः। आ। गतम्। माध्वी इति। धर्तारा। विदथस्य। सत्पती इति सत्ऽपती। तप्तम्। घर्मम्। पिबतम्। रोचने। दिवः। ७७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००३ आस्रावस्य"
 3. For relief from flux: with a certain remedy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आस्रावस्य  
@@ -19,8 +18,6 @@ title = "००३ आस्रावस्य"
 
 [An̄giras.—ṣaḍṛcam. bhāiṣajyāyurdhanvantariddivatam. ānuṣṭubham: 6. 3-p. svarāḍupariṣṭānmahbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Weber, xiii. 138; Ludwig, p. 507; Grill, 17, 79; Griffith, i. 43; Bl
 
 A water-cure charm
 </details>
+

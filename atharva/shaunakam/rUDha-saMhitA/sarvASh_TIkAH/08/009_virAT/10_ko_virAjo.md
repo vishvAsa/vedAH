@@ -23,10 +23,9 @@ opposite sexes.
 Who hath perceived Viraj's duplication, perceived her seasons and her rule and practice? Who knows her steps, how oft, how far extended, who knows her home and number of her dawnings?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। विऽराज:। मिथुनऽत्वम्। प्र। वेद। क:। ऋतून्। ऊं इति। कल्पम्। अस्या:। क्रमान्। क:। अस्या:। कत‍िऽधा। विऽदुग्धान्। क:। अस्या:। धाम। कतिऽधा। विऽउष्टी:। ९.१०।
+कः। विऽराजः। मिथुनऽत्वम्। प्र। वेद। कः। ऋतून्। ऊं इति। कल्पम्। अस्याः। क्रमान्। कः। अस्याः। कत‍िऽधा। विऽदुग्धान्। कः। अस्याः। धाम। कतिऽधा। विऽउष्टीः। ९.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

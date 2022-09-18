@@ -17,7 +17,6 @@ poison of all *yákṣmas* have I exorcised from thee.
 Let wasting malady turn to dust, become the water of disease. I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आसः। बलासः। भवतु। मूत्रम्। भवतु। आमयत्। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१०।

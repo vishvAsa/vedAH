@@ -7,7 +7,6 @@ title = "१०७ विश्वजित्"
 107. For protection: to various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विश्वजित्।  
@@ -19,8 +18,6 @@ title = "१०७ विश्वजित्"
 [śaṁtāti.—caturṛcam. viśvajiddevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Reckoned by Kāuś. (9. 2) to the bṛhachānti gaṇ
 ### Translations
 Translated: Griffith, i. 303.
 </details>
+

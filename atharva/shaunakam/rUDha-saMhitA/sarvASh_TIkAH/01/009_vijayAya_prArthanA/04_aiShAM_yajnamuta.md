@@ -23,10 +23,9 @@ with *buddhim*. The text is defaced in Ppp.; but in **d** can be read
 I have assumed their sacrifice, O Agni, their hopes, their glory,. and their riches' fulness. Prostrate beneath our feet his foes and rivals. Uplift him to the- loftiest cope of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। एषाम्‍। यज्ञम्‍। उत। वर्च:। ददे। अहम्‍। राय:। पोषम्‍। उत। चित्तानि। अग्ने। सऽपत्ना:। अस्मत्‍। अधरे। भवन्तु। उत्‍ऽतमम्‍। नाकम्‍। अधि। रोहय। इमम्‍।
+आ। एषाम्‍। यज्ञम्‍। उत। वर्चः। ददे। अहम्‍। रायः। पोषम्‍। उत। चित्तानि। अग्ने। सऽपत्नाः। अस्मत्‍। अधरे। भवन्तु। उत्‍ऽतमम्‍। नाकम्‍। अधि। रोहय। इमम्‍।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

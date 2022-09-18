@@ -7,7 +7,6 @@ title = "०७५ अघ्न्याः"
 75 (79). Praise and prayer to the kine.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अघ्न्याः।  
@@ -18,8 +17,6 @@ title = "०७५ अघ्न्याः"
 
 [Uparibabhrava.—dvyṛcam. āghnyam. trāiṣṭubham: 2. 3-av. bhurik pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 469; Henry, 30, 96; Griffith, i. 364.
 
 A blessing on cows
 </details>
+

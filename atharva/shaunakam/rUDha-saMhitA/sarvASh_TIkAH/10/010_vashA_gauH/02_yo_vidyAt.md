@@ -20,7 +20,6 @@ Ppp. reads in **b** *veda* instead of *vidyāt*. The verse is quoted by
 The man who knows the Seven Floods, who knows the seven distances, Who knows the head of sacrifice, he may receive the holy Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। विद्यात्। सप्त। प्रऽवतः। सप्त। विद्यात्। पराऽवतः। शिरः। यज्ञस्य। यः। विद्यात्। सः। वशाम्। प्रति। गृह्णीयात्। १०.२।

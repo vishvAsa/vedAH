@@ -27,7 +27,6 @@ in the next verse; see the note to Prāt. i. 86. Ppp. reads in **d**
 Roaming in many a place the Cow is the stored treasure of the Gods, Make manifest thy shape and form when she would seek her dwelling-place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशा। चरन्ती। बहुऽधा। देवानाम्। निऽहितः। निऽधिः। आविः। कृणुष्व। रूपाणि। यदा। स्थाम। जिघांसति। ४.२९।

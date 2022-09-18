@@ -30,10 +30,9 @@ and Prāt. iii. 22 and iv. 89 deal with its conversion to *dīdāyat* in
 Soma I call, and Savitar with homage, and all the Adityas in the time of contest. Long may this fire send forth its splendour, lighted by kinsmen uttering no word against me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हुवे। सोमम्। सवितारम्। नम:ऽभि:। विश्वान्। आदित्यान्। अहम्। उत्तरऽत्वे। अयम्। अग्नि:। दीदयत्। दीर्घम्। एव। सऽजातै:। इध्द:। अप्रतिब्रुवत्ऽभि:। ८.३।
+हुवे। सोमम्। सवितारम्। नमःऽभिः। विश्वान्। आदित्यान्। अहम्। उत्तरऽत्वे। अयम्। अग्निः। दीदयत्। दीर्घम्। एव। सऽजातैः। इध्दः। अप्रतिब्रुवत्ऽभिः। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

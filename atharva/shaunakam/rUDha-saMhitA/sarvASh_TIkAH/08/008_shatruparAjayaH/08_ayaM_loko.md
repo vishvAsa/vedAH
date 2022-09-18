@@ -17,10 +17,9 @@ Indra do I encircle all yon men with darkness.
 This world so mighty was the net of Sakra, of the Mighty One: With this, the net of Indra, I envelop all those men with gloom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। लोक:। जालम्। आसीत्। शक्रस्य। महत:। महान्। तेन। अहम्। इन्द्रऽजालेन। अमून्। तमसा। अभि। दधामि। सर्वान्। ८.८।
+अयम्। लोकः। जालम्। आसीत्। शक्रस्य। महतः। महान्। तेन। अहम्। इन्द्रऽजालेन। अमून्। तमसा। अभि। दधामि। सर्वान्। ८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

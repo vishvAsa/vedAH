@@ -7,7 +7,6 @@ title = "०२६ नवशालायां घृतहोमः"
 26. Accompanying a sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 नवशालायां घृतहोमः।  
@@ -18,8 +17,6 @@ title = "०२६ नवशालायां घृतहोमः"
 
 [Brahman.—dvādaśakam. vāstoṣpatyam uta mantroktabahudevatyam. 1, 5. 2-p. ārcy uṣṇih; 2, 4, 6, 7, 8, 10, 11. 2-p. prājāpatyā bṛhatī; 3. 3-p. virāḍ gāyatrī; 9. 3-p. pipīlikamadhyā purauṣṇih: 1-11. ekāvasāna; 12. parātiśakvarī 4-p.jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 27; Griffith, i. 231; Weber, xviii. 267.
 
 A hymn of invitation to the gods
 </details>
+

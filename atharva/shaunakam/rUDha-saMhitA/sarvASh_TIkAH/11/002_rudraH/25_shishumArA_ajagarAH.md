@@ -35,7 +35,6 @@ leaves it out.
 Porpoises, serpents, strange aquatic monsters, fishes, and things unclean at which thou shootest. Nothing is far for thee, naught checks thee, Bhava! The whole earth in a moment thou surveyest. From the east sea thou smitest in the northern.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शिंशुमाराः। अजगराः। पुरीकथाः। जषाः। मत्स्याः। रजसाः। येभ्यः। अस्यसि। न। ते। दूरम्। न। परिऽस्था। अस्ति। ते। भव। सद्यः। सर्वान्। परि। पश्यसि। भूमिम्। पूर्वस्मात्। हंसि। उत्तरस्मिन्। समुद्रे। २.२५।

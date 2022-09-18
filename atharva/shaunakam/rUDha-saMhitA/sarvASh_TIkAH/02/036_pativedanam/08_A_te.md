@@ -30,10 +30,9 @@ This is the end also of the fourth *prapāṭhaka.*
 May Savitar lead and bring to thee the husband whom thy heart desires. O Plant, be this thy gift to her!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। ते। नयतु। सविता। नयतु। पति:। य:। प्रतिऽकाम्य:। त्वम्। अस्यै। धेहि। ओषधे। ३६.८।
+आ। ते। नयतु। सविता। नयतु। पतिः। यः। प्रतिऽकाम्यः। त्वम्। अस्यै। धेहि। ओषधे। ३६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

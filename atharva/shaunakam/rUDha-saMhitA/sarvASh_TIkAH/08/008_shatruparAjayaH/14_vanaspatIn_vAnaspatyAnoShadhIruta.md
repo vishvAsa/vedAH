@@ -23,10 +23,9 @@ see introd.⌋
 Trees of the forest, trees that bear flower and fruit, and herbs and plants, Quadruped, biped send I forth that they may strike this army dead,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वनस्पतीन्। वानस्पत्यान्‌। ओषधी:। उत। वीरुध:। द्विऽपात्। चतु:ऽपात्। इष्णामि। यथा। सेनाम्। अमूम्। हनन्। ८.१४।
+वनस्पतीन्। वानस्पत्यान्‌। ओषधीः। उत। वीरुधः। द्विऽपात्। चतुःऽपात्। इष्णामि। यथा। सेनाम्। अमूम्। हनन्। ८.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

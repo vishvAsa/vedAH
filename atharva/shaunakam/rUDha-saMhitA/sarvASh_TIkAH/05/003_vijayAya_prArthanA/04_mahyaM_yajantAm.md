@@ -21,10 +21,9 @@ our text except for ending with *mām iha*.
 For me let them present all mine oblations, and let my mind's intention be accomplished. May I be guiltless of the least transgression: may all the Gods come hither and protect me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मह्यम्। यजन्ताम्। मम। यानि। इष्टा। आऽकूति:। सत्या। मनस:। मे। अस्तु। एन:। मा। नि। गाम्। कतमत्। चन। अहम्। विश्वे। देवा:। अभि। रक्षन्तु। मा। इह। ३.४।
+मह्यम्। यजन्ताम्। मम। यानि। इष्टा। आऽकूतिः। सत्या। मनसः। मे। अस्तु। एनः। मा। नि। गाम्। कतमत्। चन। अहम्। विश्वे। देवाः। अभि। रक्षन्तु। मा। इह। ३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

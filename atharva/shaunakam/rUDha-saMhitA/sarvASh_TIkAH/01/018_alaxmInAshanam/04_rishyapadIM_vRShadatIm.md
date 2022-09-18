@@ -27,10 +27,9 @@ word. In part of our edition the *ṁ* is broken off from *vṛ́ṣadatiṁ.*
 Antelope-foot, and Bullock-tooth, Cow-terrifier, Vapour-form, The Licker, and the Spotted Hag, all these we drive away from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रिश्यऽपदीम्। वृषऽदतीम्। गोऽसेधाम्। विऽधमाम्। उत। विऽलीढ्यम्। ललाम्यम्। ता:। अस्मत्। नाशयामसि।
+रिश्यऽपदीम्। वृषऽदतीम्। गोऽसेधाम्। विऽधमाम्। उत। विऽलीढ्यम्। ललाम्यम्। ताः। अस्मत्। नाशयामसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

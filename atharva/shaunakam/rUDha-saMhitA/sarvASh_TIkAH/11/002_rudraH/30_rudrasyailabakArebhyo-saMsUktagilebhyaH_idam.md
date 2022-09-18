@@ -22,7 +22,6 @@ hymn with it.' The comm. reads *elavak-* in **a**.
 This lowly reverence have I paid to Rudra's dogs with mighty mouths, Hounds terrible with bark and howl, who gorge unmasticated food.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रुद्रस्य। ऐलबऽकारेभ्यः। असंसूक्तऽगिलेभ्यः। इदम्। महाऽआस्येभ्यः। श्वऽभ्यः। अकरम्। नमः। २.३०।

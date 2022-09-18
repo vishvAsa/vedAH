@@ -24,7 +24,6 @@ of a syllable in **a**. ⌊Read *devā́so* as in 20?⌋
 The Deities begged the Cow from him with whom at first she was produced: Her, this one, Narada would know: with Deities he drove her forth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। वशाम्। अयाचन्। यस्मिन्। अग्रे। अजायत। ताम्। एताम्। विद्यात्। नारदः। सह। देवैः। उत्। आजत। ४.२४।

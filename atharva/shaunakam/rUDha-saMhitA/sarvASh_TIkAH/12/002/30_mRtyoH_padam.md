@@ -29,7 +29,6 @@ Bloomfield in JAOS. xix.² 14.⌋
 Effecting Mrityu's footstep ye came hither, to further times pro- longing your existence, Seated, drive Mrityu to his proper dwelling: then may we, living, speak to the assembly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मृत्योः। पदम्। योपयन्तः। आ। इत। द्राघीयः। आयुः। प्रऽतरम्। दधानाः। आसीनाः। मृत्युम्। नुदत। सधऽस्थे। अथ। जीवासः। विदथम्। आ। वदेम। २.३०।

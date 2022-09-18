@@ -7,7 +7,6 @@ title = "०३८ केवलः पतिः"
 38 (39). To win and fix a man's love: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 केवलः पतिः।  
@@ -18,8 +17,6 @@ title = "०३८ केवलः पतिः"
 
 [Atharvan.—pañcarcam. vānaspatyam. ānuṣṭubham: 3. 4-p. uṣṇiḥ.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 249; Ludwig, p. 515; Grill, 59, 179; Henry, 14,
 
 A maiden's love-charm
 </details>
+

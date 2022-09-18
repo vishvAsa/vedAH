@@ -30,10 +30,9 @@ second half of this.⌋
 May the Gods' missile pass thee by. I bring thee safe from the mist: from death have I preserved thee. Far have I banished flesh-consuming Agni: I place a rampart for thy life's protection.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवानाम्। हेति:। परि। त्वा। वृणक्तु। पारयामि। त्वा। रजस:। उत्। त्वा। मृत्यो:। अपीपरम्। आरात्। अग्निम्। क्रव्यऽअदम्। नि:ऽऊहन्। जीवातवे। ते। परिऽधिम्। दधामि। २.९।
+देवानाम्। हेतिः। परि। त्वा। वृणक्तु। पारयामि। त्वा। रजसः। उत्। त्वा। मृत्योः। अपीपरम्। आरात्। अग्निम्। क्रव्यऽअदम्। निःऽऊहन्। जीवातवे। ते। परिऽधिम्। दधामि। २.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

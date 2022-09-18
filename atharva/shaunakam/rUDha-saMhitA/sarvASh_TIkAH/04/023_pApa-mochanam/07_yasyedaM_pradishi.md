@@ -22,10 +22,9 @@ nimiṣád yád éjati yásya jātáṁ jánamānaṁ ca kévalam*. The comm. re
 I, suppliant, praise and ever call on Agni, sole Lord of all this world, of all that shineth, Of what exists and shall exist hereafter. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। यत्। जातम्। जनितव्यम्। च। केवलम्। स्तौमि। अग्निम्। नाथित:। जोहवीमि। स:। न:। मुञ्चतु। अंहस:। २३.७।
+यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। यत्। जातम्। जनितव्यम्। च। केवलम्। स्तौमि। अग्निम्। नाथितः। जोहवीमि। सः। नः। मुञ्चतु। अंहसः। २३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

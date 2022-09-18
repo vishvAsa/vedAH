@@ -7,7 +7,6 @@ title = "००४ अध्यात्मम्"
 4. Extolling the sun.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यात्मम्।  
@@ -19,8 +18,6 @@ title = "००४ अध्यात्मम्"
 [(Brahman.—ādhyātmam; rohitādityadevatyam. trāiṣṭubham.*) ṣaṭ paryāyāḥ. mantrokta drvatyāḥ.]
 [Paryāya I.—trayodaça. 1-11. prājāpatyā ’nuṣṭubh; 12. virāḍ gāyatrī; 13. āsury uṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -39,3 +36,4 @@ Translated: Henry, 17, 51; Griffith, ii. 154.
 
 A glorification of the Sun as the only Deity
 </details>
+

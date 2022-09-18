@@ -28,10 +28,9 @@ he paraphrases by *tvattoṣakarakarmavarjita.*
 I have departed still without a portion, wise God! according to thy will, the mighty. I, feeble man, was wroth with thee, O Manyu. Come in thy proper form and give us vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभाग:। सन्। अप। पराऽइत:। अस्मि। तव। क्रत्वा। तविषस्य। प्रऽचेत:। तम्। त्वा। मन्यो इति। अक्रतु:। जिहीड। अहम्। स्वा। तनू:। बलऽदावा। न:। आ। इहि। ३२.५।
+अभागः। सन्। अप। पराऽइतः। अस्मि। तव। क्रत्वा। तविषस्य। प्रऽचेतः। तम्। त्वा। मन्यो इति। अक्रतुः। जिहीड। अहम्। स्वा। तनूः। बलऽदावा। नः। आ। इहि। ३२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ has our **d** here as its **d**.⌋
 Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the clans desire thee: let not thy kingdom fall away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। त्वा। अहार्षम्। अन्त:। अभू:। ध्रुव:। तिष्ठ। अविऽचाचलत्। विश:। त्वा। सर्वा:। वाञ्छन्तु। मा। त्वत्। राष्ट्रम्। अधि। भ्रशत्। ८७.१।
+आ। त्वा। अहार्षम्। अन्तः। अभूः। ध्रुवः। तिष्ठ। अविऽचाचलत्। विशः। त्वा। सर्वाः। वाञ्छन्तु। मा। त्वत्। राष्ट्रम्। अधि। भ्रशत्। ८७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

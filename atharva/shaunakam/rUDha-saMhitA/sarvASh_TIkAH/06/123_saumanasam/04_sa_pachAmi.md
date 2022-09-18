@@ -23,10 +23,9 @@ English of it is not so harsh.⌋
 I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। पचामि। स:। ददामि। स:। यजे। स:। दत्तात्। मा। यूषम्। १२३.४।
+सः। पचामि। सः। ददामि। सः। यजे। सः। दत्तात्। मा। यूषम्। १२३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

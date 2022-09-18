@@ -29,10 +29,9 @@ Some of the mss. sum up the book correctly as containing 142 hymns and
 Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustless be thy givers, and exhaustless those who eat of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्षिता:। ते। उपऽसद:। अक्षिता:। सन्तु। राशय:। पृणन्त:। अक्षिता:। सन्तु। अत्तार:। सन्तु। अक्षिता:। १४२.३।
+अक्षिताः। ते। उपऽसदः। अक्षिताः। सन्तु। राशयः। पृणन्तः। अक्षिताः। सन्तु। अत्तारः। सन्तु। अक्षिताः। १४२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

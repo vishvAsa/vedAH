@@ -23,10 +23,9 @@ and visits or requites.'
 Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unanimous, ye kinsmen, come united, come to the glory of this mighty guardian.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इह। यातु। वरुण:। सोम:। अग्नि:। बृहस्पति:। असुऽभि:। आ। इह। यातु। अस्य। श्रियम्। उपऽसंयात। सर्वे। उग्रस्य। चेत्तु:। सम्ऽमनस:। सऽजाता:। ७३.१।
+आ। इह। यातु। वरुणः। सोमः। अग्निः। बृहस्पतिः। असुऽभिः। आ। इह। यातु। अस्य। श्रियम्। उपऽसंयात। सर्वे। उग्रस्य। चेत्तुः। सम्ऽमनसः। सऽजाताः। ७३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

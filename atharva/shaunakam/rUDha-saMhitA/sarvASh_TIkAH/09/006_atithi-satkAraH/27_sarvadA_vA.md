@@ -21,10 +21,9 @@ as last of the four epithets; it also sets the whole paragraph after our
 The man who supplies food hath always pressing stones adjusted, a wet Soma filter, well prepared religious rites, and mental power to complete the arranged sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्वदा। वै। एष:। युक्तऽग्रावा। आर्द्रऽपवित्र:। विततऽअध्वर:। आहृतऽयज्ञक्रतु:। य:। उपऽहरति। ७.१०।
+सर्वदा। वै। एषः। युक्तऽग्रावा। आर्द्रऽपवित्रः। विततऽअध्वरः। आहृतऽयज्ञक्रतुः। यः। उपऽहरति। ७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

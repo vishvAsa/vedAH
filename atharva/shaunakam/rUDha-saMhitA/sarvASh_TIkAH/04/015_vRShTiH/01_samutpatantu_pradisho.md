@@ -25,10 +25,9 @@ at 5, below; see note.⌋
 Let all the misty regions fly together, let all the rain-clouds sped by wind, assemble. Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽउत्पतन्तु। प्रऽदिश:। नभस्वती:। सम्। अभ्राणि। वातऽजूतानि। यन्तु। महाऽऋषभस्य। नदत:। नभस्वत:। वाश्रा:। आप:। पृथिवीम्। तर्पयन्तु। १५.१।
+सम्ऽउत्पतन्तु। प्रऽदिशः। नभस्वतीः। सम्। अभ्राणि। वातऽजूतानि। यन्तु। महाऽऋषभस्य। नदतः। नभस्वतः। वाश्राः। आपः। पृथिवीम्। तर्पयन्तु। १५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

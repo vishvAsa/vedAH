@@ -17,10 +17,9 @@ well-joined ones: hail!
 Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोम:। युनक्तु। बहुऽधा। पयांसि। अस्मिन्। यज्ञे। सुऽयुज:। स्वाहा। २६.१०।
+सोमः। युनक्तु। बहुऽधा। पयांसि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

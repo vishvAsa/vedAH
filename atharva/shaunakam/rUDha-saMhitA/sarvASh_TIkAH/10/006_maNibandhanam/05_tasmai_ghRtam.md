@@ -22,7 +22,6 @@ SPP's⌋.
 To this we give apportioned food, clarified butter, wine, and meath. May it provide each boon for us as doth a father for his sons. Again, again, from morn to morn, having approached the deities.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्मै। घृतम्। सुराम्। मधु। अन्नम्ऽअन्नम्। क्षदामहे। सः। नः। पिताऽइव। पुत्रेभ्यः। श्रेयःऽश्रयः। चिकित्सतु। भूयःऽभूयः। ‍ श्वःऽश्वः। देवेभ्यः। मणिः। आऽइत्य। ६.५।

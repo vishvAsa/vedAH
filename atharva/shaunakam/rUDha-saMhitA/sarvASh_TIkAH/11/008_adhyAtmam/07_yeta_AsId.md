@@ -23,7 +23,6 @@ quite different; it reads for **a** *ye ’to bhūmiṣ pūrvā ”sit;* and, fo
 He may account himself well versed in ancient time who knows by name. The earth that was before this earth, which only wisest Sages know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। इतः। आसीत्। भूमिः। पूर्वा। याम्। अध्दातयः। इत्। विदुः। यः। वै। ताम्। विद्यात्। नामऽथा। सः। मन्येत। पुराणऽवित्। १०.७।

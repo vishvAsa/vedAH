@@ -21,7 +21,6 @@ closer, by reading *modante* for *jāyante* in **c**. Some of the
 When Prana hath poured down his flood of rain upon the mighty earth, The plants are wakened into life, and every herd that grows on ground.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। ओषधयः। प्र। जायन्ते। अथो इति। याः। काः। च। वीरुधः। ६.१७।

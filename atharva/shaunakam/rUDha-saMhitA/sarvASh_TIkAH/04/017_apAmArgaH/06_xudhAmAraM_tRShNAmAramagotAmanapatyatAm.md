@@ -29,10 +29,9 @@ synonym or appellation of the other. In his introduction, he speaks of
 Death caused by famine, caused by thirst, failure of children,. loss of kine, With thee, O Apamarga, all this ill we cleanse and wipe away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्षुधाऽमारम्। तृष्णाऽमारम्। अगोताम्। अनपऽत्यताम्। अपामार्ग:। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.६।
+क्षुधाऽमारम्। तृष्णाऽमारम्। अगोताम्। अनपऽत्यताम्। अपामार्गः। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

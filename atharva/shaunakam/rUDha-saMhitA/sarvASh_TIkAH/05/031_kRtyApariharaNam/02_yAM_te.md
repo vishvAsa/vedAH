@@ -19,10 +19,9 @@ Geldner discusses *kurī́ra* 'horn,' *Ved. Stud.* i. 130.
 The spell that they have cast for thee on jungle-cock, goat, horned ram, The witchcraft wrought upon thy ewe, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। कृकवाकौ। अजे। वा। याम्। कुरीरिणि। अव्याम्। ते। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.२।
+याम्। ते। चक्रुः। कृकवाकौ। अजे। वा। याम्। कुरीरिणि। अव्याम्। ते। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

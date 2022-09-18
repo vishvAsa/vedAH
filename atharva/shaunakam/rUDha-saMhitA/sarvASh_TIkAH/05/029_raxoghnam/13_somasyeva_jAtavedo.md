@@ -21,10 +21,9 @@ of this; it reads at the end *jīvase*. Our mss. are uncertain about
 Like as the Soma's tendril, thus, O Jatavedas let him swell, Let him live, Agni I Make him fat, free from consumption, full of sap.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमस्यऽइव। जातऽवेद:। अशु:। आ। प्यायताम्। अयम्। अग्ने। विऽरप्शिनम्। मेध्यम्। अयक्ष्मम्। कृणु। जीवतु। २९.१३।
+सोमस्यऽइव। जातऽवेदः। अशुः। आ। प्यायताम्। अयम्। अग्ने। विऽरप्शिनम्। मेध्यम्। अयक्ष्मम्। कृणु। जीवतु। २९.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

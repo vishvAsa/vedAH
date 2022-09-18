@@ -31,10 +31,9 @@ regards as alluding to the three kinds of fetter specified in vii. 83. 3
 Those fatal snares of thine which stand extended, threefold, O Varuna, seven by seven, May they all catch the man who tells a falsehood, and pass un- harmed the man whose words are truthful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। ते। पाशा:। वरुण। सप्तऽसप्त। त्रेधा। तिष्ठन्ति। विऽसिता:। रुशन्त:। छिनन्तु। सर्वे। अनृतम्। वदन्तम्। य:। सत्यऽवादी। अति। तम्। सृजन्तु। १६.६।
+ये। ते। पाशाः। वरुण। सप्तऽसप्त। त्रेधा। तिष्ठन्ति। विऽसिताः। रुशन्तः। छिनन्तु। सर्वे। अनृतम्। वदन्तम्। यः। सत्यऽवादी। अति। तम्। सृजन्तु। १६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

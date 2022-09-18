@@ -22,7 +22,6 @@ version nearly accordant with this, but with *takarī́m, gavīnyāù*, and
 Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque divido, puerum a placenta divido: decidat placenta.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। ते। भिनद्मि। मेहनम्। वि। योनिम्। वि। गवीनिके इति। वि। मातरम्। च। पुत्रम्। च। वि। कुमारम्। जरायुणा। अव। जरायु। पद्यताम्।

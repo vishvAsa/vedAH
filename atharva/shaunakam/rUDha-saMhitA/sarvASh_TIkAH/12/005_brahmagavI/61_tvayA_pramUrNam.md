@@ -24,7 +24,6 @@ triṣṭubh; 73. āsury uṣṇih.*\]
 Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वया। प्रऽमूर्णम्। मृदितम्। अग्निः। दहतु। दुःऽचितम्। १०.१५।

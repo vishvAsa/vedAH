@@ -24,7 +24,6 @@ variant (WZKM. xii. 282) is *ánimiṣam*.\]
 Where the fine birds hymn ceaselessly their portion of life eter- nal, and the sacred synods. There is the Universe's Guard and Keeper who, wise hath entered into me the simple.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। सुऽपर्णाः। अमृतस्य। भक्षम्। अनिऽमेषम्। विदथा। अभिऽस्वरन्ति। एना। विश्वस्य। भुवनस्य। गोपाः। सः। मा। धीरः। पाकम्। अत्र। आ। विवेश। १४.२२।

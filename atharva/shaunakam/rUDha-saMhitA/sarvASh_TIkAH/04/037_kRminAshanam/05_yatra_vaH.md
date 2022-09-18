@@ -25,10 +25,9 @@ The first half-verse (13 + 11: 8 + 8) is irregular.
 Hither hath come this one, the most effectual of herbs and plants.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्र। व:। प्रऽईङ्खा:। हरिता:। अर्जुना:। उत। यत्र। आघाटा:। कर्कर्य:। सम्ऽवदन्ति। तत्। परा। इत। अप्सरस:। प्रतिऽबुध्दा:। अभूतन। ३७.५।
+यत्र। वः। प्रऽईङ्खाः। हरिताः। अर्जुनाः। उत। यत्र। आघाटाः। कर्कर्यः। सम्ऽवदन्ति। तत्। परा। इत। अप्सरसः। प्रतिऽबुध्दाः। अभूतन। ३७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

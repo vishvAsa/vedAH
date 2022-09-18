@@ -23,10 +23,9 @@ explains Rākā as *sampūrṇacandrā pāurṇamāsi*. ⌊Our **d** repeats 47.
 I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and herself observe. With never-breaking needle may she sew her work, and send a glorious man who gives a hundred gifts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-राकाम्। अहम्। सुऽहवा। सुऽस्तुती। हुवे। शृणोतु। न:। सुऽभगा। बोधतु। त्मना। सीव्यतु। अप:। सूच्या। अच्छिद्यमानया। ददातु। वीरम्। शतऽदायम्। उक्थ्यम्। ५०.१।
+राकाम्। अहम्। सुऽहवा। सुऽस्तुती। हुवे। शृणोतु। नः। सुऽभगा। बोधतु। त्मना। सीव्यतु। अपः। सूच्या। अच्छिद्यमानया। ददातु। वीरम्। शतऽदायम्। उक्थ्यम्। ५०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,10 +18,9 @@ It is not easy to read 22 syllables in the verse.
 All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृथिव्यै। श्रोत्राय। वनस्पतिऽभ्य:। अग्नये। अधिऽपतये। स्वाहा। १०.१।
+पृथिव्यै। श्रोत्राय। वनस्पतिऽभ्यः। अग्नये। अधिऽपतये। स्वाहा। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

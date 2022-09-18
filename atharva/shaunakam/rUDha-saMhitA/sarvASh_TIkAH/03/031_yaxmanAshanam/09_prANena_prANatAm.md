@@ -20,10 +20,9 @@ alternatively to breath.
 Die not. Stay here. Breathe with the breath of those who draw the vital air. I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणेन। प्राणताम्। प्र। अन। इह। एव। भव। मा। मृथा:। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.९।
+प्राणेन। प्राणताम्। प्र। अन। इह। एव। भव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

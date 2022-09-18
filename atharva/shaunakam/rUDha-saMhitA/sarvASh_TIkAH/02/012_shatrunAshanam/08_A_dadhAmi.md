@@ -32,10 +32,9 @@ norm of this book.
 In Jatavedas kindled flame I set the place assigned to thee. Let fire consume thy body, and thy voice go to the general breath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। दधामि। ते। पदम्। सम्ऽइध्दे। जातऽवेदसि। अग्नि:। शरीरम्। वेवेष्टु। असुम्। वाक्। अपि। गच्छतु। १२.८।
+आ। दधामि। ते। पदम्। सम्ऽइध्दे। जातऽवेदसि। अग्निः। शरीरम्। वेवेष्टु। असुम्। वाक्। अपि। गच्छतु। १२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

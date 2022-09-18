@@ -21,10 +21,9 @@ noticed by the Anukr. ⌊See note under 8.⌋
 The Goat is Agni: light they call him, saying that living man must give him to the Brahman. Given in this world by a devout believer, the Goat dispels and drives afar the darkness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। अग्नि:। अजम्। ऊं इति। ज्योति:। आहु:। अजम्। जीवता। ब्रह्मणे। देयम्। आहु:। अज:। तमांसि। अप। हन्ति। दूरम्। अस्मिन्। लोके। श्रत्ऽदधानेन। दत्त:। ५.७।
+अजः। अग्निः। अजम्। ऊं इति। ज्योतिः। आहुः। अजम्। जीवता। ब्रह्मणे। देयम्। आहुः। अजः। तमांसि। अप। हन्ति। दूरम्। अस्मिन्। लोके। श्रत्ऽदधानेन। दत्तः। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

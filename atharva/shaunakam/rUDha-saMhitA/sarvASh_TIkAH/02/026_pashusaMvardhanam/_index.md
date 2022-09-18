@@ -7,7 +7,6 @@ title = "०२६ पशुसंवर्धनम्"
 26. For safety and increase of kine.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पशुसंवर्धनम्।  
@@ -18,8 +17,6 @@ title = "०२६ पशुसंवर्धनम्"
 
 [Savitar.—paśavyam. trāiṣṭuhham. 3. upariṣṭādvirāḍbṛhatī; 4, 5. anuṣṭubh (4. bhurij).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 188; Ludwig, p. 371; Griffith, i. 65; Bloomfield, 142, 
 
 A benediction on homeward coming cattle
 </details>
+

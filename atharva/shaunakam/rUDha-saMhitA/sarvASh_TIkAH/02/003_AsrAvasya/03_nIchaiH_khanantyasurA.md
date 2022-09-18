@@ -27,10 +27,9 @@ our text in 4 **d**).
 The Asuras bury deep in earth this mighty thing that healeth wounds. This is the cure for morbid flow, this driveth malady away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नीचै:। खनन्ति। असुरा:। अरु:ऽस्राणम्। इदम्। महत्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.३।
+नीचैः। खनन्ति। असुराः। अरुःऽस्राणम्। इदम्। महत्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

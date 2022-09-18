@@ -30,10 +30,9 @@ refers it to *pibati* by *sevitām* and to *pī* or *pyā* by
 The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahmacharis, for the favour of the Gods I call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मेधाम्। अहम्। प्रथमाम्। ब्रह्मणऽवतीम्। ब्रह्मऽजूताम्। ऋषिऽस्तुताम्। प्रऽपीताम्। ब्रह्मचारिऽभि:। देवानाम्। अवसे। हुवे। १०८.२।
+मेधाम्। अहम्। प्रथमाम्। ब्रह्मणऽवतीम्। ब्रह्मऽजूताम्। ऋषिऽस्तुताम्। प्रऽपीताम्। ब्रह्मचारिऽभिः। देवानाम्। अवसे। हुवे। १०८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

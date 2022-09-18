@@ -19,7 +19,6 @@ sun, wind stand fixed (*ā́rpita*), that Skambha etc. etc.
 Who out of many, tell me, is that Skambha On whom as their foundation earth and firmament and sky are set; In whom as their appointed place rest Fire and Moon and Sun and Wind?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। भूमिः। अन्तरिक्षम्। द्यौः। यस्मिन्। अधि। आऽहिता। यत्र। अग्निः। चन्द्रमाः। सूर्यः। वातः। तिष्ठन्ति। आर्पिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१२।

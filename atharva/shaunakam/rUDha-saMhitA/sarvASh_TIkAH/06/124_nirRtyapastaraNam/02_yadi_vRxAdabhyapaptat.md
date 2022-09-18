@@ -25,10 +25,9 @@ doṣāya*. The third pāda is really *jagatī*.
 If from a tree that fruit hath fallen downward if, aught from air that is vayu. Where it hath touched my body or my garment, thence may the Waters drive Destruction backward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। वृक्षात्। अभिऽअपप्तत्। फलम्। तत्। यदि। अन्तरिक्षात्। स:। ऊं इति। वायु:। एव। यत्र। अस्पृक्षत्। तन्व:। यत्। च। वासस:। आप:। नुदन्तु। नि:ऽऋतिम्। पराचै:। १२४.२।
+यदि। वृक्षात्। अभिऽअपप्तत्। फलम्। तत्। यदि। अन्तरिक्षात्। सः। ऊं इति। वायुः। एव। यत्र। अस्पृक्षत्। तन्वः। यत्। च। वाससः। आपः। नुदन्तु। निःऽऋतिम्। पराचैः। १२४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,7 +26,6 @@ frequent collocation *pāpmán bhrā́tṛvya*, AB. etc.⌋
 Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with thy nephew Herpes, go away unto that alien folk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तक्मन्। भ्रात्रा। बलासेन्। स्वस्रा। कासिकया। सह। पाप्मा। भ्रातृव्येण। सह। गच्छ। अमुम्। अरणम्। जनम्। २२.१२।

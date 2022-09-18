@@ -23,10 +23,9 @@ be not too poetic. The second half-verse is nearly identical with 38. 4
 With this my robe, inherited from Manu, I envelop thee, So that thou mayst be all mine own and give no thought to other dames.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभ‍ि। त्वा। मनुऽजातेन। दधामि। मम। वाससा। यथा। अस:। मम। केवल:। न। अन्यासाम्। कीर्तया:। चन। ३८.१।
+अभ‍ि। त्वा। मनुऽजातेन। दधामि। मम। वाससा। यथा। असः। मम। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

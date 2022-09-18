@@ -7,7 +7,6 @@ title = "०९८ अजरं क्षत्रम्"
 98. To Indra: for victory.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अजरं क्षत्रम्।  
@@ -19,8 +18,6 @@ title = "०९८ अजरं क्षत्रम्"
 [Atharvan.—āindram. trāiṣṭubham: 2. bṛhatīgarbhā ”stārapan̄ktiḥ.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Besides the uses in Kāuś. of hymns 97-99, as stated
 ### Translations
 Translated: Griffith, i. 299.
 </details>
+

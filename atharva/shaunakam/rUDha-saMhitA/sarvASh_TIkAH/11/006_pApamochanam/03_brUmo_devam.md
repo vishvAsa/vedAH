@@ -19,7 +19,6 @@ MS. has nearly the same verse in ii. 7. 13, but with **a** like our 2
 We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we address: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रूमः। देवम्। सवितारम्। धातारम्। उत। पूषणम्। त्वष्टारम्। अग्रियम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.३।

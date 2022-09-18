@@ -20,7 +20,6 @@ about the whole world (*bhū́man*).
 From west to east thou speedest freely, making by magic day and night of diverse colours. This is Aditya, thy transcendent glory, that thou alone art born through all creation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। प्राङ्। प्रत्यङ्। स्वधया। यासि। शीभम्। नानारूपे  इति नानाऽरूपे। अहनी  इति। कर्षि। मायया। तत्। आदित्य। महि। तत्। ते। महि। श्रवः। यत्। एकः। विश्वम्। परि। भूम। जायसे। 2.३।

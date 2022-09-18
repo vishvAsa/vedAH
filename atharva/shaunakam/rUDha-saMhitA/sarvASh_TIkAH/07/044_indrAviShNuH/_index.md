@@ -7,7 +7,6 @@ title = "०४४ इन्द्राविष्णुः"
 44 (45). Extolling Indra and Vishṇu.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इन्द्राविष्णुः।  
@@ -18,8 +17,6 @@ title = "०४४ इन्द्राविष्णुः"
 
 [Praskaṇva.—mantroktadevatyam. bhurik triṣṭubhh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 16, 72; Griffith, i. 347.—Discussed, as RV. verse, by Muir,
 
 In praise of Indra and Vishnu
 </details>
+

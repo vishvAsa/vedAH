@@ -31,10 +31,9 @@ themselves at RV. iii. 38. 7? *Nā́ma* might then be construed with
 All waited on him as he came to meet them. He self-resplendent moves endued with glory. That is the royal hero's lofty nature: he, manifold, hath gained immortal powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽतिष्ठन्तम्। परि। विश्वे। अभूषन्। श्रियम्। वसान:। चरति। स्वऽरोचि:। महत्। तत्। वृष्ण:। असुरस्य। नाम। आ। विश्वऽरूप:। अमृतानि। तस्थौ। ८.३।
+आऽतिष्ठन्तम्। परि। विश्वे। अभूषन्। श्रियम्। वसानः। चरति। स्वऽरोचिः। महत्। तत्। वृष्णः। असुरस्य। नाम। आ। विश्वऽरूपः। अमृतानि। तस्थौ। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

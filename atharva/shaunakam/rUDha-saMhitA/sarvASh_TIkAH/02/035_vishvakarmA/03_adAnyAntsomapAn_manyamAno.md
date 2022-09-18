@@ -32,10 +32,9 @@ irregularities which the Anukr. ignores.
 Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the meeting, Whatever sin the captive hath committed, do thou for weal release him, Visvakarman!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अदान्यान्। सोमऽपान्। मन्यमान:। यज्ञस्य। विद्वान्। सम्ऽअये। न। धीर:। यत्। एन:। चकृवान्। बध्द:। एष:। तम्। विश्वकर्मन्। प्र। मुञ्च। स्वस्तये। ३५.३।
+अदान्यान्। सोमऽपान्। मन्यमानः। यज्ञस्य। विद्वान्। सम्ऽअये। न। धीरः। यत्। एनः। चकृवान्। बध्दः। एषः। तम्। विश्वकर्मन्। प्र। मुञ्च। स्वस्तये। ३५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

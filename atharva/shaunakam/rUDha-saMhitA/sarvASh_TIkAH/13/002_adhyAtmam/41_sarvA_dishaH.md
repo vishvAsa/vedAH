@@ -19,7 +19,6 @@ adh-*; in **c** it has again *bhūmyaṁ;* in **d**, *sarvalokān vi*.
 To all the regions Rohita came, the imperial Lord of heaven. He watches over ocean, heaven, and earth and all existing things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वाः। दिशः। सम्। अचरत्। रोहितः। अधिऽपतिः। दिवः। दिवम्। समुद्रम्। आत्। भूमिम्। सर्वम्। भूतम्। वि। रक्षति। २.४१।

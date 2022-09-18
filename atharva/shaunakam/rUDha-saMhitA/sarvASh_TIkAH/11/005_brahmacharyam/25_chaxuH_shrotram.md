@@ -19,7 +19,6 @@ Ppp. begins differently: *vācaṁ śreṣṭhāṁ yaśo ‘smāsu*. ⌊Deussen
 Bestow on us the power of sight and hearing, glory and food and seed and blood and belly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चक्षुः। श्रोत्रम्। यशः। अस्मासु। धेहि। अन्नम्। रेतः। लोहितम्। उदरम्। ७.२५।

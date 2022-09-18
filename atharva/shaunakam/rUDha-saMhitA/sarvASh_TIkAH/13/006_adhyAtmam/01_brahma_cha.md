@@ -19,7 +19,6 @@ This is vs. 14 over again, with two more items prefixed.
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२२॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। च। तपः। च। कीर्तिः। च। यशः। च। अम्भः। च। नभः। च। ब्राह्मणऽवर्चसम्। च। अन्नम्। च। अन्नऽअद्यम्। च। ६,१।

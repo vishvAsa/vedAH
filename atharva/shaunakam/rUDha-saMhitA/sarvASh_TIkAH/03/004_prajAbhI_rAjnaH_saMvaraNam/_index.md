@@ -7,7 +7,6 @@ title = "००४ प्रजाभी राज्ञः संवरणम�
 4. To establish a king.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्रजाभी राज्ञः संवरणम्।  
@@ -18,8 +17,6 @@ title = "००४ प्रजाभी राज्ञः संवरणम�
 
 [Atharvan.—saptakam. āindram. trāiṣṭubham: 1. jagatī; 4, 5. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 252; Zimmer, p. 164; Weber, xvii. 190; Griffith, i. 84; B
 
 A benediction at the election of a king
 </details>
+

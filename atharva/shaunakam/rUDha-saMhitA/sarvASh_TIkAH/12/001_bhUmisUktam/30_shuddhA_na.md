@@ -23,7 +23,6 @@ connection with easing nature.
 Purified for our bodies flow the waters: we bring distress on him who would attack us. I cleanse myself, O Earth, with that which cleanseth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुध्दाः। नः। आपः। तन्वे। क्षरन्तु। यः। नः। सेदुः। अप्रिये। तम्। नि। दध्मः। पवित्रेण। पृथिवि। मा। उत्। पुनामि। १.३०।

@@ -21,10 +21,9 @@ tasting.' The obscure and difficult first pāda is perhaps corrupt.
 May they whose kisses are a bond, a love-charm laid within the heart, Mothers of butter, may the cows incline that maid to love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यासाम्। नाभि:। आऽरेहणम्। हृदि। सम्ऽवननम्। कृतम्। गाव:। घृतस्य। मातर:। अभूम्। सम्। वनयन्तु। मे। ९.३।
+यासाम्। नाभिः। आऽरेहणम्। हृदि। सम्ऽवननम्। कृतम्। गावः। घृतस्य। मातरः। अभूम्। सम्। वनयन्तु। मे। ९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

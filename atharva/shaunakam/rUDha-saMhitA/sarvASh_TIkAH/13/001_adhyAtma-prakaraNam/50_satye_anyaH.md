@@ -19,7 +19,6 @@ adds another pāda: *satye adbhis samāhitaḥ*.
 One is deposited in Truth, one kindled in the waters: both Agnis of Rohita who found the light are set aflame with prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्ये। अन्यः। सम्ऽआहितः। अप्ऽसु। अन्यः। सम्। इध्यते। ब्रह्मऽइध्दौ। अग्नी इति। ईजाते इति। रोहितस्य। स्वःऽविदः। १.५०।

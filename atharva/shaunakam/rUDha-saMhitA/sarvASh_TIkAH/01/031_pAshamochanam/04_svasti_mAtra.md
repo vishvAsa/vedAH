@@ -27,10 +27,9 @@ interpretations (taking it always, however, from *vid* and not from
 Well be it with our mother and our father, well be it with our cows, and beasts, and people. Ours be all happy fortune, grace, and favour. Long, very long may we behold the sunlight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वस्ति। मात्रे। उत। पित्रे। न:। अस्तु। स्वस्ति। गोभ्य:। जगते। पुरुषेभ्य:। विश्वम्। सुऽभूतम्। सुऽविदत्रम्। न:। अस्तु। ज्योक्। एव। दृशेम। सूर्यम्।
+स्वस्ति। मात्रे। उत। पित्रे। नः। अस्तु। स्वस्ति। गोभ्यः। जगते। पुरुषेभ्यः। विश्वम्। सुऽभूतम्। सुऽविदत्रम्। नः। अस्तु। ज्योक्। एव। दृशेम। सूर्यम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

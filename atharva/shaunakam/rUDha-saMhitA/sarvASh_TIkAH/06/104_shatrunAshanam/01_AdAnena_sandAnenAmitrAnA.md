@@ -22,10 +22,9 @@ amamasutam* (corrupt). One might conjecture *asinā* for *asunā* in
 We bind our foemen with a bond that binds them close and holds them fast. Their breath and respiration I dissever, and their lives from life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽदानेन। सम्ऽदानेन। अमित्रान्। आ। द्यामसि। अपाना:। ये। च। एषाम्। प्राणा:। असुना। असून्। सम्। अच्छिदन्। १०४.१।
+आऽदानेन। सम्ऽदानेन। अमित्रान्। आ। द्यामसि। अपानाः। ये। च। एषाम्। प्राणाः। असुना। असून्। सम्। अच्छिदन्। १०४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

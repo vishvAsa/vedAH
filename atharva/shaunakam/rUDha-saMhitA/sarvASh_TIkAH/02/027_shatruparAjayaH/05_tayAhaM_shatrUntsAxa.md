@@ -29,10 +29,9 @@ suggestion about the Yatis, note to ii. 5. 3.⌋
 With this I overcome my foes as Indra overcame the wolves. Refute mine adversary's speech! Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तया। अहम्। शत्रुन्। साक्षे। इन्द्र:। सालावृकान्ऽइव। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.५।
+तया। अहम्। शत्रुन्। साक्षे। इन्द्रः। सालावृकान्ऽइव। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,7 +28,6 @@ contract to *yāi ’ṣām*.
 Seven victims held the sacrificial essence, the bright one and the one that hath grown feeble. The three-and-thirty Deities attend them. As such, conduct us io the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। मेधान्। पशवः। परि। अगृह्णन्। यः। एषाम्। ज्योतिष्मान्। उत। यः। चकर्श। त्रयःऽत्रिंशत्। देवताः। तान्। सचन्ते। सः। नः। स्वऽगम्। अभि। नेष। लोकम्। ३.१६।

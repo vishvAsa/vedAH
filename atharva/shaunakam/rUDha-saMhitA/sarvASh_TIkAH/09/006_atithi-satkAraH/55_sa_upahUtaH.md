@@ -33,7 +33,6 @@ syllables (a number for which the system affords no separate name), and
 He having been invited on earth, regales, invited in that, which wears all various forms on earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। पृथिव्याम्। भक्षयति। उपऽहूतः। तस्मिन्। यत्। पृथिव्याम्। विश्वऽरूपम्। ११.७।

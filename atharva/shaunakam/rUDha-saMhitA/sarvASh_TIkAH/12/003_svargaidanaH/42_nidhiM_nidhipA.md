@@ -22,7 +22,6 @@ reason for calling it *bhurij*, as the Anukr. does.
 The Lord of Treasures may desire this treasure: lordless on. every side be all the others. Our mess, presented seeking heaven, hath mounted in three divisions all three realms of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निऽधिम्। निधिऽपाः। अभि। एनम्। इच्छात्। अनीश्वराः। अभितः। सन्तु। ये। अन्ये। अस्माभिः। दत्तः। निऽहितः। स्वःऽगः। त्रिऽभिः। काण्डैः। त्रीन्। स्वःऽगान्। अरुक्षत्। ३.४२।

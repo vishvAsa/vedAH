@@ -7,7 +7,6 @@ title = "०१२ रोहिणी- वनस्पतिः"
 12. To heal serious wounds: with an herb.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रोहिणी- वनस्पतिः।  
@@ -18,8 +17,6 @@ title = "०१२ रोहिणी- वनस्पतिः"
 
 [Ṛbhu.—vānaspatyatn. ānuṣṭubham: 1. 3-p. gāyatrī; 6. 3-p. yavamadhyā bhuriggāyatrī; 7. bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Kuhn, KZ. xiii. 58, with Germanic parallels; Ludwig, p. 508; Grill, 
 
 A charm to mend a broken bone
 </details>
+

@@ -20,7 +20,6 @@ interprets it as an imperative this time.
 Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pledge through which, of old, the Asuras were overthrown.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वे। देवाः। अतिऽआयन्तु। त्रिऽसंधेः। आऽहुतिः। प्रिया। सम्ऽधाम्। महतीम्। रक्षत। यया। अग्रे। असुराः। जिताः। १२.१५।

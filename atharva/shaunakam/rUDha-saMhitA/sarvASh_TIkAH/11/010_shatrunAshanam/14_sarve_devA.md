@@ -18,7 +18,6 @@ that!
 Over to us come all the Gods who eat the hallowed sacrifice With this oblation be ye pleased: conquer on this side, not on that.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वे। देवाः। अतिऽआयन्ति। ये। अश्नन्ति। वषट्ऽकृतम्। इमाम्। जुषध्वम्। आऽहुतिम्। इतः। जयत। मा। अमुतः। १२.१४।

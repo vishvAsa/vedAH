@@ -21,7 +21,6 @@ refrain *te no muñcantv aṅhasaḥ*. The comm. has *vidmas* for *-ma* in
 Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which we feel and know: may they be ever kind to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भवाशर्वौ। इदम्। ब्रूमः। रुद्रम्। पशुऽपतिः। च। यः। इषूः। याः। एषाम्। सम्ऽविद्म। ताः। नः। सन्तु। सदा। शिवाः। ८.९।

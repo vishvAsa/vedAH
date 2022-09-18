@@ -7,7 +7,6 @@ title = "०९८ हविः"
 98 (103). With an oblation to India.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 हविः।  
@@ -19,8 +18,6 @@ title = "०९८ हविः"
 [Atharvan.—mantroktadāivatam. trāiṣṭubham: 1. virāj.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. In Kāuś. (6. 7), the verse accompanies, at the parva
 ### Translations
 Translated: Henry, 40, 112; Griffith, i. 377.
 </details>
+

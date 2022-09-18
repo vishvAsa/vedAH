@@ -25,7 +25,6 @@ mantrasāmarthyodbhāvitān*, or also as *sūryaraśmiprabhavā ulkādaya
 All arms and every arrow, all the power and might that bows possess, The warlike weapon, axes, swords, the plan and purpose in the heart, All this, O Arbudi, make thou visible to our enemies, and let them look on mist and fog.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। बाहवः। याः। इषवः। धन्वनाम्। वीर्याणि। च। असीन्। परशून्। आयुधम्। चित्तऽआकूतम्। च। यत्। हृदि। सर्वम्। तत्। अर्बुदे। त्वम्। अमित्रेभ्यः। दृशे। कुरु। उत्ऽआरान्। च। प्र। दर्शय। ११.१।

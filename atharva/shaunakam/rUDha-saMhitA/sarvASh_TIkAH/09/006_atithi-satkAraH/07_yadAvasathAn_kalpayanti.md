@@ -17,10 +17,9 @@ oblation-holders (*havirdhā́na*).
 When they arrange dwelling-rooms they arrange the sacred chamber and the shed for housing the Soma cars.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽवसथान्। कल्पयन्ति। सद:ऽहविर्धानानि। एव। तत्। कल्पयन्ति। ६.७।
+यत्। आऽवसथान्। कल्पयन्ति। सदःऽहविर्धानानि। एव। तत्। कल्पयन्ति। ६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

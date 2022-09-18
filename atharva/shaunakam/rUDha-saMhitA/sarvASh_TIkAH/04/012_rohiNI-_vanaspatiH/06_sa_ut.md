@@ -21,10 +21,9 @@ sukhasya nābhiṣ prati tiṣṭha evaṁ*. The Anukr. scans the verse as 9 +
 Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! Stand up erect upon thy feet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। उत्। तिष्ठ। प्र। इहि। प्र। द्रव। रथ:। सुऽचक्र:। सुऽपवि:। सुऽनाभि:। प्रति। तिष्ठ। ऊर्ध्व:। १२.६।
+सः। उत्। तिष्ठ। प्र। इहि। प्र। द्रव। रथः। सुऽचक्रः। सुऽपविः। सुऽनाभिः। प्रति। तिष्ठ। ऊर्ध्वः। १२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

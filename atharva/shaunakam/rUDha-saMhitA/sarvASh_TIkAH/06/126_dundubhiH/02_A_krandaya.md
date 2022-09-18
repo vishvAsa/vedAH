@@ -21,10 +21,9 @@ gives -*nāṅ*, in *pada*-text *-nān*).
 Thunder out strength and fill us full of vigour, yea, thunder forth and drive away misfortunes. Drive hence, O Drum, drive thou away mischances. Thou art the fist of Indra, show thy firmness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। क्रन्दय। बलम्। ओज:। न:। आ। धा:। अभि। स्तन। दु:ऽइता। बाधमान:। अप। सेध। दुन्दुभे। दुच्छुनाम्। इत:। इन्द्रस्य। मुष्टि:। असि। वीडयस्व। १२६.२।
+आ। क्रन्दय। बलम्। ओजः। नः। आ। धाः। अभि। स्तन। दुःऽइता। बाधमानः। अप। सेध। दुन्दुभे। दुच्छुनाम्। इतः। इन्द्रस्य। मुष्टिः। असि। वीडयस्व। १२६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

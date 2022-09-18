@@ -19,10 +19,9 @@ it balances the redundancy of **b** with the deficiency of **c**.⌋
 They who have given a cow who drops a calf each season, or an ox, A coverlet, a robe, or gold, go to the loftiest sphere of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनुपूर्वऽवत्साम्। धेनुम्। अनड्वाहम्। उपऽबर्हणम्। वास:। हिरण्यम्। दत्त्वा। ते। यन्ति। दिवम्। उत्ऽतमाम्। ५.२९।
+अनुपूर्वऽवत्साम्। धेनुम्। अनड्वाहम्। उपऽबर्हणम्। वासः। हिरण्यम्। दत्त्वा। ते। यन्ति। दिवम्। उत्ऽतमाम्। ५.२९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

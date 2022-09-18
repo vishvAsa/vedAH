@@ -24,7 +24,6 @@ syllable in **a**, but the Anukr. passes this without notice. Kāuś. 61.
 Drops flow, made pure by filters, from the rain-cloud: to heaven and earth and to the worlds they travel, May Indra light them up, poured in the vessel, lively and sted- fast, quickening living creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूताः। पवित्रैः। पवन्ते। अभ्रात्। दिवम्। च। यन्ति। पृथिवीम्। च। लोकान्। ताः। जीवलाः। जीवऽधन्याः। प्रतिऽस्थाः। पात्रे। आऽसिक्ताः। परि। अग्निः। इन्धाम्। ३.२६।

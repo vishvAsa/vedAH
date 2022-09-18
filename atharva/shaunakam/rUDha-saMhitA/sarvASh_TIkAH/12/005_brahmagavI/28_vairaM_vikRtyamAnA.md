@@ -21,7 +21,6 @@ emendation, might possibly be intended here.
 Hostility when being cut to pieces, woe to children when the portions are distributed,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वैरम्। विऽकृत्यमाना। पौत्रऽआद्यम्। विऽभाज्यमाना। ८.१।

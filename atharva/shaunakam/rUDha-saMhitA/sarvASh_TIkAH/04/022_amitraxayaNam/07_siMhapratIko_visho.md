@@ -25,10 +25,9 @@ expression for the action of a ruler upon his subjects) very properly by
 Consume, with lion aspect, all their hamlets, with tiger aspect, drive away thy foemen. Sole lord and leader and allied with Indra, seize, conqueror, thine enemies' possessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिंहऽप्रतीक:। विश:। अध्दि। सर्वा:। व्याघ्रऽप्रतीक:। अव। बाधस्व। शत्रून्। एकऽवृष:। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। खिद। भोजनानि। २२.७।
+सिंहऽप्रतीकः। विशः। अध्दि। सर्वाः। व्याघ्रऽप्रतीकः। अव। बाधस्व। शत्रून्। एकऽवृषः। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। खिद। भोजनानि। २२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ deficiency) by inserting *iha* before *śátrūn*.
 Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally, our foemen. Slayer of foes, of Vritra, and of Dasyu, bring thou to us all kinds of wealth and treasure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। इहि। मन्यो इति। तवस:। तवीयान्। तपसा। युजा। वि। जहि। शत्रून्। अमित्रऽहा। वृत्रऽहा। दस्युऽहा। च। विश्वा। वसूनि। आ। भर। त्वम्। न:। ३२.३।
+अभि। इहि। मन्यो इति। तवसः। तवीयान्। तपसा। युजा। वि। जहि। शत्रून्। अमित्रऽहा। वृत्रऽहा। दस्युऽहा। च। विश्वा। वसूनि। आ। भर। त्वम्। नः। ३२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

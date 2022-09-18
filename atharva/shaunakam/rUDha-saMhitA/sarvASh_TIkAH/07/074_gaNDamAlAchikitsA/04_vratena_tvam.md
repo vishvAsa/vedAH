@@ -25,10 +25,9 @@ of the verse as *triṣṭubh* is lacking in the Anukr.
 Lord of religious rites, by law, anointed, shine thou forth here for ever friendly-minded. So may we all with children, Jatavedas! worship and humbly wait on thee enkindled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-व्रतेन। त्वम्। व्रतऽपते। सम्ऽअक्त:। विश्वाहा। सुऽमना:। दीदिहि। इह। तम्। त्वा। वयम्। जातऽवेद:। सम्ऽइध्दम्। प्रजाऽवन्त:। उप। सदेम। सर्वे। ७८.४।
+व्रतेन। त्वम्। व्रतऽपते। सम्ऽअक्तः। विश्वाहा। सुऽमनाः। दीदिहि। इह। तम्। त्वा। वयम्। जातऽवेदः। सम्ऽइध्दम्। प्रजाऽवन्तः। उप। सदेम। सर्वे। ७८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

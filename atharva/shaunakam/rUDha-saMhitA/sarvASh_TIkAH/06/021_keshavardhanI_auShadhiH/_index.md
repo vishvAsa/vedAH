@@ -7,7 +7,6 @@ title = "०२१ केशवर्धनी औषधिः"
 21. To healing plants.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 केशवर्धनी औषधिः।  
@@ -18,8 +17,6 @@ title = "०२१ केशवर्धनी औषधिः"
 
 [śaṁtāti.—cāndramasam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 275 or 27; Grill, 50, 160; Griffith, i. 256; Bloomfield, 30
 
 A charm to strengthen hair and promote its growth
 </details>
+

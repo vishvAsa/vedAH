@@ -22,10 +22,9 @@ with which he visits guilt on the guilty. Ppp. reads in **c-d**
 Strong, antidotes of poison, those releasers, free from Varuna, And those that drive away Catarrh, and those that frustrate magic arts, let all those Plants come hitherward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽमुञ्चन्ती:। विऽवरुणा:। उग्रा:। या:। विषऽदूषणी:। अथो इति। बलासऽनाशनी:। कृत्याऽदूषणी:। च। या:। ता:। इह। आ। यन्तु। ओषधी:। ७.१०।
+उत्ऽमुञ्चन्तीः। विऽवरुणाः। उग्राः। याः। विषऽदूषणीः। अथो इति। बलासऽनाशनीः। कृत्याऽदूषणीः। च। याः। ताः। इह। आ। यन्तु। ओषधीः। ७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

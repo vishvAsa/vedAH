@@ -23,10 +23,9 @@ beneficiary); *saṁ yanti* he explains by *phalena saṁgacchante*.
 At evening he is milked, is milked at early morn, is milked at noon. We know that streams of milk that flow from him are in- exhaustible.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दुहे। सायम्। दुहे। प्रात:। दुहे। मध्यंदिनम्। परि। दोहा:। ये। अस्य। सम्ऽयन्ति। तान्। विद्म। अनुपऽदस्वत। ११.१२।
+दुहे। सायम्। दुहे। प्रातः। दुहे। मध्यंदिनम्। परि। दोहाः। ये। अस्य। सम्ऽयन्ति। तान्। विद्म। अनुपऽदस्वत। ११.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

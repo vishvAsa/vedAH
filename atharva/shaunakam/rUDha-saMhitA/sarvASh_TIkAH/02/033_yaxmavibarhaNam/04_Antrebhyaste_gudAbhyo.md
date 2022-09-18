@@ -25,10 +25,9 @@ would make the verse a fair *anuṣṭubh*, and counts 7 + 8: 7 + 7 = 29.
 From bowels and intestines, from the rectum and the belly, I Extirpate thy Consumption, from flanks, navel and mesentery.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आन्त्रेभ्य:। ते। गुदाभ्य:। वनिष्ठो:। उदरात्। अधि। यक्ष्मम्। कुक्षिऽभ्याम्। प्लाशे:। नाभ्या:। वि। वृहामि। ते। ३३.४।
+आन्त्रेभ्यः। ते। गुदाभ्यः। वनिष्ठोः। उदरात्। अधि। यक्ष्मम्। कुक्षिऽभ्याम्। प्लाशेः। नाभ्याः। वि। वृहामि। ते। ३३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

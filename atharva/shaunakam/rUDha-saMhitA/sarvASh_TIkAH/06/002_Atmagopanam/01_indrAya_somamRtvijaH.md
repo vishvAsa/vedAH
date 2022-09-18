@@ -24,10 +24,9 @@ seem like secondary appendages.
 For Indra, ministering priests! run ye and press the Soma juice, That he may hear his praiser's word, and this my call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्राय। सोमम्। ऋत्विज:। सुनोत। आ। च। धावत। स्तोतु:। य:। वच:। शृणवत्। हवम्। च। मे। २.१।
+इन्द्राय। सोमम्। ऋत्विजः। सुनोत। आ। च। धावत। स्तोतुः। यः। वचः। शृणवत्। हवम्। च। मे। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००५ लाक्षा"
 5. To a healing plant, lākṣā.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 लाक्षा  
@@ -18,8 +17,6 @@ title = "००५ लाक्षा"
 
 [Atharvan.—navakam. lākṣikam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Zimmer, p. 67; Grill, 10, 142; Griffith, i. 195; Bloomfield, 20, 419
 
 A charm to mend a broken bone
 </details>
+

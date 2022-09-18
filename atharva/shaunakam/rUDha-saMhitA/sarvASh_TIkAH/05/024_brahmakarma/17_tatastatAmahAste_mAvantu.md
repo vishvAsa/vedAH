@@ -25,10 +25,9 @@ them.
 Next may the Fathers of our fathers save me, in this my prayer,. in this mine act, in this my sacerdotal charge, in this perfor- mance, in this thought, in this my plan and wish, in this my calling on the Gods! All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत:। ततामहा:। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुर:ऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१७।
+ततः। ततामहाः। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

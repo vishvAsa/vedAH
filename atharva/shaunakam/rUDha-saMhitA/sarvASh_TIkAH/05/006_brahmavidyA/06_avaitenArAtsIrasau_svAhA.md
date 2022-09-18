@@ -17,10 +17,9 @@ sharp etc. etc.
 Through this hast thou been left in want. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। एतेन। अरात्सी:। असौ। स्वाहा। तिग्मऽआयुधौ। तिग्महेती इति तिग्मऽहेती। सुऽशेवौ। सोमारुद्रौ। इह। सु। मृडतम्। न:। ६.६।
+अव। एतेन। अरात्सीः। असौ। स्वाहा। तिग्मऽआयुधौ। तिग्महेती इति तिग्मऽहेती। सुऽशेवौ। सोमारुद्रौ। इह। सु। मृडतम्। नः। ६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

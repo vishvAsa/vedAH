@@ -22,10 +22,9 @@ vahāmi*).
 As if I worshipped deities of falsehood, or thought vain thoughts about the Gods, O Agni! Why art thou angry with us, Jatavedas? Destruction fall on those who lie against thee!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। वा। अहम्। अनृतऽदेव:। अस्मि। मोघम्। वा। देवान्। अपिऽऊहे। अग्ने। किम्। अस्मभ्यम्। जातऽवेद:। हृणाीषे। द्रोघऽवाच:। ते। नि:ऽऋथम्। सचन्ताम्। ४.१४।
+यदि। वा। अहम्। अनृतऽदेवः। अस्मि। मोघम्। वा। देवान्। अपिऽऊहे। अग्ने। किम्। अस्मभ्यम्। जातऽवेदः। हृणाीषे। द्रोघऽवाचः। ते। निःऽऋथम्। सचन्ताम्। ४.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

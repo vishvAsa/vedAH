@@ -17,10 +17,9 @@ bear thee up from the fetters of perdition with divine speech.
 Here is thy spirit, here thy breath, here is thy life, here is thy soul: By a celestial utterance we raise thee from Destruction's bonds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। ते। असु:। इह। प्राण:। इह। आयु:। इह। ते। मन:। उत्। त्वा। नि:ऽऋत्या:। पाशेभ्य:। दैव्या। वाचा। भरामसि। १.३।
+इह। ते। असुः। इह। प्राणः। इह। आयुः। इह। ते। मनः। उत्। त्वा। निःऽऋत्याः। पाशेभ्यः। दैव्या। वाचा। भरामसि। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

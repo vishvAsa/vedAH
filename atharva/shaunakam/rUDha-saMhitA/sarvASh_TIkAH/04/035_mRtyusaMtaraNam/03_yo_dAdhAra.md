@@ -20,10 +20,9 @@ bkogyabhūtām*.
 That which upholds the Earth, the all-sustainer, that which hath filled air's middle realm with moisture, Which, raised on high in grandeur, stablished heaven,--I with this Odana will conquer Mrityu.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। दाधार। पृथिवीम्। विश्वऽभोजसम्। य:। अन्तरिक्षम्। आऽअपृणात्। रसेन। य:। अस्तभ्नात्। दिवम्। ऊर्ध्व:। महिम्ना। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.३।
+यः। दाधार। पृथिवीम्। विश्वऽभोजसम्। यः। अन्तरिक्षम्। आऽअपृणात्। रसेन। यः। अस्तभ्नात्। दिवम्। ऊर्ध्वः। महिम्ना। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

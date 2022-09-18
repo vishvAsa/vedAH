@@ -24,7 +24,6 @@ The first part of the verse (as noted above) is wanting in Ppp.
 Agni is in the earth, in plants; the waters hold Agni in them, in the stones is Agni. Agni abideth deep in men: Agnis abide in cows and steeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। भूम्याम्। ओषधीषु। अग्निम्। आपः। बिभ्रति। अग्निः। अश्मऽसु। अग्निः। अन्तः। पुरुषेषु। गोषु। अश्वेषु। अग्नयः। १.१९।

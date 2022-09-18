@@ -25,10 +25,9 @@ anacoluthon in **a, b** by declaring *yaje* = *yajāmahe*, and takes
 With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may we retire to rest us in our modest homes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इडया। जुह्वत:। वयम्। देवान्। घृतऽवता। यजे। गृहान्। अलुभ्यत:। वयम्। सम्। विशेम। उप। गोऽमत:। १०.११।
+इडया। जुह्वतः। वयम्। देवान्। घृतऽवता। यजे। गृहान्। अलुभ्यतः। वयम्। सम्। विशेम। उप। गोऽमतः। १०.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

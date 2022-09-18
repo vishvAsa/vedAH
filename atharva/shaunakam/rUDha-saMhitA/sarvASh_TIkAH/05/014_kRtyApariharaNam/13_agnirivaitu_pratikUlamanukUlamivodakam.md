@@ -14,10 +14,9 @@ title = "१३ अग्निरिवैतु प्रतिकूलमन
 Let it go contrary like flame, like water following its course. Let witchcraft, like a well-naved car, roll back upon the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:ऽइव। एतु। प्रतिऽकूलम्। अनुकूलम्ऽइव। उदकम्। सुख:। रथ:ऽइव। वर्तताम्। कृत्या। कृत्याऽकृतम्। पुन:। १४.१३।
+अग्निःऽइव। एतु। प्रतिऽकूलम्। अनुकूलम्ऽइव। उदकम्। सुखः। रथःऽइव। वर्तताम्। कृत्या। कृत्याऽकृतम्। पुनः। १४.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

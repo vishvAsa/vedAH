@@ -22,10 +22,9 @@ sammārjanītṛṇāiḥ*), and the other out of *dus* and *ṛśya*
 For coverings men have bartered thee, for skins of deer and woven cloths. Thou art a thing of sale, O Plant. Dug up with mattocks, gripe not thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पवस्तै:। त्वा। परि। अक्रीणन्। दूर्शेभि:। अजिनै:। उत। प्रऽक्री:। असि। त्वम्। ओषधे। अभ्रिऽखाते। न। रूरुप:। ७.६।
+पवस्तैः। त्वा। परि। अक्रीणन्। दूर्शेभिः। अजिनैः। उत। प्रऽक्रीः। असि। त्वम्। ओषधे। अभ्रिऽखाते। न। रूरुपः। ७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

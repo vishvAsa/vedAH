@@ -23,7 +23,6 @@ our 57.⌋
 Whate'er I say I speak with honey-sweetness, whatever I behold for that they love me. Dazzling, impetuous am I: others who fiercely stir I slay.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। वदामि। मधुऽमत्। तत्। वदामि। यत्। ईक्षे। तत्। वनन्ति। मा। त्विषिऽमान्। अस्मि। जूतिऽमान्। अव। अन्यान्। हन्मि। दोधतः। १.५८।

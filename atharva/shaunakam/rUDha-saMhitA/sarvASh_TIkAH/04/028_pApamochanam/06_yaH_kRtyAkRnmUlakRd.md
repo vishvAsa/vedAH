@@ -24,10 +24,9 @@ reading *dhattām* in **b**; both editions give *-tam*.
 Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and deals in magic: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। कृत्याऽकृत्। मूलऽकृत्। यातुऽधान:। नि। तस्मिन्। धत्तम्। वज्रम्। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.६।
+यः। कृत्याऽकृत्। मूलऽकृत्। यातुऽधानः। नि। तस्मिन्। धत्तम्। वज्रम्। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

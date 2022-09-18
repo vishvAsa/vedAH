@@ -20,10 +20,9 @@ in **a** can hardly stand; rather *āindrasya*, or, we may conjecture,
 This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord of all existing things: the one and only Lord be thou,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषा। इन्द्रस्य। वृषा। दिव:। वृषा। पृथिव्या:। अयम्। वृषा। विश्वस्य। भूतस्य। त्वम्। एकऽवृष:। भव। ८६.१।
+वृषा। इन्द्रस्य। वृषा। दिवः। वृषा। पृथिव्याः। अयम्। वृषा। विश्वस्य। भूतस्य। त्वम्। एकऽवृषः। भव। ८६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

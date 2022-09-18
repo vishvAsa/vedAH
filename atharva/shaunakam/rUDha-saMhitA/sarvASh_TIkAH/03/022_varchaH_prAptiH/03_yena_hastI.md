@@ -31,10 +31,9 @@ Anukr. is mechanically correct ⌊52-2 = 50⌋ if we count 13 syllables in
 The strength wherewith the Elephant was dowered, that decks a King among the men, in waters, O Agni, even with that strength make thou me vigorous to-day.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। हस्ती। वर्चसा। सम्ऽबभूव। येन। राजा। मनुष्येषु। अप्ऽसु। अन्त:। येन। देवा:। देवताम्। अग्रे। आयन्। तेन। माम्। अद्य। वर्चसा। अग्ने। वर्चस्विनम्। कृणु। २२.३।
+येन। हस्ती। वर्चसा। सम्ऽबभूव। येन। राजा। मनुष्येषु। अप्ऽसु। अन्तः। येन। देवाः। देवताम्। अग्रे। आयन्। तेन। माम्। अद्य। वर्चसा। अग्ने। वर्चस्विनम्। कृणु। २२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

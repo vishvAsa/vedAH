@@ -21,10 +21,9 @@ supports the change, reading *vimanyako manyuśamano ‘stu me;* it has
 For stranger and for friend alike this Darbha-grass removeth wrath. Soother of Anger is it called because it calms the angry man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। दर्भ:। विऽमन्युक:। स्वाय। च। अरणाय। च। मन्यो:। विऽमन्युकस्य। अयम्। मन्युऽशमन:। उच्यते। ४३.१।
+अयम्। दर्भः। विऽमन्युकः। स्वाय। च। अरणाय। च। मन्योः। विऽमन्युकस्य। अयम्। मन्युऽशमनः। उच्यते। ४३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

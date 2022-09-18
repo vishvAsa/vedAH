@@ -23,10 +23,9 @@ not divide *dāyādáḥ* ⌊BR. *dāyá* + *āda*⌋ as a compound word.
 No Brahman must be injured, safe as fire from him who loves himself. For Soma is akin to him and Indra guards him from the curse.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। ब्राह्मण:। हिंसितव्य:। अग्नि:। प्रियतनो:ऽइव। सोम:। हि। अस्य। दायाद:। इन्द्र:। अस्य। अभिशस्तिऽपा। १८.६।
+न। ब्राह्मणः। हिंसितव्यः। अग्निः। प्रियतनोःऽइव। सोमः। हि। अस्य। दायादः। इन्द्रः। अस्य। अभिशस्तिऽपा। १८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

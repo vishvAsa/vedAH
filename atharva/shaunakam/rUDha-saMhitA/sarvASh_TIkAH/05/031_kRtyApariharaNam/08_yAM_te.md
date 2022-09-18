@@ -21,10 +21,9 @@ sacrifice.' The Anukr. takes no notice of the metrical irregularities in
 Charm they have laid within thy well or buried in the burning- ground, Charm they have laid within thy home, this I throw back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। कृत्याम्। कूपे। अवऽदधु:। श्मशाने। वा। निऽचख्नु:। सद्मनि। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.८।
+याम्। ते। कृत्याम्। कूपे। अवऽदधुः। श्मशाने। वा। निऽचख्नुः। सद्मनि। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

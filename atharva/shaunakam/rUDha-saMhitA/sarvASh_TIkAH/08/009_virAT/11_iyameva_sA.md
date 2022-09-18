@@ -22,10 +22,9 @@ also, it inverts the order of **c** and **d**⌋.
 She here who first of all sent forth her lustre moves onward resting on these lower creatures. Exalted power and might are stored within her: the woman hath prevailed, the new-come mother.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्त:। अस्याम्। महिमान:। अन्त:। वधू:। जिगाय। नवऽगत्। जनित्री। ९.११।
+इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्तः। अस्याम्। महिमानः। अन्तः। वधूः। जिगाय। नवऽगत्। जनित्री। ९.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

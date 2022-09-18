@@ -21,7 +21,6 @@ xiii. 4. 46.⌋
 Soaring in mid-course hither from the distance, fleet and ins- pired, the Bird that flies above us, With might advancing Vishnu manifested, he conquers all that moves with radiant banner:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्वाङ्। परस्तात्। प्रऽयतः। विऽअध्वे। आशुः। विपःऽचित्। पतयन्। पतङ्। विष्णुः। विऽचित्तः। शवसा। अधिऽतिष्ठन्। प्र। केतुना। सहते। विश्वम्। एजत्। २.३१।

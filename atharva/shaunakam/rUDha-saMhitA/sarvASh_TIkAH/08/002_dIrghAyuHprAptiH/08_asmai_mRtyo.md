@@ -21,10 +21,9 @@ Ppp. reads *him* for *’yam* in **b**, and combines in **d-e** *-hāyanā
 Comfort him, Death, and pity him: let him arise and pass away, Unharmed, with all his members, hearing well, with old, may he through hundred years win profit with his soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मै। मृत्यो ‍ इति। अधि। ब्रूहि। इमम्। दयस्व। उत्। इत:। अयम्। एतु। अरिष्ट:। सर्वऽअङ्ग:। सुऽश्रुत्। जरसा। शतऽहायन:। आत्मना। भुजम्। अश्नुताम्। २.८।
+अस्मै। मृत्यो ‍ इति। अधि। ब्रूहि। इमम्। दयस्व। उत्। इतः। अयम्। एतु। अरिष्टः। सर्वऽअङ्गः। सुऽश्रुत्। जरसा। शतऽहायनः। आत्मना। भुजम्। अश्नुताम्। २.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

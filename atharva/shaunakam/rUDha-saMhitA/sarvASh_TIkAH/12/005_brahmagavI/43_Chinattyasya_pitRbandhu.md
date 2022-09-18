@@ -17,7 +17,6 @@ maternal connection.
 She cuts off relationship on the father's side and destroys mater- nal kinship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 छिनत्ति। अस्य। पितृऽबन्धु। परा। भावयति। मातृऽबन्धु। ९.५।

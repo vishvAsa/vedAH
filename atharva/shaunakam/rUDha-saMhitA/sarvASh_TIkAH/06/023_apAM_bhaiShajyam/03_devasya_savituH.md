@@ -20,10 +20,9 @@ Ppp. reads *kṛṇvanti* in **b**. Here, to preserve the balance of forms,
 Let all the people celebrate the rite of Savitar the God. Sweet unto us be Waters, Plants propitious!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवस्य। सवितु:। सवे। कर्म। कृण्वन्तु। मानुषा:। शम्। न:। भवन्तु। अप:। ओषधी:। शिवा:। २३.३।
+देवस्य। सवितुः। सवे। कर्म। कृण्वन्तु। मानुषाः। शम्। नः। भवन्तु। अपः। ओषधीः। शिवाः। २३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

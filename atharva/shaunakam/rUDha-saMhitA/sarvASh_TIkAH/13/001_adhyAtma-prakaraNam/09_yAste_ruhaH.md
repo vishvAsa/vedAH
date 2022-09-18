@@ -22,7 +22,6 @@ vss. 8-9, see AJP. xii. 433.⌋
 Thy risings up, thy mountings and ascensions wherewith thou fillest heaven and air's mid-region-- By prayer for these, by milk of these, increasing, in Rohita's kingdom watch, among his people.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ते। रुहः। प्रऽरुहः। याः। ते। आऽरुहः। याभिः। आऽपृणासि। दिवम्। अन्तरिक्षम्। तासाम्। ब्रह्मणा। पयसा। ववृधानः। विशि। राष्ट्रे। जागृहि। रोहितस्य। १.९।

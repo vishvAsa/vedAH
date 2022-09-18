@@ -28,7 +28,6 @@ emendation of *vātamāyās*.
 Mounting the lofty ones, he, bright, unwearied, splendidly shining, makes two separate colours, While through all worlds that are he sends his lustre, radiant, observant, mighty, wind-approacher.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽरोहन्। शुक्रः। बृहतीः। अतन्द्रः। द्वे इति। रूपे इति। कृणुते। रोचमानः। चित्रः। चिकित्वान्। महिषः। वातम्ऽआयाः। यावतः। लोकान्‌। अभि। यत्। विऽभाति। २.४२।

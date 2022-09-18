@@ -21,10 +21,9 @@ the *āhavanīya* fire.⌋
 Come the first two celestial sweet-voiced Hotars, arranging sacrifice for man to worship, As singers who inspire us in assemblies, showing the eastern light with their direction!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दैव्या। होतारा। प्रथमा। सुऽवाचा। मिमाना। यज्ञम्। मनुष:। यजध्यै। प्रऽचोदयन्ता। विदथेषु। कारू इति। प्राचीनम्। ज्योति:। प्रऽदिशा। दिशन्ता। १२.७।
+दैव्या। होतारा। प्रथमा। सुऽवाचा। मिमाना। यज्ञम्। मनुषः। यजध्यै। प्रऽचोदयन्ता। विदथेषु। कारू इति। प्राचीनम्। ज्योतिः। प्रऽदिशा। दिशन्ता। १२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

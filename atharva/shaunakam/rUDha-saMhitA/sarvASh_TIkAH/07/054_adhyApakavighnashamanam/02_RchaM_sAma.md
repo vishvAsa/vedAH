@@ -14,10 +14,9 @@ title = "०२ ऋचं साम"
 As I have asked about Verse, Song, Sacrifice, strength, force,. Yajus-text, So never let this lore that I have sought forsake me, Lord of Might!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋचम्। साम। यत्। अप्राक्षम्। हवि:। ओज:। यजु:। बलम्। एष:। मा। तस्मात्। मा। हिंसीत्। वेद:। पृष्ट:। शचीऽपते। ५७.१।
+ऋचम्। साम। यत्। अप्राक्षम्। हविः। ओजः। यजुः। बलम्। एषः। मा। तस्मात्। मा। हिंसीत्। वेदः। पृष्टः। शचीऽपते। ५७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

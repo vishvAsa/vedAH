@@ -21,7 +21,6 @@ Ppp. has in **a, b** *-pāṇaṁ yātudhānāt kimīdinaḥ*. The comm. makes
 Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one with this, Sudra and Aryan man alike.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। अग्रभम्। परिऽपानात्। यातुऽधानम्। किमीदिनम्। तेन। अहम्। सर्वम्। पश्यामि। उत। शूद्रम्। उत। आर्यम्। २०.८।

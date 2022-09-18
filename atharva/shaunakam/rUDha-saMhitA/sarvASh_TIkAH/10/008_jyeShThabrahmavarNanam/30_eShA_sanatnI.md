@@ -20,7 +20,6 @@ in **b**, not heeding the corresponding deficiency in **c**.
 Brought forth in olden time, the everlasting, high over all that is was she, the Ancient. The mighty Goddess of the Morn, refulgent with one eye, looketh round with one that winketh,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एषा। सनत्नी। सनम्। एव। जाता। एषा। पुराणी। परि। सर्वम्। बभूव। मही। देवी। उषसः। विऽभाती। सा। एकेनऽएकेन। मिषता। वि। चष्टे। ८.३०।

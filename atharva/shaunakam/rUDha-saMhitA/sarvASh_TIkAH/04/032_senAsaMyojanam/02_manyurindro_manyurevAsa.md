@@ -27,10 +27,9 @@ for *sajóṣās* at the end; MS. has *ávā* for *pāhí* at beginning of
 Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The tribes of human lineage worship Manyu. Accordant, with thy fervour, Manyu! guard us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मन्यु:। इन्द्र:। मन्यु:। एव। आस। देव:। मन्यु:। होता। वरुण:। जातऽवेदा:। मन्युम्। विश:। ईडते। मानुषी:। या:। पाहि। न:। मन्यो इति। तपसा। सऽजोषा:। ३२.२।
+मन्युः। इन्द्रः। मन्युः। एव। आस। देवः। मन्युः। होता। वरुणः। जातऽवेदाः। मन्युम्। विशः। ईडते। मानुषीः। याः। पाहि। नः। मन्यो इति। तपसा। सऽजोषाः। ३२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

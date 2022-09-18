@@ -20,10 +20,9 @@ second half-verse above, as iii. 10. 1 **c, d**.
 May Indra press the furrow down, may Pushan guard and cherish her. May she, well stored with milk yield milk for us through each succeeding year.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। सीताम्। नि। गृह्णातु। ताम्। पूषा। अभि। रक्षतु। सा। न:। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १७.४।
+इन्द्रः। सीताम्। नि। गृह्णातु। ताम्। पूषा। अभि। रक्षतु। सा। नः। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

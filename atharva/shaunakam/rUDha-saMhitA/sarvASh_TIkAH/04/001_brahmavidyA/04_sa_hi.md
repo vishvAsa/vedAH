@@ -34,10 +34,9 @@ viṣkabhāyati*, and as giving *jitaḥ* for *sádma* in **d**.⌋
 For he, true to the law of Earth and Heaven, established both the mighty worlds securely. Mighty when born, he propped apart the mighty, the sky, our earthly home, and air's mid-region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। हि। दिव:। स:। पृथिव्या:। ऋतऽस्था:। मही इति। क्षेमम्। रोदसी  इति। अस्कभायत्। महान्। मही इति। अस्कभायत्। वि। जात:। द्याम्। सद्म। पार्थिवम्। च। रज:। १.४।
+सः। हि। दिवः। सः। पृथिव्याः। ऋतऽस्थाः। मही इति। क्षेमम्। रोदसी  इति। अस्कभायत्। महान्। मही इति। अस्कभायत्। वि। जातः। द्याम्। सद्म। पार्थिवम्। च। रजः। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

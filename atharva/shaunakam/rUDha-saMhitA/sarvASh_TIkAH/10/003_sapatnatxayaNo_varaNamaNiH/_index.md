@@ -7,7 +7,6 @@ title = "००३ सपत्नत्क्षयणो वरणमणिः
 3. With an amulet of varaṇá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सपत्नत्क्षयणो वरणमणिः।  
@@ -19,8 +18,6 @@ title = "००३ सपत्नत्क्षयणो वरणमणिः
 
 [Atharvan.—pañcaviṅśakam . mantroktavaraṇadevatyam uta vānaspatyaṁ; cāndramasam, ānuṣṭubham: 2, 3, 6. bhurik triṣṭubh; 8, 13, 14. pathyāpan̄kti; 11, 16. bhurij; 15, 17-25. 6-p. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Zimmer, p. 60 (17 vss.); Henry, 9, 53; Griffith, ii. 11; Bloomfield,
 
 Purusha, Primeval Man or humanity personified
 </details>
+

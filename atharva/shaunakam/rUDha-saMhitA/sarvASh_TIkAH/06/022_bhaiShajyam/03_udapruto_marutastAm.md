@@ -51,10 +51,9 @@ shaking of the dice-holder and the agitatio of a female at the *coitus*.
 O Maruts, send ye down, streaming with water rain which, may, filling all the sloping valleys, Leap like a bold girl in a man's embraces, or like a matron tumbled by her husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उदऽप्रुत:। मरुत:। तान्। इयर्त। वृष्टि:। या। विश्वा:। निऽवत:। पृणाति। एजाति। ग्लहा। कन्याऽइव। तुन्ना। एरुम्। तुन्दाना। पत्याऽइव। जाया। २२.३।
+उदऽप्रुतः। मरुतः। तान्। इयर्त। वृष्टिः। या। विश्वाः। निऽवतः। पृणाति। एजाति। ग्लहा। कन्याऽइव। तुन्ना। एरुम्। तुन्दाना। पत्याऽइव। जाया। २२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

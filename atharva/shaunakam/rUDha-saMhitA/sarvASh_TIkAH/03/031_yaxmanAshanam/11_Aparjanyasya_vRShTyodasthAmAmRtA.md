@@ -51,10 +51,9 @@ book.
 We as immortal beings have arisen with Parjanya's rain, I free from every evil, from decline: I compass round with life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। पर्जन्यस्य। वृष्ट्या। उत्। अस्थाम। अमृता:। वयम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.११।
+आ। पर्जन्यस्य। वृष्ट्या। उत्। अस्थाम। अमृताः। वयम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

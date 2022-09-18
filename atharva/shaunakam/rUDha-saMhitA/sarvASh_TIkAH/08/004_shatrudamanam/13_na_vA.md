@@ -18,10 +18,9 @@ speaker of untruth; both lie within reach of Indra.
 Never doth Soma aid and guide the wicked or him who falsely claims the Warrior's title. He slays the fiend and him who speaks untruly: both lie entan- gled in the noose of Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। वै। ऊं इति। सोम:। वृजिनम्। हिनोति। न। क्षत्रियम्। मिथुया। धारयन्तम्। हन्ति। रक्ष:। हन्ति। असत्। वदन्तम्। उभौ। इन्द्रस्य। प्रऽसितौ। शयाते इति। ४.१३।
+न। वै। ऊं इति। सोमः। वृजिनम्। हिनोति। न। क्षत्रियम्। मिथुया। धारयन्तम्। हन्ति। रक्षः। हन्ति। असत्। वदन्तम्। उभौ। इन्द्रस्य। प्रऽसितौ। शयाते इति। ४.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

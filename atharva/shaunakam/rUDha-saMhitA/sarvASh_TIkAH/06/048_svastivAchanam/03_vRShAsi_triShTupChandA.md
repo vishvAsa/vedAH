@@ -20,10 +20,9 @@ verses); PB. *vṛṣako ‘si;* GB. *samrāḍ asi*. The comm. identifies the
 Thou art the Bull, the Trishtup's lord: I hold thee fast. Happily bear me to the goal of this my sacrifice. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषा। असि। त्रिस्तुप्ऽछन्दा:। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.३।
+वृषा। असि। त्रिस्तुप्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

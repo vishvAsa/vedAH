@@ -19,7 +19,6 @@ earth—let them free us from distress.
 Gods whose abode is in the heaven and those who dwell in middle air, And Mighty ones who rest on earth: may they deliver us from. woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। देवाः। दिविऽसदः। अन्तरिक्षऽसदः। च। ये। पृथिव्याम्। शक्राः। ये। श्रिताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१२।

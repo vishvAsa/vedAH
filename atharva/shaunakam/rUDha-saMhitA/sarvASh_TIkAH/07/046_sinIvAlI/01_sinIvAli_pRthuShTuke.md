@@ -26,10 +26,9 @@ nearly v. 5. 1 **d** and vi. 100. 3 **b**.⌋
 O broad-tressed Sinivali, thou who art the sister of the Gods, Accept the offered sacrifice, and, Goddess, grant us progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिनीवालि। पृथुऽस्तुके। या। देवानाम्। असि। स्वसा। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देव‍ि। दिद‍िड्ढि। न:। ४८.१।
+सिनीवालि। पृथुऽस्तुके। या। देवानाम्। असि। स्वसा। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देव‍ि। दिद‍िड्ढि। नः। ४८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ one in which the lingualization of *n* does not take place.
 She, Kama! she is called the Cow, thy daughter, she who is named Vak and Viraj by sages. By her drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सा। ते। काम। दुहिता। धेनु:। उच्यते। याम्। आहु:। वाचम्। कवय:। विऽराजम्। तया। सऽपत्नान्। परि। वृङ्ग्धि। ये। मम। परि। एनान्। प्राण:। पशव:। जीवनम्। वृणक्तु। २.५।
+सा। ते। काम। दुहिता। धेनुः। उच्यते। याम्। आहुः। वाचम्। कवयः। विऽराजम्। तया। सऽपत्नान्। परि। वृङ्ग्धि। ये। मम। परि। एनान्। प्राणः। पशवः। जीवनम्। वृणक्तु। २.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

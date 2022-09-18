@@ -21,10 +21,9 @@ cf. introd.⌋
 I give those foemen up to Death: bound in the bonds of Death are they. I bind and carry them away to meet Death's wicked messengers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मृत्यवे। अमून्। प्र। यच्छामि। मृत्युऽपाशै:। अमी इति। सिता:। मृत्यो:। ये। अघला:। दूता:। तेभ्य:। एनान्। प्रति। नयामि। बद्ध्वा। ८.१०।
+मृत्यवे। अमून्। प्र। यच्छामि। मृत्युऽपाशैः। अमी इति। सिताः। मृत्योः। ये। अघलाः। दूताः। तेभ्यः। एनान्। प्रति। नयामि। बद्ध्वा। ८.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

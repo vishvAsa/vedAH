@@ -28,10 +28,9 @@ out under the *ṣṭhe* of *-ṣṭhe ’há* in **c-d**.
 Be even here: fall not away: be like a mountain unremoved. Stand stedfast here like Indra's self, and hold the kingship in the grasp.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। एधि। मा। अप। च्योष्ठा:। पर्वत:ऽइव। अविऽचाचलत्। इन्द्र:ऽइव। इह। ध्रुव:। तिष्ठ। राष्ट्रम्। ऊं इति। धारय। ८७.२।
+इह। एव। एधि। मा। अप। च्योष्ठाः। पर्वतःऽइव। अविऽचाचलत्। इन्द्रःऽइव। इह। ध्रुवः। तिष्ठ। राष्ट्रम्। ऊं इति। धारय। ८७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

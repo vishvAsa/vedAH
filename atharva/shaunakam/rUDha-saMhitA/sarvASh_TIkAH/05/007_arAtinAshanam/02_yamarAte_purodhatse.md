@@ -19,10 +19,9 @@ The third pāda can be read as full only by violence. ⌊See *Gram.*
 The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, we reverence. Baffle not thou my heart's desire,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। अराते। पुर:ऽधत्से। पुरुषम्। परिऽरापिणम्। नम:। ते। तस्मै। कृण्म:। मा। वनिम्। व्यथयी:। मम। ७.२।
+यम्। अराते। पुरःऽधत्से। पुरुषम्। परिऽरापिणम्। नमः। ते। तस्मै। कृण्मः। मा। वनिम्। व्यथयीः। मम। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

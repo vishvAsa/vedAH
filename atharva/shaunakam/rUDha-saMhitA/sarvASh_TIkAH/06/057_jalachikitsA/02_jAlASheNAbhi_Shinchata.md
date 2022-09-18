@@ -22,10 +22,9 @@ urine to be intended by *jalāṣa* ⌊See Bloomfield, AJP. xii. 425⌋.
 Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is the medicine: bless us therewith that we may live.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जालाषेण। अभि। सिञ्चत। जालाषेण। उप। सिञ्चत। जालाषम्। उग्रम्। भेषजम्। तेन। न:। मृड। जीवसे। ५७.२।
+जालाषेण। अभि। सिञ्चत। जालाषेण। उप। सिञ्चत। जालाषम्। उग्रम्। भेषजम्। तेन। नः। मृड। जीवसे। ५७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

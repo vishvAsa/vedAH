@@ -7,7 +7,6 @@ title = "०१७ अपामार्गः"
 17. Against various evils: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपामार्गः।  
@@ -18,8 +17,6 @@ title = "०१७ अपामार्गः"
 
 [śukra.—caturviṅśarcaṁ trayaṁ sūktānām. apāmārgavanaspatidevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Zimmer, p. 66; Grill, 37, 130; Griffith, i. 155; Bloomfield, 69, 393
 
 A charm to secure freedom from various evils
 </details>
+

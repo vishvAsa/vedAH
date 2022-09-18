@@ -7,7 +7,6 @@ title = "०२० शत्रुनिवारणम्"
 20. Against enemies and their weapons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -18,8 +17,6 @@ title = "०२० शत्रुनिवारणम्"
 
 [Atharvan.—sāumyam. ānuṣṭubham: 1. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 413; Griffith, i. 24.
 
 A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 </details>
+

@@ -21,7 +21,6 @@ syll.).
 The thread that goes through all celestial quarters within the Gayatri, womb of life eternal. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्यञ्चम्। तन्तुम्। प्रऽदिशः। अनु। सर्वाः। अन्तः। गायत्र्याम्। अमृतस्य। गर्भे। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२०।

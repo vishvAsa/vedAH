@@ -24,10 +24,9 @@ tṛtīye nāke adhi vikramasva*.
 Wash from his feet all trace of evil-doing: foreknowing, with cleansed hooves let him go upward. Gazing on many a spot, crossing the darkness, let the Goat mount to the third heaven above us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। पद:। भव। नेनिग्धि। दु:ऽचरितम्। यत्। चचार। शुध्दै:। शफै:। आ। क्रमताम्। प्रऽजानन्। तीर्त्वा। तमांसि। बहुऽधा। विऽपश्यन्। अज:। नाकम्। आ। क्रमताम्। तृतीयम्। ५.३।
+प्र। पदः। भव। नेनिग्धि। दुःऽचरितम्। यत्। चचार। शुध्दैः। शफैः। आ। क्रमताम्। प्रऽजानन्। तीर्त्वा। तमांसि। बहुऽधा। विऽपश्यन्। अजः। नाकम्। आ। क्रमताम्। तृतीयम्। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

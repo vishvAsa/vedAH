@@ -16,10 +16,9 @@ title = "०५ यं मित्रावरुणौ"
 The charm aglow with longing which Mitra and Varuna have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। मित्रावरुणौ। स्मरम्। असिञ्चताम्। अप्ऽसु। अन्त:। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.५।
+यम्। मित्रावरुणौ। स्मरम्। असिञ्चताम्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,10 +28,9 @@ does give it.⌋
 The weapons of these men I whet and sharpen, with valiant heroes I increase their kingdom. Victorious be their power and ever ageless! May all the Gods promote their thoughts and wishes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एषाम्। अहम्। आयुधा। सम्। स्यामि। एषाम्। राष्ट्रम्। सुऽवीरम्। वर्धयामि। एषाम्। क्षत्रम्। अजरम्। अस्तु। जिष्णु। एषाम्। चित्तम्। विश्वे। अवन्तु। देवा:। १९.५।
+एषाम्। अहम्। आयुधा। सम्। स्यामि। एषाम्। राष्ट्रम्। सुऽवीरम्। वर्धयामि। एषाम्। क्षत्रम्। अजरम्। अस्तु। जिष्णु। एषाम्। चित्तम्। विश्वे। अवन्तु। देवाः। १९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ else *sarvato ‘vicchinnaphalaprāptyupāyā yasmin*.
 Mounting the sky they look not round; they rise to heaven through both the worlds, Sages who paid the sacrifice that pours its streams on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्व:। यन्त:। न। अप। ईक्षन्ते। आ। द्याम्। रोहन्ति। रोदसी इति। यज्ञम्। ये। विश्वत:ऽधारम्। सुऽविद्वांस:। विऽतेनिरे। १४.४।
+स्वः। यन्तः। न। अप। ईक्षन्ते। आ। द्याम्। रोहन्ति। रोदसी इति। यज्ञम्। ये। विश्वतःऽधारम्। सुऽविद्वांसः। विऽतेनिरे। १४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

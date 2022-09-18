@@ -24,10 +24,9 @@ quotes this passage.
 Let the fiends steal the poison of the cattle: may Aditi cast off the evil-doers. May the God Savitar give them up to ruin, and be their share of herbs and plants denied them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विषम्। गवाम्। यातुऽधाना:। भरन्ताम्। आ। वृश्चन्ताम्। अदितये। दु:ऽएवा। परा। एनान्। देव:। सविता। ददातु। परा। भागम्। ओषधीनाम्। जयन्ताम्। ३.१६।
+विषम्। गवाम्। यातुऽधानाः। भरन्ताम्। आ। वृश्चन्ताम्। अदितये। दुःऽएवा। परा। एनान्। देवः। सविता। ददातु। परा। भागम्। ओषधीनाम्। जयन्ताम्। ३.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

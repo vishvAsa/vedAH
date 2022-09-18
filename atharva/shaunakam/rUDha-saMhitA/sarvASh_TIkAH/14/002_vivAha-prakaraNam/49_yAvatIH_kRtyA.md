@@ -22,7 +22,6 @@ preceding. The lack of a syllable in **a** is disregarded by the Anukr.
 All witcheries that hang about this garment, all royal Varuna's entangling nooses. All failure of success and all misfortunes here I deposit fastened to the pillar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यावतीः। कृत्याः। उपऽवासने। यावन्तः। राज्ञः। वरुणस्य। पाशाः। विऽऋध्दयः। याः। असम्ऽऋध्दयः। याः। अस्मिन्। ताः। स्थाणौ। अधि। सादयामि। २.४९।

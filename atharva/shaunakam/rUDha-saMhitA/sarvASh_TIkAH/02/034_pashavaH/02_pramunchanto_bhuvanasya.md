@@ -30,10 +30,9 @@ Sieg discusses *pā́thas*, *Gurupūjākaumudī*, p. 98.⌋
 Loosing the seed of future-time existence, give good success, O Gods, to him who worships. May what is present, duly brought, the victim, go to the deities' beloved region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽमुञ्चन्त:। भुवनस्‍य। रेत:। गातुम्। धत्त। यजमानाय। देवा:। उपऽआकृतम्। शशमानम्। यत्। अस्थात्। प्रियम्। देवानाम्। अपि। एतु। पाथ:। ३४.२।
+प्रऽमुञ्चन्तः। भुवनस्‍य। रेतः। गातुम्। धत्त। यजमानाय। देवाः। उपऽआकृतम्। शशमानम्। यत्। अस्थात्। प्रियम्। देवानाम्। अपि। एतु। पाथः। ३४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

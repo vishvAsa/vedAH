@@ -21,10 +21,9 @@ With **a** compare xviii. 4. 36. Some of our mss. (P.M.W.I.O.) read in
 Those who surround the never-failing fountain for ever, and bedew the plants with moisture, The Maruts, Prini's sons, I chiefly honour. May they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्सम्। अक्षितम्। विऽअचन्ति। ये। सदा। ये। आऽसिञ्चन्ति। रसम्। ओषधीषु। पुर:। दधे। मरुत:। पृश्निऽमातृन्। ते। न:। मुञ्चन्तु। अंहस:। २७.२।
+उत्सम्। अक्षितम्। विऽअचन्ति। ये। सदा। ये। आऽसिञ्चन्ति। रसम्। ओषधीषु। पुरः। दधे। मरुतः। पृश्निऽमातृन्। ते। नः। मुञ्चन्तु। अंहसः। २७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

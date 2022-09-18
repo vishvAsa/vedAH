@@ -32,10 +32,9 @@ them as occasioned by phlegm (*śleṣman*); *balāsa* he defines as
 Remove thou all Decline that lurks within the members and the joints, The firmly-settled heart-disease that racks the bones and rends the limbs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्थिऽस्रंसम्। परु:ऽस्रंसम्। आऽस्थितम्। हृदयऽआमयम्। बलासम्। सर्वम्। नाशय। अङ्गेऽस्था:। य:। च। पर्वऽसु। १४.१।
+अस्थिऽस्रंसम्। परुःऽस्रंसम्। आऽस्थितम्। हृदयऽआमयम्। बलासम्। सर्वम्। नाशय। अङ्गेऽस्थाः। यः। च। पर्वऽसु। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

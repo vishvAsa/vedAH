@@ -20,7 +20,6 @@ and calls it a *triṣṭubh*.
 If the bride's sisters, if young maids have danced together in thy house, committing sin with shout and cry. May Agni free thee from that guilt, may Savitar deliver thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। जामयः। यत्। युवतयः। गृहे। ते। सम्ऽअनर्तिषु। रोदेन। कृण्वतीः। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६१।

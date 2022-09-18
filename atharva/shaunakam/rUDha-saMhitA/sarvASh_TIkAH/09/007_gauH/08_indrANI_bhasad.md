@@ -20,7 +20,6 @@ vs. 9 follow our 6.
 Indrani is the hinder parts, Vayu the tail, Pavamana the hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्राणी। भसत्। वायुः। पुच्छम्। पवमानः। बालाः। १२.८।

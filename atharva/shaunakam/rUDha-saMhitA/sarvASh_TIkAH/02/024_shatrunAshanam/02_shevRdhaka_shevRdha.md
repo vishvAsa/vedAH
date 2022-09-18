@@ -16,10 +16,9 @@ title = "०२ शेवृधक शेवृध"
 Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let your weapon fall, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शेवृधक। शेवृध। पुन:। व:। यन्तु। यातव:। पुन:। हेति:। किमीदिन:। यस्य। स्थ। तम्। अत्त। य:। व:। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.२।
+शेवृधक। शेवृध। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

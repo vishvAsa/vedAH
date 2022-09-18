@@ -21,10 +21,9 @@ devay-*. O.K. again accent *jānā́ti*.
 She rose, she came unto the Gods: they killed her: but in a fortnight she again was living. Fortnightly, hence, men serve the Gods with Vasat! Who knows this knows the way which Gods pass over.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओषधी:। एव। रथम्ऽतरेण। देवा:। अदुह्रन्। व्यच:। बृहता। ११.७।
+ओषधीः। एव। रथम्ऽतरेण। देवाः। अदुह्रन्। व्यचः। बृहता। ११.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ comm. treats the last words of the vs. as under vs. 12.⌋
 Nine several oceans, earths, and skies are set within, the Residue, Bright shines the Sun therein, in me, the Residue, are Day and Night.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नव। भूमीः। समुद्राः। उत्ऽशिष्टे। अधि। श्रिताः। दिवः। आ। सूर्यः। भाति। उत्ऽशिष्टे। अहोरात्रे इति। अपि। तत्। मयि। ९.१४।

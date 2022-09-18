@@ -35,7 +35,6 @@ upon her head). The Anukr. does not heed the lack of a syllable in
 Hither let Brahmans bring her bathing water; let them draw such as guards the lives of heroes. Aryaman's fire let her encircle, Pushan! Fathers-in-law stand, with their sons, expectant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। अस्यै। ब्राह्मणा। स्नपनीः। हरन्तु। अवीरऽघ्नीः। उत्। अजन्तु। आपः। अर्यम्णः। अग्निम्। परि। एतु। पूषन्। प्रति। ईक्षन्ते। श्वशुरः। देवरः। च। १.३९।

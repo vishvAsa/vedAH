@@ -26,10 +26,9 @@ declines to sanction the contraction *śalyé ’va* in **d**.
 When eagles, calling out aloud, are screaming in the joy of health, Then to my calling let her come, as to the arrow's neck the shaft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। सुऽपर्णा:। विवक्षव:। अनमीवा:। विवक्षव:। तत्र। मे। गच्छतात्। हवम्। शल्य:ऽइव। कुल्मलम्। यथा। ३०.३।
+यत्। सुऽपर्णाः। विवक्षवः। अनमीवाः। विवक्षवः। तत्र। मे। गच्छतात्। हवम्। शल्यःऽइव। कुल्मलम्। यथा। ३०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

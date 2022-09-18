@@ -21,10 +21,9 @@ Bergaigne, *Rel. Véd.* ii. 122.⌋
 Kama hath slain those who were mine opponents, and given me ample room to grow and prosper. Let the four regions bow them down before me, and let the six expanses bring me fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अवधीत्। काम:। मम। ये। सऽपत्ना:। उरुम्। लोकम्। अकरत्। मह्यम्। एधतुम्। मह्यम्। नमन्ताम्। प्रऽदिश:। चतस्र:। मह्यम्। षट्। उर्वी:। घृतम्। आ। वहन्तु। २.११।
+अवधीत्। कामः। मम। ये। सऽपत्नाः। उरुम्। लोकम्। अकरत्। मह्यम्। एधतुम्। मह्यम्। नमन्ताम्। प्रऽदिशः। चतस्रः। मह्यम्। षट्। उर्वीः। घृतम्। आ। वहन्तु। २.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

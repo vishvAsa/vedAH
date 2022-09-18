@@ -23,10 +23,9 @@ the coram.); this ⌊not *śaṁtivā́m*⌋ is given also by Ppp. (cf. xii. 1.
 One-minded with his mother let the son be loyal to his sire. Let the wife, calm and gentle, speak words sweet as honey to her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनुऽव्रत:। पितु:। पुत्र। मात्रा। भवतु। सम्ऽमना:। जाया। पत्ये। मधुऽमतीम्। वाचम्। वदतु। शन्तिऽवाम्। ३०.२।
+अनुऽव्रतः। पितुः। पुत्र। मात्रा। भवतु। सम्ऽमनाः। जाया। पत्ये। मधुऽमतीम्। वाचम्। वदतु। शन्तिऽवाम्। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

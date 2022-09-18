@@ -20,10 +20,9 @@ senseless reading *simātu.*
 Nirriti bind them with the bonds of Death which never may be loosed. Mine enemies, Asvattha! those who hate me and whom I detest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिनातु। एनान्। नि:ऽऋति:। मृत्यो:। पाशै:। अमोक्यै:। अश्वत्थ। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.५।
+सिनातु। एनान्। निःऽऋतिः। मृत्योः। पाशैः। अमोक्यैः। अश्वत्थ। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

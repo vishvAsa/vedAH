@@ -7,7 +7,6 @@ title = "०९३ शत्रुनाशनम्"
 93 (98). For Indra's aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०९३ शत्रुनाशनम्"
 [Bhṛgan̄giras.—āindram. gāyatram.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Not employed by Kāuś., except as by the comm. declared to b
 ### Translations
 Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
+

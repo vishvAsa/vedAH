@@ -7,7 +7,6 @@ title = "००२ भुवनेषु ज्येष्ठः"
 2. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भुवनेषु ज्येष्ठः।  
@@ -18,8 +17,6 @@ title = "००२ भुवनेषु ज्येष्ठः"
 
 [Bṛhaddiva Atharvan.—navakam. vāruṇam. trāiṣṭubham: 9. bhurik parātijāgatā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Griffith, i. 189; Weber, xviii. 164.
 
 A glorification of Indra
 </details>
+

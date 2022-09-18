@@ -32,10 +32,9 @@ Anukr. is thus quoted: *dvyadhikāv apacit*.
 Bearing thy body, Charger, may thy body run blessing us and winning thee protection. May he, unswerving, to uphold the mighty, stablish his lustre as a God in heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तनू:। ते। वाजिन्। तन्वम्। नयन्ती। वामम्। अस्मभ्यम्। धावतु। शर्म। तुभ्यम्। अह्रुत:। मह:। धरुणाय। देव:। दिविऽइव। ज्योति:। स्वम्। आ। मिमीयात्। ९२.३।
+तनूः। ते। वाजिन्। तन्वम्। नयन्ती। वामम्। अस्मभ्यम्। धावतु। शर्म। तुभ्यम्। अह्रुतः। महः। धरुणाय। देवः। दिविऽइव। ज्योतिः। स्वम्। आ। मिमीयात्। ९२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

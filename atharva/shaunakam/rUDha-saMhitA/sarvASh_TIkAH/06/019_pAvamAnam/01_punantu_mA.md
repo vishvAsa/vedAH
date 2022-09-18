@@ -28,10 +28,9 @@ either wind or soma.
 Let the Gods purify me, let men purify me with a prayer. Cleanse me all creatures that exist! may Pavamana make me pure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुनन्तु। मा। देवऽजना:। पुनन्तु। मनव:। धिया। पुनन्तु। विश्वा। भूतानि। पवमान:। पुनातु। मा। १९.१।
+पुनन्तु। मा। देवऽजनाः। पुनन्तु। मनवः। धिया। पुनन्तु। विश्वा। भूतानि। पवमानः। पुनातु। मा। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

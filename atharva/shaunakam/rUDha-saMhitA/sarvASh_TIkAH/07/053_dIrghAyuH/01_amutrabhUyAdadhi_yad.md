@@ -37,10 +37,9 @@ text, *bṛhaspatir abhiśastyā ’muñcat;* its **c**, also, is peculiar:
 As thou, Brihaspati, from the curse hast saved us, from dwel- ling yonder in the realm of Yama, The Asvins, leeches of the Gods, O Agni, have chased Death far from us with mighty powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमुत्रऽभूयात्। अधि। यत्। यमस्य। बृहस्पते:। अभिऽशस्ते:। अमुञ्च:। प्रति। औहताम्। अश्विना। मृत्युम्। अस्मत्। देवानाम्। अग्ने। भिषजा। शचीभि:। ५५.१।
+अमुत्रऽभूयात्। अधि। यत्। यमस्य। बृहस्पतेः। अभिऽशस्तेः। अमुञ्चः। प्रति। औहताम्। अश्विना। मृत्युम्। अस्मत्। देवानाम्। अग्ने। भिषजा। शचीभिः। ५५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

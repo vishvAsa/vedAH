@@ -14,10 +14,9 @@ title = "०७ आहं तनोमि"
 Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper indefessus velut cervus damam.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अहम्। तनोमि। ते। पस:। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋश:ऽइव। रोहितम्। अनवऽग्लायता। सदा। ४.७।
+आ। अहम्। तनोमि। ते। पसः। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋशःऽइव। रोहितम्। अनवऽग्लायता। सदा। ४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

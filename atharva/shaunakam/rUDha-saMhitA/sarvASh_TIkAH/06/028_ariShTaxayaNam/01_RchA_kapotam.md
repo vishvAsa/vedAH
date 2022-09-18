@@ -26,10 +26,9 @@ duritā́ni víśvā*. In **d**, both RV. and Ppp. (also the comm.) end with
 Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food and cattle, Obliterating traces of misfortune. Most fleet may it fly forth and leave us vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋचा। कपोतम्। नुदत। प्रऽनोदम्। इषम्। मदन्त:। परि। गाम्। नयाम:। सम्ऽलोभयन्त:। दु:ऽइता। पदानि। हित्वा। न:। उर्जम्। प्र। पदात्। २८.१।
+ऋचा। कपोतम्। नुदत। प्रऽनोदम्। इषम्। मदन्तः। परि। गाम्। नयामः। सम्ऽलोभयन्तः। दुःऽइता। पदानि। हित्वा। नः। उर्जम्। प्र। पदात्। २८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

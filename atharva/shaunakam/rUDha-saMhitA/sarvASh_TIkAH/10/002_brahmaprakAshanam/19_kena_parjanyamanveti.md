@@ -20,7 +20,6 @@ Ppp. reads *āpnoti* for *anv eti*, and has for **c, d** our 20 **c, d**
 Through whom seeks he Parjanya out, and Soma of the piercing sight? Through whom belief and sacrifice? Through whom was spirit laid in him?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। पर्जन्यम्। अनु। एति। केन। सोमम्। विऽचक्षणम्। केन। यज्ञम्। च। अध्दाम्। च। केन। अस्मिन्। निऽहितम्। मनः। २.१९।

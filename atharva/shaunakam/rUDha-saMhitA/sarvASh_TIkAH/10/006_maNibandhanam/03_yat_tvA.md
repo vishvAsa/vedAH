@@ -23,7 +23,6 @@ the verse is used to accompany the washing off of an instrument or post.
 What though the strong-armed carpenter have cleft thee with his hand and axe. Pure animating waters shall cleanse thee and make thee bright again.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। त्वा। शिक्वः। पराऽअवधीत्। तक्षा। हस्तेन। वास्या। आपः। त्वा। तस्मात्। जीवलाः। पुनन्तु। शुचयः। शुचिम्। ६.३।

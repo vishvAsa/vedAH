@@ -27,10 +27,9 @@ Ppp. adds a verse of its own: *yathā ’śvattha niṣṇāmi pūrvāṅ jātā
 Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With Indra, slayer of the fiends, with Mitra and with Varuna.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तान्। अश्वत्थ:। नि:। शृणीहि। शत्रून्। वैबाधऽदोधत:। इन्द्रेण। वृत्रऽघ्ना। मेदी। मित्रेण। वरुणेन। च। ६.२।
+तान्। अश्वत्थः। निः। शृणीहि। शत्रून्। वैबाधऽदोधतः। इन्द्रेण। वृत्रऽघ्ना। मेदी। मित्रेण। वरुणेन। च। ६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

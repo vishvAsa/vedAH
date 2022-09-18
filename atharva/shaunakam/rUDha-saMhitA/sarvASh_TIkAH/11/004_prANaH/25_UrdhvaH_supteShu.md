@@ -25,7 +25,6 @@ is a theme of wonder elsewhere also. For *supéṣú* in **a**, read
 Erect among the sleepers he wakes, and is never laid at length, No one hath ever heard that he hath been asleep while others slept.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्ध्वः। सुप्तेषु। जागार। ननु। तिर्यङ्। नि। पद्यते। न। सुप्तम्। अस्‍य। सुप्तेषु। अनु। शुश्राव। कः। चन। ६.२५।

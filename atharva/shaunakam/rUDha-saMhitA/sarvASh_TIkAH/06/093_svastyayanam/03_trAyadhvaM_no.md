@@ -23,10 +23,9 @@ the metrical irregularities of the verse.
 Save us, All-Gods and all-possessing Maruts, from murderous stroke and things that slay with poison. Pure is the might of Varuna, Agni, Soma. May Vata's and Parjanya's favour bless us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रायध्वम्। न:। अघऽविषाभ्य:। वधात्। विश्वे। देवा:। मरुत:। विश्वऽवेदस:। अग्नीषोमा। वरुण:। पूतऽदक्षा:। वातापर्जन्ययो:। सुऽमतौ। स्याम। ९३.३।
+त्रायध्वम्। नः। अघऽविषाभ्यः। वधात्। विश्वे। देवाः। मरुतः। विश्वऽवेदसः। अग्नीषोमा। वरुणः। पूतऽदक्षाः। वातापर्जन्ययोः। सुऽमतौ। स्याम। ९३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

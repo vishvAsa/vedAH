@@ -20,7 +20,6 @@ first half recurs as the second of vs. 20.⌋
 Tiraschirajis have been slain, and vipers crushed and brayed to bits. Slay Darvi in the Darbha-grass, Karikrata, and White and Black.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। दर्विम्। करिक्रतम्। श्वित्रम्। दर्भेषु। असितम्। जहि। ४.१३।

@@ -29,7 +29,6 @@ see above, p. 739, ¶'s 4, 5, 7.⌋
 May we be happy with abundant riches. We from this place have banished the Gandharva. The God is gone to the remotest region, and we have come where men prolong existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 राया। वयम्। सुऽमनसः। स्याम। उत्। इतः। गन्धर्वम्। आ। अवीवृताम। अगन्। सः। देवः। परमम्। सधऽस्थम्। अगन्म। यत्र। प्रऽतिरन्ते। आयुः। २.३६।

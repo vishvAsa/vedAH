@@ -32,7 +32,6 @@ arriving at a ford or river-crossing on the bridal journey.
 Thou, Dame, rejoicing, take with kindly spirit wealth worthy to be famed, with all thy heroes. Give, Lords of Light a fair ford, good to drink at: remove the spiteful stump that blocks the pathway.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। मन्दसाना। मनसा। शिवेन। रयिम्। धेहि। सर्वऽवीरम्। वचस्यम्। सुऽगम्। तीर्थम्। सुऽप्रपानम्। शुभः। पती इति। स्थाणुम्। पथिऽस्थाम्। अप। दुःऽमतिम्। हतम्। २.६।

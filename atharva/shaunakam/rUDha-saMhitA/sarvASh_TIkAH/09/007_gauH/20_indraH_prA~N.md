@@ -16,7 +16,6 @@ title = "२० इन्द्रः प्राङ्"
 Standing east-wards he is Indra, standing southwards, Yama.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रः। प्राङ्। तिष्ठन्। दक्षिणा। तिष्ठन्। यमः। १२.२०।

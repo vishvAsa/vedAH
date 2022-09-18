@@ -17,10 +17,9 @@ title = "१३ नैनं घ्नन्त्यप्सरसो"
 No mortal beings slay him, no Gandharvas, no Apsarases; O'er all the regions he is king, the man who wears this Amulet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। एनम्। घ्नन्ति। अप्सरस:। न। गन्धर्वा:। न। मर्त्या:। सर्वा:। दिश:। वि। राजति। य:। बिभर्ति। इमम्। मणिम्। ५.१३।
+न। एनम्। घ्नन्ति। अप्सरसः। न। गन्धर्वाः। न। मर्त्याः। सर्वाः। दिशः। वि। राजति। यः। बिभर्ति। इमम्। मणिम्। ५.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

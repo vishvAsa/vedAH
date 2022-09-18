@@ -22,7 +22,6 @@ Ludwig). The verse is very irregular, but can be made to count a
 At evening he is Varuna and Agni, ascending in the morning he is Mitra. As Savitar, he moves through air's mid region, as Indra warms- the heavens from the centre. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। वरुणः। सायम्। अग्निः। भवति। सः। म‍ित्रः। भवति। प्रातः। उत्ऽयन्। सः। सविता। भूत्वा। अन्तरिक्षेण। याति। यः। इन्द्रः। भूत्वा। तपति। मध्यतः। दिवम्। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१३।

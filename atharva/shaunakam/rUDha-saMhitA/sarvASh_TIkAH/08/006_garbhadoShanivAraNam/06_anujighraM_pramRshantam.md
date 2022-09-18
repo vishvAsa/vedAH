@@ -21,10 +21,9 @@ sound *kiṣ kiṣ*,' or 'constantly injuring' (from the root *kiṣk*).
 Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas with the tails of dogs, the yellow Baja hath destroyed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनुऽजिघ्रम्। प्रऽमृशन्तम्। क्रव्यऽअदम्। उत। रेरिहम्। अरायान्। श्वऽकिष्किण:। बज:। पिङ्ग:। अनीनशत्। ६.६।
+अनुऽजिघ्रम्। प्रऽमृशन्तम्। क्रव्यऽअदम्। उत। रेरिहम्। अरायान्। श्वऽकिष्किणः। बजः। पिङ्गः। अनीनशत्। ६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

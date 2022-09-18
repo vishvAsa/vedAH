@@ -26,7 +26,6 @@ to accompany the sending out of a guard for the bride. ⌊Cf. Wint., p.
 Straight in direction be the paths, and thornless, whereby our fellows travel to the wooing. With Bhaga and with Aryaman Dhatar endue the pair with strength!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनृक्षराः। ऋजवः। सन्तु। पन्थानः। येभिः। सखायः। यन्ति। नः। वरेऽयम्। सम्। भगेन। सम्। अर्यम्णा। सम्। धाता। सृजतु। वर्चसा। १.३४।

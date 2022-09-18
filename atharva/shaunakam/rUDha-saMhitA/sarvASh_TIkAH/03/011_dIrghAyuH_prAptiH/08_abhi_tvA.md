@@ -29,10 +29,9 @@ lost under *a-*). There is no *bṛhatī* element in the verse.
 Old age hath girt thee with its bonds even as they bind a bull with rope. The death held thee at thy birth bound with a firmly-knotted noose, Therefrom, with both the hands of Truth, Brihaspati hath loose- ned thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। त्वा। जरिमा। अहित। गाम्। उक्षणम्ऽइव। रज्ज्वा। य:। त्वा। मृत्यु:। अभिऽअधत्त। जायमानम्। सुऽपाशया। तम्। ते। सत्यस्य। हस्ताभ्याम्। उत्। अमुञ्चत्। बृहस्पति:। ११.८।
+अभि। त्वा। जरिमा। अहित। गाम्। उक्षणम्ऽइव। रज्ज्वा। यः। त्वा। मृत्युः। अभिऽअधत्त। जायमानम्। सुऽपाशया। तम्। ते। सत्यस्य। हस्ताभ्याम्। उत्। अमुञ्चत्। बृहस्पतिः। ११.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

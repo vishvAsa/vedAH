@@ -22,7 +22,6 @@ described by the Anukr. It, with a good part of those that follow
 Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृष्णम्। निऽयानम्। हरयः। सुऽपर्णाः। अपः। वसानाः। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.९।

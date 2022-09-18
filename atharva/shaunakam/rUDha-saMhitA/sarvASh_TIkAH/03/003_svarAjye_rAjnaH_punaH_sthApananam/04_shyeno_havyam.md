@@ -25,10 +25,9 @@ especially PB. xii. 12. 6.
 May the hawk bring the man who must be summoned, from far away, in alien land, an exile. May both the Asvins make thy pathway easy. Come, and unite yourselves with him, ye Kinsmen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्येन:। हव्यम्। नयतु। आ। परस्मात्। अन्यऽक्षेत्रे। अपऽरुध्दम्। चरन्तम्। अश्विना। पन्थाम्। कृणुताम्। सुऽगम्। ते। इमम्। सऽजाता:। अभिऽसंविशध्वम्। ३.४।
+श्येनः। हव्यम्। नयतु। आ। परस्मात्। अन्यऽक्षेत्रे। अपऽरुध्दम्। चरन्तम्। अश्विना। पन्थाम्। कृणुताम्। सुऽगम्। ते। इमम्। सऽजाताः। अभिऽसंविशध्वम्। ३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ we make a harsh and unusual resolution.
 If one, flesh-eater, in the day or night-time have wronged me lying in the bed of goblins, Let the Pisachas, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवा। मा। नक्तम्। यतम:। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। तत्। आत्मना। प्रऽजया। पिशाचा:। वि। यातयन्ताम्। अगद:। अयम्। अस्तु। २९.९।
+दिवा। मा। नक्तम्। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। तत्। आत्मना। प्रऽजया। पिशाचाः। वि। यातयन्ताम्। अगदः। अयम्। अस्तु। २९.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

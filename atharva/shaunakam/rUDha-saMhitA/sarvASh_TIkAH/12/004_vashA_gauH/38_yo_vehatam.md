@@ -21,7 +21,6 @@ interlines "in private": see vs. 53.⌋
 Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati compels his sons and children of his sons to beg.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। वेहतम्। मन्यमानः। अमा। च। पचते। वशाम्। अपि। अस्य। पुत्रान्। पौत्रान्। च। याचयते। बृहस्पतिः। ४.३८।

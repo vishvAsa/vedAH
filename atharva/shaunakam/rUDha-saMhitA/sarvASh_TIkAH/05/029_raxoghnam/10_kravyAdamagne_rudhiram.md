@@ -21,10 +21,9 @@ the latter of which, indeed, is easily made up for by resolving
 O Agni Jatavedas, slay the bloody Pisacha, flesh-devourer, mind- destroyer, Strong Indra strike him with his bolt of thunder, courageous Soma cut his head to pieces!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्रव्यऽअदम्। अग्ने। रुधिरम्। पिशाचम्। मन:ऽहनम्। जहि। जातऽवेद:। तम्। इन्द्र:। वाजी। वज्रेण। हन्तु। छिनत्तु। सोम:। शिर:। अस्य। धृष्णु:। २९.१०।
+क्रव्यऽअदम्। अग्ने। रुधिरम्। पिशाचम्। मनःऽहनम्। जहि। जातऽवेदः। तम्। इन्द्रः। वाजी। वज्रेण। हन्तु। छिनत्तु। सोमः। शिरः। अस्य। धृष्णुः। २९.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

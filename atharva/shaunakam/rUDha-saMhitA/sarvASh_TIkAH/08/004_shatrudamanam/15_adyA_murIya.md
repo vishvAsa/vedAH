@@ -22,10 +22,9 @@ that of RV. by dividing *daśá॰bhiḥ* in **c**. Ppp. reads *pāuruṣasya* i
 So may I die this day if I have harassed any man's life, or if I be a demon. Yea, may he lose all his ten sons together who with false tongue hath called me Yatudhana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अद्य। मुरीय। यदि। यातुऽधान:। अस्मि। यदि। वा। आयु:। ततप। पुरुषस्य। अध। स:। वीरै:। दशऽभि:। वि। यूया:। य:। मा। मोघम्। यातुऽधान। इति। आह। ४.१५।
+अद्य। मुरीय। यदि। यातुऽधानः। अस्मि। यदि। वा। आयुः। ततप। पुरुषस्य। अध। सः। वीरैः। दशऽभिः। वि। यूयाः। यः। मा। मोघम्। यातुऽधान। इति। आह। ४.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

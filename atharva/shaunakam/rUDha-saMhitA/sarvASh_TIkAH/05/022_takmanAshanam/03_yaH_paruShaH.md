@@ -26,10 +26,9 @@ has our vs. 3.⌋
 Endowed with universal power! send Fever down-ward, far away, The spotty, like red-coloured dust, sprung from a spotty ancestor.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। परुष:। पारुषेय:। अवध्वंस:ऽइव। अरुण:। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। २२.३।
+यः। परुषः। पारुषेयः। अवध्वंसःऽइव। अरुणः। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। २२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

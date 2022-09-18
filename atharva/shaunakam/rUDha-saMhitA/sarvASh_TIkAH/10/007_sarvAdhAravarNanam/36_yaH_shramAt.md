@@ -18,7 +18,6 @@ The sense of 'own' in **c** is given by the middle verb-form.
 Homage to highest Brahma, him who, sprung from Fervour and from toil, Filled all the worlds completely, who made Soma for himself alone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। श्रमात्। तपसः। जातः। लोकान्। सर्वान्। सम्ऽआनशे। सोमम्। यः। चक्रे। केवलम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ७.३६।

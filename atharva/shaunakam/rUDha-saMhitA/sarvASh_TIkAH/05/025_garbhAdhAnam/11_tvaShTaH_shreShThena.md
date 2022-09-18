@@ -16,10 +16,9 @@ title = "११ त्वष्टः श्रेष्ठेन"
 Tvashtar, celestial artist, lay within the body of this dame. A male germ with the noblest form for her in the tenth month to bear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वष्ट:। श्रेष्ठेन। रूपेण। रूपेण। अस्या:। नार्या:। गवीन्यो:। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.११।
+त्वष्टः। श्रेष्ठेन। रूपेण। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

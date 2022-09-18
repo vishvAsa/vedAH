@@ -27,10 +27,9 @@ ugras smatahavyo babhūva*. \*⌊Perhaps this is an error of Roth for 2
 I gave existence to the earth and heaven, I made the seasons and the seven rivers. My word is truth; what I deny is falsehood, I who rejoice in Agni's, Soma's friendship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। जजान। पृथिवीम्। उत। द्याम्। अहम्। ऋतून्। अजनयम्। सप्त। सिन्धून्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। य:। अग्नीषोमौ। अजुषे। सखाया। ६१.३।
+अहम्। जजान। पृथिवीम्। उत। द्याम्। अहम्। ऋतून्। अजनयम्। सप्त। सिन्धून्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। यः। अग्नीषोमौ। अजुषे। सखाया। ६१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

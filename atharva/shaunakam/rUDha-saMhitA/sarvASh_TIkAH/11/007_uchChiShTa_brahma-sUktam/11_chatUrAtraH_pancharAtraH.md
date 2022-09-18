@@ -23,7 +23,6 @@ Prāt. iv. 80.
 Sacrifice of four nights, of five, of six nights, day and night conjoined, Shodai, seven-night sacrifice, all these sprang from the Residue, these which the Immortal One contains.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुःऽरात्रः। पञ्चऽरात्रः। षट्ऽरात्रः। च। उभयः। सह। षोडशी। सप्तऽरात्रः। च। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। ये। यज्ञाः। अमृते। हिताः। ९.११।

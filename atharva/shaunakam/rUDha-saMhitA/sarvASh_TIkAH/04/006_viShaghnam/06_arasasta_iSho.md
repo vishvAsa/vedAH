@@ -19,10 +19,9 @@ as a reduplicated word, "excessively sapless."
 Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of a worthless tree, thy bow, O feeble one, is impotent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अरस:। ते। इषो  इति। शल्य:। अथो  इति। ते। अरसम्। विषम्। उत। अरसस्य। वृक्षस्य। धनु:। ते। अरस। अरसम्। ६.६।
+अरसः। ते। इषो  इति। शल्यः। अथो  इति। ते। अरसम्। विषम्। उत। अरसस्य। वृक्षस्य। धनुः। ते। अरस। अरसम्। ६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

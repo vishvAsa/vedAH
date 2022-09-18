@@ -23,7 +23,6 @@ as the Anukr. knows how.
 We take away consumption from each limb and member of the bride. Let not this reach Earth, nor the Gods in heaven, let it not reach the sky or air's wide region. Let not this dust that sullies reach the Waters, nor Yama, Agni, nor the host of Fathers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अङ्गात्ऽअङ्गात्। वयम्। अस्याः। अप। यक्ष्मम्। नि। दध्मसि। तत्। मा। प्र। आपत्। पृथिवीम्। मो। उत। देवान। दिवम्। मा। प्र। आपत्। उरु। अन्तरिक्षम्। अपः। मा। प्र। आपत्। मलम्। एतत्। अग्ने। यमम्। मा। प्र। आपत्। पितॄन्। च। सर्वान्। २.६९।

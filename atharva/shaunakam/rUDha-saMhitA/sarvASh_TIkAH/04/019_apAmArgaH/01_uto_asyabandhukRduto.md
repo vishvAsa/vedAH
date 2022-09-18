@@ -28,10 +28,9 @@ The Anukr. seems to sanction abbreviation to *’va* in **d**.
 Thou breakest ties of kith and kin, thou causest, too, relation- ship: So bruise the sorcerer's offspring, like a reed that groweth in the Rains.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उतो  इति। असि। अबन्धुऽकृत्। उतो  इति। असि। नु। जामिऽकृत्। उतो इति। कृत्याऽकृत:। प्रऽजाम्। नडम्ऽइव। आ। छिन्धि। वार्षिकम्। १९.१।
+उतो  इति। असि। अबन्धुऽकृत्। उतो  इति। असि। नु। जामिऽकृत्। उतो इति। कृत्याऽकृतः। प्रऽजाम्। नडम्ऽइव। आ। छिन्धि। वार्षिकम्। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

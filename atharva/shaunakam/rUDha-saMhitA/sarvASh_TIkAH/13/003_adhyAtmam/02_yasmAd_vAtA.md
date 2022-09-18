@@ -20,7 +20,6 @@ grammatical equivalent of *vā́tās* would improve the rhythm.⌋
 He from whom winds blow pure in ordered season, from whom the seas flow forth in all directions, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मात्। वाताः। ऋतुऽथा। पवन्ते। यस्मात्। समुद्राः। अधि। विऽक्षरन्ति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२।

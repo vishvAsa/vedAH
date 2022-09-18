@@ -21,10 +21,9 @@ end of **b**. Ppp. further has *rāyebhyas* at beginning of **c**, and
 We give thee over as a charge to Day and Night, in trust to both. Keep him for me from stingy fiends, from those who fain would feed on him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अह्ने। च। त्वा। रात्रये। च। उभाभ्याम्। परि। दद्मसि। अरायेभ्य:। जिघत्सुऽभ्य:। इमम्। मे। परि। रक्षत। २.२०।
+अह्ने। च। त्वा। रात्रये। च। उभाभ्याम्। परि। दद्मसि। अरायेभ्यः। जिघत्सुऽभ्यः। इमम्। मे। परि। रक्षत। २.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

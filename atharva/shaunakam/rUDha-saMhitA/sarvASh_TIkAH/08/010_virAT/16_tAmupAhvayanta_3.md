@@ -16,7 +16,6 @@ title = "१६ तामुपाह्वयन्त ३"
 For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wide expansion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताम्। उप। अह्वयन्त। ११.३।

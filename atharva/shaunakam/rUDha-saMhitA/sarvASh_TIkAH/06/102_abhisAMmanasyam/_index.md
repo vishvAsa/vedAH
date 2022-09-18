@@ -7,7 +7,6 @@ title = "१०२ अभिसांमनस्यम्"
 102. To win a woman.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभिसांमनस्यम्।  
@@ -19,8 +18,6 @@ title = "१०२ अभिसांमनस्यम्"
 [Jamadagni (abhisammanaskāmaḥ) .—āśvinam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Used by Kāuś. (35. 21) in a rite concerning women, 
 ### Translations
 Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield, 101, 512.
 </details>
+

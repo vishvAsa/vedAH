@@ -20,7 +20,6 @@ RV. (x. 85. 26) begins with *pūṣā́* instead of *bhágas*. In Kāuś. (76.
 Let Bhaga take thy hand and hence conduct thee: let the two Asvins on their car transport thee. Go to the house to be the household's mistress, and speak as lady to thy gathered people.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भगः। त्वा। इतः। नयतु। हस्तऽगृह्य। अश्विना। त्वा। प्र। वहताम्। रथेन। गृहान्। गच्छ। गृहऽपत्नी। यथा। असः। वशिनी। त्वम्। विदथम्। आ। वदासि। १.२०।

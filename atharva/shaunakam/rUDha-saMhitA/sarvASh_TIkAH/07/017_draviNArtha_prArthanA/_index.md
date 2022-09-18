@@ -7,7 +7,6 @@ title = "०१७ द्रविणार्थ प्रार्थना"
 17 (18). Prayer to Dhātar for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 द्रविणार्थ प्रार्थना।  
@@ -20,8 +19,6 @@ title = "०१७ द्रविणार्थ प्रार्थना"
 [Bhṛgu.—caturṛcam. sāvitram uta bahudmatyam. ānuṣṭubham: 1. 3-p. ārṣī gāyatrī; 3, 4. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -32,3 +29,4 @@ Literally (at the end) 'with full,' to which the comm. supplies dhanena. Ppp. sh
 
 A prayer for wealth and children
 </details>
+

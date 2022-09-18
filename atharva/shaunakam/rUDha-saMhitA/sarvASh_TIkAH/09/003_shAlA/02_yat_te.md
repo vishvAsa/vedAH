@@ -26,10 +26,9 @@ Anukr. seems to imply the abbreviation of *iva* to *’va* in **c**.
 All-wealthy House! each knot and band, each cord that is attached to thee I with my spell untie, as erst Brihaspati disclosed the cave.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। नध्दम्। विश्वऽवारे। पाशे:। ग्रन्थि:। च। य:। कृत:। बृहस्पति:ऽइव। अहम्। बलम्। वाचा। वि। स्रंसयामि। तत्। ३.२।
+यत्। ते। नध्दम्। विश्वऽवारे। पाशेः। ग्रन्थिः। च। यः। कृतः। बृहस्पतिःऽइव। अहम्। बलम्। वाचा। वि। स्रंसयामि। तत्। ३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

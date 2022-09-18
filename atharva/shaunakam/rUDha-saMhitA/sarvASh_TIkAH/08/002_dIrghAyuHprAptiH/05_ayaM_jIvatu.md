@@ -19,10 +19,9 @@ in **d** accentless. ⌊Both editions read *mṛ́tyo*.⌋
 Let this man live, let him not die: we raise him, we recover him. I make for him a healing balm. O Death, forbear to slay this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। जीवतु। मा। मृत। इमम्। सम्। ईरयामसि। कृणोमि। अस्मै। भेषजम्‌। मृत्यो इति। मा। पुरुषम्। वधी:। २.५।
+अयम्। जीवतु। मा। मृत। इमम्। सम्। ईरयामसि। कृणोमि। अस्मै। भेषजम्‌। मृत्यो इति। मा। पुरुषम्। वधीः। २.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

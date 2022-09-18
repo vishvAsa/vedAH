@@ -21,10 +21,9 @@ sky in general.
 Butter to thee in heaven thy home, O Agni! Manu this day hath kindled thee with butter. Let the Celestial Daughters bring thee butter: Let cows pour butter forth for thee, O Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घृतम्। ते। अग्ने। दिव्ये। सधऽस्थे। घृतेन। त्वाम्। मनु:। अद्य। सम्। इन्धे। घृतम्। ते। देवी:। नप्त्य:। आ। वहन्तु। घृतम्। तुभ्यम्। दुह्रताम्। गाव:। अग्ने। ८७.६।
+घृतम्। ते। अग्ने। दिव्ये। सधऽस्थे। घृतेन। त्वाम्। मनुः। अद्य। सम्। इन्धे। घृतम्। ते। देवीः। नप्त्यः। आ। वहन्तु। घृतम्। तुभ्यम्। दुह्रताम्। गावः। अग्ने। ८७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

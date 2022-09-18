@@ -27,10 +27,9 @@ prose "verse" is unaccountably wrong.
 Make with thy weapon weaponless, O Agni, all wicked men who deal with us as foemen with eye, with thought, with spirit, or intention.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अस्मान्। चक्षुषा। मनसा। चित्त्या। आऽकूत्या। च। य:। अघऽयु:। अभिऽदासात्। त्वम्। तान्। अग्ने। मेन्या। अमेनीन्। कृणु। स्वाहा। ६.१०।
+यः। अस्मान्। चक्षुषा। मनसा। चित्त्या। आऽकूत्या। च। यः। अघऽयुः। अभिऽदासात्। त्वम्। तान्। अग्ने। मेन्या। अमेनीन्। कृणु। स्वाहा। ६.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ the subject-nominative, *kṛtyā́* understood.⌋
 Made by a Sidra or a Prince, by priests or women let her go. Back to her maker as her kin, like a dame banished by her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शूद्रऽकृता। राजऽकृता। स्त्रीऽकृता। ब्रह्मऽभिः। कृता। जाया। पत्या। नुत्ताऽइव। कर्तारम्। बन्धु। ऋच्छतु। १.३।

@@ -7,7 +7,6 @@ title = "००१ कृत्यादूषणम्"
 1. Against witchcraft and its practisers.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कृत्यादूषणम्।  
@@ -18,8 +17,6 @@ title = "००१ कृत्यादूषणम्"
 
 [Pratyan̄girasa.—dvātriṅśat. kṛtyādūṣaṇadevatyam. ānuṣṭubham: 1. mahābṛhatī; 2. virāṇ nāma gāyatrī; 9. pathyāpan̄kti; 12. pan̄kti; 13. urobṛhatī; 15. 4-p. virāḍ jagatī; 17, 20, 24. prastārapan̄kti (20. virāj); 16, 18. triṣṭubh; 19. 4-p. jagatī; 22. 1-av. 2-p. ārcy uṣṇih; 23. 3-p. bhurig viṣamā gāyatrī; 28. 3-p. gāyatrī; 29. madhyejyotiṣmatī jagatī; 32. dvyanuṣṭubgarbhā 5-p. atijagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 520; Henry, i, 39; Griffith, ii. 1; Bloomfield, 72, 602.
 
 A charm against witchcraft
 </details>
+

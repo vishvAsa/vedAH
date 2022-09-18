@@ -27,10 +27,9 @@ maṇim*).
 Let the Gods' Charm be bound on me to keep me safe from every ill. Come ye and enter all within this pillar, the safe-guard of the body, thrice-defended.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। मा। अरुक्षत्। देवऽमणि:। मह्यै। अरिष्टऽतातये। इमम्। मेथिम्। अभिऽसंविशध्वम्। तनूऽपानम्। त्रिऽवरूथम्। ओजसे। ५.२०।
+आ। मा। अरुक्षत्। देवऽमणिः। मह्यै। अरिष्टऽतातये। इमम्। मेथिम्। अभिऽसंविशध्वम्। तनूऽपानम्। त्रिऽवरूथम्। ओजसे। ५.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ asmābhir dattena haviṣā mādyantāu vā*.
 Indra and Agni bind them fast, Soma the King, and both the Friends! May Indra, girt by Maruts, make a bond to bind our enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। एनान्। द्यताम्। इन्द्राग्नी इति। सोम:। राजा। च। मेदिनौ। इन्द्र:। मरुत्वान्। आऽदानम्। अमित्रेभ्य:। कृणोतु। न:। १०४.३।
+आ। एनान्। द्यताम्। इन्द्राग्नी इति। सोमः। राजा। च। मेदिनौ। इन्द्रः। मरुत्वान्। आऽदानम्। अमित्रेभ्यः। कृणोतु। नः। १०४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

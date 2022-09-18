@@ -20,7 +20,6 @@ The verse is quoted in Kāuś. 61. 3, next after the four preceding ones.
 This stedfast realm is Queen. To her be homage! To me and to my sons may she be gracious. Guard thou, O Goddess Aditi, all-bounteous, our cooked oblation as an active warder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ध्रुवा। इयम्। विऽराट्। नमः। अस्तु। अस्यै। शिवा। पुत्रेभ्यः। उत। मह्यम्। अस्तु। सा। नः। देवि। अदिते। विश्वऽवारे। इर्यःऽइव। गोपाः। अभि। रक्ष। पक्वम्। ३.११।

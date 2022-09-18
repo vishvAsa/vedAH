@@ -7,7 +7,6 @@ title = "११५ पापमोचनम्"
 115. For relief from sin.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -19,8 +18,6 @@ title = "११५ पापमोचनम्"
 [Brahman.—vāiśvadevam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. For the use of this hymn by Kāug., and in part by V�
 ### Translations
 Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith, i. 308; Bloomfield, 164, 529.
 </details>
+

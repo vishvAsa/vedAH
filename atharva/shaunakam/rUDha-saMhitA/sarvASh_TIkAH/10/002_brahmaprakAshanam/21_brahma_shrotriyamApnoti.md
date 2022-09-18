@@ -23,7 +23,6 @@ brahmā ’smi ca hataṁ manaḥ*.
 He, Brahma gains the learned priest, he Brahma, gains this Lord Supreme. As Brahma, Man wins Agni here Brahma hath measured out the year.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। श्रोत्रियम्। आप्नोति। ब्रह्म। इमम्। परमेऽस्थिनम्। ब्रह्म। इमम्। अग्निम्। पुरुषः। ब्रह्म। सम्ऽवत्सरम्। ममे। २.२१।

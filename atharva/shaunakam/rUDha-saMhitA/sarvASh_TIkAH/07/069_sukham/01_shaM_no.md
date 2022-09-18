@@ -27,10 +27,9 @@ dhīyatām*. The Anukr. ignores the deficiency of two syllables in **a**.
 May the wind kindly breathe on us, may the Sun warm us. pleasantly. May days pass happily for us, may night draw near delightfully, may dawn break joyfully for us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। न:। वात:। वातु। शम्। न:। तपतु। सूर्य:। अहानि। शम्। भवन्तु। न:। शम्। रात्री। प्रति। धीयताम्। शम्। उषा:। न:। वि। उच्छतु। ७२.१।
+शम्। नः। वातः। वातु। शम्। नः। तपतु। सूर्यः। अहानि। शम्। भवन्तु। नः। शम्। रात्री। प्रति। धीयताम्। शम्। उषाः। नः। वि। उच्छतु। ७२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

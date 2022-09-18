@@ -36,7 +36,6 @@ of two readings.⌋
 No slayer of thy husband or his father, gentle and bright, bring blessing on the cattle. Loving thy husband's father, bring forth heroes. Tend well this household fire: be soft and pleasant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अदेवृऽघ्नी। अपतिऽघ्नी। इह। एधि। शिवा। पशुऽभ्यः। सुऽयमा। सुऽवर्चाः। प्रजाऽवती। वीरऽसूः। देवृऽकामा। स्योना। इमम्। अग्निम्। गार्हऽपत्यम्। सपर्य। २.१८।

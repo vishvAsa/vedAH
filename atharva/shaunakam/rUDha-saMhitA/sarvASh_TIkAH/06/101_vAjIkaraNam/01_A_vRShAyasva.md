@@ -22,10 +22,9 @@ pomegranate rind and mustard oil take the place of *arka*.⌋
 Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat penis: hoc tu caede feminam.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। वृषऽयस्व। श्वसिहि। वर्धस्व। प्रथयस्व। च। यथाऽअङ्गम्। वर्धताम्। शेप:। तेन। योषितम्। इत्। जहि। १०१.१।
+आ। वृषऽयस्व। श्वसिहि। वर्धस्व। प्रथयस्व। च। यथाऽअङ्गम्। वर्धताम्। शेपः। तेन। योषितम्। इत्। जहि। १०१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

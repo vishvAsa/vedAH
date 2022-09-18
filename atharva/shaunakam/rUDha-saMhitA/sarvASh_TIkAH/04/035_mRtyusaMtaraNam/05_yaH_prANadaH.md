@@ -73,10 +73,9 @@ attempt at emendation) reads
 Which hath become breath-giver, life-bestower; to which the worlds flow full of oil and fatness, To whom belong all the refulgent regions,--I with this Odana will conquer Mrityu.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। प्राणद:। प्राणदऽवान्। बभूव। यस्मै। लोका:। घृतऽवन्त:। क्षरन्ति। ज्योतिष्मती:। प्रऽदिश:। यस्य। सर्वा:। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.५।
+यः। प्राणदः। प्राणदऽवान्। बभूव। यस्मै। लोकाः। घृतऽवन्तः। क्षरन्ति। ज्योतिष्मतीः। प्रऽदिशः। यस्य। सर्वाः। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

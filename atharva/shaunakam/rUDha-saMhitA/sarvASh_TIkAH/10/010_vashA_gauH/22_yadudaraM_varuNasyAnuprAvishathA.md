@@ -18,7 +18,6 @@ thence the priest (*brahmán*) called thee up; for he knew thy guidance
 When into Varuna's belly thou hadst found a passage for thy- self, The Brahman called thee thence, for he knew how to guide and lead thee forth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। उदरम्। वरुणस्य। अनुऽप्राविशथाः। वशे। ततः। त्वा। ब्रह्मा। उत्। अह्वयत्। सः। हि। नेत्रम्। अवेत्। तव। १०.२२।

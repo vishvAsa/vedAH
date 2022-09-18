@@ -21,7 +21,6 @@ that spoils the meter in our **c**.
 I have dispelled the piercing pains from feet, knees, hips, and hinder parts, And spine, and from the neck and nape the malady that racked the head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पादाभ्याम्। ते। जानुऽभ्याम्। श्रोणिऽभ्याम्। परि। भंससः। अनूकात्। अर्षणीः। उष्णिहाभ्यः। शीर्ष्णः। रोगम्। अनीनशम्। १३.२१।

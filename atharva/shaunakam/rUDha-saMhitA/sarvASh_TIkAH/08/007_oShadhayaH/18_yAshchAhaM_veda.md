@@ -22,10 +22,9 @@ we are not acquainted with,' to correspond with W's version of
 The Plants I know myself, the plants that with mine eye I look upon, Plants yet unknown, and those we know, wherein we find that power is stored,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। च। अहम्। वेद। वीरुध:। या:। च। पश्यामि। चक्षुषा। अज्ञाता:। जानीम:। च। या:। यासु। विद्म। च। सम्ऽभृतम्। ७.१८।
+याः। च। अहम्। वेद। वीरुधः। याः। च। पश्यामि। चक्षुषा। अज्ञाताः। जानीमः। च। याः। यासु। विद्म। च। सम्ऽभृतम्। ७.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ the Anukr. should call the verse *virāj*.
 The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent Khadira for strength, This Agni hath put on: it yields clarified butter for this man. Again, again, from morn to morn. With this subdue thine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। अग्निः। प्रति। अमुञ्चत। सः। अस्मै। दुहे। आज्यम्। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.६।

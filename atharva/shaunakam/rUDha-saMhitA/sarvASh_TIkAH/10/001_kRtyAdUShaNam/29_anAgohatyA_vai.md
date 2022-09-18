@@ -27,7 +27,6 @@ very badly defined by the Anukr. Ppp. reads in **a** *-hatyam* and
 The slaughter of an innocent, O Kritya, is an awful deed. Slay not cow, horse, or man of ours. In whatsoever place thou art concealed we rouse thee up there- from: become thou lighter than a leaf.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनागःऽहत्या। वै। भीमा। कृत्ये। मा। नः। गाम्। अश्वम्। पुरुषम्। वधीः। यत्रऽयत्र। असि। निऽहिता। ततः। त्वा। उत्। स्थापयामसि। पर्णात्। लघीयसी। भव। १.२९।

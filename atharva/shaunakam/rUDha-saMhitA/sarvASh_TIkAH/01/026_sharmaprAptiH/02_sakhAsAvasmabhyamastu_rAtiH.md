@@ -31,10 +31,9 @@ yasya.*
 Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar with splendid Wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सखा। असौ। अस्मभ्यम्। अस्तु। राति:। सखा। इन्द्र:। भग:। सविता। चित्रऽराधा:।
+सखा। असौ। अस्मभ्यम्। अस्तु। रातिः। सखा। इन्द्रः। भगः। सविता। चित्रऽराधाः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

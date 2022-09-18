@@ -24,7 +24,6 @@ the Anukr. there is no ⌊sufficient⌋ reason. Ppp. reads for **b** *yatre
 On whom is food, barley and rice, to whom these Races Five belong, Homage to her, P arjanya's wife, to her whose marrow is the rain!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। अन्नम्। व्रीहिऽयवौ। यस्याः। इमाः। पञ्च। कृष्टयः। भूम्यै। पर्जन्यऽपत्न्यै। नमः। अस्तु। वर्षऽमेदसे। १.४२।

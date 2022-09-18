@@ -18,10 +18,9 @@ earth, bearing all food, O dwelling, do not thou injure those accepting
 Rich in prosperity, rich in milk, founded and built upon the earth, Injure not thy receivers, House who holdest food of every sort!'
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्जस्वती। पयस्वती। पृथिव्याम्। निऽमिता। मिता। विश्वऽअन्नम्। बिभ्रती। शाले। मा। हिंसी:। प्रतिऽगृह्णत:। ३.१६।
+ऊर्जस्वती। पयस्वती। पृथिव्याम्। निऽमिता। मिता। विश्वऽअन्नम्। बिभ्रती। शाले। मा। हिंसीः। प्रतिऽगृह्णतः। ३.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,7 +26,6 @@ in **d**.
 Remain ye even here and go no farther: strengthen this man, ye Cows, with plenteous offspring. May Dawns that come for glory, bright with Soma, here may all Gods fix and enchant your spirits.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। इत्। असाथ। न। परः। गमाथ। इमम्। गावः। प्रऽजया। वर्धनयाथ। शुभम्। यतीः। उस्रियाः। सोमऽवर्चसः। विश्वे। देवाः। क्रन्। इह। वः। मनांसि। १.३२।

@@ -18,10 +18,9 @@ living man.
 Come back as thou art called to come, knowing the outlet of the path, And the Approach and its ascent, the way of every living man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनुऽहूत:। पुन:। आ। इहि। विद्वान्। उत्ऽअयनम्। पथ:। आऽरोहणम्। आऽक्रमणम्। जीवत:ऽजीवत:। अयनम्। ३०.७।
+अनुऽहूतः। पुनः। आ। इहि। विद्वान्। उत्ऽअयनम्। पथः। आऽरोहणम्। आऽक्रमणम्। जीवतःऽजीवतः। अयनम्। ३०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

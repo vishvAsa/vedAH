@@ -7,7 +7,6 @@ title = "०२७ अग्निः"
 27. Āprī-hymn: to various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अग्निः।  
@@ -18,8 +17,6 @@ title = "०२७ अग्निः"
 
 [Brahman.—dvādaśakam. āgneyam. 1. bṛhatīgarbhā triṣṭubh; 2. 2-p. sāmnām bhuriganuṣṭubh; 3. 2-p. ārcī bṛhatī; 4. 2-p. sāmnī bhurigbṛhatī; 5. 2-p. sāmnī triṣṭubh; 6. 2-p. virāṇ nāma gāyatrī; 7. 2-p. sāmnī bṛhatī (imā ⌊2-7?⌋ ekāvasānāḥ); 8. saṁstārapan̄kti; 9. 6-p. anuṣṭubgarbhā parātijagatī; 10-12. purauṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Ludwig, p. 434; Griffith, i. 232.—Weber, xviii. 269, gives a gener
 
 An Apri or Propitiatory hymn
 </details>
+

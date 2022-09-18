@@ -25,7 +25,6 @@ Kāuś. 13. 12 and 54. 5 *gandhapravādās* (likewise in the comm. to 24.
 Scent that hath risen from thee, O Earth, the fragrance which. growing herbs and plants and waters carry, Shared by Apsarases, shared by Gandharvas therewith make thou me sweet: let no man hate me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। गन्धः। पृथिवि। सम्ऽबभूव। यम्। बिभ्रति। ओषधयः। यम्। आपः। यम्। गन्धर्वाः। अप्सरसः। च। भेजिरे। तेन। मा। सुरभिम्। कृणु। मा। नः। द्विक्षत। कः। चन। १.२३।

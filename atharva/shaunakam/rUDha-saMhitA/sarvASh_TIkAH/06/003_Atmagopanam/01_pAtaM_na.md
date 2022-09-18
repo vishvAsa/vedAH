@@ -20,10 +20,9 @@ doubtless corrupt; we ought to read *síndhavaḥ sapta pātána*.
 Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters' Child, and Rivers Seven. May Vishnu guard us, and the Sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पातम्। न:। इन्द्रापूषणा। अदिति:। पान्तु। मरुत:। अपाम्। नपात्। सिन्धव:। सप्त। पातन। पातु। न:। विष्णु:। उत। द्यौ:। ३.१।
+पातम्। नः। इन्द्रापूषणा। अदितिः। पान्तु। मरुतः। अपाम्। नपात्। सिन्धवः। सप्त। पातन। पातु। नः। विष्णुः। उत। द्यौः। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

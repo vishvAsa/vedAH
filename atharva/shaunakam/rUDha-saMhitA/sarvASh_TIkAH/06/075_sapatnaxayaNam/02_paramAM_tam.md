@@ -20,10 +20,9 @@ three have *-yasi* at end of **c**.
 Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never more shall be return in all the years that are to come.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परमाम्। तम्। पराऽवतम्। इन्द्र:। नुदतु। वृत्रऽहा। यत:। न। पुन:। आऽअयति। शश्वतीभ्य:। समाभ्य:। ७५.२।
+परमाम्। तम्। पराऽवतम्। इन्द्रः। नुदतु। वृत्रऽहा। यतः। न। पुनः। आऽअयति। शश्वतीभ्यः। समाभ्यः। ७५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

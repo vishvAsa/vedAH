@@ -23,10 +23,9 @@ omitted over the *āu*). ⌊Delbrück, *Vergleichende Syntax*, i.386, joins
 Desire my body, love my feet, love thou mine eyes, and love my legs. Let both thine eyes and hair, fond girl! be dried and parched. through love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वाञ्छ। मे। तन्वम्। पादौ। वाञ्छ। अक्ष्यौ। वाञ्छ। सक्थ्यौ। अक्ष्यौ। वृषण्यन्त्या:। केशा:। माम्। ते। कामेन। शुष्यन्तु। ९.१।
+वाञ्छ। मे। तन्वम्। पादौ। वाञ्छ। अक्ष्यौ। वाञ्छ। सक्थ्यौ। अक्ष्यौ। वृषण्यन्त्याः। केशाः। माम्। ते। कामेन। शुष्यन्तु। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

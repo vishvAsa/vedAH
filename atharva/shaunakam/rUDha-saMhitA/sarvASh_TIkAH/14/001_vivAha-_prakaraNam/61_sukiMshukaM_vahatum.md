@@ -26,7 +26,6 @@ loke*. The verse is a good *triṣṭubh*.
 Mount this, all-hued. gold tinted, strong wheeled, fashioned of Kinsuka, this chariot lightly rolling, Bound for the world of life immortal, Surya! Made for thy lord a happy bride's procession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुऽकिंशुकम्। वहतुम्। विश्वऽरूपम्। हिरण्यऽवर्णम्। सुऽवृतम्। सुऽचक्रम्। आ। रोह। सूर्ये। अमृतस्य। लोकम्। स्योनम्। पतिऽभ्यः। वहतुम्। कृणु। त्वम्। १.६१।

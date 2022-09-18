@@ -29,10 +29,9 @@ Anukr. says *ekaviṅśatiḥ*.
 Lift up the mighty cask and pour down water; let the wind blow, and lightnings flash around us. Let sacrifice be paid, and, widely scattered, let herbs and plants be full of joy and gladness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-महान्तम्। कोशम्। उत्। अच। अभि। सिञ्च। सऽविद्युतम्। भवतु। वातु। वात:। तन्वताम्। यज्ञम्। बहुऽधा। विऽसृष्टा:। आऽनन्दिनी:। ओषधय:। भवन्तु। १५.१६।
+महान्तम्। कोशम्। उत्। अच। अभि। सिञ्च। सऽविद्युतम्। भवतु। वातु। वातः। तन्वताम्। यज्ञम्। बहुऽधा। विऽसृष्टाः। आऽनन्दिनीः। ओषधयः। भवन्तु। १५.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

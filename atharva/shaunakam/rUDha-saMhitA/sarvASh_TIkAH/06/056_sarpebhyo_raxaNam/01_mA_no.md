@@ -24,10 +24,9 @@ mouth, doubtless correctly. MB. (ii. 1. 5) has a parallel phrase:
 Let not the serpent slay us, O Gods, with our children and our folk. Let it not close the opened mouth nor open that which now is closed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। न:। देवा:। अहि:। वधीत्। सऽतोकान्। सहऽपुरुषान्। सम्ऽयतम्। न। वि। स्परत्। विऽआत्तम्। न। सम्। यतम्। नम:। देवऽजनेभ्य:। ५६.१।
+मा। नः। देवाः। अहिः। वधीत्। सऽतोकान्। सहऽपुरुषान्। सम्ऽयतम्। न। वि। स्परत्। विऽआत्तम्। न। सम्। यतम्। नमः। देवऽजनेभ्यः। ५६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

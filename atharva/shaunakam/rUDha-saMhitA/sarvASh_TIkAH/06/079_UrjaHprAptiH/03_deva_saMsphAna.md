@@ -26,10 +26,9 @@ comm., is addressed to the sun.*
 Thou, God bedewed with drops, art Lord of infinite prosperity. Grant us thereof, give us thereof: may we enjoy this boon of thine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देव। सम्ऽस्फान। सहस्रऽपोषस्य। ईशिषे। तस्य। न:। रास्व। तस्य। न:। धेहि। तस्य। ते। भक्तिऽवांस:। स्याम। ७९.३।
+देव। सम्ऽस्फान। सहस्रऽपोषस्य। ईशिषे। तस्य। नः। रास्व। तस्य। नः। धेहि। तस्य। ते। भक्तिऽवांसः। स्याम। ७९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ with, for **c**, *ā́paś ca viśváśambhuvaḥ*.
 Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, he who blesseth all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्ऽसु। मे। सोम:। अब्रवीत्। अन्त:। विश्वानि। भेषजा। अग्निम्। च। विश्वऽशंभुवम्।
+अप्ऽसु। मे। सोमः। अब्रवीत्। अन्तः। विश्वानि। भेषजा। अग्निम्। च। विश्वऽशंभुवम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

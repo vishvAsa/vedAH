@@ -20,10 +20,9 @@ accent *yáthā* in **c.**
 Seeking a husband she hath come! and I came longing for a wife: Even as a loudly-neighing steed may fate and fortune have I met.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इयम्। अगन्। पतिऽकामा। जनिऽकाम:। अहम्। आ। अगमम्। अश्व:। कनिक्रदत्। यथा। भगेन। अहम्। सह। आ। अगमम्। ३०.५।
+आ। इयम्। अगन्। पतिऽकामा। जनिऽकामः। अहम्। आ। अगमम्। अश्वः। कनिक्रदत्। यथा। भगेन। अहम्। सह। आ। अगमम्। ३०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

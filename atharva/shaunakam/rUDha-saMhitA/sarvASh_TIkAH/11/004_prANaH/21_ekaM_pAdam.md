@@ -26,7 +26,6 @@ reluctant to translate *haṅsa* by 'goose.'⌋
 Hansa, what time he rises up, leaves in the flood one foot un- moved. If he withdrew it there would be no more tomorrow or to-day, Never would there be night, no more would daylight shine or morning flush.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकम्। पादम्। न। उत्। खिदति। सलिलात्। हंसः। उत्ऽचरन्। यत्। अङ्ग। सः। तम्। उत्ऽखिदेत्। न। एव। अद्य। न। श्वः। स्यात्। न। रात्री। न। अहः। स्यात्। न। वि। उच्छेत्। कदा। चन। ६.२१।

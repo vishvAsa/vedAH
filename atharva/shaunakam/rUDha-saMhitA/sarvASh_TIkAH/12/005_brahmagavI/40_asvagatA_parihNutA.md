@@ -18,7 +18,6 @@ The Pet. Lexx. conjecture *pari-hnu* (not found elsewhere) to mean
 Homelessness is she when denied her rights.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्वगता। परिऽह्नुता। ९.२।

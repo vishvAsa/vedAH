@@ -22,10 +22,9 @@ only two verses ago, he this time declares *kṛśana* a "name of gold."
 We stay disease and indigence, and chase Sadanvas with the Shell. May the all-healing Shell that bears the pearl preserve us from distress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शङ्खेन। अमीवाम्। अमतिम्। शङ्खेन। उत। सदान्वा:। शङ्ख:। न:। विश्वऽभेषज:। कृशन:। पातु। अंहस:। १०.३।
+शङ्खेन। अमीवाम्। अमतिम्। शङ्खेन। उत। सदान्वाः। शङ्खः। नः। विश्वऽभेषजः। कृशनः। पातु। अंहसः। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

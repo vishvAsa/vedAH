@@ -32,10 +32,9 @@ kṣiyanti* as *saṁsāreṇa nihīnā bhavanti*—as if *kṣiyanti* came from
 Through me alone all eat the food that feeds them, each man who sees, breathes, hears, the word out-spoken. They know it not, but yet they dwell beside me. Hear, one and all, the truth as I declare it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मया। स:। अन्नम्। अत्ति। य:। विऽपश्यति। य:। प्राणति। य:। ईम्। शृणोति। उक्तम्। अमन्तव:। माम्। ते। उप। क्षियन्ति। श्रुधि। श्रुत। श्रत्ऽधेयम्। ते। वदामि। ३०.४।
+मया। सः। अन्नम्। अत्ति। यः। विऽपश्यति। यः। प्राणति। यः। ईम्। शृणोति। उक्तम्। अमन्तवः। माम्। ते। उप। क्षियन्ति। श्रुधि। श्रुत। श्रत्ऽधेयम्। ते। वदामि। ३०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

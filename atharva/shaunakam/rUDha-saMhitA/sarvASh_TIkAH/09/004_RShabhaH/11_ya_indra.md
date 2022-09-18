@@ -23,10 +23,9 @@ ear of the released bull.
 Let the priest joyfully extol the limbs and members of the Bull Who moved and roared among the kine as Indra moves among the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। इन्द्र:ऽइव। देवेषु। गोषु। एति। विऽवावदत्। तस्य। ऋषभस्य। अङ्गानि। ब्रह्मा। सम्। स्तौतु। भद्रया। ४.११।
+यः। इन्द्रःऽइव। देवेषु। गोषु। एति। विऽवावदत्। तस्य। ऋषभस्य। अङ्गानि। ब्रह्मा। सम्। स्तौतु। भद्रया। ४.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ bahudhā bahūni tebhyaḥ sarvebhyo* etc.
 Serpents which fire or plants have generated, those which have sprung from waters or the lightning, Whose mighty broods are found in many places, these serpents we will reverently worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अग्निःऽजाः। ओषधिऽजाः। अहीनाम्। ये। अप्सुऽजाः। विऽद्युतः। आऽबभूवुः। येषाम्। जातानि। बहुऽधा। महान्ति। तेभ्यः। सर्पेभ्यः। नमसा। विधेम। ४.२३।

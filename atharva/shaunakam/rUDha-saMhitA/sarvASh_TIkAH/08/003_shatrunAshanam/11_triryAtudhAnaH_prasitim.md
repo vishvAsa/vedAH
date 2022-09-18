@@ -29,10 +29,9 @@ require us to regard *tám* as object of *sphūrjáyan*.
 Thrice, Agni, let thy noose surround the demon who with his falsehood injures holy Order. Loud roaring with thy flame, Jatavedas, fetter him in the pre- sense of the singer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रि:। यातुऽधान:। प्रऽसितिम्। ते। एतु। ऋतम्। य:। अग्ने। अनृतेन। हन्ति। तम्। अर्चिषा। स्फूर्जयन्। जातऽवेद:। सम्ऽअक्षम्। एनम्। गृणते। नि। युङ्ग्धि ‍। ३.११।
+त्रिः। यातुऽधानः। प्रऽसितिम्। ते। एतु। ऋतम्। यः। अग्ने। अनृतेन। हन्ति। तम्। अर्चिषा। स्फूर्जयन्। जातऽवेदः। सम्ऽअक्षम्। एनम्। गृणते। नि। युङ्ग्धि ‍। ३.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ quoted Anukr.: *pañcame 'ṣṭāu*.
 Let her, the Yatudhani eat son, sister, and her daughter's. child. Now let the twain by turns destroy the wild-haired Yatudhanis- and crush down Arayis to the earth!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुत्रम्। अत्तु। यातुऽधानी:। स्वसारम्। उत। नप्त्यम्। अध। मिथ:। विऽकेश्य:। वि। घ्नताम्। यातुऽधान्य:। वि। तृह्यन्ताम्। अराय्य:।
+पुत्रम्। अत्तु। यातुऽधानीः। स्वसारम्। उत। नप्त्यम्। अध। मिथः। विऽकेश्यः। वि। घ्नताम्। यातुऽधान्यः। वि। तृह्यन्ताम्। अराय्यः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

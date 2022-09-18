@@ -23,10 +23,9 @@ do not properly go together in any *pada*-text.
 If thou shouldst run three leagues away, five leagues, a horse's daily stage, Thence thou shalt come to me again and be the father of our sons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। धावसि। त्रिऽयोजनम्। पञ्चऽयोजनम्। आश्विनम्। तत:। त्वम्। पुन:। आऽअयसि। पुत्राणाम्। न:। अस:। पिता। १३१.३।
+यत्। धावसि। त्रिऽयोजनम्। पञ्चऽयोजनम्। आश्विनम्। ततः। त्वम्। पुनः। आऽअयसि। पुत्राणाम्। नः। असः। पिता। १३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

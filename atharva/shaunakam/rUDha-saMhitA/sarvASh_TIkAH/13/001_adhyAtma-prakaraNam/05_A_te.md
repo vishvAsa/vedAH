@@ -36,7 +36,6 @@ see note to Kāuś. 16. 8. ⌊Ppp., like TB., puts *mṛdho* before *vy ā-* in
 For thee hath Rohita obtained dominion, scattered thine ene- mies, become thy safeguard. So by the potent Sakvaris let Heaven and Earth be milked to- yield thee all thy wishes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। ते। राष्ट्रम्। इह। रोहितः। अहार्षीत्। वि। आस्थत्। मृधः। अभयम्। ते। अभूत्। तस्मै। ते। द्यावापृथिवी इति। रेवतीभिः। कामम्। दुहाथाम्। इह। शक्वरीभिः। १.५।

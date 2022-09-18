@@ -20,10 +20,9 @@ verse.
 At this our second offering may Indra, Maruts, and Visve Devas never fail us. Still may the favour of the Gods be with us, blest with long life and speaking words that please them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वे। देवा:। मरुत:। इन्द्र:। अस्मान्। अस्मिन्। द्वितीये। सवने। न। जह्यु:। आयुष्मन्त:। प्रियम्। एषाम्। वदन्त:। वयम्। देवानाम्। सुऽमतौ। स्याम। ४७.२।
+विश्वे। देवाः। मरुतः। इन्द्रः। अस्मान्। अस्मिन्। द्वितीये। सवने। न। जह्युः। आयुष्मन्तः। प्रियम्। एषाम्। वदन्तः। वयम्। देवानाम्। सुऽमतौ। स्याम। ४७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

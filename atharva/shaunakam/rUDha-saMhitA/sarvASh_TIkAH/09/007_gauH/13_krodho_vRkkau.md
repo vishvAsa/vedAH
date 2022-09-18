@@ -17,7 +17,6 @@ The verse follows our vs. 17 in Ppp.
 Wrath is the kidneys, anger the testes, offspring the generative organ.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रोधः। वृक्कौ। मन्युः। आण्डौ। प्रऽजा। शेपः। १२.१३।

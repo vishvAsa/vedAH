@@ -20,10 +20,9 @@ Hillebrandt, *Mythologie*, i. 65.⌋
 Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my breath and vital air be gracious unto this mine eye.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवेभ्य:। अधि। जात:। असि। सोमस्य। असि। सखा। हित:। स:। प्राणाय। विऽआनाय। चक्षुषे। मे। अस्मै। मृड। ४.७।
+देवेभ्यः। अधि। जातः। असि। सोमस्य। असि। सखा। हितः। सः। प्राणाय। विऽआनाय। चक्षुषे। मे। अस्मै। मृड। ४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

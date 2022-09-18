@@ -19,10 +19,9 @@ hymn.
 Whether your thoughts are turned away, or bound and fastened here or there, We draw them hitherward again: let your mind firmly rest on me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। व:। मन:। पराऽगतम्। यत्। बध्दम्। इह। वा। इह। वा। तत्। व:। आ। वर्तयामसि। मयि। व:। रमताम्। मन:। १३.४।
+यत्। वः। मनः। पराऽगतम्। यत्। बध्दम्। इह। वा। इह। वा। तत्। वः। आ। वर्तयामसि। मयि। वः। रमताम्। मनः। १३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

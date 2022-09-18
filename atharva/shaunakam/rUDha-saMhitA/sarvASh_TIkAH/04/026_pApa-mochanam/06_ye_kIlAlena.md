@@ -20,10 +20,9 @@ if the word were a neut. pl. from the stem *śaknuvánt*. Ppp. has in
 Ye who delight in nectar and in fatness, ye without whom men have no strength or power, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये इति। कीलालेन। तर्पयथ:। ये इति। घृतेन। याभ्याम्‌। ऋते। न। किम्। चन। शक्नुवन्ति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। न:। मुञ्चतम्। अंहस:। २६.६।
+ये इति। कीलालेन। तर्पयथः। ये इति। घृतेन। याभ्याम्‌। ऋते। न। किम्। चन। शक्नुवन्ति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

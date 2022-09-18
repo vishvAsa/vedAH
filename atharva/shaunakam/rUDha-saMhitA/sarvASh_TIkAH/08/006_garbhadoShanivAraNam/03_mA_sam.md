@@ -20,10 +20,9 @@ Ppp. reads *javam* instead of *bajam* in **d**. The comm. identifies
 Approach not, come not hitherward: creep not thou in-between her thighs. I set, to guard her, Baja, that which chases him of evil name.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। सम्। वृत:। मा। उप। सृप:। ऊरू इति। मा। अव। सृप:। अन्तरा। कृणोमि। अस्यै। भेषजम्। बजम्। दुर्नामऽचातनम्। ६.३।
+मा। सम्। वृतः। मा। उप। सृपः। ऊरू इति। मा। अव। सृपः। अन्तरा। कृणोमि। अस्यै। भेषजम्। बजम्। दुर्नामऽचातनम्। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

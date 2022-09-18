@@ -23,10 +23,9 @@ under the *śa* of *śatám*.⌋
 Move both together; do not leave the body. Let both the breathings stay for thee united. Waxing in strength live thou a hundred autumns. Thy noblest guardian and thy lord is Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। क्रामतम्। मा। जहीतम्। शरीरम्। प्राणापानौ। ते। सऽयुजौ। इह। स्ताम्। शतम्। जीव। शरद:। वर्धमान:। अग्नि:। ते। गोपा:। अधिऽपा:। वसिष्ठ:। ५५.२।
+सम्। क्रामतम्। मा। जहीतम्। शरीरम्। प्राणापानौ। ते। सऽयुजौ। इह। स्ताम्। शतम्। जीव। शरदः। वर्धमानः। अग्निः। ते। गोपाः। अधिऽपाः। वसिष्ठः। ५५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

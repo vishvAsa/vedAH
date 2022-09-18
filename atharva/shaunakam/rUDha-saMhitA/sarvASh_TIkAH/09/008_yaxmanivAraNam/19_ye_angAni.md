@@ -19,7 +19,6 @@ Ppp. reads in **b** *ropaṇā saha*. Some of our mss. (P.M.O.p.m.) read
 Consumptions with their Colic pains which make thy limbs insensible I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अङ्गानि। मदयन्ति। यक्ष्मासः। रोपणाः। तव। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१९।

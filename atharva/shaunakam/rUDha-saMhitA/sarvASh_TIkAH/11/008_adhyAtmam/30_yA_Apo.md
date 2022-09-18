@@ -18,7 +18,6 @@ Prajāpati.
 All Waters, all the Deities. Viraj with Brahma at her side: Brahma into the body passed: Prajapati is Lord thereof.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। आपः। याः। च। देवताः। या। विऽराट्। ब्रह्मणा। सह। शरीरम्। ब्रह्म। प्र। अविशत्। शरीरे। अधि। प्रजाऽपतिः। १०.३०।

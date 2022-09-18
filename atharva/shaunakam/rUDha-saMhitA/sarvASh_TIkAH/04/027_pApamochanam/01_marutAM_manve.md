@@ -26,10 +26,9 @@ end *énasas*.
 I think upon the Maruts: may they bless me, may they assist me to this wealth in battle. I call them like swift well-trained steeds to help us. May they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मरुताम्। मन्वे। अधि। मे। ब्रुवन्तु। प्र। इमम्। वाजम्। वाजऽसाते। अवन्तु। आशूनऽइव। सुऽयमान्। अह्वे। ऊतये। ते। न:। मुञ्चन्तु। अंहस:। २७.१।
+मरुताम्। मन्वे। अधि। मे। ब्रुवन्तु। प्र। इमम्। वाजम्। वाजऽसाते। अवन्तु। आशूनऽइव। सुऽयमान्। अह्वे। ऊतये। ते। नः। मुञ्चन्तु। अंहसः। २७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

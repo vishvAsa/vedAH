@@ -21,10 +21,9 @@ and puts it in 4, after all the rest.
 These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wives of Vata-- From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा:। या:। देवी:। प्रऽदिश:। चतस्र:। वातऽपत्नी:। अभि। सूर्य:। विऽचष्टे। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.४।
+इमाः। याः। देवीः। प्रऽदिशः। चतस्रः। वातऽपत्नीः। अभि। सूर्यः। विऽचष्टे। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

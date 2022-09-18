@@ -23,10 +23,9 @@ two find place thus in our text.
 With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, with thy sharpened glow, with rays that flash with points of flame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विषेण। भङ्गुरऽवत:। प्रति। स्म। रक्षस:। जहि। अग्ने। तिग्मेन। शोचिषा। तपु:ऽअग्राभि:। अर्चिऽभि:। ३.२३।
+विषेण। भङ्गुरऽवतः। प्रति। स्म। रक्षसः। जहि। अग्ने। तिग्मेन। शोचिषा। तपुःऽअग्राभिः। अर्चिऽभिः। ३.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

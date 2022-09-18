@@ -22,7 +22,6 @@ uses the latter half-verse, not in a way to cast light on its meaning.
 Unto the world of Svarga shalt thou lead us: there may we dwell beside our wife and children. I take thy hand Let not Destruction, let not Malignity come hither and subdue us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वःऽगम्। लोकम्। अभि। नः। नयासि। सम्। जायया। सह। पुत्रैः। स्याम। गृह्णामि। हस्तम्। अनु। मा। आ। एतु। अत्र। मा। नः। तारीत्। निःऽऋतिः। मो इति। अरातिः। ३.१७।

@@ -49,7 +49,6 @@ what black magic this is.⌋
 Ye are the power of Indra, ye the force and strength of Indra, ye his hero might and manliness. I join you with the bonds of Prayer to the victorious enterprise.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रस्य। ओजः। स्थ। इन्द्रस्य। सहः। स्थ। इन्द्रस्य। बलम्। स्थ। इन्द्रस्य। वीर्यम्। स्थ। इन्द्रस्य। नृम्णम्। स्थ। जिष्णवे। योगाय। ब्रह्मऽयोगैः। वः। युनज्मि। ५.१।

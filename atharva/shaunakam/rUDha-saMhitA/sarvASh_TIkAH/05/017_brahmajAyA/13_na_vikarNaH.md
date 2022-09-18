@@ -18,10 +18,9 @@ Muir understands a "son" of such description.
 No broad-browed calf with wide-set ears is ever in his homestead born. Within whose kingdom is detained, through want of sense, a Brahman's dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। विऽकर्ण:। पृथुऽशिरा:। तस्मिन्। वेश्मनि। जायते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१३।
+न। विऽकर्णः। पृथुऽशिराः। तस्मिन्। वेश्मनि। जायते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

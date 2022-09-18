@@ -28,7 +28,6 @@ division as occurring after *cakṛmá*. The verse is quoted in Kāuś. 71.
 From any evil we have done, act of impurity or sin, Let waters purge me and from all that comes from Agni Breaker-up.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। रिप्रम्। शमलम्। चकृम। यत्। च। दुःऽकृतम्। आपः। मा। तस्मात्। शुम्भन्तु। अग्नेः। सम्ऽकसुकात्। च। यत्। २.४०।

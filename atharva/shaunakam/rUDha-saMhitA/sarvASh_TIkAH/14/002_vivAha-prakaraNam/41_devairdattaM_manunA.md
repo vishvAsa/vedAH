@@ -26,7 +26,6 @@ with 1. 25. The verse is a good *triṣṭubh*, if emended as proposed in
 Sent by the Gods associate with Manu, the vesture of the bride, the nuptial garment, He who bestows this on a thoughtful Brahman, drives from the marriage-bed all evil demons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवैः। दत्तम्। मनुना। साकम्। एतत्। वाधूऽयम्। वासः। वध्वः। च। वस्त्रम्। यः। ब्रह्मणे। चिक‍ितुषे। ददाति। सः। इत्। रक्षांसि। तल्पानि। हन्ति। २.४१।

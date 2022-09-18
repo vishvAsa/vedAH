@@ -7,7 +7,6 @@ title = "०५४ अमित्रदम्भनम्"
 54. To secure and increase some one's superiority.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमित्रदम्भनम्।  
@@ -18,8 +17,6 @@ title = "०५४ अमित्रदम्भनम्"
 
 [Brahman.—āgnīṣomīyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 275.—He entitles it "Benediction on a newly elected K
 
 A benediction on a newly elected King
 </details>
+

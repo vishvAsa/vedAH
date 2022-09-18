@@ -21,10 +21,9 @@ defines the meter correctly, according to its methods.
 Whatever of his body hath been taken, plundered, borne off, or eaten by Pisachas, This, Agni, knowing it, again bring hither! We give back flesh and spirit to his body.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अस्य। हृतम्। विऽहृतम्। यत्। पराऽभृतम्। आत्मन:। जग्धम्। यतमत्। पिशाचै:। तत्। अग्ने। विद्वान्। पुन:। आ। भर। त्वम्। शरीरे। मांसम्। असुम्। आ। ईरयाम:। २९.५।
+यत्। अस्य। हृतम्। विऽहृतम्। यत्। पराऽभृतम्। आत्मनः। जग्धम्। यतमत्। पिशाचैः। तत्। अग्ने। विद्वान्। पुनः। आ। भर। त्वम्। शरीरे। मांसम्। असुम्। आ। ईरयामः। २९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

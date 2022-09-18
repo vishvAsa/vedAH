@@ -23,10 +23,9 @@ under *úpa* accordingly.⌋
 With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children keep thou watch, over our bodies, kine, and lives.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। त्वा। नमसा। वयम्। होत:। वैश्वानर। स्तुम:। स:। न:। प्रऽजासु। आत्मऽसु। गोषु। प्राणेषु। जागृहि। १५.७।
+उप। त्वा। नमसा। वयम्। होतः। वैश्वानर। स्तुमः। सः। नः। प्रऽजासु। आत्मऽसु। गोषु। प्राणेषु। जागृहि। १५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ anuṣṭubh; 15. āsurī gāyatrī; 17. sāmnī bṛhatī.*\]
 She mounted up, she entered Consultation. Whoso knows this is fit to be consulted, and to his consultation come the people.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञऽऋत:। दक्षिणीय:। वासतेय:। भवति। य:। एवम्। वेद। १०.७।
+यज्ञऽऋतः। दक्षिणीयः। वासतेयः। भवति। यः। एवम्। वेद। १०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

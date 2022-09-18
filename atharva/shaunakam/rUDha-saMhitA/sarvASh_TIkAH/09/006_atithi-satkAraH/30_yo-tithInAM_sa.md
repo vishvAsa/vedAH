@@ -27,10 +27,9 @@ requires us to restore at the beginning *yó átith-*.
 The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapatya, that whereon they cook food is the South- ern Sacrificial Fire.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अतिथीनाम्। स:। आऽहवनीय:। य:। वेश्मनि। स:। गार्हऽपत्य:। यस्मिन्। पचन्ति। स:। दक्षिणऽअग्नि:। ७.१३।
+यः। अतिथीनाम्। सः। आऽहवनीयः। यः। वेश्मनि। सः। गार्हऽपत्यः। यस्मिन्। पचन्ति। सः। दक्षिणऽअग्निः। ७.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

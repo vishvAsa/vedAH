@@ -34,10 +34,9 @@ Here ends also the second *prapāṭhaka*.
 With monthly and six-monthly times and seasons, with the full year's sweet essence do we fill thee, May Indra, Agni, and all Gods together, showing no anger, grant thee what thou wishest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समानाम्। मासाम्। ऋतुऽभि:। त्वा। वयम्। सम्ऽवत्सरस्य। पयसा। पिपर्मि। इन्द्रग्नी इति। विश्वे। देवा:। ते। अनु। मन्यन्ताम्। अहृणीयमाना:।
+समानाम्। मासाम्। ऋतुऽभिः। त्वा। वयम्। सम्ऽवत्सरस्य। पयसा। पिपर्मि। इन्द्रग्नी इति। विश्वे। देवाः। ते। अनु। मन्यन्ताम्। अहृणीयमानाः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

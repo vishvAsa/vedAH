@@ -22,7 +22,6 @@ Ppp. betters the grammar of the last half-verse by reading for **d**
 Sacrifice of one night, or two, Sadyaskri, Ukthya, and Prakri, Call, deep-toned summons are therein, fine parts, through lore, of sacrifice,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकऽरात्रः। द्विऽरात्रः। सद्यःऽक्रीः। प्रऽक्रीः। उक्थ्याः। आऽउतम्। निऽहितम्। उत्ऽशिष्टे। यज्ञस्य। अणूनि। विद्यया। ९.१०।

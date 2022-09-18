@@ -7,7 +7,6 @@ title = "००६ शत्रुनाशनम्"
 6. Against enemies: with aśvatthá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "००६ शत्रुनाशनम्"
 [Jagadbījampuruṣa.—aṣṭarcam. vānaspatyāśvatthadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ A very acceptable emendation would be pári jātás, since pári is plainly acce
 
 Address to an amulet which is to secure the defeat of the wearer's enemies
 </details>
+

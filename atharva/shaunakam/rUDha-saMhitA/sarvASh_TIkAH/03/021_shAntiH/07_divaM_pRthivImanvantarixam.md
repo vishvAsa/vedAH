@@ -29,10 +29,9 @@ vs. 6 would reduce the first part ⌊vss. 1-7⌋ to the norm of this book.
 All fiery flames that follow after lightning, flashing o'er earth, through firmament and heaven, All that are in the wind and skyey regions--to all these Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवम्। पृथिवीम्। अनु। अन्तरिक्षम्। ये। विऽद्युतम्। अनुऽसंचरन्ति। ये। दिक्षु। अन्त:। ये। वाते। अन्त:। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.७।
+दिवम्। पृथिवीम्। अनु। अन्तरिक्षम्। ये। विऽद्युतम्। अनुऽसंचरन्ति। ये। दिक्षु। अन्तः। ये। वाते। अन्तः। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

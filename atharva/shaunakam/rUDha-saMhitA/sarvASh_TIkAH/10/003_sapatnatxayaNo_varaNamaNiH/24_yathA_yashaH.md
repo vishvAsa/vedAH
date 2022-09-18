@@ -18,7 +18,6 @@ Ppp. reads *jātavedasi* instead of *parameṣṭhini*.
 As glory dwelleth in the Lord of Life and in this God Supreme,. So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। प्रजाऽपतौ। यथा। अस्मिन्। परमेऽस्थिनि। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२४।

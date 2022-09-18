@@ -25,10 +25,9 @@ again as x. 5. 22 **c, d**. The comm. says that the bird is a crow.
 From all that woe and trouble may the Waters save and rescue me, Whate'er the Raven, black of hue, flying out hither ward, hath dropped.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। यत्। कृष्ण:। शकुनि। अभिऽनिष्पतन्। अपीपतत्। आप:। मा। तस्मात्। सर्वस्मात्। दु:ऽइतात्। पान्तु। अंहस:। ६६.१।
+इदम्। यत्। कृष्णः। शकुनि। अभिऽनिष्पतन्। अपीपतत्। आपः। मा। तस्मात्। सर्वस्मात्। दुःऽइतात्। पान्तु। अंहसः। ६६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ citations.⌋
 Power art thou, give me power. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओज:। असि। ओज:। मे। दा:। स्वाहा। १७.१।
+ओजः। असि। ओजः। मे। दाः। स्वाहा। १७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

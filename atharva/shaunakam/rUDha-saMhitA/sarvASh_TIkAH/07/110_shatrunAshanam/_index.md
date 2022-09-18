@@ -7,7 +7,6 @@ title = "११० शत्रुनाशनम्"
 110 (115). To Indra and Agni: for help.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "११० शत्रुनाशनम्"
 [Bhṛgu.—tṛcam. āindrāgam. 1. gāyatrī; 2. triṣṭubh; 3. anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx., vs. 3 not with vss. 1, 2. Kāug. (15. 11) employs the
 ### Translations
 Translated: Henry, 43, 121; Griffith, i. 381.
 </details>
+

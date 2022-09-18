@@ -19,10 +19,9 @@ TS. has a corresponding passage, in the form as given above.
 Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Vayu in the air, so let the Favour- ing Graces bow them down to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षे। वायवे। सम्। अनमन्। स:। आर्ध्नोत्। यथा। अन्तरिक्षे। वायवे। सम्ऽअनमन्। एव। मह्मम्। सम्ऽनम:। सम्। नमन्तु। ३९.३।
+अन्तरिक्षे। वायवे। सम्। अनमन्। सः। आर्ध्नोत्। यथा। अन्तरिक्षे। वायवे। सम्ऽअनमन्। एव। मह्मम्। सम्ऽनमः। सम्। नमन्तु। ३९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

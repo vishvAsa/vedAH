@@ -55,7 +55,6 @@ sāutyavivāha iti*.
 Wake to long life, watchful and understanding, yea, to a life shall last a hundred autumns Enter the house to be the household's mistress. A long long life let Savitar vouchsafe thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। बुध्यस्व। सुऽबुधा। बुध्यमाना। दीर्घायुऽत्वाय। शतऽशारदाय। गृहान्। गच्छ। गृहऽपत्नी। यथा। असः। दीर्घम्। ते। आयुः। सविता। कृणोतु। २.७५।

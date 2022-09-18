@@ -33,10 +33,9 @@ reads instead *pra hiṇomi*. ⌊Cf. Geldner, *Ved. Stud.* ii. 134.⌋
 Indra and Soma, let this hymn control you both, even as the girth encompasses two vigorous steeds The song of praise which I with wisdom offer you. Do ye, as Lords of men, animate these my prayers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। परि। वाम्। भूतु। विश्वत:। इयम्। मति:। कक्ष्या:। अश्वाऽइव। वाजिना। याम्। वाम्। होत्राम्। परिऽहिनोमि। मेधया। इमा। ब्रह्माणि। नृपती  इवेति नृपतीऽइव। जिन्वतम्। ४.६।
+इन्द्रासोमा। परि। वाम्। भूतु। विश्वतः। इयम्। मतिः। कक्ष्याः। अश्वाऽइव। वाजिना। याम्। वाम्। होत्राम्। परिऽहिनोमि। मेधया। इमा। ब्रह्माणि। नृपती  इवेति नृपतीऽइव। जिन्वतम्। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

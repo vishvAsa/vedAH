@@ -21,7 +21,6 @@ described. Ludwig translates this whole section ⌊and the next⌋, p. 529.
 Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्षिप्रम्। वै। तस्य। आऽहनने। गृध्राः। कुर्वते। ऐलबम्। १०.१।

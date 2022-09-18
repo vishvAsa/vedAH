@@ -19,10 +19,9 @@ Instead of *mitro aryamā*, Ppp. has, in **c**, *indraś cā ’gniś ca*.
 Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryaman, and both the Asvins make the bond.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽदानम्। व:। बृहस्पति:। सम्ऽदानम्। सविता। करत्। सम्ऽदानम्। मित्र:। अर्यमा। सम्ऽदानम्। भग:। अश्विना। १०३.१।
+सम्ऽदानम्। वः। बृहस्पतिः। सम्ऽदानम्। सविता। करत्। सम्ऽदानम्। मित्रः। अर्यमा। सम्ऽदानम्। भगः। अश्विना। १०३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

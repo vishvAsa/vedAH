@@ -32,10 +32,9 @@ an *anuṣṭubh*. The comm. gives *asnas* for *asthnas* in **b**.
 Thou art the healer, making whole, the healer of the broken bone: Make thou this whole, Arundhati!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रोहणी। असि। रोहणी। अस्थ्न:। छिन्नस्य। रोहणी। रोहय। इदम्। अरुन्धती। १२.१।
+रोहणी। असि। रोहणी। अस्थ्नः। छिन्नस्य। रोहणी। रोहय। इदम्। अरुन्धती। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

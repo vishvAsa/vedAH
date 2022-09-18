@@ -23,10 +23,9 @@ tathā*).
 Quae sunt equi vires, muli, capri, arietis, atque tauri, illas, cor- poris potens! in hoc homine depone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वस्य। अश्वतरस्य। अजस्य। पेत्वस्य। च। अथ। ऋषभस्य। ये। वाजा:। तान्। अस्मिन्। धेहि। तनूऽवशिन्। ४.८।
+अश्वस्य। अश्वतरस्य। अजस्य। पेत्वस्य। च। अथ। ऋषभस्य। ये। वाजाः। तान्। अस्मिन्। धेहि। तनूऽवशिन्। ४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

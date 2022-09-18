@@ -17,7 +17,6 @@ from thy heart, thy limbs we expel etc. etc.
 If the disease originates from love, from hatred, from the heart, Forth from the heart and from the limbs we charm the wasting malady.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। कामात्। अपऽकामात्। हृदयात्। जायते। परि। हृदः। बलासम्। अङ्गेभ्यः। बहिः। निः। मन्त्रयामहे। १३.८।

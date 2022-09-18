@@ -26,7 +26,6 @@ expect *pū́ruṣam* at end of **c**, as elsewhere in such a position.
 Then let him seek another Cow, whate'er his profit be in this. The Cow, not given, harms a man when he denies her at their prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्य। स्यात्। वशाऽभोगः। अन्याम्। इच्छेत। तर्ह‍ि। सः। हिंस्ते। अदत्ता। पुरुषम्। याचिताम्। च। न। दित्सति। ४.१३।

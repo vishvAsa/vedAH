@@ -19,10 +19,9 @@ evidently reckons three pādas, of 11 + 7 + 8 syllables.
 Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yoked coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भग:। युनक्तु। आऽशिष:। नु। अस्मै। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुज:। स्वाहा। २६.९।
+भगः। युनक्तु। आऽशिषः। नु। अस्मै। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुजः। स्वाहा। २६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ hantu;* and for **c** it has *ye ‘ntaṣ krimayo gavī naḥ.*
 Uprising let the Sun destroy, and when he sinketh, with his beams. The Worms that live within the cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽयन्। आदित्य:। क्रिमीन्। हन्तु। निऽम्रोचन्। हन्तु। रश्मिऽभि:। ये। अन्त:। क्रिमय:। गवि। ३२.१।
+उत्ऽयन्। आदित्यः। क्रिमीन्। हन्तु। निऽम्रोचन्। हन्तु। रश्मिऽभिः। ये। अन्तः। क्रिमयः। गवि। ३२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

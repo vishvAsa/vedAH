@@ -23,7 +23,6 @@ Ppp. combines in **a** *-to ‘mṛśat*, and reads in **b** *samākṛṇvāna�
 Arranging shoots, springs, Rohita considered this Universe in all its forms and phases. May he, gone up to heaven with mighty glory, anoint thy sov- ranty with milk and fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। रोहितः। अमृशत्। विश्वऽरूपम्। सम्ऽआकुर्वाणः। प्रऽरुहः। रुहः। च। दिवम्। रूढ्वा। महता। महिम्ना। सम्। ते। राष्ट्रम्। अनक्तु। पयसा। घृतेन। १.८।

@@ -26,10 +26,9 @@ of TA's **c** given under vs. 1 above) *yad devānāṁ cakṣuṣākaśīnā*,
 Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by the Fathers, Whereby my heart seems to leap up, may Agni the Hotar make that sacrifice well-offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। मा। हुतम्। अहुतम्। आऽजगाम। दत्तम्। पितृऽभि:। अनुऽमतम्। मनुष्यै:। यस्मात्। मे। मन:। उत्ऽइव। रारजीति। अग्नि:। तत्। होता। सुऽहुतम्। कृणोतु। ७१.२।
+यत्। मा। हुतम्। अहुतम्। आऽजगाम। दत्तम्। पितृऽभिः। अनुऽमतम्। मनुष्यैः। यस्मात्। मे। मनः। उत्ऽइव। रारजीति। अग्निः। तत्। होता। सुऽहुतम्। कृणोतु। ७१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

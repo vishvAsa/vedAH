@@ -28,10 +28,9 @@ beginning; in the third we have to read *’va* ⌊or *‘driḥ*⌋.
 Bent on advantage, mightier, gaining treasures, victor in war, the spell hath made thee keener. As, in the press, the stone to stalks of Soma, thus, Drum! go dancing to our foes' possessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रेय:ऽकेत:। वसुऽजित्। सहीयान्। संग्रामऽजित्। सम्ऽशित:। ब्रह्मणा। असि। अंशून्ऽइव। ग्रावा। अधिऽसवने। अद्रि:। गव्यन्। दुन्दुभे। अधि। नृत्य। वेद:। २०.१०।
+श्रेयःऽकेतः। वसुऽजित्। सहीयान्। संग्रामऽजित्। सम्ऽशितः। ब्रह्मणा। असि। अंशून्ऽइव। ग्रावा। अधिऽसवने। अद्रिः। गव्यन्। दुन्दुभे। अधि। नृत्य। वेदः। २०.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

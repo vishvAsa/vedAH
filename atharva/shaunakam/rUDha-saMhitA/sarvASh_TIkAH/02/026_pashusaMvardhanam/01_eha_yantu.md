@@ -22,10 +22,9 @@ without notice the *jagatī* pāda **d.**
 Let them come home, the cattle that have wandered, whom Vayu hath delighted to attend on, Whose forms and figures are well known to Tvashtar. These cows let Savitar drive within this stable.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इह। यन्तु। पशव:। ये। पराऽईयु:। वायु:। येषाम्। सहऽचारम्। जुजोष। त्वष्टा। येषाम्। रूपऽधेयानि। वेद। अस्मिन्। तान्। गोऽस्थे। सविता। नि। यच्छतु। २६.१।
+आ। इह। यन्तु। पशवः। ये। पराऽईयुः। वायुः। येषाम्। सहऽचारम्। जुजोष। त्वष्टा। येषाम्। रूपऽधेयानि। वेद। अस्मिन्। तान्। गोऽस्थे। सविता। नि। यच्छतु। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

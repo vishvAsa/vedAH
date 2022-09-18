@@ -21,7 +21,6 @@ saṁdhitrayopetavajrāyudhābhimānī vā*.
 Arbudi and Trishandhi fall upon our foes and scatter them, So that, O Indra, Lord of Might, Slayer of Vritra, we may kill thousands of these our enemies!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्बुदिः। च। त्रिऽसंधिः। च। अमित्रान्। नः। वि। विध्यताम्। यथा। एषाम्। इन्द्र। वृत्रऽहन्। हनाम। शचीऽपते। अमित्राणाम्। सहस्रऽशः। ११.२३।

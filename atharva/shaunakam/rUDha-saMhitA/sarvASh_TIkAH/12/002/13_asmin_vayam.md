@@ -23,7 +23,6 @@ abhyavanejayati*).
 On Agni here, the Breaker-up, we wipe impurities away. Cleansed, fit for sacrifice have we become: may he prolong our lives.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्मिन्। वयम्। सम्ऽकसुके। अग्नौ। रिप्राणि। मृज्महे। अभूम। यज्ञियाः। शुध्दाः। प्र। नः। आयूंषि। तारिषत्। २.१३।

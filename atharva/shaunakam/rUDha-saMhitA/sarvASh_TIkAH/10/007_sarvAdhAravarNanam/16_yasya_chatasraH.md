@@ -23,7 +23,6 @@ text against his fifteen authorities, which give *prapyasā́s*.
 Who out of many, tell me, is that Skambha, He whose chief arteries stand there, the sky's four regions, he irk whom Sacrifice putteth forth its might?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। चतस्रः। प्रऽदिशः। नाड्यः। तिष्ठन्ति। प्रथमाः। यज्ञः। यत्र। पराऽक्रान्तः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१६।

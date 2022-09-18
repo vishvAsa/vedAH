@@ -26,7 +26,6 @@ The comm. explains *asādās* by *aśvādiyānarahitāḥ padātayaḥ*, and
 Car-borne and carless fighting men, riders and those who go on foot, All these, struck down, let vultures, kites, and all, the birds of air devour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। रथिनः। ये। अरथाः। असादाः। ये। च। सादिनः। सर्वान्। अदन्तु। तान्। हतान्। गृध्राः। श्येनाः। पतत्रिणः। १२.२४।

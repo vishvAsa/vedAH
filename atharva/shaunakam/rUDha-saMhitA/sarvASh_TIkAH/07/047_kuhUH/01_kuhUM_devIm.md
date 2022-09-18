@@ -28,10 +28,9 @@ meter is not full *jagatī*. \*⌊TS. *pitṛṇā́ṁ tásyās*.⌋
 Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled in all her works. May she vouchsafe us wealth with every boon, and give a, hero meet for praise who gives a hundred gifts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कुहूम्। देवीम्। सुऽकृतम्। विद्मनाऽअपसम्। अस्मिन्। यज्ञे। सुऽहवा। जोहवीमि। सा। न:। रयिम्। विश्वऽवारम्। नि। यच्छात्। ददातु। वीरम्। शतऽदायम्। उक्थ्यम्। ४९.१।
+कुहूम्। देवीम्। सुऽकृतम्। विद्मनाऽअपसम्। अस्मिन्। यज्ञे। सुऽहवा। जोहवीमि। सा। नः। रयिम्। विश्वऽवारम्। नि। यच्छात्। ददातु। वीरम्। शतऽदायम्। उक्थ्यम्। ४९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

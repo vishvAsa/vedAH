@@ -7,7 +7,6 @@ title = "०३१ कृत्यापरिहरणम्"
 31. Against witchcraft.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कृत्यापरिहरणम्।  
@@ -18,8 +17,6 @@ title = "०३१ कृत्यापरिहरणम्"
 
 [śukra.—dvādaśarcam. kṛtyādūṣaṇadevatyam. ānuṣṭubham: 11. bṛhatīgarbhā; 12. pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 241; Bloomfield, 76, 456; Weber, xviii. 284.
 
 A counter-charm against the incantations of an enemy
 </details>
+

@@ -23,10 +23,9 @@ expanded to *bhavantu divyā́ ā́pa óṣadhayaḥ*. ⌊Cf. also *Kaṭha-hss.
 Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy sight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवा। न:। शम्ऽतमा। भव। सुऽमृडीका। सरस्वति। मा। ते। युयोम। सम्ऽदृश:। ७१.१।
+शिवा। नः। शम्ऽतमा। भव। सुऽमृडीका। सरस्वति। मा। ते। युयोम। सम्ऽदृशः। ७१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

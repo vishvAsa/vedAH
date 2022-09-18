@@ -23,10 +23,9 @@ sambhūtās* 'originated,' which is easier.
 Sweet is their root, sweet are these Plants' top branches, sweet also is their intermediate portion; Sweet is their foliage, and sweet their blossom, combined with sweetness is their taste of Amrit: food, fatness let them yield, with kine preceding.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मधुऽमत्। मूलम्। मधुऽमत्। अग्रम्। आसाम्। मधुऽमत्। मध्यम्। वीरुधाम्। बभूव। मधुऽमत्। पर्णम्। मधुऽमत्। पुष्पम्। आसाम्। मधो:। सम्ऽभक्ता:। अमृतस्य। भक्ष:। घृतम्। अन्नम्। दुहताम्। गोऽपुरोगवम्। ७.१२।
+मधुऽमत्। मूलम्। मधुऽमत्। अग्रम्। आसाम्। मधुऽमत्। मध्यम्। वीरुधाम्। बभूव। मधुऽमत्। पर्णम्। मधुऽमत्। पुष्पम्। आसाम्। मधोः। सम्ऽभक्ताः। अमृतस्य। भक्षः। घृतम्। अन्नम्। दुहताम्। गोऽपुरोगवम्। ७.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ that the first pāda is *triṣṭubh*.
 Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनुऽमते। अनु। इदम्। मन्यस्व। आऽकूते। सम्। इदम्। नम:। देवा:। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.२।
+अनुऽमते। अनु। इदम्। मन्यस्व। आऽकूते। सम्। इदम्। नमः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

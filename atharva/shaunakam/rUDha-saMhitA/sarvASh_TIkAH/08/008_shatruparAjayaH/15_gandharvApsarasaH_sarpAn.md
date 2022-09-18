@@ -22,10 +22,9 @@ bodiless.⌋
 Gandharvas, and Apsarases, Gods, Serpents, Fathers, Holy Men, Seen and unseen, I send them forth that they may strike this army dead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गन्धर्वऽअप्सरस:। सर्पान्। देवान्। पुण्यऽजनान्। पितृन्। दृष्टान्। अदृष्टान्। इष्णामि। यथा। सेनाम्। अमूम्। हनन्। ८.१५।
+गन्धर्वऽअप्सरसः। सर्पान्। देवान्। पुण्यऽजनान्। पितृन्। दृष्टान्। अदृष्टान्। इष्णामि। यथा। सेनाम्। अमूम्। हनन्। ८.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

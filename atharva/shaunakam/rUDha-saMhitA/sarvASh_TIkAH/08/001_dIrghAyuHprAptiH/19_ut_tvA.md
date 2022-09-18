@@ -24,10 +24,9 @@ below. ⌊For *agha-rúd*, see Bloomfield, AJP. xi. 339; Caland,
 I have delivered thee from Death. Strength-givers smelt and fashion thee! Let not she-fiends with wild loose locks, or fearful howlers yell at thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। त्वा। मृत्यो:। अपीपरम्। सम्। धमन्तु। वय:ऽधस:। मा। त्वा। व्यस्तऽकेश्य:। मा। त्वा। अघऽरुद:। रुदन्। १.१९।
+उत्। त्वा। मृत्योः। अपीपरम्। सम्। धमन्तु। वयःऽधसः। मा। त्वा। व्यस्तऽकेश्यः। मा। त्वा। अघऽरुदः। रुदन्। १.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

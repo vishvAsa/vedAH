@@ -21,10 +21,9 @@ SPP's (ten) authorities. The meter is mixed *triṣṭubh* and *jagatī*.
 All thy kind favours, Raka! lovely in their form, wherewith thou grantest treasures to the man who gives, With these come thou to us this day benevolent, O blessed one, bestowing wealth of thousand sorts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। ते। राके। सुऽमतय:। सुऽपेशस:। याभि:। ददासि। दाशुषे। वसूनि। ताभि:। न:। अद्य। सुऽमना:। उपऽआगहि। सहस्रऽपोषम्। सुऽभगे। रराणा। ५०.२।
+याः। ते। राके। सुऽमतयः। सुऽपेशसः। याभिः। ददासि। दाशुषे। वसूनि। ताभिः। नः। अद्य। सुऽमनाः। उपऽआगहि। सहस्रऽपोषम्। सुऽभगे। रराणा। ५०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

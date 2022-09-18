@@ -18,7 +18,6 @@ Ppp. has the better reading *sahas* for *bṛhat* in **b**.
 Theft, evil-doing, and deceit, truth, sacrifice, exalted fame, Strength, princely power, and energy entered the body as a home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्तेयम्। दुःऽकृतम्। वृजिनम्। सत्यम्। यज्ञः। यशः। बृहत्। बलम्। च। क्षत्रम्। ओजः। च। शरीरम्। अनु। प्र। अविशन्। १०.२०।

@@ -21,10 +21,9 @@ The comm. explains *āsanvat* to mean *āsyayuktaṁ: teno
 With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I ward thy poison off, thou Biter! formed and form- ing now.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ब्रह्मऽभि:। यत्। ऋषिऽभि:। यत्। देवै:। विदितम्। पुरा। यत्। भूतम्। भव्यम्। आसन्ऽवत्। तेन। ते। वारये। विषम्। १२.२।
+यत्। ब्रह्मऽभिः। यत्। ऋषिऽभिः। यत्। देवैः। विदितम्। पुरा। यत्। भूतम्। भव्यम्। आसन्ऽवत्। तेन। ते। वारये। विषम्। १२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

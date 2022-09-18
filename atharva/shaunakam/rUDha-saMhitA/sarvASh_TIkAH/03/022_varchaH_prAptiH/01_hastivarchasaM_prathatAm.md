@@ -33,10 +33,9 @@ order (12 + 11:? + 11), except in **c** (*tád ít sárve?*).⌋
 Famed be the Elephant's strength, the lofty glory, which out of Aditi's body took existence! They all have given me this for my possession, even all the Gods and Aditi accordant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हस्तिऽवर्चसम्। प्रथताम्। बृहत्। यश:। अदित्या:। यत्। तन्व:। सम्ऽबभूव। तत्। सर्वे। सम्। अदु:। मह्यम्। एतत्। विश्वे। देवा:। अदिति:। राऽजोषा:। २२.१।
+हस्तिऽवर्चसम्। प्रथताम्। बृहत्। यशः। अदित्याः। यत्। तन्वः। सम्ऽबभूव। तत्। सर्वे। सम्। अदुः। मह्यम्। एतत्। विश्वे। देवाः। अदितिः। राऽजोषाः। २२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -50,7 +50,6 @@ vāmabhūtam av-*. The Anukr. does not heed the redundant syllable in
 I am victorious, I am called the lord superior on earth, Triumphant, all-o'erpowering the conqueror on every side
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। अस्मि। सहमानः। उत्तरः। नाम। भूम्याम्। अभीषाट्। अस्मि। विश्वाषाट्। आशाम्ऽआशाम्। विऽससहिः। १.५४।

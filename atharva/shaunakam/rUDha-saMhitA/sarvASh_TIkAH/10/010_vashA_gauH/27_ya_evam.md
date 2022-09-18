@@ -17,7 +17,6 @@ all-footed sacrifice yield milk (*duh*) to the giver, unresisting.
 The man who hath this knowledge may receive the Cow with. welcoming. So for the giver willingly doth perfect sacrifice pour milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। एवम्। विद्यात्। सः। वशाम्। प्रति। गृह्णीयात्। तथा। हि। यज्ञः। सर्वऽपात्। दुहे। दात्रे। अनपऽस्फुरन्। १०.२७।

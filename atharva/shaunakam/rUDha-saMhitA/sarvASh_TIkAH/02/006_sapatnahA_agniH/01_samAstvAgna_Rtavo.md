@@ -25,10 +25,9 @@ His brightness is nil by day-time. The "together" were better left out.⌋
 Half-years and seasons strengthen thee, O Agni, the years, and all the Verities, and Rishis! Flash forth with thy celestial effulgence: illumine all four regions of the heavens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समा:। त्वा। अग्ने। ऋतव:। वर्धयन्तु। सम्ऽवत्सरा:। ऋषय:। यानि। सत्या। सम्। दिव्येन। दीदिहि। रोचनेन। विश्वा:। आ। भाहि। प्रऽदिश:। चतस्र:। ६.१।
+समाः। त्वा। अग्ने। ऋतवः। वर्धयन्तु। सम्ऽवत्सराः। ऋषयः। यानि। सत्या। सम्। दिव्येन। दीदिहि। रोचनेन। विश्वाः। आ। भाहि। प्रऽदिशः। चतस्रः। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

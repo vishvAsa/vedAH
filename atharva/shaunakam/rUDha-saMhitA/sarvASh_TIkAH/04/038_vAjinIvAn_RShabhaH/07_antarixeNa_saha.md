@@ -32,10 +32,9 @@ fem., ought to be oxytone (JAOS. x. 385); but *karkyàs*, pronounced
 Together with the Air, O rich in treasure, keep the white calf in safety here, O mighty! Here is the grass, here is the stall, here do we bind the calf. We are your masters, name by name. All Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षेण। सह। वाजिनीऽवन्। कर्कीम्। वत्साम्। इह। रक्ष। वाजिन्। अयम्। घास:। अयम्। व्रज:। इह। वत्साम्। नि। बध्नीम:। यथाऽनाम्। व:। ईश्महे। स्वाहा। ३८.७।
+अन्तरिक्षेण। सह। वाजिनीऽवन्। कर्कीम्। वत्साम्। इह। रक्ष। वाजिन्। अयम्। घासः। अयम्। व्रजः। इह। वत्साम्। नि। बध्नीमः। यथाऽनाम्। वः। ईश्महे। स्वाहा। ३८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

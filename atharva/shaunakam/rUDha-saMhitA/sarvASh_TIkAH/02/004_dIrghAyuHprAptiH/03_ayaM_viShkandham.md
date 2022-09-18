@@ -21,10 +21,9 @@ The first half-verse we had above as i. 16. 3 **a, b**, with *idám* for
 This overcomes Vishkandha, this chases the greedy fiends away: May this our panacea, may Jangida save us from distress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। विऽस्कन्धम्। सहते। अयम्। बाधते। अत्त्रिण:। अयम्। न:। विश्वऽभेषज:। जङ्गिड:। पातु। अंहस:। ४.३।
+अयम्। विऽस्कन्धम्। सहते। अयम्। बाधते। अत्त्रिणः। अयम्। नः। विश्वऽभेषजः। जङ्गिडः। पातु। अंहसः। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

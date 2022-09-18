@@ -18,7 +18,6 @@ Ppp. adds *divi tapati divy ā bhāti* ⌊*svargo* etc.⌋.
 He having been invited in the sky, regales, invited, in that which wears all various forms in the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। दिव‍ि। भक्षयति। उपऽहूतः। तस्मिन्। यत्। दिवि। विश्वऽरूपम्। ११.९।

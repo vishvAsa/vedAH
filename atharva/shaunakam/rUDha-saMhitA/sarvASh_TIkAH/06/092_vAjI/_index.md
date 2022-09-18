@@ -7,7 +7,6 @@ title = "०९२ वाजी"
 92. For success of a horse.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाजी।  
@@ -19,8 +18,6 @@ title = "०९२ वाजी"
 [Atharvan.—vājinam. trāiṣṭubham: 1. jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Applied by Kāuś. (41. 21) in a rite for the success
 ### Translations
 Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 </details>
+

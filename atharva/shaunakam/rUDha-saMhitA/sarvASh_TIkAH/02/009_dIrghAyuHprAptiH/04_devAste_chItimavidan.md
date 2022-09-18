@@ -24,10 +24,9 @@ and, in **c, d**, *cātaṁ tebhyo tu mām avidaṁ bhū-.*
 The Gods, the Brahman-priests, and plants observed the way to gather thee: All deities described the way men gather thee upon the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। ते। चीतिम्। अविदन्। ब्रह्माण:। उत। वीरुध:। चीतिम्। ते। विश्वे। देवा:। अविदन्। भूम्याम्। अधि। ९.४।
+देवाः। ते। चीतिम्। अविदन्। ब्रह्माणः। उत। वीरुधः। चीतिम्। ते। विश्वे। देवाः। अविदन्। भूम्याम्। अधि। ९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

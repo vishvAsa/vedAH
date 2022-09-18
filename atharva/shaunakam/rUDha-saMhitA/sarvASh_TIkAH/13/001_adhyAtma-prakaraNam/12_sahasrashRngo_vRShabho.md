@@ -28,7 +28,6 @@ overlook the accent oi *jáhāni: nét* can hardly mean aught else than
 Thousand-horned Bull, may Jatavedas, worshipped with butter, balmed with Soma, rich in heroes, Besought, ne'er quit me; may I ne'er forsake thee. Give me abundant men and herds of cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽशृङ्गः। वृषभः। जातऽवेदाः। घृतऽआहुतः। सोमऽपृष्ठः। सुऽवीरः। मा। मा। हासीत्। नाथितः। न। इत्। त्वा। जहानि। गोऽपोषम्। च। मे। वीरऽपोषम्। च। धेहि। १.१२।

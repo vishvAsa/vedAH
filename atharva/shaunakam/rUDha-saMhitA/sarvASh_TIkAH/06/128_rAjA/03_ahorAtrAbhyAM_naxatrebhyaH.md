@@ -21,10 +21,9 @@ W's note⌋ in xi. 3. 34. The first half-verse is metrically irregular.
 Fair weather to the day and night, and to the stars and sun and moon. Give favourable weather thou, King, Weather Prophet, unto us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहोरात्राभ्याम्। नक्षत्रेभ्य:। सूर्याचन्द्रमसाभ्याम्। भद्रऽअहम्। अस्मभ्यम्। राजन्। शकऽधूम। त्वम्। कृधि। १२८.३।
+अहोरात्राभ्याम्। नक्षत्रेभ्यः। सूर्याचन्द्रमसाभ्याम्। भद्रऽअहम्। अस्मभ्यम्। राजन्। शकऽधूम। त्वम्। कृधि। १२८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

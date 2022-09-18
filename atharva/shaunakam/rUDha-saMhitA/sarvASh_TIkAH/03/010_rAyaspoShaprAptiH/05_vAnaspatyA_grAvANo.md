@@ -36,10 +36,9 @@ MGS. ii. 8. 4^(b).⌋ The first pāda is *jagatī*, unnoted in the Anukr.
 Loud was the wooden pass-gear's ring and rattle, as it made annual oblation ready. First Ashtaka! may we be lords of riches, with goodly children and good men about us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वानस्पत्या:। ग्रावाण:। घोषम्। अक्रत। हवि:। कृण्वन्त:। परिऽवत्सरीणम्। एकऽअष्टके। सुऽप्रजस:। सुऽवीरा:। वयम्। स्याम। पतय:। रयीणाम्। १०.५।
+वानस्पत्याः। ग्रावाणः। घोषम्। अक्रत। हविः। कृण्वन्तः। परिऽवत्सरीणम्। एकऽअष्टके। सुऽप्रजसः। सुऽवीराः। वयम्। स्याम। पतयः। रयीणाम्। १०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

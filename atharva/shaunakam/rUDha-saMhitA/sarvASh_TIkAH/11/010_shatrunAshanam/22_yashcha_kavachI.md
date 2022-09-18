@@ -23,7 +23,6 @@ is no real variant. The comm. explains *ájman* as *ajati gacchaty anene
 Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smitten with the strings of bows, the fastenings of mail, the charge!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। च। कवची। यः। च। अकवचः। अमित्रः। यः। च। अज्मनि। ज्याऽपाशैः। कवचऽपाशैः। अज्मना। अभिऽहतः। शयाम्। १२.२२।

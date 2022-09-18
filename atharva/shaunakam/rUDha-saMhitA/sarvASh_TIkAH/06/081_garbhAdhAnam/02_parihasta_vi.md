@@ -24,7 +24,6 @@ conjecture *maryadās* 'giver of a male.' Ppp. has at end *-gamaḥ*.
 Prepare accordantly, O Ring, the mother for the infant's birth. On the right way bring forth the boy. Make him come hither. I am here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परिऽहस्त। वि। धारय। योनिम्। गर्भाय। धातवे। मर्यादे। पुत्रम्। आ। धेहि। तम्। त्वम्। आ। गमय। आऽगमे। ८१.२।

@@ -14,10 +14,9 @@ title = "१४ गुदा आसन्त्सिनीवाल्याः
 To Surya they assigned the skin, to Sinivali inward parts. The Slaughterer hath the feet, they said, when they distributed the Bull.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गुदा:। आसन्। सिनीवाल्या:। सूर्याया:। त्वचम्। अब्रुवन्। उत्थातु:। अब्रुवन्। पद:। ऋषभम्। यत्। अकल्पयन्। ४.१४।
+गुदाः। आसन्। सिनीवाल्याः। सूर्यायाः। त्वचम्। अब्रुवन्। उत्थातुः। अब्रुवन्। पदः। ऋषभम्। यत्। अकल्पयन्। ४.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ latter is read by our B.W.O.s.m.D.R.T.; and K. has *-havyàm*.
 The Residue the Father's sire, who bears this universe, supports Vishuvan, Upahavya, and all worship offered secretly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उपऽहव्यम्। विषुऽवन्तम्। ये। च। यज्ञाः। गुहा। हिताः। बिभर्ति। भर्ता। विश्वस्य। उत्ऽशिष्टः। जनितुः। पिता। ९.१५।

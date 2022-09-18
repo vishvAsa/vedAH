@@ -21,10 +21,9 @@ separate epithet: this is, of course, equally possible.
 I am the Queen, the gatherer-up of treasures, most thoughtful, first of those who merit worship. The Gods, making me enter many places, in diverse spots have set mine habitation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। राष्ट्री। सम्ऽगमनी। वसूनाम्। चिकितुषी। प्रथमा। यज्ञियानाम्। ताम्। मा। देवा:। वि। अदधु:। पुरुऽत्रा। भूरिऽस्थात्राम्। भूरि। आऽवेशयन्त:। ३०.२।
+अहम्। राष्ट्री। सम्ऽगमनी। वसूनाम्। चिकितुषी। प्रथमा। यज्ञियानाम्। ताम्। मा। देवाः। वि। अदधुः। पुरुऽत्रा। भूरिऽस्थात्राम्। भूरि। आऽवेशयन्तः। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

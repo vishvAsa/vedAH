@@ -22,10 +22,9 @@ metrical deficiency of **a** ⌊but see note to 7. 1⌋.
 Like as the creeper throws, her arms on every side around the tree, So hold thou me in thine embrace that thou mayst be in love with me, my darling, never to depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। वृक्षम्। लिबुजा। समन्तम्। परिऽसस्वजे। एव। परि। स्वजस्व। माम्। यथा। माम्। कामिनी। अस:। यथा। मत्। न। अपऽगा:। अस:। ८.१।
+यथा। वृक्षम्। लिबुजा। समन्तम्। परिऽसस्वजे। एव। परि। स्वजस्व। माम्। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

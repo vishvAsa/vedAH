@@ -29,10 +29,9 @@ ends here: cf. p. 389.⌋
 The Night hath come, the gatherer of treasures, bestowing strength, prosperity, and riches. To New Moon's Night let us present oblation: pouring out strength, with milk hath she come hither.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अगन्। रात्री। सम्ऽगमनी। वसूनाम्। ऊर्जम्। पुष्टम्। वसु। आऽवेशयन्ती। अमाऽवास्यायै। हविषा। विधेम। ऊर्जम्। दुहाना। पयसा। न:। आ। अगन्। ८४.३।
+आ। अगन्। रात्री। सम्ऽगमनी। वसूनाम्। ऊर्जम्। पुष्टम्। वसु। आऽवेशयन्ती। अमाऽवास्यायै। हविषा। विधेम। ऊर्जम्। दुहाना। पयसा। नः। आ। अगन्। ८४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

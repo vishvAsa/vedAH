@@ -27,7 +27,6 @@ a bull ⌊cf. introd. to iv. 22⌋.
 Grasp ye this Indra, furtherer, satisfier: he will release you from disgrace and trouble. With him drive back the shaft that flies against you, with him. ward off the missile shot by Rudra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। इन्द्रम्। वह्निम्। पप्रिम्। अनुऽआरभध्वम्। सः। वः। निः। वक्षत्। दुःऽइतात्। अवद्यात्। तेन। अप। हत। शरुम्। आऽपतन्तम्। तेन। रुद्रस्य। परि। पात। अस्ताम्। २.४७।

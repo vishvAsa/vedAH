@@ -18,7 +18,6 @@ The *pada*-mss. have the false accent *pra॰ā́ptaḥ* (for *prá॰āptaḥ*)
 When he hath got his grass he is King Soma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तृणानि। प्रऽआप्तः। सोमः। राजा। १२.२२।

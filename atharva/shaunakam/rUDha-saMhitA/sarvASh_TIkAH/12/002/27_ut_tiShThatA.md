@@ -22,7 +22,6 @@ the preceding note.
 Rise up erect, cross over, my companions: the stream is stony that flows here before us. Abandon here the powers that were ungracious, and let us cross to powers benign and friendly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठत। प्र। तरत। सखायः। अश्मन्ऽवती। नदी। स्यन्दते। इयम्। अत्र। जहीत। ये। असन्। अशिवाः। शिवान्। स्योनान्। उत्। तरेम। अभि। वाजान्। २.२७।

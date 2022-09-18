@@ -21,7 +21,6 @@ improve both sense and meter.
 Whence is there found in Purusha want, evil, suffering, dis- tress? Whence come success, prosperity opulence, thought, and utte- rance?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आर्तिः। अवर्तिः। निःऽऋतिः। कुतः। नु। पुरुषे। अमतिः। राध्दिः। सम्ऽऋध्दिः। अविऽऋध्दिः। मतिः। उत्ऽइतयः। कुतः। २.१०।

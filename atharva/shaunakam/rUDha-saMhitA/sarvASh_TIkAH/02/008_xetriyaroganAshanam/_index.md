@@ -7,7 +7,6 @@ title = "००८ क्षेत्रियरोगनाशनम्"
 8. Against the disease kṣetriyá: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्षेत्रियरोगनाशनम्।  
@@ -18,8 +17,6 @@ title = "००८ क्षेत्रियरोगनाशनम्"
 
 [Bhṛgvan̄giras.—vānaspatyam; yakṣmanāśanadāivatam. ānuṣṭubham: 3. pathyāpan̄kti; 4.. virāj; 5. nicṛtpathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 149; Ludwig, p. 513; Griffith, i. 50; Bloomfield, 13, 2
 
 A charm against hereditary disease (kshetriya)
 </details>
+

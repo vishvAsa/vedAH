@@ -18,7 +18,6 @@ who has not given her is fearful.
 This Brahmans! is your sacrifice: thus should one think when he is asked, What time they beg from him the Cow fearful in the with- holder's house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतत्। वः। ब्राह्मणाः। हविः। इति। मन्वीत। याचितः। वशाम्। च। इत्। एनम्। याचेयुः। या। भीमा। अददुषः। गृहे। ४.४८।

@@ -20,10 +20,9 @@ first pāda: TA. makes it *nā vāí tátra prá mīyate* (nearly as our 24
 Here verily all creatures live, the cow, the horse, the man, the beast, Here where this holy prayer is used, a rampart that protecteth life. Let it preserve thee from thy peers, from incantation, from thy friends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्व:। वै। तत्र। जीवति। गौ:। अश्व:। पुरुष:। पशु:। यत्र। इदम्। ब्रह्म। क्रियते। परिऽधि:। जीवनाय। कम्। २.२५।
+सर्वः। वै। तत्र। जीवति। गौः। अश्वः। पुरुषः। पशुः। यत्र। इदम्। ब्रह्म। क्रियते। परिऽधिः। जीवनाय। कम्। २.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ prescribed by Prāt. iii. 84.
 Durnama and Sunama both are eager to converse with her. We drive away Arayas: let Sunama seek the women-folk,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दु:ऽनामा। च। सुऽनाम। च। उभा। सम्ऽवृतम्। इच्छत:। अरायान्। अप। हन्म:। सुऽनामा। स्त्रैणम्। इच्छताम्। ६.४।
+दुःऽनामा। च। सुऽनाम। च। उभा। सम्ऽवृतम्। इच्छतः। अरायान्। अप। हन्मः। सुऽनामा। स्त्रैणम्। इच्छताम्। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

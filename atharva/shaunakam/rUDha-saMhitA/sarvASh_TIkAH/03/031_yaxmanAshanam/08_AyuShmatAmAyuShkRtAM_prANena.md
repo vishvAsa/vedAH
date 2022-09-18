@@ -19,10 +19,9 @@ scholar (*māṇavaka*) as addressed.
 Die not. Live with the breath of those who make and who enjoy long life. I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयुष्मताम्। आयु:ऽकृताम्। प्राणेन। जीव। मा। मृथा:। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.८।
+आयुष्मताम्। आयुःऽकृताम्। प्राणेन। जीव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

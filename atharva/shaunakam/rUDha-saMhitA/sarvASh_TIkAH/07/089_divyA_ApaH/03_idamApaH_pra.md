@@ -30,10 +30,9 @@ The comm. explains it as *abhi* and *ruṇa* for *ṛṇa* 'debt.'
 Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong that I have done and every harmless curse of mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। आप:। प्र। वहत। अवद्यम्। च। मलम्। च। यत्। यत्। च। अभिऽदुद्रोह। अनृतम्। यत्। च। शेपे। अभीरुणम्। ९४.३।
+इदम्। आपः। प्र। वहत। अवद्यम्। च। मलम्। च। यत्। यत्। च। अभिऽदुद्रोह। अनृतम्। यत्। च। शेपे। अभीरुणम्। ९४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

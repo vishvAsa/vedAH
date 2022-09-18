@@ -21,7 +21,6 @@ The translation implies in **d** emendation of *āpaḥ॰śíkṣantīḥ* to *
 Yea, and supreme, alike in conformation, and brilliant and refulgent and immortal, As such, enjoined, well-guarding, water-givers, dress ye the Odana for wife and husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽइव। प्रऽभ्वीः। उत। सम्ऽमितासः। उत। शुक्राः। शुचयः। च। अमृतासः। ताः। ओदनम्। दंपतिऽभ्याम्। प्रऽशिष्टाः। आपः। शिक्षन्तीः। पचत। सुऽनाथाः। ३.२७।

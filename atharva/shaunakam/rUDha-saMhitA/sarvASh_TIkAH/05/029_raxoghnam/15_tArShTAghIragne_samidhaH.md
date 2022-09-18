@@ -20,10 +20,9 @@ anywhere; the *pada*-text reads *tārṣṭa॰aghī́h*.
 Accept, O Agni, with thy flame the billets of Tarshtagha wood. Let the flesh-eater who would take the flesh of this man lose his form.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तार्ष्टऽअघी:। अग्ने। सम्ऽइध:। प्रति। गृह्णाहि। अर्चिषा। जहातु। क्रव्यऽअत्। रूपम्। य:। अस्य। मांसम्। जिहीर्षति। २९.१५।
+तार्ष्टऽअघीः। अग्ने। सम्ऽइधः। प्रति। गृह्णाहि। अर्चिषा। जहातु। क्रव्यऽअत्। रूपम्। यः। अस्य। मांसम्। जिहीर्षति। २९.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

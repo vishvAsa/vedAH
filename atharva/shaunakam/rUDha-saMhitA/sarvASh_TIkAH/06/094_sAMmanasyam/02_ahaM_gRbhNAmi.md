@@ -21,10 +21,9 @@ to iii. 8. 6.⌋
 I with my spirit make your spirits captive: these with their thoughts follow my thought and wishes. I make your hearts submissive to mine order closely attending go where I precede you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभि:। आ। इत। मम। वशेषु। हृदयानि। व:। कृणोमि। मम। यातम्। अनुऽवर्त्मान:। आ। इत। ९४.२।
+अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभिः। आ। इत। मम। वशेषु। हृदयानि। वः। कृणोमि। मम। यातम्। अनुऽवर्त्मानः। आ। इत। ९४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

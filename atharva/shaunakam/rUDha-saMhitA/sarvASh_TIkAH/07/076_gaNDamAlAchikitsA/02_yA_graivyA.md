@@ -22,10 +22,9 @@ upakakṣe bhavāḥ*.
 Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules that, falling of themselves, spring up on every twofold limb:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। ग्रैव्या:। अपऽचित:। अथो इति। या:। उपऽपक्ष्या:। विऽजाम्नि। या:। अपऽचित:। स्वयम्ऽस्रस:। ८०.२।
+याः। ग्रैव्याः। अपऽचितः। अथो इति। याः। उपऽपक्ष्याः। विऽजाम्नि। याः। अपऽचितः। स्वयम्ऽस्रसः। ८०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

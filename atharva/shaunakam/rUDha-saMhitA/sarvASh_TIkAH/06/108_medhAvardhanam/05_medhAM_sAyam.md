@@ -18,10 +18,9 @@ Ppp. is corrupt in **c, d**: *medhāṁ sūryeṇo ’dyato dhīrāṇā uta stv
 Intelligence at eve, at morn, Intelligence at noon of day, With the Sun's beams, and by our speech we plant in us Intelligence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मेधाम्। सायम्। मेधाम्। प्रात:। मेधाम्। मध्यन्दिनम्। परि। मेधाम्। सूर्यस्य। ‍ रश्मिऽभि:। वचसा। आ। वेशयामहे। १०८.५।
+मेधाम्। सायम्। मेधाम्। प्रातः। मेधाम्। मध्यन्दिनम्। परि। मेधाम्। सूर्यस्य। ‍ रश्मिऽभिः। वचसा। आ। वेशयामहे। १०८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

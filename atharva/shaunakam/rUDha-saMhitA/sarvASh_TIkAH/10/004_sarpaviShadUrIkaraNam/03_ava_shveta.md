@@ -29,7 +29,6 @@ called *upariṣṭād bṛhatī*.
 Strike out, white courser! with thy foot, strike both with fore and hinder foot, Stay the dire poison of the Snakes, and make it weak as soaking wood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अव। श्वेत। पदा। जहि। पूर्वेण। च। अपरेण। च। उदप्लुतम्ऽइव। दारु। अहीनाम्। अरसम्। विषम्। वाः। उग्रम्। ४.३।

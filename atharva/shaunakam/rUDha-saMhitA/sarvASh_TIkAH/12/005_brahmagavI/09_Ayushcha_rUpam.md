@@ -17,7 +17,6 @@ expiration, and sight, and hearing,—
 Long life and goodly form, and name and fame, inbreathing and expiration, and sight, and hearing;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आयुः। च। रूपम्। च। नाम। च। कीर्तिः। च। प्राणः। च। अपानः। च। चक्षुः। च। श्रोत्रम्। च। ६.३।

@@ -28,10 +28,9 @@ old Anukr. says *tato ‘parātāi* or *‘parānte.*
 Worms that are found on mountains, in the forests, that live in plants, in cattle, in the waters, Those that have made their way within our bodies,--these I destroy, the worms' whole generation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये क्रिमय:। पर्वतेषु। वनेषु। ओषधीषु। पशुषु। अप्ऽसु। अन्त:। ये। अस्माकम्। तन्वम्। आऽविविशु:। सर्वम्। तत्। हन्मि। जनिम। क्रिमीणाम्। ३१.५।
+ये क्रिमयः। पर्वतेषु। वनेषु। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। ये। अस्माकम्। तन्वम्। आऽविविशुः। सर्वम्। तत्। हन्मि। जनिम। क्रिमीणाम्। ३१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ better omitted from the translation of **d**.⌋
 In this strong hero be ye glad and joyful: cleave ye to him even as ye cleave to Indra. Victorious, kine-winner, thunder-wielder, who quells a host and with his might destroys it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। वीरम्। अनु। हर्षध्वम्। उग्रम्। इन्द्रम्। सखाय:। अनु। सम्। रभध्वम्। ग्रामऽजितम्। गोऽजितम्। वज्रऽबाहुम्। जयन्तम्। अज्म। प्रऽमृणन्तम्। ओजसा। ९७.३।
+इमम्। वीरम्। अनु। हर्षध्वम्। उग्रम्। इन्द्रम्। सखायः। अनु। सम्। रभध्वम्। ग्रामऽजितम्। गोऽजितम्। वज्रऽबाहुम्। जयन्तम्। अज्म। प्रऽमृणन्तम्। ओजसा। ९७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

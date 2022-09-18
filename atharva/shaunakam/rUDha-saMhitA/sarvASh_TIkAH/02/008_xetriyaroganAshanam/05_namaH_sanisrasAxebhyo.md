@@ -34,10 +34,9 @@ Comm. and all five translators take *sani-* as a possessive compound
 Homage to men with blinking eyes, homage to those who hear and act! To the Field's Lord be homage paid. So let the plague-destroying Plant remove inherited disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। सनिस्रसऽअक्षेभ्य:। नम:। सम्ऽदेश्येभ्य:। नम:। क्षेत्रस्य। पतये। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.५।
+नमः। सनिस्रसऽअक्षेभ्यः। नमः। सम्ऽदेश्येभ्यः। नमः। क्षेत्रस्य। पतये। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

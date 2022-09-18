@@ -26,10 +26,9 @@ in **d**.
 Agni, what curse the pair this day may utter, what rude rough word the worshippers have spoken, Each arrowy taunt sped from the angry spirit,--pierce to the heart therewith the Yatudhanas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अग्ने। अद्य। मिथुना। शपात:। यत्। वाच:। तृष्टम्। जनयन्त:। रेभा:। मन्यो:। मनस:। शरव्या। जायते। या। तया। विध्य। हृदये। यातुऽधानान्। ३.१२।
+यत्। अग्ने। अद्य। मिथुना। शपातः। यत्। वाचः। तृष्टम्। जनयन्तः। रेभाः। मन्योः। मनसः। शरव्या। जायते। या। तया। विध्य। हृदये। यातुऽधानान्। ३.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

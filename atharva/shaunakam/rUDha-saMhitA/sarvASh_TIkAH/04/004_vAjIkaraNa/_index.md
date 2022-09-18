@@ -7,7 +7,6 @@ title = "००४ वाजीकरण"
 4. For recovery of virility: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाजीकरण  
@@ -18,8 +17,6 @@ title = "००४ वाजीकरण"
 
 [Atharvan.—aṣṭarcam. vānaspatyam. ānuṣṭubham: 4. purauṣṇih; 6, 7. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 134 and 473; Bloomfield, 31, 369; Weber, xviii. 16.
 
 A charm to restore virile power
 </details>
+

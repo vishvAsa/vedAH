@@ -29,10 +29,9 @@ skin etc., in the healing rite.
 As the Sun rises, let thy sore disease and yellowness depart. We compass and surround thee with the colour of a ruddy ox.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। सूर्यम्। उत्। अयताम्। हृत्ऽद्योत:। हरिमा। च। ते। गो:। रोहितस्य। वर्णेन। तेन। त्वा। परि। दध्मसि।
+अनु। सूर्यम्। उत्। अयताम्। हृत्ऽद्योतः। हरिमा। च। ते। गोः। रोहितस्य। वर्णेन। तेन। त्वा। परि। दध्मसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ verse it is to be done at the end of the night.
 Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So let the plague-destroying Plant remove inherited disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप। इयम्। रात्री। उच्छतु। अप। उच्छन्तु। अभिऽकृत्वरी:। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.२।
+अप। इयम्। रात्री। उच्छतु। अप। उच्छन्तु। अभिऽकृत्वरीः। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

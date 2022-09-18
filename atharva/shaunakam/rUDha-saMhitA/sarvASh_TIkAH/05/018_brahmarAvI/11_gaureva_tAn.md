@@ -23,10 +23,9 @@ in Prāt. iv. 96. Ppp. reads *ivā ’carat* in **b**.
 The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the last she-goat that remained of Kesaraprabandha's flock.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गौ:। एव। तान्। हन्यमाना। वैतऽहव्यान्। अव। अतिरत्। ये। केसरऽप्राबन्धाया:। चरमऽअजाम्। अपेचिरन्। १८.११।
+गौः। एव। तान्। हन्यमाना। वैतऽहव्यान्। अव। अतिरत्। ये। केसरऽप्राबन्धायाः। चरमऽअजाम्। अपेचिरन्। १८.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

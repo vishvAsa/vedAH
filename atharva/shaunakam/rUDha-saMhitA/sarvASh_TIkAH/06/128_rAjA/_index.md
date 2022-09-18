@@ -7,7 +7,6 @@ title = "१२८ राजा"
 128. For auspicious time: with dung-smoke.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राजा  
@@ -19,8 +18,6 @@ title = "१२८ राजा"
 [Atharvān̄giras (nakṣatrarājānam candramasam astāut).—caturṛcam. sāumyam; śakadhūmadevatyam. ānuṣṭubham.']]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Except the third verse, this hymn occurs also in Pāipp. xix. Besides the ceremo
 ### Translations
 Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, i. 316; Bloomfield, 160, 532.—Bloomfield had already treated it at length, AJP. vii. 484 ff., and JAOS. xiii. p. cxxxiii (= PAOS., Oct. 1886). A pencilled note on Whitney's ms. shows that he considered the propriety of rewriting the translation and comment for vi. 128.
 </details>
+

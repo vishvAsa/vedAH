@@ -25,10 +25,9 @@ the whole hymn, which he entitles "formula against diarrhœa."
 As in its flight the arrow's point hangs between earth and firmament, So stand this Munja grass between ailment and dysenteric ill!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। द्याम्। च। पृथिवीम्। च। अन्तः। तिष्ठति। तेजनम्। एव। रोगम्। च। आऽस्रावम्। च। अन्तः। तिष्ठतु। मुञ्ज:। इत्।
+यथा। द्याम्। च। पृथिवीम्। च। अन्तः। तिष्ठति। तेजनम्। एव। रोगम्। च। आऽस्रावम्। च। अन्तः। तिष्ठतु। मुञ्जः। इत्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

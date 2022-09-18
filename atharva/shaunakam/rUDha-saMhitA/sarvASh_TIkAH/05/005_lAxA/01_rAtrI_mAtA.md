@@ -25,10 +25,9 @@ below as vi. 100. 3 **b**; and cf. vii. 46. 1 **b**.
 Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is called Silachi. Thou, thyself, art sister of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रात्री। माता। नभ:। पिता। अर्यमा। ते। पितामह:। सिलाची। नाम। वै। असि। सा। देवानाम्। असि। स्वसा। ५.१।
+रात्री। माता। नभः। पिता। अर्यमा। ते। पितामहः। सिलाची। नाम। वै। असि। सा। देवानाम्। असि। स्वसा। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

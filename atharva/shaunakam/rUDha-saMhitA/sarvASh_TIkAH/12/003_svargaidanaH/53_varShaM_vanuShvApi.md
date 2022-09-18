@@ -24,7 +24,6 @@ garment?\].'
 Win thou the rain: approach the Gods. Around thee thou from the skin shalt make the smoke rise upward. Soon to be, decked with butter, all-embracing, come to this world wherewith one birth unites thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वर्षम्। वनुष्व। अपि। गच्छ। देवान्। त्वचः। धूमम्। परि। उत्। पातयासि। विश्वऽव्यचाः। घृतऽपृष्ठः। ‍ भविष्यन्। सऽयोनिः। लोकम्। उप। याहि। एतम्। ३.५३।

@@ -16,7 +16,6 @@ title = "५७ बृहस्पतिनावसृष्टां विश
 Her whom Brihaspati, etc. With all the milky store possessed by cows do we enrich this girl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। पयः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५७।

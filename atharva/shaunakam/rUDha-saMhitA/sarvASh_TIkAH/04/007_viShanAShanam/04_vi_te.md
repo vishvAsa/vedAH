@@ -27,7 +27,6 @@ to stop working. But see also Weber's note.⌋
 Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the fire, we with our word remove thee hence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। ते। मदम्। मदऽवति। शरम्ऽइव। पातयामसि। प्र। त्वा। चरुम्ऽइव। येषन्तम्। वचसा। स्थापयामसि। ७.४।

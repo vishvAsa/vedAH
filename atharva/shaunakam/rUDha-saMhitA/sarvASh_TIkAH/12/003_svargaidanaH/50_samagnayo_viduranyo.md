@@ -23,7 +23,6 @@ a syllable in **a**. \*⌊Intending *dadhato?*⌋
 Perfectly do the Agnis know each other, one visitor of plants and one of rivers, And all the Gods who shine and glow in heaven. Gold is the light of him who cooks oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। अग्नयः। विदुः। अन्यः। अन्यम्। यः। ओषधीः। सचते। यः। च। सिन्धून्। यावन्तः। देवाः। दिवि। आऽतपन्ति। हिरण्यम्। ज्योतिः। ‍ पचतः। बभूव। ३.५०।

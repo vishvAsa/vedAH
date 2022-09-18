@@ -24,10 +24,9 @@ b**⌋. The Anukr. does not heed the redundant syllable in **c**. ⌊Correct
 Daughter of Vasus, mother of Adityas, centre of Amrit breath of living creatures. The Honey-whip, gold-coloured, dropping fatness, moves as a mighty embryo 'mid mortals.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-माता। आदित्यानाम्। दुहिता। वसूनाम्। प्राण:। प्रऽजानाम्। अमृतस्य। नाभि:। हिरण्यऽवर्णा। मधुऽकशा। घृताची। महान्। भर्ग:। चरति। मर्त्येषु। १.४।
+माता। आदित्यानाम्। दुहिता। वसूनाम्। प्राणः। प्रऽजानाम्। अमृतस्य। नाभिः। हिरण्यऽवर्णा। मधुऽकशा। घृताची। महान्। भर्गः। चरति। मर्त्येषु। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

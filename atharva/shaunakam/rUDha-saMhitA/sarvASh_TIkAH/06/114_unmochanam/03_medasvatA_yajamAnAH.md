@@ -24,10 +24,9 @@ the end; Ppp. *śeṣima*.
 With ladle full of fatness we, worshippers, pouring holy oil, Striving, have failed, O all ye Gods, against our will, to offer it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मेदस्वता। यजमाना:। स्रुचा। आज्यानि। जुह्वत:। अकामा:। विश्वे। व:। देवा:। शिक्षन्त:। न। उप। शेकिम। ११४.३।
+मेदस्वता। यजमानाः। स्रुचा। आज्यानि। जुह्वतः। अकामाः। विश्वे। वः। देवाः। शिक्षन्तः। न। उप। शेकिम। ११४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

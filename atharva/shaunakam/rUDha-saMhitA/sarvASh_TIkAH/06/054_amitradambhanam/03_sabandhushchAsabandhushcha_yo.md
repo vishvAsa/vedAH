@@ -21,10 +21,9 @@ naḥ*.
 The man who shows us enmity, whether a stranger or akin, Thou wilt give up entire to me who sacrifice and press the juice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽबन्धु:। च। असबन्धु:। च। य:। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
+सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

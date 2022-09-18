@@ -18,7 +18,6 @@ Ppp. reads at the end *bhavyam*.
 Then, having made the hills stand up, Rohita spake to Earth, and said: In thee let every thing be born, what is and what is yet to be.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गीऽभिः। ऊर्ध्वान्। कल्पयित्वा। रोहितः। भूमिम्। अब्रवीत्। त्वयि। इदम्। सर्वम्। जायताम्। यत्। भूतम्। यत्। च। भाव्यम्। १.५४।

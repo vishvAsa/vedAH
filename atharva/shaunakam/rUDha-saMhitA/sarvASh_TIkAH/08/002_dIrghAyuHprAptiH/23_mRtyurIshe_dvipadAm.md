@@ -18,10 +18,9 @@ Ppp. reads for **d** *ud dharāmi sa mā mṛta* ⌊intending *mṛthās?*⌋.
 Death is the lord of bipeds, Death is sovran lord of quadrupeds. Away I bear thee from that: Death the ruler: be not thou afraid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मृत्यु:। ईशे। द्विऽपदाम्। मृत्यु:। ईशे। चतु:ऽपदाम्। तस्मात्। त्वाम्। मृत्यो:। गोऽपते:। उत्। भरामि। स:। मा। बिभे:। २.२३।
+मृत्युः। ईशे। द्विऽपदाम्। मृत्युः। ईशे। चतुःऽपदाम्। तस्मात्। त्वाम्। मृत्योः। गोऽपतेः। उत्। भरामि। सः। मा। बिभेः। २.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ ends the verse with *bibharti*. The comm. explains *piparti* with
 Stirring both worlds the Brahmachari moveth: in him the deities are all one-minded. He hath established firmly earth and heaven: he satisfies his Master with his Fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचारी। इष्णन्। चरति। रोदसी  इति। उभे इति। तस्मिन्। देवाः। सम्ऽमनसः। भवन्ति। सः। दाधार। पृथिवीम्। दिवम्। च। सः। आऽचार्यम्। तपसा। पिपर्ति। ७.१।

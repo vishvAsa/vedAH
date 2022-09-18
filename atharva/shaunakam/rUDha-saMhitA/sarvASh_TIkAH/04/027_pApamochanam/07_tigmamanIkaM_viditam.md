@@ -23,10 +23,9 @@ insert *devā́n* before *marútas*, also ending the verse (as well as vs.
 Potent in battles is the Maruts' army, impetuous train, well- known, exceeding mighty. I, suppliant, praise and oft invoke the Maruts. May they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तिग्मम्। अनीकम्। विदितम्। सहस्वत्। मारुतम्। शर्ध:। पृतनासु। उग्रम्। स्तौमि। मरुत:। नाथित:। जोहवीमि। ते। न:। मुञ्चन्तु। अंहस:। २७.७।
+तिग्मम्। अनीकम्। विदितम्। सहस्वत्। मारुतम्। शर्धः। पृतनासु। उग्रम्। स्तौमि। मरुतः। नाथितः। जोहवीमि। ते। नः। मुञ्चन्तु। अंहसः। २७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

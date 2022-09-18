@@ -21,10 +21,9 @@ to adopt.
 They who raised water from the sea to heaven and send it from the sky to earth in showers, The Maruts who move mighty with their waters, may they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप:। समुद्रात्। दिवम्। उत्। वहन्ति। दिव:। पृथिवीम्। अभि। ये। सृजन्ति। ये। अत्ऽभि:। ईशाना:। मरुत:। चरन्ति। ते। न:। मुञ्चन्तु। अंहस:। २७.४।
+अपः। समुद्रात्। दिवम्। उत्। वहन्ति। दिवः। पृथिवीम्। अभि। ये। सृजन्ति। ये। अत्ऽभिः। ईशानाः। मरुतः। चरन्ति। ते। नः। मुञ्चन्तु। अंहसः। २७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

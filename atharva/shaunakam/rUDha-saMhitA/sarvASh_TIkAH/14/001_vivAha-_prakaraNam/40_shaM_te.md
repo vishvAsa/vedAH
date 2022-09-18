@@ -35,7 +35,6 @@ versions of the marriage-rites; ⌊cf. note to vs. 41⌋. Āpast. (Wint., p.
 Blest be the gold to thee, and blest the water, blest the yoke's opening, and blest the pillar. Blest he the waters with their hundred cleansings: blest be thy body's union with thy husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शम्। ते। हिरण्यम्। शम्। ऊं इति। सन्तु। आपः। शम्। मेथिः। भवतु। शम्। युगस्य। तर्द्म। शम्। ते। आपः। शतऽपवित्राः। भवन्तु। शम्। ऊं इति। पत्या। तन्वम्। सम्। स्पृशस्व। १.४०।

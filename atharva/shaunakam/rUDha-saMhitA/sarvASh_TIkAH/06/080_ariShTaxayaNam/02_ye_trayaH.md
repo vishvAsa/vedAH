@@ -26,10 +26,9 @@ the deficiency of a syllable in **a**.
 The three, the Kalakanjas, set aloft in heaven as they were Gods All these I call to be our help and keep this man secure from harm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। त्रय:। कालकाञ्जा:। दिवि। देवा:ऽइव। श्रिता:। तान्। सर्वान्। अह्वे। ऊतये। अस्मै। अरिष्टऽतातये। ८०.२।
+ये। त्रयः। कालकाञ्जाः। दिवि। देवाःऽइव। श्रिताः। तान्। सर्वान्। अह्वे। ऊतये। अस्मै। अरिष्टऽतातये। ८०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

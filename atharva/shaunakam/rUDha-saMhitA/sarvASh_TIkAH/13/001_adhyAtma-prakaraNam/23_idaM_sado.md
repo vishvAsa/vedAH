@@ -20,7 +20,6 @@ read in **c** *gandharvāḥ*, as if vocative.
 Rohita's seat is Rohini before us: that is the path the speckled Mare pursueth. Kasyapas and Gandharvas lead her upward, and heavenly sages ever watch and guard her,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। सदः। रोहिणी। रोहितस्य। असौ। पन्थाः। पृषती। येन। याति। ताम्। गन्धर्वाः। कश्यपाः। उत्। नयन्ति। कवयः। अप्रऽमादम्। १.२३।

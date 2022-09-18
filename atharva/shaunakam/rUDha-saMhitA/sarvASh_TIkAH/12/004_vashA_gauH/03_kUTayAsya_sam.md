@@ -27,7 +27,6 @@ the difficulty. ⌊On *kūṭá*, see von Bradke, KZ. xxxiv. 157.⌋
 They perish through a hornless cow, a lame cow sinks them in a pit. Through a maimed cow his house is burnt: a one-eyed cow destroys his wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कूटया। अस्य। सम्। शीर्यन्ते। श्लोणया। काटम्। अर्दति। बण्डया। दह्यन्ते। गृहाः। काणया। दीयते। स्वम्। ४.३।

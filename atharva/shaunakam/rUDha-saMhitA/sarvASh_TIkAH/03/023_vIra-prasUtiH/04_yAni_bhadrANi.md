@@ -28,10 +28,9 @@ makes the meter correct.
 With that auspicious general flow wherewith steers propagate their kind, Do thou obtain thyself a son: be thou a fruitfu! mother-cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यानि। भद्राणि। बीजानि। ऋषभा:। जनयन्ति। च। तै:। त्वम्। पुत्रम्। विन्दस्व। सा। प्रऽसू:। धेनुका। भव। २३.४।
+यानि। भद्राणि। बीजानि। ऋषभाः। जनयन्ति। च। तैः। त्वम्। पुत्रम्। विन्दस्व। सा। प्रऽसूः। धेनुका। भव। २३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

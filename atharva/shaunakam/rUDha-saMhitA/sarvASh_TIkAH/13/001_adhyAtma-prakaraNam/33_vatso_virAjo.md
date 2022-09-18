@@ -26,7 +26,6 @@ one's wishes.
 Calf of Viraj, the Bull of prayers and worship, whitebacked, he hath gone up to air's mid-region. Singing, they hymn the Calf, with gifts of butter: him who is Brahma they exalt with Brahma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वत्सः। विऽराजः। वृषभः। मतीनाम्। आ। रुरोह। शुक्रऽपृष्ठः। अन्तर‍िक्षम्। घृतेन। अर्कम्। अभि। अर्चन्ति। वत्सम्। ब्रह्म। सन्तम्। ब्रह्मणा। वर्धयन्ति। १.३३।

@@ -25,10 +25,9 @@ capable of being read as 40 syllables.
 Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as Hotar. And now, O Agni, make thy person friendly, and win felicity for us by worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रत्न:। हि। कम्। ईड्य:। अध्वरेषु। सनात्। च। होता। नव्य:। च। सत्सि। स्वाम्। च। अग्ने। तन्वम्। प्रिप्रायस्व। अस्मभ्यम्। च। सौभगम्। आ। यजस्व। ११०.१।
+प्रत्नः। हि। कम्। ईड्यः। अध्वरेषु। सनात्। च। होता। नव्यः। च। सत्सि। स्वाम्। च। अग्ने। तन्वम्। प्रिप्रायस्व। अस्मभ्यम्। च। सौभगम्। आ। यजस्व। ११०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

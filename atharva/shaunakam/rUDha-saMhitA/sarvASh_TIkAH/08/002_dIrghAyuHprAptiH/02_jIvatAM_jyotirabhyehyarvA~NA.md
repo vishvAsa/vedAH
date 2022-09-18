@@ -25,10 +25,9 @@ the order of **c** and **d**, and reads *lokam* for *arvān̄* in **a**.
 Come to the light of living men, come hither: I draw thee to a life of hundred autumns. Loosing the bonds of Death, the curse that holds thee, I give thee age of very long duration.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जीवताम्। ज्योति:। अभिऽएहि। अवाङ्। आ। त्वा। हरामि। शतऽशारदाय। अवऽमुञ्चन्। मृत्युऽपाशान्। अशस्तिम्। द्राघीय:। आयु:। प्रऽतरम्। ते। दधामि। २.२।
+जीवताम्। ज्योतिः। अभिऽएहि। अवाङ्। आ। त्वा। हरामि। शतऽशारदाय। अवऽमुञ्चन्। मृत्युऽपाशान्। अशस्तिम्। द्राघीयः। आयुः। प्रऽतरम्। ते। दधामि। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ separately described by the Anukr.
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२४॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। एतम्। देवम्। एकऽवृतम्। वेद। ६.३।

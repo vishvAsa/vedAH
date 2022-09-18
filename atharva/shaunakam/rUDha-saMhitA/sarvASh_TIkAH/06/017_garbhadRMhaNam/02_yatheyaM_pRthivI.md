@@ -19,8 +19,7 @@ anu* and *suvitave*.
 Even as this mighty Earth hath borne and bears the stately forest trees, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भ:। अनु। सूतुम्। सवितवे। १७.२।
+यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.२।
 </details>

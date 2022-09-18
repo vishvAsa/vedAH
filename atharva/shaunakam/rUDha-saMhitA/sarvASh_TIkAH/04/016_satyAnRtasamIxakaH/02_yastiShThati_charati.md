@@ -33,10 +33,9 @@ connects it with *ní-līna* of vs. 3; cf. *Gram.* §995 a, and my
 If a man stands or walks or moves in secret, goes to his lying- down or his uprising, What two men whisper as they sit together, King Varuna knows: he as the third is present.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। तिष्ठति। चरति। य:। च। वञ्चति। य:। निऽलायम्। चरति। य:। प्रऽङ्कम्। द्वौ। सम्ऽनिषद्य। यत्। मन्त्रयते। इति। राजा। तत्। वेद। वरुण:। तृतीय:। १६.२।
+यः। तिष्ठति। चरति। यः। च। वञ्चति। यः। निऽलायम्। चरति। यः। प्रऽङ्कम्। द्वौ। सम्ऽनिषद्य। यत्। मन्त्रयते। इति। राजा। तत्। वेद। वरुणः। तृतीयः। १६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ Ppp. omits the second clause of vs. 7, and reads *pari-* for *upa-* in
 What they spread upon the floor is just Sacrificial Grass.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। उपऽस्तृणन्ति। बर्हि:। एव। तत्। ६.८।
+यत्। उपऽस्तृणन्ति। बर्हिः। एव। तत्। ६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

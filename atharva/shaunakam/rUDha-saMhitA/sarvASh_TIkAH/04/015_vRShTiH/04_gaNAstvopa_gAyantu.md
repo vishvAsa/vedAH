@@ -24,10 +24,9 @@ so the meter indicates. The comm. gives in **c** *varṣantas*.
 Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring torrents of the rain that raineth rain upon the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गणा। त्वा। उप। गायन्तु। मारुता:। पर्जन्य। घोषिण:। पृथक्। सर्गा:। वर्षस्य। वर्षत:। वर्षन्तु। पृथिवीम्। अनु। १५.४।
+गणा। त्वा। उप। गायन्तु। मारुताः। पर्जन्य। घोषिणः। पृथक्। सर्गाः। वर्षस्य। वर्षतः। वर्षन्तु। पृथिवीम्। अनु। १५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

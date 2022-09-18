@@ -21,7 +21,6 @@ Ppp. reads *paktaye* in **b**, combines *saptarṣ-* in **c**, and has in
 Thou, Agni, wart produced for mighty valour, to cook Brahmau- dana, O Jatavedas. Seven Rishis, makers of the world, begat thee, Grant to this woman wealth with store of heroes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। अजनिष्ठाःः। महते। वीर्याय। ब्रह्मऽओदनाय। पक्तवे। जातऽवेदः। सप्तऽऋषयः। भूतऽकृतः। ते। त्वा। अजीजनन्। अस्यै। रयिम्। सर्वऽवीरम्। नि। यच्छ। १.३।

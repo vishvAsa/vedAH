@@ -26,10 +26,9 @@ in Ppp.⌋.
 Bring forth a male, bring forth a son. Another male shall follow him. The mother shalt thou be of sons born and hereafter to be born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुमांसम्। पुत्रम्। जनय। तम्। पुमान्। अनु। जायताम्। भवासि। पुत्राणाम्। माता। जातानाम्। जनया:। च। यान्। २३.३।
+पुमांसम्। पुत्रम्। जनय। तम्। पुमान्। अनु। जायताम्। भवासि। पुत्राणाम्। माता। जातानाम्। जनयाः। च। यान्। २३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

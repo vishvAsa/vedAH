@@ -7,7 +7,6 @@ title = "०८४ निर्ऋतिमोचनम्"
 84. For release from perdition.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 निर्ऋतिमोचनम्।  
@@ -18,8 +17,6 @@ title = "०८४ निर्ऋतिमोचनम्"
 
 [An̄giras.—caturṛcam. nāirṛtam. 1. bhurig jagatī; 2. 3-p. ārcī bṛhatī; 3, 4. jagatī; 4. bhurik triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 444; Griffith, i. 291.
 
 A charm to accompany the symbolical loosing of sacrificial victims
 </details>
+

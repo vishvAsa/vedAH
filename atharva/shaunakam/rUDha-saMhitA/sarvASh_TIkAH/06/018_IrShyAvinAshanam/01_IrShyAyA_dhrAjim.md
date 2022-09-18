@@ -20,10 +20,9 @@ explains *dhrājim* by *vegayuktāṁ gatim*.
 The first approach of Jealousy, and that which followeth the first, The pain, the fire that burns within thy heart we quench and drive away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ईर्ष्याया:। ध्राजिम्। प्रथमाम्। प्रथमस्या:। उत। अपराम्। अग्निम्। हृदय्यम्। शोकम्। तम्। ते। नि:। वापयामसि। १८.१।
+ईर्ष्यायाः। ध्राजिम्। प्रथमाम्। प्रथमस्याः। उत। अपराम्। अग्निम्। हृदय्यम्। शोकम्। तम्। ते। निः। वापयामसि। १८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

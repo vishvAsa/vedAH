@@ -23,7 +23,6 @@ fuel, and seed with sacrificial butter.
 Fuel they turned to bone, and then they set light waters in the frame. The molten butter they made seed: then the Gods entered into man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्थि। कृत्वा। सम्ऽइधम्। तत्। अष्ट। आपः। असादयन्। रेतः। कृत्वा। आज्यम्। देवाः। पुरुषम्। आ। अविशन्। १०.२९।

@@ -19,7 +19,6 @@ The comm. reads at the end *āsate*.
 As yet the Seasons were unborn, and Dilator and Prajapati, Both Asvins, Indra, Agni. Whom then did they worship as supreme?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अजाताः। आसन्। ऋतवः। अथो इति। धाता। बृहस्पतिः। इन्द्राग्नी इति। अश्विना। तर्हि। कम्। ते। ज्येष्ठम्। उप। आसत। १०.५।

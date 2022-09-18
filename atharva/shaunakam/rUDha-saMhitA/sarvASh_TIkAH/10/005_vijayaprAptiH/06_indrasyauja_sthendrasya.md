@@ -34,7 +34,6 @@ connection with the same ⌊cf. the introduction⌋.
 For the victorious enterprise let all creation stand by me. For me ye, Waters, are prepared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रस्य। ओजः। स्थ। इन्द्रस्य। सहः। स्थ। इन्द्रस्य। बलम्। स्थ। इन्द्रस्य। वीर्यम्। स्थ। इन्द्रस्य। नृम्णम्। स्थ। जिष्णवे। योगाय। विश्वानि। मा। भूतानि। उप। तिष्ठन्तु। युक्तः। मे। आपः। स्थ। ५.६।

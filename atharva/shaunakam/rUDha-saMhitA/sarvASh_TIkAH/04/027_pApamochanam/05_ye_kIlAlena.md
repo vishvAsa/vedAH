@@ -21,10 +21,9 @@ meter of **c** by omitting  *adbhis*. The comm. takes *váyas* first as
 They who delight in nectar and in fatness, they who bestow upon us health and vigour. The Maruts who rain mighty with their waters, may they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। कीलालेन। तर्पयन्ति। ये। घृतेन। ये। वा। वय:। मेदसा। सम्ऽसृजन्ति। ये। अत्ऽभि:। ईशाना:। मरुत:। वर्षयन्ति। ते। न:। मुञ्चन्तु। अंहस:। २७.५।
+ये। कीलालेन। तर्पयन्ति। ये। घृतेन। ये। वा। वयः। मेदसा। सम्ऽसृजन्ति। ये। अत्ऽभिः। ईशानाः। मरुतः। वर्षयन्ति। ते। नः। मुञ्चन्तु। अंहसः। २७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

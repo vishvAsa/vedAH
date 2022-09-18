@@ -26,10 +26,9 @@ eleventh *anuvāka;* the Anukr. says: *prāk tasmāt saptatriṅśaḥ*.
 Stored in twelve separate places lies what Trita hath wiped away, the sins of human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्वादशऽधा। निऽहितम्। त्रितस्य। अपऽमृष्टम्। मनुष्यऽएनसानि। तत:। यदि। त्वा। ग्राहि:। आनशे। ताम्। ते। देवा:। ब्रह्मणा। नाशयन्तु। ११३.३।
+द्वादशऽधा। निऽहितम्। त्रितस्य। अपऽमृष्टम्। मनुष्यऽएनसानि। ततः। यदि। त्वा। ग्राहिः। आनशे। ताम्। ते। देवाः। ब्रह्मणा। नाशयन्तु। ११३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

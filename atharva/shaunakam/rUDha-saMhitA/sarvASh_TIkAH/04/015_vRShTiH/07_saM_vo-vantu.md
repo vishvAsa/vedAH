@@ -25,10 +25,9 @@ its accent.
 Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged by the Maruts let the clouds pour down their rain upon. the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। अवन्तु। सुऽदानव:। उत्सा:। अजगरा:। उत। मरुत्ऽभि:। प्रऽच्युता:। मेघा:। वर्षन्तु। पृथिवीम्। अनु। १५.७।
+सम्। वः। अवन्तु। सुऽदानवः। उत्साः। अजगराः। उत। मरुत्ऽभिः। प्रऽच्युताः। मेघाः। वर्षन्तु। पृथिवीम्। अनु। १५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

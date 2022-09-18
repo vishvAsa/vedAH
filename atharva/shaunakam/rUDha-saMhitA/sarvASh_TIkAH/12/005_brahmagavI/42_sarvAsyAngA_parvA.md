@@ -16,7 +16,6 @@ title = "४२ सर्वास्याङ्गा पर्वा"
 She sunders all his members, joints, and roots.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वा। अस्य। अङ्गा। पर्वा। मूलानि। वृश्चति। ९.४।

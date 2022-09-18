@@ -24,10 +24,9 @@ reads the second *iha* as accentless. Cf. *Gram.* §1260 **c**.⌋
 Invoke for us, proclaim in sundry places, the kinsman of the Gods, our sire Atharvan, His mother's germ, his father's breath, the youthful, who with his mind hath noticed this oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अथर्वाणम्। पितरम्। देवऽबन्धुम्। मातु:। गर्भम्। पितु:। असुम्। युवानम्। य:। इमम्। यज्ञम्। मनसा। चिकेत। प्र। न:। वोच:। तम्। इह। इह। ब्रव:। २.१।
+अथर्वाणम्। पितरम्। देवऽबन्धुम्। मातुः। गर्भम्। पितुः। असुम्। युवानम्। यः। इमम्। यज्ञम्। मनसा। चिकेत। प्र। नः। वोचः। तम्। इह। इह। ब्रवः। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

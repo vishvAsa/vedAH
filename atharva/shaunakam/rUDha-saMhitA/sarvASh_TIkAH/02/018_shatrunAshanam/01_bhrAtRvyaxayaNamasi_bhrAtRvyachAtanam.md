@@ -24,10 +24,9 @@ aprārthayat.* ⌊Instead of "destroying" W. has interlined "destruction."⌋
 Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भ्रातृव्यऽक्षयणम्। असि। भ्रातृव्यऽचातनम्। मे। दा:। स्वाहा। १८.१।
+भ्रातृव्यऽक्षयणम्। असि। भ्रातृव्यऽचातनम्। मे। दाः। स्वाहा। १८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

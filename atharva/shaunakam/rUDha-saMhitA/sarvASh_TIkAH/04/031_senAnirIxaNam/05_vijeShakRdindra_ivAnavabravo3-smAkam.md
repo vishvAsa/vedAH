@@ -21,10 +21,9 @@ victory—that are not new (*a-nava*)." The verses 5-7 are not full
 Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. To thy dear name. O victor, we sing praises: we know the spring from which thou art come hither.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विजेषऽकृत्। इन्द्र:ऽइव। अनवऽब्रव:। अस्माकम्। मन्यो इति। अधिऽपा:। भव। इह। प्रियम्। ते। नाम। सहुरे। गृणीमसि। विद्म। तम्। उत्सम्। यत:। आऽबभूथ। ३१.५।
+विजेषऽकृत्। इन्द्रःऽइव। अनवऽब्रवः। अस्माकम्। मन्यो इति। अधिऽपाः। भव। इह। प्रियम्। ते। नाम। सहुरे। गृणीमसि। विद्म। तम्। उत्सम्। यतः। आऽबभूथ। ३१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

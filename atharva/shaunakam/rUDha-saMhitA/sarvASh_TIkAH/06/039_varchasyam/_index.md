@@ -7,7 +7,6 @@ title = "०३९ वर्चस्यम्"
 39. For glory.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चस्यम्।  
@@ -19,8 +18,6 @@ title = "०३९ वर्चस्यम्"
 
 [Atharvan (varcashāmaḥ).—bṛhaspatidevatyam. 1. jagatī; 2. triṣṭubh; 3. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 240; Florenz, 299 or 51; Griffith, i. 265; Bloomfield, 11
 
 A priest's prayer for power and glory
 </details>
+

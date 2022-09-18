@@ -24,7 +24,6 @@ syllable in **d**.⌋
 Beneath the upper realm, above this lower, bearing her Calf at foot, the Cow hath risen Whitherward, to what place hath she departed? Where doth she calve? Not in this herd of cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवः। परेण। परः। एना। अवरेण। पदा। वत्सम्। बिभ्रती। गौः। उत्। अस्थात्। सा। कद्रीची। कम्। स्वित्। अर्धम्। परा। अगात्। क्व। स्वित्। सूते। नहि। यूथे। अस्मिन्। १.४१।

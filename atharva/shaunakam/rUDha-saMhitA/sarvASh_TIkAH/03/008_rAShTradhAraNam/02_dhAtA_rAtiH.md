@@ -28,10 +28,9 @@ stage of the language) for *ásāni*. The verse as it stands (11 + 12: 11
 May Indra, Tvashtar hear my word with favour, may Dhatar, Rati, Savitar accept it. I call the Goddess Aditi, heroes' mother, that I may be the centre of my kinsmen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। राति:। सविता। इदम्। जुषन्ताम्। इन्द्र:। त्वष्टा। प्रति। हर्यन्तु। मे। वच:। हुवे। देवीम्। अदितिम्। शूरऽपुत्राम्। सऽजातानाम्। मध्यमेऽस्था:। यथा। असानि। ८.२।
+धाता। रातिः। सविता। इदम्। जुषन्ताम्। इन्द्रः। त्वष्टा। प्रति। हर्यन्तु। मे। वचः। हुवे। देवीम्। अदितिम्। शूरऽपुत्राम्। सऽजातानाम्। मध्यमेऽस्थाः। यथा। असानि। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

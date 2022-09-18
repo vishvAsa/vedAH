@@ -7,7 +7,6 @@ title = "०९४ सांमनस्यम्"
 94. For harmony.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -19,8 +18,6 @@ title = "०९४ सांमनस्यम्"
 [Atharvān̄giras.—sārasvatyam. ānuṣṭubham. 2. virāḍ jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ The first verse (= iii. 8. 5; the four preceding verses of iii. 8 occurred elsew
 ### Translations
 Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 </details>
+

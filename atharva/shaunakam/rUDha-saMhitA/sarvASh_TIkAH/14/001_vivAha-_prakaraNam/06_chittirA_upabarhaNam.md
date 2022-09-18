@@ -18,7 +18,6 @@ Is RV. x. 85. 7, without variant.
 Thought was her coverlet, the power of sight was unguent for her eyes: Her treasure-chest was earth and heaven, when Surya went unto her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चित्तिः। आः। उपऽबर्हणम्। चक्षुः। आः। अभिऽअञ्जनम्। द्यौः। भूमि। कोशः। आसीत्। यत्। अयात्। सूर्या। पतिम्। १.६।

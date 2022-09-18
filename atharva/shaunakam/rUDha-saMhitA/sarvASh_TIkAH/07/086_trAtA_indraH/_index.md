@@ -7,7 +7,6 @@ title = "०८६ त्राता इन्द्रः"
 86 (91). Invocation of Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 त्राता इन्द्रः।  
@@ -18,8 +17,6 @@ title = "०८६ त्राता इन्द्रः"
 
 [Atharvan (svastyayanakāmaḥ).—āindram, trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 36, 106; Griffith, i. 372.
 
 The same
 </details>
+

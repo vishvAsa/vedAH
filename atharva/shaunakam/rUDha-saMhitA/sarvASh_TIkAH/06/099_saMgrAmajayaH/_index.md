@@ -7,7 +7,6 @@ title = "०९९ संग्रामजयः"
 99. For safety: to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 संग्रामजयः।  
@@ -19,8 +18,6 @@ title = "०९९ संग्रामजयः"
 [Atharvan.—āindram: 3. sāumyā sāvitrī ca. ānuṣṭubham: 3. bhurig bṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ title = "०९९ संग्रामजयः"
 ### Translations
 Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 </details>
+

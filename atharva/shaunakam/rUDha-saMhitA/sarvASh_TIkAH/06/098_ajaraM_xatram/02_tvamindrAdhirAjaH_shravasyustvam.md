@@ -27,10 +27,9 @@ definition of the Anukr. is not very successful.
 Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of these celestial tribes be thou the sovran: long-lasting be thy sway and undecaying!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। अधिऽराज:। श्रवस्यु:। त्वम्। भू:। अभिऽभूति:। जनानाम्। त्वम्। दैवी:। विश:। इमा:। वि। राज। आयुष्मत्। क्षत्रम्। अजरम्। ते। अस्तु। ९८.२।
+त्वम्। इन्द्र। अधिऽराजः। श्रवस्युः। त्वम्। भूः। अभिऽभूतिः। जनानाम्। त्वम्। दैवीः। विशः। इमाः। वि। राज। आयुष्मत्। क्षत्रम्। अजरम्। ते। अस्तु। ९८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

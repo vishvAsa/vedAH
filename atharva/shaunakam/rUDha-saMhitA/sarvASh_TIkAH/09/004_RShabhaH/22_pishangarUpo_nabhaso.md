@@ -27,10 +27,9 @@ but overlooks the accent of *nabhasó:* cf. *támas-ā* and *tamasā́*
 With close connexion mingle with the cows in this our cattle- pen: Mingle, the Bull's prolific flow, and, Indra! thine heroic strength!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिशङ्गऽरूप:। नभस:। वय:ऽधा:। ऐन्द्र:। शुष्म:। विश्वऽरूप:। न:। आ। अगन्। आयु:। अस्मभ्यम्। दधत्। प्रऽजाम्। च। राय:। च। पोषै:। अभि। न:। सचताम्। ४.२३।
+पिशङ्गऽरूपः। नभसः। वयःऽधाः। ऐन्द्रः। शुष्मः। विश्वऽरूपः। नः। आ। अगन्। आयुः। अस्मभ्यम्। दधत्। प्रऽजाम्। च। रायः। च। पोषैः। अभि। नः। सचताम्। ४.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

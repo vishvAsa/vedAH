@@ -26,10 +26,9 @@ perhaps we ought to read *puro-bṛhatī* for *parā-*.⌋
 By holy wisdom I a sage, Far-Strider! offer to thee this lofty adoration. This worship both the mighty eddying rivers, coming together to this station, heighten.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। ऊं इति। सु। ते। महत्। पृथुऽज्मन्। नम:। कवि:। काव्येन। कृणोमि। यत्। सम्यञ्चौ। अभिऽयन्तौ। अभि। क्षाम्। अत्र। मही इति। रोधचक्रे इति रोधऽचक्रे। ववृधेते इति। १.५।
+तत्। ऊं इति। सु। ते। महत्। पृथुऽज्मन्। नमः। कविः। काव्येन। कृणोमि। यत्। सम्यञ्चौ। अभिऽयन्तौ। अभि। क्षाम्। अत्र। मही इति। रोधचक्रे इति रोधऽचक्रे। ववृधेते इति। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

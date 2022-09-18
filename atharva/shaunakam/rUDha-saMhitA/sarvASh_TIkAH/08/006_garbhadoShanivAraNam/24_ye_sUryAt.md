@@ -21,10 +21,9 @@ that of *śváśurāt*. ⌊Cf. Geldner, *Ved. Stud.* i. 270.⌋
 Shy slinkers from the Sun, as slinks a woman from her husband's sire, Deep down into the heart of these let Baja and let Pinga pierce.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। सूर्यात्। परिऽसर्पन्ति। स्नुषाऽइव। श्वशुरात्। अधि। बज:। च। तेषाम्। पिङ्ग:। च। हृदये। अधि। नि। विध्यताम्। ६.२४।
+ये। सूर्यात्। परिऽसर्पन्ति। स्नुषाऽइव। श्वशुरात्। अधि। बजः। च। तेषाम्। पिङ्गः। च। हृदये। अधि। नि। विध्यताम्। ६.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

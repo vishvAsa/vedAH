@@ -24,7 +24,6 @@ we read *varīvartti* there, we ought also to do so here.⌋ ⌊Cf.
 I saw the Herdsman, him who never stumbles, approaching by his pathways and departing. He clothed with gathered and diffusive splendours, within the worlds continually travels.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपश्यम्। गोपाम्। अनिऽपद्यमानाम्। आ। च। परा। च। पथिऽभिः। चरन्तम्। सः। सध्रीचीः। सः। विषूचीः। वसानः। आ। वरीवर्ति। भुवनेषु। अन्तः। १५.११।

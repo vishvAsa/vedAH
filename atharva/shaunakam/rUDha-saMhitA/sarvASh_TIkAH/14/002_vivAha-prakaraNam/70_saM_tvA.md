@@ -23,7 +23,6 @@ uses the verse (with 1. 42) at the girding of the bride.
 With all the milk that is in Earth I gird thee, with all the milk that Plants contain I dress thee. I gird thee round with children and with riches. Do thou, thus girt, receive the offered treasure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। त्वा। नह्यामि। पयस। पृथिव्याः। सम्। त्वा। नह्यामि। पयसा। ओषधीनाम। सम्। त्वा। नह्यामि। प्रऽजया। धनेन। सा। सम्ऽनध्दा। सनुहि। वाजम्। आ। इमम्। २.७०।

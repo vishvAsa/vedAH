@@ -7,7 +7,6 @@ title = "००४ ऋषभः"
 4. Accompanying the gift of a bull.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ऋषभः  
@@ -19,8 +18,6 @@ title = "००४ ऋषभः"
 
 [Brahman.—caturviṅśakam. ārṣabham. trāiṣṭubham: 8. bhurij; 6, 10, 24. jagatī; 11-17, 19, 20, 23. anuṣṭubh; 18. upariṣṭād bṛhatī; 21. āstārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Henry, 90, 128; Griffith, i. 438.—For some of the vss. the reader 
 
 A glorification of the typical sacrificial bull
 </details>
+

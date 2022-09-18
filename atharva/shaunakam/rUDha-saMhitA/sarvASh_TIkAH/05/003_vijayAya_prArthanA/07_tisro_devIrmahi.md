@@ -26,10 +26,9 @@ jānātv asmāt*. The Anukr. ignores the extra syllable in **a**.
 Do ye three Goddesses give ample shelter and all success to us ourselves and children. Let us not lose our children or our bodies: let us not benefit the foe, King Soma!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तिस्र:। देवी:। महि। न:। शर्म। यच्छत। प्रऽजायै। न:। तन्वे। यत्। च। पुष्टम्। मा। हास्महि। प्रऽजया। मा। तनूभि:। मा। रधाम। द्विषते। सोम। राजन्। ३.७।
+तिस्रः। देवीः। महि। नः। शर्म। यच्छत। प्रऽजायै। नः। तन्वे। यत्। च। पुष्टम्। मा। हास्महि। प्रऽजया। मा। तनूभिः। मा। रधाम। द्विषते। सोम। राजन्। ३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

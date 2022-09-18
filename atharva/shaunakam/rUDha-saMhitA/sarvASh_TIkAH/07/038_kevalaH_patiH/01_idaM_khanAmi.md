@@ -51,10 +51,9 @@ further my addition to note on vs. 5.⌋
 I dig this Healing Herb that makes my lover look on me and weep; That bids the parting friend return and kindly greets him as he comes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। खनामि। भेषजम्। माम्ऽपश्यम्। अभिऽरोरुदम्। पराऽयत:। निऽवर्तनम्। आऽयत:। प्रतिऽनन्दनम्। ३९.१।
+इदम्। खनामि। भेषजम्। माम्ऽपश्यम्। अभिऽरोरुदम्। पराऽयतः। निऽवर्तनम्। आऽयतः। प्रतिऽनन्दनम्। ३९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

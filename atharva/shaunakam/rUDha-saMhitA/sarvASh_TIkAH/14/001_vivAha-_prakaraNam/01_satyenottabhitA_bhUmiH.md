@@ -26,7 +26,6 @@ Wint., p. 66.⌋
 Truth is the base that bears the earth; by Surya are the heavens upheld. By Law the Adityas stand secure, and Soma holds his place in heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्येन। उत्तभिता। भूमिः। सूर्येण। उत्तभिता। द्यौः। ऋतेन। आदित्याः। तिष्ठन्ति। दिवि। सोमः। अधि। श्रितः। १.१।

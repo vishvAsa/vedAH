@@ -18,7 +18,6 @@ That is, probably, exceed or surpass even this important ceremony.
 The Vasus from the South will be thy guards, the Maruts from the North, Adityas from the West; o'ertake and pass the Agnishtoma, thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वसवः। त्वा। दक्षिणतः। उत्तरात्। मरुतः। त्वा। आदित्याः। पश्चात्। गोप्स्यन्ति। सा। अग्निऽस्तोमम्। अति। द्रव। ९.८।

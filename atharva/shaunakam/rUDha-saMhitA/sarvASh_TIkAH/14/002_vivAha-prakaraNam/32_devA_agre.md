@@ -26,7 +26,6 @@ grasses by the wooers who have gone out to arrange for the bridal.
 The Gods at first lay down beside their consorts; body with body met in close embracement. O Dame, like Surya perfect in her grandeur, here rich in future children, meet thy husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। अग्रे। नि। अपद्यन्त। पत्नीः। सम्। अस्पृशन्त। तन्वः। तनूभिः। सूर्याऽइव। नारि। विश्वऽरूपा। महिऽत्वा। प्रजाऽवती। पत्या। सम्। भव। इह। २.३२।

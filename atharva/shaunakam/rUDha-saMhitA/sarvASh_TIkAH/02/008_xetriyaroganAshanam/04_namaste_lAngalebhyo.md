@@ -23,10 +23,9 @@ Anukr. strangely forbids the resolution *-bhi-as* in **a** and **b**.
 Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the plague-destroying Plant remove inherited disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। लाङ्गलेभ्य:। नम:। ईषाऽयुगेभ्य:। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.४।
+नमः। ते। लाङ्गलेभ्यः। नमः। ईषाऽयुगेभ्यः। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

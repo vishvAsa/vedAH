@@ -19,10 +19,9 @@ Ppp. reads in **a** *-pāvane*, humoring the meter.
 For Indra, thunder-armed, who drinks the Soma press the Soma out: He, youthful, conqueror, and Lord is praised by all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुनोत। सोमऽपाव्ने। सोमम्। इन्दाय। वज्रिणे। युवा। जेता। ईशान:। स:। पुरुऽस्तुत:। २.३।
+सुनोत। सोमऽपाव्ने। सोमम्। इन्दाय। वज्रिणे। युवा। जेता। ईशानः। सः। पुरुऽस्तुतः। २.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ indicating the attachment here of the refrain. It is properly an *ākṛti*
 This gold-hued Harisa's wings, soaring to heaven spread o'er a thousand days' continued journey. Supporting all the Gods upon his bosom, he goes his way behol- ding every creature. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽअह्न्यम्। विऽयतौ। अस्य। पक्षौ। हरेः। हंसस्य। पततः। स्वःऽगम्। सः। देवान्। सर्वान। उरसि। उपऽदद्य। सम्ऽपश्यन्। याति। भुवनानि। विश्वा। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१४।

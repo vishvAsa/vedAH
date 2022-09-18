@@ -24,10 +24,9 @@ containing either the root *aj* or *ji*.
 This very mighty one whom Gods urge onward, the conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even Tarkshya for our weal will we call hither.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्यम्। ऊं इति। सु। वाजिनम्। देवऽजूतम्। सह:ऽवानम्। तरुतारम्। रथानाम्। अरिष्टऽनेमिम्। पृतनाऽजिम्। आशुम्। स्वस्तये। तार्क्ष्यम्। इह। आ। हुवेम। ९०.१।
+त्यम्। ऊं इति। सु। वाजिनम्। देवऽजूतम्। सहःऽवानम्। तरुतारम्। रथानाम्। अरिष्टऽनेमिम्। पृतनाऽजिम्। आशुम्। स्वस्तये। तार्क्ष्यम्। इह। आ। हुवेम। ९०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१६ शत्रुबाधनम्"
 16. Against demons: with an amulet of lead.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुबाधनम्।  
@@ -18,8 +17,6 @@ title = "०१६ शत्रुबाधनम्"
 
 [Cātana.—agnīndram, vāruṇam, dadhatyam. ānuṣṭubham: 4. kakummatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 409; Grill, 1, 75; Griffith, 1. 20; Bloomfield, 65, 256.
 
 A prayer and charm against demons
 </details>
+

@@ -21,7 +21,6 @@ here.
 With Gayatri he measures out the praise-song, Saman with praise-song, triplet with the Trishtup, The triplet with the two or four-foot measure, and with the syllable they form seven metres.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गायत्रेण। प्रति। मिमीते। अर्कम्। अर्केण। साम। त्रैस्तुभेन। वाकम्। वाकेन। वाकम्। द्विऽपदा। चतुःऽपदा। अक्षरेण। मिमते। सप्त। वाणीः। १५.२।

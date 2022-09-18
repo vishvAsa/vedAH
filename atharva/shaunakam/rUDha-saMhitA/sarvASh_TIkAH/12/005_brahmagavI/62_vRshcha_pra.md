@@ -16,7 +16,6 @@ title = "६२ वृश्च प्र"
 Rend, rend to bits, rend through and through, scorch and con- sume and burn to dust,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वृश्च। प्र। वृश्च। सम्। वृश्च। दह। प्र। दह। सम्। दह। ११.१।

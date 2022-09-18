@@ -25,7 +25,6 @@ half-verse is given in GB. i. 2. 7. The comm. explains *pariṣūtam* as
 Piled up on high, but never yet ascended, that power of deities is brightly shining. From that sprang heavenly lore, the loftiest Brahma, and all the Gods with, life that lasts for ever.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवानाम्। एतत्। परिऽसूतम्। अनभिऽआरूढम्। चरति। रोचमानम्। तस्मात्। जातम्। ब्राह्मणम्। ब्रह्म। ज्येष्ठम्। देवाः। च। सर्वे। अमृतेन। साकम्। ७.२३।

@@ -20,10 +20,9 @@ The name in Ppp. is *virājas*. In TS., the name is
 Ye Gods who dwell within this westward region, whose name is Radiant, Water forms your arrows. Be kind, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। प्रतीच्याम्। दिशि। वैराजा:। नाम। देवा:। तेषाम्। व:। आप:। इषव:। ते। न:। मृडत। ते। न:। अधि। ब्रूत। तेभ्य:। व:। नम:। तेभ्य:। व:। स्वाहा। २६.३।
+ये। अस्याम्। स्थ। प्रतीच्याम्। दिशि। वैराजाः। नाम। देवाः। तेषाम्। वः। आपः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

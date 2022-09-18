@@ -28,10 +28,9 @@ prāptavyam*, etc.: all the purest nonsense.
 He who controls this air and men who aid his strength, and wood, and heaven, the lofty seat which Indra loves.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। इदम्। आ। रज:। युज:। तुजे। जना:। वनम्। स्व:। इन्द्रस्य। रन्त्यम्। बृहत्। ३३.१।
+यस्य। इदम्। आ। रजः। युजः। तुजे। जनाः। वनम्। स्वः। इन्द्रस्य। रन्त्यम्। बृहत्। ३३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

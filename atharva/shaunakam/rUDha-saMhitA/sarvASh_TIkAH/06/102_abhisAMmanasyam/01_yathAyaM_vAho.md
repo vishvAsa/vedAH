@@ -21,10 +21,9 @@ or adjunct⌋ of the verbs—which is also possible.
 Even as this ox, O Asvins, steps and turns together with his mate, So let thy fancy turn itself, come nearer, and unite with me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। अयम्। वाह:। अश्विना। सम्ऽऐति। सम्। च। वर्तते। एव। माम्। अभि। ते। मन:। सम्ऽऐतु। सम्। च। वर्तताम्। १०२.१।
+यथा। अयम्। वाहः। अश्विना। सम्ऽऐति। सम्। च। वर्तते। एव। माम्। अभि। ते। मनः। सम्ऽऐतु। सम्। च। वर्तताम्। १०२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

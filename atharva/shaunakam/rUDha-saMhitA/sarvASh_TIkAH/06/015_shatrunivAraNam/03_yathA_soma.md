@@ -21,10 +21,9 @@ cataphracta*).
 As Soma hath been made the best of all oblations 'mid the plants, So, as Talasa is the queen of trees, may I be chief of all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सोम:। ओषधीनाम्। उत्ऽतम:। हविषाम्। कृत:। तलाशा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतम:। १५.३।
+यथा। सोमः। ओषधीनाम्। उत्ऽतमः। हविषाम्। कृतः। तलाशा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतमः। १५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

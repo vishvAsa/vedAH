@@ -24,7 +24,6 @@ the new home. ⌊As to the "deity." of the verse, see above, p. 739, ¶'s
 To Surya and the Deities, to Mitra and to Varuna, Who know aright the thing that is, this adoration have I paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यायै। देवेभ्यः। मित्राय। वरुणाय। च। ये। भूतस्य। प्रऽचेतसः। तेभ्यः। इदम्। अकरम्। नमः। २.४६।

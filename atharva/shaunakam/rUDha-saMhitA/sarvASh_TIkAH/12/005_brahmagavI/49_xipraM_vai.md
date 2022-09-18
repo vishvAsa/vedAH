@@ -17,7 +17,6 @@ Ppp. reads, after *vāstuṣu*, *gan̄gānaṁ kurvate ‘pa vṛṣāt*.
 Quickly the wolves are howling in the habitation where he lived:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्य। वास्तुषु। वृकाः। कुर्वते। ऐलबम्। १०.३।

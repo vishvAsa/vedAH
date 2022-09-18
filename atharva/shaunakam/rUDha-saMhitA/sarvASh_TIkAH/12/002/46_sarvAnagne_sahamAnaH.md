@@ -19,7 +19,6 @@ as a whole verse.
 Subduing all our adversaries, Agni, give us their food, their strength and their possessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वान्। अग्ने। सहमानः। सऽपत्नान्। आ। एषाम्। ऊर्जम्। रयिम्। अस्मासु। धेहि। २.४६।

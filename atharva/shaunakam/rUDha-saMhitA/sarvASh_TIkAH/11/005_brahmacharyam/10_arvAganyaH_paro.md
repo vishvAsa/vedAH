@@ -23,7 +23,6 @@ out the play of the original, one might render *nidhī́* by 'deposits.'⌋
 Both treasuries of sacred lore lie hidden, one hitherward, beyond heaven's ridge the other. The Brahmachari with his Fervour guards them. He makes this all his own as knowing Brahma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्वाक्। अन्यः। परः। अन्यः। दिवः। पृष्ठात्। गुहा। निधी  इति। निऽधी। निऽहितौ। ब्राह्मणस्य। तौ। रक्षति। तपसा। ब्रह्मऽचारी। तत्। केवलम्। कृणुते। ब्रह्म। विद्वान्। ७.१०।

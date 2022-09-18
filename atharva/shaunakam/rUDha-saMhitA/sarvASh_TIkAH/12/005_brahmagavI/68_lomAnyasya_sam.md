@@ -17,7 +17,6 @@ off;—
 Snatch thou the hair from off his head, and from his body strip the skin:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 लोमानि। अस्य। सम्। छिन्धि। त्वचम्। अस्य। वि। वेष्टय। ११.७।

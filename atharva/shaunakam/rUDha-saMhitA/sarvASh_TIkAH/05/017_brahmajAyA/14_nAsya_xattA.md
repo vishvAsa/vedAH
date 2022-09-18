@@ -19,10 +19,9 @@ The meaning is not undisputed: Muir renders "charioteer" and "hosts"
 No steward, golden-necklaced, goes before the meat-trays of the man. Within whose kingdom is detained, through want of sense, a Brahman's dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। अस्य। क्षत्ता। निष्कऽग्रीव:। सूनानाम्। एति। अग्रत:। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१४।
+न। अस्य। क्षत्ता। निष्कऽग्रीवः। सूनानाम्। एति। अग्रतः। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

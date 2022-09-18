@@ -22,7 +22,6 @@ above (see note there).
 Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and law thou art my wife: the master of thy house am I.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भगः। ते। हस्तम्। अग्रहीत्। सविता। हस्तम्। अग्रहीत्। पत्नी। त्वम्। असि। धर्मणा। अहम्। गृहऽपतिः। तव। १.५१।

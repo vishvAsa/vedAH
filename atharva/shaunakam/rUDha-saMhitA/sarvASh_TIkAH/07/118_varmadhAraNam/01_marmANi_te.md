@@ -33,10 +33,9 @@ Here ends also the seventeenth *prapāṭhaka*.
 Thy vital parts I cover with thine armour: with immortality King Soma clothe thee! Varuna give thee what is more than ample, and in thy triumph let the Gods be joyful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मर्माणि। ते। वर्मणा। छादयामि। सोम:। त्वा। राजा। अमृतेन। अनु। वस्ताम्। उरो:। वरीय:। वरुण:। ते। कृणोतु। जयन्तम्। त्वा। अनु। देवा:। मदन्तु। १२३.१।
+मर्माणि। ते। वर्मणा। छादयामि। सोमः। त्वा। राजा। अमृतेन। अनु। वस्ताम्। उरोः। वरीयः। वरुणः। ते। कृणोतु। जयन्तम्। त्वा। अनु। देवाः। मदन्तु। १२३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ This verse too has occurred already, as iv. 7. 7. Ppp. combines *ve
 None have attained to those of old, those who wrought holy acts for you, Let them not harm our heroes here. Therefore I set before you this.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनाप्ता:। ये। व:। प्रथमा:। यानि। कर्माणि। चक्रिरे। वीरान्। न:। अत्र। मा। दभन्। तत्। व:। एतत्। पुर:। दधे। ६.२।
+अनाप्ताः। ये। वः। प्रथमाः। यानि। कर्माणि। चक्रिरे। वीरान्। नः। अत्र। मा। दभन्। तत्। वः। एतत्। पुरः। दधे। ६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

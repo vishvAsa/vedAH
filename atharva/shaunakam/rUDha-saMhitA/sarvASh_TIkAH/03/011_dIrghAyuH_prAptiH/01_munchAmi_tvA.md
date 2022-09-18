@@ -23,10 +23,9 @@ in Bloomfield's comment⌋. The first pāda is *jagatī.*
 For life I set thee free by this oblation both from unmarked'. decline and from consumption: Or if the grasping demon have possessed him, free him from her,. O Indra, thou and Agni!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुञ्चामि। त्वा। हविषा। जीवनाय। कम्। अज्ञातऽयक्ष्मात्। उत। राजऽयक्ष्मात्। ग्राहि:। जग्राह। यदि। एतत्। एनम्। तस्या:। इन्द्राग्नी  इति। प्र। मुमुक्तम्। एनम्। ११.१।
+मुञ्चामि। त्वा। हविषा। जीवनाय। कम्। अज्ञातऽयक्ष्मात्। उत। राजऽयक्ष्मात्। ग्राहिः। जग्राह। यदि। एतत्। एनम्। तस्याः। इन्द्राग्नी  इति। प्र। मुमुक्तम्। एनम्। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

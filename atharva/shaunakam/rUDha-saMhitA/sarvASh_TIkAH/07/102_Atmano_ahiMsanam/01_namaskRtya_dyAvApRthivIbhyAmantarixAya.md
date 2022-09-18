@@ -32,10 +32,9 @@ says *navamo dvādaśa* and *ekaviṅśa*.
 When I have worshipped Heaven and Earth, reverenced Firma- ment and Death, I will make water standing up. Let not the Sovrans injure me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:ऽकृत्य। द्यावापृथिवीभ्याम्। अन्तरिक्षाय। मृत्यवे। मेक्षामि। ऊर्ध्व:। तिष्ठन्। मा। मा। हिंस‍िषु:। ईश्वरा:। १०७.१।
+नमःऽकृत्य। द्यावापृथिवीभ्याम्। अन्तरिक्षाय। मृत्यवे। मेक्षामि। ऊर्ध्वः। तिष्ठन्। मा। मा। हिंस‍िषुः। ईश्वराः। १०७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

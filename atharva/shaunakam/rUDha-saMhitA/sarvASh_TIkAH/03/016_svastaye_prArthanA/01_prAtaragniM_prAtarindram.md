@@ -19,10 +19,9 @@ The other texts, and Ppp. with them, read at the end of **d** *huvema*.
 Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins twain: Bhaga at dawn, Pushan and Brahmanaspati, Soma at dawn, and Rudra we invoke at dawn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रात:। अग्निम्। प्रात:। इन्द्रम्। हवामहे। प्रात:। मित्रावरुणा। प्रात:। अश्विना। प्रात:। भगम्। पूषणम्। ब्रह्मण:। पतिम्। प्रात:। सोमम्। उत। रुद्रम्। हवामहे। १६.१।
+प्रातः। अग्निम्। प्रातः। इन्द्रम्। हवामहे। प्रातः। मित्रावरुणा। प्रातः। अश्विना। प्रातः। भगम्। पूषणम्। ब्रह्मणः। पतिम्। प्रातः। सोमम्। उत। रुद्रम्। हवामहे। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

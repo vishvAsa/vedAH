@@ -23,10 +23,9 @@ kirīṭinam*. ⌊Cf. RV. x. 162. 5-6 with our vss. 7-8.⌋
 Whoever, in thy brother's shape or father's comes to thee in sleep, Let Baja rout and chase them like eunuchs with woman's head- dress on.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। स्वप्ने। निऽपद्यते। भ्राता। भूत्वा। पिताऽइव। च। बज:। तान्। सहताम्। इत:। क्लीबऽरूपान्। तिरीटिन:। ६.७।
+यः। त्वा। स्वप्ने। निऽपद्यते। भ्राता। भूत्वा। पिताऽइव। च। बजः। तान्। सहताम्। इतः। क्लीबऽरूपान्। तिरीटिनः। ६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ citation from PB. xiii. 3. 12.⌋ Several mss. (including our Op.) have
 Whether with stormy might the Maruts established this All, or Gods with their celestial power, Ye, kindly Gods, are able to restore it. May they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। इत्। इदम्। मरुत:। मारुतेन। यदि। देवा:। दैव्येन। ईदृक्। आर। यूयम्। ईशिध्वे। वसव:। तस्य। निऽकृते :। ते। न:। मुञ्चन्तु। अंहस:। २७.६।
+यदि। इत्। इदम्। मरुतः। मारुतेन। यदि। देवाः। दैव्येन। ईदृक्। आर। यूयम्। ईशिध्वे। वसवः। तस्य। निऽकृते ः। ते। नः। मुञ्चन्तु। अंहसः। २७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

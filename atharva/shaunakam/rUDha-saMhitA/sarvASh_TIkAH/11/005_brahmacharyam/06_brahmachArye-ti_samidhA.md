@@ -22,7 +22,6 @@ has in **d** *saṁgṛhya;* he explains *muhur ācarikrat* by *atyartham
 Lighted by fuel goes the Brahmachari, clad in black-buck skin, consecrate, long-bearded. Swiftly he goes from east to northern ocean, grasping the worlds, oft bringing them anear him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचारी। एति। सम्ऽइधा। सम्ऽइध्दः। कार्ष्णम्। वसानः। दीक्षितः। दीर्घऽश्मश्रुः। सः। सद्यः। एति। पूर्वस्मात्। उत्तरम्। समुद्रम्। लोकान्। सम्ऽगृभ्य। मुहुः। आऽचरिक्रत्। ७.६।

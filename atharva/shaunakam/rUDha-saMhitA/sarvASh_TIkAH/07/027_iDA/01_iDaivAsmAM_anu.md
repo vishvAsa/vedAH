@@ -23,10 +23,9 @@ in **d**.
 May Ida with her statute dwell beside us, she in whose place the pious purge and cleanse them. She, mighty, Soma-decked, whose foot drops fatness, meet for All-Gods, hath come to aid our worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इडा। एव। अस्मान्। अनु। वस्ताम्। व्रतेन। यस्या:। पदे। पुनते। देवऽयन्त:। घृतऽपदी। शक्वरी। सोमऽपृष्ठा। उप। यज्ञम्। अस्थित। वैश्वऽदेवी। २८.१।
+इडा। एव। अस्मान्। अनु। वस्ताम्। व्रतेन। यस्याः। पदे। पुनते। देवऽयन्तः। घृतऽपदी। शक्वरी। सोमऽपृष्ठा। उप। यज्ञम्। अस्थित। वैश्वऽदेवी। २८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

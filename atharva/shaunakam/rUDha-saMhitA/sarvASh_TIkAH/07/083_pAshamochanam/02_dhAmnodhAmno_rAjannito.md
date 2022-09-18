@@ -43,11 +43,9 @@ From every rule of thine, O King Varuna, set us free;
 From whatever oath by the waters, by the kine, by Varuna, we have sworn, From that, O Varuna, set us free.
 </details>
 
-
-
 <details open><summary>पदपाठः</summary>
 
-धाम्न:ऽधाम्न:। राजन्। इत:। वरुण। मुञ्च। न:। यत्। आप:। अघ्न्या:। इति। वरुण। इति। यत्। ऊचिम। तत:। वरुण। मुञ्च। न:। ८८.२।
+धाम्नःऽधाम्नः। राजन्। इतः। वरुण। मुञ्च। नः। यत्। आपः। अघ्न्याः। इति। वरुण। इति। यत्। ऊचिम। ततः। वरुण। मुञ्च। नः। ८८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

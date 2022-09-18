@@ -36,10 +36,9 @@ With **c, d** cf. PGS. ii. 6. 20.⌋ The first pāda is properly *jagatī*
 Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers' guard from witchcraft. Live thou a hundred full and plenteous autumns, and wrap thee in prosperity of riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। इदम्। वास:। अधिथा:। स्वस्तये। अभू:। गृष्टीनाम्। अभिशस्तिऽपा:। ऊं इति। शतम्। च। जीव। शरद:। पुरूची:। राय:। च। पोषम्। उपऽसंव्ययस्व। १३.३।
+परि। इदम्। वासः। अधिथाः। स्वस्तये। अभूः। गृष्टीनाम्। अभिशस्तिऽपाः। ऊं इति। शतम्। च। जीव। शरदः। पुरूचीः। रायः। च। पोषम्। उपऽसंव्ययस्व। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

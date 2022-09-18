@@ -18,7 +18,6 @@ Ppp. reads, for **a**, *kene ’daṁ bhūmir nihataḥ*.
 By whom was this our earth disposed? By whom was heaven placed over it? By whom was this expanse of air raised up on high and stre- tched across?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। इयम्। भूमिः। विऽहिता। केन। द्यौः। उत्ऽतरा। हिता। केन। इदम्। ऊर्ध्वम्। तिर्यक्। च। अन्तरिक्षम्। व्यचः। हितम्। २.२४।

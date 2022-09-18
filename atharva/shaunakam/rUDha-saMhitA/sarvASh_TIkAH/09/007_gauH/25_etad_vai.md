@@ -18,7 +18,6 @@ gorūpam*.⌋
 This verily is omniform, wearing all forms, bovine-formed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतत्। वै। विश्वऽरूपम्। सर्वऽरूपम्। गोऽरूपम्। १२.२५।

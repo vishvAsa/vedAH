@@ -20,10 +20,9 @@ the translation follows them; and they have *ásti* for *ásat* in **c**.
 Lay on our bodies, O ye twain, O Soma and Rudra, all those balms that heal diseases. Set free and draw away the sin committed, which we have still inherent in our persons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमारुद्रा। युवम्। एतानि। अस्मत्। विश्वा। तनूषु। भेषजानि। धत्तम्। अव। स्यतम्। मुञ्चतम्। यत्। न:। असत्। तनूषु। बध्दम्। कृतम्। एन:। अस्मत्। ४३.२।
+सोमारुद्रा। युवम्। एतानि। अस्मत्। विश्वा। तनूषु। भेषजानि। धत्तम्। अव। स्यतम्। मुञ्चतम्। यत्। नः। असत्। तनूषु। बध्दम्। कृतम्। एनः। अस्मत्। ४३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

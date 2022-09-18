@@ -28,10 +28,9 @@ hanging low, may have been really a weather-sign.
 Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us oo weather in the evening and by night and day!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। भद्रऽअहम्। अकर:। सायम्। नक्तम्। अथो इति। दिवा। तस्मै। ते। नक्षत्रऽराज। शकऽधूम। सदा। नम:। १२८.४।
+यः। नः। भद्रऽअहम्। अकरः। सायम्। नक्तम्। अथो इति। दिवा। तस्मै। ते। नक्षत्रऽराज। शकऽधूम। सदा। नमः। १२८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

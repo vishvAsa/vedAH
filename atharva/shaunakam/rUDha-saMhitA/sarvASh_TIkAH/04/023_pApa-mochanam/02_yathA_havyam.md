@@ -20,10 +20,9 @@ takes *devebhyas* in **c** first as dative and then as ablative.
 As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with knowledge, So bear thou to the Gods the prayer we utter. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। हव्यम्। वहसि। जातऽवेद:। यथा। यज्ञम्। कल्पयसि। प्रऽजानन्। एव। देवेभ्य:। सुऽमतिम्। न:। आ। वह। स:। न:। मुञ्चतु। अंहस:। २३.२।
+यथा। हव्यम्। वहसि। जातऽवेदः। यथा। यज्ञम्। कल्पयसि। प्रऽजानन्। एव। देवेभ्यः। सुऽमतिम्। नः। आ। वह। सः। नः। मुञ्चतु। अंहसः। २३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

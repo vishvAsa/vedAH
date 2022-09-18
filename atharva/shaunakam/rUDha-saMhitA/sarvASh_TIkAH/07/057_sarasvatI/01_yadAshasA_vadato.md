@@ -26,10 +26,9 @@ and one (E.) has correspondingly *pṛṇa*. Both verses are irregular
 Whatever trouble hath disturbed and shaken me--I speak with hope, I move, imploring, 'mid the folk What harm my body in myself hath suffered, now let Sarasvati relieve with fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽशसा। वदत:। मे। विऽचुक्षुभे। यत्। याचमानस्य। चरत:। जनान्। अनु। यत्। आत्म्ननि। तन्व:। मे। विऽरिष्टम्। सरस्वती। तत्। आ। पृणत्। घृतेन। ५९.१।
+यत्। आऽशसा। वदतः। मे। विऽचुक्षुभे। यत्। याचमानस्य। चरतः। जनान्। अनु। यत्। आत्म्ननि। तन्वः। मे। विऽरिष्टम्। सरस्वती। तत्। आ। पृणत्। घृतेन। ५९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,7 +17,6 @@ seers the breaths-and-expirations.
 Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis are the vital airs inhaled and exhaled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्यावापृथिवी इति। श्रोत्रे इति। सूर्याचन्द्रमसौ। अक्षिणी  इति। सप्तऽऋषयः। प्राणापानाः। ३.२।

@@ -20,7 +20,6 @@ The translation implies the obvious emendation of *yajñé* in **c** to
 The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is the weapon of the Cow: the thought arose from, her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशा। माता। राजन्यस्य। वशा। माता। स्वधे। तव। वशायाः। यज्ञे। आयुधम्। ततः। चित्तम्। अजायत। १०.१८।

@@ -22,10 +22,9 @@ notes to iv. 18. 6.⌋
 No power had he who wrought the spell: he hurt his foot, he broke his toe. Unlucky for his wealthy lords, he hath wrought happiness for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिन्। चकार। भद्रम्। अस्मभ्यम्। अभग:। भगवत्ऽभ्य:। ३१.११।
+यः। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिन्। चकार। भद्रम्। अस्मभ्यम्। अभगः। भगवत्ऽभ्यः। ३१.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ RV. ⌊vs. 23⌋ and Ppp. read in **b** *trāíṣṭubhād vā trāíṣṭubha
 How on the Gayatri the Gayatri was based; how from the Trishtup they fashioned the Trishtup forth: How on the Jagati was based the Jagati--they who know this have won themselves immortal life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। गायत्रे। अधि। गायत्रम्। आऽहितम्। त्रैस्तुभम्। वा। त्रैस्तुभात्। निःऽअतक्षत। यत्। वा। जगत्। जगति। आऽहितम्। पदम्। ये। इत्। तत्। विदुः। ते। अमृतऽत्वम्। आनशुः। १५.१।

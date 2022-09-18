@@ -27,10 +27,9 @@ in favor of that between the repetitions. Read in 32 **c** *yád ajáḥ*
 The man who knows the season called the Rising takes to him- self the rising fame, his hated rival's rising fame. The Goat Panchaudana in this Rising season.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। उत्ऽयन्तम्। नाम। ऋतुम्। वेद। उद्यतीम्ऽउद्यतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एष:। वै। उत्ऽयन्। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। ५.३५।
+यः। वै। उत्ऽयन्तम्। नाम। ऋतुम्। वेद। उद्यतीम्ऽउद्यतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। उत्ऽयन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

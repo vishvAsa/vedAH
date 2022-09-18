@@ -27,10 +27,9 @@ takes *devās* in **a** for a nominative.
 Gods, give him all that earth hath best with bodily strength and happy fate. Agni and Surya grant him life, Brihaspati give him eminence!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पार्थिवस्य। रसे। देवा:। भगस्य। तन्व:। बले। आयुष्यम्। अस्मै। अग्नि:। सूर्य:। वर्च:। आ। धात्। बृहस्पति:। २९.१।
+पार्थिवस्य। रसे। देवाः। भगस्य। तन्वः। बले। आयुष्यम्। अस्मै। अग्निः। सूर्यः। वर्चः। आ। धात्। बृहस्पतिः। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

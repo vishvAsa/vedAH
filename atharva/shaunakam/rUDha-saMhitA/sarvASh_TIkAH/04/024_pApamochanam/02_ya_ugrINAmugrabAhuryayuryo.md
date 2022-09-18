@@ -24,10 +24,9 @@ that his text reads *yayus*), and by *yāvayitā pṛthakkartā;* to
 Who with strong arms o'ercame his strong opponents, who broke and crushed the power of the demons, Who won the rivers and the kine in battle. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। उग्रीणाम्। उग्रऽबाहु:। ययु:। य:। दानवानाम्। बलम्। आऽरुरोज। येन। जिता:। सिन्धव:। येन। गाव:। स:। न:। मुञ्चतु। अंहस:। २४.२।
+यः। उग्रीणाम्। उग्रऽबाहुः। ययुः। यः। दानवानाम्। बलम्। आऽरुरोज। येन। जिताः। सिन्धवः। येन। गावः। सः। नः। मुञ्चतु। अंहसः। २४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

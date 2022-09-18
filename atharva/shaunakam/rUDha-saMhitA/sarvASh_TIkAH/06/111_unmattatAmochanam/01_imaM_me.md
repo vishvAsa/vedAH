@@ -23,10 +23,9 @@ syllable.
 Unbind and loose for me this man, O Agni, who bound and well restrained is chattering folly. Afterward he will offer thee thy portion when he hath been delivered from his madness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। मे। अग्ने। पुरुषम्। मुमुग्धि। अयम्। य:। बध्द:। सुऽयत:। लालपीति। अत:। अधि। ते। कृणवत्। भागऽधेयम्। यदा। अनुत्ऽमदित:। असति। १११.१।
+इमम्। मे। अग्ने। पुरुषम्। मुमुग्धि। अयम्। यः। बध्दः। सुऽयतः। लालपीति। अतः। अधि। ते। कृणवत्। भागऽधेयम्। यदा। अनुत्ऽमदितः। असति। १११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ v. 28. 5, 9.⌋
 Tin is its ashes, gold its colour, the blue lotus flower its scent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रपु। भस्म। हरितम्। वर्णः। पुष्करम्। अस्य। गन्धः। ३.८।

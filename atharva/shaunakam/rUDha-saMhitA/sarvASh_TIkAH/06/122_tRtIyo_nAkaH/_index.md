@@ -7,7 +7,6 @@ title = "१२२ तृतीयो नाकः"
 122. With an offering for offspring.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 तृतीयो नाकः।  
@@ -19,8 +18,6 @@ title = "१२२ तृतीयो नाकः"
 [Bhṛgu.—pañcarcam. vāiśvakarmaṇam. trāiṣṭubham: 4. 5. jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Verses 2, 3 are found in Pāipp. xvi. ⌊For vss. 1-3, cf. v. Schroeder, Zwei Hs
 ### Translations
 Translated: Ludwig, p. 432; Griffith, i. 312.
 </details>
+

@@ -7,7 +7,6 @@ title = "००६ गर्भदोषनिवारणम्"
 6. To guard a pregnant woman from demons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गर्भदोषनिवारणम्।  
@@ -20,8 +19,6 @@ title = "००६ गर्भदोषनिवारणम्"
 [Mātṛnāman.—ṣaḍviṅśam. mātṛnāmādevatyam uta mantroktadevatyam. ānuṣṭubham: 2.purastādbṛhatī; 10. 3-av. 6-p. jagatī; 11, 12, 14, 16. pathyāpan̄kti; 15. 3-av. 7-p. śakvarī brāhmaṇaspatyā; 17. tathā jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -32,3 +29,4 @@ Weber (and Zimmer after him: p. 321) conjectures that the two 'winners of a husb
 
 A charm to exercise evil spirits who beset women
 </details>
+

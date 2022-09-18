@@ -22,10 +22,9 @@ all this mischief is the consequence of her ill-treatment. Ppp. combines
 When infants die, untimely born, when herds of cattle waste away, When heroes strike each other dead, the Brahman's wife destroyeth them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। गर्भा:। अवऽपद्यन्ते। जगत्। यत्। च। अपऽलुप्यते। वीरा:। ये। तृह्यन्ते। मिथ:। ब्रह्मऽजाया। हिनस्ति। तान्। १७.७।
+ये। गर्भाः। अवऽपद्यन्ते। जगत्। यत्। च। अपऽलुप्यते। वीराः। ये। तृह्यन्ते। मिथः। ब्रह्मऽजाया। हिनस्ति। तान्। १७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

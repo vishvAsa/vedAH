@@ -26,10 +26,9 @@ bandhám etám*. Ppp. has *-yān pra mumugdhi pāśān* for **b**, and, for
 To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrought of iron. To me, in truth, again doth Yama give thee. To him, to Yama, yea, to Death, be homage!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। अस्तु। ते। नि:ऋते। तिग्मऽतेज:। अयस्मयान्। वि। चृत। बन्धऽपाशान्। यम:। मह्यम्। पुन:। इत्। त्वाम्। ददाति। तस्मै। यमाय। नम:। अस्तु। मृत्यवे। ६३.२।
+नमः। अस्तु। ते। निःऋते। तिग्मऽतेजः। अयस्मयान्। वि। चृत। बन्धऽपाशान्। यमः। मह्यम्। पुनः। इत्। त्वाम्। ददाति। तस्मै। यमाय। नमः। अस्तु। मृत्यवे। ६३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

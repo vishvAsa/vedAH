@@ -22,7 +22,6 @@ definition of the Anukr. fits the verse (9 + 10: 11 + 10 = 40) fairly.
 The infinite to every side extended, the finite and the infinite around us, These twain Heaven's Lord divides as he advances, knowing the past hereof and all the future
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनन्तम्। विऽततम्। पुरुऽत्रा। अनन्तम्। अन्तऽवत्। च। समन्ते इति सम्ऽअन्ते। ते इति। नाकऽपालः। चरति। विऽचिन्वन्। विद्वान्। भूतम्। उत। भव्यम्। अस्य। ८.१२।

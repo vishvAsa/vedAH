@@ -22,7 +22,6 @@ reads *ásti* at end of **c**.
 What man acquires by plough, by war, all that he wins by toil of hand, He loses all if Agni the Carnivorous be not set aside,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। कृषते। यत्। वनुते। यत्। च। वस्नेन। विन्दते। सर्वम्। मर्त्यस्य। तत्। न। अस्ति। क्रव्यऽअत्। च। इत्। अनिःऽआहितः। २.३६।

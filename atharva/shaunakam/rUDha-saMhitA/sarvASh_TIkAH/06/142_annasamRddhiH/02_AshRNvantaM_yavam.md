@@ -18,10 +18,9 @@ The comm., in **b**, reads *tatra* and *achavad-*.
 As we invite and call to thee, Barley, a God who heareth us, Raise thyself up like heaven on high and be exhaustless as the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽशृण्वन्तम्। यवम्। देवम्। यत्र। त्वा। अच्छऽआवदामसि। तत्। उत्। श्रयस्व। द्यौ:ऽइव। समुद्र:ऽइव। एधि। अक्षित:। १४२.२।
+आऽशृण्वन्तम्। यवम्। देवम्। यत्र। त्वा। अच्छऽआवदामसि। तत्। उत्। श्रयस्व। द्यौःऽइव। समुद्रःऽइव। एधि। अक्षितः। १४२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ stinger.
 Hither the young uuconquered leech who slays the speckled snake hath come. He verily demolishes adder and scorpion; both of them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। अयम्। अगन्। युवा। भिषक्। पृश्निऽहा। अपराऽजितः। सः। वै। स्वजस्य। जम्भनः। उभयोः। वृश्चिकस्य। च। ४.१५।

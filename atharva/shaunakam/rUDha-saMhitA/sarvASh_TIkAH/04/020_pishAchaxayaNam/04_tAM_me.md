@@ -21,10 +21,9 @@ mss.) reads *tvayā* in **c**; he regards the "god" in **a** as Indra.
 The God who hath a thousand eyes give me this Plant in my right hand! I look on every one therewith, each Sudra and each Aryan man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ताम्। मे। सहस्रऽअक्ष:। देव:। दक्षिणे। हस्ते। आ। दधत्। तया। अहम्। सर्वम्। पश्यामि। य:। च। शूद्र:। उत। आर्य:। २०.४।
+ताम्। मे। सहस्रऽअक्षः। देवः। दक्षिणे। हस्ते। आ। दधत्। तया। अहम्। सर्वम्। पश्यामि। यः। च। शूद्रः। उत। आर्यः। २०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

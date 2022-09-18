@@ -20,7 +20,6 @@ b.
 Dark-kneed, invested with a fiery mantle, Prithivi sharpen me and give me splendour!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निऽवासाः। पृथिवी। असितऽज्ञूः। त्विषिऽमन्तम्। सम्ऽशितम्। मा। कृणोतु। १.२१।

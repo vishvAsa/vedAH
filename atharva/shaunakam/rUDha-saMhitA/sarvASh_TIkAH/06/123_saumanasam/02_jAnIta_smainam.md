@@ -26,10 +26,9 @@ but TB. *kṛṇutāt*, both without *sma*.
 Do ye acknowledge him in highest heaven: ye know the world here present in assembly. In peace will he who sacrifices follow: show him the joy which comes from pious actions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जानीत। स्म। एनम्। परमे। विऽओमन्। देवा:। सधऽस्था:। विद। लोकम्। अत्र। अनुऽआगन्ता। यजमान:। स्वस्ति। इष्टापूर्तम्। स्म। कृणुत। आवि:। अस्मै। १२३.२।
+जानीत। स्म। एनम्। परमे। विऽओमन्। देवाः। सधऽस्थाः। विद। लोकम्। अत्र। अनुऽआगन्ता। यजमानः। स्वस्ति। इष्टापूर्तम्। स्म। कृणुत। आविः। अस्मै। १२३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

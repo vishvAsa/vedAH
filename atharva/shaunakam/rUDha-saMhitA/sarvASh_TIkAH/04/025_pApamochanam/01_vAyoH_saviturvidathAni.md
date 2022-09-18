@@ -27,10 +27,9 @@ form *paribhúvā* in **c**—see Lanman, JAOS. x. 413.⌋
 I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the living world: Ye who have come to be this All's pervaders, deliver us, ye two from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वायो:। सवितु:। विदथानि। मन्महे। यौ। आत्मन्ऽवत्। विशथ:। यौ। च। रक्षथ:। यौ। विश्वस्य। परिभू इति  परिऽभू। बभूवथु:। तौ। न:। मुञ्चतम्। अंहस:। २५.१।
+वायोः। सवितुः। विदथानि। मन्महे। यौ। आत्मन्ऽवत्। विशथः। यौ। च। रक्षथः। यौ। विश्वस्य। परिभू इति  परिऽभू। बभूवथुः। तौ। नः। मुञ्चतम्। अंहसः। २५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

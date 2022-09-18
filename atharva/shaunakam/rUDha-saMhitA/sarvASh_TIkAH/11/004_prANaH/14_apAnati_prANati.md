@@ -19,7 +19,6 @@ sa damba vāyase tvat*. The comm. has *atho* in **d**.
 The human infant in the womb draws vital breath and sends it Lout: When thou, O Prana, quickenest the babe it springs anew to life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। अनति। प्र। अनति। पुरुषः। गर्भे। अन्तरा। यदा। त्वम्। प्राण। जिन्वसि। अथ। सः। जायते। पुनः। ६.१४।

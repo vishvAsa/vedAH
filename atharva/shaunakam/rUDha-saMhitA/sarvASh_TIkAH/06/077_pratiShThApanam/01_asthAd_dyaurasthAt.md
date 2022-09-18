@@ -25,10 +25,9 @@ authorities have *asthuḥ* in *saṁhitā*.⌋
 Firm stands the heaven, firm stands the earth, firm stands this universal world, Firm stand the rooted mountains. I have put the horses in the stall.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्थात्। द्यौ:। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्। आऽस्थाने। पर्वता:। अस्थु:। स्थाम्नि। अश्वान्। अतिष्ठिपम्। ७७.१।
+अस्थात्। द्यौः। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्। आऽस्थाने। पर्वताः। अस्थुः। स्थाम्नि। अश्वान्। अतिष्ठिपम्। ७७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

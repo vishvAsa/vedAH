@@ -21,10 +21,9 @@ striyām anu ṣiñcatu: tathā tad abravīd dhātā tat prajāpatir abravīt*.
 The father sows the genial seed, the woman tends and fosters it. This is the finding of a son: thus hath Prajapati declared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुंसि। वै। रेत:। भवति। तत्। स्त्रियाम्। अनु। सिच्यते। तत्। वै। पुत्रस्य। वेदनम्। तत्। प्रजाऽपति:। अब्रवीत्। ११.२।
+पुंसि। वै। रेतः। भवति। तत्। स्त्रियाम्। अनु। सिच्यते। तत्। वै। पुत्रस्य। वेदनम्। तत्। प्रजाऽपतिः। अब्रवीत्। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

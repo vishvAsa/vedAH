@@ -18,7 +18,6 @@ Some mss. (P.M.I.) accent *vidúḥ* at the end.
 All men behold him with the eye, but with the mind they know not him. Holding aloft the water as a water-bearer in her jar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्ध्वम्। भरन्तम्। उदकम्। कुम्भेनऽइव। उदऽहार्यम्। पश्यन्ति। सर्वे। चक्षुषा। न। सर्वे। मनसा। विदुः। ८.१४।

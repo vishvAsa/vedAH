@@ -20,7 +20,6 @@ bhan̄dhi*. ⌊With **d**, cf. the Ppp. vs. cited under iii. 6. 2.⌋
 As with its might the wind breaks down the trees, the sovrans of the wood, So break and rend my rivals, born before me and born after. Let the Varana protect thee well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। वातः। वनस्पतीन्। वृक्षान्। भनक्ति। ओजसा। एव। सऽपत्नान्। मे। भङ्ग्धि। पूर्वान्। जातान्। उत। अपरान्। वरणः। त्वा। अभि। रक्षतु। ३.१३।

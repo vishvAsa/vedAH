@@ -25,10 +25,9 @@ has 5 hymns and 35 verses; and the old Anukr. says *aparāḥ pañca*.
 Like noblest benisons they have stayed in the God loving man's abode. I glorify bright Savitar and Vayu. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। श्रेष्ठा:। न:। आऽशिष:। देवयो:। धामन्। अस्थिरन्। स्तौमि। देवम्। सवितारम्। च। वायुम्। तौ। न:। मुञ्चतम्। अंहस:। २५.७।
+उप। श्रेष्ठाः। नः। आऽशिषः। देवयोः। धामन्। अस्थिरन्। स्तौमि। देवम्। सवितारम्। च। वायुम्। तौ। नः। मुञ्चतम्। अंहसः। २५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

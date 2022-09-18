@@ -19,7 +19,6 @@ text of a lengthened final *a*.
 We know the father of the shaft, Parjanya, liberal nourisher, Know well his mother: Prithivi, Earth with her manifold designs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विद्म। शरस्य। पितरम्। पर्जन्यम्। भूरिऽधायसम्। विद्मो इति। सु। अस्य। मातरम्। पृथिवीम्। भूरिऽवर्पसम्।

@@ -19,10 +19,9 @@ apahvayatā*.
 They made this barley ready with a team of eight, a team of six. With this I drive to westward, far away, thy bodily disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। यवम्। अष्टाऽयोगै:। षट्ऽयोगेभि:। अचर्कृषु:। तेन। ते। तन्व:। रप:। अपाचीनम्। अप। व्यये। ९१.१।
+इमम्। यवम्। अष्टाऽयोगैः। षट्ऽयोगेभिः। अचर्कृषुः। तेन। ते। तन्वः। रपः। अपाचीनम्। अप। व्यये। ९१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

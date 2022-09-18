@@ -35,7 +35,6 @@ car needs mending; and also, 57. 7, when a student's staff is broken.
 He without ligature, before making incision in the neck. Closed up the wound again, most wealthy Bounteous Lord who healeth the dissevered parts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ऋते। चित्। अभिऽश्रिषः। पुरा। जत्रुऽभ्यः। आऽतृदः। सम्ऽधाता। सम्ऽधिम्। मऽघ‍वा। पुरुऽवसुः। निःऽकर्ता। विऽह्रुतम्। पुनः। २.४७।

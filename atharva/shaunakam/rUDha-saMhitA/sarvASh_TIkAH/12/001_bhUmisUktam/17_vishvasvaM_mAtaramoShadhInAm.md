@@ -24,7 +24,6 @@ reproduced in translation.⌋
 Kind, ever gracious be the Earth we tread on, the firm Earth, Prithivi, borne up by Order, mother of plants and herbs, the all-producer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वऽस्वम्। मातरम्। ओषधीनाम्। ध्रुवाम्। भूमिम्। पृथिवीम्। धर्मणा। धृताम्। शिवाम्। स्योनाम्। अनु। चरेम। विश्वहा। १.१७।

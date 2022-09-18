@@ -27,7 +27,6 @@ syllables, unnoticed by the Anukr.
 I place upon the lap of Earth the Goddess, a firm auspicious stone to bring thee children. Stand on it, thou, greeted with joy, resplendent: a long long life may Savitar vouchsafe thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्योनम्। ध्रुवम्। प्रऽजायै। धारयामि। ते। अश्मानम्। देव्याः। पृथिव्याः। उपऽस्थे। तम्। आ। तिष्ठ। अनुऽमाद्या। सुऽवर्चाः। दीर्घम्। ते। आयुः। सविता। कृणोतु। १.४७।

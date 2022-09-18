@@ -24,7 +24,6 @@ to Prāt. iii. 60. The *pada*-text divides neither *kasarṇī́la* nor
 Paidva kills Kasarnila, kills both the white Serpent and the black, Paidva hath struck and cleft in twain Ratharvi's and the Viper's head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पैद्वः। हन्ति। कसर्णीलम्। पैद्वः। श्वित्रम्। उत। असितम्। पैद्वः। रथर्व्याः। शिरः। सम्। बिभेद। पृदाक्वाः। ४.५।

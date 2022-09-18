@@ -31,10 +31,9 @@ his kind.
 As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou break my foeman's head asunder and o'erpower him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। अश्वत्थ। वानस्पत्यान्। आऽरोहन्। कृणुषे। अधरान्। एव। मे। शत्रो:। मूर्धानम्। विष्वक्। भिन्ध्दि। सहस्व। च। ६.६।
+यथा। अश्वत्थ। वानस्पत्यान्। आऽरोहन्। कृणुषे। अधरान्। एव। मे। शत्रोः। मूर्धानम्। विष्वक्। भिन्ध्दि। सहस्व। च। ६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

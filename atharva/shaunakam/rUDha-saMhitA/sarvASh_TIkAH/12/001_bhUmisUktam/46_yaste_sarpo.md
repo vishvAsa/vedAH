@@ -30,7 +30,6 @@ Kāuś. 50. 13). In Vāit. 29. 10 it accompanies a libation to Rudra.
 Thy snake, thy sharply stinging scorpion, lying concealed, be- wildered, chilled with cold of winter, The worm, O Prithivi, each thing that in the Rains revives and stirs, Creeping, forbear to creep on us! With all things gracious bless thou us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। सर्पः। वृश्चिकः। तृष्टऽदंश्मा। हेमन्तऽजब्धः। भृमलः। गुहा। शये। क्रिमिः। जिन्वत्। पृथिवि। यत्ऽयत्। एजति। प्रावृषि। तत्। नः। सर्पत्। मा। उप। सृपत्। यत्। शिवम्। तेन। नः। मृड। १.४६।

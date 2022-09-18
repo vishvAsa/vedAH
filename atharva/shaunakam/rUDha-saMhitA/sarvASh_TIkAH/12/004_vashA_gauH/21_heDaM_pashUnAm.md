@@ -21,7 +21,6 @@ note to 11, above.⌋
 Withholding her from Brahmans, he incurs the anger of the beasts, When mortal man appropriates the destined portion of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हेडम्। पशूनाम्। नि। एति। ब्राह्मणेभ्यः। अददत्। वशाम्। देवानाम्। निऽहितम्। भागम्। मर्त्यः। च। इत्। निऽप्रिययते। ४.२१।

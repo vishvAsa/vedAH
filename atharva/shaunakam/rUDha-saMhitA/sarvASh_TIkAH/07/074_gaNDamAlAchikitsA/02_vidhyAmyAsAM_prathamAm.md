@@ -22,7 +22,6 @@ is not divided by any one of the authorities.
 I pierce the foremost one of these, I perforate the middlemost, And here I cut the hindermost asunder like a lock of hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विध्यामि। आसाम्। प्रथमाम्। विध्यामि। उत। मध्यमाम्। इदम्। जघन्याम्। आसाम्। आ। छिनद्मि। स्तुकाम्ऽइव। ७८.२।

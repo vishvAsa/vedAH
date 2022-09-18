@@ -23,10 +23,9 @@ with *-khaṇḍī*; in **c** it has *vṛn̄janti* (its exchange of *-ti* and
 Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny archer, And all the Gods uprisen with their army, may these on every side avoid our heroes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम:। मृत्यु:। अघऽमार:। नि:ऽऋथ:। बभ्रु:। शर्व:। अस्ता। नीलऽशिखण्ड:। देवऽजना:। सेनया। उत्तस्थिऽवांस:। ते। अस्माकम्। परि। वृञ्जन्तु। वीरान्। ९३.१।
+यमः। मृत्युः। अघऽमारः। निःऽऋथः। बभ्रुः। शर्वः। अस्ता। नीलऽशिखण्डः। देवऽजनाः। सेनया। उत्तस्थिऽवांसः। ते। अस्माकम्। परि। वृञ्जन्तु। वीरान्। ९३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

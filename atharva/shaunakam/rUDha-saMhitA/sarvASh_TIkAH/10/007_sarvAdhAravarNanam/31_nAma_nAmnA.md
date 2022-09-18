@@ -23,7 +23,6 @@ altogether ill-fitting.
 Ere sun and dawn man calls and calls one Deity by the other's name. When the Unborn first sprang into existence he reached that independent sovran lordship; than which aught higher never hath arisen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नाम। नाम्ना। जोहवीति। पुरा। सूर्यात्‌। पुरा। उषसः। यत्। अजः। प्रथमम्। सम्ऽबभूव। सः। ह। तत्। स्वऽराज्यम्। इयाय। यस्मात्। न। अन्यत्। परम्। अस्ति। भूतम्। ७.३१।

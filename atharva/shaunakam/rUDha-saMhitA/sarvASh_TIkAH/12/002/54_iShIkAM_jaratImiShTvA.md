@@ -23,7 +23,6 @@ The verse is quoted (with vss. 1, 11, 55: see note to vs. 1) in Kāuś.
 I sought the rustling sugar-cane, white Seasamum, and cane and reed. I made this Indra's fuel, and the Fire of Yama I removed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इषीकाम्। जरतीम‌्। इष्ट्वा। त‍िल्पिञ्जम्। दण्डनम्। नडम्। तम्। इन्द्रः। इध्मम्। कृत्वा। यमस्य। अग्निम्। निःऽआदधौ। २.५४।

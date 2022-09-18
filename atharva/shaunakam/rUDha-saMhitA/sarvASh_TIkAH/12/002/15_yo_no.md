@@ -21,7 +21,6 @@ following are quoted with others (see note to vs. 1) in Kāuś. 71. 8.
 Corpse-eating Agni we expel, the Agni who bewilders men, Him who is in our horses, in our heroes, cows, and goats, and sheep:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। नः। अश्वेषु। वीरेषु। यः। नः। गोषु। अजऽअविषु। क्रव्यऽअदम्। निः। नुदामसि। यः। अग्निः। जनऽयोपनः। २.१५।

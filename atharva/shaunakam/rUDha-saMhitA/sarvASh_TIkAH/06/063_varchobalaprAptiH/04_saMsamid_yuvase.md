@@ -29,10 +29,9 @@ of the AV. text as recognized by the Prāt. The comm. explains *iḍas* by
 Thou, mighty Agni, good and true, gatherest up all precious things. Bring us all treasures as thou art enkindled at libation's place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽसम्। इत्। युवसे। वृषन्। अग्ने। विश्वानि। अर्य:। आ। इड:। पदे। सम्। इध्यसे। स:। न:। वसूनि। आ। भर। ६३.४।
+सम्ऽसम्। इत्। युवसे। वृषन्। अग्ने। विश्वानि। अर्यः। आ। इडः। पदे। सम्। इध्यसे। सः। नः। वसूनि। आ। भर। ६३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

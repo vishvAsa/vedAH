@@ -25,10 +25,9 @@ adhārabhyaḥ*. R. conjectures in **a** *uttarāhāhamuttare*, for *úttarā
 Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my rival wife, down, lower than the lowest dames!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽतरा। अहम्। उत्ऽतरे। उत्ऽतरा। इत्। उत्ऽतराभ्य:। अध:। सऽपत्नी। या। मम। अधरा। सा। अधराभ्य:। १८.४।
+उत्ऽतरा। अहम्। उत्ऽतरे। उत्ऽतरा। इत्। उत्ऽतराभ्यः। अधः। सऽपत्नी। या। मम। अधरा। सा। अधराभ्यः। १८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

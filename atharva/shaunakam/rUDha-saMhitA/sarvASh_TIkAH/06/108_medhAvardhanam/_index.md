@@ -7,7 +7,6 @@ title = "१०८ मेधावर्धनम्"
 108. For wisdom.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मेधावर्धनम्।  
@@ -19,8 +18,6 @@ title = "१०८ मेधावर्धनम्"
 [Cāunaka.—pañcarcam. medhādevatyam: 4. āgneyī. ānuṣṭubham; 2. urobṛhatī; 3. pathyābṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Pāipp. xix. has vss. 1, 2, 5, thus reducing the hymn to the norm of this book. 
 ### Translations
 Translated: Muir, i2 255; Griffith, i. 304.
 </details>
+

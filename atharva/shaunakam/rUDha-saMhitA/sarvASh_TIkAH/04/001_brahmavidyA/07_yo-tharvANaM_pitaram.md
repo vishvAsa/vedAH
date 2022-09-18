@@ -25,10 +25,9 @@ and *svadhāvān* as 'joined with food in the form of oblation."
 The man who seeks the friend of Gods, Atharvan the father, and Brihaspati, with worship, Crying to him, Be thou all things' creator! the wise God, self- dependent, never injures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अथर्वाणम्। पितरम्। देवऽबन्धुम्। बृहस्पतिम्। नमसा। अव। च। गच्छात्। त्वम्। विश्वेषाम्। जनिता। यथा। अस:। कवि:। देव:। न। दभायत्। स्वधाऽवान्। १.७।
+यः। अथर्वाणम्। पितरम्। देवऽबन्धुम्। बृहस्पतिम्। नमसा। अव। च। गच्छात्। त्वम्। विश्वेषाम्। जनिता। यथा। असः। कविः। देवः। न। दभायत्। स्वधाऽवान्। १.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

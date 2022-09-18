@@ -35,7 +35,6 @@ the discrepancy I do not see. One ms. sums up the last *anuvāka* as 51
 With this which Gods attend, with this which never fails to gain its end, Let Indra, Vritra-slayer, smite, and with Trishandhi as a bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। देवाः। अनुऽतिष्ठन्ति। यस्याः। न। अस्ति। विऽराधनम्। तया। इन्द्रः। हन्तु। वृत्रऽहा। वज्रेण। त्रिऽसंधिना। १२.२७।

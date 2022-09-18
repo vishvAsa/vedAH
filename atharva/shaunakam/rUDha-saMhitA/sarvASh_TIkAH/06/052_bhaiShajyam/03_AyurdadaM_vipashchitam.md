@@ -23,10 +23,9 @@ unmetrical, because nearly all his authorities read so (the comm. gives
 I have brought Kanva's famous Plant, life-giving, and itself inspired, The medicine that healeth all: may it suppress my hidden foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयु:ऽददम्। विप:ऽचितम्। श्रुताम्। कण्वस्य। वीरुधम्। आ। अभारिषम्। विश्वऽभेषजीम्। अस्य। अदृष्टान्। नि। शमयत्। ५२.३।
+आयुःऽददम्। विपःऽचितम्। श्रुताम्। कण्वस्य। वीरुधम्। आ। अभारिषम्। विश्वऽभेषजीम्। अस्य। अदृष्टान्। नि। शमयत्। ५२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

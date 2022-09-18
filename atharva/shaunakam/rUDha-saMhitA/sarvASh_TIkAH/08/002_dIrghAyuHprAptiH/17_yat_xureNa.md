@@ -38,10 +38,9 @@ IFA. vi. 184.⌋
 When, with a very keen and cleasing razor, our hair and beards thou shavest as a barber, Smoothing our face steal not our vital forces.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। क्षुरेण। मर्चयता। सुऽतेजसा। वप्ता। वपसि। केशऽश्मश्रु। शुभम्। मुखम्। मा। न:। आयु:। प्र। मोषी:। २.१७।
+यत्। क्षुरेण। मर्चयता। सुऽतेजसा। वप्ता। वपसि। केशऽश्मश्रु। शुभम्। मुखम्। मा। नः। आयुः। प्र। मोषीः। २.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

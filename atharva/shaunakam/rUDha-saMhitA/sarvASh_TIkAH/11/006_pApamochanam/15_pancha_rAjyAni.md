@@ -22,7 +22,6 @@ has *rājyā̀ni*. The comm. calls *saha* simply 'a kind of herb.'
 To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, hemp, barley, mighty power: may these deliver us from woe,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पञ्च। राज्यानि। वीरुधाम्। सोमऽश्रेष्ठानि। ब्रूमः। दर्भः। भङ्गः। यवः। सहः। ते। नः। मुञ्चन्तु। अंहसः। ८.१५।

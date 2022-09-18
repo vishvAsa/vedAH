@@ -26,7 +26,6 @@ kalpita odano brahmāudanaḥ*.
 Agni, spring forth! Here Aditi, afflicted, cooks a Brahmaudana, yearning for children. Let the Seven Rishis, World-creators, rub thee into existence here with gift of offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। जायस्व। अदितिः। नाथिता। इयम्। ब्रह्मऽओदनम्। पचति। पुत्रऽकामा। सप्तऽऋषयः। भूतऽकृतः। ते। त्व‍ा। मन्थन्तु। प्रऽजया। सह। इह। १.१।

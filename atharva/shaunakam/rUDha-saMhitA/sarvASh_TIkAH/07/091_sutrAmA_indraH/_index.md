@@ -7,7 +7,6 @@ title = "०९१ सुत्रामा इन्द्रः"
 91 (96). To Indra: for aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुत्रामा इन्द्रः।  
@@ -19,8 +18,6 @@ title = "०९१ सुत्रामा इन्द्रः"
 [Atharvan.—cāndramasam (!). trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ This and the two following hymns are wanting in Pāipp. This one (the comm. says
 ### Translations
 Translated: Henry, 37, 108; Griffith, i. 374.
 </details>
+

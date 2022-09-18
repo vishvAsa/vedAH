@@ -20,10 +20,9 @@ The comm. explains *bhūtakṛ́tas* as *prāṇināṁ kartāro devāḥ*, but
 Whereby the World-Creators vanquished Mrityu, that which they found by fervour, toil and trouble, That which prayer first made ready for the Brahman,--I with this Odana will conquer Mrityu.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। अतरन्। भूतऽकृत:। अति। मृत्युम्। यम्। अनुऽअविन्दन्। तपसा। श्रमेण। यम्। पपाच। ब्रह्मणे। ब्रह्म। पूर्वम्। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.२।
+येन। अतरन्। भूतऽकृतः। अति। मृत्युम्। यम्। अनुऽअविन्दन्। तपसा। श्रमेण। यम्। पपाच। ब्रह्मणे। ब्रह्म। पूर्वम्। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

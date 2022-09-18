@@ -20,10 +20,9 @@ te naddhān vi cṛtāmasi*.
 We loose the ties and fastenings of the house that holds all precious things, The bands of pillars and of stays, the ties of beams that form the roof.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽमिताम्। प्रतिऽमिताम्। अथो इति। परिऽमिताम्। उत। शालाया:। विश्वऽवाराया:। नध्दानि। वि। चृतामसि। ३.१।
+उपऽमिताम्। प्रतिऽमिताम्। अथो इति। परिऽमिताम्। उत। शालायाः। विश्वऽवारायाः। नध्दानि। वि। चृतामसि। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

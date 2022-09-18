@@ -18,7 +18,6 @@ This verse also is wanting in Ppp. ⌊Pādas **b, c** recur below, vs. 65.⌋
 O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, blasphemer of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघ्न्ये। प्र। शिरः। जहि। ब्रह्मऽज्यस्य। कृतऽआगसः। देवऽपीयोः। अराधसः। १०.१४।

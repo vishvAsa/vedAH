@@ -21,7 +21,6 @@ them; ours makes the necessary emendation to *bhávati*. We might expect
 मु॒ख॒तस्ते॑ प्र॒जा म॑रिष्य॒तीत्ये॑नमाह ॥२॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। यः। एवम्। विदुषः। उपऽद्रष्टा। भवति। प्राणम्। रुणध्दि। ५.५।

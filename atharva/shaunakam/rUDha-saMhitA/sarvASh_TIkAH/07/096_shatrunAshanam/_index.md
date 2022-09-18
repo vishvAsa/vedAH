@@ -7,7 +7,6 @@ title = "०९६ शत्रुनाशनम्"
 96 (101). For quiet kidneys (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०९६ शत्रुनाशनम्"
 [Kapiñjala.—prākṛtam ⌊?⌋; vāyasam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found in Pāipp. xx. Occurs in Kāuś. (48. 41) just after the preceding hymn, b
 ### Translations
 Translated: Henry, 39, iii; Griffith, i. 376.
 </details>
+

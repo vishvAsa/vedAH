@@ -24,10 +24,9 @@ kānīno ’ta babhrū pitā tava*.
 Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been sprinkled by the mouth of Yama's tawny- coloured horse.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिलाची। नाम। कानीन:। अजऽबभ्रु। पिता। तव। अश्व:। यमस्य। य:। श्याव:। तस्य। ह। अस्ना। अस‍ि। उक्षिता। ५.८।
+सिलाची। नाम। कानीनः। अजऽबभ्रु। पिता। तव। अश्वः। यमस्य। यः। श्यावः। तस्य। ह। अस्ना। अस‍ि। उक्षिता। ५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

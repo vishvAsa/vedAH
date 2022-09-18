@@ -17,10 +17,9 @@ ocean art thou, O Kāma, fury—to them art thou etc. etc.
 Stronger art thou than aught that stands or twinkles, stronger art thou than ocean, Kama! Manyu! Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ज्यायान्। निऽमिषत:। असि। तिष्ठत:। ज्यायान्। समुद्रात्। असि। काम। मन्यो इति। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.२३।
+ज्यायान्। निऽमिषतः। असि। तिष्ठतः। ज्यायान्। समुद्रात्। असि। काम। मन्यो इति। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

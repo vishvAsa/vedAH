@@ -30,10 +30,9 @@ but sums up as *triṣṭubh*.
 Maruts, the man who filled with rage against us beyond our thoughts would harm us, O ye Vasus, May he be tangled in the toils of Mischief: smite ye him down with your most flaming weapon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। मर्त:। मरुत:। दु:ऽहृणायु:। तिर:। चित्तानि। वसव:। जिघांसति। द्रुह:। पाशान्। प्रत‍ि। मुञ्चताम्। स:। तपिष्ठेन। तपसा। हन्तन। तम्। ८२.२।
+यः। नः। मर्तः। मरुतः। दुःऽहृणायुः। तिरः। चित्तानि। वसवः। जिघांसति। द्रुहः। पाशान्। प्रत‍ि। मुञ्चताम्। सः। तपिष्ठेन। तपसा। हन्तन। तम्। ८२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

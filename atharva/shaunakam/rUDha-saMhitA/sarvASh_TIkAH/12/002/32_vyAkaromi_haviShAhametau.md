@@ -25,7 +25,6 @@ under vs. 24.
 I with oblation separate both classes, and with my prayer dis- part their several portions. I offer food that wastes not to the Fathers, a nd to these men give life of long duration.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽअकरोमि। हविषा। अहम्। एतो। तौ। ब्रह्मणा। वि। अहम्। कल्पयामि। स्वधाम्। पितृऽभ्यः। अजराम्। कृणोमि। दीर्घेण। आयुषा। सम्। इमान्। सृजामि। २.३२।

@@ -20,7 +20,6 @@ cakre mūrdhānaṁ*. The Anukr. describes correctly vss. 34 and 36.
 Homage to highest Brahma, him whose two life-breathings were the Wind, The Angirases his sight: who made the regions be his means of sense.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। वातः। प्राणापानौ। चक्षुः। अङ्गिरसः। अभवन्। दिशः। यः। चक्रे। प्रऽज्ञानीः। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ७.३४।

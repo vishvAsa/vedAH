@@ -22,10 +22,9 @@ for *rāsva;* for **d**, *tasya rātre adhivāke syāma*.
 We will pay sacrifice and serve with worship our glorious Indra, famous for his glories. Give thou us sway which Indra hath promoted, and in this boon of thine may we be famous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अच्छ। न:। इन्द्रम्। यशसम्। यश:ऽभि:। यशस्विनम्। नमसाना:। विधेम। स:। न:। रास्व। राष्ट्रम्। इन्द्रऽजूतम्। तस्य। ते। रातौ। यशस:। स्याम। ३९.२।
+अच्छ। नः। इन्द्रम्। यशसम्। यशःऽभिः। यशस्विनम्। नमसानाः। विधेम। सः। नः। रास्व। राष्ट्रम्। इन्द्रऽजूतम्। तस्य। ते। रातौ। यशसः। स्याम। ३९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

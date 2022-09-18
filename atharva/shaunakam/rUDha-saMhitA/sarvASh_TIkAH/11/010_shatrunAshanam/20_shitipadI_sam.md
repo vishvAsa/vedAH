@@ -22,7 +22,6 @@ for *sicas*, as in the other passage ⌊9. 18: comm. p. 181¹⁷⌋.
 Let White-foot fall upon those wings of our opponents' arma- ment; Mazed and bewildered be those hands of foes this day, O Nyar- budi.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शितिऽपदी। सम्। पततु। अमित्राणाम्। अमूः। सिचः। मुह्यन्तु। अद्य। अमूः। सेनाः। अमित्राणाम्। निऽअर्बुदे। १२.२०।

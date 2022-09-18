@@ -28,7 +28,6 @@ inadmissible. Ppp. reads *vidyudūdrāṇā* at the beginning. ⌊See
 The old hath waked the young Moon from his slumber, who runs his circling course with many round him. Behold the God's high wisdom in its greatness: he who died yesterday to-day is living.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽधुम्। दद्राणम्। सलिलस्य। पृष्ठे। युवानम्। सन्तम्। पलितः। जगार। देवस्य। पश्य। काव्यम्। महिऽत्वा। अद्य। ममार। सः। ह्यः। सम्। आन। १५.९।

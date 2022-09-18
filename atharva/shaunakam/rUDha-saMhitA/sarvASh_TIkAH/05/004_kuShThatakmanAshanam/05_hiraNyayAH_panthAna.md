@@ -21,10 +21,9 @@ emended to *arít-*. In **a** we may emend to *pánthās* or combine
 They sailed on pathways paved with gold, the oars they piled were wrought of gold: All golden were the ships wherein they carried Kushtha down to earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यया:। पन्थान:। आसन्। अरित्राणि। हिरण्यया। नाव:। हिरण्ययी:। आसन्। याभि:। कुष्ठम्। नि:ऽआवहन्। ४.५।
+हिरण्ययाः। पन्थानः। आसन्। अरित्राणि। हिरण्यया। नावः। हिरण्ययीः। आसन्। याभिः। कुष्ठम्। निःऽआवहन्। ४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

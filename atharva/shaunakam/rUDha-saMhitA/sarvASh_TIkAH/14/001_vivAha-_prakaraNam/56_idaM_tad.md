@@ -22,7 +22,6 @@ only a contraction for *ánu vartiṣye*.
 This lovely form the maiden wears in spirit I long to look on as my wife approaching, Her will I follow with my nine companions. Who is the sage that loosed the bonds that held her?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। तत्। रूपम्। यत्। अवस्त। योषा। जायाम्। जिज्ञासे। मनसा। चरन्तीम्। ताम्। अनु। अर्तिष्ये। सखिऽभिः। नवऽग्वैः। कः। इमान्। विद्वान्। वि। चचर्त। पाशान्। १.५६।

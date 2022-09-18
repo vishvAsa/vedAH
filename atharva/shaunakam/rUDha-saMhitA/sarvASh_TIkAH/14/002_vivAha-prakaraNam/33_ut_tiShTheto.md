@@ -35,7 +35,6 @@ above.⌋
 Rise and go hence, Visvavasu: with reverence we worship thee. Steal to her sister dwelling with her father: this is the share-- mark this--of old assigned thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। इतः। विश्ववसो इति  विश्वऽवसो। नमसा। ईडामहे। त्वा। जामिम्। इच्छ। पितृऽसदम्। निऽअक्ताम्। सः। ते। भागः। जनुषा। तस्य। विध्दि। २.३३।

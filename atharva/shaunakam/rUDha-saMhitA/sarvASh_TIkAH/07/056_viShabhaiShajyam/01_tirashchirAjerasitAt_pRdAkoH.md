@@ -21,10 +21,9 @@ daṅśakaviśeṣāt*. According to the comm., the plant intended is the
 Whether it came from viper, from black snake or snake with transverse stripes, Or Kankaparvan's bite, this herb hath made the poison power- less.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त‍िरश्चिऽराजे:। असितात्। पृदाको:। परि। सम्ऽभृतम्। तत्। कङ्कपर्वण:। विषम्। इयम्। वीरुत्। अनीनशत्। ५८.१।
+त‍िरश्चिऽराजेः। असितात्। पृदाकोः। परि। सम्ऽभृतम्। तत्। कङ्कपर्वणः। विषम्। इयम्। वीरुत्। अनीनशत्। ५८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

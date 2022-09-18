@@ -18,7 +18,6 @@ Ppp. reads instead *yat te mukhaṁ yā te jihvā ye dantā yā ca te hanū*.
 Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Pour for the given, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यौ। ते। ओष्ठौ। ये‍। इति। नासिके। इति। ये  इति। शृङ्गे इति। ये इति। च। ते। अक्षिणी इति। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१४।

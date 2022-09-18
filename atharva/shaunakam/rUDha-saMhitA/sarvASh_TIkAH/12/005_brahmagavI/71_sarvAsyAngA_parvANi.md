@@ -16,7 +16,6 @@ title = "७१ सर्वास्याङ्गा पर्वाणि"
 Dislocate all his limbs and joints.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वा। अस्य। अङ्गा। पर्वाणि। वि। श्रथय। ११.१०।

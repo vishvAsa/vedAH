@@ -22,7 +22,6 @@ it⌋.
 Unholy, splendour-reft is he, his sacrifice unfit to eat. Krayad deprives of tilth of cow, of riches him whom he pursues,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयज्ञियः। हतऽवर्चाः। भवति। न। एनेन। हविः। अत्तवे। छिनत्ति। कृष्याः। गोः। धनात्। यम्। कव्यऽअत्। अनुऽवर्तते। २.३७।

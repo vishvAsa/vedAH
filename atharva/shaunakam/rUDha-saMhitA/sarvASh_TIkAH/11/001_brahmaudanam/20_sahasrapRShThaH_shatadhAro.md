@@ -32,7 +32,6 @@ rule, iii. 93.⌋
 With thousand streams and Prishthas, undecaying, Brahmaudana is celestial, God-reaching. Those I give up to thee with all their children. Force them to tribute, but to me be gracious.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽपृष्ठः। शतऽधारः। अक्षितः। ब्रह्मऽओदनः। देवऽयानः। स्वःऽगः। अमून्। ते। आ। दधामि। प्रऽजया। रेषय। एनान्। बलिऽहाराय। मृडतात्। मह्यम्। एव। १.२०।

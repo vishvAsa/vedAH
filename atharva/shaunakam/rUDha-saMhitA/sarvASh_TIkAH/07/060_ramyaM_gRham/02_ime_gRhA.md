@@ -19,10 +19,9 @@ Ppp. reads in **c** *vāmasya*, and at the end *jānatas*.
 Let these delightful Houses that are rich in power and store of milk, Replete with wealth and standing firm, become aware of our approach.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमे। गृहा:। मय:ऽभुव:। ऊर्जस्वन्त:। पयस्वन्त:। पूर्णा:। वामेन। तिष्ठन्त:। ते। न:। जानन्तु। आऽयत:। ६२.२।
+इमे। गृहाः। मयःऽभुवः। ऊर्जस्वन्तः। पयस्वन्तः। पूर्णाः। वामेन। तिष्ठन्तः। ते। नः। जानन्तु। आऽयतः। ६२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

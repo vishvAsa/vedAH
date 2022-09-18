@@ -19,10 +19,9 @@ VS. (xxxii. 8) and TA. (x. 1. 3) have the first half-verse: VS. reads in a paçy
 Vena beholds That Highest which lies hidden, wherein this All resumes one form and fashion. Thence Prisni milked all life that had existence: the hosts that know the light with songs extolled her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वेन:। तत्। पश्यत्। परमम्। गुहा। यत्। यत्र। विश्वम्। भवति। एकऽरूपम्। इदम्। पृश्नि:। अदुहत्। जायमाना:। स्व:ऽविद:। अभि। अनूषत। व्रा:। १.१।
+वेनः। तत्। पश्यत्। परमम्। गुहा। यत्। यत्र। विश्वम्। भवति। एकऽरूपम्। इदम्। पृश्निः। अदुहत्। जायमानाः। स्वःऽविदः। अभि। अनूषत। व्राः। १.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

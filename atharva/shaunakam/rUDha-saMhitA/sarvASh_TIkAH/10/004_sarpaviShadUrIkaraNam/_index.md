@@ -7,7 +7,6 @@ title = "००४ सर्पविषदूरीकरणम्"
 4. Against snakes and their poison.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्पविषदूरीकरणम्।  
@@ -20,8 +19,6 @@ title = "००४ सर्पविषदूरीकरणम्"
 
 [Garutman.—ṣaḍviṅśati. takṣakadāivatam. ānuṣṭubham: 1. pathyāpan̄kti; 2. 3-p. yavamadhyā gāyatrī; 3, 4. pathyābṛhatī; 8. uṣṇiggarbhā parātriṣṭubh; 12. bhurig gāyatrī; 16. 3-p. pratiṣṭhā gāyatrī; 21. kakummatī; 23. triṣṭubh; 26. 3-av. 6-p. bṛhatīgarbhā kakummatī bhurik triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: Ludwig, p. 502; Henry, 11, 56; Griffith, ii. 14; Bloomfield, 152, 60
 
 A charm to destroy venomous serpents
 </details>
+

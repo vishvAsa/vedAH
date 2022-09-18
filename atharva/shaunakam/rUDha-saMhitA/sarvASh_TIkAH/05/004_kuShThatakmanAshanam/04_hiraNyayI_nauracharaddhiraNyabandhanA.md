@@ -30,10 +30,9 @@ former was adopted in our edition as being favored by the meter.
 There moved through heaven a golden ship, a ship with cordage wrought of Gold. There the Gods won the Kushtha Plant, the blossom of eternal life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्ययी। नौ:। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवा:। कुष्ठम्। अवन्वत। ४.४।
+हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

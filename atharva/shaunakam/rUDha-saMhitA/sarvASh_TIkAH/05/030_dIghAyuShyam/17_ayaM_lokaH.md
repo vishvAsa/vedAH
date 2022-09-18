@@ -22,10 +22,9 @@ ni hvayāmasi*.
 This living world, unconquered of the Gods, is most beloved of all. To whatsoever death thou wast destined when thou wast born,. O man, This death and we call after thee. Die not before decrepit age!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। लोक:। प्रियऽतम:। देवानाम्। अपराऽजित:। यस्मै। त्वम्। इह। मृत्यवे। दिष्ट:। पुरुष। जज्ञिषे। स:। च। त्वा। अनु। ह्वयामसि। मा। पुरा। जरस:। मृथा:। ३०.१७।
+अयम्। लोकः। प्रियऽतमः। देवानाम्। अपराऽजितः। यस्मै। त्वम्। इह। मृत्यवे। दिष्टः। पुरुष। जज्ञिषे। सः। च। त्वा। अनु। ह्वयामसि। मा। पुरा। जरसः। मृथाः। ३०.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

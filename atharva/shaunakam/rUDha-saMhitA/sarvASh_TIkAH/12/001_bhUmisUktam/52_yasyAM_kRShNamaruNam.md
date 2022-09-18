@@ -30,7 +30,6 @@ in 137. 23, with a sprinkling with water.
 Earth, upon whom are settled, joined together, the night and day, the dusky and the ruddy, Prithivi compassed by the rain about her, Happily may she stablish us in each delightful dwelling place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। कृष्णम्। अरुणम्। च। संहिते इति सम्ऽहिते। अहोरात्रे इति। विहिते इति विऽहिते। भूम्याम्। अधि। वर्षेण। भूमिः। पृथिवी। वृता। आऽवृता। सा। नः। दधातु। भद्रया। प्रिये। धामनिऽधामनि। १.५२।

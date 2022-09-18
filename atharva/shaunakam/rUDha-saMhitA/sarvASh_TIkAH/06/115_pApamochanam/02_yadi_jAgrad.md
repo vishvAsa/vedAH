@@ -26,10 +26,9 @@ explains *drupada*, doubtless correctly, by *pādabandhanārtho drumaḥ*.
 If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as from a stake, from present and from future guilt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। जाग्रत्। यदि। स्वपन्। एन:। एनस्य:। अकरम्। भूतम्। मा। तस्मात्। भव्यम्। च। द्रुपदात्ऽइव। मुञ्चताम्। ११५.२।
+यदि। जाग्रत्। यदि। स्वपन्। एनः। एनस्यः। अकरम्। भूतम्। मा। तस्मात्। भव्यम्। च। द्रुपदात्ऽइव। मुञ्चताम्। ११५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

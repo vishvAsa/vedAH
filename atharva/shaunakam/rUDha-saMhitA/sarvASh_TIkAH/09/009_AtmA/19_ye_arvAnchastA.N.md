@@ -22,7 +22,6 @@ instead of *na yuktā*.
 Those that come hitherward they call departing, those that depart they call directed hither. Whatever ye have made, Indra and Soma! steeds draw, as' twere, yoked to the region's car-pole.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अर्वाञ्चः। तान्। ऊं इति। पराचः। आहुः। ये। पराञ्चः। तान्। ऊं इति। अर्वाचः। आहुः। इन्द्रः। च। या। चक्रथुः। सोम। तानि। धुरा। न। युक्ता। रजसः। वहन्ति। १४.१९।

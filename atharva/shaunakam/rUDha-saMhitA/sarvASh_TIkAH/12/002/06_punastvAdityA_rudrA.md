@@ -25,7 +25,6 @@ syll.) is artificially described by the Anukr. It is made in Vāit. 28.
 Again have the Adityas, Rudras, Vasus, the Brahman, bringer of good things, O Agni, Again hath Brahmanaspati disposed thee for long life lasting through a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुनः। त्वा। आदित्याः। रुद्राः। वसवः। पुनः। ब्रह्मा। वसुऽनीतिः। अग्ने। पुनः। त्वा। ब्रह्मणः। पतिः। आ। अधात्। दीर्घायुऽत्वाय। शतऽशारदाय। २.६।

@@ -23,7 +23,6 @@ blunder over such an unusual consonant-group. Ppp. reads *uto* for
 Her shape and form she manifests when she would seek her dwelling-place; Then verily the Cow attends to Brahman priests and their request.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आविः। आत्मानम्। कृणुते। यदा। स्थाम। जिघांसति। अथो इति। ह। ब्रह्मऽभ्यः। वशा। याञ्चाय। कृणुते। मनः। ४.३०।

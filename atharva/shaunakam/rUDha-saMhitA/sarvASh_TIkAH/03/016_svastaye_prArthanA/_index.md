@@ -7,7 +7,6 @@ title = "०१६ स्वस्तये प्रार्थना"
 16. Morning invocation to various gods, especially Bhaga.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्तये प्रार्थना।  
@@ -18,8 +17,6 @@ title = "०१६ स्वस्तये प्रार्थना"
 
 [Atharvan.—saptarcam. prātaḥsūktam. bārhaspatyam uta bahudevatyam. trāiṣṭubham: 1. ārṣī jagatī; 4. bhurikpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: as RV. hymn, by Grassmann, i. 336, and by Ludwig, no. 92; as AV. hym
 
 A Rishi's morning prayer
 </details>
+

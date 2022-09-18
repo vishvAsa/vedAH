@@ -18,10 +18,9 @@ Ppp. omits, probably by oversight, the first half-verse.
 Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O Plant, the man who fain would do us injury.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। जहि। यातुऽधानान्। अव। कृत्याऽकृतम्। जहि। अथो इति। य:। अस्मान्। दिप्सति। तम्। ऊं इति। त्वम्। जहि। ओषधे। १४.२।
+अव। जहि। यातुऽधानान्। अव। कृत्याऽकृतम्। जहि। अथो इति। यः। अस्मान्। दिप्सति। तम्। ऊं इति। त्वम्। जहि। ओषधे। १४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -36,10 +36,9 @@ of the "unclassified residuum" of AV. material.⌋
 Dancing around us with the dice, winning the wager by her play. May she obtain the stake for us and gain the victory with skill. May she approach us full of strength: let them not win this wealth of ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। अयै:। परिऽनृत्यति। आऽददाना। कृतम्। ग्लहात्। सा। न:। कृतानि। सीषती। प्रऽहाम्। आप्नोतु। मायया। सा। न:। पयस्वती। आ। एतु। मा। न:। जैषु। इदम्। धनम्। ३८.३।
+या। अयैः। परिऽनृत्यति। आऽददाना। कृतम्। ग्लहात्। सा। नः। कृतानि। सीषती। प्रऽहाम्। आप्नोतु। मायया। सा। नः। पयस्वती। आ। एतु। मा। नः। जैषु। इदम्। धनम्। ३८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

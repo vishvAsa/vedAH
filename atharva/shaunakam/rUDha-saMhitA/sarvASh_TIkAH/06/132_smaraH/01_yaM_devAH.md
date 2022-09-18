@@ -18,10 +18,9 @@ together with longing—that I heat for thee by Varuṇa's ordinance
 The Philter, burning with the pangs of yearning love, which Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। देवा:। स्मरम्। असिञ्चन्। अप्ऽसु। अन्त:। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.१।
+यम्। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०३५ सपत्नीनाशनम्"
 35 (36). Against a rival (woman).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सपत्नीनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३५ सपत्नीनाशनम्"
 
 [Atharvan.—tṛcam. jātavedasam. ānuṣṭubham: 1, 3. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 477 (vss. 2, 3); Henry, 13, 67; Griffith, 1. 343, and 475
 
 A prayer for the prosperity of a King and his kingdom
 </details>
+

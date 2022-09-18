@@ -20,10 +20,9 @@ with i. 34. 2 **c, d**.
 Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst be at my command and yield to every wish of mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अजामि। त्वा। आऽअजन्या। परि। मातु:। अथो  इति। पितु:। यथा। मम। क्रतौ। अस:। मम। चित्तम्। उपऽआयसि। २५.५।
+आ। अजामि। त्वा। आऽअजन्या। परि। मातुः। अथो  इति। पितुः। यथा। मम। क्रतौ। असः। मम। चित्तम्। उपऽआयसि। २५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

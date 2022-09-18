@@ -23,7 +23,6 @@ see "Corrections") for *tān* in **d**.⌋
 Hitherward one, hence from the earth the other, two Agnis meet between these cloudy regions. Close to these two firm rays of light are clinging. The Brahma- chari enters them through Fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्वाक्। अन्यः। इतः। अन्यः। पृथिव्याः। अग्नी इति। सम्ऽएतः। नभसी  इति। अन्तरा। इमे इति। तयोः। श्रयन्ते। रश्मयः। अधि। दृढाः। तान्। आ। तिष्ठति। तपसा। ब्रह्मऽचारी। ७.११।

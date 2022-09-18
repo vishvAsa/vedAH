@@ -20,10 +20,9 @@ thine, force back him' etc.?⌋
 Flame thou, O Agni, with that flame of thine against the man who hates us, whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। हर:। तेन। तम्। प्रति। हर। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। १९.२।
+अग्ने। यत्। ते। हरः। तेन। तम्। प्रति। हर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

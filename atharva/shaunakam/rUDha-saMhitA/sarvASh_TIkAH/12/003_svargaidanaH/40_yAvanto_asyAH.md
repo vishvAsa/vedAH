@@ -23,7 +23,6 @@ resolve *ta-ā́n*.
 All these now dwelling on the earth, mine offspring, these whom, this woman here, my wife, hath borne me, Invite them all unto the vessel: knowing their kinship have the children met together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यावन्तः। अस्याः। पृथिवीम्। सचन्ते। अस्मत्। पुत्राः। परि। ये। सम्ऽबभूवुः। सर्वान्। तान्। उप। पात्रे। ह्वयेथाम्। नाभिम्। जानानाः। शिशवः। सम्ऽआयान्। ३.४०।

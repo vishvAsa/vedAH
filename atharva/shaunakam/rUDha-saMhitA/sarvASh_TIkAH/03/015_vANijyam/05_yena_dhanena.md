@@ -23,10 +23,9 @@ mechanically correct definition of the verse as it stands.
 The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the wealth I offer, May this grow more for me, not less: O Agni, through sacrifice chase those who hinder profit!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। धनेन। प्रऽपणम्। चरामि। धनेन। देवा:। धनम्। इच्छमान:। तत्। मे। भूय:। भवतु। मा। कनीय:। अग्ने। सातऽघ्न:। देवान्। हविषा। नि। सेध। १५.५।
+येन। धनेन। प्रऽपणम्। चरामि। धनेन। देवाः। धनम्। इच्छमानः। तत्। मे। भूयः। भवतु। मा। कनीयः। अग्ने। सातऽघ्नः। देवान्। हविषा। नि। सेध। १५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ at end of **b**, and *yasmāt* in **d**.
 Sight leaves him not, breath quits not him before life's natural decay, Who knows the fort of Brahma, yea, the fort whence Purusha is named.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। वै। तम्। चक्षुः। जहाति। न। प्राणः। जरसः। पुरा। पुरम्। यः। ब्रह्मणः। वेद। यस्याः। पुरुषः। उच्यते। २.३०।

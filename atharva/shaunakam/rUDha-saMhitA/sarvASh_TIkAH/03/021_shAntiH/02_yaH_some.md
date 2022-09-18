@@ -27,10 +27,9 @@ irregular enough. ⌊Pādas **b** and **d** are in order, each a
 That which abides in Soma and in cattle, that which lies deep in birds and sylvan creatures, That which hath entered quadrupeds and bipeds--to all these Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। सोमे। अन्त:। य:। गोषु। अन्त:। य:। आऽविष्ट:। वय:ऽसु। य:। मृगेषु। य:। आऽविवेश। द्विऽपद:। य:। चतु:ऽपद:। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.२।
+यः। सोमे। अन्तः। यः। गोषु। अन्तः। यः। आऽविष्टः। वयःऽसु। यः। मृगेषु। यः। आऽविवेश। द्विऽपदः। यः। चतुःऽपदः। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

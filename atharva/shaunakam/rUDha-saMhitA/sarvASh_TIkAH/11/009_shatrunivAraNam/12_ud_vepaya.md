@@ -21,7 +21,6 @@ P.M.W. read at the end *amítrāṇy arbude:* compare 6 **a**, above.
 Shake them, and let them sink with fear: e'erwhelm our enemies with dread. With widely-grasping bends of arm, O Arbudi, crush down our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। वेपय। सम्। विजन्ताम्। भिया। अमित्रान्। सम्। सृज। उरुऽग्राहैः। बाहुऽअङ्कैः। विध्य। अमित्रान्। निऽअर्बुदे। ११.१२।

@@ -21,7 +21,6 @@ brūmas*.
 The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let all spirits meet: may these deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भूतम्। ब्रूमः। भूतऽपतिम्। भूतानाम्। उत। यः। वशी। भूतानि। सर्वा। सम्ऽगत्य। ते। नः। मुञ्चन्तु। अंहसः। ८.२१।

@@ -19,7 +19,6 @@ Compare xiv. 2. 67. ⌊Cf. MGS. ii. 1. 10.⌋
 Wipe off pollution, lay it in the lead and in the black-hued sheep, And headache in the cushion; then be cleansed and fit to sacri- fice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सीसे। मलम्। सादयित्वा। शीर्षक्तिम्। उपऽबर्हणे। अव्याम्। असिक्न्याम्। मृष्ट्वा। शुध्दाः। भवत। यज्ञियाः। २.२०।

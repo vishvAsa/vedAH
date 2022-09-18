@@ -23,10 +23,9 @@ warming winds after the cold season are probably intended by the
 Ye Maruts, full of fiery heat, accept this offering brought for you To help us, ye who slay the foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-साम्ऽतपना:। इदम्। हवि:। मरुत:। तत्। जुजुष्टन। अस्माक। ऊती। रिशादस:। ८२.१।
+साम्ऽतपनाः। इदम्। हविः। मरुतः। तत्। जुजुष्टन। अस्माक। ऊती। रिशादसः। ८२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

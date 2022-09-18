@@ -19,10 +19,9 @@ noises of the bow-strings.' The verse seems rather out of order.
 To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to hosts of foes that go discomfited in serried ranks.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ज्याऽघोषा:। दुन्दुभय:। अभि। क्रोशन्तु। या:। दिश:। सेना:। पराऽजिता:। यती:। अमित्राणाम्। अनीकऽश:। २१.९।
+ज्याऽघोषाः। दुन्दुभयः। अभि। क्रोशन्तु। याः। दिशः। सेनाः। पराऽजिताः। यतीः। अमित्राणाम्। अनीकऽशः। २१.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

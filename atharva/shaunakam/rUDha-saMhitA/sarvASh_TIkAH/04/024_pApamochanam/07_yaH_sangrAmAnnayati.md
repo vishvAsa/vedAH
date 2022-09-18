@@ -23,10 +23,9 @@ end of **b** they give *trayā́ṇi* instead of *dvayā́ni*. The comm. thinks
 Strong Lord, who leadeth hosts to meet for battle, who sendeth riches both of earth and heaven, I, suppliant, praise and ever call on Indra. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। सम्ऽग्रामान्। नयति। सम्। युधे। वशी। य:। पुष्टानि। सम्ऽसृजति। द्वयानि। स्तौमि। इन्द्रम्। नाथित:। जोहवीमि। स:। न:। मुञ्चतु। अंहस:। २४.७।
+यः। सम्ऽग्रामान्। नयति। सम्। युधे। वशी। यः। पुष्टानि। सम्ऽसृजति। द्वयानि। स्तौमि। इन्द्रम्। नाथितः। जोहवीमि। सः। नः। मुञ्चतु। अंहसः। २४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

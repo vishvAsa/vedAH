@@ -7,7 +7,6 @@ title = "०२६ विष्णुः"
 26 (27). Praise and prayer to Vishṇu.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विष्णुः।  
@@ -18,8 +17,6 @@ title = "०२६ विष्णुः"
 
 [Medhātithi.—aṣṭarcam. vāiṣṇavam. trāiṣṭubham: 2. 3-p. virāḍgāyatrī; 3. 3-av. 6-p. virāṭśakvarī; 4-7. gāyatrī; 8. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, iv2. 68, 63 (nearly all); Henry, 10, 63; Griffith, i. 339.
 
 Praise of Vishnu
 </details>
+

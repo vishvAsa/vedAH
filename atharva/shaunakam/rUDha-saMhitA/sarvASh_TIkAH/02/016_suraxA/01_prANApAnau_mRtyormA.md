@@ -29,10 +29,9 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणापानौ। मृत्यो:। मा। पातम्। स्वाहा। १६.१।
+प्राणापानौ। मृत्योः। मा। पातम्। स्वाहा। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

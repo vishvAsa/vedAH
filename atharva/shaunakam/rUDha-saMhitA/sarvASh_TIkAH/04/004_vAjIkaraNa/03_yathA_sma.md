@@ -30,10 +30,9 @@ Bloomfield's note.—With *ánati*, cf. *śvasihí*, vi. l01. 1.⌋
 Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui ardentius haec herba faciat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। स्म। ते। विऽरोहत:। अभितप्तम्ऽइव। अनति। तत:। ते। शुष्मवत्ऽतरम्। इयम्। कृणोतु। ओषधि:। ४.३।
+यथा। स्म। ते। विऽरोहतः। अभितप्तम्ऽइव। अनति। ततः। ते। शुष्मवत्ऽतरम्। इयम्। कृणोतु। ओषधिः। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

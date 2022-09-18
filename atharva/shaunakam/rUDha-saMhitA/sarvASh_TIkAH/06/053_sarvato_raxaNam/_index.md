@@ -7,7 +7,6 @@ title = "०५३ सर्वतो रक्षणम्"
 53. For protection: to various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्वतो रक्षणम्।  
@@ -18,8 +17,6 @@ title = "०५३ सर्वतो रक्षणम्"
 
 [Bṛhachukra.—nānādāivatam. trāiṣṭubham: 1. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 506; Griffith, i. 274.
 
 A prayer for recovery and preservation of health and security
 </details>
+

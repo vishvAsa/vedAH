@@ -22,10 +22,9 @@ in **d**, *bhindānās*. The latter half-verse is found again as viii. 8.
 Here, Mitra-Varuna! may we dwell safely: with splendour drive the greedy demons backward, Let them not find a surety or a refuge, but torn away go down to Death together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभयम्। मित्रावरुणौ। इह। अस्तु। न:। अर्चिषा। अत्त्रिण:। नुदतम्। प्रतीच:। मा। ज्ञातारम्। मा। प्रतिऽस्थाम्। विदन्त। मिथ:। विऽघ्नाना:। उप। यन्तु। मृत्युम्। ३२.३।
+अभयम्। मित्रावरुणौ। इह। अस्तु। नः। अर्चिषा। अत्त्रिणः। नुदतम्। प्रतीचः। मा। ज्ञातारम्। मा। प्रतिऽस्थाम्। विदन्त। मिथः। विऽघ्नानाः। उप। यन्तु। मृत्युम्। ३२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

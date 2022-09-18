@@ -25,7 +25,6 @@ in **c**.
 Those who in recent times, midmost, or ancient, on all sides. greet the sage who knows the Veda, One and all, verily discuss Aditya, the second Agni, and the threefold Hansa.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अर्वाङ्। मध्ये। उत। वा। पुराणम्। वेदम्। विद्वांसम्। अभितः। वदन्ति। आदित्यम्। एव। ते। परि। वदन्ति। सर्वे। अग्निम्। द्वितीयम्। त्रिऽवृतम्। च। हंसम्। ८.१७।

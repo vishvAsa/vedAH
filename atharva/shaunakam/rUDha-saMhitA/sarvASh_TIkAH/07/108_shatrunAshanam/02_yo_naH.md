@@ -21,10 +21,9 @@ a frequent error. Ludwig suggests *vāivasvatena* for *vāiśvānareṇa* in
 Whoso oppresseth us O Jatavedas, asleep or waking, standing still or moving. Accordant with Vaisvanara thy comrade, O Jatavedas, meet them and consume them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। सुप्तान्। जाग्रत:। वा। अभिऽदासात्। तिष्ठत:। वा। चरत:। जातऽवेद:। वैश्वानरेण। सऽयुजा। सऽजोषा:। तान्। प्रतीच:। नि:। दह। जातऽवेद:। ११३.२।
+यः। नः। सुप्तान्। जाग्रतः। वा। अभिऽदासात्। तिष्ठतः। वा। चरतः। जातऽवेदः। वैश्वानरेण। सऽयुजा। सऽजोषाः। तान्। प्रतीचः। निः। दह। जातऽवेदः। ११३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

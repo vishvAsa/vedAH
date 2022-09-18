@@ -25,7 +25,6 @@ compares śB. xi. 8. 1².⌋
 The Master is Death, Varuna, Soma, the plants of earth, and milk. The thunder-clouds were men of war. By these this heavenly light was brought.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽचार्यः। मृत्युः। वरुणः। सोमः। ओषधयः। पयः। जीमूताः। आसन्। सत्वानः। तैः। इदम्। स्वः। आऽभृतम्। ७.१४।

@@ -20,10 +20,9 @@ mss. vary greatly in their readings).
 From honey sprang this Plant to life; with honey now we dig thee up. Make us as sweet as honey, for from honey hast thou been pro- duced.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुना। त्वा। खनामसि। मधो:। अधि। प्रऽजाता। असि। सा। न:। मधुऽमत:। कृधि।
+इयम्। वीरुत्। मधुऽजाता। मधुना। त्वा। खनामसि। मधोः। अधि। प्रऽजाता। असि। सा। नः। मधुऽमतः। कृधि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

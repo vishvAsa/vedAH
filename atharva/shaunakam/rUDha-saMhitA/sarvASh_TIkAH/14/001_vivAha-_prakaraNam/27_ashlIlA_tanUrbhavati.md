@@ -24,7 +24,6 @@ the RV.⌋ *An̄ga* might mean 'body' (so the translators). ⌊For vss. 27,
 Unlovely is his body when it glistens with that wicked fiend, What time the husband wraps about his limbs the garment of his wife.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अश्लीला। तनूः। भवति। रुशती। पापया। अमुया। पतिः। यत्। वध्वः। वाससः। स्वम्। अङ्गम्। अभिऽऊर्णुते। १.२७।

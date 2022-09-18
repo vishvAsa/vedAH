@@ -18,7 +18,6 @@ Ppp. combines at the end *vātā ”hitaḥ*.
 The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of Sacrifice holdeth sea, waters, Moon, and Wind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽशिष्टे। द्यावापृथिवी इति। विश्वम्। भूतम्। सम्ऽआहितम्। आपः। समुद्रः। उत्ऽशिष्टे। चन्द्रमाः। वातः। आऽहितः। ९.२।

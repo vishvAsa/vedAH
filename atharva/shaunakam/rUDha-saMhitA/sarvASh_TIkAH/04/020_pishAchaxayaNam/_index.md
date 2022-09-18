@@ -7,7 +7,6 @@ title = "०२० पिशाचक्षयणम्"
 20. To discover sorcerers: with an herb.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पिशाचक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०२० पिशाचक्षयणम्"
 
 [Mātṛnāman.—navarcam. mātṛnāmadāivatam. ānuṣṭubham: 1. svarāj; 9. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 525; Grill, 2, 133; Griffith, i. 159; Bloomfield, 68, 398
 
 A charm for the acquisition of superhuman powers of sight
 </details>
+

@@ -22,7 +22,6 @@ either edition, reads *ṣaṭtsahasrāḥ*, as required by Prāt. ii. 8.
 After the Brahmachari go the Fathers, the heavenly hosts, all Gods in separate order. After him too have the Gandharvas followed, thirty and three, three hundred, and six thousand. He satisfies all Gods with his devotion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचारिणम्। पितरः। देवऽजनाः। पृथक्। देवाः। अनुऽसंयन्ति। सर्वे। गन्धर्वाः। एनम्। अनु। आयन्। त्रयःऽत्रिंशत्। त्रिऽशताः। षट्ऽसहस्राः। सर्वान्। सः। देवान्। तपसा। पिपर्ति। ७.२।

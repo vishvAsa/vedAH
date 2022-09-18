@@ -7,7 +7,6 @@ title = "०३५ वैश्वानरः"
 35. Prayer to Agni Vāiśvānara.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वैश्वानरः।
@@ -19,8 +18,6 @@ title = "०३५ वैश्वानरः"
 
 [Kāuśika.—viśvānaradāivatam. gāyatram.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Florenz, 295 or 47; Griffith, i. 264.
 
 To Agni Vaisvanara
 </details>
+

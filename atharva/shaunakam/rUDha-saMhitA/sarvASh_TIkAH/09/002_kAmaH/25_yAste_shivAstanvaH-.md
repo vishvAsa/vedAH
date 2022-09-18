@@ -29,10 +29,9 @@ down (apparently merely on account of the occurrence of -*saṁ-viś* in
 Thy lovely and auspicious forms, O Kama, whereby the thing thou wilt becometh real, With these come thou and make thy home among us, and make malignant thoughts inhabit elsewhere.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। ते। शिवा:। तन्व:। काम। भद्रा:। याभि:। सत्यम्। भवति। यत्। वृणीषे। ताभि:। त्वम्। अस्मान्। अभिऽसंविशस्व। अन्यत्र। पापी:। अप। वेशय। धिय:। । २.२५।
+याः। ते। शिवाः। तन्वः। काम। भद्राः। याभिः। सत्यम्। भवति। यत्। वृणीषे। ताभिः। त्वम्। अस्मान्। अभिऽसंविशस्व। अन्यत्र। पापीः। अप। वेशय। धियः। । २.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

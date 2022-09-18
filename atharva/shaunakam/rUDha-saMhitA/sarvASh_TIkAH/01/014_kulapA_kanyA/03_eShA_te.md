@@ -31,10 +31,9 @@ second half.
 Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsfolk may she sit, until her hair be white with age.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एषा। ते। कुलऽपा:। राजन्। ताम्। ऊं इति। ते। परि। दद्मसि। ज्योक्। पितृषु। आसातै। आ। शीर्ष्ण:। सॅंम्ऽओप्यात्।
+एषा। ते। कुलऽपाः। राजन्। ताम्। ऊं इति। ते। परि। दद्मसि। ज्योक्। पितृषु। आसातै। आ। शीर्ष्णः। सॅंम्ऽओप्यात्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

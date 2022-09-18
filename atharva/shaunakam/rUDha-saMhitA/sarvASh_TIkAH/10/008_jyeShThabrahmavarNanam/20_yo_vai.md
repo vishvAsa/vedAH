@@ -18,7 +18,6 @@ chief thing; he may know the great *bráhmaṇa* ⌊neut.⌋.
 The sage who knows the kindling-sticks whence by attrition wealth is drawn, Will comprehend what is most high, will know the mighty Brahmana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। वै। ते इति। विद्यात्। अरणी इति। याभ्याम्। निःऽमथ्यते। वसु। सः। विद्वान्। ज्येष्ठम्। मन्येत। सः। विद्यात्। ब्राह्मणम्। महत्। ८.२०।

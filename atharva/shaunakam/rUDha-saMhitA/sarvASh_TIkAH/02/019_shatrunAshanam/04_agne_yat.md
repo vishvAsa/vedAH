@@ -17,10 +17,9 @@ who hates us, whom we hate.
 Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। शोचि:। तेन। तम्। प्रति। शोच। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। १९.४।
+अग्ने। यत्। ते। शोचिः। तेन। तम्। प्रति। शोच। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

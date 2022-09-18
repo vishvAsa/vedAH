@@ -22,10 +22,9 @@ three verses, the norm of the book.
 If thou art bound with cord or tied to timber, fixt in the earth, or by a word imprisoned, Our Agni Garhapatya here shall free thee, and lead thee up into the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। दारुणि। बध्यसे। यत्। च। रज्ज्वाम्। यत्। भूम्याम्। बध्यसे। यत्। च। वाचा। अयम्। तस्मात्। गार्हऽपत्य:। न:। अग्नि:। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२१.२।
+यत्। दारुणि। बध्यसे। यत्। च। रज्ज्वाम्। यत्। भूम्याम्। बध्यसे। यत्। च। वाचा। अयम्। तस्मात्। गार्हऽपत्यः। नः। अग्निः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

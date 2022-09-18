@@ -20,7 +20,6 @@ under vi. 127. 1. For the obscure *kan̄kūṣa* Ppp. has *kaṅkukha*, and for
 From both thine ears, from parts thereof, thine earache, and the throbbing pain, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कर्णाभ्याम्। ते। कङ्कूषेभ्यः। कर्णऽशूलम्। विऽसल्पकम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.२।

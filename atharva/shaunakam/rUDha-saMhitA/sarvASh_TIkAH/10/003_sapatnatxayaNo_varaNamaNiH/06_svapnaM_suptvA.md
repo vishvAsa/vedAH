@@ -24,7 +24,6 @@ gaṇa:* see note to Kāuś. 46. 9.
 If in thy sleep thou see an evil vision, oft as the beast repeats his loathed approaches, This Amulet, this Varana will guard thee from sneeze, and from the bird's ill-omened message.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वप्नम्। सुप्त्वा। यदि। पश्यासि। पापम्। मृगः। सृतिम्। यति। धावात्। अजुष्टाम्। परिऽक्षवात्। शकुनेः। पापऽवादात्। अयम्। मणिः। वरणः। वारयिष्यते। ३.६।

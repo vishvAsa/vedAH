@@ -7,7 +7,6 @@ title = "०५२ भैषज्यम्"
 52. For deliverance from unseen pests.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
@@ -18,8 +17,6 @@ title = "०५२ भैषज्यम्"
 
 [Bhāgali.—mantroktabahudevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 273.—See also Henry, Mém. Soc. Ling., ix. 241 top, a
 
 A charm against noxious reptiles and insects
 </details>
+

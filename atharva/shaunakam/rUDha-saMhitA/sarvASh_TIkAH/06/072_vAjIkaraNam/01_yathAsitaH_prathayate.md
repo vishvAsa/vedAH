@@ -25,10 +25,9 @@ going' (*samānagamana*). The Petersburg Lexicon conjectures for
 Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas efficiens, sic fascinum tuum, partem cum parte, conjunctum, hic hymnus efficiat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। असित:। प्रथयते। वशान्। अनु। वपूंषि। कृण्वन्। असुरस्य। मायया। एव। ते। शेप:। सहसा। अयम्। अर्क:। अङ्गेन। अङ्गम्। सम्ऽसमकम्। कृणोतु। ७२.१।
+यथा। असितः। प्रथयते। वशान्। अनु। वपूंषि। कृण्वन्। असुरस्य। मायया। एव। ते। शेपः। सहसा। अयम्। अर्कः। अङ्गेन। अङ्गम्। सम्ऽसमकम्। कृणोतु। ७२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

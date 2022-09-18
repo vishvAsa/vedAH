@@ -7,7 +7,6 @@ title = "००५ राष्ट्रस्य राजा राजकृ�
 5. For prosperity: with a parṇá-amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रस्य राजा राजकृतश्च।  
@@ -18,8 +17,6 @@ title = "००५ राष्ट्रस्य राजा राजकृ�
 
 [Atharvan.—aṣṭakam. sāumyam. ānuṣṭubham: 1. puro‘nuṣṭup triṣṭubh; 8. virāḍurobṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 1 94; Griffith, i. 86; Bloomfield, 114, 331.—Vss. 6 a
 
 A King's address to an amulet which is to strengthen his authority
 </details>
+

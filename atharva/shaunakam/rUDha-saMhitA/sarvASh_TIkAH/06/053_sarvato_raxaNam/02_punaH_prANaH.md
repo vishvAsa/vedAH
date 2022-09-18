@@ -27,10 +27,9 @@ me;* and MB. i. 6. 34.⌋
 Again return to us our breath and spirit, again come back to us our life and vision! Vaisvanara, unscathed, our bodies' guardian, stand between us and every woe and danger!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। प्राण:। पुन:। आत्मा। न:। आ। एतु। पुन:। चक्षु:। पुन:। असु:। न:। आ। एतु। वैश्वानर:। न:। अदब्ध:। तनूऽपा:। अन्त:। तिष्ठाति। दु:ऽइतानि। विश्वा। ५३.२।
+पुनः। प्राणः। पुनः। आत्मा। नः। आ। एतु। पुनः। चक्षुः। पुनः। असुः। नः। आ। एतु। वैश्वानरः। नः। अदब्धः। तनूऽपाः। अन्तः। तिष्ठाति। दुःऽइतानि। विश्वा। ५३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

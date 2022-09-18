@@ -28,7 +28,6 @@ that case (? 79. 32) the ceremony is called *brāhmya* instead of
 Let prayer he offered up before and after, prayer in the middle, lastly, all around her. Reaching the Gods' inviolable castle shine in thy lord's world gentle and auspicious.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। अपरम्। युज्यताम्। ब्रह्म। पूर्वम्‌। ब्रह्म। अन्ततः। मध्यतः। ब्रह्म। सर्वतः। अनाव्याधाम्। देवऽपुराम्। प्रऽपद्ये। शिवा। स्योना। पतिऽलोके। वि। राज। १.६४।

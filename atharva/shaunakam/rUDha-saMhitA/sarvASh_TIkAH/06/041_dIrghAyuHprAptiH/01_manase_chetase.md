@@ -20,7 +20,6 @@ to i. 1. 1, W. took *śruta* here as 'sense of hearing.'⌋
 For mind, for intellect, for thought, for purpose, for intelligence,. For sense, for hearing, and for sight, let us adore with sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मनसे। चेतसे। धिये। आऽकूतये। उत। चित्तये। मत्यै। श्रुताय। चक्षसे। विधेम। हविषा। वयम्। ४१.१।

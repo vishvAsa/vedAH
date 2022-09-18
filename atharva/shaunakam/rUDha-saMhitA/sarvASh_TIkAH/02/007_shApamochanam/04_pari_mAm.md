@@ -27,10 +27,9 @@ that our **c** is in disorder.⌋
 Guard on all sides this woman, guard my children, us, and all our wealth! Let not malignity o'ercome, nor adversaries conquer us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। माम्। परि। मे। प्रऽजाम्। परि। न:। पाहि। यत्। धनम्। अराति। न:। मा। तारीत्। मा। न:। तारिषु:। अभिऽमातय:। ७.४।
+परि। माम्। परि। मे। प्रऽजाम्। परि। नः। पाहि। यत्। धनम्। अराति। नः। मा। तारीत्। मा। नः। तारिषुः। अभिऽमातयः। ७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

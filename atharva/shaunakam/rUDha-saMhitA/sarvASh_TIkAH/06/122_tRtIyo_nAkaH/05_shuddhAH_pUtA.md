@@ -22,10 +22,9 @@ latter verse, instead of the figurative appellation "maidens," we have
 These women here, cleansed, purified, and holy, I place at rest singly, in hands of Brahmans. May Indra, Marut-girt, grant me the blessing I long for as I pour you this libation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुध्दा:। पूता:। योषित:। यज्ञिया:। इमा:। ब्रह्मणाम्। हस्तेषु। प्रऽपृथक्। सादयामि। यत्ऽकाम:। इदम्। अभिऽसिञ्चामि। व:। अहम्। इन्द्र:। मरुत्वान्। स:। ददातु। तत्। मे। १२२.५।
+शुध्दाः। पूताः। योषितः। यज्ञियाः। इमाः। ब्रह्मणाम्। हस्तेषु। प्रऽपृथक्। सादयामि। यत्ऽकामः। इदम्। अभिऽसिञ्चामि। वः। अहम्। इन्द्रः। मरुत्वान्। सः। ददातु। तत्। मे। १२२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

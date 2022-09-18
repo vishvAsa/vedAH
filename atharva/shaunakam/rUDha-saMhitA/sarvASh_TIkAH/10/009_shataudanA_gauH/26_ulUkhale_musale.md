@@ -31,7 +31,6 @@ Ppp. reads in **b** *ye vā śūrpe taṇḍulāṣ kaṇāḥ*.
 Each grain of rice in mortar or on pestle, all on the skin or in the winnowing-basket, Whatever purifying Matarisvan, the Wind, hath sifted, let the Hotar Agni make of it an acceptable oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उलूखले। मुसले। यः। च। चर्मणि। यः। वा। शूर्पे। तण्डुलः। कणः। यम्। वा। वातः। मातरिश्वा। पवमानः। ममाथ। अग्निः। तत्। होता। सुऽहुतम्। कृणोतु। ९.२६।

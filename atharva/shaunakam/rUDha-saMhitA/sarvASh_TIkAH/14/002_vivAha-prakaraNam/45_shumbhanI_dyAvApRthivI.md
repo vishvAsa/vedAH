@@ -26,7 +26,6 @@ use is evidently the one which gives the verse its place here.
 Splendid are Heaven and Earth, still near to bless us, mighty in their power; The seven streams have flowed: may they, Goddesses, free us from distress
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आपः। सप्त। सुस्रुवः। देवीः। ताः। नः। मुञ्चन्तु अंहसः। २.४५।

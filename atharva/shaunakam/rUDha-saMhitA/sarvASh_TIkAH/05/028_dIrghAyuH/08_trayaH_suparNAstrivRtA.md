@@ -22,10 +22,9 @@ syllable *om* is intended.
 When with the three-stringed charm came three strong eagles, sharing the Sacred Syllable and mighty, With immortality they drove off Mrityu, obscuring and conceal- ing all distresses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रय:। सुऽपर्णा:। त्रिऽवृता। यत्। आयन्। एकऽअक्षरम्। अभिऽसंभूय। शक्रा:। प्रति। औहन्। मृत्युम्। अमृतेन। साकम्। अन्त:ऽदधाना:। दु:ऽइतानि। विश्वा। २८.८।
+त्रयः। सुऽपर्णाः। त्रिऽवृता। यत्। आयन्। एकऽअक्षरम्। अभिऽसंभूय। शक्राः। प्रति। औहन्। मृत्युम्। अमृतेन। साकम्। अन्तःऽदधानाः। दुःऽइतानि। विश्वा। २८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

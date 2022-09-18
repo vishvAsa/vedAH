@@ -20,10 +20,9 @@ death compassionate thee; do not thou perish.
 Purely for thee breathe Wind and Matarisvan, and let the Waters rain on thee their nectar. The Sun shall shine with healing on thy body; Death shall have mercy on thee: do not leave us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तुभ्यम्। वात:। पवताम्। मातरिश्वा। तुभ्यम्। वर्षन्तु। अमृतानि। आप:। सूर्य:। ते। तन्वे। शम्। तपाति। त्वाम्। मृत्यु:। दयताम्। मा। प्र। मेष्ठा:। १.५।
+तुभ्यम्। वातः। पवताम्। मातरिश्वा। तुभ्यम्। वर्षन्तु। अमृतानि। आपः। सूर्यः। ते। तन्वे। शम्। तपाति। त्वाम्। मृत्युः। दयताम्। मा। प्र। मेष्ठाः। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

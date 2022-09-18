@@ -26,10 +26,9 @@ prandnti, see Prāt. iv. 57.⌋
 Ye people, hear and mark this well: he will pronounce a mighty prayer: That which gives breathing to the Plants is not on earth nor in, the heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। जनास:। विदथ। महत्। ब्रह्म। वदिष्यति। न। तत्। पृथिव्याम्। नो इति। दिवि। येन। प्राणन्ति। वीरुध:।
+इदम्। जनासः। विदथ। महत्। ब्रह्म। वदिष्यति। न। तत्। पृथिव्याम्। नो इति। दिवि। येन। प्राणन्ति। वीरुधः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

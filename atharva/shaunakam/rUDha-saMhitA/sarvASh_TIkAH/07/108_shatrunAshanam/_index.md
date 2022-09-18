@@ -7,7 +7,6 @@ title = "१०८ शत्रुनाशनम्"
 108 (113). Against enemies: to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "१०८ शत्रुनाशनम्"
 [Bhṛgu.—dvyṛcam. āgneyam. trāiṣṭubham: 1. bṛhatīgarbhā.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Used by Kāuś. (48. 37) in a witchcraft rite with hymns 31, 
 ### Translations
 Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 </details>
+

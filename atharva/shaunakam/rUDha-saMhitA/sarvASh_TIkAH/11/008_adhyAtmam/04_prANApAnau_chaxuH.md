@@ -21,7 +21,6 @@ three pādas as vs. 26 **a, b, c** below. Ppp. combines *vā ”kūtim* in
 Inbreath and outbreath, eye and ear, decay and freedom from. decay, Spiration upward and diffused, voice, mind have brought us wish and plan.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। व्यानऽउदानौ। वाक्। मनः। ते। वै। आऽकूतिम्। आ। अवहन्। १०.४।

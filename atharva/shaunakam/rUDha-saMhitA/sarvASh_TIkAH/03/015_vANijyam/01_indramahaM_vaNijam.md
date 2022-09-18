@@ -24,10 +24,9 @@ no's 1, 2) give vivid pictures of the life of the trading caravans.⌋
 I stir and animate the merchant Indra; may he approach and be our guide and leader. Chasing ill-will, wild beast, and highway robber, may he who hath the power give me riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रम्। अहम्। वणिजम्। चोदयामि। स:। न:। आ। एतु। पुर:ऽएता। न:। अस्तु। नुदन्। अरातिम्। परिऽपन्थिनम्। मृगम्। स:। ईशान:। धनऽदा:। अस्तु। मह्यम्। १५.१।
+इन्द्रम्। अहम्। वणिजम्। चोदयामि। सः। नः। आ। एतु। पुरःऽएता। नः। अस्तु। नुदन्। अरातिम्। परिऽपन्थिनम्। मृगम्। सः। ईशानः। धनऽदाः। अस्तु। मह्यम्। १५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

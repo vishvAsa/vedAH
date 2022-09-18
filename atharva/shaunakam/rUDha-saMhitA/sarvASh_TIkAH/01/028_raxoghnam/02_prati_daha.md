@@ -19,10 +19,9 @@ him, reads *kṛṣṇavartmane* (treating it as a vocative).
 Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatudhanis as they face thee, thou whose path is black!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रति। दह। यातुऽधानान्। प्रति। देव। किमीदिन:। प्रतीची:। कृष्णऽवर्तने। सम्। दह। यातुऽधान्य:।
+प्रति। दह। यातुऽधानान्। प्रति। देव। किमीदिनः। प्रतीचीः। कृष्णऽवर्तने। सम्। दह। यातुऽधान्यः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,10 +28,9 @@ the resolution *ma-ā́m* in **c**.
 I've girt thee with the conquering Plant, beneath thee laid the mightiest one. As a cow hastens to her calf, so let thy spirit speed to me, hasten like water on its way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। ते। अधाम्। सहमानाम्। उप। ते। अधाम्। सहीयसीम्। माम्। अनु। प्र। ते। मन:। वत्सम्। गौ:ऽइव। धावतु। पथा। वा:ऽइव। धावतु। १८.६।
+अभि। ते। अधाम्। सहमानाम्। उप। ते। अधाम्। सहीयसीम्। माम्। अनु। प्र। ते। मनः। वत्सम्। गौःऽइव। धावतु। पथा। वाःऽइव। धावतु। १८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

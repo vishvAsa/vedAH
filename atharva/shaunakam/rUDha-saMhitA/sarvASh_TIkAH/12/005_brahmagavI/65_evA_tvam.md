@@ -17,7 +17,6 @@ has committed offense, of the god-reviler, the ungenerous,—
 So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blasphemer of the Gods,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एव। त्वम्। देवि। अघ्न्ये। ब्रह्मऽज्यस्य। कृतऽआगसः। देवऽपीयोः। अराधसः। ११.४।

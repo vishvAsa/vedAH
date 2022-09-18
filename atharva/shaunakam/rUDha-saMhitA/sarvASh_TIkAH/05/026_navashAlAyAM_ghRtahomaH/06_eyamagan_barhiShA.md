@@ -18,10 +18,9 @@ A perfectly good pair of *triṣṭubh* pādas.
 Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इयम्। अगन्। बर्हिषा। प्रऽउक्षणीभि:। यज्ञम्। तन्वाना। अदिति:। स्वाहा। २६.६।
+आ। इयम्। अगन्। बर्हिषा। प्रऽउक्षणीभिः। यज्ञम्। तन्वाना। अदितिः। स्वाहा। २६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

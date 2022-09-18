@@ -25,10 +25,9 @@ in **c** TB. has *rāṣṭravárdh-,* which is better, and before it
 The heavenly waters rich in milk have sprinkled thee with power and might. To be the gladdener of thy friends. May Savitar so fashion thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। त्वा। वर्चसा। असिचन्। आप:। दिव्या:। पयस्वती:। यथा। अस:। मित्रऽवर्धन:। तथा। त्वा। सविता। करत्। ८.६।
+अभि। त्वा। वर्चसा। असिचन्। आपः। दिव्याः। पयस्वतीः। यथा। असः। मित्रऽवर्धनः। तथा। त्वा। सविता। करत्। ८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

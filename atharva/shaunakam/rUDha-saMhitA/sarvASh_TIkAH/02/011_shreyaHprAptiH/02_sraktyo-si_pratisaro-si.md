@@ -22,10 +22,9 @@ amulet—⌊such as a bracelet? For *re-entrant*, Whitney has interlined
 Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy superior, thou; surpass thine equal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्रक्त्य:। असि। प्रतिऽसर:। असि। प्रतिऽअभिचरण:। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.२।
+स्रक्त्यः। असि। प्रतिऽसरः। असि। प्रतिऽअभिचरणः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

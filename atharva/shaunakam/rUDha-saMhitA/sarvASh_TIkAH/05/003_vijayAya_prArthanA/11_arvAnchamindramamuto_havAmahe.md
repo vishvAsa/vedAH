@@ -25,10 +25,9 @@ apparently balances the redundancy of **a** against the deficiency of
 Yea, we call Indra hitherward, the winner of wealth in battle and of kine and horses. May he mark this our worship when we call him, Lord of bay steeds, thou art our friend and comrade.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अर्वाञ्चम्। इन्द्रम्। अमुत:। हवामहे। य:। गोऽजित्। धनऽजित्। अश्वऽजित्। य:। इमम्। न:। यज्ञम्। विऽहवे। शृणोतु। अस्माकम्। अभू:। हरिऽअश्व। मेदी। ३.११।
+अर्वाञ्चम्। इन्द्रम्। अमुतः। हवामहे। यः। गोऽजित्। धनऽजित्। अश्वऽजित्। यः। इमम्। नः। यज्ञम्। विऽहवे। शृणोतु। अस्माकम्। अभूः। हरिऽअश्व। मेदी। ३.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

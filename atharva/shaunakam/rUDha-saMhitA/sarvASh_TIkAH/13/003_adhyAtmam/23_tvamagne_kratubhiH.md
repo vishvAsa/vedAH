@@ -23,7 +23,6 @@ properly 91 syllables, one short of a full *vikṛti*.
 Thou, Agni, kind with lights and mental powers, hast up in heaven shone as the Sun, enkindled. The Maruts, sons of Prisni, sang his praises what time the Gods gave Rohita his being. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वम्। अग्ने। ऋतुऽभिः। केतुऽभिः। हितः। अर्कः। सम्ऽइध्दः। उत्। अरोचथाः। दिवि। किम्। अभि। आर्चन्। मरुतः। पृश्निऽमातरः। यत्। रोहितम‌्। अजनयन्त। देवाः। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२३।

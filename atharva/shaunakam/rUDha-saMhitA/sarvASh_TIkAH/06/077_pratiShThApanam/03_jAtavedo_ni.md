@@ -23,10 +23,9 @@ kṛdhi*. *Santi* would be a better reading in **b**.
 O Jatavedas turn them back: a hundred homeward ways be thine! Thou hast a thousand avenues: by these restore our kine to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जातऽवेद:। नि। वर्तय। शतम्। ते। सन्तु। आऽवृत:। सहस्रम्। ते। उपऽआवृत:। ताभि:। न:। पुन:। आ। कृधि। ७७.३।
+जातऽवेदः। नि। वर्तय। शतम्। ते। सन्तु। आऽवृतः। सहस्रम्। ते। उपऽआवृतः। ताभिः। नः। पुनः। आ। कृधि। ७७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

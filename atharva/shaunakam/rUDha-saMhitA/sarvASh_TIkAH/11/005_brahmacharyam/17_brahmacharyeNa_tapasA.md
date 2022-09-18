@@ -18,7 +18,6 @@ Ppp. reads *rakṣate* in **b**, and *ichati* in **d**.
 By Fervour and by self-restraint the King protects the realm he rules. By self-restraint the Master seeks a Brahmachari to instruct.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचर्येण। तपसा। राजा। राष्ट्रम्। वि। रक्षति। आऽचार्यः। ब्रह्मऽचर्येण। ब्रह्मऽचारिणम्। इच्छते। ७.१७।

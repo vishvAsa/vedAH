@@ -23,10 +23,9 @@ Pāda **c** has a redundant syllable.
 As I am now Death's Brahmachari claiming out of the living world a man for Yama, So with Austerity and Prayer and Fervour I bind this Girdle round the man before me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मृत्यो:। अहम्। ब्रह्मऽचारी। यत्। अस्मि। नि:ऽयाचन्। भूतात्। पुरुषम्। यमाय। तम्। अहम्। ब्रह्मणा। तपसा। श्रमेण। अनया। एनम्। मेखलया। सिनामि। १३३.३।
+मृत्योः। अहम्। ब्रह्मऽचारी। यत्। अस्मि। निःऽयाचन्। भूतात्। पुरुषम्। यमाय। तम्। अहम्। ब्रह्मणा। तपसा। श्रमेण। अनया। एनम्। मेखलया। सिनामि। १३३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ as an example under Prāt. iii. 38, which teaches the combination.
 Thou who wast born on mountains, thou most mighty of all plants that grow. Thou Banisher of Fever, come, Kushtha! make Fever pass away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। गिरिषु। अजायथा:। वीरुधाम्। बलवत्ऽतम:। कुष्ठ। आ। इहि। तक्मऽनाशन। तक्मानम्। नाशयन्। इत:। ४.१।
+यः। गिरिषु। अजायथाः। वीरुधाम्। बलवत्ऽतमः। कुष्ठ। आ। इहि। तक्मऽनाशन। तक्मानम्। नाशयन्। इतः। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

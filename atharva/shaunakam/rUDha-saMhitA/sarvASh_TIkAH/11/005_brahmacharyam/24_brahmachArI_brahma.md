@@ -24,7 +24,6 @@ therefore, 24 **a, b**, 26 **c, d**, 23, 24 **c, d**.⌋ The GB. cites
 The Brahmachari wields the radiant Brahma wherein all Gods are woven close together; Creating breath, inhaling and exhaling, voice, mind, and heart, Brahma and holy wisdom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मऽचारी। ब्रह्म। भ्राजत्। बिभर्ति। तस्मिन्। देवाः। अधि। विश्वे। सम्ऽओताः। प्राणापानौ। जनयन्। आत्। विऽआनम्। वाचम्। मनः। हृदयम्। ब्रह्म। मेधाम्। ७.२४।

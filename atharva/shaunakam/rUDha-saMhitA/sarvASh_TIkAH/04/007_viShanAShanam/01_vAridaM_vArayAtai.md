@@ -25,10 +25,9 @@ different pun: *varuṇād ābhṛtam;* and for **d** it reads *tac cakārā
 So may this water guard us on the bank of Varanavati. Therein hath Amrit been infused: with that I ward thy poison off.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वा:। इदम्। वारयातै। वरणऽवत्याम्। अधि। तत्र। अमृतस्य। आऽसिक्तम्। तेन। ते। वारये। विषम्। ७.१।
+वाः। इदम्। वारयातै। वरणऽवत्याम्। अधि। तत्र। अमृतस्य। आऽसिक्तम्। तेन। ते। वारये। विषम्। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

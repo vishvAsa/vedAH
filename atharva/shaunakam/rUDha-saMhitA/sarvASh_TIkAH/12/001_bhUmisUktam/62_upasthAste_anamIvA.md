@@ -23,7 +23,6 @@ is a perfectly regular *triṣṭubh*.
 Let thy breasts, frec from sickness and Consumption, be. Prithivi, produced for our advantage. Through long-extended life wakeful and watching still may we be thy tributary servants.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उपऽस्थाः। ते। अनमीवाः। अयक्ष्माः। अस्मभ्यम्। सन्तु। पृथिवि। प्रऽसूताः। दीर्घम्। नः। आयुः। प्रतिऽबुध्यमानाः। वयम्। तुभ्यम्। बलिऽहृतः। स्याम। १.६२।

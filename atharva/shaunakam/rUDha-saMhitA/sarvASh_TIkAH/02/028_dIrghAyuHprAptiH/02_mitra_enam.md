@@ -27,10 +27,9 @@ of **d** *-māni vakti.*
 Mitra or Varuna the foe-destroyer, accordant, grant him death in course of nature! Thus Agni, Hotar-priest, skilled in high statutes, declareth all the deities' generations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मित्र:। एनम्। वरुण:। वा। रिशादा:। जराऽमृत्युम्। कृणुताम्। सम्ऽविदानौ। तत्। अग्नि:। होता। वयुनानि। विद्वान्। विश्वा। देवानाम्। जनिमा। विवक्ति। २८.२।
+मित्रः। एनम्। वरुणः। वा। रिशादाः। जराऽमृत्युम्। कृणुताम्। सम्ऽविदानौ। तत्। अग्निः। होता। वयुनानि। विद्वान्। विश्वा। देवानाम्। जनिमा। विवक्ति। २८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ stutaśastrādilakṣaṇaḥ*.
 Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in battle, On whom the hymn depends, in whom is power, May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। जुष्टिम्। सोमिन:। कामयन्ते। यम्। हवन्ते। इषुऽमन्तम्। गोऽइष्टौ। यस्मिन्। अर्क:। शिश्रिये। यस्मिन्। ओज:। स:। न:। मुञ्चतु। अंहस:। २४.५।
+यस्य। जुष्टिम्। सोमिनः। कामयन्ते। यम्। हवन्ते। इषुऽमन्तम्। गोऽइष्टौ। यस्मिन्। अर्कः। शिश्रिये। यस्मिन्। ओजः। सः। नः। मुञ्चतु। अंहसः। २४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,10 +20,9 @@ ungrammatically, *ayam* with *vacas.* ⌊Cf. also MP. i. 16. 5.⌋
 Yon Sun hath mounted up on high, and this my word hath mounted up That I may smite my foes and be slayer of rivals, rivalless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। असौ। सूर्य:। अगात्। उत्। इदम्। मामकम्। वच:। यथा। अहम्। शत्रुऽह:। असानि। असपत्न:। सपत्नऽहा। १.२९.५।
+उत्। असौ। सूर्यः। अगात्। उत्। इदम्। मामकम्। वचः। यथा। अहम्। शत्रुऽहः। असानि। असपत्नः। सपत्नऽहा। १.२९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१७ कृषिः"
 17. For successful agriculture.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कृषिः।  
@@ -19,8 +18,6 @@ title = "०१७ कृषिः"
 [Viśvāmitra.—navarcam. sītādevatyam. ānuṣṭubham: 1. ārṣī gāyatrī; 2, 5, 9. triṣṭubh; 3. pathyāpan̄kti; 7. virāṭpurauṣṇih; 8. nicṛt.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The verse seems to imply a hidden comparison of the poet's work with the plowman
 
 A farmer's song and prayer to speed the plough
 </details>
+

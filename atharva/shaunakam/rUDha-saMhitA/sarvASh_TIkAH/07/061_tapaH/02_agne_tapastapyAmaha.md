@@ -20,10 +20,9 @@ takes it as equivalent to simple *tapya.*
 Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore may we grow wise and full of days.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। तप:। तप्यामहे। उप। तप्यामहे। तप:। श्रुतानि। शृण्वन्त:। वयम्। आयुष्मन्त:। सुऽमेधस:। ६३.२।
+अग्ने। तपः। तप्यामहे। उप। तप्यामहे। तपः। श्रुतानि। शृण्वन्तः। वयम्। आयुष्मन्तः। सुऽमेधसः। ६३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

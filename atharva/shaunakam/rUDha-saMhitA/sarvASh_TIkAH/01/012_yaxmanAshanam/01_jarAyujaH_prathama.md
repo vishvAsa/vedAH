@@ -38,10 +38,9 @@ vi. 59 b, *vā́ta-dhrajās* is suggested—by R.?⌋
 Born from the womb, brought forth from wind and from the cloud, the first red bull comes onward thundering with the rain. Our bodies may he spare who, cleaving, goes straight on; he who, a single force, divides himself in three.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जरायुऽज:। प्रथम:। उस्रिय:। वृषा। वातऽभ्रजा:। स्तनयन्। एति। वृष्ट्या। स:। न:। मृडाति। तन्वे। ऋजुऽग:। रुजन्। य:। एकम्। ओज:। त्रेधा। विऽचक्रमे।
+जरायुऽजः। प्रथमः। उस्रियः। वृषा। वातऽभ्रजाः। स्तनयन्। एति। वृष्ट्या। सः। नः। मृडाति। तन्वे। ऋजुऽगः। रुजन्। यः। एकम्। ओजः। त्रेधा। विऽचक्रमे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

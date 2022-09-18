@@ -22,10 +22,9 @@ redundant syllable in **a** is ignored by the Anukr.
 Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us therefrom, O all ye Gods, of one accord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। विद्वांस:। यत्। अविद्वांस:। एनांसि। चकृम। वयम्। यूयम्। न:। तस्मात्। मुञ्चत। विश्वे। देवा:। सऽजोषस:। ११५.१।
+यत्। विद्वांसः। यत्। अविद्वांसः। एनांसि। चकृम। वयम्। यूयम्। नः। तस्मात्। मुञ्चत। विश्वे। देवाः। सऽजोषसः। ११५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

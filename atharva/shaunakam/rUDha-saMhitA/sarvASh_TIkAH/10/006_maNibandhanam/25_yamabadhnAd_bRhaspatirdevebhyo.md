@@ -17,7 +17,6 @@ together with sweet drink—the amulet.
 The Amulet, etc. That Amulet here hath come to me with streams of butter and of mead, with sweet delicious beverage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। मधोः। घृतस्‍य। धारया। कीलालेन। मणिः। सह। ६.२५।

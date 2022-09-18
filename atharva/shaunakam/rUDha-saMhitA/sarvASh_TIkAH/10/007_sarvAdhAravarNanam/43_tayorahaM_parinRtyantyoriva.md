@@ -26,7 +26,6 @@ cadence?⌋.
 Of these two, dancing round as 'twere, I cannot distinguish whether ranks before the other. A Male in weaves this web, a Male divides it: a Male hath stretched it to the cope of heaven
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तयोः। अहम्। परिनृत्यन्त्योःऽइव। न। वि। जानामि। यतरा। परस्तात्। पुमान्। एनत्। वयति। उत्। गृणत्ति। पुमान्। एनत्। वि। जभार। अधि। नाके। ७.४३।

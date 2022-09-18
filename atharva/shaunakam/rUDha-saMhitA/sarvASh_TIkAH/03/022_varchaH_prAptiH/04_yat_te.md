@@ -27,10 +27,9 @@ b** + 3 **d, e**⌋ before our vs. 3; and then it gives the remainder
 The lofty strength which sacrifice brings, Jatavedas! unto thee, What strength the Sun possesses, all strength of the royal Ele- phant--such strength vouchsafe to me the pair of Asvins lotus-garlanded!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। वर्च:। जातऽवेद:। बृहत्। भवति। आऽहुते:। यावत्। सूर्यस्य। वर्च:। आसुरस्य। च। ‍ हस्तिन:। तावत्। मे। अश्विना। वर्च:। आ। धत्ताम्। पुष्करऽस्रजा। २२.४।
+यत्। ते। वर्चः। जातऽवेदः। बृहत्। भवति। आऽहुतेः। यावत्। सूर्यस्य। वर्चः। आसुरस्य। च। ‍ हस्तिनः। तावत्। मे। अश्विना। वर्चः। आ। धत्ताम्। पुष्करऽस्रजा। २२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

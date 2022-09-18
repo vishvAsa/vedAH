@@ -24,7 +24,6 @@ and especially the note to XV. 5. 7.⌋
 Bhaga hath formed the four legs of the litter, wrought the four pieces that compose the frame-work. Tvashtar hath decked the straps that go across it, May it be blest, and bring us happy fortune.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भगः। ततक्ष। चतुरः। पादान्। भगः। ततक्ष। चत्वार‍ि। उष्पलानि। त्वष्टा। पिपेश। मध्यतः। अनु। वर्ध्रान्। सा। नः। अस्तु। सुऽमङ्गली। १.६०।

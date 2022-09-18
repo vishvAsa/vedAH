@@ -34,10 +34,9 @@ all our *saṁhitā*-mss. have the latter; both editions give the former).
 Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, Agni! May the strange she-fiend armed with teeth attack them: O Agni, theirs be neither home nor children!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। तायत्। दिप्सति। य:। न:। आवि:। स्व:। विद्वान्। अरण:। वा। न:। अग्ने। प्रतीची। एतु। अरणी। दत्वती। तान्। मा। एषाम्। अग्ने। वास्तु। भूत्। मो इति। अपत्यम्। ११३.१।
+यः। नः। तायत्। दिप्सति। यः। नः। आविः। स्वः। विद्वान्। अरणः। वा। नः। अग्ने। प्रतीची। एतु। अरणी। दत्वती। तान्। मा। एषाम्। अग्ने। वास्तु। भूत्। मो इति। अपत्यम्। ११३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

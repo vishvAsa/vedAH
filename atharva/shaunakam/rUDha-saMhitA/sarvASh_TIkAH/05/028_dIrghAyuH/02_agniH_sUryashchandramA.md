@@ -21,10 +21,9 @@ make the harsh and unusual resolution of the first *ā* of *ārtavās*.
 May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the Points between them, And Parts of Years accordant with the Seasons by this three- threaded Amulet preserve me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। सूर्य:। चन्द्रमा:। भूमि:। आप:। द्यौ:। अन्तरिक्षम्। प्रऽदिश:। दिश:। च। आर्तवा:। ऋतुऽभि:। सम्ऽविदाना:। अनेन। मा। त्रिऽवृता। पारयन्तु। २८.२।
+अग्निः। सूर्यः। चन्द्रमाः। भूमिः। आपः। द्यौः। अन्तरिक्षम्। प्रऽदिशः। दिशः। च। आर्तवाः। ऋतुऽभिः। सम्ऽविदानाः। अनेन। मा। त्रिऽवृता। पारयन्तु। २८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

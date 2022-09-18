@@ -21,10 +21,9 @@ mutilates *tamas* in **c** to *tam*. The comm. reads *purastāt* in
 Forbear to tread this path, for it is awful: that path I speak of which thou hast not travelled. Enter it not, O man; this way is darkness: forward is danger, hitherward is safety.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। एतम्। पन्थाम्। अनु। गा:। भीम:। एष:। येन। पूर्वम्। न। इयथ। तम्। ब्रवीमि। तम:। एतत्। पुरुष। मा। प्र। पत्था:। भयम्। परस्तात्। अभयम्। ते। अर्वाक्। १.१०।
+मा। एतम्। पन्थाम्। अनु। गाः। भीमः। एषः। येन। पूर्वम्। न। इयथ। तम्। ब्रवीमि। तमः। एतत्। पुरुष। मा। प्र। पत्थाः। भयम्। परस्तात्। अभयम्। ते। अर्वाक्। १.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

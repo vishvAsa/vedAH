@@ -22,7 +22,6 @@ vs. 15. Cf. my note to vi. 74. 2.⌋
 The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet the Deities assumed and wore. This yieldeth them the universe, again, again, from morn to morn. With this subdue thine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। इमम्। देवताः। मणिम्। प्रति। अमुञ्चन्त। शम्ऽभुवम्। सः। आभ्यः। विश्वम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१७।

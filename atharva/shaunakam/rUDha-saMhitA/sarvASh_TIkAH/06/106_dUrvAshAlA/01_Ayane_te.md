@@ -24,10 +24,9 @@ as having *puṣpíṇīḥ* (O.s.m.). The comm. says: *anenā ’gnikṛtabādh
 Let flowery Durva grass grow up about thine exit and approach. There let a spring of water rise, or lake with blooming lotuses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽअयने। ते। पराऽअयने। दूर्वा:। रोहन्तु। पुष्पिणी:। उत्स:। वा। तत्र। जायताम्। ह्रद:। वा। पुण्डरीकऽवान्। १०६.१।
+आऽअयने। ते। पराऽअयने। दूर्वाः। रोहन्तु। पुष्पिणीः। उत्सः। वा। तत्र। जायताम्। ह्रदः। वा। पुण्डरीकऽवान्। १०६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

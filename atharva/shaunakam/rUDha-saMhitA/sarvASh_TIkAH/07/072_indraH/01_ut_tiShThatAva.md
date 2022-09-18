@@ -24,7 +24,6 @@ addressed are the priests (*he ṛtvijaḥ*).
 Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured libation dressed or took delight in it un- cooked.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठत। अव। पश्यत। इन्द्रस्य। भागम्। ऋत्वियम्। यदि। श्रातम्। जुहोतन। यदि। अश्रातम्। ममत्तन। ७५.१।

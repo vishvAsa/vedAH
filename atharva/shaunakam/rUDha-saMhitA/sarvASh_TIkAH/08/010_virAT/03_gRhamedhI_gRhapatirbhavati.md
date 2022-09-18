@@ -29,10 +29,9 @@ paragraph.
 She mounted up, the Eastward fire she entered. He who knows this becomes the Gods' beloved, and to his call they come when she invokes them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गृहऽमेधी। गृहऽपति:। भवति। य:। एवम्। वेद। १०.३।
+गृहऽमेधी। गृहऽपतिः। भवति। यः। एवम्। वेद। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

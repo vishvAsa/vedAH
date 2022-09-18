@@ -27,7 +27,6 @@ order the succession of the acts as given in Kāuś.
 Let her who shall be blest with sons, the maid who finds a. husband, step Upon the rough grass that ye spread and on the skin ye lay beneath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। बल्बजम्। निऽअस्यथ। चर्म। च। उपऽस्तृणीथन। तत्। आ। रोहतु। सुऽप्रजाः। या। कन्या। विन्दते। पतिम्। २.२२।

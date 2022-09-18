@@ -24,10 +24,9 @@ who has given oblations") for *dātave*, also *nodaya* for *codaya*.
 Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite thou us, O God, to give, and send us riches to bestow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। न:। अग्ने। अग्निऽभि:। ब्रह्म। यज्ञम्। च। वर्धय। त्वम्। न:। देव। दातवे। रयिम्। दानाय। चोदय। २०.५।
+त्वम्। नः। अग्ने। अग्निऽभिः। ब्रह्म। यज्ञम्। च। वर्धय। त्वम्। नः। देव। दातवे। रयिम्। दानाय। चोदय। २०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

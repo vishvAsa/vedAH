@@ -31,10 +31,9 @@ his version he has quite overlooked the verb-accent.⌋
 This Child, Old Age! shall grow to meet thee only: none of the hundred other deaths shall harm him. From trouble caused by friends let Mitra guard him, as a kind mother guards the son she nurses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तुभ्यम्। एव। जरिमन्। वर्धताम्। अयम्। मा। इमम्। अन्ये। मृत्यव:। हिंसिषु:। शतम्। ये। माताऽइव। पुत्रम्। प्रऽमना:। उपऽस्थे। मित्र:। एनम्। मित्रियात्। पातु। अंहस:। २८.१।
+तुभ्यम्। एव। जरिमन्। वर्धताम्। अयम्। मा। इमम्। अन्ये। मृत्यवः। हिंसिषुः। शतम्। ये। माताऽइव। पुत्रम्। प्रऽमनाः। उपऽस्थे। मित्रः। एनम्। मित्रियात्। पातु। अंहसः। २८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

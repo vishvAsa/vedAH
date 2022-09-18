@@ -7,7 +7,6 @@ title = "०१३ विद्युत्"
 13. Deterrent homage to lightning.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विद्युत्।  
@@ -18,8 +17,6 @@ title = "०१३ विद्युत्"
 
 [Bhṛgvan̄giras.—vāidyutam. ānuṣṭubham: 3. 4-p. virāḍ jagatī; 4. triṣṭupparā bṛhatīgarbhā pan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 406; Griffith, i. 16.
 
 A prayer to Lightning, for happiness
 </details>
+

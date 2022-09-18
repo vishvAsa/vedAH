@@ -26,7 +26,6 @@ Anukr. does not heed the deficiency in our verse.
 He gave her not to us, so spake the Gods, in anger, of the Cow. With these same verses they addressed Bheda: this brought him to his death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवाः। वशाम्। परि। अवदन्। न। नः। अदात्। इति। हीडिताः। एताभिः। ऋक्ऽभिः। भेदम्। तस्मात्। वै। सः। परा। अभवत्। ४.४९।

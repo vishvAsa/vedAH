@@ -18,7 +18,6 @@ paśūnāṁ bhavati ya evaṁ veda*.
 The rain-cloud is her fat, her resting-place her marrow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभ्रम्। पीबः। मज्जा। निऽधनम्। १२.१८।

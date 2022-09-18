@@ -26,7 +26,6 @@ immortality, and *-bhojana* as either *aniṣṭanivartanena pālaka* or
 Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest, too, of Amrit, thou art the delight of all who live, a jaundice-curing balm art thou.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत। असि। परिऽपानम्। यातुऽजम्भनम्। आऽअञ्जन। उत। अमृतस्य। त्वम्। वेत्थ। अथो इति। असि। जीवऽभोजनम्। अथो इति। हरितऽभेषजम्। ९.३।

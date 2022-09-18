@@ -19,10 +19,9 @@ of that hymn) reads in **a** *harāmi*, and in **c** *abhi* (for *upa*).
 Water that kills Consumption, free from all Consumption, here I bring. With Agni, the immortal one, I enter and possess the house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा:। आप:। प्र। भरामि। अयक्ष्मा:। यक्ष्मऽनाशनी:। गृहान्। उप। प्र। सीदामि। अमृतेन। सह। अग्निना। ३.२३।
+इमाः। आपः। प्र। भरामि। अयक्ष्माः। यक्ष्मऽनाशनीः। गृहान्। उप। प्र। सीदामि। अमृतेन। सह। अग्निना। ३.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

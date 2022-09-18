@@ -26,10 +26,9 @@ defective by a syllable.
 First, O Arundhati, protect our oxen and milky kine: Protect each one that is infirm, each quadruped that yields no milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनडुत्ऽभ्य:। त्वम्। प्रथमम्। धेनुऽभ्य:। त्वम्। अरुन्धति। अधेनवे। वयसे। शर्म। यच्छ। चतु:ऽपदे। ५९.१।
+अनडुत्ऽभ्यः। त्वम्। प्रथमम्। धेनुऽभ्यः। त्वम्। अरुन्धति। अधेनवे। वयसे। शर्म। यच्छ। चतुःऽपदे। ५९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,7 +27,6 @@ setting down of the rice-dish westward from the fire.
 In sixty autumns may the Treasure-Guardian seek to gain heavenly light by cooked oblation. On this may sons and fathers live dependent. Send thou this mess to Fire that leads to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 षष्ट्याम्। शरत्ऽसु। निधिऽपाः। अभि। इच्छात्। स्वः। पक्वेन। अभि। अश्नवातै। उप। एनम्। जीवान्। पितरः। च। पुत्राः। एतम्। स्वःऽगम्। गमय। अन्तम्। अग्नेः। ३.३४।

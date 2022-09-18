@@ -25,7 +25,6 @@ nuptial bed (vs. 23 immediately follows: see above).
 Rise, mount the bridal bed with cheerful spirit. Here bring forth children to this man thy husband. Watchful and understanding like Indrani wake thou before the earliest light of Morning.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। रोह। तल्पम्। सुऽमनस्यमाना। इह। प्रऽजाम्। जनय। पत्ये। अस्मै। इन्द्राणीऽइव। सुऽबुधा। बुध्यमाना। ज्योतिःऽअग्राः। उषसः। प्रति। जागरासि। २.३१।

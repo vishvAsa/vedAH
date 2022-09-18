@@ -21,10 +21,9 @@ identical with iii. 19, 2 **c, d**, above.
 The shaft for handless fiends which, Gods! ye cast against the handless ones, With this, in shape of sacrifice, I rend the arms of enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:ऽहस्तेभ्य:। नै:ऽहस्तम्। यम्। देवा:। शरुम्। अस्यथ। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। ६५.२।
+निःऽहस्तेभ्यः। नैःऽहस्तम्। यम्। देवाः। शरुम्। अस्यथ। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। ६५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

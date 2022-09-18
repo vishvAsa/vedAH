@@ -20,10 +20,9 @@ she by her own nature knew the supreme *brahman*.
 I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. I hold aloft both Varuna and Mitra, I hold aloft Indra and both the Asvins.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। रुद्रेभि:। वसुऽभि:। चरामि। अहम्। आदित्यै:। उत। विश्वऽदेवै:। अहम्। मित्रावरुणा। उभा। बिभर्मि। अहम्। इन्द्राग्नी इति। अहम्। अश्विना। उभा। ३०.१।
+अहम्। रुद्रेभिः। वसुऽभिः। चरामि। अहम्। आदित्यैः। उत। विश्वऽदेवैः। अहम्। मित्रावरुणा। उभा। बिभर्मि। अहम्। इन्द्राग्नी इति। अहम्। अश्विना। उभा। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

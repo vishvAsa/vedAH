@@ -23,7 +23,6 @@ whole verse). Ppp. has also in **d** *āyuṣ* for *cakṣuḥ*, and at the end
 Yea, knows that fort of Brahma girt about with immortality, Brahma and Brahmas have bestowed sight, progeny, and life on him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। वै। ताम्। ब्रह्मणः। वेद। अमृतेन। आऽवृताम्। पुरम्। तस्मै। ब्रह्म। च। ब्राह्माः। च। चक्षुः। प्राणम्। प्रऽजाम्। ददुः। २.२९।

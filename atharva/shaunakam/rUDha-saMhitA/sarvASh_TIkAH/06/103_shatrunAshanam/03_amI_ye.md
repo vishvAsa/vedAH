@@ -19,10 +19,9 @@ The comm. glosses *anīkaśas* with *saṁghaśas*.
 Those yonder who approach to fight, with banners raised along their ranks, Indra hath girded these with cord: bind them together, Agni, thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमी इति। ये। युधम्। आऽयन्ति। केतून्। कृत्वा। अनीकऽश:। इन्द्र:। तान्। परि। अहा:। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.३।
+अमी इति। ये। युधम्। आऽयन्ति। केतून्। कृत्वा। अनीकऽशः। इन्द्रः। तान्। परि। अहाः। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

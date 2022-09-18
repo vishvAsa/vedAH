@@ -19,7 +19,6 @@ Ppp. reads *yajñam* instead of *sūryam* in **b**. All the mss. have
 The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together with the prayer the mess of rice hath passed into the Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशा। यज्ञम्। प्रति। अगृह्णात्। वशा। सूर्यम्। अधारयत्। वशायाम्। अन्तः। अविशत्। ओदनः। ब्रह्मणा। सह। १०.२५।

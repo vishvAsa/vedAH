@@ -36,10 +36,9 @@ from the Nakṣatra Kalpa (18), as used in a *mahāśānti* called
 No one but thou, Prajapati, none beside thee, pervading, gave to all these forms their being. Grant us our hearts' desire when we invoke thee: may we have store of riches in possession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽपते। न। त्वत्। एतानि। अन्य:। विश्वा। रूपाणि। परिऽभू:। जजान। यत्ऽकामा:। ते। जुहुम:। तत्। न:। अस्तु। वयम्। स्याम। पतय:। रयीणाम्। ८५.३।
+प्रजाऽपते। न। त्वत्। एतानि। अन्यः। विश्वा। रूपाणि। परिऽभूः। जजान। यत्ऽकामाः। ते। जुहुमः। तत्। नः। अस्तु। वयम्। स्याम। पतयः। रयीणाम्। ८५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ combination *ādityo 'ta* in **c**.
 May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in riches. May the Adityas and the Vive Devas set and support him in supremest lustre.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मिन्। वसु। वसव:। धारयन्तु। इन्द्र:। पूषा। वरुण:। मित्र:। अग्नि:। इमम् ‍। आदित्या:। उत। विश्वे। च। देवा:। उत्ऽतरस्मिन्। ज्योतिषि। धारयन्तु।
+अस्मिन्। वसु। वसवः। धारयन्तु। इन्द्रः। पूषा। वरुणः। मित्रः। अग्निः। इमम् ‍। आदित्याः। उत। विश्वे। च। देवाः। उत्ऽतरस्मिन्। ज्योतिषि। धारयन्तु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

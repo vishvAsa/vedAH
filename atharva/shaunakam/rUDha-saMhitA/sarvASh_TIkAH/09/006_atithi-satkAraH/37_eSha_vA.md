@@ -20,10 +20,9 @@ syllable (unless we read *ná aśnīyāt*) of being full measure.
 The man should not eat before the guest who is a Brahman versed in holy lore.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एष:। वै। अतिथि:। यत्। श्रोत्रिय:। तस्मात्। पूर्व:। न। अश्नीयात्। ८.७।
+एषः। वै। अतिथिः। यत्। श्रोत्रियः। तस्मात्। पूर्वः। न। अश्नीयात्। ८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

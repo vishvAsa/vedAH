@@ -29,10 +29,9 @@ combination of *vṛ* 'choose' with *prati* is strange and obscure.
 Let thine opponents call thee back. Thy friends have chosen, thee again. Indra and Agni, all the Gods have kept thy home amid the tribe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ह्वयन्तु। त्वा। प्रतिऽजना:। प्रति। मित्रा:। अवृषत। इन्द्राग्नी इति। विश्वे। देवा:। ते। विशि। क्षेमम्। अदीधरन्। ३.५।
+ह्वयन्तु। त्वा। प्रतिऽजनाः। प्रति। मित्राः। अवृषत। इन्द्राग्नी इति। विश्वे। देवाः। ते। विशि। क्षेमम्। अदीधरन्। ३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,10 +18,9 @@ Ppp. puts **b** before **a**.
 Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To me, O Heaven and Earth, be ye auspicious, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये इति। अमृतम्। बिभृथ:। ये इति। हवीषि। ये इति। स्रोत्या:। बिभृथ:। ये इति। मनुष्यान्। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। न:। मुञ्चतम्। अंहस:। २६.४।
+ये इति। अमृतम्। बिभृथः। ये इति। हवीषि। ये इति। स्रोत्याः। बिभृथः। ये इति। मनुष्यान्। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

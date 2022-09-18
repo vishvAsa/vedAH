@@ -21,10 +21,9 @@ sūriḥ;* and, for **d**, *ariṣṭā vīrā yajamānāś ca sarve*.
 I bring thee hither as a share for Indra; prince, at this sacrifice,. for him who worships. Grasp firmly from behind all those who hate us: so let the sacri- ficer's men be sinless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्राय। भागम्। परि। त्वा। नयामि। अस्मिन्। यज्ञे। यजमानाय। सूरिम्। ये। न:। द्विषन्ति। अनु। तान्। रभस्व। अनागस:। यजमानस्य। वीरा:। ५.२।
+इन्द्राय। भागम्। परि। त्वा। नयामि। अस्मिन्। यज्ञे। यजमानाय। सूरिम्। ये। नः। द्विषन्ति। अनु। तान्। रभस्व। अनागसः। यजमानस्य। वीराः। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

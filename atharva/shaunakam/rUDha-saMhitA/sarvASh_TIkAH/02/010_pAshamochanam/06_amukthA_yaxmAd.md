@@ -24,10 +24,9 @@ nindanāt.* ⌊TB., in comm. to Calc. ed., and in Poona ed., has
 Thou hast been freed from Phthisis and from trouble, from shame, and from the snare of Druh and Grain. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमुक्था:। यक्ष्मात्। दु:ऽइतात्। अवद्यात्। द्रुह:। पाशात्। ग्राह्या:। च। उत्। अमुक्था:। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.६।
+अमुक्थाः। यक्ष्मात्। दुःऽइतात्। अवद्यात्। द्रुहः। पाशात्। ग्राह्याः। च। उत्। अमुक्थाः। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

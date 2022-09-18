@@ -7,7 +7,6 @@ title = "०३१ शत्रुनाशनम्"
 31 (32). To Indra: for aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३१ शत्रुनाशनम्"
 
 [Bhṛgvan̄giras.—āindram. bkuriktriṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 12, 66; Griffith, i. 342.
 
 A prayer for the overthrow of enemies
 </details>
+

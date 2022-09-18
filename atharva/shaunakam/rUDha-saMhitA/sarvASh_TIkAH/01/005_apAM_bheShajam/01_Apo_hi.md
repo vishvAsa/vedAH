@@ -17,10 +17,9 @@ unto sight of great joy.
 Ye, Waters, truly bring us bliss: so help ye us to strength and power That we may look on great delight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। हि। स्थ। मय:ऽभुव:। ता:। न:। ऊर्जे। दधातन। महे। रणाय। चक्षसे।
+आपः। हि। स्थ। मयःऽभुवः। ताः। नः। ऊर्जे। दधातन। महे। रणाय। चक्षसे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

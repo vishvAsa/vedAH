@@ -20,7 +20,6 @@ bhejire*.
 The three-and-thirty Gods within his body were disposed as limbs: Some, deeply versed in Holy Lore, some know those three-and- thirty Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। त्रयःऽत्रिंशत्। देवाः। अङ्गे। गात्रा। विऽभेजिरे। तान्। वै। त्रयःऽत्रिंशत्। देवान्। एके। ब्रह्मऽविदः। विदुः। ७.२७।

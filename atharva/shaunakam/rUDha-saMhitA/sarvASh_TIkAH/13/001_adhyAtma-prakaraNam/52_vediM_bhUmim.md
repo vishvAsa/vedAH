@@ -18,7 +18,6 @@ made all that has soul, with rain as sacrificial butter.
 Rohita made the earth to be his altar, heaven his Dakshina. Then heat he took for Agni, and with rain for molten butter he created every living thing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वेदिम्। भूमिम्। कल्पयित्वा। दिवम्‌। कृत्वा। दक्षिणाम्। घ्रंसम्। तत्। अग्निम्। कृत्वा। चकार। विश्वम्। आत्मन्ऽवत्। वर्षेण। आज्येन। रोहितः। १.५२।

@@ -25,7 +25,6 @@ cow that is to be exchanged for the soma-plant.
 Rise up to earth, rise up to heaven above it; rise up to opulence, rise up to kingship. Rise up to offspring, rise to life immortal; rise, and with Rohita unite thy body.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिवम्। च। रोह। पृथिवीम्। च। रोह। राष्ट्रम्। च। रोह। द्रविणम्। च। रोह। प्रऽजाम्। च। रोह। अमृतम्। च। रोह। रोहितेन। तन्वम्। सम्। स्पृशस्व। १.३४।

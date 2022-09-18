@@ -22,7 +22,6 @@ points in the construction.
 All Deities had lent their aid: of this a noble Dame took note, Tsa, the Consort of Command. She gave its colour to the form.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वे। देवाः। उप। अशिक्षन्। तत्। अजानात्। वधूः। सती। ईशा। वशस्य। या। जाया। सा। अस्मिन्। वर्णम्। आ। अभरत्। १०.१७।

@@ -7,7 +7,6 @@ title = "००४ अपां भेषजम्"
 4. To the waters: for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपां भेषजम्।  
@@ -18,8 +17,6 @@ title = "००४ अपां भेषजम्"
 
 [Sindhudvīpa.—aponaptrīyāṇi, somābdāivatāni. gāyatrāṇi; 4. purastādbṛhatī]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 396; Griffith, i. 6.
 
 To the waters, for the prosperity of cattle
 </details>
+

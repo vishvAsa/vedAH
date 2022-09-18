@@ -7,7 +7,6 @@ title = "०७३ सांमनस्यम्"
 73. To assure supremacy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -18,8 +17,6 @@ title = "०७३ सांमनस्यम्"
 
 [Atharvan.—sāmmanasyam. mantroktanānādevatyam. trāiṣṭubham: 1, 3. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 284; Bloomfield, 135, 494.
 
 A King's charm to conciliate his discontented kinsmen
 </details>
+

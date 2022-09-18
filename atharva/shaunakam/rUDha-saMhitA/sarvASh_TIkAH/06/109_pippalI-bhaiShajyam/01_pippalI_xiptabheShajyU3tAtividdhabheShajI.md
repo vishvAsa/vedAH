@@ -30,10 +30,9 @@ two alternatives both for *kṣipta-* and for *atividdha-*: for the former
 The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods prepared and fashioned it. This hath sufficient power for life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिप्पली। क्षिप्तऽभेषजी। उत। अतिविध्दऽभेषजी। ताम्। देवा:। सम्। अकल्पयन्। इयम्। जीवितवै। अलम्। १०९.१।
+पिप्पली। क्षिप्तऽभेषजी। उत। अतिविध्दऽभेषजी। ताम्। देवाः। सम्। अकल्पयन्। इयम्। जीवितवै। अलम्। १०९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

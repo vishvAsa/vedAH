@@ -22,7 +22,6 @@ adverbially, like *bāl* in i. 3. Ppp. has a quite different reading for
 Forth from the hollow let it run, and rumbling sounds from thine inside. I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बहिः। ब‍िलम्। निः। द्रवतु। काहाबाहम्। तव। उदरात्। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.११।

@@ -19,10 +19,9 @@ medinā: evā mā* etc.
 That splendour and felicity wherewith thou hast excelled the trees Give me therewith a happy fate. Fly and begone, Malignities
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। वृक्षान्। अभिऽअभव:। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातय:। १२९.२।
+येन। वृक्षान्। अभिऽअभवः। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

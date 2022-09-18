@@ -22,10 +22,9 @@ tu*.⌋
 Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Rakshasas away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। रक्षांसि। सेधति। शुक्रऽशोचि:। अमर्त्य। शुचि:। पावक:। ईड्य:। ३.२६।
+अग्निः। रक्षांसि। सेधति। शुक्रऽशोचिः। अमर्त्य। शुचिः। पावकः। ईड्यः। ३.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

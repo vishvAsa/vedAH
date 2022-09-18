@@ -21,10 +21,9 @@ Though called a *triṣṭubh*, the verse has two *jagatī* pādas.
 Active in duty serves the Brahmachari: he is a member of the Gods' own body. Through him Brihaspati obtained his consort, as the Gods gained the ladle brought by Soma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्रह्मऽचारी। चरति। वेविषत्। विष:। स:। देवानाम्। भवति। एकम्। अङ्गम्। तेन। जायाम्। अनु। अविन्दत्। बृहस्पति:। सोमेन। नीताम्। जुह्वम्। न। देवा:। १७.५।
+ब्रह्मऽचारी। चरति। वेविषत्। विषः। सः। देवानाम्। भवति। एकम्। अङ्गम्। तेन। जायाम्। अनु। अविन्दत्। बृहस्पतिः। सोमेन। नीताम्। जुह्वम्। न। देवाः। १७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

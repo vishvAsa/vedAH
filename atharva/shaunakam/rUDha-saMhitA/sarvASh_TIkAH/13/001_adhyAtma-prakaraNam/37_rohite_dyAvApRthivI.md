@@ -22,7 +22,6 @@ Ppp. reads for **b** *vasujid gojit saṁdhanājiti*, and in **c**
 Rohita, conqueror of cows and riches and gathered spoil, is heaven's and earth's upholder. Over earth's greatness would I tell my kinship with thee who hast a thousand births and seven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहिते। द्यावापृथिवी इति। अधि। श्रिते इति। वसुऽज‍िति। गोऽजिति। संधनऽजिति। सहस्रम्। यस्य। जनिमानि। सप्त। च। वोचेयम्। ते। नाभिम्। भुवनस्य। अधि। मज्मनि। १.३७।

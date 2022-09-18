@@ -21,7 +21,6 @@ cf. viii. 8. 15, above.⌋ ⌊Cf. Kāuś. 73. 5.⌋
 Tall trees, and those who live in woods, the herbs and creeping plants of Earth, Gandharvas, and Apsarases, Snakes, Beings, Fathers, Gods, All these do thou, O Arbudi, make visible to our enemies: cause them to look on mists and fog.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वनस्पतीन्। वानस्पत्यान्। ओषधीः। उत। वीरुधः। गन्धर्वऽअप्सरसः। सर्पान्। देवान्। पुण्यऽजनान्। पितॄन्। सर्वान्। तान्। अर्बुदे। त्वम्। अमित्रेभ्यः। दृशे। कुरु। उत्ऽआरान्। च। प्र। दर्शय। ११.२४।

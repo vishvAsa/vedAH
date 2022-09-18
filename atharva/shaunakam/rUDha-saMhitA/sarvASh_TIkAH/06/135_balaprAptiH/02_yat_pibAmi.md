@@ -19,10 +19,9 @@ saṁpivāmy ahaṁ pivā*.
 I drink together what I drink, even as the sea that swallows all. Drinking the life-breath of that man, we drink that man and swallow him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। पिबामि। सम्। पिबामि। समुद्र:ऽइव। सम्ऽपिब:। प्राणान्। अमुष्य। सम्ऽपाय। सम्। पिबाम:। अमुम्। वयम्। १३५.२।
+यत्। पिबामि। सम्। पिबामि। समुद्रःऽइव। सम्ऽपिबः। प्राणान्। अमुष्य। सम्ऽपाय। सम्। पिबामः। अमुम्। वयम्। १३५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

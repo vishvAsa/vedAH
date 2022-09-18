@@ -21,7 +21,6 @@ Bp.O.D.R.K.Kp.).
 Pleasantness, reverence, peace, and power, strength, vigour, immortality All forward wishes are with love satisfied in the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूनृता। सम्ऽनतिः। क्षेमः। स्वधा। ऊर्जा। अमृतम्। सहः। उत्ऽशिष्टे। सर्वे। प्रत्यञ्चः। कामाः। कामेन। ततृपुः। ९.१३।

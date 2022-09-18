@@ -23,7 +23,6 @@ following verses are used in Kāuś. 71. 12 to accompany the removed fire.
 I drive corpse-eating Agni to a distance: sin-laden let him go to Yamas vassals. Here let this other, Jatavedas, carry oblation to the Deities, fore- knowing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रव्यऽअदम्। अग्निम्। प्र। हिणोमि। दूरम्। यमऽराज्ञः। गच्छतु। रिप्रऽवाहः। इह। अयम्। इतरः। जातऽवेदाः। देवः। देवेभ्यः। हव्यम्। वहतु। प्रऽजानन्। । २.८।

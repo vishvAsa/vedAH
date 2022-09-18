@@ -24,10 +24,9 @@ syllable, unless we resolve *sa-sṛ-u-*.
 Here flow the restless ones, they flow unceasing through the day and night, Most excellently wise I call the Goddess Waters hitherward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सस्रुषी:। तत्। अपस:। दिवा। नक्तम्। च। सस्रुषी:। वरेण्यऽक्रतु। अहम्। अप:। देवी:। उप। ह्वये। २३.१।
+सस्रुषीः। तत्। अपसः। दिवा। नक्तम्। च। सस्रुषीः। वरेण्यऽक्रतु। अहम्। अपः। देवीः। उप। ह्वये। २३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

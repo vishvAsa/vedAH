@@ -25,7 +25,6 @@ time⌋ *bibharti*. ⌊We have the converse variant at xiii. 1. 1.⌋
 This log is earth, the second log is heaven: he fills the air's mid region with the fuel. With fuel, with his zone the Brahmachari contents the worlds, with labour and with Fervour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। सम्ऽइत्। पृथिवी। द्यौः। द्वितीया। उत। अन्तरिक्षम्। सम्ऽइधा। पृणाति। ब्रह्मऽचारी। सम्ऽइधा। मेखलया। श्रमेण। लोकान्। तपसा। पिपर्ति। ७.४।

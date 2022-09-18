@@ -24,7 +24,6 @@ could easily scan **d** as an *anuṣṭubh* pāda, *áśvevānvápate naḍám*
 They sever from the Gods, they live in sin and misery evermore, Those whom from very near at hand Carnivorous Agni casteth down as a horse tramples down the reeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ते। देवेभ्यः। आ। वृश्चन्ते। पापम्। जीवन्ति। सर्वदा। क्रव्यऽअत्। यान्। ‍ अग्निः। अन्तिकात्। अश्वःऽइव। अनुऽवपते। नडम्। २.५०।

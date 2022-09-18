@@ -35,7 +35,6 @@ notes.⌋
 This woman utters wish and prayer, as down she casts the husks of corn: Long live my lord and master! yea, a hundred autumns let him live!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। नारी। उप। ब्रूते। पूल्यानि। आऽवपन्तिका। दीर्घऽआयुः। अस्तु। मे। पतिः। जीवाति। शरदः। शतम्। २.६३।

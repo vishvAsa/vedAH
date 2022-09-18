@@ -20,7 +20,6 @@ Ppp. reads in **b** *yat strīyām mriyate*. 'United' (in **a**), i.e.
 When a dame's husband dies the house is tangled in Grahi's net. A learned Brahman must be sought to drive Carnivorous Agni, forth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ग्राह्याः। गृहाः। सम्। सृज्यन्ते। स्त्रियाः। यत्। म्रियते। पतिः। ब्रह्मा। एव। विद्वान्। एष्यः। यः। क्रव्यऽअदम्। निःऽआदधत्। २.३९।

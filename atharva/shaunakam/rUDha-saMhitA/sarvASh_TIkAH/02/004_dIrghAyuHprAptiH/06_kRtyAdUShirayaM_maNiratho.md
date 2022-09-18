@@ -23,10 +23,9 @@ read *tārṣat.* ⌊For his *sáhasvān*, see note to i. 19. 4.⌋
 This Amulet destroys the might of magic and malignity: So may victorious Jangida prolong the years we have to live.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृत्याऽदूषि:। अयम्। मणि:। अथो इति। अरातिऽदूषि:। अथो इति। सहस्वान्। जङ्गिड:। प्र। न:। आयूंषि। तारिषत्। ४.६।
+कृत्याऽदूषिः। अयम्। मणिः। अथो इति। अरातिऽदूषिः। अथो इति। सहस्वान्। जङ्गिडः। प्र। नः। आयूंषि। तारिषत्। ४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

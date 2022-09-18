@@ -18,7 +18,6 @@ Cf. vs. 19, below; 'for,' apparently 'for the advantage of.'
 He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। प्रऽजाभ्यः। वि। पश्यति। यत्। च। प्राणति। यत्। च। न। ४.११।

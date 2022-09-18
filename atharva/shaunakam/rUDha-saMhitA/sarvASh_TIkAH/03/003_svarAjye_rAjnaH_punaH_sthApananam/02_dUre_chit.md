@@ -31,10 +31,9 @@ elsewhere.
 Though he be far away, let the red horses bring Indra, bring the sage to us and friendship, Since with Sautramani Gods for him o'erpower Gayatri, Brihati, and hymn of praises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दूरे। चित्। सन्तम्। अरुषास:। इन्द्रम्। आ। च्यवयन्तु। सख्याय। विप्रम्। यत्। गायत्रीम्। बृहतीम्। अर्कम्। अस्मै। सौत्रामण्या। दधृषन्त। देवा:। ३.२।
+दूरे। चित्। सन्तम्। अरुषासः। इन्द्रम्। आ। च्यवयन्तु। सख्याय। विप्रम्। यत्। गायत्रीम्। बृहतीम्। अर्कम्। अस्मै। सौत्रामण्या। दधृषन्त। देवाः। ३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

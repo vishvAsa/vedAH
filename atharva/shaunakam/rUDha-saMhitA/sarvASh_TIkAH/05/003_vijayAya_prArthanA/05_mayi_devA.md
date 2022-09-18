@@ -23,10 +23,9 @@ except *hótārā* and *vaniṣanta*. One or two of our mss. (Bp.H.) read
 May the Gods grant me riches, may the blessing and invocation of the Gods assist me. This boon shall the celestial Hotars win us: may we, unwound- ed, have brave heroes round us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मयि। देवा:। द्रविणम्। आ। यजन्ताम्। मयि। आऽशी:। अस्तु। मयि। देवऽहूति:। दैवा:। होतार:। सनिषन्। न:। एतत्। अरिष्टा:। स्याम। तन्वा। सुऽवीरा:। ३.५।
+मयि। देवाः। द्रविणम्। आ। यजन्ताम्। मयि। आऽशीः। अस्तु। मयि। देवऽहूतिः। दैवाः। होतारः। सनिषन्। नः। एतत्। अरिष्टाः। स्याम। तन्वा। सुऽवीराः। ३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

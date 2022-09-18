@@ -20,10 +20,9 @@ with Tripura as the subject of the first half-verse.
 I bend the bow for Rudra that his arrow may strike and slay the hater of devotion. I rouse and order battle for the people, and I have penetrated Earth and Heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। रुद्राय। धनु:। आ। तनोमि। ब्रह्मऽद्विषे। शरवे। हन्तवै। ऊं इति। अहम्। जनाय। सऽमदम्। कृणोमि। अहम्। द्यावापृथिवी इत‍ि। आ। विवेश। ३०.५।
+अहम्। रुद्राय। धनुः। आ। तनोमि। ब्रह्मऽद्विषे। शरवे। हन्तवै। ऊं इति। अहम्। जनाय। सऽमदम्। कृणोमि। अहम्। द्यावापृथिवी इत‍ि। आ। विवेश। ३०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "१०७ संतरणम्"
 107 (112). To relieve a stinging pain.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 संतरणम्।  
@@ -19,8 +18,6 @@ title = "१०७ संतरणम्"
 [Bhṛgu.—sāuryam utā ’bdāivatam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Used by Kāuś. (31. 27) with vi. 105, in a remedial rite aga
 ### Translations
 Translated: Henry, 42, 117; Griffith, i. 379.
 </details>
+

@@ -22,10 +22,9 @@ victory (*jayalakṣaṇa*), and *bhara* as the contest with dice.
 With thee to aid us may we win the treasure: do thou assist our side in every battle. Give us wide room and easy way, O Indra; break down, O Maghavan, the foemen's valour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वयम्। जयेम। त्वया। युजा। वृतम्। अस्माकम्। अंशम्। उत्। अव। भरेऽभरे। अस्मभ्यम्। इन्द्र। वरीय:। सुऽगम्। कृधि। प्र। शत्रूणाम्। मघऽवन्। वृष्ण्या। रुज। ५२.४।
+वयम्। जयेम। त्वया। युजा। वृतम्। अस्माकम्। अंशम्। उत्। अव। भरेऽभरे। अस्मभ्यम्। इन्द्र। वरीयः। सुऽगम्। कृधि। प्र। शत्रूणाम्। मघऽवन्। वृष्ण्या। रुज। ५२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,7 +31,6 @@ address to śalya, MBh. viii. 40. 33 = 1848.⌋
 Powerless are the serpents here, those that are near and those afar. I kill the scorpion with a club, and with a staff the new-come snake.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरसासः। इह। अहयः। ये। अन्ति। ये। च। दूरके। घनेन। हन्मि। वृश्चिकम्। अहिम्। दण्डेन। आऽगतम्। ४.९।

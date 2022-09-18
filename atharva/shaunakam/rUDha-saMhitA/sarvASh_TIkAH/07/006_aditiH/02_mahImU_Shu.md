@@ -12,7 +12,6 @@ title = "०२ महीमू षु"
 ईदृशीं महीं देवीमवसे रक्षणाय तस्यास्तर्पणाय वा हुवेम सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । उ इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
 </details>
 
-
 <details><summary>Whitney</summary>
 
 ### Translation
@@ -36,7 +35,6 @@ The powerful, the unageing, the wide
 Aditi, who giveth good protection and good guidance.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 id
@@ -44,7 +42,6 @@ id
 7.6.2    We call for help the Queen of Law and Order, g...
 Name: Comment, dtype: object
 </details>
-
 
 <details open><summary>पदपाठः</summary>
 

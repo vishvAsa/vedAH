@@ -24,10 +24,9 @@ is a *triṣṭubh* with one *jagatī*-pāda (like 11). ⌊W. usually renders
 To be avoided by his friends, detested, repelled, with few men round him, let him wander. Yea, on the earth descend the lightning-flashes: may the strong God destroy your adversaries.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असर्वऽवीर:। चरतु। प्रऽनुत्त:। द्वेष्य:। मित्राणाम्। परिऽवर्ग्य:। स्वानाम्। उत। पृथिव्याम्। अव। यन्ति। विऽद्युत:। उग्र:। व:। देव:। प्र। मृणत्। सऽपत्नान्। २.१४।
+असर्वऽवीरः। चरतु। प्रऽनुत्तः। द्वेष्यः। मित्राणाम्। परिऽवर्ग्यः। स्वानाम्। उत। पृथिव्याम्। अव। यन्ति। विऽद्युतः। उग्रः। वः। देवः। प्र। मृणत्। सऽपत्नान्। २.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

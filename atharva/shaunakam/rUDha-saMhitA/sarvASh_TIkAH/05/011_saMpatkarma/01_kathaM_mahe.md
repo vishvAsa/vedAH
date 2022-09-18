@@ -31,10 +31,9 @@ acceptable. Ppp. begins *kathā diva asurāya bravāmaḥ kathā*, and reads
 How, terrible in might, hast thou here spoken to the great God, how to the gold-hued Father! Thy mind watched, greedy Varuna! to recover the brindled cow thou hadst bestowed as guerdon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कथम्। महे। असुराय। अब्रवी:। इह। कथम्। पित्रे। हरये। त्वेषऽनृम्ण:। पृश्निम्। वरुण। दक्षिणाम्। ददावान्। पुन:ऽमघ। त्वम्। मनसा। अचिकित्सी:। ११.१।
+कथम्। महे। असुराय। अब्रवीः। इह। कथम्। पित्रे। हरये। त्वेषऽनृम्णः। पृश्निम्। वरुण। दक्षिणाम्। ददावान्। पुनःऽमघ। त्वम्। मनसा। अचिकित्सीः। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ darśatam*.
 Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest on the quiver, thou art beautiful upon the car: may it prolong our days of life!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यानाम्। एक:। असि। सोमात्। अधि। जज्ञिषे। रथे। त्वम्। असि। दर्शत:। इषुऽधौ। रोचन:। त्वम्। प्र। न:। आयूंषि। तारिषत्। १०.६।
+हिरण्यानाम्। एकः। असि। सोमात्। अधि। जज्ञिषे। रथे। त्वम्। असि। दर्शतः। इषुऽधौ। रोचनः। त्वम्। प्र। नः। आयूंषि। तारिषत्। १०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

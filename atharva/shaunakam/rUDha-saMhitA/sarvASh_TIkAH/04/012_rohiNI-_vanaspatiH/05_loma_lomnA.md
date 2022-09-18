@@ -22,7 +22,6 @@ dhīyatām*. ⌊For **c**, compare vs. 4.⌋ Ppp. also has for **d** our 4
 Join thou together hair with hair, join thou together skin with skin. Let blood and bone grow strong in thee. Unite the broken part,. O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 लोम। लोम्ना। सम्। कल्पय। त्वचा। सम्। कल्पय। त्वचम्। असृक्। ते। अस्थि। रोहतु। छिन्नम्। सम्। धेहि। ओषधे। १२.५।

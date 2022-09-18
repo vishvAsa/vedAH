@@ -20,10 +20,9 @@ with the two clauses inverted.⌋
 Thou, still uninjured, shalt not die: be not afraid; thou shalt not die. Here where I am men do not die or go to lowest depths of gloom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। अरिष्ट। न। मरिष्यसि। न। मरिष्यसि। मा। ब‍िभे:। न। वै। तत्र। म्रियन्ते। नो  इति। यन्ति। अधमम्। तम:। २.२४।
+सः। अरिष्ट। न। मरिष्यसि। न। मरिष्यसि। मा। ब‍िभेः। न। वै। तत्र। म्रियन्ते। नो  इति। यन्ति। अधमम्। तमः। २.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

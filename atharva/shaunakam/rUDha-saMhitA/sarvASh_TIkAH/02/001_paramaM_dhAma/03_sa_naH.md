@@ -35,10 +35,9 @@ regular *triṣṭubh.*
 He is our kinsman, father, and begetter: he knows all beings and all Ordinances. He only gave the Gods their appellations: all creatures go to him to ask direction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। न:। पिता। जनिता। स:। उत। बन्धु:। धामानि। वेद। भुवनानि। विश्वा। य:। देवानाम्। नामऽध:। एक:। एव। तम्। सम्ऽप्रश्नम्। भुवना। यन्ति। सर्वा। १.३।
+सः। नः। पिता। जनिता। सः। उत। बन्धुः। धामानि। वेद। भुवनानि। विश्वा। यः। देवानाम्। नामऽधः। एकः। एव। तम्। सम्ऽप्रश्नम्। भुवना। यन्ति। सर्वा। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

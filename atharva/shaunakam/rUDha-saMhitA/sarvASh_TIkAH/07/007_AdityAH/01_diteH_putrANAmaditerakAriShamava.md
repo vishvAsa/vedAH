@@ -33,10 +33,9 @@ The testimony of the Anukr. as to *akārṣam* or *-riṣam* is of no value.
 I have sung praise to Diti's sons and Aditi's, those very lofty and invulnerable Gods. For far within the depths of ocean is their home and in the wor- ship paid them none excelleth these.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिते:। पुत्राणाम्। अदिते:। अकारिषम्। अव। देवानाम्। बृहताम्। अनर्मणाम्। तेषाम्। हि। धाम। गभिऽसक्। समुद्रियम्। न। एनान्। नमसा। पर:। अस्ति। क:। चन। ८.१।
+दितेः। पुत्राणाम्। अदितेः। अकारिषम्। अव। देवानाम्। बृहताम्। अनर्मणाम्। तेषाम्। हि। धाम। गभिऽसक्। समुद्रियम्। न। एनान्। नमसा। परः। अस्ति। कः। चन। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

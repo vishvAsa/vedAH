@@ -17,7 +17,6 @@ chariot, so let the *varaṇá* amulet etc. etc.
 As glory dwelleth in a maid, and in this well-constructed car, So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। कन्यायाम्। यथा। अस्मिन्। सम्ऽभृते। रथे। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२०।

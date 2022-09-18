@@ -21,7 +21,6 @@ initiate.' ⌊Prescribed in the schol. to Kāuś. 55. 18, as noted above.⌋
 The Master, welcoming his new disciple, into his bowels takes the Brahmachari. Three nights he holds and bears him in this belly. When he is born, the Gods convene to see him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽचार्यः। उपऽनयमानः। ब्रह्मऽचारिणम्। कृणुते। गर्भम्। अन्तः। तम्। रात्रीः। तिस्रः। उदरे। बिभर्ति। तम्। जातम्। द्रष्टुम्। अभिऽसंयन्ति। देवाः। ७.३।

@@ -21,7 +21,6 @@ of RV. x. 154. 1 (= AV. xviii. 2. 14).⌋
 For Soma some have milked her: some worship the fatness she hath poured. They who have given a cow to him who hath this knowledge have gone up to the third region of the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमम्। एनाम्। एके। दुह्रे। घृतम्। एके। उप। आसते। ये। एवम्। विदुषे। वशाम्। ददुः। ते। गताः। त्रिऽदिवम्। दिवः। १०.३२।

@@ -19,7 +19,6 @@ be rendered independently.
 No lily grows with oval bulbs, no lotus-pool is in his field, In whose dominion is detained, through senseless love, a Brahman's dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। अस्य। क्षेत्रे। पुष्करिणी। न। आण्डीकम्। जायते। बिसम्। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१६।

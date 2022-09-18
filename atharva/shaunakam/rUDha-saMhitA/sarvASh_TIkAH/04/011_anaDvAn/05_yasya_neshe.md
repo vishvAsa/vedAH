@@ -26,10 +26,9 @@ read, but declared equivalent to *brūte!*).
 That which not sacrifice nor sacrificer, not giver nor receiver rules and governs, All-winning, all-supporting, all-effecting,--which of all quadru- peds, tell us! is the Caldron?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। न। ईशे। यज्ञऽपति:। न। यज्ञ:। न। अस्य। दाता। ईशे। न। प्रतिऽग्रहीता। य:। विश्वऽजित्। विश्वऽभृत्। विश्वऽकर्मा। घर्मम्। न:। ब्रूत। यतम:। चतु:ऽपात्। ११.५।
+यस्य। न। ईशे। यज्ञऽपतिः। न। यज्ञः। न। अस्य। दाता। ईशे। न। प्रतिऽग्रहीता। यः। विश्वऽजित्। विश्वऽभृत्। विश्वऽकर्मा। घर्मम्। नः। ब्रूत। यतमः। चतुःऽपात्। ११.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

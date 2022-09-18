@@ -29,7 +29,6 @@ in **b** has slipped out of place to the left. The Anukr. scans 12: 8 +
 Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, virorum masculum robur in hoc homine depone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। शुष्मा। ओषधीनाम्। सारा। ऋषभाणाम्। सम्। पुंसाम्। इन्द्र। वृष्ण्यम्। अस्मिन्। धेहि। तनूऽवशिन्। ४.४।

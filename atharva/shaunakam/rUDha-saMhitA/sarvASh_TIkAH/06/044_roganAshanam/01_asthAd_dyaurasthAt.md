@@ -20,10 +20,9 @@ in its version of 30. 3, above. ⌊"Stand," i.e. 'come to a standstill.'⌋
 Firm stood the heaven, firm stood the earth, firm stood this universal world. Firm stood the trees that sleep erect: let this thy malady be still.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्थात्। द्यौ:। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्  अस्थु:। वृक्षा:। ऊर्ध्वऽस्वप्ना:। तिष्ठात्। रोग:। अयम्। तव। ४४.१।
+अस्थात्। द्यौः। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्  अस्थुः। वृक्षाः। ऊर्ध्वऽस्वप्नाः। तिष्ठात्। रोगः। अयम्। तव। ४४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

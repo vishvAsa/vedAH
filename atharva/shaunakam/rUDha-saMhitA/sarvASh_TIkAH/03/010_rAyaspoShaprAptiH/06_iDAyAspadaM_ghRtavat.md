@@ -33,10 +33,9 @@ requires *iḍāyās p-.*⌋
 The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations. Tame animals of varied form and colour--may all the seven abide with me contented.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इडाया:। पदम्। घृतऽवत्। सरीसृपम्। जातऽवेद:। प्रति। हव्या। गृभाय। ये। ग्राम्या:। पशव:। विश्वऽरूपा:। तेषाम्। सप्तानाम्। मयि। रन्ति:। अस्तु। १०.६।
+इडायाः। पदम्। घृतऽवत्। सरीसृपम्। जातऽवेदः। प्रति। हव्या। गृभाय। ये। ग्राम्याः। पशवः। विश्वऽरूपाः। तेषाम्। सप्तानाम्। मयि। रन्तिः। अस्तु। १०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

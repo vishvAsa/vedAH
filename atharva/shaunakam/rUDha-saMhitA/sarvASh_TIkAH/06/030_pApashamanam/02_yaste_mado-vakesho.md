@@ -34,10 +34,9 @@ as *keśahantrī* and of its fruit as *keśanāśana*.⌋
 Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man to laughter To other trees, far from thee will I drive it. Grow up, thou Sami, with a hundred branches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। मद:। अवऽकेश:। विऽकेश:। येन। अभिऽहस्यम्। पुरुषम्। कृणोषि। आरात्। त्वत्। अन्या। वनानि। वृक्षि। त्वम्। शमि। शतऽवल्शा। वि। रोह। ३०.२।
+यः। ते। मदः। अवऽकेशः। विऽकेशः। येन। अभिऽहस्यम्। पुरुषम्। कृणोषि। आरात्। त्वत्। अन्या। वनानि। वृक्षि। त्वम्। शमि। शतऽवल्शा। वि। रोह। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

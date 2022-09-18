@@ -20,10 +20,9 @@ him.
 Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that he may reach old age, body and members back again.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। स्तम्। प्राणापानौ। मा। अप। गातम्। इत:। युवम्। शरीरम्। अस्य। अङ्गानि। जरसे। वहतम्। पुन:। ११.६।
+इह। एव। स्तम्। प्राणापानौ। मा। अप। गातम्। इतः। युवम्। शरीरम्। अस्य। अङ्गानि। जरसे। वहतम्। पुनः। ११.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

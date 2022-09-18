@@ -25,7 +25,6 @@ The three naves are probably seasons ⌊Hot, Wet, and Cold: cf. Bühler,
 One is the wheel, the tires are twelve in number, the naves are three What man hath understood it? Three hundred spokes have thereupon been hammered, and sixty pins set firmly in their places.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्वादश। प्रऽधयः। चक्रम्। एकम्। त्रीणि। नभ्यानि। कः। ऊं इति। तत्। चिकेत। तत्र। आऽहताः। त्रीणि। शतानि। शङ्कवः। षष्टिः। च। खीलाः। अविऽचाचलाः। ये। ८.४।

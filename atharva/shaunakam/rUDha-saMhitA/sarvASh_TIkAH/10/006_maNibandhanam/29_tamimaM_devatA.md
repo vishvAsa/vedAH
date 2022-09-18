@@ -20,7 +20,6 @@ of this verse further in the schol. to 19. 22⌋.
 That Amulet may the Deities bestow on me to win success, The conquering, strength-increasing Charm, the damager of enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। इमम्। देवताः। मणिम्। मह्यम्। ददतु। पुष्टये। अभिऽभुम्। क्षत्रऽवर्धनम्। सपत्नऽदम्भनम्। मणिम्। ६.२९।

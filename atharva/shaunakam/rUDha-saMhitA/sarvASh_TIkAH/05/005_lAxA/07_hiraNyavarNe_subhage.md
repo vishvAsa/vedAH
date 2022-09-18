@@ -21,10 +21,9 @@ Stud.* i. 178; Bloomfield, ZDMG. xlviii. 574.⌋
 Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the Waters art thou, Laksha! and thy soul is Wind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णे। सुऽभगे। शुष्मे। लोमशऽवक्षणे। अपाम्। असि। स्वसा। लाक्षे। वात:। ह। आत्मा। बभूव। ते। ५.७।
+हिरण्यऽवर्णे। सुऽभगे। शुष्मे। लोमशऽवक्षणे। अपाम्। असि। स्वसा। लाक्षे। वातः। ह। आत्मा। बभूव। ते। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

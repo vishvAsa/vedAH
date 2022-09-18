@@ -19,7 +19,6 @@ Ppp. reads in **b** *devāṅ devī*.
 Sprinkling down fatness, to the Gods will the beneficent God- dess go. Harm not thy dresser, Cow! To heaven, O Hundredfold Obla- tion, speed!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 घृतम्। प्रऽउक्षन्ती। सुऽभगा। देवी। देवान्। गमिष्यति। पक्तारम्। अघ्न्ये। मा। हिंसीः। दिवम्। प्र। इहि। शतऽओदने। ९.११।

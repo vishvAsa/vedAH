@@ -7,7 +7,6 @@ title = "०१० पाशमोचनम्"
 10. For release from evils, and for welfare.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
@@ -18,8 +17,6 @@ title = "०१० पाशमोचनम्"
 
 [Bhṛgvan̄giras.—aṣṭarcam. nirṛtidyāvāpṛthivyādinānādevatyam. 1. triṣṭubh; 2. 7-p. aṣṭi; 3-5, 7, 8. 7-p. dhṛti; 6. 7-p. atyṣṭti (eva ’haṁ tvām iti dvāv āuṣṇihāu pādāu).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 156; Ludwig, p. 513; Griffith, i. 52; Bloomfield, 14, 2
 
 Absolution and benediction
 </details>
+

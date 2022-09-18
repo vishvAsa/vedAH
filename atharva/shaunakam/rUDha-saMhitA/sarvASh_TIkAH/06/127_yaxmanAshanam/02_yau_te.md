@@ -25,10 +25,9 @@ in **b** (= *apakṛṣṭam āśritāu;* and *kakṣe* = *bāhumūle*, comm.).
 Those nerves of thine, Consumption! which stand closely hidden in thy groin I know the balm for that disease: the magic cure is Sipudru.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। ते। बलास। तिष्ठत:। कक्षे। मुष्कौ। अपऽश्रितौ। वेद। अहम्। तस्य। भेषजम्। चीपुद्रु:। अभिऽचक्षणम्। १२७.२।
+यौ। ते। बलास। तिष्ठतः। कक्षे। मुष्कौ। अपऽश्रितौ। वेद। अहम्। तस्य। भेषजम्। चीपुद्रुः। अभिऽचक्षणम्। १२७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

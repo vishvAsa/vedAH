@@ -23,7 +23,6 @@ with the ungirding of the bride.
 I free her: he who sees, within my bosom, my heart's nest knows how her fair form hath struck me. I taste no stolen food: myself untying Varuna's nooses I am freed in spirit.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। वि। स्यामि। मयि। रूपम्। अस्याः। वेदत्। इत्। पश्यन्। मनसः। कुलायम्। न। स्तेयम्। अद्मि। मनसा। उत्। अमुच्ये। स्वयम्। अश्नानः। वरुणस्य। पाशान्। १.५७।

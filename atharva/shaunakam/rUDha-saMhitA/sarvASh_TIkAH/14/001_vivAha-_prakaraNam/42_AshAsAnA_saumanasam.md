@@ -27,8 +27,6 @@ correct *kam* to *kám*.⌋
 Saying thy prayer for cheerfulness, children, prosperity, and wealth, Devoted to thy husband, gird thyself for immortality.
 </details>
 
-
-
 <details open><summary>पदपाठः</summary>
 
 आऽशासाना। सौमनसम्। प्रऽजाम्। सौभाग्यम्। रयिम्। पत्युः। अनुऽव्रता। भूत्वा। सम्। नह्यस्व। अमृताय। कम्। १.४२।

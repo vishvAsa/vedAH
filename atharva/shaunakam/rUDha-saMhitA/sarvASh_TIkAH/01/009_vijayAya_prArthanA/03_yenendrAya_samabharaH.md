@@ -25,10 +25,9 @@ end; and it inserts *mádhye* before *śrāíṣṭye* in **d**.
 Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to strengthen Indra, Even therewith exalt this man, O Agni, and give him highest rank among his kinsmen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। इन्द्राय। सम्‍ऽअभर:। पयांसि। उत्‍तमेन। ब्रह्मणा। जातऽवेद:। तेन। त्वम्‍। अग्ने। इह। वर्धय। इमम्‍। सऽजातानाम्‍। श्रैष्‍ठ्ये। आ। धेहि। एनम्‍।
+येन। इन्द्राय। सम्‍ऽअभरः। पयांसि। उत्‍तमेन। ब्रह्मणा। जातऽवेदः। तेन। त्वम्‍। अग्ने। इह। वर्धय। इमम्‍। सऽजातानाम्‍। श्रैष्‍ठ्ये। आ। धेहि। एनम्‍।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

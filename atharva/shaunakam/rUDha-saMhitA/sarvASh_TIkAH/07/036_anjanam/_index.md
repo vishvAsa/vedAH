@@ -7,7 +7,6 @@ title = "०३६ अञ्जनम्"
 36 (37). Husband and wife to one another.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अञ्जनम्।  
@@ -18,8 +17,6 @@ title = "०३६ अञ्जनम्"
 
 [Atharvan.—mantroktāhṣidevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 248; Grill, 55, 179; Henry, 13, 67; Griffith, i
 
 A charm to be pronounced by bride and bridegroom
 </details>
+

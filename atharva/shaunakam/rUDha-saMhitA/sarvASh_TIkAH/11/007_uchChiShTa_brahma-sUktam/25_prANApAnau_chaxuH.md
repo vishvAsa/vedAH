@@ -19,7 +19,6 @@ verse, as noted above, is wanting in Ppp.
 Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celestial Gods whose home is heaven sprang from the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२५।

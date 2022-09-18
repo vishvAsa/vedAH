@@ -22,10 +22,9 @@ and *-bhuvas* in **c**, and *apas* in **d**. The first pāda is properly
 These first, the boundless Sea, and Matarisvan, fierce glowing Fire, the Strong, the Bliss-bestower, And heavenly Floods, first-born by holy Order, exclaimed against the outrage on a Brahman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ते। अवदन्। प्रथमा:। ब्रह्मऽकिल्बिषे। अकूपार:। सलिल:। मातरिश्वा। वीडुऽहरा:। तप:। उग्रम्। मय:ऽभू:। आप:। देवी:। प्रथमऽजा:। ऋतस्य। १७.१।
+ते। अवदन्। प्रथमाः। ब्रह्मऽकिल्बिषे। अकूपारः। सलिलः। मातरिश्वा। वीडुऽहराः। तपः। उग्रम्। मयःऽभूः। आपः। देवीः। प्रथमऽजाः। ऋतस्य। १७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

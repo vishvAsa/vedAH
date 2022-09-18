@@ -23,10 +23,9 @@ root-aorist subj. from *sṛj*.
 Accept the healing medicine, the balm thy mother and thy sire, Thy sister and thy brother bring. I make thee live through lengthened years.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। माता। यत्। ते। पिता। जामि:। भ्राता। च। सर्जत:। प्रत्यक्। सेवस्व। भेषजम्। जरत्ऽअष्टिम्। कृणोमि। त्वा। ३०.५।
+यत्। ते। माता। यत्। ते। पिता। जामिः। भ्राता। च। सर्जतः। प्रत्यक्। सेवस्व। भेषजम्। जरत्ऽअष्टिम्। कृणोमि। त्वा। ३०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

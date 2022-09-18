@@ -21,7 +21,6 @@ rākṣaṣāḥ* and *udgatabhītayaḥ*.
 Armed with four fangs and yellow teeth, deformed, with faces smeared with blood, the terrible and fearless ones,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुःऽदंष्ट्रान्। श्यावऽदतः। कुम्भऽमुष्कान्। असृक्ऽमुखान्। स्वऽभ्यसाः। ये। चे। उत्ऽभ्यसाः। ११.१७।

@@ -7,7 +7,6 @@ title = "०१० "
 10 (11). To Sarasvatī.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १ शौनकः। सरस्वती। त्रिष्टुप्। सरस्वती।
@@ -17,8 +16,6 @@ title = "०१० "
 
 [śāunaka.—sārasvatam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ Translated: Henry, 4, 53; Griffith, i. 332.
 
 A prayer for the favour of Sarasvati
 </details>
+

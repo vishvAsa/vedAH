@@ -25,10 +25,9 @@ d**.⌋
 Night of the New-born Moon, whatever fortune the Gods who dwell with greatness have assigned thee, Therewith fulfil our sacrifice, all-baunteous! Blessed One, grant us wealth with manly offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। देवा:। अकृण्वन्। भागऽधेयम्। अमाऽवास्ये। सम्ऽवसन्त:। महिऽत्वा। तेन। न:। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। न:। धेहि। सुऽभगे। सुऽवीरम्। ८४.१।
+यत्। ते। देवाः। अकृण्वन्। भागऽधेयम्। अमाऽवास्ये। सम्ऽवसन्तः। महिऽत्वा। तेन। नः। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। नः। धेहि। सुऽभगे। सुऽवीरम्। ८४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

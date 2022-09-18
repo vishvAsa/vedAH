@@ -25,10 +25,9 @@ svadhām ajatām etam eṣā.*
 Erst Indra, wounded, made this strengthening portion, eternal food: thine is it, here presented. With this live full of vigour through the autumns. Let not thy strength be drained. Leeches have helped thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। एताम्। ससृजे। विध्द:। अग्रे। ऊर्जाम्। स्वधाम्। अजराम्। सा। ते। एषा। तया। त्वम्। जीव। शरद:। सुऽवर्चा:। मा। ते। आ। सुस्रोत्। भिषज:। ते। अक्रन्। २९.७।
+इन्द्रः। एताम्। ससृजे। विध्दः। अग्रे। ऊर्जाम्। स्वधाम्। अजराम्। सा। ते। एषा। तया। त्वम्। जीव। शरदः। सुऽवर्चाः। मा। ते। आ। सुस्रोत्। भिषजः। ते। अक्रन्। २९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

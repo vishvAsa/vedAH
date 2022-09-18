@@ -24,7 +24,6 @@ meter-disturbing⌋ *apsu* ' waters ') was feminine—which is possible.
 The Brahmachari stores with fuel Waters, and Fire, and Sun, and Moon, and Matarisvan. The Water's lights move separate in the rain-cloud, Man, rain, and water are their molten butter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्नौ। सूर्ये। चन्द्रमसि। मातरिश्वन्। ब्रह्मऽचारी। अप्सुऽसु। सम्ऽइधम्। आ। दधाति। तासाम्। अर्चीषि। पृथक्। अभ्रे। चरन्ति। तासाम्। आज्यम्। पुरुषः। वर्षम्। आपः। ७.१३।

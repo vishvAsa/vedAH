@@ -24,10 +24,9 @@ paraphrases *adhī ’tam* with *madvijñāpanaṁ citte ‘vadhārayatam*.
 My creditor, the man whose wife I visit, he, Gods! whom I approach with supplication, Let not these men dominate me in speaking. Mind this, ye two Apsarases, Gods' Consorts!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्मै। ऋणम्। यस्य। जायाम्। उपऽऐमि। यम्। याचमान:। अभिऽऐमि। देवा:। ते। वाचम्। वादिषु:। मा। उत्तराम्। मत्। देवपत्नी इति देवऽपत्नी। अप्सरसौ। अधि। इतम्। ११८.३।
+यस्मै। ऋणम्। यस्य। जायाम्। उपऽऐमि। यम्। याचमानः। अभिऽऐमि। देवाः। ते। वाचम्। वादिषुः। मा। उत्तराम्। मत्। देवपत्नी इति देवऽपत्नी। अप्सरसौ। अधि। इतम्। ११८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

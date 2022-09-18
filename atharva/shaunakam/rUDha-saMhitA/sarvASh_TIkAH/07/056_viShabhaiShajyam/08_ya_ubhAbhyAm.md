@@ -22,10 +22,9 @@ viṣaṁ*.⌋
 Thou creature who inflictest wounds both with thy mouth and with thy tail, No poison in thy mouth hast thou: what at thy tail's root will there be?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। उभाभ्याम्। प्रऽहरसि। पुच्छेन। च। आस्येन। च। आस्ये। न। ते। विषम्। किम्। ऊं इति। ते। पुच्छऽधौ। असत्। ५८.८।
+यः। उभाभ्याम्। प्रऽहरसि। पुच्छेन। च। आस्येन। च। आस्ये। न। ते। विषम्। किम्। ऊं इति। ते। पुच्छऽधौ। असत्। ५८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

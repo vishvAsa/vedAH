@@ -7,7 +7,6 @@ title = "०३३ इन्द्रस्तवः"
 33. Praise to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इन्द्रस्तवः।  
@@ -18,8 +17,6 @@ title = "०३३ इन्द्रस्तवः"
 
 [Jāṭikāyana.—indradāivatam. gāyatram: 2. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 293 or 45; Griffith, i. 263.
 
 A prayer to Indra for riches
 </details>
+

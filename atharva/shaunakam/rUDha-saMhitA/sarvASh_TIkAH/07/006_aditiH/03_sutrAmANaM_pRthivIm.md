@@ -42,7 +42,6 @@ The divine ship with good oars, the blameless,
 Which leaketh not, let us mount for prosperity.
 </details>
 
-
 <details><summary>Griffith</summary>
 
 7.6.3    Sinless may we ascend, for weal, the vessel, r...
@@ -50,10 +49,9 @@ Which leaketh not, let us mount for prosperity.
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽत्रामाणम्। पृथिवीम्। द्याम्। अनेहसम्। सुऽशर्माणम्। अदितिम्। सुऽप्रणीतिम्। दैवीम्। नावम्। सुऽअरित्राम्। अनागस:। अस्रवन्तीम्। आ। रुहेम। स्वस्तये। ७.१।
+सुऽत्रामाणम्। पृथिवीम्। द्याम्। अनेहसम्। सुऽशर्माणम्। अदितिम्। सुऽप्रणीतिम्। दैवीम्। नावम्। सुऽअरित्राम्। अनागसः। अस्रवन्तीम्। आ। रुहेम। स्वस्तये। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

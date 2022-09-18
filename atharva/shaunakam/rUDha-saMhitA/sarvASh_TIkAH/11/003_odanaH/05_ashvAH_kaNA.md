@@ -17,7 +17,6 @@ husks.
 Horses are the grains, oxen the winnowed ricegrains, gnats the husks.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अश्वाः। कणाः। गावः। तण्डुलाः। मशकाः। तुषाः। ३.५।

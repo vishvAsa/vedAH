@@ -24,10 +24,9 @@ b**: *hatas te atriṇā krimir hatas te jainadagninā.* SPP. writes in
 Like Atri I destroy you, Worms! in Kanva's, Jamadagni's way: I bray and bruise the creeping things to pieces with Agastya's* spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अत्त्रिऽवत्। व:। क्रिमय:। हन्मि। कण्वऽवत्। जमदग्निऽवत्। अगस्त्यस्य। ब्रह्मणा। सम्। पिनष्मि। अहम्। क्रिमीन्। ३२.३।
+अत्त्रिऽवत्। वः। क्रिमयः। हन्मि। कण्वऽवत्। जमदग्निऽवत्। अगस्त्यस्य। ब्रह्मणा। सम्। पिनष्मि। अहम्। क्रिमीन्। ३२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

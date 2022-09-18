@@ -24,10 +24,9 @@ with the one that follows.
 Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa preserve us from the sin and woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। इन्द्र। ब्रह्मण:। पते। अपि। मृषा। चरामसि। प्रऽचेता:। न:। अङ्गिरस:। दु:ऽइतात्। पातु। अंहस:। ४५.३।
+यत्। इन्द्र। ब्रह्मणः। पते। अपि। मृषा। चरामसि। प्रऽचेताः। नः। अङ्गिरसः। दुःऽइतात्। पातु। अंहसः। ४५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

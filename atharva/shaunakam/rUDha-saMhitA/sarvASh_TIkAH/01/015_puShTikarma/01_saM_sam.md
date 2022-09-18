@@ -29,10 +29,9 @@ Anukr. text (which reads *ādyā dvitīyā bhurik* etc.).
 Let the streams, flow together, let the winds and birds assembled come. Let this my sacrifice delight them always. I offer it with duly mixt oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। सिन्धव:। सम्। वाता:। सम्। पतत्रिण:। इमम्। यज्ञम्। प्रऽदिव:। मे। जुषन्ताम्। सम्ऽस्राव्येण। हविषा। जुहोमि।
+सम्। सम्। स्रवन्तु। सिन्धवः। सम्। वाताः। सम्। पतत्रिणः। इमम्। यज्ञम्। प्रऽदिवः। मे। जुषन्ताम्। सम्ऽस्राव्येण। हविषा। जुहोमि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

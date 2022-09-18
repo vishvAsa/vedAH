@@ -21,10 +21,9 @@ everyone that has a demon, coming, say "here am I."
 May Agni seize upon them first, may strong-armed Indra drive them forth: Let every wicked sorcerer come hither and say, Here am I.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। पूर्व:। आ। रभताम्। प्र। इन्द्र:। नुदतु। बाहुमान्। ब्रवीतु। सर्व:। यातुमान्। अयम्। अस्मि। इति। आऽइत्य।
+अग्निः। पूर्वः। आ। रभताम्। प्र। इन्द्रः। नुदतु। बाहुमान्। ब्रवीतु। सर्वः। यातुमान्। अयम्। अस्मि। इति। आऽइत्य।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

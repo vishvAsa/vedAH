@@ -19,10 +19,9 @@ Ppp. reads *sugantubhyas* at end of **b**.
 Live very long, be healthy, be immortal: let not the vital breath forsake thy body.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। त्वा। पातु। समानेभ्य:। अभि ऽचारात्। सबन्धुऽभ्य:। अमम्रि:। भव। अमृत:। अतिऽजीव:। मा। ते। हासिषु:। असव:। शरीरम्। २.२६।
+परि। त्वा। पातु। समानेभ्यः। अभि ऽचारात्। सबन्धुऽभ्यः। अमम्रिः। भव। अमृतः। अतिऽजीवः। मा। ते। हासिषुः। असवः। शरीरम्। २.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

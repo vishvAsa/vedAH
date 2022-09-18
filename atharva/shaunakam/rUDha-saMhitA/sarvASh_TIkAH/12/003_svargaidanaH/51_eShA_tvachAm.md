@@ -27,7 +27,6 @@ cow?⌋
 Man hath received this skin of his from nature: of other animals not one is naked. Ye make him clothe himself with might for raiment. Odana's mouth is a home-woven vesture.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एषा। त्वचाम्। पुरुषे। सम्। बभूव। अनग्नाः। सर्वे। पशवः। ये। अन्ये। क्षत्रेण। आत्मानम्। परि। धपयाथः। अमाऽउतम्। वासः। मुखम्। ओदनस्य। ३.५१।

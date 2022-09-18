@@ -26,10 +26,9 @@ verse is rhythmically a *triṣṭubh* with redundant syllables (11 + 13: 12
 The Ox pours milk out in the world of virtue: in earliest time, he, Pavam5na, swells it. Parjanya is the stream, Maruts his udder, sacrifice is the milk, the meed his milking.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनड्वान्। दुहे। सुऽकृतस्य। लोके। आ। एनम्। प्याययति। पवमान:। पुरस्तात्। पर्जन्य:। धारा:। मरुत:। ऊध:। अस्य। यज्ञ:। पय:। दक्षिणा। दोह:। अस्य। ११.४।
+अनड्वान्। दुहे। सुऽकृतस्य। लोके। आ। एनम्। प्याययति। पवमानः। पुरस्तात्। पर्जन्यः। धाराः। मरुतः। ऊधः। अस्य। यज्ञः। पयः। दक्षिणा। दोहः। अस्य। ११.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

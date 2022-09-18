@@ -20,7 +20,6 @@ The Anukr. takes no notice of the redundant syllable ⌊perhaps the first
 I ask thee where the waters' flower by wondrous magic art was placed, Thereon the Gods and men are set as spokes are fastened in the nave.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। देवाः। च। मनुष्याः। च। अराः। नाभौऽइव। श्रिताः। अपाम्। त्वा। पुष्पम्। पृच्छामि। यत्र। तत्। मायया। हितम्। ८.३४।

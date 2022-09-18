@@ -19,10 +19,9 @@ Ppp. reads, for **c**, *anena dyāvāpṛthivī ubhe ajayat*.
 With this same Amulet wise Indra routed the Asuras, with this he slaughtered Vritra, With this he won this pair, both Earth and Heaven, and made the sky's four regions his possession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनेन। इन्द्र:। मणिना। वृत्रम्। अहन्। अनेन। असुरान्। परा। अभावयत्। मनीषी। अनेन। अजयत्। द्यावापृथिवी इति। उभे इति। इमे इति। अनेन। अजयत्। प्रऽदिश:। चतस्र:। ५.३।
+अनेन। इन्द्रः। मणिना। वृत्रम्। अहन्। अनेन। असुरान्। परा। अभावयत्। मनीषी। अनेन। अजयत्। द्यावापृथिवी इति। उभे इति। इमे इति। अनेन। अजयत्। प्रऽदिशः। चतस्रः। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

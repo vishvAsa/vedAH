@@ -18,10 +18,9 @@ RV. has *vṛ́ṣā śukréṇa* at beginning of **b**.
 That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bear us past our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। रक्षांसि। निऽजूर्वति। अग्नि:। तिग्मेन। शोचिषा। स:। न:। पर्षत्। अति। द्विष:। ३४.२।
+यः। रक्षांसि। निऽजूर्वति। अग्निः। तिग्मेन। शोचिषा। सः। नः। पर्षत्। अति। द्विषः। ३४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

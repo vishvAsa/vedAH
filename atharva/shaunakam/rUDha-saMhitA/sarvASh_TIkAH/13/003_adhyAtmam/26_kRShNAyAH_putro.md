@@ -19,7 +19,6 @@ Anukr. says *ṣaḍviṅśat* (*ṣaḍviṅśa?*).⌋
 Born is the darksome Mother's Son, the whitely shining Calf of Night. He, Rohita, ascendeth up to heaven, hath mounted to the heights.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृष्णायाः। पुत्रः। अर्जुनः। रात्र्याः। वत्सः। अजायत। सः। ह। द्याम्। अधि। रोहति। रुहः। रुरोह। रोहितः। ३.२६।

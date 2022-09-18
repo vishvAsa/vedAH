@@ -17,7 +17,6 @@ down upon the back of the sky.
 Down looking, on the ridge of sky Savitar goes to highest heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। एति। सविता। स्वः। दिवः। पृष्ठे। अवऽचाकशत्। ४.१।

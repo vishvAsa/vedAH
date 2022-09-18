@@ -7,7 +7,6 @@ title = "०८५ अरिष्टनेमिः"
 85 (90). Invocation of Tārkshya.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अरिष्टनेमिः।  
@@ -18,8 +17,6 @@ title = "०८५ अरिष्टनेमिः"
 
 [Atharvan (svastyayanakāmaḥ).—tārkṣyadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 36, 105; Griffith, i. 372.—See also Foy, KZ. xxxiv. 268.
 
 A charm to ensure victory in battle
 </details>
+

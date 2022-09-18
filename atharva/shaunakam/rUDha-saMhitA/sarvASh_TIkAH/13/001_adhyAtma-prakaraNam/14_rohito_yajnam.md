@@ -22,7 +22,6 @@ two resolutions in **b** (*-si úpa* and *mā im-*, doubtless), to make a
 Rohita ordered sacrifice for Visvakarman: thence have I obta- ined this strength and energy. May I proclaim thee as my kin over the greatness of the world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। यज्ञम्। वि। अदधात्। विश्वऽकर्मणे। तस्मात्। तेजांसि। उप। मा। इमानि। आ। अगुः। वोचेयम्। ते। नाभिम्। भुवनस्य। अधि। मज्मनि। १.१४।

@@ -22,10 +22,9 @@ and 'away' in **a, b** anticipate as it were the 'we smite away' of
 Far off we drive Malignity, Destruction, Pisachas banqueters on flesh, and Grahi. And all the demon kind, the brood of sin, like darkness, we dispel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आरात्। अरातिम्। नि:ऽऋतिम्। पर:। ग्राहिम्। क्रव्यऽअद। पिशाचान्। रक्ष:। यत्। सर्वम्। दु:ऽभूतम्। तत्। तम:ऽइव। अप। हन्मसि। २.१२।
+आरात्। अरातिम्। निःऽऋतिम्। परः। ग्राहिम्। क्रव्यऽअद। पिशाचान्। रक्षः। यत्। सर्वम्। दुःऽभूतम्। तत्। तमःऽइव। अप। हन्मसि। २.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

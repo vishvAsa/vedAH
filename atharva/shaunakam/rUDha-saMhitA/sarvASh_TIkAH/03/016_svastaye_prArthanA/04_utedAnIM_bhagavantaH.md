@@ -23,10 +23,9 @@ especially p. 35 end, 36 top, of Bl's paper.⌋
 So may felicity be ours at present, and when the Sun advances, and at noontide; And may we still, O Bounteous One, at sunset be happy in the Gods' protecting favour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। इदानीम्। भगऽवन्त:। स्याम। उत। प्रऽपित्वे। उत। मध्ये। अह्नाम्। उत। उत्ऽइतौ। मघऽवन्। सूर्यस्य। वयम्। देवानाम्। सुऽमतौ। स्याम। १६.४।
+उत। इदानीम्। भगऽवन्तः। स्याम। उत। प्रऽपित्वे। उत। मध्ये। अह्नाम्। उत। उत्ऽइतौ। मघऽवन्। सूर्यस्य। वयम्। देवानाम्। सुऽमतौ। स्याम। १६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

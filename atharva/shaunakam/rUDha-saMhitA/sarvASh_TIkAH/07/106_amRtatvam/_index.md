@@ -7,7 +7,6 @@ title = "१०६ अमृतत्वम्"
 106 (111). Deprecation for offenses.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमृतत्वम्।  
@@ -19,8 +18,6 @@ title = "१०६ अमृतत्वम्"
 [Atharvan.—mantroktadāivatam uta jātavedasam (c, d, vāruṇam). bṛhatīgarbhā triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Applied by Kāuś. (6. 2), in the parvan sacrifice, wi
 ### Translations
 Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
+

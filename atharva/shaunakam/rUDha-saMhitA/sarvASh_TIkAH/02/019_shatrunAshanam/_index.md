@@ -7,7 +7,6 @@ title = "०१९ शत्रुनाशनम्"
 19. Against enemies: to Agni (fire).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१९ शत्रुनाशनम्"
 
 [Atharvan.—āgneyam. 1-4. nicṛdviṣamāgāyatrī; 5. bhurigviṣamā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 181; Griffith, i. 62.
 
 A prayer to Agni for aid against an enemy
 </details>
+

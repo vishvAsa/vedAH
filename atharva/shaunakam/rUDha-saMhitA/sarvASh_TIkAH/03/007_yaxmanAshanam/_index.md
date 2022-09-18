@@ -7,7 +7,6 @@ title = "००७ यक्ष्मनाशनम्"
 7. Against the disease kṣetriyá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "००७ यक्ष्मनाशनम्"
 
 [Bhṛgvan̄giras.—saptarcam. yakṣmanāśanadāivatam uta bahudevatyam. ānuṣṭubham: 6. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 208; Grill, 8, 105; Griffith, i.89; Bloomfield, 15, 336
 
 A charm with an amulet of buck horn to drive away hereditary disease
 </details>
+

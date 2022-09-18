@@ -7,7 +7,6 @@ title = "०८८ सर्पविषनाशनम्"
 88 (93). Against poison.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्पविषनाशनम्।  
@@ -18,8 +17,6 @@ title = "०८८ सर्पविषनाशनम्"
 
 [Garutman.—takṣakadevatyam. 3-av. bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 511; Henry, 36, 106; Griffith, i. 373.
 
 A charm to cure a snake-bite
 </details>
+

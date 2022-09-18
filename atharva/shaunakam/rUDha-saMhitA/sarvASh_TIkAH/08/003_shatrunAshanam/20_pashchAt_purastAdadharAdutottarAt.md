@@ -23,10 +23,9 @@ and it combines *-mṇé ‘gne* between **c** and **d**. The comm. has
 From rear, from front, from under, from above us, Agni, pro- tect us as a sage with wisdom. Guard to old age thy friend as friend eternal: O Agni, as im- mortal, guard us mortals.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पश्चात्। पुरस्तात्। अधरात्। उत। उत्तरात्। कवि:। काव्येन। परि। पाहि। अग्ने। सखा। सखायम्। अजर:। जरिम्णे। अग्ने। मर्तान्। अमर्त्य:। त्वम्। न:। ३.२०।
+पश्चात्। पुरस्तात्। अधरात्। उत। उत्तरात्। कविः। काव्येन। परि। पाहि। अग्ने। सखा। सखायम्। अजरः। जरिम्णे। अग्ने। मर्तान्। अमर्त्यः। त्वम्। नः। ३.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

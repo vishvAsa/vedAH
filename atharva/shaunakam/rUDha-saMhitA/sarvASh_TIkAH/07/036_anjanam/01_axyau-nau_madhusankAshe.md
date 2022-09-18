@@ -20,10 +20,9 @@ wrong (should be *asati*).
 Sweet are the glances of our eyes, our faces are as smooth as balm, Within thy bosom harbour me; one spirit dwell in both of us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्ष्यौ। नौ। मधुसंकाशे इति मधुऽसंकाशे। अनीकम्। नौ। सम्ऽअञ्जनम्। अन्त:। कृणुष्व। माम्। हृदि। मन:। इत्। नौ। सह। असति। ३७.१।
+अक्ष्यौ। नौ। मधुसंकाशे इति मधुऽसंकाशे। अनीकम्। नौ। सम्ऽअञ्जनम्। अन्तः। कृणुष्व। माम्। हृदि। मनः। इत्। नौ। सह। असति। ३७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

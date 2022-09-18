@@ -13,7 +13,6 @@ title = "५९ स उपहूतो"
 He, having been invited in the worlds, regales, invited, in that which wears all various forms in the worlds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। लोकेषु। भक्षयति। उपऽहूतः। तस्मिन्। यत्। लोकेषु। विश्वऽरूपम्। ११.१।

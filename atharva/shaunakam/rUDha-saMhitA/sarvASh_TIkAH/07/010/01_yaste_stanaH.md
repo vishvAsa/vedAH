@@ -28,10 +28,9 @@ renders it by *kuru*.⌋
 That breast of thine, exhaustless and delightful, good to invoke, beneficent, free giver. Wherewith thou feedest all things that are choicest, bring that, Sarasvati, that we may drain it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। स्तन:। शशयु:। य:। मय:ऽभू:। य:। सुम्नऽयु:। सुऽहव:। य:। सुऽदत्र:। येन। विश्वा। पुष्यसि। वार्याणि। सरस्वति। तम्। इह। धातवे। क:। ११.१।
+यः। ते। स्तनः। शशयुः। यः। मयःऽभूः। यः। सुम्नऽयुः। सुऽहवः। यः। सुऽदत्रः। येन। विश्वा। पुष्यसि। वार्याणि। सरस्वति। तम्। इह। धातवे। कः। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

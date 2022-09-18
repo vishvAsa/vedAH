@@ -21,10 +21,9 @@ The three Yajus texts have, in **a**, *kurmás* for *kṛṇmás*, and VS.MS.
 Prosper this man, O Agni, in whose house we offer sacrifice. May Soma bless him, and the God here present, Brahmanaspati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। कृण्म:। हवि:। गृहे। तम्। अग्ने। वर्धय। त्वम्। तस्मै। सोम:। अधि। ब्रवत्। अयम्। च। ब्रह्मण:। पति:। ५.३।
+यस्य। कृण्मः। हविः। गृहे। तम्। अग्ने। वर्धय। त्वम्। तस्मै। सोमः। अधि। ब्रवत्। अयम्। च। ब्रह्मणः। पतिः। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

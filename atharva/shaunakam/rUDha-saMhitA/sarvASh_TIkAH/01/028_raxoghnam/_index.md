@@ -7,7 +7,6 @@ title = "०२८ रक्षोघ्नम्"
 28. Against sorcerers and witches.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रक्षोघ्नम्।  
@@ -18,8 +17,6 @@ title = "०२८ रक्षोघ्नम्"
 
 [Cātana.—svastyayanam . ānuṣṭubham: 3. virāṭpathyābṛhatī; 4. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 423; Griffith, i. 33.
 
 A prayer to Agni for the destruction of evil spirits
 </details>
+

@@ -20,7 +20,6 @@ kommen fúrwahr die strebenden Wasser niemals zur Ruhe?'⌋
 Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the Waters, seeking truth, never at any time repose?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कथम्। वातः। न। इलयति। कथम्। न। रमते। मनः। किम्। आपः। सत्यम्। प्रऽईप्सन्तीः। न। इलयन्ति। कदा। चन। ७.३७।

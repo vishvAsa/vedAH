@@ -21,10 +21,9 @@ insisting on rendering *stu* by "praise"; here it is *yuṣmān stuvan.*
 This one hath come confessing all: do ye receive him eagerly. Master him thou, Brihaspati; Agni and Soma, pierce him through.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। स्तुवान:। आ। अगमत्। इमम्। स्म। प्रति। हर्यत। बृहस्पते। वशे। लब्ध्वा। अग्नीषोमा। वि। विध्यतम्। ।
+अयम्। स्तुवानः। आ। अगमत्। इमम्। स्म। प्रति। हर्यत। बृहस्पते। वशे। लब्ध्वा। अग्नीषोमा। वि। विध्यतम्। ।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

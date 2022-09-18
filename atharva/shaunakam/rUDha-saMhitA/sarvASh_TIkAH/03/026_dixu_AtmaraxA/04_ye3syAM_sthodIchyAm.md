@@ -19,10 +19,9 @@ In the north, according to TS., the name is "down-standers
 Ye Gods who dwell within this northward region, whose name is Piercers, Vata forms your arrows. Be kind, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। उदीच्याम्। दिशि। प्रऽविध्यन्त:। नाम। देवा:। तेषाम्। व:। वात:। इषव:। ते। न:। मृडत। ते। न:। अधि। ब्रूत। तेभ्य:। व:। नम:। तेभ्य:। व:। स्वाहा। २६.४।
+ये। अस्याम्। स्थ। उदीच्याम्। दिशि। प्रऽविध्यन्तः। नाम। देवाः। तेषाम्। वः। वातः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

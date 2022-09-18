@@ -25,7 +25,6 @@ ceremony. ⌊With **c**, cf. 52 **a**.⌋
 To Deities, to Truth, to holy Fervour this treasure we consign,. this rich deposit, At play, in meeting led it not desert us, never give out to anyone besides me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्याय। च। तपसे। देवताभ्यः। निऽधिम्। शेवऽधिम्। परि। दद्मः। एतम्। मा। नः। द्यूते। अव। गात्। मा। सम्ऽइत्याम्। मा। स्म। अन्यस्मै। उत्। सृजत। पुरा। मत्। ३.४६।

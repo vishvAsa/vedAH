@@ -26,10 +26,9 @@ Geldner, ZDMG. lii. 746⌋.
 Shaker of things unshaken, readiest corner to battles; conquer- ing foes, resistless leader, Guarded by Indra, watching our assemblies, go quickly, breaker of their hearts who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अच्युतऽच्युत्। सऽमद:। गमिष्ठ:। मृध:। जेता। पुर:ऽएता। अयोध्य:। इन्द्रेण। गुप्त:। विदथा। निऽचिक्यत। हृत्ऽद्योतन:। द्विषताम्। याहि। शीभम्। २०.१२।
+अच्युतऽच्युत्। सऽमदः। गमिष्ठः। मृधः। जेता। पुरःऽएता। अयोध्यः। इन्द्रेण। गुप्तः। विदथा। निऽचिक्यत। हृत्ऽद्योतनः। द्विषताम्। याहि। शीभम्। २०.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

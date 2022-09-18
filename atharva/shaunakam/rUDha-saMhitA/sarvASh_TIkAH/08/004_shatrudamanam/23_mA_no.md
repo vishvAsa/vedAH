@@ -22,10 +22,9 @@ in AV. and in RV.; the word is the subject of Prāt. iv. 8.
 Let not the fiend of witchcraft-workers reach us: may Dawn. drive off the couples of Kimidins. Earth keep us safe from earthly woe and trouble! From grief that comes from heaven Mid-air preserve us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। न:। रक्ष:। अभि। नट्। यातुऽमावत्। अप। उच्छन्तु। मिथुना। ये। किमीदिन:। पृथिवी। न:। पार्थिवात्। पातु। अंहस:। अन्‍तरिक्षम्। दिव्यात्। पातु। अस्मान्। ४.२३।
+मा। नः। रक्षः। अभि। नट्। यातुऽमावत्। अप। उच्छन्तु। मिथुना। ये। किमीदिनः। पृथिवी। नः। पार्थिवात्। पातु। अंहसः। अन्‍तरिक्षम्। दिव्यात्। पातु। अस्मान्। ४.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

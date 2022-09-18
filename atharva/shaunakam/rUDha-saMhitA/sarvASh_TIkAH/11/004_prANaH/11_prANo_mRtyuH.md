@@ -19,7 +19,6 @@ which is less devoid of sense; at the end it reads *lokaṁ dadhat*.
 Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the loftiest sphere the man who speaks the words of truth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणः। मृत्युः। प्राणः। तक्मा। प्राणम्। देवाः। उप। आसते। प्राणः। ह। सत्यऽवादिनम्। उत्ऽतमे। लोके। आ। दधत्। ६.११।

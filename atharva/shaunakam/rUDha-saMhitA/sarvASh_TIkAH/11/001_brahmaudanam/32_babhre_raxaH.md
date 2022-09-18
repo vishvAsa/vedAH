@@ -25,7 +25,6 @@ verse is not quoted in Kāuś.
 Supporter, send to those men fiends and battle, to all non-Brah- mans who attend and serve thee. Famous and foremost, with their great possessions, let not these here, the Rishis sons, be injured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बभ्रे। रक्षः। सऽमदम्। आ। वप। एभ्यः। अब्राह्मणाः। यतमे। त्वा। उपऽसीदान्। पुरीषिणः। प्रथमानाः। पुरस्तात्। आर्षेयाः। ते। मा। रिषन्। प्रऽअशितारः। १.३२।

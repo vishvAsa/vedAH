@@ -32,7 +32,6 @@ pages to the stanza in AJP. xxi. 411-9.⌋
 They mourn the living, they arrange the sacred rite: the men have set their thoughts upon a distant cast: They who have brought the Fathers this delightful gift, when wives allowed their lords the joy of their embrace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जीवम्। रुदन्ति। वि। नयन्ति। अध्वरम्। दीर्घाम्। अनु। प्रऽसितिम्। दीध्युः। नरः। वामम्। पितृऽभ्यः। ये। इदम्। सम्ऽईरिरे। मयः। पतिःऽभ्यः। जनये। परिऽस्वजे। १.४६।

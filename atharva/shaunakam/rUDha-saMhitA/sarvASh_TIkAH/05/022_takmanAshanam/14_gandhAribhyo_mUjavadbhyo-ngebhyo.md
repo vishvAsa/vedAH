@@ -26,10 +26,9 @@ mayebhyaḥ: jāne priyam iva śev-*. ⌊As to the proper names, cf. JRAS.
 We to Gandharis, Mujavans, to Angas and to Magadhas. Hand over Fever as it were a servant and a thing of price.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गन्धारिभ्य:। मूजवत्ऽभ्य:। अङ्गेभ्य:। मगधेभ्य:। प्रऽएष्यन्। जनम्ऽइव। शेवऽधिम्। तक्मानम्। परि। दद्मसि। २२.१४।
+गन्धारिभ्यः। मूजवत्ऽभ्यः। अङ्गेभ्यः। मगधेभ्यः। प्रऽएष्यन्। जनम्ऽइव। शेवऽधिम्। तक्मानम्। परि। दद्मसि। २२.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

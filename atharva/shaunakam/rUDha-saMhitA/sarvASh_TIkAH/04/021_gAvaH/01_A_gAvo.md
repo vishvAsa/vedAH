@@ -23,10 +23,9 @@ yielding milk for Indra.'⌋
 The kine have come and brought good fortune: let them rest in the cow-pen and be happy near us. Here let them stay prolific, many-coloured, and yield through many morns their milk for Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। गाव:। अग्मन्। उत। भद्रम्। अक्रन्। सीदन्तु। गोऽस्थे। रणयन्तु। अस्मे इति। प्रजाऽवती:। पुरुऽरूषा:। इह। स्यु:। इन्द्राय। पूर्वी:। उषस:। दुहाना:। २१.१।
+आ। गावः। अग्मन्। उत। भद्रम्। अक्रन्। सीदन्तु। गोऽस्थे। रणयन्तु। अस्मे इति। प्रजाऽवतीः। पुरुऽरूषाः। इह। स्युः। इन्द्राय। पूर्वीः। उषसः। दुहानाः। २१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Ppp. reads at end *‘dadhāt*.
 Soma was he who wooed the maid: the groomsmen were both. Asvins, when The Sun-God Savitar bestowed his willing Surya on her lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमः। वधूऽयुः। अभवत्। अश्विना। आस्ताम्। उभा। वरा। सूर्याम्। यत्। पत्ये। शंसन्तीम्। मनसा। सविता। अददात्। १.९।

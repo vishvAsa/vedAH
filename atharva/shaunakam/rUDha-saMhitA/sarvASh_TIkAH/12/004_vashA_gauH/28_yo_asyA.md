@@ -21,7 +21,6 @@ in **b** unaccented; and then, as if by way of compensation, they mostly
 He who hath heard her verses and still makes her roam among his kine. The Gods in anger rend away his life and his prosperity
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्याः। ऋचः। उपऽश्रुत्य। अथ। गोषु। अचीचरत्। आयुः। च। तस्य। भूतिम्। च। देवाः। वृश्चन्ति। हीडिताः। ४.२८।

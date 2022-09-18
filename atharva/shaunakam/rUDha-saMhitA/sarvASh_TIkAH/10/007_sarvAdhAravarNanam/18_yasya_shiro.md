@@ -18,7 +18,6 @@ which forsooth is he?
 Who out of many, tell me, is that Skambha Of whom Vaisvanara became the head, the Angirases his eye, and Yatus his corporeal parts?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। शिरः। वैश्वानरः। चक्षुः। अङ्गिरसः। अभवन्। अङ्गानि। यस्य। यातवः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१८।

@@ -7,7 +7,6 @@ title = "०१४ स्वर्ज्योतिः प्राप्ति
 14. With the sacrifice of a goat.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वर्ज्योतिः प्राप्तिः।  
@@ -19,8 +18,6 @@ title = "०१४ स्वर्ज्योतिः प्राप्ति
 [Bhṛgu.—navarcam. ājyam, āgneyam. trāiṣṭubham: 2, 4. anuṣṭubh; 3. prastārapan̄kti; 7, 9. jagatī; 8. 5-p. atiśakvarī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found also in VS. (xiii. 51), MS. (ii. 7. 17; like VS. throughout), and TS. (iv.
 
 Accompanying the sacrifice of a he-goat
 </details>
+

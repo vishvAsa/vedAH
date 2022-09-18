@@ -24,10 +24,9 @@ different ending; ⌊also VS. iii. 62. GGS. ii. 9. 21 gives the
 Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of immortality, three lives have I prepared for thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रिऽआयुषम्। जमत्ऽअग्ने:। कश्यपस्य। त्रिऽआयुषम्। त्रेधा। अमृतस्य। चक्षणम्। त्रिणि। आयूंषि। ते। अकरम्। २८.७।
+त्रिऽआयुषम्। जमत्ऽअग्नेः। कश्यपस्य। त्रिऽआयुषम्। त्रेधा। अमृतस्य। चक्षणम्। त्रिणि। आयूंषि। ते। अकरम्। २८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

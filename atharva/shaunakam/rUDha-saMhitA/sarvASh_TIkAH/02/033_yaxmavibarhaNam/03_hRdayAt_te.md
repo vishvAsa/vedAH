@@ -26,8 +26,7 @@ rejects all resolution in **b**.
 Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, From kidneys, spleen and liver thy Consumption we eradicate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हृदयात्। ते। परि। क्लोम्न:। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्न:। यक्न:। ते। वि। वृहामसि। ३३.३।
+हृदयात्। ते। परि। क्लोम्नः। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्नः। यक्नः। ते। वि। वृहामसि। ३३.३।
 </details>

@@ -23,10 +23,9 @@ after *garbhas* in **a** (and AGS. reads *āitu*), and omitting *atra* in
 As arrow to the quiver, so let a male embryo enter thee. Then from thy side be born a babe, a ten-month child, thy hero son.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। ते। योनिम्। गर्भ:। एतु। पुमान्। बाण:ऽइव। इषुऽधिम्। आ। वीर:। अत्र। जायताम्। पुत्र:। ते। दशऽमास्य:। २३.२।
+आ। ते। योनिम्। गर्भः। एतु। पुमान्। बाणःऽइव। इषुऽधिम्। आ। वीरः। अत्र। जायताम्। पुत्रः। ते। दशऽमास्यः। २३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

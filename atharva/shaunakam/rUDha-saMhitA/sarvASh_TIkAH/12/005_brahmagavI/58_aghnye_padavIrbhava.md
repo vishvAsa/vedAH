@@ -19,7 +19,6 @@ is wanting in Ppp.
 O Cow, become a tracker through the curse the Brahman hath pronounced,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघ्न्ये। पदऽवीः। भव। ब्राह्मणस्य। अभिऽशस्त्या। १०.१२।

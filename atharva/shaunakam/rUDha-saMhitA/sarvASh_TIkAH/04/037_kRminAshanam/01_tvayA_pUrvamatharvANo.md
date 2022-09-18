@@ -19,10 +19,9 @@ The comm. explains that one or other of the specified plants, the
 With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa smote with thee, with thee did Kanava and Agastya smite.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वया। पूर्वम्। अथर्वाण:। जघ्नु:। रक्षांसि। ओषधे। त्वया। जघान। कश्यप:। त्वया। कण्व:। अगस्त्य:। ३७.१।
+त्वया। पूर्वम्। अथर्वाणः। जघ्नुः। रक्षांसि। ओषधे। त्वया। जघान। कश्यपः। त्वया। कण्वः। अगस्त्यः। ३७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

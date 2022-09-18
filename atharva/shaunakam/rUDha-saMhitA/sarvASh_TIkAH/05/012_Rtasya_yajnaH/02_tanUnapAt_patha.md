@@ -25,10 +25,9 @@ alternative invocation to Narāśaṅsa (RV. vii. 2. 2).
 Tanunapat, fair-tongued! with sweet meath balming the baths and ways of Order, make them pleasant. Bear to the Gods our sacrifice, exalting with holy thoughts our hymns of praise and worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तनूऽनपात्। पथ:। ऋतस्य। यानान्। मध्वा। सम्ऽअञ्जन्। स्वदय। सुऽजिह्व। मन्मानि। धीभि:। उत। यज्ञम्। ऋन्धन्। देवऽत्रा। च। कृणुहि। अध्वरम्। न:। १२.२।
+तनूऽनपात्। पथः। ऋतस्य। यानान्। मध्वा। सम्ऽअञ्जन्। स्वदय। सुऽजिह्व। मन्मानि। धीभिः। उत। यज्ञम्। ऋन्धन्। देवऽत्रा। च। कृणुहि। अध्वरम्। नः। १२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

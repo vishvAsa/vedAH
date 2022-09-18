@@ -23,10 +23,9 @@ also by 'luck' or 'fortune'; the expression is found also in MB. i. 4.
 Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee with an iron hook unto the man who hateth us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। पत। इत:। पापि। लक्ष्मि। नश्य। इत:। प्र। अमुत:। पत। अयस्मयेन। अङ्केन। द्विषते। त्वा। आ। सजामसि। १२०.१।
+प्र। पत। इतः। पापि। लक्ष्मि। नश्य। इतः। प्र। अमुतः। पत। अयस्मयेन। अङ्केन। द्विषते। त्वा। आ। सजामसि। १२०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

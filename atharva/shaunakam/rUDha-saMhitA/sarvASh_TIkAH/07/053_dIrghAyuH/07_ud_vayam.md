@@ -31,10 +31,9 @@ it accompanies the coming out of the bath in the *agniṣṭoma*. \*⌊And ii.
 From out the depth of darkness, we, ascending to the highest heaven, Have come to the sublimest light, to Surya, God among the. Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। वयम्। तमस:। परि। रोहन्त:। नाकम्। उत्ऽतमम्। देवम्। देवऽत्रा। सूर्यम्। अगन्म। ज्योति:। उत्ऽतमम्। ५५.७।
+उत्। वयम्। तमसः। परि। रोहन्तः। नाकम्। उत्ऽतमम्। देवम्। देवऽत्रा। सूर्यम्। अगन्म। ज्योतिः। उत्ऽतमम्। ५५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

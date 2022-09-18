@@ -23,7 +23,6 @@ that **b** is a *jagatī* pāda. Ppp. reads twice *yo ’ta* for *yā ca*.
 The Verse employed at opening and conclusion, the Verse employed in each and every portion; That by which sacrifice proceedeth onward. I ask thee which is that of all the Verses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। पुरस्तात्। युज्यते। या। च। पश्चात्। या। विश्वतः। युज्यते। या। च। सर्वतः। यया। यज्ञः। प्राङ्। तायते। ताम्। त्वा। पृच्छामि। कतमा। सा। ऋचाम्। ८.१०।

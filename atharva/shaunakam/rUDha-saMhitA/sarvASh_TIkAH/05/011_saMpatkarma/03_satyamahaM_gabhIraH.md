@@ -27,10 +27,9 @@ English.⌋
 Truly I am profound in wisdom, truly I know by nature all existing creatures. No Dasa by his greatness, not an Arya, may violate the law that I will stablish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सत्यम्। अहम्। गभीर:। काव्येन। सत्यम्। जातेन। अस्मि। जातऽवेदा:। न। मे। दास:। न। आर्य:। महिऽत्वा। व्रतम्। मीमाय। यत्। अहम्। धरिष्ये। ११.३।
+सत्यम्। अहम्। गभीरः। काव्येन। सत्यम्। जातेन। अस्मि। जातऽवेदाः। न। मे। दासः। न। आर्यः। महिऽत्वा। व्रतम्। मीमाय। यत्। अहम्। धरिष्ये। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

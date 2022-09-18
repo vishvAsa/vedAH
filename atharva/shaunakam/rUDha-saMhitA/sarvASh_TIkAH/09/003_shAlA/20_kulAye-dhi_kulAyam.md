@@ -19,10 +19,9 @@ Ppp. has *martyas* in **c**.
 Nest upon nest hath been imposed, compartment on compart- ment laid: There man shall propagate his kind, and there shall everything born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कुलाये। अधि। कुलायम्। कोशे। कोश:। सम्ऽउब्जित:। तत्र। मर्त:। वि। जायते। यस्मात्। विश्वम्। प्रऽजायते। ३.२०।
+कुलाये। अधि। कुलायम्। कोशे। कोशः। सम्ऽउब्जितः। तत्र। मर्तः। वि। जायते। यस्मात्। विश्वम्। प्रऽजायते। ३.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

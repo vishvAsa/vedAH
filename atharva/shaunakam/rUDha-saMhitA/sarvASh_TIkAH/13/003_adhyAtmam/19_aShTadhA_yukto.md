@@ -27,7 +27,6 @@ only by D. The Anukr. notices this time the redundant syllable in **a**.
 Eight times attached the potent Courser draws it, Sire of the Gods, father of hymns and praises. So Matarisvan, measuring in spirit the thread of Order, purifies all regions. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अष्टऽअधा। युक्तः। वहति। वह्निः। उग्रः। पिता। देवानाम्। जनिता। मतीनाम्। ऋतस्य। तन्तुम्। मनसा। मिमानः। सर्वाः। दिशः। पवते। मातरिश्वा। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१९।

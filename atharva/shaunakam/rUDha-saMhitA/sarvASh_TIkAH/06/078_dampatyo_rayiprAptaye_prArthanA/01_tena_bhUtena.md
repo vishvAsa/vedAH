@@ -27,10 +27,9 @@ verse by the very different reading *jāyāṁ yām asmā ’vidaṁ sā rasenā
 Let this man be again bedewed with this presented sacrifice. And comfort with the sap of life the bride whom they have brought to him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तेन। भूतेन। हविषा। अयम्। आ। प्यायताम्। पुन:। जायाम्। याम्। अस्मै। आऽअवाक्षु:। ताम्। रसेन। अभि। वर्धताम्। ७८.१।
+तेन। भूतेन। हविषा। अयम्। आ। प्यायताम्। पुनः। जायाम्। याम्। अस्मै। आऽअवाक्षुः। ताम्। रसेन। अभि। वर्धताम्। ७८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

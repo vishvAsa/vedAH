@@ -18,7 +18,6 @@ The Anukr. passes without notice the redundant syllable in **a**.
 The Charm to which men, Fathers, Gods look ever for their maintenance, May this be fastened on me here, to crown me with surpassing power
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। देवाः। पितरः। मनुष्याः। उपऽजीवन्ति। सर्वदा। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३२।

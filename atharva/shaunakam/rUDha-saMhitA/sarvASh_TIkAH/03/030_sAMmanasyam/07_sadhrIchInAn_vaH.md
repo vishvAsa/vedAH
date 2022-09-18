@@ -28,10 +28,9 @@ have plainly *-śr-*: cf. the note to 17. 2 above. Ppp. has at the end
 With binding charm I make you all united, obeying one sole leader and one-minded. Even as the Gods who watch and guard the Amrit, at morn and eve may ye be kindly-hearted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सध्रीचीनान्। व:। सम्ऽमनस:। कृणोमि। एकऽश्नुष्टीन्। सम्ऽवननेन। सर्वान्। देवा:ऽइव। अमृतम्। रक्षमाणा:। सायम्ऽप्रात:। सौमनस:। व:। अस्तु। ३०.७।
+सध्रीचीनान्। वः। सम्ऽमनसः। कृणोमि। एकऽश्नुष्टीन्। सम्ऽवननेन। सर्वान्। देवाःऽइव। अमृतम्। रक्षमाणाः। सायम्ऽप्रातः। सौमनसः। वः। अस्तु। ३०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

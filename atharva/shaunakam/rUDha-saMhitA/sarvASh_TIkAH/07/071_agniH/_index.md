@@ -7,7 +7,6 @@ title = "०७१ अग्निः"
 71 (74). To Agni: for protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अग्निः।  
@@ -18,8 +17,6 @@ title = "०७१ अग्निः"
 
 [Atharvan.—āgneyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 27, 92; Griffith, i. 361.
 
 In praise of Agni
 </details>
+

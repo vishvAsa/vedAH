@@ -7,7 +7,6 @@ title = "०४५ ईर्ष्यानिवारणम्"
 45 (46, 47). To cure jealousy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ईर्ष्यानिवारणम्।  
@@ -19,8 +18,6 @@ title = "०४५ ईर्ष्यानिवारणम्"
 [1. Praskaṇva.—bhāiṣajyam. ānuṣṭubham.—2. Atharvan.—mantroktadevatyam; irṣyāpanayanam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Very probably (b) rather 'from the Indus' (síndhu). Ppp. reads -janīnaṁ viś
 
 A charm against jealousy
 </details>
+

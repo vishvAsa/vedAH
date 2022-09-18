@@ -19,10 +19,9 @@ RV. reads in **d** *nas* instead of *mā*.
 May he be swept away, himself and children; may all the three earths press him down beneath them. May his fair glory, O ye Gods, be blighted, who in the day or night would fain destroy us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर:। स:। अस्तु। तन्वा। तना। च। तिस्र:। पृथिवी:। अध:। अस्तु। विश्वा:। प्रति। शुष्यतु। यश:। अस्य। देवा:। य:। मा। दिवा। दिप्सति। य:। च। नक्तम्। ४.११।
+परः। सः। अस्तु। तन्वा। तना। च। तिस्रः। पृथिवीः। अधः। अस्तु। विश्वाः। प्रति। शुष्यतु। यशः। अस्य। देवाः। यः। मा। दिवा। दिप्सति। यः। च। नक्तम्। ४.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

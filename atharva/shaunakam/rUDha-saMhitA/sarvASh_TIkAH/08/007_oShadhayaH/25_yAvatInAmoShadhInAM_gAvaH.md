@@ -20,10 +20,9 @@ and *oṣadhīs* change places.
 The multitude of herbs whereon the Cows whom none may slaughter feed, all that are food for goats and sheep, So many Plants, brought hitherward, give shelter and defence to thee!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावतीनाम्। ओषधीनाम्। गाव:। प्रऽअश्नन्ति। अघ्न्या:। यावतीनाम्। अजऽअवय:। तावती:। तुभ्यम्। ओषधी:। शर्म। यच्छन्तु। आऽभृता:। ७.२५।
+यावतीनाम्। ओषधीनाम्। गावः। प्रऽअश्नन्ति। अघ्न्याः। यावतीनाम्। अजऽअवयः। तावतीः। तुभ्यम्। ओषधीः। शर्म। यच्छन्तु। आऽभृताः। ७.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

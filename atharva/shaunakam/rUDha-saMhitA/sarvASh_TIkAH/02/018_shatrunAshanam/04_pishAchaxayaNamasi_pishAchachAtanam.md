@@ -17,10 +17,9 @@ hail!
 Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिशाचऽक्षयणम्। असि। पिशाचऽचातनम्। मे। दा:। स्वाहा। १८.४।
+पिशाचऽक्षयणम्। असि। पिशाचऽचातनम्। मे। दाः। स्वाहा। १८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

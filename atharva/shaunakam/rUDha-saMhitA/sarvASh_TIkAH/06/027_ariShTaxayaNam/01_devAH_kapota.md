@@ -21,10 +21,9 @@ The verse lacks two syllables of being a full *jagatī*.
 Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destruction, For that let us sing hymns and make atonement, Well be it with our quadrupeds and bipeds!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। कपोत:। इषित:। यत्। इच्छन्। दूत:। नि:ऽऋत्या:। इदम्। आऽजगाम। तस्मै। अर्चाम। कृणवाम। नि:ऽकृतिम्। शम्। न:। अस्तु। द्विऽपदे। शम्। चतु:ऽपदे। २७.१।
+देवाः। कपोतः। इषितः। यत्। इच्छन्। दूतः। निःऽऋत्याः। इदम्। आऽजगाम। तस्मै। अर्चाम। कृणवाम। निःऽकृतिम्। शम्। नः। अस्तु। द्विऽपदे। शम्। चतुःऽपदे। २७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

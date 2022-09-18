@@ -17,7 +17,6 @@ together with property, with fortune.
 The Amulet, etc. That Amulet here hath come to me with power and abundant strength, hath come with glory and with wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। ऊर्जया। पयसा। सह। द्रविणेन। श्रिया। सह। ६.२६।

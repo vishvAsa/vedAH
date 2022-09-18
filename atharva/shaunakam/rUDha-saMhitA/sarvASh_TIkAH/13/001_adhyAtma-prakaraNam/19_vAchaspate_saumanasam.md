@@ -22,7 +22,6 @@ repeated unintelligently from the preceding⌋.
 Breed, O Vachaspati, joy and understanding, kine i n our stall and children in our consorts. Even here may Prana be our friend: may Agni, O Parameshthin, give thee life and splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वाचः। पते। सौमनसम्। मनः। च। गोऽस्थे। नः। गाः। जनय। योनिषु। प्रऽजाः। इह। एव। प्राणः। सख्ये। नः। अस्तु। तम्। त्वा। परमेऽस्थिन्। परि। अहम्। आयुषा। वर्चसा। दधामि। १.१९।

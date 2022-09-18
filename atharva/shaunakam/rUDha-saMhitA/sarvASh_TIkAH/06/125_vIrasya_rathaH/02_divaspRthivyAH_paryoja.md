@@ -28,10 +28,9 @@ Indra's thunderbolt.
 Its mighty strength was borrowed from the heaven and earth: its conquering force was brought from sovrans of the wood. Honour with sacrifice the Car like Indra's bolt, the Car girt round with straps, the vigour of the floods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। पृथिव्या:। परि। ओज:। उत्ऽभृतम्। वनस्पतिऽभ्य:। परि। आऽभृतम्। सह:। अपाम्। ओज्मानम्। परि। गोभि:। आऽवृतम्। इन्द्रस्य। वज्रम्। हविषा। रथम्। यज। १२५.२।
+दिवः। पृथिव्याः। परि। ओजः। उत्ऽभृतम्। वनस्पतिऽभ्यः। परि। आऽभृतम्। सहः। अपाम्। ओज्मानम्। परि। गोभिः। आऽवृतम्। इन्द्रस्य। वज्रम्। हविषा। रथम्। यज। १२५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

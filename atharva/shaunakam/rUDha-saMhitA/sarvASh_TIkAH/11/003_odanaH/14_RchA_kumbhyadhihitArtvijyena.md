@@ -13,7 +13,6 @@ title = "१४ ऋचा कुम्भ्यधिहितार्त्व
 The jar covered with the Rich has been solemnly directed by the priestly office.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋचा। कुम्भी। अधिऽहिता। आर्त्विज्येन। प्रऽइषिता। ३.१४।

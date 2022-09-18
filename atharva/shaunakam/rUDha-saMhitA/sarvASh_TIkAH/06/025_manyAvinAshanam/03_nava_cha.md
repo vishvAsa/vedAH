@@ -20,10 +20,9 @@ every time in **a**, and combines *manyā ’bhi, grāivyā ’bhi, skandā
 Those nine-and-ninety which, combined, attack the shoulder round about, Let them all vanish hence away like plaguing insects' buzz and hum!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नव। च। या:। नवति:। च। सम्ऽयन्ति। स्कन्ध्या:। अभि। इत:। ता:। सर्वा:। नश्यन्तु। वाका:। अपचिताम्ऽइव। २५.३।
+नव। च। याः। नवतिः। च। सम्ऽयन्ति। स्कन्ध्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

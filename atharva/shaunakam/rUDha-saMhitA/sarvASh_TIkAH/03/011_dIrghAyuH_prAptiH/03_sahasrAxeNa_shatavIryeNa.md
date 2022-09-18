@@ -21,10 +21,9 @@ sense of **c, d** by reading *śatám* for *índras*, and *índras* for
 With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have I restored him, That Indra through the autumns may conduct him safe to the farther shore of all misfortune.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहस्रऽअक्षेण। शतऽवीर्येण। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। इन्द्र:। यथा। एनम्। शरद:। नयाति। अति। विश्वस्य। दु:ऽइतस्य। पारम्। ११.३।
+सहस्रऽअक्षेण। शतऽवीर्येण। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। इन्द्रः। यथा। एनम्। शरदः। नयाति। अति। विश्वस्य। दुःऽइतस्य। पारम्। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ Ppp. reads, for **d**, *saṁjayā nāma vā ’si*.
 Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is called The Conqueror, She who Stands Fast, The Rescuer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वृक्षम्ऽवृक्षम्। आ। रोहसि। वृषण्यन्तीऽइव। कन्यला। जयन्ती। प्रतिऽआतिष्ठन्ती। स्परणी। नाम। वै। असि। ५.३।

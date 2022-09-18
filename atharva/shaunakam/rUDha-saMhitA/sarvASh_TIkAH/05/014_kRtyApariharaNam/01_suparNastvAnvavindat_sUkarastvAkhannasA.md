@@ -20,10 +20,9 @@ has, for **d**, *prati kṛtyākṛto daha*.
 An eagle found thee: with his snout a wild boar dug thee from the earth. Harm thou, O Plant, the mischievous, and drive the sorcerer away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽपर्ण:। त्वा। अनु। अविन्दत्। सूकर:। त्वा। अखनत्। नसा। दिप्स। ओषधे। त्वम्। दिप्सन्तम्। अव। कृत्याऽकृतम्। जहि। १४.१।
+सुऽपर्णः। त्वा। अनु। अविन्दत्। सूकरः। त्वा। अखनत्। नसा। दिप्स। ओषधे। त्वम्। दिप्सन्तम्। अव। कृत्याऽकृतम्। जहि। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

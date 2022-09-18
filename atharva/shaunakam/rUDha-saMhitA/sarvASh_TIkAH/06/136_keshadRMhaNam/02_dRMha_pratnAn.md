@@ -20,10 +20,9 @@ scans as 9 + 9. The "verse" seems to be prose.⌋
 Make the old firm, make new hair spring, lengthen what has already grown.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दृंह। प्रत्नान्। जनय। अजातान्। जातान्। ऊं इति। वर्षीयस:। कृधि। १३६.२।
+दृंह। प्रत्नान्। जनय। अजातान्। जातान्। ऊं इति। वर्षीयसः। कृधि। १३६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

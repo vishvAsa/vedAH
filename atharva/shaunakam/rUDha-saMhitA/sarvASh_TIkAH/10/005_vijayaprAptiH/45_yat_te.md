@@ -20,7 +20,6 @@ above, 2. 22, 23). Ppp. ⌊in i.⌋ puts this verse before our vs. 42.
 All food of thine, O Lord of Life, that lies, upon the face of earth, Thereof bestow thou upon us. O Lord of Life, Prajapati!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। अन्नम्। भुवः। पते। आऽक्षियति। पृथिवीम्। अनु। तस्य। नः। त्वम्। भुवः। पते। सम्ऽप्रयच्छ। प्रजाऽपते। ५.४५।

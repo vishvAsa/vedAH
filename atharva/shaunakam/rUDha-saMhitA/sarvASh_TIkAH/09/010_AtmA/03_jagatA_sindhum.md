@@ -22,7 +22,6 @@ in **a** *astabhāyat*.
 With Jagati the flood in heaven he stablished, and saw the Sun in the Rathantara Saman. Gayatri hath, they say, three logs for burning: hence it excels in majesty and vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जगता। सिन्धुम्। दिवि। अस्कभायत्। रथम्ऽतरे। सूर्यम्। परि। अपश्यत्। गायत्रस्य। सम्ऽइधः। तिस्रः। आहुः। ततः। मह्ना। प्र। रिरिचे। महिऽत्वा। १५.३।

@@ -19,10 +19,9 @@ spṛśāmasi*. The Anukr. takes no notice of the redundancy in our **c**.
 The tongue that leads the voice precedes. Then with our tenfold- branching hands. With these two healers of disease, we stroke thee with a soft caress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हस्ताभ्याम्। दशऽशाखाभ्याम्। जिह्वा। वाच:। पुर:ऽगवी। अनामयित्नुऽभ्याम्। हस्ताभ्याम्। ताभ्याम्। त्वा। अभि। मृशामसि। १३.७।
+हस्ताभ्याम्। दशऽशाखाभ्याम्। जिह्वा। वाचः। पुरःऽगवी। अनामयित्नुऽभ्याम्। हस्ताभ्याम्। ताभ्याम्। त्वा। अभि। मृशामसि। १३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -34,10 +34,9 @@ emendation to *cittā́* would remove it.
 Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! Go meet them, flame within their hearts and burn them. Smite thou the foes with darkness and amazement.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमीषाम्। चित्तानि। प्रतिऽमोहयन्ती। गृहाण। अङ्गानि। अप्वे। परा। इहि। अभि। प्र। इहि। नि:। दह। हृत्ऽसु। शोकै:। ग्राह्या। अमित्रान्। तमसा। विध्य। शत्रून्। २.५।
+अमीषाम्। चित्तानि। प्रतिऽमोहयन्ती। गृहाण। अङ्गानि। अप्वे। परा। इहि। अभि। प्र। इहि। निः। दह। हृत्ऽसु। शोकैः। ग्राह्या। अमित्रान्। तमसा। विध्य। शत्रून्। २.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

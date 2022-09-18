@@ -32,10 +32,9 @@ water in exhaling from the earth and coming back as rain.
 The evil sprang from earth; it mounts to heaven and spreads to vast extent. Reverted, shaking him with might, thence on its maker let it fall.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असत्। भूम्या:। सम्। अभवत्। तत्। याम्। एति। महत्। व्यच:। तत्। वै। तत:। विऽधूपायत्। प्रत्यक्। कर्तारम्। ऋच्छतु। १९.६।
+असत्। भूम्याः। सम्। अभवत्। तत्। याम्। एति। महत्। व्यचः। तत्। वै। ततः। विऽधूपायत्। प्रत्यक्। कर्तारम्। ऋच्छतु। १९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

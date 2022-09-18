@@ -25,10 +25,9 @@ hiṇmaḥ*) after* pra*, here as elsewhere.*
 He brought this by no proper path, by the right path we drive it back. The fool in folly brought it to those who observe established bounds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपथेन। आ। जभार। एनाम्। ताम्। पथा। इत:। प्र। हिण्मसि। अधीर:। मर्याऽधीरेभ्य:। सम्। जभार। अचित्त्या। ३१.१०।
+अपथेन। आ। जभार। एनाम्। ताम्। पथा। इतः। प्र। हिण्मसि। अधीरः। मर्याऽधीरेभ्यः। सम्। जभार। अचित्त्या। ३१.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

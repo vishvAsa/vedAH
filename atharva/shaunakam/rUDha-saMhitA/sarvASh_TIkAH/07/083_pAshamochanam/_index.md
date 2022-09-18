@@ -7,7 +7,6 @@ title = "०८३ पाशमोचनम्"
 83 (88). For release from Varuṇa's fetters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
@@ -18,8 +17,6 @@ title = "०८३ पाशमोचनम्"
 
 [śunaḥśepa.—caturṛcam. vāruṇam. ānuṣṭubham: 2. pathyāpan̄kti; 3, 4. triṣṭubh (4. bṛhatīgarbkā).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 35, 104; Griffith, i. 370; Bloomfield, 12, 562.
 
 A prayer for deliverance from sin and other evils
 </details>
+

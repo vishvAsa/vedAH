@@ -7,7 +7,6 @@ title = "००९ विराट्"
 9. Mystic: extolling the virā́j.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विराट्।  
@@ -19,8 +18,6 @@ title = "००९ विराट्"
 
 [Atharvan.—ṣaḍviṅśam. kāśyapeyam uta sarvārṣaṁ chāndasam. trāiṣṭubham: 2, 3. pan̄kti (3. āstārapan̄kti); 4, 5, 23, 25, [26]. anuṣṭubh; 8, 11, 12, 22. jagatī; 9. bhurij; 14. 4p. atijagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 439; Henry, 26, 65; Griffith, i. 416.—See also Muir, v.
 
 An enunciation of cosmogonical, ritual, and metrical doctrine
 </details>
+

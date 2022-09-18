@@ -21,7 +21,6 @@ misreading. Ppp. reads *cetasas* for *acittyā*. Part of our mss.
 They who seduce the owner of the Cow and say, Bestow her not. Encounter through their want of sense the missile shot by Rudra's hand.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। गोऽपतिम्। पराऽनीय। अथ। आहुः। मा। ददाः। इति। रुद्रस्य। अस्ताम्। ते। हेतिम्। परि। यन्ति। अचित्त्या। ४.५२।

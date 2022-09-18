@@ -19,10 +19,9 @@ Some of the mss. (Bp.²O.) read *asmā́t* instead of *asmā́n*. Ppp. has
 Free us from trouble, free us from dishonour, accept our wor- ship, give us life immortal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुमुक्तम्। अस्मान्। दु:ऽइतात्। अवद्यात्। जुषेथाम्। यज्ञम्। अमृतम्। अस्मासु। धत्तम्। ६.८।
+मुमुक्तम्। अस्मान्। दुःऽइतात्। अवद्यात्। जुषेथाम्। यज्ञम्। अमृतम्। अस्मासु। धत्तम्। ६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

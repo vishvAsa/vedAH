@@ -7,7 +7,6 @@ title = "००६ ब्रह्मविद्या"
 6.xa0?⌊Disconnected verses.⌋
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मविद्या।  
@@ -18,8 +17,6 @@ title = "००६ ब्रह्मविद्या"
 
 [Atharvan.—caturdaśakam. somārudrīyam: 1. brahmādityam (astāut); 2. karmāṇi; 3, 4. rudragaṇān; 5-7. somārudrāu; 8. tayor eva prārthanam; 9. hetim; 10-13. sarvātmakaṁ rudram. trāiṣṭubham: 2. anuṣṭubh; 3, 4. jagatī (4. anuṣṭubuṣṇiktriṣṭubgarbhā 5-p.); 5-7. 3-p. virāṇnāmagāyatrī; 8. 1-av. 2-p. ”rcyanuṣṭubh; 10. prastārapan̄kti; 11-14. pan̄kti (14. svarāj).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Griffith, i. 196; Weber, xviii. 185.—The "hymn" is entitled by Web
 
 A prayer for protection and prosperity
 </details>
+

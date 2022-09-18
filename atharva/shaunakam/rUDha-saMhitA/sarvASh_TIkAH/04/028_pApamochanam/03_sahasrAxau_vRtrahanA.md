@@ -24,10 +24,9 @@ sunemi ugrāu*. ⌊Add *avasāna*-mark after *ugrāu*.⌋
 Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wide dominion: Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहस्रऽअक्षौ। वृत्रऽहना। हुवे। अहम्। दूरेगव्यूती इति दूरेऽगव्यूती। स्तुवन्। एमि। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.३।
+सहस्रऽअक्षौ। वृत्रऽहना। हुवे। अहम्। दूरेगव्यूती इति दूरेऽगव्यूती। स्तुवन्। एमि। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

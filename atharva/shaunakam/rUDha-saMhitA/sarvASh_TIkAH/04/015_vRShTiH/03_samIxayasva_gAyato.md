@@ -25,10 +25,9 @@ as "swift stream." The Anukr. ignores the extra syllable in **d**
 Cause us who sing to see the gathering vapours: out burst in many a place the rush of waters! Let floods of rain refresh the ground with gladness; and herbs spring various with each form and colour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। ईक्षयस्व। गायत:। नभांसि। अपाम्। वेगास:। पृथक्। उत्। विजन्ताम्। वर्षस्य। सर्गा:। महयन्तु। भूमिम्। पृथक्। जायन्ताम्। वीरुध:। विश्वऽरूपा:। १५.३।
+सम्। ईक्षयस्व। गायतः। नभांसि। अपाम्। वेगासः। पृथक्। उत्। विजन्ताम्। वर्षस्य। सर्गाः। महयन्तु। भूमिम्। पृथक्। जायन्ताम्। वीरुधः। विश्वऽरूपाः। १५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ That is, probably, 'a pleasant life.' Ppp. makes *nṛcakṣās* and
 The heavenly Falcon, viewing men, well-pinioned, strength-giver, hundred-footed, hundred-nested, Shall give us treasure which was taken from us. May it be rich in food among our Fathers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्येन:। नृऽचक्षा:। दिव्य:। सुऽपर्ण:। सहस्रऽपात्। शतऽयोनि:। वय:ऽधा:। स। न:। नि। यच्छात्। वसु। यत्। पराऽभृतम्। अस्माकम्। अस्तु। पितृषु। स्वधाऽवत्। ४२.२।
+श्येनः। नृऽचक्षाः। दिव्यः। सुऽपर्णः। सहस्रऽपात्। शतऽयोनिः। वयःऽधाः। स। नः। नि। यच्छात्। वसु। यत्। पराऽभृतम्। अस्माकम्। अस्तु। पितृषु। स्वधाऽवत्। ४२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

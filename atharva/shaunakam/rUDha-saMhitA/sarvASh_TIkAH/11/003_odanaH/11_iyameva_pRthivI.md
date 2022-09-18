@@ -13,7 +13,6 @@ title = "११ इयमेव पृथिवी"
 This earth, verily becomes the jar, and heaven the cover of the Odana as it is cooking.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। एव। पृथिवी। कुम्भी। भवति। राध्यमानस्य। ओदनस्य। द्यौः। अपिऽधानम्। ३.११।

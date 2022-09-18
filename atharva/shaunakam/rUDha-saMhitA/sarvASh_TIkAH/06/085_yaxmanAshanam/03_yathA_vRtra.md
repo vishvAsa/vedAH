@@ -19,10 +19,9 @@ combines, in **a**, *vṛtrāi ’mā ’paḥ*.
 Even as Vritra checked and stayed these waters flowing every way, With Agni, God of all mankind. I check and banish thy Decline.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। वृत्र:। इमा:। आप:। तस्तम्भ। विश्वधा। यती:। एव। ते। अग्निना। यक्ष्मम्। वैश्वानरेण। वारये। ८५.३।
+यथा। वृत्रः। इमाः। आपः। तस्तम्भ। विश्वधा। यतीः। एव। ते। अग्निना। यक्ष्मम्। वैश्वानरेण। वारये। ८५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

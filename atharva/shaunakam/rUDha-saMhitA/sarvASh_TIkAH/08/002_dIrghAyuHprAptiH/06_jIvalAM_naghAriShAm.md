@@ -31,7 +31,6 @@ The long *ī* in *óṣadhīm* is expressly taught by Prāt. iii. 6;
 Here for sound health I invocate a living animating plant, Preserving, queller of disease, victorious, full of power and might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जीवलाम्। नघऽरिषाम्। जीवन्तीम्। ओषधीम्। अहम्। त्रायमाणाम्। सहमानाम्। सहस्वतीम्। इह। हुवे। अस्मै। अरिष्टऽतातये। २.६।

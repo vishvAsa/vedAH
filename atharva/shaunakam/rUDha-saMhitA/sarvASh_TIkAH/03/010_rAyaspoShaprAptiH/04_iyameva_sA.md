@@ -40,10 +40,9 @@ Ppp. ends **d** with *janitrīm.*—BR., v. 1538, give 'erst-gebärend' for
 This same is she whose light first dawned upon us: she moves established in the midst of others: Great powers and glories are contained within her: a first-born bride, she conquers and bears children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्त:। अस्याम्। महिमान:। अन्त:। वधू:। जिगाय। नवऽगत्। जनित्री। १०.४।
+इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्तः। अस्याम्। महिमानः। अन्तः। वधूः। जिगाय। नवऽगत्। जनित्री। १०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

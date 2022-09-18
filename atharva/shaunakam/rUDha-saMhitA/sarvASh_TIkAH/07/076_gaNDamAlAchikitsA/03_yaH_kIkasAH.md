@@ -42,10 +42,9 @@ Collation gives *talābhyam:* W. seems to take it as a slip for
 I have expelled and banished all Scrofula harboured in the head, And that which bores the breast-bone through, and that which settles in the sole.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। कीकसा:। प्रऽशृणाति। तलीद्यम्। अवऽतिष्ठति। नि:। हा:। तम्। सर्वम्। जायान्यम्। य:। क:। च। ककुदि। श्रित:। ८०.३।
+यः। कीकसाः। प्रऽशृणाति। तलीद्यम्। अवऽतिष्ठति। निः। हाः। तम्। सर्वम्। जायान्यम्। यः। कः। च। ककुदि। श्रितः। ८०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

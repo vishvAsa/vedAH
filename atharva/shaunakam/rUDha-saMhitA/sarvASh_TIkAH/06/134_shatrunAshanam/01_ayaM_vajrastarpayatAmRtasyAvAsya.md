@@ -31,10 +31,9 @@ and **c**.⌋
 This Thunderbolt shall take its fill of Order, scare life away and overthrow the kingdom. Tear necks in pieces. rend napes asunder, even as the Lord of Might the neck of Vritra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। वज्र:। तर्पयताम्। ऋतस्य। अव। अस्य। राष्ट्रम्। अप। हन्तु। जीवितम्। शृणातु। ग्रीवा:। प्र। शृणातु। उष्णिहा। वृत्रस्यऽइव। शचीऽपति:। १३४.१।
+अयम्। वज्रः। तर्पयताम्। ऋतस्य। अव। अस्य। राष्ट्रम्। अप। हन्तु। जीवितम्। शृणातु। ग्रीवाः। प्र। शृणातु। उष्णिहा। वृत्रस्यऽइव। शचीऽपतिः। १३४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

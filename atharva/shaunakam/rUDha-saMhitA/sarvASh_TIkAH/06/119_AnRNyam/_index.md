@@ -7,7 +7,6 @@ title = "११९ आनृण्यम्"
 119. For relief from guilt or obligation.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आनृण्यम्।  
@@ -19,8 +18,6 @@ title = "११९ आनृण्यम्"
 [Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. (in the verse-order 1, 3, 2). All the verses occur, b
 ### Translations
 Translated: Ludwig, p. 442; Griffith, i. 310.
 </details>
+

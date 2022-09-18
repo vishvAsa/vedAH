@@ -18,7 +18,6 @@ Ppp. reads *vas* instead of *u* in **c**.
 O Serpent, Indra hath destroyed the sire who first engendered thee: And when these snakes are pierced and bored what sap and vigour will be theirs?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रः। जघान। प्रथमम्। जनितारम्। अहे। तव। तेषाम्। ऊं इति। तृह्यमाणानाम्। कः। स्वित्। तेषाम्। असत्। रसः। ४.१८।

@@ -26,10 +26,9 @@ its text. \*⌊In the Corrections to vol. ii., p. 535⁵, SPP. suggests
 Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree with lightning flash, mine adversary in the game.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आदिनवम्। प्रतिऽदीव्ने। घृतेन। अस्मान्। अभि। क्षर। वृक्षम्ऽइव। अशन्या। जहि। य:। अस्मान्। प्रतिऽदीव्यति। ११४.४।
+आदिनवम्। प्रतिऽदीव्ने। घृतेन। अस्मान्। अभि। क्षर। वृक्षम्ऽइव। अशन्या। जहि। यः। अस्मान्। प्रतिऽदीव्यति। ११४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ noted.
 Come hither, to this place, O Cows: here thrive as though ye were manured. Even here increase and multiply; let us be friendly, you and me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। गाव:। आ। इतन। इहो  इति। शकाऽइव। पुष्यत। इह। एव। उत। प्र। जायध्वम्। मयि। सम्ऽज्ञानम्। अस्तु। व:। १४.४।
+इह। एव। गावः। आ। इतन। इहो  इति। शकाऽइव। पुष्यत। इह। एव। उत। प्र। जायध्वम्। मयि। सम्ऽज्ञानम्। अस्तु। वः। १४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

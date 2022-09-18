@@ -23,10 +23,9 @@ Ppp. puts this paragraph after our 26, and omits *rājā* after *somas* in
 She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devotion! hither. King Soma was her calf. the Moon her milk-pail. Brihaspati. Angirasa, her milker, Drew from her udder Prayer and Holy Fervour. Fervour and Prayer maintain the Seven Rishis. He who knows this becomes a meet supporter, a priest illustri- ous for his sacred knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्मात्। वनस्पतीनाम्। सम्ऽवत्सरे। वृक्णम्। अपि। रोहति। वृश्चते। अस्य। अप्रिय:। भ्रातृव्य:। य:। एवम्। वेद। १२.२।
+तस्मात्। वनस्पतीनाम्। सम्ऽवत्सरे। वृक्णम्। अपि। रोहति। वृश्चते। अस्य। अप्रियः। भ्रातृव्यः। यः। एवम्। वेद। १२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

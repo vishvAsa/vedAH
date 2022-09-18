@@ -21,7 +21,6 @@ with only slight variants: *tásmin* for *tátra* in **b** and **c**, and
 Rohita gave the Earth and Heavens their being. There Para- meshthin held the cord extended. Thereon reposeth Aja Ekapada. He with his might hath stab- lished Earth and Heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। द्यावापृथिवी। इति। जजान। तत्र। तन्तुम्। परमेऽस्थी। ततान। तत्र। शिश्रिये। अजः। एकऽपादः। अदृंहत्। द्यावापृथिवी इति। बलेन। १,६।

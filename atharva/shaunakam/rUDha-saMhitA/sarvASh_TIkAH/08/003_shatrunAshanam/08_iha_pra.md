@@ -22,10 +22,9 @@ at end of **b**, and *yaviṣṭhya* at end of **c**. ⌊Better, perhaps, in
 Here tell this forth, O Agni: whosoever is, he himself, or acteth as, a demon, Grasp him, O thou most youthful, with thy fuel: to the Man- Seer's eye give him as booty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। प्र। ब्रूहि। यतम:। स:। अग्ने। यातुऽधान:। य:। इदम्। कृणोति। तम्। आ। रभस्व। सम्ऽइधा। यविष्ठ। नृऽचक्षस:। चक्षुषे। रन्धय। एनम्। ३.८।
+इह। प्र। ब्रूहि। यतमः। सः। अग्ने। यातुऽधानः। यः। इदम्। कृणोति। तम्। आ। रभस्व। सम्ऽइधा। यविष्ठ। नृऽचक्षसः। चक्षुषे। रन्धय। एनम्। ३.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

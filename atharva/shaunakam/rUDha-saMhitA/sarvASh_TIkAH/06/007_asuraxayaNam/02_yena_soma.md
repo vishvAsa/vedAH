@@ -30,10 +30,9 @@ change of number ⌊in the verb⌋ from **a, b** to **c**; emendation to
 तेना॑ नो॒ अधि॑ वोचत ॥२॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। सोम। साहन्त्य। असुरान्। रन्धयासि। न:। तेन। न:। अधि। वोचत। ७.२।
+येन। सोम। साहन्त्य। असुरान्। रन्धयासि। नः। तेन। नः। अधि। वोचत। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

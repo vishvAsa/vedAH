@@ -26,10 +26,9 @@ meter is then in order—12 + 12: 12 + 11.⌋
 Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadvaja. Bound in the noose may he be doomed to trouble whoever mars this that our mind hath purposed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। देवा:। शृणुत। ये। यज्ञिया:। स्थ। भरत्-वाज:। मह्यम्। उक्थानि। शंसति। पाशे। स:। बध्द:। दु:ऽइते। नि। युज्यताम्। य:। अस्माकम्। मन:। इदम्। हिनस्ति। १२.२।
+इदम्। देवाः। शृणुत। ये। यज्ञियाः। स्थ। भरत्-वाजः। मह्यम्। उक्थानि। शंसति। पाशे। सः। बध्दः। दुःऽइते। नि। युज्यताम्। यः। अस्माकम्। मनः। इदम्। हिनस्ति। १२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

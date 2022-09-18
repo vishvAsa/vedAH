@@ -26,7 +26,6 @@ abhicikya*, and in **b** *kāmān samitāu purastāt*.
 All wishes that have blessed those with fulfilment, having won all the worlds have met together. Let them plunge in both stirring-spoon and ladle: raise this and set it in a single vessel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वान्। सम्ऽआगाः। अभिऽजित्य। लोकान्। यावन्तः। कामाः। सम्। अतीतृपः। तान्। वि। गाहेथाम्। आऽयवनम्। च। दर्विः। एकस्मिन्। पात्रे। अधि। उत्। हर। एनम्। ३.३६।

@@ -32,10 +32,9 @@ nothing in the hymn that demands or implies that character.
 Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offerings away for me the worshipper.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। अद्य। न:। अनुऽमति:। यज्ञम्। देवेषु। मन्यताम्। अग्नि:। च। हव्यऽवाहन: भवताम्। दाशुषे। मम। २१.१।
+अनु। अद्य। नः। अनुऽमतिः। यज्ञम्। देवेषु। मन्यताम्। अग्निः। च। हव्यऽवाहनः भवताम्। दाशुषे। मम। २१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

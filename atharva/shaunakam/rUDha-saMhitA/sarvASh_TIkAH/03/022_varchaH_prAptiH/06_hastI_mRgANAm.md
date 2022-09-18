@@ -25,7 +25,6 @@ elephant."
 Now hath the Elephant become chief of all pleasant beasts to ride. With his high fortune and his strength I grace and conscorate myself.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हस्ती। मृगाणाम्। सुऽसदाम्। अतिस्थाऽवान्। बभूव। हि। तस्य। भगेन। वर्चसा। अभि। सिञ्चामि। माम्। अहम्। २२.६।

@@ -22,10 +22,9 @@ acceptably.
 Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my curser, as a wolf the home of one who owneth sheep.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। प्र। अगात्। सहस्रऽअक्ष:। युक्त्वा। शपथ:। रथम्। शप्तारम्। अनुऽइच्छन्। मम। वृक:ऽइव। अविऽमत:। गृहम्। ३७.१।
+उप। प्र। अगात्। सहस्रऽअक्षः। युक्त्वा। शपथः। रथम्। शप्तारम्। अनुऽइच्छन्। मम। वृकःऽइव। अविऽमतः। गृहम्। ३७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

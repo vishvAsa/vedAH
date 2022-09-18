@@ -20,10 +20,9 @@ variants etc., see the note to that verse.
 Let not a thief or wicked man possess you: let not the dart of Rudra come anear you, Prolific, shining in the goodly pasture, drinking at pleasant pools the limpid water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽवती:। सुऽयवसे। रुशन्ती:। शुध्दा:। अप:। सुऽप्रपाने। पिबन्ती:। मा। व:। स्तेन:। ईशत। मा। अघऽशंस:। परि। व:। रुद्रस्य। हेति:। वृणक्तु। ७९.१।
+प्रजाऽवतीः। सुऽयवसे। रुशन्तीः। शुध्दाः। अपः। सुऽप्रपाने। पिबन्तीः। मा। वः। स्तेनः। ईशत। मा। अघऽशंसः। परि। वः। रुद्रस्य। हेतिः। वृणक्तु। ७९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

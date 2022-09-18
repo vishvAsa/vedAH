@@ -20,10 +20,9 @@ read *duṣkṛ́to* in **a**.
 Indra and Soma, plunge the wicked in the depth, yea, cast them into darkness that hath no support, So that not one of them may ever thence return: so may your wrathful might prevail and conquer them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। दु:ऽकृत:। वव्रे। अन्त:। अनारम्भणे। तमसि। प्र। विध्यतम्। यत:। न। एषाम्। पुन:। एक:। चन। उत्ऽअयत्। तत्। वाम्। अस्तु। सहसे। मन्युऽमत्। शव:। ४.३।
+इन्द्रासोमा। दुःऽकृतः। वव्रे। अन्तः। अनारम्भणे। तमसि। प्र। विध्यतम्। यतः। न। एषाम्। पुनः। एकः। चन। उत्ऽअयत्। तत्। वाम्। अस्तु। सहसे। मन्युऽमत्। शवः। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

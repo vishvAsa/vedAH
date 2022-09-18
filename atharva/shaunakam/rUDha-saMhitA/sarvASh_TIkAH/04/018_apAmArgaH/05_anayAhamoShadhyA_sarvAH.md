@@ -22,10 +22,9 @@ syllable in **d**.
 I with this Plant have ruined all malignant powers of witchery. The spell which they have laid upon thy field, thy cattle, or thy men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनया। अहम्। ओषध्या। सर्वा:। कृत्या:। अदूदुषम्। याम्। क्षेत्रे। चक्रु:। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १८.५।
+अनया। अहम्। ओषध्या। सर्वाः। कृत्याः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

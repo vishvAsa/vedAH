@@ -20,10 +20,9 @@ In **b**, lit'ly 'not make the man a woman.' Ppp. puts the *mā* after
 Pinga, preserve the babe at birth, make not the boy a female child. Let not Egg-eaters mar the germs: drive the Kimidins far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिङ्ग। रक्ष। जायमानम्। मा। पुमांसम्। स्त्रियम्। क्रन्। आण्डऽअद:। गर्भान्। मा। दभन्। बाधस्व। इत:। किमीदिन:। ६.२५।
+पिङ्ग। रक्ष। जायमानम्। मा। पुमांसम्। स्त्रियम्। क्रन्। आण्डऽअदः। गर्भान्। मा। दभन्। बाधस्व। इतः। किमीदिनः। ६.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

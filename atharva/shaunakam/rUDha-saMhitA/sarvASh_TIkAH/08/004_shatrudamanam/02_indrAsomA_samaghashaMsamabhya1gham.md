@@ -25,10 +25,9 @@ cf. *saṁ-yāsa*.⌋
 Let sin, Indra and Soma! round the wicked boil, like as a cald- ron set amid the flames of fire. Against the foe of prayer, eater of gory flesh, the fearful-eyed Kimidin, keep perpetual hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। सम्। अघऽशंसम्। अभि। अघम्। तपु:। ययस्तु। चरु:। अग्निमान्ऽइव। ब्रह्मद्विषे। क्रव्यऽअदे। घोरऽचक्षसे। द्वेष:। धत्तम्। अनवायम्। किमीद‍िने। ४.२।
+इन्द्रासोमा। सम्। अघऽशंसम्। अभि। अघम्। तपुः। ययस्तु। चरुः। अग्निमान्ऽइव। ब्रह्मद्विषे। क्रव्यऽअदे। घोरऽचक्षसे। द्वेषः। धत्तम्। अनवायम्। किमीद‍िने। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

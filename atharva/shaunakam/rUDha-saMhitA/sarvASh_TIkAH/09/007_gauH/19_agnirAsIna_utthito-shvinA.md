@@ -18,7 +18,6 @@ restoration of the *a* of *aśvínā*.
 Sitting he is Agni, when he hath stood up he is the Asvins.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। आसीनः। उत्थितः। अश्विना। १२.१९।

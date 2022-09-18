@@ -23,7 +23,6 @@ defaced in Ppp.⌋
 Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation paid to Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। अक्रव्यऽअत्। निः। क्रव्यऽअदम्। नुद। आ। देवऽयजनम्। वह। २.४२।

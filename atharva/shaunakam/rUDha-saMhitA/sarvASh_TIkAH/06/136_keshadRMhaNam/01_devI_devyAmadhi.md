@@ -20,10 +20,9 @@ far down" (*nyakprasaraṇaśīlā*, comm.).
 Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, Nitatni! dig thee up to strengthen and fix fast the hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवी। देव्याम्। अधि। जाता। पृथिव्याम्। असि। ओषधे। ताम्। त्वा। निऽतत्नि। केशेभ्य:। दृंहणाय। खनामसि। १३६.१।
+देवी। देव्याम्। अधि। जाता। पृथिव्याम्। असि। ओषधे। ताम्। त्वा। निऽतत्नि। केशेभ्यः। दृंहणाय। खनामसि। १३६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

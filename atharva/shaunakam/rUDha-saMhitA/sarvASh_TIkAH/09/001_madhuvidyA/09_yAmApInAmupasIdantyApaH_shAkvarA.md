@@ -21,10 +21,9 @@ and the following one are lost in Ppp. The Anukr. ⌊seems to scan as 11 +
 On whom, well-fed, the Waters wait in worship, and steers and self-refulgent bulls attend her. For thee, for one like thee down pour the Waters, and cause desire and strength to rain upon thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। आऽपीनाम्। उपऽसीदन्ति। आप:। शाक्वरा:। कृषभा:। ये। स्वऽराज:। ते। वर्षन्ति। ते। वर्षयन्ति। तत्ऽविदे। कामम्। ऊर्जम्। आप:। १.९।
+याम्। आऽपीनाम्। उपऽसीदन्ति। आपः। शाक्वराः। कृषभाः। ये। स्वऽराजः। ते। वर्षन्ति। ते। वर्षयन्ति। तत्ऽविदे। कामम्। ऊर्जम्। आपः। १.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

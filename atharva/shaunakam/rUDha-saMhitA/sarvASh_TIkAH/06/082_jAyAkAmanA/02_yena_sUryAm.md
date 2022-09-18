@@ -20,10 +20,9 @@ In **b**, *aśvíno ”hátus* is perhaps better to be taken apart to
 Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the Asvins brought the bride Surya the child of Savitar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। सूर्याम्। सावित्रीम्। अश्विना। ऊहतु:। पथा। तेन। माम्। अब्रवीत्। भग:। जायाम्। आ। वहतात्। इति। ८२.२।
+येन। सूर्याम्। सावित्रीम्। अश्विना। ऊहतुः। पथा। तेन। माम्। अब्रवीत्। भगः। जायाम्। आ। वहतात्। इति। ८२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

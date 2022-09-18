@@ -31,10 +31,9 @@ The fifth *prapāṭhaka* also ends with this hymn.
 Still to thee ever will we bring oblation, as to a stabled horse, O Jatavedas. Joying in food and in the growth of riches may we thy servants, Agni, never suffer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वाहा। ते। सदम्। इत्। भरेम। अश्वायऽइव। तिष्ठते। जातऽवेद:। राय:। पोषेण। सम्। इषा। मदन्त:। मा। ते। अग्ने। प्रतिऽवेशा:। रिषाम। १५.८।
+विश्वाहा। ते। सदम्। इत्। भरेम। अश्वायऽइव। तिष्ठते। जातऽवेदः। रायः। पोषेण। सम्। इषा। मदन्तः। मा। ते। अग्ने। प्रतिऽवेशाः। रिषाम। १५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

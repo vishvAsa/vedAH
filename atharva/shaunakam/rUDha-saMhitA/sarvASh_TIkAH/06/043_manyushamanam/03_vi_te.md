@@ -23,10 +23,9 @@ have the false reading *múkhyān* in **b**, but SPP. also emends to
 We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yield thee to my will. to speak no more rebelli- ously.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। ते। हनव्याम्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवश:। न। ‍ वादिष:। मम। चित्तम्। उपऽआयसि। ४३.३।
+वि। ते। हनव्याम्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवशः। न। ‍ वादिषः। मम। चित्तम्। उपऽआयसि। ४३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

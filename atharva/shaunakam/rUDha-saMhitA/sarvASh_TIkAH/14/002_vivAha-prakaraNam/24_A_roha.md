@@ -23,7 +23,6 @@ below).
 Step on the skin and wait upon this Agni: he is the God who drives away all demons. Here bear thou children to this man thy husband: let this thy boy be happy in his birthnight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। रोह। चर्म। उप। सीद। अग्निम्। एषः। देवः। हन्ति। रक्षांसि। सर्वा। इह। प्रऽजाम्। जनय। पत्ये। अस्मै। सुऽज्यैष्ठ्यः। भवत्। पुत्रः। ते। एषः। २.२४।

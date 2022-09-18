@@ -26,10 +26,9 @@ corruption. Our **d** is nearly RV. viii. 48. 12 **d**.
 May he approving in return accord us wealth inexhaustible with store of children. Never may we be subject to his anger, but rest in his benevo- lence and mercy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। मन्यताम्। अनुऽमन्यमान:। प्रजाऽवन्तम्। रयिम्। अक्षीयमाणम्। तस्य। वयम्। हेडसि। मा। अपि। भूम। सुऽमृडीके। अस्य। सुऽमतौ। स्याम। २१.३।
+अनु। मन्यताम्। अनुऽमन्यमानः। प्रजाऽवन्तम्। रयिम्। अक्षीयमाणम्। तस्य। वयम्। हेडसि। मा। अपि। भूम। सुऽमृडीके। अस्य। सुऽमतौ। स्याम। २१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ with equal reason he might use it here for the *praśliṣṭa* of *nī̀ta* =
 Be his days ended, be he now departed, be he brought very near to death already, Out of Destruction's lap again I bring him, save him for life to last a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। क्षितऽआयु:। यदि। वा। पराऽइत:। यदि। मृत्यो:। अन्तिकम्। निऽइत:। एव। तम्। आ। हरामि। नि:ऽऋते:। उपस्थात्। अस्पार्शम्। एनम्। शतऽशारदाय। ११.२।
+यदि। क्षितऽआयुः। यदि। वा। पराऽइतः। यदि। मृत्योः। अन्तिकम्। निऽइतः। एव। तम्। आ। हरामि। निःऽऋतेः। उपस्थात्। अस्पार्शम्। एनम्। शतऽशारदाय। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

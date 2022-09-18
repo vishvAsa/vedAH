@@ -35,10 +35,9 @@ In our edition, the *e* of *manvé* at the beginning is broken off.
 You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away oppressors. Ye who protect the truthful in his battles, deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मन्वे। वाम्। मित्रावरुणौ। ऋतऽवृधौ। सऽचेतसौ। द्रुह्वण:। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथ:। भरेषु। तौ। न:। मुञ्चतम्। अंहस:। २९.१।
+मन्वे। वाम्। मित्रावरुणौ। ऋतऽवृधौ। सऽचेतसौ। द्रुह्वणः। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथः। भरेषु। तौ। नः। मुञ्चतम्। अंहसः। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

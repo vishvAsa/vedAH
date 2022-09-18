@@ -17,7 +17,6 @@ Here we are to make both elisions, in **a** and **b**.
 स वै दि॒ग्भ्योऽजायत॒ तस्मा॒द् दिशोऽजायन्त ॥३४॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। वै। दिक्ऽभ्यः। अजायत। तस्मात्। दिशः। अजायन्त। ७.६।

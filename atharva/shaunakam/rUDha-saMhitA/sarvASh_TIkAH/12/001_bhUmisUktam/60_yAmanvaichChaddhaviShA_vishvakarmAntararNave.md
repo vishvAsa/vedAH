@@ -22,7 +22,6 @@ casts no light on the strange and obscure meaning.
 Whom Visvakarman with oblation followed, when she was set in mid-air's billowy ocean A useful vessel, hid, when, for enjoyment, she was made mani- fest to those with mothers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। अनुऽऐच्छत्। हविषा। विश्वऽकर्मा। अन्तः। अर्णवे। रजसि। प्रऽविष्टाम्। भुमिष्यम्। पात्रम्। निऽहितम्। गुहा। यत्। आविः। भोगे। अभवत्। मातृमत्ऽभ्यः। १.६०।

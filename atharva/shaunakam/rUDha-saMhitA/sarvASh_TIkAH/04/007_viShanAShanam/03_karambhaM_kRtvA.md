@@ -54,10 +54,9 @@ easily confused in *nāgarī*.⌋
 When he hath made of thee a cake, broad, steaming, swelling up with fat, And even in hunger eaten thee, then gripe him not, thou hideous one!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-करम्भम्। कृत्वा। तिर्यम्। पीब:ऽपाकम्। उदारथिम्। क्षुधा। किल। त्वा। दुस्तनो  इति  दु:ऽतनो। जक्षिऽवान्। स:। न। रूरुप:। ७.३।
+करम्भम्। कृत्वा। तिर्यम्। पीबःऽपाकम्। उदारथिम्। क्षुधा। किल। त्वा। दुस्तनो  इति  दुःऽतनो। जक्षिऽवान्। सः। न। रूरुपः। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

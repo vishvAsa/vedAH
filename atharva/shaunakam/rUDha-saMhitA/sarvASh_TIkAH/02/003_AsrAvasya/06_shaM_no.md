@@ -26,10 +26,9 @@ similar treatise.
 Bless us the Waters! be the Plants auspicious! May Indra's thunderbolt drive off the demons. Far from us fall the shafts they shoot against us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। न:। भवन्तु। आप:। ओषधय:। शिवा:। इन्द्रस्य। वज्र:। अप। हन्तु। रक्षस:। आरात्। विऽसृष्टा:। इषव:। पतन्तु। रक्षसाम्। ३.६।
+शम्। नः। भवन्तु। आपः। ओषधयः। शिवाः। इन्द्रस्य। वज्रः। अप। हन्तु। रक्षसः। आरात्। विऽसृष्टाः। इषवः। पतन्तु। रक्षसाम्। ३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

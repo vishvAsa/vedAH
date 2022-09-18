@@ -22,10 +22,9 @@ Prāt. iii. 56.⌋
 The princes evermore behold that loftiest place where Vishnu is, Like an extended eye in heaven,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। विष्णो:। परमम्। पदम्। सदा। पश्यन्ति। सूरय:। दिविऽइव। चक्षु:। आऽततम्। २७.७।
+तत्। विष्णोः। परमम्। पदम्। सदा। पश्यन्ति। सूरयः। दिविऽइव। चक्षुः। आऽततम्। २७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

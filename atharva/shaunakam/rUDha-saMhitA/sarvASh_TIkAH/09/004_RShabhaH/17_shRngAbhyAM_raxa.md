@@ -21,10 +21,9 @@ accent *aghnyàs*.
 That Bull, the husband of the kine, pierces the demons with his horns, Banishes famine with his eye, and hears good tidings with his ears.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शृङ्गाभ्याम्। रक्ष:। ऋषति। अवर्तिम्। हन्ति। चक्षुषा। शृणोति। भद्रम्। कर्णाभ्याम्। गवाम्। य:। पति:। अघ्न्य:। ४.१७।
+शृङ्गाभ्याम्। रक्षः। ऋषति। अवर्तिम्। हन्ति। चक्षुषा। शृणोति। भद्रम्। कर्णाभ्याम्। गवाम्। यः। पतिः। अघ्न्यः। ४.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

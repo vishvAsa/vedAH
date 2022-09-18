@@ -20,10 +20,9 @@ tatsakāśāt*).
 Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean away, and all malignant stingy hags.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपामार्ग:। अप। मार्ष्टु। क्षेत्रियम्। शपथ:। च। य:। अप। अह। यातुऽधानी:। अप। सर्वा:। अराय्य:। १८.७।
+अपामार्गः। अप। मार्ष्टु। क्षेत्रियम्। शपथः। च। यः। अप। अह। यातुऽधानीः। अप। सर्वाः। अराय्यः। १८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

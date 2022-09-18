@@ -24,7 +24,6 @@ read *ní* just after it.⌋
 At his first death he goeth hence, asunder, in three separate parts. He goeth yonder with one part, with one he goeth yonder: here he sinketh downward with a third.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रथमेन। प्रऽभारेण। त्रेधा। विष्वङ्। वि। गच्छति। अदः। एकेन। गच्छति। अदः। एकेन। गच्छति। इह। एकेन। नि। सेवते। १०.३३।

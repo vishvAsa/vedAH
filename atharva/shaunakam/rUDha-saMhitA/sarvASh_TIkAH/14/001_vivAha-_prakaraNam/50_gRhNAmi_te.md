@@ -24,7 +24,6 @@ iii. 268; and Pischel, *Ved. Stud.* i. 202-216.⌋
 I take thy hand in mine for happy fortune that thou mayst reach old age with me thy consort, Gods, Aryaman, Bhaga, Savitar, Purandhi, have given thee to be my household's mistress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गृह्णामि। ते। सौभगऽत्वाय। हस्तम्। मया। पत्या। जरतऽअष्टिः। यथा। असः। भगः। अर्यमा। सविता। पुरम्ऽधिः। मह्मम्‌। त्वा। अदुः। गार्हऽपत्याय। देवाः। १.५०।

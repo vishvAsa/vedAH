@@ -20,10 +20,9 @@ Or *aṅśumant* means 'rich in rays,' Soma having its secondary sense of
 Bhaga hath lifted up this man, and Soma with his filaments, Indra and Agni, and the Gods the Maruts, raised him up to health.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। एनम्। भग:। अग्रभीत्। उत्। एनम्। सोम:। अंशुऽमान्। उत्। एनम्। मरुत:। देवा:। उत्। इन्द्राग्नी इति। स्वस्तये। १.२।
+उत्। एनम्। भगः। अग्रभीत्। उत्। एनम्। सोमः। अंशुऽमान्। उत्। एनम्। मरुतः। देवाः। उत्। इन्द्राग्नी इति। स्वस्तये। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

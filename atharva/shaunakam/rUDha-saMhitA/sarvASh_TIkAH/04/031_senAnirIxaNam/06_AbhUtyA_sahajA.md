@@ -23,10 +23,9 @@ Ppp. (*ebhibhūta utt-*) supports RV. The comm. explains *kratvā* in
 Twin-borne with power, destructive bolt of thunder the highest conquering might is thine, subduer! Be friendly to us in thy spirit, Manyu! O much-invoked, in shock of mighty battle!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽभूत्या। सहऽजा:। वज्र। सायक। सह:। बिभर्षि। सहऽभूते। उत्ऽतरम्। क्रत्वा। न:। मन्यो इति। सह। मेदी। एधि। महाऽधनस्य। पुरुऽहूत। सम्ऽसृजि। ३१.६।
+आऽभूत्या। सहऽजाः। वज्र। सायक। सहः। बिभर्षि। सहऽभूते। उत्ऽतरम्। क्रत्वा। नः। मन्यो इति। सह। मेदी। एधि। महाऽधनस्य। पुरुऽहूत। सम्ऽसृजि। ३१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

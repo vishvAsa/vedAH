@@ -29,7 +29,6 @@ true *śakvarī*.
 The purifier, shrinking from the Serpent, she who held fires that lie within the waters, Who gives as prey the God-blaspheming Dasyus, Earth choosing Indra for her Lord, not Vritra, hath clung to Sakra, to the Strong and Mighty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। अप। सर्पम्‌। विजमाना। विऽमृग्वरी। यस्याम्। आसन्। अग्नयः। ये। अप्ऽसु। अन्तः। परा। दस्यून्। ददती। देवऽपीयून्। इन्द्रम्। वृणाना। पृथिवी। न। वृत्रम्। शक्राय। दध्रे। वृषभाय। वृष्णे। १.३७।

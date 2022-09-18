@@ -24,10 +24,9 @@ ná*, and TA., yet worse, *nyémúr ín ná*. ⌊TA. has at the end, corruptly,
 Come hither, Indra, with bay steeds, joyous, with tails like pea- cock plumes. Let none impede thy way as fowlers stay the bird: pass o'er them as o'er desert lands.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। मन्द्रै:। इन्द्र। हरिऽभि:। याहि। मयूररोमऽभि:। मा। त्वा। के। चित्। वि। यमन्। विम्। न। पाशिन:। अति। धन्वऽइव। तान्। इहि। १२२.१।
+आ। मन्द्रैः। इन्द्र। हरिऽभिः। याहि। मयूररोमऽभिः। मा। त्वा। के। चित्। वि। यमन्। विम्। न। पाशिनः। अति। धन्वऽइव। तान्। इहि। १२२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

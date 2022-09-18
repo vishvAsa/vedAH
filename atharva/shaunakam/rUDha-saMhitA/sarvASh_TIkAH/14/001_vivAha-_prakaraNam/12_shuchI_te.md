@@ -21,7 +21,6 @@ Vulgata"!⌋
 Pure, as thou wentest, were thy wheels, breath was the axle pier- cing them. Surya advancing to her lord rode on the chariot of her heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुची इति। ते। चक्रे इति। यात्याः। विऽआनः। अक्षः। आऽहतः। अनः। मनस्मयम्। सूर्या। आ। अरोहत्। प्रऽयती। पतिम‌्। १.१२।

@@ -29,10 +29,9 @@ Scorpionis⌋.
 That which shines younder, like a roof resting on four walls, down on us,-- Therewith from out thy body we drive all the chronic malady,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अद:। यत्। अवऽरोचते। चतुष्पक्षम्ऽइव। छदि:। तेन। ते। सर्वम्। क्षेत्रियम्। अङ्गेभ्य:। नाशयामसि। ७.३।
+अदः। यत्। अवऽरोचते। चतुष्पक्षम्ऽइव। छदिः। तेन। ते। सर्वम्। क्षेत्रियम्। अङ्गेभ्यः। नाशयामसि। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ comm. quotes AB. viii. 21. 5 for śatānīka.
 This Ornament of Gold which Daksha's children bound, with benevolent thoughts, on Satanika, This do I bind on thee for life, for glory, for long life lasting through a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽबध्नन्। दाक्षायणा:। हिरण्यम्। शतऽअनीकाय। सुऽमनस्यमाना:। तत्। ते। बध्नामि। आयुषे। वर्चसे। बलाय। दीर्घायुऽत्वाय। शतऽशारदाय।
+यत्। आऽबध्नन्। दाक्षायणाः। हिरण्यम्। शतऽअनीकाय। सुऽमनस्यमानाः। तत्। ते। बध्नामि। आयुषे। वर्चसे। बलाय। दीर्घायुऽत्वाय। शतऽशारदाय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

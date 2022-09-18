@@ -21,7 +21,6 @@ combines *vā ’si* in **b**, and has the easier reading *pados* for
 Thou art a maid called Taudi, or Ghritachi is thy name. Thy place; Is underneath my foot. I take the poison-killing remedy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तौदी। नाम। असि। कन्या। घृताची। नाम। वै। असि। अधःऽपदेन। ते। पदम्। आ। ददे। विषऽदूषणम्। ४.२४।

@@ -23,10 +23,9 @@ by *varṣevarṣe prādurbhaviṣyantaḥ*. This "*jagatī*" is half *triṣṭ
 Each year come, friends to man, the tuneful Maruts, dwelling in spacious mansions, trooped together. Exhilarating, gladdening full of fiery heat, may they deliver us from binding bonds of sin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवत्सरीणा:। मरुत:। सुऽअर्का:। उरुऽक्षया:। सऽगणा:। मानुषास:। ते। अस्मत्। पाशान्। प्र। मुञ्चन्तु। एनस:। साम्ऽतपना:। मत्सरा:। मादयिष्णव:। ८२.३।
+सम्ऽवत्सरीणाः। मरुतः। सुऽअर्काः। उरुऽक्षयाः। सऽगणाः। मानुषासः। ते। अस्मत्। पाशान्। प्र। मुञ्चन्तु। एनसः। साम्ऽतपनाः। मत्सराः। मादयिष्णवः। ८२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

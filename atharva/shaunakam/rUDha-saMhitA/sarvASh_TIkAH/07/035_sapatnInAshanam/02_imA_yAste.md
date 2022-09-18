@@ -20,10 +20,9 @@ the *dhamanīs* the large vessels.
 Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमा:। या:। ते। शतम्। हिरा:। सहस्रम्। धमनी:। उत। तासाम्। ते। सर्वासाम्। अहम्। अश्मना। बिलम्। अपि। अधाम्। ३६.२।
+इमाः। याः। ते। शतम्। हिराः। सहस्रम्। धमनीः। उत। तासाम्। ते। सर्वासाम्। अहम्। अश्मना। बिलम्। अपि। अधाम्। ३६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

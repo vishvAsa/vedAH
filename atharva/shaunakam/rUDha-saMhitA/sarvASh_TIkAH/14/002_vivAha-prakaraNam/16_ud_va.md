@@ -24,7 +24,6 @@ journey.
 So let your wave bear up the pins, and ye, O Waters, spare the thongs; And never may the holy pair, sinless and innocent, suffer harm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। वः। ऊर्मिः। शम्याः। हन्तु। आपः। योक्त्राणि। मुञ्चत। मा। अदुःऽकृतौ। विऽएनसौ। अघ्न्यौ। अशुनम्। आ। अरताम्। १.१६।

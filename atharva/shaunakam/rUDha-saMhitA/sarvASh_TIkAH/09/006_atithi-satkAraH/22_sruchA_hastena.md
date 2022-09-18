@@ -20,7 +20,6 @@ hastena*.
 With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with exclamation of Vashat!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्रुचा। हस्तेन। प्राणे। यूपे। स्रुक्ऽकारेण। वषट्ऽकारेण। ७.५।

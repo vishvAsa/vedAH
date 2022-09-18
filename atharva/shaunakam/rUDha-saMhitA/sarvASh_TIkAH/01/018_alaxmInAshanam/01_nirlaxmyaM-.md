@@ -28,10 +28,9 @@ R.). In our edition, dele the accent-mark under *tā-* of *tā́ni* in
 We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our children then! We chase Malignity away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-‍नि:। लक्ष्म्यम्। ललाम्यम्। नि:। अरातिम्। सुवामसि। अथ। या। भद्रा। तानि। न:। प्रऽजायै। अरातिम्। नयामसि।
+‍निः। लक्ष्म्यम्। ललाम्यम्। निः। अरातिम्। सुवामसि। अथ। या। भद्रा। तानि। नः। प्रऽजायै। अरातिम्। नयामसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

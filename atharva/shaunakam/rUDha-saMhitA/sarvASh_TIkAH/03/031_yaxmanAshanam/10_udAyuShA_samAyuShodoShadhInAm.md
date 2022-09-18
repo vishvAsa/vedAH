@@ -23,7 +23,6 @@ is to be understood from vs. 11.
 Rise up with life, conjoined with life. Up, with the sap of growing plants! I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। आयुषा। सम्। आयुषा। उत्। ओषधीनाम्। रसेन। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१०।

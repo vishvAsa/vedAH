@@ -17,10 +17,9 @@ title = "२३ मधुमान् भवति"
 Sweet is the man, sweet are his goods and chattels: he who knows this conquers the worlds of sweetness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मधुऽमान्। भवति। मधुऽमत्। अस्य। आऽहार्यम्। भवति। मधुऽमत:। लोकान्। जयति। य:। एवम्। वेद। १.२३।
+मधुऽमान्। भवति। मधुऽमत्। अस्य। आऽहार्यम्। भवति। मधुऽमतः। लोकान्। जयति। यः। एवम्। वेद। १.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

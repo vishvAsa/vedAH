@@ -19,7 +19,6 @@ The Anukr. chooses to reject the common resolution *-bhi-as* (twice) in
 Worship to thee springing to life, and worship unto thee when born! Worship, O Cow, to thy tail-hair, and to thy hooves, and to thy form!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। जायमानायै। जातायै। उत। ते। नमः। बालेभ्यः। शफेभ्यः। रूपाय। अघ्न्ये। ते। नमः। १०.१।

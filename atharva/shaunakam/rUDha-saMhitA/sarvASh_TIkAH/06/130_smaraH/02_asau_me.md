@@ -24,10 +24,9 @@ love is sought.⌋
 I pray, may he remember me, think of me, loving and beloved. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असौ। मे। स्मरतात्। इति। प्रिय:। मे। स्मरतात्। इति। देवा:। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.२।
+असौ। मे। स्मरतात्। इति। प्रियः। मे। स्मरतात्। इति। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

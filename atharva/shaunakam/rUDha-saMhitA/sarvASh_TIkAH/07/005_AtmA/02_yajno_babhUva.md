@@ -25,10 +25,9 @@ last pāda. The Anukr. overlooks the metrical deficiency of **a**.
 Sacrifice was, was manifest among us: it sprang to life and then in time grew stronger. Then it became thedeities' lord and ruler: may it bestow on us abundant riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञ:। बभूव। स:। आ। बभूव। स:। प्र। जज्ञे। स:। ऊं  इति। ववृधे। पुन:। स:। देवानाम्। अधिऽपति:। बभूव। स:। अस्मासु। द्रविणम्। आ। दधातु। ५.२।
+यज्ञः। बभूव। सः। आ। बभूव। सः। प्र। जज्ञे। सः। ऊं  इति। ववृधे। पुनः। सः। देवानाम्। अधिऽपतिः। बभूव। सः। अस्मासु। द्रविणम्। आ। दधातु। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,7 +27,6 @@ bhurih sāmny anuṣṭubh; 42. āsurī bṛhatī; 43. sāmnī bṛhatī; 44.
 The Brahman's cow when eaten cuts off the injurer of Brahmans both from this world and from the world yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अशिता। लोकात्। छिनत्ति। ब्रह्मऽगवी। ब्रह्मऽज्यम्। अस्मात्। च। अमुष्मात्। च। ८.११।

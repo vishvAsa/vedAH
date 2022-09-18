@@ -21,10 +21,9 @@ apparently intensifies it.
 No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then what is that small thing thou so viciously bearest in thy tail?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। ते। बाह्वो:। बलम्। अस्ति। न। शीर्षे। न। उत। मध्यत:। अथ। किम्। पापया। अमुया। पुच्छे। बिभर्षि। अर्भकम्। ५८.६।
+न। ते। बाह्वोः। बलम्। अस्ति। न। शीर्षे। न। उत। मध्यतः। अथ। किम्। पापया। अमुया। पुच्छे। बिभर्षि। अर्भकम्। ५८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

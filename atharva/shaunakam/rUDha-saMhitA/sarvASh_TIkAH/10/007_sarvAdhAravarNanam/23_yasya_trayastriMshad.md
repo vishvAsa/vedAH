@@ -17,7 +17,6 @@ that treasure, which, O gods, ye defend, who at present knoweth?
 Whose secret treasure evermore the three-and thirty Gods protect? Who knoweth now the treasure which, O Deities ye watch and guard?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। त्रयःऽत्रिंशत्। देवाः। निऽधिम्। रक्षन्ति। सर्वदा। निऽधिम्। तम्। अद्य। कः। वेद। यम्। देवाः। अभिऽरक्षथ। ७.२३।

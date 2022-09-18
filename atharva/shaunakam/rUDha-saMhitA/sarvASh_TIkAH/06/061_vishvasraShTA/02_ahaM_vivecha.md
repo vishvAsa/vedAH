@@ -29,10 +29,9 @@ kṛtavān asmi*).
 I set the heaven and the earth asunder, I brought all seven sea- sons into being. My word is truth, what I deny is falsehood, above celestial Vak, above the nations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। विवेच। पृथिवीम्। उत। द्याम्। अहम्। ऋतन्। अजनयम्। सप्त। साकम्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। अहम्। दैवीम्। परि। वाचम्। विश:। च। ६१.२।
+अहम्। विवेच। पृथिवीम्। उत। द्याम्। अहम्। ऋतन्। अजनयम्। सप्त। साकम्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। अहम्। दैवीम्। परि। वाचम्। विशः। च। ६१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

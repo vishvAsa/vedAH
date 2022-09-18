@@ -21,10 +21,9 @@ equivalent to another.
 This Agni hath bewildered all the senses that were in your hearts: Now let him blast you from your home, blast you away from every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। अग्नि:। अमूमुहत्। यानि। चित्तानि। व:। हृद‍ि। वि। व:। धमतु। ओकस:। प्र। व:। धमतु। सर्वत:। २.२।
+अयम्। अग्निः। अमूमुहत्। यानि। चित्तानि। वः। हृद‍ि। वि। वः। धमतु। ओकसः। प्र। वः। धमतु। सर्वतः। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

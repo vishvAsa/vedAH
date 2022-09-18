@@ -7,7 +7,6 @@ title = "०१० आत्मा"
 10. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -19,8 +18,6 @@ title = "०१० आत्मा"
 
 [Brahman.—aṣṭāviṅśakam . govirāḍadhyātmadāivatyam (23. māitrāvaruṇī). trāiṣṭubham: 1, 7, 14, 17, 18. jagatī; 21. 5-p. atiśakvarī; 24. 4-p. puraskṛtir bhurig atijagatī; 2, 26, 27. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: as AV. hymn, by Henry, 110, 150; Griffith, i. 464.—For other trans
 
 Continuation of Hymn 9
 </details>
+

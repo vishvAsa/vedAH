@@ -22,10 +22,9 @@ peculiar **d**: *parājitā yantu paramāṁ parāvatam*. Certain of our mss.
 For spoil let Varuna and Manyu give us the wealth of both sides gathered and collected; And let our enemies with stricken spirits, o'er-whelmed with. terror, sling away defeated.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽसृष्टम्। धनम्। उभयम्। सम्ऽआकृतम्। अस्मभ्यम्। धत्ताम्। वरुण:। च। मन्यु:। भिय:। दधाना:। हृदयेषु। शत्रव:। पराजितास:। अप। नि। लयन्ताम्। ३१.७।
+सम्ऽसृष्टम्। धनम्। उभयम्। सम्ऽआकृतम्। अस्मभ्यम्। धत्ताम्। वरुणः। च। मन्युः। भियः। दधानाः। हृदयेषु। शत्रवः। पराजितासः। अप। नि। लयन्ताम्। ३१.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

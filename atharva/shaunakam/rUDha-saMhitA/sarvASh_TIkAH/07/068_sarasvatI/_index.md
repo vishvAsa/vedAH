@@ -7,7 +7,6 @@ title = "०६८ सरस्वती"
 68 (70, 71). Praise and prayer to Sarasvatī.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
@@ -18,8 +17,6 @@ title = "०६८ सरस्वती"
 
 [1-2. Caṁtāti.—dvyṛcam. sārasvatam. 1. anuṣṭubh; 2. triṣṭubh.—3. śaṁtāti.—sārasvatam. gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 26, 90; Griffith, i. 359.
 
 A prayer for children and prosperity
 </details>
+

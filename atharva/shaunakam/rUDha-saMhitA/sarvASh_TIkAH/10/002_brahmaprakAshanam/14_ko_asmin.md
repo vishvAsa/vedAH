@@ -19,7 +19,6 @@ ko amrtaṁ dadhāu*.
 What God, what only Deity placed sacrifice in Purusha? Who gave him truth and falsehood? Whence came Death and immortality?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मिन्। यज्ञम्। अदधात्। एकः। देवः। अधि। पुरुषे। कः। अस्मिन्। सत्यम्। कः। अनृतम्। कुतः। मृत्युः। कुतः। अमृतम्। २.१४।

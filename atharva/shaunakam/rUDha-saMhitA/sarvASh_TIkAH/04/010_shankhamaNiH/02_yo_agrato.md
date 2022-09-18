@@ -21,10 +21,9 @@ front of shining things, such as stars."
 Shell that wast born from out the sea, set at the head of things that shine! With thee we slay the Rakshasas and overcome voracious fiends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अग्रत:। रोचनानाम्। समुद्रात्। अधि। जज्ञिषे। शङ्खेन। हत्वा। रक्षांसि। अत्त्रिण:। वि। सहामहे। १०.२।
+यः। अग्रतः। रोचनानाम्। समुद्रात्। अधि। जज्ञिषे। शङ्खेन। हत्वा। रक्षांसि। अत्त्रिणः। वि। सहामहे। १०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

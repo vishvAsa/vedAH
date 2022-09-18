@@ -22,10 +22,9 @@ counting **b** as 10 and balancing it with the 12 of **c**⌋.
 Not even Vata is the peer of Kama, not Agni, Chandramas the Moon, nor Surya. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। वै। वात:। चन। कामम्। आप्नोति। न। अग्नि:। सूर्य:। न। उत। चन्द्रमा:। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.२४।
+न। वै। वातः। चन। कामम्। आप्नोति। न। अग्निः। सूर्यः। न। उत। चन्द्रमाः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

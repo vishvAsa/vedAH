@@ -21,7 +21,6 @@ is nearly 9 **d** above.⌋
 The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teeth of the completed year, may these deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। देवीः। पञ्च। प्रऽदिशः। ये। देवाः। द्वादश। ऋतवः। सम्ऽवत्सरस्य। ये। दंष्ट्रा। ते। नः। सन्तु। सदा। शिवाः। ८.२२।

@@ -7,7 +7,6 @@ title = "०१७ बलप्राप्तिः"
 17. For various gifts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०१७ बलप्राप्तिः"
 
 [Brahman.—saptarcam. prāṇāpānāyurdevatyam. ekāvasānam: 1-6. 1-p. āsurī triṣṭubh; 7. āsury uṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 180; Griffith, i. 61.
 
 A prayer to an amulet for health and strength
 </details>
+

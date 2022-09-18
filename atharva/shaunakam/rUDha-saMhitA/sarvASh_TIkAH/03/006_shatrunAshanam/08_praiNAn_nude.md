@@ -26,7 +26,6 @@ branch, and with vs. 7 made to float away.
 With mental power I drive them forth, drive them with intellect and charm. We banish and expel them with the branch of an Asvattha tree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। एनान्। नुदे। मनसा। प्र। चित्तेन। उत। ब्रह्मणा। प्र। एनान्। वृक्षस्‍य। शाखया। अश्वत्थस्य। नुदामहे। ६.८।

@@ -27,10 +27,9 @@ have been preferred.
 Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy name is Araru: thy sire is Yama; Varunani bare thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न। जीव :। असि। न। मृत:। देवानाम्। अमृतऽगर्भ:। असि। स्वप्न। वरुणानी। ते। माता। यम:। पिता। अररु:। नाम। असि। ४६.१।
+यः। न। जीव ः। असि। न। मृतः। देवानाम्। अमृतऽगर्भः। असि। स्वप्न। वरुणानी। ते। माता। यमः। पिता। अररुः। नाम। असि। ४६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ in the atmosphere (lightning), and on earth (sacrificial fire): the
 The second brother of this lovely Hotar, hoary with eld, is the voracious Lightning. The third is he whose back is balmed with butter. Here have I seen the King with seven male children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्य। वामस्य। पलितस्य। होतुः। तस्य। भ्राता। मध्यमः। अस्ति। अश्नः। तृतीयः। भ्राता। घृतऽपृष्ठः। अस्य। अत्र। अपश्यम्। विश्पतिम्। सप्तऽपुत्रम्। १४.१।

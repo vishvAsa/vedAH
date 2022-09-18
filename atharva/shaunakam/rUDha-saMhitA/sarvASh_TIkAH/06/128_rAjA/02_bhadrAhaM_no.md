@@ -22,10 +22,9 @@ the Nakṣatra-kalpa just cited).
 May we have weather fair at noon, May we have weather fair at eve, Fair weather when the morning breaks, fair weather when the night is come.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भद्रऽअहम्। न:। मध्यंदिने। भद्रऽअहम्। सायम्। अस्तु। न:। भद्रऽअहम्। न:। अह्नाम्। प्रात:। रात्री भद्रऽअहम्। अस्तु। न:। १२८.२।
+भद्रऽअहम्। नः। मध्यंदिने। भद्रऽअहम्। सायम्। अस्तु। नः। भद्रऽअहम्। नः। अह्नाम्। प्रातः। रात्री भद्रऽअहम्। अस्तु। नः। १२८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

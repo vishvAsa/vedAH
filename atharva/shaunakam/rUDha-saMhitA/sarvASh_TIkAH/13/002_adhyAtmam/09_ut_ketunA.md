@@ -22,7 +22,6 @@ has a curious **d**: *ādityāṣ putraṁ nāthagām abhayām atītā*.
 With lofty banner hath the God gone upward, and introduced the light, expelling darkness. He hath looked round on all the worlds, the Hero, the son of Aditi, Celestial Eagle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। केतुना। बृहता। देवः। आ। अगन्। अप। अवृक्। तमः। अभि। ज्योतिः। अश्रैत्। दिव्यः। सुऽपर्णः। सः। वीरः। वि। अख्यत्। अदितेः। पुत्रः। भुवनानि। विश्वा। 2.९।

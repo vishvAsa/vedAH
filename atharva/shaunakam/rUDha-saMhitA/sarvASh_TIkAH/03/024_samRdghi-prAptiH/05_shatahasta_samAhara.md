@@ -23,7 +23,6 @@ abundantly.'⌋
 O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither increase of the corn prepared and yet to be pre- pared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शतऽहस्त। सम्ऽआहर। सहस्रऽहस्त। सम्। किर। कृतस्य। कार्यस्य। च। इह। स्फातिम्। सम्ऽआवह। २४.५।

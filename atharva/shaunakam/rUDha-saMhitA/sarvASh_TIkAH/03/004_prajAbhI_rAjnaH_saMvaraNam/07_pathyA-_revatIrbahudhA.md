@@ -29,10 +29,9 @@ balihṛtas karat* (cf. RV. x. 173. 6 **c, d**).
 The Bounteous Paths in sundry forms and places, all in accord, have given thee room and comfort. Let all of these in concert call thee hither. Live thy tenth decade here, a strong kind ruler.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पथ्या:। रेवती:। बहुऽधा। विऽरूपा:। सर्वा:। सम्ऽगत्य। वरीय:। ते। अक्रन्। ता:। त्वा। सर्वा:। सम्ऽविदाना:। ह्वयन्तु। दशमीम्। उग्र:। सुऽमना:। वश। इह। ४.७।
+पथ्याः। रेवतीः। बहुऽधा। विऽरूपाः। सर्वाः। सम्ऽगत्य। वरीयः। ते। अक्रन्। ताः। त्वा। सर्वाः। सम्ऽविदानाः। ह्वयन्तु। दशमीम्। उग्रः। सुऽमनाः। वश। इह। ४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

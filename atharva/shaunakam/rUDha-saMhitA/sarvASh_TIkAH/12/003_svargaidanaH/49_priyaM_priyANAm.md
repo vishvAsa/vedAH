@@ -22,7 +22,6 @@ verse is used of 'the milch-cow etc.' north of the fire.
 To those we love may we do acts that please them. Away to darkness go all those who hate us! Cow, ox, and strength of every kind approach us! Thus let them banish death of human beings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रियम्। प्रियाणाम्। कृणवाम। तमः। ते। यन्तु। यतमे। द्विषन्ति। धेनुः। अनड्वान्। वयःऽवयः। आऽयत्। एव। पौरुषेयम्। अप। मृत्युम्। नुदन्तु। ३.४९।

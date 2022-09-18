@@ -20,7 +20,6 @@ Ppp. reads for **b** *yeṣa devās samāsate*, and has *apūanābhim* here in
 That man completely wins those worlds, both of the heavens and of the earth, Whoever pays the Hundredfold. Oblation with its golden light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। तान्। लोकान्। सम्। आप्नोति। ये। दिव्याः। ये। च। पार्थिवाः। हिरण्यऽज्योतिषम्। कृत्वा। यः। ददाति। शतऽओदनाम्। ९.६।

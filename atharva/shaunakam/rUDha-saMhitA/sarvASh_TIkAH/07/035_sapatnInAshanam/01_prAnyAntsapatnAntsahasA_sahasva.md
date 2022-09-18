@@ -25,10 +25,9 @@ The comm. explains *rāṣṭram* by *asmadīyaṁ janapadam*, and *enam* by
 Subdue with conquering might his other rivals, those yet unborn repel, O Jatavedas. For great felicity protect this kingdom, and in this man let all the Gods be joyful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। अन्यान्। सऽपत्नान्। सहसा। सहस्व। प्रति। अजातान्। जातऽवेद:। नुदस्व। इदम्। राष्ट्रम्। पिपृहि। सौभगाय। विश्वे। एनम्। अनु। मदन्तु। देवा:। ३६.१।
+प्र। अन्यान्। सऽपत्नान्। सहसा। सहस्व। प्रति। अजातान्। जातऽवेदः। नुदस्व। इदम्। राष्ट्रम्। पिपृहि। सौभगाय। विश्वे। एनम्। अनु। मदन्तु। देवाः। ३६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

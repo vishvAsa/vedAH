@@ -17,7 +17,6 @@ the Brahman-scather, eats him.
 Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth the oppressor of Brahmans.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। क्रव्यऽअत्। भूत्वा। ब्रह्मऽगवी। ब्रह्मऽज्यम्‌। प्रऽविश्य। अत्ति। ९.३।

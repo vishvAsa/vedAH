@@ -29,7 +29,6 @@ and from one another.
 Level the ways: go thitherward, O Agni. Make ready thou the Godward-leading pathways. By these our pious actions may we follow sacrifice dwelling in the seven-rayed heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽआचिनुष्व। अनुऽसंप्रयाहि। अग्ने। पथः। कल्पय। देवऽयानान्। एतैः। सुऽकृतैः। अनु। गच्छेम। यज्ञम्। नाके। तिष्ठन्तम्। अधि। सप्तऽरश्मौ। १.३६।

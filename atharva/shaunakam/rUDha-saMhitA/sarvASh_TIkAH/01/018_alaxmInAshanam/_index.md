@@ -7,7 +7,6 @@ title = "०१८ अलक्ष्मीनाशनम्"
 18. Against unlucky marks.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अलक्ष्मीनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१८ अलक्ष्मीनाशनम्"
 
 [Draviṇodas.—vāināyakam. ānuṣṭubham: 1. upariṣṭādvirāḍbrṛatT; 2. nicṛjjagatī; 3. virāḍāstārapan̄ktitriṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 411; Ludwig, p. 498; Geldner, Ved. Stud. i. 314; Griffith
 
 A charm to avert evil spirits of misfortune and to secure prosperity
 </details>
+

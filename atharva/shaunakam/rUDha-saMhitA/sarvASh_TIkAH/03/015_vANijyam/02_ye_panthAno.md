@@ -28,10 +28,9 @@ perhaps regards the two irregularities as balancing one another.
 The many paths which Gods are wont to travel, the paths which go between the earth and heaven, May they rejoice with me in milk and fatness that I may make rich profit by my purchase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पन्थान:। बहव:। देवऽयाना:। अन्तरा। द्यावापृथिवी इति। सम्ऽचरन्ति। ते। मा। जुषन्ताम्। पयसा। घृतेन। यथा। क्रीत्वा। धनम्। आऽहराणि। १५.२।
+ये। पन्थानः। बहवः। देवऽयानाः। अन्तरा। द्यावापृथिवी इति। सम्ऽचरन्ति। ते। मा। जुषन्ताम्। पयसा। घृतेन। यथा। क्रीत्वा। धनम्। आऽहराणि। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

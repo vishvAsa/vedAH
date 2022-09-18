@@ -25,10 +25,9 @@ scholar⌋ for it to govern.
 May Gods release from failing strength, thou Agni, from malignity! I free from every evil, from decline: I compass round with life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। देवा:। जरसा। अवृतन्। वि। त्वम्। अग्ने। अरात्या। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१।
+वि। देवाः। जरसा। अवृतन्। वि। त्वम्। अग्ने। अरात्या। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

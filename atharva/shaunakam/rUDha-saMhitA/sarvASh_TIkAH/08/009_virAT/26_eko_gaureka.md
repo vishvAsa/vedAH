@@ -23,10 +23,9 @@ Anukr. here says *kutaḥ*.⌋
 One is the Cow, one is the Single Spirit, one is the law, single are benedictions. The Spirit dwelling on the earth is single: the Single Season never is transcended.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एक:। गौ:। एक:। एकऽऋषि:। एकम्। धाम। एकऽधा। आऽशिष:। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतु:। न। अति। रिच्यते। ९.२६।
+एकः। गौः। एकः। एकऽऋषिः। एकम्। धाम। एकऽधा। आऽशिषः। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतुः। न। अति। रिच्यते। ९.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

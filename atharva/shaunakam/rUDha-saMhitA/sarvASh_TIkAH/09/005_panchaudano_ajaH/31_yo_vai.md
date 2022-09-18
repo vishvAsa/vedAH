@@ -27,10 +27,9 @@ place).
 The man who knows the season named the Scorching--the Goat Pafichaudana is this scorching season He lives himself, he verily burns up his hated rival's fame, Who gives the Goat Panchaudana illumined with the priestly fee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। नैदाघम्। नाम। ऋतुम्। वेद। एष:। वै। नैदाघ:। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। नि:। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। दहति। भवति। आत्मना। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.३१।
+यः। वै। नैदाघम्। नाम। ऋतुम्। वेद। एषः। वै। नैदाघः। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। निः। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। दहति। भवति। आत्मना। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.३१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ into a *triṣṭubh* pāda.
 That army of our enemies, O Maruts, that comes against us with' its might, contending-- Meet ye and strike it with unwelcome darkness so that not one. of them may know another.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असौ। या। सेना। मरुत:। परेषाम्। अस्मान्। आऽएति। अभि। ओजसा। स्पर्धमाना। ताम्। विध्यत। तमसा। अपऽव्रतेन। यथा। एषाम्। अन्य:। अन्यम्। न। जानात्। २.६।
+असौ। या। सेना। मरुतः। परेषाम्। अस्मान्। आऽएति। अभि। ओजसा। स्पर्धमाना। ताम्। विध्यत। तमसा। अपऽव्रतेन। यथा। एषाम्। अन्यः। अन्यम्। न। जानात्। २.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

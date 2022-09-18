@@ -7,7 +7,6 @@ title = "०२९ अग्नाविष्णू"
 29 (30). To Agni and Vishṇu.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अग्नाविष्णू।  
@@ -18,8 +17,6 @@ title = "०२९ अग्नाविष्णू"
 
 [Medhātithi (?).—dvyṛcam. mantroktadāivatam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 374; Henry, 12, 65; Griffith, i. 341.
 
 To Agni and Vishnu
 </details>
+

@@ -25,7 +25,6 @@ sacrificial post in the ground.
 On the earth's breast stand firmly as supporter: may Deities stir thee who ne'er hast shaken. So living man and wife with living children remove thee from the hearth of circling Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 धर्ता। ध्रियस्व। धरुणे। पृथिव्याः। अच्युतम्। त्वा। देवताः। च्यवयन्तु। तम्। त्वा। दंपती इति दम्ऽपती। जीवन्तौ। जीवऽपुत्रौ। उत्। वासयातः। परि। अग्निऽधानात्। ३.३५।

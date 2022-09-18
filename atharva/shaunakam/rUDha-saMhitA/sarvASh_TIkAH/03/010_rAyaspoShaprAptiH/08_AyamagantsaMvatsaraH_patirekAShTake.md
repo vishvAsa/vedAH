@@ -21,10 +21,9 @@ with his former explanation.
 This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us children long to live, bless us with increase of our wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। सम्ऽवत्सर:। पति:। एकऽअष्टके। तव। सा। न:। आयुष्मतीम्। प्रऽजाम्। राय:। पोषेण। सम्। सृज। १०.८।
+आ। अयम्। अगन्। सम्ऽवत्सरः। पतिः। एकऽअष्टके। तव। सा। नः। आयुष्मतीम्। प्रऽजाम्। रायः। पोषेण। सम्। सृज। १०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

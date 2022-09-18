@@ -28,7 +28,6 @@ under vs. 17.⌋
 The man who hates us, Earth! who fights against us, who threaten us with thought or deadly weapon, make him our thrall as thou hast done aforetime.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। नः। द्वेषत्। पृथिवि। यः। पृतन्यात्। यः। अभिऽदासात्। मनसा। यः। वधेन। तम्। नः। भूमे। रन्धय। पूर्वऽकृत्वरि। १.१४।

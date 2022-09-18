@@ -7,7 +7,6 @@ title = "०१२ ऋतस्य यज्ञः"
 12. Āprī-hymn: to various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ऋतस्य यज्ञः।  
@@ -19,8 +18,6 @@ title = "०१२ ऋतस्य यज्ञः"
 [An̄giras.—ekādaśarcam. trāiṣṭubham, jātavedasam. 3. pan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The only variant in this verse is that MS. omits the peculiar and problematic ac
 
 An Apri or propitiatory hymn
 </details>
+

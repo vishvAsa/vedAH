@@ -25,10 +25,9 @@ not note that **b** is *jagatī*.
 Odana which Prajapati, the firstborn of Order, dressed with fervour for the Brahman, which guards the worlds from breaking atIthe centre,--I with this Odana will conquer Mrityu.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। ओदनम्। प्रथमऽजा:। ऋतस्य। प्रजाऽपति:। तपसा। ब्रह्मणे। अपचत्। य:। लोकानाम्। विऽधृति:। न। अभिऽरेषात्। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.१।
+यम्। ओदनम्। प्रथमऽजाः। ऋतस्य। प्रजाऽपतिः। तपसा। ब्रह्मणे। अपचत्। यः। लोकानाम्। विऽधृतिः। न। अभिऽरेषात्। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ their surroundings here.
 He goes into the womb of earth, he robes himself in heaven and air. He on the Bright One's station hath reached heavenly light and all the worlds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। वस्ते। गर्भम्। पृथिव्याः। दिवम्। वस्ते। अयम्। अन्तरिक्षम्। अयम्। ब्रध्नस्य। विष्टपि। स्वः। लोकान्। वि। आनशे। १.१६।

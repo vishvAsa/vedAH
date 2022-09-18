@@ -23,7 +23,6 @@ of *śāradam;* and in **c** *viśvaśāradam* instead of *śītaṁ rūram*.
 Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, intermittent, or autumnal, or continual.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तृतीयकम्। विऽतृतीयम्। सदम्ऽदिम्। उत। शारदम्। तक्मानम्। शीतम्। रूरम्। ग्रैष्मम्। नाशय। वार्षिकम्। २२.१३।

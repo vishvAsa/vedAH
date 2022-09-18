@@ -20,7 +20,6 @@ Ppp. is corrupt, mixing up our verses 6 and 7. It combines *pratīcīnā
 Against her comes the Angirasa, the Priest whose eye is over us. Turn back all witcheries and slay those practisers of magic arts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतीचीनः। अङ्गिरसः। अधिऽअक्षः। नः। पुरःऽहितः। प्रतीचीः। कृत्याः। आऽकृत्य। अमून्। कृत्याऽकृतः। जहि। १.६।

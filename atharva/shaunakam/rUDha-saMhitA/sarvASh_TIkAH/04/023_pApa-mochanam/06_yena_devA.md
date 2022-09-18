@@ -20,10 +20,9 @@ more probably it signifies immortality itself.
 Through whom the Gods discovered life eternal, through whom they stored the plants with pleasant juices, Through whom they brought to men the light of heaven. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। देवा:। अमृतम्। अनुऽअविन्दन्। येन। ओषधी:। मधुऽमती:। अकृण्वन्। येन। देवा:। स्व:। आऽअभरन्। स:। न:। मुञ्चतु। अंहस:। २३.६।
+येन। देवाः। अमृतम्। अनुऽअविन्दन्। येन। ओषधीः। मधुऽमतीः। अकृण्वन्। येन। देवाः। स्वः। आऽअभरन्। सः। नः। मुञ्चतु। अंहसः। २३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

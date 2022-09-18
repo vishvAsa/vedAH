@@ -7,7 +7,6 @@ title = "००४ दीर्घायुःप्राप्तिः"
 4. Against various evils: with a jan̄giḍá amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "००४ दीर्घायुःप्राप्तिः"
 
 [Atharvan.—ṣaḍṛcam. cāndramasam uta jan̄giḍadevatākam. ānuṣṭubham: 1. virāṭ prastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 140; Griffith, i. 45; Bloomfield, 37, 280; in part also
 
 A charm to ensure health and prosperity by wearing an amulet
 </details>
+

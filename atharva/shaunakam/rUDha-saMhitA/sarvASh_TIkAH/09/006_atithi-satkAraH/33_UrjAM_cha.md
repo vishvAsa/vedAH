@@ -18,10 +18,9 @@ Ppp. reads *payas* instead of *sphātim*.
 And the vigour and prosperity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊर्जाम्। च। वै। एष:। स्फातिम्। च। गृहाणाम्। अश्नाति। य:। पूर्व:। अतिथे:। अश्नाति। ८.३।
+ऊर्जाम्। च। वै। एषः। स्फातिम्। च। गृहाणाम्। अश्नाति। यः। पूर्वः। अतिथेः। अश्नाति। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

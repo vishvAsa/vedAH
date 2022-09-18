@@ -21,7 +21,6 @@ it were a change rung on 24 **a, b**.
 Discourse and conversation, and the shrill-resounding cries of woe, All entered in, the motives and the purposes combined there- with.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽलापाः। च। प्रऽलापाः। च। अभिलापऽलपः। च। ये। शरीरम्। सर्वे। प्र। अविशन्। आऽयुजः। प्रऽयुजः। युजः। १०.२५।

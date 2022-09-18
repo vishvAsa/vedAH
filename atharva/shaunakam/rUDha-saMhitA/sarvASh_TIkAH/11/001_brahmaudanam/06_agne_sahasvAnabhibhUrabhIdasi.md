@@ -22,7 +22,6 @@ three translators take it as nom.⌋.
 Strong art thou, Agni, conquering, all-surpassing. Crush down our foemen, ruin those who hate us. So let this measure, measured, being measured, make all our kin thy tributary vassals.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। सहस्वान्। अभिऽभूः। अभि। इत्। असि। नीचः। नि। उब्ज। द्विषतः। सऽपत्नान्। इयम्। मात्रा। मीयमाना। मिता। च। सऽजातान्। ते। बलिऽहृतः। कृणोतु। १.६।

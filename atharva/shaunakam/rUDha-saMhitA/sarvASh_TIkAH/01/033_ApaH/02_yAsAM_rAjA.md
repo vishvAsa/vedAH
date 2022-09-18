@@ -24,10 +24,9 @@ gives *-an j-* ⌊cf. note to i. 19.4⌋.
 They in the midst whereof King Varuna moveth, viewing men's righteous and unrighteous dealing. They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यासाम्। राजा। वरुण:। याति। मध्ये। सत्यानृते इति सत्यऽअनृते। अवऽपश्यन्। जनानाम्। या:। अग्निम्। गर्भम्। दधिरे। सुऽवर्णा:। ता:। न:। आप:। शम्। स्योना:। भवन्तु।
+यासाम्। राजा। वरुणः। याति। मध्ये। सत्यानृते इति सत्यऽअनृते। अवऽपश्यन्। जनानाम्। याः। अग्निम्। गर्भम्। दधिरे। सुऽवर्णाः। ताः। नः। आपः। शम्। स्योनाः। भवन्तु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

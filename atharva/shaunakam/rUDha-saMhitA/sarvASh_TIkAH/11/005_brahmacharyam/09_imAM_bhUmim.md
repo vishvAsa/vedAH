@@ -21,7 +21,6 @@ brahma kṛtvā samidhā upāsata*. 'Worships': i.e., as the comm. explains,
 The Brahmachari first of all brought hither this ample earth as alms, and heaven above it. He makes these twain two fuel-logs, and worships, On these sup- ported rest all living creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमाम्। भूमिम्। पृथिवीम्। ब्रह्मऽचारी। भिक्षाम्। आ। जभार। प्रथमः। दिवम्। च। ते इति। कृत्वा। सम्ऽइधौ। उप। आस्ते। तयोः। आर्पिता। भुवनानि। विश्वा। ७.९।

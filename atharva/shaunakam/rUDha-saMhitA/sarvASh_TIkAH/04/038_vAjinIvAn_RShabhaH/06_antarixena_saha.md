@@ -27,10 +27,9 @@ ignores the deficiency of a syllable in **b**.
 Together with the Air, O rich in treasure, guard here the white cow and the calf, O mighty! Here are abundant drops for thee, come hither! Here is thy white calf, let thy mind be with us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्तरिक्षेण। सह। वाजिनीऽवन्। कर्कीम्। वत्साम्। इह। रक्ष। वाजिन्। इमे। ते। स्तोका:। बहुला:। आ। इहि। अर्वाङ्। इयम्। ते। कर्की। इह। ते। मन:। अस्तु। ३८.६।
+अन्तरिक्षेण। सह। वाजिनीऽवन्। कर्कीम्। वत्साम्। इह। रक्ष। वाजिन्। इमे। ते। स्तोकाः। बहुलाः। आ। इहि। अर्वाङ्। इयम्। ते। कर्की। इह। ते। मनः। अस्तु। ३८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

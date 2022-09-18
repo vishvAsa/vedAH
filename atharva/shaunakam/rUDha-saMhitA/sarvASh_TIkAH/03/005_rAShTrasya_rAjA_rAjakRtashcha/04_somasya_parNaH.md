@@ -28,10 +28,9 @@ definition of the verse is wanting in the Anukr. mss.; we may call it a
 As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of Soma: This would I, brightly shining, love and cherish for long life lasting through a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमस्‍य। पर्ण:। सह:। उग्रम्। आ। अगन्। इन्द्रेण। दत्त:। वरुणेन। शिष्ट:। तम्। प्रियासम्। बहु। रोचमान:। दीर्घायुऽत्वाय। शतऽशारदाय। ५.४।
+सोमस्‍य। पर्णः। सहः। उग्रम्। आ। अगन्। इन्द्रेण। दत्तः। वरुणेन। शिष्टः। तम्। प्रियासम्। बहु। रोचमानः। दीर्घायुऽत्वाय। शतऽशारदाय। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

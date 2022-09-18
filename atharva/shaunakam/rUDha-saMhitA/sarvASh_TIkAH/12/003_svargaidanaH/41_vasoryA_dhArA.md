@@ -25,7 +25,6 @@ combines *-pā ’bh-* in **d**.
 Swollen with savoury meath, the stream of treasures, sources of immortality blent with fatness Soma retains all these; in sixty autumns the Guardian Lord of Treasures may desire them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वसोः। याः। धाराः। मधुना। प्रऽपीनाः। घृतेन। मिश्राः। अमृतस्य। नाभयः। सर्वाः। ताः। अव। रुन्धे। स्वःऽगः। षष्ट्याम्। शरत्ऽसु। निधिऽपाः। अभि। इच्छात्। ३.४१।

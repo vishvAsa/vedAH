@@ -7,7 +7,6 @@ title = "०५९ औषधिः"
 59. For protection to cattle.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 औषधिः।  
@@ -18,8 +17,6 @@ title = "०५९ औषधिः"
 
 [Atharvan ⌊?⌋.—rāudram uta mantroktadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 65, 163; Griffith, i. 277; Bloomfield, 144, 490.
 
 A charm to protect cattle and men
 </details>
+

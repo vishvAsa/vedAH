@@ -20,7 +20,6 @@ we must read *prati-ā́śrāvayati evá*. ⌊A hyphen is missing after the
 He (the door-keeper) pronounces the sacrificial formula in his answer to what he hears.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। प्रतिऽशृणोति। प्रतिऽआश्रावयति। एव। तत्। ११.२।

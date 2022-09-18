@@ -21,10 +21,9 @@ up, for love (*premṇā*), her foot with his foot."
 As the male elephant pursues with eager step his female's track, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon the calf.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। हस्ती। हस्तिन्या:। पदेन। पदम्। उत्ऽयुजे। यथा। पुंस:। वृषण्यत:। स्त्रियाम्। निऽहन्यते। मन:। एव। ते। अघ्न्ये। मन:। अधि। वत्से। नि। हन्यताम्। ७०.२।
+यथा। हस्ती। हस्तिन्याः। पदेन। पदम्। उत्ऽयुजे। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

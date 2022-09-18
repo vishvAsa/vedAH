@@ -23,10 +23,9 @@ anomalous form for *apiṅṣan*, with which the comm. glosses it.
 The men who brayed it, smeared it on, they who discharged it, sent it forth, All these are made emasculate, emasculate the poison-hill.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अपीषन्। ये। अदिहन्। ये। आस्यन्। ये। अवऽअसृजन्। सर्वे। ते। वध्रय:। कृता:। वध्रि:। विषऽगिरि:। कृत:। ६.७।
+ये। अपीषन्। ये। अदिहन्। ये। आस्यन्। ये। अवऽअसृजन्। सर्वे। ते। वध्रयः। कृताः। वध्रिः। विषऽगिरिः। कृतः। ६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

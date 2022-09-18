@@ -7,7 +7,6 @@ title = "०१९ पावमानम्"
 19. For ceremonial purification.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पावमानम्।  
@@ -18,8 +17,6 @@ title = "०१९ पावमानम्"
 
 [śamtāti.—nānādevatyam uta cāndramasam. gāyatram: 1. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 431; Florenz, 272 or 24; Griffith, i. 255.
 
 A prayer for purification
 </details>
+

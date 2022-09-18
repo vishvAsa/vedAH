@@ -7,7 +7,6 @@ title = "०२७ अरिष्टक्षयणम्"
 27. Against birds of ill omen.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
@@ -19,8 +18,6 @@ title = "०२७ अरिष्टक्षयणम्"
 [Bhṛgu.—yāmyam uta nāirṛtam. jāgatam: 2. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ RV. has precisely the same text in this verse. Ppp. begins with devaṣ k-. Some
 
 A charm to avert misfortune foreshown by the coming of a dove
 </details>
+

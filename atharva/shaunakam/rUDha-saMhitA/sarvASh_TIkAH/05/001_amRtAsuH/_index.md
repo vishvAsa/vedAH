@@ -7,7 +7,6 @@ title = "००१ अमृतासुः"
 1. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमृतासुः।  
@@ -18,8 +17,6 @@ title = "००१ अमृतासुः"
 
 [Bṛhaddiva Atharvan.—navakam. vāruṇam. trāiṣṭubham: 5. (?) parābṛhatī triṣṭubh; 7. virāj; 9. 3-av. 6-p. atyaṣṭi.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Ludwig, p. 394; Griffith, i. 187; Weber, xviii. 157.
 
 A glorification of Trita and Varuna
 </details>
+

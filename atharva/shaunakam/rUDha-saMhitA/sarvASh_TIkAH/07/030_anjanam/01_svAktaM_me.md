@@ -20,10 +20,9 @@ meter is plainly *anuṣṭubh*.
 Heaven, Earth, and Mitra here have caused mine eyes to be- anointed well, Savitar, Brahmanaspati take care that they be duly balmed!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽआक्तम्। मे। द्यावापृथिवी इति। सुऽआक्तम्। मित्र:। अक:। अयम्। सुऽआक्तम्। मे। ब्रह्मण:। पति:। सुऽआक्तम्। सविता। करत्। ३१.१।
+सुऽआक्तम्। मे। द्यावापृथिवी इति। सुऽआक्तम्। मित्रः। अकः। अयम्। सुऽआक्तम्। मे। ब्रह्मणः। पतिः। सुऽआक्तम्। सविता। करत्। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

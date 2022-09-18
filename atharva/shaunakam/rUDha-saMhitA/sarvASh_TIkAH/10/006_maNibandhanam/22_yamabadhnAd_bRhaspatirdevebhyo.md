@@ -25,7 +25,6 @@ d** (23, 24, 26, 27, 29, 30, 33, 35 being wanting in Ppp.).
 The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet here hath come to me combined with sap and energy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। रसेन। सह। वर्चसा। ६.२२।

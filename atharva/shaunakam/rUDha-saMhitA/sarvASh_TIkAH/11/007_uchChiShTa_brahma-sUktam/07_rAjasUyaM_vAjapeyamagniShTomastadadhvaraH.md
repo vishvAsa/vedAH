@@ -20,7 +20,6 @@ Ppp. has in **b** the preferable reading *tato ‘dhvaraḥ*.
 The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with living grass the Asvamedha, are therein,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 राजऽसूयम्। वाजऽपेयम्। अग्निऽस्तोमः। तत्। अध्वरः। अर्कऽअश्वमेधौ। उत्ऽशिष्टे। जीवऽबर्हिः। मदिन्ऽतमः। ९.७।

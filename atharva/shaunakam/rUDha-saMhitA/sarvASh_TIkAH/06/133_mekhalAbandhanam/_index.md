@@ -7,7 +7,6 @@ title = "१३३ मेखलाबन्धनम्"
 133. To a girdle: for long life etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मेखलाबन्धनम्।  
@@ -19,8 +18,6 @@ title = "१३३ मेखलाबन्धनम्"
 [Agastya.—pañcarcam. mekhalādevatākam. trāiṣṭubham: 1. bhūrij; 2, 5. anuṣṭubh; 4. jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. v. Used by Kāuś. (47. 14-15) in a rite of sorcery, with 
 ### Translations
 Translated: Ludwig, p. 432; Griffith, i. 319.
 </details>
+

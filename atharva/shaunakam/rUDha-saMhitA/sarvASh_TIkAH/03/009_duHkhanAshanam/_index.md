@@ -7,7 +7,6 @@ title = "००९ दुःखनाशनम्"
 9. Against viṣkandha and other evils.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःखनाशनम्।  
@@ -18,8 +17,6 @@ title = "००९ दुःखनाशनम्"
 
 [Vāmadeva.—dyāvāpṛthivīyam uta vāiśvadevam. ānuṣṭubham: 4. 4-p. nicṛd bṛhatī; 6. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 215; Griffith, i. 91; Bloomfield, 67, 339.
 
 A charm against rheumatism (vishkondha)
 </details>
+

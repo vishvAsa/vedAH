@@ -30,10 +30,9 @@ the stock-phrase in **c**, cf. Bloomfield, AJP. xvii. 419.⌋ The verse
 May we, fame-seekers, reach the world of virtue by service of the Gharma and through fervour, Whereby the Gods went up to heaven, the centre of life eternal, having left the body.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। देवा:। स्व:। आऽरुरुहु:। हित्वा। शरीरम्। अमृतस्य। नाभिम्। तेन। गेष्म। सुऽकृतस्य। लोकम्। घर्मस्य। व्रतेन। तपसा। यशस्यव:। ११.६।
+येन। देवाः। स्वः। आऽरुरुहुः। हित्वा। शरीरम्। अमृतस्य। नाभिम्। तेन। गेष्म। सुऽकृतस्य। लोकम्। घर्मस्य। व्रतेन। तपसा। यशस्यवः। ११.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

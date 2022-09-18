@@ -26,10 +26,9 @@ scanned by the Anukr. as 8 + 7: 8 + 11 = 34.
 Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet. Forth from thy loins and hips I draw Consumption setted in thy loins.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऊरुऽभ्याम्। ते। अष्ठीवत्ऽभ्याम्। पार्ष्णिऽभ्याम्। प्रऽपदाभ्याम्। यक्ष्मम्। भसद्यम्। श्रोणिऽभ्याम्। भासदम्। भंसस:। वि। वृहामि। ते। ३३.५।
+ऊरुऽभ्याम्। ते। अष्ठीवत्ऽभ्याम्। पार्ष्णिऽभ्याम्। प्रऽपदाभ्याम्। यक्ष्मम्। भसद्यम्। श्रोणिऽभ्याम्। भासदम्। भंससः। वि। वृहामि। ते। ३३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

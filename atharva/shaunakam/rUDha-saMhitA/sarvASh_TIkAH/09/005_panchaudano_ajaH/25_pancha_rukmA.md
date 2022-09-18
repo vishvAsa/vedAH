@@ -22,10 +22,9 @@ him his wishes who' etc.⌋
 The five gold pieces, and the five new garments, and the five milch-kine yield him all his wishes. Who gives the Goat Panchaudana illumined with a priestly fee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्च। रुक्मा। पञ्च। नवानि। वस्रा। पञ्च। अस्मै। धेनव:। कामऽदुघा:। भवन्ति। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२५।
+पञ्च। रुक्मा। पञ्च। नवानि। वस्रा। पञ्च। अस्मै। धेनवः। कामऽदुघाः। भवन्ति। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

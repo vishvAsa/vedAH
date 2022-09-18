@@ -27,10 +27,9 @@ the verse, *Ved. Stud.* ii. 73: cf. 66.⌋ ⌊Ppp. has *pravatāsasāda*.⌋
 Be reverence paid to him who, while exploring the path for many, first approached the river, Lord of this world of quadrupeds and bipeds; to him be rever- ence paid, to Death, to Yama!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। प्रथम:। प्रऽवतम्। आऽससाद। बहुऽभ्य:। पन्थाम्। अनुऽपस्पशान:। य:। अस्य। ईशे। द्विऽपद:। य:। चतु:ऽपद:। तस्मै। यमाय। नम:। अस्तु। मृत्यवे। २८.३।
+यः। प्रथमः। प्रऽवतम्। आऽससाद। बहुऽभ्यः। पन्थाम्। अनुऽपस्पशानः। यः। अस्य। ईशे। द्विऽपदः। यः। चतुःऽपदः। तस्मै। यमाय। नमः। अस्तु। मृत्यवे। २८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

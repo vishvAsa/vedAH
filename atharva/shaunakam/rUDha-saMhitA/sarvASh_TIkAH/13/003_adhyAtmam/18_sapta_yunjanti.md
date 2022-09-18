@@ -20,7 +20,6 @@ all give it in full here (as in the case of vs. 14 above).
 This seven make the one-wheeled chariot ready: bearing seven names the single courser draws it. The wheel, three-naved, is sound and undecaying: thereon these worlds of life are all dependent. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। युञ्जन्ति। रथम्। एकऽचक्रम्। एकः। अश्वः। वहति। सप्तऽनामा। त्रिऽनाभि। चक्रम्। अजरम्। अनर्वम्। यत्र। इमा। विश्वा। भुवना। अधि। तस्थुः। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१८।

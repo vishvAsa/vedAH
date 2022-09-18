@@ -26,10 +26,9 @@ vs. is misprinted.⌋
 He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspring and the world: the great Seven Rishis know this well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वेद। अनडुह:। दोहान्। सप्त। अनुपऽदस्वत:। प्रऽजाम्। च। लोकम्। च। आप्नोति। तथा। सप्तऽऋषय:। ११.९।
+यः। वेद। अनडुहः। दोहान्। सप्त। अनुपऽदस्वतः। प्रऽजाम्। च। लोकम्। च। आप्नोति। तथा। सप्तऽऋषयः। ११.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

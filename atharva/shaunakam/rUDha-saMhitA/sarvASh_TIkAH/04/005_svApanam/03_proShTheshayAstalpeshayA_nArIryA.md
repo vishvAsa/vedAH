@@ -25,10 +25,9 @@ further mars the meter of **c** by giving *-gandhās*.
 The woman sleeping in the court, lying without, or stretched on beds, The matrons with their odorous sweets--these, one and all, we lull to sleep.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रोष्ठेऽशया:। तल्पेऽशया:। नारी:। या:। वह्यऽशीवरी:। स्रिय:। या:। पुण्यऽगन्धय:। ता:। सर्वा:। स्वापयामसि। ५.३।
+प्रोष्ठेऽशयाः। तल्पेऽशयाः। नारीः। याः। वह्यऽशीवरीः। स्रियः। याः। पुण्यऽगन्धयः। ताः। सर्वाः। स्वापयामसि। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,10 +31,9 @@ note to vi. 32. 2.⌋ SPP., contrary to his usual practice, retains the
 Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless be ye, O enemies! Let Indra mangle you to-day.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽतन्वाना:। आऽयच्छन्त:। अस्यन्त:। ये। च। धावथ। नि:ऽहस्ता:। शत्रव:। स्थन। इन्द्र:। व:। अद्य। परा। अशरीत्। ६६.२।
+आऽतन्वानाः। आऽयच्छन्तः। अस्यन्तः। ये। च। धावथ। निःऽहस्ताः। शत्रवः। स्थन। इन्द्रः। वः। अद्य। परा। अशरीत्। ६६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

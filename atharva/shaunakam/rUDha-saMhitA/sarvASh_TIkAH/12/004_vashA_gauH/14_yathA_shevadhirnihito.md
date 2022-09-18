@@ -18,7 +18,6 @@ possession she is born.
 Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men come to visit her, with whomsoever she is born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। शेवऽधिः। निऽहितः। ब्राह्मणानाम्। तथा। वशा। ताम्। एतत्। अच्छऽआयन्ति। यस्मिन्। कस्मिन्। च। जायते। ४.१४।

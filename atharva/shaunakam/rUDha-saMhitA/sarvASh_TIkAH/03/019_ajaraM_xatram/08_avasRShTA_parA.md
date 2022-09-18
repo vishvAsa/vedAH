@@ -34,10 +34,9 @@ chiṣaḥ* (nearly as RV.). Correct the accent-mark in **d** so as to read
 Loosed from the bowstring fly away, thou Arrow, sharpened by our prayer. Assail the foemen, vanquish them, conquer each bravest man of theirs, and let not one of them escape.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अवऽसृष्टा। परा। पत। शरव्ये। ब्रह्मऽसंशिते। जय। अमित्रान्। प्र। पद्यस्व। जहि। एषाम्। वरम्ऽवरम्। मा। अमीषाम्। मोचि। क:। चन। १९.८।
+अवऽसृष्टा। परा। पत। शरव्ये। ब्रह्मऽसंशिते। जय। अमित्रान्। प्र। पद्यस्व। जहि। एषाम्। वरम्ऽवरम्। मा। अमीषाम्। मोचि। कः। चन। १९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

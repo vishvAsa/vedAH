@@ -25,10 +25,9 @@ iii. 10. 4, p. 135, 1. 4.⌋
 Indra, before affliction comes, I call thee from the wide expanse. The mighty guardian, born alone, wearer of many names, I call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। त्वा। इन्द्र। वरिमत:। पुरा। त्वा। अंहूरणात्। हुवे। ह्वयामि। उग्रम्। चेत्तारम्। पुरुऽनामानम्। एकऽजम्। ९९.१।
+अभि। त्वा। इन्द्र। वरिमतः। पुरा। त्वा। अंहूरणात्। हुवे। ह्वयामि। उग्रम्। चेत्तारम्। पुरुऽनामानम्। एकऽजम्। ९९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

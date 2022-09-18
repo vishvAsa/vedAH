@@ -24,10 +24,9 @@ demons and *piśācas* and the like. ⌊Whitney's M. reads *-jū́rvan.*⌋
 Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, from the mountains, seen of all, destroying things unseen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। सूर्य:। दिव:। एति। पुर:। रक्षांसि। निऽजूर्वन्। आदित्य:। पर्वतेभ्य:। विश्वऽदृष्ट:। अदृष्टऽहा। ५२.१।
+उत्। सूर्यः। दिवः। एति। पुरः। रक्षांसि। निऽजूर्वन्। आदित्यः। पर्वतेभ्यः। विश्वऽदृष्टः। अदृष्टऽहा। ५२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

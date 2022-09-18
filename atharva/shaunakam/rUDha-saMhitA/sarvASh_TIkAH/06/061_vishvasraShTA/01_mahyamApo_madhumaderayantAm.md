@@ -23,10 +23,9 @@ the deficiency of a syllable in **d**.
 The Waters send me what is sweet and pleasant, Sura bring all I need for light and vision! The deities, and all of pious nature, and Savitar the God afford me freedom!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मह्यम्। आप:। मधुऽमत्। आ। ईरयन्ताम्। मह्यम्। सुर:। अभरत्। ज्योतिषे। कम्। मह्यम्। देवा:। उत। विश्वे। तप:ऽजा:। मह्यम्। देव:। सविता। व्यच:। धात्। ६१.१।
+मह्यम्। आपः। मधुऽमत्। आ। ईरयन्ताम्। मह्यम्। सुरः। अभरत्। ज्योतिषे। कम्। मह्यम्। देवाः। उत। विश्वे। तपःऽजाः। मह्यम्। देवः। सविता। व्यचः। धात्। ६१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ tenā ’va rundhe. ⌊Then follows 20.⌋
 When he says, Bring out more, he lengthens his life thereby.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आह। भूय:। उत्। हर। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ७.२।
+यत्। आह। भूयः। उत्। हर। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

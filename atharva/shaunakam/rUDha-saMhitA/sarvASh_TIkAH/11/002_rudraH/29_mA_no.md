@@ -24,7 +24,6 @@ rudra rīriṣaḥ*. The comm. has *vakṣatas* in **b**. ⌊Ppp. has, for **b**
 Harm thou among us neither great nor little, not one who bears us, not our future bearers. Injure no sire among us, harm no mother. Forbear to injure our own bodies, Rudra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। महान्तम्। उत। मा। नः। अर्भकम्। मा। नः। वहन्तम्। उत। मा। नः। वक्ष्यतः। मा। नः। हिंसीः। पितरम्। मातरम्। च। स्वाम्। तन्वम्। रुद्र। मा। रिरिषः। नः। २.२९।

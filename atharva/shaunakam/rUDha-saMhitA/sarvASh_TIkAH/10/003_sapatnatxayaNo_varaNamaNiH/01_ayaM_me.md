@@ -23,7 +23,6 @@ which is also in later Skt. recognized as a form of the tree-name.
 Here is my charm the Varana, slayer of rivals, strong in act. With this grasp thou thine enemies, crush those who fain would injure thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। मे। वरणः। मणिः। सपत्नऽक्षयणः। वृषा। तेन। आ। रभस्व। त्वम्। शत्रून्। प्र। मृणीहि। दुरस्यतः। ३.१।

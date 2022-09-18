@@ -7,7 +7,6 @@ title = "११७ आनृण्यम्"
 117. For relief from guilt or debt.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आनृण्यम्।  
@@ -19,8 +18,6 @@ title = "११७ आनृण्यम्"
 [Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. The hymn ⌊not 1 cd, 2 cd⌋ occurs in TB. (iii. 7. 
 ### Translations
 Translated: Ludwig, p. 444; Griffith, i. 309.
 </details>
+

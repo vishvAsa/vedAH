@@ -20,10 +20,9 @@ reading *vām* for *aham* at end of **a**.
 I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by poets. To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असंतापे  इत्यसम्ऽतापे। सुऽतपसौ। हुवे। अहम्। उर्वी इति। गम्भीरे इति। कविऽभि:। नमस्ये३ इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। न:। मुञ्चतम्। अंहस:। २६.३।
+असंतापे  इत्यसम्ऽतापे। सुऽतपसौ। हुवे। अहम्। उर्वी इति। गम्भीरे इति। कविऽभिः। नमस्ये३ इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

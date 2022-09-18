@@ -21,10 +21,9 @@ ends **d** with *anucitāṁ jigāya.*
 He who, the first, approached the holy statutes makes, after, many beauteous forms and figures. Eager to drink, his birth-place first he entered who understands the word when yet unspoken.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। य:। धर्माणि। प्रथम:। ससाद। तत:। वपूंषि। कृणुषे। पुरूणि। धास्यु:। योनिम्। प्रथम:। आ। विवेश। आ। य:। वाचम्। अनुदिताम्। चिकेत। १.२।
+आ। यः। धर्माणि। प्रथमः। ससाद। ततः। वपूंषि। कृणुषे। पुरूणि। धास्युः। योनिम्। प्रथमः। आ। विवेश। आ। यः। वाचम्। अनुदिताम्। चिकेत। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

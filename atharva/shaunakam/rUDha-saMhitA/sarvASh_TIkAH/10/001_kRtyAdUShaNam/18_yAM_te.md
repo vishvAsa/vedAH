@@ -24,7 +24,6 @@ deficiency in **a** nor the redundancy in **d**.
 The charm or secret power which they have buried for thee in sacred grass, field, cemetery, Or spell in household fire which men more cunning have wrought against thee innocent and simple,--
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। ते। बर्हिष‍ि। याम्। श्मशाने। क्षेत्रे। कृत्याम्। वलगम्। वा। निऽचख्‍नुः। अग्नौ। वा। त्वा। गार्हऽपत्ये। अभिऽचेरुः। पाकम्। सन्तम्। धीरऽतराः। अनागसम्। १.१८।

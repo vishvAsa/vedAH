@@ -29,10 +29,9 @@ explains as *samardhayitre etannāmne devāya.*
 I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vidhatar, Fortune, to the lord of all existing things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋतुऽभ्य:। त्वा। आर्तवेभ्य:। मात्ऽभ्य:। सम्ऽवत्सरेभ्य:। धात्रे। विऽधात्रे। सम्ऽऋधे। भूतस्य। पतये। यजे। १०.१०।
+ऋतुऽभ्यः। त्वा। आर्तवेभ्यः। मात्ऽभ्यः। सम्ऽवत्सरेभ्यः। धात्रे। विऽधात्रे। सम्ऽऋधे। भूतस्य। पतये। यजे। १०.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -16,7 +16,6 @@ title = "१३ सर्वाण्यस्यां घोराणि"
 In her are all horrors and all death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वाणि। अस्याम्। घोराणि। सर्वे। च। मृत्यवः। ७.२।

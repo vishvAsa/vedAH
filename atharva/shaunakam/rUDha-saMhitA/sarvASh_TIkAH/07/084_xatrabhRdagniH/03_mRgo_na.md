@@ -26,10 +26,9 @@ first layers.
 Like a dread wild beast roaming on the mountain, may he. approach us from the farthest distance. Whetting thy bolt and thy sharp blade, O Indra, crush down our foes and scatter those who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मृग:। न। भीम:। कुचर:। गिरिऽस्था:। पराऽवत:। आ। जगम्यात्। परस्या:। सृकम्। सम्ऽशाय। पविम्। इन्द्र। तिग्मम्। वि। शत्रून्। ताढि। वि। मृध:। नुदस्व। ८९.३।
+मृगः। न। भीमः। कुचरः। गिरिऽस्थाः। पराऽवतः। आ। जगम्यात्। परस्याः। सृकम्। सम्ऽशाय। पविम्। इन्द्र। तिग्मम्। वि। शत्रून्। ताढि। वि। मृधः। नुदस्व। ८९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

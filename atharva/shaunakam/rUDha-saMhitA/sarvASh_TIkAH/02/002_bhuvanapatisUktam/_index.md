@@ -7,7 +7,6 @@ title = "००२ भुवनपतिसूक्तम्"
 2. To Gandharvas and Apsarases.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भुवनपतिसूक्तम्।  
@@ -18,8 +17,6 @@ title = "००२ भुवनपतिसूक्तम्"
 
 [Mātṛnāman.—gandharvāpsarodevatyam. trāiṣṭubham: 1. virāḍjagatī; 4. 3-p. virāṇnāmagāyatrī; 5. bhuriganuṣṭub.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 133; Griffith, i. 42; verses 3-5 also by Weber, Abh. Be
 
 A charm to ensure success in gambling
 </details>
+

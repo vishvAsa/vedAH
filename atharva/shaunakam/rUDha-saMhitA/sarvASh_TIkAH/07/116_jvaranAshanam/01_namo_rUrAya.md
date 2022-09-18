@@ -29,10 +29,9 @@ syllables.
 Homage to him the burning one, shaker, exciter, violent! Homage to him the cold who acts according to his ancient will!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। रूराय। च्यवनाय। नोदनाय। धृष्णवे। नम:। शीताय। पूर्वकामऽकृत्वने। १२१.१।
+नमः। रूराय। च्यवनाय। नोदनाय। धृष्णवे। नमः। शीताय। पूर्वकामऽकृत्वने। १२१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

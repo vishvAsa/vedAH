@@ -27,7 +27,6 @@ interprets the lightning to be intended.
 He who hath made him doth not comprehend him: from him who saw him surely he is hidden. He, yet enveloped in his mother's bosom, source of much life, hath sunk into destruction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ईम्‌। चकार। न। सः। अस्य। वेद। यः। ईम्। ददर्श। हिरुक्। इत्। नु। तस्मात्। सः। मातुः। योना। परिऽवीतः। अन्तः। बहुऽप्रजाः। निःऽऋतिः। आ। विवेश। १५.१०।

@@ -22,7 +22,6 @@ the bride's lap. The verse is a pure *triṣṭubh*. ⌊W. pencils the note
 Let many babes of varied form and nature spring in succession from this fruitful mother. Wait on this fire, thou bringer of good fortune. Here with thy husband serve the Gods with worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। तिष्ठ‌न्ताम्। मातुः। अस्याः। उपऽस्थात्। नानाऽरूपाः। पशवः। जायमानाः। सुऽमङ्गली। उप। सीद। इमम्। अग्निम्। सम्ऽपत्नी। प्रति। भूष। इह। देवान्। २.२५।

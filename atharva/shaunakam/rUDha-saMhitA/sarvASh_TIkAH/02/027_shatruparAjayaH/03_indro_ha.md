@@ -21,10 +21,9 @@ Weber; Grill, 'took thee into his arm.'
 Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine adversary's speech. Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। ह। चक्रे। त्वा। बाहौ। असुरेभ्य:। स्तरीतवे। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.३।
+इन्द्रः। ह। चक्रे। त्वा। बाहौ। असुरेभ्यः। स्तरीतवे। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

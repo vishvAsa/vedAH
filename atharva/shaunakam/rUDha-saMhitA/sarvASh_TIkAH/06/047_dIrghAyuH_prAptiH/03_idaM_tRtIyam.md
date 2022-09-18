@@ -26,10 +26,9 @@ vasīyo n-* in **d**.
 We pour this third libation of the Sages who fashioned forth the cup in proper order. Winners of heaven, may they, Sudhanvan's children, lead our fair sacrifice to happy fortune.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। तृतीयम्। सवनम्। कवीनाम्। ऋतेन। ये। चमसम्। ऐरयन्त। ते। सौधन्वना:। स्व:। आनशाना:। सुऽइष्टिम्। न:। अभि। वस्य:। नयन्तु। ४७.३।
+इदम्। तृतीयम्। सवनम्। कवीनाम्। ऋतेन। ये। चमसम्। ऐरयन्त। ते। सौधन्वनाः। स्वः। आनशानाः। सुऽइष्टिम्। नः। अभि। वस्यः। नयन्तु। ४७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

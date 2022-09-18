@@ -23,10 +23,9 @@ hardly belong together. The comm. explains *aparāddhas* by
 May he, Vaivasvata, prepare our portion; May he whose share is mead with mead besprinkle. Our sin in hasty mood against our mother, or guilt whereby a sire is wronged and angered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैवस्वत:। कृणवत्। भागऽधेयम्। मधुऽभाग:। मधुना। सम्। सृजाति। मातु:। यत्। एन:। इषितम्। न:। आऽअगन्। यत्। वा। पिता। अपऽराध्द:। जिहीडे। ११६.२।
+वैवस्वतः। कृणवत्। भागऽधेयम्। मधुऽभागः। मधुना। सम्। सृजाति। मातुः। यत्। एनः। इषितम्। नः। आऽअगन्। यत्। वा। पिता। अपऽराध्दः। जिहीडे। ११६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

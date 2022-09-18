@@ -36,7 +36,6 @@ simply a *triṣṭubh*.
 Not evil-eyed no slayer of thy husband, be strong, mild, kind, and gentle to thy household. Mother of heroes, love thy husband's father: be happy, and through thee may we too prosper.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघोरऽचक्षुः। अपतिऽघ्नी। स्योना। शग्मा। सुऽशेवा। सुऽयमा। गृहेभ्यः। वीरऽसूः। देवृऽकामा। सम्। त्वया। एधिषीमहि। सुऽमनस्यमाना। २.१७।

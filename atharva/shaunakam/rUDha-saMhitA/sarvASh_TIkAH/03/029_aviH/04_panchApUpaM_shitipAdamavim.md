@@ -21,7 +21,6 @@ somalokākhye sthāne.*
 He who bestows a white-hooved ram, adequate to the place he holds. Offered with five cakes, lives on that, unwasting, in the Fathers' world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। पितृणाम्। लोके। अक्षितम्। २९.४।

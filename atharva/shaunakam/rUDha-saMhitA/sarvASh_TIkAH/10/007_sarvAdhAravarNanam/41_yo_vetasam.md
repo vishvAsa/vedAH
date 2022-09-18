@@ -30,7 +30,6 @@ Scherman.
 He verily who knows the Reed of Gold that stands amid the flood, is the mysterious Lord of Life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। वेतसम्। हिरण्ययम्। तिष्ठन्तम्। सलिले। वेद। सः। वै। गुह्यः। प्रजाऽपतिः। ७.४१।

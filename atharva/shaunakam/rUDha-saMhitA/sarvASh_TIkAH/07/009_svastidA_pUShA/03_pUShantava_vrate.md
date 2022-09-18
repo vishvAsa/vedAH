@@ -21,10 +21,9 @@ authorities as reading *nā́* at beginning of **b**.
 We are thy praisers here, O Pushan: never let us be injured under thy protection.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूषन्। तव। व्रते। वयम्। न। रिष्येम। कदा। चन। स्तोतार:। ते। इह। स्मसि। १०.३।
+पूषन्। तव। व्रते। वयम्। न। रिष्येम। कदा। चन। स्तोतारः। ते। इह। स्मसि। १०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

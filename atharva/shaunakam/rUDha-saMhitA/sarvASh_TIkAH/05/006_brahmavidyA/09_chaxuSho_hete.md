@@ -23,10 +23,9 @@ regard it as included under the general definition "*trāiṣṭubham.*"⌋
 O missile of the eye, missile of spirit, thou missile of devotion and of fervour! Thou art the weapon shot against the weapon. Let those be weaponless who sin against us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-चक्षुष:। हेते। मनस:। हेते। ब्रह्मण:। हेते। तपस:। च। हेते। मेन्या:। मेनि:। असि। अमेनय:। ते। सन्तु। ये। अस्मान्। अभिऽअघायन्ति। ६.९।
+चक्षुषः। हेते। मनसः। हेते। ब्रह्मणः। हेते। तपसः। च। हेते। मेन्याः। मेनिः। असि। अमेनयः। ते। सन्तु। ये। अस्मान्। अभिऽअघायन्ति। ६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ the translators to give it aptness are to no purpose.
 As, when he mounts, the eagle strikes his pinions downward on the earth, So do I strike thy spirit down that thou mayst be in love with me, my darling, never to depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सुऽपर्ण:। प्रऽपतन्। पक्षौ। निऽहन्ति। भूम्याम्। एव। नि। हन्मि। ते। मन:। यथा। माम्। कामिनी। अस:। यथा। मत्। न। अपऽगा:। अस:। ८.२।
+यथा। सुऽपर्णः। प्रऽपतन्। पक्षौ। निऽहन्ति। भूम्याम्। एव। नि। हन्मि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

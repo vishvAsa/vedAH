@@ -19,10 +19,9 @@ the comm. undauntedly explains it by *amūṁ striyam*.
 That he may think of me, that I may never, never think of him,. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। मम। स्मरात्। असौ। न। अमुष्य। अहम्। कदा। चन। देवा:। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.३।
+यथा। मम। स्मरात्। असौ। न। अमुष्य। अहम्। कदा। चन। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

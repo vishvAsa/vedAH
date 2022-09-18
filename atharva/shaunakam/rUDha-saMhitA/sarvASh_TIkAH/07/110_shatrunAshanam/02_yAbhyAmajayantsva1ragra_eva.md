@@ -31,10 +31,9 @@ i. 109. 5⌋; the comm. gives it an alternative explanation: either
 Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the thunder, Through whom they won the light in the beginning, these who have made all worlds their habitation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याभ्याम्। अजयन्। स्व:। अग्रे। एव। यौ। आऽतस्थतु:। भुवनानि। विश्वा। प्रचर्षणी इति  प्रऽचर्षणी। वृषणा। वज्रबाहू इति वज्रऽबाहू। अग्निम्। इन्द्रम्। वृत्रऽहना। हुवे। अहम्। ११५.२।
+याभ्याम्। अजयन्। स्वः। अग्रे। एव। यौ। आऽतस्थतुः। भुवनानि। विश्वा। प्रचर्षणी इति  प्रऽचर्षणी। वृषणा। वज्रबाहू इति वज्रऽबाहू। अग्निम्। इन्द्रम्। वृत्रऽहना। हुवे। अहम्। ११५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

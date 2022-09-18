@@ -27,10 +27,9 @@ are the houses of Gandharvas and Apsarases.
 Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There where your swings are green and bright, and lutes and cymbals sound in tune, 'Ye have become attentive since the Apsarases have past away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्र। अश्वत्था:। न्यग्रोधा:। महाऽवृक्षा:। शिखण्डिन:। तत्। परा। इत। अप्सरस:। प्रतिऽबुध्दा:। अभूतन। ३७.४।
+यत्र। अश्वत्थाः। न्यग्रोधाः। महाऽवृक्षाः। शिखण्डिनः। तत्। परा। इत। अप्सरसः। प्रतिऽबुध्दाः। अभूतन। ३७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

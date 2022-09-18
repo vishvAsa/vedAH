@@ -24,7 +24,6 @@ reads *brāhmaṇā* at beginning of **b**⌋; and combines *yatkāme ‘dam* in
 Here I set singly in the hands of Brahmans these cleansed and. purifie d and holy Women, May Indra, Marut girt, grant me the blessing which as I sprinkle you, my heart desireth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुध्दाः। पूताः। योषितः। यज्ञियाः। इमाः। ब्रह्मणाम्। हस्तेषु। प्रऽपृथक्। सादयामि। यत्ऽकामः। इदम्। अभिऽसिञ्चामि। वः। अहम्। इन्द्रः। मरुत्वान्। सः। ददात्। इदम्। मे। १.२७।

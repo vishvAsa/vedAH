@@ -26,7 +26,6 @@ is done. The third pāda lacks a syllable, unless we may resolve
 Soon to be, decked with butter, all-embracing, come to this world wherewith birth unites thee. Seize thou the winnowing-fan which rains have nourished, and let this separate the chaff and refuse.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वऽव्यचाः। घृतऽपृष्ठः। भविष्यन्। सऽयोनिः। लोकम्। उप। याहि। एतम्। वर्षऽवृध्दम्। उप। यच्छ। शूर्पम्। तुषम्। पलावान्। अप। तत्। विनक्तु। ३.१९।

@@ -28,10 +28,9 @@ has the adverb *dhṛṣatā́*.⌋
 Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursting forward, March on, like flames of fire in form, exulting, with pointed arrows, sharpening their weapons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वया। मन्यो इति। सऽरथम्। आऽरुजन्त:। हर्षमाणा:। हृषितास:। मरुत्वन्। तिग्मऽइषव:। आयुधा। सम्ऽशिशाना:। उप। प्र। यन्तु। नर:। अग्निऽरूपा:। ३१.१।
+त्वया। मन्यो इति। सऽरथम्। आऽरुजन्तः। हर्षमाणाः। हृषितासः। मरुत्वन्। तिग्मऽइषवः। आयुधा। सम्ऽशिशानाः। उप। प्र। यन्तु। नरः। अग्निऽरूपाः। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

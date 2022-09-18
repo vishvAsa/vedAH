@@ -21,10 +21,9 @@ xxxiv. 456.⌋
 Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward, Adityas. Let not death reach him from the hands of brothers from hands of aliens, or of human beings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वे। देवा:। वसव:। रक्षत। इमम्। उत। आदित्या:। जागृत। यूयम्। अस्मिन्। मा। इमम्। सऽनाभि:। उत। वा। अन्यऽनाभि:। मा। इमम्। प्र। आपत्। पौरुषेय:। वध:। य:।
+विश्वे। देवाः। वसवः। रक्षत। इमम्। उत। आदित्याः। जागृत। यूयम्। अस्मिन्। मा। इमम्। सऽनाभिः। उत। वा। अन्यऽनाभिः। मा। इमम्। प्र। आपत्। पौरुषेयः। वधः। यः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ anupātayati*. Pāda **b** is deficient unless we read *va-jṛ-am*.
 Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending the shoulders of that man as Indra shattered Vritra's neck.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अश्नामि। बलम्। कुर्वे। इत्थम्। वज्रम्। आ। ददे। स्कन्धान्। अमुष्य। शातयन्। वृत्रस्यऽइव। शचीऽपति:। १३५.१।
+यत्। अश्नामि। बलम्। कुर्वे। इत्थम्। वज्रम्। आ। ददे। स्कन्धान्। अमुष्य। शातयन्। वृत्रस्यऽइव। शचीऽपतिः। १३५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,7 +27,6 @@ definition of the Anukr. suits well enough.
 In the priest's hands I lay, in separate order, the sweet celestial Waters, dropping fatness. As here I sprinkle them may all my wishes be granted unto me in perfect fulness. May we have ample wealth in our posses- sion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपः। देवीः। मधुऽमतीः। घृतऽश्चुतः। ब्रह्माणाम्। हस्तेषु। प्रऽपृथक्। सादयामि। यत्ऽकामः। इदम्। अभिऽसिञ्चामि। वः। अहम्। तत्। मे। सर्वम्। सम्। पद्यताम्। वयम्। स्याम। पतयः। रयीणाम्। ९.२७।

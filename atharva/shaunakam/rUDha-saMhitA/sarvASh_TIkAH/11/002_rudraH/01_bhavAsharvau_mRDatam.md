@@ -21,7 +21,6 @@ The comm. first explains *mā́* in **a** as if it were *mā*, object of
 Bhava and Sarva, spare us, be not hostile. Homage to you, twin Lords of beasts and spirits! Shoot not the arrow aimed and drawn against us: forbear to harm our quadrupeds and bipeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भवाशर्वौ। मृडतम्। मा। अभि। यातम्। भूतपती इति भूतऽपती। पशुपती इति पशुऽपती। नमः। वाम्। प्रतिऽहिताम्। आऽयताम्। मा। वि। स्राष्टम्। मा। नः। हिंसिष्टम्। द्विऽपदः। मा। चतुःऽपदः। २.१।

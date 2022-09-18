@@ -30,10 +30,9 @@ notes that *saṁbhṛta* contains a conscious allusion to *sambhala*, vs.
 As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God Dhatar's truthfulness I work the bridal oracle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमऽजुष्टम्। ब्रह्मऽजुष्टम्। अर्यम्णा। सम्ऽभृतम्। भगम्। धातु:। देवस्‍य। सत्येन। कृणोमि। पतिऽवेदनम्। ३६.२।
+सोमऽजुष्टम्। ब्रह्मऽजुष्टम्। अर्यम्णा। सम्ऽभृतम्। भगम्। धातुः। देवस्‍य। सत्येन। कृणोमि। पतिऽवेदनम्। ३६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "११२ पापनाशनम्"
 112 (117). For release from guilt and distress.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापनाशनम्।  
@@ -19,8 +18,6 @@ title = "११२ पापनाशनम्"
 [Varuṇa.—dvyṛcam. mantroktābdāivatam. ānuṣṭubham: 1. bhurij.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Used in Kāuś. (32.3) in a remedial rite, with vii. 29 etc.:
 ### Translations
 Translated: Henry, 44, 122; Griffith, i. 382.
 </details>
+

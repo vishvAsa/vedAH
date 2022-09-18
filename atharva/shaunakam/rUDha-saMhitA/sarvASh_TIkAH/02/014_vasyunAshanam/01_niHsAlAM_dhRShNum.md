@@ -32,10 +32,9 @@ compound; SPP. lets the division stand in his *pada*-text. Ppp. reads in
 Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sadanvas, and all progeny of Chanda we exterminate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:ऽसालाम्। धृष्णुम्। धिषणम्। एकऽवाद्याम्। जिघत्ऽस्वम्। सर्वा:। चण्डस्य। नप्त्य:। नाशयाम:। सदान्वा:। १४.१।
+निःऽसालाम्। धृष्णुम्। धिषणम्। एकऽवाद्याम्। जिघत्ऽस्वम्। सर्वाः। चण्डस्य। नप्त्यः। नाशयामः। सदान्वाः। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

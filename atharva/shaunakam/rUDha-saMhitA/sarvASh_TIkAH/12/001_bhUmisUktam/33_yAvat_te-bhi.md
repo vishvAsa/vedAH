@@ -22,7 +22,6 @@ iii. 10. i; 17. 4.⌋
 Long as, on thee, I look around, possessing Surya as a friend, So long, through each succeeding year, let not my power of vision fail.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यावत्। ते। अभि। विऽपश्यामि। भूमे। सूर्येण। मेदिना। तावत्। मे। चक्षुः। मा। मेष्ट। उत्तराम्ऽउत्तराम्। समाम्। १.३३।

@@ -7,7 +7,6 @@ title = "०९७ यज्ञः"
 97 (102). Accompanying an offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यज्ञः  
@@ -20,8 +19,6 @@ title = "०९७ यज्ञः"
 [Atharvan (yajñasampūrṇakāmaḥ*).—aṣṭarcam. mantroktāindrāgnam. trāiṣṭubham: 5. 3-p. ārcī bhurig gāyatrī; 6. 3-p. prājāpatyā bṛhatī; 7. 3-p. sāmnī bhurig jagatī; 8. upariṣṭād bṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ title = "०९७ यज्ञः"
 ### Translations
 Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 </details>
+

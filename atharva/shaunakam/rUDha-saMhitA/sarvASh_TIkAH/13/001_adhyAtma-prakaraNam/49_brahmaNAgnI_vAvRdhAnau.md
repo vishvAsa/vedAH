@@ -21,7 +21,6 @@ vs. 28 **b**.
 Both Agins-Rohita's who found the light of heaven--made strong by prayer, Waxing by prayer, adored with prayer, by prayer enkindled, sacrificed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मणा। अग्नी इति। ववृधानौ। ब्रह्मऽवृध्दौ। ब्रह्मऽआहुतौ। ब्रह्मऽइध्दौ। अग्नी इति। ईजाते इति। रोहितस्य। स्वःऽविदः। १.४९।

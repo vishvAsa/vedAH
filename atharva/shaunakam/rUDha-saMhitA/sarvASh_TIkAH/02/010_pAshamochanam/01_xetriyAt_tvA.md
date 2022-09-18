@@ -22,10 +22,9 @@ at the end *-thivī ’ha bhūtām.*
 From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I free and save thee. With spell and prayer I make thee pure and sinless: to thee be both, the Earth and Heaven, auspicious!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्षेत्रियात्। त्वा। नि:ऽऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.१।
+क्षेत्रियात्। त्वा। निःऽऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

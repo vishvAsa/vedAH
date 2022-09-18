@@ -23,10 +23,9 @@ ends with *vasema* and has for **b** *śivā varṣā abhayā śaran naḥ*.⌋
 Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy Season Give us our share of cattle and of Children. May we enjoy your unassailed protection.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ग्रीष्म:। हेमन्त:। शिशिर:। वसन्त:। शरत्। वर्षा:। सुऽइते। न:। दधात। आ। न:। गोषु। भजत। आ। प्रऽजायाम्। निऽवाते। इत्। व:। शरणे। स्याम। ५५.२।
+ग्रीष्मः। हेमन्तः। शिशिरः। वसन्तः। शरत्। वर्षाः। सुऽइते। नः। दधात। आ। नः। गोषु। भजत। आ। प्रऽजायाम्। निऽवाते। इत्। वः। शरणे। स्याम। ५५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

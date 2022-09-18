@@ -24,10 +24,9 @@ the contraction *ye ’mām*.⌋
 By the direction of that God we journey, he will seek means to save and he will free us; The God who hath engirt us with this Girdle, he who hath fast- ened it, and made us ready.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। इमाम्। देव:। मेखलाम्। आऽबबन्ध। य:। सम्ऽननाह। य:। ऊं इति। न:। युयोज। यस्य। देवस्य। प्रऽशिषा। चराम:। स:। पारम्। इच्छात्। स:। ऊं इति। न:। वि। मुञ्चात्। १३३.१।
+यः। इमाम्। देवः। मेखलाम्। आऽबबन्ध। यः। सम्ऽननाह। यः। ऊं इति। नः। युयोज। यस्य। देवस्य। प्रऽशिषा। चरामः। सः। पारम्। इच्छात्। सः। ऊं इति। नः। वि। मुञ्चात्। १३३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

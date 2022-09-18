@@ -42,7 +42,6 @@ better TS. iv. 4. 10.⌋
 The bridal pomp of Surya, which Savitar started, moved along. In Magha days are oxen slain, in Phalgunis they wed the bride.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यायाः। वहतु। प्र। अगात्। सविता। यम्। अवऽअसृजत्। मघासु। हन्यन्ते। गावः। फल्गुनीषु। वि। उह्यते। १.१३।

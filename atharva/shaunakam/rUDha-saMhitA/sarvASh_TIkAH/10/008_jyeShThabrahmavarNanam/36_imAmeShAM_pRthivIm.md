@@ -20,7 +20,6 @@ for *eke* of our **d**.⌋
 One God inhabiteth the earth we live on; another hath encom- passed air's mid-region. One, the Supporter, takes the heaven and bears it: some keep- ing watch guard all the quarters safely.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमाम्। एषाम्। पृथिवीम्। वस्ते। एकः। अन्तरिक्षम्। परि। एकः। बभूव। दिवम्। एषाम्। ददते। यः। विऽधर्ता। विश्वाः। आशाः। प्रति। रक्षन्ति। एके। ८.३६।

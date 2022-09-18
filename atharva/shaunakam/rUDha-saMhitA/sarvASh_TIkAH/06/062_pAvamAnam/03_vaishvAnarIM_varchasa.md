@@ -29,10 +29,9 @@ sadh-*.
 For splendour, seize on her whom all men worship, becoming pure yourselves, and bright, and brilliant. Here, through our prayer rejoicing in the banquet, long may we look upon the Sun ascending.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानरीम्। वर्चसे। आ। रभध्वम्। शुध्दा:। भवन्त:। शुचय:। पावका:। इह। इडया। सधऽमादम्। मदन्त:। ज्योक्। पश्येम। सूर्यम्। उत्ऽचरन्तम्। ६२.३।
+वैश्वानरीम्। वर्चसे। आ। रभध्वम्। शुध्दाः। भवन्तः। शुचयः। पावकाः। इह। इडया। सधऽमादम्। मदन्तः। ज्योक्। पश्येम। सूर्यम्। उत्ऽचरन्तम्। ६२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

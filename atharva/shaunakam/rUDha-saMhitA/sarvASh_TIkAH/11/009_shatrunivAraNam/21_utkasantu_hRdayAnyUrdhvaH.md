@@ -20,7 +20,6 @@ equivalently.
 Let their hearts burst asunder, let their breath fly up and pass away. Let dryness of the mouth o'ertake our foemen, not the friendly ones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। कसन्तु। हृदयानि। ऊर्ध्वः। प्राणः। उत्। ईषतु। शौष्कऽआस्यम्। अनु। वर्तताम्। अमित्रान्। मा। उत। मित्रिणः। १९.२१।

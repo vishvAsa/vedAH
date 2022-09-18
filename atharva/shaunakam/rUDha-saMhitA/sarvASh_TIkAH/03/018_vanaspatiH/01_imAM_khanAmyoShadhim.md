@@ -23,7 +23,6 @@ leaf' (not identified).
 From out the earth I dig this Plant, and herb of most effectual power, Wherewith one quells the rival wife and gains the husband for one's self.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमाम्। खनामि। ओषधिम्। वीरुधाम्। बलवत्ऽतमाम्। यया। सऽपत्नीम्। बाधते। यया। सम्ऽविन्दते। पतिम्। १८.१।

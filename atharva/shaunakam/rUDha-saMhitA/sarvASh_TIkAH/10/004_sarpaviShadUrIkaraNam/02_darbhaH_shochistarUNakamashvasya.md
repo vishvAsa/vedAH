@@ -25,7 +25,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दर्भः। शोचिः। तरूणकम्। अश्वस्य। वारः। परुषस्य। वारः। रथस्य। बन्धुरम्। ४.२।

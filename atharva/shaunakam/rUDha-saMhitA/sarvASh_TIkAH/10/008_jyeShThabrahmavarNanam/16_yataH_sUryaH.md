@@ -22,7 +22,6 @@ the verse.
 That, whence the Sun arises, that whither he goes to take his rest, That verily I hold supreme: naught in the world surpasses it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यतः। सूर्यः। उत्ऽएति। अस्तम्। यत्र। च। गच्छति। तत्। एव। मन्ये। अहम्। ज्येष्ठम्। तत्। ऊं इति। न। अति। एति। किम्। चन। ८.१६।

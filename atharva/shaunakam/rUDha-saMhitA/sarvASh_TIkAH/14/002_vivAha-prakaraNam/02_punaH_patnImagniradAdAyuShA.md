@@ -21,7 +21,6 @@ ii. 70.
 Agni hath given the bride again with splendour and a lengthened. life. Long-lived be he who is her lord: a hundred autumns let him live.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुनः। पत्नीम्। अग्निः। अदात्। आयुषा। सह। वर्चसा। दीर्घऽआयुः। अस्याः। यः। पतिः। जीवाति। शरदः। शतम्। २.२।

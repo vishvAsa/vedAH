@@ -7,7 +7,6 @@ title = "०१७ रुधिरस्रावनिवृत्तये ध
 17. To stop the vessels of the body.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रुधिरस्रावनिवृत्तये धमनीबन्धनम्।  
@@ -18,8 +17,6 @@ title = "०१७ रुधिरस्रावनिवृत्तये ध
 
 [Brahman.—yoṣiddevatyam. ānuṣṭubham: 1. bhurij; 4. 3-p. ārṣī gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 411; Ludwig, p. 508; Grill, 16, 76; Griffith, i. 21; Bloo
 
 A charm to be used at venesection
 </details>
+

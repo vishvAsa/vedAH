@@ -26,10 +26,9 @@ under Prāt. ii. 85.
 Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou a wanton Dast girl and strike her with thy thunder- bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तक्मन्। विऽआल। वि। गद। विऽअङ्ग। भूरि। यवय। दासीम्। नि:ऽतक्वरीम्। इच्छ। ताम्। वज्रेण। सम्। अर्पय। २२.६।
+तक्मन्। विऽआल। वि। गद। विऽअङ्ग। भूरि। यवय। दासीम्। निःऽतक्वरीम्। इच्छ। ताम्। वज्रेण। सम्। अर्पय। २२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

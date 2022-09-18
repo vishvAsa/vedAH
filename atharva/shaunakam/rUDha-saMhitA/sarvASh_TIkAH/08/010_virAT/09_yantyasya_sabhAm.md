@@ -18,10 +18,9 @@ Ppp. reads at the end *hvayāmahi* (without *iti*).
 Of her the Gods and men said, This she knoweth. That we may both have life let us invoke her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यन्ति। अस्य। सभाम्। सभ्य:। भवति। य:। एवम्। वेद। १०.९।
+यन्ति। अस्य। सभाम्। सभ्यः। भवति। यः। एवम्। वेद। १०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१२ शत्रुनाशनम्"
 12. ⌊Against such as would thwart my incantations.⌋
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -20,8 +19,6 @@ title = "०१२ शत्रुनाशनम्"
 [Bharadvāja.—aṣṭarcam. nānādevatyam. trāiṣṭubham: 2. jagatī; 7, 8. anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -32,3 +29,4 @@ All the pada-mss. read at the end tapyámāne íti, as if the word were a dual f
 
 A prayer for vengeance on a malicious rival worshipper
 </details>
+

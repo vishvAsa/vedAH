@@ -20,10 +20,9 @@ word (*várcasvatīm* for *bhárgasv-*). The comm. reads *āvadāmi* in
 With your delicious honey balm me, Asvins, Lords of splendid light! That clear and resonant may be the voice I utter to mankind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभ:। पती इति। यथा। भर्गस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। ६९.२।
+अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। भर्गस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। ६९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

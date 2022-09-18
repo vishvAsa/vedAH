@@ -19,10 +19,9 @@ The comm. reads *sam etu* in **c**.
 Far as the heaven's four regions spread, far as the eye's most distant ken. So wide, so vast let power be mine, this vigour of the Elephant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावत्। चतस्र:। प्रऽदिश:। चक्षु:। यावत्। सम्ऽअश्नुते। तावत्। सम्ऽऐतु। इन्द्रियम्। मयि। तत्। हस्तिऽवर्चसम्। २२.५।
+यावत्। चतस्रः। प्रऽदिशः। चक्षुः। यावत्। सम्ऽअश्नुते। तावत्। सम्ऽऐतु। इन्द्रियम्। मयि। तत्। हस्तिऽवर्चसम्। २२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

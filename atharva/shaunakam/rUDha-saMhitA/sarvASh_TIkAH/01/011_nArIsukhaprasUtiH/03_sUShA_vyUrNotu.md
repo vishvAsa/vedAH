@@ -32,7 +32,6 @@ omitted at the beginning would make a good *anuṣṭubh*.
 Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, parturiens! emitte eum non carni, non adipi, non medullae adhaerntem.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूपा। वि। ऊर्णोतु। वि। योनिम्। हापयामसि। श्रथय। सूषणे। त्वम्। अव। त्वम्। बिष्कले। सृज।

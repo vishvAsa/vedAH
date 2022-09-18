@@ -23,7 +23,6 @@ Vāit. 8. 6 (unless Vāit. takes it rather from Kāuś.).
 O Kritya, I will cut thy throat and hew thy feet off. Run, be- gone! Indra and Agni, Guardian Lords of living creatures, shield us well!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ग्रीवाः। ते। कृत्ये। पादौ। च। अपि। कर्त्स्यामि। निः। द्रव। इन्द्राग्नी इति। अस्मान्। रक्षताम्। यौ। प्रऽजानाम्। प्रजावती इति प्रजाऽवती। १.२१।

@@ -21,10 +21,9 @@ correspondent to this verse.
 May Pavamana make me pure for wisdom and for power and life, and unassailed security.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पवमान:। पुनातु। मा। क्रत्वे। दक्षाय। जीवसे। अथो इति। अरिष्टऽतातये। १९.२।
+पवमानः। पुनातु। मा। क्रत्वे। दक्षाय। जीवसे। अथो इति। अरिष्टऽतातये। १९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

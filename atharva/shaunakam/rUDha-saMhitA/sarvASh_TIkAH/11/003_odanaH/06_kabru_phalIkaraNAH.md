@@ -20,7 +20,6 @@ some of SPP's⌋).
 Kabru is the husked grain, the rain cloud is the reed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कब्रु। फलीऽकरणाः। शरः। अभ्रम्। ३.६।

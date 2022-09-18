@@ -28,10 +28,9 @@ marginal note, W. compares *mitra-tū́rya*, v. 20. 7.⌋
 Gird thou a bullock's hide on these, make those as timid as the deer. Let the foe flee away, and let his kine come hither-ward to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। एषु। नह्य। वृषा। अजिनम्। हरिणस्य। भियम्। कृधि। पराङ्। अमित्र:। एषतु। अर्वाची। गौ:। उप। एषतु। ६७.३।
+आ। एषु। नह्य। वृषा। अजिनम्। हरिणस्य। भियम्। कृधि। पराङ्। अमित्रः। एषतु। अर्वाची। गौः। उप। एषतु। ६७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

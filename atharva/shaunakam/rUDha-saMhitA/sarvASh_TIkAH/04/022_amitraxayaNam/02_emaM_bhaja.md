@@ -29,10 +29,9 @@ end. Nearly half the mss. (including our P.M.W.I.K.) have in **d**
 Give him a share in village, kine, and horses, and leave his enemy without a portion. Let him as King be head and chief of Princes, Give up to him, O Indra, every foeman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इमम्। भज। ग्रामे। अश्वेषु। गोषु। नि:। तम्। भज। य:। अमित्र:। अस्य। वर्ष्म। क्षत्राणाम्। अयम्। अस्तु। राजा। इन्द्र। शत्रुम्। रन्धय। सर्वम्। अस्मै। २२.२।
+आ। इमम्। भज। ग्रामे। अश्वेषु। गोषु। निः। तम्। भज। यः। अमित्रः। अस्य। वर्ष्म। क्षत्राणाम्। अयम्। अस्तु। राजा। इन्द्र। शत्रुम्। रन्धय। सर्वम्। अस्मै। २२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

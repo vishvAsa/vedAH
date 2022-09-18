@@ -45,10 +45,9 @@ accentless *asat*.—Comm. has *ā yavam* in **d**.⌋
 Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed within it. Viraj vouchsafe us hearing fraught with plenty! Let the ripe grain come near and near the sickle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-युनक्त। सीरा। वि। युगा। तनोत। कृते। योनौ। वपत। इह। बीजम्। विऽराज:। श्नुष्टि:। सऽभरा:। असत्। न:। नेदीय:। इत्। सृण्य:। पक्वम्। आ। यवन्। १७.२।
+युनक्त। सीरा। वि। युगा। तनोत। कृते। योनौ। वपत। इह। बीजम्। विऽराजः। श्नुष्टिः। सऽभराः। असत्। नः। नेदीयः। इत्। सृण्यः। पक्वम्। आ। यवन्। १७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

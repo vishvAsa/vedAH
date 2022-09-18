@@ -35,7 +35,6 @@ any known rule. \*⌊So Keśava to Kāuś. 50. 16.⌋
 What time the heavenly bodies chose the Weather Prophet as their King, They brought him favouring weather, and, Let this be his do- main, they said.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शकऽधूमम्। नक्षत्राणि। यत्। राजानम्। अकुर्वत। भद्रऽअहम्। अस्मै। प्र। अयच्छन्। इदम्। राष्ट्रम्। असात्। इति। १२८.१।

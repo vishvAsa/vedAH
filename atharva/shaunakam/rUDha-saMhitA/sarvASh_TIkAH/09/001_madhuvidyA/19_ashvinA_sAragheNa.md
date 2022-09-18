@@ -18,10 +18,9 @@ This verse differs only by one word from vi. 69. 2.
 May both the Asvins, Lords of Light, balm me with honey of the bees, That I may speak among the folk words full of splendour and of strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभ:। पती इति। यथा। वर्चस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। १.१९।
+अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। वर्चस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। १.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

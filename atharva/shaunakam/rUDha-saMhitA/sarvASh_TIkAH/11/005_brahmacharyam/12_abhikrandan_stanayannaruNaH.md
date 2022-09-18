@@ -30,7 +30,6 @@ it, pādas **b, c, d** are good *triṣṭubhs*.
 Thundering, shouting, ruddy-hued, and pallid, he bears along the earth great manly vigour. Down on the ridge of earth the Brahmachari pours seed, and this gives life to heaven's four regions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभिऽक्रन्दन्। स्तनयन्। अरुणः। शितिङ्गः। बृहत्। शेपः। अनु। भूमौ। जभार। ब्रह्मऽचारी। सिञ्चति। सानौ। रेतः। पृथिव्याम्। तेन। जीवन्ति। प्रऽदिशः। चतस्रः। ७.१२।

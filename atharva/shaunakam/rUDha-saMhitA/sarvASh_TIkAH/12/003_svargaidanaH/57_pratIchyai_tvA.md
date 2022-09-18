@@ -17,7 +17,6 @@ defender, to food having arrows, we commit thee here; guard ye etc. etc.
 To the western region, to Varuna the Regent, to Pridaku the Protector, to Food the Archer, we present, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतीच्यै। त्वा। दिशे। वरुणाय। अधिऽपतये। पृदाकवे। रक्षित्रे। अन्नाय। इषुऽमते। एतम्। परि। दद्मः। तम्। नः। गोपायत। आ। अस्माकम्। आऽएतोः। दिष्टम्। नः। अत्र। जरसे। नि। नेषत्। जरा। मृत्यवे। परि। नः। ददातु। अथ। पक्वेन। सह। सम्। भवेम। ३.५६।

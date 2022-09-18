@@ -19,7 +19,6 @@ syll.).
 He who metes out the thirteenth month, constructed with days and nights, containing thirty members, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहोरात्रैः। विऽमितम्। त्रिंशत्ऽअङ्गम्। त्रयःऽदशम्। मासम्। यः। निःऽमिमीते। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.८।

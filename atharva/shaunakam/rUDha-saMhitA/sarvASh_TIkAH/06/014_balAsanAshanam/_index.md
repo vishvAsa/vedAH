@@ -7,7 +7,6 @@ title = "०१४ बलासनाशनम्"
 14. Against the balā́sa.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 बलासनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१४ बलासनाशनम्"
 
 [Babhrupin̄gala (?).—balāsadevatyatn. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 265 or 17; Griffith, i. 252; Bloomfield, 8, 463; vs. 1 also
 
 A charm against consumption
 </details>
+

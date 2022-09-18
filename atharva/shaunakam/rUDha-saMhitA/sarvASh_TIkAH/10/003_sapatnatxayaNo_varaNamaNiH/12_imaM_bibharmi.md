@@ -19,7 +19,6 @@ Ppp., as noted above, reads for the second half of this verse our 11
 Through hundred autumn seasons, long to live, I wear this Varana. May it bestow on me great strength, cattle, and royalty and power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। बिभर्मि। वरणम्। आयुष्मान्। शतऽशारदः। सः। मे। राष्ट्रम्। च। क्षत्रम्। च। पशून्। ओजः। च। मे। दधत्। ३.१२।

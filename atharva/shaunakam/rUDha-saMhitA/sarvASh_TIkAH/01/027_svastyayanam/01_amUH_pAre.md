@@ -23,10 +23,9 @@ explaining as *jarārahita devā iva.*
 There on the bank those Vipers lie, thrice-seven, having cast their skins: Now we with their discarded sloughs bind close and cover up the eyes of the malicious highway thief.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमू:। पारे। पृदाक:। त्रिऽसप्ता:। नि:ऽजरायव:। तासाम्। जरायुऽभि:। वयम्। अक्ष्यौ। अपि। व्ययामसि। अघऽयो:। परिऽपन्थिन:।
+अमूः। पारे। पृदाकः। त्रिऽसप्ताः। निःऽजरायवः। तासाम्। जरायुऽभिः। वयम्। अक्ष्यौ। अपि। व्ययामसि। अघऽयोः। परिऽपन्थिनः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

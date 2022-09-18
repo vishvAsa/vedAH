@@ -19,10 +19,9 @@ The corresponding TS. passage has *sū́rya* instead of *ādityá*.
 The Sun in heaven hath had my homage. May he bless me. As I have bowed me down unto the Sun in heaven, so let the Favouring Graces bow them down to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवि। आदित्याय। सम्। अनमन्। स:। आर्ध्नोत्। यथा। दिवि। आदित्याय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनम:। सम्। नमन्तु। ३९.५।
+दिवि। आदित्याय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिवि। आदित्याय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

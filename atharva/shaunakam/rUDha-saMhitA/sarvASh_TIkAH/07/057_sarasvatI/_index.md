@@ -7,7 +7,6 @@ title = "०५७ सरस्वती"
 57 (59). Prayer to Sarasvati etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
@@ -18,8 +17,6 @@ title = "०५७ सरस्वती"
 
 [Vāmadeva.—dvyṛcam. sārasvatam. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 446; Henry, 22, 84; Griffith, i. 354.
 
 A charm for some physical disorder
 </details>
+

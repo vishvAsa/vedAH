@@ -7,7 +7,6 @@ title = "०३३ दीर्घायुः"
 33 (34) For blessings: to various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
@@ -18,8 +17,6 @@ title = "०३३ दीर्घायुः"
 
 [Brahman.—mantroktadevatyavi . pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 13, 66; Griffith, i. 342.
 
 A prayer for long life, children, and riches
 </details>
+

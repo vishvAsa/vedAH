@@ -7,7 +7,6 @@ title = "०९५ शत्रुनाशनम्"
 95 (100) A spell against some one.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०९५ शत्रुनाशनम्"
 [Kapiñjala.—tṛcam. mantroktagṛdhradevatyam. ānuṣṭubham: 2, 3. bhurij.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Not found in Pāipp. Used by Kāuś. (48. 40) in a witchcraft rite against enemi
 ### Translations
 Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 </details>
+

@@ -32,7 +32,6 @@ while stepping over the stone.
 Here I erect this rampart for the living: let none of these, none other, reach this limit. May they survive a hundred lengthened autumns, and may they bury Death beneath this mountain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। जीवेभ्यः। परिऽधिम्। दधामि। मा। एषाम्। नु। गात्। अपरः। अर्थम्। एतम्। शतम्। जीवन्तः। शरदः। पुरूचीः। तिरः। मृत्युम्। दधताम्। पर्वतेन। २.२३।

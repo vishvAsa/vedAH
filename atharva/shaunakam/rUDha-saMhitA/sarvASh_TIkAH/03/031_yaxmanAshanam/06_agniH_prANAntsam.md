@@ -24,10 +24,9 @@ quotes a passage quite like to śB. xi. 1. 6¹⁹⌋.
 Agni combines the vital airs. The moon is closely joined with breath. I free. etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। प्राणान्। सम्। दधाति। चन्द्र:। प्राणेन। सम्ऽहित:। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.६।
+अग्निः। प्राणान्। सम्। दधाति। चन्द्रः। प्राणेन। सम्ऽहितः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

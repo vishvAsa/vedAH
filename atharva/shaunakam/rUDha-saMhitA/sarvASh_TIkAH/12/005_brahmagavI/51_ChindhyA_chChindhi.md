@@ -16,7 +16,6 @@ title = "५१ छिन्ध्या च्छिन्धि"
 Rend, rend to pieces, rend away, destroy, destroy him utterly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 छिन्धि। आ। छिन्धि। प्र। छिन्धि। अपि। क्षापय। क्षापय। १०.५।

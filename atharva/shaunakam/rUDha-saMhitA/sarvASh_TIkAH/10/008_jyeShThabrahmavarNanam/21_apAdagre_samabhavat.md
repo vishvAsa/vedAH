@@ -19,7 +19,6 @@ Ppp. reads, for **b**, *so ‘gre asurā ’bhavat*.
 Footless at first was he produced, footless he brought celestial light. Four-footed grown, and meet for use, he seized each thing enjoyable.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपात्। अग्रे। सम्। अभवत्। सः। अग्रे। स्वः। आ। अभरत्। चतुःऽपात्। भूत्वा। भोग्यः। सर्वम्। आ। अदत्त। भोजनम्। ८.२१।

@@ -24,10 +24,9 @@ water.
 Let him not break the victim's bones, let him not suck the marrow out. Let the man, taking him entire, here, even here deposit him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। अस्य। अस्थीनि। भिन्द्यात्। न। मज्ज्ञ:। नि:। धयेत्। सर्वम्‌। एनम्। सम्ऽआदाय। इदम्ऽइदम्। प्र। वेशयेत्। ५.२३।
+न। अस्य। अस्थीनि। भिन्द्यात्। न। मज्ज्ञः। निः। धयेत्। सर्वम्‌। एनम्। सम्ऽआदाय। इदम्ऽइदम्। प्र। वेशयेत्। ५.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

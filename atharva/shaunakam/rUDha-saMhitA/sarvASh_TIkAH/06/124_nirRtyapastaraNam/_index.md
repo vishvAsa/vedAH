@@ -7,7 +7,6 @@ title = "१२४ निर्ऋत्यपस्तरणम्"
 124. Against evil influence of a sky-drop.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 निर्ऋत्यपस्तरणम्।  
@@ -19,8 +18,6 @@ title = "१२४ निर्ऋत्यपस्तरणम्"
 [Atharvan (nirṛtyapasaraṇakāmaḥ).—mantroktadevatyam uta divyāpyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ This hymn, like the preceding, is not found in Pāipp. It is employed by Kāuś.
 ### Translations
 Translated: Ludwig, p. 498; Griffith, i. 314.
 </details>
+

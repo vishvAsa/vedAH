@@ -31,7 +31,6 @@ Anukr. says *navadaśā ’pare ca*.⌋
 Sound are the skull-bones of thy head and thy heart's beat is regular. Thou, Sun, arising with thy beams hast chased away the head's disease, hast stilled the pain that racked the limbs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। ते। शीर्ष्णः। कपालानि। हृदयस्य। च। यः। विधुः। उत्ऽयन्। आदित्य। रश्मिऽभिः। शीर्ष्णः। रोगम्। अनीनशमः। अङ्गऽभेदम्। अशीशमः। १३.२२।

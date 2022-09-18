@@ -21,10 +21,9 @@ Here ends also the third *prapāṭhaka.*
 Shield art thou, shield me well. All hail
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परिऽपानम्। असि। परिऽपानम्। मे। दा:। स्वाहा। १७.७।
+परिऽपानम्। असि। परिऽपानम्। मे। दाः। स्वाहा। १७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

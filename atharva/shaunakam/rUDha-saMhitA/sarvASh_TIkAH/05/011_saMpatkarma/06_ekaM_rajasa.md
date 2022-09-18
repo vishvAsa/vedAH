@@ -42,10 +42,9 @@ from *te* to *nīcāir*.⌋
 One thing there is beyond this air, and something beyond that one, most hard to reach, remotest. I, Varuna, who know, to thee declare it. Let churls be mighty in the lower regions. Let Dasas sink into the earth beneath them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एकम्। रजस:। एना। पर:। अन्यत्। अस्ति। एना। पर:। एकेन। दु:ऽनशम्। चित्। अवाक्। तत्। ते। विद्वान्। वरुण। प्र। ब्रवीमि। अध:ऽवचस:। पणय:। भवन्तु। नीचै:। दासा:। उप। सर्पन्तु। भूमिम्। ११.६।
+एकम्। रजसः। एना। परः। अन्यत्। अस्ति। एना। परः। एकेन। दुःऽनशम्। चित्। अवाक्। तत्। ते। विद्वान्। वरुण। प्र। ब्रवीमि। अधःऽवचसः। पणयः। भवन्तु। नीचैः। दासाः। उप। सर्पन्तु। भूमिम्। ११.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

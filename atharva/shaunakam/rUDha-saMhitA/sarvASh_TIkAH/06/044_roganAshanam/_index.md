@@ -7,7 +7,6 @@ title = "०४४ रोगनाशनम्"
 44. For cessation of a disease.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रोगनाशनम्।  
@@ -19,8 +18,6 @@ title = "०४४ रोगनाशनम्"
 [Viśvāmitra.—mantroktadevatyam uta vānaspatyam. ānuṣṭubham: 3. 3-p. mahābṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ title = "०४४ रोगनाशनम्"
 
 A charm to remove disease
 </details>
+

@@ -25,7 +25,6 @@ regular *anuṣṭubh*, is rather harsh.
 He rises up to heaven, ascends to younder third celestial height. Whoever gives the Hundredfold Oblation with the central cake.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। स्वःऽगम्। आ। रोहति। यत्र। अदः। त्रिऽदिवम्। दिवः। अपूपऽनाभिम्। कृत्वा। यः। ददाति। शतऽओदनाम्। ९.५।

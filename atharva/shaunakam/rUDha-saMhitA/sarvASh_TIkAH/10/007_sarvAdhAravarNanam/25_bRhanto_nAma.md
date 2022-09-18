@@ -23,7 +23,6 @@ variant⌋.
 Great, verily, are those Gods who sprang from non-existence into life. Further, men say that that one part of Skambha is nonentity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहन्तः। नाम। ते। देवाः। ये। असतः। परि। जज्ञिरे। एकम्। तत्। अङ्गम्। स्कम्भस्य। असत्। आहुः। परः। जनाः। ७.२५।

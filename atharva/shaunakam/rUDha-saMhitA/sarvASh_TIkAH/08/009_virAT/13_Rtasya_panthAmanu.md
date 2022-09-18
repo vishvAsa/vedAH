@@ -22,10 +22,9 @@ has *rétasā* and TS. *jyótiṣā;* TS. gives rákṣati for *jínvati* in
 The three have passed along the path of Order--three warm libations have regarded offspring One quickens progeny, one strengthens vigour, and one protects the kingdom of the pious.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋतस्य। पन्थाम्। अनु। तिस्र:। आ। अगु:। त्रय:। धर्मा:। अनु। रेत:। आ। अगु:। प्रऽजाम्। एका। जिन्वति। ऊर्जम्। एका। राष्ट्रम्। एका। रक्षति। देवऽयूनाम्। ९.१३।
+ऋतस्य। पन्थाम्। अनु। तिस्रः। आ। अगुः। त्रयः। धर्माः। अनु। रेतः। आ। अगुः। प्रऽजाम्। एका। जिन्वति। ऊर्जम्। एका। राष्ट्रम्। एका। रक्षति। देवऽयूनाम्। ९.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ and SPP's⌋.
 Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। मज्जा। यत्। अस्थि। यत्। मांसम्। यत्। च। लोहितम्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१८।

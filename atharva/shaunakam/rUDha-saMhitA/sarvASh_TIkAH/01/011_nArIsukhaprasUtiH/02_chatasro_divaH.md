@@ -26,10 +26,9 @@ but does not appear to intend any variants from our reading.
 Four are the regions of the sky, and four the regions of the earth: The Gods have brought the babe; let them prepare the woman for the birth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-चतस्र:‍। दिव:। प्रऽदिश:। चतस्र:। भूम्या:। उत। देवा:। गर्भम्। सम्। ऐरयन्। तम्। वि। ऊर्णुवन्तु। सूतवे।
+चतस्रः‍। दिवः। प्रऽदिशः। चतस्रः। भूम्याः। उत। देवाः। गर्भम्। सम्। ऐरयन्। तम्। वि। ऊर्णुवन्तु। सूतवे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

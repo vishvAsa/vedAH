@@ -17,10 +17,9 @@ of.
 This man whose food they eat hath all his wickedness blotted out.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्व:। वै। एष:। जग्धऽपाप्मा। यस्य। अन्नम्। अश्नन्ति। ७.८।
+सर्वः। वै। एषः। जग्धऽपाप्मा। यस्य। अन्नम्। अश्नन्ति। ७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

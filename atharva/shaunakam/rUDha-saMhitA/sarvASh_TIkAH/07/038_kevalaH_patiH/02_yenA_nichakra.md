@@ -21,10 +21,9 @@ Oertel, JAOS. xix². 120.⌋ ⌊Ppp. corrupt, as noted above.⌋
 This Herb wherewith the Asuri drew Indra downward from the Gods, With this same Herb I draw thee close that I may be most dear to thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। निऽचक्रे। आसुरी। इन्द्रम्। देवेभ्य:। परि। तेन। नि। कुर्वे। त्वाम्। अहम्। यथा। ते। असानि। सुऽप्रिया। ३९.२।
+येन। निऽचक्रे। आसुरी। इन्द्रम्। देवेभ्यः। परि। तेन। नि। कुर्वे। त्वाम्। अहम्। यथा। ते। असानि। सुऽप्रिया। ३९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

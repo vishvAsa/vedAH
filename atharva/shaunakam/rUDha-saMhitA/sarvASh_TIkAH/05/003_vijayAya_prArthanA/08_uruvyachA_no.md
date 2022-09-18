@@ -24,10 +24,9 @@ iv. 86. The Anukr. takes no notice of the two redundant syllables in
 Foodful and much-invoked, at this our calling may the far- reaching Bull grant us wide shelter. Lord of bay coursers, Indra, bless our children: harm us not, give us not as prey to others.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उरुऽव्यचा:। न:। महिष:। शर्म। यच्छतु। अस्मिन्। हवे। पुरुऽहूत:  पुरुऽक्षु। स:। न:। प्रऽजायै। हरिऽअश्व। मृड। इन्द्र। मा। न:। रिरिष:। मा। परा। दा:। ३.८।
+उरुऽव्यचाः। नः। महिषः। शर्म। यच्छतु। अस्मिन्। हवे। पुरुऽहूतः  पुरुऽक्षु। सः। नः। प्रऽजायै। हरिऽअश्व। मृड। इन्द्र। मा। नः। रिरिषः। मा। परा। दाः। ३.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

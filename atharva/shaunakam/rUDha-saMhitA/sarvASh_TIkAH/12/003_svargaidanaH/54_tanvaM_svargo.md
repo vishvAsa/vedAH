@@ -26,7 +26,6 @@ form *ajāit*, see the references under vi. 32. 2.⌋
 In many a shape hath heaven transformed its body, as in itself is known, of varied eolour. Cleansing the bright, the dark form hath it banished: the red form in the fire to thee I offer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तन्वम्। स्वःऽगः। बहुऽधा। वि। चक्रे। यथा। विदे। आत्मन्। अन्यऽवर्णाम्। अप। अजैत्। कृष्णाम्। रुशतीम्। पुनानः। या। लोहिनी। ताम्। ते। अग्नौ। जुहोमि। ३.५४।

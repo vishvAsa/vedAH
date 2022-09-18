@@ -26,7 +26,6 @@ edition.⌋
 She who hath cursed us with a curse, or hath conceived a murderous sin, Or seized our son to take his blood, may she devour the child she bare.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। शशाप। शपनेन। या। अघम्। मूरम्। आऽदधे। या। रसस्य। हरणाय। जातम्। आऽरेभे। तोकम्। अत्तु। सा। १७.३।

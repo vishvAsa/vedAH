@@ -19,10 +19,9 @@ vocative, in **a**; both texts emend to *śát-*.
 Handless be these our enemies! We enervate their languid limbs. So let us part among ourselves, in hundreds, Indra! all their wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:ऽहस्ता:। सन्तु। शत्रव:। अङ्गा। एषाम्। म्लापयामसि। अथ। एषाम्। इन्द्र। वेदांसि। शतऽश:। वि। भजामहै। ६६.३।
+निःऽहस्ताः। सन्तु। शत्रवः। अङ्गा। एषाम्। म्लापयामसि। अथ। एषाम्। इन्द्र। वेदांसि। शतऽशः। वि। भजामहै। ६६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

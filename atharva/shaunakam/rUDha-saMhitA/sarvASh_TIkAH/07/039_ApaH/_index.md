@@ -7,7 +7,6 @@ title = "०३९ आपः"
 39 (40). In praise of Sarasvant (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आपः।  
@@ -18,8 +17,6 @@ title = "०३९ आपः"
 
 [Praskaṇva.—mantroktadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 14, 69; Griffith, i. 344.
 
 A sacrificial charm for rain and prosperity
 </details>
+

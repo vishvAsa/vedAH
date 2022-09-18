@@ -19,10 +19,9 @@ Vāiśvānara, and all\_ the seers.
 May the Gods bind the Charm on him for armour, Indra, and Vishnu, Savitar Rudra, Agni, Prajapati, sublimest Parameshlhin, Viraj, Vaisvanara, and all the Rishis.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मै। मणिम्। वर्म। बध्नन्तु। देवा:। इन्द्र:। विष्णु:। सविता। रुद्र:। अग्नि:। प्रजाऽपति:। परमेऽस्थी। विऽराट्। वैश्वानर:। ऋषय:। च। सर्वे। ५.१०।
+अस्मै। मणिम्। वर्म। बध्नन्तु। देवाः। इन्द्रः। विष्णुः। सविता। रुद्रः। अग्निः। प्रजाऽपतिः। परमेऽस्थी। विऽराट्। वैश्वानरः। ऋषयः। च। सर्वे। ५.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

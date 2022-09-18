@@ -25,7 +25,6 @@ the hide.
 Do ye, O sons, unite you with the waters, meeting this living man, ye life-sustainers, Allot to them the Odana your mother is making ready, which they call immortal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आपः। पुत्रासः। अभि। सम्। विशध्वम्। इमम्। जीवम्। जीवऽधन्याः सम्ऽएत्य। तासाम्। भजध्वम्। अमृतम्। यम्। आहुः। यम्। ओदनम्। पचति। वाम्। जनित्री। ३.४।

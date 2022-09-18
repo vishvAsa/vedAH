@@ -21,7 +21,6 @@ located in the two sides, affording access to the receptacles of urine."
 Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let the conduit, free from check, pour all its burthen as of old.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। आन्त्रेषु। गवीन्योः। यत्। वस्तौ। अधि। सम्ऽश्रुतम्। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्।

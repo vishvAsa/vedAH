@@ -16,10 +16,9 @@ title = "०२ द्वे च"
 Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Plant, produced aright! make sweetness, sweet thyself, for me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्वे। इति। च। मे। विंशति:। च। मे। । अपऽवक्तार:। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। कर:। १५.२।
+द्वे। इति। च। मे। विंशतिः। च। मे। । अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

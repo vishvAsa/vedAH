@@ -20,7 +20,6 @@ The Anukr. very strangely ignores the two resolutions in **b** and
 Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make them thy wings, O Goddess, and bear him who dresses thee to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रोडौ। ते। स्ताम्। पुरोडाशौ। आज्येन। अभिऽधारितौ। तौ। पक्षौ। देवि। कृत्वा। सा। पक्तारम्। दिवम्। वह। ९.२५।

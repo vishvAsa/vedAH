@@ -20,10 +20,9 @@ mind \[be\] dead.
 Even as the earth is dead to sense, yea, more unconscious than the dead, Even as a corpse's spirit is the spirit of the jealous man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। भूमि:। मृतऽमना:। मृतात्। मृतमन:ऽतरा। यथा। उत। मम्रुष:। मन:। एव। ईर्ष्यो:। मृतम्। मन:। १८.२।
+यथा। भूमिः। मृतऽमनाः। मृतात्। मृतमनःऽतरा। यथा। उत। मम्रुषः। मनः। एव। ईर्ष्योः। मृतम्। मनः। १८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

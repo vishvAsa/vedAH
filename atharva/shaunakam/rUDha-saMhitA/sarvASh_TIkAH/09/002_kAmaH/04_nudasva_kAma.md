@@ -23,10 +23,9 @@ a branch.
 Drive them away, drive them afar, O Kama; indigence fall on those who are my foemen! When they have been cast down to deepest darkness, consume their dwellings with thy fire, O Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नुदस्व। काम। प्र। नुदस्व। काम। अवर्तिम्। यन्तु। मम। ये। सऽपत्ना:। तेषाम्। नुत्तानाम्। अधमा। तमांसि। अग्ने। वास्तूनि। नि:। दह। त्वम्। २.४।
+नुदस्व। काम। प्र। नुदस्व। काम। अवर्तिम्। यन्तु। मम। ये। सऽपत्नाः। तेषाम्। नुत्तानाम्। अधमा। तमांसि। अग्ने। वास्तूनि। निः। दह। त्वम्। २.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

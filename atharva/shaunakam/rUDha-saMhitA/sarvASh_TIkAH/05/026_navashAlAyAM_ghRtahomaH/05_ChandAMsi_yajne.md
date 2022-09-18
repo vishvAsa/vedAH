@@ -19,10 +19,9 @@ vs. 1.
 As a dame brings her son--All hail! O Maruts, connected, in the rite bring measures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-छन्दांसि। यज्ञे। मरुत:। स्वाहा। माताऽइव। पुत्रम्। पिपृत। इह। युक्ता:। २६.५।
+छन्दांसि। यज्ञे। मरुतः। स्वाहा। माताऽइव। पुत्रम्। पिपृत। इह। युक्ताः। २६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

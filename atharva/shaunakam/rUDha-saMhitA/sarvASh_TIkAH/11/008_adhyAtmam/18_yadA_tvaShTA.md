@@ -22,7 +22,6 @@ openings for the senses, the eyes and ears etc. ⌊Ludwig renders **c**:
 When Tvashtar, Tvashtar's loftier Sire, had bored it out and hollowed it. Gods made the mortal their abode, and entered and possessed the man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदा। त्वष्टा। विऽअतृणत्। पिता। त्वष्टुः। यः। उत्तरः। गृहम्। कृत्वा। मर्त्यम्। देवाः। पुरुषम्। आ। अविशन्। १०.१८।

@@ -21,10 +21,9 @@ pañcāudanaṁ dadat*.
 One world with the re-wedded wife becomes the second hus- band's home. Who gives the Goat Panchaudana illumined with the priestly fee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समानऽलोक:। भवति। पुन:ऽभुवा। अपर:। पति:। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२८।
+समानऽलोकः। भवति। पुनःऽभुवा। अपरः। पतिः। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

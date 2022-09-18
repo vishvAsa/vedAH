@@ -26,10 +26,9 @@ repayment. *Jaghā́sa* in our text is a misprint for *-ghás-*.
 Still dwelling here we give again this present; we send it forth, the living from the living. Throwing away the grain whence I have eaten, thereby shall I be free from debt, O Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। सन्त:। प्रति। दद्म:। एनत्। जीवा:। जीवेभ्य:। नि। हराम:। एनत्। अपऽमित्य। धान्यम्। यत्। जघस। अहम्। इदम्। तत्। अग्ने। अनृण:। भवामि। ११७.२।
+इह। एव। सन्तः। प्रति। दद्मः। एनत्। जीवाः। जीवेभ्यः। नि। हरामः। एनत्। अपऽमित्य। धान्यम्। यत्। जघस। अहम्। इदम्। तत्। अग्ने। अनृणः। भवामि। ११७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

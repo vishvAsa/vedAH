@@ -21,7 +21,6 @@ is lost. The second half-verse appears again below as 21 **c, d**.
 Take thou thy stand, a Queen art thou, like Vishnu here, Sarasvati! O Sinivali, let her bear children, and live in Bhaga's grace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रति। तिष्ठ। व‍िऽराट्। असि। विष्णुऽइव। इह। सरस्वति। सिनीवालि। प्र। जायताम्। भगस्य। सुऽमतौ। असत्। १.१५।

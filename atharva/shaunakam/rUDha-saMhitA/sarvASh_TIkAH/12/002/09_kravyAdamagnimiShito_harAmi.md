@@ -25,7 +25,6 @@ regular *triṣṭubh* is very strange.
 I quickly sweep away corpse-eating Agni, Death, with his bolt potdepriving men of motion. From household fire, well-knowing, I divide him: so in the world of Fathers be his portion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रव्यऽअदम्। अग्निम्। इषितः। हरामि। जनान्। दृंहन्तम्। वज्रेण। मृत्युम्। नि। तम्। शास्मि। गार्हऽपत्येन। विद्वान्। पितॄणाम्। लोके। अपि। भागः। अस्तु। २.९।

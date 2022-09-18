@@ -20,10 +20,9 @@ RV. has the more antique forms *kṛtvī́* and *bhaktvā́ya* in **b** and
 Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, They shared the fulness of the earth and worn themselves ex- tended sway.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:ऽदाय। ब्रह्मऽजायाम्। कृत्वा। देवै:। निऽकिल्बिषम्। ऊर्जम्। पृथिव्या:। भक्त्वा। उरुऽगायम्। उप। आसते। १७.११।
+पुनःऽदाय। ब्रह्मऽजायाम्। कृत्वा। देवैः। निऽकिल्बिषम्। ऊर्जम्। पृथिव्याः। भक्त्वा। उरुऽगायम्। उप। आसते। १७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ adhādadhi*.⌋
 Who put together both his arms and said, Let him show manly strength? Who and what God was he who set the shoulderblades upon the trunk?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्य। बाहू इति। सम्। अभरत्। वीर्यम्। करवात्। इति। अंसौ। कः। अस्‍य। तत्। देवः। कुसिन्धे। अधि। आ। दधौ। २.५।

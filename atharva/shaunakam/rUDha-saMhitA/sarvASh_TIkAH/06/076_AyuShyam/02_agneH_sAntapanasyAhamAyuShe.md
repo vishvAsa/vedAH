@@ -21,10 +21,9 @@ corrupt. The comm. explains *pada* as either 'place' (*sthāna*) or
 For length of life I use the name of Agni the Consuming God, Whose smoke the sage who knows the truth beholds proceeding. from his mouth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:। साम्ऽतपनस्य। अहम्। आयुषे। पदम्। आ। रभे। अध्दाति:। यस्य। पश्यति। धूमम्। उत्ऽयन्तम्। आस्यत:। ७६.२।
+अग्नेः। साम्ऽतपनस्य। अहम्। आयुषे। पदम्। आ। रभे। अध्दातिः। यस्य। पश्यति। धूमम्। उत्ऽयन्तम्। आस्यतः। ७६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

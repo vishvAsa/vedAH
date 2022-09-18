@@ -26,7 +26,6 @@ Anukr. says *bhāumas tryadhikā ṣaṣṭiḥ*.
 O Earth, my Mother, set thou me happily in a place secure. Of one accord with Heaven, O Sage, set me in glory and in wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भूमे। मातः। नि। धेहि। मा। भद्रया। सुऽप्रतिस्थितम्। सम्ऽविदाना। दिवा। कवे। श्रियाम्। मा। धेहि। भूत्याम्। १.६३।

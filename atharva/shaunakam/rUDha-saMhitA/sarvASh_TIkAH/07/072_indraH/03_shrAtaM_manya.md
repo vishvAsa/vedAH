@@ -21,10 +21,9 @@ RV. reads *súśrātam* in **b**, and *purukṛd* (vocative) in **d**. ⌊For
 Dressed in the udder and on fire, I fancy; well dressed, I fancy, is this new oblation. Quaff thickened milk of noon's libation, Indra, well pleased, O Thunderer, famed for many an exploit!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रातम्। मन्ये। ऊधनि। श्रातम्। अग्नौ। सुऽशृतम्। मन्ये। तत्। ऋतम्। नवीय:। माध्यंदिनस्य। सवनस्य। दध्न:। पिब। इन्द्र। वज्रिन्। पुरुऽकृत्। जुषाण:। ७६.१।
+श्रातम्। मन्ये। ऊधनि। श्रातम्। अग्नौ। सुऽशृतम्। मन्ये। तत्। ऋतम्। नवीयः। माध्यंदिनस्य। सवनस्य। दध्नः। पिब। इन्द्र। वज्रिन्। पुरुऽकृत्। जुषाणः। ७६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

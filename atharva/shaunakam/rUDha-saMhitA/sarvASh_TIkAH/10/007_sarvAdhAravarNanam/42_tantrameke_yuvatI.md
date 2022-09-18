@@ -28,7 +28,6 @@ cf. RV. i. 113. 3.⌋
 Singly the two young Maids of different colours approach the six-pegged warp in turns and weave it. The one draws out the threads, the other lays them: they break them not, they reach no end of labour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तन्त्रम्। एके इति। युवती इति। विरूपे इति विऽरूपे। अभिऽआक्रामम्। वयतः। षट्ऽमयूखम्। प्र। अन्या। तन्तून्। तिरते। धत्ते। अन्या। न। अप। वृञ्जाते इति। न। गमातः। अन्तम्। ७.४२।

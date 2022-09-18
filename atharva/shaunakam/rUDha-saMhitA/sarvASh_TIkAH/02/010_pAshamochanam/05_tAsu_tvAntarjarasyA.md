@@ -19,10 +19,9 @@ tvā jarása ā́;* both the latter read in **b** *nírṛtim.*
 For long life, in the midst of these I set thee. Away pass Nirriti, away Consumption! From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तासु। त्वा। अन्त:। जरसि। आ। दधामि। प्र। यक्ष्म:। एतु। नि:ऋति:। पराचै:। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.५।
+तासु। त्वा। अन्तः। जरसि। आ। दधामि। प्र। यक्ष्मः। एतु। निःऋतिः। पराचैः। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

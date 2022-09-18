@@ -23,10 +23,9 @@ Anukr. says: *triṅśannimittāḥ ṣaḍṛceṣu* (mss. *-ḍarc-*) *kāryā
 Thou, Parna, art my body's guard, man kin my birth to me a man. With splendour of the circling year I bind thee on me, Amulet!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर्ण:। असि। तनूऽपान:। सऽयोनि:। वीर:। वीरेण। मया। सम्ऽवत्सरस्य। तेजसा। तेन। बध्नामि। त्वा। मणे। ५.८।
+पर्णः। असि। तनूऽपानः। सऽयोनिः। वीरः। वीरेण। मया। सम्ऽवत्सरस्य। तेजसा। तेन। बध्नामि। त्वा। मणे। ५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

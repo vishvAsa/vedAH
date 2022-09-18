@@ -18,7 +18,6 @@ etc. etc.
 King Varuna assumed and wore this salutary Amulet. This yieldeth him his truthfulness, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। राजा। वरुणः। मणिम्। प्रति। अमुञ्चत। शम्ऽभुवम्। सः। अस्मै। सत्यम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१५।

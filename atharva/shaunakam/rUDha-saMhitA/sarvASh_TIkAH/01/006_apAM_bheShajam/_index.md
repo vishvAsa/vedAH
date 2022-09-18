@@ -7,7 +7,6 @@ title = "००६ अपां भेषजम्"
 6. To the waters: for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपां भेषजम्।  
@@ -18,8 +17,6 @@ title = "००६ अपां भेषजम्"
 
 [Sindhudvīpa (Atharvākṛti).—(etc., as 4). 4. pathyāpan̄kti.]]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 397; Griffith, i. 8.
 
 To the waters, for health and wealth
 </details>
+

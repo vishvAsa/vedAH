@@ -22,10 +22,9 @@ binding-on,' dative infinitive.⌋
 The God who first bound on in the beginning the deities' im- mortal golden castle,-- Him I salute with ten extended fingers. Blest be the three- stringed charm I bind upon thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुरम्। देवानाम्। अमृतम्। हिरण्यम्। य:। आऽवेधे। प्रथम:। देव:। अग्रे। तस्मै। नम:। दश। प्राची:। कृणोमि। अनु। मन्यताम्। त्रिऽवृत्। आऽवधे। मे। २८.११।
+पुरम्। देवानाम्। अमृतम्। हिरण्यम्। यः। आऽवेधे। प्रथमः। देवः। अग्रे। तस्मै। नमः। दश। प्राचीः। कृणोमि। अनु। मन्यताम्। त्रिऽवृत्। आऽवधे। मे। २८.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००२ आत्मगोपनम्"
 2. Praise and prayer to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मगोपनम्।  
@@ -18,8 +17,6 @@ title = "००२ आत्मगोपनम्"
 
 [Atharvan.—vānaspatyaṁ sāumyam. āuṣṇiham: 1-3. paroṣṇiḥ.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 251 or 3; Griffith, i. 245; Bloomfield, 66, 458.
 
 In praise of Indra
 </details>
+

@@ -20,10 +20,9 @@ appears to read *prathema* for *puṣema* in **b**.
 Let strength be mine while I invoke thee, Agni! enkindling thee may we support our bodies. May the four regions bend and bow before me: with thee for guardian may we win the combat.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मम। अग्ने। वर्च:। विऽहवेषु। अस्तु। वयम्। त्वा। इन्धान:। तन्वम्। पुषेम। मह्यम्। नमन्ताम्। प्रऽदिश:। चतस्र:। त्वया। अधिऽअक्षेण। पृतना:। जयेम। ३.१।
+मम। अग्ने। वर्चः। विऽहवेषु। अस्तु। वयम्। त्वा। इन्धानः। तन्वम्। पुषेम। मह्यम्। नमन्ताम्। प्रऽदिशः। चतस्रः। त्वया। अधिऽअक्षेण। पृतनाः। जयेम। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

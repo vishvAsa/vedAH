@@ -21,7 +21,6 @@ verse as redundant. Ppp. combines *te ‘stu* in **b**.
 Break them in pieces; grasp them and destroy them. This Amu- let shall go before and lead thee. With Varana the Gods, from morn to morning, have warded off the Asuras' enchantment.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। एनान्। शृणीहि। प्र। मृण। आ। रभस्व। मणिः। ते। अस्तु। पुरःऽएता। पुरस्तात्। अवारयन्त। वरणेन। देवाः। अभिऽआचारम्। असुराणाम्। श्वःऽश्वः। ३.२।

@@ -23,7 +23,6 @@ AGS. i. 14. 3: see Stenzler's translation, p. 36), and in MP. (⌊i. 12.
 Even as this broad earth received the germ of all the things that be, Thus within thee I lay the germ. I call thee, Earth, to strengthen it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। आ। दधामि। ते। गर्भम्। तस्मै। त्वाम्। अवसे। हुवे। २५.२।

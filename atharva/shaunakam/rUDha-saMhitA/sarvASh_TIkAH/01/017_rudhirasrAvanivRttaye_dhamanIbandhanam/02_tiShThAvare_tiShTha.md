@@ -19,10 +19,9 @@ The accent of *tíṣṭhati* seems to show *ca* to be the equivalent of
 Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The smallest one of all stands still: let the great vessel e'en be still.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तिष्ठ। अवरे। तिष्ठ। परे। उत। त्वम्। तिष्ठ। मध्यमे। कनिष्ठिका। च। तिष्ठति। तिष्ठात्। इत्। धमनि:। मही।
+तिष्ठ। अवरे। तिष्ठ। परे। उत। त्वम्। तिष्ठ। मध्यमे। कनिष्ठिका। च। तिष्ठति। तिष्ठात्। इत्। धमनिः। मही।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

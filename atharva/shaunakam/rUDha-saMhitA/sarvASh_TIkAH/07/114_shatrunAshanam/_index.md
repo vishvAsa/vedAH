@@ -7,7 +7,6 @@ title = "११४ शत्रुनाशनम्"
 114 (119). Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "११४ शत्रुनाशनम्"
 [Bhārgava.—dvyṛcam. agnīṣomīyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ The first verse is found also in Pāipp. xx. Used by Kāuś. (36. 39: doubtless 
 ### Translations
 Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 </details>
+

@@ -23,7 +23,6 @@ The Anukr. does not heed that the third pāda is *jagatī*.
 Binding the mouths of those who threaten mischief, against my rivals cast this bolt of thunder, Indra first gave the Hundredfold Oblation, welfare of him who worships, foe-destroying.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघऽयताम्। अपि। नह्य। मुखानि। सऽपत्नेषु। वज्रम्। अर्पय। एतम्। इन्द्रेण। दत्ता। प्रथमा। शतऽओदना। भ्रातृव्यऽघ्नी। यजमानस्य। गातुः। ९.१।

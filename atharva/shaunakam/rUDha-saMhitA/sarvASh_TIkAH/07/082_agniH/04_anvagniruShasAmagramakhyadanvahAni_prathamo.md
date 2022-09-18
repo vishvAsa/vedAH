@@ -26,10 +26,9 @@ repeated as xviii. i. 27, 28.
 Agni hath looked upon the spring of Morning, looked on the days, the earliest Jatavedas. So, following the gleams of Morning, Surya hath entered heaven and earth as his possession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। अग्नि:। उषसाम्। अग्रम्। अख्यत्। अनु। अहानि। प्रथम:। जातऽवेदा:। अनु। सूर्य:। उषस:। अनु। रश्मीन्। अनु। द्यावापृथिवी इति। आ। विवेश। ८७.४।
+अनु। अग्निः। उषसाम्। अग्रम्। अख्यत्। अनु। अहानि। प्रथमः। जातऽवेदाः। अनु। सूर्यः। उषसः। अनु। रश्मीन्। अनु। द्यावापृथिवी इति। आ। विवेश। ८७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

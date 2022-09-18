@@ -20,10 +20,9 @@ more closely.
 Water, indeed, hath power to heal, Water drives malady away. May water--for it healeth all--free thee from permanent disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। इत्। वै। ऊं इति। भेषजी:। आप:। अमीवऽचातनी:। आप:। विश्वस्य। भेषजी:। ता:। त्वा। मुञ्चन्तु। क्षेत्रियात्। ७.५।
+आपः। इत्। वै। ऊं इति। भेषजीः। आपः। अमीवऽचातनीः। आपः। विश्वस्य। भेषजीः। ताः। त्वा। मुञ्चन्तु। क्षेत्रियात्। ७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

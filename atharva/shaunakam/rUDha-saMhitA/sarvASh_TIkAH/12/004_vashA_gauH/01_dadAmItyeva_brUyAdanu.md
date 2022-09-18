@@ -22,7 +22,6 @@ to.' ⌊Cf. MGS. i. 8. 6 and p. 150.⌋
 Give the gift, shall be his word: and straightway they have bound the Cow For Brahman priests who beg the boon. That bringeth sons and progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ददामि। इति। एव। ब्रूयात्। अनु। च। एनाम्। अभुत्सत। वशाम्। ब्रह्मऽभ्यः। याचत्ऽभ्यः। तत्। प्रजाऽवत्। अपत्यऽवत्। ४.१।

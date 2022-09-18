@@ -39,10 +39,9 @@ intensive value to *sam* ('very dear').⌋
 As this lair, Maghavan! that is fair to look on was dear to wild things as a pleasant dwelling, So may this woman here be Bhaga's darling. Loved by her lord and prizing his affection.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। आऽखर:। मघऽवन्। चारु:। एष:। प्रिय:। मृगाणाम्। सुऽसदा:। बभूव। एव। भगस्य। जुष्टा। इयम्। अस्तु। नारी। सम्ऽप्रिया। पत्या। अविऽराधयन्ती। ३६.४।
+यथा। आऽखरः। मघऽवन्। चारुः। एषः। प्रियः। मृगाणाम्। सुऽसदाः। बभूव। एव। भगस्य। जुष्टा। इयम्। अस्तु। नारी। सम्ऽप्रिया। पत्या। अविऽराधयन्ती। ३६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

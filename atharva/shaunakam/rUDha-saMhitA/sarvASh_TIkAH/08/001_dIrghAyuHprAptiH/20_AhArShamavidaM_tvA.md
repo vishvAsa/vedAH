@@ -21,10 +21,9 @@ gives the former. ⌊For the lingualized *ṇ*, see Prāt. iii. 82.⌋
 I have attained and captured thee: thou hast returned restored to youth. Perfect in body: so have I found all thy sight and all thy life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अहार्षम्। अविदम्। त्वा। पुन:। आ। अगा:। पुन:ऽनव:। सर्वऽअङ्ग। सर्वम्। ते। चक्षु:। सर्वम्। आयु:। च। ते। अविदम्। १.२०।
+आ। अहार्षम्। अविदम्। त्वा। पुनः। आ। अगाः। पुनःऽनवः। सर्वऽअङ्ग। सर्वम्। ते। चक्षुः। सर्वम्। आयुः। च। ते। अविदम्। १.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

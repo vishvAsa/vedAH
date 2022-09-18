@@ -25,10 +25,9 @@ paragraphs find correspondences in MS. iv. (p. 21, l. 14 ff.; p. 36, l.
 She rose, approached the Asuras: they called her: their cry was, Come, O Maya, come thou hither. Her dear calf was Virochana Prahradi: her milking vessel was a. pan of iron. Dvimurdha Artvya milked her, yea, this Maya, The Asuras depend for life on Maya. He who knows this becomes a fit supporter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओषधी:। एव। अस्मै। रथमऽतरम्। दुहे। व्यच:। बृहत्। ११.९।
+ओषधीः। एव। अस्मै। रथमऽतरम्। दुहे। व्यचः। बृहत्। ११.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

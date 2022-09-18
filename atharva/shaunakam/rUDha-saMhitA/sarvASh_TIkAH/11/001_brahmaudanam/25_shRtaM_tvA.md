@@ -25,7 +25,6 @@ of SPP's authorities⌋ reads *devās* at end of **a**, and treats *te* in
 Let the dressed offering and divine Ones serve thee: creep from. the fire again, own these as masters. Made pure with Soma rest within the Brahmans: let not thine eaters, Rishis' sons, be injured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शृतम्। त्वा। हव्यम्। उप। सीदन्तु। दैवाः। निःऽसृप्य। अग्नेः। पुनः। एनान्। प्र। सीद। सोमेन। पूतः। जठरे। सीद। ब्रह्मणाम्। आर्षेयाः। ते। मा। रिषन्। प्रऽअशितारः। १.२५

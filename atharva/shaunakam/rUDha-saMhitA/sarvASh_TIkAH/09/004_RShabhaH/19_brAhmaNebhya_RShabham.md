@@ -25,10 +25,9 @@ Ppp. reads in **a** *brāhmaṇāya vṛṣabhaṁ*, and in **d** *vi paśyatu*.
 He who hath given away the Bull to Brahmans frees and cheers his soul. In his own cattle-pen he sees the growth and increase of his cows.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्राह्मणेभ्य:। ऋषभम्। दत्त्वा। वरीय:। कृणुते। मन:। पुष्टिम्। स:। अघ्न्यानाम्। स्वे। गोऽस्थे। अव। पश्यते। ४.१९।
+ब्राह्मणेभ्यः। ऋषभम्। दत्त्वा। वरीयः। कृणुते। मनः। पुष्टिम्। सः। अघ्न्यानाम्। स्वे। गोऽस्थे। अव। पश्यते। ४.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

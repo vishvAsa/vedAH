@@ -29,7 +29,6 @@ redundant syllable in **a**.
 Whatever evil I have done within this last triennium, From all that woe and misery let the waters shield and guard me well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अर्वाचीनम्। त्रैहायनात्। अनृतम्। किम्। च। ऊदिम। आपः। मा। तस्मात्। सर्वस्मात्। दुःऽइतात्। पान्तु। अंहसः। ५.२२।

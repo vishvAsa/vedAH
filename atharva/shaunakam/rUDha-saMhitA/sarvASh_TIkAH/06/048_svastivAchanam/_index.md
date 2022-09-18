@@ -7,7 +7,6 @@ title = "०४८ स्वस्तिवाचनम्"
 48. To the deities of the three daily libations.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्तिवाचनम्।  
@@ -18,8 +17,6 @@ title = "०४८ स्वस्तिवाचनम्"
 
 [⌊?⌋—mantroktarṣidevatyam. āuṣṇiham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 309 or 61; Griffith, i. 271.—Treated at length by Bloomfi
 
 Formulas to be used at the three daily libations
 </details>
+

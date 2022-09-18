@@ -24,7 +24,6 @@ text.
 Dark the descent: the birds are golden-coloured. Robed in the floods they fly aloft to heaven. Again from Order's seat have they descended, and inundated all the earth with fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृष्णम्। निऽयानम्। हरयः। सुऽपर्णाः। अपः। वसानाः। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। आत्। इत्। घृतेन। पृथिवीम्। वि। ऊदुः। १५.२२।

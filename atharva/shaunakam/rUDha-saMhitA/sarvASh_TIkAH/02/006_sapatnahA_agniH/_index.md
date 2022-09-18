@@ -7,7 +7,6 @@ title = "००६ सपत्नहाऽग्निः"
 6. Praise and prayer to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सपत्नहाऽग्निः।  
@@ -19,8 +18,6 @@ title = "००६ सपत्नहाऽग्निः"
 [śāunaka (sampatkāmaḥ).—āgneyam. trāiṣṭubham: 4. 4-p. ārṣī pan̄kti; 5. virāṭprastārapan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ TS. reads at the end pṛthivyā́s (for cátasras). Ppp. has for b saṁvatsara
 
 A prayer to Agni for protection
 </details>
+

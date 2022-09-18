@@ -23,10 +23,9 @@ Anukr. refuses to sanction the common abbreviation to *agnir ’va* in
 The hateful fiend who drinks the blood, and him who take away the growth, The Kanva who devours the germ, quell, Prisniparni! and! destroy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गिरिम्। एनान्। आ। वेशय। कण्वान्। जीवितऽयोपनान्। तान्। त्वम्। देव‍ि। पृश्निऽपर्णि। अग्नि:ऽइव। अनुऽदहन्। इहि। २५.४।
+गिरिम्। एनान्। आ। वेशय। कण्वान्। जीवितऽयोपनान्। तान्। त्वम्। देव‍ि। पृश्निऽपर्णि। अग्निःऽइव। अनुऽदहन्। इहि। २५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

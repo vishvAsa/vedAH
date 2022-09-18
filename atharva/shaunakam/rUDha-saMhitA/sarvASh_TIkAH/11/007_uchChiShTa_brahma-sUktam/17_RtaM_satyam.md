@@ -21,7 +21,6 @@ explains *ṛta* here by *manasā yathārthasaṁkalpanam* 'right conception';
 Right, truth, dominion, fervent zeal, toil, duty, action, future, past, Valour; prosperity, and strength dwell in the Residue in strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतम्। सत्यम्। तपः। राष्ट्रम्। श्रमः। धर्मः। च। कर्म। च। भूतम्। भविष्यत्। उत्ऽशिष्टे। वीर्यम्। लक्ष्मीः। बलम्। बले। ९.१७।

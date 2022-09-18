@@ -26,10 +26,9 @@ Henry) *tád íd*.⌋
 Truly the Goat sprang from the glow of Agni, inspired as sage with all a sage's power. Sacrifice, filled, filled full, offered with Vashat--this let the Gods arrange.at proper seasons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। हि। अग्ने:। अजनिष्ट। शोकात्। विप्र:। विप्रस्य। सहस:। विप:ऽचित्। इष्टम्। पूर्तम्। अभिऽपूर्तम्। वषट्ऽकृतम्। तत्। देवा:। ऋतुऽश:। कल्पयन्तु। ५.१३।
+अजः। हि। अग्नेः। अजनिष्ट। शोकात्। विप्रः। विप्रस्य। सहसः। विपःऽचित्। इष्टम्। पूर्तम्। अभिऽपूर्तम्। वषट्ऽकृतम्। तत्। देवाः। ऋतुऽशः। कल्पयन्तु। ५.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

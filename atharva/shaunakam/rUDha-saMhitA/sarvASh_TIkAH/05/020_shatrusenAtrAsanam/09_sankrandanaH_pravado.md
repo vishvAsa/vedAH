@@ -23,10 +23,9 @@ p. 99. Ppp. reads *prasraveṇo* for *pravadó* in **a**, and *bhaja* for
 Resonant, roaring, with thy powerful weapons, warning, and heard by troops in many places, Knowing all rules and winning us advantage, deal fame to many where two kings are fighting.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽक्रन्दन:। प्रऽवद:। धृष्णुऽसेन:। प्रवेदऽकृत्। बहुऽधा। ग्रामऽघोषी। श्रेय:। वन्वान:। वयुनानि। विद्वान्। कीर्तिम्। बहुऽभ्य:। वि। हर। द्विऽराजे। २०.९।
+सम्ऽक्रन्दनः। प्रऽवदः। धृष्णुऽसेनः। प्रवेदऽकृत्। बहुऽधा। ग्रामऽघोषी। श्रेयः। वन्वानः। वयुनानि। विद्वान्। कीर्तिम्। बहुऽभ्यः। वि। हर। द्विऽराजे। २०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

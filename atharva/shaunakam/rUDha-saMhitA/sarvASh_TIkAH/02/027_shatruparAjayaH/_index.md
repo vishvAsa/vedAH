@@ -7,7 +7,6 @@ title = "०२७ शत्रुपराजयः"
 27. For victory in disputation: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुपराजयः।  
@@ -18,8 +17,6 @@ title = "०२७ शत्रुपराजयः"
 
 [Kapiñjala.—saptarcam. vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 190; Ludwig, p. 461; Grill, 1st edition, 18, 51; Bloomf
 
 A charm against an opponent in debate
 </details>
+

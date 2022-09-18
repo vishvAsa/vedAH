@@ -29,10 +29,9 @@ with *akran*.⌋
 Let those who are our foemen stay afar from us: with Indra and with Agni we will drive them off. The Adityas and the Rudras, over us on high, have made me strong, a thinker, and a sovran lord.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। न:। सऽपत्ना:। अप। ते। भवन्तु। इन्द्राग्निऽभ्याम्। अव। बाधामहे। एनान्। आदित्या:। रुद्रा:। उपरिऽस्पृश:। न:। उग्रम्। चेत्तारम्। अधिऽराजम्। अक्रत। ३.१०।
+ये। नः। सऽपत्नाः। अप। ते। भवन्तु। इन्द्राग्निऽभ्याम्। अव। बाधामहे। एनान्। आदित्याः। रुद्राः। उपरिऽस्पृशः। नः। उग्रम्। चेत्तारम्। अधिऽराजम्। अक्रत। ३.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

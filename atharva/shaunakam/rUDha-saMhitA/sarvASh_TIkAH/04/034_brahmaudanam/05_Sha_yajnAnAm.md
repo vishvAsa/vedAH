@@ -48,10 +48,9 @@ vs. 5 with *mulālī́*, and begins vs. 6 with the following refrain.
 Strongest is this, performed, of sacrifices: he hath reached heaven who hath prepared Vishtari. The oval-fruited lotus spreads his fibre: there bloom the nelo- phar and water-lilies. Abundant with their overflow of sweetness, these streams shall reach thee in the world of Svarga, whole lakes with lotus- blossom shall approach thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एष:। यज्ञानाम्। विऽतत:। वहिष्ठ:। विष्टारिणम्। पक्त्वा। दिवम्। आ। विवेश। आण्डीकम्। कुमुदम्। सम्। तनोति। बिसम्। शालूकम्। शफक:। मुलाली। एता:। त्वा। धारा:। उप। यन्तु। सर्वा:। स्व:ऽगे। लोके। मधुऽमत्। पिन्वमाना:। उप। त्वा। तिष्ठन्तु। पुष्करिणी:। सम्ऽअन्ता:। ३४.५।
+एषः। यज्ञानाम्। विऽततः। वहिष्ठः। विष्टारिणम्। पक्त्वा। दिवम्। आ। विवेश। आण्डीकम्। कुमुदम्। सम्। तनोति। बिसम्। शालूकम्। शफकः। मुलाली। एताः। त्वा। धाराः। उप। यन्तु। सर्वाः। स्वःऽगे। लोके। मधुऽमत्। पिन्वमानाः। उप। त्वा। तिष्ठन्तु। पुष्करिणीः। सम्ऽअन्ताः। ३४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

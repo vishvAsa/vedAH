@@ -18,7 +18,6 @@ Parts of this verse are quoted as examples under Prāt. ii. 21, 24; iii.
 Agni is he, and Siirya, he is verily Mahayama.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। अग्निः। सः। ऊं इति। सूर्यः। सः। ऊं इति। एव। महाऽयमः। ४.५।

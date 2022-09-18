@@ -27,7 +27,6 @@ Anukr. does not heed that the last pāda is *jagatī*. Ppp. combines in
 The tribes thy heat produced have followed hither the Calf and Gayatri, the strain that lauds him. With friendly heart let them approach to serve thee, and the Calf Rohita come with his mother.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ते। विशः। तपसः। सम्ऽबभूवुः। वत्सम्। गायत्रीम्। अनु। ताः। इह। आ। अगुः। ताः। त्वा। आ। विशन्तु। मनसा। शिवेन। सम्ऽमाता। वत्सः। अभि। एतु। रोहितः। १.१०।

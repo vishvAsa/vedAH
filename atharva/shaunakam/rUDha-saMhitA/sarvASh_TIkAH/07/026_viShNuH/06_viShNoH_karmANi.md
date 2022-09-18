@@ -42,10 +42,9 @@ the end of his "spoiled decad"?⌋
 Look ye on Vishnu's works, whereby the friend of Indra, close- allied, Hath let his holy ways be seen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्णो:। कर्माणि। पश्यत। यत:। व्रतानि। पस्पशे। इन्द्रस्य। युज्य:। सखा। २७.६।
+विष्णोः। कर्माणि। पश्यत। यतः। व्रतानि। पस्पशे। इन्द्रस्य। युज्यः। सखा। २७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

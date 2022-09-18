@@ -28,10 +28,9 @@ the vs., *Ved. Stud.* ii. 61. Aufrecht, KZ. xxxiv. 459, sees here a root
 That which is hateful to mine eye and spirit, that harasses and robs me of enjoyment, The evil dream I loose upon my foemen. May I rend him when I have lauded Kama.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। मे। मनस:। न। प्रियम्। न। चक्षुष:। यत्। मे। बभस्ति। न। अभिऽनन्दति। तत्। दु:ऽस्वप्न्यम्। प्रति। मुञ्चामि। सऽपत्ने। कामम्। स्तुत्वा। उत्। अहम्। भिदेयम्। २.२।
+यत्। मे। मनसः। न। प्रियम्। न। चक्षुषः। यत्। मे। बभस्ति। न। अभिऽनन्दति। तत्। दुःऽस्वप्न्यम्। प्रति। मुञ्चामि। सऽपत्ने। कामम्। स्तुत्वा। उत्। अहम्। भिदेयम्। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

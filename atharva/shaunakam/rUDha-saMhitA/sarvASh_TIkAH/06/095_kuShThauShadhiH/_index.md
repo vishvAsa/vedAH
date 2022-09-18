@@ -7,7 +7,6 @@ title = "०९५ कुष्ठौषधिः"
 95. For relief from disease: with kúṣṭha.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कुष्ठौषधिः।  
@@ -19,8 +18,6 @@ title = "०९५ कुष्ठौषधिः"
 [Bhṛgvan̄giras.—vānaspatyam; mantroktadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ The hymn is not found in Pāipp. As in the case of the preceding hymn, the first
 ### Translations
 Translated: Griffith, i. 297.
 </details>
+

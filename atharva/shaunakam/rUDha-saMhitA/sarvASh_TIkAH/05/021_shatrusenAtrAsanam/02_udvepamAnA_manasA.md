@@ -19,10 +19,9 @@ The *pada*-mss. unaccountably read *ut॰vépamānā* (instead of -*nāḥ*) in
 When sacrificial butter hath been offered, let our foemen flee. Through consternation, terrified, trembling in mind and eye and heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽवेषमाना:। मनसा। चक्षुषा। हृदयेन। च। धावन्तु। बिभ्यत:। अमित्रा:। प्रऽत्रासेन। आज्ये। हुते। २१.२।
+उत्ऽवेषमानाः। मनसा। चक्षुषा। हृदयेन। च। धावन्तु। बिभ्यतः। अमित्राः। प्रऽत्रासेन। आज्ये। हुते। २१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -33,10 +33,9 @@ Anukr. says *aṣṭamāu nava*, and *caturviṅśa*. ⌊See p. 1045.⌋
 Ut virga abeat et feminis innocua fiat, (virga) membri humidi, membri quod verberat penetratque, id quod tentum est laxa, id quod sursum tentum est deorsum tende.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। शेप:। अपऽअयातै। स्त्रीषु। च। असत्। अनावया:। अवस्थस्य। क्नदिऽवत:। शाङ्कुरस्य। निऽतोदिन:। यत्। आऽततम्। अव। तत्। तनु। यत्। उत्ऽततम्। नि। तत्। तनु। ९५.३।
+यथा। शेपः। अपऽअयातै। स्त्रीषु। च। असत्। अनावयाः। अवस्थस्य। क्नदिऽवतः। शाङ्कुरस्य। निऽतोदिनः। यत्। आऽततम्। अव। तत्। तनु। यत्। उत्ऽततम्। नि। तत्। तनु। ९५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

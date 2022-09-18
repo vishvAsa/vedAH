@@ -27,10 +27,9 @@ to sanction the resolutions to *tu-ā* which would fill out **a** and
 I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oil and fatness. Let the strong Warder God, who keeps the regions bring to us hither safety and well-being.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्राम:। त्वा। हविषा। यजामि। अश्रोण:। त्वा। घृतेन। जुहोमि। य:। आशानाम्। आशाऽपाल:। तुरीय:। देव:। स:। न:। सुऽभूतम्। आ। इह। वक्षत्।
+अस्रामः। त्वा। हविषा। यजामि। अश्रोणः। त्वा। घृतेन। जुहोमि। यः। आशानाम्। आशाऽपालः। तुरीयः। देवः। सः। नः। सुऽभूतम्। आ। इह। वक्षत्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

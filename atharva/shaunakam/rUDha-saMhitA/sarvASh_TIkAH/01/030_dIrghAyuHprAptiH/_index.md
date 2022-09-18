@@ -7,7 +7,6 @@ title = "०३० दीर्घायुःप्राप्तिः"
 30. For protection: to all the gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०३० दीर्घायुःप्राप्तिः"
 
 [Atharvan (āyuṣkāmaḥ).—vāiśvadevam. trāiṣṭubham: 3. śākvaragarbhā virāḍjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 424; Ludwig, p. 430; Griffith, i. 34.
 
 A benediction on a King at his consecration
 </details>
+

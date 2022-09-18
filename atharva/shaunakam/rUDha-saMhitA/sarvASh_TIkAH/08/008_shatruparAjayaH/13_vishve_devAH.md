@@ -18,10 +18,9 @@ Ppp. has at the end *vadhāis* instead of *mahīm*.
 The Visve Devas from above shall come depressing it with might, And in the midst the Angirases, slaying the mighty host, shall go.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वे। देवा:। उपरिष्टात्। उब्जन्त:। यन्तु। ओजसा। मध्येन। घ्नन्त:। यन्तु। सेनाम्। अङ्गिरस:। महीम्। ८.१३।
+विश्वे। देवाः। उपरिष्टात्। उब्जन्तः। यन्तु। ओजसा। मध्येन। घ्नन्तः। यन्तु। सेनाम्। अङ्गिरसः। महीम्। ८.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

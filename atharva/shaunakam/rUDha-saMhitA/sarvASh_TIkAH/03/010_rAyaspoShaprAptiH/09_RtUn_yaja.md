@@ -26,10 +26,9 @@ nights," and *samā* "half-months."
 The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half years, Years, Months, I offer to the Lord of all existing things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋतून्। यजे। ऋतुऽपतीन्। आर्तवान्। उत। हायनान्। समा:। सम्ऽवत्सरान्। मासान्। भूतस्‍य। पतये। यजे। १०.९।
+ऋतून्। यजे। ऋतुऽपतीन्। आर्तवान्। उत। हायनान्। समाः। सम्ऽवत्सरान्। मासान्। भूतस्‍य। पतये। यजे। १०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ barbarians; with it do thou slay thy haters.
 Atharvan made the Amulet, Atharvan's children fashioned it. With them the sage Angirases broke through the Dasyus' fortresses. With this subdue thine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अथर्वाणः। अबध्नत। आथर्वणाः। अबध्नत। तैः। मेदिनः। अङ्गिरसः। दस्यूनाम्। बिभिदुः। पुरः। तेन। त्वम्। द्विषतः। जहि। ६.२०।

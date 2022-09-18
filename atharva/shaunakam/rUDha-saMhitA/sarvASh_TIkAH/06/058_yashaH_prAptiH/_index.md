@@ -7,7 +7,6 @@ title = "०५८ यशः प्राप्तिः"
 58. For glory.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यशः प्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०५८ यशः प्राप्तिः"
 
 [Atharvan (yaśaskāmaḥ).—mantroktadevatyam. bārhaspatyam. 1. jagatī; 2. prastārapan̄kti; 3. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 240; Griffith, i. 277.
 
 A priest's prayer for power and glory
 </details>
+

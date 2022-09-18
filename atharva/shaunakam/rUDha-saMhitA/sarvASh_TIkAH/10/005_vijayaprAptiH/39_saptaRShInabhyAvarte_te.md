@@ -16,7 +16,6 @@ title = "३९ सप्तऋषीनभ्यावर्ते ते"
 I turn me to the Rishis Seven. May they, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्तऽऋषीन्। अभिऽआवर्ते। ते। मे। द्रविणम्। यच्छन्तु। ते। मे। ब्राह्मणऽवर्चसम्। ५.३९।

@@ -22,10 +22,9 @@ bewitched thee, if a man of thine own' etc.—supply *abhicacā́ra*⌋.
 If any man, a stranger or akin, hath cast a spell on thee, I with my voice to thee declare thy freedom and release there- from.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। त्वा। अभिऽचेरु:। पुरुष:। स्व:। यत्। अरण:। जन:। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.२।
+यत्। त्वा। अभिऽचेरुः। पुरुषः। स्वः। यत्। अरणः। जनः। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

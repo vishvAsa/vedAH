@@ -26,7 +26,6 @@ knowledge.
 Diksha and Agnyadheya rite that sates the wish, with magic- hymn, Suspended rites, long sessions, are contained within the Residue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निऽआधेयम्। अथो इति। दीक्षा। कामऽप्रः। छन्दसा। सह। उत्ऽसन्नाः। यज्ञाः। सत्त्राणि। उत्ऽशिष्टे। अधि। सम्ऽआहिताः। ९.८।

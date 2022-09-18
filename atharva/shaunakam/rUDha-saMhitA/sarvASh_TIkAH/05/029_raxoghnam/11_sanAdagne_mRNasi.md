@@ -20,10 +20,9 @@ hymn of which it forms a part: see the note upon it there.
 Thou, Agni, ever slayest Yatudhanas, the fiends have never con- quered thee in battles. Consume thou from the root the flesh-devourers, let none of them escape thy heavenly weapon
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्यु:। सहऽमूरान्। अनु। दह। क्रव्यऽअद:। मा। ते। हेत्या:। मुक्षत। दैव्याया:। २९.११।
+सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्युः। सहऽमूरान्। अनु। दह। क्रव्यऽअदः। मा। ते। हेत्याः। मुक्षत। दैव्यायाः। २९.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

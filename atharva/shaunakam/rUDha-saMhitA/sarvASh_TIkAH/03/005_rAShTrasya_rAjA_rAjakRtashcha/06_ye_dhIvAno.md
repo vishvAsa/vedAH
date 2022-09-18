@@ -23,10 +23,9 @@ enough correctly, by *sevārthaṁ samīpe vidyamānān upāsīnām vā.*
 Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men on every side, Parna, obedient to my will
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। धीवान:। रथऽकारा:। कर्मारा:। ये। मनीषिण:। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभित:। जनान्। ५.६।
+ये। धीवानः। रथऽकाराः। कर्माराः। ये। मनीषिणः। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

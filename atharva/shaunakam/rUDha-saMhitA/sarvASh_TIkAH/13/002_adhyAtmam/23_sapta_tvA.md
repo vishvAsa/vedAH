@@ -20,7 +20,6 @@ preceding word, *śocíḥk-*.
 Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Surya, with the radiant hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। त्वा। हरितः। रथे। वहन्ति। देव। सूर्य। शोचिःऽकेशम्। विऽचक्षणम्। २.२३।

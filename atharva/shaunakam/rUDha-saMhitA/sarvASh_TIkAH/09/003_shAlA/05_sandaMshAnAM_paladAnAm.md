@@ -20,10 +20,9 @@ Ppp. reads, in **a, b**, *palidānāṁ pariṣvañcanadasya ca;* and, for
 We loosen here the ties and bands of straw in bundles, and of clamps, Of all that compasses and binds the Lady Genius of the Home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽदंशानाम्। पलदानाम्। परिऽस्वञ्जल्यस्य। च। इदम्। मानस्य। पत्न्या:। नध्दानि। वि। चृतामसि। ३.५।
+सम्ऽदंशानाम्। पलदानाम्। परिऽस्वञ्जल्यस्य। च। इदम्। मानस्य। पत्न्याः। नध्दानि। वि। चृतामसि। ३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

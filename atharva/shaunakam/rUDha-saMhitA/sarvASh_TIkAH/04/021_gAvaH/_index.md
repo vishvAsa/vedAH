@@ -7,7 +7,6 @@ title = "०२१ गावः"
 21. Praise of the kine.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गावः।  
@@ -18,8 +17,6 @@ title = "०२१ गावः"
 
 [Brahman.—gavyam. trāiṣṭubham. 2-4. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by RV. translators; and Griffith, i. 161; Weber, xviii. 87.
 
 Glorification and benediction of cows
 </details>
+

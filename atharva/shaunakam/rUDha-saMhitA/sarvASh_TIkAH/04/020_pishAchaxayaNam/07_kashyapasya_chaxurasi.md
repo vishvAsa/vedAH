@@ -33,10 +33,9 @@ that *kaśyapa* punningly suggests *paśyaka* 'seer,' and cites TA. i. 8.
 Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisacha manifest as Surya when he rides at noon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कश्यपस्य। चक्षु:। असि। शुन्या:। च। चतु:ऽअक्ष्या:। वीध्रे। सूर्यम्ऽइव। सर्पन्तम्। मा। पिशाचम्। तिर:। कर:। २०.७।
+कश्यपस्य। चक्षुः। असि। शुन्याः। च। चतुःऽअक्ष्याः। वीध्रे। सूर्यम्ऽइव। सर्पन्तम्। मा। पिशाचम्। तिरः। करः। २०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

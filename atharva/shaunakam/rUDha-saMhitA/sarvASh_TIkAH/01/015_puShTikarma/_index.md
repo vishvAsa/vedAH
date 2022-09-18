@@ -7,7 +7,6 @@ title = "०१५ पुष्टिकर्म"
 15. With an oblation: for confluence of wealth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पुष्टिकर्म।  
@@ -18,8 +17,6 @@ title = "०१५ पुष्टिकर्म"
 
 [Atharvan.—sāindhavam. ānuṣṭubham: 2. bhurikpathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 409; Ludwig, p. 371; Griffith, i. 19.
 
 A prayer for the prosperity of an institutor of sacrifice
 </details>
+

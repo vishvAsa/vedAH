@@ -21,10 +21,9 @@ flesh by the bite, or unburied but clinging.
 Varuna, Sage of heaven, hath given me the gift: with spells of mighty power I draw thy poison out. Dug up, not dug, adherent, I have seized it fast: low hath thy venom sunk like water in the sands.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ददि:। हि। मह्यम्। वरुण:। दिव:। कवि:। वच:ऽभि:। उग्रै:। नि। रिणामि। ते। विषम्। खातम्। अखातम्। उत। सक्तम्। अग्रभम्। इराऽइव। धन्वन्। नि। जजास। ते। विषम्। १३.१।
+ददिः। हि। मह्यम्। वरुणः। दिवः। कविः। वचःऽभिः। उग्रैः। नि। रिणामि। ते। विषम्। खातम्। अखातम्। उत। सक्तम्। अग्रभम्। इराऽइव। धन्वन्। नि। जजास। ते। विषम्। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

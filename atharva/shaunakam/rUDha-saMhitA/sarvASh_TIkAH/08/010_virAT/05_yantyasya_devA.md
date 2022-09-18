@@ -17,10 +17,9 @@ his assembly, fit for the assembly becometh he who knoweth thus.
 She mounted up, she entered the Assembly. He who knows this becomes polite and courtly, and people come as guests to his assembly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यन्ति। अस्य। देवा:। देवऽहूतिम्। प्रिय:। देवानाम्। भवति। य:। एवम्। वेद। । १०.५।
+यन्ति। अस्य। देवाः। देवऽहूतिम्। प्रियः। देवानाम्। भवति। यः। एवम्। वेद। । १०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

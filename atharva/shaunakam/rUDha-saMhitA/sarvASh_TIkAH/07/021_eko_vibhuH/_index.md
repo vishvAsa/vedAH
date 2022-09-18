@@ -7,7 +7,6 @@ title = "०२१ एको विभुः"
 21 (22). In praise of the sun.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 एको विभुः।  
@@ -18,8 +17,6 @@ title = "०२१ एको विभुः"
 
 [Brahman.—mantroktātmadevatyam. śakvarīvirāḍgarbhā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 9, 61; Griffith, i. 338.
 
 A funeral stanza
 </details>
+

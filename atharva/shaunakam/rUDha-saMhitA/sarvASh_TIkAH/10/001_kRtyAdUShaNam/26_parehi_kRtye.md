@@ -21,7 +21,6 @@ down.
 Kritya, begone, stay not. Pursue as 'twere the wounded crea- ture's track. He is the chase, the hunter thou he may not slight or humble thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परा। इहि। कृत्ये। मा। तिष्ठः। विध्दस्यऽइव। पदम्। नय। मृगः। सः। मृगऽयुः। त्वम्। न। त्वा। निऽकर्तृम्। अर्हति। १.२६।

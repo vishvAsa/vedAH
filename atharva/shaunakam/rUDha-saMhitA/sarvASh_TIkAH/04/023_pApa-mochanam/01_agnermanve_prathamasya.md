@@ -30,10 +30,9 @@ in detail are too inaccurate to be worthy of attention throughout.
 I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place enkindled. We seek him who hath entered all our houses. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:। मन्वे। प्रथमस्य। प्रऽचेतस:। पाञ्चऽजन्यस्य। बहुऽधा। यम्। इन्धते। विश:ऽविश:। प्रविशिऽवासम्। ईमहे। स:। न:। मुञ्चतु। अंहस:। २३.१।
+अग्नेः। मन्वे। प्रथमस्य। प्रऽचेतसः। पाञ्चऽजन्यस्य। बहुऽधा। यम्। इन्धते। विशःऽविशः। प्रविशिऽवासम्। ईमहे। सः। नः। मुञ्चतु। अंहसः। २३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

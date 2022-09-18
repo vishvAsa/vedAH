@@ -7,7 +7,6 @@ title = "०२१ शान्तिः"
 21. With oblation to the various forms of fire or Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
@@ -18,8 +17,6 @@ title = "०२१ शान्तिः"
 
 [Vasiṣṭha.—daśarcam. āgneyam. trāiṣṭubham: 1. puro ‘nuṣṭubh; 2, 3, 8. bhurij; 5. jagatī; 6. upariṣṭādvirāḍbṛhatī; 7. virāḍgarbhā; 9, 10. anuṣṭubh (9. nicṛt).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 277; Grifiith, i. 113; vss. 1-7 also by Ludwig, p. 325.
 
 In honour of fire in all shapes, to appease Agni of the funeral pile and to quench the flames of cremation
 </details>
+

@@ -23,10 +23,9 @@ aśvām aśvān aham*). The Anukr. ignores the redundant syllable in **a**.
 I quicken these men's princely sway, the might, the manly strength and force; I rend away the foemen's arms with this presented sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। अहम्। एषाम्। राष्ट्रम्। स्यामि। सम्। ओज:। वीर्यम्। बलम्। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। १९.२।
+सम्। अहम्। एषाम्। राष्ट्रम्। स्यामि। सम्। ओजः। वीर्यम्। बलम्। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। १९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ inserting *nas* before *śami* in **d**; it also reads *ūrdhvasvapne*
 Auspicious, bearing mighty leaves, holy one, nurtured by the rain, Even as a mother to her sons, be gracious, Sami to our hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहत्ऽपलाशे। सुऽभगे। वर्षऽवृध्दे। ऋतऽवरि। माताऽइव। पुत्रेभ्य:। मृड। केशेभ्य:। शमि। ३०.३।
+बृहत्ऽपलाशे। सुऽभगे। वर्षऽवृध्दे। ऋतऽवरि। माताऽइव। पुत्रेभ्यः। मृड। केशेभ्यः। शमि। ३०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

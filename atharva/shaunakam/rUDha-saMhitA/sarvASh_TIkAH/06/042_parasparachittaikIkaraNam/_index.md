@@ -7,7 +7,6 @@ title = "०४२ परस्परचित्तैकीकरणम्"
 42. To remove wrath.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 परस्परचित्तैकीकरणम्।  
@@ -18,8 +17,6 @@ title = "०४२ परस्परचित्तैकीकरणम्"
 
 [Bhṛgvan̄giras (parasparaṁcittāikīkaraṇaḥ).—manyudevatyam. ānuṣṭubham: 1. 2. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 515; Florenz, 302 or 54; Grill, 29, 162; Griffith, i. 267
 
 A charm to reconcile estranged friends
 </details>
+

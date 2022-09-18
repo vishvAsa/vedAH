@@ -17,7 +17,6 @@ against by one who understands (*vi-jñā*).\*
 Therefore the Brahmans' cow is held inviolable by the wise.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्मात्। वै। ब्राह्मणानाम्। गौः। दुःऽआधर्षा। विऽजानता। ७.६।

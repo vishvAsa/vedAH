@@ -24,10 +24,9 @@ explanation of *devānām* in which it is understood as = *indriyāṇām*
 Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou who hast all medicine comest as envoy of the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। वात। वाहि। भेषजम्। वि। वात। वाहि। यत्। रप:। त्वम्। हि। विश्वऽभेषज। देवानाम्। दूत:। ईयसे। १३.३।
+आ। वात। वाहि। भेषजम्। वि। वात। वाहि। यत्। रपः। त्वम्। हि। विश्वऽभेषज। देवानाम्। दूतः। ईयसे। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -40,10 +40,9 @@ reads *paraśur vediṣ paraśu nas svasti*, and, in **d**, *havir idaṁ* for
 Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hatchet bless us. Worshipful Gods, may they accept this worship, lovers of sacri- fice, and sacrificers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वेद:। स्वस्ति:। द्रुऽघन:। स्वस्ति:। परशु:। वेदि:। परशु:। न:। स्वस्ति। हवि:ऽकृत:। यज्ञिया:। यज्ञऽकामा:। ते। देवास:। यज्ञम्। इमम्। जुषन्ताम्। २९.१।
+वेदः। स्वस्तिः। द्रुऽघनः। स्वस्तिः। परशुः। वेदिः। परशुः। नः। स्वस्ति। हविःऽकृतः। यज्ञियाः। यज्ञऽकामाः। ते। देवासः। यज्ञम्। इमम्। जुषन्ताम्। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

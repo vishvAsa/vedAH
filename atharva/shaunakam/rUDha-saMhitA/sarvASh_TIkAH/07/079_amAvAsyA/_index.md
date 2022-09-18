@@ -7,7 +7,6 @@ title = "०७९ अमावास्या"
 79 (84). To Amāvāsyā (night or goddess of new moon).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमावास्या।  
@@ -18,8 +17,6 @@ title = "०७९ अमावास्या"
 
 [Atharvan.—caturṛcam. amāvāsyādevatākam. trāiṣṭubham: 1. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 32, 100; Griffith, i. 367.
 
 A hymn to the New Moon
 </details>
+

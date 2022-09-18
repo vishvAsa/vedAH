@@ -7,7 +7,6 @@ title = "०६९ सुखम्"
 69 (72). Prayer for good fortune.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुखम्।  
@@ -18,8 +17,6 @@ title = "०६९ सुखम्"
 
 [śaṁtāti.—sukhadevatākam. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 26, 91; Griffith, i. 360.
 
 A prayer for prosperity
 </details>
+

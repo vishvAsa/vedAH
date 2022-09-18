@@ -7,7 +7,6 @@ title = "०८० पूर्णिमा"
 80 (85). To the night or goddess of full moon (pāurṇamāsī́).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पूर्णिमा।  
@@ -18,8 +17,6 @@ title = "०८० पूर्णिमा"
 
 [Atharvan.—caturṛcam. pāurṇamāsam: 3. prājāpatyā. trāiṣṭubham: 2. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 32, 101; Griffith, i. 367. See also Zimmer, p. 365 (vss. 1-2)
 
 A hymn to the Full Moon
 </details>
+

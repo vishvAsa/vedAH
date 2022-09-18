@@ -19,7 +19,6 @@ for **d**, *ko vāśām ko anṛtaṁ dadhāu*.
 Who set the seed in him and said, Still be the thread of life spun out? Who gave him intellect besides? Who gave him voice and gestic power?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मिन्। रेतः। नि। अदधात्। तन्तुः। आ। तायताम्। इति। मेधाम्। कः। अस्मिन्। अधि। औहत्। कः। बाणम्। कः। नृतः। दधौ। २.१७।

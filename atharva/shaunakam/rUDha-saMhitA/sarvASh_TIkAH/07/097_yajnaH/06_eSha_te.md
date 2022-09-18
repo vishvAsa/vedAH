@@ -25,10 +25,9 @@ adjective, BR., s.v., would read with TS. *suvī́raḥ*.⌋
 This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एष:। ते। यज्ञ:। यज्ञऽपते। सहऽसूक्तवाक:। सुऽवीर्य:। स्वाहा। १०२.६।
+एषः। ते। यज्ञः। यज्ञऽपते। सहऽसूक्तवाकः। सुऽवीर्यः। स्वाहा। १०२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

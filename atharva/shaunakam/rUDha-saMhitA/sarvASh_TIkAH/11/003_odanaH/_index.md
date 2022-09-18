@@ -7,7 +7,6 @@ title = "००३ ओदनः"
 3. Extolling the rice-dish (odaná).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ओदनः।  
@@ -23,8 +22,6 @@ title = "००३ ओदनः"
 
 [Atharvan.—trayaḥ paryāyāḥ.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -52,3 +49,4 @@ Translated: Henry, 106, 145; Griffith, ii. 61.—Cf. especially Henry's introduc
 
 A glorification of the Odana or oblation of boiled rice
 </details>
+

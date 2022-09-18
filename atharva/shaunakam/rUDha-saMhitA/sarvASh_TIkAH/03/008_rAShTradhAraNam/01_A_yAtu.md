@@ -32,10 +32,9 @@ richtend nach.'⌋
 Let Mitra come, arranging, with the Seasons, lulling the Earth to rest with gleams of splendour. And so let Agni, Varuna, and Vayu make our dominion tran- quil and exalted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। यातु। मित्र:। ऋतुऽभि:। कल्पमान:। सम्ऽवेशयन्। पृथिवीम्। उस्रियाभि:। अथ। अस्मभ्यम्। वरुण:। वायु:। अग्नि:। बृहत्। राष्ट्रम्। सम्ऽवेश्यम्। दधातु। ८.१।
+आ। यातु। मित्रः। ऋतुऽभिः। कल्पमानः। सम्ऽवेशयन्। पृथिवीम्। उस्रियाभिः। अथ। अस्मभ्यम्। वरुणः। वायुः। अग्निः। बृहत्। राष्ट्रम्। सम्ऽवेश्यम्। दधातु। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -26,10 +26,9 @@ by *nadyas.*
 Now will I tell the manly deeds of Indra, the first that he achieved, the thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। नु। प्र। वोचम्। वीर्याणि। यानि। चकार। प्रथमानि। वज्री। अहन्। अहिम्। अनु। अप:। ततर्द। प्र। वक्षणा:। अभिनत्। पर्वतानाम्। ५.५।
+इन्द्रस्य। नु। प्र। वोचम्। वीर्याणि। यानि। चकार। प्रथमानि। वज्री। अहन्। अहिम्। अनु। अपः। ततर्द। प्र। वक्षणाः। अभिनत्। पर्वतानाम्। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

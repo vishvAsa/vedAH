@@ -21,10 +21,9 @@ doubtful; perhaps 'one who disputes possession': cf. MS. iii. 7. 3 (p.
 King Soma first of all, without reluctance, made restitution of the Brahman's consort. Mitra and Varuna were the inviters: Agni as Hotar took her hand and led her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोम:। राजा। प्रथम:। ब्रह्मऽजायाम्। पुन:। प्र। अयच्छत्। अहृणीयमान:। अनुऽअर्तिता। वरुण:। मित्र:। आसीत्। अग्नि:। होता। हस्तऽगुह्य। आ। निनाय। १७.२।
+सोमः। राजा। प्रथमः। ब्रह्मऽजायाम्। पुनः। प्र। अयच्छत्। अहृणीयमानः। अनुऽअर्तिता। वरुणः। मित्रः। आसीत्। अग्निः। होता। हस्तऽगुह्य। आ। निनाय। १७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

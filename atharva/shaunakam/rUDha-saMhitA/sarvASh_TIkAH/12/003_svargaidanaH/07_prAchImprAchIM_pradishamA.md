@@ -27,7 +27,6 @@ pakvaṣ pitryāyaṇ ‘ty* (*‘bhy?*) *āmayat*.
 Approach the eastern, yea: the eastern region, this is the sphere to which the faithful turn them, Your cooked oblation that in fire was offered, together, wife and husband, meet to guard it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राचीम्ऽप्राचीम्। प्रऽदिशम्। आ। रभेथाम्। एतम्। लोकम्। अत्ऽदधानाः। सचन्ते। यत्। वाम्। पक्वम्। परिऽविष्टम्। अग्नौ। तस्य। गुप्तये। दंपती इति दम्ऽपती। सम्। श्रयेथाम्। ३.७। ‍

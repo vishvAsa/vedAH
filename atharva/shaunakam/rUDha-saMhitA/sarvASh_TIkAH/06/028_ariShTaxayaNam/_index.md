@@ -7,7 +7,6 @@ title = "०२८ अरिष्टक्षयणम्"
 28. Against birds of ill omen etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०२८ अरिष्टक्षयणम्"
 
 [Bhṛgu.—yāmyam uta nāirṛtam. trāiṣṭubham: 2. anuṣṭubh; 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 285 or 37; Griffith, i. 260.
 
 A charm to avert misfortune foreshown by the coming of a dove
 </details>
+

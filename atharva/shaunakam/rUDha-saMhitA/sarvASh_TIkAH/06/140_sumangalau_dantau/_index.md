@@ -7,7 +7,6 @@ title = "१४० सुमङ्गलौ दन्तौ"
 140. With the first two upper teeth of a child.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुमङ्गलौ दन्तौ।  
@@ -19,8 +18,6 @@ title = "१४० सुमङ्गलौ दन्तौ"
 [Atharvan.—brāhmaṇaspatyam uta mantroktadantadevatyam. ānuṣṭubham: 1. urobṛhatī; 2. upariṣṭājjyotiṣmatī triṣṭubh; 3. āstārapan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Used by Kāuś. (46. 43-46) in an expiatory rite when
 ### Translations
 Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 540.
 </details>
+

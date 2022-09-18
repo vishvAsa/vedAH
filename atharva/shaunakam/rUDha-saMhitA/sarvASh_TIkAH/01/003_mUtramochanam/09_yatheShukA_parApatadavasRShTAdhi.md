@@ -23,10 +23,9 @@ omission of the sense-disturbing refrain.
 Even as the arrow flies away when loosened from the archer's bow, Thus let the burthen be discharged from channels that are checked no more.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इषुका। पराऽअपतत्। अवऽसृष्टा। अधि। धन्वन:। एव। ते। मूत्रम्। मुच्यताम्। बहि:। बाल्। इति। सर्वकम्। ३.९।
+यथा। इषुका। पराऽअपतत्। अवऽसृष्टा। अधि। धन्वनः। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्। ३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

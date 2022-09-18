@@ -24,7 +24,6 @@ which favors this understanding of the pāda; it also combines *tasmā
 Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with the Deities, is hard for him to win and rest upon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। एवम्। विदुषे। अदत्त्वा। अथ। अन्येभ्यः। ददत्। वशाम्। दुःऽगा। तस्मै। अधिऽस्थाने। पृथिवी। सहऽदेवता। ४.२३।

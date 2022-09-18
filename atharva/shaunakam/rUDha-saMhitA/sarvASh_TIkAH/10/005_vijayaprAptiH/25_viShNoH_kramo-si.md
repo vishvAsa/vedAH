@@ -27,7 +27,6 @@ the water-bolts: cf. introd.⌋. ⌊Cf. vii. 31. 1 **d**.⌋
 Thou art the step of Vishnu, rival-slayer, sharpened by earth, aglow with fire of Agni, Earth have I ranged: from earth we bar him who hates us and whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विष्णोः। क्रमः। असि। सपत्नऽहा। पृथिवीऽसंशितः। अग्निऽतेजाः। पृथिवीम्। अनु। वि। क्रमे। अहम्। पृथिव्याः। तम्। निः। भजामः। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। सः। मा। जीवीत्। तम्। प्राणः। जहातु। ५.२५।

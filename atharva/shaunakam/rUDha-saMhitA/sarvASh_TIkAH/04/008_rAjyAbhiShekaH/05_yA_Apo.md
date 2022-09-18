@@ -40,10 +40,9 @@ vigor of the waters of all three worlds.⌋
 Heaven's waters joyous in their milk, the waters of middle air, and those that earth containeth- I with the gathered power and might of all these waters sprinkle thee,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। आप:। दिव्या:। पयसा। मदन्ति। अन्तरिक्षे। उत। वा। पृथिव्याम्। तासाम्। त्वा। सर्वासाम्। अपाम्। अभि। सिञ्चामि। वर्चसा। ८.५।
+याः। आपः। दिव्याः। पयसा। मदन्ति। अन्तरिक्षे। उत। वा। पृथिव्याम्। तासाम्। त्वा। सर्वासाम्। अपाम्। अभि। सिञ्चामि। वर्चसा। ८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

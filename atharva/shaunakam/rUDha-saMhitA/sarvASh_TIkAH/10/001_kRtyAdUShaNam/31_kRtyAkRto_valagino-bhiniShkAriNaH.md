@@ -19,7 +19,6 @@ Ppp. uses the singular in **d**.
 The brood of wizard, sorcerer, the purposer of evil deed. Crush thou, O Kritya spare not, kill those practisers of magic arts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृत्याऽकृतः। वलगिनः। अभिऽनिष्कारिणः। प्रऽजाम्। मृणीहि। कृत्ये। मा। उत्। शिषः। अमून्। कृत्याऽकृतः। जहि। १.३१।

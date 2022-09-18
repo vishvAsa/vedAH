@@ -21,7 +21,6 @@ The verse is quoted in Vāit. 28. 28.
 Luller to rest, and gatherer-up of treasures, Savitar like a God whose laws are constant, hath stood like Indra in the war for riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निऽवेशनः। सम्ऽगमनः। वसूनाम्। देवःऽइव। सविता। सत्यऽधर्मा। इन्द्रः। न। तस्थौ। सम्ऽअरे। धनानाम्। ८.४२।

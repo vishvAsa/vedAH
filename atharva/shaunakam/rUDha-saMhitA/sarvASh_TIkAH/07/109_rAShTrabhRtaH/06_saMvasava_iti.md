@@ -33,10 +33,9 @@ reading; but SPP. reports *idáṁ vaḥ* and *indaváḥ;* none give
 Fellow-inhabitants, such is your title, for Dice with looks of power support dominion. As such with offerings may we serve you, Indus! May we have riches in our own possession.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽवसव:। इति। व:। नामऽधेयम्। उग्रम्ऽपश्या:। राष्ट्रऽभृत:। हि। अक्षा:। तेभ्य:। व:। इन्दव:। हविषा। विधेम। वयम्। स्याम। पतय:। रयीणाम्। ११४.६।
+सम्ऽवसवः। इति। वः। नामऽधेयम्। उग्रम्ऽपश्याः। राष्ट्रऽभृतः। हि। अक्षाः। तेभ्यः। वः। इन्दवः। हविषा। विधेम। वयम्। स्याम। पतयः। रयीणाम्। ११४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

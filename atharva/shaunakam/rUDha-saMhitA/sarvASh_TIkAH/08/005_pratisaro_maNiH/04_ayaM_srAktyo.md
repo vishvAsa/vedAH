@@ -19,10 +19,9 @@ end.
 May this encircling magic cord, this Amulet of Sraktya wood, Mighty, subduing enemies, keep us secure on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। स्राक्त्य:। मणि:। प्रतिऽवर्त:। प्रतिऽसर:। ओजस्वान्। विऽमृध:। वशी। स:। अस्मान्। पातु। सर्वत:। ५.४।
+अयम्। स्राक्त्यः। मणिः। प्रतिऽवर्तः। प्रतिऽसरः। ओजस्वान्। विऽमृधः। वशी। सः। अस्मान्। पातु। सर्वतः। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

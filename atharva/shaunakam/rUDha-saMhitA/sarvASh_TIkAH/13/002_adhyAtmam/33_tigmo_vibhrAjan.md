@@ -23,7 +23,6 @@ and of this passage in *Noun-Inflection*, p. 363.⌋
 Flaming and radiant, strengthening his body, bestowing floods that promptly come to meet us, He, luminous, winged, mighty, strength-bestower, hath mounted all the regions as he forms them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तिग्मः। विऽभ्राजन्। तन्वम्। शिशानः। अरम्ऽगमासः। प्रऽवतः। रराणः। ज्योतिष्मान्। पक्षी। महिषः। वयःऽधाः। विश्वाः। आ। अस्थात्। प्रऽदिशः। कल्पमानः। २.३३।

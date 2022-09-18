@@ -32,10 +32,9 @@ suspect that the *avagraha* of *sám॰jñapayāmi* has blundered in from the
 Let there be union of your minds, let there be union of your hearts: All that is troubled in your lot with this I mend and harmonize.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽज्ञपनम्। व:। मनस:। अथो इति। सम्ऽज्ञपनम्। हृद:। अथो  इति। भगस्य। यत्। श्रान्तम्। तेन। सम्ऽज्ञपयामि। व:। ७४.२।
+सम्ऽज्ञपनम्। वः। मनसः। अथो इति। सम्ऽज्ञपनम्। हृदः। अथो  इति। भगस्य। यत्। श्रान्तम्। तेन। सम्ऽज्ञपयामि। वः। ७४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

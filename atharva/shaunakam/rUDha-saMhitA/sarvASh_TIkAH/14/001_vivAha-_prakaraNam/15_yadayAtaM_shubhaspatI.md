@@ -26,7 +26,6 @@ means the same. Metrically the verse is as much *virāj* as vs. 14.
 Twin Lords of Lustre, at the time when ye to Surya's wooing came, Then all the Gods agreed to your proposal Pushan as son elected you as father.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अयातम्। शुभः। पती इति। वरेऽयम्। सूर्याम्। उप। विश्वे। देवाः। अनु। तत्। वाम्। अजानन्। पुत्रः। पितरम्। अवृणीत। पूषा। १.१५।

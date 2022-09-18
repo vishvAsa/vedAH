@@ -23,10 +23,9 @@ the Gandharva as the sun and the Apsarases as his rays.
 I came, I met these faultless, blameless beings: among the Apsarases was the Gandharva. Their home is in the sea--so men have told me,--whence they come quickly hitherward and vanish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनवद्याभि:। सम्। ऊं इति। जग्मे। आभि:। अप्सरासु। अपि। गन्धर्व:। आसीत्। समुद्रे। आसाम्। सदनम्। मे। आहु:। यत:। सद्य:। आ। च। परा। च। यन्ति। २.३।
+अनवद्याभिः। सम्। ऊं इति। जग्मे। आभिः। अप्सरासु। अपि। गन्धर्वः। आसीत्। समुद्रे। आसाम्। सदनम्। मे। आहुः। यतः। सद्यः। आ। च। परा। च। यन्ति। २.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

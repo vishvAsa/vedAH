@@ -7,7 +7,6 @@ title = "०८७ राज्ञः संवरणम्"
 87. To establish some one in sovereignty.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राज्ञः संवरणम्।  
@@ -18,8 +17,6 @@ title = "०८७ राज्ञः संवरणम्"
 
 [Atharvan.—dhrāuvyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators, and Zimmer, p. 163; and, as AV. hymn, by Lud
 
 A benediction addressed to a newly elected King
 </details>
+

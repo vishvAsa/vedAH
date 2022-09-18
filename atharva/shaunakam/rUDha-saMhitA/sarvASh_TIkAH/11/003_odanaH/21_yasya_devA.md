@@ -18,7 +18,6 @@ The comm. paraphrases *akalpanta* by *samarthā vīryavanto ‘bhavan*.
 Within the residue whereof the Gods arranged six eightieth parts--
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। देवाः। अकल्पन्त। उत्ऽशिष्टे। षट्। अशीतयः। ३.२१।

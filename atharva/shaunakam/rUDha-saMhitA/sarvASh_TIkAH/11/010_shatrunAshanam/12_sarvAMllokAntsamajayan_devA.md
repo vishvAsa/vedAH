@@ -20,7 +20,6 @@ poured, an Asura-destroying weapon.
 The Gods, victorious, won themselves all worlds by this oblation, which Brihaspati Angirasa effused, a very thunderbolt, a weapon to destory the friends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वान्। लोकान्। सम्। अजयन्। देवाः। आऽहुत्या। अनया। बृहस्पतिः। आङ्गिरसः। वज्रम्। यम्। असिञ्चत। असुरऽक्षयणम्। वधम्। १२.१२।

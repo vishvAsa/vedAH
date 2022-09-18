@@ -23,7 +23,6 @@ to Kāuś. 79. 12, it accompanies the rising from the nuptial bed.
 On your soft couch awaking both together, revelling heartily with joy and laughter, Rich with brave sons, good cattle, goodly homestead, live long to look on many radiant mornings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्योनात्। योनेः। अधि। बुध्यमानौ। हसामुदौ। महसा। मोदमानौ। सुगू इति  सुऽगू। सुऽपुत्रौ। सुऽगृहौ। तराथः। जीवौ। उषसः। विऽभातीः। २.४३।

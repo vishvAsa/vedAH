@@ -19,7 +19,6 @@ regular *sāmnī bṛhatī*.
 Utter destruction when she moveth her ears this way and that, Consumption when she droppeth water;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सर्वऽज्यानिः। कर्णौ। वरीवर्जयन्ती। राजऽयक्ष्मः। मेहन्ती। ७.११।

@@ -22,10 +22,9 @@ corrupted into *araṇyād abhy ābhṛtaṣ kṛṣyā ’nyo rasebhyaḥ.*
 May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from the forest, this sprung from the saps of husbandry.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शण:। च। मा। जङ्गिड:। च। विस्कन्धात्। अभि। रक्षताम्। अरण्यात्। अन्य:। आऽभृत:। कृष्या:। अन्य:। रसेभ्य:। ४.५।
+शणः। च। मा। जङ्गिडः। च। विस्कन्धात्। अभि। रक्षताम्। अरण्यात्। अन्यः। आऽभृतः। कृष्याः। अन्यः। रसेभ्यः। ४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

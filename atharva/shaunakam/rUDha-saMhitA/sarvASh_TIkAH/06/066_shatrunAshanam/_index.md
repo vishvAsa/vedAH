@@ -7,7 +7,6 @@ title = "०६६ शत्रुनाशनम्"
 66. For success against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०६६ शत्रुनाशनम्"
 
 [Atharvan (?).—cāndram utāi ”ndram, ānuṣṭubham: 1. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 372; Griffith, i. 281.
 
 A charm for the destruction and plunder of enemies
 </details>
+

@@ -7,7 +7,6 @@ title = "०२६ पाप्मनाशनम्"
 26. Against evil.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाप्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "०२६ पाप्मनाशनम्"
 
 [Brahman.—pāpmadevatākam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 282 or 34; Griffith, i. 259; Bloomfield, 163, 473.
 
 To Affliction
 </details>
+

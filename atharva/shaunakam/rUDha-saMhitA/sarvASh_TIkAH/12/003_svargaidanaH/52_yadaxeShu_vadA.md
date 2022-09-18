@@ -23,7 +23,6 @@ dressed in the same garment.' ⌊With **a**, cf. 46 **c**.⌋
 Whatever thou may say at dice, in meeting, whatever falsehood through desire of riches, Ye two, about one common warp uniting, deposit all impurity within it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अक्षेषु। वदाः। यत्। सम्ऽइत्याम्। यत्। वा। वदाः। अनृतम्। वित्तऽकाम्या। समानम्। तन्तुम्। अभि। सम्ऽवसानौ। तस्मिन्। सर्वम्। शमलम्। सादयाथः। ३.५२।

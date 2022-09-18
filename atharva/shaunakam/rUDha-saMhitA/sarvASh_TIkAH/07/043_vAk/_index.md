@@ -7,7 +7,6 @@ title = "०४३ वाक्"
 43 (44). Of speech (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाक्  
@@ -18,8 +17,6 @@ title = "०४३ वाक्"
 
 [Praskaṇva.—vāgdevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 15, 72; Griffith, i. 346.
 
 A charm against lightning
 </details>
+

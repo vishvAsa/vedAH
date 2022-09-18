@@ -19,10 +19,9 @@ the *virā́j* in the highest firmament.
 She whom, advancing, sacrifices follow, and when she takes her station stand beside her, By whose control and hest the spirit moveth, she is Viraj, in highest heaven, O Rishis.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। प्रऽच्युताम्। अनु। यज्ञा:। प्रऽच्यवन्ते। उपऽतिष्ठन्ते। उपऽतिष्ठमानाम्। यस्या:। व्रते। प्रऽसवे। यक्षम्। एजति। सा। विऽराट्। ऋषय:। परमे। विऽओमन्। ९.८।
+याम्। प्रऽच्युताम्। अनु। यज्ञाः। प्रऽच्यवन्ते। उपऽतिष्ठन्ते। उपऽतिष्ठमानाम्। यस्याः। व्रते। प्रऽसवे। यक्षम्। एजति। सा। विऽराट्। ऋषयः। परमे। विऽओमन्। ९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

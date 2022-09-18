@@ -25,7 +25,6 @@ lacks two syllables of being a full *atijagatī* (52). The *pratīka*
 As Surya frees himself from depth of darkness, and casts away the night and rays of morning, So I repel each baleful charm which an enchanter hath pre- pared; And, as an elephant shakes off the dust, I cast the plague aside.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। सूर्यः। मुच्यते। तमसः। परि। रात्रिम्। जहाति। उषसः। च। केतून्। एव। अहम्। सर्वम्। दुःऽभूतम्। कर्त्रम्। कृत्याऽकृता। कृतम्। हस्तीऽइव। रजः। दुःऽइतम्। जहामि। १.३२।

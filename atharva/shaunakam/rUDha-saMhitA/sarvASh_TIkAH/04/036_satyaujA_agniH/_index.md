@@ -7,7 +7,6 @@ title = "०३६ सत्यौजा अग्निः"
 36. Against demons and other enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सत्यौजा अग्निः।  
@@ -18,8 +17,6 @@ title = "०३६ सत्यौजा अग्निः"
 
 [Cātana.—satyāujasam.* āgneyam. ānuṣṭubham: 9. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 526; Grill, 3, 136; Griffith, i. 179; Bloomfield, 35, 407
 
 A charm against fiends, human enemies, and other pests
 </details>
+

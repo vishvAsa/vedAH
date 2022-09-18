@@ -17,10 +17,9 @@ title = "१४ अग्निमन्तश्छादयसि पुरु
 Agni thou shelterest within, and people with domestic beasts. We loose the bonds that fasten thee, mother of multitudes to come!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्निम्। अन्त:। छादयसि। पुरुषान्। पशुऽभि:। सह। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१४।
+अग्निम्। अन्तः। छादयसि। पुरुषान्। पशुऽभिः। सह। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

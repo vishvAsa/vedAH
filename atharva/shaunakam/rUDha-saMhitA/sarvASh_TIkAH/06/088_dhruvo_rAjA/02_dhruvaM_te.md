@@ -18,10 +18,9 @@ The RV. verse differs in no respect from this.
 Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra stedfast, too, may Agni keep thy stedfast reign.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ध्रुवम्। ते। राजा। वरुण:। ध्रुवम्। देव:। बृहस्पति:। ध्रुवम्। ते। इन्द्र:। च। अग्नि:। च। राष्ट्रम्। धारयताम्। ध्रुवम्। ८८.२।
+ध्रुवम्। ते। राजा। वरुणः। ध्रुवम्। देवः। बृहस्पतिः। ध्रुवम्। ते। इन्द्रः। च। अग्निः। च। राष्ट्रम्। धारयताम्। ध्रुवम्। ८८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

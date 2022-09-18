@@ -18,10 +18,9 @@ The last half-verse, as noted above, is found in Ppp. as 2 **c, d**.
 Indra made first for Asuras the shaft designed for handless foes: Victorious shall my heroes be with Indra as their constant friend.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। चकार। प्रथमम्। नै:ऽहस्तम्। असुरेभ्य:। जयन्तु। सत्वान:। मम। स्थिरेण। इन्द्रेण। मेदिना। ६५.३।
+इन्द्रः। चकार। प्रथमम्। नैःऽहस्तम्। असुरेभ्यः। जयन्तु। सत्वानः। मम। स्थिरेण। इन्द्रेण। मेदिना। ६५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

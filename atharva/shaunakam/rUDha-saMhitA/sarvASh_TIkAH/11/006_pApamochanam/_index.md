@@ -7,7 +7,6 @@ title = "००६ पापमोचनम्"
 6. To many different gods: for relief.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -18,8 +17,6 @@ title = "००६ पापमोचनम्"
 
 [śaṁtāti.—trayoviṅśakam. cāndramasam uta mantroktadevatyam. ānuṣṭubham*: 23. bṛhatīgarbhā.] *⌊The Anukr. omits the definition of 18 as pathyāpan̄kti.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Henry, 117, 155; Griffith, ii. 72; Bloomfield, 160, 628.
 
 A prayer to all Divinities and Sanctities for deliverance from distress
 </details>
+

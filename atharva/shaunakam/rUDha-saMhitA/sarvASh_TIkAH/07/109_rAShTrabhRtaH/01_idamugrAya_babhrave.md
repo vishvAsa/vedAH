@@ -24,10 +24,9 @@ devāya;* of Kali he says *parājayahetuḥ pañcasaṁkhyāyukto ‘kṣaviṣa
 My homage to the strong, the brown, the sovran lord among the dice! Butter on Kali I bestow: may he be kind to one like me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। उग्राय। बभ्रवे। नम:। य:। अक्षेषु। तनूऽवशी। घृतेन। कलिम्। शिक्षामि। स:। न:। मृडाति। ईदृशे। ११४.१।
+इदम्। उग्राय। बभ्रवे। नमः। यः। अक्षेषु। तनूऽवशी। घृतेन। कलिम्। शिक्षामि। सः। नः। मृडाति। ईदृशे। ११४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

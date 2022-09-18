@@ -28,10 +28,9 @@ for *devī́*.
 May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma save us from distress. Sarasvati, auspicious Goddess, guard us well: preserve us Agni and his kind protecting powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पाताम्। न:। द्यावापृथिवी इति। अभिष्टये। पातु। ग्रावा। पातु। सोम:। न:। अंहस:। पातु। न:। देवी। सुऽभगा। सरस्वती। पातु। अग्नि:। शिवा:। ये। अस्य। पायव:। ३.२।
+पाताम्। नः। द्यावापृथिवी इति। अभिष्टये। पातु। ग्रावा। पातु। सोमः। नः। अंहसः। पातु। नः। देवी। सुऽभगा। सरस्वती। पातु। अग्निः। शिवाः। ये। अस्य। पायवः। ३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

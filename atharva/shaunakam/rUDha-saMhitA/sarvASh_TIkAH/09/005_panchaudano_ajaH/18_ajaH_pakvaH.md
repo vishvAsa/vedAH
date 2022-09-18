@@ -19,10 +19,9 @@ As noted above, the verse is wanting in Ppp.
 The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world of Svarga. By him may we win worlds which Surya brightens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। पक्व:। स्व:ऽगे। लोके। दधाति। पञ्चऽओदन:। नि:ऽऋतिम्। बाधमान:। तेन। लोकान्। सूर्यऽवत:। जयेम। ५.१८।
+अजः। पक्वः। स्वःऽगे। लोके। दधाति। पञ्चऽओदनः। निःऽऋतिम्। बाधमानः। तेन। लोकान्। सूर्यऽवतः। जयेम। ५.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ of *asmān,* and in vss. 1-4 scans 6 + 7 + 10 = 23, and, in vs. 5, 6 + 9
 O Agni, with the splendour that is thine darken the man who hates us, whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तेज:। तेन। तम्। अतेजसम्। कृणु। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। १९.५।
+अग्ने। यत्। ते। तेजः। तेन। तम्। अतेजसम्। कृणु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ sāubhagāya*. ⌊Given also by von Schroeder, *Tübinger Kaṭha-hss.*, p.
 Drawn forth from butter and with meath besprinkled, firm as the earth, unshakable, triumphant. Breaking down foes and casting them beneath me, be fastened on me for exalted fortune!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 घृतात्। उत्ऽलुप्तम्। मधुना। सम्ऽअक्तम्। भूमिऽदृंहम्। अच्युतम्। पारयिष्णु। भिन्दत्। सऽपत्नान्। अधरान्। च। कृण्वत्। आ। मा। रोह। महते। सौभगाय। २८.१४।

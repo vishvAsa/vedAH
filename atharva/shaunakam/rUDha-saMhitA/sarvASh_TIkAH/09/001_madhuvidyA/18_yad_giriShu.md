@@ -21,7 +21,6 @@ place of this verse, and puts it before our 16.
 May all the sweetness that is found in hills and mountains, steeds and kine, And wine that floweth from the cup,--may all that sweetness be in me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। गिरिषु। पर्वतेषु। गोषु। अश्वेषु। यत्। मधु। सुरायाम्। सिच्यमानायाम्। यत्। तत्र। मधु। तत्। मयि। १.१८।

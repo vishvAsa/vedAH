@@ -24,10 +24,9 @@ pāda.
 O Indra, come unto my call, This will I do. So hear it thou. Let these exertions for the sake of Indra guide my wish aright. Therewith, O Jatavedas, Lord of Bodies! may we win us strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। आ। याह‍ि। मे। हवम्। इदम्। करिष्यामि। तत्। शृणु। इमे। ऐन्द्रा:। अतिऽसरा:। आऽकूतिम्। सम्। नमन्तु। मे। तेभि:। शकेम। वीर्यम्। जातऽवेद:। तनूऽवशिन्। ८.२।
+इन्द्र। आ। याह‍ि। मे। हवम्। इदम्। करिष्यामि। तत्। शृणु। इमे। ऐन्द्राः। अतिऽसराः। आऽकूतिम्। सम्। नमन्तु। मे। तेभिः। शकेम। वीर्यम्। जातऽवेदः। तनूऽवशिन्। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

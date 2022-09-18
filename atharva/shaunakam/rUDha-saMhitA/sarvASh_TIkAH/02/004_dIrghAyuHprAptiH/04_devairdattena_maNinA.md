@@ -19,10 +19,9 @@ first by *saṁcaraṇe*, and then by *saṁcaraṇapradeśe.*
 With Jangida that brings delight, Amulet given by the Gods, We in the conflict overcome Vishkandha and all Rakshasas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवै:। दत्तेन। मणिना। जङ्गिडेन। मय:भुवा। विऽस्कन्धम्। सर्वा। रक्षांसि। विऽआयामे। सहामहे। ४.४।
+देवैः। दत्तेन। मणिना। जङ्गिडेन। मयःभुवा। विऽस्कन्धम्। सर्वा। रक्षांसि। विऽआयामे। सहामहे। ४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

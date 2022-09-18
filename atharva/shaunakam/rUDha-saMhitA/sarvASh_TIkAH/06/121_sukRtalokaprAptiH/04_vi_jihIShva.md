@@ -24,10 +24,9 @@ the contraction *yonye ’va* in **c**. \*⌊In **c**, *yónes* for
 Open thyself, make room: from bonds thou shalt release the prisoner. Freed, like an infant newly born, dwell in all pathways where thou wilt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। जिहीष्व। लोकम्। कृणु। बन्धात्। मुञ्चासि। बध्दकम्। योन्या:ऽइव। प्रऽच्युत:। गर्भ:। पथ:। सर्वान्। अनु। क्षिय। १२१.४।
+वि। जिहीष्व। लोकम्। कृणु। बन्धात्। मुञ्चासि। बध्दकम्। योन्याःऽइव। प्रऽच्युतः। गर्भः। पथः। सर्वान्। अनु। क्षिय। १२१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

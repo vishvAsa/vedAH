@@ -7,7 +7,6 @@ title = "०३१ क्रिमिजम्भनम्"
 31. Against worms.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्रिमिजम्भनम्।  
@@ -18,8 +17,6 @@ title = "०३१ क्रिमिजम्भनम्"
 
 [Kāṇva.—mahīdevatyam uta cāndram. ānuṣṭubham: 2. upariṣṭāvirāḍbṛhatī; 3. ārṣī triṣṭubh; 4. prāguktā bṛhatī; j. prāguktā triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Kuhn, KZ. xiii. 135 ff.; Weber, xiii. 199; Ludwig, p. 323; Grill, 6,
 
 A charm against all sorts of worms
 </details>
+

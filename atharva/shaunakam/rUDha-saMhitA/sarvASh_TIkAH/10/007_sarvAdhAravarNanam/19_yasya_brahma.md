@@ -18,7 +18,6 @@ Ppp. reads for **c** *virājaṁ yasyo ”dhā ”hus*.
 Who out of many, tell me, is that Skambha Whose mouth they say is Holy Lore, his tongue the Honey- sweetened Whip, his udder is Viraj, they say?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। ब्रह्म। मुखम्। आहुः। जिह्वाम्। मधुऽकशाम्। उत। विऽराजम्। ऊधः। यस्य। आहुः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१९।

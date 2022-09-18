@@ -21,10 +21,9 @@ reads *dadhātu* in **c**.
 To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he bestow upon us wealth unwasting, inexhaustible.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषभम्। वाजिनम्। वयम्। पौर्णऽमासम्। यजामहे। स:। न:। ददातु। अक्षिताम्। रयिम्। अनुपऽदस्वतीम्। ८५.२।
+वृषभम्। वाजिनम्। वयम्। पौर्णऽमासम्। यजामहे। सः। नः। ददातु। अक्षिताम्। रयिम्। अनुपऽदस्वतीम्। ८५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

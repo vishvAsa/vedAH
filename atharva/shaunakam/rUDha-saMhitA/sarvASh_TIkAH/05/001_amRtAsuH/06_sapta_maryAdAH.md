@@ -34,10 +34,9 @@ R.
 Seven are the pathways which the wise have fashioned: to one of these may come the troubled mortal. On sure ground where the ways are parted standeth Life's Pillar in the dwelling of the Highest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। मर्यादा:। कवय:। ततक्षु:। तासाम्। इत्। एकाम्। अभि। अंहुर:। गात्। आयो:। ह। स्कम्भ:। उपमस्य। नीडे। पथाम्। विऽसर्गे। धरुणेषु। तस्थौ। १.६।
+सप्त। मर्यादाः। कवयः। ततक्षुः। तासाम्। इत्। एकाम्। अभि। अंहुरः। गात्। आयोः। ह। स्कम्भः। उपमस्य। नीडे। पथाम्। विऽसर्गे। धरुणेषु। तस्थौ। १.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ first part is obscure.
 May these embattled Gods, brilliant as Surya--All hail!--one- minded conquer those who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एता:। देवऽसेना:। सूर्यऽकेतव:। सऽचेतस:। अमित्रान्। न:। जयन्तु। स्वाहा। २१.१२।
+एताः। देवऽसेनाः। सूर्यऽकेतवः। सऽचेतसः। अमित्रान्। नः। जयन्तु। स्वाहा। २१.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

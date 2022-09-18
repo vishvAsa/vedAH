@@ -25,7 +25,6 @@ new garment.
 Now let this artificial comb, wrought with a hundred teeth, remove Aught of impurity that dims the hair upon this woman's head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृत्रिमः। कण्टकः। शतऽदन्। यः। एषः। अप। अस्याः। केश्यम्। मलम्। अप। शीर्षण्यम्। लिखात्। २.६८।

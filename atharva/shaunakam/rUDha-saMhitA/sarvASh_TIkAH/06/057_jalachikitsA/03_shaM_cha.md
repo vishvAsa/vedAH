@@ -28,10 +28,9 @@ two (8 + 8).⌋ ⌊Ppp. omits our last pāda, *sárvam* etc.⌋
 Let it be health and joy to us. Let nothing vex or injure us. Down with the wound! Let all to us be balm, the whole be medicine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। च। न:। मय:। च। न:। मा। च। न:। किम्। चन। आममत्। क्षमा। रप:। विश्वम्। न:। अस्तु। भेषजम्। सर्वम्। न:। अस्तु। भेषजम्। ५७.३।
+शम्। च। नः। मयः। च। नः। मा। च। नः। किम्। चन। आममत्। क्षमा। रपः। विश्वम्। नः। अस्तु। भेषजम्। सर्वम्। नः। अस्तु। भेषजम्। ५७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

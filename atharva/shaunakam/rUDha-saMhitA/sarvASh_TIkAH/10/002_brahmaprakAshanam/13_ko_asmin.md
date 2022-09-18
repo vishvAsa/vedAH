@@ -18,7 +18,6 @@ Ppp. reads *adadhāt* for *avayat* in **a**, and again *pāuruṣe*.
 Who wove the vital air in him, who filled him with the down- ward breath? What God bestowed on Purusha the general pervading air?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मिन्। प्राणम्। अवयत्। कः। अपानम्। विऽआनम्। ऊं इति। सम्ऽआनम्। अस्मिन्। कः। देवः। अधि। शिश्राय। पुरुषे। २.१३।

@@ -7,7 +7,6 @@ title = "०५१ एनोनाशनम्"
 51. For various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 एनोनाशनम्।  
@@ -18,8 +17,6 @@ title = "०५१ एनोनाशनम्"
 
 [śaṁtāti.—āpyam; 3. varuṇastuti. trāiṣṭubham: 1. gāyatrī; 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 273.
 
 A prayer for purification and forgiveness of sins
 </details>
+

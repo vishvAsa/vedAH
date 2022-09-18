@@ -21,10 +21,9 @@ easy emendations would make both good *triṣṭubh*.
 Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us safety. Our safety be the wide air: ours be safety through the oblation of the Seven Rishis.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभयम्। द्यावापृथिवी इति। इह। अस्तु। न:। अभयम्। सोम:। सविता। न:। कृणोतु। अभयम्। न:। अस्तु। उरु। अन्तरिक्षम्। सप्तऽऋषीणाम्। च। हविषा। अभयम्। न:। अस्तु। ४०.१।
+अभयम्। द्यावापृथिवी इति। इह। अस्तु। नः। अभयम्। सोमः। सविता। नः। कृणोतु। अभयम्। नः। अस्तु। उरु। अन्तरिक्षम्। सप्तऽऋषीणाम्। च। हविषा। अभयम्। नः। अस्तु। ४०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

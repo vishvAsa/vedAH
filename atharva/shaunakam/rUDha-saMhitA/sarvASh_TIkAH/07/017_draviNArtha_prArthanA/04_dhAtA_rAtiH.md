@@ -25,10 +25,9 @@ Ppp., in **d**, has *pūṣā* instead of *viṣṇus*. ⌊MP. has **c** at i. 7
 May this our gift please Savitar, Rati, Dhatar, Prajapati, and Agni Lord of Treasures. May Tvashtar, Vishnu, blessing him with children, give store ot riches to the sacrificer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। राति:। सविता। इदम्। जुषन्ताम्। प्रजाऽपति:। निधिऽपति:। न:। अग्नि:। त्वष्टा। विष्णु:। प्रऽजया। सम्ऽरराण। यजमानाय। द्रविणम्। दधातु। १८.४।
+धाता। रातिः। सविता। इदम्। जुषन्ताम्। प्रजाऽपतिः। निधिऽपतिः। नः। अग्निः। त्वष्टा। विष्णुः। प्रऽजया। सम्ऽरराण। यजमानाय। द्रविणम्। दधातु। १८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,7 +31,6 @@ follows: I. *av.*, 17; II. *av.*, 13; III. *av.*, 9; IV. *av.*, 5;
 He who hath this knowledge wins the luminous spheres.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ज्योतिष्मतः। लोकान्। जयति। यः। एवम्। वेद। ११.१४।

@@ -19,7 +19,6 @@ Ppp. rectifies the meter of **b** by adding *nas* at the end.
 Come hither from the south, ye Gods, rise and come forward from the west. Gathered together, all ye Gods, ye mighty Ones, from east and and north: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। इत। देवाः। दक्षिणतः। पश्चात्। प्राञ्चः। उत्ऽएत। पुरस्तात्। उत्तरात्। शक्राः। विश्वे। देवाः। सम्ऽएत्य। ते। नः। मुञ्चन्तु। अंहसः। ८.१८।

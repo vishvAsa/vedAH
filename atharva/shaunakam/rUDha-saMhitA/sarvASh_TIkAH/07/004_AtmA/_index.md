@@ -7,7 +7,6 @@ title = "००४ आत्मा"
 4. To the wind-god with his steeds.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "००४ आत्मा"
 
 [Atharvan (as above).—vāyavyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ id
 7.4    To Vayu God of the Wind
 Name: Comment, dtype: object
 </details>
+

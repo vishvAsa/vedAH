@@ -23,7 +23,6 @@ harsh change from pl. to sing, which W. seems to have overlooked.⌋
 She whom the Asvins measured out, o'er whom the foot of Vishnu strode, Whom Indra, Lord of Power and Might, freed from all foemen for himself, May Earth pour out her milk for us, a mother unto me her son.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। अश्विनौ। अमिमाताम्। विष्णुः। यस्याम्। विऽचक्रमे। इन्द्रः। याम्। चक्रे। आत्मने। अनमित्राम्। शचीऽपतिः। सा। नः। भूमिः। वि। सृजताम्। माता। पुत्राय। मे। पयः। १.१०।

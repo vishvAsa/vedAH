@@ -20,10 +20,9 @@ combines *-masā ubhā* at the end.
 Auspicious be the Plants to thee! I have upraised thee, borne thee from the lower to the upper earth: Let the two Sons of Aditi, the Sun and Moon, protect thee there.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवा:। ते। सन्तु। ओषधय:। उत्। त्वा। अहार्षम्। अधरस्या:। उत्तराम्। पृथिवीम्। अभि। तत्र। त्वा। आदित्यौ। रक्षताम्। सूर्याचन्द्रमसौ। उभा। २.१५।
+शिवाः। ते। सन्तु। ओषधयः। उत्। त्वा। अहार्षम्। अधरस्याः। उत्तराम्। पृथिवीम्। अभि। तत्र। त्वा। आदित्यौ। रक्षताम्। सूर्याचन्द्रमसौ। उभा। २.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,7 +31,6 @@ prescribe the *pada*-reading *durnihita-*.
 Apsarases with dog-like mates, and Rupakas, O Arbudi, And her who licks the cup inside, and seeks to wound in ill- kept place, All these, O Arbudi, do thou make visible to our enemies and let them look on mists and fog.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्वन्ऽवतीः। अप्सरसः। रूपकाः। उत। अर्बुदे। अन्तःऽपात्रे। रेरिहतीम्। रिशाम्। दुर्निहितऽएष‍िणीम्। सर्वाः। ताः। अर्बुदे। त्वम्। अमित्रेभ्यः। दृशे। कुरु। उत्ऽआरान्। च। प्र। दर्शय। ११.१५।

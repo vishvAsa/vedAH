@@ -7,7 +7,6 @@ title = "०८६ वृषकामना"
 86. For supremacy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वृषकामना।  
@@ -18,8 +17,6 @@ title = "०८६ वृषकामना"
 
 [Atharvan (vṛṣakāmaḥ).—ekavṛṣadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 241; Griffith, i. 292.
 
 A glorification of a newly consecrated King
 </details>
+

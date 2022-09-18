@@ -7,7 +7,6 @@ title = "०१६ सत्यानृतसमीक्षकः"
 16. The power of the gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सत्यानृतसमीक्षकः।  
@@ -18,8 +17,6 @@ title = "०१६ सत्यानृतसमीक्षकः"
 
 [Brahman.—navarcam. satyānṛtānvīkṣaṇasūktam. vāruṇam. trāiṣṭubham: 1. anuṣṭubh; 5. bhurij; 7. jagatī; 8. 3-p. mahābṛhatī; 9. virāṇnāmatripādgāyatr.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ By reason of the exceptional character of this hymn as expression of the unrestr
 
 On the omnipresence and omniscience of Varuna
 </details>
+

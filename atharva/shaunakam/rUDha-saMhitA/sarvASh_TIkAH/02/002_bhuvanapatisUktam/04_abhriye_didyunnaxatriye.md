@@ -22,10 +22,9 @@ without notice the deficiency of two syllables in **a**.
 Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flasher! You, O ye Goddesses, I truly worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभ्रिये। दिद्युत्। नक्षत्रिये। या:। विश्वऽवसुम्। गन्धर्वम्। सचध्वे। ताभ्य:। व:। देवी:। नम:। इत्। कृणोमि। २.४।
+अभ्रिये। दिद्युत्। नक्षत्रिये। याः। विश्वऽवसुम्। गन्धर्वम्। सचध्वे। ताभ्यः। वः। देवीः। नमः। इत्। कृणोमि। २.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

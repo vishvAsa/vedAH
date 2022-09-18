@@ -28,10 +28,9 @@ says *dvyūnaṁ* \[*śatārdhaṁ*\] *turīyah.*
 Hither I bring the milk of cows, hither have brought the juice of corn. Hitherward have our men been brought, hitherward to this house our wives.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। हरामि। गवाम्। क्षीरम्। आ। अहार्षम्। धान्यम्। रसम्। आऽहृता:। अस्माकम्। वीरा:। आ। पत्नी:। इदम्। अस्तकम्। २६.५।
+आ। हरामि। गवाम्। क्षीरम्। आ। अहार्षम्। धान्यम्। रसम्। आऽहृताः। अस्माकम्। वीराः। आ। पत्नीः। इदम्। अस्तकम्। २६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ ii. 314, and Baunack, KZ. xxxv. 516.⌋
 That speed, that lies concealed in thee, O Charger, speed granted to the hawk or wind that wandered, Therewith, Strong Steed, saving in shock of battle endowed with might by might win thou the contest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जव:। ते। अर्वन्। निऽहित:। गुहा। य:। श्येने। वाते। उत। य:। अचरत्। परीत्त:। तेन। त्वम्। वाजिन्। बलऽवान्। बलेन। आजिम्। जय। समने। पारियिष्णु:। ९२.२।
+जवः। ते। अर्वन्। निऽहितः। गुहा। यः। श्येने। वाते। उत। यः। अचरत्। परीत्तः। तेन। त्वम्। वाजिन्। बलऽवान्। बलेन। आजिम्। जय। समने। पारियिष्णुः। ९२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

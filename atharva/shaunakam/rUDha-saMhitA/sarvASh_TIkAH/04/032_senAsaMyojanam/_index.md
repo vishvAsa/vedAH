@@ -7,7 +7,6 @@ title = "०३२ सेनासंयोजनम्"
 32. Praise and prayer to fury (manyú).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सेनासंयोजनम्।  
@@ -18,8 +17,6 @@ title = "०३२ सेनासंयोजनम्"
 
 [Brahmāskanda.—manyudāivatam. trāiṣṭubham: 1. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Griffith, i. 174; Weber, xviii. 129.
 
 A hymn to Manyu
 </details>
+

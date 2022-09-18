@@ -28,7 +28,6 @@ of streams.
 Gather your strength, my friends; the stream flows stony: acquit yourselves as men, and cross the river. Abandon here the powers that were malignant, and let us cross to powers exempt from sickness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अश्मन्ऽवती। रीयते। सम्। रभध्वम्। वीरयध्वम्। प्र। तरत। सखायः। अत्र। जहीत। ये। असन्। दुःऽएवा। अनमीवान्। उत्। तरेम। अभि। वाजान्। २.२६।

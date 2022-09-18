@@ -26,10 +26,9 @@ get five good *triṣṭubh* pādas.⌋ Our edition inserts after *pājasyàm* a
 Set the Goat's backbone upmost in the zenith, and lay his belly downward in the nadir; set his midportion in mid-air between them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रतीच्याम्। दिशि। भसदम्। अस्य। धेहि। उत्तरस्याम्। दिशि। उत्तरम्। धेहि। पार्श्वम्। ऊर्ध्वायाम्। दिशि। अजस्य। अनूकम्। धेहि। दिशि। ध्रुवायाम्। धेहि। पाजस्यम्। अन्तरिक्षे। मध्यत:। मध्यम्। अस्य। १४.८।
+प्रतीच्याम्। दिशि। भसदम्। अस्य। धेहि। उत्तरस्याम्। दिशि। उत्तरम्। धेहि। पार्श्वम्। ऊर्ध्वायाम्। दिशि। अजस्य। अनूकम्। धेहि। दिशि। ध्रुवायाम्। धेहि। पाजस्यम्। अन्तरिक्षे। मध्यतः। मध्यम्। अस्य। १४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

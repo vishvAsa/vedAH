@@ -26,10 +26,9 @@ brings no help, only reading *abadhnata* for *akṛṇvata* at the end.
 Kasyapa formed and fashioned thee, Kasyapa raised and sent thee forth. Indra wore thee, and, wearing thee, won in the wrestling-match with man. The Amulet of boundless might the Gods have made a coat of mail.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कश्यप:। त्वाम्। असृजत। कश्यप:। त्वा। सम्। ऐरयत्। अबिभ:। त्वा। इन्द्र:। मानुषे। बिभ्रत्। सम्ऽश्रेषिणे। अजयत्। मणिम्। सहस्रऽवीर्यम्। वर्म। देवा:। अकृण्वत। ५.१४।
+कश्यपः। त्वाम्। असृजत। कश्यपः। त्वा। सम्। ऐरयत्। अबिभः। त्वा। इन्द्रः। मानुषे। बिभ्रत्। सम्ऽश्रेषिणे। अजयत्। मणिम्। सहस्रऽवीर्यम्। वर्म। देवाः। अकृण्वत। ५.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

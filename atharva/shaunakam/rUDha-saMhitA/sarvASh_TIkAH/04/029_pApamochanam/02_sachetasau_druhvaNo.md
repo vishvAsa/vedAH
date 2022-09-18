@@ -25,10 +25,9 @@ mss., including our Op.) reads *gacchatas* in **c**. \*⌊And W. has
 Ye the wise Gods who drive away oppressors, ye who protect the truthful in his battles, Who come, men's guards, to juice pressed forth by Babhru,. deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽचेतसौ। द्रुह्वण:। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथ:। भरेषु। यौ। गच्छथ:। नृऽचक्षसौ। बभ्रुणा। सुतम्। तौ। न:। मुञ्चतम्। अंहस:। २९.२।
+सऽचेतसौ। द्रुह्वणः। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथः। भरेषु। यौ। गच्छथः। नृऽचक्षसौ। बभ्रुणा। सुतम्। तौ। नः। मुञ्चतम्। अंहसः। २९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

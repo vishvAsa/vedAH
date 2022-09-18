@@ -22,10 +22,9 @@ JAOS. xv. 158.⌋
 Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath given me the lead: this verily repels the fiends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सीसाय। अधि। आह। वरुण:। सीसाय। अग्नि:। उप। अवति। सीसम्। मे। इन्द्र:। प्र। अयच्छत्। तत्। अङ्ग। यातुऽचातनम्।
+सीसाय। अधि। आह। वरुणः। सीसाय। अग्निः। उप। अवति। सीसम्। मे। इन्द्रः। प्र। अयच्छत्। तत्। अङ्ग। यातुऽचातनम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ instrumentals.
 Let those with iron faces, with faces like needles or like combs, Flesh-eaters, rapid as the wind, cling closely to our foemen with Trishandhi for their thunderbolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयःऽमुखाः। सूचीऽमुखाः। अथो इति। विकङ्कतीऽमुखाः। क्रव्यऽअदः। वातऽरंहसः। आ। सजन्तु। अमित्रान्। वज्रेण। त्रिऽसंधिना। १२.३।

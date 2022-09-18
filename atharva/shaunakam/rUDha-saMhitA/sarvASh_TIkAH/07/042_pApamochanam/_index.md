@@ -7,7 +7,6 @@ title = "०४२ पापमोचनम्"
 42 (43). To Soma and Rudra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -18,8 +17,6 @@ title = "०४२ पापमोचनम्"
 
 [Praskaṇva.—dvyṛcam. mantroktadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 15, 71; Griffith, i. 346.
 
 A prayer for delivery from sin and sickness
 </details>
+

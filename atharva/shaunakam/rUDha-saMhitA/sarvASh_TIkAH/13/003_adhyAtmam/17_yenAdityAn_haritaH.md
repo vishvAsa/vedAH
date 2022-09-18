@@ -32,7 +32,6 @@ be Similar. Cf. also the accent of *sarvé* at xiii. 4. 21, and note.⌋
 He beside whom his bay steeds bear the Adityas, by whom as sacrifice go many knowing. The sole light shining spread through various places. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। आदित्यान्। हरितः। सम्ऽवहन्ति। येन। यज्ञेन। बहवः। यन्ति। प्रऽजानन्तः। यत्। एकम्। ज्योतिः। बहुऽधा। विऽभाति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१७।

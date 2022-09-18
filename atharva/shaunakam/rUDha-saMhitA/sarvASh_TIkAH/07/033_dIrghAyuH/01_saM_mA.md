@@ -27,10 +27,9 @@ accessible.
 Let Pushan, let the Maruts, let Brihaspati pour forth on me; This present Agni pour on me children and riches in a stream! May he bestow long life on me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। मा। सिञ्चन्तु। मरुत:। सम्। पूषा। सम्। बृहस्पति:। सम्। मा। अयम्। अग्नि:। सिञ्चन्तु। प्रऽजया। च। धनेन। च। दीर्घम्। आयु:। कृणोतु। मे। ३४.१।
+सम्। मा। सिञ्चन्तु। मरुतः। सम्। पूषा। सम्। बृहस्पतिः। सम्। मा। अयम्। अग्निः। सिञ्चन्तु। प्रऽजया। च। धनेन। च। दीर्घम्। आयुः। कृणोतु। मे। ३४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,7 +17,6 @@ The *pada*-text reads *viṣṭambhā́ḥ*, undivided.
 His are the nine supports, the casks set in nine several places here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्य। इमे। नव। कोशाः। विष्टम्भाः। नवऽधा। हिताः। ४.१०।

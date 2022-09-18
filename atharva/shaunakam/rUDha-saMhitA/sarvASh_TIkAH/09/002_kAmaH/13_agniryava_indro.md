@@ -24,10 +24,9 @@ being intended between *yáva* 'barley' and the root *yu* 'repel';
 Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। यव:। इन्द्र:। यव:। सोम:। यव:। यवऽयावान:। देवा:। यवयन्तु। एनम्। २.१३।
+अग्निः। यवः। इन्द्रः। यवः। सोमः। यवः। यवऽयावानः। देवाः। यवयन्तु। एनम्। २.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

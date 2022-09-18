@@ -24,7 +24,6 @@ bṛhántam*, *gotráṁ hariśríyam* of RV.? cf. my *Noun-inflection*, p. 600,
 Surya the child of Savitar mounted for high felicity Her litter with its cloth of gold, wearing all forms of loveliness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रुक्मऽप्रस्तरणम्। वह्यम्। विश्वा। रूपाणि। बिभ्रतम्। आ। अरोहत्। सूर्या। सावित्री। बृहते। सौभगाय। कम्। २.३०।

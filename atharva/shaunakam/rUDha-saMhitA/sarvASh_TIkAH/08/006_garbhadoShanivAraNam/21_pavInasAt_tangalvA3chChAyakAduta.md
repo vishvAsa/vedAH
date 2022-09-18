@@ -21,10 +21,9 @@ like; the comm. reads instead *sāyakāt*. Ppp. has at the beginning
 From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka, and Nagnaka, Tangalva, and Pavinasa.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पविऽनसात्। तङ्गल्वात्। छायकात्। उत। नग्नकात्। प्रऽजायै। पत्ये। त्वा। पिङ्ग:। परि। पातु। किमीदिन:। ६.२१।
+पविऽनसात्। तङ्गल्वात्। छायकात्। उत। नग्नकात्। प्रऽजायै। पत्ये। त्वा। पिङ्गः। परि। पातु। किमीदिनः। ६.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

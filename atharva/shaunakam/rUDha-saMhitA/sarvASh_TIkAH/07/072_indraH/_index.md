@@ -7,7 +7,6 @@ title = "०७२ इन्द्रः"
 72 (75, 76). With an oblation to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 इन्द्रः।  
@@ -18,8 +17,6 @@ title = "०७२ इन्द्रः"
 
 [1, 2. Atharvan.—dvyṛcam. āindrani. 1. anuṣṭubh; 2. triṣṭubh.—3. Atharvan.—āindram. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 27, 92; Griffith, i. 361.
 
 An invitation to Indra
 </details>
+

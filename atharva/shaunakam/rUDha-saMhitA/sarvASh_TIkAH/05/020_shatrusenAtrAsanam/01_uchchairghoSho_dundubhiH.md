@@ -34,10 +34,9 @@ dveṣaṁn* (= *hreṣann?*) *abhi taṅstanayati*.
 Formed out of wood, compact with straps of leather, loud is the: War-drum as he plays the hero. Whetting thy voice and vanquishing opponents, roar at them like a lion fain to conquer!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उच्चै:ऽघोष:। दुन्दुभि:। सत्वनाऽयन्। वानस्पत्य:। सम्ऽभृत:। उस्रियाभि:। वाचम्। क्षुणुवान:। दमयन्। सऽपत्नान्। सिंह:ऽइव। जेष्यन्। अभि। तंस्तनीहि। २०.१।
+उच्चैःऽघोषः। दुन्दुभिः। सत्वनाऽयन्। वानस्पत्यः। सम्ऽभृतः। उस्रियाभिः। वाचम्। क्षुणुवानः। दमयन्। सऽपत्नान्। सिंहःऽइव। जेष्यन्। अभि। तंस्तनीहि। २०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

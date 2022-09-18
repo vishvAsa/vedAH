@@ -27,7 +27,6 @@ the superlative in **d**, cf. the punning lampoon on the name of Gotama,
 The Gods considered her in doubt whether she were a Cow or not. Mirada spake of her and said, The veriest Cow of cows is she.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताम्। देवाः। अमीमांसन्त। वशा। इया३म्। अवशा३। इति। ताम्। अब्रवीत्। नारदः। एषा। वशानाम्। वशऽतमा। इति। ४.४२।

@@ -24,7 +24,6 @@ elision *-dho ‘gníḥ* in **a**.
 Both kindling and inflamed, adored with butter and enhanced thereby. May conquering Agni, conqueror of all, destroy mine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽइध्दः। अग्निः। सम्ऽइधानः। घृतऽवृध्दः। घृतऽआहुतः। अभीषाट्। विश्वाषाट्। अग्निः। सऽपत्नान्। हन्तु। ये। मम। १.२८।

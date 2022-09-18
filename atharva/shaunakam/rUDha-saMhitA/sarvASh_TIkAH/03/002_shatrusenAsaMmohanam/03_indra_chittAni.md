@@ -24,10 +24,9 @@ accent-mark over the *-dra* of *índra* in **a.**
 Dazing their senses, Indra, come hitherward with the wish and will. With Agni's, Vata's furious rush drive them to every side away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। चित्तानि। मोहयन्। अर्वाङ्। आऽकूत्या। चर। अग्ने:। वातस्य। ध्राज्या। तान्। विषूच:। वि। नाशय। २.३।
+इन्द्र। चित्तानि। मोहयन्। अर्वाङ्। आऽकूत्या। चर। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। २.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

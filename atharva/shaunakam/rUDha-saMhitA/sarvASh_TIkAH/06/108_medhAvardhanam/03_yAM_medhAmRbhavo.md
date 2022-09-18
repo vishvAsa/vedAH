@@ -19,10 +19,9 @@ but does not make a regular *bṛhatī*.
 That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sages know, we cause to enter into me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। मेधाम्। ऋभव:। विदु:। याम्। मेधाम्। असुरा:। विदु:। ऋषय:। भद्राम्। मेधाम्। याम्। विदु:। ताम्। मयि। आ। वेशयामसि। १०८.३।
+याम्। मेधाम्। ऋभवः। विदुः। याम्। मेधाम्। असुराः। विदुः। ऋषयः। भद्राम्। मेधाम्। याम्। विदुः। ताम्। मयि। आ। वेशयामसि। १०८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

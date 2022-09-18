@@ -22,10 +22,9 @@ syllables.
 May the Dames, wives of Gods, enjoy our presents, Rat, Asvini Indrani and Agnayi; May Rodasi and Varunani hear us, and Goddesses come at the matrons' season.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। ग्ना:। व्यन्तु। देवऽपत्नी:। इन्द्राणी। अग्नायी। अश्विनी। राट्। आ। रोदसी। वरुणानी। शृणोतु। व्यन्तु। देवी:। य:। ऋतु:। जनीनाम्। ५१.२।
+उत। ग्नाः। व्यन्तु। देवऽपत्नीः। इन्द्राणी। अग्नायी। अश्विनी। राट्। आ। रोदसी। वरुणानी। शृणोतु। व्यन्तु। देवीः। यः। ऋतुः। जनीनाम्। ५१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

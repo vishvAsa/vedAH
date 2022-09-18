@@ -19,10 +19,9 @@ abbreviated *iva* both here and in vs. 2.
 Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper indefessus velut cervus damam.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अहम्। तनोमि। ते। पस:। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋश:ऽइव। रोहितम्। अनवऽग्लायता। सदा। १०१.३।
+आ। अहम्। तनोमि। ते। पसः। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋशःऽइव। रोहितम्। अनवऽग्लायता। सदा। १०१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

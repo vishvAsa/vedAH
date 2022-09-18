@@ -21,10 +21,9 @@ dūṣyāni*.
 Kukundhas and Kukurabhas who dress themselves in hides and skins, Who dance about like eunuchs, who raise a wild clamour in the wood, all these we banish far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। कुकुन्धा:। कुकूरभा:। कृत्ती:। दूर्शानि। बिभ्रति। क्लीबा:ऽइव। प्रऽनृत्यन्त:। वने। ये। कुर्वते। घोषम्। तान्। इत:। नाशयामसि। ६.११।
+ये। कुकुन्धाः। कुकूरभाः। कृत्तीः। दूर्शानि। बिभ्रति। क्लीबाःऽइव। प्रऽनृत्यन्तः। वने। ये। कुर्वते। घोषम्। तान्। इतः। नाशयामसि। ६.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

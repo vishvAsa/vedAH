@@ -24,10 +24,9 @@ comm. has *-rṣam*. Ppp. reads in **c** *te bhadram āriṣaṁ*, and, for
 I am come nigh to thee with balms to give thee rest and keep thee safe. I bring thee mighty strength, I drive thy wasting malady away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। त्वा। अगमम्। शंतातिऽभि:। अथो इति। अरिष्टतातिऽभि:। दक्षम्। ते। उग्रम्। आ। अभारिषम्। परा। यक्ष्मम्। सुवामि। ते। १३.५।
+आ। त्वा। अगमम्। शंतातिऽभिः। अथो इति। अरिष्टतातिऽभिः। दक्षम्। ते। उग्रम्। आ। अभारिषम्। परा। यक्ष्मम्। सुवामि। ते। १३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

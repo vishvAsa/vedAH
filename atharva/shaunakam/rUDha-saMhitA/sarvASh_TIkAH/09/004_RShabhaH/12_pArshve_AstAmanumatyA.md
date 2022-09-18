@@ -20,10 +20,9 @@ abrav*-. Ppp. reads at the beginning *pārśvay āstām*.
 The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bones hath Mitra said, Both these are mine, and only mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पार्श्वे इति। आस्ताम्। अनुऽमत्या:। भगस्य। आस्ताम्। अनुऽवृजौ। अष्ठीवन्तौ। अब्रवीत्। मित्र:। मम। एतौ। केवलौ। इति। ४.१२।
+पार्श्वे इति। आस्ताम्। अनुऽमत्याः। भगस्य। आस्ताम्। अनुऽवृजौ। अष्ठीवन्तौ। अब्रवीत्। मित्रः। मम। एतौ। केवलौ। इति। ४.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ places, as ChU. viii. 5. 3, HGS. ii. 7. 2. With **c** compare RV. i. 13.
 In the third heaven above us stands the Asvattha tree, the seat of Gods. There the Gods sought the Kushtha Plant, embodiment of end- less life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वत्थ:। देवऽसदन:। तृतीयस्याम्। इत:। दिवि। तत्र। अमृतस्य। चक्षणम्। देवा:। कुष्ठम्। अवन्वत। ४.३।
+अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। देवाः। कुष्ठम्। अवन्वत। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ every point through the hymn). ⌊Ppp. *parāśarī*, as at 66. 2.⌋
 Forth from his dwelling drive that man, the foeman who assaileth us: Through the Expellent sacrifice hath Indra rent and mangled him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:। अमुम्। नुदे। ओकस:। सऽपत्न:। य:। पृतन्यति। नै:ऽबाध्येन। हविषा। इन्द्र:। एनम्। परा। अशरीत्। ७५.१।
+निः। अमुम्। नुदे। ओकसः। सऽपत्नः। यः। पृतन्यति। नैःऽबाध्येन। हविषा। इन्द्रः। एनम्। परा। अशरीत्। ७५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

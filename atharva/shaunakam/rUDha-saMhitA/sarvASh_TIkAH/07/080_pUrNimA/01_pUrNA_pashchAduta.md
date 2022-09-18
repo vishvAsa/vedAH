@@ -23,10 +23,9 @@ The first half-verse is met with in TS. (iii. 5. 1¹) and TB. (iii. 1.
 Full in the front, full rearward, from the middle the Full Moon's Night hath conquered in the battle. In her: may we, dwelling with Gods and greatness, feast in the height of heaven, on strengthening viands.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूर्णा। पश्चात्। उत। पूर्णा। पुरस्तात्। उत्। मध्यत:। पौर्णऽमासी। जिगाय। तस्याम्। देवै:। सम्ऽवसन्त:। महिऽत्वा। नाकस्य। पृष्ठे। सम्। इषा। मदेम। ८५.१।
+पूर्णा। पश्चात्। उत। पूर्णा। पुरस्तात्। उत्। मध्यतः। पौर्णऽमासी। जिगाय। तस्याम्। देवैः। सम्ऽवसन्तः। महिऽत्वा। नाकस्य। पृष्ठे। सम्। इषा। मदेम। ८५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

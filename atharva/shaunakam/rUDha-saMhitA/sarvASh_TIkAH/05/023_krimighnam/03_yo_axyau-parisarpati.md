@@ -20,10 +20,9 @@ apparently *gachasi*⌋.
 Two of like colour, two unlike, two coloured black, two coloured red. The tawny and the tawny-eared, Vulture and Wolf, all these are killed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अक्ष्यौ। परिऽसर्पति। य:। नासे इति। परिऽसर्पति। दताम्। य:। मध्यम्। गच्छति। तम्। क्रिमिम्। जम्भयामसि। २३.३।
+यः। अक्ष्यौ। परिऽसर्पति। यः। नासे इति। परिऽसर्पति। दताम्। यः। मध्यम्। गच्छति। तम्। क्रिमिम्। जम्भयामसि। २३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

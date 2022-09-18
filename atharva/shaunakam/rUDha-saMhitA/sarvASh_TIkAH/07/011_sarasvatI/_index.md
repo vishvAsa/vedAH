@@ -7,7 +7,6 @@ title = "०११ सरस्वती"
 11 (12). Against injury to the grain by lightning.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सरस्वती।  
@@ -18,8 +17,6 @@ title = "०११ सरस्वती"
 
 [Cāunaka.—sārasvatam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 463; Grill, 66, 178; Henry, 5, 54; Griffith, i. 333; Bloo
 
 A prayer to protect corn from lightning and drought
 </details>
+

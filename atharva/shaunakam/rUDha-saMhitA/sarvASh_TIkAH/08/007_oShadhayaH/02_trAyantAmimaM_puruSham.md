@@ -21,10 +21,9 @@ expect *pū́ruṣam* in **a**.
 This man let them deliver from Consumption which the Gods have sent. The father of these Herbs was Heaven, their mother Earth, the Sea their root.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रायन्ताम्। इमम्। पुरुषम्। यक्ष्मात्। देवऽइषितात्। अधि। यासाम्। द्यौ:। पिता। पृथिवी। माता। समुद्र:। मूलम्। वीरुधाम्। बभूव। ७.२।
+त्रायन्ताम्। इमम्। पुरुषम्। यक्ष्मात्। देवऽइषितात्। अधि। यासाम्। द्यौः। पिता। पृथिवी। माता। समुद्रः। मूलम्। वीरुधाम्। बभूव। ७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

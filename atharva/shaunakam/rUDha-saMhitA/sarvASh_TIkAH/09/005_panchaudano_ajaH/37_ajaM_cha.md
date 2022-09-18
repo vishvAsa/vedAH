@@ -22,10 +22,9 @@ the verse as if this pāda as well as the other two were metrical.
 He cooks the Goat and the five boiled rice messes. May the uni- ted Quarters, all accordant, and intermediate points, accept him from thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अजम्। च। पचत। पञ्च। च। ओदनान्। सर्वा:। दिश:। सम्ऽमनस:। सध्रीची:। सऽअन्तर्देशा:। प्रति। गृह्णन्तु। ते। एतम्। ५.३७।
+अजम्। च। पचत। पञ्च। च। ओदनान्। सर्वाः। दिशः। सम्ऽमनसः। सध्रीचीः। सऽअन्तर्देशाः। प्रति। गृह्णन्तु। ते। एतम्। ५.३७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

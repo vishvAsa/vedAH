@@ -7,7 +7,6 @@ title = "०३४ शत्रुनाशनम्"
 34 (35). To Agni: against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३४ शत्रुनाशनम्"
 
 [Atharvan.—jātavedasam. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 13, 66; Griffith, i. 343.
 
 A prayer for freedom from sin and the overthrow of enemies
 </details>
+

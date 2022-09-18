@@ -23,7 +23,6 @@ woman's dress. Ppp. reads and combines *paridhayaṣ k-*.
 Songs were the cross-bars of the pole, Kurira metre docked her head. Both Asvins were the paranymphs: Agni was leader of the train.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्तोमाः। आसन्। प्रतिऽधयः। कुरीरम्। छन्दः। ओपशः। सूर्यायाः। अश्विना। वरा। अग्निः। आसीत्। पुरःऽगवः। १.८।

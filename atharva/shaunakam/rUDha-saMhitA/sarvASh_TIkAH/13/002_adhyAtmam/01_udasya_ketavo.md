@@ -24,7 +24,6 @@ ceremony when turning toward the sun in the east.
 Radiant, refulgent in the sky are reared the banners of his light, Aditya's, who beholdeth man, mighty in act and bountiful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। अस्य। केतवः। दिवि। शुक्राः। भ्राजन्तः। ईरते। आदित्यस्य। नृऽचक्षसः। महिऽव्रतस्य। मीढुषः। 2..१।

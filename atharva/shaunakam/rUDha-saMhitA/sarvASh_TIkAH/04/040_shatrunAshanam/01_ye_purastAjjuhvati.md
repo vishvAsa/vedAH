@@ -26,10 +26,9 @@ Anukr.
 O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. May they, turned back, be pained for harming Agni. I drive them backward with mine incantation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पुरस्तात्। जुह्वति। जातऽवेद:। प्राच्या:। दिश:। अभिऽदासन्ति। अस्मान्। अग्निम्। ऋत्वा। ते। पराञ्च:। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.१।
+ये। पुरस्तात्। जुह्वति। जातऽवेदः। प्राच्याः। दिशः। अभिऽदासन्ति। अस्मान्। अग्निम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

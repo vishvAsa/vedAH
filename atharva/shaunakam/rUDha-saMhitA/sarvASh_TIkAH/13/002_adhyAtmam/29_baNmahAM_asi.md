@@ -25,7 +25,6 @@ panasyate ‘ddhā́ deva mahā́ṅ asi;* ⌊the vs. is repeated in RV. form at
 Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grandeur, Mighty One: thou, O Aditya, thou art great.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बट्। महान्। असि। सूर्य। बट्। आदित्य। महान्। असि। महान्। ते। महतः। महिमा। त्वम्। आदित्य। महान्। असि। २.२९।

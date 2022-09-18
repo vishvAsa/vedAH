@@ -18,7 +18,6 @@ serpents, other-folks, demons, run after our enemies.
 Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Serpents and fiends and Other Folk, charge and pursue our enemies!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठत। सम्। नह्यध्वम्। उत्ऽआराः। केतुऽभिः। सह। सर्पाः। इतरऽजनाः। रक्षांसि। अमित्रान्। अनु। धावत। १२.१।

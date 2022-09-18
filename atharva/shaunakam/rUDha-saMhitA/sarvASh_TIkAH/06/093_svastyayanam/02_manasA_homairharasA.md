@@ -23,10 +23,9 @@ th'm I pay.'⌋
 With mind, burnt offerings, butter, and libation, to royal Bhava and the archer Sarva, To these the worshipful I pay my worship: may they turn else- where things with deadly venom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मनसा। होमै:। हरसा। घृतेन। शर्वाय। अस्त्रे। उत। राज्ञे। भवाय। नमस्येभ्य:। नम:। एभ्य:। कृणोमि। अन्यत्र। अस्मत्। अघऽविषा:। नयन्तु। ९३.२।
+मनसा। होमैः। हरसा। घृतेन। शर्वाय। अस्त्रे। उत। राज्ञे। भवाय। नमस्येभ्यः। नमः। एभ्यः। कृणोमि। अन्यत्र। अस्मत्। अघऽविषाः। नयन्तु। ९३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

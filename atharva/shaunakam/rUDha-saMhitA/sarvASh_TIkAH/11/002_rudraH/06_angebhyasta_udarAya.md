@@ -19,7 +19,6 @@ Ppp. (omitting the first *te*) combines *an̄gebhyo ’darāya* and *jihvāyā
 We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homage to thy smell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अङ्गेभ्यः। ते। उदराय। जिह्वायै। आस्याय। ते। दत्ऽभ्यः। गन्धाय। ते। नमः। २.६।

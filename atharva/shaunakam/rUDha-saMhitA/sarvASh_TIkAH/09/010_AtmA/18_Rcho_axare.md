@@ -22,7 +22,6 @@ GB. i. 22. Read *véda* in **c**.
 Upon what syllable of holy praise-hymn, as 'twere their highest heaven, the Gods repose them Who knows not this, what will he do with praise-hymn? But they who know it well sit here assembled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋचः। अक्षरे। परमे। विऽओमन्। यस्मिन्। देवाः। अधि। विश्वे। निऽसेदुः। यः। तत्। न। वेद। किम्। ऋचा। करिष्यति। ये। इत्। तत्। विदुः। ते। अमी इति। सम्। आसते। १५.१८।

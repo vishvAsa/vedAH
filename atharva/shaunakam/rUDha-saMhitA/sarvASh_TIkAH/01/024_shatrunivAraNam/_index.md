@@ -7,7 +7,6 @@ title = "०२४ शत्रुनिवारणम्"
 24. Against leprosy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनिवारणम्।  
@@ -18,8 +17,6 @@ title = "०२४ शत्रुनिवारणम्"
 
 [Brahman.—āsurīvanaspatidevatyam. ānuṣṭubham: 2. niśrtpathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 417; Ludwig, p. 509; Grill, 19, 77; Griffith, i. 28; Bloo
 
 A charm against leprosy
 </details>
+

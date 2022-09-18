@@ -17,7 +17,6 @@ destruction of the Brahman-scather is she.
 A hundred-killing bolt is she: she slays the Brahman's injurer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मेनिः। शतऽवधा। हि। सा। ब्रह्मऽज्यस्य। क्षितिः। हि। सा। ७.५।

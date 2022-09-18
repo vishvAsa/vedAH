@@ -40,10 +40,9 @@ introduction to this hymn.⌋
 Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is giver, Kama is receiver. Kama has passed into the sea. Through Kama do I take thee to myself. O Kama, this is thine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। इदम्। कस्मै। अदात्। काम:। कामाय। अदात्। काम:। दाता। काम:। प्रतिऽग्रहीता। काम:। समुद्रम्। आ। विवेश। कामेन। त्वा। प्रति। गृह्णामि। काम। एतत्। ते। २९.७।
+कः। इदम्। कस्मै। अदात्। कामः। कामाय। अदात्। कामः। दाता। कामः। प्रतिऽग्रहीता। कामः। समुद्रम्। आ। विवेश। कामेन। त्वा। प्रति। गृह्णामि। काम। एतत्। ते। २९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

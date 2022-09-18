@@ -27,10 +27,9 @@ Anukr. means by its definition is obscure.
 May those celestial herbs whose sire was Heaven, the Earth their mother, and their root the ocean. May those celestial healing Plants assist thee to obtain a son.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यासाम्। द्यौ:। पिता। पृथिवी। माता। समुद्र:। मूलम्। वीरुधाम्। बभूव। ता:। त्वा। पुत्रऽविद्याय। दैवी:। प्र। अवन्तु। ओषधय:। २३.६।
+यासाम्। द्यौः। पिता। पृथिवी। माता। समुद्रः। मूलम्। वीरुधाम्। बभूव। ताः। त्वा। पुत्रऽविद्याय। दैवीः। प्र। अवन्तु। ओषधयः। २३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

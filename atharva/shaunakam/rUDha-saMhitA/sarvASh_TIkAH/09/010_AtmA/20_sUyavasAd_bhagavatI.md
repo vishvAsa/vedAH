@@ -19,7 +19,6 @@ We had this verse ⌊RV. vs. 40⌋ above, as vii. 73. 11.
 Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy. Feed on the grass, O Cow, through all the seasons, and coming hitherward drink limpid water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुयवसऽअत्। भगऽवती। हि। भूयाः। अध। वयम्। भगऽवन्तः। स्याम। अध्दि। तृणम्। अघ्न्ये। विश्वऽदानीम्। पिब। शुध्दम्। उदकम्। आऽचरन्ती। १५.२०।

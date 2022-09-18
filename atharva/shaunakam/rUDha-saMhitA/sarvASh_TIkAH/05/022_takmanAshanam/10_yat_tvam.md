@@ -25,10 +25,9 @@ Most of our mss. have *tābhi sma* in **d**.
 Since thou now cold, now burning hot, with cough besides, hast made us shake, Terrible, Fever, are thy darts: forbear to injure us with these.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। त्वम्। शीत:। अथो इति। रूर:। सह। कासा। अवेपय:। भीमा:। ते। तक्मन्। हेतय:। ताभि:। स्म। परि। वृङ्गिध। न:। २२.१०।
+यत्। त्वम्। शीतः। अथो इति। रूरः। सह। कासा। अवेपयः। भीमाः। ते। तक्मन्। हेतयः। ताभिः। स्म। परि। वृङ्गिध। नः। २२.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

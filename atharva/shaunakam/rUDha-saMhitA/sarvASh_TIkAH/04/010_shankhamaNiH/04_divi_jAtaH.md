@@ -23,10 +23,9 @@ own course, regardless of rule, and both editions very properly give
 Born in the heaven, sprung from the sea, brought to us hither from the flood. This gold-born Shell shall be to us an amulet to lengthen life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवि। जात:। समुद्रऽज:। सिन्धुत:। परि। आऽभृत:। स:। न:। हिरण्यऽजा:। शङ्ख:। आयु:ऽप्रतरण:। मणि:। १०.४।
+दिवि। जातः। समुद्रऽजः। सिन्धुतः। परि। आऽभृतः। सः। नः। हिरण्यऽजाः। शङ्खः। आयुःऽप्रतरणः। मणिः। १०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

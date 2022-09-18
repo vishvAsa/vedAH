@@ -21,10 +21,9 @@ This verse is again, without variation, RV. x. 17. 5 (also MS. iv. 14.
 Pushan knows all these realms: may he conduct us by ways that are most free from fear and danger. Giver of blessings, glowing, all heroic, may he the wise and watchful go before us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूषा। इमा:। आशा:। अनु। वेद। सर्वा:। स:। अस्मान्। अभयऽतमेन। नेषत्। स्वस्तिऽदा:। आघृणि:। सर्वऽवीर:। अप्रऽयुच्छन्। पुर:। एतु। प्रऽजानन्। १०.२।
+पूषा। इमाः। आशाः। अनु। वेद। सर्वाः। सः। अस्मान्। अभयऽतमेन। नेषत्। स्वस्तिऽदाः। आघृणिः। सर्वऽवीरः। अप्रऽयुच्छन्। पुरः। एतु। प्रऽजानन्। १०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

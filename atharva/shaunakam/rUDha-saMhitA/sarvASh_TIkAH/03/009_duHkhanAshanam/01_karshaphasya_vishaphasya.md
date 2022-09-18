@@ -29,10 +29,9 @@ Ppp. further omits *abhi* in **c**, and reads *api* for *apa* in **d**.
 Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brought them hither, Gods! so do ye move therm hence away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कर्शफस्य। विऽशफस्य। द्यौ:। पिता। पृथिवी। माता। यथा। अभिऽचक्र। देवा:। तथा। अप। कृणुत। पुन:। ९.१।
+कर्शफस्य। विऽशफस्य। द्यौः। पिता। पृथिवी। माता। यथा। अभिऽचक्र। देवाः। तथा। अप। कृणुत। पुनः। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

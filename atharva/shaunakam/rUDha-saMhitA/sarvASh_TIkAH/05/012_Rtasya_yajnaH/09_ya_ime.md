@@ -20,10 +20,9 @@ There are no variants.
 Hotar more skilled in sacrifice, bring hither with speed to-day God Tvashar, thou who knowest, Even him who formed these two, the Earth and Heaven, the Parents, with their forms, and every creature.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। इमे इति। द्यावापृथिवी इति। जनित्री इति। रूपै:। अपिशत्। भुवनानि। विश्वा। तम्। अद्य। होत:। इषित:। यजीयान्। देवम्। त्वष्टारम्। इह। यक्षि। विद्वान्। १२.९।
+यः। इमे इति। द्यावापृथिवी इति। जनित्री इति। रूपैः। अपिशत्। भुवनानि। विश्वा। तम्। अद्य। होतः। इषितः। यजीयान्। देवम्। त्वष्टारम्। इह। यक्षि। विद्वान्। १२.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ The verse corresponds, without variant, to RV. x. 85. 14 **a, b** and 15
 When on your three-wheeled chariot, O ye Asvins, ye came as suitors unto Surya's bridal, Where was one chariot-wheel of yours? Where stood ye for the sire's command?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अश्विना। पृच्छमानौ। अयातम्। त्रिऽचक्रेण। वहतुम्। सूर्यायाः। क्व। एकम्। चक्रम्। वाम्। आसीत्। क्व। देष्ट्राय। तस्थथुः। १.१४।

@@ -23,7 +23,6 @@ by the Anukr.
 I cook the offering, I present oblation: only my wife attends the holy service. A youthful world, a son hath been begotten. Begin a life that brings success and triumph.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अहम्। पचामि। अहम्। ददामि। मम। इत्। ऊं इति। कर्मन्। करुणे। अधि। जाया। कौमारः। लोकः। अजनिष्टः। पुत्रः। अनुऽआरभेथाम्। वयः। उत्तरऽवत्। ३.४७।

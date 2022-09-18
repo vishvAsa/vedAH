@@ -17,7 +17,6 @@ a quarter, the sacrifice a quarter, the domestic animals a quarter.
 Four-parted was the Cow's prolific humour. One-fourth is Water, one-fourth life eternal, one-fourth is sacri- fice, one-fourth are cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चतुःऽधा। रेतः। अभवत्। वशायाः। आपः। तुरीयम्। अमृतम्। तुरीयम्। यज्ञः। तुरीयम्। पशवः। तुरीयम्। १०.२९।

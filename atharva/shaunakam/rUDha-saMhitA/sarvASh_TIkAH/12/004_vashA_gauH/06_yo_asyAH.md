@@ -26,7 +26,6 @@ this vs. and the root *akṣ* are discussed by Delbrück,
 Whoever twitches up her ears is separated from the Gods. He deems he makes a mark, but he diminishes his wealth thereby.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्याः। कर्णौ। आऽस्कुनोति। आ। सः। देवेषु। वृश्चते। लक्ष्म। कुर्वे। इति। मन्यते। कनीयः। कृणुते। स्वम्। ४.६।

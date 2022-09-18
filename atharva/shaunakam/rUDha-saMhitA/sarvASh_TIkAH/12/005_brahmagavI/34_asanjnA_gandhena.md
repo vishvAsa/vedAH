@@ -20,7 +20,6 @@ as food. Bp. reads *udhrīyá-*.
 Discord by her smell, grief when she is being eviscerated: ser- pent with poison in its fang when drawn;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 असम्ऽज्ञा। गन्धेन। शुक्। उध्द्रियमाणा। आशीविषः। उध्दृता। ८.७।

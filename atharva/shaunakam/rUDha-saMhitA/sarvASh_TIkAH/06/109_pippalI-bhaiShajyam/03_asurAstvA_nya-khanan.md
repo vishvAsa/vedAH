@@ -19,10 +19,9 @@ The comm. understands *vātikṛta* as *vātarogāviṣṭaśarīra*. ⌊Cf. vi.
 Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness caused by wounds and healer of the missile's rent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असुरा:। त्वा। नि। अखनन्। देवा:। त्वा। उत्। अवपन्। पुन:। वातीऽकृतस्य। भेषजीम्। अथो इति। क्षिप्तस्‍य। भेषजीम्। १०९.३।
+असुराः। त्वा। नि। अखनन्। देवाः। त्वा। उत्। अवपन्। पुनः। वातीऽकृतस्य। भेषजीम्। अथो इति। क्षिप्तस्‍य। भेषजीम्। १०९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

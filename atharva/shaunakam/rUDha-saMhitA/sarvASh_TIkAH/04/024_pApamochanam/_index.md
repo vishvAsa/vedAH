@@ -7,7 +7,6 @@ title = "०२४ पापमोचनम्"
 24. Praise and prayer to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापमोचनम्।  
@@ -18,8 +17,6 @@ title = "०२४ पापमोचनम्"
 
 [Mṛgāra.—(see h. 23). 1. śakvarīgarbhā puraḥśakvarī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 165; Weber, xviii. 100.
 
 A hymn of prayer and praise to Indra
 </details>
+

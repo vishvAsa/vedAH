@@ -7,7 +7,6 @@ title = "१३० स्मरः"
 130. To win a man's love.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्मरः।  
@@ -19,8 +18,6 @@ title = "१३० स्मरः"
 [Atharvān̄giras.—caturṛcam. smaradevatāham. ānuṣṭubham: 1. virāṭpurastādbṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Hymns 130-132 are not found in Pāipp. Hymn 130 and the next two are used by Kā
 ### Translations
 Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, i. 317; Bloomfield, 104, 534.
 </details>
+

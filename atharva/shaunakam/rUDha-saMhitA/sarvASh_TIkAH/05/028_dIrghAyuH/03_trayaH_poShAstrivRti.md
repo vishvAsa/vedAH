@@ -20,10 +20,9 @@ times (*bhū-* in **d**). We need in **a** to resolve *tṛ-ayaḥ*.
 In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and butter. Here rest abundant store of food and people, may ample store of cattle rest within it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रय:। पोषा:। त्रिऽवृति। श्रयन्ताम्। अनक्तु। पूषा। पयसा। घृतेन। अन्नस्‍य। भूमा। पुरुषस्य। भूमा। भूमा। पशूनाम्। ते। इह। श्रयन्ताम्। २८.३।
+त्रयः। पोषाः। त्रिऽवृति। श्रयन्ताम्। अनक्तु। पूषा। पयसा। घृतेन। अन्नस्‍य। भूमा। पुरुषस्य। भूमा। भूमा। पशूनाम्। ते। इह। श्रयन्ताम्। २८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

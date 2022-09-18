@@ -24,10 +24,9 @@ also elsewhere ⌊see ii. 12. 7, note⌋, have *manyā́* for *majjñā́* in
 With marrow be the marrow joined, thy limb united with the limb. Let what hath fallen of thy flesh, and the bone also grow again.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। ते। मज्जा। मज्ज्ञा। भवतु। सम्। ऊं इति। ते। परुषा। परु:। सम्। ते। मांसस्य। विऽस्रस्तम्। सम्। अस्थि। अपि। रोहतु। १२.३।
+सम्। ते। मज्जा। मज्ज्ञा। भवतु। सम्। ऊं इति। ते। परुषा। परुः। सम्। ते। मांसस्य। विऽस्रस्तम्। सम्। अस्थि। अपि। रोहतु। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -16,7 +16,6 @@ title = "६४ यथायाद् यमसादनात्"
 That he may go from Yama's home afar into the worlds of sin. its
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। अयात्। यमऽसदनात्। पापऽलोकान्। पराऽवतः। ११.३।

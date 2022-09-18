@@ -19,10 +19,9 @@ Ppp. in **d** apparently *saṁ jñapayāmasi*.
 We bend your minds in union, bend in harmony your hopes and plans: You there, who turn to sundered ways, we bend and bow in unison.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। मनांसि। सम्। व्रता। सम्। आऽकूती:। नमामसि। अमी इति। ये। विऽव्रता:। स्थन। तान्। व:। सम्। नमयामसि। ९४.१।
+सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ९४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

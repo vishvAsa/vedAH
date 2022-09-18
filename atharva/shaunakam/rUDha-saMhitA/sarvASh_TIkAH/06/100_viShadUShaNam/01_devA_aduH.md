@@ -21,10 +21,9 @@ but the others as imperatives.
 The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The three Sarasvatis in full accord bestowed the antidote.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। अदु:। सूर्य:। अदात्। द्यौ:। अदात्। पृथिवी। अदात्। तिस्र:। सरस्वती:। अदु:। सऽचित्ता:। विषऽदूषणम्। १००.१।
+देवाः। अदुः। सूर्यः। अदात्। द्यौः। अदात्। पृथिवी। अदात्। तिस्रः। सरस्वतीः। अदुः। सऽचित्ताः। विषऽदूषणम्। १००.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

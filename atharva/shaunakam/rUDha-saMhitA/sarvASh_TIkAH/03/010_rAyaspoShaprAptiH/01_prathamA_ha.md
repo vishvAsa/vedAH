@@ -28,10 +28,9 @@ occurrences) has *duhā utt-*, and in 8. i also *arhaṇā putra vāsa* for
 The First hath dawned. With Yama may it be a cow to pour forth milk. May she be rich in milk and stream for us through many a com- ing year.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रथमा। ह। वि। उवास। सा। धेनु:। अभवत्। यमे। सा। न:। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १०.१।
+प्रथमा। ह। वि। उवास। सा। धेनुः। अभवत्। यमे। सा। नः। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

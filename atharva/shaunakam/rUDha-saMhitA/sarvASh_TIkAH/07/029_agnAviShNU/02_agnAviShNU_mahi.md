@@ -34,10 +34,9 @@ mahitvaṁ pātaṁ ghṛtasya guhyā juṣāṇaḥ: dame-dame* etc.⌋
 Ye love the great law, Agni Vishnu! joying, ye feast on mystic essences of butter, Exalted in each house with fair laudation. Let your tongue stretch to take the offered fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नाविष्णू इति। महि। धाम। प्रियम्। वाम्। वीथ:। घृतस्य। गुह्या। जुषाणौ। दमेऽदमे। सुऽस्तुत्या। ववृधानौ। प्रति। वाम्। जिह्वा। घृतम्। उत्। चरण्यात्। ३०.२।
+अग्नाविष्णू इति। महि। धाम। प्रियम्। वाम्। वीथः। घृतस्य। गुह्या। जुषाणौ। दमेऽदमे। सुऽस्तुत्या। ववृधानौ। प्रति। वाम्। जिह्वा। घृतम्। उत्। चरण्यात्। ३०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

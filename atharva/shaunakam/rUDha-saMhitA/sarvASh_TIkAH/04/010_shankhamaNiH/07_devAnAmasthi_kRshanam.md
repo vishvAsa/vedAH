@@ -30,10 +30,9 @@ hymn, contains 5 hymns and 39 verses; the Anukr. quotation is *nava ca*.
 Bone of the Good became the pearl's shell-mother endowed with soul it moveth in the waters. I bind this on thee for life, strength, and vigour, for long life lasting through a hundred autumns. May the pearl's mother keep and guard thee safely!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवानाम्। अस्थि। कृशनम्। बभूव। तत्। आत्मन्ऽवत्। चरति। अप्ऽसु। अन्त:। तत्। ते। बध्नामि। आयुषे। वर्चसे। बलाय। दीर्घायुऽत्वाय। शतऽशारदाय। कार्शन:। त्वा। अभि। रक्षतु। १०.७।
+देवानाम्। अस्थि। कृशनम्। बभूव। तत्। आत्मन्ऽवत्। चरति। अप्ऽसु। अन्तः। तत्। ते। बध्नामि। आयुषे। वर्चसे। बलाय। दीर्घायुऽत्वाय। शतऽशारदाय। कार्शनः। त्वा। अभि। रक्षतु। १०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

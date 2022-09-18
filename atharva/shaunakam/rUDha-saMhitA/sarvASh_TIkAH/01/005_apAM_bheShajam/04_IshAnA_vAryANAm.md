@@ -20,10 +20,9 @@ pāda, with much discordance among the mss., and adds a fourth.
 I pray the Floods to send us balm, those who bear rule o'er precious things, And have supreme control of men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ईशाना:। वार्याणाम्। क्षयन्ती:। चर्षणीनाम्। अप:। याचामि। भेषजम्।
+ईशानाः। वार्याणाम्। क्षयन्तीः। चर्षणीनाम्। अपः। याचामि। भेषजम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

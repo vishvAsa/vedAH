@@ -21,7 +21,6 @@ the second definition of it in the Anukr. notices this.
 May Indra-Agni, Heaven-Earth, Matarisvan, may Mitra-Varuna, Bhaga, both the Asvins, Brihaspati, the host of Maruts, Brahma, and Soma magnify this dame with offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्राग्नी इति। द्यावापृथिवी इति। मातरिश्वा। मित्रावरुणा। भगः। अश्विना। उभा। बृहस्पतिः। मरुतः। ब्रह्म। सोमः। इमाम्। नारीम्। प्रऽजया। वर्धयन्तु। १.५४।

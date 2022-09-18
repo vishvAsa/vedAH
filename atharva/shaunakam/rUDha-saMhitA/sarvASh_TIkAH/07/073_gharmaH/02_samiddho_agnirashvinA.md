@@ -22,10 +22,9 @@ sutáḥ* for *ā́ gatam*.
 Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even now, O Heroes, are the milch-kine milked. The priests, ye mighty ones! rejoice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽइध्द:। अग्नि:। अश्विना। तप्त:। वाम्। धर्म:। आ। गतम्। दुह्यन्ते। नूनम्। वृषणा। इह। धेनव:। दस्रा। मदन्ति। वेधस:। ७७.२।
+सम्ऽइध्दः। अग्निः। अश्विना। तप्तः। वाम्। धर्मः। आ। गतम्। दुह्यन्ते। नूनम्। वृषणा। इह। धेनवः। दस्रा। मदन्ति। वेधसः। ७७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

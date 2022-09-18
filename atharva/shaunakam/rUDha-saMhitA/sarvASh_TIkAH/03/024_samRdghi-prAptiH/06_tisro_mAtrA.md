@@ -24,10 +24,9 @@ the Gandharvas!
 Three sheaves are the Gandharvas' claim, the lady of the house hath four. We touch thee with the sheaf that is the most abundant of them all.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तिस्र:। मात्रा:। गन्धर्वाणाम्। चतस्र:। गृहऽपत्न्या:। तासाम्। या। स्फातिमत्ऽतमा। तया। त्वा। अभि। मृशामसि। २४.६।
+तिस्रः। मात्राः। गन्धर्वाणाम्। चतस्रः। गृहऽपत्न्याः। तासाम्। या। स्फातिमत्ऽतमा। तया। त्वा। अभि। मृशामसि। २४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

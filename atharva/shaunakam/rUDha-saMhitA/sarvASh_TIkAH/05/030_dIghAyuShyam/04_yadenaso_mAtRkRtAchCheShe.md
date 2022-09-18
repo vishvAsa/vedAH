@@ -19,10 +19,9 @@ mother or father': doubtless wrong.
 If thou art lying there because of mother's or of father's sin, I with my voice declare to thee thy freedom and release there- from.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। एनस:। मातृकृतात्। शेषे। पितृऽकृतात्। च। यत्। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.४।
+यत्। एनसः। मातृकृतात्। शेषे। पितृऽकृतात्। च। यत्। उन्मोचनप्रमोचने  इत्युन्मोचनऽप्रमोचने। उभे इति। वाचा। वदामि। ते। ३०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

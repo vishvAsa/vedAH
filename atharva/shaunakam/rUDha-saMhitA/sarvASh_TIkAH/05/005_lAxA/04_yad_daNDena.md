@@ -20,10 +20,9 @@ below.
 Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art the remedy: as such restore this man to health.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। दण्डेन। यत्। इष्वा। यत्। वा। अरु:। हरसा। कृतम्। तस्य। त्वम्। असि। नि:ऽकृति:। सा। इमम्। नि:। कृधि। पुरुषम्। ५.४।
+यत्। दण्डेन। यत्। इष्वा। यत्। वा। अरुः। हरसा। कृतम्। तस्य। त्वम्। असि। निःऽकृतिः। सा। इमम्। निः। कृधि। पुरुषम्। ५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

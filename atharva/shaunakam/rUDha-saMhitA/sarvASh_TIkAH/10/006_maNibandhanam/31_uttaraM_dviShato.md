@@ -24,7 +24,6 @@ Kāuś. 19. 25. The Anukr. takes no notice of the redundant syllable in
 May this Chaim, offspring of the Gods, make me superior to my foe. So may this charm whose milk expressed these three worlds longingly await, Be fastened on me here, that it may crown me with surpassing power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽतरम्। द्विषतः। माम्। अयम्। मणिः। कृणोतु। देवऽजाः। यस्य। लोकाः। इमे। त्रयः। पयः। दुग्धम्। उपऽआसते। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३१।

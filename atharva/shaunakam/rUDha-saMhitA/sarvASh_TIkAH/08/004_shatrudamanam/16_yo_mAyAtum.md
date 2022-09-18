@@ -22,10 +22,9 @@ containing such.'
 May Indra slay him with a mighty weapon, and let the vilest of all creatures perish, The fiend who says that he is pure, who calls me a demon though devoid of demon nature.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। मा। अयातुम्। यातुऽधान। इति। आह। य:। वा। रक्षा:। शुचि:। अस्मि। इति। आह। इन्द्र:। तम्। हन्तु। महता। वधेन। विश्वस्य। जन्तो:। अधम:। पदीष्ट। ४.१६।
+यः। मा। अयातुम्। यातुऽधान। इति। आह। यः। वा। रक्षाः। शुचिः। अस्मि। इति। आह। इन्द्रः। तम्। हन्तु। महता। वधेन। विश्वस्य। जन्तोः। अधमः। पदीष्ट। ४.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,7 +25,6 @@ female demon supposed to belong to the defiled article.
 Let him flash gloom away from us, the blue, the yellow and the red. I fasten to this pillar here the burning pest Prishataki.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। अस्मत्। तमः। उच्छतु। नीलम्। पिशङ्गम्। उत। लोहितम्। यत्। निःऽदहनी। या। पृषातकी। अस्मिन्। ताम्। स्थाणौ। अधि। आ। सजामि। २.४८।

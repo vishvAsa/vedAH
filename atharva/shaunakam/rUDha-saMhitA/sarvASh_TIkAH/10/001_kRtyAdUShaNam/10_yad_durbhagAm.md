@@ -22,7 +22,6 @@ ends a corruptly with *pṛṣṇipathāṁ*.⌋
 When we have found her ducked and drenched, a hapless cow whose calf hath died, Let all my woe depart and let abundant riches come to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। दुःऽभगाम्। प्रऽस्नपिताम्। मृतऽवत्साम्। उपऽएयिम्। अप। एतु। सर्वम्। मत्। पापम्। द्रविणम्। मा। उप। तिष्ठतु। १.१०।

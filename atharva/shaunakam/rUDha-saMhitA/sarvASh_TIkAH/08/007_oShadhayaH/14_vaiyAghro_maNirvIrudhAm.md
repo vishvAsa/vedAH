@@ -20,10 +20,9 @@ end. *Adhi* in **d** is redundant in respect both to sense and to meter.
 May the Plants' Tiger-amulet, protective, guardian from the curse, Beat off the brood of demons, drive all maladies afar from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैयाघ्र:। मणि:। वीरुधाम्। त्रायमाण:। अभिशस्तिऽपा:। अमीवा:। सर्वा। रक्षांस‍ि। अप। हन्तु। अधि। दूरम्। अस्मत्। ७.१४।
+वैयाघ्रः। मणिः। वीरुधाम्। त्रायमाणः। अभिशस्तिऽपाः। अमीवाः। सर्वा। रक्षांस‍ि। अप। हन्तु। अधि। दूरम्। अस्मत्। ७.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

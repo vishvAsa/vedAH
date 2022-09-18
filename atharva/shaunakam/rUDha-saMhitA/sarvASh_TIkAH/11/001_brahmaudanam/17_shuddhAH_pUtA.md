@@ -33,7 +33,6 @@ seen. But this is all mere suggestion.⌋
 Purified, bright, and holy, let these Women, these lucid waters glide into the caldron. Cattle and many children may they give us. May he who cooks. the Odana go to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शुध्दाः। पूताः। योषितः। यज्ञियाः। इमाः। आपः। चरुम्। अव। सर्पन्तु। शुभ्राः। अदुः। प्रऽजाम्। बहुलान्। पशून्। नः। पक्ता। ओदनस्य। सुऽकृताम्। एतु। लोकम्। १.१७।

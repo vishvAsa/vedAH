@@ -33,10 +33,9 @@ reads for **c** *yamasya gacha sādanam.* ⌊In many parts of India today
 Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Agni as thine envoy, go, prepared, to Yama's dwelling place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। प्राणान्। अष्टौ। मन्य:। तान्। ते। वृश्चामि। ब्रह्मणा। अया:। यमस्य। सदनम्। अग्निऽदूत:। अरम्ऽकृत:। १२.७।
+सप्त। प्राणान्। अष्टौ। मन्यः। तान्। ते। वृश्चामि। ब्रह्मणा। अयाः। यमस्य। सदनम्। अग्निऽदूतः। अरम्ऽकृतः। १२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

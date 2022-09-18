@@ -17,10 +17,9 @@ the etc. etc.
 Use spells against the man we hate, against the man who hateth us. Reach thy superior, thou; surpass thine equal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रति। तम्। अभि। चर। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.३।
+प्रति। तम्। अभि। चर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

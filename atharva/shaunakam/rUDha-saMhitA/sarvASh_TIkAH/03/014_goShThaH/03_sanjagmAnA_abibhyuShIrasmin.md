@@ -28,10 +28,9 @@ combination when *ā* comes between two vowels (*upa-ā-itana* like
 Moving together, free from fear, with plenteous droppings in this pen, Bearing sweet milk-like Soma-juice, come hither free from all disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽजग्माना:। अबिभ्युषी:। अस्मिन्। गोऽस्थे। करीषिणी:। बिभ्रती:। सोम्यम्। मधु। अनमीवा:। उपऽएतन। १४.३।
+सम्ऽजग्मानाः। अबिभ्युषीः। अस्मिन्। गोऽस्थे। करीषिणीः। बिभ्रतीः। सोम्यम्। मधु। अनमीवाः। उपऽएतन। १४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

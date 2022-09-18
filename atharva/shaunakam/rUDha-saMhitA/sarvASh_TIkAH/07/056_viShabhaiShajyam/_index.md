@@ -7,7 +7,6 @@ title = "०५६ विषभैषज्यम्"
 56 (58). Against poison of snakes and insects.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विषभैषज्यम्।  
@@ -18,8 +17,6 @@ title = "०५६ विषभैषज्यम्"
 
 [Atharvan.—aṣṭarcam. mantroktavṛścikadevatāham: 2. vānaspatyā; 4. brāhmaṇaspatyā.* ānuṣṭubham: 4. virāṭprastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 502; Grill, 5, 183; Henry, 21, 82; Griffith, i. 353; Bloo
 
 A charm against poisonous bites and stings
 </details>
+

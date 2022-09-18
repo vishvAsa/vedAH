@@ -27,7 +27,6 @@ has but 23 syllables (unless we analyze *jihu-ā́*).
 Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Krittikas are the shoulders, the Gharma s the shoulder-bar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विद्युत्। जिह्वा। मरुतः। दन्ताः। रेवतीः। ग्रीवाः। कृत्तिकाः। स्कन्धाः। घर्मः। वहः। १२.३।

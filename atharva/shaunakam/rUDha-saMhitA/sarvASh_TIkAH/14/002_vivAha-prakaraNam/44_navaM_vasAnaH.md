@@ -21,7 +21,6 @@ garment.
 Clad in new garments, fragrant, well-apparelled, to meet reful- gent Dawn have I arisen. I, like a bird that quits the egg, am freed from sin and purified.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नवम्। वसानः। सुरभिः। सुऽवासाः। उत्ऽआगाम्। जीवः। उषसः। विऽभातीः। आण्डात्। पतत्रीऽइव। अमुक्षि। विश्वस्मात्। एनसः। परि। २.४४।

@@ -21,10 +21,9 @@ and ends **d** with *saṁviṣīvahi.* ⌊The *saṁhitā*-mss. all combine *iv
 Thou who like some victorious bull displayest thy surpassing might, With thee, with thee, Asvattha! we would overcome our enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। सहमान:। चरसि। ससहान:ऽइव। ऋषभ:। तेन। अश्वत्थ। त्वया। वयम्। सऽपत्नान्। सहिषीमहि। ६.४।
+यः। सहमानः। चरसि। ससहानःऽइव। ऋषभः। तेन। अश्वत्थ। त्वया। वयम्। सऽपत्नान्। सहिषीमहि। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

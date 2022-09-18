@@ -17,7 +17,6 @@ presentest \[it to him\] in yonder world.
 Bearing off wrong, thou givest in that world to him who hath been wronged.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽदाय। जीतम्। जीताय। लोके। अमुष्मिन्। प्र। यच्छसि। १०.११।

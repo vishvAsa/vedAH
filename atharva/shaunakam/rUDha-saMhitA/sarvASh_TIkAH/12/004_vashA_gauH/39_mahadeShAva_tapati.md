@@ -23,7 +23,6 @@ intrusive *ha*.
 Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she yields for him who owns and hath not given her away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 महत्। एषा। अव। तपति। चरन्ती। गोषु। गौः। अपि। अथो इति। ह। गोऽपतये। वशा। अददुषे। विषम्। दुहे। ४.३९।

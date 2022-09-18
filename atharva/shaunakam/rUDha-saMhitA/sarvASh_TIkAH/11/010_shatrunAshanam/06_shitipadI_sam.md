@@ -21,7 +21,6 @@ being a *śarūṇām bāṇānāṁ samūhaḥ*.
 May this four-footed White-foot, may this arrow brace and bind thee fast: Together with Trishandhi's host, be thou, O Witchcraft, meant for foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शितिऽपदी। सम्। द्यतु। शरव्या। इयम्। चतुःऽपदी। कृत्ये। अमित्रेभ्यः। भव। त्रिऽसंधेः। सह। सेनया। १२.६।

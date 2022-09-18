@@ -23,10 +23,9 @@ universal manuscript usage.
 You, claiming Anuyajas or Prayajas, sharers, or not consumers, of oblation, You, to whom heaven's five regions are apportioned, I make companions at his sacred sessions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येषाम्। प्रऽयाजा:। उत। वा। अनुऽयाजा:। हुतऽभागा:। अहुतऽअद:। च। देवा:। येषाम्। व:। पञ्च। प्रऽदिश:। विऽभक्ता:। तान्। व:। अस्मै। सत्रऽसद:। कृणोमि।
+येषाम्। प्रऽयाजाः। उत। वा। अनुऽयाजाः। हुतऽभागाः। अहुतऽअदः। च। देवाः। येषाम्। वः। पञ्च। प्रऽदिशः। विऽभक्ताः। तान्। वः। अस्मै। सत्रऽसदः। कृणोमि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

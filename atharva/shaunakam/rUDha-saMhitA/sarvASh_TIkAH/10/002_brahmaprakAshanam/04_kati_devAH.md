@@ -30,7 +30,6 @@ the Pet. Lexx. The Anukr. takes no notice of the lacking syllable in
 Who and how many were those Gods who fastened the chest of Purusha and neck together? How many fixed his breasts? Who formed his elbows? How many joined together ribs and shoulders?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कति। देवाः। कतमे। ते। आसन्। ये। उरः। ग्रीवाः। चिक्युः। पुरुषस्य। कति। स्तनौ। वि। अदधुः। कः। कफोडौ। कति। स्कन्धान्। कति। पृष्टीः। अचिन्वन्। २.४।

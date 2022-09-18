@@ -17,7 +17,6 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 स वै दि॒वोऽजायत॒ तस्मा॒द् द्यौरध्य॑जायत ॥३३॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। वै। दिवः। अजायत। तस्मात्। द्यौः। अधि। अजायत। ७.५।

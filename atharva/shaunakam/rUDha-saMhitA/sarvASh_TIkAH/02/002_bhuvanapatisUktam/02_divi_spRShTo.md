@@ -29,10 +29,9 @@ by *krodha*. The Anukr. does not heed that **c** is a *jagatī* pāda.
 Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' displeasure. Lord of the World, may the Gandharva bless us, the friendly God who only must be worshipped.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिवि। स्पृष्ट:। यजत:। सूर्यऽत्वक्। अवऽयाता। हरस:। दैव्यस्य। मृडात्। गन्धर्व:। भुवनस्य। य:। पति:। एक:। एव। नमस्य:। सुऽशेवा:। २.२।
+दिवि। स्पृष्टः। यजतः। सूर्यऽत्वक्। अवऽयाता। हरसः। दैव्यस्य। मृडात्। गन्धर्वः। भुवनस्य। यः। पतिः। एकः। एव। नमस्यः। सुऽशेवाः। २.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००९ शतौदना गौः"
 9. With the offering of a cow and a hundred rice-dishes.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शतौदना गौः।  
@@ -19,8 +18,6 @@ title = "००९ शतौदना गौः"
 
 [Atharvan.—saptaviṅśati. mantroktaśatāudanadevatyam. ānuṣṭubham: 1. triṣṭubh; 12. pathyāpan̄kti; 25. dvyuṣṇiggarbhā ’nuṣṭubh; 26. 5-p. bṛhatyanuṣṭubuṣṇiggarbhā jagatī; 27. 5-p. atijāgatānuṣṭubgarbhā śakvarī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Ludwig, p. 270 (in great part); Henry, 32, 83; Griffith, ii. 42.
 
 The Sataudana or Hundredfold Oblation
 </details>
+

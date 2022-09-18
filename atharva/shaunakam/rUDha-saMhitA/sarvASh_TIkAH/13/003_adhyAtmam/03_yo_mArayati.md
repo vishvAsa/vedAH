@@ -18,7 +18,6 @@ An exact *aṣṭi* (9 + 11: 44 = 64).
 He who takes life away, he who bestows it; from whom comes breath to every living creature, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। मारयति। प्राणयति। यस्मात्। प्राणन्ति। भुवनानि। विश्वा। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.३।

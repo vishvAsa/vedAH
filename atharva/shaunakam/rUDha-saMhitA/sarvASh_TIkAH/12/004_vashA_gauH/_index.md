@@ -7,7 +7,6 @@ title = "००४ वशा गौः"
 4. The cow (vaśā́) as belonging exclusively to the Brahmans.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वशा गौः।  
@@ -18,8 +17,6 @@ title = "००४ वशा गौः"
 
 [Kaśyapa.—tripañcāśat. mantroktavaśādevatyam. ānuṣṭubham: 7. bhurij; 20. virāj; 32. uṣṇigbṛhatīgarbhā; 42. bṛhatīgarbhā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated; Ludwig, p. 448; Henry, 203, 248; Griffith, ii. 120; Bloomfield, 174,
 
 On the duty of giving cows to Brahmans, and the sin and danger of withholding the gift
 </details>
+

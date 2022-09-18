@@ -18,10 +18,9 @@ The Pet. Lexx. interpret *saṁvíd* as 'possessions.'
 The man who eats before the guest eats up the glory and the understanding of the house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रियम्। च। वै। एष:। सम्ऽविदम्। च। गृहाणाम्। अश्नाति। य:। पूर्व:। अतिथे:। अश्नाति। ८.६।
+श्रियम्। च। वै। एषः। सम्ऽविदम्। च। गृहाणाम्। अश्नाति। यः। पूर्वः। अतिथेः। अश्नाति। ८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

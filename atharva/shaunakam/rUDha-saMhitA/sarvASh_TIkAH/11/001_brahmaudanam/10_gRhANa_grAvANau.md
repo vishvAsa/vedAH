@@ -25,7 +25,6 @@ elevens (*virāḍ-jagatī*), which possesses a thirteen at the beginning,
 Grasp with thy hand, O man, the well-formed press-stones: the holy Gods have come unto thy worship. Three wishes of thy heart which thou electest, these happy gains for thee I here make ready.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गृहाण। ग्रावाणौ। सऽकृतौ। वीर। हस्ते। आ। ते। देवाः। यज्ञियाः। यज्ञम्। अगुः। त्रयः। वराः। यतमान्। त्वम्। वृणीषे। ताः। ते। सम्ऽऋध्दीः। इह। राधयामि। १.१०।

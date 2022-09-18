@@ -58,7 +58,6 @@ also has *pīvarīm* (= *sthūlām*); *prapharvī* he explains as
 The keen-shared plough that bringeth bliss, furnished with traces and with stilts, Shear out for me a cow, a sheep, a rapid drawer of the car, a blooming woman, plump and strong!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 लाङ्गलम्। पवीरऽवत्। सुऽशीमम्। सोमसत्ऽसरु। उत्। इत्। वपतु। गाम्। अविम्। प्रस्थाऽवत्। रथऽवाहनम्। पीबरीम्। च। प्रऽफर्व्यम्। १७.३।

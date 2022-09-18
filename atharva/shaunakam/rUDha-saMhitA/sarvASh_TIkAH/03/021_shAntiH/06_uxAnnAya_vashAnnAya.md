@@ -23,10 +23,9 @@ is, as *bṛhatī*, rather *nicṛt* than *virāj*.
 To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanara's followers--to these be this oblation paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उक्षऽअन्नाय। वशाऽअन्नाय। सोमऽपृष्ठाय। वेधसे। वैश्वानरऽज्येष्ठेभ्य:। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.६।
+उक्षऽअन्नाय। वशाऽअन्नाय। सोमऽपृष्ठाय। वेधसे। वैश्वानरऽज्येष्ठेभ्यः। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

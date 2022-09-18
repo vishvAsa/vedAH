@@ -23,7 +23,6 @@ pādas; and **a** and **c** will pass if we resolve *naārī iyam* and
 She hath come home this dame come home to bless us: this her appointed world hath Dhatar shown her. So may Prajapati, and both the Asvins, Aryaman, Bhaga gladden her with offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शिवा। नारी। इयम्। अस्तम्। आ। अगन्। इमम्। धाता। लोकम्। अस्यै। दिदेश। ताम्। अर्यमा। भगः। अश्विना। उभा। प्रजाऽपतिः। प्रऽजया। वर्धयन्तु। २.१३।

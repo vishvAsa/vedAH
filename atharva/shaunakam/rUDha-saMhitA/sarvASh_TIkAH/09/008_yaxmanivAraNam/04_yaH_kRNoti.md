@@ -21,7 +21,6 @@ combination. The Anukr. takes no notice of the defective pāda.
 The malady that makes one deaf, the malady that makes one blind, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। कृणोति। प्रऽमोतम्। अन्धम्। कृणोति। पुरुषम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.४।

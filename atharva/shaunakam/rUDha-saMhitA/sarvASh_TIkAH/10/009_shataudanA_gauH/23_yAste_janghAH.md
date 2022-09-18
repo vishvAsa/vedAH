@@ -28,7 +28,6 @@ good right to assume also at iii. 12. 4, in case of the much-discussed
 Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour for the giver mingled curd, and flowing butter milk, and mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ते। जङ्घाः। याः। कुष्ठिकाः। ऋच्छराः। ये। च। ते। शफा। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधुः। ९.२३।

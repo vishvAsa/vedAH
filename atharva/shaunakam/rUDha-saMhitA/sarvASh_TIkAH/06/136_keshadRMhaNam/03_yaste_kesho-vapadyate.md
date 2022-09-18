@@ -19,10 +19,9 @@ form *vṛścáte* (for *vṛścyáte*).
 Thy hair where it is falling off, and with the roots is torn away, I wet and sprinkle with the Plant, the remedy for all disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। केश:। अवऽपद्यते। सऽमूल:। य:। च। वृश्चते। इदम्। तम्। विश्वऽभेषज्या। अभि। सिञ्चामि। वीरुधा। १३६.३।
+यः। ते। केशः। अवऽपद्यते। सऽमूलः। यः। च। वृश्चते। इदम्। तम्। विश्वऽभेषज्या। अभि। सिञ्चामि। वीरुधा। १३६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

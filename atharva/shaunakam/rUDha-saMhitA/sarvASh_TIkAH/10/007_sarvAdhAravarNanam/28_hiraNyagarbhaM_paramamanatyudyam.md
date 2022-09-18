@@ -19,7 +19,6 @@ Ppp. puts this verse after our 30.
 Men know Hiranyagarbha as supreme and inexpressible: In the beginning, in the midst of the world, Skambha poured that gold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हिरण्यऽगर्भम्। परमम्। अनतिऽउद्यम्। जनाः। विदुः। स्कम्भः। तत्। अग्रे। प्र। असिञ्चत्। हिरण्यम्। लोके। अन्तरा। ७.२८।

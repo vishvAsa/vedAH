@@ -22,10 +22,9 @@ intrusion, if it be one, far back.
 Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. Burnt by thy heat and making declaration let all approach this sacrifice before thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पश्याम। ते। वीर्यम्। जातवेद:। प्र। न:। ब्रूहि। यातुधानान्। नृचक्ष:। त्वया। सर्वे। परितप्ता:। पुरस्तात्। ते। आ। यन्तु। प्रब्रुवाणा:। उप। इदम्।
+पश्याम। ते। वीर्यम्। जातवेदः। प्र। नः। ब्रूहि। यातुधानान्। नृचक्षः। त्वया। सर्वे। परितप्ताः। पुरस्तात्। ते। आ। यन्तु। प्रब्रुवाणाः। उप। इदम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

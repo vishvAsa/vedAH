@@ -24,10 +24,9 @@ paraphrases *cakṣus* by *cakṣurindriyavat priyaḥ*, and *iyakṣamāṇās*
 First among all the deities, come forward, thou who art eye of Gods and men, O Agni. Imploring, and accordant with the Bhrigus, to heaven in safety go the sacrificers!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। प्र। इहि। प्रथम:। देवतानाम्। चक्षु:। देवानाम्। उत। मानुषाणाम्। इयक्षमाणा:। भृगुऽभि:। सऽजोषा:। स्व:। यन्तु। यजमाना: स्वस्ति। १४.५।
+अग्ने। प्र। इहि। प्रथमः। देवतानाम्। चक्षुः। देवानाम्। उत। मानुषाणाम्। इयक्षमाणाः। भृगुऽभिः। सऽजोषाः। स्वः। यन्तु। यजमानाः स्वस्ति। १४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Some of our mss. (O.D.T.R.) accent *-dīyámānā*, although part of them
 The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the kinsmen of the Brahman's oppressor.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽवाहान्। ज्ञातीन्। सर्वान्। अपि। क्षापयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। क्षत्रियेण। अपुनःऽदीयमाना। ९.६।

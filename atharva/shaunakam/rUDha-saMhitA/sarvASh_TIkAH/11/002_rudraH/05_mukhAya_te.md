@@ -19,7 +19,6 @@ Or 'to thy mouth,' instead of 'face.' The comm. paraphrases
 Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and hue, and aspect, and to thee when looked at from behind!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मुखाय। ते। पशुऽपते। यानि। चक्षूंषि। ते। भव। त्वचे। रूपाय। सम्ऽदृशे। प्रतीचीनाय। ते। नमः। २.५।

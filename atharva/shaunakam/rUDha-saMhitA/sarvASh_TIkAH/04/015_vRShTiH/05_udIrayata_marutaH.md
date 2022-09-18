@@ -31,10 +31,9 @@ the rest of the verse being wholly different. A couple of our mss.
 Up from the sea lift your dread might, ye Maruts: as light and splendour, send the vapour upward! Let waters satisfy the earth, the voices of the great mist-enve- loped Bull who roareth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। ईरयत। मरुत:। समुद्रत:। त्वेष:। अर्क:। नभ:। उत्। पातयाथ। महाऽऋषभस्य। नदत:। नभस्वत:। वाश्रा:। आप:। पृथिवीम्। तर्पयन्तु। १५.५।
+उत्। ईरयत। मरुतः। समुद्रतः। त्वेषः। अर्कः। नभः। उत्। पातयाथ। महाऽऋषभस्य। नदतः। नभस्वतः। वाश्राः। आपः। पृथिवीम्। तर्पयन्तु। १५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

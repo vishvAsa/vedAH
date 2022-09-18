@@ -27,10 +27,9 @@ both requiring 34 syllables (which implies restoration of *‘nnam* to
 He who hath this knowledge should not eat hating, should not eat the food of one who hates him, nor of one who is doubt- ful, nor of one who is undecided.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। य:। एवम्। विद्वान्। न। द्विषन्। अश्नीयात्। न। द्विषत:। अन्नम्। अश्नीयात्। न। मीमांसितस्य। न। मीमांसमानस्य। ७.७।
+सः। यः। एवम्। विद्वान्। न। द्विषन्। अश्नीयात्। न। द्विषतः। अन्नम्। अश्नीयात्। न। मीमांसितस्य। न। मीमांसमानस्य। ७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

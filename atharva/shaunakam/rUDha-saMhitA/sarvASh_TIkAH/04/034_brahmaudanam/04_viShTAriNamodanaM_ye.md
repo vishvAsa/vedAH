@@ -20,10 +20,9 @@ Anukr. seems confused here; but vs. 4 appears to be intended.⌋
 Yama robs not of generative vigour the men who dress oblation called Vishtari. Borne on his car, a charioteer, he travels: endowed with wings he soars beyond the heavens.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। यम:। परि। मुष्णाति। रेत:। रथी। ह। भूत्वा। रथऽयाने। ईयते। पक्षी। ह। भूत्वा। अति। दिव:। सम्। एति। ३४.४।
+विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। यमः। परि। मुष्णाति। रेतः। रथी। ह। भूत्वा। रथऽयाने। ईयते। पक्षी। ह। भूत्वा। अति। दिवः। सम्। एति। ३४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

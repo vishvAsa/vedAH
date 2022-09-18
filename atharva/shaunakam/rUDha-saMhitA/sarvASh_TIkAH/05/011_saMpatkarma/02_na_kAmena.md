@@ -28,10 +28,9 @@ Varuṇa. Ppp. reads in **b** *saṁpṛcchi* and *upājet*.
 Not through desire do I revoke my present: I bring this brind- led cow to contemplate her. Now by what lore, by what inherent nature, knowest thou all things that exist, Atharvan?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। कामेन। पुन:ऽमघ:। भवामि। सम्। चक्षे। कम्। पृश्निम्। एताम्। उप। अजे। केन। नु। त्वम्। अथर्वन्। काव्येन। केन। जातेन। असि। जातऽवेदा:। ११.२।
+न। कामेन। पुनःऽमघः। भवामि। सम्। चक्षे। कम्। पृश्निम्। एताम्। उप। अजे। केन। नु। त्वम्। अथर्वन्। काव्येन। केन। जातेन। असि। जातऽवेदाः। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

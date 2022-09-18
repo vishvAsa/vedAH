@@ -29,7 +29,6 @@ verse ⌊in the preparation of the *vedi*⌋.
 Not over awded by the crowd of Manu's sons, she who hath many heights and floods and level plains; She who bears plants endowed with many varied powers, may Prithivi for us spread wide and favour us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 असम्ऽबाधम्। मध्यतः। मानवानाम्। यस्याः। उत्ऽवतः। प्रऽवतः। समम्। बहु। नानाऽवीर्याः। ओषधीः। या। बिभर्ति। पृथिवी। नः। प्रथताम्। राध्यताम्। नः। १.२।

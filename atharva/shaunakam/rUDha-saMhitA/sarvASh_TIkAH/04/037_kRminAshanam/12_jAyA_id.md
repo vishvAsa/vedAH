@@ -23,10 +23,9 @@ admits this by emendation into his *pada*-text. Ppp. has for **c**
 Your wives are the Apsarases, and ye, Gandharvas, are their lords. Run ye, immortal ones, away: forbear to interfere with men!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जाया:। इत्। व:। अप्सरस:। गन्धर्वा:। पतय:। यूयम्। अप। धावत। अमर्त्या:। मर्त्यान्। मा। सचध्वम्। ३७.१२।
+जायाः। इत्। वः। अप्सरसः। गन्धर्वाः। पतयः। यूयम्। अप। धावत। अमर्त्याः। मर्त्यान्। मा। सचध्वम्। ३७.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

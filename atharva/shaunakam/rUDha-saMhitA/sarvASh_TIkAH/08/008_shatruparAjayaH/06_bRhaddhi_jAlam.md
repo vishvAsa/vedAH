@@ -25,10 +25,9 @@ holds *mucyā́tāi* to be a gloss.⌋
 Verily mighty is the net of mighty Sakra rich in wealth: Therewith press all the foemen down so that not one of them escape!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहत्। हि। जालम्। बृहत:। शक्रस्य। वाजिनीऽवत:। तेन। शत्रून्। अभि। सर्वान्। नि। उब्ज। यथा। न। मुच्यातै। कतम:। चन। एषाम्। ८.६।
+बृहत्। हि। जालम्। बृहतः। शक्रस्य। वाजिनीऽवतः। तेन। शत्रून्। अभि। सर्वान्। नि। उब्ज। यथा। न। मुच्यातै। कतमः। चन। एषाम्। ८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

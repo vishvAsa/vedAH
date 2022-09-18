@@ -18,10 +18,9 @@ season "gathering" by name, namely the goat etc. etc.
 The man who knows the season called the Meeting takes to him- self the gathering fame, his hated rival's gathering fame. The Goat Panchaudana is this Meeting season.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। सम्ऽयन्तम्। नाम। ऋतुम्। वेद। संयतीम्ऽसंयतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एष:। वै। सम्ऽयन्। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। ५.३३।
+यः। वै। सम्ऽयन्तम्। नाम। ऋतुम्। वेद। संयतीम्ऽसंयतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। सम्ऽयन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

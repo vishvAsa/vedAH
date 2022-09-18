@@ -21,10 +21,9 @@ to imply 11 + 10: 8 + 7 + 9 = 45 syllables, or a *bhurik triṣṭubh*.
 The five gold pieces, area light to light him, robes become armour to defend his body; He winneth Svarga as his home who giveth the Goat Panchaud- ana illumed with bountry.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्च। रुक्मा। ज्योति:। अस्मै। भवन्ति। वर्म। वासांसि। तन्वे। भवन्ति। स्व:ऽगम्। लोकम्। अश्नुते। य:। अजम्। पञ्चओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२६।
+पञ्च। रुक्मा। ज्योतिः। अस्मै। भवन्ति। वर्म। वासांसि। तन्वे। भवन्ति। स्वःऽगम्। लोकम्। अश्नुते। यः। अजम्। पञ्चओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

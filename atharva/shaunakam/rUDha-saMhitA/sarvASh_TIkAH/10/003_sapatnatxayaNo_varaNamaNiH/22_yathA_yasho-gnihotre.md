@@ -19,7 +19,6 @@ accordingly the better-supported reading.
 As glory dwells in sacrifice to Agni, and the hallowing word, So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। अग्निऽहोत्रे। वषट्ऽकारे। यथा। यशः। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२२।

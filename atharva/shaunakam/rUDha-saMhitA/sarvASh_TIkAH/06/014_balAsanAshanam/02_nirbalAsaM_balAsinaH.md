@@ -26,10 +26,9 @@ and 838.⌋
 From the consumptive man I pluck Decline as 'twere a severed part. I cut the bond that fetters him, even as a root of cucumber.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:। बलासम्। बलासिन:। क्षिणोमि। मुष्करम्। यथा। छिनद्मि। अस्य। बन्धनम्। मूलम्। उर्वार्वा:ऽइव। १४.२।
+निः। बलासम्। बलासिनः। क्षिणोमि। मुष्करम्। यथा। छिनद्मि। अस्य। बन्धनम्। मूलम्। उर्वार्वाःऽइव। १४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

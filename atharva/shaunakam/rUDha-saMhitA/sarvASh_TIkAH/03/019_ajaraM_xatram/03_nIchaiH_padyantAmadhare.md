@@ -24,10 +24,9 @@ prastārapan̄kti*, since it properly scans as 11 + 11: 8 + 8 = 38.
 Down fall the men, low let them lie, who fight against our mighty prince, I ruin foemen with my spell, and raise my friends to high estate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नीचै:। पद्यन्ताम्। अधरे। भवन्तु। ये। न:। सूरिम्। मघऽवानम्। पृतन्यान्। क्षिणामि। ब्रह्मणा। अमित्रान्। उत्। नयामि। स्वान्। अहम्। १९.३।
+नीचैः। पद्यन्ताम्। अधरे। भवन्तु। ये। नः। सूरिम्। मघऽवानम्। पृतन्यान्। क्षिणामि। ब्रह्मणा। अमित्रान्। उत्। नयामि। स्वान्। अहम्। १९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

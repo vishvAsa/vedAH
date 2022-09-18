@@ -29,10 +29,9 @@ explains *acarkṛṣus* by *kṛtavantas*, as if it came from root *kṛ!*
 Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was blent with mead. Lord of the plough was Indra, strong with hundred powers: the ploughers were the Maruts they who give rich gifts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवा:। इमम्। मधुना। सऽयुतम्। यवम्। सरस्वत्याम्। अधि। मणौ। अचर्कृषु:। इन्द्र:। आसीत्। सीरऽपति:। शऽक्रतु:। कीनाशा:। आसन्। मरुत:। सुऽदानव:। ३०.१।
+देवाः। इमम्। मधुना। सऽयुतम्। यवम्। सरस्वत्याम्। अधि। मणौ। अचर्कृषुः। इन्द्रः। आसीत्। सीरऽपतिः। शऽक्रतुः। कीनाशाः। आसन्। मरुतः। सुऽदानवः। ३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

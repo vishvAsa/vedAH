@@ -7,7 +7,6 @@ title = "०३५ विश्वकर्मा"
 35. To expiate errors in the sacrifice: to Viśvakarman.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विश्वकर्मा।  
@@ -18,8 +17,6 @@ title = "०३५ विश्वकर्मा"
 
 [An̄giras.-—vāiśvakarmaṇam. trāiṣṭubham: 1. bṛhatīgarbhā; 4, 5. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 211; Ludwig, p. 302 (vss. 1-4); Griffith, i. 76.
 
 Expiation for an imperfectly performed sacrifice
 </details>
+

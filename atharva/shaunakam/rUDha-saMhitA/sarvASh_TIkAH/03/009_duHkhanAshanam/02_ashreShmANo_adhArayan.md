@@ -25,10 +25,9 @@ way.
 The bands hold fast without a knot: this is the way that Manu- used. I make Vishkandha impotent as one emasculateth bulls.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्रेष्माण:। अधारयन्। तथा। तत्। मनुना। कृतम्। कृणोमि। वध्रि। विऽस्कन्धम्। मुष्कऽआबर्ह:। गवाम्ऽइव। ९.२।
+अश्रेष्माणः। अधारयन्। तथा। तत्। मनुना। कृतम्। कृणोमि। वध्रि। विऽस्कन्धम्। मुष्कऽआबर्हः। गवाम्ऽइव। ९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

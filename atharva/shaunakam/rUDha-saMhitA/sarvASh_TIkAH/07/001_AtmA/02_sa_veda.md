@@ -28,10 +28,9 @@ syllables of being a full *jagatī*.
 Well knows this son his sire, he knows his mother well: he hath been son, and he hath been illiberal. He hath encompassed heaven, and air's mid-realm, and sky; he hath become this All; he hath come nigh to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। वेद। पुत्र:। पितरम्। स:। मातरम्। स:। सूनु:। भुवत्। स:। भुवत्। पुन:ऽमघ:। स:। द्याम्। और्णोत्। अन्तरिक्षम्। स्व:। स:। इदम्। विश्वम्। अभवत्। स:। आ। अभवत्। १.२।
+सः। वेद। पुत्रः। पितरम्। सः। मातरम्। सः। सूनुः। भुवत्। सः। भुवत्। पुनःऽमघः। सः। द्याम्। और्णोत्। अन्तरिक्षम्। स्वः। सः। इदम्। विश्वम्। अभवत्। सः। आ। अभवत्। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

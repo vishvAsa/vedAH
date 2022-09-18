@@ -20,7 +20,6 @@ Or (**b**) 'went heating across the sky' (so Henry). Ppp. reads in **a**
 He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his beams of light travelled along the earth and sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। लोकः। अभवत्। रोहितः। अति। अतपत्। दिवम्। रोहितः। रश्मिऽभिः। भूमिम्। समुद्रम्। अनु। सम्। चरत्। २.४०।

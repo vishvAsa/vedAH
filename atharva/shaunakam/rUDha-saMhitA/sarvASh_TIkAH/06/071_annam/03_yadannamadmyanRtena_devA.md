@@ -25,10 +25,9 @@ substitutes for 3 **c, d** our 53. 2 **c, d**, *vāiśvānaro no ad-*, etc.
 What food I eat unjustly, Gods! or, doubtful between bestow- ing and refusing, swallow, Through greatness of Vaisvanara the mighty may that same food be sweet to me and blessed!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अन्नम्। अद्मि। अनृतेन। देवा:। दास्यन्। अदास्यन्। उत। सम्ऽगृणामि। वैश्वानरस्य। महत:। महिम्ना। शिवम्। मह्यम्। मधुऽमत्। अस्तु। अन्नम्। ७१.३।
+यत्। अन्नम्। अद्मि। अनृतेन। देवाः। दास्यन्। अदास्यन्। उत। सम्ऽगृणामि। वैश्वानरस्य। महतः। महिम्ना। शिवम्। मह्यम्। मधुऽमत्। अस्तु। अन्नम्। ७१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,10 +28,9 @@ treatment of the compound.
 We dig thee from the earth, the Plant which strengthens and exalts the nerves, The Plant which the Gandharva dug for Varuna whose power was lost.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। त्वा। गन्धर्व:। अखनत्। वरुणाय। मृतऽभ्रजे। ताम्। त्वा। वयम्। खनामसि। ओषधिम्। शेप:ऽहर्षणीम्। ४.१।
+याम्। त्वा। गन्धर्वः। अखनत्। वरुणाय। मृतऽभ्रजे। ताम्। त्वा। वयम्। खनामसि। ओषधिम्। शेपःऽहर्षणीम्। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

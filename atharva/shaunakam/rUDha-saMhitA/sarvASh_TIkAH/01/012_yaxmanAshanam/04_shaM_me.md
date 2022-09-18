@@ -25,10 +25,9 @@ u te tanúve bhuvat.*
 Well be it with my upper frame, well be it with my lower parts. With my four limbs let it be well. Let all my body be in health.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। मे। परस्मै। गात्राय। शम्। अस्तु। अवराय। मे। शम्। मे। चतु:ऽभ्य:। अङ्गेभ्य:। शम्। अस्तु। तन्वे। मम।
+शम्। मे। परस्मै। गात्राय। शम्। अस्तु। अवराय। मे। शम्। मे। चतुःऽभ्यः। अङ्गेभ्यः। शम्। अस्तु। तन्वे। मम।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

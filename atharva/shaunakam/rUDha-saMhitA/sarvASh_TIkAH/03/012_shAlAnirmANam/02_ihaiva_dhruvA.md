@@ -27,7 +27,6 @@ priyasatvavāgbhir bālādīnāṁ vāṇībhir yuktā.* Pādas **b** and **c** 
 Even here, O House, stand thou on firm foundation, wealthy in horses, rich in kine and gladness. Wealthy in nourishment. in milk and fatness, rise up for great felicity and fortune.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। एव। ध्रुवा। प्रति। तिष्ठ। शाले। अश्वऽवती। गोऽमती। सूनृताऽवती। ऊर्जस्वती। घृतऽवती। पयस्वती। उत्। श्रयस्व। महते। सौभगाय। १२.२।

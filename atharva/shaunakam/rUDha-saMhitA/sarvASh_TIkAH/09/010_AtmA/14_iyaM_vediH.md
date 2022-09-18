@@ -24,7 +24,6 @@ ré. brahmāí ’vá vācáḥ* etc. The Anukr. absurdly calls the verse a
 The earth's most distant limit is this altar: this Soma is the Stallion's genial humour; This sacrifice the universe's centre: this Brahman highest heaven where Speech abideth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। वेदिः। परः। अन्तः। पृथिव्याः। अयम्। सोमः। वृष्णः। अश्वस्य। रेतः। अयम्। यज्ञः। विश्वस्य। भुवनस्य। नाभिः। ब्रह्मा। अयम्। वाचः। परमम्। विऽओम। १५.१४।

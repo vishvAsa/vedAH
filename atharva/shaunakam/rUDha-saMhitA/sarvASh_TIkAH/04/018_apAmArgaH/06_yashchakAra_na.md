@@ -34,10 +34,9 @@ failed of thorough revision at W's hands.⌋
 No power had he who wrought the spell: he hurt his foot, he broke his toe. His act hath brought us happiness and pain and sorrow to him- self.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिम्। चकार। भद्रम्। अस्मभ्यम्। आत्मने। तपनम्। तु। स:। १८.६।
+यः। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिम्। चकार। भद्रम्। अस्मभ्यम्। आत्मने। तपनम्। तु। सः। १८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

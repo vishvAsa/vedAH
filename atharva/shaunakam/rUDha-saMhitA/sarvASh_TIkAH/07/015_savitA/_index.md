@@ -7,7 +7,6 @@ title = "०१५ सविता"
 15 (16). Prayer to Savitar.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सविता  
@@ -18,8 +17,6 @@ title = "०१५ सविता"
 
 [Bhṛgu.—sāvitram. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 6, 58; Griffith, i. 335.
 
 A charm to win divine favour and felicity
 </details>
+

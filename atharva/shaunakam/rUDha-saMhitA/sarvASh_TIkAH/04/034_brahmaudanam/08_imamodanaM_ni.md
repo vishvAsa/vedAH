@@ -29,10 +29,9 @@ The verse is irregular in meter: 12 + 11: 12 + 13 = 48.
 I part this Odana among the Brahmans, Vishtari, conquering worlds and reaching heaven. Let me not lose it: swelling by its nature, be it my perfect Cow to grant all wishes!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। ओदनम्। नि। दधे। ब्राह्मणेषु। विष्टारिणम्। लोकऽजितम्। स्व:ऽगम्। स:। मे। मा। क्षेष्ट। स्वधया। पिन्वमान:। विश्वऽरूपा। धेनु:। कामऽदुघा। मे। अस्तु। ३४.८।
+इमम्। ओदनम्। नि। दधे। ब्राह्मणेषु। विष्टारिणम्। लोकऽजितम्। स्वःऽगम्। सः। मे। मा। क्षेष्ट। स्वधया। पिन्वमानः। विश्वऽरूपा। धेनुः। कामऽदुघा। मे। अस्तु। ३४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

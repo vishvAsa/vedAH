@@ -28,10 +28,9 @@ RV. iii. 36. 8 **a**.⌋
 Belly of Indra art thou, Soma-holder! the very soul of Gods and human beings. Here be the sire of offspring, thine here present! Here be they glad in thee who now are elsewhere.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। कुक्षि:। असि। सोमऽधान:। आत्मा। देवानाम्। उत। मानुषाणाम्। इह। प्रऽजा:। जनय। या:। ते। आसु। या:। अन्यत्र। इह। ता:। ते। रमन्ताम्। ११६.१।
+इन्द्रस्य। कुक्षिः। असि। सोमऽधानः। आत्मा। देवानाम्। उत। मानुषाणाम्। इह। प्रऽजाः। जनय। याः। ते। आसु। याः। अन्यत्र। इह। ताः। ते। रमन्ताम्। ११६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

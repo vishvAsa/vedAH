@@ -20,10 +20,9 @@ morsure.'⌋
 Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine that heals the wound and kills the gnat that bites and stings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुऽश्चुत्। मधुला। मधू:। सा। विऽह्रुतस्य। भेषजी। अथो इति। मशकऽजम्भनी। ५८.२।
+इयम्। वीरुत्। मधुऽजाता। मधुऽश्चुत्। मधुला। मधूः। सा। विऽह्रुतस्य। भेषजी। अथो इति। मशकऽजम्भनी। ५८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

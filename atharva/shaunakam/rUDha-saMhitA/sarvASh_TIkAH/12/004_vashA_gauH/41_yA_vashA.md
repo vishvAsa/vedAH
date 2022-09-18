@@ -24,7 +24,6 @@ to signify 'smeared over') is altogether obscure. Ppp. reads instead
 Narada chose the terrible Vilipti out of all the cows Which the Gods formed and framed when they had risen up from sacri- fice
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। वशाः। उत्ऽअकल्पयन्। देवाः। यज्ञात्। उत्ऽएत्य। तासाम्। विऽलिप्त्यम्। भीमाम्। उत्ऽआकुरुत। नारदः। ४.४१।

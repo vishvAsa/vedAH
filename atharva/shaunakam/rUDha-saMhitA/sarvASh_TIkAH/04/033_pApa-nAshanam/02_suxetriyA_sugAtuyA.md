@@ -17,10 +17,9 @@ sacrifice—gleaming away our evil—
 For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lustre flash our pain away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽक्षेत्रिया। सुऽगातुया। वसुऽया। च। यजामहे। अप। न:। शोशुचत्। अघम्। ३३.२।
+सुऽक्षेत्रिया। सुऽगातुया। वसुऽया। च। यजामहे। अप। नः। शोशुचत्। अघम्। ३३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

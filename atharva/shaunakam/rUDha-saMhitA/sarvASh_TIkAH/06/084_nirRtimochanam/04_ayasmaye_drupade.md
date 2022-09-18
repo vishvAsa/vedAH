@@ -19,10 +19,9 @@ This verse is a repetition of 63.3, above.
 Thou hast been fastened to an iron pillar, here compassed with a thousand deaths around thee. In full accord with Yama and the Fathers, send this man up- ward to the loftiest heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयस्मये। द्रुऽपदे। बेधिषे। इह। अभिऽहित:। मृत्युऽभि:। ये। सहस्रम्। यमेन। त्वम्। पितृऽभि:। सम्ऽविदान:। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। ८४.४।
+अयस्मये। द्रुऽपदे। बेधिषे। इह। अभिऽहितः। मृत्युऽभिः। ये। सहस्रम्। यमेन। त्वम्। पितृऽभिः। सम्ऽविदानः। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। ८४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

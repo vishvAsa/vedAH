@@ -19,10 +19,9 @@ dviṣato mama*.
 This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bind our enemies, O Agni, who are standing here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। आऽदानम्। अकरम्। तपसा। इन्द्रेण। सम्ऽशितम्। अमित्रा:। ये। अत्र। न:। सन्ति। तान्। अग्ने। आ। द्य। त्वम्। १०४.२।
+इदम्। आऽदानम्। अकरम्। तपसा। इन्द्रेण। सम्ऽशितम्। अमित्राः। ये। अत्र। नः। सन्ति। तान्। अग्ने। आ। द्य। त्वम्। १०४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

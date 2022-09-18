@@ -19,10 +19,9 @@ fifteen syllables called for by the Anukr. Ppp. has *yūpodako ‘si sṛjā
 यद्ये॑काद॒शोऽसि॒ सोऽपो॑दको ऽसि ॥११॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। एकादश:। असि। स:। अपऽउदक:। असि। १६.११।
+यदि। एकादशः। असि। सः। अपऽउदकः। असि। १६.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ noted above, is wanting in Ppp.
 My body that I hold most dear trembles in terror at this robe. Tree, make an apron at the top. Let no misfortune fall on us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। मे। प्रियऽतमा। तनूः। सा। मे। बिभाय। वाससः। तस्य। अग्ने। त्वम्। वनस्पते। नीविम्। कृणुष्व। मा। वयम्। रिषाम। २.५०।

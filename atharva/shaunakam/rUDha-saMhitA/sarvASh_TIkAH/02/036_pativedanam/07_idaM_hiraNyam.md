@@ -33,10 +33,9 @@ bdellium, and *āukṣa* respectively. ⌊BR., iv. 947, suggests
 Here is the Bdellium and the gold, the Auksha and the bliss are here: These bring thee to the husbands, so to find the man whom thou. wouldst have.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। हिरण्यम्। गुल्गुलु। अयम्। औक्ष:। अथो इति। भग:। एते। पतिभ्य:। त्वाम्। अदु:। प्रतिऽकामाय। वेत्तवे। ३६.७।
+इदम्। हिरण्यम्। गुल्गुलु। अयम्। औक्षः। अथो इति। भगः। एते। पतिभ्यः। त्वाम्। अदुः। प्रतिऽकामाय। वेत्तवे। ३६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

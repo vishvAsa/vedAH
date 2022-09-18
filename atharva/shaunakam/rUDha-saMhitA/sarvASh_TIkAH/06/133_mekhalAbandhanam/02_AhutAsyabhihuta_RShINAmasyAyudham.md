@@ -23,7 +23,6 @@ etc' (*kṣīrādikam*); to *abhihutā* in **a** it prefixes an explanatory
 Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting of the votive milk, Zone, be a hero-slayer thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽहुता। असि। अभिऽहुता। ऋषीणाम्। असि। आयुधम्। पूर्वा। व्रतस्य। प्रऽअश्नती। वीरऽघ्नी। भव। मेखले। १३३.२।

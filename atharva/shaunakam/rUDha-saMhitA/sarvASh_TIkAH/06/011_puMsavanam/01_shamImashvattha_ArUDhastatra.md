@@ -27,10 +27,9 @@ that they put this into women.'
 Asvattha on the Sami-tree. There a male birth is certified. There is the finding of a son: this bring we to the women-folk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शमीम्। अश्वत्थ:। आऽरूढ:। तत्र। पुम्ऽसुवनम्। कृतम्। तत्। वै। पुत्रस्य। वेदनम्। तत्। स्त्रीषु। आ। भरामसि। ११.१।
+शमीम्। अश्वत्थः। आऽरूढः। तत्र। पुम्ऽसुवनम्। कृतम्। तत्। वै। पुत्रस्य। वेदनम्। तत्। स्त्रीषु। आ। भरामसि। ११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

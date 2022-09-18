@@ -20,7 +20,6 @@ combination *te astu*.
 नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥४८॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। अस्तु। पश्यत। पश्य। मा। पश्यत। ८.३।

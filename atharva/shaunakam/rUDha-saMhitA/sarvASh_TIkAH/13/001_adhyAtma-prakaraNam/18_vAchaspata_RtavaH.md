@@ -24,7 +24,6 @@ Anukr. seems to scan as 11 + 12: 10 + 14 + 6 = 53.⌋ Ppp. omits *ye nāu*
 And those, Vachaspati, our own five seasons, sacred to Visva- karman their creator. Even here our friend be Prana: Parameshthin, may Rohita vouchsafe the life and splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पते। ऋतवः। पञ्च। ये। नौ। वैश्वऽकर्मणा। परि। ये। सम्ऽबभूवुः। परि। रोहितः। आयुषा। वर्चसा। दधातु। १.१८।

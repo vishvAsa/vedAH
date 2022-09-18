@@ -21,7 +21,6 @@ two. Ppp. reads *tathā* instead of *atha* in **c**.
 The Sun and Wind formed, separate, the eye and vital breath of man. His other person have the Gods bestowed on Agni as a gift.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यः। चक्षुः। वातः। प्राणम्। पुरुषस्य। वि। भेजिरे। अथ। अस्य। इतरम्। आत्मानम्। देवाः। प्र। अयच्छन्। अग्नये। १०.३१।

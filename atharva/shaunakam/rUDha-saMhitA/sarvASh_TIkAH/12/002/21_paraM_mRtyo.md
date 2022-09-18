@@ -25,7 +25,6 @@ ii. 18. 2 m.⌋ The verse is used several times in Kāuś.: at 71. 11, 21;
 Go onward, Death, pursue thy special pathway apart from that which Gods are wont to travel. To thee I say it who hast eyes and hearest: great grow the number of these men around us!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परम्। मृत्यो इति। अनु। परा। इहि। पन्थाम्। यः। ते। एषः। इतरः। देवऽयानात्। चक्षुष्मते। शृण्वते। ते। ब्रवीमि। इह। इमे। वीराः। बहवः। भवन्तु। २.२१।

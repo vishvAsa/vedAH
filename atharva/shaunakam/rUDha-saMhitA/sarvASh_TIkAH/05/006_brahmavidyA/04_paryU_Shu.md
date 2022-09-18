@@ -34,10 +34,9 @@ the *pada*-mss. put the pāda division strangely after *trayodaśás*.
 Speed forward, conquering all foes, to win the spoil, Thou comest on thy haters with a surging sea. Thy name is Fragile. The thirteenth month is Indra's home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। ऊं इति। सु। प्र। धन्व। वाजऽसातये। परि। वृत्राणि। सक्षणि:। द्विष:। तत्। अधि। अर्णवेन। ईयसे। सनिस्रस:। नाम। असि। त्रय:ऽदश:। मास:। इन्द्रस्य। गृह:। ६.४।
+परि। ऊं इति। सु। प्र। धन्व। वाजऽसातये। परि। वृत्राणि। सक्षणिः। द्विषः। तत्। अधि। अर्णवेन। ईयसे। सनिस्रसः। नाम। असि। त्रयःऽदशः। मासः। इन्द्रस्य। गृहः। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

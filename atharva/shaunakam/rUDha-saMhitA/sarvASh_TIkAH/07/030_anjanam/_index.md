@@ -7,7 +7,6 @@ title = "०३० अञ्जनम्"
 30 (31). For successful anointing.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अञ्जनम्।  
@@ -18,8 +17,6 @@ title = "०३० अञ्जनम्"
 
 [Bhṛgvan̈giras.—dyāvāpṛthivīyam uta pratipādoktadevatākam. bārkatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 12, 65; Griffith, i. 342.
 
 A charm to be used when the eyes are anointed
 </details>
+

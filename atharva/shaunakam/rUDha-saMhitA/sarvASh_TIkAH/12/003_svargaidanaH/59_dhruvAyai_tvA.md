@@ -19,7 +19,6 @@ Ppp. reads *vīrudbhyas* for *oṣadhībhyas*.
 To the stedfast region, to Vishnu the Regent, to Kalmashagriva the Protector, to Plants the Archers, we present, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ध्रुवायै। त्वा। दिशे। विष्णवे। अधिऽपतये। कल्माषऽग्रीवाय। रक्षित्रे। ओषधीभ्यः। इषुऽमतीभ्यः। एतम्। परि। दद्मः। तम्। नः। गोपायत। आ। अस्माकम्। आऽएतोः। दिष्टम्। नः। अत्र। जरसे। नि। नेषत्। जरा। मृत्यवे। परि। नः। ददातु। अथ। पक्वेन। सह। सम्। भवेम। ३.५९।

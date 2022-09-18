@@ -20,7 +20,6 @@ Ppp. combines at the end *kutā ”bharat*. The comm. appears again to read
 Whence, from what region did he bring the hair, the sinews, and the bones, Marrow and limbs, and joints, and flesh? Who was the bringer, and from whence?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कुतः। केशान्। कुतः। स्नावः। कुतः। अस्थीनि। आ। अभरत्। अङ्गा। पर्वाणि। मज्जानम्। कः। मांसम्। कुतः। आ। अभरत्। १०.१२।

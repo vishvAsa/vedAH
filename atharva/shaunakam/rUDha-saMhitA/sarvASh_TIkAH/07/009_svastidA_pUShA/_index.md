@@ -7,7 +7,6 @@ title = "००९ स्वस्तिदा पूषा"
 9 (10). Praise and prayer to Pūshan.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्तिदा पूषा।  
@@ -18,8 +17,6 @@ title = "००९ स्वस्तिदा पूषा"
 
 [Uparibabhrava.—caturṛcam. pāuṣṇam. trāiṣṭubham: 3. 3-p. ārṣī gāyatrī; 4. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 4, 52; Griffith, i. 332; Bloomfield, 159, 542.
 
 A prayer to Pushan for protection and the recovery of lost property
 </details>
+

@@ -21,10 +21,9 @@ Lanman, *Noun-Inflection,* p. 560.⌋ The comm. further has *yacchāta* in
 Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give us protection reaching far.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यूयम्। न:। प्रऽवत:। नपात्। मरुत:। सूर्यऽत्वचस:। शर्म। यच्छाथ। सऽमथा:।
+यूयम्। नः। प्रऽवतः। नपात्। मरुतः। सूर्यऽत्वचसः। शर्म। यच्छाथ। सऽमथाः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

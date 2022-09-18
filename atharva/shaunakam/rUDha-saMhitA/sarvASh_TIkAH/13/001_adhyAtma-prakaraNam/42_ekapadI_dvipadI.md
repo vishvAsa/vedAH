@@ -21,7 +21,6 @@ very little in place in our hymn. ⌊With **d** cf. 3. 2 **b**, below.⌋
 She hath become one-footed or two-footed, four-footed, or eight-footed or nine-footed, This universe's thousand-syllabled Pankti Oceans flow forth from her in all directions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकऽपदी। द्विऽपदी। सा। चतुःऽपदी। अष्टाऽपदी। नवऽपदी। बभूवुषी। सहस्रऽअक्षरा। भुवनस्य। पङ्क्ति। तस्याः। समुद्राः। अधि। वि। क्षरन्ति। १.४२।

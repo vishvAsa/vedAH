@@ -7,7 +7,6 @@ title = "१०६ दूर्वाशाला"
 106. Against fire in the house.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दूर्वाशाला  
@@ -19,8 +18,6 @@ title = "१०६ दूर्वाशाला"
 [Pramocana.—dūrvāśālādevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (with the verse-order 2, 1, 3). Kāuś. employs the h
 ### Translations
 Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 347, or JAOS. XV. p. xlii (= PAOS., Oct. 1890); Griffith, i. 303; and again, Bloomfield, SBE. xlii. 147, 514.
 </details>
+

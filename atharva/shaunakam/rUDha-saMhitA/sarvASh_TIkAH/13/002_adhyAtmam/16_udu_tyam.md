@@ -28,7 +28,6 @@ consulting MGS. Index, p. 148.⌋
 His heralds bear him up aloft, the God who knoweth all that live, Surya, that all may look on him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। ऊं इति। त्यम्। जातऽवेदसम्। देवम्। वहन्त‍ि। केतवः। दृशे। विश्वाय। सूर्यम्। २.१६।

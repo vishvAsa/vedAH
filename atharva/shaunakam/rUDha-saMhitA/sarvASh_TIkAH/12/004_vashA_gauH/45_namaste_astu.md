@@ -21,7 +21,6 @@ might better read *ádattvā*.
 Homage, O Narada, to thee who hast quick knowledge of the cows. Which of these is the direst, whose withholding bringeth death to man?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। अस्तु। नारद। अनुष्ठु। विदुषे। वशा। कतमा। आसाम्। भीमऽतमा। याम्। अदत्वा। पराऽभवेत्। ४.४५।

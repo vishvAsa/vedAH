@@ -20,7 +20,6 @@ at end of **b**, RV. reads *sādhú*, and TA. *kḷptā́ḥ*.
 As the days follow days in close succession, as with the seasons duly come the seasons. As each successor fails not his foregoer, so constitute the lives of these, Ordainer!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। अहानि। अनुऽपूर्वम्। भवन्ति। यथा। ऋतवः। ऋतुऽभिः। यन्ति। साकम्। यथा। न। पूर्वम्। अपरः। जहाति। एव। धातः। आयूंषि। कल्पय। एषाम्। २.२५।

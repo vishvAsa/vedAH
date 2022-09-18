@@ -19,10 +19,9 @@ Ppp. has *sarvavide* instead of *viśvajite*. The comm. prefixes
 To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रायमाणे। विश्वऽजिते। मा। परि। देहि। विश्वऽजित्। द्विऽपात्। च। सर्वम्। न:। रक्ष। चतु:ऽपात्। यत्। च। न:। स्वम्। १०७.२।
+त्रायमाणे। विश्वऽजिते। मा। परि। देहि। विश्वऽजित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ he paraphrases with *janasamūheṣu*.
 O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to look on. Prosper my home, ye with auspicious voices! Your power is magnified in our assemblies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यूयम्। गाव:। मेदयथ। कृशन्। चित्। अश्रीरम्। चित्। कृणुथ। सुऽप्रतीकम्। भद्रम्। गृहम्। कृणुथ। भद्रऽवाच:। बृहत्। व:। वय:। उच्यते। सभासु। २१.६।
+यूयम्। गावः। मेदयथ। कृशन्। चित्। अश्रीरम्। चित्। कृणुथ। सुऽप्रतीकम्। भद्रम्। गृहम्। कृणुथ। भद्रऽवाचः। बृहत्। वः। वयः। उच्यते। सभासु। २१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

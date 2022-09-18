@@ -25,10 +25,9 @@ get an orderly *purastādbṛhatī*.⌋
 From earth's high ridge to middle air I mounted, and from mid- air ascended up to heaven. From the high pitch of heaven's cope I came into the world of light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृष्ठात्‌। पृथिव्या:। अहम्। अन्तरिक्षम्। आ। अरुहम्। अन्तरिक्षात्। दिवम्। आ। अरुहम्। दिव:। नाकस्य। पृष्ठात्। स्व:। ज्योति:। अगाम्। अहम्। १३.३।
+पृष्ठात्‌। पृथिव्याः। अहम्। अन्तरिक्षम्। आ। अरुहम्। अन्तरिक्षात्। दिवम्। आ। अरुहम्। दिवः। नाकस्य। पृष्ठात्। स्वः। ज्योतिः। अगाम्। अहम्। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

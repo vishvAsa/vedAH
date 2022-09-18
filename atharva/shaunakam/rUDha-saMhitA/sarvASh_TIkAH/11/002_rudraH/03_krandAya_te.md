@@ -26,7 +26,6 @@ explaining it as used for a dative.
 We offer homage to thy shout, Bhava! thy breath, thy racking pains: Homage, Immortal One! to thee, to Rudra of the thousand eyes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रन्दाय। ते। प्राणय। याः। च। ते। भव। रोपयः। नमः। ते। रुद्र। कृण्मः। सहस्रऽअक्षाय। अमर्त्य। २.३।

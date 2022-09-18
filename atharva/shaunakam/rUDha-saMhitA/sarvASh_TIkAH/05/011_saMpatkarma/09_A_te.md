@@ -26,10 +26,9 @@ apparently has *dikṣu* in **b**.
 Let hymns of praise ascend to thee, uplifted in every place of human habitation. But give me now the gift thou hast not given. Thou art my friend for ever firm and faithful.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। ते। स्तोत्राणि। उत्ऽयतानि। यन्तु। अन्त:। विश्वासु। मानुषीषु। दिक्षु। देहि। नु। मे। यत्। मे। अदत्त:। असि। युज्य। मे। सप्तऽपद:। सखा। असि। ११.९।
+आ। ते। स्तोत्राणि। उत्ऽयतानि। यन्तु। अन्तः। विश्वासु। मानुषीषु। दिक्षु। देहि। नु। मे। यत्। मे। अदत्तः। असि। युज्य। मे। सप्तऽपदः। सखा। असि। ११.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

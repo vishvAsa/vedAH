@@ -21,10 +21,9 @@ manyuṁ nayāmasi* ⌊cf. MP. ii. 22. 2⌋ *sakhike ’va sacāvahāi*.
 Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy stone we cast thy wrath away and bury it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सखायौऽइव। सचावहै। अव। मन्युम्। तनोमि। ते। अध:। ते। अश्मन:। मन्युम्। उप। अस्यामसि। य:। गुरु:। ४२.२।
+सखायौऽइव। सचावहै। अव। मन्युम्। तनोमि। ते। अधः। ते। अश्मनः। मन्युम्। उप। अस्यामसि। यः। गुरुः। ४२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

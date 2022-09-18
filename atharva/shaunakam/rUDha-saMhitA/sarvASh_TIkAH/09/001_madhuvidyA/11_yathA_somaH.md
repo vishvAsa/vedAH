@@ -17,10 +17,9 @@ O Aśvins, let splendor be maintained in my self.
 As at the morning sacrifice the Asvins twain love Soma well, Even so may both the Asvins lay splendour and strength within my soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सोम:। प्रात:ऽसवने। अश्विनो:। भवति। प्रिय:। एव। मे। अश्विना। वर्च:। आत्मनि। ध्रियताम्। १.११।
+यथा। सोमः। प्रातःऽसवने। अश्विनोः। भवति। प्रियः। एव। मे। अश्विना। वर्चः। आत्मनि। ध्रियताम्। १.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

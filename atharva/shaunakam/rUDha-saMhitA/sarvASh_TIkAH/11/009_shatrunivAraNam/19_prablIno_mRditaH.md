@@ -19,7 +19,6 @@ form.
 Stifled and crushed, O Nyarbudi, low let the smitten foeman lie. With tongue of fire and crest of smoke go conquering maidens with our host!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रऽब्लीनः। मृदितः। शयाम्। हतः। अमित्रः। निऽअर्बुदे। अग्निऽजिह्वाः। धूमऽशिखाः। जयन्तीः। यन्तु। सेनया। ११.१९।

@@ -20,10 +20,9 @@ The Anukr. appears to allow the contraction *śivā ’sm-* in **d**. ⌊As to
 One and a hundred Fortunes all together are at his birth born with a mortal's body. Of these we send away the most unlucky: keep lucky ones for us, O Jatavedas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एकऽशतम्। लक्ष्म्य:। मर्त्यस्य। साकम्। तन्वा। जनुष:। अधि। जाता:। तासाम्। पापिष्ठा:। नि:। इत:। प्र। हिण्म:। शिवा:। अस्मभ्यम्। जातऽवेद:। नि। यच्छ। १२०.३।
+एकऽशतम्। लक्ष्म्यः। मर्त्यस्य। साकम्। तन्वा। जनुषः। अधि। जाताः। तासाम्। पापिष्ठाः। निः। इतः। प्र। हिण्मः। शिवाः। अस्मभ्यम्। जातऽवेदः। नि। यच्छ। १२०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

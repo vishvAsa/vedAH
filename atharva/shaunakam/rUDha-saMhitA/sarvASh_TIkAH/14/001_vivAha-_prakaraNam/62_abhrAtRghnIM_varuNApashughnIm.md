@@ -24,7 +24,6 @@ in Ppp.
 To us, O Varuna, bring her, kind to brothers; bring her, Brihas- pati, gentle to the cattle. Bring her, O Indra, gentle to her husband: bring her to us, O Savitar, blest with children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभ्रातृऽघ्नीम्। वरुण। अपशुऽघ्नीम्। बृहस्पते। इन्द्र। अपतिऽघ्नीम्। पुत्रिणीम्। आ। अस्मभ्यम्। सवितः। वह। १.६२।

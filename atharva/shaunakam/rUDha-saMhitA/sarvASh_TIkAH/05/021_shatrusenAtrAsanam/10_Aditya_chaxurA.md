@@ -21,10 +21,9 @@ who are to be hampered in going, after losing their power of arm.
 Aditya, take their sight away! Follow them close, ye motes of light. Let them cleave fast to foot-bound hosts when strength of arm hath past away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आदित्य। चक्षु:। आ। दत्स्व। मरीचय:। अनु। धावत। पत्ऽसङ्गिनी:। आ। सजन्तु। विऽगते। बाहुऽवीर्ये। २१.१०।
+आदित्य। चक्षुः। आ। दत्स्व। मरीचयः। अनु। धावत। पत्ऽसङ्गिनीः। आ। सजन्तु। विऽगते। बाहुऽवीर्ये। २१.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

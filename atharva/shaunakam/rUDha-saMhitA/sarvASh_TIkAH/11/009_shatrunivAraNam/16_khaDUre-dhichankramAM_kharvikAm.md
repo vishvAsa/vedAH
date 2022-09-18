@@ -24,7 +24,6 @@ the following verse. ⌊Pada **e** = 10. 1 **c**.⌋
 The fiend who creeps upon the sword, maimed, dwelling where Lthe wounded lie, The misty shapes that lurk concealed, Gandharvas and Apsara- ses, demons, and snakes and Other Folk;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 खडूरे। अधिऽचङ्कमाम्। खर्विकाम्। खर्वऽवासिनीम्। ये। उत्ऽआराः। अन्तःऽहिताः। गन्धर्वऽअप्सरसः। च। ये। सर्पाः। इतरऽजनाः। रक्षांसि। ११.१६।

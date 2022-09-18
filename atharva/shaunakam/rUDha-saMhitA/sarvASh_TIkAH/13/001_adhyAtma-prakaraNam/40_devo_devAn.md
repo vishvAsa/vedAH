@@ -22,7 +22,6 @@ the antithesis of **a** and b, admirably suggested by Deussen's
 A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle common Agni: him only the higher sages know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवः। देवान्। मर्चयसि। अन्तः। चरसि। अर्णवे। समानम्। अग्निम्। इन्धते। तम्। विदुः। कवयः। परे। १.४०।

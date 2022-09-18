@@ -19,10 +19,9 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥६॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-षट्। च। मे। षष्टि:। च। मे। अपऽवक्तार:। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। कर:। १५.६।
+षट्। च। मे। षष्टिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

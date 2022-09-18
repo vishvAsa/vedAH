@@ -25,10 +25,9 @@ comm. reads *ajirvis*, and glosses it with *ajīrṇas*, and Ludwig renders
 Upward must be thy way, O man, not downward: with life and mental vigour I endow thee. Ascend this car eternal, lightly rolling; then full of years shalt thou address the meeting.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽयानम्। ते। पुरुष। न। अवऽयानम्। जीवातुम्। ते। दक्षऽतातिम्। कृणामि। आ। हि। रोह। इमम्। अमृतम्। सुऽखम्। रथम्। अथ। जिर्वि:। विदथम्। आ। वदासि। १.६।
+उत्ऽयानम्। ते। पुरुष। न। अवऽयानम्। जीवातुम्। ते। दक्षऽतातिम्। कृणामि। आ। हि। रोह। इमम्। अमृतम्। सुऽखम्। रथम्। अथ। जिर्विः। विदथम्। आ। वदासि। १.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

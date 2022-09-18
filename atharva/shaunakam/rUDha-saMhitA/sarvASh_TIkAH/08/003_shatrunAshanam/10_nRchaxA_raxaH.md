@@ -20,10 +20,9 @@ glosses *agra* with *uparibhāga*.
 Look on the fiend, 'mid men, as Man-Beholder: rend thou his three extremities in pieces. Demolish with thy flame his ribs, O Agni: the Yatudhana's root destroy thou triply.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नृऽचक्षा:। रक्ष:। परि। पश्य। विक्षु। तस्य। त्रीणि। प्रति। शृणीहि। अग्रा। तस्य। अग्ने। पृष्टी:। हरसा। शृणीहि। त्रेधा। मूलम्। यातुऽधानस्य। वृश्च। ३.१०।
+नृऽचक्षाः। रक्षः। परि। पश्य। विक्षु। तस्य। त्रीणि। प्रति। शृणीहि। अग्रा। तस्य। अग्ने। पृष्टीः। हरसा। शृणीहि। त्रेधा। मूलम्। यातुऽधानस्य। वृश्च। ३.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ three *jāgata* pādas (12 + 12: 11) at *Ind. Stud.* viii. 243⌋.
 Afar let her depart: away we drive her whom, made with hands, all-beautiful, Skilled men prepare and fashion like a bride amid her nuptial train.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। कल्पयन्ति। वहतौ। वधूम्ऽइव। विश्वऽरूपाम्। हस्तऽकृताम्। चिकित्सवः। सा। आरात्। एतु। अप। नुदामः। एनाम्। १.१।

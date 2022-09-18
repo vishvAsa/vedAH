@@ -23,10 +23,9 @@ comm. paraphrases *ā́ suvatām* with *prerayatām prayacchatām*.
 Of their own selves let Savitar and Vayu send favourable strength and wealth and plenty. Here give us perfect freedom from consumption. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रयिम्। मे। पोषम्। सविता। उत। वायु:। तनू इति। दक्षम्। आ। सुवताम्। सुऽशेवम्। अयक्ष्मऽतातिम्। मह:। इह। धत्तम्। तौ। न:। मुञ्चतम्। अंहस:। २५.५।
+रयिम्। मे। पोषम्। सविता। उत। वायुः। तनू इति। दक्षम्। आ। सुवताम्। सुऽशेवम्। अयक्ष्मऽतातिम्। महः। इह। धत्तम्। तौ। नः। मुञ्चतम्। अंहसः। २५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ Anukr. scans as 8 + 9: 8 + 6.⌋, \*⌊Comm. reads *nirāla;* R. has *nír
 Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, Nirala, thou! the tawny and the tawny- eared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तौविलिके। अव। ईलय। अव। अयम्। ऐलब:। ऐलयीत्। बभ्रु:। च। बभ्रुऽकर्ण:। च। अप। इहि। नि:। आल। १६.३।
+तौविलिके। अव। ईलय। अव। अयम्। ऐलबः। ऐलयीत्। बभ्रुः। च। बभ्रुऽकर्णः। च। अप। इहि। निः। आल। १६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

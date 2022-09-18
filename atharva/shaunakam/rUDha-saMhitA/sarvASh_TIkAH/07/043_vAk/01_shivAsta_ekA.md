@@ -26,10 +26,9 @@ without rain."
 Some of thy words bode weal and some misfortune: thou scat- terest them all with friendly feeling. Deep within this three words are laid: among them one hath flown off even as the sound was uttered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवा:। ते। एका:। अशिवा:। ते। एका:। सर्वा:। बिभर्ष‍ि। सुऽमनस्यमान:। तिस्र:। वाच:। निऽहिता। अन्त:। अस्मिन्। तासाम्। एका। वि। पपात। अनु। घोषम्। ४४.१।
+शिवाः। ते। एकाः। अशिवाः। ते। एकाः। सर्वाः। बिभर्ष‍ि। सुऽमनस्यमानः। तिस्रः। वाचः। निऽहिता। अन्तः। अस्मिन्। तासाम्। एका। वि। पपात। अनु। घोषम्। ४४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

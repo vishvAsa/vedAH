@@ -23,10 +23,9 @@ sukṛtāṁ yatra lokaḥ;* our **d** is found (nearly) as its 8 **d**.
 Hence come thou forth, vexed by no pain or torment. Mount to the third heaven from the heated vessel. As fire out of the fire hast thou arisen. Conquer and win this lucid world of splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। क्राम। अत:। परि। च। इत्। अतप्त:। तप्तात्। चरो:। अधि। नाकम्। तृतीयम्। अग्ने:। अग्नि:। अधि। सम्। बभूविथ। ज्योतिष्मन्तम्। अभि। लोकम्। जय। एतम्। ५.६।
+उत्। क्राम। अतः। परि। च। इत्। अतप्तः। तप्तात्। चरोः। अधि। नाकम्। तृतीयम्। अग्नेः। अग्निः। अधि। सम्। बभूविथ। ज्योतिष्मन्तम्। अभि। लोकम्। जय। एतम्। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

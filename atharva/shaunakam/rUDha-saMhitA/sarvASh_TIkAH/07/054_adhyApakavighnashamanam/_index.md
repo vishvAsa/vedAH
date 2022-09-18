@@ -7,7 +7,6 @@ title = "०५४ अध्यापकविघ्नशमनम्"
 54 (56, 57. 1). Extolling verse and chant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यापकविघ्नशमनम्।  
@@ -18,8 +17,6 @@ title = "०५४ अध्यापकविघ्नशमनम्"
 
 [vs. 1. Brahman.—ṛksāmadevatyam. ānuṣṭubham.—vs. 2, and 55. 1. Bhṛgu.—dvyṛcam. āindram. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, iii2. 4; Henry, 21, 81; Griffith, 1. 352.
 
 A charm to obtain knowledge of the Veda
 </details>
+

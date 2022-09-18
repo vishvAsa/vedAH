@@ -20,10 +20,9 @@ The comm. reads *anu* instead of *na* in **d**. The meter requires
 I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs when they have seen a lion, find no hiding- place.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तपन:। अस्मि। पिशाचानाम्। व्याघ्र:। गोमताम्ऽइव। श्वान:। सिंहम्ऽइव। दृष्ट्वा। ते। न। विन्दन्ते। निऽअञ्चनम्। ३६.६।
+तपनः। अस्मि। पिशाचानाम्। व्याघ्रः। गोमताम्ऽइव। श्वानः। सिंहम्ऽइव। दृष्ट्वा। ते। न। विन्दन्ते। निऽअञ्चनम्। ३६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

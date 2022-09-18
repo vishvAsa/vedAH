@@ -18,7 +18,6 @@ physicians greatness, more and more etc. etc.
 The Asvins with this Amulet protect this culture of our fields. This yields the two Physicians might, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तेन। इमाम्। मणिना। कृषिम्। अश्विनौ। अभि। रक्षतः। सः। भिषक्ऽभ्याम्। महः। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१२।

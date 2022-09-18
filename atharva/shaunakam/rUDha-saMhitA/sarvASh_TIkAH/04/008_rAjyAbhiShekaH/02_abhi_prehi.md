@@ -30,10 +30,9 @@ the Poona ed., p. 716, has *bruvan*.⌋
 Come forward, turn not back in scorn, strong guardian, slayer of the foes. Approach, O gladdener of thy friends. The Gods have blessed and strengthened thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। प्र। इहि। मा। अप। वेन:। उग्र:। चेत्ता। सपत्नऽहा। आ। तिष्ठ। मित्रऽवर्धन। तुभ्यम्। देवा:। अधि। ब्रुवन्। ८.२।
+अभि। प्र। इहि। मा। अप। वेनः। उग्रः। चेत्ता। सपत्नऽहा। आ। तिष्ठ। मित्रऽवर्धन। तुभ्यम्। देवाः। अधि। ब्रुवन्। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

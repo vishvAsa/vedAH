@@ -7,7 +7,6 @@ title = "०५५ सौमनस्यम्"
 55. For various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सौमनस्यम्।  
@@ -18,8 +17,6 @@ title = "०५५ सौमनस्यम्"
 
 [Brahman (?).—1. vāiśvadevī, jagatī; 2, 3. rāudryāu: 2. triṣṭubh; 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 218; Griffith, i. 275.—As to cycles of lunar years, see
 
 A prayer for general protection and prosperity
 </details>
+

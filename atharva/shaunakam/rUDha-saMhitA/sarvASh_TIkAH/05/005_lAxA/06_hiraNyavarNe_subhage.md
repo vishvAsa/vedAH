@@ -23,10 +23,9 @@ beginning *hiraṇyabāhū*, and, for **d**, *se ’maṁ niṣkṛdhi pāuruṣ
 Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst thou, O Healing! come unto the fracture: Healing is thy name.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णे। सुऽभगे। सूर्यऽवर्णे। वपु:ऽतमे। रुतम्। गच्छासि। नि:ऽकृते। नि:ऽकृति:। नाम। वै। असि। ५.६।
+हिरण्यऽवर्णे। सुऽभगे। सूर्यऽवर्णे। वपुःऽतमे। रुतम्। गच्छासि। निःऽकृते। निःऽकृतिः। नाम। वै। असि। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

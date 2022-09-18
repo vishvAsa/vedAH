@@ -23,7 +23,6 @@ Gram.* §960.⌋
 When the guest hath eaten he should eat. This is the rule for the animation of the sacrifice and the preservation of its continuity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अशितऽवति। अतिथौ। अश्नीयात्। यज्ञस्य। सात्मऽत्वाय। यज्ञस्य। अविऽछेदाय। तत्। व्रतम्। ८.८।

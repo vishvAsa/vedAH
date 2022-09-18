@@ -21,10 +21,9 @@ Ppp. reads at end of **a** *pṛthivyāṣ;* at end of **d**, *ugrā anapatiḥ*
 In sundry spots, repeatedly reflecting, men view upon the earth: her course and action; For she, the first-born daughter of the Maruts, derives her origin from Wind and Agni.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पश्यन्ति। अस्या:। चरितम्। पृथिव्याम्। पृथक्। नर:। बहुऽधा। मीमांसमाना:। अग्ने:। वातात्। मधुऽकशा। हि। जज्ञे। मरुताम्। उग्रा। नप्ति:। १.३।
+पश्यन्ति। अस्याः। चरितम्। पृथिव्याम्। पृथक्। नरः। बहुऽधा। मीमांसमानाः। अग्नेः। वातात्। मधुऽकशा। हि। जज्ञे। मरुताम्। उग्रा। नप्तिः। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

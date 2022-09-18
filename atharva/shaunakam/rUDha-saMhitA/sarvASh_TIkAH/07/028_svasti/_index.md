@@ -7,7 +7,6 @@ title = "०२८ स्वस्ति"
 28 (29). Of the instruments of offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्ति।  
@@ -18,8 +17,6 @@ title = "०२८ स्वस्ति"
 
 [Medhātithi (?).—vedadevatākam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 19; Henry, 11, 65; Griffith, i. 341.
 
 Praise of the sacrificial utensils
 </details>
+

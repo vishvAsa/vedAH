@@ -7,7 +7,6 @@ title = "०६५ दुरितनाशनम्"
 65 (67). To the plant apāmārgá: for cleansing.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुरितनाशनम्।  
@@ -18,8 +17,6 @@ title = "०६५ दुरितनाशनम्"
 
 [śukra.—tṛcam. apāmārgavīrudddivatam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 38, 186; Henry, 25, 89; Griffith, i. 358; Bloomfield, 72, 556
 
 A charm against imprecation and threatened evils
 </details>
+

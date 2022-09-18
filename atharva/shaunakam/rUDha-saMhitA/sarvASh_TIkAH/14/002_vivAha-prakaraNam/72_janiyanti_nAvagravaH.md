@@ -28,7 +28,6 @@ reads with our text throughout.
 Unmarried men desire to wed; bountiful givers wish for sons. Together may we dwell with strength unscathed for high pros- perity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जनिऽयन्ति। नौ। अग्रवः। पुत्रिऽयन्ति। सुऽदानवः। अरिष्टासू इत्यरिष्टऽअसू। सचेवहि। बृहते। वाजऽसातये। २.७२।

@@ -7,7 +7,6 @@ title = "०५५ मार्गस्वस्त्ययनम्"
 55 (57. 2). To Indra (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मार्गस्वस्त्ययनम्।  
@@ -18,8 +17,6 @@ title = "०५५ मार्गस्वस्त्ययनम्"
 
 [Bhṛgu.—āindram . virāṭ paroṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 21, 82; Griffith, i. 353.
 
 A charm to ensure a prosperous journey
 </details>
+

@@ -35,10 +35,9 @@ mere omission of the accent by which he distinguishes the palatal sonant
 Win the love of Indra that his friend may reach yet higher state. Increase, as rain the grass, this man's dominion and his lofty fame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। तत्। युजे। उत्ऽतरम्। इन्द्रम्। शुम्भामि। अष्टये। अस्य। क्षत्रम्। श्रियम्। महीम्। वृष्टि:ऽइव। वर्धय। तृणम्। ५४.१।
+इदम्। तत्। युजे। उत्ऽतरम्। इन्द्रम्। शुम्भामि। अष्टये। अस्य। क्षत्रम्। श्रियम्। महीम्। वृष्टिःऽइव। वर्धय। तृणम्। ५४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

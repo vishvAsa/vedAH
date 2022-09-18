@@ -21,7 +21,6 @@ vii. 83. 4 **d**.
 May this great Earth receive the skin, this Goddess Prithivi, showing us her love and favour. Then may we go unto the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। मही। प्रति। गृह्णातु। चर्म। पृथिवी। देवी। सुऽमनस्यमाना। अथ। गच्छेम। सुऽकृतस्य। लोकम्। १.८।

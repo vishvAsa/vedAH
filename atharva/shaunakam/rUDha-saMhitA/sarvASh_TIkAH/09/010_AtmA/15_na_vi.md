@@ -22,7 +22,6 @@ editions and Aufrecht's first: Aufrecht's second, *ā́: agan*⌋; our
 What thing I truly am I know not clearly: mysterious, fettered in my mind I wander. When the first-born of holy Law approached me, then of this Speech I first obtain a portion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। वि। जानामि। यत्ऽइव। इदम्। अस्मि। निण्यः। सम्ऽनध्दः। मनसा। चरामि। यदा। मा। आऽअगन्। प्रथमऽजाः। ऋतस्य। आत्। इत्। वाचः। अश्नुवे। भागम्। अस्याः। १५.१५।

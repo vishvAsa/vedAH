@@ -7,7 +7,6 @@ title = "०८१ सूर्याचन्द्रमसौ"
 81 (86). To the sun and moon.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सूर्याचन्द्रमसौ।  
@@ -18,8 +17,6 @@ title = "०८१ सूर्याचन्द्रमसौ"
 
 [Atharvan.—ṣaḍṛcam. sāvitrīsūryacādramasam. trāiṣṭubham: 3. anuṣṭubh; 4, 5. āstārapan̄kti (5. samrāj).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 33, 101; Griffith, i. 368.— Cf. Hillebrandt, Ved. Mythol., 
 
 A hymn to the New Moon
 </details>
+

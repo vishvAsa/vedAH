@@ -7,7 +7,6 @@ title = "०३३ पाप-नाशनम्"
 33. To Agni: for release from evil.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाप-नाशनम्  
@@ -18,8 +17,6 @@ title = "०३३ पाप-नाशनम्"
 
 [Brahman.—aṣṭarcam. pāpmanyam; āgneyam, gāyatram.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Griffith, i. 175; Weber, xviii. 134.—C
 
 A prayer to Agni for protection and prosperity
 </details>
+

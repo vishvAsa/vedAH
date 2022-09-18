@@ -25,10 +25,9 @@ apābhajaṁ pṛthivyāḥ pūrve ardhe*.
 Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreign regions we proclaim to Fever for his home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-महाऽवृषान्। मूजऽवत:। बन्धु। अध्दि। पराऽइत्य। प्र। एतानि। तक्मने। ब्रूम:। अन्यऽक्षेत्राणि। वै। इमा। २२.८।
+महाऽवृषान्। मूजऽवतः। बन्धु। अध्दि। पराऽइत्य। प्र। एतानि। तक्मने। ब्रूमः। अन्यऽक्षेत्राणि। वै। इमा। २२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

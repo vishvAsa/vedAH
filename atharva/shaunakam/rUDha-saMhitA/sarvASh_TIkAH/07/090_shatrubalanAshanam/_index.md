@@ -7,7 +7,6 @@ title = "०९० शत्रुबलनाशनम्"
 90 (95) To destroy some one's virile power.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुबलनाशनम्।  
@@ -19,8 +18,6 @@ title = "०९० शत्रुबलनाशनम्"
 [An̄giras.—tṛcam. mantroktadevatyam. 1. gāyatri; 2. virāṭ purastādbṛhatī; 3. 3-av. 6-p. bhurig jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Used by Kāuś. (36. 35) in a women's rite, being dire
 ### Translations
 Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 </details>
+

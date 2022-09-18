@@ -22,7 +22,6 @@ present verse (prose) reads most naturally as 10: 12 + 7 = 29 syllables.
 Thou art the bound of Varuna the King. Bind, such an one, the son of such a woman, in vital breath and in the food that feeds him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 राज्ञः। वरुणस्य। बन्धः। असि। सः। अमुम्। आमुष्यायणम्। अमुष्याः। पुत्रम्। अन्ने। प्राणे। बधान। ५.४४।

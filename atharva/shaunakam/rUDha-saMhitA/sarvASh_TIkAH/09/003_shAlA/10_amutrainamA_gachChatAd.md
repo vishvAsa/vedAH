@@ -22,10 +22,9 @@ and begins **c** with *tasyas*. ⌊As to *amútra*, cf. Oldenberg, IFA. vi.
 There let her come to meet this man. Firm, strongly fastened,. and prepared Art thou whose several limbs and joints we part and loosen one by one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमुत्र। एनम्। आ। गच्छतात्। दृढा। नध्दा। परिष्कृता। यस्या:। ते। विऽचृतामसि। अङ्गम्ऽअङ्गम्। परु:ऽपरु:। ३.१०।
+अमुत्र। एनम्। आ। गच्छतात्। दृढा। नध्दा। परिष्कृता। यस्याः। ते। विऽचृतामसि। अङ्गम्ऽअङ्गम्। परुःऽपरुः। ३.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०७६ गण्डमालाचिकित्सा"
 76 (80, 81). Against apacíts and jāyā́nya: etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गण्डमालाचिकित्सा।  
@@ -18,8 +17,6 @@ title = "०७६ गण्डमालाचिकित्सा"
 
 [1-4. Atharvan.—caturṛcam. apacidbhāiṣajyadevatyam. ānuṣṭubham: 1. virāj; 2, paroṣṇiḥ. 5, 6. Atharvan.—dvyṛcam. jāyānyāindradāivatam. trāiṣṭubham: 5. bhurig anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 500; Zimmer, p. 377 (vss. 3-5); Bloomfield, JAOS. xiii. p
 
 A charm to cure scrofulous pustules and scrofula
 </details>
+

@@ -7,7 +7,6 @@ title = "०१८ शत्रुनाशनम्"
 18. For relief from demons and foes.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१८ शत्रुनाशनम्"
 
 [Cātana (sapatnakṣayakāmaḥ).—āgneyam. dvāipadam; sāmnībārhatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 180; Griffith, i. 61.
 
 A charm against enemies, goblins, and other evil creatures
 </details>
+

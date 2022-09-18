@@ -26,10 +26,9 @@ cákṣuṣy ā́go ásti;* in **c** it contracts *-jagráhā ’hám* into
 What food I eat of varied form and nature, food whether gold, or horse, sheep, goat, or bullock, Whatever gift I have received, may Agni the Hotar make it sacrifice well-offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अन्नम्। अद्मि। बहुऽधा। विऽरूपम्। हिरण्यम्। अश्वम्। उत। गाम्। अजाम्। अविम्। यत्। एव। किम्। च। प्रतिऽजग्रह। अहम्। अग्नि:। तत्। होता। सुऽहुतम्। कृणोतु। ७१.१।
+यत्। अन्नम्। अद्मि। बहुऽधा। विऽरूपम्। हिरण्यम्। अश्वम्। उत। गाम्। अजाम्। अविम्। यत्। एव। किम्। च। प्रतिऽजग्रह। अहम्। अग्निः। तत्। होता। सुऽहुतम्। कृणोतु। ७१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ make out the full tale of 101 years.⌋
 To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to the hundred deaths and one: may these deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरायान्। ब्रूमः। रक्षांसि। सर्पान्। पुण्यऽजनान्। पितॄन्। मृत्यून्। एकऽशतम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.१६।

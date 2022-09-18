@@ -20,7 +20,6 @@ Ppp. reads at end of **a** *yaś ca nādyā*.
 O Prithivi, thy centre and thy navel, all forces that have issued from thy body Set us amid those forces; breathe upon us. I am the son of Earth, Earth is my Mother. Parjanya is my Sire; may he promote me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। मध्यम्। पृथिव‍ि। यत्। च। नभ्यम्। याः। ते। ऊर्जः। तन्वः। सम्ऽबभूवुः। तासु। नः। धेहि। अभि। नः। पयस्व। माता। भूमिः। पुत्रः। अहम्। पृथिव्याः। पर्जन्यः। पिता। सः। ऊं इति। नः। पिपर्तु। १.१२।

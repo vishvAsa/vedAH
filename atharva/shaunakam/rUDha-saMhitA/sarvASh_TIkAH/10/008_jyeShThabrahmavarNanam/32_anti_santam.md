@@ -20,7 +20,6 @@ Ludwig renders 'she.'
 When he is near she leaves him not, she sees him not though he is near. Behold the wisdom of the God; he hath not died, he grows not old.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्ति। सन्तम्। न। जहाति। अन्ति। सन्तम्। न। पश्यति। देवस्य। पश्य। काव्यम्। न। ममार। न। जीर्यति। ८.३२।

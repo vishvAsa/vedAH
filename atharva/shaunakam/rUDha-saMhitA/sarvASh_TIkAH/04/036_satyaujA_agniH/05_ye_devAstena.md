@@ -28,10 +28,9 @@ corrupt text.
 With Gods who flee with him, and match their rapid motion with the Sun, I with those animals who dwell in rivers and on hills am found.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। देवा:। तेन। हासन्ते। सूर्येण। मिमते। जवम्। नदीषु। पर्वतेषु। ये। सम्। तै:। पशुऽभि:। विदे। ३६.५।
+ये। देवाः। तेन। हासन्ते। सूर्येण। मिमते। जवम्। नदीषु। पर्वतेषु। ये। सम्। तैः। पशुऽभिः। विदे। ३६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

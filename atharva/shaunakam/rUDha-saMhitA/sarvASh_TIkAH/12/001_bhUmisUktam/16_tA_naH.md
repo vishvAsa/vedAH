@@ -20,7 +20,6 @@ accus., would be a welcome emendation.
 In concert may these creatures yield us blessings. With honey of discourse, O Earth, endow me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ताः। नः। प्रऽजाः। सम्। दुह्रताम्। सम्ऽअग्राः। वाचः। मधु। पृथिवि। धेहि। मह्यम्। १.१६।

@@ -23,7 +23,6 @@ translated by Bloomfield, as noted above (see 9. 7), at AJP. xi. 340.
 Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be the banners when the host of Arbudi hath won the day.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 धूमऽअक्षीः। सम्। पततु। कृधुऽकर्णी। च। क्रोशतु। त्रिऽसंधेः। सेनया। जिते। अरुणाः। सन्तु। केतवः। १२.७।

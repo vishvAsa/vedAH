@@ -26,7 +26,6 @@ of a dissyllable), and **b** is precisely xii. 1. 51 **b**: for
 For thee were forest beasts and sylvan creatures placed in the wood, and small birds, swans, and eagles. Floods, Lord of Beasts! contain thy living beings: to swell thy strength flow the celestial Waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तुभ्यम्। आरण्याः। पशवः। मृगाः। वने। हिताः। हंसाः। सुऽपर्णाः। शकुनाः। वयांसि। तव। यक्षम्। पशुऽपते। अप्ऽसु। अन्तः। तुभ्यम्। क्षरन्ति। दिव्याः। आपः। वृधे। २.२४।

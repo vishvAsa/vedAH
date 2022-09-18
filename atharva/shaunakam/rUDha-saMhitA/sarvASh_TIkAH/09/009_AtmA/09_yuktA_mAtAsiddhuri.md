@@ -20,7 +20,6 @@ IFA. vi. 180, as noted above.⌋
 Yoked was the Mother to the boon Cow's car-pole; in humid folds of cloud the infant rested. Then the Calf lowed and looked upon the Mother, the Cow who wears all shapes in three directions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 युक्ता। माता। आसीत्। धुरि। दक्षिणायाः। अतिष्ठत्। गर्भः। वृजनीषु। अन्तः। अमीमेत्। वत्सः। अनु। गाम्। अपश्यत्। विश्वऽरूप्यम्। त्रिषु। योजनेषु। १४.९।

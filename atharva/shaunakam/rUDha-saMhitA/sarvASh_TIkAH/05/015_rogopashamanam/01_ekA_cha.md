@@ -20,10 +20,9 @@ Ppp. omits throughout the second *me* in **a**, and reads for **d**
 Plant! I have those who shall avert the threatened danger, ten and one. O sacred Plant, produced aright! make sweetness, sweet thy self, for me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-‍एका। च। मे। दश। च। मे। अपऽवक्तार:। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। कर:। १५.१।
+‍एका। च। मे। दश। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

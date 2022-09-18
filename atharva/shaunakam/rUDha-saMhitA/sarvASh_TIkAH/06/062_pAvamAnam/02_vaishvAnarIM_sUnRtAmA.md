@@ -30,10 +30,9 @@ as often elsewhere, the hopelessness of a rendering.
 Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is all men's treasure. Through her may we, in sacrificial banquets singing her glory, be the lords of riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानरीम्। सूनृताम्। आ। रभध्वम्। यस्या:। आशा:। तन्व:। वीतऽपृष्ठा:। तया। गृणन्त:। सधऽमादेषु। वयम्। स्याम। पतय:। रयीणाम्। ६२.२।
+वैश्वानरीम्। सूनृताम्। आ। रभध्वम्। यस्याः। आशाः। तन्वः। वीतऽपृष्ठाः। तया। गृणन्तः। सधऽमादेषु। वयम्। स्याम। पतयः। रयीणाम्। ६२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

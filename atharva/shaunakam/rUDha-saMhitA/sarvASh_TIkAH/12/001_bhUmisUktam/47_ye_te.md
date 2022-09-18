@@ -25,7 +25,6 @@ comm. to vii. 55 declares the latter to be intended.
 Thy many ways on which the people travel, the road for car and wain to journey over, Thereon meet both the good and bad, that pathway may we attain without a foe or robber. With all things gracious bless thou us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। ते। पन्थानः। बहवः। जनऽअयनाः। रथस्य। वर्त्म। अनसः। च। यातवे। यैः। सम्ऽचरन्ति। उभये। भद्रऽपापाः। तम्। पन्थानम्। जयेम। अनमित्रम्। अतस्करम्। यत्। शिवम्। तेन। नः। मृड। १.४७।

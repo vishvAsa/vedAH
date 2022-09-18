@@ -21,7 +21,6 @@ here), and conjecture it to mean 'pricking pains.'
 The penetrating stabs of pain which rend asunder crown and head, Let them depart and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। सीमानम्। विऽरुजन्ति। मूर्धानम्। प्रति। अर्षणीः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१३।

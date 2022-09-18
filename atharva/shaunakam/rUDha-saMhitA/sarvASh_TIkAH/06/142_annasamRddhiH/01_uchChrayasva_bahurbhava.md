@@ -23,10 +23,9 @@ burst.'⌋
 Spring high, O Barley, and become much through thine own magnificence: Burst all the vessels; let the bolt from heaven forbear to strike thee down.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। श्रयस्व। बहु:। भव। स्वेन। महसा। यव। मृणीहि। विश्वा। पात्राणि। मा। त्वा। दिव्या। अशनि:। वधीत्। १४२.१।
+उत्। श्रयस्व। बहुः। भव। स्वेन। महसा। यव। मृणीहि। विश्वा। पात्राणि। मा। त्वा। दिव्या। अशनिः। वधीत्। १४२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

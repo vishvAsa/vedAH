@@ -17,10 +17,9 @@ The corresponding phrase in Ppp. is: *āyur asyā āyur me dhā svāhā.*
 Life art thou, give me life. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आयु:। असि। आयु:। मे। दा:। स्वाहा। १७.४।
+आयुः। असि। आयुः। मे। दाः। स्वाहा। १७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

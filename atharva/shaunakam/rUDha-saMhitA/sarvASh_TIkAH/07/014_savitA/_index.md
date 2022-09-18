@@ -7,7 +7,6 @@ title = "०१४ सविता"
 14 (15). Prayer and praise to Savitar.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सविता  
@@ -18,8 +17,6 @@ title = "०१४ सविता"
 
 [Atharvan.—caturṛcam. sāvitram. ānuṣṭubham: 3. triṣṭubh; 4. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 6, 56; Griffith, i. 334.
 
 A prayer to Savitar for prosperity
 </details>
+

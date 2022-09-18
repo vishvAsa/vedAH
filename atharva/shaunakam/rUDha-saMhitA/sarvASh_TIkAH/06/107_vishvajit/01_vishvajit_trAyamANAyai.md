@@ -21,10 +21,9 @@ divinities so named.
 Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our wealth of quadrupeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वऽजित्। त्रायमाणायै। मा। परि। देहि। त्रायमाणे। द्विऽपात्। च। सर्वम्। न:। रक्ष। चतु:ऽपात्। यत्। च। न:। स्वम्। १०७.१।
+विश्वऽजित्। त्रायमाणायै। मा। परि। देहि। त्रायमाणे। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

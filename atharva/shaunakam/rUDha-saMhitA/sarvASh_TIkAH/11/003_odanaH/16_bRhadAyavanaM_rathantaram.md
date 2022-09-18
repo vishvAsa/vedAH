@@ -13,7 +13,6 @@ title = "१६ बृहदायवनं रथन्तरम्"
 The Brihat is, the stirring-spoon, the Rathantara the ladle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहत्। आऽयवनम्। रथम्ऽतरम्। दर्विः। ३.१६।

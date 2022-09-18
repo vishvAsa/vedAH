@@ -26,7 +26,6 @@ intended⌋.
 Heaven, Earth, the realm of Middle Air have granted me this ample room, Agni, Sun, Waters, all the Gods have joined to give me mental power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्यौः। च। मे। इदम्। पृथिवी। च। अन्तरिक्षम्। च। मे। व्यचः। अग्निः। सूर्यः। आपः। मेधाम्। विश्वे। देवाः। च। सम्। ददुः। १.५३।

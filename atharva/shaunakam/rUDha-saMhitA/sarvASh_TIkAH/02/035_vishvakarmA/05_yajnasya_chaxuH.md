@@ -29,10 +29,9 @@ them objects to *juhomi.*
 The eye of sacrifice, source, and beginning--with voice, ear, spirit unto him I offer. To this our sacrifice wrought by Visvakarman may the Gods come gracious and kindly-hearted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यज्ञस्य। चक्षु:। प्रऽभृति:। मुखम्। च। वाचा। श्रोत्रेण। मनसा। जुहोमि। इमम्। यज्ञम्। विऽततम्। विश्वऽकर्मणा। आ। देवा:। यन्तु। सुऽमनस्यमाना:। ३५.५।
+यज्ञस्य। चक्षुः। प्रऽभृतिः। मुखम्। च। वाचा। श्रोत्रेण। मनसा। जुहोमि। इमम्। यज्ञम्। विऽततम्। विश्वऽकर्मणा। आ। देवाः। यन्तु। सुऽमनस्यमानाः। ३५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

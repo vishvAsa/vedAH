@@ -19,10 +19,9 @@ W. interlines "bride?"⌋
 Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever be our will, O House, we bear thee like a bride.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। न:। पाशम्। प्रति। मुच:। गुरु:। भार:। लघु:। भव। वधूम्ऽइव। त्वा। शाले। यत्रऽकामम्। भरामसि। ३.२४।
+मा। नः। पाशम्। प्रति। मुचः। गुरुः। भारः। लघुः। भव। वधूम्ऽइव। त्वा। शाले। यत्रऽकामम्। भरामसि। ३.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

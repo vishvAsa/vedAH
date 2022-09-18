@@ -27,10 +27,9 @@ The first three pādas occur in RV. vi. 74. 2 (**a, b, c**) and MS. iv.
 Scatter and drive away, Soma and Rudra, the sickness that hath come within our dwelling, Afar into the distance chase Destruction, and even from commit- ted sin release us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सोमारुद्रा। वि। वृहतम्। विषूचीम्। अमीवा। या। न:। गयम्। आऽविवेश। बाधेथाम्। दूरम्। नि:ऽऋतिम्। पराचै:। कृतम्। चित्। एन:। प्र। मुमुक्तम्। अस्मत्। ४३.१।
+सोमारुद्रा। वि। वृहतम्। विषूचीम्। अमीवा। या। नः। गयम्। आऽविवेश। बाधेथाम्। दूरम्। निःऽऋतिम्। पराचैः। कृतम्। चित्। एनः। प्र। मुमुक्तम्। अस्मत्। ४३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

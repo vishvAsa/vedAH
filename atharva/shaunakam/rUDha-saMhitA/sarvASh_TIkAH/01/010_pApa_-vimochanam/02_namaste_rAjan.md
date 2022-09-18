@@ -25,10 +25,9 @@ AB. vii. 15.⌋
 Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest every falsehood. I send a thousand others forth together: let this thy servant live a hundred autumns.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। राजन्‍। वरुण। अस्तु। मन्यवे। विश्वम्‍। हि। उग्र। निऽचिकेषि। द्रुग्धम्‍। सहस्रम्‍। अन्यान्‍। प्र। सुवामि। साकम्‍। शतम्‍। जीवाति। शरद:। तव। अयम्‍।
+नमः। ते। राजन्‍। वरुण। अस्तु। मन्यवे। विश्वम्‍। हि। उग्र। निऽचिकेषि। द्रुग्धम्‍। सहस्रम्‍। अन्यान्‍। प्र। सुवामि। साकम्‍। शतम्‍। जीवाति। शरदः। तव। अयम्‍।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

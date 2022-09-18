@@ -7,7 +7,6 @@ title = "००८ शत्रुनाशनम्"
 8. Against enemies: to Indra and other gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "००८ शत्रुनाशनम्"
 
 [Atharvan (?).—navakam. nānādevatyam: 1, 2. āgneye; 3. vāiśvadevī; 4-9. āindryas. ānuṣṭubham: 2. 3-av. 6-p. jagatī; 3, 4. bhurikpathyāpan̄kti; 6. prastārapan̄kti; 7. dvyuṣṇiggarbhā pathyāpan̄kti; 9. 3-av. 6-p. dvyuṣṇiggarbhā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 439; Grifiith, i. 200; Weber, xviii. 194.
 
 A charm for the discomfiture and destruction of hostile priests
 </details>
+

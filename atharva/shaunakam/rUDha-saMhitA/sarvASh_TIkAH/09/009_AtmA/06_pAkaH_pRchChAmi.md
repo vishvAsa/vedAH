@@ -18,7 +18,6 @@ the poets stretched out seven lines (*tántu*) for weaving.
 Unripe in mind, in spirit undiscerning, I ask of these the Gods' established places. High up above the yearling Calf the sages, to form a web, their own seven threads have woven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पाकः। पृच्छामि। मनसा। अविऽजानन्। देवानाम्। एना। निऽहिता। पदानि। वत्से। बष्कये। अधि। सप्त। तन्तून्। वि। तत्निरे। कवयः। ओतवै। ऊं इति। १४.६।

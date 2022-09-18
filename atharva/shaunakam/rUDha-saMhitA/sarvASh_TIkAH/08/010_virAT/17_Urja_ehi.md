@@ -25,7 +25,6 @@ kāmaṁkāmaṁ yajamānan maha yaḥ*.
 Waters from Vamdevya come, from Yajnayajniya sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्जे। आ। इहि। स्वधे। आ। इहि। सूनृते। आ। इहि। इराऽवति। आ। इहि। इति। ११.४।

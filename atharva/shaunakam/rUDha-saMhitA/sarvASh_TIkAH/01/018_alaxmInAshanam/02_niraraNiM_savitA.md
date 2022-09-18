@@ -30,10 +30,9 @@ occurrence of a *triṣṭubh* pāda in a *jagatī* verse ⌊**d**, no less than
 Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hands and feet: May Favour, granting us her bounties, drive her off. The Gods created Favour for our happiness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:। अरणिम्। सविता। साविषक्। पदो:। नि:। हस्तयो:। वरुण:। मित्र:। अर्यमा। नि:। अस्मभ्यम्। अनुऽमति:। रराणा। प्र। इमाम्। देवा:। असाविषु:। सौभगाय।
+निः। अरणिम्। सविता। साविषक्। पदोः। निः। हस्तयोः। वरुणः। मित्रः। अर्यमा। निः। अस्मभ्यम्। अनुऽमतिः। रराणा। प्र। इमाम्। देवाः। असाविषुः। सौभगाय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

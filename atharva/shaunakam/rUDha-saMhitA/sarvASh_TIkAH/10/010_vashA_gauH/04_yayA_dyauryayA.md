@@ -20,7 +20,6 @@ pāda which the Anukr. assumes.
 Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom the heaven, by whom the earth, by whom these waters are preserved.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यया। द्यौः। यया। पृथिवी। यया। आपः। गुपिताः। इमाः। वशाम्। सहस्रऽधाराम्। ब्रह्मणा। अच्छऽआवदामसि। १०.४।

@@ -26,7 +26,6 @@ The comm. has *āhitās* again instead of *āyattās* in **c**; he supplies
 Real, non-real, both are there, Prajapati, and Death, and strength: Thereon depend the worldly ones: in me are glory Dra and Vra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सन्। उत्ऽशिष्टे। असन्। च। उभौ। मृत्युः। वाजः। प्रजाऽपतिः। लौक्याः। उत्ऽशिष्टे। आऽयत्ताः। व्रः। च। द्रः। च। अपि। श्रीः। मयि। ९.३।

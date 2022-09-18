@@ -23,10 +23,9 @@ as being *amnár*.
 Those who kill infants unawares, and near the new-made mothers lie, Let Pinga chase the amorous Gandharvas as wind chases cloud.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अम्न:। जातान्। मारयन्ति। सूतिका:। अनुऽशेरते। स्त्रीऽभागान्। पिङ्ग:। गन्धर्वान्। वात:। अभ्रम्ऽइव। अजतु। ६.१९।
+ये। अम्नः। जातान्। मारयन्ति। सूतिकाः। अनुऽशेरते। स्त्रीऽभागान्। पिङ्गः। गन्धर्वान्। वातः। अभ्रम्ऽइव। अजतु। ६.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

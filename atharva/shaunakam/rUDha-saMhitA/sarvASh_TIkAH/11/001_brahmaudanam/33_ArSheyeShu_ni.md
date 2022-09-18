@@ -26,7 +26,6 @@ is quoted with vs. 25 **c** in Kāuś. 65. 12.
 I set thee, Odana, with Rishis' children: naught here belongs to men not sprung from Rishis. Let Agni my protector, all the Maruts, the Visve Devas guard the cooked oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आर्षेयेषु। नि। दधे। ओदन। त्वा। न। अनार्षेयाणाम्। अपि। अस्ति। अत्र। अग्निः। मे। गोप्ता। मरुतः। च। सर्वे। विश्वे। देवाः। अभि। रक्षन्तु। पक्वम्। १.३३।

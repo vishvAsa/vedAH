@@ -24,7 +24,6 @@ i. 3¹¹).⌋
 Discern thou this, O Savitar. Six are the twins, one singly born. They claim relationship in that among them which is born alone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। सवितः। वि। जानीहि। षट्। यमाः। एकः। एकऽजः। तस्मिन्। ह। अपिऽत्वम्। इच्छन्ते। यः। एषाम्। एकः। एकऽजः। ८.५।

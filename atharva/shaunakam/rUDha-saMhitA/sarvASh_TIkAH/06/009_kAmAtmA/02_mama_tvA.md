@@ -21,10 +21,9 @@ b**, *māi tvā dūṣaṇimṛgaṁ kṛṇomi hṛdayaspṛgam;* and begins **
 I make thee hang upon mine arm, I make thee lie upon my heart. Thou yieldest to my wish, that thou mayst be submissive to my will.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मम। त्वा। दोषणिऽश्रिषम्। कृणोमि। हृदयऽश्रिषम्। यथा। मम। क्रतौ। अस:। मम। चित्तम्। उपऽआयसि। ९.२।
+मम। त्वा। दोषणिऽश्रिषम्। कृणोमि। हृदयऽश्रिषम्। यथा। मम। क्रतौ। असः। मम। चित्तम्। उपऽआयसि। ९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ of *yājñā* verses in the ceremony. \*⌊In fact Ludwig does render
 Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to you with store of milk. Come, O ye Asvins, taste the meath that hath been drained, drink of the milk provided by this radiant cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तप्त:। वाम्। धर्म:। नक्षतु। स्वऽहोता। प्र। वाम्। अध्वर्यु:। चरतु। पयस्वान्। मधो:। दुग्धस्य। अश्विना। तनाया:। वीतम्। पातम्। पयस:। उस्रियाया:। ७७.५।
+तप्तः। वाम्। धर्मः। नक्षतु। स्वऽहोता। प्र। वाम्। अध्वर्युः। चरतु। पयस्वान्। मधोः। दुग्धस्य। अश्विना। तनायाः। वीतम्। पातम्। पयसः। उस्रियायाः। ७७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ Most of our mss. (not B.I.T.K.) appear to read *tú* instead of *nú* in
 Provide this man with breath and sight, O Agni, and with his body and his strength unite him. Thou knowest Amrit: let him not go hence, nor dwell in house of clay.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणेन। अग्ने। चक्षुषा। सम्। सृज। इमम्। सम्। ईरय। तन्वा। सम्। बलेन। वेत्थ। अमृतस्य। मा। नु। गात्। मा। नु। भूमिऽगृह:। भुवत्। ३०.१४।
+प्राणेन। अग्ने। चक्षुषा। सम्। सृज। इमम्। सम्। ईरय। तन्वा। सम्। बलेन। वेत्थ। अमृतस्य। मा। नु। गात्। मा। नु। भूमिऽगृहः। भुवत्। ३०.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

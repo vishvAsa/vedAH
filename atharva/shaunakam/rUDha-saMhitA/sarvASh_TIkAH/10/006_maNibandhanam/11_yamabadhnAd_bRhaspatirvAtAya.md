@@ -26,7 +26,6 @@ unimportant exchanges and variants; the details are not given.
 The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigorous steed, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। सः। अस्मै। वाजिनम्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.११।

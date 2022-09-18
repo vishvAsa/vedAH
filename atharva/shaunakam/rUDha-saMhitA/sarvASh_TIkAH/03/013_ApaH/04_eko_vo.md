@@ -33,10 +33,9 @@ Weber understands them to sigh under the burden of the god standing
 One only God set foot on you flowing according to your will, The mighty ones breathed upward fast: hence; Water is the name they bear.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एक:। व:। देव:। अपि। अतिष्ठत्। स्यन्दमाना:। यथाऽवशम्। उत्। आनिषु:। मही:। इति। तस्मात्। उदकम्:। उच्यते। १३.४।
+एकः। वः। देवः। अपि। अतिष्ठत्। स्यन्दमानाः। यथाऽवशम्। उत्। आनिषुः। महीः। इति। तस्मात्। उदकम्ः। उच्यते। १३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

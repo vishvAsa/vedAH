@@ -21,10 +21,9 @@ obviously necessary correction. The comm. reads *tvayā*.
 Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, who lookest all ways, we wipe it off.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। दु:ऽकृतम्। यत्। शमलम्। यत्। वा। चेरिम। पापया। त्वया। तत्। विश्वत:ऽमुख। अपामार्ग। अप। मृज्महे। ६७.२।
+यत्। दुःऽकृतम्। यत्। शमलम्। यत्। वा। चेरिम। पापया। त्वया। तत्। विश्वतःऽमुख। अपामार्ग। अप। मृज्महे। ६७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

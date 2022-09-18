@@ -22,7 +22,6 @@ to refer to rebirth: cf. Praśna Upanishad, i. 9.⌋
 Forward in spirit would he fly, and often turns he back again, Whomso Carnivorous Agni from anear discovers and torments.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रऽइव। पिपतिषति। मनसा। मुहुः। आ। वर्तते। पुनः। क्रव्यऽअत्। यान्। अग्निः। अन्तिकात्। अनुऽविद्वान्। विऽतावति। २.५२।

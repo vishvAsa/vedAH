@@ -17,10 +17,9 @@ pass over as with a boat: gleaming away our evil.
 O thou whose face looks every way, bear off our foes as in a ship. His lustre flash our pain away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्विष:। न:। विश्वत:ऽमुख। अति। नावाऽइव। पारय। अप। न:। शोशुचत्। अघम्। ३३.७।
+द्विषः। नः। विश्वतःऽमुख। अति। नावाऽइव। पारय। अप। नः। शोशुचत्। अघम्। ३३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

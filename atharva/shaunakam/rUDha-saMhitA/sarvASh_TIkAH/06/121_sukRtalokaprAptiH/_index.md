@@ -7,7 +7,6 @@ title = "१२१ सुकृतलोकप्राप्तिः"
 121. For release from evil.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुकृतलोकप्राप्तिः  
@@ -19,8 +18,6 @@ title = "१२१ सुकृतलोकप्राप्तिः"
 [Kāuśika.—[caturṛcam.] mantroktadevatyam. 1, 2. triṣṭubh; 3, 4. anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. ⌊For vss. 3, 4, cf. v. Schroeder, Zwei Hss., p. 15,
 ### Translations
 Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 </details>
+

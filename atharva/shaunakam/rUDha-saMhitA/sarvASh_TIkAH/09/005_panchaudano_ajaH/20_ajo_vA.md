@@ -19,10 +19,9 @@ middle, the quarters its (two) sides, the (two) oceans its paunches;
 This Unborn cleft apart in the beginning: his breast became the earth, his back was heaven. His middle was the air, his sides the regions; the hollows of his belly formed both oceans.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। वै। इदम्। अग्रे। वि। अक्रमत। अस्य। उर:। इयम्। अभवत्। द्यौ:। पृष्ठम्। अन्तर‍िक्षम्। मध्यम्। दिश:। पार्श्वे  इति। समुद्रौ। कुक्षी इति। ५.२०।
+अजः। वै। इदम्। अग्रे। वि। अक्रमत। अस्य। उरः। इयम्। अभवत्। द्यौः। पृष्ठम्। अन्तर‍िक्षम्। मध्यम्। दिशः। पार्श्वे  इति। समुद्रौ। कुक्षी इति। ५.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

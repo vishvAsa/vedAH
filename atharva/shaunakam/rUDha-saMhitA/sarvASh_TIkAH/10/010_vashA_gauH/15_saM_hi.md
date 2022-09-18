@@ -18,7 +18,6 @@ Some of the mss. (P.M.E.) read in **c** *aty akṣad* (K. *akṣyad*).
 Come with the Sun, come hitherward with every creature that hath eyes, Bearing auspicious lights with her the Cow hath looked across the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। हि। सूर्येण। अगत। सम्। ऊं इति। सर्वेण। चक्षुषा। वशा। समुद्रम्। अति। अख्यत्। भद्रा। ज्योतींषि। बिभ्रती। १०.१५।

@@ -21,10 +21,9 @@ The Anukr. reads 7 + 16: 5 = 28 syllables.
 Thou art my wall of stone against the sinner who from points intermediate fights against me. May he encounter it!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। य:। मा। दिशाम्। अन्त:ऽदेशेभ्य:। अघऽयु:। अभिऽदासात्। एतत्। स:। ऋच्छात्। १०.७।
+अश्मऽवर्म। मे। असि। यः। मा। दिशाम्। अन्तःऽदेशेभ्यः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

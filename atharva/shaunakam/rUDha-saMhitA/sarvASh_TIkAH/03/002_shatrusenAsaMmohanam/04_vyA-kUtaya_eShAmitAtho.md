@@ -23,10 +23,9 @@ rather, 'that of them smite thou out from \[them\].'⌋
 Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! Whatever wish is in their heart, do thou expel it utterly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। आऽकूतय:। एषाम्। इत। अथो इति। चित्तानि। मुह्यत। अथो इति। यत्। अद्य। एषाम्। हृदि। तत्। एषाम्। परि। नि:। जहि। २.४।
+वि। आऽकूतयः। एषाम्। इत। अथो इति। चित्तानि। मुह्यत। अथो इति। यत्। अद्य। एषाम्। हृदि। तत्। एषाम्। परि। निः। जहि। २.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

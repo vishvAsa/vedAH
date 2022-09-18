@@ -20,7 +20,6 @@ Ppp. reads in **b** *tridive* for *tryare*, and, in **c**, *antar* for
 Men deep in lore of Brahma know that Animated Being which Dwells in the golden treasure-chest that hath three spokes and three supports.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्मिन्। हिरण्यये। कोशे। त्र्यऽअरे। त्रिऽप्रतिस्थिते। तस्मिन्। यत्। यक्षम्। आत्मन्ऽवत्। तत्। वै। ब्रह्मऽविदः। विदुः। २.३२।

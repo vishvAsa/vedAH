@@ -27,10 +27,9 @@ metrical irregularities are ignored by the Anukr.
 The wealth which husbandmen aforetime, digging, like men who find their food with knowledge, buried, This to the King, Vivasvan's son, I offer, Sweet be our food and fit for sacrificing!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। यामम्। यक्रु:। निऽखनन्त:। अग्रे। कार्षीवणा:। अन्नऽविद:। न। विद्यया। वैवस्वते। राजनि। तत्। जुहोमि। अथ। यज्ञियम्। मधुऽमत्। अस्तु। न:। अन्नम्। ११६.१।
+यत्। यामम्। यक्रुः। निऽखनन्तः। अग्रे। कार्षीवणाः। अन्नऽविदः। न। विद्यया। वैवस्वते। राजनि। तत्। जुहोमि। अथ। यज्ञियम्। मधुऽमत्। अस्तु। नः। अन्नम्। ११६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

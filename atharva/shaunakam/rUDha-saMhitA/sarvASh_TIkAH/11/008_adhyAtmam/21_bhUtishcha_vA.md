@@ -19,7 +19,6 @@ Ppp. combines *vā ’bhūtiś* in **a**.
 Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every kind entered the body as a home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भूतिः। च। वै। अभूतिः। च। रातयः। अरातयः। च। याः। क्षुधः। च। सर्वाः। तृष्णा। च। शरीरम्। अनु। प्र। अविशन्। १०.२१।

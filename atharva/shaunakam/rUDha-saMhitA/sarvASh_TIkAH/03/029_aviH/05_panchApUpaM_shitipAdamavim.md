@@ -20,10 +20,9 @@ above). In our edition, *sūryamāsáyor* is a misprint for *sūryām-*.
 He who bestows a white-hooved ram, adequate to the place he holds, Offered with five cakes, lives on that, wasteless, while Sun and. Moon endure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। सूर्यामासयो:। अक्षितम्। २९.५।
+पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। सूर्यामासयोः। अक्षितम्। २९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

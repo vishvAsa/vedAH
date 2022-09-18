@@ -27,7 +27,6 @@ at xii. 1. 35; etc.⌋
 Our feet are on this pleasant path, easy to travel, bringing bliss, Whereon no hero suffers harm, which wins the wealth of other men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। इमम्। पन्थाम्। अरुक्षाम। सुऽगम्। स्वस्तिऽवाहनम्। यस्मिन्। वीरः। न। रिष्यति। अन्येषाम्। विन्दते। वसु। २.८।

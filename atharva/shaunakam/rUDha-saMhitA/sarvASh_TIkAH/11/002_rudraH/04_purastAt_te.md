@@ -19,7 +19,6 @@ mostly wanting in Ppp.
 We offer reverence to thee from eastward, and from north and south, From all the compass of the sky, to thee and to the firmament.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुरस्तात्। ते। नमः। कृण्मः। उत्तरात्। अधरात्। उत। अभिऽवर्गात्। दिवः। परि। अन्तरिक्षाय। ते। नमः। २.४।

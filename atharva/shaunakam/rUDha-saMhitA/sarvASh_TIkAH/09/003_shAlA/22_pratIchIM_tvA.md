@@ -21,10 +21,9 @@ Ppp. reads at the end *prathamobhā*. The mss. all have *ca rtásya* in
 Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire and Water are within, the first chief door of sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रतीचीम्। त्वा। प्रतीचीन:। शाले। प्र। एमि। अहिंसतीम्। अग्नि:। हि। अन्त:। आप:। च। ऋतस्य। प्रथमा। द्वा:। ३.२२।
+प्रतीचीम्। त्वा। प्रतीचीनः। शाले। प्र। एमि। अहिंसतीम्। अग्निः। हि। अन्तः। आपः। च। ऋतस्य। प्रथमा। द्वाः। ३.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

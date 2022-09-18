@@ -22,7 +22,6 @@ be meant to apply to is doubtful. All the *saṁhitā*-mss. combine
 Who out of many, tell me, is that Skambha. In whom the Sages earliest born, the Richas, Saman, Yajus, Earth, and the one highest Sage abide?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। ऋषयः। प्रथमऽजाः। ऋचः। साम। यजुः। मही। एकऽऋषिः। यस्मिन्। आर्पितः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१४।

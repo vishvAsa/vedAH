@@ -21,7 +21,6 @@ The version is in part only mechanical. Ppp. combines *ṛtā ”babh-* in
 The Mother gave the Sire his share of Order. With thought at first she wedded him in spirit. She, coyly loth, was filled with dew prolific. With adoration men approached to praise her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 माता। पितरम्। ऋते। आ। बभाज। धीती। अग्रे। मनसा। सम्। हि। जग्मे। सा। बीभत्सुः। गर्भऽरसा। निऽविध्दा। नमस्वन्तः। इत्। उपऽवाकम्। ईयुः। १४.८।

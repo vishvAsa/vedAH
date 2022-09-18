@@ -23,7 +23,6 @@ different text: *sarpaṁ bibhratī surabhir;* and it reads *sūkareṇa* in
 Supporting both the foolish and the weighty she bears the death both of the good and evil. In friendly concord with the boar, Earth opens herself for the wild swine that roams the forest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मल्वम्। बिभ्रती। गुरुऽभृत्। भद्रऽपापस्य। निऽधनम्। तितिक्षुः। वराहेण। पृथिवी। सम्ऽविदाना। सूकराय। वि। जिहीते। मृगाय। १.४८।

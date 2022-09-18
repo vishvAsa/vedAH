@@ -20,7 +20,6 @@ Ppp. has for **d** *yas tvā śuśrāva śuśruvaḥ;* and the comm. also reads
 As all these living creatures are thy tributaries, Prana, so Shall they bring tribute unto him who hears thee with attentive ears.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। प्राण। बलिऽहृतः। तुभ्यम्। सर्वाः। प्रऽजाः। इमाः। एव। तस्मै। बलिम्। हरान्। यः। त्वा। शृणवत्। सुऽश्रवः। ६.१९।

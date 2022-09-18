@@ -19,7 +19,6 @@ RV. and our text.
 With that same eye of thine wherewith thou seest, brilliant Varuna. The active one among mankind,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। पावक। चक्षसा। भुरण्यन्तम्। जनान्। अनु। त्वम्। वरुण। पश्यसि। २.२१।

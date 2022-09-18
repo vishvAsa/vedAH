@@ -7,7 +7,6 @@ title = "०७४ सांमनस्यम्"
 74. For harmony.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -18,8 +17,6 @@ title = "०७४ सांमनस्यम्"
 
 [Atharvan.—(as above.) ānuṣṭubham: 3. triṣṭubh, triṇāmadevatyā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Griffith, i. 285; Bloomfield, 135, 495.
 
 A King's charm to secure the fidelity of his people
 </details>
+

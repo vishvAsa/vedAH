@@ -20,10 +20,9 @@ book ii. it has the whole half-verse just as it stands here.
 Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it before him, face to face, that it may kill the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुन:। कृत्याम्। कृत्याऽकृते। हस्तऽगृह्य। परा। नय। सम्ऽअक्षम्। अस्मै। आ। धेहि। यथा। कृत्याऽकृतम्। हनत्। १४.४।
+पुनः। कृत्याम्। कृत्याऽकृते। हस्तऽगृह्य। परा। नय। सम्ऽअक्षम्। अस्मै। आ। धेहि। यथा। कृत्याऽकृतम्। हनत्। १४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

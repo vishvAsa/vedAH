@@ -28,7 +28,6 @@ syllable makes a regular *triṣṭubh* of it.
 Manifold, various are the shapes of victims. Thou growest uni- form by great abundance. Push thou away this skin of ruddy colour: the stone will cleanse as one who cleanses raiment.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृथक्। रूपाणि। बहुऽधा। पशूनाम्। एकऽरूपः। भवसि। सम्। सम्ऽऋध्द्या। एताम्। त्वचम्। लोहिनीम्। ताम्। नुदस्व। ग्रावा। शुम्भाति। मलगःऽइव। वस्त्रा। ३.२१।

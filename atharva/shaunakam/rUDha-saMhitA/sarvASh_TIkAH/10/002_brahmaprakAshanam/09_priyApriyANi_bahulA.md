@@ -19,7 +19,6 @@ Ppp. reads in **b** *-tandriyaḥ*, and in **d** again *pāur-*.
 Whence bringeth mighty Purusha both pleasant and unpleasant things, Of varied sort, sleep, and alarm, fatigue, enjoyments and de- lights?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रियऽअप्रियाणि। बहुला। स्वप्नम्। संबाधऽतन्‍द्र्यः। आऽनन्दान्। उग्रः। नन्दान्। च। कस्मात्। वहति। पुरुषः। २.९।

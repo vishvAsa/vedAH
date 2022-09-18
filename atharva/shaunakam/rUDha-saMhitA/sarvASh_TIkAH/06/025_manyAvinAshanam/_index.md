@@ -7,7 +7,6 @@ title = "०२५ मन्याविनाशनम्"
 25. For relief from pains (?) in neck and shoulders.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मन्याविनाशनम्  
@@ -18,8 +17,6 @@ title = "०२५ मन्याविनाशनम्"
 
 [śunaḥśepa.—mantroktamanyā[di]vināśanadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Kuhn, KZ. xiii. 130 (with Germanic parallels); Florenz, 280 or 32; G
 
 A charm to remove pustules or scrofulous swellings (apachitas)
 </details>
+

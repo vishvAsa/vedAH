@@ -28,7 +28,6 @@ should have dattvā́.⌋
 Her who first guided by a rein came hither, giving the bride, here offspring and possessions, Let them convey along the future's pathway. Splendid, with noble children, she hath conquered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। इदम्। पूर्वा। अगन्। रशनाऽयमाना। प्रऽजाम्। अस्यै। द्रविणम्। च। इह। दत्त्वा। ताम्। वहन्तु। अगतस्य। अनु। पन्थाम्। विऽराट्। इयम्। सुऽप्रजाः। अति। अजैषीत्। २.७४।

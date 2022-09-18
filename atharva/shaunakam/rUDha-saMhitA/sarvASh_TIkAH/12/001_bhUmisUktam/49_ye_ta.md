@@ -29,7 +29,6 @@ note to xv. 5. 7.⌋
 All sylvan beasts of thine that love the woodlands, man-eaters,. forest-haunting, lions, tigers, Hyena, wolf, Misfortune, evil spirit, drive from us, chase the demons to a distance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। ते। आरण्याः। पशवः। मृगाः। वने। हिताः। सिंहाः। व्याघ्रा। पुरुषऽअदः। चरन्ति। उलम्। वृकम्। पृथिव‍ि। दुच्छुनाम्। इतः। ऋक्षीकाम्। रक्षः। अप। बाधय। अस्मत्। १.४९।

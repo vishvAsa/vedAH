@@ -31,10 +31,9 @@ by *śarīre, śrayasva* by *āssva.*
 The tribesmen shall elect thee for the Kingship, these five celestial regions shall elect thee. Rest on the height and top of kingly power: thence as a mighty man award us treasures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वाम्। विश:। वृणताम्। राज्याय। त्वाम्। इमा:। प्रऽदिश:। पञ्च। देवी:। वर्ष्मन्। राष्ट्रस्य। ककुदि। श्रयस्व। तत:। न:। उग्र:। वि। भज। वसूनि। ४.२।
+त्वाम्। विशः। वृणताम्। राज्याय। त्वाम्। इमाः। प्रऽदिशः। पञ्च। देवीः। वर्ष्मन्। राष्ट्रस्य। ककुदि। श्रयस्व। ततः। नः। उग्रः। वि। भज। वसूनि। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

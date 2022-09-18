@@ -18,10 +18,9 @@ Ppp. again gives *sayujas sv-*.
 Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his fervours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्णु:। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुज:। स्वाहा। २६.७।
+विष्णुः। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ irregular than the Anukr. admits.
 Each thoughtless ill that we have done, O Agni, all error in our conduct, Jatavedas! Therefrom do thou, O sapient God, preserve us. May we thy friends, for bliss, have life eternal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अस्मृति। चकृम। किम्। चित्। अग्ने। उपऽआरिम। चरणे। जातऽवेद:। तत:। पाहि। त्वम्। न:। प्रऽचेत:। शुभे। सखिऽभ्य:। अमृतऽत्वम्। अस्तु। न:। १११.१।
+यत्। अस्मृति। चकृम। किम्। चित्। अग्ने। उपऽआरिम। चरणे। जातऽवेदः। ततः। पाहि। त्वम्। नः। प्रऽचेतः। शुभे। सखिऽभ्यः। अमृतऽत्वम्। अस्तु। नः। १११.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

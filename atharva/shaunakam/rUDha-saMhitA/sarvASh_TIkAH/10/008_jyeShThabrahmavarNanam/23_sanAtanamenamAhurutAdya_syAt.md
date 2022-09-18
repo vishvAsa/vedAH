@@ -19,7 +19,6 @@ The *pada*-text reads *anyáḥ:* *anyásya* in **d**, although the masc.
 Him too they call eternal; he may become new again to-day. Day and Night reproduce themselves, each from the form the other wears.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सनातनम्। एनम्। आहुः। उत। अद्य। स्यात्। पुनःऽनवः। अहोरात्रे इति। प्र। जायेते इति। अन्यः। अन्यस्य। रूपयोः। ८.२३।

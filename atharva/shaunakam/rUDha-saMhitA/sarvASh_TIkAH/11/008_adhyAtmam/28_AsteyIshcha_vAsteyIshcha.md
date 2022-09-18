@@ -29,7 +29,6 @@ have been intended by some among them. The comm. derives the word from
 They laid in the abhorrent frame those waters hidden, bright, and thick, Which in the bowels spring from blood, from mourning or from hasty toil.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आस्तेयीः। च। वास्तेयीः। च। त्वरणाः। कृपणाः। च। याः। गुह्याः। शुक्राः। स्थूलाः। अपः। ताः। बीभत्सौ। असादयन्। १०.२८।

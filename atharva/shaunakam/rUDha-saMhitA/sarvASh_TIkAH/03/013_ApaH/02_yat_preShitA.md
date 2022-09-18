@@ -24,10 +24,9 @@ comm. reads instead *stana.*
 As driven forth by Varuna ye swiftly urged your rolling waves, There Indra reached you as you flowed; hence ye are still the Water-floods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। प्रऽइषिता:। वरुणेन। आत्। शीभम्। सम्ऽअवल्गत। तत्। आप्नोत्। इन्द्र:। व:। यती:। तस्मात्। आप:। अनु। स्थन। १३.२।
+यत्। प्रऽइषिताः। वरुणेन। आत्। शीभम्। सम्ऽअवल्गत। तत्। आप्नोत्। इन्द्रः। वः। यतीः। तस्मात्। आपः। अनु। स्थन। १३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

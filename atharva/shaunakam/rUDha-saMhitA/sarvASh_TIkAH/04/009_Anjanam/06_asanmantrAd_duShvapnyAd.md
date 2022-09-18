@@ -22,10 +22,9 @@ understand *asanmantrá* as simply "untrue speech" (so Grill,
 From lying speech, from evil dream, from wicked act and sinfulness, From hostile and malignant eye,--from these, O Salve, protect us well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असत्ऽमन्त्रात्। दु:ऽस्वप्न्यात्। दु:ऽकृतात्। शमलात्। उत। दु:ऽहार्द:। चक्षुष:। घोरात्। तस्मात्। न:। पाहि। आऽअञ्जन। ९.६।
+असत्ऽमन्त्रात्। दुःऽस्वप्न्यात्। दुःऽकृतात्। शमलात्। उत। दुःऽहार्दः। चक्षुषः। घोरात्। तस्मात्। नः। पाहि। आऽअञ्जन। ९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

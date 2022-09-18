@@ -27,10 +27,9 @@ ibidem, liv. 510 ff. Cf. also note to xviii. 3. 40.⌋
 Let Rudra break your necks, O ye Pisachas, and split your ribs asunder, Yatudhanas! Your herb of universal power with Yama hath allied itself.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रुद्र:। व:। ग्रीवा:। अशरैत्। पिशाचा:। पृष्टी:। व:। अपि। शृणातु। यातुऽधाना:। वीरुत्। व:। विश्वत:ऽवीर्या। यमेन। सम्। अजीगमत्। ३२.२।
+रुद्रः। वः। ग्रीवाः। अशरैत्। पिशाचाः। पृष्टीः। वः। अपि। शृणातु। यातुऽधानाः। वीरुत्। वः। विश्वतःऽवीर्या। यमेन। सम्। अजीगमत्। ३२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

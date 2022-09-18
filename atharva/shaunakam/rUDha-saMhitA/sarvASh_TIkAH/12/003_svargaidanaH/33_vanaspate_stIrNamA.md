@@ -32,7 +32,6 @@ verse there intended must be rather vi. 125. 1).
 On the strewn grass. Vanaspati, be seated; commensurate with Gods and Agnishtomas. Let thy fair form, wrought as by Tvashtar's hatchet, mark these that yearn for thee within the vessel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वनस्पते। स्तीर्णम्। आ। सीद। बर्हिः। अग्निऽस्तोमैः। सम्ऽमितः। देवताभिः। त्वष्ट्राऽइव। रूपम्। सुऽकृतम्। स्वऽधित्या। एना। एहाः। परि। पात्रे। दहश्राम्। ३.३३।

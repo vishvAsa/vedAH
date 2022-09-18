@@ -26,10 +26,9 @@ notice.
 May Tvashtar, Brahmanaspati, Parjanya hear my holy prayer. May Aditi with all her sons, the brothers, guard us, invincible, protecting power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वष्टा। मे। दैव्यम्। वच:। पर्जन्य:। ब्रह्मण:। पति:। पुत्रै:। भातृऽभि:। अदिति:। नु। पातु:। न:। दुस्तरम्। त्रायमाणम्। सह:। ४.१।
+त्वष्टा। मे। दैव्यम्। वचः। पर्जन्यः। ब्रह्मणः। पतिः। पुत्रैः। भातृऽभिः। अदितिः। नु। पातुः। नः। दुस्तरम्। त्रायमाणम्। सहः। ४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ corruption.
 Here, ignorant, I ask the wise who know it, as one who knows not, for the sake of knowledge, What is That One, who in the Unborn's image hath stablished and fixed firm this world's six regions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अचिकित्वान्। चिकितुषः। चित्। अत्र। कवीन्। पृच्छामि। विद्वनः। न। विद्वान्। वि। यः। तस्तम्भ। षट्। इमा। रजांसि। अजस्य। रूपे। किम्। अपि। स्वित्। एकम्। १४.७।

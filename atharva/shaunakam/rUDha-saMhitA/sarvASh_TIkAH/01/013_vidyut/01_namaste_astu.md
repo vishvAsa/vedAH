@@ -26,10 +26,9 @@ of *áśmane*.
 Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homage to thee, the Stone which thou hurlest against the undevout!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। अस्तु। विऽद्युते। नम:। ते। स्तनयित्नवे। नम:। ते। अस्तु। अश्मने। येन। दु:ऽदाशे। अस्यसि। १३.१।
+नमः। ते। अस्तु। विऽद्युते। नमः। ते। स्तनयित्नवे। नमः। ते। अस्तु। अश्मने। येन। दुःऽदाशे। अस्यसि। १३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

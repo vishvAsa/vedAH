@@ -22,7 +22,6 @@ of this verse as of 15.
 That tool of hatred, understood, made ready, stealthy and buried deep, have we discovered, Let that go back to whence it came, turn thither like a horse and kill the children of the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उपऽआहृतम्। अनुऽबुध्दम्। निऽखातम्। वैरम्। त्सारि। अनु। अविदाम। कर्त्रम्। तत्। एतु। यतः। आऽभृतम्। तत्र। अश्वःऽइव। वि। वर्तताम्। हन्तु। कृत्याऽकृतः। प्रऽजाम्। १.१९।

@@ -20,7 +20,6 @@ acceptable improvement.
 The Father's sire, the Residue, grandson of Spirit, primal Sire, Lord of the universe, the Bull, dwells on the earth victorious.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पिता। जनितुः। उत्ऽशिष्टः। असोः। पौत्रः। पितामहः। सः। क्षियति। विश्वस्य। ईशानः। वृषा। भूम्याम्। अतिऽघ्न्यः। ९.१६।

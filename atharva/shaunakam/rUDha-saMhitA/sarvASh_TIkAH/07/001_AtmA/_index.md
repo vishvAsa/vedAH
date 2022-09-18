@@ -7,7 +7,6 @@ title = "००१ आत्मा"
 1. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "००१ आत्मा"
 
 [Atharvan (brahmavarcasahāmaḥ).—dvyṛcam. ātmadevatyam. trāiṣṭubham: 2. virāḍjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, i, 47; Griffith, i. 327.
 
 Glorification of the power of prayer and to Agni
 </details>
+

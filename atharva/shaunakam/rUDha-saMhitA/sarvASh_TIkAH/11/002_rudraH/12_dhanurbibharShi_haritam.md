@@ -22,7 +22,6 @@ and with the comm. ⌊cf. note to x. 4. 7 and Henry's note⌋; Ppp. gives
 A yellow bow of gold thou wieldest, slaying its hundred, tufted God! smiting its thousand. Weapon of Gods, far flies the shaft of Rudra: wherever it may be, we pay it homage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 धनुः। बिभर्षि। हरितम्। हिरण्ययम्। सहस्रऽघ्नि। शतऽवधम्। शिखण्डिन्। रुद्रस्य। इषुः। चरति। देवऽहेतिः। तस्यै। नमः। यतमस्याम्। दिशि। इतः। २.१२।

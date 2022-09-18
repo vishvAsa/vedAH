@@ -21,7 +21,6 @@ inserts *‘śveṣu* before *goṣu*.⌋
 Covet not thou our kine or men, covet not thou our goats or sheep. Elsewhither, strong One! turn thine aim: destroy the mockers' family.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। गोषु। पुरुषेषु। मा। गृधः। नः। अजऽअविषु। अन्यत्र। उग्र। वि। वर्तय। पियारूणाम्। प्रऽजाम्। जहि। २.२१।

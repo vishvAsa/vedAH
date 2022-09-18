@@ -16,7 +16,6 @@ title = "२२ तं त्वौदनस्य"
 I ask thee, of this Odana what is the mighty magnitude.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। त्वा। ओदनस्य। पृच्छामि। यः। अस्य। महिमा। महान्। ३.२२।

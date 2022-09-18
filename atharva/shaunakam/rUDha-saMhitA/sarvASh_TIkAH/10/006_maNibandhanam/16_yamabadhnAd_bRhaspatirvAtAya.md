@@ -20,7 +20,6 @@ The *pada*-text resolves *yudhā́jayan* erroneously into *yudhā́ ájayan*
 Wearing this Amulet the Gods conquered in battle all the worlds. This yieldeth victory for them, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। देवाः। बिभ्रतः। मणिम्। सर्वान्। लोकान्। युधा। अजयन्। सः। एभ्यः। जितिम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१६।

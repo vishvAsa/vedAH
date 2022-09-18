@@ -17,7 +17,6 @@ sense (*indriyá*), and fortune, and virtue (*dhárma*),—
 The energy and vigour, the power and might the speech and mental strength, the glory and duty;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओजः। च। तेजः। च। सहः। च। बलम्। च। वाक्। च। इन्द्रियम्। च। श्रीः। च। धर्मः। च। ६.१।

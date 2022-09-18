@@ -26,10 +26,9 @@ a trisyllable⌋.
 To Rudra in the fire, to him who dwells in floods, to Rudra who hath entered into herbs and plants, To him who formed and fashioned all these worlds, to him this Rudra, yea, to Agni, reverence be paid!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अग्नौ। रुद्र:। य:। अप्ऽसु। अन्त:। य:। ओषधी:। वीरुध:। आऽविवेश। य:। इमा। विश्वा। भुवनानि। चक्लृपे। तस्मै। रुद्राय। नम:। अस्तु। अग्नये। ९२.१।
+यः। अग्नौ। रुद्रः। यः। अप्ऽसु। अन्तः। यः। ओषधीः। वीरुधः। आऽविवेश। यः। इमा। विश्वा। भुवनानि। चक्लृपे। तस्मै। रुद्राय। नमः। अस्तु। अग्नये। ९२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

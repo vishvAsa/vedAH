@@ -23,10 +23,9 @@ savitar* (for *bramaṇaspate*).
 Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, These jaws thou, Brahmanaspati! shalt bend together like a reed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। य:। वक्र:। विऽपरु:। विऽअङ्ग:। मुखानि। वक्रा। वृजिना। कृणोषि। तानि। त्वम्। ब्रह्मण:। पते। इषीकाम्ऽइव। सम्। नम:। ५८.४।
+अयम्। यः। वक्रः। विऽपरुः। विऽअङ्गः। मुखानि। वक्रा। वृजिना। कृणोषि। तानि। त्वम्। ब्रह्मणः। पते। इषीकाम्ऽइव। सम्। नमः। ५८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

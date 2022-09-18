@@ -27,7 +27,6 @@ The **d** of *aṣṭā́cakra*, and its retention in the *pada*-text
 It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forward and backward. With one half it engendered all creation. What sign is there to tell us of the other?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अष्टाऽचक्रम्। वर्तते। एकऽनेमि। सहस्रऽअक्षरम्। प्र। पुरः। नि। पश्चा। अर्धेन। विश्वम्। भुवनम्। जजान। यत्। अस्य। अर्धम्। कतमः। सः। केतुः। ६.२२।

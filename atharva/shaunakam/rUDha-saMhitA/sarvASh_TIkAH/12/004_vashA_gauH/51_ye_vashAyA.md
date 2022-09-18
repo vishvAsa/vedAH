@@ -18,7 +18,6 @@ Ppp. combines in **a** *vaśāyā ’dā-*, and in **c-d** *jālmā ”vṛś-*.
 The men of evil counsel who advise refusal of the Cow, Miscreants, through their foolishness, are subjected to Indra's wrath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। वशायाः। अदानाय। वदन्ति। परिऽरापिणः। इन्द्रस्य। मन्यवे। जाल्माः। आ। वृश्चन्ते। अचित्त्या। ४.५१।

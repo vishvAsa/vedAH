@@ -21,10 +21,9 @@ problematic accent of *váha* in **c**.
 Thou in the house of man this day enkindled worshippest Gods as God, O Jatavedas. Observant, bright as Mitra, bring them hither. Thou art a sapient and foreknowing envoy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽइध्द:। अद्य। मनुष:। दुरोणे। देव:। देवान्। यजसि। जातऽवेद:। आ। च। वह। मित्रऽमह:। चिकित्वान्। त्वम्। दूत:। कवि:। असि। प्रऽचेता:। १२.१।
+सम्ऽइध्दः। अद्य। मनुषः। दुरोणे। देवः। देवान्। यजसि। जातऽवेदः। आ। च। वह। मित्रऽमहः। चिकित्वान्। त्वम्। दूतः। कविः। असि। प्रऽचेताः। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

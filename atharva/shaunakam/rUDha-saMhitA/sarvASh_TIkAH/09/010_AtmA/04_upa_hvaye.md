@@ -21,7 +21,6 @@ vi. 182.⌋
 I invocate this Milch-cow good at milking, so that the Milker, deft of hand, may milk her. May "Savitar give goodliest stimulation. The caldron is made hot: he will proclaim it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। ह्वये। सुऽदुघाम्। धेनुम्। एताम्। सुऽहस्तः। गोऽधुक्। उत। दोहत्। एनाम्। श्रेष्ठम्। सवम्। सविता। साविषत्। नः। अभिऽइध्दः। घर्मः। तत्। ऊं इति। सु। प्र। वोचत्। १५.४।

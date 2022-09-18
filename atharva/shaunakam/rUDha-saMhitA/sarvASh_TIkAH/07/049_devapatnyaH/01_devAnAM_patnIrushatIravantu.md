@@ -24,10 +24,9 @@ vocative. The comm. reads *yacchatu* at the end; he explains *tujáye* by
 May the Gods' Consorts aid us of their own free will, help us to offspring and the winning of the spoil. May Goddesses who quickly listen shelter us, both those on earth and they within the waters' realm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवानाम्। पत्नी:। उशती:। अवन्तु। न:। प्र। अवन्तु। न:। तुजये। वाजऽसातये। या:। पार्थिवास:। या:। अपाम्। अपि। व्रते। ता:। न:। देवी:। सुऽहवा:। शर्म। यच्छन्तु। ५१.१।
+देवानाम्। पत्नीः। उशतीः। अवन्तु। नः। प्र। अवन्तु। नः। तुजये। वाजऽसातये। याः। पार्थिवासः। याः। अपाम्। अपि। व्रते। ताः। नः। देवीः। सुऽहवाः। शर्म। यच्छन्तु। ५१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

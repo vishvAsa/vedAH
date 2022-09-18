@@ -27,10 +27,9 @@ division.
 Brihaspati protect us from the sinner, from rearward, from above, and from below us! May Indra from the front and from the centre, as friend to friends, vouchsafe us room and freedom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहस्पति:। न:। परि। पातु। पश्चात्। उत। उत्ऽतरस्मान्। अधरात्। अघऽयो:। इन्द्र:। पुरस्तात्। उत। मध्यत:। न:। सखा। सखिऽभ्य:। वरीय:। कृणोतु। ५३.१।
+बृहस्पतिः। नः। परि। पातु। पश्चात्। उत। उत्ऽतरस्मान्। अधरात्। अघऽयोः। इन्द्रः। पुरस्तात्। उत। मध्यतः। नः। सखा। सखिऽभ्यः। वरीयः। कृणोतु। ५३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

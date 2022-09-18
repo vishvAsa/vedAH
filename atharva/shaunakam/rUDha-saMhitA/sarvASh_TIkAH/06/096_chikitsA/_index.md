@@ -7,7 +7,6 @@ title = "०९६ चिकित्सा"
 96. For relief from sin and distress.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 चिकित्सा।  
@@ -19,8 +18,6 @@ title = "०९६ चिकित्सा"
 [Bhṛgvan̄giras.—vānaspatyam: 3. sāumyā. ānuṣṭubham: 3. 3-p. virāṇ nāma gāyatrī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (for other correspondences, see under the verses). Em
 ### Translations
 Translated: Ludwig, p. 506; Grill, 38, 168; Griffith, i. 297; Bloomfield, 44, 509.
 </details>
+

@@ -23,10 +23,9 @@ svarge loke sthāne yajamānena saha nivasanti*).
 Ye who are present, unto you I offer this treasure brought to us by Jatavedas Happily will the sacrificer follow: do ye acknowledge him in highest heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एतम्। सधऽस्था:। परि। व:। ददामि। यम्। शेवऽधिम्। आऽवहात्। जातऽवेदा:। अनुऽआगन्ता। यजमान:। स्वस्ति। तम्। स्म। जानीत। परमे। विऽओमन्। १२३.१।
+एतम्। सधऽस्थाः। परि। वः। ददामि। यम्। शेवऽधिम्। आऽवहात्। जातऽवेदाः। अनुऽआगन्ता। यजमानः। स्वस्ति। तम्। स्म। जानीत। परमे। विऽओमन्। १२३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

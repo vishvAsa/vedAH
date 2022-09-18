@@ -23,7 +23,6 @@ yachāt*.
 Here thy devotion is, here is thy birthplace. Aditi, Mother of brave sons, accept thee! Wipe away those who fight against this woman with wealth and store of goodly sons endow her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इयम्। ते। धीतिः। इदम्। ऊं इति। ते। जनित्रम्। गृह्णातु। त्वाम्। अदितिः। शूरऽपुत्रा। परा। पुनीहि। ये। इमाम्। पृतन्यवः। अस्यै। रयिम्। सर्वऽवीरम्। नि। यच्छ। १.११।

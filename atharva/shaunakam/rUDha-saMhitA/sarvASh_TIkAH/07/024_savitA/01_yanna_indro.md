@@ -21,10 +21,9 @@ authorities.
 What treasure hath been dug for us by Indra, by Agni, Visve- devas, tuneful Maruts, On us may Savitar whose laws are faithful, Prajapati, and Heavenly Grace bestow it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। न:। इन्द्र:। अखनत्। यत्। अग्नि:। विश्वे। देवा:। मरुत:। यत्। सुऽअर्का:। तत्। अस्मभ्यम्। सविता। सत्यऽधर्मा। प्रजाऽपति:। अनुऽपति:। नि। यच्छात्। २५.१।
+यत्। नः। इन्द्रः। अखनत्। यत्। अग्निः। विश्वे। देवाः। मरुतः। यत्। सुऽअर्काः। तत्। अस्मभ्यम्। सविता। सत्यऽधर्मा। प्रजाऽपतिः। अनुऽपतिः। नि। यच्छात्। २५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

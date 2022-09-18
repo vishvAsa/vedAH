@@ -21,7 +21,6 @@ takes no notice of any deficiency in **c**; we may best resolve
 The Cow deprives of progeny and makes him poor in cattle who Retains in his possession her whom Brahmans have solicited.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनपत्यम्। अल्पऽपशुम्। वशा। कृणोति। पुरुषम्। ब्राह्मणैः। च। याचिताम्। अथ। एनाम्। निऽप्रिययते। ४.२५।

@@ -20,7 +20,6 @@ and further *bhūtābhavyam* in **a**, and *brahmacāriṇā* at the end.
 The plants, what is and what shall be, day, night, the tall tree of the wood, The year with seasons of the year, all from the Brahmachari sprang.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओषधयः। भूतऽभव्यम्। अहोरात्रे इति। वनस्पतिः। सम्ऽवत्सरः। सह। ऋतुऽभिः। ते। जाताः। ब्रह्मऽचारिणः। ७.२०।

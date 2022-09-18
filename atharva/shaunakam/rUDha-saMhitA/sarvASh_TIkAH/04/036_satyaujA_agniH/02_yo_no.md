@@ -23,10 +23,9 @@ xvi. 7. 3.
 Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay between the doubled fangs of Agni, of Vaisvanara.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। दिप्सात्। अदिप्सत:। दिप्सत:। य:। च। दिप्सति। वैश्वानरस्य। दंष्ट्रयो:। अग्ने। अपि। दधामि। तम्। ३६.२।
+यः। नः। दिप्सात्। अदिप्सतः। दिप्सतः। यः। च। दिप्सति। वैश्वानरस्य। दंष्ट्रयोः। अग्ने। अपि। दधामि। तम्। ३६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

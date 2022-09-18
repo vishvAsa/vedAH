@@ -19,7 +19,6 @@ guests, then he is even going down unto the purifactory bath
 Or if the host, having offered food to his guest, goes up to the house, he virtually enters the bath of purification.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। वै। अतिथिऽपतिः। अतिथीन्। परिऽविष्य। गृहान्। उपऽउदैति। अवऽभृथम्। एव। तत्। उपऽअवैति। ११.५।

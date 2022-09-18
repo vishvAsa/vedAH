@@ -30,10 +30,9 @@ noting. In our edition, the accent mark under the first syllable of
 Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine act, in this my sacerdotal charge, in this perfor- mance, in this thought, in this my plan and wish, in this my calling on the Gods! All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सविता। प्रऽसवानाम्। अधिऽपति:। स:। मा। अवतु। अस्मिन्। ब्रह्मणि। अस्मिन्। कर्मणि। अस्याम्। पुर:ऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१।
+सविता। प्रऽसवानाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। ब्रह्मणि। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

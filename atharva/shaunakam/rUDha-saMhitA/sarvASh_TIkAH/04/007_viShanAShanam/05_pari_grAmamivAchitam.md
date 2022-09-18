@@ -24,10 +24,9 @@ of **c** is probably *vṛkṣé ’va sthā́-mn-i*.
 We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet like a rooted tree. Dug up with mattocks, gripe not thou.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। ग्रामम्ऽइव। आऽचितम्। वचसा। स्थापयामसि। तिष्ठ। वृक्ष:ऽइव। स्थाम्नि। अभ्रिऽखाते। न। रूरुप:। ७.५।
+परि। ग्रामम्ऽइव। आऽचितम्। वचसा। स्थापयामसि। तिष्ठ। वृक्षःऽइव। स्थाम्नि। अभ्रिऽखाते। न। रूरुपः। ७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

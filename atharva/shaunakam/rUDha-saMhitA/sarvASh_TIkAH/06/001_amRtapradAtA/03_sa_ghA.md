@@ -31,10 +31,9 @@ read *sā́viṣat*, with accent. The Anukr. seems to scan 11 + 6: 9 = 26.
 Savitar our God shall send us many everlasting treasures, that both paths may well be travelled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। घ। न:। देव:। सविता। साविषत्। अमृतानि। भूरि। उभे इति। सुस्तुती इति सुऽस्तुती। सुऽगातवे। १.३।
+सः। घ। नः। देवः। सविता। साविषत्। अमृतानि। भूरि। उभे इति। सुस्तुती इति सुऽस्तुती। सुऽगातवे। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

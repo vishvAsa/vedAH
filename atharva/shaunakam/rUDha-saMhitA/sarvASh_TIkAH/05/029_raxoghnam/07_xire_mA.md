@@ -19,10 +19,9 @@ Ppp. reads in **a** *kṣīre tvā māṅse*, and in **b** *-pāśye*.
 If one hath cheated me in milk or porridge, in food from grain or plants that need no culture. Let the Pisachas, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्षीरे। मा। मन्थे। यतम:। ददम्भ। अकृष्टऽपच्ये। अशने। धान्ये। य:। तत्। आत्मना। प्रऽजया। पिशाचा:। वि। यातयन्ताम्। अगद:। अयम्। अस्तु। २९.७।
+क्षीरे। मा। मन्थे। यतमः। ददम्भ। अकृष्टऽपच्ये। अशने। धान्ये। यः। तत्। आत्मना। प्रऽजया। पिशाचाः। वि। यातयन्ताम्। अगदः। अयम्। अस्तु। २९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

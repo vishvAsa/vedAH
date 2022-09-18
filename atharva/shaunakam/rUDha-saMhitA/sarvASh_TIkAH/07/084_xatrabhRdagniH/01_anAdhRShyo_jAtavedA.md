@@ -32,10 +32,9 @@ so divides.
 Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With succours friendly to mankind, auspicious, driving away all maladies, guard our dwelling.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनाधृष्य:। जातऽवेदा:। अमर्त्य:। विऽराट्। अग्ने। क्षत्रऽभृत्। दीदिहि। इह। विश्वा:। अमीवा:। प्रऽमुञ्चन्। मानुषीभि:। शिवाभि:। अद्य। परि। पाहि। न:। गयम्। ८९.१।
+अनाधृष्यः। जातऽवेदाः। अमर्त्यः। विऽराट्। अग्ने। क्षत्रऽभृत्। दीदिहि। इह। विश्वाः। अमीवाः। प्रऽमुञ्चन्। मानुषीभिः। शिवाभिः। अद्य। परि। पाहि। नः। गयम्। ८९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

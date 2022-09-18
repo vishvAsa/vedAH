@@ -29,10 +29,9 @@ snake-poison.—Cf. vii. 88, below.⌋
 I with this eye destroy thine eye, and with this poison conquer thine. Live not, O Snake, but die the death: back go thy venom on thyself.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-चक्षुषा। ते। चक्षु:। हन्मि। विषेण। हन्मि। ते। विषम्। अहे। म्रियस्व। मा। जीवी:। प्रत्यक्। अभि। एतु। त्वा। विषम्। १३.४।
+चक्षुषा। ते। चक्षुः। हन्मि। विषेण। हन्मि। ते। विषम्। अहे। म्रियस्व। मा। जीवीः। प्रत्यक्। अभि। एतु। त्वा। विषम्। १३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

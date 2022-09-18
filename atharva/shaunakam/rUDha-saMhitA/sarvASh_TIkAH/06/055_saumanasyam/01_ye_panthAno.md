@@ -26,10 +26,9 @@ Both this verse and vs. 3 are incomplete as *jagatī*.
 Of all the many God-frequented pathways that traverse realms between the earth and heaven, Consign me, all ye Gods to that which leadeth to perfect and inviolable safety.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पन्थान:। बहव:। देवऽयाना:। अन्तरा। द्यावापृथिवी इति। सम्ऽचरन्ति। तेषाम्। अज्यानिम्। यतम:। वहाति। तस्मै। मा। देवा:। परि। धत्त। इह। सर्वे। ५५.१।
+ये। पन्थानः। बहवः। देवऽयानाः। अन्तरा। द्यावापृथिवी इति। सम्ऽचरन्ति। तेषाम्। अज्यानिम्। यतमः। वहाति। तस्मै। मा। देवाः। परि। धत्त। इह। सर्वे। ५५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

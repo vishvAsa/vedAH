@@ -7,7 +7,6 @@ title = "०१९ अजरं क्षत्रम्"
 19. To help friends against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अजरं क्षत्रम्।  
@@ -18,8 +17,6 @@ title = "०१९ अजरं क्षत्रम्"
 
 [Vasiṣṭha.—aṣṭarcam. vāiśvadevam uta cāndramasam utāi ”ndram. ānuṣṭubham: 1. pathyābṛhatī; 3. bhurigbṛhatī; 6. 3-av. 6-p. triṣṭupkakummatīgarbhā ’tijagatī; 7. virāḍāstārapan̄kti; 8. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: John Muir, Original Sanskrit Texts, i.2 283; Ludwig, p. 234; Weber, 
 
 A glorification of the office of a king's household priest
 </details>
+

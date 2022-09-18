@@ -17,7 +17,6 @@ breath he breathes crosswise—he on whom rests (*śritá*) the chief thing.
 By truth he blazes up aloft by Brahma, he looks down below: He breathes obliquely with his breath, he on whom what is. highest rests.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सत्येन। ऊर्ध्वः। तपति। ब्रह्मणा। अर्वाङ्। वि। पश्यति। प्राणेन। तिर्यङ्। प्र। अनति। यस्मिन्। ज्येष्ठम्। अधि। श्रितम्। ८.१९।

@@ -24,7 +24,6 @@ similarly at 137. 12.
 Let what I dig from thee, O Earth, rapidly spring and grow again. O Purifier, let me not pierce through thy vitals or thy heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। भूमे। विऽखनामि। क्षिप्रम्। तत्। अपि। रोहतु। मा। ते। मर्म। विऽमृग्वरि। मा। ते। हृदयम्। अर्पिपम्। १.३५।

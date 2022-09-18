@@ -19,10 +19,9 @@ mss. have *ṛṣatu* at the end here.
 With those dread hundred golden spears, the darts of Indra, let it pierce. The Blyxa-fed Gandharvas, those who bring no sacrificial gift.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भीमा:। इन्द्रस्य। हेतय:। शतम्। ऋष्टी:। हिरण्ययी:। ताभि:। हवि:ऽअदान्। गन्धर्वान्। अवकाऽअदान्। वि। ऋषतु। ३७.९।
+भीमाः। इन्द्रस्य। हेतयः। शतम्। ऋष्टीः। हिरण्ययीः। ताभिः। हविःऽअदान्। गन्धर्वान्। अवकाऽअदान्। वि। ऋषतु। ३७.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

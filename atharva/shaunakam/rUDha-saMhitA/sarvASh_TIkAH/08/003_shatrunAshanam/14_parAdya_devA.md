@@ -23,10 +23,9 @@ alternative *agner jvālām*.
 May Gods destroy to-day the evil-doer: may uttered curses turn again and strike him. Let arrows pierce the liar in his vitals, and Visva's net enclose the Yatudhana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परा। अद्य। देवा:। वृजिनम्। शृणन्तु। प्रत्यक्। एनम्। शपथा:। यन्तु। सृष्टा:। वाचाऽस्तेनम्। शरव:। ऋच्छन्तु। मर्मन्। विश्वस्य। एतु। प्रऽस‍ितिम्। यातुऽधान:। ३.१४।
+परा। अद्य। देवाः। वृजिनम्। शृणन्तु। प्रत्यक्। एनम्। शपथाः। यन्तु। सृष्टाः। वाचाऽस्तेनम्। शरवः। ऋच्छन्तु। मर्मन्। विश्वस्य। एतु। प्रऽस‍ितिम्। यातुऽधानः। ३.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

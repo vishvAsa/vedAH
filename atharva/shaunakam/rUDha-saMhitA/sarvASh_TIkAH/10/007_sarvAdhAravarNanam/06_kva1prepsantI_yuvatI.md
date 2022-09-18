@@ -20,7 +20,6 @@ the verse before our 5.
 Whitherward yearning speed the two young Damsels, accordant, Day and Night, of different colour? Who out of many, tell me, is that Skambha to whom the Waters take their way with longing?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्व। प्रेप्सन्ती इति प्रऽईप्सन्ती। युवती इति। विरूपे इति विऽरूपे। अहोरात्रे इति। द्रवतः। संविदाने इति सम्ऽविदाने। यत्र। प्रऽईप्सन्तीः। अभिऽयन्ति। आपः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.६।

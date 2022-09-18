@@ -14,10 +14,9 @@ title = "०७ अव बाधे"
 I drive away the hostile God-despiser: far off be those who are mine adversaries, I dress Brahmaudana that winneth all things. May the Gods hear me who believe and trust them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। बाधे। द्विषन्तम्। देवऽपीयुम्। सऽपत्ना:। ये। मे। अप। ते। भवन्तु। ब्रह्मऽओदनम्। विश्वऽजितम्। पचामि। शृण्वन्तु। मे। श्रत्ऽदधानस्य। देवा:। ३५.७।
+अव। बाधे। द्विषन्तम्। देवऽपीयुम्। सऽपत्नाः। ये। मे। अप। ते। भवन्तु। ब्रह्मऽओदनम्। विश्वऽजितम्। पचामि। शृण्वन्तु। मे। श्रत्ऽदधानस्य। देवाः। ३५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

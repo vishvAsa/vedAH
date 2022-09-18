@@ -21,10 +21,9 @@ in **a**.
 This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। य:। भूरिऽमूल:। समुद्रम्। अवऽतिष्ठति। दर्भ:। पृथिव्या:। उत्थित:। मन्युऽशमन:। उच्यते। ४३.२।
+अयम्। यः। भूरिऽमूलः। समुद्रम्। अवऽतिष्ठति। दर्भः। पृथिव्याः। उत्थितः। मन्युऽशमनः। उच्यते। ४३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

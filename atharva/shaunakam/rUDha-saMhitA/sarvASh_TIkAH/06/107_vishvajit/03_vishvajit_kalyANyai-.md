@@ -18,10 +18,9 @@ Ppp. has *sarvavid viśvavid* instead of *viśvajit* at the beginning.
 To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वऽजित्। कल्याण्यै। मा। परि। देहि। कल्याणि। द्विऽपात्। च। सर्वम्। न:। रक्ष। चतु:ऽपात्। यत्। च। न:। स्वम्। १०७.३।
+विश्वऽजित्। कल्याण्यै। मा। परि। देहि। कल्याणि। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

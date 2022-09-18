@@ -22,7 +22,6 @@ putting fuel on the flesh-eating (*kravyād*) fire; also, in 71. 8, vss.
 This is no place to hold thee; mount the Nada: this lead is thine appointed share. Come hither. Together with Consumption in the cattle, Consumption in our men, go henee, go southward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नडम्। आ। रोह। न। ते। अत्र। लोकः। इदम्। सीसम्। भागऽधेयम्। ते। आ। इहि। यः। गोषु। यक्ष्मः। पुरुषेषु। यक्ष्मः। तेन। त्वम्। साकम्। अधराङ्। परा। इहि। २.१।

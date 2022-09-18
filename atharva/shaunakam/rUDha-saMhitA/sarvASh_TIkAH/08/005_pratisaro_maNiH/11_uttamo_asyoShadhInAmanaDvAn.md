@@ -34,10 +34,9 @@ the two masculine nouns in the double comparison.
 Thou art the chief of all the plants, even as a bull among the beasts. A tiger of the beasts of prey. Him whom we sought for have we found, him lying near in wait for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्ऽतम:। असि। ओषधीनाम्। अनड्वान्। जगताम्ऽइव। व्याघ्र:। श्वपदाम्ऽइव। यम्। ऐच्छाम। अविदाम। तम्। प्रतिऽस्पाशनम्। अन्तितम्। । ५..११।
+उत्ऽतमः। असि। ओषधीनाम्। अनड्वान्। जगताम्ऽइव। व्याघ्रः। श्वपदाम्ऽइव। यम्। ऐच्छाम। अविदाम। तम्। प्रतिऽस्पाशनम्। अन्तितम्। । ५..११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

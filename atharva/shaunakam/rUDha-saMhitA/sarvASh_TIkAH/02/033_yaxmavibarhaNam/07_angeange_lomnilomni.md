@@ -24,10 +24,9 @@ accent-mark has fallen out under *-ñcam* in **e**.
 In every member, every hair, in every joint wherein it lies, We with the exorcising spell of Kasyapa drive far away Con- sumption settled in thy skin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अङ्गेऽअङ्गे। लोम्निऽलोम्नि। य:। ते। पर्वणिऽपर्वणि। यक्ष्मम्। त्वचस्यम्। ते। वयम्। कश्यपस्य। विऽबर्हेण। विष्वञ्चम्। वि। वृहामसि। ३३.७।
+अङ्गेऽअङ्गे। लोम्निऽलोम्नि। यः। ते। पर्वणिऽपर्वणि। यक्ष्मम्। त्वचस्यम्। ते। वयम्। कश्यपस्य। विऽबर्हेण। विष्वञ्चम्। वि। वृहामसि। ३३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

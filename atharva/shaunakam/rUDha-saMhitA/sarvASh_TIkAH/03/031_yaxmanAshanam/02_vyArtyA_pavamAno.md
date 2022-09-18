@@ -19,10 +19,9 @@ understands here the latter.
 May Pavamana free from harm, and Sakra from unrighteous deed. I free from every evil, from decline: I compass round with life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। आर्त्या। पवमान:। वि। शक्र:। पापऽकृत्यया। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.२।
+वि। आर्त्या। पवमानः। वि। शक्रः। पापऽकृत्यया। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

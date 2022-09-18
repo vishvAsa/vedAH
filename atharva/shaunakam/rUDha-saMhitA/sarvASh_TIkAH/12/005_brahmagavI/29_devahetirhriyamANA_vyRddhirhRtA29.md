@@ -22,7 +22,6 @@ resolution *ví-ṛd-*.
 A destructive missile of Gods when she is being seized, misfortune when carried away;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवऽहेतिः। ह्रियमाणा। विऽऋध्दिः। हृता। ८.२।

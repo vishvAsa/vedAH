@@ -22,7 +22,6 @@ brahmavido viduḥ*. Read in **a** *devā́* (an accent-sign dropped out).
 Where the Gods, versed in Sacred Lore, worship the loftiest Power Divine The priest who knows them face to face may be a sage who knows the truth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। देवाः। ब्रह्मऽविदः। ब्रह्म। ज्येष्ठम्। उपऽआसते। यः। वै। तान्। विद्यात्। प्रतिऽअक्षम्। सः। ब्रह्मा। वेदिता। स्यात्। ७.२४।

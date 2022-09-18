@@ -20,7 +20,6 @@ read *mahati* (so our Bp.E.; P.M. *mahaty árṇavé*).
 Fervour and Action were the two, in depths of the great billowy sea; Fervour sprang up from Action: this they served and worship- ped as supreme.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तपः। च। एव। आस्ताम्। कर्म। च। अन्तः। महत‍ि। अर्णवे। तपः। ह। जज्ञे। कर्मणः। तत्। ते। ज्येष्ठम्। उप। आसत। १०.६।

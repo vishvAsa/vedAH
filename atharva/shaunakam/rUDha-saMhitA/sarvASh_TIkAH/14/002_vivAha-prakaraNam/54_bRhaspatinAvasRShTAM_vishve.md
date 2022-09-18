@@ -17,7 +17,6 @@ etc.
 Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour that is stored in cows do we enrich this girl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। तेजः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५४।

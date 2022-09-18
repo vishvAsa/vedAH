@@ -18,7 +18,6 @@ The distinction between *pṛṣṭí* and *párśu* is not clear.
 The consorts of the Gods are the ribs, the attendants are ribs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 देवानाम्। पत्नीः। पृष्टयः। उपऽसदः। पर्शवः। १२.६।

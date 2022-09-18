@@ -7,7 +7,6 @@ title = "००७ असुरक्षयणम्"
 7. For blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 असुरक्षयणम्।  
@@ -19,8 +18,6 @@ title = "००७ असुरक्षयणम्"
 [Atharvan.—sāumyam: 3. vāiśvadevī. gāyatram; 1. nicṛt.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. The hymn appears in Kāuś. (46. 4) as a help in remo
 ### Translations
 Translated: Florenz, 256 or 8; Griffith, i. 248.
 </details>
+

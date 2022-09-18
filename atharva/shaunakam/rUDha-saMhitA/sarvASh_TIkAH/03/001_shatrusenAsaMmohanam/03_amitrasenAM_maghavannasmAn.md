@@ -24,10 +24,9 @@ badly: cf. i. 19. 4, note.⌋
 O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you, against these men, the foeman's host that threatens us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमित्रऽसेनाम्। मघऽवन्। अस्मान्। शत्रुऽयतीम्। अभि। युवम्। ताम्। इन्द्र। वृत्रऽहन्। अग्नि:। च। दहतम्। प्रति। १.३।
+अमित्रऽसेनाम्। मघऽवन्। अस्मान्। शत्रुऽयतीम्। अभि। युवम्। ताम्। इन्द्र। वृत्रऽहन्। अग्निः। च। दहतम्। प्रति। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ adjectives are masculine. 'Which' in **d** is the superlative *katamá*.
 Who is the Cow? Who is the Single Rishi? What is the law, what are the benedictions? What on the earth is the one only Spirit? Which of the number is the Single Season?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क:। नु। गौ:। क:। एकऽऋषि:। किम्। ऊं इति। धाम। का:। आऽशिष:। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतु:। कतम:। नु। स:। ९.२५।
+कः। नु। गौः। कः। एकऽऋषिः। किम्। ऊं इति। धाम। काः। आऽशिषः। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतुः। कतमः। नु। सः। ९.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

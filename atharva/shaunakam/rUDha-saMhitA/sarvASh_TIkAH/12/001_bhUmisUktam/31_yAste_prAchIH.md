@@ -24,7 +24,6 @@ Kāuś. 25. 36.
 Earth, be thine eastern and thy northern regions, those lying southward and those lying westward. Propitious unto me in all my movements. Long as I tread the ground let me not stumble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। ते। प्राचीः। प्रऽदिशः। याः। उदीचीः। याः। ते। भूमे। अधरात्। याः। च। पश्चात्। स्योनाः। ताः। मह्यम्। चरते। भवन्तु। मा। नि। पप्तम्। भुवने। शिश्रियाणः। १.३१।

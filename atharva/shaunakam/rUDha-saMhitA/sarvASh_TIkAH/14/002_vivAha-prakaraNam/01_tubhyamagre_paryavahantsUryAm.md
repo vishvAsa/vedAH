@@ -25,7 +25,6 @@ receive a sort of baptism.
 For thee with bridal train they first escorted Surya to her home, Give to the husband in return, Agni, the wife with future sons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तुभ्यम्। अग्रे। परि। अवहन्। सूर्याम्। वहतुना। सह। सः। नः। पतिऽभ्यः। जायाम्। दाः। अग्ने। प्रऽजया। सह। २.१।

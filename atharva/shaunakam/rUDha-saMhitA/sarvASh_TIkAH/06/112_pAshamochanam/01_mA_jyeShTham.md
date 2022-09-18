@@ -24,10 +24,9 @@ overslaugher—see comm. to vs. 3 **a**⌋. Ppp. reads *prajā nas* at end of
 Let not this one, O Agni, wound the highest of these: preserve thou him from utter ruin. Knowing the way do thou untie the nooses of the she-fiend: let all the Gods approve thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। ज्येष्ठम्। वधीत्। अयम्। अग्ने। एषाम्। मूलऽबर्हणात्। परि। पाहि। एनम्। स:। ग्राह्या:। पाशान्। वि। चृत। प्रऽजानन्। तुभ्यम्। देवा:। अनु। जानन्तु। विश्वे। ११२.१।
+मा। ज्येष्ठम्। वधीत्। अयम्। अग्ने। एषाम्। मूलऽबर्हणात्। परि। पाहि। एनम्। सः। ग्राह्याः। पाशान्। वि। चृत। प्रऽजानन्। तुभ्यम्। देवाः। अनु। जानन्तु। विश्वे। ११२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

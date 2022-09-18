@@ -29,10 +29,9 @@ but **a** has 13 syllables unless we contract *me ’dam*.
 May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason of the guerdon. May Agni, Soma mark through this libation: may Vayu, Savitar, and Bhaga guard us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्यौ:। च। मे। इदम्। पृथिवी। च। प्रऽचेतसौ। शुक्र:। बृहन्। दक्षिणया। पिपर्तु। अनु। स्वधा। चिकिताम्। सोम:। अग्नि:। वायु:। न:। पातु। सविता। भग:। च। ५३.१।
+द्यौः। च। मे। इदम्। पृथिवी। च। प्रऽचेतसौ। शुक्रः। बृहन्। दक्षिणया। पिपर्तु। अनु। स्वधा। चिकिताम्। सोमः। अग्निः। वायुः। नः। पातु। सविता। भगः। च। ५३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

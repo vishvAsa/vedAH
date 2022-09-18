@@ -19,10 +19,9 @@ and Āp. insert *ca* before *vayám.*
 Burn thou, O Agni, with that heat of thine against the man who hates us, whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तप:। तेन। तम्। प्रति। तप। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। १९.१।
+अग्ने। यत्। ते। तपः। तेन। तम्। प्रति। तप। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ great *brā́hmaṇa* ⌊n.⌋.
 Voices that never were before emitted speak as fitteth them. Whither they go and speak, they say there is the mighty Brah- mana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपूर्वेण। इषिताः। वाचः। ताः। वदन्ति। ताः। वदन्ति। यथाऽयथम्। वदन्तीः। यत्र। गच्छन्ति। तत्। आहुः। ब्राह्मणम्। महत्। ८.३३।

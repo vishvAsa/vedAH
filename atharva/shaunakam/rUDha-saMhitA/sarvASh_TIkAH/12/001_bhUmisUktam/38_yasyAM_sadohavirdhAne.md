@@ -26,7 +26,6 @@ post.
 Base of the seat and sheds, on whom the sacrificial stake is reared, On whom the Yajus-knowing priests recite their hymns and chant their psalms, And ministers are busied that Indra may drink the Soma juice;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। सदाहविर्धाने  इति सदःऽहविर्धाने। यूपः। यस्याम्। निऽमीयते। ब्रह्माणः। यस्याम्। अर्चन्ति। ऋक्ऽभिः। साम्ना। यजुःऽविदः। युज्यन्ते। यस्याम्। ऋत्विजः। सोमम्। इन्द्राय। पातवे। १.३८।

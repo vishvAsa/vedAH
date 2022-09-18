@@ -21,10 +21,9 @@ obscure. The first pāda has a redundant syllable.
 They made a jest of kindred's curse: a jar of Soma juice was set, What time the deities, convened, assigned the Bull's divided parts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्रोड:। आसीत्। जामिऽशंसस्य। सोमस्य। कलश:। धृत:। देवा:। सम्ऽगत्य। यत्। सर्वे। ऋषभम्। विऽअकल्पयन्। ४.१५।
+क्रोडः। आसीत्। जामिऽशंसस्य। सोमस्य। कलशः। धृतः। देवाः। सम्ऽगत्य। यत्। सर्वे। ऋषभम्। विऽअकल्पयन्। ४.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

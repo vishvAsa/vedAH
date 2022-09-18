@@ -18,7 +18,6 @@ A syllable is lacking, unless we make harsh resolution, in **a**.
 Creator and Ordainer, he is Vayu, he is lifted cloud.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। धाता। सः। विऽधर्ता। सः। वायुः। नभः। उत्ऽश्रितम्। । ४.३।

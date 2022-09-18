@@ -20,10 +20,9 @@ to emend to *ālebhé* in **c**.
 As I invoke the Gods at need, as I have lived in chastity, May these, when I have grasped the Dice, the brown, be kind to one like me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवान्। यत्। नाथित:। हुवे। ब्रह्मऽचर्यम्। यत्। ‍ ऊषिम। अक्षान्। यत्। बभ्रून्। आऽलभे। ते। न:। मृडन्तु। ईदृशे। ११४.७।
+देवान्। यत्। नाथितः। हुवे। ब्रह्मऽचर्यम्। यत्। ‍ ऊषिम। अक्षान्। यत्। बभ्रून्। आऽलभे। ते। नः। मृडन्तु। ईदृशे। ११४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

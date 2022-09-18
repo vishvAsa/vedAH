@@ -18,10 +18,9 @@ witchcraft they have made—I take that back again.
 The spell that they have cast upon thy public room thy gambl- ing-board, Spell they have cast upon thy dice, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। सभायाम्। याम्। चक्रु:। अधिऽदेवने। अक्षेषु। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.६।
+याम्। ते। चक्रुः। सभायाम्। याम्। चक्रुः। अधिऽदेवने। अक्षेषु। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

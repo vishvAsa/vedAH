@@ -7,7 +7,6 @@ title = "०१४ कुलपा कन्या"
 14. Imprecation of spinsterhood on a woman.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कुलपा कन्या  
@@ -18,8 +17,6 @@ title = "०१४ कुलपा कन्या"
 
 [Bhṛgvān̄giras.—vāruṇam vo 'ta yāmyaṁ vā. ānuṣṭubham: 1. kakummatī; 3. 4-p. virāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 408; Ludwig, p. 459; Zimmer, p. 314 (these misapprehend i
 
 A woman's incantation against a rival
 </details>
+

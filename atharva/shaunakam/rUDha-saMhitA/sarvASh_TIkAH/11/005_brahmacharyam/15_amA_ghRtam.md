@@ -26,7 +26,6 @@ Ludwig understands *mitrás* as signifying the god Mitra.
 Varuna, made a Master, takes at home the butter to himself. Whatever with Prajapati he sought, the Brahmachari gave like Mitra from his loftiest soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अमा। घृतम्। कुणुते। केवलम्। आऽचार्यः। भूत्वा। वरुणः। यत्ऽयत्। ऐच्छत्। प्रजाऽपतौ। तत्। ब्रह्मऽचारी। प्र। अयच्छत्। स्वान्। मित्रः। अधि। आत्मनः। ७.१५।

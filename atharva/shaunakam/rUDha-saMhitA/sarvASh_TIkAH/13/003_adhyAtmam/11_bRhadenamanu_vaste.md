@@ -18,7 +18,6 @@ unremittingly—against that god etc. etc.
 In front the Brihat-Saman is his mantle, and from behind Rathantara enfolds him, Ever with care robing themselves in splendour. This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहत्। एनम्। अनु। वस्ते। पुरस्तात्। रथम्ऽतरम्। प्रति। गृह्णाति। पश्चात्। ज्योतिः। वसाने इति। सदम्। अप्रऽमादम्। । तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.११।

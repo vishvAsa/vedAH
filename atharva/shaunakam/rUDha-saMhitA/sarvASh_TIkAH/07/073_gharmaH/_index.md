@@ -7,7 +7,6 @@ title = "०७३ घर्मः"
 73 (77). With a heated offering to the Aśvins.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 घर्मः।  
@@ -18,8 +17,6 @@ title = "०७३ घर्मः"
 
 [Atharvan.—ekādaśarcam. gharmasūktam. āśvinam uta pratyṛcammantroktadāivatam. trāiṣṭubham: 1, 4, 6. jagatī; 2. pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 429 (vss. 1-6); Henry, 28, 93; Griffith, i. 361.
 
 An invitation to the Asvins
 </details>
+

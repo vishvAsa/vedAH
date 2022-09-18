@@ -19,7 +19,6 @@ takes no notice of the defective last pāda.
 I with this salutary herb have ruined all their magic arts, The spell which they have cast upon thy field, thy cattle, or thy men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनया। अहम्। ओषध्या। सर्वाः। कृत्वाः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १.४।

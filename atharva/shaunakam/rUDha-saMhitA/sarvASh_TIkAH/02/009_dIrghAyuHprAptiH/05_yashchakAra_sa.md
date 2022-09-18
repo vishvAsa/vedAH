@@ -25,10 +25,9 @@ latter "shall put it to rights."
 Let him who made it also heal: he, truly, is the deftest leech. Pure, with a leech he verily shall give thee medicines that heal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। चकार। स:। नि:। करत्। स:। एव। सुभिषक्ऽतम:। स:। एव। तुभ्यम्। भेषजानि। कृणवत्। भिषजा। शुचि:। ९.५।
+यः। चकार। सः। निः। करत्। सः। एव। सुभिषक्ऽतमः। सः। एव। तुभ्यम्। भेषजानि। कृणवत्। भिषजा। शुचिः। ९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

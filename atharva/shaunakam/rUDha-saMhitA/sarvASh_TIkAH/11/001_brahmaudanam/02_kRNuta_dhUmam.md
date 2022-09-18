@@ -35,7 +35,6 @@ reduced by Ppp. to one.⌋
 Raise, as I bid, the smoke, my strong companions, lovers of free- dom from deceit and malice! Victor in fight heroic, here is Agni by whom the Gods subdued the hostile demons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कृणुत। धूमम्। वृषणः। सखायः। अद्रोघऽअविता। वाचम्। अच्छ। अयम्। अग्निः। पृतनाषाट्। सुऽवीरः। येन। देवाः। असहन्त। दस्युन्। १.२।

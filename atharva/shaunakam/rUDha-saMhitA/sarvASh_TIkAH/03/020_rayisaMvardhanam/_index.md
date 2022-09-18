@@ -7,7 +7,6 @@ title = "०२० रयिसंवर्धनम्"
 20. To Agni and other gods: for various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रयिसंवर्धनम्।  
@@ -18,8 +17,6 @@ title = "०२० रयिसंवर्धनम्"
 
 [Vasiṣṭha.—daśarcam. āgteyam uta mantroktadevatyam. ānuṣṭubham: 6. patkyāpan̄kti; 8. virāḍjagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 272; Griffith, i. III.—See Weber, Berliner Sb., 1892,
 
 A prayer for riches and general prosperity
 </details>
+

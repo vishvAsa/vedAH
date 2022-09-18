@@ -25,10 +25,9 @@ combination.
 O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing sinner's eyes fall from his head, both right and left.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यातुऽधानस्य। सोमऽप। जहि। प्रऽजाम्। नयस्व। च। ‍नि:। स्तुवानस्य। पातय। परम्। अक्षि। उत। अवरम्।
+यातुऽधानस्य। सोमऽप। जहि। प्रऽजाम्। नयस्व। च। ‍निः। स्तुवानस्य। पातय। परम्। अक्षि। उत। अवरम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

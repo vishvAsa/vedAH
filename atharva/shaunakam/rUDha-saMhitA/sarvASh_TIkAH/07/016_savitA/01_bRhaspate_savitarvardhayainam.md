@@ -24,10 +24,9 @@ in (our) **c**, VS.TS. read *saṁtarā́m;* in **d**, MS. inserts *ca* after
 Increase this man Brihaspati! Illume him, O Savitar, for high and happy fortune. Sharpen him thoroughly though already sharpened: with glad acclaim let all the Gods receive him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहस्पते। सवित:। वर्धय। एनम्। ज्योतय। एनम्। महते। सौभगाय। सम्ऽशितम्। चित्। सम्ऽतरम्। सम्। शिशाधि। विश्वे। एनम्। अनु। मदन्तु। देवा:। १७.१।
+बृहस्पते। सवितः। वर्धय। एनम्। ज्योतय। एनम्। महते। सौभगाय। सम्ऽशितम्। चित्। सम्ऽतरम्। सम्। शिशाधि। विश्वे। एनम्। अनु। मदन्तु। देवाः। १७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

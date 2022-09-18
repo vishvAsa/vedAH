@@ -7,7 +7,6 @@ title = "१३४ शत्रुनाशनम्"
 134. To crush an enemy with a thunderbolt.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "१३४ शत्रुनाशनम्"
 [Cukra.—mantroktavajradevatyam. ānuṣṭubham: 1. parānuṣṭup triṣṭubh; [2.]* bhurih 3-p. gāyatrī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. v. Used by Kāuś. (47. 14) in a rite of sorcery with the 
 ### Translations
 Translated: Ludwig, p. 448; Griffith, i. 320.
 </details>
+

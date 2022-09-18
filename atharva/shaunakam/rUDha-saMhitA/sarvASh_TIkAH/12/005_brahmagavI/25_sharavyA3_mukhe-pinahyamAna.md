@@ -24,7 +24,6 @@ The *pada*-text has *api॰nahyámāne*, and two or three of our
 Wounding like an arrow when she is fastened by her mouth, contention when she is beaten;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शरव्या। मुखे। अपिऽनह्यमाने। ऋतिः। हन्यमानाः। ७.१४।

@@ -7,7 +7,6 @@ title = "०४० सरस्वान्"
 40 (41). Prayer and praise to Sarasvant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सरस्वान्।  
@@ -18,8 +17,6 @@ title = "०४० सरस्वान्"
 
 [Praskaṇva.—dvyṛcam. sārasvatam. trāiṣṭubham: 1. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 14, 70; Griffith, i. 345.
 
 A prayer for prosperity
 </details>
+

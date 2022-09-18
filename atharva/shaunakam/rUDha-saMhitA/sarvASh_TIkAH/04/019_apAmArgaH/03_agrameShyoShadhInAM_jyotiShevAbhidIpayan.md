@@ -21,10 +21,9 @@ matured'⌋ *durbalasya*.
 Illumining, as 'twere, with light, thou movest at the head of plants. The saviour of the simple man art thou, and slayer of the fiends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्रम्। एषि। ओषधीनाम्। ज्योतिषाऽइव। अभिऽदीपयन्। उत। त्राता। असि। पाकस्य। अथो  इति। हन्ता। असि। रक्षस:। १९.३।
+अग्रम्। एषि। ओषधीनाम्। ज्योतिषाऽइव। अभिऽदीपयन्। उत। त्राता। असि। पाकस्य। अथो  इति। हन्ता। असि। रक्षसः। १९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

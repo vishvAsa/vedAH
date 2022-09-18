@@ -17,7 +17,6 @@ quit thee: so one says to him.
 Thou hast eaten this turned hitherward; thy downward breath will leave thee; so he said to this one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रत्यञ्चम्। च। एनम्। प्रऽआशीः। अपानाः। त्वा। हास्यन्ति। इति। एनम्। आह। ३.२९।

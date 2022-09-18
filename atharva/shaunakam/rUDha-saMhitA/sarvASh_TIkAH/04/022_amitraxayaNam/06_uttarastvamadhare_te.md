@@ -24,10 +24,9 @@ corresponding; and it reads *ékavṛṣā* for *ehavṛṣás*. The comm. takes
 Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine adversaries. Sole lord and leader and allied with Indra, bring, conqueror, thy foremen's goods and treasures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्तर:। त्वम्। अधरे। ते। सऽपत्ना:। ये। के। च। राजन्। प्रतिऽशत्रव:। ते। एकऽवृष:। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। भर। भोजनानि। २२.६।
+उत्तरः। त्वम्। अधरे। ते। सऽपत्नाः। ये। के। च। राजन्। प्रतिऽशत्रवः। ते। एकऽवृषः। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। भर। भोजनानि। २२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

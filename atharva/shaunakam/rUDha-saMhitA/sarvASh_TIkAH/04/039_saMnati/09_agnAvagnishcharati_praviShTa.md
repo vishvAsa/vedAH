@@ -41,10 +41,9 @@ has *avirāja eṣaḥ*, misprint for *adhi-*.⌋
 Agni moves having entered into Agni, the Rishis' son, who guards from imprecations, I offer unto thee with reverent worship. Let me not mar the Gods' appointed service.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नौ। अग्नि:। चरति। प्रऽविष्ट:। ऋषीणाम्। पुत्र:। अभिशस्तिऽपा:। ऊं इति। नम:ऽकारेण। नमसा। ते। जुहोमि। मा। देवानाम्। मिथुया। कर्म। भागम्। ३९.९।
+अग्नौ। अग्निः। चरति। प्रऽविष्टः। ऋषीणाम्। पुत्रः। अभिशस्तिऽपाः। ऊं इति। नमःऽकारेण। नमसा। ते। जुहोमि। मा। देवानाम्। मिथुया। कर्म। भागम्। ३९.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

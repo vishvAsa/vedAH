@@ -21,7 +21,6 @@ verse, with vss. 15-21, 50, in Kāuś. was noted above, ⌊see introd.⌋.
 We hunt that man, we beat him down and slay him with our murderous blows. We with the spell have hurried him to Parameshthin's opened jaws.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। वयम्। मृगयामहे। तम्। वधैः। स्तृणवामहै। विऽआत्ते। परमेऽस्थिनः। ब्रह्मणा। आ। अपीपदाम। तम्। ५.४२।

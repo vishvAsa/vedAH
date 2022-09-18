@@ -23,7 +23,6 @@ Hochzeitsrituell* etc., p. 54) has a varying version, reading in **a**
 Hence and not thence I send her free. I make her softly fettered there. That, bounteous Indra! she may live blest in her fortune and her sons.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। इतः। मुञ्चामि। न। अमुतः। सुऽबध्दाम्। अमुतः। करम्। यथा। इयम्। इन्द्र। मीढ्वः। सुऽपुत्राः। सुऽभगा। असति। १.१८।

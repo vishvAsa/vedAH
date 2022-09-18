@@ -21,10 +21,9 @@ normal length, and composed of four out of the five verses of RV. x. 174
 Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for regal sway and conquest of mine enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभिऽवर्त:। अभिऽभव:। सपत्नऽक्षयण:। मणि:। राष्ट्राय। मह्यम्। बध्यताम्। सऽपत्नेभ्य:। पराऽभुवे।
+अभिऽवर्तः। अभिऽभवः। सपत्नऽक्षयणः। मणिः। राष्ट्राय। मह्यम्। बध्यताम्। सऽपत्नेभ्यः। पराऽभुवे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

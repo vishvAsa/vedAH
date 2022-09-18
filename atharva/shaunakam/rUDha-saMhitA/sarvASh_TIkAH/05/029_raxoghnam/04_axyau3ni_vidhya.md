@@ -21,10 +21,9 @@ verse in a remedial ceremony.
 Pierce both his eyes, pierce thou the heart within him, crush thou his teeth and cleave his tongue asunder. Rend thou, most youthful Agni, that Pisacha whoso amid them all of this hath eaten.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्ष्यौ। नि। विध्य। हृदयम्। नि। विध्य। जिह्वाम्। नि। तृन्ध्दि। प्र। दत्त:। मृणीहि। पिशाच:। अस्य। यतम:। जघास। अग्ने। यविष्ठ। प्रति। तम्। शृणीहि। २९.४।
+अक्ष्यौ। नि। विध्य। हृदयम्। नि। विध्य। जिह्वाम्। नि। तृन्ध्दि। प्र। दत्तः। मृणीहि। पिशाचः। अस्य। यतमः। जघास। अग्ने। यविष्ठ। प्रति। तम्। शृणीहि। २९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

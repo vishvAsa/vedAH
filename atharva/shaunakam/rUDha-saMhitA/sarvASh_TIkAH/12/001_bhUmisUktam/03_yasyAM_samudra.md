@@ -24,7 +24,6 @@ giving our 3 **c, d** as second half of vs. 5, with the easier reading
 In whom the sea, and Sindhu, and the waters, in whom our food and corn-lands had their being, In whom this all that breathes and moves is active, this Earth. assign us foremost rank and station!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। समुद्रः। उत। सिन्धुः। आपः। यस्याम्। अन्नम्। कृष्टयः। सम्ऽबभूवुः। यस्याम्। इदम्। जिन्वति। प्राणत्। एजत्। सा। नः। भूमिः। पूर्वऽपेये। दधातु। १.३।

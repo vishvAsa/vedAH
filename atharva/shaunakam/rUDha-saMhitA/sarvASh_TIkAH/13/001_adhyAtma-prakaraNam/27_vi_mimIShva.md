@@ -25,7 +25,6 @@ for the *ājyatantra;* ⌊cf. also note to 137. 4⌋.
 Prepare the Milky One who teems with fatness: she is the Gods' never-reluctant milch-cow. Indra drink Soma: ours be peace and safety. Let Agni lead the laud, and chase our foemen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वि। मिमीष्व। पयस्वतीम्। घृताचीम्। देवानाम्। धेनुः। अनपऽस्पृक्। एषा। इन्द्रः। सोमम्। पिबतु। क्षेमः। अस्तु। अग्निः। प्र। स्तौतु। वि। मृधः। नुदस्व। १.२७।

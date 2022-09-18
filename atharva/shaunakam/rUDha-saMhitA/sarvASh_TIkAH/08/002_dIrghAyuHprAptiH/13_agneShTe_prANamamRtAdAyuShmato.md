@@ -20,10 +20,9 @@ has *vanave* for *vanve* in **b**, and *yatrā* at beginning of **c**.
 I win thy life from Agni, from the living everlasting Jatavedas. This I procure for thee, that thou, undying, mayst not suffer harm, that thou mayst be content, that all be well with thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:। ते। प्राणम्। अमृतात्। आयुष्मत:। वन्वे। जातऽवेदस:। यथा। न। रिष्या:। अमृत:। सऽजू:। अस:। तत्। ते। कृणोमि। तत्। ऊं इति। ते। सम्। ऋध्यताम्। २.१३।
+अग्नेः। ते। प्राणम्। अमृतात्। आयुष्मतः। वन्वे। जातऽवेदसः। यथा। न। रिष्याः। अमृतः। सऽजूः। असः। तत्। ते। कृणोमि। तत्। ऊं इति। ते। सम्। ऋध्यताम्। २.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

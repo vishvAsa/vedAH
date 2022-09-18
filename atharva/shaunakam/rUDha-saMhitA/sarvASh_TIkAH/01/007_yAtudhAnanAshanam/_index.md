@@ -7,7 +7,6 @@ title = "००७ यातुधाननाशनम्"
 7. To Agni: for the discovеrу of sorcerers.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यातुधाननाशनम्।  
@@ -18,8 +17,6 @@ title = "००७ यातुधाननाशनम्"
 
 [Cãtana.—saptarcam. ãnuṣṭubham: 5. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 398; Ludwig, p. 523; Griffith, i. 9; Bloomfield, 64, 237.
 
 To Indra and Agni, for the detection and destruction of evil spirits
 </details>
+

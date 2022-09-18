@@ -7,7 +7,6 @@ title = "००३ शत्रुनाशनम्"
 3. To Agni: against sorcerers and demons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "००३ शत्रुनाशनम्"
 
 [Cātana.—ṣaḍviṅśam. āgneyam. trāiṣṭubham: 7, I2, 14, 15, 17, 21. bhurij; 25. 5-p. bṛhatīgarbhā jagatī; 22, 23. anuṣṭubh; 26. gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Henry, 7, 43; Griffith, i. 392.
 
 A prayer for the destruction of demons
 </details>
+

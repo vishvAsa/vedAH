@@ -22,7 +22,6 @@ give the latter.
 What time the might body lay firmly compact with tie and bond, Who gave its colour to the form, the hue wherewith it shines to-day?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। तत्। शरीरम्। अशयत्। सम्ऽधया। सम्ऽहितम्। महत्। येन। इदम्। अद्य। रोचते। कः। अस्मिन्। वर्णम्। आ। अभरत्। १०.१६।

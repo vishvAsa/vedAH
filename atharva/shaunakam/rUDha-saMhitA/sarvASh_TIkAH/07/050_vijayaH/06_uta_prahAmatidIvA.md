@@ -29,10 +29,9 @@ the contraction to *kṛtaṁ ’va* in **b**.
 Yea, by superior play one gains advantage: in time he piles his spoil as doth a gambler. He overwhelms with wealth's inherent powers the devotee who keeps not back his riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। प्रऽहाम्। अतिऽदीवा। जयति। कृतम्ऽइव। श्वऽघ्नी। वि। चिनोति। काले। य:। देवऽकाम:। न। धनम्। रुणध्दि। सम्। इत्। तम्। राय:। सृजति। स्वधाभि:। ५२.६।
+उत। प्रऽहाम्। अतिऽदीवा। जयति। कृतम्ऽइव। श्वऽघ्नी। वि। चिनोति। काले। यः। देवऽकामः। न। धनम्। रुणध्दि। सम्। इत्। तम्। रायः। सृजति। स्वधाभिः। ५२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

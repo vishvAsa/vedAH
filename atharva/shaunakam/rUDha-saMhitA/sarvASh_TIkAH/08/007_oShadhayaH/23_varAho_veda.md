@@ -21,10 +21,9 @@ after *gandharvās* in **c**, and has for **d** *tā ihā ”yantv oṣadhīḥ*
 Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I call, to aid this man, the Plants which Serpents and Gandhar- vas know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वराह:। वेद। वीरुधम्। नकुल:। वेद। भेषजीम्। सर्पा:। गन्धर्वा:। या:। विदु:। ता:। अस्मै। अवसे। हुवे। ७.२३।
+वराहः। वेद। वीरुधम्। नकुलः। वेद। भेषजीम्। सर्पाः। गन्धर्वाः। याः। विदुः। ताः। अस्मै। अवसे। हुवे। ७.२३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

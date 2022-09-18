@@ -24,10 +24,9 @@ uparyuparilābhahetuk¿rtāyapravāheṇa*. ⌊His interpretation seems to mean
 Dice, give me play that bringeth fruit as 'twere a cow with flowing milk! And, as the bowstring binds, the bow, unite me with a stream of gains.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्षा:। फलऽवतीम्। द्युवम्। दत्त। गाम्। क्षीरिणीम्ऽइव। सम्। मा। कृतस्य। धारया। धनु:। स्नाव्नाऽइव। नह्यत। ५२.९।
+अक्षाः। फलऽवतीम्। द्युवम्। दत्त। गाम्। क्षीरिणीम्ऽइव। सम्। मा। कृतस्य। धारया। धनुः। स्नाव्नाऽइव। नह्यत। ५२.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,10 +28,9 @@ of corrupt text. Most of the *pada-*mss. have the false accent
 Those who, what time the moon is dark, hunt with loud cry and answering shout, Flesh-eaters, others who would harm,--all these I overcome with might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। आऽगरे। मृगयन्ते। प्रतिऽक्रोशे। अमाऽवास्ये। क्रव्यऽअद:। अन्यान्। दिप्सत:। सर्वान्। तान्। सहसा। सहे। ३६.३।
+ये। आऽगरे। मृगयन्ते। प्रतिऽक्रोशे। अमाऽवास्ये। क्रव्यऽअदः। अन्यान्। दिप्सतः। सर्वान्। तान्। सहसा। सहे। ३६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

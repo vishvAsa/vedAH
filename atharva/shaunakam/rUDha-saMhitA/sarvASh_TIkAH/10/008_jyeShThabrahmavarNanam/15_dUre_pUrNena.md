@@ -20,7 +20,6 @@ The verse, as noted above, is wanting in Ppp. ⌊Pāda **c** occurs as x.
 With the full vase he dwells afar, is left far off what time it fails, A mighty Being in creation's centre: to him the rulers of the realms bring tribute.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दूरे। पूर्णेन। वसति। दूरे। ऊनेन। हीयते। महत्। यक्षम्। भुवनस्य। मध्ये। तस्मै। बलिम्। राष्ट्रऽभृतः। भरन्ति। ८.१५।

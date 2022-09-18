@@ -27,10 +27,9 @@ corrupt. SV. reads, in **a**, *s. víśvā ójasā;* it has at beginning of
 With prayer come all together to the Lord of Heaven: he is the peerless one, far-reaching, guest of men. He, God of ancient time, hath gained a recent thrall; to him alone is turned the path which all must tread.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽएत। विश्वे। वचसा। पतिम्। दिव:। एक:। विऽभू:। अतिथि:। जनानाम्। स:। पूर्व्य:। नूतनम्। आऽविवासत्। तम्। वर्तनि:। अनु। ववृते। एकम्। इत्। पुरु। २२.१।
+सम्ऽएत। विश्वे। वचसा। पतिम्। दिवः। एकः। विऽभूः। अतिथिः। जनानाम्। सः। पूर्व्यः। नूतनम्। आऽविवासत्। तम्। वर्तनिः। अनु। ववृते। एकम्। इत्। पुरु। २२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

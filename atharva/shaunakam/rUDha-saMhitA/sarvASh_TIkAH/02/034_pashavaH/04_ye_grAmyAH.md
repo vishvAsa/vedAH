@@ -24,10 +24,9 @@ kūrūpāḥ:...mumukta devaḥ prajāpatiṣ prajābhis saṁvidānāṁ.*
 Tame animals of every shape, though varied in colour, manifold. alike in nature To them, the first, may Vayu, God, give freedom, Prajapati. rejoicing in his creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। ग्राम्या:। पशव:। विश्वऽरूपा:। विऽरूपा:। सन्त:। बहुऽधा। एकऽरूपा:। वायु:। तान्। अग्रे। प्र। मुमोक्तु। देव:। प्रजाऽपति:। प्रऽजया। सम्ऽरराण:। ३४.४।
+ये। ग्राम्याः। पशवः। विश्वऽरूपाः। विऽरूपाः। सन्तः। बहुऽधा। एकऽरूपाः। वायुः। तान्। अग्रे। प्र। मुमोक्तु। देवः। प्रजाऽपतिः। प्रऽजया। सम्ऽरराणः। ३४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

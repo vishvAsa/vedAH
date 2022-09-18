@@ -23,7 +23,6 @@ the meter of **a**.
 What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth arises thence, inseparable from that sin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अस्याः। पल्पूलनम्। शकृत्। दासी। सम्ऽअस्यति। ततः। अपऽरूपम्। जायते। तस्मात्। अविऽएष्यत्। एनसः। ४.९।

@@ -18,7 +18,6 @@ Ppp. separates *prāṇa idaṁ* in **a**.
 The man who knows this truth of thee, O Prana, and what bears thee up To him will all present their gift of tribute in that loftiest will all present their gift of tribute in that loftiest world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। प्राण। इदम्। वेद। यस्मिन्। च। असि। प्रतिऽस्थितः। सर्वे। तस्मै। बलिम्। हरान्। अमुष्मिन्। लोके। उत्ऽतमे। ६.१८।

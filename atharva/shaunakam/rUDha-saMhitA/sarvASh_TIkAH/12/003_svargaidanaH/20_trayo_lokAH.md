@@ -28,7 +28,6 @@ scattering them, apparently, again on the sieve.
 Three worlds hath Power Divine marked out and measured, Fheaven yonder, and the earth, and airs mid-region. Grasp ye the stalks and in your hands retain them: let them be watered and again be winnowed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रयः। लोकाः। सम्ऽमिताः। ब्राह्मणेन। द्यौः। एव। असौ। पृथिवी। अन्तरिक्षम्। अंशून्। गृभीत्वा। अनुऽआरभेथाम्। आ। प्यायन्ताम्। पुनः। आ। यन्तु। शूर्पम्। ३.२०।

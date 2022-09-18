@@ -18,7 +18,6 @@ Ppp. combines in **a** *divā ”tapaty*.
 Agni gives shine and heat in heaven: the spacious air is his, the God's Lover of fatness, bearer of oblation, men enkindle him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्निः। दिवः। आ। तपति। अग्नेः। देवस्य। उरु। अन्तरिक्षम्। अग्निम्। मर्तासः। इन्धते। हव्यऽवाहम्। हव्य ऽवाहम्। घृतऽप्रियम्। १.२०।

@@ -18,7 +18,6 @@ Ppp. combines *sikatā ’śm-* in **a**. ⌊Read *oṣadhīr?*⌋
 Pebbles, sand, stones, and herbs, and plants, and grass are in the Residue, Closely embraced and laid therein are lightnings and the clouds and rain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शर्कराः। सिकताः। अश्मानः। ओषधयः। वीरुधः। तृणा। अभ्राणि। विऽद्युतः। वर्षम्। उत्ऽशिष्टे। सम्ऽश्रिता। श्रिता। ९.२१।

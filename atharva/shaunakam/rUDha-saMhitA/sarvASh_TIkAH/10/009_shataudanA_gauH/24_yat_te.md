@@ -17,7 +17,6 @@ inviolable one—let them yield etc. etc.
 Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver mingled curd, and flowing butter, milk, and mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। चर्म। शतऽओदने। यानि। लोमानि। अघ्न्ये। आमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो  इति। मधु। ९.२४।

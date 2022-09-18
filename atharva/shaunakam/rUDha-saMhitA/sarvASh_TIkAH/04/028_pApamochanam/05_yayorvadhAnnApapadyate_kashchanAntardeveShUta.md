@@ -18,10 +18,9 @@ Ppp. reads in **a, b** *kiṁ canā ’ntar deveṣu uta*.
 Ye from the stroke of whose destroying weapon not one among the Gods or men escapeth, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ययो:। वधात्। न। अपऽपद्यते। क:। चन। अन्त:। देवेषु। उत। मानुषेषु। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.५।
+ययोः। वधात्। न। अपऽपद्यते। कः। चन। अन्तः। देवेषु। उत। मानुषेषु। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

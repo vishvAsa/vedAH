@@ -7,7 +7,6 @@ title = "०७९ ऊर्जःप्राप्तिः"
 79. For abundance at home.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ऊर्जःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०७९ ऊर्जःप्राप्तिः"
 
 [Atharvan.—saṁsphānadevatyam. gāyatram: 3. 3-p. prājāpatyā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 288; Bloomfield, 141, 499.
 
 A prayer for seasonable rain and prosperity
 </details>
+

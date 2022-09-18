@@ -18,8 +18,7 @@ The other texts associate Bṛhaspati with this quarter.
 The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For wronging Surya be they turned and troubled! I smite them backward with mine incantation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। उपरिष्टात्। जुह्वति। जातऽवेद:। ऊर्ध्वाया:। दिश:। अभिऽदासन्ति। अस्मान्। सूर्यम्। ऋत्वा। ते। पराञ्च:। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.७।
+ये। उपरिष्टात्। जुह्वति। जातऽवेदः। ऊर्ध्वायाः। दिशः। अभिऽदासन्ति। अस्मान्। सूर्यम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.७।
 </details>

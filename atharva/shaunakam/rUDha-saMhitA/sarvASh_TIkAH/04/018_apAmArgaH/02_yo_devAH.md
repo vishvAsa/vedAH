@@ -21,10 +21,9 @@ redundant syllable in **c** unless we abbreviate *iva* to *’va*.
 Gods! if one make and bring a spell on some man's house who knows it not, Close as the calf that sucks the cow may it revert and cling to him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। देवा:। कृत्याम्। कृत्वा। हरात्। अविदुष:। गृहम्। वत्स:। धारु:ऽइव। मातरम्। तम्। प्रत्यक्। उप। पद्यताम्। १८.२।
+यः। देवाः। कृत्याम्। कृत्वा। हरात्। अविदुषः। गृहम्। वत्सः। धारुःऽइव। मातरम्। तम्। प्रत्यक्। उप। पद्यताम्। १८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

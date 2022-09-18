@@ -20,10 +20,9 @@ suggested by Zimmer; Ppp. unfortunately lacks the verse.
 Terrible is her cutting-up: her bitter flesh is cast away, And it is counted sin among the Fathers if her milk is drunk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्रूरम्। अस्या:। आऽशसनम्। तृष्टम्। पिशितम्। अस्यते। क्षीरम्। यत्। अस्या:। पीयते। तत्। वै। पितृषु। किल्बिषम्। १९.५।
+क्रूरम्। अस्याः। आऽशसनम्। तृष्टम्। पिशितम्। अस्यते। क्षीरम्। यत्। अस्याः। पीयते। तत्। वै। पितृषु। किल्बिषम्। १९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

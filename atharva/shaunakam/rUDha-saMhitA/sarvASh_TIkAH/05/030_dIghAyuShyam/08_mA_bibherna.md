@@ -19,10 +19,9 @@ Ppp. reads for **b** *jaradaṣṭir bhaviṣyasi*.
 Be not alarmed: thou wilt not die. I give thee lengthened years of life. Forth from thy members have I charmed Decline that caused the fever there.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। बिभे:। न। मरिष्यसि। जरत्ऽअष्टिम्। कृणोमि। त्वा। नि:। अवोचम्। अहम्। यक्ष्मम्। अङ्गेभ्य:। अङ्गऽज्वरम्। तव। ३०.८।
+मा। बिभेः। न। मरिष्यसि। जरत्ऽअष्टिम्। कृणोमि। त्वा। निः। अवोचम्। अहम्। यक्ष्मम्। अङ्गेभ्यः। अङ्गऽज्वरम्। तव। ३०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

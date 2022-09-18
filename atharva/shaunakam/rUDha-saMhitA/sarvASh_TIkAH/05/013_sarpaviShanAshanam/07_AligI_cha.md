@@ -22,10 +22,9 @@ account in **b** of the two syllables that are lacking to make an
 And Aligi and Viligi, their father and the mother too,-- What will ye do? Your venomed sap, we know, is utterly powerless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽलिगी। च। विऽलिगी। च। पिता। च। माता। च। विद्म। व:। सर्वत:। बन्धु। अरसा:। किम्। करिष्यथ। १३.७।
+आऽलिगी। च। विऽलिगी। च। पिता। च। माता। च। विद्म। वः। सर्वतः। बन्धु। अरसाः। किम्। करिष्यथ। १३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

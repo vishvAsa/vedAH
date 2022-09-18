@@ -17,10 +17,9 @@ well-joined ones: hail!
 Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked coursers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। युनक्तु। बहुऽधा। वीर्याणि। अस्मिन्। यज्ञे। सुऽयुज:। स्वाहा। २६.११।
+इन्द्रः। युनक्तु। बहुऽधा। वीर्याणि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

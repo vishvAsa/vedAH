@@ -17,10 +17,9 @@ patrons (*sūrí*)—gleaming away our evil—
 Best praiser of all these be he, and foremost be our noble chiefs. His lustre flash our pain away!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। यत्। भन्दिष्ठ:। एषाम्। प्र। अस्माकास:। च। सूरय:। अप। न:। शोशुचत्। अघम्। ३३.३।
+प्र। यत्। भन्दिष्ठः। एषाम्। प्र। अस्माकासः। च। सूरयः। अप। नः। शोशुचत्। अघम्। ३३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

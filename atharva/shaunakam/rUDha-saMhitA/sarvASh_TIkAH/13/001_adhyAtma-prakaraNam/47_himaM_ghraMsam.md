@@ -21,7 +21,6 @@ Mythol.* i. 179, cites śB. i. 2. 5⁷.⌋
 He stablished heat and cold, he made the mountains sacrificial posts. Then both the Agnis, Rohita's who found celestial light, with rain for molten butter, sacrificed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हिमम। घ्रंसम्। च। आऽधाय। यूपान्। कृत्वा। पर्वतान्। वर्षऽआज्यौ। अग्नी इति। ईजाते इति। रोहितस्य। स्वःऽविदः। १.४७।

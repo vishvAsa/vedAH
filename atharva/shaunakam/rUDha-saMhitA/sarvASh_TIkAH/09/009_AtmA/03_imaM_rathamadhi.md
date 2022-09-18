@@ -19,7 +19,6 @@ RV. reads *navante* in **c**, and *nā́ma* in **d**.
 The seven who on this seven-wheeled car are mounted have horses, seven in tale, who draw them onward. Seven sisters utter songs of praise together, in whom the Cows' seven names are held and treasured.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इमम्। रथम्। अधि। ये। सप्त। तस्थुः। सप्तऽचक्रम्। सप्त। वहन्ति। अश्वाः। सप्त। स्वसारः। अभि। सम्। नवन्त। यत्र। गवाम्। निऽहिता। सप्त। नाम। १४.३।

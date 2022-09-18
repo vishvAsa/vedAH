@@ -19,7 +19,6 @@ Ppp. reads at end of **b** *vṛṣā* for *uṣāḥ*, and in **c** *ādityas* 
 From all that brings a curse may Day and Night and Dawn deliver me, May Soma free me, God to whom they give the name of Chan- dramas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मुञ्चन्तु। मा। शपथ्यात्। अहोरात्रे इति। अथो इति। उषाः। सोमः। मा। देवः। मुञ्चतु। यम्। आहुः। चन्द्रमाः। इति। ८.७।

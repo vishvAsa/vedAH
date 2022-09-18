@@ -7,7 +7,6 @@ title = "११८ आनृण्यम्"
 118. For relief from guilt.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आनृण्यम्।  
@@ -19,8 +18,6 @@ title = "११८ आनृण्यम्"
 [Kāuśika (anṛṇakāmaḥ).—āgneyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. ⌊The Kaṭha-version of vss. 1 and 2 is given by v.
 ### Translations
 Translated: Ludwig, p. 455; Griffith, i. 310.
 </details>
+

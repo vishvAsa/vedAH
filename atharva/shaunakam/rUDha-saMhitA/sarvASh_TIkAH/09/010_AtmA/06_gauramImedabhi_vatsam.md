@@ -22,7 +22,6 @@ Ppp. *apa*.
 The Cow hath lowed after her blinking youngling: she licks his forehead as she lows, to form it. His mouth she fondly calls to her warm udder, and suckles him with milk while gently lowing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गौः। अमीमेत्। अभि। वत्सम्। मिषन्तम्। मूर्धानम्। हिङ्। अकृणोत्। मातवै। ऊं इति। सृकाणम्। घर्मम्। अभि। वावशाना। मिमाति। मायुम्। पयते। पयःऽभिः। १५.६।

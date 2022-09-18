@@ -17,7 +17,6 @@ looking away.
 An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हेतिः। शफान्। उत्ऽखिदन्ती। महाऽदेवः। अपऽईक्षमाणा। ७.८।

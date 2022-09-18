@@ -24,7 +24,6 @@ with *yā ’psarasas s-* (for *yā́ aps-*), and in **b** puts *antara* (for
 Apsarases rejoice and feast together between the sun and place of sacrificing. These are thy kith and kin: go thou and join them: I in due season worship thee Gandharva.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप्सरसः। सधऽमादम्। मदन्ति। हविःऽधानम्। अन्तरा। सूर्यम्। च। ताः। ते। जनित्रम्। अभि। ताः। परा। इहि। नमः। ते। गन्धर्वऽऋतुना। कृणो‍मि। २.३४।

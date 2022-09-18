@@ -29,10 +29,9 @@ worse than superfluous *te* would make all regular, 11 + 11: 12 + 11.⌋
 Agni, drive off my rivals born and living, repel those yet unborn, O Jatavedas. Cast down beneath my feet mine adversaries. In Aditi's regard may we be sinless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। जातान्। प्र। नुद। मे। सऽपत्नान्। प्रति। अजातान्। जातऽवेद:। नुदस्व। अध:ऽपदम्। कृणुष्व। ये। पृतन्यव:। अनागस:। ते। वयम्। अदितये। स्याम। ३५.१।
+अग्ने। जातान्। प्र। नुद। मे। सऽपत्नान्। प्रति। अजातान्। जातऽवेदः। नुदस्व। अधःऽपदम्। कृणुष्व। ये। पृतन्यवः। अनागसः। ते। वयम्। अदितये। स्याम। ३५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ calls the offering referred to the *dadhigharma* (as Vāit.).
 Libation is prepared. Come to us, Indra: the Sun hath travelled over half his journey. Friends with their treasures sit around thee, waiting like heads of houses for their wandering chieftain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्रातम्। हवि:। ओ इति। सु। इन्द्र। प्र। याहि। जगाम। सूर:। अध्वन:। वि। मध्यम्। परि। त्वा। आसते। निधिऽभि:। सखाय:। कुलऽपा:। न। व्राजऽपतिम्। चरन्तम्। ७५.२।
+श्रातम्। हविः। ओ इति। सु। इन्द्र। प्र। याहि। जगाम। सूरः। अध्वनः। वि। मध्यम्। परि। त्वा। आसते। निधिऽभिः। सखायः। कुलऽपाः। न। व्राजऽपतिम्। चरन्तम्। ७५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

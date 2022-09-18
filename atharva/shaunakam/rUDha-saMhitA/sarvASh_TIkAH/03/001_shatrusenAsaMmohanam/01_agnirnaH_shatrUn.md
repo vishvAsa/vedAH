@@ -23,10 +23,9 @@ lacks a syllable, unless we allow ourselves to resolve *sé-na-ām.*
 Let the wise Agni go against our foemen, burning against ill-will and imprecation Let him bewilder our opponents' army, Let Jatavedas smite and make them handless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। न:। शत्रून्। प्रति। एतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। स:। सेनाम्। मोहयतु। परेषाम्। नि:ऽहस्तान्। च। कृणवत्। जातऽवेदा:। १.१।
+अग्निः। नः। शत्रून्। प्रति। एतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। सः। सेनाम्। मोहयतु। परेषाम्। निःऽहस्तान्। च। कृणवत्। जातऽवेदाः। १.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

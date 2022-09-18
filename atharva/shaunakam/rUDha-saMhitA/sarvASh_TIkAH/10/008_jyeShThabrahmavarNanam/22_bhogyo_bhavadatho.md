@@ -22,7 +22,6 @@ misprint for *bhógyo*.
 Useful will he become, and then will he consume great store of food The man who humbly worshippeth the eternal and victorious God.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भोग्यः। भवत्। अथो इति। अन्नम्। अदत्। बहु। यः। देवम्। उत्तरऽवन्तम्। उपऽआसातै। सनातनम्। ८.२२।

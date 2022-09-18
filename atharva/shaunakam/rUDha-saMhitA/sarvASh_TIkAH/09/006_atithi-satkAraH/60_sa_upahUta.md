@@ -16,7 +16,6 @@ title = "६० स उपहूत"
 He, having been invited hath been invited.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। उपहूतः। ११.१२।

@@ -29,10 +29,9 @@ Stenzler's note.⌋
 Around thee have I girt a zone of sugar-cane to banish hate. That thou mayst be in love with me, my darling never to depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। त्वा। परिऽतत्नुना। इक्षुणा। अगाम्। अविऽद्विषे। यथा। माम्। कामिनी। अस:। यथा। मत्। न। अपऽगाँ:। अस:।
+परि। त्वा। परिऽतत्नुना। इक्षुणा। अगाम्। अविऽद्विषे। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाँः। असः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

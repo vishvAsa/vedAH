@@ -7,7 +7,6 @@ title = "०४८ राका"
 48 (50). To Rākā (goddess of the full moon).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राका।  
@@ -18,8 +17,6 @@ title = "०४८ राका"
 
 [Atharvan.—dvyṛcam. mantroktadevatyam. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 17, 74; Griffith, i. 348.
 
 A prayer for prosperity and the birth of a son
 </details>
+

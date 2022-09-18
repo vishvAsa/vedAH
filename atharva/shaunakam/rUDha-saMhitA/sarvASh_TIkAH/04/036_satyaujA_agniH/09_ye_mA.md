@@ -28,10 +28,9 @@ of it the comm. has *durhatān*.
 Those who enrage me with their prate, as flies torment an elephant, I deem unhappy creatures, like small insects troublesome to man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। मा। क्रोधयन्ति। लपिता:। हस्तिनम्। मशका:ऽइव। तान्। अहम्। मन्ये। दु:ऽहितान्। जने। अल्पशयून्ऽइव। ३६.९।
+ये। मा। क्रोधयन्ति। लपिताः। हस्तिनम्। मशकाःऽइव। तान्। अहम्। मन्ये। दुःऽहितान्। जने। अल्पशयून्ऽइव। ३६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

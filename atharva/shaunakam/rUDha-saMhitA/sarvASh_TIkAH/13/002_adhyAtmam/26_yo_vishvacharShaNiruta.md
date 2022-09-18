@@ -31,7 +31,6 @@ accompany a certain *graha* in the building of the fire-altar.
 Dear unto all men, facing all directions, with hands and palms on every side extended, He, the sole God, engendering earth and heaven, beareth them with his wings and arms together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। विश्वऽचर्षणिः। उत। विश्वतःऽमुखः। यः। विश्वतःऽपाणिः। उत। विश्वतःऽपृथः। सम्। बाहुऽभ्याम्। भरति। सम्। पतत्रैः। द्यावापृथिवी इति। जनयन्। देवः। एकः। २.२६।

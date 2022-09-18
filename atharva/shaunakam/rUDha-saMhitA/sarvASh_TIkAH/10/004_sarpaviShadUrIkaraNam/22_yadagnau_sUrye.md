@@ -20,7 +20,6 @@ vs. 25.
 All poison that the sun and fire, all that the earth and plants contain, Poison of most effectual power--let all thy venom pass away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अग्नौ। सूर्ये। विषम्। पृथिव्याम्। ओषधीषु। यत्। कान्दाऽविषम्। कनक्नकम्। निःऽऐतु। आ। एतु। ते। विषम्। ४.२२।

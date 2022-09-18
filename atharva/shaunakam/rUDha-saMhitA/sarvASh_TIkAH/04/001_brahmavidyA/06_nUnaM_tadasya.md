@@ -28,10 +28,9 @@ a syllable, unless we resolve *pū́-ru-e*.
 The sage and poet verily advanceth the statute of that mighty God primeval. He was born here with many more beside him: they slumbered when the foremost side was opened.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नूनम्। तत्। अस्य। काव्य:। हिनोति। मह:। देवस्य। पूर्व्यस्य। धाम। एष:। जज्ञे। बहुऽभि:। साकम्। इत्था। पूर्वे। अर्धे। विऽसिते ससन्। नु। १.६।
+नूनम्। तत्। अस्य। काव्यः। हिनोति। महः। देवस्य। पूर्व्यस्य। धाम। एषः। जज्ञे। बहुऽभिः। साकम्। इत्था। पूर्वे। अर्धे। विऽसिते ससन्। नु। १.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

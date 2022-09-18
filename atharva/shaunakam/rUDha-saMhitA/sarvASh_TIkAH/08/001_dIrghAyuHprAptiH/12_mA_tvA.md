@@ -24,10 +24,9 @@ The comm. reads *saṁkusukāt* in **b**.
 Let not the Flesh-Consumer plot against thee: depart thou far away from the Destroyer. Be Heaven and Earth and Sun and Moon thy keepers, and from the dart of Gods may Air protect thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। त्वा। क्रव्यऽअत्। अभि। मंस्त। आरात्। सम्ऽकसुकात्। चर। रक्षतु। त्वा। द्यौ:। रक्षतु। त्वा। द्यौ:। रक्षतु। पृथिवी। सूर्य:। च। त्वा। रक्षताम्। चन्द्रमा:। च। अन्तरिक्षम्। रक्षतु। देवऽहेत्या:। १.१२।
+मा। त्वा। क्रव्यऽअत्। अभि। मंस्त। आरात्। सम्ऽकसुकात्। चर। रक्षतु। त्वा। द्यौः। रक्षतु। त्वा। द्यौः। रक्षतु। पृथिवी। सूर्यः। च। त्वा। रक्षताम्। चन्द्रमाः। च। अन्तरिक्षम्। रक्षतु। देवऽहेत्याः। १.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,7 +25,6 @@ Wint., p. 48 f. For the *pāṇigrahaṇa*, he cites Rāmāyaṇa, i. 75
 As Agni in the olden time took the right hand of this our Earth. Even so I take and hold thy hand: be not disquieted, with me, with children and with store of wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। अग्निः। अस्याः। भूम्याः। हस्तम्। जग्राह। दक्षिणम्। तेन। गृह्णामि। ते। हस्तम्। मा। व्यथिष्ठाः। मया। सह। प्रऽजया। च। धनेन। च। १.४८।

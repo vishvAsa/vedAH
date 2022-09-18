@@ -32,7 +32,6 @@ SPP. reads *te*, construing **a-d** together, and **e-f** separately:
 Here these my words, ye men, the benediction through which the wedded pair have found high fortune. May the divine Apsarases, Gandharvas, all they who are these fruitful trees' protectors, Regard this bride with their auspicious, favour, nor harm the nuptial pomp as it advances.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। सु। मे। नरः। शृणुत। यया। आऽशिषा। दंपती इति दम्ऽपती। वामम्। अश्नुतः। ये। गन्धर्वाः। अप्सरसः। च। देवीः। एषु। वानस्पत्येषु। ये। अधि। तस्थुः। स्योनाः। ते। अस्यै। वध्वै। भवन्तु। मा। हिंसिषुः। वहतुम्। उह्यमानम्। २.९।

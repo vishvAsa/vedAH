@@ -17,7 +17,6 @@ let the *varaṇá* amulet etc. etc.
 As glory dwelleth in the draught of Soma and the honeyed. drink, So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। सोमऽपीथे। मधुऽपर्के। यथा। यशः। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२१।

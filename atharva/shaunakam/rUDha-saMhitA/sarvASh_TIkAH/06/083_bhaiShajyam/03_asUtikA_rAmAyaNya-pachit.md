@@ -25,10 +25,9 @@ up.' For *rāmāyaṇī*, compare vii. 74. 1.
 Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The Boil shall fly away from us, the morbid growth shall vanish hence. Taste, happy in thy mind, thine own oblation, as I with Svaha with my heart present it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-असूतिका। रामायणी। अपऽचित्। प्र। पतिष्यति। ग्लौ:। इत:। प्र। पतिष्यति। स:। गलुन्त:। नाशिष्यति। ८३.३।
+असूतिका। रामायणी। अपऽचित्। प्र। पतिष्यति। ग्लौः। इतः। प्र। पतिष्यति। सः। गलुन्तः। नाशिष्यति। ८३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

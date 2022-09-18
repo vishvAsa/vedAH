@@ -22,7 +22,6 @@ admit of question; Ppp. appears to read it.
 On Skambha Fervour rests, the worlds and Holy Law repose on him. Skambha, I clearly know that all of thee on Indra is imposed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्कम्भे। लोकाः। स्कम्भे। तपः। स्कम्भे। अधि। ऋतम्। आऽहितम्। स्कम्भ। त्वा। वेद। प्रतिऽअक्षम्। इन्द्रे। सर्वम्। सम्ऽआहितम्। ७.२९।

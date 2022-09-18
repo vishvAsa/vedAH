@@ -23,7 +23,6 @@ imām*.
 Your portion from of old is triply parted, portion of Gods, of Fathers, and of mortals. Know, all, your shares. I deal them out among you. The portion of the Gods shall save this woman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रेधा। भागः। निऽहितः। यः। पुरा। वः। देवानाम्। पितॄणाम्। मर्त्यानाम्। अंशान्। जानीध्वम्। वि। भजामि। तान्। वः। यः। देवानाम्। सः। इमाम्। पारयाति। १.५।

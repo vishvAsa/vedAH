@@ -18,7 +18,6 @@ Ppp. omits *vā* in **b**.
 That decked by Wind, and that prepared by Indra Brahman- aspati, Agnis of Rohita who found light, prayer-enkindled, sacrificed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। वातः। परिऽशुम्भति। यम्। वा। इन्द्रः। ब्रह्मणः। पतिः। ब्रह्मऽइध्दौ। अग्नी इति। ईजाते‍ इति। रोहितस्य। स्वःऽविदः। १.५१।

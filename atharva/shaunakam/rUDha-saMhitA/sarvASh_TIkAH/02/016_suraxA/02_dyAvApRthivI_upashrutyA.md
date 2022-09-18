@@ -27,7 +27,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्यावापृथिवी इति। उपऽश्रुत्या। मा। पातम्। स्वाहा। १६.२।

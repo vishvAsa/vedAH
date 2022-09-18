@@ -26,10 +26,9 @@ reads *agnís* at the beginning, *purástāt* for *páreṣām* in **a**, and
 Baffling the range of our opponents, Agni! guard us as our protector round about us. Down the steep slope go they who hate us, backward, and let their thought who watch at home be ruined.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। मन्युम्। प्रतिऽनुदन्। परेषाम्। त्वम्। न:। गोपा:। परि। पाहि। विश्वत:। अपाञ्च:। यन्तु। निऽवता। दूरस्यव:। अमा। एषाम्। चित्तम्। प्रऽबुधाम्। वि। नेशत्। ३.२।
+अग्ने। मन्युम्। प्रतिऽनुदन्। परेषाम्। त्वम्। नः। गोपाः। परि। पाहि। विश्वतः। अपाञ्चः। यन्तु। निऽवता। दूरस्यवः। अमा। एषाम्। चित्तम्। प्रऽबुधाम्। वि। नेशत्। ३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

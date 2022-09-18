@@ -21,7 +21,6 @@ evidently sees in it the root *jā*. In **a** he has the strange reading
 Low let the hostile army lie, thousands of corpses, on the ground, Pierced through and rent to pieces where the deadly weapons clash in fight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽकुणपा। शेताम्। आमित्री। सेना। सम्ऽअरे। वधानाम्। विऽविध्दा। ककजाऽकृता। १२.२५।

@@ -23,10 +23,9 @@ to admit the contraction *naḍe ’va* in 2 **c**, 3 **c**.
 They might be measured with a rein, meted with both extended arms. Let the black locks spring thick and strong and grow like reeds upon thy head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभीशुना:। मेया:। आसन्। विऽआमेन। अनुऽमेया:। केशा:। नडा:ऽइव। वर्धन्ताम्। शीर्ष्ण:। ते। असिता:। परि। १३७.२।
+अभीशुनाः। मेयाः। आसन्। विऽआमेन। अनुऽमेयाः। केशाः। नडाःऽइव। वर्धन्ताम्। शीर्ष्णः। ते। असिताः। परि। १३७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ hatā viśvā ’rātaya anena vacasā mama* (cf. 2 **c, d**).
 The worm Saranga, white of hue, three-headed, with a triple hump, I split and tear his ribs away, I wrench off every head he has.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हत:। येवाष:। क्रिमीणाम्। हत:। नदनिमा। उत। सर्वान्। नि। मष्मषा। अकरम्। दृषदा। खल्वान्ऽइव। २३.८।
+हतः। येवाषः। क्रिमीणाम्। हतः। नदनिमा। उत। सर्वान्। नि। मष्मषा। अकरम्। दृषदा। खल्वान्ऽइव। २३.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

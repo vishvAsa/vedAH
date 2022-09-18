@@ -23,7 +23,6 @@ not duly expiated. The Āp.-text (Wint., p. 67 ⌊MP. i. 6. 8⌋) has for a
 It turneth dusky-red: the witch who clingeth close is driven off. Well thrive the kinsmen of this bride: the husband is bound fast in bonds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नीलऽलोहितम्। भवति। कृत्या। आसक्तिः। वि। अज्यते। एधन्ते। अस्याः। ज्ञातयः। पतिः। बन्धेषु। बध्यते। १.२६।

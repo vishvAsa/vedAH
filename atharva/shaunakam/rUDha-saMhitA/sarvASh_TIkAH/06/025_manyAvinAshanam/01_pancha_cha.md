@@ -33,10 +33,9 @@ comm. renders *vākā́s* by *vākyāni*.
 May all the five-and-fifty which meet round the tendons of the neck. Depart and vanish hence away like plaguing insects buzz and hum!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्च। च। या:। पञ्चाशत्। च। सम्ऽयन्ति। मन्या:। अभि। इत:। ता:। सर्वा:। नश्यन्तु। वाका:। अपचिताम्ऽइव। २५.१।
+पञ्च। च। याः। पञ्चाशत्। च। सम्ऽयन्ति। मन्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

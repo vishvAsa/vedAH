@@ -20,10 +20,9 @@ deficiency in **a**.
 Keener than is the axe's edge, keener than Agni's self are they, Keener than Indra's bolt are they whose Priest and President am I.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तीक्ष्णीयांस:। परशो:। अग्ने:। तीक्ष्णऽतरा:। उत। इन्द्रस्य। वज्रात्। तीक्ष्णीयांस:। येषाम्। अस्मि। पुर:ऽहित:। १९.४।
+तीक्ष्णीयांसः। परशोः। अग्नेः। तीक्ष्णऽतराः। उत। इन्द्रस्य। वज्रात्। तीक्ष्णीयांसः। येषाम्। अस्मि। पुरःऽहितः। १९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ This verse is wanting in Ppp.
 Brahma inhabits with the Gods, Brahma among the Heavenly Tribes. Brahma this other star is called. Brahma is called the Real Power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्म। देवान्। अनु। क्षियति। ब्रह्म। दैवऽजनीः। विशः। ब्रह्म। इदम्। अन्यत्। नक्षत्रम्। ब्रह्म। सत्। क्षत्रम्। उच्यते। २.२३।

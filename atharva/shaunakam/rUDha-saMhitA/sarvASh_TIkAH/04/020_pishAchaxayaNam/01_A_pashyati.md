@@ -25,7 +25,6 @@ having something about it that resembles or suggests eyes. Ppp. reads
 It sees in front, it sees behind, it sees afar away, it sees The sky, the firmament, and earth: all this, O Goddess, it beholds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। पश्यति। प्रति। पश्यति। परा। पश्यति। पश्यति। दिवम्। अन्तरिक्षम्। आत्। भूमिम्। सर्वम्। तत्। देवि। पश्यति। २०.१।

@@ -35,10 +35,9 @@ VS.TS.MS., is similar: see note to ii. 6. 3⌋. Ppp. reads *dabhan* for
 Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by thinking of thee first. Light be thy task of ruling, Agni, with, thy power: may he who worships thee wax strong, invincible.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। अग्ने। अधि। धारय। रयिम्। मा। त्वा। नि। क्रन्। पूर्वऽचित्ता:। निऽकारिण:। क्षत्रेण। अग्ने। सुऽयमम्। अस्तु। तुभ्यम्। उपऽसत्ता। वर्धताम्। ते। अनिऽस्तृत:। ८७.३।
+इह। एव। अग्ने। अधि। धारय। रयिम्। मा। त्वा। नि। क्रन्। पूर्वऽचित्ताः। निऽकारिणः। क्षत्रेण। अग्ने। सुऽयमम्। अस्तु। तुभ्यम्। उपऽसत्ता। वर्धताम्। ते। अनिऽस्तृतः। ८७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

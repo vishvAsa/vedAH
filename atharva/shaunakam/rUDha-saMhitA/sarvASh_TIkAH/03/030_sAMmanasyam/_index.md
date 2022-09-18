@@ -7,7 +7,6 @@ title = "०३० सांमनस्यम्"
 30. For concord.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -19,8 +18,6 @@ title = "०३० सांमनस्यम्"
 [Atharvan.—saptarcam. cāndramasam, sāmmanasyam. ānuṣṭubham: 5. virāḍjagatī; 6. prastārapan̄kti; 7. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found in Pāipp. v. Reckoned in Kāuś. (12. 5), with various other passages, to
 
 On the means to obtain immunity from taxation in the next world
 </details>
+

@@ -19,7 +19,6 @@ together in giving his explanations.
 Of that Odana Brihaspati is the head, Brahma the mouth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्य। ओदनस्य। बृहस्पतिः। शिरः। ब्रह्म। मुखम्। ३.१।

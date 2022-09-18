@@ -26,10 +26,9 @@ authorities.
 Whoever steals to thee asleep or thinks to harm thee when awake,-- These hath it banished, as the Sun travelling round drives shade away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। स्वपन्तीम्। त्सरति। य:। त्वा। दिप्सति। जाग्रतीम्। छायाम्ऽइव। प्र। तान्। सूर्य:। परिऽक्रामन्। अनीनशत्। ६.८।
+यः। त्वा। स्वपन्तीम्। त्सरति। यः। त्वा। दिप्सति। जाग्रतीम्। छायाम्ऽइव। प्र। तान्। सूर्यः। परिऽक्रामन्। अनीनशत्। ६.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

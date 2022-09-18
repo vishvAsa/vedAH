@@ -18,7 +18,6 @@ truth, so let the *varaṇá* amulet etc. etc.
 As immortality and truth have been established in the Gods, So may the Charm, the Varana, give me prosperity and fame. With lustre let it sprinkle me, and balm me with magnificence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। देवेषु। अमृतम्। यथा। एषु। सत्यम्। आऽहितम्। एव। मे। वरणः। मणिः। कीर्तिम्। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.२५।

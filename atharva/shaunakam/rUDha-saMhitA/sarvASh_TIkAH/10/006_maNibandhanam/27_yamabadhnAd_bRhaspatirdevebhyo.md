@@ -21,7 +21,6 @@ x. 381. Correct the Berlin edition, and also that of SPP., who has
 The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of light, with honour and illustrious fame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। तेजसा। त्विष्या। सह। यशसा। कीर्त्या। सह। ६.२७।

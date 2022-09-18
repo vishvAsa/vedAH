@@ -24,10 +24,9 @@ neither there nor here. The three following verses are the same with ii.
 I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to pieces with a spell that erst Agastya used.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रिऽशीर्षाणम्। त्रिऽककुदम्। क्रिमिम्। सारङ्गम्। अर्जुनम्। शृणामि। अस्य। पृष्टी:। अपि। वृश्चामि। यत्। शिर:। २३.९।
+त्रिऽशीर्षाणम्। त्रिऽककुदम्। क्रिमिम्। सारङ्गम्। अर्जुनम्। शृणामि। अस्य। पृष्टीः। अपि। वृश्चामि। यत्। शिरः। २३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

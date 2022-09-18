@@ -19,7 +19,6 @@ regular, thus sanctioning the resolution *-dhā-ma-naḥ*.
 We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behind our backs the vipers here crouch down and lie in wait for us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पैद्वस्य। मन्महे। वयम्। स्थिरस्य। स्थिरऽधाम्नः। इमे। पश्चा। पृदाकवः। प्रऽदीध्यतः। आसते। ४.११।

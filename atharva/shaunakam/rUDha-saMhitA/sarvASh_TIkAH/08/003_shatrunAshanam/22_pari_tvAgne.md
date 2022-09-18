@@ -30,10 +30,9 @@ from our AV. text. ⌊Here and in vs. 23, W. queries his version of
 We set thee round us as a fort, victorious Agni! thee, a sage, In conquering colour day by day, destroyer of the treacherous foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। त्वा। अग्ने। पुरम्। वयम्। विप्रम्। सहस्य। धीमहि। धृषत्ऽवर्णम्। दिवेऽदिवे। हन्तारम्। भङ्गुरऽवत:। ३.२२।
+परि। त्वा। अग्ने। पुरम्। वयम्। विप्रम्। सहस्य। धीमहि। धृषत्ऽवर्णम्। दिवेऽदिवे। हन्तारम्। भङ्गुरऽवतः। ३.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

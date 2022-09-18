@@ -7,7 +7,6 @@ title = "१०२ आत्मनोऽहिंसनम्"
 102 (107). Accompanying self-relief.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मनोऽहिंसनम्।  
@@ -19,8 +18,6 @@ title = "१०२ आत्मनोऽहिंसनम्"
 [Prajāpati.—mantroktanānādevatyam. virāṭ purastādbṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Wanting in Pāipp. Kāuś. (52. 15) prescribes it in a rite for welfare, "with a
 ### Translations
 Translated: Henry, 41, 115; Griffith, i. 378.
 </details>
+

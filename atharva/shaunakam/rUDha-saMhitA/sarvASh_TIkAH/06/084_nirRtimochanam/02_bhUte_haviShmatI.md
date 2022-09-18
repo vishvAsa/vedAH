@@ -19,10 +19,9 @@ beginning to *bhū́me*.
 Be thou enriched, O Welfare, with oblations, here among us is thine allotted portion. Free--Hail to thee!--from sin those here and yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भूते। हविष्मती। भव। एष:। ते। भाग:। य:। अस्मासु। मुञ्च। इमान्। अमून्। एनस:। स्वाहा। ८४.२।
+भूते। हविष्मती। भव। एषः। ते। भागः। यः। अस्मासु। मुञ्च। इमान्। अमून्। एनसः। स्वाहा। ८४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

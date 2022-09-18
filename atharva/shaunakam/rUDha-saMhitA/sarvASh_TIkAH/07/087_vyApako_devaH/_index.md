@@ -7,7 +7,6 @@ title = "०८७ व्यापको देवः"
 87 (92). Homage to Rudra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 व्यापको देवः।  
@@ -18,8 +17,6 @@ title = "०८७ व्यापको देवः"
 
 [Atharvan.—rāudram. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, iv2. 333; Henry, 36, 106; Griffith, i. 372.
 
 A prayer to Rudra as Agni
 </details>
+

@@ -20,10 +20,9 @@ final *ḥ*, as usual; SPP. does not note anything as to his authorities.
 All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the balm that heals this ill: this boon let us enjoy from you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिन्धुऽपत्नी:। सिन्धुऽराज्ञी:। सर्वा:। या:। नद्य:। स्थन। दत्त। न:। तस्य। भेषजम्। तेन। व:। भुनजामहै। २४.३।
+सिन्धुऽपत्नीः। सिन्धुऽराज्ञीः। सर्वाः। याः। नद्यः। स्थन। दत्त। नः। तस्य। भेषजम्। तेन। वः। भुनजामहै। २४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

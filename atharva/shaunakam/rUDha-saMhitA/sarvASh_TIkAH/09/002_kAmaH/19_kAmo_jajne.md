@@ -21,10 +21,9 @@ no ’ta martyāḥ;* and it combines in **d** *namāi ’t*. The verse (9 ⌊10
 First before all sprang Kama into being. Gods, Fathers, mortal men have never matched him. Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-काम:। जज्ञे। प्रथम:। न। एनम्। देवा:। आपु:। पितर:। न। मर्त्या:। तत:। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नम:। इत्। कृणोमि। २.१९।
+कामः। जज्ञे। प्रथमः। न। एनम्। देवाः। आपुः। पितरः। न। मर्त्याः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

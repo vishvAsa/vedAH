@@ -25,10 +25,9 @@ In **d** the construction of the two nouns is reversible.
 They call the cold months six, and six the hot ones. Which, tell us, of the seasons is redundant? Seven sages, eagles, have sat down together: seven metres match the seven Consecrations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-षट्। आहु:। शीतान्। षट्। ऊं इति। मास:। उष्णान्। ऋतुम्। न:। ब्रूत। यतम:। अतिऽरिक्त:। सप्त। सुऽपर्णा:। कवय:। नि। सेदु:। सप्त। छन्दांसि। अनु। सप्त। दीक्षा:। ९.१७।
+षट्। आहुः। शीतान्। षट्। ऊं इति। मासः। उष्णान्। ऋतुम्। नः। ब्रूत। यतमः। अतिऽरिक्तः। सप्त। सुऽपर्णाः। कवयः। नि। सेदुः। सप्त। छन्दांसि। अनु। सप्त। दीक्षाः। ९.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

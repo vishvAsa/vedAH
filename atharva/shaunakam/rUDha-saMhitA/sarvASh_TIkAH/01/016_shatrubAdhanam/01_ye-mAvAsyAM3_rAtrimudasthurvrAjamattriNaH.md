@@ -29,10 +29,9 @@ pātu tebhyaḥ.*
 May potent Agni who destroys the demons bless and shelter us. From greedy fiends who rise in troops at night-time when the moon is dark.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अमाऽवास्याम्। रात्रिम्। उत्ऽअस्थु:। व्राजम्। अत्त्रिण:। अग्नि:। तुरीय:। यातुऽहा। स:। अस्मभ्यम्। अधि। व्रवत्।
+ये। अमाऽवास्याम्। रात्रिम्। उत्ऽअस्थुः। व्राजम्। अत्त्रिणः। अग्निः। तुरीयः। यातुऽहा। सः। अस्मभ्यम्। अधि। व्रवत्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

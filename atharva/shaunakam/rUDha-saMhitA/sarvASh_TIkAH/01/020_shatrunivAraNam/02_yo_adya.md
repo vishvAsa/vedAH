@@ -23,10 +23,9 @@ has), unless the word were understood as feminine.
 Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that flies to-day, the missile of the wicked ones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अद्य। सेन्य:। वध:। अघऽयूनाम्। उत्ऽईरते। युवम्। तम्। मित्रावरुणौ। अस्मत्। यवयतम्। परि।
+यः। अद्य। सेन्यः। वधः। अघऽयूनाम्। उत्ऽईरते। युवम्। तम्। मित्रावरुणौ। अस्मत्। यवयतम्। परि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

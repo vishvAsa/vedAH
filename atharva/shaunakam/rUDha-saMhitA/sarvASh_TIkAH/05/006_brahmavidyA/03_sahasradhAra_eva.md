@@ -23,10 +23,9 @@ at beginning of **c**, and *sétavas* at end of **d**. Ppp. begins with
 Sweet-tongued, exhaustless, they have sent their voices down together in heaven's vault that pours a thousand streams. His wildly-restless warders never close an eye: in every place the snarers stand to bind men fast.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहस्रऽधारे। एव। ते। सम्। अस्वरन्। दिव:। नाके। मधुऽजिह्वा:। असश्चत:। तस्य। स्पश:। न। न‍ि। मिषन्ति। भूर्णय:। पदेऽपदे। पाशिन:। सन्ति। सेतवे। ६.३।
+सहस्रऽधारे। एव। ते। सम्। अस्वरन्। दिवः। नाके। मधुऽजिह्वाः। असश्चतः। तस्य। स्पशः। न। न‍ि। मिषन्ति। भूर्णयः। पदेऽपदे। पाशिनः। सन्ति। सेतवे। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ expressly note such omission⌋.
 Not one of them is incompetent to sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तेषाम्। न। कः। चन। अहोता। ११.४।

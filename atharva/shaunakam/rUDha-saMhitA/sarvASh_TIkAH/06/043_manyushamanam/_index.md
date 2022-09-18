@@ -7,7 +7,6 @@ title = "०४३ मन्युशमनम्"
 43. To assuage wrath.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मन्युशमनम्।  
@@ -18,8 +17,6 @@ title = "०४३ मन्युशमनम्"
 
 [(As 42.)—manyuśamanadevatākam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 303 or 55; Grill, 30, 162; Griffith, i. 267; Bloomfield, 13
 
 The same
 </details>
+

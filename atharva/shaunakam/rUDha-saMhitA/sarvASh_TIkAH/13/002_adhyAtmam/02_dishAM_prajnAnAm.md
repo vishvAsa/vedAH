@@ -24,7 +24,6 @@ prajñā́nīḥ*. Ppp. reads *prajñānaṁ svadayanto arc-*; and it combines i
 Let us laud him, the whole world's Herdsman, Surya, who with his rays illumines all the regions, Mark of the quarters, brightening them with lustre, swift, mighty-pinioned, flying in the ocean.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिशाम्। प्रऽज्ञानाम्। स्वरयन्तम्। अर्चिषा। सुऽपक्षम्। आशुम्। पतयन्तम्। अर्णवे। स्तवाम्। सूर्यम्। भुवनस्य। गोपाम्। यः। रश्मिऽभिः। दिशः। आऽभातिः। सर्वाः। 2.२।

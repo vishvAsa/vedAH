@@ -18,7 +18,6 @@ Here the refrain stands again in grammatical connection.
 Then let each greedy beast of prey, and fly and worm regale itself Upon the human corpse where one, Arbudi, hath been pierced by thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अथो इति। सर्वम्। श्वापदम्। मक्षिका। तृप्यतु। क्रिमिः। पौरुषेये। अधि। कुणपे। रदिते। अर्बुदे। तव। ११.१०।

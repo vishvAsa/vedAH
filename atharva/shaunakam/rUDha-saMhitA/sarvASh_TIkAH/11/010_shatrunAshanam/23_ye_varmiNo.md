@@ -19,7 +19,6 @@ wholly inadmissible, and should be emended to *yè ‘v-*.
 The armour-clad, the armourless, enemies clothed with coats of mail, All these struck down, O Arbudi, let dogs devour upon the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। वर्मिणः। ये। अवर्माणः। अमित्राः। ये। च। वर्मिणः। सर्वान्। तान्। अर्बुदे। हतान्। श्वानः। अदन्तु। भूम्याम्। १२.२३।

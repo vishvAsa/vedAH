@@ -22,10 +22,9 @@ unintelligible; its **d** is *punar ṇo naṣṭam ā kṛdhi*.⌋
 From out the distance, far and wide, may Pushan stretch his right hand forth. Let him drive back our lost to us, let us return with what is lost.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। पूषा। परस्तात्। हस्तम्। दधातु। दक्ष‍िणम्। पुन:। न:। नष्टम्। आ। अजतु। सम्। नष्टेन। गमेमहि। १०.४।
+परि। पूषा। परस्तात्। हस्तम्। दधातु। दक्ष‍िणम्। पुनः। नः। नष्टम्। आ। अजतु। सम्। नष्टेन। गमेमहि। १०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

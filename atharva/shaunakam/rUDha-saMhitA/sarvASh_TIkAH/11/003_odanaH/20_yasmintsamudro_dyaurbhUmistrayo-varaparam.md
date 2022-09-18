@@ -17,7 +17,6 @@ three, sea, sky, earth.
 Whereon in order rest the three, the ocean, and the heaven, and earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। समुद्रः। द्यौः। भूमिः। त्रयः। अवरऽपरम्। श्रिताः। ३.२०।

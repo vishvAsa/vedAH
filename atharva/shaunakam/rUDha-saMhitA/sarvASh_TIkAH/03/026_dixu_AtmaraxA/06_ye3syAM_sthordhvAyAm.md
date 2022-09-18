@@ -22,10 +22,9 @@ mṛḍayata té yáṁ dviṣmó yáś ca no dvéṣṭi táṁ vo jámbhe dadh
 Ye Gods whose home is in this upmost region, Yearners by name, Brihaspati forms your arrows. Be kind and gracious unto us and bless us. To you be reverence, to you be welcome!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। ऊर्घ्वायाम्। दिशि। अवस्वन्त:। नाम। देवा:। तेषाम्। व:। बृहस्पति:। इषव:। ते। न:। मृडत। ते। न:। अधि। ब्रूत। तेभ्य:। व:। नम:। तेभ्य:। व:। स्वाहा। २६.६।
+ये। अस्याम्। स्थ। ऊर्घ्वायाम्। दिशि। अवस्वन्तः। नाम। देवाः। तेषाम्। वः। बृहस्पतिः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

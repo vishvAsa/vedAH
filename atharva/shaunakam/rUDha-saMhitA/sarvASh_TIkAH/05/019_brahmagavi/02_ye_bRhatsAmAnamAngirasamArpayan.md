@@ -23,10 +23,9 @@ corresponds with its present form; but **a** invites emendation.
 When men pierced Brihatsaman through, the Brahman, son of Angiras, The ram with teeth in both his jaws, the sheep, devoured their progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। बृहत्ऽसामानम्। अङ्गिरसम्। आर्पयन्। ब्राह्मणम्। जना:। पेत्व:। तेषाम्। उभयादम्। अवि:। तोकानि। आवयत्। १९.२।
+ये। बृहत्ऽसामानम्। अङ्गिरसम्। आर्पयन्। ब्राह्मणम्। जनाः। पेत्वः। तेषाम्। उभयादम्। अविः। तोकानि। आवयत्। १९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

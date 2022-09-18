@@ -22,10 +22,9 @@ the note to vs. 2).⌋
 Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt of thunder. I, suppliant, praise and ever call on Bhav and Sarva. Set us free from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधि। न:। ब्रूतम्। पृतनासु। उग्रौ। सम्। वज्रेण। सृजतम्। य:। किमीदी। स्तौमि। भवाशर्वौ। नाथित:। जोहवीमि। तौ। न:। मुञ्चतम्। अंहस:। २८.७।
+अधि। नः। ब्रूतम्। पृतनासु। उग्रौ। सम्। वज्रेण। सृजतम्। यः। किमीदी। स्तौमि। भवाशर्वौ। नाथितः। जोहवीमि। तौ। नः। मुञ्चतम्। अंहसः। २८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

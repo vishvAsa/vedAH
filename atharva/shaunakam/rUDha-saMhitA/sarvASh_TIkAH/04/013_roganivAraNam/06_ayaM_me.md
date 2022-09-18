@@ -19,10 +19,9 @@ of RV. x. 137. 6.
 Felicitous is this my hand, yet more felicitous is this. This hand contains all healing balms, and this makes whole with gentle touch.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। मे। हस्त:। भगऽवान्। अयम्। मे। भगवत्ऽतर:। अयम्। मे। विश्वऽभेषज:। अयम्। शिवऽअभिमदर्शन:। १३.६।
+अयम्। मे। हस्तः। भगऽवान्। अयम्। मे। भगवत्ऽतरः। अयम्। मे। विश्वऽभेषजः। अयम्। शिवऽअभिमदर्शनः। १३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

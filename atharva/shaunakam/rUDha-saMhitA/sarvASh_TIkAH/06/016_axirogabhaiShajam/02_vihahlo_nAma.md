@@ -29,10 +29,9 @@ mend the meter of **c** if such stuff were worth mending.⌋
 Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not he, thou who hast well protected life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विऽहह्ल:। नाम। ते। पिता। मदऽवती। नाम। ते। माता। स:। हिन। त्वम्। असि। य:। त्वम्। आत्मानम्। आवय:। १६.२।
+विऽहह्लः। नाम। ते। पिता। मदऽवती। नाम। ते। माता। सः। हिन। त्वम्। असि। यः। त्वम्। आत्मानम्। आवयः। १६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

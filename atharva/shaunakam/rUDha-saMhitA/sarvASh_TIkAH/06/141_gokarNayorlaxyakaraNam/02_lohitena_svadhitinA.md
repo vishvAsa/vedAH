@@ -25,10 +25,9 @@ MB. (i. 8. 7) has the first half-verse, with *kṛtam* for *kṛdhi*.
 Take thou the iron axe and make a pair by marks upon their ears. This sign the Asvins have impressed: let these increase and multiply.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-लोहितेन। स्वऽधितिना। मिथुनम्। कर्णयो:। कृधि। अकर्ताम्‌। अश्विना। लक्ष्म। तत्। अस्तु। प्रऽजया। बहु। १४१.२।
+लोहितेन। स्वऽधितिना। मिथुनम्। कर्णयोः। कृधि। अकर्ताम्‌। अश्विना। लक्ष्म। तत्। अस्तु। प्रऽजया। बहु। १४१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

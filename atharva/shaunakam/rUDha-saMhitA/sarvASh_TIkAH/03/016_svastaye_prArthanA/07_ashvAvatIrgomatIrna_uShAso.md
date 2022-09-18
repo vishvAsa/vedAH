@@ -21,10 +21,9 @@ possibly to be preferred. ⌊Delete the accent-mark under *gómatīr.*⌋
 May the kind Mornings dawn on us for ever with, wealth of kine, of horses, and of heroes. Streaming with all abundance, pouring fatness, Do ye preserve us evermore with blessings!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वऽवती:। गोऽमती:। न:। उषस:। वीरऽवती:। सदम्। उच्छन्तु। भद्रा:। घृतम्। दुहाना:। विश्वत:। प्रऽपीता:। यूयम्। पात। स्वस्तिऽभि:। सदा। न:। १६.७।
+अश्वऽवतीः। गोऽमतीः। नः। उषसः। वीरऽवतीः। सदम्। उच्छन्तु। भद्राः। घृतम्। दुहानाः। विश्वतः। प्रऽपीताः। यूयम्। पात। स्वस्तिऽभिः। सदा। नः। १६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

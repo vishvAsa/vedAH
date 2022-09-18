@@ -30,10 +30,9 @@ ends vs. 1 with the fourth pāda, adding the other two to vs. 2.
 Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are thy tendrils, three-and-thirty thy descending shoots. With this that bears a thousand leaves I dry thy heart and wither it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-निऽअस्तिका। रुरोहिथ। सुभगम्ऽकरणी। मम। शतम्। तव। प्रऽताना:। त्रय:ऽत्रिंशत्। निऽताना:। तया। सहस्रऽपर्ण्या। हृदयम्। शोषयामि। ते। १३९.१।
+निऽअस्तिका। रुरोहिथ। सुभगम्ऽकरणी। मम। शतम्। तव। प्रऽतानाः। त्रयःऽत्रिंशत्। निऽतानाः। तया। सहस्रऽपर्ण्या। हृदयम्। शोषयामि। ते। १३९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ defined by the Anukr. ⌊which seems to scan as 11 + 9: 9 + 11⌋.
 She who with voice upraised in constant clamour, mighty, life- giving, goes unto her function, Bellowing to the heated three libations, suckles with streams of milk, and still is lowing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिङ्ऽकरिक्रती। बृहती। वय:ऽधा:। उच्चै:ऽघोषा। अभिऽएति। या। व्रतम्। त्रीन्। धर्मान्। अभि। वावशाना। मिमाति। मायुम्। पयते। पय:ऽभि:। १.८।
+हिङ्ऽकरिक्रती। बृहती। वयःऽधाः। उच्चैःऽघोषा। अभिऽएति। या। व्रतम्। त्रीन्। धर्मान्। अभि। वावशाना। मिमाति। मायुम्। पयते। पयःऽभिः। १.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

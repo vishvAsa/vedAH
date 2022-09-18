@@ -17,7 +17,6 @@ rich in milk, O Agni, have I come; unite me here with splendor.
 Celestial Waters have I sought: with juice have I besprinkled them. With milk, O Agni, have I come; bestow upon me splendid strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ५.४६।

@@ -21,10 +21,9 @@ Prāt. rules ii. 59 and iv. 100.
 Make manifest the forms of things; hide not their essences from sight. And, thou who hast a thousand eyes, look the Kimidins in the face.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आवि:। कृणुष्व। रूपाणि। मा। आत्मानम्। अप। गूहथा:। अथो इति। सहस्रचक्षो इति  सहस्रऽचक्षो। त्वम्। प्रति। पश्या:। किमीदिन:। २०.५।
+आविः। कृणुष्व। रूपाणि। मा। आत्मानम्। अप। गूहथाः। अथो इति। सहस्रचक्षो इति  सहस्रऽचक्षो। त्वम्। प्रति। पश्याः। किमीदिनः। २०.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

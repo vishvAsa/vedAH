@@ -27,10 +27,9 @@ has **c, d** of this verse as 2 **c, d**, reading *-dāno ’ttame nāke*
 Compassed by death which comes in thousand manners, here art thou fastened to the iron pillar. Unanimous with Yama and the Fathers, make this man rise and reach the loftiest heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयस्मये। द्रुऽपदे। बेधिषे। इह। अभिऽहित:। मृत्युऽभि:। ये। सहस्रम्। यमेन। त्वम्। पितृऽभि:। सम्ऽविदान:। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। ६३.३।
+अयस्मये। द्रुऽपदे। बेधिषे। इह। अभिऽहितः। मृत्युऽभिः। ये। सहस्रम्। यमेन। त्वम्। पितृऽभिः। सम्ऽविदानः। उत्ऽतमम्। नाकम्। अधि। रोहय। इमम्। ६३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

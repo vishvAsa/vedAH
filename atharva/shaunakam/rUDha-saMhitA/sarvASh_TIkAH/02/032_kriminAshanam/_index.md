@@ -7,7 +7,6 @@ title = "०३२ क्रिमिनाशनम्"
 32. Against worms.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्रिमिनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३२ क्रिमिनाशनम्"
 
 [Kāṇva.—ṣaḍṛcam. ādityadevatyatn. ānuṣṭubham: 1. 3-p. bhurig gāyatrī; 6. 4-p. nicṛd uṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Kuhn, KZ. xiii. 138; Weber, xiii. 201; Ludwig, p. 500; Grill, 7, 100
 
 A charm against worms or bots in cows
 </details>
+

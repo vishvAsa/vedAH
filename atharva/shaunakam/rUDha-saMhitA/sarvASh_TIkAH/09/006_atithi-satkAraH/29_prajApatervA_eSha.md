@@ -17,10 +17,9 @@ This verse is wanting in Ppp.
 The man who offers food follows the steps of Prajapati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽपते:। वै। एष:। विऽक्रमान्। अनुऽविक्रमते। य:। उपऽहरति। ७.१२।
+प्रजाऽपतेः। वै। एषः। विऽक्रमान्। अनुऽविक्रमते। यः। उपऽहरति। ७.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

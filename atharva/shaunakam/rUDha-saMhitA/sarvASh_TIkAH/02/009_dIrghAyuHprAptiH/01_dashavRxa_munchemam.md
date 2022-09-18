@@ -24,10 +24,9 @@ regular *pan̄kti*, with the easy resolution *muñca imam* in **a**.
 Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joints and members, And raise him up again, O Tree, into the world of living men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दशऽवृक्ष। मुञ्च। इमम्। रक्षस:। ग्राह्या:। अधि। या। एनम्। जग्राह। पर्वऽसु। अथो इति। एनम्। वनस्पते। जीवानाम्। लोकम्। उत्। नय। ९.१।
+दशऽवृक्ष। मुञ्च। इमम्। रक्षसः। ग्राह्याः। अधि। या। एनम्। जग्राह। पर्वऽसु। अथो इति। एनम्। वनस्पते। जीवानाम्। लोकम्। उत्। नय। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

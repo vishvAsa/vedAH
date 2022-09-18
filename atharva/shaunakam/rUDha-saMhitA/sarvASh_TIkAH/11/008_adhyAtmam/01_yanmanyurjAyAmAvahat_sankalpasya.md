@@ -19,7 +19,6 @@ Ppp. combines in **c** *kā ”san*. ⌊Its **c, d** = our 6 **c, d**.⌋
 When Manyu brought his consort home forth from Sankalpa's dwelling-place, Who were the wooers of the bride, who was the chief who courted her?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। मन्युः। जायाम्। आऽअवहत्। सम्ऽकल्पस्य। गृहात्। अधि। के। आसन्। जन्याः। के। वराः। कः। ऊं इति। ज्येष्ठऽवरः। अभवत्। १०.१।

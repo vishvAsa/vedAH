@@ -22,10 +22,9 @@ meaning here.
 Here will we serve with sacrifice the great Controllers of the world, The four immortal Warders who protect the regions of the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आशानाम्। आशाऽपालेभ्य:। चतु:ऽभ्य:। अमृतेभ्य:। इदम्। भूतस्य। अधिऽअक्षेभ्य:। विधेम। हविषा। वयम्।
+आशानाम्। आशाऽपालेभ्यः। चतुःऽभ्यः। अमृतेभ्यः। इदम्। भूतस्य। अधिऽअक्षेभ्यः। विधेम। हविषा। वयम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

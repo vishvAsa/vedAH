@@ -20,10 +20,9 @@ The verse occurred above, as iv. 1. 1 ⌊where *viṣṭhā́s* is rendered
 Eastward at first the prayer was generated: Vena disclosed bright flashes from the summit, Disclosed his deepest nearest revelations, womb of the non- existent and existent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्रह्म। जज्ञानम्। प्रथमम्। पुरस्तात्। वि। सीमत:। सुऽरुच:। वेन:। आव:। स:। बुध्न्या:। उपऽमा:। अस्य। विऽस्था:। सत:। च। योनिम्। असत:। च। व‍ि। व:। ६.१।
+ब्रह्म। जज्ञानम्। प्रथमम्। पुरस्तात्। वि। सीमतः। सुऽरुचः। वेनः। आवः। सः। बुध्न्याः। उपऽमाः। अस्य। विऽस्थाः। सतः। च। योनिम्। असतः। च। व‍ि। वः। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,7 +18,6 @@ Ppp. reads in **b** *yā ”ntrāṇi*.
 Let liver, and let kidneys, let thine entrails, and the parts within, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। ते। यकृत्। ये इति। मतस्ने  इति। यत्। आन्त्रम्। याः। च। ते। गुदाः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१६।

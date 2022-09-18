@@ -31,10 +31,9 @@ counts six syllables in **d**.
 As from the tree a wreath, have I assumed her fortune and her fame: Among her kinsfolk long may she dwell, like a mountain broadly- based.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भगम्। अस्या:। वर्च:। आ। अदिषि। अधि। वृक्षात्ऽइव। स्रजम्। महाबुध्न:ऽइव। ‌पर्वत:। ज्योक्। पितृषु। आस्ताम्।
+भगम्। अस्याः। वर्चः। आ। अदिषि। अधि। वृक्षात्ऽइव। स्रजम्। महाबुध्नःऽइव। ‌पर्वतः। ज्योक्। पितृषु। आस्ताम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

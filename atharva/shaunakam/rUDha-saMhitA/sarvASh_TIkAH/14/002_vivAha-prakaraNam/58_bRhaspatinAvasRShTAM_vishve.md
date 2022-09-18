@@ -18,7 +18,6 @@ omits one (58), and puts 55 after 56.
 Her whom Brihaspati hath freed the Visve Devas keep secure. With all the store of sap that cows contain do we enrich this. girl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। रसः। गोषु। प्रऽविष्टः। यः। तेन। इमाम्। सम्। सृजामसि। इमाम्। सम्। सृजामसि। २.५८।

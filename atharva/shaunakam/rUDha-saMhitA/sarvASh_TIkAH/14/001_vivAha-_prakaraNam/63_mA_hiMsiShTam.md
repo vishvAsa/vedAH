@@ -21,7 +21,6 @@ forward into the house. ⌊Cf. Wint., p. 72, top.⌋
 Hurt not the girl, ye Pillars twain upon the path which Gods have made. The portal of the heavenly home we make the bride's auspicious road.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। हिंसिष्टम्। कुमार्यम्। स्थूणे इति। देवऽकृते। पथि। शालायाः। देव्याः। द्वारम्। स्योनम्। कृण्मः। वधूऽपथम्। १.६३।

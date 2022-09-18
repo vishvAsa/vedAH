@@ -19,7 +19,6 @@ Perhaps **b** is rather 'the divine Atharvans in heaven'; Ppp. reads
 Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of Angiras: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आदित्याः। रुद्राः। वसवः। दिवि। देवाः। अथर्वाणः। अङ्गिरसः। मनीषिणः। ते। नः। मुञ्चन्तु। अंहसः। ८.१३।

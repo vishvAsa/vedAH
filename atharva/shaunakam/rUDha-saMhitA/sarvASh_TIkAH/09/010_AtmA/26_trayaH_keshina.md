@@ -23,7 +23,6 @@ moon (!?), sun, and wind.
 Three with long tresses show in ordered season. One of them sheareth when the year is ended. One with his powers the universe regardeth. Of one the sweep is seen, but not the figure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रयः। केशिनः। ऋतुऽथा। वि। चक्षते। सम्ऽवत्सरे। वपते। एकः। एषाम्। विश्वम्। अन्यः। अभिऽचष्टे। शचीभिः। ध्राजिः। एकस्य। ददृशे। न। रूपम्। १५.२६।

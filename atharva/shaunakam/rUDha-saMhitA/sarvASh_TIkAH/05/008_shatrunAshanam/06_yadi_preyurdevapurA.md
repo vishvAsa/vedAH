@@ -27,10 +27,9 @@ rarely makes this confusion. \*⌊Vol. iii. p. 195, of SPP's ed.⌋
 If they have issued forth, strongholds of Gods, and made their shield of prayer, Gaining protection for their lives, protection round about, make all their instigation powerless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। प्रऽईयु:। देवऽपुरा:। ब्रह्म। वर्माणि। चक्रिरे। तनूऽपानम्। परिऽपानम्। कृण्वाना:। यत्। उपऽऊचिरे। सर्वम्। तत्। अरसम्। कृधि। ८.६।
+यदि। प्रऽईयुः। देवऽपुराः। ब्रह्म। वर्माणि। चक्रिरे। तनूऽपानम्। परिऽपानम्। कृण्वानाः। यत्। उपऽऊचिरे। सर्वम्। तत्। अरसम्। कृधि। ८.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

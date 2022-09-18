@@ -22,7 +22,6 @@ with vs. 44. The Anukr. notices this time the redundant syllable in
 May all the hems and borders all the threads that form the web and woof. The garment woven by the bride, be soft and pleasant to our touch.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अन्ताः। यावतीः। सिचः। ये। ओतवः। ये। च। तन्तवः। वासः। यत्। पत्नीभिः। उतम्। तत्। नः। स्योनम्। उप। स्पृशात्। २.५१।

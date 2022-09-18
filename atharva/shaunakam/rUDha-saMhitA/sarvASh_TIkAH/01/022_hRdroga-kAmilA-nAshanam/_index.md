@@ -7,7 +7,6 @@ title = "०२२ हृद्रोग-कामिला-नाशनम्"
 22. Against yellowness (jaundice).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 हृद्रोग-कामिला-नाशनम्।  
@@ -19,8 +18,6 @@ title = "०२२ हृद्रोग-कामिला-नाशनम्"
 [Brahman.—sāuryam uta mantroktaharimadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found in Pāipp. i. Used by Kāuś. (26. 14) in a remedial rite (against heart d
 
 A charm against jaundice
 </details>
+

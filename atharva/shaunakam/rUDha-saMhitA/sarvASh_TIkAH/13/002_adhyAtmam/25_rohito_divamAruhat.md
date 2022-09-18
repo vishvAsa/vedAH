@@ -23,7 +23,6 @@ do we meet him elsewhere, save in vss. 39-41.
 Devout, aflame with fervent heat, Rohita hath gone up to heaven. He is re-born, returning to his birthplace, and hath become the Gods' imperial ruler.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। दिवम्। आ। अरुहत्। तपसा। तपस्वी। सः। योनिम्। आ। एति। सः। ऊं इति। जायते। पुनः। सः। देवानाम्। अधिऽपतिः। बभूव। २.२५।

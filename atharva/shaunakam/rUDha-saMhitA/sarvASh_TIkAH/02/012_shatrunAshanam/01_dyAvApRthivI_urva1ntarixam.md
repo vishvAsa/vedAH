@@ -30,10 +30,9 @@ the like": which is doubtless the general meaning.
 The spacious Firmament, and Earth and Heaven, the Field's Queen, and the wonderful Wide-Strider, Yea, the broad middle air which Vata guardeth, may these now burn with heat while I am burning.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्यावापृथिवी इति। उरु। अन्तरिक्षम्। क्षेत्रस्य। पत्नी। उरुऽगाय:। अद्भुत:। उत। अन्तरिक्षम्। उरु। वातऽगोपम्। ते। इह। तप्यन्ताम्। मयि। तप्यमाने। १२.१।
+द्यावापृथिवी इति। उरु। अन्तरिक्षम्। क्षेत्रस्य। पत्नी। उरुऽगायः। अद्भुतः। उत। अन्तरिक्षम्। उरु। वातऽगोपम्। ते। इह। तप्यन्ताम्। मयि। तप्यमाने। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ printed text, the upper accent-mark in *reṇúkakāṭo* is over the wrong
 The charger with his dusty brow o'ertakes them not, and never to the shambles do they take their way. These Cows, the cattle of the pious worshipper, roam over wide- spread pasture where no danger is.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। ता:। अर्वा। रेणुकऽकाट:। अश्नुते। न। संस्कृतत्रम्। उप। यन्ति। ता:। अभि। उरुऽगायम्। अभयम्। तस्य। ता:। अनु। गाव:। मर्तस्य। वि। चरन्ति। यज्वन:। २१.४।
+न। ताः। अर्वा। रेणुकऽकाटः। अश्नुते। न। संस्कृतत्रम्। उप। यन्ति। ताः। अभि। उरुऽगायम्। अभयम्। तस्य। ताः। अनु। गावः। मर्तस्य। वि। चरन्ति। यज्वनः। २१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

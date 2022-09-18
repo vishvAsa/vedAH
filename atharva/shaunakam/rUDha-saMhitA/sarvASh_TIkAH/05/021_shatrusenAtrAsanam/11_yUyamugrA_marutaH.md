@@ -31,10 +31,9 @@ constituting one paragraph (unmetrical) with our vs. 12.
 Do ye, O mighty Maruts, sons of Prisni, crush down, with Indra for ally, our foemen. King Soma. Varuna, great God and sovran, Indra too, aye, Death,--
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यूयम्। उग्रा:। मरुत:। पृश्निऽमातर:। इन्द्रेण। युजा। प्र। मृणीत। शत्रून्। सोम:। राजा। वरुण:। राजा। महाऽदेव:। उत। मृत्यु:। इन्द्र:। २१.११।
+यूयम्। उग्राः। मरुतः। पृश्निऽमातरः। इन्द्रेण। युजा। प्र। मृणीत। शत्रून्। सोमः। राजा। वरुणः। राजा। महाऽदेवः। उत। मृत्युः। इन्द्रः। २१.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

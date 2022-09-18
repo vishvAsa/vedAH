@@ -7,7 +7,6 @@ title = "१०४ गौः"
 104 (109). Concerning Atharvan's cow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गौः।  
@@ -19,8 +18,6 @@ title = "१०४ गौः"
 [Brahman.—ātmadāivatam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xx. Used by Kāuś. (66. 17) in a savayajña, having as sa
 ### Translations
 Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 </details>
+

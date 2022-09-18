@@ -7,7 +7,6 @@ title = "११६ मधुमदन्नम्"
 116. For relief from guilt.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मधुमदन्नम्।  
@@ -19,8 +18,6 @@ title = "११६ मधुमदन्नम्"
 [Jāṭikāyana.—vāivasvatadtvatyam. jāgatam: 2. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. The hymn is used by Kāuś. in the chapter of portent
 ### Translations
 Translated: Ludwig, p. 443; Griffith, i. 309.
 </details>
+

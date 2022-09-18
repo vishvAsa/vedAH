@@ -18,10 +18,9 @@ Only RV. has this verse.
 O Waters, teem with medicine to keep my body safe from harm, So that I long may see the Sun.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। पृणीत। भेषजम्। वरूथम्। तन्वे। मम। ज्योक्। च। सूर्यम्। दृशे।
+आपः। पृणीत। भेषजम्। वरूथम्। तन्वे। मम। ज्योक्। च। सूर्यम्। दृशे।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

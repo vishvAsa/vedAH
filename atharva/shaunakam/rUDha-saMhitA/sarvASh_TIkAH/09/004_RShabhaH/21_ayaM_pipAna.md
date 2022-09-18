@@ -22,10 +22,9 @@ Bloomfield, AJP. xii. 443.⌋
 Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw forth at will from yonder side of heaven a deft cow, good to milk, whose calf is never wanting.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। पिपान:। इन्द्र:। इत्। रयिम्। दधातु। चेतनीम्। अयम्। धेनुम्। सुऽदुघाम्। नित्यऽवत्साम्। वशम्। दुहाम्। विप:ऽचितम्। पर:। दिव:। ४.२१।
+अयम्। पिपानः। इन्द्रः। इत्। रयिम्। दधातु। चेतनीम्। अयम्। धेनुम्। सुऽदुघाम्। नित्यऽवत्साम्। वशम्। दुहाम्। विपःऽचितम्। परः। दिवः। ४.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

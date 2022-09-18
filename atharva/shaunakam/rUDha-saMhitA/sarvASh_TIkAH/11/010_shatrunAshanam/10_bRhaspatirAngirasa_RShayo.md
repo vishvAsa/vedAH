@@ -21,7 +21,6 @@ translates). The comm. renders *ā́ ’śrayan* by *asevanta*, as if it were
 Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi in the heaven, dire weapon that destroys the fiends.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिः। आङ्गिरसः। ऋषयः। ब्रह्मऽसंशिताः। असुरऽक्षयणम्। वधम्। त्रिऽसंधिम्। दिवि। आ। अश्रयन्। १२.१०।

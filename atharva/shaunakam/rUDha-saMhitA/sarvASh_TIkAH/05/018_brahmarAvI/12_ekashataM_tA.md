@@ -20,10 +20,9 @@ reads *vāi* for *tās* in **a**, and *bhūmir yā* in **b**.
 One and a hundred were the folk, those whom the earth shook off from her: When they had wronged the Brahman race they perished incon- ceivably.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एकऽशतम्। ता:। जनता:। या:। भूमि:। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १८.१२।
+एकऽशतम्। ताः। जनताः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १८.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

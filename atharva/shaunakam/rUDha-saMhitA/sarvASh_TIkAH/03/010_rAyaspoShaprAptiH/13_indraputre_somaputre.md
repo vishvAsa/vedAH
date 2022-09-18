@@ -21,10 +21,9 @@ the old Anukr. is simply *daśa*.
 Indra's and Soma's mother! thou art daughter of Prajapati. Satisfy thou our hearts' desires. Gladly accept our sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रऽपुत्रे। सोमऽपुत्रे। दुहिता। असि। प्रजाऽपते:। कामान्। अस्माकम्। पूरय। प्रति। गृह्णाहि। न:। हवि:। १०.१३।
+इन्द्रऽपुत्रे। सोमऽपुत्रे। दुहिता। असि। प्रजाऽपतेः। कामान्। अस्माकम्। पूरय। प्रति। गृह्णाहि। नः। हविः। १०.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

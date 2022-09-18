@@ -27,10 +27,9 @@ uncanny and must be atoned for (*ākāśodakaplāvanadoṣaśānti*).
 From the high firmament, yea, out of heaven a water-drop with dew on me hath fallen. I, Agni! share the merit of the pious, with vigour, milk, and hymns and sacrifices.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। नु। माम्। बृहत:। अन्तरिक्षात्। अपाम्। स्तोक:। अभि। अपप्तत्। रसेन। सम्। इन्द्रियेण। पयसा। अहम्। अग्ने। छन्द:ऽभि:। यज्ञै:। सुऽकृताम्। कृतेन। १२४.१।
+दिवः। नु। माम्। बृहतः। अन्तरिक्षात्। अपाम्। स्तोकः। अभि। अपप्तत्। रसेन। सम्। इन्द्रियेण। पयसा। अहम्। अग्ने। छन्दःऽभिः। यज्ञैः। सुऽकृताम्। कृतेन। १२४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

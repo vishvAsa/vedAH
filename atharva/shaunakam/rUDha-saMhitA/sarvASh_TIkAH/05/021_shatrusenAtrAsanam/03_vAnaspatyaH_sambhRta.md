@@ -23,10 +23,9 @@ lacking in Bp. In **c**, we may pronounce *pratrāsā́mít-*.⌋
 Wrought out of wood, compact with straps of leather, dear to all the clan, Bedewed with sacrificial oil, speak terror to our enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वानस्पत्य:। सम्ऽभृत:। उस्रियाभि:। विश्वऽगोत्र्य:। प्रऽत्रासम्। अमित्रेभ्य:। वद। आज्येन। अभिऽघारित:। २१.३।
+वानस्पत्यः। सम्ऽभृतः। उस्रियाभिः। विश्वऽगोत्र्यः। प्रऽत्रासम्। अमित्रेभ्यः। वद। आज्येन। अभिऽघारितः। २१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

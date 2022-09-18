@@ -26,10 +26,9 @@ syllables, and counts 46 syllables in all; the natural number is 45 (12
 This, even this is his true form: the man uniteth him therewith. Food, greatness, strength he bringeth him who giveth the Goat Panchaudana illumed with guerdon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्ऽइदम्। एव। अस्य। रूपम्। भवति। तेन। एनम्। सम्। गमयति। इषम्। मह:। ऊर्जम्। अस्मै। दुहे। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२४।
+इदम्ऽइदम्। एव। अस्य। रूपम्। भवति। तेन। एनम्। सम्। गमयति। इषम्। महः। ऊर्जम्। अस्मै। दुहे। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

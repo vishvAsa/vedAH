@@ -7,7 +7,6 @@ title = "०२२ वर्चः प्राप्तिः"
 22. To the gods: for splendor (várcas).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चः प्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०२२ वर्चः प्राप्तिः"
 
 [Vasiṣṭha.—varcasyam. bārhaspatyam uta vāiśvadevam. ānuṣṭubham: 1. virāṭ triṣṭubh; 3. 5-p. parānuṣṭub virāḍatijagatī; 4. 3-av. 6-p. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 461; Weber, xvii. 282; Griffith, i. 115.
 
 The taming and training of an elephant for a king to ride on
 </details>
+

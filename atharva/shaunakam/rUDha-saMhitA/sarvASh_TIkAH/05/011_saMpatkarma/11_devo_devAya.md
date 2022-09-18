@@ -36,10 +36,9 @@ dialogue.⌋
 God, giving life unto the god who lauds me, Sage strengthener of the sage who sings my praises. Thou, self-dependent Varuna! hast begotten the kinsman of the Gods, our sire Atharvan. On him bestow most highly-lauded riches. Thou art our friend, high over all, our kinsman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देव:। देवाय। गृणते। वय:ऽधा:। विप्र:। विप्राय। स्तुवते। सुऽमेधा:। अजीजन:। हि। वरुण। स्वधाऽवन्। अथर्वाणम्। पितरम्। देवऽबन्धुम्। तस्मै। ऊं इति। राध:। कृणुहि। सुऽप्रशस्तम्। सखा। न:। असि। परमम्। च। बन्धु:। ११.११।
+देवः। देवाय। गृणते। वयःऽधाः। विप्रः। विप्राय। स्तुवते। सुऽमेधाः। अजीजनः। हि। वरुण। स्वधाऽवन्। अथर्वाणम्। पितरम्। देवऽबन्धुम्। तस्मै। ऊं इति। राधः। कृणुहि। सुऽप्रशस्तम्। सखा। नः। असि। परमम्। च। बन्धुः। ११.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

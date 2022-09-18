@@ -13,7 +13,6 @@ title = "१३ ऋतं हस्तावनेजनम्"
 Law is its water for the hands and family custom its aspersion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतम्। हस्तऽअवनेजनम्। कुल्या। उपऽसेचनम्। ३.१३।

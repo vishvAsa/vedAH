@@ -16,7 +16,6 @@ title = "३६ शर्व क्रुद्धः"
 Wrathful Sarva while being carved. Simida when cut up:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शर्वः। क्रुध्दः। पिश्यमाना। शिमिदा। पिशिता। ८.९।

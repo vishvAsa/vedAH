@@ -22,7 +22,6 @@ ends with *vār id ugram*⌋.
 Loud neighing he hath dived below, and rising up again replied, Stayed the dire poison of the Snakes, and made it weak as soaking wood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरम्ऽघुषः। निऽमज्य। उत्ऽमज्य। पुनः। अब्रवीत्। उदप्लुतम्ऽइव। दारु। अहीनाम्। अरसम्। विषम्। वाः। उग्रम्। ४.४।

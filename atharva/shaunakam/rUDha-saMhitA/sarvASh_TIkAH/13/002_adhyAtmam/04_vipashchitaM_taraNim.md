@@ -27,7 +27,6 @@ Stud.* ii. 261.⌋
 Victorious, inspired, and brightly shining, whom seven strong tawny-coloured coursers carry, Whom Atri lifted from the flood to heaven, thus men behold thee as thy course thou runnest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विपःऽचितम्। तरणिम्। भ्राजमानम्। वहन्ति। यम्। हरितः। सप्त। बह्वीः। स्रुतात्। यम्। अत्त्रिः। दिवम्। उत्ऽनिनाय। तम्। त्वा। पश्यन्ति। परिऽयान्तम्। आजिम्। 2.४।

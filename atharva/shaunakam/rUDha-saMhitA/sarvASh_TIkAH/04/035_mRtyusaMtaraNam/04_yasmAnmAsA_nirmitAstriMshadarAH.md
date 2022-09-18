@@ -24,10 +24,9 @@ regular.
 From which the months with thirty spokes were moulded, from which the twelve-spoked year was formed and fashioned. Which circling day and night have ne'er o'ertaken,--I with this Odana will conquer Mrityu.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्मात्। मासा:। नि:ऽमिता। त्रिंशत्ऽअरा:। सम्ऽवत्सर:। यस्मात्। नि:ऽर्मित:। द्वादशऽअर:। अहोरात्रा:। यम्। परिऽयन्त:। न। आपु:। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.४।
+यस्मात्। मासाः। निःऽमिता। त्रिंशत्ऽअराः। सम्ऽवत्सरः। यस्मात्। निःऽर्मितः। द्वादशऽअरः। अहोरात्राः। यम्। परिऽयन्तः। न। आपुः। तेन। ओदनेन। अति। तराणि। मृत्युम्। ३५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,10 +25,9 @@ in our text the lost accent-mark under the *ti* of *jīvanti* in **d**.
 She rose approached the Apsarases and Gandharvas. They called her, Come to us, O Fragrant-scented! The son of Suryavarchas, Chitraratha, was her dear calf, her pail. a lotus-petal. The son of Suryavarchas, Vasuruchi, milked and drew from her most delightful fragrance. That scent supports Apsarases and Gandharvas. He who knows this becomes a meet supporter, and round him ever breathes delicious odour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्मात्। पितृऽभ्य:। मासि। उपऽमास्यम्। ददति। प्र। पितृऽयानम्। पन्थाम्। जानाति। य:। एवम्। वेद। १२.४।
+तस्मात्। पितृऽभ्यः। मासि। उपऽमास्यम्। ददति। प्र। पितृऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

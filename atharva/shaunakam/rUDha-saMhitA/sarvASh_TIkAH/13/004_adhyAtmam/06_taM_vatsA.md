@@ -21,7 +21,6 @@ verse as it stands is redundant.
 Calves, joined, stand close beside him, ten in number, with one single head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। वत्साः। उप। तिष्ठन्ति। एकऽशीर्षाणः। युताः। दश। ४.६।

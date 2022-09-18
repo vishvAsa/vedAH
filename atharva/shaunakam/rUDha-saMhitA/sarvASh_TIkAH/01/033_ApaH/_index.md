@@ -7,7 +7,6 @@ title = "०३३ आपः"
 33. To the waters: for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आपः।  
@@ -18,8 +17,6 @@ title = "०३३ आपः"
 
 [śaṁtāti.—cāndramasam āpyam uta. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 428; Winternitz, Hochzeitsrituell, Wiener Denkschr. xl. 4
 
 To the Waters, for health and happiness
 </details>
+

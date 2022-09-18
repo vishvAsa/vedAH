@@ -20,10 +20,9 @@ seven forms of the sun, as given in TA. i. 7. 1.
 The seven bright beams of Surya bring the waters downward from the sky, The streams of ocean: these have made the sting that pained thee drop away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। दिव:। तारयन्ति। सप्त। सूर्यस्य। रश्मय:। आप:। समुद्रिया:। धारा:। ता:। ते। शल्यम्। असिस्रसन्। ११२.१।
+अव। दिवः। तारयन्ति। सप्त। सूर्यस्य। रश्मयः। आपः। समुद्रियाः। धाराः। ताः। ते। शल्यम्। असिस्रसन्। ११२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

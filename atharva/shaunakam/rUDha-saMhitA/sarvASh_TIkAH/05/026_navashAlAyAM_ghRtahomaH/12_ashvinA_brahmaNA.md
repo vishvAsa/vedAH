@@ -27,10 +27,9 @@ navā ’paraḥ* (Bp. *-raṁ ca cā ’nuvākaḥ*).
 Hitherward come ye with the prayer, O Asvins, exalting sacrifice with cry of Vashat! Brihaspati!--All hail!--with prayer come hither. Here is the rite, here heaven for him who worships.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्विना। ब्रह्मणा। आ। यातम्। अर्वाञ्चौ। वषट्ऽकारेण। यज्ञम्। वर्धयन्तौ। बृहस्पते। ब्रह्मणा। आ। याहि। अवाङ्। यज्ञ:। अयम्। स्व:। इदम्। यजमानाय। स्वाहा। २६.१२।
+अश्विना। ब्रह्मणा। आ। यातम्। अर्वाञ्चौ। वषट्ऽकारेण। यज्ञम्। वर्धयन्तौ। बृहस्पते। ब्रह्मणा। आ। याहि। अवाङ्। यज्ञः। अयम्। स्वः। इदम्। यजमानाय। स्वाहा। २६.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

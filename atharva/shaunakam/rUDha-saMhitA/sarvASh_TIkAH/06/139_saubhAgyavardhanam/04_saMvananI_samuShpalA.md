@@ -18,10 +18,9 @@ The third pāda has a redundant syllable.
 Even as his mouth is parched who finds no water for his burn- ing thirst, So parch and burn with longing, go with lips that love of me hath dried.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। उदकम्। अपपुष:। अपऽशुष्यति। आस्यम्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
+यथा। उदकम्। अपपुषः। अपऽशुष्यति। आस्यम्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

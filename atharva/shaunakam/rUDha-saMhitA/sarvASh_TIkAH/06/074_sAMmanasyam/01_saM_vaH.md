@@ -20,10 +20,9 @@ Ppp. has, for **d**, *somaḥ saṁ sparśayātu mām*. The comm. renders
 Close gathered be your bodies: be your minds and vows in. unison! Here present Brahmanaspati and Bhaga have assembled you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। पृच्यन्ताम्। तन्व:। सम्। मनांसि। सम्। ऊं इति। व्रता। सम्। व:। अयम्। ब्रह्मण:। पति:। भग:। सम्। व:। अजीगमत्। ७४.१।
+सम्। वः। पृच्यन्ताम्। तन्वः। सम्। मनांसि। सम्। ऊं इति। व्रता। सम्। वः। अयम्। ब्रह्मणः। पतिः। भगः। सम्। वः। अजीगमत्। ७४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

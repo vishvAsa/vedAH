@@ -24,10 +24,9 @@ third pādas of 1 and 2, and reads as 2 **c** *upe ’māṁ suṣṭutiṁ mama
 Forth from the distance far away Vaisvanara come to succour us! Agni approach our eulogies!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानर:। न:। ऊतये। आ। प्र। यातु। पराऽवत:। अग्नि:। न:। सुऽस्तुती:। उप। ३५.१।
+वैश्वानरः। नः। ऊतये। आ। प्र। यातु। पराऽवतः। अग्निः। नः। सुऽस्तुतीः। उप। ३५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

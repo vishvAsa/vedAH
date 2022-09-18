@@ -45,10 +45,9 @@ for *eṣa* or for *tasmāt* is not clear from R's note.⌋
 We worship holy Verse and Song, by which they carry out their acts, Shining in order's seat these twain present the sacrifice to Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋचम्। साम। यजामहे। याभ्याम्। कर्माणि। कुर्वते। एते  इति। सदसि। राजत:। यज्ञम्। देवेषु। यच्छत:। ५६.१।
+ऋचम्। साम। यजामहे। याभ्याम्। कर्माणि। कुर्वते। एते  इति। सदसि। राजतः। यज्ञम्। देवेषु। यच्छतः। ५६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

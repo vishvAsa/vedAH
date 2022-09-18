@@ -16,7 +16,6 @@ title = "०२ पृथिव्यै स्वाहा"
 All hail to Earth!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृथिव्यै। स्वाहा। ९.२।

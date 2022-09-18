@@ -25,7 +25,6 @@ after *carur*, not before it.⌋
 Ye, Sacrificial Rice and Soma Fibres, cleansed and made pure by prayer and molten butter. Enter the water: let the caldron take you. May he who dresses this ascend to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रह्मणा। शुध्दाः। उत। पूताः। घृतेन। सोमस्य। अंशवः। तण्डुलाः। यज्ञियाः। इमे। अपः। प्र। विशत। प्रति। गृह्णातु। वः। चरुः। इमम्। पक्त्वा। सुऽकृताम्। एते। लोकम्। १.१८।

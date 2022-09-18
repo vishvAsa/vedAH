@@ -23,7 +23,6 @@ ubhā́*⌋.
 Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रः। मे। अहिम्। अरन्धयत्। मित्रः। च। वरुणः। च। वातापर्जन्या। उभा। ४.१६।

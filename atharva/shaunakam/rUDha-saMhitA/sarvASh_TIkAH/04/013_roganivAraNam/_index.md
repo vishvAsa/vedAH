@@ -7,7 +7,6 @@ title = "०१३ रोगनिवारणम्"
 13. For healing.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रोगनिवारणम्  
@@ -18,8 +17,6 @@ title = "०१३ रोगनिवारणम्"
 
 [śaṁtāti.—cāndramasam uta vāiśvadevam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by the RV. translators; and Aufrecht, ZDMG. xxiv. 203; Griffith, i. 
 
 A charm to restore a sick man to health
 </details>
+

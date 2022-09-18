@@ -22,7 +22,6 @@ interlines "encompasses" as an alternative to "exceeds."⌋
 Blazing with light his majesty hath compassed ocean and earth and heaven and air's mid-region. May he, all-seeing, well-disposed and holy, give ear and listen to the word I utter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परि। अस्य। महिमा। पृथिवीम्। समुद्रम्। ज्योतिषा। विऽभ्राजन्। परि। द्याम्। अन्तर‍िक्षम्। सर्वम्। सम्ऽपश्यन्। सुऽविदत्रः। यजत्रः। इदम्। शृणोतु। यत्। अहम्। ब्रवीमि। २.४५।

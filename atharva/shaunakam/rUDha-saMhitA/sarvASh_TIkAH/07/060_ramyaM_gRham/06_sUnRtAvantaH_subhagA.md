@@ -23,10 +23,9 @@ its occupants.
 Full of refreshment, full of charms, of laughter and felicity, Be ever free from hunger, free from thirst! Ye Houses, fear us not. Stay here, and come not after me: prosper in every form and shape. With happy fortune will I come! Grow more abundant still through me!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सूनृताऽवन्त:। सुऽभगा:। इराऽवन्त:। हसामुदा:। अतृष्या:। अक्षुध्या:। स्त। गृहा:। मा। अस्मत्। बिभीतन। ६२.६।
+सूनृताऽवन्तः। सुऽभगाः। इराऽवन्तः। हसामुदाः। अतृष्याः। अक्षुध्याः। स्त। गृहाः। मा। अस्मत्। बिभीतन। ६२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

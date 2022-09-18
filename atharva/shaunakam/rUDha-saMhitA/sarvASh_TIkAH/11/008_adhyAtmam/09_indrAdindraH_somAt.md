@@ -18,7 +18,6 @@ Ppp. arranges in **d** *dhātā dhātur*.
 Indra from Indra, Soma from Soma, Agni from Agni sprang Tvashtar from Tvashtar was produced, Dilator was Dhatar's origin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रात्। इन्द्रः। सोमात्। सोमः। अग्नेः। अग्निः। अजायत। त्वष्टा। ह। जज्ञे। त्वष्टुः। धातुः। धाता। अजायत। १०.९।

@@ -24,10 +24,9 @@ is taught in Prāt. iv. 46.
 Whatever rupture I have had that injured eyes or heels or toes. All this the Waters, skilfullest physicians, shall make well again,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। मे। अक्ष्यो:। आऽदिद्योत। पार्ष्ण्यो:। प्रऽपदो:। च। यत्। आप:। तत्। सर्वम्। नि:। करन्। भिषजाम्। सुभिषक्ऽतमा:। २४.२।
+यत्। मे। अक्ष्योः। आऽदिद्योत। पार्ष्ण्योः। प्रऽपदोः। च। यत्। आपः। तत्। सर्वम्। निः। करन्। भिषजाम्। सुभिषक्ऽतमाः। २४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

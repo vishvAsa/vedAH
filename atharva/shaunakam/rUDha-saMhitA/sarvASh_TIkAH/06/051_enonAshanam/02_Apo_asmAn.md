@@ -27,10 +27,9 @@ Kapiṣṭhala text. Ppp. has further the phonetic ⌊? graphic⌋ variant
 May the maternal Waters make us ready: cleanse us with fat- ness they who cleanse with fatness! The Goddesses bear off each blot and tarnish: I come forth from the waters cleansed and stainless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। अस्मान्। मातर:। सूदयन्तु। घृतेन। न:। घृतऽप्व:। पुनन्तु। विश्वम्। हि। रिप्रम्। प्रऽवहन्ति। देवी:। उत्। इत्। आभ्य:। शुचि:। आ। पूत:। एमि। ५१.२।
+आपः। अस्मान्। मातरः। सूदयन्तु। घृतेन। नः। घृतऽप्वः। पुनन्तु। विश्वम्। हि। रिप्रम्। प्रऽवहन्ति। देवीः। उत्। इत्। आभ्यः। शुचिः। आ। पूतः। एमि। ५१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

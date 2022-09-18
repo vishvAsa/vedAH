@@ -27,10 +27,9 @@ the *gharma* as the heated sacrificial butter in the *mahāvīra* dish.
 Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is drained to be your food. For we, O Asvins, singers sprung from many a house, invite you to be present at our banquetings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽइध्द:। अग्नि:। वृषणा। रथी। दिव:। तप्त:। धर्म:। दुह्यते। वाम्। इषे। मधु। वयम्। हि। वाम्। पुरुऽदमास:। अश्विना। हवामहे। सधऽमादेषु। कारव:। ७७.१।
+सम्ऽइध्दः। अग्निः। वृषणा। रथी। दिवः। तप्तः। धर्मः। दुह्यते। वाम्। इषे। मधु। वयम्। हि। वाम्। पुरुऽदमासः। अश्विना। हवामहे। सधऽमादेषु। कारवः। ७७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

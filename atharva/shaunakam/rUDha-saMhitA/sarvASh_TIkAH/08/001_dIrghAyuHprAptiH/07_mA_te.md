@@ -18,10 +18,9 @@ gods defend thee here.
 Let not thy soul go thither, nor be lost to us: slight not the living, go not where the Fathers are. Let all the Gods retain thee here in safety.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। ते। मन:। तत्र। गात्। मा। तिर:। भूत्। मा। जीवेभ्य:। प्र। मद:। मा। अनु। गा:। पितृन्। विश्वे। देवा:। अभि। रक्षन्तु। त्वा। इह। १.७।
+मा। ते। मनः। तत्र। गात्। मा। तिरः। भूत्। मा। जीवेभ्यः। प्र। मदः। मा। अनु। गाः। पितृन्। विश्वे। देवाः। अभि। रक्षन्तु। त्वा। इह। १.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

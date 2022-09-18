@@ -19,10 +19,9 @@ door. ⌊Bergaigne has a note on the vs., *Rel. Véd.* iii. 122.⌋
 I loosen and remove from thee thy covering formed by mats of reed. What Varuna hath firmly closed Mitra shall ope at early morn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इटस्य। ते। वि। चृतामि। अप‍िऽनध्दम्। अपऽऊर्णुवन्। वरुणेन। सम्ऽउब्जिताम्। मित्र:। प्रात:। वि। उब्जतु। ३.१८।
+इटस्य। ते। वि। चृतामि। अप‍िऽनध्दम्। अपऽऊर्णुवन्। वरुणेन। सम्ऽउब्जिताम्। मित्रः। प्रातः। वि। उब्जतु। ३.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

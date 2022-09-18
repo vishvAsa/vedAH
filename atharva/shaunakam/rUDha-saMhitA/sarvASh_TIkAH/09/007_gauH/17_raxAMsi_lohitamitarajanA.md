@@ -17,7 +17,6 @@ Ppp. inverts the order of the two clauses, and reads *ūvadhyam*.
 Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रक्षांसि। लोहितम्। इतरऽजनाः। ऊबध्यम्। १२.१७।

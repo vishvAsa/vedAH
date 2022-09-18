@@ -23,7 +23,6 @@ corpses of our enemies hide the sun'!
 Omniscient Aditya, make full many a corpse to disappear. Let this devoted army of Trishandhi be in my control.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्तः। धेहि। जातऽवेदः। आदित्य। कुणपम्। बहु। त्रिऽसंधेः। इयम्। सेना। सुऽहिता। अस्तु। मे। वशे। १२.४।

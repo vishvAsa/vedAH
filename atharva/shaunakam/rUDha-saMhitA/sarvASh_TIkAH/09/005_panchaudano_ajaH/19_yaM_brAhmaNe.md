@@ -19,10 +19,9 @@ know in the world of the well-done, at the meeting of the ways.
 The droppings of the Odanas attending the Goat which I have lodged with priest or people May all this know us in the world of virtue, O Agni, at the meeting of the pathways.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। ब्राह्मणे। निऽदधे। यम्। च। विक्षु। या:। विऽप्रुष:। ओदनानाम्। अजस्य। सर्वम्। तत्। अग्ने। सुऽकृतस्य। लोके। जानीतात्। न:। सम्ऽगमने। पथीनाम्। ५.१९।
+यम्। ब्राह्मणे। निऽदधे। यम्। च। विक्षु। याः। विऽप्रुषः। ओदनानाम्। अजस्य। सर्वम्। तत्। अग्ने। सुऽकृतस्य। लोके। जानीतात्। नः। सम्ऽगमने। पथीनाम्। ५.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

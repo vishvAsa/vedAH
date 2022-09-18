@@ -26,10 +26,9 @@ orderly, 11 + 11: 11 + 12. The accent-mark over *pṛ-* is gone.⌋
 Let Heaven thy father and let Earth thy mother, accordant, give thee death in course of nature, That thou mayst live on Aditi's bosom, guarded, a hundred winters, through thy respirations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्यौ:। त्वा। पिता। पृथिवी। माता। जराऽमृत्युम्। कृणुताम्। संविदाने इति सम्ऽविदाने। यथा। जीवा:। अदिते:। उप‍स्थे। प्राणापानाभ्याम्। गुपित:। शतम्। हिमा:। २८.४।
+द्यौः। त्वा। पिता। पृथिवी। माता। जराऽमृत्युम्। कृणुताम्। संविदाने इति सम्ऽविदाने। यथा। जीवाः। अदितेः। उप‍स्थे। प्राणापानाभ्याम्। गुपितः। शतम्। हिमाः। २८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

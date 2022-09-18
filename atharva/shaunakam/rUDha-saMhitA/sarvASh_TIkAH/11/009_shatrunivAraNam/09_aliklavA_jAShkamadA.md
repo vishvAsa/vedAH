@@ -22,7 +22,6 @@ klamadāḥ;* and some of the mss. have *jāḥkam-* (so our B.O.s.m.).
 Let vultures, ravens, kites, and crows, and every carrion-eating bird. Feast on our foes, and show where one, Arbudi! hath been pierced by thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अलिक्लवाः। जाष्कमदाः। गृध्राः। श्येनाः। पतत्रिणः। ध्वाङ्क्षाः। शकुनयः। तृप्यन्तु। अमित्रेषु। सम्ऽईक्षयन्। रदिते। अर्बुदे। तव। ११.९।

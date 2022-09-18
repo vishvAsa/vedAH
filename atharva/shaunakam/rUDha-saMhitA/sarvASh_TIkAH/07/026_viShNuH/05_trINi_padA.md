@@ -21,10 +21,9 @@ it with *ví cakrame:* "from here." The comm. has *atas*.
 Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Establishing these high decrees.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रीणि। पदा। वि। चक्रमे। विष्णु:। गोपा:। अदाभ्य:। इत:। धर्माणि। धारयन्। २७.५।
+त्रीणि। पदा। वि। चक्रमे। विष्णुः। गोपाः। अदाभ्यः। इतः। धर्माणि। धारयन्। २७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

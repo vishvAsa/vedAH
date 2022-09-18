@@ -33,7 +33,6 @@ ceremonies. ⌊For the theoretical *k* of *pratyán̄k*, see note to vi. 51.
 If thou should kick a cow, or by indecent act offend the Sun, Thy root I sever; nevermore mayst thou cast shadow on the ground.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। च। गाम्। पदा। स्फुरति। प्रत्यङ्। सूर्यम्। च। मेहति। तस्य। वृश्चामि। ते। मूलम्। न। छायाम्। करवः। अपरम्। १.५६।

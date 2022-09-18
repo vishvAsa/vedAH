@@ -26,10 +26,9 @@ reads *tvaṁ hanyād yatra kuryān mahaṁ haviḥ*. ⌊We had our **d** at vi.
 We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast thou then struck this man here, him in whose house we sacrifice?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विद्म। वै। ते। जायान्य। जानम्। यत:। जायान्य। जायसे। कथम्। ह। तत्र। त्वम्। हन:। यस्य। कृण्म:। हवि:। गृहे। ८१.१।
+विद्म। वै। ते। जायान्य। जानम्। यतः। जायान्य। जायसे। कथम्। ह। तत्र। त्वम्। हनः। यस्य। कृण्मः। हविः। गृहे। ८१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ is very stupidly defined as *jagatī* by the Anukr.
 Who stored in him floods turned in all directions, moving diverse and formed to flow in rivers, Hasty, red, copper-hued, and purple, running all ways in Purusha, upward and downward?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कः। अस्मिन्। आपः। वि। अदधात्। विषुऽवृतः। पुरुःऽवृतः। सिन्धुऽसृत्याय। जाताः। तीव्राः। अरुणाः। लोहिनीः। ताम्रऽधूम्नाः। ऊर्ध्वाः। अवाचीः। पुरुषे। तिरश्चीः। २.११।

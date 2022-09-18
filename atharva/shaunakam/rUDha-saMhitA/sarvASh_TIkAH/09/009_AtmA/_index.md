@@ -7,7 +7,6 @@ title = "००९ आत्मा"
 9. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "००९ आत्मा"
 
 [Brahman.—dvāviṅśakam. vāmīyam ādityadevatyam adhyātmakaram. trāiṣṭubham: 12, 14, 16, 18. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: as RV. hymn, by Ludwig, no. 951; and Grassmann, ii. p. 456-460; also
 
 Enunciation of mystico-theological and cosmological doctrine
 </details>
+

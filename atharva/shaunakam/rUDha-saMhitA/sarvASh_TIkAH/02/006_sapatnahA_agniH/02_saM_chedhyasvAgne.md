@@ -21,10 +21,9 @@ for **c** the others give *mā́ ca riṣad upasattā́ te agne.*
 Kindle thee, Agni, and make this man prosper: rise up erect for high and happy fortune. Agni, be those uninjured who adore thee, and may thy priests be glorious and no others.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। च। इध्यस्व। अग्ने। प्र। च। वर्धय। इमम्। उत्। च। तिष्ठ। महते। सौभगाय। मा। ते। रिषन्। उपऽसत्तार:। अग्ने। ब्रह्माण:। ते। यशस:। सन्तु। मा। अन्ये। ६.२।
+सम्। च। इध्यस्व। अग्ने। प्र। च। वर्धय। इमम्। उत्। च। तिष्ठ। महते। सौभगाय। मा। ते। रिषन्। उपऽसत्तारः। अग्ने। ब्रह्माणः। ते। यशसः। सन्तु। मा। अन्ये। ६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ comm.; K. puts *vācam* after *viṣṇum* ⌊and for **a** it has our vs. 4
 Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vata, Vishnu, Sarasvati, and the strong courser Savitar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्यमणम्। बृहस्पतिम्। इन्द्रम्। दानाय। चोदय। वातम्। विष्णुम्। सरस्वतीम्। सवितारम्। च। वाजिनम्। २०.७।

@@ -20,7 +20,6 @@ vary between *-ñó aj-* and *-ñò aj-*. Ppp. reads *-ño aj-*; and, in
 Rohita's Agni-his who found heaven's light-is kindled with the prayer. From him the heat, from him the cold, from him the sacrifice was born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वःऽविदः। रोहितस्य। ब्रह्मणा। अग्निः। सम्। इध्यते। तस्मात्। घ्रंसः। तस्मात्। हिमः। तस्मात्। यज्ञः। अजायत १.४८।

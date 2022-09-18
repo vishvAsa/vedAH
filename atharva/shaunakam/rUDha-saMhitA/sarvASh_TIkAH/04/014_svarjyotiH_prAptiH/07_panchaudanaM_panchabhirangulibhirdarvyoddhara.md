@@ -29,10 +29,9 @@ above) in Ppp. xvi.⌋
 Set the Goat's head toward the eastern region, and turn his right side to the southern quarter. His hinder part turn to the western quarter, and set his left side to the northern region.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्चऽओदनम्। पञ्चऽभि:। अङ्गुलिऽभि:। दर्व्या। उत्। हर। पञ्चऽधा। एतम्। ओदनम्। प्राच्याम्। दिशि। शिर:। अजस्य। धेहि। दक्षिणायाम्। दिशि। दक्षिणम्। धेहि। पार्श्वम्। १४.७।
+पञ्चऽओदनम्। पञ्चऽभिः। अङ्गुलिऽभिः। दर्व्या। उत्। हर। पञ्चऽधा। एतम्। ओदनम्। प्राच्याम्। दिशि। शिरः। अजस्य। धेहि। दक्षिणायाम्। दिशि। दक्षिणम्। धेहि। पार्श्वम्। १४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

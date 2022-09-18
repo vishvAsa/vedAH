@@ -19,7 +19,6 @@ vikreṣv arujat: bahu rodhena kṛṇvaty agham*.
 If in thy house thy daughter here have wept, with wild dishevel- led locks, committing sin with her lament. May Agni, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। इयम्। दुहिता। तव। विऽकेशी। अरुदत्। गृहे। रोदेन। कृण्वती। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६०।

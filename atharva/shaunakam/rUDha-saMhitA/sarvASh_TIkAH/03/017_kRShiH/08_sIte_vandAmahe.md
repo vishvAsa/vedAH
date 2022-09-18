@@ -23,10 +23,9 @@ resolution *tu-ā* in **a**.
 Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst bless and prosper us and bring us fruits abundantly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सीते। वन्दामहे। त्वा। अर्वाची। सुऽभगे। भव। यथा। न:। सुऽमना:। अस:। यथा। न:। सुऽफला। भुव:। १७.८।
+सीते। वन्दामहे। त्वा। अर्वाची। सुऽभगे। भव। यथा। नः। सुऽमनाः। असः। यथा। नः। सुऽफला। भुवः। १७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

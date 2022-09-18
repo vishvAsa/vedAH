@@ -26,10 +26,9 @@ in **b**.
 Ye Waters, with auspicious eye behold me: touch ye my skin with your auspicious body. May they, the bright and pure, distilling fatness, those Waters, bring felicity and bless us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिवेन। मा। चक्षुषा। पश्यत। आप:। शिवया। तन्वा। उप। स्पृशत। त्वचम्। मे। घृतऽश्चुत:। शुचय:। या:। पावका:। ता:। न:। आप:। शम्। स्योना:। भवन्तु।
+शिवेन। मा। चक्षुषा। पश्यत। आपः। शिवया। तन्वा। उप। स्पृशत। त्वचम्। मे। घृतऽश्चुतः। शुचयः। याः। पावकाः। ताः। नः। आपः। शम्। स्योनाः। भवन्तु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

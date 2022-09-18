@@ -19,7 +19,6 @@ The Anukr. again passes without notice the redundant syllable in **c**.
 How far within the past hath Skambha entered? How much of him hath reached into the future? That one part which he set in thousand places,--how far did Skambha penetrate within it?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कियता। स्कम्भः। प्र। विवेश। भूतम्। कियत्। भविष्यत्। अनुऽआशये। अस्य। एकम्। यत्। अङ्गम्। अकृणोत्। सहस्रऽधा। कियता। स्कम्भः। प्र। विवेश। तत्र। ७.९।

@@ -32,10 +32,9 @@ in Roth's collations. Might it represent a *trā́tv antárikṣam?*⌋
 Earth is our Mother, Aditi our birth-place: our brother Air save us from imprecation! Dyaus, Father, save us, from the world of Fathers! My world not lost, may I approach my kindred.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भूमि:। माता। अदिति:। न:। जन‍ित्रम्। भ्रता। अन्तरिक्षम्। अभिऽशस्त्या। न:। द्यौ:। न:। पिता। पित्र्यात्। शम्। भवाति। जामिम्। ऋत्वा। मा। अव। पत्सि। लोकात्। १२०.२।
+भूमिः। माता। अदितिः। नः। जन‍ित्रम्। भ्रता। अन्तरिक्षम्। अभिऽशस्त्या। नः। द्यौः। नः। पिता। पित्र्यात्। शम्। भवाति। जामिम्। ऋत्वा। मा। अव। पत्सि। लोकात्। १२०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

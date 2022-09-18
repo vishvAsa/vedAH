@@ -25,10 +25,9 @@ is different in each text). Ppp. reads at the end *agniḥ*. The meter (8
 Agni I first appropriate with power, with splendour, and with might. I give myself children and lengthened life, with Hail! take Agni to myself.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मयि। अग्रे। अग्निम्। गृह्णामि। सह। क्षत्रेण। वर्चसा। बलेन। मयि। प्रऽजाम्। मयि। आयु:। दधामि। स्वाहा। मयि। अग्निम्। ८७.२।
+मयि। अग्रे। अग्निम्। गृह्णामि। सह। क्षत्रेण। वर्चसा। बलेन। मयि। प्रऽजाम्। मयि। आयुः। दधामि। स्वाहा। मयि। अग्निम्। ८७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ little from the AGS. verse. The Anukr. apparently expects us to resolve
 Come hither, stand upon the stone: thy body shall become a stone. The Universal Gods shall make thy life a hundred autumns long.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इहि। अश्मानम्। आ। तिष्ठ। अश्मा। भवतु। ते। तनू:। कृण्वन्तु। विश्वे। देवा:। आयु:। ते। शरद:। शतम्। १३.४।
+आ। इहि। अश्मानम्। आ। तिष्ठ। अश्मा। भवतु। ते। तनूः। कृण्वन्तु। विश्वे। देवाः। आयुः। ते। शरदः। शतम्। १३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

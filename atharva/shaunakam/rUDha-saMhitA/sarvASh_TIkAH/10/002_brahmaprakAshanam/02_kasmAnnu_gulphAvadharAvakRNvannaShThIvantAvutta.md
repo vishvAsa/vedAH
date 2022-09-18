@@ -27,7 +27,6 @@ it has again *pāuruṣasya*.
 Whence did they make the ankles that are under, and the knee- bones of Purusha above them? What led them onward to the legs' construction? Who planned and formed the knees' articulations?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कस्मात्। नु। गुल्फौ। अधरौ। अकृण्वन्। अष्ठीवन्तौ। उत्ऽतरौ। पुरुषस्य। जङ्घे इति। निःऽऋत्य। नि। अदधुः। क्व। स्वित्। जानुनोः। संधी इति सम्ऽधी। कः। ऊं इति। तत्। चिकेत। २.२।

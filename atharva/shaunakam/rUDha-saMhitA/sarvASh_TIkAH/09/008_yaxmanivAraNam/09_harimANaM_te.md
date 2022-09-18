@@ -22,7 +22,6 @@ third we have nearly our 7 **c**: *yakṣmaṁ te sarvam an̄gebhyo*.
 The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisis from thine inward soul we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हरिमाणम्। ते। अङ्गेभ्यः। अप्वाम्। अन्तरा। उदरात्। यक्ष्मःऽधाम्। अन्तः। आत्मनः। बहिः। निः। मन्त्रयामहे। १३.९।

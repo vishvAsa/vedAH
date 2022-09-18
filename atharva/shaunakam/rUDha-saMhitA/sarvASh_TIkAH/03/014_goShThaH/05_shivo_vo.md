@@ -33,10 +33,9 @@ note), loquacity being their salient characteristic; but what is the
 Auspicious be this stall to you. Prosper like cultivated rice. Even here increase and multiply. Myself do we bestow on you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शिव:। व:। गोऽस्थ:। भवतु। शारिशाकाऽइव। पुष्यत। इह। एव। उत। प्र। जायध्वम्। मया। व:। सम्। सृजामसि। १४.५।
+शिवः। वः। गोऽस्थः। भवतु। शारिशाकाऽइव। पुष्यत। इह। एव। उत। प्र। जायध्वम्। मया। वः। सम्। सृजामसि। १४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

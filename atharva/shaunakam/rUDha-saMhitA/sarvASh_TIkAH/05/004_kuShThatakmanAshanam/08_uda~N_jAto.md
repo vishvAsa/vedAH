@@ -21,10 +21,9 @@ Prāt. iii. 27. Ppp. reads *prācyaṁ* in **b**.
 Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There they deal out among themselves Kushtha's most noble qualities.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उदङ्। जात:। हिमऽवत:। स:। प्राच्याम्। नीयसे। जनम्। तत्र। कुष्ठस्य। नामानि। उत्ऽतमानि। वि। भेजिरे। ४.८।
+उदङ्। जातः। हिमऽवतः। सः। प्राच्याम्। नीयसे। जनम्। तत्र। कुष्ठस्य। नामानि। उत्ऽतमानि। वि। भेजिरे। ४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

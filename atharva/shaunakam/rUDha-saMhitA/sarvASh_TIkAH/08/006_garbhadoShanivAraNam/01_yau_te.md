@@ -26,10 +26,9 @@ fly about like bees⌋.
 Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooers which thy mother cleansed when, thou wast born.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। ते। माता। उत्ऽममार्ज। जाताया:। पतिऽवेदनौ। दु:ऽनामा। तत्र। मा। गृधत्। अलिंश:। उत। वत्सऽप:। ६.१।
+यौ। ते। माता। उत्ऽममार्ज। जातायाः। पतिऽवेदनौ। दुःऽनामा। तत्र। मा। गृधत्। अलिंशः। उत। वत्सऽपः। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

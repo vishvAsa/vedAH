@@ -7,7 +7,6 @@ title = "००९ विजयाय प्रार्थना"
 9. For some one's advancement and success.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विजयाय प्रार्थना।  
@@ -18,8 +17,6 @@ title = "००९ विजयाय प्रार्थना"
 
 [Atharvan.—vasvādinānāmantroktadevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 401; Ludwig, p. 456; Zimmer, p. 163; Griffith, i. 12; Blo
 
 Benediction on a King at his inauguration
 </details>
+

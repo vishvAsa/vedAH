@@ -21,10 +21,9 @@ stands.⌋
 Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in testiculis ob istam mulierem tibi findo.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये इति। ते। नाड्यौ। देवकृते इति देवऽकृते। ययो:। तिष्ठति। वृष्ण्यम्। ते इति। ते। भिनद्मि। शम्यया। अमुष्या:। अधि। मुष्कयो:। १३८.४।
+ये इति। ते। नाड्यौ। देवकृते इति देवऽकृते। ययोः। तिष्ठति। वृष्ण्यम्। ते इति। ते। भिनद्मि। शम्यया। अमुष्याः। अधि। मुष्कयोः। १३८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०२९ दीर्घायुष्यम्"
 29. For some one's long life and other blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुष्यम्।  
@@ -19,8 +18,6 @@ title = "०२९ दीर्घायुष्यम्"
 
 [Atharvan.—saptarcam. bahudevatyam. trāiṣṭubham: 1. anuṣṭubh; 4. parābṛhatī nicṛtprastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -36,3 +33,4 @@ Translated: Weber, xiii. 194; Ludwig, p. 493; Griffith, i. 68; Bloomfield, 47, 3
 
 A benediction on a sick man
 </details>
+

@@ -23,10 +23,9 @@ of earth and stuff from an ant-hill etc.
 With straw of barley tawny-brown in colour with its silvery ears, with stalk and stem of Sesamum- So let the plague-destroying Plant remove inherited disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बभ्रो:। अर्जुनऽकाण्डस्य। यवस्य। ते। पलाल्या। तिलस्य। तिलऽपिञ्ज्या। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.३।
+बभ्रोः। अर्जुनऽकाण्डस्य। यवस्य। ते। पलाल्या। तिलस्य। तिलऽपिञ्ज्या। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

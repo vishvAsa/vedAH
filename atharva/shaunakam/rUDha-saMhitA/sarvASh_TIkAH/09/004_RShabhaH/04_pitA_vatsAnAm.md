@@ -22,10 +22,9 @@ The verse occurs also in TS. (iii. 3. 9²), MS. (ii. 5. 10), and K.
 The husband of the cows, the young calves' father, father is he of mighty water-eddies. Calf, after-birth, new milk drawn hot, and biestings, curds, butter, that is his best genial humour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिता। वत्सानाम्। पति:। अघ्न्यानाम्। अथो इति। पिता। महताम्। गर्गराणाम्। वत्स:। जरायु:। प्रतिऽधुक्। पीयूष:। आमिक्षा। घृतम्। तत्। ऊं इति। अस्य। रेत:। ४.४।
+पिता। वत्सानाम्। पतिः। अघ्न्यानाम्। अथो इति। पिता। महताम्। गर्गराणाम्। वत्सः। जरायुः। प्रतिऽधुक्। पीयूषः। आमिक्षा। घृतम्। तत्। ऊं इति। अस्य। रेतः। ४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

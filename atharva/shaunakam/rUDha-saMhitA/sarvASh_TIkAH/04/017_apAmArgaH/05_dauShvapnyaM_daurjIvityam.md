@@ -25,10 +25,9 @@ special kind of demon or demoniac (quoting RV. i. 185. 2); and the
 Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-fiends of evil name and voice, we drive away from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दौ:ऽस्वप्न्यम्। दौ:ऽजीवित्यम्। रक्ष:। अभ्वम्। अराय्य:। दु:ऽनाम्नी:। सर्वा:। दु:ऽवाच:। ता:। अस्मत्। नाशयामसि। १७.५।
+दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्वम्। अराय्यः। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। १७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

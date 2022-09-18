@@ -23,10 +23,9 @@ with *me adharā́g* in **a**, *udák kṛdhi* in **b**, and *paścā́n me* in
 Make thou us free from enemies both from below and from above. O Indra, give us perfect peace, peace from behind and from be- fore.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनमित्रम्। न:। अधरात्। अनमित्रम्। न:। उत्तरात्। इन्द्र। अनमित्रम्। न:। पश्चात्। अनमित्रम्। पुर:। कृधि। ४०.३।
+अनमित्रम्। नः। अधरात्। अनमित्रम्। नः। उत्तरात्। इन्द्र। अनमित्रम्। नः। पश्चात्। अनमित्रम्। पुरः। कृधि। ४०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

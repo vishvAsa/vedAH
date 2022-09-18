@@ -25,10 +25,9 @@ verse *prasarjanī*.
 Strong is my cry like thunder with the rainy cloud: with power- ful incantation let thy strength be stayed. I, with the men to aid, have seized that juice of his; as light from out the gloom, let Surya rise on high
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषा। मे। रव:। नभसा। न। तन्यतु:। उग्रेण। ते। वचसा। बाधे। आत्। ऊं इति। ते। अहम्। तम्। अस्य। नृऽभि:। अग्रभम्। रसम्। तमस:ऽइव। ज्योति:। उत्। एतु। सूर्य:। १३.३।
+वृषा। मे। रवः। नभसा। न। तन्यतुः। उग्रेण। ते। वचसा। बाधे। आत्। ऊं इति। ते। अहम्। तम्। अस्य। नृऽभिः। अग्रभम्। रसम्। तमसःऽइव। ज्योतिः। उत्। एतु। सूर्यः। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

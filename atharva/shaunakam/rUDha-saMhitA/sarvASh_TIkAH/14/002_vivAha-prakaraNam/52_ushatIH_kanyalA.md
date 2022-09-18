@@ -26,7 +26,6 @@ is bathed.
 These maids who from their father's house have come with long- ing to their lord have let the preparation pass. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उशतीः। कन्यलाः। इमाः। पितृऽलोकात्। पतिम्। यतीः। अव। दीक्षाम्। असृक्षत। स्वाहा। २.५२।

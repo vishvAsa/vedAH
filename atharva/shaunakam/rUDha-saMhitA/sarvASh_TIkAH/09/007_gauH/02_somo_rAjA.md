@@ -19,7 +19,6 @@ nāmivate*, and reads *adharā* for *-rahanuḥ*, adding after it *agnir
 King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सोमः। राजा। मस्तिष्कः। द्यौः। उत्तरऽहनुः। पृथिवी। अधरऽहनुः। १२.२।

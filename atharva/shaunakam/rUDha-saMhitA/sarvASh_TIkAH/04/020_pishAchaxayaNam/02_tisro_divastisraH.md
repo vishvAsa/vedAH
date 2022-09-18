@@ -22,10 +22,9 @@ unless we pronounce *pṛthvī́s*. ⌊For the triplicity, comm. cites RV. ii.
 Through thee, O godlike Plant, may I behold all creatures that exist, Three several heavens, three several earths, and these six regions one by one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तिस्र:। दिव:। तिस्र:। पृथिवी। षट्। च। इमा:। प्रऽदिश:। पृथक्। त्वया। अहम्। सर्वा। भूतानि। पश्यानि। देवि। ओषधे। २०.२।
+तिस्रः। दिवः। तिस्रः। पृथिवी। षट्। च। इमाः। प्रऽदिशः। पृथक्। त्वया। अहम्। सर्वा। भूतानि। पश्यानि। देवि। ओषधे। २०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

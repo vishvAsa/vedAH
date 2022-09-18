@@ -14,7 +14,6 @@ title = "०२ कस्मादङ्गाद् दीप्यते"
 Out of which member glows the light of Agni? Form which proceeds the breath of Matarisvan? From which doth Chandra measure out his journey, travelling over Skambha's mighty body?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कस्मात्। अङ्गात्। दीप्यते। अग्निः। अस्य। कस्मात्। अङ्गात्। पवते। मातरिश्वा। कस्मात्। अङ्गात्। वि। मिमीते। अधि। चन्द्रमाः। महः। स्कम्भस्य। मिमानः। अङ्गम्। ७.२।

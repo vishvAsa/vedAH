@@ -28,7 +28,6 @@ authorize the resolution *ṣa-ām* in **c**.
 The faithless, who from lust of wealth abide with him who feeds on flesh, For ever set upon the fire an alien caldron, not their own.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। अश्रध्दाः। धनऽकाम्या। क्रव्यऽअदा। सम्ऽआसते। ते। वै। ‍ अन्येषाम्। कुम्भीम्। परिऽआदधति। सर्वदा। २.५१।

@@ -21,7 +21,6 @@ d**. *Pada*-text in **c** *ádhi: asthāt*. ⌊As to *kali*, cf. Bergaigne,
 Come hither with the Soma, come with every footed thing; the Cow With Kalis and Gandharvas by her side hath stepped upon the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। हि। सोमेन। अगत। सम्। ऊं इति। सर्वेण। पत्ऽवता। वशा। समुद्रम्। अधि। अस्थात्। गन्धर्वैः। कलिऽभिः। सह। १०.१३।

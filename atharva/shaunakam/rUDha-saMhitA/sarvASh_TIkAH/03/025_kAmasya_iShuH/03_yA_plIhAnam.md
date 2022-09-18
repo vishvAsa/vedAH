@@ -22,10 +22,9 @@ makes equivalent to *ṛjavaḥ pakṣā yasyāḥ.*
 The shaft of Kama, pointed well, that withers and consumes the spleen. With hasty feathers, all aglow, therewith I pierce thee to the heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। प्लीहानम्। शोषयति। कामस्य। इषु:। सुऽसंनता। प्राचीनऽपक्षा। विऽओषा। तया। विध्यामि। त्वा। हृदि। २५.३।
+या। प्लीहानम्। शोषयति। कामस्य। इषुः। सुऽसंनता। प्राचीनऽपक्षा। विऽओषा। तया। विध्यामि। त्वा। हृदि। २५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

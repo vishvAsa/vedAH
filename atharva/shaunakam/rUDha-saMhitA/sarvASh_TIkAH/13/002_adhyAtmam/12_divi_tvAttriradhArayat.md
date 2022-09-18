@@ -22,7 +22,6 @@ bhūtā viśākaśat* ⌊so Roth: perhaps a slip for *vicāk-*⌋.
 Atri established thee in heaven. O Surya, to create the month. So on thou goest, firmly held, heating, beholding all that is.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिवि। त्वा। अत्त्रिः। अधारयत्। सूर्य। मासाय। कर्तवे। सः। एषि। सुऽधृतः। तपन्। विश्वा। भूता। अवऽचाकशत्। 2.१२।

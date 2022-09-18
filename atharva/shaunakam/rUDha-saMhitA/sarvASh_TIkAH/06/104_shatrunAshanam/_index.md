@@ -7,7 +7,6 @@ title = "१०४ शत्रुनाशनम्"
 104. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "१०४ शत्रुनाशनम्"
 [Praśocana.—bahudevatyam utāi ”ndrāgnam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix., in reversed order of verses. Used by Kāuś. (16.6) 
 ### Translations
 Translated: Ludwig, p. 518; Griffith, i. 302.
 </details>
+

@@ -19,7 +19,6 @@ Ppp. reads at the end *prāśa*, for *plāśayaḥ*, and adds next vss. 16,
 Hunger is the belly, refreshing drink is the rectum, mountains. are the inward parts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्षुत्। कुक्षिः। इरा। वनिष्ठुः। पर्वताः। प्लाशयः। १२.१२।

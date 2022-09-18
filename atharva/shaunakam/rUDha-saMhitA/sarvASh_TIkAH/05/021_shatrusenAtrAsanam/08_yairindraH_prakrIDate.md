@@ -18,10 +18,9 @@ The playful tactics of Indra here are not very clear.
 Let those our enemies who go yonder in their battalions shake. In fear at shadows and the sounds of feet which Indra sporteth with.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यै:। इन्द्र:। प्रऽक्रीडते। पत्ऽघोषै:। छायया। सह। तै:। अमित्रा:। त्रसन्तु। न:। अमी इति। ये। यन्ति। अनीकऽश:। २१.८।
+यैः। इन्द्रः। प्रऽक्रीडते। पत्ऽघोषैः। छायया। सह। तैः। अमित्राः। त्रसन्तु। नः। अमी इति। ये। यन्ति। अनीकऽशः। २१.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

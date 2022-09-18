@@ -20,7 +20,6 @@ the mss. accent *svít* in **d**.
 Whitherward yearning blazeth Agni upward? Whitherward yearning bloweth Matarisvan? Who out of many, tell me, is that Skambha to whom with long- ing go the turning pathways?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्व। प्रऽईप्सन्। दीप्यते। ऊर्ध्वः। अग्निः। क्व। प्रऽईप्सन्। पवते। मातरिश्वा। यत्र। प्रऽईप्सन्तीः। अभिऽयन्ति। आऽवृतः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.४।

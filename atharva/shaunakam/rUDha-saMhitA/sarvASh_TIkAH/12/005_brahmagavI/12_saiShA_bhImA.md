@@ -19,7 +19,6 @@ Ppp. reads instead *pūlyājām*.
 Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। एषा। भीमा। ब्रह्मऽगवी। अघऽविषा। सऽअक्षात्। कृत्या। कूल्बजम्। आऽवृता। ७.१।

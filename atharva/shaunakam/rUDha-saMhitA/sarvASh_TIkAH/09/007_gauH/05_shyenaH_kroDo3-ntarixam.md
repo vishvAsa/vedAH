@@ -21,7 +21,6 @@ number of 24 syllables is made out by reading *kroḍó ant-* and
 The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is the hump, Brihati the breast-bone and cartilages of the ribs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 श्येनः। क्रोडः। अन्तर‍िक्षम्। पाजस्यम्। बृहस्पतिः। ककुत्। बृहतीः। कीकसाः। १२.५।

@@ -19,7 +19,6 @@ required by the Anukr. ⌊It reads naturally as 9 + 8.⌋
 तावां॑स्ते मघवन् महि॒मोपो॑ ते त॒न्वः श॒तम्॥४४॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तावान्। ते। मघऽवन्। महिमा। उपो इति। ते। तन्वः। शतम्। ७.१६।

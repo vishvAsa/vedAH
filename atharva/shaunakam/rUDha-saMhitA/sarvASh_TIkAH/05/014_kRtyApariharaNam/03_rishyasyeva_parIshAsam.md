@@ -25,10 +25,9 @@ regarding *iva* as dissyllabic, and therefore reckons the verses as
 As 'twere a strip cut round from skin of a white-footed an- telope, Bind, like a golden chain, O God, his witchcraft on the sorcerer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रिश्यस्यऽइव। परिऽशासनम्। परिऽकृत्य। परि। त्वच:। कृत्याम्। कृत्याऽकृते। देवा:। निष्कम्ऽइव। प्रति। मुञ्चत। १४.३।
+रिश्यस्यऽइव। परिऽशासनम्। परिऽकृत्य। परि। त्वचः। कृत्याम्। कृत्याऽकृते। देवाः। निष्कम्ऽइव। प्रति। मुञ्चत। १४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

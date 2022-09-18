@@ -24,10 +24,9 @@ Kāuś. 126.
 She whom they call the star with loosened tresses, descending as. misfortune on the village, The Brahman's consort, she disturbs the kingdom where hath appeared the hare with fiery flashing.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। आहु:। तारका। एषा। विऽकेशी। इति। दुच्छुनाम्। ग्रामम्। अवऽपद्यमानाम्। सा। ब्रह्मऽजाया। वि। दुनोति। राष्ट्रम्। यत्र। प्रऽअपादि। शश:। उल्कुषीऽमान्। १७.४।
+याम्। आहुः। तारका। एषा। विऽकेशी। इति। दुच्छुनाम्। ग्रामम्। अवऽपद्यमानाम्। सा। ब्रह्मऽजाया। वि। दुनोति। राष्ट्रम्। यत्र। प्रऽअपादि। शशः। उल्कुषीऽमान्। १७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

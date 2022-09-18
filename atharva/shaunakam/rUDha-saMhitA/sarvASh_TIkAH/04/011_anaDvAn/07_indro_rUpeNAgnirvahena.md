@@ -40,10 +40,9 @@ Agni seems to rest on Agni's chief function of "carrying"; cf. RV. x.
 Prajapati, supreme and sovran ruler, Indra by form and by his shoulder Agni, Came to Visvanara, came to all men's Bullock: he firmly forti- fied and held securely.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। रूपेण। अग्नि:। वहेन। प्रजाऽपति:। परमेऽस्थी। विऽराट्। विश्वानरे। अक्रमत। वैश्वानरे। अक्रमत। अनडुहि। अक्रमत। स:। अदृंहयत। स:। अधारयत। ११.७।
+इन्द्रः। रूपेण। अग्निः। वहेन। प्रजाऽपतिः। परमेऽस्थी। विऽराट्। विश्वानरे। अक्रमत। वैश्वानरे। अक्रमत। अनडुहि। अक्रमत। सः। अदृंहयत। सः। अधारयत। ११.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

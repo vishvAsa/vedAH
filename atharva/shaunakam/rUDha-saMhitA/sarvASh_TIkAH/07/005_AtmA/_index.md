@@ -7,7 +7,6 @@ title = "००५ आत्मा"
 5. Mystic: on the offering or sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "००५ आत्मा"
 
 [Atharvan (as above).—pañcarcam. ātmadevatākam: trāiṣṭubham: 3. pan̄kti; 4. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 2, 49; Griffith, i. 329.
 
 A glorification of sacrifice
 </details>
+

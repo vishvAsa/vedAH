@@ -23,10 +23,9 @@ refrain through vss. 3-6. ⌊In **c**, scan *-pṛthvī...sioné*.⌋
 Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, and far-extending, To me, O Heaven and Earth, be ye auspicious. Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम्। प्रवृध्दे इति प्रऽवृध्दे। देवी इति। सुभगे इति सुऽभगे। उरूची इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। न:। मुञ्चतम्। अंहस:। २६.२।
+प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम्। प्रवृध्दे इति प्रऽवृध्दे। देवी इति। सुभगे इति सुऽभगे। उरूची इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

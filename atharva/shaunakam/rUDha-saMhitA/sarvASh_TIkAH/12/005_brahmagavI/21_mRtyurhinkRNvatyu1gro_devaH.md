@@ -19,7 +19,6 @@ All the *saṁhitā*-mss. read *-tyù3gró* ⌊K. *ū̀g-*⌋. This verse also h
 Death is she when she loweth, and a fierce God when she whis- keth her tail;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मृत्युः। हिङ्कृण्वती। उग्रः। देवः। पुच्छम्। परिऽअस्यन्ती। ७.१०।

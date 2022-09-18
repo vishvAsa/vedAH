@@ -24,10 +24,9 @@ simply a *triṣṭubh*, although its first half is very irregular (8 + 13).
 Seize him and bring him hither. Let him travel. foreknowing, to the regions of the pious. Crossing in many a place the mighty darkness, let the Goat mount to the third heaven above us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। नय। एतम्। आ। रभस्व। सुऽकृताम्। लोकम्। अपि। गच्छतु। प्रऽजानन्। तीर्त्वा। तमांसि। बहुऽधा। महान्ति। अज:। नाकम्। आ। क्रमताम्। तृतीयम्। ५.१।
+आ। नय। एतम्। आ। रभस्व। सुऽकृताम्। लोकम्। अपि। गच्छतु। प्रऽजानन्। तीर्त्वा। तमांसि। बहुऽधा। महान्ति। अजः। नाकम्। आ। क्रमताम्। तृतीयम्। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

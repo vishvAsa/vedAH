@@ -7,7 +7,6 @@ title = "०२४ समृद्घि-प्राप्तिः"
 24. For abundance of grain.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 समृद्घि-प्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०२४ समृद्घि-प्राप्तिः"
 
 [Bhṛgu.—saptarcam. vānaspatyam uta prājāpatyam. ānuṣṭubham: 2. nicṛtpathypan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 268; Weber, xvii. 286; Griffith, i. 117.
 
 A song of harvest
 </details>
+

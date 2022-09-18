@@ -17,10 +17,9 @@ Indra-and-Agni, let splendor be maintained in my self.
 As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agni, lay splendour and strength within my soul.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। सोम:। द्वितीये। सवने। इन्द्राग्न्यो:। भवति। प्रिय:। एव। मे। इन्द्राग्नी इति। वर्च:। आत्मनि। ध्रियताम्। १.१२।
+यथा। सोमः। द्वितीये। सवने। इन्द्राग्न्योः। भवति। प्रियः। एव। मे। इन्द्राग्नी इति। वर्चः। आत्मनि। ध्रियताम्। १.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

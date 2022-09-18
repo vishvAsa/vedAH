@@ -23,7 +23,6 @@ vss. ⌊57-58⌋ as *anuṣṭubh*, although it describes a minor feature of vs.
 The earth became an altar, heat was Agni, and the butter rain. There Agni made, by song and hymn, these mountains rise and stand erect.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वर्षम्। आज्यम्। घ्रंसः। अग्निः। वेदिः। भूमिः। अकल्पत। तत्र। एतान्। पर्वतान्। अग्निः। गीःऽभिः  ऊर्ध्वान्। अकल्पयत्। १.५३।

@@ -27,10 +27,9 @@ added to the hymn.
 Skilled in all ways, O God, O Jatavedas, I offer what is cleansed by heart and spirit. To all thy seven mouths, O Jatavedas. Do thou accept with pleasure my libation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हृदा। पूतम्। मनसा। जातऽवेद:। विश्वानि। देव। वयुनानि। विद्वान्। सप्त। आस्यानि। तव। जातऽवेद:। तेभ्य:। जुहोमि। स:। जुषस्व। हव्यम्। ३९.१०।
+हृदा। पूतम्। मनसा। जातऽवेदः। विश्वानि। देव। वयुनानि। विद्वान्। सप्त। आस्यानि। तव। जातऽवेदः। तेभ्यः। जुहोमि। सः। जुषस्व। हव्यम्। ३९.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

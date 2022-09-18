@@ -29,7 +29,6 @@ prahitāṁ prati* etc.; in **c** ⌊or rather **c-d**⌋, *tuñjaty anasvinī
 This, Kritya, is thy path, we say, and guide thee. We drive thee back who hast been sent against us. Go by this pathway, breaking loose for onslaught even as a host complete with cars and horses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। पन्थाः। कृत्ये। इति। त्वा। नयामः। अभिऽप्रहिताम्। प्रति। त्वा। प्र। हिण्मः। तेन। अभि। याहि। भञ्जती। अनस्वतीऽइव। वाहिनी। विश्वऽरूपा। कुरूटिनी। १.१५।

@@ -26,10 +26,9 @@ Geldner, *Ved. Stud.* i. 150; Foy, KZ. xxxiv. 251.⌋
 May we all, much-invoked! repel with cattle want that brings sin, hunger with store of barley. May we uninjured, first among the princes, obtain possessions by our own exertions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गोभि:। तरेम। अमतिम्। दु:ऽएवाम्। यवेन। वा। क्षुधम्। पुरुऽहूत। विश्वे। वयम्। राजऽसु। प्रथमा:। धनानि। अरिष्टास:। वृजनीभि:। जयेम। ५२.७।
+गोभिः। तरेम। अमतिम्। दुःऽएवाम्। यवेन। वा। क्षुधम्। पुरुऽहूत। विश्वे। वयम्। राजऽसु। प्रथमाः। धनानि। अरिष्टासः। वृजनीभिः। जयेम। ५२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ sort of fennel or anise" (Pet. Lex.).
 Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We do not sharpen thee to slay the man who hath not practised it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृतऽव्यधनि। विध्य। तम्। य:। चकार। तम्। इत्। जहि। न। त्वाम्। अचक्रुषे। वयम्। वधाय। सम्। शिशीमहि। १४.९।
+कृतऽव्यधनि। विध्य। तम्। यः। चकार। तम्। इत्। जहि। न। त्वाम्। अचक्रुषे। वयम्। वधाय। सम्। शिशीमहि। १४.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

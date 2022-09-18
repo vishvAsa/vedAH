@@ -30,10 +30,9 @@ and = *samañcanam bilaṁ sampraviśya gacchantam*.
 Destroy the rat, the mole, the boring beetle, cut off their heads and crush their ribs, O Asvins. Bind fast their mouths; let them not eat our barley: so guard, ye twain, our growing corn from danger.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हतम्। तर्दम्। सम्ऽअङ्कम्। आखुम्। अश्विना। छिन्तम्। शिर:। अपि। पृष्टी:। शृणीतम्। यवान्। न। इत्। अदान्। अपि। नह्यतम्। मुखम्। अथ। अभयम्। कृणुतम्। धान्याय। ५०.१।
+हतम्। तर्दम्। सम्ऽअङ्कम्। आखुम्। अश्विना। छिन्तम्। शिरः। अपि। पृष्टीः। शृणीतम्। यवान्। न। इत्। अदान्। अपि। नह्यतम्। मुखम्। अथ। अभयम्। कृणुतम्। धान्याय। ५०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

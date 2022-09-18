@@ -19,10 +19,9 @@ of *no rakṣa*. *Sarvavíd* might, of course, mean 'all-knower.'
 To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our wealth of quadrupeds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कल्याणि। सर्वऽविदे। मा। परि। देहि। सर्वऽवित्। द्विऽपात्। च। सर्वम्। न:। रक्ष। चतु:ऽपात्। यत्। च। न:। स्वम्। १०७.४।
+कल्याणि। सर्वऽविदे। मा। परि। देहि। सर्वऽवित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

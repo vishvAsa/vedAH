@@ -19,10 +19,9 @@ W. reads in **b** *vásoṣ ká-*.
 Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of goodly treasure. May Agni Jatavedas bear him offered, on pathways traversed by the Gods, to Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुमान्। अन्त:ऽवान्। स्थविर:। पयस्वान्। वसो:। कबन्धम्। ऋषभ:। बिभर्ति। तम्। इन्द्राय। पथिऽभि:। देवऽयानै:। हुतम्। अग्नि:। वहतु। जातऽवेदा:। ४.३।
+पुमान्। अन्तःऽवान्। स्थविरः। पयस्वान्। वसोः। कबन्धम्। ऋषभः। बिभर्ति। तम्। इन्द्राय। पथिऽभिः। देवऽयानैः। हुतम्। अग्निः। वहतु। जातऽवेदाः। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

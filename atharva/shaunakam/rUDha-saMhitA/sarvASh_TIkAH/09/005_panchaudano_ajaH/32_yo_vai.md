@@ -19,10 +19,9 @@ etc.
 The man who knows the season called the Working takes to himself the active fame, his hated rival's active fame. The Goat Panchaudana is this Working season. He lives himself, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। वै। कुर्वन्तम्। नाम। ऋतुम्। वेद। कुर्वतीम्ऽकुर्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एष:। वै। कुर्वन्। नाम। ऋतु:। यत्। अज:। पञ्चऽओदन:। ५.३२।
+यः। वै। कुर्वन्तम्। नाम। ऋतुम्। वेद। कुर्वतीम्ऽकुर्वतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। कुर्वन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

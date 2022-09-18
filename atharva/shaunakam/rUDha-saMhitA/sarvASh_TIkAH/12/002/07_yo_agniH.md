@@ -21,7 +21,6 @@ used in Kāuś. 71. 6 with vs. 4 (see note to latter).
 I sweep afar, for sacrifice to Fathers, corpse-eating Agni who hath come among us, Although he saw this other, Jatavedas: in loftiest space let him inflame the caldron.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अग्निः। क्रव्यऽअत्। प्रऽविवेश। नः। गृहम्। इमम्। पश्यन्। इतरम्। जातऽवेदसम्। तम्। हरामि। पितृऽयज्ञाय। दूरम्। सः। घर्मम्। इन्धाम्। परमे। सधऽस्थे। २.७।

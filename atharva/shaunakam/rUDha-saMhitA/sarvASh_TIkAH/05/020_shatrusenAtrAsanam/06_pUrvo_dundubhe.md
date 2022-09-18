@@ -28,10 +28,9 @@ exchange places with 8 **c, d**.
 Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak forth exultant. Crunching with might the army of the foemen, declare thy message pleasantly and clearly.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूर्व:। दुन्दुभे। प्र। वदासि। वाचम्। भूम्या:। पृष्ठे। वद। रोचमान:। अमित्रऽसेनाम्। अभिऽजञ्जभान:। द्युमत्। वद। दुन्दुभे। सूनृताऽवत्। २०.६।
+पूर्वः। दुन्दुभे। प्र। वदासि। वाचम्। भूम्याः। पृष्ठे। वद। रोचमानः। अमित्रऽसेनाम्। अभिऽजञ्जभानः। द्युमत्। वद। दुन्दुभे। सूनृताऽवत्। २०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

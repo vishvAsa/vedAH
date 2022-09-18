@@ -23,7 +23,6 @@ etc.): probably an accidental omission. The verse (12 + 11: 8 + 8 + 8 =
 A vast abode hast thou become, the Mighty. Great stress is on thee, press and agitation, but with unceasing care great Indra guards thee. So make us shine, O Earth, us with the splendour of gold. Let no man look on us with hatred.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 महत्। सधऽस्थम्। महती। बभूविथ। महान्। वेगः। एजथुः। वेपथुः। ते। महान्। त्वा। इन्द्रः। रक्षति। अप्रऽमादम्। सा। नः। भूमे। प्र। रोचय। हिरण्यस्यऽइव। सम्ऽदृशि। मा। नः। द्विक्षत। कः। चन। १.१८।

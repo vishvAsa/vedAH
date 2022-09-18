@@ -22,7 +22,6 @@ to be used when the bridal train passes by a burial-place.
 May they, the Fathers who, to view the bride, have joined this nuptial train, Grant to this lady and her lord children and peaceful happiness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। पितरः। वधूऽदर्शाः। इमम्। वहतुम्। आ। अगमन्। ते। अस्यै। वध्वै। सम्ऽपत्न्यै। प्रजाऽवत्। शर्म। यच्छन्तु। २.७३।

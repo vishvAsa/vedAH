@@ -27,10 +27,9 @@ of *ha*.
 On measure Brihati is based, and measure on the measurer: From magic might came magic might, from magic might came Matali.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-बृहती। परि। मात्राया:। मातु:। मात्रा। अधि। नि:ऽमिता। माया। ह। जज्ञे। मायाया:। मायाया:। मातली। परि। ९.५।
+बृहती। परि। मात्रायाः। मातुः। मात्रा। अधि। निःऽमिता। माया। ह। जज्ञे। मायायाः। मायायाः। मातली। परि। ९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

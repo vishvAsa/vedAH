@@ -23,10 +23,9 @@ as in **b**.
 Here, Indra Vritra-slayer, in thy strength pierce thou their vital. parts. Here, even here, attack them, O Indra. Thine own dear friend am I. Indra, we closely cling to thee. May we be in thy favouring grace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अत्र। एनान्। इन्द्र। वृत्रऽहन्। उग्र:। मर्मणि। विध्य। अत्र। एव। एनान्। अभि। तिष्ठ। इन्द्र। मेदी। अहम्। तव। अनु। त्वा। इन्द्र। आ। रभामहे। स्याम। सुऽमतौ। तव। ८.९।
+अत्र। एनान्। इन्द्र। वृत्रऽहन्। उग्रः। मर्मणि। विध्य। अत्र। एव। एनान्। अभि। तिष्ठ। इन्द्र। मेदी। अहम्। तव। अनु। त्वा। इन्द्र। आ। रभामहे। स्याम। सुऽमतौ। तव। ८.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ is a misreading for this.
 Thy firm and triply-barred protection, Kama! thy spell, made weapon-proof extended armour With that drive thou my foemen to a distance. May cattle, vital breath, and life forsake them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। काम। शर्म। त्रिऽवरूथम्। उत्ऽभु। ब्रह्म। वर्म। विऽततम्। अनतिऽव्याध्यम्। कृतम्। तेन। सऽपत्नान्। परि। वृङ्ग्धि। ये। मम। परि। एनान्। प्राण:। पशव:। जीवनम्। वृणक्तु। २.१६।
+यत्। ते। काम। शर्म। त्रिऽवरूथम्। उत्ऽभु। ब्रह्म। वर्म। विऽततम्। अनतिऽव्याध्यम्। कृतम्। तेन। सऽपत्नान्। परि। वृङ्ग्धि। ये। मम। परि। एनान्। प्राणः। पशवः। जीवनम्। वृणक्तु। २.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

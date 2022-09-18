@@ -19,10 +19,9 @@ long-lived, attaining old age.
 In this let Indra lay a store of valour: approach ye Gods, and enter it together, For his long life, to last a hundred autumns, that to full age his days may be extended.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अस्मिन्। इन्द्र:। नि। दधातु। नृम्णम्। इमम्। देवास:। अभिऽसंविशध्वम्। दीर्घायुऽत्वाय। शतऽशारदाय। आयुष्मान्। जरत्ऽअष्टि:। यथा। असत्। ५.२१।
+अस्मिन्। इन्द्रः। नि। दधातु। नृम्णम्। इमम्। देवासः। अभिऽसंविशध्वम्। दीर्घायुऽत्वाय। शतऽशारदाय। आयुष्मान्। जरत्ऽअष्टिः। यथा। असत्। ५.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

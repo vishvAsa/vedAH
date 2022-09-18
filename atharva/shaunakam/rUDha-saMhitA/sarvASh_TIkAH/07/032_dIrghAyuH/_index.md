@@ -7,7 +7,6 @@ title = "०३२ दीर्घायुः"
 32 (33). Homage to Soma (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुः।  
@@ -18,8 +17,6 @@ title = "०३२ दीर्घायुः"
 
 [Brahman.—āyuṣyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: by RV. translators; and Henry, 12, 66; Griffith, i. 342.
 
 A prayer to Agni for long life
 </details>
+

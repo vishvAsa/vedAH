@@ -38,7 +38,6 @@ consummation of the union.
 I am this man, that dame art thou I am the psalm and thou the verse. I am the heaven and thou the earth. So will we dwell together here, parents of children yet to be.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अमः। अहम्। अस्मि। सा। त्वम्। साम। अहम्। अस्मि। ऋक्। त्वम्। द्यौः। अहम्। पृथिवी। त्वम्। तौ। इह। सम्। भवाव। प्रऽजाम्। आ। जनयावहै। २.७१।

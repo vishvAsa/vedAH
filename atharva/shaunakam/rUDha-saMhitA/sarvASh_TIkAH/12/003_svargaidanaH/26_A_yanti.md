@@ -22,7 +22,6 @@ in the comm. to Prāt. ii. 68.
 From heaven they come, they visit earth, and rising from earth unite themselves with air's mid-region, Purified, excellent, they with shine in beauty. Thus may they lead us to the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। यन्ति। दिवः। पृथिवीम्। सचन्ते। भूम्याः। सचन्ते। अधि। अन्तरिक्षम्। शुध्दाः। सतीः। ताः। ऊं इति। शुम्भन्ते। एव। ताः। नः। स्वःऽगम्। अभि। लोकम्। नयन्तु। ३..२६।

@@ -19,10 +19,9 @@ Ppp. prefixes a *tasyās* at the beginning. Accent again in our text
 Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यन्ति। अस्य। आऽमन्त्रणम्। आऽमन्त्रणीय:। भवति। य:। एवम्। वेद। १०.१३।
+यन्ति। अस्य। आऽमन्त्रणम्। आऽमन्त्रणीयः। भवति। यः। एवम्। वेद। १०.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

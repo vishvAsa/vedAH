@@ -29,10 +29,9 @@ have run gliding': i.e., I suppose, 'that dart along on their bellies'?⌋
 Daughter of Urugula, she-fiend whom the black, skinned mother bare-- All female serpents poison who crept swiftly near is impotent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उरुऽगूलाया:। दुहिता। जाता। दासी। असिक्न्या। प्रऽतङ्कम्। दद्रुषीणाम्। सर्वासाम्। अरसम्। विषम्। १३.८।
+उरुऽगूलायाः। दुहिता। जाता। दासी। असिक्न्या। प्रऽतङ्कम्। दद्रुषीणाम्। सर्वासाम्। अरसम्। विषम्। १३.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

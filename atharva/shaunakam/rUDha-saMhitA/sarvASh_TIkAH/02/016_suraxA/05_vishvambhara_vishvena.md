@@ -28,7 +28,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वम् ऽभर। विश्वेन। मा। भरसा। पाहि। स्वाहा। १६.५।

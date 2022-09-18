@@ -7,7 +7,6 @@ title = "००७ गौः"
 7. Extolling the ox.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गौः  
@@ -22,8 +21,6 @@ title = "००७ गौः"
 
 [Brahman.—ekaḥ [paryāyaḥ]. ṣaḍviṅśaḥ. gavyaḥ.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -42,3 +39,4 @@ Translated: Henry, 103, 139; Griffith, i. 453.
 
 A glorification of the typically bull and cow
 </details>
+

@@ -38,10 +38,9 @@ this verse and the next; it reads at the end of **c** *prajānāṁ*. Pāda
 Now have we reached the ordering of power, and all these worlds of life are held within it. Let him who knows urge e'en the churl to bounty Give wealth. to us with all good men about us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वाजस्य। नु। प्रऽसवे। सम्। बभूविम। इमा। च। विश्वा। भुवनानि। अन्त:। उत। अदित्सन्तम्। दापयतु। प्रऽजानन्। रयिम्। च। न:। सर्वऽवीरम्। नि। यच्छ। २०.८।
+वाजस्य। नु। प्रऽसवे। सम्। बभूविम। इमा। च। विश्वा। भुवनानि। अन्तः। उत। अदित्सन्तम्। दापयतु। प्रऽजानन्। रयिम्। च। नः। सर्वऽवीरम्। नि। यच्छ। २०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

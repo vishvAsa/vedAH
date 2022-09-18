@@ -26,10 +26,9 @@ also 68. 1 **c, d**, and nearly 46. 1 **c, d**. \*⌊But VS.TS.śśS. have
 Do thou, Anumati! approve, and grant us health and happiness. Accept the offered sacrifice, and, Goddess, give us progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनु। इत्। अनुऽमते। त्वम्। मंससे। शम्। च। न:। कृधि। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। न:। २१.२।
+अनु। इत्। अनुऽमते। त्वम्। मंससे। शम्। च। नः। कृधि। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। २१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०९३ स्वस्त्ययनम्"
 93. For protection: to many gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वस्त्ययनम्।  
@@ -20,8 +19,6 @@ title = "०९३ स्वस्त्ययनम्"
 [śaṁtāti.—rāudram: 3. bahudevatyā. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found also in Pāipp. xix. Reckoned by Kāuś. (8. 23) to the vāstoṣpatyāni,
 ### Translations
 Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 </details>
+

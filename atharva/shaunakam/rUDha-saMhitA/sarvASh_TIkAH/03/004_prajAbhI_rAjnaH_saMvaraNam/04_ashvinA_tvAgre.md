@@ -24,10 +24,9 @@ change of *kṛṣva* to *kṛṇuṣva.*
 First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call thee. Then turn thy mind to giving gifts of treasures, thence, mighty one, distribute wealth among us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्विना। त्वा। अग्रे। मित्रावरुणा। उभा। विश्वे। देवा:। मरुत:। त्वा। ह्वयन्तु। अध। मन:। वसुऽदेयाय। कृणुष्व। तत:। न:। उग्र:। वि। भज। वसूनि। ४.४।
+अश्विना। त्वा। अग्रे। मित्रावरुणा। उभा। विश्वे। देवाः। मरुतः। त्वा। ह्वयन्तु। अध। मनः। वसुऽदेयाय। कृणुष्व। ततः। नः। उग्रः। वि। भज। वसूनि। ४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

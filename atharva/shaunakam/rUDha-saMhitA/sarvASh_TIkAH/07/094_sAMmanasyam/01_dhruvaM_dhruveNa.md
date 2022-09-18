@@ -27,10 +27,9 @@ VS. is quite different: *dh. dh. mánasā vācā́ sómam áva nayāmi: áthā n
 We laid the constant Soma on with constant sacrificial gift, That Indra may make all the tribes unanimous and only ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ध्रुवम्। ध्रुवेण। हविषा। अव। सोमम्। नयामसि। यथा। न:। इन्द्र:। केवली:। विश:। सम्ऽमनस:। करत्। ९९.१।
+ध्रुवम्। ध्रुवेण। हविषा। अव। सोमम्। नयामसि। यथा। नः। इन्द्रः। केवलीः। विशः। सम्ऽमनसः। करत्। ९९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

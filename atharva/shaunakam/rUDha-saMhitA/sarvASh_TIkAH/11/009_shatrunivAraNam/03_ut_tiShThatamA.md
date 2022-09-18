@@ -20,7 +20,6 @@ reads *senām* in **c**.
 Rise both of you: begin your work with fettering and binding. fast, Assail, both of you, Arbudi, the armies of our enemies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठतम्। आ। रभेथाम्। आदानऽसंदानाभ्याम्। अमित्राणाम्। सेनाः। अभि। धत्तम्। अर्बुदे। ११.३।

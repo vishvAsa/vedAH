@@ -18,10 +18,9 @@ Ppp. has again *dadhmasi* in **b**.
 To Autumn we deliver thee, to Winter, Spring and Summer's care. We trust thee with auspicious years wherein the plants and herbs grow up.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शरदे। त्वा। हेमन्ताय। वसन्ताय। ग्रीष्माय। परि। दद्मसि। वर्षाणि। तुभ्यम्। स्योनानि। येषु। वर्धन्ते। ओषधी:। २.२२।
+शरदे। त्वा। हेमन्ताय। वसन्ताय। ग्रीष्माय। परि। दद्मसि। वर्षाणि। तुभ्यम्। स्योनानि। येषु। वर्धन्ते। ओषधीः। २.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

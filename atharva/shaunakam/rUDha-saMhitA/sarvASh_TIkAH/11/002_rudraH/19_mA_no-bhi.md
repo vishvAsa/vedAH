@@ -23,7 +23,6 @@ devahitam* in **a**.
 Cast not thy club at us, thy heavenly weapon. Lord of Beasts, be not wroth with us. Let reverence be paid to thee. Shake thy celestial branch above some others elsewhere, not o'er us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। अभि। स्राः। मत्यम्। देवऽहेतिम्। मा। नः। क्रुधः। पशुऽपते। नमः। ते। अन्यत्र। अस्मत्। दिव्याम्। शाखाम्। व‍ि। धूनु। २.१९।

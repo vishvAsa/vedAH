@@ -21,10 +21,9 @@ at beginning of **c**, *te te devāṣ pu-*.
 I have obscured the heaven and earth, yea, and the daylight and the sun. So may these Gods whom I have set before me oppose with saving charms and banish witchcraft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अन्त:। दधे। द्यावापृथिवी इति। उत। अह:। उत। सूर्यम्। ते। मे। देवा:। पुर:ऽहिता:। प्रतीची:। कृत्या:। प्रतिऽसरै:। अजन्तु। ५.६।
+अन्तः। दधे। द्यावापृथिवी इति। उत। अहः। उत। सूर्यम्। ते। मे। देवाः। पुरःऽहिताः। प्रतीचीः। कृत्याः। प्रतिऽसरैः। अजन्तु। ५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

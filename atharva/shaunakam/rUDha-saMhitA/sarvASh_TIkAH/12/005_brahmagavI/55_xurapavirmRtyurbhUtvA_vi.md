@@ -19,7 +19,6 @@ especially to the armed wheels of a battle-chariot.
 Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्षुरऽपविः। मृत्युः। भूत्वा। वि। धाव। त्वम्। १०.९।

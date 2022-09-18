@@ -27,10 +27,9 @@ The reading of Ppp. was given under vs. 1. The comm. has *vyathi* in
 The bold whose overpowering might the boldest never hath defied,-- As erst still, unassailable is Indra's wrath, and fame, and force.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। आऽधृषे। आ। दधृषते। धृषाण:। धृषित:। शव:। पुरा। यथा। व्यथि:। श्रव:। इन्द्रस्य। न। आऽधृषे। शव:। ३३.२।
+न। आऽधृषे। आ। दधृषते। धृषाणः। धृषितः। शवः। पुरा। यथा। व्यथिः। श्रवः। इन्द्रस्य। न। आऽधृषे। शवः। ३३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

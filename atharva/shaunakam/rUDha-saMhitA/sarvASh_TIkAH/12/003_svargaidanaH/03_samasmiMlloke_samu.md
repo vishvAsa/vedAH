@@ -22,7 +22,6 @@ upon their offspring (*apatya*).
 Together in this world, in God-ward pathway, together be ye in the realms of Yama. Invite, made pure with means of purifying, whatever seed of yours hath been developed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्। अस्मिन्। लोके। सम्। ऊं इति। देवऽयाने। सम्। स्म। सम्ऽएतम्। यमऽराज्ये। पूतौ। पवित्रैः। उप। तत्। ह्वयेथाम्। यत्ऽयत्। रेतः। अधि। वाम्। सम्ऽबभूव। ३.३।

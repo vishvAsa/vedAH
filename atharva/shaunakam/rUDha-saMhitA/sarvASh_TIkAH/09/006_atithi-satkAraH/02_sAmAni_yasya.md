@@ -23,10 +23,9 @@ hymn proceeds to glorify by identifying them with sacred acts.
 Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is verily oblation--
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सामानि। यस्य। लोमानि। यजु:। हृदयम्। उच्यते। परिऽस्तरणम्। इत्। ‍ हवि:। ६.२।
+सामानि। यस्य। लोमानि। यजुः। हृदयम्। उच्यते। परिऽस्तरणम्। इत्। ‍ हविः। ६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

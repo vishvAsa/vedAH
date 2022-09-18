@@ -32,7 +32,6 @@ is given (as sacrificial fee); and the comm. appears to direct that vss.
 Rohita, car-borne by a speckled leader, thou, pouring water,. goest on in triumph.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम.। त्वा। पृषती। रथे। प्रष्टिः। वहति। रोहित। शुभा। यासि। रिणन्। अपः। १.२१।

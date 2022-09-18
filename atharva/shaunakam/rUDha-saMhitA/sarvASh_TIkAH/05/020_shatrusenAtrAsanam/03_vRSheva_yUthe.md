@@ -23,10 +23,9 @@ analogy.
 Like a bull marked by strength among the cattle, roar seeking kine and gathering up the booty. Pierce through our adversaries' heart with sorrow, and let our routed foes desert their hamlets.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वृषाऽइव। यूथे। सहसा। विदान:। गव्यन्। अभि। रुव। संधनऽजित्। शुचा। विध्य। हृदयम्। परेषाम्। हित्वा। ग्रामान्। प्रऽच्युता:। यन्तु। शत्रव:। २०.३।
+वृषाऽइव। यूथे। सहसा। विदानः। गव्यन्। अभि। रुव। संधनऽजित्। शुचा। विध्य। हृदयम्। परेषाम्। हित्वा। ग्रामान्। प्रऽच्युताः। यन्तु। शत्रवः। २०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

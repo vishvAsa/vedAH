@@ -23,10 +23,9 @@ nominative, "we the Angirases." The Anukr. notes that **c** is *jagatī*.
 The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The Angirases we call, the Visve Devas: let them appease this Agni, Flesh-devourer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यऽपाणिम्। सवितारम्। इन्द्रम्। बृहस्पतिम्। वरुणम्। मित्रम्। अग्निम्। विश्वान्। देवान्। अङ्गिरस:। हवामहे। इमम्। क्रव्यऽअदम्। शमयन्तु। अग्निम्। २१.८।
+हिरण्यऽपाणिम्। सवितारम्। इन्द्रम्। बृहस्पतिम्। वरुणम्। मित्रम्। अग्निम्। विश्वान्। देवान्। अङ्गिरसः। हवामहे। इमम्। क्रव्यऽअदम्। शमयन्तु। अग्निम्। २१.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

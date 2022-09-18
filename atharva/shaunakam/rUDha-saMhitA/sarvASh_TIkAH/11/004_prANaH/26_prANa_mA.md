@@ -35,7 +35,6 @@ bhavet*. Does this mean that we have no right to count the
 Thou, Prana, never shalt be hid, never shalt be estranged from me. I bind thee on myself for life, O Prana, like the Waters' germ.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राण। मा। मत्। परिऽआवृतः। न। मत्। अन्यः। भविष्यसि। अपाम्। गर्भम्ऽइव। जीवसे। प्राण। बध्नामि। त्वा। मयि। ६.२६।

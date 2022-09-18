@@ -27,7 +27,6 @@ verse is translated (also vs. 14, and 10. 7) by Bloomfield, in AJP. xi.
 Beating her breast, with tearful face, let the short-earned, the wild-haired hag. Shriek loudly when a man is slain, pierced through by thee, O Arbudi;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्रतिऽघ्नाना। अश्रुऽमुखी। कृधुऽकर्णी। च। क्रोशतु। विऽकेशी। पुरुषे। हते। रदिते। अर्बुदे। तव। ११.७।

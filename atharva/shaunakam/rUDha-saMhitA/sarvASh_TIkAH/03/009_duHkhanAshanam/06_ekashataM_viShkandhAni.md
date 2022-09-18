@@ -27,10 +27,9 @@ different connection, as MB. ii. 8. 4 **b**. The comment on Prāt. ii.
 One and one hundred over earth are the Vishkandhas spread abroad. Before these have they fetched thee forth. Vishkandha quelling Amulet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एकऽशतम्। विऽस्कन्धानि। विऽस्थिता। पृथिवीम्। अनु। तेषाम्। त्वाम्। अग्रे। उत्। जहरु:। मणिम्। विस्कन्धऽदूषणम्। ९.६।
+एकऽशतम्। विऽस्कन्धानि। विऽस्थिता। पृथिवीम्। अनु। तेषाम्। त्वाम्। अग्रे। उत्। जहरुः। मणिम्। विस्कन्धऽदूषणम्। ९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

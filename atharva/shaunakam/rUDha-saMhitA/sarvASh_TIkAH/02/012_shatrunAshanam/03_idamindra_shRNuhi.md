@@ -22,10 +22,9 @@ paraśunā.* ⌊An orderly *triṣṭubh* is got by adding *tvám* after
 Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke thee. I smite, as 'twere a tree felled with a hatchet, the man who marreth this my plan and purpose.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। इन्द्र। शृणुहि। सोमऽप। यत्। त्वा। हृदा। शोचता। जोहवीमि। वृश्चामि। तम्। कुलिशेनऽइव। वृक्षम्। य:। अस्माकम्। मन:। इदम्। हिनस्ति। १२.३।
+इदम्। इन्द्र। शृणुहि। सोमऽप। यत्। त्वा। हृदा। शोचता। जोहवीमि। वृश्चामि। तम्। कुलिशेनऽइव। वृक्षम्। यः। अस्माकम्। मनः। इदम्। हिनस्ति। १२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

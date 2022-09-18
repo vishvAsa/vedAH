@@ -30,7 +30,6 @@ not in natural sequence with the verses that precede and follow.
 Hither these Dames have come in radiant beauty. Arise and seize= upon thy strength, O woman. To thee hath sacrifice come: take the pitcher, blest with a good lord, children, children's children.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। इमाः। अगुः। योषितः। शुम्भमानाः। उत्। तिष्ठ। नारि। तवसम्। रभस्व। सुऽपत्नी। पत्या। प्रऽजया। प्रजाऽवती। आ। त्वा। अगन्। यज्ञः। प्रति। कुम्भम्। गृभाय। १.१४।

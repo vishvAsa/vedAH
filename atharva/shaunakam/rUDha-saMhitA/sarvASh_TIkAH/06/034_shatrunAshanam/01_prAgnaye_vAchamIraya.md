@@ -17,10 +17,9 @@ pass us over our haters.
 Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us past our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। अग्नये। वाचम्। ईरय। वृषभाय। क्षितीनाम्। स:। न:। पर्षत्। अति। द्विष:। ३४.१।
+प्र। अग्नये। वाचम्। ईरय। वृषभाय। क्षितीनाम्। सः। नः। पर्षत्। अति। द्विषः। ३४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

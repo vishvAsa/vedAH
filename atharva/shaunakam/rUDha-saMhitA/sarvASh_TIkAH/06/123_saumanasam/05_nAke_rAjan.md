@@ -21,10 +21,9 @@ text that the Anukr. does not define the verse as an *anuṣṭubh*.
 O King, take thou thy stand in heaven, there also let that gift be placed. Recognize, King, the gift which we have given, and be gracious, God!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नाके। राजन्। प्रति। तिष्ठ। तत्र। एतत्। प्रति। तिष्ठतु। विध्दि। पूर्तस्य। न:। राजन्। स:। देव। सुऽमना:। भव। १२३.५।
+नाके। राजन्। प्रति। तिष्ठ। तत्र। एतत्। प्रति। तिष्ठतु। विध्दि। पूर्तस्य। नः। राजन्। सः। देव। सुऽमनाः। भव। १२३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

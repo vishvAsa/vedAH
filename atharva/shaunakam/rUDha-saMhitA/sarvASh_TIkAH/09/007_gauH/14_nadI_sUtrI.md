@@ -19,7 +19,6 @@ Ppp. prefixes *samudro vastir*, and puts *varṣasya patayas stanās* after
 The river is the womb, the Lords of the Rain are the breasts,. the thunder is the udder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नदी। सूत्री। वर्षस्य। पतयः। स्तनाः। स्तनयित्नुः। ऊधः। १२.१४।

@@ -28,7 +28,6 @@ Baunack, KZ. xxxv. 495, 499.⌋
 Happy be thou and prosper with thy children here: be vigilant to rule the household in this home. Closely unite thy body with this man thy lord. So shalt thou, full of years, address thy company.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। प्रियम्। प्रऽजायै। ते। सम्। ऋध्यताम्। अस्मिन्। गृहे। गार्हऽपत्याय। जागृह‍ि। एना। पत्या। तन्वम्। सम्। स्पृशस्व। अथ। जिर्विः। विदथम्। आ। वदासि। १.२१।

@@ -20,7 +20,6 @@ Ppp. preserves unity of construction through the verse, by reading, for
 This will stay witchcraft wrought for thee, will guard thee from the fear of man: From all distress and misery this Varana will shield thee well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। ते। कृत्याम्। विऽतताम्। पौरुषेयात्। अयम्। भयात्। अयम्। त्वा। सर्वस्मात्। पापात्। वरणः। वारयिष्यते। ३.४।

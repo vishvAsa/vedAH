@@ -18,10 +18,9 @@ The verse is found further, without variant, in VS. (vi. 24 e).
 May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth this sacrifice of ours.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमूः। याः। उप। सूर्ये। याभि:। वा। सूर्य:। सह। ताः। नः। हिन्वन्तु। अध्वरम्।
+अमूः। याः। उप। सूर्ये। याभिः। वा। सूर्यः। सह। ताः। नः। हिन्वन्तु। अध्वरम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,7 +21,6 @@ this verse are seen in x. 8. 43 **a, b**.⌋
 The fort of Gods, impregnable, with circles eight and portals nine, Contains a golden treasure-chest, celestial, begirt with light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अष्टाऽचक्रा। नवऽद्वारा। देवानाम्। पूः। अयोध्या। तस्याम्। हिरण्ययः। कोशः। स्वःऽगः। ज्योतिषा। आऽवृतः। २.३१।

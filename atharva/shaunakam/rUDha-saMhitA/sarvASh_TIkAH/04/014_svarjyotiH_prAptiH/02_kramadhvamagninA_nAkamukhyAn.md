@@ -26,10 +26,9 @@ former.
 Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching the sky that touches heaven, mix with the company of Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्रमध्वम्। अग्निना। नाकम्। उख्यान्। हस्तेषु। बिभ्रत:। दिव:। पृष्ठम्। स्व:। गत्वा। मिश्रा:। देवेभि:। आध्वम्। १४.२।
+क्रमध्वम्। अग्निना। नाकम्। उख्यान्। हस्तेषु। बिभ्रतः। दिवः। पृष्ठम्। स्वः। गत्वा। मिश्राः। देवेभिः। आध्वम्। १४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

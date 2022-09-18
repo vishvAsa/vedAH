@@ -21,7 +21,6 @@ misreading for *kaśmala*, as equivalent to which it is here translated.
 Speak to our enemies, O Drum, discouragement and wild dismay. We bring upon our foemen fear and discord and discomfiture. Drum! drive these enemies away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽहृदयम्। वैमनस्य। वद। अमित्रेषु। दुन्दुभे। विऽद्वेषम्। कश्मशम्। भयम्। अमित्रेषु। नि। दध्मसि। अव। एनान्। दुन्दुभे। जहि। २१.१।

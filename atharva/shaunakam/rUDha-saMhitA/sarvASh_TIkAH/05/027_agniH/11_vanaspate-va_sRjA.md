@@ -23,10 +23,9 @@ syllables.
 This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down on this man's kindred.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वनस्पते। अव। सृज। रराण:। त्मना। देवेभ्य:। अग्नि:। हव्यम्। शमिता। स्वदयतु। २७.११।
+वनस्पते। अव। सृज। रराणः। त्मना। देवेभ्यः। अग्निः। हव्यम्। शमिता। स्वदयतु। २७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

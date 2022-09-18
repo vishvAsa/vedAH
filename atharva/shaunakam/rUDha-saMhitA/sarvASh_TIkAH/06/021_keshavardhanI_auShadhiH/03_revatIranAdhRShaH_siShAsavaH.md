@@ -14,10 +14,9 @@ title = "०३ रेवतीरनाधृषः सिषासवः"
 Endowed with wealth, denying not, give freely fain to give your gifts! Ye stay the hair from falling off: ye strengthen and increase its growth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रेवती:। अनाधृष:। सिसासव:। सिसासथ। उत। स्थ। केशऽदृंहणी:। अथो इति। ह। केशऽवर्धनी। २१.३।
+रेवतीः। अनाधृषः। सिसासवः। सिसासथ। उत। स्थ। केशऽदृंहणीः। अथो इति। ह। केशऽवर्धनी। २१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

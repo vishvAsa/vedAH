@@ -23,10 +23,9 @@ doubtful; it is so interpreted by the comm. to AśS. ix. 5. 1;
 Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone is left him. Who wrongs the kinsman of the Gods, the Brahman, gains not the sphere to which the Fathers travelled.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-देवऽपीयु:। चरति। मर्त्येषु। गरऽगीर्ण:। भवति। अस्थिऽभूयान्। य:। ब्रह्माणम्। देवऽबन्धुम्। हिनस्ति। न। स:। पितृऽयानम्। अपि। एति। लोकम्। १८.१३।
+देवऽपीयुः। चरति। मर्त्येषु। गरऽगीर्णः। भवति। अस्थिऽभूयान्। यः। ब्रह्माणम्। देवऽबन्धुम्। हिनस्ति। न। सः। पितृऽयानम्। अपि। एति। लोकम्। १८.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

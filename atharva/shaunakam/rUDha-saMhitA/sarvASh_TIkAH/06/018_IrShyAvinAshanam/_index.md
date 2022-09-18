@@ -7,7 +7,6 @@ title = "०१८ ईर्ष्याविनाशनम्"
 18. Against jealousy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ईर्ष्याविनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१८ ईर्ष्याविनाशनम्"
 
 [Atharvan (?).—īrṣyāvināśanadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 235; Ludwig, p. 514; Florenz, 270 or 22; Grill,
 
 A charm to banish jealousy
 </details>
+

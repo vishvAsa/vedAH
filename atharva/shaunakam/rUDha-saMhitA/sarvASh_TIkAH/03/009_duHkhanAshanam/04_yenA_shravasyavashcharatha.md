@@ -14,10 +14,9 @@ title = "०४ येना श्रवस्यवश्चरथ"
 Ye who move active in your strength like Gods with Asuras' magic powers, Even as the monkey scorns the dogs, Bandages! scorn the Kabava.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। श्रवस्यव:। चरथ। देवा:ऽइव। असुरऽमायया। शुनाम्। कपि:ऽइव। दूषण:। बन्धुरा। काबवस्य। च। ९.४।
+येन। श्रवस्यवः। चरथ। देवाःऽइव। असुरऽमायया। शुनाम्। कपिःऽइव। दूषणः। बन्धुरा। काबवस्य। च। ९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

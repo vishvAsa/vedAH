@@ -33,10 +33,9 @@ prámuktaḥ*, VS. *áthāi ’tám pitúm addhi prásūtaḥ*. The verse has no
 That collar round thy neck, not to be loosened, which Nirriti the Goddess bound and fastened, I loose for thy long life and strength and vigour. Eat, liberated, food that brings no sorrow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। देवी। नि:ऽऋति:। आऽबबन्ध। दाम। ग्रीवासु। अविऽमोक्यम्। यत्। तत्। ते। वि। स्यामि। आयुषे। वर्चसे। बलाय। अदोमदम्। अन्नम्। अध्दि। प्रऽसूत:। ६३.१।
+यत्। ते। देवी। निःऽऋतिः। आऽबबन्ध। दाम। ग्रीवासु। अविऽमोक्यम्। यत्। तत्। ते। वि। स्यामि। आयुषे। वर्चसे। बलाय। अदोमदम्। अन्नम्। अध्दि। प्रऽसूतः। ६३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -18,10 +18,9 @@ impel away downward that unknown *yákṣma*.
 We draw from thee piercing pain that penetrates and racks thy limbs, That pierces ears, that pierces eyes, the abscess, and the heart's disease. Downward and far away from thee we banish that unknown. decline.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अङ्ग्य:। य:। कर्ण्य:। य:। अक्ष्यो:। विऽसल्पक:। वि। वृहाम:। विऽसल्पकम्। विऽद्रधम्। हृदयऽआमयम्। परा। तम्। अज्ञातम्। यक्ष्मम्। अधराञ्चम्। सुवामसि। १२७.३।
+यः। अङ्ग्यः। यः। कर्ण्यः। यः। अक्ष्योः। विऽसल्पकः। वि। वृहामः। विऽसल्पकम्। विऽद्रधम्। हृदयऽआमयम्। परा। तम्। अज्ञातम्। यक्ष्मम्। अधराञ्चम्। सुवामसि। १२७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

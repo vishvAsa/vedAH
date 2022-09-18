@@ -7,7 +7,6 @@ title = "०१३ सर्पविषनाशनम्"
 13. Against snakes' poison.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्पविषनाशनम्।  
@@ -18,8 +17,6 @@ title = "०१३ सर्पविषनाशनम्"
 
 [Garutman.—ekādaśarcam. takṣakadevatyam. jāgatam: 2. āstārapan̄kti; 4, 7, 8. anuṣṭubh; 5. triṣṭubh; 6. pathyāpan̄kti; g. bhurij; 10, 11. nicṛd gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 208; Bloomfield, 27, 425; Weber, xviii. 211.
 
 A charm against snakes
 </details>
+

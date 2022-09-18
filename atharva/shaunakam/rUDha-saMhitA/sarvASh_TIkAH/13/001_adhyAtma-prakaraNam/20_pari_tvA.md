@@ -21,7 +21,6 @@ difficult construction. Ppp. combines *devo ‘gnir* in **a** and *sarvā
 With splendour let God Savitar, and Agni, with splendour Mitra, Varuna invest thee. Treading down all Malignities, come hither. Pleasant and' glorious hast thou made this kingdom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परि। त्वा। धात्। सविता। देवः। अग्निः। वर्चसा। मित्रावरुणौ। अभि। त्वा। सर्वाः। अरातीः। अवऽक्रामन्। आ। इहि। इदम्। राष्ट्रम्। अकरः। सूनृताऽवत्। १.२०।

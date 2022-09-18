@@ -19,7 +19,6 @@ mitrāvaruṇo*.
 He is Mitra when he looks about him, and when he hath turned round he is joy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मित्रः। ईक्षमाणः। आऽवृत्तः। आऽनन्दः। १२.२३।

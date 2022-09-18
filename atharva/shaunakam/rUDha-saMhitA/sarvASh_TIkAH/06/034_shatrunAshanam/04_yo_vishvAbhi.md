@@ -18,10 +18,9 @@ Ppp. reads *nipaśyati* in **a**.
 He who beholds all creatures, who observes them with a careful eye, May he transport us past our foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। विश्वा। अभि। विऽपश्यति। भुवना। सम्। च। पश्यति। स:। न:। पर्षत्। अति। द्विष:। ३४.४।
+यः। विश्वा। अभि। विऽपश्यति। भुवना। सम्। च। पश्यति। सः। नः। पर्षत्। अति। द्विषः। ३४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

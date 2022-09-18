@@ -32,7 +32,6 @@ says *sa saptamaṁ vṛddhiviṅśatim ṛco ’ṣṭa cā ’parāḥ* (uncle
 From the Five-arrowed, from the Ten-arrowed have I delivered thee, Freed thee from Yama's fetter and from all offence against the Gods,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। त्वा। अहार्षम्। पञ्चऽशलात्। अथो इति। दशऽशलात्। उत। अथो इति। यमस्य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ७.२८।

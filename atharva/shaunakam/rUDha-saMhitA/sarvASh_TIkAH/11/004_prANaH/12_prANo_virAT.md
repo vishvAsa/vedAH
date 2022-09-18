@@ -20,7 +20,6 @@ Ppp. reads *prāṇo sarvam* ⌊sandhi!⌋ for *prāṇaṁ sarve* in **b**, and
 Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the Moon. Prana is called Prajapati.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणः। विऽराट्। प्राणः। देष्ट्री। प्राणम्। सर्वे। उप। आसते। प्राणः। ह। सूर्यः। चन्द्रमा। प्राणम। आहुः। प्रजाऽपतिम्। ६.१२।

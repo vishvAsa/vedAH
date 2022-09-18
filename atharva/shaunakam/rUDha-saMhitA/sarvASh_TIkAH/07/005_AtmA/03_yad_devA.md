@@ -19,10 +19,9 @@ The verse is no *pan̄kti*, but a good *triṣṭubh*.
 Where the Gods worshipped Gods with their oblation, worship- ped immortals with immortal spirit, There in the loftiest heaven may we be happy, and look upon that light when Surya rises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। देवा:। देवान्। हविषा। अयजन्त। अमर्त्यान‌्। मनसा। अमर्त्येन। मदेम। तत्र। परमे। विऽओमन्। पश्येम। तत्। उत्ऽइतौ। सूर्यस्य। ५.३।
+यत्। देवाः। देवान्। हविषा। अयजन्त। अमर्त्यान‌्। मनसा। अमर्त्येन। मदेम। तत्र। परमे। विऽओमन्। पश्येम। तत्। उत्ऽइतौ। सूर्यस्य। ५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

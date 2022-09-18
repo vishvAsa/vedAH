@@ -22,7 +22,6 @@ in connection with setting down the light (*dīpa*).
 Among tame beasts the black ewe is thy portion, and the bright lead is thine, they say, Flesh-eater! Mashed beans have been assigned thee for oblation go seek the dark wood and the wildernesses.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अविः। कृष्णा। भागऽधेयम्। पशूनाम्। सीसम्। क्रव्यऽअत्। अपि। चन्द्रम्। ते। आहुः। माषाः। पिष्टाः। भागऽधेयम‌्। ते। हव्यम्। अरण्यान्याः। गह्वरम्। सचस्व। २.५३।

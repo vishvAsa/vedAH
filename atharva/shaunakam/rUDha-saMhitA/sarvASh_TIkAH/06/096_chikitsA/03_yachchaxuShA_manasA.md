@@ -21,10 +21,9 @@ inserts another *yat* before *manasā* in **a**, and has, for **c, d**,
 From every fault in look, in word, in spirit that we, awake or sleeping, have committed, May Soma, with his godlike nature, cleanse us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। चक्षुषा। मनसा। यत्। च। वाचा। उपऽआस्मि। जाग्रत:। यत्। स्वपन्त:। सोम:। तानि। स्वधया। न:। पुनातु। ९६.३।
+यत्। चक्षुषा। मनसा। यत्। च। वाचा। उपऽआस्मि। जाग्रतः। यत्। स्वपन्तः। सोमः। तानि। स्वधया। नः। पुनातु। ९६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

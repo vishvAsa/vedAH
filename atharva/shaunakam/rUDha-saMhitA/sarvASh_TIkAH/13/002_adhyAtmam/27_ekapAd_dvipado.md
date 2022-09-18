@@ -29,7 +29,6 @@ rejection of one of the resolutions *abhí eti* or *tanú-am*.
 The single-footed hath outstepped the biped, the biped overtakes the triple-footed. The biped hath outstridden the six-footed: these sit around the single-footed's body.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकऽपात्। द्विऽपदः। भूयः। वि। चक्रमे। द्विऽपात्। त्रिऽपादम्। अभि। एति। पश्चात्। द्विऽपात्। ह। षट्ऽपदः। भूयः। वि। चक्रमे। ते। एकऽपदः। तन्वम्। सम्। आसते। २.२७।

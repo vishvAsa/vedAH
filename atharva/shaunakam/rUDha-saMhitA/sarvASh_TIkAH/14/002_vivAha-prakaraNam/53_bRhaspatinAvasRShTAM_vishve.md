@@ -23,7 +23,6 @@ in the first lines of these verses; and so Ludwig translates.
 Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the splendour that is stored in cows do we enrich this. girl.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। वर्चः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५३।

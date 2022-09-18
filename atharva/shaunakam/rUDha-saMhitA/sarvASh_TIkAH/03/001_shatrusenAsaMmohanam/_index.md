@@ -7,7 +7,6 @@ title = "००१ शत्रुसेनासंमोहनम्"
 1. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुसेनासंमोहनम्।  
@@ -18,8 +17,6 @@ title = "००१ शत्रुसेनासंमोहनम्"
 
 [Atharvan.—senāmohanam. bahudevatyam. trāiṣṭubham: 2. virāḍgarbhā bhurij; 3, 6. anuṣṭubh; j. virāṭpurauṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 518; Weber, xvii. 180; Griffith, i. 81; Bloomfield, 121, 
 
 A prayer or charm for the defeat and destruction of enemies in battle
 </details>
+

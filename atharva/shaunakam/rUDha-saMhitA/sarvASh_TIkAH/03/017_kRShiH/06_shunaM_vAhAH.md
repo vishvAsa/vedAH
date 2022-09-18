@@ -26,10 +26,9 @@ pāda. Ppp. has in xii. *śunaṁ vṛtrām āyaccha śunam aṣṭrām ud in̄g
 Happily work our steers and men! May the plough furrow happily, Happily be the traces bound. Happily ply the driving-goad.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुनम्। वाहा:। शुनम्। नर:। शुनम्। कृषतु। लाङ्गलम्। शुनम्। वरत्रा:। बध्यन्ताम्। शुनम्। अष्ट्राम्। उत्। इङ्गय। १७.६।
+शुनम्। वाहाः। शुनम्। नरः। शुनम्। कृषतु। लाङ्गलम्। शुनम्। वरत्राः। बध्यन्ताम्। शुनम्। अष्ट्राम्। उत्। इङ्गय। १७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

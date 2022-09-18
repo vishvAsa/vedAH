@@ -23,10 +23,9 @@ as one of 14 syllables!⌋.
 The light, the power, the lustre of the Waters, the strength of Trees, and all their forceful vigour, We lay on him as powers abide in Indra: so let him wear this Gold and show his valour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपाम्। तेज:। ज्योति:। ओज:। बलम्। च। वनस्पतीनाम्। उत। वीर्याणि। इन्द्रेऽइव। इन्द्रियाणि। अधि। धारयाम:। अस्मिन्। तत्। दक्षमाण:। बिभरत्। हिरण्यम्।
+अपाम्। तेजः। ज्योतिः। ओजः। बलम्। च। वनस्पतीनाम्। उत। वीर्याणि। इन्द्रेऽइव। इन्द्रियाणि। अधि। धारयामः। अस्मिन्। तत्। दक्षमाणः। बिभरत्। हिरण्यम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०७२ वाजीकरणम्"
 72. For virile power.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वाजीकरणम्।  
@@ -18,8 +17,6 @@ title = "०७२ वाजीकरणम्"
 
 [Atharvān̄giras.—śepo ‘rkadcvatyam. ānuṣṭubham: 1. jagatī; 3. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 474.—Cf. iv. 4; vi. 101.
 
 A charm to restore or increase virile power
 </details>
+

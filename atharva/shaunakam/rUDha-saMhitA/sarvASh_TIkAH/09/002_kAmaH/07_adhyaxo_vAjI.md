@@ -28,10 +28,9 @@ at ix. 3. 15⌋.
 May Kama, mighty one, my potent warder, give me full free- dom from mine adversaries. May all the Deities be my protection, all Gods come nigh to this mine invocation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधिऽअक्ष:। वाजी। मम। काम:। उग्र:। कृणोतु। मह्यम्। असपत्नम्। एव। विश्वे। देवा:। मम। नाथम्। भवन्तु। सर्वे। देवा:। हवम्। आ। यन्तु। मे। इमम्। २.७।
+अधिऽअक्षः। वाजी। मम। कामः। उग्रः। कृणोतु। मह्यम्। असपत्नम्। एव। विश्वे। देवाः। मम। नाथम्। भवन्तु। सर्वे। देवाः। हवम्। आ। यन्तु। मे। इमम्। २.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

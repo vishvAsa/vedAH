@@ -31,7 +31,6 @@ there are three \[over twenty\].'⌋
 The deathless balm that Matali knows, purchased at a chariot's price, Indra effused into the floods. Waters, give us that healing balm!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। मातली। रथऽक्रीतम्। अमृतम्। वेद। भेषजम्। तत्। इन्द्रः। अप्ऽसु। प्र। अवेशयत्। तत्। आपः। दत्त। भेषजम्। ८.२३।

@@ -25,7 +25,6 @@ the same occurs below as xi. 5. 12 **d**.
 They, ordering the verse's foot by measure, with the half-verse arranged each thing that moveth. Prayer was diffused in many forms three-footed thereby the world's four regions have their being
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋचः। पदम्। मात्रया। कल्पयन्तः। अर्धऽऋचेन। चक्लृपः। विश्वम्। एजत्। त्रिऽपात्। ब्रह्म। पुरुऽरूपम्। वि। तस्थे। तेन। जीवन्ति। प्रऽदिशः। चतस्रः। १५.१९।

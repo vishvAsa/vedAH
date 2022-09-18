@@ -25,10 +25,9 @@ also MGS. i. 14. 5 and p. 155, under *yeṣv a-*.⌋ The comm. glosses
 These Houses we invoke, whereon the distant exile sets his thought, Wherein dwells many a friendly heart: let them beware of our approach.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येषाम्। अधिऽएति। प्रऽवसन्। येषु। सौमनस:। बहु:। गृहान्। उप। ह्वयामहे। ते। न:। जानन्तु। आऽयत:। ६२.३।
+येषाम्। अधिऽएति। प्रऽवसन्। येषु। सौमनसः। बहुः। गृहान्। उप। ह्वयामहे। ते। नः। जानन्तु। आऽयतः। ६२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -29,10 +29,9 @@ account of the comparison in **b**.
 I pray to Agni, him who guards his treasure: here, won by homage, may he pile our winnings. As 'twere with racing cars I bring my presents: duly with reverence, let me laud the Maruts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ईडे। अग्निम्। स्वऽवसुम्। नम:ऽभि:। इह। प्रऽसक्त:। वि। चयत्। कृतम्। न:। रथै:ऽइव। प्र। भरे। वाजयत्ऽभि:। प्रऽदक्षिणम्। मरुताम्। स्तोमम्। ऋध्याम्। ५२.३।
+ईडे। अग्निम्। स्वऽवसुम्। नमःऽभिः। इह। प्रऽसक्तः। वि। चयत्। कृतम्। नः। रथैःऽइव। प्र। भरे। वाजयत्ऽभिः। प्रऽदक्षिणम्। मरुताम्। स्तोमम्। ऋध्याम्। ५२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

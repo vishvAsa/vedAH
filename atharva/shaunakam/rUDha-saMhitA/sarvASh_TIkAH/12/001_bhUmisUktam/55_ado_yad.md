@@ -14,7 +14,6 @@ title = "५५ अदो यद्"
 There, when the Gods, O Goddess, named thee, spreading thy wide expanse as thou wast broadening eastward, Then into thee passed many a charm and glory: thou madest for thyself the world's four regions.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अदः। यत्। देवि। प्रथमाना। पुरस्तात्। देवैः। उक्ता। विऽअसर्पः। महिऽत्वम्। आ। त्वा। सुऽभूतम्। अविशत्। तदानीम्। अकल्पयथाः। प्रऽदिशः। चतस्रः। १.५५।

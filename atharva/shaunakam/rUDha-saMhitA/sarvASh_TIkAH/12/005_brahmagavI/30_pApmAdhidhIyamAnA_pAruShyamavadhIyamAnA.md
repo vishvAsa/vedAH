@@ -16,7 +16,6 @@ title = "३० पाप्माधिधीयमाना पारुष्
 Misery while being additionally acquired, contumely and abuse while being put in the stall;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पाप्मा। अधिऽधीयमाना। पारुष्यम्। अवऽधीयमाना। ९.३।

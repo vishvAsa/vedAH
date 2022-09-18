@@ -31,10 +31,9 @@ blending RV. and AV. readings.⌋
 Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or slander, All these offences, which deserve displeasure, may Agni take from us and keep them distant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अवऽशसा। नि:ऽशसा। यत्। पराऽशसा। उपऽआरिम। जाग्रत:। यत्। स्वपन्त:। अग्नि:। विश्वानि। अप। दु:ऽकृतानि। अजुष्टानि। आरे। अस्मत्। दधातु। ४५.२।
+अवऽशसा। निःऽशसा। यत्। पराऽशसा। उपऽआरिम। जाग्रतः। यत्। स्वपन्तः। अग्निः। विश्वानि। अप। दुःऽकृतानि। अजुष्टानि। आरे। अस्मत्। दधातु। ४५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

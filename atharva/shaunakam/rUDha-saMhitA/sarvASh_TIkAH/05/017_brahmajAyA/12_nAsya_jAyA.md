@@ -20,7 +20,6 @@ have, as is usual in such cases, *ácityā*.
 No lovely wife who brings her dower in hundreds rests upon his bed, Within whose kingdom is detained, through want of sense, a Brahman's dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। अस्‍य। जाया। शतऽवाही। कल्याणी। तल्पम्। आ। शये। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१२।

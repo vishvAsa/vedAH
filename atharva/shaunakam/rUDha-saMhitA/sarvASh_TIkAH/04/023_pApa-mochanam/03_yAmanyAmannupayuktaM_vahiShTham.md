@@ -28,10 +28,9 @@ misdivision (11 + 7: 8 + 8 + 8), it is no *purastajjyotiṣmatī* (44).⌋
 I pray to Agni in each act successful, employed in every sacrifice, the strongest, Fiend-slayer, served with fatness, strengthening worship. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यामन्ऽयामन्। उपऽयुक्तम्। वहिष्ठम्। कर्मन्ऽकर्मन्। आऽभगम्। अग्निम्। ईडे। रक्ष:ऽहनम्। यज्ञऽवृधम्। घृतऽआहुतम्। स:। न:। मुञ्चतु। अंहस:। २३.३।
+यामन्ऽयामन्। उपऽयुक्तम्। वहिष्ठम्। कर्मन्ऽकर्मन्। आऽभगम्। अग्निम्। ईडे। रक्षःऽहनम्। यज्ञऽवृधम्। घृतऽआहुतम्। सः। नः। मुञ्चतु। अंहसः। २३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

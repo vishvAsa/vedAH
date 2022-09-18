@@ -22,7 +22,6 @@ in **b**. We have to make the, in its situation, awkward resolution
 Let them not snare thee speeding on thy journey: pass safely, swiftly places hard to traverse, While measuring out the day and night thou movest--O Surya, even Heaven and Earth the Goddess.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। त्वा। दभन्। परिऽयान्तम्। आजिम्। स्वस्त‍ि। दुःऽगान्। अति। याहि। शीभम्। दिवम्। च। सूर्य। पृथिवीम्। च। देवीम्। अहोरात्रे इति। विऽमिमानः। यत्। एषि। 2.५।

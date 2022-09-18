@@ -22,10 +22,9 @@ of **b**. The last pāda is *jagatī*. The comm. renders *kalpatām* by
 Firm, never to be shaken, crush thy foemen, under thy feet lay those who strive against thee. One-minded, true to thee be all the regions: faithful to thee, the firm, be this assembly!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ध्रुव:। अच्युत:। प्र। मृणीहि। शत्रून्। शत्रुऽयत:। अधरान्। पादयस्व। सर्वा:। दिश:। सम्ऽमनस:। सध्रीची:। ध्रुवाय। ते। सम्ऽइति: :। कल्पताम्। इह। ८८.३।
+ध्रुवः। अच्युतः। प्र। मृणीहि। शत्रून्। शत्रुऽयतः। अधरान्। पादयस्व। सर्वाः। दिशः। सम्ऽमनसः। सध्रीचीः। ध्रुवाय। ते। सम्ऽइतिः ः। कल्पताम्। इह। ८८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

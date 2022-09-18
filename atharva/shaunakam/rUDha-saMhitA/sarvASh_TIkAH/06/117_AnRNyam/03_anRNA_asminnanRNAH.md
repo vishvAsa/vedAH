@@ -29,10 +29,9 @@ combines *anṛṇā ’smin* in **a**, and has the readings of TB. etc. in
 May we be free in this world and that yonder, in the third world may we be unindebted. May we, debt-free, abide in all the pathways, in all the worlds which Gods and Fathers visit.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अनृणा:। अस्मिन्। अनृणा:। परस्मिन्। तृतीये। लोके। अनृणा:। स्याम। ये। देवऽयाना:। पितृऽयाना:। च। लोका:। सर्वान्। पथ:। अनृणा:। आ। क्षियेम। ११७.३।
+अनृणाः। अस्मिन्। अनृणाः। परस्मिन्। तृतीये। लोके। अनृणाः। स्याम। ये। देवऽयानाः। पितृऽयानाः। च। लोकाः। सर्वान्। पथः। अनृणाः। आ। क्षियेम। ११७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

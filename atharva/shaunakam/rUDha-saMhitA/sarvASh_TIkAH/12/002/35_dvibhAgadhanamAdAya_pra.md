@@ -19,7 +19,6 @@ Ppp. begins with *vibhā-;* it omits our vs. 36.
 Agni, the banqueter on flesh, not banished, for the eldest son Taketh a double share of wealth and spoileth it with poverty.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्विभागऽधनम्। आऽदाय। प्र। क्षिणाति। अवर्त्या। अग्निः। पुत्रस्य। ज्येष्ठस्य। यः। क्रव्यऽअत्। अनिःऽआहितः। २,३५।

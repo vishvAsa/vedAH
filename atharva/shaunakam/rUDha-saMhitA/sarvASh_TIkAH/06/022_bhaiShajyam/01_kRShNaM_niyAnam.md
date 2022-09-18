@@ -26,10 +26,9 @@ verse, and it combines, in its frequent way, *suparṇā ’po*.
 Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, enrobed in waters. They have come hither from the seat of Order, and inundated earth with streams of fatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कृष्णम्। निऽयानम्। हरय:। सुऽपर्णा:। अप:। वसाना:। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। आत्। इत्। घृतेन। पृथिवीम्। वि। ऊदु:। २२.१।
+कृष्णम्। निऽयानम्। हरयः। सुऽपर्णाः। अपः। वसानाः। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। आत्। इत्। घृतेन। पृथिवीम्। वि। ऊदुः। २२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

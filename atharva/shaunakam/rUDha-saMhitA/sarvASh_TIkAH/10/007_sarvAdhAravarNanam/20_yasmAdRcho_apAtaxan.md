@@ -20,7 +20,6 @@ the Atharvans-and-An̄girases the mouth—that Skambha etc. etc.
 Who out of many, tell me, is that Skambha From whom they hewed the lichas off, from whom they chipped the Yajus, he Whose hairs are Sama-verses and his mouth the Atharvangi- rases?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मात्। ऋचः। अपऽअतक्षन्। यजुः। यस्मात्। अपऽअकषन्। सामानि। यस्य। लोमानि। अथर्वऽअङ्गिरसः। मुखम्। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.२०।

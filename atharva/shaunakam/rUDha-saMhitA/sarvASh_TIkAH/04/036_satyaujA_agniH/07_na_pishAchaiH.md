@@ -20,10 +20,9 @@ bhavāmi*, or by *saṁgato bhavāmi;* and *vanargu* by *vanagāmin*.
 Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas flee and vanish from each village as I enter it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। पिशाचै:। सम्। शक्नोमि। न। स्तेनै:। न। वनर्गुऽभि:। पिशाचा:। तस्मात्। नश्यन्ति। यम्। अहम्। ग्रामम्। आऽविशे। ३६.७।
+न। पिशाचैः। सम्। शक्नोमि। न। स्तेनैः। न। वनर्गुऽभिः। पिशाचाः। तस्मात्। नश्यन्ति। यम्। अहम्। ग्रामम्। आऽविशे। ३६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

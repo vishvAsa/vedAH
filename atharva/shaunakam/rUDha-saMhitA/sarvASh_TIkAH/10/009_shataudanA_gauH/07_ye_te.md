@@ -19,7 +19,6 @@ Ppp. puts this verse before our 5.
 Thine Immolators, Goddess! and the men who dress thee for the feast, all these will guard thee, Hundredfold Oblation! Have no fear of them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। ते। देवि। शमितारः। पक्तारः। ये। च। ते। जनाः। ते। त्वा। सर्वे। गोप्स्यन्ति। मा। एभ्यः। भैषीः। शतऽओदने। ९.७।

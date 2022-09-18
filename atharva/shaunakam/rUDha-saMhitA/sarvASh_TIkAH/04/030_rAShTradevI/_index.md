@@ -7,7 +7,6 @@ title = "०३० राष्ट्रदेवी"
 30. Self-laudation of Speech (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रदेवी ।  
@@ -18,8 +17,6 @@ title = "०३० राष्ट्रदेवी"
 
 [Atharvan.—aṣṭarcam. vāgdevatyam. trāiṣṭubham: 6.jagati.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: by Colebrooke, Asiatick Researches, vol. viii, Calcutta, 1805, or Mi
 
 A glorification of vak or speech
 </details>
+

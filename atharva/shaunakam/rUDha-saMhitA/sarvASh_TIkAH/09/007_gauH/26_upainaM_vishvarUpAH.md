@@ -21,7 +21,6 @@ summed up as 26.⌋
 Upon him wait omniform beasts, wearing every shape, each one who hath this knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उप। एनम्। विश्वऽरूपाः। सर्वऽरूपाः। पशवः। तिष्ठन्ति। यः। एवम्। वेद। १२.२६।

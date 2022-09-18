@@ -18,10 +18,9 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥२॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। द्विऽवृष:। असि। सृज। अरस:। असि। १६.२।
+यदि। द्विऽवृषः। असि। सृज। अरसः। असि। १६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

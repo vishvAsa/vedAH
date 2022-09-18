@@ -7,7 +7,6 @@ title = "०१४ कृत्यापरिहरणम्"
 14. Against witchcraft: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कृत्यापरिहरणम्।  
@@ -18,8 +17,6 @@ title = "०१४ कृत्यापरिहरणम्"
 
 [śukra.—trayodaśakam. vānaspatyam. kṛtyāpratiharaṇam. ānuṣṭubham: 8, 5, 12. bhurij; 8. 3-p. virāj; 10. nicṛd bṛhatī; 11. 3-p. sāmnī triṣṭubh; 13. svarāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Zimmer, p. 396; Grill, 26, 147; Griffith, i. 210; Bloomfield, 77, 42
 
 A charm against witchcraft
 </details>
+

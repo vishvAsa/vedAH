@@ -26,10 +26,9 @@ sticks of *paridhi* as intended by the harness etc.
 I free thee from the cord, I loose the bond, I loose the fastening. Even here, perpetual, Agni, wax thou strong.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। ते। मुञ्चामि। रशनाम्। वि। योक्त्रम्। वि। निऽयोजनम्। इह। एव। त्वम्। अजस्र:। एधि। अग्ने। ८३.१।
+वि। ते। मुञ्चामि। रशनाम्। वि। योक्त्रम्। वि। निऽयोजनम्। इह। एव। त्वम्। अजस्रः। एधि। अग्ने। ८३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

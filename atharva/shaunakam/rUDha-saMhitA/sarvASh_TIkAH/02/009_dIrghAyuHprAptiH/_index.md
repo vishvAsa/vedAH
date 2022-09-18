@@ -7,7 +7,6 @@ title = "००९ दीर्घायुःप्राप्तिः"
 9. Against possession by demons: with an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "००९ दीर्घायुःप्राप्तिः"
 
 [Bhṛgvan̄giras.—vānaspatyam; yahṣmanāśanadāivatam. ānuṣṭubham: 1. virāṭprastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 153; Ludwig, p. 506; Grill, 8, 82; Griffith, i. 51; Blo
 
 A charm to cure dangerous disease
 </details>
+

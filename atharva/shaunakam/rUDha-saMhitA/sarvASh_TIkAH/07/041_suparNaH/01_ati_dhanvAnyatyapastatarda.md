@@ -21,10 +21,9 @@ men.' The meter is pure *triṣṭubh*.
 Observing men, and viewing home, the Falcon hath cleft his swift way over wastes and waters. May he, with Indra for a friend, auspicious, traversing all air's lower realms, come hither.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अति। धन्वानि। अति। अप:। ततर्द। श्येन:। नृऽचक्षा:। अवसानऽदर्श:। तरन्। विश्वानि। अवरा। रजांसि। इन्द्रेण। सख्या। शिव:। आ। जगम्यात्। ४२.१।
+अति। धन्वानि। अति। अपः। ततर्द। श्येनः। नृऽचक्षाः। अवसानऽदर्शः। तरन्। विश्वानि। अवरा। रजांसि। इन्द्रेण। सख्या। शिवः। आ। जगम्यात्। ४२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

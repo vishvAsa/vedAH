@@ -32,10 +32,9 @@ interpretation the use in Kāuś. 38. 22, "against faults of vision."
 Awful are Rishis: unto them be homage, and to their eye and truthfulness of spirit! Loud homage to Brihaspati, O mighty! Homage to thee, O Visvakarman! Guard us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घोरा:। ऋषय:। नम:। अस्तु। एभ्य:। चक्षु:। यत्। एषाम्। मनस:। च। सत्यम्। बृहस्पतये। महिष। द्युऽमत्। नम:। विश्वऽकर्मन्। नम:। ते। पाहि। अस्मान्। ३५.४।
+घोराः। ऋषयः। नमः। अस्तु। एभ्यः। चक्षुः। यत्। एषाम्। मनसः। च। सत्यम्। बृहस्पतये। महिष। द्युऽमत्। नमः। विश्वऽकर्मन्। नमः। ते। पाहि। अस्मान्। ३५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

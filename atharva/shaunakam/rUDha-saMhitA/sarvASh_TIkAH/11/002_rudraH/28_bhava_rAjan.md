@@ -18,7 +18,6 @@ gracious to his bipeds \[and\] quadrupeds.
 King Bhava, favour him who offers worship, for thou art Pasupati, Lord of victims. Be gracious to the quadruped and biped of the believer in the Gods' existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भव। राजन्। यजमानाय। मृड। पशूनाम्। हि। पशुऽपतिः। बभूथ। यः। श्रत्ऽदधाति। सन्ति। देवाः। इति। चतुःऽपदे। द्विऽपदे। अस्य। मृडे। २.२८।

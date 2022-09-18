@@ -17,10 +17,9 @@ me, in order to length of life, O girdle.
 Thou whom primeval Rishis girt about them, they who made the world, As such do thou encircle me, O Girdle, for long days of life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। त्वा। पूर्वे। भूतऽकृत:। ऋषय:। परिऽबेधिरे। सा। त्वम्। परि। स्वजस्व। माम्। दीर्घायुऽत्वाय। मेखले। १३३.५।
+याम्। त्वा। पूर्वे। भूतऽकृतः। ऋषयः। परिऽबेधिरे। सा। त्वम्। परि। स्वजस्व। माम्। दीर्घायुऽत्वाय। मेखले। १३३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

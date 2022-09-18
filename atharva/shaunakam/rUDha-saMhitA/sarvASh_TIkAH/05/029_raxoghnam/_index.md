@@ -7,7 +7,6 @@ title = "०२९ रक्षोघ्नम्"
 29. To Agni: against demons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रक्षोघ्नम्।  
@@ -18,8 +17,6 @@ title = "०२९ रक्षोघ्नम्"
 
 [Cātana.—pañcadaśarcam. jātavedasam uta mantroktadevatākam. trāiṣṭubham: 3. 3-p. virāṇnāma gāyatrī; 5. purotijagatī virāḍjagatī; 12-15. anuṣṭubh (12. bhurij; 14. 4-p. parābṛhatī kakummatī).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 526; Griffith, i. 236; Weber, xviii. 277.
 
 A charm for the destruction of malignant goblins
 </details>
+

@@ -17,7 +17,6 @@ excellent one, is Parjanya; the lightnings are thy teats, O cow.
 Agni hath entered into thee; Soma, O Cow, hath entered thee. Thine udder is Parjanya, O blest Cow; the lightnings are thy teats.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनु। त्वा। अग्निः। प्र। अविशत्। अनु। सोमः। वशे। त्वा। ऊधः। ते। भद्रे। पर्जन्यः। विऽद्युतः। ते। स्तनाः। वशे। १०.७।

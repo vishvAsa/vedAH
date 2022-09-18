@@ -20,10 +20,9 @@ and used.
 Spread on the surface of the earth, downward from heaven thy root depends: With this that hath a thousand joints keep thou us safe on every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। मूलम्। अवऽततम्। पृथिव्या:। अधि। उत्ऽततम्। तेन। सहस्रऽकाण्डेन। परि। न:। पाहि। विश्वत:। ७.३।
+दिवः। मूलम्। अवऽततम्। पृथिव्याः। अधि। उत्ऽततम्। तेन। सहस्रऽकाण्डेन। परि। नः। पाहि। विश्वतः। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

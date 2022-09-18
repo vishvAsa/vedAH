@@ -23,10 +23,9 @@ MGS. i. 11. 16, and p. 150.⌋
 Indra the rescuer, Indra the helper, Indra the brave who hears each invocation, Sakra I call, Indra invoked of many. May Indra Maghavan pros- per and bless us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रातारम्। इन्द्रम्। अवितारम्। इन्द्रम्। हवेऽहवे। सुऽहवम्। शूरम्। इन्द्रम्। हुवे। नु। शक्रम्। पुरुऽहूतम्। इन्द्रम्। स्वस्ति। न:। इन्द्र:। मघऽवान्। कृणोतु। ९१.१।
+त्रातारम्। इन्द्रम्। अवितारम्। इन्द्रम्। हवेऽहवे। सुऽहवम्। शूरम्। इन्द्रम्। हुवे। नु। शक्रम्। पुरुऽहूतम्। इन्द्रम्। स्वस्ति। नः। इन्द्रः। मघऽवान्। कृणोतु। ९१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

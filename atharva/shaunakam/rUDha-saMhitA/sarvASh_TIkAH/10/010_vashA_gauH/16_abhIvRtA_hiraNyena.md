@@ -18,7 +18,6 @@ Ppp. puts this verse after our 17.
 When, covered round about with gold, thou stoodest there, O Holy One, The ocean turned into a horse and mounted on thy back, O Cow,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभिऽवृता। हिरण्येन। यत्। अतिष्ठः। ऋतऽवरि। अश्वः। समुद्रः। भूत्वा। अधि। अस्कन्दत्। वशे। त्वा। १०.१६।

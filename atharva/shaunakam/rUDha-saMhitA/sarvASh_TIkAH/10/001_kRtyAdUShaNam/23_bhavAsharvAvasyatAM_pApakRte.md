@@ -22,7 +22,6 @@ cesura-mark after *kṛtyākṛ́te*.
 Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the sinner who made the evil thing, who deals in witchcraft!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भवाशर्वौ। अस्यताम्। पापऽकृते। कृत्याऽकृते। दुःऽकृते। विऽद्युतम्। देवऽहेतिम्। १.२३।

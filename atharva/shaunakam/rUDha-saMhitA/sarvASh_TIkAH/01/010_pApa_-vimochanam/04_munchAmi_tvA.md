@@ -25,10 +25,9 @@ of **c, d**. ⌊Render *apa-ci* by 'regard'?⌋
 I free thee from Vaisvanara, from the great surging flood of sin. Call thou thy brothers, Awful One! and pay attention to our prayer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुञ्चामि। त्वा। वैश्वानरात्। अर्णवात्। महत:। परि। सऽजातान्। उग्र। इह। आ। वद। ब्रह्म। च। अप। चिकीहि। न:।
+मुञ्चामि। त्वा। वैश्वानरात्। अर्णवात्। महतः। परि। सऽजातान्। उग्र। इह। आ। वद। ब्रह्म। च। अप। चिकीहि। नः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

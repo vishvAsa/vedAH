@@ -28,7 +28,6 @@ tṛtīyaḥ saptako dṛṣṭo "bṛhaspatiḥ śirasy" api:
 ब्रह्म॑णा॒ मुखे॑न ॥४॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। च। सर्वऽज्यानिम्। जीयते। पुरा। एनम्। जरसः। प्राणः। जहाति। ५.७।

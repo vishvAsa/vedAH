@@ -25,7 +25,6 @@ full *vikṛti*.
 The single-footed hath outstepped the biped, the biped overtakes the triple-footed. The quadruped hath wrought when bipeds called him, standing and looking on the five collected. This God is wroth offended by the sinner that wrongs the Brahman who hath gained this knowledge. Agitate him, O Rohita; destroy him: entangle in thy snares the Brahman's tyrant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एकऽपात्। द्विऽपदः। भूयः। वि। चक्रमे। द्विऽपात्। त्रिऽपादम्। अभि। एति। पश्चात्। चतुःऽपात्। चक्रे। द्विऽपदाम्। अभिऽस्वरे। सम्ऽपश्यन्। पङ्क्तिम्। उपऽत‍िष्ठमानः। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्षिणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.२५।

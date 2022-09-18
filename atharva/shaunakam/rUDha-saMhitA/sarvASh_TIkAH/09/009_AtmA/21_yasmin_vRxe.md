@@ -22,7 +22,6 @@ pāda is also capable of being crowded together into eleven syllables).
 The tree whereon the fine Birds eat the sweetness, where they all rest and procreate their offspring Upon the top, they say the fruit is luscious: none gaineth it who knoweth not the Father.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। वृक्षे। मधुऽअदः। सुऽपर्णाः। निऽविशन्ते। सुवते। च। अधि। विश्वे। तस्य। यत्। आहुः। पिप्पलम्। स्वादु। अग्रे। तत्। न। उत्। नशत्। यः। पितरम्। न। वेद। १४.२१।

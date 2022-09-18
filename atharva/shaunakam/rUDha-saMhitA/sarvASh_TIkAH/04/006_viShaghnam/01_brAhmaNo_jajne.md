@@ -22,10 +22,9 @@ primal Brahman was Takṣaka.
 The Brahman first was brought to life ten-headed and with faces ten. First drinker of the Soma, he made poison ineffectual.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्राह्मण:। जज्ञे। प्रथम:। दशऽशीर्ष:। दशऽआस्य:। स:। सोमम्। प्रथम:। पपौ। स:। चकार। अरसम्। विषम्। ६.१।
+ब्राह्मणः। जज्ञे। प्रथमः। दशऽशीर्षः। दशऽआस्यः। सः। सोमम्। प्रथमः। पपौ। सः। चकार। अरसम्। विषम्। ६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

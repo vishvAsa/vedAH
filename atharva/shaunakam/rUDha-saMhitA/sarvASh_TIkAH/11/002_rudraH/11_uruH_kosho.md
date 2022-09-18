@@ -25,7 +25,6 @@ víśvā*.⌋
 Thine is this ample wealth-containing storehouse that holds with- in it all these living creatures. Favour us, Lord of Beasts, to thee be homage! Far from us go ill-omens, dogs, and jackals, and wild-haired women with their horrid shrieking!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उरुः। कोशः। वसुऽधानः। तव। अयम्। यस्मिन्। इमा। विश्वा। भुवनानि। अन्तः। सः। नः। मृड। पशुऽपते। नमः। ते। परः। क्रोष्टारः। अभिऽभाः। श्वानः। परः। यन्तु। अघऽरुदः। विऽकेश्यः। २.११।

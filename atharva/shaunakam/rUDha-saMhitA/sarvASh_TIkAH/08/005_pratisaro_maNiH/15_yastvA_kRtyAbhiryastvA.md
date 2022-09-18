@@ -19,10 +19,9 @@ The omission of the second *yás tvā* would rectify the meter of **a**.
 Whoever would destroy thee with Diksha-rites, sacrifices, spells, Meet him and smite him, Indra! with thy hundred-knotted thunderbolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। त्वा। कृत्याभि:। य:। त्वा। दीक्षाभि:। यज्ञै:। य:। त्वा। ज‍िघांसति। प्रत्यक्। त्वम्। इन्द्र। तम्। जहि। वज्रेण। शतऽपर्वणा। ५.१५।
+यः। त्वा। कृत्याभिः। यः। त्वा। दीक्षाभिः। यज्ञैः। यः। त्वा। ज‍िघांसति। प्रत्यक्। त्वम्। इन्द्र। तम्। जहि। वज्रेण। शतऽपर्वणा। ५.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

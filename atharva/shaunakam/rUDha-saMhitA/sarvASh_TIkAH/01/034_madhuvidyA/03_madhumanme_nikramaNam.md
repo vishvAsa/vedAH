@@ -22,10 +22,9 @@ independent words.
 My coming in is honey-sweet and honey-sweet, my going forth: My voice and words are sweet: I fain would be like honey in my look.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मधुऽमत। मे। निऽक्रमणम्। मधुऽमत्। मे। पराऽअयनम्। वाचा। वदामि। मधुऽमत्। भूयासम्। मधुऽसंदृश:।
+मधुऽमत। मे। निऽक्रमणम्। मधुऽमत्। मे। पराऽअयनम्। वाचा। वदामि। मधुऽमत्। भूयासम्। मधुऽसंदृशः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

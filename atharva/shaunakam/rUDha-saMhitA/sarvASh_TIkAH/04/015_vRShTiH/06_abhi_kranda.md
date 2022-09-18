@@ -29,10 +29,9 @@ xv. (1884), p. vii.⌋
 Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, Parjanya! Send plenteous showers on him who seeketh shelter, and let the owner of lean kine go homeward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। क्रन्द। स्तनय। अर्दय। उदऽधिम्। भूमिम्। पर्जन्य। पयसा। सम्। अङ्धि। त्वया। सृष्टम्। बहुलम्। आ। एतु। वर्षम्। आशारऽएषी। कृशऽगु:। एतु। अस्तम्। १५.६।
+अभि। क्रन्द। स्तनय। अर्दय। उदऽधिम्। भूमिम्। पर्जन्य। पयसा। सम्। अङ्धि। त्वया। सृष्टम्। बहुलम्। आ। एतु। वर्षम्। आशारऽएषी। कृशऽगुः। एतु। अस्तम्। १५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

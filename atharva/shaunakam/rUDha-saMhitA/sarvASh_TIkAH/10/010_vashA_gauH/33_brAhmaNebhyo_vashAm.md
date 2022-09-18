@@ -19,7 +19,6 @@ of *ārpitam*.
 He who hath given a Cow unto the Brahmans winneth all the worlds. For Right is firmly set in her devotion, and religious zeal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्राह्मणेभ्यः। वशाम्। दत्वा। सर्वान्। लोकान्। सम्। अश्नुते। ऋतम्। हि। अस्याम्। आर्पितम्। अपि। ब्रह्म। अथो इति। तपः। १०.३३।

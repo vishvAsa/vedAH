@@ -25,10 +25,9 @@ of *me* in **c**.
 The food that in a dream I eat is not perceived at early morn. May all that food be blest to me because it is not seen by day.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। स्वप्ने। अन्नम्। अश्नामि। न। प्रात:। अध‍िऽगम्यते। सर्वम्। तत्। अस्तु। मे। शिवम्। नहि। तत्। दृश्यते। दिवा। १०६.१।
+यत्। स्वप्ने। अन्नम्। अश्नामि। न। प्रातः। अध‍िऽगम्यते। सर्वम्। तत्। अस्तु। मे। शिवम्। नहि। तत्। दृश्यते। दिवा। १०६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

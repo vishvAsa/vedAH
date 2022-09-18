@@ -19,10 +19,9 @@ redundant pāda, unnoticed by the Anukr.
 The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent of the stars: the one and only Lord be thou.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समुद्र:। ईशे। स्रवताम्। अग्नि:। पृथिव्या:। वशी। चन्द्रमा:। नक्षत्राणाम्। ईशे। त्वम्। एकऽवृष:। भव। ८६.२।
+समुद्रः। ईशे। स्रवताम्। अग्निः। पृथिव्याः। वशी। चन्द्रमाः। नक्षत्राणाम्। ईशे। त्वम्। एकऽवृषः। भव। ८६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

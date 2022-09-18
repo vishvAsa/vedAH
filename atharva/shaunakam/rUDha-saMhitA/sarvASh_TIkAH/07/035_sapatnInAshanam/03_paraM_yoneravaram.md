@@ -31,10 +31,9 @@ is no disagreement among the authorities with regard to the division.
 Uteri tui summam partem inferam facio: ne tibi soboles neque filius eveniat. Sterilem et infecundam te facio: lapidem tuum, operimentum facio.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परम्। योने:। अवरम्। ते। कृणोमि। मा। त्वा। प्रऽजा। अभ‍ि। भूत्। मा। उत। सूनु:। अस्वम्। त्वा। अप्रजसम्। कृणोमि। अश्मानम्। ते। अपिऽधानम्। कृणोमि। ३६.३।
+परम्। योनेः। अवरम्। ते। कृणोमि। मा। त्वा। प्रऽजा। अभ‍ि। भूत्। मा। उत। सूनुः। अस्वम्। त्वा। अप्रजसम्। कृणोमि। अश्मानम्। ते। अपिऽधानम्। कृणोमि। ३६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ above) is wanting in Ppp.
 When they begin to drink thee, then, O God, thou swellest out again. Vayu in Soma's sentinel. The month is that which shapes the years.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। त्वा। सोम। प्रऽपिबन्ति। ततः। आ। प्यायसे। पुनः। वायुः। सोमस्य। रक्षिता। समानाम्। मासः। आऽकृतिः। १.४।

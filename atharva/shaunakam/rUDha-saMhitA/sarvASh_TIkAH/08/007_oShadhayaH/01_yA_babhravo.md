@@ -18,10 +18,9 @@ spotted, the swarthy, the black herbs—all \[of them\] do we address
 The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, and the black,--all Plants we summon hither- ward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। बभ्रव:। या:। च। शुक्रा:। रोहिणी:। उत। पृश्नय:। असिक्नी:। कृष्णा:। ओषधी:। सर्वा:। अच्छऽआवदामसि। ७.१।
+याः। बभ्रवः। याः। च। शुक्राः। रोहिणीः। उत। पृश्नयः। असिक्नीः। कृष्णाः। ओषधीः। सर्वाः। अच्छऽआवदामसि। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,7 +30,6 @@ rice-dish and reads *upa-* for *apa-*⌋).
 Here is my gold, a light immortal: ripened grain from the field this Cow of Plenty give me! This wealth I place among the Brahmans, making a path that leads to heaven among the Fathers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। मे। ज्योतिः। अमृतम्। हिरण्यम्। पक्वम्। क्षेत्रात्। कामऽदुघा। मे। एषा। इदम्। धनम्। नि। दधे। ब्राह्मणेषु। कृण्वे। पन्थाम्। पितृषु। यः। स्वःऽगः। १.२८।

@@ -24,10 +24,9 @@ TS.MS. have *yó vāṁ rátha ṛjúraśmiḥ satyádharmā míthiś cárantam*
 Whose straight-reined car that keeps the track of goodness assails and ruins him who walks perversely I, suppliant, praise with constant invocation Mitra and Varuna. Save us from affliction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ययो:। रथ:। सत्यऽवर्त्मा। ऋजुऽरश्मि:। मिथुया। चरन्तम्। अभिऽयाति। दूषयन्। स्तौमि। मित्रावरुणौ। नाथित:। जोहवीमि। तौ। न:। मुञ्चतम्। अंहस:। २९.७।
+ययोः। रथः। सत्यऽवर्त्मा। ऋजुऽरश्मिः। मिथुया। चरन्तम्। अभिऽयाति। दूषयन्। स्तौमि। मित्रावरुणौ। नाथितः। जोहवीमि। तौ। नः। मुञ्चतम्। अंहसः। २९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

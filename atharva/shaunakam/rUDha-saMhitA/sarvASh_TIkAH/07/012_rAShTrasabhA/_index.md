@@ -7,7 +7,6 @@ title = "०१२ राष्ट्रसभा"
 12 (13). For success in the assembly.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रसभा।  
@@ -18,8 +17,6 @@ title = "०१२ राष्ट्रसभा"
 
 [śāunaka.—caturṛcam. sabhyam: 1. ⌊dvidevatyā⌋ uta pitryā*; 3. āindrī; 4. mantroktadevatyā. anuṣṭubham: 1. bhurik triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 439; vss. 1, 3, 4, Ludwig, p. 253; vss. 2-4, Zimmer, p. 173
 
 A prayer for influence at deliberative and religious meetings
 </details>
+

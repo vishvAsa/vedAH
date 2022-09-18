@@ -16,7 +16,6 @@ title = "७० अस्थीन्यस्य पीडय"
 Crush thou his bones together, strike and beat the marrow out of him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्थीनि। अस्य। पीडय। मज्जानम्। अस्य। निः। जहि। ११.९।

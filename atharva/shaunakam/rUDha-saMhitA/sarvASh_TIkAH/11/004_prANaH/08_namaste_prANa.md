@@ -20,7 +20,6 @@ Ppp. reads in **b** *namo ‘stu*, and makes *parācīnāya* and
 Homage to thee at every breath thou drawest in and sendest forth! Homage to thee when turned away, homage to thee seen face to face! This reverence be to all of thee!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। प्राण। प्राणते। नमः। अस्तु। अपानते। पराचीनाय। ते। नमः। प्रतीचीनाय। ते। नमः। सर्वस्मै। ते। इदम्। नमः। ६.८।

@@ -22,10 +22,9 @@ and *parā́yaṇam* for *nyā́yanam* in **b**. The comm. appears to read
 I call the Herdsman, him who knows the way to drive the cattle forth, Who knows the way to drive them home, to drive them back and drive them in.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। उत्ऽआनट्। पराऽअयनम्। य:। उत्ऽआनट्। निऽअयनम्। आऽवर्तनम्। निऽवर्तनम्। य:। गोपा:। अपि। तम्। हुवे। ७७.२।
+यः। उत्ऽआनट्। पराऽअयनम्। यः। उत्ऽआनट्। निऽअयनम्। आऽवर्तनम्। निऽवर्तनम्। यः। गोपाः। अपि। तम्। हुवे। ७७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

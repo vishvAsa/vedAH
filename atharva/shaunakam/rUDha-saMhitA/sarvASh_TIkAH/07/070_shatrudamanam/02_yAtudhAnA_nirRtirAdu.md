@@ -23,10 +23,9 @@ sing.). The verse (11 + 11: 13 + 11) is in no proper sense *jagatī*.
 For him may sorcerers, Destruction, demons strike and prevent fulfilment through their falsehood. Let Gods, by Indra sent, destroy his butter, and let his sacrifice be ineffective.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यातुऽधाना:। नि:ऽऋति:। आत्। ऊं इति। रक्ष:। ते। अस्य। घ्नन्तु। अनृतेन। सत्यम्। इन्द्र‍ऽइषिता:। देवा:। आज्यम्। अस्य। मथ्नन्तु। मा। तत्। सम्। पादि। यत्। असौ। जुहोति। ७३.२।
+यातुऽधानाः। निःऽऋतिः। आत्। ऊं इति। रक्षः। ते। अस्य। घ्नन्तु। अनृतेन। सत्यम्। इन्द्र‍ऽइषिताः। देवाः। आज्यम्। अस्य। मथ्नन्तु। मा। तत्। सम्। पादि। यत्। असौ। जुहोति। ७३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

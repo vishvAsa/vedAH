@@ -21,10 +21,9 @@ from vs. 3, which is of course right.
 All streams of melted butter, and all streams of water and of milk With all these confluent streams of mine we make abundant riches flow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। सर्पिष:। सम्ऽस्रवन्ति। क्षीरस्य। च। उदकस्य। च। तेर्भि:। मे। सर्वै:। सम्ऽस्रावै:। धनम्। सम्। स्रावयामसि।
+ये। सर्पिषः। सम्ऽस्रवन्ति। क्षीरस्य। च। उदकस्य। च। तेर्भिः। मे। सर्वैः। सम्ऽस्रावैः। धनम्। सम्। स्रावयामसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

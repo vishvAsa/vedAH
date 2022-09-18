@@ -44,7 +44,6 @@ frame of the universe or half-personified as its soul. Ppp. reads in
 Which of his members is the seat of Fervour: Which is the base of Ceremonial Order? Where in him standeth Faith? Where Holy Duty? Where, in what part of him is truth implanted?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कस्मिन्। अङ्गे। तपः। अस्य। अधि। तिष्ठति। कस्मिन्। अङ्गे। ऋतम्। अस्य। अधि। आऽहितम्। क्व। व्रतम्। क्व। श्रध्दा। अस्य। तिष्ठति। कस्मिन्। अङ्गे। सत्यम्। अस्य। प्रतिऽस्थितम्। ७.१।

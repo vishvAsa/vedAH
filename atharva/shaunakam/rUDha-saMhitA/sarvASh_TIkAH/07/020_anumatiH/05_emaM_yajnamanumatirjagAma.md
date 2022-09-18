@@ -25,10 +25,9 @@ original reading may have been *sukṣetrá suvīrátāyāi sújātā:* cf. Roth
 Anumati hath come to this our worship well-formed to give good lands and valiant heroes: For her kind care hath blessed us. God-protected, may she assist the sacrifice we offer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इमम्। यज्ञम्। अनुऽमति:। जगाम। सुऽक्षेत्रतायै। सुऽवीरतायै। सुऽजातम्। भद्रा। हि। अस्या:। प्रऽमति:। बभूव। सा। इमम्। यज्ञम्। अवतु। देवऽगोपा। २१.५।
+आ। इमम्। यज्ञम्। अनुऽमतिः। जगाम। सुऽक्षेत्रतायै। सुऽवीरतायै। सुऽजातम्। भद्रा। हि। अस्याः। प्रऽमतिः। बभूव। सा। इमम्। यज्ञम्। अवतु। देवऽगोपा। २१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

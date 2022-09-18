@@ -19,10 +19,9 @@ That is (**a, b**) a poisonous serpent in disguise. At beginning of
 The Brahman's cow is like a snake, charged with due poison, clothed with skin. Rajanya! bitter to the taste is she, and none may eat of her.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽविष्टिता। अघऽविषा। पृदाकू:ऽइव। चर्मणा। सा। ब्राह्मणस्य। राजन्य। तुष्टा। एषा। गौ:। अनाद्या। १८.३।
+आऽविष्टिता। अघऽविषा। पृदाकूःऽइव। चर्मणा। सा। ब्राह्मणस्य। राजन्य। तुष्टा। एषा। गौः। अनाद्या। १८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

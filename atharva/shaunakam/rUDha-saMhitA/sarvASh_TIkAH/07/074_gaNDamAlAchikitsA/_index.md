@@ -7,7 +7,6 @@ title = "०७४ गण्डमालाचिकित्सा"
 74 (78). Against apacíts: against jealousy: to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गण्डमालाचिकित्सा।  
@@ -19,8 +18,6 @@ title = "०७४ गण्डमालाचिकित्सा"
 [Atharvān̄giras.—caturṛcam. mantroktadevatyam uta jātavedasam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ This hymn and the one following are not found in Pāipp. There is apparently no 
 
 A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 </details>
+

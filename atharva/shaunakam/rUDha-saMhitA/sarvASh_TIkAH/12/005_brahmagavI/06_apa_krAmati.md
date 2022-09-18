@@ -27,7 +27,6 @@ pan̄kti.*\]
 The glory, the heroism, and the favouring fortune depart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप। क्रामति। सूनृता। वीर्यम्। पुण्या। लक्ष्मीः। ५.६।

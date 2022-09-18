@@ -22,7 +22,6 @@ heed that two of the pādas are *triṣṭubh*. Ppp. reads at end of **b**
 That which hath power of motion, that which flies, or stands, which breathes or breathes not, which, existing, shuts the eye Wearing all forms that entity upholds the earth, and in its close consistence still is only one.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। एजति। पतति। यत्। च। तिष्ठति। प्राणत्। अप्राणत्। निऽमिषत्। च। यत्। भुवत्। तत्। दाधार। पृथिवीम्। विश्वऽरूपम्। तत्। सम्ऽभूय। भवति। एकम्। एव। ८.११।

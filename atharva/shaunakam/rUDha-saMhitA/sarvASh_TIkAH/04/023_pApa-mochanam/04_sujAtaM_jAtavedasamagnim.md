@@ -20,10 +20,9 @@ hymn. The comm. explains *vibhu* as "pervading" (*vyāpaka*).
 We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almighty. May he set us free from trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽजातम्। जातऽवेदसम्। अग्निम्। वैश्वानरम्। विऽभुम्। हव्यऽवाहम्। हवामहे। स:। न:। मुञ्चतु। अंहस:। २३.४।
+सुऽजातम्। जातऽवेदसम्। अग्निम्। वैश्वानरम्। विऽभुम्। हव्यऽवाहम्। हवामहे। सः। नः। मुञ्चतु। अंहसः। २३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

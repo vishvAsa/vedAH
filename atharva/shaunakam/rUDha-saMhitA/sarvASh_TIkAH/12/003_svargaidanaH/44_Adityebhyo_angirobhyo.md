@@ -22,7 +22,6 @@ noted a reference to Delbrück's *Altindische Syntax*, p. 161.⌋
 This meath do I announce, mingled with butter, to the Angi- rases and the Adityas. With pure hands ne'er laid roughly on a Brahman go, pious. couple, to the world of Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आदित्येभ्यः। अङ्गिरःऽभ्यः। मधु। इदम्। घृतेन। मिश्रम्। प्रति। वेदयामि। शुध्दऽहस्तौ। ब्राह्मणस्य। अनिऽहत्य। एतम्। स्वःऽगम्। सुऽकृतौ। अपि। इतम्। ३.४४।

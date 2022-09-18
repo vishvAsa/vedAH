@@ -37,10 +37,9 @@ thus dissimilated.
 Scrofula flies borne on by wings: it penerates and holds the man. Here is the cure of either kind, the chronic and the transient.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पक्षी। जायान्य:। पतति। स:। आ। विशति। पुरुषम्। तत्। अक्षितस्य। भेषजम्। उभयो:। सुऽक्षतस्य। च। ८०.४।
+पक्षी। जायान्यः। पतति। सः। आ। विशति। पुरुषम्। तत्। अक्षितस्य। भेषजम्। उभयोः। सुऽक्षतस्य। च। ८०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

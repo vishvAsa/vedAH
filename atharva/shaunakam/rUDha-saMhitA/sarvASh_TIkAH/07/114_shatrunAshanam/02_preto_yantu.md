@@ -21,10 +21,9 @@ h. 115: see note to the preceding vs.⌋
 Let pain and suffering pass away, let cares and curses vanish. hence. Let Agni slay the fiendish hags, Soma kill bags who trouble us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। इत:। यन्तु। विऽआध्य:। प्र। अनुऽध्या:। प्रो इति। अशस्तय:। अग्नि:। रक्षस्विनी:। हन्तु। सोम:। हन्तु। दुरस्यती:। ११९.२।
+प्र। इतः। यन्तु। विऽआध्यः। प्र। अनुऽध्याः। प्रो इति। अशस्तयः। अग्निः। रक्षस्विनीः। हन्तु। सोमः। हन्तु। दुरस्यतीः। ११९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

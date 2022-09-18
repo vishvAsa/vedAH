@@ -22,10 +22,9 @@ parallel to our **a**.
 Let Aditi shave the beard, and let the Waters bathe it with their strength: Prajapati restore his health for sight and days of lengthened life!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अदिति:। श्मश्रु। वपतु। आप:। उन्दन्तु। वर्चसा। चिकित्सतु। प्रजाऽपति:। दीर्घायुऽत्वाय। चक्षसे। ६८.२।
+अदितिः। श्मश्रु। वपतु। आपः। उन्दन्तु। वर्चसा। चिकित्सतु। प्रजाऽपतिः। दीर्घायुऽत्वाय। चक्षसे। ६८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

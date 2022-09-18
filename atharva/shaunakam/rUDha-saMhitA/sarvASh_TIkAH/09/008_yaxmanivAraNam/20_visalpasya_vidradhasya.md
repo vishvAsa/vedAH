@@ -19,7 +19,6 @@ vātīkālasya.
 Of piercing pain, of abscesses, rheumatic ache, ophthalmia-- I have evoked the poison-taint of all Consumptions out of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽसल्पस्य। विऽद्रधस्य। वातीऽकारस्य। वा। अलजेः। यक्ष्माणम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.२०।

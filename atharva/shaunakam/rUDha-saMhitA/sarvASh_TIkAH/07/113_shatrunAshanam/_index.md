@@ -7,7 +7,6 @@ title = "११३ शत्रुनाशनम्"
 113 (118). Against a (woman) rival: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "११३ शत्रुनाशनम्"
 [Bhārgava.—dvyṛcam. tṛṣṭikādevatyam. 1. virāḍ anuṣṭubh; 2. śan̄kumatī 4-p. bhurig uṣṇih.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found also in Pāipp. xx. Used by Kāuś. (36. 38), in one of the rites concerni
 ### Translations
 Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 </details>
+

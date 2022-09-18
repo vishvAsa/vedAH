@@ -22,7 +22,6 @@ Ppp. combines and reads in **d** *devā ’mṛtatvam*.
 Rohita firmly stablished Earth and Heaven: by him was ether fixt by him the welkin. He measured out mid air and all the regions: by him the Gods found life that lasts for ever.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। द्यावापृथिवी इत‍ि। अदृंहत्। तेन। स्वः। स्तभितम्। तेन। नाकः। तेन। अन्तरिक्षम्। विऽमिता। रजांसि। तेन। देवाः। अमृतम्। अनु। अविन्दन्। १.७।

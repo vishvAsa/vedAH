@@ -7,7 +7,6 @@ title = "००६ अतिथि-सत्कारः"
 6. Exalting the entertainment of guests.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अतिथि-सत्कारः।  
@@ -38,8 +37,6 @@ title = "००६ अतिथि-सत्कारः"
 [Brahman.—ṣaṭ paryāyāḥ. ātithyā uta vidyādevatyāḥ.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -54,3 +51,4 @@ Translated: Henry, 98, 137; Griffith, i. 448.
 
 A glorification of hospitable reception of guests
 </details>
+

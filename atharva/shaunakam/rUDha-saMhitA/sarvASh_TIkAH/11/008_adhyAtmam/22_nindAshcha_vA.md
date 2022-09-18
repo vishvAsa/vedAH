@@ -23,7 +23,6 @@ both editions give *dákṣiṇā*. The comm. explains the word as meaning
 Reproaches, freedom from reproach, all blamable, all blameless deeds, Bounty, belief, and unbelief entered the body as a home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 निन्दाः। च। वै। अनिन्दाः। च। यत्। च। हन्त। इति। न। इति। च। शरीरम्। श्रध्दा। दक्षिणा। अश्रध्दा। च। अनु। प्र। अविशन्। १०.२२।

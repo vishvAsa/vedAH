@@ -7,7 +7,6 @@ title = "०२२ अमित्रक्षयणम्"
 22. For the success and prosperity of a king.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अमित्रक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०२२ अमित्रक्षयणम्"
 
 [Vasiṣṭha (? Atharvan?).—āindram. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated; Ludwig, p. 457; Zimmer, 165; Grill, 67, 135; Griffith, i. 162; Bloom
 
 A benediction on a newly consecrated king
 </details>
+

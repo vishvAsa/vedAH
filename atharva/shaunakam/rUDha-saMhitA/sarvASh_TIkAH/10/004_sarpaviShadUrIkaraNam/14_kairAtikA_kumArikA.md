@@ -17,7 +17,6 @@ with golden shovels, upon the ridges (*sā́nu*) of the mountains.
 The young maid of Kirata race, a little damsel, digs the drug, Digs it with shovels wrought of gold on the high ridges of the hills.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कैरातिका। कुमारिका। सका। खनति। भेषजम्। हिरण्ययीभिः। अभ्रिऽभिः। गिरीणाम्। उप। सानुषु। ४.१४।

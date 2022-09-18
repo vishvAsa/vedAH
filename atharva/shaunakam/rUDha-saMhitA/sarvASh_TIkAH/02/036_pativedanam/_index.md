@@ -7,7 +7,6 @@ title = "०३६ पतिवेदनम्"
 36. To get a husband for a woman.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पतिवेदनम्।  
@@ -18,8 +17,6 @@ title = "०३६ पतिवेदनम्"
 
 [Pativedana.—aṣṭarcam. āgnīṣomīyam. trāiṣṭubham: 1. bhurij; 2, 5-7. anuṣṭubh; 8. nicṛtpurauṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, v. 219; xiii. 214; Ludwig, p. 476; Grill, 55, 102; Grifiith, 
 
 A charm to secure a husband for a marriageable girl
 </details>
+

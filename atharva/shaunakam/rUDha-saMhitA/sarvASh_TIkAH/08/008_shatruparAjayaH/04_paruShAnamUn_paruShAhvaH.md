@@ -24,10 +24,9 @@ it?⌋
 Let Parushahva make them reeds, and let the bulrush strike them down: Bound in a mighty net let them break quickly like an arrow's shaft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परुषान्। अमून्। परुषऽआह्व:। कृणोतु। हन्तु। एनान्। वधक:। वधै:। क्षिप्रम्। शर:ऽइव। भज्यन्ताम्। बृहत्ऽजालेन। सम्ऽदिता:। ८.४।
+परुषान्। अमून्। परुषऽआह्वः। कृणोतु। हन्तु। एनान्। वधकः। वधैः। क्षिप्रम्। शरःऽइव। भज्यन्ताम्। बृहत्ऽजालेन। सम्ऽदिताः। ८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

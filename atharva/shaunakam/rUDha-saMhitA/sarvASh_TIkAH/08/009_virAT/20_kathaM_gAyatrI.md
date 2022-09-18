@@ -20,10 +20,9 @@ manner interruptions of the progress of the hymn.
 How hath the Gayatri filled out three triads? On the fifteen how is the Trishtup moulded, Jagati fashioned on the three-and-thirty? How is Anushtup formed? how Ekavinsa?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कथम्। गायत्री। त्रिऽवृतम्। वि। आप। कथम्। त्रिऽस्तुप्। पञ्चऽदशेन। कल्पते। त्रय:ऽत्रिंशेन। जगती। कथम्। अनुऽस्तुप्। कथम्। एकऽव‍िंश:। ९.२०।
+कथम्। गायत्री। त्रिऽवृतम्। वि। आप। कथम्। त्रिऽस्तुप्। पञ्चऽदशेन। कल्पते। त्रयःऽत्रिंशेन। जगती। कथम्। अनुऽस्तुप्। कथम्। एकऽव‍िंशः। ९.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

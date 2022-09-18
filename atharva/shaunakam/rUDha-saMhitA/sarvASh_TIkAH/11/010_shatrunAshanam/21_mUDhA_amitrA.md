@@ -21,7 +21,6 @@ his variant is perhaps as in 9. 6 above (*nnya* = *nya*). The
 Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this our army slaughter them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मूढाः। अमित्राः। निऽअर्बुदे। जहि। एषाम्। वरम्ऽवरम्। अनया। जहि। सेनया। १२.२१।

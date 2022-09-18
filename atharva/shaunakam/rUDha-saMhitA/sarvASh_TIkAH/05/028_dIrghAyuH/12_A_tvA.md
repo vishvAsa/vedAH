@@ -21,10 +21,9 @@ Ppp., seem to be independent of what precedes.
 Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of day possess, therewith we fasten thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। त्वा। चृततु। अर्यमा। आ। पूषा। आ। बृहस्पति:। अह:ऽजातस्य। यत्। नाम। तेन। त्वा। अति। घृतामसि। २८.१२।
+आ। त्वा। चृततु। अर्यमा। आ। पूषा। आ। बृहस्पतिः। अहःऽजातस्य। यत्। नाम। तेन। त्वा। अति। घृतामसि। २८.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

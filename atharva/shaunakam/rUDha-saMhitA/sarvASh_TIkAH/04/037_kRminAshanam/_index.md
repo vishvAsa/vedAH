@@ -7,7 +7,6 @@ title = "०३७ कृमिनाशनम्"
 37. Against various superhuman foes: with an herb.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कृमिनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३७ कृमिनाशनम्"
 
 [Bādarāyaṇi.—dvādaśarcam . ajaśṛn̄gyapsarodevatyam. ānuṣṭubham: 3. 3-av.6-p. triṣṭubh; 5. prastārapan̄kti; 7. paroṣṇih; 11. 6-p. jagatī; 12. nicṛt.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Kuhn, KZ. xiii. 118 (interesting Germanic parallels); Ludwig, p. 352
 
 A charm against Gandharvas and Apsarases
 </details>
+

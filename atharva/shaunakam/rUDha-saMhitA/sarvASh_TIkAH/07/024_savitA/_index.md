@@ -7,7 +7,6 @@ title = "०२४ सविता"
 24 (25). To various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सविता।  
@@ -18,8 +17,6 @@ title = "०२४ सविता"
 
 [Brahman.—sāvitram: trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 10, 62; Griffith, i. 339.
 
 A prayer for riches
 </details>
+

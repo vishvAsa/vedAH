@@ -7,7 +7,6 @@ title = "००१ परमं धाम"
 1. Mystic.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 परमं धाम  
@@ -18,8 +17,6 @@ title = "००१ परमं धाम"
 
 [Vena.—brahmātmadāivatam. trāiṣṭubham: 3. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 129; Ludwig, p. 393; Scherman, Philosophische Hymnen, p
 
 Glorification of the prime cause of all things
 </details>
+

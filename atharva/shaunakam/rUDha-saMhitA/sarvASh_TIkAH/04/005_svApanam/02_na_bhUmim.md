@@ -24,10 +24,9 @@ Indra's companion in **d**. The verse is not *bhurij*, if we read *vā́tó
 Over the surface of the earth there breathes no wind, there looks. no eye. Lull all the women, lull the dogs to sleep, with Indra as thy friend!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। भूमिम्। वात:। अति। वाति। न। अति। पश्यति। क:। चन। स्रिय:। च। सर्वा:। स्वापय। शुन:। च। इन्द्रऽसखा। चरन्। ५.२।
+न। भूमिम्। वातः। अति। वाति। न। अति। पश्यति। कः। चन। स्रियः। च। सर्वाः। स्वापय। शुनः। च। इन्द्रऽसखा। चरन्। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

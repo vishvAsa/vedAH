@@ -26,10 +26,9 @@ The Anukr. seems to allow the contraction *sāi ‘tān* in **c**.
 I cause Vaisvanara to know, confessing the debt whose payment to the Gods is promised. He knows to tear asunder all these nooses: so may we dwell with him the gentle-minded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानराय। प्रति। वेदयामि। यदि। ऋणम्। सम्ऽगर:। देवतासु। स:। एतान्। पाशान्। विऽचृतम्। वेद। सर्वान्। अथ। पक्वेन। सह। सम्। भवेम। ११९.२।
+वैश्वानराय। प्रति। वेदयामि। यदि। ऋणम्। सम्ऽगरः। देवतासु। सः। एतान्। पाशान्। विऽचृतम्। वेद। सर्वान्। अथ। पक्वेन। सह। सम्। भवेम। ११९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

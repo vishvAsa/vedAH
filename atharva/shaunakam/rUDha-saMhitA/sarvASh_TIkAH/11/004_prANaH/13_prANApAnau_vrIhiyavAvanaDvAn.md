@@ -19,7 +19,6 @@ ha* in **c**.
 Both breaths are rice and barley, and Prana is called the toiling ox: In barley is the inbreath laid, and rice is named the outward breath.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्राणापानौ। व्रीहिऽयवौ। अनड्वान्। प्राणः। उच्यते। यवे। ह। प्राणः। आऽहितः। अपानः। व्रीहिः। उच्यते। ६.१३।

@@ -7,7 +7,6 @@ title = "०२३ क्रिमिघ्नम्"
 23. Against worms.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्रिमिघ्नम्।  
@@ -18,8 +17,6 @@ title = "०२३ क्रिमिघ्नम्"
 
 [Kāṇva.—trayodaśakam. āindram (krimijambhanāya devān aprārthayat). ānuṣṭubham: 13. virāj.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Kuhn, KZ. xiii. 140; Ludwig, p. 501; Griffith, i. 226; Bloomfield, 2
 
 A charm against parasitic worms
 </details>
+

@@ -7,7 +7,6 @@ title = "०३८ वर्चस्यम्"
 38. For brilliance.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चस्यम्।  
@@ -18,8 +17,6 @@ title = "०३८ वर्चस्यम्"
 
 [Atharvan (varcashāmaḥ).—caturṛcam. bṛhaspatidevatyam uta tviṣidevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 240; Florenz, 297 or 49; Griffith, i. 265; Bloomfield, 11
 
 A prayer for surpassing strength and energy
 </details>
+

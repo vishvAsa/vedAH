@@ -7,7 +7,6 @@ title = "०१० शत्रुनाशनम्"
 10. To conquer enemies: to Trishandhi.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -19,8 +18,6 @@ title = "०१० शत्रुनाशनम्"
 [Bhṛgvan̄giras.—saptaviṅśati. mantroktatriṣandhidevatyam. ānuṣṭubham: 1. virāṭ pathyābṛhatī; 2. 3-av. 6-p. triṣṭubgarbhā ’tijagatī; 3. virāḍ āstārapan̄kti; 4. virāj; 8. virāṭ triṣṭubh; 9. purovirāṭ purastājjyotis triṣṭubh; 12. 5-p. pathyāpan̄kti; 13. 6-p. jagatī; 16. 3-av. 6-p. kakummaty anuṣṭuptriṣṭubgarbhā śakvarī; 17. pathyāpan̄kti; 21. 3-p. gāyatrī; 22. virāṭ purastādbṛhatī; 25. kakubh; 26. prastārapan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Not found in Pāipp. ⌊For its use by Kāuś. in connection with hymn 9, see in
 ### Translations
 Translated: Ludwig, p. 531; Henry, 129, 169; Griffith, ii. 88; Bloomfield, 126, 637.
 </details>
+

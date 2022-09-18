@@ -20,10 +20,9 @@ The comm. to SV. explains *aghahāra* by *atipratyavara;* ours, by
 Handless be every foeman who assaileth, they who with missiles come to fight against us! Dash them together with great slaughter, Indra! and let their robber chief run pierced with arrows.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:ऽहस्त:। शत्रु:। अभिऽदासन्। अस्तु। ये। सेनाभि:। युधम्। आऽयन्ति। अस्मान्। सम्। अर्पय। इन्द्र। महता। वधेन। द्रातु। एषाम्। अघऽहार:। विऽविध्द:। ६६.१।
+निःऽहस्तः। शत्रुः। अभिऽदासन्। अस्तु। ये। सेनाभिः। युधम्। आऽयन्ति। अस्मान्। सम्। अर्पय। इन्द्र। महता। वधेन। द्रातु। एषाम्। अघऽहारः। विऽविध्दः। ६६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

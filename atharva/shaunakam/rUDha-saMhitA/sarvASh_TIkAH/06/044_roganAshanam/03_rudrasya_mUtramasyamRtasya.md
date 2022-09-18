@@ -28,10 +28,9 @@ epithet "deciduous" (*svayaṁsrasta*) corroborates the etymology of
 Thou art the stream that Rudra pours, the closest kin of Amrita. Thy name is called Vishanaka: thou sprangest from the Fathers' root, removing illness caused by wind.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रुद्रस्य। मूत्रम्। असि। अमृतस्य। नाभि:। विऽसानका। नाम। वै। असि। पितृणाम्। मूलात्। उत्थिता। वातीकृतऽनाशनी। ४४.३।
+रुद्रस्य। मूत्रम्। असि। अमृतस्य। नाभिः। विऽसानका। नाम। वै। असि। पितृणाम्। मूलात्। उत्थिता। वातीकृतऽनाशनी। ४४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

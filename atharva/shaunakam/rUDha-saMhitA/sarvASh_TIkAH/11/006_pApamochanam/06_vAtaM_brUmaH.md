@@ -17,7 +17,6 @@ all regions we address: let them free us from distress.
 Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions of the sky: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वातम्। ब्रूमः। पर्जन्यम्। अन्तरिक्षम्। अथो इति। दिशः। आशाः। च। सर्वाः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.६।

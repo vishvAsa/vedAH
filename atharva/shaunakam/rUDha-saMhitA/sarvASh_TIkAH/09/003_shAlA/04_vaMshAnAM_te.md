@@ -22,7 +22,6 @@ call for a descriptive epithet. Ppp. reads *naddhān vi* in **d**.
 We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose the ties of thy side-posts, O House that holdest all we prize.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वंशानाम्। ते। नहनानाम्। प्राणहस्य। तृणस्य। च। पक्षाणाम्। विश्वऽवारे। ते। नध्दानि। वि। चृतामसि। ३.४।

@@ -20,10 +20,9 @@ Ppp. has in **c** *abhūta* (for *abhūd u*), and in **d** *nṛṇām.*
 He hath arisen and come once more, rejoined the band of those who live. May he become the sire of sons, and of all men most fortunate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अगात्। उत्। अगात्। अयम्। जीवानाम्। व्रातम्। अपि। अगात्। अभूत्। ऊं इति। पुत्राणाम्। पिता। नृणाम्। च। भगवत्ऽतम:। ९.२।
+आ। अगात्। उत्। अगात्। अयम्। जीवानाम्। व्रातम्। अपि। अगात्। अभूत्। ऊं इति। पुत्राणाम्। पिता। नृणाम्। च। भगवत्ऽतमः। ९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ anything in particular.
 Ye foes, come hitherward dismayed like serpents when their heads are gone. Let Indra slay each bravest one of you whom Agni hath con- fused.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मूढा:। अमित्रा:। चरत। अशीर्षाण:ऽइव। अहय:। तेषाम्। व:। अग्निऽमूढानाम्। इन्द्र:। हन्तु। वरम्ऽवरम्। ६७.२।
+मूढाः। अमित्राः। चरत। अशीर्षाणःऽइव। अहयः। तेषाम्। वः। अग्निऽमूढानाम्। इन्द्रः। हन्तु। वरम्ऽवरम्। ६७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

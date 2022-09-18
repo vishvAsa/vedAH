@@ -29,10 +29,9 @@ precisely, our 4 **a-c** with 3 **d** before our 3 **a-c** with 4
 The willing Gods whom, God, thou hast brought hither, send thou to their own dwelling-place, O Agni. When ye have eaten and have drunk sweet juices, endow this man with precious wealth, ye Vasus.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यान्। आऽअवह:। उशत:। देव। देवान्। तान्। प्र। ईरय। स्वे। अग्ने। सधऽस्थे। जक्षिऽवांस:। पपिऽवांस:। मधूनि। अस्मै। धत्त। वसव:। वसूनि। १०२.३।
+यान्। आऽअवहः। उशतः। देव। देवान्। तान्। प्र। ईरय। स्वे। अग्ने। सधऽस्थे। जक्षिऽवांसः। पपिऽवांसः। मधूनि। अस्मै। धत्त। वसवः। वसूनि। १०२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

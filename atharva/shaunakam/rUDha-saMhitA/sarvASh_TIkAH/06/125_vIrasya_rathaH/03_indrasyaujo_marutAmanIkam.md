@@ -23,10 +23,9 @@ the *pratīka* of this verse in its form as given by our text. ⌊Ppp. has
 Thou bolt of Indra, vanguard of the Maruts, close knit to Varuna and child of Mitra, As such, accepting gifts which here we offer, receive, O godlike Chariot, these oblations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रस्य। ओज:। मरुताम्। अनीकम्। मित्रस्य। गर्भ:। वरुणस्य। नाभि:। स:। इमाम्। न:। हव्यऽदातिम्। जुषाण:। देव। रथ। प्रति। हव्या। गृभाय। १२५३।
+इन्द्रस्य। ओजः। मरुताम्। अनीकम्। मित्रस्य। गर्भः। वरुणस्य। नाभिः। सः। इमाम्। नः। हव्यऽदातिम्। जुषाणः। देव। रथ। प्रति। हव्या। गृभाय। १२५३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

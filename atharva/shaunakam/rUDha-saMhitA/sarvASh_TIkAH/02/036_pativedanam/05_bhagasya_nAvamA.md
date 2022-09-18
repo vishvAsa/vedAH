@@ -22,10 +22,9 @@ made to ascend a properly prepared boat.
 Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hitherward to us the lover whom thou fain wouldst wed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भगस्य। नावम्। आ। रोह। पूर्णाम्। अनुपऽदस्वतीम्। तया। उपऽप्रतारय। य:। वर:। प्रतिऽकाम्य:। ३६.५।
+भगस्य। नावम्। आ। रोह। पूर्णाम्। अनुपऽदस्वतीम्। तया। उपऽप्रतारय। यः। वरः। प्रतिऽकाम्यः। ३६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

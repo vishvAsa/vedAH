@@ -20,10 +20,9 @@ no variant.
 Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slayer. Fill thyself full at the mid-day libation: thyself possessing riches grant us riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धृषत्। पिब। कलशे। सोमम्। इन्द्र। वृत्रऽहा। शूर। सम्ऽअरे। वसूनाम्। माध्यंदिने। सवने। आ। वृषस्व। रयिऽस्थान:। रयिम्। अस्मासु। धेहि। ८१.२।
+धृषत्। पिब। कलशे। सोमम्। इन्द्र। वृत्रऽहा। शूर। सम्ऽअरे। वसूनाम्। माध्यंदिने। सवने। आ। वृषस्व। रयिऽस्थानः। रयिम्। अस्मासु। धेहि। ८१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

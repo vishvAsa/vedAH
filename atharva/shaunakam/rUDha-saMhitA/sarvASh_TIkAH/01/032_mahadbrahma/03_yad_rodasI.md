@@ -25,10 +25,9 @@ as vocatives, and then supplies *dyāus*, vocative ⌊JAOS. xi. 66⌋‎, in
 What the two trembling hemispheres and ground produced and fashioned forth. This All, is ever fresh to-day, even as the currents of the sea.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। रोदसी इति। रेजमाने इति। भूमि:। च। नि:ऽअतक्षतम्। आर्द्रम्। तत्। अद्य। सर्वदा। समुद्रस्यऽइव। स्रोत्या:।
+यत्। रोदसी इति। रेजमाने इति। भूमिः। च। निःऽअतक्षतम्। आर्द्रम्। तत्। अद्य। सर्वदा। समुद्रस्यऽइव। स्रोत्याः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

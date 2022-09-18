@@ -20,7 +20,6 @@ with vss. 1, 4 **c**, 6 **b** in the schol. to Kāuś. 19. 23.⌋
 This Amulet of citron-wood shall make for me a trusty shield Filled with the mingled beverage, with sap and vigour hath it come.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वर्म। मह्यम्। अयम्। मणिः। फालात्। जातः। करिष्यति। पूर्णः। मन्थेन। मा। आ। अगमत्। रसेन। सह। वर्चसा। ६.२।

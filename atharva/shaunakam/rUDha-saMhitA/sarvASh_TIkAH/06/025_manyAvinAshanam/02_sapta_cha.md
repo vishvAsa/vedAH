@@ -19,10 +19,9 @@ and SPP. with good reason adopts that in his text.
 Those seventy-and-seven which meet round the upper vertebrae, Let them all vanish hence away like plaguing insects' buzz and hum!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। च। या:। सप्तति:। च। सम्ऽयन्ति। ग्रैव्या:। अभि। इत:। ता:। सर्वा:। नश्यन्तु। वाका:। अपचिताम्ऽइव। २५.२।
+सप्त। च। याः। सप्ततिः। च। सम्ऽयन्ति। ग्रैव्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ Ppp. reads in **c** *piśācān* instead of *sapatnān*.
 By Kama's might, King Varuna's and Indra's, by Vishnu's strength, and Savitar's instigation, I chase my foes with sacrifice to Agni, as a deft steersman drives his boat through waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-कामस्य। इन्द्रस्य। वरुणस्य। राज्ञ:। विष्णो:। बलेन। सवितु:। सवेन। अग्ने:। होत्रेण। प्र। नुदे। सऽपत्नान्। शम्बीऽइव। नावम्। उदकेषु। धीर:। २.६।
+कामस्य। इन्द्रस्य। वरुणस्य। राज्ञः। विष्णोः। बलेन। सवितुः। सवेन। अग्नेः। होत्रेण। प्र। नुदे। सऽपत्नान्। शम्बीऽइव। नावम्। उदकेषु। धीरः। २.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

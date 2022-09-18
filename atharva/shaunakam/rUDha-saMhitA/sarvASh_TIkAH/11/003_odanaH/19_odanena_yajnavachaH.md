@@ -21,7 +21,6 @@ prāptavyatveno ’cyamānaḥ*.
 The sacrificial word, all worlds are to be won with Odana.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओदनेन। यज्ञऽवचः। सर्वे। लोकाः। सम्ऽआप्याः। ३.१९।

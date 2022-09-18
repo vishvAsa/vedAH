@@ -32,7 +32,6 @@ gāyatrī.\]
 With this I here invest the power and splendour, the life of that man and his vital breathing, the son of such a sire and such a woman, here do I overthrow and cast him downward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जितम्। अस्माकम्। उत्ऽभिन्नम्। अस्माकम्। अभि। अस्थाम्। विश्वाः। पृतनाः। अरातीः। इदम्। अहम्। आमुष्यायणस्य। अमुष्याः। पुत्रस्य। वर्चः। तेजः। प्राणम्। आयुः। नि। वेष्टयामि। इदम्। एनम्। अधराञ्चम्। पादयामि। ५.३६।

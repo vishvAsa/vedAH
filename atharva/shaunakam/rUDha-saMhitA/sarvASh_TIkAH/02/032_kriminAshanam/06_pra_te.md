@@ -28,10 +28,9 @@ is only mechanically correct.
 I break in pieces both thy horns wherewith thou pushest here and there: I cleave and rend the bag which holds the venom which is* stored in thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। ते। शृणामि। शृङ्गे इति। याभ्याम्। विऽतुदायसि। भिनद्मि। ते। कुषुम्भम्। य:। ते। विषऽधान:। ३२.६।
+प्र। ते। शृणामि। शृङ्गे इति। याभ्याम्। विऽतुदायसि। भिनद्मि। ते। कुषुम्भम्। यः। ते। विषऽधानः। ३२.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

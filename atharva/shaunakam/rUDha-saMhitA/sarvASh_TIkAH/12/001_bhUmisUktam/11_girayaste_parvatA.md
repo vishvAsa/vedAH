@@ -26,7 +26,6 @@ Kāuś. 25. 36).
 O Prithivi, auspicious be thy woodlands, auspicious be thy hills and snow-clad mountains. Unslain, unwounded, unsubdued, I have set foot upon the Earth, On earth brown, black, ruddy and every-coloured, on the firm earth that Indra guards from danger.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 गिरयः। ते। पर्वताः। हिमऽवन्तः। अरण्यम्। ते। पृथिव‍ि। स्योनम्। अस्तु। बभ्रुम्। कृष्णाम्। रोहिणीम्। विश्वऽरूपाम्। ध्रुवाम्। भूमिम्। पृथिवीम्। इन्द्रऽगुप्ताम्। अजीतः। अहतः। अक्षतः। अधि। अस्थाम्। पृथिवीम्। अहम्। १.११।

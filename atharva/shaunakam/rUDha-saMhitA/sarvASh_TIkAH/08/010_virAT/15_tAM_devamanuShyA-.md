@@ -16,10 +16,9 @@ title = "१५ तां देवमनुष्याऽ"
 They drew the Waters forth with Vamadevya, with Yajnayaj- niya they milked out worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ताम्। देवऽमनुष्या:। अब्रुवन्। इयम्। एव। तत्। वेद। यत्। उभये। उपऽजीवेम। इमाम्। उप। ह्वयामहै। इति। ११.२।
+ताम्। देवऽमनुष्याः। अब्रुवन्। इयम्। एव। तत्। वेद। यत्। उभये। उपऽजीवेम। इमाम्। उप। ह्वयामहै। इति। ११.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

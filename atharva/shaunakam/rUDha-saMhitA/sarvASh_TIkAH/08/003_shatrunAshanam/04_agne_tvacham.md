@@ -22,10 +22,9 @@ refers to the flesh-eating Agni.
 Pierce through the Yatudhana's skin, O Agni; let the destroying dart with fire consume him. Rend his joints, Jatavedas! let the eater of raw flesh, seeking flesh, tear and destroy him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। त्वचम्। यातुऽधानस्य। भिन्धि। हिंस्रा। अशनि:। हरसा। हन्तु। एनम्। प्र। पर्वाणि। जातऽवेद:। शृणीहि। क्रव्यऽअत्। क्रविष्णु:। वि। चिनोतु। एनम्। ३..४।
+अग्ने। त्वचम्। यातुऽधानस्य। भिन्धि। हिंस्रा। अशनिः। हरसा। हन्तु। एनम्। प्र। पर्वाणि। जातऽवेदः। शृणीहि। क्रव्यऽअत्। क्रविष्णुः। वि। चिनोतु। एनम्। ३..४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

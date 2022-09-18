@@ -17,7 +17,6 @@ amulet created by Prajāpati hath made my haters beneath me (*ádhard*).
 The regions of the heaven, the points that lie between them fashioned it. Created by Prajapati, may the Charm cast my foemen down.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्तःऽदेशाः। अबध्नत। प्रऽदिशः। तम्। अबध्नत। प्रजापतिऽसृष्टः। मणिः। द्विषतः। मे। अधरान्। अकः। ६.१९।

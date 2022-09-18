@@ -21,10 +21,9 @@ TB. (also ĀpśS. xiv. 27. 7, which agrees with it throughout ⌊except
 This man hath Indra stablished, made secure by constant sacri- fice. Soma, and Brahmanaspati here present bless and comfort him!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। एतम्। अदीधरत्। ध्रुवम्। ध्रुवेण। हविषा। तस्मै। सोम:। अधि। ब्रवत्। अयम्। च। ब्रह्मण:। पति:। ८७.३।
+इन्द्रः। एतम्। अदीधरत्। ध्रुवम्। ध्रुवेण। हविषा। तस्मै। सोमः। अधि। ब्रवत्। अयम्। च। ब्रह्मणः। पतिः। ८७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

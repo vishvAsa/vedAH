@@ -21,10 +21,9 @@ beginning of **c** is a misprint for *tā́ṁ*.
 Now whether thou hast been prepared by Gods or been pre- pared by men, We, with our Indra at our side to aid us, lead thee back again.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। वा। असि। देवऽकृता। यदि। वा। पुरुषै:। कृता। ताम्। त्वा। पुन:। नयामसि। इन्द्रेण। सऽयुजा। वयम्। १४.७।
+यदि। वा। असि। देवऽकृता। यदि। वा। पुरुषैः। कृता। ताम्। त्वा। पुनः। नयामसि। इन्द्रेण। सऽयुजा। वयम्। १४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

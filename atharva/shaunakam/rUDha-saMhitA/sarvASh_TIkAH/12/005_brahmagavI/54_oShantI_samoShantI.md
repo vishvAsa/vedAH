@@ -16,7 +16,6 @@ title = "५४ ओषन्ती समोषन्ती"
 Consuming, burning all things up, the thunderbolt of spell and charm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओषन्ती। सम्ऽओषन्ती। ब्रह्मणः। वज्रः। १०.८।

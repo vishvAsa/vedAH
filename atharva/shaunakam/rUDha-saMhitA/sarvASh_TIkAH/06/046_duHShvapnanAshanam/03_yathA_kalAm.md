@@ -26,10 +26,9 @@ accordingly received in both published texts.
 As men discharge a debt, as they pay up an eighth and half-an- eighth, So the whole evil dream do we pay and assign unto our foe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दु:ऽस्वप्न्यम्। सर्वम्। द्विषते। नयामसि। ४६.३।
+यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दुःऽस्वप्न्यम्। सर्वम्। द्विषते। नयामसि। ४६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

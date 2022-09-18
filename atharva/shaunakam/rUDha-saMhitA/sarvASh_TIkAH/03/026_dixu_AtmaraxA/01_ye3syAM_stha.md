@@ -30,10 +30,9 @@ serpents, cf. vi. 56. 1, where they are called "god-people."⌋
 Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your arrows. Be kind and gracious unto us and bless us. To you be reverence, to you be welcome!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अस्याम्। प्राच्याम्। दिशि। हेतय:। नाम। देवा:। तेषाम्। व:। अग्नि:। इषव:। ते। न:। मृडत। ते। न:। अधि। ब्रूत। तेभ्य:। व:। नम:। तेभ्य:। व:। स्वाहा। २६.१।
+ये। अस्याम्। प्राच्याम्। दिशि। हेतयः। नाम। देवाः। तेषाम्। वः। अग्निः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ Ppp. reads *tejas* for *śriyam*.
 The Charm Brihaspati, etc. This Charm did Chandra wear, with this conquered the forts of Asuras, the golden forts of Danavas. This yields him glory and renown, again, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। बिभ्रत्। चन्द्रमाः। मणिम्। असुराणाम्। पुरः। अजयत्। दानवानाम्। हिरण्ययीः। सः। अस्मै। श्रियम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१०।

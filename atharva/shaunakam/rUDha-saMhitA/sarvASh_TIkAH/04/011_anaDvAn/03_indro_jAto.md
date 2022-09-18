@@ -38,10 +38,9 @@ coördinate⌋; so that the reading is very suspicious. A few of our mss.
 Being produced among mankind as Indra, the Caldron works heated and brightly glowing. Let him not, with good sons, pass off in vapour who hath not eaten of the Ox with knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। जात:। मनुष्येषु। अन्त:। घर्म:। तप्त:। चरति। शोशुचान:। सुऽप्रजा:। सन्। स:। उत्ऽआरे। न। सर्षत्। य:। न। अश्नीयात्। अनडुह:। विऽजानन्। ११.३।
+इन्द्रः। जातः। मनुष्येषु। अन्तः। घर्मः। तप्तः। चरति। शोशुचानः। सुऽप्रजाः। सन्। सः। उत्ऽआरे। न। सर्षत्। यः। न। अश्नीयात्। अनडुहः। विऽजानन्। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

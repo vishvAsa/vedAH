@@ -7,7 +7,6 @@ title = "००२ कामः"
 2. To Kāma: for various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कामः  
@@ -20,8 +19,6 @@ title = "००२ कामः"
 
 [Atharvan.—pañcaviṅśakam. kāmadevatyam. trāiṣṭubham: 5. atijagatī; 7. jagatī; 8. 2-p. ārcī pan̄kti; 11, 20, 23. bhurij; 12. anuṣṭubh; 13. 2-p. ārcy anuṣṭubh; 14, 15, 17, 18, 21, 22. jagatī; 16. 4-p. śakvarīgarbhā parājagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: Muir, v. 404 (nearly all); Ludwig, p. 519; Scherman, Philosophische 
 
 A glorification of Kama as God of desire of all that is good
 </details>
+

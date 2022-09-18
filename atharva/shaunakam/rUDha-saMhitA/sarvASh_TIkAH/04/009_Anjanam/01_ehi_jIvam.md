@@ -33,10 +33,9 @@ resolution *ví-śu-e-* in **c** or leave the pāda defective.
 Approach! thou art the mountain's eye, the living thing that saveth us; A gift bestowed by all the Gods, yea, the defence that guardeth life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। इहि। जीवम्। त्रायमाणम्। पर्वतस्य। असि। अक्ष्यम्। विश्वेभि:। देवै:। दत्तम्। परिऽधि:। जीवनाय। कम्। ९.१।
+आ। इहि। जीवम्। त्रायमाणम्। पर्वतस्य। असि। अक्ष्यम्। विश्वेभिः। देवैः। दत्तम्। परिऽधिः। जीवनाय। कम्। ९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

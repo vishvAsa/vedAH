@@ -20,10 +20,9 @@ vartamānaḥ* or *śreṣṭhaḥ san*.
 As once when time began the Gods with thee expelled the Asuras, Even thence, O Plant, wast thou produced as one who wipes and sweeps away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अद:। देवा:। असुरान्। त्वया। अग्रे। नि:ऽअकुर्वत। तत:। त्वम्। अधि। ओषधे। अपामार्ग:। अजायथा:। १९.४।
+यत्। अदः। देवाः। असुरान्। त्वया। अग्रे। निःऽअकुर्वत। ततः। त्वम्। अधि। ओषधे। अपामार्गः। अजायथाः। १९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

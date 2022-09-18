@@ -21,7 +21,6 @@ referred to. The *pada*-division *sādhu॰yā́* is prescribed by Prāt. iv.
 As from the salutary plants I deftly pick the fibres out, And guide them skilfully like mares, so let thy venom, Snake! depart,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ओषधीनाम्। अहम्। वृणे। उर्वरीःऽइव। साधुऽया। नयामि। अर्वतीःऽइव। अहे। निःऽऐतु। ते। विषम्। ४.२१।

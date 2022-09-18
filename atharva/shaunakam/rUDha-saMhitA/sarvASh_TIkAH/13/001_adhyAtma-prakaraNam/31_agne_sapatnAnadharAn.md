@@ -23,7 +23,6 @@ Ppp. reads *utapidānaṁ* (for *utpipānam* ⌊discussed AJP. xii. 441⌋) in
 Cast down our foes beneath our feet, O Agni. Brihaspati, oppress our rebel kinsman. Low let them fall, O Indra-Agni. Mitra-Varuna, powerless to show their anger.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्ने। सऽपत्नान्। अधरान्। पादय। अस्मत्। व्यथय। सऽजातम्। उत्ऽपिपानम्। बृहस्पते। इन्द्राग्नी इति। मित्रावरुणौ। अधरे। पद्यन्ताम्। अप्रतिऽमन्यूयमानाः। १.३१।

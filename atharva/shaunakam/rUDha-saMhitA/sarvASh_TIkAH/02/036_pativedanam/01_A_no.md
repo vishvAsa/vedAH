@@ -29,10 +29,9 @@ accented *júṣṭā*. In **d** he reads *ūṣam*, and declares it to signify
 To please us may the suitor come, O Agni, seeking this maid and bringing us good fortune. Approved by wooers, lovely in assemblies, may she be soon made happy with a husband.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। न:। अग्ने। सुऽमतिम्। सम्ऽभल:। गमेत्। इमाम्। कुमारीम्। सह। न:। भगेन। जुष्टा। वरेषु। समनेषु। वल्गु:। ओषम्‌। पत्या। सौभगम्। अस्तु। अस्यै। ३६.१।
+आ। नः। अग्ने। सुऽमतिम्। सम्ऽभलः। गमेत्। इमाम्। कुमारीम्। सह। नः। भगेन। जुष्टा। वरेषु। समनेषु। वल्गुः। ओषम्‌। पत्या। सौभगम्। अस्तु। अस्यै। ३६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

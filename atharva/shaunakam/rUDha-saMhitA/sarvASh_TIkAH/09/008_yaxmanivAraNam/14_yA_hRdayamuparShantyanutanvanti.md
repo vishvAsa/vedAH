@@ -20,7 +20,6 @@ time *upadiśanti*.
 The pangs that stab the heart and reach the breast-bone and connected parts, Let them depart and pass away, free from disease and harming not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। हृदयम्। उपऽऋषन्ति। अनुऽतन्वन्ति। कीकसाः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१४।

@@ -46,7 +46,6 @@ among the cases of exchange between sonants and surds at ZDMG. xlviii.
 They who have spun, and woven, and extended Goddesses who have drawn the ends together, May they invest thee for full long existence. Heiress of lengthen- ed life, endue this garment,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याः। अकृन्तन्। अवयन्। याः। च‍। तत्निरे। याः। देवीः। अन्तान्। अभितः। अददन्त। ताः। त्वा। जरसे। सम्। व्ययन्तु। आयुष्मती। इदम्। परि। धत्स्व। वासः। १.४५।

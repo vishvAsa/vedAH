@@ -7,7 +7,6 @@ title = "०१० विराट्"
 10. Extolling the virā́j.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विराट्।  
@@ -39,8 +38,6 @@ title = "०१० विराट्"
 [Atharvācārya.—ṣaṭ paryāyā virāḍdevatyās.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -61,3 +58,4 @@ Translated: Henry, 29, 71; Griffith, i. 421.—See also Muir, v. 370.
 
 A glorification of the mystical abstraction Viraj
 </details>
+

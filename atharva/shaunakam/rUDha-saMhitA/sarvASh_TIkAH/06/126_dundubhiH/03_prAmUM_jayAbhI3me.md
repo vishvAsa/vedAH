@@ -24,10 +24,9 @@ Anukr. contracts the first pāda into 9 syllables.
 Conquer those yonder and let these be victors. Let the Drum speak aloud as battle's signal. Let our men, winged with horses, fly together. Let our car- warriors, Indra! be triumphant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। अमूम्। जय। अभि। इमे। जयन्तु। केतुऽमत्। दुन्दुभि:। वावदीतु। सम्। अश्वऽपर्णा:। पतन्तु। न:। नर:। अस्माकम्। इन्द्र। रथिन:। जयन्तु। १२६.३।
+प्र। अमूम्। जय। अभि। इमे। जयन्तु। केतुऽमत्। दुन्दुभिः। वावदीतु। सम्। अश्वऽपर्णाः। पतन्तु। नः। नरः। अस्माकम्। इन्द्र। रथिनः। जयन्तु। १२६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

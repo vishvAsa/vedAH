@@ -26,10 +26,9 @@ chikh-*. ⌊If the definition of the Anukr. (8 + 8: 12) is right, pāda
 From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of hair, I take all manhood and virility.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽनृत्यत:। शिखण्डिन:। गन्धर्वस्य। अप्सराऽपते:। भिनद्मि। मुष्कौ। अपि। यामि। शेप:। ३७.७।
+आऽनृत्यतः। शिखण्डिनः। गन्धर्वस्य। अप्सराऽपतेः। भिनद्मि। मुष्कौ। अपि। यामि। शेपः। ३७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

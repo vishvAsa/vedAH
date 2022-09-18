@@ -19,7 +19,6 @@ ca taṁ tve nir man-*: cf. v. 22. 10, 13.
 The malady whose awful look makes a man quiver with alarm, Fever whom every Autumn brings we charm away with this our spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। भीमः। प्रतिऽकाशः। उत्ऽवेपयति। पुरुषम्। तक्मानम्। विश्वऽशारदम्। बहिः। निः। मन्त्रयामहे। १३.६।

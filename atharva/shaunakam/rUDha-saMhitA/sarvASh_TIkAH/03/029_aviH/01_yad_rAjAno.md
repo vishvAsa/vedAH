@@ -30,10 +30,9 @@ reads in **b** *-pūrttásya;* ⌊for consistency, delete one *t*⌋.
 When yonder kings who sit beside Yama divide among them- selves the sixteenth part of hopes fulfilled, A ram bestowed as sacrifice, white-footed, frees us from the tax.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। राजान:। विऽभजन्ते। इष्टापूर्तस्य। षोडशम्। यमस्य। अमी इति। सभाऽसद:। अवि:। तस्मात्। प्र। मुञ्चति। दत्त:। शितिऽपात्। स्वधा। २९.१।
+यत्। राजानः। विऽभजन्ते। इष्टापूर्तस्य। षोडशम्। यमस्य। अमी इति। सभाऽसदः। अविः। तस्मात्। प्र। मुञ्चति। दत्तः। शितिऽपात्। स्वधा। २९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

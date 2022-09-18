@@ -28,7 +28,6 @@ sächsischen Gesell.*, 1893, xlv. 88, reviews Roth's interpretation.⌋
 That which hath breath and life and speed and motion lies firmly stablished in the midst of houses. The living moves by powers of the departed: the immortal is the brother of the mortal.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनत्। शये। तुरऽगातु। जीवम्। एजत्। ध्रुवम्। मध्ये। आ। पस्त्यानाम्। जीवः। मृतस्य। चरति। स्वधाभिः। अमर्त्यः। मर्त्येन। सऽयोनिः। १५.८।

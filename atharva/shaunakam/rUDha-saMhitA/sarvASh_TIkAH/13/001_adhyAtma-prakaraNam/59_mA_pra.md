@@ -22,7 +22,6 @@ times in Kāuś. (54. 18; 82. 6; 89. 11; also by the schol. under 42. 15;
 Let us not, Indra, leave the path, the Soma-presser's sacrifice. Let not malignities dwell with us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। प्र। गाम। पथः। वयम्। मा। यज्ञात्। इन्द्र। सोमिनः। मा। अन्तः। स्थुः। नः। अरातयः। १.५९।

@@ -21,7 +21,6 @@ p. 72⌋.
 With this we chase and banish all consumptive malady and Death, With sinner andamalicious man, with helper and with minister,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अघशंसऽदुःशंसाभ्याम्। करेण। अनुऽकरेण। च। यक्ष्मम्। च। सर्वम्। तेन। इतः। मृत्युम्। च। निः। अजामसि। २.२।

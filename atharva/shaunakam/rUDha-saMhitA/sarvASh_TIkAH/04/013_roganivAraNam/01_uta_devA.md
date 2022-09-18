@@ -25,10 +25,9 @@ something in excuse of the four-fold repetition of the vocative.
 Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods, restore to life again, him, Gods! who hath committed sin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। देवा:। अवऽहितम्। देवा:। उत्। नयथ। पुन:। उत। आग:। चक्रुषम्। देवा:। देवा:। जीवयथा। पुन:। १३.1।
+उत। देवाः। अवऽहितम्। देवाः। उत्। नयथ। पुनः। उत। आगः। चक्रुषम्। देवाः। देवाः। जीवयथा। पुनः। १३.1।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,7 +24,6 @@ kā cane ’ha;* it also combines *bhavā ”papra* ⌊*urv*⌋ in **b**.
 Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's mid-region. Where'er he be, to him be paid our homage!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भवः। दिवः। भवः। ईशे। पृथिव्याः। भवः। आ। पप्रे। उरु। अन्तरिक्षम्। तस्मै। नमः। यतमस्याम्। दिशि। इतः। २.२७।

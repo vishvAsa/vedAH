@@ -40,10 +40,9 @@ The first *prapāṭhaka* ends here.
 If thou destroy a cow of ours, a human being, or a steed, We pierce thee with this piece of lead so that thou mayst not slay our men.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। न:। गाम्। हंसि। यदि। अश्वम्। यदि। पुरुषम् ‌। तम्। त्वा। सीसेन। विध्याम:। यथा। न:। अस:। अवीरऽहा।
+यदि। नः। गाम्। हंसि। यदि। अश्वम्। यदि। पुरुषम् ‌। तम्। त्वा। सीसेन। विध्यामः। यथा। नः। असः। अवीरऽहा।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

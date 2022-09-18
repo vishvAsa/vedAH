@@ -7,7 +7,6 @@ title = "०११ नारी–सुखप्रसूतिः"
 11. For successful childbirth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 नारी–सुखप्रसूतिः।  
@@ -18,8 +17,6 @@ title = "०११ नारी–सुखप्रसूतिः"
 
 [Atharvan.—ṣadṛcam. pāuṣṇam. pān̄ktam: 2. anuṣṭubh; 3. 4-p. uṣṇiggarbhā kakummaty anuṣṭubh; 4-6. pathyapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 404; Ludwig, p. 478; Griffith, i. 14 and 473; Bloomfield,
 
 A charm to be used at child-birth
 </details>
+

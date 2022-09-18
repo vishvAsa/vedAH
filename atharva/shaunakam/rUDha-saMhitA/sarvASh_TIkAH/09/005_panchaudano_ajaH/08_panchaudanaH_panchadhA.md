@@ -22,10 +22,9 @@ Oldenberg, ZDMG. l. 449.⌋
 Let the Panchaudana Goat, about to visit the three lights, pass away in five divisions. Go midst the pious who have paid their worship, and parted, dwell on the third cope of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्चऽओदन:। पञ्चऽधा। वि। क्रमताम्। आऽक्रंस्यमान:। त्रीणि। ज्योतींषि। ईजानानाम्। सुऽकृताम्। प्र। इहि। मध्यम। तृतीये। नाके। अधि। वि। श्रयस्व। ५.८।
+पञ्चऽओदनः। पञ्चऽधा। वि। क्रमताम्। आऽक्रंस्यमानः। त्रीणि। ज्योतींषि। ईजानानाम्। सुऽकृताम्। प्र। इहि। मध्यम। तृतीये। नाके। अधि। वि। श्रयस्व। ५.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

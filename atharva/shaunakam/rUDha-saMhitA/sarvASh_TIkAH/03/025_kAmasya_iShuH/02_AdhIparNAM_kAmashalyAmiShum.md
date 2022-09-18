@@ -23,10 +23,9 @@ a ferrule?) to fasten the tip to the shaft⌋. Our P.M.W. read *tā́* for
 That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let Kama, having truly aimed, shoot forth and pierce thee in the heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आधीऽपर्णाम्। कामऽशल्याम्। इषुम्। संकल्पऽकुल्मलाम्। ताम्। सुऽसंनताम्। कृत्वा। काम:। विध्यतु। त्वा। हृदि। २५.२।
+आधीऽपर्णाम्। कामऽशल्याम्। इषुम्। संकल्पऽकुल्मलाम्। ताम्। सुऽसंनताम्। कृत्वा। कामः। विध्यतु। त्वा। हृदि। २५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

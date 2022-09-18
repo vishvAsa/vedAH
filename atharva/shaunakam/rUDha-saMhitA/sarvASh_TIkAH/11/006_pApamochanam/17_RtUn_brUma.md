@@ -23,7 +23,6 @@ padārthān;* *hāyana* and *samā* are to him simply other names for
 We speak to Seasons, Season-Lords, to years and sections of the year, To Months, half-months, and years complete: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतून्। ब्रूमः। ऋतुऽपतीन्। आर्तवान्। उत। हायनान्। समाः। सम्ऽवत्सरान्। मासान्। ते। नः। मुञ्चन्तु। अंहसः। ८.१७।

@@ -21,10 +21,9 @@ nouns in our **d** would rectify the meter.
 As over honey flies besmear this honey which the bees have made, So may both Asvins lay in me splendour and strength and power and might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। मक्षा:। इदम्। मधु। निऽअञ्जन्ति। मधौ। अधि। एव। मे। अश्विना। वर्च:। तेज:। बलम्। ओज:। च। ध्रियताम्। १.१७।
+यथा। मक्षाः। इदम्। मधु। निऽअञ्जन्ति। मधौ। अधि। एव। मे। अश्विना। वर्चः। तेजः। बलम्। ओजः। च। ध्रियताम्। १.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

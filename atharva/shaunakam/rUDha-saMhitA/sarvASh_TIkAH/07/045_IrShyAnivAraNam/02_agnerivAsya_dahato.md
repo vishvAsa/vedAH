@@ -14,10 +14,9 @@ title = "०२ अग्नेरिवास्य दहतो"
 As one with water quencheth fire, so calm this lover's jealousy, Like heat of fire that burneth here, or flame that rageth through the wood.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:ऽइव। अस्य। दहत:। दावस्य। दहत:। पृथक्। एताम्। एतस्य। ईर्ष्याम्। उद्ना। अग्निम्ऽइव। शमय। ४७.१।
+अग्नेःऽइव। अस्य। दहतः। दावस्य। दहतः। पृथक्। एताम्। एतस्य। ईर्ष्याम्। उद्ना। अग्निम्ऽइव। शमय। ४७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

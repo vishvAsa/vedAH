@@ -20,7 +20,6 @@ does not help the defective meter; of this the Anukr. takes no notice.
 Corpse-eating Agni, toil-worn, meet for praises, I send away bypaths used by the Fathers. Stay there; keep watch among the Fathers: come not again to us by ways whereon Gods travel.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 क्रव्यऽअदम्। अग्निम्। शशमानम्। उक्थ्यम्। प्र। हिणोमि। पथिऽभिः। पितृऽयानैः। मा। देवऽयानैः। पुनः। आ। गाः। अत्र। एव। एधि। पितृषु। जागृहि। त्वम्। २.१०।

@@ -25,10 +25,9 @@ sense, may be as old as the Veda?⌋
 King Yama, let this maiden be surrendered as a wife to thee: Bound let her be meanwhile within, her mother's, brother's, father's house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एषा। ते। राजन्। कन्या। वधू:। नि। धूयताम्। यम। सा। मातु:। वध्यताम्। गृहे। अथो इति। भ्रातु:। अथो इति। पितु: ‌।
+एषा। ते। राजन्। कन्या। वधूः। नि। धूयताम्। यम। सा। मातुः। वध्यताम्। गृहे। अथो इति। भ्रातुः। अथो इति। पितुः ‌।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -30,10 +30,9 @@ of *antikam*. The verse (12 + 8: 12 + 8 = 40) is not properly a
 May Ansa, Bhaga, Varuna, and Mitra, Aryaman, Aditi, and Maruts guard us. May we be freed from that oppressor's hatred. May he keep off that foeman who is near us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अंश:। भग:। वरुण:। मित्र:। अर्यमा। अदिति:। पान्तु। मरुत:। अप। तस्य। द्वेष:। गमेत्। अभिऽह्रुत:। यवयत्। शत्रुम्। अन्तितम्। ४.२।
+अंशः। भगः। वरुणः। मित्रः। अर्यमा। अदितिः। पान्तु। मरुतः। अप। तस्य। द्वेषः। गमेत्। अभिऽह्रुतः। यवयत्। शत्रुम्। अन्तितम्। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -28,10 +28,9 @@ in **b** *-matīnām*. ⌊W. would probably have changed "crusher-away" to
 Indra hath ever been the fiends' destroyer who spoil oblations of the Gods' invokers. Yea, Sakra, like an axe that splits the timber, assails and sma- shes them like earthen vessels.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। यातूनाम्। अभवत्। पराऽशर:। हवि:ऽमथीनाम्। अभि। आऽविवासताम्। अभि। इत्। ऊं इति। शक्र:। परशु:। यथा। वनम्। पात्राऽइव। भिन्दन्। सत:। एतु। रक्षस:। ४.२१।
+इन्द्रः। यातूनाम्। अभवत्। पराऽशरः। हविःऽमथीनाम्। अभि। आऽविवासताम्। अभि। इत्। ऊं इति। शक्रः। परशुः। यथा। वनम्। पात्राऽइव। भिन्दन्। सतः। एतु। रक्षसः। ४.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

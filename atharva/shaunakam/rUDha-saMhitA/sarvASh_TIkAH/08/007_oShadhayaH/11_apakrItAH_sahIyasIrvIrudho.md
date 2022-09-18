@@ -19,10 +19,9 @@ oṣadhir apak-;* and *apā sarasvatī jyeṣṭhaṁ trāy-*.
 Let purchased Plants of mightier power, Plants that are praised for excellence. Here in this village safely keep cattle and horses, man and beast.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽक्रीता:। सहीयसी:। वीरुध:। या:। अभिऽस्तुता:। त्रायन्ताम्। अस्मिन्। ग्रामे। गाम्। अश्वम्। पुरुषम्। पशुम्। ७.११।
+अपऽक्रीताः। सहीयसीः। वीरुधः। याः। अभिऽस्तुताः। त्रायन्ताम्। अस्मिन्। ग्रामे। गाम्। अश्वम्। पुरुषम्। पशुम्। ७.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

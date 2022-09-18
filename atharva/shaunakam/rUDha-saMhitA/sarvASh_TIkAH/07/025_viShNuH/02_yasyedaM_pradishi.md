@@ -24,10 +24,9 @@ collation: his notes give *mahā*.⌋
 The early prayer hath ever come to Vishnu and Varuna by that God's high power and statute. In whose control is all this world that shineth, all that hath powers to see and all that breatheth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। प्र। च। अनति। वि। च। चष्टे। शचीभि:। पुरा। देवस्य। धर्मणा। सह:ऽभ‍ि:। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूति:। २६.२।
+यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। प्र। च। अनति। वि। च। चष्टे। शचीभिः। पुरा। देवस्य। धर्मणा। सहःऽभ‍िः। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूतिः। २६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

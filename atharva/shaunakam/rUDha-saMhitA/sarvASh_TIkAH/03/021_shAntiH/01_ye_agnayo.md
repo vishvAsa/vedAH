@@ -36,10 +36,9 @@ which seems more probable. The division of the verse by the Anukr., 8 +
 All Fires that are in water and in Vritra, all those that man and stones contain within them, That which hath entered herbs and trees and bushes--to all these Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। अग्नय:। अप्ऽसु। अन्त:। ये। वृत्रे। ये। पुरुषे। ये। अश्मऽसु। य:। आऽविवेश। ओषधी:। य:। वनस्पतीन्। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.१।
+ये। अग्नयः। अप्ऽसु। अन्तः। ये। वृत्रे। ये। पुरुषे। ये। अश्मऽसु। यः। आऽविवेश। ओषधीः। यः। वनस्पतीन्। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

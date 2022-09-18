@@ -25,7 +25,6 @@ Ppp. has *sṛjantām* at end of **b**.
 Take up these rice-grains lying at the bottom: led them be blent and mingled with the waters. This water I have measured in the vessel, if as mid-points the rice-grains have been meted.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। स्थापय। सीदतः। बुध्ने। एनान्। अत्ऽभिः। आत्मानम्। अभि। सम्। स्पृशन्ताम्। अमासि। पात्रैः। उदकम्। यत्। एतत्। मिताः। तण्डुलाः। प्रऽदिशः। यदि। इमाः। ३.३०।

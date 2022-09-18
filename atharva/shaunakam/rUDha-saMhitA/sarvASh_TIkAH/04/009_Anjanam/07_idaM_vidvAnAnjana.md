@@ -31,7 +31,6 @@ given under vi. 76. 4.⌋
 I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain both horse and ox, may I obtain thy life, O man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इदम्। विद्वान्। आऽअञ्जन। सत्यम्। वक्ष्यामि। न। अनृतम्। सनेयम्। अश्वम्। गाम्। अहम्। आत्मानम्। तव। पुरुष। ९.७।

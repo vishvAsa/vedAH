@@ -21,7 +21,6 @@ now.'
 As the Calf both his parents so thou joinest both the distant bounds, Surely the Gods up yonder knew this sacred mystery long ago.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उभौ। अन्तौ। सम्। अर्षसि। वत्सः। संमातरौऽइव। ननु। एतत्। इतः। पुरा। ब्रह्म। देवाः। अमी इति। विदुः। 2.१३।

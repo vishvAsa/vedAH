@@ -22,10 +22,9 @@ rewarding⌋, increasing."
 He satisfies each hope and want, prevailing, present and pre- pared. The wish-fulfilling ram, bestowed, white-footed is exhaustless still.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सर्वान्। कामान्। पूरयति। आऽभवन्। प्रऽभवन्। भवन्। आकूतिऽप्र:। अवि:। दत्त:। शितिऽपात्। न। उप। दस्यति। २९.२।
+सर्वान्। कामान्। पूरयति। आऽभवन्। प्रऽभवन्। भवन्। आकूतिऽप्रः। अविः। दत्तः। शितिऽपात्। न। उप। दस्यति। २९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

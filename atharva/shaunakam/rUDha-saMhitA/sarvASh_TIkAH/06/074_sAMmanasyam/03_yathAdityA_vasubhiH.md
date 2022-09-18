@@ -27,10 +27,9 @@ conjectured by BR., and also explained by the comm.
 As, free from jealousy, the strong Adityas have been the Vasus' and the Rudras' fellows. So free from jealousy, Lord of Three Titles! cause thou these people here to be one-minded.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। आदित्या:। वसुऽभि:। सम्ऽबभूवु:। मरुत्ऽभि:। उग्रा:। अहृणीयमाना:। एव। त्रिऽनामन्। अहृणीयमान:। इमान्। जनान्। सम्ऽमनस:। कृधि। इह। ७४.३।
+यथा। आदित्याः। वसुऽभिः। सम्ऽबभूवुः। मरुत्ऽभिः। उग्राः। अहृणीयमानाः। एव। त्रिऽनामन्। अहृणीयमानः। इमान्। जनान्। सम्ऽमनसः। कृधि। इह। ७४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ ca saṁdhī*. Bp. reads *īśé* for *īṣé*.
 The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts its backbones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 खलः। पात्रम्। स्‍फ्यौ। अंसौ। इषे इति। अनूक्ये३ इति। ३.९।

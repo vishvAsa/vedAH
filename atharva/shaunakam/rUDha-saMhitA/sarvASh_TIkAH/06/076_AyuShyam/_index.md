@@ -7,7 +7,6 @@ title = "०७६ आयुष्यम्"
 76. For a kṣatríya's security from death.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आयुष्यम्।  
@@ -18,8 +17,6 @@ title = "०७६ आयुष्यम्"
 
 [Kabandha.—caturṛcam. sāṁtapanāgneyam. ānuṣṭubham: 3. kakummatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 459; Griffith, i. 286.
 
 A benediction on a new-born Kshatriya child
 </details>
+

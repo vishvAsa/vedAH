@@ -23,7 +23,6 @@ the second, and *vardhayatas* for *dhārayatam* in **b**; also *aho* for
 Confirm the princely power in him, Agni and Soma! grant him wealth. In all the circuit of his rule make him yet higher for your friend.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्मै। क्षत्रम्। अग्नीषोमौ। अस्मै। धारयतम्। रयिम्। इमम्। राष्ट्रस्य। अभिऽवर्गे। कृणुतम्। युजे। उत्ऽतरम्। ५४.२।

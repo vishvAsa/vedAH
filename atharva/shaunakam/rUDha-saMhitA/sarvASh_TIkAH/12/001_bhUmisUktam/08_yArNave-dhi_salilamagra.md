@@ -24,7 +24,6 @@ independent construction: '\[assign\] to us brilliancy \[and\] strength,
 She who at first was water in the ocean, whom with their wond- rous powers the sages followed, May she whose heart is in the highest heaven, compassed about wit h truth, and everlasting, May she, this Earth, bestow upon us lustre, and grant us power in loftiest dominion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 या। अर्णवे। अधि। सलिलम्। अग्ने। आसीत्। याम्। मायाभिः। अनुऽअचरन्। मनीषिणः। यस्याः। हृदयम्। परमे। विऽओमन्। सत्येन। आऽवृतम्। अमृतम्। पृथिव्याः। सा। नः। भूमिः। त्विषिम्। बलम्। राष्ट्रे। दधातु। उत्ऽतमे। १.८।

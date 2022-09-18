@@ -29,10 +29,9 @@ rather 'wait upon' (so Grill), only then we should expect rather
 Follow me, Cows, as master of the cattle. Here may this Cow- pen make you grow and prosper, Still while we live may we approach you living, ever increasing with the growth of riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मया। गाव:। गोऽपतिना। सचध्वम्। अयम्। व:। गोऽस्थ:। इह। पोषयिष्णु:। राय:। पोषेण। बहुला:। भवन्ती:। जीवा:। जीवन्ती:। उप। व:। सदेम। १४.६।
+मया। गावः। गोऽपतिना। सचध्वम्। अयम्। वः। गोऽस्थः। इह। पोषयिष्णुः। रायः। पोषेण। बहुलाः। भवन्तीः। जीवाः। जीवन्तीः। उप। वः। सदेम। १४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

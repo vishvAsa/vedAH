@@ -7,7 +7,6 @@ title = "०८४ क्षत्रभृदग्निः"
 84 (89). To Agni: and to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 क्षत्रभृदग्निः।  
@@ -18,8 +17,6 @@ title = "०८४ क्षत्रभृदग्निः"
 
 [Bhṛgu.—tṛcam. āindra,: 1. āgneyī. trāiṣṭubham: 1. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 35, 105; Griffith, i. 371.
 
 A prayer for protection
 </details>
+

@@ -22,7 +22,6 @@ read *varīvartti*.
 He set within the jaws the tongue that reaches far, and thereon placed Speech the mighty Goddess. He wanders to and fro mid living creatures, robed in the waters. Who hath understood it?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 हन्वोः। हि। जिह्वाम्। अदधात्। पुरूचीम्। अध। महीम्। अधि। शिश्राय। वाचम्। सः। आ। वरीवर्ति। भुवनेषु। अन्तः। अपः। वसानः। कः। ऊं इति। तत्। चिकेत। २.७।

@@ -26,10 +26,9 @@ plant to be addressed in **c, d**—which is plainly wrong.
 My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest to my wish and will, and shalt be mine and only mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जिह्वाया:। अग्रे। मधु। मे। जिह्वाऽमूले। मधूलकम्। मम। इत्। अह। क्रतौ। अस:। मम। चित्तम्। उपऽआयसि।
+जिह्वायाः। अग्रे। मधु। मे। जिह्वाऽमूले। मधूलकम्। मम। इत्। अह। क्रतौ। असः। मम। चित्तम्। उपऽआयसि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

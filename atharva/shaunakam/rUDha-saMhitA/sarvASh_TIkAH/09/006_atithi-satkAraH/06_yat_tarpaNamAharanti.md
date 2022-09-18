@@ -18,10 +18,9 @@ Ppp. adds after this verse *yat khātam āharanti puroḍāśā eva te*.
 The libation which they bring; the sacrificial victim dedicated to Agni and Soma which is tied to the post, that, verily, is this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। तर्पणम्। आऽहरन्ति। य:। एव। अग्नीषोमीय:। पशु:। बध्यते। स:। एव। स:। ६.६।
+यत्। तर्पणम्। आऽहरन्ति। यः। एव। अग्नीषोमीयः। पशुः। बध्यते। सः। एव। सः। ६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

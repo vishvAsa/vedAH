@@ -18,7 +18,6 @@ go away, pushed by the spell (*bráhman*).
 As the wind stirs the dust from earth and drives the rain cloud from the sky, So, chased and banished by the spell, all misery departs from me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। वातः। च्यवयति। भूम्याः। रेणुम्। अन्तरिक्षात्। च। अभ्रम्। एव। मत्। सर्वम्। दुःऽभूतम्। ब्रह्मऽनुत्तम्। अप। अयति। १.१३।

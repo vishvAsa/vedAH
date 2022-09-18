@@ -18,7 +18,6 @@ Ppp. gives, for **b**, *samudrasyo 'tadhir eva.*
 Now hath the portal been unclosed as, of the sea that holds the flood: Thus let, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽसितम्। ते। वस्तिऽबिलम्। समुद्रस्य। उदधेःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। वाल्। इति। सर्वकम्।

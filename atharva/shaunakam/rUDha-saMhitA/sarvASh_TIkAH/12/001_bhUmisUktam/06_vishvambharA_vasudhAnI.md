@@ -24,7 +24,6 @@ means 'bringer-to-rest.'⌋
 Firm standing-place, all-bearing, store of treasures, gold-breasted, harbourer of all that moveth. May Earth who bears Agni Vaisvanara, Consort of mighty Indra, give us great possessions
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विश्वम्ऽभरा। वसुऽधानी। प्रतिऽस्था। हिरण्यऽवक्षाः। जगतः। निऽवेशनी। वैश्वानरम्। बिभ्रती। भूमिः। अग्निम्। इन्द्रऽऋषभा। द्रविणे। नः। दधातु। १.६।

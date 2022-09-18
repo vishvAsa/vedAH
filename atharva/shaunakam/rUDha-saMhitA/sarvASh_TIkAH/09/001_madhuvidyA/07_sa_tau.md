@@ -20,10 +20,9 @@ and it puts this verse before our vs. 6.
 He understandeth them, he hath perceived them, her breasts that pour a thousand streams, uninjured. They unreluctantly yield strength and vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। तौ। प्र। वेद। स:। ऊं इति। तौ। चिकेत। यौ। अस्या:। स्तनौ। सहस्रऽधारौ। अक्षितौ। ऊर्जम्। दुहाते इति। अनपऽस्फुरन्तौ। १.७।
+सः। तौ। प्र। वेद। सः। ऊं इति। तौ। चिकेत। यौ। अस्याः। स्तनौ। सहस्रऽधारौ। अक्षितौ। ऊर्जम्। दुहाते इति। अनपऽस्फुरन्तौ। १.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

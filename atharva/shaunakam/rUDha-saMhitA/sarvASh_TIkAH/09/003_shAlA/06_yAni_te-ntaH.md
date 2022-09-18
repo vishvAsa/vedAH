@@ -31,10 +31,9 @@ p. 289. W. has interlined "slings" as an alternative rendering of
 We loose the loops which men have bound within thee, loops to tie and hold. Be gracious, when erected, to our bodies, Lady of the Home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यानि। ते। अन्त:। शिक्यानि। आऽबेधु:। रण्याय। कम्। प्र। ते। तानि। चृतामसि। शिवा। मानस्य। पत्नि। न:। उध्दिता। तन्वे। भव। ३.६।
+यानि। ते। अन्तः। शिक्यानि। आऽबेधुः। रण्याय। कम्। प्र। ते। तानि। चृतामसि। शिवा। मानस्य। पत्नि। नः। उध्दिता। तन्वे। भव। ३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ leftward).
 Hitherward let the sapient come, the friendly sharers o f my speech. That we may give this man relief and raise him from his evil plight.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। आ। यन्तु। प्रऽचेतस:। मेदिनी:। वचस:। मम। यथा। इमम्। पारयामसि। पुरुषम्। दु:ऽइतात्। अधि। ७.७।
+इह। आ। यन्तु। प्रऽचेतसः। मेदिनीः। वचसः। मम। यथा। इमम्। पारयामसि। पुरुषम्। दुःऽइतात्। अधि। ७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

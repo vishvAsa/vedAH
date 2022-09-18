@@ -21,10 +21,9 @@ and *paridhe ’va te;* and it adds its version of 9: *yat parṣeṇam*
 The pillow-coverings that they bring are the green sticks that surround the sacrificial altar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। कशिपुऽउपबर्हणम्। आऽहरन्ति। परिऽधय:। एव। ते। ६.१०।
+यत्। कशिपुऽउपबर्हणम्। आऽहरन्ति। परिऽधयः। एव। ते। ६.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

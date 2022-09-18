@@ -7,7 +7,6 @@ title = "०२१ शत्रुसेनात्रासनम्"
 21. To the war-drum.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुसेनात्रासनम्।  
@@ -18,8 +17,6 @@ title = "०२१ शत्रुसेनात्रासनम्"
 
 [Brahman.—dvādaśakam. vānaspatyaṁ dundubhidevatyam (10-12. ādityādin devān aprārthayat).* ānuṣṭubham: 1, 4, 5. pathyāpan̄kti; 6. jagatī; 11. bṛhatīgarbhā triṣṭubh; 12. 3-p, yavamadhyā gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 374; Griffith, i. 222; Bloomfield, 131, 439; Weber, xviii
 
 A hymn to the War-drum and various deities for victory
 </details>
+

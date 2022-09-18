@@ -7,7 +7,6 @@ title = "१२६ दुन्दुभिः"
 126. To the drum: for success against the foe.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुन्दुभिः।  
@@ -19,8 +18,6 @@ title = "१२६ दुन्दुभिः"
 [Atharvan.—vānaspatyadundubhidevatyam. bhuriktrāiṣṭubham: 3. purobṛhatī virāḍgarbhā triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xv.* (but 1 c, d and 2 a, b are wanting, probably by an er
 ### Translations
 Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Henry, Manuel, p. 156.
 </details>
+

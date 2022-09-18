@@ -24,10 +24,9 @@ avṛtan*. The Anukr. takes no notice of the redundant syllable in **a**.
 Tame beasts have parted from wild beasts, water and thirst have gone apart I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। ग्राम्या:। पशव:। आरण्यै:। वि। आप:। तृष्णया। असरन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.३।
+वि। ग्राम्याः। पशवः। आरण्यैः। वि। आपः। तृष्णया। असरन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

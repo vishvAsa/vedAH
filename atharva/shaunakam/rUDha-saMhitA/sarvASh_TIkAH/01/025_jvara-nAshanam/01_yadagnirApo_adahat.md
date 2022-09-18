@@ -26,10 +26,9 @@ combines to *tā "huḥ.* ⌊Cf. Grohmann's interpretation. l.c., 403, 404.⌋
 When Agni blazed when he had pierced the Waters, whereat the Law-observers paid him homage, There, men assever, was thy loftiest birthplace: O Fever, yield- ing to our prayer avoid us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। अग्नि:। आप:। अदहत्। प्रऽविश्य। यत्र। अकृण्वन्। धर्मऽधृत:। नमांसि। तत्र। ते। आहु:। परमम्। जनित्रम्। स:। न:। समऽविद्वान्। परि। वृङ्ग्धि। तक्मन्।
+यत्। अग्निः। आपः। अदहत्। प्रऽविश्य। यत्र। अकृण्वन्। धर्मऽधृतः। नमांसि। तत्र। ते। आहुः। परमम्। जनित्रम्। सः। नः। समऽविद्वान्। परि। वृङ्ग्धि। तक्मन्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

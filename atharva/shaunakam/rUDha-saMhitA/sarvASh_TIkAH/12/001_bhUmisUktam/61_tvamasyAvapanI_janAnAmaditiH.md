@@ -29,7 +29,6 @@ removing elsewhither the dirt taken out.
 Thou art the vessel that containeth people, Aditi, granter of the wish, far-spreading. Prajapati, the first-born Son of Order, supplieth thee with what- soe'er thou lackest.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वम्। असि। आऽवपनी। जनानाम्। अदितिः। कामऽदुघा। पप्रथाना। यत्। ते। ऊनम्। तत्। ते। आ। पूरयति। प्रजाऽपतिः। प्रथमऽजाः। ऋतस्य। १.६१।

@@ -21,7 +21,6 @@ vadhūyor vāso vadhvaś ca vastram;* and *dhattām* at the end.
 The priestly meed wherewith ye twain present me, the vesture of the bride, the nuptial garment, This do ye both, Brihaspati and Indra, bestow with loving-kind- ness on the Brahman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। मे। दत्तः। ब्रह्मऽभागम्। वधूऽयोः। वाधूऽयम्। वासः। वध्वः। च। वस्त्रम्। युवम्। ब्रह्मणे। अनुऽमन्यमानौ। बृहस्पते। साकम्। इन्द्रः। च। दत्तम्। २.४२।

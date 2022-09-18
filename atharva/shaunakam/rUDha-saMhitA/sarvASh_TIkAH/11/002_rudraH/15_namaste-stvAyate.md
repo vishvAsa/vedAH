@@ -21,7 +21,6 @@ i. 12. 34 and Āp. ix. 2. 9, in both with *rudra* for *astu* in **b**.
 Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when standing still, to thee when seated and at rest!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। रुद्र। तिष्ठते। आसीनाय। उत। ते। नमः। २.१५।

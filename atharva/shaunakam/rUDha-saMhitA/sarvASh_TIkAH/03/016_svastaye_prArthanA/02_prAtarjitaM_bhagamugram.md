@@ -24,10 +24,9 @@ the play on the god's name: 'portion' is *bhága*.⌋
 We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Disposer, Whom each who deems himself poor, strong and mighty, a king, addresses thus, Grant thou my portion!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रात:ऽजितम्। भगम्। उग्रम्। हवामहे। वयम्। पुत्रम्। अदिते:। य:। विऽधर्ता। आध्र:। चित्। यम्। मन्यमान:। तुर:। चित्। राजा। चित्। यम्। भगम्। भक्षि। इति। आह। १६.२।
+प्रातःऽजितम्। भगम्। उग्रम्। हवामहे। वयम्। पुत्रम्। अदितेः। यः। विऽधर्ता। आध्रः। चित्। यम्। मन्यमानः। तुरः। चित्। राजा। चित्। यम्। भगम्। भक्षि। इति। आह। १६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

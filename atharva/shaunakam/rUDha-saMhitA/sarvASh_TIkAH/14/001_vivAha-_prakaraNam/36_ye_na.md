@@ -32,7 +32,6 @@ above, and the ms. reads for **a**: *yan mā nagnā jaghnam*.
 With all the sheen that balmeth wine, or thigh of female para- mour, With all the sheen that balmeth dice, even with this adorn the dame.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। महाऽनघ्न्याः। जघनम्। अश्विना। येन। वा। सुरा। येन। अक्षाः। अभिऽअसिच्यन्त। तेन। इमाम्। वर्चसा। अवतम्। १.३६।

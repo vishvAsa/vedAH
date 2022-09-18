@@ -25,7 +25,6 @@ which the Anukr. gives a different name.
 Be reverence paid to him, that highest Brahma, whose base is Earth, his belly Air, who made the sky to be his head.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। भूमिः। प्रऽमा। अन्तरिक्षम्। उत। उदरम्। दिवम्। यः। चक्रे। मूर्धानम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ७.३२।

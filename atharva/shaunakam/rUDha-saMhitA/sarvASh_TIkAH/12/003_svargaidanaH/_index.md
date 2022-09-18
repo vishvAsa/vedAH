@@ -7,7 +7,6 @@ title = "००३ स्वर्गैदनः"
 3. Cremation as a sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 स्वर्गैदनः।  
@@ -19,8 +18,6 @@ title = "००३ स्वर्गैदनः"
 [Yama.—ṣaṣṭiḥ. mantroktasvargāudanāgnidevatyam. trāiṣṭubham: 1, 42, 43, 47. bhurij; 8, 12, 21, 22, 24. jagatī; 13.?; 17. svarāḍ ārṣī pan̄kti; 34. virāḍgarbhā; 39. anuṣṭubgarbhā; 44. parābṛhatī; 55-60. 3-av. 7-p. śan̄kumaty atijāgataśākvarātiśākvaradhārtyagarbhā ’tidhṛti (55, 57-60. kṛti; 56. virāṭ kṛti).]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Ppp. combines puṅso adhi and omits ihi in a. Kāuś. 60. 31 has the verse used
 
 An accompaniment to the preparation and presentation of sacrificial offerings by a householder and his wife, with prayer for prosperity and happiness on earth and in heaven
 </details>
+

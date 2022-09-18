@@ -21,10 +21,9 @@ have *-śan*.
 The Waters are the best, and heavenly Plants. From every limb of thine have they removed Consumption caused by sin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आप:। अग्रम्। दिव्या:। ओषधय:। ता:। ते। यक्ष्मम्। एनस्यम्। अङ्गात्ऽअङ्गात्। अनीनशन्। ७.३।
+आपः। अग्रम्। दिव्याः। ओषधयः। ताः। ते। यक्ष्मम्। एनस्यम्। अङ्गात्ऽअङ्गात्। अनीनशन्। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

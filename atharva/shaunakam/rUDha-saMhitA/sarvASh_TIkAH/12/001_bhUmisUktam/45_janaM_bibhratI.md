@@ -23,7 +23,6 @@ with the preceding: cf. note to vs. 44.⌋
 Earth, bearing folk of many a varied language with divers rites as suits their dwelling-places, Pour, like a constant cow that never faileth, a thousand streams of treasure to enrich me!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जनम्। बिभ्रती। बहुऽधा। विऽवाचसम्। नानाऽधर्माणम्। पृथिवी। यथाऽओकसम्। सहस्रम्। धाराः। द्रविणस्य। मे। दुहाम्। ध्रुवाऽइव। धेनुः। अनपऽस्‍फुरन्ती। १.४५।

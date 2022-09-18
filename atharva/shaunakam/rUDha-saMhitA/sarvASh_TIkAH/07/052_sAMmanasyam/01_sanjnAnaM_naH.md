@@ -21,10 +21,9 @@ to RV. x. 191; TB. reads *svāís* and *áraṇāis* in **a, b**; MS. and the
 Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, in this place join us in sympathy and love.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्ऽज्ञानम्। न:। स्वेभि:। सम्ऽज्ञानम्। अरणेभि:। सम्ऽज्ञानम्। अश्विना। युवम्। इह। अस्मासु। नि। यच्छतम्। ५४.१।
+सम्ऽज्ञानम्। नः। स्वेभिः। सम्ऽज्ञानम्। अरणेभिः। सम्ऽज्ञानम्। अश्विना। युवम्। इह। अस्मासु। नि। यच्छतम्। ५४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ for consistency, read *ójasvānt s-*.
 Verily let this Amulet, circular, potent, conquering, Happy and fortunate defence, preserve thy children and thy wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। इत्। वै। प्रतिऽवर्त:। ओजस्वान्। सम्ऽजय:। मणि:। प्रऽजाम्। धनम्। च। रक्षतु। परिऽपान:। सुऽमङ्गल:। ५.१६।
+अयम्। इत्। वै। प्रतिऽवर्तः। ओजस्वान्। सम्ऽजयः। मणिः। प्रऽजाम्। धनम्। च। रक्षतु। परिऽपानः। सुऽमङ्गलः। ५.१६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

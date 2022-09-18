@@ -19,7 +19,6 @@ in **c**; our text follows the two.
 If hundred other Brahmans beg the Cow of him who owneth her, The Gods have said, She, verily, belongs to him who knows the truth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अन्ये। शतम्। याचेयुः। ब्राह्मणाः। गोऽपतिम्। वशाम्। अथ। एनाम्। देवाः। अब्रुवन्। एवम्। ह। विदुषः। वशा। ४.२२।

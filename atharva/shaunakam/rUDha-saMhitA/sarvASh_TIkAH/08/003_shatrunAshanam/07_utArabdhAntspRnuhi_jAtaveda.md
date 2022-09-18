@@ -34,10 +34,9 @@ take it from root *ribh:* cf. note to vs. 21.⌋ Ppp. has our version of
 Rescue the captives also, Jatavedas! yea, those whom Yatudha- nas' spears have captured. Strike down that fiend, blazing before him, Agni! Let spotted carrion-eating kites devour him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। आऽरब्धान्। स्पृणुहि। जातऽवेद:। उत। आऽरेभाणान्। ऋष्टिऽभि:। यातुऽधानान्। अग्ने। पूर्व:। नि। जहि। शोशुचान:। आमऽअद:। क्ष्विङ्का:। तम्। अदन्तु। एनी:। ३.७।
+उत। आऽरब्धान्। स्पृणुहि। जातऽवेदः। उत। आऽरेभाणान्। ऋष्टिऽभिः। यातुऽधानान्। अग्ने। पूर्वः। नि। जहि। शोशुचानः। आमऽअदः। क्ष्विङ्काः। तम्। अदन्तु। एनीः। ३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

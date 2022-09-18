@@ -19,10 +19,9 @@ Ppp. reads *etu* in **c**.
 This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, and mighty, goes bravely forth to meet and ruin witchcraft.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अयम्। मणि:। सपत्नऽहा। सुऽवीर:। सहस्वान्। वाजी। सहमान:। उग्र:। प्रत्यक्। कृत्या:। दूषयन्। एति। वीर:। ५.२।
+अयम्। मणिः। सपत्नऽहा। सुऽवीरः। सहस्वान्। वाजी। सहमानः। उग्रः। प्रत्यक्। कृत्याः। दूषयन्। एति। वीरः। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

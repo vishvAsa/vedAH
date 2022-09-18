@@ -34,10 +34,9 @@ the verse, and **d** becomes regularly *triṣṭubh* by combining *kóśe
 Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies escape thee. There let the villain sit with hanging belly and bandaged like a cask whose hoops are broken.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतेन। पाशै:। अभि। धेहि। वरुण। एनम्। मा। ते। मोचि। अनृतऽवाक्। नृऽचक्ष:। आस्ताम्। जाल्म:। उदरम्। श्रंशयित्वा। कोश:ऽइव। अबन्ध:। परिऽकृत्यमान:। १६.७।
+शतेन। पाशैः। अभि। धेहि। वरुण। एनम्। मा। ते। मोचि। अनृतऽवाक्। नृऽचक्षः। आस्ताम्। जाल्मः। उदरम्। श्रंशयित्वा। कोशःऽइव। अबन्धः। परिऽकृत्यमानः। १६.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

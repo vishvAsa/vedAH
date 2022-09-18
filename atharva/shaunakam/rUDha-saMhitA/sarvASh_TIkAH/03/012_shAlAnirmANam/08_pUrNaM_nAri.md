@@ -35,7 +35,6 @@ entrance into the new dwelling, the wife first, carrying a water-jar.
 Bring hitherward, O dame, the well-filled pitcher, the stream of molten butter blent with nectar. Bedew these drinkers with a draught of Amrit. May all our hopes' fulfilment guard this dwelling.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पूर्णम्। नारि। प्र। भर। कुम्भम्। एतम्। घृतस्य। धाराम्। अमृतेन। सम्ऽभृताम्। इमाम्। पातृृन्। अमृतेन। सम्। अङ्ग्धि। इष्टापूर्तम्। अभि। रक्षाति। एनाम्। १२.८।

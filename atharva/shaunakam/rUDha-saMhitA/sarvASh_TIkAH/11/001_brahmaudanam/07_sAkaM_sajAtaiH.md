@@ -22,7 +22,6 @@ explains *ud ubja* as *ud gamaya unnataśiraskāṁ kuru*. Ppp. reads
 Increase with kinsmen and with all abundance: to mighty strength and power lift up this woman. Erect, rise upward to the sky's high station, rise to the lofty world which men call Svarga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 साकम्। सऽजातैः। पयसा। सह। एधि। उत्। उब्ज। एनाम्। महते। वीर्याय। ऊर्ध्वः। नाकस्य। अधि। रोह। विष्टपम्। स्वःऽगः। लोकः। इति। यम्। वदन्ति। १.७।

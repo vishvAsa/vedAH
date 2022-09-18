@@ -23,10 +23,9 @@ Védique*, iii. 155 n.⌋
 Go forward, feet, press quickly on, bring to the house of him who pays. Unconquered and unplundered, let Indranf, foremost, lead the way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। इतम्। पादौ। प्र। स्फुरतम्। वहतम्। पृणत:। गृहान्। इन्द्राणी। एतु। प्रथमा। अजीता। अमुषिता। पुर:।
+प्र। इतम्। पादौ। प्र। स्फुरतम्। वहतम्। पृणतः। गृहान्। इन्द्राणी। एतु। प्रथमा। अजीता। अमुषिता। पुरः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

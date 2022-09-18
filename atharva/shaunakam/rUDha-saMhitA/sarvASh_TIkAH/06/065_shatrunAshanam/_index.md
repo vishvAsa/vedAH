@@ -7,7 +7,6 @@ title = "०६५ शत्रुनाशनम्"
 65. For success against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "०६५ शत्रुनाशनम्"
 
 [Atharvan (?).—cāndram utāi ”ndram; pārāśaryam. ānuṣṭubham: 1. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 372; Griffith, i. 281.
 
 A sacrificial charm against enemies
 </details>
+

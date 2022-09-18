@@ -21,7 +21,6 @@ The *āindrāgna* and *pāvamāna* are explained by the comm. as two
 Within the Residue, like babes unborn, the parts of sacrifice, Aindragne Pavamana lie. Mahanamni, Mahavrata.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऐन्द्राग्नम्। पावमानम्। महाऽनाम्नीः। महाऽव्रतम्। उत्ऽशिष्टे। यज्ञस्य। अङ्गानि। अन्तः। गर्भःऽइव। मातरि। ९.६।

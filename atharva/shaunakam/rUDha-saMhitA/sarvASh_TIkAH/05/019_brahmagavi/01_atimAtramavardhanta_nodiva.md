@@ -24,10 +24,9 @@ Weber's notes.⌋
 The sons of Vitahavya, the Srinjayas, waxed exceeding strong. They well-nigh touched the heavens, but they wronged Bhrigu and were overthrown.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अतिऽमात्रम्। अवर्धन्त। न। उत्ऽइव। दिवम्। अस्पृशन्। भृगुम्। हिंसित्वा। सृन्ऽजया:। वैतऽहव्या:। परा। अभवन्। १९.१।
+अतिऽमात्रम्। अवर्धन्त। न। उत्ऽइव। दिवम्। अस्पृशन्। भृगुम्। हिंसित्वा। सृन्ऽजयाः। वैतऽहव्याः। परा। अभवन्। १९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

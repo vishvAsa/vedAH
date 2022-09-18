@@ -22,10 +22,9 @@ even a *pragṛhya;* part of the mss. (M.W.I.H.O.) read *ubhá e-*.
 Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth through folly Indra sets fire alight within his bosom. He who acts thus is loathed by Earth and Heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। एनम्। हन्ति। मृदुम्। मन्यमान:। देवऽपीयु:। धनऽकाम:। न। चित्तात्। सम्। तस्य। इन्द्र:। हृदये। अग्निम्। इन्धे। उभे इति। एनम्। द्विष्ट:। नभसी इति। चरन्तम्। १८.५।
+यः। एनम्। हन्ति। मृदुम्। मन्यमानः। देवऽपीयुः। धनऽकामः। न। चित्तात्। सम्। तस्य। इन्द्रः। हृदये। अग्निम्। इन्धे। उभे इति। एनम्। द्विष्टः। नभसी इति। चरन्तम्। १८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

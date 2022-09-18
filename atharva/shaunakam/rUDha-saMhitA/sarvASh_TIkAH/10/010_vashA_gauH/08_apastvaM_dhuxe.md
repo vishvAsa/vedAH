@@ -20,7 +20,6 @@ necessity of reckoning the verse as *virāj*. Ppp. combines in **b**
 Thou pourest out the Waters first, and corn-lands afterward, O Cow. Thirdly thou pourest princely sway. O Cow, thou pourest food and milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अपः। त्वम्। धुक्षे। प्रथमाः। उर्वराः। अपराः। वशे। तृतीयम्। राष्ट्रम्। धुक्षे। अन्नम्। क्षीरम्। वशे। त्वम्। १०.८।

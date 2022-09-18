@@ -7,7 +7,6 @@ title = "०१० पाप -विमोचनम्"
 10. For some one's release from Varuṇa's wrath.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाप -विमोचनम्।  
@@ -18,8 +17,6 @@ title = "०१० पाप -विमोचनम्"
 
 [Atharvan.—āsuram, vāruṇam. trāiṣṭubham: 3, 4. anuṣṭubh (3. kakummati).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 403; Ludwig, p. 445; Griffith, i. 13; Bloomfield, 11, 241
 
 Absolution of a sinner after intercession with Varuna
 </details>
+

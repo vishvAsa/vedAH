@@ -7,7 +7,6 @@ title = "०२५ पृश्निपर्णी"
 25. Against káṇvas: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पृश्निपर्णी।  
@@ -18,8 +17,6 @@ title = "०२५ पृश्निपर्णी"
 
 [Cātana.—vānaspatyam. ānuṣṭubham: 4. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xiii. 187; Grill, 20, 92; Griffith, i. 64; Bloomfield, 36, 30
 
 A charm against fiends who cause abortion
 </details>
+

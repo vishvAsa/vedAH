@@ -26,10 +26,9 @@ conjecture made at the former occurrence of this pāda at iii. 22. 1
 To him may Dhatar grant all kinds of blessings who, craving children, serves him in his dwelling. Him may the Gods invest with life eternal, yea, all the Gods and Aditi accordant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। विश्वा। वार्या। दधातु। प्रजाऽकामाय। दाशुषे। दुरोणे। तस्मै। देवा:। अमृतम्। सम्। व्ययन्तु। विश्वे। देवा:। अदिति:। सऽजोषा:। १८.३।
+धाता। विश्वा। वार्या। दधातु। प्रजाऽकामाय। दाशुषे। दुरोणे। तस्मै। देवाः। अमृतम्। सम्। व्ययन्तु। विश्वे। देवाः। अदितिः। सऽजोषाः। १८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

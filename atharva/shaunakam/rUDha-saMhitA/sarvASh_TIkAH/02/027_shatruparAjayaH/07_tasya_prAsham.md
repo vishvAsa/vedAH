@@ -21,10 +21,9 @@ explains by *vākyam*, and that in his **d** by *praṣṭāram.*
 Indra, defeat the speech of him who meets us with hostility. Comfort us with thy power and might. Make me superior in debate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्य। प्राशम्। त्वम्। जहि। य:। न:। इन्द्र। अभिऽदासति। अधि। न:। ब्रूहि। शक्तिऽभि:। प्राशि। माम्। उत्ऽतरम्। कृधि। २७.७।
+तस्य। प्राशम्। त्वम्। जहि। यः। नः। इन्द्र। अभिऽदासति। अधि। नः। ब्रूहि। शक्तिऽभिः। प्राशि। माम्। उत्ऽतरम्। कृधि। २७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

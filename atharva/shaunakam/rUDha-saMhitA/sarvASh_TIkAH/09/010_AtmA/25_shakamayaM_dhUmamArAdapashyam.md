@@ -21,7 +21,6 @@ Soc. de linguistique*, ix. 247, cites the vs.⌋
 1 saw from far away the smoke of fuel with spires that rose on high o'er that beneath it. The heroes cooked and dressed the spotted bullock. These were the customs in the days aforetime.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शकऽमयम्। धूमम्। आरात्। अपश्यम्। विषुऽवता। परः। एना। अवरेण। उक्षाणम्। पृश्निम्। अपचन्त। वीराः। तानि। धर्माणि। प्रथमानि। आसन्। १५.२५।

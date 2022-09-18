@@ -21,7 +21,6 @@ With **b** compare ii. 13. 4 **b**. Pāda **d** is RV. iii. 16. 5 **d**.
 Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy strength drive far away malignities and hateful things.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ज्याके। परि। नः। नम। अश्मानम्। तन्वम्। कृधि। वीडुः। वरीयः। अरातीः। अप। द्वेषांसि। आ। कृधि।

@@ -22,10 +22,9 @@ calls the whole hymn "Würfelsegen" ('a blessing for dice').
 Haunters of darkness, shrill in voice, dice-lovers, maddeners of the mind To these have I paid homage, the Gandharva's wives, Apsarases.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। क्लन्दा:। तमिषीचय:। अक्षऽकामा:। मन:ऽमुह:। ताभ्य:। गन्धर्वऽपत्नीभ्य:। अप्सराभ्य:। अकरम्। नम:। २.५।
+याः। क्लन्दाः। तमिषीचयः। अक्षऽकामाः। मनःऽमुहः। ताभ्यः। गन्धर्वऽपत्नीभ्यः। अप्सराभ्यः। अकरम्। नमः। २.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

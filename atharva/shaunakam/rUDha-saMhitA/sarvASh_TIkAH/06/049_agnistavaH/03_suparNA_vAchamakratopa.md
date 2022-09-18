@@ -25,10 +25,9 @@ has *divi* instead of *dyavi* in **a**. Ppp. has a very original **d**:
 The Eagles have sent forth their voice aloud to heaven: in the sky's vault the dark impetuous ones have danced. When they come downward to repair the lower stone, they, dwellers with the Sun, have gained abundant seed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुऽपर्णा:। वाचम्। अक्रत। उप। द्यवि। आऽखरे। कृष्णा:। इषिरा:। अनर्तिषु:। नि। यत्। निऽयन्ति। उपरस्य। नि:ऽकृतिम्। पुरु। रेत:। दधिरे। सूर्यऽश्रित:। ४९.३।
+सुऽपर्णाः। वाचम्। अक्रत। उप। द्यवि। आऽखरे। कृष्णाः। इषिराः। अनर्तिषुः। नि। यत्। निऽयन्ति। उपरस्य। निःऽकृतिम्। पुरु। रेतः। दधिरे। सूर्यऽश्रितः। ४९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

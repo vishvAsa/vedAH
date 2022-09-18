@@ -21,10 +21,9 @@ Our *pada*-text divides the last word as *su-prāyanā́ḥ,* while the RV.
 Let the expansive Doors be widely opened, like wives who deck their beauty for their husbands. Lofty, celestial, all-impelling Portals, admit the Gods and give them easy entrance!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-व्यचस्वती:। उर्विया। वि। श्रयन्ताम्। पतिऽभ्य:। न। जनय:। शुम्भमाना:। देवी:। द्वार:। बृहती:। विश्वम्ऽइन्वा:। देवेभ्य:। भवत। सुऽप्रायना:। १२.५।
+व्यचस्वतीः। उर्विया। वि। श्रयन्ताम्। पतिऽभ्यः। न। जनयः। शुम्भमानाः। देवीः। द्वारः। बृहतीः। विश्वम्ऽइन्वाः। देवेभ्यः। भवत। सुऽप्रायनाः। १२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

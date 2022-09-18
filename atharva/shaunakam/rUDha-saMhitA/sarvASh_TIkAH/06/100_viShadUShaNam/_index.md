@@ -7,7 +7,6 @@ title = "१०० विषदूषणम्"
 100. Against poison.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विषदूषणम्।  
@@ -19,8 +18,6 @@ title = "१०० विषदूषणम्"
 [Garutman.—vānaspatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Used by Kāuś. (31. 26) in a remedial rite against v
 ### Translations
 Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Bergaigne-Henry, Manuel, p. 153; Bloomfield, AJP. vii. 482. Griffith quotes an interesting paragraph about the moisture of the white-ants.
 </details>
+

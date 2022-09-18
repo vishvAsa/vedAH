@@ -21,10 +21,9 @@ reading *pra harataṁ* for *vartayatam* in **a**.
 Indra and Soma, hurl your deadly crushing bolt down on the wicked fiend from heaven and from the earth. Yea, fashion from the big clouds your celestial dart wherewith ye burn to death the waxing demon race.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्रासोमा। वर्तयतम्। दिव:। वधम्। सम्। पृथिव्या:। अघऽशंसाय। तर्हणम्। उत्। तक्षतम्। स्वर्यम्। पर्वतेभ्य:। येन। रक्ष:। ववृधानम्। निऽजूर्वथ:। ४.४।
+इन्द्रासोमा। वर्तयतम्। दिवः। वधम्। सम्। पृथिव्याः। अघऽशंसाय। तर्हणम्। उत्। तक्षतम्। स्वर्यम्। पर्वतेभ्यः। येन। रक्षः। ववृधानम्। निऽजूर्वथः। ४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

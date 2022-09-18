@@ -19,10 +19,9 @@ vāruṇo* (*vā 'ruṇo?*) *'si*.
 Be thou distress, or agonizing torment, be thou the son King Varuna hath begotten, Rack isthy name, God of the sickly yellow! O Fever, yielding to our prayer avoid us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। शोक:। यदि। वा। अभिऽशोक:। यदि। वा। राज्ञ:। वरुणस्य। असि। पुत्र:। ह्रुडु:। नाम। असि। हरितस्य। देव। स:। न:। सम्ऽविद्वान्। परि। वृङ्ग्धि। तक्मन्।
+यदि। शोकः। यदि। वा। अभिऽशोकः। यदि। वा। राज्ञः। वरुणस्य। असि। पुत्रः। ह्रुडुः। नाम। असि। हरितस्य। देव। सः। नः। सम्ऽविद्वान्। परि। वृङ्ग्धि। तक्मन्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

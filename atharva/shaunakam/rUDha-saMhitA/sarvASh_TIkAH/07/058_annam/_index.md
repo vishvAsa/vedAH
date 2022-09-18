@@ -7,7 +7,6 @@ title = "०५८ अन्नम्"
 58 (60). Invitation to Indra and Varuṇa.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अन्नम्।  
@@ -18,8 +17,6 @@ title = "०५८ अन्नम्"
 
 [Kāurupathi.—dvyṛcam. mantroktadevatyam. jāgatam: 2. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 23, 85; Griffith, i. 355.
 
 An invitation to Indra and Varuna
 </details>
+

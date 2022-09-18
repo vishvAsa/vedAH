@@ -18,10 +18,9 @@ The fourth pāda lacks a syllable.
 Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, Arati! as oppressor, one who penetrates.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर:। अप। इहि। असम्ऽऋघ्दे। वि। ते। हेतिम्। नयामसि। वेद। त्वा। अहम्। निऽमीवन्तीम्। निऽतुदन्तीम्। अराते। ७.७।
+परः। अप। इहि। असम्ऽऋघ्दे। वि। ते। हेतिम्। नयामसि। वेद। त्वा। अहम्। निऽमीवन्तीम्। निऽतुदन्तीम्। अराते। ७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

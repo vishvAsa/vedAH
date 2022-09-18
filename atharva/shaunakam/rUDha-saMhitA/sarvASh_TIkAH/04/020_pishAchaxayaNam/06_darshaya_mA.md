@@ -19,10 +19,9 @@ kimīdinam*.
 Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas With this prayer, O Plant, I hold thee fast.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दर्शय। मा। यातुऽधानान्। दर्शय। यातुऽधान्य:। पिशाचान्। सर्वान्। दर्शय। इति। त्वा। आ। रभे। ओषधे। २०.६।
+दर्शय। मा। यातुऽधानान्। दर्शय। यातुऽधान्यः। पिशाचान्। सर्वान्। दर्शय। इति। त्वा। आ। रभे। ओषधे। २०.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

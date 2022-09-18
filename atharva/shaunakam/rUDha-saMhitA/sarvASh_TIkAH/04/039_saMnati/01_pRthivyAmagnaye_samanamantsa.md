@@ -26,10 +26,9 @@ from 38 to 40. ⌊We might have expected the epithet *tryavasāna*
 Agni no earth kath had mine homage. May he bless me. As I have bowed me down to Agni on the earth, so let the Favouring Graces bow them down to me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पृथिव्याम्। अग्नये। सम्। अनमन्। स:। आर्ध्नोत्। यथा। पृथिव्याम्। अग्नये। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनम:। सम्। नमन्तु। ३९.१।
+पृथिव्याम्। अग्नये। सम्। अनमन्। सः। आर्ध्नोत्। यथा। पृथिव्याम्। अग्नये। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

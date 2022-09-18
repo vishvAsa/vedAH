@@ -23,10 +23,9 @@ bow-string'?⌋.
 His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped heads of arrows, With these the Brahman pierces through blasphemers, with God-sped bows that quell the hearts within them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जिह्वा। ज्या। भवति। कुल्मलम्। वाक्। नाडीका:। दन्ता:। तपसा। अभिऽदिग्धा:। तेभि:। ब्रह्मा। विध्यति। देवऽपीयून्। हृत्ऽबलै:। धनु:ऽभि:। देवऽजूतै:। १८.८।
+जिह्वा। ज्या। भवति। कुल्मलम्। वाक्। नाडीकाः। दन्ताः। तपसा। अभिऽदिग्धाः। तेभिः। ब्रह्मा। विध्यति। देवऽपीयून्। हृत्ऽबलैः। धनुःऽभिः। देवऽजूतैः। १८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

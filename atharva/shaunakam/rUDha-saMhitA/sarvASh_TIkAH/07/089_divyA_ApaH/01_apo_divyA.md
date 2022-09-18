@@ -28,10 +28,9 @@ agrees in a with RV., and has *aganmahi* in **b**. The comm. glosses
 The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni, bearing milk, am I. Endow me with the gift of strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप:। दिव्या:। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ९४.१।
+अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ९४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

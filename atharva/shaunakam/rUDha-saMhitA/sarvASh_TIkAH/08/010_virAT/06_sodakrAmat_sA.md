@@ -18,7 +18,6 @@ This superfluous equivalent of §5 is wanting in Ppp.
 She mounted up, she passed within the meeting. He who knows this becomes fit for the meeting, and to his hall of meeting come the people.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। दक्षिणऽअग्नौ। नि। अक्रामत्। १०.६।

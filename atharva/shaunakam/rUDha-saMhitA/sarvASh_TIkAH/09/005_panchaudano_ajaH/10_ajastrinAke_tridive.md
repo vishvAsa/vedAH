@@ -23,10 +23,9 @@ spite of its irregularity, is by the Anukr. reckoned simply a *jagatī*
 The Goat Panchaudana, given to a Brahman, sets the bestower on the pitch of heaven, In the third vault, third sky, third ridge. One only Cow omni- form art thou, that yields all wishes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अज:। त्रिऽनाके। त्रिऽदिवे। त्रिऽपृष्ठे। नाकस्य। पृष्ठे। ददिऽवांसम्। दधाति। पञ्चऽओदन:। ब्रह्मणे। दीयमान:। विश्वऽरूपा। धेनु:। कामऽदुघा। असि। एका। ५.१०।
+अजः। त्रिऽनाके। त्रिऽदिवे। त्रिऽपृष्ठे। नाकस्य। पृष्ठे। ददिऽवांसम्। दधाति। पञ्चऽओदनः। ब्रह्मणे। दीयमानः। विश्वऽरूपा। धेनुः। कामऽदुघा। असि। एका। ५.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

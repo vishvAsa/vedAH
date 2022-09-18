@@ -26,7 +26,6 @@ expresses the same doubt, WZKM. viii. 369: cf. his *Todtengebräuche*, p.
 On pathways swept by wind, directed upward, passing beyond the lower, on the higher, Thrice seven times have the Rishis, the Departed, forced Mrityu backward with the fastened fetter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उदीचीनैः। पथिऽभिः। वायुमत्ऽभिः। अतिऽक्रामन्तः। अवरान्। परेभिः। त्रिः। सप्त। कृत्वः। ऋषयः। पराऽइता। मृत्युम्। प्रति। औहन्। पदऽयोपनेन। २.२९।

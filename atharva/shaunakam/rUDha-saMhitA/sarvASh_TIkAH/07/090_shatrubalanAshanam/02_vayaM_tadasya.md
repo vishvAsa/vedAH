@@ -27,10 +27,9 @@ both.
 May we with Indra's help divide the gathered treasure of the foe. I, by the law of Varuna, bring down thy pride and wantonness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वयम्। तत्। अस्य। सम्ऽभृतम्। वसु। इन्द्रेण। वि। भजामहै। म्लापयामि। भ्रज:। शिभ्रम्। वरुणस्य। व्रतेन। ते। ९५.२।
+वयम्। तत्। अस्य। सम्ऽभृतम्। वसु। इन्द्रेण। वि। भजामहै। म्लापयामि। भ्रजः। शिभ्रम्। वरुणस्य। व्रतेन। ते। ९५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

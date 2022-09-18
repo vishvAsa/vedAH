@@ -19,10 +19,9 @@ our text *īṣiré* at the end (an accent-sign, lost under *ṣi*).
 If men have spat upon, or shot their rheum upon a Brahman, they. Sit in the middle of a stream running with blood, devouring hair.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। ब्राह्मणम्। प्रतिऽअष्ठीवन्। ये। वा। अस्मिन्। शुल्कम्। ईषिरे। अस्न:। ते। मध्ये। कुल्याया:। केशान्। खादन्त:। आसते। १९.३।
+ये। ब्राह्मणम्। प्रतिऽअष्ठीवन्। ये। वा। अस्मिन्। शुल्कम्। ईषिरे। अस्नः। ते। मध्ये। कुल्यायाः। केशान्। खादन्तः। आसते। १९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ in Kāuś. 77. 20 as the bride enters her new abode.
 Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband and his father, enter this home, mild to thy hus- band's mother.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुऽमङ्गली। प्रऽतरणी। गृहाणाम्। सुऽशेवा। पत्ये। श्वशुराय। शम्ऽभूः। स्योना। श्वश्वै। प्र। गृहान्। विश। इमान्। २.२६।

@@ -32,7 +32,6 @@ is 214 + 88\].⌋
 They call him Indra, Mitra, Varuna, Agni; and he is heavenly nobly-winged Garutman. That which is One bards call by many a title: they call It Agni, Yama, Matariswan.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रम्। मित्रम्। वरुणम्। अग्निम्। आहुः। अथो इति। दिव्यः। सः। सुऽपर्णः। गरुत्मान्। एकम्। सत्। विप्राः। बहुऽधा। वदन्ति। अग्निम्। यमम्। मातरिश्वानम्। आहुः। १५.२८।

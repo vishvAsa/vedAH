@@ -28,7 +28,6 @@ regards both meter and sense; perhaps it has blundered in here out of
 Fix on the skin these two joined press-stones, duly rending the fibres for the sacrificer. Strike down and slay those who assail this woman, and elevating raise on high her offspring.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतौ। ग्रावाणौ। सऽयुजा। युङ्ग्धि। चर्मणि। निः। भिन्धि। अंशून्। यजमानाय। साधु। अवऽघ्नती। नि। जहि। ये। इमाम्। पृतन्यवः। ऊर्ध्वम्। प्रऽजाम्। उत्ऽभरन्ती। उत्। ऊह। १.९।

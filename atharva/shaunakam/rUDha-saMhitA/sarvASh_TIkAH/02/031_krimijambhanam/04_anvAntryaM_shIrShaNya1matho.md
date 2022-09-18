@@ -33,7 +33,6 @@ not defined together, to make repetition needless, does not appear. ⌊in
 The worm that lives within the ribs, within the bowels, in the head. Avaskava and Borer, these we bruise to pieces with the spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनुऽआन्त्र्यम्। शीर्षण्यम्। अथो इति। पार्ष्टेयम्। क्रिमीन्। अवस्कवम्। विऽअध्वरम्। क्रिमीन्। वचसा। जम्भयामसि। ३१.४।

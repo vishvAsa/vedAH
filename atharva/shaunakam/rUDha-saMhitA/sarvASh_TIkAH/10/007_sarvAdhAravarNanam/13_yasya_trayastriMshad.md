@@ -18,7 +18,6 @@ Wanting in Ppp., as noted above.
 Who out of many, tell me, is that Skambha He in whose body are contained all three-and-thirty Deities?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। त्रयःऽत्रिंशत्। देवाः। अङ्गे। सर्वे। सम्ऽआहिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१३।

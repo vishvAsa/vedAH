@@ -22,7 +22,6 @@ of its pādas have 12 syllables.
 The wheel revolves, unwasting, with its felly: ten draw it, yoked to the far-stretching car-pole. Girt by the region moves the eye of Surya, on whom dependent rest all living creatures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सऽनेमि। चक्रम्। अजरम्। वि। ववृते। उत्तानायाम्। दश। युक्ताः। वहन्ति। सूर्यस्य। चक्षुः। रजसा। एति। आऽवृतम्। यस्मिन्। आऽतस्थुः। भुवनानि। विश्वा। १४.१४।

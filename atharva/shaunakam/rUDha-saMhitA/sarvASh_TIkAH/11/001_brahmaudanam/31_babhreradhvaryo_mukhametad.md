@@ -28,7 +28,6 @@ gartarūpam;* what is meant is obscure.
 Adhvaryu, cleanse that face of the Supporter. Make room, well knowing, for the molten butter. Purify duly all the limbs with fatness. I make a path to heaven amid the Fathers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बभ्रेः। अध्वर्यो इति। मुखम्। एतत्। वि। मृड्ढि। आज्याय। लोकम्। कृणुहि। प्रऽविद्वान्। घृतेन। गात्रा। अनु। सर्वा। वि। मृड्ढि। कृण्वे। पन्थाम्। पितृषु। यः। स्वःऽगः। १.३१।

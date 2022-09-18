@@ -30,7 +30,6 @@ delivery (cf. i. 11. 4-6).⌋
 Let it maintain the genial seed: let the laid embryo rest secure. Let both strong Healers, to be worn within the girdle, guard the babe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 परिऽसृष्टम्। धारयतु। यत्। हितम्। मा। अव। प‍ादि। तत्। गर्भम्। ते। उग्रौ। रक्षताम्। भेषजौ। नीविऽभार्यौ। ६.२०।

@@ -25,7 +25,6 @@ the strewing of the *barhis*.
 Strew ye fresh grass for the boiled rice to rest on: fair let it be, sweet to the eye and spirit. Hither come Goddesses with Gods, and sitting here taste in proper season this oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नवम्। बर्हिः। ओदनाय। स्तृणीत। प्रियम्। हृदः। चक्षुषः। वल्गु। अस्तु। तस्मिन्। देवाः। सह। दैवीः। विशन्तु। इमम्। प्र। अश्नन्तु। ऋतुऽभिः। निऽसद्य। ३.३२।

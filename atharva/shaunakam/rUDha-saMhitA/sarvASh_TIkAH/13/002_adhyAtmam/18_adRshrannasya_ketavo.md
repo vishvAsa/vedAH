@@ -20,7 +20,6 @@ our text.
 His herald rays are seen afar refulgent o'er the world of men, Like flames of fire that burn and blaze.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अदृश्रन्। अस्य। केतवः। वि। रश्मयः। जनान्। अनु। भ्राजन्तः। अग्नयः। यथा। २.१८।

@@ -27,7 +27,6 @@ Anukr. says *ṣaṭ śatvāriṅśat*.⌋
 Agni is weakened by the people's fuel to meet the Dawn who cometh like a milch-cow, Like young trees shooting up on high their branches, his flames are mounting to the vault of heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अबोधि। अग्निः। सम्ऽइधा। जनानाम्। प्रति। धेनुम्ऽइव। आऽयतीम्। उषसम‌्। यह्वाःऽइव। प्र। वयाम्। उत्ऽजिहानाः। प्र। भानवः। सिस्रते। नाकम्। अच्छ। २.४६।

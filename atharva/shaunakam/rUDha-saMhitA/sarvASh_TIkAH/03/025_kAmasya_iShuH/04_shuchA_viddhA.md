@@ -23,10 +23,9 @@ M.W. read *vyóṣa*⌋.
 Pierced through with fiercely-burning heat, steal to me with thy parching lips, Gentle and humble, all mine own, devoted, with sweet words of love.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शुचा। विध्दा। विऽओषया। शुष्कऽआस्या। अभि। सर्प। मा। मृदु:। निऽमन्यु:। केवली। प्रियऽवादिनी। अनुऽव्रता। २५.४।
+शुचा। विध्दा। विऽओषया। शुष्कऽआस्या। अभि। सर्प। मा। मृदुः। निऽमन्युः। केवली। प्रियऽवादिनी। अनुऽव्रता। २५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

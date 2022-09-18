@@ -19,7 +19,6 @@ The comm. explains *bradhna* as *sūryamaṇḍalamadhyavartī ”śvaraḥ*, an
 ताभ्या॑मेनं॒ प्राशि॑षं॒ ताभ्या॑मेनमजीगमम् ॥५॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एतत्। वै। ब्रध्नस्य। विष्टपम्। यत्। ओदनः। ५.१।

@@ -21,10 +21,9 @@ the only *jagatī* pāda.
 Do thou, Destruction, thus, without a rival, release us from the iron bonds that hind us. To me doth Yama verily restore thee. To him, to Yama, yea, to Death be worship!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एवो इति। सु। अस्मत्। नि:ऽऋते। अनेहा। त्वम्। अयस्मयान्। वि। चृत। बन्धऽपाशान्। यम:। मह्मम्। पुन:। इत्। त्वाम्। ददाति। तस्मै। यमाय। नम:। अस्तु। मृत्यवे। ८४.३।
+एवो इति। सु। अस्मत्। निःऽऋते। अनेहा। त्वम्। अयस्मयान्। वि। चृत। बन्धऽपाशान्। यमः। मह्मम्। पुनः। इत्। त्वाम्। ददाति। तस्मै। यमाय। नमः। अस्तु। मृत्यवे। ८४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

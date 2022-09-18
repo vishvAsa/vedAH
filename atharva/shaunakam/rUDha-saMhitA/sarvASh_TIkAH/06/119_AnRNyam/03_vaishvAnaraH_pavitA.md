@@ -29,10 +29,9 @@ counter-example; the comm. explains it by *devādīnām abhilāṣam*.
 Vaisvanara the Purifier purge me when I oppose their hope and break my promise, Unknowing in my heart. With supplication, whatever guilt there is in that, I banish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वैश्वानर:। पविता। मा। पुनातु। यत्। सम्ऽगरम्। अभिऽधावामि। आऽशाम्। अनाजानन्। मनसा। याचमान:। यत्। तत्र। एन:। अप। तत्। सुवामि। ११९.३।
+वैश्वानरः। पविता। मा। पुनातु। यत्। सम्ऽगरम्। अभिऽधावामि। आऽशाम्। अनाजानन्। मनसा। याचमानः। यत्। तत्र। एनः। अप। तत्। सुवामि। ११९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

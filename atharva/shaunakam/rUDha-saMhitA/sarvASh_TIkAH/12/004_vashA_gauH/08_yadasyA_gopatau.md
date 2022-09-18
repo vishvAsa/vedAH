@@ -21,7 +21,6 @@ protection.' ⌊Ppp. combines *tataṣ k-* in **c**.⌋
 If, while her master owneth her, a carrion crow hath harmed her hair, His young boys die thereof, Decline o'ertakes them after fell disease.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। अस्याः। गोऽपतौ। सत्याः। लोम। ध्वाङ्क्षः। अजीहिडत्। ततः। कुमाराः। म्रियन्ते। यक्ष्मः। विन्दति। अनामनात्। ४.८।

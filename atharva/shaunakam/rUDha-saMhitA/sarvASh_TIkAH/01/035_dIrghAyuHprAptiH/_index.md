@@ -7,7 +7,6 @@ title = "०३५ दीर्घायुःप्राप्तिः"
 35. For long life etc.: with a gold amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुःप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०३५ दीर्घायुःप्राप्तिः"
 
 [Atharvan.—hāiraṇyam; āindrāgnam uta vāiśvadevam. jāgatam: 4. anuṣṭubgarbhā 4-p. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 430; Ludwig, p. 457; Griffith, i. 39.
 
 A charm to ensure long life and glory to the wearer of an amulet
 </details>
+

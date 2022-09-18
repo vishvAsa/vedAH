@@ -22,10 +22,9 @@ gives *te;* the translation above implies *té*. Ppp. makes *sarūpāu* and
 Worms that are white about the sides, those that are black with black-hued arms, All that show various tints and hues, these worms we utterly destroy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सऽरूपौ। द्वौ। विऽरूपौ। द्वौ। कृष्णौ। द्वौ। रोहितौ। द्वौ। बभ्रु:। च। बभ्रुऽकर्ण:। च। गृध्र। कोक:। च। ते। हता:। २३.४।
+सऽरूपौ। द्वौ। विऽरूपौ। द्वौ। कृष्णौ। द्वौ। रोहितौ। द्वौ। बभ्रुः। च। बभ्रुऽकर्णः। च। गृध्र। कोकः। च। ते। हताः। २३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ have been prepared to the accompaniment of the first verses of xi. 1.
 Mount, male from male, the skin. Go thither: summon those whom thou lovest, one and all, to meet thee, Strong as ye were when first ye met each other, still be your strength the same in Yama's kingdom.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुमान्। पुंसः। अधि। तिष्ठ। चर्म। इहि। तत्र। ह्वयस्व। यतमा। प्रिया। ते। यावन्तौ। अग्रे। प्रथमम्। सम्ऽएयथुः। तत्। वाम्। वयः। यमऽराज्ये। समानम्। ३.१।

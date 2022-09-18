@@ -24,10 +24,9 @@ comm. understands Sarasvatī to be intended.
 Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant wealth to us, Sunrita, Goddess, give me wealth!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। न:। यच्छतु। अर्यमा। प्र। भग:। प्र। बृहस्पति:। प्र। देवी:। प्र। उत। सूनृता। रयिम्। देवी। दधातु। मे। २०.३।
+प्र। नः। यच्छतु। अर्यमा। प्र। भगः। प्र। बृहस्पतिः। प्र। देवीः। प्र। उत। सूनृता। रयिम्। देवी। दधातु। मे। २०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

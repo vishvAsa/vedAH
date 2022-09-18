@@ -18,10 +18,9 @@ what witchcraft they have made—I take that back again.
 The spell that wicked men have cast on thine original household- fire, And on thy sacrificial hall, this I strike back again on them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। ते। चक्रु:। गार्हऽपत्ये। पूर्वऽअग्नौ। उत। दु:ऽचित:। शालायाम्। कृत्याम्। याम्। चक्रु:। पुन:। प्रति। हरामि। ताम्। ३१.५।
+याम्। ते। चक्रुः। गार्हऽपत्ये। पूर्वऽअग्नौ। उत। दुःऽचितः। शालायाम्। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ Mythol.*, i. 466, 399, treats this and the following vss.⌋
 Two Birds with fair wings, knit with bonds of friendship, in the same sheltering tree have found a refuge, One of the twain eats the sweet Fig-tree's berry: the other, eat- ing not, regardeth only.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 द्वा। सुऽपर्णा। सऽयुजा। सखाया। समानम्। वृक्षम्। परि। सस्वजाते इति। तयोः। अन्यः। पिप्पलम्। स्वादु। अत्ति। अनश्नन्। अन्यः। अभि। चाकशीति। १४.२०।

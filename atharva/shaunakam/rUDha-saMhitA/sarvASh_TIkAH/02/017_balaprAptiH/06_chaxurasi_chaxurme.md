@@ -16,10 +16,9 @@ title = "०६ चक्षुरसि चक्षुर्मे"
 Eye art thou, give me eyes. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-चक्षु:। असि। चक्षु:। मे। दा:। स्वाहा। १७.६।
+चक्षुः। असि। चक्षुः। मे। दाः। स्वाहा। १७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

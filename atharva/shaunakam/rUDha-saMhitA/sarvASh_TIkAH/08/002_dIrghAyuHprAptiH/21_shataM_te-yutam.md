@@ -24,10 +24,9 @@ under i. 35. 4. ⌊We had a "*sataḥpan̄kti*" at vi. 20. 3.⌋
 A hundred, yea, ten thousand years we give thee, ages two, three, four. May Indra, Agni, all the Gods, with willing favour look on thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतम्। ते। अयुतम्। हायनान्। द्वे इति। युगे इति। त्रीणि। चत्वारि। कृण्म:। इन्द्राग्नी इति। विश्वे। देवा:। ते। अनु। मन्यन्ताम्। अहृणीयमाना:। २.२१।
+शतम्। ते। अयुतम्। हायनान्। द्वे इति। युगे इति। त्रीणि। चत्वारि। कृण्मः। इन्द्राग्नी इति। विश्वे। देवाः। ते। अनु। मन्यन्ताम्। अहृणीयमानाः। २.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

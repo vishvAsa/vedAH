@@ -7,7 +7,6 @@ title = "११२ पाशमोचनम्"
 112. For expiation of overslaughing.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
@@ -19,8 +18,6 @@ title = "११२ पाशमोचनम्"
 [Atharvan.—āgneyam. trāiṣṭubham..]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. (vs. 3 in i.). Used by Kāuś. (46. 26), with vi. 113
 ### Translations
 Translated: Ludwig, p. 469; Grill, 15, 171; Griffith, i. 306; Bloomfield, AJP. xvii. 437 (elaborate discussion, p. 430 ff.), or JAOS. xvi. p. cxxii (= PAOS., March, 1894); SBE. xlii. 164, 521.
 </details>
+

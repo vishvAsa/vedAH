@@ -23,10 +23,9 @@ has the better reading *ugrāu* for *agre* in **a**. The comm. treats
 Ye who of old wrought many a deed in concert, and showed among mankind unhappy omens; Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। आरेभाथे। इत्याऽरेभाथे। बहु। साकम्। अग्रे। प्र। च। इत्। अस्राष्ट्रम्। अभिऽभाम्। जनेषु। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.४।
+यौ। आरेभाथे। इत्याऽरेभाथे। बहु। साकम्। अग्रे। प्र। च। इत्। अस्राष्ट्रम्। अभिऽभाम्। जनेषु। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

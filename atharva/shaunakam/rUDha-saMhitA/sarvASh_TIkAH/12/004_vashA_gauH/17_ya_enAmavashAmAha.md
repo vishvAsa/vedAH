@@ -17,7 +17,6 @@ gods, at him Bhava-and-śarva, both, striding about, hurl the arrow.
 Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and Sarva, both of them, move round and shoot a shaft at him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। एनाम्। अवशाम्। आह। देवानाम्। निऽहितम्। निऽधिम्। उभौ। तस्मै। भवाशर्वौ। परिऽक्रम्य। इषुम्। अस्यतः। ४.१७।

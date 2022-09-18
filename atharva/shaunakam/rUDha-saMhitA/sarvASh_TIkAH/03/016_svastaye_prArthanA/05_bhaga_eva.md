@@ -22,10 +22,9 @@ reading *johavīti;* all the three have at the end of **a** the voc.
 May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend us. As such with all my might I call and call thee: as such be thou our leader here, O Bhaga.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भग:। एव। भगऽवान्। अस्तु। देव:। तेन। वयम्। भगऽवन्त:। स्याम। तम्। त्वा। भग। सर्व:। इत्। जोहवीमि। स:। न:। भग। पुर:ऽएता। भव। इह। १६.५।
+भगः। एव। भगऽवान्। अस्तु। देवः। तेन। वयम्। भगऽवन्तः। स्याम। तम्। त्वा। भग। सर्वः। इत्। जोहवीमि। सः। नः। भग। पुरःऽएता। भव। इह। १६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

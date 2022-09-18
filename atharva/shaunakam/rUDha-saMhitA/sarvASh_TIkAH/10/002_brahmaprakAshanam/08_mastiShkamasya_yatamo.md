@@ -21,7 +21,6 @@ above, is wanting in Ppp.
 Who was he, first, of all the Gods who fashioned his skull and brain and occiput and forehead, The pile that Purusha's two jaws supported? Who was that God who mounted up to heaven?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मस्तिष्कम्। अस्य। यतमः। ललाटम्। ककाटिकाम्। प्रथमः। यः। कपालम्। चित्वा। चित्यम्। हन्वोः। पुरुषस्य। दिवम्। रुरोह। कतमः। सः। देवः। २.८।

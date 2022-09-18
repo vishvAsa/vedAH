@@ -28,10 +28,9 @@ ends **b** with *pṛṣṭyāmayaḥ*.
 I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass that storm and wind have rent, so be thy mind at- tached to me!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अहम्। खिदामि। ते। मन:। राजऽअश्व:। पृष्ट्याम्ऽइव। रेष्मऽछिन्नम्। यथा। तृणम्। मयि। ते। वेष्टताम्। मन:। १०२.२।
+आ। अहम्। खिदामि। ते। मनः। राजऽअश्वः। पृष्ट्याम्ऽइव। रेष्मऽछिन्नम्। यथा। तृणम्। मयि। ते। वेष्टताम्। मनः। १०२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

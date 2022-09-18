@@ -20,7 +20,6 @@ RV., and also in Ppp.; the latter reads *śīrṣṇā* in **c**.
 Let him who knoweth presently declare it, this lovely Bird's securely-founded station. Forth from his head the Cows draw milk, and wearing his ves- ture with their foot have drunk the water.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इह। ब्रवीतु। यः। ईम्। अङ्ग। वेद। अस्य। वामस्य। निऽहितम्। पदम्। वेः। शीर्ष्णः। क्षीरम्। दुह्रते। गावः। अस्य। वव्रिम्। वसानाः। उदकम्। पदा। अपुः। १४.५।

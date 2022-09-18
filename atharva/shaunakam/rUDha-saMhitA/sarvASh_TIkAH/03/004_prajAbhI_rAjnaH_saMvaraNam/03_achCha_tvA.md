@@ -21,10 +21,9 @@ incomplete simile: "thy messenger, unassailable like fire, shall" etc.
 Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active herald. Let women and their sons be friendly-minded. Thou mighty one, shalt see abundant tribute.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अच्छ। त्वा। यन्तु। हविन:। सऽजाता:। अग्नि:। दूत:। अजिर:। सम्। चरातै। जाया:। पुत्रा:। सुऽमनस:। भवन्तु। बहुम्। बलिम्। प्रति। पश्यासै। उग्र:। ४.३।
+अच्छ। त्वा। यन्तु। हविनः। सऽजाताः। अग्निः। दूतः। अजिरः। सम्। चरातै। जायाः। पुत्राः। सुऽमनसः। भवन्तु। बहुम्। बलिम्। प्रति। पश्यासै। उग्रः। ४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

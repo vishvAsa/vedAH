@@ -21,7 +21,6 @@ This verse is little more intelligible than the preceding. Ppp. puts
 There is no fault in this, no reservation, none when it goes with friends in close alliance. We have laid down this vessel in perfection: the cooked mess shall re-enter him who cooked it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 न। किल्बिषम्। अत्र। न। आऽधारः। अस्ति। न। यत्। मित्रैः। सम्ऽअममानः। एति। अनूनम्। पात्रम्। निऽहितम्। नः। एतत्। पक्तारम्। पक्वः। पुनः। आ। विशाति। ३.४८।

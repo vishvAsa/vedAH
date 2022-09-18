@@ -24,7 +24,6 @@ of **c** halts badly without it.
 He finishes his race with speed and never turns his thought aside, Thereby he keeps not from the Gods enjoyment of the Drink of Life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तम्। सम्। आप्नोति। जूतिऽभिः। ततः। न। अप। चिकित्सति। तेन। अमृतस्य। भक्षम्। देवानाम्। न। अव। रुन्धते। 2.१५।

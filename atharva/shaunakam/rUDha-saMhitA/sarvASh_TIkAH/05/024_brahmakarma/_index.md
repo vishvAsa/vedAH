@@ -7,7 +7,6 @@ title = "०२४ ब्रह्मकर्म"
 24. To various gods as overlords.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मकर्म  
@@ -18,8 +17,6 @@ title = "०२४ ब्रह्मकर्म"
 
 [Atharvan.—saptadaśakam. brahmakarmātmadevatyam. atiśākvaram: 1-17. 4-p. atiśakvarī; 11. śakvarī; 15-17. 3-p. (15, 16. bhurig atijagatī; 17. virāṭ śakvarī).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, i. 228; Weber, xviii. 260.—Cf. Weber's Rājasūya, Berli
 
 A priest's prayer for protection and assistance
 </details>
+

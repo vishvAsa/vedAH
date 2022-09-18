@@ -18,7 +18,6 @@ The comm. reads *sam abharat* in **b**.
 When he had brought together hair, sinew and bone, marrow and flesh. And to the body added feet, then to what world did he depart?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदा। केशान्। अस्थि। स्नाव। मांसम्। मज्जानम्। आऽअभरत्। शरीरम्। कृत्वा। पादऽवत्। कम्। लोकम्। अनु। प्र। अविशत्। १०.११।

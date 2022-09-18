@@ -22,7 +22,6 @@ say.
 Upheld by Skambha's power these two, the heaven and the earth, stand fast. Skambha is all this world of life, whatever breathes or shuts an. eye.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्कम्भेन। इमे इति। विस्तभिते इति विऽस्तभिते। द्यौः। च। भूमिः। च। तिष्ठतः। स्कम्भे। इदम्। सर्वम्। आत्मन्ऽवत्। यत्। प्राणत्। निऽमिषत्। च। यत्। ८.२।

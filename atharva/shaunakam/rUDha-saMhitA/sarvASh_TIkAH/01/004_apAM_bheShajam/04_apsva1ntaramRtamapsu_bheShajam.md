@@ -27,10 +27,9 @@ of **b** *práśastiṣu;* for **c**, VS. has áśvā bhávata vājínaḥ*, TS.
 Amrit is in the Waters, in the Waters balm. Yea, through our praises of the Floods, O horses, be ye fleet and strong, and, O ye kine, be full of strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप्ऽसु। अन्तः। अमृतम्। अप्ऽसु। भेषजम्। अपाम्। उत। प्रशस्तिऽभिः। अश्वा:। भवथ। वाजिन:। गाव:। भवथ। वाजिनी:।
+अप्ऽसु। अन्तः। अमृतम्। अप्ऽसु। भेषजम्। अपाम्। उत। प्रशस्तिऽभिः। अश्वाः। भवथ। वाजिनः। गावः। भवथ। वाजिनीः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

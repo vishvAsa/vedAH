@@ -27,10 +27,9 @@ to omit *dhanena* in **b**.⌋
 The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the wealth I offer, Herein may Indra, Savitar, and Soma, Prajapati, and Agni give me splendour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। धनेन। प्रऽपणम्। चरामि। धनेन। देवा:। धनम्। इच्छमान:। तस्मिन्। मे। इन्द्र:। रुचिम्। आ। दधातु। प्रजाऽपति:। सविता। सोम:। अग्नि:। १५.६।
+येन। धनेन। प्रऽपणम्। चरामि। धनेन। देवाः। धनम्। इच्छमानः। तस्मिन्। मे। इन्द्रः। रुचिम्। आ। दधातु। प्रजाऽपतिः। सविता। सोमः। अग्निः। १५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

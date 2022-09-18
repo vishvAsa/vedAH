@@ -7,7 +7,6 @@ title = "०३० पापशमनम्"
 30. To the śamī́ plant: for benefit to the hair.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पापशमनम्।  
@@ -18,8 +17,6 @@ title = "०३० पापशमनम्"
 
 [Uparibabhrava.—śāmyam. jāgatam: 2. triṣṭubh; 3. 4-p. kakummaty anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 512; Florenz, 288 or 40; Griffith, i. 261.—See also Ber
 
 A charm to promote the growth of hair
 </details>
+

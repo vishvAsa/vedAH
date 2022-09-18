@@ -22,10 +22,9 @@ by an error of the printer, reads *bájreṇa* for *váj-* in **c**.
 O Agni, bring thou hitherward the Yatudhanas bound and chained. And afterward let Indra tear their heads off with his thunder- bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। अग्ने। यातुऽधानान्। उपऽबध्दान्। इह। आ। वह। अथ। एषाम्। इन्द्र:। वज्रेण। अपि। शीर्षाणि। वृश्चतु।
+त्वम्। अग्ने। यातुऽधानान्। उपऽबध्दान्। इह। आ। वह। अथ। एषाम्। इन्द्रः। वज्रेण। अपि। शीर्षाणि। वृश्चतु।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

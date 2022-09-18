@@ -31,10 +31,9 @@ iii. 38, note.⌋
 Sending up waters from the flood and ocean Prajapati move the sea to agitation! Forth flow the moisture of the vigorous stallion! With this thy roar of thunder come thou hither,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽपति:। सलिलात्। आ। समुद्रात्। आप:। ईरयन्। उदऽधिम्। अर्दयाति। प्र। प्यायताम्। वृष्ण:। अश्वस्य। रेत:। अवाङ्। एतेन। स्तनयित्नुना। आ। इहि। १५.११।
+प्रजाऽपतिः। सलिलात्। आ। समुद्रात्। आपः। ईरयन्। उदऽधिम्। अर्दयाति। प्र। प्यायताम्। वृष्णः। अश्वस्य। रेतः। अवाङ्। एतेन। स्तनयित्नुना। आ। इहि। १५.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

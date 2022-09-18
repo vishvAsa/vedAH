@@ -25,10 +25,9 @@ Ges.*, 1897, xlix. 50, who takes it as 'a stiff neck with head awry.'⌋
 Do thou release this man from headache, free him from cough which has entered into all his limbs and joints. May he, the child of cloud, the offspring of the wind, the whiz- zing lighting, strike the mountains and the trees.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुञ्च। शीर्षक्त्या:। उत। कास:। एनम्। परु:ऽपरु। आऽविवेश। य:। अस्य। य:। अभ्रऽजा:। वातऽजा:। य:। च। शुष्म:। वनस्पतीन्। सचताम्। पर्वतान्। च।
+मुञ्च। शीर्षक्त्याः। उत। कासः। एनम्। परुःऽपरु। आऽविवेश। यः। अस्य। यः। अभ्रऽजाः। वातऽजाः। यः। च। शुष्मः। वनस्पतीन्। सचताम्। पर्वतान्। च।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

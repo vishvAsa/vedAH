@@ -27,10 +27,9 @@ as *dadruvisarpakaśvitrādikuṣṭharogaviśeṣās*, or varieties of leprosy.
 Victorious in the olden time this Prisniparni was brought forth: With her I cleave, as 'twere a bird's, the head of the Detestables.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सहमाना। इयम्। प्रथमा। पृश्निऽपर्णी। अजायत। तया। अहम्। दु:ऽनाम्नाम्। शिर:। वृश्चामि। शकुने:ऽइव। २५.२।
+सहमाना। इयम्। प्रथमा। पृश्निऽपर्णी। अजायत। तया। अहम्। दुःऽनाम्नाम्। शिरः। वृश्चामि। शकुनेःऽइव। २५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

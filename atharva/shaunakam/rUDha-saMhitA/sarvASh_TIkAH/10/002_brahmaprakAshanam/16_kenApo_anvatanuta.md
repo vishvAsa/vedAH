@@ -20,7 +20,6 @@ The *pada*-text reads *ā́paḥ* (as in 11 **a**) in **a**. Ppp. elides
 Through whom did he spread waters out, through whom did he make Day to shine? Through whom did he enkindle Dawn and give the gift of even- tide?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 केन। आपः। अनु। अतनुत। केन। अहः। अकरोत्। रुचे। उषसम्। केन। अनु। ऐन्ध्द। केन। सायम्ऽभवम्। ददे। २.१६।

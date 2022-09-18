@@ -52,10 +52,9 @@ gāyatrī; **c** of 29. sāmny anuṣṭubh.*\]
 She mounted up, she came to men: they killed her Presently she regained her life and being. Hence on both days to men they bring and offer--who knows this--near-seated in the dwelling.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अप:। वामऽदेव्येन। यज्ञम्। यज्ञायज्ञियेन। ११.८।
+अपः। वामऽदेव्येन। यज्ञम्। यज्ञायज्ञियेन। ११.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

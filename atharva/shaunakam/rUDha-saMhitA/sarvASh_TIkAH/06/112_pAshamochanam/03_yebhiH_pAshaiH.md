@@ -31,10 +31,9 @@ te cṛtyantāṁ vicṛtām hi santi* etc. (**d** as in our text).
 The elder brother's bonds, still left unwedded, fettered in every limb and bound securely, Loose these, for they are bonds for loosing: Pushan, turn woes away upon the babe-destroyer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येभि:। पाशै:। परिऽवित्त:। विऽबध्द:। अङ्गेऽअङ्गे। आर्पित:। उत्सित:। च। वि। ते। मुच्यताम्। विऽमुच:। हि। सन्ति। भ्रूणऽघ्नि। पूषन्। दु:ऽइतानि। मृक्ष्व। ११२.३।
+येभिः। पाशैः। परिऽवित्तः। विऽबध्दः। अङ्गेऽअङ्गे। आर्पितः। उत्सितः। च। वि। ते। मुच्यताम्। विऽमुचः। हि। सन्ति। भ्रूणऽघ्नि। पूषन्। दुःऽइतानि। मृक्ष्व। ११२.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

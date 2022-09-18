@@ -26,10 +26,9 @@ Foy, KZ. xxxiv. 226.⌋
 Thou, Arrow, which the host of Gods created, making it strong and mighty for the shooting, Be gracious, lauded thus, to our assembly. To thee, that Arrow,. be our homage, Goddess!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-याम्। त्वा। देवा:। असृजन्त। विश्वे। इषुम्। कृण्वाना:। असनाय। धृष्णुम्। सा। न:। मृड। विदधे। गृणाना। तस्यै। ते। नम:। अस्तु। देवि।
+याम्। त्वा। देवाः। असृजन्त। विश्वे। इषुम्। कृण्वानाः। असनाय। धृष्णुम्। सा। नः। मृड। विदधे। गृणाना। तस्यै। ते। नमः। अस्तु। देवि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

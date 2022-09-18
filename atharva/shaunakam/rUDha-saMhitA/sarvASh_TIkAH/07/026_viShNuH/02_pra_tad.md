@@ -37,10 +37,9 @@ made in our text; and SPP. also follows them.
 Loud boast doth Vishnu make of this achievement, like some wild beast, dread, prowling, mountain-roaming. May he approach us from the farthest distance.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। तत्। विष्णु:। स्तवते। वीर्याण‍ि। मृग:। न। भीम:। कुचर:। गिरिऽस्था:। पराऽवत:। आ। जगम्यात्। परस्या:। २७.२।
+प्र। तत्। विष्णुः। स्तवते। वीर्याण‍ि। मृगः। न। भीमः। कुचरः। गिरिऽस्थाः। पराऽवतः। आ। जगम्यात्। परस्याः। २७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

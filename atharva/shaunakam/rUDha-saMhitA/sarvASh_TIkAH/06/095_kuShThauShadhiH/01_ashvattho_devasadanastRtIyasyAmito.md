@@ -17,10 +17,9 @@ there the gods won the *kúṣṭha*, the sight of immortality.
 In the third heaven above us stands the Asvattha tree, the seat of Gods. There the Gods gained the Kushtha plant, embodiment of end- less life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अश्वत्थ:। देवऽसदन:। तृतीयस्याम्। इत:। दिवि। तत्र। अमृतस्य। चक्षणम्। देवा:। कुष्ठम्। अवन्वत। ९५.१।
+अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। देवाः। कुष्ठम्। अवन्वत। ९५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

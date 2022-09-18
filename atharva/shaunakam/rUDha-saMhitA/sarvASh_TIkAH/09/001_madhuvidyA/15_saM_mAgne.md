@@ -18,10 +18,9 @@ We had the verse above, as vii. 89. 2.
 Grant me, O Agni, splendid strength, and progeny, and length- ened life. May the Gods know me as I am, may Indra with the Rishis know.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्यु:। मे। अस्य। देवा:। इन्द्र:। विद्यात्। सह। ऋषिऽभि:। १.१५।
+सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। १.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

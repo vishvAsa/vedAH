@@ -28,7 +28,6 @@ For *cā́kaśān*, see *Gram.* §1008 b.⌋
 Oft may it fly to us to save our heroes from slaughter, oft perch here to bring fair offspring, Turn thee and send thy voice afar: cry to the region far away; That I may see thee in the home of Yama reft of all thy power, that I may see thee impotent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवैरऽहत्याय। इदम्। आ। पपत्यात्। सुऽवीरतायै। इदम्। आ। ससद्यात्। पराङ्। एव। परा। वद। पराचीम्। अनु। सम्ऽवतम्। यथा। यमस्य। त्वा। गृहे। अरसम्। प्रतिऽचाकशान्। आभूकम्। प्रतिऽचाकशान्। २९.३।

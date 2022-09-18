@@ -26,7 +26,6 @@ discoverable reason. ⌊Five of SPP's authorities (as well as W's D.) read
 The suppliant's way, filling the earth, the Mighty circleth the world with eye that none deceiveth. May he, all-seeing, well-disposed and holy, give ear and listen to the word I utter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृथिवीऽप्रः। महिषः। नाधमानस्य। गातुः। अदब्धऽचक्षुः। परि। विश्वम्। बभूव। विश्वम्। सम्ऽपश्यन्। सुऽविदत्रः। यजत्रः। इदम्। शृणोतु। यत्। अहम्। ब्रवीमि। २.४४।

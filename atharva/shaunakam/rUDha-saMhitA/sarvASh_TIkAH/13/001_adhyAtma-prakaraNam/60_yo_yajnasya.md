@@ -23,7 +23,6 @@ says *ṣaṣṭiḥ*.⌋
 May we obtain, completely wrought, the thread spun out tc reach the Gods, That perfecteth our sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। यज्ञस्य। प्रऽसाधनः। तन्तुः। देवेषु। आऽततः। तम्। आऽहुतम्। अशीमहि। १.६०।

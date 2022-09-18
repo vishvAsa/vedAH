@@ -26,7 +26,6 @@ that of *-āni yasya* to *-āṅsy asya*, above, x. 7. 20, and see *Gram.*
 Hail to thy rapid car whereon, O Surya, thou circlest in a moment both the limits, Whirled by thy bay steeds, best of all at drawing, thy hundred horses or seven goodly coursers!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 स्वस्ति। ते। सूर्य। चरसे। रथाय। येन। उभौ। अन्तौ। परिऽयासि। सद्यः। यम्। ते। वहन्ति। हरितः। बर्हिष्ठाः। शतम्। अश्वाः। यदि। वा। सप्त। बह्वीः। 2.६।

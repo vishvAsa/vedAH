@@ -29,10 +29,9 @@ Schroeder's *Tübinger Kaṭha-hss.*, p. 72.⌋
 We are again united with our bodies, with happy mind, with spirit, strength, and splendour. May Tvashtar here make room for us, and freedom and smooth whate'er is injured in our bodies.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। वर्चसा। पयसा। सम्। तनूभि:। अगन्महि। मनसा। सम्। शिवेन। त्वष्टा। न:। अत्र। वरीय:। कृणोतु। अनु। न:। मार्ष्टु। तन्व:। यत्। विऽरिष्टम्। ५३.३।
+सम्। वर्चसा। पयसा। सम्। तनूभिः। अगन्महि। मनसा। सम्। शिवेन। त्वष्टा। नः। अत्र। वरीयः। कृणोतु। अनु। नः। मार्ष्टु। तन्वः। यत्। विऽरिष्टम्। ५३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ Ppp. has again (as in 23. 4) *anenaśat* in **c**; in **d** it reads
 The Asuri made, first of all, this medicine for leprosy, this banisher of leprosy. She banished leprosy, and gave one general colour to the skin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आसुरी। चक्रे। प्रथमा। इदम्। किलासऽभेषजम्। इदम्। किलासऽनाशनम्। अनीनशत्। किलासम्। सऽरूपाम्। अकरत्। त्वचम्।

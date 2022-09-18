@@ -23,10 +23,9 @@ furnishes the *gharma* drink, that she may be milked.
 I invocate this milch-cow good for milking, so that the milker, deft of hand, may milk her. May Savitar give goodliest stimulation. The caldron hath been warmed. Let him proclaim it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। ह्वये। सुऽदुघाम्। धेनुम्। एताम्। सुऽहस्त:। गोऽधुक्। उत। दोहत्। एनाम्। श्रेष्ठम्। सवम्। सविता। साविषत्। न:। अभिऽइध्द:। घर्म:। तत्। ऊं इति। सु। प्र। वोचत्। ७७.७।
+उप। ह्वये। सुऽदुघाम्। धेनुम्। एताम्। सुऽहस्तः। गोऽधुक्। उत। दोहत्। एनाम्। श्रेष्ठम्। सवम्। सविता। साविषत्। नः। अभिऽइध्दः। घर्मः। तत्। ऊं इति। सु। प्र। वोचत्। ७७.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

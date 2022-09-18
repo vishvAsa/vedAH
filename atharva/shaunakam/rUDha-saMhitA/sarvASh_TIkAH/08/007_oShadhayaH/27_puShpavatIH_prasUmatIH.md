@@ -20,10 +20,9 @@ identical with RV. x. 97. 3 **b**.
 Let Plants with flower and Plants with bud, the fruitful and the fruitless, all, Like children of one mother, yield their stores for this man's perfeet health.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पुष्पऽवती:। प्रसूऽमती:। फलिनी:। अफला। उत। संमातर:ऽइव। दुह्राम्। अस्मै। अरिष्टऽतातये। ७.२७।
+पुष्पऽवतीः। प्रसूऽमतीः। फलिनीः। अफला। उत। संमातरःऽइव। दुह्राम्। अस्मै। अरिष्टऽतातये। ७.२७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

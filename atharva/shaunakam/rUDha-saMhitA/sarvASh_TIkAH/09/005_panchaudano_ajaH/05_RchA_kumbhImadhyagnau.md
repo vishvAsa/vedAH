@@ -22,10 +22,9 @@ heed the redundant syllable in **d**.
 With verse upon the fire I set the caldron: pour in the water; lay him down within it! Encompass him with fire, ye Immolators. Cooked, let him reach the world where dwell the righteous.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋचा। कुम्भीम्। अधि। अग्नौ। श्रयामि। आ। सिञ्च। उदकम्। अव। धेहि। एनम्। परिऽआधत्त। अग्निना। शमितार:। शृत:। गच्छतु। सुऽकृताम्। यत्र। लोक:। ५.५।
+ऋचा। कुम्भीम्। अधि। अग्नौ। श्रयामि। आ। सिञ्च। उदकम्। अव। धेहि। एनम्। परिऽआधत्त। अग्निना। शमितारः। शृतः। गच्छतु। सुऽकृताम्। यत्र। लोकः। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "००२ रोगोपशमनम्"
 2. Against injury and disease: with a reed.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रोगोपशमनम्।  
@@ -19,8 +18,6 @@ title = "००२ रोगोपशमनम्"
 [Atharvan.—cāndramasam; pārjanyam. ānuṣṭubham: 3. 3-p. virāṇnāma gāyatrī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Vidmā is quoted in Prāt. iii. 16 as the example first occurring in the text of
 
 A charm against dysentery
 </details>
+

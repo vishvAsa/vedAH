@@ -20,7 +20,6 @@ quotes the verse to accompany the laying down of the enclosing sticks.
 Hither we call the firmly held, the all-supporting Prithivi, On whom the trees, lords of the wood, stand evermore immov- able.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। वृक्षाः। वानस्पत्याः। ध्रुवाः। तिष्ठन्ति। विश्वहा। पृथिवीम्। विश्वऽधायसम्। धृताम्। अच्छऽआवदामसि। १.२७।

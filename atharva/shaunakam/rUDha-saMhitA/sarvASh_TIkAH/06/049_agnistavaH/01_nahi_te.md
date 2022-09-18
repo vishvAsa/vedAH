@@ -23,10 +23,9 @@ Ppp. differs only in reading *martyam* at end of **a**. For *tanvas* in
 O Agni, in thy body man hath never found a wounded part. The Ape devours the arrow's shaft as a cow eats her after- birth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नहि। ते। अग्ने। तन्व:। क्रूरम्। आनंश। मर्त्य:। कपि:। बभस्ति। तेजनम्। स्वम्। जरायु। गौ:ऽइव। ४९.१।
+नहि। ते। अग्ने। तन्वः। क्रूरम्। आनंश। मर्त्यः। कपिः। बभस्ति। तेजनम्। स्वम्। जरायु। गौःऽइव। ४९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

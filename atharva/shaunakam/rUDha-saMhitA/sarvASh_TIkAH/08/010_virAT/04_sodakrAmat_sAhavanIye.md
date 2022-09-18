@@ -23,7 +23,6 @@ true accent. Ppp. reads instead *yajñāntas*, and omits after it
 She mounted up, the Southward fire she entered. He who knows this becomes a fit performer of sacrifice, meet for honour, shelter-giver.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। आऽहवनीये। नि। अक्रामत्। १०.४।

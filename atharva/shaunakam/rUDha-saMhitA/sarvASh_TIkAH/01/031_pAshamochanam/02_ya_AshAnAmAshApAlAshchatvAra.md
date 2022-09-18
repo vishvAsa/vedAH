@@ -21,10 +21,9 @@ The comm. reads *stana* for *sthana* in **b**. The Anukr. does not note
 Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue and free us from the bonds of Nirriti, from grief and woe!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। आशानाम्। अशाऽपाला:। चत्वार:। स्थन। देवा:। ते। न:। नि:ऋत्या:। पाशेभ्य:। मुञ्चत। अंहस:ऽअंहस:।
+ये। आशानाम्। अशाऽपालाः। चत्वारः। स्थन। देवाः। ते। नः। निःऋत्याः। पाशेभ्यः। मुञ्चत। अंहसःऽअंहसः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

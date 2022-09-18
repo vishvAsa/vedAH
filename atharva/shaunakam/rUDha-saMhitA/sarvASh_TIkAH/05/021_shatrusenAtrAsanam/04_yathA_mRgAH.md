@@ -19,10 +19,9 @@ Read in **c** *‘mítrān* in our text (an accent-sign lost over *trā*).
 As the wild creatures of the wood flee in their terror from a man, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। मृगा:। सम्ऽविजन्ते। आरण्या:। पुरुषात्। अधि। एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथोऽइति। चित्तानि। मोहय। २१.४।
+यथा। मृगाः। सम्ऽविजन्ते। आरण्याः। पुरुषात्। अधि। एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथोऽइति। चित्तानि। मोहय। २१.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

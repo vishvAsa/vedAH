@@ -40,10 +40,9 @@ hiatus, and combining 2 **ab** with 3 **ab**, we get a perfectly regular
 Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and bless thee. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शम्। ते। अग्नि :। सह। अत्ऽभि:। अस्तु। शम्। सोम:। सह। ओषधीभि:। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऽऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.२।
+शम्। ते। अग्नि ः। सह। अत्ऽभिः। अस्तु। शम्। सोमः। सह। ओषधीभिः। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऽऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

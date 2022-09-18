@@ -24,10 +24,9 @@ after our vs. 4. Pāda **b** lacks a syllable, unnoticed by the Anukr.
 Thou art the Lord of all terrestrial cattle, of cattle born and to be born hereafter. Let not breath drawn or breath emitted fail him. Let not his friends, let not his foemen slay him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। ईशिषे। पशूनाम्। पार्थिवानाम्। ये। जाता:। उत। वा। ये। जनित्रा:। मा। इमम्। प्राण:। हासीत्। मो इति। अपान:। मा। इमम्। मित्रा:। वधिषु:। मो इति। अमित्रा:। २८.३।
+त्वम्। ईशिषे। पशूनाम्। पार्थिवानाम्। ये। जाताः। उत। वा। ये। जनित्राः। मा। इमम्। प्राणः। हासीत्। मो इति। अपानः। मा। इमम्। मित्राः। वधिषुः। मो इति। अमित्राः। २८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

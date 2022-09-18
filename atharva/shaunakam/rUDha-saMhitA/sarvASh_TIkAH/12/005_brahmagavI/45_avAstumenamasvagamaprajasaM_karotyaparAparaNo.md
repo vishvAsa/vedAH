@@ -20,7 +20,6 @@ implies reading *karoti ap-*.
 She makes him houseless, homeless, childless: he is extinguished without posterity to succeed him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अवास्तुम्। एनम्। अस्वगम्। अप्रजसम्। करोति। अपराऽपरणः। भवति। क्षीयते। ९.७।

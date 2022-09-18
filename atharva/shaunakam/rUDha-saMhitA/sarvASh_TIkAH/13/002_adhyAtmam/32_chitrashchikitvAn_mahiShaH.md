@@ -26,7 +26,6 @@ Soc. de linguistique*, x. 86.⌋
 Brilliant, observant, mighty Lord, an Eagle illuming both the spheres and air between them. Day and the Night, clad in the robes of Surya, spread forth more widely all his hero powers.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चित्रः। चिकित्वान्। महिषः। सुऽपर्णः। आऽरोचयन्। रोदसी इति। अन्तरिक्षम्। अहोरात्रे इति। परि। सूर्यम्। वसाने इति। प्र। अस्य। विश्वा। तिरतः। वीर्याणि। २.३२।

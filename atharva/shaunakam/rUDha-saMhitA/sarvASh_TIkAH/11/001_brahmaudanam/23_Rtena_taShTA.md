@@ -30,7 +30,6 @@ for *vihitā*, in **c** *aśadhriyaṁ*, emended by another hand to
 Fashioned at first by Right, set by the spirit, this altar of Brahmau- dana was appointed. Place the pure boiler on it, woman! set thou therein the rice mess of Celestial Beings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऋतेन। तष्टा। मनसा। हिता। एषा। ब्रह्मऽओदनस्य। विऽहिता। वेदिः। अग्रे। अंसद्रीम्। शुध्दाम्। उप। धेहि। नारि। तत्र। ओदनम्। सादय। दैवानाम्। १.२३।

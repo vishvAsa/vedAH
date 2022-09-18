@@ -17,10 +17,9 @@ hates us, whom we hate.
 Shine out, O Agni, with that sheen of thine against the man who hates us, whom we hate.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। अर्चि:। तेन। तम्। प्रति। अर्च। य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। १९.३।
+अग्ने। यत्। ते। अर्चिः। तेन। तम्। प्रति। अर्च। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

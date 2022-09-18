@@ -19,7 +19,6 @@ Ppp. begins **c** with *yataṣ paś-*.
 Thou, yonder, knowest all things here, when here thou knowest what is there. From here men see the sphere of light, Surya profoundly wise in heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अमुत्र। सन्। इह। वेत्थ। इतः। सन्। तानि। पश्यसि। इतः। पश्यन्ति। रोचनम्। दिवि। सूर्यम्। विपःऽचितम्। १.३९।

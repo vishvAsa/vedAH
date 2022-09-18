@@ -7,7 +7,6 @@ title = "०३४ मधुविद्या"
 34. A love-spell: with a sweet herb.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मधुविद्या।  
@@ -18,8 +17,6 @@ title = "०३४ मधुविद्या"
 
 [Atharvan,—pañcarcam. madughamaṇisūktam. vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 429; Grill, 52, 78; Griffith, i. 38; Bloomfield, 99, 274.
 
 A young man's love-charm
 </details>
+

@@ -27,7 +27,6 @@ kravyādam agnir* ⌊intending *kravyād yam ag-*?⌋ *anuvidvān vibhāvati*
 Oft as a greedy beggar speaks the mortal who has brought distress, Those whom Carnivorous Agni close at hand runs after and detects.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मुहुः। गृध्यैः। प्र। वदति। आर्तिम्। मर्त्यः। निऽइत्य। क्रव्यऽअत्। यान्। अग्निः। अन्तिकात्। अनुऽविद्वान्। विऽतावति। २.३८।

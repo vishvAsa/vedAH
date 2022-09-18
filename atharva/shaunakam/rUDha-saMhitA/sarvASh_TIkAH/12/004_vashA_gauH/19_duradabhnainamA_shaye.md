@@ -25,7 +25,6 @@ ad-*, thus supporting our emendation. ⌊In Ppp. this verse precedes our
 If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the wishes and the hopes which he, withholding her, would gain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दुरदभ्ना। एनम्। आ। शये। याचिताम्। च। न। दित्सति। न। अस्मै। कामाः। सम। ऋध्यन्ते। याम्। अदत्वा। चिकीर्षति। ४.१९।

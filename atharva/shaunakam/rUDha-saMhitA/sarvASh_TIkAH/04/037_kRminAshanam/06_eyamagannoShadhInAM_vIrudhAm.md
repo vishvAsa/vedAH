@@ -22,7 +22,6 @@ two more pādas: *ape ’te ’to ‘psaraso gandharvā yatra vo gṛhāḥ.*
 Let Ajasringi penetrate, Ara4aki with sharpened horn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। इयम्। अगन्। ओषधीनाम्। वीरुधाम्। वीर्यऽवती। अजऽशृङ्गी। अराटकी। तीक्ष्णऽशृङ्गी। वि। ऋषतु। ३७.६।

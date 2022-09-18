@@ -19,10 +19,9 @@ faculty.
 All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणाय। अन्तरिक्षाय। वय:ऽभ्य:। वायवे। अधिऽपतये। स्वाहा। १०.२।
+प्राणाय। अन्तरिक्षाय। वयःऽभ्यः। वायवे। अधिऽपतये। स्वाहा। १०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

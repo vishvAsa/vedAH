@@ -20,7 +20,6 @@ Ppp. reads at the beginning *viluptiṁ bṛhaspataye yā ca sū-*, and in
 Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahman should eat if he hope for eminence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽलिप्ती। या। बृहस्पते। अथो इति। सूतऽवशा। वशा। तस्याः। न। अश्नीयात्। अब्राह्मणः। यः। आऽशंसेत। भूत्याम्। ४.४६।

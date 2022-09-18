@@ -23,7 +23,6 @@ Congrès intern. des Orientalistes*, Section I, Inde, p. 45-50, "Cruelle
 Seven germs unripened yet are Heaven's prolific seed: their functions they maintain by Vishnu's ordinance. Endued with wisdom through intelligence and thought, present on every side they compass us about.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। अर्धऽगर्भाः। भुवनस्य। रेतः। विष्णोः। तिष्ठन्ति। प्रऽदिशा। विऽधर्मणि। ते। धीतिऽभिः। मनसा। ते। विपःऽचितः। परिऽभुवः। परि। भवन्ति। विश्वतः। १५.१७।

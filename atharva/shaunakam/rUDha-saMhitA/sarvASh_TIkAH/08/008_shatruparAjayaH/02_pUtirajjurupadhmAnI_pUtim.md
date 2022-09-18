@@ -25,10 +25,9 @@ the last and to the whole verse, see the introd.⌋
 Let Putirajju with her breath corrupt and putrefy that host, And terror smite our foemen's heart when fire and smoke are seen afar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पूतिऽरज्जु:। उपऽध्मानी। पूतिम्। सेनाम्। कृणोतु। अमूम्। धूमम्। अग्निम्। पराऽदृश्य। अमित्रा:। हृत्ऽसु। आ। दधताम्। भयम्। ८.२।
+पूतिऽरज्जुः। उपऽध्मानी। पूतिम्। सेनाम्। कृणोतु। अमूम्। धूमम्। अग्निम्। पराऽदृश्य। अमित्राः। हृत्ऽसु। आ। दधताम्। भयम्। ८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

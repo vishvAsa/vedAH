@@ -17,10 +17,9 @@ thousand-named—be they remedial \[when\] brought.
 Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healing, bearing thousand names, let them be all collected here.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने:। घास:। अपाम्। गर्भ:। या:। रोहन्ति। पुन:ऽनवा:। ध्रुवा:। सहस्रऽनाम्नी:। भेषजी:। सन्तु। आऽभृता:। ७.८।
+अग्नेः। घासः। अपाम्। गर्भः। याः। रोहन्ति। पुनःऽनवाः। ध्रुवाः। सहस्रऽनाम्नीः। भेषजीः। सन्तु। आऽभृताः। ७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

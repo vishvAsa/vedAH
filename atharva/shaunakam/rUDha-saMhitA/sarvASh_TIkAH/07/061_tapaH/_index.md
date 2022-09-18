@@ -7,7 +7,6 @@ title = "०६१ तपः"
 61 (63). For success of penance.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 तपः।  
@@ -18,8 +17,6 @@ title = "०६१ तपः"
 
 [Atharvan.—dvyṛcam. āgneyam. ānuṣṭuhham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 24, 87; Griffith, i. 357.
 
 A prayer for sacred knowledge and its fruits
 </details>
+

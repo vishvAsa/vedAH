@@ -22,7 +22,6 @@ real reading in **b**.
 As wind the trees, so smite and overthrow them: leave not cow, horse, or man of them surviving Return, O Kritya, unto those who made thee. Wake them from sleep to find that they are childless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वातःऽइव। वृक्षान्। नि। मृणीहि। पादय। मा। गाम्। अश्वम्। पुरुषम्। उत्। शिषः। एषाम्। कर्तृन्। निऽवृत्य। इतः। कृत्ये। अप्रजाःऽत्वाय। बोधय। १.१७।

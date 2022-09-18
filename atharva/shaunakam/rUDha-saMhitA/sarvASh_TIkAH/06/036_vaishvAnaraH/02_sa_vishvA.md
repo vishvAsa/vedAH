@@ -28,10 +28,9 @@ idám práti paprathe*.
 He hath directed all things; he sends forth the Seasons in his might, furthering sacrifice's power.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। विश्वा। प्रति। चक्लृपे। ऋतून्। उत्। सृजते। वशी। यज्ञस्य। वय:। उत्ऽतिरन्। ३६.२।
+सः। विश्वा। प्रति। चक्लृपे। ऋतून्। उत्। सृजते। वशी। यज्ञस्य। वयः। उत्ऽतिरन्। ३६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

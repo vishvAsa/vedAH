@@ -24,10 +24,9 @@ and *pāpa* as two independent words in **a**, and reads *śaṅsati* in
 Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence away, I love thee not. Go to the forests and the trees. My heart is in our homes and cows.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पर:। अप। इहि। मन:ऽपाप। किम्। अशस्तानि। शंससि। परा। इहि। न। त्वा। कामये। वृक्षान्। वनानि। सम्। चर। गृहेषु। गोषु। मे। मन:। ४५.१।
+परः। अप। इहि। मनःऽपाप। किम्। अशस्तानि। शंससि। परा। इहि। न। त्वा। कामये। वृक्षान्। वनानि। सम्। चर। गृहेषु। गोषु। मे। मनः। ४५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

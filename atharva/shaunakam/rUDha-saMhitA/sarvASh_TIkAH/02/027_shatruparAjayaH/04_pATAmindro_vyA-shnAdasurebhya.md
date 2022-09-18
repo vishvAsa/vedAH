@@ -32,10 +32,9 @@ to resolve *vi-ā-śn-āt* in **a.**
 Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adversary's speech! Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पाटाम्। इन्द्र:। वि। आश्नात्। असुरेभ्य:। स्तरीतवे। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.४।
+पाटाम्। इन्द्रः। वि। आश्नात्। असुरेभ्यः। स्तरीतवे। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

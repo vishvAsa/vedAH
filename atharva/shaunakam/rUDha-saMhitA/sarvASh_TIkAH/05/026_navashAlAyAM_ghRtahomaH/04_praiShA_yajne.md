@@ -18,10 +18,9 @@ Ppp. reads *prāiṣā nividā priyo yajūṅṣi śiṣṭāḥ* etc.
 Bring Praishas in the rite--All hail!--and Nivids, learned, con- nected, with the Consorts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽएषा:। यज्ञे। निऽविद:। स्वाहा। शिष्टा:। पत्नीभि:। वहत। इह। युक्ता:। २६.४।
+प्रऽएषाः। यज्ञे। निऽविदः। स्वाहा। शिष्टाः। पत्नीभिः। वहत। इह। युक्ताः। २६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

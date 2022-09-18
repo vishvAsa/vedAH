@@ -30,10 +30,9 @@ when it should be 9.⌋
 Those from all points assail us, Jatavedas, who sacrifice from intermediate regions. For wronging Prayer let them be turned and troubled, I smite them backward with mine incantation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। दिशाम्। अन्त:ऽदेशेभ्य:। जुह्वति। जातऽवेद:। सर्वाभ्य:। दिक्ऽभ्य:। अभिऽदासन्ति। अस्मान्। ब्रह्म। ऋत्वा। ते। पराञ्च:। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.८।
+ये। दिशाम्। अन्तःऽदेशेभ्यः। जुह्वति। जातऽवेदः। सर्वाभ्यः। दिक्ऽभ्यः। अभिऽदासन्ति। अस्मान्। ब्रह्म। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

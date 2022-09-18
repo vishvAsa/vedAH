@@ -19,10 +19,9 @@ instead of a *jagatī*-pāda at the end.
 Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat of Gods art thou, O Goddess House.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हवि:ऽधानम्। अग्निऽशालम्। पत्नीनाम्। सदनम्। सद:। सद:। देवानाम्। असि। देवि। शाले। ३.७।
+हविःऽधानम्। अग्निऽशालम्। पत्नीनाम्। सदनम्। सदः। सदः। देवानाम्। असि। देवि। शाले। ३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

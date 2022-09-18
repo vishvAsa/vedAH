@@ -16,7 +16,6 @@ title = "०३ चक्षुर्मुसलं काम"
 Vision is the pestle, Desire the mortar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चक्षुः। मुसलम्। कामः। उलूखलम्। ३.३।

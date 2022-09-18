@@ -26,10 +26,9 @@ rogān.*
 He hath returned to consciousness, rejoined the living's firm abodes, For hundred leeches are in this, yea, and a thousand healing herbs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अधिऽइती:। अधि। अगात्। अयम्। अधि। जीवऽपुरा:। अगत्। शतम्। हि। अस्य। भिषज:। सहस्रम्। उत। वीरुध:। ९.३।
+अधिऽइतीः। अधि। अगात्। अयम्। अधि। जीवऽपुराः। अगत्। शतम्। हि। अस्य। भिषजः। सहस्रम्। उत। वीरुधः। ९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,10 +17,9 @@ mixing milk with honey.
 Along their paths the Mothers go, sisters of priestly ministrants, Blending their water with the mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अम्वयः। यन्ति। अध्वऽभिः। जामयः। अध्वरिऽयताम्। पृञ्चतीः। मधुना। पय:।
+अम्वयः। यन्ति। अध्वऽभिः। जामयः। अध्वरिऽयताम्। पृञ्चतीः। मधुना। पयः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

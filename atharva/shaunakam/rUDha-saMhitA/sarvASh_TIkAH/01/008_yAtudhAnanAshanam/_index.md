@@ -7,7 +7,6 @@ title = "००८ यातुधाननाशनम्"
 8. To Agni and other gods: for the discovery of sorcerers.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यातुधाननाशनम्।  
@@ -18,8 +17,6 @@ title = "००८ यातुधाननाशनम्"
 
 [Cātana.—ānuṣṭubham: 4. bārhatagarbhā triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 401; Ludwig, p. 523; Griffith, i. 11; Bloomfield, 65, 239
 
 To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 </details>
+

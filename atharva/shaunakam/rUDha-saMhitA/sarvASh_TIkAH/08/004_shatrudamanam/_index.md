@@ -7,7 +7,6 @@ title = "००४ शत्रुदमनम्"
 4. Against sorcerers and demons: to Indra and Soma.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुदमनम्।  
@@ -18,8 +17,6 @@ title = "००४ शत्रुदमनम्"
 
 [Cātana.—pañcaviṅśakam. mantroktadevatyam. jāgatam: 8-14, 16, 17, 19, 22, 24. triṣṭubh; 20, 23. bhurij; 25. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: by the RV. translators; and as AV. hymn by Henry, 10, 47; Griffith, 
 
 Imprecations on demons
 </details>
+

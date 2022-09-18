@@ -7,7 +7,6 @@ title = "००२ शत्रुसेनासंमोहनम्"
 2. Against enemies.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुसेनासंमोहनम्।  
@@ -18,8 +17,6 @@ title = "००२ शत्रुसेनासंमोहनम्"
 
 [Atharvan.—senāmohanam. bahudevatyam. trāiṣṭubham: 2-4. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 183; Griffith, i. 82; Bloomfield, 121, 327.—Cf. Berga
 
 A rifaccimento or recension of I
 </details>
+

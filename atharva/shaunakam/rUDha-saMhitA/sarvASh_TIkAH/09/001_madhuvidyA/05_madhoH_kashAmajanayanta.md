@@ -19,10 +19,9 @@ Ppp. has at the end *bhuvanā ’bhi vaste*.
 The deities begat the Whip of Honey: her embryo assumed all forms and fashions. The mother nourishes that tender infant which at its birth looks on all worlds and beings.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मधो:। कशाम्। अजनयन्त। देवा:। तस्या:। गर्भ:। अभवत्। विश्वऽरूप:। तम्। जातम्। तरुणम्। पिपर्ति। माता। स:। जात:। व‍िश्वा। भुवना। वि। चष्टे। १.५।
+मधोः। कशाम्। अजनयन्त। देवाः। तस्याः। गर्भः। अभवत्। विश्वऽरूपः। तम्। जातम्। तरुणम्। पिपर्ति। माता। सः। जातः। व‍िश्वा। भुवना। वि। चष्टे। १.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

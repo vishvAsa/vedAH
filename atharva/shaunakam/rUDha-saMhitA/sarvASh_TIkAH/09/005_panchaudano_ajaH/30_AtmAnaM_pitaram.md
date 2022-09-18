@@ -19,10 +19,9 @@ Nor does the Anukr. heed the deficient syllables in **b** of this verse.
 Himself, the father and the son, the grandson, and the father's sire, Mother, wife, her who bore his babes, all the beloved ones I call.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आत्मानम्। पितरम्। पुत्रम्। पौत्रम्। पितामहम्। जायाम्। जनित्रीम्। मातरम्। ये। प्रिया:। तान्। उप। ह्वये। ५.३०।
+आत्मानम्। पितरम्। पुत्रम्। पौत्रम्। पितामहम्। जायाम्। जनित्रीम्। मातरम्। ये। प्रियाः। तान्। उप। ह्वये। ५.३०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

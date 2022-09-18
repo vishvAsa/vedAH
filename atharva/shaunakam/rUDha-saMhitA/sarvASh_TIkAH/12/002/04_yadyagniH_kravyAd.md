@@ -27,7 +27,6 @@ fire which is to be banished. ⌊The verse contains reminiscences of 7 and
 If the corpse-eating Agni, or a tiger leaving his lair, hath entered this our homestead, With beans prepared in butter I expel him: far let him go to fires that lie in waters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। अग्निः। क्रव्यऽअत्। यदि। वा। व्याघ्रः। इमम्। गोऽस्थम्। प्रऽविवेश। अनिऽओकाः। तम्। माषऽआज्यम्। कृत्वा। प्र। हिणोमि। दूरम्। सः। गच्छतु। अप्सुऽसदः। अपि। अग्नीन्। २.४।

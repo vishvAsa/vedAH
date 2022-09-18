@@ -20,7 +20,6 @@ and *antáḥ*.\]
 Who out of many, tell me, is that Skambha in whom men recognize the Waters, Brahma, In whom they know the worlds and their enclosures, in whom are non-existence and existence?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। लोकान्। च। कोशान्। च। आपः। ब्रह्म। जनाः। विदुः। असत्। च। यत्र। सत्। च। अन्तः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१०।

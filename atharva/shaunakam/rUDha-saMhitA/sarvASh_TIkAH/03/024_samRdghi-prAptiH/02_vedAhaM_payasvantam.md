@@ -24,10 +24,9 @@ that is *nicṛt* ⌊read *táṁ-taṁ?⌋.*
 Him who is rich in milk I know. Abundant hath he made our corn. The God whose name is Gatherer, him we invoke who dwelleth in his house who sacrifices not.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वेद। अहम्। पयस्वन्तम्। चकार। धान्यम्। बहु। सम्ऽभृत्वा। नाम। य:। देव:। तम्। वयम्। हवामहे। य:ऽय:। अयज्वन:। गृहे। २४.२।
+वेद। अहम्। पयस्वन्तम्। चकार। धान्यम्। बहु। सम्ऽभृत्वा। नाम। यः। देवः। तम्। वयम्। हवामहे। यःऽयः। अयज्वनः। गृहे। २४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

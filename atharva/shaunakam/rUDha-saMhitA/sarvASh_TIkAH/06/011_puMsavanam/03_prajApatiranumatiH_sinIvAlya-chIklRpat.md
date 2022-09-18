@@ -22,10 +22,9 @@ of the Prāt. rules (ii. 88, iv. 83) mention *strāísūyam* (p.
 Prajapati, Anumati, Sinivali have ordered it. Elsewhere may he effect the birth of maids, but here prepare a boy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रजाऽपति:। अनुऽमति:। सिनीवाली। अचीक्लृपत्। स्रैसूयम्। अन्यत्र। दधत्। पुमांसम्। ऊं इति। दधत्। इह। ११.३।
+प्रजाऽपतिः। अनुऽमतिः। सिनीवाली। अचीक्लृपत्। स्रैसूयम्। अन्यत्र। दधत्। पुमांसम्। ऊं इति। दधत्। इह। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

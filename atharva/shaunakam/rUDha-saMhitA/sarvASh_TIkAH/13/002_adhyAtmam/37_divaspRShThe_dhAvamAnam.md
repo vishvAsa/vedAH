@@ -23,7 +23,6 @@ verse is quoted in Vāit. 18. 7, in the *agniṣṭoma*.⌋
 Him, Son of Aditi, an Eagle hasting along heaven's height, I supplicate in terror, As such prolong our lengthened life, O Surya: may we, unha- rmed, enjoy thy gracious favour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दिवः। पृष्ठे। धावमानम्‌। सुऽपर्णम्। अदित्याः। पुत्रम्। नाथऽकामः। उप। यामि। भीतः। सः। नः। सूर्य। प्र। तिर। दीर्घम्। आयुः। मा। रिषाम। सुऽमतौ। ते। स्याम। २.३७।

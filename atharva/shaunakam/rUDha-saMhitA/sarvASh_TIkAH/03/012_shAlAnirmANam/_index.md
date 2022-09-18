@@ -7,7 +7,6 @@ title = "०१२ शालानिर्माणम्"
 12. Accompanying the building of a house.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शालानिर्माणम्।  
@@ -19,8 +18,6 @@ title = "०१२ शालानिर्माणम्"
 [Brahman.—navarcam. śālāsūktam. vāstoṣpatiśālādāivatam. trāiṣṭubham: 2. virāḍjagatī; 3. bṛhatī; 6. śakvarīgarbhā jagatī; 7. ārṣy anuṣṭubh; 8. bhurij; 9. anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Ppp. reads abhi instead of upa in d. Pādas a, b are found in PGS. iii. 4. 4, wi
 
 A benediction on a newly built house
 </details>
+

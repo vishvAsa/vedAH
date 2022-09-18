@@ -26,10 +26,9 @@ Anukr.
 Inflate thee with his vital breath who hathes us and whom we detest. May we grow rich in steeds and kine, in children, cattle, houses, wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्म:। तस्य। त्वम्। प्राणेन। आ। प्यायस्व। आ। वयम्। प्याशिषीमहि। गोभि:। अश्वै:। प्रऽजया। पशुऽभि:। गृहै:। धनेन। ८६.५।
+यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तस्य। त्वम्। प्राणेन। आ। प्यायस्व। आ। वयम्। प्याशिषीमहि। गोभिः। अश्वैः। प्रऽजया। पशुऽभिः। गृहैः। धनेन। ८६.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,7 +22,6 @@ mārṣṭu* = 'serve as *sammārjana*.'
 The holy water be thy hair: let thy tongue make thee clean, O Cow. Go, Hundredfold Oblation, made bright and adorable, to hea- ven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बालाः। ते। प्रऽउक्षणीः। सन्तु। जिह्वा। सम्। मार्ष्टु। अघ्न्ये। शुध्दा। त्वम्। यज्ञिया। भूत्वा। दिवम्। प्र। इहि। शतऽओदने। ९.३।

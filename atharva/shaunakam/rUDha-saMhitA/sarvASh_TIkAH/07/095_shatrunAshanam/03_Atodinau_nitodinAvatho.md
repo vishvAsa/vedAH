@@ -27,10 +27,9 @@ only a small minority of his mss.
 Like two that thrust, like two that pierce, like two that strike with mutual blows. I bind the conduit of the man or dame who hence hath taken aught.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽतोदिनौ। निऽतोदिनौ। अथो इति। सम्ऽतोदिनौ। उत। अपि। नह्यामि। अस्य। मेढ्रम्। य:। इत:। स्त्री। पुमान्। जभार। १००.३।
+आऽतोदिनौ। निऽतोदिनौ। अथो इति। सम्ऽतोदिनौ। उत। अपि। नह्यामि। अस्य। मेढ्रम्। यः। इतः। स्त्री। पुमान्। जभार। १००.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

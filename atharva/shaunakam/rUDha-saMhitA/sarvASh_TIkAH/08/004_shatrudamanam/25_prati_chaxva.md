@@ -20,10 +20,9 @@ Anukr. says *turīyam āhur iha pañcaviṅśakam.*⌋
 Look, each one, hither, look around. Indra and Soma, watch ye well. Cast forth your weapon at the fiends: against the sorcerers hurl your bolt.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रति। चक्ष्व। वि। चक्ष्व। इन्द्र:। च। सोम। जागृतम्। रक्ष:ऽभ्य:। वधम्। अस्यतम्। अशनिम्। यातुमत्ऽभ्य:। ४.२५। ११
+प्रति। चक्ष्व। वि। चक्ष्व। इन्द्रः। च। सोम। जागृतम्। रक्षःऽभ्यः। वधम्। अस्यतम्। अशनिम्। यातुमत्ऽभ्यः। ४.२५। ११
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

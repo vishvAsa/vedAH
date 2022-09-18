@@ -28,7 +28,6 @@ introduction.*\]
 May the pure Waters cleanse us from defilement, Fair to behold remove our sin and trouble, and bear away ill- dream and all pollution.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरिप्राः। आपः। अप। रिप्रम्। अस्मत्। प्र। अस्मत्। एनः। दुःऽइतम्। सुऽप्रतीकाः। प्र। दुःऽस्वप्न्यम्। प्र। मलम्। वहन्तु। ५.२४।

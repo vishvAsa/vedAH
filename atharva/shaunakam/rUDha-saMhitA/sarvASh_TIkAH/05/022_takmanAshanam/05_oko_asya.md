@@ -26,10 +26,9 @@ the verse as it stands. We should expect either *yā́vān* or *tā́vat*.
 His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever since thy birth hast lived among the Bahlikas.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओक:। अस्य। मूजऽवन्त:। ओक:। अस्य। महाऽवृषा:। यावत्। जात:। तक्मन्। तावान्। असि। बल्हिकेषु। निऽओचर:। २२.५।
+ओकः। अस्य। मूजऽवन्तः। ओकः। अस्य। महाऽवृषाः। यावत्। जातः। तक्मन्। तावान्। असि। बल्हिकेषु। निऽओचरः। २२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,10 +17,9 @@ the darknesses go, there have I made the flesh-eaters go.
 Drive and imprison in a hill these Kanvas harassers of life: Follow them Prisniparni, thou Goddess, like fire consuming. them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पराच:। एनान्। प्र। नुद। कण्वान्। जीवितऽयोपनान्। तमांसि। यत्र। गच्छन्ति। तत्। क्रव्यऽअद:। अजीगमम्। २५.५।
+पराचः। एनान्। प्र। नुद। कण्वान्। जीवितऽयोपनान्। तमांसि। यत्र। गच्छन्ति। तत्। क्रव्यऽअदः। अजीगमम्। २५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

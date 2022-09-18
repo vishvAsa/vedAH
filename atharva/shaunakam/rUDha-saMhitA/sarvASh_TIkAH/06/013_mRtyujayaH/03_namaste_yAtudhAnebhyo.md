@@ -17,10 +17,9 @@ O death; this homage to the Brāhmans.
 Worship to thy physicians, to thy sorcerers be worship paid! Death! let this reverence be done unto thy Brahmans and thy roots.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। ते। यातुऽधानेभ्य:। नम:। ते। भेषजेभ्य:। नम:। ते। मृत्यो इति। मूलेभ्य:। ब्राह्मणेभ्य:। इदम्। नम:। १३.३।
+नमः। ते। यातुऽधानेभ्यः। नमः। ते। भेषजेभ्यः। नमः। ते। मृत्यो इति। मूलेभ्यः। ब्राह्मणेभ्यः। इदम्। नमः। १३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

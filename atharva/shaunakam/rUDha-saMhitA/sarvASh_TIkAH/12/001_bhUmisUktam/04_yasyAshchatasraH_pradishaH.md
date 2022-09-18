@@ -33,7 +33,6 @@ verse is, if we make no resolutions in **d**, a regular triṣṭubh.
 She who is Lady of the earth's four regions, in whom our food and corn-lands had their being, Nurse in each place of breathing, moving creatures, this Earth. vouchsafe us kine with milk that fails not!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याः। चतस्रः। प्रऽदिशः। पृथिव्याः। यस्याम्। अन्नम्। कृष्टयः। सम्ऽबभूवुः। या। बिभर्ति। बहुऽधा। प्राणत्। एजत्। सा। नः। भूमिः। गोषु। अपि। अन्ने। दधातु। १.४।

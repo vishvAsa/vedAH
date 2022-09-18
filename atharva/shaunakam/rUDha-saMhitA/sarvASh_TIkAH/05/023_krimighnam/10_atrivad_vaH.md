@@ -17,10 +17,9 @@ incantation of Agastya I mash together the worms.
 The King of worms hath been destroyed, he who was lord of these is slain. Slain is the worm whose mother, whose brother and sister have been slain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अत्त्रिऽवत्। व:। क्रिमय:। हन्मि। कण्वऽवत्। जमदग्निऽवत्। अगस्त्यस्य। ब्रह्मणा। सम्। पिनष्मि। अहम्। क्रिमीन्। २३.१०।
+अत्त्रिऽवत्। वः। क्रिमयः। हन्मि। कण्वऽवत्। जमदग्निऽवत्। अगस्त्यस्य। ब्रह्मणा। सम्। पिनष्मि। अहम्। क्रिमीन्। २३.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

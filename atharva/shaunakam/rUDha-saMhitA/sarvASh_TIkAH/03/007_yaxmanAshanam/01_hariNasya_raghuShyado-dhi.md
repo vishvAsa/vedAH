@@ -27,10 +27,9 @@ above, ii. 8.
 The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he drives away to all directions with his horn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हरिणस्य। रघुऽस्यद:। अधि। शीर्षाणि। भेषजम्। स:। क्षेत्रियम्। विऽसानया। विषूचीनम्। अनीनशत्। ७.१।
+हरिणस्य। रघुऽस्यदः। अधि। शीर्षाणि। भेषजम्। सः। क्षेत्रियम्। विऽसानया। विषूचीनम्। अनीनशत्। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

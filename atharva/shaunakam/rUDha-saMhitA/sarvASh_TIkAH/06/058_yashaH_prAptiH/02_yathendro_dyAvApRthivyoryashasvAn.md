@@ -21,10 +21,9 @@ ill defined by the Anukr.
 Indra from Heaven and Earth receiveth glory among the plants the Waters have their glory; Even so may we be glorious'mid all the Universal Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। इन्द्र:। द्यावापृथिव्यो:। यशस्वान्। यथा। आप:। ओषधीषु। यशस्वती:। एव। विश्वेषु। देवेषु। वयम्। सर्वेषु। यशस:। याम। ५८.२।
+यथा। इन्द्रः। द्यावापृथिव्योः। यशस्वान्। यथा। आपः। ओषधीषु। यशस्वतीः। एव। विश्वेषु। देवेषु। वयम्। सर्वेषु। यशसः। याम। ५८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

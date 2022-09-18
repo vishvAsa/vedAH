@@ -19,7 +19,6 @@ Pādas **b** and **c** are identical with 36 **a, b**. Instead of
 Rising to heaven, immortal, hear my calling. Cleansed by prayer, sacrifices bear thee upward. Bay coursers, ever on the road, convey thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽरोहन्। द्याम्। अमृतः। प्र। अव। मे। वचः। उत्। त्वा। यज्ञाः। ब्रह्मऽपूताः। वहन्ति। अध्वऽगतः। हरयः। त्वा। वहन्ति। १.४३।

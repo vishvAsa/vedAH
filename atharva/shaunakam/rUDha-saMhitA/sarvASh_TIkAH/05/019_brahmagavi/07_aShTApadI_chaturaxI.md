@@ -20,10 +20,9 @@ Ppp. reads, in **c**, *dvijihvā dviprāṇā bhūtvā*, and omits
 She grows eight-footed, and four-eyed, four-eared, four-jawed, two-faced, two-tongued, And shatters down the kingdom of the man who doth the Brahman wrong.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अष्टाऽपदी। चतु:ऽअक्षी:। चतु:ऽश्रोत्रा। चतु:ऽहनु:। द्विऽआस्या। द्विऽजिह्वा। भूत्वा। सा। राष्ट्रम्। अव। धूनुते। ब्रह्मऽज्यस्य। १९.७।
+अष्टाऽपदी। चतुःऽअक्षीः। चतुःऽश्रोत्रा। चतुःऽहनुः। द्विऽआस्या। द्विऽजिह्वा। भूत्वा। सा। राष्ट्रम्। अव। धूनुते। ब्रह्मऽज्यस्य। १९.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

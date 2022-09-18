@@ -17,10 +17,9 @@ Ppp. has *sahodā agnes saho me dhā svāhā.*
 Might art thou, give me might. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सह:। असि। सह:। मे। दा:। स्वाहा। १७.२।
+सहः। असि। सहः। मे। दाः। स्वाहा। १७.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

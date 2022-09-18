@@ -23,10 +23,9 @@ noted⌋ combine *na syon-* in **c**.
 Bards, who invigorate the milk of milch-kine, the sap of growing plants, the speed of coursers To us may the strong Maruts be auspicious. May they deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पय:। धेनूनाम्। रसम्। ओषधीनाम्। जवम्। अर्वताम्। कवय:। ये। इन्वथ। शग्मा। भवन्तु। मरुत:। न:। स्योना:। ते। न:। मुञ्चन्तु। अंहस:। २७.३।
+पयः। धेनूनाम्। रसम्। ओषधीनाम्। जवम्। अर्वताम्। कवयः। ये। इन्वथ। शग्मा। भवन्तु। मरुतः। नः। स्योनाः। ते। नः। मुञ्चन्तु। अंहसः। २७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

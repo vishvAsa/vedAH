@@ -25,10 +25,9 @@ occurrence not noted⌋, and reads in **b** *vasuruciḥ sūryavarcaso* and
 She mounted up, she came to Other People. They called her, crying, Come, Concealment! hither. Her dear calf was Vaisravana Kubera, a vessel never tempered was her milk-pail. Rajatanabhi, offspring of Kubera, milked her, and from her udder drew concealment. By that concealment live the Other People. He who knows this becomes a meet supporter, and makes all evil disappear and vanish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। देवान्। आ। अगच्छत्। ताम्। देवा:। अघ्नत। सा। अर्धऽमासे। सम्। अभवत्। १२.५।
+सा। उत्। अक्रामत्। सा। देवान्। आ। अगच्छत्। ताम्। देवाः। अघ्नत। सा। अर्धऽमासे। सम्। अभवत्। १२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

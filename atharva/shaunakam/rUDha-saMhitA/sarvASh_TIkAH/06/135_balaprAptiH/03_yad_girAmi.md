@@ -21,10 +21,9 @@ editions.
 Whate'er I eat I swallow up, even as the sea that swallows all. Swallowing that man's vital breath, we swallow him completely up.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। गिरामि। सम्। गिरामि। समुद्र:ऽइव। सम्ऽगिर:। प्राणान्। अमुष्य। सम्ऽगीर्य। सम्। गिराम:। अमुम्। वयम्। १३५.३।
+यत्। गिरामि। सम्। गिरामि। समुद्रःऽइव। सम्ऽगिरः। प्राणान्। अमुष्य। सम्ऽगीर्य। सम्। गिरामः। अमुम्। वयम्। १३५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

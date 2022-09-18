@@ -7,7 +7,6 @@ title = "००९ आञ्जनम्"
 9. For protection etc.: with a certain ointment.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आञ्जनम्।  
@@ -19,8 +18,6 @@ title = "००९ आञ्जनम्"
 [Bhṛgu.—daśarcam. trāikakudāñjanadāivatam. ānuṣṭubham: 2. kakummatī; 3. pathyāpan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Found mostly in Pāipp. viii. (in the verse-order 9, 3, 2, 5, 6, 8, 10, 4, 7). U
 
 A charm addressed to a precious ointment for safety and wealth
 </details>
+

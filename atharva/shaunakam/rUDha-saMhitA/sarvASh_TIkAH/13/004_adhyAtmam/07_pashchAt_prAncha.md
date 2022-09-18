@@ -17,7 +17,6 @@ title = "०७ पश्चात् प्राञ्च"
 From west to east they bend their way: when he mounts up he shines afar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पश्चात्। प्राञ्चः। आ। तन्वन्ति। यत्। उत्ऽएति। वि। भासति। ४.७।

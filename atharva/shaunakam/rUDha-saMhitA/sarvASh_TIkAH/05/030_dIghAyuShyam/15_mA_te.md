@@ -18,10 +18,9 @@ Ppp. reads *mā ’pāno* in **b**, and *-yachati* in **d**.
 Let not thine inward breathing fail, let not thine outward breath be lost. Let Surya who is Lord Supreme raise thee from death with beams of light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। ते। प्राण:। उप। दसत्। मो इति। अपान:। अपि। धायि। ते। सूर्य:। त्वा। अधिऽपति। मृत्यो:। उत्ऽआयच्छतु। रश्मिऽभि:। ३०.१५।
+मा। ते। प्राणः। उप। दसत्। मो इति। अपानः। अपि। धायि। ते। सूर्यः। त्वा। अधिऽपति। मृत्योः। उत्ऽआयच्छतु। रश्मिऽभिः। ३०.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

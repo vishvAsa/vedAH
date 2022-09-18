@@ -24,7 +24,6 @@ rather absurd; perhaps *jihvayā* (so Ludwig) belongs rather to 'we':
 Let us not outrage with our tongue far-seeing Rudra, thousand- eyed, Inspired with varied lore, who shoots his arrows forward, far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सहस्रऽअक्षम्। अतिऽपश्यम्। पुरस्तात्। रुद्रम्। अस्यन्तम्। बहुऽधा। विपःऽचितम्। मा। उप। अराम। जिह्वया। ईयमानम्। २.१७।

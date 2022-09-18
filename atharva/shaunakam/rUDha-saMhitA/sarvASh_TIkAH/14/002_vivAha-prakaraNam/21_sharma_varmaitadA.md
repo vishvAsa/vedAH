@@ -29,7 +29,6 @@ hide of a red ox.
 Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, let her bear children, and live in Bhaga's grace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शर्म। वर्म। एतत्। आ। हर। अस्यै। नार्यै। उपऽस्तरे। सिनीवालि। प्र। जायताम्। भगस्य। सुऽमतौ। असत्। २.२१।

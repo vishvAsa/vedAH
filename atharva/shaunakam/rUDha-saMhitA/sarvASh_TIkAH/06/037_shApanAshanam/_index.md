@@ -7,7 +7,6 @@ title = "०३७ शापनाशनम्"
 37. Against curses.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शापनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३७ शापनाशनम्"
 
 [Atharvan (svastyayanakāmaḥ).—cāndramasam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 297 or 49; Grill, 25, 161; Griffith, i. 264; Bloomfield, 93
 
 A charm to divert Imprecation personified
 </details>
+

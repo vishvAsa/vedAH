@@ -25,7 +25,6 @@ is curiously defined by the Anukr.
 Drive us not from the west or east, drive us not from the north or south, Be gracious unto us, O Earth: let not the robbers find us; keep the deadly weapon far away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मा। नः। पश्चात्। मा। पुरस्तात्। नुदिष्ठाः। मा। उत्तरात्। अधरात्। उत। स्वस्ति। भूमे। नः। भव। मा। विदन्। परिऽपन्थिनः। वरीयः। यवय। वधम्। १.३२।

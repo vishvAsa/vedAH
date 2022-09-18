@@ -18,7 +18,6 @@ gāyatragarbhā ’nuṣṭubh (?); 50. triṣṭubh.*\]
 I turn me unto Brahmans. May they etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्राह्मणान्। अभिऽआवर्ते। ते। मे। द्रविणम्। यच्छन्तु। ते। मे। ब्राह्मणऽवर्चसम्। ५.४१।

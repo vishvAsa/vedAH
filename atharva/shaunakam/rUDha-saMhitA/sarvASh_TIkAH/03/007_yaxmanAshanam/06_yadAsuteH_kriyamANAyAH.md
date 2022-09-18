@@ -22,10 +22,9 @@ annam* 'liquidized food.'
 Hath some prepared decoction brought inveterate disease on thee, I know the balm that healeth it: we drive the malady away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽसुते:। क्रियमाणाया:। क्षेत्रियम्। त्वा। विऽआनशे। वेद। अहम्। तस्य। भेषजम्। क्षेत्रियम्। नाशयामि। त्वत्। ७.६।
+यत्। आऽसुतेः। क्रियमाणायाः। क्षेत्रियम्। त्वा। विऽआनशे। वेद। अहम्। तस्य। भेषजम्। क्षेत्रियम्। नाशयामि। त्वत्। ७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०१९ अपामार्गः"
 19. Against enemies: with a plant.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपामार्गः।  
@@ -18,8 +17,6 @@ title = "०१९ अपामार्गः"
 
 [śukra.—(etc.: see hymn 17). 2. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 34, 132; Griffith, i. 157; Bloomfield, 71, 397; Weber, xviii.
 
 A counter-charm and charm to secure general protection.
 </details>
+

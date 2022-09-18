@@ -24,10 +24,9 @@ to the naming of the names, see Weber's note, p. 73.⌋
 I bind and hold thee fast with all these nooses, thou son of such a man and such a mother. All these do I assign thee as thy portion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तै:। त्वा। सर्वै:। अभि। स्यामि। पाशै:। असौ। आमुष्यायण। अमुष्या:। पुत्र। तान्। ऊं इति। ते। सर्वान्। अनुऽसंदिशामि। १६.९।
+तैः। त्वा। सर्वैः। अभि। स्यामि। पाशैः। असौ। आमुष्यायण। अमुष्याः। पुत्र। तान्। ऊं इति। ते। सर्वान्। अनुऽसंदिशामि। १६.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

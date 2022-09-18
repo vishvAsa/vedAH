@@ -29,10 +29,9 @@ simply by *saṁroddhāram*.
 I have completely cleaned thee out, won from thee what thou keptest back. As a wolf tears and rends a sheep, so do I tear thy stake away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अजैषम्। त्वा। सम्ऽलिख‍ितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृक:। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५।
+अजैषम्। त्वा। सम्ऽलिख‍ितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृकः। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

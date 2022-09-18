@@ -23,10 +23,9 @@ rogādikam*.
 The Apamarga is alone the sovran of all Plants that grow. With this we wipe away whate'er hath fallen on thee: go in health!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपामार्ग:। ओषधीनाम्। सर्वासाम्। एक:। इत्। वशी। तेन। ते। मृज्म:। आऽस्थितम्। अथ। त्वम्। अगद:। चर। १७.८।
+अपामार्गः। ओषधीनाम्। सर्वासाम्। एकः। इत्। वशी। तेन। ते। मृज्मः। आऽस्थितम्। अथ। त्वम्। अगदः। चर। १७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

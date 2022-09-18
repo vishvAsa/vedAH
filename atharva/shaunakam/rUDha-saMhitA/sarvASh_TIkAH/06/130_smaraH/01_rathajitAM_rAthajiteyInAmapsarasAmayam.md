@@ -28,10 +28,9 @@ postulated for the Apsarases in this spell. Ludwig renders *smara* by
 This is the Apsarases' love-spell, the conquering, resistless ones'. Send the spell forth, ye Deities! Let him consume with love of me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रथऽजिताम्। राथऽजितेयीनाम्। अप्सरसाम्। अयम्। स्मर:। देवा:। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.१।
+रथऽजिताम्। राथऽजितेयीनाम्। अप्सरसाम्। अयम्। स्मरः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

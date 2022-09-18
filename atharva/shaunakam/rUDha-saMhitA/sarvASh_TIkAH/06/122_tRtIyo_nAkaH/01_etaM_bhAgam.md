@@ -29,10 +29,9 @@ verse had occurred earlier in the text; but it has not been found.
 This portion I who understand deliver to Visvakarman first-born son of Order. So may we follow to the end, unbroken, beyond old age, the thread which we have given.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एतम्। भागम्। परि। ददामि। विद्वान्। विश्वऽकर्मन्। प्रथमऽजा:। ऋतस्य। अस्माभि:। दत्तम्। जरस:। परस्तात्। अच्छिन्नम्। तन्तुम्। अनु। सम्। तरेम। १२२.१।
+एतम्। भागम्। परि। ददामि। विद्वान्। विश्वऽकर्मन्। प्रथमऽजाः। ऋतस्य। अस्माभिः। दत्तम्। जरसः। परस्तात्। अच्छिन्नम्। तन्तुम्। अनु। सम्। तरेम। १२२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

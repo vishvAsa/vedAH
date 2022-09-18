@@ -23,10 +23,9 @@ wanting in Ppp. (save as **d** is found in it as 1 **d**: see above).
 Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the three were fastened. Knowing the way untie the she-fiend's nooses: free all, the son, the father, and the mother.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। मुञ्च। पाशान्। त्वम्। अग्ने। एषाम्। त्रय:। त्र‍िऽभि:। उत्सिता:। येभि:। आसन्। स:। ग्राह्या:। पाशान्। वि। चृत। प्रऽजानन्। पितापुत्रौ। मातरम्। मुञ्च। सर्वान्। ११२.२।
+उत्। मुञ्च। पाशान्। त्वम्। अग्ने। एषाम्। त्रयः। त्र‍िऽभिः। उत्सिताः। येभिः। आसन्। सः। ग्राह्याः। पाशान्। वि। चृत। प्रऽजानन्। पितापुत्रौ। मातरम्। मुञ्च। सर्वान्। ११२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

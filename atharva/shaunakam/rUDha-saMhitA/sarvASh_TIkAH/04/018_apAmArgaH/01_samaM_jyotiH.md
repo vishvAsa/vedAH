@@ -30,10 +30,9 @@ the *ṛ*-sign has dropped out from under the *k*-sign in this word.
 The moonlight equalleth the sun, night is the rival of the day. I make effectual power my help: let magic arts be impotent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समम्। ज्योति:। सूर्येण। अह्ना। रात्री। समऽवती। कृणोमि। सत्यम्। ऊतये। अरसा:। सन्तु। कृत्वरी:। १८.१।
+समम्। ज्योतिः। सूर्येण। अह्ना। रात्री। समऽवती। कृणोमि। सत्यम्। ऊतये। अरसाः। सन्तु। कृत्वरीः। १८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

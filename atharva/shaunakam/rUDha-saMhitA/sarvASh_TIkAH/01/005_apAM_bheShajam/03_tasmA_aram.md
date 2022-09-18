@@ -24,10 +24,9 @@ signify about the same thing as *jínvatha?*⌋
 For you we fain would go to him to whose abode ye send us forth, And, Waters, give us procreant strength.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तस्मै। अरम्। गमाम। व:। यस्य। क्षयाय। जिन्वथ। आप:। जनयथ। च। न:।
+तस्मै। अरम्। गमाम। वः। यस्य। क्षयाय। जिन्वथ। आपः। जनयथ। च। नः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

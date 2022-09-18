@@ -23,7 +23,6 @@ where it finds more than thirteen.
 In him these Deities become simple and One
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 एते। अस्मिन्। देवाः। एकऽवृतः। भवन्ति। ४.१५।

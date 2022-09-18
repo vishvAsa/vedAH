@@ -17,7 +17,6 @@ title = "१९ यथा यशः"
 As glory dwelleth in the Earth, and in this Jatavedas here, So may the Charm etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। पृथिव्याम्। यथा। अस्मिन्। जातऽवेदस‍ि। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.१९।

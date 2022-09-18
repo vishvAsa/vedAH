@@ -19,10 +19,9 @@ and renders *samāirayan* in **b** by *sarvatra prāvartayan*.
 The Gods have lifted up with breath the Sun whose might is everywhere. I free, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राणेन। विश्वत:ऽवीर्यम्। देवा:। सूर्यम्। सम्। ऐरयन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.७।
+प्राणेन। विश्वतःऽवीर्यम्। देवाः। सूर्यम्। सम्। ऐरयन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

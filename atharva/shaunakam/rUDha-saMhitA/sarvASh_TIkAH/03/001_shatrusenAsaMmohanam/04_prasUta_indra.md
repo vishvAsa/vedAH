@@ -32,10 +32,9 @@ sense "turn their plans against themselves." Ppp. has further *nūaḥ* for
 Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying foes, O Indra! Slay those who fly, slay those who stand and follow. On every side fulfil these men's intention.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्रऽसूत:। इन्द्र:। प्रऽवता। हरिऽभ्याम्। प्र। ते। वज्र:। प्रऽमृणन्। एतु। शत्रून्। जहि। प्रतीच:। अनूच:। पराच:। विष्वक्। सत्यम्। कृणुहि। चित्तम्। एषाम्। १.४।
+प्रऽसूतः। इन्द्रः। प्रऽवता। हरिऽभ्याम्। प्र। ते। वज्रः। प्रऽमृणन्। एतु। शत्रून्। जहि। प्रतीचः। अनूचः। पराचः। विष्वक्। सत्यम्। कृणुहि। चित्तम्। एषाम्। १.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

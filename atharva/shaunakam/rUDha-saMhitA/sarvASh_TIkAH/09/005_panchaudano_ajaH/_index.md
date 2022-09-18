@@ -7,7 +7,6 @@ title = "००५ पञ्चौदनो अजः"
 5. With the offering of a goat and five rice-dishes.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पञ्चौदनो अजः।  
@@ -21,8 +20,6 @@ title = "००५ पञ्चौदनो अजः"
 
 [Bhṛgu.—aṣṭātriṅśat. mantroktājam pañcāudanadevatyam. trāiṣṭubham: 3. 4-p. purotiśakvarī jagatī; 4, 10. jagatī; 14, 17, 27-30. anuṣṭubh (30. kakummatī); 16. 3-p. anuṣṭubh; 18, 37. 3-p. virāḍ gājyatrī; 23. purauṣṇih; 24. 5-p. anuṣṭubuṣṇiggarbho ’pariṣṭādbārhatā virāḍ jagatī; 20-22.?; 26. 5-p. anuṣṭubuṣṇiggarbho ’pariṣṭādbārhatā bhurij; 31. 7-p. aṣṭi; 32-35. 10-p. prakṛti; 36. 10-p. ākṛti; 38. 1-av. 2-p. sāmnī triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Muir, v. 304-6 (parts); Ludwig, p. 435; Henry, 93, 133; Griffith, i.
 
 A glorification of a sacrificial goat
 </details>
+

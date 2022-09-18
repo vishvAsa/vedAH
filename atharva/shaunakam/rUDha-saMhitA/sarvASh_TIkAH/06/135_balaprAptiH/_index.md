@@ -7,7 +7,6 @@ title = "१३५ बलप्राप्तिः"
 135. To crush an enemy.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
@@ -19,8 +18,6 @@ title = "१३५ बलप्राप्तिः"
 [śukra.—mantroktavajradevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. v. Used by Kāuś. (47. 20) in the same rite of sorcery as
 ### Translations
 Translated: Griffith, i. 321.
 </details>
+

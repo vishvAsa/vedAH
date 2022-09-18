@@ -29,10 +29,9 @@ snātvó*.⌋ ⌊As to *śumbh*, see BR. vii. 261 top.⌋
 As one unfastened from a stake, or cleansed by bathing after toil, As butter which the sieve hath cleansed, so all shall purge me from the sin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-द्रुपदात्ऽइव। मुमुचान:। स्विन्न:। स्नात्वा। मलात्ऽइव। पूतम्। पवित्रेणऽइव। आज्यम्। विश्वे। शुम्भन्तु। मा। एनस:। ११५.३।
+द्रुपदात्ऽइव। मुमुचानः। स्विन्नः। स्नात्वा। मलात्ऽइव। पूतम्। पवित्रेणऽइव। आज्यम्। विश्वे। शुम्भन्तु। मा। एनसः। ११५.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

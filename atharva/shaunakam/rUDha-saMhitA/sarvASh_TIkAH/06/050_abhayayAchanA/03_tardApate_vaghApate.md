@@ -29,10 +29,9 @@ by *patan̄gādi*. Pāda **b** is redundant, unless we contract *-bhā́
 Hearken to me, lord of the female borer, lord of the female grub! ye rough-toothed vermin! Whate'er ye be, dwelling in woods, and piercing, we crush and mangle all those piercing insects.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तर्दऽपते। वघाऽपते। तृष्टऽजम्भा:। आ। शृणोत। मे। ये। आरण्या:। विऽअद्वरा:। ये। के। च। स्थ। विऽअद्वरा:। तान्। सर्वान्। जम्भयामसि। ५०.३।
+तर्दऽपते। वघाऽपते। तृष्टऽजम्भाः। आ। शृणोत। मे। ये। आरण्याः। विऽअद्वराः। ये। के। च। स्थ। विऽअद्वराः। तान्। सर्वान्। जम्भयामसि। ५०.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

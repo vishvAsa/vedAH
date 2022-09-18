@@ -22,10 +22,9 @@ would fairly rectify it. ⌊For *ava-gam*, see note to vs. 4.⌋
 He who disputes our calling thee, be he a stranger or akin. Drive him, O Indra, far away, and do thou bring this man to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। हवम्। विऽवदत्। सऽजात:। य:। च। निष्ट्य:। अपाञ्चम्। इन्द्र। तम्। कृत्वा। अथ। इमम्। इह। अव। गमय। ३.६।
+यः। ते। हवम्। विऽवदत्। सऽजातः। यः। च। निष्ट्यः। अपाञ्चम्। इन्द्र। तम्। कृत्वा। अथ। इमम्। इह। अव। गमय। ३.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

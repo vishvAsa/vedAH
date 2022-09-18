@@ -21,10 +21,9 @@ cites it as *gótama*⌋).
 Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gotama's and Mudgala's protectors, deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। मेधऽअतिथिम्। अवथ:। यौ। त्रिऽशोकम्। मित्रावरुणै। उशनाम्। काव्यम्। यौ। यौ। गोतमम्। अवथ:। प्र। उत। मुद्गलम्। तौ  न:। मुञ्चतम्। अंहस:। २९.६।
+यौ। मेधऽअतिथिम्। अवथः। यौ। त्रिऽशोकम्। मित्रावरुणै। उशनाम्। काव्यम्। यौ। यौ। गोतमम्। अवथः। प्र। उत। मुद्गलम्। तौ  नः। मुञ्चतम्। अंहसः। २९.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

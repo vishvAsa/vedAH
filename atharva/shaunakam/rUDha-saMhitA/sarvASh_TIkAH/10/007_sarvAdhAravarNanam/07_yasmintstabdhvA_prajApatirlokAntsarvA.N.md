@@ -20,7 +20,6 @@ below where the refrain is written out, part of the mss. accent *svít*.
 Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly stablished all the worlds?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। स्तब्ध्वा। प्रजाऽपतिः। लोकान्। सर्वान्। अधारयत्। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.७।

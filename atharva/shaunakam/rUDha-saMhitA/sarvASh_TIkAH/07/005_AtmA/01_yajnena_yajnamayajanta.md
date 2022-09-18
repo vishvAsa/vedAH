@@ -3,13 +3,10 @@ title = "०१ यज्ञेन यज्ञमयजन्त"
 
 +++
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
-
-
+<div class="js_include" includetitle="false" newlevelforh1="5" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md"> </div>
 <details open><summary>पदपाठः</summary>
 
-यज्ञेन। यज्ञम्। अयजन्त। देवा:। तानि। धर्माणि। प्रथमानि। आसन्। ते। ह। नाकम्। महिमान:। सचन्त। यत्र। पूर्वे। साध्या:। सन्ति। देवा:। ५.१।
+यज्ञेन। यज्ञम्। अयजन्त। देवाः। तानि। धर्माणि। प्रथमानि। आसन्। ते। ह। नाकम्। महिमानः। सचन्त। यत्र। पूर्वे। साध्याः। सन्ति। देवाः। ५.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,10 +31,9 @@ badhaka* (cf. *bādhaka* and root *bādh*), are evident. See also introd.⌋
 Asvattha, rend those men; do thou devour them quickly, Khadira! Like reeds let them be broken through, down-smitten by a lifted rush.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमून्। अश्वत्थ। नि:। शृणीहि। खाद। अमून्। खदिर। अजिरम्। ताजद्भङ्ग:ऽइव। भज्यन्ताम्। हन्तु। एनान्। वधक:। वधै:। ८.३।
+अमून्। अश्वत्थ। निः। शृणीहि। खाद। अमून्। खदिर। अजिरम्। ताजद्भङ्गःऽइव। भज्यन्ताम्। हन्तु। एनान्। वधकः। वधैः। ८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

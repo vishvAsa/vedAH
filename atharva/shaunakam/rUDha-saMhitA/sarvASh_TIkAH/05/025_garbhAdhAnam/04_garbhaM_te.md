@@ -19,10 +19,9 @@ Ppp. reads *rājā varuṇo* for *mitrāvaruṇāu* in **a**.
 Let Mitra-Varuna and God Brihaspati lay the germ in thee. Indra and Agni lay the germ, Dhatar bestow the germ in thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गर्भम्। ते। मित्रावरुणौ। गर्भम्। देव:। बृहस्पति:। गर्भम्। ते। इन्द्र:। च। अग्नि:। च। गर्भम्। धाता। दधातु। ते। २५.४।
+गर्भम्। ते। मित्रावरुणौ। गर्भम्। देवः। बृहस्पतिः। गर्भम्। ते। इन्द्रः। च। अग्निः। च। गर्भम्। धाता। दधातु। ते। २५.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

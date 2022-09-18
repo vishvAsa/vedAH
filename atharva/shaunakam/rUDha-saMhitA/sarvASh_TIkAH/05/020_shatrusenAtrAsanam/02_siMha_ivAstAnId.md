@@ -29,10 +29,9 @@ in both **a** and **b**.
 The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet the heifer. Thou art a bull, thine enemies are weaklings: thine is the foe- subduing strength of Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सिंह:ऽइव। अस्तानीत्। द्रुवय:। विऽबध्द:। अभिऽक्रन्दन्। ऋषभ:। वासिताम्ऽइव। वृषा। त्वम्। वध्रय:। ते। सऽपत्ना:। ऐन्द्र:। ते। शुष्म:। अभिमातिऽसह:। २०.२।
+सिंहःऽइव। अस्तानीत्। द्रुवयः। विऽबध्दः। अभिऽक्रन्दन्। ऋषभः। वासिताम्ऽइव। वृषा। त्वम्। वध्रयः। ते। सऽपत्नाः। ऐन्द्रः। ते। शुष्मः। अभिमातिऽसहः। २०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

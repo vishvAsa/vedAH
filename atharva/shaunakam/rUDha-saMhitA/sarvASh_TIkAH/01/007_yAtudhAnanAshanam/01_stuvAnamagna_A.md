@@ -27,10 +27,9 @@ stuto hantā tasyo 'ta bahūvyathā*.
 Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou, lauded, hast become the Dasyu's slaughterer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्तुवानम्। अग्ने। आ। वह। यातुधानम्। किमीदिनम्। त्वम्। हि। देव। वन्दित:। हन्ता। दस्यो:। वभूविथ।
+स्तुवानम्। अग्ने। आ। वह। यातुधानम्। किमीदिनम्। त्वम्। हि। देव। वन्दितः। हन्ता। दस्योः। वभूविथ।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

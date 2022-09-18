@@ -22,10 +22,9 @@ should not give us *nā́manī*.
 If thou art from the Three-peaked hill or hast thy name from Yamuna, These names are both auspicious: by these two protect thou us, O Salve!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। वा। असि। त्रैककुदम्। यदि। यामुनम्। उच्यसे। उभे इति। ते। भद्रे इति। नाम्नी इति। ताभ्याम्। न:। पाहि। आऽअञ्जन। ९.१०।
+यदि। वा। असि। त्रैककुदम्। यदि। यामुनम्। उच्यसे। उभे इति। ते। भद्रे इति। नाम्नी इति। ताभ्याम्। नः। पाहि। आऽअञ्जन। ९.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

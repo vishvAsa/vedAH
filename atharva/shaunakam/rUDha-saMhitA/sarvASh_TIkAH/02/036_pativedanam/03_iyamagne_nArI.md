@@ -30,10 +30,9 @@ with resolution *ga-tu-ā́* ⌊or insert *sā́* before *subhágā*⌋.
 O Agni, may this woman find a husband. Then verily King Soma makes her happy. May she bear sons, chief lady of the household, blessed and bearing rule beside her consort.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। अग्ने। नारी। पतिम्। विदेष्ट। सोम:। हि। राजा। सुऽभगाम्। कृणोति। सुवाना। पुत्रान्। महिषी। भवाति। गत्वा। पतिम्। सुऽभगा। वि। राजतु। ३६.३।
+इयम्। अग्ने। नारी। पतिम्। विदेष्ट। सोमः। हि। राजा। सुऽभगाम्। कृणोति। सुवाना। पुत्रान्। महिषी। भवाति। गत्वा। पतिम्। सुऽभगा। वि। राजतु। ३६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

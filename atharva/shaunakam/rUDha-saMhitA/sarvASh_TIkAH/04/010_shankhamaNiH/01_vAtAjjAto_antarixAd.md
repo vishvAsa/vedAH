@@ -25,10 +25,9 @@ in this verse as *karśayitā śatrūṇāṁ tanūkartā*. Ppp. has in **c**
 Child of the wind firmament, sprung from the lightning and the light, May this the gold-born Shell that bears the pearl preserve us from distress.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वातात्। जात:। अन्तरिक्षात्। विऽद्युत:। ज्योतिष:। परि। स:। न:। हिरण्यऽजा:। शङ्ख:। कृशन:। पातु। अंहस:। १०.१।
+वातात्। जातः। अन्तरिक्षात्। विऽद्युतः। ज्योतिषः। परि। सः। नः। हिरण्यऽजाः। शङ्खः। कृशनः। पातु। अंहसः। १०.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

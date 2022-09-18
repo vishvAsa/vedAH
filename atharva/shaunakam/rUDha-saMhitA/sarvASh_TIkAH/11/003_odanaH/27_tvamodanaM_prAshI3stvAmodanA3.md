@@ -19,7 +19,6 @@ natural accent on the final, there is no discordance as to *odanā́3ḥ*.
 Thou hast eaten the Odana and the Odana will eat thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्वम्। ओदनम्। प्र। आशी३ः। त्वाम्। ओदना३ः। इति। ३.२७।

@@ -23,10 +23,9 @@ words.
 Rouse us to-day O Indra, Maghavan, hero, with thy best pos- sible and varied succours, May he who hateth us fall low beneath us, and him whom we detest let life abandon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। ऊतिऽभि:। बहुलाभि:। न:। अद्य। यावत्ऽश्रेष्ठाभि:। मघऽवन्। शूर। जिन्व। य:। न:। द्वेष्टि। अधर:। स:। पदीष्ट। यम्। ऊं इति। द्विष्म:। तम्। ऊं इति। प्राण:। जहातु। ३२.१।
+इन्द्र। ऊतिऽभिः। बहुलाभिः। नः। अद्य। यावत्ऽश्रेष्ठाभिः। मघऽवन्। शूर। जिन्व। यः। नः। द्वेष्टि। अधरः। सः। पदीष्ट। यम्। ऊं इति। द्विष्मः। तम्। ऊं इति। प्राणः। जहातु। ३२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,7 +19,6 @@ reading at the end *mām*.
 As glory dwelleth in the Moon and in the Sun who vieweth men, So may the Charm, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यथा। यशः। चन्द्रमसि। आदित्ये। च। नृऽचक्षसि। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.१८।

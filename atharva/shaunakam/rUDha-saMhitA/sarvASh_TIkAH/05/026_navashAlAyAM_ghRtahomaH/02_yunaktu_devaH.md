@@ -20,10 +20,9 @@ bṛhatī*), without heeding the fact that each contains a *triṣṭubh* pāda.
 May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-युनक्तु। देव:। सविता। प्रऽजानन्। अस्मिन्। यज्ञे। महिष:। स्वाहा। २६.२।
+युनक्तु। देवः। सविता। प्रऽजानन्। अस्मिन्। यज्ञे। महिषः। स्वाहा। २६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

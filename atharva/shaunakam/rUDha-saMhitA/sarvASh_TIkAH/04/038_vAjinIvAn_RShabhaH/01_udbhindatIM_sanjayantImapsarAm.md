@@ -27,7 +27,6 @@ kalpyata iti dyūtakriyājeyo* (mss. *-jayo*) *‘rtho glahaḥ*.
 Hither I call the Apsaras, victorious, who plays with skill, Her who comes freely fort to view, who wins the stakes in games of dice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽभिन्दतीम्। सम्ऽजयन्तीम्। अप्सराम्। साधुऽदेविनीम्। ग्लहे। कृतानि। कृण्वानाम्। अप्सराम्। ताम्। इह। हुवे। ३८.१।

@@ -20,7 +20,6 @@ the last pāda is one of 10 syllables (*virāj*).⌋
 Homage to highest Brahma, him whose eye is Surya and the Moon who groweth young and new again, him who made Agni for his mouth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्य। सूर्यः। चक्षुः। चन्द्रमाः। च। पुनःऽनवः। अग्निम्। यः। चक्रे। आस्यम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ७.३३।

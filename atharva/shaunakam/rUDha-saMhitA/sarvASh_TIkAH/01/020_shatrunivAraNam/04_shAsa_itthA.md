@@ -24,10 +24,9 @@ takes *jīyáte* as from root *ji*, which is of course equally possible.
 A mighty Ruler thus art thou, unconquered, vanquisher of foes, Even thou whose friend is never slain, whose friend is never over- come.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शास:। इत्था। महान्। असि। अमित्रऽसह:। अस्तृत:। न। यस्य। हन्यते। सखा। न। जीयते। कदा। चन।
+शासः। इत्था। महान्। असि। अमित्रऽसहः। अस्तृतः। न। यस्य। हन्यते। सखा। न। जीयते। कदा। चन।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

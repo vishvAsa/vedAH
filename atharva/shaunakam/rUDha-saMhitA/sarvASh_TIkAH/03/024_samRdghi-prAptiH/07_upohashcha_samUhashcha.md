@@ -21,10 +21,9 @@ the comm., with one of SPP's mss. The comm. explains *kṣattā́rāu* by
 Adding and Gathering are thy two attendants, O Prajapati. May they bring hither increase, wealth abundant, inexhaustible.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽऊह:। च। सम्ऽऊह:। च। क्षत्तारौ। ते। प्रजाऽपते। तौ। इह। आ। वहताम्। स्फातिम्। बहुम्। भूमानम्। अक्षितम्। २४.७।
+उपऽऊहः। च। सम्ऽऊहः। च। क्षत्तारौ। ते। प्रजाऽपते। तौ। इह। आ। वहताम्। स्फातिम्। बहुम्। भूमानम्। अक्षितम्। २४.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

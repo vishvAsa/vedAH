@@ -25,10 +25,9 @@ cited in the commentary to other rules.
 Sama who gives one general hue was formed and fashioned from the earth: Further this work efficiently. Restore the colours that were his.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्यामा। सरूपम्ऽकरणी। पृथिव्या:। अधि। उत्ऽभृता। इदम्। ऊं इति। सु। प्र। साधय। पुन:। रूपाणि। कल्पय।
+श्यामा। सरूपम्ऽकरणी। पृथिव्याः। अधि। उत्ऽभृता। इदम्। ऊं इति। सु। प्र। साधय। पुनः। रूपाणि। कल्पय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

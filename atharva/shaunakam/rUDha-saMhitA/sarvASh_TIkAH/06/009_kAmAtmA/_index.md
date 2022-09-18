@@ -7,7 +7,6 @@ title = "००९ कामात्मा"
 9. To win a woman's love.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कामात्मा  
@@ -18,8 +17,6 @@ title = "००९ कामात्मा"
 
 [Jamadagni.—kāmātmadāivatam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 264; Florenz, 258 or 10; Griffith, i. 249; Bloo
 
 A man's love-charm
 </details>
+

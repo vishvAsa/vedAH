@@ -17,7 +17,6 @@ to the summit of the ruddy one, who knoweth thus.
 ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्वपरुः॒ सर्व॑तनूः ॥६॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ब्रध्नऽलोकः। भवति। ब्रध्नस्य। विष्टपि। श्रयते। यः। एवम्। वेद। ५.२।

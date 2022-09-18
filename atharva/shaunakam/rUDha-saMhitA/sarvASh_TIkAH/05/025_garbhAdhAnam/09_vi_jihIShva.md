@@ -25,10 +25,9 @@ is impossible without harshness.
 Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinking Gods have given a son to thee, thy son and mine.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। जिहीष्व। बार्हत्ऽसामे। गर्भ:। ते। योनिम्। आ। शयाम्। अदु:। ते। देवा:। पुत्रम्। सोमऽपा:। उभयाविनम्। २५.९।
+वि। जिहीष्व। बार्हत्ऽसामे। गर्भः। ते। योनिम्। आ। शयाम्। अदुः। ते। देवाः। पुत्रम्। सोमऽपाः। उभयाविनम्। २५.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

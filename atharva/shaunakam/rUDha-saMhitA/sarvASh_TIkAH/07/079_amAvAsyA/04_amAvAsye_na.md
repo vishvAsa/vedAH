@@ -20,10 +20,9 @@ of 80. 3. For the parallels etc., see under that verse.
 Night of New Moon! ne'er hath been born another than thou embracing all these forms and natures, May we have what we longed for when we brought thee obla- tions: may we be the lords of riches.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमाऽवास्ये। न। त्वत्। एतानि। अन्य:। विश्वा। रूपाणि। परिऽभू:। जजान। यत्ऽकामा:। ते। जुहुम:। तत्। न:। अस्तु। वयम्। स्याम। पतय:। रयीणाम्। ८४.४।
+अमाऽवास्ये। न। त्वत्। एतानि। अन्यः। विश्वा। रूपाणि। परिऽभूः। जजान। यत्ऽकामाः। ते। जुहुमः। तत्। नः। अस्तु। वयम्। स्याम। पतयः। रयीणाम्। ८४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

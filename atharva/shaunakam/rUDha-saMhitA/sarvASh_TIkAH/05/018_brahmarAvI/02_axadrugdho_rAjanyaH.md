@@ -19,10 +19,9 @@ I.e., if such is his wish. Ppp. reads, for **b**, *pāpātmam aparājitaḥ*.
 A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's cow and think, To-day and not tomorrow, let me live!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अक्षऽद्रुग्ध:। राजन्य:। पाप:। आत्मऽपराजित:। स:। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्व:। १८.२।
+अक्षऽद्रुग्धः। राजन्यः। पापः। आत्मऽपराजितः। सः। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्वः। १८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

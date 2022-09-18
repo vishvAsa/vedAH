@@ -23,10 +23,9 @@ with *tiṣṭha* for the same; HGS. (i. 27. 2) has the whole verse, with
 Here, even here I fix my firm-set dwelling; flowing with fatness may it stand in safety. May we approach thee, House! with all our people, uncharmed and goodly men, and dwell within thee,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। ध्रुवाम्। नि। मिनोमि। शालाम्। क्षेमे। तिष्ठाति। घृतम्। उक्षमाणा। ताम्। त्वा। शाले। सर्ववीरा:। सुऽवीरा:। अरिष्टऽवीरा:। उप। सम्। चरेम। १२.१।
+इह। एव। ध्रुवाम्। नि। मिनोमि। शालाम्। क्षेमे। तिष्ठाति। घृतम्। उक्षमाणा। ताम्। त्वा। शाले। सर्ववीराः। सुऽवीराः। अरिष्टऽवीराः। उप। सम्। चरेम। १२.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

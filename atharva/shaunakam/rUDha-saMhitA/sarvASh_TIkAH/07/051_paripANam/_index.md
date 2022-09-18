@@ -7,7 +7,6 @@ title = "०५१ परिपाणम्"
 51 (53). For protection by Brihaspati and Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 परिपाणम्।  
@@ -18,8 +17,6 @@ title = "०५१ परिपाणम्"
 
 [An̄giras.—bārhaspatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ The fourth anuvāka ends here; it has, according to our division, 13 hymns and 3
 
 A prayer for Brihaspati's and Indra's protection
 </details>
+

@@ -28,10 +28,9 @@ overlooked by the Anukr. in its treatment of the meter.
 Far as the heavens and earth are spread in compass, far as the Seven Rivers are extended, So far my spell, the antidote of poison, have I spoken hence,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यावती। इति। द्यावापृथिवी इति। वरिम्णा। यावत्। सप्त। सिन्धव:। विऽतस्थिरे। वाचम्। विषस्य। दूषणीम्। ताम्। इत:। नि:। अवादिषम्। ६.२।
+यावती। इति। द्यावापृथिवी इति। वरिम्णा। यावत्। सप्त। सिन्धवः। विऽतस्थिरे। वाचम्। विषस्य। दूषणीम्। ताम्। इतः। निः। अवादिषम्। ६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

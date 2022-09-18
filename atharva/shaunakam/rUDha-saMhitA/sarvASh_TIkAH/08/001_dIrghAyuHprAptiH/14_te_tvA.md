@@ -18,10 +18,9 @@ After *gopāyantu*, Ppp. inserts *te tvāṁ hasassāyatu*.
 Let these be thy preservers, these thy keepers. All hail to these, to these be lowly worship!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ते। त्वा। रक्षन्तु। ते। त्वा। गोपायन्तु। तेभ्य:। नम:। तेभ्य:। स्वाहा। १.१४।
+ते। त्वा। रक्षन्तु। ते। त्वा। गोपायन्तु। तेभ्यः। नमः। तेभ्यः। स्वाहा। १.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ payasvatāṁ paya ā harāmi sahasraśaḥ*.
 The plants of earth are rich in milk, and rich in milk is this my word, So from the rich in milk I bring thousandfold profit hitherward.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पयस्वती:। ओषधय:। पयस्वत्। मामकम्। वच:। अथो इति। पयस्वतीनाम्। आ। भरे। अहम्। सहस्रऽश:। २४.१।
+पयस्वतीः। ओषधयः। पयस्वत्। मामकम्। वचः। अथो इति। पयस्वतीनाम्। आ। भरे। अहम्। सहस्रऽशः। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

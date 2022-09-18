@@ -18,10 +18,9 @@ Ppp. puts *tat* after *sarvam* in **c**.
 Let there be cattle, let there be bodily strength and progeny: All this may the Gods kindly grant to him who gives away the Bull.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-गाव:। सन्तु। प्रऽजा:। सन्तु। अथो इति। अस्तु। तनूऽबलम्। तत्। सर्वम्। अनु। मन्यन्ताम्। देवा:। ऋषभऽदायिने। ४.२०।
+गावः। सन्तु। प्रऽजाः। सन्तु। अथो इति। अस्तु। तनूऽबलम्। तत्। सर्वम्। अनु। मन्यन्ताम्। देवाः। ऋषभऽदायिने। ४.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

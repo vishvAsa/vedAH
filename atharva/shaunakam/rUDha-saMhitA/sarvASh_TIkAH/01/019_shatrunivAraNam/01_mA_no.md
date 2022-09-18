@@ -19,10 +19,9 @@ the comm., here and to vs. 3 (*śarasaṁhati*).
 Let not the piercers find us, nor let those who wound discover us. O Indra, make the arrows fall, turned, far from us, to every side.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मा। न:। विदन्। विऽव्याधिन:। मो इति। अभिऽव्याधिन:। विदन्। आरात्। शरव्या:। अस्मत्। विषूची:। इन्द्र। पातय।
+मा। नः। विदन्। विऽव्याधिनः। मो इति। अभिऽव्याधिनः। विदन्। आरात्। शरव्याः। अस्मत्। विषूचीः। इन्द्र। पातय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

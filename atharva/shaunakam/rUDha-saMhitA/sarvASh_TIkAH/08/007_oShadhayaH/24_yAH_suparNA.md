@@ -26,10 +26,9 @@ intolerable. Cf. JAOS. xix., 2d half, p. 154.⌋
 Plants of Angirases which hawks, celestial Plants which eagles. know; Plants known to swans and lesser fowl, Plants known to all the birds that fly. Plants that are known to sylvan beasts,--I call them all to aid this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। सुऽपर्णा:। आङ्गिरसी:। दिव्या:। या:। रघट:। विदु:। वयांसि। हंसा:। या:। विदु:। या:। च। सर्वे। पतत्रिण:। मृगा:। या:। विदु:। ओषधी:। ता:। अस्मै। अवसे। हुवे। ७.२४।
+याः। सुऽपर्णाः। आङ्गिरसीः। दिव्याः। याः। रघटः। विदुः। वयांसि। हंसाः। याः। विदुः। याः। च। सर्वे। पतत्रिणः। मृगाः। याः। विदुः। ओषधीः। ताः। अस्मै। अवसे। हुवे। ७.२४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,10 +20,9 @@ is, "green "⌋.
 Be worship paid unto the black, worship to that with stripes across! To the brown viper reverence, reverence to the demon brood!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। अस्तु। असिताय। नम:। तिरश्चिऽराजये। स्वजाय। बभ्रवे। नम:। नम:। देवऽजनेभ्य:। ५६.२।
+नमः। अस्तु। असिताय। नमः। तिरश्चिऽराजये। स्वजाय। बभ्रवे। नमः। नमः। देवऽजनेभ्यः। ५६.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

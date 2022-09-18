@@ -20,10 +20,9 @@ RV. (i. 174. 5) has instead of **a** our 5 **d** (found also as x. 6. 30
 Destroyer of my rivals, strong, victorious, with royal sway, May I be ruler of these men, and King and sovran of the folk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सपत्नऽक्षयण:। वृषा। अभिऽराष्ट्र:। विऽससहि:। यथा। अहम्। एषाम्। वीराणाम्। विऽराजानि। जनस्य। च।
+सपत्नऽक्षयणः। वृषा। अभिऽराष्ट्रः। विऽससहिः। यथा। अहम्। एषाम्। वीराणाम्। विऽराजानि। जनस्य। च।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

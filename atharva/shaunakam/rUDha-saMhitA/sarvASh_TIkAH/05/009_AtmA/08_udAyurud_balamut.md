@@ -27,10 +27,9 @@ A passage corresponding to this hymn is found in K. xxxvii. 15.
 Exalt my life, my strength, my deed and action; increase my understanding and my vigour. Be ye my powerful keepers, watch and guard me, ye mistresses of life and life's creators! Dwell ye within me, and forbear to harm me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। आयु:। उत्। बलम्। उत्। कृतम्। उत्। कृत्याम्। उत्। मनीषाम्। उत्। इन्द्रियम्। आयु:ऽकृत्। आयुष्पत्नीत्यायु:ऽपत्नी। स्वधाऽवन्तौ। गोपा। मे। रतम्। गोपायतम्। मा। आत्मऽसदौ। मे। स्तम्। मा। मा। हिंसिष्टम्। ९.८।
+उत्। आयुः। उत्। बलम्। उत्। कृतम्। उत्। कृत्याम्। उत्। मनीषाम्। उत्। इन्द्रियम्। आयुःऽकृत्। आयुष्पत्नीत्यायुःऽपत्नी। स्वधाऽवन्तौ। गोपा। मे। रतम्। गोपायतम्। मा। आत्मऽसदौ। मे। स्तम्। मा। मा। हिंसिष्टम्। ९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

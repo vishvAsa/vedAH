@@ -17,7 +17,6 @@ paunches, and what thy skin—let them yield etc. etc.
 Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। ते। प्लाशिः। यः। वनिष्ठुः। यौ। कुक्षी इति। यत्। च। चर्म। ते। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१७।

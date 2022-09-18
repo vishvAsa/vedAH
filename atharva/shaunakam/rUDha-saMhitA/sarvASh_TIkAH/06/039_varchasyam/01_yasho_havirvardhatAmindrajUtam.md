@@ -32,10 +32,9 @@ have the intensive of *sṛ* with *anu-pra*.⌋
 Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a thousand powers. To highest rank raise me who bring oblation, me who move forth to far-extended vision.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यश:। हवि:। वर्धताम्। इन्द्रऽजूतम्। सहस्रऽवीर्यम्। सुऽभृतम्। सह:ऽकृतम्। प्रऽसर्स्राणम्। अनु। दीर्घाय। चक्षसे। हविष्मन्तम्। मा। वर्धय। ज्येष्ठऽतातये। ३९.१।
+यशः। हविः। वर्धताम्। इन्द्रऽजूतम्। सहस्रऽवीर्यम्। सुऽभृतम्। सहःऽकृतम्। प्रऽसर्स्राणम्। अनु। दीर्घाय। चक्षसे। हविष्मन्तम्। मा। वर्धय। ज्येष्ठऽतातये। ३९.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

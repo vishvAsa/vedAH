@@ -21,7 +21,6 @@ a turn to the right (vss. 25-35 were quoted in the next preceding rule).
 I follow Surya's course in heaven, the course that takes him to the South. May that bestow upon me wealth and glory of a Brahman's rank.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यस्य। आऽवृतम्। अनुऽआवर्ते। दक्षिणाम्। अनु। आऽवृतम्। सा। मे। दविणम्। यच्छतु। सा। मे। ब्राह्मणऽवर्चसम्। ५.३७।

@@ -25,10 +25,9 @@ The second half-verse is identical with 7 **c, d** above. Ppp. has, for
 That is the third light that is yours, ye Fathers. He gives the Goat Panchaudana to the Brahman. Given in this world by the devout believer, the Goat dispels and drives afar the darkness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एतत्। व:। ज्योति:। पितर:। तृतीयम्। पञ्चऽओदनम्। ब्रह्मणे। अजम्। ददाति। अज:। तमांस‍ि। अप। हन्ति। दूरम्। अस्मिन्। लोके। श्रत्ऽदधानेन। दत्त:। ५.११।
+एतत्। वः। ज्योतिः। पितरः। तृतीयम्। पञ्चऽओदनम्। ब्रह्मणे। अजम्। ददाति। अजः। तमांस‍ि। अप। हन्ति। दूरम्। अस्मिन्। लोके। श्रत्ऽदधानेन। दत्तः। ५.११।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

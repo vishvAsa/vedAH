@@ -21,7 +21,6 @@ without accent.
 The man who hath no knowledge of her udder and the teats thereof, She yields him milk with these, if he hath purposed to bestow the Cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। अस्याः। ऊधः। न। वेद। अथो इति। अस्याः। स्तनान्। उत। उभयेन। एव। अस्मै। दुहे। दातुम्। च। इत्। अशकत्। वशाम्। ४.१८।

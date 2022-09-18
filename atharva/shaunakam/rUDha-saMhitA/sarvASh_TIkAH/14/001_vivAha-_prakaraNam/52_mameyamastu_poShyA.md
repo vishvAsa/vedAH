@@ -27,7 +27,6 @@ i. 8. 9: that also has *prajā́vatī*.⌋
 Be it my care to cherish her: Brihaspati hath made thee mine. A hundred autumns live with me thy husband, mother of my sons!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मम। इयम्। अस्तु। पोष्या। मह्यम्। त्वा। अदात्। बृहस्पतिः। मया। पत्या। प्रजाऽवति। सम्। जीव। शरदः। शतम्। १.५२।

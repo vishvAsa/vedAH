@@ -7,7 +7,6 @@ title = "०३७ वासः"
 37 (38). The wife to the husband.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वासः।  
@@ -18,8 +17,6 @@ title = "०३७ वासः"
 
 [Atharvan.—lin̄goktadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 248; Grill, 55, 179; Henry, 14, 67; Griffith, i
 
 A nuptial charm to be spoken by the bride
 </details>
+

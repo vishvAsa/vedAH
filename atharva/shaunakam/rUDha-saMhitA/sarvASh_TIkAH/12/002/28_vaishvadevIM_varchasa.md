@@ -24,7 +24,6 @@ by *vācam* (Roth). According to Kāuś. 72. 6, it is a young heifer
 Becoming pure and bright and purifying begin the Vaisvadevi strain for splendour.. May we rejoice, o'erpassing troublous places, with all our heroes through a hundred winters.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वैश्वऽदेवीम्। वर्चसे। आ। रभध्वम्। शुध्दाः। भवन्तः। शुचयः। पावकाः। अतिऽक्रामन्तः। दुःऽइता। पदानि। शतम्। हिमाः। सर्वऽवीराः। मदेम। २.२८।

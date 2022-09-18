@@ -26,10 +26,9 @@ has at the end *imam* for *iti*.
 I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and Agni have I called: Let these destroy the worm, I prayed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्र:। च। अग्नि:। च। क्रिमिम्। जम्भयताम्। इति। २३.१।
+ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। क्रिमिम्। जम्भयताम्। इति। २३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

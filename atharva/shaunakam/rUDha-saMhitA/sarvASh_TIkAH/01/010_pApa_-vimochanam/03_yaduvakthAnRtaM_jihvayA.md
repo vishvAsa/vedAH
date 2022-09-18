@@ -19,10 +19,9 @@ reading *uvakta*, treating it as for *uvaktha*, which all the mss. give.
 Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate thee from the noose of Varuna the righteous King.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्‍। उवक्थ। अनृतम्‍। जिह्वया। वृजिनम्‍। बहु। राज्ञ:। त्वा। सत्यऽधर्मण:। मुञ्चामि। वरुणात्। अहम्।
+यत्‍। उवक्थ। अनृतम्‍। जिह्वया। वृजिनम्‍। बहु। राज्ञः। त्वा। सत्यऽधर्मणः। मुञ्चामि। वरुणात्। अहम्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

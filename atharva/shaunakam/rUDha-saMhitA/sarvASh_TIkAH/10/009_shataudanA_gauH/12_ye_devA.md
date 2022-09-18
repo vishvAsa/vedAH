@@ -22,7 +22,6 @@ make a normal pāda. Ppp. rectifies the meter of **a** by reading instead
 From all the Gods enthroned in heaven, in air, from those who dwell on earth, Draw forth for evermore a stream of milk, of butter, and of mead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। देवाः। दिविऽसदः। अन्तरिक्षऽसदः। च। ये। ये। च। इमे। भूम्याम्। अधि। तेभ्‍यः। त्वम्। धुक्ष्व। सर्वदा। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१२।

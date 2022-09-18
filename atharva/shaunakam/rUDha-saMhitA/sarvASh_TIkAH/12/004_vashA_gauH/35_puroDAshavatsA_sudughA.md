@@ -22,7 +22,6 @@ text emends to *lokè*.
 Good milker, with rice-cake as calf, she in the world comes nigh to him, To him who gave her as a gift the Cow grants every hope and. wish.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पुरोडाशऽवत्सा। सुऽदुघा। लोके। अस्मै। उप। तिष्ठति। सा। अस्मै। सर्वान्। कामान्। वशा। प्रऽददुषे। दुहे। ४.३५।

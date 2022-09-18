@@ -20,7 +20,6 @@ Bs.E. combine in **b** *amṛ́tās su-*. The Anukr. does not heed the
 Surya's bay steeds refulgent and immortal draw the light-rolling. chariot on for ever. Drinker of fatness, Rohita, resplendent, hath entered into various-coloured heaven,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सूर्यस्य। अश्वाः। हरयः। केतुऽमन्तः। सदा। वहन्ति। अमृताः। सुऽखम्। रथम्। घृतऽपावा। रोहितः। भ्राजमानाः। दिवम्। देवः। पृषतीम्। आ। विवेश। १.२४।

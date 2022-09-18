@@ -27,10 +27,9 @@ however, he does take it as a causative.⌋
 I have disparted these and those like cows who stray on common land. Here let auspicious Fortunes stay: hence have I banished evil ones.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-एता:। एना:। विऽआकरम्। खिले। गा:। विस्थिता:ऽइव। रमन्ताम्। पुण्या:। लक्ष्मी:। या:। पापी:। ता:। अनीनशम्। १२०.४।
+एताः। एनाः। विऽआकरम्। खिले। गाः। विस्थिताःऽइव। रमन्ताम्। पुण्याः। लक्ष्मीः। याः। पापीः। ताः। अनीनशम्। १२०.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

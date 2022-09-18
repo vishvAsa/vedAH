@@ -20,7 +20,6 @@ strange reading *amūs* for *amūm* before *sénām*.
 That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thunderbolt. Even therewith, Brihaspati, I brush that hostile armament, and strike the foemen down with might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 बृहस्पतिः। आङ्गिरसः। वज्रम्। यम्। असिञ्चत। असुरऽक्षयणम्। वधम्। तेन। अहम्। अमूम्। सेनाम्। नि। लिम्पामि। बृहस्पते। अमित्रान्। हन्मि। ओजसा। १२.१३।

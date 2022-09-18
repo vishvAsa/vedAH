@@ -24,10 +24,9 @@ initial *ṛ*; the comm. understands and explains it as *a-vartti!*
 Never doth want or evil fortune visit those who prepare oblation called Vishtari. He goes unto the Gods, he dwells with Yama, he joys among Gandharvas meet for Soma.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। अवर्ति:। सचते। कदा। चन। आस्ते। यमे। उप। याति। देवान्। सम्। गन्धर्वै:। मदते। सोम्येभि:। ३४.३।
+विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। अवर्तिः। सचते। कदा। चन। आस्ते। यमे। उप। याति। देवान्। सम्। गन्धर्वैः। मदते। सोम्येभिः। ३४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

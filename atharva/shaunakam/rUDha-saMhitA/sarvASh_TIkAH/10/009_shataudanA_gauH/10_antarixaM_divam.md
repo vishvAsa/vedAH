@@ -18,7 +18,6 @@ rice-dishes.
 The man who pays the Hundredfold Oblation winneth all the worlds, Air, heaven, and earth, Adityas, and Maruts, and regions of the sky.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्तरिक्षम्। दिवम्। भूमिम्। आदित्यान्। मरुतः। दिशः। लोकान्। सः। सर्वान्। आप्नोति। यः। ददाति। शतऽओदनाम्। ९.१०।

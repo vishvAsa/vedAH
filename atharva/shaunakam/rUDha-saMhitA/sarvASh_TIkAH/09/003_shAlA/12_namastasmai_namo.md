@@ -19,10 +19,9 @@ Ppp. reads in **b** *kṛṇmasi*.
 Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! to the man who serves at holy rites for thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। तस्मै। नम:। दात्रे। शालाऽपतये। च। कृण्म:। नम:। अग्नये। प्रऽचरते। पुरुषाय। च। ते। नम:। ३.१२।
+नमः। तस्मै। नमः। दात्रे। शालाऽपतये। च। कृण्मः। नमः। अग्नये। प्रऽचरते। पुरुषाय। च। ते। नमः। ३.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -17,10 +17,9 @@ he fully obtains the worlds that are heavenly and that are earthly.
 Home-woven raiment let him give, and gold as guerdon to the priests. So he obtains completely all celestial and terrestrial worlds.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अमाऽउतम्। वास:। दद्यात्‌। हिरण्यम्। अपि। दक्षिणाम्। तथा। लोकान्। सम्। आप्नोति। ये। दिव्या:। ये। च। पार्थिवा:। ५.१४।
+अमाऽउतम्। वासः। दद्यात्‌। हिरण्यम्। अपि। दक्षिणाम्। तथा। लोकान्। सम्। आप्नोति। ये। दिव्याः। ये। च। पार्थिवाः। ५.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

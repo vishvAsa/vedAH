@@ -7,7 +7,6 @@ title = "०२५ गर्भाधानम्"
 25. For successful conception.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 गर्भाधानम्।  
@@ -18,8 +17,6 @@ title = "०२५ गर्भाधानम्"
 
 [Brahman.—trayodaśakam. yonigarbhadevatyam. ānuṣṭubham: 13. virāṭpurastādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 227; Ludwig, p. 478; Griffith, i. 229; Weber, x
 
 A charm to facilitate conception
 </details>
+

@@ -21,7 +21,6 @@ strangely named by the Anukr. ⌊Ppp. exchanges the places of *vratam* and
 Declare that. Skambha, who is he of many, In whom, exerting every power, Fervour maintains her loftiest vow; In whom are comprehended Law, Waters, Devotion and Belief
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्र। तपः। पराऽक्रम्य। व्रतम्। धारयति। उत्ऽतरम्। ऋतम्। च। यत्र। श्रध्दा। च। आपः। ब्रह्म। सम्ऽआहिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.११।

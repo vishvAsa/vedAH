@@ -20,10 +20,9 @@ regards Vāyu as addressed.
 Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and treasure come to us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वम्। न:। नभस:। पते। ऊर्जम्। गृहेषु। धारय। आ। पुष्टम्। एतु। आ। वसु। ७९.२।
+त्वम्। नः। नभसः। पते। ऊर्जम्। गृहेषु। धारय। आ। पुष्टम्। एतु। आ। वसु। ७९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

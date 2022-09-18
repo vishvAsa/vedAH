@@ -23,10 +23,9 @@ ours; but in **c** it has *bhavantu etave*.⌋ ⌊Cf. v. 23. 1 for *ótās*.⌋
 Let the deft Waters, summoned, give permission that we bear them off, And quickly set us on our way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आऽउता:। आप:। कर्मण्या:। मुञ्चन्तु। इत:। प्रऽनीतये। सद्य:। कृण्वन्तु। एतवे। २३.२।
+आऽउताः। आपः। कर्मण्याः। मुञ्चन्तु। इतः। प्रऽनीतये। सद्यः। कृण्वन्तु। एतवे। २३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

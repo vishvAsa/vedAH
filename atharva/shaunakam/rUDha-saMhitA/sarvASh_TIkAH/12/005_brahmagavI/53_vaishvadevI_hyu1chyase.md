@@ -18,7 +18,6 @@ Cf. vs. 12 above. Ppp. reads (as there noted) *pūlyājām*.
 Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वैश्वऽदेवी। हि। उच्यसे। कृत्या। कूल्बजम्। आऽवृता। १०.७।

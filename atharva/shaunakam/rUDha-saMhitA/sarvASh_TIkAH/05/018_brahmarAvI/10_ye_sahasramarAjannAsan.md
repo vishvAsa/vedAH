@@ -21,10 +21,9 @@ tvā*. A syllable is lacking in **a**, unnoted by the Anukr.
 They who, themselves ten hundred, were the rulers of a thousand men, The Vaitahavyas, were destroyed for that they ate a Brahman's cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। सहस्रम्। अराजन्। आसन्। दशऽशता:। उत। ते। ब्राह्मणस्य। गाम्। जग्ध्वा। वैतऽहव्या:। परा। अभवन्। १८.१०।
+ये। सहस्रम्। अराजन्। आसन्। दशऽशताः। उत। ते। ब्राह्मणस्य। गाम्। जग्ध्वा। वैतऽहव्याः। परा। अभवन्। १८.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

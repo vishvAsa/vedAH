@@ -25,10 +25,9 @@ further goal, where one stops (*sthā*) wearied (*glāna*)."
 I have gone round their homes as runs a fleet-foot racer round the post, And in all races conquered you. Vanish, Sadanvas, and begone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। धामानि। आसाम्। आशु:। गाष्ठाम्ऽइव। असरन्। अजैषम्। सर्वान्। आजीन्। व:। नश्यत। इत:। सदान्वा:। १४.६।
+परि। धामानि। आसाम्। आशुः। गाष्ठाम्ऽइव। असरन्। अजैषम्। सर्वान्। आजीन्। वः। नश्यत। इतः। सदान्वाः। १४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

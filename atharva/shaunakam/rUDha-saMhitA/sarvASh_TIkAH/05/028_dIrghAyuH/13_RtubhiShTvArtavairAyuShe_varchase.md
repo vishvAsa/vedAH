@@ -34,10 +34,9 @@ foolishly calls the verse a *purauṣṇih*.
 With Seasons and with Lengths of Time, for vigour and exten- ded life, With all the splendour of the Sun we fasten thee about the neck.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऋतुऽभि:। त्वा। आर्तवै:। आयुषे। वर्चसे। त्वा। सम्ऽवत्सरस्य। तेजसा। तेन। सम्ऽहनु। कृण्मसि। २८.१३।
+ऋतुऽभिः। त्वा। आर्तवैः। आयुषे। वर्चसे। त्वा। सम्ऽवत्सरस्य। तेजसा। तेन। सम्ऽहनु। कृण्मसि। २८.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

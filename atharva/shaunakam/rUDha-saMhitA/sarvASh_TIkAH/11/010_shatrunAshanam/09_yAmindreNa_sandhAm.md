@@ -21,7 +21,6 @@ The comm. (with two or three of SPP's authorities) reads *-adhattās* in
 By that same binding treaty which thou madest, Brihaspati! with Indra! and with Brahma, By Indra's pledge I bid the Gods come hither. Conquer on this side, not on their side yonder.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 याम्। इन्द्रेण। सम्ऽधाम्। सम्ऽअधत्थाः। ब्रह्मणा। च। बृहस्पते। तया। अहम्। इन्द्रऽसंधया। सर्वान्। देवान्। इह। हुवे। इतः। जयत। मा। अमुतः। १२.९।

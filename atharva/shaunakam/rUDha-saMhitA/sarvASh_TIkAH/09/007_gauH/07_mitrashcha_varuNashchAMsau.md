@@ -19,7 +19,6 @@ has 23 syllables, but is not 'ant-waisted,' as it divides 8 + 9 + 6.
 Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, Mahadeva is the arms.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मित्रः। च। वरुणः। च। अंसौ। त्वष्टा। च। अर्यमा। च। दोषणी इति। महाऽदेवः। बाहू इति। १२.७।

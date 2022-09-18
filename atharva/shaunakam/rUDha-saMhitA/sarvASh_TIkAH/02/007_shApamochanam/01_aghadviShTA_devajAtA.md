@@ -25,10 +25,9 @@ infrequent contraction *málam ’va* in **c**.
 Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath washed from me all curses, as water makes clean from spot and stain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अघऽद्विष्टा। देवऽजाता। वीरुत्। शपथऽयोपनी। आप:। मलम्ऽइव। प्र। अनैक्षीत्। सर्वान्। मत्। शपथान्। अधि। ७.१।
+अघऽद्विष्टा। देवऽजाता। वीरुत्। शपथऽयोपनी। आपः। मलम्ऽइव। प्र। अनैक्षीत्। सर्वान्। मत्। शपथान्। अधि। ७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -19,10 +19,9 @@ which this book is divided, ends here.
 Auspicious, with her golden hue, pillowed on gold, the mighty one To this Arati clad in robes of gold mine homage have I paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णा। सुऽभगा। हिरण्यऽकशिपु:। मही। तस्यै। हिरण्यऽद्रापये। अरात्यै। अकरम्। नम:। ७.१०।
+हिरण्यऽवर्णा। सुऽभगा। हिरण्यऽकशिपुः। मही। तस्यै। हिरण्यऽद्रापये। अरात्यै। अकरम्। नमः। ७.१०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

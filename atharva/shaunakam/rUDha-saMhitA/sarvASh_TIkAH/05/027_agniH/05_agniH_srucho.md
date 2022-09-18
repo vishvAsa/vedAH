@@ -13,10 +13,9 @@ title = "०५ अग्निः स्रुचो"
 At holy rites and offerings Agni loveth the scoops: let this man worship Agni's greatness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नि:। स्रुच:। अध्वरेषु। प्रऽयक्षु। स:। यक्षत्। अस्य। महिमानम्। अग्ने:। २७.५।
+अग्निः। स्रुचः। अध्वरेषु। प्रऽयक्षु। सः। यक्षत्। अस्य। महिमानम्। अग्नेः। २७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

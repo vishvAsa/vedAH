@@ -27,7 +27,6 @@ reports no variant⌋, but that need not prevent our understanding instead
 Whereon the Deities, whereon men too have purified themselves, Exalting fatness, cleanse thyself, Agni, therein and mount to heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्मिन्। देवाः। अमृजत। यस्मिन्। मनुष्याः। उत। तस्मिन्। घृतऽस्तावः। मृष्वा। आ। त्वम्। अग्ने। दिवम्। रुह। २.१७।

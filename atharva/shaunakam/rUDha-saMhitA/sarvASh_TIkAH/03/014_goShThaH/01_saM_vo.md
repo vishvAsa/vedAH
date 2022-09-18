@@ -24,10 +24,9 @@ under the heaven": none of these suits the other occurrence.
 A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the birth of day, all this do we bestow on you.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। व:। गोऽस्थेन। सुऽसदा। सम्। रय्या। सम्। सुऽभूत्या। अह:ऽजातस्य। यत्। नाम। तेन। व:। सम्। सृजामसि। १४.१।
+सम्। वः। गोऽस्थेन। सुऽसदा। सम्। रय्या। सम्। सुऽभूत्या। अहःऽजातस्य। यत्। नाम। तेन। वः। सम्। सृजामसि। १४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -20,7 +20,6 @@ alternative for 'dips.'⌋
 Welfare, resolve and energy, the six expanses, kingship, sway, Prayer, and direction, and the year, oblation, planets, are there- in;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽऋध्दिः। ओजः। आऽकूतिः। क्षत्रम्। राष्ट्रम्। षट्। उर्व्यः। सम्ऽवत्सरः। अधि। उत्ऽशिष्टे। इडा। प्रऽएषाः। ग्रहाः। हविः। ९.१८।

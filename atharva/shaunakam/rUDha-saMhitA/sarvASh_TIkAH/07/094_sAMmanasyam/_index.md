@@ -7,7 +7,6 @@ title = "०९४ सांमनस्यम्"
 94 (99). For India's help to unanimity.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सांमनस्यम्।  
@@ -19,8 +18,6 @@ title = "०९४ सांमनस्यम्"
 [Atharvan.—sāumyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xix. Not used by Kāuś. In Vāit. (13. 12) it accompanies
 ### Translations
 Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249.
 </details>
+

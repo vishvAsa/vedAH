@@ -16,10 +16,9 @@ title = "०४ यमिन्द्राग्नी स्मरमसिञ
 The charm, aglow with longing, which Indra and Agni have effused within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। इन्द्राग्नी इति। स्मरम्। असिञ्चताम्। अपऽसु। अन्त:। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.४।
+यम्। इन्द्राग्नी इति। स्मरम्। असिञ्चताम्। अपऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०८९ प्रीतिसंजननम्"
 89. To win affection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 प्रीतिसंजननम्।  
@@ -18,8 +17,6 @@ title = "०८९ प्रीतिसंजननम्"
 
 [Atharvan.—mantroktadāivatam.* ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 242; Griffith, i. 293.
 
 A man's love charm
 </details>
+

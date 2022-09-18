@@ -26,7 +26,6 @@ prathamaḥ*" (see vs. i).⌋
 The bane hath fled afar. It wept, and asked the poison how it fared.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आरे। अभूत्। विषम्। अरौत्। विषे। विषम्। अप्राक्। अपि। अग्निः। विषम्। अहेः। निः। अधात्। सोमः। निः। अनयीत्। दंष्टारम्। अनु। अगात्। विषम्। अहिः। अमृतः। ४.२६।

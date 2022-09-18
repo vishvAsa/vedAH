@@ -23,10 +23,9 @@ this verse as not *ahār*, i.e. as from *hā*, not *hṛ.*
 Joy hast thou found, and left ill-will behind thee: thou hast attained the happy world of virtue. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहा:। अरातिम्। अविद:। स्योनम्। अपि। अभू:। भद्रे। सुऽकृतस्य। लोके। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऽऋत्या:। जामिऽशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.७।
+अहाः। अरातिम्। अविदः। स्योनम्। अपि। अभूः। भद्रे। सुऽकृतस्य। लोके। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऽऋत्याः। जामिऽशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

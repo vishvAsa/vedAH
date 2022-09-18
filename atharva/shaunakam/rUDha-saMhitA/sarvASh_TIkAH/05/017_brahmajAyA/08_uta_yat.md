@@ -19,10 +19,9 @@ This verse is wanting in Ppp.
 Even if ten former husbands--none a Brahman--had espoused a dame, And then a Brahman took her hand, he is her husband, only he,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत। यत्। पतय:। दश। स्त्रिया:। पूर्वे। अब्राह्मणा:। ब्रह्मा। च। इत्। हस्तम्। अग्रहीत्। स:। एव। पति:। एकऽधा। १७.८।
+उत। यत्। पतयः। दश। स्त्रियाः। पूर्वे। अब्राह्मणाः। ब्रह्मा। च। इत्। हस्तम्। अग्रहीत्। सः। एव। पतिः। एकऽधा। १७.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

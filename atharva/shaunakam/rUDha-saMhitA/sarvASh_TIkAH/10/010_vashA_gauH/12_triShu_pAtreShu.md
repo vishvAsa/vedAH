@@ -18,7 +18,6 @@ Ppp. reads *hitaṁ* for *tam* in **a**, and *ādyevy abharad* in **b**.
 The Cow Celestial received that Soma in three vessels, where. Atharvan, consecrated, sate upon the Sacred Grass of gold.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 त्रिषु। पात्रेषु। तम्। सोमम्। आ। देवी। अहरत्। वशा। अथर्वा। यत्र। दीक्षितः। बर्हिषि। आस्त। हिरण्यये। १०.१२।

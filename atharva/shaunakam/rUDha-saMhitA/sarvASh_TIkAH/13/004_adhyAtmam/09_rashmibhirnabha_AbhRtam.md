@@ -18,7 +18,6 @@ This is a repetition of vs. 2; all the mss. give it in full.
 To misty cloud filled with his rays Mahendra goes encompassed round,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रश्मिऽभिः। नभः। आऽभृतम्। महाऽइन्द्रः। एति। आऽवृतः। ४.९।

@@ -20,7 +20,6 @@ Ppp. combines *gandharvā ’ps-*. The so-called *purauṣṇih* divides 10 +
 Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsarases are bits of the feet, Aditi is the hooves.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 धाता। च। सविता। च। अष्ठीवन्तौ। जङ्घाः। गन्धर्वाः। अप्सरसः। कुष्ठिकाः। अदितिः। शफाः। १२.१०।

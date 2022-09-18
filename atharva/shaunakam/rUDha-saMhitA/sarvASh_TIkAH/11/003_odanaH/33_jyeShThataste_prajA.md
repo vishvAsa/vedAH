@@ -20,7 +20,6 @@ with them have I made it go etc. etc.
 And thence he said to him, Thou hast eaten this with other ears than those with which the ancient Rishis ate it. Thou wilt be deaf. I have eaten it neither, etc. (as in verse 32). With Heaven and Earth as ears, with these I have eaten it, with these I have come to it. Now this Odana, etc. (as in 32).
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ततः। च। एनम्। अन्याभ्याम्। श्रोत्राभ्याम्। प्रऽआशीः। याभ्याम्। च। एतम्। पूर्वे। ऋषयः। प्रऽआश्नन्। बधिरः। ‍ भविष्यसि। इति। एनम्। आह। तम्। वै। अहम्। न। अर्वाञ्चम्। न। पराञ्चम्। न। प्रत्यञ्चम्। द्यावापृथिवीभ्याम्। श्रोत्राभ्याम्। ताभ्याम्। एनम्। प्र। आशिषम्। ताभ्याम्। एनम्। अजीगमम्। एषः। वै। ओदनः। सर्वऽअङ्गः। सर्वऽपरुः। सर्वऽतनूः। सर्वऽअङ्गः। एव। सर्वऽतनूः। सम्। भवति। यः। एवम्। वेद। ४.२।

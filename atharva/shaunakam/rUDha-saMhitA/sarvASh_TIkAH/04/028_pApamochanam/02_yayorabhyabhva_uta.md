@@ -23,10 +23,9 @@ means rather 'on whose way \[is\] even whatever is afar.'
 Lords of all near and even of what is distant, famed as the best and skilfullest of archers, Lords of this world both quadruped and biped, Deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ययो:। अभिऽअध्वे। उत। यत्। दूरे। चित्। यौ। विदितौ। इषुऽभृताम्। असिष्ठौ। यौ। अस्य। ईशाथे इति। द्विऽपद:। यौ। चतु:ऽपद:। तौ। न:। मुञ्चतम्। अंहस:। २८.२।
+ययोः। अभिऽअध्वे। उत। यत्। दूरे। चित्। यौ। विदितौ। इषुऽभृताम्। असिष्ठौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

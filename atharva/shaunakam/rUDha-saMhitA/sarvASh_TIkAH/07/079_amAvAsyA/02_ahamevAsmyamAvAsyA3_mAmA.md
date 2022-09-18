@@ -22,10 +22,9 @@ Anukr. overlooks the irregularity of **a**. \*⌊vi. 832.⌋
 I am the New Moon's Night, the good and pious are my in- habitants, these dwell within me. In me have Gods of both the spheres, and Sadhyas, with Indra as their chief, all met together.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। एव। अस्मि। अमाऽवास्या। माम्। आ। वसन्ति। सुऽकृत:। मयि। इमे। मयि। देवा:। उभये। साध्या:। च। इन्द्रऽज्येष्ठा:। सम्। अगच्छन्त। सर्वे। ८४.२।
+अहम्। एव। अस्मि। अमाऽवास्या। माम्। आ। वसन्ति। सुऽकृतः। मयि। इमे। मयि। देवाः। उभये। साध्याः। च। इन्द्रऽज्येष्ठाः। सम्। अगच्छन्त। सर्वे। ८४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

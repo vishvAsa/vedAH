@@ -17,7 +17,6 @@ voice (*vā́c*) of all the gods, do we ward off thy *yákṣma*.
 We with the speech of Indra and of Mitra and of Varuna. We with the speech of all the Gods will drive Decline away from thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 इन्द्रस्य। वचसा। वयम्। मित्रस्य। वरुणस्य। च। देवानाम्। सर्वेषाम्। वाचा। यक्ष्मम्। ते। वारयामहे। ८५.२।

@@ -20,7 +20,6 @@ and makes **c, d** agree with our 9 **c, d**. The Anukr. brings out an
 Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have evoked the poison taint of all Consumptions out of thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उदरात्। ते। क्लोम्नः। नाभ्याः। हृदयात्। अधि। यक्ष्माणम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१२।

@@ -22,10 +22,9 @@ the comm. makes it from the root as 'throw,' and = *kṣepanīyam*. Perhaps
 Here is, Sarasvati, thy fat libation, this sacrifice passing to the mouth of Fathers. These most auspicious offerings have ascended to thee: through, these may we be full of sweetness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। ते। हव्यम्। घृतऽवत्। सरस्वति। इदम्। पितृणाम्। हवि:। आस्यम्। यत्। इमानि। ते। उदिता:। शम्ऽतमानि। तेभि:। वयम्। मधुऽमन्त:। स्याम। ७०.२।
+इदम्। ते। हव्यम्। घृतऽवत्। सरस्वति। इदम्। पितृणाम्। हविः। आस्यम्। यत्। इमानि। ते। उदिताः। शम्ऽतमानि। तेभिः। वयम्। मधुऽमन्तः। स्याम। ७०.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -22,10 +22,9 @@ mss. (B.M.E.I.H.D.K.) accent *malvàḥ* in **c**.
 The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, but can ne'er digest, the cow that bristles with a hundred barbs,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतऽअपाष्ठम्। नि। गिरति। ताम्। न। शक्नोति। नि:ऽखिदन्। अन्नम्। य:। ब्रह्मणाम्। मल्व:। स्वादु। अद्मि। इति। मन्यते। १८.७।
+शतऽअपाष्ठम्। नि। गिरति। ताम्। न। शक्नोति। निःऽखिदन्। अन्नम्। यः। ब्रह्मणाम्। मल्वः। स्वादु। अद्मि। इति। मन्यते। १८.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

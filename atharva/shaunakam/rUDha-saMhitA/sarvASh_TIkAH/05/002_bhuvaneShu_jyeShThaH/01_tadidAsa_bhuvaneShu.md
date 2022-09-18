@@ -21,10 +21,9 @@ ignores the considerable metrical irregularities.
 In all the worlds That was the best and highest whence sprang the Mighty One of splendid valour. As soon as born he overcomes his foemen, when those rejoice in him who bring him succour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तत्। इत्। आस। भुवनेषु। ज्येष्ठम्। यत:। जज्ञे। उग्र:। त्वेषऽनृम्ण:। सद्य:। जज्ञान:। नि। रिणाति। शत्रून्। अनु। यत्। एनम्। मदन्ति। विश्वे। ऊमा:। २.१।
+तत्। इत्। आस। भुवनेषु। ज्येष्ठम्। यतः। जज्ञे। उग्रः। त्वेषऽनृम्णः। सद्यः। जज्ञानः। नि। रिणाति। शत्रून्। अनु। यत्। एनम्। मदन्ति। विश्वे। ऊमाः। २.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

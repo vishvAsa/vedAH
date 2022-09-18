@@ -29,7 +29,6 @@ redundant syllable in **c** (read *-kám ’va*). ⌊For 17, 18, cf. MP. i.
 Worship we pay to Aryaman, finder of husbands, kindly friend. As from its stalk a cucumber, from here I loose thee, not from there
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अर्यमणम्। यजामहे। सुऽबन्धुम्। पतिऽवेदनम्। उर्वारुकम्ऽइव। बन्धनात्। प्र। इतः। मुञ्चामि। न। अमुतः। १.१७।

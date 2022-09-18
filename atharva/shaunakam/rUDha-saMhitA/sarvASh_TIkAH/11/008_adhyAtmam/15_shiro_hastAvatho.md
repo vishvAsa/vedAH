@@ -19,7 +19,6 @@ The comm. paraphrases *saṁdhā* in **d** with *saṁdhānakartrī devatā*.
 Head, both the hands, and face, and tongue, and neck, and inter- coastal parts, All this, investing it with skins, Mahi conjoined with bond and tie.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शिरः। हस्तौ। अथो इति। मुखम्। जिह्वाम्। ग्रीवाः। च। कीकसाः। त्वचा। प्रऽआवृत्य। सर्वम्। तत्। सम्ऽधा। सम्। अदधात्। मही। १०.१५।

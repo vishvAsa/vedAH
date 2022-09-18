@@ -21,10 +21,9 @@ for *johavītu;* in **d**, it again has *sujātās*.
 Stand even here; forsake me not. Before us may Pushan make your path unfit to travel. Vastoshpati incessantly recall you! In me be your sweet resting- place, O kinsmen!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इह। एव। स्त। मा। अप। यात। अधि। अस्मत्। पूषा। परस्तात्। अपथम्। व:। कृणोतु। वास्तो:। पति:। अनु। व:। जोहवीतु। मयि। सऽजाता:। रमति:। व:। अस्तु। ७३.३।
+इह। एव। स्त। मा। अप। यात। अधि। अस्मत्। पूषा। परस्तात्। अपथम्। वः। कृणोतु। वास्तोः। पतिः। अनु। वः। जोहवीतु। मयि। सऽजाताः। रमतिः। वः। अस्तु। ७३.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

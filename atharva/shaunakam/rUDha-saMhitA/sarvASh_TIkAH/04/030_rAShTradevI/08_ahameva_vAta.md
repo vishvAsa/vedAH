@@ -26,10 +26,9 @@ Here, too, by a rather strange division, ends the eighth *prapāṭhaka*.
 I breathe a strong breath like the wind and tempest, the while I hold together all existence. Beyond this wide earth and beyond the heavens I have become so mighty in my grandeur.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। एव। वात:ऽइव। प्र। वामि। आऽरभमाणा। भुवनानि। विश्वा। पर:। दिवा। पर:। एना। पृथिव्या। एतावती। महिम्ना। सम्। बभूव। ३०.८।
+अहम्। एव। वातःऽइव। प्र। वामि। आऽरभमाणा। भुवनानि। विश्वा। परः। दिवा। परः। एना। पृथिव्या। एतावती। महिम्ना। सम्। बभूव। ३०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

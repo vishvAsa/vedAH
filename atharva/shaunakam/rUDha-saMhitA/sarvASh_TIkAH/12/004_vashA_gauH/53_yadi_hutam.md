@@ -30,7 +30,6 @@ Anukr. says *saptabhir ūnā tu “vaśāḥ*," i.e. 'the cows\[-hymn\] is a
 If in his home one cooks the Cow, sacrificed or not sacrificed. Wronger of Gods and Brahmans' he departs, dishonest, from the world.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। हुताम्। यदि। अहुताम्। अमा। च। पचते। वशाम्। देवान्। सऽब्राह्मणान्। ऋत्वा। जिह्मः। लोकात्। निः। ऋच्छति। ४.५३।

@@ -38,10 +38,9 @@ in **C**.⌋
 Who follow in their course the rays of Surya, or as a particle of light attend him. Whose leader from afar, with store of riches, compasses quickly all the worlds and guards them. Pleased, may he come to this our burnt oblation, together with the Air, enriched with treasure.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सूर्यस्य। रश्मीन्। अनु। या:। सम्ऽचरन्ति। मरीची:। वा। या:। अनुऽसंचरन्ति। यासाम्। ऋषभ:। दूरत:। वाजिनीऽवान्। सद्य:। सर्वान्। लोकान्। परिऽएति। रक्षन्। स:। न:। आ। एतु। होमम्। इमम्। जुषाण:। अन्तरिक्षेण। सह। वाजिनीऽवान्। ३८.५।
+सूर्यस्य। रश्मीन्। अनु। याः। सम्ऽचरन्ति। मरीचीः। वा। याः। अनुऽसंचरन्ति। यासाम्। ऋषभः। दूरतः। वाजिनीऽवान्। सद्यः। सर्वान्। लोकान्। परिऽएति। रक्षन्। सः। नः। आ। एतु। होमम्। इमम्। जुषाणः। अन्तरिक्षेण। सह। वाजिनीऽवान्। ३८.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

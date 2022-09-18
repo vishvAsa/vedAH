@@ -30,7 +30,6 @@ purely mechanical (10 + 11: 8 + 8 = 37).
 Stationed on high, Purusha hath pervaded all regions spread aloft and stretched transversely. He who knows Brahma's cattle, yea, the fort whence Purusha is named,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्ध्वः। नु। सृष्टा३ः। तिर्यङ्। नु। सृष्टा३ः। सर्वाः। दिशः। पुरुषः। आ। बभूवाँ३। पुरम्। यः। ब्रह्मणः। वेद। यस्याः। पुरुषः। उच्यते। २.२८।

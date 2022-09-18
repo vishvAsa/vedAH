@@ -7,7 +7,6 @@ title = "०२२ तक्मनाशनम्"
 22. Against fever (takmán).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 तक्मनाशनम्।  
@@ -18,8 +17,6 @@ title = "०२२ तक्मनाशनम्"
 
 [Bhṛgvan̄giras.—caturdaśakam. takmanāśanadevatyam (takmāpabādhāyā ’nena devān aprārthayat takmanāśanam astāut). ānușțubham: 1, 2. trișțubh (1. bhurij); 5. virāṭ pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Roth, Zur Litteratur und Geschichte des Weda, 1846, p. 37 (about hal
 
 A charm against fever
 </details>
+

@@ -29,10 +29,9 @@ because, like him, born from the mouth of Brahman, and hence that
 Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by way of friendship. Placed in the centre of our fellows, Agni, flash forth to be invoked by kings around thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-क्षत्रेण। अग्ने। स्वेन। सम्। रभस्व। मित्रेण। अग्ने। मित्रऽधा:। यतस्व। सऽजातानाम्। मध्यमेऽस्था:। राज्ञाम्। अग्ने। विऽहव्य:। दीदिहि। इह। ६.४।
+क्षत्रेण। अग्ने। स्वेन। सम्। रभस्व। मित्रेण। अग्ने। मित्रऽधाः। यतस्व। सऽजातानाम्। मध्यमेऽस्थाः। राज्ञाम्। अग्ने। विऽहव्यः। दीदिहि। इह। ६.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

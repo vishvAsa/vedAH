@@ -7,7 +7,6 @@ title = "०६७ आत्मा"
 67 (69). For recovery of sense, etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "०६७ आत्मा"
 
 [Brahman.—ātmadevatyam. puraḥparoṣṇig bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 26, 90; Griffith, i. 359.
 
 A priest's prayer to the Agnayo Dhishnyah
 </details>
+

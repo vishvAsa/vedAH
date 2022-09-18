@@ -22,7 +22,6 @@ regarding the 'wiping away' as done with the foot.
 Lay thou the chaff in Agni Jatavedas: remove the husks and drive them to a distance. That, we have heard, that is the House-Lord's portion: we know the share allotted to Destruction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अग्नौ। तुषान्। आ। वप। जातऽवेदसि। परः। कम्बूकान्। अप। मृड्ढि। दूरम्। एतम्। शुश्रुम। गृहऽराजस्य। भागम्। अथो इति। विद्म। निःऽऋतेः। भागऽधेयम्। १.२९।

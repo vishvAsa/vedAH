@@ -26,10 +26,9 @@ is reduced to a dust-heap." \*⌊SV. also at i. 222.⌋
 Through all this world strode Vishnu: thrice his foot he planted, and the whole Was gathered in his footstep's dust.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इदम्। विष्णु:। वि। चक्रमे। त्रेधा। नि। दधे। पदा। सम्ऽऊढम्। अस्य। पांसुरे। २७.४।
+इदम्। विष्णुः। वि। चक्रमे। त्रेधा। नि। दधे। पदा। सम्ऽऊढम्। अस्य। पांसुरे। २७.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

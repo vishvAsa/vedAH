@@ -23,10 +23,9 @@ One would like to emend to *apāk-* 'standing aloof.'
 Those, bearing horns upon their hands, who first of all approach the brides; Standing in ovens, laughing loud, those who in bushes flash forth light, all these we banish hence away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। पूर्वे। वध्व:। यन्ति। हस्ते। शृङ्गाणि। बिभ्रत:। आपाकेऽस्था:। प्रऽहासिन:। स्तम्बे। ये। कुर्वते। ज्योति:। तान्। इत:। नाशयामसि। ६.१४।
+ये। पूर्वे। वध्वः। यन्ति। हस्ते। शृङ्गाणि। बिभ्रतः। आपाकेऽस्थाः। प्रऽहासिनः। स्तम्बे। ये। कुर्वते। ज्योतिः। तान्। इतः। नाशयामसि। ६.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

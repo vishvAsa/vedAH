@@ -14,8 +14,7 @@ title = "०४ य उत्तरतो"
 Jatavedas, northward sacrificers as foes assail us from the northern quarter. For harming Soma be they turned and troubled! I smite them backward with mine incantation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। उत्तरत:। जुह्वति। जातऽवेद:। उदीच्या:। दिश:। अभिऽदासन्ति। अस्मान्। सोमम्। ऋत्वा। ते। पराञ्च:। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.४।
+ये। उत्तरतः। जुह्वति। जातऽवेदः। उदीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। सोमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.४।
 </details>

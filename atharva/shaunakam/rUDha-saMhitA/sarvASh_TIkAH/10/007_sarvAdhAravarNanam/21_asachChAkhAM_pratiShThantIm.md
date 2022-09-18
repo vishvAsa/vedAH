@@ -23,7 +23,6 @@ regular *anuṣṭubh*).
 Men count as 'twere a thing supreme nonentity's conspicuous branch; And lower man who serve thy branch regard it as an entity.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 असत्ऽशाखाम्। प्रऽतिष्ठन्तीम्। परमम्ऽइव। जनाः। विदुः। उतो इति। सत्। मन्यन्ते। अवरे। ये। ते। शाखाम्। उपऽआसते। ७.२१।

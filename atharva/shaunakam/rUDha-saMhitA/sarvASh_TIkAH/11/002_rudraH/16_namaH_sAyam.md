@@ -17,7 +17,6 @@ homage by day; to Bhava and to śarva, to both have I paid homage.
 Homage at evening and at morn, homage at night, homage by day . To Bhava and to Sarva, both, have I paid lowly reverence,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। सायम्। नमः। प्रातः। नमः। रात्र्या। नमः। दिवा। भवाय। च। शर्वाय। च। उभाभ्याम्। अकरम्। नमः। २.१६।

@@ -23,10 +23,9 @@ implication of its etymological sense. Ppp., in **d**, reads *-mām* and
 Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumption from our men and make our cow-pen rich in milk.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शर्म। यच्छतु। ओषधि:। सह। देवी:। अरुन्धती। करत्। पयस्वन्तम्। गोऽस्थम्। अयक्ष्मान्। उत। पुरुषान्। ५९.२।
+शर्म। यच्छतु। ओषधिः। सह। देवीः। अरुन्धती। करत्। पयस्वन्तम्। गोऽस्थम्। अयक्ष्मान्। उत। पुरुषान्। ५९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

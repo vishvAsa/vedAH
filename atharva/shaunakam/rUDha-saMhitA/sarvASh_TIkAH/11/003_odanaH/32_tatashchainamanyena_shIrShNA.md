@@ -23,7 +23,6 @@ The *pada*-reading of *prā́śīs* in **a** is *pra॰ā́śīḥ*.
 And thence he said to this one, Thou hast eaten this with a different head from that with which the ancient Rishis ate: thy offspring, reckoning from the eldest, will die. I have eaten it neither turned downward, nor turned away, nor turned hitherward. With Brihaspati as head: with him I have eaten, with him have I come to it. Now this Odana is complete with all members, joints, and body. Complete, verily, with all his members, joints, and body is he who possess this knowledge.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ततः। च। एनम्। अन्येन। शीर्ष्णा। प्रऽआशीः। येन। च। एतम्। पूर्वे। ऋषयः। प्रऽआश्नन्। ज्येष्ठतः। ते। प्रऽजा। मरिष्यति। इति। एनम्। आह। तम्। वै। अहम्। न। अर्वाञ्चम्। न। पराञ्चम्। न। प्रत्यञ्चम्। बृहस्पतीना। शीर्ष्णा। तेन। एनम्। प्र। आशिषम्। तेन। एनम्। अजीगमम्। एषः। वै। ओदनः। सर्वऽअङ्गः। सर्वऽतनूः। सर्वऽअङ्गः। एव। सर्वऽपरुः। सर्वऽतनूः। सम्। भवति। यः। एवम्। वेद। ४.१।

@@ -24,10 +24,9 @@ Henry emends to *mūrdhnā* ⌊cf. also *Mém. Soc. Ling.* ix. 248⌋.
 With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry sacrifices. Invoke for us, in many a place declare him who with his mind. hath noticed this our worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मुग्धा:। देवा:। उत। शुना। अयजन्त। उत। गो:। अङ्गै:। पुरुऽधा। अयजन्त। य:। इमम्। यज्ञम्। मनसा। चिकेत। प्र। न:। वोच:। तम्। इह। इह। ब्रव:। ५.५।
+मुग्धाः। देवाः। उत। शुना। अयजन्त। उत। गोः। अङ्गैः। पुरुऽधा। अयजन्त। यः। इमम्। यज्ञम्। मनसा। चिकेत। प्र। नः। वोचः। तम्। इह। इह। ब्रवः। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

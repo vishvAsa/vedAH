@@ -20,10 +20,9 @@ usual, vary between 1 and 3 and nothing. The comm. reads *sadhrim*.
 We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke accompanies the wind, so let thy fancy follow me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मन:। वातम्। धूम:ऽइव। सध्र्यङ्। माम्। एव। अनु। एतु। ते। मन:। ८९.२।
+शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मनः। वातम्। धूमःऽइव। सध्र्यङ्। माम्। एव। अनु। एतु। ते। मनः। ८९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

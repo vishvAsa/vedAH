@@ -29,7 +29,6 @@ In Kāuś. 61. 30, the verse accompanies the smearing of a vessel
 Earth upon earth l set thee. This thy body is con-substantial,. but in form it differs. Whate'er hath been worn off or scratched in fixing, leak not thereat: I spread a charm to mend it.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पृथिवीम्। त्वा। पृथिव्याम्। आ। वेशयामि। तनूः। समानी। विऽकृता। ते। एषा। यत्ऽयत्। द्युत्तम्। लिखितम्। अर्पणेन। तेन। मा। सुस्रोः। ब्रह्मणा। अपि। तत्। वपामि। ३.२२।

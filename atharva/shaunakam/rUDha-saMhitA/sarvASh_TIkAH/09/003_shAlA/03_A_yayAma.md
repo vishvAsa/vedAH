@@ -18,7 +18,6 @@ slaughterer the joints.
 He drew them close, he pressed them fast, he made thy knotted. bands secure: With Indra's help we loose them as a skilful Slaughterer severs joints.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आ। ययाम। सम्। बबर्ह। ग्रन्थीन्। चकार। ते। दृढान्। परूंष‍ि। विद्वान्। शस्ताऽइव। इन्द्रेण। वि। चृतामसि। ३.३।

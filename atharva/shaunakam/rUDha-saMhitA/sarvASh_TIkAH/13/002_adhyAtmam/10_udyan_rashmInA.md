@@ -21,7 +21,6 @@ may be that "adornest" is a slip on W's part. Cf. Henry's note, p.
 Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou with thy power illumest both the oceans, encompassing all spheres with thy refulgence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उतऽयन्। रश्मीन्। आ। तनुषे। विश्वा। रूपाणि। पुष्यसि। उभा। समुद्रौ। क्रतुना। वि। भासि। सर्वान्। लोकान्। परिऽभूः। भ्राजमानः। 2.१०।

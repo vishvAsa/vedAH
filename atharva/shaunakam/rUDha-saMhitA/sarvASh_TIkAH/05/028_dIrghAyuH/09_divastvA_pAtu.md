@@ -20,10 +20,9 @@ Ppp. combines at the end *-purā ’yam*. This verse also is called
 The golden guard thee from the sky, the silvern guard thee from the air, The iron guard thee from the earth! This man hath reached the forts of Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिव:। त्वा। पातु। हरितम्। मध्यात्। त्वा। पातु। अर्जुनम्। भूम्या:। अयस्मयम्। पातु। प्र। अगात्। देवऽपुरा:। अयम्। २८.९।
+दिवः। त्वा। पातु। हरितम्। मध्यात्। त्वा। पातु। अर्जुनम्। भूम्याः। अयस्मयम्। पातु। प्र। अगात्। देवऽपुराः। अयम्। २८.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

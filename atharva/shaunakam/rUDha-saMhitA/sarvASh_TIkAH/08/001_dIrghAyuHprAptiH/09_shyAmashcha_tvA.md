@@ -20,10 +20,9 @@ Ppp. reads *mā ’va* for *mā vi* in **c**. The comm. omits *préṣitāu* in
 Let not the black dog and the brindled seize thee, two warders of the way sent forth by Yama. Come hither; do not hesitate: with mind averted stay not there.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-श्याम:। च। त्वा। मा। शबल:। च। प्रऽइषितौ। यमस्य। यौ। पथिरक्षी इति पथिऽरक्षी। श्वानौ। अवाङ्। आ। इहि। मा। वि। दीध्य:। मा। अत्र। तिष्ठ:। पराक्ऽमना:। १.९।
+श्यामः। च। त्वा। मा। शबलः। च। प्रऽइषितौ। यमस्य। यौ। पथिरक्षी इति पथिऽरक्षी। श्वानौ। अवाङ्। आ। इहि। मा। वि। दीध्यः। मा। अत्र। तिष्ठः। पराक्ऽमनाः। १.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -21,10 +21,9 @@ reading at the end the irregular form *ásam*. Ppp. has *te* for *me* in
 Not all the Gods may pierce, all leagued together, the vast strong shield which Indra gives, and Agni. May that great shield on all sides guard my body, that to full old my life may be extended.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ऐन्द्राग्नम्। वर्म। बहुलम्। यत्। उग्रम्। विश्वे। देवा:। न। अतिऽविध्यन्ति। सर्वे। तत्। मे। तन्वम्। त्रायताम्। सर्वत:। बृहत्। आयुष्मान्। जरतऽअष्टि:। यथा। असानि। ५.१९।
+ऐन्द्राग्नम्। वर्म। बहुलम्। यत्। उग्रम्। विश्वे। देवाः। न। अतिऽविध्यन्ति। सर्वे। तत्। मे। तन्वम्। त्रायताम्। सर्वतः। बृहत्। आयुष्मान्। जरतऽअष्टिः। यथा। असानि। ५.१९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

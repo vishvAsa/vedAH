@@ -21,7 +21,6 @@ verse (7 + 7: 8 \[7?\] + 11 = 33) is strangely defined by the Anukr.
 Let him not close the opened mouth, nor open that which now is closed. Two snakes are in this field, and both, female and male, are powerless.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सम्ऽयतम्। न। वि। स्परत्। विऽआत्तम्। च। सम्। यमत्। अस्मिन्। क्षेत्रे। द्वौ। अही इति। स्त्री। च। पुमान्। च। तौ। उभौ। अरसा। ४.८।

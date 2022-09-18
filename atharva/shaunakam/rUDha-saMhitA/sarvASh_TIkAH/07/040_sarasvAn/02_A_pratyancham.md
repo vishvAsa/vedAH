@@ -25,10 +25,9 @@ overlooked. ⌊Bp.¹ has *dāśvàṅsam;* Bp.² *dāśvàṅssam!*⌋
 Abiding here let us invoke Sarasvan, the seat of riches, glorious, wealth-increaser, Him who inclines and gives to him who worships, the rich pos- sessor and the Lord of Fulness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। प्रत्यञ्चम्। दाशुषे। दाश्वंसम्। सरस्वन्तम्। पुष्टऽपतिम्। रयिऽस्थाम्। राय:। पोषम्। श्रवस्युम्। वसाना:। इह। हुवेम। सदनम्। रयीणाम्। ४१.२।
+आ। प्रत्यञ्चम्। दाशुषे। दाश्वंसम्। सरस्वन्तम्। पुष्टऽपतिम्। रयिऽस्थाम्। रायः। पोषम्। श्रवस्युम्। वसानाः। इह। हुवेम। सदनम्। रयीणाम्। ४१.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

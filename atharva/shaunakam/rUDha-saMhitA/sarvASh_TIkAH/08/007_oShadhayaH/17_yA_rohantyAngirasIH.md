@@ -20,10 +20,9 @@ h.*⌋
 May these be pleasant to our heart, auspicious, rich in store of milk, These Plants of the Angirases which grow on mountains and on plains.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या:। रोहन्ति। आङ्गिरसी:। पर्वतेषु। समेषु। च। ता:। न:। पयस्वती:। शिवा:। ओषधी:। सन्तु। शम्। हृदे। ७.१७।
+याः। रोहन्ति। आङ्गिरसीः। पर्वतेषु। समेषु। च। ताः। नः। पयस्वतीः। शिवाः। ओषधीः। सन्तु। शम्। हृदे। ७.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

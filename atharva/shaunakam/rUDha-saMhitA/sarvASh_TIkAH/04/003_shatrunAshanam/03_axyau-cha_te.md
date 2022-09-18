@@ -29,7 +29,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अक्ष्यौ। च। ते। मुखम्। च। ते। व्याघ्र। जम्भयामसि। आत्। सर्वान्। विंशतिम्। नखान्। ३.३।

@@ -7,7 +7,6 @@ title = "००६ मणिबन्धनम्"
 6. With an amulet.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 मणिबन्धनम्।  
@@ -18,8 +17,6 @@ title = "००६ मणिबन्धनम्"
 
 [Bṛhaspati.—pañcatriṅśat. mantroktaphālamaṇidevatyam uta vānaspaiyam. ⌊3. āpyā.⌋ ānuṣṭubham: 1, 4, 21. gāyatrī; 5. 6-p. jagatī; 6. 7-p. virāṭ śakvarī; 7-10. 3-av. 8-p. aṣṭi (10. 9-p. dhṛti); 11, 20, 23-27. pathyāpan̄kti; 12-17. 3-av. 7-p. śakvarī; 31. 3-av. 6-p. jagatī; 35. 5-p. tryanuṣṭubgarbhā jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Henry, 18, 65; Griffith, ii. 21; Bloomfield, 84, 608.
 
 The glorification of an all-powerful amulet
 </details>
+

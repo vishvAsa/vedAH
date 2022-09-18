@@ -26,10 +26,9 @@ raised for going."
 Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impracations ye, like rapid cars, shall pass away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दुष्ट्यै। हि। त्वा। भत्स्यामि। दूषयिष्यामि। काबवम्। उत्। आशव:। रथा:ऽइव। शपथेभि:। सरिष्यथ। ९.५।
+दुष्ट्यै। हि। त्वा। भत्स्यामि। दूषयिष्यामि। काबवम्। उत्। आशवः। रथाःऽइव। शपथेभिः। सरिष्यथ। ९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

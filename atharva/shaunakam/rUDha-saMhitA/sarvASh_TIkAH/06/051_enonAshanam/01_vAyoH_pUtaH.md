@@ -40,10 +40,9 @@ Moreover, VS. has in x. (like TB.) *vāyúḥ*.⌋
 Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend of Indra.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वायो:। पूत:। पवित्रेण। प्रत्यङ्। सोम:। अति। द्रुत:। इन्द्रस्य। युज्य:। सखा। ५१.१।
+वायोः। पूतः। पवित्रेण। प्रत्यङ्। सोमः। अति। द्रुतः। इन्द्रस्य। युज्यः। सखा। ५१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

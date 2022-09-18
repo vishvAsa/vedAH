@@ -23,10 +23,9 @@ her.
 Thou who as Queen of men art Indra's equal, a Goddess coming with a thousand tresses, To thee our sacrifices are performed, O Consort of Vishnu Goddess, urge thy Lord to bounty!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। विश्पत्नी। इन्द्रम्। असि। प्रतीची। सहस्रऽस्तुका। अभिऽयन्ती। देवी। विष्णो:। पत्नि। तुभ्यम्। राता। हवींषि। पतिम्। देवि। राधसे। चोदयस्व। ४८.३।
+या। विश्पत्नी। इन्द्रम्। असि। प्रतीची। सहस्रऽस्तुका। अभिऽयन्ती। देवी। विष्णोः। पत्नि। तुभ्यम्। राता। हवींषि। पतिम्। देवि। राधसे। चोदयस्व। ४८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

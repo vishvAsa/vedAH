@@ -27,7 +27,6 @@ hymn as a "Rudra-hymn."⌋
 Homage to thy loud-shouting hosts and thy long-haired followers! Homage to hosts that are adored, homage to armies that enjoy Homage to all thy troops, O God. Security and bliss be ours!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नमः। ते। घोषिणीभ्यः। नमः। ते। केशिनीभ्यः। नमः। नमःऽकृताभ्यः। नमः। सम्ऽभुञ्जतीभ्यः। नमः। ते। देव। सेनाभ्यः। स्वस्ति। नः। अभयम्। च। नः। २.३१।

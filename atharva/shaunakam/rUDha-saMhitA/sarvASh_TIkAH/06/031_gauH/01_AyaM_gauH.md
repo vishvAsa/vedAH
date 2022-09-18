@@ -23,10 +23,9 @@ course the earth, upon which it seems to rest a moment.
 This spotted Bull hath come and sat before his mother in the east. Advancing to his father Heaven.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। अयम्। गौ:। पृश्नि:। अक्रमीत्। असदत्। मातरम्। पुर:। पितरम्। च। प्रऽयन्। स्व:। ३१.१।
+आ। अयम्। गौः। पृश्निः। अक्रमीत्। असदत्। मातरम्। पुरः। पितरम्। च। प्रऽयन्। स्वः। ३१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

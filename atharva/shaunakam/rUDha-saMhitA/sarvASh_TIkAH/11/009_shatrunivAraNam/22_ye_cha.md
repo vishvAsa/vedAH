@@ -25,7 +25,6 @@ Pet. Lex. conjectures instead *-abhivāśin*, and the comm. reads
 The clever and the foolish ones, those who are twisted round, the deaf, The dusky-hued, the hornless goats and those whose voice is like the buck's, All these, O Arbudi, do thou make visible to our enemies: cause them to look on mists and fog.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ये। च। धीराः। ये। च। अधीराः। पराञ्चः। बधिराः। च। ये। तमसाः। ये। च। तूपराः। अथो इति। बस्तऽअभिवासिनः। सर्वान्। तान्। अर्बुदे। त्वम्। अमित्रेभ्यः। दृशे। कुरु। उत्ऽआरान्। च। प्र। दर्शय। ११.२२।

@@ -23,7 +23,6 @@ women who come to look at the bride on her journey. Ppp. reads in **d**
 Signs of good fortune mark the bride. Come all of you and look at her. Wish her prosperity: take on you her evil lucks and go your way.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सुऽमङ्गली। इयम्। वधूः। इमाम्। सम्ऽएत। पश्यत। सौभाग्यम्। अस्यै। दत्त्वा। दौःऽभाग्यैः। विऽपरेतन। २.२८।

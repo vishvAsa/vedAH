@@ -7,7 +7,6 @@ title = "०३१ यक्ष्मनाशनम्"
 31. For welfare and long life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्ष्मनाशनम्  
@@ -18,8 +17,6 @@ title = "०३१ यक्ष्मनाशनम्"
 
 [Brahman.—ekādaśarcam. pāpmahādevatyam. ānuṣṭubham: 4. bhurij; 5. virāṭprastārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, xvii. 310; Griffith, i. 127; Bloomfield, 51, 364.
 
 A charm for the recovery of one dangerously ill
 </details>
+

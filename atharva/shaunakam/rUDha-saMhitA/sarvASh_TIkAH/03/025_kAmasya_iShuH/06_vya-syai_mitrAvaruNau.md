@@ -23,10 +23,9 @@ The fifth *anuvāka* has 5 hymns and 35 verses. The quoted Anukr. says
 Mitra and Varuna, expel all thought and purpose from her heart. Deprive her of her own free will and make her subject unto me.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। अस्यै। मित्रावरुणौ। हृद:। चित्तानि। अस्यतम्। अथ। एनाम्। अक्रतुम्। कृत्वा। मम। एव। कृणुतम्। वशे। २५.६।
+वि। अस्यै। मित्रावरुणौ। हृदः। चित्तानि। अस्यतम्। अथ। एनाम्। अक्रतुम्। कृत्वा। मम। एव। कृणुतम्। वशे। २५.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

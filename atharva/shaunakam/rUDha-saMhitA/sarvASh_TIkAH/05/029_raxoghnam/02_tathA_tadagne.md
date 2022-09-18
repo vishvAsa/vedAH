@@ -27,10 +27,9 @@ for *‘sya yatamo:* cf. 4 **c**.⌋
 Accordant with all Gods, O Jatavedas Agni, perform this work as we beseech thee, That this defence of his may fall, whoever hath caused us pain, whoever hath consumed us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तथा। तत्। अग्ने। कृणु। जातऽवेद:। विश्वेभि:। देवै:। सह। सम्ऽविदान:। य:। न:। दिदेव। यतम:। जघास। यथा। स:। अस्य। परिऽधि:। पताति। २९.२।
+तथा। तत्। अग्ने। कृणु। जातऽवेदः। विश्वेभिः। देवैः। सह। सम्ऽविदानः। यः। नः। दिदेव। यतमः। जघास। यथा। सः। अस्य। परिऽधिः। पताति। २९.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

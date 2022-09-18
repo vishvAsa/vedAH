@@ -17,10 +17,9 @@ thou give me: hail!
 Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अरायऽक्षयणम्। असि। अरायऽचातनम्। मे। दा:। स्वाहा। १८.३।
+अरायऽक्षयणम्। असि। अरायऽचातनम्। मे। दाः। स्वाहा। १८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

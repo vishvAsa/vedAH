@@ -19,10 +19,9 @@ This time, Ppp. puts *vadhryaśvam* in place of *gaviṣṭhiram* in **a**.
 Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, Who help Kakshivan and give aid to Kanva, deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। भरत्ऽवाजम्। अवथ:। यौ। गविष्ठिरम्। विश्वामित्रम्। वरुण। मित्र। कुत्सम्। यौ। कक्षीवन्तम्। अवथ:। प्र। उत। कण्वम्। तौ। न:। मुञ्चतम्। अंहस:। २९.५।
+यौ। भरत्ऽवाजम्। अवथः। यौ। गविष्ठिरम्। विश्वामित्रम्। वरुण। मित्र। कुत्सम्। यौ। कक्षीवन्तम्। अवथः। प्र। उत। कण्वम्। तौ। नः। मुञ्चतम्। अंहसः। २९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

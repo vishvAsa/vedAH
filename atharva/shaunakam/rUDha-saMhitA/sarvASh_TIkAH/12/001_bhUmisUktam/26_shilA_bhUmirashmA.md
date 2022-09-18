@@ -20,7 +20,6 @@ d**. ⌊Cf. note to vs. 6.⌋
 Rock earth, and stone, and dust, this Earth is held together,. firmly bound. To this gold-breasted Prithivi mine adoration have I paid.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 शिला। भूमिः। अश्मा। पांसुः। सा। भूमिः। सम्ऽधृता। धृता। तस्यै। हिरण्यऽवक्षसे। पृथिव्यै। अकरम्। नमः। २.२६।

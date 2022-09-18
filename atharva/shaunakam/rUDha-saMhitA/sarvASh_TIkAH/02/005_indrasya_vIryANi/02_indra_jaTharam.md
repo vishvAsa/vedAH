@@ -32,10 +32,9 @@ as 8 + 8: 8 + 10 = 34 syllables.
 O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-toned, the raptures of this juice have come to thee as to the light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र। जठरम्। नव्य:। न। पृणस्व। मधो:। दिव:। न। अस्य। सुतस्य स्व:। न :। उप। त्वा। मदा:। सुऽवाच:। अगु:। ५.२।
+इन्द्र। जठरम्। नव्यः। न। पृणस्व। मधोः। दिवः। न। अस्य। सुतस्य स्वः। न ः। उप। त्वा। मदाः। सुऽवाचः। अगुः। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

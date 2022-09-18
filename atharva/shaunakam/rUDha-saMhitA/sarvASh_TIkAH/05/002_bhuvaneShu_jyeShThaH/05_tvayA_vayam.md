@@ -20,10 +20,9 @@ RV. and Ppp. have no variants.
 Proudly we put our trust in thee in battles, when we behold great wealth the prize of combat. I with my words impel thy weapons onward, and sharpen with my prayer thy vital vigour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वया। वयम्। शाशद्महे। रणेषु। प्रऽपश्यन्त:। युधेन्यानि। भूरि। चोदयामि। ते। आयुधा। वच:ऽभि:। सम्। ते। शिशामि। ब्रह्मणा। वयांसि। २.५।
+त्वया। वयम्। शाशद्महे। रणेषु। प्रऽपश्यन्तः। युधेन्यानि। भूरि। चोदयामि। ते। आयुधा। वचःऽभिः। सम्। ते। शिशामि। ब्रह्मणा। वयांसि। २.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

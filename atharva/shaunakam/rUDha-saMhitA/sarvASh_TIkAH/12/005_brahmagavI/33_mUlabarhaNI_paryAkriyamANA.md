@@ -20,7 +20,6 @@ expects us to resolve *pari-ā-* once, but not both times. Bp. reads
 Uprooting when she is being turned round, destruction when she hath been turned round;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मूलऽबर्हणी। परिऽआक्रियमाणा। क्षितिः। परिऽआकृता। ८.६।

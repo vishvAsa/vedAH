@@ -23,10 +23,9 @@ compare xii. i. 6 **b**. The verse as a *prastārapan̄kti* (11 + 12: 8 +
 Grass-covered, clad with straw, the house, like Night, gives rest to man and beast. Thou standest, built upon the earth, like a she-elephant, borne on feet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-तृणै:। आऽवृता। पलदान्। वसाना। रात्रीऽइव। शाला। जगत:। न‍िऽवेशनी। मिता। पृथिव्याम्। तिष्ठसि। हस्तिनीऽइव। पत्ऽवती। ३.१७।
+तृणैः। आऽवृता। पलदान्। वसाना। रात्रीऽइव। शाला। जगतः। न‍िऽवेशनी। मिता। पृथिव्याम्। तिष्ठसि। हस्तिनीऽइव। पत्ऽवती। ३.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

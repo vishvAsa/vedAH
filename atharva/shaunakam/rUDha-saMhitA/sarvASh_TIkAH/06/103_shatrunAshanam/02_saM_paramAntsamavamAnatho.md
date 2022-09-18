@@ -21,10 +21,9 @@ Prāt. ii. 46.J⌋
 I bind together all of them, the first, the last, the middlemost. Indra hath girded these with cord: bind them together, Agni, thou!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सम्। परमान्। सम्। अवमान्। अथो इति। सम्। द्यामि। मध्यमान्। इन्द्र:। तान्। परि। अहा:। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.२।
+सम्। परमान्। सम्। अवमान्। अथो इति। सम्। द्यामि। मध्यमान्। इन्द्रः। तान्। परि। अहाः। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

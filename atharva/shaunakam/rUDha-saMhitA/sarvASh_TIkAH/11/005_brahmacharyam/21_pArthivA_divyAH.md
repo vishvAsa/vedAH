@@ -20,7 +20,6 @@ note.⌋
 All creatures of the earth and heaven, tame animals and sylvan beasts, Winged and wingless creatures, from the Brahmachari sprang to life,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 पार्थिवाः। दिव्याः। पशवः। आरण्याः। ग्राम्याः। च। ये। अपक्षाः। पक्षिणः। च। ये। ते। जाताः। ब्रह्मऽचारिणः। ७.२१।

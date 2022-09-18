@@ -22,10 +22,9 @@ and *pitaram* as *prapañcasya janakam*.
 On the world's summit I bring forth the Father: my home is in the waters, in the ocean. Thence I extend o'er all existing creatures, and touch even yonder heaven with my forehead.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अहम्। सुवे। पितरम्। अस्य। मूर्धन्। मम। योनि:। अप्ऽसु। अन्त:। समुद्रे। तत:। वि। तिष्ठे। भुवनानि। विश्वा। उत। अमूम्। द्याम्। वर्ष्मणा। उप। स्पृशामि। ३०.७।
+अहम्। सुवे। पितरम्। अस्य। मूर्धन्। मम। योनिः। अप्ऽसु। अन्तः। समुद्रे। ततः। वि। तिष्ठे। भुवनानि। विश्वा। उत। अमूम्। द्याम्। वर्ष्मणा। उप। स्पृशामि। ३०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

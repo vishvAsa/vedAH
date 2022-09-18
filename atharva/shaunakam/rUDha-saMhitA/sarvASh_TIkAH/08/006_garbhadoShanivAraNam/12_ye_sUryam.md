@@ -28,10 +28,9 @@ Ppp., see above.⌋
 All those who cannot bear the Sun who warms us yonder from the sky, Arayas with the smell of goats, malodorous, with bloody mouths, the Makakas we drive afar.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। सूर्यम्। न। तितिक्ष‍न्ते। आऽतपन्तम्। अमुम्। दिव:। अरायान्। बस्तऽवासिन:। दु:ऽगन्धीन्। लोहितऽआस्यान्। मककान्। नाशयामसि। ६.१२।
+ये। सूर्यम्। न। तितिक्ष‍न्ते। आऽतपन्तम्। अमुम्। दिवः। अरायान्। बस्तऽवासिनः। दुःऽगन्धीन्। लोहितऽआस्यान्। मककान्। नाशयामसि। ६.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

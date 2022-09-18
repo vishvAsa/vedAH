@@ -27,10 +27,9 @@ and omits **d**. The Anukr. omits to describe the verse, as a
 The rede is common, common the assembly, common the law, so be their thoughts united. I offer up your general oblation: together entertain one common purpose.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-समान:। मन्त्र:। सम्ऽइति:। समानी। समानम्। व्रतम्। सह। चित्तम्। एषाम्। समानेन। व:। हविषा। जुहोमि। समानम्। चेत:। अभिऽसंविशध्वम्। ६४.२।
+समानः। मन्त्रः। सम्ऽइतिः। समानी। समानम्। व्रतम्। सह। चित्तम्। एषाम्। समानेन। वः। हविषा। जुहोमि। समानम्। चेतः। अभिऽसंविशध्वम्। ६४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ the possession of.'
 For Gods and Brahmans is the Cow produced when first she springs to life, Hence to the priests must she be given: this they call guarding private wealth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 जायमानाः। अभि। जायते। देवान्। सऽब्राह्मणान्। वशा। तस्मात्। ब्रह्मऽभ्यः। देया। एषा। तत्। आहुः। स्वस्य। गोपनम्। ४.१०।

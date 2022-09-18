@@ -26,7 +26,6 @@ kṛṣṇa ity āthā*).
 If the dark bird hath come to us and, stealing the hanging. . morsel, settled in his dwelling, Or if the slave-girl hath, wet-handed, smearing the pestle and the mortar, cleansed the waters,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्ऽयत्। कृष्णः। शकुनः। आ। इह। गत्वा। त्सरन्। विऽसक्तम्। बिले। आऽससाद। यत्। वा। दासी। आर्द्रऽहस्ता। सम्ऽअङ्क्ते। उलूखलम्। मुसलम्। शुम्भत। आपः। ३.१३।

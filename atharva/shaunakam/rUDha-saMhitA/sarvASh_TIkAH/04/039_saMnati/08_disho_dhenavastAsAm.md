@@ -20,10 +20,9 @@ reading, *duhrām*, which ought to have been adopted in our text.
 The quarters are the Cows, their calf is Chandra. May they yield with their calf the Moon food, strength and all my wish, life first of all, and offspring, plenty, wealth. All Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दिश:। धेनव:। तासाम्। चन्द्र:। वत्स:। ता:। मे। चन्द्रेण। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयु:। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.८।
+दिशः। धेनवः। तासाम्। चन्द्रः। वत्सः। ताः। मे। चन्द्रेण। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

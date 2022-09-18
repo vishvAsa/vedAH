@@ -19,10 +19,9 @@ Ppp. has at the end *nayātha.* The comm. reads in **b** *uttham.*
 Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the fathers! I trust this man to all of you: preserve him happily, and to length of days conduct him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। व:। देवा:। पितर:। ये। च। पुत्रा:। सऽचेतस:। मे। शृणुत। इदम्। उक्तम्। सर्वेभ्य:। व:। परि। ददामि। एतम्। स्वस्ति। एनम्। जरसे। वहाथ।
+ये। वः। देवाः। पितरः। ये। च। पुत्राः। सऽचेतसः। मे। शृणुत। इदम्। उक्तम्। सर्वेभ्यः। वः। परि। ददामि। एतम्। स्वस्ति। एनम्। जरसे। वहाथ।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

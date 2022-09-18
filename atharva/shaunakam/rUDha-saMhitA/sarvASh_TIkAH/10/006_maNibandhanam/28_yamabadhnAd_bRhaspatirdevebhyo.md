@@ -17,7 +17,6 @@ Ppp. reads *ojasā tejasā saha*.
 The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here hath come to me combined with all prosperities.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सर्वाभिः। भूतिःऽभिः। सह। ६.२८।

@@ -20,7 +20,6 @@ Anukr. is bad; it ⌊seems to be 8 + 8: 8 + 14⌋.
 They call the Cow immortal life, pay homage to the Cow as Death. She hath become this universe, Fathers, and Rishis, hath become the Gods, and men, and Asuras.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वशाम्। एव। अमृतम्। आहुः। वशाम्। मृत्युम्। उप। आसते। वशा। इदम्। सर्वम्। अभवत्। देवाः। मनुष्याः। असुराः। पितरः। ऋषयः। १०.२६।

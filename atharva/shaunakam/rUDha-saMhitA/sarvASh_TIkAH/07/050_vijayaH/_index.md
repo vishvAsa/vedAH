@@ -7,7 +7,6 @@ title = "०५० विजयः"
 50 (52). For success with dice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विजयः।  
@@ -19,8 +18,6 @@ title = "०५० विजयः"
 [An̄giras (kitavabādhanakāmas*).—navarcam. āindram. ānuṣṭubham: 3, 7. triṣṭubh; 4. jagatī; 6. bhurik triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ Ppp. reads, in b, viśvāhaṁ, and, for c, evā ’ham amuṁ kitavam. The comm
 
 A gambler's prayer for success in gaming
 </details>
+

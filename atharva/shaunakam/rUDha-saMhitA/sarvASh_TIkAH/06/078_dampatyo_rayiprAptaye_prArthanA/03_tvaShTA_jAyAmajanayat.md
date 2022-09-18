@@ -20,10 +20,9 @@ long life-time.
 Tvashtar formed her to be thy dame, Tvashtar made thee to be her lord. Long life let Tvashtar give you both. Let Tvashtar give a thousand lives.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वष्टा। जायाम्। अजनयत्। त्वष्टा। अस्यै। त्वाम्। पतिम्। त्वष्टा। सहस्रम्। आयूंषि। दीर्घम्। आयु:। कृणोतु। वाम्। ७८.३।
+त्वष्टा। जायाम्। अजनयत्। त्वष्टा। अस्यै। त्वाम्। पतिम्। त्वष्टा। सहस्रम्। आयूंषि। दीर्घम्। आयुः। कृणोतु। वाम्। ७८.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -25,7 +25,6 @@ elides *vo ‘stu* in **d**.
 Instructed by the Rishis, bring those waters, the share of strength which was of old assigned you. Let this effectual sacrifice afford you protection, fortune, off- spring, men, and cattle.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 ऊर्जः। भागः। निऽहितः। यः। पुरा। वः। ऋषिऽप्रशिष्टा। अपः। आ। भर। एताः। अयम्। यज्ञः। गातुऽवित्। नाथऽवित्। प्रजाऽवित्। उग्रः। पशुऽवित्। वीरऽवित्। वः। अस्तु। १.१५।

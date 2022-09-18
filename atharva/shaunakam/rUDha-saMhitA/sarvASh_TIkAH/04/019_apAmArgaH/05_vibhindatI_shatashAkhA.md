@@ -21,10 +21,9 @@ needs some such emendation as to *táṁ tu-ám*.
 Thy father's name was Cleaver. Thou with thousand branches cleavest all. Do thou, turned backward, cleave and rend the man who treateth us as foes.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विऽभिन्दती। शतऽशाखा। विऽभिन्दन्। नाम। ते। पिता। प्रत्यक्। वि। भिन्धि। त्वम्। तम्। य:। अस्मान्। अभिऽदासति। १९.५।
+विऽभिन्दती। शतऽशाखा। विऽभिन्दन्। नाम। ते। पिता। प्रत्यक्। वि। भिन्धि। त्वम्। तम्। यः। अस्मान्। अभिऽदासति। १९.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

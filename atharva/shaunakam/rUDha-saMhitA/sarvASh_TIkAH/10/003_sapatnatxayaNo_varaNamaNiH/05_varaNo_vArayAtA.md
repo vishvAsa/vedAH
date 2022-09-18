@@ -21,7 +21,6 @@ either place of the deficient syllable in **a**. Ppp. reads here, for
 Guard against ill of varied kind is Varana this heavenly Plant. The Gods have stayed and driven off Consumption which had seized this man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 वरणः। वारयातै। अयम्। देवः। वनस्पतिः। यक्ष्मः। यः। अस्मिन्। आऽविष्टः। तम्। ऊं इति। देवाः। अवीवरन्। ३.५।

@@ -7,7 +7,6 @@ title = "०६३ वर्चोबलप्राप्तिः"
 63. For some one's release from perdition (nírṛti).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वर्चोबलप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०६३ वर्चोबलप्राप्तिः"
 
 [Druhvaṇa (?).—caturṛcam. nāirṛtam: 4. āgneyī. jāgatam: 1. atijagatīgarbhā; 4. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 433; Griffith, i. 279.
 
 The symbolical liberation of a sacrificial victim
 </details>
+

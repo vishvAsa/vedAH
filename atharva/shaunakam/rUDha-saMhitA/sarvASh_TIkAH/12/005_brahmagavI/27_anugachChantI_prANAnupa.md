@@ -21,7 +21,6 @@ gāyatrī.*\]
 Following him, the Brahman's cow extinguisheth the vital breath of the injurer of the Brahman.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अनुऽगच्छन्ती। प्राणान्। उप। दासयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। ७.१६।

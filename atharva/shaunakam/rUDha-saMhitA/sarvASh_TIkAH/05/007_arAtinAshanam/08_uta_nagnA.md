@@ -22,7 +22,6 @@ iv. 30.
 Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the thought, Arati! and the firm intention of a man.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत। नग्ना। बोभुवती। स्वप्नऽया। सचसे। जनम्। अराते। चित्तम्। विऽईर्त्सन्ती। आऽकूतिम्। पुरुषस्य। च। ७.८।

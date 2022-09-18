@@ -20,7 +20,6 @@ in **a**, and SPP. gives it in his text; the comm. has *saptaṛṣīn*.
 Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at their head: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्तऽऋषीन्। वै। इदम्। ब्रूमः। अपः। देवीः। प्रजाऽपतिम्। पितॄन्। यमऽश्रेष्ठान्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.११।

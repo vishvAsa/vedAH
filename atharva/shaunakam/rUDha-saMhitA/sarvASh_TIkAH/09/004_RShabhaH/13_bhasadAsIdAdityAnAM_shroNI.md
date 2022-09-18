@@ -18,10 +18,9 @@ Ppp. reads in **b** *śroṇīy āstām*.
 The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the God, receives the tail: he stirs the plants and herbs therewith,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-भसत्। आसीत्। आदित्यानाम्। श्रोणी इति। आस्ताम्। बृहस्पते:। पुच्छम्। वातस्य। देवस्य। तेन। धूनोति। ओषधी:। ४.१३।
+भसत्। आसीत्। आदित्यानाम्। श्रोणी इति। आस्ताम्। बृहस्पतेः। पुच्छम्। वातस्य। देवस्य। तेन। धूनोति। ओषधीः। ४.१३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,7 +23,6 @@ commerce. But cf. Hopkins, AJP. xix. 139.⌋
 As water swamps a leaky ship so ruin overflows that realm. Misfortune smites the realm wherein a Brahman suffers scath and harm.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तत्। वै। राष्ट्रम्। आ। स्रवति। नावम्। भिन्नाम्ऽइव। उदकम्। ब्रह्माणम्। यत्र। हिसन्ति। तत्। राष्ट्रम्। हन्ति। दुच्छुना। १९.८।

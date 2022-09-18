@@ -7,7 +7,6 @@ title = "१२३ सौमनसम्"
 123. For the success of an offering.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सौमनसम्।  
@@ -19,8 +18,6 @@ title = "१२३ सौमनसम्"
 [Bhṛgu.—pañcarcam, vāiśvadevam. trāiṣṭubham: 3. 2-p. sāmny anuṣṭubh; 4. 1-av. 2-p. prājāpatyā bhurig anuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ title = "१२३ सौमनसम्"
 ### Translations
 Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 </details>
+

@@ -20,10 +20,9 @@ Prāt. iii. 3, iv. 68. ⌊Delete the accent mark under *tu* in **d**.⌋
 If one should touch thy coming babe or kill thine infant newly born, The yellow Plant with mighty bow shall pierce him even to the heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। ते। गर्भम्। प्रतिऽमृशात्। जातम्। वा। मारयाति। ते। पिङ्ग:। तम्। उग्रऽधन्वा। कृणोतु। हृदयाविधम्। ६.१८।
+यः। ते। गर्भम्। प्रतिऽमृशात्। जातम्। वा। मारयाति। ते। पिङ्गः। तम्। उग्रऽधन्वा। कृणोतु। हृदयाविधम्। ६.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

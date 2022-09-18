@@ -31,10 +31,9 @@ some kind of sacrificial food.
 He who was born as his all-knowing kinsman declareth all the deities' generations. He from the midst of prayer his prayer hath taken. On high, below, spread forth his godlike nature.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्र। य:। जज्ञे। विद्वान्। अस्य। बन्धु:। विश्वा। देवानाम्। जनिम। विवक्ति। ब्रह्म। ब्रह्मण:। उत्। जभार। मध्यात्। नीचै:। उच्चै:। स्वधा। अभि। प्र। तस्थौ। १.३।
+प्र। यः। जज्ञे। विद्वान्। अस्य। बन्धुः। विश्वा। देवानाम्। जनिम। विवक्ति। ब्रह्म। ब्रह्मणः। उत्। जभार। मध्यात्। नीचैः। उच्चैः। स्वधा। अभि। प्र। तस्थौ। १.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

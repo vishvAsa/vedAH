@@ -35,10 +35,9 @@ adjective, either *gantavyam*, from the root *ah* 'go,' or "daily," from
 Let this Queen come in front, her Father's daughter, found in the worlds for earliest generation. For him they set this radiant vault in motion. Let them prepare warm milk for him who first would drink.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इयम्। पित्र्या। राष्ट्री। एतु। अग्रे। प्रथमाय। जनुषे। भुवनेऽस्था:। तस्मै। एतम्। सुऽरुचम्। ह्वारम्। अह्यम्। घर्मम्। श्रीणन्तु। प्रथमाय। धास्यवे। १.२।
+इयम्। पित्र्या। राष्ट्री। एतु। अग्रे। प्रथमाय। जनुषे। भुवनेऽस्थाः। तस्मै। एतम्। सुऽरुचम्। ह्वारम्। अह्यम्। घर्मम्। श्रीणन्तु। प्रथमाय। धास्यवे। १.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ the meaning; *utpāraṇa* is the action-noun to *ut-pāray* (viii. 1.
 Homage be paid to Yama, to Mrityu, and to the Fathers, and to those who guide us! I honour first, for this man's preservation, that Agni who well knoweth how to save him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नम:। यमाय। नम:। अस्तु। मृत्यवे। नम:। पितृऽभ्य:। उत। ये। नयन्ति। उत्ऽपारणस्य। य:। वेद। तम्। अग्निम्। पुर:। दधे। अस्मै। अरिष्टऽतातये। ३०.१२।
+नमः। यमाय। नमः। अस्तु। मृत्यवे। नमः। पितृऽभ्यः। उत। ये। नयन्ति। उत्ऽपारणस्य। यः। वेद। तम्। अग्निम्। पुरः। दधे। अस्मै। अरिष्टऽतातये। ३०.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

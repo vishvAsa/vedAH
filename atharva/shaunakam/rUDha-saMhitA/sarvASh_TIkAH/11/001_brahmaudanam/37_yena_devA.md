@@ -27,7 +27,6 @@ parāḥ*.⌋
 May we invested with that light go upward, ascending to the sky's most lofty summit. Wherewith the Gods, what time they had made ready Brahmaudana, mounted to the world of virtue.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 येन। देवाः। ज्योतिषा। द्याम्। उत्ऽआयन्। ब्रह्मऽओदनम्। पक्त्वा। सुऽकृतस्य। लोकम्। तेन। गेष्म। सुऽकृतस्य। लोकम्। स्वः। आऽरोहन्तः। अभि। नाकम्। उत्ऽतमम्। १.३७।

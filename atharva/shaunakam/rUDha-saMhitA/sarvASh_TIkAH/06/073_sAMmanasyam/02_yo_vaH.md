@@ -29,10 +29,9 @@ before the Lalita-Vistara) adopts *sīvayāmi* from the comm. (=
 The inclination which your hearts have harboured, the purpose which hath occupied your spirits, This I annul with sacrifice and butter. In me be your sweet resting-place, O kinsmen.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। व:। शुष्म:। हृदयेषु। अन्त:। आऽकूति:। या। व:। मनसि। प्रऽविष्टा। तान्। सीवयामि। हविषा। घृतेन। मयि। सऽजाता:। रमति:। व:। अस्तु। ७३.२।
+यः। वः। शुष्मः। हृदयेषु। अन्तः। आऽकूतिः। या। वः। मनसि। प्रऽविष्टा। तान्। सीवयामि। हविषा। घृतेन। मयि। सऽजाताः। रमतिः। वः। अस्तु। ७३.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

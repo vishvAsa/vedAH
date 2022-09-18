@@ -20,7 +20,6 @@ Ppp. reads in **a** *loko ‘bhavat* (our 40 **a**), and, for **d**,
 Rohita, in primeval days Prajapati, was, after, Time, Mouth of all sacrifices, he, Rohita, brought celestial light.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 रोहितः। कालः। अभवत्। रोहितः। अग्रे। प्रजाऽपतिः। रोहितः। यज्ञानाम्। मुखम्। रोहितः। स्वः। आ। अभरत्। २.३९।

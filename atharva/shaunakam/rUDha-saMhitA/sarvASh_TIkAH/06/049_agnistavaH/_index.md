@@ -7,7 +7,6 @@ title = "०४९ अग्निस्तवः"
 49. To Agni etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अग्निस्तवः।  
@@ -18,8 +17,6 @@ title = "०४९ अग्निस्तवः"
 
 [Gārgya.—āgneyam. 1. anuṣṭubh; 2-3. jagatī (3. virāj).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 432; Florenz, 310 or 62; Griffith, i. 272.
 
 In praise of Agni
 </details>
+

@@ -43,10 +43,9 @@ title, appears to fit our Anukr.; this scans as 8 + 10; 8 + 8: 8 + 8 =
 Come thou to nourish me and make me prosper. Night! may the favour of the Gods attend us. Filled full, O Ladle, fly thou forth. Completely filled fly back again. Serving at every sacrifice bring to us food and energy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। मा। पुष्टे। च। पोषे। च। रात्रि। देवानाम्। सुऽमतौ। स्याम। पूर्णा। दर्वे। परा। पत। सुऽपूर्णा। पुन:। आ। पत। सर्वान्। यज्ञान्। सम्ऽभुञ्जती। इषम्। ऊर्जम्। न:। आ। भर। १०.७।
+आ। मा। पुष्टे। च। पोषे। च। रात्रि। देवानाम्। सुऽमतौ। स्याम। पूर्णा। दर्वे। परा। पत। सुऽपूर्णा। पुनः। आ। पत। सर्वान्। यज्ञान्। सम्ऽभुञ्जती। इषम्। ऊर्जम्। नः। आ। भर। १०.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

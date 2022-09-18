@@ -19,10 +19,9 @@ Ppp. reads *aruspānam* (or *-syā-*) in **a**, and in **b** *pṛthivyā
 Mighty is this wound-healing balm: from out the earth was it produced. This is the cure for morbid flow, this driveth malady away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अरु:ऽस्राणम्। इदम्। महत्। पृथिव्या:। अधि। उत्ऽभृतम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.५।
+अरुःऽस्राणम्। इदम्। महत्। पृथिव्याः। अधि। उत्ऽभृतम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

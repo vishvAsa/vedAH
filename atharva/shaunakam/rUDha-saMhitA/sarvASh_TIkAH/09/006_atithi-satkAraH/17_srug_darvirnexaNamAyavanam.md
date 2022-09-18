@@ -47,10 +47,9 @@ sāmny anuṣṭubh.*⌋
 Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking-pots are the mortar-shaped Soma vessels; this earth is just the black-antelope's skin.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्रुक्। दर्वि:। नेक्षणम्। आऽयवनम्। द्रोणऽकलशा:। कुम्भ्य:। वायव्यानि। पात्राणि। इयम्। एव। कृष्णऽअजिनम्। ६.१७।
+स्रुक्। दर्विः। नेक्षणम्। आऽयवनम्। द्रोणऽकलशाः। कुम्भ्यः। वायव्यानि। पात्राणि। इयम्। एव। कृष्णऽअजिनम्। ६.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

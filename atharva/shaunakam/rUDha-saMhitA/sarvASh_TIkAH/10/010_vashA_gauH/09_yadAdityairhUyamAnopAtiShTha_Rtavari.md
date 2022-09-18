@@ -20,7 +20,6 @@ resolution (*pā́-tṛ-ān*) as vs. 8.
 When, Holy One, thou camest nigh invited by the Adityas' call, Indra gave thee to drink, O cow, a thousand bowls of Soma juice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। आदित्यैः। हूयमाना। उपऽअतिष्ठः। ऋतऽवरि। इन्द्रः। सहस्रम्। पात्रान्। सोमम्। त्वा। अपाययत्। वशे। १०.९।

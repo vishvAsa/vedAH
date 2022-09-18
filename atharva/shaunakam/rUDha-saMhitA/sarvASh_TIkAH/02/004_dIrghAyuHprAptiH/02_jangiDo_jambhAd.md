@@ -25,10 +25,9 @@ the second half, and combines *maṇis sahasravīryaṣ pari naṣ p-.*
 Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from Viara, Vishkandha, and tormenting pain.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-जङ्गिड:। जम्भात्। विऽशरात्। विऽस्कन्धात्। अभिऽशोचनात्। मणि:। सहस्रऽवीर्य:। परि। न:। पातु। विश्वत:। ४.२।
+जङ्गिडः। जम्भात्। विऽशरात्। विऽस्कन्धात्। अभिऽशोचनात्। मणिः। सहस्रऽवीर्यः। परि। नः। पातु। विश्वतः। ४.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

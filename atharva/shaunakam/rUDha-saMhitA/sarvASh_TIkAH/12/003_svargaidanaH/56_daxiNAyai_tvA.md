@@ -18,7 +18,6 @@ guard ye etc. etc.
 To the southern region, to Indra the Regent, to Tiraschiraji the Protector, to Yama the Archer, we present, etc. (as in stanza 55)
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दक्षिणायै। त्वा। दिशे। इन्द्राय। अधिऽपतये। तिरश्चिऽराजये। रक्षित्रे। यमाय। इषुऽमते। एतम्। परि। दद्मः। तम्। नः। गोपायत। आ। अस्माकम्। आऽएतोः। दिष्टम्। नः। अत्र। जरसे। नि। नेषत्। जरा। मृत्यवे। परि। नः। ददातु। अथ। पक्वेन। सह। सम्। भवेम। ३.५६।

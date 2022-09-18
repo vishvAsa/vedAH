@@ -18,10 +18,9 @@ The Anukr. expects us to read *yā́ni ul-*. Ppp. omits *yāni* and reads
 The pestle and mortar are really the stones of the Soma press.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यानि। उलूखलऽमुसलानि। ग्रावाण:। एव। ते। ६.१५।
+यानि। उलूखलऽमुसलानि। ग्रावाणः। एव। ते। ६.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

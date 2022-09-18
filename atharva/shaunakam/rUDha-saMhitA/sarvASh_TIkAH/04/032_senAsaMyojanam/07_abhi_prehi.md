@@ -27,10 +27,9 @@ draught" seems to overlook the gender of *upāṅśú.*⌋
 Approach, and on our right hand hold thy station, then let us slay a multitude of foemen. The best of meath I offer to support thee: may we be first to drink thereof in quiet.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभि। प्र। इहि। दक्षिणत:। भव। न:। अध। वृत्राणि। जङ्घनाव। भूरि। जुहोमि। ते। धरुणम्। मध्व:। अग्रम्। उभौ। उपऽअंशु। प्रथमा। पिबाव। ३२.७।
+अभि। प्र। इहि। दक्षिणतः। भव। नः। अध। वृत्राणि। जङ्घनाव। भूरि। जुहोमि। ते। धरुणम्। मध्वः। अग्रम्। उभौ। उपऽअंशु। प्रथमा। पिबाव। ३२.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

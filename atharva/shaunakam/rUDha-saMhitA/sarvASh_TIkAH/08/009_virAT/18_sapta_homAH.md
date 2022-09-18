@@ -26,10 +26,9 @@ E.) read *āyam* (the *saṁhitā*-mss. *-aṁ*) at end of **c**.
 Seven are the Homas, seven the logs for burning, seven are the streams of mead, and seven the seasons. Into the world have come seven streams of butter; those we have heard of as the Seven Vultures.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सप्त। होमा:। सम्ऽइध:। ह। सप्त। मधूनि। सप्त। ऋतव:। ह। सप्त। सप्त। आज्यानि। परि। भूतम्। आयन्। ता:। सप्तऽगृध्रा:। इति। शुश्रुम। वयम्। ९.१८।
+सप्त। होमाः। सम्ऽइधः। ह। सप्त। मधूनि। सप्त। ऋतवः। ह। सप्त। सप्त। आज्यानि। परि। भूतम्। आयन्। ताः। सप्तऽगृध्राः। इति। शुश्रुम। वयम्। ९.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

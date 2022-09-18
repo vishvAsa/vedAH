@@ -7,7 +7,6 @@ title = "+००५ विजयप्राप्तिः"
 5. Preparation and use of water-thunderbolts.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 विजयप्राप्तिः।  
@@ -27,8 +26,6 @@ title = "+००५ विजयप्राप्तिः"
 [B1. (vss. 25-35). Kāuśika.—ekādaśa. viṣṇukramadevatyā uta pratimantroktadevatyāḥ. 25-35. 3-av. 6-p. yathākṣaraṁ śakvaryatiśatvarī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -45,3 +42,4 @@ title = "+००५ विजयप्राप्तिः"
 
 A charm to overthrow a rival and gain strength, dignity, long life, children, and general prosperity
 </details>
+

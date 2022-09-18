@@ -18,10 +18,9 @@ Ppp. puts *iva* after *divam* in **c**.
 Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen up to heaven, quells witchcraft with superior might.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ये। स्राक्त्यम्। मणिम्। जना:। वर्माणि। कृण्वते। सूर्य:ऽइव। दिवम्। आऽरुह्य। वि। कृत्या:। बाधते। वशी। ५.७।
+ये। स्राक्त्यम्। मणिम्। जनाः। वर्माणि। कृण्वते। सूर्यःऽइव। दिवम्। आऽरुह्य। वि। कृत्याः। बाधते। वशी। ५.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

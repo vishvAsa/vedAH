@@ -22,7 +22,6 @@ rather *kakummatī* than *śan̄kumatī*. ⌊It becomes a perfectly regular
 Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou mayest be cast off by him, as by a bull a barren cow.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तृष्टा। असि। तृष्टिका। विषा। विषातकी। असि। परिऽवृक्ता। यथा। अससि। ऋषभस्य। वशाऽइव। ११८.२।

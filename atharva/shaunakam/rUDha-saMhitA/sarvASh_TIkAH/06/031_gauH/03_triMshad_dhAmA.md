@@ -44,10 +44,9 @@ extracted item of Anukr. is simply *tṛtīya* (see end of the next
 He rules supreme through thirty realms--One winged with song hath made him mount Throughout the days at break of morn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्रिंशत्। धाम। व‍ि। राजति। वाक्। पतङ्ग:। अशिश्रियत्। प्रति। वस्तो:। अह:। द्युऽभि:। ३१.३।
+त्रिंशत्। धाम। व‍ि। राजति। वाक्। पतङ्गः। अशिश्रियत्। प्रति। वस्तोः। अहः। द्युऽभिः। ३१.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

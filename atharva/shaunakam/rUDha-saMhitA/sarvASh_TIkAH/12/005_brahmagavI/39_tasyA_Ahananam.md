@@ -19,7 +19,6 @@ Ppp. combines *tasyā ”han-*.
 Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her undigested grass is a secret spell.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तस्याः। आऽहननम्। कृत्या। मेनिः। आऽशसनम्। वलगः। ऊबध्यम्। ९.१।

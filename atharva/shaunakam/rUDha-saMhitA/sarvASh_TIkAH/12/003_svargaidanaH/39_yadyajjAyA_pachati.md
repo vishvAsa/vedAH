@@ -20,7 +20,6 @@ upon it. ⌊Has a second *pácati* fallen out after *jāye?*⌋
 Whate'er thy wife, away from thee, makes ready, or what, O wife, apart from thee, thy husband, Combine it all: let it be yours in common while ye produce one world with joint endeavour.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्ऽयत्। जाया। पचति। त्वत्। परःऽपरः। पतिः। वा। जाये। त्वत्। तिरः। सम्। तत्। सृजेथाम्। सह। वाम्। तत्। अस्तु। सम्ऽपादयन्तौ। सह। लोकम्। एकम्। ३.३९।

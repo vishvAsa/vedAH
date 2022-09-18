@@ -19,10 +19,9 @@ The last pāda is the same with 9 **d**. Ppp. has *sarve* instead of
 With hundred sacrifices he worships: the fires consume him not: All Gods promote the Braman who offers the Bull in sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शतऽयाजम्। स:। यजते। न। एनम्। दुन्वन्ति। अग्नय:। जिन्वन्ति। विश्वे। तम्। देवा:। य:। ब्राह्मणे। ऋषभम्। आऽजुहोति। ४.१८।
+शतऽयाजम्। सः। यजते। न। एनम्। दुन्वन्ति। अग्नयः। जिन्वन्ति। विश्वे। तम्। देवाः। यः। ब्राह्मणे। ऋषभम्। आऽजुहोति। ४.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

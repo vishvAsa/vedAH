@@ -26,10 +26,9 @@ note, as in AśS.⌋ †⌊Save MS.⌋
 May Dhatar grant the worshipper henceforth imperishable life. May we obtain the favour of the God who giveth every boon.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। दधातु। दाशुषे। प्राचीम्। जीवातुम्। अक्षिताम्। वयम्। देवस्य। धीमहि। सुऽमतिम्। विश्वऽराधस:। १८.२।
+धाता। दधातु। दाशुषे। प्राचीम्। जीवातुम्। अक्षिताम्। वयम्। देवस्य। धीमहि। सुऽमतिम्। विश्वऽराधसः। १८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

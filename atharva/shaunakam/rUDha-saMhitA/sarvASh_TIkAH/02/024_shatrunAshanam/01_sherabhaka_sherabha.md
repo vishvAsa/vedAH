@@ -29,10 +29,9 @@ comments on *áhāit* and the like, ZDMG. xlviii. 577.⌋
 O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your weapon fall. Eat your possessor; eat ye him who sent you forth;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-शेरभक। शेरभ। पुन:। व:। यन्तु। यातव:। पुन:। हेति:। किमीदिन:। यस्य। स्थ। तम्। अत्त। य:। व:। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.१।
+शेरभक। शेरभ। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

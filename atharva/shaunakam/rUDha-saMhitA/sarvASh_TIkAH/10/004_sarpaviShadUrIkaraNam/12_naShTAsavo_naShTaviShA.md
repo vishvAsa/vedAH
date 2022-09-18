@@ -17,7 +17,6 @@ thunderbolt-bearing Indra; Indra hath slain, we have slain.
 Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and we have slaughtered them.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नष्टऽअसवः। नष्टऽविषाः। हताः। इन्द्रेण। वज्रिणा। जघान। इन्द्रः। जघ्निम। वयम्। ४.१२।

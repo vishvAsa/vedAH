@@ -20,7 +20,6 @@ of **c**. The verse is rather *svarāj* than *bhurij*.
 This charm, this Varana healeth all diseases, bright with a thou- sand eyes and golden glister. This charm shall conquer and cast down thy foemen. Be thou the first to slay the men who hate thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अयम्। मणिः। वरणः। विश्वऽभेषजः। सहस्रऽअक्षः। हरितः। हिरण्ययः। सः। ते। शत्रून्। अधरान्। पादयाति। पूर्वः। तान्। दभ्नुहि। ये। त्वा। द्विषन्ति। ३.३।

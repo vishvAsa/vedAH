@@ -21,7 +21,6 @@ times: see note to iii. 19. 8.⌋
 May Indra, Lord of Might, strike down each bravest warrior of the foes, Whom this our band hath put to flight: let not one man of those escape.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तया। अर्बुदे। प्रऽनुत्तानाम्। इन्द्रः। हन्तु। वरम्ऽवरम्। अमित्राणाम्। शचीऽपतिः। मा। अमीषाम्। मोचि। कः। चन। ११.२०।

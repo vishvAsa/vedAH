@@ -21,7 +21,6 @@ syllables, which may be obtained in more than one way (most probably
 The ointment that they bring for injunction is just clarified liquid butter.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यत्। आञ्जनऽअभ्यञ्जनम्। आऽहरन्ति। आज्यम्। एव। तत्। ६.११।

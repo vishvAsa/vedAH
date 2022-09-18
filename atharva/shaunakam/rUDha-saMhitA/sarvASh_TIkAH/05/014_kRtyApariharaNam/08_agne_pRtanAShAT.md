@@ -21,10 +21,9 @@ unmetrical, and the third hardly metrical.
 Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer we cast his sorcery, and beat it home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्ने। पृतनाषाट्। पृतना:। सहस्व। पुन:। कृत्याम्। कृत्याऽकृते। प्रतिऽहरणेन। हरामसि। १४.८।
+अग्ने। पृतनाषाट्। पृतनाः। सहस्व। पुनः। कृत्याम्। कृत्याऽकृते। प्रतिऽहरणेन। हरामसि। १४.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

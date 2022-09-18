@@ -23,10 +23,9 @@ as *yádi ekavṛṣó ási sṛjá arasò ‘si* (or *sṛjā́ ’rasó asi*).
 Bull! if thou art the single bull, beget. Thou hast no vital sap.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। एकऽवृष:। असि। सृज। अरस:। असि। १६.१।
+यदि। एकऽवृषः। असि। सृज। अरसः। असि। १६.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

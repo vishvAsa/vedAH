@@ -27,7 +27,6 @@ with the singular *arbude*. The comm. reads *saṁdṛṣṭās* and *guptās* i
 Arise ye and prepare yourselves: ye, the celestial hosts, are friends. Let your mysterious natures be seen by our friends O Arbudi.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्। तिष्ठत। सम्। नह्यध्वम्। मित्राः। देवऽजनाः। यूयम्। सम्ऽदृष्टा। गुप्ता। वः। सन्तु। या। नः। मित्राणि। अर्बुदे। ११.२।

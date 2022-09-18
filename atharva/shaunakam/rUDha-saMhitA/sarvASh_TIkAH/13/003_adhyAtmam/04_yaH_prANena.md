@@ -19,7 +19,6 @@ either *apānena* or *samudrasya* would rectify the meter of **b**.
 Who with the breath he draws sates earth and heaven, with expiration fills the ocean's belly, This God, etc.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। प्राणेन। द्यावापृथिवी इति। तर्पयति। अपानेन। समुद्रस्य। जठरम्। यः। पिपर्ति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.४।

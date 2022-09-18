@@ -23,7 +23,6 @@ is easily read into a regular *anuṣṭubh*.
 We drive thee forth to other folk, to alien cattle, alien steeds, Thee the corpse-eating Agni, thee the Agni who bewilders men,
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अन्येभ्यः। त्वा। पुरुषेभ्यः। गोभ्यः। अश्वेभ्यः। त्वा। निः। क्रव्यऽअदम्। नुदामसि। यः। अग्निः। जीवितऽयोपनः। २.१६।

@@ -19,10 +19,9 @@ one face who makes offering (*ā-hu*) of a bull to a Brahman.
 Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee they call Sarasvan. Turned to one aim, that Brahman gives a thousand who offers up the Bull as his oblation.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दैवी:। विश:। पयस्वान्। आ। तनोषि। त्वाम्। इन्द्रम्। त्वाम्। सरस्वन्तम्। आहु:। सहस्रम्। स:। एकऽमुखा:। ददाति। य:। ब्राह्मणे। ऋषभम्। आऽजुहोति। ४.९।
+दैवीः। विशः। पयस्वान्। आ। तनोषि। त्वाम्। इन्द्रम्। त्वाम्। सरस्वन्तम्। आहुः। सहस्रम्। सः। एकऽमुखाः। ददाति। यः। ब्राह्मणे। ऋषभम्। आऽजुहोति। ४.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

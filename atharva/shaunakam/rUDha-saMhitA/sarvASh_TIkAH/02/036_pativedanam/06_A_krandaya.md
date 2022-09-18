@@ -22,10 +22,9 @@ girl step forward to the right."
 Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each on thy right hand who is a lover worthy of her choice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। क्रन्दय। धनऽपते। वरम्। आऽमनसम्। कृणु। सर्वम्। प्रऽदक्षिणम्। कृणु। य:। वर:। प्रतिऽकाम्य:। ३६.६।
+आ। क्रन्दय। धनऽपते। वरम्। आऽमनसम्। कृणु। सर्वम्। प्रऽदक्षिणम्। कृणु। यः। वरः। प्रतिऽकाम्यः। ३६.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

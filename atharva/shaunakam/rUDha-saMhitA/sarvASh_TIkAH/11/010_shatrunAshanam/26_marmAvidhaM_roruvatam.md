@@ -31,7 +31,6 @@ instance of non-separation in *pada*-text.⌋
 With eagles let them eat the evil-hearted, pierced in the vitals, lying crushed and howling. The foe whoe'er will fight against this our protecting sacrifice.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मर्माविधम्। रोरुवतम्। सुऽपर्णैः। अदन्तु। दुःऽचितम्। मृदितम्। शयानम्। यः। इमाम्। प्रतीचीम्। आऽहुतिम्। अमित्रः। नः। युयुत्सति। १२.२६।

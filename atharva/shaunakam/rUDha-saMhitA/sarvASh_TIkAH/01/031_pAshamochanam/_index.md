@@ -7,7 +7,6 @@ title = "०३१ पाशमोचनम्"
 31. To the divine guardians of the quarters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पाशमोचनम्।  
@@ -18,8 +17,6 @@ title = "०३१ पाशमोचनम्"
 
 [Brahman.—āśāpālīyam, vāstoṣpatyam. ānuṣṭubham: 3. virāṭtriṣṭubh; 4. parānuṣṭuptriṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 425; Ludwig, p. 372; Griffith, i. 35.
 
 A prayer for protection and general prosperity
 </details>
+

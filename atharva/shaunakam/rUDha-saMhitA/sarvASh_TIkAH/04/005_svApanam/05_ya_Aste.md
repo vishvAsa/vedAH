@@ -29,10 +29,9 @@ and vi. 91. 2 **a** (*’va* before *vāti?*). Other cases (vii. 81. 1
 The man who sits, the man who walks, whoever stands and clearly sees Of these we closely shut the eyes, even as we closely shut this house.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। आस्ते। य:। चरति। य:। च। तिष्ठन्। विऽपश्यति। तेषाम्। सम्। दध्म:। अक्षीणि। यथा। इदम्। हर्म्यम्। तथा। ५.५।
+यः। आस्ते। यः। चरति। यः। च। तिष्ठन्। विऽपश्यति। तेषाम्। सम्। दध्मः। अक्षीणि। यथा। इदम्। हर्म्यम्। तथा। ५.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

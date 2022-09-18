@@ -7,7 +7,6 @@ title = "०१८ ब्रह्मरावी"
 18. The Brahman's cow.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मरावी  
@@ -18,8 +17,6 @@ title = "०१८ ब्रह्मरावी"
 
 [Mayobhū.—pañcadaśakam. brahmagavīdevatyam. ānuṣṭubham: 4, 5, 8, 9, 13. triṣṭubh (4. bhurij).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, i2 284; Ludwig, p. 447; Zimraer, p. 199; Grill, 41, 148; Griff
 
 The wickedness of oppressing and robbing Brahmans
 </details>
+

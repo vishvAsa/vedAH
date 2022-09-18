@@ -29,10 +29,9 @@ pool. Ppp. has an independent second half-verse: *aruspānam asy
 The emmets from the water-flood produce this healing medicine: This is the cure for morbid flow, this driveth malady away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उपऽजीका:। उत्। भरन्ति। समुद्रात्। अधि। भेषजम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अशीशमत्। ३.४।
+उपऽजीकाः। उत्। भरन्ति। समुद्रात्। अधि। भेषजम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अशीशमत्। ३.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

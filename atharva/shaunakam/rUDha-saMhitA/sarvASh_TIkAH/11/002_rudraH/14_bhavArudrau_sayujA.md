@@ -21,7 +21,6 @@ which is doubtless correct.
 Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of valour. Wherever they may be, we pay them homage.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 भवारुद्रौ। सऽयुजा। सम्ऽविदानौ। उभौ। उग्रौ। चरतः। वीर्याय। ताभ्याम्। नमः। यतमस्याम्। दिशि। इतः। २.१४।

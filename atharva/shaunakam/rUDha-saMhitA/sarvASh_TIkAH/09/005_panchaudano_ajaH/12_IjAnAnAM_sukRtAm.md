@@ -21,10 +21,9 @@ Ppp. begins *pra jyotiṣmantaṁ sukṛtāṁ lok-;* and reads **c, d** thus:
 Seeking the world of good men who have worshipped, he gives the Goat Panchaudana to the Brahman. Win thou this world as thy complete possession. Auspicious unto us be he, accepted!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ईजानानाम्। सुऽकृताम्। लोकम्। ईप्सन्। पञ्चऽओदनम्। ब्रह्मणे। अजम्। ददाति। स:। विऽआप्तिम्। अभि। लोकम्। जय। एतम्। शिव:। अस्मभ्यम्। प्रतिऽगृहीत:। अस्तु। ५.१२।
+ईजानानाम्। सुऽकृताम्। लोकम्। ईप्सन्। पञ्चऽओदनम्। ब्रह्मणे। अजम्। ददाति। सः। विऽआप्तिम्। अभि। लोकम्। जय। एतम्। शिवः। अस्मभ्यम्। प्रतिऽगृहीतः। अस्तु। ५.१२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -7,7 +7,6 @@ title = "०२४ अपां भैषज्यम्"
 24. To the waters: for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अपां भैषज्यम्।  
@@ -18,8 +17,6 @@ title = "०२४ अपां भैषज्यम्"
 
 [śaṁtāti (?).—abdevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 279 or 31; Grill, 13, 161; Griffith, i. 258; Bloomfield, 12
 
 To the Rivers
 </details>
+

@@ -24,10 +24,9 @@ RV. reads *havíṣā* for *maṇínā* in **a**. The long *ī* of *abhīvarta*
 With that victorious Amulet which strengthened Indra's power- and might Do thou, O Brahmanaspati, increase our strength for kingly sway.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अभिऽवर्तेन। मणिना। येन। इन्द्र:। अभिऽववृधे। तेन। अस्मान्। ब्रह्मण:। पते। अभि। राष्ट्राय। वर्धय।
+अभिऽवर्तेन। मणिना। येन। इन्द्रः। अभिऽववृधे। तेन। अस्मान्। ब्रह्मणः। पते। अभि। राष्ट्राय। वर्धय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

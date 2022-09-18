@@ -46,10 +46,9 @@ appears doubtful. ⌊The Anukr. scans 8 + 5: 8 + 8.⌋
 Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rain from one who strives to win the Marutes heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-खण्वखा३इ। खैमखा३इ। मध्ये। तदुरि। वर्षम्। वनुध्वम्। पितर:। मरुताम्। मन:। इच्छत। १५.१५।
+खण्वखा३इ। खैमखा३इ। मध्ये। तदुरि। वर्षम्। वनुध्वम्। पितरः। मरुताम्। मनः। इच्छत। १५.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

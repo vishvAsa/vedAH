@@ -29,10 +29,9 @@ us."
 Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages make impotent the strong and active Kabava.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पिशङ्गे। सूत्रे। खृगलम्। तत्। आ। बध्नन्ति। वेधस:। श्रवस्युम्। शुष्मम्। काबवम्। वध्रिम्। कृण्वन्तु। बन्धुर:। ९.३।
+पिशङ्गे। सूत्रे। खृगलम्। तत्। आ। बध्नन्ति। वेधसः। श्रवस्युम्। शुष्मम्। काबवम्। वध्रिम्। कृण्वन्तु। बन्धुरः। ९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

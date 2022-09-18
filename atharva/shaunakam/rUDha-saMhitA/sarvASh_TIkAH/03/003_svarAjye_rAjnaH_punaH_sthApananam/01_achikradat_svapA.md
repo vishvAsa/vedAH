@@ -41,10 +41,9 @@ quotable, is quite possible.⌋
 Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth and heaven. Let Maruts who possesses all treasures yoke thee. Bring him who reverently paid oblations.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अचिक्रदत्। स्वऽपा:। इह। भुवत्। अग्ने। वि। अचस्व। रोदसी  इति। उरूची इति। युञ्जन्तु। त्वा। मरुत:। विश्वऽवेदस:। आ। अमुम्। नय। नमसा। रातऽहव्यम्। ३.१।
+अचिक्रदत्। स्वऽपाः। इह। भुवत्। अग्ने। वि। अचस्व। रोदसी  इति। उरूची इति। युञ्जन्तु। त्वा। मरुतः। विश्वऽवेदसः। आ। अमुम्। नय। नमसा। रातऽहव्यम्। ३.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -39,10 +39,9 @@ de l'histoire des religions*, xxxix. 26.⌋
 If thou be fiery glow, or inflammation, or if thy birthplace call for chips of fuel, Rack is thy name, God of the sickly yellow! O Fever, yielding to our prayer avoid us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। अर्चि:। यदि। वा। असि। शोचि:। शकल्यऽएषि। यदि। वा। ते। जनित्रम्। ह्रुडु:। नाम। असि। हरितस्य। देव। स:। न:। सम्ऽविद्वान्। परि। वृङग्धि। तक्मन्।
+यदि। अर्चिः। यदि। वा। असि। शोचिः। शकल्यऽएषि। यदि। वा। ते। जनित्रम्। ह्रुडुः। नाम। असि। हरितस्य। देव। सः। नः। सम्ऽविद्वान्। परि। वृङग्धि। तक्मन्।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,10 +27,9 @@ much too irregular to be passed simply as a *triṣṭubh*.
 Lord of the world, Creator and Disposer, may the God Savitar who quells assailants, May the Adityas, Rudras, both the Asvins, Gods, guard the sacrificer from destruction.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-धाता। विऽधाता। भुवनस्य। य:। पति:। देव:। सविता। अभिमातिऽसह:। आदित्या:। रुद्रा:। अश्विना। उभा। देवा:। पान्तु। यजमानम्। नि:ऽऋथात्। ३.९।
+धाता। विऽधाता। भुवनस्य। यः। पतिः। देवः। सविता। अभिमातिऽसहः। आदित्याः। रुद्राः। अश्विना। उभा। देवाः। पान्तु। यजमानम्। निःऽऋथात्। ३.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

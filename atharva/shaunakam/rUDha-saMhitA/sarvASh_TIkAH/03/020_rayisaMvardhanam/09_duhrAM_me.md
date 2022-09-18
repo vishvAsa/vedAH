@@ -22,10 +22,9 @@ waters and herbs.
 May heaven's five spacious regions pour their milk for me with all their might. May I obtain each wish and hope formed by my spirit and my heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-दुह्राम्। मे। पञ्च। प्रऽदिश:। दुह्राम्। उर्वी:। यथाऽबलम्। प्र। आपेयम्। सर्वा:। आऽकूती:। मनसा। हृदयेन। च। २०.९।
+दुह्राम्। मे। पञ्च। प्रऽदिशः। दुह्राम्। उर्वीः। यथाऽबलम्। प्र। आपेयम्। सर्वाः। आऽकूतीः। मनसा। हृदयेन। च। २०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -38,7 +38,6 @@ the laying on of fetters; and Bloomfield suggests that the whole hymn
 He who engendered these, the earth and heaven, who made the worlds the mantle that he weareth, In whom abide the six wide-spreading regions through which the Bird's keen vision penetrateth, This God is wroth offended by the sinner who wrongs the Brahman who hath gained this knowledge Agitate him, O Rohita; destroy him: entangle in thy snares the Braman's tyrant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। इमे इति। द्यावापृथिवी। इति। जजान। यः। द्रापिम्। कृत्वा। भुवनानि। वस्ते। यस्मिन्। क्षियन्ति। प्रऽदिशः। षट्। उर्वीः। याः। पतङ्। अनु। विऽचाकशीति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.१।

@@ -36,10 +36,9 @@ three, of the pādas are *triṣṭubh*.
 Come hither, quickly come, thou milker of the kine; into the caldron pour milk of the radiant cow. Most precious Savitar hath looked upon the heaven. After Dawn's going-forth he sends his light abroad.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उप। द्रव। पयसा। गोऽधुक्। ओषम्। आ। घर्मे। सिञ्च। पय:। उस्रियाया:। वि। नाकम्। अख्यत्। सविता। वरेण्य:। अनुऽप्रयानम्। उषस:। वि। राजति। ७७.६।
+उप। द्रव। पयसा। गोऽधुक्। ओषम्। आ। घर्मे। सिञ्च। पयः। उस्रियायाः। वि। नाकम्। अख्यत्। सविता। वरेण्यः। अनुऽप्रयानम्। उषसः। वि। राजति। ७७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -27,7 +27,6 @@ treats *yajñiyāsas* in **b** as nominative.
 Rest in the roaring frame of wood: be parted from husk and chaff, ye Sacrificial Fibres. May we surpass in glory all our rivals. I cast beneath my feet the men who hate us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उपऽश्वसे। द्रुवये। सीदत। यूयम्। वि। विच्यध्वम्। यज्ञियास0952गः। तुषैः। श्रिया। समानान्। अति। सर्वान्। स्याम। अधःऽपदम्। द्विषतः। पादयामि। १.१२।

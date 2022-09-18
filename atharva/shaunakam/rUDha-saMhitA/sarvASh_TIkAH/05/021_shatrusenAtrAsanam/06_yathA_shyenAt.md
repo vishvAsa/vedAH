@@ -24,10 +24,9 @@ usually adds in such a case.
 As birds of air, day after day, fly in wild terror from the hawk, as from a roaring lion's voice, Even so do thou, O Drum, roar out against our foes to frighten them, and then bewilder thou their thoughts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। श्येनात्। पतत्रिण:। सम्ऽविजन्ते। अह:ऽदिवि। सिंहस्य। स्तनथो:। यथा। एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथो इति। चित्तानि। मोहय। २१.६।
+यथा। श्येनात्। पतत्रिणः। सम्ऽविजन्ते। अहःऽदिवि। सिंहस्य। स्तनथोः। यथा। एव। त्वम्। दुन्दुभे। अमित्रान्। अभि। क्रन्द। प्र। त्रासय। अथो इति। चित्तानि। मोहय। २१.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ those that here precede; also in PGS. iii. 3. 5: all read
 Five milkings answer to the fivefold dawning, five seasons to the cow who bears five titles. The five sky-regions made fifteen in number, one head have these to one sole world directed.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-पञ्च। विऽउष्टी:। अनु। पञ्च। दोहा:। गाम्। पञ्चऽनाम्नीम्। ऋतव:। अनु। पञ्च। पञ्च। दिश:। पञ्चऽदशेन। क्लृप्ता:। ता:। एकऽमूर्ध्नी:। अभि। लोकम्। एकम्। ९.१५।
+पञ्च। विऽउष्टीः। अनु। पञ्च। दोहाः। गाम्। पञ्चऽनाम्नीम्। ऋतवः। अनु। पञ्च। पञ्च। दिशः। पञ्चऽदशेन। क्लृप्ताः। ताः। एकऽमूर्ध्नीः। अभि। लोकम्। एकम्। ९.१५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

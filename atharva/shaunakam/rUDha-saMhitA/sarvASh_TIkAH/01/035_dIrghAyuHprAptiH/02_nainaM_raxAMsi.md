@@ -24,10 +24,9 @@ the metrical irregularities of **a** and **b**.
 This man no fiends may conquer, no Pisachas, for this is might of Gods, their primal offspring. Whoever wears the Gold of Daksha's children hath a long lengthened life among the living.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-न। एनम्। रक्षांसि। न। पिशाचा:। सहनो। देवानाम्। ओज:। प्रथमऽजम्। हि। एतत्। य:। बिभर्ति। दाक्षायणम्। हिरण्यम्। स:। जीवेषु। कृणुते। दीर्घम्। आयु:।
+न। एनम्। रक्षांसि। न। पिशाचाः। सहनो। देवानाम्। ओजः। प्रथमऽजम्। हि। एतत्। यः। बिभर्ति। दाक्षायणम्। हिरण्यम्। सः। जीवेषु। कृणुते। दीर्घम्। आयुः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

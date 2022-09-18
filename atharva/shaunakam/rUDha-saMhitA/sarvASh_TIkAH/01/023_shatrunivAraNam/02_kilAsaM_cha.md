@@ -22,10 +22,9 @@ SPP's mss.
 Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour come to thee; drive far away the specks of white.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-‍किलासम्। च। पलितम्। च। नि:। इत:। नाशय। पृषत्। आ। त्वा। स्व:। विशताम्। वर्ण:। परा। शुक्लानि। पातय।
+‍किलासम्। च। पलितम्। च। निः। इतः। नाशय। पृषत्। आ। त्वा। स्वः। विशताम्। वर्णः। परा। शुक्लानि। पातय।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -23,10 +23,9 @@ Prāt. iv. 4, and the passage is quoted in the commentary to that rule.
 While yet the Brahman's cow which men are dressing quivers in her throe: She mars the kingdom's splendour: there no vigorous hero springs to life.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-ब्रह्मऽगवी। पच्यमाना। यावत्। सा। अभि। विऽजङ्गहे। तेज:। राष्ट्रस्य। नि:। हन्ति। न। वीर:। जायते। वृषा। १९.४।
+ब्रह्मऽगवी। पच्यमाना। यावत्। सा। अभि। विऽजङ्गहे। तेजः। राष्ट्रस्य। निः। हन्ति। न। वीरः। जायते। वृषा। १९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

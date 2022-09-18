@@ -24,7 +24,6 @@ is by Prāt. ii. 104.
 Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull art thou with vigorous strength: for progeny we bring thee near.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अधि। स्कन्द। वीरयस्व। गर्भम्। आ। धेहि। योन्याम्। वृषा। असि। वृष्ण्यऽवन्। प्रऽजायै। त्वा। आ। नयामसि। २५.८।

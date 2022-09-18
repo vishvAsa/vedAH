@@ -30,7 +30,6 @@ of vs. 24, in case the latter is not known.
 Thou, born afresh, art new and new for ever; ensign of days, before the Dawns thou goest. Coming, thou orderest for Gods their portion. Thou lengthenest, Moon, the days of our existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 नवऽनवः। भवसि। जायमानः। अह्नाम्। केतुः। । उषसाम्। एषि। अग्रम्। भागम्। देवेभ्यः। वि। दधासि। आऽयन्। प्र। चन्द्रमः। तिरसे। दीर्घम्। आयुः। १.२४।

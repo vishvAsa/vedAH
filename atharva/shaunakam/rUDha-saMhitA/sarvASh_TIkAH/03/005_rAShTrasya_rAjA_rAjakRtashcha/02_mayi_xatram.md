@@ -25,10 +25,9 @@ give 'beständig' for *nija.*⌋
 O Parna-Amulet, in me set firmly might and opulence. Within the compass of my rule may I be rooted and supreme.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मयि। क्षत्रम्। पर्णऽमणे। मयि। धारयतात्। रयिम्। अहम्। राष्ट्रस्य। अभिऽवर्गे। निऽज:। भूयासम्। उत्ऽतम:। ५.२।
+मयि। क्षत्रम्। पर्णऽमणे। मयि। धारयतात्। रयिम्। अहम्। राष्ट्रस्य। अभिऽवर्गे। निऽजः। भूयासम्। उत्ऽतमः। ५.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

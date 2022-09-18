@@ -23,7 +23,6 @@ rohatu*.
 Let marrow close with marrow, let skin grow united with the skin. Let blood and bone grow strong in thee, flesh grow together with the flesh.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 मज्जा। मज्ज्ञा। सम्। धीयताम्। चर्मणा। चर्म। रोहतु। असृक्। ते। अस्थि। रोहतु। मांसम्। मांसेन। रोहतु। १२.४।

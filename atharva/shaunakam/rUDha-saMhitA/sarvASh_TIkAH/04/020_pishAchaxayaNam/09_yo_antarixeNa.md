@@ -28,10 +28,9 @@ Here ends also the seventh *prapāṭhaka*.
 Make that Pisacha visible, the fiend who flies in middle air, The fiend who glides across the sky, and him who deems the earth his help.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अन्तरिक्षेण। पतति। दिवम्। य:। च। अतिऽसर्पति। भूमिम्। य:। मन्यते। नाथम्। तम्। पिशाचम्। प्र। दर्शय। २०.९।
+यः। अन्तरिक्षेण। पतति। दिवम्। यः। च। अतिऽसर्पति। भूमिम्। यः। मन्यते। नाथम्। तम्। पिशाचम्। प्र। दर्शय। २०.९।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

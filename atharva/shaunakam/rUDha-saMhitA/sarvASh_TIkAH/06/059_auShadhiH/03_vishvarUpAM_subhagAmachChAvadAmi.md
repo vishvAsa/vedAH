@@ -19,10 +19,9 @@ as *jīvanaṁ lāti dadāti*.
 I welcome the auspicious Plant, life-giving, wearing every hue. Far from our cattle may it turn the deadly dart which Rudra casts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-विश्वऽरूपाम्। सुऽभगाम्। अच्छऽआवदामि। जीवलाम्। सा। न:। रुद्रस्य। अस्ताम्। हेतिम्। दूरम्। नयतु। गोभ्य:। ५९.३।
+विश्वऽरूपाम्। सुऽभगाम्। अच्छऽआवदामि। जीवलाम्। सा। नः। रुद्रस्य। अस्ताम्। हेतिम्। दूरम्। नयतु। गोभ्यः। ५९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

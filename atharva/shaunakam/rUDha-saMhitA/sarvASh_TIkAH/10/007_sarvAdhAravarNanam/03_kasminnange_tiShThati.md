@@ -22,7 +22,6 @@ as vs. 2, which was so described. Ppp. puts the verse before our 2.
 Which of his members is the earth's upholder? Which gives the middle air a base to rest on? Where, in which member is the sky established? Where hath the space above the sky its dwelling?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 कस्मिन्। अङ्गे। तिष्ठति। भूमिः। अस्य। कस्मिन्। अङ्गे। तिष्ठति। अन्तरिक्षम्। कस्मिन्। अङ्गे। तिष्ठति। आऽहिता। द्यौः। कस्मिन्। अङ्गे। तिष्ठति। उत्ऽतरम्। दिवः। ७.३।

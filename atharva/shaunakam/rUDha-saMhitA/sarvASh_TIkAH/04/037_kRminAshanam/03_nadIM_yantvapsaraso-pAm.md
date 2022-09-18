@@ -46,10 +46,9 @@ and implying *ava* = 'away'; but rejects them.⌋
 Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, Naladi, Aukshagandhi, Pramandini. Ye have become attentive since the Apsarases have past away.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नदीम्। यन्तु। अप्सरस:। अपाम्। तारम्। अवऽश्वसम्। गुल्गुलू:। पीला। नलदी। औक्षऽगन्धि:। प्रऽमन्दनी। तत्। परा। इत। अप्सरस:। प्रतिऽबुध्दा:। अभूतन। ३७.३।
+नदीम्। यन्तु। अप्सरसः। अपाम्। तारम्। अवऽश्वसम्। गुल्गुलूः। पीला। नलदी। औक्षऽगन्धिः। प्रऽमन्दनी। तत्। परा। इत। अप्सरसः। प्रतिऽबुध्दाः। अभूतन। ३७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

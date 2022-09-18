@@ -27,10 +27,9 @@ known, unless here.
 Speed to us hither from the farthest distance. Propitious unto thee be Earth and Heaven. Even so hath Varuna this King asserted, he who himself hath called thee: come thou hither.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-आ। प्र। द्रव। परमस्या:। पराऽवत:। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। तत्। अयम्। राजा। वरुण:। तथा। आह। स:। त्वा। अयम्। अह्वत्। स:। उप। इदम्। आ। इहि। ४.५।
+आ। प्र। द्रव। परमस्याः। पराऽवतः। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। तत्। अयम्। राजा। वरुणः। तथा। आह। सः। त्वा। अयम्। अह्वत्। सः। उप। इदम्। आ। इहि। ४.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

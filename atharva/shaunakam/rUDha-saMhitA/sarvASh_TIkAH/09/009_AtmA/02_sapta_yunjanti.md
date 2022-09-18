@@ -21,7 +21,6 @@ in TA. iii. 11. 8, with *anarvāṁ yene ’mā v. bhuvanāni t.* in **c, d**
 The seven make the one-wheeled chariot ready: bearing seven names the single Courser draws it. The wheel, three-naved, is sound and undecaying: thereon these worlds of life are all dependent.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सप्त। युञ्जन्ति। रथम्। एकऽचक्रम्। एकः। अश्वः। वहति। सप्तऽनामा। त्रिऽनाभि। चक्रम्। अजरम्। अनर्वम्। यत्र। इमा। विश्वा। भुवना। अधि। तस्थुः। १४.२।

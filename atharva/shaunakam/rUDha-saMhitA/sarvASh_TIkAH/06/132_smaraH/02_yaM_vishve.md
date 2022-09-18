@@ -16,10 +16,9 @@ title = "०२ यं विश्वे"
 The charm which, burning with the pangs of love, the General Gods have poured within the bosom of the floods, That spell for thee I heat by Varuna's decree.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। विश्वे। देवा:। स्मरम्। असिञ्चन्। अप्ऽसु। अन्त:। शोशुचानम्। सह। आध्या। तम्। ते। तपा‍मि। वरुणस्य। धर्मणा। १३२.२।
+यम्। विश्वे। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपा‍मि। वरुणस्य। धर्मणा। १३२.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

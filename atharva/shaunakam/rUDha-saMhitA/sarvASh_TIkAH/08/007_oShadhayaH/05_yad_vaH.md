@@ -19,10 +19,9 @@ The last pāda is wanting in Ppp.
 The conquering strength, the power and might which ye, victo- rious Plants, possess, Therewith deliver this man here from this Consumption, O ye Plants: so I prepare the remedy.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यत्। व:। सह:। सहमाना:। वीर्यम्। यत्। च। व:। बलम्। तेन। इमम्। अस्मात्। यक्ष्मात्। पुरुषम्। मुञ्चत। ओषधी:। अथो इति। कृणोमि। भेषजम्। ७.५।
+यत्। वः। सहः। सहमानाः। वीर्यम्। यत्। च। वः। बलम्। तेन। इमम्। अस्मात्। यक्ष्मात्। पुरुषम्। मुञ्चत। ओषधीः। अथो इति। कृणोमि। भेषजम्। ७.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

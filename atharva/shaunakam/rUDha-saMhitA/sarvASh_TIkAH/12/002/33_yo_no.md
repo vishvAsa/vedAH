@@ -30,7 +30,6 @@ touched.
 That Agni, Fathers! who, himself immortal, hath entered and possessed our mortal bosoms, Even him I grasp and hold the God with me, Let him not hate us, may we never hate him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यः। नः। अग्निः। पितरः। हृत्ऽसु। अन्तः। आऽविवेश। अमृतः। मर्त्येषु। मय‍ि। अहम्। तम्। परि। गृह्णामि। देवम्। मा। सः। अस्मान्। द्विक्षत। मा। वयम्। तम्। २.३३।

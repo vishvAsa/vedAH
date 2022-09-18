@@ -23,10 +23,9 @@ discusses *jal-* etc. at length, AJP. xii. 425 ff.⌋
 O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine adversary's speech. Render them dull and flat, O Plant.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-रुद्र। जलाषऽभेषज। नीलऽशिखण्ड। कर्मऽकृत्। प्राशम्। प्रतिऽप्राश:। जहि। अरसान्। कृणु। ओषधे। २७.६।
+रुद्र। जलाषऽभेषज। नीलऽशिखण्ड। कर्मऽकृत्। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

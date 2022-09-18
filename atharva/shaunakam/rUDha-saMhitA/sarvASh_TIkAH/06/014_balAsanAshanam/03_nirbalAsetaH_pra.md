@@ -24,10 +24,9 @@ contraction *iṭe ’va* in **c**.
 Begone, Consumption, hence away, like a young foal that runs. at speed. Then, not pernicious to our men, flee, yearly visitant like grass!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:। बलास। इत:। प्र। पत। आशुंग:। शिशुक:। यथा। अथो इति। इट:ऽइव। हायन:। अप। द्राहि। अवीरऽहा। १४.३।
+निः। बलास। इतः। प्र। पत। आशुंगः। शिशुकः। यथा। अथो इति। इटःऽइव। हायनः। अप। द्राहि। अवीरऽहा। १४.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

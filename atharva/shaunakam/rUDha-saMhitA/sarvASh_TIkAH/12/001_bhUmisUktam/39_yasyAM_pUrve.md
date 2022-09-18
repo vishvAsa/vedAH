@@ -22,7 +22,6 @@ iii. 14. 2, in driving out the kine from the place of sacrifice.
 On whom the ancient Rishis, they who made the world, sang forth the cows, Seven worshippers, by session, with their fervent zeal and sacrifice;
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यस्याम्। पूर्वे। भूतऽकृतः। ऋषयः। गाः। उत्। आनृचुः। सप्त। सत्त्रेण। वेधसः। यज्ञेन। तपसा। सह। १.३९।

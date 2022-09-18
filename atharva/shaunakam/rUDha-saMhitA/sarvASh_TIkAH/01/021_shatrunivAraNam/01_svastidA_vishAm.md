@@ -24,10 +24,9 @@ verse occurs further in TB. (iii. 7. 11⁴) and TA. (x. 1. 9); both have
 Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra, Soma-drinker, go before us, Bull, who brings us peace.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स्वस्तिऽदा:। विशाम्। पति:। वृत्रऽहा। विऽमृध:। वशी। वृषा। इन्द्र:। पुर:। एतु। न:। सोमऽपा:। अभयम्ऽकर:।
+स्वस्तिऽदाः। विशाम्। पतिः। वृत्रऽहा। विऽमृधः। वशी। वृषा। इन्द्रः। पुरः। एतु। नः। सोमऽपाः। अभयम्ऽकरः।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

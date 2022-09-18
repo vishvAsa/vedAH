@@ -34,7 +34,6 @@ dung.'⌋ Ppp. reads, in **c, d**, *svāṁ vidyuṁ duritagrāhy uccase*.
 Fierce fever where her droppings fall attacks the master of the kine. So have they named her Vasa, for thou art called uncontrollable.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 विऽलोहितः। अधिऽस्थानात्। शक्नः। विन्दति। गोऽपतिम्। तथा। वशायाः। सम्ऽविद्यम्। दुरदभ्ना। हि। उच्यसे। ४.४।

@@ -25,7 +25,6 @@ The following four verses are found in no other text.
 Pungent is this, bitter is this, filled as it were with arrow barbs, empoisoned and not fit for use. The Brahman who knows Surya well deserves the garment of the bride.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तृष्टम्। एतत्। कटुकम्। अपाष्ठऽवत्। विषऽवत्। न। एतत्। अत्तवे। सूर्याम्‌। यः। ब्रह्मा। वेद। सः। इत्। वाधूऽयम्। अर्हति। १.२९।

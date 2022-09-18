@@ -16,7 +16,6 @@ title = "०४ सोऽर्यमा स"
 Rudra, and Mahadeva, he is Aryaman and Varuna.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। अर्यमा। सः। वरुणः। सः। रुद्रः। सः। महाऽदेवः। ४.४।

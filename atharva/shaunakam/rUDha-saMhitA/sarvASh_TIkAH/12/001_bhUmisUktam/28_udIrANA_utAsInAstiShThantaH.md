@@ -20,7 +20,6 @@ steps, while looking around, in the *āgrahāyaṇī* ceremony.
 Sitting at ease or rising up, standing or going on our way. With our right foot and with our left we will not reel upon the earth.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽईराणाः। उत। आसीनाः। तिष्ठन्तः। प्रऽक्रामन्तः। पत्ऽभ्याम्। दक्षिणऽसव्याभ्याम्। मा। व्यथिष्महि। भूम्याम्। १.२८।

@@ -7,7 +7,6 @@ title = "००८ शत्रुनाशनम्"
 8 (9). For some one's success.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शत्रुनाशनम्।  
@@ -18,8 +17,6 @@ title = "००८ शत्रुनाशनम्"
 
 [Uparibabhrava.—bārhaspatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 431; Henry, 4, 52; Griffith, i. 331.
 
 Godspeed to a departing traveller
 </details>
+

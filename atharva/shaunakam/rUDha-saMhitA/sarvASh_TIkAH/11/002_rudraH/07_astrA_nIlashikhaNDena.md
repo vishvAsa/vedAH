@@ -25,7 +25,6 @@ now be taken into account; and that has in fact *adhvaga-*: see
 Never may we contend with him, the mighty archer, thousand- eyed. Rudra who wears black tufts of hair, the slaughterer of Ardhaka.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अस्त्रा। नीलऽशिखण्डेन। सहस्रऽअक्षेण। वाजिना। रुद्रेण। अर्धकऽघातिना। तेन। मा। सम्। अरामह‍ि। २.७।

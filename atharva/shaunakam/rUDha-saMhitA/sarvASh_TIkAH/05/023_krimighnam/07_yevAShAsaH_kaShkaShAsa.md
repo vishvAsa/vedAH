@@ -24,10 +24,9 @@ like *ni-panna-ka*, Jātaka, ii. p. 7²⁰. Ppp. has, for **a, b**,
 Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them all to dust like vetches with the pounding- stone.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येवाषास:। कष्कषास:। एजत्ऽका:। शिपवित्नुका:। दृष्ट:। च। हन्यताम्। क्रिमि:। उत। अदृष्ट:। च। हन्यताम्। २३.७।
+येवाषासः। कष्कषासः। एजत्ऽकाः। शिपवित्नुकाः। दृष्टः। च। हन्यताम्। क्रिमिः। उत। अदृष्टः। च। हन्यताम्। २३.७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -31,10 +31,9 @@ alone; and both follow it with *yuñjānā́ḥ svàr* (TS., of course, *súvar*
 She who was fourth was made by Agni, Soma, and Rishis as. they formed both halves of worship, Gayatri, Trishtup, Jagati, Anushtup, Brihadarki lightening the sacrificer.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अग्नीषोमौ। अदधु:। या। तुरीया। आसीत्। यज्ञस्य। पक्षौ। ऋषय:। कल्पयन्त:। गायत्रीम्। त्रिऽस्तुभम्। जगतीम्। अनुऽस्तुभम्। बृहत्ऽअर्कीम्। यजमानाय। स्व:। आऽभरन्तीम्। ९.१४।
+अग्नीषोमौ। अदधुः। या। तुरीया। आसीत्। यज्ञस्य। पक्षौ। ऋषयः। कल्पयन्तः। गायत्रीम्। त्रिऽस्तुभम्। जगतीम्। अनुऽस्तुभम्। बृहत्ऽअर्कीम्। यजमानाय। स्वः। आऽभरन्तीम्। ९.१४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

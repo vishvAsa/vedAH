@@ -24,10 +24,9 @@ vowel; part of ours do the same here, as elsewhere. The comm. glosses
 Spread out, ye Maruts, search among the people: seize ye and grind the Rakshasas to pieces, Who fly abroad, transformed to birds, at night-time, and sully and pollute our holy worship.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-वि। तिष्ठध्वम्। मरुत:। विक्षु। इच्छत। गृभायत। रक्षस:। सम्। पिनष्टन। वय:। ये। भूत्वा। पतयन्ति। नक्तऽभि:। ये। वा। रिप:। दधिरे। देवे। अध्वरे। ४.१८।
+वि। तिष्ठध्वम्। मरुतः। विक्षु। इच्छत। गृभायत। रक्षसः। सम्। पिनष्टन। वयः। ये। भूत्वा। पतयन्ति। नक्तऽभिः। ये। वा। रिपः। दधिरे। देवे। अध्वरे। ४.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

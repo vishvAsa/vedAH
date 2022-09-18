@@ -23,10 +23,9 @@ a pāda division after *śā́lām*.
 Within the house constructed with two side-posts, or with four, or six. Built with eight side-posts, or with ten, lies Agni like a babe unborn.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-या। द्विऽपक्षा। चतु:ऽपक्षा। षट्ऽपक्षा। या। निऽमीयते। अष्टाऽपक्षाम्। दशऽपक्षाम्। शालाम्। मानस्य। पत्नीम्। अग्नि:। गर्भ:ऽइव। आ। शये। ३.२१।
+या। द्विऽपक्षा। चतुःऽपक्षा। षट्ऽपक्षा। या। निऽमीयते। अष्टाऽपक्षाम्। दशऽपक्षाम्। शालाम्। मानस्य। पत्नीम्। अग्निः। गर्भःऽइव। आ। शये। ३.२१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

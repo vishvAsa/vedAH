@@ -27,10 +27,9 @@ last pāda is *triṣṭubh*.
 To thee, strength-giver, glorious, rich in pleasant strains, whom. in their minds the thirteen creatures of the world, And the five sons of man regard as Hotar-priest--to all these- Fires be this oblation offered.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यम्। त्चा। होतारम्। मनसा। अभि। सम्ऽविदु:। त्रय:ऽदश। भौवना:। पञ्च। मानवा:। वर्च:ऽधसे। यशसे। सूनृताऽवते। तेभ्य:। अग्निऽभ्य:। हुतम्। अस्तु। एतत्। २१.५।
+यम्। त्चा। होतारम्। मनसा। अभि। सम्ऽविदुः। त्रयःऽदश। भौवनाः। पञ्च। मानवाः। वर्चःऽधसे। यशसे। सूनृताऽवते। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

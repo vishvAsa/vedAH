@@ -24,10 +24,9 @@ is to be shortened to *’va*.
 She takes away his strength, she mars his splendour, she ruins everything like fire enkindled. That man drinks poison of the deadly serpent who counts the Brahman as mere food to feed him.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-नि:। वै। क्षत्रम्। नयति। हन्ति। वर्च:। अग्नि:ऽइव। आऽरब्ध:। वि। दुनोति। सर्वम्। य:। ब्राह्मणम्। मन्यते। अन्नम्। एव। स:। विषस्य। पिबति। तैमातस्य। १८.४।
+निः। वै। क्षत्रम्। नयति। हन्ति। वर्चः। अग्निःऽइव। आऽरब्धः। वि। दुनोति। सर्वम्। यः। ब्राह्मणम्। मन्यते। अन्नम्। एव। सः। विषस्य। पिबति। तैमातस्य। १८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

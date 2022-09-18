@@ -25,7 +25,6 @@ locative of the 2d pers. pronoun (as in v. 2. 3).
 Breathless, she moves by breath of living creatures, Svaraj pre- cedes, Viraj comes closely after. Some men behold her not, and some behold her, Viraj meet- shaped, who thinks of all existence.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अप्राणा। एति। प्राणेन। प्राणतीनाम्। विऽराट्। स्वऽराजम्। अभि। एति। पश्चात्। विश्वम्। मृशन्तीम्। अभिऽरूपाम्। विऽराजम्। पश्यन्ति। त्वे इति। न। त्वे। इति। पश्यन्ति। एनाम्। ९.९।

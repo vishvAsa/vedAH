@@ -7,7 +7,6 @@ title = "०८० अरिष्टक्षयणम्"
 80. The heavenly dog and the kālakāñjás.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अरिष्टक्षयणम्।  
@@ -19,8 +18,6 @@ title = "०८० अरिष्टक्षयणम्"
 [Atharvan.—cāndramasam. ānuṣṭubham: 1. bhurij; 3. prastārapan̄kti.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The first half-verse is RV. x. 136. 4 a, b, which differs only by reading rūpā
 
 A prayer for help and protection
 </details>
+

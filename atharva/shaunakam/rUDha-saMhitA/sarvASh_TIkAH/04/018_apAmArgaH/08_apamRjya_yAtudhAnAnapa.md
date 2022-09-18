@@ -20,10 +20,9 @@ allows it its own proper sense.
 Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamarga, with thine aid we wipe away from us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपऽमृज्य। यातुऽधानान्। अप। सर्वा:। अराय्य:। अपामार्ग:। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १८.८।
+अपऽमृज्य। यातुऽधानान्। अप। सर्वाः। अराय्यः। अपामार्गः। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १८.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

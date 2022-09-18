@@ -22,7 +22,6 @@ recognized as such, she must be delivered over to the Brahmans. The
 Thus after three years may she go, speaking what is not under- stood. He, Narads! would know the Cow, then Brahmans must be sought unto.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 चरेत्। एव। आ। त्रैहायनात्। अविज्ञातऽगदा। सती। वशाम्। च। विद्यात्। नारद। ब्राह्मणाः। तर्हि। एष्याः। ४.१६।

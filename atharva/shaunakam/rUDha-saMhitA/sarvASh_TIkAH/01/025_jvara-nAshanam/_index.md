@@ -7,7 +7,6 @@ title = "०२५ ज्वर-नाशनम्"
 25. Against fever
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ज्वर-नाशनम्।  
@@ -18,8 +17,6 @@ title = "०२५ ज्वर-नाशनम्"
 
 [Bhṛgvan̄giras.—yakṣmanāśanānidāivatam. trāiṣṭubham: 2, 3. virāḍgarbhā; 4. puro 'nuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, iv. 419; Grohmann, Ind. Stud. ix. 384-6, 403, 406; Ludwig, p.
 
 A prayer to fever, as a charm against his attacks
 </details>
+

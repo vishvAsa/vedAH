@@ -25,10 +25,9 @@ love, which are to be expelled from some woman's heart.
 To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hued. The Parcher and the Drier-up, the pair who parch and dry his heart.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। अस्य। श्यावौ। विथुरौ। गृध्रौ। द्यामऽइव। पेततु:। उच्छोचनऽप्रशोचनौ। अस्य। उत्ऽशोचनौ। हृद:। १००.१।
+उत्। अस्य। श्यावौ। विथुरौ। गृध्रौ। द्यामऽइव। पेततुः। उच्छोचनऽप्रशोचनौ। अस्य। उत्ऽशोचनौ। हृदः। १००.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

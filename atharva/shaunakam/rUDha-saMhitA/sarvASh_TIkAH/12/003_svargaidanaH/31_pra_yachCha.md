@@ -30,7 +30,6 @@ in the quotation of **b**.⌋
 Present the sickle: quickly bring it hither. Let them out plants and joints with hands that harm not. So may the plants be free from wrath against us, they o'er whose realm Soma hath won dominion.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 प्र। यच्छ। पर्शुम्। त्वरय। आ। हर। ओषम्। अहिंसन्तः। ओषधीः। दान्तु। पर्वन्। यासाम्। सोमः। परि। राज्यम्। बभूव। अमन्युताः। नः। वीरुधः। भवन्तु। ३.३१।

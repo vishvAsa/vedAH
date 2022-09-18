@@ -22,10 +22,9 @@ explains the word as = *tirohitān* or *gūḍhān*.
 May this rich Indra as our good protector keep even far away the men who hate us. May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-स:। सुऽत्रामा। स्वऽवान्। इन्द्र:। अस्मत्। आरात्। चित्। द्वेष:। सनुत:। युयोतु। तस्य। वयम्। सुऽमतौ। यज्ञियस्य। अपि। भद्रे। सौमनसे। स्याम। ९७.१।
+सः। सुऽत्रामा। स्वऽवान्। इन्द्रः। अस्मत्। आरात्। चित्। द्वेषः। सनुतः। युयोतु। तस्य। वयम्। सुऽमतौ। यज्ञियस्य। अपि। भद्रे। सौमनसे। स्याम। ९७.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

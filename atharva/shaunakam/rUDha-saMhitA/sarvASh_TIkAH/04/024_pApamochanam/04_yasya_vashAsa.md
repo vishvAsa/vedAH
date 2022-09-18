@@ -22,10 +22,9 @@ in **a** as "barren cow" (*vandhyā gāuḥ*), and *svaru* as
 The lord of barren cows and bulls and oxen, finder of light for whom the posts are planted, For whom the bright juice flows cleansed by devotion. May he deliver us from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यस्य। वशास:। ऋषभास:। उक्षण:। यस्मै। मीयन्ते। स्वरव:। स्व:ऽविदे। यस्मै। शुक्र:। पवते। ब्रह्मऽशुम्भित:। स:। न:। मुञ्चतु। अंहस:। २४.४।
+यस्य। वशासः। ऋषभासः। उक्षणः। यस्मै। मीयन्ते। स्वरवः। स्वःऽविदे। यस्मै। शुक्रः। पवते। ब्रह्मऽशुम्भितः। सः। नः। मुञ्चतु। अंहसः। २४.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

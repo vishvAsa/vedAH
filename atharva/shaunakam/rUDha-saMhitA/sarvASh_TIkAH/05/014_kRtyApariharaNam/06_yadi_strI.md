@@ -19,7 +19,6 @@ of *áśvam ’va ’śvābhidhā́niā*, as it should be.
 Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead the sorcery back, even as a courser with a rope.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यदि। स्त्री। यदि। वा। पुमान्। कृत्याम्। चकार। पाप्मने। ताम्। ऊं इति। तस्मै। नयामसि। अश्वम्ऽइव। अश्वऽअभिधान्या। १४.६।

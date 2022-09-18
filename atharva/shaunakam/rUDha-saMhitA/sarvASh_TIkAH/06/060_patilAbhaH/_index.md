@@ -7,7 +7,6 @@ title = "०६० पतिलाभः"
 60. For winning a spouse.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पतिलाभः।  
@@ -18,8 +17,6 @@ title = "०६० पतिलाभः"
 
 [Atharvan (?).—āryamaṇam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, Ind. Stud. v. 236; Zimmer, p. 306; Grill, 56, 164; Griffith, 
 
 The wooing of a bride
 </details>
+

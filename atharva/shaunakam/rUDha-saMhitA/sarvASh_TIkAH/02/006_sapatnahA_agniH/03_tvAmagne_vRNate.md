@@ -27,10 +27,9 @@ verse.
 These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamber. Slayer of rivals, Agni, quell our foemen: watch in our house with care that never ceases.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-त्वाम्। अग्ने। वृणते। ब्राह्मणा:। इमे। शिव:। अग्ने। सम्ऽवरणे। भव। न:। सपत्नऽहा। अग्ने। अभिमातिऽजित्। भव। स्वे। गये। जागृहि। अप्रऽयुच्छन्। ६.३।
+त्वाम्। अग्ने। वृणते। ब्राह्मणाः। इमे। शिवः। अग्ने। सम्ऽवरणे। भव। नः। सपत्नऽहा। अग्ने। अभिमातिऽजित्। भव। स्वे। गये। जागृहि। अप्रऽयुच्छन्। ६.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

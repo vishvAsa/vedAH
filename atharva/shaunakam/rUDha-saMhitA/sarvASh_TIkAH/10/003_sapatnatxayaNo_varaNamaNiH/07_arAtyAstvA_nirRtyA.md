@@ -18,7 +18,6 @@ Ppp. reads, for **d**, *tvaṁ varuṇo vāraya*.
 From Mischief, from Malignity, from incantation, from alarm, From death, from stronger foeman's stroke the Varana will guard thee well.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अरात्याः। त्वा। निःऽऋत्याः। अभिऽचारात्। अथो इति। भयात्। मृत्योः। ओजीयसः। वधात्। वरणः। वारयिष्यते। ३.७।

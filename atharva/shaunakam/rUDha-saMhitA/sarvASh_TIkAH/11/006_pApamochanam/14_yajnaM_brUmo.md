@@ -21,7 +21,6 @@ no hymns in our collection receive any such title in the Kāuśika.
 To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To priestly acts and Yajus texts: may they deliver us from woe.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यज्ञम्। ब्रूमः। यजमानम्। ऋचः। सामानि। भेषजा। यजूंषि। होत्राः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.१४।

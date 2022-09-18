@@ -24,10 +24,9 @@ have instead *ariṣata* ⌊or *arīṣata;* K. *riṣatu*⌋.
 These men have strengthened Agni's might, these men have brought the kine to us. They have sung glory to the Gods. Who is the man that con- quers them?
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-परि। इमे। अग्निम्। अर्षत। परि। इमे। गाम्। अनेषत। देवेषु। अक्रत। श्रव:। क:। इमान्। आ। दधर्षति। २८.२।
+परि। इमे। अग्निम्। अर्षत। परि। इमे। गाम्। अनेषत। देवेषु। अक्रत। श्रवः। कः। इमान्। आ। दधर्षति। २८.२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

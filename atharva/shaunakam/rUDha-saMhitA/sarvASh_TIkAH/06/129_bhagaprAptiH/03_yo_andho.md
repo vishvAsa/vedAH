@@ -26,10 +26,9 @@ rāme ‘stu śāṅśapo*.
 Blind fortune, with reverted leaves that is deposited in trees-- Give me therewith a happy fate. Fly and begone, Malignities.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। अन्ध:। य:। पुन:ऽसर:। भग:। वृक्षेषु। आऽहित:। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातय:। १२९.३।
+यः। अन्धः। यः। पुनःऽसरः। भगः। वृक्षेषु। आऽहितः। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

@@ -24,10 +24,9 @@ resolution *-bhi-as* being refused in **b** and **c**.
 Further us rightly, favour ye our bodies with your gracious love. Give thou our children happiness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सुसूदत। मृडत। मृडय। न:। तनूभ्य:। मय:। तोकेभ्य:। कृधि।
+सुसूदत। मृडत। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

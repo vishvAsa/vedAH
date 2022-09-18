@@ -29,10 +29,9 @@ which reads simply *dvitīyā* before *antyā 'nuṣṭubh.*
 Bending to thee who clingest to each limb with heat, fain would we worship thee with offered sacrifice, Worship with sacrifice the bends and curves of thee who with a vigorous grasp hast seized on this one's limbs.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अङ्गेऽअङ्गे। शोचिषा। शिश्रियाणम्। नमस्यन्त:। त्वा। हविषा। विधेम। अङ्कान्। सम्ऽअङ्कान्। हविषा। विधेम। य:। अग्रभीत्। पर्व। अस्य। ग्रभीता।
+अङ्गेऽअङ्गे। शोचिषा। शिश्रियाणम्। नमस्यन्तः। त्वा। हविषा। विधेम। अङ्कान्। सम्ऽअङ्कान्। हविषा। विधेम। यः। अग्रभीत्। पर्व। अस्य। ग्रभीता।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

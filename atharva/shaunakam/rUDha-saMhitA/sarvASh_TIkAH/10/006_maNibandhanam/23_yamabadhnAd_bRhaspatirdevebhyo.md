@@ -17,7 +17,6 @@ together with food, with progeny.
 The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goats, and sheep, hath come with food and progeny.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। गोभिः। अजाविऽभिः। अन्नेन। प्रऽजया। सह। ६.२३।

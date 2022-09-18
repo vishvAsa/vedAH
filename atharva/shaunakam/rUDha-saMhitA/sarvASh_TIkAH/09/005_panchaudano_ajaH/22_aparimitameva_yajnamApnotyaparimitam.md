@@ -19,10 +19,9 @@ Wanting in Ppp., as noted above.
 A boundless sacrifice he performs, he wins himself a boundless world: Who gives the Goat Panchaudana illumined with a priestly fee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अपरिऽमितम्। एव। यज्ञम्। आप्नोति। अपरिऽमितम्। लोकम्। अव। रुन्ध्दे। य:। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२२।
+अपरिऽमितम्। एव। यज्ञम्। आप्नोति। अपरिऽमितम्। लोकम्। अव। रुन्ध्दे। यः। अजम्। पञ्चऽओदनम्। दक्षिणाऽज्योतिषम्। ददाति। ५.२२।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

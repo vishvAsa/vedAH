@@ -20,10 +20,9 @@ meter is like that of vs. 17.
 As Gods repelled the Asuras, and Indra down to the lowest darkness drove the demons, So, Kama, from this world, to distant places, drive thou the men who are mine adversaries.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यथा। देवा:। असुरान्। प्रऽअनुदन्त। यथा। इन्द्र:। दस्यून्। अधमम्। तम:। बबाधे। तथा। त्वम्। काम। मम। ये। सऽपत्ना:। तान्। अस्मात्। लोकात्। प्र। नुदस्व। दूरम्। २.१८।
+यथा। देवाः। असुरान्। प्रऽअनुदन्त। यथा। इन्द्रः। दस्यून्। अधमम्। तमः। बबाधे। तथा। त्वम्। काम। मम। ये। सऽपत्नाः। तान्। अस्मात्। लोकात्। प्र। नुदस्व। दूरम्। २.१८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

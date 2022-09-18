@@ -20,7 +20,6 @@ nouns in **d** might be nom. instead of accus.
 That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and Food and Vital Air protect that head from injury.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 तत्। वै। अथर्वणः। शिरः। देवऽकोशः। सम्ऽउब्जितः। तत्। प्राणः। अभि। रक्षति। शिरः। अन्नम्। अथो इति। मनः। २.२७।

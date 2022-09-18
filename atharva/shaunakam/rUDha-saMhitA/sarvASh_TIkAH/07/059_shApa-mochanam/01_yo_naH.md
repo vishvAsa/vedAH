@@ -28,10 +28,9 @@ Here ends also the sixteenth *prapāṭhaka*.
 Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-य:। न:। शपात्। अशपत:। शपत:। य:। च। न:। शपात्। वृक्ष:ऽइव। विऽद्युता। हत:। आ। मूलात्। अनु। शुष्यतु। ६१.१।
+यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। वृक्षःऽइव। विऽद्युता। हतः। आ। मूलात्। अनु। शुष्यतु। ६१.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

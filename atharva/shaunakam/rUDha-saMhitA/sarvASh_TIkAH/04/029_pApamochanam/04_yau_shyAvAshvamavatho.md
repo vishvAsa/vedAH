@@ -19,10 +19,9 @@ Ppp. substitutes *gaviṣṭhiram* for *vadhryaśvam* in **a**.
 Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who help Vimada and Saptavadhri, deliver us, ye twain, from grief and trouble.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यौ। श्यावऽअश्वम्। अवथ:। वध्रिऽअश्वम्। मित्रावरुणा। पुरुऽमीढम्। अत्त्रिम्। यौ। विऽमदम्। अवथ:। सप्तऽवध्रिम्। तौ। न:। मुञ्चतम्। अंहस:। २९.४।
+यौ। श्यावऽअश्वम्। अवथः। वध्रिऽअश्वम्। मित्रावरुणा। पुरुऽमीढम्। अत्त्रिम्। यौ। विऽमदम्। अवथः। सप्तऽवध्रिम्। तौ। नः। मुञ्चतम्। अंहसः। २९.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

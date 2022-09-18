@@ -7,7 +7,6 @@ title = "०१० संप्रोक्षणम्"
 10. Greeting to divinities etc. of the three spheres.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 संप्रोक्षणम्।  
@@ -18,8 +17,6 @@ title = "०१० संप्रोक्षणम्"
 
 [śaṁtāti.—nānādevatyam: 1. āgneyī, 2. vāyavyā, 3. sāuryā. 1. sāmnī triṣṭubh, 2. prājāpatyā bṛhatī, 3. sāmnī bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Florenz, 258 or 10; Griffith, i. 249.
 
 A thanksgiving for life, hearing, and sight
 </details>
+

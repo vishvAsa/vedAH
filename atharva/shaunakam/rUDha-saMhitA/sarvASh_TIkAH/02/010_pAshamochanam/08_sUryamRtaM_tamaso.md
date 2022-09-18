@@ -33,10 +33,9 @@ The *anuvāka* ⌊2.⌋ has again 5 hymns, with 28 verses; the quotation is
 The Gods have freed from, sinfulness, redeeming the Sun, the Law from darkness and from Grahi. From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noose I thus release thee. With spell and prayer I make thee pure and sinless: to thee be both, the Earth and Heaven, auspicious!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-सूर्यम्। ऋतम्। तमस: ग्राह्या:। अधि। देवा:। मुञ्चन्त:। असृजन्। नि:। एनस:। एव। अहम्। त्वाम्। क्षेत्रियात्। नि:ऋत्या:। जामिशंसात्। द्रुह:। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.८।
+सूर्यम्। ऋतम्। तमसः ग्राह्याः। अधि। देवाः। मुञ्चन्तः। असृजन्। निः। एनसः। एव। अहम्। त्वाम्। क्षेत्रियात्। निःऋत्याः। जामिशंसात्। द्रुहः। मुञ्चामि। वरुणस्य। पाशात्। अनागसम्। ब्रह्मणा। त्वा। कृणोमि। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। १०.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

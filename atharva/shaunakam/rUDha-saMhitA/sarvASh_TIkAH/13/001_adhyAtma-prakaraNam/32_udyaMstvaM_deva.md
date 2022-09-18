@@ -19,7 +19,6 @@ taṁ hantv adhamaṁ tamaḥ*. ⌊We had our **d** at x. 3. 9 **d**.⌋
 Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backward with the stone: to deepest darkness let them go.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 उत्ऽयन्। त्वम्। देव। सूर्य। सऽपत्नान्। अव। मे। जहि। अव। एनान्। अश्मना। जहि। ते। यन्तु। अधमम्। तमः। १.३२।

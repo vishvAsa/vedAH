@@ -21,7 +21,6 @@ those of *-yuj* in vs. 25: *āśāsanāni*, *praśāsanāni*, *saṁśāsanāni*
 All earnest wishes, all commands, directions, and admonish- ments. Reflections, all deliberate plans entered the body as a home.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 आऽशिषः। च। प्रऽशिषः। च। सम्ऽशिषः। विऽशिषः। च। याः। चित्तानि। सर्वे। सम्ऽकल्पाः। शरीरम्। अनु। प्र। अविशन्। १०.२७।

@@ -25,10 +25,9 @@ vācaye dhās svāhā*. The Anukr. apparently scans this bit of prose as 8 +
 Lord of the Mind, lay this our sacrifice in heaven among the Gods. Svaha in heaven! Svaha on earth! Svaha in air! In wind have I paid offerings. Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-मनस:। पते। इमम्। न:। दिवि। देवेषु। यज्ञम्। स्वाहा। दिवि। स्वाहा। पृथिव्याम्। स्वाहा। अन्तरिक्षे। स्वाहा। वाते। धाम्। स्वाहा। १०२.८।
+मनसः। पते। इमम्। नः। दिवि। देवेषु। यज्ञम्। स्वाहा। दिवि। स्वाहा। पृथिव्याम्। स्वाहा। अन्तरिक्षे। स्वाहा। वाते। धाम्। स्वाहा। १०२.८।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

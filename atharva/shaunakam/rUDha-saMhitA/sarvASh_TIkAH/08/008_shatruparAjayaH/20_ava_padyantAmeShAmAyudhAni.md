@@ -18,10 +18,9 @@ Ppp. reads *śiṣaṁ* for *śakan* in **d**.
 Down fall their weapons on the ground: no strength be theirs to point a shaft: Then in their dreadful terror let their arrows wound their vital parts.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-अव। पद्यन्ताम्। एषाम्। आयुधानि। मा। शकन्। प्रतिऽधाम्। इषुम्। अथ। एषाम्। बहु। बिभ्यताम्। इषव:। घ्नन्तु। मर्मणि। ८.२०।
+अव। पद्यन्ताम्। एषाम्। आयुधानि। मा। शकन्। प्रतिऽधाम्। इषुम्। अथ। एषाम्। बहु। बिभ्यताम्। इषवः। घ्नन्तु। मर्मणि। ८.२०।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

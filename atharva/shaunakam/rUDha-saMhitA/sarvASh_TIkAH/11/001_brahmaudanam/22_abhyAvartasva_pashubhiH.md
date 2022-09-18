@@ -28,7 +28,6 @@ and SPP. admits in his text the ungrammatical combination.
 Approach this woman here with store of cattle: together with the deities come to meet her. Let not a curse or imprecation reach thee: in thine own seat shine forth exempt from sickness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 अभिऽआवर्तस्व। पशुऽभिः। सह। एनाम्। प्रत्यङ्। एनाम्। देवताभिः। सह। एधि। मा। त्वा। प्र। आपत्। शपथः। मा। अभिऽचारः। स्वे। क्षेत्रे। अनमीवा। वि। राज। १.२२।

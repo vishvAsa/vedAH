@@ -7,7 +7,6 @@ title = "०३१ सेनानिरीक्षणम्"
 31. Praise and prayer to fury (manyú).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सेनानिरीक्षणम्।  
@@ -19,8 +18,6 @@ title = "०३१ सेनानिरीक्षणम्"
 [Brahmāskanda.—manyudāivatam. trāiṣṭubham: 2, 4. bhurij; 5-7. jagatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ This verse is found further in TB. (in ii. 4. 110). RV. and TB. read for b hár�
 
 A hymn to Manyu or Wrath
 </details>
+

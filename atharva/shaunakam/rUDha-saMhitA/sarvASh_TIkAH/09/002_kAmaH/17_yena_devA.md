@@ -14,10 +14,9 @@ title = "१७ येन देवा"
 Far from the world wherein we live, O Kama, drive thou my foemen with that selfsame weapon Wherewith the Gods repelled the fiends, and Indra cast down the Dasyus into deepest darkness.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। देवा:। असुरान्। प्रऽअनुदन्त। येन। इन्द्र:। दस्यून्। अधमम्। तम:। निनाय। तेन। त्वम्। काम। मम। ये। सऽपत्ना:। तान्। अस्मात्। लोकात्। प्र। नुदस्व। दूरम्। २.१७।
+येन। देवाः। असुरान्। प्रऽअनुदन्त। येन। इन्द्रः। दस्यून्। अधमम्। तमः। निनाय। तेन। त्वम्। काम। मम। ये। सऽपत्नाः। तान्। अस्मात्। लोकात्। प्र। नुदस्व। दूरम्। २.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

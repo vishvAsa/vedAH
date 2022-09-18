@@ -7,7 +7,6 @@ title = "०११ पुंसवनम्"
 11. For birth of sons.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पुंसवनम्।  
@@ -18,8 +17,6 @@ title = "०११ पुंसवनम्"
 
 [Prajāpatiḥ.—retodevatyam uta mantroktadevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Weber, v. 264; Ludwig, p. 477; Zimmer, p. 319; Florenz, 260 or 12; G
 
 An epithalamian charm to ensure the birth of a boy
 </details>
+

@@ -23,10 +23,9 @@ sambhaktavantaḥ*. ⌊Ppp. has for **c** *tebhir na adhi vocata*.⌋
 तेना॑ नः॒ शर्म॑ यच्छत ॥३॥
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-येन। देवा:। असुराणाम्। ओजांसि। अवृणीध्वम्। तेन। न:। शर्म। यच्छत। ७.३।
+येन। देवाः। असुराणाम्। ओजांसि। अवृणीध्वम्। तेन। नः। शर्म। यच्छत। ७.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

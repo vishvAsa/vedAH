@@ -7,7 +7,6 @@ title = "१२० सुकृतस्य लोकः"
 120. To reach heaven.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुकृतस्य लोकः।  
@@ -19,8 +18,6 @@ title = "१२० सुकृतस्य लोकः"
 [Kāuśika.—mantroktadevatyam 1. jagatī; 2. pan̄kti; 3. triṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -30,3 +27,4 @@ Found also in Pāipp. xvi. ⌊Von Schroeder's Zwei Hss., p. 16, and Tübinger Ka
 ### Translations
 Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 529.
 </details>
+

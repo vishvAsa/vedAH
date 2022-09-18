@@ -23,10 +23,9 @@ usual, does not note that **a** is a *jagatī* pāda.
 Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O Agni. Endow it with heroic strength, O Indra: therein be lodged a triple power of increase.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इमम्। आदित्या:। वसुना। सम्। उक्षत। इमम्। अग्ने। वर्धय। ववृधान:। इमम्। इन्द्र। सम्। सृज। वीर्येण। अस्मिन्। त्रिऽवृत्। श्रयताम्। पोषयिष्णु। २८.४।
+इमम्। आदित्याः। वसुना। सम्। उक्षत। इमम्। अग्ने। वर्धय। ववृधानः। इमम्। इन्द्र। सम्। सृज। वीर्येण। अस्मिन्। त्रिऽवृत्। श्रयताम्। पोषयिष्णु। २८.४।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

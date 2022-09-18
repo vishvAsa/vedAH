@@ -19,7 +19,6 @@ veda*⌋.
 He, having been invited among the gods, regales, invited in that which wears all various forms among the Gods.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 सः। उपऽहूतः। देवेषु। भक्षयति। उपऽहूतः। तस्मिन्। यत्। देवेषु। विश्वऽरूपम्। ११.१०।

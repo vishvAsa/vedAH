@@ -28,10 +28,9 @@ hearing of cattle, etc.
 If it was in the wind or air's mid-region, if it was in the trees or in the bushes, To meet whose utterance forth streamed the cattle, may that. Celestial Power again approach us.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-यदि। अन्‍तरिक्षे। यदि। वाते। आस। यदि। वृक्षेषु। यदि। वा। उलपेषु। यत्। अश्रवन्। पशव:। उद्यमानम्। तत्। ब्राह्मणम्। पुन:। अस्मान्। उपऽऐतु। ६८.१।
+यदि। अन्‍तरिक्षे। यदि। वाते। आस। यदि। वृक्षेषु। यदि। वा। उलपेषु। यत्। अश्रवन्। पशवः। उद्यमानम्। तत्। ब्राह्मणम्। पुनः। अस्मान्। उपऽऐतु। ६८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

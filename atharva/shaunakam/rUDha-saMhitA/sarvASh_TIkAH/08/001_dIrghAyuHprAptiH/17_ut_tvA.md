@@ -18,10 +18,9 @@ Put after vs. 20 in Ppp., as noted above.
 The Sky hath raised thee, and the Earth, Prajapati hath raised thee up. The Plants and Herbs with Soma as their King have rescued thee from Death.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-उत्। त्वा। द्यौ:। उत्। पृथिवी। उत्। प्रजाऽपति:। अग्रभीत्। उत्। त्वा। मृत्यो:। ओषधय:। सोमऽराज्ञी:। अपीपरन्। १.१७।
+उत्। त्वा। द्यौः। उत्। पृथिवी। उत्। प्रजाऽपतिः। अग्रभीत्। उत्। त्वा। मृत्योः। ओषधयः। सोमऽराज्ञीः। अपीपरन्। १.१७।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

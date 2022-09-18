@@ -19,10 +19,9 @@ Quoted in Kāuś. 16.9 ⌊see introd.⌋.
 Indra the Shaker shake them up, brave, hero, fortdemolisher, That into thousand fragments we may strike the armies of our foes!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-इन्द्र:। मन्थतु। मन्थिता। शक्र:। शूर:। पुरम्ऽदर:। यथा। हनाम। सेना:। अमित्राणाम्। सहस्रऽश:। ८.१।
+इन्द्रः। मन्थतु। मन्थिता। शक्रः। शूरः। पुरम्ऽदरः। यथा। हनाम। सेनाः। अमित्राणाम्। सहस्रऽशः। ८.१।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

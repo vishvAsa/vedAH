@@ -31,7 +31,6 @@ in **c** is lost.
 Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar with praises.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
 दोषो इत‍ि। गाय। बृहत्। गाय। द्युऽमत्। धेहि। आथर्वण। स्तुहि। देवम्। सवितारम्। १.१।

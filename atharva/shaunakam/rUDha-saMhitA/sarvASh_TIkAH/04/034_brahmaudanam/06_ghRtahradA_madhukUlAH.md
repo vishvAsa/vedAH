@@ -27,10 +27,9 @@ suggests⌋. A full *atiśakvarī* (60) calls for two more syllables.
 Full lakes of butter with their banks of honey, flowing with wine, and milk and curds and water Abundant with their overflow of sweetness, these streams shall reach thee in the world of Svarga, whole lakes with lotus- blossom shall approach thee.
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-घृतऽहृदा:। मधुऽकूला:। सुराऽउदका:। क्षीरेण। पूर्णा:। उदकेन। दध्ना। एता:। त्वा। धारा:। उप। यन्तु। सर्वा:। स्व:ऽगे। लोके। मधुऽमत्। पिन्वमाना:। उप। त्वा। तिष्ठन्तु। पुष्करिणी:। सम्ऽअन्ता:। ३४.६।
+घृतऽहृदाः। मधुऽकूलाः। सुराऽउदकाः। क्षीरेण। पूर्णाः। उदकेन। दध्ना। एताः। त्वा। धाराः। उप। यन्तु। सर्वाः। स्वःऽगे। लोके। मधुऽमत्। पिन्वमानाः। उप। त्वा। तिष्ठन्तु। पुष्करिणीः। सम्ऽअन्ताः। ३४.६।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

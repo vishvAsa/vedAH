@@ -19,10 +19,9 @@ similar order in the following vss.⌋
 Now from the east side of the house to the Great Power be homage paid! Hail to the Gods whose due is Hail!
 </details>
 
-
 <details open><summary>पदपाठः</summary>
 
-प्राच्या:। दिश:। शालाया:। नम:। महिम्ने। स्वाहा। देवेभ्य:। स्वाह्येभ्य:। ३.२५।
+प्राच्याः। दिशः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः। ३.२५।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
