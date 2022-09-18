@@ -3,24 +3,38 @@ title = "२७ स बृहस्पतेः"
 
 +++
 
-<details><summary>Whitney</summary>
 
-### Translation
-27. ⌊30.⌋ Ours \[is\] what is conquered, ours what has shot up, ours  
-right, ours brilliancy, ours *bráhman*, ours heaven, ours the sacrifice,  
-ours cattle, ours progeny, ours heroes. ⌊31.⌋ From that we disportion  
-him yonder: so-and-so, of such-and-such lineage, son of such-and-such  
-mother, who is yonder; ⌊32.⌋ let him not be released from the fetter,  
-the shackle of death. ⌊33.⌋ Of him now I involve the splendor,  
-brilliancy, breath, life-time; now I make him fall downward.
 
-### Notes
-Some of the mss. read *pádviṅśat* or *páḍvīṅśat*. ⌊There should be an  
-*avasāna*-mark in vs. 26 of the Berlin ed. after the second circle  
-indicating omission.⌋
+
+<details><summary>पदपाठः</summary>
+
+जितम्। अस्माकम्। उत्ऽभिन्नम्। अस्माकम्। ऋतम्। अस्माकम्। तेजः। अस्माकम्। ब्रह्म। अस्माकम्। स्वः। अस्माकम्। यज्ञः। अस्माकम्। पशवः। अस्माकम्। प्रऽजाः। अस्माकम्। वीराः। अस्माकम्। तस्मात्। अमुम्। निः। भजामः। अमुम्। आमुष्यायणम्। अमुष्याः। पुत्रम्। असौ। यः। सः। इन्द्राग्न्योः। पाशात्। मा। मोचि। ८.२७।
 </details>
 
-<details><summary>Griffith</summary>
+<details><summary>अधिमन्त्रम् (VC)</summary>
 
-Whatever we have gained, whatever hath accrued to us, our Right, our energy, our Devotion, our heavenly light, our sacrifice, our domestic animals, our offspring, our men,--from all share herein we exclude Such-as-one, descendant of Such- an-one, son of Such-a-woman. Let him not be freed from the fetter and noose of Death. Here I bind up his splendour, his energy, his vital breath, his life, and cast him down beneath me.
+- त्रिपदा प्राजापत्या त्रिष्टुप्,त्रिपदा प्राजापत्या त्रिष्टुप्,यजुर्ब्राह्मी एकपदा अनुष्टुप्,त्रिपदा निचृत गायत्री
+- दुःस्वप्ननासन
+- यम
+- दुःख मोचन सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+शत्रु के नाश करने का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (जितम्) जय कियाहुआ.... [म० १, २]। (सः) वह [कुमार्गी] (इन्द्राग्न्योः) बिजुली और भौतिक अग्निके (पाशात्) बन्धन से (मा मोचि) न छूटे।.... [म० ४] ॥२७॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान् धर्मवीर राजासुवर्ण आदि धन और सब सम्पत्ति का सुन्दर प्रयोग करे और अपने प्रजागण और वीरों कोसदा प्रसन्न रख कर कुमार्गियों को कष्ट देकर नाश करे॥२७॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २७−(इन्द्राग्न्योः)विद्युदग्न्योः। अन्यत् पूर्ववत् ॥
 </details>
