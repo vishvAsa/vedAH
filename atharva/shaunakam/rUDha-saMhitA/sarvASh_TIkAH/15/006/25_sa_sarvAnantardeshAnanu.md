@@ -5,10 +5,10 @@ title = "२५ स सर्वानन्तर्देशाननु"
 
 <details><summary>Whitney</summary>
 
-स सर्वा॑नन्तर्दे॒शाननु॒ व्यऽचलत्॥२५॥
+9. ⌊24.⌋ He moved out toward all the intermediate directions;
 </details>
 
 <details><summary>Griffith</summary>
 
-स सर्वा॑नन्तर्दे॒शाननु॒ व्यऽचलत्॥२५॥
+He went away to all the intermediate spaces.
 </details>

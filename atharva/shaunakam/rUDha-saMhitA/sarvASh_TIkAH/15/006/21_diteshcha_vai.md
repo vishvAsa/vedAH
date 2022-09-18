@@ -5,12 +5,13 @@ title = "२१ दितेश्च वै"
 
 <details><summary>Whitney</summary>
 
-दिते॑श्च॒ वै सोऽदि॑ते॒श्चेडा॑याश्चेन्द्रा॒ण्याश्च॑ प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२१॥
+⌊21.⌋ Verily both of Diti and of Aditi and of Iḍā  
+and of Indrāṇī doth he become the dear abode who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-दिते॑श्च॒ वै सोऽदि॑ते॒श्चेडा॑याश्चेन्द्रा॒ण्याश्च॑ प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२१॥
+He who, etc.
 </details>
 
 <details open><summary>पदपाठः</summary>

@@ -5,10 +5,12 @@ title = "२७ प्रजापतेश्च वै"
 
 <details><summary>Whitney</summary>
 
-प्र॒जाप॑तेश्च॒ वै प॑रमे॒ष्ठिन॑श्च पि॒तुश्च॑ पिताम॒हस्य॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२६॥
+⌊26.⌋ Verily both of Prajāpati and of the  
+most exalted one and of the father and of the grandfather doth he become  
+the dear abode who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-प्र॒जाप॑तेश्च॒ वै प॑रमे॒ष्ठिन॑श्च पि॒तुश्च॑ पिताम॒हस्य॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२६॥
+He who possesses this knowledge becomes the beloved home of Prajapati and Parameshthin and the Father and the Great Father.
 </details>

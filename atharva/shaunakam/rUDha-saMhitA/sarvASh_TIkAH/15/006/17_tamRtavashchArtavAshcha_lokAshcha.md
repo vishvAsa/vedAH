@@ -5,12 +5,14 @@ title = "१७ तमृतवश्चार्तवाश्च लोका
 
 <details><summary>Whitney</summary>
 
-तमृ॒तव॑श्चार्त॒वाश्च॒ लोका॑श्च लौ॒क्याश्च॒ मासा॑श्चार्धमा॒साश्चा॑होरा॒त्रे चा॑नु॒व्यऽचलन्॥१७॥
+⌊17.⌋ after him  
+moved out both the seasons and they of the seasons and the worlds and  
+they of the worlds and the months and the half-months and day-and-night.
 </details>
 
 <details><summary>Griffith</summary>
 
-तमृ॒तव॑श्चार्त॒वाश्च॒ लोका॑श्च लौ॒क्याश्च॒ मासा॑श्चार्धमा॒साश्चा॑होरा॒त्रे चा॑नु॒व्यऽचलन्॥१७॥
+The Seasons, groups of seasons, the worlds and their inhabitants, the months and half-months, and Day and Night followed him.
 </details>
 
 <details open><summary>पदपाठः</summary>

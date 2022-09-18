@@ -5,12 +5,12 @@ title = "१३ स परमान्दिशमनु"
 
 <details><summary>Whitney</summary>
 
-स प॑र॒मां दिश॒मनु॒ व्यऽचलत्॥१३॥
+5. ⌊13.⌋ He moved out toward the most distant quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-स प॑र॒मां दिश॒मनु॒ व्यऽचलत्॥१३॥
+He went away to the supreme region.
 </details>
 
 <details open><summary>पदपाठः</summary>

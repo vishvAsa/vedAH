@@ -5,12 +5,12 @@ title = "१० स बृहतीन्दिशमनु"
 
 <details><summary>Whitney</summary>
 
-स बृ॑ह॒तीं दिश॒मनु॒ व्यऽचलत्॥१०॥
+4. ⌊10.⌋ He moved out toward the great quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-स बृ॑ह॒तीं दिश॒मनु॒ व्यऽचलत्॥१०॥
+He went away to the great region.
 </details>
 
 <details open><summary>पदपाठः</summary>

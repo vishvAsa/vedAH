@@ -5,10 +5,11 @@ title = "२३ तं विराडनु"
 
 <details><summary>Whitney</summary>
 
-तं वि॒राडनु॒ व्यऽचल॒त् सर्वे॑ च दे॒वाः सर्वा॑श्च दे॒वताः॑ ॥२३॥
+⌊no *avasāna!*⌋ after him  
+moved out the *virā́j* and all the gods and all the deities.
 </details>
 
 <details><summary>Griffith</summary>
 
-तं वि॒राडनु॒ व्यऽचल॒त् सर्वे॑ च दे॒वाः सर्वा॑श्च दे॒वताः॑ ॥२३॥
+Viraj and all the Gods and all the Deities followed him.
 </details>

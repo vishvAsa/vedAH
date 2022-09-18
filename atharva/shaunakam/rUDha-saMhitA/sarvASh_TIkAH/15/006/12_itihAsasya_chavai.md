@@ -5,12 +5,14 @@ title = "१२ इतिहासस्य चवै"
 
 <details><summary>Whitney</summary>
 
-इ॒ति॒हा॒सस्य॑ च॒ वै स पु॑रा॒णस्य॑ च॒ गाथा॑नां च नाराशं॒सीनां॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१२॥
+⌊12.⌋  
+Verily both of the *itihāsá* and of the *purāṇá* and of the *gā́thās* and  
+of the *nārāśansī́s* doth he become the dear abode who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-इ॒ति॒हा॒सस्य॑ च॒ वै स पु॑रा॒णस्य॑ च॒ गाथा॑नां च नाराशं॒सीनां॑ च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१२॥
+He who, etc.
 </details>
 
 <details open><summary>पदपाठः</summary>

@@ -5,12 +5,15 @@ title = "१५ आहवनीयस्य चवै"
 
 <details><summary>Whitney</summary>
 
-आ॒ह॒व॒नीय॑स्य च॒ वै स गार्ह॑पत्यस्य च दक्षिणा॒ग्नेश्च॑ य॒ज्ञस्य॑ च॒ यज॑मानस्य च प॒शूनां च॑ प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१५॥
+⌊15.⌋  
+Verily both of the fire of offering and of the householder's fire and of  
+the southern fire and of the sacrifice and of the sacrificer and of the  
+cattle doth he become the dear abode who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-आ॒ह॒व॒नीय॑स्य च॒ वै स गार्ह॑पत्यस्य च दक्षिणा॒ग्नेश्च॑ य॒ज्ञस्य॑ च॒ यज॑मानस्य च प॒शूनां च॑ प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१५॥
+He who, etc.
 </details>
 
 <details open><summary>पदपाठः</summary>

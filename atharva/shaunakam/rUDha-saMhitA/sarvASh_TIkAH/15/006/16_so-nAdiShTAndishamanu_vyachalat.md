@@ -5,12 +5,12 @@ title = "१६ सोऽनादिष्टान्दिशमनु व्
 
 <details><summary>Whitney</summary>
 
-सोऽना॑दिष्टां॒ दिश॒मनु॒ व्यऽचलत्॥१६॥
+6. ⌊16.⌋ He moved out toward an unindicated quarter;
 </details>
 
 <details><summary>Griffith</summary>
 
-सोऽना॑दिष्टां॒ दिश॒मनु॒ व्यऽचलत्॥१६॥
+He went away to the unindicated region.
 </details>
 
 <details open><summary>पदपाठः</summary>

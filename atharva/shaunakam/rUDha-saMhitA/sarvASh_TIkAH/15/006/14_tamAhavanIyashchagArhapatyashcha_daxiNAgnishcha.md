@@ -5,12 +5,14 @@ title = "१४ तमाहवनीयश्चगार्हपत्यश�
 
 <details><summary>Whitney</summary>
 
-तमा॑हव॒नीय॑श्च॒ गार्ह॑पत्यश्च दक्षिणा॒ग्निश्च॑ य॒ज्ञश्च॒ यज॑मानश्च प॒शव॑श्चानु॒व्यऽचलन्॥१४॥
+⌊14.⌋ after him  
+moved out both the fire of offering and the householder's fire and the  
+southern fire and the sacrifice and the sacrificer and the cattle.
 </details>
 
 <details><summary>Griffith</summary>
 
-तमा॑हव॒नीय॑श्च॒ गार्ह॑पत्यश्च दक्षिणा॒ग्निश्च॑ य॒ज्ञश्च॒ यज॑मानश्च प॒शव॑श्चानु॒व्यऽचलन्॥१४॥
+The Ehavaniya, Garha- patya, and Southern Fires, and Sacrifice, and Sacrificer, and sacrificial victims followed him.
 </details>
 
 <details open><summary>पदपाठः</summary>

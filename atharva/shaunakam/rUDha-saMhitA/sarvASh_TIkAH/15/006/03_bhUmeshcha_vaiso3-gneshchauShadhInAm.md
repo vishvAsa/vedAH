@@ -5,19 +5,19 @@ title = "०३ भूमेश्च वैसो३ऽग्नेश्चौ
 
 <details><summary>Whitney</summary>
 
-### Translation
-3. ⌊7.⌋ He moved out toward the highest quarter; ⌊8.⌋ after him moved  
-out both the verses and the chants and the sacrificial formulas and the  
-*bráhman*. ⌊9.⌋ Verily both of the verses and of the chants and of the  
-sacrificial formulas and of the *bráhman* doth he become the dear abode  
-who knoweth thus.
+⌊3.⌋ Verily both of earth and of fire and of herbs and of  
+forest trees and of them of forest trees and of plants doth he become  
+the dear abode who knoweth thus.
 
 ### Notes
+To make the metrical descriptions fit closely the subdivisions, we need  
+to read *ví-acal-* in **a** and **b**, and *só ag-* in **c**: and so  
+more or less throughout the hymn.
 </details>
 
 <details><summary>Griffith</summary>
 
-He went away to the last region. Richas, Samans Yajus formulas and Devotion followed him. He who, etc., as above.
+He who possesses this knowledge becomes the dear home of Earth and Agni and herbs and trees and shrubs and plants.
 </details>
 
 <details open><summary>पदपाठः</summary>

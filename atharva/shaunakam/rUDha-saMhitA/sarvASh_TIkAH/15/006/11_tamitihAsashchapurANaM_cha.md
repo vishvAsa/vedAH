@@ -5,12 +5,14 @@ title = "११ तमितिहासश्चपुराणं च"
 
 <details><summary>Whitney</summary>
 
-तमि॑तिहा॒सश्च॑ पुरा॒णं च॒ गाथा॑श्च नाराशं॒सीश्चा॑नु॒व्यऽचलन्॥११॥
+⌊11.⌋ after him moved  
+out both the *itihāsá* ('narrative') and the *purāṇá* ('story of eld')  
+and the *gā́thās* ('songs') and the *nārāśansī́s* ('eulogies').
 </details>
 
 <details><summary>Griffith</summary>
 
-तमि॑तिहा॒सश्च॑ पुरा॒णं च॒ गाथा॑श्च नाराशं॒सीश्चा॑नु॒व्यऽचलन्॥११॥
+Itihasa and Purana and Gathas and Narasansis followed him.
 </details>
 
 <details open><summary>पदपाठः</summary>

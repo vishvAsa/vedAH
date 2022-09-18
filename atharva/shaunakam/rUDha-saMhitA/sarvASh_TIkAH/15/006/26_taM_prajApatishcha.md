@@ -5,10 +5,12 @@ title = "२६ तं प्रजापतिश्च"
 
 <details><summary>Whitney</summary>
 
-तं प्र॒जाप॑तिश्च परमे॒ष्ठी च॑ पि॒ता च॑ पिताम॒हश्चा॑नु॒व्यऽचलन्॥२६॥
+⌊25.⌋  
+after him moved out both Prajāpati and the most exalted one and the  
+father and the grandfather.
 </details>
 
 <details><summary>Griffith</summary>
 
-तं प्र॒जाप॑तिश्च परमे॒ष्ठी च॑ पि॒ता च॑ पिताम॒हश्चा॑नु॒व्यऽचलन्॥२६॥
+Prajapati and Parameshthin and the Father and the Great Father followed him.
 </details>

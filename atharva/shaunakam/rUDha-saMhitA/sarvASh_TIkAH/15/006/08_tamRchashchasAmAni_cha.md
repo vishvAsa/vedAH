@@ -5,23 +5,13 @@ title = "०८ तमृचश्चसामानि च"
 
 <details><summary>Whitney</summary>
 
-### Translation
-8. ⌊22.⌋ He moved out toward the quarters; ⌊no *avasāna!*⌋ after him  
-moved out the *virā́j* and all the gods and all the deities. ⌊23.⌋ Verily  
-both of *virā́j* and of all the gods and of all the deities doth he  
-become the dear abode who knoweth thus.
-
-### Notes
-There seems to be no good reason why this verse should not be divided,  
-like all the rest, into three parts; but the Anukr. does not so  
-prescribe, nor do the mss. set an *avasāna*-mark after the first *vy  
-àcalat:* ⌊compare above, p. 772, ¶ 2⌋. The mss. all agree in accenting  
-the second *ánu*.
+⌊8.⌋ after him moved  
+out both the verses and the chants and the sacrificial formulas and the *bráhman*.
 </details>
 
 <details><summary>Griffith</summary>
 
-He went away to the regions. Viraj and all the Gods and all the Deities followed him. He who, etc.
+Richas, Samans Yajus formulas and Devotion followed him.
 </details>
 
 <details open><summary>पदपाठः</summary>

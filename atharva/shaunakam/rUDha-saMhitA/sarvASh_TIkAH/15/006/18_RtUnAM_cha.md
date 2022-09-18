@@ -5,12 +5,23 @@ title = "१८ ऋतूनां च"
 
 <details><summary>Whitney</summary>
 
-ऋ॒तू॒नां च॒ वै स आ॑र्त॒वानां॑ च॒ लोका॑नां च लौ॒क्यानां॑ च॒ मासा॑नां चार्धमा॒सानां॑ चाहोरा॒त्रयो॑श्च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१८॥
+⌊18.⌋ Verily both of the seasons and of them of the seasons and of the  
+worlds and of them of the worlds and of the months and of the  
+half-months and of day-and-night doth he become the dear abode who  
+knoweth thus.
+
+### Notes
+Most of the mss. accent *lóka* in both **b** and **c** (R.s.m.K.D. have  
+*lokā́s;* only R.s.m. has *lokā́nām*); our text makes the needed  
+correction. ⌊With the almost unanimous support of his authorities, SPP.  
+prints *lókās, lókānām*, which accentuation (albeit so isolated) he  
+takes in this case to be "the genuine Atharvan accent": see his notes,  
+p. 330 f.⌋
 </details>
 
 <details><summary>Griffith</summary>
 
-ऋ॒तू॒नां च॒ वै स आ॑र्त॒वानां॑ च॒ लोका॑नां च लौ॒क्यानां॑ च॒ मासा॑नां चार्धमा॒सानां॑ चाहोरा॒त्रयो॑श्च प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥१८॥
+He who, etc.
 </details>
 
 <details open><summary>पदपाठः</summary>

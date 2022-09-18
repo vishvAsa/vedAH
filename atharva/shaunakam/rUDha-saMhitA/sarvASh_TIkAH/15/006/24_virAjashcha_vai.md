@@ -5,10 +5,12 @@ title = "२४ विराजश्च वै"
 
 <details><summary>Whitney</summary>
 
-वि॒राज॑श्च॒ वै स सर्वे॑षां च दे॒वानां॒ सर्वा॑सां च दे॒वतानां प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२४॥
+⌊23.⌋ Verily  
+both of *virā́j* and of all the gods and of all the deities doth he  
+become the dear abode who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-वि॒राज॑श्च॒ वै स सर्वे॑षां च दे॒वानां॒ सर्वा॑सां च दे॒वतानां प्रि॒यं धाम॑ भवति॒ य ए॒वं वेद॑ ॥२४॥
+He who, etc.
 </details>
