@@ -19,3 +19,8 @@ beginning in our text *āí ’nam* (an accent-sign slipped out of place).
 
 Authority comes to him who possesses this knowledge, and he becomes the controller of the powerful.
 </details>
+
+<details open><summary>पदपाठः</summary>
+
+आ। एनम्। वशः। ग‌च्छति। वशी। वशिनाम्। भवति। यः। एवम्। वेद। १०.९।
+</details>

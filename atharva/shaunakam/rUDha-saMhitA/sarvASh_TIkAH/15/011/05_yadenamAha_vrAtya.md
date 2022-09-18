@@ -17,3 +17,8 @@ makes his breath (*prāṇá*) longer.
 
 When he says to him, Let them refresh thee, he thereby wins vital breath to exceeding old age.
 </details>
+
+<details open><summary>पदपाठः</summary>
+
+यत्। एनम्। आह। व्रात्य। तर्पयन्तु। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ११.५।
+</details>

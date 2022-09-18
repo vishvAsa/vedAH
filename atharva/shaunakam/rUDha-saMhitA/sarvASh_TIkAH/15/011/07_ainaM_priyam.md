@@ -16,3 +16,8 @@ who knoweth thus.
 
 That which is pleasant comes to him, and he is the beloved of the beloved, who is possessed of this knowledge.
 </details>
+
+<details open><summary>पदपाठः</summary>
+
+आ। एनम्। प्रियम्। गच्छति। प्रियः। प्रियस्य। भवति। यः। एवम्। वेद। ११.७।
+</details>

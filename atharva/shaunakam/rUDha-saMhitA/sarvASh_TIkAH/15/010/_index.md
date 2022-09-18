@@ -7,7 +7,6 @@ title = "०१० "
 10. Paryāya the tenth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-११ अथर्वा। अध्यात्मं, व्रात्यः। १ द्विपदा साम्नी बृहती, २ त्रिपदाऽर्ची पङ्क्तिः,  
@@ -19,8 +18,6 @@ title = "०१० "
 
 [ekādaśaka. 1. 2-p. sāmnī bṛhatī; 2. 3-p. ārcī pan̄kti; 3. 2-p. prājāpatyā pan̄kti; 4. 3-p. vardhamānā gāyatrī; 5. 3-p. sāmnī bṛhatī; 6, 8, 10. 2-p. āsurī gāyatrī; 7, 9. sāmny uṣṇih; 11. āsurī bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, Ind. Stud. i. 134; Griffith, ii. 192.
 
 Vratya
 </details>
+

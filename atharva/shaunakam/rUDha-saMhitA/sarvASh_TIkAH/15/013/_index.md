@@ -7,7 +7,6 @@ title = "०१३ "
 13. Paryāya the thirteenth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-१४ अथर्वा। अध्यात्मं, व्रात्यः। १ साम्नी उष्णिक्, २ ६ प्राजापत्याऽनुष्टुप्, ३, ५, ७ आसुरी गायत्री,  
@@ -19,8 +18,6 @@ title = "०१३ "
 
 [caturdaśa. 1 a. sāmny uṣṇih; 1 b, 3 b. prājāpatyā ’nuṣṭubh; a of 2-4 āsurī gāyatrī; 2 b, 4 b, sāmnī bṛhatī; 5 a, 3-p. nicṛd gāyatrī; 5 b. 2-p. virāḍ gāyatrī; 6. prājāpatyā pan̄kti; 7. āsurī jagatī; 8. sataḥpan̄kti; 9. akṣarapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -40,3 +37,4 @@ Translated: Aufrecht, Ind. Stud. i. 135; Griffith, ii. 195.
 
 Vratya
 </details>
+

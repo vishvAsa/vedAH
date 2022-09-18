@@ -7,7 +7,6 @@ title = "०११ "
 11. Paryāya the eleventh.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-११ अथर्वा। अध्यात्मं, व्रात्यः। १ दैवी पङ्क्तिः, २ द्विपदा पूर्वात्रिष्टुबतिशक्वरी,  
@@ -18,8 +17,6 @@ title = "०११ "
 
 [ekādaśaka. 1. dāivī pan̄kti; 2. 2-p. pūrvātriṣṭub atiśakvarī; 3-6, 8, 10, 3-p. ārcī bṛhatī (10. bhurij); 7, 9. 2-p. prājāpatyā bṛhatī; 11. 2-p. ārcy anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Aufrecht, Ind. Stud. i. 134; Griffith, ii. 193.—Griffith here cite
 
 Vratya
 </details>
+

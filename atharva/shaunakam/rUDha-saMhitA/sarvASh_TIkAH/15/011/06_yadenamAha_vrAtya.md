@@ -16,3 +16,8 @@ thereby gains possession of what is dear.
 
 When he says to him, Vratya, let it be as thou pleasest, he secures to himself thereby what is pleasant.
 </details>
+
+<details open><summary>पदपाठः</summary>
+
+यत्। एनम्। आह। व्रात्य। यथा। ते। प्रियम्‌। तथा। अस्तु। इति। प्रियम्। एव। तेन। अव। रुन्ध्दे। ११.६।
+</details>
