@@ -3,6 +3,13 @@ title = "२६ तस्मादमुं निर्भजामोऽमु
 
 +++
 
+<details><summary>Whitney</summary>
+
+</details>
+
+<details><summary>Griffith</summary>
+
+</details>
 
 
 <details><summary>पदपाठः</summary>

@@ -4,6 +4,13 @@ title = "२७ स बृहस्पतेः"
 +++
 
 
+<details><summary>Whitney</summary>
+
+</details>
+
+<details><summary>Griffith</summary>
+
+</details>
 
 
 <details><summary>पदपाठः</summary>
