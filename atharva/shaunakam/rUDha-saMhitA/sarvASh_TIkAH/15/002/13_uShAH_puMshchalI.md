@@ -30,6 +30,14 @@ In the southern region Dawn is his leman, Mitra his panegyrist, knowledge his ve
 उषाः। पुंश्चली। मन्त्रः। मागधः। विऽज्ञानम्। वासः। अहः। उष्णीषम्। रात्री। केशाः। हरितौ। प्रऽवर्तौ। कल्मलिः। मणिः। २.१३।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्विपदार्ची जगती
+- अध्यात्म अथवा व्रात्य
+- अथर्वा
+- अध्यात्म प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की सर्वत्र व्यापकता का उपदेश।
@@ -49,3 +57,4 @@ In the southern region Dawn is his leman, Mitra his panegyrist, knowledge his ve
 
 टिप्पणी:   १३−(उषाः) उषः किच्च।उ० ४।२३४। उष दाहे वधे च-असि। हिंसा (मन्त्रः) सर्वधातुभ्यः ष्ट्रन्। उ० ४।१५९।मन ज्ञाने-ष्ट्रन्। मननगुणः। अन्यत् पूर्ववत्-म० ५ ॥
 </details>
+

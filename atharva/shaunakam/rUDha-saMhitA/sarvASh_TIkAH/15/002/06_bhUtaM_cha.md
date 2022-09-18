@@ -21,6 +21,14 @@ Present and Future are his running footmen, mind is his war-chariot,
 भूतम्। च। भविष्यत्। च। परिऽस्कन्दौ। मनः। विऽपथम्। २.६।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- साम्नी अनुष्टुप्
+- अध्यात्म अथवा व्रात्य
+- अथर्वा
+- अध्यात्म प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की सर्वत्र व्यापकता का उपदेश।
@@ -40,3 +48,4 @@ Present and Future are his running footmen, mind is his war-chariot,
 
 टिप्पणी:   ६−(भूतम्) अतीतम् (च) (भविष्यत्) अनागतम् (च) (परिष्कन्दौ) स्कन्दिर् गतिशोषणयोः-घञ्। परितो गन्तारौपरपुष्टौ। सेवकौ यथा (मनः) चित्तम् (विपथम्) विविधगमनं यानम् ॥
 </details>
+

@@ -20,6 +20,14 @@ He arose and went away to the southern region.
 सः। उत्। अतिष्ठत्। सः। दक्षिणाम्। दिशम्। अनु। वि। अचलत्। २.९।
 </details>
 
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- साम्नी अनुष्टुप्
+- अध्यात्म अथवा व्रात्य
+- अथर्वा
+- अध्यात्म प्रकरण सूक्त
+</details>
+
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की सर्वत्र व्यापकता का उपदेश।
@@ -39,3 +47,4 @@ He arose and went away to the southern region.
 
 टिप्पणी:   ९−(दक्षिणाम्)अवामभागस्थाम्। दक्षिणस्थाम्। अन्यत्पूर्ववत्-म० १ ॥
 </details>
+
