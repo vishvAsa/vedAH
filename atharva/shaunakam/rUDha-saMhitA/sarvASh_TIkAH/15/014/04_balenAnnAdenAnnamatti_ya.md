@@ -18,3 +18,37 @@ food-eater doth he eat food who knoweth thus.
 
 He, when he went away to the northern region, went away having become King Soma and having made the Seven Rishis' oblation an eater of food. He who hath this knowledge eats food with oblation as food-eater.
 </details>
+
+
+<details><summary>पदपाठः</summary>
+
+बलेन। अन्नऽअदेन। अन्नम्। यः। एवम्। वेद। १४.४।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्विपदासुरी गायत्री
+- अध्यात्म अथवा व्रात्य
+- अथर्वा
+- अध्यात्म प्रकरण सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+अतिथिके उपकार का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अन्नादेन) जीवनरक्षक (बलेन) बल से वह [अतिथि] (अन्नम्) जीवन की (अत्ति) रक्षा करता है, (यः) जो (एवम्) व्यापक परमात्मा को (वेद) जानता है ॥४॥३, ४−(दक्षिणाम्)दक्षिणदेशस्थाम्। स्वशरीरस्य दक्षिणभागस्थाम् (इन्द्रः) परमैश्वर्यवान् (बलम्)सामर्थ्यम् (बलेन) सामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मन्त्र १, २ के समानहै ॥३, ४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३, ४−(दक्षिणाम्)दक्षिणदेशस्थाम्। स्वशरीरस्य दक्षिणभागस्थाम् (इन्द्रः) परमैश्वर्यवान् (बलम्)सामर्थ्यम् (बलेन) सामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
+</details>
