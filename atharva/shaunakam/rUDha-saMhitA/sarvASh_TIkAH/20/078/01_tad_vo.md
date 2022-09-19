@@ -8,7 +8,6 @@ title = "०१ तद् वो"
 Sing this, what time the juice is pressed, to him your Hero much-invoked, To please him as a mighty, Bull.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। वः। गाय। सुते। सचा। पुरुऽहूताय। सत्वने। शम्। यत्। गवे। न। शाकिने। ७८.१।

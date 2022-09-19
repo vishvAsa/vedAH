@@ -8,7 +8,6 @@ title = "०४ एभिर्द्युभिर्सुमना एभि
 Well-pleased with these bright flames and with these Soma drops, take thou away our poverty with steeds and kine. With Indra scattering the Dasyu through these drops, freed from their hate may we obtain abundant food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एभिः। द्युऽभिः। सुऽमना। एभिः। इन्दुऽभिः। निऽरुन्धानः। अमतिम्। गोभिः। अश्विना। इन्द्रेण। दस्युम्। दुरयन्तः। इन्दुऽभिः। युतऽद्वेषसः। सम्। इषा। रभेमहि। २१.४।

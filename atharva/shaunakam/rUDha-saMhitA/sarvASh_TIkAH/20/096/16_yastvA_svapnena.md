@@ -8,7 +8,6 @@ title = "१६ यस्त्वा स्वप्नेन"
 That which through sleep or darkness hath deceived thee and lies down by thee, And will destroy thy progeny,--even this will we exterminate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। त्वा। स्वप्नेन। तमसा। मोहयित्वा। निऽपद्यते। प्रजाम्। यः। ते। जिघांसति। तम्। इतः। नाशयामसि। ९६.१६।

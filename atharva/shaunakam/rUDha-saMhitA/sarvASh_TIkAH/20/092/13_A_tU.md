@@ -8,7 +8,6 @@ title = "१३ आ तू"
 Lord of the Home, with beauteous cheeks, ascend thy chariot wrought of gold. We will attend the heavenly One; the thousand-footed, red of hue, matchless, who blesses where he goes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। तु। सुऽशिप्र। इम्ऽपते। रथम्। तिष्ठ। हिरण्ययम्। अध। द्युक्षम्। सचेवहि। सहस्रऽपादम्। अरुषम्। स्वस्तिऽगाम्। अनेहसम्। ९२.१३।

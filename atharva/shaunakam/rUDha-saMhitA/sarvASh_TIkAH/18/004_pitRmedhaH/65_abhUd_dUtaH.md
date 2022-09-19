@@ -29,7 +29,6 @@ sṛjati*, and by śśS. at iv. 5. 9, *ulmukam agnāu kṛtvā*.⌋
 Meet for men's praises, Agni Jatavedas was sent as envoy when the day was closing. Thou gavest to the Fathers with oblation. They ate; eat, God, our offered sacrifices.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभूत्। दूतः। प्रऽहितः। जातऽवेदाः। सायम्। निऽअह्ने। उपऽवन्द्यः। नृऽभिः। प्र। अदाः। पितृऽभ्यः। स्वधया। ते। अक्षन्। अध्दि। त्वम्। देव। प्रऽयता। हवींषि। ४.६५।

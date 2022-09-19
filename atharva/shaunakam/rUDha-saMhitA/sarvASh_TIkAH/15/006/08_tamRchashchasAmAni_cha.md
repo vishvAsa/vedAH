@@ -16,7 +16,7 @@ Richas, Samans Yajus formulas and Devotion followed him.
 
 <details open><summary>पदपाठः</summary>
 
-तम्। ऋचः। च। सामानि। च। यजूंषि। च। ब्रह्म। च। अनुऽव्यचलन्। ६.८।
+तम्। ऋचः। च। सामानि। च। यजूंषि। च। ब्रह्म। च। अनुऽव्य᳡चलन्। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

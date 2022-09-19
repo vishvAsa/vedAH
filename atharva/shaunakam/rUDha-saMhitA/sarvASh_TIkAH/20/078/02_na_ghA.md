@@ -8,7 +8,6 @@ title = "०२ न घा"
 He, excellent, withholdeth not his gift of power and wealth in kine, When he hath listened to our songs.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। च। वसुः। नि। यमते। दानम्। वाजस्य। गोऽमतः। यत्। सीम्। उप। श्रवत्। गिरः। ७८.२।

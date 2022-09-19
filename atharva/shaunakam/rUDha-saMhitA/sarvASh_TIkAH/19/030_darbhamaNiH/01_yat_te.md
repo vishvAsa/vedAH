@@ -25,10 +25,9 @@ translating.
 Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm thou this man, and with thy might strike thou his adver- saries down.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यत्। ते। दर्भ। जराऽमृत्युः। शतम्। वर्मऽसु। वर्म। ते। तेन। इमम्। वर्मिणम्। कृत्वा। सऽपत्नान्। जहि। वीर्यैः। ३०.१।
+यत्। ते। दर्भ। जराऽमृत्युः। शतम्। वर्मऽसु। वर्म। ते। तेन। इमम्। वर्मिणम्। कृत्वा। सऽपत्नान्। जहि। वीर्यैः᳡। ३०.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

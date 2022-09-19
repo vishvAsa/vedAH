@@ -33,7 +33,6 @@ fluid': but see note to x. 4. 3.⌋
 When the Cow's nectar wins the God completely, men here below are heaven's and earth's sustainers All the Gods come to this thy heavenly Yajus which from the motley Pair milked oil and water
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वावृक्। देवस्य। अमृतम्। यदि। गोः। अतः। जातासः। धारयन्ते। उर्वी इति। विश्वे। देवाः। अनु। तत्। ते। यजुः। गुः। दुहे। यत्। एनी। दिव्यम्। घृतम्। वाः। १.३२।

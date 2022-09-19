@@ -49,7 +49,6 @@ RV. i. 123. 5 **c**; vii. 56. 21 **b**.⌋ †⌊Cf. SPP's notes to xviii. 4.
 Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer and the Lord of food!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपश्चा। दग्धऽअन्नस्य। भूयासम्। अन्नऽअदाय। अन्नऽपतये। रुद्राय। नमः। अग्नये। सभ्यः। सभाम्। मे। पाहि। ये। च। सभ्याः। सभाऽसदः। ५५.५।

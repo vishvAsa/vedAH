@@ -8,7 +8,6 @@ title = "०४ इहेत्थ प्रागपागुदगधराक
 Here east and west and north and south adheres when touched. That water-drop.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। सः। वै। पृथु। लीयते। १३४.४।

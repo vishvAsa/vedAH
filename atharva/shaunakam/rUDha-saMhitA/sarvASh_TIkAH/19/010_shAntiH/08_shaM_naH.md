@@ -20,7 +20,6 @@ pradíśo bhavantu*. ⌊The first pāda has dropped out of Ppp.⌋
 May the far-seeing Sun rise up to bless us: be the four quarters- of the heaven auspicious. Auspicious be the firmly-seated Mountains, auspicious be the Rivers and the Waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। सूर्यः। उरुऽचक्षाः। उत्। एतु। शम्। नः। भवन्तु। प्रऽदिशः। चतस्रः। शम्। नः। पर्वताः। ध्रुवयः। भवन्तु। शम्। नः। ‍ सिन्धवः। शम्। ऊं इति। सन्तु। आपः। १०.८।

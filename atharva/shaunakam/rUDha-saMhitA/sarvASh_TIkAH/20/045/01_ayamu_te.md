@@ -8,7 +8,6 @@ title = "०१ अयमु ते"
 This is thine own. Thou drawest near, as the dove turneth to his mate. Thou carest too for this our prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। ऊं इति। ते  सम्। अतसि। कपोतःऽइव। गर्भऽधिम्। वचः। तत्। चित्। नः। ओहसे। ४५.१।

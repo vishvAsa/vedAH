@@ -21,7 +21,6 @@ spoil the meter (p. 830, ¶4).⌋
 This date we mete and measure out, that it may ne'er be fixt. again. A hundred autumns: not before.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। इमाम्। मात्राम्। मिमीमहे। यथा। अपरम्। न। मासातै। शते। शरत्ऽसु। नो इति। पुरा। २.४४।

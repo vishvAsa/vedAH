@@ -30,7 +30,6 @@ Ppp. reads corruptly *bāhyaṁ parvatyā*.
 Gods' Ointment from the Three Peaked Hill, preserve thou me on every side. No plants of earth surpass thee, none from mountain or from cultured ground.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवऽआञ्जन। त्रैककुदम्। परि। मा। पाहि। विश्वतः। न। त्वा। तरन्ति। ओषधयः। बाह्याः। पर्वतीयाः। उत। ४४.६।

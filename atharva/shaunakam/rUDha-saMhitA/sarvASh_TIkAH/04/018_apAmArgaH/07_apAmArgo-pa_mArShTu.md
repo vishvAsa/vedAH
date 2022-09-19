@@ -22,7 +22,7 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 
 <details open><summary>पदपाठः</summary>
 
-अपामार्गः। अप। मार्ष्टु। क्षेत्रियम्। शपथः। च। यः। अप। अह। यातुऽधानीः। अप। सर्वाः। अराय्यः। १८.७।
+अपामार्गः। अप। मार्ष्टु। क्षेत्रियम्। शपथः। च। यः। अप। अह। यातुऽधानीः। अप। सर्वाः। अराय्यः᳡। १८.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

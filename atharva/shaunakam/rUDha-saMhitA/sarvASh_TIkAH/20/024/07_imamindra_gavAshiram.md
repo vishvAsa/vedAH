@@ -8,7 +8,6 @@ title = "०७ इममिन्द्र गवाशिरम्"
 Borne hither by thy stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। इन्द्र। गोऽआशिरम्। यवऽआशिरम्। च। नः। पिब। आऽगत्य। वृषऽभिः। सुतम्। २४.७।

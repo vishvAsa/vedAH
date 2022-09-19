@@ -21,7 +21,6 @@ emendation.
 Or, made more keen by Prayer, this mind that standeth in the highest place, Whereby the awful spell was made, even through this be peace to us!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। यत्। परमेऽस्थिनम्। मनः। वाम्। ब्रह्मऽसंशितम्। येन। एव। ससृजे। घोरम्। तेन। एव। शान्तिः। अस्तु। नः। ९.४।

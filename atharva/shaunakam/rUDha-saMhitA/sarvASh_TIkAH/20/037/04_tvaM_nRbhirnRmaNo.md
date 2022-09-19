@@ -8,7 +8,6 @@ title = "०४ त्वं नृभिर्नृमणो"
 At the Gods' banquet, Hero-souled! with heroes, Lord of Bay Steeds, thou slewest many Vritras. Thou sentest in swift death to sleep the Dasyu, both Chumuri and Dhuni, for Dabhiti,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। नृऽभिः। नृऽमनः। देवऽवीता। भूरीणि। वृत्रा। हरिऽअश्व। हंसि। त्वम्। नि। दस्युम्। चुमुरिम्। धुनिम्। च। अस्वापयः। दभीतये। सुऽहन्तु। ३७.४।

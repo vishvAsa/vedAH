@@ -15,7 +15,6 @@ abode \[who knoweth thus\]. Of him in the western quarter
 He who possesses this knowledge becomes the dear home of Vairupa and Vairaja, the Waters and King Varuna. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वैरूपस्य। च। वै। सः। वैराजस्य। च। अपाम्। च। वरुणस्य। च। राज्ञः। प्रियम्। धाम। भवति। तस्य। प्रतीच्याम्। दिशि। २.१८।

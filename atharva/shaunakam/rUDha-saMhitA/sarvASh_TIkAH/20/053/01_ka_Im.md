@@ -8,7 +8,6 @@ title = "०१ क ईम्"
 Who knows what vital power he wins, drinking beside the flowing juice? This is the fair-cheeked God who, joying in the draught, breaks down the castles in his strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। ईम्। वेद। सुते। सचा। पिबन्तम्। कत्। वयः। दधे। अयम्। यः। पुरः। विऽभिनत्ति। ओजसा। मन्दानः। शिप्री। अन्धसः। ५३.१।

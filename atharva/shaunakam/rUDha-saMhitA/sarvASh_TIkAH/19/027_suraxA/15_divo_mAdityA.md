@@ -33,7 +33,6 @@ one *mantra*. He reads *agnis* again in our **e** as in 16. 2 **e**.⌋
 May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni guard me from the eastward, on all sides may the Asvins give me shelter. May Jatavedas guard, sidelong, our cattle. Our shield on all sides be the World-Creators!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दिवः। मा। आदित्याः। रक्षन्तु। भूम्याः। रक्षन्तु। अग्नयः। इन्द्राग्नी इति। रक्षताम्। मा। पुरस्तात्। अश्विनौ। अभितः। शर्म। यच्छताम्। तिरश्चीन्। अघ्न्या। रक्षतु। जातऽवेदाः। भूतऽकृतः। मे। सर्वतः। सन्तु। वर्म। २७.१५।

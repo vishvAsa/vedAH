@@ -8,7 +8,6 @@ title = "०५ यद्वां कक्षीवाँ"
 As erst Kakshivan and the Rishi Vyasva, as erst Dirghatamas invoked your presence, Or, in the sacrificial chambers, Vainya Prithi, so be ye mindful of us here, O Asvins.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वाम्। कक्षीवान्। उत। यत्। विऽअश्वः। ऋषिः। यत्। वाम्। दीर्घऽतमाः। जुहाव। पृथी। यत्। वाम्। वैन्यः। सदनेषु। एव। इत्। अतः। अश्विना। चेतयेथाम्। १४०.५।

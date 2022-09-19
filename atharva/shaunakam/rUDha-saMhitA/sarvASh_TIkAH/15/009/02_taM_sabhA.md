@@ -19,7 +19,7 @@ Meeting and Assembly and Army and Wine followed him.
 
 <details open><summary>पदपाठः</summary>
 
-तम्। सभा। च। सम्ऽइतिः। च। सेना। च। सुरा। च। अनुऽव्यचलन्। ९.२।
+तम्। सभा। च। सम्ऽइतिः। च। सेना। च। सुरा। च। अनुऽव्य᳡चलन्। ९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -32,7 +32,6 @@ hard to see the reason or sense.
 Baffle the loud factitious howl, make impotent the seven decays. As when an archer speeds the shaft, drive away want, O Jangida,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अरसम्। कृत्रिमम्। नादम्। अरसाः। सप्त। विऽस्रसः। अप। इतः। जङ्गिडः। अमतिम्। इषुम्। अस्ताऽइव। शातय। ३४.३।

@@ -8,7 +8,6 @@ title = "०३ किमयं त्वाम्"
 What hath he done to injure thee, this tawny beast Vrishakapi, With whom thou art so angry now? What is the votary's food- ful store? Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 किम्। अयम्। त्वाम्। वृषाकपिः। चकार। हरितः। मृगः। यस्मै। इरस्यसि। इत्। ऊं इति। नु। अर्यः। वा। पुष्टिमत्। वसु। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.३।

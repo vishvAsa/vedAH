@@ -8,7 +8,6 @@ title = "०४ वि षु"
 Destroyed be all malignities and all our enemy's designs. Thy bolt thou castest at the foe, O Indra, who would smite us dead: thy liberal bounty gives us wealth. Let the weak bow- strings break upon the bows of feeble enemies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। सु। विश्वाः। अरातयः। अर्यः। नशन्त। नः। धियः। अस्ता। असि। शत्रवे। वधम्। यः। नः। इन्द्र। जिघांसति। या। ते। रातिः। ददिः। वसु। नमन्ताम्। अन्यकेषाम्। ज्याकाः। अधि। धन्वऽसु। ९५.४।

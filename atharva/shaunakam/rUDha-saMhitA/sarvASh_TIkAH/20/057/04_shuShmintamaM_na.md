@@ -8,7 +8,6 @@ title = "०४ शुष्मिन्तमं न"
 Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lord of Hundred Powers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युष्मिन्ऽतमम्। नः। ऊतये। द्युम्निनम्। पाहि। जागृविम्। इन्द्र। सोमम्। शतक्रतो इति  शतऽक्रतो। ५७.४।

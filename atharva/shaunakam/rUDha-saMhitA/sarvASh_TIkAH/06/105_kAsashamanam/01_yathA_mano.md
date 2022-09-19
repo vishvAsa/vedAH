@@ -40,7 +40,7 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 
 <details open><summary>पदपाठः</summary>
 
-यथा। मनः। मनःऽकेतैः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। मनसः। अनु। प्रऽवाय्यम्। १०५.१।
+यथा। मनः। मनःऽकेतैः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। मनसः। अनु। प्रऽवाय्य᳡म्। १०५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

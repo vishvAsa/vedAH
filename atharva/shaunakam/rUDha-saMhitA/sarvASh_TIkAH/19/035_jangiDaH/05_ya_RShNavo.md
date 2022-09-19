@@ -36,7 +36,6 @@ makes to mean "also what other oppressors (*bādhakās*) go about."
 All sorcerers made by the Gods, all that arise from mortal men,. These, one and all, let Jangida, healer of all, make impotent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। ऋष्णवः। देवऽकृताः। यः। उतो इति। ववृते। अन्यः। सर्वान्। तान्। विश्वऽभेषजः। अरसान्। जङ्गिडः। करत्। ३५.५।

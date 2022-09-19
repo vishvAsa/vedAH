@@ -20,7 +20,6 @@ indrād devavarmā ”hus*.
 They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They call thee shield of Indra: thou protectest kingdoms from attack.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। आहुः। देवऽवर्म। त्वाम्। दर्भ। ब्रह्मणः। पतिम्। त्वाम्। इन्द्रस्य। आहुः। वर्म। त्वम्। राष्ट्राणि। रक्षसि। ३०.३।

@@ -25,7 +25,7 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 
 <details open><summary>पदपाठः</summary>
 
-सम्। अहम्। एषाम्। राष्ट्रम्। स्यामि। सम्। ओजः। वीर्यम्। बलम्। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। १९.२।
+सम्। अहम्। एषाम्। राष्ट्रम्। स्यामि। सम्। ओजः। वीर्य᳡म्। बलम्। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। १९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

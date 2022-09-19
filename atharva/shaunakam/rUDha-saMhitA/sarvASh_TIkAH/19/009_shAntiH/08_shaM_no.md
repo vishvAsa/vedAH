@@ -39,7 +39,6 @@ SPP's reciters gives *áva dīryatī́*⌋.
 Gracious to us be trembling earth, gracious the flaming meteor stroke! Gracious be kine who yield red milk, gracious be earth when sinking down!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। भूमिः। वेप्यमाना। शम्। उल्का। निःऽहतम्। च। यत्। शम्। गावः। लोहितऽक्षीराः। शम्। भूमिः। अव। तीर्यतीः। ९.८।

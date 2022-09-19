@@ -8,7 +8,6 @@ title = "०२ हरिं हि"
 Ye who--in concert sing unto the gold-hued place, like bay steeds driving onward to the heavenly seat, For Indra laud ye strength allied with tawny steeds, laud him whom cows content as'twere with yellow drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरिम्। हि। योनिम्। अभि। ये। सम्ऽअस्वरन्। हिन्वन्तः। हरी इति। दिव्यम्। यथा। सदः। आ। यम्। पृणन्ति। हर‍िऽभिः। न। धेनवः। इन्द्राय। शूषम्। हरिऽवन्तम्। अर्चत। ३०.२।

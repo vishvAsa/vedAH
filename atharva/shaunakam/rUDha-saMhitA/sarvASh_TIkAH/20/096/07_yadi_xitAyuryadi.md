@@ -8,7 +8,6 @@ title = "०७ यदि क्षितायुर्यदि"
 Be his days ended, be he how departed, be he brought very near to death already, Out of Destruction's lap again I bring him, save him for life to last a hundred autumns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यदि। क्षितऽआयुः। यदि। वा। पराऽइतः। यदि। मृत्योः। अन्तिकम्। निऽइतः। एव। तम्। आ। हरामि। निःऽऋतेः। उपऽस्थात्। अस्पार्शम्। एनम्। शतऽशारदाय। ९६.७।

@@ -29,7 +29,6 @@ vs. 67.
 Here hast thou left thy heart; O man, as sisters leave their little pet. Do thou, O earth, envelop him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असौ। है। इह। ते। मनः। ककुत्सलम्ऽइव। जामयः। अभि। एनम्। भूमे। ऊर्णुहि। ४.६६।

@@ -30,7 +30,6 @@ is masculine. ⌊For the play in **d**, cf. my note to xviii. 3. 29.⌋
 Hundred she-fiends, a hundred of Gandharvas and Apsarasas, A hundred of dog-mated nymphs, I keep away with Hundred- Hair
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतम्। अहम्। दुःऽनाम्नीनाम्। गन्धर्वऽअप्सरसाम्। शतम्। शतम्। शश्वन्ऽवतीनाम्। शतऽवारेण। वारये। ३६.६।

@@ -46,7 +46,6 @@ that is possibly the real meaning.
 At first the all-containing, depth beheld thee, ere Night was born, when only Day existed. Thence hast thou come, thence, Sleep, hast thou come hither, concealing, deep within, all form and figure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बन्धः। त्वा। अग्रे। विश्वऽचयाः। अपश्यत्। पुरा। रात्र्याः। जनितोः। एके। अह्नि। ततः। स्वप्न। इदम्। अधि। आ। बभूविथ। भिषक्ऽभ्यः। रूपम्। अपऽगूहमानः। ५६.२।

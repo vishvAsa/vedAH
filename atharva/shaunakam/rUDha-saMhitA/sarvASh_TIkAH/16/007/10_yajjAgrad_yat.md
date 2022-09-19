@@ -16,7 +16,6 @@ title = "१० यज्जाग्रद् यत्"
 Whether waking or sleeping, whether by day or by night.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। जाग्रत्। यत्। सुप्तः। यत्। दिवा। यत्। नक्तम्। ७.१०।

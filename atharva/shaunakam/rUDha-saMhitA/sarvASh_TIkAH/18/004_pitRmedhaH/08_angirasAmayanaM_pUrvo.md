@@ -25,7 +25,6 @@ syll.).
 The Angirases' pathway is the eastern Agni, the Adityas' path- way is the Garhapatya: The southward Agni is the way of Southerns. To Agni's greatness whom the prayer divideth go powerful, un- scathed with all thy members.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अङ्ग‍िरसाम्। अयनम्। पूर्वः। अग्नि। आदित्यानाम्। अयनम्। गार्हऽपत्य। दक्षिणानाम्। अयनम्। दक्षिणऽअग्निः। महिमानम्। अग्नेः। विऽहितस्य। ब्रह्मणा। सम्ऽअङ्गः। सर्वः। उप। याहि। शग्मः। ४.८।

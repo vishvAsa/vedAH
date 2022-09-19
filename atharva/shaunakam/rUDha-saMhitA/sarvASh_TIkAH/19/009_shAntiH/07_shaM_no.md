@@ -33,7 +33,6 @@ in 7 **c**.
 Favour us Mitra, Varuna, Vivasvan, and the Finisher, Portents on earth and in the air, and planets wandering in heaven!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। मित्रः। शम्। वरुणः। शम्। विवस्वान्। शम्। अन्तकः। उत्ऽपाताः। पार्थिवा। आन्तरिक्षाः। शम्। नः। दिविऽचराः। ग्रहाः। ९.७।

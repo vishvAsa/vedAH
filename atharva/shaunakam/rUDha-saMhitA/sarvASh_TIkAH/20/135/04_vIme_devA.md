@@ -8,7 +8,6 @@ title = "०४ वीमे देवा"
 These Gods have gone astray. Do thou, Adhvaryu, quickly do thy work.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। इमे। देवाः। अक्रंसत। अध्वर्यो। क्षिप्रम्। प्रचर। सुसत्यम्। इत्। गवाम्। असि। असि। प्रखुदसि। १३५.४।

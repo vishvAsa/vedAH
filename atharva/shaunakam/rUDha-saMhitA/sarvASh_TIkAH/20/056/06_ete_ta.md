@@ -8,7 +8,6 @@ title = "०६ एते त"
 These people, Indra, keep for thee all that is worthy of thy choice. Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एते। ते। इन्द्रः। जन्तवः। विश्वम्। पुष्यति। वार्यम्। अन्तः। हि। ख्यः। जनानाम्। अर्यः। वेदः। अदाशुषाम्। तेषाम्। नः। वेदः। आ। भर। ५६.६।

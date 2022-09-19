@@ -21,7 +21,6 @@ note on Part VII., above, p. 848.⌋
 The chalice brimming o'er which erst Atharvan offered to Indra, Lord of wealth and treasure, Indu therein sets draught of virtuous action, and ever purifies himself within it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अथर्वा। पूर्णम्। चमसम्। यम्। इन्द्राय। अबिभः। वाजिनीऽवते। तस्मिन्। कृणोति। सुऽकृतस्य। भक्षम्। तस्मिन् इन्दुः। पवते। विश्वऽदानीम्। ३.५४।

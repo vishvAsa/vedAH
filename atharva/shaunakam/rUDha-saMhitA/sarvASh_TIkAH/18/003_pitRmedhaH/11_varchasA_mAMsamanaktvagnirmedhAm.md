@@ -21,7 +21,6 @@ the comm. regards it as sharing with that verse.
 May Agni balm me thoroughly with splendour; may Vishnu. touch my lips with understanding. May all the Deities vouchsafe me riches, and pleasant Waters purify and cleanse me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वर्चसा। माम्। सम्। अनक्तु। अग्निः। मेधाम्। मे। विष्णुः। नि। अनक्तु। आसन्। रयिम्। मे। विश्वे। नि। यच्छन्तु। देवाः। स्योनाः। मा। आपः। पवनैः। पुनन्तु। ३..११।

@@ -20,7 +20,6 @@ Agni, as 'lord of the field.'
 Prosper us Savitar, the God who rescues, and let the radiant. Mornings be propitious. Propitious to our children be Parjanya, kind to us be the field's benign Protector!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। देवः। सविता। त्रायमाणः। शम्। नः। भवन्तु। उषसः। विऽभातीः। शम्। नः। पर्जन्यः। भवतु। प्रऽजाभ्यः। शम्। नः। क्षेत्रस्य। पतिः। अस्तु। शम्ऽभुः। १०.१०।

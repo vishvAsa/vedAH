@@ -8,7 +8,6 @@ title = "०८ मारे अस्मद्"
 O thou to whom thy Bays are dear, loose not thy horses far from us: Here glad thee, Indra, Lord Divine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। आरे। अस्मत्। वि। मुमुचः। हरिऽप्रिय। अर्वाङ्। याहि। इन्द्र। स्वधाऽवः। मत्स्व। इह। २३.८।

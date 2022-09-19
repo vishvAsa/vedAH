@@ -13,7 +13,6 @@ title = "०७ इन्द्रो मेन्द्रियेणावत
 May Indra protect me with his Indra-power for inspiration, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। मा। इन्द्रियेण। अवतु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.७।

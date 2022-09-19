@@ -19,7 +19,6 @@ In our text there has dropped out an accent-sign under *va* before
 Let those who from the north side vex me, sinners, praise Visvakarman with the Seven Rishis.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विश्वऽकर्माणम्। ते। सप्तऋषिऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। उदीच्याः। दिशः। अभिऽदासात्। १८.७।

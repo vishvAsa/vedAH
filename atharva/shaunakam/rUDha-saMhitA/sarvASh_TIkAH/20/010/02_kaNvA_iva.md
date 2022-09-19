@@ -8,7 +8,6 @@ title = "०२ कण्वा इव"
 The Bhrigus are like suns, like Kanvas, and have gained all that their thoughts were bent to win. The living men of Priyamedha's race have sung exalting Indra with their lauds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कण्वाःऽइव। भृगवः। सूर्याऽइव। विश्वसु। इत्। धीतम्। आनशुः। इन्द्रम्। स्तोमेभिः। महयन्तः। आयवः। प्रियमेधासः। अस्वरन्। १०.२।

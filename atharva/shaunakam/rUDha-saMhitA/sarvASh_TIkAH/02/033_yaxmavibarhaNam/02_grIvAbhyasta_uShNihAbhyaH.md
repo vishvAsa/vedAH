@@ -26,7 +26,7 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 
 <details open><summary>पदपाठः</summary>
 
-ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्यात्। यक्ष्मम्। दोषण्यम्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ३३.२।
+ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्या᳡त्। यक्ष्मम्। दोषण्य᳡म्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ३३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

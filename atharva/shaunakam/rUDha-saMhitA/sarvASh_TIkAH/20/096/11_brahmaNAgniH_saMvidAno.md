@@ -8,7 +8,6 @@ title = "११ ब्रह्मणाग्निः संविदानो
 May Agni yielding to our prayer, the Rakshas-killer, drive away. The malady of evil name that hath beset thy labouring womb.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्मणा। अग्निः। सम्ऽविदानः। रक्षःऽहा। बाधताम्। इतः। अमीवा। यः। ते। गर्भम्। दुःऽनामा। योनिम्। आऽशये। ९६.११।

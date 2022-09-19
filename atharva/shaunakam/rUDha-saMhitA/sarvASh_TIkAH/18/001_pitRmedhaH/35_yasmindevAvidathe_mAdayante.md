@@ -26,7 +26,6 @@ understanding it adverbially; *aktūn* in **c** is either *raśmīn* or
 They in the synod where the Gods rejoice them, where they are seated in Vivasvan's dwelling, Have given the Moon his beams, the Sun his splendour: the two unweariedly maintain their brightness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्मिन्। देवाः। विदथे। मादयन्ते। विवस्वतः। सदने। धारयन्ते। सूर्ये। ज्योतिः। अदधुः। मासि। अक्तून्। परि। द्योतनिम्। चरतः। अजस्रा। १.३५।

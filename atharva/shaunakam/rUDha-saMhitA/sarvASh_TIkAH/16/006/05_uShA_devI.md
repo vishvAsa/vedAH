@@ -18,7 +18,6 @@ Part of the mss. read in **b** *devy ū̀ṣásā*.
 May the Goddess Dawn in accord with Speech, and the Goddess Speech in accord with Dawn,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उषाः। देवी। वाचा। सम्ऽविदाना। वाक्। देवी। उषसा। सम्ऽविदाना। ६.५।

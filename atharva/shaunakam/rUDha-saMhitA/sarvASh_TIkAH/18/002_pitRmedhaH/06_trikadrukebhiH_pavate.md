@@ -28,7 +28,6 @@ this, *Ved. Mythol.* i. 500.⌋
 With the three jars Brihat alone makes pure the six wide-spread- ing realms. The Gayatri, the Trishtup, all metres in Yama are contained.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिऽकद्रुकेभिः। पवते। षट्। उर्वीः। एकम्। इत्। बृहत्। त्रिऽस्तुपः। गायत्री। छन्दांसि। सर्वा। ता। यमे। आर्पिता। २.६।

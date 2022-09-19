@@ -23,7 +23,6 @@ help to his descendants.
 Be here, even here, acquiring wealth, here be thou thoughts here be thou strength. Be stronger here in manly power, life-giver, never beaten back.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। एधि। वीर्यवत्ऽतरः। वयःऽधाः। अपराऽहतः। ४.३८।

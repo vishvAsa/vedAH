@@ -8,7 +8,6 @@ title = "१० इन्द्र वाजेषु"
 Help us, O Indra, in the frays, yea, frays where thousand spoils are gained, With awful aids, O awful One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। वाजेषु। नः। अव। सहस्रऽप्रधनेषु। च। उग्रः। उग्राभिः। ऊतिऽभिः। ७०.१०।

@@ -8,7 +8,6 @@ title = "०३ अच्छा हि"
 For unto thee, O Angiras, O Son of Strength, move ladles in the sacrifice, To Agni, Child of Force, whose locks drop oil, we seek, fore- most in sacrificial rites.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अच्छ। हि। त्वा। सहसः। सूनो इति। अङ्गिरः। स्रुचः। चरन्ति। अध्वरे। ऊर्जः। नपातम्। घृतऽकेशम्। ईमहे। अग्निम्। यज्ञेषु। पूर्व्यम्। १०३.३।

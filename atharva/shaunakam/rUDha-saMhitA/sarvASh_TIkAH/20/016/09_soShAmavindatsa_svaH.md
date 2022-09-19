@@ -8,7 +8,6 @@ title = "०९ सोषामविन्दत्स स्वः\uf184"
 He found the light of heaven, and fire, and Morning: with lucid rays he forced apart the darkness. As from a joint, Brihaspati took the marrow of Vala as he gloried in his cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। उषाम्। अविन्दत्। सः। स्व१ रिति स्वः। सः। अग्निम्। सः। अर्केण। वि। बबाधे। तमांसि। बृहस्पतिः। गोऽवपुषः। वलस्य। निः। मज्जानम्। न। पर्वणः। जभार। १६.९।

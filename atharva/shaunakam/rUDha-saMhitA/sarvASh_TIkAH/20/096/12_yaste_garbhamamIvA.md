@@ -8,7 +8,6 @@ title = "१२ यस्ते गर्भममीवा"
 Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of evil name that hath attacked thy babe and womb.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। ते। गर्भम्। अमीवा। दुःऽनामा। योनिम्। आऽशये। अग्निः। तम्। ब्रह्मणा। सह। निः। क्रव्यऽअदम्। अनीनशत्। ९६.१२।

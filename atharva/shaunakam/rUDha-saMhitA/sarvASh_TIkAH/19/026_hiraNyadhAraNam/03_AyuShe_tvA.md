@@ -38,7 +38,6 @@ amulet.⌋
 Long life and splendour let it bring energy and strength to thee. That thou mayst shine among the folk with all the brightness of the Gold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आयुषे। त्वा। वर्चसा। त्वा। ओजसे। च। बलाय। च। यथा। हिरण्यऽतेजसा। विऽभासासि। जनान्। अनु। २६.३।

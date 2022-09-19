@@ -7,7 +7,6 @@ title = "०२६ हिरण्यधारणम्"
 26. For long life etc.: with something golden.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 हिरण्यधारणम्।  
@@ -18,8 +17,6 @@ title = "०२६ हिरण्यधारणम्"
 
 [Atharvan.—caturṛcam. āgneyam; hāiraṇyam. trāiṣṭubham: 3. anuṣṭubh; 4. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grill, 49, 192; Griffith, ii. 283; Bloomfield, 63, 668.
 
 A hymn accompanying investiture with an amulet of gold
 </details>
+

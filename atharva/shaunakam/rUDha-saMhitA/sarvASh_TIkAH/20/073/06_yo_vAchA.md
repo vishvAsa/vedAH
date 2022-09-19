@@ -8,7 +8,6 @@ title = "०६ यो वाचा"
 We laud and praise his several deeds of valour who, fatherlike,. with power hath made us stronger; Who with his voice slew many thousand wicked ones who spake in varied manner with contemptuous cries.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। वाचा। विऽवाचः। मृध्रऽवाचः। पुरू। सहस्रा। अशिवा। जघान। तत्ऽतत्। इत्। अस्य। पौंस्यम्। गृणीमसि। पिताऽइव। यः। तविषीम्। ववृधे। शवः। ७३.६।

@@ -17,7 +17,6 @@ stronghold etc. etc.
 Ocean arose with the Rivers. To that fort, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यज्ञः। दक्षिणाभिः। उत्। अक्रामत्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। च। वर्म। च। यच्छतु। १९.६।

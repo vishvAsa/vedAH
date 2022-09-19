@@ -39,7 +39,6 @@ kṣāntena lokena dhārayati*.
 The Sage of Fathers, guardian of devotions who holds thee up with might in air's mid-region,-- Praise him ye Visvamitras, with oblation. To lengthened life shall be, this Yama, lead us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। दध्रे। अन्तर‍िक्षे। न। मह्ना। पितॄणाम्। कविः। प्रऽमतिः। मतीनाम्। तम्। अर्चत। विश्वऽमित्राः। हविःऽभिः। सः। नः। यमः। प्रऽतरम्। जीवसे। धात्। ३.६३।

@@ -8,7 +8,6 @@ title = "०८ व्यानडिन्द्रः पृतनाः"
 Indra hath conquered in his wars the mighty: men strive in multitudes to win his friendship. Ascend thy chariot as it were in battle, which thou shalt drive to us with gracious favour,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। आनट्। इन्द्रः। पृतनाः। सुऽओजाः। आ। अस्मै। यतन्ते। सख्याय। पूर्वीः। आ। स्म। रथम्। न। पृतनासु। तिष्ठ। यम्। भद्रया। सुऽमत्या। चोदयासे। ७६.८।

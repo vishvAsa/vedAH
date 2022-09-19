@@ -8,7 +8,6 @@ title = "०६ मात्रे नु"
 Thine are two measures, Indra, wide, well-meted, heaven for thy majesty, earth for thy wisdom. Here for thy choice are Somas mixed with butter: may the sweet meath be pleasant for thy drinking.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मात्रे इति। नु। ते। सुमिते इतिसुऽमिते। इन्द्र। पूर्वी इति। द्यौः। मज्मना। पृथिवी। काव्येन। वराय। ते। घृतऽवन्तः। सुतासः। स्वाद्मन्। भवन्तु। पीतये। मधूनि। ७६.६।

@@ -36,7 +36,6 @@ applicability to the situation there is none.
 Sing praise to him the chariot-borne, the famous, Sovran of men, the dread and strong destroyer. O Rudra, praised be gracious to the singer; let thy darts spare us and smite down another.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तुहि। श्रुतम्। गर्तऽसदम्। जनानाम्। राजानम्। भीमम्। उपऽहत्नुम्। उग्रम्। मृड। जरित्रे। रुद्र। स्तवानः। अन्यम्। अस्मत्। ते। नि। वपन्तु। सेन्यम्। १.४०।

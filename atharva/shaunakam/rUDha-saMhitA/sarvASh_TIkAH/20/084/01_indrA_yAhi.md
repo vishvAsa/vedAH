@@ -8,7 +8,6 @@ title = "०१ इन्द्रा याहि"
 O Indra marvellously bright, come, these libations long for thee, Thus by fine fingers purified.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। आ। याहि। चित्रभानो इति चित्रऽभानो। सुताः। इमे। त्वाऽयवः। अण्वीभिः। तना। पूतासः। ८४.१।

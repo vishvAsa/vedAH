@@ -31,7 +31,6 @@ to be translated.
 Here is one light for thee, another yonder: enter the third and be therewith united. Uniting with a body be thou lovely, dear to the Gods in their sublimest mansion.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। ते। एकम्। परः। ऊं इति। ते। एकम्। तृतीयेन। ज्योतिषा। सम्। विशस्व। सम्ऽवेशने। तन्वा। चारुः। एधि। प्रियः। देवानाम्। परमे। सधऽस्थे। ३.७।

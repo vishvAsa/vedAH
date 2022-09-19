@@ -8,7 +8,6 @@ title = "०३ तदद्या चित्त"
 This day to singers of the hymn praise, as of old, this, might of thine. Win thou the waters, day by day, thralls of the strong.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। अद्य। चित्। ते। उक्थिनः। अनु। स्तुवन्ति। पूर्वऽथा। वृषऽपत्नी। अपः। जय। दिवेऽदिवे। ६१.३।

@@ -8,7 +8,6 @@ title = "०४ यदा वज्रम्"
 When, with the Princes, Maghavan, famed of old, comes nigh the thunderbolt of gold and the Controller's car Which his two tawny coursers draw, then Indra is the Sovran Lord of power whose fame spreads far and wide.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यदा। वज्रम्। हिरण्यम्। इत्। अथ। रथम्। हरी इति। यम्। अस्य। वहतः। वि। सूरिऽभिः। आ। तिष्ठति। मघऽवा। सनऽश्रुतः। इन्द्रः। वाजस्य। दीर्घऽश्रवसः। पतिः। ७३.४।

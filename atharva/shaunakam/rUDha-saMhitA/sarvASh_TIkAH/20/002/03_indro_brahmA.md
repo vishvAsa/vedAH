@@ -8,7 +8,6 @@ title = "०३ इन्द्रो ब्रह्मा"
 Let Indra the Brahman from the Brahman's cup drink Trishtups, according to the season Soma from heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। ब्रह्मा। ब्राह्मणात्। सुऽस्तुभः। सुऽअर्कात्। ऋतुना। सोमम्। पिबतु। २.३।

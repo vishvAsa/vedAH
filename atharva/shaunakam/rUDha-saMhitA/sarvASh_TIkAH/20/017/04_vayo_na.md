@@ -8,7 +8,6 @@ title = "०४ वयो न"
 As on the fair-leafed tree rest birds, to Indra flow the gladden- ing Soma juices that the bowls contain. Their face that glows with splendour through their mighty power hath found the shine of heaven for man, the Aryas' light.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयः। न। वृक्षम्। सुऽपलाशम्। आ। असदन्। सोमासः। इन्द्रम्। मन्दिनः। चमूऽसदः। प्र। एषाम्। अनीकम्। शवसा। दविद्युतत्। विदत्। स्वः। मनवे। ज्योतिः। आर्यम्। १७.४।

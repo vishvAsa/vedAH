@@ -16,7 +16,6 @@ title = "०८ तस्य व्रात्यस्य"
 His sixth vital breath, called Dear, are these domestic animals.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। षष्ठः। प्राणः। प्रियः। नाम। ते। इमे। पशवः। १५.८।

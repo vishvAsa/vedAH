@@ -8,7 +8,6 @@ title = "०४ यज्ञैः सम्मिश्लाः"
 Busied with sacrifice, with spotted deer and spears, gleaming. upon your way with ornaments, yea, our friends, Sitting on sacred grass, ye sons of Bharata, drink Soma from the Potar's bowl, O Men of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यज्ञैः। सम्ऽमिश्लाः। पृषतीभिः। ऋष्टिऽभिः। यामन्। शुभ्रासः। अञ्जिषु। प्रियाः। उत। आऽसद्य। बर्हिः। भरतस्य। सूनवः। पोत्रात्। आ। सोमम्। पिबत। दिवः। नरः। ६७.४।

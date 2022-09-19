@@ -8,7 +8,6 @@ title = "०२ समोहे वा"
 Which aideth those to win them sons who come as heroes to the fight, Or singers loving holy thoughts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्ऽओहे। वा। ये। आशत। नरः। तोकस्य। सनितौ। विप्रासः। वा। धियाऽयवः। ७१.२।

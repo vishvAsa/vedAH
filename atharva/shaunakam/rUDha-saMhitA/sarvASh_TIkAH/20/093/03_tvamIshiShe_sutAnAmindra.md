@@ -8,7 +8,6 @@ title = "०३ त्वमीशिषे सुतानामिन्द्
 Thou art the Lord of Soma pressed, Soma unpressed is also thine, Thou art the Sovran of the folk.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। ईषिषे। सुतानाम्। इन्द्र। त्वम्। असुतानाम्। त्वम्। राजा। जनानाम्। ९३.३।

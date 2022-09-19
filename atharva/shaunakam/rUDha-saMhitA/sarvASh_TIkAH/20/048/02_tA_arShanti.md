@@ -8,7 +8,6 @@ title = "०२ ता अर्षन्ति"
 Swift move the bright ones while they blend the Milk with vital vigour, as A dame her infant with her heart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ताः। अर्षन्त‍ि। शुभ्रियः। पृञ्चन्तीः। वर्चसा। प्रियः। जातम्। जात्रीः। यथा। हृदा। ४८.२।

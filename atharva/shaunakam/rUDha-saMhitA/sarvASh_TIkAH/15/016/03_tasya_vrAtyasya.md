@@ -16,10 +16,9 @@ title = "०३ तस्य व्रात्यस्य"
 His third downward breath is the night of New Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। तृतीयः। अपानः। सा। अमाऽवास्या। १६.३।
+तस्य। व्रात्यस्य। यः। अस्य। तृतीयः। अपानः। सा। अमाऽवास्या᳡। १६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

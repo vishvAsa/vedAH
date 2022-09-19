@@ -27,7 +27,6 @@ majority of his authorities (with which our O.Op.R.T. agree).
 Unmarried men who toiled and have departed, the childless, having left their foes behind them, Have found on high the world whereto they mounted, reflecting on the ridge of vaulted heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। अग्रवः। शशमानाः। पराऽईयुः। हित्वा। द्वेषांसि। अनपत्यऽवन्तः। ते। द्याम्। उत्ऽइत्य। अविदन्त। लोकम्। नाकस्य। पृष्ठे। अधि। दीध्यानाः। २.४७।

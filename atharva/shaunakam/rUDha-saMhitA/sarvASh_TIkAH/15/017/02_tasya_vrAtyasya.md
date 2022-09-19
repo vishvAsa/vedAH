@@ -16,7 +16,6 @@ title = "०२ तस्य व्रात्यस्य"
 His second diffused breath is that Firmament.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। द्व‍ितीयः। विऽआनः। तत्। अन्तरिक्षम्। १७.२।

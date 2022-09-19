@@ -8,7 +8,6 @@ title = "०४ ऐभिरग्ने सरथम्"
 With these, borne on one car, Agni, approach us; or borne on many, for thy steeds are able. Bring, with their Dames, the Gods, the Three-and-Thirty, after thy Godlike nature, and he joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। एभिः। अग्ने। सऽरथम्। याहि। अर्वाङ्। नानाऽरथम्। वा। विऽभवः। हि। अश्वाः। पत्नीऽवतः। त्रिंशतम्। त्रीन्। च। देवान्। अनुऽस्वधम्। आ। वह। मादयस्व। १३.४।

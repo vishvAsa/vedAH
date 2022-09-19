@@ -26,7 +26,7 @@ I have delivered thee from Death. Strength-givers smelt and fashion thee! Let no
 
 <details open><summary>पदपाठः</summary>
 
-उत्। त्वा। मृत्योः। अपीपरम्। सम्। धमन्तु। वयःऽधसः। मा। त्वा। व्यस्तऽकेश्यः। मा। त्वा। अघऽरुदः। रुदन्। १.१९।
+उत्। त्वा। मृत्योः। अपीपरम्। सम्। धमन्तु। वयःऽधसः। मा। त्वा। व्यस्तऽकेश्यः᳡। मा। त्वा। अघऽरुदः। रुदन्। १.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

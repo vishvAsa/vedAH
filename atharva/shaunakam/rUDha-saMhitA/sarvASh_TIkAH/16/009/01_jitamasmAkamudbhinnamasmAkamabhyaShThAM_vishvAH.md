@@ -19,7 +19,6 @@ part, with vs. 2, is found in MS. i. 5. 3 (reading *abhy àsthām*).
 Ours is superior place and ours is conquest: may I in all fights tread down spite and malice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जितम्। अस्माकम्। उत्ऽभिन्नम्। अस्माकम्। अभि। अस्थाम्। विश्वाः। पृतनाः। अरातीः। ९.१।

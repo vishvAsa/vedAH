@@ -7,7 +7,6 @@ title = "०७२ परमात्मा"
 72. For the favor of the gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 परमात्मा।  
@@ -18,8 +17,6 @@ title = "०७२ परमात्मा"
 
 [Bhṛvan̄giras Brahman.—ekarcam. paramātmadāivatam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 320.
 
 A sacrificial formula
 </details>
+

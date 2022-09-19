@@ -8,7 +8,6 @@ title = "०३ ऊर्ध्वस्तिष्ठा न"
 Lord of a Hundred Powers, stand up to lend us succour in this fight: In others too let us agree.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्ध्वः। तिष्ठ। नः। ऊतये। अस्मिन्। वाजे। शतक्रतो। इति शतऽक्रतो। सम्। अन्येषु। ब्रवावहै। ४५.३।

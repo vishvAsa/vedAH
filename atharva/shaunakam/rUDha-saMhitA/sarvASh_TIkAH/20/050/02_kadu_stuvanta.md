@@ -8,7 +8,6 @@ title = "०२ कदु स्तुवन्त"
 When shall they keep the Law and praise thee mid the Gods? Who counts as Rishi and as sage? When wilt thou ever, Indra, Bounteous Lord, come nigh to presser's or to praiser's call?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कत्। ऊं इति। स्तुवन्तः। ऋतऽयन्त। देवता। ऋषिः। कः। विप्रः। ओह ते। कदा। हवम्। मघऽवन्। इन्द्र। सुन्वतः। कत्। ऊं इति। स्तुवतः। आ। गमः। ५०.२।

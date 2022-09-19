@@ -8,7 +8,6 @@ title = "०८ मधुमतीरोषधीर्द्याव आपो
 Sweet be the plants for us, the heavens, the waters, and full of sweets for us be air's mid-region! May the Field's Lord for us be full of sweetness, and may we follow after him uninjured.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मधुऽमतीः। ओषधीः। द्यावः। आपः। मधुऽमत्। नः। भवतु। अन्तरिक्षम्। क्षेत्रस्य। पतिः। मधुऽमानः। नः। अस्तु। अरिष्यन्तः। अनु। एनम्। चरेम। १४३.८।

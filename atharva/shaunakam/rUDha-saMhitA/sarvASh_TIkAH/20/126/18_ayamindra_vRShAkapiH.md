@@ -8,7 +8,6 @@ title = "१८ अयमिन्द्र वृषाकपिः"
 O Indra, this Vrishakapi hath found a slain wild animal, Dresser, and new-made pan, and knife, and wagon with a load of wood. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। इन्द्र। वृषाकपिः। परस्वन्तम्। हतम्। विदत्। असिम्। सूनाम्। नवम्। चरुम्। आत्। एधस्य। अनः। आऽचितम्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१८।

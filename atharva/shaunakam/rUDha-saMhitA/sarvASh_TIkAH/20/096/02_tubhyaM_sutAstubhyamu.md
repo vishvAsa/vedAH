@@ -8,7 +8,6 @@ title = "०२ तुभ्यं सुतास्तुभ्यमु"
 Thine is the juice effused, thine are the juices yet to be pressed: our resonant songs invite thee. O Indra, pleased to-day with this libation, come, thou who knowest all, and drink the Soma.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तुभ्यम्। सुताः। तुभ्यम्। ऊं इति। सोत्वासः। त्वाम्। गिरः। श्वात्र्याः। आ। ह्वयन्ति। इन्द्र। इदम्। अद्य। सवनम्। जुषाणः। विश्वस्य। विद्वान्। इह। पाहि। सोमम्। ९६.२।

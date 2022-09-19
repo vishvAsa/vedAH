@@ -30,7 +30,6 @@ it has not displaced an original *samyák táṁ*.⌋
 Happily from the rear burn this man, Agni, happily from before, above, and under. One, triply parted, Jatavedas, place him happily in the world that holds the righteous.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। अग्ने। पश्चात्। तप। शम्। पुरस्तात्। शम्। उत्तरात्। शम्। अधरात्। तप। एनम्। एकः। त्रेधा। व‍िऽहितः। जातऽवेदः। सम्यक्। एनम्। धेहि। सुऽकृताम्। ऊं इति। लोके। ४.११।

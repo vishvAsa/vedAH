@@ -7,7 +7,6 @@ title = "०४७ रात्रिः"
 47. To night: for protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
@@ -18,8 +17,6 @@ title = "०४७ रात्रिः"
 
 [Gopatha.—navakam. mantroktarātridevatyam. ānuṣṭubham: 1. pathyābṛhatī; 2. 5-p. anuṣṭubgarbhā parātijagatī; 6. purastādbṛhatī; 7. 3-av. 6-p. jagatī.]]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 467; Zimmer, p. 179; Griffith, ii. 303.
 
 A hymn to Night for protection from fiends, robbers, snakes and wolves
 </details>
+

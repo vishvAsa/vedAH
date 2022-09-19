@@ -8,7 +8,6 @@ title = "०६ त्वमिन्द्राभिभूरसि त्व
 Thou, Indra, art preeminent: thou gavest splendour to the Sun. Maker of all things, thou art mighty and All-God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। अभिऽभूः। असि। त्वम्। सूर्यम्। अरोचयः। विश्वऽकर्मा। विश्वऽदेवः। महान्। असि। ६२.६।

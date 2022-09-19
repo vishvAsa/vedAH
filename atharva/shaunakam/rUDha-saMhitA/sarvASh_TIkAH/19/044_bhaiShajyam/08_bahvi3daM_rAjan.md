@@ -25,7 +25,6 @@ mss. ⌊save W's I.⌋, as here, ought not to count. Ppp. reads in **b**
 Full many a falsehood, O thou King Varuna, man hath uttered here: Do thou who hast a thousand powers preserve us from that misery.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 

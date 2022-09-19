@@ -8,7 +8,6 @@ title = "०४ हरिक्निके किमिच्छसि"
 One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरिक्निके। क‍िम्। इच्छस‍ि। १२९.४।

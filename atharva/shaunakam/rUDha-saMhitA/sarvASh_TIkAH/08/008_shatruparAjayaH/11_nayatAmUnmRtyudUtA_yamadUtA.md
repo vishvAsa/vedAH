@@ -22,7 +22,7 @@ Bear them away, Death's messengers! envoys of Yama! bind them fast. More than a 
 
 <details open><summary>पदपाठः</summary>
 
-नयत। अमून्। मृत्युऽदूताः। यमऽदूताः। अप। उम्भत। परःऽसहस्राः। हन्यन्ताम्। तृणेढु। एनान्। मत्यम्। भवस्य। ८.११।
+नयत। अमून्। मृत्युऽदूताः। यमऽदूताः। अप। उम्भत। परःऽसहस्राः। हन्यन्ताम्। तृणेढु। एनान्। मत्य᳡म्। भवस्य। ८.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

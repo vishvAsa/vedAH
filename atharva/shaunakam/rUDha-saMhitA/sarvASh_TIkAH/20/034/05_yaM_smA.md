@@ -8,7 +8,6 @@ title = "०५ यं स्मा"
 Of whom, the terrible, they ask, Where is He? or verily they say of him, He is not. He wastes the foeman's wealth like stakes of gamblers. Have faith in him for He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। स्म। पृच्छन्ति। कुह। सः। इति। घोरम्। उत। ईम्। आहुः। न। एषः। अस्ति। इति। एनम्। सः। अर्यः। पुष्टीः। विजःऽइव। आ। मिनाति। श्रत्। अस्मै। धत्त। सः। जनासः। इन्द्रः। ३३.५।

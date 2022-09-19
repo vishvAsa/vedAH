@@ -26,7 +26,6 @@ text.
 From that great general sacrifice Richas and Sama hymns were born; Therefrom the metres were produced: the Yajus had its birth from it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मात्। यज्ञात्। सर्वऽहुतः। ऋचः। सामानि। जज्ञिरे। छन्दः। ह। जज्ञिरे। तस्मात्। यजुः। तस्मात्। अजायत। ६.१३।

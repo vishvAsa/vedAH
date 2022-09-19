@@ -8,7 +8,6 @@ title = "०२ आ त्वा"
 O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give ear and listen to our prayers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। त्वा। ब्रह्मऽयुजा। हरी इति। वहताम्। इन्द्र। केशिना। उप। ब्रह्माणि। नः। शृणु। ३८.२।

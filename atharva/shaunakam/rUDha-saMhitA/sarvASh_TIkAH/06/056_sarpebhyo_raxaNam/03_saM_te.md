@@ -25,7 +25,7 @@ I close together fangs with fang, I close together jaws with jaw. I close togeth
 
 <details open><summary>पदपाठः</summary>
 
-सम्। ते। हन्मि। दता। दतः। सम्। ऊं इति। ते। हन्वा। हनू इति। सम्। ते। जिह्वया। जिह्वाम्। सम्। ऊं इति। आस्ना। अहे। आस्यम्। ५६.३।
+सम्। ते। हन्मि। दता। दतः। सम्। ऊं इति। ते। हन्वा। हनू इति। सम्। ते। जिह्वया। जिह्वाम्। सम्। ऊं इति। आस्ना। अहे। आस्य᳡म्। ५६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

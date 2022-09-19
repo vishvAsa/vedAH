@@ -8,7 +8,6 @@ title = "०६ मुञ्चामि त्वा"
 For life I set thee free by this oblation from the unknown decline and from consumption; Or, if the grasping demon have possessed him, free him from her, O Indra, thou and Agni.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मुञ्चामि। त्वा। हविषा। जीवनाय। कम्। अज्ञातयक्ष्मात्। उत। राजऽयक्ष्मात्। ग्राहिः। जग्राह। यदि। एतत्। एनम्। तस्याः। इन्द्रग्नी इति। प्र। मुमुक्तम्। एनम्। ९६.६।

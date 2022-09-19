@@ -8,7 +8,6 @@ title = "०४ यदापीतासो अंशवो"
 When yellow stalks give forth the juice as cows from udders pour their milk, And voices sound the song of praise, the Asvins' worshippers show first.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। आऽपीतासः। अंशवः। गावः। न। दुह्रे। ऊधऽभिः। यत्। वा। वाणीः। अनूषत। प्र। देवऽयन्तः। अश्विना। १४२.४।

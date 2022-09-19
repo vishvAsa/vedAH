@@ -8,7 +8,6 @@ title = "०२ उद् गा"
 Showing the hidden he draye forth the cows for the Angirases, And Vala he cast headlong down.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। गाः। आजत्। अङ्गिरःऽभ्यः। आविः। कृण्वन्। गुहा। सतीः। अर्वाञ्चम्। नुनुदे। वलम्। २८.२।

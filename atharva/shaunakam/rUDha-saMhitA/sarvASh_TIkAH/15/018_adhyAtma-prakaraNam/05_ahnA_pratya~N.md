@@ -21,7 +21,6 @@ For the summations of *avasānarcas* (questionable), see p. 771.⌋
 By day the Vratya is turned westward, by night he is turned eastward. Worship to the Vratya!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अह्ना। प्रत्यङ्। व्रात्यः। रात्र्या। प्राङ्। नमः। व्रात्याय। १८.५।

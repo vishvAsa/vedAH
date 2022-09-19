@@ -8,7 +8,6 @@ title = "१२ इह गावः"
 Here, cows! increase and multiply, here ye, O horses, here, O men. Here, with a thousand rich rewards, doth Pushan also seat him- self.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। गावः। प्रजायध्वम्। इह। अश्वाः। इह। पूरुषाः। इहो। सहस्रदक्षिणः। अपि। पूषा। नि। सीदति। १२७.१२।

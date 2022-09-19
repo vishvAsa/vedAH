@@ -8,7 +8,6 @@ title = "०२ आ घा"
 If he will hear us let him come with succour of a thousand kinds, And all that strengthens, to our call.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। घ। गमत्। यदि। अवत्। सहस्रिणीभिः। ऊतिभिः। वाजेभिः। उप। नः। हवम्। २६.२।

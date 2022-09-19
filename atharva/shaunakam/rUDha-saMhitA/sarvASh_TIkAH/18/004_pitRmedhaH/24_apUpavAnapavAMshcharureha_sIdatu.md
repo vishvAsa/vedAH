@@ -23,7 +23,6 @@ cf. ¶3 of the notes to vs. 16.⌋
 Here, mixt with cake and water rest the Charu! World-makers, makers of the path, we worship those Gods of you who here partake oblations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपूपऽवान्। अपऽवान्। चरुः। आ। इह। सीदतु। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ४.२४।

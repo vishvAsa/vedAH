@@ -18,7 +18,6 @@ rich in heroes, conquer all scorners \[and\] evil plotters.
 From his dead hand I take the staff he carried, together with his lore and strength and splendour. There art thou, there; and here with good men round us may we o'ercome all enemies and foemen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दण्डम्। हस्तात्। आऽददानः। गतऽअसोः। सह। श्रोत्रेण। वर्चसा। बलेन। अत्र। एव। त्वम्। इह। वयम्। सुऽवीराः। विश्वाः। मृधः। अभिऽमातीः। जयेम। २.५९।

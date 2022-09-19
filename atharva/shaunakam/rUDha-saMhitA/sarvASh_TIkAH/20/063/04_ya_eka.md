@@ -8,7 +8,6 @@ title = "०४ य एक"
 He who alone bestoweth might on mortal man who offereth gifts, The ruler of resistless power, is Indra, sure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। एकः। इत्। विऽदयते। वसु। मर्ताय। दाशुषे। ईशानः। अप्रतिऽस्कुतः। इन्द्रः। अङ्ग। ६३.४।

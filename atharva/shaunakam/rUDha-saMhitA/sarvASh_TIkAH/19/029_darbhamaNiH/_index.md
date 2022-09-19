@@ -7,7 +7,6 @@ title = "०२९ दर्भमणिः"
 29. Continuation of the foregoing.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
@@ -18,8 +17,6 @@ title = "०२९ दर्भमणिः"
 
 [As 28. navakam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 286.
 
 A charm for the destruction of enemies, continued from 28
 </details>
+

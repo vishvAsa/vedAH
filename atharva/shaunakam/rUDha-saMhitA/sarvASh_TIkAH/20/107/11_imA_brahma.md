@@ -8,7 +8,6 @@ title = "११ इमा ब्रह्म"
 Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this strength to Indra. He rules the great self-luminous fold of cattle, and all the doors of light hath he thrown open.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमा। ब्रह्म। बृहत्ऽदिवः। कृणवत्। इन्द्राय। शूषम्। अग्नियः। स्वःऽसाः। महः। गोत्रस्य। क्षयति। स्वऽराजा। तुरः। चित्। विश्वम्। अर्णवत्। तपस्वान्। १०७.११।

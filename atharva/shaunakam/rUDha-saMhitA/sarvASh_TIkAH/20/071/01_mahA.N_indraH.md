@@ -8,7 +8,6 @@ title = "०१ महाँ इन्द्रः"
 Mighty is Indra, yea, supreme; greatness becomes the Thunderer! Wide as the heaven extends his power;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। इन्द्रः। परः। च। नु। महिऽत्वम्। अस्तु। वज्रिणे। द्यौः। न। प्रथिना। शवः। ७१.१।

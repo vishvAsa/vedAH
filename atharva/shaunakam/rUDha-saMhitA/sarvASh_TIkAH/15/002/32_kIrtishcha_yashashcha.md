@@ -10,7 +10,6 @@ the two forerunners: to him cometh fame, cometh glory, who knoweth
 thus.⌋
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कीर्तिः। च। यशः। च। पुरःऽसरौ। आ। एनम्। कीर्तिः। गच्छति। आ। यशः। गच्छति। यः। एवम्। वेद। २.२८।

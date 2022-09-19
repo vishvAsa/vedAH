@@ -8,7 +8,6 @@ title = "०६ वावृधानस्य ते"
 Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all treasures for thine own.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ववृधानस्य। ते। वयम्। विश्वा। धनानि। जिग्युषः। ऊतिम्। इन्द्र। आ। वृणीमहे। २७.६।

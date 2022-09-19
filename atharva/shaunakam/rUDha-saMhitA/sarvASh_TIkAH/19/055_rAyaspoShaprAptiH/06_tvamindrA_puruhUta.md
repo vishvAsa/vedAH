@@ -41,7 +41,6 @@ None of the mss. have the second half-verse; it was added because it seemed call
 Protect my company, protect its courteous members, courteous. God! Only through thee, O much-invoked, may I be ever rich in kine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। पुरुऽहूत। विश्वम्। आयुः। वि। अश्नवत्। अहःऽअहः। बलिम्। इत्। ते। हरन्तः। अश्वायऽइव। तिष्ठते। घासम्। अग्ने। ५५.६।

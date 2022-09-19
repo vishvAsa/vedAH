@@ -8,7 +8,6 @@ title = "०३ यो न"
 Him who of old hath brought to us this and that blessing, him I magnify for you, Even Indra, O my friends, for help:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। नः। इदम्ऽइदम्। पुरा। प्र। वस्यः। आऽनिनाय। तम्। ऊं इति। वः। स्तुषे। सखायः। इन्द्रम्। ऊतये। १४.३।

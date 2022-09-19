@@ -8,7 +8,6 @@ title = "०१ इन्द्र त्रिधातु"
 O Indra, grant a happy home, a triple refuge, triply strong. Bestow a dwelling-place on the rich lords and me, and keep thy dart afar from these.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। त्रिऽधातु। शरणम्। त्रिऽवरूथम्। स्वस्तिऽमत्। छर्दिः। यच्छ। मघवत्ऽभ्यः। च। मह्यम्। च। यवय। दिद्युम्। एभ्यः। ८३.१।

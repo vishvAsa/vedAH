@@ -8,7 +8,6 @@ title = "०२ ओजस्तदस्य तित्विष"
 This power of his shone brightly forth when Indra brought to- gether like A skin the worlds of earth and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ओजः। तत्। अस्य। तित्विषे। उभे इति। यत्। सम्ऽअवर्तयत्। इन्द्रः। चर्मऽइव। रोदसी इति। १०७.२।

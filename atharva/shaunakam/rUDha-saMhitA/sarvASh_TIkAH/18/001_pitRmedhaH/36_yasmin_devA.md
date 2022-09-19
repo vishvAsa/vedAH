@@ -20,10 +20,9 @@ by *mantavye sthāne varuṇākhye*.
 The counsel which the Gods meet to consider, their secret plan, of that we have no knowledge. There let God Savitar, Aditi, and Mitra proclaim to Varuna that we are sinless.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यस्मिन्। देवाः। मन्मनि। सम्ऽचरन्ति। अपीच्ये। न। वयम्। अस्य। विद्म। मित्रः। नः। अत्र। अदितिः। अनागान्। सविता। देवः। वरुणाय। वोचत्। १.३६।
+यस्मिन्। देवाः। मन्मनि। सम्ऽचरन्ति। अपीच्ये᳡। न। वयम्। अस्य। विद्म। मित्रः। नः। अत्र। अदितिः। अनागान्। सविता। देवः। वरुणाय। वोचत्। १.३६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

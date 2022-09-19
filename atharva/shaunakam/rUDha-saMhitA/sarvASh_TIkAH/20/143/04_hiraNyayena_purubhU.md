@@ -8,7 +8,6 @@ title = "०४ हिरण्ययेन पुरुभू"
 Borne on your golden car, ye omnipresent! come to this sacrifice of ours, Nasatyas. Drink of the pleasant liquor of the Soma: give riches to the people who adore you.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हिरण्ययेन। पुरुभू इति पुरुऽभू। रथेन। इमम्। यज्ञम्। नासत्या। उप। यातम्। पिबाथः। इत्। मधुनः। सोम्यस्य। दधथः। रत्नम्। विधते। जनाय। १४३.४।

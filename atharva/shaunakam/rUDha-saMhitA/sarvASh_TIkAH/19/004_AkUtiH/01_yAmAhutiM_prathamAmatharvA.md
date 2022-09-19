@@ -37,7 +37,6 @@ match that emendation.
 The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Even this I, foremost, with repeated worship, now offer unto thee. May Agni carry the sacrificer's present. Hail to Agni!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याम्। आऽहुतिम्। प्रथमाम्। अथर्वा। या। जाता। या। हव्यम्। अकृणोत्। जातऽवेदाः। ताम्। ते। एताम्। प्रथमः। जोहवीमि। ताभिः। स्तुप्तः। वहतु। हव्यम्। अग्निः। अग्नये। स्वाहा। ४.१।

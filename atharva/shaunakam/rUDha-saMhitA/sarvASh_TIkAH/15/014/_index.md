@@ -7,7 +7,6 @@ title = "०१४ "
 14. Paryāya the fourteenth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-२४ अथर्वा। अध्यात्मं, व्रात्यः। १ त्रिपदा अनुष्टुप्, २, ४, ६, ८, १०, १२, १४, १६, १८, २०, २२, २४  
@@ -20,8 +19,6 @@ title = "०१४ "
 
 [catvāri vinśatiś ca ⌊sc. vacanāni⌋. 1 a. 3-p. anuṣṭubh; b of 1-12. 2-p. āsurī gāyatrī (b of 6-9. bhurik prājāpatyā ’nuṣṭubh); 2 a, 5 a. purāuṣṇih; 3 a. anuṣṭubh; 4 a. prastārapan̄kti; 6 a. svarāḍ gāyatrī; 7 a, 8 a. ārcī pan̄kti; 10 a. bhurin̄ nāgī gāyatrī; 11 a. prājāpatyā triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -37,3 +34,4 @@ Translated: Aufrecht, Ind. Siud. i. 136; Griffith, ii. 195.
 
 Vratya
 </details>
+

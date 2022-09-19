@@ -7,7 +7,6 @@ title = "००१ यशः"
 1. With an oblation for confluence.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यशः।  
@@ -18,8 +17,6 @@ title = "००१ यशः"
 
 [Brahman.—⌊tṛcam.⌋ yājñikam; cāndramasam. ānuṣṭubham: 1, 2. pathyābṛhatyāu; 3. pan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 259.
 
 An accompaniment to the offering of a Mixt Oblation
 </details>
+

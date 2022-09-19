@@ -8,7 +8,6 @@ title = "१७ न सेशे"
 Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extendit: fortis vero est ille cujus mentula laxe inter femora dependet. Super omnia est Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। सः। ईशे। यस्य। रोमशम्। निऽसेदुषः। विऽजृम्भते। सः। इत्। ईशे। यस्य। रम्बते। अन्तरा। सक्थ्यो। कपृत्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१७।

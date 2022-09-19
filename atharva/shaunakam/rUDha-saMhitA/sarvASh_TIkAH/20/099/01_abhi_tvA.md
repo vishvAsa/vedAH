@@ -8,7 +8,6 @@ title = "०१ अभि त्वा"
 Men with their lauds are urging thee, Indra, to drink the Soma first. The Ribhus in accord have lifted up their voice and Rudras. sung thee as the First.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। त्वा। पूर्वऽपीतये। इन्द्र। स्तोमेभिः। आयवः। सम्ऽईचीनासः। ऋभवः। सम्। अस्वरन्। रुद्राः। गृणन्त। पूर्व्यम्। ९९.१।

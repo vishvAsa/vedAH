@@ -23,7 +23,6 @@ has *me ’mám* for *mā́ mā́m*⌋.
 Let not inward breath desert me; let not outward breath depart and leave me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। माम्। प्राणः। हासीत्। मो इति। अपानः। अवऽहाय। परा। गात्। ४.३।

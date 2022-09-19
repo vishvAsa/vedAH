@@ -8,7 +8,6 @@ title = "०४ त्वां जना"
 Standing, in battle for their rights, together, the people, Indra, in the fray invoke thee. Him who brings gifts the Hero makes his comrade: with him who pours no juice he seeks not friendship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। जनाः। ममऽसत्येषु। इन्द्र। सम्ऽतस्थानाः। वि। ह्वयन्ते। सम्ऽईके। अत्र। युजम्। कृणुते। यः। हविष्मान्। न। असुन्वत। सख्यम्। वष्टि। शूरः। ८९.४।

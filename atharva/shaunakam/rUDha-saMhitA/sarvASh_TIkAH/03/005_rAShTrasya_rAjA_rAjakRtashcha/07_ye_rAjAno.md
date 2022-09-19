@@ -32,7 +32,7 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 
 <details open><summary>पदपाठः</summary>
 
-ये। राजानः। राजऽकृतः। सूताः। ग्रामण्याः। च। ये। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.७।
+ये। राजानः। राजऽकृतः। सूताः। ग्रामण्याः᳡। च। ये। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

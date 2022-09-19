@@ -8,7 +8,6 @@ title = "१० यो रायो३ऽवनिर्महान्त्स
 To him the mighty stream of wealth, prompt Friend of him who pours the juice, Yea, to this Indra sing your song.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। रायः। अवनिः। महान्। सुऽपारः। सुन्वतः। सखा। तस्मै। इन्द्राय। गायत। ६८.१०।

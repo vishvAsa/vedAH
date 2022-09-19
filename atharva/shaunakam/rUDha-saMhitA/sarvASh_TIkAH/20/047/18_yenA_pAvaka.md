@@ -8,7 +8,6 @@ title = "१८ येना पावक"
 Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active one throughout mankind.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। पावक। चक्षसा। भुरण्यन्तम्। जनान्। अनु। त्वम्। वरुण। पश्यसि। १७.१८।

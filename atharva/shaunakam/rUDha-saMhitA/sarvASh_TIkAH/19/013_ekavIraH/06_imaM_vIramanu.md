@@ -25,7 +25,6 @@ redundant by two syllables. ⌊Ppp. reads *satvānas* for *sakhāyas* in
 Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with might destroys it, Follow him, comrades! quit yourselves like heroes, and like this Indra show your zeal and courage.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। वीरम्। अनु। हर्षध्वम्। उग्रम्। इन्द्रम्। सखायः। अनु। सम्। रभध्वम्। ग्रामऽजितम्। गोऽजितम्। वज्रऽबाहुम्। जयन्तम्। अज्म। प्रऽमृणन्तम्। ओजसा। १३.६।

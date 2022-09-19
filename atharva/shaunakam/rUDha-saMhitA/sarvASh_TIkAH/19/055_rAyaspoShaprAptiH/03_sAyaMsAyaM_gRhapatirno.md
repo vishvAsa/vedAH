@@ -23,10 +23,9 @@ fourth pāda is v. 3. 1 **b** etc. (see under that verse). ⌊Cf. vs. 4.⌋
 Each eve that comes our household's Lord is Agni, showing his. loving-kindness every morning. Bestow upon us treasure after treasure: enkindling thee may we increase thy body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-सायम्ऽसायम्। गृहऽपतिः। नः। अग्निः। प्रातःऽप्रातः। सौमनसस्य। दाता। वसोःऽवसोः। वसुऽदानः। एधि। वयम्। त्वा। इन्धानाः। तन्वम्। पुषेम। ५५.३।
+सायम्ऽसायम्। गृहऽपतिः। नः। अग्निः। प्रातःऽप्रातः। सौमनसस्य। दाता। वसोःऽवसोः। वसुऽदानः। एधि। वयम्। त्वा। इन्धानाः। तन्व᳡म्। पुषेम। ५५.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

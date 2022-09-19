@@ -8,7 +8,6 @@ title = "०२ न त्वावाँ"
 Send forth thy ray like Surya: let my songs attract thee hither- ward. Like waters gathering to the vale.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। त्वाऽवान्। अन्यः। दिव्यः। न। पार्थिवः। न। जातः। न। जनिष्यते। अश्वऽयन्तः। मघऽवन्। इन्द्र। वाजिनः। गव्यन्तः। त्वा। हवामहे। १२१.२।

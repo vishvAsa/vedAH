@@ -8,7 +8,6 @@ title = "०५ मतयः सोमपामुरुम्"
 Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra, as mother-cows their calf.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मतयः। सोमऽपाम्। उरुम्। रिहन्ति। शवसः। पतिम्। इन्द्रम्। वत्सम्। न। मातरः। २३.५।

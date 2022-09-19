@@ -20,7 +20,6 @@ accurate.
 Toward the upmost region I supply thee, before thou goest homeward, with oblation, as in her arms Earth bears the heaven above us. Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्ध्वायाम्। त्वा। दिश‍ि। पुरा। सम्ऽवृतः। स्वधायाम्। आ। दधामि। बाहुऽच्युता। पृथिवी। द्याम्ऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.३५।

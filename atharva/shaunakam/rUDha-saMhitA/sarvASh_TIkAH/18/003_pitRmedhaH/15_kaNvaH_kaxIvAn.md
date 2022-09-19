@@ -19,7 +19,6 @@ only passing over Agastya and Sobharī as "evident" (*prasiddha*).
 Kanva, Kakshivan, Purumidha, Agastya, Syavasva Sobhari, and Archananas, This Visvamitra, Jamadagni, Atri, Kasyapa, Vamadeva be our helpers!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कण्वः। कक्षीवान्। पुरुऽमीढः। अगस्त्यः। श्यावऽअश्वः। सोभरी। अर्चनानाः। विश्वामित्रः। अयम्। जमत्ऽअग्निः। अत्रिः। अवन्तु। नः। कश्यपः। वामऽदेवः। ३.१५।

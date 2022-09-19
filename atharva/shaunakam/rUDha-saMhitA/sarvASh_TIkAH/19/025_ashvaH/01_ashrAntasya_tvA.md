@@ -28,7 +28,6 @@ accent-mark fallen out).
 I yoke thee with the mind of one unwearied still and first of all. Be thou a bearer up the hill: run hither bearing up thy load.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्रान्तस्य। त्वा। मनसा। युनज्म‍ि। प्रथमस्य। च। उत्ऽकूलम्। उत्ऽवहः। भव। उत्ऽउह्य। प्रति। धावतात्। २५.१।

@@ -8,7 +8,6 @@ title = "०२ अगोरुधाय गविषे"
 To him who wins the kine, who keeps no cattle back, celestial God, Speak wondrous speech more sweet than butter and than mead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अगोऽरुधाय। गोऽइषे। द्युक्षाय। दस्म्यम्। वचः। घृतात्। स्वादीयः। मधुनः। च। वोचत। ६५.२।

@@ -23,7 +23,6 @@ it substitutes *násor* for *śrótrad*.⌋
 The Moon was gendered from his mind, and from his eye the Sun had birth. Indra and Agni from his mouth were born and Vayu from his breath.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चन्द्रमाः। मनसः। जातः। चक्षोः। सूर्यः। अजायत। मुखात्। इन्द्रः। च। अग्निः। च। प्राणात्। वायुः। अजायत। ६.७।

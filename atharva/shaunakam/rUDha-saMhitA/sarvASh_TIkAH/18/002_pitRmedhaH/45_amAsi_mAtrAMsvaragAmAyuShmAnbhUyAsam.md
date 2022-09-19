@@ -20,7 +20,6 @@ follows the process of measurement (Kāuś. 85. 17).
 The period I have measured--come to heaven. I would my life were long Not to be measured out again; a hundred autumns, not before.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अमासि। मात्राम्। स्वः। अगाम्। आयुष्मान्। भूयासम्। यथा। अपरम्। न। मासातै। शते। शरत्ऽसु। नो इति। पुरा। २.४५।

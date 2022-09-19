@@ -35,7 +35,6 @@ reads *yadi kim* three times.
 Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever fastens on a joint, therefrom do thou protect us, Night.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। किम्। च। इदम्। पतयति। यत्। किम्। च। इदम्। सरीसृपम्। यत्। किम्। च। पर्वताय। असत्वम्। तस्मात्। त्वम्। रात्रि। पाहि। नः। ४८.३।

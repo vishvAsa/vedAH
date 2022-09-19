@@ -8,7 +8,6 @@ title = "०३ प्र वो"
 Bring to the Wise, the Great who waxeth mighty your offerings and make ready your devotion: To many clans he goeth, man's Controller.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। वः। महे। महिऽवृधे। भरध्वम्। प्रऽचेतसे। प्र। सुमतिम्। कृणुध्वम्। विशः। पूर्वीः। प्र। चर। चर्षणिः। प्राः। ७३.३।

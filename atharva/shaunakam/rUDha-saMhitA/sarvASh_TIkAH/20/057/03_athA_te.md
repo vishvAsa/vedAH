@@ -8,7 +8,6 @@ title = "०३ अथा ते"
 So may we be acquainted with thine innermost benevolence: Neglect us not, come hitherward.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अथ। ते। अन्तमानाम्। विद्याम। सुऽमतीनाम्। मा। नः। अति। ख्यः। आ। गहि। ५७.३।

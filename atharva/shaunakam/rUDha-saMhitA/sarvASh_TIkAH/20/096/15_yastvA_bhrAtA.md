@@ -8,7 +8,6 @@ title = "१५ यस्त्वा भ्राता"
 What rests by thee in borrowed form of brother, lover, or of lord, And would destroyed the progeny,--even this will we exter- minate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। त्वा। भ्राता। पतिः। भूत्वा। जारः। भूत्वा। निपद्यते। प्रऽजाम्। यः। ते। जिघांसति। तम्। इतः। नाशयामसि। ९६.१५।

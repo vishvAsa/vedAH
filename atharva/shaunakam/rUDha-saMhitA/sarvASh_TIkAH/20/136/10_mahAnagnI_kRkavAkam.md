@@ -8,7 +8,6 @@ title = "१० महानग्नी कृकवाकम्"
 Arnica cum fuste gallum circumcurrit. Nos nescimus quae bestia pudendum muliebre in capite gerat.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इति। कृकवाकम्। शम्यया। परि। धावति। अयम्। न। विद्म। यः। मृगः। शीर्ष्णा। हरति। धाणिकम्। १३६.१०।

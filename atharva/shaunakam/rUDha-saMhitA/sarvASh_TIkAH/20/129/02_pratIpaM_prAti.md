@@ -8,7 +8,6 @@ title = "०२ प्रतीपं प्राति"
 These mares come springing forward to Pratipa Pratisutvana. (with previous verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रतीपम्। प्राति। सुत्वनम्। १२९.२।

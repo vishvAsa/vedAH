@@ -30,7 +30,6 @@ heaven with earth." ⌊Cf. Weber, *Sb.*, p. 823.⌋
 May Surya's eye with days and nights endow him, and ever may his light spread out before him. In heaven and earth the kindred pair commingle. On Yami be the unbrotherly act of Yama.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रात्रीभिः। अस्मै। अहऽभिः। दशस्येत्। सूर्यस्य। चक्षुः। मुहुः। उत्। मिमीयात्। दिवा। पृथिव्या। मिथुना। सबन्धू इति सऽबन्धू। यमीः। यमस्य। विवृहात्। अजामि। १.१०।

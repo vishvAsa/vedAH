@@ -8,7 +8,6 @@ title = "०९ मत्स्वा सुशिप्र"
 O Lord of all men, fair of cheek, rejoice thee in the gladdening buds, Present at these drink-offerings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मत्स्व। सुऽशिप्र‍। मन्दिऽभिः। स्तोमेभिः। विश्वऽचर्षणे। सचा। एषु। सवनेषु। आ। ७१.९।

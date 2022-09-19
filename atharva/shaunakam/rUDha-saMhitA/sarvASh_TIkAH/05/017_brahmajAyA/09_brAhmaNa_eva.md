@@ -23,7 +23,7 @@ Not Vaisya, not Rajanya, no, the Brahman is indeed her lord: This Surya in his c
 
 <details open><summary>पदपाठः</summary>
 
-ब्राह्मणः। एव। पतिः। न। राजन्यः। न। वैश्यः। तत्। सूर्यः। प्रऽब्रुवन्। एति। पञ्चऽभ्यः। मानवेभ्यः। १७.९।
+ब्राह्मणः। एव। पतिः। न। राजन्यः᳡। न। वैश्यः। तत्। सूर्यः। प्रऽब्रुवन्। एति। पञ्चऽभ्यः। मानवेभ्यः। १७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

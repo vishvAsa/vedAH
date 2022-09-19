@@ -15,10 +15,9 @@ title = "०७ माश्वानां भद्रे"
 Let not the thief, O Blessed, seize our horses, nor she-fiends our men. Let thief and robber run away on pathways most remote from us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-मा। अश्वानाम्। भद्रे। तस्करः। मा। नृणाम्। यातुऽधान्यः। परमेभिः। पथिऽभिः। स्तेनः। धावतु। तस्करः। परेण। दत्वती। रज्जुः। परेण। अघऽयुः। अर्षतु। ४७.७।
+मा। अश्वानाम्। भद्रे। तस्करः। मा। नृणाम्। यातुऽधान्यः᳡। परमेभिः। पथिऽभिः। स्तेनः। धावतु। तस्करः। परेण। दत्वती। रज्जुः। परेण। अघऽयुः। अर्षतु। ४७.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

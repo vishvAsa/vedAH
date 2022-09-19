@@ -17,7 +17,6 @@ him I etc. etc.
 May Soma from the south, with Rudras, guard me. To him, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। मा। रुद्रैः। दक्षिणायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.३।

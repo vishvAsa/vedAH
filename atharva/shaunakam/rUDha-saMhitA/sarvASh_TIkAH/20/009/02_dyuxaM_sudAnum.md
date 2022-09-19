@@ -8,7 +8,6 @@ title = "०२ द्युक्षं सुदानुम्"
 Celestial, bounteous Giver, girt about with might, rich, moun- tain-like, in precious things Him swift we seek for foodful booty rich in kine, brought hundredfold and thousandfold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्युक्षम्। सुऽदानुम्। तविषीभिः। आऽवृतम्। गिरिम्। न। पुरुऽभोजसम्। क्षुऽमन्तम्। वाजम्। शतिनम्। सहस्रिणम्। मक्षु। गोऽमन्तम्। ईमहे। ९.२।

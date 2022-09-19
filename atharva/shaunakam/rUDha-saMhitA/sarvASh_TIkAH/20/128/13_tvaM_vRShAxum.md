@@ -8,7 +8,6 @@ title = "१३ त्वं वृषाक्षुम्"
 Easily conquering Maghavan, thou, Hero, bentest Raji down, Rentest asunder Rauhina, calvest in pieces Vritra's head.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। वृषा। अक्षुम्। मघवन्। नम्रम्। मर्य। आकरः। रविः। त्वम्। रौहिणम्। व्यास्यः। वि। वृत्रस्य। अभिनत्। शिरः। १२८.१३।

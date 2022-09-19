@@ -17,7 +17,6 @@ is terrible, this is that.
 Your Agni who entered into the waters, even he here is that very dread of yours.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। वः। आपः। अग्निः। आऽविवेश। सः। एषः। यत्। वः। घोरम्। तत्। एतत्। १.८।

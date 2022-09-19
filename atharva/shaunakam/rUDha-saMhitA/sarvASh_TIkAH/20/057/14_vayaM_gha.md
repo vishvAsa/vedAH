@@ -8,7 +8,6 @@ title = "१४ वयं घ"
 We compass thee like waters, we whose grass in trimmed and Soma pressed. Here where the filter pours its stream thy worshippers round thee, O Vritra-slayer, sit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। घ। त्वा। सुतऽवन्तः। आपः। न। वृक्तऽबर्ह‍िषः। पवित्रस्य। प्रऽस्रवणेषु। वृत्रऽहन्। परि। स्तोतारः। आसते। ५७.१४।

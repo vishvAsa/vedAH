@@ -22,7 +22,7 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 
 <details open><summary>पदपाठः</summary>
 
-शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मनः। वातम्। धूमःऽइव। सध्र्यङ्। माम्। एव। अनु। एतु। ते। मनः। ८९.२।
+शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मनः। वातम्। धूमःऽइव। सध्र्य᳡ङ्। माम्। एव। अनु। एतु। ते। मनः। ८९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

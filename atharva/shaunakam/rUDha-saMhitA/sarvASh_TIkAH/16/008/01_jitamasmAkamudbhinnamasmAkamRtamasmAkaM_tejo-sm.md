@@ -29,10 +29,9 @@ note to xv. 5. 7⌋.
 Whatever we have gained, whatever hath accrued to us, our Right, our energy, our Devotion, our heavenly light, our sacrifice, our domestic animals, our offspring, our men,--from all share herein we exclude Such-an-one, descendant of Such- an-one, son of Such-a-woman. Let him not be freed from the noose of Grahi. Here I bind up his splendour, his energy, his vital breath, his life, and cast him down beneath me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-जितम्। अस्माकम्। उत्ऽभिन्नम्। अस्माकम्। ऋतम्। अस्माकम्। तेजः। अस्माकम्। ब्रह्म। अस्माकम्। स्वः। अस्माकम्। यज्ञः। अस्माकम्। पशवः। अस्माकम्। प्रऽजाः। अस्माकम्। वीराः। अस्माकम्। ८.१।
+जितम्। अस्माकम्। उत्ऽभिन्नम्। अस्माकम्। ऋतम्। अस्माकम्। तेजः। अस्माकम्। ब्रह्म। अस्माकम्। स्वः᳡। अस्माकम्। यज्ञः। अस्माकम्। पशवः। अस्माकम्। प्रऽजाः। अस्माकम्। वीराः। अस्माकम्। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,3 +61,4 @@ Whatever we have gained, whatever hath accrued to us, our Right, our energy, our
 
 टिप्पणी:   १−(जितम्) जयेनप्राप्तं वस्तु (अस्माकम्) धर्मात्मनाम् (उद्भिन्नम्) उद्भेदनं स्फुरणाम्।आयधनम् (ऋतम्) वेदज्ञानम् (तेजः) (ब्रह्म) अन्नम्-निघ० २।७। (स्वः) सुखम् (यज्ञः) देवपूजासंगतिकरणदानव्यवहारः (पशवः) गवाश्वादयः (प्रजाः) प्रजागणः (वीराः) वीरपुरुषाः (अस्माकम्) भवन्तु इति शेषः। अन्यत् पूर्ववत् ॥
 </details>
+

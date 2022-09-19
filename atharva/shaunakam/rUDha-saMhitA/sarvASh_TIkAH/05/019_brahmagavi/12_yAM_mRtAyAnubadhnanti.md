@@ -25,7 +25,7 @@ Oppressor of the Brahmans! thus the Gods have spoken and declared, The step-effa
 
 <details open><summary>पदपाठः</summary>
 
-याम्। मृताय। अनुऽबध्नन्ति। कू़द्यम्। पदऽयोपनीम्। तत्। वै। ब्रह्मऽज्य। ते। देवाः। उपऽस्तरणम्। अब्रुवन्। १९.१२।
+याम्। मृताय। अनुऽबध्नन्ति। कू़द्य᳡म्। पदऽयोपनीम्। तत्। वै। ब्रह्मऽज्य। ते। देवाः। उपऽस्तरणम्। अब्रुवन्। १९.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

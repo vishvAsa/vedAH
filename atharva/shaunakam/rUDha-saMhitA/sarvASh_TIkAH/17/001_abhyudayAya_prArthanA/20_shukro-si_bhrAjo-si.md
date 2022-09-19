@@ -23,7 +23,6 @@ This prose bit is a queer *kakubh:* ⌊the *kakubh* calls for 8 + 12 + 8 =
 Bright art thou, and refulgent: as thou shinest with splendour so I fain would shine with splendour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शुक्रः। असि। भ्राजः। असि। सः। यथा। त्वम्। भ्राजता। भ्राजः। असि। एव। अहम्। भ्राजता। भ्राज्यासम्। १.२०।

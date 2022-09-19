@@ -22,7 +22,7 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 
 <details open><summary>पदपाठः</summary>
 
-अङ्गऽभेदम्। अङ्गऽज्वरम्। विश्वऽअङ्ग्यम्। विऽसल्पकम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.५।
+अङ्गऽभेदम्। अङ्गऽज्वरम्। विश्वऽअङ्ग्य᳡म्। विऽसल्पकम्। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

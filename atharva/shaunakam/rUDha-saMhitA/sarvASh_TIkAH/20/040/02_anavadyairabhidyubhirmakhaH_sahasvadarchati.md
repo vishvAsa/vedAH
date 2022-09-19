@@ -8,7 +8,6 @@ title = "०२ अनवद्यैरभिद्युभिर्मखः 
 With Indra's well-beloved hosts, the blameless, hastening to heaven, The sacrificer cries aloud.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनवद्यैः। अभिद्युऽभिः। मखः। सहस्वत्। अर्चति। गणैः। इन्द्रस्य। काम्यैः। ४०.२।

@@ -7,7 +7,6 @@ title = "०२२ ब्रह्मा"
 22. Homage to parts of the Atharva-Veda.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मा।  
@@ -18,8 +17,6 @@ title = "०२२ ब्रह्मा"
 
 [An̄giras.—ekaviṅśati. mantroktadevatyam. 1. sāmny uṣṇih; 3, 19. prājāpatyā gāyatrī; 4, 7, 11, 17. dāivī jagatī; 5, 12, 13. dāivī triṣṭubh; 2, 6, 14-16, 20. dāivī pan̄kti; 8-10. āsurī jagatī; 18. āsury anuṣṭubh (1-20. 1-av.); 21. 4-p. triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 279; vs. 21 also by Ludwig, p. 219.
 
 A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, and to Brahma
 </details>
+

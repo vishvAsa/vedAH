@@ -8,7 +8,6 @@ title = "०७ अक्षितोतिः सनेदिमम्"
 Indra, whose succour never fails, accept this treasure thousand- fold, Wherein all manly powers abide.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अक्षितऽऊतिः। सनेत्। इमम्। वाजम्। इन्द्रः। महस्रिणम्। यस्मिन्। विश्वानि। पौंस्या। ६९.७।

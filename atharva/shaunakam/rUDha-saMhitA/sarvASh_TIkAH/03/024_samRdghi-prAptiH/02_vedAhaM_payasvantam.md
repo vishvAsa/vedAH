@@ -26,7 +26,7 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 
 <details open><summary>पदपाठः</summary>
 
-वेद। अहम्। पयस्वन्तम्। चकार। धान्यम्। बहु। सम्ऽभृत्वा। नाम। यः। देवः। तम्। वयम्। हवामहे। यःऽयः। अयज्वनः। गृहे। २४.२।
+वेद। अहम्। पयस्वन्तम्। चकार। धान्य᳡म्। बहु। सम्ऽभृत्वा। नाम। यः। देवः। तम्। वयम्। हवामहे। यःऽयः। अयज्वनः। गृहे। २४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

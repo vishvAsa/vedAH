@@ -8,7 +8,6 @@ title = "०५ इन्द्र सोमाः"
 Indra, these Somas are expressed, Take them within thy belly, Lord Of Hundred Powers, thou Prince of wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। सोमाः। सुताः। इमे। तान्। दधिष्व। शतक्रतो इति शतऽक्रतो। जठरे। वाजिनीवसो इति। वाजिनीऽवसो। २४.५।

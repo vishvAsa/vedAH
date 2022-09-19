@@ -8,7 +8,6 @@ title = "०५ अयं त"
 Here, Indra, is thy Soma draught, made pure upon the sacred. grass. Run hither, come and drink thereof.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। ते। इन्द्र। सोमः। निऽपूतः। अधि। बर्हिषि। आ। इहि। ईम्। अस्य। द्रव। पिब। ५.५।

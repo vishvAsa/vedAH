@@ -8,7 +8,6 @@ title = "१६ ये त्वा"
 They yoke the white mares, on the Bay's right harness Auchchai- hsravasa. He joyeth as he carrieth Indra the foremost of the Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। त्वा। श्वेताः। अजैश्रवसः। हार्यः। युञ्जन्ति। दक्षिणम्। पूर्वा। नमस्य। देवानाम्। बिभ्रत्। इन्द्र। महीयते। १२८.१६।

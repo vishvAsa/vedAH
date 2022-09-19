@@ -36,7 +36,6 @@ not heed that the first two pādas are *jagatī*.
 They for their weal drain out the cask, the beaker four-holed,. the milch-cow Ida full of sweetness, Injure not, Agni, in the loftiest heaven Aditi heightening strength among the people.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कोशम्। दुहन्ति। कलशम्। चतुःऽबिलम्। इडाम्। धेनुम्। मधुऽमतीम्। स्वस्तये। ऊर्जम्। मदन्तीम्। अदितिम्। जनेषु। अग्ने। मा। हिंसीः। परमे। विऽओमन्। ४.३०।

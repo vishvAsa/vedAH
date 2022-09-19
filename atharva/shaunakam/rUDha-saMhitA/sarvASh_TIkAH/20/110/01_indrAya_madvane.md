@@ -8,7 +8,6 @@ title = "०१ इन्द्राय मद्वने"
 For Indra, lover of carouse, loud be our songs about the juice: Let poets sing the hymn of praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्राय। मद्वने। सुतम्। परि। स्तोभन्तु। नः। गिरः। अर्कम्। अर्चन्तु। कारवः। ११०.१।

@@ -18,7 +18,6 @@ The comm. says that *bráhman* here means the Veda with the *an̄gas*.
 Indra arose with Might. To that fort, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्म। ब्रह्मचारिऽभिः। उत्। अक्रामत्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। च। वर्म। च। यच्छतु। १९.८।

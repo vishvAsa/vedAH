@@ -33,7 +33,6 @@ agrees with TB. ⌊precisely: reading *sambabhūtha*⌋.
 Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from tall trees, Jatavedas. Is carried here and there to divers places, even thence come thou to us with loving-kindness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दिवः। पृथिव्याः। परि। अन्तरिक्षात्। वनस्पतिऽभ्यः। अधि। ओषधीभ्यः। यत्रऽयत्र। विऽभृतः। जातऽवेदाः। ततः। स्तुतः। जुषमाणः। नः। आ। इहि। ३.१।

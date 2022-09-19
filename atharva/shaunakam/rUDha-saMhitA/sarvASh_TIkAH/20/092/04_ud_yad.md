@@ -8,7 +8,6 @@ title = "०४ उद् यद्"
 When I and Indra amount on high up to the bright One's place and home, We, having drunk of meath, will reach his seat whose Friends are three-times-seven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। यत्। ब्रध्नस्य। विष्टपम्। गृहम्। इन्द्रः। च। गन्वहि। मध्वः। पीत्वा। सचेवहि। त्रि। सप्त। सख्युः। प0952गदे। ९२.४।

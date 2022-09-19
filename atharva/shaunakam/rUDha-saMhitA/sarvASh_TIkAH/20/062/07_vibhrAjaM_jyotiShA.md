@@ -8,7 +8,6 @@ title = "०७ विभ्राजं ज्योतिषा"
 Radiant with light thou wentest to the sky, the luminous realms: of heaven. The Gods, O Indra, strove to win thee for their friend.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽभ्राजन्। ज्योतिषा। स्वः। अगच्छ। रोचनम्। दिवः। देवाः। ते। इन्द्र। सख्याय। येमिरे। ६२.७।

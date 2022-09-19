@@ -8,7 +8,6 @@ title = "०५ इन्दुरिन्द्राय पवत"
 Indu flows on for Indra's sake--thus have the deities declared. The Lord of Speech exerts himself, ruler of all, because of might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्दुः। इन्द्राय। पवते। इति। देवासः। अब्रुवन्। वाचः। पतिः। मखस्यते। विश्वस्य। ईशानः। ओजसा। १३७.५।

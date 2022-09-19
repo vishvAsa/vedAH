@@ -35,7 +35,6 @@ vary between *bhavaṁ* and *bhava* and the TA. comm. understands
 I bring this clipped grass hither for the Fathers: grass living,. higher, for the Gods I scatter. Mount this, O man, as victim: let the Fathers recognize thee: when thou hast travelled yonder.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। पितृऽभ्यः। प्र। भरामि। बर्हिः। जीवम्। देवेभ्यः। उत्ऽतरम्। स्तृणामि। तत्। आ। रोह। पुरुष। मेध्यः। भवन्। प्रति। त्वा। जानन्तु। पितरः। पराऽइतम्। ४.५१।

@@ -27,7 +27,6 @@ their own sacrifice; and this is probably the sense.
 Depart, O Fathers, and again come hither; this sacrifice of yours is balmed with sweetness. Enrich us here with gift of great possessions; grant blessed wealth with ample store of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परा। यात। पितरः। आ। च। यात। अयम्। वः। यज्ञः। मधुना। सम्ऽअक्तः। दत्तो इति। अस्मभ्यम्। द्रविणा। इह। भद्रम्। रयिम्। च। नः। सर्वऽवीरम्। दधात। ३.१४।

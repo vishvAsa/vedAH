@@ -22,7 +22,6 @@ and ⌊reads and⌋ combines at the end ⌊*suryaṁ*⌋ *devā ’janayan*.
 Fire they endow with vital breath, Wind is compact, with vital breath: With vital breath the Gods produced the Sun whose face turn every way.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्राणेन। अग्निम्। सम्। सृजति। वातः। प्राणेन। सम्ऽहितः। प्राणेन। विश्वतःऽमुखम्। सूर्यम्। देवाः। अजनयन्। २७.७।

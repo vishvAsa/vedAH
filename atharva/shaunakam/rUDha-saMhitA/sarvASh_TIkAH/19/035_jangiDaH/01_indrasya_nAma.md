@@ -26,7 +26,6 @@ ours.
 While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the earliest time Gods made a remedy, Vishkandha's- cure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रस्य। नाम। गृह्णन्तः। ऋषयः। जङ्गिडम्। ददुः। देवाः। यम्। चक्रुः। भेषजम्। अग्रे। विस्कन्धऽदूषणम्। ३५.१।

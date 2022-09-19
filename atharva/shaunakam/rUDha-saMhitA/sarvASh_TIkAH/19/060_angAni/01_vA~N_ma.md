@@ -34,7 +34,6 @@ the translation.
 May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing in mine ears, hair that hath not turned gray, teeth free from yellowness, and much strength in mine arms.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वाक्। मे। आसन्। नसोः। प्राणः। चक्षुः। अक्ष्णोः। श्रोत्रम्। कर्णयोः। अपलिताः। केशाः। अशोणाः। दन्ताः। बहु। बाह्वोः। बलम्। ६०.१।

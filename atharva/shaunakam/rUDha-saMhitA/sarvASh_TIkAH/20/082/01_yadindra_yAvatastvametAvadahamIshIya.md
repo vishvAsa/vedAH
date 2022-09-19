@@ -8,7 +8,6 @@ title = "०१ यदिन्द्र यावतस्त्वमेता
 If I, O Indra, were the lord of riches ample as thine own, I should support the singer, God who scatterest wealth! and! not abandon him to woe.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। इन्द्र। यावतः। त्वम्। एतावत्। अहम्। ईशीय। स्तोतारम्। इत्। दिधिषेय। रदवसो इति रदऽवसो। न। पापऽत्वाय। रासीय। ८२.१‍।

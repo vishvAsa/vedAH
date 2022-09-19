@@ -18,7 +18,6 @@ Compare x. 5. 25 etc.; we should expect *bhajāmas* here as there.
 We scorch out of heaven and earth and firmament the man who hates us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 निः। द्विषन्तम्। दिवः। निः। पृथिव्याः। निः। अन्तरिक्षात्। भजाम। ७.६।

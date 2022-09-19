@@ -8,7 +8,6 @@ title = "०२ प्रो ष्वस्मै"
 Sing strength to Indra that shall set his chariot in the foremost place. Giver of room in closest fight, slayer of foes in shock of war, be thou our great encourager. Let the weak bowstrings break upon the bows of feeble enemies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रो इति। सु। अस्मै। पुरःऽरथम्। इन्द्राय। शूषम्। अर्चत। अभीके। चित्। ऊं इति। लोकऽकृत्। सम्ऽगे। समत्ऽसु। वृत्रऽहा। अस्माकम्। बोधि। चोदिता। नभन्ताम्। अन्यकेषाम्। ज्याकाः। अधि। धन्वऽसु। ९५.२।

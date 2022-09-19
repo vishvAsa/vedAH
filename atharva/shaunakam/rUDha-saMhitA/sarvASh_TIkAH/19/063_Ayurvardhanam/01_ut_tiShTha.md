@@ -23,7 +23,6 @@ The mss. vary between *paśúm* and *paśū́n* in the second half-verse.
 Rise up, O Brahmanaspati; awake the Gods with sacrifice. Strengthen the Sacrificer: aid life, breath, and off-spring, cattle, fame.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। ब्रह्मणः। पते। देवान्। यज्ञेन। बोधय। आयुः। प्राणम्। प्रऽजाम्। पशून्। कीर्तिम्। यजमानम्। च। वर्धय। ६३.१।

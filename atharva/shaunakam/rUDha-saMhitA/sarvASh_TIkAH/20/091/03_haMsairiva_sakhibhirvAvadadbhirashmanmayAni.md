@@ -8,7 +8,6 @@ title = "०३ हंसैरिव सखिभिर्वावदद्भ
 Girt by his friends who cried with swanlike voices, bursting the stoney barriers of the prison, Brihaspati spake in thunder to the cattle, and uttered praise and. song when he had found them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हंसैःऽइव। सखिऽभिः। वावदत्ऽभिः। अश्मन्ऽमयानि। नहना। व‍िऽअस्यन्। बृहस्पतिः। अभिऽकनिक्रदत्। गाः। उत। प्र। अस्तौत्। उत्। च। विद्वान्। अगायत्। ९०.३।

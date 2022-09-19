@@ -22,7 +22,6 @@ accenting *dakṣiṇā́* in 46 **b**).
 Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the Fathers, Here give the Sacrificer growth of riches, a portion, worth a thousand, of refreshment.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वत‍ि। या। सऽरथम्। ययाथ। उक्थैः। स्वधाभिः। देवि। पितृऽभिः। मदन्ती। सहस्रऽअर्घम्। इडः। अत्र। भागम्। रायः। पोषम्। यजमानाय। धेहि। ४.४७।

@@ -8,7 +8,6 @@ title = "०३ तमीमह इन्द्रमस्य"
 We seek that Indra to obtain his riches that yield much food, and men, and store of heroes. O Lord of Bay Steeds, bring to make us joyful, celestial wealth abundant, undecaying.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। ईमहे। इन्द्रम्। अस्य। रायः। पुरुऽवीरस्य। नृवतः। पुरुऽक्षोः। यः। अस्कृधोयुः। अजरः। स्वःऽवान्। तम्। आ। भर। हरिऽवः। मादयध्यै। ३६.३।

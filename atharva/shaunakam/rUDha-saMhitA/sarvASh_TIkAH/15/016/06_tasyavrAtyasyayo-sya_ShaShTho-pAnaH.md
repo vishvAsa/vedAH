@@ -16,7 +16,6 @@ title = "०६ तस्यव्रात्यस्ययोऽस्य ष
 His sixth downward breath is Sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। षष्ठः। अपानः। सः। यज्ञः। १६.६।

@@ -21,7 +21,7 @@ Worship to loftiest Brahma, Lord of what hath been and what shall be, To him who
 
 <details open><summary>पदपाठः</summary>
 
-यः। भूतम्। च। भव्यम्। च। सर्वम्। यः। च। अधिऽतिष्ठति। स्वः। यस्य। च। केवलम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ८.१।
+यः। भूतम्। च। भव्यम्। च। सर्वम्। यः। च। अधिऽतिष्ठति। स्वः᳡। यस्य। च। केवलम्। तस्मै। ज्येष्ठाय। ब्रह्मणे। नमः। ८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

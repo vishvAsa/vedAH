@@ -7,7 +7,6 @@ title = "०३३ दर्भः"
 33. For various blessings: with an amulet of darbhá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दर्भः।  
@@ -18,8 +17,6 @@ title = "०३३ दर्भः"
 
 [As 32.—pañcakam. 1. jagatī; 2, 5. triṣṭubh; 3. ārṣī pan̄kti; 4. āstārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 290.
 
 A protective and benedictive charm
 </details>
+

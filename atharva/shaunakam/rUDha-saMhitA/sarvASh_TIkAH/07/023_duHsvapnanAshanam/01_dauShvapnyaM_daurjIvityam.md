@@ -19,7 +19,7 @@ The fearful dream, and indigence, the monster, the malignant hags. All female fi
 
 <details open><summary>पदपाठः</summary>
 
-दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्वम्। अराय्यः। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। २४.१।
+दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्व᳡म्। अराय्यः᳡। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। २४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "१० यो व्यतीँरफाणयत्सुयुक्
 He who hath made the fleet steeds spring, well-harnessed, to the worshipper, He, the swift guide, is that fair form thot loosed the horses near at hand.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। व्यतीन्। अफाणयत्। सुऽयुक्तान्। उप। दाशुषे। तक्वः। नेना। तत्। इत्। वपुः। उपऽमा। यः। अमुच्यत। ९२.१०।

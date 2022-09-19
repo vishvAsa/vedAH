@@ -8,7 +8,6 @@ title = "०२ समीं रेभासो"
 Bards joined in song to Indra so that he might drink the Soma juice, The Lord of Light, that he whose laws stand fast might aid with power and with help he gives.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। ईम्। रेभासः। अस्वरन्। इन्द्रम्। सोमस्य। पीतवे। स्वःअपतिम्। यत्। ईम्। वृधे। धृतऽव्रतः। हि। ओजसा। सम्। ऊतिऽभिः। ५४.२।

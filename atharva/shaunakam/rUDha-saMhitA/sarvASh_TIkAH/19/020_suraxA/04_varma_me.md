@@ -34,7 +34,6 @@ both editions (see p. 923).⌋
 My shield is Heaven and Earth, my shield is the bright Day, my shield the Sun. The Visva Devas made my shield. Let not misfortune fall on me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वर्म। मे। द्यावापृथिवी इति। वर्म। अहः। वर्म। सूर्यः। वर्म। मे। विश्वे। देवाः। क्रन्। मा। मा। प्र। आपत्। प्रतीचिका। २०.४।

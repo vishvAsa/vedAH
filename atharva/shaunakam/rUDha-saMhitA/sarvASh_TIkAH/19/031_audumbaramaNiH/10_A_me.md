@@ -32,10 +32,9 @@ the mss. in reading *payasph-*.
 Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali bring them, and this Amulet of Udumbara.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-आ। मे। धनम्। सरस्वती। पयःऽस्‍फातिम्। च। धान्यम्। सिनीवाली। उप। वहात्। अयम्। च। औदुम्बरः। मणिः। ३१.१०।
+आ। मे। धनम्। सरस्वती। पयःऽस्‍फातिम्। च। धान्य᳡म्। सिनीवाली। उप। वहात्। अयम्। च। औदुम्बरः। मणिः। ३१.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

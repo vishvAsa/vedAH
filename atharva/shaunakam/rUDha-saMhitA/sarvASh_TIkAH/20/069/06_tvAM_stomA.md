@@ -8,7 +8,6 @@ title = "०६ त्वां स्तोमा"
 O Lord of Hundred Powers, our chants of praise and lauds have strengthened thee: So strengthen thee the songs we sing!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। स्तोमाः। अवीवृधन्। त्वाम्। उक्था। शतक्रतो ‍इति शतऽक्रतो। त्वाम्। वर्धन्तु। नः। गिरः। ६९.६।

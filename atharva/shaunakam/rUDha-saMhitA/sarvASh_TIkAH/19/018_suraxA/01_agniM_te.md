@@ -26,7 +26,6 @@ interlines "run against" as alternative for "come upon."⌋
 Let those who vex me from the eastern region, sinners, praise Agni followed by the Vasus.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निम्। ते। वसुऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। प्राच्याः। दिशः। अभिऽदासात्। १८.१।

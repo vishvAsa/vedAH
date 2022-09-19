@@ -25,7 +25,7 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 
 <details open><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। मनुष्यान्। आ। अगच्छत्। ताम्। मनुष्याः। अघ्नत। सा। सद्यः। सम्। अभवत्। १२.७।
+सा। उत्। अक्रामत्। सा। मनुष्या᳡न्। आ। अगच्छत्। ताम्। मनुष्याः᳡। अघ्नत। सा। सद्यः। सम्। अभवत्। १२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

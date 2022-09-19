@@ -21,7 +21,6 @@ All hail to Heaven!
 दिवे। स्वाहा। ९.५।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दिवे। स्वाहा। ९.५।

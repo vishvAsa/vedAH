@@ -23,7 +23,6 @@ of the good and bad, and *svadhā* as *anna;* *adri* he simply glosses by
 Kind unto us be Maker and Sustainer and the far-reaching One with godlike nature. Auspicious unto us be Earth and Heaven, the Mountain and the Gods' fair invocations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। धाता। शम्। ऊं इति। धर्ता। नः। अस्तु। शम्। नः। उरूची। भवतु। स्वधाभिः। शम्। रोदसी इति। बृहती इति। शम्। नः। अद्रिः। शम्। नः। देवानाम्। सुऽहवानि। सन्तु। १०.३।

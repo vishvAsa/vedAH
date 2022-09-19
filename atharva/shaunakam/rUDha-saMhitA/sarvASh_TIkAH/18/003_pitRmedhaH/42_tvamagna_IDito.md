@@ -33,7 +33,6 @@ mss., see note to Prāt. i. 94.⌋
 Thou, Agni Jatavedas, when entreated, didst bear our offerings, having made them fragrant. And give them to the Fathers who consumed them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। अग्ने। ईडितः। जातऽवेदः। अवाट्। हव्यानि। सुरभीणि। कृत्वा। प्र। अदाः। पितृऽभ्यः। स्वधया। ते। अक्षन्। अद्धि। त्वम्। देव। प्रऽयता। हवींषि। ३.४२।

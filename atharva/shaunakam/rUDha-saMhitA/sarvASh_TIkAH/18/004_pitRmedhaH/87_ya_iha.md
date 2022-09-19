@@ -94,7 +94,6 @@ of MS. appears to require correction to *etā́* p. *etā́ḥ*.⌋
 All living fathers who are here are we here: let them follow us. May we be the most excellent of these.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। इह। पितरः। जीवाः। इह। वयम्। स्मः। अस्मान्। ते। अनु। वयम्। तेषाम्। श्रेष्ठाः। भूयास्म। ४.८७।

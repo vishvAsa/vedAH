@@ -8,7 +8,6 @@ title = "०२ यस्य संस्थे"
 Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Indra, sing your song.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्य। सम्ऽस्थे। न। वृण्वते। हरी इति। समत्ऽसु। शत्रवः। तस्मै। इन्द्राय। गायत। ६९.२।

@@ -19,7 +19,6 @@ the text of the next. ⌊The verse is wanting in Ppp., as noted above.⌋
 May Bhaga with good fortune protect me, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भगः। मा। भगेन। अवतु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.९।

@@ -8,7 +8,6 @@ title = "१५ अदृश्रन्नस्य केतवो"
 His herald rays are seen afar refulgent o'er the world of men, Like fiery flames that burn and blaze.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अदृश्रन्। अस्य। केतवः। वि। रश्मयः। जनान्। अनु। भ्राजन्तः। अग्नयः। यथा। ४७.१५।

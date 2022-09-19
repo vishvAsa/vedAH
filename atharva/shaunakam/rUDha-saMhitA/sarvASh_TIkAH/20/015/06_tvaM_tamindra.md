@@ -8,7 +8,6 @@ title = "०६ त्वं तमिन्द्र"
 Thou, who hast thunder for thy weapon, with thy bolt hast shattered into pieces this broad massive cloud. Thou hast sent down obstructed floods that they may flow: thou hast, thine own for ever, all victorious might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। तम्। इन्द्र। पर्वतम्। महान्। उरुम्। वज्रेण। वज्र‍िन्। पर्वऽशः। चकर्तिथ। अव। असृजः। निऽवृताः। सर्तवै। अपः। सत्रा। विश्वम्। दधिषे। केवलम्। सहः। १५.६।

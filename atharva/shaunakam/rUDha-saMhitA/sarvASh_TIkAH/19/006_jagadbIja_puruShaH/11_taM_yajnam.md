@@ -23,7 +23,6 @@ authorities accent *áyajanta* ⌊as does also TA.⌋.
 That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. The Deities, the Sadhyas, all the Vasus sacrificed with him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। यज्ञम्। प्रावृषा। प्र। औक्षन्। पुरुषम्। जातम्। अग्रऽशः। तेन। देवाः। अयजन्तः। साध्याः। वसवः। च। ये। ६.११।

@@ -29,7 +29,6 @@ intended⌋. We should expect at the beginning *brahmā́*. ⌊With **c**, cf.
 Brahma, Dhatar, Prajapati, Worlds, Vedas, Agnis, Rishis Seven. All these have blessed my happy way. May Indra be my guardian, may Brahma protect and shelter me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्म। प्रजाऽपतिः। धाता। लोकाः। वेदाः। सप्तऽऋषयः। अग्नयः। तैः। मे। कृतम्। स्वस्त्ययनम्। इन्द्रः। मे। शर्म। यच्छतु। ब्रह्मा। मे। शर्म। यच्छतु। विश्वे। मे। देवाः। शर्म। यच्छन्तु। सर्वे। मे। देवाः। शर्म। यच्छन्तु। ९.१२।

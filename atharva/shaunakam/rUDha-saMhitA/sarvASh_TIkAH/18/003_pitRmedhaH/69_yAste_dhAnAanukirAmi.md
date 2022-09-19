@@ -48,7 +48,6 @@ for sesame: so śrāddhakalpa, iv. 5, as cited by Caland,
 Grains which for thee I scatter, mixt with Sesamum, as holy food, May they for thee be excellent and potent: King Yama look on them as thine with favour!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याः। ते। धानाः। अनुऽकिरामि। तिलऽमिश्राः। स्वधाऽवतीः। ताः। ते। सन्तु। विऽभ्वीः। प्रऽभ्वीः। ताः। ते। यमः। राजा। अनु। मन्यताम्। ३.६९।

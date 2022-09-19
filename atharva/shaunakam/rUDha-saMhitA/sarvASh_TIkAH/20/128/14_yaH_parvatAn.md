@@ -8,7 +8,6 @@ title = "१४ यः पर्वतान्"
 Thou who didst separate the clouds and penetrate the water- floods, To thee, great slayer of the foe, be glory, Indra, yea, to thee!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। पर्वतान्। अदधात्। यः। अपः। वि। अगाहथाः। इन्द्रः। यः। वृत्रहा। आत्। महम्। तस्मात्। इन्द्र। नमः। अस्तु। ते। १२८.१४।

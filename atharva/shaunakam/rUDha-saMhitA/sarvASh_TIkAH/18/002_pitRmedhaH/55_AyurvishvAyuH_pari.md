@@ -23,7 +23,6 @@ and TA. (in vi. 1. 2) agrees with it both times; the comm. also has
 Lord of all life, let Ayu guard thee, Pushan convey thee forward on the distant pathway. May Savitar the God conduct thee thither where dwell the pious who have gone before thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आयुः। विश्वऽआयुः। परि। पातु। त्वा। पूषा। त्वा। पातु। प्रऽपथे। पुरस्तात्। यत्र। आसते। सुऽकृतः। यत्र। ते। ईयुः। तत्र। त्वा। देवः। सविता। दधातु। २.५५।

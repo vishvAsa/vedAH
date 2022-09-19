@@ -8,7 +8,6 @@ title = "०५ मा नो"
 Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is all my strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। नः। निदे। च। वक्तवे। अर्यः। रन्धीः। अराव्णे। त्वे इति। अपि। क्रतुः। मम। १८.५।

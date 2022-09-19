@@ -8,7 +8,6 @@ title = "०१ न्यू३षु वाचम्"
 We will present fair praise unto the Mighty One, our hymns to Indra in Vivasvan's dwelling-place; For he hath ne'er found wealth in those who seem to sleep; those who give wealth to men accept no paltry praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नि। ऊं इति। सु। वाचम्। प्र। महे। भरामहे। गिरः। इन्द्राय। सदने। विवस्वतः। नु। चित्। हि। रत्नम्। ससताम्ऽइव। अविदत्। न। दुःऽस्तुतिः। द्रविणःऽदेषु। शस्यते। २१.१।

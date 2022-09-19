@@ -19,7 +19,6 @@ The *pada*-mss. accent, doubtless falsely, *pra॰ū́ḍhaḥ* (instead of
 His second vital breath, called Mature, is that Aditya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। द्वितीयः। प्राणः। प्रऽऊढः। नाम। असौ। सः। आदित्यः। १५.४।

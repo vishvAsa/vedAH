@@ -8,7 +8,6 @@ title = "०३ कस्ते मद"
 What was the gladdening draught that pleased thee, Indra? Speed to our doors, our songs, for thou art mighty. Why comest thou to me, what gift attracts thee? Fain would I bring thee food most meet to offer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 क। ते। मदः। इन्द्र। रन्त्यः। भूत्। दुरः। गिरः। अभि। उग्रः। वि। धाव। कत्। वाहः। अर्वाक्। उप। मा। मनीषा। आ। त्वा। शक्याम्। उपऽमम्। राधः। अन्नैः। ७६.३।

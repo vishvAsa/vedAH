@@ -8,7 +8,6 @@ title = "०२ वृषो अग्निः"
 Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations worship him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषो इति। अग्निः। सम्। इध्यते। अश्वः। न। देवऽवाहनः। तम्। हविष्मन्तः। ईलते। १०२.२।

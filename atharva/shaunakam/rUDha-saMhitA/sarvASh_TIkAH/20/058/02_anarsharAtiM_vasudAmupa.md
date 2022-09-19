@@ -8,7 +8,6 @@ title = "०२ अनर्शरातिं वसुदामुप"
 Praise him who sends us wealth, whose bounties injure none. Good are the gifts which Indra gives. He is not wroth with one who satisfies his wish: he turns his mind to granting boons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनर्शऽरातिम्। वसुऽदााम्। उप। स्तुहि। भद्राः। इन्द्रस्य। रातयः। सः। अस्य। कामम्। विधतः। न। रोषति। मनः। दानाय। चोदयन्। ५८.२।

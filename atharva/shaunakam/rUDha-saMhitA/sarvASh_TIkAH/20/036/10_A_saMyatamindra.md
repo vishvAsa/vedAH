@@ -8,7 +8,6 @@ title = "१० आ संयतमिन्द्र"
 Give us confirmed prosperity, O Indra, vast and exhaustless for the foes' subduing. Strengthen therewith the Arya's hate and Dasa's; and let the arms of Nahushas be mighty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। सम्ऽयतम्। इन्द्र। नः। स्वस्तिम्। शत्रुऽतूर्याय। बृहतीम्। अमृध्राम्। यया। दासानि। आर्याणि। वृत्रा। करः। वज्रिन्। सुऽतुका। नाहुषाणि। ३६.१०।

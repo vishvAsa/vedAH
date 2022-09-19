@@ -26,7 +26,6 @@ is accordingly only a careless misreading. Ppp. has *bhaṅkti*.
 Check thou, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रुन्द्धि। दर्भ। सऽपत्नान्। मे। रुन्द्धि। मे। पृतनाऽयतः। रुन्द्धि। मे। सर्वान्। दुःऽहार्दः। रुन्द्धि। मे। द्विषतः। मणे। २९.३।

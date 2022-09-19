@@ -7,7 +7,6 @@ title = "०१९ शर्म"
 19. For protection by various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शर्म।  
@@ -18,8 +17,6 @@ title = "०१९ शर्म"
 
 [Atharvan.—ekādaśakam. cāndramasam uta mantroktadtvatyam. pān̄ktam: 1, 3, 9. bhurig bṛhatī; 10. svarāj; 2, 4-8, 11. anuṣṭubgarbhā.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 278.
 
 A hymn recommending the protection of various Gods
 </details>
+

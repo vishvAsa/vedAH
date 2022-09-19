@@ -30,7 +30,6 @@ antárikṣā* in **b**. Thus the verse scans as 8 + 11: 11 + 11.⌋
 Three are the earths, they say, and three the heavens, three are the atmospheres, and four the oceans. Threefold the hymn of praise, threefold the Waters. Let these with triple song and triplets guard thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तिस्रः। दिवः। तिस्रः। पृथिवीः। त्रीणि। अन्तरिक्षाणि। चतुरः। समुद्रान्। त्रिऽवृतम्। स्तोमम्। त्रिऽवृतः। आपः। आहुः। ताः। त्वा। रक्षन्तु। त्रिऽवृता। त्रिवृत्ऽभिः। २७.३।

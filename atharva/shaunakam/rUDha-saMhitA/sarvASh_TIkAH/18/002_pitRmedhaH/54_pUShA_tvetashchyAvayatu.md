@@ -23,7 +23,6 @@ SPP., better, the former, with RV. and TA.
 Guard of the world, whose cattle ne'er are injured, may Pushan bear thee hence, for he hath knowledge. May he consign thee to these Fathers' keeping, and to the gracious Gods let Agni give hee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पूषा। त्वा। इतः। च्यवयतु। प्र। विद्वान्। अनष्टऽपशुः। भुवनस्य। गोपाः। सः। त्वा। एतेभ्यः। परि। ददत्। पितृऽभ्यः। अग्निः। देवेभ्यः। सुऽविदत्रियेभ्यः। २.५४।

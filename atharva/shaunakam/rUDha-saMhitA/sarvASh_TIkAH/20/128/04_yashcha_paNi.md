@@ -8,7 +8,6 @@ title = "०४ यश्च पणि"
 The most unprofitable churl, the wealthy men who brings no. gift, These, verily, as we have heard, are cast away by all the wise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। च। पणि। रघुजिष्ठ्यः। यः। च। देवान्। ‍ अदाशुरिः। धीराणाम्। शश्वताम्। अहम्। तत्। अपाक्। इति। शुश्रुम। १२८.४।

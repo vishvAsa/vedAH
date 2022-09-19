@@ -8,7 +8,6 @@ title = "०६ एवा पित्रे"
 Serve we with sacrifices, gifts, and homage even thus the Steer of all the Gods, the Father. Brihaspati, may we be lords of riches, with noble progeny and, store of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। पित्रे। विश्वऽदेवाय। वृष्णे। यज्ञैः। विधेम। नमसा। हविःऽभिः। बृहस्पते। सुऽप्रजाः। वीरऽवन्तः। वयम्। स्याम। पतयः। रयीणाम्। ८८.६।

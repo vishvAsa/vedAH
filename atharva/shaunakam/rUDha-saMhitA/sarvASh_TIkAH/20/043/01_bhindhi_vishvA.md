@@ -8,7 +8,6 @@ title = "०१ भिन्धि विश्वा"
 Drive all our enemies away, smite down the foes who press around, And bring the wealth for which we long;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भिन्धि। विश्वाः। अप। द्विषः। परि। बाधः। जहि। मृधः। वसु। स्पार्हम्। तत। आ। भर। ४३.१।

@@ -8,7 +8,6 @@ title = "०६ इन्द्राय गाव"
 For Indra, Thunder-armed, the kine have yielded mingled milk and meath, What time he found them in the vault.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्‍द्राय। गावः। आऽशिरम्। दुदुह्रे। वज्रिणे। मधु। यत्। सीम्। उपऽह्वरे। विदत्। २२.६।

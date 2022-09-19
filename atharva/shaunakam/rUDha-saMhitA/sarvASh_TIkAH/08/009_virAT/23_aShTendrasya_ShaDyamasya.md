@@ -22,7 +22,7 @@ To Indra eight, to Yama six, seven to the Rishis, seven to each: The number five
 
 <details open><summary>पदपाठः</summary>
 
-अष्ट। इन्द्रस्य। षट्। यमस्य। ऋषीणाम्। सप्त। सप्तऽधा। अपः। मनुष्यान्। ओषधीः। तान्। ऊं इति। पञ्च। अनु। सेचिरे। ९.२३।
+अष्ट। इन्द्रस्य। षट्। यमस्य। ऋषीणाम्। सप्त। सप्तऽधा। अपः। मनुष्या᳡न्। ओषधीः। तान्। ऊं इति। पञ्च। अनु। सेचिरे। ९.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

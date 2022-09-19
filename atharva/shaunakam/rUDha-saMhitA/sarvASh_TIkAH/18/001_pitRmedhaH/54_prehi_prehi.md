@@ -32,7 +32,6 @@ body on the cart (for transportation to the funeral pile).
 Go forth, go forth upon the homeward pathways whither our sires of old have gone before us. Then shalt thou look on both the Kings enjoying their sacred food, God Varuna and Yama.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। इहि। प्र। इहि। पथिऽभिः। पूःऽयानैः। येन। ते। पूर्वे। पितरः। पराऽइताः। उभा। राजानौ। स्वधया। मदन्तौ। यमम्। पश्यासि। वरुणम्। च। देवम्। १.५४।

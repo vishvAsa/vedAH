@@ -22,7 +22,6 @@ with ours ⌊*sphātím*⌋, the comm. having the same. Ppp. again has
 Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give store of beasts and food and cause our kine to multiply.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवः। मणिः। सपत्नऽहाः। धनऽसाः। धनऽसातये। पशोः। अन्नस्‍य। भूमानम्। गवाम्। स्फातिम्। नि। यच्छतु। ३१.८।

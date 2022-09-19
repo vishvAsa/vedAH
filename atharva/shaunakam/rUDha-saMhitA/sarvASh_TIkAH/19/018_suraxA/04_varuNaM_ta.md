@@ -18,7 +18,6 @@ The Anukr. ought properly to call this verse *bhurij*.
 Let those who vex me from this quarter, sinners, praise Varuna connected with Adityas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वरुणम्। ते। आदित्यऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.४।

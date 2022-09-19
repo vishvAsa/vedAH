@@ -16,7 +16,6 @@ title = "०८ कुम्भीकादूषीकाः पीयकान
 Kumbhikas, Dushikas, and Piyakas,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कुम्भीकाः। दूषीकाः। पीयकान्। ६.८।

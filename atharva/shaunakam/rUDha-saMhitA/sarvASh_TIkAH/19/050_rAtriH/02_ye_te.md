@@ -54,7 +54,6 @@ reads in **c, d** *apravāyuṣaṁ na tarehur ar-*.
 Those oxen that are thine, O Night, with sharpened horns and rapid pace, With those transport us safe to-day o'er difficulties everywhere.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। ते। रात्रि। अनड्वाहः। तीक्ष्णऽशृङ्गाः। सुऽआशवः। तेभिः। नः। अद्य। पारय। अति। दुःऽगानि। विश्वहा। ५०.२।

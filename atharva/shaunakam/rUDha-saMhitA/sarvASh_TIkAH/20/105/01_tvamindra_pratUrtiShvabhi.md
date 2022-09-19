@@ -8,7 +8,6 @@ title = "०१ त्वमिन्द्र प्रतूर्तिष्
 Thou in the battles, Indra, art subduer of all hostile bands. Father art thou, all-conquering, cancelling the curse, thou victor of the vanquisher.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। प्रऽतूर्तिषु। अभि। विश्वाः। असि। स्पृधः। अशस्तिऽहा। जनिता। विश्वऽतूः। असि। त्वम्। तूर्य। तरुष्यतः। १०५.१।

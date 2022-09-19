@@ -17,7 +17,6 @@ let the moon impart to me mind: to the moon hail!
 Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. All hail to Chandra!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। चन्द्रः। मा। तत्र। नयतु। मनः। चन्द्रः। दधातु। मे। चन्द्राय। स्वाहा। ४३.४।

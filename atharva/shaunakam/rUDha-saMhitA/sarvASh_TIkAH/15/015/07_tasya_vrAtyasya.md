@@ -17,7 +17,6 @@ waters.
 His fifth vital breath, called Source, are these Waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। पञ्चमः। प्राणः। योनिः। नाम। ताः। इमाः। आपः। १५.७।

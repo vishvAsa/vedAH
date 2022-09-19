@@ -8,7 +8,6 @@ title = "०७ तं वो"
 Him will we fit for you with new devotion, the strongest, Ancient One, in ancient manner. So way that Indra, boundless, faithful leader, conduct us o'er all places hard to traverse.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। वः। धिया। नव्यस्या। शविष्ठम्। प्रत्नम्। प्रत्नऽवत्। परिऽतंसयध्यै। सः। नः। वक्षत्। अनिऽमानः। सुऽवह्न्या। इन्द्रः। विश्वानि। अति। दुःऽगहानि। ३६.७।

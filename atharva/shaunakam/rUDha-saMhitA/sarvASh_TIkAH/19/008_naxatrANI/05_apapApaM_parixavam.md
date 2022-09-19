@@ -35,7 +35,6 @@ to help us. The reading of the line in our edition is not to be praised.
 May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostrils smelling what is pleasant pour forth fragrant scent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपऽपापम्। परिऽक्षवम्। पुण्यम्। भक्षीमहि। क्षवम्। शिवा। ते। पाप। नासिकाम्। पुण्यऽगः। च। अभि। मेहताम्। ८.५।

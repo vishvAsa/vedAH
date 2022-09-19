@@ -26,7 +26,6 @@ xvi. 8. 1 **a**.⌋
 Glory to him when rising, when ascending! Glory to him when he hath reached the zenith! To him far-shining, him the self-refulgent, to him the Sovran Lord and King be glory!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽयते। नमः। उत्ऽआयते। नमः। उत्ऽइताय। नमः। विऽराजे। नमः। स्वऽराजे। नमः। सम्ऽराजे। नमः। १.२२।

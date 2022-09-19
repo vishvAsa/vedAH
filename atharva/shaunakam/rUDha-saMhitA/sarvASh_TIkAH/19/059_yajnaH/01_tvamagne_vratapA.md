@@ -33,7 +33,6 @@ trüber Zeit;* etc.⌋
 God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sacred rites.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। अग्ने। व्रतऽपाः। असि। देवः। आ। मर्त्येषु। आ। त्वम्। यज्ञेषु। ईड्यः। ५९.१।

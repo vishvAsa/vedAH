@@ -24,7 +24,6 @@ reading *avasvan* (voc.: = *avanavan* or *pālaka*).
 We have worked for thee, we have toiled and laboured: bright Dawns have shed their light upon our worship. All that the Gods regard with love is blessed. Loud may we speak, with heroes, in assembly.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अकर्म। ते। सुऽअपसः। अभूम। ऋतम्। अवस्रन्। उषसः। विऽभातीः। विश्वम्। तत्। भद्रम्। यत्। अवन्ति। देवाः। बृहत्। वदेम। विदथे। सुऽवीराः। ३.२४।

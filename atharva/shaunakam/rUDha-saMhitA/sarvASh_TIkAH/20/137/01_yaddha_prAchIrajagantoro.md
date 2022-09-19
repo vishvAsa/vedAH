@@ -8,7 +8,6 @@ title = "०१ यद्ध प्राचीरजगन्तोरो"
 When, foul with secret spot and stain, ye hastened onward to the breast. All Indra's enemies were slain and passed away like froth and foam.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। ह। प्राचीः। अजगन्त। उरः। मण्डूरऽधाणिकीः। ह्वताः। इन्द्रस्य। शत्रवः। सर्वे। बुद्बुदऽयाशवः। १३७.१।

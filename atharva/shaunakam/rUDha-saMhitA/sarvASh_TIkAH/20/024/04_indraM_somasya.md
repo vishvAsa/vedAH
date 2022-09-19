@@ -8,7 +8,6 @@ title = "०४ इन्द्रं सोमस्य"
 Hither with songs of praise we call Indra to drink the Soma. juice: Will he not come to us by lauds?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। सोमस्य। पीतये। स्तोमैः। इह। हवामहै। उक्थेभिः। कुवित्। आऽगमत्। २४.४।

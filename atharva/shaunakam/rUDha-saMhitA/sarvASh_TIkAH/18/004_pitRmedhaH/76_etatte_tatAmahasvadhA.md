@@ -17,7 +17,6 @@ after thee.
 To thee, Great-grandfather, and to those with thee be this cry of Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। ते। ततामह। स्वधा। ये। च। त्वाम्। अनु। ४.७६।

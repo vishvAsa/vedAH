@@ -25,7 +25,6 @@ good reason for its alteration in our text to *drúhas.*
 We call on Indra, on the liberal giver: we will be prosperous in men and cattle. Let not the hosts of cruel fiends approach us. Drive of the Druhs to every side, O Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। वयम्। अनुऽराधम्। हवामहे। अनु। राध्यास्म। द्विऽपदा। चतुःऽपदा। मा। नः। सेनाः। अररुषीः। उप। गुः। विषूचीः। इन्द्र। द्रुहः। वि। नाशय। १५.२।

@@ -8,7 +8,6 @@ title = "०६ यस्मिन्वयं दधिमा"
 He unto whom we offer praises, Indra, Maghavan, who hath joined to ours his wishes Before him even afar the foe must tremble: low before him must bow all human glories.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्मिन्। वयम्। दधिम। शंसम्। इन्द्रे। यः। शिश्राय। मघऽवा। कामम्। अस्मै इति। आरात्। चित्। सन्। भयताम्। अस्य। शत्रुः। नि। अस्मै। द्युम्ना। जन्या। नमन्ताम्। ८९.६।

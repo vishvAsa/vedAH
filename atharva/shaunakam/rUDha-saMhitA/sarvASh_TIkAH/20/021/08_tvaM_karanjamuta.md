@@ -8,7 +8,6 @@ title = "०८ त्वं करञ्जमुत"
 Thou hast stuck down in death Karanja, Parnaya, in Atithigva's very glorious going forth: Unyielding, when Rijisvan compassed them with siege, thou hast destroyed the hundred towns of Vangrida.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। करञ्जम्। उत। पर्णयम्। वधीः। तेजिष्ठ्या। अतिथिऽग्वस्य। वर्तनी। त्वम्। शता। वङ्गृदस्य। अभिनत्। पुरः। अननुऽदः। परिऽसूताः। ऋजिश्वना। २१.८।

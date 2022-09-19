@@ -21,7 +21,6 @@ svasā*. With **a, b** compare i. 24. 3 **a, b**.
 Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जीवला। नाम। ते। माता। जीवन्तः। नाम। ते। पिता। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.३।

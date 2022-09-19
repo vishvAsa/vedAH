@@ -25,7 +25,6 @@ majority having *duhitár divás*. Ppp. reads in **b** *rātrī ek-*.
 Twenty-and-two hast thou, O Night, eleven, yea, and fewer still. With these protectors guard us well. O Daughter of the Sky, to- day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्वौ। च। ते। विंशतिः। च। ते। रात्रि। एकादश। अवमाः। तेभिः। नः। अद्य। पायुऽभिः। नु। पाहि। दुहितः। दिवः। ४७.५।

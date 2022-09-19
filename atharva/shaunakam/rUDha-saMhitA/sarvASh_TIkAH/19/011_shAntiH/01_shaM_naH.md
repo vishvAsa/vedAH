@@ -22,7 +22,6 @@ comes from root *hū* or from *hu*.
 May the great Lords of Truth protect and aid us: blest to us be our horses and our cattle. Kind be the pious, skilful-handed Ribhus, kind be the Fathers at our invocations
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। सत्यस्य। पतयः। भवन्तु। शम्। नः। अर्वन्तः। शम्। ऊं इति। सन्तु। गावः। शम्। नः। ऋभवः। सुऽकृतः। सुऽहस्ताः। शम्। नः। भवन्तु। पितरः। हवेषु। ११.१।

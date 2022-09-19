@@ -7,7 +7,6 @@ title = "०४६ अस्तृतमणिः"
 46. With and to an amulet called ástṛta 'unsubdued.'
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अस्तृतमणिः।  
@@ -18,8 +17,6 @@ title = "०४६ अस्तृतमणिः"
 
 [Prajāpati.—saptakam. astṛtamaṇidāivatam. trāiṣṭubham: 1. 5-p. madhyejyotiṣmatī triṣṭubh; 2. 6-p. bhurik śakvarī; 3. 7. 5-p. pathyāpan̄kti; 4. 4-p*; 5. 5-p. atijagatī; 6. 6-p. uṣṇiggarbhā virāḍ jagatī.] *⌊The Anukr. says: indrāya tvā (vs. 4) catuṣpadā: asmin maṇāv (vs. 5); iti pañcapadā jagatī (Berlin ms., atijagatī): most unsatisfactory; and why should vs. 4 be defined as 4-p.?⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 462; Griffith, ii. 302.—See also Bergaigne-Henry, Manue
 
 A charm accompanying investiture with an amulet that ensures safety and victory
 </details>
+

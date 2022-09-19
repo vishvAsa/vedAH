@@ -8,7 +8,6 @@ title = "०९ अध द्रप्सो"
 And then the drop in Ansumati's bosom, splendid with light, assumed its proper body; And Indra with Brihaspati to aid him, conquered the godless tribes that came against him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। द्रप्सः। अंशुऽमत्याः। उपऽस्थे। अधारयत्। तन्वम्। तित्विषाणः। विशः। अदेवीः। अभि। आऽचरन्तीः। बृहस्पत‍िना। युजा। इन्द्रः। ससहे। १३७.९।

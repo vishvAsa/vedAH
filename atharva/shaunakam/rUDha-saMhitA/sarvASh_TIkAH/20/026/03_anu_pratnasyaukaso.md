@@ -8,7 +8,6 @@ title = "०३ अनु प्रत्नस्यौकसो"
 I call him, mighty to resist, the Hero of our ancient home, Thee whom my sire invoked of old.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनु। प्रत्नस्य। ओकसः। हुवे। तुविऽप्रतिम्। नरम्। यम्। ते। पूर्वम्। पिता। हुवे। २६.३।

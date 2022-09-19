@@ -23,7 +23,7 @@ The malady that makes one deaf, the malady that makes one blind, All malady that
 
 <details open><summary>पदपाठः</summary>
 
-यः। कृणोति। प्रऽमोतम्। अन्धम्। कृणोति। पुरुषम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.४।
+यः। कृणोति। प्रऽमोतम्। अन्धम्। कृणोति। पुरुषम्। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

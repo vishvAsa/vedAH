@@ -23,10 +23,9 @@ its second half being our **c, d**, without variant. The comm. reads
 I am no help for thee, no refuge, Yami, I will not clasp and press thee to my bosom. This is abhorrent to my mind and spirit--a brother on the couch beside a sister.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-न। ते। नाथम्। यमि। अत्र। अहम्। अस्म‍ि। न। ते। तनूम्। तन्वा। सम्। पपृच्याम्। अन्येन। मत्। प्रऽमुदः। कल्पयस्व। न। ते। भ्राता। सुऽभगे। वष्टि। एतत्। १.१३।
+न। ते। नाथम्। यमि। अत्र। अहम्। अस्म‍ि। न। ते। तनूम्। तन्वा᳡। सम्। पपृच्याम्। अन्येन। मत्। प्रऽमुदः। कल्पयस्व। न। ते। भ्राता। सुऽभगे। वष्टि। एतत्। १.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -17,7 +17,6 @@ life-time.
 Ye remain alive. I fain would remain alive. I fain would live my complete term of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्ऽजीवाः। स्थ। सम्। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.३।

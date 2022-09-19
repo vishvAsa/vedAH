@@ -18,7 +18,6 @@ Literally 'of one waking' and 'in sleep.' The *pada*-text reads
 Evil day-dream, evil dream in sleep,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जाग्रत्ऽदुस्वप्न्यम्। स्वप्नेऽदुस्वप्न्यम्। ६.९।

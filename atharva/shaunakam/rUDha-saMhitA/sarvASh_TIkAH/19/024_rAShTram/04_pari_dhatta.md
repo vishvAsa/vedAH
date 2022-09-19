@@ -24,7 +24,6 @@ note to ii. 13. 2.
 For us, surround him, cover him with splendour, give him long life, and death when age removes him. This garment hath Brihaspati presented to Soma, to the King, to wrap about him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परि। धत्त। धत्त। नः। वर्चसा। इमम्। जराऽमृत्युम्। कृणुत। दीर्घम्। आयुः। बृहस्पतिः। प्र। अयच्छत्। वासः। एतत्। सोमाय। राज्ञे। परिऽधातवै। ऊं इति। २४.४।

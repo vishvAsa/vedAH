@@ -25,7 +25,6 @@ structure and count of the vss., see above, p. 805, ¶ 4.⌋
 Vanquishing, etc. Indra by name, adorable, I call: may equals love me well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। समानानाम्। भूयासम्। १.५।

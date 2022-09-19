@@ -26,7 +26,6 @@ ceremony: for details, see my note to xviii. 1. 49.⌋
 For Yama Soma juice flows clear, to Yama is oblation paid. To Yama sacrifice prepared, and heralded by Agni, goes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमाय। सोमः। पवते। यमाय। क्रियते। हविः। यमम्। ह। यज्ञः। गच्छति। अग्निऽदूतः। अरम्ऽकृतः। २.१।

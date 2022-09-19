@@ -21,7 +21,6 @@ are found in MB. ii. 5. 13, 14. Ppp. reads in **a** *ā ’rikṣam;* and, in
 Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast transported me to night: so bear me evermore to day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सूर्य। नावम्। आ। अरुक्षः। शतऽअरित्राम्। स्वस्तये। रात्रिम्। मा। अति। अपीपरः। अहः। सत्रा। अति। पारय। १.२६।

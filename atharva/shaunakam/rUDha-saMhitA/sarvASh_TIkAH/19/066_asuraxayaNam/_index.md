@@ -7,7 +7,6 @@ title = "०६६ असुरक्षयणम्"
 66. To Agni: for aid.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 असुरक्षयणम्।  
@@ -18,8 +17,6 @@ title = "०६६ असुरक्षयणम्"
 
 [Brahman.—ekarcam. jātavedasam; sāuryam; vajradevatyam. atijāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 319.
 
 A hymn to Agni as the Sun
 </details>
+

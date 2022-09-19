@@ -27,7 +27,7 @@ Self-smiting, beating breast and thigh, careless of unguent, with their hair dis
 
 <details open><summary>पदपाठः</summary>
 
-प्रतिऽघ्नानाः। सम्। धावन्तु। उरः। पटूरौ। आऽघ्नानाः। अघारिणीः। विऽकेश्यः। रुदत्यः। पुरुषे। हते। रदिते। अर्बुदे। तव। ११.१४।
+प्रतिऽघ्नानाः। सम्। धावन्तु। उरः। पटूरौ। आऽघ्नानाः। अघारिणीः। विऽकेश्यः᳡। रुदत्यः᳡। पुरुषे। हते। रदिते। अर्बुदे। तव। ११.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

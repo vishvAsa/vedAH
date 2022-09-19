@@ -25,7 +25,6 @@ have (after the fashion of MS.) *-mitráṅ* or *-mítraṅ;* ⌊cf. note to 27.
 Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foemen. Be thou protector of our bodies, crushing our enemies, destroy- ing those who hate us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पते। परि। दीय। रथेन। रक्षःऽहा। अमित्रान्। अपऽबाधमानः। प्रऽभञ्जन्। शत्रून्। प्रऽमृणन्। अमित्रान्। अस्माकम्। एधि। अविता। तनूनाम्। १३.८।

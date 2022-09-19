@@ -8,7 +8,6 @@ title = "०६ इन्द्रो वलम्"
 As with a hand, so with his roaring Indra cleft Vala through,. the guardian of the cattle. Seeking the milk-draught with sweat-shining comrades he stole: the Pani's kine and left him weeping.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। वलम्। रक्षितारम्। दुघानाम्। करेणऽइव। वि। चकर्त। रवेण। स्वेदाञ्जिऽभिः। आऽशिरम्। इच्छमानः। अरोदयत्। पणिम्। आ। गाः। अमुष्णात्। ९१.६।

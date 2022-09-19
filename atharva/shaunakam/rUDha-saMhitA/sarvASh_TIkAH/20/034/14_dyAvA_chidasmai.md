@@ -8,7 +8,6 @@ title = "१४ द्यावा चिदस्मै"
 Heaven, even, and the earth bow down before him, before his very breath the mountains tremble. Known as the Soma-drinker, armed with thunder, the wielder of the bolt, He, men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्यावा। चित्। अस्मै। पृथिवी इति। नमेते  इति। शुष्मात्। चित्। अस्य। पर्वताः। भयन्ते। यः। सोमऽपाः। निऽचितः। वज्रबाहुः। यः। वज्रऽहस्तः। सः। जनासः। इन्द्रः। ३४.१४।

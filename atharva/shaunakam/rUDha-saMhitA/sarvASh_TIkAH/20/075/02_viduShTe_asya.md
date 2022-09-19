@@ -8,7 +8,6 @@ title = "०२ विदुष्टे अस्य"
 This thine heroic power full well the people knew, wherewith thou brakest down, Indra, autumnal forts, brakest them down with conquering might. Thou hast chastised. O Indra, Lord of strength, the man who worships not, And made thine own this great earth and these water-floods, with joyous heart these water-floods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विदुः। ते। अस्य। वीर्यस्य। पूरवः। पुरः। यत्। इन्द्र। शारदीः। अवऽअतिरः। ससहानः। अवऽअतिरः। ससहानः। अवऽअतिरः। शासः। तम्। इन्द्र। मर्त्यम्। अयज्युम्। शवसः। पते। महीम्। अमुष्णाः। पृथिवीम्। इमाः। अपः। मन्दसानः। इमाः। अपः। ७५.२।

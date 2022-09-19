@@ -14,7 +14,6 @@ title = "०३ स यद्"
 He, when he went away to the southern region, went away having become Indra, and having made Strength an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। दक्षिणाम्। दिशम्। अनु। विऽअचलत्। इन्द्रः। भूत्वा। अनुऽव्य᳡चलत्। बलम्। अन्नऽअदम्। कृत्वा। १४.३।

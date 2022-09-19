@@ -26,7 +26,6 @@ SPP's, although he does not distinctly say so; ⌊his note to vs. 8 (note
 If we have cried, O Waters! Cows! if we have cried, O Varuna! For this endowed with thousand powers! deliver us from misery.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 

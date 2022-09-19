@@ -8,7 +8,6 @@ title = "०६ त्वमिन्द्रासि वृत्रहा"
 Thou art the Vritra-slayer, thou, Indra, hast spread the firmament: Thou hast with might upheld the heavens.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। असि। वृत्रऽहा। वि। अन्तरिक्षम्। अतिरः। उत्। द्याम्। अस्तभ्ना ः। ओजसा। ९३.६।

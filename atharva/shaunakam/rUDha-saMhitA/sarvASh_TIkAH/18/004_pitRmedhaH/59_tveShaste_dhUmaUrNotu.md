@@ -22,7 +22,6 @@ uses the verse, with others, in the ceremony of establishing the fires.
 Let thy bright smoke envelop thee, spread forth, O Bright One, in the sky. For, Purifier, like the Sun thou shinest with thy radiant glow.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वेषः। ते। धूमः। ऊर्णोतु। दिवि। सन्। शुक्रः। आऽततः। सुरः। न। हि। द्युता। त्वम्। कृपा। पावक। रोचसे। ४.५९।

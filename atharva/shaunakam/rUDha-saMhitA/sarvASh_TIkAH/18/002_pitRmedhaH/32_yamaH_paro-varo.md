@@ -23,7 +23,6 @@ metrical irregularities (10 + 12: 11 + 11 = 44).
 Yama is higher and Vivasvan lower: nothing whatever do I see above him. This sacrifice of mine is based on Yama, Vivasvan spread the atmosphere about us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमः। परः। अवरः। विवस्वान्। ततः। परम्। न। अति। पश्यामि। किम्। चन। यमे। अध्वरः। अधि। मे। न‍िऽविष्टः। भुवः। विवस्वान्। अनुऽआततान। २.३२।

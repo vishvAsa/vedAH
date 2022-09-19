@@ -29,7 +29,6 @@ of the person on whom it is "bound"—so Griffith.⌋
 The Hundred-haired hath banished hence fiends and Consump- tions by its might. With splendour hath the charm that scares demons of ill-name mounted up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतऽवारः। अनीनशत्। यक्ष्मान्। रक्षांसि। तेजसा। आऽरोहन्। वर्चसा। सह। मणिः। दुर्नामऽचातनः। ३६.१।

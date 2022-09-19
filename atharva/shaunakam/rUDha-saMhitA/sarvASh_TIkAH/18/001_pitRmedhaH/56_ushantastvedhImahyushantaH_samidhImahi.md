@@ -23,7 +23,6 @@ variation of this.⌋
 We set thee down with yearning, and with yearning we enkindle thee, Yearning, bring yearning Fathers nigh to eat the food of sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उशन्तः। त्वा। इधीमहि। उशन्तः। सम्। इधीमहि। उशन्। उशतः। आ। वह। पितॄन्। हविषे। अत्तवे। १.५६।

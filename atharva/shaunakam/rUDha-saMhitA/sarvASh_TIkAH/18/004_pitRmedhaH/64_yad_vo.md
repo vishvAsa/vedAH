@@ -34,7 +34,6 @@ L.S.*, i. 57.⌋
 If Agni Jatavedas, as he bore you hence to the Fathers' world, hath left one single. Limb of your bodies, here do I restore it. Fathers, rejoice in heaven with all your members!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वः। अग्निः। अजहात्। एकम्। अङ्गम्। पितृऽलोकम्। गमयन्। जातऽवेदाः। तत्। वः। एतत्। पुनः। आ। प्याययामि। सऽअङ्गा। स्वःऽगे। पितरः। मादयध्वम्। ४.६४।

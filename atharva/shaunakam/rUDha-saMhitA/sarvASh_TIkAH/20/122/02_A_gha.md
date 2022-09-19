@@ -8,7 +8,6 @@ title = "०२ आ घ"
 Like thee, thyself, the singers' friend, thou movest as it were, besought, Bold One, the axle of the car.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। घ। त्वाऽवान्। त्मना। आप्तः। स्तोतृऽभ्यः। धृष्णो इति। इयानः। ऋणोः। अक्षम्। न। चक्र्योः। १२२.२।

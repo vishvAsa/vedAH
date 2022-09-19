@@ -8,7 +8,6 @@ title = "१५ अस्मा इदु"
 Now unto him of these things hath been given what he, who rules alone o'er much, electeth. Indra helped Etasa, the Soma presser, contending in the chariot- race with Surya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। त्यत्। अनु। दायि। एषाम्। एकः। यत्। वव्ने। भूरेः। ईशानः। प्र। एतशम्। सूर्ये। पस्पृधानम्। सौवश्व्यै। सुस्विम्। आवत्। इन्द्रः। ३५.१५।

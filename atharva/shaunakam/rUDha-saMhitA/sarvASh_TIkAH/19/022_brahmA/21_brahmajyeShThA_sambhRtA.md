@@ -42,10 +42,9 @@ omitted, as well as the *in* part of that of the second!
 Collected manly powers are topped by Brahma. Brahma at first spread out the loftiest heaven. Brahma was born first of all things existing. Who then is meet to be that Brahma's rival?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-ब्रह्मऽज्येष्ठा। सम्ऽभृता। वीर्याणि। ब्रह्म। अग्रे। ज्येष्ठम्। दिवम्। आ। ततान। भूतानाम्। ब्रह्मा। प्रथमः। उत। जज्ञे। तेन। अर्हति। ब्रह्मणा। स्पर्धितुम्। कः। २२.२१।
+ब्रह्मऽज्येष्ठा। सम्ऽभृता। वीर्या᳡णि। ब्रह्म। अग्रे। ज्येष्ठम्। दिवम्। आ। ततान। भूतानाम्। ब्रह्मा। प्रथमः। उत। जज्ञे। तेन। अर्हति। ब्रह्मणा। स्पर्धितुम्। कः। २२.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

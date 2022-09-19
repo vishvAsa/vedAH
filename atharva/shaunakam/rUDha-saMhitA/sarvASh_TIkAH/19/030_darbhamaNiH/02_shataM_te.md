@@ -23,10 +23,9 @@ and by the comm.
 Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All Gods have given thee to him to bear thee till extreme old age.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शतम्। ते। दर्भ। वर्माणि। सहस्रम्। वीर्याणि। ते। तम्। अस्मै। विश्वे। त्वाम्। देवाः। जरसे। भर्तवै। अदुः। ३०.२।
+शतम्। ते। दर्भ। वर्माणि। सहस्रम्। वीर्या᳡णि। ते। तम्। अस्मै। विश्वे। त्वाम्। देवाः। जरसे। भर्तवै। अदुः। ३०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,6 @@ The translation follows our emendation (*aśvinā*, with TS.; *dhiyé
 With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chief of sacrifices, I call the Waters' Child and both the Asvins, Vigour is mine, and strength bestowed by Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अंहःऽमुचम्। वृषभम्। यज्ञियानाम्। विऽराजन्तम्। प्रथमम्। अध्वराणाम्। अपाम्। नपातम्। अश्विना। हुवे। धियः। इन्द्रियेण। ते। इन्द्रियम्। दत्तम्। ओजः। ४२.४।

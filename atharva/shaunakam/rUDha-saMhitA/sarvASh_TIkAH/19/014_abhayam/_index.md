@@ -7,7 +7,6 @@ title = "०१४ अभयम्"
 14. For safety.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
@@ -18,8 +17,6 @@ title = "०१४ अभयम्"
 
 [Atharvan.—ekarcam . dyāvāpṛthivīyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 274. Griffith calls it a "hymn after victory" and refe
 
 A hymn after victory
 </details>
+

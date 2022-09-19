@@ -17,7 +17,6 @@ let him hate \[his\] self.}}
 Him who hates us may his soul hate, and may he whom we hate hate himself.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। अस्मान्। द्वेष्टि। तम्। आत्मा। द्वेष्टु। यम्। वयम्। द्विष्मः। सः। आत्मानम्। द्वेष्टु। ७.५।

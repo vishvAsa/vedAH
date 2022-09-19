@@ -8,7 +8,6 @@ title = "१६ कण्वेभिर्धृष्णवा धृषद्
 Boldly, bold Hero, bring us spoil in thousands for the Kanvas' sake. O active Maghavan, with eager prayer we crave the yellow-hued with store of kine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कण्वेभिः। धृष्णो इति। आ। धृषत्। वाजम्। दर्षि। सहस्रिणम्। पिशङ्गऽरूपम्। मघऽवन्। विऽचर्षणे। मक्षू। गोमन्तम्। ईमहे। ५७.१६।

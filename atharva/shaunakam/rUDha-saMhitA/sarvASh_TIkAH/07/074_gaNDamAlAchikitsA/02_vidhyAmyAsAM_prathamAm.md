@@ -24,7 +24,7 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 
 <details open><summary>पदपाठः</summary>
 
-विध्यामि। आसाम्। प्रथमाम्। विध्यामि। उत। मध्यमाम्। इदम्। जघन्याम्। आसाम्। आ। छिनद्मि। स्तुकाम्ऽइव। ७८.२।
+विध्यामि। आसाम्। प्रथमाम्। विध्यामि। उत। मध्यमाम्। इदम्। जघन्या᳡म्। आसाम्। आ। छिनद्मि। स्तुकाम्ऽइव। ७८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

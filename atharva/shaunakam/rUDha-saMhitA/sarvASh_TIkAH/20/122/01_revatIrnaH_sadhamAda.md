@@ -8,7 +8,6 @@ title = "०१ रेवतीर्नः सधमाद"
 With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy in food, we may rejoice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रेवतीः। नः। सधऽमादे। इन्द्रे। सन्तु। तुविऽवाजाः। क्षुऽमन्तः। याभिः। मदेम। १२२.१।

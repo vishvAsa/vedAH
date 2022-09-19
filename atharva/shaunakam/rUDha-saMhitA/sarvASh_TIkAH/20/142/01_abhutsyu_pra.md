@@ -8,7 +8,6 @@ title = "०१ अभुत्स्यु प्र"
 Together with the Goddess, with the Asvins' Speech have I awoke. Thou, Goddess, hast disclosed the hymn and holy gift from mortal men.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभुत्सि। ऊं इति। प्र। देव्या। साकम्। वाचा। अहम्। अश्विनोः। वि। आवः। देवि। आ। मतिम्। वि। रातिम्। मर्त्येभ्यः। १४२.१।

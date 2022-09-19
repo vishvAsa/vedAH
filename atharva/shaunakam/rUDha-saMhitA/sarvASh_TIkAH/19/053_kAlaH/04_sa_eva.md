@@ -26,7 +26,6 @@ that case, perhaps we might render *sá evá* by 'the same.'⌋
 He only made the worlds of life, he only gathered the worlds of living things together. Their son did he become who was their Father: no other higher power than he existeth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। एव। सम्। भुवनानि। आ। अभरत्। सः। एव। सम्। भुवनानि। परि। ऐत्। पिता। सन्। अभवत्। पुत्रः। एषाम्। तस्मात्। वै। न। अन्यत्। परम्। अस्त‍ि। तेजः। ५३.४।

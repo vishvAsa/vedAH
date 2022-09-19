@@ -8,7 +8,6 @@ title = "१३ चित्रं देवानाम्"
 Bright, Presence of the Gods, the luminous herald, Siirya hath mounted the celestial regions. Day's maker, he hath shone away the darkness, and radiant passed o'er places hard to traverse.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चित्रम्। देवानाम्। केतुः। अनीकम्। ज्योतिष्मान्। प्रऽदिशः। सूर्यः। उत्ऽवन्। दिवाऽकरः। अति। द्युम्नैः। तमांसि। विश्वा। अतारीत्। दुःऽइतानि। शुक्रः। १०७.१३।

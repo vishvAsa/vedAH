@@ -18,7 +18,6 @@ come upon the sun with heaven-and-earth.
 Let those who vex me from the western quarter, sinners, praise Surya linked with Earth and Heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सूर्यम्। ते। द्यावापृथिवीऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। प्रतीच्याः। दिशः। अभिऽदासात्। १८.५।

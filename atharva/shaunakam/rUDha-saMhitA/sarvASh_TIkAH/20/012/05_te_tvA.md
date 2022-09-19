@@ -8,7 +8,6 @@ title = "०५ ते त्वा"
 So may these gladdening draughts rejoice thee, Indra, the Mighty, very bounteous to the singer. Alone among the Gods thou pitiest mortals: O Hero, make thee glad at this libation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ते। त्वा। मदाः। इन्द्र। मादयन्तु। शुष्मिणम्। तुविऽराधसम्। जरित्रे। एकः। देवऽत्रा। दयसे। हि। मर्तान्। अस्मिन्। शूर। सवने। मादयस्व। १२.५।

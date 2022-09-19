@@ -8,7 +8,6 @@ title = "०५ यज्ञैरथर्वा प्रथमः"
 Atharvan first by sacrifices laid the path; then, guardian of the Law, sprang up the loving Sun. Usana Kavya drove the kine hither with him: let us with offer- ings honour Yama's deathless birth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यज्ञैः। अथर्वा। प्रथमः। पथः। तते। ततः। सूर्यः। व्रतपाः। वेनः। आ। अजनि। आ। गाः। आजत्। उशना। काव्यः। सचा। यमस्य। जातम्। अमृतम्। यजामहे। २५.५।

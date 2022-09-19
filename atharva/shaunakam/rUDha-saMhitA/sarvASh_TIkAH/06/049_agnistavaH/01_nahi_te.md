@@ -25,7 +25,7 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 
 <details open><summary>पदपाठः</summary>
 
-नहि। ते। अग्ने। तन्वः। क्रूरम्। आनंश। मर्त्यः। कपिः। बभस्ति। तेजनम्। स्वम्। जरायु। गौःऽइव। ४९.१।
+नहि। ते। अग्ने। तन्वः᳡। क्रूरम्। आनंश। मर्त्यः। कपिः। बभस्ति। तेजनम्। स्वम्। जरायु। गौःऽइव। ४९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

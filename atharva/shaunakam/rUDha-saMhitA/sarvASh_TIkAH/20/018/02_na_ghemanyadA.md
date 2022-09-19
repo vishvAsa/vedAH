@@ -8,7 +8,6 @@ title = "०२ न घेमन्यदा"
 Naught else, O Thunderer, have I praised in the skilled singer's eulogy: On thy laud only have I thought.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। घ। ईम्। अन्यत्। आ। पपन। वज्रिन्। अपसः। नविष्टौ। तव। इत्। ऊं इति। स्तोमम्। चिकेत। १८.२।

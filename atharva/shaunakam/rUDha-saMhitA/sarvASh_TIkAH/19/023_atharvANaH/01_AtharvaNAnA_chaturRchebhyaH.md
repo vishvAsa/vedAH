@@ -16,7 +16,6 @@ title = "०१ आथर्वणाना चतुरृचेभ्यः"
 Hail to the four-verse strophes of the Atharvanas!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आथर्वणानाम्। चतुःऽऋचेभ्यः। स्वाहा। २३.१।

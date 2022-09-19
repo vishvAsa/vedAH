@@ -8,7 +8,6 @@ title = "११ य उदृचीन्द्र"
 May we protected by the Gods hereafter remain thy very pro- sperous friends, O Indra. Thee we extol, enjoying through thy favour life-long and joyful and with store of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। उत्ऽऋषि। इन्द्र। देवऽगोपाः। सखायः। ते। शिवतमाः। असाम। त्वाम्। स्तोषाम। त्वया। सुऽवीराः। द्राघीयः। आयुः। प्रऽतरम्। दधानाः। २१.११।

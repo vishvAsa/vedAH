@@ -8,7 +8,6 @@ title = "०५ विभिद्या पुरम्"
 When he had cleft the lairs and western castle, he cut off three from him who held the waters. Brihaspati discovered, while he thundered like Dyaus, the dawn,. the sun, the cow, the lightning.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽभिद्यः। पुरम्। शयथा। ईम्। अपाचीम्। निः। त्रीणि। साकम्। उदऽधेः। अकृन्तत्। बृहस्पतिः। उषसम्। सूर्यम्। गाम्। अर्कम्। विवेद। स्तनयन्ऽइव। द्यौः। ९१.५।

@@ -19,7 +19,6 @@ meter of this verse.
 The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in accord with the Lord of Dawn,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उषः। पतिः। वाचः। पतिना। सम्ऽविदानः। वाचः। पतिः। उषः। पतिना। सम्ऽविदानः। ६.६।

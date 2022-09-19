@@ -8,7 +8,6 @@ title = "०३ एन्द्रवाहो नृपतिम्"
 Let strong and mighty steeds who bear this mighty Indra, the Lord of men, whose arm wields thunder, Bring unto us, as shares of our banquet, the Bull of conquering might, of real vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। इन्द्रऽवाहः। नृऽपतिम्। वज्रऽबाहुम्। उग्रम्। उग्रासः। तविषासः। एनम्। प्रऽत्वक्षसम्। वृषभम्। सत्यऽशुष्मम्। आ। ईम्। अस्मऽत्रा। सधऽमादः। वहन्तु। ९४.३।

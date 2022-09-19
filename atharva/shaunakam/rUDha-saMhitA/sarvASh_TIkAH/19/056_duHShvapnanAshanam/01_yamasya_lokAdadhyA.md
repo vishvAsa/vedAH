@@ -38,7 +38,6 @@ II. xvi. 682.⌋
 Thou art come hither from the world of Yama: thou, resolute, affectest men with rapture. Thou, Sleep, created in the Asura's dwelling, goest, well-know- ing, with the solitary.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमस्य। लोकात्। अधि। आ। बभूविथ। प्रऽमदा। मर्त्यान्। प्र। युनक्षि। धीरः। एकाकिना। सऽरथम्। यासि। विद्वान्। स्वप्नम्। मिमानः। असुरस्य। योनौ। ५६.१।

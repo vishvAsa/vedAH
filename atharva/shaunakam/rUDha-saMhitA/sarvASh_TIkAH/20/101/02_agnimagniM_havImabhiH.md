@@ -8,7 +8,6 @@ title = "०२ अग्निमग्निं हवीमभिः"
 With calls they ever invocate Agni, Agni, Lord of the House, Oblation-bearer, much-beloved.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निम्ऽअग्निम्। हवीऽभिः। सदा। हवन्त। विश्पतिम्। हव्यऽवाहम्। पुरुऽप्रियम्। १०१.२।

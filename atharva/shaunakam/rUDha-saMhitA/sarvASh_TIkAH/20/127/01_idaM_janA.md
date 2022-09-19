@@ -8,7 +8,6 @@ title = "०१ इदं जना"
 Listen to this, ye men, a laud of glorious bounty shall be sung. Thousands sixty, and ninety we, O Kaurama, among the Rusamas have received.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। जनाः। उप। श्रुत। नराशंसः। स्तविष्यते। षष्टिम्। सहस्रा। नवतिम्। च। कौरम। आ। रुशमेषु। दद्महे। १२७.१।

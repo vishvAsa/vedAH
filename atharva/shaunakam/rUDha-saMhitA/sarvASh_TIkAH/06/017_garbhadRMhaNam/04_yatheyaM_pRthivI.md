@@ -22,7 +22,6 @@ Even as this mighty Earth supports the moving world that dwells thereon, So may 
 यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।

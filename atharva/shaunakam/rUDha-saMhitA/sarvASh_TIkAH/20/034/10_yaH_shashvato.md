@@ -8,7 +8,6 @@ title = "१० यः शश्वतो"
 He who hath smitten, ere they know their danger, with his hurl- ed weapon many grievous sinners: Who pardons not his boldness who provokes him, who slays the Dasyu, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। शश्वतः। महि। एनः। दधानात्। अमन्यमानान्। शुर्वा। जघान। यः। शर्धते। न। अनुऽददाति। शृध्याम्। यः। दस्योः। हन्ता। सः। जनासः। इन्द्रः। ३४.१०।

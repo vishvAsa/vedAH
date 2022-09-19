@@ -17,7 +17,6 @@ The majority of mss. combine in **a-b** *me óṣa*, and SPP. follows them.
 Burn thou, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ओष। दर्भ। सऽपत्नान्। मे। ओष। मे। पृतनाऽयतः। ओष। मे। सर्वान्। दुःऽहार्दः। ओष। मे। द्विषतः। मणे। २९.७।

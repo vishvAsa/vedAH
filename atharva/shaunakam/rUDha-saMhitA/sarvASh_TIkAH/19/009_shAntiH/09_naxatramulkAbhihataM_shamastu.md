@@ -34,7 +34,6 @@ as bad as possible.
 Gracious be meteor-stricken constellation, gracious to us be magic spells and witchcraft! Gracious to us be buried charms, and gracious the meteors and the portents of the region!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नक्षत्रम्। उल्का। अभिऽहतम्। शम्। अस्तु। नः। शम्। नः। अभिऽचाराः। शम्। ऊँ इति। सन्तु। कृत्याः। शम्। नः। निऽखाताः। वल्गाः। शम्। उल्काः। देशोपऽसर्गाः। शम्। ऊँ इति। नः। भवन्तु। ९.९।

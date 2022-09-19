@@ -23,10 +23,9 @@ ar-*, which is doubtless the true *pada*-text.
 Let not the fowlers who are standing ready injure thee in the flood, within the waters. Ascend this heaven, leaving each curse behind thee, Favour us: let thy gracious love attend us. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-मा। त्वा। दभन्। सलिले। अप्ऽसु। अन्तः। ये। पाशिनः। उपऽतिष्ठन्ति। अत्र। हित्वा। अशस्तिम्। दिवम्। आ। अरुक्षः। एताम्। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.८।
+मा। त्वा। दभन्। सलिले। अप्ऽसु। अन्तः। ये। पाशिनः। उपऽतिष्ठन्ति। अत्र। हित्वा। अशस्तिम्। दिवम्। आ। अरुक्षः। एताम्। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "०२ यः पृथिवीम्"
 He who fixed fast and firm the earth that staggered, and set at rest the agitated mountains, Who measured out air's wider middle region and gave the heaven support, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। पृथिवीम्। व्यथमानाम्। अदृंहत्। यः। पर्वतान्। प्र। कुपितान्। अरम्णात्। यः। अन्तरिक्षम्। विऽममे। वरीयः। यः। द्याम्। अस्तभ्नात्। सः। जनासः। इन्द्रः। ३३.२।

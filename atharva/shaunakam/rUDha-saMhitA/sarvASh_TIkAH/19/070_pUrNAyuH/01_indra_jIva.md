@@ -19,7 +19,6 @@ and all. The comm. explains it by adding a *bhavata*.
 Live, Indra. Live Surya. Live, ye Gods. I fain would live. Fain would I live my complete term of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। जीव। सूर्य। जीव। देवाः। जीवाः। जीव्यासम्। अहम्। सर्वम्। आयुः। जीव्यासम्। ७०.१।

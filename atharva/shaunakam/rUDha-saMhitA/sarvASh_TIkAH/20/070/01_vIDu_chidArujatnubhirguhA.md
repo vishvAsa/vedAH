@@ -8,7 +8,6 @@ title = "०१ वीडु चिदारुजत्नुभिर्गु
 Thou, Indra, with the Tempest-Gods, the breakers down of what is firm, Foundest the kine even in the cave.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वीलु। चित्। आरुजत्नुऽभिः। गुहा। चित्। इन्द्र। वह्निभिः। अविन्दः। उस्रियाः। अनु। ७०.१।

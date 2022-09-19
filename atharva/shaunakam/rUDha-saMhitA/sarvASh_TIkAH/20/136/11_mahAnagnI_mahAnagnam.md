@@ -8,7 +8,6 @@ title = "११ महानग्नी महानग्नम्"
 Arnica post currentem amatorem currit: Has ejus boves custodi tu. Me futue: coctam oryzam ede.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इति। महान्। अग्नम्‌। धावन्तम्। अनु। धावति। इमाः। तत्। अस्य। गाः। रक्ष। यभ। माम्। अद्धि। औदनम्। ११३६.११।

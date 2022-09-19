@@ -7,7 +7,6 @@ title = "०५९ यज्ञः"
 59. For successful sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यज्ञः।  
@@ -18,8 +17,6 @@ title = "०५९ यज्ञः"
 
 [Brahman.—tṛcam, āgneyam. trāiṣṭubham: 1. gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 317.
 
 An expiatory hymn accompanying sacrifice
 </details>
+

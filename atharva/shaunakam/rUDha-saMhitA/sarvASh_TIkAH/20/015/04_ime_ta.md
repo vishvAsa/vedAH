@@ -8,7 +8,6 @@ title = "०४ इमे त"
 Thine, Indra, praised by many excellently rich! are we who trusting in thy help draw near to thee. Lover of praise, none else but thou receives our laud: as Earth loves all her creatures, love thou this our hymn.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमे। ते। इन्द्र। ते। वयम्। पुरुऽस्तुत। ये। त्वा। आरभ्य। चरामसि। प्रभुवसो इति प्रभुऽवसो। नहि। त्वत्। अन्यः। गिर्वणः। गिरः। सघत्। क्षोणीःऽइव। प्रति। नः। हर्य। तत्। वचः। १५.४।

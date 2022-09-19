@@ -33,7 +33,6 @@ sacrifice.
 Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him shelter broad and sure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्योना। अस्मै। भव। पृथिवि। अनृक्षरा। निऽविशनी। यच्छ। अस्मै। शर्म। सऽप्रथाः। २.१९।

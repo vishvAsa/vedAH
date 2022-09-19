@@ -20,7 +20,6 @@ word-play between *prasava* and *savitṛ*. The syllables (if the *a* of
 Under the impulse of the God Savitar, sent forth from the arms- of the Asvins and both hands of Pushan I have taken thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवस्य। त्वा। सवितुः। प्रऽसवे। अश्विनोः। बाहुऽभ्याम्। पूष्णः। हस्ताभ्याम्। प्रऽसूतः। आ। रभे। ५१.२।

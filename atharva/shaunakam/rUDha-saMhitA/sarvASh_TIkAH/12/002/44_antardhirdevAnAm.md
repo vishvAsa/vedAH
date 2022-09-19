@@ -25,7 +25,7 @@ He who holds Gods within himself, the rampart and defence of men, Agni, the sacr
 
 <details open><summary>पदपाठः</summary>
 
-अन्तःऽधिः। देवानाम्। परिऽधिः। मनुष्याणाम्। अग्निः। गार्हऽपत्यः। उभयान्। अन्तरा। श्रितः। २.४४।
+अन्तःऽधिः। देवानाम्। परिऽधिः। मनुष्या᳡णाम्। अग्निः। गार्हऽपत्यः। उभयान्। अन्तरा। श्रितः। २.४४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

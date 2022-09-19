@@ -8,7 +8,6 @@ title = "०७ आराच्छत्रुमप बाधस्व"
 With thy fierce bolt, O God invoked of many, drive to a distance from afar the foeman. O Indra, give us wealth in corn and cattle, and make the singer's prayer gain strength and riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आरात्। शत्रून्। अप। बाधस्व। दूरम्। उग्रः। यः। शम्बः। पुरुऽहूत। तेन। अस्मै इति। धेह‍ि। यवऽमत्। गोऽमत्। इन्द्र। कृधि। धियम्। जरित्रे। वाजऽरत्नाम्। ८९.७।

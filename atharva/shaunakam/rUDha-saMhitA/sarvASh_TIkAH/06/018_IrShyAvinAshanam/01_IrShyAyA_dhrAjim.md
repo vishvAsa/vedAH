@@ -22,7 +22,7 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 
 <details open><summary>पदपाठः</summary>
 
-ईर्ष्यायाः। ध्राजिम्। प्रथमाम्। प्रथमस्याः। उत। अपराम्। अग्निम्। हृदय्यम्। शोकम्। तम्। ते। निः। वापयामसि। १८.१।
+ईर्ष्यायाः। ध्राजिम्। प्रथमाम्। प्रथमस्याः। उत। अपराम्। अग्निम्। हृदय्य᳡म्। शोकम्। तम्। ते। निः। वापयामसि। १८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

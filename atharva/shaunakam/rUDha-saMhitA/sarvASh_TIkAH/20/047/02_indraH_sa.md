@@ -8,7 +8,6 @@ title = "०२ इन्द्रः स"
 Indra was made for giving, most powerful, friendly in carouse, Bright, meet for Soma, famed in song.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। सः। दामने। कृतः। ओजिष्ठः। सः। मदे। हितः। द्युम्नी। श्लोकी। सः। सोम्यः। ४७.२।

@@ -8,7 +8,6 @@ title = "११ अयन्महा ते"
 Hither hath come a stallion: he is known by droppings on his way, (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयत्। महा। ते। अर्वाहः। १२९.११।

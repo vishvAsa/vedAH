@@ -16,7 +16,6 @@ title = "०९ इन्द्रस्य व"
 May he anoint you with Indra's own mighty power!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रस्य। वः। इन्द्रियेण। अभि। सिञ्चेत्। १.९।

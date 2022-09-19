@@ -8,7 +8,6 @@ title = "१० अस्येदेव शवसा"
 Through his own strength with bolt of thunder Indra smote piece-meal Vritra, drier up of waters. He let the floods go free, like cows imprisoned, for glory, with a heart inclined to bounty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। एव। शवसा। शुषन्तम्। वि। वृश्चत्। वज्रेण। वृत्रम्। इन्द्रः। गाः। न। व्राणाः। अवनीः। अमुञ्चत्। अभि। श्रवः। दावने। सऽचेता। ३५.१०।

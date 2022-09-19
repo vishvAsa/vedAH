@@ -41,7 +41,6 @@ steno* etc.⌋.
 Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My wealth do thou annoy, O Night, that not one robber may appear, none may a second time appear.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्या। ह। नाम। दधिषे। मम। दिप्सन्ति। ये। धना। रात्रि। इहि। तान्। असुऽतपा। यः। स्तेनः। न। विद्यते। यत्। पुनः। न। विद्यते। ४९.७।

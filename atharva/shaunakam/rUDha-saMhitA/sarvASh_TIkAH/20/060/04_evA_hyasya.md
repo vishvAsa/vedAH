@@ -8,7 +8,6 @@ title = "०४ एवा ह्यस्य"
 So also is his excellence, great copious, rich in cattle, like A ripe branch to the worshipper.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। हि। अस्य। सूनृता। विऽरप्शी। गोऽमती। मही। पक्वा। शाखा। न। दाशुषे। ६०.४।

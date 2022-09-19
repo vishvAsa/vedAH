@@ -21,7 +21,7 @@ From all that brings a curse may Day and Night and Dawn deliver me, May Soma fre
 
 <details open><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्यात्। अहोरात्रे इति। अथो इति। उषाः। सोमः। मा। देवः। मुञ्चतु। यम्। आहुः। चन्द्रमाः। इति। ८.७।
+मुञ्चन्तु। मा। शपथ्या᳡त्। अहोरात्रे इति। अथो इति। उषाः। सोमः। मा। देवः। मुञ्चतु। यम्। आहुः। चन्द्रमाः। इति। ८.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

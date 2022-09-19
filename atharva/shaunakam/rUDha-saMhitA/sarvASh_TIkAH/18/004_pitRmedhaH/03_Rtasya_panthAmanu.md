@@ -25,7 +25,6 @@ verse reads as five good *triṣṭubh* pādas⌋.
 Carefully look on Sacrifice's pathway whereon the Angirases, the righteous, travel. By those same pathways go thou up to Svarga where the Adityas take their fill of sweetness, There make thy home in the third vault of heaven,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋतस्य। पन्थाम्। अनु। पश्य। साधु। अङ्गिरसः। सुऽकृतः। येन। यन्ति। तेभिः। याहि। पथिऽभिः। स्वःऽगम्। यत्र। आदित्याः। मधु। भक्षयन्ति। तृतीये। नाके। अधि। वि। श्रयस्व। ४.३।

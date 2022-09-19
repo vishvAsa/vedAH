@@ -8,7 +8,6 @@ title = "०३ आदित्ते अस्य"
 And they have bruited far this hero might, when thou, O Strong One, in thy joy helpest thy suppliants who sought to win thee for their Friend. Their battle-cry thou madest sound victorious in the shocks of war. One stream after another have they gained from thee, eager for glory have they gained.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आत्। इत्। ते। अस्य। वीर्यस्य। चर्किरन्। मदेषु। वृषन्। उशिजः। यत्। आविथः। सखिऽयतः। यत्। आविथ। चकर्थ। कारम्। एभ्यः। पृतनासु। प्रऽवन्तवे। ते। अन्याम्ऽअन्याम्। नद्यम्। सनिष्णत। अवस्यन्तः। सनिष्णत। ७५.३।

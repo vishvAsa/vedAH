@@ -32,7 +32,6 @@ comm. also, against *pada*-text and accent, understands *adhā ’mṛtās* in
 As Prithivi rests on earth, so do I seat thee. May the God Dhatar lengthen our existence. For you may he who parts in turn find treasures, but let the Dead among the Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृथिवीम्। त्वा। पृथिव्याम्। आ। वेशयामि। देवः। नः। धाता। प्र। तरति। आयुः। पराऽपरैता। वसुऽवित्। वः। अस्तु। अध। मृताः। पितृषु। सम्। भवन्तु। ४.४८।

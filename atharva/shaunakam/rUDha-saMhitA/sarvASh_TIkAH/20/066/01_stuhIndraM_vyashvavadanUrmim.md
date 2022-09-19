@@ -8,7 +8,6 @@ title = "०१ स्तुहीन्द्रं व्यश्ववदन
 As Vyasva did, praise Indra, praise the strong unfluctuating guide. Who gives the foe's possessions to the worshipper.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तुहि। इन्द्रम्। व्यश्वऽवत्। अनूर्मिम्। वाजिनम्। यमम्। अर्यः। गयम्। मंहमानम्। वि। दाशुषे। ६६.१।

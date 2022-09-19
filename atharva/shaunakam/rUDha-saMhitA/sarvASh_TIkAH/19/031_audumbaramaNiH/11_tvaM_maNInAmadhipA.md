@@ -30,7 +30,6 @@ up the full count of a *śakvarī*, 56, by resolution.
 The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendered riches, These gains are lodged in thee, and all great treasures. Amulet, conquer thou: far from us banish malignity and indigence, and hunger.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। मणीनाम्। अधिऽपाः। वृषा। असि। त्वयि। पुष्टम्। पुष्टऽपतिः। जजान। त्वयि। इमे इति। वाजाः। द्रविणानि। सर्वा। औदुम्बरः। सः। त्वम्। अस्मत्। सहस्व। आरात्। अरातिम्। अमतिम्। क्षुधम्। च। ३१.११।

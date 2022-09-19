@@ -10,7 +10,6 @@ Mātariśvan and Pavamāna the two drawers of the rough vehicle, the wind
 the charioteer, the whirlwind the goad, 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मातरिश्वा। च। पवमानः। च। विपथऽवाहौ। वातः। सारथिः। रेष्मा। प्रऽतोदः। २.२७।

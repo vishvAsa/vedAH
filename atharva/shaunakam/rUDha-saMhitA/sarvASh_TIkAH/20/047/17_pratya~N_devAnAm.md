@@ -8,7 +8,6 @@ title = "१७ प्रत्यङ् देवानाम्"
 Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all light for us to see.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रत्यङ्। देवानाम्। विशः। प्रत्यङ्। उत्। एषि। मानुषीः। प्रत्यङ्। विश्वम्। स्वः। दृशे। ४७.१७।

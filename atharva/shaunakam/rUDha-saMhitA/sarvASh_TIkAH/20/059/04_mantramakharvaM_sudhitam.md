@@ -8,7 +8,6 @@ title = "०४ मन्त्रमखर्वं सुधितम्"
 Make for the holy Gods a hymn that is not mean, but well arranged and fair in form. Full many snares and bonds subdue not him who dwells with Indra through his sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मन्त्रम्। अखर्वम्। सुऽधितम्। सुऽपेशसम्। दधात। यज्ञियेषु। आ। पूर्वीः। चन। प्रऽसितयः। तरन्ति। तम्। यः। इन्द्रे। कर्मणा। भुवत्। ५९.४।

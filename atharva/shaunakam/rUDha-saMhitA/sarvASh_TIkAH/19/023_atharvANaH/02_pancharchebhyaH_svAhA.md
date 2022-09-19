@@ -16,7 +16,6 @@ title = "०२ पञ्चर्चेभ्यः स्वाहा"
 Hail to the five-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पञ्चऽऋचेभ्यः। स्वाहा। २३.२।

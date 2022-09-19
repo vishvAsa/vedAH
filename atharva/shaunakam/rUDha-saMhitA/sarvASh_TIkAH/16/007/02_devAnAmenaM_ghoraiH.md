@@ -19,7 +19,6 @@ is common later, but rather in a sense suggested by its etymology.
 I summon him with the awful cruel orders of the Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवानाम्। एनम्। घोरैः। क्रूरैः। प्रऽएषैः। अभ‍िऽप्रेष्यामि। ७.२।

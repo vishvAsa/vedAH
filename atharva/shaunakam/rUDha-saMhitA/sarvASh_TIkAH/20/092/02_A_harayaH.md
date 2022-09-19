@@ -8,7 +8,6 @@ title = "०२ आ हरयः"
 Hither his bay steeds have been sent, red steeds are on the sacred grass. Where we in concert sing our songs.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। हरयः। ससृज्रिरे। अरुषीः। अधि। ‍बर्हिषि। यत्र। अभि। सम्ऽनवामहे। ९२.२।

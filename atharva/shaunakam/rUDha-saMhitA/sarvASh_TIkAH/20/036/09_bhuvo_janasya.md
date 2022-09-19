@@ -8,7 +8,6 @@ title = "०९ भुवो जनस्य"
 Of all the heavenly folk, of earthly creatures, thou art the King, O God of splendid aspect. In thy right hand, O Indra, grasp the thunder: Eternal! thou destroyest all enchantments.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भुवः। जनस्य। दिव्यस्य। राजा। पार्थिवस्य। जगतः। त्वेषऽसंदक्। धिष्व। वज्रम्। दक्षिणे। इन्द्र। हस्ते। विश्वाः। अजुर्य। दयसे। वि। मायाः। ३६.९।

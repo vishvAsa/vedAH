@@ -8,7 +8,6 @@ title = "०२ ये गव्यता"
 They who with minds intent on spoil subdue the foe, boldly attack and smite him down. From these, O Indra, Bounteous Lord who lovest song, be closest guardian of our lives.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। गव्यता। मनसा। शत्रुम्। आऽदभुः। अभिऽप्रघ्नन्ति। धृष्णुऽया। अघ। स्म। नः। मघऽवन्। इन्द्र। गिर्वणः। तनूऽपाः। अन्तमः। भव। ८३.२।

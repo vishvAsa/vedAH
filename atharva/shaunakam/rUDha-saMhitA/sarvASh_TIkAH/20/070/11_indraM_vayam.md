@@ -8,7 +8,6 @@ title = "११ इन्द्रं वयम्"
 In mighty battle we invoke, Indra, Indra in lesser fight, The friend who bends his bolt at fiends.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। वयम्। महाऽधने। इन्द्रम्। अर्भे। हवामहे। युजम्। वृत्रेषु। वज्रिणम्। ७०.११।

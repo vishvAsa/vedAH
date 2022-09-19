@@ -8,7 +8,6 @@ title = "०१ वयमेनमिदा ह्योऽपीपेमेह
 Here verily yesterday we let the Thunder-wielder drink his fill. So in like manner, offer him the juice to day. Now range you. by the Glorious One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। एनम्। इदा। ह्यः। अपीपेम। इह। वज्रिणम्। तस्मै। ऊं इति। अद्य। समना। सुतम्। भर। आ। नूनम्। भूषत। श्रुते। ९७.१।

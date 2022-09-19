@@ -19,7 +19,7 @@ Even as Gods and Asuras, even as mortal men have done, Do ye, that these may mul
 
 <details open><summary>पदपाठः</summary>
 
-यथा। चक्रुः। देवऽअसुराः। यथा। मनुष्याः। उत। एव। सहस्रऽपोषाय। कृणुतम्। लक्ष्म। अश्विना। १४१.३।
+यथा। चक्रुः। देवऽअसुराः। यथा। मनुष्याः᳡। उत। एव। सहस्रऽपोषाय। कृणुतम्। लक्ष्म। अश्विना। १४१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

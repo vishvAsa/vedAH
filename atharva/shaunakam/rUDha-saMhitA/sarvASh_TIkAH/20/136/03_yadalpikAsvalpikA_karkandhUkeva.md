@@ -8,7 +8,6 @@ title = "०३ यदल्पिकास्वल्पिका कर्क
 Quum parvum, admodum parvum, Ziziphi Jujubae quasi granum in eam incidit, ventris ejus partes interiores, velut verno tempore arundo, extentae videntur.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अल्पिकासु। अल्पिका। कर्कऽधूके। अवऽसद्यते। वासन्तिकम्ऽइव। तेजनम्। यन्ति। अवाताय। वित्पति। १३६.३।

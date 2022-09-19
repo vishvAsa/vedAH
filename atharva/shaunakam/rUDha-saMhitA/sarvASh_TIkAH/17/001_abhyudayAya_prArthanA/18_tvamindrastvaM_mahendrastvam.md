@@ -25,10 +25,9 @@ Indra, in the *darśapūrṇamāsa* ceremony. In our edition, the *ṁ* of
 Indra art thou, Mahendra thou, thou art the world, the Lord of Life. To thee is sacrifice performed: worshippers offer gifts to thee. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्रः। त्वम्। महाऽइन्द्रः। त्वम्। लोकः। त्वम्। प्रजाऽपतिः। तुभ्यम्। यज्ञः। वि। तायते। तुभ्यम्। जुह्वति। जुह्वतः। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेह‍ि। परमे। विऽओमन्। १.१८।
+त्वम्। इन्द्रः। त्वम्। महाऽइन्द्रः। त्वम्। लोकः। त्वम्। प्रजाऽपतिः। तुभ्यम्। यज्ञः। वि। तायते। तुभ्यम्। जुह्वति। जुह्वतः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेह‍ि। परमे। विऽओमन्। १.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

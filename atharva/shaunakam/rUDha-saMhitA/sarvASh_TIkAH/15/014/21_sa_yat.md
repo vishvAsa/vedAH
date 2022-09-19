@@ -14,7 +14,6 @@ title = "२१ स यत्"
 He, when he went away to creatures, went away having become Prajapati and having made vital breath an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। प्रऽजाः। अनु। विऽअचलत्। प्रजाऽपतिः। भूत्वा। अनुऽव्य᳡चलत्। प्राणम्। अन्नऽअदम्। कृत्वा। १४.२१।

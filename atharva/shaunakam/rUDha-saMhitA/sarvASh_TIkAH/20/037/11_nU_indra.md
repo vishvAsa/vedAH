@@ -8,7 +8,6 @@ title = "११ नू इन्द्र"
 Now, lauded for thine aid, heroic Indra, sped by our prayer,, wax mighty in thy body. To us apportion wealth and habitations. Ye Gods, protect us- evermore with blessings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नु। इन्द्र। शूर। स्तवमानः। ऊती। ब्रह्मऽजूतः। तन्वा। ववृधस्व। उप। नः। वाजान्। मिमीहि। उप। स्तीन्। यूयम्। पात। स्वस्तिऽभिः। सदा। नः। ३७.११।

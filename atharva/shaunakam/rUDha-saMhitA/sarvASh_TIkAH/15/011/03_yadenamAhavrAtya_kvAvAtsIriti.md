@@ -19,7 +19,7 @@ When he says to his guest, Where didst thou pass the night? he reserves for hims
 
 <details open><summary>पदपाठः</summary>
 
-यत्। एनम्। आह। व्रात्य। क्व। अवात्सीः। इति। पथः। एव। तेन। देवऽयानान्। अव। रुन्ध्दे। ११.३।
+यत्। एनम्। आह। व्रात्य। क्व᳡। अवात्सीः। इति। पथः। एव। तेन। देवऽयानान्। अव। रुन्ध्दे। ११.३।
 </details>
 
 <details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ When he says to his guest, Where didst thou pass the night? he reserves for hims
 
 टिप्पणी:   ३−(यत्) यदा (एनम्) अतिथिम् (आह) ब्रूते (पथः) मार्गान् (एव)निश्चयेन (तेन) सत्कारेण (देवयानान्) विद्वद्भिर्गन्तव्यान् (अव रुन्द्धे)आत्मने सुरक्षति। अन्यत् पूर्ववत् ॥
 </details>
+

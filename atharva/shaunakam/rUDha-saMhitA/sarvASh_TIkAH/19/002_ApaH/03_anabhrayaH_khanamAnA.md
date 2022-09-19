@@ -25,7 +25,6 @@ reads the latter and not the former. Ppp. reads and combines
 To those who delve without a tool to dig, the wise, the deeply moved, To Waters better healers than physicians we address our prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनभ्रयः। खनमानाः। विप्राः। गम्भीरे। अपसः। भिषक्ऽभ्यः। भिषक्ऽतराः। आपः। अच्छ। वदामसि। २.३।

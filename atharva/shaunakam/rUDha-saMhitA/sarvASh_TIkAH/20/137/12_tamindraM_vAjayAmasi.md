@@ -8,7 +8,6 @@ title = "१२ तमिन्द्रं वाजयामसि"
 We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero shall he be.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। इन्द्रम्। वाजयामसि। महे। वृत्राय। हन्तवे। सः। वृषा। वृषभः। भुवत्। १३७.१२।

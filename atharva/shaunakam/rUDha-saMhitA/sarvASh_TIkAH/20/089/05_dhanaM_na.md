@@ -8,7 +8,6 @@ title = "०५ धनं न"
 Whoso with plenteous juice for him expresses strong Somas as much quickly-coming treasure, For him he everthrows in early morning his swift well-weapon- ed foes and slays the tyrant.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धनम्। न। स्पन्द्रम्। बहुलम्। यः। अस्मै। तीव्रान्। सोमान्। आऽसुनोति। प्रयस्वान्। तस्मै। शत्रून्। सुऽतुकान्। प्रातः। अह्नः। नि। सुऽअष्ट्रान्। युवति। हन्ति। वृत्रम्। ८९.५।

@@ -20,7 +20,6 @@ seems to be wide of the mark.⌋
 I let loose the Agni who is within the waters, Mroka the up- rooter, the destroyer of the body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। अप्ऽसु। अग्निः। अति। तम्। सृजामि। म्रोकम्। खनिम्। तनूऽदूषिम्। १.७।

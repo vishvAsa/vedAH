@@ -23,7 +23,6 @@ also vary in this last word between *-ṇas* and *-nas;* SPP. adopts
 Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up the people, Loud shouting, vigilant, the one sole Hero, Indra subdued a hundred hosts together.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आशुः। शिशानः। वृषभः। न। भीमः। घनाघनः। क्षोभणः। चर्षणीनाम्। सम्ऽक्रन्दनः। अनिऽमिषः। एकऽवीरः। शतम्। सेनाः। अजयत्। साकम्। इन्द्रः। १३.२।

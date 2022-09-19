@@ -8,7 +8,6 @@ title = "०२ अहं प्रत्नेन"
 After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's self gains strength thereby.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अहम्। प्रत्नेन। मन्मना। गिरः। शुम्भामि। कण्वऽवत्। येन। इन्द्रः। शुष्मम्। इत्। दधे। ११५.२।

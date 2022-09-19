@@ -20,7 +20,7 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 
 <details open><summary>पदपाठः</summary>
 
-यथा। उदकम्। अपपुषः। अपऽशुष्यति। आस्यम्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
+यथा। उदकम्। अपपुषः। अपऽशुष्यति। आस्य᳡म्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

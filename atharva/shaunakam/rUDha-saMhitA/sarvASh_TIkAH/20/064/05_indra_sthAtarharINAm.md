@@ -8,7 +8,6 @@ title = "०५ इन्द्र स्थातर्हरीणाम्"
 Indra whom tawny coursers bear, praise such a thine,. preeminent None by his power or by his goodness hath attained
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। स्थातः। हरीणाम्। नकिः। ते। पूर्व्यऽस्तुतिम्। उत्। आनंश। शवसा। न। भन्दना। ६४.५।

@@ -8,7 +8,6 @@ title = "१२ पुरूतमं पुरूणामीशानम्"
 To him the richest of the rich, the Lord of treasures excellent, Indra, with Soma juice outpoured.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुरूतमम्। पुरूणाम्। ईशानम्। वार्याणाम्। इन्द्रम्। सोमे। सचा। सुते। ६८.१२।

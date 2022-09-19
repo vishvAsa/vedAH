@@ -16,7 +16,6 @@ quarter
 He who hath this knowledge be- comes the dear home of Syaita, etc. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्यैतस्य। च। वै। सः। नौधसस्य। च। सप्तऽऋषीणाम्। च। सोमस्य। च। राज्ञः। प्रियम्। धाम। भवति। तस्य। उदीच्याम्। दिशि। २.२४।

@@ -21,10 +21,9 @@ the second *ánu*.
 He went away to the regions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-सः। दिशः। अनु। वि। अचलत्। 
+सः। दिशः। अनु। वि। अचलत्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

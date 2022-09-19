@@ -8,7 +8,6 @@ title = "०२ अग्न आ"
 Agni, come hither with thy fires: we choose thee as our Hotai- priest. Let the extended ladle full of oil balm thee, best priest, to sit on sacred grass.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्ने। आ। याहि। अग्निऽभिः। होतारम्। त्वा। वृणीमहे। आ। त्वाम्। अनक्तु। प्रऽयता। हविष्मती। वजिष्ठम्। बर्हिः। आऽसदे। १०३.२।

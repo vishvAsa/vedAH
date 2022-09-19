@@ -15,7 +15,7 @@ Law is its water for the hands and family custom its aspersion.
 
 <details open><summary>पदपाठः</summary>
 
-ऋतम्। हस्तऽअवनेजनम्। कुल्या। उपऽसेचनम्। ३.१३।
+ऋतम्। हस्तऽअवनेजनम्। कुल्या᳡। उपऽसेचनम्। ३.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

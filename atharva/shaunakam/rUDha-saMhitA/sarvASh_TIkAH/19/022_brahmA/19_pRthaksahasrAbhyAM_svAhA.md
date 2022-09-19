@@ -16,7 +16,6 @@ title = "१९ पृथक्सहस्राभ्यां स्वाह
 To those two with separate thousands, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृथक्ऽसहस्राभ्याम्। स्वाहा। २२.१९।

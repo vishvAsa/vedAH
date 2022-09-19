@@ -21,7 +21,6 @@ All hail to Air!
 अन्तरिक्षाय। स्वाहा। ९.४।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अन्तरिक्षाय। स्वाहा। ९.४।

@@ -10,8 +10,6 @@ as attendant from the intermediate direction of the fixed quarter; not
 śarva etc. etc.
 </details>
 
-
-
 <details><summary>पदपाठः</summary>
 
 रुद्रः। एनम्। इषुऽआसः। ध्रुवायाः। दिशः। अन्तःऽदेशात्। अनुऽस्थाता। अनु। तिष्ठति। न। एनम्। शर्वः। न। भवः। न। ईशानः। न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.११।

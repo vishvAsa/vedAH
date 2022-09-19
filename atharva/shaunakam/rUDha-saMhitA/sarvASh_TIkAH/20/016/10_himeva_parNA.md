@@ -8,7 +8,6 @@ title = "१० हिमेव पर्णा"
 As trees for foliage robbed by winter, Vala mourned for the cows Brihaspati had taken. He did a deed ne'er done, ne'er to be equalled, whereby the sun and moon ascend alternate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हिमाऽइव। पर्णा। मुषिता। वनानि। बृहस्पतिना। अकृपयत्। वलः। गाः। अननुऽकृत्यम्। अपुनरिति। चकार। यात्। सूर्यामासा। मिथः। उत्ऽचरातः। १६.१०।

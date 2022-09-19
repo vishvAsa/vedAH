@@ -29,7 +29,6 @@ place of which we should expect only two syllables⌋.
 Let the Gods' Priests and those who merit worship, to whom oblation as their share is offered, Come to this holy service with their Consorts, and all Gods revel in the food we bring them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। देवानाम्। ऋत्विजः। ये। च। यज्ञियाः। येभ्यः। हव्यम्। क्रियते। भागऽधेयम्। इमम्। यज्ञम्। सह। पत्नीभिः। आऽइत्य। यावन्तः। देवाः। तविषाः। मादयन्ताम्। ५८.६।

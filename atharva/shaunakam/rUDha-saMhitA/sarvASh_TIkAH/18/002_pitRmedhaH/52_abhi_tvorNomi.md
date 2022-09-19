@@ -22,7 +22,6 @@ heir of the dead man.⌋
 Round thee auspiciously I wrap the vesture of our Mother Earth: Be bliss among the living mine, oblation mid the Fathers thine!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। त्वा। ऊर्णोमि। पृथिव्याः। मातुः। वस्त्रेण। भद्रया। जीवेषु। भद्रम्। तत्। मयि। स्वधा। पितृषु। सा। त्वयि। २.५२।

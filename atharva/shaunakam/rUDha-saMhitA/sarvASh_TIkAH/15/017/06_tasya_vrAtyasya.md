@@ -16,7 +16,6 @@ title = "०६ तस्य व्रात्यस्य"
 His sixth diffused breath are the Season-groups.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। षष्ठः। विऽआनः। ते। आर्तवाः। १७.६।

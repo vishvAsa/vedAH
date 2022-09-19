@@ -35,7 +35,6 @@ téna*.⌋
 Blind him and make him headless, Night! the serpent with the pungent breath. Strike from his head the wolf's two eyes, and dash the thief against a post.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। रात्रि। तृष्टऽधूमम्। अशीर्षाणम्। अहिम्। कृणु। अक्षौ। वृकस्य। निः। जह्याः। तेन। तम्। द्रुऽपदे। जहि। ५०.१।

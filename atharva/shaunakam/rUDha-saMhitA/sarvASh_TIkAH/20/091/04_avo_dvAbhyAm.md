@@ -8,7 +8,6 @@ title = "०४ अवो द्वाभ्याम्"
 Apart from one, away from two above him, he draye the kine that stood in bonds of falsehood. Brihaspati, seeking light amid the darkness, draye forth the bright cows: three he made apparent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अवः। द्वाभ्याम्। परः। एकया। गाः। गुहा। तिष्ठन्तीः। अनृतस्य। सेतौ। बृहस्पतिः। तमसि। ज्योतिः। इच्छन्। उत्। उस्राः। आ। अकः। वि। हि। तिस्रः। आवरित्याथः। ९१.४।

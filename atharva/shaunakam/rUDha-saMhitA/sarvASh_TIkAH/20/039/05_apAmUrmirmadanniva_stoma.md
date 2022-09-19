@@ -8,7 +8,6 @@ title = "०५ अपामूर्मिर्मदन्निव स्त
 Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone the drops that gladden thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपाम्। ऊर्मिः। मदन्ऽइव। स्तोमः। इन्द्र। अजिरयते। वि। ते। मदाः। अराजिषुः। ३९.५।

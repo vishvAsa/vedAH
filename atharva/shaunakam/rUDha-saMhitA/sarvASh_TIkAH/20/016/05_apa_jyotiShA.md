@@ -8,7 +8,6 @@ title = "०५ अप ज्योतिषा"
 Forth from mid-air with light he draye the darkness, as the gale blows a lily from the river. Like the wind grasping at the cloud of Vala, Brihaspati gathered to himself the cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। ज्योतिषा। तमः। अन्तरिक्षात्। उद्नः। शीपालम्ऽइव। वातः। आजत्। बृहस्पतिः। अनुऽमृ‌श्य। वलस्य। अभ्रम्ऽइव। वातः। आ। चक्रे। आ। गाः। १६.५।

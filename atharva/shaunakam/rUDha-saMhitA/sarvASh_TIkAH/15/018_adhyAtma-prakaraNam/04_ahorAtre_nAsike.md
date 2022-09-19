@@ -17,7 +17,6 @@ skull-halves; the year \[his\] head.
 Day and Night are his nostrils. Diti and Aditi are his head and skull.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अहोरात्रे इति। नासिके इति। दितिः। च। अदितिः। च। शीर्षकपाले इति शीर्षऽकपाले। सम्ऽवत्सरः। शिरः। १८.४।

@@ -43,7 +43,6 @@ note.⌋
 Our Father's Fathers and their sires before them who came, most noble, to the Soma banquet, With these let Yama, yearning with the yearning, rejoicing eat our offerings at his pleasure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। नः। पितुः। पितरः। ये। पितामहाः। अनुऽजहिरे। सोमऽपीथम्। वसिष्ठाः। तेभिः। यमः। सम्ऽरराणः। हवींषि। उशन्। उशत्ऽभिः। प्रतिऽकामम्। अत्तु। ३.४६।

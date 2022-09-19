@@ -8,7 +8,6 @@ title = "०८ परिच्छिन्नः क्षेममकरोत
 'Mounting his throne, Parikshit, best of all, hath given us peace and rest,' Saith a Kauravya to his wife as he is ordering his house.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परिच्छिन्नः। क्षेमम्। अकरोत्। तमः। आसनम्। आचरन्। कुलायन्। कृण्वन्। कौरव्यः। पतिः। वदति। जायया। १२७.८।

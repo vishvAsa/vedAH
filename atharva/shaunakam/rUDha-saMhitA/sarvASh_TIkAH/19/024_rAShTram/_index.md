@@ -7,7 +7,6 @@ title = "०२४ राष्ट्रम्"
 24. For prosperity: with a certain garment.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रम्।  
@@ -18,8 +17,6 @@ title = "०२४ राष्ट्रम्"
 
 [Atharvan.—aṣṭāu. mantroktabahudevatyam uta brāhmaṇaspatyam. ānuṣṭubham: 4-6, 8. triṣṭubh; 7. 3-p. ārṣī gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 458; Griffith, ii. 281.
 
 A benediction on a newly elected King
 </details>
+

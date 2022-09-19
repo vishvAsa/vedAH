@@ -23,7 +23,6 @@ vocative = *yoddhāras;* with *tát* (twice) in **c** he supplies
 With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom none may vanquish, Indra the strong whose hand bears arrows, conquer, ye heroes now, now vanquish in the combat.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्ऽक्रन्दनेन। अनिऽमिषेण। जिष्णुना। अयोध्येन। दुःऽच्यवनेन। धृष्णुना। तत्। इन्द्रेण। जयत। तत्। सहध्वम्। युधः। नरः। इषुऽहस्तेन। वृष्णा। १३.३।

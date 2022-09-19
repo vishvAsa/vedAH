@@ -8,7 +8,6 @@ title = "०१ समस्य मन्यवे"
 Before his hot displeasure all the peoples, all the men bow down, As rivers bend them to the sea.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। अस्य। मन्यवे। विशः। विश्वाः। नमन्त। कृष्टयः। समुद्रायऽइव। सिन्धवः। १०७.१।

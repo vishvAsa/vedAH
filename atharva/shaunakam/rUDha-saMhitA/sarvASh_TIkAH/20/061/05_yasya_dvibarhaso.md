@@ -8,7 +8,6 @@ title = "०५ यस्य द्विबर्हसो"
 Whose lofty might--for doubly strong is he--supports the heaven and earth. And hills and plains and floods and light with manly power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्य। द्विऽबर्हसः। बृहत्। सहः। दाधार। रोदसी इति। गिरीन्। अज्रान्। अपः। स्वः। वृषऽत्वना। ६१.५।

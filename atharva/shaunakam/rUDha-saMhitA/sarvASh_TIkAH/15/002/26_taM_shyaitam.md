@@ -21,10 +21,9 @@ together at KBU. i. 5.⌋
 Syaita and Naudhasa, the Seven Rishis, and King Soma followed him. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-तम्। श्यैतम्। च। नौधसम्। च। सप्तऽऋषयः। च। सोमः। च। राजा। अनुऽव्यचलन्। २.२२।
+तम्। श्यैतम्। च। नौधसम्। च। सप्तऽऋषयः। च। सोमः। च। राजा। अनुऽव्य᳡चलन्। २.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

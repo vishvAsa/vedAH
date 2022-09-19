@@ -8,7 +8,6 @@ title = "०२ दोहेन गामुप"
 Draw thy Friend to thee like a cow at milking: O singer, wake up Indra as a lover. Make thou the Hero haste to give us riches even as a vessel filled brimful with treasure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दोहेन। गाम्। उप। श‍िक्ष। सखायम्। प्र। बोधय। जरितः। जारम्। इन्द्रम्। कोशम्। न। पूर्णम्। वसुना। निऽऋष्टम्। आ। च्यवय। मघऽदेयाय। शूरम्। ८९.२।

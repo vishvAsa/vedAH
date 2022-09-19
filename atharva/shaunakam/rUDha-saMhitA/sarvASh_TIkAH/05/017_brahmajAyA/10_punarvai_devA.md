@@ -22,7 +22,7 @@ So then the Gods restored her, so men gave the woman back again. Princes who kep
 
 <details open><summary>पदपाठः</summary>
 
-पुनः। वै। देवाः। अददुः। पुनः। मनुष्याः। अददुः। राजानः। सत्यम्। गृह्णानाः। ब्रह्मऽजायाम्। पुनः। ददुः। १७.१०।
+पुनः। वै। देवाः। अददुः। पुनः। मनुष्याः᳡। अददुः। राजानः। सत्यम्। गृह्णानाः। ब्रह्मऽजायाम्। पुनः। ददुः। १७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

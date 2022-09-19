@@ -20,10 +20,9 @@ read in **b** *rājanyàḥ kṛtáḥ*, and in **c** *ūrū́* (for *mádhyam*)
 The Brahman was his mouth, of both his arms was the Rajanya made. His waist became the Vaisya, from his feet the Sudra was produced.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-ब्राह्मणः। अस्य। मुखम्। आसीत्। बाहू इति। राजन्यः। अभवत्। मध्यम्। तत्। अस्य। यत्। वैश्यः। पत्ऽभ्याम्। शूद्रः। अजायत। ६.६।
+ब्राह्मणः। अस्य। मुखम्। आसीत्। बाहू इति। राजन्यः᳡। अभवत्। मध्यम्। तत्। अस्य। यत्। वैश्यः। पत्ऽभ्याम्। शूद्रः। अजायत। ६.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "०९ तं त्वा"
 We strengthen, Satakratu, thee, yea, thee the powerfull in fight, That, Indra, we may win us wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। त्वा। वाजेषु। वाजिनम्। वाजयामः। शतक्रतो इति शतऽक्रतो। धनानाम्। इन्द्र। सातये। ६८.९।

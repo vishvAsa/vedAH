@@ -8,7 +8,6 @@ title = "१४ यस्त ऊरू"
 That which divides thy legs that it may lie between the married pair, That penetrates and licks thy side, even this will we exterminate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। ते। ऊरू इति। विऽहरति। अन्तरा। दम्पती इति दम्ऽपती। शये। योनिम्। यः। अन्तः। आऽरेल्हि। तम्। इतः। नाशयामसि। ९६.१४।

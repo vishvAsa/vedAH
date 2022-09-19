@@ -33,7 +33,6 @@ also W's O.D.L.), and completes it secunda manu, giving *sapátnānām*.⌋
 O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending Vala cleave mine adversaries' hearts in twain.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 घर्मःऽइव। अभिऽतपन्। दर्भ। द्विषतः। निऽतपन्। मणे। हृदः। सऽपत्नानाम्। भिन्ध्दि। इन्द्रःऽइव। विऽरुजन्। बलम्। २८.३।

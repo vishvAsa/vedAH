@@ -20,7 +20,6 @@ There are no difficulties or variants in this verse.
 Satabhishak afford me ample freedom, and both the Proshtha- padas guard me safely. Revati and the Asvayujas bring me luck, and the Bharanis abundant riches!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। मे। महत्। शतऽभिषक्। वरीयः। आ। मे। द्वया। प्रोष्ठऽपदा। सुऽशर्म। आ। रेवती। च। अश्वऽयुजौ। भगम्। मे। आ। मे। रयिम्। भरण्यः। आ। वहन्तु। ७.५।

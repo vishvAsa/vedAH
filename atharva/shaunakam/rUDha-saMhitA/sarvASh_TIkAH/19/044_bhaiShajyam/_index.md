@@ -7,7 +7,6 @@ title = "०४४ भैषज्यम्"
 44. With an ointment: against diseases etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 भैषज्यम्।  
@@ -18,8 +17,6 @@ title = "०४४ भैषज्यम्"
 
 [Bhṛgu.—daśa. mantroktāñjanadevatyam. (8, 9. vāruṇe.) ānuṣṭubham: 4. 4-p. śan̄kumaty uṣṇih; 5. 3-p. nicṛd viṣamā gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 300.—He very pertinently notes that this hymn closel
 
 A curative and protective charm
 </details>
+

@@ -31,7 +31,6 @@ see p. 912, line 9.⌋
 These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all hither, Indra, and make them most gracious unto, me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमाः। याः। ब्रह्मणः। पते। विषूचीः। वातः। ईरते। सध्रीचीः। इन्द्रः। ताः। कृत्वा। मह्यम्। शिवऽतमाः। कृधि। ८.६।

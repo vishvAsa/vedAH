@@ -20,7 +20,6 @@ Many of the mss. accent in **b** *lóke* and *saptárṣayo*. ⌊In **d**
 May all the Gods protect me, may the Gods united shield me well. May all alleviations in the world which the Seven Rishis know. Be kind and gracious unto me. Bliss and security be mine!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यानि। कानि। चित्। शान्तानि। लोके। सप्तऽऋषयः। विदुः। सर्वाणि। शम्। भवन्तु। मे। शम्। मे। अस्तु। अभयम्। मे। अस्तु। ९.१३।

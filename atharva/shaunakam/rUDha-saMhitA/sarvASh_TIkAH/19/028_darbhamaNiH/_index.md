@@ -7,7 +7,6 @@ title = "०२८ दर्भमणिः"
 28. For various blessings: with an amulet of darbhá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
@@ -18,8 +17,6 @@ title = "०२८ दर्भमणिः"
 
 [Brahman (sapatnakṣayakāmaḥ).—daśakam. mantroktadarbhantaṇidevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -38,3 +35,4 @@ Translated: Griffith, ii. 285.
 
 A charm for the destruction of enemies
 </details>
+

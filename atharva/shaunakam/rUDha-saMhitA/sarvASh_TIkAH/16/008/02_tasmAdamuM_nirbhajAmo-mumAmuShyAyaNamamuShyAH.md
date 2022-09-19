@@ -17,7 +17,6 @@ perdition. Of him now etc. etc.
 Whatever we have gained, etc. (as in verse 1). Let him not be freed from the noose of Nirriti, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मात्। अमुम्। निः। भजामः। अमुम्। आमुष्यायणम्। अमुष्याः। पुत्रम्। असौ। यः। ८.२।

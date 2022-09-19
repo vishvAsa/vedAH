@@ -8,7 +8,6 @@ title = "०२ अध ते"
 Now all this world, for worship, shall come after thee--the offerer's libations like descending floods, When the well-loved one seems to rest upon the hill, the thun- derbolt of Indra, shatterer wrought of gold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। ते। विश्वम्। अनु। ह। असत्। इष्टये। आपः। निम्नाऽइव। सवना। हविष्मतः। यत्। पर्वते। न। सम्ऽअशीत। हर्यतः। इन्द्रस्य। वज्रः। श्नथिता। हिरण्ययः। १५.२।

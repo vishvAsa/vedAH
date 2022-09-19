@@ -36,7 +36,6 @@ Ppp. again has *mā indriy-*.
 May Agni protect me with fire for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निः। मा। अग्निना। अवतु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.६।

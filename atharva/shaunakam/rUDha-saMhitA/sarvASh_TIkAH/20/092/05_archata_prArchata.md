@@ -8,7 +8,6 @@ title = "०५ अर्चत प्रार्चत"
 Sing, sing ye forth your songs of praise, ye Priyamedhas, sing your songs: Yea, let young children sing their lauds: as a strong castle praise ye him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्चत। प्र। अर्चत। प्रियऽमेधासः। अर्चत। अर्चन्तु। पुत्रकाः। उत। पुरम्। न। धृष्णु। अर्चत। ९२.५।

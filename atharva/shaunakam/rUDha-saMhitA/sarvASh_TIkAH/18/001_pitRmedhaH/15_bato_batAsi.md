@@ -29,10 +29,9 @@ to be read as only 40 syllables, which is possible (10 + 9: 10 + 11 =
 Alas; thou art indeed a weakling Yama. We find in thee no trace o f heart or spirit. As round a tree the woodbine clings, another will cling about thee girt as with a girdle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-बतः। बत। असि। यम। न। एव। ते। मनः। हृदयम्। च। अविदाम। अन्या। किल। त्वाम्। कक्ष्याऽइव। युक्तम्। परि। स्वजातै। लिबुजाऽइव। वृक्षम्। १.१५।
+बतः। बत। असि। यम। न। एव। ते। मनः। हृदयम्। च। अविदाम। अन्या। किल। त्वाम्। कक्ष्या᳡ऽइव। युक्तम्। परि। स्वजातै। लिबुजाऽइव। वृक्षम्। १.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

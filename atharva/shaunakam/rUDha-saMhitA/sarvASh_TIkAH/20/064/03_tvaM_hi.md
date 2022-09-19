@@ -8,7 +8,6 @@ title = "०३ त्वं हि"
 For thou art, he, O Indra, who stormest all castles of the foe, Slayer of Dasyus, man's supporter, Lord of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। हि। शश्वतीनाम्। इन्द्र। दर्ता। पुराम्। असि। हन्ता। दस्योः। मनोः। वृधः। पतिः। दिवः। ६४.३।

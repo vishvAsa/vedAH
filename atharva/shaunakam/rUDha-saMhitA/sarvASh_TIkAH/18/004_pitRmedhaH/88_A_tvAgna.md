@@ -29,7 +29,6 @@ use of the verse in Kāuś. with 3. 42, see the note to the latter: cf. p.
 Bright Agni, we will kindle thee, rich in thy splendour, fading. not. So that this glorious fuel may send forth to heaven its light for thee. Bring food to those who sing thy praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। त्वा। अग्ने। इधीमहि। द्युऽमन्तम्। देव। अजरम्। यत्। घ। सा। ते। पनीयसी। सम्ऽइत्। दीदयति। द्यवि। इषम्। स्तोतृऽभ्यः। आ। भर। ४.८८।

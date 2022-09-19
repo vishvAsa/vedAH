@@ -25,7 +25,6 @@ vs. 4 and the first half of vs. 5 are wanting in Ppp.
 The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft the demons of ill-name and overcome the Rakshasas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हिरण्यऽशृङ्गः। ऋषभः। शातऽवारः। अयम्। मणिः। दुःऽनाम्नः। सर्वान्। तृड्ढ्वा। अव। रक्षांसि। अक्रमीत्। ३६.५।

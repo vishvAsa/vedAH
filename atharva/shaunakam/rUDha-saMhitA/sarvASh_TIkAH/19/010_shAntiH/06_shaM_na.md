@@ -23,7 +23,6 @@ note to xviii. 3. 16.⌋
 Be the God Indra with the Vasus friendly, and with Adityas Varuna who blesseth. Kind with the Rudras be the healer Rudra, and with the Dames here Tvashtar kindly hear us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। इन्द्रः। वसुऽभिः। देवः। अस्तु। शम्। आदित्येभिः। वरुणः। सुऽशंसः। शम्। नः। रुद्रः। रुद्रेभिः। जलाषः। शम्। नः। त्वष्टा। ग्नाभिः। इह। शृणोतु। १०.६।

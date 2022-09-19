@@ -8,7 +8,6 @@ title = "०२ अनु त्वा"
 Indra, both worlds complained to thee when uttering thy fearful roar, What time thou smotest Dasyus dead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनु। त्वा। रोदसी इति। उभे इति। क्रक्षमाणम्। अकृपेताम्। इन्द्र। इन्द्र। यत्। दस्युऽहा। अभवः। ४२.२।

@@ -8,7 +8,6 @@ title = "०२ एवा नूनमुप"
 Now, son of Vyasva, praise thou him who to the tenth time still is new. The very wise, whom living men must glorify.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। नूनम्। उप। स्तुहि। वैयश्व। दशमम्। नवम्। सुऽविद्वांसम्। चर्कृत्यम्। चरणीनाम्। ६६.२।

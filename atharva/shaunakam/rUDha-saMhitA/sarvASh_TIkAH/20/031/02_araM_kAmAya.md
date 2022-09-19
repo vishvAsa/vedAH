@@ -8,7 +8,6 @@ title = "०२ अरं कामाय"
 The gold-hued drops have flowed to gratify his wish: the yellow. drops have urged the swift Bays to the Strong. He who speeds on with bay steeds even as he lists hath satisfied his longing for the golden drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अरम्। कामाय। हरयः। दधन्विरे। स्थिराय। हिन्वन्। हरयः। हरी इति। तुरा। अर्वत्ऽभिः। यः। हरिऽभिः। जोषम्। ईयते। सः। अस्य। कामम्। हरिऽवन्तम्। आनशे। ३१.२।

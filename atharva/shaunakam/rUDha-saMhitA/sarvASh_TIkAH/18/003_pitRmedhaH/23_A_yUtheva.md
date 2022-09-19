@@ -50,7 +50,6 @@ goddess Cloud, produces the celestial fire, so the fire-drills (called
 Strong One! he marked them, and the gods before them, like herds of cattle in a foodful pasture. There man moaned forth their strong desires, to strengthen even the true; the nearest One, the living.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। यूथाऽइव। क्षुऽमति। पश्वः। अख्यत्। देवानाम्। जनिम। अन्ति। उग्रः। मर्तासः। चित्। उर्वशीः। अकृप्रन्। वृधे। चित्। अर्यः। उपरस्य। आयोः। ३.२३।

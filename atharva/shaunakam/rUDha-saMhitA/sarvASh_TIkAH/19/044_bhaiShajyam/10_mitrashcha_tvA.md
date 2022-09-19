@@ -33,7 +33,6 @@ with us *ánu préy-* in **b**; SPP. gives *anu*, with the *pada*-text
 Mitra and Varuna, O Salve have closely followed after thee May they, when they have followed thee afar, restore thee for our use.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 

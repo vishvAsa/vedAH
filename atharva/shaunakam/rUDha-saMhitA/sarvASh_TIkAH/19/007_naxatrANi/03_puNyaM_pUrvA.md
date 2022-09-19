@@ -48,7 +48,6 @@ anūrādhā́ḥ*, TB. i. 5. 2⁸), but was thought of as meaning the one 'after
 My bliss be Svati and benignant Chitra, my right First Phalgunis and present Hasta. Radhas, Visakhas, gracious Anuradha, Jyeshtha and happy- starred uninjured Mula.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुण्यम्। पूर्वा। फल्गुन्यौ। च। अत्र। हस्तः। चित्रा। शिवा। स्वाति। सुऽखः। मे। अस्तु। राधे। विऽशाखे। सुऽहवा। अनुऽराधा। ज्येष्ठा। सुऽनक्षत्रम्। अरिष्ट। मूलम्। ७.३।

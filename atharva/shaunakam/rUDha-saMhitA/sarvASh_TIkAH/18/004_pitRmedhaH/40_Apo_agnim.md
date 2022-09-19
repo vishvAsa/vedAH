@@ -29,7 +29,6 @@ see under the preceding verse. ⌊With **a**, cf. 2. 4 **d**, above.⌋
 Waters, send Agni forward to the Fathers: let them accept the sacrifice I offer. May they who follow Vigour that abideth there send us down wealth with full store of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आपः। अग्निम्। प्र। हिणुत। पितॄन्। उप। इमम्। यज्ञम्। पितरः। मे। जुषन्ताम्। आसीनाम्। उर्जम्। उप। ये। सचन्ते। ते। नः। रयिम्। सर्वऽवीरम्। नि। यच्छान्। ४.४०।

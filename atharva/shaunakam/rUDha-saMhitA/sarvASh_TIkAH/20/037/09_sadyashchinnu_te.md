@@ -8,7 +8,6 @@ title = "०९ सद्यश्चिन्नु ते"
 Swiftly, in truth, O Bounteous Lord, about thee men skilled im hymning sing their songs and praises. Elect us shares of their love and friendship who by their calls on, thee despoiled the niggards.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सद्यः। चित्। नु। ते। मघऽवन्। अभिष्टौ। परः। शंसन्ति। उक्थऽशसः। उक्था। ये। ते। हवेभिः। वि। पणीन्। अदाशन्। अस्मात्। वृणीष्व। युज्याय। तस्मै। ३७.९।

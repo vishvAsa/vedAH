@@ -7,7 +7,6 @@ title = "०६२ सर्वप्रियत्वम्"
 62. For popularity.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सर्वप्रियत्वम्।  
@@ -18,8 +17,6 @@ title = "०६२ सर्वप्रियत्वम्"
 
 [Brahman (etc., as 61).—anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Zimmer, p. 205; Griffith, ii. 318.
 
 A prayer for the love of Gods and men
 </details>
+

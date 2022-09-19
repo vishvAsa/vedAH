@@ -8,7 +8,6 @@ title = "०७ युधा युधमुप"
 Thou goest on from fight to fight intrepidly, destroying castle after castle here with strength; Thou Indra, with thy friend who makes the foe bow down, slewest from far away the guileful Namuchi.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युधा। युधम्। उप। घ। इत्। एषि। धृष्णुऽया। पुरा। पुरम्। सम्। इदम्। हंसि। ओजसा। नम्या। यत्। इन्द्र। सख्या। पराऽवति। निऽबर्हयः। नमुचिम्। नाम। मायिनम्। २१.७।

@@ -8,7 +8,6 @@ title = "०२ स नः"
 May he, the saviour much-invoked, may Indra bear us in a ship Safely beyond all enemies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। नः। पप्रिः। पारयातिः। स्वस्ति। नावा। पुरुऽहूतः। इन्द्रः। विश्वाः। अति। द्विषः। ४६.२।

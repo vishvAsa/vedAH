@@ -24,7 +24,6 @@ amuses himself with etymologizing *svasṛ* as *svayant eva sāriṇī*.
 Dawn drives away her sister's gloom, and through her excellence makes her retrace her path. Through her may we gain God-appointed treasure, and with brave sons be glad through hundred winters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उषाः। अप। स्वसुः। तमः। सम्। वर्तयति। वर्तनिम्। सुऽजातता। अया। वाजम्। देवऽहितम्। सनेम। मदेम। शतऽहिमाः। सुऽवीराः। १२.१।

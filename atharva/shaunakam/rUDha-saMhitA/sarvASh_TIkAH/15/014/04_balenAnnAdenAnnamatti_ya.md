@@ -14,7 +14,6 @@ strength as food-eater doth he eat food who knoweth thus.
 He who hath this knowledge eats food with strength as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बलेन। अन्नऽअदेन। अन्नम्। यः। एवम्। वेद। १४.४।

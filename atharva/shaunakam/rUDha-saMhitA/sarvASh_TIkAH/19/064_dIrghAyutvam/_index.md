@@ -7,7 +7,6 @@ title = "०६४ दीर्घायुत्वम्"
 64. To Agni: with fuel.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुत्वम्।  
@@ -18,8 +17,6 @@ title = "०६४ दीर्घायुत्वम्"
 
 [Brahman.—caturṛcam. āgneyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 318; vs. 1 also by Ludwig, p. 265.
 
 A prayer to Agni for children, long life, and various blessings
 </details>
+

@@ -36,7 +36,6 @@ those noted under xiv. 2. 59: other cases at xix. 22. 9, 10; 38. 1
 Come to us, Agni, with the gracious Fathers who dwell in glow- ing light, the very Sages, Who thirsted mid the Gods, who hasten hither, oblation-winners, theme of singers' praises.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। ततृषुः। देवऽत्रा। जेहमानाः। होत्राऽविदः। स्तोमऽतष्टासः। अकैः। आ। अग्ने। याहि। सहस्रम्। देवऽवन्दैः। सत्यैः। कविऽभिः। ऋषिऽभिः। घर्मसत्ऽभेः। ३.४७।

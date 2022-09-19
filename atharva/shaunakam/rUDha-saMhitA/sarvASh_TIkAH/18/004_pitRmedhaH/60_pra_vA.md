@@ -39,7 +39,6 @@ corruptions have spoiled meter as well as sense.⌋
 Indu is moving forth to Indra's destined place, and slights not as a friend the promise of his friend. Thou, Soma, comest nigh as bridegroom meets the bride, reach- ing the beaker by a course of hundred paths.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। वै। एति। इन्दुः। इन्द्रस्य। निःऽकृतिम्। सखा। सख्युः। न। प्र। मिनाति। सम्ऽगिरः। मर्यःऽइव। योषाः। सम्। अर्षसे। सोमः। कलशे। शतऽयामना। पथा। ४.६०।

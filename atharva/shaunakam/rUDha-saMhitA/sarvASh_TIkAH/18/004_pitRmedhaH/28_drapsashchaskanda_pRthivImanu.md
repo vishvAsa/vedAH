@@ -35,7 +35,6 @@ on occasion of the overflow of soma.
 On all the earth, to heaven, the drop descended, on this place and on that which was before it. I offer up, throughout the seven oblations, the drop which still to one same place is moving.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्रप्सः। चस्कन्दः। पृथिवीम्। अनु। द्याम्। इमम्। च। योनिम्। अनु। यः। च। पूर्वः। समानम्। योनिम्। अनु। सम्ऽचरन्तम्। द्रप्सम्। जुहोमि। अनु। सप्त। होत्राः। ४.२८।

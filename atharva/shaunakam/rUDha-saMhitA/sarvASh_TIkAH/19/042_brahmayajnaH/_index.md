@@ -7,7 +7,6 @@ title = "०४२ ब्रह्मयज्ञः"
 42. Extolling the bráhman etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मयज्ञः।  
@@ -18,8 +17,6 @@ title = "०४२ ब्रह्मयज्ञः"
 
 [Brahman.—catasras. mantroktabrahmadevatyam. 1. anuṣṭubh; 2. 3-av. kakummatī pathyāpan̄kti; 3. triṣṭubh; 4. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 298.
 
 In praise of Brahma, Prayer, or Devotion
 </details>
+

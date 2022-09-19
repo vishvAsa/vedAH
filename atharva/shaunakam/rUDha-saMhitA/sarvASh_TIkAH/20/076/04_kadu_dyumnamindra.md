@@ -8,7 +8,6 @@ title = "०४ कदु द्युम्नमिन्द्र"
 Indra, what fame hath one like thee mid heroes? With what plan wilt thou act? Why hast thou sought us? As a true friend, Wide-Strider! to sustain us, since food absorbs the thought of each among us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कत्। ऊं इति। द्युम्नम्। इन्द्र। त्वाऽवतः। नॄन्। कया। धिया। करसे। कत्। न। आ। अरन्। मित्रः। न। सत्यः। उरुऽगाय। भृत्यै। अन्ने। समस्य। यत्। असन्। मनीषा। ७६.४।

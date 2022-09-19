@@ -8,7 +8,6 @@ title = "०२ सत्तो होता"
 Our priest is seated true to time; the grass is regularly strewn; The pressing-stones were set at morn.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सत्तः। होता। नः। ऋत्वियः। तिस्तिरे। बर्हिः। आनुषक्। अयुज्रन्। प्रातः। अद्रयः। २३.२।

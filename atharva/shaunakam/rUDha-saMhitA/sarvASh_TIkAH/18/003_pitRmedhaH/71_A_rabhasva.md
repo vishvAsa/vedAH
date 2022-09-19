@@ -21,7 +21,6 @@ pile.
 Seize hold O Jatavedas; let thy flame be full of fervent heat. Consume his body: to the world of pious ones transport this man.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। रभस्व। जातऽवेदः। तेजस्वत्। हरः। अस्तु। ते। शरीरम्। अस्य। सम्। दह। अथ। एनम्। धेहि। सुऽकृताम्। ऊं इति। लोके। ३.७१।

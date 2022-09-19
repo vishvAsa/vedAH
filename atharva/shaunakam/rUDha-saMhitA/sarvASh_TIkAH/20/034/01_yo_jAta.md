@@ -8,7 +8,6 @@ title = "०१ यो जात"
 He who just born, chief God of lofty spirit, by power and might became the God's protector, Before whose breath, through greatness of his valour, the two worlds trembled, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। जातः। एव। प्रथमः। मनस्वान्। देवः। देवान्। क्रतुना। परिऽअभूषत्। यस्य। शुष्मात्। रोदसी इति। अभ्यसेताम्। नृम्णस्य। मह्ना। सः। जनासः। इन्द्रः। ३४.१।

@@ -28,10 +28,9 @@ aright in the Poona ed., p. 1105.⌋
 With all his fiery fervour this Aditya hath gone up on high, Giving my foes into my hand. Let me not by my foeman's prey. Manifold are thy great deeds, thine, O Vishnu. Sate us with cattle of all varied colours. Set me in happiness, in loftiest heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-उत्। अगात्। अयम्। आदित्यः। विश्वेन। तपसा। सह। सऽपत्नान्। मह्यम्। रन्धयन्। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.२४।
+उत्। अगात्। अयम्। आदित्यः। विश्वेन। तपसा। सह। सऽपत्नान्। मह्यम्। रन्धयन्। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

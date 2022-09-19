@@ -30,7 +30,6 @@ above, as 2. 10 **d**. The mss. are divided between *ávadyam* and
 Meet Yama, meet the Fathers, meet the merit of virtuous action in the loftiest heaven. Leave sin and evil, seek anew thy dwelling: so bright with glory let him join his body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। गच्छस्व। पितृऽभिः। सम्। यमेन। इष्टापूर्तेन। परमे। विऽओमन्। हित्वा। अवद्यम्। पुनः। अस्तम्। आ। इहि। सम्। गच्छताम्। तन्वा। सुऽवर्चाः। ५.५८।

@@ -8,7 +8,6 @@ title = "०६ उत नः"
 Or whether, God of wondrous deeds, all our true people call us blest, Still may we dwell in Indra's care.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत। नः। सुऽभगान्। अरिः। वोचेयुः। दस्म। कृष्टयः। स्यामः। इत्। इन्द्रस्य। शर्मणि। ६८.६।

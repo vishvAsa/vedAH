@@ -23,7 +23,6 @@ the deceased person who is addressed.
 Let him, O Yama, go to those Rishis austere, of Fervour born, First followers of Law, the sons of Law, upholders of the Law.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। चित्। पूर्वे। ऋतऽसाताः। ऋतऽजाताः। ऋतऽवृधः। ऋषीन्। तपस्वतः। यम। तपःऽजान्। अपि। गच्छतात्। २.१५।

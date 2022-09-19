@@ -8,7 +8,6 @@ title = "०६ वाजेषु सासहिर्भव"
 In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that the foe may fall.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वाजेषु। ससहिः। भव। त्वाम्। ईमहे। शतक्रतो इति शतक्रतो। इन्द्र। वृत्राय। हन्तवे। १९.६।

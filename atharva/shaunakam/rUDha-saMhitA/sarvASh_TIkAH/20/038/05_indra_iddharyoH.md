@@ -8,7 +8,6 @@ title = "०५ इन्द्र इद्धर्योः"
 Indra hath ever close to him his two bay steeds and word-yoked: car, Indra, the golden, Thunder-armed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। इत्। हर्योः। सचा। सम्ऽमिश्‍ल। आ। वचःऽयुजा। इन्द्रः। वज्री। हिरण्ययः। ३८.५।

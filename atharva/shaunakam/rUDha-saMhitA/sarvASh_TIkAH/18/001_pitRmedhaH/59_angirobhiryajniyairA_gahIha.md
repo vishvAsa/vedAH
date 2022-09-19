@@ -24,7 +24,6 @@ is *bṛhatī* ⌊possibly because one can count its **d** as 9 syllables:
 Come, Yama, with Angirases, the holy; rejoice thee here with children of Virupa. Seated on sacred grass at this oblation: I call Vivasvan too, thy father, hither.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अङ्गिरःऽभिः। यज्ञियैः। आ। गहि। इह। यम। वैरूपैः। इह। मादयस्व। विवस्वन्तम्। हुवे। यः। पिता। ते। अस्मिन्। बर्हिषि। आ। निऽसद्य। १.५९।

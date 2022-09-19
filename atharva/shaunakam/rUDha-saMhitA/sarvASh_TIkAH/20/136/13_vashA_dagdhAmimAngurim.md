@@ -8,7 +8,6 @@ title = "१३ वशा दग्धामिमाङ्गुरिम्"
 Sine digito mulcta vacca vanankaram producit, Magna et bona est Aegle Marmelos. Futue me, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वशा। दग्धाम्ऽइम। अङ्गुरिम्। प्रसृजत। उग्रतम्। परे। महान्। वै। भद्रः। यभ। माम्। अद्धि। औदनम्। १३६.१३।

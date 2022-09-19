@@ -8,7 +8,6 @@ title = "०४ यदद्य वाम्"
 When, O Nasatyas, we this day make you speed hither N ith our hymns, Or, Asvins, with our songs of praise, remember Kanva specially.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अद्य। वाम्। नासत्या। उक्थैः। आऽचुच्युवीमहि। यत्। वा। वाणीभिः। अश्विना। एव। इत्। काण्वस्य। बोधतम्। १४०.४।

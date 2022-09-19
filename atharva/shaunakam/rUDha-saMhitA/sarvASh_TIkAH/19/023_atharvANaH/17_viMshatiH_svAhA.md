@@ -19,7 +19,6 @@ reciters give the same. ⌊But cf. p. 931, ¶6, end.⌋
 Hail, twenty!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विंशतिः। स्वाहा। २३.१७।

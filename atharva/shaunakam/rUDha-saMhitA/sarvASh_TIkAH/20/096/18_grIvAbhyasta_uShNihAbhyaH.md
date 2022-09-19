@@ -8,7 +8,6 @@ title = "१८ ग्रीवाभ्यस्त उष्णिहाभ्
 From the neck-tendons and the neck, from the breast-bones and from the spine, From shoulders, upper, lower arms, I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्यात्। यक्ष्मम्। दोषण्यम्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ९६.१८।

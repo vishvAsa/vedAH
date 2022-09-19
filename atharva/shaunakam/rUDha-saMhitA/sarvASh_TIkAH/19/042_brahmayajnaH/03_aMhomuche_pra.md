@@ -40,7 +40,6 @@ he makes = *idam* in the sense of *idānīm!*⌋
 To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his favour. Accept this offering of mine, O Indra. Fulfilled be all the sacri- ficer's wishes!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अंहःऽमुचे। प्र। भरे। मनीषाम्। आ। सुऽत्राव्ने। सुऽमतिम्। आऽवृणानः। इमम्। इन्द्र। प्रति। हव्यम्। गृभाय। सत्याः। सन्तु। यजमानस्य। कामाः। ४२.३।

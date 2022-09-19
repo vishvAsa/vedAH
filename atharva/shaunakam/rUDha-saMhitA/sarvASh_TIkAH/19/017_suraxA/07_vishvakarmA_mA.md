@@ -17,7 +17,6 @@ quarter: in him I etc. etc.
 May Visvakarman with the Seven Rishis be my protector from the northern region. To him, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विश्वऽकर्मा। मा। सप्तऋषिऽभिः। उदीच्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.७।

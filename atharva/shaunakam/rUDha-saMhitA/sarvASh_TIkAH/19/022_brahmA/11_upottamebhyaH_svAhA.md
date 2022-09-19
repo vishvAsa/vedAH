@@ -16,7 +16,6 @@ title = "११ उपोत्तमेभ्यः स्वाहा"
 To the penultimates, Hail.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उपऽउत्तमेभ्यः। स्वाहा। २२.११।

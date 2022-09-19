@@ -8,7 +8,6 @@ title = "१४ विदेवस्त्वा महानग्नीर्
 Infelix, Amice, te opprimit. Bona est magni viri fututio. Flava puollula, opere suo perfecto, procurrit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विदेवः। त्वा। महान्। अग्नीः। विबाधते। महतः। साधु। खोदनम्। कुमारिका। पिङ्गलिका। कार्द। भस्मा। कु। धावति। १३६.१४।

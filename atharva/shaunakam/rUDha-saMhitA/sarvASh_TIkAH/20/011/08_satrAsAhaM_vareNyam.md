@@ -8,7 +8,6 @@ title = "०८ सत्रासाहं वरेण्यम्"
 Excellent, conqueror, the victory-giver, the winner of the light and godlike waters, He who hath won this broad earth and this heaven,--in Indra they rejoice who love devotions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सत्राऽसहम्। वरेण्यम्। सहःऽदाम्। ससऽवांसम्। स्वः। अपः। च। देवीः। ससान। यः। पृथिवीम्। द्याम्। उत। इमाम्। इन्द्रम्। मदन्ति। अनु। धीऽरणासः। ११.८।

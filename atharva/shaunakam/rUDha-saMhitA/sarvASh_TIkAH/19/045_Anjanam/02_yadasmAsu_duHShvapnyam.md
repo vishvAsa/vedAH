@@ -87,7 +87,6 @@ grammatical and not intolerable in the texts, and to be unparalleled
 Whatever evil dream we have, what'er befall our kine or home, Be this that is salubrity, the evil-hearted's foe applied.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अस्मासु। दुःऽस्वप्न्यम्। यत्। गोषु। यत्। च। नः। गृहे। अनामगः। तम्। च। दुःऽहार्दः। प्रियः। प्रति। मुञ्चताम्। ४५.२।

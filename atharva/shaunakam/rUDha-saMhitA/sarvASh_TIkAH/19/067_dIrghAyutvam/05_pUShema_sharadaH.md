@@ -16,7 +16,6 @@ title = "०५ पूषेम शरदः"
 A hundred autumns may we thrive.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पूषेम। शरदः। शतम्। ६७.५।

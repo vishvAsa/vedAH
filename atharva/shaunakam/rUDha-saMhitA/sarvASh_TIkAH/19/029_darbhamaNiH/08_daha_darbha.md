@@ -17,7 +17,6 @@ The decided majority of mss. accent *dahá*.
 Consume, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दह। दर्भ। सऽपत्नान्। मे। दह। मे। पृतनाऽयतः। दह। मे। सर्वान्। दुःऽहार्दः। दह। मे। द्विषतः। मणे। २९.८।

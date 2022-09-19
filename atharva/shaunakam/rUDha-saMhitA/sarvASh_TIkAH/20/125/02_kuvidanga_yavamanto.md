@@ -8,7 +8,6 @@ title = "०२ कुविदङ्ग यवमन्तो"
 What then? As men whose fields are full of barley reap the ripe corn removing it in order, So bring the food of those men, bring it hither, who come not to prepare the grass for worship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कुवित्। अङ्ग। यवऽमन्तः। यवम्। चित्। यथा। दान्ति। अनुऽपूर्वम्। विऽयूथ। इहऽइह। एषाम्। कृणुहि। भोजनानि। ये। बर्हिषः। नमःऽवृक्तिम्। न। जग्मुः। १२५.२।

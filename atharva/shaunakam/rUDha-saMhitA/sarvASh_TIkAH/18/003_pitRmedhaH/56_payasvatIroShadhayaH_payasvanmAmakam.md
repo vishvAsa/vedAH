@@ -34,7 +34,6 @@ waters, for subject of the concluding verb.
 The plants of earth are rich in milk, and rich in milk is this my milk. With all the milky essence of the Waters let them make me clean.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पयस्वतीः। ओषधयः। पयस्वत्। मामकम्। पयः। अपाम्। पयसः। यत्। पयः। तेन। मा। सह। शुम्भतु। ३.५६।

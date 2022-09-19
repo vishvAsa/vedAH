@@ -19,7 +19,6 @@ takes *drúh* here and at ii. 10 as a female fiend.⌋
 Wishes for boons that will not come, thoughts of poverty, the snares of the Druh who never releases.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनागमिष्यतः। वरान्। अवित्तेः। सम्ऽकल्पान्। अमुच्याः। द्रुहः। पाशान्। ६.१०।

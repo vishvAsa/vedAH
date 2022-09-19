@@ -35,7 +35,6 @@ meter at the beginning of **b**.⌋
 Come hither, Fathers, who deserve the Soma, by the deep path- ways which the Fathers travel. Bestow upon us life and store of children, and favour us with increase of our riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। यात। पितरः। सोम्यासः। गम्भीरैः। पथिऽभिः। पितृऽयानैः। आयुः। अस्मभ्यम्। दधतः। प्रऽजाम्। च। रायः। च। पोषैः। अभि। नः। सचध्वम्। ४.६२।

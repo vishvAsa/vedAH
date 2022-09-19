@@ -21,7 +21,6 @@ but also as little for calling it *nicṛt* as a *triṣṭubh*.
 Guard me from earth and guard me from the heavens, guard me from middle air, from plants protect me. Protect me from the present and the future. From every region Jangida preserve us!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परि। मा। दिवः। परि। मा। पृथिव्याः। परि। अन्तरिक्षात्। परि। मा। वीरुत्ऽभ्यः। परि। मा। भूतात्। परि। मा। उत। भव्यात्। दिशःऽदिशः। जङ्गिडः। पातु। अस्मान्। ३५.४।

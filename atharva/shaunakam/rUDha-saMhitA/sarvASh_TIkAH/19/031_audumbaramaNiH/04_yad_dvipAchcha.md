@@ -24,7 +24,6 @@ exposition. Ppp. gives *gṛhṇīyāṁ teṣāṁ bhāumānaṁ*.
 I win great plenty, while I wear the Amulet of Udumbara. Of quadrupeds and bipeds, of juices and food of every sort.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। द्विऽपात्। च। चतुःपात्। च। यानि। अन्नानि। ये। रसाः। गृह्णे। अहम्। तु। एषाम्। भूमानम्। बिभ्रत्। औदुम्बरम्। मणिम्। ३१.४।

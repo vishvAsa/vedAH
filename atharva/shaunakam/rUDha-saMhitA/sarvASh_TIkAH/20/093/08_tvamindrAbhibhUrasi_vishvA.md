@@ -8,7 +8,6 @@ title = "०८ त्वमिन्द्राभिभूरसि विश
 Thou, Indra, art pre-eminent over all creatures in thy strength: Thou hast pervaded every place.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। अभिऽभूः। असि। विश्वा। जातानि। ओजसा। सः। विश्वाः। भुवः। आ। अभवः। ९३.८।

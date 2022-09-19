@@ -28,7 +28,6 @@ sūtras immediately following 86. 18.⌋
 Lover of butter, deathless, him, Oblation-bearer, they inflame. He knoweth well the treasured stores gone to the Fathers, far away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। इन्धते। अमर्त्यम्। हव्यऽवाहम्। घृतऽप्रियम्। सः। वेद। निऽहितान्। निऽधीन्। पितॄन्। पराऽवतः। गतान्। ४.४१।

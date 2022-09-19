@@ -8,7 +8,6 @@ title = "०९ त्वां सुतस्य"
 We call on thee, the Ancient One, Indra, to drink the Soma juice, We Kusikas who seek thine aid.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। सुतस्य। पीतये। प्रत्नम्। इन्द्र। हवामहे। कुशिकासः। अवस्यवः। २४.९।

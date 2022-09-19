@@ -7,7 +7,6 @@ title = "०१६ अभयम्"
 16. For safety and protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अभयम्।  
@@ -18,8 +17,6 @@ title = "०१६ अभयम्"
 
 [Atharvan.—tṛcam.* mantroktabahudevatyam. 1. anuṣṭubh; 2.3-av. 7-p. bṛhatīgarbhā ’tiśakvarī.⌋ *⌊So the London ms.; the Berlin ms. says in fact dvyṛcam: see under vs. 2.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 276.
 
 A prayer for security from danger
 </details>
+

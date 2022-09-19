@@ -33,7 +33,6 @@ it.
 Bring thou the Fathers one and all Agni, to eat the sacrifice. The buried, and the cast away, those burnt with fire, and those exposed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। निऽखाताः। ये। पराऽउप्ताः। ये। दग्धाः। ये। च। उद्धिताः। सर्वान्। तान्। अग्ने। आ। वह। पितॄन्‌। हविषे। अत्तवे। २.३४।

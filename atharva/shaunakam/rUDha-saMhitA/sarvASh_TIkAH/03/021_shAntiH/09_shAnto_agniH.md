@@ -22,7 +22,7 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 
 <details open><summary>पदपाठः</summary>
 
-शान्तः। अग्निः। क्रव्यऽअत्। शान्तः। पुरुषऽरेषणः। अथो  इति। यः। विश्वऽदाव्यः। तम्। क्रव्यऽअदम्। अशीशमम्। २१.९।
+शान्तः। अग्निः। क्रव्यऽअत्। शान्तः। पुरुषऽरेषणः। अथो  इति। यः। विश्वऽदाव्यः᳡। तम्। क्रव्यऽअदम्। अशीशमम्। २१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

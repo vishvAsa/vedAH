@@ -25,7 +25,6 @@ jánimā* occurs in full.⌋
 Gods, doing holy acts, devout, resplendent, smelting like ore their human generation, Brightening Agni and exalting Indra, they came encompassing the stall of cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽकर्माणः। सुऽरुचः। देवऽयन्तः। अयः। न। देवाः। जनिम। धमन्तः। शुचन्तः। अग्निम्। ववृधन्तः। इन्द्रम्। उर्वीम्। गव्याम्। परिऽसदम्। नः। अक्रन्। ३.२२।

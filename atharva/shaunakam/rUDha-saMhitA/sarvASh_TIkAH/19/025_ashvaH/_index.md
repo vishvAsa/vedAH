@@ -7,7 +7,6 @@ title = "०२५ अश्वः"
 25. To a horse.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अश्वः।  
@@ -18,8 +17,6 @@ title = "०२५ अश्वः"
 
 [Gopatha.—ekarcam. vājidevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 282.
 
 A charm to be used when a young ox is first yoked
 </details>
+

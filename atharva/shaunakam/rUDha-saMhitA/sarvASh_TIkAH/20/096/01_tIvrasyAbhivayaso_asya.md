@@ -8,7 +8,6 @@ title = "०१ तीव्रस्याभिवयसो अस्य"
 Taste this strong draught that gives thee vital vigour: with all thy chariot here unyoke thy coursers. Let not those other sacrificers stay thee, Indra: these juices shed for thee are ready.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तीव्रस्य। ‍अभिऽवयसः। अस्य। पाहि। सर्वऽरथा। वि। हरी इति। इह। मुञ्च। इन्द्र। मा। त्वा। यजमानासः। अन्ये। नि। रिरमन्‌। तुभ्यम्। इमे। सुतासः। ९६.१।

@@ -20,7 +20,6 @@ meaning and reference.
 Let not Ruja and Vena desert me. Let not the Head and the Preserver forsake me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रुजः। च। मा। वेनः। च। मा। हासिष्टाम्। मूर्धा। च। मा। विऽधर्मा। च। मा। हासिष्टाम्। ३.२।

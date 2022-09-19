@@ -24,7 +24,7 @@ Thou creature who inflictest wounds both with thy mouth and with thy tail, No po
 
 <details open><summary>पदपाठः</summary>
 
-यः। उभाभ्याम्। प्रऽहरसि। पुच्छेन। च। आस्येन। च। आस्ये। न। ते। विषम्। किम्। ऊं इति। ते। पुच्छऽधौ। असत्। ५८.८।
+यः। उभाभ्याम्। प्रऽहरसि। पुच्छेन। च। आस्ये᳡न। च। आस्ये᳡। न। ते। विषम्। किम्। ऊं इति। ते। पुच्छऽधौ। असत्। ५८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

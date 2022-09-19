@@ -57,7 +57,6 @@ comments on the verse, *Rel. Véd.* i. 84, note, ii. 472.
 Let the hoar-frost be sweet to thee. sweetly on thee the rain descend! O full of coolness, thou cool Plant, full of fresh moisture, fresh- ening Herb, Bless us in waters, female Frog: calm and allay this Agni here.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। ते। नीहारः। भवतु। शम्। ते। प्रुष्वा। अव। शीयताम्। शीतिके। शीतिकाऽवति। ह्लादिके। ह्लादिकाऽवति। मण्डूकी। अप्ऽसु। शम्। भुवः। इमम्। सु। अग्निम्। शमय। ३.६०।

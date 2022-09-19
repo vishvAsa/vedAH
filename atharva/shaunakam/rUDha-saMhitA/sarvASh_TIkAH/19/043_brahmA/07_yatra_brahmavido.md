@@ -24,7 +24,6 @@ after *ā́pas* at xv. 7. 3.⌋
 Whither, etc. Thither, let Waters lead me, let the Waters give me deathless life. All hail to Waters!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। आपः। मा। तत्र। नयतु। अमृतम्। मा। उप। तिष्ठतु। अत्ऽभ्यः। स्वाहा। ४३.७।

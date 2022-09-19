@@ -8,7 +8,6 @@ title = "१२ एवा महान्बृहद्दिवो"
 Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. The Matarisvaris, the spotless sisters, with power exalt him and impel him onward.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। महान्। बृहत्ऽदिवः। अथर्वा। अवोचत्। स्वाम्। तन्वम्। इन्द्रम्। एव। स्वसारौ। मातरिभ्वरी इति। अरिप्रे इति। हिन्वन्ति। च। एने इति। शवसा। वर्धयन्ति। च। १०७.१२।

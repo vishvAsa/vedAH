@@ -14,7 +14,6 @@ brilliancy, breath, life-time; now I make him fall downward.
 Here I bind up his splendour, his energy, his vital breath, his life, and cast him down beneath me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। इदम्। वर्चः। तेजः। प्राणम्। वायुः। नि। वेष्टयामि। इदम्। एनम्। अधराञ्चम्। पादयामि। ८.२३।

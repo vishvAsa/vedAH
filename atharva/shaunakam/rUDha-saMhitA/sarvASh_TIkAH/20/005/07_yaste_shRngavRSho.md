@@ -8,7 +8,6 @@ title = "०७ यस्ते शृङ्गवृषो"
 To Kundapayya, grandson's son, grandson of Sringavrish, to thee, To him have I addressed my thought.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। ते। शृङ्गऽवृषः। नपात्। प्रनपादिति प्रऽनपात्। कुण्डऽपाय्यः। नि। अस्मिन्। दध्रे। आ। मनः। ५.७।

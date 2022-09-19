@@ -19,7 +19,6 @@ understands as *iṣitam* or *kāmitam*.
 He made, he stirred this universe to motion, and on him it rests. He, Kala, having now become Brahma, holds Parameshthin up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तेन। इषितम्। तेन। जातम्। तत्। ऊं इति। तस्मिन्। प्रतिऽस्थितम्। कालः। ह। ब्रह्म। भूत्वा। बिभर्ति। परमेऽस्थिनम्। ५३.९।

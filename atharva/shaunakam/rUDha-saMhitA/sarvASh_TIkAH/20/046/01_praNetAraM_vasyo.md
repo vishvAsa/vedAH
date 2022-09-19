@@ -8,7 +8,6 @@ title = "०१ प्रणेतारं वस्यो"
 Him who advances men to wealth, sends light to lead them in their wars, And quells their foemen in the fray:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रऽनेतारम्। वस्यः। अच्छ। कर्तारन्। ज्योतिः। समत्ऽसु। ससऽह्वांसम्। युधा। अमित्रान्। ४६.१।

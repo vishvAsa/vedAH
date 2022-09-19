@@ -8,7 +8,6 @@ title = "०२ दाना मृगो"
 As a wild elephant rushes on, this way and that way, mad with heat. None may restrain thee; yet come hither to the draught: thou movest mighty in thy power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दाना। मृगः। वारणः। पुरुऽत्रा। चरथम्। दधे। नकिः। त्वा। नि। यमत्। आ। सुते। गमः। महान्। चरसि। ओजसा। ५३.२।

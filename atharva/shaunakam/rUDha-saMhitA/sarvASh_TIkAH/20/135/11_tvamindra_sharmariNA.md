@@ -8,7 +8,6 @@ title = "११ त्वमिन्द्र शर्मरिणा"
 Vouchsafe us shelter, Indra, thou to be invoked from far away. Bring treasure hither to reward the far-famed bard who praises thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। शर्म। रिणाः। हव्यम्। परावतेभ्यः। विप्राय। स्तुवते। वसुवनिम्। दुरश्रवसे। वह। १३५.११।

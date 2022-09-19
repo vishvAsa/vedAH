@@ -8,7 +8,6 @@ title = "०४ यद्देवासो ललामगुम्"
 Si Dii mentulae intumescenti faverunt, cum femoribus suis se: ostentat femina tanquam vero testi.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। देवास। ललामऽगुम्। प्र। विष्टीमिनम्। आविषुः। सकुला। देदिश्यते। नारी। सत्यस्य। अक्षिभुवः। यथा। १३६.४।

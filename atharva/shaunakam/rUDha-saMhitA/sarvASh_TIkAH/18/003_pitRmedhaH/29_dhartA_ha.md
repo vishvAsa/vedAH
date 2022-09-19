@@ -36,7 +36,6 @@ the light, the sky above.' Cf. my note, p. 847, ¶ 8.—†Cf. xix. 36. 6
 May the strong firm Sustainer bear thee upright, as Savitar bears light above the heaven. Those who give room, who made the paths, we worship, you mid the Gods, whe share the gifts we offer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धर्ता। ह। त्वा। धरुणः। धारयातै। ऊर्ध्वम्। भानुम्। सविता। द्याम्ऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.२९।

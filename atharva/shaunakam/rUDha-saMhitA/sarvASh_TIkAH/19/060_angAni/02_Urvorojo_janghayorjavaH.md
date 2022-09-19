@@ -38,7 +38,6 @@ iii. 50. 2 and iv. 27. 1 we have the adjective stem *javás:* cf. *Gram.*
 May I have power in my thighs, swiftness in my legs, stedfast- ness in my feet. May all my members be uninjured and my soul unimpaired.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्वोः। ओजः। जङ्घयोः। जवः। पादयोः। प्रतिऽस्था। अरिष्टानि। मे। सर्वा। आत्मा। अनिऽभृष्टः। ६०.२।

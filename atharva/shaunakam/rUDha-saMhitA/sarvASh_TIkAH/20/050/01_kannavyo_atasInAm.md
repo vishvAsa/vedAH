@@ -8,7 +8,6 @@ title = "०१ कन्नव्यो अतसीनाम्"
 What newest of imploring hymns shall, then, the zealous mortal sing? For have not they who laud his might and Indra-power won for themselves the light of heaven?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कत्। नव्यः। अतसीनाम्। तुरः। गृणीत। मर्त्यः। नहि। नु। अस्य। महिऽमानम्। इन्द्रियम्। स्वः। गृणन्तः। आनशुः। ५०.१।

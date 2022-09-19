@@ -16,7 +16,6 @@ title = "०७ दशर्चेभ्यः स्वाहा"
 Hail to the ten-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दशऽऋचेभ्यः। स्वाहा। २३.७।

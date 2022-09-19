@@ -8,7 +8,6 @@ title = "०१ प्र सम्राजम्"
 Praise Indra whom our songs must laud, great Sovran of man- kind, the Chief Most liberal who controlleth men.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। सम्ऽराजम्। चर्षणीनाम्। इन्द्रम्। स्तोत। नव्यम्। गीऽभिः। नरम्। नऽसहम्। मंहिष्ठम्। ४४.१।

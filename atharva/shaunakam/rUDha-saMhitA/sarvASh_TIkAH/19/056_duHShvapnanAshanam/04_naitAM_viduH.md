@@ -37,7 +37,6 @@ to fit the immediate case.
 Of him nor Fathers nor the Gods have knowledge, the Gods whose gentle talk is still about him. Urged by command of Varuna the Adityas, Heroes, transported Sleep to Trita Aptya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। एताम्। विदुः। पितरः। न। उत। देवाः। येषाम्। जल्पिः। चरति। अन्तरा। इदम्। त्रिते। स्वप्नम्। अदधुः। आप्त्ये। नर। आदित्यासः। वरुणेन। अनुऽशिष्टाः। ५६.४।

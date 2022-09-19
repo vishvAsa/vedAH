@@ -8,7 +8,6 @@ title = "०२ यद्वीडाविन्द्र यत्स्थि
 O Indra, that which is concealed in firm strong place precipitous: Bring us the wealth for which we long:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वीलौ। इन्द्र। यत्। स्थिरे। यत्। पर्शाने। पराभृतम्। वसु। स्पार्हम्। तत्। आ। भर। ४३.२।

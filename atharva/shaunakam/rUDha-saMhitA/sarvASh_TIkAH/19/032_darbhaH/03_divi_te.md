@@ -22,7 +22,6 @@ wrong emendation of the Berlin text.⌋ In **b**, the comm. has
 O Plant, thy root is in the sky, and thou art stationed on the earth: With thee who hast a thousand stalks we strengthen all the powers of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दिवि। ते। तूलम्। ओषधे। पृथिव्याम्। असि। निऽस्थितः। त्वया। सहस्रऽकाण्डेन। आयुः। प्र। वर्धयामहे। ३२.३।

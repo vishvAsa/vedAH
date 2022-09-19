@@ -31,10 +31,9 @@ cf. iv. 10. 7 **c, d**.⌋
 For manly strength Prajapati bound thee on first, invincible. This for long life on thee I bind for splendour, strength, and energy. Invincible, let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। त्वा। बध्नात्। प्रथमम्। अस्तृतम्। वीर्याणि। कम्। तत्। ते। बध्नामि। आयुषे। वर्चसे। ओजसे। च। बलाय। च। अस्तृतः। त्वा। अभि। रक्षतु। ४६.१।
+प्रजाऽपतिः। त्वा। बध्नात्। प्रथमम्। अस्तृतम्। वीर्या᳡णि। कम्। तत्। ते। बध्नामि। आयुषे। वर्चसे। ओजसे। च। बलाय। च। अस्तृतः। त्वा। अभि। रक्षतु। ४६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

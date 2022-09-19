@@ -8,7 +8,6 @@ title = "०३ बृहस्पतिः समजयद्वसूनि"
 Brihaspati in war hath won rich treasures, hath won, this God, the great stalls filled with cattle. Striving to win waters and light, resistless, Brihaspati with light- ning smites the foeman.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। सम्। अजयत्। वसूनि। महः। व्रजान्। गोऽमतः। देवः। एषः। अपः। सिसासन्। स्वः। अप्रतिऽइतः। बृहस्पतिः। हन्ति। अमित्रम्। अर्कैः। ९०.३।

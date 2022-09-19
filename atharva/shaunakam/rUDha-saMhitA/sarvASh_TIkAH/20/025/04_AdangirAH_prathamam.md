@@ -8,7 +8,6 @@ title = "०४ आदङ्गिराः प्रथमम्"
 First the Angirases won themselves vital power, whose fires were kindled through good deeds and sacrifice. The men together found the Pani's hoarded wealth, the cattle, and the wealth in horses and in kine,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आत्। अङ्गिराः। प्रथमम्। दधिरे। वयः। इद्धऽअग्नयः। शम्या। ये। सुऽकृत्यया। सर्वम्। पणेः। सम्। अविन्दन्त। भोजनम्। अश्वऽवन्तम्। गोऽमन्तम्। आ। पशुम्। नरः। २५.४।

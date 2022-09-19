@@ -8,7 +8,6 @@ title = "१६ यः कुमारी"
 Quem macrum factum puella flava pinguisque capiat sicut pollicem ex olei cado fossorem ilium extrahat.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। कुमारी। पिङ्गलिका। वसन्तम्। पीवरी। लभेत्। तैलकुण्डम्ऽइम। अङ्गुष्ठम्। रोदन्तम्। शुदम्। उद्धरेत्। १३६.१६।

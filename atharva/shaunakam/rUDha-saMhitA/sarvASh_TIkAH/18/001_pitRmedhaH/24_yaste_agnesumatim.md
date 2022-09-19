@@ -23,7 +23,6 @@ The comm. renders *ā bhūṣati* by *ābhavati;* ⌊he adds alternatively:
 Far famed is he, the mortal man, O Agni thou Son of strength, who hath obtained thy favour. He, gathering power, borne onward by his horses, makes his, days lovely in his might and splendour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। ते। अग्ने। सुऽमतिम्। मर्तः। अख्यत्। सहसः। सूनो इति। अति। सः। प्र। शृण्वे। इषम्। दधानः। वहमानः। अश्वैः। आ। सः। द्युऽमान्। अमऽवान्। भूषति। द्यून्। १.२४।

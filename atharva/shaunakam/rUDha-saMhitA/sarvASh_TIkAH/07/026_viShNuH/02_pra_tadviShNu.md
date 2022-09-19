@@ -39,7 +39,7 @@ Loud boast doth Vishnu make of this achievement, like some wild beast, dread, pr
 
 <details open><summary>पदपाठः</summary>
 
-प्र। तत्। विष्णुः। स्तवते। वीर्याण‍ि। मृगः। न। भीमः। कुचरः। गिरिऽस्थाः। पराऽवतः। आ। जगम्यात्। परस्याः। २७.२।
+प्र। तत्। विष्णुः। स्तवते। वीर्या᳡ण‍ि। मृगः। न। भीमः। कुचरः। गिरिऽस्थाः। पराऽवतः। आ। जगम्यात्। परस्याः। २७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

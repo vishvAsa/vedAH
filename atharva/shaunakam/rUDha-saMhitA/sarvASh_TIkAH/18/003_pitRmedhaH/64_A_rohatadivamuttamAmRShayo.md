@@ -26,7 +26,6 @@ as causative to *-pā*.
 Mount and ascend to highest heaven, O Rishis: be ye not afraid. Soma-drinkers to you is paid this Soma-lover's sacrifice. We have attained the loftiest light.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। रोहत। दिवम्। उत्ऽतमाम्। ऋषयः। मा। बिभीतन। सोमऽपाः। सोमऽपायिनः। इदम्। वः। क्रियते। हविः। अगन्म। ज्योतिः। उत्ऽतमम्। ३.६४।

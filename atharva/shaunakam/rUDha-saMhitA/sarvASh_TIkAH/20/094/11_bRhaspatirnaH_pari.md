@@ -8,7 +8,6 @@ title = "११ बृहस्पतिर्नः परि"
 Brihaspati protect us from the rearward, and from above, and from below, from sinners! May Indra from the front and from the centre, as friend to friends, vouchsafe us room and freedom.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। नः। परि। पातु। पश्चात्। उत। उत्ऽतरस्मात्। अधरात्। अघऽयोः। इन्द्रः। पुरस्तात्। उत। मध्यतः। नः। सखा। सख‍िऽभ्यः। वरिवः। कृणोतु। ९४.११।

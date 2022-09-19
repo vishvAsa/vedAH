@@ -7,7 +7,6 @@ title = "०६३ आयुर्वर्धनम्"
 63. To Bṛihaspati: for sundry blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आयुर्वर्धनम्।  
@@ -18,8 +17,6 @@ title = "०६३ आयुर्वर्धनम्"
 
 [Brahman (etc., as 61).—virāḍ upariṣṭādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 318.
 
 A prayer, with sacrifice, for long life and prosperity
 </details>
+

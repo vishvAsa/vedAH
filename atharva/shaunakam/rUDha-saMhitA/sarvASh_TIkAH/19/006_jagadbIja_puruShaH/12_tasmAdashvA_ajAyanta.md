@@ -25,7 +25,6 @@ not KaṭhaB.⌋ omit *ca* after *yé* in **b**.
 From it were horses born, from it all creatures with two rows of teeth. From it were generated kine, from it were goats and sheep produced.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मात्। अश्वाः। अजायन्त। ये। च। के। च। उभयादतः। गावः। ह। जज्ञिरे। तस्मात्। तस्मात्। जाताः। अजऽअवयः। ६.१२।

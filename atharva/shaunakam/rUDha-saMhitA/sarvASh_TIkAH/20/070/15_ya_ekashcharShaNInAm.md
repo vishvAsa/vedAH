@@ -8,7 +8,6 @@ title = "१५ य एकश्चर्षणीनाम्"
 Indra who rules with single sway men, riches, and the fivefold race. Of those who dwell upon the earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। एकः। चर्षणीनाम्। वसूनाम्। इरज्यति। इन्द्रः। पञ्च। क्षितीनाम्। ७०.१५।

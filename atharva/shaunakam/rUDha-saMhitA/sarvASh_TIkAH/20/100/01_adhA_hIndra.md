@@ -8,7 +8,6 @@ title = "०१ अधा हीन्द्र"
 Now have we, Indra, Friend of Song, sent our great wishes forth to thee. Coming like floods that follow floods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। हि। इन्द्र। गिर्वणः। उप। त्वा। कामान्। महः। ससृज्महे। उदाऽइव। यन्तः। उदऽभिः। १००.१।

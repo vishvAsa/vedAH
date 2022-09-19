@@ -8,7 +8,6 @@ title = "०४ युञ्जन्ति ब्रध्नमरुषम्
 They who stand round him as he moves harness the bright, the ruddy steed: The lights are shining in the sky.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युञ्जन्ति। ब्रध्नम्। अरुषम्। चरन्तम्। परि। तस्थुषः। रोचन्ते। रोचना। दिवि। २६.४।

@@ -7,7 +7,6 @@ title = "०५१ आत्मा"
 51. Accompanying acceptance (?).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आत्मा।  
@@ -18,8 +17,6 @@ title = "०५१ आत्मा"
 
 [Brahman.—dve. 1. ātmadevatyā; 2. sāvitrī. 1. 1-p. brāhmy anuṣṭubh; 2. 3-p. yavamadhyo ’ṣṇih (1, 2. 1-av.).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 308.
 
 A sacrificial formula
 </details>
+

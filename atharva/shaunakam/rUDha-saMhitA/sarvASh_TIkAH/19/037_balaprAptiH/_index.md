@@ -7,7 +7,6 @@ title = "०३७ बलप्राप्तिः"
 37. With an amulet: for various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 बलप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०३७ बलप्राप्तिः"
 
 [Atharvan.—caturṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 3. 3-p. mahābṛhatī; 4. purāuṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 295.
 
 A charm to secure long life and dominion to a prince
 </details>
+

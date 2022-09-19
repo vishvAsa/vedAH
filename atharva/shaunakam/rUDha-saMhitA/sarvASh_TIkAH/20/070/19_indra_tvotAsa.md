@@ -8,7 +8,6 @@ title = "१९ इन्द्र त्वोतास"
 Aided by thee, the Thunder-armed, Indra; may we lit up the bolt, And conquer all our foes in fight.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। त्वाऽऊतासः। आ। वयम्। वज्रम्। घना। ददीमहि। जयेम। सम्। युधि। स्पृधः। ७०.१९।

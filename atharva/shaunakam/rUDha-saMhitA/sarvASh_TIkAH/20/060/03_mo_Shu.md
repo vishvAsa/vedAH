@@ -8,7 +8,6 @@ title = "०३ मो षु"
 Be not thou, like a slothful priest, O Lord of wealth and spoil: rejoice. In the pressed Soma blent with milk.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मो इति। सु। ब्रह्माऽइव। तन्द्रयुः। भुवः। वाजानाम्। पते। मत्स्व। सुतस्य। गोऽमतः। ६०.३।

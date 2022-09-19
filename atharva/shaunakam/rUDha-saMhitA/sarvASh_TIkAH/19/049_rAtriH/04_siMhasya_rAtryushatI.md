@@ -34,7 +34,6 @@ authorities read *vibhātī́ḥ* at the end.⌋ \*⌊Cf. *áśvabudhna*, RV. x.
 With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny lion, The horse's neighing and the wild-man's bellow, Thou takest many a form when thou appearest.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सिंहस्य। रात्री। उशती। पींषस्य। व्याघ्रस्य। द्वीपिनः। वर्चः। आ। ददे। अश्वस्य। ब्रध्नम्। पुरुषस्य। मायुम्। पुरु। रूपाणि। कृणुषे। विऽभाती। ४९.४।

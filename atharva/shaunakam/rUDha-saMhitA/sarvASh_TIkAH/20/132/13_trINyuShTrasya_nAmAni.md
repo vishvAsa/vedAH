@@ -8,7 +8,6 @@ title = "१३ त्रीण्युष्ट्रस्य नामान
 Three are the names the camel bears, Golden is one of them, he said.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रीणि। उष्ट्रस्य। नामानि। १३२.१३।

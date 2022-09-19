@@ -21,7 +21,6 @@ by the Anukr. (13 + 11: 11 + 8 = 43): ⌊see introduction, above⌋.
 Around thy limbs I place the mail of Indra who hath become the Gods' imperial Sovran. Again let all the Deities bring thee hither. Invincible let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रस्य। त्वा। वर्मणा। परि। धापयामः। यः। देवानाम्। अधिऽराजः। बभूव। पुनः। त्वा। देवाः। प्र। नयन्तु। सर्वे। अस्तृतः। त्वा। अभि। रक्षतु। ४६.४।

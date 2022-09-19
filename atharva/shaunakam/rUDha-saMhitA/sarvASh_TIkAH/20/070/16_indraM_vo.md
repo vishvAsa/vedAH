@@ -8,7 +8,6 @@ title = "१६ इन्द्रं वो"
 For your sake from each side we call Indra away from other men: Ours, and none others', may he be.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। वः। विश्वतः। परि। हवामहे। जनेभ्यः। अस्माकम्। अस्तु। केवलः। ७०.१६।

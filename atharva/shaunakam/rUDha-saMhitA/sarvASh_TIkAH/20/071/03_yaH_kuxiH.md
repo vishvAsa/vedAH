@@ -8,7 +8,6 @@ title = "०३ यः कुक्षिः"
 His belly drinking deepest draughts of Soma like an ocean swells, Like wide streams from the cope of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। कुक्षिः। सोमऽपातमः। समुद्रःऽइव। पिन्वते। उर्वीः। आपः। न। काकुदः। ७१.३।

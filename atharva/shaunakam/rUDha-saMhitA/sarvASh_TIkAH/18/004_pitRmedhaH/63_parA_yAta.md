@@ -37,7 +37,6 @@ metrically⌋.
 Depart, O Fathers, ye who merit Soma, by the deep pathways which the Fathers travel; But in a month, rich in fair sons and heroes, come back into our homes to eat oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परा। यात। पितरः। सोम्यासः। गम्भीरैः। पथिऽभिः। पूःऽयानैः। अध। मासि। पुनः। आ। यात। नः। गृहान्। हविः। अत्तुम्। सुऽप्रजसः। सुऽवीराः। ४.६३।

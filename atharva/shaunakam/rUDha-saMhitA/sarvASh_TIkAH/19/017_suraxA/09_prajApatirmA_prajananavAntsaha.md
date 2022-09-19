@@ -28,7 +28,6 @@ is to be made of it.⌋
 Prajapati, of generative power, with the Pratishlha save me from the nadir! To him, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रजाऽपतिः। मा। प्रजननऽवान्। सह। प्रतिऽस्थायाः। ध्रुवायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.९।

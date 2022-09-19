@@ -8,7 +8,6 @@ title = "०३ वि चिद्वृत्रस्य"
 The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred-knotted thunderbolt.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। चित्। वृत्रस्य। दोधतः। वज्रेणः। शतऽपर्वणा। शिरः। बिभेद। वृष्णिना। १०७.३।

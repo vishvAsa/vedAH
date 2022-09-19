@@ -8,7 +8,6 @@ title = "०३ यदद्याश्विनावहं हुवेय"
 When 1, O Asvins, call on you to-day that I may gather strength, Or as all-conquering might in war, be that the Asvins' noblest grace.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अद्य। अश्विनौ। अहम्। हुवेय। वाजऽसातये। यत्। पृत्ऽसु। तुर्वणे। सहः। तत्। श्रेष्ठम्। अश्विनोः। अवः। १४१.३।

@@ -27,7 +27,7 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 
 <details open><summary>पदपाठः</summary>
 
-इन्द्रः। जयाति। न। परा। जयातै। अधिऽराजः। राजऽसु। राजयातै। चर्कृत्यः। ईड्यः। वन्द्य। च। उपऽसद्यः। नमस्यः। भव। इह। ९८.१।
+इन्द्रः। जयाति। न। परा। जयातै। अधिऽराजः। राजऽसु। राजयातै। चर्कृत्यः। ईड्यः। वन्द्य। च। उपऽसद्यः। नमस्यः᳡। भव। इह। ९८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

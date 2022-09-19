@@ -18,7 +18,6 @@ blundering assimilation to the accent of *uttamébhyas*, vs. 12⌋.
 To the latter ones, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽतरेभ्यः। स्वाहा। २२.१३।

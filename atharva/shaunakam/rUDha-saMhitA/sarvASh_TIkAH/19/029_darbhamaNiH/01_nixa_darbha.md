@@ -20,7 +20,6 @@ rather the root *cumb* 'harm,' *hiṅsāyām*, not *cumb, vaktrasaṁyoge.*⌋
 Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce all who wish me evil, pierce the men who hate me,. Amulet!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 निक्ष। दर्भ। सऽपत्नान्। मे। निक्ष। मे। पृतनाऽयतः। निक्ष। मे। सर्वान्। दुःऽहार्दः। निक्ष। मे। द्विषतः। मणे। २९.१।

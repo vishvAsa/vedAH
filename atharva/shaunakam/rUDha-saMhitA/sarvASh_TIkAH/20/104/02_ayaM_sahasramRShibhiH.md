@@ -8,7 +8,6 @@ title = "०२ अयं सहस्रमृषिभिः"
 He with his might enhanced by Rishis thousand-fold, hath like an ocean spread himself. His majesty is praised as true at solemn rites, his power where holy singers rule
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। सहस्रम्। ऋषिऽभिः। सहःऽकृतः। समुद्रःऽइव। पप्रथे। सत्यः। सः। अस्य। महिमा। गृणे। शवः। यज्ञेषु। विप्रऽराज्ये। १०४.२।

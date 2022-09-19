@@ -8,7 +8,6 @@ title = "०५ कदा मर्तमराधसम्"
 When will he trample like a weed the man who hath no gift for him? When verily will Indra hear our songs of praise?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कदा। मर्तम्। अराधसम्। पदा। क्षुम्पम्ऽइव। स्फुरत्। कदा। नः। शुश्रवत्। गिरः। इन्द्रः। अङ्ग। ६३.५।

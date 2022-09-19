@@ -22,7 +22,6 @@ RV. x. 14. 3 has the first three pādas, but, instead of repeating our 44
 Matali prospers there with Kavyas, Yama with Angiras' sons, Brihaspati with singers. Exalters of the Gods, by Gods exalted, aid us those Fathers in our invocations?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मातली। कव्यै। यमः। अङ्गिरःऽभिः। बृहस्पतिः। ऋक्वऽभिः। ववृधानः। यान्। च। देवाः। ववृधुः। ये। च। देवान्। ते। नः। अवन्तु। पितरः। हवेषु। १.४७।

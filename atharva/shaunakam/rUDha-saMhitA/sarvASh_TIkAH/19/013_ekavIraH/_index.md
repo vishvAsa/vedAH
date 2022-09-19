@@ -7,7 +7,6 @@ title = "०१३ एकवीरः"
 13. For success in war: ⌊Apratiratha hymn⌋.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 एकवीरः।  
@@ -18,8 +17,6 @@ title = "०१३ एकवीरः"
 
 [Apratiratha.—ekādaśa. āindram. trāiṣṭubham: 3-6, 11. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 273; and by the RV. translators.—Cf. also Oldenberg,
 
 A prayer for aid and victory in battle
 </details>
+

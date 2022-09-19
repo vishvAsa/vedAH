@@ -31,7 +31,6 @@ soldiers (*indriyaparatvena rtvikparatvena yoddhṛparatvena*). ⌊As to
 Prepare the cow-stall, for there drink your heroes: stitch ye the coats of armour wide and many. Make iron forts defying all assailants: let not your pitcher leak; stay it securely.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 व्रजम्। कृणुध्वम्। सः। हि। वः। नृऽपानः। वर्म। सीव्यध्वम्। बहुला। पृथूनि। पुरः। कृणुध्वम्। आयसीः। अधृष्टाः। मा। वः। सुस्रोत्। चमसः। दृंहत। तम्। ५८.४।

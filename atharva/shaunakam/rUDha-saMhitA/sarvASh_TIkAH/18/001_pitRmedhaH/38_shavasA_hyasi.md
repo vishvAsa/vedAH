@@ -26,7 +26,6 @@ above implies *śrutás*. The comm. perhaps reads in **b** *vṛtrahatye
 For thou by slaying Vritra art the Vritra-slayer, famed for might. Thou, Hero, in rich gifts surpassest wealthy chiefs.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शवसा। हि। असि। श्रुतः। वृत्रऽहत्येन। वृत्रऽहा। मघैः। मघोनः। अति। शूर। दाशसि। १.३८।

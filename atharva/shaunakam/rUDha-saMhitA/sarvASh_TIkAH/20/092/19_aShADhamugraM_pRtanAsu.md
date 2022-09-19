@@ -8,7 +8,6 @@ title = "१९ अषाढमुग्रं पृतनासु"
 The potent Conqueror, invincible in war, him at whose birth the mighty ones, The kine who spread afar, sent their loud voices out, heavens, earths sent their loud voices out.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अषाल्हम्। उग्रम्। पृतनासु। ससहिम्। यस्मिन्। महीः। उरुऽज्रयः। सम्। धेनवः। जायमाने। अनोनवुः। द्यावः। क्षामः। अनोनवुः। ९२.१९।

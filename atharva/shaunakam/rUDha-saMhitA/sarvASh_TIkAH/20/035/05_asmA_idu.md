@@ -8,7 +8,6 @@ title = "०५ अस्मा इदु"
 So with my tongue I deck, to please that Indra, my hymn as't- were a horse, through love of glory, To reverence the Hero, bounteous Giver, famed far and wide, destroyer of the castles.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। सप्तिम्ऽइव। अवस्‍या। इन्द्राय। अर्कम्। जुह्वा। सम्। अञ्जे। वीरम्। दानऽओकसम्। वन्दध्यै। पुराम्। गूर्तऽश्रवसम्। दर्माणम्। ३५.५।

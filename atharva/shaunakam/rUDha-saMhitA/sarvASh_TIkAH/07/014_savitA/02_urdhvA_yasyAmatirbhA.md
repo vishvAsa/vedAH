@@ -28,7 +28,7 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 
 <details open><summary>पदपाठः</summary>
 
-ऊर्ध्वाः। यस्य। अमतिः। भाः। अदिद्युतत्। सवीमनि। हिरण्यऽपाणिः। अमिमीत। सुऽक्रतुः। कृपात्। स्वः। १५.२।
+ऊर्ध्वाः। यस्य। अमतिः। भाः। अदिद्युतत्। सवीमनि। हिरण्यऽपाणिः। अमिमीत। सुऽक्रतुः। कृपात्। स्वः᳡। १५.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

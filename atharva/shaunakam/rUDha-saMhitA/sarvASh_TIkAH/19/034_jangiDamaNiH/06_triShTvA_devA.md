@@ -22,7 +22,6 @@ gives *niṣ ṭvā*. The comm. reads *tiṣṭhantam* in **b** instead of
 Three times the Gods engendered thee fixt on the surface of the earth; The Brahmans of the olden time knew that thy name was Angiras;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिः। त्वा। देवाः। अजनयन्। निऽस्थितम्। भूम्याम्। अधि। तम्। ऊं इति। त्वा। अङ्गिराः। इति। ब्राह्मणाः। पूर्व्याः। विदुः। ३४.६।

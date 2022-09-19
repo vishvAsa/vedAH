@@ -33,7 +33,6 @@ funeral pile. The verse, as a *triṣṭubh*, is rather *svarāj* than
 This is the robe that first was wrapped about thee: cast off the robe thou worest here among us. Go, knowing, to the meed of virtuous action, thy many gifts. bestowed upon the friendless.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। त्वा। वासः। प्रथमम्। नु। आ। अगन्। अप। एतत्। ऊह। यत्। इह। अबिभः। पुरा। इष्टापूर्तम्। अनुऽसंक्राम। विद्वान्। यत्र। ते। दत्तम्। बहुऽधा। विऽबन्धुषु। २.५७।

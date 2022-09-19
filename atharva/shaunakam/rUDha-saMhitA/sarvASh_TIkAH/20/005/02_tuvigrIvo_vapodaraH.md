@@ -8,7 +8,6 @@ title = "०२ तुविग्रीवो वपोदरः"
 Mighty in bulk, strong-necked, stout-armed in the wild rapture. of the juice Doth Indra smite the foemen dead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तुविऽग्रीवः। वपाऽउदरः। सुऽबाहुः। अन्‍धसः। मदे। इन्द्रः। वृत्राणि। जिघ्नते। ५.२।

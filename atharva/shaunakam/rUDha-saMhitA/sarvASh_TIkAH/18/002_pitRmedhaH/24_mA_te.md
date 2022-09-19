@@ -24,10 +24,9 @@ after cremation; with the same, and further with 3. 25-37, in connection
 Let not thy soul be left behind: here let not aught of thee remain, Of spirit, body, members, sap.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-मा। ते। मनः। मा। असोः। मा। अङ्गानाम्। मा। रसस्य। ते। मा। ते। हास्त। तन्वः। किम्। चन। इह। २.२४।
+मा। ते। मनः। मा। असोः। मा। अङ्गानाम्। मा। रसस्य। ते। मा। ते। हास्त। तन्वः᳡। किम्। चन। इह। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,3 +56,4 @@ Let not thy soul be left behind: here let not aught of thee remain, Of spirit, b
 
 टिप्पणी:   २४−(मा) निषेधे (ते) तव (मनः) चित्तम् (मा) (असोः) प्राणस्य (मा) (अङ्गानाम्) अवयवानाम् (मा) (रसस्य) वीर्यस्य (ते) (मा हास्त) ओहाङ् गतौ-लुङ्।मा गच्छेत् (ते) (तन्वः) शरीरस्य (किं चन) किमपि (इह) अत्र। अस्माकं मध्यात् ॥
 </details>
+

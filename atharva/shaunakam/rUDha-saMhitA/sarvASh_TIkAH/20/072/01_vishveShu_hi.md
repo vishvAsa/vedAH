@@ -8,7 +8,6 @@ title = "०१ विश्वेषु हि"
 In all libations men with hero spirit urge thee, Universal, One, each seeking several light, each fain to win the light apart. Thee, furthering like a ship, will we set to the chariot pole of strength, As men who win with sacrifices Indra's thought, men who win Indra with their lauds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विश्वेषु। हि। त्वा। सवनेषु। तुञ्जते। समानम्। एकम्। वृषऽमन्यवः। पृथक्। स्व१रिति स्वः। सनिष्यवः। पृथक्। तम्। त्वा। नावम्। न। पर्वणिम्। शूषस्य। धुरि। धीमहि। इन्द्रम्। न। यज्ञैः। चितयन्तः। आयवः। स्तोमेभिः। इन्द्रम्। आयवः। ७२.१।

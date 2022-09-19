@@ -8,7 +8,6 @@ title = "०३ बोधा सु"
 Mark closely, Maghavan; the words I utter, this eulogy recited by Vasishtha: Accept the prayers I offer at thy banquet.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बोध। सु। मे। मघऽवन्। वाचम्। आ। इमाम्। याम्। ते। वसिष्ठः। अर्चति। प्रऽशस्तिम्। इमा। ब्रह्म। सधमादे। जुषस्व। ११७.३।

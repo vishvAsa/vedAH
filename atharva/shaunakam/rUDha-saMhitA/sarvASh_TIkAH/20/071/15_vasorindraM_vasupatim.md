@@ -8,7 +8,6 @@ title = "१५ वसोरिन्द्रं वसुपतिम्"
 Praising with songs the praise-worthy who cometh to our aid, we call Indra, the Treasure-Lord of wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वसोः। इन्द्रम्। वसुऽपतिम्। गीऽभिः। गृणन्तः। ऋग्मियम्। होम। गन्तारम्। ऊतये। ७१.१५।

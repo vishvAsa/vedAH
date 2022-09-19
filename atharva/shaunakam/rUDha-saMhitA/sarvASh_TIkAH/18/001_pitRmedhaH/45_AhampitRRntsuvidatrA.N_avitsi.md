@@ -27,7 +27,6 @@ Vāit., see under vs. 44.
 I have attained the gracious-minded Fathers, I have gained son and progeny from Vishnu. They who enjoy pressed juices with oblation, seated on sacred grass, come oftenest hither.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। अहम्। पितॄन्। सुऽविदत्रान्। अवित्सि। नपातम्। च। विऽक्रमणम्। च। विष्णोः। बर्हिऽसदः। ये। स्वधया। सुतस्य। भजन्त। पित्वः। ते। इह। आऽगमिष्ठाः। १.४५।

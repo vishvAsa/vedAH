@@ -24,7 +24,6 @@ a thousand, those of the moon are four hundred and ninety.
 Forth from head of the high God seven-and-seventy bright beams. Sprang into being, of the King Soma produced from Purusha.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मूर्धः। देवस्य। बृहतः। अंशवः। सप्त। सप्ततीः। राज्ञः। सोमस्य। अजायन्त। जातस्य। पुरुषात्। अधि। ६.१६।

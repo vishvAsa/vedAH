@@ -8,7 +8,6 @@ title = "०६ तवेदं विश्वमभितः"
 Thine is this world of flocks and herds around thee, which with the eye of Surya thou beholdest. Thou, Indra, art alone the Lord of cattle: may we enjoy the treasure which thou givest.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तव। इदम्। विश्वम्। अभित। पशव्यम्। यत्। पश्यसि। चक्षसा। सूर्यस्य। गवाम्। असि। गोऽपतिः। एकः। इन्द्र। भक्षीमहि। ते। प्रऽयतस्य। वस्वः। ८७.६।

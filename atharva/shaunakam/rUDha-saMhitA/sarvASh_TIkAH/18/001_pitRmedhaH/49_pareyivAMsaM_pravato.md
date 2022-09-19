@@ -43,7 +43,6 @@ existing division of the book into *anuvāka*-hymns.⌋
 Honour the King with your oblations, Yama, Vivasvan's son, who gathers men together. Even him who travelled o'er the mighty rivers, who searches out and shows the path to many.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परेयिऽवांसम्। प्रऽवतः। महीः। इति। बहुऽभ्यः। पन्थाम्। अनुऽपस्पशानम्। वैवस्वतम्। सम्ऽगमनम्। जनानाम्। यमम्। राजानम्। हविषा। सपर्यत। १.४९।

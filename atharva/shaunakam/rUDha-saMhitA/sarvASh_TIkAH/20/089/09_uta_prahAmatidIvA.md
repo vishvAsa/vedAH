@@ -8,7 +8,6 @@ title = "०९ उत प्रहामतिदीवा"
 Yea, by superior play he wins advantage when he, a gambler, piles his gains in season. Celestial-natured, he o'erwhelms with riches the devotee who keeps not back his money.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत। प्रऽहाम्। अतिऽदीवा। जयति। कृतम्ऽइव। श्वघ्नी। वि। चिनोति। काले। यः। देवऽकामः। न। धनम्। रुणध्दि। सम्। इत्। तम्। रायः। सृजति। स्वधाभिः। ८९.९।

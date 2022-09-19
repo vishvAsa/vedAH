@@ -23,7 +23,6 @@ varied repetitions of this one.
 We know thine origin, O Sleep. Thou art the son of the sisters of the Gods, the minister of Yama. Thou art the Ender, thou are Death. As such, O Sleep, we know thee well. As such, preserve us from the evil dream.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विद्म। ते। स्वप्न। जनित्रम्। निःऽभूत्याः। पुत्रः। असि। यमस्य। करणः। ५.६।

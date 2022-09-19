@@ -20,7 +20,7 @@ The Deities, the Fathers, men, Gandharvas, and Apsarases. All the celestial Gods
 
 <details open><summary>पदपाठः</summary>
 
-देवाः। पितरः। मनुष्याः। गन्धर्वऽअप्सरसः। च। ये। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२७।
+देवाः। पितरः। मनुष्याः᳡। गन्धर्वऽअप्सरसः। च। ये। उत्ऽशिष्टात्। जज्ञिरे। सर्वे। दिवि। देवाः। दिविऽश्रितः। ९.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

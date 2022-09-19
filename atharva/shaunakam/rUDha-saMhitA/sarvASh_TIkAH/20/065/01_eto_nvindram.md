@@ -8,7 +8,6 @@ title = "०१ एतो न्विन्द्रम्"
 Come, sing we praise to Indra, friends! the Hero who deserves the laud, Him who with none to aid o'ercomes all tribes of men.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतो इत‍ि। नु। इन्द्रम्। स्तवाम। सखायः। स्तोम्यम्। नरम्। कृष्टीः। यः। विश्वाः। अभि। अस्ति। एकः। इत्। ६५.१।

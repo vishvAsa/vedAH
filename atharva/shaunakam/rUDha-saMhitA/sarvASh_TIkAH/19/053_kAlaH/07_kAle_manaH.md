@@ -20,7 +20,6 @@ with the following hymn, without any ⌊real⌋ variants in the four verses.
 In Kala mind, in Kala breath, in Kala name are fixt and joined. These living creatures, one and all, rejoice when Kala hath approached.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 काले। मनः। काले। प्राणः। काले। नाम। सम्ऽआहितम्। कालेन। सर्वाः। नन्दन्ति। आऽगतेन। प्रऽजाः। इमाः। ५३.७।

@@ -34,7 +34,6 @@ an easier and better text; ⌊his *mā* goes easily as an appositive with
 Invest this Indra for long life, invest him for great princely power, That I may lead him on to eld, that the man watch his princedom long.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परि। इमम्। इन्द्रम्। आयुषे। महे। क्षत्राय। धत्तन। यथा। एनम्। जरसे। नयाम्। ज्योक्। क्षत्रे। अधि। जागरत्। २४.२।

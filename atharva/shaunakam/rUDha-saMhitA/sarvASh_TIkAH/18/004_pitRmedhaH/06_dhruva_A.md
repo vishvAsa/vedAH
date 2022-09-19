@@ -37,7 +37,6 @@ yajamānas tvam ahṛṇīyamānaḥ*.⌋
 Dhruva, ascend thou earth the all sustainer: go thou, O Upa- bhrit, to air's mid-region. Juhu, go skyward with the sacrificer; go, and with Sruva be thy calf beside thee drain all the swelling unreluctant quarters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ध्रुवे। आ। रोह। पृथिवीम्। विश्वऽभोजसम्। अन्तरिक्षम्। उपऽभृत्। आ। क्रमस्व। जुहु। द्याम्। गच्छ। यजमानेन। साकम्। स्रुवेण। वत्सेन। दिशः। प्रऽपीनाः। सर्वाः। धुक्ष्व। अहृणीयमानः। ४.६।

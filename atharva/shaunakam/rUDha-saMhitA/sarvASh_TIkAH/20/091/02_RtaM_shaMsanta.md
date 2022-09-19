@@ -8,7 +8,6 @@ title = "०२ ऋतं शंसन्त"
 Thinking aright, praising eternal Order, the sons of Dyaus the Asura, those heroes, Angirases, holding the rank of sages, first honoured sacrifice's holy statute.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋतम्। शंसन्तः। ऋजु। दीध्यानाः। दिवः। पुत्रासः। असुरस्य। वीराः। विप्रम्। पदम्। अङ्गिरसः। दधानाः। यज्ञस्य। धाम। प्रथमम्। मनन्त। ९१.२।

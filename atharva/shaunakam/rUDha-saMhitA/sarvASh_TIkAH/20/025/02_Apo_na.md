@@ -8,7 +8,6 @@ title = "०२ आपो न"
 The heavenly waters come not nigh the priestly bowl: they but look down and see how far mid-air is spread: The Deities conduct the pious man to them: like suitors they delight in him who loveth prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आपः। न। देवीः। उप। यन्ति। होत्रियम्। अवः। पश्यन्ति। विऽततम्। यथा। रजः। प्राचैः। देवासः। प्र। नयन्ति। देवऽयुम्। ब्रह्मऽप्रियम्। जोषयन्ते। वराःऽइव। २५.२।

@@ -8,7 +8,6 @@ title = "०२ उप त्वा"
 On thee for aid in sacrifice. This youth of ours, the bold, the mighty, hath gone forth. We, therefore, we thy friends, Indra, have chosen thee, free- giver, as our guardian God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। त्वा। कर्मन्। ऊतये। सः। नः। युवा। उग्रः। चक्रामः। यः। धृषत्। त्वाम्। इत्। हि। अवितारम्। ववृमहे। सखायः। इन्द्र। सानसिम्। १४.२।

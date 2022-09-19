@@ -45,7 +45,6 @@ to that verse.⌋
 Mail thee with flesh against the flames of Agni; encompass thee about with fat and marrow; So will the bold One eager to attack thee with fierce glow fail to girdle and consume thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्नेः। वर्म। परि। गोभिः। व्ययस्व। सम्। प्र। ऊर्णुष्व। मेदसा। पीवसा। च। न। इत्। त्वा। धृष्णुः। हरसा। जर्हृषाणः। दधृक्। विऽधक्षन्। परिऽईङ्ख्यातै। २.५८।

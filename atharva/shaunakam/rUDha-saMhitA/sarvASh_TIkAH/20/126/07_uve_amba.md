@@ -8,7 +8,6 @@ title = "०७ उवे अम्ब"
 Mother whose love is quickly won,I say what verily will be, My breast, O mother, and my head and both my hips seem quivering Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उवे। अम्ब। सुलाभिके। यथाऽइव। अङ्ग। भविष्यति। भसत्। मे। अम्ब। सक्थि। मे। शिरः। मे। विऽइव। हृष्यति। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.७।

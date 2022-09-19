@@ -8,7 +8,6 @@ title = "०४ अर्वावतो न"
 Come to us either from anear, or, Sakra, come from far away. Indra, wherever be thy home, come to us thence, O Thunder- armed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्वाऽवतः। नः। आ। गहि। अथो इति। शक्र। परावतः। ऊं इति। लोकः। यः। ते। अद्रिऽवः। इन्द्र। इह। ततः। आ। गहि। २.४।

@@ -34,7 +34,7 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 
 <details open><summary>पदपाठः</summary>
 
-निःऽसालाम्। धृष्णुम्। धिषणम्। एकऽवाद्याम्। जिघत्ऽस्वम्। सर्वाः। चण्डस्य। नप्त्यः। नाशयामः। सदान्वाः। १४.१।
+निःऽसालाम्। धृष्णुम्। धिषणम्। एकऽवाद्याम्। जिघत्ऽस्व᳡म्। सर्वाः। चण्डस्य। नप्त्यः᳡। नाशयामः। सदान्वाः। १४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

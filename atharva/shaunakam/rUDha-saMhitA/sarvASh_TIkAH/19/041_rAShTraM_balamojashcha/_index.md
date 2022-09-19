@@ -7,7 +7,6 @@ title = "०४१ राष्ट्रं बलमोजश्च"
 41. For some one's welfare.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 राष्ट्रं बलमोजश्च।  
@@ -18,8 +17,6 @@ title = "०४१ राष्ट्रं बलमोजश्च"
 
 [Brahman.—ekarcam. mantroktatapodevatyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 298.
 
 A benediction on a newly elected king
 </details>
+

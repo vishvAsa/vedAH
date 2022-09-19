@@ -22,7 +22,7 @@ The Prince's mother is the Cow: so was it ordered from of old. She, when bestowe
 
 <details open><summary>पदपाठः</summary>
 
-वशा। माता। राजन्यस्य। तथा। सम्ऽभूतम्। अग्रऽशः। तस्याः। आहुः। अनर्पणम्। यत्। ब्रह्मऽभ्यः। प्रऽदीयते। ४.३३।
+वशा। माता। राजन्य᳡स्य। तथा। सम्ऽभूतम्। अग्रऽशः। तस्याः। आहुः। अनर्पणम्। यत्। ब्रह्मऽभ्यः। प्रऽदीयते। ४.३३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

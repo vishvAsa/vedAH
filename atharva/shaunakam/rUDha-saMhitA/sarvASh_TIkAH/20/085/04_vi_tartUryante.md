@@ -8,7 +8,6 @@ title = "०४ वि तर्तूर्यन्ते"
 Those skilled in song, O Maghavan, among these men o'ercome with might the foeman's songs, Come hither, bring us strength in many a varied form most near that it may succour us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। तर्तूर्यन्ते। मघऽवन्। विपःऽचितः। अर्यः। विपः। जनानाम्। उप। क्रमस्व। पुरुऽरूपम्। आ। भर। वाजम्। नेदिष्ठम्। ऊतये। ८५.४।

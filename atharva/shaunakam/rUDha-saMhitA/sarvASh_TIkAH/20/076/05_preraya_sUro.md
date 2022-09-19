@@ -8,7 +8,6 @@ title = "०५ प्रेरय सूरो"
 Speed happily those, as Surya ends his journey, who meet his wish as bridegrooms meet their spouses; Men who support, O Indra strong by nature, with food the many songs that tell thy praises.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। ईरय। सूरः। अर्थम्। न। पारम्। ये। अस्य। कामम्। जनिधाःऽइव। ग्मन्। गिरः। च। ये। ते। तुविजात। पूर्वीः। नरः। इन्द्र। प्रतिऽशिक्षन्ति। अन्नैः। ७६.५।

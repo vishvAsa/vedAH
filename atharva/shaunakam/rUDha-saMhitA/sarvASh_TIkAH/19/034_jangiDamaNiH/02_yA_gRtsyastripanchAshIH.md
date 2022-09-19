@@ -70,7 +70,6 @@ construes *vic* does not seem to me admissible.⌋
 Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All these may Jangida make weak, bereft of their effectual force.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याः। गृत्स्यः। त्रिऽपञ्चाशीः। शतम्। कृत्याऽकृतः। च। ये। सर्वान्। विनक्तु। तेजसः। अरसान्। जङ्गिडः। करत्। ३४.२।

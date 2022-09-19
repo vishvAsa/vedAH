@@ -8,7 +8,6 @@ title = "०३ एष इषाय"
 A hundred chains of gold, ten wreaths, upon thee Rishi he bestowed, And thrice-a-hundred mettled steeds, ten-times-a-thousand cows he gave.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एषः। इषाय। मामहे। शतम्। निष्कान्। दश। स्रजः। त्रीणि। शतानि। अर्वतान्। सहस्रा। दश। गोनाम्। १२७.३।

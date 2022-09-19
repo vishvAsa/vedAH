@@ -16,7 +16,6 @@ title = "०५ तस्यव्रात्यस्ययोऽस्य प
 His fifth downward breath is Consecration.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। पञ्चमः। अपानः। सा। दीक्षा। १६.५।

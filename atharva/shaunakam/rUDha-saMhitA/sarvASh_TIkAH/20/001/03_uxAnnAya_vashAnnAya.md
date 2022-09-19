@@ -8,7 +8,6 @@ title = "०३ उक्षान्नाय वशान्नाय"
 Let us serve Agni with our hyms, Sage who consumeth ox and cow, Who beareth Soma on his back.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उक्षऽअन्नाय। वशाऽअन्नाय। सोमऽपृष्ठाय। वेधसे। स्तोमैः। विधेम। अग्नये। १.३।

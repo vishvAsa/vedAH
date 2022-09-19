@@ -8,7 +8,6 @@ title = "०८ द्रप्समपश्यं विषुणे"
 I saw the drop in the far distance moving, on the slope bank of Ansumati's river, Like a black cloud that sank into the water. Heroes. I send you forth. Go, fight in battle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्रप्सम्। अपश्यम्। विषुणे। चरन्तम्। उपऽह्वरे। नद्यः। अंशुऽमत्याः। नभः। न। कृष्णम्। अवतस्थिऽवांसम्। इष्यामि। वः। वृषणः। युध्यत। आजौ। १३७.८।

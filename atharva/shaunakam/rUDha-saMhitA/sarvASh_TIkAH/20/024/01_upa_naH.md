@@ -8,7 +8,6 @@ title = "०१ उप नः"
 Come to the juice that we have pressed, to Soma, Indra! blent with milk: Come, favouring us, thy bay-drawn car!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। नः। सुतम्। आ। गहि। सोमम्। इन्द्र। गोऽआशिरम्। हरिऽभ्याम्। यः। ते। अस्मऽयुः। २४.१।

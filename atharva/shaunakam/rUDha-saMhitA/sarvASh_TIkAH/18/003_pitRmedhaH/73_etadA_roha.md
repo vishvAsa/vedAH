@@ -34,7 +34,6 @@ Anukr. says *saptatis tryadhikā paraḥ:* cf. page 814.⌋
 Mount to this life, removing all defilement: here thine own kindred shine with lofty splendour. Depart thou; be not left behind: go forward, first of those here, unto the world of Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। आ। रोह। वयः। उत्ऽमृजानः। स्वाः। इह। बृहत्। ऊं इति। दीदयन्ते। अभि। प्र। इहि। मध्यतः। मा। अप। हास्थाः। पितॄणाम्। लोकम्। प्रथमः। यः। अत्र। ३.७३।

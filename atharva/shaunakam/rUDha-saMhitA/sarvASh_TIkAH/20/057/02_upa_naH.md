@@ -8,7 +8,6 @@ title = "०२ उप नः"
 Come thou to our libations, drink of Soma, Soma-drinker thou! The rich One's rapture giveth kine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। नः। सवना। आ। गहि। सोमस्य। सोमऽपाः। पिब। गोऽदाः। इत्। रेवतः। मदः। ५७.२।

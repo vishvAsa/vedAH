@@ -8,7 +8,6 @@ title = "०१ यद्द्याव इन्द्र"
 O Indra, if a hundred heavens and if a hundred earths were: thine No, not a hundred suns could match thee at thy birth, not, both, the worlds, O Thunderer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। द्यावः। इन्द्र। ते। शतम्। भूमीः। उत। स्युरिति। स्युः। न। त्वा। वज्रिन्। सहस्रम्। सूर्याः। अनु। न। जातम्। अष्ट। रोदसी इति। ८१.१।

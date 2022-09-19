@@ -61,7 +61,6 @@ sea-shells."⌋
 Vasishtha, Jamadagni, Visvamitra, Gotama, Vamadeva, Bhara- dvaja! Atri hath won your favour with homage. Gracious to us be ye praiseworthy Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विश्वामित्र। जमत्ऽअग्ने। वसिष्ठ। भरत्ऽवाज। गोतम। वामऽदेव। शर्दिः। नः। अत्रिः। अग्रभीत्। नमःऽभिः। सुऽसंशासः। पितरः। मृडत। नः। ३.१६।

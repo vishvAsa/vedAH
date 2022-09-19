@@ -66,7 +66,6 @@ gravemaker pats the mound with his spade to give it shape and firmness.⌋
 As the Five Races of mankind for Yama set apart a house. Even so I set a house apart that greater numbers may be mine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। यमाय। हर्म्यम्। अवपन्। पञ्च। मानवाः। एव। वपामि। हर्म्यम्‌। यथा। मे। भूरयः। असत। ४.५५।

@@ -8,7 +8,6 @@ title = "०४ त्वं सुतस्य"
 Thou, grown at once to perfect strength, wast born to drink the Soma juice, strong Indra, for preeminence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। सुतस्य। पीतये। सद्यः। वृद्धः। अजायथाः। इन्द्र। ज्यैष्ठ्याय। सुक्रतो इति सुऽक्रतो। ६९.४।

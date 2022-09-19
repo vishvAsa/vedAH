@@ -23,7 +23,6 @@ known.
 Hail to the Fathers who dwell in heaven!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वधा। पितृऽभ्यः। दिविसत्ऽभ्यः। ४.८०।

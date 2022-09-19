@@ -15,10 +15,9 @@ moon the two footmen, mind the etc. etc.
 New Moon Night and Full Moon Night are his running attendants, Mind, etc. as in stanza 1.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अमाऽवास्या। च। पौर्णऽमासी। च। परिऽस्कन्दौ। मनः। विऽपथम्। 
+अमाऽवास्या᳡। च। पौर्णऽमासी। च। परिऽस्कन्दौ। मनः। विऽपथम्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

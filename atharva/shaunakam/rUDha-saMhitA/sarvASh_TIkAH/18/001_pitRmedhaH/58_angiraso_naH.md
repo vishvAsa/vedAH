@@ -24,7 +24,6 @@ cremation service ⌊with vss. 59-61 and 2. 1-3: see note to vs. 49⌋.
 Our Fathers are Angirases, Navagvas, Atharvans, Bhrigus, who deserve the Soma. May these, the holy, look on us with favour; may we enjoy their gracious loving-kindness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अङ्गिरसः। नः। पितरः। नवऽग्वाः। अथर्वाणः। भृगवः। सोम्यासः। तेषाम्। वयम्। सुऽमतौ। यज्ञियानाम्। अपि। भद्रे। सौमनसे। स्याम। १.५८।

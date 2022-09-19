@@ -14,7 +14,6 @@ title = "१३ तस्मै ध्रुवाया"
 They made Rudra the Archer his deliverer from the intermediate space of the region of the nadir etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। ध्रुवायाः। दिशः। अन्तःऽदेशात्। रुद्रम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.१०।

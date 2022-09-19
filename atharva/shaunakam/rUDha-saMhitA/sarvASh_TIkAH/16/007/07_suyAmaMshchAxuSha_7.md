@@ -18,7 +18,6 @@ accentless.
 Suyaman son of Chakshus.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽयामन्। चाक्षुषः। ७.७।

@@ -8,7 +8,6 @@ title = "०३ इन्द्रो वृत्रमवृणोच्छर
 Leading his band Indra encompassed Vritra; weak grew the wily leader enchanters. He who burns fierce in forests slaughtered Vyansa, and made the milch-kine of nights apparent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। वृत्रम्‌। अवृणोत्। शर्धऽनीतिः। प्र। मायिनाम्। अमिनात्। वर्पऽनीतिः। अहन्। विऽअंसम्। उशधक्। वनेषु। आविः। धेनाः। अकृणोत्। राम्याणाम्। ११.३।

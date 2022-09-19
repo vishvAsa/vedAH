@@ -16,7 +16,6 @@ title = "०६ छिन्द्धि दर्भ"
 Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 छिन्द्धि। दर्भ। सऽपत्नान्। मे। छिन्द्धि। मे। पृतनाऽयतः। छिन्द्धि। मे। सर्वान्। दुःऽहार्दान्। छिन्द्धि। मे। द्विषतः। मणे। २८.६।

@@ -15,7 +15,6 @@ discernment the garment, day the turban, night the hair, yellow the two
 In the northern region Lightning is his leman, thunder his panegyrist, etc. as above.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽद्युत्। पुंश्चली। स्तनयित्नुः। मागधः। विऽज्ञानम्। वासः। अहः। उष्णीषम्। रात्री। केशाः। हरितौ। प्रऽवर्तौ। कल्मलिः। मणिः। २.२५।

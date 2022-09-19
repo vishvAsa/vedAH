@@ -24,7 +24,6 @@ significance of these extracts, see p. 792 (¶5)-793.⌋
 Hail to the two Prajapati hymns!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्राजाऽपत्याभ्याम्। स्वाहा। २३.२६।

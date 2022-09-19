@@ -21,7 +21,6 @@ SPP's accent *ádhārayan;* ⌊but one of SPP's at 4. 25 also accents
 Let these which Gods have held for thee, the beakers covered o'er with cake, Be full of sacred food for thee, distilling fatness, rich in mead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपूपऽअपिहितान्। कुम्भान्। यान्। ते। देवाः। अधारयन्। ते। ते। सन्तु। स्वधाऽवन्तः। मधुऽमन्तः। घृतऽश्चुतः। ३.६८।

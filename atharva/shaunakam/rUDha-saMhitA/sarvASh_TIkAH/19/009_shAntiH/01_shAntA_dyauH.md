@@ -19,7 +19,6 @@ appeased be the herbs for us.
 Gentle be heaven, gentle be earth, gentle this spacious, atmosphere. Gentle be waters as they flow, gentle to us be plants and herbs!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शान्ता। द्यौः। शान्ता। पृथिवी। शान्तम्। इदम्। उरु। अन्तरिक्षम्। शान्ताः। उदन्वतीः। आपः। शान्ताः। नः। सन्तु। ओषधीः। ९.१।

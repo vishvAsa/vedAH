@@ -8,7 +8,6 @@ title = "०५ असुन्वामिन्द्र संसदम्"
 As Soma-drinker conquering all, thou scatteredst to every side Their band who poured no gifts to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असुन्वाम्। इन्द्र। सम्ऽसदम्। विषूचीम्। वि। अनाशयः। सोमऽपाः। उत्ऽतरः। भवन्। २९.५।

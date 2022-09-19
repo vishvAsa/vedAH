@@ -61,7 +61,6 @@ ceremony the driving up of the two *havirdhānas*.
 From this side and from that let both assist me. As, speeding, ye have come like two twin sisters, Religious-hearted votaries brought you forward. Knowing your several places be ye seated.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इतः। च। मा। अमुतः। च। अवताम्। यमे इवेति यमेऽइव। यतमाने  इति। यत्। ऐतम्। प्र। वाम्। भरन्। मानुषाः। देवऽयन्तः। आ। सीदताम्। स्वम्। ऊं इति। लोकम्। विदाने  इति। ३.३८।

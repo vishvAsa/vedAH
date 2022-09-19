@@ -28,7 +28,6 @@ such application.
 Toward the eastward region I supply thee before thou goest homeward, with oblation, as in her arms, etc. (as in stanza 25).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्राच्याम्। त्वा। दिशि। पुरा। सम्ऽवृतः। स्वधायाम्। आ। दधामि। बाहुऽच्युता। पृथिवी। द्याम्ऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.३०।

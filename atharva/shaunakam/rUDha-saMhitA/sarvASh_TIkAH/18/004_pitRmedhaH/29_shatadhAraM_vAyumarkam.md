@@ -30,7 +30,6 @@ regards as referred to by the first word of the verse.
 Those who observe men look on wealth as Vayu with countless. streams, and as light-finding Arka; Those drain out Guerdon sprung from seven mothers, who satis- fy and evermore give presents.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतऽधारम्। वायुम्। अर्कम्। स्वःऽविदम्। नृऽचक्षसः। ते। अभि। चक्षते। रयिम्। ये। पृणन्ति। प्र। च। यच्छन्ति। सर्वदा। ते। दुह्नते। दक्षिणाम्। सप्तऽमातरम्। ४.२९।

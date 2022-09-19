@@ -23,7 +23,6 @@ for *-bṛh-* by Vedic license.
 Sure there will come succeeding times when brothers and sisters will do acts unmeet for kinsfolk. Not me, O fair one--seek another husband, and make thine arm a pillow for thy consort.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। घ। ता। गच्छान्। उत्ऽतरा। युगानि। यत्र। जामयः। कृणवन्। अजामि। उप। बर्बृही। वृषभाय। बाहुम्। अन्यम्। इच्छस्व। सुऽभगे। पतिम्। मत्। १.११।

@@ -28,7 +28,6 @@ kṛdhi: abháyaṁ sátatam paścā́d bhadrám uttarató gṛhé*.
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असपत्नम्। पुरस्तात्। पश्चात्। नः। अभयम्। कृतम्। सविता। मा। दक्षिणतः। उत्तरात्। मा। शचीऽपतिः। १६.१।

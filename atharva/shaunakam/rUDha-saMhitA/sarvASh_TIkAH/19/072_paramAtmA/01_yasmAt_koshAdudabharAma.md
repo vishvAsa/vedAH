@@ -30,10 +30,9 @@ colophon.⌋
 Within the chest whence we before extracted the bunch of grass, this do we now deposit. Wrought is the sacrifice by power of Brahma. Through this assist me here, ye God, with Fervour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यस्मात्। कोशात्। उत्ऽअभराम। वेदम्। तस्मिन्। अन्तः। अव। दध्मः। एनम्। कृतम्। इष्टम्। ब्रह्मणः। वीर्येण। तेन। मा। देवाः। तपसा। अवत। इह। ७२.१।
+यस्मात्। कोशात्। उत्ऽअभराम। वेदम्। तस्मिन्। अन्तः। अव। दध्मः। एनम्। कृतम्। इष्टम्। ब्रह्मणः। वीर्ये᳡ण। तेन। मा। देवाः। तपसा। अवत। इह। ७२.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

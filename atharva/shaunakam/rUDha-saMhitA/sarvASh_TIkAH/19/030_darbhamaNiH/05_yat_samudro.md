@@ -27,7 +27,6 @@ who thinks the "drop" refers to pearl: cf. introduction to iv. 10.⌋
 What time Parjanya roared to it with lightning flashes in the sea, Thence came the drop, the golden drop, thence Darbha into being sprang.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। समुद्रः। अभिऽक्रन्दत्। पर्जन्यः। विऽद्युता। सह। ततः। हिरण्ययः। बिन्दुः। ततः। दर्भः। अजायत। ३०.५।

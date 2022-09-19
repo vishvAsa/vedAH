@@ -18,7 +18,6 @@ The verse is really composed of two *triṣṭubh* pādas.
 Propitious to-day be dawns and evenings. May I drink water with all my people safe around me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वस्ति। अद्यः। उषसः। दोषसः। च। सर्वः। आपः। सर्वऽगणः। अशीय। ४.६।

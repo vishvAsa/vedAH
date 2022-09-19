@@ -8,7 +8,6 @@ title = "०३ आ नूनम्"
 Ye Asvins, now ascend your car that lightly rolls upon its way. May these my praises make you speed hitherward like a cloud of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नूनम्। रघुऽवर्तनिम्। रथम्। तिष्ठाथः। अश्विना। आ। वाम्। स्तोमाः। इमे। मम। नभः। न। चुच्यवीरत। १४०.३।

@@ -7,7 +7,6 @@ title = "०३८ यक्षमनाशनम्"
 38. With gúggulu: against disease.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यक्षमनाशनम्।  
@@ -19,8 +18,6 @@ title = "०३८ यक्षमनाशनम्"
 [Atharvan.—tṛcam. mantroktagulguludevatākam. ānuṣṭubham. 2 a-d. 4-p. uṣṇih; 2 e-f. 1-av. prājāpatyā ’nuṣṭubh.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ All the mss., and SPP., read in a árundhate, which our text emends to ar-; but 
 
 A protective charm
 </details>
+

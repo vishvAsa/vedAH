@@ -28,7 +28,6 @@ presentation of the *piṇḍas*, and this one while then rinsing the mouth
 Giving the son and grandson satisfaction, let these the present Waters full of sweetness, Pouring forth food and Amrit for the Fathers, refresh both these and those, the Goddess Waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुत्रम्। पौत्रम्। अभिऽतर्पयन्तीः। आपः। मधुऽमतीः। इमाः। स्वधाम्। पितृऽभ्यः। अमृतम्। दुहानाः। आपः। उभयान्। तर्पयन्तु। ४.३९।

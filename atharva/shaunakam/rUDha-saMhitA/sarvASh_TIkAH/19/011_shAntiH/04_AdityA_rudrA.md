@@ -20,7 +20,6 @@ explains *gojātās* as the Maruts, born of Pṛśni.
 So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May all the Holy Ones of earth and heaven, and the Cow's off- spring hear our invocation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आदित्याः। रुद्राः। वसवः। जुषन्ताम्। इदम्। ब्रह्म। क्रियमाणम्। नवीयः। शृण्वन्तु। नः। दिव्याः। पार्थिवासः। गोऽजाताः। उत। ये। यज्ञियासः। ११.४।

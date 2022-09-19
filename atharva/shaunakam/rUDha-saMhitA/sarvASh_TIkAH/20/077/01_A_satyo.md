@@ -8,7 +8,6 @@ title = "०१ आ सत्यो"
 Impetuous, true, let Maghavan come hither, and let his tawny coursers speed to reach us. For him have we pressed juice exceeding potent: here, praised with song, let him effect his visit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। सत्यः। यातु। मघऽवान्। ऋजीषी। द्रवन्तु। अस्य। हरयः। उप। नः। तस्मै। इत्। अन्धः। सुसुम। सुऽदक्षम्। इह। अभिऽपित्वम्। करते। गृणानः। ७७.१।

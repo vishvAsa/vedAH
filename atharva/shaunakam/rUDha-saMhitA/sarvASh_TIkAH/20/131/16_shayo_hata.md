@@ -8,7 +8,6 @@ title = "१६ शयो हत"
 शयो॑ ह॒त इ॑व ॥१६॥
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शयः। हतः। इव। १३१.१६।

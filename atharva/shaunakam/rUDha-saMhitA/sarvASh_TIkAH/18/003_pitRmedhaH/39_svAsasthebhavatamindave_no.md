@@ -40,7 +40,6 @@ translated above; the form might, of course, be 3d sing., like *duhé,
 Sit near, sit very near beside our Soma: for you I fit the ancient prayer with homage. The praise-song, like a chieftain on his pathway, spreads far and wide. Let all Immortals hear it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वासस्थे इति सुऽआसस्थे। भवतम्। इन्दवे। नः। युजे। वाम्। ब्रह्म। पूर्व्यम्। नमःऽभिः। वि। श्लोक। एति। पथ्याऽइव। सूरिः। शृण्वन्तु। विश्वे। अमृतासः। एतत्। ३.३९।

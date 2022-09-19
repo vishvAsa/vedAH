@@ -32,7 +32,6 @@ its trench, is in flat contradiction with such reference.⌋
 This pile of wood, collected, heaped together, regard it, O ye, kinsmen, and come near it. To immortality this mortal goeth: prepare a home for him, all ye his kindred.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। कसाम्बु। चयनेन। चितम्। तत्। सऽजाताः। अव। पश्यत। आ। इत। मर्त्यः। अयम्। अमृतऽत्वम्। एति। तस्मै। गृहान्। कृणुत। यावत्ऽसबन्धु। ४.३७।

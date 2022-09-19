@@ -23,7 +23,6 @@ bones. The first pāda is one syllable short.
 The grains of corn have now become a cow, the Sesamum her calf. He in the realm of Yama lives on her the inexhaustible.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धानाः। धेनुः। अभवत्। वत्सः। अस्याः। तिलः। अभवत्। ताम्। वै। यमस्य। राज्ये। अक्षिताम्। उप। जीवति। ४.३२।

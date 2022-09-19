@@ -8,7 +8,6 @@ title = "११ इन्द्रः कारुमबूबुधदुत्
 Indra hath waked the bard and said, Rise, wander singing here and there. Praise me, the strong: each pious man will give thee riches in return,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। कारुम्। अबूबुधत्। उत्तिष्ठ। वि। चर। जनम्। मम। इत्। उग्रस्य। चर्कृधि। सर्वः। इत्। ते। पृणात्। अरिः। १२७.११।

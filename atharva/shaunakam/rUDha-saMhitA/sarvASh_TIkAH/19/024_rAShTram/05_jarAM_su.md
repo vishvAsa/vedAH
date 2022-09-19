@@ -34,7 +34,6 @@ elsewhere.⌋
 Advance to good old age: endue the mantle. Be thou our heifers' guard from imprecation. Live thou a hundred full and plenteous autumns, and wrap thee in prosperity of riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जराम्। सु। गच्छ। परि। धत्स्व। वासः। भव। गृष्टीनाम्। अभिशस्तिऽपाः। ऊं इति। शतम्। च। जीव। शरदः। पुरूचीः। रायः। च। पोषम्। उपऽसंव्ययस्व। २४.५।

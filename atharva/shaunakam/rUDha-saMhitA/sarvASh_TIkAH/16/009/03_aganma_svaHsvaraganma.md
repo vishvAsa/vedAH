@@ -25,10 +25,9 @@ see p. 792, ¶ 2.⌋
 We have come to the light of heaven; to the light of heaven have we come: we have united with the light of Surya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अगन्म। स्वः। स्वः। अगन्म। सम्। सूर्यस्य। ज्योतिषा। अगन्म। ९.३।
+अगन्म। स्वः᳡। स्वः᳡। अगन्म। सम्। सूर्यस्य। ज्योतिषा। अगन्म। ९.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,3 +57,4 @@ We have come to the light of heaven; to the light of heaven have we come: we hav
 
 टिप्पणी:   ३−(अगन्म) छन्दसि लुङ्लङ्लिटः। पा० ३।४।६। लिङर्थे लुङ्। गच्छेम। प्राप्नुयाम (स्वः) तत्त्वज्ञानसुखम् (स्वः) मोक्षसुखम् (अगन्म) प्राप्नुयाम (सम्) संगत्य (सूर्यस्य) सर्वप्रेरकस्य परमात्मनः (ज्योतिषा) तेजसा (अगन्म) प्राप्नुयाम ॥
 </details>
+

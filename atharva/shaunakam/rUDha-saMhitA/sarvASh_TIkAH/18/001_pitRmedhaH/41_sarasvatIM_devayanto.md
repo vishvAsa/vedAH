@@ -25,7 +25,6 @@ and 42 **a**, nor of the excess of two syllables in 43 **a**.
 The pious call Sarasvati, they worship Sarasvati while sacrifice proceedeth. The virtuous call Sarasvati to hear them. Sarasvati send bliss to him who giveth!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वतीम्। देवऽयन्तः। हवन्ते। सरस्वतीम्। अघ्वरे। तायमाने। सरस्वतीम्। सुऽकृतः। हवन्ते। सरस्वती। दाशुषे। वार्यम्। दात्। १.४१।

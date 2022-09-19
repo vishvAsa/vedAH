@@ -20,7 +20,6 @@ made of the verse in the *sūtras*.
 Atris, Angirases, Navagvas, givers of liberal gifts, continual sacrificers, Devout and pious, granting guerdon freely, sit on this holy grass and be ye joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। अत्रयः। अङ्गिरसः। नवऽग्वाः। इष्टऽवन्तः। रातिऽसाचः। दधानाः। दक्षिणाऽवन्तः। सुऽकृतः। ये। ऊं इति। स्थ। आऽसद्य। अस्मिन्। बर्हिषि। मादयध्वम्। ३.२०।

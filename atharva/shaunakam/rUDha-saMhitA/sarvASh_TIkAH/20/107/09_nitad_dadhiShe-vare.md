@@ -8,7 +8,6 @@ title = "०९ नितद् दधिषेऽवरे"
 Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas: He with his might destroys the seven Danus, subduing many who were deemed his equals.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नि। तत्। दधिषे। अवरे। परे। च। यस्म‍िन्। आविथ। अवसा। दुरोणे। आ। स्थापयत। मातरम्। जिगत्नुम्। अतः। इन्वत। कर्वराणि। भूरि। १०७.९।

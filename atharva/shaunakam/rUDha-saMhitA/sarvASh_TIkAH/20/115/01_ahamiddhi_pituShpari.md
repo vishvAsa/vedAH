@@ -8,7 +8,6 @@ title = "०१ अहमिद्धि पितुष्परि"
 I from my Father have received deep knowledge of the holy Law: I was born like unto the Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अहम्। इत्। हि। पितुः। परि। मेधाम्। ऋतस्य। जग्रभ। अहम्। सूर्यःऽइव। अजनि। ११५.१।

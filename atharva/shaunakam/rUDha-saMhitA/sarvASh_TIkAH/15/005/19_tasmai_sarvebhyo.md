@@ -46,7 +46,6 @@ superfluous) to the familiarity of the ancient Hindus with
 They made Isana the Archer his deliverer from all the inter- mediate regions. ॥
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। सर्वेभ्यः। अन्तःऽदेशेभ्यः। ईशानम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.१४।

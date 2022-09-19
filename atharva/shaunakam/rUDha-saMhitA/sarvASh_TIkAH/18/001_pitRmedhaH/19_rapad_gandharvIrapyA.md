@@ -23,7 +23,6 @@ understands the goddesses Bhāratī and Sarasvatī to be intended in **a**;
 Gandharvi spake. May she, the Lady of the Flood amid the river's roaring leave my heart untouched. May Aditi accomplish all that we desire, and may our eldest Brother tell us this as chief.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रपत्। गन्धर्वीः। अप्या। च। योषणा। नदस्य। नादे। परि। पातु। नः। मनः। इष्टस्य। मध्ये। अदितिः। नि। धातु। नः। भ्राता। नः। ज्येष्ठः। प्रथमः। वि। वोचति। १.१९।

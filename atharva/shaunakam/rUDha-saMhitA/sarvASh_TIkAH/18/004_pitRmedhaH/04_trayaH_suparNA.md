@@ -36,7 +36,6 @@ quoted by Kāuś., nor has either a *viniyoga* indicated in the comm.
 Three eagles in the region's roar are standing high on heaven's ridge in their appointed station. The worlds of Svarga shall, filled full of Amrit, yield food and power to him who sacrificeth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रयः। सुऽपर्णाः। उपरस्य। मायू इति। नाकस्य। पृष्ठे। अधि। विष्टपि। श्रिताः। स्वःऽगाः। लोकाः। अमृतेन। विऽस्थाः। इषम्। ऊर्जम्। यजमानाय। दुह्राम्। ४.४।

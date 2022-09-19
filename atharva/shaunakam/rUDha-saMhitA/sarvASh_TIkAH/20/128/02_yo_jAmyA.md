@@ -8,7 +8,6 @@ title = "०२ यो जाम्या"
 He who defiles a sister, he who willingly would harm a friend, The fool who slights his elder, these, they say, must suffer down. below.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। जाम्या। अप्रथयः। तत्। यत्। सखायम्। दुधूर्षति। ज्येष्ठः। यत्। अप्रचेताः। तत्। आहुः। अधराक्। इति। १२८.२।

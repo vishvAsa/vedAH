@@ -31,7 +31,6 @@ yet later (82. 31) the gathering up and carrying away the bone-relics.
 Rise up, advance, run forward: make thy dwelling in water that shall be thy place to rest in There dwelling in accordance with the Fathers delight thyself with Soma and libations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। तिष्ठ। प्र। इहि। प्र। द्रव। ओकः। कृणुष्व। सलिले। सधऽस्थे। तत्र। त्वम्। प‍ितृऽभिः। सम्ऽविदानः। सम्। सोमेन। मदस्व। सम्। स्वधाभिः। ३.८।

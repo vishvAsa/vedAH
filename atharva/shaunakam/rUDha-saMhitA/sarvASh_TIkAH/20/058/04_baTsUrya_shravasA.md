@@ -8,7 +8,6 @@ title = "०४ बट्सूर्य श्रवसा"
 Yea, Surya, thou art great in fame: thou evermore, O God, art great. By greatness thou art President of Gods, divine, far-spread, inviolable light.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बट्। सूर्य। श्रवसा। महान्। असि। सत्रा। देव। महान्। असि। मह्ना। देवानाम्। असूर्यः। पुरःऽहितः। विऽभु। ज्योतिः। अदाभ्यम्। ५८.४।

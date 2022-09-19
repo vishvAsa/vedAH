@@ -8,7 +8,6 @@ title = "०३ प्र सु"
 Sakra I praise, for victory, far-famed, exceeding bountiful. Who gives, as 'twere in thousands, precious wealth to him who sheds the juice and worships him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। सु। श्रुतम। सुऽराधसम्। अर्च। शक्रम्। अभिष्ठये। यः। सुन्वते। स्तुवते। काम्यम्। वसु। सहस्रेणऽइव। मंहते। ५१.३।

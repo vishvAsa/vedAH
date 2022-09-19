@@ -26,10 +26,9 @@ resolutions.
 Yami am possessed by love of Yama, that I may rest on the same couch beside him. I as a wife would yield me to my husband. Like car-wheels let us speed to meet each other.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यमस्य। मा। यम्यम्। कामः। आ। अगन्। समाने। योनौ। सहऽशेय्याय। जायाऽइव। पत्ये। तन्वम्। रिरिच्याम्। वि। चित्। वृहेव। रथ्याऽइव। चक्रा। १.८।
+यमस्य। मा। यम्य᳡म्। कामः। आ। अगन्। समाने। योनौ। सहऽशेय्याय। जायाऽइव। पत्ये। तन्व᳡म्। रिरिच्याम्। वि। चित्। वृहेव। रथ्याऽइव। चक्रा। १.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

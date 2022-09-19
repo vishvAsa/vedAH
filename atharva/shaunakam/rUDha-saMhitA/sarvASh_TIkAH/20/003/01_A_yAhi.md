@@ -8,7 +8,6 @@ title = "०१ आ याहि"
 Come, we have pressed the juice for thee: O Indra, drink this Soma here. Seat thee on this my sacred grass.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। याहि। सुसुम। हि। ते। इन्द्र। सोमम्। पिब। इमम्। आ। इदम्। बर्हिः। सदः। मम। ३.१।

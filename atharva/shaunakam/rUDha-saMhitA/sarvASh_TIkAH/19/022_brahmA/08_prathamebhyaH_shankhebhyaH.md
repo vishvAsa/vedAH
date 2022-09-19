@@ -16,7 +16,6 @@ title = "०८ प्रथमेभ्यः शङ्खेभ्यः"
 To the first shells, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रथमेभ्यः। शङ्खेभ्यः। स्वाहा। २२.८।

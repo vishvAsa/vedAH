@@ -27,7 +27,7 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 
 <details open><summary>पदपाठः</summary>
 
-दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्वम्। अराय्यः। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। १७.५।
+दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्व᳡म्। अराय्यः᳡। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। १७.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

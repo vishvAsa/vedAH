@@ -8,7 +8,6 @@ title = "०१ मा चिदन्यद्"
 Glorify naught besides, O friends; so shall no sorrow trouble you. Praise only mighty Indra when the juice is shed, and say your lauds repeatedly:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। चित्। अन्यत्। वि। शंसत। सखाय। मा। रिषण्यत। इन्द्रम्। इत्। स्तोत। वृषणम्। सचा। सुते। मुहुः। उक्था। च। शंसत। ८५.१।

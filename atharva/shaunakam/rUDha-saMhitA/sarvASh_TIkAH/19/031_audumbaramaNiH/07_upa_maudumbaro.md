@@ -22,7 +22,6 @@ text. Some of the mss. leave *upa* at the beginning unaccented.
 To me with wealth and children come the Amulet of Udumbara. With splendour come the Amulet hastened by Indra on its way!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। मा। औदुम्बरः। मणिः। प्रऽजया। च। धनेन। च। इन्द्रेण। जिन्वितः। मणिः। आ। मा। अगन्‌। सह। वर्चसा। ३१.७।

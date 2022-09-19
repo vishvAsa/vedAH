@@ -8,7 +8,6 @@ title = "१५ यः सुन्वन्तमवति"
 Who aids with favour him who pours the Soma, and him who brews it, sacrificer, singer; Whose strength our prayer and offered Soma heighten, and this our gift, He, O ye men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। सुन्वन्तम्। अवति। यः। पचन्तम्। यः। शंसन्तम्। यः। शशमानम्। ऊती। यस्य। ब्रह्म। वर्धनम्। यस्य। सोमः। यस्य। इदम्। राधः। सः। जनासः। इन्द्रः। ३४.१५।

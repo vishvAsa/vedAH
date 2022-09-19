@@ -8,7 +8,6 @@ title = "०१ अश्वावति प्रथमो"
 Indra, the mortal man well guarded by thine aid goes foremost in the wealth of horses and of kine. With amplest wealth thou fillest him, as round about the waters clearly seen afar fill Sindhu full.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्वऽवति। प्रथमः। गोषु। गच्छति। सुप्रऽअवीः। इन्द्र। मर्त्यः। तव। ऊतिऽभिः। तम्। इत्। पृणक्षि। वसुना। भवीयसा। सिन्धुम्। आपः। यथा। अभितः। विऽचेतसः। २५.१।

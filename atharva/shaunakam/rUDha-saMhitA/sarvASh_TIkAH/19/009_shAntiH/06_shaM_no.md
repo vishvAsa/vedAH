@@ -25,7 +25,6 @@ for our **b** *śáṁ no víṣṇur urukramáḥ*.
 Favour us Mitra, Varuna, and Vishnu, and Prajapati! Gracious* to us be Indra and Brihaspati and Aryaman.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। मित्रः। शम्। वरुणः। शम्। विष्णुः। शम्। प्रजाऽपतिः। शम्। नः। इन्द्रः। बृहस्पतिः। शम्। नः। भवतु। अर्यमा। ९.६।

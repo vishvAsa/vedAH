@@ -13,7 +13,6 @@ title = "२५ स उदतिष्ठत्सउदीचीम्"
 He arose and went away to the northern region. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। उत्। अतिष्ठत्। सः। उदीचीम्। दिशम्। अनु। वि। अचलत्। २.२१।

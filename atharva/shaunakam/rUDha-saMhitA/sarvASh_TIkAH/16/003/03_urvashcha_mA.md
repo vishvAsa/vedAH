@@ -20,7 +20,6 @@ The translation follows the suggestion of the Pet. Lexx., to emend
 Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer abandon me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उर्वः। च। मा। चमसः। च। मा। हासिष्टाम्। धर्ता। च। मा। धरुणः। च। मा। हासिष्टाम्। ३.३।

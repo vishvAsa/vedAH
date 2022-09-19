@@ -31,7 +31,6 @@ which the Anukr. takes no notice.
 On thee is laid the Chaturvira Ointment: let all the regions give thee peace and safety. Secure like precious Savitar thou standest: to thee let all these regions bring their tribute.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चतुःऽवीरम्। बध्यते। आऽअञ्जनम्। ते। सर्वाः। दिशः। अभयाः। ते। भवन्तु। ध्रुवः। तिष्ठासि। सविताऽइव। च। आर्यः। इमाः। विशः। अभि। हरन्तु। ते। बलिम्। ४५.४।

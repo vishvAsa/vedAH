@@ -15,7 +15,6 @@ title = "०५ कालेऽयमङ्गिरा देवोऽथर्
 Atharvan and this Angiras in Kala are supreme o'er heaven. Both this world and the world that is most lofty, the pure worlds and pure intermediate spaces,--
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 काले। अयम्। अङ्गिराः। देवः। अथर्वा। च। अधि। तिष्ठतः। इमम्। च। लोकम्। परमम्। च। लोकम्। पुण्यान्। च। लोकान्। विऽधृतीः। च। पुण्याः। सर्वान्। लोकान्। अभिऽजित्य। ब्रह्मणा। कालः। सः। ईयते। परमः। नु। देवः। ५४.५।

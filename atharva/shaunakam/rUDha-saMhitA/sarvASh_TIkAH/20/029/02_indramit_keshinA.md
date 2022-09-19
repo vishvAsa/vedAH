@@ -8,7 +8,6 @@ title = "०२ इन्द्रमित् केशिना"
 Bay horses with their long manes bring Indra to drink the Soma juice, The Bountiful to our sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। इत्। केशिना। हरी इति। सोमऽपेयाय। वक्षतः। उप। यज्ञम्। सुऽराधसम्। २९.२।

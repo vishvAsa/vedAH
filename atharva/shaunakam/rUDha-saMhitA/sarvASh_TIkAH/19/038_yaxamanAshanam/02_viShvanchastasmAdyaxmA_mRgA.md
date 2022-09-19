@@ -52,7 +52,6 @@ text of the comm. has *’py asi*.⌋ \*⌊But W's P.M.W., *mṛgā́ṁ*.⌋
 Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bdellium, art produced from Sindhu or hast come from sea, The quality of both have I taken to keep this man unscathed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विष्वञ्चः। तस्मात्। यक्ष्माः। मृगाः। अश्वाःऽइव। ईरते। यत्। गुल्गुलु। सैन्धवम्। यत्। वा। अपि। असि। समुद्रियम्। ३८.२।

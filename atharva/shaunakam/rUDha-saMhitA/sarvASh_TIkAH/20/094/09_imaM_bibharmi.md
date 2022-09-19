@@ -8,7 +8,6 @@ title = "०९ इमं बिभर्मि"
 I bear this deftly-fashioned goad of thine wherewith thou, Maghavan, shalt break the strikers with the hoof. At the libation mayst thou be well satisfied. Partake the juice, partake the banquet, Bounteous Lord.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। बिभर्मि। सुऽकृतम्। ते। अङ्कुशम्। येन। आऽरुजासि। मघऽवन्। शफऽआरुजः। अस्मिन्। सु। ते। सवने। अस्तु। ओक्यम्। सुते। इष्टौ। मघऽवन्। बोधि। आऽभगः। ९४.९।

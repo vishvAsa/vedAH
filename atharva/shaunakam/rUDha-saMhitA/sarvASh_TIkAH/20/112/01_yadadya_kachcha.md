@@ -8,7 +8,6 @@ title = "०१ यदद्य कच्च"
 Whatever, Vritra-slayer! thou Surya, hast risen upon to-day, That, Indra, all is in thy power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अद्य। कत्। च। वृत्रऽहन्। उत्ऽगाः। अभि। सूर्य। सर्वम्। तत्। इन्द्र। ते। वशे। ११२.१।

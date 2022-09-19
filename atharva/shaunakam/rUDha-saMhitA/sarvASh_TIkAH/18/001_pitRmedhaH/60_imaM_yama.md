@@ -27,7 +27,6 @@ the comment appears to quote the same rule under 45. 14, in the
 Come, seat thee on this bed of grass. O Yama, accordant with Angirases and Fathers. Let texts recited by the sages bring thee. O. King, let this oblation make thee joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। यम। प्रऽस्तरम्। आ। हि। रोह। अङ्गिरःऽभिः। पितृऽभिः। सम्ऽविदानः। आ। त्वा। मन्त्राः। कविऽशस्ताः। वहन्तु। एना। राजन्। हविषः। मादयस्व। १.६०।

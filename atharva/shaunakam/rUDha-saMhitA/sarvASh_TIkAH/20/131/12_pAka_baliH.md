@@ -8,7 +8,6 @@ title = "१२ पाक बलिः"
 पाक॑ ब॒लिः ॥१२॥
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पाक। बलिः। १३१.१२।

@@ -25,7 +25,7 @@ We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yie
 
 <details open><summary>पदपाठः</summary>
 
-वि। ते। हनव्याम्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवशः। न। ‍ वादिषः। मम। चित्तम्। उपऽआयसि। ४३.३।
+वि। ते। हनव्या᳡म्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवशः। न। ‍ वादिषः। मम। चित्तम्। उपऽआयसि। ४३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

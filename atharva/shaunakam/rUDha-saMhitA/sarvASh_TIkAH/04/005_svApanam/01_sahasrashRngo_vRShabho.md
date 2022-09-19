@@ -23,7 +23,7 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 
 <details open><summary>पदपाठः</summary>
 
-सहस्रऽशृङ्गः। वृषभः। यः। समुद्रात्। उत्ऽआचरत्। तेन। सहस्येन। वयम्। नि। जनान्। स्वापयामसि। ५.१।
+सहस्रऽशृङ्गः। वृषभः। यः। समुद्रात्। उत्ऽआचरत्। तेन। सहस्ये᳡न। वयम्। नि। जनान्। स्वापयामसि। ५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

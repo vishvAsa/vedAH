@@ -16,7 +16,6 @@ title = "०३ तस्य व्रात्यस्य"
 His third diffused breath is that Heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। तृतीयः। विऽआनः। सा। द्यौः। १७.३।

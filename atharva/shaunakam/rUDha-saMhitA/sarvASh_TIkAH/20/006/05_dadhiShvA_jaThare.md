@@ -8,7 +8,6 @@ title = "०५ दधिष्वा जठरे"
 Within thy belly, Indra take Soma the juice most excellent: The heavenly drops belong to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दधिष्व। जठरे। सुतम्। सोमम्। इन्द्र। वरेण्यम्। तव। द्युक्षासः। इन्दवः। ६.५।

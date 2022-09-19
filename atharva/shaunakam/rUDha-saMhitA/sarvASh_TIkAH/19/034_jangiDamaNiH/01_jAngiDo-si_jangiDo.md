@@ -31,7 +31,6 @@ with *gir* 'swallow'; or from *jan̄gam*, intensive.
 Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safely all our bipeds and our quadrupeds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जङ्गिडः। असि। जङ्गिडः। रक्षिता। असि। जङ्गिडः। द्विऽपात्। चतुःऽपात्। अस्माकम्। सर्वम्‌। रक्षतु। जङ्गिडः। ३४.१।

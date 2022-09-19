@@ -31,7 +31,7 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 
 <details open><summary>पदपाठः</summary>
 
-यजमानऽब्राह्मणम्। वै। एतत्। अतिथिऽपतिः। कुरुते। यत्। आऽहार्याणि। प्रऽईक्षते। इदम्। भूया३ः। इदा३म्। इति। ७.१।
+यजमानऽब्राह्मणम्। वै। एतत्। अतिथिऽपतिः। कुरुते। यत्। आऽहार्या᳡णि। प्रऽईक्षते। इदम्। भूया३ः। इदा३म्। इति। ७.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

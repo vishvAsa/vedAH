@@ -8,7 +8,6 @@ title = "०७ मा ते"
 Give us not up, Lord of Bay Horses, victor, in this our time of- trouble, to the wicked. Deliver us with true and faithful succour: dear may we be to thee among the princes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। ते। अस्याम्। सहसाऽवन्। परिष्टौ। अघाय। भूम। हरिऽवः। पराऽदौ। त्रायस्‍व। नः। अवृकेभिः। वरूथैः। तव। प्रियासः। सूरिषु। स्याम। ३७.७।

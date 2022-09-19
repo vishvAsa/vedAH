@@ -36,7 +36,6 @@ and *ádhirayis* in **d** it might scan as 11 + 12: 11 + 11.⌋
 Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant me riches. Plenty art thou, so prosper me with plenty: House-holder, hear" a householder's petition.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ग्रामऽनीः। असि। ग्रामऽनीः। उत्थाय। अभिऽसिक्तः। अभि। मा। सिञ्च। वर्चसा। तेजः। असि। तेजः। मयि। धारय। अधि। रयिः। असि। रयिम्। मे। धेहि। ३१.१२।

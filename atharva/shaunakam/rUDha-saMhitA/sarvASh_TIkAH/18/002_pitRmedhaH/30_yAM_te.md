@@ -22,7 +22,6 @@ remarks that *ni-pṛ* is used distinctively of a gift for the Fathers
 Now by this cow I bring thee, by the boiled rice set in milk for thee, Be the supporter of the folk left here without a livelihood.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याम्। ते। धेनुम्। निऽपृणामि। यम्। ऊं इति। ते। क्षीरे। ओदनम्। तेन। जनस्य। असः। भर्ता। यः। अत्र। असत्। अजीवनः। २.३०।

@@ -8,7 +8,6 @@ title = "०५ आ त्वा"
 O Indra, lover of the song, may these quick Somas enter thee: May they bring bliss to thee the Sage.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। त्वा। विशन्तु। आशवः। सोमासः। इन्द्र। गिर्वणः। शम्। ते। सन्तु। प्रऽचेतसे। ६९.५।

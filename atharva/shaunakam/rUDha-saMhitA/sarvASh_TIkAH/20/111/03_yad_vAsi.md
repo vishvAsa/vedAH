@@ -8,7 +8,6 @@ title = "०३ यद् वासि"
 Or, Lord of Heroes, if thou aid the worshipper who sheds the juice, Or him whose laud delights thee, and his flowing drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वा। असि। सुन्वतः। वृधः। यजमानस्य। सत्ऽपते। उक्थे। वा। यस्य। रण्यसि। सम्। इन्दुऽभिः। १११.३।

@@ -8,7 +8,6 @@ title = "०१ वि हि"
 Men have abstained from pouring juice; nor counted Indra as a God. Where at the votary's store my friend Vrishakapi hath drunk his fill. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। हि। सोतोः। असृक्षत। न। इन्द्रम्। देवम्। अमंसत। यत्र। अमदत्। वृषाकपिः। अर्यः। पुष्टेषु। मत्ऽसखा। विश्वस्मात्। इन्द्रः। उत्ऽतरः। १२६.१।

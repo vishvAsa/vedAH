@@ -28,7 +28,7 @@ As ye, when Ahi had been slain, flowed forth together with a roar, So are ye cal
 
 <details open><summary>पदपाठः</summary>
 
-यत्। अदः। सम्ऽप्रयतीः। अहौ। अनदत। हते। तस्मात्। आ। नद्यः। नाम। स्थ। ता। वः। नामानि। सिन्धवः। १३.१।
+यत्। अदः। सम्ऽप्रयतीः। अहौ। अनदत। हते। तस्मात्। आ। नद्यः᳡। नाम। स्थ। ता। वः। नामानि। सिन्धवः। १३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

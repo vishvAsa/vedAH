@@ -8,7 +8,6 @@ title = "०५ तव च्यौत्नानि"
 These were thy mighty powers that, Thunder-wielder! then swiftly crushedst nine-and ninety castles. Thou capturedst the hundredth in thine onslaught; thou slewest Namuchi, thou slewest Vritra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तव। च्यौत्नानि। वज्रऽहस्त। तानि। नव। यत्। पुरः। नवतिम्। च। सद्यः। निऽवेशने। शतऽतमा। अविवेषीः। अहन्। च। वृत्रम्। नमुचिम्। उत। अहन्। ३७.५।

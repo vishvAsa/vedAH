@@ -30,7 +30,6 @@ them. Ppp. reads *saṁbhṛtaḥśīr ā*.
 Friend of the home, the strong and youthful maiden, Night, dear to Savitar the God, and Bhaga, All-compassing, all-glorious, prompt to listen, hath with her greatness filled the earth and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इषिरा। योषा। युवतिः। दमूना। रात्री। देवस्य। सवितुः। भगस्य। अश्वऽक्षभा। सुऽहवा। सम्ऽभृतश्रीः। आ। पप्रौ। द्यावापृथिवी इति। महिऽत्वा। ४९.१।

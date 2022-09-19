@@ -17,7 +17,6 @@ ones, the *sadā́nvās*,—
 Carry away to Such-an-one niggard fiends, hostile demons, and Sadanvas,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ते। अमुष्मै। परा। वहन्तु। अरायान्। दुःऽनाम्नः। सदान्वाः। ६.७।

@@ -8,7 +8,6 @@ title = "१२ बृहस्पते युवमिन्द्रश्च
 Ye twain are Lords of wealth in earth and heaven, thou, O Brihaspati, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पते। युवम्। इन्द्रः। च। वस्वः। दिव्यस्य। ईशाथे इति। उत। पार्थिवस्य। धत्तम्। रयिम्। स्तुवते। कीरये। चित्। यूयम्। पात। स्वस्तिऽभिः। सदा। नः। १८.१२।

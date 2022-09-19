@@ -8,7 +8,6 @@ title = "०३ यो हत्वा"
 Who slew the Dragon, freed the Seven Rivers, and draye the kine forth from the cave of Vala, Begat the fire between both stones, the spoiler in warrior's battle, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। हत्वा। अहिम्। अरिणात्। सप्त। सिन्धून्। यः। गाः। उत्ऽआजत्। अपऽधा। वलस्य। यः। अश्मनोः। अन्तः। अग्निम्। जजान। सम्ऽवृक्। समत्ऽसु। सः। जनासः। इन्द्रः। ३३.३।

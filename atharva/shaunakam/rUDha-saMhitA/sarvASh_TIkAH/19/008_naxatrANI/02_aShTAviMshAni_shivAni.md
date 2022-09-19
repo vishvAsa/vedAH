@@ -30,7 +30,6 @@ see introduction to hymn 7.⌋
 Propitious, mighty, let the eight-and-twenty together deal me out my share of profit. Profit and wealth be mine, and wealth and profit! To Day and Night be adoration rendered!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अष्टाऽविंशानि। शिवानि। शग्मानि। सह। योगम्। भजन्तु। मे। योगम्। प्र। पद्ये। क्षेमम्। च। क्षेमम्। प्र। पद्ये। योगम्। च। नमः। अहोरात्राभ्याम्। अस्तु। ८.२।

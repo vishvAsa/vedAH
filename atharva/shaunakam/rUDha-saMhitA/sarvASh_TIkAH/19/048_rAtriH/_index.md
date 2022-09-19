@@ -7,7 +7,6 @@ title = "०४८ रात्रिः"
 48. To night: for protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
@@ -18,8 +17,6 @@ title = "०४८ रात्रिः"
 
 [As 47.—ṣaṭ. ānuṣṭubham: 1. 3-p. ārṣī gāyatrī; 2. 3-p. virāḍ anuṣṭubh; 3. bṛhatīgarbhā; 5. pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 305.
 
 A hymn to Night for protection
 </details>
+

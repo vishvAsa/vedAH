@@ -35,7 +35,7 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 
 <details open><summary>पदपाठः</summary>
 
-अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः। ३१.२।
+अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः᳡। ३१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

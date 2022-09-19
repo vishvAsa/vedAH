@@ -23,10 +23,9 @@ the refrain added: see introd.⌋
 One and a hundred manly powers, a thousand lives hath this Amulet, unconquered ever. Go forth a tiger, strike down all thy foemen: let him who would oppose fall low beneath thee. Invincible, let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अस्मिन्। मणौ। एकऽशतम्। वीर्याणि। सहस्रम्। प्राणाः। अस्म‍िन्। अस्तृते। व्याघ्रः। शत्रून्। अभि। तिष्ठ। सर्वान्। यः। त्वा। पृतन्यात्। अधरः। सः। अस्तु। अस्तृतः। त्वा। अभि। रक्षतु। ४६.५।
+अस्मिन्। मणौ। एकऽशतम्। वीर्या᳡णि। सहस्रम्। प्राणाः। अस्म‍िन्। अस्तृते। व्याघ्रः। शत्रून्। अभि। तिष्ठ। सर्वान्। यः। त्वा। पृतन्यात्। अधरः। सः। अस्तु। अस्तृतः। त्वा। अभि। रक्षतु। ४६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

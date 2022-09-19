@@ -19,7 +19,6 @@ The Gop.Br. has *ṣaḍarc-* in i. 1. 5.
 Hail to the six-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 षट्ऽऋचेभ्यः। स्वाहा। २३.३।

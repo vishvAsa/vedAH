@@ -40,7 +40,6 @@ with *suvarcās*, and **d**, reading *cārye*.⌋ \*⌊Misprinted *vaśānā́m*
 Thou for weal hast clothed thee in this garment: thou hast become our cows' sure guard from curses. Live thou a hundred full and plenteous autumns: then living, fair thyself, shalt deal forth treasures.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परि। इदम्। वासः। अधिथाः। स्वस्तये। अभूः। वापीनाम्। अभिशस्तिऽपाः। ऊं इति। शतम्। च। जीव। शरदः। पुरूचीः। वसूनि। चारुः। वि। भजासि। जीवन्। २४.६।

@@ -23,7 +23,7 @@ All knowledge and all ignorance, each other thing that one may learn, Entered th
 
 <details open><summary>पदपाठः</summary>
 
-विद्याः। च। वै। अविद्याः। च। यत्। च। अन्यत्। उपऽदेश्यम्। शरीरम्। ब्रह्म। प्र। अविशत्। ऋचः। साम। अथो इति। यजुः। १०.२३।
+विद्याः। च। वै। अविद्याः। च। यत्। च। अन्यत्। उपऽदेश्य᳡म्। शरीरम्। ब्रह्म। प्र। अविशत्। ऋचः। साम। अथो इति। यजुः। १०.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

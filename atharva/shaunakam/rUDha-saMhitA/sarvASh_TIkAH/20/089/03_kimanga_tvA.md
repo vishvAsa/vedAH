@@ -8,7 +8,6 @@ title = "०३ किमङ्ग त्वा"
 Why, Maghavan, do they call thee bounteous Giver? Quicken me: thou, I hear, art he who quickens. Sakra, let my intelligence be active, and bring us luck that finds great wealth, O Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 किम्। अङ्ग। त्वा। मघऽवन्। भोजम्। आहुः। शिशीहि। मा। शिशयम्। त्वा। शृणोमि। अप्नस्वती। मम। धीः। अस्तु। शक्र। वसुऽविदम्। भगम्। इन्द्र। आ। भर। नः। ८९.३।

@@ -22,10 +22,9 @@ with RV. x. 10. 11. The comm. renders *-mūtā* in **c** by *mūrchitā*.
 Is he a brother when no help is left her? Is she a sister when Destruction cometh? Forced by my love these many words I utter. Come near, and hold me in thy close embraces,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-किम्। भ्राता। असत्। यत्। अनाथम्। भवाति। किम्। ऊं इति। स्वसा। यत्। निःऽऋतिः। निऽगच्छात्। कामऽमूता। बहू। एतत्। रपामि। तन्वा। मे। तन्वम्। सम्। पिपृग्धि। १.१२।
+किम्। भ्राता। असत्। यत्। अनाथम्। भवाति। किम्। ऊं इति। स्वसा। यत्। निःऽऋतिः। निऽगच्छात्। कामऽमूता। बहू। एतत्। रपामि। तन्वा᳡। मे। तन्व᳡म्। सम्। पिपृग्धि। १.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

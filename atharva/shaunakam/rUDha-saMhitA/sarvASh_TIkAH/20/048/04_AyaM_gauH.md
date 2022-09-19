@@ -8,7 +8,6 @@ title = "०४ आयं गौः"
 This brindled Bull hath come and sat before the Mother in the east, Advancing to the Father Heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। अयम्। गौः। पृश्निः। अक्रमीत्। असदत्। मातरम्। पुरः। पितरम्। च। प्रऽयन्। स्वः। ४८.४।

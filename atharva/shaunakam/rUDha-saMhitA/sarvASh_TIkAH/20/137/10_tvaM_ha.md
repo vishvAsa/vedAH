@@ -8,7 +8,6 @@ title = "१० त्वं ह"
 Then, at thy birth, thou wast the foeman, Indra, of those the seven who ne'er had met a rival. The hidden pair, the heaven and earth, thou foundest, and to the mighty worlds thou gavest pleasure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। ह। त्यत्। सप्तऽभ्यः। जायमानः। अशत्रुऽभ्यः। अभवः। शत्रुः। इन्द्र। गूल्हे इति। द्यावापृथिवी इति। अनु। अविन्दः। विभुमत्ऽभ्यः। भुवनेभ्यः। रणम्। धाः। १३७.१०।

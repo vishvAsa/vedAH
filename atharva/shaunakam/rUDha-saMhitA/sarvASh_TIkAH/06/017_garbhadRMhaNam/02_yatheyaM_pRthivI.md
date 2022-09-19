@@ -24,7 +24,6 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.२।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.२।

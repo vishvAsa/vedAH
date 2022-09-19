@@ -8,7 +8,6 @@ title = "१९ अयमेमि विचाकशद्"
 Distinguishing the Dasa and the Arya, viewing all, I go. I look upon the wise, and drink the simple votary's Soma juice. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। एमि। विऽचाकशत्। विऽचिन्वन्। दासम्। आर्यम्। पिबामि। पाकसुत्वनः। अभि। धीरम्। अचाकशम्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१९।

@@ -8,7 +8,6 @@ title = "१८ अश्वस्य वारो"
 As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with previous verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्वस्य। वारः। गोशपद्यके। १२९.१८।

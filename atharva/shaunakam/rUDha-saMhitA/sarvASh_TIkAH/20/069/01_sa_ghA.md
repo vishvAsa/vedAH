@@ -8,7 +8,6 @@ title = "०१ स घा"
 May he stand by us in our need and in abundance for our wealth: With riches may he come to us;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। घ। नः। योगे। आ। भुवत्। सः। राये। सः। पुरम्ऽध्याम्। गमत्। वाजेभिः। आ। सः। नः। ६९.१।

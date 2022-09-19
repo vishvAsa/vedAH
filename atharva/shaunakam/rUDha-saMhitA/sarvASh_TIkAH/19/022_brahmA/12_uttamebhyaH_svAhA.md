@@ -16,7 +16,6 @@ title = "१२ उत्तमेभ्यः स्वाहा"
 To the last ones, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽतमेभ्यः। स्वाहा। २२.१२।

@@ -8,7 +8,6 @@ title = "०३ धेनुष्ट इन्द्र"
 To worshippers who press the juice thy goodness, Indra, is a cow. Yielding in plenty kine and steeds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धेनुः। ते। इन्द्र। सूनृता। यजमानाय। सुन्वते। गाम्। अश्वम्। पिप्युषी। दुहे। २७.३।

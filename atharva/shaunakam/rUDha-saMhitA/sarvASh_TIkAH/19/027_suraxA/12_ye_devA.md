@@ -17,7 +17,6 @@ this oblation.
 O ye eleven Gods who are in air, accept this sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। देवाः। अन्तरिक्षे। एकादश। स्थ। ते। देवासः। हविः। इदम्। जुषध्वम्। २७.१२।

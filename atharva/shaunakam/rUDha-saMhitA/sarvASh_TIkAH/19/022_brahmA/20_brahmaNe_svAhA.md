@@ -39,7 +39,6 @@ present division of the text seems very unlikely.
 To Brahma, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्मणे। स्वाहा। २२.२०।

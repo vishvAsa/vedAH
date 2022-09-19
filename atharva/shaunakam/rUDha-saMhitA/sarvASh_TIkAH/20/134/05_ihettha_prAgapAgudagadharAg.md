@@ -8,7 +8,6 @@ title = "०५ इहेत्थ प्रागपागुदगधराग
 Here east and west and north and south in iron mayst thou not be caught. The cup.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। आष्टे। लाहणि। लीशाथी। १३४.५।

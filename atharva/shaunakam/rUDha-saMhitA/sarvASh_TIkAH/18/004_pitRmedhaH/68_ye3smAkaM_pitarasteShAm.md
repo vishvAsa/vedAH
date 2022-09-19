@@ -19,7 +19,6 @@ connection with the strewing of *barhis*.
 Thou art the grass whereon our Fathers seat them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। अस्माकम्। पितरः। तेषाम्। बर्हिः। असि। ४.६८।

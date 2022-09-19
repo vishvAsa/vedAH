@@ -25,7 +25,6 @@ as *śatrubalāpahārakaṁ tejas*. To *dāivyena* in **d** he supplies
 Let not magicians mar your heat, your vital or diffusive breath. Brilliant and all-possessing Gods, run ye your course with God- like power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। वः। प्राणम्। मा। वः। अपानम्। मा। हरः। मायिनः। दभन्। भ्राजन्तः। विश्वऽवेदसः। देवाः। दैव्येन। धावत। २७.६।

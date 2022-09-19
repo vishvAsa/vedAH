@@ -8,7 +8,6 @@ title = "०२ सं गोभिरङ्गिरसो"
 The son of Angiras, meeting the cattle, as Bhaga, brought in Aryaman among us. As Friend of men he decks the wife and husband. As for the race, Brihaspati, nerve our coursers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। गोभिः। आङ्गिरसः। नक्षमाणः। भगःऽइव। इत्। अर्यमणम्। निनाय। जने। मित्रः। न। दम्पती इति दम्ऽपती। अनक्ति। बृहस्पते। वाजय। आशून्ऽइव। आजौ। १६.२।

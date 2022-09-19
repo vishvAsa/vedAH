@@ -8,7 +8,6 @@ title = "०७ स ईम्"
 He with bright faithful friends, winners of booty, hath rent the milker of the cows asunder. Brihaspati with wild boars strong and mighty sweating with heat hath gained a rich possession.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। ईम्। सत्येभिः। सखिऽभिः। शुचत्ऽभिः। गोऽधायसम्। वि। धनऽसैः। अदर्दरित्यदर्दः। ब्रह्मणः। पतिः। वृषऽभिः। वराहैः। घर्मऽस्वेदेभिः। द्रविणम्। वि। आनट्। ९१.७।

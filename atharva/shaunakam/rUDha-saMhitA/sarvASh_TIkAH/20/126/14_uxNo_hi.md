@@ -8,7 +8,6 @@ title = "१४ उक्ष्णो हि"
 Fifteen in number, then, for me a score of bullocks they prepare. And I devour the fat thereof: they fill my belly full with food. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उक्ष्णः। हि। पञ्चऽदश। साकम्। पचन्ति। विंशतिम्। उत। अहम्। अद्मि। पीवः। उभा। कुक्षी इति। पृणन्ति। मे। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१४।

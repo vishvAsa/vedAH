@@ -16,7 +16,6 @@ title = "०६ भवेम शरदः"
 A hundred autumns may we be.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भवेम। शरदः। शतम्। ६७.६।

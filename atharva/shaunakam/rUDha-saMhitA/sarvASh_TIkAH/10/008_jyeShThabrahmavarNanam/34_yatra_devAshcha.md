@@ -22,7 +22,7 @@ I ask thee where the waters' flower by wondrous magic art was placed, Thereon th
 
 <details open><summary>पदपाठः</summary>
 
-यत्र। देवाः। च। मनुष्याः। च। अराः। नाभौऽइव। श्रिताः। अपाम्। त्वा। पुष्पम्। पृच्छामि। यत्र। तत्। मायया। हितम्। ८.३४।
+यत्र। देवाः। च। मनुष्याः᳡। च। अराः। नाभौऽइव। श्रिताः। अपाम्। त्वा। पुष्पम्। पृच्छामि। यत्र। तत्। मायया। हितम्। ८.३४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

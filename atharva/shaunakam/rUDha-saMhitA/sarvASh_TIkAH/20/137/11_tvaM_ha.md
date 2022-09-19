@@ -8,7 +8,6 @@ title = "११ त्वं ह"
 So, Thunder-armed! thou with thy bolt of thunder didst boldly smite that power which none might equal; With weapons broughtest low the might of Sushna, and, Indra, foundest by thy strength the cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। ह। त्यत्। अप्रतिऽमानम्। ओजः। वज्रेण। वज्रिन्। धृषितः। जघन्थ। त्वम्। शुष्णस्य। अव। अतिरः। वधत्रैः। त्वम्। गाः। इन्द्र। शच्या। इत्। अविन्दः। १३७.११।

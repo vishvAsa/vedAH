@@ -21,7 +21,6 @@ cf. RV. i. 64. 14 **d**.⌋ ⌊Cf. vs. 3.⌋
 Each morn that comes our household's Lord is Agni, showing. his loving-kindness every evening. Vouchsafe us treasure after treasure: kindling thee may we prosper through a hundred winters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रातःऽप्रातः। गृहऽपतिः। नः। अग्निः। सायम्ऽसायम्। सौमनसस्य। दाता। वसोःऽवसोः। वसुऽदानः। एधि। इन्धानाः। त्वा। शतम्ऽहिमाः। ऋधेम। ५५.४।

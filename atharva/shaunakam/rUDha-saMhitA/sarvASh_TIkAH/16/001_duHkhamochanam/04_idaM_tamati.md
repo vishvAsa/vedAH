@@ -16,7 +16,6 @@ title = "०४ इदं तमति"
 Here I let him go: thou washest me clean of him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। तम्। अति। सृजामि। तम्। मा। अभिऽअवनिक्षि। १.४।

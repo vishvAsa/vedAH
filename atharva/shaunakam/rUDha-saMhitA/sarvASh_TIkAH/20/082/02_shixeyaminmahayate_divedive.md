@@ -8,7 +8,6 @@ title = "०२ शिक्षेयमिन्महयते दिवेद
 Each day would I enrich the man who sang my praise, in what- soever place he were. No kinship is there better, Maghavan, than thine: a father even) is no more.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शिक्षेयम्। इत्। महऽयते। दिवेऽदिवे। रायः। आ। कुहचित्ऽविदे। नहि। त्वत्। अन्यत्। मघऽवन्। नः। आप्यम्। वस्यः। अस्ति। पिता। चन। ८२.२।

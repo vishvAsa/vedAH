@@ -8,7 +8,6 @@ title = "०३ शचीव इन्द्र"
 Indra, most splendid, powerful, rich in mighty deeds, this treasure spread around is known to be thine own. Gather therefrom. O Conqueror, and bring to us: fail not the hope of him who loves and sings to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शचीऽवः। इन्द्रः। पुरुऽकृत्। द्युमत्ऽतम। तव। इत्। इदम्। अभितः। चेकिते। वसु। सम्ऽगृभ्य। अभिऽभूते। आ। भर। मा। त्वाऽयतः। जरितुः। कामम्। ऊनयीः। २१.३।

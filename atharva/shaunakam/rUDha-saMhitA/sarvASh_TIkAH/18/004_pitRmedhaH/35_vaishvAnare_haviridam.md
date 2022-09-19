@@ -60,7 +60,6 @@ etc.: cf. śB. xii. 5. 1⁴ (dead man's *agnihotra*) and Caland, l.c., p.
 I offer in Vaisvanara this oblation, thousandfold spring that pours a hundred steamlets. This with a swelling flow supports the Father, supports grand- fathers and their sires before them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वैश्वानरे। हविः। इदम्। जुहोमि। साहस्रम्। शतऽधारम्। उत्सम्। सः। बिभर्ति। पितरम्। पितामहान्। प्रऽपितामहान्। बिभर्ति। पिन्वमानः। ४.३५।

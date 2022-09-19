@@ -25,7 +25,6 @@ takes no notice of this.
 The Seasons, Deities, form and order Worship, butter, cake, ladles, sacrificial weapons. Tread thou God-travelled paths whereby the righteous, payers of sacrifices, go to Svarga.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवाः। यज्ञम्। ऋतवः। कल्पयन्ति। हविः। पुरोडाशम्। स्रुचः। यज्ञऽआयुधानि। तेभिः। याहि। पथिऽभिः। देवऽयानैः। यैः। ईजानाः। स्वःऽगम्। यन्ति। लोकम्। ४.२।

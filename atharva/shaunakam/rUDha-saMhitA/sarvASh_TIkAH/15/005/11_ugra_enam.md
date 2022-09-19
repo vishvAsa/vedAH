@@ -10,7 +10,6 @@ archer, the formidable god, attends him as attendant from the
 intermediate direction of the northern quarter; not śarva etc. etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उग्रः। एनम्। देवः। इषुऽआसः। उदीच्याः। दिशः। अन्तःऽदेशात्। अनुऽस्थाता। अनु। तिष्ठति। न। एनम्। शर्वः। न। भवः। न। ईशानः। न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.९।

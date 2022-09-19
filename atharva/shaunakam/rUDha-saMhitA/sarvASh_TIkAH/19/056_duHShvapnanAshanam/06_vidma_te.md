@@ -31,7 +31,6 @@ places of origin."
 Of old we know all places whence thou comest. O Sleep, we know him who is here thy ruler. Protect us here illustrious with glory. Go, from afar, with poisons, into distance.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विद्म। ते। सर्वाः। परिऽजाः। पुरस्तात्। विद्म। स्वप्न। यः। अधिऽपाः। इह। ते। यशस्विनः। नः। यशसा। इह। पाहि। आरात्। द्विषेभिः। अप। याहि। दूरम्। ५६६।

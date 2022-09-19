@@ -17,7 +17,6 @@ arm-moved etc. etc.
 From westward Aditi was Adityas save me! etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अदितिः। मा। आदित्यैः। प्रतीच्याः। दिशः। पातु। बाहुऽच्युता। पृथिवी। द्यामऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.२७।

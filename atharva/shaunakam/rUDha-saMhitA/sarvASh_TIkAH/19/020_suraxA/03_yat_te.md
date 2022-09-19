@@ -36,7 +36,6 @@ connection.⌋
 That which the Gods bound on them when they battled for their royal sway. What Indra made his shield, may that protect us well on every side,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। ते। तनूषु। अनह्यन्त। देवाः। द्युऽराजयः। देहिनः। इन्द्रः। यत्। चक्रे। वर्म। तत्। अस्मान्। पातु। विश्वतः। २०.३।

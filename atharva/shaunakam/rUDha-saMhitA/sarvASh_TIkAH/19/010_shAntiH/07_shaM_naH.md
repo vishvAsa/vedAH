@@ -22,10 +22,9 @@ used in the sense of *yūpa* as the thing possessed for the possessor.
 Kind unto us be Soma and Devotions, kind be the sacrifice and Stones for pressing. Kind be the fixing of the Sacred Pillars, kind be the tender Grass, and kind the Altar.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शम्। नः। सोमः। भवतु। ब्रह्म। शम्। नः। शम्। नः। ग्रावाणः। शम्। ऊं इति। सन्तु। यज्ञाः। शम्। नः। स्वरूणाम्। मितयः। भवन्तु। शम्। नः। प्रऽस्वः। शम्। ऊं इति। अस्तु। वेदिः। १०.७।
+शम्। नः। सोमः। भवतु। ब्रह्म। शम्। नः। शम्। नः। ग्रावाणः। शम्। ऊं इति। सन्तु। यज्ञाः। शम्। नः। स्वरूणाम्। मितयः। भवन्तु। शम्। नः। प्रऽस्वः᳡। शम्। ऊं इति। अस्तु। वेदिः। १०.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

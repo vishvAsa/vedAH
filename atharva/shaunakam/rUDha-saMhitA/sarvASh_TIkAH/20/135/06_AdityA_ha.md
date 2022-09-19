@@ -8,7 +8,6 @@ title = "०६ आदित्या ह"
 O singer, the Adityas brought rich guerdon to the Angirases. Singer, they went not near to it. Singer, they did not take the gift.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आदित्याः। ह। जरितः। अङ्गिरःऽभ्यः। दक्षिणाम्। अनयन्। ताम्। ह। जरितः। प्रति। आयन्। ताम्। ऊं इति। ह। जरितः। प्रति। आयन्। १३५.६।

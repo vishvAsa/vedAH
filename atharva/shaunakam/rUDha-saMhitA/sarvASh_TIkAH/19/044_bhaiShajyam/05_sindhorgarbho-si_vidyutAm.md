@@ -26,7 +26,6 @@ vs., AJP. xvii. 405.⌋
 Thou art the babe of Sindhu, thou art lightnings' flower, wind, breath, and Sun: thou art the eye and milk of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सिन्धोः। गर्भः। असि। विऽद्युताम्। पुष्पम्। वातः। प्राणः। सूर्यः। चक्षुः। दिवः। पयः। ४४.५।

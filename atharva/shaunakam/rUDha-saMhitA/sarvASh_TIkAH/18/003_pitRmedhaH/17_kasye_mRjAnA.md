@@ -53,7 +53,6 @@ seem as if our *kasyé* might well mean the same thing as the *kumbha* or
 They, making for themselves a new existence, wash off defilement in the brazen vessel. May we be fragrant in our houses, ever increasing in our children and our riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कस्यै। मृजानाः। अति। यन्ति। रिप्रम्। आयुः। दधाना ः। प्रऽतरम्। नवीयः। आऽप्यायमानाः। प्रऽजया। धनेन। अध। स्याम। सुरभयः। गृहेषु। ३.१७।

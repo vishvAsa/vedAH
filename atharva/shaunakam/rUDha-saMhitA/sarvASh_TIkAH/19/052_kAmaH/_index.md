@@ -7,7 +7,6 @@ title = "०५२ कामः"
 52. Of and to desire (kā́ma).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कामः।  
@@ -19,8 +18,6 @@ title = "०५२ कामः"
 [Brahman.—pañcakam. mantroktakāmadāivatam. trāiṣṭubham. 3. 4-p. uṣṇih; 5. upariṣṭādbṛhatī.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The first half-verse is nearly identical with RV. x. 129. 4 a, b ⌊TB. ii. 4. 1
 
 A hymn to Kama or Desire
 </details>
+

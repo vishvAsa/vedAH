@@ -26,7 +26,6 @@ is xviii. 1. 43 **d**. \*⌊And so accents *kā́ma*.⌋
 Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spirit. O Kama dwelling with the lofty Kama, give growth of riches to the sacrificer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कामः। तत्। अग्रे। सम्। अवर्तत। मनसः। रेतः। प्रथमम्। यत्। आसीत्। सः। काम। कामेन। बृहता। सऽयोनिः। रायः। पोषम्। यजमानाय। धेहि। ५२.१।

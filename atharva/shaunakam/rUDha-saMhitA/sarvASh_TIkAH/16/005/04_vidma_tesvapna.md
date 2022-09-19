@@ -17,7 +17,6 @@ extermination (*nírbhūti*), agent etc. etc.
 We know thine origin, O Sleep. Thou art the son of Disappear- ance, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विद्म। ते। स्वप्न। जनित्रम्। न‍िःऽऋत्याः। पुत्रः। असि। यमस्य। करणः। ५.४।

@@ -38,7 +38,6 @@ Pāda **a** can be made full only by the unacceptable resolution
 I looked and saw the youthful dame escorted, the living to the dead: I saw them, bear her. When she with blinding darkness was enveloped, then did I turn her back and lead her homeward.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपश्यम्। युवतिम्। नीयमानाम्। जीवाम्। मृतेभ्यः। परिऽनीयमानाम्। अन्धेन। यत्। तमसा। प्रावृता। आसीत्। प्राक्तः। अपाचीम्। अनयम्। तत्। एनाम्। ३.३।

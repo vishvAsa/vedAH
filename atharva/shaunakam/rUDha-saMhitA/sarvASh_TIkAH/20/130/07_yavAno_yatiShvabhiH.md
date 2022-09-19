@@ -8,7 +8,6 @@ title = "०७ यवानो यतिष्वभिः"
 A hundred bits of golden bronze, a hundred golden necklaces.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यवानः। यतिष्वभिः। कुभिः। १३०.७।

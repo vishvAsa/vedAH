@@ -30,7 +30,6 @@ with this one; and this verse is used again, with the preceding verse
 Prepare thy body: speed thou on thy journey: let not thy limbs,. thy frame be left behind thee. Follow to its repose thy resting spirit: go to whatever spot of earth thou lovest.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। च्यवस्व। तन्वम्। सम्। भरस्व। मा। ते। गात्रा। वि। हायि। मो  इति। शरीरम्। मनः। निऽविष्टम्। अनुऽसंविशस्व। यत्र। भूमेः। जुषसे। तत्र। गच्छ। ३.९।

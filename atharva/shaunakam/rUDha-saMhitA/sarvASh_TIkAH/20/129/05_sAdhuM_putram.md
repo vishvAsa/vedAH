@@ -8,7 +8,6 @@ title = "०५ साधुं पुत्रम्"
 The excellent, the golden son: where now hast thou aban- doned him? (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 साधुम्। पुत्रम्। हिरण्ययम्। १२९.५।

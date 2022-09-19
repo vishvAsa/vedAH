@@ -47,7 +47,6 @@ parallel. BR. render by 'platzen machen.' Different is the sense of
 Burn him not up, nor quite consume him, Agni. Let not his body or his skin be scattered. O Jatavedas, when thou hast matured him, then send him on his way unto the Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। एनम्। अग्ने। वि। दहः। मा। अभि। शूशुचः। मा। अस्य। त्वचम्। चिक्षिपः। मा। शरीरम्। शृतम्। यदा। करसि। जातऽवेदः। अथ। ईम्। एनम्। प्र। हिनुतात्। पितॄन्। उप। १.४।

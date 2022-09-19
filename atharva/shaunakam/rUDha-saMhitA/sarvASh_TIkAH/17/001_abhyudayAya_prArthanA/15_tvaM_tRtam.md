@@ -24,10 +24,9 @@ it after our verse 17.
 Round Trita, round the spring with thousand currents thou goest, round the light-finding assembly. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। तृतम्। त्वम्। परि। एषि। उत्सम्। सहस्रऽधारम्। विदथम्। स्वःऽविदम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१५।
+त्वम्। तृतम्। त्वम्। परि। एषि। उत्सम्। सहस्रऽधारम्। विदथम्। स्वःऽविदम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

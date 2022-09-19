@@ -22,7 +22,6 @@ The metrical definition of the Anukr. is mere arithmetic (12 + 10 + 8 =
 Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day to thee, O splendid. One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रात्रि। मातः। उषसे। नः। परि। देहि। उषाः। नः। अह्ने। परि। ददातु। अहः। तुभ्यम्। विभावरि। ४८.२।

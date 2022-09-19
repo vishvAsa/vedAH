@@ -8,7 +8,6 @@ title = "०२ तन्मित्रस्य वरुणस्याभि
 In the sky's lap the Sun this form assumeth for Mitra and for Varuna to look on. His bay steeds well maintain his power eternal, at one time bright and darksome at another.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। मित्रस्य। वरुणस्य। अभिऽचक्षे। सूर्यः। रूपम्। कृणुते। द्यौः। उपऽस्थे। अनन्तम्। अन्यत्। रुशत्। अस्य। पाजः। कृष्णम्। अन्यत्। हरितः। सम्। भरन्ति। १२३।

@@ -34,7 +34,6 @@ accusative: so that both meter and syntax combine to cast suspicion on
 Bringing delight, prolonging our existence, here let our own, the Fathers, dwell together. Coming with sacrifice may we assist them, living long lives through many autumn seasons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। विशन्तु। इह। पितरः। स्वाः। नः। स्योनम्। कृण्वन्तः। प्रऽतिरन्तः। आयुः। तेभ्यः। शकेम। हविषा। नक्षमाणाः। ज्योक्। जीवन्तः। शरदः। पुरूचीः। २.२९।

@@ -17,7 +17,6 @@ you; may ye be the best of them.
 All Fathers who are here, the Fathers here are you: let then- follow you. May ye be the most excellent of these.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। अत्र। पितरः। पितरः। ये। अत्र। यूयम्। स्थ। युष्मान्। ते। अनु। यूयम्। तेषाम्। श्रेष्ठाः। भूयास्थ। ४.८६।

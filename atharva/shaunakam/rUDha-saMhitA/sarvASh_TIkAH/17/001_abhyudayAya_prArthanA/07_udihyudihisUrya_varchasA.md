@@ -27,10 +27,9 @@ the_refrain, see notes to vs. 6.⌋
 Rise up, O Surya, rise thou up; with strength and splendour rise on me. Make me the favourite of all, of those I see and do not see. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। यान्। च। पश्यामि। यान्। च। न। तेषु। मा। सुऽमतिम्। कृधि। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.७।
+उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। यान्। च। पश्यामि। यान्। च। न। तेषु। मा। सुऽमतिम्। कृधि। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

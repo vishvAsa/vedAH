@@ -35,7 +35,6 @@ the comm. does not notice this.
 I stay the earth from thee, while over thee I place this piece of earth. May I be free from injury. The Fathers firmly fix this pillar here for thee; and there let Yama make thee an abiding-place.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ते। स्तभ्नामि। पृथिवीम्। त्वत्। परि। इमम्। लोगम्। निऽदधत्। मो इति। अहम्। रिषम्। एताम्। स्थूणाम्। पितरः। धारयन्ति। ते। तत्र। यमः। सदना। ते। कृणोतु। ३.५२।

@@ -14,7 +14,6 @@ fury as food-eater doth he eat food who knoweth thus.
 He who hath this knowledge eats food with Passion as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मन्युना। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.२०।

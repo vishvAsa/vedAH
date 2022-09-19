@@ -41,10 +41,9 @@ reads and combines in **c** *prathamayogā ”gate*.
 These the two sturdy, manly arms of Indra, these that are won- drous, mighty, and successful First, when the need hath come will I employ them by which the heaven of Asuras was conquered.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। बाहू इति। स्थविरौ। वृषाणौ। चित्रा। इमा। वृषभौ। पारयिष्णू इति। तौ। योक्षे। प्रथमः। योगे। आऽगते। याभ्याम्। जितम्। असुराणाम्। स्वः। यत्। १३.१।
+इन्द्रस्य। बाहू इति। स्थविरौ। वृषाणौ। चित्रा। इमा। वृषभौ। पारयिष्णू इति। तौ। योक्षे। प्रथमः। योगे। आऽगते। याभ्याम्। जितम्। असुराणाम्। स्वः᳡। यत्। १३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

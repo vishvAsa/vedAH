@@ -16,7 +16,6 @@ title = "०६ नवर्चेभ्यः स्वाहा"
 Hail to the nine-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नवऽऋचेभ्यः। स्वाहा। २३.६।

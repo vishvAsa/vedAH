@@ -8,7 +8,6 @@ title = "०६ स मन्दस्वा"
 Delight thee with the juice we pour for thine own great munificence: Yield not thy singer to reproach.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। मन्दस्व। हि। अन्धसः। राधसे। तन्वा। महे। न। स्तोतारम्। निदे। करः। २३.६।

@@ -16,7 +16,6 @@ title = "२० एकर्चेभ्यः स्वाहा"
 Hail to the single-versed hymns!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एकऽऋचेभ्यः। स्वाहा। २३.२०।

@@ -8,7 +8,6 @@ title = "०६ नू नो"
 Now for us both, mete out, O Wonder-Workers, riches exceeding great with store of heroes, Because the men have sent you praise, O Asvins, and Ajamilhas come to the laudation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नु। नः। रयिम्। पुरुऽवीरम्। बृहन्तम्। दस्रा। मिमाथाम्। उभयेषु। अस्मे इति। नरः। यत्। वाम्। अश्विना। स्तोमम्। आवन्। सधऽस्तुतिम्। आजऽमोल्हासः। अग्मन्। १४३.६।

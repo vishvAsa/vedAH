@@ -25,7 +25,6 @@ verb in the second half-verse is plural.
 Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith the Deities invested Savitar the God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। देवम्। सवितारम्। परि। देवाः। अधारयन्। तेन। इमम्। ब्रह्मणः। पते। परि। राष्ट्राय। धत्तन। २४.१।

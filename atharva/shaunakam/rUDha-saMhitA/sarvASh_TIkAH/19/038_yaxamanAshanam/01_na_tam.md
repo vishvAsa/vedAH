@@ -29,7 +29,6 @@ half-verse.⌋
 Never Consumption, never curse touches the man, Arundhati! Whom the delicious odour of the healing Bdellium penetrates
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। तम्। यक्ष्माः। अरुन्धते। न। एनम्। शपथः। अश्नुते। यम्। भेषजस्य। गुल्गुलोः। सुरभिः। गन्धः। अश्नुते। ३८.१।

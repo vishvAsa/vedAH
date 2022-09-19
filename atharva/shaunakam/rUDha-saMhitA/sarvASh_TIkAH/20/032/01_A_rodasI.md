@@ -8,7 +8,6 @@ title = "०१ आ रोदसी"
 Thou, comprehending with thy might the earth and heaven, acceptest the dear hymn for ever new and new. O Asura, disclose thou and make visible the Cow's beloved home to the bright golden Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। रोदसी इति। हर्यमाणः। महिऽत्वा। नव्यम्ऽनव्यम्। हर्यसि। मन्म। नु। प्रियम्। प्र। पस्त्यम्। असुर। हर्यतम्। गोः। आविः। कृधि। हरये। सूर्याय। ३२.१।

@@ -43,7 +43,6 @@ translation appeared in 1897.⌋
 This Time hath seven rolling wheels and seven naves immorality is the chariot's axle. This Time brings hitherward all worlds about us: as primal Deity is he entreated.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सप्त। चक्रान्। वहति। कालः। एषः। सप्त। अस्य। नाभीः। अमृतम्। नु। अक्षः। सः। इमा। विश्वा। भुवनानि। अञ्जत्। कालः। सः। ईयते। प्रथमः। नु। देवः। ५३.२।

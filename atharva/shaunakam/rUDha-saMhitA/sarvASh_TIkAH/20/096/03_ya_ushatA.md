@@ -8,7 +8,6 @@ title = "०३ य उशता"
 Whoso, devoted to the God, effuses Soma for him with yearning heart and spirit, Never doth Indra give away his cattle: for him he makes the lovely Soma famous.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। उशता। मनसा। सोमम्। अस्मै। सर्वऽहृदा। देवकामः। सुनोति। न। गाः। इन्द्रः। तस्य। परा। ददाति। प्रऽशस्तम्। इत्। चारुम्। अस्मै। कृणोति। ९६.३।

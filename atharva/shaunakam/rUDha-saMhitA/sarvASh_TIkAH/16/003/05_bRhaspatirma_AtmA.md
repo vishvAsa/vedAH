@@ -16,7 +16,6 @@ title = "०५ बृहस्पतिर्म आत्मा"
 Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। मे। आत्मा। नृऽमनाः। नाम। हृद्यः। ३.५।

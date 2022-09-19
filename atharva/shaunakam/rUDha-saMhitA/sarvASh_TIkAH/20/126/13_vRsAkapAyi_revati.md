@@ -8,7 +8,6 @@ title = "१३ वृसाकपायि रेवति"
 Wealthy Vrishakapayi, blest with sons and consorts of thy sons, Indra will eat thy bulls, thy dear oblation that effecteth much. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषाकपायि। रेवति। सुऽपुत्रे। आ‍त्। ऊं इति। सुऽस्नुषे। घसत्। ते। इन्द्र। उक्षणः। प्र‍ियम्। काचित्ऽकरम्। हविः। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१३।

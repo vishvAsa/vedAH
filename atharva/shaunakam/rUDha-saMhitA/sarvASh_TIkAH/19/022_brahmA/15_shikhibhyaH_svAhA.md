@@ -17,7 +17,6 @@ Here the mss. vary between *śikhíbhyas* and *śiṣíbhyas*.
 To those with hair in tufts, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शिखिऽभ्यः। स्वाहा। २२.१५।

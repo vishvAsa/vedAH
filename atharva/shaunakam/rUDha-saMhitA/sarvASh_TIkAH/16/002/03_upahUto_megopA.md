@@ -19,7 +19,6 @@ apparently wholly arbitrary.
 I have invoked the Protector; I have invoked his protection.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उपऽहूतः। मे। गोपाः। उपऽहूतः। गोपीथः। २.३।

@@ -27,10 +27,9 @@ it. ⌊Ppp. has *jayatāt saḥ:* presumably answering to the end of pāda
 In the third heaven above us stands the Asvattha tree, the seat of Gods: There is embodiment of life that dies not: thence was Kushtha born.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः। ३९.६।
+अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

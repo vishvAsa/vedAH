@@ -8,7 +8,6 @@ title = "०६ इतो वा"
 Or Indra we implore for help from here, from heaven above the earth, Or from the spacious firmament.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इतः। वा। सातिम्। ईमहे। दिवः। वा। पार्थिवात्। अधि। महः। वा। रजसः। ७०.६।

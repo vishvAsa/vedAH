@@ -24,10 +24,9 @@ syllables.
 Each several form, each several force I seize, and compass round this man. May the Four Quarters strengthen this my sacrifice. I offer up a duly mixt oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-रूपम्ऽरूपम्। वयःऽवयः। सम्ऽरभ्य। एनम्। परि। स्वजे। यज्ञम्। इमम्। चतस्रः। प्रऽदिशः। वर्धयन्तु। सम्ऽस्राव्येण। हविषा। जुहोमि। १.३।
+रूपम्ऽरूपम्। वयःऽवयः। सम्ऽरभ्य। एनम्। परि। स्वजे। यज्ञम्। इमम्। चतस्रः। प्रऽदिशः। वर्धयन्तु। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

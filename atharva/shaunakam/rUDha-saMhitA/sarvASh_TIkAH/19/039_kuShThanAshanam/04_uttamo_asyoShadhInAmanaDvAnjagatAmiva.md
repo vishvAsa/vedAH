@@ -21,7 +21,6 @@ etc. etc.
 Thou art the best amid the plants, even as the ox is best of tame, the tiger of rapacious beasts: let not mishap, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽतमः। असि। ओषधीनाम्। अनड्वान्। जगताम्ऽइव। व्याघ्रः। श्वपदाम्ऽइव। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.४।

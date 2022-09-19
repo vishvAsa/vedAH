@@ -20,7 +20,6 @@ be capable of being read as 9 + 9 + 7 (being *bhurij*).
 He, when he went away to the Gods, went away having become Isana and having made Passion an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। देवान्। अनु। विऽअचलत्। ईशानः। भूत्वा। अनुऽव्य᳡चलत्। मन्युम्। अन्नऽअदम्। कृत्वा। १४.१९।

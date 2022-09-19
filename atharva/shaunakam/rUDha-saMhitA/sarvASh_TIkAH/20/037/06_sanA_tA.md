@@ -8,7 +8,6 @@ title = "०६ सना ता"
 Old are the blessings, Indra, which thou gavest Sudas the wor- shipperwho brought oblations. For thee, the strong I yoke thy strong bay horses: let them, approach our prayers and wealth, Most Mighty!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सना। ता। ते। इन्द्र। भोजनानि। रातऽहव्याय। दाशुषे। सुऽदासे। वृष्णे। ते। हरी इति। वृषणा। युनज्मि। व्यन्तु। ब्रह्माणि। पुरुऽशाक। वाजम्। ३७.६।

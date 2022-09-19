@@ -14,7 +14,6 @@ title = "११ स यत्"
 He, when he went away to animals, went away having become Rudra and having made herbs eaters of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। पशून्। अनु। विऽअचलत्। रुद्रः। भूत्वा। अनुऽव्य᳡चलत्। ओषधीः। अन्नऽअदीः। कृत्वा। १४.११।

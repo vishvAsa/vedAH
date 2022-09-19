@@ -17,7 +17,6 @@ Fathers, to that of yours which is pleasant.
 Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नमः। वः। पितरः। यत्। शिवम्। तस्मै। नमः। वः। पितरः। यत्। स्योनम्। तस्मै। ४.८४।

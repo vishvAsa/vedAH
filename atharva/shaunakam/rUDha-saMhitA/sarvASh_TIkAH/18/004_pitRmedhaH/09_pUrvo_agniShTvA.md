@@ -29,7 +29,6 @@ and the rectification in **b**, all 5 pādas are faultless *triṣṭubhs*.⌋
 Eastward let east fire happily consume thee, and westward happily the Garhapatya. Burn southern fire, thine armour and protection: from air's- mid-region from the north and centre, on all sides, Agni, guard thou him from horror.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पूर्वः। अग्निः। त्वा। तपतु। शम‌्। पुरस्तात्। शम्। पश्चात्। तपतु। गार्हऽपत्यः। दक्षिणऽअग्निः। ते। तपतु। शर्म। वर्म। उत्तरतः। मध्यतः। अन्तर‍िक्षात्। दिशःऽदिशः। अग्ने। परि। पाहि। घोरात्। ४.९।

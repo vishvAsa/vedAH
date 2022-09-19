@@ -17,7 +17,6 @@ lineage, son of such-and-such a mother.
 Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a-woman.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। अहम्। आमुष्यायणे। अमुष्याः। पुत्रे। दुःऽस्वप्न्यम्। मृजे। ७.८।

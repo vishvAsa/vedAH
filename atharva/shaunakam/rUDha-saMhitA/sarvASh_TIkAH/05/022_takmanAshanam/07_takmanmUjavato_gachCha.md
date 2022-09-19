@@ -22,7 +22,7 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 
 <details open><summary>पदपाठः</summary>
 
-तक्मन्। मूजऽवतः। गच्छ। बल्हिकान्। वा। परःऽतराम्। शूद्राम्। इच्छ। प्रऽफर्व्यम्। तान्। तक्मन्। विऽइव। धूनुहि। २२.७।
+तक्मन्। मूजऽवतः। गच्छ। बल्हिकान्। वा। परःऽतराम्। शूद्राम्। इच्छ। प्रऽफर्व्य᳡म्। तान्। तक्मन्। विऽइव। धूनुहि। २२.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

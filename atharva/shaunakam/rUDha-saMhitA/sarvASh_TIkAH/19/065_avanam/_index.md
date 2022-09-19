@@ -7,7 +7,6 @@ title = "०६५ अवनम्"
 65. Praise of the sun.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अवनम्।  
@@ -18,8 +17,6 @@ title = "०६५ अवनम्"
 
 [Brahman.—ekarcam. jātavedasam; sāuryam. jāgatam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 319.
 
 A hymn to Agni identified with the Sun
 </details>
+

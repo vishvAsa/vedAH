@@ -8,7 +8,6 @@ title = "०८ प्रियास इत्"
 May we men, Bounteous Lord, the friends thou lovest, near i thee be joyful under thy protection. Fain to fulfil the wish of Atithigva, bow Turvasa, bow down,. the son of Yadu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रियासः। इत्। ते। मघऽवन्। अभिष्टौ। नरः। मदेम। शरणे। सखायः। नि। तुर्वशम्। नि। याद्वम्। शिशीहि। अत‍िथिऽग्वाय। शंस्यम्। करिष्यन्। ३७.८।

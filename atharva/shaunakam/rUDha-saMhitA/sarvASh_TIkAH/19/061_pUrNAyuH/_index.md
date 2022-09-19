@@ -7,7 +7,6 @@ title = "०६१ पूर्णायुः"
 61. For length of life etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पूर्णायुः।  
@@ -18,8 +17,6 @@ title = "०६१ पूर्णायुः"
 
 [Brahman.—ekarcam. brāhmaṇaspatyam. virāṭ pathyābṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 317.
 
 A prayer for long life prosperity and final happiness in heaven
 </details>
+

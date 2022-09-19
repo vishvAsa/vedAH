@@ -17,7 +17,6 @@ the waters with the herbs.
 Let those who vex me from this quarter, sinners give praise to plants' associates the Waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपः। ते। ओषधीऽमतीः। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.६।

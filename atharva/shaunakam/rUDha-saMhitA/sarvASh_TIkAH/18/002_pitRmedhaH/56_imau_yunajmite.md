@@ -29,7 +29,6 @@ funeral pile.
 For thee I yoke these carriers twain to bear thee to the spirit. world. Hasten with them to Yama's home and join his gathered. companies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमौ। युनज्मि। ते। वह्नी  इति। असुऽनीताय। वोढवे। ताभ्याम्। यमस्य। सदनम्। सम्ऽइतीः। च। अव। गच्छतात्। २.५६।

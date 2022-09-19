@@ -8,7 +8,6 @@ title = "११ यः श्म्बरम्"
 He who discovered in the fortieth autumn Sambara dwelling in the midst of mountains: Who slew the Dragon putting forth his vigour, the demon lying there, He, men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। शम्बरम्। पर्वतेषु। क्षियन्तम्। चत्वारिंश्याम्। शरदि। अनुऽ‍अविन्दत्। ओजायमानम्। यः। अहिम्। जघान। दानुम्। शयानम्। सः। जनासः। इन्द्रः। ३४.११।

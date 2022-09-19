@@ -8,7 +8,6 @@ title = "०९ अवीरामिव मामयम्"
 This noxious creature looks on me as one bereft of hero's love. Yet heroes for my sons have I, the Maruts' friend and Indra's Queen Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अवीराम्ऽइव। माम्। अयम्। शरारुः। अभि। मन्यते। उत। अहम्। अस्मि। वीरिणी। इन्द्रऽपत्नी। मरुत् सखा। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.९।

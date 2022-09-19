@@ -8,7 +8,6 @@ title = "११ ते वृक्षाः"
 Dapple, Harinika, and Bay ran forward to the liberal gifts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ते। वृक्षाः। सह। तिष्ठति। १३१.११।

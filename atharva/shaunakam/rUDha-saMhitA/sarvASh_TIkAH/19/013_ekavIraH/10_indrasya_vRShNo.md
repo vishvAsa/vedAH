@@ -19,7 +19,6 @@ great-minded, creation-stirring, conquering gods hath arisen.
 Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Uplifted is the shout of Gods who conquer, high-minded God who cause the world to tremble.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रस्य। वृष्णः। वरुणस्य। राज्ञः। आदित्यानाम्। मरुताम्। शर्धः। उग्रम्। महाऽमनसाम्। भुवनऽच्यवानाम्। घोषः। देवानाम्। जयताम्। उत्। अस्थात्। १३.१०।

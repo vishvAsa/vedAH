@@ -41,7 +41,6 @@ as we had done before. \*⌊At p. 543⁹.⌋
 A hundred, yea, and even more.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भूयसीः। शरदः। शतात्। ६७.८।

@@ -31,7 +31,6 @@ the others except MS. have *ayudhyás*. Most of the *pada*-mss. accent
 Piercing the cow-stalls with surpassing vigour, Indra the pitiless hero, wild with anger, Victor in fight, unshaken and resistless,--may he protect our armies in our battles.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। गोत्राणि। सहसा। गाहमानः। अदायः। उग्रः। शतऽमन्युः। इन्द्रः। दुःऽच्यवनः। पृतनाषाट्। अयोध्यः। अस्माकम्। सेनाः। अवतु। प्र। युत्ऽसु। १३.७।

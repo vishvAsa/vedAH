@@ -23,7 +23,7 @@ Hurt not the girl, ye Pillars twain upon the path which Gods have made. The port
 
 <details open><summary>पदपाठः</summary>
 
-मा। हिंसिष्टम्। कुमार्यम्। स्थूणे इति। देवऽकृते। पथि। शालायाः। देव्याः। द्वारम्। स्योनम्। कृण्मः। वधूऽपथम्। १.६३।
+मा। हिंसिष्टम्। कुमार्य᳡म्। स्थूणे इति। देवऽकृते। पथि। शालायाः। देव्याः। द्वारम्। स्योनम्। कृण्मः। वधूऽपथम्। १.६३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

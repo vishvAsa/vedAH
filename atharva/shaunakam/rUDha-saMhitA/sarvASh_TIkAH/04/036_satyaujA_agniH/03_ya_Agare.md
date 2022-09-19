@@ -30,7 +30,7 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 
 <details open><summary>पदपाठः</summary>
 
-ये। आऽगरे। मृगयन्ते। प्रतिऽक्रोशे। अमाऽवास्ये। क्रव्यऽअदः। अन्यान्। दिप्सतः। सर्वान्। तान्। सहसा। सहे। ३६.३।
+ये। आऽगरे। मृगयन्ते। प्रतिऽक्रोशे। अमाऽवास्ये᳡। क्रव्यऽअदः। अन्यान्। दिप्सतः। सर्वान्। तान्। सहसा। सहे। ३६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

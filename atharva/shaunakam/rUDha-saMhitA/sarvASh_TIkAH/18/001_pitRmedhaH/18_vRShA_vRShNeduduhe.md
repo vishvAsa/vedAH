@@ -34,7 +34,6 @@ extremely unsatisfactory.
 The Bull hath yielded for the Bull the milk of heaven: inviolable is the Son of Aditi. According to his wisdom Varuna knoweth all: he halloweth, the holy, times for sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषा। वृष्णे। दुदुहे। दोहसा। दिवः। पयांसि। यह्वः। अदिते। अदाभ्यः। विश्वम्। सः। वेद। वरुणः। यथा। धिया। सः। यज्ञियः। यजति। यज्ञियान्। ऋतून्। १.१८।

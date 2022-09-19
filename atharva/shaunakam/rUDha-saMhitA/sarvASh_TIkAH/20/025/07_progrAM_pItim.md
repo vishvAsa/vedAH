@@ -8,7 +8,6 @@ title = "०७ प्रोग्रां पीतिम्"
 To make thee start, a strong true draught I offer to thee the Bull, O thou whom bay steeds carry. Here take delight. O Indra, in our voices while thou art hymned with power and all our spirit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। उग्राम्। पीतिम्। वृष्णे। इयर्मि। सत्याम्। प्रऽयै। सुतस्य। हरिऽअश्व। तुभ्यम्। इन्द्र। धेनाभिः। इह। मादयस्व। धीभिः। विश्वाभिः। शच्या। गृणानः। २५.७।

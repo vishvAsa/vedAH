@@ -8,7 +8,6 @@ title = "०३ यच्चिद्धि त्वा"
 Although these men in sundry ways invoke thee to obtain thine aid. Be this our prayer, addressed, O Indra, unto thee, thine exalta- tion every day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। चित्। हि। त्वा। जनाः। इमे। नाना। हवन्ते। ऊतये। अस्माकम्। ब्रह्म। इदम्। इन्द्र। भूतु। ते। अहा। विश्वा। च। वर्धनम्। ८५.३।

@@ -36,7 +36,6 @@ recited for good fortune evening and morning at the end of the
 From all those bonds, O Varuna, release us, wherewith a man is bound at length and cross-wise. Then may we live a hundred autumn seasons guarded by thee, O King, by thee protected.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। अस्मत्। पाशान्। वरुण। मुञ्च। सर्वान्। यैः। सम्ऽआमे। बध्यते। यैः। विऽआमे। अध। जीवेम। शरदम्। शतानि। त्वया। राजन्। गुपिताः। रक्षमाणाः। ४.७०।

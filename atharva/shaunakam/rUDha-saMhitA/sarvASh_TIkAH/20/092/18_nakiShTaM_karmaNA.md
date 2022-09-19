@@ -8,7 +8,6 @@ title = "१८ नकिष्टं कर्मणा"
 No one by deed attains to him who works and strengthens evermore: No, not by sacrifice, to Indra praised of all, resistless, daring, bold in might;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नकिः। तम्। कर्मणा। नशत्। यः। चकार। सदाऽवृधम्। इन्द्रम्। न। यज्ञैः। विश्वऽगूर्तम्। ऋभ्वसम्। अधृष्टम्। धृष्णुऽओजसम्। ९२.१८।

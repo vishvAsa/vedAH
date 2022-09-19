@@ -8,7 +8,6 @@ title = "१० इन्द्र आशाभ्यस्परि"
 From all the regions of the world let Indra send security. The foe-subduer, swift to act.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। आशाभ्यः। परि। सर्वाभ्यः। अभयम्। करत्। जेता। शत्रून्। विचर्षणिः। ५७.१०।

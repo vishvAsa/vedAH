@@ -8,7 +8,6 @@ title = "०७ य इन्द्र"
 Joy, mightiest Indra, known and marked, sprung most from Soma draughts, wherewith Thou smitest down the greedy fiend, for that we pray.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। इन्द्र। सोमऽपातमः। मदः। शविष्ठ। चेतति। येन। हंसि। नि। अत्त्रिणम्। तम्। ईमहे। ६३.७।

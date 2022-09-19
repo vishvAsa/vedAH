@@ -20,7 +20,6 @@ agree with ours throughout.
 Forth from his navel come mid-air; the sky was fashioned from his head. Earth from his feet, and from his ear the regions. Thus they formed the worlds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नाभ्याः। आसीत्। अन्तरिक्षम्। शीर्ष्णः। द्यौः। सम्। अवर्तत। पत्ऽभ्याम्। भूमिः। दिशः। श्रोत्रात्। तथा। लोकान्। अकल्पयन्। ६.८।

@@ -8,7 +8,6 @@ title = "०२ एवा रातिस्तुवीमघ"
 So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwell thou, Indra, even with me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। रातिः। तुविऽमघ। विश्वेभिः। धायि। धातृऽभिः। अध। चित्। इन्द्र। मे। सचा। ६०.२।

@@ -17,7 +17,6 @@ ill-success. Of him now etc. etc.
 Whatever we have gained, etc. Let him not be freed from the noose of misery, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। ग्राह्याः। पाशात्। मा। मोचि। ८.३।

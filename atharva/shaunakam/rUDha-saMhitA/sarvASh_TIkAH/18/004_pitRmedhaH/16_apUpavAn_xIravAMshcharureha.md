@@ -83,7 +83,6 @@ carūṇāṁ sādhāraṇam*).⌋
 Enriched with cake and milk here let the Charu rest. World-makers, makers of the path we worship you of the Gods who here partake oblations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपूपऽवान्। क्षीरऽवान्। चरुः। आ। इह। सीदतु। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ४.१६।

@@ -21,7 +21,7 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 
 <details open><summary>पदपाठः</summary>
 
-शुष्यतु। मयि। ते। हृदयम्। अथो इति। शुष्यतु। आस्यम्। अथो इति। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.२।
+शुष्यतु। मयि। ते। हृदयम्। अथो इति। शुष्यतु। आस्य᳡म्। अथो इति। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

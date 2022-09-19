@@ -7,7 +7,6 @@ title = "०६७ दीर्घायुत्वम्"
 67. For long life and prosperity.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दीर्घायुत्वम्।  
@@ -18,8 +17,6 @@ title = "०६७ दीर्घायुत्वम्"
 
 [Brahman.—aṣṭāu. sāuryam. prājāpatyā gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 319.
 
 A prayer for long life
 </details>
+

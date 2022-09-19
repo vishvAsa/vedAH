@@ -25,7 +25,6 @@ does in fact in Bp.⌋
 Of that Vratya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। १५.१।

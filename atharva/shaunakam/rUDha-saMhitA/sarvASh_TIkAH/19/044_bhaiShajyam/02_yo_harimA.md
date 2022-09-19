@@ -27,7 +27,6 @@ vi. 127 and ix. 8), the comm. gives *visarpakas*, explaining it as
 The yellow hue, the feverish heat, the shooting pain that rends II the limbs, All the consumptive malady let the Ointment drive from out thy frame.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। हरिमा। जायान्यः। अङ्गऽभेदः। विऽसल्पकः। सर्वम्। ते। यक्ष्मम्। अङ्गेभ्यः। बहिः। निः। हन्तु। आऽअञ्जनम्। ४४.२।

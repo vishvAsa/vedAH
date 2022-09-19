@@ -45,7 +45,6 @@ India.⌋
 Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here let the water-lily grow, and tender grass and leafy plant.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। त्वम्। अग्ने। सम्ऽअदहः। तम्। ऊं इति। निः। वापय। पुनः। क्याम्बूः। अत्र। रोहतु। शाण्डऽदूर्वा। विऽअल्कशा। ३.५।

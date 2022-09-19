@@ -16,7 +16,6 @@ title = "१३ षोडशर्चेभ्यः स्वाहा"
 Hail to the sixteen-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 षोडशऽऋचेभ्यः। स्वाहा। २३.१३।

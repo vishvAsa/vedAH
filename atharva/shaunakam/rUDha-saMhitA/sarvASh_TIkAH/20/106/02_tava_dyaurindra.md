@@ -8,7 +8,6 @@ title = "०२ तव द्यौरिन्द्र"
 O Indra, heaven and earth augment thy manly power and thy renown, The waters and the mountains stir and urge thee on.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तव। द्यौः। इन्द्र। पौंस्यम्। पृथिवी। वर्धति। श्रवः। त्वाम्। आपः। पर्वतासः। च। हिन्विरे। १०६.२।

@@ -32,7 +32,6 @@ ends **d** with *āñjanam*.
 As debt from debt repay and send sorcery to the sorcerer's house. Split, Salve! the cruel villain's ribs whose evil eye bewitches us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋणात्। ऋणम्ऽइव। सम्ऽनयन्। कृत्याम्। कृत्याऽकृतः। गृहम्। चक्षुःऽमन्त्रस्य। दुःऽहार्दः। पृष्टीः। अपि। शृण। आऽअञ्जन। ४५.१।

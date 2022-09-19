@@ -8,7 +8,6 @@ title = "०२ प्र बोधयोषो"
 Awake the Asvins, Goddess Dawn! Up, mighty Lady of Sweet Strains! Rise straightway, priest of sacrifice! High glory to the glad- dening draught!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। बोधय। उषः। अश्विना। प्र। देवि। सूनृते। महि। प्र। यज्ञऽहोतः। आनुषक्। प्र। मदाय। श्रवः। बृहत्। १४२.२।

@@ -8,7 +8,6 @@ title = "०१ अभि त्वा"
 Hero, the Soma being pressed I pour the juice for thee to drink Sate thee and finish thy carouse.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। त्वा। वृषभ। सुते। सुतम्। सृजामि। पीतये। तृम्प। वि। अश्नुहि। मदम्। २२.१।

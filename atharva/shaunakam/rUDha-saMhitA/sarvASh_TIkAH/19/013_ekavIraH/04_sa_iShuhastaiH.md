@@ -30,7 +30,6 @@ vi. 65. 1.⌋
 He rules with those who carry shafts and quivers, Indra who with his hand brings hosts together, Foe-conquering, strong of arm, the Soma-drinker, with mighty bow, shooting with well-laid arrows.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। इषुऽहस्तैः। सः। निषङ्गिऽभिः। वशी। सम्ऽस्रष्टा। सः। युधः। इन्द्रः। गणेन। संसृष्टऽजित्। सोमऽपाः। बाहुऽशर्धी। उग्रऽधन्वा। प्रतिऽहिताभिः। अस्ता। १३.४।

@@ -16,7 +16,6 @@ title = "०३ तस्य व्रात्यस्य"
 His first vital breath, called Upward, is this Agni.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। प्रथमः। प्राणः। ऊर्ध्वः। नाम। अयम्। सः। अग्निः। १५.३।

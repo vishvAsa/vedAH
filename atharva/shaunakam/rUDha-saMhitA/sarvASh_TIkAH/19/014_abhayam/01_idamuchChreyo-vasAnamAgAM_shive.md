@@ -26,7 +26,6 @@ santu makyam: gomad...svāhe ’ty avasite juhoti:* cf. also Āp. xiii. 25.
 I have attained this goodliest place to rest in. Both Heaven and, Earth have shown me grace and favour. Without a foe for me be all the regions! We hate thee not. May we have peace and safety.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। उत्ऽश्रेयः। अवऽसानम्। आ। अगाम्। शिवे इति। मे। द्यावापृथिवी इति। अभूताम्। असपत्नाः। प्रऽदिशः। मे। भवन्तु। न। वै। त्वा। द्विष्मः। अभयम्। नः। अस्तु। १४.१।

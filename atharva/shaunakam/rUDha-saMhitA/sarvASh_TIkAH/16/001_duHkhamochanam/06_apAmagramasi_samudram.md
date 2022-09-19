@@ -18,7 +18,6 @@ With the second part compare the opening words of x. 5. 23.
 Thou art in front of the waters. I let loose your sea.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपाम्। अग्रम्। असि। समुद्रम्। वः। अभिऽअवसृजामि। १.६।

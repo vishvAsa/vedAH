@@ -8,7 +8,6 @@ title = "०५ इन्द्रं वृत्राय"
 For the foe's slaughter I address Indra whom many invocate, To win us booty in the wars.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। वृत्राय। हन्तवे। पुरुऽहूतम्। उप। ब्रुवे। भरेषु। वाजऽसातये। १९.५।

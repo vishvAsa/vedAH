@@ -8,7 +8,6 @@ title = "०१ यच्चिद्धि सत्य"
 O Soma-drinker, ever true, utterly hopeless though we be, Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। चित्। हि। सत्य। सोमऽपाः। अनाशस्ताःऽइव। स्मसि। आ। तु। नः। इन्द्र। शंसय। गोषु। अश्वेषु। शुभ्रिषु। सहस्रेषु। तुविऽमघ। ७४.१।

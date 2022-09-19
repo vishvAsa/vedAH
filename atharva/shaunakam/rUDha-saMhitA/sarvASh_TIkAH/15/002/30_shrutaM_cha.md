@@ -14,7 +14,6 @@ is heard abroad the two footmen, mind the ⌊rough vehicle,
 Revelation and Tradition are his running attendants, Mind, etc., as above.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्रुतम्। च। विऽश्रुतम्। च। परिऽस्कन्दौ। मनः। विऽपथम्। २.२६।

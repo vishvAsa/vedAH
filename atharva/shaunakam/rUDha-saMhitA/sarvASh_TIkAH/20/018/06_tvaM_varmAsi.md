@@ -8,7 +8,6 @@ title = "०६ त्वं वर्मासि"
 Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee for Friend I brave the foe.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। वर्म। असि। सऽप्रथः। पुरःऽयोधः। च। वृत्रऽहन्। त्वया। प्रति। ब्रुवे। युजा। १८.६।

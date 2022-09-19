@@ -8,7 +8,6 @@ title = "०१ तुभ्येदिमा सवना"
 All these libations are for thee, O Hero: to thee I offer these my prayers that strengthen. Ever, in every place, must men invoke thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तुभ्य। इत्। इमा। सवना। शूर। विश्वा। तुभ्यम्। ब्रह्माणि। वर्धना। कृणोमि। त्वम्। नृऽभिः। हव्यः। विश्वधा। असि। ७३.१।

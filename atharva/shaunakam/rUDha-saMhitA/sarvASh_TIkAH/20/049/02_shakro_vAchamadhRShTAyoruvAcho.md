@@ -8,7 +8,6 @@ title = "०२ शक्रो वाचमधृष्टायोरुवा
 Praise with the voice the Mighty, praise the awful with the voice: in heaven He, the most bounteous, hath been glad.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शक्रः। वाचम्। अधृष्टाय। उरुवाचः। अधृष्णुहि। मंहिष्ठः। आ। मदर्दिवि। ४९.२।

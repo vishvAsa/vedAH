@@ -8,7 +8,6 @@ title = "०२ यद् दधिषे"
 Thou dost desire to drink, each day that passes, the pleasant food which thou hast had aforetime. O Indra, gratified in heart and spirit, drink eagerly the Soma set before thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। दधिषे। प्रऽदिवि। चारु। अन्नम्। दिवेऽदिवे। पीतिम्। इत्। अस्य। वक्षि। उत। हृदा। उत। मनसा। जुषाणः। उशन्। इन्द्र। प्रऽथितान्। पाहि। सोमान्। ८७.२।

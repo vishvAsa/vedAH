@@ -29,7 +29,6 @@ below, at 3. 1, *-pāláyantī*, *-pād-*.⌋
 Dark-hued, insatiate, with distended nostrils, Yama's two envoys roam among the people. May they restore to us a fair existence here and to-day that we may see the sunlight.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उरुऽनसौ। असुऽतृपौ। उदुम्बलौ। यमस्य। दूतौ। चरतः। जनान्। अनु। तौ। अस्मभ्यम्। दृशये। सूर्याय। पुनः। दाताम्। असुम्। अद्य। इह। भद्रम्। २.१३।

@@ -8,7 +8,6 @@ title = "०१ आ नो"
 Come unto us who poured the juice, come hither to our eulogies. Drink of the juice, O fair of face.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नः। याहि। सुतऽवतः। अस्माकम्। सुऽस्तुतीः। उप। पिब। सु। शिप्रिन्। अन्धसः। ४.१।

@@ -19,7 +19,6 @@ d**.
 Let Morning with her light dispel that evil dream that frightened us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उषः। यस्मात्। दुःऽस्वप्न्यात्। अभैष्म। अप। तत्। उच्छतु। ६.२।

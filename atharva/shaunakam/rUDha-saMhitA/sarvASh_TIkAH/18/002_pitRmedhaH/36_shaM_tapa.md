@@ -22,10 +22,9 @@ it is closely akin in sense. ⌊The comm. reads *tanvas* in **b**.⌋
 Burn gently, Agni, burn not up the body with too fervent heat. Let all thy force and fury be expended on the woods and earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शम्। तप। मा। अति। तपः। अग्ने। मा। तन्वम्। तपः। वनेषु। शुष्मः। अस्तु। ते। पृथिव्याम्। अस्तु। यत्। हरः। २.३६।
+शम्। तप। मा। अति। तपः। अग्ने। मा। तन्व᳡म्। तपः। वनेषु। शुष्मः। अस्तु। ते। पृथिव्याम्। अस्तु। यत्। हरः। २.३६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

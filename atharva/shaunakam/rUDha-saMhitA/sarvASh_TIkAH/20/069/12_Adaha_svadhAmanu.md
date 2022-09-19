@@ -8,7 +8,6 @@ title = "१२ आदह स्वधामनु"
 Thereafter they, as is their wont, threw off the state of babes urborn, Taking their sacrificial name.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आत्। अह। स्वधाम्। अनु। पुनः। गर्भऽत्वम्। आऽईरिरे। दधानाः। नाम। यज्ञियम्। ६९.१२।

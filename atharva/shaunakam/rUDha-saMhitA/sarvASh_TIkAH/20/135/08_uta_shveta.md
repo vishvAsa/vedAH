@@ -8,7 +8,6 @@ title = "०८ उत श्वेत"
 And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly fills his measure up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत। श्वेतः। आशुपत्वाः। उतो। पद्याभिः। वसिष्ठः। उत। ईम्। आशु। मानम्। पिपर्ति। १३५.८।

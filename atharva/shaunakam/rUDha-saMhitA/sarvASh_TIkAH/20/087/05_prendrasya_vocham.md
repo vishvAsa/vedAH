@@ -8,7 +8,6 @@ title = "०५ प्रेन्द्रस्य वोचम्"
 I will declare the earliest deeds of Indra, and recent acts which Maghavan hath accomplished. When he had conquered godless wiles and magic, Soma became his own entire possession.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। इन्द्रस्य। वोचम्। प्रथमा। कृतानि। प्र। नूतना। मघऽवा। या। चकार। यदा। इत्। अदेवीः। असहिष्ट। मायाः। अथ। अभवत्। केवलः। सोमः। अस्य। ८७.५।

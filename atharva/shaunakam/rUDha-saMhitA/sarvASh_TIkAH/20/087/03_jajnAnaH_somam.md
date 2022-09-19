@@ -8,7 +8,6 @@ title = "०३ जज्ञानः सोमम्"
 Thou, newly-born, for strength didst drink the Soma; thy mother told thee of thy future greatness. O Indra, thou hast filled mid-air's wide region, and given the Gods by battle room and freedom.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जज्ञानः। सोमम्। सहसे। पपाथ। प्र। ते। माता। महिमानम्। उवाच। आ। इन्द्र। पप्राथ। उरु। अन्तरिक्षम्। युधा। देवेभ्यः। वरिवः। चकर्थ। ८७.३।

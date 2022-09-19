@@ -28,7 +28,6 @@ Fathers.
 Fathers who sit on sacred grass, come, help us: these offsprings have we made for you; accept them. So come to us with most auspicious favour: bestow on us unfailing health and plenty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बर्हिऽसदः। पितरः। ऊती। अर्वाक्। इमा। वः। हव्या। चकृम। जुषध्वम्। ते। आ। गत। अवसा। शम्ऽतमेन। अध। नः। शम्। योः। अरप। दधात। १.५१।

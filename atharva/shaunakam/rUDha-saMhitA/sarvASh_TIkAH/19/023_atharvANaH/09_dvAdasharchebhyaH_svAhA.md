@@ -16,7 +16,6 @@ title = "०९ द्वादशर्चेभ्यः स्वाहा"
 Hail to the twelve-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्वादशऽऋचेभ्यः। स्वाहा। २३.९।

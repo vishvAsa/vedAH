@@ -20,7 +20,6 @@ the other three texts, the only variant is *vasantò ‘sy-* in VS.
 When Gods performed the sacrifice with Purusha as their offering. Spring was the butter, summer was the fuel, autumn was the gift.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। पुरुषेण। हविषा। देवाः। यज्ञम्। अतन्वत। वसन्तः। अस्य। आसीत्। आज्यम्। ग्रीष्मः। इध्मः। शरत्। हविः। ६.१०।

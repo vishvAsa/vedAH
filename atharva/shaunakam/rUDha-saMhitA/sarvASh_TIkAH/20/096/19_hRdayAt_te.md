@@ -8,7 +8,6 @@ title = "१९ हृदयात् ते"
 From viscera and all within, forth from the rectum, from the heart, From kidneys, liver and from spleen, I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हृदयात्। ते। परि। क्लोम्नः। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्नः। यक्नः। ते। वि। वृहामसि। ९६.१९।

@@ -28,7 +28,6 @@ the redundant syllable in **c**.
 Gold that was born from Fire is immortal hath been deposited with mortal creatures. He who knows this deserves to own this jewel, and in extreme old age dies he who wears it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्नेः। प्रऽजातम्। परि। यत्। हिरण्यम्। अमृतम्। दध्रे। अधि। मर्त्येषु। यः। एनत्। वेद। सः। इत्। एनम्। अर्हति। जराऽमृत्युः। भवति। यः। बिभर्ति। २६.१।

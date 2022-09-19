@@ -29,7 +29,6 @@ correction, I suppose, to *ān̄girasa-* and *saṁhitā-*.⌋
 Hail to the hymns for happiness!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मङ्गलिकेभ्यः। स्वाहा। २३.२८।

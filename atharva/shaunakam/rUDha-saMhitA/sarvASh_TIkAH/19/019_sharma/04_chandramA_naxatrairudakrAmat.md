@@ -16,7 +16,6 @@ title = "०४ चन्द्रमा नक्षत्रैरुदक्
 Chandramas arose with the Constellation. To that fort, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चन्द्रमाः। नक्षत्रैः। उत्। अक्रामत्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। च। वर्म। च। यच्छतु। १९.४।

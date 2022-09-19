@@ -8,7 +8,6 @@ title = "०७ इहेह यद्वाम्"
 Whene'er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye twain, the singer of your praises: to you, Nasatyas, is my wish directed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इहऽइह। यत्। वाम्। समना। पपृक्षे। सा। इयम्। अस्मे। इति। सुऽमतिः। वाजऽरत्ना। उरुष्यतम्। जरितारम्। युवम्। ह। श्रितः। कामः। नासत्या। युवद्रिक्। १४३.७।

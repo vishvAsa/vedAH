@@ -18,7 +18,6 @@ Ppp. has in **b** *naśaṁnihi*, in **d** *vādini*.
 Sixty-and-six, O opulent, fifty-and-five, O happy One, Forty-and-four and thirty-three are they, O thou enriched with spoil.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 षष्टिः। च। षट्। च। रेवति। पञ्चाशत्। पञ्च। सुम्नयि। चत्वारः। चत्वारिंशत्। च। त्रयः। त्रिंशत्। च। वाजिनि। ४७.४।

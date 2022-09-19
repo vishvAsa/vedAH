@@ -8,7 +8,6 @@ title = "०४ परेहि विग्रमस्तृतमिन्द
 Go to the wise unconquered One, ask thou of Indra, skilled in song, Him who is better than thy friends.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परा। इहि। विग्रम्। अस्तृतम्। इन्द्रम्। पृच्छ। विपःऽचितम्। यः। ते। सखिऽभ्यः। आ। वरम्। ६८.४।

@@ -16,7 +16,6 @@ title = "०३ सप्तमाष्टमाभ्यां स्वाह
 To the seventh and eight, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सप्तमऽअष्टमाभ्याम्। स्वाहा। २२.३।

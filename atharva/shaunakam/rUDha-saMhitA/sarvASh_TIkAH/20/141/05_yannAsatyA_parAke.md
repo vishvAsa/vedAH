@@ -8,7 +8,6 @@ title = "०५ यन्नासत्या पराके"
 Whatever healing balm is yours, Nasatyas near or far away, Therewith, great Sages, grant a home to Vatsa and to Vimada.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। नासत्या। पराके। अर्वाके। अस्ति। भेषजम्। तेन। नूनम्। विऽमदाय। प्रऽचेतसा। छर्दिः। वत्साय। यच्छतम्। १४१.५।

@@ -15,7 +15,6 @@ revileth a thus-knowing Vrātya;
 He who reviles the Vratya possessing this knowledge is alienated from Vairupa and Vairaja, the Waters and Varuna the King. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वैरूपाय। च। वै। सः। वैराजाय। च। अत्ऽभ्यः। च। वरुणाय। च। राज्ञे। आ। वृश्चते। यः। एवम्। विद्वांसम्। व्रात्यम्। उपऽवदति। २.१७।

@@ -32,7 +32,6 @@ with 32. 8 etc. as just mentioned.⌋
 Make me beloved among the Gods, beloved among the Princes, make Me dear to everyone who sees, to Sudra and to Aryan man.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रियम्। मा। कृणु। देवेषु। प्रियम्। राजऽसु। मा। कृणु। प्रियम्। सर्वस्य। पश्यत। उत। शूद्रे। उत। आर्ये। ६२.१।

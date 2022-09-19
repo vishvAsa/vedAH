@@ -26,7 +26,6 @@ by *durmananaṁ durvacam*.
 'Tis hard to understand the Immortal's nature, where she who is akin becomes a stranger. Guard ceaselessly, great Agni, him who ponders Yama's name easy to be comprehended.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दुःऽमन्तु। अत्र। अमृतस्य। नाम। सऽलक्ष्मा। यत्। विषुऽरूपा। भवाति। यमस्य। यः। मनवते। सुऽमन्तु। अग्ने। तम्। ऋष्व। पाहि। अप्रऽयुच्छन्। १.३४।

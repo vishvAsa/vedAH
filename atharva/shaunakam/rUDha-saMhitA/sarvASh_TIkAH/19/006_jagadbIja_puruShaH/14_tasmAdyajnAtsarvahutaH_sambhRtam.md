@@ -24,10 +24,9 @@ Ppp. has in **c** *cakrire;* ⌊and so has KaṭhaB.⌋.
 From that great general sacrifice the dripping fat was gathered up: It formed the creatures fleet as wind, and animals both wild and tame.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-तस्मात्। यज्ञात्। सर्वऽहुतः। सम्ऽभृतम्। पृषत्ऽआज्यम्। पशून्। तान्। चक्रे। वायव्यान्। आरण्याः। ग्राम्याः। च। ये। ६.१४।
+तस्मात्। यज्ञात्। सर्वऽहुतः। सम्ऽभृतम्। पृषत्ऽआज्य᳡म्। पशून्। तान्। चक्रे। वायव्या᳡न्। आरण्याः। ग्राम्याः। च। ये। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

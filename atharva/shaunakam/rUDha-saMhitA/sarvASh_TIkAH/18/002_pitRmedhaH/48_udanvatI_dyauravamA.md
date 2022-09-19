@@ -35,7 +35,6 @@ the interment of the bone-relics.
 The lowest is the Watery heaven, Pilumati the middlemost; The third and highest, that wherein the Fathers dwell, is called Pradyaus.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उदन्ऽवती। द्यौः। अवमा। पीलुऽमती। इति। मध्यमा। तृतीया। ह। प्रऽद्यौः। इति। यस्याम्। पितरः। आसते। २.४८।

@@ -8,7 +8,6 @@ title = "०२ अयामि घोष"
 A cry was raised which reached the Gods, O Indra, a cry to them to send us strength in combat. None among men knows his own life's duration: bear us in safety over these our troubles.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयामि। घोषः। इन्द्र। देवऽजाभिः। इरज्यन्त। यत्। शुरुधः। विऽवाचि। नहि। स्वम्। आयुः। चिकिते। जनेषु। तानि। इत्। अंहासि। अति। पर्षि। अस्मान्। १२.२।

@@ -8,7 +8,6 @@ title = "०६ न मत्"
 No dame hath ampler charms than I, or greater wealth of love's delights. None with more ardour offers all her beauty to her lord's embrace. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। मत्। स्त्री। सुभसत्ऽतरा। न। सुयाशुऽतरा। भुवत्। न। मत्। प्रतिऽच्यवीयसी। न। सक्थि। उत्ऽयमीयसी। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.६।

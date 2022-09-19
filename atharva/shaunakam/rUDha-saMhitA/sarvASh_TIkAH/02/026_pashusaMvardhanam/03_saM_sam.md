@@ -26,7 +26,7 @@ Together stream the cattle! stream together horses and the men! Hitherward press
 
 <details open><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। पशवः। सम्। अश्वाः। सम्। ऊं इति। पुरुषाः। सम्। धान्यस्य। या। स्‍फातिः। सम्ऽस्राव्येण। हविषा। जुहोमि। २६.३।
+सम्। सम्। स्रवन्तु। पशवः। सम्। अश्वाः। सम्। ऊं इति। पुरुषाः। सम्। धान्य᳡स्य। या। स्‍फातिः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। २६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

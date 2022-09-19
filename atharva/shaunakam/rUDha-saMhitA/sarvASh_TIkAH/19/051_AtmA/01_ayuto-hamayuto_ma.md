@@ -23,7 +23,6 @@ restoration of all the elided *a*'s.⌋
 Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine ear, undisturbed is mine in-breathing, undisturbed mine out-breathing, undisturbed my diffusive- breath, undisturbed the whole of me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयुतः। अहम्। अयुतः। मे। आत्मा। अयुतम्। मे। चक्षुः। अयुतम्। मे। श्रोत्रम्। अयुतः। मे। प्राणः। अयुतः। मे। अपानः। मे। विऽआनः। अयुतः। अहम्। सर्वः। ५१.१।

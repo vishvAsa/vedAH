@@ -18,7 +18,6 @@ for us.
 Quickened by Prayer, this Goddess Vak who standeth in the highest place, By whom the awful spell was made, even through her to us be peace!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इयम्। या। परमेऽस्थिनी। वाक्। देवी। ब्रह्मऽसंशिता। यया। एव। ससृजे। घोरम्। तया। एव। शान्तिः। अस्तु। नः। ९.३।

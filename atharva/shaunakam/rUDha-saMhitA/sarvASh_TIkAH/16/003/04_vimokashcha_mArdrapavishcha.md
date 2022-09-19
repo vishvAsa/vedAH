@@ -17,7 +17,6 @@ me; let both him of wet drops (*-dā́nu*) and Mātariśvan not desert me.
 Let not Unyoking and the Moist-fellied car desert me: let not the Sender of Moisture and Matarisvan forsake me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽमोकः। च। मा। आर्द्रऽपविः। च। मा। हासिष्टाम्। आर्द्रऽदानुः। च। मा। मातरिश्वा। च। मा। हासिष्टाम्। ३.४।

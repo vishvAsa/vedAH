@@ -8,7 +8,6 @@ title = "०६ गिर्वणः पाहि"
 Drink our libation, Lord of hymns: with streams of meath thou art bedewed: Our glory, Indra, is thy gift.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गिर्वणः। पाहि। नः। सुतम्। मधोः। धाराभिः। अज्यसे। इन्द्र। त्वाऽदातम्। इत्। यशः। ६.६।

@@ -8,7 +8,6 @@ title = "१७ इन्द्रं तम्"
 Honour that Indra, Puruhanman! for his aid, in whose sustain- ing hand of old. The splendid bolt of thunder was deposited, as the great Sun was set in heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। तम्। शुम्भ। पुरुऽहन्मन्। अवसे। यस्य। द्विता। विऽधर्तरि। हस्ताय। वज्रः। प्रति। धायि। दर्शतः। महः। दिवे। न। सूर्यः। ९२.१७।

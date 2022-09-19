@@ -8,7 +8,6 @@ title = "१६ न सेशे"
 Indrani speaks. Non ille fortis (ad Venerem) est cujus mentula laxe inter femora dependet; fortis vero estille cujus, quum sederit, membrum pilosum se extendit. Super omnia est Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। सः। ईशे। यस्य। रम्बते। अन्तरा। सक्थ्या। कपृत्। सः। इत्। ईशे। यस्य। रोमशम्। निऽसेदुषः। विऽजृम्भते। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१६।

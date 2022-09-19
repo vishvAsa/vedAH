@@ -8,7 +8,6 @@ title = "०३ यद् भद्रस्य"
 Whenever any good man's son becometh bold and spirited, Then hath the wise Gandharva said this pleasant upward-point- ing word.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। भद्रस्य। पुरुषस्य। पुत्रः। भवति। दाधृषिः। तत्। विप्रः। अब्रवीत्। ऊं इति। तत्। गन्धर्वः। काम्यम्। वचः। १२८.३।

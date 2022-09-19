@@ -24,7 +24,7 @@ Whoever said to thee, Go forth against the foeman up the stream, To him, O Krity
 
 <details open><summary>पदपाठः</summary>
 
-यः। त्वा। उवाच। परा। इहि। इति। प्रतिऽकूलम्। उत्ऽआय्यम्। तम्। कृत्ये। अभिऽनिवर्तस्व। मा। अस्मान्। इच्छः। अनागसः। १.७।
+यः। त्वा। उवाच। परा। इहि। इति। प्रतिऽकूलम्। उत्ऽआय्य᳡म्। तम्। कृत्ये। अभिऽनिवर्तस्व। मा। अस्मान्। इच्छः। अनागसः। १.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

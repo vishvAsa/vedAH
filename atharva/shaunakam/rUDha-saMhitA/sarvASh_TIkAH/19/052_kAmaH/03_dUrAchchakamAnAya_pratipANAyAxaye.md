@@ -38,10 +38,9 @@ verse as 7 + 7: 7 + 7 = 28.
 They heard his prayers, and they begot, by Kama, heavenly- light for him. Who from a distance longed for it, a dealer ready to exchange.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-दूरात्। चकमानाय। प्रतिऽपानाय। अक्षये। आ। अस्मै। अशृण्वन्। आशाः। कामेन। अजनयन्। स्वः। ५२.३।
+दूरात्। चकमानाय। प्रतिऽपानाय। अक्षये। आ। अस्मै। अशृण्वन्। आशाः। कामेन। अजनयन्। स्वः᳡। ५२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

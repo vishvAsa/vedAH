@@ -31,7 +31,6 @@ but I am not at all sure.⌋
 They who are followers of Night, and they who watch o'er living things. They who protect all cattle, they keep watch and ward over our lives, over our herds keep watch and ward.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। रात्रिम्। अनुऽतिष्ठन्ति। ये। च। भूतेषु। जाग्रति। पशून्। ये। सर्वान्। रक्षन्ति। ते। नः। आत्मऽसु। जाग्रति। ते। नः। पशुषु। जाग्रति। ४८.५।

@@ -8,7 +8,6 @@ title = "०९ कतरत् त"
 'Which shall I set before thee, curds, gruel of milk, or barley- brew?' Thus the wife asks her husband in the realm which King Parikshit rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कतरत्। ते। आ। हराणि। दधि। मन्थाम‌्। परि। श्रुतम्। जायाः। पतिम्। वि। पृच्छति। राष्ट्रे। राज्ञः। परिक्षितः। १२७.९।

@@ -30,7 +30,6 @@ and *mmr*. The verse (according to the comm., vss. 49-51) is used ⌊Kāuś.
 Betake thee to the lap of Earth, our mother, of Earth far-spread- ing, very kind and gracious. May she, wool-soft unto the guerdon-giver, guard thee in front upon the distant pathway.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। सर्प। मातरम्। भूमिम्। एताम्। उरुऽव्यचसम्। पृथिवीम्। सुऽशेवाम्। ऊर्णऽम्रदाः। पृथिवी। दक्षिणाऽवते। एषा। त्वा। पातु। प्रऽपथे। पुरस्तात्। ३.४९।

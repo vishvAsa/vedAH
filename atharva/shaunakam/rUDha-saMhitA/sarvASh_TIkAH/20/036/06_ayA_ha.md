@@ -8,7 +8,6 @@ title = "०६ अया ह"
 Strong of thyself! thou with this art hast shattered with thought- swift Parvata, him who waxed against thee; And, Mightiest! rager! boldly rent in pieces things that were firmly fixed and never shaken..
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अया। ह। त्यम्। मायया। ववृधानम्। मनःऽजुवा। स्वऽतवः। पर्वतेन। अच्युता। चित्। वीलिता। सुऽओजः। रुजः। वि। दृह्ला। धृषता। विरप्शिन्। ३६.६।

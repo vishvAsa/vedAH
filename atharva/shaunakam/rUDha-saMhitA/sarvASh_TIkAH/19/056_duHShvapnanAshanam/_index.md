@@ -7,7 +7,6 @@ title = "०५६ दुःष्वप्ननाशनम्"
 56. To sleep (or dream).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दुःष्वप्ननाशनम्।  
@@ -19,8 +18,6 @@ title = "०५६ दुःष्वप्ननाशनम्"
 [Yama.—ṣaṭkam. dāuṣvapnyam. trāiṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ If prámadā (p. prá॰madā) is to be rendered as above, it must have its acce
 
 A hymn to Sleep
 </details>
+

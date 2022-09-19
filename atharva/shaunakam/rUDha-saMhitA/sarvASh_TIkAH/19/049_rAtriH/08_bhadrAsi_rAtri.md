@@ -50,7 +50,6 @@ the reading is admitted.
 Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art formed in perfect beauty. Thou lovingly, for me with eyes to se: them, hast bound on thee heaven's stars as thine adornment.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भद्रा। असि। रात्रि। चमसः। न। विष्टः। विष्वङ्। गोऽरूपम्। युवतिः। बिभर्षि। चक्षुष्मती। मे। उशती। वपूंषि। प्रति। त्वम्। दिव्या। न। क्षाम्। अमुक्थाः। ४९.८।

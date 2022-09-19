@@ -17,7 +17,6 @@ upon Prajāpati with generative qualities.
 Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रजाऽपतिम्। ते। प्रजननऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। ध्रुवायाः। दिशः। अभिऽदासात्। १८.९।

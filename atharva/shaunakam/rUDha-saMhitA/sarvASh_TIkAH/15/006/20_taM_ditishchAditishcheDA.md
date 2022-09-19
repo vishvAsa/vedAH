@@ -16,7 +16,7 @@ Diti and Aditi and Ida and Indrani followed him.
 
 <details open><summary>पदपाठः</summary>
 
-तम्। दितिः। च। अदितिः। च। इडा। च। इन्द्राणी। च। अनुऽव्यचलनम्। ६.२०।
+तम्। दितिः। च। अदितिः। च। इडा। च। इन्द्राणी। च। अनुऽव्य᳡चलनम्। ६.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

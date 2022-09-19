@@ -8,7 +8,6 @@ title = "०२ अभि हि"
 O truthful Soma-drinker, thou art mightier than both the worlds. Thou strengthenest him who pours libation, Lord of heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। हि। सत्य। सोमऽपाः। उभे इति। बभूथ। रोदसी इति। इन्द्र। असि। सुन्वतः। वृधः। पतिः। दिवः। ६४.२।

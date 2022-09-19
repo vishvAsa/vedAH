@@ -24,7 +24,6 @@ the bone-relics. ⌊See Caland, *Todtengebräuche*, p. 145 and note 534.⌋
 This date we settle once for all, that it may ne'er be fixt again_ A hundred autumns; not before.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमाम्। मात्राम्। मिमीमहे। यथा। अपरम्। न। मासातै। शते। शरत्ऽसु। नो इति। पुरा। २.३८।

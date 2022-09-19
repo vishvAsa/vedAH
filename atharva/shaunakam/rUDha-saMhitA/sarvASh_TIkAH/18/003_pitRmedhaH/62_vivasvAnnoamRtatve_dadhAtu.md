@@ -28,7 +28,6 @@ the verse was explained above, under vs. 61.
 In immortality Vivasvan set us! Go from us Death, come to us life eternal! To good old age may he protect these people: let not their spirits pass away to Yama.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विवस्वान्। नः। अमृतऽत्वे। दधातु। परा। एतु। मृत्युः। अमृतम्। नः। आ। एतु। इमान्। रक्षतु। पुरुषान्। आ। जरिम्णः। मो इति। सु। एषाम्। असवः। यमम्। गुः। ३.६२।

@@ -23,7 +23,6 @@ text inserts in vs. 11 *divyās* after *devās*.
 O ye eleven Gods who are on earth, accept this sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। देवाः। पृथिव्याम्। एकादश। स्थ। ते। देवासः। हविः। इदम्। जुषध्वम्। २७.१३।

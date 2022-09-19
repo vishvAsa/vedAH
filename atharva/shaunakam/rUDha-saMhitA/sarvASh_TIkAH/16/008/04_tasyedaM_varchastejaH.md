@@ -17,7 +17,6 @@ extermination. Of him now etc. etc.
 Whatever we have gained, etc. Let him not be freed from the noose of disappearance, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। इदम्। वर्चः। तेजः। प्राणम्। आयुः। नि। वेष्टयामि। इदम्। एनम्। अधराञ्चम्। पादयामि। ८.४।

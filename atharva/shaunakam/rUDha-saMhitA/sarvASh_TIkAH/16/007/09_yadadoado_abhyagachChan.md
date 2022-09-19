@@ -21,7 +21,6 @@ vol. iii., p. 352.⌋
 Whatsoever I have met with, whether at dusk or during early night,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अदःऽवदः। अभिऽअगच्छन्। यत्। दोषा। यत्। पूर्वाम्। रात्रिम्। ७.९।

@@ -18,7 +18,6 @@ mss. read. ⌊SPP. reads *yát* with all his authorities.⌋
 To him whom we abhor, to him who hates us do we send it hence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। द्विष्मः। यत्। च। नः। द्वेष्टि। तस्मै। एनत्। गमयामः। ६.४।

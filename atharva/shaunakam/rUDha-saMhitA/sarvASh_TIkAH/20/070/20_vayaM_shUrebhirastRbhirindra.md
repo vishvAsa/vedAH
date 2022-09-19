@@ -8,7 +8,6 @@ title = "२० वयं शूरेभिरस्तृभिरिन्द
 With thee, O Indra, for ally, with missile-darting heroes may We conquer our embattled foes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। शूरेभिः। अस्तृऽभिः। इन्द्र। त्वया। युजा। वयम्। ससह्याम। पृतन्यतः। ७०.२०।

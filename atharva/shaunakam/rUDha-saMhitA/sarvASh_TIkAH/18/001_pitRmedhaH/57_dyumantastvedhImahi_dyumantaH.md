@@ -25,7 +25,6 @@ the vs. Here again the comm. reads *havāmahe* for *idhimahi*.⌋
 We, splendid men, deposit thee, we, splendid men, enkindle thee. Splendid, bring splendid Fathers nigh to eat the sacrificial food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्युऽमन्तः। त्वा। इधीमहि। द्युऽमन्तः। सम्। इधीमहि। द्युऽमान्। द्युऽमत्। आ। वह। पितॄन्। हविषे। अत्तवे। १.५७।

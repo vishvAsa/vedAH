@@ -60,7 +60,7 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 
 <details open><summary>पदपाठः</summary>
 
-लाङ्गलम्। पवीरऽवत्। सुऽशीमम्। सोमसत्ऽसरु। उत्। इत्। वपतु। गाम्। अविम्। प्रस्थाऽवत्। रथऽवाहनम्। पीबरीम्। च। प्रऽफर्व्यम्। १७.३।
+लाङ्गलम्। पवीरऽवत्। सुऽशीमम्। सोमसत्ऽसरु। उत्। इत्। वपतु। गाम्। अविम्। प्रस्थाऽवत्। रथऽवाहनम्। पीबरीम्। च। प्रऽफर्व्य᳡म्। १७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

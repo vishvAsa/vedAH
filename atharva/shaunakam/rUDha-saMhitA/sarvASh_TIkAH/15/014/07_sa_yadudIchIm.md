@@ -15,7 +15,6 @@ title = "०७ स यदुदीचीम्"
 He, when he went away to the northern region, went away having become King Soma and having made the Seven Rishis' oblation an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। उदीचीम्। दिशम्। अनु। विऽअचलत्। सोमः। राजा। भूत्वा। अनुऽव्य᳡चलत्। सप्तर्षिऽभिः। हुते। आऽहुतिम्। अन्नऽअदीम्। कृत्वा। १४.७।

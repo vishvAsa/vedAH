@@ -8,7 +8,6 @@ title = "०४ वयमिन्द्र त्वायवोऽभि"
 Faithful to thee we loudly sing, heroic Indra, songs to thee. Mark, gracious Lord, this act of ours.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। इन्द्र। त्वाऽयवः। अभि। प्र। नोनुमः। वृषन्। विद्धि। तु। अस्य। नः। वसो इति। १८.४।

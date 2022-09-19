@@ -8,7 +8,6 @@ title = "०१ यदस्या अंहुभेद्याः"
 Si quis in hujus tenui rima praeditae feminae augustias fascinum intromittit, vaccae ungularum et Sakula. rum pisci- um more pudenda ejus agitantur.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अस्याः। अंहुऽभेद्याः। कृधु। स्थूलम्। उपऽअतसत्। मुष्कौ। इत्। अस्याः। एजतः। गोऽशफे। शकुलौऽइव। १३६.१।

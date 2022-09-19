@@ -42,7 +42,6 @@ why he says that, if we read *bráhmaṇas*, we must also read
 Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was the Adhvaryu born, from Brahma hidden offering.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्म। होता। ब्रह्म। यज्ञाः। ब्रह्मणा। स्वरवः। मिताः। अध्वर्युः। ब्रह्मणः। जातः। ब्रह्मणः। अन्तःऽहितम्। हविः। ४२.१।

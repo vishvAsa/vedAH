@@ -30,7 +30,6 @@ in reading the ungrammatical *ucyate*.⌋
 When they divided Purusha how many portions did they make? What was his mouth? what were his arms? what are the names of thighs and feet?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। पुरुषम्। वि। अदधुः। कतिऽधा। वि। अकल्पयन्। मुखम्। किम्। अस्य। किम्। बाहू इति। किम्। ऊरू इति। पादौ। उच्येते इति। ६.५।

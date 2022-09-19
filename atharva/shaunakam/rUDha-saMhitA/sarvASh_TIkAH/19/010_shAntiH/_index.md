@@ -7,7 +7,6 @@ title = "०१० शान्तिः"
 10. For well-being.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
@@ -18,8 +17,6 @@ title = "०१० शान्तिः"
 
 [Brahman (śāntikāmaḥ).—daśa. sāumyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 270; and also, of course, by the RV. translators.
 
 A prayer for the same
 </details>
+

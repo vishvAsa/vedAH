@@ -33,7 +33,6 @@ is most instructive.⌋
 Safety be ours from friend and from the unfriendly, safety from what we know and what we know not. Safety be ours by night and in the day-time! friendly to me be all my hopes and wishes!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभयम्। मित्रात्। अभयम्। अमित्रात्। अभयम्। ज्ञातात्। अभयम्। पुरः। यः। अभयम्। नक्तम्। अभयम्। दिवा। नः। सर्वाः। आशाः। मम। मित्रम्। भवन्तु। १५.६।

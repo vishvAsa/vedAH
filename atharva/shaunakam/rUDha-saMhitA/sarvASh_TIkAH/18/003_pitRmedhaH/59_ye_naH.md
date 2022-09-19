@@ -25,7 +25,6 @@ identical with vii. 104. 1 **d** above.
 Our Father's Fathers and their sires before them, they who have entered into air's wide region, For them shall self-resplendent Asuniti form bodies now accord- ing to her pleasure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। नः। पितुः। पितरः। ये। पितामहाः। ये। आऽविविशुः। उरु। अन्तरिक्षम्। तेभ्यः। स्वऽराट्। असुऽनीतिः। नः। अद्य। यथाऽवशम्। तन्वः। कल्पयाति। ३.५९।

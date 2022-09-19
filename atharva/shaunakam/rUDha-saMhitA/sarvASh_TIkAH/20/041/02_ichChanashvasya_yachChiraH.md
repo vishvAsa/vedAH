@@ -8,7 +8,6 @@ title = "०२ इच्छनश्वस्य यच्छिरः"
 He, searching for the horse's head, removed among the moun- tains, found At Saryanavan what he sought.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इच्छन्। अश्वस्य। यत्। शिरः। पर्वतेषु। अपऽश्रितम्। तत्। विदत्। शर्यणाऽवति। ४१.२।

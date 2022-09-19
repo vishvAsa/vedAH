@@ -26,7 +26,6 @@ with 45 and other verses, see under 1. 44 and 51.
 Fathers whom Agni's flames have tasted, come ye nigh: in per- fect order take ye each your proper place. Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निऽस्वात्ताः। पितरः। आ। इह। गच्छत। सदःऽसदः। सदत। सुऽप्रनीतयः। अत्तो इति। हवींषि। प्रऽयतानि। बर्हिषि। रयिम्। च। नः। सर्वऽवीरम्। दधात। ३.४४।

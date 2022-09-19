@@ -8,7 +8,6 @@ title = "१७ अजागार केविका१७"
 As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अजागार। केविका। १२९.१७।

@@ -8,7 +8,6 @@ title = "१५ वृषभो न"
 Like as a bull with pointed horn, loud bellowing amid the herds, Sweet to thine heart, O Indra, is the brew which she who tends thee pours. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषभः। न। तिग्मऽशृङ्गः। अन्तः। यूथेषु। रोरुषत्। मन्थः। ते। इन्द्र। शम्। हृदे। वम्। ते। सुनोति। भावयुः। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१५।

@@ -24,7 +24,6 @@ equivalent of *iḍás*.
 Sarasvati, who comest with the Fathers, joying in hymns, O Goddess, and oblations, Give plenteous wealth to this the sacrificer, a portion, worth a thousand, of refreshment.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वति। या। सऽरथम्। ययाथ। उक्थैः। स्वधाभिः। देवि। पितृऽभिः। मदन्ती। सहस्रऽअर्घम्। इडः। अत्र। भागम्। रायः। पोषम्। यजमानाय। धेहि। १.४३।

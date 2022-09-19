@@ -8,7 +8,6 @@ title = "०३ उत्तिष्ठन्नोजसा सह"
 Arising in thy might thy jaws thou shookest, Indra, having quaffed The Soma poured into the bowls.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽतिष्ठन्। ओजसा। सह। पीत्वी। शिप्र इति। अवेपयः। सोमम्। इन्द्र। चमू इति। सुतम्। ४२.३।

@@ -8,7 +8,6 @@ title = "०१ अध्वर्यवोऽरुणं दुग्धमं
 Priests, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured. No wild bull knows his drinking-place like Indra who ever seeks him who hath pressed the Soma.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध्वर्यवः। अरुणम्। दुग्धम्। अंशुम्। जुहोतन। वृषभाय। क्षितीनाम्। गौरात्। वेदीयान्। अवऽपानम्। इन्द्रः। विश्वाहा। इत्। याति। सुतऽसोमम्। इच्छन्। ८७.१।

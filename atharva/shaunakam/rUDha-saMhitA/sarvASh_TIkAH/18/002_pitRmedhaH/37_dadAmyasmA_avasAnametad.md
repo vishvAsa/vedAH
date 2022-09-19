@@ -28,7 +28,6 @@ deposition of the bones in the hole in the ceremony of interment.
 I give this place to him who hath come hither and now is mine, to be a home to rest in: This was the thought of Yama when he answered: This man is. mine. Let him come here to riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ददामि। अस्मै। अवऽसानम्। एतत्। यः। एषः। आऽअगन्। मम। च। इत्। अभूत्। इह। यमः। चिकित्वान्। प्रति। एतत्। आह। मम। एषः। राये। उप। तिष्ठताम्। इह। २.३७।

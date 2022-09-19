@@ -79,7 +79,6 @@ left, over *hyu* from over *tta*.⌋
 Food shall be earlier Ashadhas grant me; let those that follow bring me strength and vigour; With virtuous merit Abhijit endow me! Sravana and Sravishthas make me prosper.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अन्नम्। पूर्वा। रासताम्। मे। अषाढाः। ऊर्जम्। देवी। उत्ऽतरोः। आ। वहन्तु। अभिऽजित्। मे। रासताम्। पुण्यम्। एव। श्रवणः। श्रविष्ठाः। कुर्वताम्। सुऽपुष्टिम्। ७.४।

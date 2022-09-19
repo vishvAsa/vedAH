@@ -8,7 +8,6 @@ title = "०१ आ यात्विन्द्रः"
 May Sovran Indra come to the carousal, he who by holy Law is strong and active. The overcomer of all conquering forces with his great bull-like power that hath no limit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। यातु। इन्द्रः। स्वऽपतिः। मदाय। यः। धर्मणा। तूतुजानः। तुविष्मान्। प्रऽत्वक्षाणः। अति। विश्वा। सहांसि। अपारेण। महता। वृष्ण्येन। ९४.१।

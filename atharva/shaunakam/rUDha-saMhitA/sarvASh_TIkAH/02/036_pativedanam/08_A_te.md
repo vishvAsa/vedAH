@@ -32,7 +32,7 @@ May Savitar lead and bring to thee the husband whom thy heart desires. O Plant, 
 
 <details open><summary>पदपाठः</summary>
 
-आ। ते। नयतु। सविता। नयतु। पतिः। यः। प्रतिऽकाम्यः। त्वम्। अस्यै। धेहि। ओषधे। ३६.८।
+आ। ते। नयतु। सविता। नयतु। पतिः। यः। प्रतिऽकाम्यः᳡। त्वम्। अस्यै। धेहि। ओषधे। ३६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

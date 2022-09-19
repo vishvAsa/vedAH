@@ -8,7 +8,6 @@ title = "१४ अस्येदु भिया"
 When he, yea, he is born the firm-set mountains and the whole heaven and earth tremble in terror. May Nodhas ever lauding the protection of this dear Friend win straightway strength heroic.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। ऊं इति। भिया। गिरयः। च। दृह्लाः। द्यावा। च। भूम। जनुषः। तुजेते इति। उपो इति। वेनस्य। जोगुवानः। ओणिम्। सद्यः। भुवत्। वीर्याय। नोधाः। ३५.१४।

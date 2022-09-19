@@ -8,7 +8,6 @@ title = "०७ य आक्ताक्षः"
 With well-anointed limbs and eyes, wearing fair gem and golden, ring, Good priest is he, the Brahman's son; these things are ordered in the rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। आक्ताक्षः। सुभ्यक्तः। सुमणिः। सुहिरण्यवः। सुब्रह्मा। ब्रह्मणः। पुत्रः। तोता। कल्पेषु। संमिता। १२८.७।

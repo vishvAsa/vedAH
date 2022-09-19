@@ -8,7 +8,6 @@ title = "१७ यः सोमकामो"
 Lord of Bay steeds, who loves the flowing Soma, He before whom all living creatures tremble. He who smote Sambara and slaughtered Sushna, He the Sole Hero, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। सोमऽकामः। हरिऽअश्वः। सूरिः। यस्मात्। रेजन्ते। भुवनानि। विश्वा। यः। जघान। शम्बरम्। यः। च। शुष्णम्। यः। एकऽवीरः। सः। जनासः। इन्द्रः। ३४.१७।

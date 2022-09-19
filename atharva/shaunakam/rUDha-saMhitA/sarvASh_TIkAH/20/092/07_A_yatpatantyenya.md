@@ -8,7 +8,6 @@ title = "०७ आ यत्पतन्त्येन्य"
 When hither speed the dappled cows, unflinching, easy to be milked, Seize quickly, as it bursts away, the Soma juice for Indra's drink.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। यत्। पतन्ति। एन्यः। सुऽदुघाः। अनपऽस्‍फुरः। अपऽस्फुरम्। गृभायत। सोमम्। इन्द्राय। पातवे। ९२.७।

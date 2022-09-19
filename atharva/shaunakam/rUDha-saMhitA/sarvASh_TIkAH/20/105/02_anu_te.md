@@ -8,7 +8,6 @@ title = "०२ अनु ते"
 The earth, and heaven cling close to thy victorious might, as sire and mother to their child. When thou attackest Vritra all the hostile bands shrink and faint, Indra at thy wrath.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनु। ते। शुष्मम्। तुरयन्तम्। ईयतुः। क्षोणी इति। शिशुम्। न। मातरा। विश्वाः। ते। स्पृधः। श्नथयन्त। मन्यवे। वृत्रम्। यत्। इन्द्र। तूर्वसि। १०५.२।

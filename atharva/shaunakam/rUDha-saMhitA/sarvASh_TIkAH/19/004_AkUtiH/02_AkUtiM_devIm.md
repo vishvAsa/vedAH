@@ -29,7 +29,6 @@ dhṛ́daye níviṣṭam*. Ppp. reads *devyām* in **a**, and *me ‘stu* in **
 In front I set Intention, blessed Goddess. Mother of thought, may she be prompt to hear us. Mine, and mine only, be the hope I fashion! May I gain this that hath possessed my spirit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽकूतिम्। देवीम्। सुऽभगाम्। पुरः। दधे। चित्तस्य। माता। सुऽहवा। नः। अस्तु। याम्। आऽशाम्। एमि। केवली। सा। मे। अस्तु। विदेयम्। एनाम्। मनसि। प्रऽविष्टाम्। ४.२।

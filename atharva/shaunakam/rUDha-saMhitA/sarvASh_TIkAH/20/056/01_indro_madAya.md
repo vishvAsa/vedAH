@@ -8,7 +8,6 @@ title = "०१ इन्द्रो मदाय"
 Indra, foe-slayer, hath been raised to joy and power by the men. Him, verily, we invocate in battles whether great or small: be he our aid in fights for spoil.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। मदाय। ववृधे। शवसे। वृत्रहा। नृऽभिः। तम्। इत्। महत्ऽसु। आजिषु। उत। ईम्। अर्भे। हवामहे। सः। वाजेषु। प्र। नः। अविषत्। ५६.१।

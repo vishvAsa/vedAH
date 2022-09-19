@@ -22,7 +22,6 @@ the anomaly without remark.
 Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, helper of him who longs for wealth!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 औदुम्बरेण। मणिना। पुष्ट‍िऽकामाय। वेधसा। पशूनाम्। सर्वेषाम्। स्फातिम‌्। गोऽस्थे। मे। सविता। करत्। ३१.१।

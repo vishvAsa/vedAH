@@ -8,7 +8,6 @@ title = "०८ गिरीँरज्रान्रेजमानाँ अ
 He firmly fixed the plains and mountains as they shook. Dyaus thundered forth and made the air's mid-region quake. He stays apart the two confronting bowls; he sings lauds in the potent Soma's joy when he hath drunk.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गिरीन्। अज्रान्। रेजमानान्। अधारयत्। द्यौः। क्रन्दन्। अन्तरिक्षाणि। कोपयत्। समीचीने इति सम् ईचीने। धिषणे इति। वि। स्कभायति। वृष्णः। पीत्वा। मद। उक्थानि। शंसति। ९४.८।

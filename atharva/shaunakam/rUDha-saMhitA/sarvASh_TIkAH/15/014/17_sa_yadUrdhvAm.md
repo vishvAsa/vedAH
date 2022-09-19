@@ -19,7 +19,6 @@ The first pāda is not metrically defined by the Anukr.
 He, when he went away to the upper region, went away having become Brihaspati and having made the exclamation Vashat an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। ऊर्ध्वाम्। दिशम्। अनु। विऽअचलत्। बृहस्पतिः। भूत्वा। अनुऽव्य᳡चलत्। वषट्ऽकारम्। अन्नऽअदम्। कृत्वा। १४.१७।

@@ -26,7 +26,6 @@ either in **a** or in **b**. It is used in Vāit. 14. 2, in the
 Lustre art thou, illuming: as thou glowest with lustre so I too would shine with cattle, with all the lustre of a Brahman's station.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रुचिः। असि। रोचः। असि। सः। यथा। त्वम्। रुच्या। रोचः। असि। एव। अहम्। पशुऽभिः। च। ब्राह्मणऽवर्चसेन। च। रुचिषीय। २.२१।

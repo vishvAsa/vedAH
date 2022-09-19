@@ -19,7 +19,6 @@ ours.
 To the golden-hued ones, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरितेभ्यः। स्वाहा। २२.५।

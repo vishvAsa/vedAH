@@ -8,7 +8,6 @@ title = "०३ आपूर्णो अस्य"
 Full is his chalice. Blessing! Like a pourer I have filled up the vessel for his drinking. Presented on the right, dear Soma juices have brought us Indra,. to rejoice him, hither.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽपूर्णः। अस्य। कलशः। स्वाहा। सेक्ताऽइव। कोशम्। ‍सिसचे। पिबध्यै। सम्। ऊं इति। प्रिया। आ। अवृत्रन्। मदाय। प्रऽदक्षिणित्। अभि। सोमासः। इन्द्रम्। ८.३।

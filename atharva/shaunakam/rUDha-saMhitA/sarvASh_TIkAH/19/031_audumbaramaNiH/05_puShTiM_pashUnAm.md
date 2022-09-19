@@ -19,10 +19,9 @@ Nearly all the mss. accent this time *puṣṭím*.
 I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in plenty. Savitar and Brihaspati vouchsafe me the milk of kine and herbs' refreshing juices!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-पुष्टिम्। पशूनाम्। परि। जग्रभ। अहम्। चतुःऽपदाम्। द्विऽपदाम्। यत्। च। धान्यम्। पयः। पशूनाम्। रसम्। ओषधीनाम्। बृहस्पतिः। सविता। मे। नि। यच्छात्। ३१.५।
+पुष्टिम्। पशूनाम्। परि। जग्रभ। अहम्। चतुःऽपदाम्। द्विऽपदाम्। यत्। च। धान्य᳡म्। पयः। पशूनाम्। रसम्। ओषधीनाम्। बृहस्पतिः। सविता। मे। नि। यच्छात्। ३१.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

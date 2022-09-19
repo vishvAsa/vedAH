@@ -21,7 +21,6 @@ The corresponding RV. verse (x. 154. 3) has no variant; TA. (in vi. 3.
 The heroes who contend in war and boldly cast their lives away. Or who give guerdon thousandfold,--even to those let him depart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। युध्यन्ते। प्रऽधनेषु। धूरासः। ये। तनूऽत्यजः। ये। वा। सहस्रऽदक्षिणाः। तान्। चित्। एव। अपि। गच्छतात्। २.१७।

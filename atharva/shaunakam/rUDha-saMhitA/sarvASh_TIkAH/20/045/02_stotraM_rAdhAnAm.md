@@ -8,7 +8,6 @@ title = "०२ स्तोत्रं राधानाम्"
 O Hero, Lord of Bounties, praised in hymns, may power and pleasantness Be his who signs the laud to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तोत्रम्। राधानाम्। पते। गिर्वाहः। वीर। यस्य। ते। विऽभूतिः। अस्तु। सूनृता। ४५.२।

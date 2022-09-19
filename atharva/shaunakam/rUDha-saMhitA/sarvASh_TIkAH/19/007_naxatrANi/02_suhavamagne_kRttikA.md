@@ -31,7 +31,6 @@ astronomical language, *ayana*, by abbreviation for *ayanānta* 'end of a
 Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! Punarvasu and Sunrita, fair Pushya, the Sun, Asleshas, Magha lead me onward!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽहवम्। अग्ने। कृत्तिकाः। रोहिणी। च। अस्तु। भद्रम्। मृगऽशिरः। शम्। आर्द्रा। पुनर्वसु इति पुनःऽवसू। सूनृता। चारु। पुष्यः। भानुः। आऽश्लेषाः। अयनम्। मघाः। मे। ७.२।

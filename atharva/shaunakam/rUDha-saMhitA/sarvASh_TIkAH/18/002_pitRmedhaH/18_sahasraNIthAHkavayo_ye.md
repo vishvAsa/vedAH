@@ -19,7 +19,6 @@ its explanation of *yama* (cf. under vs. 15) *niyata śakaṭe baddha vā*.
 Let him, O Yama, go to those Rishis austere, of Fervour born, Skilled in a thousand ways and means, the sages who protect the Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽनीथाः। कवयः। ये। गोपायन्ति। सूर्यम्। ऋषीन्। तपस्वतः। यम। तपःऽजान्। अपि। गच्छतात्। २.१८।

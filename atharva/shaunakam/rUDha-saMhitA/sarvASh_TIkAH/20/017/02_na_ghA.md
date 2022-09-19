@@ -8,7 +8,6 @@ title = "०२ न घा"
 Directed unto thee my spirit never strays, for I have set my hopes on thee, O much-invoked! Sit, wonderful! as King upon the sacred grass, and let thy drinking-place be by the Soma juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। घ। त्वद्रिक्। अप। वेति। मे। मनः। त्वे इति। इत्। कामम्। पुरुऽहूत। शिश्रय। राजाऽइव। दस्म। नि। सदः। अधि। बर्हिषि। अस्मिन्। सु। सोमे। अवऽपानम्। अस्तु। ते। १७.२।

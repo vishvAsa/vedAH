@@ -26,7 +26,6 @@ ti-*. The metrical definition of the Anukr. is not to be approved.
 Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirred to motion, both what is and what shall be expand.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालः। अभूम्। दिवम्। अजनयत्। कालः। इमाः। पृथिवीः। उत। काले। ह। भूतम्। भव्यम्। च। इषितम्। ह। वि। तिष्ठते। ५३.५।

@@ -22,10 +22,9 @@ vs. 7 and p. 806, ¶ 6, note 3, above⌋.
 What is based on what is not: the present lies on that which is.. Present on future is imposed and future on the present based. Manifold are thy great deeds, thine, O Vishnu. Sate us with cattle of all varied colour. Set me in happiness, in loftiest heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-असति। सत्। प्रतिऽस्थितम्। सति। भूतम्। प्रतिऽस्थितम्। भूतम्। ह। भव्ये। आऽहितम्। भव्यम्। भूते। प्रतिऽस्थितम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१९।
+असति। सत्। प्रतिऽस्थितम्। सति। भूतम्। प्रतिऽस्थितम्। भूतम्। ह। भव्ये। आऽहितम्। भव्यम्। भूते। प्रतिऽस्थितम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

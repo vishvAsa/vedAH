@@ -22,7 +22,6 @@ give an alternative explanation implying *gā* 'go.'
 Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must worship. May these to-day give us broad paths to travel. Preserve us evermore, ye Gods, with blessings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। देवानाम्। ऋत्विजः। यज्ञियासः। मनोः। यजत्राः। अमृताः। ऋतऽज्ञाः। ते। नः। रासन्ताम्। उरुऽगायम्। अद्य। यूयम्। पात। स्वस्त‍िऽभिः। सदा। नः। ११.५।

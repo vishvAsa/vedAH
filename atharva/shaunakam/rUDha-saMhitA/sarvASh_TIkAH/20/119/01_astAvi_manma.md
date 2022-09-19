@@ -8,7 +8,6 @@ title = "०१ अस्तावि मन्म"
 An ancient praise-song hath been sung: to Indra have ye said the prayer. They have sung many a Brihati of sacrifice, poured forth th, worshipper's many thoughts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्तावि। मन्म। पूर्व्यम्। ब्रह्म। इन्द्राय। वोचत। पूर्वीः। ऋतस्य। बृहतीः। अनूषत। स्तोतुः। मेधाः। असृक्षत। ११९.१।

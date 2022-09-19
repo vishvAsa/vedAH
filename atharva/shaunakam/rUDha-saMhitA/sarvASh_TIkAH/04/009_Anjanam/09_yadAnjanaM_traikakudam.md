@@ -36,7 +36,7 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 
 <details open><summary>पदपाठः</summary>
 
-यत्। आऽअञ्जनम्। त्रैककुदम्। जातम्। हिमऽवतः। परि। यातून्। च। सर्वान्। जम्भयत्। सर्वाः। च। यातुऽधान्यः। ९.९।
+यत्। आऽअञ्जनम्। त्रैककुदम्। जातम्। हिमऽवतः। परि। यातून्। च। सर्वान्। जम्भयत्। सर्वाः। च। यातुऽधान्यः᳡। ९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -15,7 +15,6 @@ father and the grandfather.
 Prajapati and Parameshthin and the Father and the Great Father followed him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। प्रजाऽपतिः। च। परमेऽस्थी। च। पिता। च। पितामहः। च। अनुऽव्य᳡चलन्। ६.२५।

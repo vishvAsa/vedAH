@@ -8,7 +8,6 @@ title = "०३ कण्वाः इन्द्रम्"
 Since Kanvas with their lauds have made Indra complete the sacrifice, Words are their own appropriate arms.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कण्वाः। इन्द्रम्। यत्। अक्रत्। स्तोमैः। यज्ञस्य। साधनम्। जामि। ब्रुवते। आयुधम्। १३८.३।

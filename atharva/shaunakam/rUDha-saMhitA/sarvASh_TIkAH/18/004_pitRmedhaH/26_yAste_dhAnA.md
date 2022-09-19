@@ -22,7 +22,6 @@ possible ritual use of the verse, see under 3. 69.⌋
 Grains which for thee I scatter, mixt with Sesamum, as holy food. May they for thee be excellent and potent. King Yama look on, them as thine with favour!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याः। ते। धानाः। अनुऽकिरामि। तिलऽमिश्राः। स्वधाऽवतीः। ताः। ते। सन्तु। उत्ऽभ्वीः। प्रऽभ्वीः। ताः। ते। यमः। राजा। अनु। मन्यताम्। ४.२६।

@@ -8,7 +8,6 @@ title = "०१ यत् सोममिन्द्र"
 If, Indra, thou drink Soma by Vishnu's or Trita Aptya's side, Or with the Maruts take delight in flowing drops;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। सोमम्। इन्द्र। विष्णवि। यत्। वा। घ। त्रिते। आप्त्ये। यत्। वा। मरुत्ऽसु। मन्दसे। सम्। इन्दुऽभिः। १११.१।

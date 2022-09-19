@@ -35,7 +35,6 @@ dead body to the place of cremation.
 Run and outspeed the two dogs, Sarama's offspring, brindled, four-eyed, upon thy happy pathway. Draw nigh thou to the gracious-minded Fathers who take their pleasure in the feast with Yama.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अति। द्रव। श्वानौ। सारमेयौ। चतुःऽअक्षौ। शबलौ। साधुना। पथा। अध। पितॄन्। सुऽविदत्रान्। अपि। इहि। यमेन। ये। सधऽमादम्। मदन्ति। २.११।

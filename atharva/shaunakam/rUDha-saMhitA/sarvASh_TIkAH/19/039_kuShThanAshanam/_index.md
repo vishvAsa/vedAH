@@ -7,7 +7,6 @@ title = "०३९ कुष्ठनाशनम्"
 39. With kúṣṭha: against diseases.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कुष्ठनाशनम्।  
@@ -18,8 +17,6 @@ title = "०३९ कुष्ठनाशनम्"
 
 [Bhṛgvan̄giras.—daśakam. mantroktakuṣṭhadevatyam. ānuṣṭubham: 2, 3. pathyāpan̄kti; 4. 6-p. jagatī (2-4. 3-av.); 5. 7-p. śakvarī; 6-8. aṣṭi (5-8. 4-av.).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grohmann, Ind. Stud. ix. 392, 420-422 (parts); Ludwig, p. 198; Bloom
 
 A protective charm
 </details>
+

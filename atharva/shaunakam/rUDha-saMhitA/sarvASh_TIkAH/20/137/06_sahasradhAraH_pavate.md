@@ -8,7 +8,6 @@ title = "०६ सहस्रधारः पवते"
 Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, Lord of Opulence, the friend of Indra, day by day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽधारः। पवते। समुद्रः। वाचम्ऽईड्खयः। सोमः। पतिः। रयीणाम्। सखा। इन्द्रस्य। दिवेऽदिवे। १३७.६।

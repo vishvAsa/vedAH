@@ -8,7 +8,6 @@ title = "०५ ववक्ष इन्द्रो"
 Indra, impetuous One, hath waxed immensely: he with his vastness hath filled earth and heaven. E'en beyond this his majesty extendeth who hath exceeded all the worlds in greatness,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ववक्षे। इन्द्रः। अमितम्। ऋजीषी। उभे इति। आ। पप्रौ। रोदसी इति। महिऽत्वा। अतः। चित्। अस्य। महिमा। वि। रेचिः। अभि। यः। विश्वा। भुवना। बभूव। ७७.५।

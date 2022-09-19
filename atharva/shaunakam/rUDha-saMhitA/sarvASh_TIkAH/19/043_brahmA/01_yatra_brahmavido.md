@@ -23,7 +23,6 @@ our mss. also are divided between *-dhā́* and *-dhā́ṁ*. In the
 Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither let Agni lead me, let Agni give me intelligence, All hail to Agni!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। अग्निः। मा। तत्र। नयतु। अग्निः। मेधाः। दधातु। मे। अग्नये। स्वाहा। ४३.१।

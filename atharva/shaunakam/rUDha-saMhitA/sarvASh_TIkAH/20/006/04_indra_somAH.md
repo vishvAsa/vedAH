@@ -8,7 +8,6 @@ title = "०४ इन्द्र सोमाः"
 Lord of the brave, to thee proceed these drops of Soma juice expressed, The bright drops to thy dwelling-place.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। सोमाः। सुताः। इमे। तव। प्र। यन्ति। सत्ऽपते। क्षयम्। चन्द्रासः। इन्दवः। ६.४।

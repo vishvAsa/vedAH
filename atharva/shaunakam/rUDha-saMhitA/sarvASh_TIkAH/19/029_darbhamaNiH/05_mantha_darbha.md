@@ -18,7 +18,6 @@ About half the mss. accent *manthá*. The comm. gives, as if from the
 Shake thou, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मन्‍थ। दर्भ। सऽपत्नान्। मे। मन्थ। मे। पृतनाऽयतः। मन्थ। मे। सर्वान्। दुःऽहार्दः। मन्थ। मे। द्विषतः। मणे। २९.५।

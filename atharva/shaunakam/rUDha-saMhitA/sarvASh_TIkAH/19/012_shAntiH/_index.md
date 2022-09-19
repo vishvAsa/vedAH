@@ -7,7 +7,6 @@ title = "०१२ शान्तिः"
 12. For success and long life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
@@ -18,8 +17,6 @@ title = "०१२ शान्तिः"
 
 [Brahman (śāntikāmaḥ).—ekarcam. sāumyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 273; and by the RV. translators.
 
 A prayer to Ushas or Dawn for wealth and long life
 </details>
+

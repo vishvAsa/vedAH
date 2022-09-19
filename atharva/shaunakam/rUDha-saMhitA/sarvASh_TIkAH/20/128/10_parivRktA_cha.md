@@ -8,7 +8,6 @@ title = "१० परिवृक्ता च"
 The favourite wife neglected, and the man who safely shuns the fight, A sluggish horse whom none may guide, these things are order- ed in the rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परिवृक्ता। च। महिषी। स्वस्त्या। च। युधिंगमः। अनाशुरः। च। आयामी। तोता। कल्पेषु। संमिता। १२८.१०।

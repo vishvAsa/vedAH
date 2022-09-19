@@ -42,7 +42,6 @@ mulalaṁ sulapāyati sa saṁpiṣṭyo upāyati*. We had **d** above as iv. 3.
 His feet that he may walk no more, his hands that he may do no harm. The robber who comes hitherward goes crushed and mutilated hence, Goes hence, goes far away from us, goes hence and bears no spoil away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। पादौ। न। यथा। अयति। प्र। हस्तौ। न। यथा। अशिषत्। यः। मलिम्लुः। उपऽअयति। सः। सम्ऽपिष्टः। अप। अयति। अप। अयति। सुऽअपायति। शुष्के। स्थाणौ। अप। अयति। ४९.१०।

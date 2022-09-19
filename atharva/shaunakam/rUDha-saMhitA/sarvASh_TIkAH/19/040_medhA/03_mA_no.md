@@ -34,7 +34,6 @@ can be read as eight syllables in either form.
 Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us for lengthened life, propitious let the Mothers be.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। नः। मेधाम्। मा। नः। दीक्षाम्। मा। नः। हिंसिष्टम्। यत्। तपः। शिवाः। नः। शम्। सन्तु। आयुषे। शिवाः। भवन्तु। मातरः। ४०.३।

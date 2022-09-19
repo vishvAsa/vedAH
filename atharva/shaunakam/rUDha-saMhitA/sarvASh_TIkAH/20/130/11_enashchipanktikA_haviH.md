@@ -8,7 +8,6 @@ title = "११ एनश्चिपङ्क्तिका हविः"
 The ladle doth not hold apart the entrails and the clotted blood.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एनश्चिपङ्क्त‍िका। हविः। १३०.११।

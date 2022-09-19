@@ -8,7 +8,6 @@ title = "०१ तं ते"
 We sing this strong and wild delight of thine which conquers in the fray, Which, Caster of the Stone, gives room and shine like gold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। ते। मदम्। मणीमसि। वृषणम्। पृतऽसु। ससहिम्। ऊं इति। लोकऽकृत्नुम्। अद्रिऽवः। हरिऽश्रियम्। ६१.१।

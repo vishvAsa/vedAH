@@ -8,7 +8,6 @@ title = "०४ इन्द्रो मह्ना"
 With might hath Indra spread out heaven and earth, with power hath Indra lighted up the Sun. In Indra are all creatures closely held; in him meet the distilling Soma drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। मह्ना। रोदसी इति। पप्रथत्। शवः। इन्द्रः। सूर्यम्। अरोचयत्। इन्द्रे। ह। विश्वा। भुवनानि। येमिर। इन्द्रे। सुवानासः। इन्दवः। ११८.४।

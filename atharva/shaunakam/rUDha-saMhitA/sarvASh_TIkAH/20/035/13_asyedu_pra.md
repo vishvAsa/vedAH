@@ -8,7 +8,6 @@ title = "१३ अस्येदु प्र"
 Sing with new lauds his exploits wrought aforetime, the deeds of him, yea, him who moveth swiftly, When, hurling forth his weapons in the battle, he with impetuous wrath lays low the foemen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। ऊं इंति। प्र। ब्रूहि। पूर्व्याणि। तुरस्य। कर्माणि। नव्यः। उथ्यैः। युधे। यत्। इष्णानः। आयुधानि। ऋधायमाणः। निऽरिणाति। ३५.१३।

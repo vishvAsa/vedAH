@@ -8,7 +8,6 @@ title = "०४ सुतासो मधुमत्तमाः"
 The Somas very rich in sweets, for which the sieve is destined, flow, Effused, the source of Indra's joy. May your strong juices reach the Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुतासः। मधुमत्ऽतमाः। सोमाः। इन्द्राय। मन्दिनः। पवित्रऽवन्तः। अक्षरन्। देवान्। गच्छन्तु। वः। मदाः। १३७.४।

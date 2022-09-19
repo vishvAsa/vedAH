@@ -8,7 +8,6 @@ title = "०३ युञ्जन्ति हरी"
 With holy song they bind to the broad wide-yoked car the bay steeds of the rapid God, Bearers of India, yoked by prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युञ्जन्ति। हरी इति। इषिरस्य। गाथया। उरौ। रथे। उरुऽयुगे। इन्द्रऽवाहा। वचःऽयुजा। १००.३।

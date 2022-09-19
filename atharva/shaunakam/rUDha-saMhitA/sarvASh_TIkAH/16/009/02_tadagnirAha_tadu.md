@@ -23,7 +23,6 @@ sanctions only 21 syllables. The first pāda is also found as viii. 5. 5
 This word hath Agni, this hath Soma spoken. May Pushan set me in the world of virtue.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। अग्निः। आह। तत्। ऊं इति। सोमः। आह। पूषा। मा। धात्। सुऽकृतस्य। लोके। ९.२।

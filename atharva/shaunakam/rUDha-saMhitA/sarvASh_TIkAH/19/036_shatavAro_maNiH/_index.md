@@ -7,7 +7,6 @@ title = "०३६ शतवारो मणिः"
 36. With a śatávāra-amulet: for protection etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शतवारो मणिः।  
@@ -18,8 +17,6 @@ title = "०३६ शतवारो मणिः"
 
 [Brahman.—ṣaḍṛcam. śatavāradāivatam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 294.
 
 A charm against disease and evil spirits
 </details>
+

@@ -8,7 +8,6 @@ title = "०१ त्वं हि"
 For thou, O Indra, art the God whom hymns and praises magnify: Thou blessest those who worship thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। हि। स्तोमऽवर्धनः। इन्द्र। असि। उक्थऽवर्धनः। स्तोतृणाम्। उत। भद्रऽकृत्। २९.१।

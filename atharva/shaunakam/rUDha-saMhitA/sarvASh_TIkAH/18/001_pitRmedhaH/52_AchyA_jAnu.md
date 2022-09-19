@@ -25,7 +25,6 @@ redundant syllable in **b**.
 Bowing their bended knees and seated southward let all accept this sacrifice with favour. Punish us not for any sin, O fathers which we through human frailty have committed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽअच्य। जानु। दक्षिणतः। निऽसद्य। इदम्। नः। हविः। अभि। गृणन्तु। विश्वे। मा। हिंसिष्ट। पितरः। केन। चित्। नः। यत्। वः। आगः। पुरुषता। कराम। १.५२।

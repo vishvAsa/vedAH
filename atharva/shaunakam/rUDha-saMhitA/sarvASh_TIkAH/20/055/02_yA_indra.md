@@ -8,7 +8,6 @@ title = "०२ या इन्द्र"
 Indra, what joys as Lord of Light thou broughtest from the Asuras, Prosper therewith, O Maghavan, him who lauds that deed, and those whose grass is trimmed for thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याः। इन्द्र। भुजः। आ। अभरः। स्वःऽवान्। असुरेभ्यः। स्तोतारम्। इत्। मघऽवन्‌। अस्‍य। वर्धय। ये। च। त्वे इति। वृक्तऽबर्हिषः। ५५.२।

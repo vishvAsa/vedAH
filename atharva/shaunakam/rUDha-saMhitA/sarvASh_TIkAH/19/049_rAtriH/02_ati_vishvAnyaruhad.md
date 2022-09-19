@@ -85,7 +85,6 @@ iva svadhā́bhiḥ*.⌋
 Over all depths hath she gone up, and mounted, most mighty One, the sky's exalted summit. Over me now the loving Night is spreading with her auspicious. Godlike ways like Mitra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अति। विश्वानि। अरुहत्। गम्भीरः। वर्षिष्ठम्। अरुहन्त। श्रविष्ठाः। उशती। रात्री। अनु। सा। भद्रा। अभि। तिष्ठते। मित्रःऽइव। स्वधाभिः। ४९.२।

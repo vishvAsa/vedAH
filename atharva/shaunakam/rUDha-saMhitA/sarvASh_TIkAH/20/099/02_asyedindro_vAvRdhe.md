@@ -8,7 +8,6 @@ title = "०२ अस्येदिन्द्रो वावृधे"
 Indra increased his manly strength at sacrifice, in the wild rapture of this juice; And living men to-day, even as of old, sing forth their praises to his majesty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। इन्द्रः। ववृधे। वृष्ण्यम्। शवः। मदे। सुतस्य। विष्णवि। अद्य। तम्। अस्य। महिमानम्। आयवः। अनु। स्तुवन्ति। पूर्वऽथा। ९९.२।

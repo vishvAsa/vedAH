@@ -8,7 +8,6 @@ title = "०३ ब्रह्माणस्त्वा वयम्"
 We, Soma-bearing Brahmans, call thee, Soma-drinker, with thy friend, We, Indra, bringing juice expressed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्माणः। त्वा। वयम्। युजा। सोमऽपाम्। इन्द्र। सोमिनः। सुतऽवन्तः। हवामहे। ३८.३।

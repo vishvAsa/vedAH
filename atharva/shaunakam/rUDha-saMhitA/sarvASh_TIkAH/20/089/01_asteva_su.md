@@ -8,7 +8,6 @@ title = "०१ अस्तेव सु"
 Even as an archer shoots afar his arrow, offer the laud to him with meet adornment. Quell with your voice the wicked's voice, O sages, Singer, make Indra rest beside the Soma.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्ताऽइव। सु। प्रऽतरम्। लायम्। अस्यन्। भूषन्ऽइव। प्र। भर। स्तोमम्। अस्मै। वाचा। विप्राः। तरत। वाचम्। अर्यः। नि। रमय। जरितरित‍ि। सोमे। इन्द्रम्। ८९.१।

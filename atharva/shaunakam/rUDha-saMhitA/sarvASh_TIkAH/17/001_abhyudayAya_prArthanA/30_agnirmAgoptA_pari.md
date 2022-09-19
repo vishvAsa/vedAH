@@ -31,7 +31,6 @@ are found in several of W's mss. The quotation from the Old Anukr. is
 On every side let Agni guard and keep me; the rising Sun drive off the snares of Mrityu! Let brightly flushing Mornings, firm-set mountains, and lives a thousand be with me united.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निः। मा। गोप्ता। परि। पातु। विश्वतः। उत्ऽयन्। सूर्यः। नुदताम्। मृत्युऽपाशान्। विऽउच्छन्तीः। उषसः। पर्वताः। ध्रुवाः। सहस्रम्। प्राणाः। मयि। आ। यतन्ताम्। १.३०।

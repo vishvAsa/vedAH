@@ -8,7 +8,6 @@ title = "०४ यमिमं त्वम्"
 Soon may the hound who hunts the boar seize him and bite him in the ear, O Indra, that Vrishakapi whom thou protectest as a friend. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। इयम्। त्वम्। वृषाकपिम्। प्रियम्। इन्द्र। अभिरक्षसि। श्वा। नु। अस्य। जम्भिषत्। अपि। कर्णे। वराहऽयुः। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.४।

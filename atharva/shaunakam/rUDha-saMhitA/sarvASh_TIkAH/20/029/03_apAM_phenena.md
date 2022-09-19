@@ -8,7 +8,6 @@ title = "०३ अपां फेनेन"
 With waters' foam thou torest off, Indra, the head of Namuchi, Subduing all contending hosts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपाम्। फेनेन। नमुचेः। शिरः। इन्द्र। उत्। अवर्तयः। विश्वाः। यत्। अजयः। स्पृधः। २९.३।

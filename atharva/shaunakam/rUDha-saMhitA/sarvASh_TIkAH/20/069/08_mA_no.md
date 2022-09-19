@@ -8,7 +8,6 @@ title = "०८ मा नो"
 O Indra, thou who lovest song, let no man hurt our bodies, keep. Slaughter far from us, for thou canst.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। नः। मर्ताः। अभि। द्रुहन्। तनूनाम्। इन्द्र। गिर्वणः। ईशानः। यवय। वधम्। ६९.८।

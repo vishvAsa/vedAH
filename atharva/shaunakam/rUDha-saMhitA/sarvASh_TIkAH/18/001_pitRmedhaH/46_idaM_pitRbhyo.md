@@ -30,7 +30,6 @@ verse) is prescribed alone (80. 51) to accompany the scattering of
 Now be this homage offered to the Fathers, to those who passed of old and those who followed, Those who have rested in the earthly region and those who dwell among the happy races.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। पितृऽभ्यः। नमः। अस्तु। अद्य। ये। पूर्वासः। ये। अपरासः। ईयुः। ये। पार्थिवे। रजसि। आ। निऽसक्ताः। ये। वा। नूनम्। सुऽवृजनासु। दिक्षु। १.४६।

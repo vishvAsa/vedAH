@@ -8,7 +8,6 @@ title = "२१ ऊरुभ्यां ते"
 From what is voided from within, and from thy hair, and from thy nails, From all thyself, from top to toe, I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊरुऽभ्याम्। ते। अष्ठीवत्ऽभ्याम्। पार्ष्णिऽभ्याम्। प्रऽपदाभ्याम्। यक्ष्मम्। भसद्यम्। श्रोणिऽभ्याम्। भासदम्। भंससः। वि। वृहामि। ते। ९६.२१।

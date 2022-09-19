@@ -8,7 +8,6 @@ title = "०८ ते सत्येन"
 They, longing for the kine, with faithful spirit incited with their hymns the Lord of cattle. Brihaspati freed the radiant cows with comrades self-yoked,. averting shame from one another.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ते। सत्येन। धीभिः। मनसा। गोऽपतिम्। गाः। इयानासः। इषणयन्त। धीभिः। बृहस्पतिः। मिथःऽअवद्यपेभिः। उत्। उस्रियाः। असृजत। स्वयुक्ऽभिः। ९१.८।

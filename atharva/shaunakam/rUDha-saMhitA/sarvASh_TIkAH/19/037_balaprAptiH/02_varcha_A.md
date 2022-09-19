@@ -30,10 +30,9 @@ unusual restraint on his part.
 For mighty strength, for action, I receive thee, for manly power, to last a hundred autumns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-वर्चः। आ। धेहि। मे। तन्वाम्। सहः। ओजः। वयः। बलम्। इन्द्रियाय। त्वा। कर्मणे। वीर्याय। प्रति। गृह्णामि। शतऽशारदाय। ३७.२।
+वर्चः। आ। धेहि। मे। तन्वा᳡म्। सहः। ओजः। वयः। बलम्। इन्द्रियाय। त्वा। कर्मणे। वीर्या᳡य। प्रति। गृह्णामि। शतऽशारदाय। ३७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -34,7 +34,6 @@ beautiful
 To thee, O Fathers, be this cry of Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। ते। तत। स्वधा। ४.७७।

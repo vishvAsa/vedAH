@@ -8,7 +8,6 @@ title = "०५ अन्तश्चरति रोचना"
 As expiration from breath she moves along the lucid spheres: The Bull shines forth through all the sky.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः। ४८.५।

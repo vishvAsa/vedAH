@@ -8,7 +8,6 @@ title = "१५ सूर्यो देवीमुषसम्"
 Even as a lover followeth a maiden, so doth the Sun the Dawn, refulgent Goddess: Where pious men extend their generations before the Gracious One for happy fortune.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सूर्यः। देवीम्। उषसम्। रोचमानाम्। मर्यः। न। योषाम्। अभि। एति। पश्चात्। यत्र। नरः। देवऽयन्तः। युगानि। विऽतन्वते। प्रति। भद्राय। भद्रम्। १०७.१५।

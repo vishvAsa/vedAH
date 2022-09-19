@@ -24,7 +24,6 @@ the word, and holds that *irā́* is the true AV. reading.⌋ Some mss.
 In the western region Ira is his leman, Laughter his panegyrist, knowledge, etc., as above. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ईरा। पुंश्चली। हसः। मागधः। विऽज्ञानम्। वासः। अहः। उष्णीषम्। रात्री। केशाः। हरितौ। प्रऽवर्तौ। कल्मलिः। मणिः। २.१९।

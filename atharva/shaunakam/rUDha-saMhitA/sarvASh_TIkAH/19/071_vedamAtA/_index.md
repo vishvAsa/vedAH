@@ -7,7 +7,6 @@ title = "०७१ वेदमाता"
 71. For various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वेदमाता।  
@@ -18,8 +17,6 @@ title = "०७१ वेदमाता"
 
 [Brahman.—ekarcam. gāyatrīdāivalam. 3-av. 5-f. atijagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Zimmer, p. 204; Griffith, ii. 320.
 
 A hymn, accompanying libations, for wealth and prosperity
 </details>
+

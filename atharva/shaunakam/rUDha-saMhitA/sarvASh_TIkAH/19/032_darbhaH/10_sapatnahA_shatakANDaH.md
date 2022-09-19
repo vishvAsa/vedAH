@@ -28,7 +28,6 @@ second half. ⌊Pāda **c** is identical with 33. 1 **c**.⌋
 First of all plants it sprang into existence, victorious, hundred- stemmed, the foe-subduer, So may this Darbha from all sides protect us: with this may I subdue our foes in battle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सपत्नऽहा। शतऽकाण्डः। सहस्वान्। ओषधीनाम्। प्रथमः। सम्। बभूव। सः। नः। अयम्। दर्भः। परि। पातु। विश्वतः। तेन। साक्षीय। पृतनाः। पृतन्यतः। ३२.१०।

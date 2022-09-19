@@ -8,7 +8,6 @@ title = "०३ इमा ब्रह्म"
 These prayers, O thou who bearest prayer, are offered. Seat thee on the grass. Hero, enjoy the offered cake.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमा। ब्रह्म। ब्रह्मऽवाहः। क्रियन्ते। आ। बर्हिः। सीद। वीहि। शूर। पुरोलाशम्। २३.३।

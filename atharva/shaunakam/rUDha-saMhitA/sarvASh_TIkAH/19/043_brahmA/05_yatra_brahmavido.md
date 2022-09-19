@@ -19,7 +19,6 @@ part of the text of verse 4 and of this.
 Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hail to Soma!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। सोमः। मा। तत्र। नयतु। पयः। सोमः। दधातु। मे। सोमाय। स्वाहा। ४३.५।

@@ -8,7 +8,6 @@ title = "०८ एमेनं सृजता"
 To Indra pour ye forth the juice, the active gladdening juice, to him The gladdening omnific God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। ईम्। एनम्। सृजत। सुते। मन्दिम्। इन्द्राय। मन्दिने। चक्रिम्। विश्वानि। चक्रये। ७१.८।

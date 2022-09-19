@@ -8,7 +8,6 @@ title = "०२ इहेत्थ प्रागपागुदगधराग
 Here east and west and north and south sit the calves sprinkling Curds and oil.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। वत्साः। पुरुषन्त। आसते। १३४.२।

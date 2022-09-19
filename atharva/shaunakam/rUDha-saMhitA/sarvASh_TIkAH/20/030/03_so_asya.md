@@ -8,7 +8,6 @@ title = "०३ सो अस्य"
 His is that thunderbolt, of iron, golden-hued, gold-coloured, very dear, and yellow in his arms; Bright with strong teeth, destroying with its tawny rage. In Indra are set fast all forms of golden hue.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। अस्य। वज्रः। हरितः। यः। आयसः। हरिः। निकामः। हरिः। आ। गभस्त्योः। द्युम्नी। सुऽशिप्रः। हरिमन्युऽसायकः। इन्द्रे। नि। रूपा। हरिता। मिमिक्षिरे। ३०.३।

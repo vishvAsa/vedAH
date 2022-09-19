@@ -17,7 +17,6 @@ is this cleansing one ('wind').
 His right ear is Agni and his left ear is Pavamana.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। अस्य। दक्षिणः। कर्णः। अयम्। सः। अग्निः। यः। अस्य। सव्यः। कर्णः। अयम्। सः। पवमानः। १८.३।

@@ -8,7 +8,6 @@ title = "०२ तमिन्द्र मदमा"
 Come, Indra, to this gladdening drink, placed on the grass, pressed out with stones: Wilt thou not drink thy fill thereof?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। इन्द्र। मदम्। आ। गहि। बर्हिःऽस्थाम्। ग्रावऽभिः। सुतम्। कुवित्। नु। अस्य। तृप्णवः। २४.२।

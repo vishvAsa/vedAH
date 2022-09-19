@@ -8,7 +8,6 @@ title = "०६ त्वे क्रतुमपि"
 All concentrate on thee their mental vigour, what time these, twice or thrice, are thine assistants. Blend what is sweeter than the sweet with sweetness: win quickly with our meath that meath in battle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वे इति। क्रतुम्। अपि। पृञ्चन्ति। भूरि। द्विः। यत्। एते। त्रिः। भ‍वन्ति। ऊमाः। स्वादो। स्वादीयः। स्वादुना। सृज। सम्। अदः। सु। मधु। मधुना। अभि। योधीः। १०७.६।

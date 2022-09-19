@@ -27,7 +27,6 @@ authorities; of our mss., only O.Op.R.K. have *śṛtám*. The comm. has
 Let all thy rapid flames, O Jatavedas, wherewith thou fillest heaven and earth's mid-region, Follow the goat as he goes on, united: then with the others, most auspicious, aid us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 याः। ते। शोचयः। रंहयः। जातऽवेदः। याभिः। आऽपृणासि। दिवम्। अन्तरिक्षम्। अजम्। यन्तम्। अनु। ताः। सम्। ऋण्वताम्। अथ। इतराभिः। शिवऽतमाभिः। शृतम्। कृधि। २.९।

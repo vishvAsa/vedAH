@@ -8,7 +8,6 @@ title = "११ वावाता च"
 The favourite wife most dearly loved, the man who safely goes to war, The fleet steed who obeys the rein, these things are ordered in the rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वावाता। च। महिषी। स्वस्त्या। च। युधिंगमः। श्वाशुरः। च। अयामी। तोता। कल्पेषु। संमिता। १२८.११।

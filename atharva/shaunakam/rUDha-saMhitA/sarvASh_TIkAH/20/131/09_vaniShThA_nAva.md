@@ -8,7 +8,6 @@ title = "०९ वनिष्ठा नाव"
 Undecked with gems, and decked with gems: deity rivalling the Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वनिष्ठाः। न। अव। गृह्यन्‍त‍ि। १३१.९।

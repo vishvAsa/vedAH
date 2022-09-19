@@ -8,7 +8,6 @@ title = "०२ अर्वाचीनं सु"
 O Indra, Lord of Hundred Powers, may those who praise thee hitherward. Direct thy spirit and thine eye.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्वाचीनम्। सु। ते। मनः। उत। चक्षुः। शतक्रतो इति शतऽक्रतो। इन्द्र। कृण्वन्तु। वाघतः। १९.२।

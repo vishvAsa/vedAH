@@ -31,7 +31,6 @@ uses.
 Mitra and Varuna have stood about me. Adityas, Sacirifical Posts exalt me! May Indra balm my hands with strength and splendour. A long, long life may Savitar vouchsafe me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मित्रावरुणा। परि। माम्। अधाताम्। आदित्याः। मा। स्वरवः। वर्धयन्तु। वर्चः। मे। इन्द्रः। नि। अनक्तु। हस्तयोः। जरत्ऽअष्टिम्। मा। सविता। कृणोतु। ३.१२।

@@ -8,7 +8,6 @@ title = "०७ एवैवापागपरे सन्तु"
 So be the others, evil-hearted, far away, whose horses difficult to harness have been yoked. Here in advance man stand anear to offer gifts, by whom full many a work that brings reward is done.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। एव। अपाक्। अपरे। सन्तु। दुःऽध्यः। अश्वाः। येषाम्। दुःऽयुजः। आऽयुयुजे। इत्था। ये। प्राक्। उपरे। ‍सन्ति। दावने। पुरूणि। यत्र। वयुनानि। भोजना। ९४.७।

@@ -8,7 +8,6 @@ title = "०१ श्रायन्त इव"
 Turning, as 'twere, to meet the Sun, enjoy from Indra all good things. When he who will be born is born with power we look to treasures as our heritage.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्रायन्तःऽइव। सूर्यम्। विश्वा। इत्। इन्द्रस्य। भक्षत। वसूनि। जाते। जनमाने। ओजसा। प्रत‍ि। भागम्। न। दीधिम। ५८.१।

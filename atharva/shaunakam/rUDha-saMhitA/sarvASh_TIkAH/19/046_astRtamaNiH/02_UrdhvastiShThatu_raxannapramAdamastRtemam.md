@@ -33,7 +33,6 @@ apparently means us to scan thus: 11 + 4 + 11: 15 + 8 + 8 = 57.
 Erect, invincible, be this man's watchful keeper: let not the Panis or the sorcerers harm thee. Shake off thy foes as Indra scattered Dasyus: quell all enemies. Invincible, let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्ध्वः। तिष्ठतु। रक्षन्। अप्रऽमादम्। अस्तृतः। इमम्। मा। त्वा। दभन्। पणयः। यातुऽधानाः। इन्द्रःऽइव। दस्यून्‌। अव। धूनूष्व। पृतन्यतः। सर्वान्। शत्रून्। वि। सहस्व। अस्तृतः। त्वा। अभि। रक्षतु। ४६.२।

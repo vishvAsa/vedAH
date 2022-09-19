@@ -40,7 +40,6 @@ the Prāt. iii. 56.⌋
 Go hence, depart ye, fly in all directions. This world for him the Fathers have provided. Yama bestow upon this man a dwelling adorned with days and beams of light and waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। इत। वि। इत। तवि। च। सर्पत। अतः। अस्मै। एतम्। पितरः। लोकम्। अक्रन्। अहःऽभिः। अत्ऽभिः। अक्तुऽभिः। विऽअक्तम्। यमः। ददाति। अवऽसानम्। अस्मै। १.५५।

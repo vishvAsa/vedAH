@@ -25,7 +25,6 @@ three different and equally worthless explanations. To *indriya* he says
 Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds. Let Vayu keep thee safe with prayer, and Indra with his mighty power.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गोभिः। त्वा। पातु। ऋषभः। वृषा। त्वा। पातु। वाजिऽभिः। वायुः। त्वा। ब्रह्मणा। पातु। इन्द्रः। त्वा। पातु। इन्द्रियैः। २७.१।

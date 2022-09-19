@@ -45,7 +45,6 @@ connection with the strewing and covering of the bone-relics.
 What wound soe'er the dark bird hath inflicted, the emmet, or the serpent, or the jackal, May Agni who devoureth all things heal it, and Soma, who hath passed into the Brahmans.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। ते। कृष्णः। शकुनः। आऽतुतोद। पिपीलः। सर्पः। उत। वा। श्वापदः। अग्निः। तत्। विश्वऽअत्। अगदम्। कृणोतु। सोमः। च। य। ब्राह्मणान्। आऽविवेश। ३.५५।

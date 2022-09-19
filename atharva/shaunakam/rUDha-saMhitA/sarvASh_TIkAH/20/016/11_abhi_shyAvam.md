@@ -8,7 +8,6 @@ title = "११ अभि श्यावम्"
 Like a dark steed adorned with pearl, the Fathers have decorat- ed heaven with constellations. They set the light in day, in night the darkness, Brihaspati cleft the rock and found the cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। श्यावम्। न। कृशनेभि ः। अश्वम्। नक्षत्रेभिः। पितरः। द्याम्। अपिंशन्। रात्र्याम्। तमः। अदधुः। ज्योतिः। अहन्। बृहस्पतिः। भिनत्। अद्रिम्। विदत्। गाः। १६.११।

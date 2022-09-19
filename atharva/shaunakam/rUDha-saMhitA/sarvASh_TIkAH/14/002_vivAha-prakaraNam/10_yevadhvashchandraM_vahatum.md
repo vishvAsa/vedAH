@@ -22,7 +22,7 @@ Consumptions, which, through various folk, attack the bride's resplendent train,
 
 <details open><summary>पदपाठः</summary>
 
-ये। वध्वः। चन्द्रम्। वहतुम्। यक्ष्माः। यन्ति। जनान्। अनु। पुनः। तान्। यज्ञियाः। देवाः। नयन्तु। यतः। आऽगताः। १.१०।
+ये। वध्वः᳡। चन्द्रम्। वहतुम्। यक्ष्माः। यन्ति। जनान्। अनु। पुनः। तान्। यज्ञियाः। देवाः। नयन्तु। यतः। आऽगताः। १.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

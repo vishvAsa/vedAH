@@ -28,7 +28,7 @@ We pour this third libation of the Sages who fashioned forth the cup in proper o
 
 <details open><summary>पदपाठः</summary>
 
-इदम्। तृतीयम्। सवनम्। कवीनाम्। ऋतेन। ये। चमसम्। ऐरयन्त। ते। सौधन्वनाः। स्वः। आनशानाः। सुऽइष्टिम्। नः। अभि। वस्यः। नयन्तु। ४७.३।
+इदम्। तृतीयम्। सवनम्। कवीनाम्। ऋतेन। ये। चमसम्। ऐरयन्त। ते। सौधन्वनाः। स्वः᳡। आनशानाः। सुऽइष्टिम्। नः। अभि। वस्यः। नयन्तु। ४७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

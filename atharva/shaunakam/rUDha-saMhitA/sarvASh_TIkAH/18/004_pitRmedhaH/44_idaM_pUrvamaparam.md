@@ -28,7 +28,6 @@ full *triṣṭubh*. Its second pāda is identical with 1. 54 **b**.
 This is the ancient, this the recent pathway, by which thy sires of olden time departed. They who first travelled it, and they who followed, convey thee to the world where dwell the righteous.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। पूर्वम्। अपरम्। निऽयानम्। येन। ते। पूर्वे। पितरः। पराऽइताः। पुरःऽगवाः। ये। अभिऽशाचः। अस्य। ते। त्वा। वहन्ति। सुऽकृताम्। ऊं इति। लोकम्। ४.४४।

@@ -30,7 +30,6 @@ The verse lacks only one syllable of being a regular *triṣṭubh* (11 +
 Knowing the world of living beings, Aghnya! treading the path. of Gods which lies before thee, This is thy husband: joyfully receive him and let him mount into the world of Svarga.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रऽजानती। अघ्न्ये। जीवऽलोकम्। देवानाम्। पन्थाम्। अनुऽसंचरन्ती। अयम्। ते। गोऽपतिः। तम्। जुषस्व। स्वःऽगम्। लोकम्। अधि। रोहय। एनम्। ३.४।

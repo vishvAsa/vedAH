@@ -16,7 +16,6 @@ title = "०५ तस्य व्रात्यस्य"
 His fifth diffused breath are the Seasons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। पञ्चमः। विऽआनः। ते। ऋतवः। १७.५।

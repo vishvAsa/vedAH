@@ -8,7 +8,6 @@ title = "०३ यदुदीरत आजयो"
 When war and battles are on foot, booty is laid before the bold. Yoke thou thy wildly rushing Bays. Whom wilt thou slay and whom enrich? Do thou, O Indra, make us rich,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। उत्ऽईरते। आजयः। धृष्णवे। धीयते। धना। युक्ष्व। मदऽच्युता। हरी इति। कम्। हनः। कम्। वसौ। दधः। अस्मान्। इन्द्र। वसौ। दधः। ५६.३।

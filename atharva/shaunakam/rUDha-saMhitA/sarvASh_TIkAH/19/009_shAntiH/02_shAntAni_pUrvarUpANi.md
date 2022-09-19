@@ -23,7 +23,6 @@ from necessary or certain.
 Gentle be signs of coming change, and that which is and is not. done! Gentle be past and future, yea, let all be gracious unto us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शान्तानि। पूर्वऽरूपाणि। शान्तम्। नः। अस्तु। कृतऽअकृतम्। शान्तम्। भूतम्। च। भव्यम्। च। सर्वम्। एव। शम्। अस्तु। नः। ९.२।

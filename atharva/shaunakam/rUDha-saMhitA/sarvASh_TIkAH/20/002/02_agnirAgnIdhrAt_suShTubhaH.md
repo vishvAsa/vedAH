@@ -8,7 +8,6 @@ title = "०२ अग्निराग्नीध्रात् सुष्
 Let Agni from the Kindler's cup drink Trishtups, according to the season Soma from heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निः। आग्नीध्रात्। सुऽस्तुभः। सुऽअर्कात्। ऋतुना। सोमम्। पिबतु। २.२।

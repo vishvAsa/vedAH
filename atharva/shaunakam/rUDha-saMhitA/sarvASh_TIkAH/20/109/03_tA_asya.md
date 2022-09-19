@@ -8,7 +8,6 @@ title = "०३ ता अस्य"
 With veneration, passing wise, honouring his victorious might, They follow close his many laws to win them due preeminence, good in their own supremacy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ताः। अस्य। नमसा। सह। सपर्यन्ति। प्रऽचेतसः। व्रतानि। अस्य। सश्चिरे। पुरूणि। पूर्वऽचित्तये। वस्वीः। अनु। स्वऽराज्यम्। १०९.३।

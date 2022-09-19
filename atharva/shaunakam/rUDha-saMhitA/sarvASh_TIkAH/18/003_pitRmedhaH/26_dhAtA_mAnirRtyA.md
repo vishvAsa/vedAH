@@ -17,7 +17,6 @@ arm-moved etc. etc.
 Dhatar with Nirriti save me from southward, etc. (as in stanza 25).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धाता। मा। निःऽऋत्याः। दक्षिणायाः। दिशः। पातु। बाहुऽच्युता। पृथिवी। द्याम्ऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.२६।

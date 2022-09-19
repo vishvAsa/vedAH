@@ -16,7 +16,6 @@ title = "११ चतुर्दशर्चेभ्यः स्वाहा
 Hail to the fourteen-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चतुर्दशऽऋचेभ्यः। स्वाहा। २३.११।

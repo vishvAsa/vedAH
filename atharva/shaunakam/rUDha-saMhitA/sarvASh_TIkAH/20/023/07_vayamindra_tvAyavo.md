@@ -8,7 +8,6 @@ title = "०७ वयमिन्द्र त्वायवो"
 We, Indra, dearly loving thee, bearing oblation, sing thee hymns: Thou, Vasu, nearly lovest us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। इन्द्र। त्वाऽयवः। हविष्मन्तः। जरामहे। उत। त्वम्। अस्मऽयुः। वसो इति। २३.७।

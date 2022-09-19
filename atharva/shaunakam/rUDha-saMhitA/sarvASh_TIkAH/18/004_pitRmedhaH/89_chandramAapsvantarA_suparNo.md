@@ -38,7 +38,6 @@ Anukr. says *ekonanavatiś cāi ’va yameṣu vihitā ṛcaḥ:* cf. pages 814 
 Within the waters runs the Moon, the strong-winged Eagle soars. in heaven. Ye Lightnings with your golden wheels, men find not your abid- ing-place. Hear this my call, O Heaven and Earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चन्द्रमाः। अप्ऽसु। अन्तः। आ। सुऽपर्णः। धावते। दिवि। न। वः। हिरण्यऽनेमयः। पदम्। विन्दन्ति। विऽद्युतः। वित्तम्। मे। अस्य। रोदसी इति। ४.८९।

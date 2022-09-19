@@ -21,7 +21,6 @@ In Ppp. the initial *a* of *atisṛṣṭās* is not elided.
 The Bull of the Waters hath been let go; the heavenly fires have been let go.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अतिऽसृष्टः। अपाम्। वृषभः। अतिऽसृष्टः। अग्नयः। दिव्याः। १.१।

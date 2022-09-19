@@ -7,7 +7,6 @@ title = "०१७ सुरक्षा"
 17. For protection: to various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
@@ -18,8 +17,6 @@ title = "०१७ सुरक्षा"
 
 [Atharvan.—daśakam. pratyṛcam mantroktadevatyam. jāgatam: 5, 7, 10. atijagatī; 6. bhurij; 9. 5-p. atiśakvarī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 276.
 
 A prayer for protection from dangers in all directions
 </details>
+

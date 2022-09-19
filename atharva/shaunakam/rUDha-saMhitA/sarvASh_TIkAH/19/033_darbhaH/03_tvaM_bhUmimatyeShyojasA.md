@@ -31,7 +31,6 @@ see Bloomfield's notes to the passages of Kāuś.⌋
 Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the altar. The Rishis bear thee as a purifier: cleanse thou us from all evil deeds' defilement.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। भूमिम्। अति। एषि। ओजसा। त्वम्। वेद्याम्। सीदसि। चारुः। अध्वरे। त्वाम्। पवित्रम्। ऋषयः। अभरन्त। त्वम्। पुनीहि। दुःऽइतानि। अस्मत्। ३३.३।

@@ -40,7 +40,6 @@ water without touching earth! The verse does not need to be scanned as
 The speed of rivers craving heaven and cane, thou, Agni, art the waters' gall.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। द्याम्। उप। वेतसम्। अवत्ऽतरः। नदीनाम्। अग्ने। पित्तम्। अपाम्। असि। ३.४।

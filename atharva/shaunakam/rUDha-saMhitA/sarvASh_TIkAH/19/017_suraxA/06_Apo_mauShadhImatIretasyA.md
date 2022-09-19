@@ -17,7 +17,6 @@ quarter: in them I...; let them defend...; to them I etc. etc.
 May Waters joined with Plants protect me from this region. To them I go, in them I rest: this fort I seek for refuge. May they protect me, may they be my guardians. I give my soul--All hail! --into their keeping.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आपः। मा। ओषधीऽमतीः। एतस्याः। दिशः। पान्तु। तासु। क्रमे। तासु। श्रये। ताम्। पुरम्। प्र। एमि। ताः। मा। रक्षन्तु। ताः। मा। गोपायन्तु। ताभ्यः। आत्मानम्। परि। ददे। स्वाहा। १७.६।

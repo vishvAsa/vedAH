@@ -16,7 +16,6 @@ title = "७९ स्वधा पितृभ्यो"
 Hail to the Fathers who inhabit the firmament!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वधा। पितृऽभ्यः। अन्तर‍िक्षसत्ऽभ्यः। ४.७९।

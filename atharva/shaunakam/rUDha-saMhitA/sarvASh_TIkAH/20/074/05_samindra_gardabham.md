@@ -8,7 +8,6 @@ title = "०५ समिन्द्र गर्दभम्"
 Destroy this ass, O Indra, who in tones discordant brays to thee: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। इन्द्र। गर्दभम्। मृण। नुवन्तम्। पापया। अमुया। आ। तु। नः। इन्द्र। शंसय। गोषु। अश्वेषु। शुभ्रिषु। सहस्रेषु। तुविऽमघ। ७४.५।

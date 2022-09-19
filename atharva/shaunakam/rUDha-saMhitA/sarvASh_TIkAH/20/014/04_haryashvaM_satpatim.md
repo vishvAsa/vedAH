@@ -8,7 +8,6 @@ title = "०४ हर्यश्वं सत्पतिम्"
 Borne by bay steeds, the Lord of heroes, ruling men, for it is he who takes delight. The Bounteous Lord bestows on us his worshippers hundreds of cattle and of steeds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरिऽअश्वम्। सत्ऽपतिम्। चर्षणिऽसहम्। सः। हि। स्म। यः। अमन्दत। आ। तु। नः। सः। वयति। गव्यति। गव्यम्। अश्व्यम्। स्तोतृऽभ्यः। मघऽवा। शतम्। १४.४।

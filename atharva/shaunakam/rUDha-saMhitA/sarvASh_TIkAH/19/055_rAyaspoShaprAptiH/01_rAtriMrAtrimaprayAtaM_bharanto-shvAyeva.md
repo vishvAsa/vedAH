@@ -79,7 +79,6 @@ sukhaya;* that is all.
 Bringing, as 'twere, with care unceasing fodder night after night to feed this stabled Courser, Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रात्रिम्ऽरात्रिम्। अप्रऽयातम्। भरन्तः। अश्वायऽइव। तिष्ठते। घासम्। अस्मै। रायः। पोषेण। सम्। इषा। मदन्तः। मा। ते। अग्ने। प्रतिऽवेशाः। रिषाम। ५५.१।

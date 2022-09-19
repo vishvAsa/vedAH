@@ -22,7 +22,6 @@ compare ii. 4. 6, which is nearly the same.
 This counteracts the sorceress, this banishes malignity: Then may victorious Jangida's prolong the days we have to live.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कृत्याऽदूषणः। एव। अयम्। अथो इति। अरातिऽदूषणः। अथो इति। सहस्वान्। जङ्गिडः। प्र। नः। आयूंषि। तारिषत्। ३४.४।

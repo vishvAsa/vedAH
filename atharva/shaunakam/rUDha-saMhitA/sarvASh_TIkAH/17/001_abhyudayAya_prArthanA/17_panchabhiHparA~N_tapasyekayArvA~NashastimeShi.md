@@ -25,10 +25,9 @@ in **a** in order to make 58 syllables in the verse.
 With five thou sendest heat: with one removing the curse thou comest in bright sunshine hither. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-पञ्चऽभिः। पराङ्। तपसि। एकया। अवाङ्। अशस्तिम्। एषि। सुऽदिने। बाधमानः। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१७।
+पञ्चऽभिः। पराङ्। तपसि। एकया। अवाङ्। अशस्तिम्। एषि। सुऽदिने। बाधमानः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

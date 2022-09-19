@@ -7,7 +7,6 @@ title = "०१८ सुरक्षा"
 18. For protection: to various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
@@ -18,8 +17,6 @@ title = "०१८ सुरक्षा"
 
 [Atharvan.—daśaham. pratyṛcam mantroktadevatyam. dvāipadam: 1, 8. sāmnī triṣṭubh; 2-6. ārcy anuṣṭubh (5. samrāj ⌊intending svarāj?⌋); 7, 9, 10. prājāpatyā triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 277.
 
 A prayer for security and peace on all sides
 </details>
+

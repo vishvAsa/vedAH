@@ -8,7 +8,6 @@ title = "११ सत्यमाशिषं कृणुता"
 Fulfil the prayer that begs for vital vigor: aid in your wonted manner e'en the humble. Let all our foes be turned and driven backward. Hear this, O Heaven and Earth, ye all-producers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सत्याम्। आऽशिषम्। कृणुत। वयःऽधै। कीरिम्। चित्। हि। अवथ। स्वेभिः। एवैः। पश्चा। मृधः। अप। भवन्तु। विश्वाः। तत्। रोदसी इति। शृणुतम्। विश्वमिन्वे इति विश्वम्ऽइन्वे। ९१.११।

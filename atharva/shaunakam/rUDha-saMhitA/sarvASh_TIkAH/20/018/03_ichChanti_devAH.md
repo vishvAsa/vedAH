@@ -8,7 +8,6 @@ title = "०३ इच्छन्ति देवाः"
 The Gods seek him who presses out the Soma; they desire not sleep: Incessantly they punish sloth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इच्छन्ति। देवाः। सुन्वन्तम्। न। स्वप्नाय। स्पृहयन्ति। यन्ति। प्रऽमादम्। अतन्द्रा। १८.३।

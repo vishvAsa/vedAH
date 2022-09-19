@@ -17,7 +17,6 @@ to your sap.
 Hail, Fathers, to your energy! Hail, Fathers, to your sap!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नमः। वः। पितरः। ऊर्जे। नमः। वः। पितरः। रसाय। ४.८१।

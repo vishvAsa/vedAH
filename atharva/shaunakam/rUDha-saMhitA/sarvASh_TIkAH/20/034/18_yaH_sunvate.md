@@ -8,7 +8,6 @@ title = "१८ यः सुन्वते"
 Thou verily art true strong God who sendest wealth to the man who brews and pours libation. So may we evermore, thy friends, O Indra, address the synod with brave sons about us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। सुन्वते। पचते। दुध्रः। आ। चित्। वाजम्। दर्दर्षि। सः। किल। असि। सत्यः। वयम्। ते। इन्द्र। विश्वह। प्रियासः। सुऽवीरासः। विदथम्। आ। वदेम। ३४.१८।

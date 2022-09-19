@@ -23,10 +23,9 @@ properly as 5 × 8 and 34; but pāda **a** may be read as 6⌋.
 Be thou most gracious unto us, Indra, with favourable aid, Rising to heaven's third sphere, invoked with song to quaff the Soma juice, loving thy home to make us blest. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। इन्द्र। ऊतिऽभिः। शिवाभिः। शम्ऽतमः। भव। आऽरोहन्। त्रिऽदिवम्। दिवः। गृणानः। सोमऽपीतये। प्रियऽधामा। स्वस्तये। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन। १.१०।
+त्वम्। नः। इन्द्र। ऊतिऽभिः। शिवाभिः। शम्ऽतमः। भव। आऽरोहन्। त्रिऽदिवम्। दिवः। गृणानः। सोमऽपीतये। प्रियऽधामा। स्वस्तये। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन। १.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

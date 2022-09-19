@@ -8,7 +8,6 @@ title = "०६ प्र रेभ"
 O Singer, bring thou forth the hymn that findeth cattle, findeth: wealth. Even as an archer aims his shaft address this prayer unto the Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। रेभ। भरस्व। गोविदम्। वसुविदम्। देवऽत्रा। इमाम्। वाचम्। त्रीणीहि। इषुः। न। अर्वीः। अस्तारम्। १२७.६।

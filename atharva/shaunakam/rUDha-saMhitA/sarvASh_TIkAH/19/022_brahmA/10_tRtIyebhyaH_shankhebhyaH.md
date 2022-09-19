@@ -22,7 +22,6 @@ xviii. 3. 47.—Two of W's later collated mss., D.L., have rightly
 To the third shells, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तृतीयेभ्यः। शङ्खेभ्यः। स्वाहा। २२.१०।

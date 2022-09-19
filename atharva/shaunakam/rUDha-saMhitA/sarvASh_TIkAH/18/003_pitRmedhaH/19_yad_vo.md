@@ -35,7 +35,6 @@ avasāna is before *bhūtám*, not after it⌋.
 Fathers, be glorious in yourselves, and follow all that is glad in you and meet for Soma. Give ear and listen, swiftly-moving Sages, benevolent, invoked in our assembly.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वः। मुद्रम्। पितरः। सोम्यम्। च। तेनो इति। सचध्वम्। स्वऽयशसः। हि। भूत। ते। अर्वाणः। कवयः। आ। शृणोत। सुऽविदत्राः। विदथे। हूयमानाः। ३.१९।

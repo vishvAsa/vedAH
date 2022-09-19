@@ -23,7 +23,7 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 
 <details open><summary>पदपाठः</summary>
 
-आपः। अग्रम्। दिव्याः। ओषधयः। ताः। ते। यक्ष्मम्। एनस्यम्। अङ्गात्ऽअङ्गात्। अनीनशन्। ७.३।
+आपः। अग्रम्। दिव्याः। ओषधयः। ताः। ते। यक्ष्मम्। एनस्य᳡म्। अङ्गात्ऽअङ्गात्। अनीनशन्। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

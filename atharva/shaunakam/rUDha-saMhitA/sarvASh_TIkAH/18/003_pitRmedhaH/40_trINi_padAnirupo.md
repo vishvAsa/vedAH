@@ -44,7 +44,6 @@ be added that W's O. gives *-padīmáṁnvāítád*, and his Op. *ánu: āitát*
 Three paces hath the stake gone up, and followed her, the four- footed, with devout observance. He with the Syllable copies the praise-song; he thoroughly purifies at Order's centre.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रीणि। पदानि। रुपः। अनु। अरोहत्। चतुःऽपदीम्। अनु। एतत्। व्रतेन। अक्षरेण। प्रति। मिमीते। अर्कम्। ऋतस्य। नाभौ। अभि। सम्। पुनाति। ३.४०।

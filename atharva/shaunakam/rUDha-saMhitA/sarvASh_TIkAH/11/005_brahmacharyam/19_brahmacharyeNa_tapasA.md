@@ -21,7 +21,7 @@ By Fervour and by self-restraint the Gods draye Death away from them, And Indra 
 
 <details open><summary>पदपाठः</summary>
 
-ब्रह्मऽचर्येण। तपसा। देवाः। मृत्युम्। अप। अघ्नत। इन्द्रः। ह। ब्रह्मऽचर्येण। देवेभ्यः। स्वः। आ। अभरत्। ७.१९।
+ब्रह्मऽचर्येण। तपसा। देवाः। मृत्युम्। अप। अघ्नत। इन्द्रः। ह। ब्रह्मऽचर्येण। देवेभ्यः। स्वः᳡। आ। अभरत्। ७.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

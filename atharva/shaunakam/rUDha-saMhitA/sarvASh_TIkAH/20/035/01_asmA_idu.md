@@ -8,7 +8,6 @@ title = "०१ अस्मा इदु"
 To him, to him swift, strong, and high-exalted, I bring my song of praise as dainty viands; My thought to him resistless, meet for praises, prayers offered most devotedly to Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। प्र। तवसे। तुराय। प्रयः। न। हर्मि। स्तोमम्। माहिनाय। ऋचीषमाय। अध्रिऽगवे। ओहम्। इन्द्राय। ब्रह्माणि। रातऽतमा। ३५.१।

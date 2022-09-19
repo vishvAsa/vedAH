@@ -8,7 +8,6 @@ title = "२० अन्त्रेभ्यस्ते गुदाभ्य
 From thighs, from knee-caps, and from heels, and from the forepart of the feet, From hips, from stomach, and from groin, I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आन्त्रेभ्यः। ते। गुदाभ्यः। वनिष्ठोः। उदरात्। अधि। यक्ष्मम्। कुक्षिऽभ्याम्। प्लाशेः। नाभ्याः। वि। वृहामि। ते। ९६.२०।

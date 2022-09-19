@@ -16,7 +16,6 @@ title = "०५ अष्टर्चेभ्यः स्वाहा"
 Hail to the eight-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अष्टऽऋचेभ्यः। स्वाहा। २३.५।

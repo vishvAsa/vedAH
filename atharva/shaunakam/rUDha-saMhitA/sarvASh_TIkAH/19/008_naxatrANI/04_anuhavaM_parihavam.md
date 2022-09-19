@@ -63,7 +63,6 @@ etc., and Whitney adds JB. ii. 155.⌋
 Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empty pitchers send into the distance, Savitar!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनुऽहवम्। परिऽहवम्। परिऽवादम्। परिऽक्षवम्। सर्वैः। मे। रिक्तऽकुम्भान्। परा। तान्। सवितः। सुव। ८.४।

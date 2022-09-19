@@ -8,7 +8,6 @@ title = "०१ इन्द्र ज्येष्ठम्"
 Bring us, O Indra, name and fame, enriching, mightiest, excellent, Wherewith, O wondrous God, fair-cheeked and thunder-armed, thou hast filled full this earth and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। ज्येष्ठम्। नः। आ। भर। ओजिष्ठम्। पपुरि। श्रवः। येन। इमे इति। चित्र। वज्रऽहस्त। रोदसी इति। आ। उभे इति। सुऽशिप्र। प्राः। ८०.१।

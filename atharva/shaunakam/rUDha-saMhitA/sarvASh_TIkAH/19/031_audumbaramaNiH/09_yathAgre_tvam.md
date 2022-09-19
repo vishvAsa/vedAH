@@ -20,7 +20,6 @@ unaccented. The majority accent *sphā́tim* in **c**. Ppp. reads in **d**
 As thou, O Forest Tree, wast born with increase when thy life began, So let Sarasvati bestow abundant growth of wealth on me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। अग्रे। त्वम्। वनस्पते। पुष्ट्या। सह। जज्ञिषे। एव। धनस्य। मे। स्फातिम्। आ। दधातु। सरस्वती। ३१.९।

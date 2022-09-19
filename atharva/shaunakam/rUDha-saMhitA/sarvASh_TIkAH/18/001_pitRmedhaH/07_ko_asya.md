@@ -23,7 +23,6 @@ adj. meaning *vividham añcanto gacchantaḥ saṁcarantaḥ*, and qualifying
 Who knows that earliest day whereof thou speakest, Who hath beheld it? Who can here declare it? Great is the law of Varuna and Mitra. What, wanton, wilt thou say to men to tempt them?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। अस्य। वेद। प्रथमस्य। अह्नः। कः। ईम्। ददर्श। कः। इह। प्र। वोचत्। बृहत्। मित्रस्य। वरुणस्य। धाम। कत‌्। ऊं इति। ब्रवः। आहनः। वीच्या। नॄन्। १.७।

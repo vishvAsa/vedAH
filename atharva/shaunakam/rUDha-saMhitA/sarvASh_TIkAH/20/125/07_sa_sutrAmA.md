@@ -8,7 +8,6 @@ title = "०७ स सुत्रामा"
 May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness. May this rich Indra, as our good protector, drive off and keep afar all those who hate us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। सुऽत्रामा। स्वऽवान्। इन्द्रः। अस्मत्। आरात्। चित्। द्वेषः। सनुतः। युयोतु। तस्य। वयम्। सुऽमतौ। यज्ञियस्य। अपि। भद्रे। सौमनसे। स्याम। १२५.७।

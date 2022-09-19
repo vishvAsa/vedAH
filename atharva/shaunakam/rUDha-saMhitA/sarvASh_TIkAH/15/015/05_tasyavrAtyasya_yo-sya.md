@@ -20,7 +20,6 @@ necessary correction to *abhyù-*; ⌊and so SPP.⌋.
 His third vital breath, called Approached, is that Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। तृतीयः। प्राणः। अभिऽऊढः। नाम। असौ। सः। चन्द्रमाः। १५.५।

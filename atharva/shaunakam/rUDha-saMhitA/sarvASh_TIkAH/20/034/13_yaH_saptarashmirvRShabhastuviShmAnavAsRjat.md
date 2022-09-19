@@ -8,7 +8,6 @@ title = "१३ यः सप्तरश्मिर्वृषभस्तु
 Who, with seven guiding reins, the Bull, the mighty, set the Seven Rivers free to flow at pleasure; Who, thunder-armed, rent Rauhina in pieces when scaling heaven, He, O ye men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। सप्तऽरश्मिः। वृषभः। तुविष्मान्। अवऽअसृजत्। सर्तवे। सप्त। सिन्धून्। यः। रौहिणम्। अस्‍फुरत्। वज्रबाहुः। द्याम्। आऽरोहन्तम्। सः। जनासः। इन्द्रः। ३४.१३।

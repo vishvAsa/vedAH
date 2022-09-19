@@ -8,7 +8,6 @@ title = "१४ अप त्ये"
 The constellations pass away, like thieves, together with their- beams, Before the all-beholding Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। त्ये। तायवः। यथा। नक्षत्रा। यन्ति। अक्तुऽभिः। सूराय। विश्वऽचक्षसे। ४७.१४।

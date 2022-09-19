@@ -7,7 +7,6 @@ title = "००३ जातवेदाः"
 3. Praise to Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जातवेदाः।  
@@ -18,8 +17,6 @@ title = "००३ जातवेदाः"
 
 [Atharvan̄giras.—caturṛcam. āgneyam. trāiṣṭubham: 2. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 260.
 
 A hymn to Agni for protection and prosperity
 </details>
+

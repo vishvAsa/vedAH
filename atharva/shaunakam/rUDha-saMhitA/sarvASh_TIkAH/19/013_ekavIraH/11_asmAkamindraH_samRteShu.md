@@ -25,7 +25,6 @@ at iii. 19. 7.
 May Indra aid us when our flags are gathered: victorious be th arrows of our army. May our brave men of war prevail in battle. Ye Gods, protect u in the shouts of onset.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्माकम्। इन्द्रः। सम्ऽऋतेषु। ध्वजेषु। अस्माकम्। याः। इषवः। ताः। जयन्तु। अस्माकम्। वीराः। उत्ऽतरे। भवन्तु। अस्मान्। देवासः। अवत। हवेषु। १३.११।

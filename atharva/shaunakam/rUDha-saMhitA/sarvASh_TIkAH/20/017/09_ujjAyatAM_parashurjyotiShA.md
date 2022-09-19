@@ -8,7 +8,6 @@ title = "०९ उज्जायतां परशुर्ज्योति
 Let the keen axe come forth together with the light: here be, as erst, the teeming cow of sacrifice. Let the Red God shine pure with his refulgent ray, and let the Lord of heroes glow like heaven's clear sheen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। जायताम्। परशुः। ज्योतिषा। सह। भूयाः। ऋतस्य। सुऽदुघा। पुराणऽवत्। वि। रोचताम्। अरुषः। भानुना। शुचिः। स्वः। न। शुक्रम्। शुशुचीत। सत्ऽपतिः। १७.९।

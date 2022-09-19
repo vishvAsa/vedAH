@@ -8,7 +8,6 @@ title = "०१ अभि त्वा"
 The swiftly-moving songs of praise pour on thee streams of vital strength As mother cows refresh the calf.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। त्वा। वर्चसा। गिरः। सिञ्चन्तीः। आचरण्यवः। अभि। वत्सम्। न। धेनवः। ४८.१।

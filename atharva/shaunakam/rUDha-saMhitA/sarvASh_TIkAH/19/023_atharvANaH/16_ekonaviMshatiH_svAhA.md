@@ -16,7 +16,6 @@ title = "१६ एकोनविंशतिः स्वाहा"
 Hail, nineteen!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एकोनाविंशतिः। स्वाहा। २३.१६।

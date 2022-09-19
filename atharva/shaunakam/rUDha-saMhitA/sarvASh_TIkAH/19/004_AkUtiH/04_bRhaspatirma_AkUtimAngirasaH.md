@@ -29,7 +29,6 @@ are justified, the vs. would scan smoothly as 8 + 11: 11 + 11.⌋
 Prajapati Angirasa with favour regard this word and this my settled purpose! May he, whence Gods and Deities had being Kama attend us with his gentle guidance.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। मे। आऽकूतिम्। आङ्गिरसः। प्रति। जानातु। वाचम्। एताम्। यस्य। देवाः। देवताः। सम्ऽबभूवुः। सः। सुऽप्रनीताः। कामः। अनु। एतु। अस्मान्। ४.४।

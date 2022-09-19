@@ -8,7 +8,6 @@ title = "११ सं चोदय"
 Send to us bounty manifold, O Indra, worthy of our wish, For power supreme is only thine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। चोदय। चित्रम्। अर्वाक्। राधः। इन्द्र। वरेण्यम्। असत्। इत्। ते। विऽभु। प्रऽभु। ७१.११।

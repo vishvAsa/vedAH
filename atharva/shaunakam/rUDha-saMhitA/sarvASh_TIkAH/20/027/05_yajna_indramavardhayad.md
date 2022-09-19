@@ -8,7 +8,6 @@ title = "०५ यज्ञ इन्द्रमवर्धयद्"
 The sacrifice made Indra strong when he unrolled the earth and made Himself a diaden in heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यज्ञः। इन्द्रम्। अवर्धयत्। यत्। भूमिम्। वि। अवर्तयत्। चक्राणः। ओपशम्। दिवि। २७.५।

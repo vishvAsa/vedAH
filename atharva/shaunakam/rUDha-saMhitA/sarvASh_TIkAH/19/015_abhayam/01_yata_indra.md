@@ -29,7 +29,6 @@ as the true Atharvan version.
 Indra, give us security from that whereof we are afraid. Help us, O Maghavan, let thy succour grant us this: drive foes and enemies afar.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यतः। इन्द्र। भयामहे। ततः। नः। अभयम्। कृधि। मघऽवन्। शग्धि। तव। त्वम्। नः। ऊतिऽभिः। वि। द्विषः। वि। मृधः। जहि। १५.१।

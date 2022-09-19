@@ -8,7 +8,6 @@ title = "०३ त्वं सिन्धूँरवासृजोऽधर
 Thou didst destroy the Dragon: thou sentest the rivers down to earth. Foeless, O Indra, wast thou born. Thou tendest well each choicest thing. Therefore we draw us close to thee. Let the weak bowstrings break upon the bows of feeble enemies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। सिन्धून्। अव। असृजः। अधराचः। अहन्। अहिम्। अशत्रुः। इन्द्र। जज्ञिषे। विश्वम्। पुष्यसि। वार्यम्। तम्। त्वा। परि। स्वजामहे। नभन्ताम्। अन्यकेषाम्। ज्याकाः। अधि। धन्वऽसु। ९५.३।

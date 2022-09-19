@@ -8,7 +8,6 @@ title = "०६ यश्चिद्धि त्वा"
 He who with Soma juice prepared among the many harbours. thee, Verily Indra gains thereby tremendous might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। चित्। हि। त्वा। बहुऽभ्यः। आ। सुतऽवान्। आविवासति। उग्रम्। तत्। पत्यते। शवः। इन्द्रः। अङ्ग। ६३.६।

@@ -22,7 +22,6 @@ to vi. 46. 3. The comm., in fact, reads *āptye*.
 As men discharge the utmost debt, collect the eighth and sixteenth part, So to the foeman we transfer together all the evil dream.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दुःऽस्वप्न्यम्। सर्वम्। अप्रिये। सम्। नयामसि। ५७.१।

@@ -18,7 +18,6 @@ Anukr.
 He who hath this knowledge eats food with Devotion as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्मणा। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.१५।

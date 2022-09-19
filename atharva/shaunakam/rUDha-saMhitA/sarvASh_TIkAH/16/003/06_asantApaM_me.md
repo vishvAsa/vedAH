@@ -17,7 +17,6 @@ title = "०६ असन्तापं मे"
 My heart is free from sorrow; spacious is my dwelling-place. I am the sea in capacity.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असम्ऽतापम्। मे। हृदयम्। उर्वी। गव्यूतिः। समुद्रः। अस्मि। विऽधर्मणा। ३.६।

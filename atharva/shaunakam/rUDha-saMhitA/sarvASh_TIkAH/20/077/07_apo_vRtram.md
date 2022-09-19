@@ -8,7 +8,6 @@ title = "०७ अपो वृत्रम्"
 He smote away the flood's obstructer Vritra: Earth conscious lent her aid to speed thy thunder. Thou sentest forth the waters of the ocean as Lord through power and might, O daring Hero.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपः। वृत्रम्। पविऽवांसम्। परा। अहन्। प्र। आवत्। ते। वज्रम्। पृथिवी। सऽचेताः। प्र। अर्णासि। समुद्रियाणि। ऐनोः। पतिः। भवन्। शवसा। शूर। धृष्णो इति। ७७.७।

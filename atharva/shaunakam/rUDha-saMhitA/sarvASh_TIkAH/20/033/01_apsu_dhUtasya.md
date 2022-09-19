@@ -8,7 +8,6 @@ title = "०१ अप्सु धूतस्य"
 Drink of the juice which men have washed in waters and fill the- full, O Lord of tawny horses. O Indra, hearer of the laud, with Soma which stones have mix- ed for thee enhance thy rapture.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप्ऽसु। धूतस्य। हरिऽवः। पिब। इह। नृऽभिः। सुतस्य। जठरम्। पृणस्व। मिमिक्षुः। यम्। अद्रयः। इन्द्र। तुभ्यम्। तेभिः। वर्धस्व। मदम्। उक्थऽवाहः। ३३.१।

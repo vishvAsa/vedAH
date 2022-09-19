@@ -17,7 +17,6 @@ outbreathings (*vyāná*).
 There are seven vital airs, seven downward breaths, seven diff- used breaths.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सप्त। प्राणाः। सप्त। अपानाः। सप्त। विऽआनाः। १५.२।

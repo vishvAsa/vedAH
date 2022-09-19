@@ -8,7 +8,6 @@ title = "०४ इमा नु"
 We will, with Indra and all Gods to help us, bring these existing worlds into subjection. Our sacrifice, our bodies, and our offspring shall Indra form together with the Adityas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमा। नु। कम्। भुवना। सीसधाम। इन्द्रः। च। विश्वे। च। देवाः। यज्ञम्। च। नः। तन्वम्। च। प्रऽजाम्। च। आदित्यैः। इन्द्रः। सह। चीक्लृपाति। १२४.४।

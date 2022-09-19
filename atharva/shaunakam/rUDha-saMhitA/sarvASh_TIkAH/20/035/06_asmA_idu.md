@@ -8,7 +8,6 @@ title = "०६ अस्मा इदु"
 Even for him hath Tvashtar forged the thunder, most deftly wrought, celestial, for the battle. Wherewith he reached the vital parts of Vritra, striking--the vast, the mighty--with the striker,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। त्वष्टा। तक्षत्। वज्रम्। स्वपःऽतमम्। स्वर्यम्। रणाय। वृत्रस्य। चित्। विदत्। येन। मर्म। तुजन्। ईशानः। तुजता। कियेधाः। ३५.६।

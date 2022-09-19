@@ -8,7 +8,6 @@ title = "०३ अगन्निन्द्र श्रवो"
 Indra, great glory hast thou gained. Win splendid fame which none may mar: We make thy might perpetual.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अगन्। इन्द्र। अवः। बृहत्। द्युम्नम्। ‍दधि‍ष्व। दुस्तरम्। उत्। ते। शुष्मम्। तिरामसि। २०.३।

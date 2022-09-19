@@ -22,7 +22,6 @@ Thou art my wall of stone against the sinner who fights against me from northern
 अश्मऽवर्म। मे। असि। यः। मा। उदीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.४।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्मऽवर्म। मे। असि। यः। मा। उदीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.४।

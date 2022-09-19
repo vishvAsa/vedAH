@@ -24,7 +24,6 @@ The verse is found also in Āp. xiv. 17. 1, but with very different
 To him the wise, the famous, swift to listen, with words and verses I come nigh for bounty. May we be safe from threatening danger. Soften by sacrifice the- wrath of Gods, O Agni.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्रुत्ऽकर्णाय। कवये। वेद्याय। वचःऽभिः। वाकैः। उप। यामि। रातिम्। यतः। भयम्। अभयम्। तत्। नः। अस्तु। अव। देवानाम्। यज। हेडः। अग्ने। ३.४।

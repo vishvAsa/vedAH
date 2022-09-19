@@ -18,7 +18,6 @@ Sūryā-hymn (xiv.).
 Hail to the two Surya hymns!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सूर्याभ्याम्। स्वाहा। २३.२४।

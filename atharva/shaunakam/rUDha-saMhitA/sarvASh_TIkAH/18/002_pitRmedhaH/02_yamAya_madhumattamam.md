@@ -61,7 +61,6 @@ xviii. 2. 35; 3. 47.⌋
 Offer to Yama sacrifice most sweet in savour and draw near. Bow down before the Rishis of the olden time, the ancient ones who made the path.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमाय। मधुमत्ऽतमम्। जुहोत। प्र। च। तिष्ठत। इदम्। नमः। ऋषिऽभ्यः। पूर्वऽजेभ्यः। पूर्वेभ्यः। पथिकृत्ऽभ्यः। २.२।

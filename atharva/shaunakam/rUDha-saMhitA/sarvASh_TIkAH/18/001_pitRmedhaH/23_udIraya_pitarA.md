@@ -36,7 +36,6 @@ native exegetes.
 Urge thou thy Parents, as a lover, to delight: the lovely One desires and craves it from his heart. As Priest he calls aloud, as Warrior shows his skill, as Asura tries his strength, and with the hymn is stirred.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ईरय। पितरा। जाRरः। आ। भगम्। इयक्षति। हर्यतः। हृत्तः। इष्यति। विवक्ति। वह्निः। सुऽअपस्यते। मखः। तविष्यते। असुरः। वेपते। मती। १.२३।

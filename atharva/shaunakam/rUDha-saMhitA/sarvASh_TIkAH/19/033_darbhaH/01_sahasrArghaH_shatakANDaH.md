@@ -25,7 +25,6 @@ is identical with 32. 10 **c**.⌋ \*⌊Other forms like *sṛjātu* under 7.
 Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the Water's Agni, Let this same Darbha guard us from all quarters. This Godlike Amulet shall with life endow us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽअर्घः। शतऽकाण्डः। पयस्वान्। अपाम्। अग्निः। वीरुधाम्। राजऽसूयम्। सः। नः। अयम्। दर्भः। परि। पातु। विश्वतः। देवः। मणिः। आयुषा। सम्। सृजाति। नः। ३३.१।

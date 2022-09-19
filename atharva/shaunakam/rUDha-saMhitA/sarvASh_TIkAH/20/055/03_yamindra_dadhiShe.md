@@ -8,7 +8,6 @@ title = "०३ यमिन्द्र दधिषे"
 The wasteless share of steeds and kine which, Indra, thou hast fast secured. Grant to the worshipper who presses Soma and gives guerdon, not unto the churl.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। इन्द्र। दधिषे। त्वम्। अश्वम्। गाम्। भागम्। अव्ययम्। यजमाने। सुन्वति। दक्षिणाऽवति। तस्मिन्। तम्। धेहि। मा। पणौ। ५५.३।

@@ -24,7 +24,6 @@ Pet. Lex.).
 Now have we conquered and obtained: we have been freed from sin to-day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अजैष्म। अद्य। असनाम। अद्य। अभूम। अनागसः। वयम्। ६.१।

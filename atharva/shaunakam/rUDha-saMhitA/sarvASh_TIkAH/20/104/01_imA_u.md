@@ -8,7 +8,6 @@ title = "०१ इमा उ"
 May these my songs of praise exalt thee, Lord who hast abun- dant wealth. Men skilled in holy hymns, bright with the hues of fire, have sung them with their lauds to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमाः। ऊं इति। त्वा। पुरुवसो इति पुरुऽवसो। गिरः। वर्धन्तु। या। मम। पावकऽवर्णाः। शुचयः। विपःऽचितः। अभि। स्तोमैः। अनूषत। १०४.१।

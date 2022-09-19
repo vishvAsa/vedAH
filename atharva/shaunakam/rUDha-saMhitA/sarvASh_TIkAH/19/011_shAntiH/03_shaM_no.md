@@ -26,10 +26,9 @@ of it.
 May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. Gracious be he, the swelling Child of Waters, gracious be Prisni who hath Gods to guard her.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शम्। नः। अजः। एकऽपात्। देवः। अस्तु। शम्। अहिः। बुध्न्यः। शम्। समुद्रः। शम्। नः। अपाम्। नपात्। पेरुः। अस्तु। शम्। नः। पृश्निः। भवतु। देवऽगोपा। ११.३।
+शम्। नः। अजः। एकऽपात्। देवः। अस्तु। शम्। अहिः। बुध्न्यः᳡। शम्। समुद्रः। शम्। नः। अपाम्। नपात्। पेरुः। अस्तु। शम्। नः। पृश्निः। भवतु। देवऽगोपा। ११.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

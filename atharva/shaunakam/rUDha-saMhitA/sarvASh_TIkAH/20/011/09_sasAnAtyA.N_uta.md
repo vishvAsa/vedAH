@@ -8,7 +8,6 @@ title = "०९ ससानात्याँ उत"
 He gained possession of the Sun and horses; Indra obtained the cow who feedeth many. Treasure of gold he won; he smote the Dasyus and gave protec- tion to the race of Aryas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ससान। अत्यान्। उत। सूर्यम्। ससान। इन्द्रः। ससान। पुरुऽभोजसम्। गाम्। हिरण्ययम्। उत। भोगम्। ससान। हत्वी। दस्यून्। प्र। आर्यम्। वर्णम्। आवत्। ११.९।

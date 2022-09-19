@@ -8,7 +8,6 @@ title = "०४ स्व\uf184र्यद्वेदि सुदृशीक
 When heaven's fair light by hymns was made apparent. (they made great splendour shine at break of morning), He with his succour, best of heroes, scattered the blinding dark- ness so that men saw clearly.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वः। यत्। वेदि। सुऽदृशीकम्। अर्कैः। महि। ज्योतिः। रुरुचुः। यत्। ह। वस्तोः। अन्धा। तमांसि। दुधिता। विऽचक्षे। नृऽभ्यः। चकार। नृऽतमः। अभिष्टौ। ७७.४।

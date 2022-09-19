@@ -23,7 +23,6 @@ the comm. ⌊In **d**, read *cakrā́ṇi?*⌋
 Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us onward. Sages inspired with holy knowledge mount him: his chariot wheels are all the worlds of creatures.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालः। अश्वः। वहति। सप्तऽरश्मिः। सहस्रऽअक्षः। अजरः। भूरिऽरेताः। तम्। आ। रोहन्ति। कवयः। विपःचितः। तस्य। चक्रा। भुवनानि। विश्वा। ५३.१।

@@ -26,10 +26,9 @@ comm. has the better reading *kṣiyema*.
 Lead us to ample room. O thou who knowest, to happiness security, and sunlight. Strong, Indra, are the arms of thee the mighty: may we betake us to their lofty shelter.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-उरुम्। नः। लोकम्। अनु। नेषि। विद्वान्। स्वः। यत्। ज्योतिः। अभयम्। स्वस्ति। उग्रा। ते। इन्द्र। स्थविरस्य। बाहू इति। उप। क्षयेम। शरणा। बृहन्ता। १५.४।
+उरुम्। नः। लोकम्। अनु। नेषि। विद्वान्। स्वः᳡। यत्। ज्योतिः। अभयम्। स्वस्ति। उग्रा। ते। इन्द्र। स्थविरस्य। बाहू इति। उप। क्षयेम। शरणा। बृहन्ता। १५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

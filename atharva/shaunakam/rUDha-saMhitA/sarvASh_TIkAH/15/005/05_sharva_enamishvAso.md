@@ -10,7 +10,6 @@ attends him as attendant from the intermediate direction of the southern
 quarter; not śarva etc. etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शर्वः। एनम्। इषुऽआसः। दक्षिणायाः। दिशः। अन्तःऽदेशात्। अनुऽस्थाता। अनु। तिष्ठति। न। एनम्। शर्वः। न। भवः। न। ईशानः। न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.५।

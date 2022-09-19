@@ -16,7 +16,6 @@ title = "०३ बुध्येम शरदः"
 A hundred autumns may we know.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बुध्येम। शरदः। शतम्। ६७.३।

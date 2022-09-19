@@ -8,7 +8,6 @@ title = "१२ यदिन्द्रादो दाशराज्ञे"
 When, Indra, thou, as no man could, didst plunge into the Ten Kings' fight, That was a guard for every man: for he is formed to stay disease.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। इन्द्र। अदः। दाशराज्ञे। मानुषम्। वि। गाहथाः। विरूपः। सर्वस्मै। आसीत्। सह। यक्षाय। कल्पते। १२८.१२।

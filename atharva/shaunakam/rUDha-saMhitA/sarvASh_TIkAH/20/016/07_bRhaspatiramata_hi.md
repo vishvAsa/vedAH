@@ -8,7 +8,6 @@ title = "०७ बृहस्पतिरमत हि"
 That secret name borne by the lowing cattle within the cave Brihaspati discovered, And draye, himself, the bright kine from the mountain, like a bird's young after the eggs' disclosure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। अमत। हि। त्यत्। आसाम्। नाम। स्वरीणाम्। सदने। गुहा। यत्। आण्डाऽइव। भित्त्वा। शकुनस्य। गर्भम्। उत्। उस्रियाः। पर्वतस्य। त्मना। आजत्। १६.७।

@@ -8,7 +8,6 @@ title = "०१ इन्द्र क्रतुम्"
 O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-invoked, on this our foray: may we, living, still enjoy the light.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। क्रतुम्। नः। आ। भर। पिता। पुत्रेभ्यः। यथा। शिक्ष। नः। अस्मिन्। पुरुऽहूत। यामनि। जीवाः। ज्योतिः। अशीमह‍ि। ७९.१।

@@ -8,7 +8,6 @@ title = "१९ वि द्यामेषि"
 Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, seeing all things that have birth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। द्याम्। एषि। रजः। पृथु। अहः। मिमानः। अक्तुभिः। पश्यन्। जन्मानि। सूर्य। १७.१९।

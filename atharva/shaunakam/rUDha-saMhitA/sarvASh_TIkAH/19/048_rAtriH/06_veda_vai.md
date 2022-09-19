@@ -28,7 +28,6 @@ mss. accent *bharadvājás*. In our text, the accent-sign printed over
 Verily, Night, I know thy name, Dropper of Fatness art thou called. Thee Bharadvaja knew as such: as such be watchful o'er our wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वेद। वै। रात्रि। ते। नाम। घृताची। नाम। वै। असि। ताम्। त्वाम्। भरत्ऽवाजः। वेद। सा। नः। वित्ते। अधि। जाग्रति। ४८.६।

@@ -34,7 +34,6 @@ usual combinations, *tā ”paś śivā ”po ‘y-*, and reads for **d**
 Blest be the Waters unto thee, suspicious Waters, bringing. health. They cure the injured place for thee even as thy comfort craveth it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ताः। अपः। शिवाः। अपः। अयक्ष्मम्ऽकरणीः। अपः। यथा। एव। तृप्यते। मयः। ताः। ते। आ। दत्त। भेषजीः। २.५।

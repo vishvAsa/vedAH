@@ -39,7 +39,6 @@ verse, see *Gurupūjākaumudī*, p. 19-20.⌋
 Fain would I win my friend to kindly friendship. So may the Sage, come through the air's wide ocean, Remembering the earth and days to follow, obtain a son the issue of his father.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ओ इति। चित्। सखायम्। सख्या। ववृत्याम्। तिरः। पुरु। चित्। अर्णवम्। जगन्वान्। पितुः। नपातम्। आ। दधीत। वेधाः। अधि। क्षमि। प्रऽतरम्। दीध्यानः। १.१।

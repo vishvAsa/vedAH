@@ -8,7 +8,6 @@ title = "०४ तदिदास भुवनेषु"
 In all the worlds That was the best and highest whence sprang the mighty God, of splendid valour. As soon as born he overcomes his foemen, he in whom all who lend him aid are joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। इत्। आस। भुवनेषु। ज्येष्ठम्। यतः। जज्ञे। उग्रः। त्वेषऽनृम्णः। सद्यः। जज्ञानः। नि। रिणाति। शत्रून्। अनु। यत्। एनम्। मदन्ति। विश्वे। ऊमाः। १०७.४।

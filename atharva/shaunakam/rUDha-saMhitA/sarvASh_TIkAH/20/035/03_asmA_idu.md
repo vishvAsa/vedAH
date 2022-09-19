@@ -8,7 +8,6 @@ title = "०३ अस्मा इदु"
 To him then with my lips my song of praises, excellent, winning heavenly light, I offer, To magnify with hymns of invocation and eulogies the Lord, most bounteous Giver.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। त्यम्। उपऽमम्। स्वःऽसाम्। भरामि। आङ्गूषम्। आस्येन। मंहिष्ठम्। अच्छोक्तिऽभिः। मतोनाम्। सुवृक्तिऽभिः। सूरिम्। ववृधध्यै ३५.३।

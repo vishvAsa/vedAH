@@ -27,10 +27,9 @@ has *bhavyam*, and, in **d**, *annena*. Some of the mss. accent
 Purusha is in truth this All, what hath been and what yet shall; be Lord, too, of immortality--and what hath grown with some- what else.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-पुरुषः। एव। इदम्। सर्वम्। यत्। भूतम्। यत्। च। भाव्यम्। उत। अमृतऽत्वस्य। ईश्वरः। यत्। अन्येन। अभवत्। सह। ६.४।
+पुरुषः। एव। इदम्। सर्वम्। यत्। भूतम्। यत्। च। भाव्य᳡म्। उत। अमृतऽत्वस्य। ईश्वरः। यत्। अन्येन। अभवत्। सह। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

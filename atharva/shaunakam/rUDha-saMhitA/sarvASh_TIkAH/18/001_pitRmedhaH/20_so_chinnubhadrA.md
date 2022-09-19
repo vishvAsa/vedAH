@@ -22,10 +22,9 @@ understands *ánu krátum* as "for each several ceremony."
 Yea, even this blessed Morning, rich in store of food, splendid, with heavenly lustre, hath shone out for man, Since they as was the wish of yearning Gods, brought forth that yearning Agni for the assembly as the Priest.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-सो इति। चित्। नु। भद्रा। क्षुऽमती। यशस्वती। उषाः। उवास। मनवे। स्वःऽवती। यत्। ईम्। उशन्तम्। उशतम्। अनु। ऋतुम्। अग्निम्। होतारम्। विदथाय। जीजनन्। १.२०।
+सो इति। चित्। नु। भद्रा। क्षुऽमती। यशस्वती। उषाः। उवास। मनवे। स्वः᳡ऽवती। यत्। ईम्। उशन्तम्। उशतम्। अनु। ऋतुम्। अग्निम्। होतारम्। विदथाय। जीजनन्। १.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,3 +54,4 @@ Yea, even this blessed Morning, rich in store of food, splendid, with heavenly l
 
 टिप्पणी:   २०−(सो) सा-उ। सैव वेदवाणी (चित्) एव (नु) सम्प्रति (भद्रा) कल्याणी (क्षुमती) अन्नवती-निघ० २।७। (यशस्वती) कार्त्तिमती (उषाः) प्रभातवेलारूपावेदवाणी (उवास) वस-लिट्। प्रकाशं कृतवती (मनवे) मनुष्याय (स्वर्वती) सुखवती (यत्) यतः (ईम्) इमां वेदवाणीम् (उशन्तम्) कामयमानम् (उशताम्) कामयमानानाम्।अभिलाषिणाम् (अनु) अनुसृत्य (क्रतुम्) प्रज्ञाम्-निघ० ३।६। (अग्निम्) विद्वांसम् (होतारम्) दातारम् (विदथाय) ज्ञानसमाजाय (जीजनन्) अजीजनन्। उदपादयन् तेविद्वांसः ॥
 </details>
+

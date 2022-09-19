@@ -8,7 +8,6 @@ title = "०३ कविर्न निण्यम्"
 When the Bull quaffing praises our libation, as a sage paying holy rites in secret, Seven singers here from heaven hath he begotten, who e'en by day have wrought their works while singing.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कविः। न। निण्यम्। विदथानि। साधन्। वृषा। यत्। सेकम्। विऽपिपानः। अर्चात्। दिवः। इत्था। जीजनत्। सप्त। कारून्। अह्ना। चित्। चक्रु। वयुना। गृणन्तः। ७७.३।

@@ -8,7 +8,6 @@ title = "०२ त्वं ह"
 Thou verily, Indra, gavest help to Kutsa, willingly lending ear to him in battle. When, aiding Arjunneya, thou subduedst to him both Kuyava and the Dasa Sushna.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। ह। त्यत्। इन्द्र। कुत्सम्। आवः। शुश्रूषमाणः। तन्वा। सऽमर्ये। दासम्। यत्। शुष्णम्। कुयवम्। नि। अस्मै। अरन्धयः। आर्जुनेयाय। शिक्षन्। ३७.२।

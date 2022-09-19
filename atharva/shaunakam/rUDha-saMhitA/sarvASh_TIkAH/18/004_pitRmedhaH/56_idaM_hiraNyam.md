@@ -29,7 +29,6 @@ deceased's hand."
 Take thou and wear this piece of gold, the gold thy father used to wear. Wipe tenderly the right hand of thy sire who goes away to heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। हिरण्यम्। बिभृहि। यत्। ते। पिता। अबिभः। पुरा। स्वःऽगम्। यतः। पितुः। हस्तम्  निः। मृड्ढि। दक्षिणम्। ४.५६।

@@ -8,7 +8,6 @@ title = "०४ न ते"
 None is there, Indra, God or man, to hinder thy munificence, The wealth which, lauded, thou wilt give.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। ते। वर्ता। अस्ति। राधसः। इन्द्र। देवः। न। मर्त्यः। यत्। दित्ससि। स्तुतः। मघम्। २७.४।

@@ -8,7 +8,6 @@ title = "०३ बृहस्पते या"
 Brihaspati, from thy remotest distance have they sat down who love the law eternal. For thee were dug wells springing from the mountain, which murmuring round about pour streams of sweetness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पते। या। परमा। पराऽवत्। अतः। आ। ते। ऋतऽस्पृशः। नि। सेदुः। तुभ्यम्। खाताः। अवताः। अद्रिऽदुग्धाः। मध्वः। श्चोतन्ति। अभितः। विऽरप्शम्। ८८.३।

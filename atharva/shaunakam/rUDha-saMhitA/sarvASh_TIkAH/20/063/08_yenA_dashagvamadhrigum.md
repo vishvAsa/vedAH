@@ -8,7 +8,6 @@ title = "०८ येना दशग्वमध्रिगुम्"
 Wherewith thou helpest Adhrigu, the great Dasagva, and the God Who stirs the sunlight, and Sea, for that we pray.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। दशऽग्वम्। अध्रिऽगुम्। वेपयन्तम्। स्वःऽतरम्। येन। समुद्रम्। आविथ। तम्। ईमहे। ६३.८।

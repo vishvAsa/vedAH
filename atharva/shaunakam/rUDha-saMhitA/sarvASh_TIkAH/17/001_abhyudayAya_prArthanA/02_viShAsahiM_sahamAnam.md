@@ -17,7 +17,6 @@ gods.
 Vanquishing etc. Indra by name, adorable I call: May I be dear to Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ‍विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। देवानाम्। भूयासम्। १.२।

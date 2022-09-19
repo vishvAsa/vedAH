@@ -28,7 +28,6 @@ is of especial weight, and they (his K. and V.) gave *yāhi*⌋.
 The Asuras with iron nets, magicians, who roam about with hooks and bonds of iron, With wrath I make thy thralls, O Jatavedas. Come as a bolt foe- quelling, thousand pointed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयःऽजालाः। असुराः। मायिनः। अयस्मयैः। पाशैः। अङ्किनः। ये। चरन्ति। तान्। ते। रन्धयामि। हरसा। जातऽवेदः। सहस्रऽऋष्टिः। सऽपत्नान्। प्रऽमृणन्। पाहि। वज्रः। ६६.१।

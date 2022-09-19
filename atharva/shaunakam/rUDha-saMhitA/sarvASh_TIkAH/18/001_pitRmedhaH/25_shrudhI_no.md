@@ -23,7 +23,6 @@ third persons, and *mā́kis* as "no one."
 Hear us, O Agni, in the great assembly: harness thy rapid car,. the car of Amrit. Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Gods be absent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्रुधि। नः। अग्ने। सदने। सधऽस्थे। युक्ष्व। रथम्। अमृतस्य। द्रवित्नुम्। आ। नः। वह। रोदसी इति। देवपुत्रे इति। देवऽपुत्रे। माकिः। देवानाम्। अप। भूः। इह। स्याः। १.२५।

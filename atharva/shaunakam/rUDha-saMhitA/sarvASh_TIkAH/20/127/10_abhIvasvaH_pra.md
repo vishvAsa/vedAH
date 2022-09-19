@@ -8,7 +8,6 @@ title = "१० अभीवस्वः प्र"
 Up as it were to heavenly light springs the ripe corn above the cleft. Happily thrive the people in the land where King Parikshit reigns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभीवस्वः। प्र। जिहीते। यवः। पक्वः। पथः। बिलम्। जनः। सः। भद्रम्। एधति। राष्ट्रे। राज्ञः। परिक्षितः। १२७.१०।

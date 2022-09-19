@@ -26,7 +26,6 @@ namantu*.
 Desiring bliss, at first, light-finding Rishis began religious rite and holy fervour. Thence energy was born, and might, and kingship: so to this man let gathered Gods incline them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भद्रम्। इच्छन्तः। ऋषयः। स्वःऽविदः। तपः। दीक्षाम्। उपऽनिसेदुः। अग्रे। ततः। राष्ट्रम्। बलम्। ओजः। च। जातम्। तत्। अस्मै। देवाः। उपऽसंनमन्तु। ४१.१।

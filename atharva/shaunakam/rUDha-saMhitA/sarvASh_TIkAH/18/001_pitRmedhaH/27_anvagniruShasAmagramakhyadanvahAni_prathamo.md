@@ -18,7 +18,6 @@ heaven-and-earth he entered.
 Agni hath looked upon the van of Mornings, and on the days. the earliest Jatavedas. After the Dawns, after their rays of brightness, Surya hath enter- ed into earth and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनु। अग्निः। उषसाम्। अग्रम्। अख्यत्। अनु। अहानि। प्रथमः। जातऽवेदाः। अनु। सूर्यः। उषसः। अनु। रश्मीन्। अनु। द्यावापृथिवी इति। आ। विवेश। १.२७।

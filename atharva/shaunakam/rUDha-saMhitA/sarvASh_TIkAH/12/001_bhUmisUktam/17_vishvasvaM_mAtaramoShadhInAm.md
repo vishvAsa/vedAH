@@ -26,7 +26,7 @@ Kind, ever gracious be the Earth we tread on, the firm Earth, Prithivi, borne up
 
 <details open><summary>पदपाठः</summary>
 
-विश्वऽस्वम्। मातरम्। ओषधीनाम्। ध्रुवाम्। भूमिम्। पृथिवीम्। धर्मणा। धृताम्। शिवाम्। स्योनाम्। अनु। चरेम। विश्वहा। १.१७।
+विश्वऽस्व᳡म्। मातरम्। ओषधीनाम्। ध्रुवाम्। भूमिम्। पृथिवीम्। धर्मणा। धृताम्। शिवाम्। स्योनाम्। अनु। चरेम। विश्वहा। १.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

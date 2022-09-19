@@ -33,7 +33,6 @@ word; SPP. has *asyá*, with us. In **d**, a few mss. have *vándye* or
 Kind through the Night be absence of the sunshine: Mother of Frost, may she be swift to hear us. Take notice of the hymn, thou highly favoured, wherewith I worship thee in all the regions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शिवाम्। रात्रिम्। अनुऽसूर्यम्। च। हिमस्य। माता। सुहवा। नः। अस्तु। अस्य। स्तोमस्य। सुऽभगे। नि। बोध। येन। त्वा। वन्दे। विश्वासु। दिक्षु। ४९.५।

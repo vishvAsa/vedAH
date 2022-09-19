@@ -40,7 +40,6 @@ minor applications. ⌊Verses 61 and 62 are translated by Hillebrandt,
 Vivasvan make us free from fear and peril, good rescuer, quick- pouring, bounteous giver! Many in number be these present heroes! Increase of wealth be mine in kine and horses!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विवस्वान्। नः। अभयम्। कृणोतु। यः। सुऽत्रामा। जीरऽदानुः। सुऽदानुः। इह। इमे। वीराः। बहवः। भवन्तु। गोऽमत्। अश्वऽवत्। मयि। अस्तु। पुष्टम्। ३.६१।

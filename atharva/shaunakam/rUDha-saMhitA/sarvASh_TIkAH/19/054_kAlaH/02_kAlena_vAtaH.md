@@ -28,7 +28,6 @@ accordingly retained here.
 By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests the mighty Sky.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालेन। वातः। पवते। कालेन। पृथिवी। मही। द्यौः। मही। काले। आऽहिता। ५४.२।

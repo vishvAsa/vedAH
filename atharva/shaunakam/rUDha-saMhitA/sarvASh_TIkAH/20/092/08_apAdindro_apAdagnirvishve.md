@@ -8,7 +8,6 @@ title = "०८ अपादिन्द्रो अपादग्निर्
 Indra hath drunk; Agni hath drunk all Deities have drunk their fill. Here Varuna shall have his home, to whom the floods have sung aloud as mother-kine unto their calves.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपात्। इन्द्रः। अपात्। अग्निः। विश्वे। देवाः। अमत्सत। वरुणः। इत्। इह। क्षयत्। तम्। आपः। अभि। अनूषत। वत्सम्। संशिश्वरीःऽइव। ९२.८।

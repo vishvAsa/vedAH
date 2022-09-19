@@ -8,7 +8,6 @@ title = "१२ इदमकर्म नमो"
 This homage have we offered to the Cloud-God who thunders out to many in succession. May this Brihaspati vouchsafe us fulness of life with kine and horses, men, and heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। अकर्म। नमः। अभ्रियाय। यः। पूर्वीः। अनु। आऽनोनवीति। बृहस्पतिः। सः। हि। गोभिः। सः। अश्वैः। सः। वीरेभिः। सः। नृऽभिः। नः। वयः। धात्। १६.१२।

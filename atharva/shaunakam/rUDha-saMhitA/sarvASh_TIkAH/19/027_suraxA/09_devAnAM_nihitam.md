@@ -29,7 +29,6 @@ so: but *trivṛ́tā* of 3 is here *tṛvátā*.⌋
 The secret treasure of the Gods which Indra, by pathways travelled by the Gods, discovered, That gold the Waters with the triplets guarded. May they keep thee with threebold hymn and triplets.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवानाम्। निऽहितम्। निऽधिम्। यम्। इन्द्रः। अनुऽअविन्दत्। पथिऽभिः। देवऽयानैः। आपः। हिरण्यम्। जुगुषुः। त्रिवृत्ऽभिः। ताः। त्वा। रक्षन्तु। त्रिऽवृता। त्रिवृत्ऽभिः। २७.९।

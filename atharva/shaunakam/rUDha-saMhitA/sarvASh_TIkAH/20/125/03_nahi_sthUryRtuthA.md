@@ -8,7 +8,6 @@ title = "०३ नहि स्थूर्यृतुथा"
 Men come not with one horse at sacred seasons; thus they obtain no honour in assemblies. Sages desiring herds of kine and horses strengthen the mighty Indra for his friendship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नहि। स्थूरि। ऋतुऽथा। यातम्। अस्ति। न। उत। श्रवः। विविदे। सम्ऽगमेषु। गव्यन्तः। इन्द्रम्। सख्याय। विप्राः। अश्वऽयन्तः। वृषणम्। वाजयन्तः। १२५.३।

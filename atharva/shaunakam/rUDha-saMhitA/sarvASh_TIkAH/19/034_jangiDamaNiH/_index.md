@@ -7,7 +7,6 @@ title = "०३४ जङ्गिडमणिः"
 34. With a jan̄giḍá-amulet: for protection etc.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जङ्गिडमणिः।  
@@ -18,8 +17,6 @@ title = "०३४ जङ्गिडमणिः"
 
 [An̄giras.—daśakam. mantroktadevatyam uta vānaspatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Bloomfield, 38, 669; Griffith, ii. 291; verses 1 and 7 ab also by Gr
 
 A protective charm addressed to the panacea called A Jangida
 </details>
+

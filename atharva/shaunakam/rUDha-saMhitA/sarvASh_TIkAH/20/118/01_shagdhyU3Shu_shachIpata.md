@@ -8,7 +8,6 @@ title = "०१ शग्ध्यू३षु शचीपत"
 Indra with all thy saving helps give us assistance, Lord of Power For after thee we follow even as glorious bliss, thee, Hero, finder-out of wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शग्धि। ऊं इति। सु। शचीऽपते। इन्द्र। विश्वाभिः। ऊतिऽभिः। भगम्। न। हि। त्वा। यशसम्। वसुऽविदम्। अनु। शूर। चरामसि। ११८.१।

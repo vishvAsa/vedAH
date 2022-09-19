@@ -8,7 +8,6 @@ title = "०४ देवो द्रविणोदाः"
 Let the God, Granter of Wealth, from the Potar's cup drink Trishtups, according to the season Soma from heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवः। द्रविणःऽदाः। पोत्रात्। सुऽस्तुभः। सुऽअर्कात्। ऋतुना। सोमम्। पिबतु। २.४।

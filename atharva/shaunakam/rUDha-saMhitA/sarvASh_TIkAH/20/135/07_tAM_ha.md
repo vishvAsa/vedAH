@@ -8,7 +8,6 @@ title = "०७ तां ह"
 Singer, they went not near to that; but, singer, they accepted this: That days may not be indistinct, nor sacrifices leaderless.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ताम्। ह। जरितः। नः। प्रति। अगृभ्णन्। ताम्। ऊं इति। ह। जरितः। नः। प्रति। अगृभ्णः। अहानेतरसम्। न। वि। चेतनानि। यज्ञानेतरसम्। न। पुरोगवामः। १३५.७।

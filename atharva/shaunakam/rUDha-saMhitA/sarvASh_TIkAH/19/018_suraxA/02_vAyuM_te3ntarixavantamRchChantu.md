@@ -17,7 +17,6 @@ Vāyu with the atmosphere.
 Let those who vex me from this quarter, sinners, praise Vayu compassed by the Air's mid region.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वायुम्। ते। अन्तरिक्षऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.२।

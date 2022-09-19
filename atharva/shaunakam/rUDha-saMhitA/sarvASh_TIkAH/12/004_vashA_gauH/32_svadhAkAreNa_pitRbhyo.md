@@ -22,7 +22,7 @@ By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, t
 
 <details open><summary>पदपाठः</summary>
 
-स्वधाऽकारेण। पितृऽभ्यः। यज्ञेन। देवताभ्यः। दानेन। राजन्यः। वशायाः। मातुः। हेडम्। न। गच्छति। ४.३२।
+स्वधाऽकारेण। पितृऽभ्यः। यज्ञेन। देवताभ्यः। दानेन। राजन्यः᳡। वशायाः। मातुः। हेडम्। न। गच्छति। ४.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

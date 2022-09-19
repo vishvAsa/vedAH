@@ -27,7 +27,6 @@ particles *ū ṣú* are included in the prescriptions of Prāt. ii. 97; iii.
 Companions, let us learn a prayer to Indra whom the thunder arms, To glorify your bold and most heroic Friend.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सखायः। आ। शिषामहे। ब्रह्म। इन्द्राय। वज्रिणे। स्तुषे। ऊं इति। सु। सुऽतमाय। धृष्णवे। १.३७।

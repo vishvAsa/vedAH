@@ -52,7 +52,6 @@ below, under xviii. 1. 42.) Whitney's Bp. follows the RV. in giving *ví:
 O'er the broad land thou goest like a Stega: here on vast earth let breezes blow upon us, Here hath our dear Friend Varuna, united, like Agni in the wood, shot forth his splendour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तेगः। न। क्षाम्। अति। एषि। पृथिवीम्। मही इति। नः। वाताः। इह। वान्तु। भूमौ। मित्रः। नः। अत्र। वरुणः। युज्यमानः। अग्निः। वने। न। वि। असृष्ट। शोकम्। १.३९।

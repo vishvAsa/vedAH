@@ -8,7 +8,6 @@ title = "०५ इन्द्रस्तुजो बर्हणा"
 Forward to fiercely falling blows pressed Indra, hero-like doing many hero exploits. Those holy songs he taught the bard who praised him, and widely spread these Dawns' resplendent colour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। तुजः। बर्हणाः। आ। विवेश। नृऽवत्। दधानः। नर्या। पुरूण‍ि। अचेतयत्। धियः। इमाः। जरित्रे। प्र। इमम्। वर्णम्। अतिरत्। शुक्रम्। आसाम्। ११.५।

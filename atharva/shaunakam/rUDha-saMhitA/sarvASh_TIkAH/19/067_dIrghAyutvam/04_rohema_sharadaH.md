@@ -16,7 +16,6 @@ title = "०४ रोहेम शरदः"
 A hundred autumns may we grow.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रोहेम। शरदः। शतम्। ६७.४।

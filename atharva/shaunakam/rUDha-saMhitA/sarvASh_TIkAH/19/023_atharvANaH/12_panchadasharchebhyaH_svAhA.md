@@ -16,7 +16,6 @@ title = "१२ पञ्चदशर्चेभ्यः स्वाहा"
 Hail to the fifteen-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पञ्चदशऽऋचेभ्यः। स्वाहा। २३.१२।

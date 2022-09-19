@@ -16,7 +16,6 @@ title = "०२ उपजीवा स्थोप"
 Ye live dependent. I fain would live dependent. I fain would live my complete term of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उपऽजीवाः। स्थ। उप। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.२।

@@ -8,7 +8,6 @@ title = "०५ एतं पृच्छ"
 A hundred golden steeds hath he, a hundred chariots wrought of gold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतम्। पृच्छ। कुहम्। पृच्छ। १३०.५।

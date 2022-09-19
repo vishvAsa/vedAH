@@ -16,7 +16,6 @@ title = "१० त्रयोदशर्चेभ्यः स्वाहा
 Hail to the thirteen-versed
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रयोदशऽऋचेभ्यः। स्वाहा। २३.१०।

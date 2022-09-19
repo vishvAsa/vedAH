@@ -8,7 +8,6 @@ title = "०३ प्रत्यञ्चमर्कमनयं छचीभ
 Brought the Sun hitherward with mighty powers, and looked! about them on their vigorous God-head. With this may we obtain strength God-appointed, and brave sons gladden us through a hundred winters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रत्यञ्चम्। अर्कम्। अनयन्। शचीभिः। आत्। इत्। स्वधाम्। इषिराम्। परि। अपश्यन्। अया। वाजम्। देवऽहितम्। सनेम। मदेम। शतऽहिमाः। सुऽवीराः। ६३.३।

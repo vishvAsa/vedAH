@@ -23,7 +23,6 @@ mām* as two words⌋. Ppp. combines *kāmā ”gan* in **a**.
 O Kama, with whatever wish we make this offering to thee, May it be all fulfilled to us. Then taste this sacrifice, All hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कामेन। मा। कामः। आ। अगन्। हृदयात्। हृदयम्। परि। यत्। अमीषाम्। अदः। मनः। तत्। आ। एतु। उप। माम्। इह। ५२.४।

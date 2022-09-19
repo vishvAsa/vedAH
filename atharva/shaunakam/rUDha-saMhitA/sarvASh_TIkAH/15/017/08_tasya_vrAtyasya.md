@@ -21,7 +21,6 @@ three is obscure; Aufrecht leaves them untranslated.
 With one and the same object the Gods go round the Year and the Seasons follow round the Vratya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 समानम्। अर्थम्। परि। यन्ति। देवाः। सम्ऽवत्सरम्। वै। एतत्। ऋतवः। अनुऽपरियन्ति। व्रात्यम्। च। १७.८।

@@ -19,7 +19,6 @@ leave the word untranslated.
 To all the Vidagana Angirases, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सर्वेभ्यः। अङ्गिरःऽभ्यः। विदऽगणेभ्यः। स्वाहा। २२.१८।

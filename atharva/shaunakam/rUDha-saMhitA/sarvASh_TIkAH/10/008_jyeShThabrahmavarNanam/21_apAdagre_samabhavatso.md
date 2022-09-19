@@ -21,7 +21,7 @@ Footless at first was he produced, footless he brought celestial light. Four-foo
 
 <details open><summary>पदपाठः</summary>
 
-अपात्। अग्रे। सम्। अभवत्। सः। अग्रे। स्वः। आ। अभरत्। चतुःऽपात्। भूत्वा। भोग्यः। सर्वम्। आ। अदत्त। भोजनम्। ८.२१।
+अपात्। अग्रे। सम्। अभवत्। सः। अग्रे। स्वः᳡। आ। अभरत्। चतुःऽपात्। भूत्वा। भोग्यः। सर्वम्। आ। अदत्त। भोजनम्। ८.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

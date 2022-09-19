@@ -8,7 +8,6 @@ title = "०८ प्र यमन्तर्वृषसवासो"
 Indra the swallower of strong libations with their thick residue, the potent Somas, He, Maghavan, will not restrict his bounty: he brings much wealth unto the Soma-presser.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। यम्। अन्तः। वृषऽसवासः। अज्मन्। तीव्राः। सोमाः। बहुलऽअन्तासः। इन्द्रम्। न। अह। दामानम्। मघऽवा। नि। यंसत्। नि। सुन्वते। वहति। भूरि। वामम्। ८९.८।

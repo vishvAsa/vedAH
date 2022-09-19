@@ -7,7 +7,6 @@ title = "०७० पूर्णायुः"
 70. For long life.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 पूर्णायुः।  
@@ -18,8 +17,6 @@ title = "०७० पूर्णायुः"
 
 [Brahman.—ekarcam. sāuryam. 3-p. gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 320.
 
 A charm for long life
 </details>
+

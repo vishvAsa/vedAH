@@ -24,7 +24,6 @@ accent only in books xix. and xx. and in a RV. passage, at v. 2. 1.⌋
 Kala embraces Holy Fire, the Highest, Brahma in himself. Yea, Kala, who was father of Prajapati, is Lord of All.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 काले। तपः। काले। ज्येष्ठम्। काले। ब्रह्म। सम्ऽआहितम्। कालः। ह। सर्वस्य। ईश्वरः। यः। पिता। आसीत्। प्रजाऽपतेः। ५३.८।

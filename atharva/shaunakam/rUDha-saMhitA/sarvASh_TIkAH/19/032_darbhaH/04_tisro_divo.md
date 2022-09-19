@@ -31,7 +31,6 @@ emendation.⌋ Ppp. reads in **b** *tisro dyāṁ pṛth-*.
 Through all three skies the plant hath pierced, and the three regions of the earth; With thee I split in twain the tongue and words of the bad- hearted man.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तिस्रः। दिवः। अति। अतृणत्। तिस्रः। इमाः। पृथिवीः। उत। त्वया। अहम्। दुःऽहार्दः। जिह्वाम्। नि। तृणद्मि। वचांसि। ३२.४।

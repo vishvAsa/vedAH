@@ -19,7 +19,6 @@ deficiency of a syllable in **a**.
 Consumptions, light and serious, and those which sounds accompany, All these the Amulet, Hundred-haired, scarer of fiends, hath banished hence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। यक्ष्मासः। अर्भकाः। महान्तः। ये। च। शब्दिनः। सर्वान्। दुर्नामऽहा। मणिः। शतऽवारः। अनीनशत्। ३६.३।

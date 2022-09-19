@@ -34,7 +34,6 @@ body, to be burned with it.
 Upabhrit stablished air, Juhu the heaven, Dhruva supported earth securely founded. As meed, the Svarga worlds, o'erspread with fatness shall yield the sacrificer all his wishes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जुहूः। दाधार। द्याम्। उपऽभृत्। अन्तर‍िक्षम्। ध्रुवा। दाधार। पृथिवीम्। प्रतिऽस्थाम्। प्रति। ईमाम्। लोकाः। घृतऽपृष्ठाः। स्वःऽगाः। कामम्ऽकामम्। यजमानाय। दुह्नाम्। ४.५।

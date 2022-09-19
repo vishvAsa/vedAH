@@ -8,7 +8,6 @@ title = "०७ ऋजीषी वज्री"
 Impetuous, Thunderer, strong, quelling the mighty, King, potent, Vritra-slayer, Soma-drinker, May he come hither with his yoked bay horses. May Indra glad- den him at noon libation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋजीषी। वज्री। वृषभः। तुराषाट्। शुष्मी। राजा। वृत्रऽहा। सोमऽपावा। युक्त्वा। हर‍िऽभ्याम्। उप। यासत्। अर्वाङ्। माध्यंदिने। सवने। मत्सत्। इन्द्रः। १२.७।

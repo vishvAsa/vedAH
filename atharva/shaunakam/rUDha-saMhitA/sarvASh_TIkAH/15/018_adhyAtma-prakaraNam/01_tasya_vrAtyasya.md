@@ -16,7 +16,6 @@ title = "०१ तस्य व्रात्यस्य"
 Of that Vratya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। १८.१।

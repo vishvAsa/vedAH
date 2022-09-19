@@ -35,7 +35,6 @@ for *vanaspati*) usually means
 Let not a tree oppness thee, nor Earth the great Goddess weigh thee down. Among the Fathers find thy home, and thrive mid those whom Yama rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। त्वा। वृक्षः। सम्। बाधिष्ट। मा। देवी। पृथिवी। मही। लोकम्। पितृषु। वित्त्वा। एधस्व। यमराजऽसु। २.२५।

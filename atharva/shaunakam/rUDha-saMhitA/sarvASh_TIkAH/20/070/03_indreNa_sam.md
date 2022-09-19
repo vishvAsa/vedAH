@@ -8,7 +8,6 @@ title = "०३ इन्द्रेण सम्"
 Then, faring on by Indra's side, the fearless, let thyself be seen,. Both gracious and in splendour peers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रेण। सम्। हि। दृक्षसे। सम्ऽजग्मानः। अबिभ्युषा। मन्दू इति। समानऽवर्चसा। ७०.३।

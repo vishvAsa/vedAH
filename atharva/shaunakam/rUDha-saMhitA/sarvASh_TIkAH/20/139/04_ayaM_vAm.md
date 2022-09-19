@@ -8,7 +8,6 @@ title = "०४ अयं वाम्"
 Asvins, for you with song of praise this hot oblation is effused, This your sweet Soma juice, ye Lords of wealth and spoil, through which ye think upon the foe.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। वाम्। घर्मः। अश्विना। स्तोमेन। परि। सिच्यते। अयम्। सोमः। मधुऽमान्। वाजिनीवसू इति वाजिनीऽवसू। येन। वृत्रम्। चिकेतथः। १३९.४।

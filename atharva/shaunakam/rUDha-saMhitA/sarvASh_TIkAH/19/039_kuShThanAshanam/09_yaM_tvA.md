@@ -29,10 +29,9 @@ ahiśyāvaso anusāricchas tenā-* etc.—too corrupt to give any help.
 Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa and Matsya knew, hence healer of all ills art thou.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यम्। त्वा। वेद। पूर्वः। इक्ष्वाकः। यम्। वा। त्वा। कुष्ठः। काम्यः। यम्। वा। वसः। यम्। आत्स्यः। तेन। असि। विश्वऽभेषजः। ३९.९।
+यम्। त्वा। वेद। पूर्वः। इक्ष्वाकः। यम्। वा। त्वा। कुष्ठः। काम्यः᳡। यम्। वा। वसः। यम्। आत्स्यः। तेन। असि। विश्वऽभेषजः। ३९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Accordant and allies, Bhava and Rudra, with mighty strength ye go to deeds of va
 
 <details open><summary>पदपाठः</summary>
 
-भवारुद्रौ। सऽयुजा। सम्ऽविदानौ। उभौ। उग्रौ। चरतः। वीर्याय। ताभ्याम्। नमः। यतमस्याम्। दिशि। इतः। २.१४।
+भवारुद्रौ। सऽयुजा। सम्ऽविदानौ। उभौ। उग्रौ। चरतः। वीर्या᳡य। ताभ्याम्। नमः। यतमस्याम्। दिशि। इतः। २.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "०३ यस्य ते"
 Great riches which the world of men shall recognize as sent by thee: Bring us the wealth for which we long,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्य। ते। विश्वऽमानुषः। भूरेः। दत्तस्य। वेदति। वसु। स्पार्हम्। तत्। आ। भर। ४३.३।

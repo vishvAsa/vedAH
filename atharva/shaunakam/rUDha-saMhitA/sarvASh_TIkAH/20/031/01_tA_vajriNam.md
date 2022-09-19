@@ -8,7 +8,6 @@ title = "०१ ता वज्रिणम्"
 These two dear Bays bring hither Indra on his car, thunder- armed, joyous, meet for laud, to drink his fill. Many libations flow for him who loveth them: to Indra have: the gold-hued Soma juices run.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ता। वज्रिणम्। मन्दिनम्। स्तोम्यम्। मदे। इन्द्रम्। रथे। वहतः। हर्यता। हरी इति। पुरूणि। अस्मै। सवनानि। हर्यते। इन्द्राय। सोमाः। हरयः। दधन्विरे। ३१.१।

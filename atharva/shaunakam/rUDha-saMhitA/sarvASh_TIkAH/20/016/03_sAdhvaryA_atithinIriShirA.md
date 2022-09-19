@@ -8,7 +8,6 @@ title = "०३ साध्वर्या अतिथिनीरिषिर
 Brihaspati, having won them from the mountains, strewed down, like barley out of winnowing-baskets, The vigorous, wandering cows who aid the pious, desired of all, of blameless form, well-coloured.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 साधुऽअर्याः। अतिथिनीः। इषिराः। स्पार्हाः। सुऽवर्णाः। अनवद्यऽरूपाः। बृहस्पतिः। पर्वतेभ्यः। विऽतूर्य। निः। गाः। ऊपे। यवम्ऽइव। स्थिविऽभ्यः। १६.३।

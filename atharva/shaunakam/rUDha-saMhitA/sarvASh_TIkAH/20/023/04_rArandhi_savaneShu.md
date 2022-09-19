@@ -8,7 +8,6 @@ title = "०४ रारन्धि सवनेषु"
 O Vritra-slayer, be thou pleased with these libations, with these hymns, Song-loving Indra, with our lauds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ररन्धि। सवनेषु। नः। एषु। स्तोमेषु। वृत्रऽहन्। उक्थेषु। इन्द्र। गिर्वणः। २३.४।

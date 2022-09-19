@@ -8,7 +8,6 @@ title = "०२ कस्त्वा सत्यो"
 What genuine and most liberal draught will spirit thee with juice to burst. Open e'en strongly-guarded wealth?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। त्वा। सत्यः। मदानाम्। मंहिष्ठः। मत्सत्। अन्धसः। दृह्ला। चित्। आऽरुजे। वसु। १२४.२।

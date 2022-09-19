@@ -16,7 +16,6 @@ title = "०४ नीलनखेभ्यः स्वाहा"
 The black-clawed ones, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नीलऽनखेभ्यः। स्वाहा। २२.४।

@@ -17,7 +17,6 @@ title = "१० अरिप्रा आपो"
 May stainless waters cleanse us from defilement.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अरिप्राः। आपः। अप। रिप्रन्। अस्मत्। १.१०।

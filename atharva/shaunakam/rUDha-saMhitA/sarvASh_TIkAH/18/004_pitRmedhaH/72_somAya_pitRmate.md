@@ -28,7 +28,6 @@ also ĀpśS. viii. 13. 15, 16.⌋
 To Soma connected with the Fathers Hail! and homage!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमाय। पितृऽमते। स्वधा। नमः। ४.७२।

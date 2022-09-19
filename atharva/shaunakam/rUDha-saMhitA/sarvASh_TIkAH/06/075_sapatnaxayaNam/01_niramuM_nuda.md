@@ -23,7 +23,7 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 
 <details open><summary>पदपाठः</summary>
 
-निः। अमुम्। नुदे। ओकसः। सऽपत्नः। यः। पृतन्यति। नैःऽबाध्येन। हविषा। इन्द्रः। एनम्। परा। अशरीत्। ७५.१।
+निः। अमुम्। नुदे। ओकसः। सऽपत्नः। यः। पृतन्यति। नैःऽबाध्ये᳡न। हविषा। इन्द्रः। एनम्। परा। अशरीत्। ७५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

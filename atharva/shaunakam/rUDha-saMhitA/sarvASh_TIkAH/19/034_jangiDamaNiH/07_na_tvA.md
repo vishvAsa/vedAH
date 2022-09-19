@@ -21,7 +21,6 @@ naturally enough, spelled with a *la*. Our *pada*-mss. read in **d**
 The ancient plants surpass thee not, nor any herbs of recent days. A potent charm is Jangida, a most felicitous defence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। त्वा। पूर्वाः। ओषधयः। न। त्वा। तरन्ति। याः। नवाः। विऽबाधः। उग्रः। जङ्गिडः। परिऽपानः। सुऽमङ्गलः। ३४.७।

@@ -8,7 +8,6 @@ title = "११ युञ्जन्त्यस्य काम्या"
 They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny, bearers of the Chief.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युञ्जन्ति। अस्य। काम्या। हरी इति। विऽपक्षसा। रथे। शोणा। धृष्णू इति। नृऽवाहसा। ४७.११।

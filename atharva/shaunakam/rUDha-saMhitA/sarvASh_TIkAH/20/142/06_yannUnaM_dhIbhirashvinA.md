@@ -8,7 +8,6 @@ title = "०६ यन्नूनं धीभिरश्विना"
 When, Asvins worthy of our lauds, ye seat you in the father's house. With wisdom or the bliss ye bring.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। नूनम्। धीभिः। अश्विना। पितुः। योना। निऽसीदथः। यत्। वा। सुम्नेभिः। उक्थ्या। १४२.६।

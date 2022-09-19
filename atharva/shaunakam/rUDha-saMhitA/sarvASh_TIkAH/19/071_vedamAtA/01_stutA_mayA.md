@@ -41,7 +41,6 @@ and resolves *stuto* into *stutā u*.⌋
 Let my libations, giving boons, adoring, further the Twice-born's song that honours Soma. Go ye to Brahma's world having enriched me with life and breath, with children and with cattle, with fame and wealth, and with a Brahman's lustre.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तुता। मया। वरदा। वेदऽमाता। प्र। चोदयन्ताम्। पावमानी। द्विजानाम्। आयुः। प्राणम्। प्रऽजाम्। पशुम्। कीर्तिम्। द्रविणम्। ब्रह्मऽवर्चसम्। मह्यम्। दत्त्वा। व्रजत। ब्रह्मऽलोकम्। ७१.१।

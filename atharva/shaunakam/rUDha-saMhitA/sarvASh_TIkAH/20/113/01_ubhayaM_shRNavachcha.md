@@ -8,7 +8,6 @@ title = "०१ उभयं शृणवच्च"
 Both boons--may Indra hitherward turned, listen to this, prayer of ours, And, mightiest Maghavan with thought inclined to us come nigh to drink the Soma juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उभयम्। शृण्वत्। च। नः। इन्द्रः। अर्वाक्। इदम्। वचः। सत्राच्या। मघऽवा। सोमऽपीतये। धिया। शविष्ठः। आ। गमत्। ११३.१।

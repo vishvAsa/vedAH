@@ -8,7 +8,6 @@ title = "०२ अस्मा इदु"
 To him I offer praise as choice refreshment, bring forth my song, with seemly laud besiege him. For Indra, Lord of olden time, the singers shall deck their hymns with heart and mind and spirit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। प्रयःऽइव। प्र। यंसि। भरामि। आङ्गूषम्। बाधे। सुऽवृक्ति। इन्द्राय। हदा। मनसा। मनीषा। प्रत्नाय। पत्ये। धियः। मर्जयन्त। ३५.२।

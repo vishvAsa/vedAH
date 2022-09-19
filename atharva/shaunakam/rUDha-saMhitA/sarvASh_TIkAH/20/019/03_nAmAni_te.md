@@ -8,7 +8,6 @@ title = "०३ नामानि ते"
 O Indra, Lord of Hundred Powers, with all our songs we invocate. Thy names for triumph over foes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नामानि। ते। शतक्रतो इति शतऽक्रतो। विश्वाभिः। गीऽभिः। ईमहे। इन्द्र। अभिमातिऽसह्ये। १९.३।

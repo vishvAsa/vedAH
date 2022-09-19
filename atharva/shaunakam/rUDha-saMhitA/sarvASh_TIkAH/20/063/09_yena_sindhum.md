@@ -8,7 +8,6 @@ title = "०९ येन सिन्धुम्"
 Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go the way ordained by Law, for that we pray.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। सिन्धुम्। महीः। अपः। रथान्ऽइव। प्रऽचोदयः। पन्थाम्। ऋतस्य। यातवे। तम्। ईमहे। ६३.९।

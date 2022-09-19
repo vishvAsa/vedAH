@@ -23,7 +23,6 @@ does not make any change in the 3d du. verb *bhavatām*.
 Befriend us with their aids Indra and Agni, Indra and Varuna who receive oblations! Indra and Soma give health, wealth and comfort, Indra and Pushan be our strength in battle!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। इन्द्राग्नी इति। भवताम्। अवःऽभिः। शम्। नः। इन्द्रावरुणा। रातऽहव्या। शम्। इन्द्रासोमा। सुविताय। शम्। योः। शम्। नः। इन्द्रापूषणा। वाजऽसातौ। १०.१।

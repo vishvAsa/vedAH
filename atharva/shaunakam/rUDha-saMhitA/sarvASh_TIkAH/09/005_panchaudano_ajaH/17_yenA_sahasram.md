@@ -27,7 +27,7 @@ Convey our sacrifice to heaven, that it may reach the Gods, with that Whereby th
 
 <details open><summary>पदपाठः</summary>
 
-येन। सहस्रम्। वहसि। येन। अग्ने। सर्वऽवेदसम्। तेन। इमम्। यज्ञम्। नः। वह। स्वः। देवेषु। गन्तवे। ५.१७।
+येन। सहस्रम्। वहसि। येन। अग्ने। सर्वऽवेदसम्। तेन। इमम्। यज्ञम्। नः। वह। स्वः᳡। देवेषु। गन्तवे। ५.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

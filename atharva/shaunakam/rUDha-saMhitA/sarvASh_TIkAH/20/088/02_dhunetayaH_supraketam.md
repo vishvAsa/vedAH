@@ -8,7 +8,6 @@ title = "०२ धुनेतयः सुप्रकेतम्"
 Wild in their course, in well-marked wise rejoicing were they,. Brihaspati, who pressed around us Preserve, Brihaspati, the stall uninjured,r,this company's raining. ever-moving birth-place.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धुनऽइतयः। सुऽप्रकेतम्। मदन्तः। बृहस्पते। अभि। ये। नः। ततस्रे। पृषन्तम्। सृप्रम्। अदब्धम्। ऊर्वम्। बृहस्पते। रक्षताम्। अस्य। योनिम्। ८८.२।

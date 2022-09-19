@@ -8,7 +8,6 @@ title = "०५ महानग्न्यतृप्नद्वि मोक
 Magnopere delectata est arnica: ut equns solutus adveniens vocem edidit: Vaginam juvenis! pene percute: medium. femur paratum est.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इत‍ि। अतृप्नत्। वि। मोक्रदत्। अस्थाना। आसरन्। शक्तिकाननाः। स्वचमशकम्। सक्तु। पद्यम्। १३६.५।

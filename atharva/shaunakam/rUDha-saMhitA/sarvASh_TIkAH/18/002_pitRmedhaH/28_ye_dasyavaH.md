@@ -55,7 +55,6 @@ about and then flung away.
 Those Dasyus who, not eating our oblations, come wilh friends' faces mingled with the Fathers, Those who wear gross those who wear subtile bodies,--from this. our sacrifice let Agni blast them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। दस्यवः। पितृषु। प्रऽविष्टाः। ज्ञातिऽमुखाः। अहुतऽअदः। चरन्ति। पराऽपुरः। निऽपुरः। ये। भरन्ति। अग्निः। तान्। अस्मात्। प्र। धमाति। यज्ञात्। २.२८।

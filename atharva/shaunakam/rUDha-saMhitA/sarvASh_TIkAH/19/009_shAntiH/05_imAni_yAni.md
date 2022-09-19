@@ -22,7 +22,6 @@ verse (10 + 8 + 7: 8 + 8 = 41) is ill defined by the Anukr.
 These five sense-organs with the mind as sixth, sharpened by Prayer, abiding in my heart, By which the awful spell was made, even by these be peace to us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमानि। यानि। पञ्च। इन्द्रियाणि। मनःऽषष्ठानि। मे। हृदि। ब्रह्मणा। सम्ऽशितानि। यैः। एव। ससृजे। घोरम्। तैः। एव। शान्तिः। अस्तु। नः। ९.५।

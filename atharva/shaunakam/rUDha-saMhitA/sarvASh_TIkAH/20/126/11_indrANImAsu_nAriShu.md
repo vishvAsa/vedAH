@@ -8,7 +8,6 @@ title = "११ इन्द्राणीमासु नारिषु"
 So have I heard Indrani called most fortunate among these dames, For never shall her Consort die in future time through length of days. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्राणीम्। आसु। नारिषु। सुऽभगाम्। अहम्। अश्रवम्। नहि। अस्याः। अपरम्। चन। जरसा। भरते। पतिः। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.११।

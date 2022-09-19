@@ -23,10 +23,9 @@ but⌋ the comm. omits the word, as the meter plainly requires. The verse
 In heaven and on the earth thou art uninjured, none reach thy greatness in the air's mid region. Increasing by inviolate devotion as such in heaven grant us pro- tection, Indra. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अदब्धः। दिवि। पृथिव्याम्। उत। अस‍ि। न। ते। आपुः। महिमानम्। अन्तरिक्षे। अदब्धेन। ब्रह्मणा। ववृधानः। सः। त्वम्। नः। इन्द्र। दिवि। सन्। शर्म। यच्छ। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१२।
+अदब्धः। दिवि। पृथिव्याम्। उत। अस‍ि। न। ते। आपुः। महिमानम्। अन्तरिक्षे। अदब्धेन। ब्रह्मणा। ववृधानः। सः। त्वम्। नः। इन्द्र। दिवि। सन्। शर्म। यच्छ। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

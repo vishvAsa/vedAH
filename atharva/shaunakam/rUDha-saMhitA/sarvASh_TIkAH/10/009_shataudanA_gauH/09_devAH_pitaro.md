@@ -22,7 +22,7 @@ The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will b
 
 <details open><summary>पदपाठः</summary>
 
-देवाः। पितरः। मनुष्याः। गन्धर्वऽअप्सरसः। च। ये। ते। त्वा। सर्वे। गोप्स्यन्ति। सा। अतिऽरात्रम्। अति। द्रव। ९.९।
+देवाः। पितरः। मनुष्याः᳡। गन्धर्वऽअप्सरसः। च। ये। ते। त्वा। सर्वे। गोप्स्यन्ति। सा। अतिऽरात्रम्। अति। द्रव। ९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

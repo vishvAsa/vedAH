@@ -8,7 +8,6 @@ title = "०३ अग्ने देवाँ"
 Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art our herald, meet for praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्ने। देवान्। इह। आ। वह। जज्ञानः। वृक्तऽबर्हिषे। असि। होता। नः। ईड्यः। १०१.३।

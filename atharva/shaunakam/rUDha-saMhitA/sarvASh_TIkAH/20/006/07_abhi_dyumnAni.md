@@ -8,7 +8,6 @@ title = "०७ अभि द्युम्नानि"
 To Indra go the treasures of the worshipper which never fail: He drinks the Soma and is strong.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। द्युम्नानि। वनिनः। इन्द्रम्। सचन्ते। अक्षिता। पीत्वी। सोमस्य। ववृधे। ६.७।

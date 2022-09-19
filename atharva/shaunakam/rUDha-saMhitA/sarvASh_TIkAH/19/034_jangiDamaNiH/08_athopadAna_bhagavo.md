@@ -35,10 +35,9 @@ Indra added further heroic quality.'
 Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mighty One, bestowed great power upon thee from the first.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अथ। उपऽदान। भगऽवः। जङ्गिड। अमितऽवीर्य। पुरा। ते। उग्राः। ग्रसते। उप। इन्द्रः। वीर्यम्। ददौ। ३४.८।
+अथ। उपऽदान। भगऽवः। जङ्गिड। अमितऽवीर्य। पुरा। ते। उग्राः। ग्रसते। उप। इन्द्रः। वीर्य᳡म्। ददौ। ३४.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

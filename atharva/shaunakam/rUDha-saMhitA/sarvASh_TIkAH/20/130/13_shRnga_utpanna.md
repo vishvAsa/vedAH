@@ -8,7 +8,6 @@ title = "१३ शृङ्ग उत्पन्न"
 This O Mandurika, is mine. Thy trees are standing in a clump.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शृङ्गः। उत्पन्न। १३०.१३।

@@ -26,7 +26,6 @@ cremation, all the Brahmans should take a bath (*snānaṁ kuryuḥ*).
 Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and under. Then under thy protection, O Aditya, may we be sinless and restored to freedom.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। उत्ऽतमम्। वरुण। पाशम्। अस्मत्। अव। अधमम्। वि। मध्यमम्। श्रथय। अध। वयम्। आदित्य। व्रते। तव। अनागसः। अदितये। स्याम। ४.६९।

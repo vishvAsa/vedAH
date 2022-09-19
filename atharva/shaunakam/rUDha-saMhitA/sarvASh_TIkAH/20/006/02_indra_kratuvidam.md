@@ -8,7 +8,6 @@ title = "०२ इन्द्र क्रतुविदम्"
 Indra, whom many laud, accept the strength-confering Soma juice. Quaff, pour down drink that satisfies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। क्रतुऽविदम्। सुतम्। सोमम्। हर्य। पुरुऽस्तुत। पिब। आ। वृषस्व। ततृपिम्। ६.२।

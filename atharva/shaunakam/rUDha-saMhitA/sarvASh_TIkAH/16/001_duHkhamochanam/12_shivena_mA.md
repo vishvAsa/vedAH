@@ -18,10 +18,9 @@ We had this verse above as i. 33. 4 **a, b**.
 Look on me with a friendly eye, O, Waters, and touch my skin with your auspicious body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शिवेन। मा। चक्षुषा। पश्यत। आपः। शिवया। तन्वा। उप। स्पृशत। त्वचम्। मे। १.१२।
+शिवेन। मा। चक्षुषा। पश्यत। आपः। शिवया। तन्वा᳡। उप। स्पृशत। त्वचम्। मे। १.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

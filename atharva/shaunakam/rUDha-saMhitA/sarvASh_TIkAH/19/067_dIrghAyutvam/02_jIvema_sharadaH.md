@@ -16,7 +16,6 @@ title = "०२ जीवेम शरदः"
 A hundred autumns may we live.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जीवेम। शरदः। शतम्। ६७.२।

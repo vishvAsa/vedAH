@@ -8,7 +8,6 @@ title = "०३ ये वाम्"
 Remember Karnva first of all among the singers,, Asvins, who Have thought upon your wondrous deeds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। वाम्। दंसांसि। अश्विना। विप्रासः। परिऽममृक्षुः। एव। इत्। काण्वस्य। बोधतम्। १३९.३।

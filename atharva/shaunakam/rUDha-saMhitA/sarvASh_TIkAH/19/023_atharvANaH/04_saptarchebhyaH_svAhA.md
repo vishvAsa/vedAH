@@ -16,7 +16,6 @@ title = "०४ सप्तर्चेभ्यः स्वाहा"
 Hail to the seven-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सप्तऽऋचेभ्यः। स्वाहा। २३.४।

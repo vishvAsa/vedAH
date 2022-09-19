@@ -8,7 +8,6 @@ title = "०२ ता अस्य"
 Craving his touch the dappled Kine mingle the Soma with their milk. The milch-kine dear to Indra send forth his death-dealing thun- derbolt, good in their own supremacy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ताः। अस्‍य। पृशनऽयुवः। सोमम्। श्रीणन्ति। पृश्नयः। प्रियाः। इन्द्रस्य। धेनवः। वज्रम्। हिन्वन्ति। सायकम्। १०९.२।

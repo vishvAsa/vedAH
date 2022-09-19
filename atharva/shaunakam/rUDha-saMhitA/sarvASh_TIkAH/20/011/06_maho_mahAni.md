@@ -8,7 +8,6 @@ title = "०६ महो महानि"
 They laud the mighty acts of him the mighty, the many glorious deeds performed by Indra. He in his strength, with all-surpassing prowess, through wond- rous arts crushed the malignant Dasyus.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महः। महानि। पनयन्ति। अस्य। इन्द्रस्य। कर्म। सऽकृता। पुरूणि। वृजनेन। वृजिनान्। सम्। पिपेष। मायाभिः। दस्यून्। अभिभूतिऽओजाः। ११.६।

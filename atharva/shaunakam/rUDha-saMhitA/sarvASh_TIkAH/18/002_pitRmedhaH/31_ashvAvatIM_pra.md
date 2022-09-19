@@ -42,7 +42,6 @@ degree to indicate corruption of text.
 Prolong the pleasant Dawn enriched with horses-or bearing us. anew beyond the darkness. Adjudged to die be he, the man who slew thee: this portion let him find, and not another.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्वऽवतीम्। प्र। तर। या। सुऽशेवा। ऋक्षकम्। वा। प्रऽतरम्। नवीयः। यः। त्वा। जघान। वध्यः। सः। अस्तु। मा। सः। अन्यत्। विदत। भागऽधेयम्। २.३१।

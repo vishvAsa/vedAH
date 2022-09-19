@@ -8,7 +8,6 @@ title = "०२ परा हीन्द्र"
 Thou, Indra, heedless passest by the ill Vrishakapi hath wrought; Yet nowhere else thou findest place wherein to drink the Soma juice. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परा। हि। इन्द्र। धावसि। वृषाकपेः। अति। व्यथिः। नो इति। अह। प्र। विन्दसि। अन्यत्र। सोमऽपीतये। विश्वस्मात्। इन्द्रः। उत्ऽतरः। १२६.२।

@@ -8,7 +8,6 @@ title = "१३ उदु त्यम्"
 His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that every one may see.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ऊं इति। त्यम्। जातऽवेदसम्। देवम्। वहन्ति। केतवः। दृशे। विश्वाय। सूर्यम्। ४७.१३।

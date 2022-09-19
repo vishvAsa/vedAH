@@ -8,7 +8,6 @@ title = "०४ आ नूनम्"
 Now come, ye Asvins, hitherward: here are oblations set for you; These Soma draughts to aid Yadu and Turvasa, these offered you mid Kanva's sons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नूनम्। यातम्। अश्विना। इमा। हव्यानि। वाम्। हिता। इमे। सोमासः। अधि। तुर्वशे। यदौ। इमे। कण्वेषु। वाम्। अथ। १४१.४।

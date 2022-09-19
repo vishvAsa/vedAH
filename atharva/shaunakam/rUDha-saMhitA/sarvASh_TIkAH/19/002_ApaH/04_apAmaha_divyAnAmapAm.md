@@ -23,10 +23,9 @@ made. ⌊Error due to *srotasyā̀nām?*⌋
 Bathed in the Waters verily divine, in water of the streams, Bathed in the Waters verily, O Horses, be ye fleet and strong.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अपाम्। अह। दिव्यानाम्। अपाम्। स्रोतस्यानाम्। अपाम्। अह। प्रऽनेजने। अश्वाः। भवथ। वाजिनः। २.४।
+अपाम्। अह। दिव्या᳡नाम्। अपाम्। स्रोतस्या᳡नाम्। अपाम्। अह। प्रऽनेजने। अश्वाः। भवथ। वाजिनः। २.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

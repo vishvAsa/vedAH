@@ -22,7 +22,6 @@ in fact, *ā ’ruham;* and, in **c**, *ahar ṇo ‘ty*.
 Thou for our weal, Aditya, hast mounted thy ship with hundred oars. Thou hast transported me to day: so bear me evermore to night.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आदित्य। नावम्। आ। अरुक्षः। शतऽअरित्राम्। स्वस्तये। अहः। मा। अति। अपीपरः। रात्रिम्। सत्रा। अति। पारय। १.२५।

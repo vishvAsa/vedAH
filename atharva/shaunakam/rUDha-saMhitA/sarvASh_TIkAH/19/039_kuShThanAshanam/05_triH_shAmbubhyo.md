@@ -32,10 +32,9 @@ have it.
 Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, born from the Visve Devas thrice, Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्रिः। शाम्बुऽभ्यः। अङ्गिरेभ्यः। त्रिः। आदित्येभ्यः। परि। त्रिः। जातः। विश्वऽदेवेभ्यः। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः। ३९.५।
+त्रिः। शाम्बुऽभ्यः। अङ्गिरेभ्यः। त्रिः। आदित्येभ्यः। परि। त्रिः। जातः। विश्वऽदेवेभ्यः। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "०१ एवा पाहि"
 Drink as of old, and let the draught delight thee: hear thou my prayer and let our songs exalt thee. Make the Sun visible, make food abundant: slaughter the foes,. pierce through and free the cattle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। पाहि। प्रत्नऽथा। मन्दतु। त्वा। श्रुधि। ब्रह्म। ववृधस्व। उत। गीऽभिः। आविः। सूर्यम्। कृणुहि। पीपिहि। इषः। जहि। शत्रून्। अभि। गाः। इन्द्र। तृन्द्धि। ८.१।

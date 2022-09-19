@@ -8,7 +8,6 @@ title = "०३ अभी षु"
 Do thou who art protector us thy friends who praise thee With hundred aids approach us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। सु। नः। सखीनाम्। अविता। जरितॄणाम्। शतम्। भवासि। ऊतिऽभिः। १२४.३।

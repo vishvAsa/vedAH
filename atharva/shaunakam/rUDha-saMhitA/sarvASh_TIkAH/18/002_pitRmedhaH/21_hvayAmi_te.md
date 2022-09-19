@@ -22,7 +22,6 @@ The Anukr. does not heed the redundant syllable in **b**.
 Hither I call thy spirit with my spirit. Come thou; delighted, to these dwelling-places. Unite thee with the Fathers and with Yama: strong and delicious be the winds that fan thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ह्वयामि। ते। मनसा। मनः। इह। इमान्। गृहान्। उप। जुजुषाणः। आ। इहि। सम्। गच्छस्व। पितृऽभिः। सम्। यमेन। स्योनाः। त्वा। वाताः। उप। वान्तु। शग्माः। २.२१।

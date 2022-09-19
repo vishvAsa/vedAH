@@ -25,7 +25,6 @@ cf. the *pratīkas* in Knauer's Index, and also under *pitṛbhyas*, p.
 To Yama connected with the Fathers Hail! and homage!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमाय। पितृऽमते। स्वधा। नमः। ४.७४।

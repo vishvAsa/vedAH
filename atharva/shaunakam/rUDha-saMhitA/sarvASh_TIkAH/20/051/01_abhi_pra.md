@@ -8,7 +8,6 @@ title = "०१ अभि प्र"
 For you will I sing Indra's praise who gives good gifts as well we know; Praise of the Bounteous Lord who, rich in treasure, aids his singers with wealth thousandfold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। प्र। वः। सुऽराधसम्। इन्द्रम्। अर्च। यथा। विदे। यः। जरितृभ्यः। मघऽवा। पुरुऽवसुः। सहस्रेणऽइव। शिक्षति। ५१.१।

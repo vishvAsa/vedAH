@@ -16,7 +16,6 @@ title = "०१ तस्य व्रात्यस्य"
 His first diffused breath is this Earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। प्रथमः। विऽआनः। सा। इयम्। भूमिः। १७.१।

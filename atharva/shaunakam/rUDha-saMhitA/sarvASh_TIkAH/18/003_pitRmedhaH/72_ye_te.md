@@ -27,7 +27,6 @@ on smearing the *piṇḍas* with sacrificial butter.
 To these, thy Fathers who have passed away at first and after- ward, Let the full brook of butter run, o'erflowing with a hundred streams.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। ते। पूर्वे। पराऽगताः। अपरे। पितरः। च। ये। तेभ्यः। घृतस्य। कुल्या। एतु। शतऽधारा। विऽउदन्ती। ३.७२।

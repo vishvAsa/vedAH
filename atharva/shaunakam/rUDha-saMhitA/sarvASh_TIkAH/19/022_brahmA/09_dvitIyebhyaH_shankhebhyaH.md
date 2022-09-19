@@ -16,7 +16,6 @@ title = "०९ द्वितीयेभ्यः शङ्खेभ्यः
 To the second shells, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्वितीयेभ्यः। शङ्खेभ्यः। स्वाहा। २२.९।

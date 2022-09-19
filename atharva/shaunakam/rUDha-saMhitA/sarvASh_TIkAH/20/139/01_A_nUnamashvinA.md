@@ -8,7 +8,6 @@ title = "०१ आ नूनमश्विना"
 To help and favour Vatsa now, O Asvins, come ye hitherward. Bestow on him a dwelling spacious and secure, and keep malig- nites afar.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नूनम्। अश्विना। युवम्। वत्सस्य। गन्तम्। अवसे। प्र। अस्मै। यच्छतम्। अवृकम्। पृथु। छर्दिः। युयुतम्। याः। अरातयः। १३९.१।

@@ -8,7 +8,6 @@ title = "०१ योगेयोगे तवस्तरम्"
 In every need, in every fray we call, as friends, to succour us Indra the mightiest of all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 योगेऽयोगे। तवःऽतरम्। वाजेऽवाजे। हवामहे। सखायः। इन्द्रम्। ऊतये। २६.१।

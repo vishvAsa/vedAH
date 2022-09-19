@@ -19,7 +19,6 @@ At the beginning, read in our text *tásmā* for *tásmāi*.
 They made the Awful God, the Archer, his deliverer from the intermediate space of the northern region, etc, as above.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। उदीच्याः। दिशः। अन्तःऽदेशात्। उग्रम्। देवम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.८।

@@ -8,7 +8,6 @@ title = "०२ यद् वा"
 Or, Sakra, if thou gladden thee afar or in the sea of air, Rejoice thee in this juice of ours, in flowing drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वा। शक्र। पराऽवति। समुद्रे। अधि। मन्दसे। अस्माकम्। इत्। सुते। रण। सम्। इन्दुऽभिः। १११.२।

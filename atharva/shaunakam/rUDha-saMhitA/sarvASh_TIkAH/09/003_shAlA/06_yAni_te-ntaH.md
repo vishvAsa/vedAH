@@ -33,7 +33,7 @@ We loose the loops which men have bound within thee, loops to tie and hold. Be g
 
 <details open><summary>पदपाठः</summary>
 
-यानि। ते। अन्तः। शिक्यानि। आऽबेधुः। रण्याय। कम्। प्र। ते। तानि। चृतामसि। शिवा। मानस्य। पत्नि। नः। उध्दिता। तन्वे। भव। ३.६।
+यानि। ते। अन्तः। शिक्या᳡नि। आऽबेधुः। रण्या᳡य। कम्। प्र। ते। तानि। चृतामसि। शिवा। मानस्य। पत्नि। नः। उध्दिता। तन्वे᳡। भव। ३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

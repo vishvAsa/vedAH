@@ -48,7 +48,6 @@ verse (*taṁ tvā* to *gṛhe*) as 9 + 9 + 7 + 13 (reading *vapa*): 8 + 8 =
 Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, Dream, as such we know thee well. Like a horse art thou, O Dream. As they bind girth and surcingle on a horse, so bind the alien mischief-maker, the scorner of the Gods.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। त्वा। स्वप्न। तथा। सम्। विद्म। सः। त्वम्। स्वप्न। अश्वःऽइव। कायम्। अश्वःऽइव। नीनाहम्। अनास्माकम्। देवऽपीयुम्। पियारुम्। वप। यत्। अस्मासु। दुःऽस्वप्न्यम्। यत्। गोषु। यत्। च। नः। गृहे। ५७.४।

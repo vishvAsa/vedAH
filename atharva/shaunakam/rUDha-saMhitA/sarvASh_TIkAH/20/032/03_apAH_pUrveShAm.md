@@ -8,7 +8,6 @@ title = "०३ अपाः पूर्वेषाम्"
 Juices aforetime, Lord of Bays, thou drankest, and thine, and only thine, is this libation. Gladden thee, Indra, with the mead-rich Soma: pour it down ever, Mighty One, within thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपाः। पूर्वेषाम्। हरिऽवः। सुतानाम्। अथो इति। इदम्। सवनम्। केवलम्। ते। ममध्दि। सोमम्। मधुऽमन्तम्। इन्द्र। सत्रा। वृषन्। जठरे। आ। वृषस्व। ३२.३।

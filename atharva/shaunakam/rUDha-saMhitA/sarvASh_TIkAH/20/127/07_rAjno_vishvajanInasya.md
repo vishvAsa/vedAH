@@ -8,7 +8,6 @@ title = "०७ राज्ञो विश्वजनीनस्य"
 List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth over all, excelling mortals as a God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 राज्ञः। विश्वजनीनस्य। यः। देवः। मर्त्यान्। अत‍ि। वैश्वानरस्य। सुष्टुतिम्। आ। सुनोत। परिक्षितः। १२७.७।

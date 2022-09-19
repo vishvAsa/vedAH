@@ -17,7 +17,6 @@ agent etc. etc.
 We know thine origin, O Sleep. Thou art the son of Destruction, the minister of Yama, etc. (as in verse 1).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अन्तकः। असि। मृत्यु ः। असि। ५.२।

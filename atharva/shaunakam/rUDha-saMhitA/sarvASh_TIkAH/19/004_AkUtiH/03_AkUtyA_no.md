@@ -20,7 +20,6 @@ The comm. has in **c** *dehi*. The definition of the verse as an
 With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a share of luck, and so be swift to hear our call.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽकूत्या। नः। बृहस्पते। आऽकूत्या। नः। उप। आ। गहि। अथो इति। भगस्य। नः। धेहि। अथो इति। नः। सुऽहवः। भव। ४.३।

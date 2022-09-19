@@ -8,7 +8,6 @@ title = "२१ अयुक्त सप्त"
 Surya hath yoked the seven bright mares, the daughters of the car: With these, His own dear team, he travelleth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयुक्तः। सप्त। शुन्ध्युवः। सुरः। रथस्य। नप्त्यः। ताभिः। याति। स्वयुक्तिऽभिः। ४७.२१।

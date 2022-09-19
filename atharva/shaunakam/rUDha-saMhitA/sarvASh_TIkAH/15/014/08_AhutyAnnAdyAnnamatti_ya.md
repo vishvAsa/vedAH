@@ -14,7 +14,6 @@ food-eater doth he eat food who knoweth thus.
 He who hath this knowledge eats food with oblation as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽहुत्या। अन्नऽअद्या। अन्नम्। अत्ति। यः। एवम्। वेद। । १४.८।

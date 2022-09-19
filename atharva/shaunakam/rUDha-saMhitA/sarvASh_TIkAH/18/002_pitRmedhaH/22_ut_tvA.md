@@ -20,7 +20,6 @@ under vs. 8 above. ⌊Cf. the use of *bā́l* in i. 3. 1.⌋
 Floating in water, bringing streams, let Maruts carry thee aloft, And causing coolness by their rush sprinkle thee with their fall- ing rain.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। त्वा। वहन्तु। मरुतः। उदऽवाहाः। उदऽप्रुतः। अजेन। कृण्वन्तः। शीतम्। वर्षेण। उक्षन्तु। बाल्। इति। २.२२।

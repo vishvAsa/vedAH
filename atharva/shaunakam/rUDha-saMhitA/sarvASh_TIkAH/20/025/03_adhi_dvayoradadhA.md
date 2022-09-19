@@ -8,7 +8,6 @@ title = "०३ अधि द्वयोरदधा"
 Praiseworthy blessing hast thou laid upon the pair who with uplifted ladle serve thee, man and wife. Unchecked he dwells and prospers in thy law: thy power brings blessing to the sacrificer pouring gifts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अधि। द्वयोः। अदधाः। उक्थ्यम्। वचः। यतऽस्रुचा। मिथुना। या। सपर्यतः। असम्ऽयत्तः। व्रते। ते। क्षेति। पुष्यति। भद्रा। शक्तिः। यजमानाय। सुन्वते। २५.३।

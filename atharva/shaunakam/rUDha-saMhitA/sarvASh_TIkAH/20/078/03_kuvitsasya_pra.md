@@ -8,7 +8,6 @@ title = "०३ कुवित्सस्य प्र"
 May he with might disclose for us the cows' stall, whosesoe'er it be, To which the Dasyu-slayer goes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कुवित्ऽसस्य। प्र। हि। व्रजम्। गोऽमन्तम्। दस्युऽहा। गमत्। शचीभिः। अपः। न। वरत्। ७८.३।

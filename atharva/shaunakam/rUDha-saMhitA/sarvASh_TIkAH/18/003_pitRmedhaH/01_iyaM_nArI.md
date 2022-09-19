@@ -32,7 +32,6 @@ accepts *-pālá-*; ⌊c.f. the phonetic relation of *udumbara* and
 Choosing her husband's world, O man, this woman lays herself down beside thy lifeless body. Preserving faithfully the ancient custom. Bestow upon here both wealth and offspring.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इयम्। नारी। पतिऽलोकम्। वृणाना। नि। पद्यते। उप। त्वा। मर्त्य। प्रऽइतम्। धर्मम्। पुराणम्। अनुऽपालयन्ती। तस्यै। प्रऽजाम्। द्रविणम्। च। इह। धेहि। ३.१।

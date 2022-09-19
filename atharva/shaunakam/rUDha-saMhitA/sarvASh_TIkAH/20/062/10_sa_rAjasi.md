@@ -8,7 +8,6 @@ title = "१० स राजसि"
 Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain, O Indra, spoils of war and high renown.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। राजसि। पुरुऽस्तुत। एकः। वृत्राणि। जिघ्नसे। इन्द्र। जैत्रा। श्रवस्या। च। यन्तवे। ६२.१०।

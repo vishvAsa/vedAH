@@ -25,7 +25,6 @@ simply silly. The Anukr. pays no attention to the redundant syllable
 This once,,and at no other time hereafter in a lengthened life: Cover him, as a wife, O Earth, covers her husband with her robe!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। इत्। वै। ऊं इति। न। अपरम्। जरसि। अन्यत्। इतः। अपरम्। जाया। पतिम्ऽइव। वाससा। अभि। एनम्। भूमे। ऊर्णुहि। २.५१।

@@ -8,7 +8,6 @@ title = "०१ मरुतः पोत्रात्सुष्टुभः
 Let the Maruts drink Trishtups from the Potar's cup, according to the season Soma from heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मरुतः। पोत्रात्। सुऽस्तभः। सुऽअर्कात्। ऋतुना। सोमम्। पिबतु। २.१।

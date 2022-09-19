@@ -22,7 +22,6 @@ explanation, sufficient to show that he is merely guessing.
 Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offering sacrifice, the Gods bound as their victim Purusha.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सप्त। अस्य। आसन्। परिऽधयः। त्रिः। सप्त। सम्ऽइधः। कृताः। देवाः। यत्। यज्ञम्। तन्वानाः। अबध्नन्। पुरुषम्। पशुम्। ६.१५।

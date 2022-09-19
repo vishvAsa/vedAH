@@ -21,7 +21,6 @@ without further explanation. Kāuś. does not quote the verse.
 Lapped in the bosom of the purple Mornings, give riches to the man who brings oblations. Grant to your sons a portion of that treasure, and, present, give them energy, O Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आसीनासः। अरुणीनाम्। उपऽस्थे। रयिम्। धत्त। दाशुषे। मर्त्याय। पुत्रेभ्यः। पितरः। तस्य। वस्वः। प्र। यच्छत। ते। इह। ऊर्जम्। दधात। ३.४३।

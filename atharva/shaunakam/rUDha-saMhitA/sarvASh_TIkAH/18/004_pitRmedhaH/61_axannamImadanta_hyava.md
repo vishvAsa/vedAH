@@ -39,7 +39,6 @@ of *akṣam* ('axle') to *akṣan* (root *ghas*)?!⌋ ⌊See p. lxxix.⌋
 Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, self-luminous, have praised: we who are youngest supplicate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अक्षन्। अमीमदन्त। हि। अव। प्रियान्। अधूषत। अस्तोषत। स्वऽभानवः। विप्राः। यविष्ठाः। ईमहे। ४.६१।

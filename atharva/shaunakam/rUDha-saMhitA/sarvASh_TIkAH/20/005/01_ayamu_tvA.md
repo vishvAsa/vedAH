@@ -8,7 +8,6 @@ title = "०१ अयमु त्वा"
 Like women, let this Soma juice invested with its raiment, glide.. Most active Indra, close to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। ऊं इति। त्वा। विऽचर्षणे। जनीःऽइव। अभि। सम्ऽवृतः। प्र। सोमः। इन्द्र। सर्पतु। ५.१।

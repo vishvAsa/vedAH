@@ -19,7 +19,7 @@ And did he not repel, if in his spirit he said, I drive thee back, he would repe
 
 <details open><summary>पदपाठः</summary>
 
-तस्मात्। मनुष्येभ्यः। उभयःऽद्युः। उप। हरन्ति। उप। अस्य। गृहे। हरन्ति। यः। एवम्। वेद। १२.८।
+तस्मात्। मनुष्ये᳡भ्यः। उभयःऽद्युः। उप। हरन्ति। उप। अस्य। गृहे। हरन्ति। यः। एवम्। वेद। १२.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

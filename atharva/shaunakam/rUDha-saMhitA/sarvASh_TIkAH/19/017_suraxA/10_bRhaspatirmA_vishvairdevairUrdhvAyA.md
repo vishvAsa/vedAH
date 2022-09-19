@@ -21,7 +21,6 @@ numbers of syllables required by that treatise.
 Brihaspati, joined by the Visvedevas, protect me from the region of the zenith! To him, I go, in him I rest; this fort I seek for refuge. May he protect me, may he be my guardian. I give my soul-- All hail!--into his keeping.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। मा। विश्वैः। देवैः। ऊर्ध्वायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। ‍ एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.१०।

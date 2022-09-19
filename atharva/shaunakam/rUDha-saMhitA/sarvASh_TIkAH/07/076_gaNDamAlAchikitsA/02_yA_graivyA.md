@@ -24,7 +24,7 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 
 <details open><summary>पदपाठः</summary>
 
-याः। ग्रैव्याः। अपऽचितः। अथो इति। याः। उपऽपक्ष्याः। विऽजाम्नि। याः। अपऽचितः। स्वयम्ऽस्रसः। ८०.२।
+याः। ग्रैव्याः। अपऽचितः। अथो इति। याः। उपऽपक्ष्याः᳡। विऽजाम्नि। याः। अपऽचितः। स्वयम्ऽस्रसः। ८०.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

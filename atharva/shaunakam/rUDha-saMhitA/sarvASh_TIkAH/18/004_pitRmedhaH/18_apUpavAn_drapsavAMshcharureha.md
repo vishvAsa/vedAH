@@ -18,7 +18,6 @@ the comm., *drapsa* signifies "particles of curds" (*dadhikaṇās*).
 Enriched with cake and drops, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपूपऽवान्। द्रप्सऽवान्। चरुः। आ। इह। सीदतु। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ४.१८।

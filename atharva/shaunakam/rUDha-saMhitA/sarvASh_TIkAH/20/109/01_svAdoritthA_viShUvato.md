@@ -8,7 +8,6 @@ title = "०१ स्वादोरित्था विषूवतो"
 The juice of Soma thus diffused, sweet to the taste, the bright Cows drink Who for the sake of splendour close to mighty Indra's side rejoice, good in their own supremacy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वादोः। इत्था। विषुऽवतः। मध्वः। पिबन्ति। गौर्यः। याः। इन्द्रेण। सऽयावरीः। वृष्णा। मदन्ति। शोभसे। वस्वीः। अनु। स्वऽराज्यम्। १०९.१।

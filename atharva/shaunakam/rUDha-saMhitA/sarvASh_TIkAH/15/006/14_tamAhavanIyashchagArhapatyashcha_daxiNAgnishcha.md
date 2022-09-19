@@ -17,7 +17,7 @@ The Ehavaniya, Garha- patya, and Southern Fires, and Sacrifice, and Sacrificer, 
 
 <details open><summary>पदपाठः</summary>
 
-तम्। आऽहवनीयः। च। गार्हऽपत्यः। च। दक्षिणऽअग्निः। च। यज्ञः। च। यजमानः। च। पशवः। च। अनुऽव्यचलन्। ६.१४।
+तम्। आऽहवनीयः। च। गार्हऽपत्यः। च। दक्षिणऽअग्निः। च। यज्ञः। च। यजमानः। च। पशवः। च। अनुऽव्य᳡चलन्। ६.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

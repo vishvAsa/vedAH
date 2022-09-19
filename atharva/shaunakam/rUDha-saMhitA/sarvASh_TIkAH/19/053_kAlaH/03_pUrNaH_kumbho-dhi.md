@@ -28,7 +28,6 @@ kumbho ’horātramāsartusaṁvatsarādirūpo ‘vacchinno janyaḥ kālaḥ*.
 On Time is laid an overflowing beaker: this we behold in many a place appearing. He carries from us all these worlds of creatures. They call him Kala in the loftiest heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पूर्णः। कुम्‍भः। अधि। काले। आऽहितः। तम्। वै। पश्यामः। बहुऽधा। नु। सन्तः। सः। इमा। विश्वा। भुवनानि। प्रत्यङ्। कालम्। तम्। आहुः। परमे। विऽओमन्। ५३.३।

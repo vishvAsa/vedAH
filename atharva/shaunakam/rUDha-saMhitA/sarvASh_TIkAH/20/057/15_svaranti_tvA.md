@@ -8,7 +8,6 @@ title = "१५ स्वरन्ति त्वा"
 Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest thou athirst unto the juice as home, O Indra, like a bellowing bull?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वरन्ति। त्वा। सुते। नरः। वसो इति। निरेके। उक्थिनः। कदा। सृतम्। तृषाणः। ओकः। आ। गमः। इन्द्र। स्वब्दीऽइव। वंसगः। ५७.१५।

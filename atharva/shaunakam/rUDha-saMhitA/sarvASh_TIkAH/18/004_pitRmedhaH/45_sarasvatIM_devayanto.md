@@ -18,7 +18,6 @@ what is desirable to the worshiper.
 The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The righteous doers of good deeds invoke her: Sarasvati send bliss to him who giveth!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वतीम्। देवऽयन्तः। हवन्ते। सरस्वतीम्। अध्वरे। तायमाने। सरस्वतीम्। सुऽकृतः। हवन्ते। सरस्वती। दाशुषे। वार्यम्। दात्। ४.४५।

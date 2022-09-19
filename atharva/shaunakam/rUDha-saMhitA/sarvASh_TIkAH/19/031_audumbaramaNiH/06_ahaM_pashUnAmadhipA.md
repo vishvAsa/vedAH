@@ -21,7 +21,6 @@ ground of antithesis.
 Fain would I be the lord of herds of cattle: may he who rules o'er riches send me riches! May the Udumbara Amulet vouchsafe possessions unto me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अहम्। पशूनाम्। अधिऽपाः। असानि। मयि। पुष्टम्। पुष्टऽपतिः। दधातु। मह्यम्। औदुम्बरः। मणिः। द्रविणानि। नि। यच्छतु। ३१.६।

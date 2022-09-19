@@ -17,7 +17,6 @@ The comm. glosses the verb with *nāśaya*.
 Split thou my rivals, Darbha, etc. (as in 1, with 'split' for 'pierce' throughout).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तृन्द्धि। दर्भ। सऽपत्नान्। मे। तृन्द्धि। मे। पृतनाऽयतः। तृन्द्धि। मे। सर्वान्। दुःऽहार्दः। तृन्द्धि। मे। द्विषतः। मणे। २९.२।

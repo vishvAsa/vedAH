@@ -17,7 +17,6 @@ arm-moved etc. etc.
 From westward with the All-Gods save me Soma! etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। मा। विश्वैः। देवैः। उदीच्याः। दिशः। पातु। बाहुऽच्युता। पृथिवी। द्यामऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.२८।

@@ -27,7 +27,6 @@ have only 500 heads"! But even the AV. comm. glosses *sahasrākṣaḥ* by
 Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pervading earth he fills a space ten fingers wide.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽबाहुः। पुरुषः। सहस्रऽअक्षः। सहस्रऽपात्। सः। भूमिम्। विश्वतः। वृत्वा। अति। अतिष्ठत्। दशऽअङ्गुलम्। ६.१।

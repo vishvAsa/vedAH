@@ -8,7 +8,6 @@ title = "१५ पृष्ठं धावन्तम्"
 They said to Auchchaihsravasa running as side-horse of the Bays, Safely to victory, O Steed, bear Indra with the beauteous wreath.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृष्ठम्। धावन्तम्। हर्योः। औच्चैःऽश्रवसम्। अब्रुवन्। स्वस्ति। अश्व। जैत्राय। इन्द्रम्। आ। वह। सुस्रजम्। १२८.१५।

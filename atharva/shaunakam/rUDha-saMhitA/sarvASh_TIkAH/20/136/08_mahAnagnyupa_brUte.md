@@ -8,7 +8,6 @@ title = "०८ महानग्न्युप ब्रूते"
 Arnica eum alloquitur: Tum etiam tu defceisti. Ut silvae ignis. inflammatur, sic ardent mea membra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इति। उप। ब्रूते। भ्रष्टः। अथ। अपि। अभूवुवः। यथा। वयः। विदाह्य। स्वर्गे। नम्। अवदह्यते। १३६.८।

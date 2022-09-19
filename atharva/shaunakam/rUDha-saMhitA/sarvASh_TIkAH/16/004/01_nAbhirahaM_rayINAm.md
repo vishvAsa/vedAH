@@ -18,7 +18,6 @@ Kāuś. 18. 25. ⌊Cf. note to 3. 1.⌋
 I am the:centre of riches. Fain would I be the centre of mine equals.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नाभिः। अहम्। रयीणाम्। नाभिः। समानानाम्। भूयासम्। ४.१।

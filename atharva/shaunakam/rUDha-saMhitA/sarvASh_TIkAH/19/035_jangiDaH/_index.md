@@ -7,7 +7,6 @@ title = "०३५ जङ्गिडः"
 35. The same.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जङ्गिडः।  
@@ -18,8 +17,6 @@ title = "०३५ जङ्गिडः"
 
 [As 34.—pañcakam. 3. pathyāpan̄kti; 4. nicṛt triṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grohmann, Ind. Stud. ix. 419; Zimmer, p. 65; Bloomfield, 39, 674; Gr
 
 A similar charm addressed to the same
 </details>
+

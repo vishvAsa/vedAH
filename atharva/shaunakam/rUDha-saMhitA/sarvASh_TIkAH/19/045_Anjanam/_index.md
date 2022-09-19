@@ -7,7 +7,6 @@ title = "०४५ आञ्जनम्"
 45. With an ointment etc.: for various objects.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आञ्जनम्।  
@@ -18,8 +17,6 @@ title = "०४५ आञ्जनम्"
 
 [Bhṛgu.—daśa. 1-5. āñjanadevatyam; 6-10. mantroktadevatyam. 1, 2. anuṣṭubh; 3-5. triṣṭubh; 6-10. 1-av. mahābṛhatī (6. virāj; 7-10. nicṛṭ).]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 301.
 
 A curative and protective charm
 </details>
+

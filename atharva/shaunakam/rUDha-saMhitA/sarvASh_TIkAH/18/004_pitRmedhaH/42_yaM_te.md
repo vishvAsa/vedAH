@@ -26,7 +26,6 @@ this. ⌊For the ceremony, cf. Caland, *Todtengebräuche*, p. 137.⌋
 The mingled draught, the mess of rice, the flesh which I present to thee, May these be full of food for thee, distilling fatness, rich in sweets.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। ते। मन्थम्। यम्। ओदनम्। यत्। मांसम्। निऽपृणामि। ते। ते। ते। सन्तु। स्वधाऽवन्तः। मधुऽवन्तः। घृतऽश्चुतः। ४.४२।

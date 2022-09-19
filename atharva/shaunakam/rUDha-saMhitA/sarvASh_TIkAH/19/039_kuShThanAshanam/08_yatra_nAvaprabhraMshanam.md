@@ -38,10 +38,9 @@ paribhraśanaṁ*.
 Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embodiment of life that dies not: thence was Kustha born. Healer of every malady, that Kushtha stands by Soma's side. Banish thou all Consumption, drive all sorceresses far away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यत्र। न। अवऽप्रभ्रंशनम्। यत्र। हिमऽवतः। शिरः। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः। ३९.८।
+यत्र। न। अवऽप्रभ्रंशनम्। यत्र। हिमऽवतः। शिरः। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

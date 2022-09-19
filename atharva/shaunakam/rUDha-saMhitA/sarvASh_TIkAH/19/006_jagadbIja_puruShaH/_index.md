@@ -7,7 +7,6 @@ title = "००६ जगद्बीज पुरुषः"
 6. Purusha and his sacrifice.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जगद्बीज पुरुषः।  
@@ -19,8 +18,6 @@ title = "००६ जगद्बीज पुरुषः"
 [Nārāyaṇa.—ṣoḍaśarcam. puruṣadevatyam. ānuṣṭubham.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ title = "००६ जगद्बीज पुरुषः"
 
 The purusha-Sukta, on the mystical Sacrifice of Purusha
 </details>
+

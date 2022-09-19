@@ -19,7 +19,6 @@ Ppp. reads in **c** *tejas* for *ojas*, and in **d** *tat* for *tam*.
 A stern and all-victorious king, foe-queller, dear to every man-- That energy of Gods and mighty power, I bind this on thee for long life and welfare.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तीक्ष्णः। राजा। विऽससहिः। रक्षःऽहा। विश्वऽचर्षणिः। ओजः। देवानाम्। बलम्। उग्रम्। एतत्। तम्। ते। बध्नामि। जरसे। स्वस्तये। ३३.४।

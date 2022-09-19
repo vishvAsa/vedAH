@@ -23,7 +23,6 @@ the cremation ceremony after the fire is lighted⌋.
 The Fathers of our Father, his Grandfathers, those who have entered into air's wide region, Those who inhabit earth or dwell in heaven, these Fathers will we worship with oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। नः। पितुः। पितरः। ये। पितामहा। ये। आऽविविशुः। उरु। अन्तरिक्षम्। ये। आऽक्षियन्ति। पृथिवीम्। उत। द्याम्। तेभ्यः। पितृऽभ्यः। नमसा। विधेम। २.४९।

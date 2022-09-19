@@ -27,7 +27,6 @@ epilogue to the Iśā Upanishad, especially vss. 15, 16.⌋
 Thou seest now, and ne'er again shalt look upon, the Sun in heaven. Cover him as a mother draws her skirt about her son, O Earth!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इदम्। इत्। वै। ऊं इति। न। अपरम्। दिवि। पश्यसि। सूर्यम्। माता। पुत्रम्। यथा। सिचा। अभि। एनम्। भूमे। ऊर्णुहि। २.५०।

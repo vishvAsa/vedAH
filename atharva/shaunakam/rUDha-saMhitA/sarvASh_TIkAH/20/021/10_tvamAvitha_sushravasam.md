@@ -8,7 +8,6 @@ title = "१० त्वमाविथ सुश्रवसम्"
 Thou hast protected Susravas with succour, and Turvayana with thine aid, O Indra: Thou madest Kutsa, Atithigva, Ayu subject unto this king, the young, the mighty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। आविथ। सुऽअवसम्। तव। ऊतिऽभिः। तव। त्रामभिः। इन्द्र। तूर्वयाणम्। त्वम्। अस्मै। कुत्सम्। अतिथिऽग्वम्। आयुम्। महे। राज्ञे। यूने। अरन्धनायः। २१.१०।

@@ -8,7 +8,6 @@ title = "०४ एवा पतिम्"
 So like a bull thou rushest to the Lord who loves the trough, the Sage, the prop of vigour, in the vat. Prepare thine energies, collect them in thyself: be for our profit as the Master of the wise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। पतिम्। द्रोणऽसाचम्। सऽचेतसम्। ऊर्जः। स्कम्भम्। धरुणे। आ। वृषऽयसे। ओजः। कृष्व। सम्। गृभाय। त्वे इति। अपि। असः। यथा। केऽनिपानाम्। इनः। वृधे। ९४.४।

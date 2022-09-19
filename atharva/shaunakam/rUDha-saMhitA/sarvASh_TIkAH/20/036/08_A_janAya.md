@@ -8,7 +8,6 @@ title = "०८ आ जनाय"
 Thou for the people who oppress hast kindled the earthly firma- ment and that of heaven. With heat, O Bull, on every side consume them heat earth and flood for him who hates devotion:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। जनाय। द्रुह्वणे। पार्थिवानि। दिव्यानि। दीपयः। अन्तरिक्षा। तप। वृषन्। विश्वतः। शोचिषा। तान्। ब्रह्मऽद्विषे। शोचय। क्षाम्। अपः। च। ३६.८।

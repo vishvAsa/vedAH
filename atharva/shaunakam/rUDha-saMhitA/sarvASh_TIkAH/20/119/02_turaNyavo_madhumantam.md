@@ -8,7 +8,6 @@ title = "०२ तुरण्यवो मधुमन्तम्"
 In zealous haste the singers have sung forth a song distilling oil and rich in sweets. Riches have spread among us, and heroic strength; with us are flowing Soma drops.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तुरण्यवः। मधुऽमन्तम्। घृतऽश्चुतम्। विप्रासः। अर्कम्। आनृचुः। अस्मे इति। रयिः। पप्रथे। वृष्ण्यम्। शवः। अस्मे इति। सुवानासः। इन्दवः। ११९.२।

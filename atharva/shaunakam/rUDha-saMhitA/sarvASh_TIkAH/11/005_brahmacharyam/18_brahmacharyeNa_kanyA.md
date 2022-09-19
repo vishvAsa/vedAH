@@ -27,7 +27,7 @@ By self-restraint a maiden finds a youth to be her wedded lord. By self-restrain
 
 <details open><summary>पदपाठः</summary>
 
-ब्रह्मऽचर्येण। कन्या। युवानम्। विन्दते। पतिम्। अनड्वान्। ब्रह्मऽचर्येण। अश्वः। घासम्। जिगीर्षति। ७.१८।
+ब्रह्मऽचर्येण। कन्या᳡। युवानम्। विन्दते। पतिम्। अनड्वान्। ब्रह्मऽचर्येण। अश्वः। घासम्। जिगीर्षति। ७.१८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

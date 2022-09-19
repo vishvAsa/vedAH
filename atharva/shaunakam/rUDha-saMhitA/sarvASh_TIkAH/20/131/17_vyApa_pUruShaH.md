@@ -8,7 +8,6 @@ title = "१७ व्याप पूरुषः"
 Then cried they. Here he is, and, Here; again the cry was, Here is he.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 व्याप। पूरुषः। १३१.१७।

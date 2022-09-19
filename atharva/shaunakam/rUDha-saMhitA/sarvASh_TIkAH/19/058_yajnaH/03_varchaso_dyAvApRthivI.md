@@ -40,7 +40,6 @@ qualify. The verse counts (16 + 14: 16 + 14 = 60) as a full
 The earth and heaven have come to be two gatherers up of vigo- rous might. So let us gather vigour up and closely follow after Earth. With glory come the cows and stand beside the master of the herd. Let us when we have gathered fame and glory closely follow Earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वर्चसः। द्यावापृथिवी इति। संग्रहणी। इति सम्ऽग्रहणी। बभूवथुः। वर्चः। गृहीत्वा। पृथिवीम्। अनु। सम्। चरेम। यशसम्। गावः। गोऽपतिम्। उप। तिष्ठन्ति। आऽयतीः। यशः। गृहीत्वा। पृथिवीम्। अनु। सम्। चरेम। ५८.३।

@@ -8,7 +8,6 @@ title = "०३ तं सुष्टुत्या"
 Him I invite with eulogy, best King, effective in the fight, Strong for the gain of mighty spoil.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। सुऽस्तुत्या। आ। विवासे। ज्येष्ठऽराजम्। भरे। कृत्नुम्। महः। वाजिनम्। सन‍िऽभ्यः। ४४.३।

@@ -19,7 +19,6 @@ Ppp. has in **b** *-ṇā aśvinā*.
 Favour us Agni with his face of splendour, and Varuna and' Mitra and the Asvins. Favour us noble actions of the pious; impetuous Vata blow on, us with favour!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। अग्निः। ज्योतिःऽअनीकः। अस्तु। शम्। नः। मित्रावरुणौ। अश्विना। शम्। शम्। नः। सुऽकृताम्। सुऽकृतानि। सन्तु। शम्। नः। इषिरः। अभि। वातु। वातः। १०.४।

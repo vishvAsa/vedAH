@@ -24,7 +24,6 @@ and notes the names of the ten Agnis here rehearsed in vss. 2, 3.⌋
 Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 म्रोकः। मनःऽहा। खनः। निःऽदाहः। आत्मऽदूषिः। तनूऽदूषिः। १.३।

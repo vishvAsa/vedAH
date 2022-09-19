@@ -17,7 +17,7 @@ Itihasa and Purana and Gathas and Narasansis followed him.
 
 <details open><summary>पदपाठः</summary>
 
-तम्। इतिहऽआसः। च। पुराणम्। च। गाथाः। च। नाराशंसीः। च। अनुऽव्यचलन्। ६.११।
+तम्। इतिहऽआसः। च। पुराणम्। च। गाथाः। च। नाराशंसीः। च। अनुऽव्य᳡चलन्। ६.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

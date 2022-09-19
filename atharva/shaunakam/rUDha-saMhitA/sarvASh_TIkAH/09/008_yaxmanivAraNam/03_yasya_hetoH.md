@@ -20,7 +20,7 @@ So that Consumption may depart forth from thine ears and from. thy mouth, All ma
 
 <details open><summary>पदपाठः</summary>
 
-यस्य। हेतोः। प्रऽच्यवते। यक्ष्मः। कर्णतः। आस्यतः। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.३।
+यस्य। हेतोः। प्रऽच्यवते। यक्ष्मः। कर्णतः। आस्यतः। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

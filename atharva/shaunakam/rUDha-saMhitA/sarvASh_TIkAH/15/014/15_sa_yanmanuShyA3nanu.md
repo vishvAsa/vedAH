@@ -14,7 +14,6 @@ moved out after, making the cry *svā́hā* ('hail') \[his\] food-eater;
 He, when he went away to men, went away having become Agni and having made the exclamation Svaha an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। मनुष्या᳡न्। अनु। विऽअचलत्। अग्निः। भूत्वा। अनुऽव्य᳡चलत्। स्वाहाऽकारम्। अन्नऽअदम्। कृत्वा। । १४.१५।

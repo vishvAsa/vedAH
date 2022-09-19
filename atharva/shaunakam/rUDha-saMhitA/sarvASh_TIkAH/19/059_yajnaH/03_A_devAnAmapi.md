@@ -28,7 +28,6 @@ gods. ⌊As for the critical significance of the citation of the vs. in
 To the Gods' pathway have we come desiring to execute what work we may accomplish. Let Agni--for he knows--complete the worship. He is the Priest: let him fix rites and seasons.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। देवानाम्। अपि। पन्थाम्। अगन्म। यत्। शक्नवाम। तत्। अनुऽप्रवोढुम्। अग्निः। विद्वान‌्। सः। यजात्। सः। इत्। होता। सः। अध्वरान्। सः। ऋतून्। कल्पयाति। ५९.३।

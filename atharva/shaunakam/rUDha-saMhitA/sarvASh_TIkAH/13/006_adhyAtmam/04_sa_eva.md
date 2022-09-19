@@ -22,7 +22,7 @@ read *só amṛ́taṁ só abhvàm.*
 
 <details open><summary>पदपाठः</summary>
 
-सः। एव। मृत्युः। सः। अमृतम्। सः। अभ्वम्। सः। रक्षः। ६.४।
+सः। एव। मृत्युः। सः। अमृतम्। सः। अभ्व᳡म्। सः। रक्षः। ६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,6 @@ decided majority having the latter.
 May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Udumbara endow us with prosperity.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। नः। अग्निः। गार्हऽपत्यः। पशूनाम्। अधिऽपाः। असत्। औदुम्बरः। वृषा। मणिः। सः। मा। सृजतु। पुष्ट्या। ३१.२।

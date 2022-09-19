@@ -18,7 +18,6 @@ me—eagle-like sight, unfailing light.
 Let not good hearing and overhearing fail the Eagle's eye, the undecaying light.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽश्रुतिः। च। मा। उपऽश्रुतिः। च। मा। हासिष्टाम्। सौपर्णम्। चक्षुः। अजस्रम्। ज्योतिः। २.५।

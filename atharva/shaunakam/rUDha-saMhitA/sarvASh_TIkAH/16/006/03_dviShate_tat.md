@@ -17,7 +17,6 @@ curses.
 Bear that away to him who hates, away to him who curses us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्विषते। तत्। परा। वह। शपते। तत्। परा। वह। ६.३।

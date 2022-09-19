@@ -28,7 +28,7 @@ May Indra slay with mighty bolt, may Agni with his missible pierce. The sorcerer
 
 <details open><summary>पदपाठः</summary>
 
-कृत्याऽकृतम्। वलगिनम्। मूलिनम्। शपथेय्यम्। इन्द्रः। तम्। हन्तु। महता। वधेन। अग्निः। विध्यतु। अस्तया। ३१.१२।
+कृत्याऽकृतम्। वलगिनम्। मूलिनम्। शपथेय्य᳡म्। इन्द्रः। तम्। हन्तु। महता। वधेन। अग्निः। विध्यतु। अस्तया। ३१.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

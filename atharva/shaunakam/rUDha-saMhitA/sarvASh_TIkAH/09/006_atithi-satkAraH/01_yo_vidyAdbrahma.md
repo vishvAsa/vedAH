@@ -23,7 +23,7 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 
 <details open><summary>पदपाठः</summary>
 
-यः। विद्यात्। ब्रह्म। प्रतिऽअक्षम्। परूंषि। यस्य। सम्ऽभाराः। ऋचः। यस्य। अनूक्यम्। ६.१।
+यः। विद्यात्। ब्रह्म। प्रतिऽअक्षम्। परूंषि। यस्य। सम्ऽभाराः। ऋचः। यस्य। अनूक्य᳡म्। ६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

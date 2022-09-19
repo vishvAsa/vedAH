@@ -20,7 +20,6 @@ reads *chindhi*, anticipating the next verse.
 Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cleave all who wish me evil, cleave the men who hate me,. Amulet!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भिन्द्धि। दर्भ। सऽपत्नान्। मे। भिन्द्धि। मे। पृतनाऽयतः। भिन्द्धि। मे। सर्वान्। दुःऽहार्दः। भिन्द्धि। मे। द्विषतः। मणे। २८.५।

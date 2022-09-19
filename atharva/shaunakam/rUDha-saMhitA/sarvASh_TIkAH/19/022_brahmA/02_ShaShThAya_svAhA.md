@@ -16,7 +16,6 @@ title = "०२ षष्ठाय स्वाहा"
 To the sixth, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 षष्ठाय। स्वाहा। २२.२।

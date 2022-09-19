@@ -19,7 +19,6 @@ praised, urge (*cud*) hitherward bestowal (*rā́dhas*).
 King of the living world and men is Indra, of all in varied form that earth containeth. Thence to the worshipper he giveth riches: may he enrich even us when we have praised him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। राजा। जगतः। चर्षणीनाम्। अधि। क्षमि। विषुऽरूपम्। यत्। अस्ति। ततः। ददाति। दाशुषे। वसूनि। चोदत्। राधः। उपऽस्तुतः। चित्। अर्वाक्। ५.१।

@@ -22,7 +22,7 @@ Each pain and ache that racks the head, earache, and erysipelas,. All malady tha
 
 <details open><summary>पदपाठः</summary>
 
-शीर्षक्तिम्। शीर्षऽआमयम्। कर्णऽशूलम्। विऽलोहितम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.१।
+शीर्षक्तिम्। शीर्षऽआमयम्। कर्णऽशूलम्। विऽलोहितम्। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

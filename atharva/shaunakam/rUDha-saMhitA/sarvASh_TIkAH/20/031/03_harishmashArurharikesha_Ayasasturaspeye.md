@@ -8,7 +8,6 @@ title = "०३ हरिश्मशारुर्हरिकेश आयस
 At the swift draught the Soma-drinker waxed in might, the iron. One with yellow beard and golden hair, He, Lord of tawny coursers. Lord of fleet-foot mares, will bear his bay steeds safely over all distress.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरिऽश्मशारुः। हरिऽकेशः। आयसः। तुरःऽपेये। यः। हरिपाः। अवर्धत। अर्वत्ऽभिः। यः। हरिऽभिः। वाजिनीऽवसुः। अति। विश्वा। दुःऽइता। परिषत्। हरी इति। ३१.३।

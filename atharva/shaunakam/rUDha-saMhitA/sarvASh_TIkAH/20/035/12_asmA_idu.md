@@ -8,7 +8,6 @@ title = "१२ अस्मा इदु"
 Vast, with thine ample power, with eager movement against this Vritra cast thy bolt of thunder. Rend thou his joints, as of an ox dissevered, with bolt oblique that floods of rain may follow.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। प्र। भर। तूतुजानः। वृत्राय। वज्रम्। ईशानः। कियेधाः। गोः। न। पर्व। वि। रद। तिरश्चा। इष्यन्। अर्णासि। अपाम्। चरध्यै। ३५.१२।

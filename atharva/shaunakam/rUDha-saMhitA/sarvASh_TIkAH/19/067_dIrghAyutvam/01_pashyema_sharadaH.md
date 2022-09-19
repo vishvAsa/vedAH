@@ -16,7 +16,6 @@ title = "०१ पश्येम शरदः"
 A hundred autumns may we see.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पश्येम। शरदः। शतम्। ६७.१।

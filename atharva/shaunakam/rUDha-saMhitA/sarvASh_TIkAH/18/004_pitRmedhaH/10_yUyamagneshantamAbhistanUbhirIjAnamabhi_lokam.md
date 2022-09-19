@@ -32,7 +32,6 @@ Anukr. passes without notice the deficiency of a syllable in **b**.
 Do ye, with your most kindly forms, O Agni, waft, turned to rapid steeds whose ribs bear burthens, The sacrificer to the world of Svarga where with the Gods they banquet and are joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यूयम्। अग्ने। शम्ऽतमाभिः। तनूभिः। ईजानम्। अभि। लोकम्। स्वःऽगम्। अश्वाः। भूत्वा। पृष्टिऽवाहः। वहाथ। यत्र। देवैः। सधऽमादम्। मदन्ति। ४.१०।

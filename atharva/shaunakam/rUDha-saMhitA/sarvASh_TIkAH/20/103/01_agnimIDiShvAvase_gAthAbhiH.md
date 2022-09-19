@@ -8,7 +8,6 @@ title = "०१ अग्निमीडिष्वावसे गाथाभ
 Solicit with your hymns, for aid, Agni the God with piercing flame, For riches famous Agni, Purmilha 'and ye men, Agni to light our dwelling well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निम्। ईलिष्व। अवसे। गाथाभिः। शीरऽशोचिषम्। अग्निम्। राये। पुरुऽमील्ह। श्रुतम्। नरः। अग्निम्। सुऽदीतये। छर्दिः। १०३.१।

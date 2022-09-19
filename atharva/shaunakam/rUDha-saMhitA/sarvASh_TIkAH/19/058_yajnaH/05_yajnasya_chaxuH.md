@@ -21,7 +21,6 @@ it by the whole first pāda: *yajñásya cákṣuḥ prábhṛtir múkhaṁ cé 
 The eye of sacrifice, source and beginning with voice, car, spirit unto him I offer. To this our sacrifice, wrought by Visvakarman, may the Gods come gracious and kindly-hearted.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यज्ञस्य। चक्षुः। प्रऽभृतिः। मुखम्। च। वाचा। श्रोत्रेण। मनसा। जुहोमि। इमम्। यज्ञम्। विऽततम्। विश्वऽकर्मणा। आ। देवाः। यन्तु। सुऽमनस्यमानाः। ५८.५।

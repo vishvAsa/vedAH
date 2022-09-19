@@ -7,7 +7,6 @@ title = "०५० रात्रिः"
 50. To night: for protection.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रात्रिः।  
@@ -18,8 +17,6 @@ title = "०५० रात्रिः"
 
 [As 47.—saptakam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 465; Griffith, ii. 307.
 
 A hymn to Night for protection and prosperity
 </details>
+

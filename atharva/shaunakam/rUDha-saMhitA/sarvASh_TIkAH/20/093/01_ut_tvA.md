@@ -8,7 +8,6 @@ title = "०१ उत् त्वा"
 May our hymns give thee great delight. Display thy bounty, Thunderer. Drive off the enemies of prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। त्वा। मन्दन्तु। स्तोमाः। कृणुष्व। राधः। अद्रिवः। अव। ब्रह्मऽद्विषः। जहि। ९३.१।

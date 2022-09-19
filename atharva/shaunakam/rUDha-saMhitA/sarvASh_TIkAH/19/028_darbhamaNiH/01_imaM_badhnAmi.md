@@ -20,7 +20,6 @@ in **c** *-jambhanā*.
 On thee I bind this Amulet for lengthened life and brilliancy. The rival-quelling Darbha grass that burns the spirit of a foe.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। बध्नामि। ते। मणिम्। दीर्घायुऽत्वाय। तेजसे। दर्भम्। सपत्नऽदम्भनम्। द्विषतः। तपनम्। हृदः। २८.१। ‍

@@ -7,7 +7,6 @@ title = "०३० दर्भमणिः"
 30. For protection etc.: with an amulet of darbhá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दर्भमणिः।  
@@ -18,8 +17,6 @@ title = "०३० दर्भमणिः"
 
 [As 28. pañcakam.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 287. ⌊☞ See p. 1045.⌋
 
 A protective charm accompanying investiture with an amulet of Darbha grass
 </details>
+

@@ -18,7 +18,6 @@ With the last two verses compare parts of x. 5. 24.
 May they carry sin away from us, may they carry away from us the evil dream.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। अस्मत्। एनः। वहन्तु। प्र। दुःऽस्वप्न्यम्। वहन्तु। १.११।

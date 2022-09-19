@@ -45,7 +45,6 @@ line 4.⌋
 Earth alleviation, air alleviation, heaven alleviation, waters alleviation, plants alleviation, trees alleviation, all Gods my al- leviation, collective Gods my alleviation, alleviation by allevia- tions. By these alleviations, these universal alleviations, I allay all that is terrific here, all that is cruel, all that is wicked. This hath been calmed, this is now auspicious. Let all be favourable to us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृथिवी। शान्तिः। अन्तरिक्षम्। शान्तिः। द्यौः। शान्तिः। आपः। शान्तिः। ओषधयः। शान्तिः। वनस्पतयः। शान्तिः। विश्वे। मे। देवाः। शान्तिः। सर्वे। मे। देवाः। शान्तिः। शान्तिः। शान्तिः। शान्तिऽभिः। ताभिः। शान्तिऽभिः। सर्व। शान्तिऽभिः। शम्। अयामः। अहम्। यत्। इह। घोरम्। यत्। इह। क्रूरम्। यत्। इह। पापम्। तत्। शान्तम्। तत्। शिवम्। सर्वम्। एव। शम्। अस्तु। नः। ९.१४।

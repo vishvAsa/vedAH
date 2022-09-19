@@ -8,7 +8,6 @@ title = "०७ महानग्न्युप ब्रूते"
 Arnica eum alloquitur: Tum etiam tu defecisti. Ut tua. Arbor! (verbera) Pinsunt, sic etiam nunc (me permole).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इति। उप। ब्रूते। भ्रष्टः। अथ। अपि। अभुव। यथा। एव। ते। वनस्पते। पिप्पति। तथा। एवति। १३६.७।

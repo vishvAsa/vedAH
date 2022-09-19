@@ -21,7 +21,7 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 
 <details open><summary>पदपाठः</summary>
 
-‍नि। शीर्षतः। नि। पत्ततः। आऽध्यः। नि। तिरामि। ते। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.१।
+‍नि। शीर्षतः। नि। पत्ततः। आऽध्यः᳡। नि। तिरामि। ते। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

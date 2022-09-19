@@ -8,7 +8,6 @@ title = "११ स नो"
 Come with thy teams which bring all blessings, hither, disposer, much-invoked, exceeding holy! Come to me swiftly with these teams of coursers, these which no fiend, no God may stay or hinder.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। नः। नियुत्ऽभिः। पुरुऽहूतः। वेधः। विश्वऽवाराभिः। आ। गहि। प्रयज्यो इति। प्रऽयज्यो। न। याः। अदेवः। वरते। न। देवः। आ। आभिः। याहि। तूयम्। आ। मद्र्यद्रिक्। ३६.११।

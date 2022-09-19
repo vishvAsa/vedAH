@@ -15,7 +15,6 @@ the dear abode who knoweth thus.
 He who possesses this knowledge becomes the beloved home of Prajapati and Parameshthin and the Father and the Great Father.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रजाऽपतेः। च। वै। सः। परमेऽस्थीनः। च। पितुः। च। पितामहस्य। च। प्रियम्। धाम। भवति। यः। एवम्। वेद। ६.२६।

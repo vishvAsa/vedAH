@@ -37,7 +37,6 @@ harmony.⌋
 Now hath it gently crept within, fiend-slaying, chasing malady. And driving all diseases hence, and evil omens, banished them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। इदम्। मध्यम्। अव। असृपत्। रक्षःऽहा। अमीवऽचातनः। अमीवाः। सर्वाः। चातयत्। नाशयत्। अभिऽभाः। इतः। ४४.७।

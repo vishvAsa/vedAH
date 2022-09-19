@@ -16,7 +16,6 @@ title = "०७ भूयेम शरदः"
 A hundred autumns may we bide.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भूयेम। शरदः। शतम्। ६७.७।

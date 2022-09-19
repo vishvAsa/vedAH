@@ -33,7 +33,6 @@ According to the comm., this verse and the preceding are used in the
 Those, whether flames have burnt or not consumed them, who in the midst of heaven enjoy oblations-- Let them, when thou dost know them, Jatavedas, accept with sacred food the axe and worship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। अग्निऽदग्धाः। ये। अनग्निऽदग्धाः। मध्ये। दिवः। स्वधया। मादयन्ते। त्वम्। तान्। वेत्थ। यदि। ते। जातऽवेदः। स्वधया। यज्ञम्। ‍ स्वऽधितिम्। जुषन्ताम्। २.३५।

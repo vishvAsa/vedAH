@@ -30,7 +30,7 @@ Hither I bring the milk of cows, hither have brought the juice of corn. Hitherwa
 
 <details open><summary>पदपाठः</summary>
 
-आ। हरामि। गवाम्। क्षीरम्। आ। अहार्षम्। धान्यम्। रसम्। आऽहृताः। अस्माकम्। वीराः। आ। पत्नीः। इदम्। अस्तकम्। २६.५।
+आ। हरामि। गवाम्। क्षीरम्। आ। अहार्षम्। धान्य᳡म्। रसम्। आऽहृताः। अस्माकम्। वीराः। आ। पत्नीः। इदम्। अस्तकम्। २६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -17,7 +17,6 @@ Fathers, to that of yours which is cruel.
 Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नमः। वः। पितरः। यत‌्। घोरम्। तस्मै। नमः। वः। पितरः। यत्। क्रूरम्। तस्मै। ४.८३।

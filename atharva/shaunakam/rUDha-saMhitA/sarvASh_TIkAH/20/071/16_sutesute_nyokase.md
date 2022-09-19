@@ -8,7 +8,6 @@ title = "१६ सुतेसुते न्योकसे"
 To lofty Indra, dweller by each libation, the pious man Sings forth aloud a strengthening hymn.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुतेऽसुते। निऽओकसे। बृहत्। बृहते। आ। इत्। अरिः। इन्द्राय। शूषम्। अर्चति। ७१.१६।

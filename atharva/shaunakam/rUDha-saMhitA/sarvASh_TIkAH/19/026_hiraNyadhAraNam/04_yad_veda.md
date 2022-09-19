@@ -26,10 +26,9 @@ arhaṇam*.
 What Varuna the King knows well, and what the God Brihaspati, And Indra, Slayer of the Foe, may that bestow long life on thee, may that increase thy splendid strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यत्। वेद। राजा। वरुणः। वेद। देवः। बृहस्पतिः। इन्द्रः। यत्। वृत्रऽहा। वेद। तत्। ते। आयुष्यम्। भुवत्। तत्। ते। वर्चस्यम्। भुवत्। २६.४।
+यत्। वेद। राजा। वरुणः। वेद। देवः। बृहस्पतिः। इन्द्रः। यत्। वृत्रऽहा। वेद। तत्। ते। आयुष्य᳡म्। भुवत्। तत्। ते। वर्चस्य᳡म्। भुवत्। २६.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

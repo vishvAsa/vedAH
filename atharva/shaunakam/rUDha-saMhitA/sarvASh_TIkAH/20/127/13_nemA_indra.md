@@ -8,7 +8,6 @@ title = "१३ नेमा इन्द्र"
 O Indra, let these cows be safe, their master free from injury. Let not the hostile-hearted or the robber have control of them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। इमाः। इन्द्र। गावः। रिषन्। मो इति। आसाम्। गोप। रीरिषत्। मा। आसाम्। अमित्रयुः। जनः। इन्द्र। मा। स्तेनः। ईशत। १२७.१३।

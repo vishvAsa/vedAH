@@ -16,7 +16,6 @@ title = "१६ गणेभ्यः स्वाहा"
 To the Ganas, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गणेभ्यः। स्वाहा। २२.१६।

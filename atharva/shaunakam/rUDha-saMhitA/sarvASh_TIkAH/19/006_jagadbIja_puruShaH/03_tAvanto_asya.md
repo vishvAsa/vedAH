@@ -33,7 +33,6 @@ with the RV. readings.⌋
 So mighty is his grandeur, yea, greater than this is Purusha. All creatures are one-fourth of him, three-fourths what dieth not in heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तावन्तः। अस्य। महिमानः। ततः। ज्यायान्। च। पुरुषः। पादः। अस्य। विश्वा। भूतानि। त्रिऽपात्। अस्य। अमृतम्। दिवि। ६.३।

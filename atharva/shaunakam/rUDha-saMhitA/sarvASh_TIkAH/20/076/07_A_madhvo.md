@@ -8,7 +8,6 @@ title = "०७ आ मध्वो"
 They have poured out a bowl to him, to Indra, full of sweet juice, for faithful is his bounty. O'er earth's expanse hath he grown great by wisdom, the friend of man, and by heroic exploits.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। मध्वः। अस्मै। असिचन्। अमत्रम्। इन्द्राय। पूर्णम्। सः। हि। सत्यऽराधाः। सः। ववृधे। वीरमन्। आ। पृथिव्याः। अभि। क्रत्वा। नर्यः। पौंस्यैः। च। ७६.७।

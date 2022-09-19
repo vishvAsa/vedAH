@@ -8,7 +8,6 @@ title = "०८ अस्मा इदु"
 To him, to Indra when he slew the Dragon, the Dames too, Consorts of the Gods, wove praises. The mighty heaven and earth hath he encompassed: thy great- ness heaven and earth, combined, exceed not.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। ग्नाः। चित्। देवऽपत्नीः। इन्द्राय। अर्कम्। अहिऽहत्ये। ऊवुरित्यूवुः। परि। द्यावापृथिवी इत‍ि। जभ्रे। उर्वी इति। न। अस्य। ते  इति। महिमानम्। परि। स्त  इति स्तः। ३५.८।

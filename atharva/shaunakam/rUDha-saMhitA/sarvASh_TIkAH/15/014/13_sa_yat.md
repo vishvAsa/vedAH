@@ -14,7 +14,6 @@ title = "१३ स यत्"
 He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। पितॄन्। अनु। विऽअचलत्। यमः। राजा। भूत्वा। अनुऽव्य᳡चलत्। स्वधाऽकारम्। अन्नऽअदम्। कृत्वा। १४.१३।

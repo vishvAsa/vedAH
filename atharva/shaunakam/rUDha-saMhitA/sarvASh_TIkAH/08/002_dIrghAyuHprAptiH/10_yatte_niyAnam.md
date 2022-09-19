@@ -26,7 +26,7 @@ Saving him from that misty path of thine which cannot be defined. From that desc
 
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। निऽयानम्। रजसम्। मृत्यो इति। अनवऽधर्ष्यम्। पथः। इमम्। तस्मात्। रक्षन्तः। ब्रह्म। अस्मै। वर्म। कृण्मसि। २.१०।
+यत्। ते। निऽयानम्। रजसम्। मृत्यो इति। अनवऽधर्ष्य᳡म्। पथः। इमम्। तस्मात्। रक्षन्तः। ब्रह्म। अस्मै। वर्म। कृण्मसि। २.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

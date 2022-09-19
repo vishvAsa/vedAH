@@ -29,7 +29,6 @@ the extra syllable in **a**.
 Now let the heaving earth be free from motion: yea, let a thousand clods remain above him. Be they to him a home distilling fatness: here let them ever be his place of refuge.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्ऽश्वञ्चमाना। पृथिवी। तु। तिष्ठतु। सहस्रम्। मितः। उप। हि। श्रयन्ताम्। ते। गृहासः। घृतऽश्चुतः। स्योनाः। विश्वाहा। अस्मै। शरणाः। सन्तु। अत्र। ३.५१।

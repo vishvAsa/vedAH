@@ -25,7 +25,6 @@ comm. reads *sṛjatu*. As to *bibharti* at the end, see note to vs. i.
 The men of ancient time with children round them longed for this Gold, bright with the Sun's own colour, This shall endow thee, as it shines, with splendour, and long shall be the life of him who wears it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। हिरण्यम्। सूर्येण। सुऽवर्णम्। प्रजाऽवन्तः। मनवः। पूर्वे। ईषिरे। तत्। त्वा। चन्द्रम्। वर्चसा। सम्। सृजति। आयुष्मान्। भवति। यः। बिभर्ति। २६.२।

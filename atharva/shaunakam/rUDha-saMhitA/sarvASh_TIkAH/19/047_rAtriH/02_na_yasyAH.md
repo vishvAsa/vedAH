@@ -27,7 +27,6 @@ it thus: *na vibhajamānaṁ vibhaktaṁ nā ”sīt kiṁ tu viśvam ekākāram
 Each moving thing finds rest in her whose yonder boundary is not seen, nor that which keeps her separate. O spacious, darksome Night, may we uninjured reach the end of thee, reach, O thou blessed One, thine end.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। यस्याः। पारम्। ददृशे। न। योयुवत्। विश्वम्। अस्याम्। नि। विशते। यत्। एजति। अरिष्टासः। ते। उर्वि। तमस्वति। रात्रि। पारम्। अशीमहि। भद्रे। पारम्। अशीमहि। ४७.२।

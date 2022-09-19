@@ -20,7 +20,6 @@ two or three of SPP's authorities give it or have traces of it.
 With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou strengthen us in turn with children and with store of wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इध्मेन। त्वा। जातऽवेदः। सम्ऽइधा। वर्धयामसि। तथा। त्वम्। अस्मान्। वर्धय। प्रऽजया। च। धनेन। च। ६४.२।

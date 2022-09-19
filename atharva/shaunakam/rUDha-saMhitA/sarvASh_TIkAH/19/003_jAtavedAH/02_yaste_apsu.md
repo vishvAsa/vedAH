@@ -29,10 +29,9 @@ double sandhi (as often in Ppp.).⌋
 All majesty of thine in floods, in forest, in plants, in cattle, in the depths of waters Closely uniting all thy forms, O Agni, come unto us wealth-giv- ing, undecaying.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यः। ते। अप्ऽसु। महिमा। यः। वनेषु। यः। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। अग्ने। सर्वाः। तन्वः। सम्। रभस्व। ताभिः। नः। आ। इहि। द्रविणःऽदाः। अजस्रः। ३.२।
+यः। ते। अप्ऽसु। महिमा। यः। वनेषु। यः। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। अग्ने। सर्वाः। तन्वः᳡। सम्। रभस्व। ताभिः। नः। आ। इहि। द्रविणःऽदाः। अजस्रः। ३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

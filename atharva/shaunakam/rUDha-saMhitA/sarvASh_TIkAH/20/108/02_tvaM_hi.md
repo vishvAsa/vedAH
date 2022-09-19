@@ -8,7 +8,6 @@ title = "०२ त्वं हि"
 For, gracious Satakratu, thou hast ever been a mother and a sire to us, So now for bliss we pray to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। हि। नः। पिता। वसो इति। त्वम्। माता। शतक्रतो इति शतऽक्रतो। बभूविथ। अध। ते। सुम्नम्। ईमहे। १०८.२।

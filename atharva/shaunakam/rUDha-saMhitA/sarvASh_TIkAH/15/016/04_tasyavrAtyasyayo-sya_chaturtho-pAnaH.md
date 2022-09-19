@@ -16,7 +16,6 @@ title = "०४ तस्यव्रात्यस्ययोऽस्य च
 His fourth downward breath is Faith.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। चतुर्थः। अपानः। सा। श्रध्दा। १६.४।

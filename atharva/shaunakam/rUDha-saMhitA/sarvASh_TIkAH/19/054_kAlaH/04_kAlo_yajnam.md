@@ -66,7 +66,6 @@ makes the sum 61 instead of 63.⌋
 They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandharvas and Apsarasas and worlds abide.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालः। यज्ञम्। सम्। ऐरयत्। देवेभ्यः। भागम्। अक्षितम्। काले। गन्धर्वऽअप्सरसः। काले। लोकाः। प्रतिऽस्थिताः। ५४.४।

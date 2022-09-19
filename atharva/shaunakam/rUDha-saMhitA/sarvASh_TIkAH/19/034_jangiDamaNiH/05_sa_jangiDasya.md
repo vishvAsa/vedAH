@@ -29,7 +29,6 @@ comm. reads and explains in **c** *viṣkandham ojasā saha* (favoring
 Let Jangida's protecting might encompass us on every side. Wherewith he quells Vishkandha and Sanskandha, might by greater might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। जङ्गिडस्य। महिमा। परि। नः। पातु। विश्वतः। विऽस्कन्धम्। येन। ससह। सम्ऽस्कन्धम्। ओजः। ओजसा। ३४.५।

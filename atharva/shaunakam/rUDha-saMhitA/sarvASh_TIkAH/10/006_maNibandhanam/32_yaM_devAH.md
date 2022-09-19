@@ -20,7 +20,7 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 
 <details open><summary>पदपाठः</summary>
 
-यम्। देवाः। पितरः। मनुष्याः। उपऽजीवन्ति। सर्वदा। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३२।
+यम्। देवाः। पितरः। मनुष्याः᳡। उपऽजीवन्ति। सर्वदा। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -16,7 +16,6 @@ title = "०४ तस्य व्रात्यस्य"
 His fourth diffused breath are those Constellations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। चतुर्थः। विऽआनः। तानि। नक्षत्राणि। १७.४।

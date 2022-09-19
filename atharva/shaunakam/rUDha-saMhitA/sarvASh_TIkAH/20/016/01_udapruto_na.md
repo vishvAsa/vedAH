@@ -8,7 +8,6 @@ title = "०१ उदप्रुतो न"
 Like birds who keep their watch, plashing in water, like the loud voices of the thundering rain-cloud, Like merry streamlets bursting from the mountain thus to Brihaspati our hymns have sounded.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उदऽप्रुतः। न। वयः। रक्षमाणाः। वावदतः। अभ्र‍ियस्यऽइव। घोषाः। गिरिऽभ्रजः। न। ऊर्मयः। मदन्तः। बृहस्पतिम्। अभि। अर्काः। अनावन्। १६.१।

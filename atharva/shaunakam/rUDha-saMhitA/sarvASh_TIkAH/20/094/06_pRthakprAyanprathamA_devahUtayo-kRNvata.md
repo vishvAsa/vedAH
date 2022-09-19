@@ -8,7 +8,6 @@ title = "०६ पृथक्प्रायन्प्रथमा देव
 Far went our earliest invocations of the Gods, and won us glories that can never be surpassed. They who could not ascend the ship of sacrifice sink down in desolation, trembling with alarm.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृथक्। प्र। आयन्। प्रथमाः। देवऽहूतयः। अकृण्वत। श्रवस्यानि। दुस्तरा। न। ये। शेकुः। यज्ञियाम्। नावम्। आऽरुहम्। ईर्मा। एव। ते। नि। अविशन्त। केपयः। ९४.६।

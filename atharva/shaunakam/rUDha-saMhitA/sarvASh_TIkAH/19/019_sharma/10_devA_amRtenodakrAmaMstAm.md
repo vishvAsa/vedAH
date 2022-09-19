@@ -17,7 +17,6 @@ etc. etc.
 Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it give you protection and defence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवाः। अमृतेन। उत्। अक्रामन्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। वर्म। च। यच्छतु। १९.१०।

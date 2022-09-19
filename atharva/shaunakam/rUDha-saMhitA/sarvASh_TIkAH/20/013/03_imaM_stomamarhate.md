@@ -8,7 +8,6 @@ title = "०३ इमं स्तोममर्हते"
 For Jatavedas, worthy of our praise, will we frame with our mind this eulogy as 'twere a car. For good in his assembly is this care of ours. Let us not in thy friendship, Agni, suffer harm.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। स्तोमम्। अर्हते। जातऽवेदसे। रथम्ऽइव। सम्। महेम। मनीषया। भद्रा। ह‍ि। नः। प्रऽमतिः। अस्य। सम्ऽसदि। अग्ने। सख्ये। मा। रिषाम। वयम्। तव। १३.२३।

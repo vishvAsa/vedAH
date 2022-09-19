@@ -18,7 +18,7 @@ Now from the south side of the house, etc.
 
 <details open><summary>पदपाठः</summary>
 
-दक्षिणायाः। दिशः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः। ३.२६।
+दक्षिणायाः। दिशः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्ये᳡भ्यः। ३.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

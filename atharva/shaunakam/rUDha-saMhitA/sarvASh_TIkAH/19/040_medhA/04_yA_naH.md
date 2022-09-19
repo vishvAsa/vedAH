@@ -39,7 +39,6 @@ supplying *karotu* to *tiras;* and he refers at the end to *yā* as read
 Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May through the darkness carry us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 या। नः। पीपरत्। अश्विना। ज्योतिष्मती। तमः। तिरः। ताम्। अस्मे। रासताम्। इषम्। ४०.४।

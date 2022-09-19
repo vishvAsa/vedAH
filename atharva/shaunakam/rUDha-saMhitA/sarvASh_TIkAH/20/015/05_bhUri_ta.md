@@ -8,7 +8,6 @@ title = "०५ भूरि त"
 Great is thy power, O Indra, we are thine. Fulfil, O Maghavan, the wish of this thy worshipper. After thee lofty heaven hath measured out its strength to thee and to thy power this earth hath bowed itself.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भूरि। ते। इन्द्र। वीर्यम्। तव। स्मसि। अस्य। स्तोतुः। मघऽवन्। कामम्। आ। पृण। अनु। ते। द्यौः। बृहती। वीर्यम्। ममे। इयम्। च। ते। पृथ‍िवी। मेमे। ओजसे। १५.५।

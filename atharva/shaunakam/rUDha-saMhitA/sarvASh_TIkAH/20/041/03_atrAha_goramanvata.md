@@ -8,7 +8,6 @@ title = "०३ अत्राह गोरमन्वत"
 Then verily they recognized the essential form of Tvashtar's Bull. Here in the mansion of the Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अत्र। अह। गोः। अमन्वत। नाम। त्वष्टुः। अपीच्यम्। इत्था। चन्द्रमसः। गृहे। ४१.३।

@@ -14,7 +14,6 @@ thus.
 He who hath this knowledge eats food with the exclamation Svadha as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वधाऽकारेण। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.१४।

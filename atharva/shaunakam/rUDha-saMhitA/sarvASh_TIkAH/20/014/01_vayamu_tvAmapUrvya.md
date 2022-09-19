@@ -8,7 +8,6 @@ title = "०१ वयमु त्वामपूर्व्य"
 We call on thee, O peerless One. We, seeking help, possessing nothing firm ourselves, Call on thee wonderful in fight.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। ऊं इति। त्वाम्। अपूर्व्य। स्थूरम्। न। कत्। चित्। भरन्तः। अवस्यवः। वाजे। चित्रम्। हवामहे। १४.१।

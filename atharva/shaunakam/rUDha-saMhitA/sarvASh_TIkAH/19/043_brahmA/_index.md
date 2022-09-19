@@ -7,7 +7,6 @@ title = "०४३ ब्रह्मा"
 43. To various gods: for attaining heaven.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ब्रह्मा।  
@@ -18,8 +17,6 @@ title = "०४३ ब्रह्मा"
 
 [Brahman.—aṣṭāu. bahudevatyam uta brahmadevatyam. 1-8. 3-av. śan̄kumatī pathyāpan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 299.
 
 In praise of Brahma, Prayer, or Devotion
 </details>
+

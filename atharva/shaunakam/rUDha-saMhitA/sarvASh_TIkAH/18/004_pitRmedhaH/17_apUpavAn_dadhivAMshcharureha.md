@@ -16,7 +16,6 @@ title = "१७ अपूपवान् दधिवांश्चरुरे
 Enriched with cake and curds, etc. (as in stanza 16).
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपूपऽवान्। दधिऽवान्। चरुः। आ। इह। सीदतु। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ४.१७।

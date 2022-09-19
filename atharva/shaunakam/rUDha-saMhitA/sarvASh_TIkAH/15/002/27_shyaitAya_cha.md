@@ -15,7 +15,6 @@ offend who revileth a thus-knowing Vrātya;
 He who reviles the Vratya possessing this knowledge is alienated from Syaita, etc. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 श्यैताय। च। वै। सः। नौधसाय। च। सप्तर्षिऽभ्यः। च। सोमाय। च। राज्ञे। आ। वृश्चते। यः। एवम्। विद्वांसम्। व्रात्यम्। उपऽवदति। २.२३।

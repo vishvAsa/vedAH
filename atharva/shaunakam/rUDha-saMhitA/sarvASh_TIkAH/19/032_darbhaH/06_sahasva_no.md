@@ -20,7 +20,6 @@ in **a, b** *no ‘bhimātihaṁ sakarvā pṛ-*.
 Subdue our foeman, overcome the men who fain would fight: with us. Conquer all evil-hearted ones: make many well-disposed to me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्व। नः। अभिऽमातिम्। सहस्व। पृतनाऽयतः। सहस्व। सर्वान्। दुःऽहार्दः। सुऽहार्दः। मे। बहून्। कृधि। ३२.६।

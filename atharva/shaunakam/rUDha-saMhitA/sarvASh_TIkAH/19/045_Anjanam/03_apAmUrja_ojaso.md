@@ -23,7 +23,6 @@ in **c**.
 Increasing from the Waters' strength and vigour, sprung into life from Agni Jatavedas, Strong as four heroes, mountain born, this Ointment make for thee quarters and mind-points auspicious!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपाम्। ऊर्जः। ओजसः। ववृधानम्। अग्नेः। जातम्। अधि। जातऽवेदसः। चतुःऽवीरम्। पर्वतीयम्। यत्। आऽअञ्जनम्। दिशः। प्रऽदिशः। करत्। इत्। शिवाः। ते। ४५.३।

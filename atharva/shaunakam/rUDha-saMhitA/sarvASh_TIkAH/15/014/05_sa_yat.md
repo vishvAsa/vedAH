@@ -18,7 +18,6 @@ Most of the mss. accent *apó ‘nnādī́ḥ* (but Bs. has *-ò*). One or two
 He, when he went away to the western region, went away having become King Varuna, and having made the Waters eaters of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। प्रतीचीम्। दिशम्। अनु। विऽअचलत्। वरुणः। राजा। भूत्वा। अनुऽव्य᳡चलत्। अपः। अन्नऽअदीः। कृत्वा। १४.५।

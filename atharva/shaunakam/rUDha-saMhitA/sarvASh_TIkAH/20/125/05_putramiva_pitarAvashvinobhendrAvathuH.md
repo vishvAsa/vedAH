@@ -8,7 +8,6 @@ title = "०५ पुत्रमिव पितरावश्विनोभ
 As parents aid a son, both Asvins, Indra, aided thee with their wondrous powers and wisdom When thou, with might, hadst drunk the draught that glad- dens, Sarasvati, O Maghavan refreshed thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुत्रम्ऽइव। पितरौ। अश्विना। उभा। इन्द्र। आवथ। काव्यैः। दंसनाभिः। यत्। सुऽरामम्। वि। अपिबः। शचीभिः। सरस्वती। त्वा। मघऽवन्। अभिष्णक्। १२५.५।

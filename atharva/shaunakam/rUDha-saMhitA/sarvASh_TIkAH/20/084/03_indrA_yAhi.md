@@ -8,7 +8,6 @@ title = "०३ इन्द्रा याहि"
 Approach, O Indra, hasting thee, Lord of Bay Horses, to the prayers: Take pleasure in the juice we pour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। आ। याहि। तूतुजानः। उप। ब्रह्माणि। हरिऽवः। सुते। दधिष्व। नः। चनः। ८४.३।

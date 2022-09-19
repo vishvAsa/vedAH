@@ -17,7 +17,6 @@ The mss. vary here between *vídhya* and *vidhyá*. ⌊Ppp. reads *viddhi*.⌋
 Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pierce those who wish me evil, pierce the men who hate me, Amulet!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विध्य। दर्भ। सऽपत्नान्। मे। विध्य। मे। पृतनाऽयतः। विध्य। मे। सर्वान्। दुःऽहार्दः। विध्य। मे। द्विषतः। मणे। २८.१०।

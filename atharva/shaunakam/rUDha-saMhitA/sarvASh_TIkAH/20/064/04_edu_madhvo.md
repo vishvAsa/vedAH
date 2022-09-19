@@ -8,7 +8,6 @@ title = "०४ एदु मध्वो"
 O ministering priest, pour out of the sweet juice what gladdens most. So is the Hero praised who ever prospers us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। इत्। ऊं इति। मध्वः। मदिन्ऽतरम्। सिञ्च। वा। अध्वर्यो इति। अन्धसः। एव। हि। वीरः। स्तवते। सदाऽवृधः। ६४.४।

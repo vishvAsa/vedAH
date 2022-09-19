@@ -8,7 +8,6 @@ title = "०९ पनाय्यं तदश्विना"
 Asvins, that work of yours deserves our wonder, the Bull of firmament and earth and heaven; Yes, and your thousand promises in battle. Come near to all these men and drink beside us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पनाय्यम्। तत्। अश्विना। कृतम्। वाम्। वृषभः। दिवः। रजसः। पृथिव्याः। सहस्रम्। शंसाः। उत। ये। गोऽइष्टौ। सर्वान्। इत्। तान्। उप। यात। पिबध्यै। १४३.९।

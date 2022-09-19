@@ -8,7 +8,6 @@ title = "२० यद् द्याव"
 O Indra, if a hundred heavens and if a hundred earths were thine No, not a thousand suns could match thee at thy birth, not both the worlds, O Thunderer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। द्यावः। इन्द्र। ते। शतम्। शतम्। भूमीः। उत। स्युरिति स्युः। न। त्वा। वज्रिन्। सहस्रम्। सूर्याः। अनु। न। जातम्। अष्ट। रोदसी इति। ९२.२०।

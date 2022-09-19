@@ -19,10 +19,9 @@ vs. 6. Ppp. reads *hiraṇyena nāur* ⌊and omits **c, d**⌋.
 There moved through heaven a golden ship, a ship with cordage wrought of gold: There is embodiment of life that dies not; thence was Kushtha born.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः। ३९.७।
+हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

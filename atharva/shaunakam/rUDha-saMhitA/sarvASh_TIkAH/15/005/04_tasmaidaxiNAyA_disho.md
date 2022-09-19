@@ -14,7 +14,6 @@ title = "०४ तस्मैदक्षिणाया दिशो"
 They made Sarva the Archer his deliverer from the intermediate space of the southern region, etc, as in verse 1.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। दक्षिणायाः। दिशः। अन्तःऽदेशात्। शर्वम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.४।
@@ -27,3 +26,4 @@ They made Sarva the Archer his deliverer from the intermediate space of the sout
 - अथर्वा
 - अध्यात्म प्रकरण सूक्त
 </details>
+

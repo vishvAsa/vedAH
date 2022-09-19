@@ -8,7 +8,6 @@ title = "०२ वृकश्चिदस्य वारण"
 Even the wolf, the savage beast that rends the sheep, follows the path of his decrees. So, India, graciously accepting this our praise, with wondrous. thought come forth to us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृकः। चित्। अस्य। वारणः। उराऽमथिः। आ। वयुनेषु। भूषति। सः। इमम्। नः। स्तोमम्। जुजुषाणः। आ। गहि। इन्द्र। प्र। चित्रया। धिया। ९७.२।

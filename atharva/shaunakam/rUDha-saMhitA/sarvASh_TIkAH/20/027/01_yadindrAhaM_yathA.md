@@ -8,7 +8,6 @@ title = "०१ यदिन्द्राहं यथा"
 If I, O Indra, were, like thee, the single sovran of all wealth. My worshipper should be rich in kine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। इन्द्र। अहम्। यथा। त्वम्। ईशीय। वस्वः। इत्। स्तोता। मे। गोऽसखा। स्यात्। २७.१।

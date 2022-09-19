@@ -30,7 +30,6 @@ xviii. 1. 39; also note to 4. 57.⌋
 Sarasvati is called on by the Fathers who come right forward to our solemn worship. Seated upon this sacred grass rejoice you. Give thou us strengthening food that brings no sickness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वतीम्। पितरः। हवन्ते। दक्षिणा। यज्ञम्। अभिऽनक्षमाणाः। आऽसद्य। अस्मिन्। बर्हिषि। मादयध्वम्। अनमीवाः। इषः। आ। धेहि। अस्मे इति। १.४२।

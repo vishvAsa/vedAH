@@ -28,7 +28,6 @@ pyre?⌋.
 Kind be the Powers who seize the Moon, with Rahu be Adityas kind! Favour us Death and Cornet, and Rudras with penetrating. might!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। ग्रहाः। चान्द्रमसाः। शम्। आदित्यः। च। राहुणा। शम्। नः। मृत्युः। धूमऽकेतुः। शम्। रुद्राः। तिग्मऽतेजसः। ९.१०।

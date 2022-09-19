@@ -23,7 +23,7 @@ From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka
 
 <details open><summary>पदपाठः</summary>
 
-पविऽनसात्। तङ्गल्वात्। छायकात्। उत। नग्नकात्। प्रऽजायै। पत्ये। त्वा। पिङ्गः। परि। पातु। किमीदिनः। ६.२१।
+पविऽनसात्। तङ्गल्वा᳡त्। छायकात्। उत। नग्नकात्। प्रऽजायै। पत्ये। त्वा। पिङ्गः। परि। पातु। किमीदिनः। ६.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

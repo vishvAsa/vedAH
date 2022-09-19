@@ -8,7 +8,6 @@ title = "०४ इन्द्रः स्वर्षा"
 Indra, light-winner, days' creator, conquered, as guardian, hostile bands with those who loved him. For man the days' bright ensign he illumined, and found the light for his great joy and gladness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। स्वःऽसा। जनयन्। अहानि। जिगाय। उशिक्ऽभिः। पृतनाः। अभिष्टिः। प्र। अरोचयत्। मनवे। केतुम्। अह्नाम्। अविन्दत्। ज्योतिः। बृहते। रणाय। ११.४।

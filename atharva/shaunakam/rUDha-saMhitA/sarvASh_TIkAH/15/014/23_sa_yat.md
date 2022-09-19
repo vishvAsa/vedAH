@@ -15,7 +15,6 @@ title = "२३ स यत्"
 He, when he went away to all the intermediate spaces, went away having become Parameshthin and having made Devotion an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। सर्वान्। अन्तःऽदेशान्। अनु। विऽअचलत्। परमेऽस्थी। भूत्वा। अनुऽव्य᳡चलत्। ब्रह्म। अन्नऽअदम्। कृत्वा। १४.२३।

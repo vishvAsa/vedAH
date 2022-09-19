@@ -23,7 +23,6 @@ adopts this in his text.
 Yes, this is good to taste and full of sweetness, verily it is strong and rich in flavour. No one may conquer Indra in the battle when he hath drunken of the draught we offer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वादुः। किल। अयम्। मधुऽमान्। उत। अयम्। तीव्रः। किल। अयम्। रसऽवान्। उत। अयम्। उतो इति। नु। अस्य। पपिऽवांसम्। इन्द्रम्। न। कः। चन। सहते। आऽहवेषु। १.४८।

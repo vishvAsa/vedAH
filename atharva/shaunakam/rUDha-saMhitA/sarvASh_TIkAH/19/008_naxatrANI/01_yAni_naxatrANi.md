@@ -21,7 +21,6 @@ the verse 46 syllables, with the Anukr.
 Benign to me be all those Lunar Mansions to which the Moon as he moves on doth honour. All that are in the sky, the air, the waters, on earth, on moun- tains, in the heavenly regions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यानि। नक्षत्राणि। दिवि। अन्तरिक्षे। अप्ऽसु। भूमौ। यानि। नगेषु। दिक्षु। प्रऽकल्पयन्। चन्द्रमाः। यानि। एति। सर्वाणि। मम। एतानि। शिवानि। सन्तु। ८.१।

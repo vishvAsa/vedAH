@@ -22,7 +22,6 @@ unlingualized, in **c**. The comm. glosses *yā́mani* with
 O Indra, bring us wisdom as a sire gives wisdom to his sons. Guide us, O much-invoked in this our way: may we still living look upon the Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। क्रतुम्। नः। आ। भर। पिता। पुत्रेभ्यः। यथा। शिक्ष। नः। अस्मिन्। पुरुऽहूत। यामनि। जीवाः। ज्योतिः। अशीमहि। ३.६७।

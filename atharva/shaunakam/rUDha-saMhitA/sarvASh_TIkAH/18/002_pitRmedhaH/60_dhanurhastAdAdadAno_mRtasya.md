@@ -41,7 +41,6 @@ Anukr. says *ṣaṣṭiś ca:* cf. page 814, ¶5.⌋
 From his dead hand I take the bow he carried, together with his. power and strength and splendour. Having collected wealth and ample treasure, come hither to the- world of living beings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धनुः। हस्तात्। आऽददानः। मृतस्य। सह। क्षेत्रेण। वर्चसा। बलेन। सम्ऽआगृभाय। वसु। भूरि। पुष्टम्। अर्वाङ्। त्वम्। आ। इहि। उप। जीवऽलोकम्। २.६०।

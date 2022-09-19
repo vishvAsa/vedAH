@@ -18,7 +18,6 @@ like to our second clause at iii. 20. 10: cf. *Gram.* §738 a.⌋
 Are pleasant. May I obtain a pleasant voice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मधुऽमतीः। स्थ। मधुऽमतीम्। वाचम्। उदेयम्। २.२।

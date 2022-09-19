@@ -68,7 +68,6 @@ comm. reads the masculine, *-nās*.⌋
 Let not a fiends or spiteful man, let no ill-wisher master us. Let not the robber seize our cows, nor the wolf take our sheep today.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रक्ष। माकिः। नः। अघऽशंसः। ईशत। मा। नः। दुःशंसः। ईशत। मा। नः। अद्य। गवाम्। स्तेनः। मा। अवीनाम्। वृकः। ईशत। ४७.६।

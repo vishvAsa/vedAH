@@ -13,7 +13,6 @@ title = "२५ स सर्वानन्तर्देशाननु"
 He went away to all the intermediate spaces.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। सर्वान्। अन्तःऽदेशान्। अनु। वि। अचलत्। ६.२४।

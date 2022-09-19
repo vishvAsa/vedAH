@@ -8,7 +8,6 @@ title = "०१ प्र मंहिष्ठाय"
 To him most liberal, lofty Lord of lofty wealth, verily powerful and strong, I bring my hymn, Whose checkless bounty, as of waters down a slope, is spread abroad for all that live, to give them strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। मंहिष्ठाय। बृहते। बृहत्ऽरये। सत्यऽशुष्माय। तवसे। मतिम्। भरे। अपाम्ऽइव। प्रवणे। यस्य। दुःऽधरम्। राधः। विश्वऽआयु। शवसे। अपऽवृतम्। १५.१।

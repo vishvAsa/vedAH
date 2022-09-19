@@ -31,7 +31,6 @@ as Oldenberg, note to śGS., p. 139, overlooking the meter, suggests.⌋
 For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all bestow faith and intelligence on me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्ने। सम्ऽइधम्। आ। अहार्षम्। बृहते। जातऽवेदसे। सः। मे। श्रद्धाम्। च। मेधाम्। च। जातऽवेदाः। प्र। यच्छतु। ६४.१।

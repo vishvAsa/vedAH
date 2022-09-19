@@ -20,7 +20,6 @@ book xiii. ⌊which is designated by *rohitāis* at Kāuś. 99. 4⌋.
 Hail to the Rohitas!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रोहितेभ्यः। स्वाहा। २३.२३।

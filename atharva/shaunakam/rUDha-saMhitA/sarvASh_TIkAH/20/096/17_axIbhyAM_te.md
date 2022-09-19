@@ -8,7 +8,6 @@ title = "१७ अक्षीभ्यां ते"
 From both thy nostrils, from thine eyes, from both thine ears and from thy chin, Forth from thy head and brain and tongue I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अक्षीभ्याम्। ते। नासिकाभ्याम्। कर्णाभ्याम्। छुबुकात्। अधि। यक्ष्मम्। शीर्षण्यम्। मस्तिष्कात्। जिह्वायाः। वि। वृहामि। ते। ९६.१७।

@@ -22,10 +22,9 @@ last half of vs. 3 as refrain, instead of that of vs. 1.
 O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen this sacrifice of mine, ye singers. I offer up a duly mixt oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-इमम्। होमाः। यज्ञम्। अवत। इमम्। सम्ऽस्रावणाः। उत। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्येण। हविषा। जुहोमि। १.२।
+इमम्। होमाः। यज्ञम्। अवत। इमम्। सम्ऽस्रावणाः। उत। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

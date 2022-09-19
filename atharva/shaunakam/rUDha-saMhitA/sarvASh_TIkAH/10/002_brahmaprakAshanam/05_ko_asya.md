@@ -21,7 +21,7 @@ Who put together both his arms and said, Let him show manly strength? Who and wh
 
 <details open><summary>पदपाठः</summary>
 
-कः। अस्य। बाहू इति। सम्। अभरत्। वीर्यम्। करवात्। इति। अंसौ। कः। अस्‍य। तत्। देवः। कुसिन्धे। अधि। आ। दधौ। २.५।
+कः। अस्य। बाहू इति। सम्। अभरत्। वीर्य᳡म्। करवात्। इति। अंसौ। कः। अस्‍य। तत्। देवः। कुसिन्धे। अधि। आ। दधौ। २.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

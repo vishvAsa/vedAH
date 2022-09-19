@@ -8,7 +8,6 @@ title = "०५ मादयस्व सुते"
 Refresh thee, Hero, with the juice outpoured for bounty and for strength. We know thee Lord of ample store, to thee have sent our heart's desires: be therefore our protector thou.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मादयस्व। सुते। सचा। शवसे। शूर। राधसे। विद्म। हि। त्वा। पुरुऽवसुम्। उप। कामान्। ससृज्महे। अथ। नः। अविता। भव। ५६.५।

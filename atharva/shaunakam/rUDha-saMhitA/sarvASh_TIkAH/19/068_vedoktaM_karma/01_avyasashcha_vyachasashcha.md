@@ -57,7 +57,6 @@ In Ppp., this hymn is immediately followed by our hymn 72.
 Both of broad and narrow I with magic power unclose the mouth. With these when we have raised the bunch of grass we pay the holy rites.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अव्यसः। च। व्यचसः। च। बिलम्। वि। स्यामि। मायया। ताभ्याम्। उत्ऽहृत्य। वेदम्। अथ। कर्माणि। कृण्महे। ६८.१।

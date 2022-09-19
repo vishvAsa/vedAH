@@ -26,10 +26,9 @@ the redundant syllable in **c**.
 Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers. Thy plenty far-diffused mid human beings, even with this, O Agni, give us riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यः। ते। देवेषु। महिमा। स्वःऽगः। या। ते। तनूः। पितृषु। आऽविवेश। पुष्टिः। या। ते। मनुष्येषु। पप्रथे। अग्ने। तया। रयिम्। अस्मासु। धेहि। ३.३।
+यः। ते। देवेषु। महिमा। स्वःऽगः। या। ते। तनूः। पितृषु। आऽविवेश। पुष्टिः। या। ते। मनुष्ये᳡षु। पप्रथे। अग्ने। तया। रयिम्। अस्मासु। धेहि। ३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

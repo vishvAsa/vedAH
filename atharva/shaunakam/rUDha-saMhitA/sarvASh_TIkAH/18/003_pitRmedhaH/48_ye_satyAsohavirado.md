@@ -27,7 +27,6 @@ see.
 Come, Agni, come with countless ancient Fathers, dwellers in light, primeval, God-adorers, Eaters and drinkers of oblation, truthful, who travel with the Deities and Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। सत्यासः। हविःऽअदः। हविःऽपाः। इन्द्रेण‍। देवैः। सऽरथम्। तुरेण। आ। अग्रे। याहि। सुऽविदत्रेभिः। अर्वाङ्। परैः। पूर्वैः। ऋषिऽभिः। घर्मसत्ऽभिः। ३.४८।

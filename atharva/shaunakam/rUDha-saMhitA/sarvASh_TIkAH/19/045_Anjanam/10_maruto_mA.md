@@ -22,7 +22,6 @@ discordant and unclear).
 May the Maruts protect me with their troops for inspiration and expiration, for strength, for energy, for vigour, for weal and prosperity. All Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मरुतः। मा। गणैः। अवन्तु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.१०।

@@ -8,7 +8,6 @@ title = "०५ स सुष्टुभा"
 With the loud-shouting band who sang his praises, with thunder, he destroyed malignant Vala. Brihaspati thundering drave forth the cattle, the lowing cows who make oblations ready.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। सुऽस्तुभा। सः। ऋक्वता। गणेन। वलम्। रुरोज। फलिऽगम्। रवेण। बृहस्पतिः। उस्रियाः। हव्यऽसूदः। कनिक्रदत्। वावशतीः। उत्। आजत्। ८८.५।

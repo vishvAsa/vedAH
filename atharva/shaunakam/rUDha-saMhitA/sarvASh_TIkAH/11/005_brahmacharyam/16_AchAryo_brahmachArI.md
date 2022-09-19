@@ -20,7 +20,7 @@ The pupil is the Master, yea, the pupil is Prajapati. Prajapati shines bright; t
 
 <details open><summary>पदपाठः</summary>
 
-आऽचार्यः। ब्रह्मऽचारी। ब्रह्मऽचारी। प्रजाऽपतिः। प्रजाऽपतिः। वि। राजति। विऽराट्। इन्द्रः। अभवत्। वशी। ७.१६।
+आऽचार्यः᳡। ब्रह्मऽचारी। ब्रह्मऽचारी। प्रजाऽपतिः। प्रजाऽपतिः। वि। राजति। विऽराट्। इन्द्रः। अभवत्। वशी। ७.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

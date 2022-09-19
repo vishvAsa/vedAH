@@ -17,7 +17,6 @@ ill-success (*ábhūti*), agent etc. etc.
 We know thine origin, O Sleep. Thou art the son of Misery, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। त्वा। स्वप्न। तथा। सम्। विद्म। स। नः। स्वप्न। दुःऽस्वप्न्यात्। पाहि। ५.३।

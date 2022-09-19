@@ -27,10 +27,9 @@ the mss. *syonáṁ me s-*, and *purúḥ pṛ-*.
 May my self remain in my body: may I enjoy the full time of life, Rest thee pleasantly: pour forth abundance, purifying thyself in Svarga.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-तनूः। तन्वा। मे। सहे। दतः। सर्वम्। आयुः। अशीय। स्योनम्। मे। सीद। पुरुः। पृणस्व। पवमानः। स्वःऽगे। ६१.१।
+तनूः। तन्वा᳡। मे। सहे। दतः। सर्वम्। आयुः। अशीय। स्योनम्। मे। सीद। पुरुः। पृणस्व। पवमानः। स्वःऽगे। ६१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

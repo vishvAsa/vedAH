@@ -36,7 +36,6 @@ else "the intelligent (*cetana*) and unintelligent creation."
 He with three quarters rose to heaven here reappeared a fourth of him. Thence he strode forth on every side to all that eats not and that eats.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिऽभिः। पत्ऽभिः। द्याम्। अरोहत्। पात। अस्य। इह। अभवत्। पुनः। तथा। वि। अक्रामत्। विष्वङ्। अशनानशने इत्यशनऽअनशने। अनु। ६.२।

@@ -25,7 +25,6 @@ about him to be burned with him. The irregularity of the verse (12 + 11:
 Forbear, O Agni, to upset this chalice: the Gods and they who merit Soma love it. This cup, yea this which serves the Gods to drink from,--in this let the Immortals take their pleasure.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमम्। अग्ने। चमसम्। मा। वि। जिह्वरः। प्रियः। देवानाम्। उत। सोम्यानाम्। अयम्। यः। चमसः। देवऽपानः। तस्मिन्। देवाः। अमृताः। मादयन्ताम्। ३.५३।

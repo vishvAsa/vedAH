@@ -32,7 +32,6 @@ possibly of Buddhistic influence: *Sb.* 1895, p. 845, and 1897, p. 597.⌋
 When thou hast made him ready, Jatavedas, then do thou give him over to the Fathers. When he attains unto the life that waits him he will obey the Deities' commandment.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यदा। शृतम्। कृणवः। जातऽवेदः। अथ। इमम्। एनम्। परि। दत्तात्। पितृऽभ्यः। यदो इति। गच्छाति। असुऽनीतिम्। एताम्। अथ। देवानाम्। वशऽनीः। भवाति। २.५।

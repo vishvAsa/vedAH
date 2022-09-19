@@ -23,7 +23,7 @@ We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, t
 
 <details open><summary>पदपाठः</summary>
 
-दिवम्। ब्रूमः। नक्षत्राणि। भूमिम्। यक्षाणि। पर्वतान्। समुद्राः। नद्यः। वेशन्ताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१०।
+दिवम्। ब्रूमः। नक्षत्राणि। भूमिम्। यक्षाणि। पर्वतान्। समुद्राः। नद्यः᳡। वेशन्ताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

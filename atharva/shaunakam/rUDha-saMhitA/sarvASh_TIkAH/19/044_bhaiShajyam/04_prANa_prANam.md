@@ -28,7 +28,6 @@ of the vs. by Kāuś., see introd. to this hymn, and cf. especially p.
 Preserve our breath, O Vital Breath, have mercy on our life, O Life. From snares of Nirriti do thou, O Nirriti, deliver us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्राण। प्राणम्। त्रायस्व। असो इति। असवे। मृड। निःऽऋते। निःऽऋत्याः। नः। पाशेभ्यः। मुञ्च। ४४.४।

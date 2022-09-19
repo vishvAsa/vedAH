@@ -34,7 +34,6 @@ karotu*. ⌊Ppp. begins **b** with *so ‘stabh-*.⌋
 He who first born fixed earth in her position, he who established heaven and air's mid-region, Whom sinner ne'er hath known as his supporter,--this Darbha be our shelter and protection!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। जायमानः। पृथिवीम्। अदृंहत्। यः। अस्तभ्नात्। अन्तरिक्षम्। दिवम्। च। यम्। बिभ्रतम्। ननु। पाप्मा। विवेद। सः। नः। अयम्। दर्भः। वरुणः। दिवा। कः। ३२.९।

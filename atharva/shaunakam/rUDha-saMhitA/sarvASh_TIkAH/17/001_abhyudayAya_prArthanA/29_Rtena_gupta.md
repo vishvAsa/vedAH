@@ -19,7 +19,6 @@ That is, I set my uttered charms like a sea between me and them.
 Guarded am I by Order and the Seasons, protected by the past and by the future. Let not distress, yea, let not Death come nigh me: with water of my speech have I o'erwhelmed them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋतेन। गुप्तः। ऋतुऽभिः। च। सर्वैः। भूतेन। गुप्तः। भव्येन। च। अहम्। मा। मा। प्र। आपत्। पाप्मा। मा। उत। मृत्युः। अन्तः। दधे। अहम्। सलिलेन। वाचः। १.२९।

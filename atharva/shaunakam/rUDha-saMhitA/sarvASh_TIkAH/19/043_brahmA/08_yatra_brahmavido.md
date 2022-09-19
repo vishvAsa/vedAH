@@ -19,7 +19,6 @@ The comm. explains *brahmán* by *jagatsraṣṭā hiraṇyagarbhaḥ*, and
 Whither, etc. Thither let Brahma lead me, let Brahma give Brahma unto me. All hail to Brahma!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। ब्रह्मा। मा। तत्र। नयतु। ब्रह्मा। ब्रह्म। दधातु। मे। ब्रह्मणे। स्वाहा। ४३.८।

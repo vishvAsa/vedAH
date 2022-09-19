@@ -8,7 +8,6 @@ title = "०२ दुरो अश्वस्य"
 Giver of horses, Indra, giver, thou, of kine, giver of barley, thou art Lord and guard of wealth: Man's helper from of old, not disappointing hope, Friend of our friends, to thee as such we sing this praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दूरः। अश्वस्य। दूरः। इन्द्र। गोः। असि। दुरः। यवस्य। वसुनः। इनः। पतिः। शिक्षाऽनरः। प्रऽदिवः। अकामकर्शनः। सखा। सखिऽभ्यः। तम्। इदम्। गृणीमसि। २१.२।

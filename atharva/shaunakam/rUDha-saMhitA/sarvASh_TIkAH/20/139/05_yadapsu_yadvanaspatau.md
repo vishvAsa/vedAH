@@ -8,7 +8,6 @@ title = "०५ यदप्सु यद्वनस्पतौ"
 Whatever ye have done in floods, in the tree, Wonder-workers, and in growing plants, Therewith, O Asvins, succour me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अप्ऽसु। वनस्पतौ। यत्। ओषधीषु। पुरुदंससा। कृतम्। तेन। मा। अविष्टम्। अश्विना। १३९.५।

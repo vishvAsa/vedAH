@@ -21,7 +21,6 @@ About half the mss. read in **c** *suyámaṣ tu* (p. *su॰yámastu*). Pādas
 Auspicious friends to us be Bhaga. Sansa, auspicious be Pur- andhi and all Riches, The blessing of the true and well-conducted and Aryaman in many forms apparent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। भगः। शम्। ऊं इति। नः। शंसः। अस्तु। शम्। नः। पुरम्ऽधिः। शम्। ऊं इति। सन्तु। रायः। शम्। नः। सत्यस्य। सुऽयमस्य। शंसः। शम्। नः। अर्यमा। पुरुऽजातः। अस्तु। १०.२।

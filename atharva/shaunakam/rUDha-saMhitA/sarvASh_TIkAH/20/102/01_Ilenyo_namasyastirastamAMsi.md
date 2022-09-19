@@ -8,7 +8,6 @@ title = "०१ ईलेन्यो नमस्यस्तिरस्तम
 Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull is kindled well,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ईलेन्यः। नमस्यः। तिरः। तमांसि। दर्शतः। सम्। अग्निः। इध्यते। वृषा। १०२.१।

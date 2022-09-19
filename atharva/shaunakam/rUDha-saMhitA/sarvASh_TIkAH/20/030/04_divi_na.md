@@ -8,7 +8,6 @@ title = "०४ दिवि न"
 As if a lovely ray were laid upon the sky, the golden thunder- bolt spread out as in a race. That iron bolt with yellow jaw smote Ahi down. A thousand flames had he who bore the tawny-hued.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दिवि। न। केतुः। अधि। धायि। हर्यतः। विव्यचत्। वज्रः। हरितः। न। रंह्या। तुदत्। अहिम्। हरिऽशिप्रः। यः। आयसः। सहस्रऽशोकाः। अभवत्। हरिम्ऽभरः। ३०.४।

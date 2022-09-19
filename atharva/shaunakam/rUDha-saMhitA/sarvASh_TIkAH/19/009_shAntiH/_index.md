@@ -7,7 +7,6 @@ title = "००९ शान्तिः"
 9. For appeasement and weal: to various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
@@ -18,8 +17,6 @@ title = "००९ शान्तिः"
 
 [Brahman (śāntikāmaḥ).—caturdaśa. sāumyam. trāiṣṭubham: 1. virāḍ urobṛhatī; 5. 5-p. pathyāpan̄kti; 9 5-p. kakummatī; 12. 3-av. 7-p. aṣṭi; 14. 4-p. saṁkṛti.] ⌊The Anukr. adds: śeṣāḥ (that is vss. 2-4, 6-8, l0-ll, 13) kāṇḍapratīkatvenā* ’nuṣṭubhaḥ. There thus remains not a single vs. that is not excepted from the definition trāiṣṭubham!—The Berlin ms., in its treatment of hymns 9-12, after ekarcam (h. 12), adds: vāsiṣṭham vāiśvadevaṁ śantātīyaṁ trāiṣṭubham (these four words apply well to hymns 10-11) ādyam (hymn 9) mantroktabahudeuatyam. W. follows the London ms.⌋ *⌊At the beginning of its treatment of the kāṇḍa, the Anukr. says brahmakāṇḍam ānuṣṭubham.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 268.
 
 A prayer for general protection and prosperity
 </details>
+

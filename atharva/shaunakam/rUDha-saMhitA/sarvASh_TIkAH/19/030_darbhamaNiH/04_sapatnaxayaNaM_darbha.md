@@ -25,7 +25,6 @@ ca kṛṇomī ’ti sambandhanīyam.*⌋
 Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that strengthens rule I make thee, and the body's. guard.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सपत्नऽक्षयणम्। दर्भ। द्विषतः। तपनम्। हृदः। मणिम्। क्षत्रस्य। वर्धनम्। तनूऽपानम्। कृणोमि। ते। ३०.४।

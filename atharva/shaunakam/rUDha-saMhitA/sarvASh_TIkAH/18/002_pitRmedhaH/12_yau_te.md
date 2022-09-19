@@ -25,7 +25,6 @@ is a corruption), and in **d** inserts *ca* after *svastí*. TA. (in vi.
 And those two dogs of thine, Yama, the watchers, four-eyed who look on men and guard the pathway Entrust this man, O King, to their protection, and with prosperity and health endow him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यौ। ते। श्वानौ। यम। रक्षितारौ। चतुःऽअक्षौ। पथिसदी इति  पथिऽसदी। नृऽचक्षसा। ताभ्याम्। राजन्। परि। धेहि। एनम्। स्वस्ति। अस्मै। अनमीवम्। च। धेहि। २.१२।

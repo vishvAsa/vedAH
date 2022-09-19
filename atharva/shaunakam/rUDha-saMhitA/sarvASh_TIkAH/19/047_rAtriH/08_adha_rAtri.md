@@ -55,7 +55,6 @@ be noted.⌋
 Far from us let Rope with Fangs, far from us let the wicked flee. Do thou make blind and headless. Night, the serpent with his pungent breath.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। रात्रि। तृष्टऽधूमम्। अशीर्षाणम्। अहिम्। कृणु। हनू इति। वृकस्य। जम्भयाः। तेन। तम्। द्रुऽपदे। जहि। ४७.८।

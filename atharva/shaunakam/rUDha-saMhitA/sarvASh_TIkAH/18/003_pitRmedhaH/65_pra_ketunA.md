@@ -31,7 +31,6 @@ Anzeigen*, 1897, p. 811, renders the verse.⌋
 Agni is shining forth with lofty banner: the Bull is bellowing to earth and heaven. From the sky's limit even hath he stretched near us: the Steer hath waxen in the waters' bosom.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। केतुना। बृहता। भाति। अग्निः। आ। रोदसी इति। वृषभः। रोरवीति। दिवः। चित्। अन्तात्। उपऽमाम्। उत्। आनट्। अपाम्। उपऽस्थे। महिषः। ववर्ध। ३.६५।

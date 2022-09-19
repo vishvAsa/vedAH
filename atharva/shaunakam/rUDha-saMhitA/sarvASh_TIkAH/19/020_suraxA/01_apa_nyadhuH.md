@@ -34,7 +34,6 @@ is far too irregular (11 + 12: 12 + 9 = 44) to be called simply a
 May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrityu-- Death caused by men, which Indra-Agni, Dhatar, Brihaspati and Savitar appointed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। न्यधुः। पौरुषेयम्। वधम्। यम्। इन्द्राग्नी इति। धाता। सविता। बृहस्पतिः। सोमः। राजा। वरुणः। अश्विना। यमः। पूषा। अस्मान्। परि। पातु। मृत्योः। २०.१।

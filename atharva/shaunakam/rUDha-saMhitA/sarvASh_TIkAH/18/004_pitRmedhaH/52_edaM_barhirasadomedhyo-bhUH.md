@@ -43,7 +43,6 @@ Sanskrit.⌋
 Set on this grass thou hast become a victim. Fathers shall know thee yonder when they meet thee. Gather thy body, limb by limb, together: I by the power of prayer arrange thy members.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। इदम्। बर्हिः। असदः। मेध्यः। अभूः। प्रति। त्वा। जानन्तु। पितरः। पराऽइतम्। यथाऽपरु। तन्वम्। सम्। भरस्व। गात्राणि। ते। ब्रह्मणा। कल्पयामि। ४.५२।

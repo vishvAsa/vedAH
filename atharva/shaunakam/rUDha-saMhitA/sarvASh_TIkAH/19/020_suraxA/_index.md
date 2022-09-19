@@ -7,7 +7,6 @@ title = "०२० सुरक्षा"
 20. For protection by various gods.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 सुरक्षा।  
@@ -18,8 +17,6 @@ title = "०२० सुरक्षा"
 
 [Atharvan.—bahudevatyam. trāiṣṭubham: 2. jagatī; 3. purastādbṛhatī; 4. anuṣṭubh.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 279. ⌊In Anukr. we miss caturṛcam.⌋
 
 A prayer for protection from death and misfortune
 </details>
+

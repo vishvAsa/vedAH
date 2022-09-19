@@ -17,7 +17,6 @@ title = "०३ वैश्वानरस्यैनं दंष्ट्र
 I place him between Vaisvanara's jaws.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वैश्वानरस्य। एनम्। दंष्ट्रयोः। अपि। दध्यामि। ७.३।

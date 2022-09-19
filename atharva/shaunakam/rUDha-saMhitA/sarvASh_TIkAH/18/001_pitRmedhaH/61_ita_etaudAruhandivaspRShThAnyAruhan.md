@@ -40,7 +40,6 @@ hymn and 61 verses. The quoted Anukr. says *ekaṣaṣṭiś ca*.⌋
 He hath gone hence and risen on high mounting heaven's ridges by that path Whereon the sons of Angiras, the conquerors of earth, went up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इतः। एते। उत्। आ। अरुहन्। दिवः। पृष्ठानि। आ। अरुहन्। प्र। भूःऽजयः। यथा। पथा। द्याम्। अङ्गिरसः। ययुः। १.६१।

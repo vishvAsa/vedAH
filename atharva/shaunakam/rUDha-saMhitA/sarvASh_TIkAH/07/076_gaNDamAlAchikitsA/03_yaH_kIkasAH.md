@@ -44,7 +44,7 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 
 <details open><summary>पदपाठः</summary>
 
-यः। कीकसाः। प्रऽशृणाति। तलीद्यम्। अवऽतिष्ठति। निः। हाः। तम्। सर्वम्। जायान्यम्। यः। कः। च। ककुदि। श्रितः। ८०.३।
+यः। कीकसाः। प्रऽशृणाति। तलीद्य᳡म्। अवऽतिष्ठति। निः। हाः। तम्। सर्वम्। जायान्यम्। यः। कः। च। ककुदि। श्रितः। ८०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

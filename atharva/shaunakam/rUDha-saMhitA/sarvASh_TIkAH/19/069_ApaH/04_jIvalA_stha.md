@@ -26,7 +26,6 @@ with you.' Ppp. reads throughout *stu* instead of *stha*.
 Ye are life-givers. I fain would live. I fain would live my com- plete term of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जीवलाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.४।

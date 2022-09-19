@@ -7,7 +7,6 @@ title = "००७ नक्षत्राणि"
 7. To the lunar asterisms: for blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 नक्षत्राणि।  
@@ -19,8 +18,6 @@ title = "००७ नक्षत्राणि"
 [Gārgya.—pañca. mantroktanakṣatradevatyam. trāiṣṭubham: 4. bhurij.]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -31,3 +28,4 @@ The translation implies our conjectural emendation of turmíśam ⌊two of W's m
 
 A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 </details>
+

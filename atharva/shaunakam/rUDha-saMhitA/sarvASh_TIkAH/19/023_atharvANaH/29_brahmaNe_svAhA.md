@@ -19,7 +19,6 @@ read *brahmáṇe*. ⌊As to the meaning, see introduction, p. 932, ¶2.⌋
 Hail to Brahma!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्मणे। स्वाहा। २३.२९।

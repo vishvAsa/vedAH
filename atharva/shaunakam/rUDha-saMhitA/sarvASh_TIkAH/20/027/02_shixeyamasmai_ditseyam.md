@@ -8,7 +8,6 @@ title = "०२ शिक्षेयमस्मै दित्सेयम्
 I should be fain, O Lord of Might, to strengthen and enrich the sage, Were I the lord of herds of kine,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शिक्षेयम्। अस्मै। दित्सेयम्। शचीऽपते। मनीषिणे। यत्। अहम्। गोऽपतिः। स्याम्। २७.२।

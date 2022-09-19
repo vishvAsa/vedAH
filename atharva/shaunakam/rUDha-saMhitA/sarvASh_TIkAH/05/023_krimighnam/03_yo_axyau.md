@@ -22,7 +22,7 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 
 <details open><summary>पदपाठः</summary>
 
-यः। अक्ष्यौ। परिऽसर्पति। यः। नासे इति। परिऽसर्पति। दताम्। यः। मध्यम्। गच्छति। तम्। क्रिमिम्। जम्भयामसि। २३.३।
+यः। अक्ष्यौ᳡। परिऽसर्पति। यः। नासे इति। परिऽसर्पति। दताम्। यः। मध्यम्। गच्छति। तम्। क्रिमिम्। जम्भयामसि। २३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,6 @@ jagadāpyāyanakāritvādidharmeṇa*.
 May Soma protect me with Soma-power, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। मा। सौम्येन। अवतु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.८।

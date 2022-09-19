@@ -8,7 +8,6 @@ title = "०४ अभि प्र"
 Praise, even as he is known, with song Indra, the guardian of the kine, The Son of Truth, Lord of the brave.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभि। प्र। गोऽपतिम्। गिरा। इन्द्रम्। अर्च। यथा। विदे। सूनम्। सत्यस्य। सत्ऽपतिम्। २२.४।

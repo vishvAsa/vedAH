@@ -8,7 +8,6 @@ title = "२० धन्व च"
 The desert plains and steep descents, how many leagues in length they spread! Go to the nearest houses, go unto thine home, Vrishakapi. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धन्व। च। यत्। कृन्तत्रम्। च। कति। स्वित्। ता। वि। योजना। नेदीयसः। वृषाकपे। अस्तम्। आ। इहि। गृहान्। उप। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.२०।

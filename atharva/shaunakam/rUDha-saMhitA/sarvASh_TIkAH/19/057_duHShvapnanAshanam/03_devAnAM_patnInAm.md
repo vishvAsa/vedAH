@@ -35,7 +35,6 @@ may be made to count (8 + 10: 13: 13?) as 44 syllables.⌋
 Child of Gods' Consorts, minister of Yama is the good Dream: that which is my trouble we drive away to the enemy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवानाम्। पत्नीनाम्। गर्भ। यमस्य। कर। यः। भद्रः। स्वप्न। सः। मम। यः। पापः। तत्। द्विषते। प्र। हिण्मः। मा। तृष्टानाम्। असि। कृष्णऽशकुनः। मुखम्। ५७.३।

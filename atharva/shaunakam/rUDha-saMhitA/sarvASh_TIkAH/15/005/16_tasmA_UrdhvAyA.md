@@ -14,7 +14,6 @@ title = "१६ तस्मा ऊर्ध्वाया"
 They made Mahadeva his deliverer from the intermediate space of the region of the zenith, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। ऊर्ध्वायाः। दिशः। अन्तःऽदेशात्। महाऽदेवम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.१२।

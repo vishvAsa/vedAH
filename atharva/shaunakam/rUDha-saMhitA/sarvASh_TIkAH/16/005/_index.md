@@ -7,7 +7,6 @@ title = "००५ "
 5. Paryāya the fifth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 १-१० यमः। दुःष्वप्ननाशनम्। १-६ (प्रथमा) विराड् गायत्री ५ (प्रथमा) भुरिक्, ६(प्रथमा) स्वराट्, १-६ (द्वितीया) प्राजापत्या गायत्री, १-६ (तृतीय) द्विपदा साम्नी बृहती।
@@ -17,8 +16,6 @@ title = "००५ "
 
 [Yama.—daśaka. duḥsvapnanāśanadevatya. a of 1-6. virāḍ gāyatrī (5 a. bhurij; 6 a. svarāj); 1 b, 6 b. prājāpatyā gāyatrī; 1 c, 6 c. 2-p. sāmnī bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 468; Griffith, ii. 203.
 
 A charm against evil dreams
 </details>
+

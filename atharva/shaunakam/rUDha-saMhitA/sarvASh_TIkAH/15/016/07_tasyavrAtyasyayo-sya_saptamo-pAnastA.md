@@ -18,7 +18,6 @@ title = "०७ तस्यव्रात्यस्ययोऽस्य स
 His seventh downward breath are these sacrificial fees.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। सप्तमः। अपानः। ताः। इमाः। दक्षिणाः। १६.७।

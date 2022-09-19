@@ -8,7 +8,6 @@ title = "१० एते स्तोमा"
 Thine are these Lauds, O manliest of heroes, Lauds which revert to us and give us riches. Favour these, Indra, when they strike the foemen, as Friend and Hero and the heroes' helper.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एते। स्तोमाः। नराम्। नृऽतम। तुभ्यम्। अस्मद्र्यञ्चः। ददतः। मघानि। तेषाम्। इन्द्र। वृत्रऽहत्ये। शिवः। भूः। सखा। च। शूरः। अविता। च। नृणाम्। ३७.१०।

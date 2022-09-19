@@ -29,7 +29,7 @@ Give thou the wollen robe away: deal treasure to the Brahman- priests. This Witc
 
 <details open><summary>पदपाठः</summary>
 
-परा। देहि। शामुल्यम्। ब्रह्मऽभ्यः। वि। भज। वसु। कृत्या। एषा। पत्ऽवती। भूत्वा। आ। जाया। विशते। पतिम्। १.२५।
+परा। देहि। शामुल्य᳡म्। ब्रह्मऽभ्यः। वि। भज। वसु। कृत्या। एषा। पत्ऽवती। भूत्वा। आ। जाया। विशते। पतिम्। १.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

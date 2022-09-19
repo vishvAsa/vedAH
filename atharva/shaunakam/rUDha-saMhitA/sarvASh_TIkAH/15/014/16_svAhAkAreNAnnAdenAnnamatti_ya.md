@@ -14,7 +14,6 @@ thus.
 He who hath this knowledge eats food with the exclamation Svaha as food-eater.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वाहाऽकारेण। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.१६।

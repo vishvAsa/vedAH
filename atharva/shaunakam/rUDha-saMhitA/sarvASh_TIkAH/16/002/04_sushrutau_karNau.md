@@ -19,7 +19,6 @@ ears' etc.
 Quick of hearing are mine ears; mine ears hear what is good- Fain would I hear a pleasant sound.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽश्रुतौ। कर्णौ। भद्रऽश्रुतौ। कर्णौ। भद्रम्। श्लोकम्। श्रूयासम्। २.४।

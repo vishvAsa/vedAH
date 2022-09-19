@@ -34,7 +34,6 @@ anyān upāyatī;* but the last pāda favors SPP's conjecture.
 If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou us to enjoy it all so that this may not pass away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अद्य। रात्रि। सुऽभगे। विऽभजन्ति। अयः। वसु। यत्। एतत्। अस्मान्। भोजय। यथा। इत्। अन्यान्। उपऽअयसि। ५०.६।

@@ -56,7 +56,7 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 
 <details open><summary>पदपाठः</summary>
 
-करम्भम्। कृत्वा। तिर्यम्। पीबःऽपाकम्। उदारथिम्। क्षुधा। किल। त्वा। दुस्तनो  इति  दुःऽतनो। जक्षिऽवान्। सः। न। रूरुपः। ७.३।
+करम्भम्। कृत्वा। तिर्य᳡म्। पीबःऽपाकम्। उदारथिम्। क्षुधा। किल। त्वा। दुस्तनो  इति  दुःऽतनो। जक्षिऽवान्। सः। न। रूरुपः। ७.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

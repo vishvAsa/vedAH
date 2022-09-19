@@ -7,7 +7,6 @@ title = "०५८ यज्ञः"
 58. For various blessings.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 यज्ञः।  
@@ -18,8 +17,6 @@ title = "०५८ यज्ञः"
 
 [Brahman.—ṣaḍṛcam. mantroktabahudevatyam uta yajñikam. trāiṣṭubham: 2. puro- ‘nuṣṭubh; 3. 4-p. atiśakvarī; 5. bhurij.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 315.
 
 A prayer for prosperity, accompanying a sacrifice
 </details>
+

@@ -21,7 +21,6 @@ the comm. prefers to take as nominative.
 In every need, in every fray we call, as friends, to succour us, Indra the mightiest of all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 योगेऽयोगे। तवःऽतरम्। वाजेऽवाजे। हवामहे। सखायः। इन्द्रम्। ऊतये। २४.७।

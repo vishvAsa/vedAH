@@ -8,7 +8,6 @@ title = "०३ को वामद्या"
 Who bringeth you to-day for help with offered oblations, or with hymns to drink the juices? Who, for the sacrifice's ancient lover, turneth you hither, Asvins, offering homage?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। वाम्। अद्य। करते। रातऽहव्यः। ऊतये। वा। सुतऽपेयाय। वा। अर्कैः। ऋतस्य। वा। वनुषे। पूर्व्याय। नमः। येमानः। अश्विना। आ। ववर्तत्। १४३.३।

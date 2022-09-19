@@ -8,7 +8,6 @@ title = "०३ यस्यामितानि वीर्या"
 Whose hero powers are measureless, whose bounty ne'er may be surpassed, Whose liberality, like light, is over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्य। अमितानि। वीर्या। न। राधः। परिऽएतवे। ज्योतिः। न। विश्वम्। अभि। अस्ति। दक्षिणा। ६५.३।

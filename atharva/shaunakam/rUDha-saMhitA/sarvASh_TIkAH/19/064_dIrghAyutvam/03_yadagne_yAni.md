@@ -28,7 +28,6 @@ ceremony. ⌊Cf. p. 898, line 1.⌋
 Whatever even be the logs which, Agni, we lay down for thee, propitious be it all to me: accept it, O most youthful God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अग्ने। यानि। कानि। चित्। आ। ते। दारूणि। दध्मसि। सर्वम्। तत्। अस्तु। मे। शिवम्। तत्। जुषस्व। यविष्ठ्य। ६४.३।

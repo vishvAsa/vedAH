@@ -22,7 +22,7 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 
 <details open><summary>पदपाठः</summary>
 
-कर्णाभ्याम्। ते। कङ्कूषेभ्यः। कर्णऽशूलम्। विऽसल्पकम्। सर्वम्। शीर्षण्यम्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.२।
+कर्णाभ्याम्। ते। कङ्कूषेभ्यः। कर्णऽशूलम्। विऽसल्पकम्। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

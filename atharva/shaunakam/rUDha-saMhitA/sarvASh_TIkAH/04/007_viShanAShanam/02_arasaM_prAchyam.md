@@ -24,7 +24,7 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 
 <details open><summary>पदपाठः</summary>
 
-अरसम्। प्राच्यम्। विषम्। अरसम्। यत्। उदीच्यम्। अथ। इदम्। अधराच्यम्। करम्भेण। वि। कल्पते। ७.२।
+अरसम्। प्राच्य᳡म्। विषम्। अरसम्। यत्। उदीच्य᳡म्। अथ। इदम्। अधराच्य᳡म्। करम्भेण। वि। कल्पते। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -49,7 +49,7 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 
 <details open><summary>पदपाठः</summary>
 
-स्रुक्। दर्विः। नेक्षणम्। आऽयवनम्। द्रोणऽकलशाः। कुम्भ्यः। वायव्यानि। पात्राणि। इयम्। एव। कृष्णऽअजिनम्। ६.१७।
+स्रुक्। दर्विः। नेक्षणम्। आऽयवनम्। द्रोणऽकलशाः। कुम्भ्यः᳡। वायव्या᳡नि। पात्राणि। इयम्। एव। कृष्णऽअजिनम्। ६.१७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

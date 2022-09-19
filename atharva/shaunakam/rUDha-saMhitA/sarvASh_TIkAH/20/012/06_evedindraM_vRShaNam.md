@@ -8,7 +8,6 @@ title = "०६ एवेदिन्द्रं वृषणम्"
 Thus the Vasishthas glorify with praises Indra, the Mighty One, whose arm wields thunder. Praised, may he guard our wealth in kine and heroes. Ye Gods,. preserve us evermore with blessings.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। इत्। इन्द्रम्। वृषणम्। वज्रऽबाहुम्। वसिष्ठासः। अभि। अर्चन्ति। अर्कैः। सः। नः। स्तुतः। वीरऽवत्। धातु। गोऽमत्। यूयम्। पात। स्वस्तिऽभिः। सदा। नः। १२.६।

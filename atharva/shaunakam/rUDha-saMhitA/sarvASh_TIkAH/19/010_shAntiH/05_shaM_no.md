@@ -19,7 +19,6 @@ The comm. regards Indra as intended in the last pāda.
 Early invoked may Heaven and Earth be friendly, and Air's mid-region good for us to look on. To us may herbs and forest trees be gracious, gracious the Lord victorious of the region.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। द्यावापृथिवी  इति। पूर्वऽहूतौ। शम्। अन्तरिक्षम्। दृशये। नः। अस्तु। शम्। नः। ओषधीः। वनिनः। भवन्तु। शम्। नः। रजसः। पतिः। अस्तु। जिष्णुः। १०.५।

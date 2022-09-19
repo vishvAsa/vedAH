@@ -19,7 +19,6 @@ indicating omission.⌋
 Let him not be freed from the fetter and noose of Death. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। मृत्योः। पड्वीशात्। पाशात्। मा। मोचि। ८.३२।

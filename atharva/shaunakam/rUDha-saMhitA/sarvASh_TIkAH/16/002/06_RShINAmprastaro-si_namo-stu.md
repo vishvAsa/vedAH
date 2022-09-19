@@ -25,7 +25,6 @@ connection of those ceremonies with the one implied here.
 Thou art the couch of the Rishis. Let worship be paid to the divine couch.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋषीणाम्। प्रऽस्तरः। असि। नमः। अस्तु। दैवाय। प्रऽस्तराय। २.६।

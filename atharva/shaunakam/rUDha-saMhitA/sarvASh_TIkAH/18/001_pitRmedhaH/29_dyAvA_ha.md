@@ -21,7 +21,6 @@ read *abhisrāvé* in **b**. The comm. explains the word by *stotuḥ
 Heaven and Earth, first by everlasting Order, speakers of truth, are near enough to hear us, When the God, urging men to worship, sitteth as Priest, assum- ing all his vital vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्यावा। ह। क्षामा। प्रथमे इति। ऋतेन। अभिऽश्रावे। भवतः। सत्यऽवाचा। देवः। यत्। मर्तान्। यजथाय। कृण्वन्। सीदत्। होता। प्रत्यङ्। स्वम्। असुम्। यन्। १.२९।

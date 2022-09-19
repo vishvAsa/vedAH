@@ -8,7 +8,6 @@ title = "०३ दधिक्राव्णो अकारिषम्"
 So have I glorified with praise strong Dadhikravan, conquering steed. Sweet may he make our mouths; may he prolong the days we have to live.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दधिऽक्राव्णः। अकारिषम्। जिष्णोः। अश्वस्य। वाजिनः। सुरभि। नः। मुखा। करत्। प्र। नः। आयूंषि। तारिषत्। १३७.३।

@@ -37,7 +37,6 @@ plainly the *sahásram prāṇā́ḥ* of vs. 5 **b**.⌋
 Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-homed, bestowing vigour, Kindly, delightsome, full of sap, and mighty, invincible let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 घृतात्। उत्ऽलुप्तः। मधुऽमान्। पयस्वान्। सहस्रऽप्राणः। शतऽयोनिः। वयःऽधाः। शम्ऽभूः। च। मयःऽभूः। च। ऊर्जस्वान्। च। पयस्वान्। च। अस्तृतः। त्वा। अभि। रक्षतु। ४६.६।

@@ -19,7 +19,6 @@ The adjectives are sing. masculine. The *pada*-text reads *su॰āsát* and
 Pleasant art thou to sit by one, a mother: immortal among mortals.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽआसत्। असि। सुऽउषा ः। अमृतः। मर्त्येषु। आ। ४.२।

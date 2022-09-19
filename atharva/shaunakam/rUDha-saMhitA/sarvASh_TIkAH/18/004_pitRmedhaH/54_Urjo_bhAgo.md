@@ -44,7 +44,6 @@ basis.⌋
 The share of vigour which gave this man being, the stone won lordship over foods that nourish. Hymn this with your oblations, Visvamitras: may he, may Yama, lengthen our existence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्जः। भागः। यः। इमम्। जजान। अश्मा। अन्नानाम्। आधिऽपत्यम्। जगाम। तम्। अर्चत। विश्वऽमित्राः। हविःऽभिः। सः। नः। यमः। प्रऽतरम्। जीवसे। धात्। ४.५४।

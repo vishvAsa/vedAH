@@ -8,7 +8,6 @@ title = "०९ त्वमेतां जनराज्ञो"
 With all-outstripping chariot wheel, O Indra, thou far-famed, hast overthrown the twice ten kings of men, With sixty thousand nine-and-ninety followers, who came in arms to fight with friendless Susravas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। एतान्। जनऽराज्ञः। द्विः। दश। अबन्धुना। सुअवसा। उपअजग्मुषः। षष्टिम्। सहस्रा। नवतिम्। नव। श्रुतः। नि। चक्रेण। रथ्या। दुःऽपदा। अवृणक्। २१.९।

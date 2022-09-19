@@ -7,7 +7,6 @@ title = "०३२ दर्भः"
 32. For long life etc.: with an amulet of darbhá.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 दर्भः।  
@@ -18,8 +17,6 @@ title = "०३२ दर्भः"
 
 [Bhṛgu (saruakāmaḥ. āyuṣe).—daśakam. mantroktadevatyam. ānuṣṭubham: 8. purastādbṛhatī; 9. triṣṭubh; 10. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 289; vs. 8 also by Zimmer, p. 205, with comment.
 
 A charm, with an amulet of Darbha grass, to subdue enemies and win the affection of others
 </details>
+

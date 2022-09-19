@@ -22,7 +22,7 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 
 <details open><summary>पदपाठः</summary>
 
-यावतीः। कियतीः। च। इमाः। पृथिव्याम्। अधि। ओषधीः। ताः। मा। सहस्रऽपर्ण्यः। मृत्योः। मुञ्चन्तु। अंहसः। ७.१३।
+यावतीः। कियतीः। च। इमाः। पृथिव्याम्। अधि। ओषधीः। ताः। मा। सहस्रऽपर्ण्यः᳡। मृत्योः। मुञ्चन्तु। अंहसः। ७.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

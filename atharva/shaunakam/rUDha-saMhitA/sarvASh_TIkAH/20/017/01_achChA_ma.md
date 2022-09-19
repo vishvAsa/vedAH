@@ -8,7 +8,6 @@ title = "०१ अच्छा म"
 In perfect unison all yearning hymns of mine that find the light of heaven have sung forth Indra's praise. As wives embrace their lord, the comely bridegroom, so they compass Maghavan about that he may help.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अच्छ। मे। इन्द्रम्। मतयः। स्वःऽविदः। सध्रीचीः। विश्वाः। उशतीः। अनूषत। परि। स्वजन्ते। जनयः। यथा। पतिम्। मर्यम्। न। शुन्ध्युम्। मघऽवानम्। ऊतये। १७.१।

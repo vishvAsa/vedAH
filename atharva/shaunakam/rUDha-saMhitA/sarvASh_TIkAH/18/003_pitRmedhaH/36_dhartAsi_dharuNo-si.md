@@ -17,7 +17,6 @@ title = "३६ धर्तासि धरुणोऽसि"
 Thou art the Bull, Supporter, and Upholder,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 धर्ता। असि। धरुणः। असि। वंसगः। असि। ३.३६।

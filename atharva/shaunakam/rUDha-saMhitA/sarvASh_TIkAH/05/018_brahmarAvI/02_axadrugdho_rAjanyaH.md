@@ -21,7 +21,7 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 
 <details open><summary>पदपाठः</summary>
 
-अक्षऽद्रुग्धः। राजन्यः। पापः। आत्मऽपराजितः। सः। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्वः। १८.२।
+अक्षऽद्रुग्धः। राजन्यः᳡। पापः। आत्मऽपराजितः। सः। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्वः। १८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

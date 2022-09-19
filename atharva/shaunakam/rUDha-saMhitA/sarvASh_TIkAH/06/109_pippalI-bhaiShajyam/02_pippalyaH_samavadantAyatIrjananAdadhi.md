@@ -30,7 +30,7 @@ When from their origin they came, the Berries spake among themselves: The man wh
 
 <details open><summary>पदपाठः</summary>
 
-पिप्पल्यः। सम्। अवदन्त। आऽयतीः। जननात्। अधि। यम्। जीवम्। अश्नवामहै। न। सः। रिष्याति। पुरुषः। १०९.२।
+पिप्पल्यः᳡। सम्। अवदन्त। आऽयतीः। जननात्। अधि। यम्। जीवम्। अश्नवामहै। न। सः। रिष्याति। पुरुषः। १०९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

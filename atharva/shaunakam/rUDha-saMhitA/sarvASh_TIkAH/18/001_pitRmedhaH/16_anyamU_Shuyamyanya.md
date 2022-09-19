@@ -27,7 +27,6 @@ takes no notice of the lacking syllable in **a**; ⌊perhaps it balances
 Embrace another, Yami. Let some other, even as the woodbine rings a tree, enfold thee. Win thou his heart and let him win thy fancy; so make with him a bond of blest alliance.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अन्यम्। ऊं इति। सु। यमि। अन्यः। ऊं इति। त्वाम्। परि। स्वजातै। लिबुजाऽइव। वृक्षम्। तस्य। वा। त्वम्। मनः। इच्छ। सः। वा। तव। अध। कृणुष्व। सम्ऽविदम्। सुऽभद्राम्। १.१६।

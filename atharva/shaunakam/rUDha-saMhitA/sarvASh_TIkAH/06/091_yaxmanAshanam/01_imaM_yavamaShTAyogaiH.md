@@ -21,7 +21,7 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 
 <details open><summary>पदपाठः</summary>
 
-इमम्। यवम्। अष्टाऽयोगैः। षट्ऽयोगेभिः। अचर्कृषुः। तेन। ते। तन्वः। रपः। अपाचीनम्। अप। व्यये। ९१.१।
+इमम्। यवम्। अष्टाऽयोगैः। षट्ऽयोगेभिः। अचर्कृषुः। तेन। ते। तन्वः᳡। रपः। अपाचीनम्। अप। व्यये। ९१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

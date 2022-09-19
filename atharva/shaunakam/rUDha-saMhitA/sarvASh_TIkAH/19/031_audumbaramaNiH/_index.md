@@ -7,7 +7,6 @@ title = "०३१ औदुम्बरमणिः"
 31. For various blessings: with an amulet of udumbára.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 औदुम्बरमणिः।  
@@ -18,8 +17,6 @@ title = "०३१ औदुम्बरमणिः"
 
 [Savitṛ (puṣṭīkāmaḥ).—caturdaśa. mantroktāudumbaramaṇidevatyam. ānuṣṭubham: 5, 12. triṣṭubh; 6. virāṭ prastārapan̄kti; 11, 13. 5-p. ¸śakvarī; 14. virāḍ āstārapan̄kti.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Grifiith, ii. 287.
 
 A charm to ensure general prosperity, accompanying self-investiture with an amulet of Udumbara
 </details>
+

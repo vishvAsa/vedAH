@@ -19,7 +19,6 @@ may I be long-lived.
 Vanquishing, overpowering, a conqueror, exceeding strong, Victorious, winner of the light, winner of cattle and of spoil,. Indra by name, adorable, I call: a long, long life be mine!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। आयुष्मान्। भूयासम्। १.१।

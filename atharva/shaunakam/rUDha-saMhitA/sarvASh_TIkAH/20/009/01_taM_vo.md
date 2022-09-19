@@ -8,7 +8,6 @@ title = "०१ तं वो"
 As cows low to their calves in stalls, so with our songs we glorify This Indra, even your wondrous God who checks attack, who joys in the delicious juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। वः। दस्मम्। ऋतिऽसहम्। वसोः। मन्दानम्। अन्धसः। अभि। वत्सम्। न। स्वसरेषु। धेनवः। इन्द्रम्। गीऽभिः। नवामहे। ९.१।

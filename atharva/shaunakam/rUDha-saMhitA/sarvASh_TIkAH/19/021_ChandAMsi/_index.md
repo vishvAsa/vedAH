@@ -7,7 +7,6 @@ title = "०२१ छन्दांसि"
 21. The meters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 छन्दांसि।  
@@ -18,8 +17,6 @@ title = "०२१ छन्दांसि"
 
 [Brahman.—ekarcam. chāndasam. 1-av. 2-p. sāmnī bṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 279.
 
 A single line giving the names of the chief Vedic metres
 </details>
+

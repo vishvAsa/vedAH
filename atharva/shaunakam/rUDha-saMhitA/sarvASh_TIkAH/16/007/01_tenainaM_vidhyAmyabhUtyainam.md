@@ -19,7 +19,6 @@ The 'that' of the first clause doubtless refers to 6. 11.
 Herewith I pierce this man. With poverty I pierce him. With disappearance I pierce him. With defeat I pierce him. With Grahi I pierce him. With darkness I pierce him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तेन। एनम्। विध्यामि। अभूत्या। एनम्। विध्यामि। निःऽभूत्या। एनम्। विध्यामि। पराऽभूत्या। एनम्। विध्यामि। ग्राह्या। एनम्। विध्यामि। तमसा। एनम्। विध्यामि। ७.१।

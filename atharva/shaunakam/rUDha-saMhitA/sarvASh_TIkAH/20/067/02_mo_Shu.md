@@ -8,7 +8,6 @@ title = "०२ मो षु"
 Ne'er may those manly deeds of yours for us grow old, never may your bright glories fall into decay, never before your time decay. What deed of yours, new every age, wondrous, surpassing man,. rings forth, Whatever, Maruts may be difficult to gain grant us whate'er is hard to win.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मो इति। सु। वः। अस्मत्। अभि। तानि। पौंस्या। सना। भूवन्। द्युम्नानि। आ। उत। जारिषुः। अस्मत्। पुरा। उत। जारिषुः। यत्। वः। चित्रम्। युगेऽयुगे। नव्यम्। घोषात्। अमर्त्यम्। अस्मासु। तत्। मरुतः। यत्। च। दुस्तरम्। दिधृत। यत्। च। दुस्तरम्। ६७.२।

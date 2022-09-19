@@ -15,7 +15,6 @@ title = "०७ तस्मै प्रतीच्या"
 They made Pasupati the Archer his deliverer from the inter- mediate space of the western region, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मै। प्रतीच्याः। दिशः। अन्तःऽदेशात्। पशुऽपतिम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.६।

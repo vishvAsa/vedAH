@@ -8,7 +8,6 @@ title = "०४ आप्रुषायन्मधुना ऋतस्य"
 As the Sun dews with meath the seat of Order, and casts a flam- ing meteor down from heaven, So from the rock Brihaspati forced the cattle, and cleft the earth's skin as it were with water.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽप्रुषायन्। मधुना। ऋतस्य। योनिम्। अवऽक्षिपन्। अर्कः। उल्काम्ऽइव। द्यौः। बृहस्पतिः। उद्धरन्। अश्मनः। गाः। भूम्याः। उद्नाऽइव। वि। त्वचम्। बिभेद। १६.४।

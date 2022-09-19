@@ -25,7 +25,6 @@ laying of the body supine on the pile; it comes next after 1. 46.
 Fain to fly up from the sky's ridge to heaven, the worshipper hath mounted visible Agni. Lucid from out the mist to him, the pious, gleams the God- travelled path that leads to Svarga.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ईजानः। चितम्। आ। अरुक्षत्। अग्निम्। नाकस्य। पृष्ठात्। दिवम्। उत्ऽपतिष्यन्। तस्मै। प्र। भाति। नभसः। ज्योतिषीऽमान्। स्वःऽगः। पन्था। सुऽकृते। देवऽयानः। ४.१४।

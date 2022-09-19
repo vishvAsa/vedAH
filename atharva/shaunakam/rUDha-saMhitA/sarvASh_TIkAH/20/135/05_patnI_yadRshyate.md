@@ -8,7 +8,6 @@ title = "०५ पत्नी यदृश्यते"
 There is good resting for the cows. Take thy delight.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पत्नी। यत्। दृश्यते। पत्नी। यक्ष्यमाणा। जरितः। आ। उथामः। दैव। होता। विष्टीमेन। जरितः। आ। उथामः। दैव। १३५.५।

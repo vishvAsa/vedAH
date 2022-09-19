@@ -20,7 +20,6 @@ Some of the mss. accent *sánim* in **c**. Ppp. reads *ucyate* for
 For hero is this hero bound, Amulet of Udumbara. So may he make our offering sweetly-savoured, and grant us wealth with all good men about us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अयम्। औदुम्बरः। मणि। वीरः। वीराय। बध्यते। सः। नः। सनिम्। मधुऽमतीम्। कृणोतु। रयिम्। च। नः। सर्वऽवीरम्। नि। यच्छात्। ३१.१४।

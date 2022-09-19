@@ -8,7 +8,6 @@ title = "०८ अपो यदद्रिम्"
 When, Much-invoked! the waters' rock thou deftest, Sarama showed herself and went before thee. Hymned by Angirases, bursting the cowstalls, thou foundest ample strength for us as leader.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अपः। यत्। अद्रिम्। पुरुऽहूत। दर्दः। आविः। भुवत्। सरमा। पूर्व्यम्। ते। सः। नः। नेता। वाजम्। आ। दर्षि भूरिम्। गोत्रा। रुजन्। अङ्गिरःऽभिः। गृणानः। ७७.८।

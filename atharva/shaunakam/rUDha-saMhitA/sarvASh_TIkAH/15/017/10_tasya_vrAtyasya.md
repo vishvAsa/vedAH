@@ -18,7 +18,6 @@ Except two (D.R.), all the mss. accent *éṣām*.
 That one immortality of theirs is just an oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एकम्। तत्। एषाम्। अमृतऽत्वम्। इति। आऽहुतिः। एव। १७.१०।

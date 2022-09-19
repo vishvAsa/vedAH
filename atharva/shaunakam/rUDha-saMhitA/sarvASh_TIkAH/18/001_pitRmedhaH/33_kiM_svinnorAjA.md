@@ -33,7 +33,6 @@ given above is of course mechanical only.
 Hath the King seized us? How have we offended against his holy Ordinance? Who knoweth? For even Mitra mid the Gods is angry. There are both song and wealth for those who come not.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 किम्। स्वित्। नः। राजा। जगृहे। कत्। अस्य। अति। व्रतम्। चकृम। कः। वि। वेद। मित्रः। चित्। हि। स्म। जुहुराणः। देवान्। श्लोकः। न। याताम्। अपि। वाजः। अस्ति। १.३३।

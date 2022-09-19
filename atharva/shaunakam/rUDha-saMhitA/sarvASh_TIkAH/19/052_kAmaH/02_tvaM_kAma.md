@@ -33,7 +33,6 @@ presents the RV. reading *suṣakhā*. In **d**, Ppp. has *soho ’jo yaj-*.
 Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks thy friendship. Mighty and overpowering in battle, give strength and vigour to the sacrificer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। काम। सहसा। असि। प्रतिऽस्थितः। विऽभुः। विभाऽवा। सखे। आ। सखीयते। त्वम्। उग्रः। पृतनासु। ससहिः। सहः। ओजः। यजमानाय। धेहि। ५२.२।

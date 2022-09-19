@@ -8,7 +8,6 @@ title = "०५ समिन्द्र राया"
 Let us obtain, O Indra, plenteous wealth and food, with strength exceeding glorious, shining to the sky. May we obtain the Goddess Providence, the strength of heroes, special source of cattle, rich in steeds.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। इन्द्र। राया। सम्। इषा। रभेमहि। सम्। वाजेभिः। पुरुऽचन्द्रैः। अभिद्युऽभिः। सम्। देव्या। प्रऽमत्या। वीरशुष्मया। गोऽअग्रया। अश्वऽवत्या। रभेमहि। २१.५।

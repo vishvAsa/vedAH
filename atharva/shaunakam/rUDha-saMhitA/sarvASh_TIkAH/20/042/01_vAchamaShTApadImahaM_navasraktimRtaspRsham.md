@@ -8,7 +8,6 @@ title = "०१ वाचमष्टापदीमहं नवस्रक्
 From Indra have I measured an eight-footed and nine-cornered. song, Delicate, faithful to the Law.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वाचम्। अष्टाऽपदीम्। अहम्। नवऽस्रक्तिम्। ऋतऽस्पृशम्। इन्द्रात्। परि। तन्वम्। ममे। ४२.१।

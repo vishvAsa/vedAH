@@ -8,7 +8,6 @@ title = "१० इन्द्र ओषधीरसनोदहानि"
 He took the plants and days for his possession; he gained the forest trees and air's mid-region. Vala he cleft, and chased away opponents: thus was he tamer of the overweening.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। ओषधीः। असनोत्। अहानि। वनस्पतीन्। असनोत्। अन्तरिक्षम्। बिभेद। बलम्। नुनुदे। विऽवाचः। अथ। अभवत्। दमिता। अभिऽक्रतूनाम्। ११.१०।

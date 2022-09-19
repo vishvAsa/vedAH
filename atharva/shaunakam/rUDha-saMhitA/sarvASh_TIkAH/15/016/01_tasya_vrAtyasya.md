@@ -16,7 +16,6 @@ title = "०१ तस्य व्रात्यस्य"
 His first downward breath is the time of Full Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। प्रथमः। अपानः। सा। पौर्णऽमासी। १६.१।

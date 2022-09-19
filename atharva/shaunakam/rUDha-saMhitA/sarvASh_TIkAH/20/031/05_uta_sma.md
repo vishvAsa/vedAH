@@ -8,7 +8,6 @@ title = "०५ उत स्म"
 Yea, to the dear one's seat in homes of heaven and earth the- bay steeds' Lord hath whinnied like a horse for food. Then the great wish hath seized upon him mightily, and the beloved One hath gained high power of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत। स्म। सद्म। हर्य। तस्य। पस्त्योः। न। वाजम्। हरिऽवान्। अचिक्रदत्। मही। चित्। हि। धिष्णा। अहर्यत्। ओजसा। बृहत्। वयः। दधिषे। हर्यतः। चित्। आ। ३१.५।

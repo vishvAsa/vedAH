@@ -35,7 +35,6 @@ daring, considering how unsatisfactory a result it yields after all.
 Fair be my sunset, fair my morn and evening and day with. lucky chase and happy omens; With blessing and success, immortal Agni, go to the mortal and. return rejoicing.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वस्तितम्। मे। सुऽप्रातः। सुऽसायम्। सुऽदिवम्। सुऽमृगम्। सुऽशकुनम्। मे। अस्तु। सुऽहवम्। अग्ने। स्वस्ति। अमर्त्यम्। गत्वा। पुनः। आय। अभिऽनन्दन्। ८.३।

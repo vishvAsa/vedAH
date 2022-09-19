@@ -8,7 +8,6 @@ title = "०२ नव यो"
 Him who with might of both his arms brake nine-and ninety castles down, Slew Vritra and smote Ahi dead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नव। यः। नवतिम्। पुरः। बिभेद। बाहुऽओजसा। अह‍िम्। च। वृत्रऽहा। अवधीत्। ७.२।

@@ -8,7 +8,6 @@ title = "०१ तत् सूर्यस्य"
 This is the Godhead, this the might of Surya: he hath with- drawn what spread o'er work unfinished. When he hath loosed his horses from their station, straight over all night spreadeth out her garment.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। सूर्यस्य। देवऽत्वम्। तत्। महिऽत्वम्। मध्या। कर्तोः। विऽततम्। सम्। जभार। यदा। इत्। अयुक्त। हरितः। सधऽस्थात्। आत्। रात्री। वासः। तनुते। सिमस्मै। १२३.१।

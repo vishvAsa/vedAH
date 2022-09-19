@@ -22,7 +22,6 @@ two, also heaven.'⌋
 Even in the womb God Tvashtar, vivifier, shaping all forms, Creator, made us consorts. Ne'er are his holy statutes violated: that we are his the heaven and earth acknowledge.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गर्भे। नु। नौ। जनिता। दंपती इति दम्ऽपती। क्व। देवः। त्वष्टा। सविता। विश्वऽरूपः। नकिः। अस्य। प्र। मिनन्ति। व्रतानि। वेद। नौ। अस्य। पृथिवी। उत। द्यौः। १.५।

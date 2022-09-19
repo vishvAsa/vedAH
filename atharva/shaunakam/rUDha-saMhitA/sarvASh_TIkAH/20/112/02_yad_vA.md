@@ -8,7 +8,6 @@ title = "०२ यद् वा"
 When, Mighty One, Lord of the Brave, thou thinkest, I shall never die, That thought of thine is true indeed.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वा। प्रऽवृद्ध। सत्ऽपते। न। मरै। इति। मन्यसे। सतो इति। तत्। सत्यम्। इत्। तव। ११२.२।

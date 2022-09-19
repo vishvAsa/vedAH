@@ -8,7 +8,6 @@ title = "०५ प्रिया तष्टानि"
 Kapi hath marred the beauteous things, all deftly wrought, that were my joy. In pieces will I rend his head; the sinner's portion shall be woe. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रिया। तष्ठानि। मे। कपिः। विऽअक्ता। वि। अदूदुषत्‌। शिरः। नु। अस्य। राविषम्। न। सुऽगम्। दुःऽकृते। भुवम्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.५।

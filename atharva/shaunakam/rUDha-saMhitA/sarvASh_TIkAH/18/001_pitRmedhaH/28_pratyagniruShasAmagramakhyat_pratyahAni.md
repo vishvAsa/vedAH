@@ -21,7 +21,6 @@ above, p. 815.⌋
 Agni hath looked against the van of Mornings, against the days- the earliest Jatavedas; In many a place against the beams of Surya, against the heavens and earth hath he extended.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रति। अग्निः। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथमः। जातऽवेदाः। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। १.२८।

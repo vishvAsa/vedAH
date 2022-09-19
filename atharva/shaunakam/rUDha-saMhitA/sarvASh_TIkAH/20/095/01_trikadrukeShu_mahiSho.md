@@ -8,7 +8,6 @@ title = "०१ त्रिकद्रुकेषु महिषो"
 From the three jars the Great and Strong hath drunk drink blent with meal. With Vishnu hath he quaffed the flowing Soma juice, all that he would. That hath so heightened him the Great, the Vast, to do his mighty work. So may the God attend the God, true Indu Indra who is true.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिऽकद्रुकेषु। महिषः। यवऽआशिरम्। तुविऽशुष्मः। तृषत्। सोमम्। अपिबत्। विष्णुना। सुतम्। यथा। अवशत्। सः। ईम्। ममाद। महि। कर्म। कर्तवे। महाम्। उरुम्। सः। एनम्। सश्चत्। देवः। देवम्। सत्यम्। इन्द्रम्। सत्यः। इन्दुः। ९५.१।

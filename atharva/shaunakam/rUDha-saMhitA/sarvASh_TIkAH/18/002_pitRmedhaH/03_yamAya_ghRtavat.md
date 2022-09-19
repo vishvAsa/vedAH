@@ -51,7 +51,6 @@ peradventure to be a blunder by the *mṛtā́ya jīvā́m* of TA.); at xviii. 4
 Offer to Yama, to the King, butter and milk in sacrifice. So may he grant that we may live long days of life mid living men,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यमाय। घृतऽवत्। पयः। राज्ञे। हविः। जुहोतन। सः। नः। जीवेषु। आ। यमेत्। दीर्घम्। आयुः। प्र। जीवसे। २.३।

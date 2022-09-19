@@ -26,7 +26,6 @@ p. 828.⌋
 Three hymns the Sages have disposed in order, the many-formed, the fair, the all-beholding. These in one single world are placed and settled--the growing plants, the breezes, and the waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रीणि। छन्दांसि। कवयः। वि। येतिरे। पुरुऽरूपम्। दर्शतम्। विश्वऽचक्षणम्। आपः। वाताः। ओषधयः। तानि। एकस्मिन्। भुवने। आर्पितानि। १.१७।

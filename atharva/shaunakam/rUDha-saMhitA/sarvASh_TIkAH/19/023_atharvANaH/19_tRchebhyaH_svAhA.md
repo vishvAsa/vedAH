@@ -18,7 +18,6 @@ Between this verse and the next, the commentator's text inserts
 Hail to the triplets!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तृचेभ्यः। स्वाहा। २३.१९।

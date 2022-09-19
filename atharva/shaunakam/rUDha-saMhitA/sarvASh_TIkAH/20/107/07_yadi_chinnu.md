@@ -8,7 +8,6 @@ title = "०७ यदि चिन्नु"
 Therefore in thee too, thou who winnest riches, at every banquet are the sages joyful With mighter power, bold God, extend thy firmness: let not malignant Yatudhanas harm thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यदि। चित्। नु। त्वा। धना। जयन्तम्। रणेऽरणे। अनुमदन्त‍ि। विप्राः। ओजीयः। शुष्मिन्। स्थिरम्। आ। तनुष्व। मा। त्वा। दभन्। दुःऽएवासः। कशोकाः। १०७.७।

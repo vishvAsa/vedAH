@@ -33,7 +33,6 @@ only one ms. reads *jīvaṅs t-*, and most of the rest *jīvaṁ t-*).
 In the free amplitude of earth take roomy space to lodge thee in. Let all oblations which in life thou paidest drop thee honey now.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असम्ऽबाधे। पृथिव्याः। उरौ। लोके। नि। धीयस्व। स्वधाः। याः। चकृषे। जीवन्। ताः। ते। सन्तु। मधुऽश्चुतः। २.२०।

@@ -8,7 +8,6 @@ title = "०९ शतं जीव"
 Live waxing in thy strength a hundred autumns, live through a hundred springs, a hundred winters. Through hundred-lived oblation Indra, Agni, Brihaspati, Savitar yield him for a hundred!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतम्। जीव। शरदः। वर्धमानः। शतम्। हेमन्तान्। शतम्। ऊं इति। वसन्तान्। शतम्। ते। इन्द्रः। अग्निः। सविता। बृहस्पतिः। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। ९६.९।

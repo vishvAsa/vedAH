@@ -16,7 +16,6 @@ title = "७१ अग्नये कव्यवाहनाय"
 To Agni, bearer of oblation to the Manes, be Hail! and homage!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्नये। क्रव्यऽवाहनाय। स्वधा। नमः। ४.७१।

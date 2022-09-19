@@ -17,7 +17,6 @@ title = "०२ तस्य व्रात्यस्य"
 His second downward breath is the eighth day after Full Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। द्वितीयः। अपानः। सा। अष्टका। १६.२।

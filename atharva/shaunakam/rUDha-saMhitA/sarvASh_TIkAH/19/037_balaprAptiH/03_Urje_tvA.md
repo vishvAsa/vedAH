@@ -25,7 +25,6 @@ much an *āstārapan̄kti* as vs. 2; ⌊both are doubtless to be scanned as 8
 For conquering strength and energy and vigour I fasten thee for chieftainship, for bearing royal dominion through a hundred autumns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊर्जे। त्वा। बलाय। त्वा। ओजसे। सहसे। त्वा। अभिऽभूयाय। त्वा। राष्ट्रऽभृत्याय। परि। ऊहामि। शतऽशारदाय। ३७.३।

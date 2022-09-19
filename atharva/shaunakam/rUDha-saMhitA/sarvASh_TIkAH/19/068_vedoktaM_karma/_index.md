@@ -7,7 +7,6 @@ title = "०६८ वेदोक्तं कर्म"
 68. With ceremonial performance.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 वेदोक्तं कर्म।  
@@ -18,8 +17,6 @@ title = "०६८ वेदोक्तं कर्म"
 
 [Brahman.—ekarcam. mantroktakarmamātradevatyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 319.
 
 A preliminary sacrificial formula
 </details>
+

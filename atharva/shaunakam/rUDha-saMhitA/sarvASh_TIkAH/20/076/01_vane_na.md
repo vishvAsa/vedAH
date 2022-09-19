@@ -8,7 +8,6 @@ title = "०१ वने न"
 As sits the young bird on the tree rejoicing, ye, swift pair, have been roused by clear laudation, Whose Hoter-priest through many days is Indra, earth's guardian, friend of men, the best of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वने। वा। यः। नि। अधायि। चाकन्। शुचिः। वाम्। स्तोमः। भुरणौ। अजीगरिति। यस्य। इत्। इन्द्रः। पुरुऽदिनेषु। होता। नृणाम्। नयः। नृऽतमः। क्षपाऽवान्। ७६.१।

@@ -8,7 +8,6 @@ title = "०५ इन्द्राय साम"
 To Indra sing a Saman, sing to the high Sage a lofty song, To him who keeps the Law, inspired and fain for praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्राय। साम। गायत। विप्राय। बृहते। बृहत्। धर्मऽकृते। विपःऽचिते। पनस्यवे। ६२.५।

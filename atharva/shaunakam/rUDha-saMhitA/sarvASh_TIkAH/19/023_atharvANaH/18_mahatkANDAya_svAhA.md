@@ -24,7 +24,6 @@ that book v. might be intended.⌋ ⌊See pages clvii-viii.⌋
 Hail to the Great Section!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महत्ऽकाण्डाय। स्वाहा। २३.१८।

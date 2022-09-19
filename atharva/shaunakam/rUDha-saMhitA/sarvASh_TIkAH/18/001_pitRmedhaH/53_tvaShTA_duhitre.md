@@ -31,7 +31,6 @@ of eight verses from the Bṛhaddevatā in explanation of the legend.
 Tvashtar prepares the bridal for his daughter: therefore the whole of this our world assembles. But Yama's mother, spouse of great Vivasvan, vanished as she was carried to her dwelling.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वष्टा। दुहित्रे। वहतुम्। कृणोति। तेन। इदम्। विश्वम्। भुवनम्। सम्। एति। यमस्य। माता। परिऽउह्यमाना। महः। जाया। विवस्वतः। ननाश। १.५३।

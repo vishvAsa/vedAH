@@ -35,7 +35,6 @@ version of the accentless *asya:* Weber notices the wild incongruity
 Let the green grains become thy white, and speckled, The dusky corns become thy ruddy milch-kine. Let those with calves of Sesamum for ever yield strength to him and never flinch from milking.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एनीः। धानाः। हरिणीः। श्येनीः। अस्य। कृष्णाः। धानाः। रोहिणीः। धेनवः। ते। तिलऽवत्साः। ऊर्जम्। अस्मै। दुहानाः। विश्वाहा। सन्तु। अनपऽस्फुरन्तीः। ४.३४।

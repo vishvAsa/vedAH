@@ -8,7 +8,6 @@ title = "०९ सुप्रपाणा च"
 Pools with good drinking places, and the wealthy man who freely gives, The pretty girl who may be touched, these things are ordered in the rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुप्रपाणा। च। वेशन्ता। रेवान्। सुप्रतिदिश्ययः। सुयभ्या। कन्या। कल्याणी। तोता। कल्पेषु। संमिता। १२८.९।

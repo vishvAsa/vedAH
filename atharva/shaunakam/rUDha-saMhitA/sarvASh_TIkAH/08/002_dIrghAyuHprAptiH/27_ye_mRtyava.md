@@ -22,7 +22,7 @@ One and a hundred modes of death, dangers that may be over- come, May Gods deliv
 
 <details open><summary>पदपाठः</summary>
 
-ये। मृत्यवः। एकऽशतम्। याः। नाष्ट्राः। अतिऽतार्याः। मुञ्चन्तु। तस्मात्। त्वाम्। देवाः। अग्नेः। वैश्वानरात्। अधि। २.२७।
+ये। मृत्यवः। एकऽशतम्। याः। नाष्ट्राः। अतिऽतार्याः᳡। मुञ्चन्तु। तस्मात्। त्वाम्। देवाः। अग्नेः। वैश्वानरात्। अधि। २.२७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

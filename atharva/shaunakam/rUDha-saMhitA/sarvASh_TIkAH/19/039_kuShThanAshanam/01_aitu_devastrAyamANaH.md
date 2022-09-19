@@ -22,10 +22,9 @@ have blunderingly *āitu* instead of *ā́: etu;* SPP. emends to the latter.
 Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Consumption, drive all sorceresses far away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-आ। एतु। देवः। त्रायमाणः। कुष्ठः। हिमऽवतः। परि। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः। ३९.१।
+आ। एतु। देवः। त्रायमाणः। कुष्ठः। हिमऽवतः। परि। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

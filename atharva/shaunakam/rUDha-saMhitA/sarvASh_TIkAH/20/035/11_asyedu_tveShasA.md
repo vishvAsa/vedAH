@@ -8,7 +8,6 @@ title = "११ अस्येदु त्वेषसा"
 Through his resplendent power still stood the rivers when with his bolt on every side he stayed them. With lordly might favouring him who worshipped, he made a ford, victorious, for Turviti.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। ऊं इति। त्वेषसा। रन्त। सिन्धवः। परि। यत्। वज्रेण। सीम्। अयच्छत्। ईशानऽकृत्। दाशुषे। दशस्यन्। तुर्वीतये। गाधम्। तुर्वणिः। करिति। कः। ३५.११।

@@ -17,7 +17,6 @@ beings (*prajā́*).
 Vanquishing, etc. Indra by name, adorable, I call: may creatures love me well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। प्रऽजानाम्। भूयासम्। १.३।

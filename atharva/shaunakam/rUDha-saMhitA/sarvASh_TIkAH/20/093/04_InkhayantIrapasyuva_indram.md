@@ -8,7 +8,6 @@ title = "०४ ईङ्खयन्तीरपस्युव इन्द्
 Swaying about the active Ones came nigh to Indra at his birth, And shared his great heroic might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ईङ्खयन्तीः। अपस्युवः। इन्द्रम्। जातम्। उप। आसते। भेजानासः। सुऽवीर्यम्। ९३.४।

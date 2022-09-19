@@ -8,7 +8,6 @@ title = "०४ शतानीका हेतयो"
 Arrows with hundred points, unconquerable, are this Indra's mighty arms in war. He streams on liberal worshippers like a hill with springs, when juices poured have gladdened him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतऽअनीकाः। हेतयः। अस्य। दुस्तरा। इन्द्रस्य। सम्ऽइषः। महीः। गिरिः। न। भुज्मा। मघवत्ऽसु। पिन्वते। यत्। ईम्। सुताः। अमन्दिषुः। ५१.४।

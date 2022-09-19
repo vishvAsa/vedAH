@@ -32,10 +32,9 @@ substitute the older grammatical equivalent in **a**, *trī́ ca vīryā̀*
 With friendly thoughts the Deities, three-and thirty, and three great Powers preserved it in the Waters. He made heroic powers with the gold that lies upon this Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्रयःऽत्रिंशत्। देवताः। त्रीणि। च। वीर्याणि। प्रियऽयमाणाः। जुगुपुःः। अप्ऽसु। अन्तः। अस्मिन्। चन्द्रे। अधि। यत्। हिरण्यम्। तेन। अयम्। कृणवत्। वीर्याणि। २७.१०।
+त्रयःऽत्रिंशत्। देवताः। त्रीणि। च। वीर्या᳡णि। प्रियऽयमाणाः। जुगुपुःः। अप्ऽसु। अन्तः। अस्मिन्। चन्द्रे। अधि। यत्। हिरण्यम्। तेन। अयम्। कृणवत्। वीर्या᳡णि। २७.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

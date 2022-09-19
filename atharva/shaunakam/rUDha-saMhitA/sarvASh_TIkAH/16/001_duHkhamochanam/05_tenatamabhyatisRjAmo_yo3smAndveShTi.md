@@ -26,7 +26,6 @@ such connection only for xvi. 2. 1.
 With this we let him loose who hates us and whom we hate.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तेन। तम्। अभिऽअतिसृजामः। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १.५।

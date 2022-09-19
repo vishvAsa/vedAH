@@ -25,10 +25,9 @@ called simply a triṣṭubh. ⌊With **c**, cf. 27. 10 **a**, above.⌋
 To me hath come this word given by Agni, fame, force and might, and strength, and life, and lustre. May Agni too bestow on me three-times a hundred manly powers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-इदम्। वर्चः। अग्निना। दत्तम्। आ। अगन्। भर्गः। यशः। सहः। ओजः। वयः। बलम्। त्रयःऽत्रिंशत्। यानि। च। वीर्याणि। तानि। अग्निः। प्र। ददातु। मे। ३७.१।
+इदम्। वर्चः। अग्निना। दत्तम्। आ। अगन्। भर्गः। यशः। सहः। ओजः। वयः। बलम्। त्रयःऽत्रिंशत्। यानि। च। वीर्या᳡णि। तानि। अग्निः। प्र। ददातु। मे। ३७.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

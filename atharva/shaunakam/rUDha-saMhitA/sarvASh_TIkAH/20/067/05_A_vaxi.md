@@ -8,7 +8,6 @@ title = "०५ आ वक्षि"
 Bring the Gods hither, Sage, and offer sacrifice. At the three altars seat thee willingly .O Priest. Accept for thy delight the proffered Soma mead: drink from the Kindler's bowl and sate thee with thy share.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। वक्षि। देवान्। इह। विप्र। यक्षि। च। उशन्। होतः। नि। सद। योनिषु। त्रिषु। प्रति। वीहि। प्रऽस्थितम्। सोम्यम्। मधु। पिब। आग्नीध्रात्। तव। भागस्य। तृष्णुहि। ६७.५।

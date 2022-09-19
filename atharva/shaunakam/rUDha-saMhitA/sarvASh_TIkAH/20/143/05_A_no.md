@@ -8,7 +8,6 @@ title = "०५ आ नो"
 Come hitherward to us from earth, from heaven, borne on your golden chariot rolling lightly. Suffer not other worshippers to stay you: here are ye bound by earlier bonds of friendship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नः। यातम्। दिवः। अच्छ। पृथिव्याः। हिरण्ययेन। सुऽवृता। रथेन। मा। वाम्। अन्ये। नि। यमन्। देवयन्तः। सम्। यत्। ददे। नाभिः। पूर्व्या। वाम्। १४३.५।

@@ -8,7 +8,6 @@ title = "०१ इन्द्रश्च सोमम्"
 Lords of great wealth, Brihaspati and Indra, rejoicing at this sacrifice drink Soma. Let the abundant drops sink deep within you: vouchsafe us riches with full store of heroes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। च। सोमम्। पिबतम्। बृहस्पते। अस्मिन्। यज्ञे। मन्दसाना। वृषणऽवसू इति वृषण्ऽवसू। आ। वाम्। विशन्तु। इन्दवः। सुऽआभुवः। अस्मे इति। रयिम्। सर्वऽवीरम्। नि। यच्छतम्। १३.१।

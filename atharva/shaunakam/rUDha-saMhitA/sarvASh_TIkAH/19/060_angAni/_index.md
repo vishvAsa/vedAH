@@ -7,7 +7,6 @@ title = "०६० अङ्गानि"
 60. For physical abilities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अङ्गानि।  
@@ -18,8 +17,6 @@ title = "०६० अङ्गानि"
 
 [Brahman.—dvyṛcam. mantroktavāgādidāivatam. 1. pathyābṛhatī; 2. kakummatī purauṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 317.
 
 A prayer for perfect bodily and mental health and vigour
 </details>
+

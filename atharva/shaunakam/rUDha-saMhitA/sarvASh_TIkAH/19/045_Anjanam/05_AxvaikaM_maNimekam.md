@@ -48,7 +48,6 @@ emendation to *-hyāḥ*. \*⌊But SPP's S^(m)., *ākṣvā́ikam*.⌋
 Make one thy salve, thine amulet another, drink one, and with another bathe thy body. So let the Chaturvira keep us guarded from the four bonds of Nirriti and Grahi.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। अक्ष्व। एकम्। मणिम्। एकम्। कृणुष्व। स्नाहि। एकेन। आ। पिब। एकम्। एषाम्। चतुःऽवीरम्। नैःऽऋतेभ्यः। चतुःऽभ्यः। ग्राह्याः। बन्धेभ्यः। परि। पातु। अस्मान्। ४५.५।

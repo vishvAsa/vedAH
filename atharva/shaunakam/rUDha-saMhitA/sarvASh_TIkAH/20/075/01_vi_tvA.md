@@ -8,7 +8,6 @@ title = "०१ वि त्वा"
 Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of king pouring gifts, Indra, seeking thee. When two men seeking spoil or heaven thou bringest face to face in war, Thou showest, Indra, then the bolt, thy constant friend, the bull that ever waits on thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वि। त्वा। ततस्रे। मिथुनाः। अवस्यवः। व्रजस्य। साता। गव्यस्य। निःऽसृजः। सक्षन्तः। इन्द्र। निःऽसृज। यत्। गव्यन्ता। द्वा। जना। स्वः। यन्ता। सम्ऽऊहसि। आविः। करिक्रत्। वृषणम्। सचाऽभुवम्। वज्रम्। इन्द्र। सचाऽभुवम्। ७५.१।

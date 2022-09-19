@@ -51,7 +51,6 @@ noticed above under vs. 36.⌋
 The royal Parna is the caldrons' cover: strength have we gained, force, power, and might, and vigour. Bestowing length of life upon the living, for long existence through a hundred autumns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पर्णः। राजा। अपिऽधानम्। चरूणाम्। ऊर्जः। बलम्। सह। ओजः। नः। आ। अगन्। आयुः। जीवेभ्यः। विऽदधत्। दीर्घायुऽत्वाय। शतऽशारदाय। ४.५३।

@@ -8,7 +8,6 @@ title = "०१ यस्तिग्मशृङ्गो वृषभो"
 He, like a bull with sharpened horns, terrific, singly excites and agitates all the people. Then givest him who largely pours libation his wealth who pours not, for his own possession.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। तिग्मऽशृङ्गः। वृषभः। न। भीमः। एकः। कृष्टीः। च्यवयति। प्र। विश्वाः। यः। शश्वतः। अदाशुषः। गयस्य। प्रऽयन्ता। असि। सुस्विऽतराय। वेदः। ३७.१।

@@ -8,7 +8,6 @@ title = "०१ इहेत्थ प्रागपागुदगधराग
 Here are we sitting east and west and north and south, with waters. Bottle-gourd vessels.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। अरालअगुदभर्त्सथ। १३४.१।

@@ -8,7 +8,6 @@ title = "०६ ते त्वा"
 These our libations, strength inspiring Soma draughts, gladdened thee in the fight with Vritra, Hero-Lord, What time thou slewest for the singer with trimmed grass ten thousand Vritras, thou resistless in thy might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ते। त्वा। मदाः। अमदन्। तानि। वृष्ण्या। ते। सोमासः। वृत्रऽहत्येषु। सत्ऽपते। यत्। कारवे। दश। वृत्राणि। अप्रति। बर्हिष्मते। नि। सहस्राणि। बर्हयः। २१.६।

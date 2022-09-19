@@ -8,7 +8,6 @@ title = "०४ येनेमा विश्वा"
 By whom this universe was made to tremble, who chased away the humbled brood of demon, Who, like a gambler gathering his winnings, seized the foe's riches, He, O men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। इमा। विश्वा। च्यवना। कृतानि। यः। दासम्। वर्णम्। अधरम्। गुहा। अकरित्यकः। श्वघ्नीऽइव। यः। जिगीवान्। लक्षम्। आदत्। अर्यः। पुष्टानि। सः। जनासः। इन्द्रः। ३३.४।

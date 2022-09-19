@@ -40,10 +40,9 @@ vidhātrā saha*.
 Thou whose severity hath reached ill-doers, and whose reward the good have gained in slumber, Delightest heaven with thy most lofty kinship, born from his spirit who was worn and weary.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-यस्य। क्रूरम्। अभजन्त। दुःऽकृतः। अस्वप्नेन। सुऽकृतः। पुण्यम्। आयुः। स्वः। मदसि। परमेण। बन्धुना। तप्यमानस्य। मनसः। अधि। जज्ञिषे। ५६.५।
+यस्य। क्रूरम्। अभजन्त। दुःऽकृतः। अस्वप्नेन। सुऽकृतः। पुण्यम्। आयुः। स्वः᳡। मदसि। परमेण। बन्धुना। तप्यमानस्य। मनसः। अधि। जज्ञिषे। ५६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

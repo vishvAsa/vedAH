@@ -18,7 +18,6 @@ adds 22. 7.
 Hail to the little ones!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 क्षुद्रेभ्यः। स्वाहा। २३.२१।

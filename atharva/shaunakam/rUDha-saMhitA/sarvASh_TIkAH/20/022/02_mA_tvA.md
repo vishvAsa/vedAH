@@ -8,7 +8,6 @@ title = "०२ मा त्वा"
 Let not the fools, or those who mock, beguile thee when they seek thine aid: Love not the enemies of prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। त्वा। मूराः। अविष्यवः। मा। उपऽहस्वानः। आ। दभन्। माकीम्। ब्रह्मऽद्विषः। वनः। २२.२।

@@ -25,7 +25,6 @@ and as to *vidáthā*, see Geldner, ZDMG. lii. 735.⌋
 O Tree, give back again this man who is deposited on thee. That he may dwell in Yama's home addressing the assemblies there.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुनः। देहि। वनस्पते। यः। एषः। निऽहितः। त्वयि। यथा। यमस्य। सदने। आसातै। विदथा। वदन्। ३.७०।

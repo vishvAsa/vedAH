@@ -8,7 +8,6 @@ title = "०९ सुदेवो असि"
 Thou, Varuna, to whom belong the Seven Streams, art a glorious God. The waters flow into thy throat as'twere a pipe with ample mouth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽदेवः। असि। वरुण। यस्य। ते। सप्त। सिन्धवः। अनुऽक्षरन्ति। काकुदम्। सूर्म्यम्‌। ससुविराम्ऽइव। ९२.९।

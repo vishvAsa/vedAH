@@ -8,7 +8,6 @@ title = "१६ जातो व्यख्यत्"
 Born, manifested in his Parents' bosom, He knoweth as a son the Highest Father. He who with vigorous energy assisted the companies of Gods, He, men, is Indra
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जातः। वि। अख्यत्। पित्रोः। उपस्थे। भुवः। न। वेद। जनितुः। परस्य। स्तविष्यमाणः। नो इति। यः। अस्मत्। व्रता। देवानाम्। सः। जनासः। इन्द्रः। ३४.१६।

@@ -8,7 +8,6 @@ title = "१३ अरङ्गरो वावदीति"
 The ready praiser loudly speaks though fastened triply with a strap. Yea, he commends the freshening draught, deprecates languor of disease.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अरम्ऽगरः। वावदीति। त्रेधा। बद्धः। वरत्रया। इराम्। अह। प्रशंसति। अनिराम्। अप। सेधति। १३५.१३।

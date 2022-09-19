@@ -26,7 +26,6 @@ understands *bhṛtyā́m ṛṇádhat* in **d** as here translated; also
 Who yokes to-day unto the pole of Order the strong and passio- nate steers of checkless spirit, With shaft-armed mouths, heart-piercing, joy-bestowing? Long shall he live who duly pays them service.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। अद्य। युङ्क्ते। धुरि। गाः। ऋतस्य। शिमीऽवतः। भामिनः। दुःऽहृणायून्। आसन्ऽइषून्। हृत्सुऽअसः। मयःऽभून्। यः। एषाम्। भृत्याम्। ऋणधत्। सः। जीवात्। १.६।

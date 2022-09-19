@@ -24,10 +24,9 @@ sindhavaḥ*.
 Let the streams flow together, let the winds and birds assembled come. Strengthen this sacrifice of mine, ye singers. I offer up a duly mixt oblation.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। नद्यः। सम्। वाताः। सम्। पतत्रिणः। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्येण। हविषा। जुहोमि। १.१।
+सम्। सम्। स्रवन्तु। नद्यः᳡। सम्। वाताः। सम्। पतत्रिणः। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,7 +8,6 @@ title = "०६ शाचिगो शाचिपूजनायम्"
 Famed for thy radiance, worshipped well! this juice is shed for thy delight: Thou art invoked, Akhandala!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शाचिगो इति शाचिऽगो। शाचिऽपूजन। अयम्। रणाय। ते। सुतः। आखण्डल। प्र। हूयसे। ५.६।

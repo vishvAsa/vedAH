@@ -8,7 +8,6 @@ title = "०५ गमन्नस्मे वसून्या"
 May precious treasures come to us,-- so will I pray. Come to the votary's gift offered with beauteous laud. Thou art the Lord, as such sit on this holy grass: thy vessels are inviolate as Law commands.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गमन्। अस्मे इति। वसूनि। आ। हि। शंसिषम्। सुऽआशिषम्। भरम्। आ। याहि। सोमिनः। त्वम्। ईश‍िषे। सः। अस्मिन्। आ। वत्सि। बर्हिषि। अनाधृष्या। तव। पात्राणि। धर्मणा। ९४.५।

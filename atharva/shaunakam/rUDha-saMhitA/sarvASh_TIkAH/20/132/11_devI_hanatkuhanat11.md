@@ -8,7 +8,6 @@ title = "११ देवी हनत्कुहनत्११"
 Where beating will the Goddess beat again again about the house?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवी। हनत्। कुहनत्। १३२.११।

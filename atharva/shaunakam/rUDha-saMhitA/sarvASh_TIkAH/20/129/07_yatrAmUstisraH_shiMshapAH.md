@@ -8,7 +8,6 @@ title = "०७ यत्रामूस्तिस्रः शिंशपा
 There where around those distant trees, three Sisus that are standing there, (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। अमूः। तिस्रः। शिंशपाः। १२९.७।

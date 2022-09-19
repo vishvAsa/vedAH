@@ -8,7 +8,6 @@ title = "०१ इन्द्र त्वा"
 Thee, Indra, we invoke, the Bull, what time the Soma hath been pressed. Drink of the sweetly-flavoured juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। त्वा। वृषभम्। वयम्। सुते। सोमे। हवामहे। सः। पाहि। मध्वः। अन्धसः। १.१।

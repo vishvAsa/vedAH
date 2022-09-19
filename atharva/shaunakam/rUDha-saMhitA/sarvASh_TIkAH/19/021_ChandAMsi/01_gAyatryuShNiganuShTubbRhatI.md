@@ -30,7 +30,6 @@ division by the Anukr. into two pādas (in the *pada*-mss., after
 Gayatri, Ushnih, Anushtup, Brihati, Trishtup, Jagati.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गायत्री। उष्णिक्। अनुऽस्तुप्। बृहती। पङ्क्ति। त्रिऽस्तुप्। जगत्यै। २१.१।

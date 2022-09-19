@@ -33,7 +33,6 @@ in **c** would be a welcome addition to both meter and sense.
 Thy ninety-nine examiners, O Night, who look upon mankind, Eighty-and-eight in number, or seven-and-seventy are they.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। ते। रात्रि। नृऽचक्षसः। द्रष्टारः। नवतिः। नव। अशीतिः। सन्ति। अष्टौ। उतो इति। ते। सप्त। सप्ततिः। ४७.३।

@@ -56,7 +56,6 @@ us in emending the accent to *paribrávīmi*. The comm. repeats *nadyā
 Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap befall this man, For whom I make a charm of thee at eve, at morning, and by day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रीणि। ते। कुष्ठ। नामानि। नद्यऽमारः। नद्यऽरिषः। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.२।

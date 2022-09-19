@@ -17,7 +17,6 @@ Savitar \[protect\] me on the south, the lord of śachī me on the north.
 Peace hath been given us from the east, and from the west security. Savitar guard me from the south, and from the north the Lord of Might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 असपत्नम्। पुरस्तात्। पश्चात्। नः। अभयम्। कृतम्। सविता। मा। दक्षिणतः। उत्तरात्। मा। शचीऽपतिः। २७.१४।

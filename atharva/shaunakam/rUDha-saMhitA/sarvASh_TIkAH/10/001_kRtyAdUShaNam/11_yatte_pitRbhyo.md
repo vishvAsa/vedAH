@@ -23,7 +23,7 @@ If, as they gave thy parents aught, they named thee, or at sacri- fice, From all
 
 <details open><summary>पदपाठः</summary>
 
-यत्। ते। पितृऽभ्यः। ददतः। यज्ञे। वा। नाम। जगृहुः। सम्ऽदेश्यात्। सर्वस्मात्। पापात्। इमाः। मुञ्चन्तु। त्वा। ओषधीः। १.११।
+यत्। ते। पितृऽभ्यः। ददतः। यज्ञे। वा। नाम। जगृहुः। सम्ऽदेश्या᳡त्। सर्वस्मात्। पापात्। इमाः। मुञ्चन्तु। त्वा। ओषधीः। १.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

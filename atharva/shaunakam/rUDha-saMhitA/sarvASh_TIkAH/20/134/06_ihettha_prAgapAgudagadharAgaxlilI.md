@@ -8,7 +8,6 @@ title = "०६ इहेत्थ प्रागपागुदगधराग
 Here east and west and north and south fain would it clasp what would not clasp. Emmet hole.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्ऽअक्ष्लिली। पुच्छिलीयते। १३४.६।

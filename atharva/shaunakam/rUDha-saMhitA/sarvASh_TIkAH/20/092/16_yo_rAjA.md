@@ -8,7 +8,6 @@ title = "१६ यो राजा"
 He who as sovran Lord of men moves with his chariots unrestrained, The Vritra-slayer, queller of all fighting hosts, preeminent, is praised in song.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। राजा। चर्षणीनाम्। याता। रथेभिः। अध्रिःऽगुः। विश्वासाम्। तरुता। पृतनानाम्। ज्येष्ठः। यः। वृत्रऽहा। गृणे। ९२.१६।

@@ -27,7 +27,6 @@ orderings'; but Griffith understands it as 'wondrous works.'⌋
 Night! the terrestrial realm hath been filled with the Father's power and might. Thou spreadest forth on high unto the seats of Heaven: dark- ness that strikes with awe comes near.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। रात्रि। पार्थिवम्। रजः। पितुः। अप्रायि। धामऽभिः। दिवः। सदांसि। बृहती। वि। तिष्ठसे। आ। त्वेषम्। वर्तते। तमः। ४७.१।

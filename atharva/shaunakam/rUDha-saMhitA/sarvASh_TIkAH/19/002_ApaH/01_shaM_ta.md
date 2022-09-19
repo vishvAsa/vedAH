@@ -23,10 +23,9 @@ makes the combinations *śaṁ tā ”po* and *-ṣyadā ”paś ś-*.
 Blest be the Streams from hills of snow, sweet be spring Waters unto thee. Sweet be swift-running Waters, sweet to thee be Water of the Rains.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शम्। ते। आपः। हैमऽवतीः। शम्। ऊं इति। ते। सन्तु। उत्स्याः। शम्। ते। सनिस्यदाः। आपः। शम्। ऊं इति। ते। सन्तु। वर्ष्याः। २.१।
+शम्। ते। आपः। हैमऽवतीः। शम्। ऊं इति। ते। सन्तु। उत्स्याः᳡। शम्। ते। सनिस्यदाः। आपः। शम्। ऊं इति। ते। सन्तु। वर्ष्याः᳡। २.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

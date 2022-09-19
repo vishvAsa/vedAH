@@ -8,7 +8,6 @@ title = "०१ इन्द्रो दधीचो"
 With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-and-ninety Vritras dead,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। दधीचः। अस्थऽभिः। वृत्राणि। अप्रतिऽस्कुतः। जघान। नवतीः। नव। ४१.१।

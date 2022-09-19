@@ -17,7 +17,6 @@ me breaths: to Vāyu hail!
 Whither etc. Thither let Vayu lead me, let Vayu vouchsafe me vital breath. All hail to Vayu!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। वायुः। मा। तत्र। नयतु। वायुः। प्राणान्। दधातु। मे। वायवे। स्वाहा। ४३.२।

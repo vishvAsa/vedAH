@@ -8,7 +8,6 @@ title = "०८ यं क्रन्दसी"
 To whom both armies cry in close encounter, foe against foe, the stronger and the weaker; Whom two invoke upon one chariot mounted, each for himself, He, O ye men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। क्रन्दसी इति। संयती इति सम्ऽयती। विह्वयेते  इति। विऽह्वयेते। परे। अवरे। उभयाः। अमित्राः। समानम्। चित्। रथम्। आतस्थिऽवांसा। नाना। हवेते इति। सः। जनासः। इन्द्रः। ३४.८।

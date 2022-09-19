@@ -28,7 +28,6 @@ reading *upa gā v-*.
 Live with the Life-Creators' life. Die not, live on to lengthened age. Live with the breath of men with souls. Submit not to the power of Death.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आयुषा। आयुःऽकृताम्। जीव। आयुष्मान्। जीव। मा। मृथाः। प्राणेन। आत्मन्ऽवताम्। जीव। मा। मृत्योः। उत्। अगाः। वशम्। २७.८।

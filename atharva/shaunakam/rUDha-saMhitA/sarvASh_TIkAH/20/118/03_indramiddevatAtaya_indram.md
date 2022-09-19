@@ -8,7 +8,6 @@ title = "०३ इन्द्रमिद्देवतातय इन्द
 Indra for worship of the Gods, Indra while sacrifice proceeds, Indra as warriors in the battle-shock we call, Indra that we may win the spoil.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। इत्। देवऽतातये। इन्द्रम्। प्रऽयति। अध्वरे। इन्द्रम्। सम्ऽईके। वनिनः। हवामहे। इन्द्रम्। धनस्य। सातये। ११८.३।

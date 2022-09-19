@@ -8,7 +8,6 @@ title = "१७ अथो इयन्नियन्निति"
 Asvattha, Dhava, Khadira, leaf taken from the Aratu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अथो। इयन्ऽइयन्। इति। १३०.१७।

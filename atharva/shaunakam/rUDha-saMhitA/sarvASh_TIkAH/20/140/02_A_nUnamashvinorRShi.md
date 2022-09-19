@@ -8,7 +8,6 @@ title = "०२ आ नूनमश्विनोरृषि"
 Now hath the Rishi splendidly thought out the Asvins' hymn of praise. Let the Atharvan pour the warm oblation forth, and Soma very rich in sweets.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। नूनम्। अश्विनोः। ऋषिः। स्तोमम्। चिकेत। वामया। आ। सोमम्। मधुमत्ऽतमम्। घर्मम्। सिञ्चात्। अथर्वणि। १४०.२।

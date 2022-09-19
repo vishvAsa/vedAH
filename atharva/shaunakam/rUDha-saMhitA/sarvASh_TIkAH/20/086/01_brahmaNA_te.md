@@ -8,7 +8,6 @@ title = "०१ ब्रह्मणा ते"
 Those who are yoked by prayer with prayer I harness, the two. fleet friendly Bays who joy together. Mounting thy firm and easy car, O Indra, wise and all-knowing come thou to the Soma.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्मणा। ते। ब्रह्मऽयुजा। युनज्मि। हरी इति। सखाया। सधऽमादे। आशू इति। स्थिरम्। रथम्। सुऽखम्। इन्द्र। अधिऽतिष्ठन्। प्रऽजानन्। विद्वान्। उप। याहि। सोमम्। ८६.१।

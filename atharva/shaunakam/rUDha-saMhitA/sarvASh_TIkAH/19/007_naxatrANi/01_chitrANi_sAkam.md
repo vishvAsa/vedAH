@@ -35,7 +35,6 @@ full *triṣṭubh*.
 The brilliant lights shining in heaven together, which through the world glide on with rapid motion. And Days, and Firmament with songs I worship, seeking the Twenty-eight-fold for its favour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चित्राणि। साकम्। दिवि। रोचनानि। सरीसृपाणि। भुवने। जवानि। तुर्मिशम्। सुऽमतिम्। इच्छमानः। अहानि। गीःऽभिः। सपर्यामि। नाकम्। ७.१।

@@ -22,7 +22,6 @@ throughout with one another and with the comm. Ppp. reads in **a-b**
 To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving away all maladies, strike thou the demons down, O Plant.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उग्रः। इत्। ते। वनस्पते। इन्द्रः। ओज्मानम्। आ। दधौ। अमीवाः। सर्वाः। चातयन्। जहि। रक्षांसि। ओषधे। ३४.९।

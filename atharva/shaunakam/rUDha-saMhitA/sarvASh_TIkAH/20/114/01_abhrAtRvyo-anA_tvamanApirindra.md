@@ -8,7 +8,6 @@ title = "०१ अभ्रातृव्योऽअना त्वमना
 O Indra, from all ancient time rivalless ever and companionless art thou: In war thou seekest comradeship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभ्रातृभ्यः। अना। त्वम्। अनापिः। इन्द्र। जनुषा। सनात्। असि। युधा। इत्। आपिऽत्वम्। इच्छसे। ११४.१।

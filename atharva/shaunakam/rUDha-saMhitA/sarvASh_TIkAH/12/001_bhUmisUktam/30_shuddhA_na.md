@@ -25,7 +25,7 @@ Purified for our bodies flow the waters: we bring distress on him who would atta
 
 <details open><summary>पदपाठः</summary>
 
-शुध्दाः। नः। आपः। तन्वे। क्षरन्तु। यः। नः। सेदुः। अप्रिये। तम्। नि। दध्मः। पवित्रेण। पृथिवि। मा। उत्। पुनामि। १.३०।
+शुध्दाः। नः। आपः। तन्वे᳡। क्षरन्तु। यः। नः। सेदुः। अप्रिये। तम्। नि। दध्मः। पवित्रेण। पृथिवि। मा। उत्। पुनामि। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

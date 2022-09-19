@@ -32,7 +32,7 @@ With mead I mingle flowing streams: the hills and mountains shall be mead. Parus
 
 <details open><summary>पदपाठः</summary>
 
-मध्वा। पृञ्चे। नद्यः। पर्वताः। गिरयः। मधु। मधु। परुष्णी। शीपाला। शम्। आस्ने। अस्तु। शम्। हृदे। १२.३।
+मध्वा। पृञ्चे। नद्यः᳡। पर्वताः। गिरयः। मधु। मधु। परुष्णी। शीपाला। शम्। आस्ने। अस्तु। शम्। हृदे। १२.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

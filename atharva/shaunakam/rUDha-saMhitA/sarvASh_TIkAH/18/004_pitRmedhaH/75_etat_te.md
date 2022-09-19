@@ -17,7 +17,6 @@ are after (*ánu*) thee.
 To thee, O Great-grandfather, and those with thee be this cry of Hail
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। ते। प्रऽततामह। स्वधा। ये। च। त्वाम्। अनु। ४.७५।

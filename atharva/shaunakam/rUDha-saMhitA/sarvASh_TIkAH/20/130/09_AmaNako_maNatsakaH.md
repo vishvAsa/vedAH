@@ -8,7 +8,6 @@ title = "०९ आमणको मणत्सकः"
 Lover of Kusa grass, Unploughed! Fat is not reckoned in the hoof.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आमणकः। मणत्सकः। १३०.९।

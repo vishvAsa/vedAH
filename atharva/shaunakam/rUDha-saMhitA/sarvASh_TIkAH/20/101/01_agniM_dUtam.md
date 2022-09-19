@@ -8,7 +8,6 @@ title = "०१ अग्निं दूतम्"
 Agni we choose, the messenger, the herald, master of all wealth,. Well skilled in this our sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निम्। दूतम्। वृणीमहे। होतारम्। विश्वऽवेदसम्। अस्य। यज्ञस्य। सुक्रतुम्। १०१.१।

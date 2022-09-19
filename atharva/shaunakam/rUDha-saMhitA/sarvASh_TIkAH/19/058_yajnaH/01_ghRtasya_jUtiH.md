@@ -33,7 +33,6 @@ carrying as a consequence the continuance of physical blessings.
 Still equal be the flow of butter ever causing the Year to prosper with oblation. Still be our hearing, sight, and breath uninjured: let us lose nothing of our life and vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 घृतस्य। जूतिः। समना। सऽदेवा। सम्ऽवत्सरम्। हविषा। वर्धयन्ती। श्रोत्रम्। चक्षुः। प्राणः। अच्छिन्नः। न। अस्तु। अच्छिन्नाः। वयम्। आयुषः। वर्चसः। ५८.१।

@@ -14,7 +14,6 @@ title = "०२ या ते"
 Here is thine own desire for wealth: through this be gracious unto us. Joying in food and in the growth of riches, may we thy neigh- bours, Agni, ne'er be injured.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 या। ते। वसोः। वातः। इषुः। सा। ते। एषा। तया। नः। मृड। रायः। पोषेण। सम्। इषा। मदन्तः। मा। ते। अग्ने। प्रतिऽवेशाः। रिषाम। ५५.२।

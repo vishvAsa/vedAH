@@ -17,7 +17,7 @@ Earth and Agni and herbs and trees and shrubs and plants followed him.
 
 <details open><summary>पदपाठः</summary>
 
-तम्। भूमिः। च। अग्निः। च। ओषधयः। च। वनस्पतयः। च। वानस्पत्याः। च। वीरुधः। च। अनुऽव्यचलन्। ६.२।
+तम्। भूमिः। च। अग्निः। च। ओषधयः। च। वनस्पतयः। च। वानस्पत्याः। च। वीरुधः। च। अनुऽव्य᳡चलन्। ६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

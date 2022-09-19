@@ -8,7 +8,6 @@ title = "०७ येना समुद्रमसृजो"
 Wherewith thou sentest mighty waters to the sea--Indra, that manly strength of thine. For ever unattainable is this power of him to whom the worlds have cried aloud.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 येन। समुद्रम्। असृजः। महीः। अपः। तत्। इन्द्र। वृष्णि। ते। शवः। सद्यः। सः। अस्य। महिमा। न। सम्ऽनशे। यम्। क्षोणीः। अनुऽचक्रदे। ४९.७।

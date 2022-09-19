@@ -34,7 +34,6 @@ under vs. 24.
 Each parted member, severed from thy body, thy vital breaths that in the wind have vanished, With all of these, piece after piece, shall Fathers who dwell to- gether meet and reunite thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। ते। अङ्गम्। अतिऽहितम्। पराचैः। अपानः। प्राणः। यः। ऊं इति। वा। ते। पराऽइतः। तत्। ते। सम्ऽगत्य। पितरः। सऽनीडाः। घासात्। घासम्। पुनः। आ। वेशयन्तु। २.२६।

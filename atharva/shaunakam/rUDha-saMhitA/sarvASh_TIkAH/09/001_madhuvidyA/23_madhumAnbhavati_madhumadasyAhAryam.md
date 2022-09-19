@@ -19,7 +19,7 @@ Sweet is the man, sweet are his goods and chattels: he who knows this conquers t
 
 <details open><summary>पदपाठः</summary>
 
-मधुऽमान्। भवति। मधुऽमत्। अस्य। आऽहार्यम्। भवति। मधुऽमतः। लोकान्। जयति। यः। एवम्। वेद। १.२३।
+मधुऽमान्। भवति। मधुऽमत्। अस्य। आऽहार्य᳡म्। भवति। मधुऽमतः। लोकान्। जयति। यः। एवम्। वेद। १.२३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

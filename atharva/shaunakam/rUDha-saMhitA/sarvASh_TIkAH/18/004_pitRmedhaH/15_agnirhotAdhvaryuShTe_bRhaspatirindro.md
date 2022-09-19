@@ -30,7 +30,6 @@ it would be a faultless *triṣṭubh* if we dared to insert *ásti*
 On thy right hand let Indra be thy Brahman, Brihaspati Adh- varyu Agni Hotar. This ordered sacrifice goes offered thither whither presented gifts have gone aforetime.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निः। होता। अध्वर्युः। ते। बृहस्पतिः। इन्द्रः। ब्रह्मा। दक्षिणतः। ते। अस्तु। हुतः। अयम्। सम्ऽस्थितः। यज्ञः। एति। यत्र। पूर्वम्। अयनम्। हुतानाम्। ४.१५।

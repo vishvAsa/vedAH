@@ -16,7 +16,6 @@ title = "११ यदहरहरभिगच्छामि तस्माद
 Whether I meet with it day by day, from that do I bribe him away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अहःऽअहः। अभिऽगच्छामि। तस्मात्। एनम्। अव। दये। ७.११।

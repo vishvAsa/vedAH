@@ -8,7 +8,6 @@ title = "०४ तन्नो वि"
 Declare to us--if at thy hand aforetime the earlier singers have obtained good fortune What is thy share and portion, strong Subduer, Asura-slayer, rich, invoked of many?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। नः। वि। वोचः। यदि। ते। पुरा। चित्। जरितारः। आनशुः। सुम्नम्। इन्द्र। कः। ते। भागः। किम्। वयः। दुध्र। खिद्वः। पुरुऽहूत। पुरुवसो  इति  पुरुऽवसो। असुरऽघ्नः। ३६.४।

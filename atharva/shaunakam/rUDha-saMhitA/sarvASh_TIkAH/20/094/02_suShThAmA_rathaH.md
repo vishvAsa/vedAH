@@ -8,7 +8,6 @@ title = "०२ सुष्ठामा रथः"
 Firm-seated is thy car, thy steeds are docile: thy hand, O King, holds, firmly grasped, the thunder. On thy fair path, O Lord of men, come quickly: we will increase thy power when thou hast drunken.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुऽस्थामा। रथः। सुऽयमा। हरी इति। ते। मिम्यक्ष। वज्रः। नृऽपते। गभस्तौ। शीभम्। राजन्। सुऽपथा। आ। याहि। अवाङ्। वर्धाम। ते। पपुषः। वृष्ण्यानि। ९४.२।

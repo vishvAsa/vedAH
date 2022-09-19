@@ -38,7 +38,6 @@ mss., after *pári*, as does SPP.⌋
 The evil dream that threatens us, threatens our cattle or our home. That let the scorner of the Gods, the alien mischief-maker bind as a gold jewel round his neck.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अनास्माकः। तत्। देवऽपीयुः। पियारुः। निष्कम्ऽइव। प्रति। मुञ्चताम्। नव। अरत्नीन्। अपऽमयाः। अस्माकम्। ततः। परि। दुःऽस्वप्न्यम्। सर्वम्। द्विषते। निः। दयामसि। ५७.५।

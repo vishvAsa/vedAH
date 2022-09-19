@@ -73,7 +73,6 @@ x. 26. 8; and the occurrences of *ajā́śva*) consists of goats.⌋
 Ye have prepared, pathmakers, Agni-Soma, a fair world for the Gods to be the it treasure. Go to that world and send us Pushan hither to bear us on the paths the goat hath trodden.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्नीषोमा। पथिऽकृता। स्योनम्। देवेभ्यः। रत्नम्। दधथुः। वि। लोकम्। उप। प्र। ईष्यन्तम्। पूषणम्। यः। वहाति। अञ्जःऽयानैः। पथिऽभिः। तत्र। गच्छतम्। २.५३।

@@ -29,7 +29,6 @@ in the *puruṣamedha*.
 May they ascend, the lowest, highest, midmost, the Fathers, who deserve a share of Soma. May they who have attained to life, the Fathers, righteous and gentle, aid us when we call them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ईरताम्। अवरे। उत्। परासः। उत्। मध्यमाः। पितरः। सोम्यासः। असुम्। ये। ईयुः। अवृकाः। ऋतऽज्ञाः। ते। नः। अवन्तु। पितरः। हवेषु। १.४४।

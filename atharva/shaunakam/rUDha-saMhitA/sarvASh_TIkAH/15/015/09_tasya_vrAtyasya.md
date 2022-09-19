@@ -17,7 +17,6 @@ creatures (*prajā́*).
 His seventh vital breath, called Unlimited, are these creatures.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। सप्तमः। प्राणः। अपरिऽमितः। नाम। ताः। इमाः। प्रऽजाः। १५.९।

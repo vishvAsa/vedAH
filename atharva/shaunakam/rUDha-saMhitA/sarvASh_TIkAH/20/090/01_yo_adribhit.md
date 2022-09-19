@@ -8,7 +8,6 @@ title = "०१ यो अद्रिभित्"
 Served with oblations, first-born, mountain-render, Angiras' Son, Brihaspati the holy. With twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to earth and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। अद्रिऽभित्। प्रथमऽजाः। ऋतऽवा। बृहस्पतिः। आङ्गिरसः। हविष्मान्। द्विबर्हऽज्मा। प्राघर्मऽसत्। पिता। नः। आ। रोदसी इति। वृषभः। रोरवीति। ९०.१।

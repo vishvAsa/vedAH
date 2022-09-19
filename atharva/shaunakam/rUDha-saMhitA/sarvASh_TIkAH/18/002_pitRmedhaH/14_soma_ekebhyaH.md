@@ -29,7 +29,6 @@ RV.
 For some the Soma juice runs clear some sit by sacrificial oil. To those for whom the meath flows forth, even to those let him depart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। एकेभ्यः। पवते। घृतम्। एके। उप। आसते। येभ्यः। मधु। प्रऽधावति। तान्। चित्। एव। अपि। गच्छतात्। २.१४।

@@ -8,7 +8,6 @@ title = "०२ प्रजामृतस्य पिप्रतः"
 When the priests, strengthening the Son of holy Law, present their gifts, Singers with Order's hymn of praise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रऽजाम्। ऋतस्य। पिप्रतः। प्र। यत्। भरन्त। वह्नयः। विप्राः। ऋतस्य। वाहसा। १३८.२।

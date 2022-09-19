@@ -20,7 +20,6 @@ by *bhuvanam udakam antarikṣaṁ vā*. ⌊Ppp. also reads *bhavitram*.⌋
 May Aditi through holy works be gracious, and may the Maruts,_ loud in song, be friendly. May Vishnu give felicity, and, Pushan, and Air that cherisheth. our lives, and Vayu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। अदितिः। भवतु। व्रतेभिः। शम्। नः। भवन्तु। मरुतः। सुऽअर्काः। शम्। नः। विष्णुः। शम्। ऊं इति। पूषा। नः। अस्तु। शम्। नः। भवित्रम्। शम्। ऊं इति। अस्तु। वायुः। १०.९।

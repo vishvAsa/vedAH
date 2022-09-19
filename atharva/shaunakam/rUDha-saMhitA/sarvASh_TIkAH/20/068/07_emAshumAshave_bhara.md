@@ -8,7 +8,6 @@ title = "०७ एमाशुमाशवे भर"
 Unto the swift One bring the swift, man-cheering, grace of sacrifice. That to the Friend gives wings and joy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। ईम्। आशुम्। आशवे। भर। यज्ञऽश्रियम्। नृऽमादनम्। पतयत्। मन्दयत्ऽसख्यम्। ६८.७।

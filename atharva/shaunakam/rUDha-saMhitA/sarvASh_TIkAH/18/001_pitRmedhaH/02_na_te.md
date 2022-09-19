@@ -28,7 +28,6 @@ or *nirākariṣyanti*. The verse is RV. x. 10. 2.
 Thy friend loves not the friendship which considers her who is near in kindred as a stranger. Sons of the mighty Asura, the heroes, supporters of the heaven, see far around them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। ते। सखा। सख्यम्। वष्टि। एतत्। सऽलक्ष्मा। यत्। विषुऽरूपा। भवाति। महः। पुत्रासः। असुरस्य। वीराः। दिवः। धर्तारः। उर्विया। परि। ख्यन्। १.२।

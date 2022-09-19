@@ -8,7 +8,6 @@ title = "०२ मा नो"
 Grant that no mighty foes, unknown, malevolent, unhallowed, tread us to the ground. With thine assistance, Hero! may we pass through all the waters that are rushing down.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। नः। अज्ञाताः। वृजनाः। दुःऽआध्यः। मा। आशिवासः। अव। क्रमुः। त्वया। वयम्। प्रऽवतः। शश्वतीः। अपः। अति। शूर। तरामसि। ७९.२।

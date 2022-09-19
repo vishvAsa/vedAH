@@ -8,7 +8,6 @@ title = "०५ तं पृच्छन्ती"
 He who for car-borne, thunder-wielding Indra, hath a hymn, craving deeply-piercing, fluent, Who sends a song effectual, firmly-grasping, and strength- bestowing, he comes near the mighty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। पृच्छन्ती। वज्रऽहस्तम्। रथेऽस्थम्। इन्द्रम्। वेपी। वक्वरी। यस्य। नु। गीः। तुविऽग्राभम्। तुविऽकूर्मिम्। रभःऽदाम्। गातुम्। इषे। नक्षते। तुम्रम्। अच्छ। ३६.५।

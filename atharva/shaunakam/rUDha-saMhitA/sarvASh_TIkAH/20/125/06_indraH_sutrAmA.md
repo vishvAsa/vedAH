@@ -8,7 +8,6 @@ title = "०६ इन्द्रः सुत्रामा"
 Indra is strong to save, rich in assistance: may he, possessing all, be kind and gracious. May he disperse our foes and give us safety, and may we be the lords of hero vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। सुऽत्रामा। स्वऽवान्। अवःऽभिः। सुऽमृडीकः। भवतु। विश्वऽवेदाः। बाधताम्। द्वेषः। अभयम्। नः। कृणोतु। सुऽवीर्यस्य। पतयः। स्याम। १२५.६।

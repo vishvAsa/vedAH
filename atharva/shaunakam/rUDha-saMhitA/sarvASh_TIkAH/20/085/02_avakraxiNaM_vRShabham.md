@@ -8,7 +8,6 @@ title = "०२ अवक्रक्षिणं वृषभम्"
 Even him, eternal, like a bull who rushes down, men's con- queror, bounteous like a cow; Him who is cause of both, of enmity and peace, to both sides most munificent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अवऽक्रक्षिणम्। वृषभम्। यथा। अजुरम्। गाम्। न। चर्षणिऽसहम्। विऽद्वेषणम्। सम्ऽवनना। उभयम्ऽकारम्। मंहिष्ठम्। उभयाविनम्। ८५.२।

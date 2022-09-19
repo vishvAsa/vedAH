@@ -20,10 +20,9 @@ The verse (11 + 12: 34 = 57) has one more syllable than a regular
 Indra, exalting thee with prayer, imploring, Rishis have sat them down in holy Session. Manifold are thy great deeds, thine, O Vishnu,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वाम्। इन्द्र। ब्रह्मणा। वर्धयन्तः। सत्त्रम्। नि। सेदुः। ऋषयः। नाधमानाः। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१४।
+त्वाम्। इन्द्र। ब्रह्मणा। वर्धयन्तः। सत्त्रम्। नि। सेदुः। ऋषयः। नाधमानाः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

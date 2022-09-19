@@ -17,7 +17,6 @@ Indra with the Maruts.
 Let those who vex me from this quarter, sinners, praise Indra with the Marut host about him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। ते। मरुत्ऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.८।

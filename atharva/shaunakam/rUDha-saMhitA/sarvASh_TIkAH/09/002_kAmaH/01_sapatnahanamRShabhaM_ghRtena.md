@@ -22,7 +22,7 @@ Kama the Bull, slayer of foes, I worship with molten butter, sacrifice, oblation
 
 <details open><summary>पदपाठः</summary>
 
-सपत्नऽहनम्। ऋषभम्। घृतेन। कामम्। शिक्षामि। हविषा। आज्येन। नीचैः। सऽपत्नान्। मम। पादय। त्वम्। अभिऽस्तुतः। महता। वीर्येण। २.१।
+सपत्नऽहनम्। ऋषभम्। घृतेन। कामम्। शिक्षामि। हविषा। आज्येन। नीचैः। सऽपत्नान्। मम। पादय। त्वम्। अभिऽस्तुतः। महता। वीर्ये᳡ण। २.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

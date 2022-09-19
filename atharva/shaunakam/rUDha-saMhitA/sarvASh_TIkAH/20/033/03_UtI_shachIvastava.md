@@ -8,7 +8,6 @@ title = "०३ ऊती शचीवस्तव"
 O mighty Indra, through thine aid, thy prowess, obtaining life, zealous, and skilled in worship. Men in the house who share the sacred banquet stand singing praise that brings them store of children.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऊती। शचीऽवः। तव। वीर्येण। वयः। दधानाः। उशिजः। ऋतऽज्ञाः। प्रजाऽवत्। इन्द्र। मनुषः। दुरोणे। तस्थुः। गृणन्तः। सधऽमाद्यासः। ३३.३।

@@ -24,7 +24,6 @@ most unnecessarily; he reads in **d** *rakṣati*, but glosses it with
 Let Soma guard thee with the plants, Surya protect thee with the stars; With breath let Wind protect thee, and the Moon, foe-slayer, with the months.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। त्वा। पातु। ओषधीभिः। नक्षत्रैः। पातु। सूर्यः। मात्ऽभ्यः। त्वा। चन्द्रः। वृत्रऽहा। वातः। प्राणेन। रक्षतु। २७.२।

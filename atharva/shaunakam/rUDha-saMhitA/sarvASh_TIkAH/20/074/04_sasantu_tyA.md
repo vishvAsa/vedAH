@@ -8,7 +8,6 @@ title = "०४ ससन्तु त्या"
 Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra, give us hope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ससन्तु। त्याः। अरातयः। बोधन्तु। शूर। रातयः। आ। तु। नः। इन्द्र। शंसय। गोषु। अश्वेषु। शुभ्रिषु। सहस्रेषु। तुविऽमघ। ७४.४।

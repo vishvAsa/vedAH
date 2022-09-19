@@ -8,7 +8,6 @@ title = "०४ इन्द्रमिद् गाथिनो"
 Indra the singers with high praise, Indra reciters with their lauds, Indra the choirs have glorified.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। इत्। गाथिनः। बृहत्। इन्द्रम्। अर्केभिः। अर्किणः। इन्द्रम्। वाणीः। अनूषत। ३८.४।

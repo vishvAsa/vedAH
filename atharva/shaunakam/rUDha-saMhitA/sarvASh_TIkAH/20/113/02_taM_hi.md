@@ -8,7 +8,6 @@ title = "०२ तं हि"
 For him, strong independent Ruler, Heaven and Earth have fashioned forth for power and might. Thou seatest thee as first among thy peers in place, for thy soul longs for Soma juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। हि। स्वऽराजम्। वृषभम्। तम्। ओजसे। धिषणे। इति। निःऽततक्षतुः। उत। उपऽमानाम्। प्रथमः। नि। सीदस‍ि। सोमऽकामम्। हि। ते। मनः। ११३.२।

@@ -21,7 +21,7 @@ Thy food, thy drink, whate'er they be corn grown by cultivation, milk, Food eata
 
 <details open><summary>पदपाठः</summary>
 
-यत्। अश्नासि। यत्। पिबसि। धान्यम्। कृष्या। पयः। यत्। आद्यम्। यत्। अनाद्यम्। सर्वम्। ते। अन्नम्। अविषम्। कृणोमि। २.१९।
+यत्। अश्नासि। यत्। पिबसि। धान्य᳡म्। कृष्या। पयः। यत्। आद्य᳡म्। यत्। अनाद्यम्। सर्वम्। ते। अन्नम्। अविषम्। कृणोमि। २.१९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

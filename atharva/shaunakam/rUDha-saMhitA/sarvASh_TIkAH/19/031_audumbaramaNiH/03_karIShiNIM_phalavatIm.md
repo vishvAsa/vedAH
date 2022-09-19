@@ -21,7 +21,6 @@ phalāvatīṁ*. The comm. explains *irā* first as = *bhūmi*, and then as =
 By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's droppings and in fruit, and, in our dwelling, food, and drink.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 करीषिणीम्। फलऽवतीम्। स्वधाम्। इराम्। च। नः। गृहे। औदुम्बरस्य। तेजसा। धाता। पुष्टिम्। दधातु। मे। ३१.३।

@@ -8,7 +8,6 @@ title = "०२ शतानीकेव प्र"
 As with a hundred hosts he rushes boldly on, and for the offerer slays his foes. As from a mountain flow the water-brooks, thus flow his gifts who feedeth many a one.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतानीकाऽइव। प्र। जिगति। धृष्णुऽया। हन्ति। वृत्राणि। दाशुषे। गिरेःऽइव। प्र। रसाः। अस्य। पिन्विरे। दत्राणि। पुरुऽभोजसः। ५१.२।

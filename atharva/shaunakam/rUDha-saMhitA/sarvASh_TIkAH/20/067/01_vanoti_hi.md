@@ -8,7 +8,6 @@ title = "०१ वनोति हि"
 The pourer of oblations gains the home of wealth pouring his gift conciliates hostilities, yea, the hostilities of Gods. Pouring he strives, unchecked and strong, to win him riches thousandfold. Indra gives lasting wealth to him who pours forth gifts; yea, wealth he gives that long shall last.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वनोति। हि। सुन्वन्। क्षयम्। परीणसः। सुन्वानः। हि। स्म। यजति। अव। द्विषः। देवानाम्। अव। द्विषः। सुन्वानः। इत्। सिसासति। सहस्रा। वाजी। अवृतः। सुन्वानाय। इन्द्रः। ददाति। आऽभुवम्। रयिम्। ददाति। आऽभुवम्। ६७.१।

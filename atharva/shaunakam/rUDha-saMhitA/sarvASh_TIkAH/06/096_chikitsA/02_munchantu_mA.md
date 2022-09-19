@@ -27,7 +27,7 @@ Let them release me from the curse and from the noose of Varupa, Free me from Ya
 
 <details open><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्यात्। अथो इति। वरुण्यात्। उत। अथो इति। यमस्य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ९६.२।
+मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ९६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,6 @@ half.⌋
 All that the World's Lord made, all that for creatures Prajapati and Matarisvan fashioned, All things within the quarters and their spaces, let all these be my manifold defences.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यानि। चकार। भुवनस्य। यः। पतिः। प्रजाऽपतिः। मातरिश्वा। प्रऽजाभ्यः। प्रऽदिशः। यानि। वसते। दिशः। च  तानि। मे। वर्माणि। बहुलानि। सन्तु। २०.२।

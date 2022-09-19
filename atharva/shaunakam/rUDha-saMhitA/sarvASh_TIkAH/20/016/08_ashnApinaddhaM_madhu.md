@@ -8,7 +8,6 @@ title = "०८ अश्नापिनद्धं मधु"
 He looked around on rock-imprisoned sweetness as one who eyes a fish in scanty water. Brihaspati, cleaving through with varied clamour, brought it forth like a bowl from out the timber.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अश्ना। अपिऽनद्धम्। मधु। परि। अपश्यत। मत्स्यम्। न। दीने। उदनि। क्षियन्तम्। निः। तत्। जभार। चमसम्। न। वृक्षात्। बृहस्पतिः। विऽरवेण। विऽकृत्य। १६.८।

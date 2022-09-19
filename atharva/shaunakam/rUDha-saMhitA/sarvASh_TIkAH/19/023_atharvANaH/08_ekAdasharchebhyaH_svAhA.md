@@ -16,7 +16,6 @@ title = "०८ एकादशर्चेभ्यः स्वाहा"
 Hail to the eleven-versed!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एकादशऽऋचेभ्यः। स्वाहा। २३.८।

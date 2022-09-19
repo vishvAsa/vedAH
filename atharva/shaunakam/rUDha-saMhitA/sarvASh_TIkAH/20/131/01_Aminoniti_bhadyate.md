@@ -11,7 +11,6 @@ id
 Name: Comment, dtype: object
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽअमिनोन्। इति। भद्यते। १३१.१।

@@ -8,7 +8,6 @@ title = "१४ गिरा वज्रो"
 By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, invincible he grew.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गिरा। वज्रः। न। सम्ऽभृतः। सऽबलः। अनपऽच्युतः। ववक्षे। ऋष्व। अस्तृतः। १३७.१४।

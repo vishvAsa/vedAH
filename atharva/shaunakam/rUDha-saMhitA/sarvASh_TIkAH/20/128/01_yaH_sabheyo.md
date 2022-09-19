@@ -8,7 +8,6 @@ title = "०१ यः सभेयो"
 The worshipper who pours the juice, for gathering and assembly fit, And yonder foe-destroying Sun,--these have the Gods designed of old.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। सभेयः। विद‍थ्यः। सुत्वा। यज्वा। अथ। पूरुषः। सूर्यम्। च। अमू। रिशादसः। तत्। देवाः। प्राक्। अकल्पयन्। १२८.१।

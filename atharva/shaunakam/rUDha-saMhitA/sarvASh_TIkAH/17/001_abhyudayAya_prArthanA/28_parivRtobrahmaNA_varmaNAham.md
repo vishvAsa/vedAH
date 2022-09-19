@@ -27,7 +27,6 @@ give *áva॰sṛṣṭā* instead of *-ṭāḥ* in **d**. The comm. adds the
 Compassed am I with prayer, my shield and armour; compassed with Kasyapa's bright light and splendour. Let not shafts reach me shot from heaven against me, nor those sent forth by men for my destruction.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परिऽवृतः। ब्रह्मणा। वर्मणा। अहम्। कश्यपस्य। ज्योतिषा। वर्चसा। च। मा। मा। प्र। आपन्। इषवः। दैव्याः। याः। मा। मानुषीः। अवऽसृष्टाः। वधाय। १.२८।

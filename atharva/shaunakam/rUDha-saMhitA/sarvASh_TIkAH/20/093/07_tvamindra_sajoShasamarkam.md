@@ -8,7 +8,6 @@ title = "०७ त्वमिन्द्र सजोषसमर्कम्
 Thou, Indra, bearest in thine arms the lightning that accords with thee, Whetting thy thunderbolt with might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। सऽजोषसम्। अर्कम्। ब‍िभर्षि। बाह्वोः। वज्रम्। शिशानः। ओजसा। ९३.७।

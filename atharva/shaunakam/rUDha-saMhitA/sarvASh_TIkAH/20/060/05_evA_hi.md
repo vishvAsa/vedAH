@@ -8,7 +8,6 @@ title = "०५ एवा हि"
 For verily thy mighty powers, Indra, are saving helps at once Unto a worshipper like me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। हि। ते। विऽभूतयः। ऊतयः। इन्द्र। माऽवते। सद्यः। चित्। सन्ति। दाशुषे। ६०.५।

@@ -8,7 +8,6 @@ title = "०३ स त्वम्"
 As such, O Indra, honour us with wealth and treasure: further us, And lead us to felicity.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। त्वम्। नः। इन्द्र। वाजेभिः। दशस्य। च। गातुऽया। च। अच्छ। च। नः। सुम्नम्। नेषि। ४६.३।

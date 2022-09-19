@@ -8,7 +8,6 @@ title = "०२ आदित्यैरिन्द्रः सगणो"
 With the Adityas with the band of Maruts, may Indra be pro- tector of our bodies; As when the Gods came, after they had slaughtered the Asuras,. keeping safe their godlike nature,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आदित्यैः। इन्द्रः। सऽगणः। मरुत्ऽभिः। अस्माकम्। भूतु। अविता। तनूनाम्। हत्वाय। देवाः। असुरान्। यत्। आयन्। देवाः। देवऽत्वम्। अभिऽरक्षमाणाः। ६३.२।

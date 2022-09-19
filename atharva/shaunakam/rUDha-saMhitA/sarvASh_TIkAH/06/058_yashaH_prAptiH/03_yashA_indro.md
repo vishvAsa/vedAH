@@ -23,7 +23,6 @@ Indra and Agni were renowned, famous was Soma at his birth; So too am I illustri
 यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ५८.३।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ५८.३।

@@ -28,7 +28,6 @@ Ppp.) agree with our *evā́*. The majority of mss. have at the end
 As millet hurried through the air before us is beheld no more. So cause the man to vanish, Night, who plans to do us injury.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। शाम्याकः। प्रऽपतन्। अपऽवान्। न। अनुऽविद्यते। एव। रात्रि। प्र। पातय। यः। अस्मान्। अभिऽअघायति। ५०.४।

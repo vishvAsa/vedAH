@@ -8,7 +8,6 @@ title = "०७ अस्येदु मातुः"
 As soon as, at libations of his mother, great Vishnu had drunk up the draught, he plundered. The dainty cates, the cooked mess; but One stronger transfixed the wild boar, shooting through the mountain.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। ऊं इति। मातुः। सवनेषु। सद्यः। महः। पितुम्। पपिऽवान्। चारु। अन्ना। मुषायत्। विष्णुः। पचतम्। सहीयान्। विध्यत्। वराहम्। तिरः। अद्रिम्। अस्ता। ३५.७।

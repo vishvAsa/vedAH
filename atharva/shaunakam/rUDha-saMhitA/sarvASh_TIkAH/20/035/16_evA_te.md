@@ -8,7 +8,6 @@ title = "१६ एवा ते"
 Thus to thee, Indra, yoker of bay coursers, the Gotamas have brought their prayers and praises. Bestow upon them thought, decked with all beauty. May he, enriched with prayer, come soon and early.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। ते। हारिऽयोजन। सुऽवृक्ति। इन्द्र। ब्रह्माणि। गोतमासः। अक्रन्। आ। एषु। विश्वऽपेशसम्। धियम्। धाः। प्रातः। मक्षु। धियाऽवसुः। जगम्यात्। ३५.१६।

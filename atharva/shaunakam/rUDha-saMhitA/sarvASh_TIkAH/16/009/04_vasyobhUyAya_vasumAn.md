@@ -36,7 +36,6 @@ here quoted from the Old Anukr. is *pañcaparyāya uttaraḥ:* see p. 792.⌋
 Sacrifice is fraught with wealth for the increase of prosperity. I would win riches; fain would I be wealthy. Do thou bestow wealth upon me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वस्यःऽभूयाय। वसुऽमान। यज्ञः। वसु। वंशिषीय। वसुऽमान्। भूयासम्। वसु। मयि। धेहि। ९.४।

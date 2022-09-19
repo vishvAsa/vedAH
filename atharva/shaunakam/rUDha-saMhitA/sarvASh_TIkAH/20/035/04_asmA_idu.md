@@ -8,7 +8,6 @@ title = "०४ अस्मा इदु"
 Even for him I frame a laud--so fashions the wright a chariot for the man who needs it Songs for wise Indra hymned with invocation, a song composed with care and all-impelling.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मै। इत्। ऊं इति। स्तोमम्। सम्। हिनोमि। रथम्। न। तष्टाऽइव। तत्ऽसिनाय। गिरः। च। गिर्वाहसे। सुऽवृक्ति। इन्द्राय। विश्वम्ऽइन्वम्। मेध‍िराय। ३५.४।

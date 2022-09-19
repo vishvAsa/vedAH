@@ -8,7 +8,6 @@ title = "०४ यद् योधया"
 When thou hast urged the arrogant to combat, proud in their strength of arm, we will subdue them. Or, Indra, when thou fightest girt by heroes, we in the glorious fray with thee will conquer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। योधयाः। महतः। मन्यमानान्। साक्षाम। तान्। बाहुभिः। शाशदानान्। यत्। वा। नृऽभि। वृतः। इन्द्र। अभिऽयुध्याः। तम्। त्वया। आजिम‌्। सौश्रवसम्। जयेम। ८७.४।

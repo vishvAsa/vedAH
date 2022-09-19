@@ -28,7 +28,6 @@ perfectly good *triṣṭubh*⌋.
 Encompassed by Prajapati's devotion as shield, with Kasyapa's bright light and splendour, Reaching old age, may I made strong and mighty live through a thousand years with happy fortune.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्रजाऽपतेः। आऽवृतः। ब्रह्मणा। वर्मणा। अहम्। कश्यपस्य। ज्योतिषा। वर्चसा। च। जरत्ऽअष्टिः। कृतऽवीर्यः। विऽहायाः। सहस्रऽआयुः। सुऽकृतः। चरेयम्। १.२७।

@@ -25,7 +25,7 @@ May all the Rivers, all the Plants, may all the Forests, all the Fields, O Bride
 
 <details open><summary>पदपाठः</summary>
 
-याः। ओषधयः। याः। नद्यः। यानि। क्षेत्राणि। या। वना। ताः। त्वा। वधु। प्रजाऽवतीम्। पत्ये। रक्षन्तु। रक्षसः। २.७।
+याः। ओषधयः। याः। नद्यः᳡। यानि। क्षेत्राणि। या। वना। ताः। त्वा। वधु। प्रजाऽवतीम्। पत्ये। रक्षन्तु। रक्षसः। २.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

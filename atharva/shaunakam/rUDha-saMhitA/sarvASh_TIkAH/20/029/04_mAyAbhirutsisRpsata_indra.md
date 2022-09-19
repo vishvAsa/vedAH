@@ -8,7 +8,6 @@ title = "०४ मायाभिरुत्सिसृप्सत इन्
 The Dasyus, when they fain would climb by magic arts and mount to heaven, Thou, Indra, castest down to earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मायाभिः। उत्ऽसिसृप्सतः। इन्द्र। द्याम्। आऽरुरुक्षतः। अव। दस्यून्। अधूनुथाः। २९.४।

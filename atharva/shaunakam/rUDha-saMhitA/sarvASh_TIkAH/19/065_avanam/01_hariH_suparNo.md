@@ -28,7 +28,6 @@ numbering it 66, the one-versed RV. i. 99, without variant.
 A Golden Eagle thou hast soared with light to heaven. Those who would harm thee as thou fliest skyward. Beat down, O Jatavedas, with thy fury. The strong hath feared: to heaven mount up with light, O Surya.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हरिः। सुऽपर्णः। दिवम्। आ। अरुहः। अर्चिषा। ये। त्वा। दिप्सन्ति। दिवम्। उत्ऽपतन्तम्। अव। तान्। जहि। हरसा। जातऽवेदः। अबिभ्यत्। उग्रः। अर्चिषा। दिवम्। आ। रोह। सूर्य। ६५.१।

@@ -8,7 +8,6 @@ title = "०६ इन्द्रश्च मृलयाति"
 Indra be gracious unto us: sin shall not reach us afterward . And good shall be before us still,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। च। मृलयाति। नः। न। नः। पश्चात्। अघम्। नशत्। भद्रम्। भवाति। नः। पुरः। २०.६।

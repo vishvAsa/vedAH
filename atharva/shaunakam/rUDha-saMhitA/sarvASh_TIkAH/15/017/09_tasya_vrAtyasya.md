@@ -18,10 +18,9 @@ The great majority of the mss. (all save Bs.D.K.) accent *amāvāsyā́m*.
 When they surround the Sun on the day of New Moon, and that time of Full Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यत्। आदित्यम्। अभिऽसंविशन्ति। अमाऽवास्याम्। च। एव। तत्। पौर्णऽमासीम्। च। १७.९।
+तस्य। व्रात्यस्य। यत्। आदित्यम्। अभिऽसंविशन्ति। अमाऽवास्या᳡म्। च। एव। तत्। पौर्णऽमासीम्। च। १७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

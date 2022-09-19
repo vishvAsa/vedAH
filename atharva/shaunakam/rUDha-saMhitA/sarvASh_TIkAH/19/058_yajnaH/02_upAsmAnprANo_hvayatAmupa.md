@@ -31,7 +31,6 @@ lack each a syllable. ⌊A similar antithesis with *upahū* occurred at i.
 Let lively breath invite us: we call vital breath to visit us. Earth and air's middle realm have gathered, Soma, Brihaspati and Dhartar gathered vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उप। अस्मान्। प्राणः। ह्वयताम्। उप। वयम्। प्राणम्। हवामहे। वर्चः। जग्राह। पृथिवी। अन्तरिक्षम्। वर्चः। सोमः। बृहस्पतिः। विऽधत्ता। ५८.२।

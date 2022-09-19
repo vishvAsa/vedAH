@@ -33,7 +33,6 @@ count as 43 syllables.⌋
 Princes came together, debts came together, Kushthas came to- gether, Sixteenths came together. The whole evil dream that hath visited us we send away as a bad dream to the man who hates us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। राजानः। अगुः। सम्। ऋणानि। अगुः। सम्। कुष्ठाः। अगुः। सम्। कलाः। अगुः। सम्। अस्मासु। यत्। दुःऽस्वप्न्यम्। निः। द्विषते। दुःऽस्वप्न्यम्। सुवाम। ५७.२।

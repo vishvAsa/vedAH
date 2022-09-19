@@ -8,7 +8,6 @@ title = "०३ त्वां विष्णुर्बृहन्"
 Vishnu, the lofty Ruling Power, Varuna, Mitra sing thy praise: In thee the Maruts' company hath great delight.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। विष्णुः। बृहन्‌। क्षयः। मित्र। गृणाति। वरुणः। त्वाम्। शर्धः। मदति। अनु। मारुतम्। १०६.३।

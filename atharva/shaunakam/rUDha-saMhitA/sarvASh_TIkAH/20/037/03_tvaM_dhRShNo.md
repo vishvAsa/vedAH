@@ -8,7 +8,6 @@ title = "०३ त्वं धृष्णो"
 O Bold One, thou with all thine aids hast boldly helped Sudas whose offerings were accepted, Puru in winning land and slaying foemen, and Trasadasyu son of Purukutsa.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। धृष्णो इति। धृषता। वीतऽहव्यम्। प्र। आवः। विश्वाभिः। ऊतिऽभिः। सुऽदासम्। प्र। पौरुऽकुत्सिम्। त्रसदस्युम्। आवः। क्षेत्रऽसाता। वृत्रऽहत्येषु। पूरुम्। ३७.३।

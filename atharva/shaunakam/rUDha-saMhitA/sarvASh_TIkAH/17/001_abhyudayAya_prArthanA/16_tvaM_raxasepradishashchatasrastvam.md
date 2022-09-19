@@ -22,10 +22,9 @@ syllables than belong to an *atidhṛti*.
 Thou guardest well the four celestial regions, pervading heaven, and earth with light and splendour. Thou givest help to all these living creatures, and, knowing,. followest the path of Order. Manifold are thy great deed, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। रक्षसे। प्रऽदिशः। चतस्रः। त्वम्। शोचिषा। नभसी इति। वि। भासि। त्वम्। इमा। विश्वा। भुवना। अनु। तिष्ठसे। ऋतस्य। पन्थाम्। अनु। एषि। विद्वान्। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१६।
+त्वम्। रक्षसे। प्रऽदिशः। चतस्रः। त्वम्। शोचिषा। नभसी इति। वि। भासि। त्वम्। इमा। विश्वा। भुवना। अनु। तिष्ठसे। ऋतस्य। पन्थाम्। अनु। एषि। विद्वान्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

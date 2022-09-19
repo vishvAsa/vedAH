@@ -8,7 +8,6 @@ title = "०७ युधेन्द्रो मह्ना"
 Lord of the brave, Indra who rules the people gave freedom to the Gods by might and battle. Wise singers glorify with chanted praises these his achievements in Vivasvan's dwelling.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युधा। इन्द्रः। महा। वरिवः। चकार। देवेभ्यः। सत्ऽपतिः। चर्षणिऽप्राः। विवस्वतः। सदने। अस्य। तानि। विप्राः। उक्थेभिः। कवयः। गृणन्ति। ११.७।

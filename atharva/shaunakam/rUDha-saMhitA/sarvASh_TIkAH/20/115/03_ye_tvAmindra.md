@@ -8,7 +8,6 @@ title = "०३ ये त्वामिन्द्र"
 Whatever Rishis have not praised thee, Indra, or have lauded thee, By me exalted wax thou strong.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। त्वाम्। इन्द्र। न। तुस्तुवुः। ऋषयः। ये। च। तुस्तुवुः। मम। इत्। वर्धस्व। सुऽस्तुतः। ११५.३।

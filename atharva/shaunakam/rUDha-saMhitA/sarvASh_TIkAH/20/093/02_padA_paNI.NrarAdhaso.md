@@ -8,7 +8,6 @@ title = "०२ पदा पणीँरराधसो"
 Crush with thy foot the niggard churls who bring no gifts. Might art thou: There is not one to equal thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पदा। पणीन्। अराधसः। नि। बाधस्व। महान्। असि। नहि। त्वा। कः। चन। प्रति। ९३.२।

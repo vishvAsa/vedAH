@@ -21,7 +21,6 @@ save *tátas* for *tásmāt*. Ppp. reads in **b** *pāuruṣāt*, and in **d**
 In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born he spread westward and eastward o'er the earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽराट्। अग्ने। सम्। अभवत्। विऽराजः। अधि। पुरुषः। सः। जातः। अति। अरिच्यत। पश्चात्। भूमिम्। अथो इति। पुरः। ६.९।

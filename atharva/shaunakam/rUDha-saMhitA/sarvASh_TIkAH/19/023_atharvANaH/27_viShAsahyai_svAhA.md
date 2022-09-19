@@ -19,7 +19,6 @@ intended. ⌊Cf. p. 805, ¶1.⌋
 Hail to the hymn of victory!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽससह्यै। स्वाहा। २३.२७।

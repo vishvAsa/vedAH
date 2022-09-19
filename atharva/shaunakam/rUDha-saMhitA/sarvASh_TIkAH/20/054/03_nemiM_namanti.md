@@ -8,7 +8,6 @@ title = "०३ नेमिं नमन्ति"
 The holy sages form a ring, looking and singing to the Ram. Your very bright inciters, void of all deceit, are with the chan- ters nigh to hear.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नेमिम्। नमन्त‍ि। चक्षसा। मेषम्। विप्राः। अभिऽस्वरा। सुऽदीतयः। वः। अद्रुहः। अपि। कर्णे। तरस्विनः। सम्। ऋक्वऽभिः। ५४.३।

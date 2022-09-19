@@ -8,7 +8,6 @@ title = "०२ मखस्य ते"
 I stimulate this zeal, the Strong, the Hero, decking my song of praise for thee Immortal. O Indra, thou art equally the leader of heavenly hosts and human generations.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मखस्य। ते। तविषस्य। प्र। जूतिम्। इयर्मि। वाचम्। अमृताय। भूषन्। इन्द्र। क्षितीनाम्। असि। मानुषीणाम्। विशाम्। दैवीनाम्। उत। पूर्वऽयावा। ११.२।

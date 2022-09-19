@@ -21,7 +21,6 @@ of **a**; he explains *tū́yam* in **c** by *tūrṇam*, and supplies
 They stand not still, they never close their eyelids, those senti- nels of Gods who wander round us. Not me--go quickly, wanton, with another, and hasten like a chariot-wheel to meet him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। तिष्ठन्ति। न। नि। मिषन्ति। एते। देवानाम्। स्पशः। इह। ये। चरन्ति। अन्येन। आहनः। याहि। तूयम्। तेन। वि। वृह। रथ्याऽइव। चक्रा। १.९।

@@ -8,7 +8,6 @@ title = "०६ योऽनाक्ताक्षो अनभ्यक्त
 With unanointed eyes and limbs, wearing no gem or ring of gold. No priest, no Brahman's son is he: these things are ordered in the rules.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। अनाक्ताक्षः। अनभ्यक्तः। अमणिवः। अहिरण्यवः। अब्रह्मा। ब्रह्मणः। पुत्रः। तोता। कल्पेषु। संमिता। १२८.६।

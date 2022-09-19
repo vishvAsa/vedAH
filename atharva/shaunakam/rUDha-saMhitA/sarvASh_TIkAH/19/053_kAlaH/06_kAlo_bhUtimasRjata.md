@@ -20,7 +20,6 @@ Ppp. reads bhūtam *asṛjat;* it also omits *ha* in **c**.
 Kala created land; the Sun in Kala hath his light and heat. In Kala rest all things that be: in Kala doth the eye discern.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालः। भूतिम्। असृजत। काले। तपति। सूर्यः। काले। ह। विश्वा। भूतानि। काले। चक्षुः। वि। पश्यति। ५३.६।

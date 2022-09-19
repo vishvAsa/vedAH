@@ -39,7 +39,6 @@ and 3 **d**, Ppp. combines to suit the meter, *gharme ’va, indrāi ’va*.
 Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every side, like heat, inflame all evil-hearted men.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्विषतः। तापयन्। हृदः। शत्रूणाम्। तापयन्। मनः। दुःऽहार्दः। सर्वान्। त्वम्। दर्भ। घर्मःऽइव। अभीन्। सम्ऽतापयन्। २८.२।

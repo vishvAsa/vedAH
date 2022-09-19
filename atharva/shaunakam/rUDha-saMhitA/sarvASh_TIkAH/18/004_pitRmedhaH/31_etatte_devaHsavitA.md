@@ -24,7 +24,6 @@ addressed to the garment when the dead man is wrapped up.
 On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herein, and find meet robe in Yama's realm to cover thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एतत्। ते। देवः। सविता। वासः। ददाति। भर्तवे। तत्। त्वम्। यमस्य। राज्ये। वसानः। तार्प्यम्। चर। ४.३१।

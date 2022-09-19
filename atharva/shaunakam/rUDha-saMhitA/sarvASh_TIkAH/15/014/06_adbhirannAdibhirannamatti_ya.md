@@ -14,7 +14,6 @@ with the waters as food-eaters doth he eat food who knoweth thus.
 He who hath this knowledge eats food with the Waters as food-eaters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अत्ऽभिः। अन्नऽअदीभिः। अन्नम्। अत्ति। यः। एवम्। वेद। १४.६।

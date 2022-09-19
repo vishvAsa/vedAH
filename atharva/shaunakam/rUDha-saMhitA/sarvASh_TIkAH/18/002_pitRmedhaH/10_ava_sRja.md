@@ -34,10 +34,9 @@ noted.⌋
 Away O Agni, to the Fathers, send him who, offered in thee, goes with our oblations. Wearing new life let him approach his offspring, and splendid, be invested with a body,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अव। सृज। पुनः। अग्ने। पितृऽभ्यः। यः। ते। आऽहुतः। चरति। स्वधाऽवान्। आयुः। वसानः। उप। यातु। शेषः। सम्। गच्छताम्। तन्वा। सुऽवर्चाः। २.१०।
+अव। सृज। पुनः। अग्ने। पितृऽभ्यः। यः। ते। आऽहुतः। चरति। स्वधाऽवान्। आयुः। वसानः। उप। यातु। शेषः। सम्। गच्छताम्। तन्वा᳡। सुऽवर्चाः। २.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

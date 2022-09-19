@@ -8,7 +8,6 @@ title = "०३ विषूवृदिन्द्रो अमुतेरु
 From indigence and hunger Indra turns away: Maghavan hath dominion over precious wealth. These the Seven Rivers flowing on their downward path increase the vital vigour of the Mighty Steer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विषुऽवृत्। इन्द्रः। अमतेः। उत। क्षुधः। सः। इत्। रायः। मघऽवा। वस्वः। ईशते। तस्य। इत्। इमे। प्रवणे। सप्त। सिन्धवः। वयः। वर्धन्ति। वृषभस्य। शुष्मिणः। १७.३।

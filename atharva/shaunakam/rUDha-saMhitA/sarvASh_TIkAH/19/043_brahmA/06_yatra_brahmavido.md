@@ -17,7 +17,6 @@ to me strength: to Indra hail!
 Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hail to Indra!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। इन्द्रः। मा। तत्र। नयतु। बलम्। इन्द्रः। दधातु। मे। इन्द्राय। स्वाहा। ४३.६।

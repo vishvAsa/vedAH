@@ -22,7 +22,6 @@ threefold amulet." Some of SPP's mss. read in **a** *ukhyāmi* and
 Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicians harm the life of Agni or of Moon or Sun.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 घृतेन। त्वा। सम्। उक्षामि। अग्ने। आज्येन। वर्धयन्। अग्नेः। चन्द्रस्य। सूर्यस्य। मा। प्राणम्। मायिनः। दभन्। २७.५।

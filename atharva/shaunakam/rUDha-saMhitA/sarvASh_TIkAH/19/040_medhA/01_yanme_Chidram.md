@@ -30,7 +30,6 @@ yac ca me hṛdaḥ: ayaṁ devo bṛhaspatiḥ saṁ tat siñcatu rādhasā*.
 For each defect of mine in voice and spirit I have approached One vehement and ardent. With all the Deities, fully approving, Brihaspati supply the want!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। मे। छिद्रम्। मनसः। यत्। च। वाचः। सरस्वती। मन्युऽमन्तम्। जगाम। विश्वैः। तत्। देवैः। सह। सम्ऽविदानः। सम्। दधातु। बृहस्पतिः। ४०.१।

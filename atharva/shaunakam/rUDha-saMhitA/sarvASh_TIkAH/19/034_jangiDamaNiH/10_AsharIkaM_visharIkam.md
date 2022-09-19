@@ -25,7 +25,6 @@ have *pṛṣṭyā̀mayam*. Ppp. reads at the beginning *āśarīraṁ*, and in
 Lumbago and rheumatic pain, consumptive cough, and pleurisy, And fever which each Autumn brings, may Jangida make- powerless.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽशरीकम्। विऽशरीकम्। बलासम्। पृष्टिऽआमयम्। तक्मानम्। विश्वऽशारदम्। अरसान्। जङ्गिडः। करत्। ३४.१०।

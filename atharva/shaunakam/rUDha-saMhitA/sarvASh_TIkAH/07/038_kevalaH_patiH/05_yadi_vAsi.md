@@ -39,7 +39,7 @@ If thou art far away beyond the rivers, far away from men, This Herb shall seem 
 
 <details open><summary>पदपाठः</summary>
 
-यदि। वा। असि। तिरःऽजनम्। यदि। वा। नद्यः। तिरः। इयम्। ह। मह्यम्। त्वाम्। ओषधिः। बध्द्वाऽइव। निऽआनयत्। ३९.५।
+यदि। वा। असि। तिरःऽजनम्। यदि। वा। नद्यः᳡। तिरः। इयम्। ह। मह्यम्। त्वाम्। ओषधिः। बध्द्वाऽइव। निऽआनयत्। ३९.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

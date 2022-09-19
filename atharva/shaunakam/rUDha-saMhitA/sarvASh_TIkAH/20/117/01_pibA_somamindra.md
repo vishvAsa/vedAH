@@ -8,7 +8,6 @@ title = "०१ पिबा सोममिन्द्र"
 Drink Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well-guided courser, Directed by the presser's arms hath pressed it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पिब। सोमम्। इन्द्र। मन्दतु। त्वा। यम्। ते। सुसाव। हरिऽअश्व। अद्रिः। सोतुः। बाहुऽभ्याम्। सुऽयतः। न। अर्वा। ११७.१।

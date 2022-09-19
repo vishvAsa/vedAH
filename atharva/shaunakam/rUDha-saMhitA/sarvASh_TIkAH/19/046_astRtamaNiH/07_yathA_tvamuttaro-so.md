@@ -25,7 +25,6 @@ in **c**, with us, *asas*. Ppp. further combines *‘so ‘sapatnaḥ* in
 That thou mayst be pre-eminent, slayer of rivals, rivalless, May Savitar cause thee to be chief and controller of thy kin. Invincible, let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यथा। त्वम्। उत्ऽतरः। असः। असपत्नः। सपत्नऽहा। सऽजातानाम्। असत्। वशी। तथा। त्वा। सविता। करत्। अस्तृतः। त्वा। अभि। रक्षतु। ४६.७।

@@ -41,10 +41,9 @@ of the ms.-reading *ācāryā̀ya:* this dative, no less than the locative
 Agni, these logs are thine: with these be, fain to burn! a flaming brand. Vouchsafe us length of life and give us hope of immortality.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-एताः। ते। अग्ने। सम्ऽइधः। त्वम्। इद्धः। सम्ऽइत्। भव। आयुः। अस्मासु। धेहि। अमृतऽत्वम्। आऽचार्याय। ६४.४।
+एताः। ते। अग्ने। सम्ऽइधः। त्वम्। इद्धः। सम्ऽइत्। भव। आयुः। अस्मासु। धेहि। अमृतऽत्वम्। आऽचार्या᳡य। ६४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

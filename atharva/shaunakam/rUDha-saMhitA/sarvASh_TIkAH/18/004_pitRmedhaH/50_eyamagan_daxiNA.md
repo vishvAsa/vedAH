@@ -38,7 +38,6 @@ M.T.R.s.m., *yāúvane*).
 From a good quarter have we gained this guerdon, gift of this man, strength giving, plenteous milker. Bringing in youth old age unto the living, may she bear these together to the Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। इयम्। अगन्। दक्षिणा। भद्रतः। नः। अनेन। दत्ता। सुऽदुघा। वयःऽधाः। यौवने। जीवान्। उपऽपृञ्चती। जरा। पितृऽभ्यः। उपऽसंपरानयात्। इमान्। ४.५०।

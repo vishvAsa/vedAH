@@ -8,7 +8,6 @@ title = "०२ यदन्तरिक्षे यद्दिवि"
 All manliness that is in heaven, with the Five Tribes, or in mid- air, Bestow, ye Asvins, upon us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अन्तरिक्षे। यत्। दिवि। यत्। पञ्च। मानुषाम्। अनु। नृम्णम्। तत्। धत्तम्। अश्विना। १३९.२।

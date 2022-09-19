@@ -8,7 +8,6 @@ title = "०६ एष स्य"
 This is the strengthener of thy body's manly might: strength,. victory for all time are laid within thine arms. Pressed for thee, Maghavan, it is offered unto thee: drink from the chalice of this Brahman, drink thy fill.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एषः। स्य। ते। तन्वः। नृम्णऽवर्धनः। सहः। ओजः। प्रदिवि। बाह्वोः। हितः। तुभ्यम्। सुतः। मघऽवन्। तुभ्यम्। आऽभृतः। त्वम्। अस्य। ब्राह्मणात्। आ। तृपत्। पिब। ६७.६।

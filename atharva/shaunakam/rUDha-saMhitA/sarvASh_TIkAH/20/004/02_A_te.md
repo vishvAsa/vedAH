@@ -8,7 +8,6 @@ title = "०२ आ ते"
 I pour it down within thee, so through all thy members let it run. Take with thy tongue the pleasant drink.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। ते। सिञ्चामि। कुक्ष्योः। अनु। गात्रा। वि। धावतु। गृभाय। जिह्वया। मधु। ४.२।

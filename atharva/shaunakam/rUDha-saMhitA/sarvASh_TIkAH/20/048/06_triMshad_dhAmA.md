@@ -8,7 +8,6 @@ title = "०६ त्रिंशद् धामा"
 Song is bestowed upon the Bird. It reigns supreme throughout thirty realms Throughout the days at break of morn.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिंशत्। धाम। वि। राजति। वाक्। पतङ्गः। अशिश्रियत्। प्रति। वस्तोः। अहः। द्युऽभिः। ४८.६।

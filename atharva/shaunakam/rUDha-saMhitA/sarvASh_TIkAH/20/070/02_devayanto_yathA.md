@@ -8,7 +8,6 @@ title = "०२ देवयन्तो यथा"
 Worshipping even as they list, singers laud him who findeth wealth, The far-renowned, the mighty One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवऽयन्तः। यथा। मतिम्। अच्छ। विदत्ऽवसुम्। गिरः। महाम्। अनूषत। श्रुतम्। ७०.२।

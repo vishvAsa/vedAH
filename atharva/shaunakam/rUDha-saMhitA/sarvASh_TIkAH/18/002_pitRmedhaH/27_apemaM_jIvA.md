@@ -24,7 +24,6 @@ Jātaka, i., p. 138²⁴, and scholion; Journal of the Pāli Text Society,
 Him have the living banished from their houses: remove him to a distance from the hamlet. Yama's observant messenger was Mrityu he hath despatched men's lives unto the Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। इमम्। जीवाः। अरुधन्। गृहेभ्यः। तम्। निः। वहत। परि। ग्रामात्। इतः। मृत्युः। यमस्य। आसीत्। दूतः। प्रऽचेताः। असून्। पितृऽभ्यः। गमयाम्। चकार। २.२७।

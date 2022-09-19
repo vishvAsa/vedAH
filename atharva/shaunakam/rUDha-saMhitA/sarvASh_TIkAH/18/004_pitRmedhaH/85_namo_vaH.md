@@ -25,7 +25,6 @@ Kāuś. (88. 26) they accompany in the *piṇḍapitṛyajña* the reverence
 Homage to you Fathers! Hail to you, Fathers!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नमः। वः। पितरः। स्वधा। वः। पितरः। ४.८५।

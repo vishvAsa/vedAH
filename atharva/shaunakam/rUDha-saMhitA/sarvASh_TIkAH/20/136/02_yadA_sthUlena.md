@@ -8,7 +8,6 @@ title = "०२ यदा स्थूलेन"
 Quum magno pene parvula ejus pudenda vir percutit, huc et illuc ilia increscunt veluti duo asini in solo arenoso.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यदा। स्थूलेन। पयसा। अणो। मुष्कौ। उप। अवधीत्। विष्वञ्चा। वस्या। वर्धतः। सिकतासु। एव। गर्दभौ। १३६.२।

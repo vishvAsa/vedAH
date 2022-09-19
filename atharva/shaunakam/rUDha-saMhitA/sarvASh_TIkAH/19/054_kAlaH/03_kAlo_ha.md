@@ -35,7 +35,6 @@ authorities do have *kālé*.⌋
 In Kala erst the text produced what is and what is yet to be. From Kala sprang the Richas, and from Kala was the Yajus born.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालः। ह। भूतम्। भव्यम्। च। पुत्रः। अजनयत्। पुरा। कालात्। ऋचः। सम्। अभवन्। यजुः। कालात्। अजायत। ५४.३।

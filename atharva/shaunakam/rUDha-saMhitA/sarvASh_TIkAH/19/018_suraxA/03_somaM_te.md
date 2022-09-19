@@ -17,7 +17,6 @@ come upon Soma with the Rudras.
 Let those who vex me from the southern quarter, sinners, sing praise to Soma with the Rudras.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमम्। ते। रुद्रऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। दक्षिणायाः। दिशः। अभिऽदासात्। १८.३।

@@ -22,7 +22,6 @@ with one syllable wanting in **c**.
 Even as a King, O splendid Night, thou takest pleasure in our hymn. May we through Mornings as they flush have all our good men, round us, and become possessors of all wealth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्तोमस्य। नः। विभावरि। रात्रि। राजाऽइव। जोषसे। असाम। सर्वऽवीराः। भवाम। सर्वऽवेदसः। विऽउच्छन्तीः। अनु। उषसः। ४९.६।

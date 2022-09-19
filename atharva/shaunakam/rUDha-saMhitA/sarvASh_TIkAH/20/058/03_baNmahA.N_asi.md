@@ -8,7 +8,6 @@ title = "०३ बण्महाँ असि"
 Verily, Surya, thou art great; truly, Aditya, thou art great. As thou art great indeed thy greatness is admired: yea, verily, great art thou, O God.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बट्। महान्। असि। सूर्य। बट्। आदित्य। महान्। असि। महः। ते। सतः। महिमा। पनस्यते। अध्दा। देव। महान्। असि। ५८.३।

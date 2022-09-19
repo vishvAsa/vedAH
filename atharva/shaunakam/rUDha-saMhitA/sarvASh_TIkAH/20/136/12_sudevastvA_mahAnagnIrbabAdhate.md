@@ -8,7 +8,6 @@ title = "१२ सुदेवस्त्वा महानग्नीर्
 Fortunatus, Arnica, te opprimit. Bona est magni viri fututio, Macrum pinguis. femina obtineat. Futue me, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुदेवः। त्वा। महान्। अग्नीः। बबाधते। महतः। साधु। खोदनम्। कुसम्। पीवरः। नवत्। १३६.१२।

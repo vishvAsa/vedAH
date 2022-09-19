@@ -44,7 +44,6 @@ neither one thing nor the other⌋.
 Rise to your mother, flames of Jatavedas! I send you up by paths which Fathers traverse. With headlong speed the Oblation bearer bore our gifts: toil ye, and place the offerer where the righteous dwell.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। रोहत। जनित्रीम्। जातऽवेदसः। पितृऽयानैः। सम्। वः। आ। रोहयामि। अवाट्। हव्या। इषितः। हव्यऽवाहः। ईजानम्। युक्ताः। सुऽकृताम्। धत्त। लोके। ४.१।

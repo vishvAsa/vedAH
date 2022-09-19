@@ -57,7 +57,6 @@ Caland.⌋
 From eastward Indra, Lord or Maruts, guard me, as in her arms Earth guards the heaven above us! Those who give room, who made the paths, we worship, you, mid the Gods, who share the gifts we offer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। मा। मरुत्वान्। प्राच्याः। दिशः। पातु। बाहुऽच्युता। पृथिवी। द्यामऽइव। उपरि। लोकऽकृतः। पथिऽकृतः। यजामहे। ये। देवानाम्। हुतऽभागाः। इह। स्थ। ३.२५।

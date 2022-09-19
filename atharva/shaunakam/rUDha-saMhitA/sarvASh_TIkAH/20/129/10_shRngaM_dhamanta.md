@@ -8,7 +8,6 @@ title = "१० शृङ्गं धमन्त"
 Three adders, breathing angrily, are blowing loud the threatening horn. (with previous verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शृङ्गम्। धमन्तः। आसते। १२९.१०।

@@ -39,10 +39,9 @@ looseness of their connection, is not to be called harsh.⌋
 Rise up, O Surya, rise thou up; with strength and splendour rise on me. Let him who hates me be my thrall; let me not be a thrall to him. Manifold are thy great deeds, thine, O Vishnu. Sate us with cattle of all forms and colours: set me in happiness, in loftiest heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। द्विषन्। च। मह्यम्। रध्यतु। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्याण‍ि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.६।
+उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। द्विषन्। च। मह्यम्। रध्यतु। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡ण‍ि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

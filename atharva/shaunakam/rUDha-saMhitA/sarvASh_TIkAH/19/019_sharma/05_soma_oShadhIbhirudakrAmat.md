@@ -16,7 +16,6 @@ title = "०५ सोम ओषधीभिरुदक्रामत्"
 Sacrifice arose with Priestly Fees. To that fort, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सोमः। ओषधीभिः। उत्। अक्रामत्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। च। वर्म। च। यच्छतु। १९.५।

@@ -8,7 +8,6 @@ title = "०८ सहस्राक्षेण शतवीर्येण"
 With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have restored him. That Indra for a hundred years may lead him safe to the farther shore of all misfortune.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽअक्षेण। शतऽवीर्येण। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। इन्द्रः। यथा। एनम्। शरदः। नयाति। अति। विश्वस्य। दुःऽइतस्य। पारम्। ९६.८।

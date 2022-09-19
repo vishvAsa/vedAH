@@ -34,7 +34,6 @@ viácanti yé sádā*.⌋
 Beside the spring with hundred, thousand currents, expanding on the summit of the water, Exhaustless, yielding strength, never reluctant, the Fathers with their sacred food are seated.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सहस्रऽधारम्। शतऽधारम्। उत्सम्। अक्षितम्। विऽअच्यमानम्। सलिलस्य। पृष्ठे। ऊर्जम्। दुहानम्। अनपऽस्फुरन्तम्। उप। आसते। पितरः। स्वधाभिः। ४.३६।

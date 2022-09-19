@@ -17,7 +17,6 @@ impart to me sight: to the sun hail!
 Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. All hail to Surya
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। सूर्यः। मा। तत्र। नयतु। चक्षुः। सूर्यः। दधातु। मे। सूर्याय। स्वाहा। ४३.३।

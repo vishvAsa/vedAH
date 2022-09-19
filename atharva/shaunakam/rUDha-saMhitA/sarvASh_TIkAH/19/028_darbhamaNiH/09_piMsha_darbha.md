@@ -20,7 +20,6 @@ reads here *pīṅṣá* p.m. ⌊*piṅśá* s.m.⌋.
 Carve thou my rivals, Darbha, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पिंश। दर्भ। सऽपत्नान्। मे। पिंश। मे। पृतनाऽयतः। पिंश। मे। सर्वान्। दुःऽहार्दः। पिंश। मे। द्विषतः। मणे। २८.९।

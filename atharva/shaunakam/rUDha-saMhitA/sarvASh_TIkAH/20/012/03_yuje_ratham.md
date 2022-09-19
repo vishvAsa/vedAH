@@ -8,7 +8,6 @@ title = "०३ युजे रथम्"
 The Bays, the booty-seeking car I harness: my prayers have reached him who accepts them gladly. Indra, when he had slain resistless Vritras, forced with his might the two world-halves asunder.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युजे। रथम्। गोऽएषणम्। हरिऽभ्याम्। उप। ब्रह्माणि। जुजुषाणम्। अस्थुः। वि। बाधिष्ट। स्यः। रोदसी इति। ‍महिऽत्वा। इन्द्रः। वृत्राणि। अप्रत‍ि। जघन्वान्। १२.३।

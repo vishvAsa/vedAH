@@ -37,7 +37,6 @@ the sole mark of pāda-division in W's Collation Book comes after
 This, O Agni, let the Gods bear off to Such-an-one that he may be a fragile good-for-nothing eunuch.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। अमुष्मै। अग्ने। देवाः। परा। वहन्तु। वध्रिः। यथा। असत्। विथुरः। न। साधुः। ६.११।

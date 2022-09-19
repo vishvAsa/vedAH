@@ -49,7 +49,6 @@ from the original of AGS.⌋ Vāit. (38. 3) uses the verse in the
 Rise, come unto the world of life, O woman: come, he is lifeless by whose side thou liest. Wifehood with this thy husband was thy portion who took thy hand and wooed thee as a lover.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ईर्ष्व। नारि। अभि। जीवऽलोकम्। गतऽअसुम्। एतम्। उप। शेषे। आ। इहि। हस्तऽग्राभस्य। दधिषोः। तव। इदम्। पत्युः। जनिऽत्वम्। अभि। सम्। बभूथ। ३.२।

@@ -8,7 +8,6 @@ title = "१३ तुञ्जेतुञ्जे य"
 Still higher, at each strain of mine, thunder-armed Indra's, praises rise: I find no laud worthy of him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तञ्जेऽतुञ्जे। ये। उत्ऽतरे। स्तोमाः। इन्द्रस्य। वज्रिणः। न। व‍िन्धे। अस्य। सुऽस्तुतिम्‌। ७०.१३।

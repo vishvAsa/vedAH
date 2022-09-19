@@ -20,7 +20,6 @@ The *pada*-mss. read at end of **b** *dhána॰iva;* ⌊SPP. emends to
 So may this Jangida guard us, even as a treasurer guards wealth,. Even this which Gods and Brahmans made a malice-quelling sure defence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। नः। रक्षतु। जङ्गिडः। धनऽपालः। धनाऽइव। देवाः। यम्। चक्रुः। ब्राह्मणाः। परिऽपानम्। अरातिऽहम्। ३५.२।

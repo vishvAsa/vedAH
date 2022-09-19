@@ -8,7 +8,6 @@ title = "०३ वृषणं त्वा"
 Thee will we kindle as a Bull, we who are bulls ourselves, O Bull, Thee, Agni, shining mightily.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषणम्। त्वा। वयम्। वृषन्। वृषणः। सम्। इधीमहि। अग्ने। दीद्यतम्। बृहत्। १०२.३।

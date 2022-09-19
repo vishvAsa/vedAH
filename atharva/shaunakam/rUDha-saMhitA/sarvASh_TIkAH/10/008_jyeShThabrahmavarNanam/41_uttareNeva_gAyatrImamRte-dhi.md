@@ -22,7 +22,7 @@ Over the Gayatri, above the immortal world he strode away. Those who by Song dis
 
 <details open><summary>पदपाठः</summary>
 
-उत्तरेणऽइव। गायत्रीम्। अमृते। अधि। वि। चक्रमे। साम्ना। ये। साम। सम्ऽविदुः। अजः। तत्। ददृशे। क्व। ८.४१।
+उत्तरेणऽइव। गायत्रीम्। अमृते। अधि। वि। चक्रमे। साम्ना। ये। साम। सम्ऽविदुः। अजः। तत्। ददृशे। क्व᳡। ८.४१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

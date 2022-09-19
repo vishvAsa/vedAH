@@ -8,7 +8,6 @@ title = "०७ सर्वं परिक्रोशम्"
 Slay each reviler and destroy him who in secret injures us: Do thou, O Indra, give us thope of beauteous horses and of kine, In thousands, O most wealthy One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सर्वम्। परिऽक्रोशम्। जहि। जम्भय। कृकदाश्वम्। आ। तु। नः। इन्द्र। शंसय। गोषु। अश्वेषु। शुभ्रिषु। सहस्रेषु। तुविऽमघ। ७४.७।

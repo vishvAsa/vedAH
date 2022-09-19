@@ -31,7 +31,6 @@ neither RV. passage does Sāyaṇa seem convincing.⌋
 Heave thyself, Earth, nor press him downward heavily: afford him easy access pleasant to approach, Cover him as a mother wraps her skirt about her child, O Earth!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। श्वञ्चस्व। पृथिव‍ि। मा। नि। वाधथाः। सुऽउपायना। अस्मै। भव। सुऽउपसर्पणा। माता। पुत्रम्। यथा। सिचा। अभि। एनम्। भूमे। ऊर्णुहि। ३.५०।

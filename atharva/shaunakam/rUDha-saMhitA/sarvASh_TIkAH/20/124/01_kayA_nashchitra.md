@@ -8,7 +8,6 @@ title = "०१ कया नश्चित्र"
 With what help will he come to us, wonderful, ever-waxing Friend, With what most mighty company?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कया। नः। चित्रः। आ। भुवत्। ऊती। सदाऽवृधः। सखा। कया। शचिष्ठया। वृता। १२४.१।

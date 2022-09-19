@@ -8,7 +8,6 @@ title = "०२ यदिन्द्रेण सरथम्"
 Whatever with Indra ye be faring, Asvins, or resting in one dwelling-place with Vayu, In concord with the Ribhus or Adityas, or standing still in Vishnu's striding-places.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। इन्द्रेण। सऽरथम्। याथः। अश्विना। यत्। वा। वायुना। भवथः। सम्ऽओकसा। यत्। आदित्येभिः। ऋभुऽभिः। सऽजोषसा। यत्। वा। विष्णोः। विऽक्रमणेषु। तिष्ठथः। १४१.२।

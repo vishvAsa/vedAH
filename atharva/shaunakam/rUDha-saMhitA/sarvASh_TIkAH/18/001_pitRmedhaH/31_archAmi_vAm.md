@@ -30,7 +30,6 @@ the former, SPP. adopts it in his text. A majority of SPP's mss. accent
 I praise your work .that ye may make me prosper: hear, Heaven and Earth, twain worlds that drop with fatness! While days and Gods go to the world of spirits, have let the Parents with sweet mead refresh us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्चामि। वाम्। वर्धाय। अपः। घृतस्नू  इति घृतऽस्नू। द्यावाभूमी इति। शृणुतम्। रोदसी इति। मे। अहा। यत्। देवाः। असुऽनीतिम्। आयन्। मध्वा। नः। अत्र। पितरा। शिशीताम्। १.३१।

@@ -8,7 +8,6 @@ title = "०१ तव त्यदिन्द्रियम्"
 That lofty energy of thine, thy strength and thine intelligence, Thy thunderbolt for which we long, our wish makes keen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तव। त्यत्। इन्द्रियम्। बृहत्। तव। शुष्मम्। उत। क्रतुम्। वज्रम्। शिशाति। धिषणा। वरेण्यम्। १०६.१।

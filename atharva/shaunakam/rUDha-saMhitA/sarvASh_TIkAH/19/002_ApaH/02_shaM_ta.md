@@ -22,10 +22,9 @@ with them (reading corruptly *anū́kyās*): ⌊Poona ed., p. 420, rightly
 Sweet unto thee be Waters of the waste and Waters of the pool. Sweet be the Waters dug from earth, to thee, and Waters brought in jars.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-शम्। ते। आपः। धन्वन्याः। शम्। ते। सन्तु। अनूप्याः। शम्। ते। खनित्रिमाः। आपः। शम्। याः। कुम्भेभिः। आऽभृताः। २.२।
+शम्। ते। आपः। धन्वन्याः᳡। शम्। ते। सन्तु। अनूप्याः᳡। शम्। ते। खनित्रिमाः। आपः। शम्। याः। कुम्भेभिः। आऽभृताः। २.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

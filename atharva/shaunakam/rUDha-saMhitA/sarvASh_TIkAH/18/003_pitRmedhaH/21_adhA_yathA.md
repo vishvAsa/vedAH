@@ -28,7 +28,6 @@ alone, has *dī́dhyata*, not *-taḥ*.⌋
 As in the days of old our ancient Fathers, speeding the work of sacred worship, Agni! Sought pure light and devotion, singing praises, they cleft the ground and made red Dawns apparent.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अध। यथा। नः। पितरः। परासः। प्रत्नासः। अग्ने। ऋतम्। आऽशशानाः। शुचि। इत्। अयन्। दीध्यतः। उक्थऽशसः। क्षाम। भिन्दन्तः। अरुणीः। अप। व्रन्। ३.२१।

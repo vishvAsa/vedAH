@@ -8,7 +8,6 @@ title = "०१ यातं छर्दिष्पा"
 Come as home-guardians, saving us from foemen, guarding our living creatures and our bodies, Come to the house to give us seed and offspring:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यातम्। छर्दिःऽपौ। उत। नः। परःऽपा। भूतम्। जगत्ऽपौ। उत। नः। तनूऽपा। वर्तिः। तोकाय। तनयाय। यातम्। १४१.१।

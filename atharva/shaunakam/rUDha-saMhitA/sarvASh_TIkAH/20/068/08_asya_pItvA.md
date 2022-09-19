@@ -8,7 +8,6 @@ title = "०८ अस्य पीत्वा"
 Thou, Satakratu, drankest this and wast the Vritras' slayer; thou. Helpest the warrior in the fray.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। पीत्वा। शतक्रतो इति शतऽक्रतो। घनः। वृत्राणाम्। अभवः। प्र। आवः। वाजेषु। वाज‍िनम्। ६८.८।

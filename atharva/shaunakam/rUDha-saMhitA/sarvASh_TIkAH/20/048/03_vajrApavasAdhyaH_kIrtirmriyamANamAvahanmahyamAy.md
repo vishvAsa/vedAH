@@ -8,7 +8,6 @@ title = "०३ वज्रापवसाध्यः कीर्तिर्
 Fair hymns bring glory to the Strong, and Indra-vigour; unto, me Fatness and milk and length of days.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वज्रापवसाध्यः। कीर्तिः। म्रियमाणम्। आवहन्। मह्यम्। आयुः। घृतम्। पयः। ४८.३।

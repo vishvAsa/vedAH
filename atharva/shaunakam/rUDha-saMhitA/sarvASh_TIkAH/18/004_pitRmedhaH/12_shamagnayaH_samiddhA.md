@@ -43,7 +43,6 @@ vyatisaṁdahet: nāi ’vāi ’nam brūyuḥ pitṛha ’sī ’ti* etc.⌋
 Happily lit, let fires, each Jatavedas, seize on Prajapati's appoint- ed victim. Let them not cast it down while here they cook it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। अग्नयः। सम्ऽइध्दाः। आ। रभन्ताम्। प्राजाऽपत्यम्। मेध्यम्। जातऽवेदसः। शृतम्। कृण्वन्तः। इह। मा। अव। चिक्षिपान्। ४.१२।

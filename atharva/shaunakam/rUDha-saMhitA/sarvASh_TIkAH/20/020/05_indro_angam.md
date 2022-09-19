@@ -8,7 +8,6 @@ title = "०५ इन्द्रो अङ्गम्"
 Verily Indra, conquering all, driveth even mighty fear away; For firm is he and swift to act.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। अङ्ग। महत्। भवम्। अभि। सत्। अप। चुच्यवत्। सः। हि। स्थिरः। विऽचर्षणि। २०.५।

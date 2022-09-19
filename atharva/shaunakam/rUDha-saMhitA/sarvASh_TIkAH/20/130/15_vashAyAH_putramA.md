@@ -8,7 +8,6 @@ title = "१५ वशायाः पुत्रमा"
 The plain domestic sacrifice, the sacrifice with burning dung.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वशायाः। पुत्रम्। आ। यन्ति। १३०.१५।

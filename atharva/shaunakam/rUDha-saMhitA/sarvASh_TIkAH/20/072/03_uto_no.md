@@ -8,7 +8,6 @@ title = "०३ उतो नो"
 Also this morn may he be well inclined to us, mark at our call our offerings and our song of praise, our call that we may win the light. As thou, O Indra Thunder-armed, wilt, as the Strong One, slay the foe, Listen, thou to the prayer of me a later sage, hear thou a later sage's prayer.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उतो इति। नः। अस्याः। उषसः। जुषेत। हि। अर्कस्य। बोध‍ि। हविषः। हवीमऽभिः। स्वःऽसाता। हवीमऽभिः। यत्। इन्द्र। हन्तवे। मृधः। वृषा। वज्रिन्। चिकेतसि। आ। मे। अस्य। वेधसः। नवीयसः। मन्म। श्रुधि। नवीयसः। ७२.३।

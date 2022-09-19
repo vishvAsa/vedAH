@@ -22,7 +22,7 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 
 <details open><summary>पदपाठः</summary>
 
-येन। देवाः। अमृतम्। अनुऽअविन्दन्। येन। ओषधीः। मधुऽमतीः। अकृण्वन्। येन। देवाः। स्वः। आऽअभरन्। सः। नः। मुञ्चतु। अंहसः। २३.६।
+येन। देवाः। अमृतम्। अनुऽअविन्दन्। येन। ओषधीः। मधुऽमतीः। अकृण्वन्। येन। देवाः। स्वः᳡। आऽअभरन्। सः। नः। मुञ्चतु। अंहसः। २३.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

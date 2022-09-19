@@ -21,7 +21,6 @@ Ppp. In **b**, the comm. reads *vratatapas* for *bráhma tápas*.
 From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun ascends by Kala, and in Kala sinks again to rest.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कालात्। आपः। सम्। अभवन्। कालात्। ब्रह्म। तपः। दिशः। कालेन। उत्। एति। सूर्यः। काले। नि। विशते। पुनः। ५४.१।

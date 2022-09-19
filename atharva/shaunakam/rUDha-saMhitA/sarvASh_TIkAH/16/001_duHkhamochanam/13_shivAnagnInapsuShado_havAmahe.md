@@ -17,7 +17,6 @@ dominion \[and\] splendor, O divine \[waters\].
 We call the gracious Fires that dwell in waters. Goddesses, grant me princely power and splendour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शिवान्। अग्नीन्। अप्सुऽसदः। हवामहे। मयि। क्षत्रम्। वर्चः। आ। धत्त। देवीः। १.१३।

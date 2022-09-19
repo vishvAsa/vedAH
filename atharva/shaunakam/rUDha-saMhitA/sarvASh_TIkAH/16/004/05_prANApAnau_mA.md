@@ -17,7 +17,6 @@ title = "०५ प्राणापानौ मा"
 Let not outward and inward breath fail me. Be not thou destruc- tive among the men.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्राणापानौ। मा। मा। हासिष्टम्। मा। जने। प्र। मेषि। ४.५।

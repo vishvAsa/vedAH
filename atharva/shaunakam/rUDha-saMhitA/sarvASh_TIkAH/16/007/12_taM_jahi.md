@@ -17,7 +17,6 @@ thou crush in.
 Slay him; rejoice in this; crush his ribs.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। जहि। तेन। मन्दस्य। तस्य। पृष्टीः। अपि। शृणहि। ७.१२।

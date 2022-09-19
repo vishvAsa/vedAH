@@ -8,7 +8,6 @@ title = "१२ स इच्छकम्"
 Hither hath come a stallion: he is known by droppings on his way, (with previous verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। इच्छकम्। सघाघते। १२९.१२।

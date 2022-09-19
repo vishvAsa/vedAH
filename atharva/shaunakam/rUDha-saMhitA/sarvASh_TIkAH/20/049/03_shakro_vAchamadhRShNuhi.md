@@ -8,7 +8,6 @@ title = "०३ शक्रो वाचमधृष्णुहि"
 Praise with the voice the Mighty: he rules in each realm. In transport he Hath set upon the sacred grass.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शक्रः। वाचम्। अधृष्णुहि। धाम। धर्मन्। वि। राजति। विमदन्। बर्हिः। आसरन्। ४९.३।

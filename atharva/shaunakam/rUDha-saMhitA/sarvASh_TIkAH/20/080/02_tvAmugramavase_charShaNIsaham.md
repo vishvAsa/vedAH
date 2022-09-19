@@ -8,7 +8,6 @@ title = "०२ त्वामुग्रमवसे चर्षणीसह
 We call on thee, O King, mighty among the Gods, ruler of men, to succour us, All that is weak in us, excellent God, make firm: make our foes easy to subdue.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। उग्रम्। अवसे। चर्षणिऽसहम्। राजन्। देवेषु। हूमहे। विश्वा। सु। नः। विथुरा। पिब्दना। वसो इति। अमित्रान्। सुऽसहान्। कृधि। ८०.२।

@@ -8,7 +8,6 @@ title = "०१ सुरूपकृत्नुमूतये सुदुघ
 As a good cow to him who milks, we call the doer of fair deeds. To our assistance day by day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सुरूपऽकृत्नुम्। ऊतये। सुदुघाम्ऽइव। गोऽदुहे। जुहूमसि। द्यविऽद्यवि। ५७.१।

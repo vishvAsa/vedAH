@@ -30,10 +30,9 @@ many for a *purastādbṛhatī*.
 Do thou, O Darbha, make me dear to Brahman and Rajanya, dear to Sudra, and to Arya dear, Yea, dear to every man we love, to every man with eyes to see.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-प्रियम्। मा। दर्भ। कृणु। ब्रह्मऽराजन्याभ्याम्। शूद्राय। च। आर्याय। च। यस्मै। च। कामयामहे। सर्वस्मै। च। विऽपश्यते। ३२.८।
+प्रियम्। मा। दर्भ। कृणु। ब्रह्मऽराजन्या᳡भ्याम्। शूद्राय। च। आर्याय। च। यस्मै। च। कामयामहे। सर्वस्मै। च। विऽपश्यते। ३२.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

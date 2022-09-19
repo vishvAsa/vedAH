@@ -8,7 +8,6 @@ title = "०१ यच्छक्रा वाचमारुहन्नन्
 When voices, fain to win mid-air, ascended to the Mighty One, The vigorous God was filled with joy.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। शक्राः। वाचम्। आरुहन्। अन्तरिक्षम्। सिषासथः। सम्। देवाः। अमदन्। वृषा। ४९.१।

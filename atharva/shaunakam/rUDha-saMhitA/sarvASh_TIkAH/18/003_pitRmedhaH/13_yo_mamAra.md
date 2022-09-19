@@ -23,7 +23,6 @@ by Hillebrandt, *Ved. Mythol.* i. 491.⌋
 Worship with sacrificial gift King Yama, Vivasvan's son who gathers men together, Yama who was the first to die of mortals, the first who travelled to the world before us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। ममार। प्रथमः। मर्त्यानाम्। यः। प्रऽईयाय। प्रथमः। लोकम्। एतम्। वैवस्वतम्। सम्ऽगमनम्। जनानाम्। यमम्। राजानम्। हविषा। सपर्यत। ३.१३।

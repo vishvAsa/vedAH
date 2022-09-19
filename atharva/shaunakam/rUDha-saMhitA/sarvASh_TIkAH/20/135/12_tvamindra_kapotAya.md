@@ -8,7 +8,6 @@ title = "१२ त्वमिन्द्र कपोताय"
 Thou, Indra, to the trembling dove whose pinions had been rent and torn. Gayest ripe grain and Pilu fruit, gavest him water when athirst.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। इन्द्र। कपोताय। छिन्नपक्षाय। वञ्चते। श्यामाकम्। पक्वम्। पीलु। च। वाः। अस्मै। अकृणोः। बहुः। १३५.१२।

@@ -7,7 +7,6 @@ title = "०५३ कालः"
 53. Praise of time (kālá).
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कालः।  
@@ -18,8 +17,6 @@ title = "०५३ कालः"
 
 [Bhṛgu.—daśakam. mantroktasarvātmakakāladevatyam. ānuṣṭubham: 1-4. triṣṭubh; 5. nicṛt purastādbṛhatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 407; Ludwig, p. 191; Scherman, Philosophische Hymnen, p. 78
 
 A hymn to Kama or Time
 </details>
+

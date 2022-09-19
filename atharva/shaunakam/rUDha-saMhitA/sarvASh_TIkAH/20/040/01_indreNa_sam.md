@@ -8,7 +8,6 @@ title = "०१ इन्द्रेण सम्"
 Mayest thou verily be seen coming by fearless Indra's side: Both joyous: equal in your sheen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रेण। सम्। हि। दृक्षसे। सम्ऽजग्मानः। अबिभ्युषा। मन्दू इति। समानऽवर्चसा। ४०.१।

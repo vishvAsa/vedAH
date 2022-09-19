@@ -39,7 +39,6 @@ strongest possible support for *dhuvanāni* as against *dhru-*.⌋
 With splendour may the Fathers, meet for Soma, with mead and. fatness may the Gods anoint me. Lead me on farther to extended vision, and prosper me through life of long duration.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वर्चसा। माम्। पितरः। सोम्यासः। अञ्जन्तु। देवाः। मधुना। घृतेन। चक्षुषे। मा। प्रऽतरम्। तारयन्तः। जरसे। मा। जरत्ऽअष्टिम्। वर्धन्तु। ३.१०।

@@ -8,7 +8,6 @@ title = "११ अतीदु शक्र"
 Indra, the very mighty, holds his enemies in utter scorn. He, far away, and yet a child, cleft the cloud smitten by his voice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अति। इत्। ऊं इति। शक्रः। ओहते। इन्द्रः। विश्वाः। अति। द्विषः। भिनत्। कनीनः। ओदनम्। पच्यमानम्। परः। गिरा। ९२.११।

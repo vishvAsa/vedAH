@@ -8,7 +8,6 @@ title = "०५ प्र द्युम्नाय"
 Forward for glory and for strength, protection that shall con- quer men, And power and skill, most sapient Ones!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। द्युम्नाय। प्र। शवसे। प्र। नृऽसह्याय। शर्मणे। प्र। दक्षाय। प्रऽचेतसा। १४२.५।

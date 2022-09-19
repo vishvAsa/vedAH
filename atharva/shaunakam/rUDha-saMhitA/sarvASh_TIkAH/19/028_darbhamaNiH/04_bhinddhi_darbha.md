@@ -23,7 +23,6 @@ gṛhādinirmāṇārthaṁ loke*.
 Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou and batter down their heads like growth that coverethl the earth.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 भिन्द्धि। दर्भ। सऽपत्नानाम्। हृदयम्। द्विषताम्। मणे। उत्ऽयन्। त्वचम्ऽइव। भूम्याः। शिरः। एषाम्। वि। पातय। २८.४।

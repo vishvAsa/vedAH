@@ -8,7 +8,6 @@ title = "०३ स्वादुष्टे अस्तु"
 Sweet to thy body let it be, delicious be the savoury juice. Sweet be the Soma to thy heart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्वादुः। ते। अस्तु। सम्ऽसुदे। मधुऽमान्। तन्वे। तव। सोमः। शम्। अस्तु। ते। हृदे। ४.३।

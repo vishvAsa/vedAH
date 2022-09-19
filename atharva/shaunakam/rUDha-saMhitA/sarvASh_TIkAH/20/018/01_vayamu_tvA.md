@@ -8,7 +8,6 @@ title = "०१ वयमु त्वा"
 This, even this, O Indra, we implore: as thy devoted friends, The Kanvas praise thee with their hymns.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वयम्। ऊं इति। त्वा। तदित्ऽअर्थाः। इन्द्र। त्वाऽवन्तः। सखायः। कण्वाः। उक्थेभिः। जरन्ते। १८.१।

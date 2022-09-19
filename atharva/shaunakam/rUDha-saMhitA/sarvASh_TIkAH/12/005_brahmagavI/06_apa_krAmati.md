@@ -29,7 +29,7 @@ The glory, the heroism, and the favouring fortune depart.
 
 <details open><summary>पदपाठः</summary>
 
-अप। क्रामति। सूनृता। वीर्यम्। पुण्या। लक्ष्मीः। ५.६।
+अप। क्रामति। सूनृता। वीर्य᳡म्। पुण्या। लक्ष्मीः। ५.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

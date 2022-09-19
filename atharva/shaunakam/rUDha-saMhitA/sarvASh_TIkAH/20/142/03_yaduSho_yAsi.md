@@ -8,7 +8,6 @@ title = "०३ यदुषो यासि"
 Thou, Dawn, approaching with thy light, shinest together with the Sun, And to this man-protecting home the chariot of the Asvins comes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। उषः। यासि। भानुना। सम्। सूर्येण। रोचसे। आ। ह। अयम्। अश्विनोः। रथः। वर्तिः। याति। नृऽपाय्यम्। १४२.३।

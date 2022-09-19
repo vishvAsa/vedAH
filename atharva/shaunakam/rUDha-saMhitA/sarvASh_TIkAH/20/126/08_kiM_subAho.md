@@ -8,7 +8,6 @@ title = "०८ किं सुबाहो"
 Dame with the lovely hands and arms, with broad hair-plaits and ample hips, Why, O thou hero's wife, art thou angry with our Vrishakapi? Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 किम्। सुबाहो इति  सु बाहो। सुऽअङ्गुरे। पृथुस्तो इति। पृथुऽस्तो। पृथुऽजघने। किम्। शूरऽपत्नि। नः। त्वम्। अभि। अमीषि। वृषाकपिम्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.८।

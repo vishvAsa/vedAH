@@ -8,7 +8,6 @@ title = "०१ उद् घेदभि"
 Surya, thou mountest up to meet the Hero famous for his wealth, Who hurls the bolt and works for man:
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। घ। इत्। अभि। श्रुतऽमघम्। वृषभम्। नर्यऽअपसम्। अस्तारम्। एषि। सूर्य। ७.१।

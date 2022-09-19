@@ -8,7 +8,6 @@ title = "०७ इन्द्रेहि मत्स्यन्धसो"
 Come, Indra, and delight thee with the juice at all the Soma feasts, Protector, mighty in thy strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। आ। इहि। मत्सि। अन्धसः। विश्वेभिः। सोमपर्वऽभिः। महान्। अभिष्टिः। ओजसा। ७१.७।

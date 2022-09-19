@@ -8,7 +8,6 @@ title = "०२ प्र ते"
 May we, when this Dawn and the next dance hither, be thy best servants, most heroic Hero! Let the victorious car with triple splendour bring hitherward the hundred chiefs with Kutsa.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 प्र। ते। अस्याः। उषसः। प्र। अपरस्याः। नृतौ। स्याम। नृऽतमस्य। नृणाम्। अनु। त्रिऽशोकः। शतम्। आ। अवहत्। नॄन्। कुत्सेनः। रथः। यः। असत्। ससऽवान्। ७६.२।

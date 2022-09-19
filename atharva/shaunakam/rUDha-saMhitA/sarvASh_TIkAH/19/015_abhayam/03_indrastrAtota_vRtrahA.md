@@ -28,7 +28,6 @@ verse (8 + 8: 12 + 10 = 38) is poorly described by the Anukr.
 Best, making household wealth increase. Indra our saviour, kills the foe. May he from outmost point be our potector, and from the centre and from west and eastward.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। त्राता। उत। वृत्रऽहा। परस्फानः। वरेण्यः। सः। रक्षिता। चरमतः। सः। मध्यतः। सः। पश्चात्। सः। पुरस्तात्। नः। अस्तु। १५.३।

@@ -20,7 +20,6 @@ next. ⌊Conversely, note the use of the abl.-dat. form *mādbhyás*, below,
 With the first five chapters of the Angirases, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आङ्गिरसानाम्। आद्यैः। पञ्च। अनुऽवाकैः। स्वाहा। २२.१।

@@ -22,7 +22,6 @@ that of the RV. notes the deficiency of a syllable in **a**.
 As God comprising Gods by Law eternal, bear, as the chief who knoweth, our oblation, Smoke-bannered with the fuel, radiant, joyous, better to praise and worship, Priest for ever.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवः। देवान्। परिऽभूः। ऋतेन। वह। नः। हव्यम्। प्रथमः। चिकित्वान्। धूमऽकेतुः। सम्ऽइधा। भाःऽऋजीकः। मन्द्रः। होता। नित्यः। वाचा। यजीयान्। १.३०।

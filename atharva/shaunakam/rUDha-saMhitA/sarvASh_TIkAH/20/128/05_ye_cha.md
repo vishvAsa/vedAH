@@ -8,7 +8,6 @@ title = "०५ ये च"
 But they who have adored the Gods, and they who have best- owed their gifts, Those liberal lords are filled with wealth like Surya risen up to heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। च। देवाः। अयजन्त। अथो इति। ये। च। पराददिः। सूर्यः। दिवम्ऽइव। गत्वाय। मघवा। नः। वि। रप्शते। १२८.५।

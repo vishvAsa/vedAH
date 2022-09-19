@@ -17,7 +17,6 @@ This verse also forms a part of x. 5. 25 etc.
 Let him not live. Let the breath of life forsake him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। मा। जीवीत्। तम्। प्राणः। जहातु। ७.१३।

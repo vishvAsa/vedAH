@@ -8,7 +8,6 @@ title = "१२ स नो"
 Unclose, our manly Hero, thou for ever bounteous, yonder cloud, For us, thou irresistible.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। नः। वषन्। अमुम्। चरुम्। सत्राऽदावन्। अप। वृधि। अस्मभ्यम्। अप्रतिऽस्कुतः। ७०.१२।

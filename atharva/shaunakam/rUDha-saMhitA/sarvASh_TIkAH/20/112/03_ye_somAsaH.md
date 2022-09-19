@@ -8,7 +8,6 @@ title = "०३ ये सोमासः"
 Thou, Indra, goest unto all Soma libations shed for thee, Both far away and near at hand.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। सोमासः। पराऽवति। ये। अर्वाऽवति। सुन्विरे। सर्वान्। तान्। इन्द्र। गच्छसि। ११२.३।

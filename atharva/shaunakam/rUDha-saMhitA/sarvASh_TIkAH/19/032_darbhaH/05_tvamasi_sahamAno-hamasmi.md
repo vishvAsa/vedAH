@@ -22,7 +22,6 @@ have *-mahi*.
 Thou art victorious in thy might I am endowed with conquering strength: Possessed of overpowering force we two will quell our enemies.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। असि। सहमानः। अहम्। अस्मि। सहस्वान्। उभौ। सहस्वन्तौ। भूत्वा। सऽपत्नान्। सहिषीमहि। ३२.५।

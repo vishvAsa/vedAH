@@ -25,7 +25,7 @@ Fulgent art thou, and splendid, thou art heavenly lustre, thou art light. Reach 
 
 <details open><summary>पदपाठः</summary>
 
-शुक्रः। असि। भ्राजः। असि। स्वः। असि। ज्योतिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.५।
+शुक्रः। असि। भ्राजः। असि। स्वः᳡। असि। ज्योतिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

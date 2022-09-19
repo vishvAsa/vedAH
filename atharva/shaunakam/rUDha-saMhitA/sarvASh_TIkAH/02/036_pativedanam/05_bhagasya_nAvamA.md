@@ -24,7 +24,7 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 
 <details open><summary>पदपाठः</summary>
 
-भगस्य। नावम्। आ। रोह। पूर्णाम्। अनुपऽदस्वतीम्। तया। उपऽप्रतारय। यः। वरः। प्रतिऽकाम्यः। ३६.५।
+भगस्य। नावम्। आ। रोह। पूर्णाम्। अनुपऽदस्वतीम्। तया। उपऽप्रतारय। यः। वरः। प्रतिऽकाम्यः᳡। ३६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

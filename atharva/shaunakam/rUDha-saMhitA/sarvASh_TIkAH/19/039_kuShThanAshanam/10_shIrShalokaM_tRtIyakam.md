@@ -30,7 +30,6 @@ instead *sadantī*.
 O thou who hast all-reaching might drive away Fever, drive it down, racking Fever, tertian, continual, lasting for a year.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शीर्षऽलोकम्। तृतीयकम्। सदम्ऽदिः। यः। च। हायनः। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। ३९.१०।

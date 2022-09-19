@@ -7,7 +7,6 @@ title = "०१५ "
 15. Paryāya the fifteenth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 ११-९ अथर्वा। अध्यात्मं, व्रात्यः। १ दैवी पङ्क्तिः, २ आसुरी बृहती, ३, ४, ७-८ प्राजापत्याऽनुष्टुप्  
@@ -18,8 +17,6 @@ title = "०१५ "
 
 [navaka. 1. dāivi pan̄kti; 3. āsurī bṛhatī; 3, 4, 7, 8. prājāpatyā ’nuṣṭubh (4, 7, 8. bhurij)*; 5, 6. 2-p. sāmnī bṛhatī; 9. virāḍ gāyatrī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Aufrecht, Ind. Stud. i. 137; Griffith, ii. 197.
 
 Vratya
 </details>
+

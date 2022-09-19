@@ -27,7 +27,6 @@ a RV. phrase, and found elsewhere: see under that verse.
 When, ignorant, we violate the statutes of you, O Deities, with whom is knowledge, Wise Agni shall correct our faults and failings, and Soma who hath entered into Brahmans.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। वः। वयम्। प्रऽमिनाम। व्रतानि। विदुषाम्। देवाः। अविदुःऽतरासः। अग्निः। तत्। विश्वऽअत्। आ। पृणातु। विद्वान्। सोमस्य। यः। ब्राह्मणान्। आऽविवेश। ५९.२।

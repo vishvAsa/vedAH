@@ -8,7 +8,6 @@ title = "०४ पुरुष्टुतस्य धामभिः"
 We strive for glory through the powers immense of him whom many praise, Of Indra who supports mankind.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुरुऽस्तुतस्य। धामऽभिः। शतेन। महयामसि। इन्द्रस्य। चर्षणिऽधृतः। १९.४।

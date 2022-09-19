@@ -8,7 +8,6 @@ title = "०२ अर्वाङेहि सोमकामम्"
 Come to us; they have called thee Soma-lover. Here is the pressed juice: drink thereof for rapture. Widely-capacious, pour it down within thee, and invocated hear us like a father.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्वाङ्। आ। इहि। सोमऽकामम्। त्वा। आहः। अयम्। सुतः। तस्य। पिब। मदाय। उरुऽव्यचाः। जठरे। आ। वृषस्व। पिताऽइव। नः। शृणुहि। हूयमानः। ८.२।

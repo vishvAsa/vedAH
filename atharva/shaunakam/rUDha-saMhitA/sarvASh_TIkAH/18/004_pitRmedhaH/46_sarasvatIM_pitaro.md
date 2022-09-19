@@ -18,7 +18,6 @@ free from disease.
 Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear them. Sit on this holy grass and be ye joyful: give thou us strengthen- ing food that brings no sickness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सरस्वतीम्। पितरः। हवन्ते। दक्षिणा। यज्ञम्। अभिऽनक्षमाणाः। आऽसद्य। अस्मिन्। बर्हिषि। मादयध्वम्। अनमीवाः। इषः। आ। धेहि। अस्मे इति। ४.४६।

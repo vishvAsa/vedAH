@@ -8,7 +8,6 @@ title = "०५ शतमाश्वा हिरण्ययाः"
 Question this man, Where do I ask? Where, whom that knoweth do I ask?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतम्। आश्वाः। हिरण्ययाः। शतम्। रथ्या। हिरण्ययाः। शतम्। कुथाः। हिरण्ययाः। शतम्। निष्काः। हिरण्ययाः। १३१.५।

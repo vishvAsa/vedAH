@@ -8,7 +8,6 @@ title = "०६ तत् त्वा"
 I crave of thee that hero strength--that thou mayst first regard this prayer Wherewith thou helpest Bhrigu and the Yatis and Praskanva when the prize was staked.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तत्। त्वा। यामि। सुऽवीर्यम्। तत्। ब्रह्म। पूर्वऽचित्तये। येन। यतिऽभ्यः। भृगवे। धने। हिते। येन। प्रस्कण्वम्। आविथ। ४९.६।

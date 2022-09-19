@@ -8,7 +8,6 @@ title = "०९ यस्मान्न ऋते"
 He, without whom men conquer not in battle, whom, warring, they invoke for help and succour; He, all this universe's type and image, who shakes what never shook, He, men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यस्मात्। न। ऋते। विऽजयन्ते। जनासः। यम्। युध्यमानाः। अवसे। हवन्ते। यः। विश्वस्य। प्रतिऽमानम्। बभूव। यः। अच्युतऽच्युत्। सः। जनासः। इन्द्रः। ३४.९।

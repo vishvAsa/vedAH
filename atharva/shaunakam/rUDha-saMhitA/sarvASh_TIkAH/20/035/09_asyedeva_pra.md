@@ -8,7 +8,6 @@ title = "०९ अस्येदेव प्र"
 Yea, of a truth, his magnitude surpasseth the magnitude of earth, mid-air and heaven. Indra whom all men praise, the Sovran Ruler, waxed in his home loud-voiced and strong for battle.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्य। इत्। एव। प्र। रिरिचे। महिऽत्वम्। दिवः। पृथिव्याः। परि। अन्तरिक्षात्। स्वऽराट्। इन्द्रः। दमे। आ। विश्वऽगूर्तः। सुऽअरिः। अमत्रः। ववक्षे। रणाय। ३५.९।

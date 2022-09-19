@@ -15,7 +15,6 @@ become the dear abode who knoweth thus.
 He who, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विऽराजः। च। वै। सः। सर्वेषाम्। च। देवानाम्। सर्वासाम्। च। देवतानाम्। प्रियम्। धाम। भवति। यः। एवम्। वेद। ६.२३।

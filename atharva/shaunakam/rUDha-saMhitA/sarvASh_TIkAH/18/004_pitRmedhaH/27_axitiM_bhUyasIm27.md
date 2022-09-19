@@ -18,7 +18,6 @@ Anukr. and the mss. reckon it as an independent verse.
 More immortality!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अक्षितिम्। भूयसीम्। ४.२७।

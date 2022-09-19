@@ -8,7 +8,6 @@ title = "०५ युञ्जन्त्यस्य काम्या"
 On both sides of the car they yoke the two bay coursers dear to him, Bold, tawny, bearers of the thief.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 युञ्जन्ति। अस्य। काम्या। हरी इति। विऽपक्षसा। रथे। शोणा। धृष्णू इति। नृऽवाहसा। २६.५।

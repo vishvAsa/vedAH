@@ -19,7 +19,6 @@ follows them in 28. 6, 8.
 How thou my rivals, Darbha, etc.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कृन्त। दर्भ। सऽपत्नान्। मे। कृन्त। मे। पृतनाऽयतः। कृन्त। मे। सर्वान्। दुःऽहार्दान्‌। कृन्त। मे। द्विषतः। मणे। २८.८।

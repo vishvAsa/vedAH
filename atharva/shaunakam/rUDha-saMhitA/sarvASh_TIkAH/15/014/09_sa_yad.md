@@ -14,7 +14,6 @@ title = "०९ स यद्"
 He, when he went away to the stedfast region, went away having become Vishnu and having made Viraj an eater of food.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सः। यत्। ध्रुवाम्। दिशम्। अनु। विऽअचलत्। विष्णुः। भूत्वा। अनुऽव्य᳡चलत्। विऽराजम्। अन्नऽअदीम्। कृत्वा। १४.९।

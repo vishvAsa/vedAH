@@ -8,7 +8,6 @@ title = "०५ इन्द्रियाणि शतक्रतो"
 O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra, do I claim of thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रियाणि। शतक्रतो इति शतऽक्रतो। या। ते। जनेषु। पञ्चऽसु। इन्द्र। तानि। ते। आ। वृणे। ५७.५।

@@ -8,7 +8,6 @@ title = "०१ महाँ इन्द्रो"
 Indra, great in his power and might and, like Parjanya, rich in rain, Is magnified by Vatsa's lauds,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। इन्द्रः। यः। ओजसा। पर्जन्यः। वृष्टिमान्ऽइव। स्तोमैः। वत्सस्य। ववृधे। १३८.१।

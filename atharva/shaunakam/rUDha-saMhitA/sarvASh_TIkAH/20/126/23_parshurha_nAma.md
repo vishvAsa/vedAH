@@ -8,7 +8,6 @@ title = "२३ पर्शुर्ह नाम"
 Daughter of Manu, Parsu bare a score of children at a birth. Her portion verily was bliss although her burthen caused her grief.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पशुः। ह। नाम। मानवी। साकम्। ससूव। विंशतिम्। भद्रम्। भल। त्यस्यै। अभूत्। यस्याः। उदरम्। आमयत्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.२३।

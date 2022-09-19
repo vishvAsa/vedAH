@@ -7,7 +7,6 @@ title = "०१८ अध्यात्म-प्रकरणम्"
 18. Paryāya the eighteenth.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अध्यात्म-प्रकरणम्।  
@@ -18,8 +17,6 @@ title = "०१८ अध्यात्म-प्रकरणम्"
 
 [pañcaka. 1. dāivī pan̄kti; 2, 3. ārcī bṛhatī; 4. ārcy anuṣṭubh; 5. sāmny uṣṇih.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -34,3 +31,4 @@ Translated: Aufrecht, Ind. Stud. i. 138; Griffith, ii. 199.
 
 Vratya
 </details>
+

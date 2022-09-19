@@ -8,7 +8,6 @@ title = "१२ यः शम्बरम्"
 Who drank the juice poured at the seas of Order, subduing Sambara by superior prowess, Who hoarded food within the mountain's hollow wherein he grew in strength, He, men, is Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। शम्बरम्। परि। अतरत्। कसीभिः। यः। अचारु। कास्ना। अपिबत्। सुतस्य। अन्तः। गिरौ। यजमानम्। बहुम्। जनम्। यस्मिन्। आमूर्च्छत्। सः। जनासः। इन्द्रः। ३४.१२।

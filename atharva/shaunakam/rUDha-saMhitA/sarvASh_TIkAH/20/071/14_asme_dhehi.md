@@ -8,7 +8,6 @@ title = "१४ अस्मे धेहि"
 Grant us high fame, O Indra, grant riches bestowing thousands, those Fair fruits of earth borne home in wains.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मे इति। धेहि। श्रवः। बृहत्। द्युम्नम्। सहस्रऽसातमम्। इन्द्र। ताः। रथिनीः। इषः। ७१.१४।

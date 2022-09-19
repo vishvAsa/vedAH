@@ -7,7 +7,6 @@ title = "००४ आकूतिः"
 4. To various divinities.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आकूतिः।  
@@ -18,8 +17,6 @@ title = "००४ आकूतिः"
 
 [Atharvān̄giras.—caturṛcam. āgneyam ⌊2. mantroktadevatyā⌋. trāiṣṭubham: 1. 5-p. virāḍ atijagatī; 2. jagatī.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 261.
 
 A prayer, accompanying sacrifice, for the attainment of a wish
 </details>
+

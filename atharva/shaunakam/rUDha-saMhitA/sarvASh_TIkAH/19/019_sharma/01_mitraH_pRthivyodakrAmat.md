@@ -19,7 +19,6 @@ The comm. declares that Mitra here means Agni.
 Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it give you protection and defence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मित्रः। पृथिव्याः। उत्। अक्रामत्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। च। वर्म। च। यच्छतु। १९.१।

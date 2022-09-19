@@ -35,7 +35,6 @@ etc.⌋
 Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorious, all-subduing, O'ercoming might, excelling men and heroes, mount the kine- winning conquering car, O Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बलऽविज्ञायः। स्थविरः। प्रऽवीरः। सहस्वान्। वाजी। सहमानः। उग्रः। अभिऽवीरः। अभिऽसत्वा। सहःऽजित्। जैत्रम्। इन्द्र। रथम्। आ। तिष्ठ। गोऽविदन्। १३.५।

@@ -8,7 +8,6 @@ title = "०३ अग्निं होतारम्"
 I think on Agni, Hotar, the munificent, the gracious Son of strength, who knoweth all that live, as holy Sage who knoweth all. Lord of fair rites, a God with form erected turning to the Gods. He, when the flame hath sprung forth from the holy oil, the offered fatness, longeth for it with his glow.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अग्निम्। होतारम्। मन्ये। दास्वन्तम्। वसुम्। सूनुम्। सहसः। जातऽवेदसम्। विप्रम्। न। जातऽवेदसम्। यः। ऊर्ध्वया। सुऽअध्वरः। देवः। देवाच्या। कृपा। घृतस्य। विऽभ्राष्टिम्। अनु। वष्टि। शोचिषा। आजुह्वानस्य। सर्पिषः। ६७.३।

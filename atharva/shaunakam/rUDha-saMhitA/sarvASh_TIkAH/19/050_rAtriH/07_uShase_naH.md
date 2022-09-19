@@ -20,7 +20,6 @@ Compare the verse 48. 2, above ⌊and MB. i. 5. 15, there cited⌋.
 Do thou entrust us to the Dawn, all of us free from sin, O Night. May Dawn deliver us to Day, and Day to thee, O glorious One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उषसे। नः। परि। देहि। सर्वान्। रात्रि। अनागसः। उषाः। नः। अह्ने। आ। भजात्। अहः। तुभ्यम्। विभावरि। ५०.७।

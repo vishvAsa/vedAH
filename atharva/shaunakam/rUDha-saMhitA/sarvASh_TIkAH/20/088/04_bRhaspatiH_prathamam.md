@@ -8,7 +8,6 @@ title = "०४ बृहस्पतिः प्रथमम्"
 Brihaspati, when first he had his being from mighty splendour in supremest heaven. Strong, with his sevenfold mouth, with noise of thunder, with his seven rays blew and dispersed the darkness.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिः। प्रथमम्। जायमानः। महः। ज्योतिषः। परमे। विऽओमन्। सप्तऽआस्यः। तुविऽजातः। रवेण। वि। सप्तऽरश्मिः। अधमत्। तमांसि। ८८.४।

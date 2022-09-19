@@ -25,7 +25,6 @@ böhmischen Gesellschaft der Wiss., 1889, no. 5, p. 46.⌋
 Chose he then, death for Gods to be their portion? Why chose he not for men a life eternal? Brihaspati span sacrifice, the Rishi; and Yama yielded up his own dear body.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवेभ्यः। कम्। अवृणीत। मृत्युम्। प्रऽजायै। किम्। अमृतम्। न। अवृणीत। बृहस्पतिः। यज्ञम्। अतनुत। ऋषिः। प्रियाम्। यमः। तन्वम्। आ। रिरेच। ३.४१।

@@ -8,7 +8,6 @@ title = "२३ अङ्गेअङ्गे लोम्निलोम्न
 Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destruction far from us. The live man's mind is manifold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अङ्गेऽअङ्गे। लोम्निऽलोम्नि। ते। पर्वणिऽपर्वणि। यक्ष्मम्। त्वचस्यम्। ते। वयम्। कश्यपस्य। विऽबर्हेण। विष्वञ्चम्। वि। वृहामसि। ९६.२३।

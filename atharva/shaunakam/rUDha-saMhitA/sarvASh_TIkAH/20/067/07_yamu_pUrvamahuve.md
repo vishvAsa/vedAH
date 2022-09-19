@@ -8,7 +8,6 @@ title = "०७ यमु पूर्वमहुवे"
 Him whom of old I called on, him I call on now. He is to be invoked: his name is He who Gives. Here brought by priests in Soma mead. Granter of Wealth, drink Soma with the Seasons from the Hotar's Cup.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यम्। ऊं इति। पूर्वम्। अहुवे। तम। इदम्। हुवे। सः। इत्। ऊं इति। हव्यः। ददिः। यः। नाम। पत्यते। अध्वर्युभिः। प्रऽस्थितम्। सोम्यम्। मधु। पोत्रात्। सोमम्। द्रविणःऽदः। पिब। ऋतुऽभिः। ६७.७।

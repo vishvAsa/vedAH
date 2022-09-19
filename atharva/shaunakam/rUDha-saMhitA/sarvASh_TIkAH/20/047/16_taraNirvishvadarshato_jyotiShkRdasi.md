@@ -8,7 +8,6 @@ title = "१६ तरणिर्विश्वदर्शतो ज्यो
 Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the radiant realm.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तरणिः। विश्वऽदर्शतः। ज्योतिःऽकृत्। असि। सूर्य। विश्वम्। आ। भासि। रोचन। ४७.१६।

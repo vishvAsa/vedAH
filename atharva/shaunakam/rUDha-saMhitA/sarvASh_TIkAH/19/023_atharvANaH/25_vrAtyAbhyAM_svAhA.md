@@ -21,7 +21,6 @@ hail!' See my note, p. 770, ¶3.⌋
 Hail to the two Vratya hymns!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 व्रात्याभ्याम्। स्वाहा। २३.२५।

@@ -38,7 +38,6 @@ further to emend *átho* in **c** to *ápa*.
 The thief hast thou kept far away, the robber driver of our kine. Even him who having covered up the horse's head would lead him off.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। स्तेनम्। वासः। गोऽअजम्। उत। तस्करम्। अथो इति। यः। अर्वतः। शिरः। अभिऽधाय। निनीषति। ५०.५।

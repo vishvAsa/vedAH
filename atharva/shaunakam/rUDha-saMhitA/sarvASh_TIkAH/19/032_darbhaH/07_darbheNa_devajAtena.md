@@ -31,7 +31,6 @@ intention.⌋ Ppp. reads *janān asanāṁ*, ⌊and, in **b**, *divaṣṭambhen
 With Darbha that hath sprung from Gods, stationed in heaven, full many a time. With this have I won many men, have won and may I win them still.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दर्भेण। देवऽजातेन। दिवि। स्तम्भेन। शश्वत्। इत्। तेन। अहम्। शश्वतः। जनान्। असनम्। सनवानि। च। ३२.७।

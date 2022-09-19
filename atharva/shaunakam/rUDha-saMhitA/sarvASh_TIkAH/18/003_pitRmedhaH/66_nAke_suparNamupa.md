@@ -33,7 +33,6 @@ on our verse.⌋
 They gaze on thee with longing in their spirit, as on an eagle that is mounting skyward; On thee with wings of gold, Varuna's envoy, the Bird that hasteth to the home of Yama.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नाके। सुऽपर्णम्। उप। यत्। पतन्तम्। हृदा। वेनन्तः। अभिऽअचक्षत। त्वा। हिरण्यऽयक्षम्। वरुणस्य। दूतम। यमस्य। योनौ। शकुनम्। भुरण्यम्। ३.६६।

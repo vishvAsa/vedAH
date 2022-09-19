@@ -8,7 +8,6 @@ title = "०१ यस्तस्तम्भ सहसा"
 Him who with might hath propped earth's ends, who sitteth in threefold seat, Brihaspati, with thunder, Him of the pleasant tongue have ancient sages, deep thinking,. holy singers, set before them.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। तस्तम्भ। सहसा। वि। ज्मः। अन्तान्। बृहस्पतिः। त्रिऽसधस्थः। रवेण। तम्। प्रत्नासः। ऋषयः। दीध्यानाः। पुरः। विप्रा। दधिरे। मन्द्रऽजिह्वम्। ८८.१।

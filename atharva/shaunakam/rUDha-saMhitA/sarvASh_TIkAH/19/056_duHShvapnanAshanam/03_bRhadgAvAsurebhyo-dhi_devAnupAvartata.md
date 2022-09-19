@@ -30,10 +30,9 @@ gives *trayastriṅśā́saḥ sv-*, as do we.
 Come from the Asuras in lofty, glory, he hath approached the Gods in search of greatness. Winners of heavenly light, the Three-and-Thirty endowed this Sleep with his supreme dominion.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-बृहत्ऽगावा। असुरेभ्यः। अधि। देवान्। उप। अवर्तत। महिमानम्। इच्छन्। तस्मै। स्वप्नाय। दधुः। आधिपत्यम्। त्रयःऽत्रिंशासः। स्वः। आनशानाः। ५६.३।
+बृहत्ऽगावा। असुरेभ्यः। अधि। देवान्। उप। अवर्तत। महिमानम्। इच्छन्। तस्मै। स्वप्नाय। दधुः। आधिपत्यम्। त्रयःऽत्रिंशासः। स्वः᳡। आनशानाः। ५६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

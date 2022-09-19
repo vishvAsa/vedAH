@@ -25,7 +25,6 @@ elsewhere, in the directly opposed sense to *ṛtá*. The comm. explains
 Shall we do now what we ne'er did aforetime? we who spoke righteously now talk impurely? Gandharva in the floods, the Dame of Waters--such is our bond, such our most lofty kinship.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। यत्। पुरा। चकृम। कत्। ह। नूनम्। ऋतम्। वदन्तः। अनृतम्। रपेम। गन्धर्वः। अप्ऽसु। अप्या। च। योषा। सा। नौ। नाभिः। परमम्। जामि। तत्। नौ। १.४।

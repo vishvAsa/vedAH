@@ -19,7 +19,6 @@ either *rathavadvegagāminam* or *rathavantam*.
 Let the Salve born upon the earth, benignant, giving life to man. Make the swift rider on the car sinless, exempt from sudden death.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आऽअञ्जनम्। पृथिव्याम्। जातम्। भद्रम्। पुरुषऽजीवनम्। कृणोतु। अप्रऽमायुकम्। रथऽजूतिम्। अनागसम्। ४४.३।

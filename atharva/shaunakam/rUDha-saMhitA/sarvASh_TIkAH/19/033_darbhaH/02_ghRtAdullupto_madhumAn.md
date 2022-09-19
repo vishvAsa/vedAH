@@ -28,7 +28,6 @@ mahendriyeṇa*. The verse is a sort of variation of v. 28. 14, above;
 Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, overthrowing. Driving off foes and casting them beneath me, mount with the strength of mighty Ones, O Darbha.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 घृतात्। उत्ऽलुप्तः। मधुऽमान्। पयस्वान्। भूमिऽदृंहः। अच्युतः। च्यावयिष्णुः। नुदन्। सऽपत्नान्। अधरान्। च। कृण्वन्। दर्भ। आ। रोह। महताम्। इन्द्रियेण। ३३.२।

@@ -8,7 +8,6 @@ title = "०३ कदू न्व\uf184स्याकृतमिन्द्
 What manly deed of vigour now remains that Indra hath not done? Who hath not heard his glorious title and his fame, the Vritra- slayer from his birth?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कत्। ऊं इति। नु। अस्य। अकृतम्। इन्द्रस्य। अस्ति। पौंस्यम्। केनो इति। नु। कम्। श्रोमतेन। न। शुश्रुवे। जनुषः। परि। वृत्रऽहा। ९७.३।

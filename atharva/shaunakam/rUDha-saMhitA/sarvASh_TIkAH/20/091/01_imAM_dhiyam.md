@@ -8,7 +8,6 @@ title = "०१ इमां धियम्"
 This holy hymn sublime and seven-headed, sprung from eternal Law, our sire discovered. Ayasya, friend of all men, hath engendered the fourth hymn as he sang his laud to Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इमाम्। धियम्। सप्तऽशीर्ष्णीम्। पिता। नः। ऋतऽप्रजाताम्। बृहतीम्। अविन्दत्। तुरीयम्। स्वित्। जनयत्। विश्वऽजन्यः। अयास्य। उक्थम्। इन्द्राय। शंसन्। ९१.१।

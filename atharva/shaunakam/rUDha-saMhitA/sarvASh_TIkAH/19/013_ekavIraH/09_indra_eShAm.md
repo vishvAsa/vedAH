@@ -27,7 +27,6 @@ of his lucubrations. ⌊Cf. note to vs. 4.⌋
 Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede them! And let the banded Maruts march in forefront of heavenly hosts that conquer and demolish.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। एषाम्। नेता। बृहस्पतिः। दक्षिणा। यज्ञः। पुरः। एतु। सोमः। देवऽसेनानाम्। अभिऽभञ्जतीनाम्। जयन्तीनाम्। मरुतः। यन्तु। मध्ये। १३.९।

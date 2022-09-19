@@ -21,7 +21,6 @@ The verse is, without variant, RV. x. 11. 8 (also found in MS. iv. 14.
 When, holy Agni, the divine assembly, the holy synod mid the Gods, is gathered, And when thou, godlike One, dealest forth treasures vouchsafe us too our portion of the riches.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अग्ने। एषा। सम्ऽइतिः। भवाति। देवी। देवेषु। यजता। यजत्र। रत्ना। च। यत्। विऽभजासि। स्वधाऽवः। भागम्। नः। अव। अत्र। वसुऽमन्तम्। वीतात्। १.२६।

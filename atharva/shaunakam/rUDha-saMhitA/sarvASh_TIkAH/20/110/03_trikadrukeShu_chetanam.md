@@ -8,7 +8,6 @@ title = "०३ त्रिकद्रुकेषु चेतनम्"
 By the three Soma jars the Gods span sacrifice that stirs the mind: Let our songs aid and prosper it.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रिऽकद्रुकेषु। चेतनम्। देवासः। यज्ञम्। अत्नत। तम्। इत्। वर्धन्तु। नः। गिरः। ११०.३।

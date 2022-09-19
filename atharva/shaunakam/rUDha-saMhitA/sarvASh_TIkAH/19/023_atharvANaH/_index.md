@@ -7,7 +7,6 @@ title = "०२३ अथर्वाणः"
 23. Homage to parts of the Atharva-Veda.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 अथर्वाणः।  
@@ -20,8 +19,6 @@ title = "०२३ अथर्वाणः"
 [Atharvan.—triṅśat mantroktadevatyam uta cāndramasam. 1. āsurī bṛhatī; 2-7, 20, 23, 27. dāivī triṣṭubh; 8, 10-12, 14-16. prājāpatyā gāyatrī; 17, 19, 21, 24, 25, 29. dāivī pan̄kti; 9, 13, 18, 22, 26, 28. dāivī jagatī; (1-29. 1-av.).]
 </details>
 
-
-
 <details><summary>Whitney</summary>
 
 ### Comment
@@ -32,3 +29,4 @@ All the saṁhitā-mss. read ṣaḍarc-, and two of SW's pada-mss. ṣaḍá॰
 
 A prose hymn of homage to various portions of the Atharva-vada classed according to the number of verses which their hymns contain
 </details>
+

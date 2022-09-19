@@ -33,7 +33,6 @@ loose the cow that was led with the corpse to the funeral pile.
 To all, the living and the dead, all that are born, the worshipful. Let the full brook of fatness run, o'erflowing, with stream of mead.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ये। च। जीवाः। ये। च। मृताः। ये। जाताः। ये। च। यज्ञियाः। तेभ्यः। घृतस्य। कुल्या। एतु। मधुऽधारा। विऽउदन्ती। ४.५७।

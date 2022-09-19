@@ -8,7 +8,6 @@ title = "०३ इत ऊती"
 Bring to your aid the Eternal One, who shoots and none may shoot at him, Inciter, swift, victorious, best of charioteers, Tugrya's unvan- quished strengthener;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इतः। ऊती। वः। अजरम्। प्रऽहेतारम्। अप्रऽहितम्। आशुम्। जेतारम्। हेतारम्। रथिऽतमम्। अतूर्तम्। तुग्र्यऽवृधम्। १०५.३।

@@ -22,10 +22,9 @@ Prāt. iii. 25 notes the short final of *ádha* in **a** and **d**.
 And the fleet Falcon brought for sacrifice from afar this flowing. drop most excellent and passing wise, Then when the Aryan tribes chose as invoking Priest Agni the wonder-worker, and the hymn rose up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-अध। त्यम्। द्रप्सम्। विऽभ्वम्। विऽचक्षणम्। विः। आ। अभरत्। इषिरः। श्येनः। अध्वरे। यदि। विशः। वृणते। दस्मम्। आर्याः। अग्निम्। होतारम्। अध। धीः। अजायत। १.२१।
+अध। त्यम्। द्रप्सम्। विऽभ्व᳡म्। विऽचक्षणम्। विः। आ। अभरत्। इषिरः। श्येनः। अध्वरे। यदि। विशः। वृणते। दस्मम्। आर्याः। अग्निम्। होतारम्। अध। धीः। अजायत। १.२१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

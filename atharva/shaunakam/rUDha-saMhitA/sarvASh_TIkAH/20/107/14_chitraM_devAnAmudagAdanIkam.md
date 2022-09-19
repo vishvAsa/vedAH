@@ -8,7 +8,6 @@ title = "१४ चित्रं देवानामुदगादनीक
 The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agni. The soul of all that moveth not or moveth, Surya hath filled the earth and air and heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 चित्रम्। देवानाम्। उत्। अगात्। अनीकम्। चक्षुः। मित्रस्य। वरुणस्य। अग्नेः। आ। अप्रात्। द्यावापृथिवी इति। अन्तरिक्षम्। सूर्यः। आत्मा। जगतः। तस्थुषः। च। १०७.१४।

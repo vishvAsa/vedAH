@@ -7,7 +7,6 @@ title = "०५४ कालः"
 54. Praise of time.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 कालः।  
@@ -18,8 +17,6 @@ title = "०५४ कालः"
 
 [Bhṛgu etc. (as 53).—pañcakam. 2. 3-p. ārṣī gāyatrī; 5 ⌊5 and 6 of the Berlin ed.⌋. 3-av. 6-p. virāḍ aṣṭi.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Muir, v. 409; Ludwig, p. 191; Scherman, Philosophische Hymnen, p. 80
 
 A hymn to Kala; a continuation of the preceding hymn
 </details>
+

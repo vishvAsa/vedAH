@@ -24,7 +24,6 @@ belonging to the *viśve devāḥ*. Ppp. reads at the end *āpyāḥ*.
 Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious. Friendly be they, the Liberal Ones, who seek us, yea, those who dwell in-heaven, on earth, in waters.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। नः। देवाः। विश्वऽदेवाः। भवन्तु। शम्। सरस्वती। सह। धीभिः। अस्तु। शम्। अभिऽसाचः। शम्। ऊं इति। रातिऽसाचः। शम्। नः। दिव्याः। पार्थिवाः। शम्। नः। अप्याः। ११.२।

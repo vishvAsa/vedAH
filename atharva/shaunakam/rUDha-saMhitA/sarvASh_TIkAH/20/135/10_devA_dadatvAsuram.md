@@ -8,7 +8,6 @@ title = "१० देवा ददत्वासुरम्"
 The Gods shall give the precious boon: let it be pleasant to your hearts. Let it be with you every day: accept our offerings in return.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 देवाः। ददतु। आसुरम्। तत्। वः। अस्तु। सुचेतनम्। युष्मान्। अस्तु। दिवेदिवे। प्रति। एव। गृभायत। १३५.१०।

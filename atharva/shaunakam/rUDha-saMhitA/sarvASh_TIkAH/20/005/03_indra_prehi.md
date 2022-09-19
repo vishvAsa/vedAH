@@ -8,7 +8,6 @@ title = "०३ इन्द्र प्रेहि"
 Indra, advance, go forward thou who by thy might art Lord of all. Slay, Vritra-slayer slay thy foes.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्र। प्र। इहि। पुरः। त्वम्। विश्वस्य। ईशानः। ओजसा। वृत्राणि। वृत्रऽहन्। जहि। ५.३।

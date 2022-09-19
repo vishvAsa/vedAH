@@ -8,7 +8,6 @@ title = "१४ तं घेमित्था"
 With reverence they come hitherward to him as to a sovran lord, That they may bring him near for this man's good success, to prosper and bestow his gifts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। घ। ईम्। इत्था। नमस्विनः। उप। स्वऽराजम्। आसते। अर्थम्। चित्। अस्य। सुऽधितम्। यत्। एतवे। आऽवर्तयन्ति। दावने। ९२.१४।

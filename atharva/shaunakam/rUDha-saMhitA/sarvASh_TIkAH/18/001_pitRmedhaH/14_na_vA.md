@@ -27,10 +27,9 @@ instead *asuṁ yat*, and supplies a verb, *apaharet*, to govern *asum*.
 I will not fold mine arms about thy body: they call it sin when one comes near a sister. Not me--prepare thy pleasure with another. Thy brother seeks not this from thee, O fair one.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-न। वै। ऊं इति। ते। तनूम्। तन्वा। सम्। पपृच्याम्। पापम्। आहुः। यः। स्वसारम्। निऽगच्छात्। असम्ऽयत्। एतत्। मनसः। हृदः। मे। भ्राता। स्वसुः। शयने। यत्। शयीय। १.१४।
+न। वै। ऊं इति। ते। तनूम्। तन्वा᳡। सम्। पपृच्याम्। पापम्। आहुः। यः। स्वसारम्। निऽगच्छात्। असम्ऽयत्। एतत्। मनसः। हृदः। मे। भ्राता। स्वसुः। शयने। यत्। शयीय। १.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

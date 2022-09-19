@@ -8,7 +8,6 @@ title = "१२ नाहमिन्द्राणि रारण"
 Never, Indrani have I joyed without my friend Vrishakapi, Whose welcome offering here, made pure with water, goeth to the Gods. Supreme is Indra over all.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। अहम्। इन्द्राणि। ररण। सख्युः। वृषाकपेः। ऋते। यस्य। इदम्। अप्यस्। हविः। प्रियम्। देवेषु। गच्छति। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१२।

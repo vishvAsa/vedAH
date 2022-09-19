@@ -8,7 +8,6 @@ title = "०७ आपो न"
 As waters flow together to the river, thus Somas to Indra flow, as rivulets to the lake. In place of sacrifice sages exalt his might, as the rain swells the corn by moisture sent from heaven.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आपः। न। सिन्धुम्। अभि। यत्। सम्ऽअक्षरन्। सोमास। इन्द्रम्। कुल्याःऽइव। ह्रदम्। वर्धन्ति। विप्राः। महः। अस्य। सदने। यवम्। न। वृष्टिः। दिव्येन। दानुना। १७.७।

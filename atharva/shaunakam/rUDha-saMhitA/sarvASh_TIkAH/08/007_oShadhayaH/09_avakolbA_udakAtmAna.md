@@ -20,7 +20,7 @@ Let Plants whose soul is water, girt with Avakas, piercing with their sharp horn
 
 <details open><summary>पदपाठः</summary>
 
-अवकाऽउल्बाः। उदकऽआत्मानः। ओषधयः। वि। ऋषन्तु। दुःऽइतम्। तीक्ष्णऽशृङ्ग्यः। ७.९।
+अवकाऽउल्बाः। उदकऽआत्मानः। ओषधयः। वि। ऋषन्तु। दुःऽइतम्। तीक्ष्णऽशृङ्ग्यः᳡। ७.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

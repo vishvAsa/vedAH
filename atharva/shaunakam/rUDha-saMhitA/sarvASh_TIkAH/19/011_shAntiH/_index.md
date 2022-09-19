@@ -7,7 +7,6 @@ title = "०११ शान्तिः"
 11. For well-being.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 शान्तिः।  
@@ -18,8 +17,6 @@ title = "०११ शान्तिः"
 
 [Brahman (śāntikāmaḥ).—ṣaṭ. sāumyam. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 272; and also, of course, by the RV. translators.
 
 A continuation of Hymn 10
 </details>
+

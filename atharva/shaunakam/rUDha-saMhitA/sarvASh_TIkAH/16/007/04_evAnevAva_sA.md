@@ -20,7 +20,6 @@ supplement to the minor Lex., iii. 250 c⌋.
 Thus or otherwise let her swallow him up.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। अनेव। अव। सा। गरत्। ७.४।

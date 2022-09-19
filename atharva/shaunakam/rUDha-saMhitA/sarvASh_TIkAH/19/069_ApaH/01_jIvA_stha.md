@@ -16,7 +16,6 @@ title = "०१ जीवा स्थ"
 Ye are alive. I fain would live. I fain would live my complete term of life.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जीवाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.१।

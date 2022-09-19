@@ -33,7 +33,6 @@ and that the AV. order and readings are secondary.
 Who purifiest wind and mead and water.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उदऽपूः। असि। मधुऽपूः। असि। वातऽपूः। असि। ३.३७।

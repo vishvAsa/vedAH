@@ -8,7 +8,6 @@ title = "०१ अपेन्द्र प्राचो"
 Drive all our enemies away, O Indra, the western, mighty Con- queror, and the eastern, Hero, drive off our northern foes and southern, that we in thy wide shelter may be joyful.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अप। इन्द्र। प्राचः। मघऽवन्। अमित्रान‌्। अप। अपाचः। अभिऽभूते। नुदस्व। अप। उदीचः। अप। शूर। अधराचः। उरौ। यथा। तव। शर्मन्। मदेम। १२५.१।

@@ -8,7 +8,6 @@ title = "०८ वृषा न"
 He rushes through the region like a furious bull, he who hath made these floods the dames of worthy lords. This Maghavan hath found light for the man who brings oblation, sheds the juice, and promptly pours his gifts.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषा। न। क्रुध्दः। पतयत्। रजःऽसु। आ। यः। अर्यऽपत्नीः। अकृणोत्। इमाः। अपः। सः। सुन्वते। मघऽवा। जीरदानवे। ‍अविन्दत्। ज्योतिः। मनवे। हविष्मते। १७.८।

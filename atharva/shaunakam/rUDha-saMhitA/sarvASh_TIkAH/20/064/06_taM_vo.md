@@ -8,7 +8,6 @@ title = "०६ तं वो"
 We seeking glory, have invoked this Master of all power and' might. Who must be glorified by constant sacrifice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्‌। वः। वाजानाम्। पतिम्। अहूमहि। अवस्यवः। अप्रायुऽभिः। यज्ञेभिः। ववृधेन्यम्। ६४.६।

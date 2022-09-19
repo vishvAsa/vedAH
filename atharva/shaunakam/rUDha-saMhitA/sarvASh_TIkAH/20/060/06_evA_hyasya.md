@@ -8,7 +8,6 @@ title = "०६ एवा ह्यस्य"
 So are his lovely gifts: let laud be said and praise to Indra sung. That he may drink the Soma juice.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एव। हि। अस्य। काम्या। स्तोमः। उक्थम्। च। शंस्या। इन्द्राय। सोमऽपीतये। ६०.६।

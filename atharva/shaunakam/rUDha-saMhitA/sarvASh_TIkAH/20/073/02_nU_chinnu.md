@@ -8,7 +8,6 @@ title = "०२ नू चिन्नु"
 Never do men attain, O Wonder-worker, thy greatness, Mighty One who must be lauded, Nor, Indra, thine heroic power and bounty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नु। चित्। नु। ते। मन्यमानस्य। दस्म। उत्। अश्नुवन्ति। महिमानम्। उग्र। न। वीर्यम्। इन्द्र। ते। न। राधः। ७३.२।

@@ -8,7 +8,6 @@ title = "०५ कृतं न"
 As in the game a gambler piles his winnings, so Maghavan, sweeping all together, gained the Sun. This mighty deed of thine none other could achieve, none, Maghavan, before thee, none in recent time.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कृतम्। न। श्वऽघ्नी। वि। चिनोति। देवने। सम्ऽवर्गम्। यत्। मघऽवा। सूर्यम्। जयत्। न। तत्। ते। अन्यः। अनु। वीर्यम्। शकत्। न। पुराणः। मघऽवन्। न। उत। नूतनः। १७.५।

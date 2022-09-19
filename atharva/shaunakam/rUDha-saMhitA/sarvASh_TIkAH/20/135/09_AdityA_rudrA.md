@@ -8,7 +8,6 @@ title = "०९ आदित्या रुद्रा"
 Adityas, Rudras, Vasus, all pay worship unto thee. Accept this liberal gift, O Angiras, This bounty excellent and rich, this ample bounty spreading far.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आदित्याः। रुद्राः। वसव। त्वे। अनु। ते। इदम्। राधः। प्रति। गृभ्णीहि। अङ्गिरः। इदम्। राधः। विभु। प्रभु। इदम्। राधः। बृहत्। पृथु। १३५.९।

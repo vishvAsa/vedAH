@@ -24,7 +24,6 @@ as appears under vs. 2, which see.⌋
 Invest this Soma for long life, invest him for great hearing power. That I may lead him on to eld, that he may watch o'er hearing long.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 परि। इमम्। सोमम्। आयुषे। महे। श्रोत्राय। धत्तन। यथा। एनम्। जरसे। नयाम्। ज्योक्। श्रोत्रे। अधि। जागरत्। २४.३।

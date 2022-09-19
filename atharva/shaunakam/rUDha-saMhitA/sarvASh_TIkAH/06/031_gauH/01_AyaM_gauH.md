@@ -25,7 +25,7 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 
 <details open><summary>पदपाठः</summary>
 
-आ। अयम्। गौः। पृश्निः। अक्रमीत्। असदत्। मातरम्। पुरः। पितरम्। च। प्रऽयन्। स्वः। ३१.१।
+आ। अयम्। गौः। पृश्निः। अक्रमीत्। असदत्। मातरम्। पुरः। पितरम्। च। प्रऽयन्। स्वः᳡। ३१.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

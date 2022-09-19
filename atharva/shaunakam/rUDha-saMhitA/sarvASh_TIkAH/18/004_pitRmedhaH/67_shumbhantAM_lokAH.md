@@ -21,7 +21,6 @@ xviii. 3. 56.⌋
 Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphere which they inhabit.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शुम्भन्ताम्। लोकाः। पितृऽसदनाः। पितृऽसदने। त्वा। लोके। आ। सादयामि। ४.६७।

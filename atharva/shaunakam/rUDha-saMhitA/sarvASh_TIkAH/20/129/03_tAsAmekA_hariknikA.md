@@ -8,7 +8,6 @@ title = "०३ तासामेका हरिक्निका"
 One of them is Hariknika. Hariknika, what seekest thou? (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तासाम्। एका। हरिक्निका। १२९.३।

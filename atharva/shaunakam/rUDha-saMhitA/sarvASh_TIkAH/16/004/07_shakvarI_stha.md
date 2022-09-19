@@ -31,7 +31,6 @@ Old Anukr. is *prājāpatyo ha catuṣkaḥ:* see p. 792.⌋
 Mighty are ye, domestic creatures. May Mitra-Varuna stand beside me. May Agni give me inward and outward breath. May,he give me ability.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शक्वरीः। स्थ। पशवः। मा। उप। स्थेषुः। मित्रावरुणौ। मे। प्राणापानौ। अग्निः। मे। दक्षम्। दधातु। ४.७।

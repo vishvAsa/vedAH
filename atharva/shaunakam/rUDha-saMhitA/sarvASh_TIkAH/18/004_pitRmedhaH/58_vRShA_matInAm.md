@@ -43,7 +43,6 @@ evokto?*⌋
 Far-seeing he flows on, the Bull, the Lord of hymns, promoter of the Sun, of Days, of Dawns, of Heaven. Breath of the rivers he hath roared into the jars, and through his wisdom entered into Indra's heart.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वृषा। मतीनाम्। पवते। विऽचक्षणः। सूरः। अह्नाम्। प्रऽतरीता। उषसाम्। दिवः। प्राणः। सिन्धूनाम्। कलशान्। अचिक्रदत्। इन्द्रस्य। हार्दिम्। आऽविशन्। मनीषया। ४.५८।

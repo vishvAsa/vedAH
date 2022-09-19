@@ -7,7 +7,6 @@ title = "००२ आपः"
 2. Praise and prayer to the waters.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 आपः।  
@@ -18,8 +17,6 @@ title = "००२ आपः"
 
 [Sindhudvīpa.—pañcarcam. āpyam. ānuṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 259.
 
 A hymn to all waters
 </details>
+

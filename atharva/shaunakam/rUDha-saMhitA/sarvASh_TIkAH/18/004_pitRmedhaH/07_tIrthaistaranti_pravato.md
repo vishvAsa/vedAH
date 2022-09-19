@@ -26,7 +26,6 @@ above, or RV. x. 14. 1. Pischel renders the vs., *Ved. Stud.* ii. 74.⌋
 They ford the mighty rivers by the pathway which they who sacrifice, the righteous, travel. There they gave room unto the sacrificer when they made regions and existing creatures.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तीर्थैः। तरन्ति। प्रऽवतः। महीः। इति। यज्ञऽकृतः। सुऽकृतः। येन। यन्ति। अत्र। अदधुः। यजमानाय। लोकम्। दिशः। भूतानि। यत्। अकल्पयन्त। ४.७।

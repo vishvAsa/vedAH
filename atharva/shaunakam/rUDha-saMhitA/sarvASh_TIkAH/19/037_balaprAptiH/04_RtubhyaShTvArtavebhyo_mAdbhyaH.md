@@ -39,7 +39,6 @@ lock-jaw,' not applicable here: cf. viii. 1. 16.⌋
 With Seasons and with Season-groups, for vigour and extended life. With splendour of the perfect year we fasten thee about the neck.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋतुऽभ्यः। त्वा। आर्तवेभ्यः। मात्ऽभ्यः। सम्ऽवत्सरेभ्यः। धात्रे। विऽधात्रे। सम्ऽऋधे। भूतस्य। पतये। यजे। ३७.४।

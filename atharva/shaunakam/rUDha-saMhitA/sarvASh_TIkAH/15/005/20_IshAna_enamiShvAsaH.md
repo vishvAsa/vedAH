@@ -14,7 +14,6 @@ from all the intermediate directions; not śarva, ⌊not Bhava, not Īśāna,
 Isana the Archer, a deliverer, delivers him from all the intermediate regions. Neither Sarva nor Bhava, nor Isana 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ईशानः। एनम्। इषुऽआसः। सर्वेभ्यः। अन्तःऽदेशेभ्यः। अनुऽस्थाता। अनु। तिष्ठति। न। एनम्। शर्वः। न। भवः। न। ईशानः। ५.१५।

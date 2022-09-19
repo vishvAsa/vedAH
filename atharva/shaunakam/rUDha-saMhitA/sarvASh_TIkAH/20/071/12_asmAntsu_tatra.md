@@ -8,7 +8,6 @@ title = "१२ अस्मान्त्सु तत्र"
 O Indra, stimulate thereto us emulously fain for wealth. And glorious, O most splendid One.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्मान्। सु। तत्र। चोदय। इन्द्र। राये। रभस्वतः। तुविऽद्युम्न। यशस्वतः। ७१.१२।

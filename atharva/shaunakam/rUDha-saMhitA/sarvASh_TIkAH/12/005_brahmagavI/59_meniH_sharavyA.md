@@ -19,7 +19,7 @@ Become a bolt, an arrow through his sin, be terribly venomous.
 
 <details open><summary>पदपाठः</summary>
 
-मेनिः। शरव्या। भव। अघात्। अघऽविषा। भव। १०.१३।
+मेनिः। शरव्या᳡। भव। अघात्। अघऽविषा। भव। १०.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

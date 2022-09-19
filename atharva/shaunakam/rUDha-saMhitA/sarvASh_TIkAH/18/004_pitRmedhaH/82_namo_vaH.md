@@ -17,7 +17,6 @@ to your fury.
 Hail Father; to your wrath! Hail, Fathers, to your ardour!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नमः। वः। पितरः। भामाय। नमः। वः। पितरः। मन्यवे। ४.८२।

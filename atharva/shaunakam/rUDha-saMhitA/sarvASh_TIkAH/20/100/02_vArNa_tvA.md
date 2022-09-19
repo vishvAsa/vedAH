@@ -8,7 +8,6 @@ title = "०२ वार्ण त्वा"
 As rivers swell the ocean, so, Hero, our prayers increase thy might, Though of thyself, O Thunderer, waxing day by day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वाः। न। त्वा। यव्याभिः। वर्धन्ति। शूर। ब्रह्माणि। ववृध्वांसम्। चित्। आद्रिऽवः। दिवेऽदिवे। १००.।

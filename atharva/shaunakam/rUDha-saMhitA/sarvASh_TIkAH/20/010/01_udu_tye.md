@@ -8,7 +8,6 @@ title = "०१ उदु त्ये"
 These songs of ours exceeding sweet, these hymns of praise as- cend to thee, Like ever-conquering chariots that display their strength, gain wealth and give unfailing aid.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ऊं इति। त्ये। मधुमत्ऽतमाः। गिरः। स्तोमासः। ईरते। सत्राजितः। धनऽसाः। अक्षितऽऊतयः। वाजऽयन्तः। रथाःऽइव। १०.१।

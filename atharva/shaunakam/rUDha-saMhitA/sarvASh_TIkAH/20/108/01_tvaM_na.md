@@ -8,7 +8,6 @@ title = "०१ त्वं न"
 O Indra, bring great strength to us, bring valour, Satakratu, thou most active, bring. A hero conquering in war.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। नः। इन्द्र। आ। भर। ओजः। नृम्णम्। शतक्रतो इति शतऽक्रतो। विऽचर्षणे। आ। वीरम्। पृतनाऽसहम्। १०८.१।

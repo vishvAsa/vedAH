@@ -35,7 +35,6 @@ accent ⌊so as to read⌋ *sumedhā́s*. \*⌊The Anukr. would scan as 6 + 8: 8
 Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your way, strength-giving, invocated: may I be vigor- ous and wise.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मा। नः। आपः। मेधाम्। मा। ब्रह्म। प्र। मथिष्टन। सुऽस्यदाः। यूयम्। स्यन्दध्वम्। उपऽहूतः। अहम्। सुऽमेधाः। वर्चस्वी। ४०.२।

@@ -8,7 +8,6 @@ title = "०४ वच्यस्व रेभ"
 Glut thee, O Singer, glut thee like a bird on a ripe-fruited tree. Thy lips and tongue move swiftly like the sharp blades of a pair of shears.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वच्यस्व। रेभ। वच्यस्व। वृक्षे। न। पक्वे। शकुनः। नष्टे। जिह्वा। चर्चरीति। क्षुरः। न। भुरिजोः। इव। १२७.४।

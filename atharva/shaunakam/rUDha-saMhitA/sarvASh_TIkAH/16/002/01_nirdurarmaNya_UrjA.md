@@ -29,10 +29,9 @@ resolution *-ṇí-a*.
 Away from distasteful food, strength and sweet speech,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-निः। दुःऽअर्मण्यः। ऊर्जा। मधुऽमती। वाक्। २.१।
+निः। दुःऽअर्मण्यः᳡। ऊर्जा। मधुऽमती। वाक्। २.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -62,3 +61,4 @@ Away from distasteful food, strength and sweet speech,
 
 टिप्पणी:   १−(निः) बहिर्भवतु (दुरर्मण्यः)सर्वधातुभ्यो मनिन्। उ० ४।१४५। दुः+ऋ गतिप्रापणयोः-मनिन्। ऋन्नेभ्यो ङीप्। पा०४।१।५। इति ङीप्, पञ्चमीरूपम्। दुरर्मण्याः। दुर्गतेः (ऊर्जा) ऊर्जबलप्राणनयोः-क्विप्। शक्त्या (मधुमती) ज्ञानवती (वाक्) वाणी ॥
 </details>
+

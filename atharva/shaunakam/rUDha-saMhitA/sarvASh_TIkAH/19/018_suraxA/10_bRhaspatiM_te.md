@@ -21,7 +21,6 @@ the meters as defined can be made out.
 Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve Devas.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 बृहस्पतिम्। ते। विश्वदेवऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। ऊर्ध्वायाः। दिशः। अभिऽदासात्। १८.१०।

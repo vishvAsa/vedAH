@@ -8,7 +8,6 @@ title = "०१ उदु ब्रह्माण्यैरत"
 Prayers have been offered up through love of glory: Vasishtha, honour Indra in the battle. He who with might extends through all existence hears words which I, his faithful servant, utter.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। ऊं इति  ब्रह्माणि। ऐरत। श्रवस्या। इन्द्रम्। समर्ये। महय। वसिष्ठ। आ। यः। विश्वानि। शवसा। ततान। उपऽश्रोता। मे। ईवतः। वचांसि। १२.१।

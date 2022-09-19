@@ -8,7 +8,6 @@ title = "१० गोभिष्टरेमामतिं दुरेवा
 O much-invoked, may we subdue all famine and evil want with store of grain and cattle. May we allied, as first in rank, with princes,:obtain possessions by our own exertion
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 गोभिः। तरेम। अमतिम्। दुःऽएवाम्। यवेन। वा। क्षुधम्। पुरुऽहूत। विश्वे। वयम्। राजऽसु। प्रथमाः। धनानि। अरिष्टासः। वृजनीभिः। जयेम। ८९.१०।

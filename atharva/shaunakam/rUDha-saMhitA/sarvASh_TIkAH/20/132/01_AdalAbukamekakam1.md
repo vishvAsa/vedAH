@@ -8,7 +8,6 @@ title = "०१ आदलाबुकमेककम्१"
 Then too the single bottle-gourd, the bottle-gourd dug from the earth,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आत्। अलाबुकम्। एककम्। १३२.१।

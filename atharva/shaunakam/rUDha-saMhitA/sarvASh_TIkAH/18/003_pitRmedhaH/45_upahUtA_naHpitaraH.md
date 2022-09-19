@@ -24,7 +24,6 @@ Kāuś. and Vāit. is the same as that of vs. 44. The comm. glosses
 May they, the Fathers who deserve the Soma, invited to their favourite oblations. Laid on the sacred grass, come nigh and listen. May they be gracious unto us and bless us.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उपऽहूताः। नः। पितरः। सोम्यासः। बर्हिष्येषु। निऽधिषु। प्रियेषु। ते। आ। गमन्तु। ते। इह। श्रुवन्तु। ‍ अधि। ब्रुवन्तु। ते। अवन्तु। अस्मान्। ३.४५।

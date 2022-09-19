@@ -8,7 +8,6 @@ title = "१८ नि येन"
 By means of which we may repel our foes in battle hand to hand. By thee assisted with the car.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 नि। येन। मुष्टिऽहत्यया। नि। वृत्रा। रुणधामहै। त्वाऽऊतासः। नि। अर्वता। ७०.१८।

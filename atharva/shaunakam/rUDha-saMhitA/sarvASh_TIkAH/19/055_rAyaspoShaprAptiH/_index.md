@@ -7,7 +7,6 @@ title = "०५५ रायस्पोषप्राप्तिः"
 55. To Agni.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 रायस्पोषप्राप्तिः।  
@@ -18,8 +17,6 @@ title = "०५५ रायस्पोषप्राप्तिः"
 
 [Bhṛgu.—ṣaḍṛcam. āgneyam. trāiṣṭubham: 2. āstārapan̄kti; 5 ⌊i.e. 5 and 6 a, b of the Berlin ed.⌋. 3-av. 5-p. purastājjyotiṣmatī.] ⌊of 6 (= 6 c, d, 7 a, b of Berlin ed.), the definition is lacking: see my note to vs. 6.⌋
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Ludwig, p. 363; Griffith, ii. 312.
 
 A hymn to Agni for protection and prosperity
 </details>
+

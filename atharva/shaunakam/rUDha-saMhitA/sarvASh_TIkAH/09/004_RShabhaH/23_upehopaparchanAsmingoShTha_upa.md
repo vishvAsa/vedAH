@@ -27,7 +27,7 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 
 <details open><summary>पदपाठः</summary>
 
-उप। इह। उपऽपर्चन। अस्मिन्। गोऽस्थे। उप। पृञ्च। नः। उप। ऋषभस्य। यत्। रेतः। उप। इन्द्र। तव। वीर्यम्। ४.२४।
+उप। इह। उपऽपर्चन। अस्मिन्। गोऽस्थे। उप। पृञ्च। नः। उप। ऋषभस्य। यत्। रेतः। उप। इन्द्र। तव। वीर्य᳡म्। ४.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

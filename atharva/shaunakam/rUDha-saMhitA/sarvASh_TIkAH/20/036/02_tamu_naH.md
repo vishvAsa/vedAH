@@ -8,7 +8,6 @@ title = "०२ तमु नः"
 Our ancient sires, Navagvas, sages seven, while urging him to show his might, extolled him, Dweller on heights, swift smiting down opponents, guileless in word, and in his thoughts most mighty.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। ऊं इति। नः। पूर्वे। पितरः। नवऽग्वाः। सप्त। विप्रासः। अनि। वाजयन्तः। नक्षत्ऽदाभम्। ततुरिम्। पर्वतेऽस्थाम्। अद्रोघऽवाचम्। मतिऽभिः। शविष्ठम्। ३६.२।

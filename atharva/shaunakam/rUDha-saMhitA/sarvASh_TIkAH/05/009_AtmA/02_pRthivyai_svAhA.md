@@ -21,7 +21,6 @@ All hail to Earth!
 पृथिव्यै। स्वाहा। ९.२।
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पृथिव्यै। स्वाहा। ९.२।

@@ -32,7 +32,6 @@ Prakrit-sprachen*, §83.⌋
 Three vaults of heaven, and three seas, three bright, three stationary ones, Three Matarisvans, and three suns, protectors, I arrange for thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्रीन्। नाकान्। त्रीन्। समुद्रान्। त्रीन्। ब्रध्नान्। त्रीन्। वैष्टपान्। त्रीन्। मातरिश्वनः। त्रीन्। सूर्यान्। गोप्तॄन्। कल्पयामि। ते। २७.४।

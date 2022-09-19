@@ -8,7 +8,6 @@ title = "२२ अस्थिभ्यस्ते मज्जभ्यः"
 From every member, every hair, disease that comes in every joint, From all thyself, from top to toe, I drive thy malady away.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अस्थिभ्यः। ते। मज्जऽभ्यः। स्नावऽभ्यः। धमनिऽभ्यः। यक्ष्मम्। पाणिऽभ्याम्। अङ्गुलिऽभ्यः। नखेभ्यः। वि। वृहामि। ते। ९६.२२।

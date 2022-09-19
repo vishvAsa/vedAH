@@ -8,7 +8,6 @@ title = "०४ तम्वभि प्र"
 Sing forth to him whom many men invoke, to him whom many laud: Invite the potent Indra with your songs of praise;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तम्। ऊं इति। अभ‍ि। प्र। गायत। पुरुऽहूतम्। पुरुस्तुतम्। इन्द्रम्। गीऽभिः। तविषम्। आ। विवासत। ६१.४।

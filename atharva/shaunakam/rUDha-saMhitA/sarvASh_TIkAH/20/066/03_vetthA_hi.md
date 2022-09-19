@@ -8,7 +8,6 @@ title = "०३ वेत्था हि"
 Thou knowest, Indra, thunder-armed, how to avoid destructive Powers, As one secure from pitfalls each succeeding day.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 वेत्थ। हि। निःऽऋतीनाम्। वज्रऽहस्त। ‍ परिऽवृजम्। अहःऽअहः। शुन्ध्युः। परिपदाम्ऽइव। ६६.३।

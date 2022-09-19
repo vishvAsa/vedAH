@@ -8,7 +8,6 @@ title = "१७ एन्द्र सानसिम्"
 Indra, bring wealth that gives delight, the victor's ever-conquer- ing wealth, Most excellent, to be our aid;
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। इन्द्र। सानसिम्। रयिम्। सऽजित्वानम्। सदासऽहम्। वर्षिष्ठम्। ऊतये। भर। ७०.१७।

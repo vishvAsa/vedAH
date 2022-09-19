@@ -16,7 +16,6 @@ title = "०२ रुजन् परिरुजन्"
 Breaking, breaking down, crushing, crushing to pieces,
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 रुजन्। परिऽरुजन्। मृणन्। प्रऽमृणन्। १.२।

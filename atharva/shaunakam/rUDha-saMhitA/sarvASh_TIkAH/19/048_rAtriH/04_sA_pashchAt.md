@@ -17,7 +17,6 @@ below; do thou guard us, O shining one; here we are, thy praisers.
 So guard thou us from west and east, protect us from the north and south. O splendid One, preserve us: we, the singers of thy praise, are here.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सा। पश्चात्। पाहि। सा। पुरः। सा। उत्तरात्। अधरात्। उत। गोपाय। नः। विभावरि। स्तोतारः। ते। इह। स्मसि। ४८.४।

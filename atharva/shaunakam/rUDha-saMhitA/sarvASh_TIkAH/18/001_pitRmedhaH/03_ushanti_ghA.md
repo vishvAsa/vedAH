@@ -26,10 +26,9 @@ utpattim*. ⌊Cf. Weber, *Sb.*, p. 824.⌋
 Yea, this the Immortals seek of thee with longing, a scion of the only man existing. Then let thy soul and mine be knit together. Embrace thy con- sort as her loving husband.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-उशन्ति। घ। ते। अमृतासः। एतत्। एकस्य। चित्। त्यजसम्। मर्त्यस्य। नि। ते। मनः। मनसि। धायि। अस्मे इति। जन्युः। पतिः। तन्वम्। आ। विविश्याः। १.३।
+उशन्ति। घ। ते। अमृतासः। एतत्। एकस्य। चित्। त्यजसम्। मर्त्यस्य। नि। ते। मनः। मनसि। धायि। अस्मे इति। जन्युः। पतिः। तन्व᳡म्। आ। विविश्याः। १.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

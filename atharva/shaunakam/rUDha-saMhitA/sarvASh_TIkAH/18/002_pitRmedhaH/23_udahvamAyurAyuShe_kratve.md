@@ -25,7 +25,6 @@ this, I have failed to note it.
 I have recalled thy life to life, to being, power, and energy. Let thy soul go unto its own: so to the Fathers hasten thou.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 उत्। अह्वम्। आयुः। आयुषे। क्रत्वे। दक्षाय। जीवसे। स्वान्। गच्छतु। ते। मनः। अध। पितॄन्। उप। द्रव। २.२३।

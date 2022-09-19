@@ -8,7 +8,6 @@ title = "०३ इन्द्रेण रोचना"
 By Indra were the luminous realms of heaven established and secured. Firm and immovable in their place.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रेण। रोचना। दिवः। दृह्लानि। दृंहितानि। च। स्थिराणि। न। पराऽनुदे। २८.३।

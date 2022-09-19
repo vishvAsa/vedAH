@@ -7,7 +7,6 @@ title = "००५ जगतो राजा"
 5. Praise and prayer to Indra.
 </details>
 
-
 <details><summary>VH anukramaṇī</summary>
 
 जगतो राजा  
@@ -18,8 +17,6 @@ title = "००५ जगतो राजा"
 
 [Atharvān̄giras (?).—ekarcam. āindram. trāiṣṭubham.]
 </details>
-
-
 
 <details><summary>Whitney</summary>
 
@@ -35,3 +32,4 @@ Translated: Griffith, ii. 261; also by the RV. translators.
 
 A prayer for riches
 </details>
+

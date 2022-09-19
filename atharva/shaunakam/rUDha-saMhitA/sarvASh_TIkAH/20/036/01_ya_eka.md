@@ -8,7 +8,6 @@ title = "०१ य एक"
 With these my hymns I glorify that Indra who is alone to be invoked by mortals. The Lord, the Mighty One, of manly vigour, victorious, Hero, true, and full of wisdom.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यः। एकः। इत्। हव्यः। चर्षणीनाम्। इन्द्रम्। तम्। गीऽभिः। अभि। अर्चे। आभिः। यः। पत्यते। वृषभः। वृष्ण्यऽवान्। सत्यः। सत्वा। पुरुऽमायः। सहस्वान्। ३६.१।

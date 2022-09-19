@@ -8,7 +8,6 @@ title = "०१ आ तू"
 Invoked to drink the Soma juice come with thy bay steeds, Thunder-armed! Come, Indra, hitherward, to me.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। तु। नः। इन्द्र। मद्र्यक्। हुवानः। सोमऽपीतये। हरिऽभ्याम्। याहि। अद्रिऽवः। २३.१।

@@ -25,7 +25,6 @@ separately.
 Rudras and Vasus favour us, Adityas, Agnis favour us! Favour us mighty Rishis, Gods, Goddesses, and Brihaspati!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शम्। रुद्राः। शम्। वसवः। शम्। आदित्याः। शम्। अग्नयः। शम्। नः। महऽऋषयः। देवाः। शम्। देवाः। शम्। बृहस्पतिः। ९.११।

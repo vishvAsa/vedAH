@@ -16,7 +16,6 @@ title = "०७ तस्य व्रात्यस्य"
 His seventh diffused breath is the year.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्य। व्रात्यस्य। यः। अस्य। सप्तमः। विऽआनः। सः। सम्ऽवत्सरः। १७.७।

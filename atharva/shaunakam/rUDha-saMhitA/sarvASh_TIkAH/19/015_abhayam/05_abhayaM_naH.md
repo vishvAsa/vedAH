@@ -22,7 +22,6 @@ gets the value 'south' by antithesis to *uttara* 'north.' The verse (11
 May air's mid-region give us peace and safety, safety may both these, Heaven and Earth, afford us. Security be ours from west, from eastward, from north and south may we be free from danger.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अभयम्। नः। करति। अन्तरिक्षम्। अभयम्। द्यावापृथिवी इति। उभे इति। इमे  इति। अभयम्। पश्चात्। अभयम्। पुरस्तात्। उत्ऽतरात्। अधरात्। अभयम्। नः। अस्तु। १५.५।

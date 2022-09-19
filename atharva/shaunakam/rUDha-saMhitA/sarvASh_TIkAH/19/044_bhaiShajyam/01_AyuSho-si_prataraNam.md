@@ -32,7 +32,6 @@ which is too corrupt to be of any assistance.
 Thou art the lengthening of life, thy name is Universal Cure: Then, Ointment! send felicity; Waters, send happiness and peace.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आयुषः। असि। प्रऽतरणम्। विप्रम्। भेषजम्। उच्यसे। तत्। आऽअञ्जन। त्वम्। शम्ऽताते। शम्। आपः। अभयम्। कृतम्। ४४.१।

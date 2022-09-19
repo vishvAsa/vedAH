@@ -37,7 +37,6 @@ good *pan̄kti*, as defined by the Anukr.
 Indra hath lent the power of sight, and vital breath and strength to this. Whom even a hundred combatants, striking, have failed to over- come. Invincible, let it guard thee well.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतम्। च। न। प्रऽहरन्तः। निऽघ्नन्तः। न। तस्तिरे। तस्म‍िन्। इन्द्रः। परि। अदत्त। चक्षुः। प्राणम्। अथो इति। बलम्। अस्तृतः। त्वा। अभि। रक्षतु। ४६.३।

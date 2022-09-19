@@ -19,10 +19,9 @@ The comm. takes *aktúbhis* in its sense of 'night.' Ppp. reads
 Do thou, O Indra, for our great good fortune, with thine in- violable rays protect us. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। इन्द्रः। महते। सौभगाय। अदब्धेभिः। परि। पाहि। अक्तुऽभिः। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.९।
+त्वम्। नः। इन्द्रः। महते। सौभगाय। अदब्धेभिः। परि। पाहि। अक्तुऽभिः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

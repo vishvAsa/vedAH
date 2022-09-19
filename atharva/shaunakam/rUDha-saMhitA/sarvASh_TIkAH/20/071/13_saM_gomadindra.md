@@ -8,7 +8,6 @@ title = "१३ सं गोमदिन्द्र"
 Give, Indra, wide and lofty fame, wealthy in cattle and in strength, Lasting our life-time, failing not.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 सम्। गोऽमत्। इन्द्र। वाजऽवत्। अस्मे इति। पृथु। श्रवः। बृहत्। विश्वऽआयुः। धेहि। अक्षितम्। ७१.१३।

@@ -8,7 +8,6 @@ title = "१२ अर्भको न"
 He, yet a boy exceeding small, mounted his newly-fashioned car. He for his Mother and his Sire cooked the wild mighty buffalo.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अर्भकः। न। कुमारकः। अधि। तिष्ठत्। नवम्। रथम्। सः। पक्षत्। महिषम्। मृगम्। पित्रे। मात्रे। विभुऽक्रतुम्। ९२.१२।

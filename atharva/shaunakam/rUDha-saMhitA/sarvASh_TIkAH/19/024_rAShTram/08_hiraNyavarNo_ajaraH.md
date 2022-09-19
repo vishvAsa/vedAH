@@ -23,7 +23,6 @@ reads in **a** *ajayas suv-*.
 Gold-coloured, undecaying, blest with heroes, dwell, dying in old age, with children round thee. This is the spoken word of Agni, Soma, Brihaspati and Savitar, and Indra.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 हिरण्यऽवर्णः। अजरः। सुऽवीरः। जराऽमृत्युः। प्रऽजया। सम्। विशस्व। तत्। अग्निः। आह। तत्। ऊं इति। सोमः। आह। बृहस्पतिः। सविता। तत्। इन्द्रः। २४.८।

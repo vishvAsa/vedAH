@@ -28,7 +28,6 @@ remark.⌋
 For lengthened life I bind on thee the Darbha grass, the mighty plant. Excellent, hard to overthrow, with hundred stems and thousand blades.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शतऽकाण्डः। दुःऽच्यवनः। सहस्रऽपर्णः। उत्ऽतिरः। दर्भः। यः। उग्रः। ओषधिः। तम्। ते। बध्नामि। आयुषे। ३२.१।

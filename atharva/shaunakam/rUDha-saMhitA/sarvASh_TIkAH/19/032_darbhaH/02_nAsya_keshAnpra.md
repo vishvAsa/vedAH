@@ -27,7 +27,6 @@ very bad.
 They cut not off his hair, they strike blow upon the breast for' him. To whom one gives protection by Darbha that hath uninjured leaves.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। अस्य। केशान्। प्र। वपन्ति। न। उरसि। ताडम्। आ। घ्नते। यस्मै। अच्छिन्नऽपर्णेन। दर्भेण। शर्म। यच्छति। ३२.२।

@@ -23,10 +23,9 @@ by number of syllables, but very irregular in structure (8 + 10: 13 +
 Thou art the vanquisher of all, O Indra, omniscient Indra, and invoked of many. Indra, send forth this hymn that fitly lauds thee. Favour us let thy gracious love attend us. Manifold are thy great deeds, thine, O Vishnu.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। असि। विश्वऽजित्। सर्वऽजित्। पुरुऽहूतः। त्वम्। इन्द्र। त्वम्। इन्द्र। इमम्। सुऽहवम्। स्तोमम्। आ। ईरयस्व। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्याणि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.११।
+त्वम्। इन्द्र। असि। विश्वऽजित्। सर्वऽजित्। पुरुऽहूतः। त्वम्। इन्द्र। त्वम्। इन्द्र। इमम्। सुऽहवम्। स्तोमम्। आ। ईरयस्व। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

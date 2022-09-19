@@ -8,7 +8,6 @@ title = "०४ स्रुवेव यस्य"
 His yellow-coloured jaws, like ladles, move apart, what time,. for strength, he makes the yellow-tinted stir, When. while the bowl stands there, he grooms his tawny steeds, when he hath drunk strong drink, the sweet juice that he: loves.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 स्रुवाऽइव। यस्‍य। हरिणी इति। विऽपेततुः। शिप्रे इति। वाजाय। हरिणी इति। ‍ दविध्वतः। प्र। यत्। कृते। चमसे। मर्मृजत्। हरी इति। पीत्वा। मदस्य। हर्यतस्य। अन्धसः। ३१.४।

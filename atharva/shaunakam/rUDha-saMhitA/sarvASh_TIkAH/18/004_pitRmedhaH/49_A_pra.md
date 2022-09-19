@@ -46,7 +46,6 @@ misplaced: see p. 1016.⌋
 Depart ye two: wipe ye away whatever omens of evil fortune here have told you. Go from this man, both Steers, to him who wills it: ye are my joys here by the giver's Fathers.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 आ। प्र। च्यवेथाम्। अप। तत्। मृजेथाम्। यत्। वाम्। अभिऽभाः। अत्र। ऊचुः। अस्मात्। आ। इतम्। अघ्न्यौ। तत्। वशीयः। दातुः। पितृषु। इहऽभोजनौ। मम। ४.४९।

@@ -20,7 +20,6 @@ and note to xviii. 3. 47.⌋
 To the Rishis, Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ऋषिऽभ्यः। स्वाहा। २२.१४।

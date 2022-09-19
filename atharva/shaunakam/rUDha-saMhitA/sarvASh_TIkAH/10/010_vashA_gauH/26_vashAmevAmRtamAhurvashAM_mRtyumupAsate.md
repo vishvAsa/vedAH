@@ -22,7 +22,7 @@ They call the Cow immortal life, pay homage to the Cow as Death. She hath become
 
 <details open><summary>पदपाठः</summary>
 
-वशाम्। एव। अमृतम्। आहुः। वशाम्। मृत्युम्। उप। आसते। वशा। इदम्। सर्वम्। अभवत्। देवाः। मनुष्याः। असुराः। पितरः। ऋषयः। १०.२६।
+वशाम्। एव। अमृतम्। आहुः। वशाम्। मृत्युम्। उप। आसते। वशा। इदम्। सर्वम्। अभवत्। देवाः। मनुष्याः᳡। असुराः। पितरः। ऋषयः। १०.२६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

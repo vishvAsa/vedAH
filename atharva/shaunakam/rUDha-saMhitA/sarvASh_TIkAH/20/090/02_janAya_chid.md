@@ -8,7 +8,6 @@ title = "०२ जनाय चिद्"
 Brihaspati who made for such a people wide room and verge when Gods were invocated-- Slaying his foe he breaketh down their cattles, quelling his enemies and those who hate him.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 जनाय। चित्। वः। ईवते। ऊं इति। लोकम्। बृहस्पतिः। देवऽहूतौ। चकार। घ्नन्। वृत्राणि। वि। पुरः। दर्दरीति। जयन्। शत्रून्। अमित्रान्। पृत्सु। सहन्। ९०.२।

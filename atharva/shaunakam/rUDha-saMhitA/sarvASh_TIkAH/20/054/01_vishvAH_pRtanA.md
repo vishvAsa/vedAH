@@ -8,7 +8,6 @@ title = "०१ विश्वाः पृतना"
 Of one accord they made and formed for kingship Indra, the Hero who in all encounters overcometh, Most eminent for power, destroyer in the conflict, fierce and exceeding strong, stalwart and full of vigour.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 विश्वाः। पृतनाः। अभिऽभूतरम्। नरम्। सऽजूः। ततक्षुः। इन्द्रम्। जजनुः। च। राजसे। क्रत्वा। वरिष्ठम्। वरे। आऽमुरिम्। उत। उग्रम्। ओजिष्ठम्। तवसम्। तरस्विनम्। ५४.१।

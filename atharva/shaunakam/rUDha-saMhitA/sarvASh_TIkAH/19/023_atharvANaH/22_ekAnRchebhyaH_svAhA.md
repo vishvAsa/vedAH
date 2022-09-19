@@ -21,7 +21,6 @@ of anything better.
 Hail to the single non-Rich-versed ones!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 एकऽअनृचेभ्यः। स्वाहा। २३.२२।

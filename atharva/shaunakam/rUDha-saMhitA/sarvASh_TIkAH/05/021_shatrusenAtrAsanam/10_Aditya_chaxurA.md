@@ -23,7 +23,7 @@ Aditya, take their sight away! Follow them close, ye motes of light. Let them cl
 
 <details open><summary>पदपाठः</summary>
 
-आदित्य। चक्षुः। आ। दत्स्व। मरीचयः। अनु। धावत। पत्ऽसङ्गिनीः। आ। सजन्तु। विऽगते। बाहुऽवीर्ये। २१.१०।
+आदित्य। चक्षुः। आ। दत्स्व। मरीचयः। अनु। धावत। पत्ऽसङ्गिनीः। आ। सजन्तु। विऽगते। बाहुऽवीर्ये᳡। २१.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

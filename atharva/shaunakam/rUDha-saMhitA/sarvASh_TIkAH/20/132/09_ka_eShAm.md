@@ -8,7 +8,6 @@ title = "०९ क एषाम्"
 Who among these will beat the drum? How, if he beat it, will he beat?
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 कः। एषाम्। दुन्दुभिम्। हनत्। १३२.९।

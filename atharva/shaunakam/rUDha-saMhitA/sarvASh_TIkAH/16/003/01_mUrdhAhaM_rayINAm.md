@@ -22,7 +22,6 @@ hymns.
 I am the head of riches. Fain would I be the head of mine equals.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 मूर्धा। अहम्। रयीणाम्। मूर्धा। समानानाम्। भूयासम्। ३.१।

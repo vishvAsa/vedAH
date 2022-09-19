@@ -39,7 +39,6 @@ verse, the comm. reads *sammitāya*.
 Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is worship, lengthened rite, the Rishis who pay sacrifice, the victim's Immolators. Hail!
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 ब्रह्म। स्रुचः। घृतऽवतीः। ब्रह्मणा। वेदिः। उद्धिता। ब्रह्म। यज्ञस्य। तत्त्वम्। च। ऋत्विजः। ये। हविःऽकृतः। शमिताय। स्वाहा। ४२.२।

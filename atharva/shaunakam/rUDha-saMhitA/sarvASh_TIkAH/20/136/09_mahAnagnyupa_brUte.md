@@ -8,7 +8,6 @@ title = "०९ महानग्न्युप ब्रूते"
 Arnica eum alloquitur: Fauste infixus est penis; arboris fructu celeriter fruamur.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 महान्। अग्नी इति। उप। ब्रूते। स्वसा। आऽवेशितम्। पसः। इत्थम्। फलस्य। वृक्षस्य। शूर्पे। शूर्पम्। भजेमहि। १३६.९।

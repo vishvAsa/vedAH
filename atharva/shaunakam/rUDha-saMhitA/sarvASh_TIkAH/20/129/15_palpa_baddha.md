@@ -8,7 +8,6 @@ title = "१५ पल्प बद्ध"
 Barley and ripened rice I seek. On rice and barley hast thou fed, (with next verse)
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पल्प। बद्ध। वयः। इति। १२९.१५।

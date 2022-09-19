@@ -33,7 +33,6 @@ to call it *bhurij*.
 They balm him, balm him over, balm him thoroughly, caress the mighty power and balm it with the mead, They seize the flying steer at the stream's breathing-place: cleansing with gold they grasp the animal herein.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अञ्जते। वि। अञ्जते। सम्। अञ्जते। क्रतुम्। रिहन्ति। मधुना। अभि। अञ्जते। सिन्धोः। उत्ऽश्वासे। पतयन्तम्। उक्षणम्। हिरण्यऽपावाः। पशुम्। आसु। गृह्णते। ३.१८।

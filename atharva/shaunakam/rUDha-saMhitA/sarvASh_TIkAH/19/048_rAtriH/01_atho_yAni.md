@@ -44,7 +44,6 @@ house or the like (*parito naddhe pariśrite gṛhādāu*).
 Then all that we accumulate, all that the treasure-chest contains,. All this do we entrust to thee.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 अथो इति। यानि। च। यस्मै। ह। यानि। च। अन्तः। परिऽणहि। तानि। ते। परि। दद्मसि। ४८.१।

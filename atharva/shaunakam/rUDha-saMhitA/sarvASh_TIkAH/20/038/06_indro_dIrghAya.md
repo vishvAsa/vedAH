@@ -8,7 +8,6 @@ title = "०६ इन्द्रो दीर्घाय"
 Indra hath raised the Sun aloft in heaven that he may see afar. He burst the mountain for the kine.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रः। दीर्घाय। चक्षसे। आ। सूर्यम्। रोहयत्। दिवि। वि। गोभिः। अद्रिम्। ऐरयत्। ३८.६।

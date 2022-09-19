@@ -28,7 +28,6 @@ we scan the vs. as 5 × 11.⌋
 Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I bind thee on for increase of possessions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 पुष्टिः। असि। पुष्ट्या। मा। सम्। अङ्ग्धि। गृहऽमेधी। गृहऽपतिम्। मा। कृणु। औदुम्बरः। सः। त्वम्। अस्मासु। धेहि। रयिम्। च। नः। सर्वऽवीरम्। नि। यच्छ। रायः। पोषाय। प्रति। मुञ्चे। अहम्। त्वाम्। ३१.१३।

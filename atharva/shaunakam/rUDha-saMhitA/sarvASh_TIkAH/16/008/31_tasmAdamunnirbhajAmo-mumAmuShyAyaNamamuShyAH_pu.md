@@ -15,7 +15,6 @@ mother, who is yonder;
 --from all share herein we exclude Such-as-one, descendant of Such- an-one, son of Such-a-woman. 
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 तस्मात्। अमुम्। निः। भजामः। अमुम्। आमुष्यायणम्। अमुष्याः। पुत्रम्। असौ। यः। ८.३१।

@@ -22,7 +22,7 @@ The hosts of Gods are her entrails, man are her bowels, and demons her abdomen.
 
 <details open><summary>पदपाठः</summary>
 
-देवऽजनाः। गुदाः। मनुष्याः। आन्त्राणि। अत्राः। उदरम्। १२.१६।
+देवऽजनाः। गुदाः। मनुष्याः᳡। आन्त्राणि। अत्राः। उदरम्। १२.१६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

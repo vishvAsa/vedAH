@@ -22,7 +22,7 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 
 <details open><summary>पदपाठः</summary>
 
-सम्। वः। पृच्यन्ताम्। तन्वः। सम्। मनांसि। सम्। ऊं इति। व्रता। सम्। वः। अयम्। ब्रह्मणः। पतिः। भगः। सम्। वः। अजीगमत्। ७४.१।
+सम्। वः। पृच्यन्ताम्। तन्वः᳡। सम्। मनांसि। सम्। ऊं इति। व्रता। सम्। वः। अयम्। ब्रह्मणः। पतिः। भगः। सम्। वः। अजीगमत्। ७४.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

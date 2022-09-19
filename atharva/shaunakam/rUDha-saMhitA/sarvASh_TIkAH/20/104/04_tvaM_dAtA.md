@@ -8,7 +8,6 @@ title = "०४ त्वं दाता"
 Thou art the best of all in sending bounteous gifts, true art thou,. lordly in thine act. We claim alliance with the very Glorious One, yea, with the- mighty Son of Strength.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वम्। दाता। प्रथमः। राधसाम्। असि। असि। सत्यः। ईशानऽकृत्। तुविऽद्युम्नस्य। युज्या। आ। वृणीमहे। पुत्रस्य। शवसः। महः। १०४.४।

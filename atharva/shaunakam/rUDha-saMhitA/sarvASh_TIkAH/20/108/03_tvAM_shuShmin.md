@@ -8,7 +8,6 @@ title = "०३ त्वां शुष्मिन्"
 To thee, Strong, Much-invoked who showest forth thy strength, O Satakratu, do I speak: So grant thou us heroic might.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वाम्। शुष्मिन्। पुरुऽहूत। वाजऽयन्तम्। उप। ब्रुवे। शतक्रतो इति शतऽक्रतो। सः। नः। रास्‍व। सुऽवीर्यम्। १०८.३।

@@ -8,7 +8,6 @@ title = "११ शुनं हुवेम"
 Call we on Maghavan, auspicious Indra, best Hero in the fight where spoil is gathered, The Strong, who listens, who gives aid in battles, who slays the Vritras, wins and gathers treasures.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 शुनम्। हुवेम। मघऽवानम्। इन्द्रम्। अस्मिन्। भरे। नृऽतमम्। वाजऽसातौ। शृण्वन्तम्। उग्रम्। ऊतये। समत्ऽसु। घ्नन्तम्। वृत्राणि। सम्ऽजितम्। धनानाम्। ११.११।

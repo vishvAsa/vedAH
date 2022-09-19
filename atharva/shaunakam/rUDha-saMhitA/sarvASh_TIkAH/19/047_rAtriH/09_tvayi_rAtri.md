@@ -22,7 +22,6 @@ and emending a *jāgṛhí*. In **c**, Ppp. has *yachād aś-*.
 Crush the wolf's jaws in pieces, strike the robber dead against a post. In thee, O Night, do we abide: we here will sleep. Be watchful thou.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 त्वयि। रात्रि। वसामसि। स्वपिष्यामसि। जागृहि। गोभ्यः। नः। शर्म। यच्छ। अश्वेभ्यः। पुरुषेभ्यः। ४७.९।

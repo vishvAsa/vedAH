@@ -8,7 +8,6 @@ title = "०५ द्युक्षं सुदानुम्"
 Celestial, bounteous Giver, God, with power and might, rich, mountain-like, in precious things. Him soon we see for foodful booty rich in kine, brought hundredfold and thousandfold.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 द्युक्षम्। सुऽदानुम्। ताविषीभिः। आऽवृतम्। गिरिम्। न। पुरुऽभोजसम्। क्षुऽमन्तम्। वाजम्। शतिनम्। सहस्रिणम्। मक्षु। गोऽमन्तम्। ईमहे। ४९.५।

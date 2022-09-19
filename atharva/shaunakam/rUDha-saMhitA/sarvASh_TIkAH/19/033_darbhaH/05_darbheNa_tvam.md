@@ -36,10 +36,9 @@ reckoned 27. 14-15 as 3 verses, the sum would be 69.⌋
 Achieve heroic deeds with Darbha, wearing this Darbha never let thy soul be troubled. In splendour and precedence over others illumine like the Sun the heaven's four regions.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
-दर्भेण। त्वम्। कृणवत्। वीर्याणि। दर्भम्। बिभ्रत्। आत्मना। मा। व्यथिष्ठाः। अतिऽस्थाय। वर्चसा। अध। अन्यान्। सूर्यःऽइव। आ। भाहि। प्रऽदिशः। चतस्रः। ३३.५।
+दर्भेण। त्वम्। कृणवत्। वीर्या᳡णि। दर्भम्। बिभ्रत्। आत्मना। मा। व्यथिष्ठाः। अतिऽस्थाय। वर्चसा। अध। अन्यान्। सूर्यःऽइव। आ। भाहि। प्रऽदिशः। चतस्रः। ३३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

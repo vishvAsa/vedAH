@@ -8,7 +8,6 @@ title = "०३ इन्द्रमित्था गिरो"
 To Indra have my songs of praise gone forth, thus rapidly sent hence, To turn him to the Soma-draught.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 इन्द्रम्। इत्था। गिरः। मम। अच्छ। अगुः। इषिताः। इतः। आऽवृते। सोमऽपीतये। २४.३।

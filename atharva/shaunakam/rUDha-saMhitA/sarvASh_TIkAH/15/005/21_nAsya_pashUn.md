@@ -13,7 +13,6 @@ title = "२१ नास्य पशून्"
 slays him who possesses this knowledge, or his cattle, or his kinsmen.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.१६।

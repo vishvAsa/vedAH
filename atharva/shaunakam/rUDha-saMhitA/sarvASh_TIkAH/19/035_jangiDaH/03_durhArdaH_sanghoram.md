@@ -33,7 +33,6 @@ deficiency of a syllable in **c**. \*⌊The carefully corrected Dc.⌋
 Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou these with watchful care, O thou who hast a. thousand eyes. Thou, Jangida, art my defence.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 दुःऽहार्दः। सम्ऽघोरम्। चक्षुः। पापऽकृत्वानम्। आ। अगमम्। तान्। त्वम्। सहस्रचक्षो इति सहस्रऽचक्षो। प्रतिऽबोधेन। नाशय। परिऽपानः। असि। जङ्गिडः। ३५.३।

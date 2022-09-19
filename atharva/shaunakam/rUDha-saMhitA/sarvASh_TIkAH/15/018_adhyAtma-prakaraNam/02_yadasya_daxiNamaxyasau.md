@@ -17,7 +17,6 @@ his left eye, that is yonder moon.
 The right eye is the Sun and the left eye is the Moon.
 </details>
 
-
 <details><summary>पदपाठः</summary>
 
 यत्। अस्य। दक्षिणम्। अक्षि। असौ। सः। आदित्यः। यत्। अस्य। सव्यम्। अक्षि। असौ। सः। चन्द्रमाः। १८.२।
