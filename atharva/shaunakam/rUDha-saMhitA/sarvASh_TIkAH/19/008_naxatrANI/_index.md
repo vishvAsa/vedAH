@@ -2,7 +2,7 @@
 title = "००८ नक्षत्राणी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. For well-being: to the asterisms etc.
 </details>

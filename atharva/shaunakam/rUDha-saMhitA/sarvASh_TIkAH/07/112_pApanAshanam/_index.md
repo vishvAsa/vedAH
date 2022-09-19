@@ -2,7 +2,7 @@
 title = "११२ पापनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 112 (117). For release from guilt and distress.
 </details>

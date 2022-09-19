@@ -2,7 +2,7 @@
 title = "००७ यातुधाननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. To Agni: for the discovеrу of sorcerers.
 </details>

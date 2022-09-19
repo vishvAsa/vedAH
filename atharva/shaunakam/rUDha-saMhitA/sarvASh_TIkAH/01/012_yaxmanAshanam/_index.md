@@ -2,7 +2,7 @@
 title = "०१२ यक्ष्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. Against various ailments (as results of lightning?).
 </details>

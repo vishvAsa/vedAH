@@ -19,7 +19,7 @@ The Anukr. does not notice the lacking syllable in **a**.
 Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याः। ते। ग्रीवाः। ये। स्कन्धाः। याः। पृष्टीः। याः। च। पर्शवः। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.२०।
 </details>
@@ -32,22 +32,22 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 - शतौदनागौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (ते) तेरी (ग्रीवाः) गले की नाड़ियाँ, (ये) जो (स्कन्धाः) कन्धे की हड्डियाँ, (याः) जो (पृष्टीः) छोटी पसलियाँ (च) और (याः) जो (पर्शवः) बड़ी पसलियाँ हैं, वे सब (आमिक्षाम्) आमिक्षा ...... म० १३ ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १३ के समान है ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(ग्रीवाः) कण्ठस्थनाड्यः (स्कन्धाः) स्कन्धास्थीनि (पृष्टीः) अ० ९।७।६। पार्श्वस्थीनि (पर्शवः) अ० ९।७।६। पार्श्वाधःस्थास्थीनि। अन्यत् स्पष्टम् ॥
 </details>

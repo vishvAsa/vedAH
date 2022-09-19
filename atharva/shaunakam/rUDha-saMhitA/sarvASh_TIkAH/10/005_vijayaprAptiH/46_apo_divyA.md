@@ -17,7 +17,7 @@ rich in milk, O Agni, have I come; unite me here with splendor.
 Celestial Waters have I sought: with juice have I besprinkled them. With milk, O Agni, have I come; bestow upon me splendid strength.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ५.४६।
 </details>
@@ -30,22 +30,22 @@ Celestial Waters have I sought: with juice have I besprinkled them. With milk, O
 - विजय प्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दिव्याः) दिव्य गुण स्वभाववाले (अपः) जलों [के समान शुद्ध करनेवाले विद्वानों] को (अचायिषम्) मैंने पूजा है (रसेन) पराक्रम से (सम् अपृक्ष्महि) हम संयुक्त हुए हैं। (अग्ने) हे विद्वान् ! (पयस्वान्) गतिवाला मैं (आ अगमम्) आया हूँ (तम्) उस (मा) मुझको (वर्चसा) [वेदाध्ययन आदि के] तेज से (सम् सृज) संयुक्त कर ॥४६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उद्योग करके विद्वानों से और वेद आदि शास्त्रों से विद्या प्राप्त करके यशस्वी होवें ॥४६॥ यह मन्त्र आ चुका है-अ० ७।८९।१ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४६−अयं मन्त्रो व्याख्यातः-अ० ७।८९।१ ॥
 </details>

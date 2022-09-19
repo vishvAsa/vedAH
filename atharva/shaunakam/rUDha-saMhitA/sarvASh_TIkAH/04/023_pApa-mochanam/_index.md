@@ -2,7 +2,7 @@
 title = "०२३ पाप-मोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 23. Praise and prayer to Agni.
 </details>

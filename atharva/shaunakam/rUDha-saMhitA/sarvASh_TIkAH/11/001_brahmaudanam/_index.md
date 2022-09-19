@@ -2,7 +2,7 @@
 title = "००१ ब्रह्मौदनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Accompanying a rice-dish offering.
 </details>

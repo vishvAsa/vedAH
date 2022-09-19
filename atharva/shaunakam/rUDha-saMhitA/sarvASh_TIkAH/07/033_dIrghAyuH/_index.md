@@ -2,7 +2,7 @@
 title = "०३३ दीर्घायुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33 (34) For blessings: to various gods.
 </details>

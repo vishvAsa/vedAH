@@ -2,7 +2,7 @@
 title = "००८ राज्याभिषेकः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. Accompanying the consecration of a king.
 </details>

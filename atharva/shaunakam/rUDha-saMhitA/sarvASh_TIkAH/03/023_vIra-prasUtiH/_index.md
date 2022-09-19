@@ -2,7 +2,7 @@
 title = "०२३ वीर-प्रसूतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 23. For fecundity.
 </details>

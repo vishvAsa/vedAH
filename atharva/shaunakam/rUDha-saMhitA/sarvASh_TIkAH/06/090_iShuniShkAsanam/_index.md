@@ -2,7 +2,7 @@
 title = "०९० इषुनिष्कासनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 90. For safety from Rudra's arrow.
 </details>

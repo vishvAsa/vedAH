@@ -2,7 +2,7 @@
 title = "०३० दर्भमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30. For protection etc.: with an amulet of darbhá.
 </details>

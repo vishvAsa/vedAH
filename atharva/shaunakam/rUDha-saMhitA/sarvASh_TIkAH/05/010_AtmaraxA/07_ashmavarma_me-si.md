@@ -21,7 +21,7 @@ The Anukr. reads 7 + 16: 5 = 28 syllables.
 Thou art my wall of stone against the sinner who from points intermediate fights against me. May he encounter it!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अश्मऽवर्म। मे। असि। यः। मा। दिशाम्। अन्तःऽदेशेभ्यः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.७।
 </details>
@@ -34,22 +34,22 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 - आत्मा रक्षा सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की उत्तमता का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ब्रह्म !] (मे) मेरे लिये तू (अश्मवर्म) पत्थर के घर [के समान दृढ़] (असि) है। (यः) जो (अघायुः) बुरा चीतनेवाला मनुष्य (दिशाम्) दिशाओं के (अन्तर्देशेभ्यः) मध्यदेशों से (मा) मुझ पर (अभिदासात्) चढ़ाई करे, (सः) वह दुष्ट (एतत्) व्यापक दुःख (ऋच्छात्) पावे ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १। के समान ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(दिशाम्) दिशानाम् (अन्तर्देशेभ्यः) अन्तरालेभ्यः ॥
 </details>

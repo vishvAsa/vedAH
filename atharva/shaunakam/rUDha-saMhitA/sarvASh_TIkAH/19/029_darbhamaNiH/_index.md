@@ -2,7 +2,7 @@
 title = "०२९ दर्भमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. Continuation of the foregoing.
 </details>

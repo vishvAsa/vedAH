@@ -2,7 +2,7 @@
 title = "०३५ मृत्युसंतरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 35. Extolling a rice-mess offering.
 </details>

@@ -2,7 +2,7 @@
 title = "०१५ वृष्टिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. For abundant rain.
 </details>

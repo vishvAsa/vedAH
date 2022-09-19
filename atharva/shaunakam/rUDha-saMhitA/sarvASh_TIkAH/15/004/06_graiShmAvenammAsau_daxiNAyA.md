@@ -19,7 +19,7 @@ who knoweth thus.
 They made the two Dewy months his protectors from the region of the zenith, and Heaven and the Adityas superintendents. The two Dewy months, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ग्रैष्मौ। एनम्। मासौ। दक्षिणायाः। दिशः। गोपायतः। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। अनु। तिष्ठतः। यः। एवम्। वेद। ४.६।
 </details>
@@ -32,22 +32,22 @@ They made the two Dewy months his protectors from the region of the zenith, and 
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के रक्षा गुण का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ग्रैष्मौ) घामवाले (मासौ) दो महीने (दक्षिणायाः दिशः) दक्षिण दिशा से (एनम्) उस [विद्वान्] की (गोपायतः) रक्षा करते हैं, (च) और [दोनों] (यज्ञायज्ञियम्) सब यज्ञों का हितकारी [वेदज्ञान] (च) और (वामदेव्यम्) वामदेव [श्रेष्ठ परमात्मा] करके जताया गया [भूतपञ्चक] [उसके लिये] (अनुतिष्ठतः) विहित कर्म करते हैं, (यः) जो [विद्वान्] (एवम्) व्यापक [व्रात्य परमात्मा] को (वेद) जानता है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १-३ के समान है॥४-६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५, ६−(ग्रैष्मौ)ग्रीष्म-अण्। निदाघसम्बन्धिनौ ज्येष्ठाषाढौ (मासौ) (यज्ञायज्ञियम्)व्याख्यातम्-सू० ३ म० ५ (वामदेव्यम्) गतम्-सू० ३ म० ५। अन्यत् पूर्ववत् ॥
 </details>

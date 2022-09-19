@@ -2,7 +2,7 @@
 title = "००१ विवाह- प्रकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Marriage ceremonies.
 </details>

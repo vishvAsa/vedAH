@@ -2,7 +2,7 @@
 title = "०३४ ब्रह्मौदनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 34. Extolling a certain rice-mess offering.
 </details>

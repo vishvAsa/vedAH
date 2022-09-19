@@ -2,7 +2,7 @@
 title = "०३५ जङ्गिडः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 35. The same.
 </details>

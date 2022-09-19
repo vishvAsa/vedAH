@@ -2,7 +2,7 @@
 title = "००७ गौः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Extolling the ox.
 </details>

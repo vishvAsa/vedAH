@@ -2,7 +2,7 @@
 title = "०२४ राष्ट्रम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 24. For prosperity: with a certain garment.
 </details>

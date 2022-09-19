@@ -2,7 +2,7 @@
 title = "०२४ सविता"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 24 (25). To various gods.
 </details>

@@ -2,7 +2,7 @@
 title = "१३५ बलप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 135. To crush an enemy.
 </details>

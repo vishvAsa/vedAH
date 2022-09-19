@@ -17,7 +17,7 @@ three, sea, sky, earth.
 Whereon in order rest the three, the ocean, and the heaven, and earth.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यस्मिन्। समुद्रः। द्यौः। भूमिः। त्रयः। अवरऽपरम्। श्रिताः। ३.२०।
 </details>
@@ -30,22 +30,22 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 - ओदन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यस्मिन्) जिस [ओदन, परमेश्वर] में (द्यौः) सूर्य, (समुद्रः) अन्तरिक्ष और (भूमिः) भूमि, (त्रयः) तीनों [लोक] (अवरपरम्) नीचे-ऊपर (श्रिताः) ठहरे हैं ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २२ के साथ ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(यस्मिन्) ओदने, परमेश्वरे (समुद्रः) अ० १।१३।३। अन्तरिक्षम्-निघ० १।३। (द्यौः) प्रकाशमानः सूर्यः (भूमिः) (त्रयः) लोकाः (अवरपरम्) अधरोत्तरम् (श्रिताः) स्थिताः ॥
 </details>

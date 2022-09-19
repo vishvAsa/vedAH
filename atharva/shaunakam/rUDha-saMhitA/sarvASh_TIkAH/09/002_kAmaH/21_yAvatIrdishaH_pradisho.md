@@ -19,7 +19,7 @@ The verse lacks two syllables of being a real *jagatī*.
 Vast as the quarters of the sky and regions that lie between them spread in all directions, vast as celestial tracts and views of heaven, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यावतीः। दिशः। प्रऽदिशः। विषूचीः। यावतीः। आशाः। अभिऽचक्षणाः। दिवः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२१।
 </details>
@@ -32,22 +32,22 @@ Vast as the quarters of the sky and regions that lie between them spread in all 
 - काम सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यावतीः) जितनी बड़ी (विषूचीः) फैली हुई (दिशः) दिशाएँ और (प्रदिशः) मध्य दिशाएँ, और (यावतीः) जितनी बड़ी (आशाः) सब भूमी और (दिवः) आकाश के (अभिचक्षणाः) दृश्य हैं। (ततः) उस से (त्वम्) तू... म० १९॥२१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर सब दिशाओं और सब दृश्यों की सीमा से बाहिर है ॥२१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २१−(यावतीः) यत्प्रमाणाः (दिशः) पूर्वादयः (प्रदिशः) अन्तर्दिशाः (विषूचीः) अ० १।१९।१। सर्वत्रव्यापिकाः (आशाः) आ+अशू व्याप्तौ-अच्। दिशाः। तत्रत्या देशाः (अभिचक्षणाः) चक्षिङ् दर्शने-ल्यु। दृश्यानि। अन्यत् पूर्ववत् ॥
 </details>

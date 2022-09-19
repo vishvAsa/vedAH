@@ -2,7 +2,7 @@
 title = "१२२ तृतीयो नाकः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 122. With an offering for offspring.
 </details>

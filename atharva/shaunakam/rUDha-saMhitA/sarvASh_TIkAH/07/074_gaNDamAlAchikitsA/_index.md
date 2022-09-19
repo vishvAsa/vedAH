@@ -2,7 +2,7 @@
 title = "०७४ गण्डमालाचिकित्सा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 74 (78). Against apacíts: against jealousy: to Agni.
 </details>

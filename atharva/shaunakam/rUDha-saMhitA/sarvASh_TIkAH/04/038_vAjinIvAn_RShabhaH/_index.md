@@ -2,7 +2,7 @@
 title = "०३८ वाजिनीवान् ऋषभः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 38. For luck in gambling: by aid of an Apsaras.
 </details>

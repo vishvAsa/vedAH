@@ -2,7 +2,7 @@
 title = "०५९ औषधिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 59. For protection to cattle.
 </details>

@@ -2,7 +2,7 @@
 title = "०९२ सुत्रामा इन्द्रः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 92 (97). To Indra: for aid.
 </details>

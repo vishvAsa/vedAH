@@ -2,7 +2,7 @@
 title = "०२१ गावः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21. Praise of the kine.
 </details>

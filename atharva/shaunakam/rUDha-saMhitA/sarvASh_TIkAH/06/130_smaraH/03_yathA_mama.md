@@ -19,7 +19,7 @@ the comm. undauntedly explains it by *amūṁ striyam*.
 That he may think of me, that I may never, never think of him,. Send forth the spell, ye Deities! Let him consume with love of me.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। मम। स्मरात्। असौ। न। अमुष्य। अहम्। कदा। चन। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.३।
 </details>
@@ -32,22 +32,22 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 - स्मर सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 स्मरण सामर्थ्य बढ़ाने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जिससे (असौ) वह [स्मरण सामर्थ्य] (मे) मेरा (स्मरात्) स्मरण रक्खे, और (अहम्) मैं (कदा चन) कभी भी (अमुष्य) उसको (न) न [भूल करूँ]। (देवाः) हे विद्वानो ! (स्मरम्) उस स्मरण सामर्थ्य को (प्र) अच्छे प्रकार (हिणुत) बढ़ाओ, (असौ) वह [स्मरण सामर्थ्य] (माम् अनु) मुझ में व्यापकर (शोचतु) शुद्ध रहे ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रयत्नपूर्वक समस्त विद्याओं को स्मरण रख कर उपयोगी बनावे ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यथा) येन प्रकारेण (मम) (स्मरात्) स्मरेत् (असौ) स्मरः (न) निषेधे (अमुष्य) स्मरस्य (अहम्) (कदा चन) कदापि [स्मरामि=स्मृणोमि] इत्यध्याहारः। स्मृ प्रीतिचलनयोः, स्वादिः। चलनं करोमि। अन्यत् पूर्ववत् ॥
 </details>

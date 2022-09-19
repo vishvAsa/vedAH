@@ -17,7 +17,7 @@ the cross-lined ones, crushed down the *pṛ́dākus*.
 Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis have been slain and vipers crushed and brayed to bits.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अहीनाम्। सर्वेषाम्। विषम्। परा। वहन्तु। सिन्धवः। हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। ४.२०।
 </details>
@@ -30,22 +30,22 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 - सर्पविषदूरीकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सिन्धवः) नदियाँ (सर्वेषाम्) सब (अहीनाम्) महाहिंसक [साँपों] के (विषम्) विष को (परा वहन्तु) दूर बहा ले जावें (तिरश्चिराजयः) तिरछी धारीवाले, (पृदाकवः) फुँसकारनेवाले साँप (हताः) मार डाले गये और (निपिष्टासः) कुचिल डाले गये [हों] ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सर्पसमान दुःखदायी दुर्गुणों को ऐसा नष्ट करे, जैसे मल आदि को पानी में बहा देते हैं ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(अहीनाम्) म० १। सर्पाणाम् (सर्वेषाम्) (विषम्) (परा) दूरे (वहन्तु) नयन्तु (सिन्धवः) नद्यः। अन्यत् पूर्ववत्−म० १३ ॥
 </details>

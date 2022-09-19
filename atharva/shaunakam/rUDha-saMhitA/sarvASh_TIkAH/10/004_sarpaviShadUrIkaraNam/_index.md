@@ -2,7 +2,7 @@
 title = "००४ सर्पविषदूरीकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. Against snakes and their poison.
 </details>

@@ -2,7 +2,7 @@
 title = "०१८ दवृष्टिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18 (19). For rain, etc.
 </details>

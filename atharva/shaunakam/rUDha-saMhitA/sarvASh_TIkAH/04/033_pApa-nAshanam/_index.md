@@ -2,7 +2,7 @@
 title = "०३३ पाप-नाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33. To Agni: for release from evil.
 </details>

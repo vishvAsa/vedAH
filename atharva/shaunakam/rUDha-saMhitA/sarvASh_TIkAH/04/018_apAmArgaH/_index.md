@@ -2,7 +2,7 @@
 title = "०१८ अपामार्गः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. Against witchcraft: with a plant.
 </details>

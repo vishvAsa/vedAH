@@ -2,7 +2,7 @@
 title = "००६ विषघ्नम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. Against the poison of a poisoned arrow.
 </details>

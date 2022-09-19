@@ -2,7 +2,7 @@
 title = "०२१ केशवर्धनी औषधिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21. To healing plants.
 </details>

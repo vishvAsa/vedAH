@@ -18,7 +18,7 @@ season "gathering" by name, namely the goat etc. etc.
 The man who knows the season called the Meeting takes to him- self the gathering fame, his hated rival's gathering fame. The Goat Panchaudana is this Meeting season.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। वै। सम्ऽयन्तम्। नाम। ऋतुम्। वेद। संयतीम्ऽसंयतीम्। एव। अप्रियस्य। भ्रातृव्यस्य। श्रियम्। आ। दत्ते। एषः। वै। सम्ऽयन्। नाम। ऋतुः। यत्। अजः। पञ्चऽओदनः। ५.३३।
 </details>
@@ -31,22 +31,22 @@ The man who knows the season called the Meeting takes to him- self the gathering
 - अज सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से सुख का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो [परमेश्वर] (वै) निश्चय करके (संयन्तम्) [अन्न आदि] मिलानेवाले (नाम) प्रसिद्ध (ऋतुम्) ऋतु को (वेद) जानता है और [जो] (अप्रियस्य) अप्रिय (भ्रातृव्यस्य) शत्रु की (संयतीं संयतीम्) अत्यन्त एकत्र करनेवाली (श्रियम्) लक्ष्मी को (एव) निश्चय करके (आ दत्ते) ले लेता है। (एषः वै) वही परमेश्वर (संयन्) एकत्र करनेवाला (नाम) प्रसिद्ध.... म० ३१ ॥३३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अन्न आदि वस्तुओं के पकानेवाले ऋतुओं का नियन्ता परमेश्वर है, शेष पूर्ववत् ॥३३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३३−(संयन्तम्) इण् गतौ-शतृ, अन्तर्गतण्यर्थः। अन्नादि संगमयन्तम् (संयतीं संयतीम्) संगमयन्तीं संगमयन्तीम् (संयन्) संगमयन्। अन्यत् पूर्ववत् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "००८ शत्रुपराजयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. To conquer enemies.
 </details>

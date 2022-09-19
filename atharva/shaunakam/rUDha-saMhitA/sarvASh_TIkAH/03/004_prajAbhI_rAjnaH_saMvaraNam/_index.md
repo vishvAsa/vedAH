@@ -2,7 +2,7 @@
 title = "००४ प्रजाभी राज्ञः संवरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. To establish a king.
 </details>

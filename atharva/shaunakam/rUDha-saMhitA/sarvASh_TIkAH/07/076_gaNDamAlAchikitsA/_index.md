@@ -2,7 +2,7 @@
 title = "०७६ गण्डमालाचिकित्सा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 76 (80, 81). Against apacíts and jāyā́nya: etc.
 </details>

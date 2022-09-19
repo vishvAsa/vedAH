@@ -2,7 +2,7 @@
 title = "०३६ शतवारो मणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 36. With a śatávāra-amulet: for protection etc.
 </details>

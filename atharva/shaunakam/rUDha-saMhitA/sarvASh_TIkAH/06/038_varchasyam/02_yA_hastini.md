@@ -18,7 +18,7 @@ Ppp. and TB. agree in reading *áśveṣu púruṣeṣu góṣu* in **b**.
 All energy of elephant and panther, all energy of gold, men, kine, and waters, And the blest Goddess who gave birth to Indra come unto us conjoined with strength and vigour.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 या। हस्तिनि। द्वीपिनि। या। हिरण्ये। त्विषिः। अप्ऽसु। गोषु। या। पुरुषेषु। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.२।
 </details>

@@ -2,7 +2,7 @@
 title = "०१४ कुलपा कन्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. Imprecation of spinsterhood on a woman.
 </details>

@@ -2,7 +2,7 @@
 title = "१३३ मेखलाबन्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 133. To a girdle: for long life etc.
 </details>

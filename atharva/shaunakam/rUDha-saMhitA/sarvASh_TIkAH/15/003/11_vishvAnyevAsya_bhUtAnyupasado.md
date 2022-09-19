@@ -17,7 +17,7 @@ R. is the only ms. that has the last two words.
 All creatures become the worshippers of him who possesses this knowledge.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विश्वानि। एव। अस्य। भूतानि। उपऽसदः। भवन्ति। यः। एवम्। वेद। ३.११।
 </details>
@@ -30,22 +30,22 @@ All creatures become the worshippers of him who possesses this knowledge.
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा के विराट् रूप का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्वानि) सब (एव) ही (भूतानि) सत्तावाले पदार्थ (अस्य) उस [विद्वान् पुरुष] के (उपसदः) समीपवर्ती (भवन्ति) होते हैं, (यः) जो (एवम्) व्यापक [व्रात्य परमात्मा] को (वेद) जानता है॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य पूर्वोक्तप्रकार से परमात्मा के तत्त्व को जान लेता है, वह योगीश्वर सब सत्तावालों सेयथावत् उपकार कर सकता है ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(विश्वानि) सर्वाणि (एव) अवधारणे (अस्य) विदुषःपुरुषस्य (भूतानि) सत्त्वानि (उपसदः) समीपवर्तिनः (भवन्ति) (यः) पुरुषः (एवम्)सू० २।३। व्यापकं व्रात्यं परमात्मानम् (वेद) वेत्ति ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०३१ पाशमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. To the divine guardians of the quarters.
 </details>

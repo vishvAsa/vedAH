@@ -18,7 +18,7 @@ ones.
 The water that is solemnly brought at a sacrifice is this same water.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याः। एव। यज्ञे। आपः। प्रऽनीयन्ते। ताः। एव। ताः। ६.५।
 </details>
@@ -31,22 +31,22 @@ The water that is solemnly brought at a sacrifice is this same water.
 - अतिथि सत्कार
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (एव) ही (आपः) जल (यज्ञे) यज्ञ में (प्रणीयन्ते) आदर से लाये जाते हैं, (ताः) वे (एव) ही (ताः) वे [अतिथि के लिये उपकारी होते हैं] ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी लोग उपकार दृष्टि से ही जल पान आदि करते हैं ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(याः) (एव) (यज्ञे) सत्करणीये व्यवहारे (आपः) जलानि (प्रणीयन्ते) आदरेण दीयन्ते (ताः) जलानि (एव) (ताः) उपकारिण्य इत्यर्थः ॥
 </details>

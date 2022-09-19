@@ -2,7 +2,7 @@
 title = "०१८ अलक्ष्मीनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. Against unlucky marks.
 </details>

@@ -2,7 +2,7 @@
 title = "००२ ब्रह्मप्रकाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. The wonderful structure of man.
 </details>

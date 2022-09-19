@@ -2,7 +2,7 @@
 title = "०२० पिशाचक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 20. To discover sorcerers: with an herb.
 </details>

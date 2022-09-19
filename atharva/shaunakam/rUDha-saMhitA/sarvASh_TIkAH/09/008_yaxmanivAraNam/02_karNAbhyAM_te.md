@@ -20,7 +20,7 @@ under vi. 127. 1. For the obscure *kan̄kūṣa* Ppp. has *kaṅkukha*, and for
 From both thine ears, from parts thereof, thine earache, and the throbbing pain, All malady that wrings thy brow we charm away with this our spell.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 कर्णाभ्याम्। ते। कङ्कूषेभ्यः। कर्णऽशूलम्। विऽसल्पकम्। सर्वम्। शीर्षण्य᳡म्। ते। रोगम्। बहिः। निः। मन्त्रयामहे। १३.२।
 </details>
@@ -33,22 +33,22 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 - यक्ष्मनिवारण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समस्त शरीर के रोग नाश का उपदेश।  इस सूक्त का मिलान अ० का० २ सूक्त ३३ से करो।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ते) तेरे (कर्णाभ्याम्) दोनों कानों से और (कङ्कूषेभ्यः) कङ्कूषों [फैली हुई कान की भीतरी नाड़ियों] से (कर्णशूलम्) कर्णशूल [कान की सूजन वा टीस] और (विसल्पकम्) विसल्प [विसर्प रोग, हड़फूटन] को। (सर्वम्) सब (ते) तेरे.... म० १ ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे उत्तम वैद्य निदान पूर्व बाहिरी और भीतरी रोगों का नाश करके मनुष्यों को हृष्ट-पुष्ट बनाता है, वैसे ही विद्वान् लोग विचारपूर्वक अविद्या को मिटा कर आनन्दित होते हैं ॥१॥ यही भावार्थ २ से २२ तक अगले मन्त्रों में जानो ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(कर्णाभ्याम्) अ० २।३३।१। श्रोत्राभ्याम् (कङ्कूषेभ्यः) पीयेरूषन्। उ० ४।७६। ककि गतौ−ऊषन्। व्यापकेभ्यः कर्णनाडीविशेषेभ्यः (विसल्पकम्) अ० ७।१२७।१। विसर्परोगम्। अन्यद् गतम् ॥
 </details>

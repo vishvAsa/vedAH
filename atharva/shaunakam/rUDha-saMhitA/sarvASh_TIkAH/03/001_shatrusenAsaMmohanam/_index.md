@@ -2,7 +2,7 @@
 title = "००१ शत्रुसेनासंमोहनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Against enemies.
 </details>

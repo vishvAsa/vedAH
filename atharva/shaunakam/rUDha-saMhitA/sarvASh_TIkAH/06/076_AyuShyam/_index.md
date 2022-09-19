@@ -2,7 +2,7 @@
 title = "०७६ आयुष्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 76. For a kṣatríya's security from death.
 </details>

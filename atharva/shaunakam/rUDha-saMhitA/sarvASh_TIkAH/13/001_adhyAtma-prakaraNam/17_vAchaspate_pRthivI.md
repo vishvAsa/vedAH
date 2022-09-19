@@ -24,7 +24,7 @@ used in Kāuś. 41. 15 in a ceremony for good luck. Ppp. reads at the end
 To us, Vachaspati, may Earth be pleasant, pleasant our dwelling, pleasant be our couches. Even here may Prana be our friend: may Agni, O Parameshthin give thee life and splendour.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 वाचः। पते। पृथिवी। नः। स्योना। स्योनाः। योनिः। तल्पा। नः। सुऽशेवा। इह। एव। प्राणः। सख्ये। नः। अस्तु। तम्। त्वा। परमेऽस्थिन्। परि। अग्निः। आयुषा। वर्चसा। दधातु। १.१७।
 </details>

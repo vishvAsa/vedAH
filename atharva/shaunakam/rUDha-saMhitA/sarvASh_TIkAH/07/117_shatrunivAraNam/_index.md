@@ -2,7 +2,7 @@
 title = "११७ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 117 (122). Invitation to India.
 </details>

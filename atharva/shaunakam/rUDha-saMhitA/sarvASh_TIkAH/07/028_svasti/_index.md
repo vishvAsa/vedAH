@@ -2,7 +2,7 @@
 title = "०२८ स्वस्ति"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 28 (29). Of the instruments of offering.
 </details>

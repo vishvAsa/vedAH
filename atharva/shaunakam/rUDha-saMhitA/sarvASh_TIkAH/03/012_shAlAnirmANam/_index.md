@@ -2,7 +2,7 @@
 title = "०१२ शालानिर्माणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. Accompanying the building of a house.
 </details>

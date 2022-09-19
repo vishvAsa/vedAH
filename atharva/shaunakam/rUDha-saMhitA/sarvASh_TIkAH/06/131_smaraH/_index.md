@@ -2,7 +2,7 @@
 title = "१३१ स्मरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 131. To win a man's love.
 </details>

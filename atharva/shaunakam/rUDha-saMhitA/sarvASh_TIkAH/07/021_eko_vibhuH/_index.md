@@ -2,7 +2,7 @@
 title = "०२१ एको विभुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21 (22). In praise of the sun.
 </details>

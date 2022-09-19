@@ -2,7 +2,7 @@
 title = "००३ सपत्नत्क्षयणो वरणमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. With an amulet of varaṇá.
 </details>

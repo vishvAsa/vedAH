@@ -19,7 +19,7 @@ The corresponding TS. passage has *sū́rya* instead of *ādityá*.
 The Sun in heaven hath had my homage. May he bless me. As I have bowed me down unto the Sun in heaven, so let the Favouring Graces bow them down to me.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 दिवि। आदित्याय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिवि। आदित्याय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.५।
 </details>
@@ -32,22 +32,22 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 - सन्नति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दिवि) आकाश में वर्तमान (आदित्याय) सूर्य को वे [ऋषि लोग] (सम्) यथाविधि (अनमन्) नमे हैं, (सः) उसने [उन्हें] (आर्ध्नोत्) बढ़ाया है। (यथा) जैसे (दिवि) आकाश में वर्तमान (आदित्याय) सूर्य को (सम्-अनमन्) वे यथावत् नमे हैं, (एव) वैसे ही (मह्यम्) मुझ को (सन्नमः) सब सम्पत्तियाँ (सम्) यथावत् (नमन्तु) नमें ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पहिले ऋषि महात्माओं के समान सूर्य के प्रकाश आदि से उपकार लेकर आनन्द प्राप्त करें ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(दिवि) आकाशे वर्तमानाय (आदित्याय) अ० १।९।१। प्रकाशमानाय सूर्याय। अन्यत् पूर्ववत्-म० १ ॥
 </details>

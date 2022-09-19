@@ -2,7 +2,7 @@
 title = "०३९ संनति"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 39. For various blessings.
 </details>

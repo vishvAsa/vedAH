@@ -2,7 +2,7 @@
 title = "०२२ भैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. To the Maruts.
 </details>

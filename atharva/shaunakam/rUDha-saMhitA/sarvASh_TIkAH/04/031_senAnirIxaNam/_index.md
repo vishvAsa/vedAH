@@ -2,7 +2,7 @@
 title = "०३१ सेनानिरीक्षणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. Praise and prayer to fury (manyú).
 </details>

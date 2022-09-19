@@ -2,7 +2,7 @@
 title = "१०७ विश्वजित्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 107. For protection: to various divinities.
 </details>

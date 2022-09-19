@@ -2,7 +2,7 @@
 title = "०१३ एकवीरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 13. For success in war: ⌊Apratiratha hymn⌋.
 </details>

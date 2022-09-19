@@ -2,7 +2,7 @@
 title = "००२ भुवनेषु ज्येष्ठः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. Mystic.
 </details>

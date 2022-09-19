@@ -2,7 +2,7 @@
 title = "११२ पाशमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 112. For expiation of overslaughing.
 </details>

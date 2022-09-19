@@ -2,7 +2,7 @@
 title = "०३५ सपत्नीनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 35 (36). Against a rival (woman).
 </details>

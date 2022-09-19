@@ -18,7 +18,7 @@ Ppp. reads *yathā somasya paridhiṣ patātiḥ tathā tvam agne*.
 Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that this defence of his may fall and fail him.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। सः। अस्य। परिऽधिः। पताति। तथा। तत्। अग्ने। कृणु। जातऽवेदः। विश्वेभिः। देवैः। सह। सम्ऽविदानः। २९.३।
 </details>
@@ -31,22 +31,22 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 - रक्षोघ्न सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं और रोगों के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जिस प्रकार से (अस्य) उस [शत्रु] का (सः परिधिः) वह परकोटा (पताति) गिर पड़े, (तत्) सो (जातवेदः) हे विद्या में प्रसिद्ध (अग्ने) विद्वान् पुरुष ! (विश्वेभिः) सब (देवैः सह) उत्तम गुणों के साथ (संविदानः) मिलता हुआ तू (तथा) वैसा (कृणु) कर ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा शत्रु से प्रजा की रक्षा करने का उपाय सदा करता रहे ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−गतम्। म० २ ॥
 </details>

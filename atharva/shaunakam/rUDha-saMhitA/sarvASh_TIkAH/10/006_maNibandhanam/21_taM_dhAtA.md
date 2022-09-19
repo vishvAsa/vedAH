@@ -18,7 +18,7 @@ Ppp. reads in **b** *subhūtāny akalpayat*.
 Dhatar bound on this Amulet: he ranged and ordered all that is. With this do thou subdue thy foes.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तम्। धाता। प्रति। अमुञ्चत। सः। भूतम्। वि। अकल्पयत्। तेन। त्वम्। द्व‍िषतः। जहि। ६.२१।
 </details>
@@ -31,22 +31,22 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तम्) उस [वैदिक नियम] को (धाता) धारणकर्त्ता [राजा] ने (प्रति अमुञ्चत) स्वीकार किया है, और (सः) उसने (भूतम्) जगत् को (वि अकल्पयत्) संभाला है। (तेन) उस [वैदिक नियम] से (त्वम्) तू (द्विषतः) वैरियों को (जहि) मार ॥२१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे राजा वेद द्वारा राज्य का प्रबन्ध करता है, वैसे ही प्रत्येक मनुष्य करे ॥२१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २१−(तम्) (धाता) प्रजापालको राजा (भूतम्) जगत् (वि) विविधम् (अकल्पयत्) संस्कृतवान्। अन्यत् पूर्ववत् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "१३९ सौभाग्यवर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 139. To compel a woman's love.
 </details>

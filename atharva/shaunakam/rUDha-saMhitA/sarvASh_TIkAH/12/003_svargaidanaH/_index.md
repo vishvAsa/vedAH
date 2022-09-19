@@ -2,7 +2,7 @@
 title = "००३ स्वर्गैदनः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. Cremation as a sacrifice.
 </details>

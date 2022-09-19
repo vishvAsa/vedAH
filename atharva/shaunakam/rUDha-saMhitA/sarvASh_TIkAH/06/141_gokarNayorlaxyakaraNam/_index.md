@@ -2,7 +2,7 @@
 title = "१४१ गोकर्णयोर्लक्ष्यकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 141. With marking of cattle's ears.
 </details>

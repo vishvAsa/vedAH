@@ -16,7 +16,7 @@ title = "०१ स विशोऽनुव्यचलत्"
 He went away to the people.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सः। विशः। अनु। वि। अचलत्। ९.१।
 </details>
@@ -29,22 +29,22 @@ He went away to the people.
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजधर्मकी व्यवस्था का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [व्रात्यपरमात्मा] (विशः अनु) मनुष्यों की ओर (वि अचलत्) विचरा ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सर्वव्यापक परमात्माने वेदद्वारा मनुष्यों में राजधर्म का उपदेश किया है ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(सः) व्रात्यःपरमात्मा (विशः) मनुष्यान् (अनु) अनुलक्ष्य अन्यत् पूर्ववत् ॥
 </details>

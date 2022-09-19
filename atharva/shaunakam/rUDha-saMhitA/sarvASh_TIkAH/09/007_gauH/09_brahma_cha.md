@@ -17,7 +17,7 @@ his (two) hips, force his (two) thighs.
 Priestly rank and princely power are the hips, and strength is. the thigh.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ब्रह्म। च। क्षत्रम्। च। श्रोणी इति। बलम्। ऊरू इति। १२.९।
 </details>
@@ -30,22 +30,22 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 - गौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [सृष्टि में] (ब्रह्म) ब्राह्मणत्व (च) और (क्षत्रम्) क्षत्रियत्व (च) ही (श्रोणी) दोनों कूल्हों और (बलम्) बल (ऊरू) दोनों जङ्घाओं [के समान है] ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ७ के समान है ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(ब्रह्म) ब्राह्मणत्वम् (च) (क्षत्रम्) अ० २।१५।४। क्षत्रियत्वम् (च) एव (श्रोणी) अ० २।३३।५। कटिभागौ (बलम्) (ऊरू) अ० २।३३।५। जानूपरिभागौ ॥
 </details>

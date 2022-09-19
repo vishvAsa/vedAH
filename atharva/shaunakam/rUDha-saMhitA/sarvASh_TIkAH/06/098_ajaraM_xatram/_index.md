@@ -2,7 +2,7 @@
 title = "०९८ अजरं क्षत्रम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 98. To Indra: for victory.
 </details>

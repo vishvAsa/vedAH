@@ -2,7 +2,7 @@
 title = "०२८ पशुपोषणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 28. To avert the ill omen of a twinning animal.
 </details>

@@ -2,7 +2,7 @@
 title = "१२६ दुन्दुभिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 126. To the drum: for success against the foe.
 </details>

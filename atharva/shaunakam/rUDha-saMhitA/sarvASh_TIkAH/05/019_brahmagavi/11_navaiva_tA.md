@@ -19,7 +19,7 @@ accentuations of *vyádhūnuta* are precisely the same here as there.
 Those nine-and-ninety people whom Earth shook and cast away from her, When they had wronged the Brahman race were ruined incon- ceivably.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 नव। एव। ताः। नवतयः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १९.११।
 </details>
@@ -32,22 +32,22 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 नास्तिक के तिरस्कार का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ताः) वे लोग (नव नवतयः) नव बार नब्बे [९*९० वा ८१०] (अपि) भी [थे] (याः) जिन को (भूमिः) भूमि ने (व्यधूनुन) हिला दिया है, और जो (ब्राह्मणीम्) ब्राह्मणसंबन्धिनी (प्रजाम्) प्रजा को (हिंसित्वा) सताकर (असंभव्यम्) संभावना [शक्यता] के बिना (पराभवन्) हार गये हैं ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  असंख्यात होने पर भी नास्तिक पराजित होते हैं [अ० ५। १८।१२। का मिलान करो] ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(नव नवतयः) नवगुणिता नवतयः। ९*९०=८१०। असङ्ख्याते इत्यर्थः (एव) अपि (ताः) जनताः। अन्यद् यथा−अ० ५।१८।१२ ॥
 </details>

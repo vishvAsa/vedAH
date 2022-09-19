@@ -2,7 +2,7 @@
 title = "०४० शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 40. Against enemies from the different quarters.
 </details>

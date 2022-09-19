@@ -21,7 +21,7 @@ and *paridhe ’va te;* and it adds its version of 9: *yat parṣeṇam*
 The pillow-coverings that they bring are the green sticks that surround the sacrificial altar.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्। कशिपुऽउपबर्हणम्। आऽहरन्ति। परिऽधयः। एव। ते। ६.१०।
 </details>
@@ -34,22 +34,22 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 - अतिथि सत्कार
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (कशिपूपबर्हणम्) विछौना और बालिश को वे [गृहस्थ लोग] (आहरन्ति) प्राप्त होते हैं, [संन्यासी के लिये] (ते) वे [प्रसिद्ध ईश्वर की] (एव) ही (परिधयः) सब ओर से धारणशक्तियाँ हैं ॥१०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  संन्यासी शारीरिक सुख की उपेक्षा करके परमेश्वर का अवलम्बन करता है ॥१०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(यत्) यदा (कशिपूपबर्हणम्) कशिपुर्व्याख्यातः-अ० ६।१३८।५। उपबर्हणं व्याख्यातम्-अ० ९।५।२९। परिस्तरणं बालिशं च (आहरन्ति) (परिधयः) उपसर्गे घोः किः। पा० ३।३।९२। परि+दधातेः-कि। ईश्वरस्य परितो धारणशक्तयः (एव) (ते) प्रसिद्धाः ॥
 </details>

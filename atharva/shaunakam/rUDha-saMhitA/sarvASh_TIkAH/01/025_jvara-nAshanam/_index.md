@@ -2,7 +2,7 @@
 title = "०२५ ज्वर-नाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. Against fever
 </details>

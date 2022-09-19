@@ -16,7 +16,7 @@ title = "१७ ऋतवः पक्तार"
 The Seasons are the dressers, the Groups of Seasons kindle the fire.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ऋतवः। पक्तारः। आर्तवाः। सम्। इन्धते। ३.१७।
 </details>
@@ -29,22 +29,22 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 - ओदन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ऋतवः) ऋतुएँ और (आर्तवाः) ऋतुओं के अवयव [महीने दिन राति आदि] (पक्तारः) पाककर्ता होकर [अग्नि को] (सम्) यथानियम (इन्धते) जलाते हैं ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ऋतुएँ और महीने आदि ईश्वरनियम से संसार में पचन क्रिया करते हैं ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(ऋतवः) वसन्तादयः (पक्तारः) पाचकाः (आर्तवाः) ऋतूनामवयवाः (सम्) सम्यक् (इन्धते) दीपयन्ति, अग्निं ज्वलयन्ति ॥
 </details>

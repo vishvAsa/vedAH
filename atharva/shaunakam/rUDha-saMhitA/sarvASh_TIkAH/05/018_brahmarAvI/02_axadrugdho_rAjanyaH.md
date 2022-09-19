@@ -19,7 +19,7 @@ I.e., if such is his wish. Ppp. reads, for **b**, *pāpātmam aparājitaḥ*.
 A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's cow and think, To-day and not tomorrow, let me live!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अक्षऽद्रुग्धः। राजन्यः᳡। पापः। आत्मऽपराजितः। सः। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्वः। १८.२।
 </details>
@@ -32,22 +32,22 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदविद्या की रक्षा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अक्षद्रुग्धः) इन्द्रियों से नष्ट किया हुआ, (पापः) पापी, (आत्मपराजितः) आत्मा से हारा हुआ (सः) वह (राजन्यः) क्षत्रिय (ब्राह्मणस्य) ब्राह्मण, वेदवेत्ता की (गाम्) वाणी को (अद्यात्) नाश करे, (अद्य) आज (जीवानि=जीवतु) वह जीवे, (श्वः) कल (मा) नहीं ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदविद्या पर न चलने से दुष्कर्मों के कारण अजितेन्द्रिय राजा का जीवन घट जाता है ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अक्षद्रुग्धः) अक्षैरिन्द्रियैर्नाशितः। अजितेन्द्रियः (राजन्यः) राजा (पापः) पाप−अर्शआद्यच्। दुष्टः (आत्मपराजितः) आत्मना पराभूतः (सः) (ब्राह्मणस्य) वेदवेत्तुः विप्रस्य (गाम्) वाणीम् (अद्यात्) भक्षयेत् (अद्य) अस्मिन् दिने (मा) निषेधे (श्वः) आगामिनि दिवसे ॥
 </details>

@@ -2,7 +2,7 @@
 title = "१३७ केशवर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 137. To fasten and increase the hair.
 </details>

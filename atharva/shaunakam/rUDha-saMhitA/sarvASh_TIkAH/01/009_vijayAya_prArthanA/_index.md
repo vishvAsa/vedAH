@@ -2,7 +2,7 @@
 title = "००९ विजयाय प्रार्थना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. For some one's advancement and success.
 </details>

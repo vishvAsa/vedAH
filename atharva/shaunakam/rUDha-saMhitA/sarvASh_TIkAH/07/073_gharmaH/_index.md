@@ -2,7 +2,7 @@
 title = "०७३ घर्मः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 73 (77). With a heated offering to the Aśvins.
 </details>

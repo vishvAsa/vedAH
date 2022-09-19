@@ -23,7 +23,7 @@ comment as example.
 Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her back that she may slay the man who wrought the witchery.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अघम्। अस्तु। अघऽकृते। शपथः। शपथिऽयते। प्रत्यक्। प्रतिऽप्रहिण्मः। यथा। कृत्याऽकृतम्। हनत्। १.५।
 </details>
@@ -36,22 +36,22 @@ Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her b
 - कृत्यादूषण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्तव्य दण्ड का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अघम्) बुराई (अघकृते) बुराई करनेवाले को और (शपथः) शाप (शपथीयते) शाप करनेवाले को (अस्तु) होवे। [उस दुष्ट कर्म को] (प्रत्यक्) पीछे की ओर (प्रतिप्रहिण्मः) हम हटा देते हैं (यथा) जिस से [वह दुष्ट कर्म] (कृत्याकृतम्) हिंसा करनेवाले को (हनत्) मारे ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  दुष्कर्मी कटुभाषी दुष्ट को यथानीति दण्ड दिया जावे ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(अघम्) पापम् (अस्तु) (अघकृते) पापकारिणे (शपथः) शापः। दुर्वचनम् (शपथीयते) शपथ-क्यच्, शतृ। शापकारिणे (प्रत्यक्) प्रतिकूलगमनम् (प्रतिप्रहिण्मः) हि गतिवृद्ध्योः। प्रतिकूलं गमयामः (यथा) येन प्रकारेण (कृत्याकृतम्) हिंसाकारिणम् (हनत्) हन्यात् ॥
 </details>

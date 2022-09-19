@@ -2,7 +2,7 @@
 title = "०१० शङ्खमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. Against evils: with a pearl-shell amulet.
 </details>

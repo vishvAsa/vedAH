@@ -2,7 +2,7 @@
 title = "००७ विषनाषनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Against poison.
 </details>

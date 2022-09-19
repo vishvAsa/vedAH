@@ -2,7 +2,7 @@
 title = "०३७ कृमिनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 37. Against various superhuman foes: with an herb.
 </details>

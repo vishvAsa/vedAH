@@ -2,7 +2,7 @@
 title = "००३ आत्मगोपनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. To various divinities: for protection.
 </details>

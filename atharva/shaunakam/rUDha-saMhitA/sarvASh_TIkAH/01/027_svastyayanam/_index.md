@@ -2,7 +2,7 @@
 title = "०२७ स्वस्त्ययनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. Against various evils.
 </details>

@@ -19,7 +19,7 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 ए॒तत् स ऋ॑च्छात् ॥६॥
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अश्मऽवर्म। मे। असि। यः। मा। ऊर्ध्वायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.६।
 </details>

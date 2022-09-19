@@ -23,7 +23,7 @@ implication of its etymological sense. Ppp., in **d**, reads *-mām* and
 Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumption from our men and make our cow-pen rich in milk.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 शर्म। यच्छतु। ओषधिः। सह। देवीः। अरुन्धती। करत्। पयस्वन्तम्। गोऽस्थम्। अयक्ष्मान्। उत। पुरुषान्। ५९.२।
 </details>
@@ -36,22 +36,22 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 - ओषधि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ओषधिः) तापनाशक (अरुन्धती) न रोक डालनेवाली शक्ति परमेश्वर (देवीः सह=देवीभिः सह) उत्तम क्रियाओं के साथ (शर्म) शरण (यच्छतु) देवे। (गोष्ठम्) हमारी गोशाला को (पयस्वन्तम्) बहुत दुग्धवाली (उत) और (पुरुषान्) पुरुषों को (अयक्ष्मान्) नीरोग (करत्) करे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने घरों में अन्न आदि पदार्थ प्राप्त करके सदा स्वस्थ रहें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(शर्म) शरणम् (यच्छतु) ददातु (ओषधिः) अ० १।२३।१। तापनाशयित्री (देवीः सह) तृतीयार्थे द्वितीया। देवीभिर्दिव्यक्रियाभिः सहिता (अरुन्धती) अरोधनशक्तिः परमेश्वरः (करत्) कुर्यात् (पयस्वन्तम्) प्रभूतदुग्धयुक्तम् (गोष्ठम्) गोनिवासदेशम् (अयक्ष्मान्) राजरोगरहितान् (उत) अपि च (पुरुषान्) सम्बन्धिनो मनुष्यान् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०१८ वनस्पतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. Against a rival wife: with a plant.
 </details>

@@ -2,7 +2,7 @@
 title = "००९ कामात्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. To win a woman's love.
 </details>

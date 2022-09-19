@@ -17,7 +17,7 @@ with greatness, growth.
 The Amulet, etc. That Amulet here hath come to me with store of barley and of rice, with greatness and prosperity.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। व्रीहिऽयवाभ्याम्। महसा। भूत्या। सह। ६.२४।
 </details>
@@ -30,22 +30,22 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यम्) जिस (असुरक्षितिम्) असुरनाशक.... म० २२। (सः अयम्) बही (मणिः) मणि [प्रशंसनीय वैदिक नियम] (मा) मुझे (व्रीहियवाभ्याम् सह) चावल और जव के साथ और (महसा) बड़ाई और (भूत्या सह) विभूति [सम्पत्ति] के साथ (आ अगमत्) प्राप्त हुआ है ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य धर्म से अन्न आदि पदार्थ प्राप्त करके यश और ऐश्वर्य बढ़ावें ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(महसा) महत्त्वेन (भूत्या) सम्पत्या। अन्यत् सुगमम् ॥
 </details>

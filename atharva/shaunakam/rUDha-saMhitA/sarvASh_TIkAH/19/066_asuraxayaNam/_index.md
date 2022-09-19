@@ -2,7 +2,7 @@
 title = "०६६ असुरक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 66. To Agni: for aid.
 </details>

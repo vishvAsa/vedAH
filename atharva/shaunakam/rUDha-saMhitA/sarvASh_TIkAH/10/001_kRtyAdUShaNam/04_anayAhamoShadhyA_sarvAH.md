@@ -19,7 +19,7 @@ takes no notice of the defective last pāda.
 I with this salutary herb have ruined all their magic arts, The spell which they have cast upon thy field, thy cattle, or thy men.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अनया। अहम्। ओषध्या। सर्वाः। कृत्वाः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १.४।
 </details>
@@ -32,22 +32,22 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 - कृत्यादूषण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के कर्तव्य दण्ड का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अहम्) मैंने (अनया ओषध्या) इस ओषधिरूप [तापनाशक तुझ राजा] के साथ (सर्वाः कृत्याः) सब हिंसाओं को (अदूदुषम्) खण्डित कर दिया है, (याम्) जिस [हिंसा] को (क्षेत्रे) खेत में, अथवा (याम्) जिसको (गोषु) गौओं में (वा) अथवा (याम्) जिसको (ते) तेरे (पुरुषेषु) पुरुषों में (चक्रुः) उन लोगों ने किया था ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो दुष्ट लोग प्रजा को किसी प्रकार से सतावें, प्रजा गण और राजपुरुष मिलकर दुष्टों का नाश करें ॥४॥ यह मन्त्र आचुका है-अ० ४।१८।५ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(कृत्याः) कृञ् हिंसायाम्-क्यप् तुक् च। हिंसाः। अन्यद् व्याख्यातम् अ० ४।१८।५ ॥
 </details>

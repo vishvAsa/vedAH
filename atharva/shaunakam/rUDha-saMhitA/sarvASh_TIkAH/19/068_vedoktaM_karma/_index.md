@@ -2,7 +2,7 @@
 title = "०६८ वेदोक्तं कर्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 68. With ceremonial performance.
 </details>

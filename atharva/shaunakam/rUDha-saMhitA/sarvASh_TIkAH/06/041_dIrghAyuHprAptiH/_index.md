@@ -2,7 +2,7 @@
 title = "०४१ दीर्घायुःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 41. To various divinities.
 </details>

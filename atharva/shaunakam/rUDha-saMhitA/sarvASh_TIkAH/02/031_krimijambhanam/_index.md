@@ -2,7 +2,7 @@
 title = "०३१ क्रिमिजम्भनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. Against worms.
 </details>

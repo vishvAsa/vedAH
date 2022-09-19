@@ -2,7 +2,7 @@
 title = "०१३ विद्युत्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 13. Deterrent homage to lightning.
 </details>

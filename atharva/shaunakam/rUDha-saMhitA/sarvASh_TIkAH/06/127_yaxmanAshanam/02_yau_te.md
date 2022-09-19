@@ -25,7 +25,7 @@ in **b** (= *apakṛṣṭam āśritāu;* and *kakṣe* = *bāhumūle*, comm.).
 Those nerves of thine, Consumption! which stand closely hidden in thy groin I know the balm for that disease: the magic cure is Sipudru.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यौ। ते। बलास। तिष्ठतः। कक्षे। मुष्कौ। अपऽश्रितौ। वेद। अहम्। तस्य। भेषजम्। चीपुद्रुः। अभिऽचक्षणम्। १२७.२।
 </details>
@@ -38,22 +38,22 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 - यक्ष्मनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (बलास) हे सन्निपात कफ आदि रोग ! (यौ) जो (ते) तेरी (मुष्कौ) दो गिलटिया (कक्षे) [रोगी की] काँख में (अपश्रितौ) आश्रय लिये हुए (तिष्ठतः) स्थित हैं। (अहम्) मैं (तस्य भेषजम्) उसकी ओषधि (वेद) जानता हूँ, (चीपुद्रुः) ग्रहण करने योग्य चीपुद्रु [ओषधि विशेष] (अभिचक्षणम्) औषध है ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वैद्य ज्वर, गिलटी आदि रोगों की यथावत् चिकित्सा करे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(यौ) (ते) तव (बलास) म० १। (तिष्ठतः) वर्तेते (कक्षे) रोगिणो बाहुमूले (मुष्कौ) अण्डरूपौ रोगग्रन्थी (अपश्रितौ) आश्रितौ (वेद) जानामि (अहम्) वैद्यः (तस्य) रोगस्य (भेषजम्) (चीपुद्रुः) चीवृ आदानसंवरणयोः−उ, पृषोदरादि। द्रुमविशेषः (अभिचक्षणम्) व्याधिनिवर्तकम् ॥
 </details>

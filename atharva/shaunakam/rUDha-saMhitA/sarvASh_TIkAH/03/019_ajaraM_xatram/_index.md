@@ -2,7 +2,7 @@
 title = "०१९ अजरं क्षत्रम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 19. To help friends against enemies.
 </details>

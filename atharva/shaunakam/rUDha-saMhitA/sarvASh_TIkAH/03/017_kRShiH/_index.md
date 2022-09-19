@@ -2,7 +2,7 @@
 title = "०१७ कृषिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 17. For successful agriculture.
 </details>

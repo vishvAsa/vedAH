@@ -2,7 +2,7 @@
 title = "०१८ अध्यात्म-प्रकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. Paryāya the eighteenth.
 </details>

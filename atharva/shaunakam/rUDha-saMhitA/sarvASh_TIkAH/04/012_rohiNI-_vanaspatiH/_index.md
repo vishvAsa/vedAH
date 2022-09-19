@@ -2,7 +2,7 @@
 title = "०१२ रोहिणी- वनस्पतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. To heal serious wounds: with an herb.
 </details>

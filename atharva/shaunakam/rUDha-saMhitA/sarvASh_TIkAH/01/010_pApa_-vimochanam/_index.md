@@ -2,7 +2,7 @@
 title = "०१० पाप -विमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. For some one's release from Varuṇa's wrath.
 </details>

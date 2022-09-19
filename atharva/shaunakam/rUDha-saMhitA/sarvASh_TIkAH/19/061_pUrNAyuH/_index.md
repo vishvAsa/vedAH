@@ -2,7 +2,7 @@
 title = "०६१ पूर्णायुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 61. For length of life etc.
 </details>

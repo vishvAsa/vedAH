@@ -2,7 +2,7 @@
 title = "००८ क्षेत्रियरोगनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. Against the disease kṣetriyá: with a plant.
 </details>

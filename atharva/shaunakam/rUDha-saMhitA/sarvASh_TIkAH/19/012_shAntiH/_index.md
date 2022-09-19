@@ -2,7 +2,7 @@
 title = "०१२ शान्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. For success and long life.
 </details>

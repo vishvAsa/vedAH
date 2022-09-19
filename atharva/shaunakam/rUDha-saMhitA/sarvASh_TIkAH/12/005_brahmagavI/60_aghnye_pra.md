@@ -18,7 +18,7 @@ This verse also is wanting in Ppp. ⌊Pādas **b, c** recur below, vs. 65.⌋
 O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, blasphemer of the Gods.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अघ्न्ये। प्र। शिरः। जहि। ब्रह्मऽज्यस्य। कृतऽआगसः। देवऽपीयोः। अराधसः। १०.१४।
 </details>
@@ -31,22 +31,22 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अघ्न्ये) हे अवध्य ! [न मारने योग्य, प्रबल वेदवाणी] (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक, (कृतागसः) अपराध करनेवाले, (देवपीयोः) विद्वानों के सतानेवाले, (अराधसः) अदानशील पुरुष के (शिरः) शिर को (प्र जहि) तोड़ डाल ॥६०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य बलवती वेदवाणी के विरुद्ध आचरण करे, उसको यथावत् दण्ड मिले ॥६०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६०−(अघ्न्ये) म० ५८। (प्र जहि) विनाशय (शिरः) मस्तकम् (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (कृतागसः) कृतापराधस्य (देवपीयोः) म० १५। विदुषां हिंसकस्य (अराधसः) अ० ५।११।७। नास्ति राधो धनं यस्मात् तस्य। अदानशीलस्य ॥
 </details>

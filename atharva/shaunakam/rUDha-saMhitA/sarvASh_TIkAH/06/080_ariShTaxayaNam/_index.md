@@ -2,7 +2,7 @@
 title = "०८० अरिष्टक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 80. The heavenly dog and the kālakāñjás.
 </details>

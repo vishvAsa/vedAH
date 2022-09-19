@@ -2,7 +2,7 @@
 title = "०९१ यक्ष्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 91. For remedy from disease.
 </details>

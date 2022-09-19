@@ -23,7 +23,7 @@ etc' (*kṣīrādikam*); to *abhihutā* in **a** it prefixes an explanatory
 Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting of the votive milk, Zone, be a hero-slayer thou!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 आऽहुता। असि। अभिऽहुता। ऋषीणाम्। असि। आयुधम्। पूर्वा। व्रतस्य। प्रऽअश्नती। वीरऽघ्नी। भव। मेखले। १३३.२।
 </details>
@@ -36,22 +36,22 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 - मेखलाबन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मेखना बाँधने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मेखले) हे मेखला ! तू (आहुता) यथाविधि दान की गई (असि) है, (ऋषीणाम्) धर्ममार्ग बतानेवाले ऋषियों का (आयुधम्) शस्त्ररूप (असि) है। (व्रतस्य) उत्तम व्रत वा नियम के (पूर्वा) पहिले (प्राश्नती) व्याप्त होनेवाली और (वीरघ्नी) वीरों को प्राप्त होनेवाली तू (भव) हो ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य नियमपूर्वक मेखला से कटि कस कर कर्म करते हैं, वे ही वीर होते हैं ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(आहुता) यथाविधि दत्ता (अभिहुता) सर्वतः स्वीकृता (ऋषीणाम्) अ० २।६।१। सन्मार्गदर्शकानाम् (असि) (आयुधम्) शस्त्ररूपा (पूर्वा) आद्या (व्रतस्य) अ० २।३०।२। श्रेष्ठकर्मणः (प्राश्नती) व्याप्नुवती (वीरघ्नी) हन गतौ−क्विप्। वीराणां हन्त्री गन्त्री (भव) (मेखले)−म० १। हे कटिबन्धन ॥
 </details>

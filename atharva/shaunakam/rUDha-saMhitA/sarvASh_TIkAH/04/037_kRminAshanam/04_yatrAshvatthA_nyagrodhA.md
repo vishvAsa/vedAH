@@ -27,7 +27,7 @@ are the houses of Gandharvas and Apsarases.
 Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There where your swings are green and bright, and lutes and cymbals sound in tune, 'Ye have become attentive since the Apsarases have past away.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्र। अश्वत्थाः। न्यग्रोधाः। महाऽवृक्षाः। शिखण्डिनः। तत्। परा। इत। अप्सरसः। प्रतिऽबुध्दाः। अभूतन। ३७.४।
 </details>
@@ -40,22 +40,22 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 - कृमिनाशक सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गन्धर्व और अप्सराओं के गुणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्र) जहाँ पर (अश्वत्थाः) वीरों में खड़े होनेवाले, (न्यग्रोधाः) शत्रूओं को रोक देनेवाले, (महावृक्षाः) अत्यन्त स्वीकार करने योग्य, और (शिखण्डिनः) अत्यन्त उद्यमी पुरुष हों।  (तत्) वहाँ (अप्सरसः) हे आकाश आदि में व्यापक शक्तियो ! (परा) पराक्रम से (इत) प्राप्त हो, तुम (प्रतिबुद्धाः) प्रत्यक्ष जानी हुई, (अभूतन) हो चुकी हो ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर के गुण कर्म स्वभाव जानकर महापुरुषार्थी होवें ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यत्र) यस्मिन् स्थाने (अश्वत्थाः) अ० ३।६।१। अश्वेषु बलवत्सु स्थितिशीलाः। अश्वत्थामानः। अतिवीरपुरुषाः (न्यग्रोधाः) न्यक्+रुधिर् आवरणे-अच्। शत्रूणां नीचं रोधकाः (महावृक्षाः) वृक्ष वरणे-क। महावरणीयाः। अतिश्रेष्ठाः (शिखण्डिनः) अण्डन् कृसृभृवृञः। उ० १।१२९। इति शिख गतौ-अण्डन्, स च कित् तत इनि। गतिमन्तः। उद्योगिनः। अन्यत् पूर्ववत् म० ३ ॥
 </details>

@@ -23,7 +23,7 @@ that the first pāda is *triṣṭubh*.
 Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth the charm, ye Deities! Let him consume with love of me.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अनुऽमते। अनु। इदम्। मन्यस्व। आऽकूते। सम्। इदम्। नमः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.२।
 </details>
@@ -36,22 +36,22 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 - स्मर सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परस्पर पालन का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अनुमते) हे अनुकूल बुद्धि ! तू (इदम्) इसको (अनु मन्यस्व) प्रसन्नता से स्वीकार कर, (आकूते) हे उत्साह शक्ति ! (इदम्) यह (नमः) अन्न (सम्) ठीक रीति से [हमारे लिये हो]। (देवाः) हे विद्वानों ! (स्मरम्) स्मरण सामर्थ्य को (प्र) अच्छे प्रकार (हिणुत) बढ़ाओ, (असौ) वह [स्मरण सामर्थ्य] (माम् अनु) मुझमें व्यापकर (शोचतु) शुद्ध रहे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य बुद्धि और उत्साह के साथ अपने सब काम ठीक-ठीक सिद्ध करें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अनुमते) अ० १।१८।२। हे सहायिके बुद्धे (इदम्) क्रियमाणं कर्म (अनु मन्यस्व) स्वीकुरु (आकूते) हे उत्साहशक्ते−यथा दयानन्दभाष्ये, यजु० ४।७। (सम्) सम्यक् (इदम्) (नमः) अन्नम्−निघ० २।७। अन्यत् पूर्ववत् ॥
 </details>

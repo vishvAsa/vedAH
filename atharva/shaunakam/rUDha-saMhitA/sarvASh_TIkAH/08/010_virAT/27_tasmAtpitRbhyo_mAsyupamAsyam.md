@@ -25,7 +25,7 @@ in our text the lost accent-mark under the *ti* of *jīvanti* in **d**.
 She rose approached the Apsarases and Gandharvas. They called her, Come to us, O Fragrant-scented! The son of Suryavarchas, Chitraratha, was her dear calf, her pail. a lotus-petal. The son of Suryavarchas, Vasuruchi, milked and drew from her most delightful fragrance. That scent supports Apsarases and Gandharvas. He who knows this becomes a meet supporter, and round him ever breathes delicious odour.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तस्मात्। पितृऽभ्यः। मासि। उपऽमास्यम्। ददति। प्र। पितृऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.४।
 </details>
@@ -38,22 +38,22 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मात्) इसी कारण (पितृभ्यः) ऋतुओं को [वा ऋतुओं से] (मासि) महीने-महीने (उपमास्यम्) चन्द्रमा में रहनेवाले अमृत को वे [ईश्वरनियम] (ददति) देते हैं, वह (पितृयाणम्) ऋतुओं के चलने योग्य (पन्थाम्) मार्ग को (प्र जानाति) जान लेता है (यः एवम् वेद) जो ऐसा जानता है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ऋतुओं के गुणों को जानकर मनुष्य ऋतुओं की सूक्ष्म अवस्था जान लेता है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(पितृभ्यः) ऋतूनामर्थम्। ऋतूनां सकाशात् (मासि) मासे (उपमास्यम्) मासि चन्द्रमसि प्रभवममृतम् (ददति) प्रयच्छन्ति, ईश्वरनियमा इति शेषः (प्र) प्रकर्षेण (पितृयाणम्) ऋतुभिर्गमनीयम् (पन्थाम्) मार्गम्। अन्यत् सुगमम् ॥
 </details>

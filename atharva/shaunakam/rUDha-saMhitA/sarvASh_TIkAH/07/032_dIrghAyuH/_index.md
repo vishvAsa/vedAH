@@ -2,7 +2,7 @@
 title = "०३२ दीर्घायुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 32 (33). Homage to Soma (?).
 </details>

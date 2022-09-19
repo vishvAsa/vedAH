@@ -2,7 +2,7 @@
 title = "००८ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8 (9). For some one's success.
 </details>

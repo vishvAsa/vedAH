@@ -19,7 +19,7 @@ This verse is a repetition of vi. 96. 2.
 Release me from the curse's bond and plague that comes from Varuna; Free me from Yama's fetter and from every sin against the Gods.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्‍य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।
 </details>
@@ -32,22 +32,22 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 - पापनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 इन्द्रियों के जय का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वे [व्यापनशील इन्द्रियाँ-म० १] (मा) मुझको (शपथ्यात्) शपथ सम्बन्धी (अथो) और (वरुण्यात्) श्रेष्ठों में हुए [अपराध] से (अथो) और (यमस्य) न्यायकारी राजा के (पड्वीशात्) बेड़ी डालने से (उत) और (विश्वस्मात्) सब (देवकिल्बिषात्) परमेश्वर के प्रति अपराध से (मुञ्चन्तु) मुक्त करें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रमाद छोड़कर इन्द्रियों को जीतकर सब प्रकार के दोषों से बचें ॥२॥ यह मन्त्र आ चुका है। अ० ६।९६।२ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(मुञ्चन्तु) मोचयन्तु (ताः) आपः-म० १। (देवकिल्बिषात्) परमेश्वरं प्रति दोषात्। अन्यद् व्याख्यातम्-अ० ६।९६।२ ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०१५ वाणिज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. For success in trade.
 </details>

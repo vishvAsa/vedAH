@@ -20,7 +20,7 @@ the unusual resolution *-ya-am* at end of **a**.
 The spell that they have cast upon thine army or thy shafts and arms, Spell they have cast upon the drum, this I throw back again on them.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याम्। ते। चक्रुः। सेनायाम्। याम्। चक्रुः। इषुआयुधे। दुन्दुभौ। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.७।
 </details>
@@ -33,22 +33,22 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 - कृत्यापरिहरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याम्) जिस [हिंसा] को (ते) तेरी (सेनायाम्) सेना में (चक्रुः) उन [शत्रुओं] ने किया है, और (याम्) जिसको तेरे (इष्वायुधे) बाण आदि शस्त्रों में (चक्रुः) उन्होंने किया है। (याम्) जिस (कृत्याम्) हिंसा को तेरी (दुन्दुभौ) दुन्दुभि में... म० १ ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सेनापति अपनी सेना और अस्त्र-शस्त्र बाजे आदि की सावधानी से रक्षा करे ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(सेनायाम्) योद्धृसमूहे (इष्वायुधे) बाणादिशस्त्रे (दुन्दुभौ) बृहड्ढक्कायाम्। अन्यद् गतम् ॥
 </details>

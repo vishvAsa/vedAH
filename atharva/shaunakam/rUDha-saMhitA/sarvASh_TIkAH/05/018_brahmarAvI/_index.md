@@ -2,7 +2,7 @@
 title = "०१८ ब्रह्मरावी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. The Brahman's cow.
 </details>

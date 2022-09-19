@@ -2,7 +2,7 @@
 title = "०४१ राष्ट्रं बलमोजश्च"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 41. For some one's welfare.
 </details>

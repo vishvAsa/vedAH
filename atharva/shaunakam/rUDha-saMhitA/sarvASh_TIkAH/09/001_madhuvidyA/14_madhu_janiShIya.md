@@ -23,7 +23,7 @@ it is not) the Anukr. counts out a good *purauṣṇih*.
 Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni! have I come: splendour and strength bestow on me!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मधु। जनिषीय। मधु। वंशिषीय। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। १.१४।
 </details>
@@ -36,22 +36,22 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 - मधु विद्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मधु) ज्ञान को (जनिषीय) मैं उत्पन्न करूँ, (मधु) ज्ञान की (वंशिषीय) याचना करूँ। (अग्ने) हे विद्वान् ! (पयस्वान्) गतिवाला मैं (आ अगमम्) आया हूँ, (तम्) उस (मा) मुझको (वर्चसा) [वेदाध्ययन आदि के] प्रकाश से (सम् सृज) संयुक्त कर ॥१४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ज्ञान का प्रचार और जिज्ञासा करके संसार में कीर्ति प्राप्त करें ॥१४॥ इस मन्त्र का उत्तर भाग आ चुका है-अ० ७।८९।१ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(मधु) म० १। ज्ञानम् (जनिषीय) जनी प्रादुर्भावे, छन्दसि प्रादुष्करणे-आशीर्लिङ्। प्रादुष्क्रियासम् (वंशिषीय) वनु याचने-आशीर्लिङि छान्दसं रूपम्। अहं वनिषीय। याचिषीय। अन्यत् पूर्ववत्-अ० ७।८९।१ ॥
 </details>

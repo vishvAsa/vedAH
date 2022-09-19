@@ -2,7 +2,7 @@
 title = "०८४ क्षत्रभृदग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 84 (89). To Agni: and to Indra.
 </details>

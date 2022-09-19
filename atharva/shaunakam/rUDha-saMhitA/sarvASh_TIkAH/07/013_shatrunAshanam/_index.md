@@ -2,7 +2,7 @@
 title = "०१३ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 13 (14). Against one's foes.
 </details>

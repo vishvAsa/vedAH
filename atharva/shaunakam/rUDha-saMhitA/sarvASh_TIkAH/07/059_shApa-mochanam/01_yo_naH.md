@@ -28,7 +28,7 @@ Here ends also the sixteenth *prapāṭhaka*.
 Like a tree struck by lightning may the man be withered from the root. Who curseth us who curse not him, or, when we curse him. curseth us.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। वृक्षःऽइव। विऽद्युता। हतः। आ। मूलात्। अनु। शुष्यतु। ६१.१।
 </details>
@@ -41,22 +41,22 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 - शापमोचन सुक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुवचन के त्याग का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (अशपतः) न शाप देनेवाले (नः) हम लोगों को (शपात्) शाप देवे, (च) और (यः) जो (शपतः) शाप देनेवाले (नः) हम लोगों को (शपात्) शाप देवे। (विद्युता) बिजुली से (हतः) मारे गये (वृक्षः इव) वृक्ष के समान वह (आ मूलात्) जड़ से लेकर (अनु) निरन्तर (शुष्यतु) सूख जावे ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो दुष्ट धर्मात्माओं में दोष लगावे, राजा उसको यथोचित दण्ड देवे ॥१॥ इस मन्त्र का पूर्वार्द्ध आ चुका है-अ० ६।३७।३ ॥  इति पञ्चमोऽनुवाकः ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यः) दुष्टः (नः) अस्मान् (शपात्) शपेत्। निन्देत् (अशपतः) अशापिनः (शपतः) शापकारिणः (यः) (च) (नः) (शपात्) (वृक्षः) (इव) (विद्युता) अशन्या (हतः) भस्मीकृतः (आ मूलात्) मूलमारभ्य (अनु) निरन्तरम् (शुष्यतु) शुष्को भवतु ॥
 </details>

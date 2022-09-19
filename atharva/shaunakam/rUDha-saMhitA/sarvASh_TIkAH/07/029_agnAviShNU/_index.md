@@ -2,7 +2,7 @@
 title = "०२९ अग्नाविष्णू"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29 (30). To Agni and Vishṇu.
 </details>

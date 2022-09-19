@@ -2,7 +2,7 @@
 title = "००५ ब्रह्मगवी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. The Brahman's cow.
 </details>

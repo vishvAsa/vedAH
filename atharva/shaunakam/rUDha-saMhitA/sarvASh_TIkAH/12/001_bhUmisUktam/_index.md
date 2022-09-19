@@ -2,7 +2,7 @@
 title = "००१ भूमिसूक्तम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. To the earth.
 </details>

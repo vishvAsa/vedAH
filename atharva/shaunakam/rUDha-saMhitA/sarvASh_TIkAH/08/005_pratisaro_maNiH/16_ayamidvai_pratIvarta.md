@@ -19,7 +19,7 @@ for consistency, read *ójasvānt s-*.
 Verily let this Amulet, circular, potent, conquering, Happy and fortunate defence, preserve thy children and thy wealth.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अयम्। इत्। वै। प्रतिऽवर्तः। ओजस्वान्। सम्ऽजयः। मणिः। प्रऽजाम्। धनम्। च। रक्षतु। परिऽपानः। सुऽमङ्गलः। ५.१६।
 </details>
@@ -32,22 +32,22 @@ Verily let this Amulet, circular, potent, conquering, Happy and fortunate defenc
 - प्रतिसरमणि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 हिंसा के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह (इत् वै) अवश्य ही (प्रतिवर्तः) प्रत्यक्ष घूमनेवाला, (ओजस्वान्) बलवान्, (संजयः) विजयी, (परिपाणः) परिरक्षक, (सुमङ्गलः) बड़ा मङ्गलकारी (मणिः) मणि [श्रेष्ठ नियम] (प्रजाम्) प्रजा (च) और (धनम्) धन की (रक्षतु) रक्षा करे ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  नियमवान् मनुष्य ही प्रजा और धन की रक्षा करते हैं ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(अयम्) (इत्) अवश्यम् (वै) एव (प्रतिवर्तः) म० ४। प्रत्यक्षवर्तनशीलः (ओजस्वान्) बलवान् (संजयः) सम्यग् जेता (मणिः) म० १। श्रेष्ठनियमः (प्रजाम्) (धनम्) (च) (रक्षतु) (परिपाणः) म० १। परिरक्षकः (सुमङ्गलः) बहुश्रेयस्करः ॥
 </details>

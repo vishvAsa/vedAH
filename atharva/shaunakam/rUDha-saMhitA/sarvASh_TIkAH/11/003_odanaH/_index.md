@@ -2,7 +2,7 @@
 title = "००३ ओदनः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. Extolling the rice-dish (odaná).
 </details>

@@ -2,7 +2,7 @@
 title = "०२२ अमित्रक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. For the success and prosperity of a king.
 </details>

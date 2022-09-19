@@ -18,7 +18,7 @@ This is a repetition of vs. 2; all the mss. give it in full.
 To misty cloud filled with his rays Mahendra goes encompassed round,
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 रश्मिऽभिः। नभः। आऽभृतम्। महाऽइन्द्रः। एति। आऽवृतः। ४.९।
 </details>
@@ -31,22 +31,22 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 - अध्यात्म सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (महेन्द्रः) बड़ा ऐश्वर्यवान् (आवृतः) सब ओर से ढका हुआ [अन्तर्यामी परमेश्वर] (रश्मिभिः) किरणों द्वारा (आभृतम्) सब प्रकार पुष्ट किये हुए (नभः) मेघमण्डल में (एति) व्यापक है ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २ के समान है ॥९॥यह मन्त्र ऊपर आ चुका है-मन्त्र २ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−अयं मन्त्रो व्याख्यातः-म० २ ॥
 </details>

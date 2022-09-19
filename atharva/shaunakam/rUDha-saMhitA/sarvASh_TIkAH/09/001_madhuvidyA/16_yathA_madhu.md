@@ -20,7 +20,7 @@ parts of 11-13, not metrical as it stands.
 As honey-bees collect and add fresh honey to their honey store, Even so may both the Asvins lay splendour and strength within my soul.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। मधु। मधुऽकृतः। सम्ऽभरन्ति। मधौ। अधि। एव। मे। अश्विना। वर्चः। आत्मनि। ध्रियताम्। १.१६।
 </details>
@@ -33,22 +33,22 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 - मधु विद्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (मधुकृतः) ज्ञान करनेवाले [आचार्य लोग] (मधु) [एक] ज्ञान को (मधौ) [दूसरे] ज्ञान पर (अधि) यथावत् (संभरन्ति) भरते जाते हैं, (एव) वैसे ही, (अश्विना) हे [कार्यकुशल] माता-पिता ! (मे आत्मनि) मेरे आत्मा में [विद्या का] (वर्चः) प्रकाश (ध्रियताम्) धरा जावे ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्तम आचार्यों के समान एक के ऊपर एक अनेक विद्याओं का उपदेश करके शिष्यों को श्रेष्ठ बनावें ॥१६॥ इस मन्त्र का उत्तर भाग आ चुका है-म० ११ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(मधु) ज्ञानम् (मधुकृतः) बोधकर्तारः। आचार्याः (संभरन्ति) संगृह्य धरन्ति (मधौ) ज्ञाने (अधि) यथावत्। अन्यत् पूर्ववत्-म० ११ ॥
 </details>

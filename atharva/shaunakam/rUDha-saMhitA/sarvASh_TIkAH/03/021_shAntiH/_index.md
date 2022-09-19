@@ -2,7 +2,7 @@
 title = "०२१ शान्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21. With oblation to the various forms of fire or Agni.
 </details>

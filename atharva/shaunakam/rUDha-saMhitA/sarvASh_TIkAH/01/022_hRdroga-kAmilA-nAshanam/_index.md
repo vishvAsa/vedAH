@@ -2,7 +2,7 @@
 title = "०२२ हृद्रोग-कामिला-नाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. Against yellowness (jaundice).
 </details>

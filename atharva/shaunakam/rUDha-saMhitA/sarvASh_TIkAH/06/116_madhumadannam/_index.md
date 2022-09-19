@@ -2,7 +2,7 @@
 title = "११६ मधुमदन्नम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 116. For relief from guilt.
 </details>

@@ -2,7 +2,7 @@
 title = "००२ आत्मविद्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. To the unknown god.
 </details>

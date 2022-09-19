@@ -18,7 +18,7 @@ Ppp. reads *vas* instead of *u* in **c**.
 O Serpent, Indra hath destroyed the sire who first engendered thee: And when these snakes are pierced and bored what sap and vigour will be theirs?
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 इन्द्रः। जघान। प्रथमम्। जनितारम्। अहे। तव। तेषाम्। ऊं इति। तृह्यमाणानाम्। कः। स्वित्। तेषाम्। असत्। रसः। ४.१८।
 </details>
@@ -31,22 +31,22 @@ O Serpent, Indra hath destroyed the sire who first engendered thee: And when the
 - सर्पविषदूरीकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अहे) हे महाहिंसक [साँप !] (इन्द्रः) बड़े ऐश्वर्यवान् पुरुष ने (तव) तेरे (जनितारम्) जन्मदाता को (प्रथमम्) पहिले (जघान) मारा था। (तेषाम् तेषाम्) उन्हीं (तृह्यमाणानाम्) छिदे हुओं का (उ) ही (कः स्वित्) कौनसा (रसः) रस [पराक्रम] (असत्) होवे ॥१८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  बलवान् प्रतापी पुरुष हिंसक जीवों के बड़े और छोटों को नाश करे ॥१८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(इन्द्रः) परमैश्वर्यवान् पुरुषः (जघान) नाशितवान् (प्रथमम्) आदौ (जनितारम्) जनयितारं जनकम् (अहे) हे महाहिंसक (तव) (तेषाम् तेषाम्) तेषामेव (उ) निश्चयेन (तृह्यमाणानाम्) हिंस्यमानानाम् (कः स्वित्) (असत्) भवेत् (रसः) पराक्रमः ॥
 </details>

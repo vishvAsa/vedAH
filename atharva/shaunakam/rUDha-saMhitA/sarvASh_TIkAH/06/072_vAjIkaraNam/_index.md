@@ -2,7 +2,7 @@
 title = "०७२ वाजीकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 72. For virile power.
 </details>

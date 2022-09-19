@@ -19,7 +19,7 @@ accordingly, with mechanical correctness.
 O Lord of Life, Prajapati, within this woman's body lay A male germ with the noblest form for her in the tenth month to bear.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 प्रजाऽपते। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१३।
 </details>

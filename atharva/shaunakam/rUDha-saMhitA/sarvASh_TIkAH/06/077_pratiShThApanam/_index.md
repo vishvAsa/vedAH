@@ -2,7 +2,7 @@
 title = "०७७ प्रतिष्ठापनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 77. For recovery and retention of what is lost.
 </details>

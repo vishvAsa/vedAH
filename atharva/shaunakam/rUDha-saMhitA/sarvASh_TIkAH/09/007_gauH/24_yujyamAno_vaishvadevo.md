@@ -18,7 +18,7 @@ Ppp. reads *vāiśvānaras* instead of *vāiśvadevas*.
 When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when unyoked he is All.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 युज्यमानः। वैश्वऽदेवः। युक्तः। प्रजाऽपतिः। विऽमुक्तः। सर्वम्। १२.२४।
 </details>
@@ -31,22 +31,22 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 - गौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [वह] (युज्यमानः) ध्यान किया जाता हुआ (वैश्वदेवः) सब विद्वानों का हितकारी, (युक्तः) समाधि किया गया वह (विमुक्तः) विविध मुक्तस्वभाव (प्रजापतिः) प्रजापालक परमेश्वर (सर्वम्) व्यापक ब्रह्म [है] ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा की उपासना से मनुष्य सुखलाभ करते हैं ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(युज्यमानः) ध्यायमानः (वैश्वदेवः) सर्वविदुषां हितः (युक्तः) समाहितः (प्रजापतिः) प्रजापालकः परमेश्वरः (विमुक्तः) विविधमुक्तस्वभावः (सर्वम्) व्यापकं ब्रह्म ॥
 </details>

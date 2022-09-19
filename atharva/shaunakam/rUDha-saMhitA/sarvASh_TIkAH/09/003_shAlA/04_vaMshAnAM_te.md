@@ -22,7 +22,7 @@ call for a descriptive epithet. Ppp. reads *naddhān vi* in **d**.
 We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose the ties of thy side-posts, O House that holdest all we prize.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 वंशानाम्। ते। नहनानाम्। प्राणहस्य। तृणस्य। च। पक्षाणाम्। विश्वऽवारे। ते। नध्दानि। वि। चृतामसि। ३.४।
 </details>
@@ -35,22 +35,22 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 - शाला सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शाला बनाने की विधि का उपदेश।[इस सूक्त का मिलान अथर्व काण्ड ३ सूक्त १२ से करो]
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्ववारे) हे सब उत्तम पदार्थोंवाली ! (ते) तेरे (वंशानाम्) बाँसों, (नहनानाम्) गाँठों (च) और (प्राणाहस्य) बन्धन की (तृणस्य) घास के और (ते) तेरे (पक्षाणाम्) पक्खों [भीति आदि] के (नद्धानि) बन्धनों को (वि) अच्छे प्रकार (चृतामसि) हम गूँथते हैं ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य घर बनाने में सब अङ्गों के जोड़ों को यथावत् दृढ़ करें ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(वंशानाम्) वश कान्तौ-अच् घञ् वा, नुम् च। वेणूनाम् (ते) तव (नहनानाम्) ग्रन्थीनाम् (प्राणाहस्य) प्र+आङ्+णह बन्धने-घञ्। बन्धनसाधनस्य (तृणस्य) (च) (पक्षाणाम्) पक्ष परिग्रहे-अच्। गृहपार्श्वानाम् (विश्ववारे) हे सर्ववरणीयपदार्थयुक्ते। अन्यत् पूर्ववत् ॥
 </details>

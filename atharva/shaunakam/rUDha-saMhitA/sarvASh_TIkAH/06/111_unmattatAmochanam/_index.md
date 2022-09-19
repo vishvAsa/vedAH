@@ -2,7 +2,7 @@
 title = "१११ उन्मत्ततामोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 111. For relief from insanity.
 </details>

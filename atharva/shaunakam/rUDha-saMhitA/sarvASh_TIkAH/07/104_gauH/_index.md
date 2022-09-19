@@ -2,7 +2,7 @@
 title = "१०४ गौः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 104 (109). Concerning Atharvan's cow.
 </details>

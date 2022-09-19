@@ -2,7 +2,7 @@
 title = "०७८ दम्पत्यो रयिप्राप्तये प्रार्थना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 78. For matrimonial happiness.
 </details>

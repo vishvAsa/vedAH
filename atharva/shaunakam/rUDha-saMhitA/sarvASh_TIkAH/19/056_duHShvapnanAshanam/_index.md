@@ -2,7 +2,7 @@
 title = "०५६ दुःष्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 56. To sleep (or dream).
 </details>

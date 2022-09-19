@@ -2,7 +2,7 @@
 title = "०३६ पतिवेदनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 36. To get a husband for a woman.
 </details>

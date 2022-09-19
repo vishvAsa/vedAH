@@ -2,7 +2,7 @@
 title = "११० शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 110 (115). To Indra and Agni: for help.
 </details>

@@ -2,7 +2,7 @@
 title = "०७४ सांमनस्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 74. For harmony.
 </details>

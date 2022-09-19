@@ -2,7 +2,7 @@
 title = "०३० कामिनीमनोऽभिमुखीकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30. To secure a woman's love.
 </details>

@@ -2,7 +2,7 @@
 title = "००१ दुःखमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Paryāya the first.
 </details>

@@ -2,7 +2,7 @@
 title = "००४ शत्रुदमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. Against sorcerers and demons: to Indra and Soma.
 </details>

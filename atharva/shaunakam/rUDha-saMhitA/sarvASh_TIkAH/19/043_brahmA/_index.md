@@ -2,7 +2,7 @@
 title = "०४३ ब्रह्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 43. To various gods: for attaining heaven.
 </details>

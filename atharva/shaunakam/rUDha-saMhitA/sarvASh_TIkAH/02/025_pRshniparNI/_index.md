@@ -2,7 +2,7 @@
 title = "०२५ पृश्निपर्णी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. Against káṇvas: with a plant.
 </details>

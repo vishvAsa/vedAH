@@ -2,7 +2,7 @@
 title = "०३० दीर्घायुःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30. For protection: to all the gods.
 </details>

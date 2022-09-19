@@ -2,7 +2,7 @@
 title = "०१५ पुष्टिकर्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. With an oblation: for confluence of wealth.
 </details>

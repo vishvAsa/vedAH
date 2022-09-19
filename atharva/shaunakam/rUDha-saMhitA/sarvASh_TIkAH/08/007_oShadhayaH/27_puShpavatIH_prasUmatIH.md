@@ -20,7 +20,7 @@ identical with RV. x. 97. 3 **b**.
 Let Plants with flower and Plants with bud, the fruitful and the fruitless, all, Like children of one mother, yield their stores for this man's perfeet health.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 पुष्पऽवतीः। प्रसूऽमतीः। फलिनीः। अफला। उत। संमातरःऽइव। दुह्राम्। अस्मै। अरिष्टऽतातये। ७.२७।
 </details>
@@ -33,22 +33,22 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 - ओषधि समूह सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पुष्पवतीः) पुष्प रखनेवाली, (प्रसूमतीः) सुन्दर कोंपलवाली, (फलिनीः) फलवाली (उत) और (अफलाः) फलरहित [ओषधियाँ] (संमातरः इव) संमिलित माताओं के समान (अस्मै) इस [पुरुष] को (अरिष्टतातये) कुशल करने के लिये (दुह्राम्) दूध देवें ॥२७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सब प्रकार की ओषधियों से उपकार लेकर स्वस्थ रहें ॥२७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २७−(पुष्पवतीः) प्रशस्तपुष्पयुक्ताः (प्रसूमतीः) कोमलपल्लववत्यः (फलिनीः) उत्तमफलवत्यः (उत) अपि च (संमातरः इव) सम्मिलितजनन्यो यथा (दुह्राम्) दुहन्तु। दुग्धं ददतु (अस्मै) मनुष्याय (अरिष्टतातये) अ० ३।५।५। क्षेमकरणाय ॥
 </details>

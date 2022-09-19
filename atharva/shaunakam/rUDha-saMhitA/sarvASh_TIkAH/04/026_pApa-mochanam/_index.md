@@ -2,7 +2,7 @@
 title = "०२६ पाप-मोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 26. Praise and prayer to heaven and earth.
 </details>

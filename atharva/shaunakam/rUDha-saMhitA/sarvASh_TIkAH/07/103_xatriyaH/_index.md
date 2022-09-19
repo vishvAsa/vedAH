@@ -2,7 +2,7 @@
 title = "१०३ क्षत्रियः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 103 (108). For betterment.
 </details>

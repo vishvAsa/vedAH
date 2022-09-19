@@ -2,7 +2,7 @@
 title = "००५ पञ्चौदनो अजः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. With the offering of a goat and five rice-dishes.
 </details>

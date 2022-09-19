@@ -2,7 +2,7 @@
 title = "०११ नारी–सुखप्रसूतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. For successful childbirth.
 </details>

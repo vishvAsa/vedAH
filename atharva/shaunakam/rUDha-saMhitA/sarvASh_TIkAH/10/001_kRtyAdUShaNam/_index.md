@@ -2,7 +2,7 @@
 title = "००१ कृत्यादूषणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Against witchcraft and its practisers.
 </details>

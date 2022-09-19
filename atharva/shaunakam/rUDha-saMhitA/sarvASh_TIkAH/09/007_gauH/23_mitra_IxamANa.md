@@ -19,7 +19,7 @@ mitrāvaruṇo*.
 He is Mitra when he looks about him, and when he hath turned round he is joy.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मित्रः। ईक्षमाणः। आऽवृत्तः। आऽनन्दः। १२.२३।
 </details>
@@ -32,22 +32,22 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 - गौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [वह] (ईक्षमाणः) देखता हुआ (मित्रः) मित्र [हितकारी], (आवृत्तः) सन्मुख वर्तमान (आनन्दः) आनन्द [स्वरूप है] ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सर्वदर्शी सर्वव्यापक परमेश्वर सब का हितकारी है ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(मित्रः) हितः (ईक्षमाणः) पश्यन् सन् (आवृत्तः) समन्ताद् वर्तमानः (आनन्दः) सुखस्वरूपः ॥
 </details>

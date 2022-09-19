@@ -2,7 +2,7 @@
 title = "०१० शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. To conquer enemies: to Trishandhi.
 </details>

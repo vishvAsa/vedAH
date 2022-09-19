@@ -16,7 +16,7 @@ title = "११ त्वष्टः श्रेष्ठेन"
 Tvashtar, celestial artist, lay within the body of this dame. A male germ with the noblest form for her in the tenth month to bear.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 त्वष्टः। श्रेष्ठेन। रूपेण। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.११।
 </details>
@@ -29,22 +29,22 @@ Tvashtar, celestial artist, lay within the body of this dame. A male germ with t
 - गर्भाधान सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गर्भाधान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (त्वष्टः) हे विश्वकर्मा परमात्मन् ! (श्रेष्ठेन) श्रेष्ठ... म० १० ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विदुषी पत्नी परमेश्वर के गुणों का विचार करती हुई उत्तम गुण स्वभाववाला सन्तान गर्भ के पूरे दिनों में उत्पन्न करे ॥१०॥  यही भाव मन्त्र १३ तक जानों ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(धातः) हे सर्वधारक परमेश्वर (श्रेष्ठेन) उत्तमेन (रूपेण) आकारेण (अस्याः) (नार्याः) स्त्रियाः (गवीन्योः) अ० १।३।६। पार्श्वद्वयस्थे नाड्यौ गवीन्यौ तयोः (पुमांसम्) अ० १।८।१। पा रक्षणो−डुम्सुन्। रक्षकम् (पुत्रम्) कुलशोधकं सन्तानम् (आ) सम्यक् (धेहि) स्थापय (दशमे) (मासि) (सूतवे) अ० १।१।२। प्रसवार्थम् ॥
 </details>

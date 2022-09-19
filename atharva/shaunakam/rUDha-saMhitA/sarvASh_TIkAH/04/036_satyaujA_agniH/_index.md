@@ -2,7 +2,7 @@
 title = "०३६ सत्यौजा अग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 36. Against demons and other enemies.
 </details>

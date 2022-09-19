@@ -2,7 +2,7 @@
 title = "०२४ समृद्घि-प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 24. For abundance of grain.
 </details>

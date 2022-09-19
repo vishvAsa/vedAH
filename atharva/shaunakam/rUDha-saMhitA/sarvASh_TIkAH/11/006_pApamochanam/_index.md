@@ -2,7 +2,7 @@
 title = "००६ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. To many different gods: for relief.
 </details>

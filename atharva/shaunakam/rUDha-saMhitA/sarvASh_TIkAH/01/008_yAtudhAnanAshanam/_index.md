@@ -2,7 +2,7 @@
 title = "००८ यातुधाननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. To Agni and other gods: for the discovery of sorcerers.
 </details>

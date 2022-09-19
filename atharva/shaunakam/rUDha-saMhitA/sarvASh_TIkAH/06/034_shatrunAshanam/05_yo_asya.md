@@ -25,7 +25,7 @@ with the same reading, save *pariṣad*.⌋
 That brilliant Agni who was born beyond this region of the air, May he transport us past our foes!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। अस्य। पारे। रजसः। शुक्रः। अग्निः। अजायत। सः। नः। पर्षत्। अति। द्विषः। ३४.५।
 </details>
@@ -38,22 +38,22 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (शुक्रः) शुद्ध स्वभाव (अग्निः) ज्ञानस्वरूप परमेश्वर (अस्य) इस (रजसः) अन्तरिक्ष के (पारे) पार (अजायत) प्रकट हुआ है। (सः) वह (द्विषः) वैरियों को (अति) उलाँघ कर (नः) हमें (पर्षत्) भरपूर करे ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर प्रत्येक स्थान में व्यापक रहकर हमारी रक्षा करता है ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(यः) परमेश्वरः (अस्य) प्रत्यक्षस्य (पारे) अन्ते (रजसः) अन्तरिक्षलोकस्य−निघ० १।७। (शुक्रः) शुद्धस्वभावः (अजायत) प्रादुरभवत्। अन्यत्पूर्ववत् ॥
 </details>

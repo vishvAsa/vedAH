@@ -2,7 +2,7 @@
 title = "०९५ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 95 (100) A spell against some one.
 </details>

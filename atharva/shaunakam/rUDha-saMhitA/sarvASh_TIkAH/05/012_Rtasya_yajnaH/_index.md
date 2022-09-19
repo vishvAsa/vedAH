@@ -2,7 +2,7 @@
 title = "०१२ ऋतस्य यज्ञः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. Āprī-hymn: to various divinities.
 </details>

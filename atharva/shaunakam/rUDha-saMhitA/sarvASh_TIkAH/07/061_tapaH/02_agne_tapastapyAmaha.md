@@ -20,7 +20,7 @@ takes it as equivalent to simple *tapya.*
 Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore may we grow wise and full of days.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अग्ने। तपः। तप्यामहे। उप। तप्यामहे। तपः। श्रुतानि। शृण्वन्तः। वयम्। आयुष्मन्तः। सुऽमेधसः। ६३.२।
 </details>
@@ -33,22 +33,22 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 - तपः सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदविद्या प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वन् आचार्य ! हम (तपः) तप [द्वन्द्वसहन] (तप्यामहे) करते हैं, और (तपः) ब्रह्मचर्यादि व्रत (उप तप्यामहे) यथावत् साधते हैं। (श्रुतानि) वेदशास्त्रों को (शृण्वन्तः) सुनते हुए (वयम्) हम (आयुष्मन्तः) उत्तम जीवनवाले और (सुमेधसः) तीव्र बुद्धिवाले [हो जावें] ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य द्वन्द्वसहन और ब्रह्मचर्यसेवन से वेदों का श्रवण, मनन और निदिध्यासन करके संसार में कीर्त्तिमान् होवें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(तप्यामहे) साधयामः (श्रुतानि) वेदशास्त्राणि (शृण्वन्तः) श्रवणेन स्वीकुर्वन्तः। अन्यत् पूर्ववत्-म० १ ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०२९ राष्ट्राभिवर्धनम्, सपत्नक्षयणं च"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. For a chief's success: with an amulet.
 </details>

@@ -20,7 +20,7 @@ described by the Anukr. in accordance with that of vs. 11.
 Wide as the space which heaven and earth encompass, far as the flow of waters, far as Agni, Stronger than these art thou, and great for ever. Kama, to thee, to thee I offer worship.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यावती इति। द्यावापृथिवी इति। वरिम्णा। यावत्। आपः। सिस्यदुः। यावत्। अग्निः। ततः। त्वम्। असि। ज्यायान्। विश्वहा। महान्। तस्मै। ते। काम। नमः। इत्। कृणोमि। २.२०।
 </details>
@@ -33,22 +33,22 @@ Wide as the space which heaven and earth encompass, far as the flow of waters, f
 - काम सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यावती) जितने कुछ (द्यावापृथिवी) सूर्य और भूलोक (वरिम्णा) अपने फैलाव से हैं, (यावत्) जहाँ तक (आपः) जलधाराएँ (सिस्वदुः) बही हैं और (यावत्) जितना कुछ (अग्निः) अग्नि वा बिजुली है। (ततः) उससे (त्वम्) तू.... म० १९॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सूर्य, पृथिवी आदि पदार्थों का उत्पन्न करनेवाला और जाननेवाला परमेश्वर ही है ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(यावती) यावत्यौ। यत्प्रमाणे (द्यावापृथिवी) सूर्यभूलोकौ (वरिम्णा) अ० ४।६।२। विस्तारेण (यावत्) यत्प्रमाणम् (आपः) जलधाराः (सिस्यदुः) स्यन्दू प्रस्रवणे-लिटि छान्दसं रूपम्। सस्यन्दिरे (यावत्) (अग्निः) पावकः। विद्युत्। अन्यत् पूर्ववत् ॥
 </details>

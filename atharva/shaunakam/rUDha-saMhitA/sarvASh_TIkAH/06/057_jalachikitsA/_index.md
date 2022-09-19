@@ -2,7 +2,7 @@
 title = "०५७ जलचिकित्सा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 57. With a certain remedy against disease.
 </details>

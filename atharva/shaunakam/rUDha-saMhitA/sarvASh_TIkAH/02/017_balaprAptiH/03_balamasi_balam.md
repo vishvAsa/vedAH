@@ -17,7 +17,7 @@ Ppp. gives *baladā agnir balaṁ me svāhā.*
 Strength art thou, give me strength. All hail!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 बलम्। असि। बलम्। मे। दाः। स्वाहा। १७.३।
 </details>
@@ -30,22 +30,22 @@ Strength art thou, give me strength. All hail!
 - बल प्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (बलम्) सामाजिक बल (असि) है, (मे) मुझे (बलम्) सामाजिक बल (दाः) दे, (स्वाहा) यह सुन्दर आशीर्वाद हो ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर में सब देवता, मनुष्य आदि समाजों का बल है, ऐसा जानकर मनुष्य अपने कुटुम्बी आदि से प्रीति बढ़ाकर सामाजिक बल बढ़ावें ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३–बलम्। बल जीवने, दाने, वधे–पचाद्यच्। बलते विपक्षान् हन्तीति। सामान्यशक्तिः। सैन्यम्। सामाजिकं सामर्थ्यम् ॥
 </details>

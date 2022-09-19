@@ -17,7 +17,7 @@ title = "०७ वेद आस्तरणम्ब्रह्मोपबर
 Sacred lore was the blanket, Devotion the coverlet.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 वेदः। आऽस्तरणम्। ब्रह्म। उपऽबर्हणम्। ३.७।
 </details>
@@ -30,22 +30,22 @@ Sacred lore was the blanket, Devotion the coverlet.
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा के विराट् रूप का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वेदः) धन [उस सिंहासनका] (आस्तरणम्) बिछौना और (ब्रह्म) अन्न (उपबर्हणम्) बालिश [शिर रखने का सहारा]था ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सिंहासन पर गद्दीऔर बालिश लगाये जाते हैं, वैसे ही परमेश्वर ने संसार में धन और अन्न रचे हैं॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(वेदः) विद्लृ लाभे-असुन्। धनम्-निघ० २।१० (आस्तरणम्) आस्तरः। विष्टरः (ब्रह्म) अन्नम्-निघ० २।७। (उपबर्हणम्) बालिशम् ॥
 </details>

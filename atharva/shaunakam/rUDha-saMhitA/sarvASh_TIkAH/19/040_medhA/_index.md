@@ -2,7 +2,7 @@
 title = "०४० मेधा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 40. To various divinities: for various blessings.
 </details>

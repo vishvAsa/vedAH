@@ -2,7 +2,7 @@
 title = "०२७ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. Praise and prayer to the Maruts.
 </details>

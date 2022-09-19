@@ -2,7 +2,7 @@
 title = "०४३ वाक्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 43 (44). Of speech (?).
 </details>

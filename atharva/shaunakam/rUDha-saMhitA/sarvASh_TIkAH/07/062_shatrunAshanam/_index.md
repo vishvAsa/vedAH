@@ -2,7 +2,7 @@
 title = "०६२ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 62 (64). To Agni: against enemies.
 </details>

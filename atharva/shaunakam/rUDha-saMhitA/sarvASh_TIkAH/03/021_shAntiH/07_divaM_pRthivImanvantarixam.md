@@ -29,7 +29,7 @@ vs. 6 would reduce the first part ⌊vss. 1-7⌋ to the norm of this book.
 All fiery flames that follow after lightning, flashing o'er earth, through firmament and heaven, All that are in the wind and skyey regions--to all these Fires be this oblation offered.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 दिवम्। पृथिवीम्। अनु। अन्तरिक्षम्। ये। विऽद्युतम्। अनुऽसंचरन्ति। ये। दिक्षु। अन्तः। ये। वाते। अन्तः। तेभ्यः। अग्निऽभ्यः। हुतम्। अस्तु। एतत्। २१.७।
 </details>
@@ -42,22 +42,22 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 - शान्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो [तेज] (दिवम्) सूर्यलोक में, (पृथिवीम्) पृथिवी में और (अन्तरिक्षम्) अन्तरिक्ष में (अनु) लगातार और (विद्युतम्) बिजुली में (अनुसंचरन्ति) लगातार चलते रहते हैं, (ये) जो (दिक्षु अन्तः) दिशाओं के भीतर और (ये) जो (वाते अन्तः) पवन के भीतर हैं, (तेभ्यः) उन (अग्निभिः) अग्नियों [ईश्वरतेजों] को (एतत्) यह (हुतम्) दान [आत्मसमर्पण] (अस्तु) होवे ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमात्मा के तेज सब लोकों, सब पदार्थों और सब दिशाओं में हैं, उस जगदीश्वर को हमारा नमस्कार है ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(दिवम्) सूर्यलोकम्। (पृथिवीम्) भूमिम्। (अनु) अनुप्रविश्य। (ये) अग्नयः। (विद्युतम्) अ० १।१३।१। विद्योतमानां तडितम्। (अनुसंचरन्ति)। अनुप्रविश्य सम्यग् गच्छन्ति व्याप्नुवन्ति। अन्यद् गतम् ॥
 </details>

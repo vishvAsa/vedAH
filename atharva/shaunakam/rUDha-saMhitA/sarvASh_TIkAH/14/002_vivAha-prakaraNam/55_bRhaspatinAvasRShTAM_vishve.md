@@ -16,7 +16,7 @@ title = "५५ बृहस्पतिनावसृष्टां विश
 Her whom Brihaspati, etc. With all good fortune, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। भगः। गोषु। प्रऽविष्टः। यः। तेन। इमाम्। सम्। सृजामसि। २.५५।
 </details>
@@ -29,22 +29,22 @@ Her whom Brihaspati, etc. With all good fortune, etc.
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (बृहस्पतिना)बृहस्पति....। (यः) जो (भगः) सेवनीय प्रभाव [ऐश्वर्य] (गोषु) विद्वानों में (प्रविष्टः) प्रविष्ट है, (तेन) उससे.... [मन्त्र ५३] ॥५५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ५३ के समान है॥५५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५५−(भगः) सेवनीयः प्रभावः। ऐश्वर्यम्। अन्यत् पूर्ववत् ॥
 </details>

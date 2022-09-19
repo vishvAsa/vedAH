@@ -18,7 +18,7 @@ This verse is a repetition of 39. 3 above.
 Indra and Agni were renowned, famous was Soma at his birth; So too am I illustrious, most glorious of all that is.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ५८.३।
 </details>

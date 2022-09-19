@@ -2,7 +2,7 @@
 title = "०२५ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. Praise and prayer to Vāyu and Savitar.
 </details>

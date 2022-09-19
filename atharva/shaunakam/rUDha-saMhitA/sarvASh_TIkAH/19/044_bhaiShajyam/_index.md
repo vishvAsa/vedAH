@@ -2,7 +2,7 @@
 title = "०४४ भैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 44. With an ointment: against diseases etc.
 </details>

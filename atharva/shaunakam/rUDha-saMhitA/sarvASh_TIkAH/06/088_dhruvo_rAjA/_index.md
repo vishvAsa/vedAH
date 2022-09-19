@@ -2,7 +2,7 @@
 title = "०८८ ध्रुवो राजा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 88. To establish a sovereign.
 </details>

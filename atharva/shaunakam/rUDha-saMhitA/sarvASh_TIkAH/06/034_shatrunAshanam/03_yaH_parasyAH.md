@@ -18,7 +18,7 @@ Ppp. reads, for **c**, *tiro viśvā ’dhirocate*.
 He who from distance far remote shineth across the tracts of land, May he transport us past our foes.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। परस्याः। पराऽवतः। तिरः। धन्व। अतिऽरोचते। सः। नः। पर्षत्। अति। द्विषः। ३४.३।
 </details>
@@ -31,22 +31,22 @@ He who from distance far remote shineth across the tracts of land, May he transp
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो परमेश्वर (परस्याः) दूर दिशा के भी (परावतः) दूर स्थान से (धन्व) अन्तरिक्ष को (तिरः=तिरस्कृत्य) पार करके (अतिरोचते) अत्यन्त चमकता है। (सः) वह (द्विषः) वैरियों को (अति) उलाँघ कर (नः) हमें (पर्षत्) भरपूर करे ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर दूर और समीप सब स्थान में हमारी रक्षा करता है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यः) परमेश्वरः (परस्या) दूरदिशायाः (परावतः) अ० ३।४।५। दूरगतात् स्थानात् (तिरः) तिरस्कृत्य, अन्तर्धाय (धन्व) अ० ४।४।७। अन्तरिक्षम्−निघ० १।३। (अतिरोचते) अतिशयेन दीप्यते। अन्यद् गतम् ॥
 </details>

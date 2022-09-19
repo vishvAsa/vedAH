@@ -2,7 +2,7 @@
 title = "११८ वर्मधारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 118 (123). When arming a warrior.
 </details>

@@ -2,7 +2,7 @@
 title = "०४५ ईर्ष्यानिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 45 (46, 47). To cure jealousy.
 </details>

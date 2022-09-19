@@ -2,7 +2,7 @@
 title = "०८२ अग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 82 (87). Praise and prayer to Agni.
 </details>

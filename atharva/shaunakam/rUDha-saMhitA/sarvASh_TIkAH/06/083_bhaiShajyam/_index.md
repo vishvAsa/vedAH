@@ -2,7 +2,7 @@
 title = "०८३ भैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 83. To remove apacíts.
 </details>

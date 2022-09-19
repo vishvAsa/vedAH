@@ -17,7 +17,7 @@ title = "१९ यथा यशः"
 As glory dwelleth in the Earth, and in this Jatavedas here, So may the Charm etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। यशः। पृथिव्याम्। यथा। अस्मिन्। जातऽवेदस‍ि। एव। मे। वरणः। मणिः। कीर्तिम्‌। भूतिम्। नि। यच्छतु। तेजसा। मा। सम्। उक्षतु। यशसा। सम्। अनक्तु। मा। ३.१९।
 </details>
@@ -30,22 +30,22 @@ As glory dwelleth in the Earth, and in this Jatavedas here, So may the Charm etc
 - सपत्नक्षयणवरणमणि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सम्पत्तियों के पाने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसा (यशः) यश (पृथिव्याम्) पृथिवी में और (यथा) जैसा (अस्मिन्) इस (जातवेदसि) उत्पन्न पदार्थों में विद्यमान [अग्नि] में है, (एव) वैसे ही (मे) मेरे लिये.... मन्त्र १७ ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १७ के समान है ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(पृथिव्याम्) भूमौ (जातवेदसि) अ० १।७।२। जातेषु वेदो विद्यमानता यस्य तस्मिन्। अग्नौ। अन्यत् पूर्ववत् ॥
 </details>

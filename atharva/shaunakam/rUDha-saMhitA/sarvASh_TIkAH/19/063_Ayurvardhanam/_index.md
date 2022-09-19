@@ -2,7 +2,7 @@
 title = "०६३ आयुर्वर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 63. To Bṛihaspati: for sundry blessings.
 </details>

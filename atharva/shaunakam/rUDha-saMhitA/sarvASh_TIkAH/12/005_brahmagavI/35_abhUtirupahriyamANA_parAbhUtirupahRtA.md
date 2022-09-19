@@ -19,7 +19,7 @@ Anukr. notices this time that the verse is *bhurij*.
 Loss of power while sacrificially presented, humiliation when she hath been offered;
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अभूतिः। उपऽह्रियमाणा। पराऽभूतिः। उपऽहृता। ८.८।
 </details>
@@ -32,22 +32,22 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (उपह्रियमाणा) छीनी जाती हुई [वेदनिरोधक के लिये] (अभूतिः) अनैश्वर्य [असमर्थता], और (उपहृता) छीन ली गयी (पराभूतिः) पराजय [हार] होती है ॥३५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्याचारी पुरुष वेदविद्या के रोकने से हार ही पाता है ॥३५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३५−(अभूतिः) अनैश्वर्यम् (उपह्रियमाणा) अपहरणं गम्यमाना (पराभूतिः) पराजयः (उपहृता) अपहरणं गता ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०२४ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 24. Against kimīdíns, male and female.
 </details>

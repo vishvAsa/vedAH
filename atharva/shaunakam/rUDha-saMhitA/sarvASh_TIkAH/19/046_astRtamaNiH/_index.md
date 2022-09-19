@@ -2,7 +2,7 @@
 title = "०४६ अस्तृतमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 46. With and to an amulet called ástṛta 'unsubdued.'
 </details>

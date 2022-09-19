@@ -2,7 +2,7 @@
 title = "११८ आनृण्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 118. For relief from guilt.
 </details>

@@ -2,7 +2,7 @@
 title = "००७ आदित्याः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7 (8). Praise of the Ādityas.
 </details>

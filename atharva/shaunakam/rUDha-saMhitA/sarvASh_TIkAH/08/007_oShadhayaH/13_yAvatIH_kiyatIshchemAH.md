@@ -20,7 +20,7 @@ xxxi. 265.⌋
 These Plants that grow upon the earth, whate'er their number and their size, Let these with all their thousand leaves free me from Death and misery.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यावतीः। कियतीः। च। इमाः। पृथिव्याम्। अधि। ओषधीः। ताः। मा। सहस्रऽपर्ण्यः᳡। मृत्योः। मुञ्चन्तु। अंहसः। ७.१३।
 </details>
@@ -33,22 +33,22 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 - ओषधि समूह सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यावतीः) जितनी (च) और (कियतीः) कितनी [विविध परिमाण और गुणवाली] (इमाः) ये (ओषधीः) ओषधियाँ (पृथिव्याम् अधि) पृथिवी के ऊपर [हैं]। (सहस्रपर्ण्यः) सहस्रों पोषणवाली (ताः) वे सब (मा) मुझको (मृत्योः) मरण [आलस्य] से और (अंहसः) कष्ट से (मुञ्चन्तु) छुड़ावें ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अन्न आदि ओषधियों द्वारा बल बढ़ाकर सुखी होवें ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(यावतीः) यत्परिमाणयुक्ताः (कियतीः) बहुगुणोपेता इत्यर्थः (इमाः) (पृथिव्याम्) भूमौ (अधि) उपरि (ओषधीः) (ताः) (मा) माम् (सहस्रपर्ण्यः) धापॄवस्य०। उ० ३।६। पॄ पालनपूरणयोः-न प्रत्ययः। बहुपालनोपेताः (मृत्योः) मरणात्। आलस्यात् (मुञ्चन्तु) मोचयन्तु (अंहसः) आहननात् कष्टात् ॥
 </details>

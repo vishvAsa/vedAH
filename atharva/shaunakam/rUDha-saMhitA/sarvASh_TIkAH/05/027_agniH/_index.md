@@ -2,7 +2,7 @@
 title = "०२७ अग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. Āprī-hymn: to various divinities.
 </details>

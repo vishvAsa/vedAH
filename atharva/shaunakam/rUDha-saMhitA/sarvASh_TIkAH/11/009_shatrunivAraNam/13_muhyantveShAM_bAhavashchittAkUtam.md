@@ -19,7 +19,7 @@ The second pāda is the same with vs. 1 **d**, above.
 Let those mens' arms grow faint and weak, dull be the purpose of their heart; And let not aught of them be left when thou, O Arbudi, hast pierced.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मुह्यन्तु। एषाम्। बाहवः। चित्तऽआकूतम्। च। यत्। हृदि। मा। एषाम्। उत्। शेषि। किम्। चन। रदिते। अर्बुदे। तव। ११.१३।
 </details>
@@ -32,22 +32,22 @@ Let those mens' arms grow faint and weak, dull be the purpose of their heart; An
 - शत्रुनिवारण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्त्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषाम्) इन [शत्रुओं] की (बाहवः) भुजाएँ (मुह्यन्तु) निकम्मी हो जावें, (च) और (यत्) जो कुछ (हृदि) हृदय में (चित्ताकूतम्) विचार और सङ्कल्प हैं, (एषाम्) इनका (किं चन) वह कुछ भी, (अर्बुदे) हे अर्बुदि [शूर सेनापति राजन्] (तव) तेरे (रदिते) तोड़ने-फोड़ने पर (मा उत् शेषि) न बचा रहे ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  युद्धविशारद सेनापति की वीरता प्रकट होने पर शत्रुदल और उनके विचार और मनोरथ निष्फल पड़ जावें ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(मुह्यन्तु) मूढा निरर्थका भवन्तु (एषाम्) शत्रूणाम् (बाहवः) (चित्ताकूत्तम्) म० १। विचाराणां सङ्कल्पानां च समाहारः (च) (यत्) (हृदि) हृदये (एषाम्) (मा उच्छेषि) शिष्लृ विशेषणे-कर्मणि लुङ्। अवशिष्टं मा भूत् (किंचन) तत् किमपि। अन्यद् गतम्-म० ७ ॥
 </details>

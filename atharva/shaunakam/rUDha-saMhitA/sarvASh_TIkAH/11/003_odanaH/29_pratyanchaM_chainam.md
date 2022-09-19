@@ -17,7 +17,7 @@ quit thee: so one says to him.
 Thou hast eaten this turned hitherward; thy downward breath will leave thee; so he said to this one.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 प्रत्यञ्चम्। च। एनम्। प्रऽआशीः। अपानाः। त्वा। हास्यन्ति। इति। एनम्। आह। ३.२९।
 </details>
@@ -30,22 +30,22 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 - ओदन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  “(च) यदि (प्रत्यञ्चम्) प्रत्यक्षवर्ती (एनम्) इस [ओदन] को (प्राशीः) तूने खाया है। (अपानाः) प्रश्वासबल (त्वा) तुझे (हास्यन्ति) त्यागेंगे (इति) ऐसा वह [आचार्य] (एनम्) इस [जिज्ञासु] से (आह) कहता है  ॥२९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २६ का उत्तर है। आचार्य उपदेश करता है, जो मनुष्य परमेश्वर को दूरवर्ती वा समीपवर्ती अर्थात् एकस्थानी मानता है, वह श्वास और प्रश्वास से हीन होकर निर्बल हो जाता है ॥२९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २९−(प्रत्यञ्चम्) म० २६। प्रत्यक्षवर्तिनम् (अपानाः) प्रश्वासबलानि। अन्यत् पूर्ववत् म० २८॥
 </details>

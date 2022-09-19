@@ -19,7 +19,7 @@ medinā: evā mā* etc.
 That splendour and felicity wherewith thou hast excelled the trees Give me therewith a happy fate. Fly and begone, Malignities
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 येन। वृक्षान्। अभिऽअभवः। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.२।
 </details>
@@ -32,22 +32,22 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 - भगप्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य पाने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमेश्वर !] (वर्चसा सह) तेज के साथ वर्तमान (येन भगेन) जैसे ऐश्वर्य से तू (वृक्षान्) सब स्वीकार योग्य पदार्थों से (अभ्यभवः) बढ़ गया है। (तेन) वैसे ऐश्वर्य से (मा) मुझको (भगिनम्) बड़े ऐश्वर्यवाला (कृणु) कर, (अरातयः) हमारे सब कंजूस स्वभाव (अप द्रान्तु) दूर भाग जावें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर को सर्वश्रेष्ठ जान कर संसार में तेजस्वी और धनवान् होवें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(येन) यादृशेन (वृक्षान्) अ० ३।६।८। सर्वान् स्वीकरणीयान् पदार्थान् (अभ्यभवः) पराजितवानसि (भगेन) ऐश्वर्येण (वर्चसां सह) तेजसा सहितेन (तेन) तादृशेन (मा) माम् (भगिनम्) ऐश्वर्यवन्तम् (कृणु) कुरु। अन्यद्गतम्−म० १ ॥
 </details>

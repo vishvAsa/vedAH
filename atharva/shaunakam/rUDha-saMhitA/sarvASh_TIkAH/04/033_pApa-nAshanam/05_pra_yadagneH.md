@@ -27,7 +27,7 @@ and the sense, by reading *sūráyas* for *bhānávas* in 5 **b**. Ppp. has
 As ever conquering Agni's beams of splendour go to every side, His lustre flash our pain away.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 प्र। यत्। अग्नेः। सहस्वतः। विश्वतः। यन्ति। भानवः। अप। नः। शोशुचत्। अघम्। ३३.५।
 </details>
@@ -40,22 +40,22 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 - पापनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जिस कारण से (सहस्वतः) बलवान् (अग्नेः) परमात्मा के (भानवः) अनेक प्रकाश (विश्वतः) सब ओर (प्र) भली भाँति (यन्ति) चलते रहते हैं। (नः) हमारा (अघम्) पाप (अप शोशुचत्) दूर धुल जावे ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर की अनेक सूक्ष्म और स्थूल रचनाओं को देखकर अपने विघ्नों को मिटावें ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(प्र) प्रकर्षेण (यत्) यस्मात् (अग्नेः) परमात्मनः (सहस्वतः) बलवतः (विश्वतः) सर्वतः (यन्ति) गच्छन्ति (भानवः) प्रकाशाः। अन्यत् पूर्ववत् ॥
 </details>

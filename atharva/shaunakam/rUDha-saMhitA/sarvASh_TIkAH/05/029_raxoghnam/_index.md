@@ -2,7 +2,7 @@
 title = "०२९ रक्षोघ्नम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. To Agni: against demons.
 </details>

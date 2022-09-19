@@ -21,7 +21,7 @@ only **a** (with *dadhātu*), combining it with our 2 **b-d**.
 May the Ordainer give us wealth, Lord, ruler of the world of life: with full hand may he give to us.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 धाता। दधातु। नः। रयिम्। ईशानः। जगतः। पतिः। सः। नः। पूर्णेन। यच्छतु। १८.१।
 </details>
@@ -34,22 +34,22 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 - द्रविणार्थप्रार्थना सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहस्थ के कर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ईशानः) ऐश्वर्यवान् (जगतः पतिः) जगत् का पालनेवाला, (धाता) धाता विधाता [सृष्टिकर्ता] (नः) हमें (रयिम्) धन (दधातु) देवे। (सः) वही (नः) हमको (पूर्णेन) पूर्ण बल से (यच्छतु) ऊँचा करे ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग जगत्पति परमात्मा के अनुग्रह से प्रयत्न करके धन और बल बढ़ाकर सुखी रहें ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(धाता) सर्वस्य विधाता-निरु० ११।१०। सृष्टिकर्ता (दधातु) ददातु (नः) अस्मभ्यम् (रयिम्) धनम् (ईशानः) ईश्वरः (जगतः) (पतिः) पालकः (सः) धाता (नः) अस्मान् (पूर्णेन) समस्तेन बलेन (यच्छतु) यम-लोट्। उद्यच्छतु। उन्नयतु ॥
 </details>

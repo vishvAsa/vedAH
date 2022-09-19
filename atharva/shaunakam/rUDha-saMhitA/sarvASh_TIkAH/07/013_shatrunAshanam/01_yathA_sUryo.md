@@ -18,7 +18,7 @@ splendor.
 As the Sun, rising, taketh to himself the brightness of the stars,. So I assume the glory of women and men mine enemies. All ye amang my rivals who behold me as I come to you, I seize the glory of my foes as the Sun, rising, theirs who sleep.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। सूर्यः। नक्षत्राणाम्। उत्ऽयन्। तेजांसि। आऽददे। एव। स्त्रीणाम्। च। पुंसाम्। च। द्विषताम्। वर्चः। आ। ददे। १४.१।
 </details>
@@ -31,22 +31,22 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 - सविता सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं को हराने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (उद्यन्) उदय होते हुए (सूर्यः) सूर्य ने (नक्षत्राणाम्) नक्षत्रों के (तेजांसि) तेजों को (आददे) ले लिया है। (एव) वैसे ही (द्विषताम्) द्वेषी (स्त्रीणाम्) स्त्रियों (च च) और (पुंसाम्) पुरुषों का (वर्चः) तेज (आ ददे) मैंने ले लिया है ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अधर्मी वैरियों को दबा कर ऐसा निस्तेज कर देवे, जैसे सूर्य के निकलने पर तारे निस्तेज हो जाते हैं ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यथा) येन प्रकारेण (सूर्यः) (नक्षत्राणाम्) तारकाणाम् (उद्यन्) उदयं प्राप्नुवन् (तेजांसि) प्रकाशान् (आददे) लिटि रूपम्। स जग्राह (एव) एवम् (स्त्रीणाम्) नारीणाम् (पुंसाम्) पुरुषाणाम् (च च) समुच्चये (द्विषताम्) पुमान् स्त्रिया। पा० १।२।६७। इत्येकशेषः। द्विषतीनां स्त्रीणां द्विषतां पुरुषाणां च (वर्चः) तेजः (आददे) अहं जग्राह ॥
 </details>

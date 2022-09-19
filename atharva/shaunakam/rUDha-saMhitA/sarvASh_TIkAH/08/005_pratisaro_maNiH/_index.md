@@ -2,7 +2,7 @@
 title = "००५ प्रतिसरो मणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Against witchcraft etc.: with an amulet.
 </details>

@@ -17,7 +17,7 @@ snakes from the road by which we come.
 Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside the Serpents from the pathway whereupon we tread.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 पैद्व। प्र। इहि। प्रथमः। अनु। त्वा। वयम्। आ। ईमसि। अहीन्। वि। अस्यतात्। पथः। येन। स्म। वयम्। आऽईमसि। ४.६।
 </details>
@@ -30,22 +30,22 @@ Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside t
 - सर्पविषदूरीकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पैद्व) हे शीघ्रगामी [पुरुष !] (प्रथमः) आगे होकर (प्र इहि) बढ़ा चल, (त्वा अनु) तेरे पीछे-पीछे (वयम्) हम (आ ईमसि) आते हैं। (अहीन्) महाहिंसक [साँपों] को (पथः) उस मार्ग से (वि अस्यतात्) मार गिरा (येन) जिस से (वयम्) हम (स्म) ही (आ-ईमसि) आते हैं ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अग्रगामी शूर को शत्रुओं के नाश करने में सब लोग सहाय करें ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(पैद्वः) म० ५। हे शीघ्रगामिन् (प्र इहि) अग्रे गच्छ (प्रथमः) प्रधानः (अनु) अनुसृत्य (त्वा) (वयम्) (आ-ईमसि) ई गतौ-लट्, मसो मसि। ईमः। आगच्छामः (अहीन्) म० १। महाहिंसकान्। सर्पान् (वि) विशेषेण (अस्यतात्) अस्य। क्षिप (पथः) मार्गात् (येन) यथा (स्म) अवधारणे (वयम्, आ ईमसि) ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०१० वशा गौः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. Extolling the cow (vaśā́).
 </details>

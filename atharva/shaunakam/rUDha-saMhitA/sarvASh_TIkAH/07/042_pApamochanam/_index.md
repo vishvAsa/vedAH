@@ -2,7 +2,7 @@
 title = "०४२ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 42 (43). To Soma and Rudra.
 </details>

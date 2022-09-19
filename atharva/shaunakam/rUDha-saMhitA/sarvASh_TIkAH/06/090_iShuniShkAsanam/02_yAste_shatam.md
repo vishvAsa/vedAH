@@ -20,7 +20,7 @@ Ppp. reads *hirās* for *śatam* in **a**, and *sākam* for *vayam* in
 From all the hundred vessels spread throughout the members of thy frame. From all those vessels and canals we call the poisonous matter forth.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याः। ते। शतम्। धमनयः। अङ्गानि। अनु। विऽस्थिताः। तासाम्। ते। सर्वासाम्। वयम्। निः। विषाणि। ह्वयामसि। ९०.२।
 </details>
@@ -33,22 +33,22 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 - इषुनिष्कासन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कर्म के फल का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (शतम्) सौ [असंख्य] (धमनयः) नाड़ियाँ (ते) तेरे (अङ्गानि अनु) अङ्गों में (विष्ठिताः) फैली हुई हैं। (ते) तेरी (तासाम्) उन (सर्वासाम्) सब [नाड़ियों] के (विषाणि) विषों को (नि=निष्कृष्य) निकाल कर (वयम्) हम (ह्वयामसि=०−मः) पुकारते हैं ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे वैद्य शरीर के भीतरी रोगों को समझ कर दूर करता है, वैसे ही विद्वान् आत्मदोषों को मिटावे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(याः) (ते) तव (शतम्) बह्व्यः (धमनयः) नाड्यः, अङ्गानि शरीरावयवान् (अनु) अनुसृत्य (विष्ठिताः) विविधं स्थिताः (तासाम्) (ते) तव (सर्वासाम्) धमनीनाम् (वयम्) (निः) निष्कृष्य (विषाणि) दुःखानि (ह्वयामसि) आह्वयामः ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०२७ इडा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27 (28). Prayer and praise to Iḍā.
 </details>

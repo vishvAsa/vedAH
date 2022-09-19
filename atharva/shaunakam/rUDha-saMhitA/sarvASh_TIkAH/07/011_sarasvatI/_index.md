@@ -2,7 +2,7 @@
 title = "०११ सरस्वती"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11 (12). Against injury to the grain by lightning.
 </details>

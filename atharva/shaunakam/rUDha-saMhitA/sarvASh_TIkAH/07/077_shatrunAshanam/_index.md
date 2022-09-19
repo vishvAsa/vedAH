@@ -2,7 +2,7 @@
 title = "०७७ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 77 (82). To the Maruts.
 </details>

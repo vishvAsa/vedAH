@@ -19,7 +19,7 @@ collation-book.⌋
 Down, down beneath the conquerors, let him not rise, concealed in earth, but lie down-smitten with the bolt.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अधरःऽअधरः। उत्तरेभ्यः। गूढः। पृथिव्याः। मा। उत्। सृपत्। वज्रेण। अवऽहतः। शयाम्। १३४.२।
 </details>
@@ -32,22 +32,22 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के शासन का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [वह शत्रु] (उत्तरेभ्यः) ऊँचे लोगों से (अधरोऽधरः) नीचे-नीचे और (गूढः) गुप्त होकर (पृथिव्याः) पृथिवी से (मा उत् सृपत्) कभी न उठे, और (वज्रेण) वज्र से (अवहतः) मार डाला गया (शयाम्) पड़ा रहे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अधर्मी लोगों को श्रेष्ठों के बीच उच्च आसन कभी न मिले ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(अधरोऽधरः) अतिशयेनाधरः। निकृष्टतरः (उत्तरेभ्यः) उत्कृष्टतरेभ्यः (गूढः) संवृतः (पृथिव्याः) भूमेः सकाशात् (मा) निषेधे (उत्सृपत्) उत्सर्पतु। उत्तिष्ठतु (वज्रेण) (अवहतः) चूर्णीकृतः (शयाम्) लोपस्त आत्मनेपदेषु। पा० ७।१।४१। तलोपः। शेताम्। म्रियतामित्यर्थः ॥
 </details>

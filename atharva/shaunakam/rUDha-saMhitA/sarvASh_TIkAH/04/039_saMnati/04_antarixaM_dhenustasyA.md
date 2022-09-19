@@ -19,7 +19,7 @@ The comm. has *tasya* 'of it (i.e. the atmosphere),' instead of
 Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, strength, all my wish, life first of all, and off- spring, plenty, wealth. All Hail!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अन्तरिक्षम्। धेनुः। तस्याः। वायुः। वत्सः। सा। मे। वायुना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.४।
 </details>
@@ -32,22 +32,22 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 - सन्नति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अन्तरिक्षम्) मध्यलोक (धेनुः) दुधैल गौ के समान है। (तस्याः) उस [धेनु] का (वत्सः) बच्चा रूप (वायुः) वायु है। (सा) वह [धेनु] (मे) मुझे (वत्सेन) बच्चा रूप (वायुना) वायु के साथ (इषम्) अन्न, (ऊर्जम्) पराक्रम, (कामम्) उत्तम मनोरथ, (प्रथमम् आयुः) प्रधान जीवन, (प्रजाम्) प्रजा, (पोषम्) पोषण और (रयिम्) धन (दुहाम्) परिपूर्ण करे। (स्वाहा) यह आशीर्वाद हो ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वायु से अनेक प्रकार उपकार लेकर मनुष्य सुखी हों ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४-सर्वं पूर्ववत् म० २, ३ ॥
 </details>

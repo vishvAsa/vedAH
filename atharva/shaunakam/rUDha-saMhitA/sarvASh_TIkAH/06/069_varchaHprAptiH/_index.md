@@ -2,7 +2,7 @@
 title = "०६९ वर्चःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 69. For glory etc.
 </details>

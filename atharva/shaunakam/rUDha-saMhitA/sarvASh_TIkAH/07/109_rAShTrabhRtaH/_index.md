@@ -2,7 +2,7 @@
 title = "१०९ राष्ट्रभृतः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 109 (114). ⌊For success with the dice.⌋
 </details>

@@ -19,7 +19,7 @@ note, p. 1 53.⌋
 O Jatavedas, southward sacrificers as foes assail us from the southern quarter. May they, turned back, be pained for harming Yama. I smite them backward with mine incantation.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ये। दक्षिणतः। जुह्वति। जातऽवेदः। दक्षिणायाः। दिशः। अभिऽदासन्ति। अस्मान्। यमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। ‍ हन्मि। ४०.२।
 </details>

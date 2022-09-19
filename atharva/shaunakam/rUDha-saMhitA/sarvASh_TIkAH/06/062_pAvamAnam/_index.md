@@ -2,7 +2,7 @@
 title = "०६२ पावमानम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 62. To Vāiśvānara etc.: for purification.
 </details>

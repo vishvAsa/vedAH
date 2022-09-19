@@ -2,7 +2,7 @@
 title = "१११ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 111 (116). To a soma-vessel.
 </details>

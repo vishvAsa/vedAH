@@ -2,7 +2,7 @@
 title = "०५२ कामः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 52. Of and to desire (kā́ma).
 </details>

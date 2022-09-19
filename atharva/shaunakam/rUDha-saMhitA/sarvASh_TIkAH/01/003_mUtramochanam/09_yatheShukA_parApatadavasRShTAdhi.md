@@ -23,7 +23,7 @@ omission of the sense-disturbing refrain.
 Even as the arrow flies away when loosened from the archer's bow, Thus let the burthen be discharged from channels that are checked no more.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। इषुका। पराऽअपतत्। अवऽसृष्टा। अधि। धन्वनः। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्। ३.९।
 </details>
@@ -36,22 +36,22 @@ Even as the arrow flies away when loosened from the archer's bow, Thus let the b
 - मूत्र मोचन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (धन्वनः अधि) धनुष् से (अवसृष्टा) छुटा हुआ (इषुका) बाण (परा-अपतत्) शीघ्र चला गया हो। (एव) वैसे ही (ते) तेरा (मूत्रम्) मूत्ररूप (बाल्) वैरी (बहिः) बाहिर (मुच्यताम्) निकाल दिया जावे (इति सर्वकम्) यह बस है ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सरल है, ऊपर के, मन्त्र देखो ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−इषुका। इषुरीषतेर्गतिकर्मणो वधकर्मणो वा। निरु० ९।१८। इति ईष गतौ वधे−उ प्रत्ययः। स्वार्थे-कन्, टाप्। इषुः, वाणः। परा-अपतत्। पत गतौ−लङ्। शीघ्रं दूरे अगच्छत्। अवसृष्टा। सृज−विसर्गे-क्त। विमुक्ता। अधि। पञ्चम्यर्थानुवादी। धन्वनः। कनिन् युवृषितक्षिराजिधन्विद्युप्रतिदिवः। उ० १।१५६। इति धन्व गतौ−कनिन्। धनुषः सकाशात्, चापात्। शेषं पूर्ववत् मं० ६ ॥
 </details>

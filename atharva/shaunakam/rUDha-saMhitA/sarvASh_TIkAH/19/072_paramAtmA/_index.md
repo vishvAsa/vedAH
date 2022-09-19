@@ -2,7 +2,7 @@
 title = "०७२ परमात्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 72. For the favor of the gods.
 </details>

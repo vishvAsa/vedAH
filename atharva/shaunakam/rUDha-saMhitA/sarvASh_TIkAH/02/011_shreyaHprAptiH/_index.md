@@ -2,7 +2,7 @@
 title = "०११ श्रेयःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. To counteract witchcraft: with an amulet.
 </details>

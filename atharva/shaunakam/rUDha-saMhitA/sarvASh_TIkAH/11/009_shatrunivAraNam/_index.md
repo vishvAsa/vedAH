@@ -2,7 +2,7 @@
 title = "००९ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. To conquer enemies: to Arbudi.
 </details>

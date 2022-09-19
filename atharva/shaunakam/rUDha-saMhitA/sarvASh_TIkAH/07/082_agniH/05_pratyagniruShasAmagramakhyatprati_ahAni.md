@@ -23,7 +23,7 @@ d**. The comm. is still more faithful to that version, by giving the
 Agni hath looked upon the spring of Mornings, looked on the days, the earliest Jatavedas. So he in countless places hath extended, full against heaven and earth, the beams of Surya.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 प्रति। अग्निः। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथमः। जातऽवेदाः। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। ८७.५।
 </details>
@@ -36,22 +36,22 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 - अग्नि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेद के विज्ञान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्निः) सर्वव्यापक परमेश्वर ने (उषसाम्) उषाओं के (अग्रम्) विकास को (प्रति) प्रत्यक्षरूप से, [उसी] (प्रथमः) सब से पहिले वर्त्तमान (जातवेदाः) उत्पन्न वस्तुओं के ज्ञान करानेवाले परमेश्वर ने (अहानि) दिनों को (प्रति) प्रत्यक्षरूप से (अख्यत्) प्रसिद्ध किया है। (च) और (सूर्यस्य) सूर्य की (रश्मीन्) व्यापक किरणों को (पुरुधा) अनेक प्रकार (प्रति) प्रत्यक्षरूप से, और (द्यावापृथिवी) सूर्य और पृथिवी लोकों को (प्रति) प्रत्यक्षरूप से (आ) सब ओर (ततान) फैलाया है ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब जगत् के उत्पादक और सर्वनियन्ता ईश्वर की महिमा को विचारकर मनुष्य अपनी उन्नति करें ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(प्रति) प्रत्यक्षरूपेण (सूर्यस्य) आदित्यमण्डलस्य (पुरुधा) अनेकधा (च) (आ) समन्तात् (ततान) विस्तारयामास ॥अन्यत्पूर्ववत्-म० ४॥
 </details>

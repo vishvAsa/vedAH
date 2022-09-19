@@ -2,7 +2,7 @@
 title = "१२७ यक्ष्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 127. Against various diseases: with a wooden amulet.
 </details>

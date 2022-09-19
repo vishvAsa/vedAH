@@ -17,7 +17,7 @@ Ppp. has *sahodā agnes saho me dhā svāhā.*
 Might art thou, give me might. All hail!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सहः। असि। सहः। मे। दाः। स्वाहा। १७.२।
 </details>
@@ -30,22 +30,22 @@ Might art thou, give me might. All hail!
 - बल प्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मा !] तू (सहः) पराक्रमस्वरूप (असि) है, (मे) मुझे (सहः) आत्मिक पराक्रम (दाः) दे, (स्वाहा) यह सुन्दर आशीर्वाद हो ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अनन्त ब्रह्माण्डों का रचक और धारक परमेश्वर पराक्रमस्वरूप है। ऐसा सोचकर विद्यादि उपायों से मनुष्य अपनी आत्मिक शक्ति बढ़ावें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २–सहः। षह अभिभवे, क्षमायाम्–असुन्। मानसिकबलम्। पराक्रमः ॥
 </details>

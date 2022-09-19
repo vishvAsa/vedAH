@@ -2,7 +2,7 @@
 title = "१०५ कासशमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 105. To get rid of cough.
 </details>

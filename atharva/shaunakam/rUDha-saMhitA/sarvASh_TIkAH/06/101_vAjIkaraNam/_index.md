@@ -2,7 +2,7 @@
 title = "१०१ वाजीकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 101. For virile power.
 </details>

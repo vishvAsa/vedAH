@@ -2,7 +2,7 @@
 title = "०६६ ब्रह्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 66 (68). For recovery of sacred knowledge (brā́hmaṇa).
 </details>

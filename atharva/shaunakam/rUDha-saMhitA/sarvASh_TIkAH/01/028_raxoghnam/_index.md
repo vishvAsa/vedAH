@@ -2,7 +2,7 @@
 title = "०२८ रक्षोघ्नम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 28. Against sorcerers and witches.
 </details>

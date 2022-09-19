@@ -19,7 +19,7 @@ Ppp. has *sarvavide* instead of *viśvajite*. The comm. prefixes
 To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 त्रायमाणे। विश्वऽजिते। मा। परि। देहि। विश्वऽजित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.२।
 </details>
@@ -32,22 +32,22 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 - विश्वजित् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख की प्राप्ति के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (त्रायमाणे) हे त्रायमाणा, रक्षा करनेवाली ! (विश्वजिते) संसार के जीतनेवाले परमेश्वर को (मा) मुझे (परिदेहि) सौंप। (विश्वजित्) हे संसार के जीतनेवाले परमेश्वर (नः) हमारे (सर्वम्) सब... म० १ ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्तम घर और औषध के सेवन से परमेश्वर की आज्ञा पालन करके सब पदार्थों की यथावत् रक्षा करें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−यथा व्याख्यातम्−म० १ ॥
 </details>

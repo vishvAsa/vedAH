@@ -2,7 +2,7 @@
 title = "०३१ कृत्यापरिहरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. Against witchcraft.
 </details>

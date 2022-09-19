@@ -2,7 +2,7 @@
 title = "००१ मेधाजननम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. For the retention of sacred learning.
 </details>

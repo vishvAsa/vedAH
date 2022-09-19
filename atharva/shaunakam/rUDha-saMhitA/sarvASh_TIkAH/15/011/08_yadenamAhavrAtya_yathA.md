@@ -21,7 +21,7 @@ SPP's have *vaśám*.⌋
 When he says to him, Vratya, as thy will is so let it be, he secures to himself thereby the fulfilment of his will.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्। एनम्। आह। ते। वशः। तथा। अस्तु। इति। वशम्। एव। तेन। अव। रुन्ध्दे। ११.८।
 </details>

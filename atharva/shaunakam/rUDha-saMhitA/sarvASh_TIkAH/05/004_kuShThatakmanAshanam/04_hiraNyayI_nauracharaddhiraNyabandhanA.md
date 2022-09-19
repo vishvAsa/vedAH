@@ -30,7 +30,7 @@ former was adopted in our edition as being favored by the meter.
 There moved through heaven a golden ship, a ship with cordage wrought of Gold. There the Gods won the Kushtha Plant, the blossom of eternal life.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ४.४।
 </details>
@@ -43,22 +43,22 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 - कुष्ठतक्मनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हिरण्ययी) तेजोमयी, (हिरण्यबन्धना) तेजोमय बन्धनवाली (नौः) नाव (दिवि) प्रकाशलोक में (अचरत्) चलती थी। (तत्र) वहाँ पर (अमृतस्य) अमृत के (पुष्पम्) विकाश, (कुष्ठम्) गुणपरीक्षक पुरुष को (देवाः) विद्वान् लोगों ने (अवन्वत) माँगा है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग तीक्ष्णबुद्धि मनुष्य द्वारा उत्तम विद्या का प्रकाश करके आनन्द पाते हैं ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(हिरण्ययी) हिरण्ययी तेजोमयी (नौः) अ० ३।६।७। तरणिः (अचरत्) अगमत् (हिरण्यबन्धना) तेजोमयबन्धनयुक्ता (दिवि) प्रकाशलोके (पुष्पम्) पुष्प विकसने−पचाद्यच्। विकाशम्। अन्यद् गतम्। म० ३ ॥
 </details>

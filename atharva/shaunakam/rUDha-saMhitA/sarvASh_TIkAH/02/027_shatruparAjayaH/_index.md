@@ -2,7 +2,7 @@
 title = "०२७ शत्रुपराजयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. For victory in disputation: with a plant.
 </details>

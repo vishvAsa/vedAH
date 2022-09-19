@@ -2,7 +2,7 @@
 title = "०५१ परिपाणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 51 (53). For protection by Brihaspati and Indra.
 </details>

@@ -2,7 +2,7 @@
 title = "०३४ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 34. Praise and prayer to Agni.
 </details>

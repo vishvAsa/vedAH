@@ -2,7 +2,7 @@
 title = "०६८ सरस्वती"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 68 (70, 71). Praise and prayer to Sarasvatī.
 </details>

@@ -2,7 +2,7 @@
 title = "०४६ सिनीवाली"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 46 (48). To Sinīvāli (goddess of the new moon).
 </details>

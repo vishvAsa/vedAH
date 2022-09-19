@@ -2,7 +2,7 @@
 title = "१२८ राजा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 128. For auspicious time: with dung-smoke.
 </details>

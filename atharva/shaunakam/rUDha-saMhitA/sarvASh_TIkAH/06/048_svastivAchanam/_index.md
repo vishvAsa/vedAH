@@ -2,7 +2,7 @@
 title = "०४८ स्वस्तिवाचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 48. To the deities of the three daily libations.
 </details>

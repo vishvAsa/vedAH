@@ -2,7 +2,7 @@
 title = "००५ स्वापनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. An incantation to put to sleep.
 </details>

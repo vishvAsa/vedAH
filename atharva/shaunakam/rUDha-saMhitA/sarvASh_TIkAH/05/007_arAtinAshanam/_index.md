@@ -2,7 +2,7 @@
 title = "००७ अरातिनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Against niggardliness and its effects.
 </details>

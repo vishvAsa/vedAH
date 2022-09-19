@@ -2,7 +2,7 @@
 title = "०१० पाशमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. For release from evils, and for welfare.
 </details>

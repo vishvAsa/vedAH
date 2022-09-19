@@ -2,7 +2,7 @@
 title = "१२५ वीरस्य रथः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 125. To the war-chariot: for its success.
 </details>

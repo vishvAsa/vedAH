@@ -2,7 +2,7 @@
 title = "०२३ दुःस्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 23 (24). Against ill conditions and beings.
 </details>

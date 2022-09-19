@@ -2,7 +2,7 @@
 title = "०१८ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. For relief from demons and foes.
 </details>

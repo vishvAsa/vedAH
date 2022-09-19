@@ -2,7 +2,7 @@
 title = "००९ दुःखनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. Against viṣkandha and other evils.
 </details>

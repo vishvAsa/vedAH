@@ -2,7 +2,7 @@
 title = "०१० शान्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. For well-being.
 </details>

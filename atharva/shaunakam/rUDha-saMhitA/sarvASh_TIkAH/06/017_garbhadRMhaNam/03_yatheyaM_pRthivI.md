@@ -17,7 +17,7 @@ let thine etc. etc.
 Even as this mighty Earth hath borne and bears the mountains and the hills, So may the germ of life be borne in thee that thou mayst bear a son.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। इयम्। पृथिवी। मही। दाधार। पर्वतान्। गिरीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.३।
 </details>

@@ -2,7 +2,7 @@
 title = "०१९ शर्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 19. For protection by various gods.
 </details>

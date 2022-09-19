@@ -2,7 +2,7 @@
 title = "०२५ गर्भाधानम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. For successful conception.
 </details>

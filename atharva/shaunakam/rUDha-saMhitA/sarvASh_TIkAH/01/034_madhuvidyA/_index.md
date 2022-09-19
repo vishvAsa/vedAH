@@ -2,7 +2,7 @@
 title = "०३४ मधुविद्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 34. A love-spell: with a sweet herb.
 </details>

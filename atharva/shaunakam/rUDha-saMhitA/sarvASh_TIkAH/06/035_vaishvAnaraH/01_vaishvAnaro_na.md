@@ -24,7 +24,7 @@ third pādas of 1 and 2, and reads as 2 **c** *upe ’māṁ suṣṭutiṁ mama
 Forth from the distance far away Vaisvanara come to succour us! Agni approach our eulogies!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 वैश्वानरः। नः। ऊतये। आ। प्र। यातु। पराऽवतः। अग्निः। नः। सुऽस्तुतीः। उप। ३५.१।
 </details>
@@ -37,22 +37,22 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 - वैश्वनार सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 यश की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वैश्वानरः) सब नरों का हितकारक परमेश्वर (नः) हमारी (ऊतये) रक्षा के लिये (परावतः) दूर वा उत्कृष्ट स्थान से (आ) सन्मुख (प्रयातु) आवे। (अग्निः) सर्वव्यापक परमेश्वर (नः) हमारी (सुष्टुतीः) यथाशास्त्र स्तुतियों को (उप=उपयातु) प्राप्त हो ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  हम सर्वान्तर्यामी परमेश्वर की महिमा जानकर उसकी स्तुति करते रहें ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(वैश्वानरः) अ० १।१०।४। सर्वनरहितः (नः) अस्माकम् (ऊतये) रक्षायै (आ) अभिमुखम् (प्र) प्रकर्षेण (यातु) गच्छतु (परावतः) अ० ३।४।५। परागतात् उत्कर्षं प्राप्ताद् दूरगतात् स्थानाद् वा (अग्निः) सर्वव्यापकः (नः) अस्माकम् (सुष्टुतीः) यथाशास्त्रं स्तवान् (उप) उपयात ॥
 </details>

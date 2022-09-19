@@ -27,7 +27,7 @@ is a description by reference to another metrical unity.⌋
 For him they made the two Spring months protectors from the eastern region, and Brihat and Rathantara superintendents. The two Spring months protect from the eastern region, and Brihat and Rathantara superintend, the man who possesses this knowledge. For him they made the two Summer months pro- tectors from the southern region, and Yajnayajniya and Vamadevya superintendents. The two Summer months, etc. as in Verse 1,
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तस्मै। प्राच्याः। दिशः। ४.१।
 </details>
@@ -40,22 +40,22 @@ For him they made the two Spring months protectors from the eastern region, and 
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के रक्षा गुण का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मै) उस [विद्वान्]के लिये (प्राच्याः) पूर्व (दिशः) दिशा से ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोग निश्चयकरके मानते हैं कि जो मनुष्य परमात्मा में विश्वास करता है, वह पुरुषार्थी जनपूर्वादि दिशाओं और वसन्त आदि ऋतुओं में सुरक्षित रहता है ॥१-३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(तस्मै) विदुषे जनाय (प्राच्याः) पूर्वायाः (दिशः) दिक्सकाशात् ॥
 </details>

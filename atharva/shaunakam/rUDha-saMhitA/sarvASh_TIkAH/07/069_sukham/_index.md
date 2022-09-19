@@ -2,7 +2,7 @@
 title = "०६९ सुखम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 69 (72). Prayer for good fortune.
 </details>

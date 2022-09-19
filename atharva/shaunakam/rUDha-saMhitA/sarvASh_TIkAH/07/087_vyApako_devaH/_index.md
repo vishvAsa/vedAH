@@ -2,7 +2,7 @@
 title = "०८७ व्यापको देवः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 87 (92). Homage to Rudra.
 </details>

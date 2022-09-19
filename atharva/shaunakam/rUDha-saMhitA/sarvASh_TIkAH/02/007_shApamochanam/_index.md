@@ -2,7 +2,7 @@
 title = "००७ शापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Against curses and cursers: with a plant.
 </details>

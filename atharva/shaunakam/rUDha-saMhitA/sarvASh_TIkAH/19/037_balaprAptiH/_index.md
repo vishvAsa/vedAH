@@ -2,7 +2,7 @@
 title = "०३७ बलप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 37. With an amulet: for various blessings.
 </details>

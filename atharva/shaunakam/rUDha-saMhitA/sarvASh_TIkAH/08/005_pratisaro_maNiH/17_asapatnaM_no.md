@@ -20,7 +20,7 @@ Ppp. has, for **c**, *indra piśācaṁ naṣ paścāt*.
 Brave Indra, set before us light, peace and security from below, Peace and security from above, peace and security from behind.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 असपत्नम्। नः। अधरात्। असपत्नम्। नः। उत्तरात्। इन्द्र। असपत्नम्। नः। पश्चात्। ज्योतिः। शूर। पुरः। कृधि। ५.१७।
 </details>
@@ -33,22 +33,22 @@ Brave Indra, set before us light, peace and security from below, Peace and secur
 - प्रतिसरमणि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 हिंसा के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शूर) हे शूर (इन्द्र) हे परमैश्वर्यवन् राजन् ! (ज्योतिः) ज्योति को (नः) हमारे लिये (अधरात्) नीचे से (असपत्नम्) शत्रुरहित, (नः) हमारे लिये (उत्तरात्) ऊपर से (असपत्नम्) शत्रुरहित, (नः) हमारे लिये (पश्चात्) पीछे से (असपत्नम्) शत्रुरहित (पुरः) सन्मुख (कृधि) कर ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा सब ओर से शत्रुओं को नाश करके प्रजा की रक्षा करे ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(असपत्नम्) शत्रुरहितम् (नः) अस्मभ्यम् (अधरात्) अधोदेशात् (उत्तरात्) उपरिदेशात् (इन्द्र) परमैश्वर्यवन् राजन् (पश्चात्) पृष्ठतः (ज्योतिः) प्रकाशम् (शूर) (पुरः) पुरस्तात् (कृधि) कुरु। अन्यत्पूर्ववत् ॥
 </details>

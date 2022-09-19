@@ -2,7 +2,7 @@
 title = "००२ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. The flesh-eating and the householder's fires.
 </details>

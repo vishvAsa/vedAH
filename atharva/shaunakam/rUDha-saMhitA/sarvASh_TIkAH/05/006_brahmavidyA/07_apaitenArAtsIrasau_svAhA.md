@@ -19,7 +19,7 @@ may be intimated in its beginning of 5.
 Through this hast thou committed faults. All hail! With sharpened arms and missiles, kind and friendly, be gracious unto us, Soma and Rudra!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अप। एतेन। अरात्सीः। असौ। स्वाहा। तिग्मऽआयुधौ। तिग्महेती इति तिग्मऽहेती। सुऽशेवौ। सोमारुद्रौ। इह। सु। मृडतम्। नः। ६.७।
 </details>
@@ -32,22 +32,22 @@ Through this hast thou committed faults. All hail! With sharpened arms and missi
 - ब्रह्मविद्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमेश्वर !] (एतेन) अपनी व्याप्ति से (असौ) उस तूने [दुष्ट जनको] (अप अरात्सीः) अपराधी ठहराया है, (स्वाहा) यह सुन्दर वाणी वा स्तुति है। (तिग्मायुधौ) हे तेज शस्त्रोंवाले, (तिग्महेती) पैने वज्रोंवाले, (सुशेवौ) बड़े सुखवाले, (सोमारुद्रौ) ऐश्वर्य के कारण और ज्ञानदाता, अथवा चन्द्रमा और प्राण के तुल्य, राजा और वैद्य जनो, तुम दोनों (इह) यहाँ पर (सु) अच्छे प्रकार (नः) हमें (मृडतम्) सुखी करो ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर पापियों को अपराधी ठहराकर दण्ड देता है। राजा और वैद्य धन और नीरोगता राज्य में बढ़ावें ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(अप अरात्सीः) अपराद्धवानसि, दोषयुक्तं कल्पितवानसि दुष्टम्। अन्यत् पूर्ववत्−म० ५ ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०१२ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. ⌊Against such as would thwart my incantations.⌋
 </details>

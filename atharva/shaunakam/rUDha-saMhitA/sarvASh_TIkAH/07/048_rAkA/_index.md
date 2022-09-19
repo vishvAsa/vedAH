@@ -2,7 +2,7 @@
 title = "०४८ राका"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 48 (50). To Rākā (goddess of the full moon).
 </details>

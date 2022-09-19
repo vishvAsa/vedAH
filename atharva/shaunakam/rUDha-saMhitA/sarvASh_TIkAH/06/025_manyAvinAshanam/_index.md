@@ -2,7 +2,7 @@
 title = "०२५ मन्याविनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. For relief from pains (?) in neck and shoulders.
 </details>

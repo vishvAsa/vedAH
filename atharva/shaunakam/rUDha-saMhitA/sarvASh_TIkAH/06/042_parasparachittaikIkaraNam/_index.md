@@ -2,7 +2,7 @@
 title = "०४२ परस्परचित्तैकीकरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 42. To remove wrath.
 </details>

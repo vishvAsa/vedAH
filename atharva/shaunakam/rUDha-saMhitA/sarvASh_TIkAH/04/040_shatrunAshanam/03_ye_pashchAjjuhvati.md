@@ -18,7 +18,7 @@ The other texts say Soma instead of Varuṇa.
 O Jatavedas, westward sacrificers as foes assail us from the western quarter. For harming Varuna be they turned and troubled! I smite them backward with mine incantation.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ये। पश्चात्। जुह्वति। जातऽवेदः। प्रतीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। वरुणम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.३।
 </details>

@@ -2,7 +2,7 @@
 title = "००७ यक्ष्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Against the disease kṣetriyá.
 </details>

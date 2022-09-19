@@ -2,7 +2,7 @@
 title = "१२९ भगप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 129. For good-fortune: with a śiṅśápā amulet.
 </details>

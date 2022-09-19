@@ -2,7 +2,7 @@
 title = "०५५ सौमनस्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 55. For various blessings.
 </details>

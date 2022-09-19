@@ -2,7 +2,7 @@
 title = "११४ उन्मोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 114. Against disability in sacrifice.
 </details>

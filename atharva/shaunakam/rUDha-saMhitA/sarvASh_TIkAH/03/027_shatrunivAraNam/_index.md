@@ -2,7 +2,7 @@
 title = "०२७ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. The same: with imprecation on enemies.
 </details>

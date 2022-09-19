@@ -18,7 +18,7 @@ Ppp. puts *iva* after *divam* in **c**.
 Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen up to heaven, quells witchcraft with superior might.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ये। स्राक्त्यम्। मणिम्। जनाः। वर्माणि। कृण्वते। सूर्यःऽइव। दिवम्। आऽरुह्य। वि। कृत्याः। बाधते। वशी। ५.७।
 </details>
@@ -31,22 +31,22 @@ Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen u
 - प्रतिसरमणि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 हिंसा के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो (जनाः) जन (स्राक्त्यम्)) उद्योगशील (मणिम्) मणि [श्रेष्ठ नियम] को (वर्माणि) कवच (कृण्वते) बनाते हैं। [उनके समान] (वशी) वश में करनेवाला पुरुष, (सूर्य इव) सूर्य के समान (दिवम्) आकाश में (आरुह्य) चढ़कर, (कृत्याः) हिंसाओं को (वि बाधते) हटा देता है ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुष संयमी पुरुषों के समान जितेन्द्रिय होते हैं, वे बड़े यशस्वी होकर निर्विघ्न रहते हैं ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(ये) (स्राक्त्यम्) म० ४। उद्योगिनम् (मणिम्) म० १। श्रेष्ठनियमम् (जनाः) लोकाः (कृण्वते) कुर्वते (सूर्य इव) (दिवम्) आकाशम् (आरुह्य) अधिष्ठाय (वि) विशेषेण (कृत्याः) हिंसाः (बाधते) निवारयति (वशी) वशयिता पुरुषः ॥
 </details>

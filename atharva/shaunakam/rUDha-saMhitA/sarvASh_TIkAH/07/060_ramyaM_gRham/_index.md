@@ -2,7 +2,7 @@
 title = "०६० रम्यं गृहम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 60 (62). To the home: on returning or leaving.
 </details>

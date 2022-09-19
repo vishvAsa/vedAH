@@ -2,7 +2,7 @@
 title = "०८९ दिव्या आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 89 (94). To Agni and the waters.
 </details>

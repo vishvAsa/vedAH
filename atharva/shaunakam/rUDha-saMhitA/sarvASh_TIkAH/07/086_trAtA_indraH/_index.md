@@ -2,7 +2,7 @@
 title = "०८६ त्राता इन्द्रः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 86 (91). Invocation of Indra.
 </details>

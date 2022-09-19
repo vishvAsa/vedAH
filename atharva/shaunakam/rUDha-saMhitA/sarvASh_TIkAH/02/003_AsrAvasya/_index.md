@@ -2,7 +2,7 @@
 title = "००३ आस्रावस्य"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. For relief from flux: with a certain remedy.
 </details>

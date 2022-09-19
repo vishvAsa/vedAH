@@ -2,7 +2,7 @@
 title = "०५३ कालः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 53. Praise of time (kālá).
 </details>

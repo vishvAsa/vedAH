@@ -2,7 +2,7 @@
 title = "०७५ अघ्न्याः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 75 (79). Praise and prayer to the kine.
 </details>

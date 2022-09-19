@@ -2,7 +2,7 @@
 title = "००२ रोगोपशमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. Against injury and disease: with a reed.
 </details>

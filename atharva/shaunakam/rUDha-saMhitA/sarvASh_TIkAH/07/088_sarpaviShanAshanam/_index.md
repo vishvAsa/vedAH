@@ -2,7 +2,7 @@
 title = "०८८ सर्पविषनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 88 (93). Against poison.
 </details>

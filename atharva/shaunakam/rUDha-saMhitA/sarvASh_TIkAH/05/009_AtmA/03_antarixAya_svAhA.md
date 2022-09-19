@@ -16,7 +16,7 @@ title = "०३ अन्तरिक्षाय स्वाहा"
 All hail to Air!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अन्तरिक्षाय। स्वाहा। ९.३।
 </details>

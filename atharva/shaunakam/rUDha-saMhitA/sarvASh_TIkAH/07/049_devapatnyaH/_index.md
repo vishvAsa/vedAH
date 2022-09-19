@@ -2,7 +2,7 @@
 title = "०४९ देवपत्न्यः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 49 (51). To the spouses of the gods.
 </details>

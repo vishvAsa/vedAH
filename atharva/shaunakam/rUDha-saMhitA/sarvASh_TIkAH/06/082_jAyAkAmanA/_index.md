@@ -2,7 +2,7 @@
 title = "०८२ जायाकामना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 82. To obtain a wife.
 </details>

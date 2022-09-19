@@ -24,7 +24,7 @@ its end and part of vs. 6 (which next follows) are defaced.
 May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of the chronic malady the uppermost and lowest bond.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अमू इति। ये इति। दिवि। सुभगे इति। सुऽभगे। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ७.४।
 </details>
@@ -37,22 +37,22 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 - यक्ष्मनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग नाश करने के लिए उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अमू) वे (ये) जो (सुभगे) बड़े ऐश्वर्यवाले (विचृतौ) [अन्धकार से] छुड़ानेवाले (नाम) प्रसिद्ध (तारके) दो तारे [सूर्य और चन्द्रमा] (दिवि) आकाश में हैं, वे दोनों (क्षेत्रियस्य) शरीर वा वंश के दोष वा रोग के (अधमम्) नीचे और (उत्तमम्) ऊँचे (पाशम्) पाश को (वि+मुञ्चताम्) छुड़ा देवे ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य और चन्द्रमा परस्पर आकर्षण से प्रकाश, वृष्टि और पुष्टि आदि देकर संसार का उपकार करते हैं, इसी प्रकार मनुष्य सुमार्ग में चलकर सब विघ्नों को हटाकर स्वस्थ और यशस्वी हों ॥४॥ यह मन्त्र अ० २।८।१। में कुछ भेद से आ चुका है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(अमू)। परिदृश्यमाने। (ये)। ज्ञाते। (दिवि)। द्युलोके। आकाशे। (सुभगे)। शोभनैश्वर्ययुक्ते। शिष्टं व्याख्यातम्-अ० २।८।१ ॥
 </details>

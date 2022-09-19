@@ -18,7 +18,7 @@ RV. has *vṛ́ṣā śukréṇa* at beginning of **b**.
 That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bear us past our foes.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। रक्षांसि। निऽजूर्वति। अग्निः। तिग्मेन। शोचिषा। सः। नः। पर्षत्। अति। द्विषः। ३४.२।
 </details>
@@ -31,22 +31,22 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (अग्निः) ज्ञानस्वरूप परमेश्वर (तिग्मेन) तीव्र (शोचिषा) तेज से (रक्षांसि) राक्षसों को (निजूर्वति) मार गिराता है। (स) वह (द्विषः) वैरियों को (अति) उलाँघ कर (नः) हमें (पर्षत्) भरपूर करे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे अग्नि के प्रकाश से अन्धकार नष्ट होता है, वैसे ही मनुष्य परमेश्वर के ज्ञान से अज्ञान मिटावें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(रक्षांसि) राक्षसान्। दारिद्र्यादिदोषान् (निजूर्वति) जुर्व वधे। निहन्ति (तिग्मेन) तीक्ष्णेन (शोचिषा) तेजसा। अन्यद् गतम् ॥
 </details>

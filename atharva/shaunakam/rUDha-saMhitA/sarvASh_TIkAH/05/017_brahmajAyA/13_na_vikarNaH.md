@@ -18,7 +18,7 @@ Muir understands a "son" of such description.
 No broad-browed calf with wide-set ears is ever in his homestead born. Within whose kingdom is detained, through want of sense, a Brahman's dame.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 न। विऽकर्णः। पृथुऽशिराः। तस्मिन्। वेश्मनि। जायते। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१३।
 </details>
@@ -31,22 +31,22 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 - ब्रह्मजाया सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विकर्णः) विशेष श्रवण शक्तिवाला और (पृथुशिराः) विस्तीर्ण मस्तक शक्तिवाला पुरुष (तस्मिन्) उस (वेश्मनि) घर में (न) नहीं (जायते) होता है (यस्मिन्) जिस (राष्ट्रे) राज्य में.... ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य वेदविद्या से ही बहुश्रुत और विज्ञानी होते हैं ॥१३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १३−(न) निषेधे (विकर्णः) कर्ण भेदने−अच्। विशेषश्रवणः। बहुश्रतः (पृथुशिराः) विस्तीर्णमस्तकशक्तियुक्तः। बहुप्रज्ञः (तस्मिन्) (वेश्मनि) गृहे (जायते) उत्पद्यते ॥
 </details>

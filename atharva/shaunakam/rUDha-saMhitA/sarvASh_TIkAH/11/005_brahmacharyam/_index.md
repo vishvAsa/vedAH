@@ -2,7 +2,7 @@
 title = "००५ ब्रह्मचर्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Extolling the Vedic student (brahmacārin).
 </details>

@@ -26,7 +26,7 @@ use is evidently the one which gives the verse its place here.
 Splendid are Heaven and Earth, still near to bless us, mighty in their power; The seven streams have flowed: may they, Goddesses, free us from distress
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आपः। सप्त। सुस्रुवः। देवीः। ताः। नः। मुञ्चन्तु अंहसः। २.४५।
 </details>
@@ -39,22 +39,22 @@ Splendid are Heaven and Earth, still near to bless us, mighty in their power; Th
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शुम्भनी) शोभायमान (द्यावापृथिवी) सूर्य और पृथिवीलोक (अन्तिसुम्ने) [अपनी] गतियों से सुखदेनेवाले और (महिव्रते) बड़े व्रत [नियम] वाले हैं। (देवीः) उत्तम गुणवाली (सप्त) सात (आपः) व्यापनशील इन्द्रियाँ [दो कान, दो नथने, दो आँखें और एक मुख] (सुस्रुवुः) [हमें] प्राप्त हुई हैं, (ताः) वे (नः) हमें (अंहसः) कष्ट से (मुञ्चन्तु) छुड़ावें ॥४५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे सूर्य औरपृथिवीलोक ईश्वरनियम से अपनी-अपनी गति पर चलकर वृष्टि अन्न आदि से उपकार करतेहैं, वैसे ही मनुष्य इन्द्रियों को नियम में रखकर अपराधों से बचें ॥४५॥यह मन्त्रऊपर आ चुका है-अ० ७।११२।१ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४५−अयं मन्त्रो व्याख्यातः-अ० ७।११२।१ ॥
 </details>

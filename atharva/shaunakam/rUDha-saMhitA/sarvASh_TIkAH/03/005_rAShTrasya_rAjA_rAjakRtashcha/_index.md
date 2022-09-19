@@ -2,7 +2,7 @@
 title = "००५ राष्ट्रस्य राजा राजकृतश्च"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. For prosperity: with a parṇá-amulet.
 </details>

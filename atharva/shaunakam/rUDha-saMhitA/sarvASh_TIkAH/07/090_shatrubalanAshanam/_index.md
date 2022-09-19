@@ -2,7 +2,7 @@
 title = "०९० शत्रुबलनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 90 (95) To destroy some one's virile power.
 </details>

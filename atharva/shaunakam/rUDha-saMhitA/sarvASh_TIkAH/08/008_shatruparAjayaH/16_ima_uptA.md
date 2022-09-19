@@ -22,7 +22,7 @@ p. 585), "hammer."⌋
 Here spread are snares of Death wherefrom thou, once within them, ne'er art freed: Full many a thousand of the host yonder this horn shall smite and slay.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 इमे। उप्ताः। मृत्युऽपाशाः। यान्। आऽक्रम्य। न। मुच्यसे। अमुष्याः। हन्तु। सेनायाः। इदम्। कूटम्। सहस्रऽशः। ८.१६।
 </details>
@@ -35,22 +35,22 @@ Here spread are snares of Death wherefrom thou, once within them, ne'er art free
 - शत्रुपराजय सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रु के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इमे) ये (मृत्युपाशाः) मृत्यु के जाल (उप्ताः) फैले हैं, (यान्) जिनमें (आक्रम्य) पाँव धरकर [हे शत्रु !] (न मुच्यसे) तू नहीं छूटता है। (इदम्) यह (कूटम्) फन्दा (अमुष्याः सेनायाः) उस सेना का (सहस्रशः) सहस्रों प्रकार से (हन्तु) हनन करे ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा शत्रु लोगों को दृढ़ बन्धनों में रखकर विनष्ट करे ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(इमे) सर्वत्र व्याप्ताः (उप्ताः) डुवप बीजसन्ताने-क्त। विस्तृताः (मृत्युपाशाः) मरणबन्धाः (यान्) (आक्रम्य) पादेन प्राप्य (न) निषेधे (मुच्यसे) मुक्तो भवसि (अमुष्याः) तस्याः (हन्तु) हननं करोतु (सेनायाः) (इदम्) (कूटम्) कूट परितापे-अच्। बन्धनयन्त्रम् (सहस्रशः) म० १। बहुप्रकारेण ॥
 </details>

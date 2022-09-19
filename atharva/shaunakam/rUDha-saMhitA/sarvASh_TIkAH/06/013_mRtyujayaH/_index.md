@@ -2,7 +2,7 @@
 title = "०१३ मृत्युजयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 13. To the instruments and ministers of death.
 </details>

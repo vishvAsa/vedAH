@@ -2,7 +2,7 @@
 title = "००५ लाक्षा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. To a healing plant, lākṣā.
 </details>

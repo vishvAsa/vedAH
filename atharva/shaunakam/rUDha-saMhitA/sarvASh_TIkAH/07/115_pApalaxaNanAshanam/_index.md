@@ -2,7 +2,7 @@
 title = "११५ पापलक्षणनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 115 (120). Against ill luck.
 </details>

@@ -2,7 +2,7 @@
 title = "०३३ दर्भः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33. For various blessings: with an amulet of darbhá.
 </details>

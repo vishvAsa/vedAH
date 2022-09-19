@@ -19,7 +19,7 @@ in **d** accentless. ⌊Both editions read *mṛ́tyo*.⌋
 Let this man live, let him not die: we raise him, we recover him. I make for him a healing balm. O Death, forbear to slay this man.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अयम्। जीवतु। मा। मृत। इमम्। सम्। ईरयामसि। कृणोमि। अस्मै। भेषजम्‌। मृत्यो इति। मा। पुरुषम्। वधीः। २.५।
 </details>
@@ -32,22 +32,22 @@ Let this man live, let him not die: we raise him, we recover him. I make for him
 - दीर्घायु सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कल्याण की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अयम्) यह [जीव] (जीवतु) जीता रहे (मा मृत) न मरे, (इमम्) इस [जीव] को (सम् ईरयामसि) हम वायुसमान [शीघ्र] चलाते हैं। (अस्मै) इस के लिये मैं (भेषजम्) औषध (कृणोमि) करता हूँ (मृत्यो) हे मृत्यु ! (पुरुषम्) [इस] पुरुष को (मा वधीः) मत मार ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुषार्थी निरालसी होकर धर्म में वायुसमान शीघ्र चलते हैं, वे अमर मनुष्य दुःख में नहीं फँसते ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(अयम्) जीवः (जीवतु) प्राणान् धरतु (मा मृत) मृङ् प्राणत्यागे-लुङ्। प्राणान् मा त्यजतु (इमम्) आत्मानम् (समीरयामसि) वायुवच्छीघ्रं प्रेरयामः (कृणोमि) करोमि (अस्मै) जीवाय (भेषजम्) औषधम् (मृत्यो) (पुरुषम्) जीवम् (मा वधीः) मा जहि ॥
 </details>

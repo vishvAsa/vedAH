@@ -2,7 +2,7 @@
 title = "०३८ यक्षमनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 38. With gúggulu: against disease.
 </details>

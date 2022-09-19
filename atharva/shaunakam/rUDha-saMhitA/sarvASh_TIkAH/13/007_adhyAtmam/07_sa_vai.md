@@ -17,7 +17,7 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 स वै भूमे॑रजायत॒ तस्मा॒द् भूमि॑रजायत ॥३५॥
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सः। वै। भूमेः। अजायत। तस्मात्। भूमिः। अजायत। ७.७।
 </details>
@@ -30,22 +30,22 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 - अध्यात्म सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [कारणरूप ईश्वर] (वै) अवश्य (भूमेः) [कार्यरूप] भूमि से (अजायत) प्रकट हुआ है, (तस्मात्) उस [कारणरूप] से (भूमिः) भूमि (अजायत) उत्पन्न हुई है ॥३५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २९ के समान ॥३५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३५−(भूमेः) कार्यरूपायाः पृथिव्याः (भूमिः) पृथिवी। अन्यद् गतम् ॥
 </details>

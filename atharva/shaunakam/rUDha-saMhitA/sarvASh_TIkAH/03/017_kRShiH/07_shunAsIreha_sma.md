@@ -25,7 +25,7 @@ The comm. changes all the three verbs to 3d dual. The Anukr. forbids in
 Suna and Sira, welcome ye this laud, and with the milk that ye have made in heaven, Bedew ye both this earth of ours.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 शुनासीरा। इह। स्म। मे। जुषेथाम्। यत्। दिवि। चक्रथुः। पयः। तेन। इमाम्। उप। सिञ्चतम्। १७.७।
 </details>
@@ -38,22 +38,22 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 - कृषि
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 खेती की विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शुनासीरा=०-रौ) हे वायु और सूर्य तुम दोनों ! (इह स्म) यहाँ पर ही (मे) मेरी [विनय] (जुषेथाम्) स्वीकार करो, (यत् पयः) जो जल (दिवि) आकाश मे (चक्रथुः) तुम दोनों ने बनाया है, (तेन) उससे (इमाम्) इस [भूमि] को (उप सिञ्चतम्) सींचते रहो ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पवन और सूर्य के द्वारा पृथिवी का जल आकाश में जाकर फिर पृथिवी पर बरसता है, वह खेती के लिए बहुत उपयोगी होता है ॥७॥ यह मन्त्र कुछ भेद से निरु० ९।४१ में भी है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(शुनासीरा) म० ५। हे पवनादित्यौ। (इह स्म) अत्रैव। (जुषेथाम्) युवां सेवेथाम्। स्वीकुरुतम्। (दिवि) आकाशे। (चक्रथुः) डुकृञ् करणे लिट्। युवां कृतवन्तौ। (पयः) उदकम्। निघ० १।१२। (इमाम्) दृश्यमानां भूमिम्। (उप सिञ्चतम्) व्याप्य आर्द्रीकुरुतम् ॥
 </details>

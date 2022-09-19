@@ -2,7 +2,7 @@
 title = "०७२ इन्द्रः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 72 (75, 76). With an oblation to Indra.
 </details>

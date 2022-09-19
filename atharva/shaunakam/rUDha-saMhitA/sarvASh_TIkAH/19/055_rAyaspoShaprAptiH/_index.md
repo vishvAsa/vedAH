@@ -2,7 +2,7 @@
 title = "०५५ रायस्पोषप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 55. To Agni.
 </details>

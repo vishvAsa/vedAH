@@ -2,7 +2,7 @@
 title = "०३२ यातुधानक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 32. Against demons.
 </details>

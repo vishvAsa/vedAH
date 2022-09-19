@@ -16,7 +16,7 @@ title = "१६ तामुपाह्वयन्त"
 For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wide expansion.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ताम्। उप। अह्वयन्त। ११.३।
 </details>
@@ -29,22 +29,22 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ताम्) उसे (उप) पास से (अह्वयन्त) उन्होंने बुलाया ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब प्राणी ईश्वरशक्ति का खोज करते हैं ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ताम्) (उप) उपेत्य (अह्वयन्त) आहूतवन्तः ॥
 </details>

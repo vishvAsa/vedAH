@@ -2,7 +2,7 @@
 title = "०३५ विश्वकर्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 35. To expiate errors in the sacrifice: to Viśvakarman.
 </details>

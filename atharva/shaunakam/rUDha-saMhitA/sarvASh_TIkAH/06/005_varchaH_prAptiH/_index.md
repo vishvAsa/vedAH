@@ -2,7 +2,7 @@
 title = "००५ वर्चः प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. For some one's exaltation.
 </details>

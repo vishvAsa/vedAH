@@ -2,7 +2,7 @@
 title = "०५४ अमित्रदम्भनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 54. To secure and increase some one's superiority.
 </details>

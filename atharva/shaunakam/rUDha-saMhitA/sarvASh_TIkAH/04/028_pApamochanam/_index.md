@@ -2,7 +2,7 @@
 title = "०२८ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 28. Praise and prayer to Bhava and śarva.
 </details>

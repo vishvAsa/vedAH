@@ -19,7 +19,7 @@ either *apānena* or *samudrasya* would rectify the meter of **b**.
 Who with the breath he draws sates earth and heaven, with expiration fills the ocean's belly, This God, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। प्राणेन। द्यावापृथिवी इति। तर्पयति। अपानेन। समुद्रस्य। जठरम्। यः। पिपर्ति। तस्य। देवस्य। क्रुध्दस्य। एतत्। आगः। यः। एवम्। विद्वांसम्। ब्राह्मणम्। जिनाति। उत्। वेपय। रोहित। प्र। क्ष‍िणीहि। ब्रह्मऽज्यस्य। प्रति। मुञ्च। पाशान्। ३.४।
 </details>
@@ -32,22 +32,22 @@ Who with the breath he draws sates earth and heaven, with expiration fills the o
 - अध्यात्म सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (प्राणेन) प्राण से (द्यावापृथिवी) सूर्य और भूमि को (तर्पयति) तृप्त करता है और (यः) जो (अपानेन) अपान वायु से (समुद्रस्य) समुद्र के (जठरम्) पेट को (पिपर्ति) भरता है। (तस्य) उस (क्रुद्धस्य) क्रुद्ध (देवस्य) प्रकाशमान [परमेश्वर] के लिये... [म० १] ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १ के समान ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यः) परमेश्वरः (प्राणेन) श्वासेन (द्यावापृथिवी) सूर्यभूमिलोकौ (तर्पयति) तोषयति (अपानेन) प्रश्वासेन (समुद्रस्य) (जठरम्) उदरम् (यः) (पिपर्ति) पूरयति ॥
 </details>

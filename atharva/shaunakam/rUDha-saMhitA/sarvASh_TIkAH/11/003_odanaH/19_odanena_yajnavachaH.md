@@ -21,7 +21,7 @@ prāptavyatveno ’cyamānaḥ*.
 The sacrificial word, all worlds are to be won with Odana.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ओदनेन। यज्ञऽवचः। सर्वे। लोकाः। सम्ऽआप्याः᳡। ३.१९।
 </details>
@@ -34,22 +34,22 @@ The sacrificial word, all worlds are to be won with Odana.
 - ओदन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि के पदार्थों के ज्ञान का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ओदनेन) ओदन [सुख बरसानेवाले अन्नरूप परमेश्वर] द्वारा (यज्ञवचः) यज्ञों [श्रेष्ठकर्मों] से बताये गये (सर्वे) सब (लोकाः) स्थान (समाप्याः) यथावत् पाने योग्य हैं ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर की आराधना से मनुष्य सब उत्तम-उत्तम अधिकार पा सकता है ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(ओदनेन) अ० ९।५।१९। सुखवर्षकेण, अन्नरूपेण परमेश्वरेण (यज्ञवचः) वचेः कर्मणि-विच्। यज्ञैः श्रेष्ठकर्मभिः कथ्यमानाः (सर्वे) (लोकाः) भुवनानि (समाप्याः) सम्यक् प्रापणीयाः ॥
 </details>

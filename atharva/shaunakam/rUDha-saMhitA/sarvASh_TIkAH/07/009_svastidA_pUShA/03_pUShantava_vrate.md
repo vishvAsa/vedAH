@@ -21,7 +21,7 @@ authorities as reading *nā́* at beginning of **b**.
 We are thy praisers here, O Pushan: never let us be injured under thy protection.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 पूषन्। तव। व्रते। वयम्। न। रिष्येम। कदा। चन। स्तोतारः। ते। इह। स्मसि। १०.३।
 </details>
@@ -34,22 +34,22 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 - स्वस्तिदा पूषा सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के उपासना का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पूषन्) हे पूषा, पालन करनेवाले परमेश्वर ! (तव) तेरे (व्रते) वरणीय नियम में [रहकर] (वयम्) हम (कदा चन) कभी भी (न) न (रिष्येम) दुःखी होवें। (इह) यहाँ पर (ते) तेरे (स्तोतारः) स्तुति करनेवाले (स्मसि) हम लोग हैं ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पुरुषार्थी लोग परमेश्वर के गुण और कर्मों के अनुकूल चलकर सदा सुखी रहते हैं ॥३॥ यह मन्त्र ऋग्वेद में है-म० ६।५४।९ और यजु० ३४।४१ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(पूषन्) पोषक परमात्मन् (तव) (व्रते) वरणीये नियमे (वयम्) उपासकाः (न) निषेधे (रिष्येम) रिष हिंसायाम्, दैवादिकः, अकर्मकः। हिंसिता भवेम (कदा चन) कदापि (स्तोतारः) स्तावकाः (ते) तव (इह) अत्र (स्मसि) स्मः। भवामः ॥
 </details>

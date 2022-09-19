@@ -2,7 +2,7 @@
 title = "०१० आत्मरक्षा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. For defense from all quarters.
 </details>

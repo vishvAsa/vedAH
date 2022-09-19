@@ -2,7 +2,7 @@
 title = "०३३ यक्ष्मविबर्हणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33. For expulsion of yákṣma from all parts of the body.
 </details>

@@ -2,7 +2,7 @@
 title = "०६१ विश्वस्रष्टा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 61. Prayer and boasts.
 </details>

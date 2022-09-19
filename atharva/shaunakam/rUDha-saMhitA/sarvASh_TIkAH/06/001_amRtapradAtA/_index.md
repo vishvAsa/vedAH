@@ -2,7 +2,7 @@
 title = "००१ अमृतप्रदाता"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Praise to Savitar.
 </details>

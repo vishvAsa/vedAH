@@ -2,7 +2,7 @@
 title = "०४० सरस्वान्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 40 (41). Prayer and praise to Sarasvant.
 </details>

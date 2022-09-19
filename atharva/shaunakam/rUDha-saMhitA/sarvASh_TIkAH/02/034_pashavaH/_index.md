@@ -2,7 +2,7 @@
 title = "०३४ पशवः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 34. Accompanying the sacrifice of an animal.
 </details>

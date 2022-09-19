@@ -2,7 +2,7 @@
 title = "००६ सपत्नहाऽग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. Praise and prayer to Agni.
 </details>

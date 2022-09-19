@@ -2,7 +2,7 @@
 title = "००३ मूत्रमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. Against obstruction of urine: with a reed.
 </details>

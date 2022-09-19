@@ -2,7 +2,7 @@
 title = "०६५ दुरितनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 65 (67). To the plant apāmārgá: for cleansing.
 </details>

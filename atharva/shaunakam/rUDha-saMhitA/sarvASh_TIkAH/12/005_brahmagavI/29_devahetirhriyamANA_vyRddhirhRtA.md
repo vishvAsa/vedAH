@@ -22,7 +22,7 @@ resolution *ví-ṛd-*.
 A destructive missile of Gods when she is being seized, misfortune when carried away;
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 देवऽहेतिः। ह्रियमाणा। विऽऋध्दिः। हृता। ८.२।
 </details>
@@ -35,22 +35,22 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (ह्रियमाणा) पकड़ी जाती हुई [वेदनिन्दक के लिये] (देवहेतिः) इन्द्रियों का हनन, और (हृता) पकड़ी गयी (व्यृद्धिः) [उस को] अवृद्धि [हानिरूप] होती है ॥२९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य वेदज्ञानियों को पकड़कर कष्ट देते हैं, वे दुर्बलेन्द्रिय अपनी इष्ट कामनाएँ पूरी नहीं कर सकते ॥२९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २९−(देवहेतिः) इन्द्रियाणां हननम् (ह्रियमाणा) गृह्यमाणा (व्यृद्धिः) अवृद्धिः। हानिः (हृता) गृहीता ॥
 </details>

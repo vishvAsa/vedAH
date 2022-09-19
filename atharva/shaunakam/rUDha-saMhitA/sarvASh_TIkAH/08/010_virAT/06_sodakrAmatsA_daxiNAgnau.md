@@ -18,7 +18,7 @@ This superfluous equivalent of §5 is wanting in Ppp.
 She mounted up, she passed within the meeting. He who knows this becomes fit for the meeting, and to his hall of meeting come the people.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। दक्षिणऽअग्नौ। नि। अक्रामत्। १०.६।
 </details>
@@ -31,22 +31,22 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा) वह [विराट्] (उत् अक्रामत्) ऊपर चढ़ी, (सा) वह [सूर्य वा यज्ञ की] (दक्षिणाग्नौ) बढ़ी हुयी अग्नि में (नि अक्रामत्) नीचे उतरी ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर की महिमा सूर्यादि तेजों और शिल्प आदि व्यवहारों में प्रकट है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(दक्षिणाग्नौ) द्रुदक्षिभ्यामिनन्। उ० २।५०। दक्ष वृद्धौ-इनन्। प्रवृद्धे पावके सूर्यस्य यज्ञस्य वा। अन्यत् पूर्ववत् ॥
 </details>

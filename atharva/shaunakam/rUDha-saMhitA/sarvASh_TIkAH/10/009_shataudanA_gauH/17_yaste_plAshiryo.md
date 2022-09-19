@@ -17,7 +17,7 @@ paunches, and what thy skin—let them yield etc. etc.
 Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। ते। प्लाशिः। यः। वनिष्ठुः। यौ। कुक्षी इति। यत्। च। चर्म। ते। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१७।
 </details>
@@ -30,22 +30,22 @@ Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 - शतौदनागौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो (ते) तेरी (प्लाशिः) प्लाशि [अन्न की आधार आँत], (यः) जो (वनिष्ठुः) [अन्न, रक्त आदि बाँटनेवाली आँत], (यौ) जो (कुक्षी) दो कोखें (च) और (यत्) जो (ते) तेरा (चर्म) चर्म है, वे सब (आमिक्षाम्) आमिक्षा ...... म० १३ ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १३ के समान है ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(प्लाशिः) अ० ९।७।१२। अन्नाधार आन्त्रविशेषः (वनिष्ठुः) अ० ९।७।१२। अन्नरक्तादिसंभाजकं स्थूलान्त्रम् (कुक्षी) उदरपार्श्वौ। अन्यत् स्पष्टम् ॥
 </details>

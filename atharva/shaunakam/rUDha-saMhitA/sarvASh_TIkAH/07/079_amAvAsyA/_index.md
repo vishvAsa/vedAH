@@ -2,7 +2,7 @@
 title = "०७९ अमावास्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 79 (84). To Amāvāsyā (night or goddess of new moon).
 </details>

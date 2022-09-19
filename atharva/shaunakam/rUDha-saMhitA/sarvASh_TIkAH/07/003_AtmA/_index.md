@@ -2,7 +2,7 @@
 title = "००३ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. Mystic.
 </details>

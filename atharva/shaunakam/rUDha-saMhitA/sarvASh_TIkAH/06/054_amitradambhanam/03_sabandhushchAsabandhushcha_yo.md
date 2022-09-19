@@ -21,7 +21,7 @@ naḥ*.
 The man who shows us enmity, whether a stranger or akin, Thou wilt give up entire to me who sacrifice and press the juice.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
 </details>
@@ -34,22 +34,22 @@ The man who shows us enmity, whether a stranger or akin, Thou wilt give up entir
 - अमित्रदम्भन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राज्य की रक्षा के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यः) जो शत्रु (सबन्धुः) बन्धुओं सहित (च च) और (असबन्धुः) बिना बन्धुओं के होकर (अस्मान्) हमें (अभिदासति) सतावे। (तम्) उस (सर्वम्) सब को (सुन्वते) तत्त्वमथन करनेवाले (यजमानाय) विद्वानों का सत्कार करनेवाले (मे) मेरे लिये (रन्धयासि) वश में कर ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  धार्मिक पुरुष परमात्मा की आज्ञा मान कर तत्त्वमथन कर के शत्रुओं का नाश करें ॥३॥   इस मन्त्र का पूर्वार्द्ध अ० ६।१५-२। और उत्तरार्द्ध अ० ६।६।१। में आया है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−पूर्वार्द्धो व्याख्यातः−अ० ६।१५।२। उत्तरार्द्धः−अ० ६।६।१।
 </details>

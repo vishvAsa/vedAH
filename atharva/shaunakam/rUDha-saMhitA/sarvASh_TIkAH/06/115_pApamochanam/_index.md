@@ -2,7 +2,7 @@
 title = "११५ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 115. For relief from sin.
 </details>

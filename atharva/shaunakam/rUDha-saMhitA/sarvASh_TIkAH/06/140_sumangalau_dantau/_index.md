@@ -2,7 +2,7 @@
 title = "१४० सुमङ्गलौ दन्तौ"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 140. With the first two upper teeth of a child.
 </details>

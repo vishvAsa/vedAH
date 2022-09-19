@@ -2,7 +2,7 @@
 title = "०२१ छन्दांसि"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21. The meters.
 </details>

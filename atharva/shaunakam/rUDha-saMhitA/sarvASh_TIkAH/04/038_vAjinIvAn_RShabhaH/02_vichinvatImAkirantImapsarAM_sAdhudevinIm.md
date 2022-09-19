@@ -20,7 +20,7 @@ The comm. explains the first two epithets respectively by "collecting"
 Hither I call that Apsaras who scatters and who gathers up. The Apsaras who plays with skill and takes her winnings in the game.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विऽचिन्वतीम्। आऽकिरन्तीम्। अप्सराम्। साधुऽदेविनीम्। ग्लहे। कृतानि। गृह्णानाम्। अप्सराम्। ताम्। इह। हुवे। ३८.२।
 </details>
@@ -33,22 +33,22 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 - वाजिनीवान् ऋषभ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के गुणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विचिन्वतीम्) [पदार्थों को] समेटनेवाली, (आकिरन्तीम्) फैलानेवाली, (अप्सराम्) अद्भुत रूपवाली, (साधुदेविनीम्) उचित व्यवहारवाली, (ग्लहे) [अपने] अनुग्रह में (कृतानि) कर्मों को (गृह्णानाम्) ग्रहण करती हुयी (ताम्) उस (अप्सराम्) आकाश आदि में व्यापक शक्ति को (इह) यहाँ पर (हुवे) मैं बुलाता हूँ ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब मनुष्य परमेश्वर की अनन्त शक्तियों से अपने कार्य सिद्ध करके आनन्द प्राप्त करें ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(विचिन्वतीम्) चिञ् चयने-शतृ। संघीकुर्वतीम् (आकिरन्तीम्) कॄ विक्षेपे-शतृ। विक्षिपन्तीम् (गृह्णानाम्) ग्रह उपादाने-शानच्। आददानाम्। अन्यत् पूर्ववत् म० २ ॥
 </details>

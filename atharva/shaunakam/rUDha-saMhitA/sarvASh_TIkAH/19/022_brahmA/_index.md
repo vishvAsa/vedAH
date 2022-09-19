@@ -2,7 +2,7 @@
 title = "०२२ ब्रह्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. Homage to parts of the Atharva-Veda.
 </details>

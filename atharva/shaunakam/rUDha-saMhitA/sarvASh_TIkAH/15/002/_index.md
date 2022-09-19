@@ -2,7 +2,7 @@
 title = "००२ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. Paryāya the second.
 </details>

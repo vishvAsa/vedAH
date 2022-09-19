@@ -20,7 +20,7 @@ steps, while looking around, in the *āgrahāyaṇī* ceremony.
 Sitting at ease or rising up, standing or going on our way. With our right foot and with our left we will not reel upon the earth.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 उत्ऽईराणाः। उत। आसीनाः। तिष्ठन्तः। प्रऽक्रामन्तः। पत्ऽभ्याम्। दक्षिणऽसव्याभ्याम्। मा। व्यथिष्महि। भूम्याम्। १.२८।
 </details>
@@ -33,22 +33,22 @@ Sitting at ease or rising up, standing or going on our way. With our right foot 
 - भूमि सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राज्य की रक्षा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (उदीराणाः) उठते हुए (उत) और (आसीनाः) बैठे हुए (तिष्ठन्तः) खड़े होते हुए और (प्रक्रामन्तः) चलते-फिरते हुए हम (दक्षिणसव्याभ्याम्) दोनों सीधे और डेरे (पद्भ्याम्) पाँवों से (भूम्याम्) भूमि पर (मा व्यथिष्महि) न डगमगावें ॥२८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य पृथिवी पर सावधान और स्वस्थ रहकर सदा सब को सुख देवें ॥२८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २८−(उदीराणाः) ईर गतौ−शानच्। उद्गच्छन्तः (उत) अपि च (आसीनाः) उपविष्टाः (तिष्ठन्तः) गतिनिवृत्तिं कुर्वन्तः (प्रक्रामन्तः) प्रकर्षेण पादविक्षेपं कुर्वन्तः (पद्भ्याम्) चरणाभ्याम् (दक्षिणसव्याभ्याम्) दक्षिणवामाभ्याम् (मा व्यथिष्महि) व्यथ भयसंचलनयोः−लुङ्। न संचलेम (भूम्याम्) ॥
 </details>

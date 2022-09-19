@@ -18,7 +18,7 @@ verses; but others with *varcas* and *tejas* as the gifts sought.
 Ear art thou, give me hearing! Hail!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 श्रोत्रम्। असि। श्रोत्रम्। मे। दाः। स्वाहा। १७.५।
 </details>
@@ -31,22 +31,22 @@ Ear art thou, give me hearing! Hail!
 - बल प्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आयु बढ़ाने के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे ईश्वर !] तू (श्रोत्रम्) श्रवणशक्ति (असि) है, (मे) मुझे (श्रवणम्) श्रवणशक्ति (दाः) दे, (स्वाहा) यह सुन्दर आशीर्वाद हो ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर अपनी अनन्त श्रवणशक्ति से हमारी टेर सुनता और संकटों को काटता है। ऐसे ही हम अपनी श्रवणशक्ति को नीरोग रखकर दूसरों के दुःखों का निवारण करें और वेदादि शास्त्रों का श्रवण करें ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५–श्रोत्रम्। हुयामाश्रुभसिभ्यस्त्रन्। उ० ४।१६८। इति श्रु गतिश्रुत्योः–त्रन्। श्रवणेन्द्रियम्। कर्णम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०६० अङ्गानि"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 60. For physical abilities.
 </details>

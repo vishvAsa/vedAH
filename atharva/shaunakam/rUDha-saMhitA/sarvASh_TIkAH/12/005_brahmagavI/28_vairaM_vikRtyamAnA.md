@@ -21,7 +21,7 @@ emendation, might possibly be intended here.
 Hostility when being cut to pieces, woe to children when the portions are distributed,
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 वैरम्। विऽकृत्यमाना। पौत्रऽआद्यम्। विऽभाज्यमाना। ८.१।
 </details>
@@ -34,22 +34,22 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वह [वेदवाणी] (विकृत्यमाना) कतरी जाती हुई [वेदनिन्दक के लिये] (वैरम्) वैर [शत्रुतारूप], और (विभाज्यमाना) टुकड़े-टुकड़े की जाती हुई [उसके] (पौत्राद्यम्) पुत्र आदि सन्तानों का भक्षण [नाशरूप] होती है ॥२८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो लोग कुमति के कारण वेदों के उत्तम गुणों को नष्ट-भ्रष्ट करते हैं, तत्त्वज्ञानी पुरुष उनके शत्रु बन जाते हैं और उनके सन्तान भी दुराचारी होकर नष्ट हो जाते हैं ॥२८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २८−(वैरम्) वि विरोधे+ईर गतौ−क, वीर-अण्। विरोधः (विकृत्यमाना) विच्छिद्यमाना (पौत्राद्यम्) पौत्र+अद भक्षणे-ण्यत्। पुत्रादिभक्षणम्। सन्ताननाशनम् (विभाज्यमाना) विभागेन गृह्यमाणा ॥
 </details>

@@ -19,7 +19,7 @@ Ppp. in **d** apparently *saṁ jñapayāmasi*.
 We bend your minds in union, bend in harmony your hopes and plans: You there, who turn to sundered ways, we bend and bow in unison.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ९४.१।
 </details>
@@ -32,22 +32,22 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 - सांमनस्य सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति करने के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे मनुष्यो !] (वः) तुम्हारे (मनांसि) मनों को (सम्) ठीक रीति से, (व्रता=व्रतानि) कर्मों को (सम्) ठीक रीति से (आकूतीः) संकल्प को (सम्) ठीक रीति से (नमामसि=०−मः) हम झुकते हैं। (अमी ये) यह जो तुम (विव्रताः) विरुद्धकर्मी (स्थन) हो, (तान् वः) उन तुमको (सम्) ठीक रीति से (नमयामसि=०−मः) हम झुकाते हैं ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  प्रधान पुरुष सब के उत्तम विचारों, उत्तम कर्मों और उत्तम मनोरथों का माने और धर्मपथ में विरुद्ध मतवालों को भी सहमत कर लेवे ॥१॥  यह मन्त्र आ चुका है−अ० ३।८।५ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−पूर्ववद् व्याख्येयः−अ० ३।८।५ ॥
 </details>

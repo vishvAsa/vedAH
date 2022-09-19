@@ -2,7 +2,7 @@
 title = "०१० "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 10. Paryāya the tenth.
 </details>

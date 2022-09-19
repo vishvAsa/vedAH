@@ -2,7 +2,7 @@
 title = "००२ रुद्रः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. To Rudra, especially as Bhava and śarva.
 </details>

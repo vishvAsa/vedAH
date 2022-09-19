@@ -19,7 +19,7 @@ adjective as referring to the 'troop '—which is not impossible.
 His are these banded Maruts: they move gathered close like porters' thongs.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तस्य। एषः। मारुतः। गणः। सः। एति। शिक्याऽकृतः। ४.८।
 </details>
@@ -32,22 +32,22 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 - अध्यात्म सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्मा और जीवात्मा के विषय का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्य) उस का [परमेश्वर का बनाया हुआ] (एषः) यह (मारुतः) मनुष्यों का (गणः) समूह है, [क्योंकि] (सः) वह [परमेश्वर] (शिक्याकृतः) छींके में किये हुए सा (एति) व्यापक है ॥८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर मनुष्यों को उन के कर्मानुसार बनाता है। वह सब में ऐसा व्यापक है, जैसे कोई पदार्थ छींके के भीतर रक्खा हो ॥८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(तस्य) परमेश्वरस्य रचितः (एषः) दृश्यमानः (मारुतः) मारुतं मरुतां मनुष्याणामिदम्-दयानन्दभाष्ये, ऋग्० २।११।१४। मनुष्यसम्बद्धः (गणः) समूहः (सः) (एति) व्याप्नोति (शिक्याकृतः) स्रंसेः शिः कुट् किच्च। उ० ५।१६। स्रंसु अधःपतने गतौ-यत्, कित् कुट् च, धातोः शि-इत्यादेशः, टाप्। शिक्यायां काचे कृतो धृतो यथा ॥
 </details>

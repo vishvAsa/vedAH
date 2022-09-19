@@ -2,7 +2,7 @@
 title = "००२ पितृमेधः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. ⌊Funeral verses.⌋
 </details>

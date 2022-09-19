@@ -21,7 +21,7 @@ evidently sees in it the root *jā*. In **a** he has the strange reading
 Low let the hostile army lie, thousands of corpses, on the ground, Pierced through and rent to pieces where the deadly weapons clash in fight.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सहस्रऽकुणपा। शेताम्। आमित्री। सेना। सम्ऽअरे। वधानाम्। विऽविध्दा। ककजाऽकृता। १२.२५।
 </details>
@@ -34,22 +34,22 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वधानाम्) हथियारों की (समरे) मारामार में (विविद्धा) छेद डाली गयी, (ककजाकृता) प्यास की उत्पत्ति से सतायी गयी, (सहस्रकुणपा) सहस्रों लोथोंवाली (अमित्री) वैरियों की (सेना) सेना (शेताम्) सो जावे ॥२५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वीरों की मार-धाड़ से शत्रुसेना अनेक प्रकार से व्याकुल होकर मृत्यु पावे ॥२५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २५−(सहस्रकुणपा) असंख्यातशवयुक्ता (शेताम्) (आमित्री) अमित्र-अण्। शात्रवी (सेना) (समरे) युद्धे। प्रहारे (वधानाम्) आयुधानाम् (विविद्धा) विविधं ताडिता (ककजाकृता) कक+जा+कृता। कक गर्वे चापल्ये तृष्णायां च-अच्। जन जनने ड प्रत्ययो भावे, टाप्। कृञ् हिंसायाम् क, टाप्। ककस्य पिपासाया जया उत्पत्या कृता हिंसिता ॥
 </details>

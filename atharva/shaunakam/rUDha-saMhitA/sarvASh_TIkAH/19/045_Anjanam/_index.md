@@ -2,7 +2,7 @@
 title = "०४५ आञ्जनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 45. With an ointment etc.: for various objects.
 </details>

@@ -18,7 +18,7 @@ paśūnāṁ bhavati ya evaṁ veda*.
 The rain-cloud is her fat, her resting-place her marrow.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अभ्रम्। पीबः। मज्जा। निऽधनम्। १२.१८।
 </details>
@@ -31,22 +31,22 @@ The rain-cloud is her fat, her resting-place her marrow.
 - गौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [सृष्टि में] (अभ्रम्) मेघ (पीबः) मेद [शरीर के समान चिकनाई], (निधनम्) राशीकरण (मज्जा) मज्जा [हड्डियों की चिकनाई के समान है] ॥१८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १४ के समान है ॥१८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(अभ्रम्) मेघः (पीबः) अ० १।११।४। पीव स्थौल्ये-असुन्, वस्य बः। शरीरस्नेहः (मज्जा) अ० १।११।४। अस्थिस्नेहः (निधनम्) अ० ९।६(५)।२। राशीकरणम् ॥
 </details>

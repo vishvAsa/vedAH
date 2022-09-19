@@ -2,7 +2,7 @@
 title = "००१ यशः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. With an oblation for confluence.
 </details>

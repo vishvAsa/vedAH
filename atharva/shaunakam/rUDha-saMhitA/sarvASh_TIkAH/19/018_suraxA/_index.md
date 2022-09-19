@@ -2,7 +2,7 @@
 title = "०१८ सुरक्षा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 18. For protection: to various gods.
 </details>

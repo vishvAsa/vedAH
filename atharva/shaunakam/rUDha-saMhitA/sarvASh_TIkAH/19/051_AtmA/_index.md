@@ -2,7 +2,7 @@
 title = "०५१ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 51. Accompanying acceptance (?).
 </details>

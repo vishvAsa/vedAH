@@ -2,7 +2,7 @@
 title = "००३ स्वराज्ये राज्ञः पुनः स्थापननम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. For the restoration of a king.
 </details>

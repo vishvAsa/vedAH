@@ -18,7 +18,7 @@ Ppp. omits this variation on vs. 6.
 Death caused by thirst, death caused by stress of hunger, loss at play with dice, All this, O Apamarga with thine aid we cleanse and wipe away.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तृष्णाऽमारम्। क्षुधाऽमारम्। अथो इति। अक्षऽपराजयम्। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.७।
 </details>
@@ -31,22 +31,22 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 - अपामार्ग सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के लक्षणों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तृष्णामारम्) पियास से मरना, (क्षुधामारम्) भूख से मरना, (अथो) और भी (अक्षपराजयम्) व्यवहारों वा इन्द्रियों की हार, (तत् सर्वम्) इस सबको, (अपामार्ग) हे सर्वसंशोधक राजन् ! (त्वया) तेरे साथ (वयम् अपमृज्महे) हम शोधते हैं ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा के उत्तम प्रबन्ध से न तो जल, अन्न और दैनिक काम काज की हानि, और न शरीर और आत्मा की दुर्बलता होती है ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(अथो) अपि च (अक्षपराजयम्) अक्षू व्याप्तौ-पचाद्यच् घञ् वा। यद्वा। अशेर्देवने। उ० ३।६५। इति अशू व्याप्तौ स प्रत्ययः। अक्षाणां व्यवहाराणाम् इन्द्रियाणां वा पराजयं पराभवम्। अन्यत् पूर्ववत् ॥
 </details>

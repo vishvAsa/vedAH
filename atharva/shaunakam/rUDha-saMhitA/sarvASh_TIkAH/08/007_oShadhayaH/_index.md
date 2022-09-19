@@ -2,7 +2,7 @@
 title = "००७ ओषधयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. To the plants: for some one's restoration to health.
 </details>

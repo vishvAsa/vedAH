@@ -20,7 +20,7 @@ contains not far from 40 syllables.
 Indra's protection art thou. I betake me to thee, I enter thee with all my cattle. With all my people and with all my body, with all my soul, with mine entire possessions.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 इन्द्रस्य। वरूथम्। असि। तम्। त्वा। प्र। पद्ये। तम्। त्वा। विशामि। सर्वऽगुः। सर्वऽपुरुषः। सर्वऽआत्मा। सर्वऽतनूः। सह। यत्। मे। अस्ति। तेन। ६.१४।
 </details>
@@ -33,22 +33,22 @@ Indra's protection art thou. I betake me to thee, I enter thee with all my cattl
 - ब्रह्मविद्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] तू (इन्द्रस्य) जीवात्मा का (वरूथम्) ढाल (असि) है। (सर्वगुः) सब गौ आदि पशुओं सहित, (सर्वपुरुषः) सब पुरुषों सहित, (सर्वात्मा) पूरे आत्मबलसहित, (सर्वतनूः) सब शरीर सहित मैं (तम् त्वा) उस तुझ को (प्र पद्ये) प्राप्त होता हूँ, (तम् त्वा) उस तुझ में (प्र विशामि) प्रवेश करता हूँ। और (यत्) जो कुछ (मे) मेरा (अस्ति) है (तेन सह) उसके साथ भी ॥१४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सब प्रकार से परमेश्वर की आज्ञापालन करके सदा प्रसन्नचित्त रहे ॥१४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(वरूथम्) जृवृञ्भ्यामूथन्। उ० २।६। इति वृञ्−ऊथन्। शरीरावरकं शस्त्रम्। चर्म। फलकम्। अन्यत् पूर्ववत् म० ११ ॥
 </details>

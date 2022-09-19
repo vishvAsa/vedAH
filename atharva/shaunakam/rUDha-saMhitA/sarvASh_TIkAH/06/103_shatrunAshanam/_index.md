@@ -2,7 +2,7 @@
 title = "१०३ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 103. To tie up enemies.
 </details>

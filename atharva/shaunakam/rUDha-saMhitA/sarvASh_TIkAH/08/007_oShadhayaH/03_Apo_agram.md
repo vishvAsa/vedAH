@@ -21,7 +21,7 @@ have *-śan*.
 The Waters are the best, and heavenly Plants. From every limb of thine have they removed Consumption caused by sin.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 आपः। अग्रम्। दिव्याः। ओषधयः। ताः। ते। यक्ष्मम्। एनस्य᳡म्। अङ्गात्ऽअङ्गात्। अनीनशन्। ७.३।
 </details>
@@ -34,22 +34,22 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 - ओषधि समूह सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्रम्) पहिले (दिव्याः) दिव्य गुणवाले (आपः) जल और (ओषधयः) ओषधियाँ [अन्न आदि पदार्थ] [थीं] (ताः) उन्होंने (एनस्यम्) पाप से उत्पन्न हुए (यक्ष्मम्) राजरोग को (ते) तेरे (अङ्गादङ्गात्) अङ्ग-अङ्ग से (अनीनशन्) नष्ट कर दिया है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर ने सृष्टि के आदि में जल अन्न आदि पदार्थ उत्पन्न करके प्राणियों की रक्षा की है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(आपः) जलानि (अग्रम्) सृष्ट्यादौ (दिव्याः) उत्तमगुणाः (ओषधयः) अन्नादयः (ताः) (ते) तव (यक्ष्मम्) राजरोगम् (एनस्यम्) तत्र जातः। पा० ४।३।२५। य प्रत्ययः। पापोद्भवम् (अङ्गादङ्गात्) सर्वावयवात् (अनीनशन्) अ० १।२४।२। नाशितवत्यः ॥
 </details>

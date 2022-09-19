@@ -2,7 +2,7 @@
 title = "००९ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. Paryāya the ninth.
 </details>

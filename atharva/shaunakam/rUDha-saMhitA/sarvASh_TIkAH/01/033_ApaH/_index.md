@@ -2,7 +2,7 @@
 title = "०३३ आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33. To the waters: for blessings.
 </details>

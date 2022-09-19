@@ -2,7 +2,7 @@
 title = "०९७ अभिभूर्वीरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 97. For victory.
 </details>

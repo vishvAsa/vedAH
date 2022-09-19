@@ -2,7 +2,7 @@
 title = "०७१ वेदमाता"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 71. For various blessings.
 </details>

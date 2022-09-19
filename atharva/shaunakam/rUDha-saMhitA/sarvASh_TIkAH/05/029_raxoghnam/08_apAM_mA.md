@@ -22,7 +22,7 @@ three variants given above, and **b** with *imam* for *yo mā*, and with
 If one, flesh eater, in a draught of water have wronged me lying in the bed of goblins, Let the Pisachas, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अपाम्। मा। पाने। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। । २९.८।
 </details>

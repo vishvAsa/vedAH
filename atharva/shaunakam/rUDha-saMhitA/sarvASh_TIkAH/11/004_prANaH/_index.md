@@ -2,7 +2,7 @@
 title = "००४ प्राणः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. Extolling the breath (prāṇá).
 </details>

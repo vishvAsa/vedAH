@@ -2,7 +2,7 @@
 title = "००९ आञ्जनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. For protection etc.: with a certain ointment.
 </details>

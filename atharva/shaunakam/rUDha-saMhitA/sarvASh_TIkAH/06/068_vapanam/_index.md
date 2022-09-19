@@ -2,7 +2,7 @@
 title = "०६८ वपनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 68. To accompany the act of shaving.
 </details>

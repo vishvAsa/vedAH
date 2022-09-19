@@ -2,7 +2,7 @@
 title = "००६ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. Against enemies: with aśvatthá.
 </details>

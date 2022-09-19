@@ -2,7 +2,7 @@
 title = "११६ ज्वरनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 116 (121). Against intermittent fever.
 </details>

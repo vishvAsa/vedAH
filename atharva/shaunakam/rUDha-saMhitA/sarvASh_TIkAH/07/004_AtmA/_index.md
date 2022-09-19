@@ -2,7 +2,7 @@
 title = "००४ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. To the wind-god with his steeds.
 </details>

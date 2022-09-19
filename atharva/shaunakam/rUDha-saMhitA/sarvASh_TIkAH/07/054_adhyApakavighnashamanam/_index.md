@@ -2,7 +2,7 @@
 title = "०५४ अध्यापकविघ्नशमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 54 (56, 57. 1). Extolling verse and chant.
 </details>

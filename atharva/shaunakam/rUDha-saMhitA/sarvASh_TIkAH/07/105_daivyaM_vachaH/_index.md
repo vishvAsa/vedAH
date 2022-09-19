@@ -2,7 +2,7 @@
 title = "१०५ दैव्यं वचः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 105 (110). An exhortation to holy life.
 </details>

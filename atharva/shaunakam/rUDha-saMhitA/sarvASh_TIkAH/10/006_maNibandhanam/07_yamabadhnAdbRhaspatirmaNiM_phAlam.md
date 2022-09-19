@@ -17,7 +17,7 @@ heroism; it yields to him strength, more and more etc. etc.
 The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent Khadira, for strength, This Charm hath Indra put on him for power and manly puissance. It yieldeth strength to strengthen him, again, again, from morn to morn, having approached the deities.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। इन्द्रः। प्रति। अमुञ्चत। ओजसे। वीर्या᳡य। कम्। सः। अस्मै। बलम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.७।
 </details>
@@ -30,22 +30,22 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (बृहस्पतिः) बृहस्पति [बड़े ब्रह्माण्डों के स्वामी परमेश्वर] ने (यम्) जिस... म० ६। (तम्) उस [वैदिक नियम] को (इन्द्रः) इन्द्र [मेघसमान उपकारी पुरुष] ने (ओजसे) बल के लिये और (वीर्याय) पराक्रम के लिये (कम्) सुख से (प्रति अमुञ्चत) स्वीकार किया है। (सः) वह [वैदिक नियम] (अस्मै) इस [उपकारी] के लिये (इत्) ही (बलम्) बल को (भूयोभूयः) बहुत-बहुत..... म० ६ ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जिस परमेश्वर की आज्ञा से मेघ वृष्टि द्वारा अन्न आदि उत्पन्न करके संसार में पुष्टि करता है, उसी परमात्मा की उपासना से बल प्राप्त करके विद्वान् लोग सदा उपकार करते रहे हैं और करते रहें ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(इन्द्रः) मेघ इवोपकारी पुरुषः (ओजसे) बलाय (वीर्याय) वीरकर्मणे। पराक्रमाय (कम्) सुखेन (बलम्) सामर्थ्यम्। अन्यत् पूर्ववत् ॥
 </details>

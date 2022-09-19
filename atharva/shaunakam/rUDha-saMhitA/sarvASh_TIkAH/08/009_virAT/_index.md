@@ -2,7 +2,7 @@
 title = "००९ विराट्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. Mystic: extolling the virā́j.
 </details>

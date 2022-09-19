@@ -2,7 +2,7 @@
 title = "०८७ राज्ञः संवरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 87. To establish some one in sovereignty.
 </details>

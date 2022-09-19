@@ -2,7 +2,7 @@
 title = "०२६ पशुसंवर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 26. For safety and increase of kine.
 </details>

@@ -2,7 +2,7 @@
 title = "०६७ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 67. For success against enemies.
 </details>

@@ -2,7 +2,7 @@
 title = "०१४ वस्युनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. Against sadā́nvās.
 </details>

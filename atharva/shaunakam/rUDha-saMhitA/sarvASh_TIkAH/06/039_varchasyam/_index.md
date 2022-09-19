@@ -2,7 +2,7 @@
 title = "०३९ वर्चस्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 39. For glory.
 </details>

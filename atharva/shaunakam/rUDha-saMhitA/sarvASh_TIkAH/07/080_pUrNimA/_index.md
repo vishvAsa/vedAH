@@ -2,7 +2,7 @@
 title = "०८० पूर्णिमा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 80 (85). To the night or goddess of full moon (pāurṇamāsī́).
 </details>

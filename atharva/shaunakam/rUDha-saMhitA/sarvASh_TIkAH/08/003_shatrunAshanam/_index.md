@@ -2,7 +2,7 @@
 title = "००३ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. To Agni: against sorcerers and demons.
 </details>

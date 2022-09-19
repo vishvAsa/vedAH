@@ -2,7 +2,7 @@
 title = "०१५ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. For superiority.
 </details>

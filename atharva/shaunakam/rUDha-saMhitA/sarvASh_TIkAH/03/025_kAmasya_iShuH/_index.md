@@ -2,7 +2,7 @@
 title = "०२५ कामस्य इषुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. To command a woman's love.
 </details>

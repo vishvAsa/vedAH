@@ -14,7 +14,7 @@ injures him nor his cattle nor his fellows who knoweth thus.
 Neither Sarva nor Bhava nor Isana slays him who possesses this knowledge, or his cattle, or his kinsmen.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.३।
 </details>
@@ -27,22 +27,22 @@ Neither Sarva nor Bhava nor Isana slays him who possesses this knowledge, or his
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमात्माके अन्तर्यामी होने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हिनस्ति) कष्ट देताहै, (न) न (अस्य) उस [विद्वान्] के (पशून्) प्राणियों को और (न) न (समानान्) [उसके] तुल्य गुणवालों को [कष्ट देता है], (यः) जो [विद्वान्] (एवम्) ऐसे वाव्यापक [व्रात्य परमात्मा] को (वेद) जानता है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वानों का मत है किजो मनुष्य परमात्मा को सर्वव्यापक सर्वान्तर्यामी जानकर सदा सर्वत्र पुरुषार्थकरके उसका आज्ञाकारी रहता है, वह सर्वशक्तिमान् परमेश्वर सब विघ्न हटाकर उस परउसके अनुगामियों पर अनुग्रह करता है ॥१-३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(न) निषेधे (अस्य) विदुषः (पशून्)प्राणिनः (न) (समानान्) तुल्यगुणान् पुरुषान् (हिनस्ति) दुःखयति (यः) विद्वान् (एवम्) ईदृशं व्यापकं वा व्रात्यं परमात्मानम् (वेद) जानाति ॥
 </details>

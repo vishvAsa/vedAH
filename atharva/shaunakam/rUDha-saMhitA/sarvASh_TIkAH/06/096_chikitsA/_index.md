@@ -2,7 +2,7 @@
 title = "०९६ चिकित्सा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 96. For relief from sin and distress.
 </details>

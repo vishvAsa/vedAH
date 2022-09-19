@@ -2,7 +2,7 @@
 title = "०१७ बलप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 17. For various gifts.
 </details>

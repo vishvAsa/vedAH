@@ -17,7 +17,7 @@ together with food, with progeny.
 The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goats, and sheep, hath come with food and progeny.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। गोभिः। अजाविऽभिः। अन्नेन। प्रऽजया। सह। ६.२३।
 </details>
@@ -30,22 +30,22 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यम्) जिस (असुरक्षितिम्) असुरनाशक.... म० २२। (सः अयम्) वही (मणिः) मणि [प्रशंसनीय वैदिक नियम] (मा) मुझे (गोभिः) गौओं और (अजाविभिः सह) बकरी और भेड़ों के साथ, (अन्नेन) अन्न और (प्रजया सह) प्रजा [सन्तान] के साथ (आ अगमत्) प्राप्त हुआ है ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य ईश्वरनियम पर चलकर गौ आदि प्राणियों से उपकार लेकर सुखी रहे ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(अजाविभिः) अजाश्च अवयश्च ताभिः (प्रजया) सन्तानेन सह। अन्यत् सुगमम् ॥
 </details>

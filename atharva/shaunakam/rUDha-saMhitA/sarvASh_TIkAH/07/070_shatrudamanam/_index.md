@@ -2,7 +2,7 @@
 title = "०७० शत्रुदमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 70 (73). Against an enemy's sacrifice.
 </details>

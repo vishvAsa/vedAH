@@ -2,7 +2,7 @@
 title = "०१३ आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 13. To the waters.
 </details>

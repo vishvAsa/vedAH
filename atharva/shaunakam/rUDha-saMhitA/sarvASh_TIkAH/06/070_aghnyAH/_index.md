@@ -2,7 +2,7 @@
 title = "०७० अघ्न्याः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 70. To attach a cow to her calf.
 </details>

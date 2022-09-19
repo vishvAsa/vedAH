@@ -19,7 +19,7 @@ as a whole verse.
 Subduing all our adversaries, Agni, give us their food, their strength and their possessions.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सर्वान्। अग्ने। सहमानः। सऽपत्नान्। आ। एषाम्। ऊर्जम्। रयिम्। अस्मासु। धेहि। २.४६।
 </details>
@@ -32,22 +32,22 @@ Subduing all our adversaries, Agni, give us their food, their strength and their
 - यक्ष्मारोगनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे ज्ञानस्वरूप ! [परमेश्वर] (सर्वान्) सब (सपत्नान्) वैरियों को (सहमानः) हराता हुआ तू (एषाम्) इनके (ऊर्जम्) अन्न और (रयिम्) धन को (अस्मासु) हम [धर्मात्माओं] में (आ धेहि) सब प्रकार धारण कर ॥४६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर के नियम से धर्मात्मा लोग अधर्मियों को सदा नीचा रखते हैं ॥४६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४६−(सर्वान्) (अग्ने) हे ज्ञानस्वरूप परमात्मन् (सहमानः) अभिभवन् (सपत्नान्) शत्रून् (आ) समन्तात् (एषाम्) शत्रूणाम् (ऊर्जम्) अन्नम् (रयिम्) धनम् (अस्मासु) धार्मिकेषु (धेहि) धारय ॥
 </details>

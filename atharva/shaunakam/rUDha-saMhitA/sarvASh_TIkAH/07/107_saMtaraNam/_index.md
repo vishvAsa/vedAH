@@ -2,7 +2,7 @@
 title = "१०७ संतरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 107 (112). To relieve a stinging pain.
 </details>

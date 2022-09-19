@@ -2,7 +2,7 @@
 title = "०१७ ब्रह्मजाया"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 17. The Brahman's wife.
 </details>

@@ -2,7 +2,7 @@
 title = "०९३ स्वस्त्ययनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 93. For protection: to many gods.
 </details>

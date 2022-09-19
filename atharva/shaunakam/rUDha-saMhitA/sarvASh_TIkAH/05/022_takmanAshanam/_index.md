@@ -2,7 +2,7 @@
 title = "०२२ तक्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. Against fever (takmán).
 </details>

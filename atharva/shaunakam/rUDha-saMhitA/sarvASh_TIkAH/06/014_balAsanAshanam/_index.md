@@ -2,7 +2,7 @@
 title = "०१४ बलासनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. Against the balā́sa.
 </details>

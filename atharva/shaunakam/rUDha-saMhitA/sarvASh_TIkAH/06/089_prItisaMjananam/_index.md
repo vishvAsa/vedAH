@@ -2,7 +2,7 @@
 title = "०८९ प्रीतिसंजननम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 89. To win affection.
 </details>

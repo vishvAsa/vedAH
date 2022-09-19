@@ -2,7 +2,7 @@
 title = "०६५ अवनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 65. Praise of the sun.
 </details>

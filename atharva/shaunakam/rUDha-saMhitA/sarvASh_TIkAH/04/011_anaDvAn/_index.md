@@ -2,7 +2,7 @@
 title = "०११ अनड्वान्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. In praise of the draft-ox.
 </details>

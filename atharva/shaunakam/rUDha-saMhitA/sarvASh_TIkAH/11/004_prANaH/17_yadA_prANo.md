@@ -21,7 +21,7 @@ closer, by reading *modante* for *jāyante* in **c**. Some of the
 When Prana hath poured down his flood of rain upon the mighty earth, The plants are wakened into life, and every herd that grows on ground.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। ओषधयः। प्र। जायन्ते। अथो इति। याः। काः। च। वीरुधः। ६.१७।
 </details>
@@ -34,22 +34,22 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 - प्राण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यदा) जब (प्राणः) प्राण [जीवनदाता परमेश्वर] ने (वर्षेण) वर्षा द्वारा (महीम्) विशाल (पृथिवीम्) पृथिवी को (अभ्यवर्षीत्) सींच दिया, (अथो) तब ही (ओषधयः) अन्न आदि पदार्थ (च) और (याः काः) जो कोई (वीरुधः) जड़ी-बूटी हैं, वे भी (प्र जायन्ते) बहुत उत्पन्न होती हैं ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर के नियम से वृष्टि होने पर ग्राम्य और आरण्य पदार्थ उत्पन्न होकर संसार का उपकार करते हैं ॥१७॥इस मन्त्र का पूर्वार्ध ऊपर मन्त्र ५ में आया है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−पूर्वार्धर्चो व्याख्यातः-म० ५ (ओषधयः) अन्नादिपदार्थाः (प्र जायन्ते) (अथो) अनन्तरमेव (याः) (काः) (च) (वीरुधः) अ० १।३२।१। विरोहणशीला लतादयः ॥
 </details>

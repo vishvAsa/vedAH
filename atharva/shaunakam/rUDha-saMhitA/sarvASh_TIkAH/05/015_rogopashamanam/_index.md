@@ -2,7 +2,7 @@
 title = "०१५ रोगोपशमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. For exorcism: to a plant.
 </details>

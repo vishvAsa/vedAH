@@ -2,7 +2,7 @@
 title = "१०८ मेधावर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 108. For wisdom.
 </details>

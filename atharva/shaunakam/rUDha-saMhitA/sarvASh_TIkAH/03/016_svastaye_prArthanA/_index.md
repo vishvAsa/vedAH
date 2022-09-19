@@ -2,7 +2,7 @@
 title = "०१६ स्वस्तये प्रार्थना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 16. Morning invocation to various gods, especially Bhaga.
 </details>

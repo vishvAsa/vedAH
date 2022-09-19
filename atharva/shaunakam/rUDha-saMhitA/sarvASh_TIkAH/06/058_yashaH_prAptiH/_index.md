@@ -2,7 +2,7 @@
 title = "०५८ यशः प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 58. For glory.
 </details>

@@ -2,7 +2,7 @@
 title = "०२९ अविः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. With the offering of a white-footed sheep.
 </details>

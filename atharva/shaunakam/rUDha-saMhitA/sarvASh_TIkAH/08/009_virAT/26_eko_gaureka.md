@@ -23,7 +23,7 @@ Anukr. here says *kutaḥ*.⌋
 One is the Cow, one is the Single Spirit, one is the law, single are benedictions. The Spirit dwelling on the earth is single: the Single Season never is transcended.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 एकः। गौः। एकः। एकऽऋषिः। एकम्। धाम। एकऽधा। आऽशिषः। यक्षम्। पृथिव्याम्। एकऽवृत्। एकऽऋतुः। न। अति। रिच्यते। ९.२६।
 </details>
@@ -36,22 +36,22 @@ One is the Cow, one is the Single Spirit, one is the law, single are benediction
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एकः) एक [सर्वव्यापक परमेश्वर] (गौः) [लोकों का] चलानेवाला, (एकः) एक (एकऋषिः) अकेला ऋषि [सन्मार्गदर्शक], (एकम्) एक [ब्रह्म] (धाम) ज्योतिःस्वरूप है, (एकधा) एक प्रकार से (आशिषः) हित प्रार्थनाएँ हैं। (पृथिव्याम्) पृथिवी पर (एकवृत्) अकेला वर्तमान (यक्षम्) पूजनीय [ब्रह्म], (एकर्तुः) एक ऋतुवाला [एकरस वर्तमान परमात्मा] [किसी से] (न अति रिच्यते) नहीं जीता जाता है ॥२६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  एक, अद्वितीय, परमेश्वर अपनी अनुपम शक्ति से सर्वशासक है, उसी की आज्ञापालन सब प्राणियों के लिये हितकारक है ॥२६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २६−(एकः) इण्भीकापा०। उ० ३।४३। इण् गतौ-कन्। एति प्राप्नोतीत्येकः। सर्वव्यापकः केवलः परमेश्वरः (न) निषेधे (अति रिच्यते) पराभूयते केनापि। अन्यत् पूर्ववत् म० २५ ॥
 </details>

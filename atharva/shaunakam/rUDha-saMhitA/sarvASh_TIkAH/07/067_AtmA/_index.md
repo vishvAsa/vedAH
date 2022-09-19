@@ -2,7 +2,7 @@
 title = "०६७ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 67 (69). For recovery of sense, etc.
 </details>

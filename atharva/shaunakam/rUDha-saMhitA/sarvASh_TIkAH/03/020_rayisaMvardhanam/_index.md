@@ -2,7 +2,7 @@
 title = "०२० रयिसंवर्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 20. To Agni and other gods: for various blessings.
 </details>

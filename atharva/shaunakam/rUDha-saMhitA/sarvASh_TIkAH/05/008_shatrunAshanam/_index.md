@@ -2,7 +2,7 @@
 title = "००८ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. Against enemies: to Indra and other gods.
 </details>

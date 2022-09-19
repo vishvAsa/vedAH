@@ -26,7 +26,7 @@ The comm. explains *radantām* by *svatuṇḍāiḥ pādāiś ca vilikhantu*.
 Let all the birds that move on wings come downward, all fowls that roam the heavens and air's midregion. Let beasts of prey and flies attacks, and vultures that eat raw flesh mangle and gnaw the carcase.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अव। अयन्ताम्। पक्षिणः। ये। वयांसि। अन्तरिक्षे। दिवि। चरन्ति। श्वापदः। मक्षिकाः। सम्। रभन्ताम्। आमऽअदः। गृध्राः। कुणपे। रदन्ताम्। १२.८।
 </details>
@@ -39,22 +39,22 @@ Let all the birds that move on wings come downward, all fowls that roam the heav
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (वयांसि) वे गतिवाले [प्राणी] (अव अयन्ताम्) उतरें, (ये) जो (पक्षिणः) पंखवाले हैं और (ये) जो (अन्तरिक्षे) अन्तरिक्ष के भीतर (दिवि) प्रकाश में (चरन्ति) चलते हैं। (श्वापदः) कुत्ते के से पैरवाले [सियार आदि], (मक्षिकाः) मक्खियाँ (सं रभन्ताम्) चढ़ें, (आमादः) मांसाहारी (गृध्राः) गिद्ध (कुणपे) लोथ पर (रदन्ताम्) नोंचें खरोचें ॥८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  पूरी हार होने से शत्रुओं की लोथों को मांसाहारी पशु-पक्षी खैंच-खैंच कर खावें ॥८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ८−(अवायन्ताम्) अय गतौ। निपद्यन्ताम् (पक्षिणः) पक्षवन्तः (ये) (वयांसि) वय गतौ-असुन्। गतिमन्ति सत्त्वानि (अन्तरिक्षे) (दिवि) प्रकाशे (ये) (चरन्ति) (श्वापदः) अ० ११।९।१०। शृगालादयः पशवः (मक्षिकाः) कीटविशेषाः (संरभन्ताम्) आक्रमन्ताम् (आमादः) मांसाहारिणः (गृध्राः) (कुणपे) शवशरीरे (रदन्ताम्) विलिखन्तु ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०२४ ब्रह्मकर्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 24. To various gods as overlords.
 </details>

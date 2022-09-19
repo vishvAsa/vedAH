@@ -23,7 +23,7 @@ true accent. Ppp. reads instead *yajñāntas*, and omits after it
 She mounted up, the Southward fire she entered. He who knows this becomes a fit performer of sacrifice, meet for honour, shelter-giver.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सा। उत्। अक्रामत्। सा। आऽहवनीये। नि। अक्रामत्। १०.४।
 </details>
@@ -36,22 +36,22 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा) वह [विराट्] (उत् अक्रामत्) ऊपर चढ़ी, (सा) (आहवनीये) यज्ञयोग्य व्यवहार में (नि अक्रामत्) नीचे उतरी ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  उस विराट् की महिमा प्रत्येक उत्तम कर्म में प्रकट होती है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(आहवनीये) आङ्+हु दानादानादनेषु-अनीयर्, यद्वा आहवन-छ-प्रत्ययः। यजनीये व्यवहारे। अन्यत् पूर्ववत् ॥
 </details>

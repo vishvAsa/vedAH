@@ -2,7 +2,7 @@
 title = "०२६ शर्मप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 26. For protection from the wrath of the gods.
 </details>

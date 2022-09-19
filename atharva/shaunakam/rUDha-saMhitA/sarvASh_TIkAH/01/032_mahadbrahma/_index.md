@@ -2,7 +2,7 @@
 title = "०३२ महद्ब्रह्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 32. Cosmogonic.
 </details>

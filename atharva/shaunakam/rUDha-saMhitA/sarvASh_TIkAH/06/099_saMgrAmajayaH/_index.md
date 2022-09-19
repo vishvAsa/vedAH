@@ -2,7 +2,7 @@
 title = "०९९ संग्रामजयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 99. For safety: to Indra.
 </details>

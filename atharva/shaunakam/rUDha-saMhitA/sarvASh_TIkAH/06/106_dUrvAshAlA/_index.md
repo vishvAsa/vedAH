@@ -2,7 +2,7 @@
 title = "१०६ दूर्वाशाला"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 106. Against fire in the house.
 </details>

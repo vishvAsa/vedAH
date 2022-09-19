@@ -19,7 +19,7 @@ Ppp. puts this verse at the end of the book.
 Be pleasant to the husband's sire, sweet to thy household and thy lord, To all this clan be gentle, and favour these men's prosperity.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 स्योना। भव। श्वशुरेभ्यः। स्योना। पत्ये। गृहेभ्यः। स्योना। अस्यै। सर्वस्यै। विशे। स्योना। पुष्टाय। एषाम्। भव। २.२७।
 </details>
@@ -32,22 +32,22 @@ Be pleasant to the husband's sire, sweet to thy household and thy lord, To all t
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वधू !] तू (श्वशुरेभ्यः) ससुर आदि के लिये (स्योना) सुख देनेवाली, (पत्ये) पति के लिये और (गृहेभ्यः) घरवालों के लिये (स्योना) सुख देनेवाली (भव) हो। (अस्यै) इस (सर्वस्यै विशे) सब प्रजा के लिये (स्योना) सुख देनेवाली और (एषाम्) इनके (पुष्टाय) पोषण के लिये (स्योना) सुख देनेवाली (भव) हो ॥२७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  उत्तम वधू पालन-पोषणकरके सब कुटुम्बियों को प्रसन्न रक्खे ॥२७॥मन्त्र २६ देखो ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २७−(स्योना) सुखप्रदा (भव) (श्वशुरेभ्यः) श्वशुरादिभ्यः (स्योना) (पत्ये) स्वामिने (गृहेभ्यः)गृहपुरुषेभ्यः (स्योना) (अस्यै) (सर्वस्यै) (विशे) प्रजायै (पुष्टाय) पोषणाय (एषाम्) पूर्वोक्तानाम् (भव) ॥
 </details>

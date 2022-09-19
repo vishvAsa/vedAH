@@ -2,7 +2,7 @@
 title = "०२९ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. Praise and prayer to Mitra and Varuṇa.
 </details>

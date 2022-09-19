@@ -2,7 +2,7 @@
 title = "००२ आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. Praise and prayer to the waters.
 </details>

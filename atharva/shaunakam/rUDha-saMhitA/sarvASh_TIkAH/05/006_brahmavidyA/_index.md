@@ -2,7 +2,7 @@
 title = "००६ ब्रह्मविद्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6.xa0?⌊Disconnected verses.⌋
 </details>

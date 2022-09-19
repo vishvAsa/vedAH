@@ -24,7 +24,7 @@ triṣṭubh; 73. āsury uṣṇih.*\]
 Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 त्वया। प्रऽमूर्णम्। मृदितम्। अग्निः। दहतु। दुःऽचितम्। १०.१५।
 </details>
@@ -37,22 +37,22 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे वेदवाणी !] (त्वया) तुझ करके (प्रमूर्णम्) बाँध लिये गये, (मृदितम्) कुचले गये (दुश्चितम्) अनिष्ट चिन्तक को (अग्निः) आग (दहतु) जला डाले ॥६१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदविरोधी दुराचारी पुरुष को न्यायव्यवस्था से जला कर भस्म कर डाले ॥६१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६१−(त्वया) वेदवाण्या (प्रमूर्णम्) मुर्व बन्धने−क्त। प्रकर्षेण बद्धम् (मृदितम्) मृद क्षोदे−क्त। चूर्णितम् (अग्निः) प्रत्यक्षः (दहतु) (दुश्चितम्) चिती संज्ञाने−क्विप्। अनिष्टचिन्तकम् ॥
 </details>

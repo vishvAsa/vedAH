@@ -2,7 +2,7 @@
 title = "००२ भुवनपतिसूक्तम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 2. To Gandharvas and Apsarases.
 </details>

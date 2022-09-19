@@ -2,7 +2,7 @@
 title = "०६७ दीर्घायुत्वम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 67. For long life and prosperity.
 </details>

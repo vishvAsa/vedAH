@@ -2,7 +2,7 @@
 title = "०३० दीघायुष्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30. To lengthen out some one's life.
 </details>

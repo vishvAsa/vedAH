@@ -2,7 +2,7 @@
 title = "००९ शान्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. For appeasement and weal: to various divinities.
 </details>

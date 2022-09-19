@@ -2,7 +2,7 @@
 title = "००१ दीर्घायुःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. For some one's continued life.
 </details>

@@ -20,7 +20,7 @@ and calls it a *triṣṭubh*.
 If the bride's sisters, if young maids have danced together in thy house, committing sin with shout and cry. May Agni free thee from that guilt, may Savitar deliver thee.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्। जामयः। यत्। युवतयः। गृहे। ते। सम्ऽअनर्तिषु। रोदेन। कृण्वतीः। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६१।
 </details>
@@ -33,22 +33,22 @@ If the bride's sisters, if young maids have danced together in thy house, commit
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जो (जामयः) कुलस्त्रियाँ और (यत्) जो (युवतयः) युवा स्त्रियाँ (ते गृहे) तेरे घर में (रोदेन)विलाप के साथ (अघम्) कष्ट (कृण्वतीः) करती हुईँ (समनर्तिषुः) मिलकर इधर-उधरफिरें। (अग्निः) तेजस्वी (च) और.... [म० ५९] ॥६१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ५९ के समान है॥६१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६१−(यत्) यदि (जामयः) म० ३३। कुलस्त्रियः (यत्) (युवतयः) तरुण्यः (कृण्वतीः)कुर्वन्त्यः-अन्यद् गतम्-म० ५९ ॥
 </details>

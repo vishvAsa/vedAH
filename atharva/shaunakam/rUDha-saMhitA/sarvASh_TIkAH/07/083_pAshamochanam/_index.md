@@ -2,7 +2,7 @@
 title = "०८३ पाशमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 83 (88). For release from Varuṇa's fetters.
 </details>

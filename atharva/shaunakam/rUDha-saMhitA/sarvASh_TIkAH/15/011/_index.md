@@ -2,7 +2,7 @@
 title = "०११ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. Paryāya the eleventh.
 </details>

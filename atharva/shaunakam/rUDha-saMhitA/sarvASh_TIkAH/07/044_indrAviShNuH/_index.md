@@ -2,7 +2,7 @@
 title = "०४४ इन्द्राविष्णुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 44 (45). Extolling Indra and Vishṇu.
 </details>

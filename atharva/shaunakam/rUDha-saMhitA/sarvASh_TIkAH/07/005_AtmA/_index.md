@@ -2,7 +2,7 @@
 title = "००५ आत्मा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Mystic: on the offering or sacrifice.
 </details>

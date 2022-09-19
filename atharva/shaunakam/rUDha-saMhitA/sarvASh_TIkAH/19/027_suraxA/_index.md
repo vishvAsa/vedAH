@@ -2,7 +2,7 @@
 title = "०२७ सुरक्षा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 27. For protection etc.: with a triple amulet.
 </details>

@@ -2,7 +2,7 @@
 title = "०२६ हिरण्यधारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 26. For long life etc.: with something golden.
 </details>

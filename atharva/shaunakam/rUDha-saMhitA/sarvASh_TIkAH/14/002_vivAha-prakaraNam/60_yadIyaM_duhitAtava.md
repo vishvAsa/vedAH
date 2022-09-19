@@ -19,7 +19,7 @@ vikreṣv arujat: bahu rodhena kṛṇvaty agham*.
 If in thy house thy daughter here have wept, with wild dishevel- led locks, committing sin with her lament. May Agni, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यदि। इयम्। दुहिता। तव। विऽकेशी। अरुदत्। गृहे। रोदेन। कृण्वती। अघम्। अग्निः। त्वा। तस्मात्। एनसः। सविता। च। प्र। मुञ्चताम्। २.६०।
 </details>
@@ -32,22 +32,22 @@ If in thy house thy daughter here have wept, with wild dishevel- led locks, comm
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहआश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे गृहस्थ !] (यदि)यदि (इयम्) यह (तव) तेरी (दुहिता) पुत्री (विकेशी) बाल बिखेरे हुए, (रोदेन)विलाप के साथ (अघम्) दुःख (कृण्वती) करती हुई (गृहे) घर में (अरुदत्) रोवे। (अग्निः) तेजस्वी (च) और... म० ५९ ॥६०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  [मन्त्र ५९] के समानहै ॥६०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६०−(इयम्) उपस्थिता (दुहिता) पुत्री (तव) (विकेशी) विकीर्णकेशा (अरुदत्)रुद्यात् (कृण्वती) कुर्वती। अन्यद्गतम्-म० ५९ ॥
 </details>

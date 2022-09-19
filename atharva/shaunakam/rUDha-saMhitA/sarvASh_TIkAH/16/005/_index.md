@@ -2,7 +2,7 @@
 title = "००५ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Paryāya the fifth.
 </details>

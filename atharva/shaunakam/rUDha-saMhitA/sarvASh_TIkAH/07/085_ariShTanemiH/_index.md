@@ -2,7 +2,7 @@
 title = "०८५ अरिष्टनेमिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 85 (90). Invocation of Tārkshya.
 </details>

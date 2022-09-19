@@ -2,7 +2,7 @@
 title = "००४ वशा गौः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. The cow (vaśā́) as belonging exclusively to the Brahmans.
 </details>

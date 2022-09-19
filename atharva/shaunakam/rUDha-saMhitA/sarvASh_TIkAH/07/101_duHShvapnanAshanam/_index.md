@@ -2,7 +2,7 @@
 title = "१०१ दुःष्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 101 (106). As to food enjoyed in a dream.
 </details>

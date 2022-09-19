@@ -2,7 +2,7 @@
 title = "००९ दीर्घायुःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9. Against possession by demons: with an amulet.
 </details>

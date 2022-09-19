@@ -15,7 +15,7 @@ they of the worlds and the months and the half-months and day-and-night.
 The Seasons, groups of seasons, the worlds and their inhabitants, the months and half-months, and Day and Night followed him.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तम्। ऋतवः। च। आर्तवाः। च। लोकाः। च। लौक्याः। च। मासाः। च। अर्धऽमासाः। च। अहोरात्रे इति। च। अनुऽव्य᳡चलन्। ६.१७।
 </details>
@@ -28,22 +28,22 @@ The Seasons, groups of seasons, the worlds and their inhabitants, the months and
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ईश्वर के सर्वस्वामी होने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (लोकाः) सब लोक (च च)और (लौक्याः) लोकों में रहनेवाले (च) और (ऋतवः) ऋतुएँ (च) और (आर्तवाः) ऋतुओंमें उत्पन्न हुए पदार्थ (च) और (मासाः) महीने (च) और (अर्धमासाः) आधे महीने (च)और (अहोरात्रे) दिन राति (तम्) उस [व्रात्य परमात्मा] के (अनुव्यचलन्) पीछेविचरे ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य को योग्य है किपरमात्मा को सब लोकों, लोकवालों और ऋतुओं आदि का स्वामी जानकर सब पदार्थों काविवेकी होवे और उन से यथावत् उपकार लेकर आनन्द पावे ॥१६, १७, १८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७, १८−(तम्)व्रात्यम् (ऋतवः) वसन्तादयः (आर्तवाः) ऋतुभवाः पदार्थाः (लोकाः) भुवनानि (लौक्याः) लोक-ण्य। लोकभवाः पदार्थाः (मासाः) (अर्धमासाः) (अहोरात्रे)रात्रिदिने। अन्यत् पूर्ववत् सुगमं च ॥
 </details>

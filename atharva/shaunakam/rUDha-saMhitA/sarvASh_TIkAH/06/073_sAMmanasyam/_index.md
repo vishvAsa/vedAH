@@ -2,7 +2,7 @@
 title = "०७३ सांमनस्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 73. To assure supremacy.
 </details>

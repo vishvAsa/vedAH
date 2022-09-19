@@ -2,7 +2,7 @@
 title = "०३५ वैश्वानरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 35. Prayer to Agni Vāiśvānara.
 </details>

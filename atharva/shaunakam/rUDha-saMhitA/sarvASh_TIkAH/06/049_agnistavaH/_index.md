@@ -2,7 +2,7 @@
 title = "०४९ अग्निस्तवः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 49. To Agni etc.
 </details>

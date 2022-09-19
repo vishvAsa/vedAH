@@ -16,7 +16,7 @@ title = "३५ कीर्तिं च"
 And the fame and reputation.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 कीर्तिम्। च। वै। एषः। यशः। च। गृहाणाम्। अश्नाति। यः। पूर्वः। अतिथेः। अश्नाति। ८.५।
 </details>
@@ -29,22 +29,22 @@ And the fame and reputation.
 - अतिथि सत्कार
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि के सत्कार का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (एषः) वह [गृहस्थ] (वै) निश्चय करके (कीर्तिम्) कीर्ति (च च) और (यशः) यश [अर्थात् प्रताप] को... म० १ ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ लोग अतिथि का तिरस्कार करने से महाविपत्तियों में फँसते हैं ॥२-६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(कीर्तिम्) प्रसिद्धिम् (यशः) प्रतापम् ॥
 </details>

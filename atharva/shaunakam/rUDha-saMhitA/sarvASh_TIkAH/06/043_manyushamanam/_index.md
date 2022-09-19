@@ -2,7 +2,7 @@
 title = "०४३ मन्युशमनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 43. To assuage wrath.
 </details>

@@ -2,7 +2,7 @@
 title = "०१७ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 17. Paryāya the seventeenth.
 </details>

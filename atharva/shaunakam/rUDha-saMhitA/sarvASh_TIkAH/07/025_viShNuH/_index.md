@@ -2,7 +2,7 @@
 title = "०२५ विष्णुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25 (26). Praise to Vishṇu and Varuṇa.
 </details>

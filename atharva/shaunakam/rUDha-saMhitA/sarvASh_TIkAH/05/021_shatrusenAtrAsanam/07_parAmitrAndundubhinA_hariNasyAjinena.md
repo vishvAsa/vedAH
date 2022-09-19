@@ -17,7 +17,7 @@ of the gazelle—\[the gods\] who are masters of the host.
 May all the deities whose might controls the fortune of the fray Frighten away our enemies with Drum and skin of antelope.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 परा। अमित्रान्। दुन्दुभिना। हरिणस्य। अजिनेन। च। सर्वे। देवाः। अतित्रसन्। ये। सम्ऽग्रामस्य। ईशते। २१.७।
 </details>
@@ -30,22 +30,22 @@ May all the deities whose might controls the fortune of the fray Frighten away o
 - शत्रुसेनात्रासन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शत्रुओं को जीतने को उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ये) जो विद्वान् लोग (संग्रामस्य) संग्राम के (ईशते) स्वामी होते हैं, उन (सर्वे) सब (देवाः) महात्मा लोगों ने (हरिणस्य) हरिण के (अजिनेन) चर्म से युक्त (दुन्दुभिना) दुन्दुभि से (च) निश्चय करके (परा=पराजित्य) हराकर (अतित्रसन्) डरा दिया है ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शूर सेनापति लोग शत्रुओं को जीत कर भगा देवें ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(परा) पराजित्य (अमित्रान्) म० १। शत्रून् (दुन्दुभिना) बृहड्ढक्कया (हरिणस्य) मृगस्य (अजिनेन) अजिन−अर्शआद्यच्। चर्मयुक्तेन (च) निश्चयेन (सर्वे) सकलाः (देवाः) महात्मानः (अतित्रसन्) त्रसी उद्वेगे णिचि लुङ्। त्रासितवन्तः (ये) देवाः (संग्रामस्य) युद्धस्य (ईशते) ईश्वरा भवन्ति ॥
 </details>

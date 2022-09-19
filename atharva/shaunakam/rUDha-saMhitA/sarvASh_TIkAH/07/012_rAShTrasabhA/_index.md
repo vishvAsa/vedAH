@@ -2,7 +2,7 @@
 title = "०१२ राष्ट्रसभा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12 (13). For success in the assembly.
 </details>

@@ -18,7 +18,7 @@ Ppp. again gives *sayujas sv-*.
 Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his fervours.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विष्णुः। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.७।
 </details>
@@ -31,22 +31,22 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 - नवशाला सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 समाज की वृद्धि करने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सुयुजः) सुयोग्य (विष्णुः) कामों में व्यापक पुरुष (स्वाहा) सुन्दर वाणी से (बहुधा) अनेक प्रकार (तपांसि) अपनी विभूतियों को (अस्मिन्) इस (यज्ञे) परस्पर मेल में (युनक्तु) लगावे ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  चतुर पुरुषार्थी पुरुष दुसरों की उन्नति करने में अपनी उन्नति करे ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(विष्णुः) कर्मसु व्यापकः पुरुषः (युनक्तु) योजयतु (बहुधा) अनेकप्रकारेण (तपांसि) तप संतापे ऐश्वर्ये च−असुन्। ऐश्वर्याणि। विभूतयः। अन्यद् गतम् ॥
 </details>

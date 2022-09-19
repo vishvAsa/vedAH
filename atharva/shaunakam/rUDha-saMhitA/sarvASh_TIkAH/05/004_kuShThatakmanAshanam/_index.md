@@ -2,7 +2,7 @@
 title = "००४ कुष्ठतक्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. To the plant kúṣṭha: against takmán ⌊fever⌋.
 </details>

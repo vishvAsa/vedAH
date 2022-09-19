@@ -2,7 +2,7 @@
 title = "०६३ वर्चोबलप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 63. For some one's release from perdition (nírṛti).
 </details>

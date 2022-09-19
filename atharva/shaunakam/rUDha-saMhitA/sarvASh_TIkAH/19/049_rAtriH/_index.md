@@ -2,7 +2,7 @@
 title = "०४९ रात्रिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 49. Praise and prayer to night.
 </details>

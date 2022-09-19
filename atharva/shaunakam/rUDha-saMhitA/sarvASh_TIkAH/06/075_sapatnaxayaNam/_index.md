@@ -2,7 +2,7 @@
 title = "०७५ सपत्नक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 75. To eject a rival.
 </details>

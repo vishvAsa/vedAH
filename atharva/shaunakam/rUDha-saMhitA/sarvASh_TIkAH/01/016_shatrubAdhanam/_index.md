@@ -2,7 +2,7 @@
 title = "०१६ शत्रुबाधनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 16. Against demons: with an amulet of lead.
 </details>

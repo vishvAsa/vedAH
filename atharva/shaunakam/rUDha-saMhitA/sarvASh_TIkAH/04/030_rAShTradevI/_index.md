@@ -2,7 +2,7 @@
 title = "०३० राष्ट्रदेवी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30. Self-laudation of Speech (?).
 </details>

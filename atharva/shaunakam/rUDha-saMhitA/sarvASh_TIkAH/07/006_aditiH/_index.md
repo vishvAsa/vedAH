@@ -2,7 +2,7 @@
 title = "००६ अदितिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6 (6, 7). Praise of Aditi.
 </details>

@@ -2,7 +2,7 @@
 title = "०५५ मार्गस्वस्त्ययनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 55 (57. 2). To Indra (?).
 </details>

@@ -18,7 +18,7 @@ Ppp. reads instead *yat te mukhaṁ yā te jihvā ye dantā yā ca te hanū*.
 Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Pour for the given, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यौ। ते। ओष्ठौ। ये‍। इति। नासिके। इति। ये  इति। शृङ्गे इति। ये इति। च। ते। अक्षिणी इति। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१४।
 </details>
@@ -31,22 +31,22 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 - शतौदनागौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यौ) जो (ते) तेरे (ओष्ठौ) दो ओठ, (ये) जो (नासिके) दो नथने, (ये) जो (शृङ्गे) दो सींग (च) और (ये) जो (ते) तेरी (अक्षिणी) दो आँखें हैं, वे सब (आमिक्षाम्) आमिक्षा.... म० १३ ॥१४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १३ के समान है ॥१४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १४−(अक्षिणी) नेत्रे। अन्यत् स्पष्टम् ॥
 </details>

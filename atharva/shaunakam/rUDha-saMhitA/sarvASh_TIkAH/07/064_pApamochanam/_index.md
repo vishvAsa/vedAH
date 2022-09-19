@@ -2,7 +2,7 @@
 title = "०६४ पापमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 64 (66). Against evil influence of a black bird.
 </details>

@@ -2,7 +2,7 @@
 title = "०४६ दुःष्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 46. Against evil dreams.
 </details>

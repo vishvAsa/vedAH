@@ -2,7 +2,7 @@
 title = "०३० अञ्जनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 30 (31). For successful anointing.
 </details>

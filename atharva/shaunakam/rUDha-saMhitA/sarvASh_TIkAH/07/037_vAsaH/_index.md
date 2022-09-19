@@ -2,7 +2,7 @@
 title = "०३७ वासः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 37 (38). The wife to the husband.
 </details>

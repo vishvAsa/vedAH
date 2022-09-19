@@ -19,7 +19,7 @@ Ppp. omits *nas* before *brūhi* in **a**, and has at the end *arāmasi*
 Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us contend with thee.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मा। नः। हिंसीः। अधि। नः। ब्रूहि। परि। नः। वृङ्ग्धि। मा। क्रुधः। मा। त्वया। सम्। अरामहि। २.२०।
 </details>
@@ -32,22 +32,22 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 - रुद्र सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे रुद्र परमेश्वर !] (नः) हमें (मा हिंसीः) मत कष्ट दे, (नः) हमें (अधि) ईश्वर होकर (ब्रूहि) उपदेश कर, (नः) हमें [पाप से] (परि वृङ्ग्धि) सर्वथा अलग रख, (मा क्रुधः) क्रोध मत कर। (त्वया) तेरे साथ (मा सम् अरामहि) हम समर [युद्ध] न करें ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य परमेश्वर की आज्ञा में चलते हैं, वे पुरुषार्थी पुरुष अपराध से बचकर सदा सुखी रहते हैं ॥२०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २०−(नः) अस्मान् (मा हिंसीः) मा वधीः (अधि) ईश्वरत्वेन (नः) अस्मान् (परि) सर्वतः (वृङ्ग्धि) वर्जय। वियोजय (मा क्रुधः) म० १९। (त्वया) (मा सम् अरामहि) म० ७। समरं युद्धं न करवाम ॥
 </details>

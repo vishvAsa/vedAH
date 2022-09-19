@@ -19,7 +19,7 @@ Ppp. (omitting the first *te*) combines *an̄gebhyo ’darāya* and *jihvāyā
 We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homage to thy smell.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अङ्गेभ्यः। ते। उदराय। जिह्वायै। आस्या᳡य। ते। दत्ऽभ्यः। गन्धाय। ते। नमः। २.६।
 </details>
@@ -32,22 +32,22 @@ We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homa
 - रुद्र सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [हे परमात्मन् !] (ते) तुझे (अङ्गेभ्यः) [हमारे] अङ्गों के हित के लिये, (उदराय) उदर के हित के लिये, (ते) तुझे (जिह्वायै) [हमारी] जिह्वा के हित के लिये और (आस्याय) मुख के हित के लिये (ते) तुझे (दद्भ्यः) [हमारे] दाँतों के हित के लिये और (गन्धाय) गन्ध ग्रहण करने के लिये (नमः) नमस्कार है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य अपने अङ्गों को यथावत् उपकारी बनाकर परमेश्वर की भक्ति करें ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(अङ्गेभ्यः) अस्माकं शरीरावयवेभ्यः (ते) तुभ्यम् (उदराय) उदरहिताय (आस्याय) मुखहिताय (ते) तुभ्यम् (दद्भ्यः) दन्तानां हिताय (गन्धाय) गन्धं ग्रहीतुम् (ते) तुभ्यम् (नमः) नमस्कारः ॥
 </details>

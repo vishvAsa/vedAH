@@ -2,7 +2,7 @@
 title = "००८ राष्ट्रधारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. For authority.
 </details>

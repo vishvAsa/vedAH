@@ -2,7 +2,7 @@
 title = "००३ अध्यात्मम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. To the sun (with imprecation on the evil-doer).
 </details>

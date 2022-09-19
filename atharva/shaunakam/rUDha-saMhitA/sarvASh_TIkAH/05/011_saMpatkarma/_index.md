@@ -2,7 +2,7 @@
 title = "०११ संपत्कर्म"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. ⌊Dialogue between⌋ Varuṇa and Atharvan.
 </details>

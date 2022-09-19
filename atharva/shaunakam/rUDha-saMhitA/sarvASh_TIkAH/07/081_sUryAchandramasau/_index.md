@@ -2,7 +2,7 @@
 title = "०८१ सूर्याचन्द्रमसौ"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 81 (86). To the sun and moon.
 </details>

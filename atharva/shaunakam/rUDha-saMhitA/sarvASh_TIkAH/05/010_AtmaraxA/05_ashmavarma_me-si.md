@@ -16,7 +16,7 @@ title = "०५ अश्मवर्म मेऽसि"
 Thou art my wall of stone against the sinner who fights against me from the stedfast region. May he encounter it! r 6.Thou art my wall of stone against the sinner who fights against Lme from the lofty region! M iy he encounter it!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अश्मऽवर्म। मे। असि। यः। मा। ध्रुवायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.५।
 </details>

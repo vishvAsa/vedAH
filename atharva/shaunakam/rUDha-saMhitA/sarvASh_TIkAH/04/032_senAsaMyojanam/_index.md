@@ -2,7 +2,7 @@
 title = "०३२ सेनासंयोजनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 32. Praise and prayer to fury (manyú).
 </details>

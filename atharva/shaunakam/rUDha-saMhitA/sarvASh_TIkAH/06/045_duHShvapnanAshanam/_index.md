@@ -2,7 +2,7 @@
 title = "०४५ दुःष्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 45. In atonement of offenses.
 </details>

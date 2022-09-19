@@ -27,7 +27,7 @@ reports no variant⌋, but that need not prevent our understanding instead
 Whereon the Deities, whereon men too have purified themselves, Exalting fatness, cleanse thyself, Agni, therein and mount to heaven.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यस्मिन्। देवाः। अमृजत। यस्मिन्। मनुष्याः᳡। उत। तस्मिन्। घृतऽस्तावः। मृष्वा। आ। त्वम्। अग्ने। दिवम्। रुह। २.१७।
 </details>
@@ -40,22 +40,22 @@ Whereon the Deities, whereon men too have purified themselves, Exalting fatness,
 - यक्ष्मारोगनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा और प्रजा के कर्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यस्मिन्) जिस [ज्ञान] में (देवाः) विजय चाहनेवाले (उत) और (यस्मिन्) जिस [ज्ञान] में (मनुष्याः) मननशील पुरुष (अमृजत) शुद्ध हुए हैं। (तस्मिन्) उस [ज्ञान] में (मृष्ट्वा) शुद्ध होकर, (अग्ने) हे अग्नि [समान तेजस्वी राजन् !] (घृतस्तावः) ज्ञानप्रकाश की स्तुति करनेवाला (त्वम्) तू (दिवम्) आनन्द में (आ रुह) ऊँचा हो ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य पूर्वज महात्माओं के अनुकरण से आत्मा को शुद्ध करते हैं, वे अत्यन्त आनन्द पाते हैं ॥१७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १७−(यस्मिन्) ज्ञाने (देवाः) विजिगीषवः (अमृजत) शुद्धा अभवन् (यस्मिन्) (मनुष्याः) मननशीलाः (उत) अपि (तस्मिन्) ज्ञाने (घृतस्तावः) घृतस्य ज्ञानप्रकाशस्य स्तावः स्तुतिर्यस्य सः (मृष्ट्वा) शुद्ध्वा (त्वम्) (अग्ने) हे अग्निवत्तेजस्विन् राजन् (दिवम्) मोदम्। हर्षम् (आ रुह) अधितिष्ठ ॥
 </details>

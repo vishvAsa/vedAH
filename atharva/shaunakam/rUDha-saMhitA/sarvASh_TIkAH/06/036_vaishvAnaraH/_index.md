@@ -2,7 +2,7 @@
 title = "०३६ वैश्वानरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 36. In praise of Agni.
 </details>

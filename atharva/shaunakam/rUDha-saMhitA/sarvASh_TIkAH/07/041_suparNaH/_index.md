@@ -2,7 +2,7 @@
 title = "०४१ सुपर्णः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 41 (42). To the heavenly falcon (the sun).
 </details>

@@ -17,7 +17,7 @@ destruction of the Brahman-scather is she.
 A hundred-killing bolt is she: she slays the Brahman's injurer.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 मेनिः। शतऽवधा। हि। सा। ब्रह्मऽज्यस्य। क्षितिः। हि। सा। ७.५।
 </details>
@@ -30,22 +30,22 @@ A hundred-killing bolt is she: she slays the Brahman's injurer.
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सा) वह [वेदवाणी] (हि) निश्चय करके (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक की (शतवधा) शतघ्नी [सैकड़ों को मारनेवाली] (मेनिः) वज्र, (सा हि) वह ही [उसकी] (क्षितिः) नाश शक्ति है ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य वेदप्रचारकों को हानि पहुँचाता है, वह संसार की हानि कर के आप भी अनेक विपत्तियों में पड़ता है ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(मेनिः) अ० २।११।१। डुमिञ् प्रक्षेपणे−नि। वज्रः−निघ० २।२०। (शतवधा) शतघ्नी। बहुहन्त्री (हि) निश्चयेन (सा) वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकारकस्य (क्षितिः) नाशशक्तिः ॥
 </details>

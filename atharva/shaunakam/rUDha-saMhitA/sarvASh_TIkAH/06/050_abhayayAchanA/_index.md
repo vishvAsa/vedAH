@@ -2,7 +2,7 @@
 title = "०५० अभययाचना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 50. Against petty destroyers of grain.
 </details>

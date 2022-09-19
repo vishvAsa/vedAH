@@ -2,7 +2,7 @@
 title = "०५९ यज्ञः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 59. For successful sacrifice.
 </details>

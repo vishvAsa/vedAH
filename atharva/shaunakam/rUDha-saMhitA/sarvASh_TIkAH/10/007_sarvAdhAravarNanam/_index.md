@@ -2,7 +2,7 @@
 title = "००७ सर्वाधारवर्णनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Mystic: on the skambhá or frame of creation.
 </details>

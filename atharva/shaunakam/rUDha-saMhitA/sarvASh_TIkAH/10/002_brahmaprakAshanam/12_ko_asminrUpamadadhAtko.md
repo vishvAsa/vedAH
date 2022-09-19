@@ -19,7 +19,7 @@ Ppp. again *pāuruṣe* at the end.
 Who gave him visible form and shape? Who gave him magni- tude and name? Who gave him motion, consciousness? Who furnished Purusha with feet?
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 कः। अस्मिन्। रूपम्। अदधात्। कः। मह्यानम्। च। नाम। च। गातुम्। कः। अस्मिन्। कः। केतुम्। कः। चरित्राणि। पुरुषे। २.१२।
 </details>
@@ -32,22 +32,22 @@ Who gave him visible form and shape? Who gave him magni- tude and name? Who gave
 - ब्रह्मप्रकाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (कः) कर्ता [परमेश्वर] ने (अस्मिन्) इस [मनुष्य] में (रूपम्) रूप, (कः) कर्ता ने (मह्मानम्) महत्त्व (च) और (नाम) नाम (च) भी (अदधात्) रक्खा है, (कः) कर्ता ने (अस्मिन्) इस (पुरुषे) मनुष्य में (गातुम्) गति [प्रवृत्ति], (कः) कर्ता ने (केतुम्) विज्ञान (च) और (चरित्राणि) अनेक आचरणों को [रक्खा है] ॥१२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  परमात्मा ने अपनी न्यायव्यवस्था से मनुष्य में पराक्रम करने के लिये अनेक शक्तियाँ दी हैं ॥१२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(कः) म० ५। कर्ता वेधाः (मह्मानम्) म० ६। महत्त्वम् (गातुम्) गतिम्। प्रवृत्तिम् (केतुम्) विज्ञानम् (चरित्राणि) आचरणानि (पुरुषे) मनुष्ये। अन्यत् सरलम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "+००८ ज्येष्ठब्रह्मवर्णनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. Mystic.
 </details>

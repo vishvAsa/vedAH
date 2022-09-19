@@ -2,7 +2,7 @@
 title = "०२६ नवशालायां घृतहोमः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 26. Accompanying a sacrifice.
 </details>

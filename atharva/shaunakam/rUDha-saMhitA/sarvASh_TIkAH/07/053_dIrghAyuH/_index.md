@@ -2,7 +2,7 @@
 title = "०५३ दीर्घायुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 53 (55). For some one's health and long life.
 </details>

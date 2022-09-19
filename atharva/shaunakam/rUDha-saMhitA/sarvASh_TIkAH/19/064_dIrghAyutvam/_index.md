@@ -2,7 +2,7 @@
 title = "०६४ दीर्घायुत्वम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 64. To Agni: with fuel.
 </details>

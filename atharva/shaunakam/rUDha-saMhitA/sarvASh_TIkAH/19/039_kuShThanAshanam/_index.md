@@ -2,7 +2,7 @@
 title = "०३९ कुष्ठनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 39. With kúṣṭha: against diseases.
 </details>

@@ -2,7 +2,7 @@
 title = "०९८ हविः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 98 (103). With an oblation to India.
 </details>

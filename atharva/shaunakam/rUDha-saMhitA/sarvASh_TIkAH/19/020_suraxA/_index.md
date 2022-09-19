@@ -2,7 +2,7 @@
 title = "०२० सुरक्षा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 20. For protection by various gods.
 </details>

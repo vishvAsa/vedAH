@@ -2,7 +2,7 @@
 title = "०३१ गौः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. At rising of the sun (or moon).
 </details>

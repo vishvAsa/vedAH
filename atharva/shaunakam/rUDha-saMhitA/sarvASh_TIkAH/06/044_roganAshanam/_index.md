@@ -2,7 +2,7 @@
 title = "०४४ रोगनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 44. For cessation of a disease.
 </details>

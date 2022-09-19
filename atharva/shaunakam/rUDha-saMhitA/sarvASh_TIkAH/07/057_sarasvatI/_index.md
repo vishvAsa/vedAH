@@ -2,7 +2,7 @@
 title = "०५७ सरस्वती"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 57 (59). Prayer to Sarasvati etc.
 </details>

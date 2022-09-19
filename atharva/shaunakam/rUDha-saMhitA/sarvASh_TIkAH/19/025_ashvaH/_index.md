@@ -2,7 +2,7 @@
 title = "०२५ अश्वः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 25. To a horse.
 </details>

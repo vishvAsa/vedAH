@@ -2,7 +2,7 @@
 title = "०७१ अग्निः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 71 (74). To Agni: for protection.
 </details>

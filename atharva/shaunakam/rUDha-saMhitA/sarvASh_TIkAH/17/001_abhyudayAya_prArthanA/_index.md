@@ -2,7 +2,7 @@
 title = "००१ अभ्युदयाय प्रार्थना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Prayer and praise to Indra and the Sun.
 </details>

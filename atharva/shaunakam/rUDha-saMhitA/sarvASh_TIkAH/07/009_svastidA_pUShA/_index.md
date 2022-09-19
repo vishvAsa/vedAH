@@ -2,7 +2,7 @@
 title = "००९ स्वस्तिदा पूषा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 9 (10). Praise and prayer to Pūshan.
 </details>

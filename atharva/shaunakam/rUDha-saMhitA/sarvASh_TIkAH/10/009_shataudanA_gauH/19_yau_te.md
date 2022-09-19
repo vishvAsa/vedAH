@@ -18,7 +18,7 @@ Ppp. reads, after *bāhū, yāu te aṅsāu dūhanaṁ yā ca* etc.
 Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यौ। ते। बाहू इति। ये  इति। दोषणी इति। यौ। अंसौ। या। च। ते। ककुत्। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधु। ९.१९।
 </details>
@@ -31,22 +31,22 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 - शतौदनागौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यौ) जो (ते) तेरी (बाहू) दो भुजाएँ (ये), जो (दोषणी) दो भुजदण्ड, (यौ) जो (अंसौ) दो कन्धे (च) और (या) जो (ते) तेरा (ककुत्) कूबर [कुब्ब] है। वे सब (आमिक्षाम्) आमिक्षा..... मन्त्र १३ ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १३ के समान है ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(दोषणी) अ० ९।७।७। भुजदण्डौ (ककुत्) अ० ३।४।२। वृषादिस्कन्धपृष्ठस्थमांसपिण्डः। अन्यत् स्पष्टम् ॥
 </details>

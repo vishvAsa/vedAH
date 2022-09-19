@@ -2,7 +2,7 @@
 title = "०१९ पावमानम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 19. For ceremonial purification.
 </details>

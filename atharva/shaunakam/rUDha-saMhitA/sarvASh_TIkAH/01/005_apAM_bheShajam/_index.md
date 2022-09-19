@@ -2,7 +2,7 @@
 title = "००५ अपां भेषजम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. To the waters: for blessings.
 </details>

@@ -2,7 +2,7 @@
 title = "००६ अतिथि-सत्कारः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. Exalting the entertainment of guests.
 </details>

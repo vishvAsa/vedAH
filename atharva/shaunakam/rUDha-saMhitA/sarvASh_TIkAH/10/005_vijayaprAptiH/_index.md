@@ -2,7 +2,7 @@
 title = "+००५ विजयप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Preparation and use of water-thunderbolts.
 </details>

@@ -2,7 +2,7 @@
 title = "००३ शाला"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. To accompany the releasing of a house.
 </details>

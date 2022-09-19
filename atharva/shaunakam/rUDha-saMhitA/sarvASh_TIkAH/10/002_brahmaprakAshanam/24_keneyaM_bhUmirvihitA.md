@@ -18,7 +18,7 @@ Ppp. reads, for **a**, *kene ’daṁ bhūmir nihataḥ*.
 By whom was this our earth disposed? By whom was heaven placed over it? By whom was this expanse of air raised up on high and stre- tched across?
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 केन। इयम्। भूमिः। विऽहिता। केन। द्यौः। उत्ऽतरा। हिता। केन। इदम्। ऊर्ध्वम्। तिर्यक्। च। अन्तरिक्षम्। व्यचः। हितम्। २.२४।
 </details>
@@ -31,22 +31,22 @@ By whom was this our earth disposed? By whom was heaven placed over it? By whom 
 - ब्रह्मप्रकाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 मनुष्यशरीर की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (केन) किस करके (इयम् भूमिः) यह भूमि (विहिता) सुधारी गई है, (केन) किस करके (द्यौः) सूर्य (उत्तरा) ऊँचा (हिता) धरा गया है। (च) और (इदम्) यह (ऊर्ध्वम्) ऊँचा, (तिर्यक्) तिरछा, चलनेवाला (व्यचः) फैला हुआ (अन्तरिक्षम्) अन्तरिक्ष [आकाश] (हितम्) धरा गया है ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ब्रह्मजिज्ञासु के लिये इन प्रश्नों का उत्तर अगले मन्त्रों में है ॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४−(केन) प्रश्ने (इयम्) (भूमिः) (विहिता) विशेषेण धारिता (केन) (द्यौः) सूर्यः (उत्तरा) उपरिभवा (हिता) धृतः (केन) (इदम्) (ऊर्ध्वम्) उपरिस्थम् (तिर्यक्) वक्रगामि (च) (अन्तरिक्षम्) आकाशम् (व्यचः) विस्तृतम् (हितम्) धृतम् ॥
 </details>

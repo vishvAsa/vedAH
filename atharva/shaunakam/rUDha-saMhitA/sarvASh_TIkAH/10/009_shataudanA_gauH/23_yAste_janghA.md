@@ -28,7 +28,7 @@ good right to assume also at iii. 12. 4, in case of the much-discussed
 Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour for the giver mingled curd, and flowing butter milk, and mead.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याः। ते। जङ्घाः। याः। कुष्ठिकाः। ऋच्छराः। ये। च। ते। शफा। अमिक्षाम्। दुह्रताम्। दात्रे। क्षीरम्। सर्पिः। अथो इति। मधुः। ९.२३।
 </details>
@@ -41,22 +41,22 @@ Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour fo
 - शतौदनागौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याः) जो (ते) तेरी (जङ्घाः) जङ्घाएँ, (याः) जो (कुष्ठिकाः) कुष्ठिकाएँ [नख अङ्गुली बाहिरी अङ्ग] और (ऋच्छराः) ऋच्छराएँ [खुरों के ऊपर के भाग] (च) और (ये) जो (ते) तेरे (शफाः) खुर हैं, वे सब (आमिक्षाम्) आमिक्षा.... म० १३ ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १३ के समान है ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(जङ्घाः)  अ० ९।७।१०। गुल्फजान्वोरन्तराले अवयवाः (कुष्ठिकाः) अ० ९।४।१६। नखाङ्गुल्यादि-बहिर्भूता अवयवाः (ऋच्छराः) ऋच्छेररः। उ० ३।१३१। ऋच्छ गतौ-अर। खुरोपरिस्थभागाः (शफाः) खुराः। अन्यत् स्पष्टम् ॥
 </details>

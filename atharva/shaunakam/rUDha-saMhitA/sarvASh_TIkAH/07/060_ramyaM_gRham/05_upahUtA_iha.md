@@ -21,7 +21,7 @@ both editions give *naḥ* with the minority, and with the other texts
 Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of the food within our homes, kind greeting to the plea- sant drink!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 उपऽहूताः। इह। गावः। उपऽहूताः। अजऽअवयः। अथो इति। अन्नस्य। कीलालः। उपऽहूतः। गृहेषु। नः। ६२.५।
 </details>
@@ -34,22 +34,22 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 - रम्यगृह सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 कुवचन के त्याग का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इह) यहाँ पर (नः) हमारे (गृहेषु) घरों में (गावः) गौएँ (उपहूताः) आदर से बुलायी गयीं, और (अजावयः) भेड़-बकरी (उपहूताः) पास में बुलायी गयीं होवें। (अथो) और भी (अन्नस्य) अन्न का (कीलालः) रसीला पदार्थ (उपहूतः) पास लाया गया हो ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य दूधवाले गौ आदि पशु और भोजन के उत्तम पदार्थ संग्रह करके परस्पर रक्षा करें ॥५॥ यह मन्त्र यजुर्वेद में है−३।४३। और संस्कारविधि गृहाश्रमप्रकरण में भी आया है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५−(उपहूताः) सत्कारेण समीपे वा प्राप्ताः (इह) गृहाश्रमे (गावः) गवादिदुग्धपशवः (उपहूताः) (अजावयः) अजाश्च अवयश्च (अथो) अपि (अन्नस्य) भोजनस्य (कीलालः) अ० ४।११।१०। सारपदार्थः (उपहूतः) (गृहेषु) गेहेषु (नः) अस्माकम् ॥
 </details>

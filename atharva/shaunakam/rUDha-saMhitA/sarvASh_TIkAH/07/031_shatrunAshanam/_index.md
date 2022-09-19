@@ -2,7 +2,7 @@
 title = "०३१ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31 (32). To Indra: for aid.
 </details>

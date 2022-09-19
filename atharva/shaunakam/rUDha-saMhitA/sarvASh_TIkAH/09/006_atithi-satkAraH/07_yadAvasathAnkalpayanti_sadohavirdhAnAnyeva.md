@@ -17,7 +17,7 @@ oblation-holders (*havirdhā́na*).
 When they arrange dwelling-rooms they arrange the sacred chamber and the shed for housing the Soma cars.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्। आऽवसथान्। कल्पयन्ति। सदःऽहविर्धानानि। एव। तत्। कल्पयन्ति। ६.७।
 </details>
@@ -30,22 +30,22 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 - अतिथि सत्कार
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 संन्यासी और गृहस्थ के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब वे [गृहस्थ लोग] (आवसथान्) निवासस्थानों को (कल्पयन्ति) बनाते हैं, (तत्) तब वे [अतिथि लोग] (सदोहविर्धानानि) यज्ञशाला और हवि [लेने-देने योग्य कर्मों] के स्थानों को (एव) ही (कल्पयन्ति) विचारते हैं ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थों के बनाये स्थानों में संन्यासी महात्मा विद्यालय, अद्भुतालय, बिजुली, तार आदि स्थानों का विचार करते हैं ॥७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ७−(यत्) यदा (आवसथान्) उपसर्गे वसेः। उ० ३।११६। आ+वस निवासे-अथ। निवासान् (कल्पयन्ति) रचयन्ति (सदोहविर्धानानि) यज्ञगृहग्राह्यदातव्यकर्मस्थानानि (एव) (तत्) तदा (कल्पयन्ति) विचारयन्ति। समर्थयन्ति ॥
 </details>

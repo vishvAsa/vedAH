@@ -2,7 +2,7 @@
 title = "०९३ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 93 (98). For Indra's aid.
 </details>

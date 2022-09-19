@@ -18,7 +18,7 @@ Ppp. has *sarvavid viśvavid* instead of *viśvajit* at the beginning.
 To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विश्वऽजित्। कल्याण्यै᳡। मा। परि। देहि। कल्याणि। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.३।
 </details>
@@ -31,22 +31,22 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 - विश्वजित् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब सुख की प्राप्ति के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (विश्वजित्) हे संसार के जीतनेवाले परमेश्वर ! (कल्याण्यै) कल्याणी, मङ्गल करनेवाली [शाला अथवा ओषधि विशेष] को (मा) मुझे (परिदेहि) सौंप। (कल्याणि) हे कल्याणि (नः) हमारे (सर्वम्) सब.... म० १ ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र एक तथा दो के समान ॥३॥   (कल्याणी) ओषधि विशेष भी है, जिसका नाम मासपर्णी है ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(कल्याण्यै) कल्यं शुभम् अण्यते शब्द्यते। अकर्तरि च कारके०। [पा० ३।३।१९। कल+अण शब्दे जीवने च−घञ्, ङीप्। हे मङ्गलकारिणि शाले मासपर्णि वा। अन्यद्गतम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "१०९ पिप्पली-भैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 109. For healing: with pippalī́.
 </details>

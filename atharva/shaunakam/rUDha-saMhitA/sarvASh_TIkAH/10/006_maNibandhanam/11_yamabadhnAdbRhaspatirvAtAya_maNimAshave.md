@@ -26,7 +26,7 @@ unimportant exchanges and variants; the details are not given.
 The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigorous steed, again, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। सः। अस्मै। वाजिनम्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.११।
 </details>
@@ -39,22 +39,22 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यम्) जिस (मणिम्) मणि [प्रशंसनीय वैदिक नियम] को (बृहस्पतिः) बृहस्पति [बड़े ब्रह्माण्डों के स्वामी परमेश्वर] ने (वाताय) गमनशील (आशवे) भोक्ता [प्राणी] के लिये (अबध्नात्) बाँधा है। (सः) वह [वैदिक नियम] (अस्मै) इस [प्राणी] के लिये (वाजिनम्) बल (भूयोभूयः) बहुत-बहुत.... म० ६ ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  अनुभवी विद्वानों के समान पुरुषार्थी मनुष्य वैदिक नियम से यथावत् बल बढ़ा कर विघ्नों को हटावे ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(वाताय) अ० १।११।६। वा गतौ-तन्। गमनशीलाय। उद्योगिने (आशवे) कृवापा०। उ० १।१। अश भोजने-उण्। भोक्त्रे प्राणिने (वाजिनम्) महेरिनण् च। उ० २।५६। वज गतौ-इनण्। बलम्। अन्यत् पूर्ववत् ॥
 </details>

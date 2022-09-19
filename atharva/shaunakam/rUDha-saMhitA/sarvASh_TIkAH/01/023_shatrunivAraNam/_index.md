@@ -2,7 +2,7 @@
 title = "०२३ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 23. Against leprosy: with a healing herb.
 </details>

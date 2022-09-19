@@ -2,7 +2,7 @@
 title = "१३४ शत्रुनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 134. To crush an enemy with a thunderbolt.
 </details>

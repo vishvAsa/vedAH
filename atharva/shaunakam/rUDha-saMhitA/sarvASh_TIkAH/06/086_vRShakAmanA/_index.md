@@ -2,7 +2,7 @@
 title = "०८६ वृषकामना"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 86. For supremacy.
 </details>

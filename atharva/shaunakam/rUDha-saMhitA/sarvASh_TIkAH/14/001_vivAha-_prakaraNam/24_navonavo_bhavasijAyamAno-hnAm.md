@@ -30,7 +30,7 @@ of vs. 24, in case the latter is not known.
 Thou, born afresh, art new and new for ever; ensign of days, before the Dawns thou goest. Coming, thou orderest for Gods their portion. Thou lengthenest, Moon, the days of our existence.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 नवऽनवः। भवसि। जायमानः। अह्नाम्। केतुः। । उषसाम्। एषि। अग्रम्। भागम्। देवेभ्यः। वि। दधासि। आऽयन्। प्र। चन्द्रमः। तिरसे। दीर्घम्। आयुः। १.२४।
 </details>
@@ -43,22 +43,22 @@ Thou, born afresh, art new and new for ever; ensign of days, before the Dawns th
 - विवाह प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विवाह संस्कार का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (चन्द्रमः) हेचन्द्रमा ! तू [शुक्ल पक्ष में] (नवोनवः) नया-नया (जायमानः) प्रकट होता हुआ (भवसि) रहता है, और (अह्नाम्) दिनों का (केतुः) जतानेवाला तू (उषसाम्) उषाओं [प्रभात वेलाओं] के (अग्रम्) आगे (एषि) चलता है और (आयन्) आता हुआ तू (देवेभ्यः)उत्तम पदार्थों को (भागम्) सेवनीय उत्तम गुण (वि दधासि) विविध प्रकार देता है और (दीर्घम्) लम्बे (आयुः) जीवनकाल को (प्र) अच्छे प्रकार (तिरसे) पार लगाता है॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  चन्द्रमा शुक्लपक्षमें एक-एक कला बढ़कर नया-नया होता है, और दिनों अर्थात् प्रतिपदा आदि चान्द्रतिथियों को बनाता, और पृथिवी के पदार्थों में पुष्टि देकर प्राणियों का जीवनबढ़ाता है, इसी प्रकार स्त्री-पुरुष संसार में उपकार करके अपना जीवन सुफल करें॥२४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २४-अयं मन्त्रो व्याख्यातः-अ० ७।८१।२ ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०८५ यक्ष्मनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 85. For relief from yákṣma.
 </details>

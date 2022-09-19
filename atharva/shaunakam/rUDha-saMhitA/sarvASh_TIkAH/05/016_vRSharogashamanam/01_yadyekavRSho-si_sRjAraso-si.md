@@ -23,7 +23,7 @@ as *yádi ekavṛṣó ási sṛjá arasò ‘si* (or *sṛjā́ ’rasó asi*).
 Bull! if thou art the single bull, beget. Thou hast no vital sap.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यदि। एकऽवृषः। असि। सृज। अरसः। असि। १६.१।
 </details>
@@ -36,22 +36,22 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 - वृषरोगनाशमन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पुरुषार्थ का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यदि) जो तू (एकवृषः) एक [परमेश्वर] के साथ ऐश्वर्यवान् (असि) है, [सुख] (सृज) उत्पन्न कर, [नहीं तो] तू (अरसः) निर्बल (असि) है ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  एक परमात्मा के ज्ञान से मनुष्य संसार का उपकार कर सकता है, ईश्वरज्ञान के विना मनुष्यजन्म व्यर्थ है ॥१॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १−(यदि) पक्षान्तरे (एकवृषः) वृषु प्रजननैश्ययोः−क। एकेन परमेश्वरेण सहैश्वर्य्यवान् (असि) (सृज) उत्पादय सुखम् [नोचेत्] इति शेषः (अरसः) असमर्थः (असि) ॥
 </details>

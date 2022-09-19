@@ -28,7 +28,7 @@ relation of the nave to the felly.
 Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamoured man's desire is firmly set upon a dame, So let thy heart and soul, O Cow, be firmly set upon thy calf.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। प्रऽधिः। यथा। उपऽधिः। यथा। नभ्यम्। प्रऽधौ। अधि। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.३।
 </details>
@@ -41,22 +41,22 @@ Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamo
 - अघ्न्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की भक्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (प्रधिः) पहिये की पुट्ठी [अरों के जोड़ से] और (यथा) जैसे (उपधिः) अरों का जोड़ [पुट्ठों से] और (यथा) जैसे (नभ्यम्) नाभि स्थान (प्रधौ अधि) पुट्ठी के भीतर [जमा होता है], (यथा) जैसे म० १ ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र एक के समान है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(प्रधिः) उपसर्गे घोः किः। पा० ३।२।९२। इति धाञः−कि। रथचक्रस्य नेमिः (उपधिः) अराणां सन्धिः (नभ्यम्) उगवादिभ्यो यत्। पा० ५।१।२। इति नाभि−यत्। नाभये हितं रथाङ्गम्−अन्यत्पूर्ववत् ॥
 </details>

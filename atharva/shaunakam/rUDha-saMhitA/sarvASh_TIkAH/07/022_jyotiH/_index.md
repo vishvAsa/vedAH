@@ -2,7 +2,7 @@
 title = "०२२ ज्योतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22 (23). To the sun (?).
 </details>

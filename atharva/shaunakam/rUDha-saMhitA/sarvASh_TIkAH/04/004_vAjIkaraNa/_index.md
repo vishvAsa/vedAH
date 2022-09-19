@@ -2,7 +2,7 @@
 title = "००४ वाजीकरण"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. For recovery of virility: with a plant.
 </details>

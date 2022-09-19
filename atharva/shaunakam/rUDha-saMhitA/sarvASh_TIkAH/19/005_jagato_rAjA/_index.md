@@ -2,7 +2,7 @@
 title = "००५ जगतो राजा"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 5. Praise and prayer to Indra.
 </details>

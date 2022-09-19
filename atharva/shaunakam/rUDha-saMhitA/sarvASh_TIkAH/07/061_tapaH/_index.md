@@ -2,7 +2,7 @@
 title = "०६१ तपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 61 (63). For success of penance.
 </details>

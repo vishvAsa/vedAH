@@ -17,7 +17,7 @@ homage by day; to Bhava and to śarva, to both have I paid homage.
 Homage at evening and at morn, homage at night, homage by day . To Bhava and to Sarva, both, have I paid lowly reverence,
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 नमः। सायम्। नमः। प्रातः। नमः। रात्र्या। नमः। दिवा। भवाय। च। शर्वाय। च। उभाभ्याम्। अकरम्। नमः। २.१६।
 </details>
@@ -30,22 +30,22 @@ Homage at evening and at morn, homage at night, homage by day . To Bhava and to 
 - रुद्र सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मज्ञान से उन्नति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सायम्) सायं काल में (नमः) नमस्कारः (प्रातः) प्रातः काल में (नमः) नमस्कार (रात्र्या) रात्रि में (नमः) नमस्कार (दिवा) दिन में (नमः) नमस्कार। (भवाय) भव [सुख उत्पन्न करनेवाले] (च च) और (शर्वाय) शर्व [दुःख नाश करनेवाले] (उभाभ्याम्) दोनों [गुणों] को (नमः अकरम्) मैंने नमस्कार किया है ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य प्रत्येक समय महाशक्तिमान् परमेश्वर का ध्यान करके सदा पराक्रम करता रहे ॥१६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १६−(नमः) नमस्कारः (सायम्) सूर्यास्तसमये (प्रातः) प्रभातसमये (रात्र्या) रात्रिसमये (दिवा) दिनकाले (भवाय) म० ३। सुखोत्पादकाय (च च) समुच्चये (शर्वाय) म० ३। दुःखनाशकाय (उभाभ्याम्) द्वाभ्यां गुणाभ्याम् (अकरम्) अहं कृतवानस्मि। अन्यद् गतम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०११ दीर्घायुः प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. For relief from disease, and for long life.
 </details>

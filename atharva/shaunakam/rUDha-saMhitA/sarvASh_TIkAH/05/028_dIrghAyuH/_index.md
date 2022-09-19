@@ -2,7 +2,7 @@
 title = "०२८ दीर्घायुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 28. With an amulet of three metals: for safety etc.
 </details>

@@ -2,7 +2,7 @@
 title = "०१७ रुधिरस्रावनिवृत्तये धमनीबन्धनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 17. To stop the vessels of the body.
 </details>

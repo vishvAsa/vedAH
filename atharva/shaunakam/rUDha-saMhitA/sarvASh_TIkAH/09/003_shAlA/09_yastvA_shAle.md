@@ -21,7 +21,7 @@ tvā?) pr-*. The Anukr. pays no heed to the irregularity of the verse (9
 The man who takes thee as his own, and he who was thy builder,. House! Both these, O Lady of the Home, shall live to long-extended' years.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यः। त्वा। शाले। प्रतिऽगृह्णाति। येन। च। असि। मिता। त्वम्। उभौ। मानस्य। पत्नि। तौ। जीवताम्। जरदष्टी इति जरत्ऽअष्टी। ३.९।
 </details>
@@ -34,22 +34,22 @@ The man who takes thee as his own, and he who was thy builder,. House! Both thes
 - शाला सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शाला बनाने की विधि का उपदेश।[इस सूक्त का मिलान अथर्व काण्ड ३ सूक्त १२ से करो]
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (शाले) हे शाला ! (यः) जो (त्वा) तुझको (प्रतिगृह्णाति) अङ्गीकार करता है (च) और (येन) जिस करके (त्वम्) तू (मिता असि) बनाई गयी है। (मानस्य पत्नि) हे सन्मान की रक्षा करनेवाली ! (तौ उभौ) वे दोनों (जरदष्टी) स्तुति के साथ प्रवृत्ति वा भोजनवाले [होकर] (जीवताम्) जीते रहें ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  शाला बनाने में ध्यान रहे कि बनानेवाले गृहस्वामी आदि और रहनेवाले सुख से निर्वाह करें ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(प्रतिगृह्णाति) स्वीकरोति (मिता) निर्मिता। रचिता (उभौ) द्वौ (मानस्य) सम्मानस्य (पत्नि) हे रक्षिके (तौ) (जीवताम्) प्राणान् धारयताम् (जरदष्टी) अ० २।२८।५। जरता स्तुत्या सह अष्टिः कार्यव्याप्तिर्भोजनं वा ययोस्तौ। अन्यद् गतम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०५६ सर्पेभ्यो रक्षणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 56. For protection from serpents.
 </details>

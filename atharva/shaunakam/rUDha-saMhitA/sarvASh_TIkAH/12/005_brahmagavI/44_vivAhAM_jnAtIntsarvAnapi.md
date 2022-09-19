@@ -20,7 +20,7 @@ Some of our mss. (O.D.T.R.) accent *-dīyámānā*, although part of them
 The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the kinsmen of the Brahman's oppressor.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विऽवाहान्। ज्ञातीन्। सर्वान्। अपि। क्षापयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। क्षत्रियेण। अपुनःऽदीयमाना। ९.६।
 </details>
@@ -33,22 +33,22 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षत्रियेण) क्षत्रिय करके (अपुनर्दीयमाना) फिर नहीं दी गयी (ब्रह्मगवी) वेदवाणी (ब्रह्मज्यस्य) ब्रह्मचारियों के हानिकारक के (सर्वान्) सब (विवाहान्) विवाहों और (ज्ञातीन्) भाई-बन्धुओं को (अपि) भी (क्षापयति) नाश करती है ॥४४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुष वेदविद्या को रोककर विद्वानों की हानि करता है, वह गृहाश्रम से गिरकर अपने भाई-बन्धुओं को भी नष्ट कर देता है ॥४४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४४−(विवाहान्) विवाहसंस्कारान् (ज्ञातीन्) बान्धवान् (सर्वान्) (अपि) एव (क्षापयति) क्षै क्षये−णिच्। नाशयति (ब्रह्मगवी) म० ५। वेदवाणी (ब्रह्मज्यस्य) म० १५। ब्रह्मचारिणां हानिकरस्य (क्षत्रियेण) राजन्येन (अपुनर्दीयमाना) न पुनर्दीयमाना ॥
 </details>

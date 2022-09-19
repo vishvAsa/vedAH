@@ -2,7 +2,7 @@
 title = "००७ नक्षत्राणि"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. To the lunar asterisms: for blessings.
 </details>

@@ -2,7 +2,7 @@
 title = "१३२ स्मरः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 132. To compel a man's love.
 </details>

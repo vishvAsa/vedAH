@@ -31,7 +31,7 @@ triṣṭubh; 32. 2-p. prājāpatyā ’nuṣṭubh; 33. 2-p. ārcy uṣṇih.*\
 She mounted up, she came unto the Serpents. The Serpents called her, Venomous! come hither. Her calf was Takshaka, Visala's offspring: a bottlegourd suppli- ed a milking-vessel. Iravan's offspring, Dhritarashtra milked her, and from her udder drew forth only poison. That poison quickens and supports the Serpents: He who knows this becomes a meet supporter.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 तस्मात्। देवेभ्यः। अर्धऽमासे। वषट्। कुर्वन्ति। प्र। देवऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.६।
 </details>
@@ -44,22 +44,22 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (तस्मात्) इसलिये (देवेभ्यः) किरणों को [वा किरणों से] (अर्धमासे) आधे महीने में (वषट्) रस पहुँचाना वे [ईश्वरनियम] (कुर्वन्ति) करते हैं, वह (देवयानम्) किरणों के जाने योग्य (पन्थाम्) मार्ग को (प्र जानाति) जान लेता है, (यः एवम् वेद) जो ऐसा जानता है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ब्रह्मज्ञानी पुरुष किरणों और अर्धमास आदि के सम्बन्ध को यथावत् जान लेता है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(देवेभ्यः) किरणानामर्थं किरणानां सकाशाद्वा (वषट्) अ० १।११।१। वह प्रापणे−डषटि। रसप्रापणम् (कुर्वन्ति) निष्पादयन्ति (देवयानम्) किरणैर्गन्तव्यम्। अन्यत् पूर्ववत् ॥
 </details>

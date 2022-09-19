@@ -2,7 +2,7 @@
 title = "०९९ वेदी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 99 (104). When bestrewing the védi.
 </details>

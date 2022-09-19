@@ -2,7 +2,7 @@
 title = "००७ अध्यात्मम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. Extolling the sun.
 </details>

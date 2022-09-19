@@ -2,7 +2,7 @@
 title = "०१४ गोष्ठः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. A blessing on the kine.
 </details>

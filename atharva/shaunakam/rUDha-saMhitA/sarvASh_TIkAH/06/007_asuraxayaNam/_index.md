@@ -2,7 +2,7 @@
 title = "००७ असुरक्षयणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 7. For blessings.
 </details>

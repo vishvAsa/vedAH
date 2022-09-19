@@ -2,7 +2,7 @@
 title = "०५० विजयः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 50 (52). For success with dice.
 </details>

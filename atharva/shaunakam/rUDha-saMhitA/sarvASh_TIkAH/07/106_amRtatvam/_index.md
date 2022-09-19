@@ -2,7 +2,7 @@
 title = "१०६ अमृतत्वम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 106 (111). Deprecation for offenses.
 </details>

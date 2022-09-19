@@ -2,7 +2,7 @@
 title = "००१ मधुविद्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. To the honey-whip etc.
 </details>

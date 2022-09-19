@@ -2,7 +2,7 @@
 title = "०५६ विषभैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 56 (58). Against poison of snakes and insects.
 </details>

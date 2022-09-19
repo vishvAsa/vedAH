@@ -2,7 +2,7 @@
 title = "०२९ दीर्घायुष्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 29. For some one's long life and other blessings.
 </details>

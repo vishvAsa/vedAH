@@ -20,7 +20,7 @@ paraphrases *ota* by *ābhimukhyena saṁtata* or *parasparaṁ saṁbaddha*.
 I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni have I called: Sarasvati, so may we thrive!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। ऋध्यास्म। इदम्। सरस्वति। ९४.३।
 </details>
@@ -33,22 +33,22 @@ I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni h
 - सांमनस्य सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 शान्ति करने के लिये उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (मे) मेरे लिये (द्यावापृथिवी) सूर्य और भूलोक (ओते) बुने हुए हैं, (देवी) दिव्य गुणवाली (सरस्वती) विज्ञानवती विद्या (ओता) परस्पर बुनी हुई है। (च) और (मे) मेरे लिये (इन्द्रः) मेघ (च) और (अग्निः) अग्नि (ओतौ) परस्पर बुने हुए हैं। (सरस्वति) हे विज्ञानवती विद्या ! (इदम्) अब (ऋध्यास्म) हम श्रीमान् होवें ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य विज्ञानपूर्वक विद्या प्राप्त करके संसार के सब पदार्थों से उपकार लेकर धनी होवें ॥३॥   यह मन्त्र कुछ भेद से आ चुका है−अ० ५।२३।१ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(ओते) आ+वेञ् तन्तुसन्ताने−क्त। परस्परं स्यूने। अन्तर्व्याप्ते (सरस्वती) विज्ञानवती विद्या (इन्द्रः) मेघः (ऋध्यास्म) ऋधु वृद्धौ। श्रीमन्तो भूयास्म। अन्यद् गतम्−अ० ५।२३।१ ॥
 </details>

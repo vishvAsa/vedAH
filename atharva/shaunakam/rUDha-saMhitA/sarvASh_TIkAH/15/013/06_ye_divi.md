@@ -20,27 +20,27 @@ or *nāmabibhrát*.
 Now he to whose house a non-Vratya, calling himself a Vratya, and one in name only, comes as a guest.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ये। दिवि। पुण्याः। लोकाः। तान्। एव। तेन। अव। रुन्ध्दे। १३.६।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 अतिथि और अनतिथि के विषय का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (दिवि) सूर्यलोक में (ये) जो (पुण्याः) पवित्र (लोकाः) लोक [दर्शनीय समाज] हैं, (तान्) उनको (एव)निश्चय करके (तेन) उस [अतिथिसत्कार] से वह [गृहस्थ] (अव रुन्द्धे) सुरक्षितकरता है ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  गृहस्थ महामान्य अतिथिसे तीसरी रात्रि ठहरा कर सूर्यमण्डल का ज्ञान अर्थात् उपकारी ज्योतिष विद्या कोप्राप्त करे ॥५, ६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५, ६−(दिवि)सूर्यमण्डले। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>

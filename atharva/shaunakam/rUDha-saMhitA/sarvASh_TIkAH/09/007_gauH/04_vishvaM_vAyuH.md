@@ -23,7 +23,7 @@ except *vahaḥ* at the end.
 His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Vertebrae.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विश्वम्। वायुः। स्वःऽगः। लोकः। कृष्णऽद्रम्। विऽधरणी। निऽवेष्यः १। १२.४।
 </details>
@@ -36,22 +36,22 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 - गौ सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सृष्टि की धारणविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  [सृष्टि में] (विश्वम्) व्यापनसामर्थ्य (वायुः) वायु, (कृष्णद्रम्) आकर्षण का वेग (स्वर्गः) सुखदायक (लोकः) घर, (विधरणी) विविध धारणशक्ति (निवेष्यः) सेना ठहरने के स्थान [के समान है] ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र ३ के समान है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(विश्वम्) व्यापनसामर्थ्यम् (वायुः) (स्वर्गः) सुखप्रापकः (लोकः) गृहम् (कृष्णद्रम्) कृषेर्वर्णे। उ० ३।४। कृष विलेखने-नक्+द्रु गतौ-ड प्रत्ययः। आकर्षणस्य द्रावो वेगः (विधरणी) विविधधारणशक्तिः (निवेष्यः) ऋहलोर्ण्यत्। पा० ३।१।१२४। नि+विष्लृ व्याप्तौ-ण्यत्। सेनानिवासः। निवेशः ॥
 </details>

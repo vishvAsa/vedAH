@@ -2,7 +2,7 @@
 title = "१०० दुःष्वप्ननाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 100 (105). Against bad dreams.
 </details>

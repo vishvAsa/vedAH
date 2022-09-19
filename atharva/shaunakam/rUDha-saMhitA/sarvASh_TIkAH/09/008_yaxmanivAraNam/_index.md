@@ -2,7 +2,7 @@
 title = "००८ यक्ष्मनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 8. Against various diseases.
 </details>

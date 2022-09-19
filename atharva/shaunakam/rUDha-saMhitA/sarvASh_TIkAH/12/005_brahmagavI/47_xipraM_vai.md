@@ -21,7 +21,7 @@ described. Ludwig translates this whole section ⌊and the next⌋, p. 529.
 Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 क्षिप्रम्। वै। तस्य। आऽहनने। गृध्राः। कुर्वते। ऐलबम्। १०.१।
 </details>
@@ -34,22 +34,22 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 - ब्रह्मगवी सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 वेदवाणी रोकने के दोषों का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (क्षिप्रम्) शीघ्र (वै) निश्चय करके (तस्य) उस [वेदनिन्दक] के (आहनने) मार डालने पर (गृध्राः) गिद्ध आदि (ऐलबम्) कलकल शब्द (कुर्वते) करते हैं ॥४७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  वेदनिन्दक पुरुष ऐसे बे-ठिकाने संग्राम आदि में मारे जाते हैं कि उनकी लोथों को गिद्ध आदि चींथ-चींथ कर खाते हैं ॥४७॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४७−(क्षिप्रम्) शीघ्रम् (वै) एव (तस्य) ब्रह्मज्यस्य (आहनने) मारणे (गृध्राः) मांसभक्षकाः पक्षिविशेषाः (कुर्वते) (ऐलबम्) अ० ११।२।३०। इल स्वप्नक्षेपणयोः−घञ्। आङ्+एल+बण शब्दे−ड। आक्षेपध्वनिम् ॥
 </details>

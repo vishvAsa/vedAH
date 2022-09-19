@@ -17,7 +17,7 @@ Indra-and-Agni, let splendor be maintained in my self.
 As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agni, lay splendour and strength within my soul.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यथा। सोमः। द्वितीये। सवने। इन्द्राग्न्योः। भवति। प्रियः। एव। मे। इन्द्राग्नी इति। वर्चः। आत्मनि। ध्रियताम्। १.१२।
 </details>
@@ -30,22 +30,22 @@ As at the second sacrifice Indra and Agni love him well, Let the pair, Indra Agn
 - मधु विद्या सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यथा) जैसे (सोमः) ऐश्वर्यवान् [युवा मनुष्य] (द्वितीये सवने) दूसरे यज्ञ [युवा अवस्था] में (इन्द्राग्न्योः) सूर्य और बिजुली [के समान माता-पिता] का (प्रियः) प्रिय (भवति) होता है। (एव) वैसे ही, (इन्द्राग्नी) हे सूर्य और बिजुली [के समान माता-पिता !] (मे आत्मनि) मेरे आत्मा में (वर्चः) प्रकाश (ध्रियताम्) धरा जावे ॥१२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्यों को उत्तम शिक्षा प्राप्त करके युवावस्था में ऐश्वर्यवान् होना चाहिये ॥१२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १२−(सोमः) ऐश्वर्यवान्। युवा पुरुषः (द्वितीये) बाल्ययौवनयोः पूरके (सवने) यज्ञे यौवन इत्यर्थः (इन्द्राग्न्योः) सूर्यविद्युत्तुल्ययोर्मातापित्रोः (इन्द्राग्नी) हे सूर्यविद्युत्तुल्यौ मातापितरौ। अन्यत् पूर्ववत् ॥
 </details>

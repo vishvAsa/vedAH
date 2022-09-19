@@ -17,7 +17,7 @@ encompasser on all sides: gleaming away our evil.
 To every side thy face is turned, thou art triumphant everywhere. His lustre flash our pain away!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 त्वम्। हि। विश्वतःऽमुख। विश्वतः। परिऽभूः। असि। अप। नः। शोशुचत्। अघम्। ३३.६।
 </details>
@@ -30,22 +30,22 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 - पापनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब प्रकार की रक्षा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (हि) जिस कारण से (विश्वतोमुख) हे सब ओर मुखवाले [मुख के समान सर्वोपदेशक, सर्वोत्तम] परमेश्वर ! (त्वम्) तू (विश्वतः) सब ओर से (परिभूः) व्यापक (असि) है। (नः) हमारा (अघम्) पाप (अप शोशुचत्) दूर धुल जावे ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर के समान (विश्वतोमुख) होकर सदा चैतन्य रहें और अनिष्टों को मिटा कर अपनी वृद्धि करें ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(त्वम्) (हि) (विश्वतोमुख) हे मुखवत् सर्वोपदेशक, सर्वोत्तम, परमात्मन् (विश्वतः) सर्वतः (परिभूः) अ० ३।२१।४। ग्रहीता व्यापकः (असि) अन्यत् पूर्ववत् ॥
 </details>

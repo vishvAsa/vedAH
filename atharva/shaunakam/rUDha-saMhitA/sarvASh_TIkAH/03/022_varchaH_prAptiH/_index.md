@@ -2,7 +2,7 @@
 title = "०२२ वर्चः प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 22. To the gods: for splendor (várcas).
 </details>

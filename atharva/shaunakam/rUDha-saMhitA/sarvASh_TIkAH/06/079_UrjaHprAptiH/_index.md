@@ -2,7 +2,7 @@
 title = "०७९ ऊर्जःप्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 79. For abundance at home.
 </details>

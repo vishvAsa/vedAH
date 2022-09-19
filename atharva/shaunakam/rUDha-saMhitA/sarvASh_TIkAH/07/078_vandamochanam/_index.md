@@ -2,7 +2,7 @@
 title = "०७८ वन्दमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 78 (83). To Agni: in favor of some one.
 </details>

@@ -2,7 +2,7 @@
 title = "०९७ यज्ञः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 97 (102). Accompanying an offering.
 </details>

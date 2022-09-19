@@ -21,7 +21,7 @@ Ppp. combines *sapatnā ’ndhā* in **a-b**, combines and reads *nirindriyā
 Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness hurl them. Reft be they all of manly strength and vigour! Let them not have a single day's existence.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 जहि। त्वम्। काम। मम। ये। सऽपत्नाः। अन्धा। तमांसि। अव। पादय। एनान्। निःऽइन्द्रियाः। अरसाः। सन्तु। सर्वे। मा। ते। जीविषुः। कतमत्। चन। अहः। २.१०।
 </details>
@@ -34,22 +34,22 @@ Slay those who are mine enemies, O Kama: headlong to depth of blinding darkness 
 - काम सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ऐश्वर्य की प्राप्ति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (काम) हे कमनीय [परमेश्वर !] (त्वम्) तू (मम) मेरे (ये) जो (सपत्नाः) शत्रु हैं, (एनान्) उनको (जहि) नाश करदे और (अन्धा) बड़े भारी (तमांसि) अन्धकारों में (अव पादय) गिरा दे। (सर्वे ते) वे सब (निरिन्द्रियाः) निर्धन और (अरसाः) निर्वीर्य (सन्तु) हो जावें, और (कतमत् चन) कुछ भी (अहः) दिन (मा जीविषुः) न जीवें ॥१०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमेश्वर की प्रार्थना उपासना से आत्मिक बल बढ़ाकर शत्रुओं का सर्वथा नाश करें ॥१०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १०−(जहि) नाशय (अन्धा) अन्ध दृष्टिनाशे-अच्। निबिडानि (तमांसि) अन्धकारान् (अव पादय) अधो गमय (एनान्) शत्रून् (निरिन्द्रियाः) इन्द्रियं धनम्-निघ० २।१०। निर्धनाः (अरसाः) निर्वीर्याः (ते) सपत्नाः (मा जीविषुः) मा प्राणान् धारयन्तु (कतमत् चन) किमपि (अहः) दिनम्। अन्यद् गतम् ॥
 </details>

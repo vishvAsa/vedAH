@@ -19,7 +19,7 @@ be compared the similar half-verse RV. v. 83. 9 **c, d**.
 When the due season hath arrived and Prana shouteth to herbs, Then all is joyful, yea, each thing upon the surface of the earth.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यत्। प्राणः। ऋतौ। आऽगते। अभिऽक्रन्दति। ओषधीः। सर्वम्। तदा। प्र। मोदते। यत्। किम्। च। भूम्याम्। अधि। ६.४।
 </details>
@@ -32,22 +32,22 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 - प्राण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 प्राण की महिमा का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यत्) जब (प्राणः) प्राण [जीवनदाता परमेश्वर] (ऋतौआगते) ऋतुकाल आने पर (ओषधीः) ओषधियों [अन्न आदि] को (अभिक्रन्दति) बल से पुकारता है, (तदा) तब (सर्वम्) सब [जगत्] (प्र मोदते) बड़ा आनन्द मानता है, (यत् किम् च) जो कुछ भी (भूम्याम् अधि) भूमि पर है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  उचित समय पर वर्षा होने से सब चर और अचर जगत् बल प्राप्त करके प्रसन्न होता है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(यत्) यदा (प्राणः) म० १ (ऋतौ) ऋतुकाले वर्षतौ (आगते) प्राप्ते (अभिक्रन्दति) (ओषधीः) म० ३। (सर्वम्) चराचरं जगत् (तदा) (प्र मोदते) अत्यन्तं हृष्यति (यत्) (किम् च) किमपि (भूम्याम्) (अधि) उपरि ॥
 </details>

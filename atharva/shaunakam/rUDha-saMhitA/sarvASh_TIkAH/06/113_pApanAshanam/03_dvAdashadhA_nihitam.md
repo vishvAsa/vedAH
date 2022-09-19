@@ -26,7 +26,7 @@ eleventh *anuvāka;* the Anukr. says: *prāk tasmāt saptatriṅśaḥ*.
 Stored in twelve separate places lies what Trita hath wiped away, the sins of human beings. Thence if the female fiend hath made thee captive, the Gods by prayer shall banish her and free thee.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 द्वादशऽधा। निऽहितम्। त्रितस्य। अपऽमृष्टम्। मनुष्यऽएनसानि। ततः। यदि। त्वा। ग्राहिः। आनशे। ताम्। ते। देवाः। ब्रह्मणा। नाशयन्तु। ११३.३।
 </details>
@@ -39,22 +39,22 @@ Stored in twelve separate places lies what Trita hath wiped away, the sins of hu
 - पापनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 पाप शुद्ध करने का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (द्वादशधा) बारह [मन और बुद्धि सहित पाँच ज्ञानेन्द्रियों और पाँच कर्मेन्द्रियों] में (निहितम्=०−तानि) ठहरे हुए (मनुष्यैनसानि) मनुष्यों के पाप (त्रितस्य−त्रितेन) त्रित परमेश्वर करके [वेद द्वारा] (अपमृष्टम्=०−ष्टानि) शुद्ध किये गये हैं। (ततः) इस पर भी (यदि) जो... म० १ ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य इन्द्रियों के विकार से उत्पन्न पापों को वेदज्ञान द्वारा विद्वानों के सत्सङ्ग से सर्वथा शोधकर सदा सुखी रहें ॥३॥  इत्येकादशोऽनुवाकः ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(द्वादशधा) द्वादशसु मनोबुद्धिसहितेषु दशसु ज्ञानकर्मेन्द्रियेषु (निहितम्) सुपां सुपो भवन्ति। वा० पा० ७।१।३९। इति बहुवचनस्यैकवचनम्। निहितानि। नितरां धृतानि। (त्रितस्य) तृतीयायाः षष्ठी। त्रितेन परमेश्वरेण (अपमृष्टम्) अपमृष्टानि। शोधितानि (मनुष्यैनसानि) अनसन्तान्नपुंसकाच्छन्दसि। पा० ५।४।१०३। इति टच्। मनुष्यपापानि। अन्यद् यथा−म० १ ॥
 </details>

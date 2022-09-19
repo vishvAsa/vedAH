@@ -2,7 +2,7 @@
 title = "०१४ कृत्यापरिहरणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. Against witchcraft: with a plant.
 </details>

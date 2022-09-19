@@ -2,7 +2,7 @@
 title = "०११ पुंसवनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 11. For birth of sons.
 </details>

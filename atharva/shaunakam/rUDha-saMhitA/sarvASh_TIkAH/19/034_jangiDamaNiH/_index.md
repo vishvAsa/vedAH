@@ -2,7 +2,7 @@
 title = "०३४ जङ्गिडमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 34. With a jan̄giḍá-amulet: for protection etc.
 </details>

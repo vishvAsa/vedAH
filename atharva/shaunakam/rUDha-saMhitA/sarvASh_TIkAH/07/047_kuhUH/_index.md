@@ -2,7 +2,7 @@
 title = "०४७ कुहूः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 47 (49). To Kuhū (goddess of the new moon).
 </details>

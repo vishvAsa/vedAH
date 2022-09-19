@@ -2,7 +2,7 @@
 title = "०१५ अभय प्राप्तिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. Against fear.
 </details>

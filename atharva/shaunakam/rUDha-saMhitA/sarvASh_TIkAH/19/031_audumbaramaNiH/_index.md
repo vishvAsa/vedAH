@@ -2,7 +2,7 @@
 title = "०३१ औदुम्बरमणिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 31. For various blessings: with an amulet of udumbára.
 </details>

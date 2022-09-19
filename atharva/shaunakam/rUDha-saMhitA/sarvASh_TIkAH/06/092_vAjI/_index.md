@@ -2,7 +2,7 @@
 title = "०९२ वाजी"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 92. For success of a horse.
 </details>

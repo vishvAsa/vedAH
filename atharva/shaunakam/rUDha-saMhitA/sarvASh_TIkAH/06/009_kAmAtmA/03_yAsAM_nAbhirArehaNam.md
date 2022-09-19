@@ -21,7 +21,7 @@ tasting.' The obscure and difficult first pāda is perhaps corrupt.
 May they whose kisses are a bond, a love-charm laid within the heart, Mothers of butter, may the cows incline that maid to love of me.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यासाम्। नाभिः। आऽरेहणम्। हृदि। सम्ऽवननम्। कृतम्। गावः। घृतस्य। मातरः। अभूम्। सम्। वनयन्तु। मे। ९.३।
 </details>
@@ -34,22 +34,22 @@ May they whose kisses are a bond, a love-charm laid within the heart, Mothers of
 - कामात्मा सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 गृहस्थ आश्रम का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यासाम्) जिन [स्त्रियों] के (हृदि) हृदय में (नाभिः) स्नेह, (आरेहणम्) प्रशंसा और (संवननम्) भक्ति (कृतम्) की गयी है, (घृतस्य) घृत की (मातरः) बनानेवाली (गावः) गौएँ (अमूम्) उस [पत्नी] को (मे) मेरे लिये (सम्) यथावत् (वनयन्तु) सेवन करें ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  जहाँ पर पति-पत्नी प्रीतिपूर्वक रहते हैं, वहाँ घृत दुग्ध आदि पदार्थों की बहुतायत होती है ॥३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३−(यासाम्) आदरार्थं बहुवचनम्। स्त्रीणाम् (नाभिः) बन्धनम्। स्नेहः (आरेहणम्) रिह कत्थने−ल्युट्। प्रशंसनम् (हृदि) हृदये (संवननम्) संभक्तिः (कृतम्) निष्पादितम् (गावः) धेनवः (घृतस्य) आज्यादिपदार्थस्य (मातरः) निर्मात्र्यः (अमूम्) पत्नीम् (सम्) सम्यक् (वानयन्तु) दीर्घश्छान्दसः। संभजन्ताम्। सेवन्ताम् (मे) मदर्थम् ॥
 </details>

@@ -2,7 +2,7 @@
 title = "०३३ इन्द्रस्तवः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 33. Praise to Indra.
 </details>

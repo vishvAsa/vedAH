@@ -20,7 +20,7 @@ and *oṣadhīs* change places.
 The multitude of herbs whereon the Cows whom none may slaughter feed, all that are food for goats and sheep, So many Plants, brought hitherward, give shelter and defence to thee!
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 यावतीनाम्। ओषधीनाम्। गावः। प्रऽअश्नन्ति। अघ्न्याः। यावतीनाम्। अजऽअवयः। तावतीः। तुभ्यम्। ओषधीः। शर्म। यच्छन्तु। आऽभृताः। ७.२५।
 </details>
@@ -33,22 +33,22 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 - ओषधि समूह सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 रोग के विनाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (यावतीनाम्) जितनी (ओषधीनाम्) ओषधियों का (अघ्न्याः) न मारने योग्य (गावः) गौवें और (यावतीनाम्) जितनी [ओषधियों] का (अजावयः) भेड़ बकरी (प्राश्नन्ति) चारा करती हैं, (तावतीः) उतनी सब (आभृताः) यथावत् पुष्ट की हुई (ओषधीः) ओषधियाँ (तुभ्यम्) तुझ को (शर्म) सुख (यच्छन्तु) देवें ॥२५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र २३ के समान ॥२५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २५−(यावतीनाम्) यत्परिमाणानाम् (गावः) धेनवः (प्राश्नन्ति) प्राशनं कुर्वन्ति (अघ्न्याः) अ० ३।३०।१। अहन्तव्याः (अजावयः) अजाश्च अवयश्च ते। छागमेषादयः (तावतीः) तत्परिमाणाः (शर्म) सुखम् (यच्छन्तु) ददतु (आभृताः) सम्यक् पोषिताः। अन्यद् गतम् ॥
 </details>

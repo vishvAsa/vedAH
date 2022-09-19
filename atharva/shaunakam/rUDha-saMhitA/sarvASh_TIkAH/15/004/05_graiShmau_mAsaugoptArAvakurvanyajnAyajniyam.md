@@ -19,7 +19,7 @@ knoweth thus.
 They made the two Winter months his protectors from the region of the nadir, and earth and Agni superintendents. The two Winter months, etc.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 ग्रैष्मौ। मासौ। गोप्तारौ। अकुर्वन्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। अनुऽस्थातारौ। ४.५।
 </details>
@@ -32,22 +32,22 @@ They made the two Winter months his protectors from the region of the nadir, and
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर के रक्षा गुण का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ग्रैष्मौ) घामवाले [ज्येष्ठ-आषाढ़] (मासौ) दो महीनों को (गोप्तारौ) दो रक्षक (अकुर्वन्) उन [विद्वानों] ने बनाया, (यज्ञायज्ञियम्) सब यज्ञों के हितकारी [वेदज्ञान] को (चच) और (वामदेव्यम्) वामदेव [श्रेष्ठ परमात्मा] से जताये गये [भूतपञ्चक] को (अनुष्ठातारौ) दो अनुष्ठाता [साथ रहनेवाले वा कार्यसाधक] [बनाया] ॥५॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मन्त्र १-३ के समान है॥४-६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ५, ६−(ग्रैष्मौ)ग्रीष्म-अण्। निदाघसम्बन्धिनौ ज्येष्ठाषाढौ (मासौ) (यज्ञायज्ञियम्)व्याख्यातम्-सू० ३ म० ५ (वामदेव्यम्) गतम्-सू० ३ म० ५। अन्यत् पूर्ववत् ॥
 </details>

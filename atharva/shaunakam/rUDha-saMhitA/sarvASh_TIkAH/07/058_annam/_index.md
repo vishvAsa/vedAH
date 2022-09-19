@@ -2,7 +2,7 @@
 title = "०५८ अन्नम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 58 (60). Invitation to Indra and Varuṇa.
 </details>

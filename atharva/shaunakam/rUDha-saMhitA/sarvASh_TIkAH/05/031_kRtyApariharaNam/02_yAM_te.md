@@ -19,7 +19,7 @@ Geldner discusses *kurī́ra* 'horn,' *Ved. Stud.* i. 130.
 The spell that they have cast for thee on jungle-cock, goat, horned ram, The witchcraft wrought upon thy ewe, this I strike back again on them.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 याम्। ते। चक्रुः। कृकवाकौ। अजे। वा। याम्। कुरीरिणि। अव्याम्। ते। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.२।
 </details>
@@ -32,22 +32,22 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 - कृत्यापरिहरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (याम्) जिस [हिंसा] को (ते) तेरे (कृकवाकौ) गले से बोलनेवाले कुक्कुट वा मोर पर (वा) अथवा (याम्) जिसको (कुरीरिणि) केशवाले (अजे) बकरे पर (चक्रुः) उन्होंने [शत्रुओं ने] किया है वा (याम्) जिस (कृत्याम्) हिंसा को (ते) तेरी (अव्याम्) भेड़ी पर... म० १ ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा उपकारी पक्षियों और चौपायों की रक्षा करे ॥२॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २−(कृकवाकौ) कृके वचः कश्च। उ० १।६। इति कृक+वच परिभाषणे−ञुण्। कृकेण गलेन वक्तीति तस्मिन् कुक्कुटे मयूरे वा (अजे) गतिशीले छागे (वा) अथवा (कुरीरिणि) कृञ उच्च। उ० ४।३३। इति कृञ् करणे−ईरन्, तत इनि। कुरीराः केशाः, तद्वति, यथा सायणभाष्ये, अ० ६।१३८।२। (अव्याम्) मेष्याम्। अन्यद् गतम्। म० १ ॥
 </details>

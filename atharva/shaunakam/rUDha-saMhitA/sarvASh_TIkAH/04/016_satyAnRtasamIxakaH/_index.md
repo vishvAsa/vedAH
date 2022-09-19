@@ -2,7 +2,7 @@
 title = "०१६ सत्यानृतसमीक्षकः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 16. The power of the gods.
 </details>

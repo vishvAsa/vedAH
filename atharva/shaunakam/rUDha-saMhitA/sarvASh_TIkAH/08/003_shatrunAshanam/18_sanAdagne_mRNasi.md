@@ -26,7 +26,7 @@ is very likely that the tradition is right.
 Agni, from days of old thou slayest demons: never have Rakshasas in fight o'ercome thee. Burn up the foolish ones, the flesh-devourers: let none of them escape thy heavenly arrow.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सनात्। अग्ने। मृणसि। यातुऽधानान्। न। त्वा। रक्षांसि। पृतनासु। जिग्युः। सहऽमूरान्। अनु। दह। क्रव्यऽअदः। मा। ते। हेत्याः। मुक्षत। दैव्यायाः। ३.१८।
 </details>
@@ -39,22 +39,22 @@ Agni, from days of old thou slayest demons: never have Rakshasas in fight o'erco
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् राजन् ! तू (यातुधानान्) पीड़ा देनेवाले [प्राणियों वा रोगों] को (सनात्) नित्य (मृणसि) नष्ट करता है, (रक्षांसि) राक्षसों ने (त्वा) तुझे (पृतनासु) संग्रामों में (न) नहीं (जिग्युः) जीता है। (क्रव्यादः) मांसभक्षकों को (सहमूरान्) [उनके] मूल [अथवा मूढ़ मनुष्यों] सहित (अनु दह) भस्म कर दे, (ते) तेरे (दैव्यायाः) दिव्य गुणवाले (हेत्याः) वज्र से (मा मुक्षत) वे न छूटें ॥१८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा दुःखदायी मनुष्यों को उनके मूल और साथियों सहित नाश करने में उत्साही रहे ॥१८॥ यह मन्त्र आ चुका है-अथर्व० ५।२९।११ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १८−(सहमूरान्) मूलेन कारणेन सहितान्। यद्वा मूढमनुष्यैः सहितान्। अन्यद् व्याख्यातम्-अ० ५।२९।११ ॥
 </details>

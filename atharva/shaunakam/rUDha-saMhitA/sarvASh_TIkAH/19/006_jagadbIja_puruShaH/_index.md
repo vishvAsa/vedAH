@@ -2,7 +2,7 @@
 title = "००६ जगद्बीज पुरुषः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. Purusha and his sacrifice.
 </details>

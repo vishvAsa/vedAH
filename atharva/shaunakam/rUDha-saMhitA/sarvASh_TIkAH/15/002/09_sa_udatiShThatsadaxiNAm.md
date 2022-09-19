@@ -15,7 +15,7 @@ title = "०९ स उदतिष्ठत्सदक्षिणाम्"
 He arose and went away to the southern region. 
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 सः। उत्। अतिष्ठत्। सः। दक्षिणाम्। दिशम्। अनु। वि। अचलत्। २.९।
 </details>
@@ -28,22 +28,22 @@ He arose and went away to the southern region.
 - अध्यात्म प्रकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 परमेश्वर की सर्वत्र व्यापकता का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह [व्रात्यपरमात्मा] (उत् अतिष्ठत्) खड़ा हुआ, (सः) वह (दक्षिणाम्) दाहिनी [वा दक्षिण] (दिशम् अनु) दिशा की ओर (वि अचलत्) विचरा ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य परमात्मा कोअपनी दाहिनी वा दक्षिण दिशा में व्यापक जानकर आगे बढ़े ॥९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९−(दक्षिणाम्)अवामभागस्थाम्। दक्षिणस्थाम्। अन्यत्पूर्ववत्-म० १ ॥
 </details>

@@ -2,7 +2,7 @@
 title = "००४ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 4. To various divinities: for protection.
 </details>

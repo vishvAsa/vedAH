@@ -20,7 +20,7 @@ verses.
 I turn me to the regions bright with splendour. May they bestow upon me wealth and glory of a Brahman's rank.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 दिशः। ज्योतिष्मतीः। अभिऽआवर्ते। ताः। मे। द्रविणम्। यच्छन्तु। ताः। मे। ब्राह्मणऽवर्चसम्। ५.३८।
 </details>
@@ -33,22 +33,22 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 - विजय प्राप्ति सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 विद्वानों के कर्तव्य का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (ज्योतिष्मतीः) प्रकाशमयी (दिशः) दिशाओं की ओर (अभ्यावर्ते) मैं घूमता हूँ। (ताः) वे [दिशाएँ] (मे) मुझे (द्रविणम्) बल और (ताः) वे (मे) मुझे (ब्राह्मणवर्चसम्) ब्राह्मण [ब्रह्मज्ञानी] का प्रताप (यच्छन्तु) देवें ॥३८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य सब दिशाओं से विज्ञान द्वारा बल प्राप्त करके ईश्वर आज्ञा का पालन करे ॥३८॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ३८−(दिशः) प्राच्यादीः (ज्योतिष्मतीः) प्रकाशवतीः (अभ्यावर्ते) अभीत्य वर्तनं करोमि (ताः) दिशः (यच्छन्तु) ददतु। अन्यत् पूर्ववत् ॥
 </details>

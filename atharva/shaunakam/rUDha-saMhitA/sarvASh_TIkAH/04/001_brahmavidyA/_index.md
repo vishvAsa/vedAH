@@ -2,7 +2,7 @@
 title = "००१ ब्रह्मविद्या"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Mystic.
 </details>

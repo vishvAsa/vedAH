@@ -2,7 +2,7 @@
 title = "०१६ सविता"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 16 (17). Prayer to Savitar (or Brihaspati).
 </details>

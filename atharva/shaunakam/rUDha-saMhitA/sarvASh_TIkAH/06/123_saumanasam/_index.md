@@ -2,7 +2,7 @@
 title = "१२३ सौमनसम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 123. For the success of an offering.
 </details>

@@ -2,7 +2,7 @@
 title = "०३९ आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 39 (40). In praise of Sarasvant (?).
 </details>

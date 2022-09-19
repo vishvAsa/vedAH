@@ -22,7 +22,7 @@ ends with *vār id ugram*⌋.
 Loud neighing he hath dived below, and rising up again replied, Stayed the dire poison of the Snakes, and made it weak as soaking wood.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अरम्ऽघुषः। निऽमज्य। उत्ऽमज्य। पुनः। अब्रवीत्। उदप्लुतम्ऽइव। दारु। अहीनाम्। अरसम्। विषम्। वाः। उग्रम्। ४.४।
 </details>
@@ -35,22 +35,22 @@ Loud neighing he hath dived below, and rising up again replied, Stayed the dire 
 - सर्पविषदूरीकरण सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सर्प रूप दोषों के नाश का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अरंघुषः) पूरी घोषणा करनेवाले [पुरुष] ने (निमज्य) डुबकी लगाकर और (उन्मज्य) उछल कर (पुनः) फिर (अब्रवीत्) कहा।(उदप्लुतम्) जल में बही हुई (दारु इव) लकड़ी के समान (अहीनाम्) सर्पों का (उग्रम्) क्रूर (वाः) जल [अर्थात्] (विषम्) विष (अरसम्) नीरस [होवे] ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  विवेकी जन घोषणा देकर विचारपूर्वक शत्रुओं को ऐसा निर्बल करे, जैसे वैद्य द्वारा विष जल में बही लकड़ी के समान निकम्मा हो जाता है ॥४॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ४−(अरंघुषः) अलम्+घुषिर् अविशब्दने-क, लस्य रः। पर्याप्तघोषणाकारी (निमज्य) जले प्रविश्य यथा (उन्मज्य) जलादुद्गत्य यथा (पुनः) (अब्रवीत्)। अन्यत् पूर्ववत्−म० ३ ॥
 </details>

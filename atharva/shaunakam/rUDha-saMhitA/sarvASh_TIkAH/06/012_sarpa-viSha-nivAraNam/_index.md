@@ -2,7 +2,7 @@
 title = "०१२ सर्प-विष-निवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 12. Against the poison of snakes.
 </details>

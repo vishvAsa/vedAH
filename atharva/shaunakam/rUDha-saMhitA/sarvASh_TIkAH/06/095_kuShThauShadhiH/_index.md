@@ -2,7 +2,7 @@
 title = "०९५ कुष्ठौषधिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 95. For relief from disease: with kúṣṭha.
 </details>

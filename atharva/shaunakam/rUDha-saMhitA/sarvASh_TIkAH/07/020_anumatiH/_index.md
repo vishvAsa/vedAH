@@ -2,7 +2,7 @@
 title = "०२० अनुमतिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 20 (21). Praise and prayer to Anumati.
 </details>

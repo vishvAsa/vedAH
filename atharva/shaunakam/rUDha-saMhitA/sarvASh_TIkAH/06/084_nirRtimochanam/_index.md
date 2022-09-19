@@ -2,7 +2,7 @@
 title = "०८४ निर्ऋतिमोचनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 84. For release from perdition.
 </details>

@@ -2,7 +2,7 @@
 title = "०५३ सर्वतो रक्षणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 53. For protection: to various gods.
 </details>

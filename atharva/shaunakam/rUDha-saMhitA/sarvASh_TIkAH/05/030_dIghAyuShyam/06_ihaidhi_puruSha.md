@@ -21,7 +21,7 @@ filling-out. Ppp. has for **a** *ehi ehi punar ehi*, and reads *hi* for
 O man, stay here among us; stay with all thy spirit: follow not Yama's two messengers. Approach the castles where the living dwell.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 इह। एधि। पुरुष। सर्वेण। मनसा। सह। दूतौ। यमस्य। मा। अनु। गाः। अधि। जीवऽपुराः। इहि। ३०.६।
 </details>
@@ -34,22 +34,22 @@ O man, stay here among us; stay with all thy spirit: follow not Yama's two messe
 - दीर्घायुष्य सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 आत्मा के उन्नति का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (पुरुष) हे पुरुष ! (सर्वेण) संपूर्ण (मनसा सह) मन [साहस] के साथ (इह) यहाँ पर (एधि) रह। (यमस्य) मृत्यु के (दूतौ अनु) तपानेवाले प्राण और अपान वायु [उलटे श्वास] के पीछे (मा गाः) मत जा। (जीवपुराः) जीवित प्राणियों के नगरों में (अधि इहि) पहुँच ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  मनुष्य उत्साह करके आलस्य आदि मृत्यु के कारणों को छोड़कर जीते हुए अर्थात् पुरुषार्थी शूर वीर महात्माओं में अपना नाम करें ॥६॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ६−(इह) अत्र पुरुषार्थिसमाजे (एधि) भव (पुरुष) अ० १।१६।४। हे पौरुषयुक्त (सर्वेण) समस्तेन (मनसा) मनोबलेन (सह) सहितः (दूतौ) अ० १।७।६। संतापकौ प्राणापानौ (यमस्य) मृत्युकालस्य (मा गाः) म० १। मा गच्छ (अनु) अनुसृत्य (अधि इहि) प्राप्नुहि (जीवपुराः) अ० २।९।३। जीवितानां नगरीः ॥
 </details>

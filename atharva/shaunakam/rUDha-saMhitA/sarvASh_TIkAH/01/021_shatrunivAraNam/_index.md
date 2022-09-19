@@ -2,7 +2,7 @@
 title = "०२१ शत्रुनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 21. Against enemies.
 </details>

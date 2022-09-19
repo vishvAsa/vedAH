@@ -2,7 +2,7 @@
 title = "०१५ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 15. Paryāya the fifteenth.
 </details>

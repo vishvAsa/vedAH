@@ -17,7 +17,7 @@ amulet created by Prajāpati hath made my haters beneath me (*ádhard*).
 The regions of the heaven, the points that lie between them fashioned it. Created by Prajapati, may the Charm cast my foemen down.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अन्तःऽदेशाः। अबध्नत। प्रऽदिशः। तम्। अबध्नत। प्रजापतिऽसृष्टः। मणिः। द्विषतः। मे। अधरान्। अकः। ६.१९।
 </details>
@@ -30,22 +30,22 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 - मणि बन्धन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 सब कामनाओं की सिद्धि का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अन्तर्देशाः) अन्तर्देशों ने (अबध्नत) [वैदिक नियम को] बाँधा है, (प्रदिशः) बड़ी दिशाओं ने (तम्) उस [वैदिक नियम] को (अबध्नत) बाँधा है। (प्रजापतिसृष्टः) प्रजापति [परमात्मा] के उत्पन्न किये हुए (मणिः) मणि [प्रशंसनीय वैदिक नियम] ने (मे) मेरे (द्विषतः) वैरियों को (अधरान्) नीचे (अकः) किया है ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  सब स्थानों के पदार्थ ईश्वरनियम अनुसार मनुष्य का उपकार करते हैं ॥१९॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   १९−(अन्तर्देशाः) अन्तराला दिशाः (प्रदिशः) पूर्वादयो दिशाः (प्रजापतिसृष्टः) प्रजापालकेन परमेश्वरेणोत्पन्नः (मणिः) प्रशस्तो वैदिक नियमः (द्विषतः) शत्रून् (मे) मम (अधरान्) नीचान् (अकः) अकार्षीत्। कृतवान्। अन्यद्गतम् ॥
 </details>

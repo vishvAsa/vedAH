@@ -2,7 +2,7 @@
 title = "००६ गर्भदोषनिवारणम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 6. To guard a pregnant woman from demons.
 </details>

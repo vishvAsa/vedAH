@@ -2,7 +2,7 @@
 title = "१४२ अन्नसमृद्धिः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 142. For increase of barley.
 </details>

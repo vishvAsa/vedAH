@@ -2,7 +2,7 @@
 title = "०१४ अभयम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 14. For safety.
 </details>

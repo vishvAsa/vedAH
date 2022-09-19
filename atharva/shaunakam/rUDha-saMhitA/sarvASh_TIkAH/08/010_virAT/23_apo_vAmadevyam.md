@@ -24,7 +24,7 @@ it puts the paragraph after our 24.
 She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, come hither. King Yama was her calf, her pail was silvern. Antaka, Mrityu's. son, milked her, this Svadha. This Food the Fathers make their lives' sustainer. He who* knows this becomes a meet supporter.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 अपः। वामऽदेव्यम्। यज्ञम्। यज्ञायज्ञियम्। यः। एवम्। वेद। ११.१०।
 </details>
@@ -37,22 +37,22 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्मविद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (रथन्तरम्) रथन्तर [रमणीय पदार्थों से पार लगानेवाला, जगत्] (एव) ही (व्यचः) विस्तृत (बृहत्) बृहत् [बड़े आकाश] से (ओषधीः) अन्न आदि ओषधियों को, और (अपः) सब प्रजाओं और (वामदेव्यम्) वामदेव [मनोहर परमात्मा] से जताये गये [पञ्चभूत] से (यज्ञम्) पूजनीय व्यवहार और (यज्ञायज्ञियम्) सब यज्ञों के हितकारी [वेदज्ञान] को (अस्मै) उस [पुरुष] के लिये (दुहे) दोहता है, (यः एवम् वेद) जो ऐसा जानता है ॥९, १०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ब्रह्मज्ञानी पुरुष को संसार के सब पदार्थ सुखदायक होते हैं ॥९, १०॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ९, १०−(अस्मै) ब्रह्मज्ञानिने (दुहे) द्विकर्मकः। दुग्धे। प्रपूरयति (व्यचः) विस्तृतम्। अन्यत् पूर्ववत् ॥
 </details>

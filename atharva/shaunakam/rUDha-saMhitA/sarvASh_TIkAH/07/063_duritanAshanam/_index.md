@@ -2,7 +2,7 @@
 title = "०६३ दुरितनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 63 (65). To Agni: for aid.
 </details>

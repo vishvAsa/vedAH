@@ -2,7 +2,7 @@
 title = "०५१ एनोनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 51. For various blessings.
 </details>

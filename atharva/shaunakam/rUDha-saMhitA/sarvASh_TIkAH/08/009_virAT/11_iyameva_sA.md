@@ -22,7 +22,7 @@ also, it inverts the order of **c** and **d**⌋.
 She here who first of all sent forth her lustre moves onward resting on these lower creatures. Exalted power and might are stored within her: the woman hath prevailed, the new-come mother.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 इयम्। एव। सा। या। प्रथमा। विऽऔच्छत्। आसु। इतरासु। चरति। प्रऽविष्टा। महान्तः। अस्याम्। महिमानः। अन्तः। वधूः। जिगाय। नवऽगत्। जनित्री। ९.११।
 </details>
@@ -35,22 +35,22 @@ She here who first of all sent forth her lustre moves onward resting on these lo
 - विराट् सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 ब्रह्म विद्या का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (इयम् एव) यही (सा) यह ईश्वरी, [विराट्, ईश्वरशक्ति] है, (या) जो (प्रथमा) प्रथम (व्यौच्छत्) प्रकाशमान हुई है, और (आसु) इन सब और (इतरासु) दूसरी [सृष्टियों] में (प्रविष्टा) प्रविष्ट होकर (चरति) विचरती है। (अस्याम् अन्तः) इसके भीतर (महान्तः) बड़ी-बड़ी (महिमानः) महिमाएँ हैं, उस (नवगत्) नवीन-नवीन गतिवाली (वधूः) प्राप्तियोग्य (जनित्री) जननी ने [अनर्थों को] (जिगाय) जीत लिया है ॥११॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  ईश्वरशक्ति की महिमाओं को अनुभव करके विद्वान् लोग विघ्नों का नाश करते हैं ॥११॥ यह मन्त्र आचुका है-अ० ३।१०।४ ॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   ११−(इयम्) परिदृश्यमाना विराट् (एव) (सा) ईश्वरी (या) विराट्। अन्यत् पूर्ववत्-अ० ३।१०।४ ॥
 </details>

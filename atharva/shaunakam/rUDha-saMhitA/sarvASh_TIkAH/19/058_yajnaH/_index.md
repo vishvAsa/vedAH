@@ -2,7 +2,7 @@
 title = "०५८ यज्ञः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 58. For various blessings.
 </details>

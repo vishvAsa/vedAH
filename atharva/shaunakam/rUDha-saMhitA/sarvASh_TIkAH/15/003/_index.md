@@ -2,7 +2,7 @@
 title = "००३ "
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 3. Paryāya the third.
 </details>

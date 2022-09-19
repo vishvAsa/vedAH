@@ -2,7 +2,7 @@
 title = "०६९ आपः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 69. To the waters: for long life.
 </details>

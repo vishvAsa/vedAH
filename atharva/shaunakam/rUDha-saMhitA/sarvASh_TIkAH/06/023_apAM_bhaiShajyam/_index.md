@@ -2,7 +2,7 @@
 title = "०२३ अपां भैषज्यम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 23. To the waters: for blessings.
 </details>

@@ -23,7 +23,7 @@ two find place thus in our text.
 With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, with thy sharpened glow, with rays that flash with points of flame.
 </details>
 
-<details open><summary>पदपाठः</summary>
+<details><summary>पदपाठः</summary>
 
 विषेण। भङ्गुरऽवतः। प्रति। स्म। रक्षसः। जहि। अग्ने। तिग्मेन। शोचिषा। तपुःऽअग्राभिः। अर्चिऽभिः। ३.२३।
 </details>
@@ -36,22 +36,22 @@ With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, 
 - शत्रुनाशन सूक्त
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
 
 राजा के धर्म का उपदेश।
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे अग्नि [समान तेजस्वी राजन् !] (विषेण) विष से [वा अपनी व्याप्ति से] (भङ्गुरावतः) नाश कर्मवाले (रक्षसः) राक्षसों का (स्म) अवश्य (तिग्मेन) तीव्र (शोचिषा) तेज से और (तपुरग्राभिः) तापयुक्त शिखाओंवाली (अर्चिभिः) ज्वालाओं से (प्रति जहि) नाश कर दे ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
 
 भावार्थभाषाः -  राजा उपद्रवियों को तीव्र दण्ड देता रहे ॥२३॥
 </details>
 
-<details open><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   २३−(विषेण) गरलेन स्वव्यापनेन वा (भङ्गुरावतः) अ० ७।७१।१। नाशकर्मयुक्तान् (प्रति) प्रतिकूलम् (स्म) अवश्यम् (रक्षसः) पुंल्लिङ्गत्वं छान्दसम्। रक्षांसि (जहि) नाशय (अग्ने) (तिग्मेन) तीक्ष्णेन (शोचिषा) तेजसा (तपुरग्राभिः) अर्तिपॄवपि०। उ० २।११७। तप दाहे-उसि। तापकशिखायुक्ताभिः (अर्चिभिः) ज्वालाभिः ॥
 </details>

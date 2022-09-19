@@ -2,7 +2,7 @@
 title = "००१ अमृतासुः"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 1. Mystic.
 </details>

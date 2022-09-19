@@ -2,7 +2,7 @@
 title = "११३ पापनाशनम्"
 
 +++
-<details open><summary>Whitney subject</summary>
+<details><summary>Whitney subject</summary>
 
 113. For release from seizure (grā́hi).
 </details>
