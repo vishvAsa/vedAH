@@ -5,12 +5,13 @@ title = "२० मन्युनान्नादेनान्नमत्�
 
 <details><summary>Whitney</summary>
 
-म॒न्युना॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥२०॥
+⌊20.⌋ with  
+fury as food-eater doth he eat food who knoweth thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-म॒न्युना॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥२०॥
+He who hath this knowledge eats food with Passion as food-eater.
 </details>
 
 

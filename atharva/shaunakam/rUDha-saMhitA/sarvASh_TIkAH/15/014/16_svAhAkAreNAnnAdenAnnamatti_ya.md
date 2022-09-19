@@ -5,12 +5,13 @@ title = "१६ स्वाहाकारेणान्नादेनान�
 
 <details><summary>Whitney</summary>
 
-स्वा॒हा॒का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१६॥
+⌊16.⌋ with the cry *svā́hā*as food-eater doth he eat food who knoweth  
+thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-स्वा॒हा॒का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१६॥
+He who hath this knowledge eats food with the exclamation Svaha as food-eater.
 </details>
 
 

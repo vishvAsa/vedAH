@@ -5,12 +5,13 @@ title = "१८ वषट्कारेणान्नादेनान्न�
 
 <details><summary>Whitney</summary>
 
-व॒ष॒ट्का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१८॥
+⌊18.⌋ with the cry *váṣaṭ* as food-eater doth he eat food who knoweth  
+thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-व॒ष॒ट्का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१८॥
+He who hath this knowledge eats food with the exclamation Vashat as food-eater.
 </details>
 
 

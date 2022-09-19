@@ -5,12 +5,18 @@ title = "१७ स यदूर्ध्वाम्"
 
 <details><summary>Whitney</summary>
 
-स यदू॒र्ध्वां दिश॒मनु॒ व्यच॑ल॒द् बृह॒स्पति॑र्भू॒त्वानु॒व्यऽचलद् वषट्का॒रम॑न्ना॒दं कृ॒त्वा॥१७॥
+### Translation
+9. ⌊17.⌋ As he moved out toward the upward quarter, Brihaspati, coming  
+   into being, moved out after, making the cry *váṣaṭ* \[his\] food-eater;
+
+
+### Notes
+The first pāda is not metrically defined by the Anukr.
 </details>
 
 <details><summary>Griffith</summary>
 
-स यदू॒र्ध्वां दिश॒मनु॒ व्यच॑ल॒द् बृह॒स्पति॑र्भू॒त्वानु॒व्यऽचलद् वषट्का॒रम॑न्ना॒दं कृ॒त्वा॥१७॥
+He, when he went away to the upper region, went away having become Brihaspati and having made the exclamation Vashat an eater of food.
 </details>
 
 

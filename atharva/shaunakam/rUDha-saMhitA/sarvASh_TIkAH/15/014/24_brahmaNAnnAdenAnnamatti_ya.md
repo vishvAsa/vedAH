@@ -5,12 +5,17 @@ title = "२४ ब्रह्मणान्नादेनान्नमत�
 
 <details><summary>Whitney</summary>
 
-ब्रह्म॑णान्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥२४॥
+⌊24.⌋ with the *bráhman* as food-eater  
+doth he eat food who knoweth thus.
+
+### Notes
+The metrical definition of the first subdivision is wanting in the  
+Anukr.
 </details>
 
 <details><summary>Griffith</summary>
 
-ब्रह्म॑णान्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥२४॥
+He who hath this knowledge eats food with Devotion as food-eater.
 </details>
 
 

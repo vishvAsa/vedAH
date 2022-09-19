@@ -5,12 +5,14 @@ title = "२३ स यत्"
 
 <details><summary>Whitney</summary>
 
-स यत् सर्वा॑नन्तर्दे॒शाननु॒ व्यच॑लत् परमे॒ष्ठी भू॒त्वानु॒व्यऽचल॒द् ब्रह्मा॑न्ना॒दं कृ॒त्वा॥२३॥
+12. ⌊23.⌋ As he moved out toward all the intermediate directions, the  
+    most exalted one, coming into being, moved out after, making the  
+    *bráhman* \[his\] food-eater;
 </details>
 
 <details><summary>Griffith</summary>
 
-स यत् सर्वा॑नन्तर्दे॒शाननु॒ व्यच॑लत् परमे॒ष्ठी भू॒त्वानु॒व्यऽचल॒द् ब्रह्मा॑न्ना॒दं कृ॒त्वा॥२३॥
+He, when he went away to all the intermediate spaces, went away having become Parameshthin and having made Devotion an eater of food.
 </details>
 
 

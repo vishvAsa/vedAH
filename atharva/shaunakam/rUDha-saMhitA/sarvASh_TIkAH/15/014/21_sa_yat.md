@@ -5,12 +5,13 @@ title = "२१ स यत्"
 
 <details><summary>Whitney</summary>
 
-स यत् प्र॒जा अनु॒ व्यच॑लत् प्र॒जाप॑तिर्भू॒त्वानु॒व्यऽचलत् प्रा॒णम॑न्ना॒दं कृत्वा॑॥२१॥
+11. ⌊21.⌋ As he moved out toward progeny, Prajāpati ('lord of progeny'),  
+    coming into being, moved out after, making breath \[his\] food-eater;
 </details>
 
 <details><summary>Griffith</summary>
 
-स यत् प्र॒जा अनु॒ व्यच॑लत् प्र॒जाप॑तिर्भू॒त्वानु॒व्यऽचलत् प्रा॒णम॑न्ना॒दं कृत्वा॑॥२१॥
+He, when he went away to creatures, went away having become Prajapati and having made vital breath an eater of food.
 </details>
 
 

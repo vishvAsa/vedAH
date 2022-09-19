@@ -8,8 +8,7 @@ title = "०१ स यत्प्राचीन्दिशमनु"
 ### Translation
 1. ⌊1.⌋ As he moved out toward the eastern quarter, the troop  
 (*śárdhas*) of Maruts, coming into being (*bhūtvā́*), moved out after,  
-making mind \[their\] food-eater; ⌊2.⌋ with mind as food-eater doth he  
-eat food who knoweth thus.
+making mind \[their\] food-eater;
 
 ### Notes
 Aufrecht understands the meaning to be as just given, and takes it  
@@ -24,7 +23,7 @@ are especially difficult.
 
 <details><summary>Griffith</summary>
 
-He when he went away to the eastern region, went away having become the Marut host, and having made Mind an eater of food. He who hath this knowledge eats food with Mind as food-eater.
+He when he went away to the eastern region, went away having become the Marut host, and having made Mind an eater of food. 
 </details>
 
 <details open><summary>पदपाठः</summary>

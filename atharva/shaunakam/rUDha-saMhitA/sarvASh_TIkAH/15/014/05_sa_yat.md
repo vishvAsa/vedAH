@@ -5,17 +5,17 @@ title = "०५ स यत्"
 
 <details><summary>Whitney</summary>
 
-### Translation
-5. ⌊9.⌋ he moved out toward the fixed quarter, Vishṇu, coming into  
-being, moved out after, making *virā́j* \[his\] food-eater; ⌊10.⌋ with  
-*virā́j* as food-eater doth he eat food who knoweth thus.
+3. ⌊5.⌋ As he moved out toward the western quarter, king Varuṇa, coming  
+   into being, moved out after, making the waters \[his\] food-eaters;
 
 ### Notes
+Most of the mss. accent *apó ‘nnādī́ḥ* (but Bs. has *-ò*). One or two  
+(I.K.) combine *-dī́ṣ kṛtvā́*.
 </details>
 
 <details><summary>Griffith</summary>
 
-He, when he went away to the stedfast region, went away having become Vishnu and having made Viraj an eater of food. He who hath this knowledge eats food with Viraj as food-eater.
+He, when he went away to the western region, went away having become King Varuna, and having made the Waters eaters of food.
 </details>
 
 

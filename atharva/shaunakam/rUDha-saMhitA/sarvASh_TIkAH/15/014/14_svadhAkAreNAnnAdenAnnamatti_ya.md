@@ -5,12 +5,13 @@ title = "१४ स्वधाकारेणान्नादेनान्�
 
 <details><summary>Whitney</summary>
 
-स्व॒धा॒का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१४॥
+⌊14.⌋ with the call *svadhā́* as food-eater doth he eat food who knoweth  
+thus.
 </details>
 
 <details><summary>Griffith</summary>
 
-स्व॒धा॒का॒रेणा॑न्ना॒देनान्न॑मत्ति॒ य ए॒वं वेद॑ ॥१४॥
+He who hath this knowledge eats food with the exclamation Svadha as food-eater.
 </details>
 
 

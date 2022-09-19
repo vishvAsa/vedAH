@@ -5,12 +5,13 @@ title = "१५ स यन्मनुष्या३ननु"
 
 <details><summary>Whitney</summary>
 
-स यन्म॑नु॒ष्या॒३ननु॒ व्यच॑लद॒ग्निर्भू॒त्वानु॒व्यऽचलत् स्वाहाका॒रम॑न्ना॒दं कृ॒त्वा॥१५॥
+8.⌊15.⌋ As he moved out toward men (*manuṣyà*), Agni, coming into being,  
+moved out after, making the cry *svā́hā* ('hail') \[his\] food-eater;
 </details>
 
 <details><summary>Griffith</summary>
 
-स यन्म॑नु॒ष्या॒३ननु॒ व्यच॑लद॒ग्निर्भू॒त्वानु॒व्यऽचलत् स्वाहाका॒रम॑न्ना॒दं कृ॒त्वा॥१५॥
+He, when he went away to men, went away having become Agni and having made the exclamation Svaha an eater of food.
 </details>
 
 

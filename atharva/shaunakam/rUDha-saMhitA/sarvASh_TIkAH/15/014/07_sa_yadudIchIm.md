@@ -5,18 +5,14 @@ title = "०७ स यदुदीचीम्"
 
 <details><summary>Whitney</summary>
 
-### Translation
-7. ⌊13.⌋ As he moved out toward the Fathers, king Yama, coming into  
-being, moved out after, making the call *svadhā́* \[his\] food-eater;  
-⌊14.⌋ with the call *svadhā́* as food-eater doth he eat food who knoweth  
-thus.
-
-### Notes
+4. ⌊7.⌋ As he moved out toward the northern quarter, king Soma, coming  
+   into being, moved out after, making the offering (*ā́huti*) in what is  
+   offered by the seven seers \[his\] food-eater;
 </details>
 
 <details><summary>Griffith</summary>
 
-He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food. He who hath this knowledge eats food with the exclamation Svadha as food-eater.
+He, when he went away to the northern region, went away having become King Soma and having made the Seven Rishis' oblation an eater of food.
 </details>
 
 

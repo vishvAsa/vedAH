@@ -5,12 +5,19 @@ title = "१९ स यद्"
 
 <details><summary>Whitney</summary>
 
-स यद् दे॒वाननु॒ व्यच॑ल॒दीशा॑नो भू॒त्वानु॒व्यऽचलन्म॒न्युम॑न्ना॒दं कृ॒त्वा॥१९॥
+### Translation
+10. ⌊19.⌋ As he moved out toward the gods, Īśāna ('the lord'), coming  
+    into being, moved out after, making fury \[his\] food-eater;
+
+### Notes
+If nāgī gayatrī means 9 + 9 + 6 (Colebrooke, *Miscellaneous Essays*, ii.  
+136, as cited by BR.), the first subdivision here comes so near it as to  
+be capable of being read as 9 + 9 + 7 (being *bhurij*).
 </details>
 
 <details><summary>Griffith</summary>
 
-स यद् दे॒वाननु॒ व्यच॑ल॒दीशा॑नो भू॒त्वानु॒व्यऽचलन्म॒न्युम॑न्ना॒दं कृ॒त्वा॥१९॥
+He, when he went away to the Gods, went away having become Isana and having made Passion an eater of food.
 </details>
 
 

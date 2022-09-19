@@ -5,12 +5,13 @@ title = "१३ स यत्"
 
 <details><summary>Whitney</summary>
 
-स यत् पि॒तॄननु॒ व्यच॑लद् य॒मो राजा॑ भू॒त्वानु॒व्यऽचलत् स्वधाका॒रम॑न्ना॒दं कृ॒त्वा॥१३॥
+7. ⌊13.⌋ As he moved out toward the Fathers, king Yama, coming into  
+   being, moved out after, making the call *svadhā́* \[his\] food-eater;
 </details>
 
 <details><summary>Griffith</summary>
 
-स यत् पि॒तॄननु॒ व्यच॑लद् य॒मो राजा॑ भू॒त्वानु॒व्यऽचलत् स्वधाका॒रम॑न्ना॒दं कृ॒त्वा॥१३॥
+He, when he went away to the Fathers, went away having be- come King Yama and having made the exclamation Svadha an eater of food. 
 </details>
 
 
