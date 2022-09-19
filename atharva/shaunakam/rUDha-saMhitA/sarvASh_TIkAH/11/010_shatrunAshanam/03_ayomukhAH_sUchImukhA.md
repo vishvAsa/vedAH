@@ -3,6 +3,12 @@ title = "०३ अयोमुखाः सूचीमुखा"
 
 +++
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Metal-headed, point-headed, barb-headed, flesh-eating, with the speed of wind, stick to the enemies, together with the three-pronged vajra.
+</details>
+
+
 <details><summary>Whitney</summary>
 
 ### Translation

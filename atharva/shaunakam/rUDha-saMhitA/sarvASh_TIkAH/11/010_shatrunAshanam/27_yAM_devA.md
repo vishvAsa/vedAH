@@ -2,6 +2,11 @@
 title = "२७ यां देवा"
 
 +++
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+With the [ritual] the deva-s attend, which has no failure, by that indra, the slayer of vR^itra, shall kill with the three-pronged vajra. 
+</details>
+
 
 <details><summary>Whitney</summary>
 
