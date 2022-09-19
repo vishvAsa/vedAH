@@ -1,0 +1,105 @@
++++
+title = "०१९ प्रजाः"
+
++++
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/_index.md">
+<details open><summary><h2>०१९ प्रजाः ...{Loading}...</h2></summary>
+<details><summary>Whitney subject</summary>
+
+19 (20). For progeny, etc.
+</details>
+<details><summary>VH anukramaṇī</summary>
+
+प्रजाः।  
+१ ब्रह्मा। प्रजापतिः। जगती।
+</details>
+<details><summary>Whitney anukramaṇī</summary>
+
+[Brahman.—mantroktadevatyatn. jāgatam.]
+</details>
+<details><summary>Whitney</summary>
+
+#### Comment
+Found also in Pāipp. xix. Kāuś. (35. 17) uses it in a women's rite, with an oblation in the lap of a woman desirous of offspring; and further (59. 19), with hymn 17 etc.: see under the latter.
+
+
+#### Translations
+Translated: Henry, 8, 60; Griffith, i. 337.
+</details>
+<details><summary>Griffith</summary>
+
+A prayer for prosperity
+</details>
+</details>
+</div>
+## ०१ प्रजापतिर्जनयति प्रजा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः ।  
+सं॒जा॒ना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः। सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<details open><summary><h3>०१ प्रजापतिर्जनयति प्रजा ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+1. Prajāpati generates these offspring (*prajā́s*); let Dhātar, with  
+favoring mind, bestow (*dhā*) \[them\]; harmonious, like-minded, of like  
+origin; let the lord of prosperity put (*dhā*) prosperity in me.
+
+##### Notes
+The verse is to be compared with one in MS. (ii. 13. 23) and ĀpśS. (xiv.  
+28. 4), of which the second pāda precisely agrees\* with ours, and the  
+fourth nearly (but reading *puṣṭim puṣṭipatir*); while for **a** both  
+have *ā́ naḥ prajā́ṁ janayatu prajā́patiḥ*, and, for **c**, *saṁvatsará  
+ṛtúbhiḥ saṁvidānáḥ* (ĀpśS. *ṛtubhiś cākupānaḥ*†) and **d** is MB. ii. 4.  
+7 **c**.‡ Our **c**, nom. plur. words, is left without any construction  
+(but emendation to *sayonīs* would make them accus., helping both the  
+construction and the meter); Ppp. has the same **c** as MS., and also  
+gives *janayatu* (for *-ti*) in **a**, as does the comm.; it is  
+doubtless the better reading. Two of the pādas are *triṣṭubh.* \*⌊But  
+Āp. has *dadātu*.⌋ †⌊Intending *ca a-kupānaḥ*, as an isolated  
+root-aorist pple? see *Gram.* §840 b.⌋ ‡⌊But with *puṣṭim puṣṭipatir*,  
+like MS.Āp.⌋
+</details>
+<details><summary>Griffith</summary>
+
+Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Having one common womb, and mind, and spirit. He who is. Lord of Plenty give me plenty!
+</details>
+<details><summary>पदपाठः</summary>
+
+प्रजाऽपतिः। जनयति। प्रऽजाः। इमाः। धाताः। दधातु। सुऽमनस्यमानाः। सम्ऽजानानाः। सम्ऽमनसः। सऽयोनयः। मयि। पुष्टम्। पुष्टऽपतिः। दधातु। २०.१।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धाता, प्रजापतिः, पुष्टपतिः
+- ब्रह्मा
+- जगती
+- प्रजा सूक्त
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+बढ़ती करने का उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (प्रजापतिः) प्रजापालक परमेश्वर (इमाः) इन सब (प्रजाः) सृष्टि के जीवों को (जनयति) उत्पन्न करता है, वह (सुमनस्यमानः) शुभचिन्तक (धाता) पोषक परमात्मा [इनका] (दधातु) पोषण करे [जो] (संजानानाः) एक ज्ञानवाली, (संमनसः) एक मनवाली और (सयोनयः) एक कारणवाली हैं, (पुष्टपतिः) वह पोषण का स्वामी [प्रजायें] (मयि) मुझ में (पुष्टम्) पोषण (दधातु) धारण करें ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य परमेश्वर के प्रजापालकत्व आदि गुणों का विचार कर के प्रीतिपूर्वक अपनी वृद्धि करें ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(प्रजापतिः) सृष्टिपालकः परमात्मा (जनयति) उत्पादयति (प्रजाः) सर्वाः सृष्टीः (इमाः) परिदृश्यमानाः (धाता) पोषकः (दधातु) पोषयतु (सुमनस्यमानः) अ० १।३५।१। शुभचिन्तकः (संजानानाः) समानज्ञानाः (संमनसः) संगतमनस्काः (सयोनयः) समानकारणाः प्रजाः (मयि) उपासके (पुष्टम्) पोषम् (पुष्टपतिः) पोषस्य रक्षकः (दधातु) (धरयतु) ॥
+</details>
+</details>
+</div>

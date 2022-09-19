@@ -1,0 +1,219 @@
++++
+title = "०४३ मन्युशमनम्"
+
++++
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/_index.md">
+<details open><summary><h2>०४३ मन्युशमनम् ...{Loading}...</h2></summary>
+<details><summary>Whitney subject</summary>
+
+43. To assuage wrath.
+</details>
+<details><summary>VH anukramaṇī</summary>
+
+मन्युशमनम्।  
+१-३ भृग्वङ्गिराः (परस्परचित्तैकीकरणकामः)। मन्युशमनम्। अनुष्टुप्।
+</details>
+<details><summary>Whitney anukramaṇī</summary>
+
+[(As 42.)—manyuśamanadevatākam. ānuṣṭubham.]
+</details>
+<details><summary>Whitney</summary>
+
+#### Comment
+Found also in Pāipp. xix. In Kāuś. (36. 32), the hymn appears, next after hymn 42, in a rite for appeasement of anger, darbha being treated as an amulet (? oṣadhivat).
+
+
+#### Translations
+Translated: Florenz, 303 or 55; Grill, 30, 162; Griffith, i. 267; Bloomfield, 137, 480.
+</details>
+<details><summary>Griffith</summary>
+
+The same
+</details>
+</details>
+</div>
+## ०१ अयं दर्भो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/01_ayaM_darbho.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च ।  
+म॒न्योर्विम॑न्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥१॥  
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/01_ayaM_darbho.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च। म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/01_ayaM_darbho.md">
+<details open><summary><h3>०१ अयं दर्भो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+1. This *darbhá* \[is\] fury-removing, both for one's own man and for a  
+stranger; and this is called a fury-removing fury-appeaser of fury.
+
+##### Notes
+The translation implies the emendation of *vimanyukasya* in **c** to  
+*-kaś ca* (as proposed by Grill, and virtually by Florenz). Ppp.  
+supports the change, reading *vimanyako manyuśamano ‘stu me;* it has  
+*vimanyakas* also in **a**.
+</details>
+<details><summary>Griffith</summary>
+
+For stranger and for friend alike this Darbha-grass removeth wrath. Soother of Anger is it called because it calms the angry man.
+</details>
+<details><summary>पदपाठः</summary>
+
+अयम्। दर्भः। विऽमन्युकः। स्वाय। च। अरणाय। च। मन्योः। विऽमन्युकस्य। अयम्। मन्युऽशमनः। उच्यते। ४३.१।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युशमनम्
+- भृग्वङ्गिरा
+- अनुष्टुप्
+- मन्युशमन सूक्त
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+क्रोध की शान्ति के लिये उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्) यह (दर्भः) दर्भ अर्थात् दुःख नाश करनेवाला वा सुकर्म गूँथनेवाला पुरुष (स्वाय) अपने समुदाय के लिये (च च) और (अरणाय) प्राप्ति योग्य शूद्र अन्त्यज आदि के लिये (विमन्युकः) क्रोध हटानेवाला है। (अयम्) यह (मन्योः) क्रोधी का (विमन्युकः) क्रोध दूर करनेवाला और (मन्युशमनः) क्रोध शान्त करनेवाला (उच्यते) कहा जाता है ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य को योग्य है कि बड़े और छोटों से शान्तचित्त होकर बर्ताव करे ॥१॥   (दर्भ) अर्थात् कुश घास औषधविशेष भी है, जो वात पित्त कफ त्रिदोष आदि रोग नाश करता है ॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(अयम्) पुरोवर्ती (दर्भः) दृदलिभ्यां भः। उ० ३।१५१। इति दॄ विदारणे−भ। यद्वा। दृभो ग्रन्थे−घञ्। दुःखविदारकः। सुकर्मग्रन्थकः (विमन्युकः) शेषाद् विभाषा। पा० ५।४।१५४। इति कप्। वि विगमितो मन्युर्येन सः। क्रोधनिवारकः (स्वाय) ज्ञातये (च च) समुच्चये (अरणाय) ऋ गतौ−ल्यु। प्राप्तव्याय शूद्रान्त्यजादये (मन्योः) मतुपो लोपः। मन्युमतः पुरुषस्य (विमन्युकस्य) सुपां सुपो भवन्तीति वक्तव्यम्। वा० पा० ७।१।३९। इति प्रथमार्थे षष्ठी। विमन्युकः। क्रोधनिवारकः (अयम्) (मन्युशमनः) क्रोधशान्तिकरः (उच्यते) अभिधीयते ॥
+</details>
+</details>
+</div>
+## ०२ अयं यो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/02_ayaM_yo.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति ।  
+द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥२॥  
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/02_ayaM_yo.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति। द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/02_ayaM_yo.md">
+<details open><summary><h3>०२ अयं यो ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+2. This that is many-rooted, \[that\] reaches down (*ava-sthā*) to the  
+sea, the *darbhá*, arisen out of the earth, is called a fury-appeaser.
+
+##### Notes
+Ppp. reads, in **b**, *pṛthivyām* 'in the earth,' instead of *samudrám*  
+'to the sea'; end of **c**, and **d**, *niṣṭhitas sa ce ‘stu  
+vimanyakaḥ*. The Anukr. takes no notice of the deficiency of a syllable  
+in **a**.
+</details>
+<details><summary>Griffith</summary>
+
+This Plant that hath abundant roots spreads to the place where waters meet. Soother of anger is the name Darbha-grass that springs from earth.
+</details>
+<details><summary>पदपाठः</summary>
+
+अयम्। यः। भूरिऽमूलः। समुद्रम्। अवऽतिष्ठति। दर्भः। पृथिव्याः। उत्थितः। मन्युऽशमनः। उच्यते। ४३.२।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युशमनम्
+- भृग्वङ्गिरा
+- अनुष्टुप्
+- मन्युशमन सूक्त
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+क्रोध की शान्ति के लिये उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्) यह (यः) जो (भूरिमूलः) बहुत प्रतिष्ठावाला होकर (समुद्रम्) अन्तरिक्ष लोक तक (अवतिष्ठति) फैलता है। (दर्भ) वह दर्भ सुकर्मों का गूँथनेवाला पुरुष (पृथिव्याः) पृथिवी से (उत्थितः) उठकर (मन्युशमनः) क्रोध शान्त करनेवाला (उच्यते) कहा जाता है ॥२॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य विवेक द्वारा प्रतिष्ठित होकर अन्तरिक्ष आदि लोक तक अधिकार जमाता है, वह संसार में यशस्वी और शान्तचित्त माना जाता है ॥२॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २−(अयम्) (यः) दर्भः (भूरिमूलः) मूल प्रतिष्ठायां रोपणे च−क बहुप्रतिष्ठितः सन् (समुद्रम्) अ० १।३।८। अन्तरिक्षम्−निघ० १।३। (अवतिष्ठति) व्याप्य वर्तते (दर्भः) म० १। सुकर्मणां ग्रन्थकः (पृथिव्याः) भूमेः सकाशात् (उत्थितः) उपरि स्थितः सन्। अन्यत्पूर्ववत् ॥
+</details>
+</details>
+</div>
+## ०३ वि ते
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/03_vi_te.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+वि ते॑ हन॒व्यां श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि ।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/03_vi_te.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि। यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/03_vi_te.md">
+<details open><summary><h3>०३ वि ते ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+3. We conduct away the offense (? *śaráṇi*) of thy jaws, away that of  
+thy mouth, that thou mayest not speak uncontrolled, mayest come unto my  
+intent.
+
+##### Notes
+The last half-verse is a repetition of vi. 42. 3 **c, d** ⌊which see⌋;  
+it is wanting in Ppp., perhaps as result of a lacuna. Most of the mss.  
+have the false reading *múkhyān* in **b**, but SPP. also emends to  
+*-ām*, being supported by the comm. The latter explains *śaráṇim* by  
+*hiṅsāhetubhūtām krodhābhivyañjikāṁ dhamanim*.
+</details>
+<details><summary>Griffith</summary>
+
+We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yield thee to my will. to speak no more rebelli- ously.
+</details>
+<details><summary>पदपाठः</summary>
+
+वि। ते। हनव्या᳡म्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवशः। न। ‍ वादिषः। मम। चित्तम्। उपऽआयसि। ४३.३।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युशमनम्
+- भृग्वङ्गिरा
+- अनुष्टुप्
+- मन्युशमन सूक्त
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+क्रोध की शान्ति के लिये उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  [हे मनुष्य !] (ते) तेरे (हनव्याम्) ठोड़ी में वर्त्तमान और (ते) तेरे (मुख्याम्) मुख पर वर्त्तमान (शरणिम्) हिंसा के चिह्न को (वि वि नयामसि) सर्वथा हम हटाते हैं। (यथा) जिससे (अवशः) परवश (न=न भूत्वा) न होकर (वादिषः) तू बातचीत करे, (मम) मेरे (चित्तम्) चित्त में (उप आयसि) तू पहुँच करता है ॥३॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य अपने शरीर के सब अङ्गों से सुचेष्टा करके सबका प्रिय रहे ॥३॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३−(ते) तव (हनव्याम्) शरीरावयवाच्च। पा० ४।३।५५। इति हनु−यत्। ओर्गुणः। पा० ६।४।१४६। इति गुणः। वान्तो यि प्रत्यये। पा० ६।१।७९। इति अवादेशः। हनौ वर्तमानाम् (शरणिम्) अर्त्तिसृधृ०। उ० २।१०२। इति शॄ हिंसायाम्−अनि। हिंसालक्षणम् (मुख्याम्) मुख−यत् पूर्ववत्। मुखे वर्त्तमानाम् (वि वि नयामसि) सर्वथा विनयामः। अपगमयामः। अन्यद् गतम्−सू० ४२। म० ३ ॥
+</details>
+</details>
+</div>

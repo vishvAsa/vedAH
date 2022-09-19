@@ -1,0 +1,98 @@
++++
+title = "०८५ अरिष्टनेमिः"
+
++++
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/_index.md">
+<details open><summary><h2>०८५ अरिष्टनेमिः ...{Loading}...</h2></summary>
+<details><summary>Whitney subject</summary>
+
+85 (90). Invocation of Tārkshya.
+</details>
+<details><summary>VH anukramaṇī</summary>
+
+अरिष्टनेमिः।  
+१ अथर्वा (स्वस्त्ययनकामः)। तार्क्ष्यः। त्रिष्टुप्।
+</details>
+<details><summary>Whitney anukramaṇī</summary>
+
+[Atharvan (svastyayanakāmaḥ).—tārkṣyadevatyam. trāiṣṭubham.]
+</details>
+<details><summary>Whitney</summary>
+
+#### Comment
+Not found in Pāipp. Used in Kāuś. (59. 14), with 86 and 117, in a rite for general welfare, and by the schol. (note to 137. 4) in making a sacrificial hearth for the ājyatantra; it is also reckoned (note to 25. 36) to the svastyayana gaṇa.
+
+
+#### Translations
+Translated: Henry, 36, 105; Griffith, i. 372.—See also Foy, KZ. xxxiv. 268.
+</details>
+<details><summary>Griffith</summary>
+
+A charm to ensure victory in battle
+</details>
+</details>
+</div>
+## ०१ त्यमू षु
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
+अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्। अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<details open><summary><h3>०१ त्यमू षु ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+1. We would fain call hither for \[our\] welfare Tārkshya, this  
+vigorous, god-quickened, powerful overcomer of chariots, ⌊Tārkshya,⌋  
+having uninjured tires, fight-conquering, swift.
+
+##### Notes
+The verse is RV. x. 178. 1 and SV. i. 332. For our *sáhovānam*, in  
+**b**, RV. reads *sahā́vānam* and SV. *sahovā́nam;* both have *pṛtanā́jam*  
+(undivided in RV. *pada*-text) in **c** instead of *-ājím* (p. *-ā॰jím*)  
+and, in **d**, the RV. *pada*-text understands *ihā́* as simply *ihá*,  
+ours as *ihá: ā́*. The comm. also reads *pṛtanājam*, but explains it as  
+containing either the root *aj* or *ji*.
+</details>
+<details><summary>Griffith</summary>
+
+This very mighty one whom Gods urge onward, the conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even Tarkshya for our weal will we call hither.
+</details>
+<details><summary>पदपाठः</summary>
+
+त्यम्। ऊं इति। सु। वाजिनम्। देवऽजूतम्। सहःऽवानम्। तरुतारम्। रथानाम्। अरिष्टऽनेमिम्। पृतनाऽजिम्। आशुम्। स्वस्तये। तार्क्ष्यम्। इह। आ। हुवेम। ९०.१।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तार्क्ष्यः
+- अथर्वा
+- त्रिष्टुप्
+- अरिष्टनेमि सूक्त
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+राजा और प्रजा के धर्म का उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (त्यम् उ) उस ही (वाजिनम्) अन्नवाले (देवजूतम्) विद्वानों से प्रेरणा किये गये, (सहोवानम्) महाबली, (रथानाम्) रथों के [जल थल और आकाश में] (तरुतारम्) तिराने [चलाने] वाले, (अरिष्टनेमिम्) अटूट वज्रवाले, (पृतनाजिम्) सेनाओं को जीतनेवाले (आशुम्) व्यापनेवाले, (तार्क्ष्यम्) महावेगवान् राजा को (इह) यहाँ पर (स्वस्तये) अपने कल्याण के लिये (सु) आदर से (आ) भले प्रकार (हुवेम) हम बुलावे ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान् प्रजागण उत्तम गुणी राजा को अपनी रक्षा के लिये आवाहन करते रहें ॥१॥ यह मन्त्र ऋग्वेद में है−१०।१७८।१। साम० य० ४।५।१, और निरुक्त १०।२८। में भी व्याख्यात है ॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(त्यम्) तं प्रसिद्धम् (उ) एव (सु) पूजायाम् (वाजिनम्) अन्नवन्तम् (देवजूतम्) जु गतौ-क्त। जूर्गतिः प्रीतिर्या देवजूतं देवगतं देवप्रीतं वा-निरु० १०।२८। विद्वद्भिः प्रेरितम् (सहोवानम्) छन्दसीवनिपौ च वक्तव्यौ। वा० पा० ५।२।१०९। सहस्-वनिप्। सहस्वन्तं बलवन्तम् (तरुतारम्) ग्रसितस्कभित०। पा० ७।२।३४। तरतेस्तृचि उडागमः। तरीतारम्। तारयितारम् (रथानाम्) यानानाम् (अरिष्टनेमिम्) रिष हिंसायाम्-क्त। नियो मिः। उ० ४।४३। णीञ् प्रापणे−मि। नेमिर्वज्रनाम-निघ० २।२०। अच्छिन्नवज्रम् (पृतनाजिम्) वातेर्डिच्च। उ० ४।१३४। जि जये-इण्, स च डित्। शत्रुसेनानां जेतारम् (आशुम्) अ० २।१४।६। अशूङ् व्याप्तौ संघाते च। उण्। व्यापनशीलम् (स्वस्तये) कल्याणाय (तार्क्ष्यम्) तृक्ष गतौ-घञ्, बाहुलकाद् वृद्धिः। तत्र साधुः। पा० ४।४।९८। तार्क्ष-यत्। तार्क्ष्ये वेगे साधुम्। वेगवन्तं राजानम्। तार्क्ष्योऽश्वनाम-निघ० १।१४। तार्क्ष्यस्त्वष्ट्रा व्याख्यातः, तीर्णेऽन्तरिक्षे क्षियति तूर्णमर्थं रक्षत्यश्नोतेर्वा-निरु० १०।२७। (इह) अत्र (आ हुवेम) अ० ७।४०।२। आह्वयेम ॥
+</details>
+</details>
+</div>

@@ -1,0 +1,96 @@
++++
+title = "१०० दुःष्वप्ननाशनम्"
+
++++
+<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/_index.md">
+<details open><summary><h2>१०० दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
+<details><summary>Whitney subject</summary>
+
+100 (105). Against bad dreams.
+</details>
+<details><summary>VH anukramaṇī</summary>
+
+दुःष्वप्ननाशनम्।  
+१ यमः। दुःष्वप्ननाशनम्। अनुष्टुप्।
+</details>
+<details><summary>Whitney anukramaṇī</summary>
+
+[Yama.—duḥsvapnanāśanadevatyam. ānuṣṭubham.]
+</details>
+<details><summary>Whitney</summary>
+
+#### Comment
+Found also in Pāipp. xx. Used by Kāuś. (46. 11) in a rite against bad dreaming, and reckoned (note to 46. 9) to the duḥsvapnanāśana gaṇa.
+
+
+#### Translations
+Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
+</details>
+</details>
+</div>
+## ०१ पर्यावर्ते दुःष्वप्न्यात्पापात्स्वप्न्यादभूत्याः
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+
+प॒र्याव॑र्ते दु॒ष्वप्न्या॑त् पा॒पात् स्वप्न्या॒दभू॑त्याः ।  
+ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥१॥
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+
+प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः। ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<details open><summary><h3>०१ पर्यावर्ते दुःष्वप्न्यात्पापात्स्वप्न्यादभूत्याः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+1. I turn away from evil-dreaming, from bad dreaming, from ill-success  
+(*ábhūti*); I make *bráhman* my inner \[defense\]; \[I put\] away the  
+pains having the aspect of dreams.
+
+##### Notes
+The comm. (also Ppp.) reads *svapnāt* in **b**. A corresponding verse is  
+found in KśS. xxv. 11. 20: for **b** it has *pāpaḥ svapnād abhūtyāi;* it  
+reads *karave* for *kṛṇve* in **c**, and, for **d**, *paraḥ svapnamukhā  
+kṛdhi*. Ppp. ends with *-mukhā suva*. Near half of SPP's authorities  
+have *párāḥ* in **d**. The comm. explains *svapnamukhās* by  
+*svapnadvārikāḥ*. ⌊Griffith says: "*I turn away:* and lie on my other  
+side"—to prevent the recurrence of nightmare. As to **c**, cf. i. 19. 4  
+and v. 8. 6.⌋
+</details>
+<details><summary>Griffith</summary>
+
+I turn away from evil dream, from dream of sin, from indigence. I make the prayer mine inmost friend. Hence! torturing. dreamy phantasies!
+</details>
+<details><summary>पदपाठः</summary>
+
+परिऽआवर्ते। दुःऽस्वप्न्यात्। पापात्। स्वप्न्यात्। अभूत्याः। ब्रह्म। अहम्। अन्तरम्। कृण्वे। परा। स्वप्नऽमुखाः। शुचः। १०५.१।
+</details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- दुःष्वप्ननाशनम्
+- यमः
+- अनुष्टुप्
+- दुःस्वप्न नाशन
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+कुविचार के हटाने का उपदेश।
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (दुःष्वप्न्यात्) बुरी निद्रा में उठे हुए और (स्वप्न्यात्) स्वप्न में उठे हुए (पापात्) पाप से [प्राप्त] (अभूत्याः) अनैश्वर्यता [निर्धनता] से (पर्यावर्ते) मैं अलग हटता हूँ। (अहम्) मैं (ब्रह्म) ब्रह्म [ईश्वर] को [अपने] (अन्तरम्) भीतर, और (स्वप्नमुखाः) स्वप्न के कारण से होनेवाले (शुचः) शोकों को (परा) दूर (कृण्वे) करता हूँ ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य परमात्मा में लवलीन होकर मन को ऐसा वश में करे कि स्वप्न में भी कुवासनायें न उठें ॥१॥
+</details>
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(पर्यावर्ते) पृथग् भवामि (दुःष्वप्न्यात्) अ० ४।९।६। दुर् दुष्टेषु स्वप्नेषु भवात् (पापात्) अ० २।१२।५। पालकात् (स्वप्न्यात्) स्वप्नप्रभवात् (अभूत्याः) अनैश्वर्यत्वात्। निर्धनत्वात् (ब्रह्म) ईश्वरम् (अहम्) मनुष्यः (अन्तरम्) मध्ये। आत्मनि (कृण्वे) करोमि (परा) दूरे (स्वप्नमुखाः) स्वप्नप्रधानाः (शुचः) शोकान् ॥
+</details>
+</details>
+</div>
