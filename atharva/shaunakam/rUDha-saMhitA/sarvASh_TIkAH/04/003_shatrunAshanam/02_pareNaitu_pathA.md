@@ -19,10 +19,10 @@ paramā*. The comm. naturally explains the "toothed rope" as a serpent;
 
 <details><summary>Griffith</summary>
 
-id
-4.3.2    On distant pathway go the wolf, on pathway mos...
-4.3.2    On distant pathway go the wolf, on pathway mos...
-Name: Comment, dtype: object
+On distant pathway go the wolf, on pathway most remote the
+thief!
+On a far road speed forth the rope with teeth, and the malicious
+man!
 </details>
 
 <details><summary>पदपाठः</summary>

@@ -21,10 +21,10 @@ same.
 
 <details><summary>Griffith</summary>
 
-id
-7.6.2    We call for help the Queen of Law and Order, g...
-7.6.2    We call for help the Queen of Law and Order, g...
-Name: Comment, dtype: object
+We call for help the Queen of Law and Order, great mother of
+all those whose ways are righteous,
+Far-spread, unwasting strong in her dominion, Aditi wisely lead-
+ing, well protecting.
 </details>
 
 <details><summary>पदपाठः</summary>

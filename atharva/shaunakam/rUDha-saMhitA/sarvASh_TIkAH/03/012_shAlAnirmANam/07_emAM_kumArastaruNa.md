@@ -34,10 +34,10 @@ vs. 9 ⌊cf. iii. 14. 6, note⌋.
 
 <details><summary>Griffith</summary>
 
-id
-3.12.7    To this the tender boy hath come, to this the ...
-3.12.7    Here, O ye Waters, is your heart. Here is your...
-Name: Comment, dtype: object
+To this the tender boy hath come, to this the calf with all the
+beasts,
+To this crock of foaming drink, hither with jars of curdled
+milk.
 </details>
 
 <details><summary>पदपाठः</summary>

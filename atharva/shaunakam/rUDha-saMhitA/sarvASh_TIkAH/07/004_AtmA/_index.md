@@ -30,9 +30,7 @@ Translated: Henry, 2, 49; Griffith, i. 328.
 
 <details><summary>Griffith</summary>
 
-id
-7.4    To Vayu God of the Wind
-7.4    To Vayu God of the Wind
-Name: Comment, dtype: object
+To Vāyu God of the Wind
+
 </details>
 

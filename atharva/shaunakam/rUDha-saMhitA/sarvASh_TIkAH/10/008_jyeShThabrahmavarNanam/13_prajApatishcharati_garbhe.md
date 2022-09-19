@@ -27,10 +27,7 @@ the *jagatī* pāda **b**.
 
 <details><summary>Griffith</summary>
 
-id
-10.8.13    In front of these the five-horsed car moves on...
-10.8.13    Within the womb Prajapati is moving: he, thoug...
-Name: Comment, dtype: object
+Within the womb Prajapati is moving: he, though unseen, is born in sundry places. He with one half engendered all creation. What sign is there to tell us of the other?
 </details>
 
 <details><summary>पदपाठः</summary>

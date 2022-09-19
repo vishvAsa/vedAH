@@ -15,10 +15,8 @@ SPP's mss., read *sūryas* for *-ya.*
 
 <details><summary>Griffith</summary>
 
-id
-2.16.3    As Sun and Moon are not afraid, nor ever suffe...
-2.16.3    Do thou, O Surya, with thine eye protect me! A...
-Name: Comment, dtype: object
+Do thou, O Sūrya, with thine eye protect me! All hail to
+thee!
 </details>
 
 <details><summary>पदपाठः</summary>

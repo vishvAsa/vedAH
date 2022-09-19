@@ -21,10 +21,10 @@ syllables. ⌊Read *indrajā́ asi?*—For **a, b**, see Griffith.⌋
 
 <details><summary>Griffith</summary>
 
-id
-4.3.7    Open not what thou hast compressed, close not ...
-4.3.7    Open not what thou hast compressed, close not ...
-Name: Comment, dtype: object
+Open not what thou hast compressed, close not what thou hast
+not compressed.
+Indra's and Soma's child, thou art Atharvan's tiger-crushing
+charm.
 </details>
 
 <details><summary>पदपाठः</summary>

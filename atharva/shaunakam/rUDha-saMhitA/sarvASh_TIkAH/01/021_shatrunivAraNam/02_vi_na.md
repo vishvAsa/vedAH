@@ -18,10 +18,7 @@ kṛdhi*. ⌊Cf. MGS. ii. 15. 6 h and p. 155.⌋
 
 <details><summary>Griffith</summary>
 
-id
-1.21.2    Indra, subdue our enemies, lay low the men who...
-1.21.2    With ruddy hues we compass thee that thou mays...
-Name: Comment, dtype: object
+Indra, subdue our enemies, lay low the men who fight with us: Down into nether darkness send the man who shows us enmity:
 </details>
 
 <details><summary>पदपाठः</summary>

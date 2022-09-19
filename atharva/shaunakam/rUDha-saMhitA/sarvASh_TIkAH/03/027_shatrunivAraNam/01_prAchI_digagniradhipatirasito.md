@@ -33,10 +33,8 @@ to 66 syllables (*aṣṭi* is properly 64).
 
 <details><summary>Griffith</summary>
 
-id
-3.27.1    Agni is regent of the East, its warder is Asit...
-3.27.1    This cow was born to bring forth offspring sin...
-Name: Comment, dtype: object
+Agni is regent of the East, its warder is Asita, the Adityas are the arrows.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 
 <details><summary>पदपाठः</summary>

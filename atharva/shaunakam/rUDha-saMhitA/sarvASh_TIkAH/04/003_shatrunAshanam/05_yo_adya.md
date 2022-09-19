@@ -18,10 +18,9 @@ comm. separates *apa* from *dhvaṅsena*, and construes it with *etu;*
 
 <details><summary>Griffith</summary>
 
-id
-4.3.5    The thief who cometh near to-day departeth bru...
-4.3.5    The thief who cometh near to-day departeth bru...
-Name: Comment, dtype: object
+The thief who cometh near to-day departeth bruised and crushed to bits.
+By nearest way let him be gone. Let Indra slay him with his
+bolt.
 </details>
 
 <details><summary>पदपाठः</summary>

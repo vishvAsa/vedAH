@@ -30,9 +30,6 @@ Translated: Ludwig, p. 499; Grill, 33, 118; Griffith, i. 133; Bloomfield, 147, 3
 
 <details><summary>Griffith</summary>
 
-id
-4.3    A Charm against tigers, wolves, thieves and ot...
-4.3    A Charm against tigers, wolves, thieves and ot...
-Name: Comment, dtype: object
+A Charm against tigers, wolves, thieves and other noxious creatures
 </details>
 

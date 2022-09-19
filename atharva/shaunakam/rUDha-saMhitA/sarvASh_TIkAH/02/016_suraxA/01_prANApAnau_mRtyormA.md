@@ -23,10 +23,7 @@ together if viewed as of the same meter.
 
 <details><summary>Griffith</summary>
 
-id
-2.16.1    As Heaven and Earth are not afraid, and never ...
-2.16.1    Guard me from death, Inhaling and Exhaling! Al...
-Name: Comment, dtype: object
+Guard me from death, Inhaling and Exhaling! All bliss to you!
 </details>
 
 <details><summary>पदपाठः</summary>

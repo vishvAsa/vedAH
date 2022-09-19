@@ -16,10 +16,8 @@ makes the adder (*pṛ́dāku*) defender here.
 
 <details><summary>Griffith</summary>
 
-id
-3.27.2    Indra is regent of the South, its warder Tiras...
-3.27.2    She brings destruction on the beasts, turned t...
-Name: Comment, dtype: object
+Indra is regent of the South, its warder Tiraschiraji, and the shafts the Fathers.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 
 <details><summary>पदपाठः</summary>

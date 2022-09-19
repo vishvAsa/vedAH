@@ -16,10 +16,8 @@ and MS. give here Soma as overlord, and the constrictor as defender.
 
 <details><summary>Griffith</summary>
 
-id
-3.27.3    Of the West region Varuna is ruler, Pridaku wa...
-3.27.3    Be thou auspicious to our folk, bring luck to ...
-Name: Comment, dtype: object
+Of the West region Varuna is ruler, Pridaku warder, Nourish ment the arrows.
+Worship, etc.
 </details>
 
 <details><summary>पदपाठः</summary>

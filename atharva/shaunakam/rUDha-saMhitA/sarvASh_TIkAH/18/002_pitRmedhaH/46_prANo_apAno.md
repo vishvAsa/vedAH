@@ -24,10 +24,10 @@ translated; ⌊and the translation is supported by VS. iv. 34⌋. The Prāt.
 
 <details><summary>Griffith</summary>
 
-id
-18.2.46    Invincible through Fervour, they who by their ...
-18.2.46    Inbreath and outbreath, breath diffused, life,...
-Name: Comment, dtype: object
+Inbreath and outbreath, breath diffused, life, sight to look upon
+the Sun
+Seek by a straight unwinding path the Fathers whom King
+Yama rules,
 </details>
 
 <details><summary>पदपाठः</summary>

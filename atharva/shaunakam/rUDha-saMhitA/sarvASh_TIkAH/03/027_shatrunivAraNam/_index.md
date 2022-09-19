@@ -31,9 +31,6 @@ Translated: Weber, xvii. 295; Griffith, i. 121.
 
 <details><summary>Griffith</summary>
 
-id
-3.27    A charm consigning an enemy to the serpents fo...
-3.27    A charm to change the ill-omened birth of twin...
-Name: Comment, dtype: object
+A charm consigning an enemy to the serpents for punishment
 </details>
 

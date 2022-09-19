@@ -26,10 +26,10 @@ is defined by the Anukr. with mechanical correctness.
 
 <details><summary>Griffith</summary>
 
-id
-3.12.6    Thou Pole, in ordered fashion mount the pillar...
-3.12.6    Then verily, I see, yea, also hear them: their...
-Name: Comment, dtype: object
+Thou Pole, in ordered fashion mount the pillar. Strong, shining
+forth afar, keep off our foemen.
+House! let not those who dwell within thee suffer. Live we with
+all our men, a hundred autumns.
 </details>
 
 <details><summary>पदपाठः</summary>

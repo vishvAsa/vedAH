@@ -29,10 +29,10 @@ them." See *Gram.* §595 d.⌋
 
 <details><summary>Griffith</summary>
 
-id
-7.4.1    With thine eleven teams, to aid our wishes, ye...
-7.4.1    With thine eleven teams, to aid our wishes, ye...
-Name: Comment, dtype: object
+With thine eleven teams, to aid our wishes, yea, with thy two-
+and-twenty teams, O Vāyu,
+With all thy three-and-thirty teams for drawing, here loose these
+teams, thou who art prompt to listen!
 </details>
 
 <details><summary>पदपाठः</summary>

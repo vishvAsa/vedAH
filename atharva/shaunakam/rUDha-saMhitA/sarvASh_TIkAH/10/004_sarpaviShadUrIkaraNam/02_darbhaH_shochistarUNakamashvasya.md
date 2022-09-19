@@ -19,10 +19,8 @@ verse as a *gāyatrī* (8 + 11: 6 = 25). O. (and E. in margin) read
 
 <details><summary>Griffith</summary>
 
-id
-10.4.2    The first of all is Indra's car, next is the c...
-10.4.2    Their lustre is the Darbha-grass, its young sh...
-Name: Comment, dtype: object
+Their lustre is the Darbha-grass, its young shoots are their
+horse's tail: the reed's plume is their chariot seat.
 </details>
 
 <details><summary>पदपाठः</summary>

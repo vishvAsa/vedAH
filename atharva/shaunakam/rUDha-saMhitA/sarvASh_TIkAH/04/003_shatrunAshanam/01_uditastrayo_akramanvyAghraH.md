@@ -22,10 +22,10 @@ taken up and buried as one follows the kine.
 
 <details><summary>Griffith</summary>
 
-id
-4.3.1    Three have gone hence and passed away, the man...
-4.3.1    Three have gone hence and passed away, the man...
-Name: Comment, dtype: object
+Three have gone hence and passed away, the man, the tiger,
+and the wolf.
+Down, verily, the rivers flow, down-goeth the celestial Tree,.
+down let our foemen bend and bow.
 </details>
 
 <details><summary>पदपाठः</summary>

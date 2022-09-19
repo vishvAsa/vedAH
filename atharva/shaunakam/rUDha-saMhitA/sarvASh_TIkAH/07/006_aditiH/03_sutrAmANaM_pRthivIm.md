@@ -44,9 +44,9 @@ Which leaketh not, let us mount for prosperity.
 
 <details><summary>Griffith</summary>
 
-7.6.3    Sinless may we ascend, for weal, the vessel, r...
-7.6.3    Sinless may we ascend, for weal, the vessel, r...
-Name: Comment, dtype: object
+Sinless may we ascend, for weal, the vessel, rowed with good
+oars, divine, that never leaketh,
+Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.
 </details>
 
 <details><summary>पदपाठः</summary>

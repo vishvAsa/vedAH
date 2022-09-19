@@ -19,10 +19,10 @@ probably by an error) divides the last word *jáni-tvam* in the
 
 <details><summary>Griffith</summary>
 
-id
-7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
-7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
-Name: Comment, dtype: object
+Aditi is sky, and air's mid-region, Aditi is the father, son, and
+mother,
+Aditi all the Gods and the Five Nations, Aditi what is now and
+what is future.
 </details>
 
 <details><summary>पदपाठः</summary>

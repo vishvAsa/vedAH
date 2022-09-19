@@ -25,10 +25,9 @@ tvam;* but our **d** (with *-vīrāṁ r-*) occurred just before (i. 27. 7).
 
 <details><summary>Griffith</summary>
 
-id
-3.12.5    Queen of the home! thou, sheltering, kindly Go...
-3.12.5    Water is good, water indeed is fatness. Agni a...
-Name: Comment, dtype: object
+Queen of the home! thou, sheltering, kindly Goddess, was established by the Gods in the beginning.  
+Clad in thy robe of grass be friendly-minded, and give us wealth
+with goodly men about us.
 </details>
 
 <details><summary>पदपाठः</summary>

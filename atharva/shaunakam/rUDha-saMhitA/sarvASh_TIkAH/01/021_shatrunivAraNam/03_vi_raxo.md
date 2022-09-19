@@ -16,10 +16,8 @@ RV. and SV. (ii. 1217) have the same text; TS. (i. 6. 12⁵) reads
 
 <details><summary>Griffith</summary>
 
-id
-1.21.3    Strike down the fiend, strike down the foes, b...
-1.21.3    Devatyas that are red of hue, yea, and the rud...
-Name: Comment, dtype: object
+Strike down the fiend, strike down the foes, break thou asunder Vritra s jaws.
+O Indra, Vritra slayer, quell the wrath of the assailing foe.
 </details>
 
 <details><summary>पदपाठः</summary>

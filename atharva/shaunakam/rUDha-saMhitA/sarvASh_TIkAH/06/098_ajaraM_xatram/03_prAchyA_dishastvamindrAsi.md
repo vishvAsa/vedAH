@@ -22,10 +22,10 @@ describes the west; that does not suit the basin of central India.
 
 <details><summary>Griffith</summary>
 
-id
-6.98.3    Thou governest the north and eastern regions, ...
-6.98.3    The daughter of the Asuras art thou, and siste...
-Name: Comment, dtype: object
+Thou governest the north and eastern regions, Indra! fiend-
+slayer! thou destroycst foemen.  
+Thou hast won all, far as the rivers wander. Bull, called to
+help, on our right hand thou goest.
 </details>
 
 <details><summary>पदपाठः</summary>

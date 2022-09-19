@@ -22,10 +22,8 @@ xxxv. 527), is hardly apt.⌋
 
 <details><summary>Griffith</summary>
 
-id
-3.27.6    Brihaspati controls the topmost region, Svitra...
-3.27.6    Where lies the world of those dear friends, th...
-Name: Comment, dtype: object
+Brihaspati controls the topmost region, Svitra is warder, and the Rain the arrows.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship,! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 
 <details><summary>पदपाठः</summary>

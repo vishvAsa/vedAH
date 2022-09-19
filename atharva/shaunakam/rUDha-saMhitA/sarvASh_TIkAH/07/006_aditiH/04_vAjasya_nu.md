@@ -31,10 +31,10 @@ has for **c** the **c** of VS. etc., and for **d** *sā no devī suhavā
 
 <details><summary>Griffith</summary>
 
-id
-7.6.4    Let us bring hither, in pursuit of riches, Adi...
-7.6.4    Let us bring hither, in pursuit of riches, Adi...
-Name: Comment, dtype: object
+Let us bring hither, in pursuit of riches, Aditi with our word,
+the mighty mother,
+Her in whose lap the spacious air is lying: may she afford us
+triply-guarding shelter!
 </details>
 
 <details><summary>पदपाठः</summary>

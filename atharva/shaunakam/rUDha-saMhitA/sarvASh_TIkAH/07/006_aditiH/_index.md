@@ -26,9 +26,6 @@ This verse is, without variation, RV. i. 89. 10 (also VS. xxv. 23; TA. i. 13. 2;
 
 <details><summary>Griffith</summary>
 
-id
-7.6    A prayer to Aditi for help and protection
-7.6    A prayer to Aditi for help and protection
-Name: Comment, dtype: object
+A prayer to Aditi for help and protection
 </details>
 

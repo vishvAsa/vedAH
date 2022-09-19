@@ -23,10 +23,8 @@ reads *hanū* instead of *mukham* in **a**. ⌊Anukr., London ms., has
 
 <details><summary>Griffith</summary>
 
-id
-4.3.3    We crush and rend to pieces both thine eyes, O...
-4.3.3    We crush and rend to pieces both thine eyes, O...
-Name: Comment, dtype: object
+We crush and rend to pieces both thine eyes, O Tiger, and thy
+jaws and all the twenty claws we break.
 </details>
 
 <details><summary>पदपाठः</summary>

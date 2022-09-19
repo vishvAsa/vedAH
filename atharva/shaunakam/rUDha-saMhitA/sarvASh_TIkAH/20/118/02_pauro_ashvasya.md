@@ -5,10 +5,10 @@ title = "०२ पौरो अश्वस्य"
 
 <details><summary>Griffith</summary>
 
-id
-20.118.2    Increaser of our steeds and multiplying kine, ...
-20.118.2    Or, Indra, when with Ruma, Rusama, Syavaka, an...
-Name: Comment, dtype: object
+Increaser of our steeds and multiplying kine, a golden well, O
+God, art thou;
+For no one may impair the gifts laid up in thee, Bring me what-
+ever thing I ask.
 </details>
 
 <details><summary>पदपाठः</summary>

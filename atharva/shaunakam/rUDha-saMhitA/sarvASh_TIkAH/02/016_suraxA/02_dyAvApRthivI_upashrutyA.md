@@ -21,10 +21,8 @@ svāhā.*
 
 <details><summary>Griffith</summary>
 
-id
-2.16.2    As Day and Night are not afraid, nor ever suff...
-2.16.2    Guard me from overhearing, Earth and Heaven! A...
-Name: Comment, dtype: object
+Guard me from overhearing, Earth and Heaven! All hail to
+you!
 </details>
 
 <details><summary>पदपाठः</summary>

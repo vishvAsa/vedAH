@@ -16,10 +16,10 @@ verse in Ppp. is defaced, but apparently has no variants.
 
 <details><summary>Griffith</summary>
 
-id
-4.3.4    We break and rend the tiger first of creatures...
-4.3.4    We break and rend the tiger first of creatures...
-Name: Comment, dtype: object
+We break and rend the tiger first of creatures that are armed.
+with teeth;
+The robber then, and then the snake, the sorcerer, and then the
+wolf.
 </details>
 
 <details><summary>पदपाठः</summary>

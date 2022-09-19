@@ -19,10 +19,10 @@ Read in **b** *vikurváte*.
 
 <details><summary>Griffith</summary>
 
-id
-12.1.43    Earth on whose surface they enclose the altar,...
-12.1.43    Whose castles are the work of Gods, and men wa...
-Name: Comment, dtype: object
+Whose castles are the work of Gods, and men wage war upon
+her plain
+The Lord of Life make Prithivī, who beareth all things in her
+womb, pleasant to us on every side!
 </details>
 
 <details><summary>पदपाठः</summary>

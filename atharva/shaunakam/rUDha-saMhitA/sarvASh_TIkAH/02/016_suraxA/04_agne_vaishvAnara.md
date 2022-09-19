@@ -17,10 +17,7 @@ explanations of *vāiśvānara* 'belonging to all men,' one of them as
 
 <details><summary>Griffith</summary>
 
-id
-2.16.4    As Brahmanhood and Princely Power fear not, no...
-2.16.4    Agni Vaisvanara, with all Gods preserve me! Al...
-Name: Comment, dtype: object
+Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 </details>
 
 <details><summary>पदपाठः</summary>

@@ -30,10 +30,10 @@ xii. 5. 61 and *Index*.—In **a** and **b**, supply "be" rather than
 
 <details><summary>Griffith</summary>
 
-id
-4.3.6    Let the beast's teeth be broken off, shivered ...
-4.3.6    Let the beast's teeth be broken off, shivered ...
-Name: Comment, dtype: object
+Let the beast's teeth be broken off, shivered and shattered be
+his ribs!
+Slack be thy bowstring: downward go the wild beast that
+pursues the hare!
 </details>
 
 <details><summary>पदपाठः</summary>
