@@ -22,7 +22,7 @@ Fervour and Action were the two, in depths of the great billowy sea; Fervour spr
 
 <details><summary>पदपाठः</summary>
 
-तपः। च। एव। आस्ताम्। कर्म। च। अन्तः। महत‍ि। अर्णवे। तपः। ह। जज्ञे। कर्मणः। तत्। ते। ज्येष्ठम्। उप। आसत। १०.६।
+तपः। च। एव। आस्ताम्। कर्म। च। अन्तः। महत᳡ देव॒यज॑नि। अर्णवे। तपः। ह। जज्ञे। कर्मणः। तत्। ते। ज्येष्ठम्। उप। आसत। १०.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

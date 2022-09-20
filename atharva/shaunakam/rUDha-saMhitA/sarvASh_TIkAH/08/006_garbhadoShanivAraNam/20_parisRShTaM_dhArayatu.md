@@ -32,7 +32,7 @@ Let it maintain the genial seed: let the laid embryo rest secure. Let both stron
 
 <details><summary>पदपाठः</summary>
 
-परिऽसृष्टम्। धारयतु। यत्। हितम्। मा। अव। प‍ादि। तत्। गर्भम्। ते। उग्रौ। रक्षताम्। भेषजौ। नीविऽभार्यौ᳡। ६.२०।
+परिऽसृष्टम्। धारयतु। यत्। हितम्। मा। अव। प᳡ देव॒यज॑नादि। तत्। गर्भम्। ते। उग्रौ। रक्षताम्। भेषजौ। नीविऽभार्यौ᳡। ६.२०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

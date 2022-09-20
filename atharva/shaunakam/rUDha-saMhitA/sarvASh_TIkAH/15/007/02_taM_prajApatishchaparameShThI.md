@@ -19,7 +19,7 @@ Prajapati and Parameshthin and the Father and the Great Father and the Waters an
 
 <details><summary>पदपाठः</summary>
 
-तम्। प्रजाऽपतिः। च। परमेऽस्थी। च। प‍िता। च। पितामहः। च। आपः। च। श्रध्दा। च। वर्षम्। भूत्वा। अनुऽव्य᳡वर्तयन्त। ७.२।
+तम्। प्रजाऽपतिः। च। परमेऽस्थी। च। प᳡ देव॒यज॑निता। च। पितामहः। च। आपः। च। श्रध्दा। च। वर्षम्। भूत्वा। अनुऽव्य᳡वर्तयन्त। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

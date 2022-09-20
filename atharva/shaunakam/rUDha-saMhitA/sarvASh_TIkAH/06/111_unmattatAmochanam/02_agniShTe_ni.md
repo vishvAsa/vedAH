@@ -21,7 +21,7 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। ते। नि। शमयतु। यदि। ते। मनः। उत्ऽयुतम्। कृणोमि। व‍िद्वान्। भेषजम्। यथा। अनुत्ऽमदितः। अससि। १११.२।
+अग्निः। ते। नि। शमयतु। यदि। ते। मनः। उत्ऽयुतम्। कृणोमि। व᳡ देव॒यज॑निद्वान्। भेषजम्। यथा। अनुत्ऽमदितः। अससि। १११.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

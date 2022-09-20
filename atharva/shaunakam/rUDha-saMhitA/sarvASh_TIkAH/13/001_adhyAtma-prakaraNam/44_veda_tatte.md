@@ -22,7 +22,7 @@ This, O Immortal One, I know of thee, thy progress to the sky thy dwelling-place
 
 <details><summary>पदपाठः</summary>
 
-वेद। तत्। ते। अमर्त्य। यत्। ते। आऽक्रमणम्। दिवि। यत्। ते। सधऽस्थम्। परमे। व‍िऽओमन्। १.४४।
+वेद। तत्। ते। अमर्त्य। यत्। ते। आऽक्रमणम्। दिवि। यत्। ते। सधऽस्थम्। परमे। व᳡ देव॒यज॑निऽओमन्। १.४४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

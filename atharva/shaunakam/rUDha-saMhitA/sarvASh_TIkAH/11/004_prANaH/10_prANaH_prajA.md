@@ -22,7 +22,7 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 
 <details><summary>पदपाठः</summary>
 
-प्राणः। प्रऽजाः। अनु। वस्ते। पिता। पुत्रम्ऽइव। प्रियम्। प्राणः। ह। सर्वस्‍य। ईश्वरः। यत्। च। प्राणति। यत्। च। न। ६.१०।
+प्राणः। प्रऽजाः। अनु। वस्ते। पिता। पुत्रम्ऽइव। प्रियम्। प्राणः। ह। सर्वस्᳡ देव॒यज॑नय। ईश्वरः। यत्। च। प्राणति। यत्। च। न। ६.१०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

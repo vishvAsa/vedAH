@@ -28,7 +28,7 @@ Then let him seek another Cow, whate'er his profit be in this. The Cow, not give
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। स्यात्। वशाऽभोगः। अन्याम्। इच्छेत। तर्ह‍ि। सः। हिंस्ते। अदत्ता। पुरुषम्। याचिताम्। च। न। दित्सति। ४.१३।
+यः। अस्य। स्यात्। वशाऽभोगः। अन्याम्। इच्छेत। तर्ह᳡ देव॒यज॑नि। सः। हिंस्ते। अदत्ता। पुरुषम्। याचिताम्। च। न। दित्सति। ४.१३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

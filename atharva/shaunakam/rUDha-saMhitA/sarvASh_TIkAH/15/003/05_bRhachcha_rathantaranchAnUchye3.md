@@ -28,7 +28,7 @@ Brihat and Rathantara were the two long boards, Yajnayajniya and Vamadevya the t
 
 <details><summary>पदपाठः</summary>
 
-बृहत्। च। रथम्ऽतरम्। च। अनूच्ये ३ इति। आस्ताम्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। ‍ तिरश्च्ये३ इति। ३.५।
+बृहत्। च। रथम्ऽतरम्। च। अनूच्ये ३ इति। आस्ताम्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। ᳡ देव॒यज॑न तिरश्च्ये३ इति। ३.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

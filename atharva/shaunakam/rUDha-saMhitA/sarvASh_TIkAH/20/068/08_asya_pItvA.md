@@ -10,7 +10,7 @@ Thou, Satakratu, drankest this and wast the Vritras' slayer; thou. Helpest the w
 
 <details><summary>पदपाठः</summary>
 
-अस्य। पीत्वा। शतक्रतो इति शतऽक्रतो। घनः। वृत्राणाम्। अभवः। प्र। आवः। वाजेषु। वाज‍िनम्। ६८.८।
+अस्य। पीत्वा। शतक्रतो इति शतऽक्रतो। घनः। वृत्राणाम्। अभवः। प्र। आवः। वाजेषु। वाज᳡ देव॒यज॑निनम्। ६८.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

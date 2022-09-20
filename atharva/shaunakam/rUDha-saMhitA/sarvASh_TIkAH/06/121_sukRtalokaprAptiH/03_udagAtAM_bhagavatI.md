@@ -24,7 +24,7 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 
 <details><summary>पदपाठः</summary>
 
-उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके‍ इति। प्र। इह। अमृतस्य। यच्छताम्। प्र। एतु। बध्दकऽमोचनम्। १२१.३।
+उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके᳡ देव॒यज॑न इति। प्र। इह। अमृतस्य। यच्छताम्। प्र। एतु। बध्दकऽमोचनम्। १२१.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

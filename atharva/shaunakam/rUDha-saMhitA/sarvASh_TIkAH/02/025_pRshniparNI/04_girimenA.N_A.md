@@ -25,7 +25,7 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 
 <details><summary>पदपाठः</summary>
 
-गिरिम्। एनान्। आ। वेशय। कण्वान्। जीवितऽयोपनान्। तान्। त्वम्। देव‍ि। पृश्निऽपर्णि। अग्निःऽइव। अनुऽदहन्। इहि। २५.४।
+गिरिम्। एनान्। आ। वेशय। कण्वान्। जीवितऽयोपनान्। तान्। त्वम्। देव᳡ देव॒यज॑नि। पृश्निऽपर्णि। अग्निःऽइव। अनुऽदहन्। इहि। २५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

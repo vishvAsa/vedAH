@@ -5,7 +5,7 @@ title = "०८ आय वनेनती"
 
 <details><summary>Griffith</summary>
 
-आय॑ व॒नेन॑ती॒ जनी॑ ॥८॥
+The ladle doth not hold apart the entrails and the clotted blood.
 </details>
 
 <details><summary>पदपाठः</summary>

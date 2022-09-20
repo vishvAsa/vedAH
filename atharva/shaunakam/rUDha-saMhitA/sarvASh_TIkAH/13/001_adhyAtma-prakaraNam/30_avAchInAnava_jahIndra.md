@@ -24,7 +24,7 @@ Beat them down, Indra, with thy bolt, beat them down, mighty with thine arm. I t
 
 <details><summary>पदपाठः</summary>
 
-अवाचीनान्। अव। जहि। इन्द्र। वज्रेण‍। बाहुऽमान्। अध। सऽपत्नान्। मामकान्। अग्ने। तेजःऽभिः। आ। अदिषि। १.३०।
+अवाचीनान्। अव। जहि। इन्द्र। वज्रेण᳡ देव॒यज॑न। बाहुऽमान्। अध। सऽपत्नान्। मामकान्। अग्ने। तेजःऽभिः। आ। अदिषि। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

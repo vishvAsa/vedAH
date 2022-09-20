@@ -22,7 +22,7 @@ The Brahman takes away the robe as a fair thing that brings good luck. He knows 
 
 <details><summary>पदपाठः</summary>
 
-सः। इत्। तत्। स्योनम्। हरति। ब्रह्मा। वासः। सुऽमङ्गलम्। प्रायश्चित्त‍िम्। यः। अधिऽएति। येन। जाया। न। रिष्यति। १.३०।
+सः। इत्। तत्। स्योनम्। हरति। ब्रह्मा। वासः। सुऽमङ्गलम्। प्रायश्चित्त᳡ देव॒यज॑निम्। यः। अधिऽएति। येन। जाया। न। रिष्यति। १.३०।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

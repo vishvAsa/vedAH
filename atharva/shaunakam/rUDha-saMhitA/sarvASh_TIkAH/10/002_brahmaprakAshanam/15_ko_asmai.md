@@ -21,7 +21,7 @@ Who wrapped a garment round him? Who arranged the life he hath to live? Who gran
 
 <details><summary>पदपाठः</summary>
 
-कः। अस्मै। वासः। पर‍ि। अदधात्। कः। अस्य। आयुः। अकल्पयत्। बलम्। कः। अस्मै। प्र। अयच्छत्। कः। अस्य। अकल्पयत्। जवम्। २.१५।
+कः। अस्मै। वासः। पर᳡ देव॒यज॑नि। अदधात्। कः। अस्य। आयुः। अकल्पयत्। बलम्। कः। अस्मै। प्र। अयच्छत्। कः। अस्य। अकल्पयत्। जवम्। २.१५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

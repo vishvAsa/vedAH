@@ -35,7 +35,7 @@ Here was the horse of Pedu born: this is the way that takes him hence. These are
 
 <details><summary>पदपाठः</summary>
 
-इदम्। पैद्वः। अजायत। इदम्। अस्‍य। पराऽअयनम्। इमानि। अर्वतः। पदा। अहिऽघ्न्यः। वाजिनीऽवतः। ४.७।
+इदम्। पैद्वः। अजायत। इदम्। अस्᳡ देव॒यज॑नय। पराऽअयनम्। इमानि। अर्वतः। पदा। अहिऽघ्न्यः। वाजिनीऽवतः। ४.७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

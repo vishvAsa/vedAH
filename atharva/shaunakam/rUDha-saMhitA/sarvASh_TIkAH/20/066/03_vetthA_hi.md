@@ -10,7 +10,7 @@ Thou knowest, Indra, thunder-armed, how to avoid destructive Powers, As one secu
 
 <details><summary>पदपाठः</summary>
 
-वेत्थ। हि। निःऽऋतीनाम्। वज्रऽहस्त। ‍ परिऽवृजम्। अहःऽअहः। शुन्ध्युः। परिपदाम्ऽइव। ६६.३।
+वेत्थ। हि। निःऽऋतीनाम्। वज्रऽहस्त। ᳡ देव॒यज॑न परिऽवृजम्। अहःऽअहः। शुन्ध्युः। परिपदाम्ऽइव। ६६.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

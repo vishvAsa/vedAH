@@ -21,7 +21,7 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 
 <details><summary>पदपाठः</summary>
 
-यत्‍। उवक्थ। अनृतम्‍। जिह्वया। वृजिनम्‍। बहु। राज्ञः। त्वा। सत्यऽधर्मणः। मुञ्चामि। वरुणात्। अहम्।
+यत्᳡ देव॒यज॑न। उवक्थ। अनृतम्᳡ देव॒यज॑न। जिह्वया। वृजिनम्᳡ देव॒यज॑न। बहु। राज्ञः। त्वा। सत्यऽधर्मणः। मुञ्चामि। वरुणात्। अहम्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

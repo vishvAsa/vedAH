@@ -10,7 +10,7 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar: We ma
 
 <details><summary>पदपाठः</summary>
 
-अगन्। इन्द्र। अवः। बृहत्। द्युम्नम्। ‍दधि‍ष्व। दुस्तरम्। उत्। ते। शुष्मम्। तिरामसि। २०.३।
+अगन्। इन्द्र। अवः। बृहत्। द्युम्नम्। ᳡ देव॒यज॑नदधि᳡ देव॒यज॑नष्व। दुस्तरम्। उत्। ते। शुष्मम्। तिरामसि। २०.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

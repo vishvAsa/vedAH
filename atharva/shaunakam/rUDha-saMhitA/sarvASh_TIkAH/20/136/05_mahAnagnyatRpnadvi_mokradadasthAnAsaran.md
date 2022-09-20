@@ -10,7 +10,7 @@ Magnopere delectata est arnica: ut equns solutus adveniens vocem edidit: Vaginam
 
 <details><summary>पदपाठः</summary>
 
-महान्। अग्नी इत‍ि। अतृप्नत्। वि। मोक्रदत्। अस्थाना। आसरन्। शक्तिकाननाः। स्वचमशकम्। सक्तु। पद्यम्। १३६.५।
+महान्। अग्नी इत᳡ देव॒यज॑नि। अतृप्नत्। वि। मोक्रदत्। अस्थाना। आसरन्। शक्तिकाननाः। स्वचमशकम्। सक्तु। पद्यम्। १३६.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

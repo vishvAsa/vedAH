@@ -5,7 +5,7 @@ title = "०२ तस्य अनु"
 
 <details><summary>Griffith</summary>
 
-तस्य॑ अनु॒ निभ॑ञ्जनम्॥२॥
+crush it and let it be destroyed.
 </details>
 
 <details><summary>पदपाठः</summary>

@@ -10,7 +10,7 @@ The most unprofitable churl, the wealthy men who brings no. gift, These, verily,
 
 <details><summary>पदपाठः</summary>
 
-यः। च। पणि। रघुजिष्ठ्यः। यः। च। देवान्। ‍ अदाशुरिः। धीराणाम्। शश्वताम्। अहम्। तत्। अपाक्। इति। शुश्रुम। १२८.४।
+यः। च। पणि। रघुजिष्ठ्यः। यः। च। देवान्। ᳡ देव॒यज॑न अदाशुरिः। धीराणाम्। शश्वताम्। अहम्। तत्। अपाक्। इति। शुश्रुम। १२८.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

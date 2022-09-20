@@ -29,7 +29,7 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 
 <details><summary>पदपाठः</summary>
 
-ऋतस्‍य। ऋतेन। आदित्याः। यजत्राः। मुञ्चत। इह। नः। यज्ञम्। यत्। यज्ञऽवाहसः। शिक्षन्तः। न। उपऽशेकिम। ११४.२।
+ऋतस्᳡ देव॒यज॑नय। ऋतेन। आदित्याः। यजत्राः। मुञ्चत। इह। नः। यज्ञम्। यत्। यज्ञऽवाहसः। शिक्षन्तः। न। उपऽशेकिम। ११४.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

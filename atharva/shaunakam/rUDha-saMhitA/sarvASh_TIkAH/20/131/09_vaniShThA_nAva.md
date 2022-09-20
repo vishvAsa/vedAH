@@ -10,7 +10,7 @@ Undecked with gems, and decked with gems: deity rivalling the Sun.
 
 <details><summary>पदपाठः</summary>
 
-वनिष्ठाः। न। अव। गृह्यन्‍त‍ि। १३१.९।
+वनिष्ठाः। न। अव। गृह्यन्᳡ देव॒यज॑नत᳡ देव॒यज॑नि। १३१.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

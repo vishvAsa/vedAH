@@ -18,7 +18,7 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 
 <details><summary>पदपाठः</summary>
 
-यम्। विश्वे। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपा‍मि। वरुणस्य। धर्मणा। १३२.२।
+यम्। विश्वे। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपा᳡ देव॒यज॑नमि। वरुणस्य। धर्मणा। १३२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

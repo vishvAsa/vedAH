@@ -10,7 +10,7 @@ The ladle doth not hold apart the entrails and the clotted blood.
 
 <details><summary>पदपाठः</summary>
 
-एनश्चिपङ्क्त‍िका। हविः। १३०.११।
+एनश्चिपङ्क्त᳡ देव॒यज॑निका। हविः। १३०.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

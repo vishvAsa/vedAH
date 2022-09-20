@@ -10,7 +10,7 @@ Craving his touch the dappled Kine mingle the Soma with their milk. The milch-ki
 
 <details><summary>पदपाठः</summary>
 
-ताः। अस्‍य। पृशनऽयुवः। सोमम्। श्रीणन्ति। पृश्नयः। प्रियाः। इन्द्रस्य। धेनवः। वज्रम्। हिन्वन्ति। सायकम्। १०९.२।
+ताः। अस्᳡ देव॒यज॑नय। पृशनऽयुवः। सोमम्। श्रीणन्ति। पृश्नयः। प्रियाः। इन्द्रस्य। धेनवः। वज्रम्। हिन्वन्ति। सायकम्। १०९.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

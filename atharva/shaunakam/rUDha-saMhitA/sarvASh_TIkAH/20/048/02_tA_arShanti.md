@@ -10,7 +10,7 @@ Swift move the bright ones while they blend the Milk with vital vigour, as A dam
 
 <details><summary>पदपाठः</summary>
 
-ताः। अर्षन्त‍ि। शुभ्रियः। पृञ्चन्तीः। वर्चसा। प्रियः। जातम्। जात्रीः। यथा। हृदा। ४८.२।
+ताः। अर्षन्त᳡ देव॒यज॑नि। शुभ्रियः। पृञ्चन्तीः। वर्चसा। प्रियः। जातम्। जात्रीः। यथा। हृदा। ४८.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Sing forth to him whom many men invoke, to him whom many laud: Invite the potent
 
 <details><summary>पदपाठः</summary>
 
-तम्। ऊं इति। अभ‍ि। प्र। गायत। पुरुऽहूतम्। पुरुस्तुतम्। इन्द्रम्। गीऽभिः। तविषम्। आ। विवासत। ६१.४।
+तम्। ऊं इति। अभ᳡ देव॒यज॑नि। प्र। गायत। पुरुऽहूतम्। पुरुस्तुतम्। इन्द्रम्। गीऽभिः। तविषम्। आ। विवासत। ६१.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

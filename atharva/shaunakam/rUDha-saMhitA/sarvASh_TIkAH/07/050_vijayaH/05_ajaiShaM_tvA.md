@@ -31,7 +31,7 @@ I have completely cleaned thee out, won from thee what thou keptest back. As a w
 
 <details><summary>पदपाठः</summary>
 
-अजैषम्। त्वा। सम्ऽलिख‍ितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृकः। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५।
+अजैषम्। त्वा। सम्ऽलिख᳡ देव॒यज॑नितम्। अजैषम्। उत। सम्ऽरुधम्। अविम्। वृकः। यथा। मथत्। एव। मथ्नामि। ते। कृतम्। ५२.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -32,7 +32,7 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 
 <details><summary>पदपाठः</summary>
 
-सोमऽजुष्टम्। ब्रह्मऽजुष्टम्। अर्यम्णा। सम्ऽभृतम्। भगम्। धातुः। देवस्‍य। सत्येन। कृणोमि। पतिऽवेदनम्। ३६.२।
+सोमऽजुष्टम्। ब्रह्मऽजुष्टम्। अर्यम्णा। सम्ऽभृतम्। भगम्। धातुः। देवस्᳡ देव॒यज॑नय। सत्येन। कृणोमि। पतिऽवेदनम्। ३६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

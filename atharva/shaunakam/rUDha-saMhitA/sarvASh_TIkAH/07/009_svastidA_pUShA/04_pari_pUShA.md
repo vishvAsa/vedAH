@@ -24,7 +24,7 @@ From out the distance, far and wide, may Pushan stretch his right hand forth. Le
 
 <details><summary>पदपाठः</summary>
 
-परि। पूषा। परस्तात्। हस्तम्। दधातु। दक्ष‍िणम्। पुनः। नः। नष्टम्। आ। अजतु। सम्। नष्टेन। गमेमहि। १०.४।
+परि। पूषा। परस्तात्। हस्तम्। दधातु। दक्ष᳡ देव॒यज॑निणम्। पुनः। नः। नष्टम्। आ। अजतु। सम्। नष्टेन। गमेमहि। १०.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

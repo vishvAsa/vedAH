@@ -24,7 +24,7 @@ Forth from the hollow let it run, and rumbling sounds from thine inside. I have 
 
 <details><summary>पदपाठः</summary>
 
-बहिः। ब‍िलम्। निः। द्रवतु। काहाबाहम्। तव। उदरात्। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.११।
+बहिः। ब᳡ देव॒यज॑निलम्। निः। द्रवतु। काहाबाहम्। तव। उदरात्। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.११।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

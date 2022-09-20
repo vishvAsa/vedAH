@@ -29,7 +29,7 @@ Brahma hath passed within the fort, the golden castle; ne'er subdued, Bright wit
 
 <details><summary>पदपाठः</summary>
 
-प्रऽभ्राजमानाम्। हरिणीम्। यशसा। सम्ऽपरिवृताम्। पुरम्। ह‍िरण्ययीम्। ब्रह्म। आ। विवेश। अपराऽजिताम्। २.३३।
+प्रऽभ्राजमानाम्। हरिणीम्। यशसा। सम्ऽपरिवृताम्। पुरम्। ह᳡ देव॒यज॑निरण्ययीम्। ब्रह्म। आ। विवेश। अपराऽजिताम्। २.३३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

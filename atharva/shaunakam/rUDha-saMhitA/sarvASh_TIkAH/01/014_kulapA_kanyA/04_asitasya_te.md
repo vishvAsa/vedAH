@@ -26,7 +26,7 @@ With Asita's and Kasyapa's and Gaya's incantation, thus As sisters pack within a
 
 <details><summary>पदपाठः</summary>
 
-असितस्य। ते। ब्रह्मणा। कश्यपस्य। गयस्य। च। अन्‍तःकोशम्ऽइव। जामयः। अपि। नह्यामि। ते। भगम्।
+असितस्य। ते। ब्रह्मणा। कश्यपस्य। गयस्य। च। अन्᳡ देव॒यज॑नतःकोशम्ऽइव। जामयः। अपि। नह्यामि। ते। भगम्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

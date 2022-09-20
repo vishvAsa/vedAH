@@ -25,7 +25,7 @@ With this my robe, inherited from Manu, I envelop thee, So that thou mayst be al
 
 <details><summary>पदपाठः</summary>
 
-अभ‍ि। त्वा। मनुऽजातेन। दधामि। मम। वाससा। यथा। असः। मम। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३८.१।
+अभ᳡ देव॒यज॑नि। त्वा। मनुऽजातेन। दधामि। मम। वाससा। यथा। असः। मम। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

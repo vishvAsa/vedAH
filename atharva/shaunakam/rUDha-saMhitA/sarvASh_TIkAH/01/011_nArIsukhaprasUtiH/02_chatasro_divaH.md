@@ -28,7 +28,7 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 
 <details><summary>पदपाठः</summary>
 
-चतस्रः‍। दिवः। प्रऽदिशः। चतस्रः। भूम्याः। उत। देवाः। गर्भम्। सम्। ऐरयन्। तम्। वि। ऊर्णुवन्तु। सूतवे।
+चतस्रः᳡ देव॒यज॑न। दिवः। प्रऽदिशः। चतस्रः। भूम्याः। उत। देवाः। गर्भम्। सम्। ऐरयन्। तम्। वि। ऊर्णुवन्तु। सूतवे।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

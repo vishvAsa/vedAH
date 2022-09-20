@@ -29,7 +29,7 @@ A mighty rampart built of sand hath circled and encompassed you: Be still, and q
 
 <details><summary>पदपाठः</summary>
 
-परि। वः‍। सिकताऽवती। धनूः। बृहती। अक्रमीत्। ‍तिष्ठत। इलयत। सु। कम्।
+परि। वः᳡ देव॒यज॑न। सिकताऽवती। धनूः। बृहती। अक्रमीत्। ᳡ देव॒यज॑नतिष्ठत। इलयत। सु। कम्।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

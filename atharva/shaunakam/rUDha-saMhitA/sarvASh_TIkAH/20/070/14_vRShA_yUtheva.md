@@ -10,7 +10,7 @@ Even as the bull drives on the herds, he drives the people with his might, The r
 
 <details><summary>पदपाठः</summary>
 
-वृषा। यूथाऽइव। वंसगः। कृष्टीः। इयर्ति। ओजसा। ईशानः। अप्रत‍िऽस्फुतः। ७०.१४।
+वृषा। यूथाऽइव। वंसगः। कृष्टीः। इयर्ति। ओजसा। ईशानः। अप्रत᳡ देव॒यज॑निऽस्फुतः। ७०.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 
 <details><summary>पदपाठः</summary>
 
-‍किलासम्। च। पलितम्। च। निः। इतः। नाशय। पृषत्। आ। त्वा। स्वः। विशताम्। वर्णः। परा। शुक्लानि। पातय।
+᳡ देव॒यज॑नकिलासम्। च। पलितम्। च। निः। इतः। नाशय। पृषत्। आ। त्वा। स्वः। विशताम्। वर्णः। परा। शुक्लानि। पातय।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

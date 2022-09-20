@@ -10,7 +10,7 @@ We compass thee like waters, we whose grass in trimmed and Soma pressed. Here wh
 
 <details><summary>पदपाठः</summary>
 
-वयम्। घ। त्वा। सुतऽवन्तः। आपः। न। वृक्तऽबर्ह‍िषः। पवित्रस्य। प्रऽस्रवणेषु। वृत्रऽहन्। परि। स्तोतारः। आसते। ५७.१४।
+वयम्। घ। त्वा। सुतऽवन्तः। आपः। न। वृक्तऽबर्ह᳡ देव॒यज॑निषः। पवित्रस्य। प्रऽस्रवणेषु। वृत्रऽहन्। परि। स्तोतारः। आसते। ५७.१४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, huj
 
 <details><summary>पदपाठः</summary>
 
-येन। कृशम्। वाजयन्ति। येन। हिन्वन्ति। आतुरम्। तेन। अस्‍य। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। १०१.२।
+येन। कृशम्। वाजयन्ति। येन। हिन्वन्ति। आतुरम्। तेन। अस्᳡ देव॒यज॑नय। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। १०१.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

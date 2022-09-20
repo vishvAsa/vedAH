@@ -30,7 +30,7 @@ The faithless, who from lust of wealth abide with him who feeds on flesh, For ev
 
 <details><summary>पदपाठः</summary>
 
-ये। अश्रध्दाः। धनऽकाम्या। क्रव्यऽअदा। सम्ऽआसते। ते। वै। ‍ अन्येषाम्। कुम्भीम्। परिऽआदधति। सर्वदा। २.५१।
+ये। अश्रध्दाः। धनऽकाम्या। क्रव्यऽअदा। सम्ऽआसते। ते। वै। ᳡ देव॒यज॑न अन्येषाम्। कुम्भीम्। परिऽआदधति। सर्वदा। २.५१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

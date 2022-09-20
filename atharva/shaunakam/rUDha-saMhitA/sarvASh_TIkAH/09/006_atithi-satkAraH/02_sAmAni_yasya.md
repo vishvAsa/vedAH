@@ -25,7 +25,7 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 
 <details><summary>पदपाठः</summary>
 
-सामानि। यस्य। लोमानि। यजुः। हृदयम्। उच्यते। परिऽस्तरणम्। इत्। ‍ हविः। ६.२।
+सामानि। यस्य। लोमानि। यजुः। हृदयम्। उच्यते। परिऽस्तरणम्। इत्। ᳡ देव॒यज॑न हविः। ६.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

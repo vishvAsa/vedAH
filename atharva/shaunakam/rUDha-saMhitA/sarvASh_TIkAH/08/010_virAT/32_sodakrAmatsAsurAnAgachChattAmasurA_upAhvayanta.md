@@ -18,7 +18,7 @@ The poison that it drives away, that poison verily repels.
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। असुरान्। आ। अगच्छत्। ताम्। असुराः। उप। अह्वयन्त। मयि। आ। इह‍ि। इति। १३.१।
+सा। उत्। अक्रामत्। सा। असुरान्। आ। अगच्छत्। ताम्। असुराः। उप। अह्वयन्त। मयि। आ। इह᳡ देव॒यज॑नि। इति। १३.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

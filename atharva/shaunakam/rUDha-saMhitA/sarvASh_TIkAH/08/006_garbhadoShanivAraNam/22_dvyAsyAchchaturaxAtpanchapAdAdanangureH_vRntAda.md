@@ -24,7 +24,7 @@ From the five-footed, fingerless, from the four-eyed, the double- faced, From th
 
 <details><summary>पदपाठः</summary>
 
-द्विऽआस्यात्। चतुःऽअक्षात्। पञ्चऽपादात्। अनङ्गुरेः। वृन्तात्। अभ‍ि। प्रऽसर्पतः। परि। पाहि। वरीवृतात्। ६.२२।
+द्विऽआस्यात्। चतुःऽअक्षात्। पञ्चऽपादात्। अनङ्गुरेः। वृन्तात्। अभ᳡ देव॒यज॑नि। प्रऽसर्पतः। परि। पाहि। वरीवृतात्। ६.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

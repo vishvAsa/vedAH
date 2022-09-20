@@ -30,7 +30,7 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 
 <details><summary>पदपाठः</summary>
 
-यः। अद्य। स्तेनः। आऽअयति। अघऽयुः। मर्त्यः। रिपुः। रात्री। तस्य। प्रतिऽइत्‍य। प्र। ग्रीवाः। प्र। शिरः। हनत्। ४९.९।
+यः। अद्य। स्तेनः। आऽअयति। अघऽयुः। मर्त्यः। रिपुः। रात्री। तस्य। प्रतिऽइत्᳡ देव॒यज॑नय। प्र। ग्रीवाः। प्र। शिरः। हनत्। ४९.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

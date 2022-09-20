@@ -21,7 +21,7 @@ I summon him with the awful cruel orders of the Gods.
 
 <details><summary>पदपाठः</summary>
 
-देवानाम्। एनम्। घोरैः। क्रूरैः। प्रऽएषैः। अभ‍िऽप्रेष्यामि। ७.२।
+देवानाम्। एनम्। घोरैः। क्रूरैः। प्रऽएषैः। अभ᳡ देव॒यज॑निऽप्रेष्यामि। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

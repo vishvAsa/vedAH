@@ -21,7 +21,7 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 
 <details><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्‍य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।
+मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्᳡ देव॒यज॑नय। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

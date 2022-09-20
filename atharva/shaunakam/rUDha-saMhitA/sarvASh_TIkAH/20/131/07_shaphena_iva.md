@@ -5,7 +5,7 @@ title = "०७ शफेन इव"
 
 <details><summary>Griffith</summary>
 
-Not to the belly comes the grain. The patient ones are angry now.
+Fat is not reckoned in the hoof.
 </details>
 
 <details><summary>पदपाठः</summary>

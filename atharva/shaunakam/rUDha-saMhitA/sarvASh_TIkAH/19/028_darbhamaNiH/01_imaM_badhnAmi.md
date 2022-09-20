@@ -22,7 +22,7 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 
 <details><summary>पदपाठः</summary>
 
-इमम्। बध्नामि। ते। मणिम्। दीर्घायुऽत्वाय। तेजसे। दर्भम्। सपत्नऽदम्भनम्। द्विषतः। तपनम्। हृदः। २८.१। ‍
+इमम्। बध्नामि। ते। मणिम्। दीर्घायुऽत्वाय। तेजसे। दर्भम्। सपत्नऽदम्भनम्। द्विषतः। तपनम्। हृदः। २८.१। ᳡ देव॒यज॑न
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

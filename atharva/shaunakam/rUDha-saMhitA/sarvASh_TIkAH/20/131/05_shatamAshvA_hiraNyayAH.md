@@ -5,7 +5,8 @@ title = "०५ शतमाश्वा हिरण्ययाः"
 
 <details><summary>Griffith</summary>
 
-Question this man, Where do I ask? Where, whom that knoweth do I ask?
+A hundred golden steeds hath he, a hundred chariots wrought of gold.  
+A hundred bits of golden bronze, a hundred golden necklaces.
 </details>
 
 <details><summary>पदपाठः</summary>

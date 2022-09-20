@@ -10,7 +10,7 @@ Never may we be cast aside and strangers, as it were to thee. We, Thunder-wieldi
 
 <details><summary>पदपाठः</summary>
 
-मा। भूम। निष्ट्याःऽइव। इन्द्र। त्वत्। अरणाःऽइव। वनानि। न। प्रऽजहितानि। अद्रिऽवः। दुरोषासः। अमन्मह‍ि। ११६.१।
+मा। भूम। निष्ट्याःऽइव। इन्द्र। त्वत्। अरणाःऽइव। वनानि। न। प्रऽजहितानि। अद्रिऽवः। दुरोषासः। अमन्मह᳡ देव॒यज॑नि। ११६.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

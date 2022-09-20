@@ -10,7 +10,7 @@ To thee, Strong, Much-invoked who showest forth thy strength, O Satakratu, do I 
 
 <details><summary>पदपाठः</summary>
 
-त्वाम्। शुष्मिन्। पुरुऽहूत। वाजऽयन्तम्। उप। ब्रुवे। शतक्रतो इति शतऽक्रतो। सः। नः। रास्‍व। सुऽवीर्यम्। १०८.३।
+त्वाम्। शुष्मिन्। पुरुऽहूत। वाजऽयन्तम्। उप। ब्रुवे। शतक्रतो इति शतऽक्रतो। सः। नः। रास्᳡ देव॒यज॑नव। सुऽवीर्यम्। १०८.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

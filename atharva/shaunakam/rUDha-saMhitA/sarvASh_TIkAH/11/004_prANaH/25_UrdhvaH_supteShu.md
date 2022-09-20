@@ -27,7 +27,7 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वः। सुप्तेषु। जागार। ननु। तिर्यङ्। नि। पद्यते। न। सुप्तम्। अस्‍य। सुप्तेषु। अनु। शुश्राव। कः। चन। ६.२५।
+ऊर्ध्वः। सुप्तेषु। जागार। ननु। तिर्यङ्। नि। पद्यते। न। सुप्तम्। अस्᳡ देव॒यज॑नय। सुप्तेषु। अनु। शुश्राव। कः। चन। ६.२५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

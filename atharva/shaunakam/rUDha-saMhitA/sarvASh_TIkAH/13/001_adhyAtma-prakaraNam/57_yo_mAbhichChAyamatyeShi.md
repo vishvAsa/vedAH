@@ -23,7 +23,7 @@ Thou who, between the fire and me, passest across the line of shade. Thy root I 
 
 <details><summary>पदपाठः</summary>
 
-यः। मा। अभिऽछायम्। अत‍िऽएषिः। माम्। च। अग्निम्। च। अन्तरा। तस्य। वृश्चामि। ते। मूलम्। न। छायाम्। करवः। अपरम्। १.५७।
+यः। मा। अभिऽछायम्। अत᳡ देव॒यज॑निऽएषिः। माम्। च। अग्निम्। च। अन्तरा। तस्य। वृश्चामि। ते। मूलम्। न। छायाम्। करवः। अपरम्। १.५७।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

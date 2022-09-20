@@ -24,7 +24,7 @@ Let Surya protect me from Day, Agni from Earth, Vayu from Firmament, Yama from m
 
 <details><summary>पदपाठः</summary>
 
-सूर्यः। मा। अह्नः। पातु। अग्निः। पृथिव्याः। वायुः। अन्तर‍िक्षात्। यमः। मनुष्ये᳡भ्यः। सरस्वती। पार्थिवेभ्यः। ४.४।
+सूर्यः। मा। अह्नः। पातु। अग्निः। पृथिव्याः। वायुः। अन्तर᳡ देव॒यज॑निक्षात्। यमः। मनुष्ये᳡भ्यः। सरस्वती। पार्थिवेभ्यः। ४.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

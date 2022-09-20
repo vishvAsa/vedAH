@@ -38,7 +38,7 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 
 <details><summary>पदपाठः</summary>
 
-प्र। नभस्व। पृथिव‍ि। भिन्ध्दि। इदम्। दिव्यम्। नभः। उद्गः। दिव्यस्य। नः। धातः। ईशानः। वि। स्य। दृतिम्। १९.१।
+प्र। नभस्व। पृथिव᳡ देव॒यज॑नि। भिन्ध्दि। इदम्। दिव्यम्। नभः। उद्गः। दिव्यस्य। नः। धातः। ईशानः। वि। स्य। दृतिम्। १९.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ From far away, from near at hand, O Vritra-slayer, come to us: Accept the songs 
 
 <details><summary>पदपाठः</summary>
 
-अर्वाऽवतः। नः। आ। गहि। पराऽवतः। च। वृत्रऽहन्। इमाः। जुषस्व। नः। ग‍िरः। ६.८।
+अर्वाऽवतः। नः। आ। गहि। पराऽवतः। च। वृत्रऽहन्। इमाः। जुषस्व। नः। ग᳡ देव॒यज॑निरः। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

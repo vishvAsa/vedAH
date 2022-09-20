@@ -19,7 +19,7 @@ We know thine origin, O Sleep. Thou art the son of Disappear- ance, etc.
 
 <details><summary>पदपाठः</summary>
 
-विद्म। ते। स्वप्न। जनित्रम्। न‍िःऽऋत्याः। पुत्रः। असि। यमस्य। करणः। ५.४।
+विद्म। ते। स्वप्न। जनित्रम्। न᳡ देव॒यज॑निःऽऋत्याः। पुत्रः। असि। यमस्य। करणः। ५.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Him who with might of both his arms brake nine-and ninety castles down, Slew Vri
 
 <details><summary>पदपाठः</summary>
 
-नव। यः। नवतिम्। पुरः। बिभेद। बाहुऽओजसा। अह‍िम्। च। वृत्रऽहा। अवधीत्। ७.२।
+नव। यः। नवतिम्। पुरः। बिभेद। बाहुऽओजसा। अह᳡ देव॒यज॑निम्। च। वृत्रऽहा। अवधीत्। ७.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

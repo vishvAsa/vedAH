@@ -10,7 +10,7 @@ The worshipper who pours the juice, for gathering and assembly fit, And yonder f
 
 <details><summary>पदपाठः</summary>
 
-यः। सभेयः। विद‍थ्यः। सुत्वा। यज्वा। अथ। पूरुषः। सूर्यम्। च। अमू। रिशादसः। तत्। देवाः। प्राक्। अकल्पयन्। १२८.१।
+यः। सभेयः। विद᳡ देव॒यज॑नथ्यः। सुत्वा। यज्वा। अथ। पूरुषः। सूर्यम्। च। अमू। रिशादसः। तत्। देवाः। प्राक्। अकल्पयन्। १२८.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

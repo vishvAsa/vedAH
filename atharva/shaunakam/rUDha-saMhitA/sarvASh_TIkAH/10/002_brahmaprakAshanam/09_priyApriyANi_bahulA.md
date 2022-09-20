@@ -21,7 +21,7 @@ Whence bringeth mighty Purusha both pleasant and unpleasant things, Of varied so
 
 <details><summary>पदपाठः</summary>
 
-प्रियऽअप्रियाणि। बहुला। स्वप्नम्। संबाधऽतन्‍द्र्यः᳡। आऽनन्दान्। उग्रः। नन्दान्। च। कस्मात्। वहति। पुरुषः। २.९।
+प्रियऽअप्रियाणि। बहुला। स्वप्नम्। संबाधऽतन्᳡ देव॒यज॑नद्र्यः᳡। आऽनन्दान्। उग्रः। नन्दान्। च। कस्मात्। वहति। पुरुषः। २.९।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Whether the men who mock us say, Depart unto another place, Ye who serve Indra a
 
 <details><summary>पदपाठः</summary>
 
-उत। ब्रुवन्तु। नः। न‍िदः। निः। अन्यतः। चित्। आरत। दधानाः। इन्द्रे। इत्। दुवः। ६८.५।
+उत। ब्रुवन्तु। नः। न᳡ देव॒यज॑निदः। निः। अन्यतः। चित्। आरत। दधानाः। इन्द्रे। इत्। दुवः। ६८.५।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

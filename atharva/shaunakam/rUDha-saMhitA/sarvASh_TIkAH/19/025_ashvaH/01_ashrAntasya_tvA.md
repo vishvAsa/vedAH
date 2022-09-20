@@ -30,7 +30,7 @@ I yoke thee with the mind of one unwearied still and first of all. Be thou a bea
 
 <details><summary>पदपाठः</summary>
 
-अश्रान्तस्य। त्वा। मनसा। युनज्म‍ि। प्रथमस्य। च। उत्ऽकूलम्। उत्ऽवहः। भव। उत्ऽउह्य। प्रति। धावतात्। २५.१।
+अश्रान्तस्य। त्वा। मनसा। युनज्म᳡ देव॒यज॑नि। प्रथमस्य। च। उत्ऽकूलम्। उत्ऽवहः। भव। उत्ऽउह्य। प्रति। धावतात्। २५.१।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give 
 
 <details><summary>पदपाठः</summary>
 
-देवः। मणिः। सपत्नऽहाः। धनऽसाः। धनऽसातये। पशोः। अन्नस्‍य। भूमानम्। गवाम्। स्फातिम्। नि। यच्छतु। ३१.८।
+देवः। मणिः। सपत्नऽहाः। धनऽसाः। धनऽसातये। पशोः। अन्नस्᳡ देव॒यज॑नय। भूमानम्। गवाम्। स्फातिम्। नि। यच्छतु। ३१.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

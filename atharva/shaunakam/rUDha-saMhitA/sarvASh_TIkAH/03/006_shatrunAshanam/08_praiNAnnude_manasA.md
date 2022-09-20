@@ -28,7 +28,7 @@ With mental power I drive them forth, drive them with intellect and charm. We ba
 
 <details><summary>पदपाठः</summary>
 
-प्र। एनान्। नुदे। मनसा। प्र। चित्तेन। उत। ब्रह्मणा। प्र। एनान्। वृक्षस्‍य। शाखया। अश्वत्थस्य। नुदामहे। ६.८।
+प्र। एनान्। नुदे। मनसा। प्र। चित्तेन। उत। ब्रह्मणा। प्र। एनान्। वृक्षस्᳡ देव॒यज॑नय। शाखया। अश्वत्थस्य। नुदामहे। ६.८।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

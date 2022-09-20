@@ -10,7 +10,7 @@ Hither his bay steeds have been sent, red steeds are on the sacred grass. Where 
 
 <details><summary>पदपाठः</summary>
 
-आ। हरयः। ससृज्रिरे। अरुषीः। अधि। ‍बर्हिषि। यत्र। अभि। सम्ऽनवामहे। ९२.२।
+आ। हरयः। ससृज्रिरे। अरुषीः। अधि। ᳡ देव॒यज॑नबर्हिषि। यत्र। अभि। सम्ऽनवामहे। ९२.२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

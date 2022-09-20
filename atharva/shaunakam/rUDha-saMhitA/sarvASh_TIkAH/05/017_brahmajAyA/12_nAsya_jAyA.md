@@ -22,7 +22,7 @@ No lovely wife who brings her dower in hundreds rests upon his bed, Within whose
 
 <details><summary>पदपाठः</summary>
 
-न। अस्‍य। जाया। शतऽवाही। कल्याणी। तल्पम्। आ। शये। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१२।
+न। अस्᳡ देव॒यज॑नय। जाया। शतऽवाही। कल्याणी। तल्पम्। आ। शये। यस्मिन्। राष्ट्रे। निऽरुध्यते। ब्रह्मऽजाया। अचित्त्या। १७.१२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

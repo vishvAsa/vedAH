@@ -22,7 +22,7 @@ Thou, still uninjured, shalt not die: be not afraid; thou shalt not die. Here wh
 
 <details><summary>पदपाठः</summary>
 
-सः। अरिष्ट। न। मरिष्यसि। न। मरिष्यसि। मा। ब‍िभेः। न। वै। तत्र। म्रियन्ते। नो  इति। यन्ति। अधमम्। तमः। २.२४।
+सः। अरिष्ट। न। मरिष्यसि। न। मरिष्यसि। मा। ब᳡ देव॒यज॑निभेः। न। वै। तत्र। म्रियन्ते। नो  इति। यन्ति। अधमम्। तमः। २.२४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
