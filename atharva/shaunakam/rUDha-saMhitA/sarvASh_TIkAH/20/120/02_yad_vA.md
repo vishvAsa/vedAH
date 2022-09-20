@@ -5,8 +5,7 @@ title = "०२ यद् वा"
 
 <details><summary>Griffith</summary>
 
-यद् वा॒ रुमे॒ रुश॑मे॒ श्याव॑के॒ कृप॒ इन्द्र॑ मा॒दय॑से॒ सचा॑ ।  
-कण्वा॑सस्त्वा॒ ब्रह्म॑भि॒ स्तोम॑वाहस॒ इन्द्रा य॑च्छ॒न्त्या ग॑हि ॥२॥
+Or, Indra, when with Ruma, Rusama, Syavaka, and Kripa thou rejoicest thee, Still do the Kanvas bring praises, with their prayers, O Indra, draw thee hither: come.
 </details>
 
 <details><summary>पदपाठः</summary>

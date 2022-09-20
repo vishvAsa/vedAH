@@ -5,8 +5,7 @@ title = "०१ यदिन्द्र प्रागपागुदङ्न
 
 <details><summary>Griffith</summary>
 
-यदि॑न्द्र॒ प्रागपा॒गुद॒ङ्न्यग् वा हू॒यसे॒ नृभिः॑ ।  
-सिमा॑ पु॒रू नृषू॑तो अ॒स्यान॒वेऽसि॑ प्रशर्ध तु॒र्वशे॑ ॥१॥
+Though, Indra, thou art called by men eastward and westward, north and south, [p. 357] Thou chiefly art with Anava and Turvasa, brave Champion! urged by men to come.
 </details>
 
 <details><summary>पदपाठः</summary>

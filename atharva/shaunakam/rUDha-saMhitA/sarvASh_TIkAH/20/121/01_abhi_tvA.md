@@ -5,10 +5,9 @@ title = "०१ अभि त्वा"
 
 <details><summary>Griffith</summary>
 
-id
-20.121.1    Though, Indra, thou art called by men eastward...
-20.121.1    Over the three great distances, past the Five ...
-Name: Comment, dtype: object
+1. Like kine unmilked we call aloud, hero, to thee, and sing thy praise,
+
+Looker on heavenly light, Lord of this moving world, Lord, Indra, of what moveth not!
 </details>
 
 <details><summary>पदपाठः</summary>
