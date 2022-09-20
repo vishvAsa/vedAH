@@ -5,7 +5,7 @@ title = "०८ आय वनेनती"
 
 <details><summary>Griffith</summary>
 
-The ladle doth not hold apart the entrails and the clotted blood.
+the entrails and the clotted blood.
 </details>
 
 <details><summary>पदपाठः</summary>

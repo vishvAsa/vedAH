@@ -5,7 +5,7 @@ title = "१८ अथो इयन्निति"
 
 <details><summary>Griffith</summary>
 
-अथो॑ इ॒यन्निति॑ ॥१८॥
+again the cry was, Here is he.
 </details>
 
 <details><summary>पदपाठः</summary>

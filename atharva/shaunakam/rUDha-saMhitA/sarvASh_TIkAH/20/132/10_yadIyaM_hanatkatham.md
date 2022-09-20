@@ -5,7 +5,7 @@ title = "१० यदीयं हनत्कथम्"
 
 <details><summary>Griffith</summary>
 
-यदी॒यं ह॑न॒त्कथं॑ हनत्॥१०॥
+How, if he beat it, will he beat?
 </details>
 
 <details><summary>पदपाठः</summary>

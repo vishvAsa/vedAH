@@ -5,7 +5,7 @@ title = "१६ इरावेदुमयं दत"
 
 <details><summary>Griffith</summary>
 
-इरा॑वेदु॒मयं॑ दत ॥१६॥
+Libation hath rejoiced the God.
 </details>
 
 <details><summary>पदपाठः</summary>

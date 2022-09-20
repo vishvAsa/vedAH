@@ -5,8 +5,7 @@ title = "०२ मातुष्टे किरणौ"
 
 <details><summary>Griffith</summary>
 
-मा॒तुष्टे कि॑रणौ॒ द्वौ निवृ॑त्तः॒ पुरु॑षानृते ।  
-न वै॑ कुमारि॒ तत्तथा॒ यथा॑ कुमारि॒ मन्य॑से ॥२॥
+Maiden, it truly is not so as thou, O maiden, fanciest. Two are thy mother's rays of light: the skin is guarded from the man.
 </details>
 
 <details><summary>पदपाठः</summary>

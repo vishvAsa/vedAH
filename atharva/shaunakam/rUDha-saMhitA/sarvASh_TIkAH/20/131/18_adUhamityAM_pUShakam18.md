@@ -5,7 +5,7 @@ title = "१८ अदूहमित्यां पूषकम्१८"
 
 <details><summary>Griffith</summary>
 
-अदू॑हमि॒त्यां पूष॑कम्॥१८॥
+The biestings only have they milked:
 </details>
 
 <details><summary>पदपाठः</summary>

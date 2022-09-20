@@ -5,7 +5,7 @@ title = "०५ एतं पृच्छ"
 
 <details><summary>Griffith</summary>
 
-A hundred golden steeds hath he, a hundred chariots wrought of gold.
+Question this man, Where do I ask?
 </details>
 
 <details><summary>पदपाठः</summary>

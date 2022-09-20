@@ -5,7 +5,7 @@ title = "०१ को अर्य"
 
 <details><summary>Griffith</summary>
 
-को अ॑र्य बहु॒लिमा॒ इषू॑नि ॥१॥
+Who carried off these stores of milk?
 </details>
 
 <details><summary>पदपाठः</summary>

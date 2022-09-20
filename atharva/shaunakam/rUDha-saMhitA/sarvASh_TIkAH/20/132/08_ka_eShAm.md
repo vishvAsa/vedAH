@@ -5,7 +5,7 @@ title = "०८ क एषाम्"
 
 <details><summary>Griffith</summary>
 
-क ए॑षां॒ कर्क॑री लिखत्॥८॥
+Who among these will touch the lute?
 </details>
 
 <details><summary>पदपाठः</summary>

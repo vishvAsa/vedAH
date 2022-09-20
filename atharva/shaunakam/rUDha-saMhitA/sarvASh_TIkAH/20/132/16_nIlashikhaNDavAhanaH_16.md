@@ -5,7 +5,7 @@ title = "१६ नीलशिखण्डवाहनः १६"
 
 <details><summary>Griffith</summary>
 
-नील॑शिखण्ड॒वाह॑नः ॥१६॥
+He with black tufts of hair shall strike.
 </details>
 
 <details><summary>पदपाठः</summary>

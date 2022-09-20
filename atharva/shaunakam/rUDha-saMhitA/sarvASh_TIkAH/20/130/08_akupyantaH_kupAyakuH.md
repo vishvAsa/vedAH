@@ -5,7 +5,7 @@ title = "०८ अकुप्यन्तः कुपायकुः"
 
 <details><summary>Griffith</summary>
 
-अकु॑प्यन्तः॒ कुपा॑यकुः ॥८॥
+The patient ones are angry now.
 </details>
 
 <details><summary>पदपाठः</summary>

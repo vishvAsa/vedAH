@@ -5,7 +5,7 @@ title = "१२ पर्यागारं पुनःपुनः"
 
 <details><summary>Griffith</summary>
 
-पर्या॑गारं॒ पुनः॑पुनः ॥१२॥
+beat again again about the house?
 </details>
 
 <details><summary>पदपाठः</summary>

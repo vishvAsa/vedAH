@@ -5,7 +5,7 @@ title = "२० दौव हस्तिनो"
 
 <details><summary>Griffith</summary>
 
-दौव॑ ह॒स्तिनो॑ दृ॒ती॥२०॥
+And two hides of an elephant.
 </details>
 
 <details><summary>पदपाठः</summary>

@@ -3,11 +3,6 @@ title = "०३ निगृह्य कर्णकौ"
 
 +++
 
-<details><summary>Griffith</summary>
-
-निगृ॑ह्य॒ कर्ण॑कौ॒ द्वौ निरा॑यच्छसि॒ मध्य॑मे ।  
-न वै॑ कुमारि॒ तत्तथा॒ यथा॑ कुमारि॒ मन्य॑से ॥३॥
-</details>
 
 <details><summary>पदपाठः</summary>
 

@@ -5,7 +5,8 @@ title = "१७ अथो इयन्नियन्निति"
 
 <details><summary>Griffith</summary>
 
-Asvattha, Dhava, Khadira, leaf taken from the Aratu.
+Then cried they.
+Here he is, and, Here;
 </details>
 
 <details><summary>पदपाठः</summary>

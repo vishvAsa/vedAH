@@ -5,7 +5,7 @@ title = "१५ वशायाः पुत्रमा"
 
 <details><summary>Griffith</summary>
 
-The plain domestic sacrifice, the sacrifice with burning dung.
+Hither to the cow's son they come.
 </details>
 
 <details><summary>पदपाठः</summary>

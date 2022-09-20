@@ -5,7 +5,7 @@ title = "०९ आमणको मणत्सकः"
 
 <details><summary>Griffith</summary>
 
-Lover of Kusa grass, Unploughed! Fat is not reckoned in the hoof.
+Undecked with gems, and decked with gems:
 </details>
 
 <details><summary>पदपाठः</summary>

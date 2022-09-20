@@ -5,7 +5,7 @@ title = "१३ त्रीण्युष्ट्रस्य नामान
 
 <details><summary>Griffith</summary>
 
-Three are the names the camel bears, Golden is one of them, he said.
+Three are the names the camel bears,
 </details>
 
 <details><summary>पदपाठः</summary>
