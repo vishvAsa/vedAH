@@ -24,12 +24,6 @@ Vedic Heritage site copy has errors (notified them on 2022/09/19). For example, 
 Further - `प्र॑ति॒स्ठाया॑म॒स्यां` in 5/24/0/16.
 
 Besides, Avagraha has been routinely used in place of jAtya-svarita symbol. Big confusion. "इन्द्रो॑ युनक्तु बहु॒धा वी॒ऽर्याण्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥११॥" ([sAtvalekar](https://vedicheritage.gov.in/flipbook/Atharvaveda_Subodh_Bhashya_Vol_II/#book/265))
-
-अधिका ऋचो ऽपि विद्यन्ते ([6/37](https://vedicheritage.gov.in/hi/samhitas/atharvaveda-samhitas/shaunaka-samhita/kanda-06-sukta-037/), replicated from 4/37 probably by mistake) -
-
-> स्वेवैकः॑ क॒पिरि॒वैकः॑ कुमा॒रः स॑र्वकेश॒कः ।  
-प्रियो दृश इ॑व भू॒त्वा ग॑न्ध॒र्वः स॑चते॒ स्त्रिय॑स्त॑मि॒तो ना॑शयामसि॒ ब्रह्म॑णा वी॒र्याऽवता ॥११॥
-
 </details>
 
 
