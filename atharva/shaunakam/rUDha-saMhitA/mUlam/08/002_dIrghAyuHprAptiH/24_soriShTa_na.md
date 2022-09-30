@@ -1,5 +1,5 @@
 +++
-title = "२४ सो\uf11eरिष्ट न"
+title = "२४ सोरिष्ट न"
 
 +++
 <details><summary>मूलम् (VS)</summary>

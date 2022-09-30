@@ -1,5 +1,5 @@
 +++
-title = "०४ सो\uf11eर्यमा स"
+title = "०४ सोर्यमा स"
 
 +++
 <details><summary>मूलम् (VS)</summary>

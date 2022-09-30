@@ -1,5 +1,5 @@
 +++
-title = "०२ न्य\uf184ग्वातो वाति"
+title = "०२ न्यग्वातो वाति"
 
 +++
 <details><summary>मूलम् (VS)</summary>

@@ -1,5 +1,5 @@
 +++
-title = "३५ वृषभो\uf11eसि स्वर्ग"
+title = "३५ वृषभोसि स्वर्ग"
 
 +++
 <details><summary>मूलम् (VS)</summary>

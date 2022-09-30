@@ -1,5 +1,5 @@
 +++
-title = "०७ त्वं ह्य\uf184ङ्ग"
+title = "०७ त्वं ह्यङ्ग"
 
 +++
 <details><summary>मूलम् (VS)</summary>

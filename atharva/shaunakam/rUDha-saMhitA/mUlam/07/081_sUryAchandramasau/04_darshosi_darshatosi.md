@@ -1,5 +1,5 @@
 +++
-title = "०४ दर्शो\uf11eसि दर्शतो\uf11eसि"
+title = "०४ दर्शोसि दर्शतोसि"
 
 +++
 <details><summary>मूलम् (VS)</summary>
