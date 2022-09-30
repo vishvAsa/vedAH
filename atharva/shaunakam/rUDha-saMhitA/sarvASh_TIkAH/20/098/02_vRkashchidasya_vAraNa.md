@@ -8,6 +8,11 @@ title = "०२ वृकश्चिदस्य वारण"
 As such, O Wonderful whose hand holds thunder, praised as mighty, Caster of the Stone. Pour on us boldly, Indra, kie and chariot-steeds, ever to be the conqueror's strength.
 </details>
 
+<details><summary>पदपाठः</summary>
+
+सः। त्वम्। न॒ः। चि॒त्र॒। व॒ज्र॒ऽह॒स्त॒। धृ॒ष्णु॒ऽया। म॒हः। स्त॒वा॒नः। अ॒द्रि॒ऽव॒ः। गाम्। अश्व॑म्। र॒थ्य॑म्। इ॒न्द्र। सम् कि॒र॒। स॒त्रा। वाज॑म्। न। जि॒ग्युषे॑। ९८.२। 
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रः
@@ -35,3 +40,4 @@ As such, O Wonderful whose hand holds thunder, praised as mighty, Caster of the 
 
 टिप्पणी:   २−(सः) (त्वम्) (नः) अस्मभ्यम् (चित्रे) अद्भुतस्वभाव (वज्रहस्त) शस्त्रपाणे (धृष्णुया) विभक्तेर्या-पा० ७।१।३९। धृष्णुः। प्रगल्भः (महः) महतः पुरुषान् (स्तवानः) प्रशंसन् (अद्रिवः) हे अन्नवन् (गाम्) वृषभम् (अश्वम्) तुरुङ्गम् (रथ्यम्) रथस्य वोढारम् (इन्द्र) महाप्रतापिन् राजन् (सं किर) संगृहाण (सत्रा) सत्येन (वाजम्) अन्नादिकम् (न) यथा (जिग्युषे) जयतेः-क्वसु। जयशीलस्य ॥
 </details>
+
